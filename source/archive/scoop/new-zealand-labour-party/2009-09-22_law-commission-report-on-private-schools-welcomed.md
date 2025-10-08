@@ -1,9 +1,13 @@
 ---
 slug: law-commission-report-on-private-schools-welcomed
-title: "Law Commission report on private schools welcomed"
-date: 2009-09-22
-source-url: https://www.scoop.co.nz/stories/PA0909/S00301/law-commission-report-on-private-schools-welcomed.htm
+title: Law Commission report on private schools welcomed
+date: 2009-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00301/law-commission-report-on-private-schools-welcomed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/09/22/law-commission-report-on-private-schools-welcomed/index.html
+layout: layout.njk
 ---
 Law Commission report on private schools welcomed
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: research-explains-why-we-see-barack-obama-as-black
-title: "Research explains why we see Barack Obama as \"black\""
-date: 2010-11-25
-source-url: https://www.scoop.co.nz/stories/SC1011/S00082/research-explains-why-we-see-barack-obama-as-black.htm
+title: Research explains why we see Barack Obama as "black"
+date: 2010-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1011/S00082/research-explains-why-we-see-barack-obama-as-black.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/11/25/research-explains-why-we-see-barack-obama-as-black/index.html
+layout: layout.njk
 ---
 Research explains why we see Barack Obama as “black”
 ====================================================

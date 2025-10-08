@@ -1,9 +1,12 @@
 ---
 slug: cullens-bps-fudged-and-flimsy
-title: "Cullen’s BPS: fudged and flimsy"
-date: 2000-03-08
-source-url: https://www.scoop.co.nz/stories/PA0003/S00122/cullens-bps-fudged-and-flimsy.htm
+title: 'Cullen’s BPS: fudged and flimsy'
+date: 2000-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00122/cullens-bps-fudged-and-flimsy.htm
 author: act-new-zealand
+permalink: /archive/2000/03/08/cullens-bps-fudged-and-flimsy/index.html
+layout: layout.njk
 ---
 Cullen’s BPS: fudged and flimsy
 ===============================

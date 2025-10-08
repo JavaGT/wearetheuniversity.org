@@ -1,9 +1,12 @@
 ---
 slug: heaphy-track-should-open-to-mountain-bikers
-title: "Heaphy Track should open to mountain bikers"
-date: 2009-06-17
-source-url: https://www.scoop.co.nz/stories/PA0906/S00205/heaphy-track-should-open-to-mountain-bikers.htm
+title: Heaphy Track should open to mountain bikers
+date: 2009-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00205/heaphy-track-should-open-to-mountain-bikers.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/17/heaphy-track-should-open-to-mountain-bikers/index.html
+layout: layout.njk
 ---
 Heaphy Track should open to mountain bikers
 ===========================================

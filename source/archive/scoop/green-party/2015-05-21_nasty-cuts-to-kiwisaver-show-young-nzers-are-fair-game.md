@@ -1,9 +1,13 @@
 ---
 slug: nasty-cuts-to-kiwisaver-show-young-nzers-are-fair-game
-title: "Nasty cuts to Kiwisaver show young NZers are fair game"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PA1505/S00383/nasty-cuts-to-kiwisaver-show-young-nzers-are-fair-game.htm
+title: Nasty cuts to Kiwisaver show young NZers are fair game
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00383/nasty-cuts-to-kiwisaver-show-young-nzers-are-fair-game.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/21/nasty-cuts-to-kiwisaver-show-young-nzers-are-fair-game/index.html
+layout: layout.njk
 ---
 Nasty cuts to Kiwisaver show young NZers are fair game
 ======================================================

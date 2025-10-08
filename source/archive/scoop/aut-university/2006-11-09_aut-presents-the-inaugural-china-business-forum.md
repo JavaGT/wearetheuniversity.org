@@ -1,9 +1,12 @@
 ---
 slug: aut-presents-the-inaugural-china-business-forum
-title: "AUT presents the inaugural China Business Forum"
-date: 2006-11-09
-source-url: https://www.scoop.co.nz/stories/BU0611/S00174/aut-presents-the-inaugural-china-business-forum.htm
+title: AUT presents the inaugural China Business Forum
+date: 2006-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0611/S00174/aut-presents-the-inaugural-china-business-forum.htm
 author: aut-university
+permalink: /archive/2006/11/09/aut-presents-the-inaugural-china-business-forum/index.html
+layout: layout.njk
 ---
 AUT presents the inaugural China Business Forum
 ===============================================

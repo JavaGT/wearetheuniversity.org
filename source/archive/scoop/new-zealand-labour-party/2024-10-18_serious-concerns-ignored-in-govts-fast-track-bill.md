@@ -1,9 +1,13 @@
 ---
 slug: serious-concerns-ignored-in-govts-fast-track-bill
-title: "Serious Concerns Ignored In Govt’s Fast Track Bill"
-date: 2024-10-18
-source-url: https://www.scoop.co.nz/stories/PA2410/S00150/serious-concerns-ignored-in-govts-fast-track-bill.htm
+title: Serious Concerns Ignored In Govt’s Fast Track Bill
+date: 2024-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00150/serious-concerns-ignored-in-govts-fast-track-bill.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/10/18/serious-concerns-ignored-in-govts-fast-track-bill/index.html
+layout: layout.njk
 ---
 Serious Concerns Ignored In Govt’s Fast Track Bill
 ==================================================

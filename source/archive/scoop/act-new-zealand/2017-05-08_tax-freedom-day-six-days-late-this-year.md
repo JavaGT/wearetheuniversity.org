@@ -1,9 +1,12 @@
 ---
 slug: tax-freedom-day-six-days-late-this-year
-title: "Tax Freedom Day six days late this year"
-date: 2017-05-08
-source-url: https://www.scoop.co.nz/stories/PA1705/S00150/tax-freedom-day-six-days-late-this-year.htm
+title: Tax Freedom Day six days late this year
+date: 2017-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00150/tax-freedom-day-six-days-late-this-year.htm
 author: act-new-zealand
+permalink: /archive/2017/05/08/tax-freedom-day-six-days-late-this-year/index.html
+layout: layout.njk
 ---
 Tax Freedom Day six days late this year
 =======================================

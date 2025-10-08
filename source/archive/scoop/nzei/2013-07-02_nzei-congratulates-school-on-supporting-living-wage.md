@@ -1,9 +1,13 @@
 ---
 slug: nzei-congratulates-school-on-supporting-living-wage
-title: "NZEI congratulates school on supporting living wage"
-date: 2013-07-02
-source-url: https://www.scoop.co.nz/stories/ED1307/S00012/nzei-congratulates-school-on-supporting-living-wage.htm
+title: NZEI congratulates school on supporting living wage
+date: 2013-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00012/nzei-congratulates-school-on-supporting-living-wage.htm
 author: nzei
+permalink: >-
+  /archive/2013/07/02/nzei-congratulates-school-on-supporting-living-wage/index.html
+layout: layout.njk
 ---
 NZEI congratulates school on supporting living wage
 ===================================================

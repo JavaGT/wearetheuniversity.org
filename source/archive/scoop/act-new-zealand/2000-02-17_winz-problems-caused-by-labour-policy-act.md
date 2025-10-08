@@ -1,9 +1,12 @@
 ---
 slug: winz-problems-caused-by-labour-policy-act
-title: "WINZ Problems Caused By Labour Policy - ACT"
-date: 2000-02-17
-source-url: https://www.scoop.co.nz/stories/PA0002/S00222/winz-problems-caused-by-labour-policy-act.htm
+title: WINZ Problems Caused By Labour Policy - ACT
+date: 2000-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00222/winz-problems-caused-by-labour-policy-act.htm
 author: act-new-zealand
+permalink: /archive/2000/02/17/winz-problems-caused-by-labour-policy-act/index.html
+layout: layout.njk
 ---
 WINZ Problems Caused By Labour Policy - ACT
 ===========================================

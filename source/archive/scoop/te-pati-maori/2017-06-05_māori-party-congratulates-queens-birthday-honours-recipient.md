@@ -1,9 +1,12 @@
 ---
 slug: māori-party-congratulates-queens-birthday-honours-recipient
-title: "Māori Party congratulates Queen’s Birthday Honours recipient"
-date: 2017-06-05
-source-url: https://www.scoop.co.nz/stories/PA1706/S00069/maori-party-congratulates-queens-birthday-honours-recipient.htm
+title: Māori Party congratulates Queen’s Birthday Honours recipient
+date: 2017-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00069/maori-party-congratulates-queens-birthday-honours-recipient.htm
 author: te-pati-maori
+permalink: /archive/2017/06/05/m/index.html
+layout: layout.njk
 ---
 Māori Party congratulates Queen’s Birthday Honours recipient
 ============================================================

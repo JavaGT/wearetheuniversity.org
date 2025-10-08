@@ -1,8 +1,11 @@
 ---
 slug: five-actions-to-save-our-oceans
-title: "Five actions to save our oceans"
-date: 2017-06-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/five-actions-to-save-our-oceans.html
+title: Five actions to save our oceans
+date: 2017-06-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/five-actions-to-save-our-oceans.html
+permalink: /archive/2017/06/26/five-actions-to-save-our-oceans/index.html
+layout: layout.njk
 ---
 Five actions to save our oceans
 ===============================

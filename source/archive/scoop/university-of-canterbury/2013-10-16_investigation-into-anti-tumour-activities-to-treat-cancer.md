@@ -1,9 +1,13 @@
 ---
 slug: investigation-into-anti-tumour-activities-to-treat-cancer
-title: "Investigation into anti-tumour activities to treat cancer"
-date: 2013-10-16
-source-url: https://www.scoop.co.nz/stories/GE1310/S00087/investigation-into-anti-tumour-activities-to-treat-cancer.htm
+title: Investigation into anti-tumour activities to treat cancer
+date: 2013-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1310/S00087/investigation-into-anti-tumour-activities-to-treat-cancer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/16/investigation-into-anti-tumour-activities-to-treat-cancer/index.html
+layout: layout.njk
 ---
 Investigation into anti-tumour activities to treat cancer
 =========================================================

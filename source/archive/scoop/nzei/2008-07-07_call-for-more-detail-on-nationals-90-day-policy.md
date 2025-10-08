@@ -1,9 +1,12 @@
 ---
 slug: call-for-more-detail-on-nationals-90-day-policy
-title: "Call For More Detail On National's 90 Day Policy"
-date: 2008-07-07
-source-url: https://www.scoop.co.nz/stories/PO0807/S00094/call-for-more-detail-on-nationals-90-day-policy.htm
+title: Call For More Detail On National's 90 Day Policy
+date: 2008-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00094/call-for-more-detail-on-nationals-90-day-policy.htm
 author: nzei
+permalink: /archive/2008/07/07/call-for-more-detail-on-nationals-90-day-policy/index.html
+layout: layout.njk
 ---
 Call For More Detail On National's 90 Day Policy
 ================================================

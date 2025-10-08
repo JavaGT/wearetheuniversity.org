@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-set-to-develop-new-diabetes-treatment
-title: "Otago researchers set to develop new diabetes treatment"
-date: 2015-08-18
-source-url: https://www.scoop.co.nz/stories/GE1508/S00060/otago-researchers-set-to-develop-new-diabetes-treatment.htm
+title: Otago researchers set to develop new diabetes treatment
+date: 2015-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1508/S00060/otago-researchers-set-to-develop-new-diabetes-treatment.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/08/18/otago-researchers-set-to-develop-new-diabetes-treatment/index.html
+layout: layout.njk
 ---
 Otago researchers set to develop new diabetes treatment
 =======================================================

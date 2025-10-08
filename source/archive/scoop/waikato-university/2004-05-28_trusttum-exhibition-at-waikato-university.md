@@ -1,9 +1,12 @@
 ---
 slug: trusttum-exhibition-at-waikato-university
-title: "Trusttum Exhibition At Waikato University"
-date: 2004-05-28
-source-url: https://www.scoop.co.nz/stories/ED0405/S00120/trusttum-exhibition-at-waikato-university.htm
+title: Trusttum Exhibition At Waikato University
+date: 2004-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00120/trusttum-exhibition-at-waikato-university.htm
 author: waikato-university
+permalink: /archive/2004/05/28/trusttum-exhibition-at-waikato-university/index.html
+layout: layout.njk
 ---
 Trusttum Exhibition At Waikato University
 =========================================

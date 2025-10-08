@@ -1,9 +1,16 @@
 ---
-slug: young-new-zealand-first-calls-on-universities-to-honour-the-principles-of-equal-access-to-education
-title: "Young New Zealand First Calls On Universities To Honour The Principles Of Equal Access To Education"
-date: 2021-12-01
-source-url: https://www.scoop.co.nz/stories/PO2112/S00013/young-new-zealand-first-calls-on-universities-to-honour-the-principles-of-equal-access-to-education.htm
+slug: >-
+  young-new-zealand-first-calls-on-universities-to-honour-the-principles-of-equal-access-to-education
+title: >-
+  Young New Zealand First Calls On Universities To Honour The Principles Of
+  Equal Access To Education
+date: 2021-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2112/S00013/young-new-zealand-first-calls-on-universities-to-honour-the-principles-of-equal-access-to-education.htm
 author: young-new-zealand-first
+permalink: >-
+  /archive/2021/12/01/young-new-zealand-first-calls-on-universities-to-honour-the-principles-of-equal-access-to-education/index.html
+layout: layout.njk
 ---
 Young New Zealand First Calls On Universities To Honour The Principles Of Equal Access To Education
 ===================================================================================================

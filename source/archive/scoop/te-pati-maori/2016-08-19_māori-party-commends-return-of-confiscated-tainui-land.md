@@ -1,9 +1,12 @@
 ---
 slug: māori-party-commends-return-of-confiscated-tainui-land
-title: "Māori Party commends return of confiscated Tainui land"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/PA1608/S00347/maori-party-commends-return-of-confiscated-tainui-land.htm
+title: Māori Party commends return of confiscated Tainui land
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00347/maori-party-commends-return-of-confiscated-tainui-land.htm
 author: te-pati-maori
+permalink: /archive/2016/08/19/m/index.html
+layout: layout.njk
 ---
 Māori Party commends return of confiscated Tainui land
 ======================================================

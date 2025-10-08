@@ -1,9 +1,12 @@
 ---
 slug: act-proposes-bill-to-protect-volunteers
-title: "ACT Proposes Bill to Protect Volunteers"
-date: 2002-07-01
-source-url: https://www.scoop.co.nz/stories/PA0207/S00010/act-proposes-bill-to-protect-volunteers.htm
+title: ACT Proposes Bill to Protect Volunteers
+date: 2002-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00010/act-proposes-bill-to-protect-volunteers.htm
 author: act-new-zealand
+permalink: /archive/2002/07/01/act-proposes-bill-to-protect-volunteers/index.html
+layout: layout.njk
 ---
 ACT Proposes Bill to Protect Volunteers
 =======================================

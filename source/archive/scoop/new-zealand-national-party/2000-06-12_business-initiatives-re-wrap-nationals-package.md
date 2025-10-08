@@ -1,9 +1,12 @@
 ---
 slug: business-initiatives-re-wrap-nationals-package
-title: "Business initiatives re-wrap National's package"
-date: 2000-06-12
-source-url: https://www.scoop.co.nz/stories/PA0006/S00219/business-initiatives-re-wrap-nationals-package.htm
+title: Business initiatives re-wrap National's package
+date: 2000-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00219/business-initiatives-re-wrap-nationals-package.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/12/business-initiatives-re-wrap-nationals-package/index.html
+layout: layout.njk
 ---
 Business initiatives re-wrap National's package
 ===============================================

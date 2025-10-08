@@ -1,9 +1,13 @@
 ---
 slug: critical-approaches-series-edited-by-new-zealanders
-title: "Critical Approaches series edited by New Zealanders"
-date: 2013-11-28
-source-url: https://www.scoop.co.nz/stories/GE1311/S00161/critical-approaches-series-edited-by-new-zealanders.htm
+title: Critical Approaches series edited by New Zealanders
+date: 2013-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1311/S00161/critical-approaches-series-edited-by-new-zealanders.htm
 author: massey-university
+permalink: >-
+  /archive/2013/11/28/critical-approaches-series-edited-by-new-zealanders/index.html
+layout: layout.njk
 ---
 Critical Approaches series edited by New Zealanders
 ===================================================

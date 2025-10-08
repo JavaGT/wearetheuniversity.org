@@ -1,9 +1,12 @@
 ---
 slug: serious-risks-to-tenants-and-assets-in-sell-off
-title: "Serious risks to tenants and assets in sell-off"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/PA1506/S00528/serious-risks-to-tenants-and-assets-in-sell-off.htm
+title: Serious risks to tenants and assets in sell-off
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00528/serious-risks-to-tenants-and-assets-in-sell-off.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/30/serious-risks-to-tenants-and-assets-in-sell-off/index.html
+layout: layout.njk
 ---
 Serious risks to tenants and assets in sell-off
 ===============================================

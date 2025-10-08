@@ -1,9 +1,11 @@
 ---
 slug: students-win-epic-orc-battle
-title: "Students win epic ORC battle"
-date: 2014-07-12
+title: Students win epic ORC battle
+date: 2014-07-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1407/S00221/students-win-epic-orc-battle.htm
 author: ousa
+permalink: /archive/2014/07/12/students-win-epic-orc-battle/index.html
+layout: layout.njk
 ---
 Students win epic ORC battle
 ============================

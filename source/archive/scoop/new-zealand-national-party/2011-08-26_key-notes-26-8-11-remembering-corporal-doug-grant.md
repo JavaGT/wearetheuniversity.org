@@ -1,9 +1,13 @@
 ---
 slug: key-notes-26-8-11-remembering-corporal-doug-grant
-title: "Key Notes 26/8/11: Remembering Corporal Doug Grant"
-date: 2011-08-26
-source-url: https://www.scoop.co.nz/stories/PA1108/S00539/key-notes-26811-remembering-corporal-doug-grant.htm
+title: 'Key Notes 26/8/11: Remembering Corporal Doug Grant'
+date: 2011-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00539/key-notes-26811-remembering-corporal-doug-grant.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/08/26/key-notes-26-8-11-remembering-corporal-doug-grant/index.html
+layout: layout.njk
 ---
 Key Notes 26/8/11: Remembering Corporal Doug Grant
 ==================================================

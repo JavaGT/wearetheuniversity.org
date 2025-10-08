@@ -1,9 +1,12 @@
 ---
 slug: 1-nation-2-days-6-cities-40-signs-of-change
-title: "1 nation, 2 days, 6 cities, 40 signs of change"
-date: 2010-10-06
-source-url: https://www.scoop.co.nz/stories/SC1010/S00012/1-nation-2-days-6-cities-40-signs-of-change.htm
+title: 1 nation, 2 days, 6 cities, 40 signs of change
+date: 2010-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1010/S00012/1-nation-2-days-6-cities-40-signs-of-change.htm
 author: university-of-canterbury
+permalink: /archive/2010/10/06/1-nation-2-days-6-cities-40-signs-of-change/index.html
+layout: layout.njk
 ---
 1 nation, 2 days, 6 cities, 40 signs of change
 ==============================================

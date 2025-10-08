@@ -1,9 +1,12 @@
 ---
 slug: lincoln-&-top-chinese-university-to-share-research
-title: "Lincoln & Top Chinese University To Share Research"
-date: 2010-07-17
-source-url: https://www.scoop.co.nz/stories/ED1007/S00060/lincoln-top-chinese-university-to-share-research.htm
+title: Lincoln & Top Chinese University To Share Research
+date: 2010-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00060/lincoln-top-chinese-university-to-share-research.htm
 author: lincoln-university
+permalink: /archive/2010/07/17/lincoln-/index.html
+layout: layout.njk
 ---
 Lincoln & Top Chinese University To Share Research
 ==================================================

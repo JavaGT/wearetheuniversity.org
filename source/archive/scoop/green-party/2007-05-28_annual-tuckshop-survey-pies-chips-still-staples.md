@@ -1,9 +1,12 @@
 ---
 slug: annual-tuckshop-survey-pies-chips-still-staples
-title: "Annual tuckshop survey: pies, chips still staples"
-date: 2007-05-28
-source-url: https://www.scoop.co.nz/stories/PA0705/S00707/annual-tuckshop-survey-pies-chips-still-staples.htm
+title: 'Annual tuckshop survey: pies, chips still staples'
+date: 2007-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00707/annual-tuckshop-survey-pies-chips-still-staples.htm
 author: green-party
+permalink: /archive/2007/05/28/annual-tuckshop-survey-pies-chips-still-staples/index.html
+layout: layout.njk
 ---
 Annual tuckshop survey: pies, chips still staples
 =================================================

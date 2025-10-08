@@ -1,9 +1,13 @@
 ---
 slug: new-acts-threaten-credibility-of-tertiary-sector
-title: "New Acts threaten credibility of tertiary sector"
-date: 2002-12-05
-source-url: https://www.scoop.co.nz/stories/PA0212/S00150/new-acts-threaten-credibility-of-tertiary-sector.htm
+title: New Acts threaten credibility of tertiary sector
+date: 2002-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00150/new-acts-threaten-credibility-of-tertiary-sector.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/12/05/new-acts-threaten-credibility-of-tertiary-sector/index.html
+layout: layout.njk
 ---
 New Acts threaten credibility of tertiary sector
 ================================================

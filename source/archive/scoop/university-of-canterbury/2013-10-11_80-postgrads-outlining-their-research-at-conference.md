@@ -1,9 +1,13 @@
 ---
 slug: 80-postgrads-outlining-their-research-at-conference
-title: "80 postgrads outlining their research at conference"
-date: 2013-10-11
-source-url: https://www.scoop.co.nz/stories/ED1310/S00086/80-postgrads-outlining-their-research-at-conference.htm
+title: 80 postgrads outlining their research at conference
+date: 2013-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00086/80-postgrads-outlining-their-research-at-conference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/11/80-postgrads-outlining-their-research-at-conference/index.html
+layout: layout.njk
 ---
 80 postgrads outlining their research at conference
 ===================================================

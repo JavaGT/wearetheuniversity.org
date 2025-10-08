@@ -1,9 +1,12 @@
 ---
 slug: jacinda-arderns-speech-to-congress-2017
-title: "Jacinda Ardern’s speech to Congress 2017"
-date: 2017-05-13
-source-url: https://www.scoop.co.nz/stories/PA1705/S00291/jacinda-arderns-speech-to-congress-2017.htm
+title: Jacinda Ardern’s speech to Congress 2017
+date: 2017-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00291/jacinda-arderns-speech-to-congress-2017.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/13/jacinda-arderns-speech-to-congress-2017/index.html
+layout: layout.njk
 ---
 Jacinda Ardern’s speech to Congress 2017
 ========================================

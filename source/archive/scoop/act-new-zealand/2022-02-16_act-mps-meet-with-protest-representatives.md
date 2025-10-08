@@ -1,9 +1,12 @@
 ---
 slug: act-mps-meet-with-protest-representatives
-title: "ACT MPs Meet With Protest Representatives"
-date: 2022-02-16
-source-url: https://www.scoop.co.nz/stories/PA2202/S00102/act-mps-meet-with-protest-representatives.htm
+title: ACT MPs Meet With Protest Representatives
+date: 2022-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00102/act-mps-meet-with-protest-representatives.htm
 author: act-new-zealand
+permalink: /archive/2022/02/16/act-mps-meet-with-protest-representatives/index.html
+layout: layout.njk
 ---
 ACT MPs Meet With Protest Representatives
 =========================================

@@ -1,9 +1,16 @@
 ---
-slug: greens-call-for-students-to-be-lifted-out-of-poverty-with-guaranteed-minimum-income
-title: "Greens Call For Students To Be Lifted Out Of Poverty With Guaranteed Minimum Income"
-date: 2020-08-21
-source-url: https://www.scoop.co.nz/stories/PO2008/S00265/greens-call-for-students-to-be-lifted-out-of-poverty-with-guaranteed-minimum-income.htm
+slug: >-
+  greens-call-for-students-to-be-lifted-out-of-poverty-with-guaranteed-minimum-income
+title: >-
+  Greens Call For Students To Be Lifted Out Of Poverty With Guaranteed Minimum
+  Income
+date: 2020-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00265/greens-call-for-students-to-be-lifted-out-of-poverty-with-guaranteed-minimum-income.htm
 author: green-party
+permalink: >-
+  /archive/2020/08/21/greens-call-for-students-to-be-lifted-out-of-poverty-with-guaranteed-minimum-income/index.html
+layout: layout.njk
 ---
 Greens Call For Students To Be Lifted Out Of Poverty With Guaranteed Minimum Income
 ===================================================================================

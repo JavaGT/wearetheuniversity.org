@@ -1,9 +1,12 @@
 ---
 slug: what-if-computers-could-save-lives
-title: "What If... Computers Could Save Lives?"
-date: 2015-08-24
-source-url: https://www.scoop.co.nz/stories/SC1508/S00044/what-if-computers-could-save-lives.htm
+title: What If... Computers Could Save Lives?
+date: 2015-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1508/S00044/what-if-computers-could-save-lives.htm
 author: university-of-canterbury
+permalink: /archive/2015/08/24/what-if-computers-could-save-lives/index.html
+layout: layout.njk
 ---
 What If... Computers Could Save Lives?
 ======================================

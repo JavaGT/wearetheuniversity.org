@@ -1,9 +1,13 @@
 ---
 slug: valuing-nature-the-key-to-nzs-future-public-talk
-title: "Valuing nature the key to NZ’s future – public talk"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/ED1310/S00072/valuing-nature-the-key-to-nzs-future-public-talk.htm
+title: Valuing nature the key to NZ’s future – public talk
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00072/valuing-nature-the-key-to-nzs-future-public-talk.htm
 author: massey-university
+permalink: >-
+  /archive/2013/10/09/valuing-nature-the-key-to-nzs-future-public-talk/index.html
+layout: layout.njk
 ---
 Valuing nature the key to NZ’s future – public talk
 ===================================================

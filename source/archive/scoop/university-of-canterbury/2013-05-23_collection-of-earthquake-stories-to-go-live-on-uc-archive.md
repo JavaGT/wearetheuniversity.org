@@ -1,9 +1,13 @@
 ---
 slug: collection-of-earthquake-stories-to-go-live-on-uc-archive
-title: "Collection of Earthquake Stories to Go Live On UC Archive"
-date: 2013-05-23
-source-url: https://www.scoop.co.nz/stories/CU1305/S00397/collection-of-earthquake-stories-to-go-live-on-uc-archive.htm
+title: Collection of Earthquake Stories to Go Live On UC Archive
+date: 2013-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1305/S00397/collection-of-earthquake-stories-to-go-live-on-uc-archive.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/23/collection-of-earthquake-stories-to-go-live-on-uc-archive/index.html
+layout: layout.njk
 ---
 Collection of Earthquake Stories to Go Live On UC Archive
 =========================================================

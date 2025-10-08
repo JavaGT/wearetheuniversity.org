@@ -1,9 +1,12 @@
 ---
 slug: the-column-families-an-endangered-species
-title: "The Column: Families An Endangered Species"
-date: 2003-08-06
-source-url: https://www.scoop.co.nz/stories/PA0308/S00096/the-column-families-an-endangered-species.htm
+title: 'The Column: Families An Endangered Species'
+date: 2003-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00096/the-column-families-an-endangered-species.htm
 author: act-new-zealand
+permalink: /archive/2003/08/06/the-column-families-an-endangered-species/index.html
+layout: layout.njk
 ---
 The Column: Families An Endangered Species
 ==========================================

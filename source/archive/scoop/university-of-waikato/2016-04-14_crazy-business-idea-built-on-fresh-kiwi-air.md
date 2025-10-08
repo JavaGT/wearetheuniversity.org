@@ -1,9 +1,12 @@
 ---
 slug: crazy-business-idea-built-on-fresh-kiwi-air
-title: "‘Crazy’ business idea built on fresh Kiwi air"
-date: 2016-04-14
-source-url: https://www.scoop.co.nz/stories/SC1604/S00027/crazy-business-idea-built-on-fresh-kiwi-air.htm
+title: ‘Crazy’ business idea built on fresh Kiwi air
+date: 2016-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00027/crazy-business-idea-built-on-fresh-kiwi-air.htm
 author: university-of-waikato
+permalink: /archive/2016/04/14/crazy-business-idea-built-on-fresh-kiwi-air/index.html
+layout: layout.njk
 ---
 ‘Crazy’ business idea built on fresh Kiwi air
 =============================================

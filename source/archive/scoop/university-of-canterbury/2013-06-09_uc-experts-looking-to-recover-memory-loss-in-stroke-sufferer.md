@@ -1,9 +1,13 @@
 ---
 slug: uc-experts-looking-to-recover-memory-loss-in-stroke-sufferer
-title: "UC experts looking to recover memory loss in stroke sufferer"
-date: 2013-06-09
-source-url: https://www.scoop.co.nz/stories/ED1306/S00044/uc-experts-looking-to-recover-memory-loss-in-stroke-sufferer.htm
+title: UC experts looking to recover memory loss in stroke sufferer
+date: 2013-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00044/uc-experts-looking-to-recover-memory-loss-in-stroke-sufferer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/09/uc-experts-looking-to-recover-memory-loss-in-stroke-sufferer/index.html
+layout: layout.njk
 ---
 UC experts looking to recover memory loss in stroke sufferer
 ============================================================

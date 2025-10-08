@@ -1,9 +1,12 @@
 ---
 slug: bennetts-not-me-itis-doesnt-inspire-confidence
-title: "Bennett’s ‘not-me-itis’ doesn’t inspire confidence"
-date: 2012-10-30
-source-url: https://www.scoop.co.nz/stories/PA1210/S00512/bennetts-not-me-itis-doesnt-inspire-confidence.htm
+title: Bennett’s ‘not-me-itis’ doesn’t inspire confidence
+date: 2012-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00512/bennetts-not-me-itis-doesnt-inspire-confidence.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/30/bennetts-not-me-itis-doesnt-inspire-confidence/index.html
+layout: layout.njk
 ---
 Bennett’s ‘not-me-itis’ doesn’t inspire confidence
 ==================================================

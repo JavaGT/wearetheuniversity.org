@@ -1,9 +1,13 @@
 ---
 slug: engineers-launch-new-building-system-to-protect-houses-in-a-quake
-title: "Engineers Launch New Building System To Protect Houses In A Quake"
-date: 2022-10-12
-source-url: https://www.scoop.co.nz/stories/SC2210/S00033/engineers-launch-new-building-system-to-protect-houses-in-a-quake.htm
+title: Engineers Launch New Building System To Protect Houses In A Quake
+date: 2022-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2210/S00033/engineers-launch-new-building-system-to-protect-houses-in-a-quake.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/10/12/engineers-launch-new-building-system-to-protect-houses-in-a-quake/index.html
+layout: layout.njk
 ---
 Engineers Launch New Building System To Protect Houses In A Quake
 =================================================================

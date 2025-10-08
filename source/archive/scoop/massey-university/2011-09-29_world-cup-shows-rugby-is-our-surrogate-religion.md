@@ -1,9 +1,12 @@
 ---
 slug: world-cup-shows-rugby-is-our-surrogate-religion
-title: "World cup shows rugby is our ‘surrogate religion’"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/ED1109/S00129/world-cup-shows-rugby-is-our-surrogate-religion.htm
+title: World cup shows rugby is our ‘surrogate religion’
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00129/world-cup-shows-rugby-is-our-surrogate-religion.htm
 author: massey-university
+permalink: /archive/2011/09/29/world-cup-shows-rugby-is-our-surrogate-religion/index.html
+layout: layout.njk
 ---
 World cup shows rugby is our ‘surrogate religion’
 =================================================

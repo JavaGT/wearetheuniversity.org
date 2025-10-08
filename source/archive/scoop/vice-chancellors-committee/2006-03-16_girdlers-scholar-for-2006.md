@@ -1,9 +1,11 @@
 ---
 slug: girdlers-scholar-for-2006
-title: "Girdlers’ Scholar for 2006"
-date: 2006-03-16
+title: Girdlers’ Scholar for 2006
+date: 2006-03-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0603/S00043/girdlers-scholar-for-2006.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/03/16/girdlers-scholar-for-2006/index.html
+layout: layout.njk
 ---
 Girdlers’ Scholar for 2006
 ==========================

@@ -1,9 +1,13 @@
 ---
 slug: symposium-explores-the-future-of-plant-protection
-title: "Symposium explores the future of plant protection"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/SC1512/S00006/symposium-explores-the-future-of-plant-protection.htm
+title: Symposium explores the future of plant protection
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00006/symposium-explores-the-future-of-plant-protection.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/12/01/symposium-explores-the-future-of-plant-protection/index.html
+layout: layout.njk
 ---
 Symposium explores the future of plant protection
 =================================================

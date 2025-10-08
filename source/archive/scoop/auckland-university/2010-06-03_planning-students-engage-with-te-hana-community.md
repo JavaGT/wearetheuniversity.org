@@ -1,9 +1,12 @@
 ---
 slug: planning-students-engage-with-te-hana-community
-title: "Planning students engage with Te Hana community"
-date: 2010-06-03
-source-url: https://www.scoop.co.nz/stories/ED1006/S00018/planning-students-engage-with-te-hana-community.htm
+title: Planning students engage with Te Hana community
+date: 2010-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00018/planning-students-engage-with-te-hana-community.htm
 author: auckland-university
+permalink: /archive/2010/06/03/planning-students-engage-with-te-hana-community/index.html
+layout: layout.njk
 ---
 Planning students engage with Te Hana community
 ===============================================

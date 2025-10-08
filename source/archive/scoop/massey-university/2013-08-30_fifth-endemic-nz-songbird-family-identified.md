@@ -1,9 +1,12 @@
 ---
 slug: fifth-endemic-nz-songbird-family-identified
-title: "Fifth endemic NZ songbird family identified"
-date: 2013-08-30
-source-url: https://www.scoop.co.nz/stories/SC1308/S00073/fifth-endemic-nz-songbird-family-identified.htm
+title: Fifth endemic NZ songbird family identified
+date: 2013-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00073/fifth-endemic-nz-songbird-family-identified.htm
 author: massey-university
+permalink: /archive/2013/08/30/fifth-endemic-nz-songbird-family-identified/index.html
+layout: layout.njk
 ---
 Fifth endemic NZ songbird family identified
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: limited-alignment-between-strategy-9-point-plan
-title: "Limited Alignment Between Strategy, 9-Point Plan"
-date: 2009-10-13
-source-url: https://www.scoop.co.nz/stories/ED0910/S00056/limited-alignment-between-strategy-9-point-plan.htm
+title: Limited Alignment Between Strategy, 9-Point Plan
+date: 2009-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00056/limited-alignment-between-strategy-9-point-plan.htm
 author: nzvcc
+permalink: /archive/2009/10/13/limited-alignment-between-strategy-9-point-plan/index.html
+layout: layout.njk
 ---
 Limited Alignment Between Strategy, 9-Point Plan
 ================================================

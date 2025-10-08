@@ -1,9 +1,12 @@
 ---
 slug: money-helps-but-money-is-not-the-answer
-title: "Money helps, But Money Is Not The Answer"
-date: 1999-11-10
-source-url: https://www.scoop.co.nz/stories/PA9911/S00248/money-helps-but-money-is-not-the-answer.htm
+title: Money helps, But Money Is Not The Answer
+date: 1999-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00248/money-helps-but-money-is-not-the-answer.htm
 author: new-zealand-first-party
+permalink: /archive/1999/11/10/money-helps-but-money-is-not-the-answer/index.html
+layout: layout.njk
 ---
 Money helps, But Money Is Not The Answer
 ========================================

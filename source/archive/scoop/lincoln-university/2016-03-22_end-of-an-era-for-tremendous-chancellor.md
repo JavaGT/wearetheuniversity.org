@@ -1,9 +1,12 @@
 ---
 slug: end-of-an-era-for-tremendous-chancellor
-title: "End of an era for ‘tremendous’ Chancellor"
-date: 2016-03-22
-source-url: https://www.scoop.co.nz/stories/ED1603/S00086/end-of-an-era-for-tremendous-chancellor.htm
+title: End of an era for ‘tremendous’ Chancellor
+date: 2016-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00086/end-of-an-era-for-tremendous-chancellor.htm
 author: lincoln-university
+permalink: /archive/2016/03/22/end-of-an-era-for-tremendous-chancellor/index.html
+layout: layout.njk
 ---
 End of an era for ‘tremendous’ Chancellor
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: revitalising-heritage-for-contemporary-student-space
-title: "Revitalising heritage for contemporary student space"
-date: 2016-02-12
-source-url: https://www.scoop.co.nz/stories/ED1602/S00048/revitalising-heritage-for-contemporary-student-space.htm
+title: Revitalising heritage for contemporary student space
+date: 2016-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00048/revitalising-heritage-for-contemporary-student-space.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/02/12/revitalising-heritage-for-contemporary-student-space/index.html
+layout: layout.njk
 ---
 Revitalising heritage for contemporary student space
 ====================================================

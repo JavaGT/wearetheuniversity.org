@@ -1,9 +1,12 @@
 ---
 slug: government-kickbacks-break-their-own-law
-title: "Government Kickbacks Break Their Own Law"
-date: 2002-11-27
-source-url: https://www.scoop.co.nz/stories/PA0211/S00634/government-kickbacks-break-their-own-law.htm
+title: Government Kickbacks Break Their Own Law
+date: 2002-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00634/government-kickbacks-break-their-own-law.htm
 author: act-new-zealand
+permalink: /archive/2002/11/27/government-kickbacks-break-their-own-law/index.html
+layout: layout.njk
 ---
 Government Kickbacks Break Their Own Law
 ========================================

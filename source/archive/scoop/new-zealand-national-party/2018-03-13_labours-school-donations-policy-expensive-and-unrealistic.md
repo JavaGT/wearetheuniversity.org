@@ -1,9 +1,13 @@
 ---
 slug: labours-school-donations-policy-expensive-and-unrealistic
-title: "Labour’s school donations policy expensive and unrealistic"
-date: 2018-03-13
-source-url: https://www.scoop.co.nz/stories/PA1803/S00122/labours-school-donations-policy-expensive-and-unrealistic.htm
+title: Labour’s school donations policy expensive and unrealistic
+date: 2018-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00122/labours-school-donations-policy-expensive-and-unrealistic.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/03/13/labours-school-donations-policy-expensive-and-unrealistic/index.html
+layout: layout.njk
 ---
 Labour’s school donations policy expensive and unrealistic
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: at-long-last-lake-omapere-u-turn-welcomed
-title: "At Long Last: Lake Omapere U-turn Welcomed"
-date: 2001-09-20
-source-url: https://www.scoop.co.nz/stories/PA0109/S00324/at-long-last-lake-omapere-u-turn-welcomed.htm
+title: 'At Long Last: Lake Omapere U-turn Welcomed'
+date: 2001-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00324/at-long-last-lake-omapere-u-turn-welcomed.htm
 author: act-new-zealand
+permalink: /archive/2001/09/20/at-long-last-lake-omapere-u-turn-welcomed/index.html
+layout: layout.njk
 ---
 At Long Last: Lake Omapere U-turn Welcomed
 ==========================================

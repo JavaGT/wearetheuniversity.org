@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-350
-title: "Maxim Institute - Real Issues No. 350"
-date: 2009-10-09
-source-url: https://www.scoop.co.nz/stories/PO0910/S00127/maxim-institute-real-issues-no-350.htm
+title: Maxim Institute - Real Issues No. 350
+date: 2009-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00127/maxim-institute-real-issues-no-350.htm
 author: maxim-institute
+permalink: /archive/2009/10/09/maxim-institute-real-issues-no-350/index.html
+layout: layout.njk
 ---
 Maxim Institute - Real Issues No. 350
 =====================================

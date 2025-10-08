@@ -1,9 +1,12 @@
 ---
 slug: fourth-reprint-of-patched-by-jarrod-gilbert
-title: "Fourth reprint of 'Patched' by Jarrod Gilbert"
-date: 2016-02-26
-source-url: https://www.scoop.co.nz/stories/ED1602/S00086/fourth-reprint-of-patched-by-jarrod-gilbert.htm
+title: Fourth reprint of 'Patched' by Jarrod Gilbert
+date: 2016-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00086/fourth-reprint-of-patched-by-jarrod-gilbert.htm
 author: auckland-university-press
+permalink: /archive/2016/02/26/fourth-reprint-of-patched-by-jarrod-gilbert/index.html
+layout: layout.njk
 ---
 Fourth reprint of 'Patched' by Jarrod Gilbert
 =============================================

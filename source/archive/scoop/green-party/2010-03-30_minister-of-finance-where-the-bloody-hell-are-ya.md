@@ -1,9 +1,13 @@
 ---
 slug: minister-of-finance-where-the-bloody-hell-are-ya
-title: "Minister of Finance: where the bloody hell are ya?"
-date: 2010-03-30
-source-url: https://www.scoop.co.nz/stories/PA1003/S00474/minister-of-finance-where-the-bloody-hell-are-ya.htm
+title: 'Minister of Finance: where the bloody hell are ya?'
+date: 2010-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00474/minister-of-finance-where-the-bloody-hell-are-ya.htm
 author: green-party
+permalink: >-
+  /archive/2010/03/30/minister-of-finance-where-the-bloody-hell-are-ya/index.html
+layout: layout.njk
 ---
 Minister of Finance: where the bloody hell are ya?
 ==================================================

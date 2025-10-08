@@ -1,9 +1,12 @@
 ---
 slug: minister-needs-to-spell-out-achievement-agenda
-title: "Minister Needs to Spell out Achievement Agenda"
-date: 2012-06-10
-source-url: https://www.scoop.co.nz/stories/PO1206/S00115/minister-needs-to-spell-out-achievement-agenda.htm
+title: Minister Needs to Spell out Achievement Agenda
+date: 2012-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00115/minister-needs-to-spell-out-achievement-agenda.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/06/10/minister-needs-to-spell-out-achievement-agenda/index.html
+layout: layout.njk
 ---
 Minister Needs to Spell out Achievement Agenda
 ==============================================

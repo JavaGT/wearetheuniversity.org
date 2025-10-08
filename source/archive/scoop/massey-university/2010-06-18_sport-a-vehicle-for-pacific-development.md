@@ -1,9 +1,12 @@
 ---
 slug: sport-a-vehicle-for-pacific-development
-title: "Sport a vehicle for Pacific development"
-date: 2010-06-18
-source-url: https://www.scoop.co.nz/stories/PA1006/S00296/sport-a-vehicle-for-pacific-development.htm
+title: Sport a vehicle for Pacific development
+date: 2010-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00296/sport-a-vehicle-for-pacific-development.htm
 author: massey-university
+permalink: /archive/2010/06/18/sport-a-vehicle-for-pacific-development/index.html
+layout: layout.njk
 ---
 Sport a vehicle for Pacific development
 =======================================

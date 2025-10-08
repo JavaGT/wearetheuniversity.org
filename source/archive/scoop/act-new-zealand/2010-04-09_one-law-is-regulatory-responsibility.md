@@ -1,9 +1,12 @@
 ---
 slug: one-law-is-regulatory-responsibility
-title: "'One Law' Is Regulatory Responsibility"
-date: 2010-04-09
-source-url: https://www.scoop.co.nz/stories/PA1004/S00083/one-law-is-regulatory-responsibility.htm
+title: '''One Law'' Is Regulatory Responsibility'
+date: 2010-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00083/one-law-is-regulatory-responsibility.htm
 author: act-new-zealand
+permalink: /archive/2010/04/09/one-law-is-regulatory-responsibility/index.html
+layout: layout.njk
 ---
 'One Law' Is Regulatory Responsibility
 ======================================

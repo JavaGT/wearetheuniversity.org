@@ -1,9 +1,12 @@
 ---
 slug: summer-scholarship-programme-inspires-students
-title: "Summer Scholarship Programme Inspires Students"
-date: 2004-10-27
-source-url: https://www.scoop.co.nz/stories/ED0410/S00090/summer-scholarship-programme-inspires-students.htm
+title: Summer Scholarship Programme Inspires Students
+date: 2004-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00090/summer-scholarship-programme-inspires-students.htm
 author: auckland-university
+permalink: /archive/2004/10/27/summer-scholarship-programme-inspires-students/index.html
+layout: layout.njk
 ---
 Summer Scholarship Programme Inspires Students
 ==============================================

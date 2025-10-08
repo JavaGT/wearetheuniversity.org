@@ -1,9 +1,16 @@
 ---
-slug: new-zealand-first-response-to-covid-19-public-health-response-amendment-bill-announcement
-title: "New Zealand First Response To COVID-19 Public Health Response Amendment Bill Announcement"
-date: 2020-07-29
-source-url: https://www.scoop.co.nz/stories/PA2007/S00291/new-zealand-first-response-to-covid-19-public-health-response-amendment-bill-announcement.htm
+slug: >-
+  new-zealand-first-response-to-covid-19-public-health-response-amendment-bill-announcement
+title: >-
+  New Zealand First Response To COVID-19 Public Health Response Amendment Bill
+  Announcement
+date: 2020-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00291/new-zealand-first-response-to-covid-19-public-health-response-amendment-bill-announcement.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/07/29/new-zealand-first-response-to-covid-19-public-health-response-amendment-bill-announcement/index.html
+layout: layout.njk
 ---
 New Zealand First Response To COVID-19 Public Health Response Amendment Bill Announcement
 =========================================================================================

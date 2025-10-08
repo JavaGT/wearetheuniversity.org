@@ -1,9 +1,12 @@
 ---
 slug: a-kick-in-the-teeth-for-second-chance-learners
-title: "A kick in the teeth for second-chance learners"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/PA1309/S00082/a-kick-in-the-teeth-for-second-chance-learners.htm
+title: A kick in the teeth for second-chance learners
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00082/a-kick-in-the-teeth-for-second-chance-learners.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/04/a-kick-in-the-teeth-for-second-chance-learners/index.html
+layout: layout.njk
 ---
 A kick in the teeth for second-chance learners
 ==============================================

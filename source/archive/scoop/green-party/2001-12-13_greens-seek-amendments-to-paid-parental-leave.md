@@ -1,9 +1,12 @@
 ---
 slug: greens-seek-amendments-to-paid-parental-leave
-title: "Greens Seek Amendments To Paid Parental Leave"
-date: 2001-12-13
-source-url: https://www.scoop.co.nz/stories/PA0112/S00248/greens-seek-amendments-to-paid-parental-leave.htm
+title: Greens Seek Amendments To Paid Parental Leave
+date: 2001-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00248/greens-seek-amendments-to-paid-parental-leave.htm
 author: green-party
+permalink: /archive/2001/12/13/greens-seek-amendments-to-paid-parental-leave/index.html
+layout: layout.njk
 ---
 Greens Seek Amendments To Paid Parental Leave
 =============================================

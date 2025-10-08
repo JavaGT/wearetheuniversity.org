@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-vice-chancellor-announcement
-title: "Victoria University Vice-Chancellor announcement"
-date: 2013-01-29
-source-url: https://www.scoop.co.nz/stories/ED1301/S00095/victoria-university-vice-chancellor-announcement.htm
+title: Victoria University Vice-Chancellor announcement
+date: 2013-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00095/victoria-university-vice-chancellor-announcement.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/01/29/victoria-university-vice-chancellor-announcement/index.html
+layout: layout.njk
 ---
 Victoria University Vice-Chancellor announcement
 ================================================

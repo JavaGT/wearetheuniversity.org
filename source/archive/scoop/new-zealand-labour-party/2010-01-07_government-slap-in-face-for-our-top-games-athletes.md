@@ -1,9 +1,13 @@
 ---
 slug: government-slap-in-face-for-our-top-games-athletes
-title: "Government slap in face for our top Games athletes"
-date: 2010-01-07
-source-url: https://www.scoop.co.nz/stories/PA1001/S00009/government-slap-in-face-for-our-top-games-athletes.htm
+title: Government slap in face for our top Games athletes
+date: 2010-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00009/government-slap-in-face-for-our-top-games-athletes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/01/07/government-slap-in-face-for-our-top-games-athletes/index.html
+layout: layout.njk
 ---
 Government slap in face for our top Games athletes
 ==================================================

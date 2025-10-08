@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-25-march-2005
-title: "Beehive Bulletin - 25 March 2005"
-date: 2005-03-29
-source-url: https://www.scoop.co.nz/stories/PA0503/S00531/beehive-bulletin-25-march-2005.htm
+title: Beehive Bulletin - 25 March 2005
+date: 2005-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00531/beehive-bulletin-25-march-2005.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/03/29/beehive-bulletin-25-march-2005/index.html
+layout: layout.njk
 ---
 Beehive Bulletin - 25 March 2005
 ================================

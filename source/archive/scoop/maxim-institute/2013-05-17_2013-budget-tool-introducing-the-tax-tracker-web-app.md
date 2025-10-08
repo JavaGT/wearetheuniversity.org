@@ -1,9 +1,13 @@
 ---
 slug: 2013-budget-tool-introducing-the-tax-tracker-web-app
-title: "2013 Budget Tool - Introducing the Tax Tracker Web App"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PO1305/S00255/2013-budget-tool-introducing-the-tax-tracker-web-app.htm
+title: 2013 Budget Tool - Introducing the Tax Tracker Web App
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00255/2013-budget-tool-introducing-the-tax-tracker-web-app.htm
 author: maxim-institute
+permalink: >-
+  /archive/2013/05/17/2013-budget-tool-introducing-the-tax-tracker-web-app/index.html
+layout: layout.njk
 ---
 2013 Budget Tool - Introducing the Tax Tracker Web App
 ======================================================

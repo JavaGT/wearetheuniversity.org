@@ -1,9 +1,12 @@
 ---
 slug: he-aitua-te-arikinui-dame-te-atairangikaahu
-title: "He Aitua: Te Arikinui Dame Te Atairangikaahu"
-date: 2006-08-16
-source-url: https://www.scoop.co.nz/stories/PA0608/S00257/he-aitua-te-arikinui-dame-te-atairangikaahu.htm
+title: 'He Aitua: Te Arikinui Dame Te Atairangikaahu'
+date: 2006-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00257/he-aitua-te-arikinui-dame-te-atairangikaahu.htm
 author: te-pati-maori
+permalink: /archive/2006/08/16/he-aitua-te-arikinui-dame-te-atairangikaahu/index.html
+layout: layout.njk
 ---
 He Aitua: Te Arikinui Dame Te Atairangikaahu
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: car-wrecking-can-be-a-vehicle-for-stroke-rehab
-title: "Car wrecking can be a vehicle for stroke rehab"
-date: 2017-06-21
-source-url: https://www.scoop.co.nz/stories/GE1706/S00078/car-wrecking-can-be-a-vehicle-for-stroke-rehab.htm
+title: Car wrecking can be a vehicle for stroke rehab
+date: 2017-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00078/car-wrecking-can-be-a-vehicle-for-stroke-rehab.htm
 author: massey-university
+permalink: /archive/2017/06/21/car-wrecking-can-be-a-vehicle-for-stroke-rehab/index.html
+layout: layout.njk
 ---
 Car wrecking can be a vehicle for stroke rehab
 ==============================================

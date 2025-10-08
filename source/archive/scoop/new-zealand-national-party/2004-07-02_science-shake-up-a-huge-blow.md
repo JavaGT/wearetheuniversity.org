@@ -1,9 +1,11 @@
 ---
 slug: science-shake-up-a-huge-blow
-title: "Science shake-up a huge blow"
-date: 2004-07-02
+title: Science shake-up a huge blow
+date: 2004-07-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0407/S00076/science-shake-up-a-huge-blow.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/02/science-shake-up-a-huge-blow/index.html
+layout: layout.njk
 ---
 Science shake-up a huge blow
 ============================

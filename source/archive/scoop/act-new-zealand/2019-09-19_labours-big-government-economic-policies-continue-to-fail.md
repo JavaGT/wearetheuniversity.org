@@ -1,9 +1,13 @@
 ---
 slug: labours-big-government-economic-policies-continue-to-fail
-title: "Labour's big government economic policies continue to fail"
-date: 2019-09-19
-source-url: https://www.scoop.co.nz/stories/PA1909/S00148/labours-big-government-economic-policies-continue-to-fail.htm
+title: Labour's big government economic policies continue to fail
+date: 2019-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00148/labours-big-government-economic-policies-continue-to-fail.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/09/19/labours-big-government-economic-policies-continue-to-fail/index.html
+layout: layout.njk
 ---
 Labour's big government economic policies continue to fail
 ==========================================================

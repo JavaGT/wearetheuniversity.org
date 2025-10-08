@@ -1,9 +1,13 @@
 ---
 slug: angus-tait-building-to-house-bluefern-supercomputer-team
-title: "Angus Tait building to house BlueFern supercomputer team"
-date: 2014-06-30
-source-url: https://www.scoop.co.nz/stories/AK1406/S00679/angus-tait-building-to-house-bluefern-supercomputer-team.htm
+title: Angus Tait building to house BlueFern supercomputer team
+date: 2014-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00679/angus-tait-building-to-house-bluefern-supercomputer-team.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/30/angus-tait-building-to-house-bluefern-supercomputer-team/index.html
+layout: layout.njk
 ---
 Angus Tait building to house BlueFern supercomputer team
 ========================================================

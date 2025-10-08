@@ -1,9 +1,13 @@
 ---
 slug: election-campaigns-corporates-versus-cake-stalls
-title: "Election campaigns: corporates versus cake stalls"
-date: 2007-07-25
-source-url: https://www.scoop.co.nz/stories/PA0707/S00399/election-campaigns-corporates-versus-cake-stalls.htm
+title: 'Election campaigns: corporates versus cake stalls'
+date: 2007-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00399/election-campaigns-corporates-versus-cake-stalls.htm
 author: green-party
+permalink: >-
+  /archive/2007/07/25/election-campaigns-corporates-versus-cake-stalls/index.html
+layout: layout.njk
 ---
 Election campaigns: corporates versus cake stalls
 =================================================

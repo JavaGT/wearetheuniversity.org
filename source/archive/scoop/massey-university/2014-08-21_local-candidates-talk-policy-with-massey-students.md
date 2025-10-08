@@ -1,9 +1,13 @@
 ---
 slug: local-candidates-talk-policy-with-massey-students
-title: "Local candidates talk policy with Massey students"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/ED1408/S00110/local-candidates-talk-policy-with-massey-students.htm
+title: Local candidates talk policy with Massey students
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00110/local-candidates-talk-policy-with-massey-students.htm
 author: massey-university
+permalink: >-
+  /archive/2014/08/21/local-candidates-talk-policy-with-massey-students/index.html
+layout: layout.njk
 ---
 Local candidates talk policy with Massey students
 =================================================

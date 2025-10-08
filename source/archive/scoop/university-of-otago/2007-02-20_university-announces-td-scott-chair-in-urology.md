@@ -1,9 +1,12 @@
 ---
 slug: university-announces-td-scott-chair-in-urology
-title: "University Announces TD Scott Chair in Urology"
-date: 2007-02-20
-source-url: https://www.scoop.co.nz/stories/ED0702/S00076/university-announces-td-scott-chair-in-urology.htm
+title: University Announces TD Scott Chair in Urology
+date: 2007-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00076/university-announces-td-scott-chair-in-urology.htm
 author: university-of-otago
+permalink: /archive/2007/02/20/university-announces-td-scott-chair-in-urology/index.html
+layout: layout.njk
 ---
 University Announces TD Scott Chair in Urology
 ==============================================

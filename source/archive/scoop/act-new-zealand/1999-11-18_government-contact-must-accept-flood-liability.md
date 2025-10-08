@@ -1,9 +1,12 @@
 ---
 slug: government-contact-must-accept-flood-liability
-title: "Government, Contact Must Accept Flood Liability"
-date: 1999-11-18
-source-url: https://www.scoop.co.nz/stories/PA9911/S00431/government-contact-must-accept-flood-liability.htm
+title: Government, Contact Must Accept Flood Liability
+date: 1999-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00431/government-contact-must-accept-flood-liability.htm
 author: act-new-zealand
+permalink: /archive/1999/11/18/government-contact-must-accept-flood-liability/index.html
+layout: layout.njk
 ---
 Government, Contact Must Accept Flood Liability
 ===============================================

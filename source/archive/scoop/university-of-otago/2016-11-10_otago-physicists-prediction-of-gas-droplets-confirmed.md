@@ -1,9 +1,13 @@
 ---
 slug: otago-physicists-prediction-of-gas-droplets-confirmed
-title: "Otago physicists’ prediction of gas \"droplets\" confirmed"
-date: 2016-11-10
-source-url: https://www.scoop.co.nz/stories/SC1611/S00013/otago-physicists-prediction-of-gas-droplets-confirmed.htm
+title: Otago physicists’ prediction of gas "droplets" confirmed
+date: 2016-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00013/otago-physicists-prediction-of-gas-droplets-confirmed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/11/10/otago-physicists-prediction-of-gas-droplets-confirmed/index.html
+layout: layout.njk
 ---
 Otago physicists’ prediction of gas “droplets” confirmed
 ========================================================

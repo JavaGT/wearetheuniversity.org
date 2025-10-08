@@ -1,9 +1,13 @@
 ---
 slug: nationals-poverty-denial-hurting-maori-and-pasifika-people
-title: "National’s poverty denial hurting Maori and Pasifika people"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/PA1408/S00326/nationals-poverty-denial-hurting-maori-and-pasifika-people.htm
+title: National’s poverty denial hurting Maori and Pasifika people
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00326/nationals-poverty-denial-hurting-maori-and-pasifika-people.htm
 author: green-party
+permalink: >-
+  /archive/2014/08/21/nationals-poverty-denial-hurting-maori-and-pasifika-people/index.html
+layout: layout.njk
 ---
 National’s poverty denial hurting Maori and Pasifika people
 ===========================================================

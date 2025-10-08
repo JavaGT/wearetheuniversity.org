@@ -1,9 +1,13 @@
 ---
 slug: bilateral-forum-reaffirms-universities-close-ties-with-viet-nam
-title: "Bilateral Forum Reaffirms Universities’ Close Ties With Viet Nam"
-date: 2022-12-05
-source-url: https://www.scoop.co.nz/stories/ED2212/S00006/bilateral-forum-reaffirms-universities-close-ties-with-viet-nam.htm
+title: Bilateral Forum Reaffirms Universities’ Close Ties With Viet Nam
+date: 2022-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2212/S00006/bilateral-forum-reaffirms-universities-close-ties-with-viet-nam.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/12/05/bilateral-forum-reaffirms-universities-close-ties-with-viet-nam/index.html
+layout: layout.njk
 ---
 Bilateral Forum Reaffirms Universities’ Close Ties With Viet Nam
 ================================================================

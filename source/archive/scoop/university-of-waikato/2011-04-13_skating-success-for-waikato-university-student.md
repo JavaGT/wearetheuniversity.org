@@ -1,9 +1,12 @@
 ---
 slug: skating-success-for-waikato-university-student
-title: "Skating success for Waikato University Student"
-date: 2011-04-13
-source-url: https://www.scoop.co.nz/stories/CU1104/S00213/skating-success-for-waikato-university-student.htm
+title: Skating success for Waikato University Student
+date: 2011-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1104/S00213/skating-success-for-waikato-university-student.htm
 author: university-of-waikato
+permalink: /archive/2011/04/13/skating-success-for-waikato-university-student/index.html
+layout: layout.njk
 ---
 Skating success for Waikato University Student
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: primary-and-intermediate-principals-vote-to-accept-new-offer
-title: "Primary and intermediate principals vote to accept new offer"
-date: 2019-08-20
-source-url: https://www.scoop.co.nz/stories/PO1908/S00263/primary-and-intermediate-principals-vote-to-accept-new-offer.htm
+title: Primary and intermediate principals vote to accept new offer
+date: 2019-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00263/primary-and-intermediate-principals-vote-to-accept-new-offer.htm
 author: nzei
+permalink: >-
+  /archive/2019/08/20/primary-and-intermediate-principals-vote-to-accept-new-offer/index.html
+layout: layout.njk
 ---
 Primary and intermediate principals vote to accept new offer
 ============================================================

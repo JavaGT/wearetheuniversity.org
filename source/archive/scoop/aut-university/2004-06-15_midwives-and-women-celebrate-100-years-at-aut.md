@@ -1,9 +1,12 @@
 ---
 slug: midwives-and-women-celebrate-100-years-at-aut
-title: "Midwives And Women Celebrate 100 Years At AUT"
-date: 2004-06-15
-source-url: https://www.scoop.co.nz/stories/ED0406/S00061/midwives-and-women-celebrate-100-years-at-aut.htm
+title: Midwives And Women Celebrate 100 Years At AUT
+date: 2004-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00061/midwives-and-women-celebrate-100-years-at-aut.htm
 author: aut-university
+permalink: /archive/2004/06/15/midwives-and-women-celebrate-100-years-at-aut/index.html
+layout: layout.njk
 ---
 Midwives And Women Celebrate 100 Years At AUT
 =============================================

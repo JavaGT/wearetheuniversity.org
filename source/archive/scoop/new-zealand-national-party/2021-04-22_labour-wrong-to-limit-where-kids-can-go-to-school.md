@@ -1,9 +1,13 @@
 ---
 slug: labour-wrong-to-limit-where-kids-can-go-to-school
-title: "Labour Wrong To Limit Where Kids Can Go To School"
-date: 2021-04-22
-source-url: https://www.scoop.co.nz/stories/PA2104/S00152/labour-wrong-to-limit-where-kids-can-go-to-school.htm
+title: Labour Wrong To Limit Where Kids Can Go To School
+date: 2021-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00152/labour-wrong-to-limit-where-kids-can-go-to-school.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/04/22/labour-wrong-to-limit-where-kids-can-go-to-school/index.html
+layout: layout.njk
 ---
 Labour Wrong To Limit Where Kids Can Go To School
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-help-struggling-orchestra
-title: "Students Help Struggling Orchestra"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/CU1210/S00193/students-help-struggling-orchestra.htm
+title: Students Help Struggling Orchestra
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1210/S00193/students-help-struggling-orchestra.htm
 author: aut-university
+permalink: /archive/2012/10/10/students-help-struggling-orchestra/index.html
+layout: layout.njk
 ---
 Students Help Struggling Orchestra
 ==================================

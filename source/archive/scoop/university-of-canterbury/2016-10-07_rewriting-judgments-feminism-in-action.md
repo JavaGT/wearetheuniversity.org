@@ -1,9 +1,12 @@
 ---
 slug: rewriting-judgments-feminism-in-action
-title: "Rewriting Judgments: Feminism in Action"
-date: 2016-10-07
-source-url: https://www.scoop.co.nz/stories/PO1610/S00064/rewriting-judgments-feminism-in-action.htm
+title: 'Rewriting Judgments: Feminism in Action'
+date: 2016-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00064/rewriting-judgments-feminism-in-action.htm
 author: university-of-canterbury
+permalink: /archive/2016/10/07/rewriting-judgments-feminism-in-action/index.html
+layout: layout.njk
 ---
 Rewriting Judgments: Feminism in Action
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: wellington-icon-finally-saved-say-greens
-title: "Wellington icon finally saved, say Greens"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/PA0705/S00280/wellington-icon-finally-saved-say-greens.htm
+title: Wellington icon finally saved, say Greens
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00280/wellington-icon-finally-saved-say-greens.htm
 author: green-party
+permalink: /archive/2007/05/10/wellington-icon-finally-saved-say-greens/index.html
+layout: layout.njk
 ---
 Wellington icon finally saved, say Greens
 =========================================

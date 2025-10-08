@@ -1,9 +1,12 @@
 ---
 slug: excellence-in-teaching-and-research-recognised
-title: "Excellence in teaching and research recognised"
-date: 2007-12-12
-source-url: https://www.scoop.co.nz/stories/ED0712/S00050/excellence-in-teaching-and-research-recognised.htm
+title: Excellence in teaching and research recognised
+date: 2007-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00050/excellence-in-teaching-and-research-recognised.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/12/12/excellence-in-teaching-and-research-recognised/index.html
+layout: layout.njk
 ---
 Excellence in teaching and research recognised
 ==============================================

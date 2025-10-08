@@ -1,9 +1,12 @@
 ---
 slug: university-research-supports-ctu-case
-title: "University Research Supports CTU Case"
-date: 2003-07-17
-source-url: https://www.scoop.co.nz/stories/PO0307/S00092/university-research-supports-ctu-case.htm
+title: University Research Supports CTU Case
+date: 2003-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0307/S00092/university-research-supports-ctu-case.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/07/17/university-research-supports-ctu-case/index.html
+layout: layout.njk
 ---
 University Research Supports CTU Case
 =====================================

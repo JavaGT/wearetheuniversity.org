@@ -1,9 +1,12 @@
 ---
 slug: no-new-oiled-wildlife-found-at-bay-of-plenty
-title: "No new oiled wildlife found at Bay of Plenty"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/AK1111/S00128/no-new-oiled-wildlife-found-at-bay-of-plenty.htm
+title: No new oiled wildlife found at Bay of Plenty
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1111/S00128/no-new-oiled-wildlife-found-at-bay-of-plenty.htm
 author: massey-university
+permalink: /archive/2011/11/04/no-new-oiled-wildlife-found-at-bay-of-plenty/index.html
+layout: layout.njk
 ---
 No new oiled wildlife found at Bay of Plenty
 ============================================

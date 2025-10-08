@@ -1,9 +1,13 @@
 ---
 slug: partnership-approach-to-address-human-waste-on-aoraki
-title: "Partnership Approach To Address Human Waste On Aoraki"
-date: 2024-05-14
-source-url: https://www.scoop.co.nz/stories/CU2405/S00152/partnership-approach-to-address-human-waste-on-aoraki.htm
+title: Partnership Approach To Address Human Waste On Aoraki
+date: 2024-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2405/S00152/partnership-approach-to-address-human-waste-on-aoraki.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/14/partnership-approach-to-address-human-waste-on-aoraki/index.html
+layout: layout.njk
 ---
 Partnership Approach To Address Human Waste On Aoraki
 =====================================================

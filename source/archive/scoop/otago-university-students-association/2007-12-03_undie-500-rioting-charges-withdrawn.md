@@ -1,9 +1,12 @@
 ---
 slug: undie-500-rioting-charges-withdrawn
-title: "Undie 500 Rioting Charges Withdrawn"
-date: 2007-12-03
-source-url: https://www.scoop.co.nz/stories/PO0712/S00015/undie-500-rioting-charges-withdrawn.htm
+title: Undie 500 Rioting Charges Withdrawn
+date: 2007-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0712/S00015/undie-500-rioting-charges-withdrawn.htm
 author: otago-university-students-association
+permalink: /archive/2007/12/03/undie-500-rioting-charges-withdrawn/index.html
+layout: layout.njk
 ---
 Undie 500 Rioting Charges Withdrawn
 ===================================

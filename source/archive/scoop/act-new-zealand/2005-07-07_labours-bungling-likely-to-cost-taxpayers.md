@@ -1,9 +1,12 @@
 ---
 slug: labours-bungling-likely-to-cost-taxpayers
-title: "Labour's bungling likely to cost taxpayers"
-date: 2005-07-07
-source-url: https://www.scoop.co.nz/stories/PA0507/S00166/labours-bungling-likely-to-cost-taxpayers.htm
+title: Labour's bungling likely to cost taxpayers
+date: 2005-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00166/labours-bungling-likely-to-cost-taxpayers.htm
 author: act-new-zealand
+permalink: /archive/2005/07/07/labours-bungling-likely-to-cost-taxpayers/index.html
+layout: layout.njk
 ---
 Labour's bungling likely to cost taxpayers
 ==========================================

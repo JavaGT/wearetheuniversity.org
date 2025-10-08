@@ -1,9 +1,12 @@
 ---
 slug: dont-kill-the-golden-goose-fonterra
-title: "Don't kill the golden goose, Fonterra"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/PA0807/S00368/dont-kill-the-golden-goose-fonterra.htm
+title: Don't kill the golden goose, Fonterra
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00368/dont-kill-the-golden-goose-fonterra.htm
 author: green-party
+permalink: /archive/2008/07/21/dont-kill-the-golden-goose-fonterra/index.html
+layout: layout.njk
 ---
 Don't kill the golden goose, Fonterra
 =====================================

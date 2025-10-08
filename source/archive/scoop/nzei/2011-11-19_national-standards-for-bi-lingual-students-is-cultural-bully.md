@@ -1,9 +1,13 @@
 ---
 slug: national-standards-for-bi-lingual-students-is-cultural-bully
-title: "National Standards for bi-lingual students is cultural bully"
-date: 2011-11-19
-source-url: https://www.scoop.co.nz/stories/ED1111/S00123/national-standards-for-bi-lingual-students-is-cultural-bully.htm
+title: National Standards for bi-lingual students is cultural bully
+date: 2011-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00123/national-standards-for-bi-lingual-students-is-cultural-bully.htm
 author: nzei
+permalink: >-
+  /archive/2011/11/19/national-standards-for-bi-lingual-students-is-cultural-bully/index.html
+layout: layout.njk
 ---
 National Standards for bi-lingual students is cultural bully
 ============================================================

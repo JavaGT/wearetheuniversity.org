@@ -1,9 +1,12 @@
 ---
 slug: maori-caucus-stands-alongside-workers
-title: "Maori Caucus stands alongside workers"
-date: 2012-03-03
-source-url: https://www.scoop.co.nz/stories/PA1203/S00041/maori-caucus-stands-alongside-workers.htm
+title: Maori Caucus stands alongside workers
+date: 2012-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00041/maori-caucus-stands-alongside-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/03/maori-caucus-stands-alongside-workers/index.html
+layout: layout.njk
 ---
 Maori Caucus stands alongside workers
 =====================================

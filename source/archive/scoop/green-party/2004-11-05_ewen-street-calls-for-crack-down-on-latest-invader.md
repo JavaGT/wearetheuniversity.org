@@ -1,9 +1,13 @@
 ---
 slug: ewen-street-calls-for-crack-down-on-latest-invader
-title: "Ewen-Street calls for crack-down on latest invader"
-date: 2004-11-05
-source-url: https://www.scoop.co.nz/stories/PA0411/S00137/ewen-street-calls-for-crack-down-on-latest-invader.htm
+title: Ewen-Street calls for crack-down on latest invader
+date: 2004-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00137/ewen-street-calls-for-crack-down-on-latest-invader.htm
 author: green-party
+permalink: >-
+  /archive/2004/11/05/ewen-street-calls-for-crack-down-on-latest-invader/index.html
+layout: layout.njk
 ---
 Ewen-Street calls for crack-down on latest invader
 ==================================================

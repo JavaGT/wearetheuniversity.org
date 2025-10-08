@@ -1,9 +1,12 @@
 ---
 slug: long-term-unemployed-unable-to-hold-on-to-jobs
-title: "Long Term Unemployed Unable to Hold on to Jobs"
-date: 2001-10-09
-source-url: https://www.scoop.co.nz/stories/PA0110/S00192/long-term-unemployed-unable-to-hold-on-to-jobs.htm
+title: Long Term Unemployed Unable to Hold on to Jobs
+date: 2001-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00192/long-term-unemployed-unable-to-hold-on-to-jobs.htm
 author: act-new-zealand
+permalink: /archive/2001/10/09/long-term-unemployed-unable-to-hold-on-to-jobs/index.html
+layout: layout.njk
 ---
 Long Term Unemployed Unable to Hold on to Jobs
 ==============================================

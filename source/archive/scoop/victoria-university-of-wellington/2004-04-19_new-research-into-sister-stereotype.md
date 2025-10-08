@@ -1,9 +1,12 @@
 ---
 slug: new-research-into-sister-stereotype
-title: "New research into sister stereotype"
-date: 2004-04-19
-source-url: https://www.scoop.co.nz/stories/ED0404/S00058/new-research-into-sister-stereotype.htm
+title: New research into sister stereotype
+date: 2004-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00058/new-research-into-sister-stereotype.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/04/19/new-research-into-sister-stereotype/index.html
+layout: layout.njk
 ---
 New research into sister stereotype
 ===================================

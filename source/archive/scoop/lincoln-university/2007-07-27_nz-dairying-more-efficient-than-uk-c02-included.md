@@ -1,9 +1,12 @@
 ---
 slug: nz-dairying-more-efficient-than-uk-c02-included
-title: "NZ dairying more efficient than UK,  C02 included"
-date: 2007-07-27
-source-url: https://www.scoop.co.nz/stories/SC0707/S00063/nz-dairying-more-efficient-than-uk-c02-included.htm
+title: NZ dairying more efficient than UK,  C02 included
+date: 2007-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0707/S00063/nz-dairying-more-efficient-than-uk-c02-included.htm
 author: lincoln-university
+permalink: /archive/2007/07/27/nz-dairying-more-efficient-than-uk-c02-included/index.html
+layout: layout.njk
 ---
 NZ dairying more efficient than UK, C02 included
 ================================================

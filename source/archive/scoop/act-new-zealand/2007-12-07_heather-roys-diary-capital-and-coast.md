@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-capital-and-coast
-title: "Heather Roy's Diary: Capital and Coast"
-date: 2007-12-07
-source-url: https://www.scoop.co.nz/stories/PA0712/S00172/heather-roys-diary-capital-and-coast.htm
+title: 'Heather Roy''s Diary: Capital and Coast'
+date: 2007-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00172/heather-roys-diary-capital-and-coast.htm
 author: act-new-zealand
+permalink: /archive/2007/12/07/heather-roys-diary-capital-and-coast/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Capital and Coast
 ======================================

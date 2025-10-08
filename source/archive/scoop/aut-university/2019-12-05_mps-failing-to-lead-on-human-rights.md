@@ -1,9 +1,12 @@
 ---
 slug: mps-failing-to-lead-on-human-rights
-title: "MPs failing to lead on human rights"
-date: 2019-12-05
-source-url: https://www.scoop.co.nz/stories/PO1912/S00080/mps-failing-to-lead-on-human-rights.htm
+title: MPs failing to lead on human rights
+date: 2019-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1912/S00080/mps-failing-to-lead-on-human-rights.htm
 author: aut-university
+permalink: /archive/2019/12/05/mps-failing-to-lead-on-human-rights/index.html
+layout: layout.njk
 ---
 MPs failing to lead on human rights
 ===================================

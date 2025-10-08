@@ -1,9 +1,13 @@
 ---
 slug: world-leading-scientists-nobel-prize-winner-in-wellington
-title: "World-leading scientists, Nobel Prize-winner in Wellington"
-date: 2011-01-31
-source-url: https://www.scoop.co.nz/stories/SC1101/S00065/world-leading-scientists-nobel-prize-winner-in-wellington.htm
+title: World-leading scientists, Nobel Prize-winner in Wellington
+date: 2011-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1101/S00065/world-leading-scientists-nobel-prize-winner-in-wellington.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/01/31/world-leading-scientists-nobel-prize-winner-in-wellington/index.html
+layout: layout.njk
 ---
 World-leading scientists, Nobel Prize-winner in Wellington
 ==========================================================

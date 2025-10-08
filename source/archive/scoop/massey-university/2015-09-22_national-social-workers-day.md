@@ -1,9 +1,11 @@
 ---
 slug: national-social-workers-day
-title: "National Social Workers’ Day"
-date: 2015-09-22
+title: National Social Workers’ Day
+date: 2015-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1509/S00290/national-social-workers-day.htm
 author: massey-university
+permalink: /archive/2015/09/22/national-social-workers-day/index.html
+layout: layout.njk
 ---
 National Social Workers’ Day
 ============================

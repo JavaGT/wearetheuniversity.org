@@ -1,9 +1,13 @@
 ---
 slug: aut-claims-second-placed-ranking-for-the-first-time
-title: "AUT Claims Second Placed Ranking For The First Time"
-date: 2022-10-12
-source-url: https://www.scoop.co.nz/stories/ED2210/S00018/aut-claims-second-placed-ranking-for-the-first-time.htm
+title: AUT Claims Second Placed Ranking For The First Time
+date: 2022-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2210/S00018/aut-claims-second-placed-ranking-for-the-first-time.htm
 author: aut-university
+permalink: >-
+  /archive/2022/10/12/aut-claims-second-placed-ranking-for-the-first-time/index.html
+layout: layout.njk
 ---
 AUT Claims Second Placed Ranking For The First Time
 ===================================================

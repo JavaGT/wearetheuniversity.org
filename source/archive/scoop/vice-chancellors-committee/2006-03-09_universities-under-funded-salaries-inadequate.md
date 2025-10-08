@@ -1,9 +1,12 @@
 ---
 slug: universities-under-funded-salaries-inadequate
-title: "Universities Under-Funded, Salaries Inadequate"
-date: 2006-03-09
-source-url: https://www.scoop.co.nz/stories/ED0603/S00030/universities-under-funded-salaries-inadequate.htm
+title: Universities Under-Funded, Salaries Inadequate
+date: 2006-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00030/universities-under-funded-salaries-inadequate.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/03/09/universities-under-funded-salaries-inadequate/index.html
+layout: layout.njk
 ---
 Universities Under-Funded, Salaries Inadequate
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: combining-knowledge-on-how-the-large-intestine-moves
-title: "Combining knowledge on how the large intestine moves"
-date: 2016-09-01
-source-url: https://www.scoop.co.nz/stories/SC1609/S00002/combining-knowledge-on-how-the-large-intestine-moves.htm
+title: Combining knowledge on how the large intestine moves
+date: 2016-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00002/combining-knowledge-on-how-the-large-intestine-moves.htm
 author: massey-university
+permalink: >-
+  /archive/2016/09/01/combining-knowledge-on-how-the-large-intestine-moves/index.html
+layout: layout.njk
 ---
 Combining knowledge on how the large intestine moves
 ====================================================

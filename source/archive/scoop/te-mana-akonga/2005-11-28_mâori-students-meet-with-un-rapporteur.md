@@ -1,9 +1,12 @@
 ---
 slug: mâori-students-meet-with-un-rapporteur
-title: "Mâori students meet with UN Rapporteur"
-date: 2005-11-28
-source-url: https://www.scoop.co.nz/stories/ED0511/S00090/maori-students-meet-with-un-rapporteur.htm
+title: Mâori students meet with UN Rapporteur
+date: 2005-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00090/maori-students-meet-with-un-rapporteur.htm
 author: te-mana-akonga
+permalink: /archive/2005/11/28/m/index.html
+layout: layout.njk
 ---
 Mâori students meet with UN Rapporteur
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: national-poisons-centre-continues-to-deliver-poisonsline
-title: "National Poisons Centre continues to deliver Poisonsline"
-date: 2015-06-19
-source-url: https://www.scoop.co.nz/stories/AK1506/S00464/national-poisons-centre-continues-to-deliver-poisonsline.htm
+title: National Poisons Centre continues to deliver Poisonsline
+date: 2015-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1506/S00464/national-poisons-centre-continues-to-deliver-poisonsline.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/06/19/national-poisons-centre-continues-to-deliver-poisonsline/index.html
+layout: layout.njk
 ---
 National Poisons Centre continues to deliver Poisonsline
 ========================================================

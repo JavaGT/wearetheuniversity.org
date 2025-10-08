@@ -1,9 +1,12 @@
 ---
 slug: access-threats-to-education-appalling
-title: "Access threats to education appalling"
-date: 2007-12-04
-source-url: https://www.scoop.co.nz/stories/ED0712/S00011/access-threats-to-education-appalling.htm
+title: Access threats to education appalling
+date: 2007-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00011/access-threats-to-education-appalling.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2007/12/04/access-threats-to-education-appalling/index.html
+layout: layout.njk
 ---
 Access threats to education appalling
 =====================================

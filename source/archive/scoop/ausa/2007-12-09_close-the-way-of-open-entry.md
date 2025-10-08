@@ -1,9 +1,11 @@
 ---
 slug: close-the-way-of-open-entry
-title: "Close the way of open entry"
-date: 2007-12-09
+title: Close the way of open entry
+date: 2007-12-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0712/S00032/close-the-way-of-open-entry.htm
 author: ausa
+permalink: /archive/2007/12/09/close-the-way-of-open-entry/index.html
+layout: layout.njk
 ---
 Close the way of open entry
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: red-tape-leaves-gps-in-critical-condition
-title: "Red Tape Leaves GPs In Critical Condition"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/PA0603/S00326/red-tape-leaves-gps-in-critical-condition.htm
+title: Red Tape Leaves GPs In Critical Condition
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00326/red-tape-leaves-gps-in-critical-condition.htm
 author: act-new-zealand
+permalink: /archive/2006/03/20/red-tape-leaves-gps-in-critical-condition/index.html
+layout: layout.njk
 ---
 Red Tape Leaves GPs In Critical Condition
 =========================================

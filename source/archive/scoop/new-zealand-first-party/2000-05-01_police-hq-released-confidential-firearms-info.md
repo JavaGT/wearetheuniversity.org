@@ -1,9 +1,12 @@
 ---
 slug: police-hq-released-confidential-firearms-info
-title: "Police HQ Released Confidential Firearms Info."
-date: 2000-05-01
-source-url: https://www.scoop.co.nz/stories/PA0005/S00005/police-hq-released-confidential-firearms-info.htm
+title: Police HQ Released Confidential Firearms Info.
+date: 2000-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00005/police-hq-released-confidential-firearms-info.htm
 author: new-zealand-first-party
+permalink: /archive/2000/05/01/police-hq-released-confidential-firearms-info/index.html
+layout: layout.njk
 ---
 Police HQ Released Confidential Firearms Info.
 ==============================================

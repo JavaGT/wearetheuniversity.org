@@ -1,9 +1,11 @@
 ---
 slug: manufacturing-in-freefall
-title: "Manufacturing In Freefall"
-date: 2012-05-10
+title: Manufacturing In Freefall
+date: 2012-05-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1205/S00178/manufacturing-in-freefall.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/10/manufacturing-in-freefall/index.html
+layout: layout.njk
 ---
 Manufacturing In Freefall
 =========================

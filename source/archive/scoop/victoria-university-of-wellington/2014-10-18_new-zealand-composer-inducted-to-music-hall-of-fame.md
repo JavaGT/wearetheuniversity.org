@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-composer-inducted-to-music-hall-of-fame
-title: "New Zealand Composer Inducted to Music Hall of Fame"
-date: 2014-10-18
-source-url: https://www.scoop.co.nz/stories/CU1410/S00388/new-zealand-composer-inducted-to-music-hall-of-fame.htm
+title: New Zealand Composer Inducted to Music Hall of Fame
+date: 2014-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00388/new-zealand-composer-inducted-to-music-hall-of-fame.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/10/18/new-zealand-composer-inducted-to-music-hall-of-fame/index.html
+layout: layout.njk
 ---
 New Zealand Composer Inducted to Music Hall of Fame
 ===================================================

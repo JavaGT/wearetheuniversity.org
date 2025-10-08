@@ -1,9 +1,13 @@
 ---
 slug: waiting-list-may-be-shorter-but-will-you-qualify-for-it
-title: "Waiting List May Be Shorter, But Will You Qualify For It?"
-date: 2013-10-31
-source-url: https://www.scoop.co.nz/stories/PA1310/S00504/waiting-list-may-be-shorter-but-will-you-qualify-for-it.htm
+title: Waiting List May Be Shorter, But Will You Qualify For It?
+date: 2013-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00504/waiting-list-may-be-shorter-but-will-you-qualify-for-it.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/10/31/waiting-list-may-be-shorter-but-will-you-qualify-for-it/index.html
+layout: layout.njk
 ---
 Waiting List May Be Shorter, But Will You Qualify For It?
 =========================================================

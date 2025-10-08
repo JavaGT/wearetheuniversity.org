@@ -1,9 +1,12 @@
 ---
 slug: breast-reconstruction-not-cosmetic
-title: "Breast reconstruction not cosmetic"
-date: 2007-10-12
-source-url: https://www.scoop.co.nz/stories/PA0710/S00244/breast-reconstruction-not-cosmetic.htm
+title: Breast reconstruction not cosmetic
+date: 2007-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00244/breast-reconstruction-not-cosmetic.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/12/breast-reconstruction-not-cosmetic/index.html
+layout: layout.njk
 ---
 Breast reconstruction not cosmetic
 ==================================

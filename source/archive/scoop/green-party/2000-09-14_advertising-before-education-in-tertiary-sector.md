@@ -1,9 +1,12 @@
 ---
 slug: advertising-before-education-in-tertiary-sector
-title: "Advertising Before Education  In Tertiary Sector"
-date: 2000-09-14
-source-url: https://www.scoop.co.nz/stories/PA0009/S00248/advertising-before-education-in-tertiary-sector.htm
+title: Advertising Before Education  In Tertiary Sector
+date: 2000-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00248/advertising-before-education-in-tertiary-sector.htm
 author: green-party
+permalink: /archive/2000/09/14/advertising-before-education-in-tertiary-sector/index.html
+layout: layout.njk
 ---
 Advertising Before Education In Tertiary Sector
 ===============================================

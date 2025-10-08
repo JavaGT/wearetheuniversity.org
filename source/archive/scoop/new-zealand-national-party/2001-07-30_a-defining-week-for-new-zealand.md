@@ -1,9 +1,12 @@
 ---
 slug: a-defining-week-for-new-zealand
-title: "A Defining Week For New Zealand"
-date: 2001-07-30
-source-url: https://www.scoop.co.nz/stories/PA0107/S00500/a-defining-week-for-new-zealand.htm
+title: A Defining Week For New Zealand
+date: 2001-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00500/a-defining-week-for-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/30/a-defining-week-for-new-zealand/index.html
+layout: layout.njk
 ---
 A Defining Week For New Zealand
 ===============================

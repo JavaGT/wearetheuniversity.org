@@ -1,9 +1,12 @@
 ---
 slug: lack-of-planning-in-teacher-oversupply
-title: "Lack of planning in teacher oversupply"
-date: 2013-07-05
-source-url: https://www.scoop.co.nz/stories/ED1307/S00028/lack-of-planning-in-teacher-oversupply.htm
+title: Lack of planning in teacher oversupply
+date: 2013-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00028/lack-of-planning-in-teacher-oversupply.htm
 author: nzei
+permalink: /archive/2013/07/05/lack-of-planning-in-teacher-oversupply/index.html
+layout: layout.njk
 ---
 Lack of planning in teacher oversupply
 ======================================

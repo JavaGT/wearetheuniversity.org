@@ -1,9 +1,13 @@
 ---
 slug: unique-research-into-tech-critical-metals-to-help-support-climate-goals
-title: "Unique Research Into Tech-critical Metals To Help Support Climate Goals"
-date: 2021-06-11
-source-url: https://www.scoop.co.nz/stories/SC2106/S00025/unique-research-into-tech-critical-metals-to-help-support-climate-goals.htm
+title: Unique Research Into Tech-critical Metals To Help Support Climate Goals
+date: 2021-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2106/S00025/unique-research-into-tech-critical-metals-to-help-support-climate-goals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/06/11/unique-research-into-tech-critical-metals-to-help-support-climate-goals/index.html
+layout: layout.njk
 ---
 Unique Research Into Tech-critical Metals To Help Support Climate Goals
 =======================================================================

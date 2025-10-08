@@ -1,9 +1,13 @@
 ---
 slug: green-mp-slams-governments-child-poverty-efforts
-title: "Green MP slams Government’s child poverty efforts"
-date: 2004-11-25
-source-url: https://www.scoop.co.nz/stories/PA0411/S00559/green-mp-slams-governments-child-poverty-efforts.htm
+title: Green MP slams Government’s child poverty efforts
+date: 2004-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00559/green-mp-slams-governments-child-poverty-efforts.htm
 author: green-party
+permalink: >-
+  /archive/2004/11/25/green-mp-slams-governments-child-poverty-efforts/index.html
+layout: layout.njk
 ---
 Green MP slams Government’s child poverty efforts
 =================================================

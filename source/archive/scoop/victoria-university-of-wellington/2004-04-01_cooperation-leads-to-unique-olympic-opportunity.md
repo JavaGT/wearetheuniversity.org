@@ -1,9 +1,12 @@
 ---
 slug: cooperation-leads-to-unique-olympic-opportunity
-title: "Cooperation leads to unique Olympic Opportunity"
-date: 2004-04-01
-source-url: https://www.scoop.co.nz/stories/ED0404/S00003/cooperation-leads-to-unique-olympic-opportunity.htm
+title: Cooperation leads to unique Olympic Opportunity
+date: 2004-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00003/cooperation-leads-to-unique-olympic-opportunity.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/04/01/cooperation-leads-to-unique-olympic-opportunity/index.html
+layout: layout.njk
 ---
 Cooperation leads to unique Olympic Opportunity
 ===============================================

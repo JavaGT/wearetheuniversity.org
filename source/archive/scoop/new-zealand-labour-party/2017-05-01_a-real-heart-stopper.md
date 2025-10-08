@@ -1,9 +1,11 @@
 ---
 slug: a-real-heart-stopper
-title: "A real heart stopper?"
-date: 2017-05-01
+title: A real heart stopper?
+date: 2017-05-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1705/S00005/a-real-heart-stopper.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/01/a-real-heart-stopper/index.html
+layout: layout.njk
 ---
 A real heart stopper?
 =====================

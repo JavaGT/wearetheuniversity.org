@@ -1,9 +1,12 @@
 ---
 slug: authors-challenge-states-relationship-with-mäori
-title: "Authors Challenge State's Relationship with Mäori"
-date: 2005-08-15
-source-url: https://www.scoop.co.nz/stories/ED0508/S00069/authors-challenge-states-relationship-with-maori.htm
+title: Authors Challenge State's Relationship with Mäori
+date: 2005-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00069/authors-challenge-states-relationship-with-maori.htm
 author: university-of-otago
+permalink: /archive/2005/08/15/authors-challenge-states-relationship-with-m/index.html
+layout: layout.njk
 ---
 Authors Challenge State's Relationship with Mäori
 =================================================

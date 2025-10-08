@@ -1,9 +1,12 @@
 ---
 slug: easy-access-to-youth-migrant-survey
-title: "Easy access to youth migrant survey"
-date: 2006-04-06
-source-url: https://www.scoop.co.nz/stories/ED0604/S00024/easy-access-to-youth-migrant-survey.htm
+title: Easy access to youth migrant survey
+date: 2006-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00024/easy-access-to-youth-migrant-survey.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/04/06/easy-access-to-youth-migrant-survey/index.html
+layout: layout.njk
 ---
 Easy access to youth migrant survey
 ===================================

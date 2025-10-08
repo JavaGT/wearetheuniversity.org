@@ -1,9 +1,12 @@
 ---
 slug: top-scholarship-awarded-to-waikato-student
-title: "Top Scholarship Awarded to Waikato Student"
-date: 2009-11-30
-source-url: https://www.scoop.co.nz/stories/ED0911/S00122/top-scholarship-awarded-to-waikato-student.htm
+title: Top Scholarship Awarded to Waikato Student
+date: 2009-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00122/top-scholarship-awarded-to-waikato-student.htm
 author: waikato-university
+permalink: /archive/2009/11/30/top-scholarship-awarded-to-waikato-student/index.html
+layout: layout.njk
 ---
 Top Scholarship Awarded to Waikato Student
 ==========================================

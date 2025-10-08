@@ -1,9 +1,12 @@
 ---
 slug: minister-should-listen-to-ncea-concerns
-title: "Minister should listen to NCEA concerns"
-date: 2007-03-16
-source-url: https://www.scoop.co.nz/stories/PA0703/S00318/minister-should-listen-to-ncea-concerns.htm
+title: Minister should listen to NCEA concerns
+date: 2007-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00318/minister-should-listen-to-ncea-concerns.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/16/minister-should-listen-to-ncea-concerns/index.html
+layout: layout.njk
 ---
 Minister should listen to NCEA concerns
 =======================================

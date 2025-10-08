@@ -1,9 +1,13 @@
 ---
 slug: rahui-papa-the-status-quo-is-not-working-for-our-people
-title: "Rahui Papa: The status quo is not working for our people"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/PO1708/S00210/rahui-papa-the-status-quo-is-not-working-for-our-people.htm
+title: 'Rahui Papa: The status quo is not working for our people'
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00210/rahui-papa-the-status-quo-is-not-working-for-our-people.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2017/08/10/rahui-papa-the-status-quo-is-not-working-for-our-people/index.html
+layout: layout.njk
 ---
 Rahui Papa: The status quo is not working for our people
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: five-auckland-university-press-books-among-finalists
-title: "Five Auckland University Press books among finalists"
-date: 2013-07-24
-source-url: https://www.scoop.co.nz/stories/CU1307/S00431/five-auckland-university-press-books-among-finalists.htm
+title: Five Auckland University Press books among finalists
+date: 2013-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00431/five-auckland-university-press-books-among-finalists.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2013/07/24/five-auckland-university-press-books-among-finalists/index.html
+layout: layout.njk
 ---
 Five Auckland University Press books among finalists
 ====================================================

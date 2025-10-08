@@ -1,9 +1,12 @@
 ---
 slug: new-book-launched-in-nz-music-month
-title: "New book launched in NZ Music Month"
-date: 2009-05-14
-source-url: https://www.scoop.co.nz/stories/CU0905/S00197/new-book-launched-in-nz-music-month.htm
+title: New book launched in NZ Music Month
+date: 2009-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00197/new-book-launched-in-nz-music-month.htm
 author: auckland-university-press
+permalink: /archive/2009/05/14/new-book-launched-in-nz-music-month/index.html
+layout: layout.njk
 ---
 New book launched in NZ Music Month
 ===================================

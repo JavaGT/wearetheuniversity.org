@@ -1,9 +1,12 @@
 ---
 slug: what-is-the-optimal-rate-of-inflation
-title: "What is the optimal rate of inflation?"
-date: 2000-06-08
-source-url: https://www.scoop.co.nz/stories/BU0006/S00049/what-is-the-optimal-rate-of-inflation.htm
+title: What is the optimal rate of inflation?
+date: 2000-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0006/S00049/what-is-the-optimal-rate-of-inflation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/06/08/what-is-the-optimal-rate-of-inflation/index.html
+layout: layout.njk
 ---
 What is the optimal rate of inflation?
 ======================================

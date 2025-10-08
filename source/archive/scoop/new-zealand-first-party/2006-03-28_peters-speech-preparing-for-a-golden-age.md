@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-preparing-for-a-golden-age
-title: "Peters Speech - \"Preparing For A Golden Age\""
-date: 2006-03-28
-source-url: https://www.scoop.co.nz/stories/PA0603/S00492/peters-speech-preparing-for-a-golden-age.htm
+title: Peters Speech - "Preparing For A Golden Age"
+date: 2006-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00492/peters-speech-preparing-for-a-golden-age.htm
 author: new-zealand-first-party
+permalink: /archive/2006/03/28/peters-speech-preparing-for-a-golden-age/index.html
+layout: layout.njk
 ---
 Peters Speech - \"Preparing For A Golden Age"
 ============================================

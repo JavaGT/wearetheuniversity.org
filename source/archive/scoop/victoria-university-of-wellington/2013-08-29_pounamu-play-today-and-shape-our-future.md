@@ -1,9 +1,12 @@
 ---
 slug: pounamu-play-today-and-shape-our-future
-title: "Pounamu: Play today and shape our future"
-date: 2013-08-29
-source-url: https://www.scoop.co.nz/stories/SC1308/S00068/pounamu-play-today-and-shape-our-future.htm
+title: 'Pounamu: Play today and shape our future'
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00068/pounamu-play-today-and-shape-our-future.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/08/29/pounamu-play-today-and-shape-our-future/index.html
+layout: layout.njk
 ---
 Pounamu: Play today and shape our future
 ========================================

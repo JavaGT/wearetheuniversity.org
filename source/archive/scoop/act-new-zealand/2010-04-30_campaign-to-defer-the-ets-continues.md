@@ -1,9 +1,12 @@
 ---
 slug: campaign-to-defer-the-ets-continues
-title: "Campaign To Defer The ETS Continues"
-date: 2010-04-30
-source-url: https://www.scoop.co.nz/stories/PA1004/S00435/campaign-to-defer-the-ets-continues.htm
+title: Campaign To Defer The ETS Continues
+date: 2010-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00435/campaign-to-defer-the-ets-continues.htm
 author: act-new-zealand
+permalink: /archive/2010/04/30/campaign-to-defer-the-ets-continues/index.html
+layout: layout.njk
 ---
 Campaign To Defer The ETS Continues
 ===================================

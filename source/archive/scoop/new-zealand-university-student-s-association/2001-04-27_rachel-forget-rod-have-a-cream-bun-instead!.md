@@ -1,9 +1,12 @@
 ---
 slug: rachel-forget-rod-have-a-cream-bun-instead!
-title: "Rachel, Forget Rod,  have a cream bun instead!"
-date: 2001-04-27
-source-url: https://www.scoop.co.nz/stories/CU0104/S00066/rachel-forget-rod-have-a-cream-bun-instead.htm
+title: Rachel, Forget Rod,  have a cream bun instead!
+date: 2001-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0104/S00066/rachel-forget-rod-have-a-cream-bun-instead.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/04/27/rachel-forget-rod-have-a-cream-bun-instead/index.html
+layout: layout.njk
 ---
 Rachel, Forget Rod, have a cream bun instead!
 =============================================

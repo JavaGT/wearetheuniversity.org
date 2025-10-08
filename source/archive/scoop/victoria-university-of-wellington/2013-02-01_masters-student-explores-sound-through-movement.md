@@ -1,9 +1,12 @@
 ---
 slug: masters-student-explores-sound-through-movement
-title: "Master’s Student Explores Sound Through Movement"
-date: 2013-02-01
-source-url: https://www.scoop.co.nz/stories/ED1302/S00007/masters-student-explores-sound-through-movement.htm
+title: Master’s Student Explores Sound Through Movement
+date: 2013-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00007/masters-student-explores-sound-through-movement.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/02/01/masters-student-explores-sound-through-movement/index.html
+layout: layout.njk
 ---
 Master’s Student Explores Sound Through Movement
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: birds-of-new-zealand-flies-on-to-the-iphone
-title: "‘Birds of New Zealand’ flies on to the iPhone"
-date: 2013-12-11
-source-url: https://www.scoop.co.nz/stories/CU1312/S00219/birds-of-new-zealand-flies-on-to-the-iphone.htm
+title: ‘Birds of New Zealand’ flies on to the iPhone
+date: 2013-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00219/birds-of-new-zealand-flies-on-to-the-iphone.htm
 author: auckland-university-press
+permalink: /archive/2013/12/11/birds-of-new-zealand-flies-on-to-the-iphone/index.html
+layout: layout.njk
 ---
 ‘Birds of New Zealand’ flies on to the iPhone
 =============================================

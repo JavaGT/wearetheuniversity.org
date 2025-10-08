@@ -1,9 +1,13 @@
 ---
 slug: nz-agents-should-be-handling-indian-student-applications
-title: "NZ Agents Should Be Handling Indian Student Applications"
-date: 2016-07-08
-source-url: https://www.scoop.co.nz/stories/PA1607/S00145/nz-agents-should-be-handling-indian-student-applications.htm
+title: NZ Agents Should Be Handling Indian Student Applications
+date: 2016-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00145/nz-agents-should-be-handling-indian-student-applications.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/07/08/nz-agents-should-be-handling-indian-student-applications/index.html
+layout: layout.njk
 ---
 NZ Agents Should Be Handling Indian Student Applications
 ========================================================

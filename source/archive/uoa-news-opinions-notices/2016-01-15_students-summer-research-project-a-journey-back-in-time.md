@@ -1,8 +1,12 @@
 ---
 slug: students-summer-research-project-a-journey-back-in-time
-title: "Student’s summer research project a journey back in time"
-date: 2016-01-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/student_s-summer-research-project-a-journey-back-in-time.html
+title: Student’s summer research project a journey back in time
+date: 2016-01-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/student_s-summer-research-project-a-journey-back-in-time.html
+permalink: >-
+  /archive/2016/01/15/students-summer-research-project-a-journey-back-in-time/index.html
+layout: layout.njk
 ---
 Student’s summer research project a journey back in time
 ========================================================

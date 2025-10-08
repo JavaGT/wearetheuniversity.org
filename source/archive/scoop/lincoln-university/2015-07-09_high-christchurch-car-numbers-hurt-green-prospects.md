@@ -1,9 +1,13 @@
 ---
 slug: high-christchurch-car-numbers-hurt-green-prospects
-title: "High Christchurch car numbers hurt green prospects"
-date: 2015-07-09
-source-url: https://www.scoop.co.nz/stories/AK1507/S00189/high-christchurch-car-numbers-hurt-green-prospects.htm
+title: High Christchurch car numbers hurt green prospects
+date: 2015-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1507/S00189/high-christchurch-car-numbers-hurt-green-prospects.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/07/09/high-christchurch-car-numbers-hurt-green-prospects/index.html
+layout: layout.njk
 ---
 High Christchurch car numbers hurt green prospects
 ==================================================

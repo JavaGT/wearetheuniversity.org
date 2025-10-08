@@ -1,9 +1,12 @@
 ---
 slug: northern-districts-māori-beat-waikato-vice-chancellors-xi
-title: "Northern Districts Māori beat Waikato Vice Chancellor’s XI"
-date: 2014-03-27
-source-url: https://www.scoop.co.nz/stories/ED1403/S00162/northern-districts-maori-beat-waikato-vice-chancellors-xi.htm
+title: Northern Districts Māori beat Waikato Vice Chancellor’s XI
+date: 2014-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00162/northern-districts-maori-beat-waikato-vice-chancellors-xi.htm
 author: university-of-waikato
+permalink: /archive/2014/03/27/northern-districts-m/index.html
+layout: layout.njk
 ---
 Northern Districts Māori beat Waikato Vice Chancellor’s XI
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-move-on-fees
-title: "Students Welcome Move on Fees"
-date: 2000-02-01
-source-url: https://www.scoop.co.nz/stories/ED0002/S00001/students-welcome-move-on-fees.htm
+title: Students Welcome Move on Fees
+date: 2000-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00001/students-welcome-move-on-fees.htm
 author: victoria-university-students-association
+permalink: /archive/2000/02/01/students-welcome-move-on-fees/index.html
+layout: layout.njk
 ---
 Students Welcome Move on Fees
 =============================

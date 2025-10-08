@@ -1,9 +1,11 @@
 ---
 slug: ousa-womens-week
-title: "OUSA Women’s Week"
-date: 2009-09-15
+title: OUSA Women’s Week
+date: 2009-09-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0909/S00172/ousa-womens-week.htm
 author: otago-university-students-association
+permalink: /archive/2009/09/15/ousa-womens-week/index.html
+layout: layout.njk
 ---
 OUSA Women’s Week
 =================

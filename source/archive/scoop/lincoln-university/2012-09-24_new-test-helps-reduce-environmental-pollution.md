@@ -1,9 +1,12 @@
 ---
 slug: new-test-helps-reduce-environmental-pollution
-title: "New test helps reduce environmental pollution"
-date: 2012-09-24
-source-url: https://www.scoop.co.nz/stories/SC1209/S00057/new-test-helps-reduce-environmental-pollution.htm
+title: New test helps reduce environmental pollution
+date: 2012-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00057/new-test-helps-reduce-environmental-pollution.htm
 author: lincoln-university
+permalink: /archive/2012/09/24/new-test-helps-reduce-environmental-pollution/index.html
+layout: layout.njk
 ---
 New test helps reduce environmental pollution
 =============================================

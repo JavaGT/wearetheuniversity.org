@@ -1,8 +1,12 @@
 ---
 slug: the-biological-chorus-beneath-the-waves-of-the-hauraki-gulf
-title: "The biological chorus beneath the waves of the Hauraki Gulf"
-date: 2017-08-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/biological-chorus-beneath-hauraki-gulf-waves.html
+title: The biological chorus beneath the waves of the Hauraki Gulf
+date: 2017-08-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/biological-chorus-beneath-hauraki-gulf-waves.html
+permalink: >-
+  /archive/2017/08/02/the-biological-chorus-beneath-the-waves-of-the-hauraki-gulf/index.html
+layout: layout.njk
 ---
 The biological chorus beneath the waves of the Hauraki Gulf
 ===========================================================

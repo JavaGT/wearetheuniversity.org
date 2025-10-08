@@ -1,9 +1,12 @@
 ---
 slug: survey-shows-law-students-suffer-high-stress
-title: "Survey shows law students suffer high stress"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/ED1309/S00019/survey-shows-law-students-suffer-high-stress.htm
+title: Survey shows law students suffer high stress
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00019/survey-shows-law-students-suffer-high-stress.htm
 author: new-zealand-law-students-association
+permalink: /archive/2013/09/04/survey-shows-law-students-suffer-high-stress/index.html
+layout: layout.njk
 ---
 Survey shows law students suffer high stress
 ============================================

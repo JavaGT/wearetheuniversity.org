@@ -1,9 +1,11 @@
 ---
 slug: nationals-2019-policy-wins
-title: "National’s 2019 policy wins"
-date: 2019-12-21
+title: National’s 2019 policy wins
+date: 2019-12-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1912/S00201/nationals-2019-policy-wins.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/21/nationals-2019-policy-wins/index.html
+layout: layout.njk
 ---
 National’s 2019 policy wins
 ===========================

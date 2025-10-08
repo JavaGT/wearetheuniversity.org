@@ -1,9 +1,12 @@
 ---
 slug: political-leaders-will-not-sack-nz-first
-title: "Political Leaders Will Not Sack NZ First"
-date: 1999-10-29
-source-url: https://www.scoop.co.nz/stories/PA9910/S00683/political-leaders-will-not-sack-nz-first.htm
+title: Political Leaders Will Not Sack NZ First
+date: 1999-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00683/political-leaders-will-not-sack-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/29/political-leaders-will-not-sack-nz-first/index.html
+layout: layout.njk
 ---
 Political Leaders Will Not Sack NZ First
 ========================================

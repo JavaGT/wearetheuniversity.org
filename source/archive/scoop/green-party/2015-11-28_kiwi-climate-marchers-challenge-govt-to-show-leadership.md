@@ -1,9 +1,13 @@
 ---
 slug: kiwi-climate-marchers-challenge-govt-to-show-leadership
-title: "Kiwi climate marchers challenge Govt to show leadership"
-date: 2015-11-28
-source-url: https://www.scoop.co.nz/stories/PA1511/S00539/kiwi-climate-marchers-challenge-govt-to-show-leadership.htm
+title: Kiwi climate marchers challenge Govt to show leadership
+date: 2015-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00539/kiwi-climate-marchers-challenge-govt-to-show-leadership.htm
 author: green-party
+permalink: >-
+  /archive/2015/11/28/kiwi-climate-marchers-challenge-govt-to-show-leadership/index.html
+layout: layout.njk
 ---
 Kiwi climate marchers challenge Govt to show leadership
 =======================================================

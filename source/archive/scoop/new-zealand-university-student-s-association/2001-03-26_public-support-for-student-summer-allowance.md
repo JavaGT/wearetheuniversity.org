@@ -1,9 +1,12 @@
 ---
 slug: public-support-for-student-summer-allowance
-title: "Public support for student summer allowance"
-date: 2001-03-26
-source-url: https://www.scoop.co.nz/stories/ED0103/S00049/public-support-for-student-summer-allowance.htm
+title: Public support for student summer allowance
+date: 2001-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00049/public-support-for-student-summer-allowance.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/03/26/public-support-for-student-summer-allowance/index.html
+layout: layout.njk
 ---
 Public support for student summer allowance
 ===========================================

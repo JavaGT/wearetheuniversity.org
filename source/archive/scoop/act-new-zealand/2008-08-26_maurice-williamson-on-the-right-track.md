@@ -1,9 +1,12 @@
 ---
 slug: maurice-williamson-on-the-right-track
-title: "Maurice Williamson On The Right Track"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/PA0808/S00379/maurice-williamson-on-the-right-track.htm
+title: Maurice Williamson On The Right Track
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00379/maurice-williamson-on-the-right-track.htm
 author: act-new-zealand
+permalink: /archive/2008/08/26/maurice-williamson-on-the-right-track/index.html
+layout: layout.njk
 ---
 Maurice Williamson On The Right Track
 =====================================

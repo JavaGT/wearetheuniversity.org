@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-201
-title: "Maxim Institute - real issues - No 201"
-date: 2006-04-21
-source-url: https://www.scoop.co.nz/stories/PO0604/S00164/maxim-institute-real-issues-no-201.htm
+title: Maxim Institute - real issues - No 201
+date: 2006-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0604/S00164/maxim-institute-real-issues-no-201.htm
 author: maxim-institute
+permalink: /archive/2006/04/21/maxim-institute-real-issues-no-201/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No 201
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: children-will-be-losers-from-advisory-service-cuts
-title: "Children Will Be Losers From Advisory Service Cuts"
-date: 2009-10-22
-source-url: https://www.scoop.co.nz/stories/ED0910/S00098/children-will-be-losers-from-advisory-service-cuts.htm
+title: Children Will Be Losers From Advisory Service Cuts
+date: 2009-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00098/children-will-be-losers-from-advisory-service-cuts.htm
 author: nzei
+permalink: >-
+  /archive/2009/10/22/children-will-be-losers-from-advisory-service-cuts/index.html
+layout: layout.njk
 ---
 Children Will Be Losers From Advisory Service Cuts
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: vic-uni-silences-students-and-raises-fees
-title: "Vic Uni silences students and raises fees"
-date: 2007-10-09
-source-url: https://www.scoop.co.nz/stories/AK0710/S00094/vic-uni-silences-students-and-raises-fees.htm
+title: Vic Uni silences students and raises fees
+date: 2007-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0710/S00094/vic-uni-silences-students-and-raises-fees.htm
 author: victoria-university-students-association
+permalink: /archive/2007/10/09/vic-uni-silences-students-and-raises-fees/index.html
+layout: layout.njk
 ---
 Vic Uni silences students and raises fees
 =========================================

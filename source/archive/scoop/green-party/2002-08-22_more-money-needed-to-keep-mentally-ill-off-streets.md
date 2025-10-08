@@ -1,9 +1,13 @@
 ---
 slug: more-money-needed-to-keep-mentally-ill-off-streets
-title: "More Money Needed To Keep Mentally Ill Off Streets"
-date: 2002-08-22
-source-url: https://www.scoop.co.nz/stories/PA0208/S00180/more-money-needed-to-keep-mentally-ill-off-streets.htm
+title: More Money Needed To Keep Mentally Ill Off Streets
+date: 2002-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00180/more-money-needed-to-keep-mentally-ill-off-streets.htm
 author: green-party
+permalink: >-
+  /archive/2002/08/22/more-money-needed-to-keep-mentally-ill-off-streets/index.html
+layout: layout.njk
 ---
 More Money Needed To Keep Mentally Ill Off Streets
 ==================================================

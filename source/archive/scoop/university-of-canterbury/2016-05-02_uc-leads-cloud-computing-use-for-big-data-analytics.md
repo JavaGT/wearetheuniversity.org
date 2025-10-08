@@ -1,9 +1,13 @@
 ---
 slug: uc-leads-cloud-computing-use-for-big-data-analytics
-title: "UC leads cloud computing use for big data analytics"
-date: 2016-05-02
-source-url: https://www.scoop.co.nz/stories/ED1605/S00003/uc-leads-cloud-computing-use-for-big-data-analytics.htm
+title: UC leads cloud computing use for big data analytics
+date: 2016-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00003/uc-leads-cloud-computing-use-for-big-data-analytics.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/02/uc-leads-cloud-computing-use-for-big-data-analytics/index.html
+layout: layout.njk
 ---
 UC leads cloud computing use for big data analytics
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: maori-party-vindicated-by-un-report-on-foreshore
-title: "Maori Party Vindicated By UN Report On Foreshore"
-date: 2005-03-14
-source-url: https://www.scoop.co.nz/stories/PA0503/S00277/maori-party-vindicated-by-un-report-on-foreshore.htm
+title: Maori Party Vindicated By UN Report On Foreshore
+date: 2005-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00277/maori-party-vindicated-by-un-report-on-foreshore.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2005/03/14/maori-party-vindicated-by-un-report-on-foreshore/index.html
+layout: layout.njk
 ---
 Maori Party Vindicated By UN Report On Foreshore
 ================================================

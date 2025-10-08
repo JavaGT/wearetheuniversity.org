@@ -1,8 +1,12 @@
 ---
 slug: sir-kenneth-keith-to-deliver-inaugural-sir-owen-woodhouse-memorial-lecture
-title: "Sir Kenneth Keith to deliver inaugural Sir Owen Woodhouse Memorial Lecture"
-date: 2017-08-16
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/sir-kenneth-keith-to-deliver-inaugural-sir-owen-woodhouse-memori.html
+title: Sir Kenneth Keith to deliver inaugural Sir Owen Woodhouse Memorial Lecture
+date: 2017-08-16T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/sir-kenneth-keith-to-deliver-inaugural-sir-owen-woodhouse-memori.html
+permalink: >-
+  /archive/2017/08/16/sir-kenneth-keith-to-deliver-inaugural-sir-owen-woodhouse-memorial-lecture/index.html
+layout: layout.njk
 ---
 Sir Kenneth Keith to deliver inaugural Sir Owen Woodhouse Memorial Lecture
 ==========================================================================

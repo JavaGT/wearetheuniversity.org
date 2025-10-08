@@ -1,9 +1,13 @@
 ---
 slug: uc-investigating-if-drones-can-be-used-to-help-fight-fires
-title: "UC investigating if drones can be used to help fight fires"
-date: 2015-01-29
-source-url: https://www.scoop.co.nz/stories/ED1501/S00084/uc-investigating-if-drones-can-be-used-to-help-fight-fires.htm
+title: UC investigating if drones can be used to help fight fires
+date: 2015-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00084/uc-investigating-if-drones-can-be-used-to-help-fight-fires.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/29/uc-investigating-if-drones-can-be-used-to-help-fight-fires/index.html
+layout: layout.njk
 ---
 UC investigating if drones can be used to help fight fires
 ==========================================================

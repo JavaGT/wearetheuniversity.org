@@ -1,9 +1,12 @@
 ---
 slug: ero-report-reveals-dumbing-down-of-education
-title: "ERO Report Reveals Dumbing Down Of Education"
-date: 2004-09-29
-source-url: https://www.scoop.co.nz/stories/PA0409/S00559/ero-report-reveals-dumbing-down-of-education.htm
+title: ERO Report Reveals Dumbing Down Of Education
+date: 2004-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00559/ero-report-reveals-dumbing-down-of-education.htm
 author: act-new-zealand
+permalink: /archive/2004/09/29/ero-report-reveals-dumbing-down-of-education/index.html
+layout: layout.njk
 ---
 ERO Report Reveals Dumbing Down Of Education
 ============================================

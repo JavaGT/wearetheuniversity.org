@@ -1,9 +1,13 @@
 ---
 slug: vet-students-strip-off-for-charity-in-annual-naked-calendar
-title: "Vet Students Strip Off for Charity in Annual Naked Calendar"
-date: 2018-03-22
-source-url: https://www.scoop.co.nz/stories/ED1803/S00069/vet-students-strip-off-for-charity-in-annual-naked-calendar.htm
+title: Vet Students Strip Off for Charity in Annual Naked Calendar
+date: 2018-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00069/vet-students-strip-off-for-charity-in-annual-naked-calendar.htm
 author: massey-university
+permalink: >-
+  /archive/2018/03/22/vet-students-strip-off-for-charity-in-annual-naked-calendar/index.html
+layout: layout.njk
 ---
 Vet Students Strip Off for Charity in Annual Naked Calendar
 ===========================================================

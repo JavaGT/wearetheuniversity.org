@@ -1,9 +1,13 @@
 ---
 slug: labour-will-remove-gst-from-fresh-fruit-and-veges
-title: "Labour will remove GST from fresh fruit and veges"
-date: 2010-09-27
-source-url: https://www.scoop.co.nz/stories/PA1009/S00388/labour-will-remove-gst-from-fresh-fruit-and-veges.htm
+title: Labour will remove GST from fresh fruit and veges
+date: 2010-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00388/labour-will-remove-gst-from-fresh-fruit-and-veges.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/09/27/labour-will-remove-gst-from-fresh-fruit-and-veges/index.html
+layout: layout.njk
 ---
 Labour will remove GST from fresh fruit and veges
 =================================================

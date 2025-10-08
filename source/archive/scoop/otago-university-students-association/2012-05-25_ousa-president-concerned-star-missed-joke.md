@@ -1,9 +1,12 @@
 ---
 slug: ousa-president-concerned-star-missed-joke
-title: "OUSA President Concerned Star Missed Joke"
-date: 2012-05-25
-source-url: https://www.scoop.co.nz/stories/ED1205/S00130/ousa-president-concerned-star-missed-joke.htm
+title: OUSA President Concerned Star Missed Joke
+date: 2012-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00130/ousa-president-concerned-star-missed-joke.htm
 author: otago-university-students-association
+permalink: /archive/2012/05/25/ousa-president-concerned-star-missed-joke/index.html
+layout: layout.njk
 ---
 OUSA President Concerned Star Missed Joke
 =========================================

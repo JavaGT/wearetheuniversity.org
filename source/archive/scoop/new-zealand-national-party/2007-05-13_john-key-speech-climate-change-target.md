@@ -1,9 +1,12 @@
 ---
 slug: john-key-speech-climate-change-target
-title: "John Key Speech: Climate Change Target"
-date: 2007-05-13
-source-url: https://www.scoop.co.nz/stories/PA0705/S00311/john-key-speech-climate-change-target.htm
+title: 'John Key Speech: Climate Change Target'
+date: 2007-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00311/john-key-speech-climate-change-target.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/13/john-key-speech-climate-change-target/index.html
+layout: layout.njk
 ---
 John Key Speech: Climate Change Target
 ======================================

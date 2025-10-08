@@ -1,9 +1,12 @@
 ---
 slug: build-today-for-women-in-the-future
-title: "Build today for women in the future"
-date: 2012-09-19
-source-url: https://www.scoop.co.nz/stories/PA1209/S00307/build-today-for-women-in-the-future.htm
+title: Build today for women in the future
+date: 2012-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00307/build-today-for-women-in-the-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/19/build-today-for-women-in-the-future/index.html
+layout: layout.njk
 ---
 Build today for women in the future
 ===================================

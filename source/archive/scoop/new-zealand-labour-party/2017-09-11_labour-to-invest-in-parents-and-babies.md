@@ -1,9 +1,12 @@
 ---
 slug: labour-to-invest-in-parents-and-babies
-title: "Labour to invest in parents and babies"
-date: 2017-09-11
-source-url: https://www.scoop.co.nz/stories/PA1709/S00119/labour-to-invest-in-parents-and-babies.htm
+title: Labour to invest in parents and babies
+date: 2017-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00119/labour-to-invest-in-parents-and-babies.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/09/11/labour-to-invest-in-parents-and-babies/index.html
+layout: layout.njk
 ---
 Labour to invest in parents and babies
 ======================================

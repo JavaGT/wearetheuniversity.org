@@ -1,9 +1,12 @@
 ---
 slug: national-student-day-of-action
-title: "National Student Day of Action"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/PO1408/S00174/national-student-day-of-action.htm
+title: National Student Day of Action
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00174/national-student-day-of-action.htm
 author: reclaim-uoa
+permalink: /archive/2014/08/12/national-student-day-of-action/index.html
+layout: layout.njk
 ---
 National Student Day of Action
 ==============================

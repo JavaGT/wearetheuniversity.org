@@ -1,9 +1,12 @@
 ---
 slug: govt-inaction-=-unemployment-in-otago-&-southland
-title: "Govt inaction = unemployment in Otago & Southland"
-date: 2009-02-11
-source-url: https://www.scoop.co.nz/stories/PA0902/S00169/govt-inaction-unemployment-in-otago-southland.htm
+title: Govt inaction = unemployment in Otago & Southland
+date: 2009-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00169/govt-inaction-unemployment-in-otago-southland.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/11/govt-inaction-/index.html
+layout: layout.njk
 ---
 Govt inaction = unemployment in Otago & Southland
 =================================================

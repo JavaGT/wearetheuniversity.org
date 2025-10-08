@@ -1,9 +1,12 @@
 ---
 slug: altitude-training-could-benefit-non-athletes
-title: "Altitude training could benefit non-athletes"
-date: 2018-01-29
-source-url: https://www.scoop.co.nz/stories/SC1801/S00037/altitude-training-could-benefit-non-athletes.htm
+title: Altitude training could benefit non-athletes
+date: 2018-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1801/S00037/altitude-training-could-benefit-non-athletes.htm
 author: lincoln-university
+permalink: /archive/2018/01/29/altitude-training-could-benefit-non-athletes/index.html
+layout: layout.njk
 ---
 Altitude training could benefit non-athletes
 ============================================

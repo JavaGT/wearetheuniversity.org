@@ -1,9 +1,12 @@
 ---
 slug: initiative-to-boost-māori-saving-and-financial-literacy
-title: "Initiative to boost Māori saving and financial literacy"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/CU1211/S00413/initiative-to-boost-maori-saving-and-financial-literacy.htm
+title: Initiative to boost Māori saving and financial literacy
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00413/initiative-to-boost-maori-saving-and-financial-literacy.htm
 author: university-of-waikato
+permalink: /archive/2012/11/20/initiative-to-boost-m/index.html
+layout: layout.njk
 ---
 Initiative to boost Māori saving and financial literacy
 =======================================================

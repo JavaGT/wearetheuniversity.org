@@ -1,9 +1,12 @@
 ---
 slug: school-system-fails-in-its-approach-to-reading
-title: "School system fails in its approach to reading"
-date: 2009-03-26
-source-url: https://www.scoop.co.nz/stories/ED0903/S00088/school-system-fails-in-its-approach-to-reading.htm
+title: School system fails in its approach to reading
+date: 2009-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00088/school-system-fails-in-its-approach-to-reading.htm
 author: massey-university
+permalink: /archive/2009/03/26/school-system-fails-in-its-approach-to-reading/index.html
+layout: layout.njk
 ---
 School system fails in its approach to reading
 ==============================================

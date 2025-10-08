@@ -1,9 +1,12 @@
 ---
 slug: award-recognises-lifetime-immersed-in-education
-title: "Award recognises lifetime immersed in education"
-date: 2014-07-03
-source-url: https://www.scoop.co.nz/stories/ED1407/S00025/award-recognises-lifetime-immersed-in-education.htm
+title: Award recognises lifetime immersed in education
+date: 2014-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00025/award-recognises-lifetime-immersed-in-education.htm
 author: university-of-waikato
+permalink: /archive/2014/07/03/award-recognises-lifetime-immersed-in-education/index.html
+layout: layout.njk
 ---
 Award recognises lifetime immersed in education
 ===============================================

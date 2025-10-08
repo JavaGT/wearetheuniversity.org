@@ -1,9 +1,13 @@
 ---
 slug: academic-director-to-lead-tauranga-cbd-campus-development
-title: "Academic Director to lead Tauranga CBD campus development"
-date: 2016-04-04
-source-url: https://www.scoop.co.nz/stories/ED1604/S00007/academic-director-to-lead-tauranga-cbd-campus-development.htm
+title: Academic Director to lead Tauranga CBD campus development
+date: 2016-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00007/academic-director-to-lead-tauranga-cbd-campus-development.htm
 author: waikato-university
+permalink: >-
+  /archive/2016/04/04/academic-director-to-lead-tauranga-cbd-campus-development/index.html
+layout: layout.njk
 ---
 Academic Director to lead Tauranga CBD campus development
 =========================================================

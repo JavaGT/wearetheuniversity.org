@@ -1,9 +1,13 @@
 ---
 slug: auckland-uni-falls-behind-on-ethical-investment-ranking
-title: "Auckland uni falls behind on ethical investment ranking"
-date: 2015-09-22
-source-url: https://www.scoop.co.nz/stories/ED1509/S00130/auckland-uni-falls-behind-on-ethical-investment-ranking.htm
+title: Auckland uni falls behind on ethical investment ranking
+date: 2015-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00130/auckland-uni-falls-behind-on-ethical-investment-ranking.htm
 author: fossil-free-uoa
+permalink: >-
+  /archive/2015/09/22/auckland-uni-falls-behind-on-ethical-investment-ranking/index.html
+layout: layout.njk
 ---
 Auckland uni falls behind on ethical investment ranking
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: reimagining-disability-ground-breaking-new-research
-title: "Reimagining disability: Ground-breaking new research"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/ED1408/S00065/reimagining-disability-ground-breaking-new-research.htm
+title: 'Reimagining disability: Ground-breaking new research'
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00065/reimagining-disability-ground-breaking-new-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/13/reimagining-disability-ground-breaking-new-research/index.html
+layout: layout.njk
 ---
 Reimagining disability: Ground-breaking new research
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: fsen-postgraduate-scholarships-launched
-title: "FSEN postgraduate scholarships launched"
-date: 2015-06-11
-source-url: https://www.scoop.co.nz/stories/ED1506/S00058/fsen-postgraduate-scholarships-launched.htm
+title: FSEN postgraduate scholarships launched
+date: 2015-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00058/fsen-postgraduate-scholarships-launched.htm
 author: waikato-university
+permalink: /archive/2015/06/11/fsen-postgraduate-scholarships-launched/index.html
+layout: layout.njk
 ---
 FSEN postgraduate scholarships launched
 =======================================

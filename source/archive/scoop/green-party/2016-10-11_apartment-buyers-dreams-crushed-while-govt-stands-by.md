@@ -1,9 +1,13 @@
 ---
 slug: apartment-buyers-dreams-crushed-while-govt-stands-by
-title: "Apartment buyers’ dreams crushed while Govt stands by"
-date: 2016-10-11
-source-url: https://www.scoop.co.nz/stories/PA1610/S00133/apartment-buyers-dreams-crushed-while-govt-stands-by.htm
+title: Apartment buyers’ dreams crushed while Govt stands by
+date: 2016-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00133/apartment-buyers-dreams-crushed-while-govt-stands-by.htm
 author: green-party
+permalink: >-
+  /archive/2016/10/11/apartment-buyers-dreams-crushed-while-govt-stands-by/index.html
+layout: layout.njk
 ---
 Apartment buyers’ dreams crushed while Govt stands by
 =====================================================

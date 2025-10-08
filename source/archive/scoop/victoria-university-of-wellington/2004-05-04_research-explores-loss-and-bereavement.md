@@ -1,9 +1,12 @@
 ---
 slug: research-explores-loss-and-bereavement
-title: "Research Explores Loss and Bereavement"
-date: 2004-05-04
-source-url: https://www.scoop.co.nz/stories/ED0405/S00010/research-explores-loss-and-bereavement.htm
+title: Research Explores Loss and Bereavement
+date: 2004-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00010/research-explores-loss-and-bereavement.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/05/04/research-explores-loss-and-bereavement/index.html
+layout: layout.njk
 ---
 Research Explores Loss and Bereavement
 ======================================

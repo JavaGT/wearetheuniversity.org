@@ -1,9 +1,16 @@
 ---
-slug: nzusa-supports-the-call-to-raise-income-support-to-unlock-whānau-and-individuals-from-poverty-before-christmas
-title: "NZUSA Supports The Call To Raise Income Support To Unlock Whānau And Individuals From Poverty Before Christmas"
-date: 2020-12-08
-source-url: https://www.scoop.co.nz/stories/PO2012/S00080/nzusa-supports-the-call-to-raise-income-support-to-unlock-whanau-and-individuals-from-poverty-before-christmas.htm
+slug: >-
+  nzusa-supports-the-call-to-raise-income-support-to-unlock-whānau-and-individuals-from-poverty-before-christmas
+title: >-
+  NZUSA Supports The Call To Raise Income Support To Unlock Whānau And
+  Individuals From Poverty Before Christmas
+date: 2020-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2012/S00080/nzusa-supports-the-call-to-raise-income-support-to-unlock-whanau-and-individuals-from-poverty-before-christmas.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2020/12/08/nzusa-supports-the-call-to-raise-income-support-to-unlock-wh/index.html
+layout: layout.njk
 ---
 NZUSA Supports The Call To Raise Income Support To Unlock Whānau And Individuals From Poverty Before Christmas
 ==============================================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-in-denial-over-manufacturing-crisis
-title: "Govt in Denial Over Manufacturing Crisis"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/PA1210/S00195/govt-in-denial-over-manufacturing-crisis.htm
+title: Govt in Denial Over Manufacturing Crisis
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00195/govt-in-denial-over-manufacturing-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/11/govt-in-denial-over-manufacturing-crisis/index.html
+layout: layout.njk
 ---
 Govt in Denial Over Manufacturing Crisis
 ========================================

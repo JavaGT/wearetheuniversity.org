@@ -1,9 +1,12 @@
 ---
 slug: police-in-the-provinces-are-dissatisfied
-title: "Police in the provinces are dissatisfied"
-date: 2016-09-22
-source-url: https://www.scoop.co.nz/stories/PA1609/S00410/police-in-the-provinces-are-dissatisfied.htm
+title: Police in the provinces are dissatisfied
+date: 2016-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00410/police-in-the-provinces-are-dissatisfied.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/22/police-in-the-provinces-are-dissatisfied/index.html
+layout: layout.njk
 ---
 Police in the provinces are dissatisfied
 ========================================

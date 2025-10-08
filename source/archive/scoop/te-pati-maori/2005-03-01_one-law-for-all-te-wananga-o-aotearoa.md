@@ -1,9 +1,12 @@
 ---
 slug: one-law-for-all-te-wananga-o-aotearoa
-title: "One Law for All: Te Wananga o Aotearoa"
-date: 2005-03-01
-source-url: https://www.scoop.co.nz/stories/PA0503/S00022/one-law-for-all-te-wananga-o-aotearoa.htm
+title: 'One Law for All: Te Wananga o Aotearoa'
+date: 2005-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00022/one-law-for-all-te-wananga-o-aotearoa.htm
 author: te-pati-maori
+permalink: /archive/2005/03/01/one-law-for-all-te-wananga-o-aotearoa/index.html
+layout: layout.njk
 ---
 One Law for All: Te Wananga o Aotearoa
 ======================================

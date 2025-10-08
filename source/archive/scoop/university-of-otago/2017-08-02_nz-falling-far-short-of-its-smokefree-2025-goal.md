@@ -1,9 +1,12 @@
 ---
 slug: nz-falling-far-short-of-its-smokefree-2025-goal
-title: "NZ Falling Far Short of its Smokefree 2025 Goal"
-date: 2017-08-02
-source-url: https://www.scoop.co.nz/stories/GE1708/S00006/nz-falling-far-short-of-its-smokefree-2025-goal.htm
+title: NZ Falling Far Short of its Smokefree 2025 Goal
+date: 2017-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1708/S00006/nz-falling-far-short-of-its-smokefree-2025-goal.htm
 author: university-of-otago
+permalink: /archive/2017/08/02/nz-falling-far-short-of-its-smokefree-2025-goal/index.html
+layout: layout.njk
 ---
 NZ Falling Far Short of its Smokefree 2025 Goal
 ===============================================

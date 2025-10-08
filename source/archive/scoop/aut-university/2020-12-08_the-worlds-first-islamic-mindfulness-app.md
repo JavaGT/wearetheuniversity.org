@@ -1,9 +1,12 @@
 ---
 slug: the-worlds-first-islamic-mindfulness-app
-title: "The World’s First Islamic Mindfulness App"
-date: 2020-12-08
-source-url: https://www.scoop.co.nz/stories/ED2012/S00011/the-worlds-first-islamic-mindfulness-app.htm
+title: The World’s First Islamic Mindfulness App
+date: 2020-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00011/the-worlds-first-islamic-mindfulness-app.htm
 author: aut-university
+permalink: /archive/2020/12/08/the-worlds-first-islamic-mindfulness-app/index.html
+layout: layout.njk
 ---
 The World’s First Islamic Mindfulness App
 =========================================

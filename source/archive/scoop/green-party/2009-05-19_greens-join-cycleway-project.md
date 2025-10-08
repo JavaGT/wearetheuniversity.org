@@ -1,9 +1,11 @@
 ---
 slug: greens-join-cycleway-project
-title: "Greens Join Cycleway Project"
-date: 2009-05-19
+title: Greens Join Cycleway Project
+date: 2009-05-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0905/S00331/greens-join-cycleway-project.htm
 author: green-party
+permalink: /archive/2009/05/19/greens-join-cycleway-project/index.html
+layout: layout.njk
 ---
 Greens Join Cycleway Project
 ============================

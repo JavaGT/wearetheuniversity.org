@@ -1,9 +1,12 @@
 ---
 slug: turia-speech-grad-ceremony-tukorehe-marae
-title: "Turia Speech, Grad Ceremony Tukorehe Marae"
-date: 2005-12-02
-source-url: https://www.scoop.co.nz/stories/PA0512/S00021/turia-speech-grad-ceremony-tukorehe-marae.htm
+title: Turia Speech, Grad Ceremony Tukorehe Marae
+date: 2005-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00021/turia-speech-grad-ceremony-tukorehe-marae.htm
 author: te-pati-maori
+permalink: /archive/2005/12/02/turia-speech-grad-ceremony-tukorehe-marae/index.html
+layout: layout.njk
 ---
 Turia Speech, Grad Ceremony Tukorehe Marae
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: mahareys-plans-wont-help-nz-science
-title: "Maharey's plans won't help NZ science"
-date: 2006-05-04
-source-url: https://www.scoop.co.nz/stories/PA0605/S00112/mahareys-plans-wont-help-nz-science.htm
+title: Maharey's plans won't help NZ science
+date: 2006-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00112/mahareys-plans-wont-help-nz-science.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/04/mahareys-plans-wont-help-nz-science/index.html
+layout: layout.njk
 ---
 Maharey's plans won't help NZ science
 =====================================

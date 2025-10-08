@@ -1,9 +1,13 @@
 ---
 slug: four-university-of-canterbury-students-win-todd-awards
-title: "Four University of Canterbury students win Todd Awards"
-date: 2015-07-01
-source-url: https://www.scoop.co.nz/stories/ED1507/S00008/four-university-of-canterbury-students-win-todd-awards.htm
+title: Four University of Canterbury students win Todd Awards
+date: 2015-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00008/four-university-of-canterbury-students-win-todd-awards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/07/01/four-university-of-canterbury-students-win-todd-awards/index.html
+layout: layout.njk
 ---
 Four University of Canterbury students win Todd Awards
 ======================================================

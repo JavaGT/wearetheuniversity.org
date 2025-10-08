@@ -1,9 +1,12 @@
 ---
 slug: irish-and-scottish-in-the-limelight-this-month
-title: "Irish and Scottish in the limelight this month"
-date: 2008-03-12
-source-url: https://www.scoop.co.nz/stories/ED0803/S00027/irish-and-scottish-in-the-limelight-this-month.htm
+title: Irish and Scottish in the limelight this month
+date: 2008-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00027/irish-and-scottish-in-the-limelight-this-month.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/03/12/irish-and-scottish-in-the-limelight-this-month/index.html
+layout: layout.njk
 ---
 Irish and Scottish in the limelight this month
 ==============================================

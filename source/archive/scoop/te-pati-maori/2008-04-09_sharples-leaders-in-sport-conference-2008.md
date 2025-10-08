@@ -1,9 +1,12 @@
 ---
 slug: sharples-leaders-in-sport-conference-2008
-title: "Sharples: Leaders in Sport Conference 2008"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/PA0804/S00234/sharples-leaders-in-sport-conference-2008.htm
+title: 'Sharples: Leaders in Sport Conference 2008'
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00234/sharples-leaders-in-sport-conference-2008.htm
 author: te-pati-maori
+permalink: /archive/2008/04/09/sharples-leaders-in-sport-conference-2008/index.html
+layout: layout.njk
 ---
 Sharples: Leaders in Sport Conference 2008
 ==========================================

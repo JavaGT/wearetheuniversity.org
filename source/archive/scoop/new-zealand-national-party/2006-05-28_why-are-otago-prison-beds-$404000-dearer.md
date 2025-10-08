@@ -1,9 +1,12 @@
 ---
 slug: why-are-otago-prison-beds-$404000-dearer
-title: "Why are Otago Prison beds $404,000 dearer?"
-date: 2006-05-28
-source-url: https://www.scoop.co.nz/stories/PA0605/S00656/why-are-otago-prison-beds-404000-dearer.htm
+title: Why are Otago Prison beds $404,000 dearer?
+date: 2006-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00656/why-are-otago-prison-beds-404000-dearer.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/28/why-are-otago-prison-beds-/index.html
+layout: layout.njk
 ---
 Why are Otago Prison beds $404,000 dearer?
 ==========================================

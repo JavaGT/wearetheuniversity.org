@@ -1,9 +1,12 @@
 ---
 slug: aspirations-of-māori-youth-focus-of-lincoln-summit
-title: "Aspirations of Māori youth focus of Lincoln summit"
-date: 2018-12-06
-source-url: https://www.scoop.co.nz/stories/ED1812/S00017/aspirations-of-maori-youth-focus-of-lincoln-summit.htm
+title: Aspirations of Māori youth focus of Lincoln summit
+date: 2018-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1812/S00017/aspirations-of-maori-youth-focus-of-lincoln-summit.htm
 author: lincoln-university
+permalink: /archive/2018/12/06/aspirations-of-m/index.html
+layout: layout.njk
 ---
 Aspirations of Māori youth focus of Lincoln summit
 ==================================================

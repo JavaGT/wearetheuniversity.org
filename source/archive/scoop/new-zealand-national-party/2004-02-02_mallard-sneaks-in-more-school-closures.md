@@ -1,9 +1,12 @@
 ---
 slug: mallard-sneaks-in-more-school-closures
-title: "Mallard sneaks in more school closures"
-date: 2004-02-02
-source-url: https://www.scoop.co.nz/stories/PA0402/S00014/mallard-sneaks-in-more-school-closures.htm
+title: Mallard sneaks in more school closures
+date: 2004-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00014/mallard-sneaks-in-more-school-closures.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/02/mallard-sneaks-in-more-school-closures/index.html
+layout: layout.njk
 ---
 Mallard sneaks in more school closures
 ======================================

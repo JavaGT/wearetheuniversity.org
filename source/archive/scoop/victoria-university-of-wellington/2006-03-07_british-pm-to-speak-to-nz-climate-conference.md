@@ -1,9 +1,12 @@
 ---
 slug: british-pm-to-speak-to-nz-climate-conference
-title: "British PM to speak to NZ Climate Conference"
-date: 2006-03-07
-source-url: https://www.scoop.co.nz/stories/ED0603/S00022/british-pm-to-speak-to-nz-climate-conference.htm
+title: British PM to speak to NZ Climate Conference
+date: 2006-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00022/british-pm-to-speak-to-nz-climate-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/03/07/british-pm-to-speak-to-nz-climate-conference/index.html
+layout: layout.njk
 ---
 British PM to speak to NZ Climate Conference
 ============================================

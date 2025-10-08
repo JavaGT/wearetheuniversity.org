@@ -1,9 +1,12 @@
 ---
 slug: national-womens-hospital-name-must-stay
-title: "National Women's Hospital name must stay"
-date: 2003-05-02
-source-url: https://www.scoop.co.nz/stories/PA0305/S00041/national-womens-hospital-name-must-stay.htm
+title: National Women's Hospital name must stay
+date: 2003-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00041/national-womens-hospital-name-must-stay.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/02/national-womens-hospital-name-must-stay/index.html
+layout: layout.njk
 ---
 National Women's Hospital name must stay
 ========================================

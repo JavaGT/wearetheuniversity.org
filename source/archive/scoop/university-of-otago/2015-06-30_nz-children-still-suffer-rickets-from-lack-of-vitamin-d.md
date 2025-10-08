@@ -1,9 +1,13 @@
 ---
 slug: nz-children-still-suffer-rickets-from-lack-of-vitamin-d
-title: "NZ children still suffer rickets from lack of Vitamin D"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/GE1506/S00166/nz-children-still-suffer-rickets-from-lack-of-vitamin-d.htm
+title: NZ children still suffer rickets from lack of Vitamin D
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1506/S00166/nz-children-still-suffer-rickets-from-lack-of-vitamin-d.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/06/30/nz-children-still-suffer-rickets-from-lack-of-vitamin-d/index.html
+layout: layout.njk
 ---
 NZ children still suffer rickets from lack of Vitamin D
 =======================================================

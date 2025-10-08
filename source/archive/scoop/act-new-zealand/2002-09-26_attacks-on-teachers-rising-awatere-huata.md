@@ -1,9 +1,12 @@
 ---
 slug: attacks-on-teachers-rising-awatere-huata
-title: "Attacks on Teachers Rising - Awatere Huata"
-date: 2002-09-26
-source-url: https://www.scoop.co.nz/stories/PA0209/S00424/attacks-on-teachers-rising-awatere-huata.htm
+title: Attacks on Teachers Rising - Awatere Huata
+date: 2002-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00424/attacks-on-teachers-rising-awatere-huata.htm
 author: act-new-zealand
+permalink: /archive/2002/09/26/attacks-on-teachers-rising-awatere-huata/index.html
+layout: layout.njk
 ---
 Attacks on Teachers Rising - Awatere Huata
 ==========================================

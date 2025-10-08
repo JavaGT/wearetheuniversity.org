@@ -1,9 +1,12 @@
 ---
 slug: inaugural-uc-community-engagement-awards
-title: "Inaugural UC Community Engagement Awards"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/AK1109/S00680/inaugural-uc-community-engagement-awards.htm
+title: Inaugural UC Community Engagement Awards
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1109/S00680/inaugural-uc-community-engagement-awards.htm
 author: university-of-canterbury
+permalink: /archive/2011/09/23/inaugural-uc-community-engagement-awards/index.html
+layout: layout.njk
 ---
 Inaugural UC Community Engagement Awards
 ========================================

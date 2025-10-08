@@ -1,9 +1,13 @@
 ---
 slug: how-purchasing-a-particular-pop-up-penguin-will-fund-antarctic-research
-title: "How Purchasing A Particular Pop Up Penguin Will Fund Antarctic Research"
-date: 2021-02-02
-source-url: https://www.scoop.co.nz/stories/SC2102/S00003/how-purchasing-a-particular-pop-up-penguin-will-fund-antarctic-research.htm
+title: How Purchasing A Particular Pop Up Penguin Will Fund Antarctic Research
+date: 2021-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2102/S00003/how-purchasing-a-particular-pop-up-penguin-will-fund-antarctic-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/02/02/how-purchasing-a-particular-pop-up-penguin-will-fund-antarctic-research/index.html
+layout: layout.njk
 ---
 How Purchasing A Particular Pop Up Penguin Will Fund Antarctic Research
 =======================================================================

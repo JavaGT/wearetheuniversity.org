@@ -1,9 +1,12 @@
 ---
 slug: labour-spinning-shameful-benefit-numbers
-title: "Labour Spinning Shameful Benefit Numbers"
-date: 2023-03-22
-source-url: https://www.scoop.co.nz/stories/PA2303/S00187/labour-spinning-shameful-benefit-numbers.htm
+title: Labour Spinning Shameful Benefit Numbers
+date: 2023-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00187/labour-spinning-shameful-benefit-numbers.htm
 author: new-zealand-national-party
+permalink: /archive/2023/03/22/labour-spinning-shameful-benefit-numbers/index.html
+layout: layout.njk
 ---
 Labour Spinning Shameful Benefit Numbers
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-research-testing-pipes-at-three-times-the-speed-of-sound
-title: "UC research testing pipes at three times the speed of sound"
-date: 2012-08-31
-source-url: https://www.scoop.co.nz/stories/SC1208/S00086/uc-research-testing-pipes-at-three-times-the-speed-of-sound.htm
+title: UC research testing pipes at three times the speed of sound
+date: 2012-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00086/uc-research-testing-pipes-at-three-times-the-speed-of-sound.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/31/uc-research-testing-pipes-at-three-times-the-speed-of-sound/index.html
+layout: layout.njk
 ---
 UC research testing pipes at three times the speed of sound
 ===========================================================

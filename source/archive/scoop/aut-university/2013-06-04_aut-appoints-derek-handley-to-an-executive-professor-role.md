@@ -1,9 +1,13 @@
 ---
 slug: aut-appoints-derek-handley-to-an-executive-professor-role
-title: "AUT appoints Derek Handley to an Executive Professor role"
-date: 2013-06-04
-source-url: https://www.scoop.co.nz/stories/ED1306/S00012/aut-appoints-derek-handley-to-an-executive-professor-role.htm
+title: AUT appoints Derek Handley to an Executive Professor role
+date: 2013-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00012/aut-appoints-derek-handley-to-an-executive-professor-role.htm
 author: aut-university
+permalink: >-
+  /archive/2013/06/04/aut-appoints-derek-handley-to-an-executive-professor-role/index.html
+layout: layout.njk
 ---
 AUT appoints Derek Handley to an Executive Professor role
 =========================================================

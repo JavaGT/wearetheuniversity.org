@@ -1,9 +1,12 @@
 ---
 slug: challenging-pms-assurances-over-echelon
-title: "Challenging PM's assurances over Echelon"
-date: 2000-03-02
-source-url: https://www.scoop.co.nz/stories/PA0003/S00028/challenging-pms-assurances-over-echelon.htm
+title: Challenging PM's assurances over Echelon
+date: 2000-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00028/challenging-pms-assurances-over-echelon.htm
 author: green-party
+permalink: /archive/2000/03/02/challenging-pms-assurances-over-echelon/index.html
+layout: layout.njk
 ---
 Challenging PM's assurances over Echelon
 ========================================

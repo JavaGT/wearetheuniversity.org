@@ -1,9 +1,13 @@
 ---
 slug: flavell-rotorua-library-trust-fund-variation-bill
-title: "Flavell: Rotorua Library Trust Fund Variation Bill"
-date: 2006-06-29
-source-url: https://www.scoop.co.nz/stories/PA0606/S00569/flavell-rotorua-library-trust-fund-variation-bill.htm
+title: 'Flavell: Rotorua Library Trust Fund Variation Bill'
+date: 2006-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00569/flavell-rotorua-library-trust-fund-variation-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/06/29/flavell-rotorua-library-trust-fund-variation-bill/index.html
+layout: layout.njk
 ---
 Flavell: Rotorua Library Trust Fund Variation Bill
 ==================================================

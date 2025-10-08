@@ -1,8 +1,12 @@
 ---
 slug: top-university-of-auckland-scientist-awarded-marsden-medal
-title: "Top University of Auckland scientist awarded Marsden Medal"
-date: 2016-09-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/top-university-of-auckland-scientist-awarded-marsden-medal.html
+title: Top University of Auckland scientist awarded Marsden Medal
+date: 2016-09-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/top-university-of-auckland-scientist-awarded-marsden-medal.html
+permalink: >-
+  /archive/2016/09/08/top-university-of-auckland-scientist-awarded-marsden-medal/index.html
+layout: layout.njk
 ---
 Top University of Auckland scientist awarded Marsden Medal
 ==========================================================

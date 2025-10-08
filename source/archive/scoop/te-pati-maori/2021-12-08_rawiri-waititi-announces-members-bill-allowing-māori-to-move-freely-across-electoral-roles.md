@@ -1,9 +1,16 @@
 ---
-slug: rawiri-waititi-announces-members-bill-allowing-māori-to-move-freely-across-electoral-roles
-title: "Rawiri Waititi Announces Members Bill Allowing Māori To Move Freely Across Electoral Roles"
-date: 2021-12-08
-source-url: https://www.scoop.co.nz/stories/PA2112/S00058/rawiri-waititi-announces-members-bill-allowing-maori-to-move-freely-across-electoral-roles.htm
+slug: >-
+  rawiri-waititi-announces-members-bill-allowing-māori-to-move-freely-across-electoral-roles
+title: >-
+  Rawiri Waititi Announces Members Bill Allowing Māori To Move Freely Across
+  Electoral Roles
+date: 2021-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00058/rawiri-waititi-announces-members-bill-allowing-maori-to-move-freely-across-electoral-roles.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2021/12/08/rawiri-waititi-announces-members-bill-allowing-m/index.html
+layout: layout.njk
 ---
 Rawiri Waititi Announces Members Bill Allowing Māori To Move Freely Across Electoral Roles
 ==========================================================================================

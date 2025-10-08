@@ -1,9 +1,12 @@
 ---
 slug: compulsory-wsu-bungles-it-again
-title: "Compulsory WSU Bungles It Again"
-date: 2002-10-03
-source-url: https://www.scoop.co.nz/stories/ED0210/S00006/compulsory-wsu-bungles-it-again.htm
+title: Compulsory WSU Bungles It Again
+date: 2002-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00006/compulsory-wsu-bungles-it-again.htm
 author: student-choice
+permalink: /archive/2002/10/03/compulsory-wsu-bungles-it-again/index.html
+layout: layout.njk
 ---
 Compulsory WSU Bungles It Again
 ===============================

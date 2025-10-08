@@ -1,9 +1,16 @@
 ---
-slug: the-free-fares-campaign-urges-the-government-to-address-the-gaps-left-by-the-new-fare-discounts-in-budget-2023
-title: "The Free Fares Campaign Urges The Government To Address The Gaps Left By The New Fare Discounts In Budget 2023"
-date: 2023-06-29
-source-url: https://www.scoop.co.nz/stories/AK2306/S00603/the-free-fares-campaign-urges-the-government-to-address-the-gaps-left-by-the-new-fare-discounts-in-budget-2023.htm
+slug: >-
+  the-free-fares-campaign-urges-the-government-to-address-the-gaps-left-by-the-new-fare-discounts-in-budget-2023
+title: >-
+  The Free Fares Campaign Urges The Government To Address The Gaps Left By The
+  New Fare Discounts In Budget 2023
+date: 2023-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2306/S00603/the-free-fares-campaign-urges-the-government-to-address-the-gaps-left-by-the-new-fare-discounts-in-budget-2023.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2023/06/29/the-free-fares-campaign-urges-the-government-to-address-the-gaps-left-by-the-new-fare-discounts-in-budget-2023/index.html
+layout: layout.njk
 ---
 The Free Fares Campaign Urges The Government To Address The Gaps Left By The New Fare Discounts In Budget 2023
 ==============================================================================================================

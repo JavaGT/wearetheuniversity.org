@@ -1,9 +1,11 @@
 ---
 slug: vuwsa-rejects-anzac-invite
-title: "VUWSA rejects ANZAC invite"
-date: 2009-04-27
+title: VUWSA rejects ANZAC invite
+date: 2009-04-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0904/S00059/vuwsa-rejects-anzac-invite.htm
 author: salient
+permalink: /archive/2009/04/27/vuwsa-rejects-anzac-invite/index.html
+layout: layout.njk
 ---
 VUWSA rejects ANZAC invite
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: bill-to-establish-health-targets-introduced
-title: "Bill to establish health targets introduced"
-date: 2018-08-01
-source-url: https://www.scoop.co.nz/stories/PA1808/S00013/bill-to-establish-health-targets-introduced.htm
+title: Bill to establish health targets introduced
+date: 2018-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00013/bill-to-establish-health-targets-introduced.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/01/bill-to-establish-health-targets-introduced/index.html
+layout: layout.njk
 ---
 Bill to establish health targets introduced
 ===========================================

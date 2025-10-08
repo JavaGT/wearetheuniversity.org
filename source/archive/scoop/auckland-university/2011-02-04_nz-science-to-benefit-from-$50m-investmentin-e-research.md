@@ -1,9 +1,12 @@
 ---
 slug: nz-science-to-benefit-from-$50m-investmentin-e-research
-title: "NZ science to benefit from $50m investmentin e-Research"
-date: 2011-02-04
-source-url: https://www.scoop.co.nz/stories/SC1102/S00013/nz-science-to-benefit-from-50m-investmentin-e-research.htm
+title: NZ science to benefit from $50m investmentin e-Research
+date: 2011-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1102/S00013/nz-science-to-benefit-from-50m-investmentin-e-research.htm
 author: auckland-university
+permalink: /archive/2011/02/04/nz-science-to-benefit-from-/index.html
+layout: layout.njk
 ---
 NZ science to benefit from $50m investmentin e-Research
 =======================================================

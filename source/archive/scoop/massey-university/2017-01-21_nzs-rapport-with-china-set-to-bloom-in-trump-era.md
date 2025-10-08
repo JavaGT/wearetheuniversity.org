@@ -1,9 +1,13 @@
 ---
 slug: nzs-rapport-with-china-set-to-bloom-in-trump-era
-title: "NZ’s rapport with China set to bloom in Trump era"
-date: 2017-01-21
-source-url: https://www.scoop.co.nz/stories/BU1701/S00290/nzs-rapport-with-china-set-to-bloom-in-trump-era.htm
+title: NZ’s rapport with China set to bloom in Trump era
+date: 2017-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1701/S00290/nzs-rapport-with-china-set-to-bloom-in-trump-era.htm
 author: massey-university
+permalink: >-
+  /archive/2017/01/21/nzs-rapport-with-china-set-to-bloom-in-trump-era/index.html
+layout: layout.njk
 ---
 NZ’s rapport with China set to bloom in Trump era
 =================================================

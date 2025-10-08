@@ -1,9 +1,12 @@
 ---
 slug: old-māori-village-discovered-by-otago-archaeologists
-title: "Old Māori village discovered by Otago archaeologists"
-date: 2018-05-30
-source-url: https://www.scoop.co.nz/stories/AK1805/S00694/old-maori-village-discovered-by-otago-archaeologists.htm
+title: Old Māori village discovered by Otago archaeologists
+date: 2018-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1805/S00694/old-maori-village-discovered-by-otago-archaeologists.htm
 author: university-of-otago
+permalink: /archive/2018/05/30/old-m/index.html
+layout: layout.njk
 ---
 Old Māori village discovered by Otago archaeologists
 ====================================================

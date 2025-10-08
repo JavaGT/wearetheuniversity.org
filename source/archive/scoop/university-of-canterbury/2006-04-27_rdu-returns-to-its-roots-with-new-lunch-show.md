@@ -1,9 +1,12 @@
 ---
 slug: rdu-returns-to-its-roots-with-new-lunch-show
-title: "RDU returns to its roots with new lunch show"
-date: 2006-04-27
-source-url: https://www.scoop.co.nz/stories/ED0604/S00088/rdu-returns-to-its-roots-with-new-lunch-show.htm
+title: RDU returns to its roots with new lunch show
+date: 2006-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00088/rdu-returns-to-its-roots-with-new-lunch-show.htm
 author: university-of-canterbury
+permalink: /archive/2006/04/27/rdu-returns-to-its-roots-with-new-lunch-show/index.html
+layout: layout.njk
 ---
 RDU returns to its roots with new lunch show
 ============================================

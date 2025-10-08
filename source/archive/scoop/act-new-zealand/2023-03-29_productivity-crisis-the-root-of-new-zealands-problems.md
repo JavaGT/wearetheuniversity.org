@@ -1,9 +1,13 @@
 ---
 slug: productivity-crisis-the-root-of-new-zealands-problems
-title: "Productivity Crisis The Root Of New Zealand’s Problems"
-date: 2023-03-29
-source-url: https://www.scoop.co.nz/stories/PA2303/S00239/productivity-crisis-the-root-of-new-zealands-problems.htm
+title: Productivity Crisis The Root Of New Zealand’s Problems
+date: 2023-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00239/productivity-crisis-the-root-of-new-zealands-problems.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/03/29/productivity-crisis-the-root-of-new-zealands-problems/index.html
+layout: layout.njk
 ---
 Productivity Crisis The Root Of New Zealand’s Problems
 ======================================================

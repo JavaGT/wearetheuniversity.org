@@ -1,9 +1,12 @@
 ---
 slug: ousa-launches-anti-fees-petition
-title: "OUSA Launches Anti-fees petition"
-date: 2003-10-30
-source-url: https://www.scoop.co.nz/stories/ED0310/S00121/ousa-launches-anti-fees-petition.htm
+title: OUSA Launches Anti-fees petition
+date: 2003-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00121/ousa-launches-anti-fees-petition.htm
 author: otago-university-students-association
+permalink: /archive/2003/10/30/ousa-launches-anti-fees-petition/index.html
+layout: layout.njk
 ---
 OUSA Launches Anti-fees petition
 ================================

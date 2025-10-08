@@ -1,9 +1,12 @@
 ---
 slug: gisborne-secondment-for-museum-studies-lecturer
-title: "Gisborne secondment for museum studies lecturer"
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/BU0807/S00058/gisborne-secondment-for-museum-studies-lecturer.htm
+title: Gisborne secondment for museum studies lecturer
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0807/S00058/gisborne-secondment-for-museum-studies-lecturer.htm
 author: massey-university
+permalink: /archive/2008/07/03/gisborne-secondment-for-museum-studies-lecturer/index.html
+layout: layout.njk
 ---
 Gisborne secondment for museum studies lecturer
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: employment-law-must-be-stronger-says-ctu
-title: "Employment Law Must be Stronger, Says CTU"
-date: 2004-03-18
-source-url: https://www.scoop.co.nz/stories/PO0403/S00137/employment-law-must-be-stronger-says-ctu.htm
+title: Employment Law Must be Stronger, Says CTU
+date: 2004-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0403/S00137/employment-law-must-be-stronger-says-ctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/03/18/employment-law-must-be-stronger-says-ctu/index.html
+layout: layout.njk
 ---
 Employment Law Must be Stronger, Says CTU
 =========================================

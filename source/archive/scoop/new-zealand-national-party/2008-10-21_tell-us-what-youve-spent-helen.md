@@ -1,9 +1,12 @@
 ---
 slug: tell-us-what-youve-spent-helen
-title: "Tell us what you've spent, Helen"
-date: 2008-10-21
-source-url: https://www.scoop.co.nz/stories/PA0810/S00478/tell-us-what-youve-spent-helen.htm
+title: Tell us what you've spent, Helen
+date: 2008-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00478/tell-us-what-youve-spent-helen.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/21/tell-us-what-youve-spent-helen/index.html
+layout: layout.njk
 ---
 Tell us what you've spent, Helen
 ================================

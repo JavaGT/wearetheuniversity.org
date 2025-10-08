@@ -1,9 +1,13 @@
 ---
 slug: metiria-tureis-2015-budget-speech-the-abandoned-generation
-title: "Metiria Turei’s 2015 Budget Speech: The abandoned generation"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PA1505/S00371/metiria-tureis-2015-budget-speech-the-abandoned-generation.htm
+title: 'Metiria Turei’s 2015 Budget Speech: The abandoned generation'
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00371/metiria-tureis-2015-budget-speech-the-abandoned-generation.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/21/metiria-tureis-2015-budget-speech-the-abandoned-generation/index.html
+layout: layout.njk
 ---
 Metiria Turei’s 2015 Budget Speech: The abandoned generation
 ============================================================

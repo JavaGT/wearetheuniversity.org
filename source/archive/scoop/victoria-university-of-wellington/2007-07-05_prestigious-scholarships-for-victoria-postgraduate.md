@@ -1,9 +1,13 @@
 ---
 slug: prestigious-scholarships-for-victoria-postgraduate
-title: "Prestigious scholarships for Victoria postgraduate"
-date: 2007-07-05
-source-url: https://www.scoop.co.nz/stories/ED0707/S00022/prestigious-scholarships-for-victoria-postgraduate.htm
+title: Prestigious scholarships for Victoria postgraduate
+date: 2007-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00022/prestigious-scholarships-for-victoria-postgraduate.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/07/05/prestigious-scholarships-for-victoria-postgraduate/index.html
+layout: layout.njk
 ---
 Prestigious scholarships for Victoria postgraduate
 ==================================================

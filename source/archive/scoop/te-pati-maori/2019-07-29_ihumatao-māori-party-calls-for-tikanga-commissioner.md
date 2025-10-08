@@ -1,9 +1,12 @@
 ---
 slug: ihumatao-māori-party-calls-for-tikanga-commissioner
-title: "Ihumatao: Māori Party calls for Tikanga Commissioner"
-date: 2019-07-29
-source-url: https://www.scoop.co.nz/stories/PO1907/S00348/ihumatao-maori-party-calls-for-tikanga-commissioner.htm
+title: 'Ihumatao: Māori Party calls for Tikanga Commissioner'
+date: 2019-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1907/S00348/ihumatao-maori-party-calls-for-tikanga-commissioner.htm
 author: te-pati-maori
+permalink: /archive/2019/07/29/ihumatao-m/index.html
+layout: layout.njk
 ---
 Ihumatao: Māori Party calls for Tikanga Commissioner
 ====================================================

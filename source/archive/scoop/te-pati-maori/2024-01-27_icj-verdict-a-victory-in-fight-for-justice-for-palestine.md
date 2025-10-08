@@ -1,9 +1,13 @@
 ---
 slug: icj-verdict-a-victory-in-fight-for-justice-for-palestine
-title: "ICJ Verdict A Victory In Fight For Justice For Palestine"
-date: 2024-01-27
-source-url: https://www.scoop.co.nz/stories/WO2401/S00077/icj-verdict-a-victory-in-fight-for-justice-for-palestine.htm
+title: ICJ Verdict A Victory In Fight For Justice For Palestine
+date: 2024-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2401/S00077/icj-verdict-a-victory-in-fight-for-justice-for-palestine.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2024/01/27/icj-verdict-a-victory-in-fight-for-justice-for-palestine/index.html
+layout: layout.njk
 ---
 ICJ Verdict A Victory In Fight For Justice For Palestine
 ========================================================

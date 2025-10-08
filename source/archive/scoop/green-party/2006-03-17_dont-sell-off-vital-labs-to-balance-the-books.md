@@ -1,9 +1,12 @@
 ---
 slug: dont-sell-off-vital-labs-to-balance-the-books
-title: "Don't sell off vital labs to balance the books"
-date: 2006-03-17
-source-url: https://www.scoop.co.nz/stories/PA0603/S00292/dont-sell-off-vital-labs-to-balance-the-books.htm
+title: Don't sell off vital labs to balance the books
+date: 2006-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00292/dont-sell-off-vital-labs-to-balance-the-books.htm
 author: green-party
+permalink: /archive/2006/03/17/dont-sell-off-vital-labs-to-balance-the-books/index.html
+layout: layout.njk
 ---
 Don't sell off vital labs to balance the books
 ==============================================

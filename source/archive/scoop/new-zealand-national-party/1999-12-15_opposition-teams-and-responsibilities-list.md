@@ -1,9 +1,12 @@
 ---
 slug: opposition-teams-and-responsibilities-list
-title: "Opposition Teams And Responsibilities List"
-date: 1999-12-15
-source-url: https://www.scoop.co.nz/stories/PA9912/S00058/opposition-teams-and-responsibilities-list.htm
+title: Opposition Teams And Responsibilities List
+date: 1999-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00058/opposition-teams-and-responsibilities-list.htm
 author: new-zealand-national-party
+permalink: /archive/1999/12/15/opposition-teams-and-responsibilities-list/index.html
+layout: layout.njk
 ---
 Opposition Teams And Responsibilities List
 ==========================================

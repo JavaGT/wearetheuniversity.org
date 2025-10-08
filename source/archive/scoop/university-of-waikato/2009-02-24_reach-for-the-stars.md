@@ -1,9 +1,11 @@
 ---
 slug: reach-for-the-stars
-title: "Reach for the stars"
-date: 2009-02-24
+title: Reach for the stars
+date: 2009-02-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0902/S00083/reach-for-the-stars.htm
 author: university-of-waikato
+permalink: /archive/2009/02/24/reach-for-the-stars/index.html
+layout: layout.njk
 ---
 Reach for the stars
 ===================

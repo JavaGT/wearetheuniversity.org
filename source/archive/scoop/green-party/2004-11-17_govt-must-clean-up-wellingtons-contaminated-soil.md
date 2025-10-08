@@ -1,9 +1,13 @@
 ---
 slug: govt-must-clean-up-wellingtons-contaminated-soil
-title: "Govt must clean up Wellington’s contaminated soil"
-date: 2004-11-17
-source-url: https://www.scoop.co.nz/stories/PA0411/S00377/govt-must-clean-up-wellingtons-contaminated-soil.htm
+title: Govt must clean up Wellington’s contaminated soil
+date: 2004-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00377/govt-must-clean-up-wellingtons-contaminated-soil.htm
 author: green-party
+permalink: >-
+  /archive/2004/11/17/govt-must-clean-up-wellingtons-contaminated-soil/index.html
+layout: layout.njk
 ---
 Govt must clean up Wellington’s contaminated soil
 =================================================

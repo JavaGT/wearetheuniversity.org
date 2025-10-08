@@ -1,9 +1,11 @@
 ---
 slug: free-press-november-10th
-title: "Free Press - November 10th"
-date: 2015-11-10
+title: Free Press - November 10th
+date: 2015-11-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1511/S00142/free-press-november-10th.htm
 author: act-new-zealand
+permalink: /archive/2015/11/10/free-press-november-10th/index.html
+layout: layout.njk
 ---
 Free Press - November 10th
 ==========================

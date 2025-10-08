@@ -1,8 +1,11 @@
 ---
 slug: son-graduates-with-same-degree-as-dad
-title: "Son graduates with same degree as Dad"
-date: 2017-09-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/son-graduates-with-same-degree-as-dad.html
+title: Son graduates with same degree as Dad
+date: 2017-09-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/son-graduates-with-same-degree-as-dad.html
+permalink: /archive/2017/09/01/son-graduates-with-same-degree-as-dad/index.html
+layout: layout.njk
 ---
 Son graduates with same degree as Dad
 =====================================

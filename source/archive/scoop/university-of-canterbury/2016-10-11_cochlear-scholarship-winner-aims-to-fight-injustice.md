@@ -1,9 +1,13 @@
 ---
 slug: cochlear-scholarship-winner-aims-to-fight-injustice
-title: "Cochlear scholarship winner aims to fight injustice"
-date: 2016-10-11
-source-url: https://www.scoop.co.nz/stories/ED1610/S00025/cochlear-scholarship-winner-aims-to-fight-injustice.htm
+title: Cochlear scholarship winner aims to fight injustice
+date: 2016-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00025/cochlear-scholarship-winner-aims-to-fight-injustice.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/10/11/cochlear-scholarship-winner-aims-to-fight-injustice/index.html
+layout: layout.njk
 ---
 Cochlear scholarship winner aims to fight injustice
 ===================================================

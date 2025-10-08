@@ -1,9 +1,13 @@
 ---
 slug: mbie-funding-for-titanium-brings-lighter-dive-knife-closer
-title: "MBIE funding for titanium brings lighter dive knife closer"
-date: 2014-09-23
-source-url: https://www.scoop.co.nz/stories/ED1409/S00132/mbie-funding-for-titanium-brings-lighter-dive-knife-closer.htm
+title: MBIE funding for titanium brings lighter dive knife closer
+date: 2014-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00132/mbie-funding-for-titanium-brings-lighter-dive-knife-closer.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/09/23/mbie-funding-for-titanium-brings-lighter-dive-knife-closer/index.html
+layout: layout.njk
 ---
 MBIE funding for titanium brings lighter dive knife closer
 ==========================================================

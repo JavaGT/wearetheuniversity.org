@@ -1,9 +1,12 @@
 ---
 slug: higher-fines-for-litterbugs-coming
-title: "Higher fines for litterbugs coming"
-date: 2019-01-08
-source-url: https://www.scoop.co.nz/stories/PA1901/S00012/higher-fines-for-litterbugs-coming.htm
+title: Higher fines for litterbugs coming
+date: 2019-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00012/higher-fines-for-litterbugs-coming.htm
 author: new-zealand-national-party
+permalink: /archive/2019/01/08/higher-fines-for-litterbugs-coming/index.html
+layout: layout.njk
 ---
 Higher fines for litterbugs coming
 ==================================

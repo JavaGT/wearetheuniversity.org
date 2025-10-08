@@ -1,9 +1,13 @@
 ---
 slug: university-showcases-postgraduate-student-success
-title: "University showcases postgraduate student success"
-date: 2011-07-29
-source-url: https://www.scoop.co.nz/stories/ED1107/S00124/university-showcases-postgraduate-student-success.htm
+title: University showcases postgraduate student success
+date: 2011-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00124/university-showcases-postgraduate-student-success.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/07/29/university-showcases-postgraduate-student-success/index.html
+layout: layout.njk
 ---
 University showcases postgraduate student success
 =================================================

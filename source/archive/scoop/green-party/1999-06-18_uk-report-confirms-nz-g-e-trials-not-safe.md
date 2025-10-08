@@ -1,9 +1,12 @@
 ---
 slug: uk-report-confirms-nz-g-e-trials-not-safe
-title: "UK report confirms NZ g-e trials not safe"
-date: 1999-06-18
-source-url: https://www.scoop.co.nz/stories/PA9906/S00127/uk-report-confirms-nz-g-e-trials-not-safe.htm
+title: UK report confirms NZ g-e trials not safe
+date: 1999-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00127/uk-report-confirms-nz-g-e-trials-not-safe.htm
 author: green-party
+permalink: /archive/1999/06/18/uk-report-confirms-nz-g-e-trials-not-safe/index.html
+layout: layout.njk
 ---
 UK report confirms NZ g-e trials not safe
 =========================================

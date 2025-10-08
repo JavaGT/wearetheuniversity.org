@@ -1,9 +1,12 @@
 ---
 slug: young-literary-talent-shines-at-victoria-uni
-title: "Young literary talent shines at Victoria Uni"
-date: 2003-08-27
-source-url: https://www.scoop.co.nz/stories/ED0308/S00092/young-literary-talent-shines-at-victoria-uni.htm
+title: Young literary talent shines at Victoria Uni
+date: 2003-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00092/young-literary-talent-shines-at-victoria-uni.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/08/27/young-literary-talent-shines-at-victoria-uni/index.html
+layout: layout.njk
 ---
 Young literary talent shines at Victoria Uni
 ============================================

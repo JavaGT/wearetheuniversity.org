@@ -1,9 +1,13 @@
 ---
 slug: pre-schoolers-need-quality-education-not-just-quantity
-title: "Pre-schoolers need quality education, not just quantity"
-date: 2013-11-07
-source-url: https://www.scoop.co.nz/stories/ED1311/S00055/pre-schoolers-need-quality-education-not-just-quantity.htm
+title: Pre-schoolers need quality education, not just quantity
+date: 2013-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00055/pre-schoolers-need-quality-education-not-just-quantity.htm
 author: nzei
+permalink: >-
+  /archive/2013/11/07/pre-schoolers-need-quality-education-not-just-quantity/index.html
+layout: layout.njk
 ---
 Pre-schoolers need quality education, not just quantity
 =======================================================

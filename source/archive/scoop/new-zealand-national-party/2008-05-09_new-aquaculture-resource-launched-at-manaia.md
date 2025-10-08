@@ -1,9 +1,12 @@
 ---
 slug: new-aquaculture-resource-launched-at-manaia
-title: "New aquaculture resource launched at Manaia"
-date: 2008-05-09
-source-url: https://www.scoop.co.nz/stories/PA0805/S00156/new-aquaculture-resource-launched-at-manaia.htm
+title: New aquaculture resource launched at Manaia
+date: 2008-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00156/new-aquaculture-resource-launched-at-manaia.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/09/new-aquaculture-resource-launched-at-manaia/index.html
+layout: layout.njk
 ---
 New aquaculture resource launched at Manaia
 ===========================================

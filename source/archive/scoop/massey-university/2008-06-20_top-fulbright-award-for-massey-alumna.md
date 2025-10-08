@@ -1,9 +1,12 @@
 ---
 slug: top-fulbright-award-for-massey-alumna
-title: "Top Fulbright award for Massey Alumna"
-date: 2008-06-20
-source-url: https://www.scoop.co.nz/stories/ED0806/S00062/top-fulbright-award-for-massey-alumna.htm
+title: Top Fulbright award for Massey Alumna
+date: 2008-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00062/top-fulbright-award-for-massey-alumna.htm
 author: massey-university
+permalink: /archive/2008/06/20/top-fulbright-award-for-massey-alumna/index.html
+layout: layout.njk
 ---
 Top Fulbright award for Massey Alumna
 =====================================

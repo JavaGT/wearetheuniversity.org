@@ -1,9 +1,12 @@
 ---
 slug: safer-driving-brochure-targets-young-drivers
-title: "Safer driving brochure targets young drivers"
-date: 2009-05-01
-source-url: https://www.scoop.co.nz/stories/CU0905/S00006/safer-driving-brochure-targets-young-drivers.htm
+title: Safer driving brochure targets young drivers
+date: 2009-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00006/safer-driving-brochure-targets-young-drivers.htm
 author: university-of-waikato
+permalink: /archive/2009/05/01/safer-driving-brochure-targets-young-drivers/index.html
+layout: layout.njk
 ---
 Safer driving brochure targets young drivers
 ============================================

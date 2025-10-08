@@ -1,9 +1,13 @@
 ---
 slug: south-waikato-students-welcomed-through-new-initiative
-title: "South Waikato students welcomed through new initiative"
-date: 2016-02-18
-source-url: https://www.scoop.co.nz/stories/ED1602/S00059/south-waikato-students-welcomed-through-new-initiative.htm
+title: South Waikato students welcomed through new initiative
+date: 2016-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00059/south-waikato-students-welcomed-through-new-initiative.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/02/18/south-waikato-students-welcomed-through-new-initiative/index.html
+layout: layout.njk
 ---
 South Waikato students welcomed through new initiative
 ======================================================

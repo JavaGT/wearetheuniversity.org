@@ -1,9 +1,13 @@
 ---
 slug: ambitious-future-builds-on-strong-historic-values
-title: "Ambitious future builds on strong historic values"
-date: 2008-04-28
-source-url: https://www.scoop.co.nz/stories/PA0804/S00587/ambitious-future-builds-on-strong-historic-values.htm
+title: Ambitious future builds on strong historic values
+date: 2008-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00587/ambitious-future-builds-on-strong-historic-values.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/04/28/ambitious-future-builds-on-strong-historic-values/index.html
+layout: layout.njk
 ---
 Ambitious future builds on strong historic values
 =================================================

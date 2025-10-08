@@ -1,9 +1,12 @@
 ---
 slug: come-out-of-your-ivory-tower-minister
-title: "Come Out Of Your Ivory Tower Minister"
-date: 2000-05-10
-source-url: https://www.scoop.co.nz/stories/PA0005/S00217/come-out-of-your-ivory-tower-minister.htm
+title: Come Out Of Your Ivory Tower Minister
+date: 2000-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00217/come-out-of-your-ivory-tower-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/10/come-out-of-your-ivory-tower-minister/index.html
+layout: layout.njk
 ---
 Come Out Of Your Ivory Tower Minister
 =====================================

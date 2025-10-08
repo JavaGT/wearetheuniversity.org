@@ -1,9 +1,12 @@
 ---
 slug: nzqa-downplays-facilitator-role
-title: "NZQA downplays facilitator role"
-date: 2005-04-08
-source-url: https://www.scoop.co.nz/stories/PA0504/S00165/nzqa-downplays-facilitator-role.htm
+title: NZQA downplays facilitator role
+date: 2005-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00165/nzqa-downplays-facilitator-role.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/08/nzqa-downplays-facilitator-role/index.html
+layout: layout.njk
 ---
 NZQA downplays facilitator role
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: social-experiments-no-solution-for-mental-health-care
-title: "Social Experiments No Solution For Mental Health Care"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/GE1506/S00021/social-experiments-no-solution-for-mental-health-care.htm
+title: Social Experiments No Solution For Mental Health Care
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1506/S00021/social-experiments-no-solution-for-mental-health-care.htm
 author: massey-university
+permalink: >-
+  /archive/2015/06/04/social-experiments-no-solution-for-mental-health-care/index.html
+layout: layout.njk
 ---
 Social Experiments No Solution For Mental Health Care
 =====================================================

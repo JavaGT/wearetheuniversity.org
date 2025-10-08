@@ -1,9 +1,12 @@
 ---
 slug: education-a-key-focus-of-china-trip
-title: "Education a key focus of China trip"
-date: 2002-10-17
-source-url: https://www.scoop.co.nz/stories/PA0210/S00346/education-a-key-focus-of-china-trip.htm
+title: Education a key focus of China trip
+date: 2002-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00346/education-a-key-focus-of-china-trip.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/17/education-a-key-focus-of-china-trip/index.html
+layout: layout.njk
 ---
 Education a key focus of China trip
 ===================================

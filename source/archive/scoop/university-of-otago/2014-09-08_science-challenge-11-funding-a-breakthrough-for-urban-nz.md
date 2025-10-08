@@ -1,9 +1,13 @@
 ---
 slug: science-challenge-11-funding-a-breakthrough-for-urban-nz
-title: "Science Challenge 11 Funding a Breakthrough For Urban NZ"
-date: 2014-09-08
-source-url: https://www.scoop.co.nz/stories/SC1409/S00032/science-challenge-11-funding-a-breakthrough-for-urban-nz.htm
+title: Science Challenge 11 Funding a Breakthrough For Urban NZ
+date: 2014-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00032/science-challenge-11-funding-a-breakthrough-for-urban-nz.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/08/science-challenge-11-funding-a-breakthrough-for-urban-nz/index.html
+layout: layout.njk
 ---
 Science Challenge 11 Funding a Breakthrough For Urban NZ
 ========================================================

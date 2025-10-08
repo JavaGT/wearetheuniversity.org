@@ -1,9 +1,12 @@
 ---
 slug: rental-wof-well-believe-it-when-we-see-it
-title: "Rental WOF - we’ll believe it when we see it"
-date: 2013-03-07
-source-url: https://www.scoop.co.nz/stories/PA1303/S00108/rental-wof-well-believe-it-when-we-see-it.htm
+title: Rental WOF - we’ll believe it when we see it
+date: 2013-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00108/rental-wof-well-believe-it-when-we-see-it.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/07/rental-wof-well-believe-it-when-we-see-it/index.html
+layout: layout.njk
 ---
 Rental WOF - we’ll believe it when we see it
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: student-leader-takes-to-road-for-big-questions-tour
-title: "Student Leader Takes to Road for Big Questions Tour"
-date: 2013-02-25
-source-url: https://www.scoop.co.nz/stories/PO1302/S00244/student-leader-takes-to-road-for-big-questions-tour.htm
+title: Student Leader Takes to Road for Big Questions Tour
+date: 2013-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00244/student-leader-takes-to-road-for-big-questions-tour.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/02/25/student-leader-takes-to-road-for-big-questions-tour/index.html
+layout: layout.njk
 ---
 Student Leader Takes to Road for Big Questions Tour
 ===================================================

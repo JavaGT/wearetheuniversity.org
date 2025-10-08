@@ -1,9 +1,12 @@
 ---
 slug: more-paper-more-bureaucrats-no-more-money
-title: "More paper, more bureaucrats, no more money"
-date: 2006-07-27
-source-url: https://www.scoop.co.nz/stories/PA0607/S00473/more-paper-more-bureaucrats-no-more-money.htm
+title: More paper, more bureaucrats, no more money
+date: 2006-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00473/more-paper-more-bureaucrats-no-more-money.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/27/more-paper-more-bureaucrats-no-more-money/index.html
+layout: layout.njk
 ---
 More paper, more bureaucrats, no more money
 ===========================================

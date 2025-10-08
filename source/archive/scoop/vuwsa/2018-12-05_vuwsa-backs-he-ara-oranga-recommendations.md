@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-backs-he-ara-oranga-recommendations
-title: "VUWSA backs He Ara Oranga recommendations"
-date: 2018-12-05
-source-url: https://www.scoop.co.nz/stories/ED1812/S00013/vuwsa-backs-he-ara-oranga-recommendations.htm
+title: VUWSA backs He Ara Oranga recommendations
+date: 2018-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1812/S00013/vuwsa-backs-he-ara-oranga-recommendations.htm
 author: vuwsa
+permalink: /archive/2018/12/05/vuwsa-backs-he-ara-oranga-recommendations/index.html
+layout: layout.njk
 ---
 VUWSA backs He Ara Oranga recommendations
 =========================================

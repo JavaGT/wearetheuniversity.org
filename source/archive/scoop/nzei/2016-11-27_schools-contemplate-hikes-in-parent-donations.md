@@ -1,9 +1,12 @@
 ---
 slug: schools-contemplate-hikes-in-parent-donations
-title: "Schools contemplate hikes in parent donations"
-date: 2016-11-27
-source-url: https://www.scoop.co.nz/stories/PO1611/S00388/schools-contemplate-hikes-in-parent-donations.htm
+title: Schools contemplate hikes in parent donations
+date: 2016-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1611/S00388/schools-contemplate-hikes-in-parent-donations.htm
 author: nzei
+permalink: /archive/2016/11/27/schools-contemplate-hikes-in-parent-donations/index.html
+layout: layout.njk
 ---
 Schools contemplate hikes in parent donations
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: shihad-in-concert-for-one-nz-show-only
-title: "SHIHAD In concert For One NZ Show Only"
-date: 2006-09-16
-source-url: https://www.scoop.co.nz/stories/AK0609/S00142/shihad-in-concert-for-one-nz-show-only.htm
+title: SHIHAD In concert For One NZ Show Only
+date: 2006-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0609/S00142/shihad-in-concert-for-one-nz-show-only.htm
 author: aut-university
+permalink: /archive/2006/09/16/shihad-in-concert-for-one-nz-show-only/index.html
+layout: layout.njk
 ---
 SHIHAD In concert For One NZ Show Only
 ======================================

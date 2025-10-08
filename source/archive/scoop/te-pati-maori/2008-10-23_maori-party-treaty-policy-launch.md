@@ -1,9 +1,12 @@
 ---
 slug: maori-party-treaty-policy-launch
-title: "Maori Party - Treaty Policy launch"
-date: 2008-10-23
-source-url: https://www.scoop.co.nz/stories/PA0810/S00545/maori-party-treaty-policy-launch.htm
+title: Maori Party - Treaty Policy launch
+date: 2008-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00545/maori-party-treaty-policy-launch.htm
 author: te-pati-maori
+permalink: /archive/2008/10/23/maori-party-treaty-policy-launch/index.html
+layout: layout.njk
 ---
 Maori Party - Treaty Policy launch
 ==================================

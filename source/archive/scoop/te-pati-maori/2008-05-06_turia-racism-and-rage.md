@@ -1,9 +1,11 @@
 ---
 slug: turia-racism-and-rage
-title: "Turia: Racism and Rage"
-date: 2008-05-06
+title: 'Turia: Racism and Rage'
+date: 2008-05-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0805/S00097/turia-racism-and-rage.htm
 author: te-pati-maori
+permalink: /archive/2008/05/06/turia-racism-and-rage/index.html
+layout: layout.njk
 ---
 Turia: Racism and Rage
 ======================

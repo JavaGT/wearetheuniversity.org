@@ -1,9 +1,12 @@
 ---
 slug: katene-applauds-people-of-whakatu
-title: "Katene applauds people of Whakatu"
-date: 2010-07-21
-source-url: https://www.scoop.co.nz/stories/PA1007/S00325/katene-applauds-people-of-whakatu.htm
+title: Katene applauds people of Whakatu
+date: 2010-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00325/katene-applauds-people-of-whakatu.htm
 author: te-pati-maori
+permalink: /archive/2010/07/21/katene-applauds-people-of-whakatu/index.html
+layout: layout.njk
 ---
 Katene applauds people of Whakatu
 =================================

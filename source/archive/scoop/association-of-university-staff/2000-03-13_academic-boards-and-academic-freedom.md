@@ -1,9 +1,12 @@
 ---
 slug: academic-boards-and-academic-freedom
-title: "Academic Boards and Academic Freedom"
-date: 2000-03-13
-source-url: https://www.scoop.co.nz/stories/ED0003/S00021/academic-boards-and-academic-freedom.htm
+title: Academic Boards and Academic Freedom
+date: 2000-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00021/academic-boards-and-academic-freedom.htm
 author: association-of-university-staff
+permalink: /archive/2000/03/13/academic-boards-and-academic-freedom/index.html
+layout: layout.njk
 ---
 Academic Boards and Academic Freedom
 ====================================

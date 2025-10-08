@@ -1,9 +1,12 @@
 ---
 slug: acts-wellbeing-response-to-covid-19
-title: "ACT’s Wellbeing Response To Covid-19"
-date: 2020-08-20
-source-url: https://www.scoop.co.nz/stories/PA2008/S00166/acts-wellbeing-response-to-covid-19.htm
+title: ACT’s Wellbeing Response To Covid-19
+date: 2020-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00166/acts-wellbeing-response-to-covid-19.htm
 author: act-new-zealand
+permalink: /archive/2020/08/20/acts-wellbeing-response-to-covid-19/index.html
+layout: layout.njk
 ---
 ACT’s Wellbeing Response To Covid-19
 ====================================

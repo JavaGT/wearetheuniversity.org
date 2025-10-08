@@ -1,9 +1,13 @@
 ---
 slug: changed-guidelines-lead-to-more-firsts-for-cybersecurity
-title: "Changed guidelines lead to more firsts for cybersecurity"
-date: 2014-11-14
-source-url: https://www.scoop.co.nz/stories/ED1411/S00088/changed-guidelines-lead-to-more-firsts-for-cybersecurity.htm
+title: Changed guidelines lead to more firsts for cybersecurity
+date: 2014-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00088/changed-guidelines-lead-to-more-firsts-for-cybersecurity.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/11/14/changed-guidelines-lead-to-more-firsts-for-cybersecurity/index.html
+layout: layout.njk
 ---
 Changed guidelines lead to more firsts for cybersecurity
 ========================================================

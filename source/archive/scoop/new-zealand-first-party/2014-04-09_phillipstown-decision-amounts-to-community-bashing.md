@@ -1,9 +1,13 @@
 ---
 slug: phillipstown-decision-amounts-to-community-bashing
-title: "Phillipstown Decision Amounts to Community Bashing"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/PA1404/S00154/phillipstown-decision-amounts-to-community-bashing.htm
+title: Phillipstown Decision Amounts to Community Bashing
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00154/phillipstown-decision-amounts-to-community-bashing.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/04/09/phillipstown-decision-amounts-to-community-bashing/index.html
+layout: layout.njk
 ---
 Phillipstown Decision Amounts to Community Bashing
 ==================================================

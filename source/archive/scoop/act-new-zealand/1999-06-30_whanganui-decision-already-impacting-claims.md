@@ -1,9 +1,12 @@
 ---
 slug: whanganui-decision-already-impacting-claims
-title: "Whanganui Decision Already Impacting Claims"
-date: 1999-06-30
-source-url: https://www.scoop.co.nz/stories/PA9906/S00324/whanganui-decision-already-impacting-claims.htm
+title: Whanganui Decision Already Impacting Claims
+date: 1999-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00324/whanganui-decision-already-impacting-claims.htm
 author: act-new-zealand
+permalink: /archive/1999/06/30/whanganui-decision-already-impacting-claims/index.html
+layout: layout.njk
 ---
 Whanganui Decision Already Impacting Claims
 ===========================================

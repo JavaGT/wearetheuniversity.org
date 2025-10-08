@@ -1,9 +1,13 @@
 ---
 slug: planning-degree-helps-young-writer-find-her-voice
-title: "Planning degree helps young writer find her voice"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/ED1709/S00035/planning-degree-helps-young-writer-find-her-voice.htm
+title: Planning degree helps young writer find her voice
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00035/planning-degree-helps-young-writer-find-her-voice.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/09/12/planning-degree-helps-young-writer-find-her-voice/index.html
+layout: layout.njk
 ---
 Planning degree helps young writer find her voice
 =================================================

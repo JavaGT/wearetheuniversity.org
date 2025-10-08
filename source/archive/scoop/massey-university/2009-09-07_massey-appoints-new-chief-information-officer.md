@@ -1,9 +1,12 @@
 ---
 slug: massey-appoints-new-chief-information-officer
-title: "Massey appoints new chief information officer"
-date: 2009-09-07
-source-url: https://www.scoop.co.nz/stories/ED0909/S00023/massey-appoints-new-chief-information-officer.htm
+title: Massey appoints new chief information officer
+date: 2009-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00023/massey-appoints-new-chief-information-officer.htm
 author: massey-university
+permalink: /archive/2009/09/07/massey-appoints-new-chief-information-officer/index.html
+layout: layout.njk
 ---
 Massey appoints new chief information officer
 =============================================

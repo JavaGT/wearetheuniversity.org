@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-celtic-roots-explored
-title: "New Zealand’s Celtic roots explored"
-date: 2005-11-07
-source-url: https://www.scoop.co.nz/stories/ED0511/S00028/new-zealands-celtic-roots-explored.htm
+title: New Zealand’s Celtic roots explored
+date: 2005-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00028/new-zealands-celtic-roots-explored.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/11/07/new-zealands-celtic-roots-explored/index.html
+layout: layout.njk
 ---
 New Zealand’s Celtic roots explored
 ===================================

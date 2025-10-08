@@ -1,9 +1,12 @@
 ---
 slug: gm-food-scare-inappropriate-says-professor
-title: "GM food scare inappropriate says professor"
-date: 2001-10-31
-source-url: https://www.scoop.co.nz/stories/SC0110/S00059/gm-food-scare-inappropriate-says-professor.htm
+title: GM food scare inappropriate says professor
+date: 2001-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0110/S00059/gm-food-scare-inappropriate-says-professor.htm
 author: lincoln-university
+permalink: /archive/2001/10/31/gm-food-scare-inappropriate-says-professor/index.html
+layout: layout.njk
 ---
 GM food scare inappropriate says professor
 ==========================================

@@ -1,8 +1,11 @@
 ---
 slug: university-of-auckland-defends-coveted-shield
-title: "University of Auckland defends coveted Shield"
-date: 2017-10-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/university-of-auckland-defends-coveted-shield.html
+title: University of Auckland defends coveted Shield
+date: 2017-10-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/university-of-auckland-defends-coveted-shield.html
+permalink: /archive/2017/10/11/university-of-auckland-defends-coveted-shield/index.html
+layout: layout.njk
 ---
 University of Auckland defends coveted Shield
 =============================================

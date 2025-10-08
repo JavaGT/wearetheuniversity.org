@@ -1,9 +1,11 @@
 ---
 slug: www-mccully-co-nz-23-may-2008
-title: "www.mccully.co.nz - 23 May 2008"
-date: 2008-05-23
+title: www.mccully.co.nz - 23 May 2008
+date: 2008-05-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0805/S00469/wwwmccullyconz-23-may-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/23/www-mccully-co-nz-23-may-2008/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 23 May 2008
 ===============================

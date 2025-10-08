@@ -1,9 +1,12 @@
 ---
 slug: rail-electrification-not-more-urban-sprawl
-title: "Rail electrification not more urban sprawl"
-date: 2007-04-23
-source-url: https://www.scoop.co.nz/stories/PA0704/S00383/rail-electrification-not-more-urban-sprawl.htm
+title: Rail electrification not more urban sprawl
+date: 2007-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00383/rail-electrification-not-more-urban-sprawl.htm
 author: green-party
+permalink: /archive/2007/04/23/rail-electrification-not-more-urban-sprawl/index.html
+layout: layout.njk
 ---
 Rail electrification not more urban sprawl
 ==========================================

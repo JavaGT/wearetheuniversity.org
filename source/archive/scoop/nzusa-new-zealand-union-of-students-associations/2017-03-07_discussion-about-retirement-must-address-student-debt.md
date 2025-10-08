@@ -1,9 +1,13 @@
 ---
 slug: discussion-about-retirement-must-address-student-debt
-title: "Discussion about Retirement Must Address Student Debt"
-date: 2017-03-07
-source-url: https://www.scoop.co.nz/stories/PO1703/S00073/discussion-about-retirement-must-address-student-debt.htm
+title: Discussion about Retirement Must Address Student Debt
+date: 2017-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00073/discussion-about-retirement-must-address-student-debt.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/03/07/discussion-about-retirement-must-address-student-debt/index.html
+layout: layout.njk
 ---
 Discussion about Retirement Must Address Student Debt
 =====================================================

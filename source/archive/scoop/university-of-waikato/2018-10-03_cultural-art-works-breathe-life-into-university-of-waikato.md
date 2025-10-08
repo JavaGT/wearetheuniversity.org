@@ -1,9 +1,13 @@
 ---
 slug: cultural-art-works-breathe-life-into-university-of-waikato
-title: "Cultural art works breathe life into University of Waikato"
-date: 2018-10-03
-source-url: https://www.scoop.co.nz/stories/CU1810/S00041/cultural-art-works-breathe-life-into-university-of-waikato.htm
+title: Cultural art works breathe life into University of Waikato
+date: 2018-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1810/S00041/cultural-art-works-breathe-life-into-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2018/10/03/cultural-art-works-breathe-life-into-university-of-waikato/index.html
+layout: layout.njk
 ---
 Cultural art works breathe life into University of Waikato
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: rising-food-prices-hit-struggling-families
-title: "Rising food prices hit struggling families"
-date: 2011-04-13
-source-url: https://www.scoop.co.nz/stories/PA1104/S00271/rising-food-prices-hit-struggling-families.htm
+title: Rising food prices hit struggling families
+date: 2011-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00271/rising-food-prices-hit-struggling-families.htm
 author: green-party
+permalink: /archive/2011/04/13/rising-food-prices-hit-struggling-families/index.html
+layout: layout.njk
 ---
 Rising food prices hit struggling families
 ==========================================

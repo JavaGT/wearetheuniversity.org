@@ -1,9 +1,11 @@
 ---
 slug: more-pc-claptrap-from-labour
-title: "More PC claptrap from Labour"
-date: 2005-08-18
+title: More PC claptrap from Labour
+date: 2005-08-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00462/more-pc-claptrap-from-labour.htm
 author: act-new-zealand
+permalink: /archive/2005/08/18/more-pc-claptrap-from-labour/index.html
+layout: layout.njk
 ---
 More PC claptrap from Labour
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: proposals-to-ditch-open-entry-questioned
-title: "Proposals to ditch 'open entry' questioned"
-date: 2007-12-05
-source-url: https://www.scoop.co.nz/stories/PA0712/S00096/proposals-to-ditch-open-entry-questioned.htm
+title: Proposals to ditch 'open entry' questioned
+date: 2007-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00096/proposals-to-ditch-open-entry-questioned.htm
 author: te-pati-maori
+permalink: /archive/2007/12/05/proposals-to-ditch-open-entry-questioned/index.html
+layout: layout.njk
 ---
 Proposals to ditch 'open entry' questioned
 ==========================================

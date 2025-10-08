@@ -1,9 +1,13 @@
 ---
 slug: cat-and-dog-allergens-on-soft-toys-a-risk-for-asthmatics
-title: "Cat and dog allergens on soft toys a risk for asthmatics"
-date: 2013-12-09
-source-url: https://www.scoop.co.nz/stories/SC1312/S00031/cat-and-dog-allergens-on-soft-toys-a-risk-for-asthmatics.htm
+title: Cat and dog allergens on soft toys a risk for asthmatics
+date: 2013-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00031/cat-and-dog-allergens-on-soft-toys-a-risk-for-asthmatics.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/12/09/cat-and-dog-allergens-on-soft-toys-a-risk-for-asthmatics/index.html
+layout: layout.njk
 ---
 Cat and dog allergens on soft toys a risk for asthmatics
 ========================================================

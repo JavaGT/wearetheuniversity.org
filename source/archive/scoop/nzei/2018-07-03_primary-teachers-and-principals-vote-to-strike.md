@@ -1,9 +1,12 @@
 ---
 slug: primary-teachers-and-principals-vote-to-strike
-title: "Primary teachers and principals vote to strike"
-date: 2018-07-03
-source-url: https://www.scoop.co.nz/stories/ED1807/S00010/primary-teachers-and-principals-vote-to-strike.htm
+title: Primary teachers and principals vote to strike
+date: 2018-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1807/S00010/primary-teachers-and-principals-vote-to-strike.htm
 author: nzei
+permalink: /archive/2018/07/03/primary-teachers-and-principals-vote-to-strike/index.html
+layout: layout.njk
 ---
 Primary teachers and principals vote to strike
 ==============================================

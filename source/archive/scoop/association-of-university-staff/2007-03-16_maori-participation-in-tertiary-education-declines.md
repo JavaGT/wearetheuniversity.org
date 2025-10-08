@@ -1,9 +1,13 @@
 ---
 slug: maori-participation-in-tertiary-education-declines
-title: "Maori participation in tertiary education declines"
-date: 2007-03-16
-source-url: https://www.scoop.co.nz/stories/ED0703/S00056/maori-participation-in-tertiary-education-declines.htm
+title: Maori participation in tertiary education declines
+date: 2007-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00056/maori-participation-in-tertiary-education-declines.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2007/03/16/maori-participation-in-tertiary-education-declines/index.html
+layout: layout.njk
 ---
 Maori participation in tertiary education declines
 ==================================================

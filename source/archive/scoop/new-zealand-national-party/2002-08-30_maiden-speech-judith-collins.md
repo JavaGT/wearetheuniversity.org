@@ -1,9 +1,11 @@
 ---
 slug: maiden-speech-judith-collins
-title: "Maiden Speech - Judith Collins"
-date: 2002-08-30
+title: Maiden Speech - Judith Collins
+date: 2002-08-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0208/S00310/maiden-speech-judith-collins.htm
 author: new-zealand-national-party
+permalink: /archive/2002/08/30/maiden-speech-judith-collins/index.html
+layout: layout.njk
 ---
 Maiden Speech - Judith Collins
 ==============================

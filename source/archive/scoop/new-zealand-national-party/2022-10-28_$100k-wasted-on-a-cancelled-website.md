@@ -1,9 +1,12 @@
 ---
 slug: $100k-wasted-on-a-cancelled-website
-title: "$100k Wasted On A Cancelled Website"
-date: 2022-10-28
-source-url: https://www.scoop.co.nz/stories/PA2210/S00211/100k-wasted-on-a-cancelled-website.htm
+title: $100k Wasted On A Cancelled Website
+date: 2022-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00211/100k-wasted-on-a-cancelled-website.htm
 author: new-zealand-national-party
+permalink: /archive/2022/10/28/100k-wasted-on-a-cancelled-website/index.html
+layout: layout.njk
 ---
 $100k Wasted On A Cancelled Website
 ===================================

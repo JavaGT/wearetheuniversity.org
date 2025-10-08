@@ -1,9 +1,11 @@
 ---
 slug: student-debt-is-a-monster
-title: "Student debt is a monster"
-date: 2015-08-13
+title: Student debt is a monster
+date: 2015-08-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1508/S00061/student-debt-is-a-monster.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2015/08/13/student-debt-is-a-monster/index.html
+layout: layout.njk
 ---
 Student debt is a monster
 =========================

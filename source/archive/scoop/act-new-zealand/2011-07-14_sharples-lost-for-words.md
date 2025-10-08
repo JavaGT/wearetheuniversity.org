@@ -1,9 +1,11 @@
 ---
 slug: sharples-lost-for-words
-title: "Sharples Lost for Words"
-date: 2011-07-14
+title: Sharples Lost for Words
+date: 2011-07-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1107/S00246/sharples-lost-for-words.htm
 author: act-new-zealand
+permalink: /archive/2011/07/14/sharples-lost-for-words/index.html
+layout: layout.njk
 ---
 Sharples Lost for Words
 =======================

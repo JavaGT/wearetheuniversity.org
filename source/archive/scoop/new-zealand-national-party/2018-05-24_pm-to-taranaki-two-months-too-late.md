@@ -1,9 +1,12 @@
 ---
 slug: pm-to-taranaki-two-months-too-late
-title: "PM to Taranaki two months too late"
-date: 2018-05-24
-source-url: https://www.scoop.co.nz/stories/PA1805/S00335/pm-to-taranaki-two-months-too-late.htm
+title: PM to Taranaki two months too late
+date: 2018-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00335/pm-to-taranaki-two-months-too-late.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/24/pm-to-taranaki-two-months-too-late/index.html
+layout: layout.njk
 ---
 PM to Taranaki two months too late
 ==================================

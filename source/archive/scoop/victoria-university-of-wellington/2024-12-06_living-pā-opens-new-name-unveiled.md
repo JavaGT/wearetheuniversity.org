@@ -1,9 +1,12 @@
 ---
 slug: living-pā-opens-new-name-unveiled
-title: "Living Pā Opens: New Name Unveiled"
-date: 2024-12-06
-source-url: https://www.scoop.co.nz/stories/AK2412/S00187/living-pa-opens-new-name-unveiled.htm
+title: 'Living Pā Opens: New Name Unveiled'
+date: 2024-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2412/S00187/living-pa-opens-new-name-unveiled.htm
 author: victoria-university-of-wellington
+permalink: /archive/2024/12/06/living-p/index.html
+layout: layout.njk
 ---
 Living Pā Opens: New Name Unveiled
 ==================================

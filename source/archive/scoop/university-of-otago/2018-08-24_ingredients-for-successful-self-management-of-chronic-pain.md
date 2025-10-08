@@ -1,9 +1,13 @@
 ---
 slug: ingredients-for-successful-self-management-of-chronic-pain
-title: "Ingredients for successful self-management of chronic pain"
-date: 2018-08-24
-source-url: https://www.scoop.co.nz/stories/GE1808/S00066/ingredients-for-successful-self-management-of-chronic-pain.htm
+title: Ingredients for successful self-management of chronic pain
+date: 2018-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00066/ingredients-for-successful-self-management-of-chronic-pain.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/24/ingredients-for-successful-self-management-of-chronic-pain/index.html
+layout: layout.njk
 ---
 Ingredients for successful self-management of chronic pain
 ==========================================================

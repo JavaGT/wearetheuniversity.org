@@ -1,9 +1,11 @@
 ---
 slug: do-possums-howl-at-the-moon
-title: "Do possums howl at the moon?"
-date: 2016-07-05
+title: Do possums howl at the moon?
+date: 2016-07-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1607/S00009/do-possums-howl-at-the-moon.htm
 author: lincoln-university
+permalink: /archive/2016/07/05/do-possums-howl-at-the-moon/index.html
+layout: layout.njk
 ---
 Do possums howl at the moon?
 ============================

@@ -1,9 +1,13 @@
 ---
 slug: goff-meets-us-vice-president-biden-at-conference
-title: "Goff meets US Vice President Biden at conference"
-date: 2009-03-30
-source-url: https://www.scoop.co.nz/stories/PA0903/S00431/goff-meets-us-vice-president-biden-at-conference.htm
+title: Goff meets US Vice President Biden at conference
+date: 2009-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00431/goff-meets-us-vice-president-biden-at-conference.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/03/30/goff-meets-us-vice-president-biden-at-conference/index.html
+layout: layout.njk
 ---
 Goff meets US Vice President Biden at conference
 ================================================

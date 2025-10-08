@@ -1,9 +1,13 @@
 ---
 slug: methane-consuming-microbes-combat-climate-change
-title: "Methane consuming microbes combat climate change"
-date: 2014-11-26
-source-url: https://www.scoop.co.nz/stories/SC1411/S00071/methane-consuming-microbes-combat-climate-change.htm
+title: Methane consuming microbes combat climate change
+date: 2014-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00071/methane-consuming-microbes-combat-climate-change.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/11/26/methane-consuming-microbes-combat-climate-change/index.html
+layout: layout.njk
 ---
 Methane consuming microbes combat climate change
 ================================================

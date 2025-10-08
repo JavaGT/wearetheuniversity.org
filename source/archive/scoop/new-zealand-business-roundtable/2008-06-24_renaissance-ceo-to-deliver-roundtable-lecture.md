@@ -1,9 +1,12 @@
 ---
 slug: renaissance-ceo-to-deliver-roundtable-lecture
-title: "Renaissance  CEO To Deliver Roundtable Lecture"
-date: 2008-06-24
-source-url: https://www.scoop.co.nz/stories/BU0806/S00427/renaissance-ceo-to-deliver-roundtable-lecture.htm
+title: Renaissance  CEO To Deliver Roundtable Lecture
+date: 2008-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0806/S00427/renaissance-ceo-to-deliver-roundtable-lecture.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/06/24/renaissance-ceo-to-deliver-roundtable-lecture/index.html
+layout: layout.njk
 ---
 Renaissance CEO To Deliver Roundtable Lecture
 =============================================

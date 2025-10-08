@@ -1,9 +1,12 @@
 ---
 slug: transit-playing-politics-over-eastern-highway
-title: "Transit 'Playing Politics' Over Eastern Highway"
-date: 2002-04-10
-source-url: https://www.scoop.co.nz/stories/PA0204/S00139/transit-playing-politics-over-eastern-highway.htm
+title: Transit 'Playing Politics' Over Eastern Highway
+date: 2002-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00139/transit-playing-politics-over-eastern-highway.htm
 author: green-party
+permalink: /archive/2002/04/10/transit-playing-politics-over-eastern-highway/index.html
+layout: layout.njk
 ---
 Transit 'Playing Politics' Over Eastern Highway
 ===============================================

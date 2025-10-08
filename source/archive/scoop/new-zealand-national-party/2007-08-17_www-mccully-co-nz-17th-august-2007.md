@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-17th-august-2007
-title: "www.mccully.co.nz - 17th August 2007"
-date: 2007-08-17
-source-url: https://www.scoop.co.nz/stories/PA0708/S00315/wwwmccullyconz-17th-august-2007.htm
+title: www.mccully.co.nz - 17th August 2007
+date: 2007-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00315/wwwmccullyconz-17th-august-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/17/www-mccully-co-nz-17th-august-2007/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 17th August 2007
 ====================================

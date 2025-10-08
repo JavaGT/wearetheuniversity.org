@@ -1,9 +1,12 @@
 ---
 slug: students-protesting-winzs-processing
-title: "Students Protesting Winz's Processing"
-date: 2000-03-17
-source-url: https://www.scoop.co.nz/stories/ED0003/S00037/students-protesting-winzs-processing.htm
+title: Students Protesting Winz's Processing
+date: 2000-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00037/students-protesting-winzs-processing.htm
 author: victoria-university-students-association
+permalink: /archive/2000/03/17/students-protesting-winzs-processing/index.html
+layout: layout.njk
 ---
 Students Protesting Winz's Processing
 =====================================

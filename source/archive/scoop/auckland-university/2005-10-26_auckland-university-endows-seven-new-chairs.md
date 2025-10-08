@@ -1,9 +1,12 @@
 ---
 slug: auckland-university-endows-seven-new-chairs
-title: "Auckland University Endows Seven New Chairs"
-date: 2005-10-26
-source-url: https://www.scoop.co.nz/stories/ED0510/S00076/auckland-university-endows-seven-new-chairs.htm
+title: Auckland University Endows Seven New Chairs
+date: 2005-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00076/auckland-university-endows-seven-new-chairs.htm
 author: auckland-university
+permalink: /archive/2005/10/26/auckland-university-endows-seven-new-chairs/index.html
+layout: layout.njk
 ---
 Auckland University Endows Seven New Chairs
 ===========================================

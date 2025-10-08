@@ -1,9 +1,12 @@
 ---
 slug: congratulations-farah-palmer-on-nzr-board-role
-title: "Congratulations Farah Palmer on NZR board role"
-date: 2016-12-15
-source-url: https://www.scoop.co.nz/stories/PA1612/S00257/congratulations-farah-palmer-on-nzr-board-role.htm
+title: Congratulations Farah Palmer on NZR board role
+date: 2016-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00257/congratulations-farah-palmer-on-nzr-board-role.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/12/15/congratulations-farah-palmer-on-nzr-board-role/index.html
+layout: layout.njk
 ---
 Congratulations Farah Palmer on NZR board role
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: smokers-respond-to-spur-of-the-moment-chance-to-quit
-title: "Smokers respond to spur of the moment chance to quit"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/GE1402/S00085/smokers-respond-to-spur-of-the-moment-chance-to-quit.htm
+title: Smokers respond to spur of the moment chance to quit
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1402/S00085/smokers-respond-to-spur-of-the-moment-chance-to-quit.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/02/24/smokers-respond-to-spur-of-the-moment-chance-to-quit/index.html
+layout: layout.njk
 ---
 Smokers respond to spur of the moment chance to quit
 ====================================================

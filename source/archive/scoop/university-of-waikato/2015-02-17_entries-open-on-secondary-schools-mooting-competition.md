@@ -1,9 +1,13 @@
 ---
 slug: entries-open-on-secondary-schools-mooting-competition
-title: "Entries open on secondary schools mooting competition"
-date: 2015-02-17
-source-url: https://www.scoop.co.nz/stories/ED1502/S00061/entries-open-on-secondary-schools-mooting-competition.htm
+title: Entries open on secondary schools mooting competition
+date: 2015-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00061/entries-open-on-secondary-schools-mooting-competition.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/02/17/entries-open-on-secondary-schools-mooting-competition/index.html
+layout: layout.njk
 ---
 Entries open on secondary schools mooting competition
 =====================================================

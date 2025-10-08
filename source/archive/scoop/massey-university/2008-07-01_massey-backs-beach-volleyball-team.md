@@ -1,9 +1,12 @@
 ---
 slug: massey-backs-beach-volleyball-team
-title: "Massey backs beach volleyball team"
-date: 2008-07-01
-source-url: https://www.scoop.co.nz/stories/CU0807/S00007/massey-backs-beach-volleyball-team.htm
+title: Massey backs beach volleyball team
+date: 2008-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0807/S00007/massey-backs-beach-volleyball-team.htm
 author: massey-university
+permalink: /archive/2008/07/01/massey-backs-beach-volleyball-team/index.html
+layout: layout.njk
 ---
 Massey backs beach volleyball team
 ==================================

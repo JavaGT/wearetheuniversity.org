@@ -1,9 +1,12 @@
 ---
 slug: act-mp-john-boscawen-selects-youth-mp
-title: "ACT MP John Boscawen Selects Youth MP"
-date: 2010-04-21
-source-url: https://www.scoop.co.nz/stories/PA1004/S00234/act-mp-john-boscawen-selects-youth-mp.htm
+title: ACT MP John Boscawen Selects Youth MP
+date: 2010-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00234/act-mp-john-boscawen-selects-youth-mp.htm
 author: act-new-zealand
+permalink: /archive/2010/04/21/act-mp-john-boscawen-selects-youth-mp/index.html
+layout: layout.njk
 ---
 ACT MP John Boscawen Selects Youth MP
 =====================================

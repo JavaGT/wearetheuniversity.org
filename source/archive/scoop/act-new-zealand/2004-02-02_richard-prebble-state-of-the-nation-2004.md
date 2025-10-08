@@ -1,9 +1,12 @@
 ---
 slug: richard-prebble-state-of-the-nation-2004
-title: "Richard Prebble: State of the Nation 2004"
-date: 2004-02-02
-source-url: https://www.scoop.co.nz/stories/PA0402/S00017/richard-prebble-state-of-the-nation-2004.htm
+title: 'Richard Prebble: State of the Nation 2004'
+date: 2004-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00017/richard-prebble-state-of-the-nation-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/02/02/richard-prebble-state-of-the-nation-2004/index.html
+layout: layout.njk
 ---
 Richard Prebble: State of the Nation 2004
 =========================================

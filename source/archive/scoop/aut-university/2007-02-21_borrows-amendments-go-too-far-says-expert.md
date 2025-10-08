@@ -1,9 +1,12 @@
 ---
 slug: borrows-amendments-go-too-far-says-expert
-title: "Borrows amendments 'go too far',  says expert"
-date: 2007-02-21
-source-url: https://www.scoop.co.nz/stories/PO0702/S00297/borrows-amendments-go-too-far-says-expert.htm
+title: Borrows amendments 'go too far',  says expert
+date: 2007-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0702/S00297/borrows-amendments-go-too-far-says-expert.htm
 author: aut-university
+permalink: /archive/2007/02/21/borrows-amendments-go-too-far-says-expert/index.html
+layout: layout.njk
 ---
 Borrows amendments 'go too far', says expert
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: the-mapp-report-education-is-key-to-opportunities
-title: "The Mapp Report: Education Is Key To Opportunities"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/PA0706/S00611/the-mapp-report-education-is-key-to-opportunities.htm
+title: 'The Mapp Report: Education Is Key To Opportunities'
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00611/the-mapp-report-education-is-key-to-opportunities.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/06/29/the-mapp-report-education-is-key-to-opportunities/index.html
+layout: layout.njk
 ---
 The Mapp Report: Education Is Key To Opportunities
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: ctu-forum-tonight-on-election-campaign-financing
-title: "CTU Forum Tonight On Election Campaign Financing"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/PO0703/S00347/ctu-forum-tonight-on-election-campaign-financing.htm
+title: CTU Forum Tonight On Election Campaign Financing
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00347/ctu-forum-tonight-on-election-campaign-financing.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2007/03/27/ctu-forum-tonight-on-election-campaign-financing/index.html
+layout: layout.njk
 ---
 CTU Forum Tonight On Election Campaign Financing
 ================================================

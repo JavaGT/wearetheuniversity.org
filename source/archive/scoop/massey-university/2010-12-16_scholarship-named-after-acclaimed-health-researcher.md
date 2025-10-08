@@ -1,9 +1,13 @@
 ---
 slug: scholarship-named-after-acclaimed-health-researcher
-title: "Scholarship named after acclaimed health researcher"
-date: 2010-12-16
-source-url: https://www.scoop.co.nz/stories/ED1012/S00071/scholarship-named-after-acclaimed-health-researcher.htm
+title: Scholarship named after acclaimed health researcher
+date: 2010-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00071/scholarship-named-after-acclaimed-health-researcher.htm
 author: massey-university
+permalink: >-
+  /archive/2010/12/16/scholarship-named-after-acclaimed-health-researcher/index.html
+layout: layout.njk
 ---
 Scholarship named after acclaimed health researcher
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: winter-lecture-series-line-up-confirmed
-title: "Winter Lecture Series line up confirmed"
-date: 2013-07-08
-source-url: https://www.scoop.co.nz/stories/ED1307/S00037/winter-lecture-series-line-up-confirmed.htm
+title: Winter Lecture Series line up confirmed
+date: 2013-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00037/winter-lecture-series-line-up-confirmed.htm
 author: university-of-waikato
+permalink: /archive/2013/07/08/winter-lecture-series-line-up-confirmed/index.html
+layout: layout.njk
 ---
 Winter Lecture Series line up confirmed
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: government-legislation-on-academic-freedom-sign-of-new-hope-for-universities
-title: "Government Legislation On Academic Freedom Sign Of New Hope For Universities"
-date: 2024-12-19
-source-url: https://www.scoop.co.nz/stories/PO2412/S00107/government-legislation-on-academic-freedom-sign-of-new-hope-for-universities.htm
+title: Government Legislation On Academic Freedom Sign Of New Hope For Universities
+date: 2024-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2412/S00107/government-legislation-on-academic-freedom-sign-of-new-hope-for-universities.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/12/19/government-legislation-on-academic-freedom-sign-of-new-hope-for-universities/index.html
+layout: layout.njk
 ---
 Government Legislation On Academic Freedom Sign Of New Hope For Universities
 ============================================================================

@@ -1,9 +1,13 @@
 ---
 slug: green-co-leader-to-open-series-on-new-generation
-title: "Green co-leader to open series on new generation"
-date: 2010-03-22
-source-url: https://www.scoop.co.nz/stories/PO1003/S00322/green-co-leader-to-open-series-on-new-generation.htm
+title: Green co-leader to open series on new generation
+date: 2010-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00322/green-co-leader-to-open-series-on-new-generation.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/03/22/green-co-leader-to-open-series-on-new-generation/index.html
+layout: layout.njk
 ---
 Green co-leader to open series on new generation
 ================================================

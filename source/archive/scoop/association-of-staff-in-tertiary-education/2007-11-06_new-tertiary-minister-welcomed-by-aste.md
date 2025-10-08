@@ -1,9 +1,12 @@
 ---
 slug: new-tertiary-minister-welcomed-by-aste
-title: "New Tertiary Minister Welcomed By ASTE"
-date: 2007-11-06
-source-url: https://www.scoop.co.nz/stories/ED0711/S00021/new-tertiary-minister-welcomed-by-aste.htm
+title: New Tertiary Minister Welcomed By ASTE
+date: 2007-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00021/new-tertiary-minister-welcomed-by-aste.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2007/11/06/new-tertiary-minister-welcomed-by-aste/index.html
+layout: layout.njk
 ---
 New Tertiary Minister Welcomed By ASTE
 ======================================

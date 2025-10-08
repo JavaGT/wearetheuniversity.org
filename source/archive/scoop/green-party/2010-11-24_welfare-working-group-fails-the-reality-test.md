@@ -1,9 +1,12 @@
 ---
 slug: welfare-working-group-fails-the-reality-test
-title: "Welfare Working Group fails the reality test"
-date: 2010-11-24
-source-url: https://www.scoop.co.nz/stories/PA1011/S00499/welfare-working-group-fails-the-reality-test.htm
+title: Welfare Working Group fails the reality test
+date: 2010-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00499/welfare-working-group-fails-the-reality-test.htm
 author: green-party
+permalink: /archive/2010/11/24/welfare-working-group-fails-the-reality-test/index.html
+layout: layout.njk
 ---
 Welfare Working Group fails the reality test
 ============================================

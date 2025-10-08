@@ -1,9 +1,13 @@
 ---
 slug: a-capital-literary-season-with-writers-on-mondays
-title: "A capital literary season with Writers on Mondays"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/CU1406/S00372/a-capital-literary-season-with-writers-on-mondays.htm
+title: A capital literary season with Writers on Mondays
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00372/a-capital-literary-season-with-writers-on-mondays.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/06/27/a-capital-literary-season-with-writers-on-mondays/index.html
+layout: layout.njk
 ---
 A capital literary season with Writers on Mondays
 =================================================

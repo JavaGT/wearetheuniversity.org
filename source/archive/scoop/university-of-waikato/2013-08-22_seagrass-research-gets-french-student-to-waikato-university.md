@@ -1,9 +1,13 @@
 ---
 slug: seagrass-research-gets-french-student-to-waikato-university
-title: "Seagrass research gets French student to Waikato University"
-date: 2013-08-22
-source-url: https://www.scoop.co.nz/stories/ED1308/S00104/seagrass-research-gets-french-student-to-waikato-university.htm
+title: Seagrass research gets French student to Waikato University
+date: 2013-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00104/seagrass-research-gets-french-student-to-waikato-university.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/08/22/seagrass-research-gets-french-student-to-waikato-university/index.html
+layout: layout.njk
 ---
 Seagrass research gets French student to Waikato University
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: do-community-treatment-orders-violate-human-rights
-title: "Do Community Treatment Orders violate human rights?"
-date: 2017-05-24
-source-url: https://www.scoop.co.nz/stories/PO1705/S00318/do-community-treatment-orders-violate-human-rights.htm
+title: Do Community Treatment Orders violate human rights?
+date: 2017-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00318/do-community-treatment-orders-violate-human-rights.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/05/24/do-community-treatment-orders-violate-human-rights/index.html
+layout: layout.njk
 ---
 Do Community Treatment Orders violate human rights?
 ===================================================

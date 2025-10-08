@@ -1,9 +1,13 @@
 ---
 slug: jake-bezzant-nationals-new-candidate-in-upper-harbour
-title: "Jake Bezzant National’s new candidate in Upper Harbour"
-date: 2019-12-10
-source-url: https://www.scoop.co.nz/stories/PO1912/S00124/jake-bezzant-nationals-new-candidate-in-upper-harbour.htm
+title: Jake Bezzant National’s new candidate in Upper Harbour
+date: 2019-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1912/S00124/jake-bezzant-nationals-new-candidate-in-upper-harbour.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/12/10/jake-bezzant-nationals-new-candidate-in-upper-harbour/index.html
+layout: layout.njk
 ---
 Jake Bezzant National’s new candidate in Upper Harbour
 ======================================================

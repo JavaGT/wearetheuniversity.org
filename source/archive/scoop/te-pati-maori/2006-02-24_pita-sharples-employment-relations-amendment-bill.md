@@ -1,9 +1,13 @@
 ---
 slug: pita-sharples-employment-relations-amendment-bill
-title: "Pita Sharples: Employment Relations Amendment Bill"
-date: 2006-02-24
-source-url: https://www.scoop.co.nz/stories/PA0602/S00381/pita-sharples-employment-relations-amendment-bill.htm
+title: 'Pita Sharples: Employment Relations Amendment Bill'
+date: 2006-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00381/pita-sharples-employment-relations-amendment-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/02/24/pita-sharples-employment-relations-amendment-bill/index.html
+layout: layout.njk
 ---
 Pita Sharples: Employment Relations Amendment Bill
 ==================================================

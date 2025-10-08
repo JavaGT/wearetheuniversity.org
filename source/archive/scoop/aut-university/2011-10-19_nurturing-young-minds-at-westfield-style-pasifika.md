@@ -1,9 +1,13 @@
 ---
 slug: nurturing-young-minds-at-westfield-style-pasifika
-title: "Nurturing young minds at Westfield Style Pasifika"
-date: 2011-10-19
-source-url: https://www.scoop.co.nz/stories/ED1110/S00085/nurturing-young-minds-at-westfield-style-pasifika.htm
+title: Nurturing young minds at Westfield Style Pasifika
+date: 2011-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00085/nurturing-young-minds-at-westfield-style-pasifika.htm
 author: aut-university
+permalink: >-
+  /archive/2011/10/19/nurturing-young-minds-at-westfield-style-pasifika/index.html
+layout: layout.njk
 ---
 Nurturing young minds at Westfield Style Pasifika
 =================================================

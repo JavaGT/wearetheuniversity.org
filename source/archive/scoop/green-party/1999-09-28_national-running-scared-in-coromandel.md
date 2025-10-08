@@ -1,9 +1,12 @@
 ---
 slug: national-running-scared-in-coromandel
-title: "National Running Scared In Coromandel"
-date: 1999-09-28
-source-url: https://www.scoop.co.nz/stories/PA9909/S00575/national-running-scared-in-coromandel.htm
+title: National Running Scared In Coromandel
+date: 1999-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00575/national-running-scared-in-coromandel.htm
 author: green-party
+permalink: /archive/1999/09/28/national-running-scared-in-coromandel/index.html
+layout: layout.njk
 ---
 National Running Scared In Coromandel
 =====================================

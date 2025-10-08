@@ -1,9 +1,13 @@
 ---
 slug: latest-migration-stats-bad-news-for-house-prices
-title: "Latest migration stats bad news for house prices"
-date: 2014-05-21
-source-url: https://www.scoop.co.nz/stories/PA1405/S00407/latest-migration-stats-bad-news-for-house-prices.htm
+title: Latest migration stats bad news for house prices
+date: 2014-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00407/latest-migration-stats-bad-news-for-house-prices.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/05/21/latest-migration-stats-bad-news-for-house-prices/index.html
+layout: layout.njk
 ---
 Latest migration stats bad news for house prices
 ================================================

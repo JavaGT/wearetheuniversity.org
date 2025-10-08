@@ -1,9 +1,12 @@
 ---
 slug: must-do-more-in-the-area-of-youth-unemployment
-title: "Must do more in the area of youth unemployment"
-date: 2011-01-06
-source-url: https://www.scoop.co.nz/stories/PO1101/S00010/must-do-more-in-the-area-of-youth-unemployment.htm
+title: Must do more in the area of youth unemployment
+date: 2011-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1101/S00010/must-do-more-in-the-area-of-youth-unemployment.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/01/06/must-do-more-in-the-area-of-youth-unemployment/index.html
+layout: layout.njk
 ---
 Must do more in the area of youth unemployment
 ==============================================

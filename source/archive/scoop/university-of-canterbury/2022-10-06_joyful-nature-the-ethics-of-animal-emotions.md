@@ -1,9 +1,12 @@
 ---
 slug: joyful-nature-the-ethics-of-animal-emotions
-title: "Joyful Nature: The Ethics Of Animal Emotions"
-date: 2022-10-06
-source-url: https://www.scoop.co.nz/stories/SC2210/S00012/joyful-nature-the-ethics-of-animal-emotions.htm
+title: 'Joyful Nature: The Ethics Of Animal Emotions'
+date: 2022-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2210/S00012/joyful-nature-the-ethics-of-animal-emotions.htm
 author: university-of-canterbury
+permalink: /archive/2022/10/06/joyful-nature-the-ethics-of-animal-emotions/index.html
+layout: layout.njk
 ---
 Joyful Nature: The Ethics Of Animal Emotions
 ============================================

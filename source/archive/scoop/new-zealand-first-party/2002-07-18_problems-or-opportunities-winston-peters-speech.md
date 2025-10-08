@@ -1,9 +1,12 @@
 ---
 slug: problems-or-opportunities-winston-peters-speech
-title: "Problems Or Opportunities - Winston Peters Speech"
-date: 2002-07-18
-source-url: https://www.scoop.co.nz/stories/PA0207/S00493/problems-or-opportunities-winston-peters-speech.htm
+title: Problems Or Opportunities - Winston Peters Speech
+date: 2002-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00493/problems-or-opportunities-winston-peters-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/18/problems-or-opportunities-winston-peters-speech/index.html
+layout: layout.njk
 ---
 Problems Or Opportunities - Winston Peters Speech
 =================================================

@@ -1,9 +1,11 @@
 ---
 slug: open-day-at-rolleston-prison
-title: "Open Day At Rolleston Prison"
-date: 2003-10-17
+title: Open Day At Rolleston Prison
+date: 2003-10-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00430/open-day-at-rolleston-prison.htm
 author: new-zealand-first-party
+permalink: /archive/2003/10/17/open-day-at-rolleston-prison/index.html
+layout: layout.njk
 ---
 Open Day At Rolleston Prison
 ============================

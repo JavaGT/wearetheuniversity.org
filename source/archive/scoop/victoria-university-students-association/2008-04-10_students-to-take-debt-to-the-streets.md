@@ -1,9 +1,12 @@
 ---
 slug: students-to-take-debt-to-the-streets
-title: "Students' to take Debt to the Streets"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/PO0804/S00156/students-to-take-debt-to-the-streets.htm
+title: Students' to take Debt to the Streets
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00156/students-to-take-debt-to-the-streets.htm
 author: victoria-university-students-association
+permalink: /archive/2008/04/10/students-to-take-debt-to-the-streets/index.html
+layout: layout.njk
 ---
 Students' to take Debt to the Streets
 =====================================

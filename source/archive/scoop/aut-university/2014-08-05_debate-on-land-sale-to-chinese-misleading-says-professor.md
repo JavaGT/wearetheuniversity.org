@@ -1,9 +1,13 @@
 ---
 slug: debate-on-land-sale-to-chinese-misleading-says-professor
-title: "Debate on land sale to Chinese misleading says Professor"
-date: 2014-08-05
-source-url: https://www.scoop.co.nz/stories/PO1408/S00071/debate-on-land-sale-to-chinese-misleading-says-professor.htm
+title: Debate on land sale to Chinese misleading says Professor
+date: 2014-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00071/debate-on-land-sale-to-chinese-misleading-says-professor.htm
 author: aut-university
+permalink: >-
+  /archive/2014/08/05/debate-on-land-sale-to-chinese-misleading-says-professor/index.html
+layout: layout.njk
 ---
 Debate on land sale to Chinese misleading says Professor
 ========================================================

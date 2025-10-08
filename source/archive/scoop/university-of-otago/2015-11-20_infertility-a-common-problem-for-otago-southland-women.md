@@ -1,9 +1,13 @@
 ---
 slug: infertility-a-common-problem-for-otago-southland-women
-title: "Infertility a common problem for Otago-Southland women"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/SC1511/S00079/infertility-a-common-problem-for-otago-southland-women.htm
+title: Infertility a common problem for Otago-Southland women
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00079/infertility-a-common-problem-for-otago-southland-women.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/20/infertility-a-common-problem-for-otago-southland-women/index.html
+layout: layout.njk
 ---
 Infertility a common problem for Otago-Southland women
 ======================================================

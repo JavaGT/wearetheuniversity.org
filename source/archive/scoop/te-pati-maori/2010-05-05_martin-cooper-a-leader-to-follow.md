@@ -1,9 +1,12 @@
 ---
 slug: martin-cooper-a-leader-to-follow
-title: "Martin Cooper – A Leader To Follow"
-date: 2010-05-05
-source-url: https://www.scoop.co.nz/stories/PA1005/S00071/martin-cooper-a-leader-to-follow.htm
+title: Martin Cooper – A Leader To Follow
+date: 2010-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00071/martin-cooper-a-leader-to-follow.htm
 author: te-pati-maori
+permalink: /archive/2010/05/05/martin-cooper-a-leader-to-follow/index.html
+layout: layout.njk
 ---
 Martin Cooper – A Leader To Follow
 ==================================

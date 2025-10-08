@@ -1,9 +1,13 @@
 ---
 slug: award-enables-royal-academy-study-for-clarinettist
-title: "Award Enables Royal Academy Study For Clarinettist"
-date: 2007-07-04
-source-url: https://www.scoop.co.nz/stories/CU0707/S00034/award-enables-royal-academy-study-for-clarinettist.htm
+title: Award Enables Royal Academy Study For Clarinettist
+date: 2007-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0707/S00034/award-enables-royal-academy-study-for-clarinettist.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2007/07/04/award-enables-royal-academy-study-for-clarinettist/index.html
+layout: layout.njk
 ---
 Award Enables Royal Academy Study For Clarinettist
 ==================================================

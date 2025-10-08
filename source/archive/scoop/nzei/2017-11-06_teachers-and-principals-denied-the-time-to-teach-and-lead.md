@@ -1,9 +1,13 @@
 ---
 slug: teachers-and-principals-denied-the-time-to-teach-and-lead
-title: "Teachers and principals denied the time to teach and lead"
-date: 2017-11-06
-source-url: https://www.scoop.co.nz/stories/ED1711/S00020/teachers-and-principals-denied-the-time-to-teach-and-lead.htm
+title: Teachers and principals denied the time to teach and lead
+date: 2017-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00020/teachers-and-principals-denied-the-time-to-teach-and-lead.htm
 author: nzei
+permalink: >-
+  /archive/2017/11/06/teachers-and-principals-denied-the-time-to-teach-and-lead/index.html
+layout: layout.njk
 ---
 Teachers and principals denied the time to teach and lead
 =========================================================

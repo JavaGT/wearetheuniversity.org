@@ -1,9 +1,13 @@
 ---
 slug: how-corporate-news-has-tried-to-numb-americans-to-the-horrors-in-gaza
-title: "How Corporate News Has Tried To Numb Americans To The Horrors In Gaza"
-date: 2024-09-16
-source-url: https://www.scoop.co.nz/stories/WO2409/S00071/how-corporate-news-has-tried-to-numb-americans-to-the-horrors-in-gaza.htm
+title: How Corporate News Has Tried To Numb Americans To The Horrors In Gaza
+date: 2024-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2409/S00071/how-corporate-news-has-tried-to-numb-americans-to-the-horrors-in-gaza.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/09/16/how-corporate-news-has-tried-to-numb-americans-to-the-horrors-in-gaza/index.html
+layout: layout.njk
 ---
 How Corporate News Has Tried To Numb Americans To The Horrors In Gaza
 =====================================================================

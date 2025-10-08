@@ -1,9 +1,12 @@
 ---
 slug: canterbury-university-excels-in-pbrf
-title: "Canterbury University excels in PBRF"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/ED0404/S00080/canterbury-university-excels-in-pbrf.htm
+title: Canterbury University excels in PBRF
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00080/canterbury-university-excels-in-pbrf.htm
 author: university-of-canterbury
+permalink: /archive/2004/04/23/canterbury-university-excels-in-pbrf/index.html
+layout: layout.njk
 ---
 Canterbury University excels in PBRF
 ====================================

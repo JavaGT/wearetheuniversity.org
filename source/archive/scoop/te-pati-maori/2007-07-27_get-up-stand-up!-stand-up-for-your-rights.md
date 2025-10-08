@@ -1,9 +1,12 @@
 ---
 slug: get-up-stand-up!-stand-up-for-your-rights
-title: "Get up, stand up! Stand up for your rights"
-date: 2007-07-27
-source-url: https://www.scoop.co.nz/stories/PA0707/S00484/get-up-stand-up-stand-up-for-your-rights.htm
+title: Get up, stand up! Stand up for your rights
+date: 2007-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00484/get-up-stand-up-stand-up-for-your-rights.htm
 author: te-pati-maori
+permalink: /archive/2007/07/27/get-up-stand-up/index.html
+layout: layout.njk
 ---
 Get up, stand up! Stand up for your rights
 ==========================================

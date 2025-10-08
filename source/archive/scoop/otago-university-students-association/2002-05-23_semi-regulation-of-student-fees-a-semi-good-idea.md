@@ -1,9 +1,13 @@
 ---
 slug: semi-regulation-of-student-fees-a-semi-good-idea
-title: "Semi-regulation of student fees a semi-good idea"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/ED0205/S00054/semi-regulation-of-student-fees-a-semi-good-idea.htm
+title: Semi-regulation of student fees a semi-good idea
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00054/semi-regulation-of-student-fees-a-semi-good-idea.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2002/05/23/semi-regulation-of-student-fees-a-semi-good-idea/index.html
+layout: layout.njk
 ---
 Semi-regulation of student fees a semi-good idea
 ================================================

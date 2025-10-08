@@ -1,9 +1,13 @@
 ---
 slug: assets-loyalty-scheme-hits-taxpayers-in-the-pocket
-title: "Assets ‘loyalty scheme’ hits taxpayers in the pocket"
-date: 2012-07-22
-source-url: https://www.scoop.co.nz/stories/PA1207/S00274/assets-loyalty-scheme-hits-taxpayers-in-the-pocket.htm
+title: Assets ‘loyalty scheme’ hits taxpayers in the pocket
+date: 2012-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00274/assets-loyalty-scheme-hits-taxpayers-in-the-pocket.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/07/22/assets-loyalty-scheme-hits-taxpayers-in-the-pocket/index.html
+layout: layout.njk
 ---
 Assets ‘loyalty scheme’ hits taxpayers in the pocket
 ====================================================

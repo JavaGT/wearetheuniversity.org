@@ -1,9 +1,12 @@
 ---
 slug: pay-settlement-reached-for-area-school-teachers
-title: "Pay Settlement Reached for Area School Teachers"
-date: 2011-05-27
-source-url: https://www.scoop.co.nz/stories/ED1105/S00116/pay-settlement-reached-for-area-school-teachers.htm
+title: Pay Settlement Reached for Area School Teachers
+date: 2011-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00116/pay-settlement-reached-for-area-school-teachers.htm
 author: nzei
+permalink: /archive/2011/05/27/pay-settlement-reached-for-area-school-teachers/index.html
+layout: layout.njk
 ---
 Pay Settlement Reached for Area School Teachers
 ===============================================

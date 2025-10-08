@@ -1,9 +1,12 @@
 ---
 slug: kiwis-need-relief-from-cost-of-living-crisis
-title: "Kiwis Need Relief From Cost Of Living Crisis"
-date: 2022-01-18
-source-url: https://www.scoop.co.nz/stories/PA2201/S00048/kiwis-need-relief-from-cost-of-living-crisis.htm
+title: Kiwis Need Relief From Cost Of Living Crisis
+date: 2022-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00048/kiwis-need-relief-from-cost-of-living-crisis.htm
 author: act-new-zealand
+permalink: /archive/2022/01/18/kiwis-need-relief-from-cost-of-living-crisis/index.html
+layout: layout.njk
 ---
 Kiwis Need Relief From Cost Of Living Crisis
 ============================================

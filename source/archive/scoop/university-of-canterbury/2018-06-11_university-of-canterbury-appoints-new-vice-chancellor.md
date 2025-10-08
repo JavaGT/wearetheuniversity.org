@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-appoints-new-vice-chancellor
-title: "University of Canterbury appoints new Vice-Chancellor"
-date: 2018-06-11
-source-url: https://www.scoop.co.nz/stories/ED1806/S00037/university-of-canterbury-appoints-new-vice-chancellor.htm
+title: University of Canterbury appoints new Vice-Chancellor
+date: 2018-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00037/university-of-canterbury-appoints-new-vice-chancellor.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/11/university-of-canterbury-appoints-new-vice-chancellor/index.html
+layout: layout.njk
 ---
 University of Canterbury appoints new Vice-Chancellor
 =====================================================

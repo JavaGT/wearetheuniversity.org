@@ -1,9 +1,12 @@
 ---
 slug: new-findings-for-gifted-otago-geneticist
-title: "New findings for ‘gifted’ Otago geneticist"
-date: 2018-07-15
-source-url: https://www.scoop.co.nz/stories/SC1807/S00033/new-findings-for-gifted-otago-geneticist.htm
+title: New findings for ‘gifted’ Otago geneticist
+date: 2018-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1807/S00033/new-findings-for-gifted-otago-geneticist.htm
 author: university-of-otago
+permalink: /archive/2018/07/15/new-findings-for-gifted-otago-geneticist/index.html
+layout: layout.njk
 ---
 New findings for ‘gifted’ Otago geneticist
 ==========================================

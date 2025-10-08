@@ -1,9 +1,11 @@
 ---
 slug: speech-goff-family-forum
-title: "Speech: Goff - Family Forum"
-date: 2009-09-18
+title: 'Speech: Goff - Family Forum'
+date: 2009-09-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0909/S00271/speech-goff-family-forum.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/18/speech-goff-family-forum/index.html
+layout: layout.njk
 ---
 Speech: Goff - Family Forum
 ===========================

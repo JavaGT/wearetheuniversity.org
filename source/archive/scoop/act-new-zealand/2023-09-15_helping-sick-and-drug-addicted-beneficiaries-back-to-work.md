@@ -1,9 +1,13 @@
 ---
 slug: helping-sick-and-drug-addicted-beneficiaries-back-to-work
-title: "Helping Sick And Drug-addicted Beneficiaries Back To Work"
-date: 2023-09-15
-source-url: https://www.scoop.co.nz/stories/PA2309/S00086/helping-sick-and-drug-addicted-beneficiaries-back-to-work.htm
+title: Helping Sick And Drug-addicted Beneficiaries Back To Work
+date: 2023-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00086/helping-sick-and-drug-addicted-beneficiaries-back-to-work.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/09/15/helping-sick-and-drug-addicted-beneficiaries-back-to-work/index.html
+layout: layout.njk
 ---
 Helping Sick And Drug-addicted Beneficiaries Back To Work
 =========================================================

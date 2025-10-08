@@ -1,9 +1,13 @@
 ---
 slug: sharples-nz-guardian-trust-company-amendment-bill
-title: "Sharples: NZ Guardian Trust Company Amendment Bill"
-date: 2008-02-20
-source-url: https://www.scoop.co.nz/stories/PA0802/S00330/sharples-nz-guardian-trust-company-amendment-bill.htm
+title: 'Sharples: NZ Guardian Trust Company Amendment Bill'
+date: 2008-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00330/sharples-nz-guardian-trust-company-amendment-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/02/20/sharples-nz-guardian-trust-company-amendment-bill/index.html
+layout: layout.njk
 ---
 Sharples: NZ Guardian Trust Company Amendment Bill
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: shabby-exploration-ban-will-prove-costly
-title: "Shabby exploration ban will prove costly"
-date: 2018-08-08
-source-url: https://www.scoop.co.nz/stories/PA1808/S00102/shabby-exploration-ban-will-prove-costly.htm
+title: Shabby exploration ban will prove costly
+date: 2018-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00102/shabby-exploration-ban-will-prove-costly.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/08/shabby-exploration-ban-will-prove-costly/index.html
+layout: layout.njk
 ---
 Shabby exploration ban will prove costly
 ========================================

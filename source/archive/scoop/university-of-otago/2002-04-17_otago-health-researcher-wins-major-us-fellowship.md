@@ -1,9 +1,13 @@
 ---
 slug: otago-health-researcher-wins-major-us-fellowship
-title: "Otago Health Researcher Wins Major US Fellowship"
-date: 2002-04-17
-source-url: https://www.scoop.co.nz/stories/ED0204/S00025/otago-health-researcher-wins-major-us-fellowship.htm
+title: Otago Health Researcher Wins Major US Fellowship
+date: 2002-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00025/otago-health-researcher-wins-major-us-fellowship.htm
 author: university-of-otago
+permalink: >-
+  /archive/2002/04/17/otago-health-researcher-wins-major-us-fellowship/index.html
+layout: layout.njk
 ---
 Otago Health Researcher Wins Major US Fellowship
 ================================================

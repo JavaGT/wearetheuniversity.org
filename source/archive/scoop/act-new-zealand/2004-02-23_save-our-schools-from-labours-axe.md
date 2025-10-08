@@ -1,9 +1,12 @@
 ---
 slug: save-our-schools-from-labours-axe
-title: "Save Our Schools From Labour's Axe"
-date: 2004-02-23
-source-url: https://www.scoop.co.nz/stories/PA0402/S00383/save-our-schools-from-labours-axe.htm
+title: Save Our Schools From Labour's Axe
+date: 2004-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00383/save-our-schools-from-labours-axe.htm
 author: act-new-zealand
+permalink: /archive/2004/02/23/save-our-schools-from-labours-axe/index.html
+layout: layout.njk
 ---
 Save Our Schools From Labour's Axe
 ==================================

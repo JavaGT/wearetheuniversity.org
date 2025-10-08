@@ -1,9 +1,12 @@
 ---
 slug: successful-first-year-for-university-foundation
-title: "Successful first year for University Foundation"
-date: 2003-10-02
-source-url: https://www.scoop.co.nz/stories/ED0310/S00007/successful-first-year-for-university-foundation.htm
+title: Successful first year for University Foundation
+date: 2003-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00007/successful-first-year-for-university-foundation.htm
 author: university-of-canterbury
+permalink: /archive/2003/10/02/successful-first-year-for-university-foundation/index.html
+layout: layout.njk
 ---
 Successful first year for University Foundation
 ===============================================

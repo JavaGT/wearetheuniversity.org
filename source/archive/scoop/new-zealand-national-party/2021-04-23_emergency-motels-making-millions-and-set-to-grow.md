@@ -1,9 +1,13 @@
 ---
 slug: emergency-motels-making-millions-and-set-to-grow
-title: "Emergency Motels Making Millions And Set To Grow"
-date: 2021-04-23
-source-url: https://www.scoop.co.nz/stories/PA2104/S00154/emergency-motels-making-millions-and-set-to-grow.htm
+title: Emergency Motels Making Millions And Set To Grow
+date: 2021-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00154/emergency-motels-making-millions-and-set-to-grow.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/04/23/emergency-motels-making-millions-and-set-to-grow/index.html
+layout: layout.njk
 ---
 Emergency Motels Making Millions And Set To Grow
 ================================================

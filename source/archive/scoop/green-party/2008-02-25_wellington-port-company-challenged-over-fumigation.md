@@ -1,9 +1,13 @@
 ---
 slug: wellington-port-company-challenged-over-fumigation
-title: "Wellington Port Company challenged over fumigation"
-date: 2008-02-25
-source-url: https://www.scoop.co.nz/stories/PA0802/S00398/wellington-port-company-challenged-over-fumigation.htm
+title: Wellington Port Company challenged over fumigation
+date: 2008-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00398/wellington-port-company-challenged-over-fumigation.htm
 author: green-party
+permalink: >-
+  /archive/2008/02/25/wellington-port-company-challenged-over-fumigation/index.html
+layout: layout.njk
 ---
 Wellington Port Company challenged over fumigation
 ==================================================

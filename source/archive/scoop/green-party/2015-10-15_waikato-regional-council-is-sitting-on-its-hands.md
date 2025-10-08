@@ -1,9 +1,13 @@
 ---
 slug: waikato-regional-council-is-sitting-on-its-hands
-title: "Waikato Regional Council is sitting on its hands"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PA1510/S00256/waikato-regional-council-is-sitting-on-its-hands.htm
+title: Waikato Regional Council is sitting on its hands
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00256/waikato-regional-council-is-sitting-on-its-hands.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/15/waikato-regional-council-is-sitting-on-its-hands/index.html
+layout: layout.njk
 ---
 Waikato Regional Council is sitting on its hands
 ================================================

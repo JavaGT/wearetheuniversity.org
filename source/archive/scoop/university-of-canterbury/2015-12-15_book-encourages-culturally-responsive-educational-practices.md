@@ -1,9 +1,13 @@
 ---
 slug: book-encourages-culturally-responsive-educational-practices
-title: "Book encourages culturally responsive educational practices"
-date: 2015-12-15
-source-url: https://www.scoop.co.nz/stories/ED1512/S00070/book-encourages-culturally-responsive-educational-practices.htm
+title: Book encourages culturally responsive educational practices
+date: 2015-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00070/book-encourages-culturally-responsive-educational-practices.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/12/15/book-encourages-culturally-responsive-educational-practices/index.html
+layout: layout.njk
 ---
 Book encourages culturally responsive educational practices
 ===========================================================

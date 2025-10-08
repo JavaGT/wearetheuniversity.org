@@ -1,9 +1,11 @@
 ---
 slug: acts-five-point-plan
-title: "ACT’s five point plan"
-date: 2014-09-15
+title: ACT’s five point plan
+date: 2014-09-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1409/S00351/acts-five-point-plan.htm
 author: act-new-zealand
+permalink: /archive/2014/09/15/acts-five-point-plan/index.html
+layout: layout.njk
 ---
 ACT’s five point plan
 =====================

@@ -1,9 +1,12 @@
 ---
 slug: alexander-pope-and-the-poetry-of-science
-title: "Alexander Pope and the poetry of science"
-date: 2011-09-12
-source-url: https://www.scoop.co.nz/stories/ED1109/S00035/alexander-pope-and-the-poetry-of-science.htm
+title: Alexander Pope and the poetry of science
+date: 2011-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00035/alexander-pope-and-the-poetry-of-science.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/12/alexander-pope-and-the-poetry-of-science/index.html
+layout: layout.njk
 ---
 Alexander Pope and the poetry of science
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-to-restrict-non-resident-purchases-of-homes
-title: "Labour to restrict non-resident purchases of homes"
-date: 2013-07-28
-source-url: https://www.scoop.co.nz/stories/PA1307/S00398/labour-to-restrict-non-resident-purchases-of-homes.htm
+title: Labour to restrict non-resident purchases of homes
+date: 2013-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00398/labour-to-restrict-non-resident-purchases-of-homes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/07/28/labour-to-restrict-non-resident-purchases-of-homes/index.html
+layout: layout.njk
 ---
 Labour to restrict non-resident purchases of homes
 ==================================================

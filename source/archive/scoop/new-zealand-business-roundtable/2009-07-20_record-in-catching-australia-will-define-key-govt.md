@@ -1,9 +1,13 @@
 ---
 slug: record-in-catching-australia-will-define-key-govt
-title: "Record in Catching Australia Will Define Key Govt"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/BU0907/S00514/record-in-catching-australia-will-define-key-govt.htm
+title: Record in Catching Australia Will Define Key Govt
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00514/record-in-catching-australia-will-define-key-govt.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2009/07/20/record-in-catching-australia-will-define-key-govt/index.html
+layout: layout.njk
 ---
 Record in Catching Australia Will Define Key Govt
 =================================================

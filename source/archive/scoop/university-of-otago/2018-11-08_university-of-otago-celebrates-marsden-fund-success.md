@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-celebrates-marsden-fund-success
-title: "University of Otago celebrates Marsden Fund success"
-date: 2018-11-08
-source-url: https://www.scoop.co.nz/stories/SC1811/S00016/university-of-otago-celebrates-marsden-fund-success.htm
+title: University of Otago celebrates Marsden Fund success
+date: 2018-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1811/S00016/university-of-otago-celebrates-marsden-fund-success.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/11/08/university-of-otago-celebrates-marsden-fund-success/index.html
+layout: layout.njk
 ---
 University of Otago celebrates Marsden Fund success
 ===================================================

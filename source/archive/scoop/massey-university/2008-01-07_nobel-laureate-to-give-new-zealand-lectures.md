@@ -1,9 +1,12 @@
 ---
 slug: nobel-laureate-to-give-new-zealand-lectures
-title: "Nobel Laureate to give New Zealand lectures"
-date: 2008-01-07
-source-url: https://www.scoop.co.nz/stories/SC0801/S00004/nobel-laureate-to-give-new-zealand-lectures.htm
+title: Nobel Laureate to give New Zealand lectures
+date: 2008-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0801/S00004/nobel-laureate-to-give-new-zealand-lectures.htm
 author: massey-university
+permalink: /archive/2008/01/07/nobel-laureate-to-give-new-zealand-lectures/index.html
+layout: layout.njk
 ---
 Nobel Laureate to give New Zealand lectures
 ===========================================

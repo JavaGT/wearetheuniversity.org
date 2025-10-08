@@ -1,9 +1,12 @@
 ---
 slug: skills-trades-essential-to-a-strong-economy
-title: "Skills, trades essential to a strong economy"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00015/skills-trades-essential-to-a-strong-economy.htm
+title: Skills, trades essential to a strong economy
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00015/skills-trades-essential-to-a-strong-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/01/skills-trades-essential-to-a-strong-economy/index.html
+layout: layout.njk
 ---
 Skills, trades essential to a strong economy
 ============================================

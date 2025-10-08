@@ -1,9 +1,13 @@
 ---
 slug: making-policy-sense-of-new-zealands-first-wellbeing-budget
-title: "Making policy sense of New Zealand’s First Wellbeing Budget"
-date: 2019-05-31
-source-url: https://www.scoop.co.nz/stories/PO1905/S00524/making-policy-sense-of-new-zealands-first-wellbeing-budget.htm
+title: Making policy sense of New Zealand’s First Wellbeing Budget
+date: 2019-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1905/S00524/making-policy-sense-of-new-zealands-first-wellbeing-budget.htm
 author: aut-university
+permalink: >-
+  /archive/2019/05/31/making-policy-sense-of-new-zealands-first-wellbeing-budget/index.html
+layout: layout.njk
 ---
 Making policy sense of New Zealand’s First Wellbeing Budget
 ===========================================================

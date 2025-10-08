@@ -1,9 +1,12 @@
 ---
 slug: sky-citys-claim-on-lotto-harm-doesnt-stack-up
-title: "Sky City's Claim On Lotto Harm Doesn’t Stack Up"
-date: 2012-04-18
-source-url: https://www.scoop.co.nz/stories/PO1204/S00206/sky-citys-claim-on-lotto-harm-doesnt-stack-up.htm
+title: Sky City's Claim On Lotto Harm Doesn’t Stack Up
+date: 2012-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1204/S00206/sky-citys-claim-on-lotto-harm-doesnt-stack-up.htm
 author: aut-university
+permalink: /archive/2012/04/18/sky-citys-claim-on-lotto-harm-doesnt-stack-up/index.html
+layout: layout.njk
 ---
 Sky City's Claim On Lotto Harm Doesn’t Stack Up
 ===============================================

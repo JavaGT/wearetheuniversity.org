@@ -1,9 +1,12 @@
 ---
 slug: clark-misleads-parliament-over-tertiary-reality
-title: "Clark Misleads Parliament Over Tertiary Reality"
-date: 2004-02-10
-source-url: https://www.scoop.co.nz/stories/ED0402/S00018/clark-misleads-parliament-over-tertiary-reality.htm
+title: Clark Misleads Parliament Over Tertiary Reality
+date: 2004-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00018/clark-misleads-parliament-over-tertiary-reality.htm
 author: victoria-university-students-association
+permalink: /archive/2004/02/10/clark-misleads-parliament-over-tertiary-reality/index.html
+layout: layout.njk
 ---
 Clark Misleads Parliament Over Tertiary Reality
 ===============================================

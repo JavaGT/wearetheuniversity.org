@@ -1,9 +1,12 @@
 ---
 slug: joyce-needs-to-step-in-to-protect-student-voice
-title: "Joyce needs to step in to protect student voice"
-date: 2012-10-22
-source-url: https://www.scoop.co.nz/stories/PA1210/S00366/joyce-needs-to-step-in-to-protect-student-voice.htm
+title: Joyce needs to step in to protect student voice
+date: 2012-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00366/joyce-needs-to-step-in-to-protect-student-voice.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/22/joyce-needs-to-step-in-to-protect-student-voice/index.html
+layout: layout.njk
 ---
 Joyce needs to step in to protect student voice
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: graduate-designs-affordable-innovative-new-prosthesis
-title: "Graduate designs affordable, innovative new prosthesis"
-date: 2012-03-30
-source-url: https://www.scoop.co.nz/stories/ED1203/S00160/graduate-designs-affordable-innovative-new-prosthesis.htm
+title: Graduate designs affordable, innovative new prosthesis
+date: 2012-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00160/graduate-designs-affordable-innovative-new-prosthesis.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/03/30/graduate-designs-affordable-innovative-new-prosthesis/index.html
+layout: layout.njk
 ---
 Graduate designs affordable, innovative new prosthesis
 ======================================================

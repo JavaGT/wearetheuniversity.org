@@ -1,9 +1,12 @@
 ---
 slug: employer-trying-to-sideline-kiwi-workers
-title: "Employer Trying to Sideline Kiwi Workers"
-date: 2017-03-10
-source-url: https://www.scoop.co.nz/stories/PA1703/S00172/employer-trying-to-sideline-kiwi-workers.htm
+title: Employer Trying to Sideline Kiwi Workers
+date: 2017-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00172/employer-trying-to-sideline-kiwi-workers.htm
 author: new-zealand-first-party
+permalink: /archive/2017/03/10/employer-trying-to-sideline-kiwi-workers/index.html
+layout: layout.njk
 ---
 Employer Trying to Sideline Kiwi Workers
 ========================================

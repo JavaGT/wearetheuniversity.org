@@ -1,9 +1,13 @@
 ---
 slug: new-book-extols-the-value-of-high-class-new-zealand-soils
-title: "New Book Extols The Value Of High-class New Zealand Soils"
-date: 2021-06-17
-source-url: https://www.scoop.co.nz/stories/CU2106/S00129/new-book-extols-the-value-of-high-class-new-zealand-soils.htm
+title: New Book Extols The Value Of High-class New Zealand Soils
+date: 2021-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2106/S00129/new-book-extols-the-value-of-high-class-new-zealand-soils.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/06/17/new-book-extols-the-value-of-high-class-new-zealand-soils/index.html
+layout: layout.njk
 ---
 New Book Extols The Value Of High-class New Zealand Soils
 =========================================================

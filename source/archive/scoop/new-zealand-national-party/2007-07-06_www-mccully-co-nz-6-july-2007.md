@@ -1,9 +1,11 @@
 ---
 slug: www-mccully-co-nz-6-july-2007
-title: "www.mccully.co.nz - 6 July 2007"
-date: 2007-07-06
+title: www.mccully.co.nz - 6 July 2007
+date: 2007-07-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0707/S00109/wwwmccullyconz-6-july-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/06/www-mccully-co-nz-6-july-2007/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 6 July 2007
 ===============================

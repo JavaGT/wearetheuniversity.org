@@ -1,9 +1,12 @@
 ---
 slug: judith-collins-column-round-up-26-july-2006
-title: "Judith Collins – Column Round Up 26 July 2006"
-date: 2006-07-26
-source-url: https://www.scoop.co.nz/stories/PA0607/S00435/judith-collins-column-round-up-26-july-2006.htm
+title: Judith Collins – Column Round Up 26 July 2006
+date: 2006-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00435/judith-collins-column-round-up-26-july-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/26/judith-collins-column-round-up-26-july-2006/index.html
+layout: layout.njk
 ---
 Judith Collins – Column Round Up 26 July 2006
 =============================================

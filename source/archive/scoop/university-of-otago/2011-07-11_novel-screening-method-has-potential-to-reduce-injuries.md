@@ -1,9 +1,13 @@
 ---
 slug: novel-screening-method-has-potential-to-reduce-injuries
-title: "Novel screening method has potential to reduce injuries"
-date: 2011-07-11
-source-url: https://www.scoop.co.nz/stories/GE1107/S00041/novel-screening-method-has-potential-to-reduce-injuries.htm
+title: Novel screening method has potential to reduce injuries
+date: 2011-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1107/S00041/novel-screening-method-has-potential-to-reduce-injuries.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/07/11/novel-screening-method-has-potential-to-reduce-injuries/index.html
+layout: layout.njk
 ---
 Novel screening method has potential to reduce injuries
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: 150-years-of-indelible-academic-architecture
-title: "150 Years Of Indelible Academic Architecture"
-date: 2023-05-01
-source-url: https://www.scoop.co.nz/stories/ED2305/S00002/150-years-of-indelible-academic-architecture.htm
+title: 150 Years Of Indelible Academic Architecture
+date: 2023-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2305/S00002/150-years-of-indelible-academic-architecture.htm
 author: university-of-canterbury
+permalink: /archive/2023/05/01/150-years-of-indelible-academic-architecture/index.html
+layout: layout.njk
 ---
 150 Years Of Indelible Academic Architecture
 ============================================

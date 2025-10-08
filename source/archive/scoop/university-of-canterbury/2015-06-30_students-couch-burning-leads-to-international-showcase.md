@@ -1,9 +1,13 @@
 ---
 slug: students-couch-burning-leads-to-international-showcase
-title: "Students’ couch burning leads to international showcase"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/SC1506/S00120/students-couch-burning-leads-to-international-showcase.htm
+title: Students’ couch burning leads to international showcase
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00120/students-couch-burning-leads-to-international-showcase.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/06/30/students-couch-burning-leads-to-international-showcase/index.html
+layout: layout.njk
 ---
 Students’ couch burning leads to international showcase
 =======================================================

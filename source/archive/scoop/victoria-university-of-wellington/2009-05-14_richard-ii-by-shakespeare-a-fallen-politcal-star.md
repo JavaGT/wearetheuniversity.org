@@ -1,9 +1,13 @@
 ---
 slug: richard-ii-by-shakespeare-a-fallen-politcal-star
-title: "Richard II by Shakespeare – A fallen politcal star"
-date: 2009-05-14
-source-url: https://www.scoop.co.nz/stories/CU0905/S00185/richard-ii-by-shakespeare-a-fallen-politcal-star.htm
+title: Richard II by Shakespeare – A fallen politcal star
+date: 2009-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00185/richard-ii-by-shakespeare-a-fallen-politcal-star.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/05/14/richard-ii-by-shakespeare-a-fallen-politcal-star/index.html
+layout: layout.njk
 ---
 Richard II by Shakespeare – A fallen politcal star
 ==================================================

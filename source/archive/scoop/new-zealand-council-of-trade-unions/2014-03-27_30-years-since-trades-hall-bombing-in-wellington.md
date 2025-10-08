@@ -1,9 +1,13 @@
 ---
 slug: 30-years-since-trades-hall-bombing-in-wellington
-title: "30 Years since Trades Hall Bombing in Wellington"
-date: 2014-03-27
-source-url: https://www.scoop.co.nz/stories/PO1403/S00352/30-years-since-trades-hall-bombing-in-wellington.htm
+title: 30 Years since Trades Hall Bombing in Wellington
+date: 2014-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00352/30-years-since-trades-hall-bombing-in-wellington.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2014/03/27/30-years-since-trades-hall-bombing-in-wellington/index.html
+layout: layout.njk
 ---
 30 Years since Trades Hall Bombing in Wellington
 ================================================

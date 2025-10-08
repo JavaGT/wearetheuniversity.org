@@ -1,9 +1,12 @@
 ---
 slug: labours-immigration-policy-dangerous
-title: "Labour's Immigration Policy Dangerous"
-date: 1999-06-16
-source-url: https://www.scoop.co.nz/stories/PA9906/S00082/labours-immigration-policy-dangerous.htm
+title: Labour's Immigration Policy Dangerous
+date: 1999-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00082/labours-immigration-policy-dangerous.htm
 author: new-zealand-national-party
+permalink: /archive/1999/06/16/labours-immigration-policy-dangerous/index.html
+layout: layout.njk
 ---
 Labour's Immigration Policy Dangerous
 =====================================

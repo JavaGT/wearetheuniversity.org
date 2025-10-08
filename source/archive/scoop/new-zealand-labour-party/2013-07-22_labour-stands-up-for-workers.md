@@ -1,9 +1,11 @@
 ---
 slug: labour-stands-up-for-workers
-title: "Labour stands up for workers"
-date: 2013-07-22
+title: Labour stands up for workers
+date: 2013-07-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1307/S00336/labour-stands-up-for-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/22/labour-stands-up-for-workers/index.html
+layout: layout.njk
 ---
 Labour stands up for workers
 ============================

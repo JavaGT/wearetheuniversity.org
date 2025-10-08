@@ -1,9 +1,13 @@
 ---
 slug: big-brother-keeps-an-eye-on-new-zealand-environment
-title: "Big brother keeps an eye on New Zealand environment"
-date: 2012-07-11
-source-url: https://www.scoop.co.nz/stories/ED1207/S00039/big-brother-keeps-an-eye-on-new-zealand-environment.htm
+title: Big brother keeps an eye on New Zealand environment
+date: 2012-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00039/big-brother-keeps-an-eye-on-new-zealand-environment.htm
 author: aut-university
+permalink: >-
+  /archive/2012/07/11/big-brother-keeps-an-eye-on-new-zealand-environment/index.html
+layout: layout.njk
 ---
 Big brother keeps an eye on New Zealand environment
 ===================================================

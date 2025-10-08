@@ -1,8 +1,12 @@
 ---
 slug: going-to-sleep-on-your-back-increases-the-risk-of-stillbirth
-title: "Going to sleep on your back increases the risk of stillbirth"
-date: 2017-06-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/sleeping-on-back-increases-stillbirth-risk.html
+title: Going to sleep on your back increases the risk of stillbirth
+date: 2017-06-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/sleeping-on-back-increases-stillbirth-risk.html
+permalink: >-
+  /archive/2017/06/14/going-to-sleep-on-your-back-increases-the-risk-of-stillbirth/index.html
+layout: layout.njk
 ---
 Going to sleep on your back increases the risk of stillbirth
 ============================================================

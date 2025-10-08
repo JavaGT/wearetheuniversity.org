@@ -1,9 +1,11 @@
 ---
 slug: maiden-speech-don-brash
-title: "Maiden Speech - Don Brash"
-date: 2002-09-03
+title: Maiden Speech - Don Brash
+date: 2002-09-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0209/S00033/maiden-speech-don-brash.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/03/maiden-speech-don-brash/index.html
+layout: layout.njk
 ---
 Maiden Speech - Don Brash
 =========================

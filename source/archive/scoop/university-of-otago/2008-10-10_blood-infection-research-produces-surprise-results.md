@@ -1,9 +1,13 @@
 ---
 slug: blood-infection-research-produces-surprise-results
-title: "Blood infection research produces surprise results"
-date: 2008-10-10
-source-url: https://www.scoop.co.nz/stories/GE0810/S00054/blood-infection-research-produces-surprise-results.htm
+title: Blood infection research produces surprise results
+date: 2008-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0810/S00054/blood-infection-research-produces-surprise-results.htm
 author: university-of-otago
+permalink: >-
+  /archive/2008/10/10/blood-infection-research-produces-surprise-results/index.html
+layout: layout.njk
 ---
 Blood infection research produces surprise results
 ==================================================

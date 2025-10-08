@@ -1,8 +1,12 @@
 ---
 slug: husband-and-wife-graduate-same-day-with-same-degree
-title: "Husband and wife graduate same day with same degree"
-date: 2017-09-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/husband-and-wife-graduate-same-day-with-same-degree.html
+title: Husband and wife graduate same day with same degree
+date: 2017-09-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/husband-and-wife-graduate-same-day-with-same-degree.html
+permalink: >-
+  /archive/2017/09/26/husband-and-wife-graduate-same-day-with-same-degree/index.html
+layout: layout.njk
 ---
 Husband and wife graduate same day with same degree
 ===================================================

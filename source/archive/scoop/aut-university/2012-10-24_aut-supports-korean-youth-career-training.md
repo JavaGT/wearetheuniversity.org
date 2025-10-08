@@ -1,9 +1,12 @@
 ---
 slug: aut-supports-korean-youth-career-training
-title: "AUT supports Korean youth career training"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/ED1210/S00135/aut-supports-korean-youth-career-training.htm
+title: AUT supports Korean youth career training
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00135/aut-supports-korean-youth-career-training.htm
 author: aut-university
+permalink: /archive/2012/10/24/aut-supports-korean-youth-career-training/index.html
+layout: layout.njk
 ---
 AUT supports Korean youth career training
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: murdoch-sorry-for-climategate-acts-turn-now
-title: "Murdoch sorry for ClimateGate - ACT's turn now"
-date: 2010-06-29
-source-url: https://www.scoop.co.nz/stories/PA1006/S00451/murdoch-sorry-for-climategate-acts-turn-now.htm
+title: Murdoch sorry for ClimateGate - ACT's turn now
+date: 2010-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00451/murdoch-sorry-for-climategate-acts-turn-now.htm
 author: green-party
+permalink: /archive/2010/06/29/murdoch-sorry-for-climategate-acts-turn-now/index.html
+layout: layout.njk
 ---
 Murdoch sorry for ClimateGate - ACT's turn now
 ==============================================

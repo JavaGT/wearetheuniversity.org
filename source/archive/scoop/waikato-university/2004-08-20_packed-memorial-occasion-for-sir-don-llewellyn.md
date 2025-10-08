@@ -1,9 +1,12 @@
 ---
 slug: packed-memorial-occasion-for-sir-don-llewellyn
-title: "Packed Memorial Occasion For Sir Don Llewellyn"
-date: 2004-08-20
-source-url: https://www.scoop.co.nz/stories/ED0408/S00095/packed-memorial-occasion-for-sir-don-llewellyn.htm
+title: Packed Memorial Occasion For Sir Don Llewellyn
+date: 2004-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00095/packed-memorial-occasion-for-sir-don-llewellyn.htm
 author: waikato-university
+permalink: /archive/2004/08/20/packed-memorial-occasion-for-sir-don-llewellyn/index.html
+layout: layout.njk
 ---
 Packed Memorial Occasion For Sir Don Llewellyn
 ==============================================

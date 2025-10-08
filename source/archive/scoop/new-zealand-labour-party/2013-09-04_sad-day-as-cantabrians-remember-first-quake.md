@@ -1,9 +1,12 @@
 ---
 slug: sad-day-as-cantabrians-remember-first-quake
-title: "Sad day as Cantabrians remember first quake"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/PA1309/S00068/sad-day-as-cantabrians-remember-first-quake.htm
+title: Sad day as Cantabrians remember first quake
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00068/sad-day-as-cantabrians-remember-first-quake.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/04/sad-day-as-cantabrians-remember-first-quake/index.html
+layout: layout.njk
 ---
 Sad day as Cantabrians remember first quake
 ===========================================

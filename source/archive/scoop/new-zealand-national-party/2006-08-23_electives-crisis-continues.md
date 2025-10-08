@@ -1,9 +1,11 @@
 ---
 slug: electives-crisis-continues
-title: "Electives crisis continues"
-date: 2006-08-23
+title: Electives crisis continues
+date: 2006-08-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0608/S00401/electives-crisis-continues.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/23/electives-crisis-continues/index.html
+layout: layout.njk
 ---
 Electives crisis continues
 ==========================

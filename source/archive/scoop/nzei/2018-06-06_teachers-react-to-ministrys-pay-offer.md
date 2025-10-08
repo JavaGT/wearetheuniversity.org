@@ -1,9 +1,12 @@
 ---
 slug: teachers-react-to-ministrys-pay-offer
-title: "Teachers React to Ministry's Pay Offer"
-date: 2018-06-06
-source-url: https://www.scoop.co.nz/stories/ED1806/S00021/teachers-react-to-ministrys-pay-offer.htm
+title: Teachers React to Ministry's Pay Offer
+date: 2018-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00021/teachers-react-to-ministrys-pay-offer.htm
 author: nzei
+permalink: /archive/2018/06/06/teachers-react-to-ministrys-pay-offer/index.html
+layout: layout.njk
 ---
 Teachers React to Ministry's Pay Offer
 ======================================

@@ -1,10 +1,13 @@
 ---
 title: AAAP Post Budget Picket
 slug: aaap-post-budget-picket
-date: 2012-03-30
-source: https://web.archive.org/web/20130208031128/http://wearetheuniversity.org.nz/2012/03/30/aotearoa-is-not-for-sale/
+date: 2012-03-30T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208031128/http://wearetheuniversity.org.nz/2012/03/30/aotearoa-is-not-for-sale/
 author: Auckland Action Against Poverty
 author-slug: auckland-action-against-poverty
+permalink: /archive/2012/03/30/aaap-post-budget-picket/index.html
+layout: layout.njk
 ---
 
 [https://www.facebook.com/events/403971106309288/](https://web.archive.org/web/20130208031128/https://www.facebook.com/events/403971106309288/)

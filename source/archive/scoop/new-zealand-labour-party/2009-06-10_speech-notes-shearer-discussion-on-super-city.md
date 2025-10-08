@@ -1,9 +1,12 @@
 ---
 slug: speech-notes-shearer-discussion-on-super-city
-title: "Speech Notes: Shearer - Discussion on Super City"
-date: 2009-06-10
-source-url: https://www.scoop.co.nz/stories/PO0906/S00101/speech-notes-shearer-discussion-on-super-city.htm
+title: 'Speech Notes: Shearer - Discussion on Super City'
+date: 2009-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00101/speech-notes-shearer-discussion-on-super-city.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/10/speech-notes-shearer-discussion-on-super-city/index.html
+layout: layout.njk
 ---
 Speech Notes: Shearer - Discussion on Super City
 ================================================

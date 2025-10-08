@@ -1,9 +1,11 @@
 ---
 slug: loréal-scholars-announced
-title: "L’Oréal Scholars announced"
-date: 2006-08-25
+title: L’Oréal Scholars announced
+date: 2006-08-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0608/S00080/loreal-scholars-announced.htm
 author: university-of-otago
+permalink: /archive/2006/08/25/lor/index.html
+layout: layout.njk
 ---
 L’Oréal Scholars announced
 ==========================

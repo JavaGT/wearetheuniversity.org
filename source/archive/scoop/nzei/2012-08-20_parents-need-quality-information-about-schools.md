@@ -1,9 +1,12 @@
 ---
 slug: parents-need-quality-information-about-schools
-title: "Parents need quality information about schools"
-date: 2012-08-20
-source-url: https://www.scoop.co.nz/stories/ED1208/S00104/parents-need-quality-information-about-schools.htm
+title: Parents need quality information about schools
+date: 2012-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00104/parents-need-quality-information-about-schools.htm
 author: nzei
+permalink: /archive/2012/08/20/parents-need-quality-information-about-schools/index.html
+layout: layout.njk
 ---
 Parents need quality information about schools
 ==============================================

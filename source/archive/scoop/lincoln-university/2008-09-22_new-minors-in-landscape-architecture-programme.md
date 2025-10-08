@@ -1,9 +1,12 @@
 ---
 slug: new-minors-in-landscape-architecture-programme
-title: "New Minors in Landscape Architecture Programme"
-date: 2008-09-22
-source-url: https://www.scoop.co.nz/stories/ED0809/S00063/new-minors-in-landscape-architecture-programme.htm
+title: New Minors in Landscape Architecture Programme
+date: 2008-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00063/new-minors-in-landscape-architecture-programme.htm
 author: lincoln-university
+permalink: /archive/2008/09/22/new-minors-in-landscape-architecture-programme/index.html
+layout: layout.njk
 ---
 New Minors in Landscape Architecture Programme
 ==============================================

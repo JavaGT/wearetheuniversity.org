@@ -1,9 +1,12 @@
 ---
 slug: uc-engineer-spearheads-$3m-next-gen-tech-project-to-clean-nz-water
-title: "UC Engineer Spearheads $3m Next-gen Tech Project To Clean NZ Water"
-date: 2020-11-19
-source-url: https://www.scoop.co.nz/stories/SC2011/S00034/uc-engineer-spearheads-3m-next-gen-tech-project-to-clean-nz-water.htm
+title: UC Engineer Spearheads $3m Next-gen Tech Project To Clean NZ Water
+date: 2020-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00034/uc-engineer-spearheads-3m-next-gen-tech-project-to-clean-nz-water.htm
 author: university-of-canterbury
+permalink: /archive/2020/11/19/uc-engineer-spearheads-/index.html
+layout: layout.njk
 ---
 UC Engineer Spearheads $3m Next-gen Tech Project To Clean NZ Water
 ==================================================================

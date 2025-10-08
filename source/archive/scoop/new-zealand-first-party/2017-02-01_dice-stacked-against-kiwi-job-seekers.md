@@ -1,9 +1,12 @@
 ---
 slug: dice-stacked-against-kiwi-job-seekers
-title: "Dice Stacked Against Kiwi Job Seekers"
-date: 2017-02-01
-source-url: https://www.scoop.co.nz/stories/PA1702/S00019/dice-stacked-against-kiwi-job-seekers.htm
+title: Dice Stacked Against Kiwi Job Seekers
+date: 2017-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00019/dice-stacked-against-kiwi-job-seekers.htm
 author: new-zealand-first-party
+permalink: /archive/2017/02/01/dice-stacked-against-kiwi-job-seekers/index.html
+layout: layout.njk
 ---
 Dice Stacked Against Kiwi Job Seekers
 =====================================

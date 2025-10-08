@@ -1,9 +1,13 @@
 ---
 slug: bio-film-to-protect-the-dairy-industrys-stainless-steel
-title: "Bio-film to protect the dairy industry’s stainless steel"
-date: 2013-07-22
-source-url: https://www.scoop.co.nz/stories/SC1307/S00056/bio-film-to-protect-the-dairy-industrys-stainless-steel.htm
+title: Bio-film to protect the dairy industry’s stainless steel
+date: 2013-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00056/bio-film-to-protect-the-dairy-industrys-stainless-steel.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/22/bio-film-to-protect-the-dairy-industrys-stainless-steel/index.html
+layout: layout.njk
 ---
 Bio-film to protect the dairy industry’s stainless steel
 ========================================================

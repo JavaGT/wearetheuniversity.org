@@ -1,9 +1,12 @@
 ---
 slug: new-dean-at-university-of-waikato
-title: "New Dean At University of Waikato"
-date: 2006-11-03
-source-url: https://www.scoop.co.nz/stories/ED0611/S00009/new-dean-at-university-of-waikato.htm
+title: New Dean At University of Waikato
+date: 2006-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00009/new-dean-at-university-of-waikato.htm
 author: university-of-waikato
+permalink: /archive/2006/11/03/new-dean-at-university-of-waikato/index.html
+layout: layout.njk
 ---
 New Dean At University of Waikato
 =================================

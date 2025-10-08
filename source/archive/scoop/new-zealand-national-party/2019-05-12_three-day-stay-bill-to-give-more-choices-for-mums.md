@@ -1,9 +1,13 @@
 ---
 slug: three-day-stay-bill-to-give-more-choices-for-mums
-title: "Three day stay bill to give more choices for mums"
-date: 2019-05-12
-source-url: https://www.scoop.co.nz/stories/PA1905/S00119/three-day-stay-bill-to-give-more-choices-for-mums.htm
+title: Three day stay bill to give more choices for mums
+date: 2019-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00119/three-day-stay-bill-to-give-more-choices-for-mums.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/05/12/three-day-stay-bill-to-give-more-choices-for-mums/index.html
+layout: layout.njk
 ---
 Three day stay bill to give more choices for mums
 =================================================

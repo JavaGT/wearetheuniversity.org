@@ -1,9 +1,13 @@
 ---
 slug: 1000s-oppose-labours-language-requirement-change
-title: "1000s Oppose Labour's Language Requirement Change"
-date: 2002-12-17
-source-url: https://www.scoop.co.nz/stories/PA0212/S00393/1000s-oppose-labours-language-requirement-change.htm
+title: 1000s Oppose Labour's Language Requirement Change
+date: 2002-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00393/1000s-oppose-labours-language-requirement-change.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/12/17/1000s-oppose-labours-language-requirement-change/index.html
+layout: layout.njk
 ---
 1000s Oppose Labour's Language Requirement Change
 =================================================

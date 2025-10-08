@@ -1,9 +1,12 @@
 ---
 slug: government-must-fix-ncea-support-inequities
-title: "Government must fix NCEA support inequities"
-date: 2016-03-14
-source-url: https://www.scoop.co.nz/stories/PA1603/S00226/government-must-fix-ncea-support-inequities.htm
+title: Government must fix NCEA support inequities
+date: 2016-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00226/government-must-fix-ncea-support-inequities.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/14/government-must-fix-ncea-support-inequities/index.html
+layout: layout.njk
 ---
 Government must fix NCEA support inequities
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: partnership-schools-outperform-state-schools-on-attendance
-title: "Partnership Schools outperform state schools on attendance"
-date: 2018-03-22
-source-url: https://www.scoop.co.nz/stories/PA1803/S00240/partnership-schools-outperform-state-schools-on-attendance.htm
+title: Partnership Schools outperform state schools on attendance
+date: 2018-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00240/partnership-schools-outperform-state-schools-on-attendance.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/03/22/partnership-schools-outperform-state-schools-on-attendance/index.html
+layout: layout.njk
 ---
 Partnership Schools outperform state schools on attendance
 ==========================================================

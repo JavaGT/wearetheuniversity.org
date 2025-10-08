@@ -1,9 +1,13 @@
 ---
 slug: most-principals-say-their-college-is-underfunded
-title: "Most principals say their college is underfunded"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/PA1605/S00359/most-principals-say-their-college-is-underfunded.htm
+title: Most principals say their college is underfunded
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00359/most-principals-say-their-college-is-underfunded.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/05/19/most-principals-say-their-college-is-underfunded/index.html
+layout: layout.njk
 ---
 Most principals say their college is underfunded
 ================================================

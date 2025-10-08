@@ -1,9 +1,12 @@
 ---
 slug: mums-should-have-three-days-of-postnatal-care
-title: "Mums should have three days of postnatal care"
-date: 2019-10-07
-source-url: https://www.scoop.co.nz/stories/PA1910/S00039/mums-should-have-three-days-of-postnatal-care.htm
+title: Mums should have three days of postnatal care
+date: 2019-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00039/mums-should-have-three-days-of-postnatal-care.htm
 author: new-zealand-national-party
+permalink: /archive/2019/10/07/mums-should-have-three-days-of-postnatal-care/index.html
+layout: layout.njk
 ---
 Mums should have three days of postnatal care
 =============================================

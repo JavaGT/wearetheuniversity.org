@@ -1,9 +1,13 @@
 ---
 slug: nikki-kaye-confirmed-for-national-in-auckland-central
-title: "Nikki Kaye confirmed for National in Auckland Central"
-date: 2016-12-23
-source-url: https://www.scoop.co.nz/stories/PO1612/S00273/nikki-kaye-confirmed-for-national-in-auckland-central.htm
+title: Nikki Kaye confirmed for National in Auckland Central
+date: 2016-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1612/S00273/nikki-kaye-confirmed-for-national-in-auckland-central.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/12/23/nikki-kaye-confirmed-for-national-in-auckland-central/index.html
+layout: layout.njk
 ---
 Nikki Kaye confirmed for National in Auckland Central
 =====================================================

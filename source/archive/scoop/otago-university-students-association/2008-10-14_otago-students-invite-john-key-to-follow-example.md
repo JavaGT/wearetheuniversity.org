@@ -1,9 +1,13 @@
 ---
 slug: otago-students-invite-john-key-to-follow-example
-title: "Otago Students Invite John Key to Follow Example"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/PO0810/S00222/otago-students-invite-john-key-to-follow-example.htm
+title: Otago Students Invite John Key to Follow Example
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00222/otago-students-invite-john-key-to-follow-example.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2008/10/14/otago-students-invite-john-key-to-follow-example/index.html
+layout: layout.njk
 ---
 Otago Students Invite John Key to Follow Example
 ================================================

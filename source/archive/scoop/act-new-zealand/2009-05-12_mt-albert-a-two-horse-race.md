@@ -1,9 +1,11 @@
 ---
 slug: mt-albert-a-two-horse-race
-title: "Mt Albert A Two Horse Race"
-date: 2009-05-12
+title: Mt Albert A Two Horse Race
+date: 2009-05-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0905/S00195/mt-albert-a-two-horse-race.htm
 author: act-new-zealand
+permalink: /archive/2009/05/12/mt-albert-a-two-horse-race/index.html
+layout: layout.njk
 ---
 Mt Albert A Two Horse Race
 ==========================

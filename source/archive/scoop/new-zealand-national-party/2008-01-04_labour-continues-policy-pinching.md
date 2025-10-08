@@ -1,9 +1,12 @@
 ---
 slug: labour-continues-policy-pinching
-title: "Labour continues policy pinching"
-date: 2008-01-04
-source-url: https://www.scoop.co.nz/stories/PA0801/S00019/labour-continues-policy-pinching.htm
+title: Labour continues policy pinching
+date: 2008-01-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00019/labour-continues-policy-pinching.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/04/labour-continues-policy-pinching/index.html
+layout: layout.njk
 ---
 Labour continues policy pinching
 ================================

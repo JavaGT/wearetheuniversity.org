@@ -1,9 +1,11 @@
 ---
 slug: young-labour-budget-response
-title: "Young Labour Budget Response"
-date: 2024-06-01
+title: Young Labour Budget Response
+date: 2024-06-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2406/S00001/young-labour-budget-response.htm
 author: young-labour
+permalink: /archive/2024/06/01/young-labour-budget-response/index.html
+layout: layout.njk
 ---
 Young Labour Budget Response
 ============================

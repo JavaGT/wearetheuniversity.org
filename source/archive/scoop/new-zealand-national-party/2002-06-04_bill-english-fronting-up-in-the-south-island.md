@@ -1,9 +1,12 @@
 ---
 slug: bill-english-fronting-up-in-the-south-island
-title: "Bill English - Fronting Up in the South Island"
-date: 2002-06-04
-source-url: https://www.scoop.co.nz/stories/PA0206/S00013/bill-english-fronting-up-in-the-south-island.htm
+title: Bill English - Fronting Up in the South Island
+date: 2002-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00013/bill-english-fronting-up-in-the-south-island.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/04/bill-english-fronting-up-in-the-south-island/index.html
+layout: layout.njk
 ---
 Bill English - Fronting Up in the South Island
 ==============================================

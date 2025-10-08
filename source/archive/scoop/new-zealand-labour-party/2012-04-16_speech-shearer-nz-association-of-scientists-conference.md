@@ -1,9 +1,13 @@
 ---
 slug: speech-shearer-nz-association-of-scientists-conference
-title: "Speech: Shearer - NZ Association of Scientists Conference"
-date: 2012-04-16
-source-url: https://www.scoop.co.nz/stories/PA1204/S00174/speech-shearer-nz-association-of-scientists-conference.htm
+title: 'Speech: Shearer - NZ Association of Scientists Conference'
+date: 2012-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00174/speech-shearer-nz-association-of-scientists-conference.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/04/16/speech-shearer-nz-association-of-scientists-conference/index.html
+layout: layout.njk
 ---
 Speech: Shearer - NZ Association of Scientists Conference
 =========================================================

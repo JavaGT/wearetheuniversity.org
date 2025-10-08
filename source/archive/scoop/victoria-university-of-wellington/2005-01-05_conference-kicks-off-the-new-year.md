@@ -1,9 +1,12 @@
 ---
 slug: conference-kicks-off-the-new-year
-title: "Conference Kicks Off The New Year"
-date: 2005-01-05
-source-url: https://www.scoop.co.nz/stories/ED0501/S00005/conference-kicks-off-the-new-year.htm
+title: Conference Kicks Off The New Year
+date: 2005-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00005/conference-kicks-off-the-new-year.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/01/05/conference-kicks-off-the-new-year/index.html
+layout: layout.njk
 ---
 Conference Kicks Off The New Year
 =================================

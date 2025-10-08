@@ -1,9 +1,12 @@
 ---
 slug: national-gilding-the-lily-on-water-quality
-title: "National gilding the lily on water quality"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PA1109/S00543/national-gilding-the-lily-on-water-quality.htm
+title: National gilding the lily on water quality
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00543/national-gilding-the-lily-on-water-quality.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/28/national-gilding-the-lily-on-water-quality/index.html
+layout: layout.njk
 ---
 National gilding the lily on water quality
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: ousa-takes-steps-towards-voluntary-membership
-title: "OUSA Takes Steps Towards Voluntary Membership"
-date: 2007-07-06
-source-url: https://www.scoop.co.nz/stories/ED0707/S00031/ousa-takes-steps-towards-voluntary-membership.htm
+title: OUSA Takes Steps Towards Voluntary Membership
+date: 2007-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00031/ousa-takes-steps-towards-voluntary-membership.htm
 author: student-choice
+permalink: /archive/2007/07/06/ousa-takes-steps-towards-voluntary-membership/index.html
+layout: layout.njk
 ---
 OUSA Takes Steps Towards Voluntary Membership
 =============================================

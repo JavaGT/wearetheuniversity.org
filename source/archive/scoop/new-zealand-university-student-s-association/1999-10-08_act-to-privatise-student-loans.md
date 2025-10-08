@@ -1,9 +1,12 @@
 ---
 slug: act-to-privatise-student-loans
-title: "ACT to privatise student loans"
-date: 1999-10-08
-source-url: https://www.scoop.co.nz/stories/ED9910/S00019/act-to-privatise-student-loans.htm
+title: ACT to privatise student loans
+date: 1999-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00019/act-to-privatise-student-loans.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/10/08/act-to-privatise-student-loans/index.html
+layout: layout.njk
 ---
 ACT to privatise student loans
 ==============================

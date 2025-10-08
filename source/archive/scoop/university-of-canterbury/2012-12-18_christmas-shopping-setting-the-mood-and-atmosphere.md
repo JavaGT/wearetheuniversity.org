@@ -1,9 +1,13 @@
 ---
 slug: christmas-shopping-setting-the-mood-and-atmosphere
-title: "Christmas shopping – setting the mood and atmosphere"
-date: 2012-12-18
-source-url: https://www.scoop.co.nz/stories/CU1212/S00267/christmas-shopping-setting-the-mood-and-atmosphere.htm
+title: Christmas shopping – setting the mood and atmosphere
+date: 2012-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1212/S00267/christmas-shopping-setting-the-mood-and-atmosphere.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/18/christmas-shopping-setting-the-mood-and-atmosphere/index.html
+layout: layout.njk
 ---
 Christmas shopping – setting the mood and atmosphere
 ====================================================

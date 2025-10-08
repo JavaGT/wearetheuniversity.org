@@ -1,9 +1,13 @@
 ---
 slug: otago-to-confer-honorary-doctorate-on-leading-law-graduate
-title: "Otago to confer honorary doctorate on leading law graduate"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/ED1405/S00077/otago-to-confer-honorary-doctorate-on-leading-law-graduate.htm
+title: Otago to confer honorary doctorate on leading law graduate
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00077/otago-to-confer-honorary-doctorate-on-leading-law-graduate.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/05/15/otago-to-confer-honorary-doctorate-on-leading-law-graduate/index.html
+layout: layout.njk
 ---
 Otago to confer honorary doctorate on leading law graduate
 ==========================================================

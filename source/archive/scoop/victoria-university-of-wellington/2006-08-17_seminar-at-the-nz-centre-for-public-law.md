@@ -1,9 +1,12 @@
 ---
 slug: seminar-at-the-nz-centre-for-public-law
-title: "Seminar at the NZ Centre for Public Law"
-date: 2006-08-17
-source-url: https://www.scoop.co.nz/stories/ED0608/S00059/seminar-at-the-nz-centre-for-public-law.htm
+title: Seminar at the NZ Centre for Public Law
+date: 2006-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00059/seminar-at-the-nz-centre-for-public-law.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/17/seminar-at-the-nz-centre-for-public-law/index.html
+layout: layout.njk
 ---
 Seminar at the NZ Centre for Public Law
 =======================================

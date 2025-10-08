@@ -1,9 +1,12 @@
 ---
 slug: mccullys-blame-game-not-good-enough
-title: "McCully’s blame game not good enough"
-date: 2012-03-22
-source-url: https://www.scoop.co.nz/stories/PA1203/S00301/mccullys-blame-game-not-good-enough.htm
+title: McCully’s blame game not good enough
+date: 2012-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00301/mccullys-blame-game-not-good-enough.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/22/mccullys-blame-game-not-good-enough/index.html
+layout: layout.njk
 ---
 McCully’s blame game not good enough
 ====================================

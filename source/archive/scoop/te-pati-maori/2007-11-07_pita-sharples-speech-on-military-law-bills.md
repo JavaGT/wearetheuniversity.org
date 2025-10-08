@@ -1,9 +1,12 @@
 ---
 slug: pita-sharples-speech-on-military-law-bills
-title: "Pita Sharples - Speech On Military Law Bills"
-date: 2007-11-07
-source-url: https://www.scoop.co.nz/stories/PA0711/S00101/pita-sharples-speech-on-military-law-bills.htm
+title: Pita Sharples - Speech On Military Law Bills
+date: 2007-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00101/pita-sharples-speech-on-military-law-bills.htm
 author: te-pati-maori
+permalink: /archive/2007/11/07/pita-sharples-speech-on-military-law-bills/index.html
+layout: layout.njk
 ---
 Pita Sharples - Speech On Military Law Bills
 ============================================

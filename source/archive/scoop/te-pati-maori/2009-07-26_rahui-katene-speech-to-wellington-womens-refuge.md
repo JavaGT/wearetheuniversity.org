@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-speech-to-wellington-womens-refuge
-title: "Rahui Katene: Speech To Wellington Women's Refuge"
-date: 2009-07-26
-source-url: https://www.scoop.co.nz/stories/PA0907/S00300/rahui-katene-speech-to-wellington-womens-refuge.htm
+title: 'Rahui Katene: Speech To Wellington Women''s Refuge'
+date: 2009-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00300/rahui-katene-speech-to-wellington-womens-refuge.htm
 author: te-pati-maori
+permalink: /archive/2009/07/26/rahui-katene-speech-to-wellington-womens-refuge/index.html
+layout: layout.njk
 ---
 Rahui Katene: Speech To Wellington Women's Refuge
 =================================================

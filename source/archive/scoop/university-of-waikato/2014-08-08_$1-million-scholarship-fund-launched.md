@@ -1,9 +1,12 @@
 ---
 slug: $1-million-scholarship-fund-launched
-title: "$1 million scholarship fund launched"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/ED1408/S00047/1-million-scholarship-fund-launched.htm
+title: $1 million scholarship fund launched
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00047/1-million-scholarship-fund-launched.htm
 author: university-of-waikato
+permalink: /archive/2014/08/08/1-million-scholarship-fund-launched/index.html
+layout: layout.njk
 ---
 $1 million scholarship fund launched
 ====================================

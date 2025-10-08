@@ -1,9 +1,13 @@
 ---
 slug: victoria-students-help-public-keep-an-eye-on-our-water
-title: "Victoria students help public keep an eye on our water"
-date: 2014-09-25
-source-url: https://www.scoop.co.nz/stories/SC1409/S00100/victoria-students-help-public-keep-an-eye-on-our-water.htm
+title: Victoria students help public keep an eye on our water
+date: 2014-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00100/victoria-students-help-public-keep-an-eye-on-our-water.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/09/25/victoria-students-help-public-keep-an-eye-on-our-water/index.html
+layout: layout.njk
 ---
 Victoria students help public keep an eye on our water
 ======================================================

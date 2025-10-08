@@ -1,9 +1,12 @@
 ---
 slug: massey-staff-raise-over-$600-for-oxfam
-title: "Massey staff raise over $600 for Oxfam"
-date: 2015-06-18
-source-url: https://www.scoop.co.nz/stories/ED1506/S00091/massey-staff-raise-over-600-for-oxfam.htm
+title: Massey staff raise over $600 for Oxfam
+date: 2015-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00091/massey-staff-raise-over-600-for-oxfam.htm
 author: massey-university
+permalink: /archive/2015/06/18/massey-staff-raise-over-/index.html
+layout: layout.njk
 ---
 Massey staff raise over $600 for Oxfam
 ======================================

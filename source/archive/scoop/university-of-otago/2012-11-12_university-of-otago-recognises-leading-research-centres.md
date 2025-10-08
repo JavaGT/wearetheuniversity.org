@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-recognises-leading-research-centres
-title: "University of Otago recognises leading research centres"
-date: 2012-11-12
-source-url: https://www.scoop.co.nz/stories/ED1211/S00085/university-of-otago-recognises-leading-research-centres.htm
+title: University of Otago recognises leading research centres
+date: 2012-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00085/university-of-otago-recognises-leading-research-centres.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/11/12/university-of-otago-recognises-leading-research-centres/index.html
+layout: layout.njk
 ---
 University of Otago recognises leading research centres
 =======================================================

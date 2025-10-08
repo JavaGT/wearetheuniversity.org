@@ -1,9 +1,12 @@
 ---
 slug: māori-party-declare-2020-a-covid-education-amnesty-year
-title: "Māori Party Declare 2020 A Covid Education Amnesty Year"
-date: 2020-08-25
-source-url: https://www.scoop.co.nz/stories/PO2008/S00295/maori-party-declare-2020-a-covid-education-amnesty-year.htm
+title: Māori Party Declare 2020 A Covid Education Amnesty Year
+date: 2020-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00295/maori-party-declare-2020-a-covid-education-amnesty-year.htm
 author: te-pati-maori
+permalink: /archive/2020/08/25/m/index.html
+layout: layout.njk
 ---
 Māori Party Declare 2020 A Covid Education Amnesty Year
 =======================================================

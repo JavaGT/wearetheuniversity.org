@@ -1,9 +1,12 @@
 ---
 slug: hide-attacks-cullen-for-hiding-huge-surplus
-title: "Hide attacks Cullen for hiding huge surplus"
-date: 2005-03-16
-source-url: https://www.scoop.co.nz/stories/PA0503/S00343/hide-attacks-cullen-for-hiding-huge-surplus.htm
+title: Hide attacks Cullen for hiding huge surplus
+date: 2005-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00343/hide-attacks-cullen-for-hiding-huge-surplus.htm
 author: act-new-zealand
+permalink: /archive/2005/03/16/hide-attacks-cullen-for-hiding-huge-surplus/index.html
+layout: layout.njk
 ---
 Hide attacks Cullen for hiding huge surplus
 ===========================================

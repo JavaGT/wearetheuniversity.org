@@ -1,9 +1,13 @@
 ---
 slug: study-finds-kiwi-christmas-a-co-operative-affair
-title: "Study finds Kiwi Christmas a co-operative affair"
-date: 2005-12-20
-source-url: https://www.scoop.co.nz/stories/ED0512/S00081/study-finds-kiwi-christmas-a-co-operative-affair.htm
+title: Study finds Kiwi Christmas a co-operative affair
+date: 2005-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00081/study-finds-kiwi-christmas-a-co-operative-affair.htm
 author: aut-university
+permalink: >-
+  /archive/2005/12/20/study-finds-kiwi-christmas-a-co-operative-affair/index.html
+layout: layout.njk
 ---
 Study finds Kiwi Christmas a co-operative affair
 ================================================

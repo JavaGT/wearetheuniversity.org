@@ -1,9 +1,12 @@
 ---
 slug: sue-moroney-to-stand-down-at-general-election
-title: "Sue Moroney to stand down at General Election"
-date: 2017-04-30
-source-url: https://www.scoop.co.nz/stories/PA1704/S00362/sue-moroney-to-stand-down-at-general-election.htm
+title: Sue Moroney to stand down at General Election
+date: 2017-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00362/sue-moroney-to-stand-down-at-general-election.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/04/30/sue-moroney-to-stand-down-at-general-election/index.html
+layout: layout.njk
 ---
 Sue Moroney to stand down at General Election
 =============================================

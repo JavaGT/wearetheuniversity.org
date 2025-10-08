@@ -1,9 +1,13 @@
 ---
 slug: frustrated-truancy-service-lashes-out-at-schools
-title: "Frustrated Truancy Service Lashes Out at Schools"
-date: 2002-09-12
-source-url: https://www.scoop.co.nz/stories/PA0209/S00202/frustrated-truancy-service-lashes-out-at-schools.htm
+title: Frustrated Truancy Service Lashes Out at Schools
+date: 2002-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00202/frustrated-truancy-service-lashes-out-at-schools.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/09/12/frustrated-truancy-service-lashes-out-at-schools/index.html
+layout: layout.njk
 ---
 Frustrated Truancy Service Lashes Out at Schools
 ================================================

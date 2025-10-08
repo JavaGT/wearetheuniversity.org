@@ -1,9 +1,13 @@
 ---
 slug: chief-justice-returns-for-harkness-henry-lecture-at-waikato
-title: "Chief Justice returns for Harkness Henry Lecture at Waikato"
-date: 2011-08-29
-source-url: https://www.scoop.co.nz/stories/ED1108/S00150/chief-justice-returns-for-harkness-henry-lecture-at-waikato.htm
+title: Chief Justice returns for Harkness Henry Lecture at Waikato
+date: 2011-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00150/chief-justice-returns-for-harkness-henry-lecture-at-waikato.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/08/29/chief-justice-returns-for-harkness-henry-lecture-at-waikato/index.html
+layout: layout.njk
 ---
 Chief Justice returns for Harkness Henry Lecture at Waikato
 ===========================================================

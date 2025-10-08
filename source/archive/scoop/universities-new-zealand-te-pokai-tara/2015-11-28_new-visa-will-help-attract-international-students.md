@@ -1,9 +1,13 @@
 ---
 slug: new-visa-will-help-attract-international-students
-title: "New visa will help attract international students"
-date: 2015-11-28
-source-url: https://www.scoop.co.nz/stories/ED1511/S00138/new-visa-will-help-attract-international-students.htm
+title: New visa will help attract international students
+date: 2015-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00138/new-visa-will-help-attract-international-students.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/11/28/new-visa-will-help-attract-international-students/index.html
+layout: layout.njk
 ---
 New visa will help attract international students
 =================================================

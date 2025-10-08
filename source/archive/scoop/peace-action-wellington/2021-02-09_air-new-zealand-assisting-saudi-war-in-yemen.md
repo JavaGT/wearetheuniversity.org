@@ -1,9 +1,12 @@
 ---
 slug: air-new-zealand-assisting-saudi-war-in-yemen
-title: "Air New Zealand Assisting Saudi War In Yemen"
-date: 2021-02-09
-source-url: https://www.scoop.co.nz/stories/PO2102/S00058/air-new-zealand-assisting-saudi-war-in-yemen.htm
+title: Air New Zealand Assisting Saudi War In Yemen
+date: 2021-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2102/S00058/air-new-zealand-assisting-saudi-war-in-yemen.htm
 author: peace-action-wellington
+permalink: /archive/2021/02/09/air-new-zealand-assisting-saudi-war-in-yemen/index.html
+layout: layout.njk
 ---
 Air New Zealand Assisting Saudi War In Yemen
 ============================================

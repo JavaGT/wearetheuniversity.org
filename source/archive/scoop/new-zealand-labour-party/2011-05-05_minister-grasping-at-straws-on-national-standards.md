@@ -1,9 +1,13 @@
 ---
 slug: minister-grasping-at-straws-on-national-standards
-title: "Minister grasping at straws on National Standards"
-date: 2011-05-05
-source-url: https://www.scoop.co.nz/stories/PA1105/S00100/minister-grasping-at-straws-on-national-standards.htm
+title: Minister grasping at straws on National Standards
+date: 2011-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00100/minister-grasping-at-straws-on-national-standards.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/05/minister-grasping-at-straws-on-national-standards/index.html
+layout: layout.njk
 ---
 Minister grasping at straws on National Standards
 =================================================

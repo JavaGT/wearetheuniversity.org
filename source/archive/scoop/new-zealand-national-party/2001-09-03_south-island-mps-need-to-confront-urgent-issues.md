@@ -1,9 +1,12 @@
 ---
 slug: south-island-mps-need-to-confront-urgent-issues
-title: "South Island MPs Need To Confront Urgent Issues"
-date: 2001-09-03
-source-url: https://www.scoop.co.nz/stories/PA0109/S00018/south-island-mps-need-to-confront-urgent-issues.htm
+title: South Island MPs Need To Confront Urgent Issues
+date: 2001-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00018/south-island-mps-need-to-confront-urgent-issues.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/03/south-island-mps-need-to-confront-urgent-issues/index.html
+layout: layout.njk
 ---
 South Island MPs Need To Confront Urgent Issues
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: management-students-head-to-cambodia-leadership-symposium
-title: "Management students head to Cambodia leadership symposium"
-date: 2014-06-16
-source-url: https://www.scoop.co.nz/stories/ED1406/S00080/management-students-head-to-cambodia-leadership-symposium.htm
+title: Management students head to Cambodia leadership symposium
+date: 2014-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00080/management-students-head-to-cambodia-leadership-symposium.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/16/management-students-head-to-cambodia-leadership-symposium/index.html
+layout: layout.njk
 ---
 Management students head to Cambodia leadership symposium
 =========================================================

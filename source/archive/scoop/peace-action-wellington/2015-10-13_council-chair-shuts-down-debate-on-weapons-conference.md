@@ -1,9 +1,13 @@
 ---
 slug: council-chair-shuts-down-debate-on-weapons-conference
-title: "Council Chair shuts down debate on weapons conference"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/PO1510/S00199/council-chair-shuts-down-debate-on-weapons-conference.htm
+title: Council Chair shuts down debate on weapons conference
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00199/council-chair-shuts-down-debate-on-weapons-conference.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2015/10/13/council-chair-shuts-down-debate-on-weapons-conference/index.html
+layout: layout.njk
 ---
 Council Chair shuts down debate on weapons conference
 =====================================================

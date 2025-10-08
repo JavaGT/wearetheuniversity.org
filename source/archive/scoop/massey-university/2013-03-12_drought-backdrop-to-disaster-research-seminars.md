@@ -1,9 +1,12 @@
 ---
 slug: drought-backdrop-to-disaster-research-seminars
-title: "Drought backdrop to disaster research seminars"
-date: 2013-03-12
-source-url: https://www.scoop.co.nz/stories/BU1303/S00427/drought-backdrop-to-disaster-research-seminars.htm
+title: Drought backdrop to disaster research seminars
+date: 2013-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1303/S00427/drought-backdrop-to-disaster-research-seminars.htm
 author: massey-university
+permalink: /archive/2013/03/12/drought-backdrop-to-disaster-research-seminars/index.html
+layout: layout.njk
 ---
 Drought backdrop to disaster research seminars
 ==============================================

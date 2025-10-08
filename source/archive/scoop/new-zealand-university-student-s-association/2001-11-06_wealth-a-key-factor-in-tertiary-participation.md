@@ -1,9 +1,12 @@
 ---
 slug: wealth-a-key-factor-in-tertiary-participation
-title: "Wealth A Key Factor In Tertiary Participation"
-date: 2001-11-06
-source-url: https://www.scoop.co.nz/stories/ED0111/S00010/wealth-a-key-factor-in-tertiary-participation.htm
+title: Wealth A Key Factor In Tertiary Participation
+date: 2001-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00010/wealth-a-key-factor-in-tertiary-participation.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/11/06/wealth-a-key-factor-in-tertiary-participation/index.html
+layout: layout.njk
 ---
 Wealth A Key Factor In Tertiary Participation
 =============================================

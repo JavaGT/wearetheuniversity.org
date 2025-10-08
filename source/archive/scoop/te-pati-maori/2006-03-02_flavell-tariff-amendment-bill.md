@@ -1,9 +1,12 @@
 ---
 slug: flavell-tariff-amendment-bill
-title: "Flavell: Tariff Amendment Bill"
-date: 2006-03-02
-source-url: https://www.scoop.co.nz/stories/PA0603/S00035/flavell-tariff-amendment-bill.htm
+title: 'Flavell: Tariff Amendment Bill'
+date: 2006-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00035/flavell-tariff-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/03/02/flavell-tariff-amendment-bill/index.html
+layout: layout.njk
 ---
 Flavell: Tariff Amendment Bill
 ==============================

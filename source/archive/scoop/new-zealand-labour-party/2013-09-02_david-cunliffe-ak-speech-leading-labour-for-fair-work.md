@@ -1,9 +1,13 @@
 ---
 slug: david-cunliffe-ak-speech-leading-labour-for-fair-work
-title: "David Cunliffe Ak Speech - Leading Labour For Fair Work"
-date: 2013-09-02
-source-url: https://www.scoop.co.nz/stories/PA1309/S00004/david-cunliffe-ak-speech-leading-labour-for-fair-work.htm
+title: David Cunliffe Ak Speech - Leading Labour For Fair Work
+date: 2013-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00004/david-cunliffe-ak-speech-leading-labour-for-fair-work.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/09/02/david-cunliffe-ak-speech-leading-labour-for-fair-work/index.html
+layout: layout.njk
 ---
 David Cunliffe Ak Speech - Leading Labour For Fair Work
 =======================================================

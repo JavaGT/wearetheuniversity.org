@@ -1,9 +1,12 @@
 ---
 slug: greater-vigilance-in-detecting-family-violence
-title: "Greater Vigilance in Detecting Family Violence"
-date: 2008-09-02
-source-url: https://www.scoop.co.nz/stories/ED0809/S00008/greater-vigilance-in-detecting-family-violence.htm
+title: Greater Vigilance in Detecting Family Violence
+date: 2008-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00008/greater-vigilance-in-detecting-family-violence.htm
 author: university-of-canterbury
+permalink: /archive/2008/09/02/greater-vigilance-in-detecting-family-violence/index.html
+layout: layout.njk
 ---
 Greater Vigilance in Detecting Family Violence
 ==============================================

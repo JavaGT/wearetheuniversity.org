@@ -1,9 +1,12 @@
 ---
 slug: victoria-falls-for-carefully-orchestrated-ruse
-title: "Victoria Falls for Carefully Orchestrated Ruse"
-date: 2005-05-24
-source-url: https://www.scoop.co.nz/stories/ED0505/S00110/victoria-falls-for-carefully-orchestrated-ruse.htm
+title: Victoria Falls for Carefully Orchestrated Ruse
+date: 2005-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00110/victoria-falls-for-carefully-orchestrated-ruse.htm
 author: auckland-university-students-association
+permalink: /archive/2005/05/24/victoria-falls-for-carefully-orchestrated-ruse/index.html
+layout: layout.njk
 ---
 Victoria Falls for Carefully Orchestrated Ruse
 ==============================================

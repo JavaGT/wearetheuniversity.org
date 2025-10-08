@@ -1,9 +1,16 @@
 ---
-slug: perceptions-of-fair-pay-and-transparency-in-the-nz-workplace-managers-vs-non-managers
-title: "Perceptions Of Fair Pay And Transparency In The NZ Workplace: Managers Vs Non-managers"
-date: 2021-11-16
-source-url: https://www.scoop.co.nz/stories/BU2111/S00413/perceptions-of-fair-pay-and-transparency-in-the-nz-workplace-managers-vs-non-managers.htm
+slug: >-
+  perceptions-of-fair-pay-and-transparency-in-the-nz-workplace-managers-vs-non-managers
+title: >-
+  Perceptions Of Fair Pay And Transparency In The NZ Workplace: Managers Vs
+  Non-managers
+date: 2021-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2111/S00413/perceptions-of-fair-pay-and-transparency-in-the-nz-workplace-managers-vs-non-managers.htm
 author: aut-university
+permalink: >-
+  /archive/2021/11/16/perceptions-of-fair-pay-and-transparency-in-the-nz-workplace-managers-vs-non-managers/index.html
+layout: layout.njk
 ---
 Perceptions Of Fair Pay And Transparency In The NZ Workplace: Managers Vs Non-managers
 ======================================================================================

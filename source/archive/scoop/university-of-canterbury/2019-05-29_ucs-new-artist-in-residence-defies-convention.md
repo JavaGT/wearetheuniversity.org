@@ -1,9 +1,12 @@
 ---
 slug: ucs-new-artist-in-residence-defies-convention
-title: "UC’s new Artist in Residence defies convention"
-date: 2019-05-29
-source-url: https://www.scoop.co.nz/stories/CU1905/S00317/ucs-new-artist-in-residence-defies-convention.htm
+title: UC’s new Artist in Residence defies convention
+date: 2019-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1905/S00317/ucs-new-artist-in-residence-defies-convention.htm
 author: university-of-canterbury
+permalink: /archive/2019/05/29/ucs-new-artist-in-residence-defies-convention/index.html
+layout: layout.njk
 ---
 UC’s new Artist in Residence defies convention
 ==============================================

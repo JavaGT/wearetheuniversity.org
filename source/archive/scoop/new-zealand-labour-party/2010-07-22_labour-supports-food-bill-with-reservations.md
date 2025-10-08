@@ -1,9 +1,12 @@
 ---
 slug: labour-supports-food-bill-with-reservations
-title: "Labour supports Food Bill with reservations"
-date: 2010-07-22
-source-url: https://www.scoop.co.nz/stories/PA1007/S00361/labour-supports-food-bill-with-reservations.htm
+title: Labour supports Food Bill with reservations
+date: 2010-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00361/labour-supports-food-bill-with-reservations.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/22/labour-supports-food-bill-with-reservations/index.html
+layout: layout.njk
 ---
 Labour supports Food Bill with reservations
 ===========================================

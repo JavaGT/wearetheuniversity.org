@@ -1,9 +1,12 @@
 ---
 slug: govt-should-face-the-facts-not-skew-the-facts
-title: "Govt should face the facts not skew the facts"
-date: 2016-08-16
-source-url: https://www.scoop.co.nz/stories/PA1608/S00269/govt-should-face-the-facts-not-skew-the-facts.htm
+title: Govt should face the facts not skew the facts
+date: 2016-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00269/govt-should-face-the-facts-not-skew-the-facts.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/16/govt-should-face-the-facts-not-skew-the-facts/index.html
+layout: layout.njk
 ---
 Govt should face the facts not skew the facts
 =============================================

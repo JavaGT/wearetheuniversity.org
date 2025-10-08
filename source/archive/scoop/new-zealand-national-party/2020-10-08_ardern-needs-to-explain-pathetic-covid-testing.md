@@ -1,9 +1,12 @@
 ---
 slug: ardern-needs-to-explain-pathetic-covid-testing
-title: "Ardern Needs To Explain ‘pathetic’ Covid Testing"
-date: 2020-10-08
-source-url: https://www.scoop.co.nz/stories/PA2010/S00059/ardern-needs-to-explain-pathetic-covid-testing.htm
+title: Ardern Needs To Explain ‘pathetic’ Covid Testing
+date: 2020-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00059/ardern-needs-to-explain-pathetic-covid-testing.htm
 author: new-zealand-national-party
+permalink: /archive/2020/10/08/ardern-needs-to-explain-pathetic-covid-testing/index.html
+layout: layout.njk
 ---
 Ardern Needs To Explain ‘pathetic’ Covid Testing
 ================================================

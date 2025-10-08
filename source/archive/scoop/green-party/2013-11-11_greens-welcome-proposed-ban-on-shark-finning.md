@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-proposed-ban-on-shark-finning
-title: "Greens welcome proposed ban on shark finning"
-date: 2013-11-11
-source-url: https://www.scoop.co.nz/stories/PA1311/S00167/greens-welcome-proposed-ban-on-shark-finning.htm
+title: Greens welcome proposed ban on shark finning
+date: 2013-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00167/greens-welcome-proposed-ban-on-shark-finning.htm
 author: green-party
+permalink: /archive/2013/11/11/greens-welcome-proposed-ban-on-shark-finning/index.html
+layout: layout.njk
 ---
 Greens welcome proposed ban on shark finning
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: true-burden-of-rheumatic-fever-in-nz-underestimated
-title: "True burden of rheumatic fever in NZ underestimated"
-date: 2018-11-22
-source-url: https://www.scoop.co.nz/stories/GE1811/S00079/true-burden-of-rheumatic-fever-in-nz-underestimated.htm
+title: True burden of rheumatic fever in NZ underestimated
+date: 2018-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00079/true-burden-of-rheumatic-fever-in-nz-underestimated.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/11/22/true-burden-of-rheumatic-fever-in-nz-underestimated/index.html
+layout: layout.njk
 ---
 True burden of rheumatic fever in NZ underestimated
 ===================================================

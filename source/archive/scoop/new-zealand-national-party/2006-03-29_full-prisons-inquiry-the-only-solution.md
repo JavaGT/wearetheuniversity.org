@@ -1,9 +1,12 @@
 ---
 slug: full-prisons-inquiry-the-only-solution
-title: "Full prisons inquiry the only solution"
-date: 2006-03-29
-source-url: https://www.scoop.co.nz/stories/PA0603/S00521/full-prisons-inquiry-the-only-solution.htm
+title: Full prisons inquiry the only solution
+date: 2006-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00521/full-prisons-inquiry-the-only-solution.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/29/full-prisons-inquiry-the-only-solution/index.html
+layout: layout.njk
 ---
 Full prisons inquiry the only solution
 ======================================

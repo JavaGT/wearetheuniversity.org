@@ -1,9 +1,12 @@
 ---
 slug: new-survey-asks-how-māori-identity-shapes-financial-choices
-title: "New Survey Asks How Māori Identity Shapes Financial Choices"
-date: 2017-10-04
-source-url: https://www.scoop.co.nz/stories/ED1710/S00011/new-survey-asks-how-maori-identity-shapes-financial-choices.htm
+title: New Survey Asks How Māori Identity Shapes Financial Choices
+date: 2017-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00011/new-survey-asks-how-maori-identity-shapes-financial-choices.htm
 author: auckland-university
+permalink: /archive/2017/10/04/new-survey-asks-how-m/index.html
+layout: layout.njk
 ---
 New Survey Asks How Māori Identity Shapes Financial Choices
 ===========================================================

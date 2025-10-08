@@ -1,9 +1,12 @@
 ---
 slug: matariki-a-$450-million-burden-on-businesses
-title: "Matariki A $450 Million Burden On Businesses"
-date: 2021-09-30
-source-url: https://www.scoop.co.nz/stories/PA2109/S00281/matariki-a-450-million-burden-on-businesses.htm
+title: Matariki A $450 Million Burden On Businesses
+date: 2021-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00281/matariki-a-450-million-burden-on-businesses.htm
 author: act-new-zealand
+permalink: /archive/2021/09/30/matariki-a-/index.html
+layout: layout.njk
 ---
 Matariki A $450 Million Burden On Businesses
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: commonsense-prevails-with-wellington-hospital
-title: "Commonsense prevails with Wellington hospital"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00679/commonsense-prevails-with-wellington-hospital.htm
+title: Commonsense prevails with Wellington hospital
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00679/commonsense-prevails-with-wellington-hospital.htm
 author: green-party
+permalink: /archive/1999/09/30/commonsense-prevails-with-wellington-hospital/index.html
+layout: layout.njk
 ---
 Commonsense prevails with Wellington hospital
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: $106-million-underspent-on-canterbury
-title: "$106 million underspent on Canterbury"
-date: 2016-04-08
-source-url: https://www.scoop.co.nz/stories/PA1604/S00143/106-million-underspent-on-canterbury.htm
+title: $106 million underspent on Canterbury
+date: 2016-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00143/106-million-underspent-on-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/04/08/106-million-underspent-on-canterbury/index.html
+layout: layout.njk
 ---
 $106 million underspent on Canterbury
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: internship-at-international-council-of-nurses
-title: "Internship at International Council of Nurses"
-date: 2016-11-22
-source-url: https://www.scoop.co.nz/stories/ED1611/S00100/internship-at-international-council-of-nurses.htm
+title: Internship at International Council of Nurses
+date: 2016-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00100/internship-at-international-council-of-nurses.htm
 author: massey-university
+permalink: /archive/2016/11/22/internship-at-international-council-of-nurses/index.html
+layout: layout.njk
 ---
 Internship at International Council of Nurses
 =============================================

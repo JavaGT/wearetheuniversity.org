@@ -1,9 +1,12 @@
 ---
 slug: joyce-has-eyes-closed-over-hard-hit-regions
-title: "Joyce has eyes closed over hard-hit regions"
-date: 2013-06-12
-source-url: https://www.scoop.co.nz/stories/PA1306/S00195/joyce-has-eyes-closed-over-hard-hit-regions.htm
+title: Joyce has eyes closed over hard-hit regions
+date: 2013-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00195/joyce-has-eyes-closed-over-hard-hit-regions.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/12/joyce-has-eyes-closed-over-hard-hit-regions/index.html
+layout: layout.njk
 ---
 Joyce has eyes closed over hard-hit regions
 ===========================================

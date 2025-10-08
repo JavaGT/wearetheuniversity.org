@@ -1,9 +1,12 @@
 ---
 slug: labour-green-alliance-concerning-for-port-hills
-title: "Labour-Green alliance concerning for Port Hills"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/PA1606/S00066/labour-green-alliance-concerning-for-port-hills.htm
+title: Labour-Green alliance concerning for Port Hills
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00066/labour-green-alliance-concerning-for-port-hills.htm
 author: new-zealand-national-party
+permalink: /archive/2016/06/03/labour-green-alliance-concerning-for-port-hills/index.html
+layout: layout.njk
 ---
 Labour-Green alliance concerning for Port Hills
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-applaud-aa-advice-on-tyre-pressure
-title: "Greens applaud AA advice on tyre pressure"
-date: 2010-07-16
-source-url: https://www.scoop.co.nz/stories/PA1007/S00255/greens-applaud-aa-advice-on-tyre-pressure.htm
+title: Greens applaud AA advice on tyre pressure
+date: 2010-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00255/greens-applaud-aa-advice-on-tyre-pressure.htm
 author: green-party
+permalink: /archive/2010/07/16/greens-applaud-aa-advice-on-tyre-pressure/index.html
+layout: layout.njk
 ---
 Greens applaud AA advice on tyre pressure
 =========================================

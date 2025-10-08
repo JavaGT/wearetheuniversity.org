@@ -1,9 +1,13 @@
 ---
 slug: ilam-labour-candidate-disappointed-at-brownlees-no-show
-title: "Ilam Labour Candidate Disappointed at Brownlee’s \"No Show\""
-date: 2017-09-10
-source-url: https://www.scoop.co.nz/stories/AK1709/S00235/ilam-labour-candidate-disappointed-at-brownlees-no-show.htm
+title: Ilam Labour Candidate Disappointed at Brownlee’s "No Show"
+date: 2017-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1709/S00235/ilam-labour-candidate-disappointed-at-brownlees-no-show.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/09/10/ilam-labour-candidate-disappointed-at-brownlees-no-show/index.html
+layout: layout.njk
 ---
 Ilam Labour Candidate Disappointed at Brownlee’s ‘No Show"
 ==========================================================

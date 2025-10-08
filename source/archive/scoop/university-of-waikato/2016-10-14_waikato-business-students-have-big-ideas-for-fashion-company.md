@@ -1,9 +1,13 @@
 ---
 slug: waikato-business-students-have-big-ideas-for-fashion-company
-title: "Waikato business students have big ideas for fashion company"
-date: 2016-10-14
-source-url: https://www.scoop.co.nz/stories/ED1610/S00041/waikato-business-students-have-big-ideas-for-fashion-company.htm
+title: Waikato business students have big ideas for fashion company
+date: 2016-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00041/waikato-business-students-have-big-ideas-for-fashion-company.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/10/14/waikato-business-students-have-big-ideas-for-fashion-company/index.html
+layout: layout.njk
 ---
 Waikato business students have big ideas for fashion company
 ============================================================

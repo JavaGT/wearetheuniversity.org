@@ -1,9 +1,13 @@
 ---
 slug: lincoln-introduces-visiting-pm-to-nz-agriculture
-title: "Lincoln introduces visiting PM to NZ agriculture"
-date: 2005-12-05
-source-url: https://www.scoop.co.nz/stories/ED0512/S00023/lincoln-introduces-visiting-pm-to-nz-agriculture.htm
+title: Lincoln introduces visiting PM to NZ agriculture
+date: 2005-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00023/lincoln-introduces-visiting-pm-to-nz-agriculture.htm
 author: lincoln-university
+permalink: >-
+  /archive/2005/12/05/lincoln-introduces-visiting-pm-to-nz-agriculture/index.html
+layout: layout.njk
 ---
 Lincoln introduces visiting PM to NZ agriculture
 ================================================

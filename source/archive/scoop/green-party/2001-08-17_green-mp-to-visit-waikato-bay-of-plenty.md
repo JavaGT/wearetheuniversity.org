@@ -1,9 +1,12 @@
 ---
 slug: green-mp-to-visit-waikato-bay-of-plenty
-title: "Green MP To Visit Waikato, Bay Of Plenty"
-date: 2001-08-17
-source-url: https://www.scoop.co.nz/stories/PA0108/S00346/green-mp-to-visit-waikato-bay-of-plenty.htm
+title: Green MP To Visit Waikato, Bay Of Plenty
+date: 2001-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00346/green-mp-to-visit-waikato-bay-of-plenty.htm
 author: green-party
+permalink: /archive/2001/08/17/green-mp-to-visit-waikato-bay-of-plenty/index.html
+layout: layout.njk
 ---
 Green MP To Visit Waikato, Bay Of Plenty
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: framework-a-realistic-recognition-of-issues
-title: "Framework A Realistic Recognition Of Issues"
-date: 2002-02-12
-source-url: https://www.scoop.co.nz/stories/PO0202/S00046/framework-a-realistic-recognition-of-issues.htm
+title: Framework A Realistic Recognition Of Issues
+date: 2002-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0202/S00046/framework-a-realistic-recognition-of-issues.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/02/12/framework-a-realistic-recognition-of-issues/index.html
+layout: layout.njk
 ---
 Framework A Realistic Recognition Of Issues
 ===========================================

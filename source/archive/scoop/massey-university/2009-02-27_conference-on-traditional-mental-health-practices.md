@@ -1,9 +1,13 @@
 ---
 slug: conference-on-traditional-mental-health-practices
-title: "Conference on traditional mental health practices"
-date: 2009-02-27
-source-url: https://www.scoop.co.nz/stories/ED0902/S00101/conference-on-traditional-mental-health-practices.htm
+title: Conference on traditional mental health practices
+date: 2009-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00101/conference-on-traditional-mental-health-practices.htm
 author: massey-university
+permalink: >-
+  /archive/2009/02/27/conference-on-traditional-mental-health-practices/index.html
+layout: layout.njk
 ---
 Conference on traditional mental health practices
 =================================================

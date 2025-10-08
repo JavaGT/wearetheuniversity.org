@@ -1,9 +1,12 @@
 ---
 slug: fighting-for-the-integrity-of-water
-title: "Fighting for the integrity of water"
-date: 2017-06-28
-source-url: https://www.scoop.co.nz/stories/PO1706/S00390/fighting-for-the-integrity-of-water.htm
+title: Fighting for the integrity of water
+date: 2017-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00390/fighting-for-the-integrity-of-water.htm
 author: te-pati-maori
+permalink: /archive/2017/06/28/fighting-for-the-integrity-of-water/index.html
+layout: layout.njk
 ---
 Fighting for the integrity of water
 ===================================

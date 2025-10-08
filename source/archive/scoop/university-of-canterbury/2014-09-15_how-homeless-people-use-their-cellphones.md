@@ -1,9 +1,12 @@
 ---
 slug: how-homeless-people-use-their-cellphones
-title: "How homeless people use their cellphones"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/CU1409/S00270/how-homeless-people-use-their-cellphones.htm
+title: How homeless people use their cellphones
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1409/S00270/how-homeless-people-use-their-cellphones.htm
 author: university-of-canterbury
+permalink: /archive/2014/09/15/how-homeless-people-use-their-cellphones/index.html
+layout: layout.njk
 ---
 How homeless people use their cellphones
 ========================================

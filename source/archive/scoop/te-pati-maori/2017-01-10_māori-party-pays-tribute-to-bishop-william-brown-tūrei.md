@@ -1,9 +1,12 @@
 ---
 slug: māori-party-pays-tribute-to-bishop-william-brown-tūrei
-title: "Māori Party pays tribute to Bishop William Brown Tūrei"
-date: 2017-01-10
-source-url: https://www.scoop.co.nz/stories/PA1701/S00021/maori-party-pays-tribute-to-bishop-william-brown-turei.htm
+title: Māori Party pays tribute to Bishop William Brown Tūrei
+date: 2017-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00021/maori-party-pays-tribute-to-bishop-william-brown-turei.htm
 author: te-pati-maori
+permalink: /archive/2017/01/10/m/index.html
+layout: layout.njk
 ---
 Māori Party pays tribute to Bishop William Brown Tūrei
 ======================================================

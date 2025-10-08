@@ -1,9 +1,12 @@
 ---
 slug: ririnuis-maori-seats-idea-too-little-to-late
-title: "Ririnui’s Maori seats idea too little, to late"
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/PA0904/S00389/ririnuis-maori-seats-idea-too-little-to-late.htm
+title: Ririnui’s Maori seats idea too little, to late
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00389/ririnuis-maori-seats-idea-too-little-to-late.htm
 author: te-pati-maori
+permalink: /archive/2009/04/30/ririnuis-maori-seats-idea-too-little-to-late/index.html
+layout: layout.njk
 ---
 Ririnui’s Maori seats idea too little, to late
 ==============================================

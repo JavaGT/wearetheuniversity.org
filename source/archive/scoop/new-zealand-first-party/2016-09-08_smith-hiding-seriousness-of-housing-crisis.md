@@ -1,9 +1,12 @@
 ---
 slug: smith-hiding-seriousness-of-housing-crisis
-title: "Smith Hiding Seriousness of Housing Crisis"
-date: 2016-09-08
-source-url: https://www.scoop.co.nz/stories/PA1609/S00133/smith-hiding-seriousness-of-housing-crisis.htm
+title: Smith Hiding Seriousness of Housing Crisis
+date: 2016-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00133/smith-hiding-seriousness-of-housing-crisis.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/08/smith-hiding-seriousness-of-housing-crisis/index.html
+layout: layout.njk
 ---
 Smith Hiding Seriousness of Housing Crisis
 ==========================================

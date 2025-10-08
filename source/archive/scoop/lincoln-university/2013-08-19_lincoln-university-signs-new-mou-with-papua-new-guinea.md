@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-signs-new-mou-with-papua-new-guinea
-title: "Lincoln University signs new MOU with Papua New Guinea"
-date: 2013-08-19
-source-url: https://www.scoop.co.nz/stories/ED1308/S00087/lincoln-university-signs-new-mou-with-papua-new-guinea.htm
+title: Lincoln University signs new MOU with Papua New Guinea
+date: 2013-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00087/lincoln-university-signs-new-mou-with-papua-new-guinea.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/08/19/lincoln-university-signs-new-mou-with-papua-new-guinea/index.html
+layout: layout.njk
 ---
 Lincoln University signs new MOU with Papua New Guinea
 ======================================================

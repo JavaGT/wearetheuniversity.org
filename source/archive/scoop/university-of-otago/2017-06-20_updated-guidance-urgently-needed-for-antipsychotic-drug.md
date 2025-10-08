@@ -1,9 +1,13 @@
 ---
 slug: updated-guidance-urgently-needed-for-antipsychotic-drug
-title: "Updated guidance urgently needed for antipsychotic drug"
-date: 2017-06-20
-source-url: https://www.scoop.co.nz/stories/SC1706/S00042/updated-guidance-urgently-needed-for-antipsychotic-drug.htm
+title: Updated guidance urgently needed for antipsychotic drug
+date: 2017-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1706/S00042/updated-guidance-urgently-needed-for-antipsychotic-drug.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/20/updated-guidance-urgently-needed-for-antipsychotic-drug/index.html
+layout: layout.njk
 ---
 Updated guidance urgently needed for antipsychotic drug
 =======================================================

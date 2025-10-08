@@ -1,9 +1,13 @@
 ---
 slug: labour-supporting-and-valuing-carers-and-the-cared-for
-title: "Labour – supporting and valuing carers and the cared for"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/PA1408/S00308/labour-supporting-and-valuing-carers-and-the-cared-for.htm
+title: Labour – supporting and valuing carers and the cared for
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00308/labour-supporting-and-valuing-carers-and-the-cared-for.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/20/labour-supporting-and-valuing-carers-and-the-cared-for/index.html
+layout: layout.njk
 ---
 Labour – supporting and valuing carers and the cared for
 ========================================================

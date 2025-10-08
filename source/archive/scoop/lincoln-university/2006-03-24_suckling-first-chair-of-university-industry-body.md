@@ -1,9 +1,13 @@
 ---
 slug: suckling-first-chair-of-university-industry-body
-title: "Suckling first chair of university-industry body"
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/ED0603/S00072/suckling-first-chair-of-university-industry-body.htm
+title: Suckling first chair of university-industry body
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00072/suckling-first-chair-of-university-industry-body.htm
 author: lincoln-university
+permalink: >-
+  /archive/2006/03/24/suckling-first-chair-of-university-industry-body/index.html
+layout: layout.njk
 ---
 Suckling first chair of university-industry body
 ================================================

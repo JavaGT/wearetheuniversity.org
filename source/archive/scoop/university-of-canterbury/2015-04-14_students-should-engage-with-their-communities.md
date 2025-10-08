@@ -1,9 +1,12 @@
 ---
 slug: students-should-engage-with-their-communities
-title: "Students should engage with their communities"
-date: 2015-04-14
-source-url: https://www.scoop.co.nz/stories/ED1504/S00035/students-should-engage-with-their-communities.htm
+title: Students should engage with their communities
+date: 2015-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00035/students-should-engage-with-their-communities.htm
 author: university-of-canterbury
+permalink: /archive/2015/04/14/students-should-engage-with-their-communities/index.html
+layout: layout.njk
 ---
 Students should engage with their communities
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: aste-members-strike-at-aut
-title: "ASTE Members Strike at AUT"
-date: 2005-08-30
+title: ASTE Members Strike at AUT
+date: 2005-08-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0508/S00114/aste-members-strike-at-aut.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/08/30/aste-members-strike-at-aut/index.html
+layout: layout.njk
 ---
 ASTE Members Strike at AUT
 ==========================

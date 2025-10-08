@@ -1,9 +1,12 @@
 ---
 slug: does-energy-efficiency-lead-to-energy-savings
-title: "Does energy efficiency lead to energy savings?"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/CU1505/S00182/does-energy-efficiency-lead-to-energy-savings.htm
+title: Does energy efficiency lead to energy savings?
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00182/does-energy-efficiency-lead-to-energy-savings.htm
 author: lincoln-university
+permalink: /archive/2015/05/11/does-energy-efficiency-lead-to-energy-savings/index.html
+layout: layout.njk
 ---
 Does energy efficiency lead to energy savings?
 ==============================================

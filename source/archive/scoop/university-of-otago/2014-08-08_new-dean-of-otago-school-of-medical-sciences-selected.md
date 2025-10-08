@@ -1,9 +1,13 @@
 ---
 slug: new-dean-of-otago-school-of-medical-sciences-selected
-title: "New Dean of Otago School of Medical Sciences selected"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/ED1408/S00039/new-dean-of-otago-school-of-medical-sciences-selected.htm
+title: New Dean of Otago School of Medical Sciences selected
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00039/new-dean-of-otago-school-of-medical-sciences-selected.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/08/08/new-dean-of-otago-school-of-medical-sciences-selected/index.html
+layout: layout.njk
 ---
 New Dean of Otago School of Medical Sciences selected
 =====================================================

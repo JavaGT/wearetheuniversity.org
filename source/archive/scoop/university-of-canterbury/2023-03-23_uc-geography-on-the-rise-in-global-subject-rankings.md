@@ -1,9 +1,13 @@
 ---
 slug: uc-geography-on-the-rise-in-global-subject-rankings
-title: "UC Geography On The Rise In Global Subject Rankings"
-date: 2023-03-23
-source-url: https://www.scoop.co.nz/stories/ED2303/S00036/uc-geography-on-the-rise-in-global-subject-rankings.htm
+title: UC Geography On The Rise In Global Subject Rankings
+date: 2023-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00036/uc-geography-on-the-rise-in-global-subject-rankings.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/03/23/uc-geography-on-the-rise-in-global-subject-rankings/index.html
+layout: layout.njk
 ---
 UC Geography On The Rise In Global Subject Rankings
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-fails-new-zealand-children
-title: "Labour fails New Zealand children"
-date: 2005-08-17
-source-url: https://www.scoop.co.nz/stories/PA0508/S00434/labour-fails-new-zealand-children.htm
+title: Labour fails New Zealand children
+date: 2005-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00434/labour-fails-new-zealand-children.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/17/labour-fails-new-zealand-children/index.html
+layout: layout.njk
 ---
 Labour fails New Zealand children
 =================================

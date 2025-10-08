@@ -1,9 +1,12 @@
 ---
 slug: treated-stock-water-for-residents
-title: "Treated Stock Water for Residents"
-date: 2016-11-06
-source-url: https://www.scoop.co.nz/stories/PA1611/S00117/treated-stock-water-for-residents.htm
+title: Treated Stock Water for Residents
+date: 2016-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00117/treated-stock-water-for-residents.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/06/treated-stock-water-for-residents/index.html
+layout: layout.njk
 ---
 Treated Stock Water for Residents
 =================================

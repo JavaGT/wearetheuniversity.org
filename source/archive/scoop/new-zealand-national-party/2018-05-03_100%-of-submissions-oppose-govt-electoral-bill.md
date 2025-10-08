@@ -1,9 +1,12 @@
 ---
 slug: 100%-of-submissions-oppose-govt-electoral-bill
-title: "100% of submissions oppose Govt Electoral Bill"
-date: 2018-05-03
-source-url: https://www.scoop.co.nz/stories/PA1805/S00037/100-of-submissions-oppose-govt-electoral-bill.htm
+title: 100% of submissions oppose Govt Electoral Bill
+date: 2018-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00037/100-of-submissions-oppose-govt-electoral-bill.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/03/100/index.html
+layout: layout.njk
 ---
 100% of submissions oppose Govt Electoral Bill
 ==============================================

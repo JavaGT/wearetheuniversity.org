@@ -1,9 +1,11 @@
 ---
 slug: a-view-to-tattoo
-title: "A View To Tattoo"
-date: 2003-07-24
+title: A View To Tattoo
+date: 2003-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0307/S00110/a-view-to-tattoo.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/24/a-view-to-tattoo/index.html
+layout: layout.njk
 ---
 A View To Tattoo
 ================

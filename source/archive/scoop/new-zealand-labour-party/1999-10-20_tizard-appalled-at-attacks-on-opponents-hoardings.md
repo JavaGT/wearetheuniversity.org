@@ -1,9 +1,13 @@
 ---
 slug: tizard-appalled-at-attacks-on-opponents-hoardings
-title: "Tizard appalled at attacks on opponents' hoardings"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/PA9910/S00479/tizard-appalled-at-attacks-on-opponents-hoardings.htm
+title: Tizard appalled at attacks on opponents' hoardings
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00479/tizard-appalled-at-attacks-on-opponents-hoardings.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/1999/10/20/tizard-appalled-at-attacks-on-opponents-hoardings/index.html
+layout: layout.njk
 ---
 Tizard appalled at attacks on opponents' hoardings
 ==================================================

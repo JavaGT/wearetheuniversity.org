@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-the-tories-are-bored!
-title: "Future Lefts - The Tories are bored!"
-date: 2000-07-13
-source-url: https://www.scoop.co.nz/stories/PO0007/S00046/future-lefts-the-tories-are-bored.htm
+title: Future Lefts - The Tories are bored!
+date: 2000-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0007/S00046/future-lefts-the-tories-are-bored.htm
 author: young-labour
+permalink: /archive/2000/07/13/future-lefts-the-tories-are-bored/index.html
+layout: layout.njk
 ---
 Future Lefts - The Tories are bored!
 ====================================

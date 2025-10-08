@@ -1,9 +1,13 @@
 ---
 slug: celebrate-and-explore-antarctica-with-victoria-uni
-title: "Celebrate and Explore Antarctica with Victoria Uni"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/SC0804/S00023/celebrate-and-explore-antarctica-with-victoria-uni.htm
+title: Celebrate and Explore Antarctica with Victoria Uni
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0804/S00023/celebrate-and-explore-antarctica-with-victoria-uni.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2008/04/09/celebrate-and-explore-antarctica-with-victoria-uni/index.html
+layout: layout.njk
 ---
 Celebrate and Explore Antarctica with Victoria Uni
 ==================================================

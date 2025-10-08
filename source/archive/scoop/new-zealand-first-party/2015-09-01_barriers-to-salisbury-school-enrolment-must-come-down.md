@@ -1,9 +1,13 @@
 ---
 slug: barriers-to-salisbury-school-enrolment-must-come-down
-title: "Barriers to Salisbury School enrolment must come down"
-date: 2015-09-01
-source-url: https://www.scoop.co.nz/stories/PA1509/S00018/barriers-to-salisbury-school-enrolment-must-come-down.htm
+title: Barriers to Salisbury School enrolment must come down
+date: 2015-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00018/barriers-to-salisbury-school-enrolment-must-come-down.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/09/01/barriers-to-salisbury-school-enrolment-must-come-down/index.html
+layout: layout.njk
 ---
 Barriers to Salisbury School enrolment must come down
 =====================================================

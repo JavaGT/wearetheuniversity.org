@@ -1,9 +1,13 @@
 ---
 slug: uc-postgraduate-student-seeking-to-help-people-with-dementia
-title: "UC postgraduate student seeking to help people with dementia"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/AK1308/S00192/uc-postgraduate-student-seeking-to-help-people-with-dementia.htm
+title: UC postgraduate student seeking to help people with dementia
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00192/uc-postgraduate-student-seeking-to-help-people-with-dementia.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/08/uc-postgraduate-student-seeking-to-help-people-with-dementia/index.html
+layout: layout.njk
 ---
 UC postgraduate student seeking to help people with dementia
 ============================================================

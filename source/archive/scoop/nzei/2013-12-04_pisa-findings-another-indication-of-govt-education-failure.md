@@ -1,9 +1,13 @@
 ---
 slug: pisa-findings-another-indication-of-govt-education-failure
-title: "PISA findings another indication of Govt education failure"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/ED1312/S00029/pisa-findings-another-indication-of-govt-education-failure.htm
+title: PISA findings another indication of Govt education failure
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00029/pisa-findings-another-indication-of-govt-education-failure.htm
 author: nzei
+permalink: >-
+  /archive/2013/12/04/pisa-findings-another-indication-of-govt-education-failure/index.html
+layout: layout.njk
 ---
 PISA findings another indication of Govt education failure
 ==========================================================

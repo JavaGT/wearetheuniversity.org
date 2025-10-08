@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-genetic-diversity-to-be-mapped
-title: "New Zealanders’ genetic diversity to be mapped"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/SC1212/S00011/new-zealanders-genetic-diversity-to-be-mapped.htm
+title: New Zealanders’ genetic diversity to be mapped
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00011/new-zealanders-genetic-diversity-to-be-mapped.htm
 author: university-of-otago
+permalink: /archive/2012/12/06/new-zealanders-genetic-diversity-to-be-mapped/index.html
+layout: layout.njk
 ---
 New Zealanders’ genetic diversity to be mapped
 ==============================================

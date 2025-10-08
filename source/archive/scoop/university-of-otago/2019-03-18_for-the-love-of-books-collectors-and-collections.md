@@ -1,9 +1,13 @@
 ---
 slug: for-the-love-of-books-collectors-and-collections
-title: "For the Love of Books: Collectors and Collections"
-date: 2019-03-18
-source-url: https://www.scoop.co.nz/stories/CU1903/S00237/for-the-love-of-books-collectors-and-collections.htm
+title: 'For the Love of Books: Collectors and Collections'
+date: 2019-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1903/S00237/for-the-love-of-books-collectors-and-collections.htm
 author: university-of-otago
+permalink: >-
+  /archive/2019/03/18/for-the-love-of-books-collectors-and-collections/index.html
+layout: layout.njk
 ---
 For the Love of Books: Collectors and Collections
 =================================================

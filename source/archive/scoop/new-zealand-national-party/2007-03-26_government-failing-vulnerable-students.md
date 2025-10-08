@@ -1,9 +1,12 @@
 ---
 slug: government-failing-vulnerable-students
-title: "Government failing vulnerable students"
-date: 2007-03-26
-source-url: https://www.scoop.co.nz/stories/PA0703/S00502/government-failing-vulnerable-students.htm
+title: Government failing vulnerable students
+date: 2007-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00502/government-failing-vulnerable-students.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/26/government-failing-vulnerable-students/index.html
+layout: layout.njk
 ---
 Government failing vulnerable students
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: speech-shaw-federation-of-multicultural-councils-agm
-title: "Speech: Shaw - Federation of Multicultural Councils AGM"
-date: 2017-07-01
-source-url: https://www.scoop.co.nz/stories/PA1707/S00007/speech-shaw-federation-of-multicultural-councils-agm.htm
+title: 'Speech: Shaw - Federation of Multicultural Councils AGM'
+date: 2017-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00007/speech-shaw-federation-of-multicultural-councils-agm.htm
 author: green-party
+permalink: >-
+  /archive/2017/07/01/speech-shaw-federation-of-multicultural-councils-agm/index.html
+layout: layout.njk
 ---
 Speech: Shaw - Federation of Multicultural Councils AGM
 =======================================================

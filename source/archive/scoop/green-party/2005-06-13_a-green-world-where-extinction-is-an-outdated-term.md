@@ -1,9 +1,13 @@
 ---
 slug: a-green-world-where-extinction-is-an-outdated-term
-title: "A Green world where extinction is an outdated term"
-date: 2005-06-13
-source-url: https://www.scoop.co.nz/stories/PA0506/S00249/a-green-world-where-extinction-is-an-outdated-term.htm
+title: A Green world where extinction is an outdated term
+date: 2005-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00249/a-green-world-where-extinction-is-an-outdated-term.htm
 author: green-party
+permalink: >-
+  /archive/2005/06/13/a-green-world-where-extinction-is-an-outdated-term/index.html
+layout: layout.njk
 ---
 A Green world where extinction is an outdated term
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: still-no-end-in-sight-for-cold-and-mould-in-student-flats
-title: "Still no end in sight for cold and mould in student flats"
-date: 2016-04-14
-source-url: https://www.scoop.co.nz/stories/ED1604/S00043/still-no-end-in-sight-for-cold-and-mould-in-student-flats.htm
+title: Still no end in sight for cold and mould in student flats
+date: 2016-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00043/still-no-end-in-sight-for-cold-and-mould-in-student-flats.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/04/14/still-no-end-in-sight-for-cold-and-mould-in-student-flats/index.html
+layout: layout.njk
 ---
 Still no end in sight for cold and mould in student flats
 =========================================================

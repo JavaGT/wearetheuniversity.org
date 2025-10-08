@@ -1,9 +1,11 @@
 ---
 slug: prebble-the-loser!
-title: "Prebble the loser!"
-date: 1999-10-28
+title: Prebble the loser!
+date: 1999-10-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9910/S00650/prebble-the-loser.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/28/prebble-the-loser/index.html
+layout: layout.njk
 ---
 Prebble the loser!
 ==================

@@ -1,9 +1,12 @@
 ---
 slug: lange-themed-speech-writing-competition
-title: "Lange themed speech-writing competition"
-date: 2008-05-01
-source-url: https://www.scoop.co.nz/stories/ED0805/S00007/lange-themed-speech-writing-competition.htm
+title: Lange themed speech-writing competition
+date: 2008-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00007/lange-themed-speech-writing-competition.htm
 author: massey-university
+permalink: /archive/2008/05/01/lange-themed-speech-writing-competition/index.html
+layout: layout.njk
 ---
 Lange themed speech-writing competition
 =======================================

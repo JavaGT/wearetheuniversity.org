@@ -1,9 +1,12 @@
 ---
 slug: uc-expert-receives-international-award
-title: "UC expert receives international award"
-date: 2013-01-24
-source-url: https://www.scoop.co.nz/stories/ED1301/S00064/uc-expert-receives-international-award.htm
+title: UC expert receives international award
+date: 2013-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00064/uc-expert-receives-international-award.htm
 author: university-of-canterbury
+permalink: /archive/2013/01/24/uc-expert-receives-international-award/index.html
+layout: layout.njk
 ---
 UC expert receives international award
 ======================================

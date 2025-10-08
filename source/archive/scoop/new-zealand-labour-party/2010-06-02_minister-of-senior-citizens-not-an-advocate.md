@@ -1,9 +1,12 @@
 ---
 slug: minister-of-senior-citizens-not-an-advocate
-title: "Minister of Senior Citizens not an advocate"
-date: 2010-06-02
-source-url: https://www.scoop.co.nz/stories/PA1006/S00050/minister-of-senior-citizens-not-an-advocate.htm
+title: Minister of Senior Citizens not an advocate
+date: 2010-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00050/minister-of-senior-citizens-not-an-advocate.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/02/minister-of-senior-citizens-not-an-advocate/index.html
+layout: layout.njk
 ---
 Minister of Senior Citizens not an advocate
 ===========================================

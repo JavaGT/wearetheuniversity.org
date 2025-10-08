@@ -1,9 +1,12 @@
 ---
 slug: industrial-strength-hypocrisy-from-teu
-title: "Industrial strength hypocrisy from TEU"
-date: 2010-03-01
-source-url: https://www.scoop.co.nz/stories/ED1003/S00001/industrial-strength-hypocrisy-from-teu.htm
+title: Industrial strength hypocrisy from TEU
+date: 2010-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00001/industrial-strength-hypocrisy-from-teu.htm
 author: student-choice
+permalink: /archive/2010/03/01/industrial-strength-hypocrisy-from-teu/index.html
+layout: layout.njk
 ---
 Industrial strength hypocrisy from TEU
 ======================================

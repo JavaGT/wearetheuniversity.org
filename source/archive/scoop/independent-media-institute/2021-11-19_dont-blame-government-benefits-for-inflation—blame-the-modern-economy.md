@@ -1,9 +1,12 @@
 ---
 slug: dont-blame-government-benefits-for-inflation—blame-the-modern-economy
-title: "Don’t Blame Government Benefits For Inflation—Blame The Modern Economy"
-date: 2021-11-19
-source-url: https://www.scoop.co.nz/stories/HL2111/S00053/dont-blame-government-benefits-for-inflation-blame-the-modern-economy.htm
+title: Don’t Blame Government Benefits For Inflation—Blame The Modern Economy
+date: 2021-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL2111/S00053/dont-blame-government-benefits-for-inflation-blame-the-modern-economy.htm
 author: independent-media-institute
+permalink: /archive/2021/11/19/dont-blame-government-benefits-for-inflation/index.html
+layout: layout.njk
 ---
 Don’t Blame Government Benefits For Inflation—Blame The Modern Economy
 ======================================================================

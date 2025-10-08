@@ -1,9 +1,12 @@
 ---
 slug: health-of-older-maori-chart-book-released
-title: "Health of Older Maori Chart Book released"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/PA1103/S00035/health-of-older-maori-chart-book-released.htm
+title: Health of Older Maori Chart Book released
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00035/health-of-older-maori-chart-book-released.htm
 author: te-pati-maori
+permalink: /archive/2011/03/03/health-of-older-maori-chart-book-released/index.html
+layout: layout.njk
 ---
 Health of Older Maori Chart Book released
 =========================================

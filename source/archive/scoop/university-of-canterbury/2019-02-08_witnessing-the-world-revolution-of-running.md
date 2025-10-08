@@ -1,9 +1,12 @@
 ---
 slug: witnessing-the-world-revolution-of-running
-title: "Witnessing the world revolution of running"
-date: 2019-02-08
-source-url: https://www.scoop.co.nz/stories/CU1902/S00079/witnessing-the-world-revolution-of-running.htm
+title: Witnessing the world revolution of running
+date: 2019-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1902/S00079/witnessing-the-world-revolution-of-running.htm
 author: university-of-canterbury
+permalink: /archive/2019/02/08/witnessing-the-world-revolution-of-running/index.html
+layout: layout.njk
 ---
 Witnessing the world revolution of running
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: more-greenfields-shas-a-bad-deal-for-aucklanders
-title: "More ‘greenfields’ SHAs a bad deal for Aucklanders"
-date: 2015-07-03
-source-url: https://www.scoop.co.nz/stories/PA1507/S00084/more-greenfields-shas-a-bad-deal-for-aucklanders.htm
+title: More ‘greenfields’ SHAs a bad deal for Aucklanders
+date: 2015-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00084/more-greenfields-shas-a-bad-deal-for-aucklanders.htm
 author: green-party
+permalink: >-
+  /archive/2015/07/03/more-greenfields-shas-a-bad-deal-for-aucklanders/index.html
+layout: layout.njk
 ---
 More ‘greenfields’ SHAs a bad deal for Aucklanders
 ==================================================

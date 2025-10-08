@@ -1,9 +1,12 @@
 ---
 slug: brash-putting-superannuation-on-the-agenda
-title: "Brash: Putting Superannuation on the Agenda"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/PA1111/S00469/brash-putting-superannuation-on-the-agenda.htm
+title: 'Brash: Putting Superannuation on the Agenda'
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00469/brash-putting-superannuation-on-the-agenda.htm
 author: act-new-zealand
+permalink: /archive/2011/11/23/brash-putting-superannuation-on-the-agenda/index.html
+layout: layout.njk
 ---
 Brash: Putting Superannuation on the Agenda
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: excellence-for-schools
-title: "Excellence for schools"
-date: 2002-07-03
+title: Excellence for schools
+date: 2002-07-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00101/excellence-for-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/03/excellence-for-schools/index.html
+layout: layout.njk
 ---
 Excellence for schools
 ======================

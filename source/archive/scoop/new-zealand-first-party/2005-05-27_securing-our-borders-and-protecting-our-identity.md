@@ -1,9 +1,13 @@
 ---
 slug: securing-our-borders-and-protecting-our-identity
-title: "Securing Our Borders and Protecting Our Identity"
-date: 2005-05-27
-source-url: https://www.scoop.co.nz/stories/PA0505/S00702/securing-our-borders-and-protecting-our-identity.htm
+title: Securing Our Borders and Protecting Our Identity
+date: 2005-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00702/securing-our-borders-and-protecting-our-identity.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2005/05/27/securing-our-borders-and-protecting-our-identity/index.html
+layout: layout.njk
 ---
 Securing Our Borders and Protecting Our Identity
 ================================================

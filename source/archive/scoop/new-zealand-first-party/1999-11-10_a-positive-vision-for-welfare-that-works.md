@@ -1,9 +1,12 @@
 ---
 slug: a-positive-vision-for-welfare-that-works
-title: "A Positive Vision For Welfare That Works"
-date: 1999-11-10
-source-url: https://www.scoop.co.nz/stories/PA9911/S00247/a-positive-vision-for-welfare-that-works.htm
+title: A Positive Vision For Welfare That Works
+date: 1999-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00247/a-positive-vision-for-welfare-that-works.htm
 author: new-zealand-first-party
+permalink: /archive/1999/11/10/a-positive-vision-for-welfare-that-works/index.html
+layout: layout.njk
 ---
 A Positive Vision For Welfare That Works
 ========================================

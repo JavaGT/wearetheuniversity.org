@@ -1,9 +1,12 @@
 ---
 slug: operating-maori-values-within-the-system-turia
-title: "Operating Maori Values within the System - Turia"
-date: 2007-12-09
-source-url: https://www.scoop.co.nz/stories/PA0712/S00180/operating-maori-values-within-the-system-turia.htm
+title: Operating Maori Values within the System - Turia
+date: 2007-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00180/operating-maori-values-within-the-system-turia.htm
 author: te-pati-maori
+permalink: /archive/2007/12/09/operating-maori-values-within-the-system-turia/index.html
+layout: layout.njk
 ---
 Operating Maori Values within the System - Turia
 ================================================

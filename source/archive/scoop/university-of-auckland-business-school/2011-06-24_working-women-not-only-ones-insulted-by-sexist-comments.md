@@ -1,9 +1,13 @@
 ---
 slug: working-women-not-only-ones-insulted-by-sexist-comments
-title: "Working women not only ones insulted by sexist comments"
-date: 2011-06-24
-source-url: https://www.scoop.co.nz/stories/ED1106/S00097/working-women-not-only-ones-insulted-by-sexist-comments.htm
+title: Working women not only ones insulted by sexist comments
+date: 2011-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00097/working-women-not-only-ones-insulted-by-sexist-comments.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2011/06/24/working-women-not-only-ones-insulted-by-sexist-comments/index.html
+layout: layout.njk
 ---
 Working women not only ones insulted by sexist comments
 =======================================================

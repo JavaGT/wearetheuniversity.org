@@ -1,9 +1,13 @@
 ---
 slug: otago-collaborates-in-breakthrough-for-quantum-hard-drive
-title: "Otago collaborates in breakthrough for quantum hard drive"
-date: 2015-01-09
-source-url: https://www.scoop.co.nz/stories/SC1501/S00020/otago-collaborates-in-breakthrough-for-quantum-hard-drive.htm
+title: Otago collaborates in breakthrough for quantum hard drive
+date: 2015-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1501/S00020/otago-collaborates-in-breakthrough-for-quantum-hard-drive.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/01/09/otago-collaborates-in-breakthrough-for-quantum-hard-drive/index.html
+layout: layout.njk
 ---
 Otago collaborates in breakthrough for quantum hard drive
 =========================================================

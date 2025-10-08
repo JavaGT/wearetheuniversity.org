@@ -1,9 +1,12 @@
 ---
 slug: pork-and-puha-are-still-on-the-menu
-title: "Pork and puha are still on the menu"
-date: 2009-10-22
-source-url: https://www.scoop.co.nz/stories/CU0910/S00387/pork-and-puha-are-still-on-the-menu.htm
+title: Pork and puha are still on the menu
+date: 2009-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0910/S00387/pork-and-puha-are-still-on-the-menu.htm
 author: lincoln-university
+permalink: /archive/2009/10/22/pork-and-puha-are-still-on-the-menu/index.html
+layout: layout.njk
 ---
 Pork and puha are still on the menu
 ===================================

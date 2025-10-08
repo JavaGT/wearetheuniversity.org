@@ -1,9 +1,12 @@
 ---
 slug: government-let-measles-get-out-of-control
-title: "Government let measles get out of control"
-date: 2019-10-03
-source-url: https://www.scoop.co.nz/stories/PA1910/S00018/government-let-measles-get-out-of-control.htm
+title: Government let measles get out of control
+date: 2019-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00018/government-let-measles-get-out-of-control.htm
 author: new-zealand-national-party
+permalink: /archive/2019/10/03/government-let-measles-get-out-of-control/index.html
+layout: layout.njk
 ---
 Government let measles get out of control
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: students-create-their-own-league-to-find-legends
-title: "Students create their own league to find legends"
-date: 2014-04-17
-source-url: https://www.scoop.co.nz/stories/CU1404/S00287/students-create-their-own-league-to-find-legends.htm
+title: Students create their own league to find legends
+date: 2014-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00287/students-create-their-own-league-to-find-legends.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/04/17/students-create-their-own-league-to-find-legends/index.html
+layout: layout.njk
 ---
 Students create their own league to find legends
 ================================================

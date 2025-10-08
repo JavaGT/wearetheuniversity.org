@@ -1,9 +1,12 @@
 ---
 slug: helping-police-track-down-stolen-goods
-title: "Helping Police Track Down Stolen Goods"
-date: 2021-03-25
-source-url: https://www.scoop.co.nz/stories/PA2103/S00201/helping-police-track-down-stolen-goods.htm
+title: Helping Police Track Down Stolen Goods
+date: 2021-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00201/helping-police-track-down-stolen-goods.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/25/helping-police-track-down-stolen-goods/index.html
+layout: layout.njk
 ---
 Helping Police Track Down Stolen Goods
 ======================================

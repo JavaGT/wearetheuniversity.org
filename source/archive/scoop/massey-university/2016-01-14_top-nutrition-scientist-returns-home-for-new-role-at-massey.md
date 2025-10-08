@@ -1,9 +1,13 @@
 ---
 slug: top-nutrition-scientist-returns-home-for-new-role-at-massey
-title: "Top nutrition scientist returns home for new role at Massey"
-date: 2016-01-14
-source-url: https://www.scoop.co.nz/stories/ED1601/S00012/top-nutrition-scientist-returns-home-for-new-role-at-massey.htm
+title: Top nutrition scientist returns home for new role at Massey
+date: 2016-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00012/top-nutrition-scientist-returns-home-for-new-role-at-massey.htm
 author: massey-university
+permalink: >-
+  /archive/2016/01/14/top-nutrition-scientist-returns-home-for-new-role-at-massey/index.html
+layout: layout.njk
 ---
 Top nutrition scientist returns home for new role at Massey
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: peters-some-real-questions-that-young-voters-need-to-answer
-title: "Peters: Some Real Questions That Young Voters Need to Answer"
-date: 2014-09-05
-source-url: https://www.scoop.co.nz/stories/PA1409/S00091/peters-some-real-questions-that-young-voters-need-to-answer.htm
+title: 'Peters: Some Real Questions That Young Voters Need to Answer'
+date: 2014-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00091/peters-some-real-questions-that-young-voters-need-to-answer.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/09/05/peters-some-real-questions-that-young-voters-need-to-answer/index.html
+layout: layout.njk
 ---
 Peters: Some Real Questions That Young Voters Need to Answer
 ============================================================

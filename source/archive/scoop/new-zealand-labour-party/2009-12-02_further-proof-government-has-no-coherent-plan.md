@@ -1,9 +1,12 @@
 ---
 slug: further-proof-government-has-no-coherent-plan
-title: "Further proof Government has no coherent plan"
-date: 2009-12-02
-source-url: https://www.scoop.co.nz/stories/PA0912/S00028/further-proof-government-has-no-coherent-plan.htm
+title: Further proof Government has no coherent plan
+date: 2009-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00028/further-proof-government-has-no-coherent-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/02/further-proof-government-has-no-coherent-plan/index.html
+layout: layout.njk
 ---
 Further proof Government has no coherent plan
 =============================================

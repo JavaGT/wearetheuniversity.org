@@ -1,9 +1,13 @@
 ---
 slug: university-researcher-steers-the-innovative-future-of-pr
-title: "University researcher steers the innovative future of PR"
-date: 2016-10-31
-source-url: https://www.scoop.co.nz/stories/ED1610/S00107/university-researcher-steers-the-innovative-future-of-pr.htm
+title: University researcher steers the innovative future of PR
+date: 2016-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00107/university-researcher-steers-the-innovative-future-of-pr.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/10/31/university-researcher-steers-the-innovative-future-of-pr/index.html
+layout: layout.njk
 ---
 University researcher steers the innovative future of PR
 ========================================================

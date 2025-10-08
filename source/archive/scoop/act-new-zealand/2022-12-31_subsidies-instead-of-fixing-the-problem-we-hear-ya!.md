@@ -1,9 +1,13 @@
 ---
 slug: subsidies-instead-of-fixing-the-problem-we-hear-ya!
-title: "Subsidies Instead Of Fixing The Problem? We Hear Ya!"
-date: 2022-12-31
-source-url: https://www.scoop.co.nz/stories/PA2212/S00193/subsidies-instead-of-fixing-the-problem-we-hear-ya.htm
+title: Subsidies Instead Of Fixing The Problem? We Hear Ya!
+date: 2022-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00193/subsidies-instead-of-fixing-the-problem-we-hear-ya.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/12/31/subsidies-instead-of-fixing-the-problem-we-hear-ya/index.html
+layout: layout.njk
 ---
 Subsidies Instead Of Fixing The Problem? We Hear Ya!
 ====================================================

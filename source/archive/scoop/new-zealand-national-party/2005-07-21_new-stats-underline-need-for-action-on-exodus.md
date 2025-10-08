@@ -1,9 +1,12 @@
 ---
 slug: new-stats-underline-need-for-action-on-exodus
-title: "New stats underline need for action on exodus"
-date: 2005-07-21
-source-url: https://www.scoop.co.nz/stories/PA0507/S00451/new-stats-underline-need-for-action-on-exodus.htm
+title: New stats underline need for action on exodus
+date: 2005-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00451/new-stats-underline-need-for-action-on-exodus.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/21/new-stats-underline-need-for-action-on-exodus/index.html
+layout: layout.njk
 ---
 New stats underline need for action on exodus
 =============================================

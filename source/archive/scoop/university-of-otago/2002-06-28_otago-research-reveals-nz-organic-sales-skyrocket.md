@@ -1,9 +1,13 @@
 ---
 slug: otago-research-reveals-nz-organic-sales-skyrocket
-title: "Otago Research Reveals NZ Organic Sales Skyrocket"
-date: 2002-06-28
-source-url: https://www.scoop.co.nz/stories/BU0206/S00184/otago-research-reveals-nz-organic-sales-skyrocket.htm
+title: Otago Research Reveals NZ Organic Sales Skyrocket
+date: 2002-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0206/S00184/otago-research-reveals-nz-organic-sales-skyrocket.htm
 author: university-of-otago
+permalink: >-
+  /archive/2002/06/28/otago-research-reveals-nz-organic-sales-skyrocket/index.html
+layout: layout.njk
 ---
 Otago Research Reveals NZ Organic Sales Skyrocket
 =================================================

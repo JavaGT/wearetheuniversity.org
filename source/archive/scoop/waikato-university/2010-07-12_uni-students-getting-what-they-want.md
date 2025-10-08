@@ -1,9 +1,12 @@
 ---
 slug: uni-students-getting-what-they-want
-title: "Uni students getting what they want"
-date: 2010-07-12
-source-url: https://www.scoop.co.nz/stories/ED1007/S00039/uni-students-getting-what-they-want.htm
+title: Uni students getting what they want
+date: 2010-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00039/uni-students-getting-what-they-want.htm
 author: waikato-university
+permalink: /archive/2010/07/12/uni-students-getting-what-they-want/index.html
+layout: layout.njk
 ---
 Uni students getting what they want
 ===================================

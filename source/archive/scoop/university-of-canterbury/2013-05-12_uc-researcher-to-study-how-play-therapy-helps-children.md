@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-to-study-how-play-therapy-helps-children
-title: "UC researcher to study how play therapy helps children"
-date: 2013-05-12
-source-url: https://www.scoop.co.nz/stories/ED1305/S00070/uc-researcher-to-study-how-play-therapy-helps-children.htm
+title: UC researcher to study how play therapy helps children
+date: 2013-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00070/uc-researcher-to-study-how-play-therapy-helps-children.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/12/uc-researcher-to-study-how-play-therapy-helps-children/index.html
+layout: layout.njk
 ---
 UC researcher to study how play therapy helps children
 ======================================================

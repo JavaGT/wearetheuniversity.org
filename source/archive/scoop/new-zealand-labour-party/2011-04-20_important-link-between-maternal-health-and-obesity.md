@@ -1,9 +1,13 @@
 ---
 slug: important-link-between-maternal-health-and-obesity
-title: "Important link between maternal health and obesity"
-date: 2011-04-20
-source-url: https://www.scoop.co.nz/stories/PA1104/S00430/important-link-between-maternal-health-and-obesity.htm
+title: Important link between maternal health and obesity
+date: 2011-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00430/important-link-between-maternal-health-and-obesity.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/20/important-link-between-maternal-health-and-obesity/index.html
+layout: layout.njk
 ---
 Important link between maternal health and obesity
 ==================================================

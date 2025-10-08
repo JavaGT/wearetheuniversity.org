@@ -1,9 +1,13 @@
 ---
 slug: women-arent-small-men-myth-busting-sports-performance
-title: "Women aren't small men: Myth-busting sports performance"
-date: 2016-08-31
-source-url: https://www.scoop.co.nz/stories/GE1608/S00150/women-arent-small-men-myth-busting-sports-performance.htm
+title: 'Women aren''t small men: Myth-busting sports performance'
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00150/women-arent-small-men-myth-busting-sports-performance.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/08/31/women-arent-small-men-myth-busting-sports-performance/index.html
+layout: layout.njk
 ---
 Women aren't small men: Myth-busting sports performance
 =======================================================

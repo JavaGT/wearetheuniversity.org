@@ -1,9 +1,12 @@
 ---
 slug: victoria-academic-breaks-20-year-deadlock
-title: "Victoria academic breaks 20-year deadlock"
-date: 2000-03-13
-source-url: https://www.scoop.co.nz/stories/BU0003/S00069/victoria-academic-breaks-20-year-deadlock.htm
+title: Victoria academic breaks 20-year deadlock
+date: 2000-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0003/S00069/victoria-academic-breaks-20-year-deadlock.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/03/13/victoria-academic-breaks-20-year-deadlock/index.html
+layout: layout.njk
 ---
 Victoria academic breaks 20-year deadlock
 =========================================

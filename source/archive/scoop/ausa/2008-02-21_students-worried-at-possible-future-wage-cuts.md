@@ -1,9 +1,12 @@
 ---
 slug: students-worried-at-possible-future-wage-cuts
-title: "Students worried at possible future wage cuts"
-date: 2008-02-21
-source-url: https://www.scoop.co.nz/stories/PO0802/S00259/students-worried-at-possible-future-wage-cuts.htm
+title: Students worried at possible future wage cuts
+date: 2008-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0802/S00259/students-worried-at-possible-future-wage-cuts.htm
 author: ausa
+permalink: /archive/2008/02/21/students-worried-at-possible-future-wage-cuts/index.html
+layout: layout.njk
 ---
 Students worried at possible future wage cuts
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: 18-uc-students-become-royal-society-arts-student-members
-title: "18 UC students become Royal Society arts student members"
-date: 2013-01-25
-source-url: https://www.scoop.co.nz/stories/ED1301/S00080/18-uc-students-become-royal-society-arts-student-members.htm
+title: 18 UC students become Royal Society arts student members
+date: 2013-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00080/18-uc-students-become-royal-society-arts-student-members.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/25/18-uc-students-become-royal-society-arts-student-members/index.html
+layout: layout.njk
 ---
 18 UC students become Royal Society arts student members
 ========================================================

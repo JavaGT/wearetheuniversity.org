@@ -1,9 +1,12 @@
 ---
 slug: greens-to-target-australian-voters
-title: "Greens to target Australian voters"
-date: 1999-07-09
-source-url: https://www.scoop.co.nz/stories/PA9907/S00140/greens-to-target-australian-voters.htm
+title: Greens to target Australian voters
+date: 1999-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00140/greens-to-target-australian-voters.htm
 author: green-party
+permalink: /archive/1999/07/09/greens-to-target-australian-voters/index.html
+layout: layout.njk
 ---
 Greens to target Australian voters
 ==================================

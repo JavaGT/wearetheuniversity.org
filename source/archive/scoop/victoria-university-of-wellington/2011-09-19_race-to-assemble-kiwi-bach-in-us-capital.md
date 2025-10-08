@@ -1,9 +1,12 @@
 ---
 slug: race-to-assemble-kiwi-bach-in-us-capital
-title: "Race to assemble Kiwi bach in US capital"
-date: 2011-09-19
-source-url: https://www.scoop.co.nz/stories/SC1109/S00038/race-to-assemble-kiwi-bach-in-us-capital.htm
+title: Race to assemble Kiwi bach in US capital
+date: 2011-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1109/S00038/race-to-assemble-kiwi-bach-in-us-capital.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/19/race-to-assemble-kiwi-bach-in-us-capital/index.html
+layout: layout.njk
 ---
 Race to assemble Kiwi bach in US capital
 ========================================

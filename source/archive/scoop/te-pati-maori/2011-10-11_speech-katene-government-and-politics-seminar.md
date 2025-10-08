@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-government-and-politics-seminar
-title: "Speech: Katene - Government and Politics Seminar"
-date: 2011-10-11
-source-url: https://www.scoop.co.nz/stories/PA1110/S00220/speech-katene-government-and-politics-seminar.htm
+title: 'Speech: Katene - Government and Politics Seminar'
+date: 2011-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00220/speech-katene-government-and-politics-seminar.htm
 author: te-pati-maori
+permalink: /archive/2011/10/11/speech-katene-government-and-politics-seminar/index.html
+layout: layout.njk
 ---
 Speech: Katene - Government and Politics Seminar
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-congress-2023-speech-grant-robertson
-title: "Labour Congress 2023 Speech: Grant Robertson"
-date: 2023-05-27
-source-url: https://www.scoop.co.nz/stories/PO2305/S00197/labour-congress-2023-speech-grant-robertson.htm
+title: 'Labour Congress 2023 Speech: Grant Robertson'
+date: 2023-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2305/S00197/labour-congress-2023-speech-grant-robertson.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/05/27/labour-congress-2023-speech-grant-robertson/index.html
+layout: layout.njk
 ---
 Labour Congress 2023 Speech: Grant Robertson
 ============================================

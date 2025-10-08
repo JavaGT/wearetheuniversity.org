@@ -1,9 +1,12 @@
 ---
 slug: turia-te-ra-o-te-reo-music-festival
-title: "Turia: Te Ra o te Reo Music Festival"
-date: 2006-11-10
-source-url: https://www.scoop.co.nz/stories/PA0611/S00197/turia-te-ra-o-te-reo-music-festival.htm
+title: 'Turia: Te Ra o te Reo Music Festival'
+date: 2006-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00197/turia-te-ra-o-te-reo-music-festival.htm
 author: te-pati-maori
+permalink: /archive/2006/11/10/turia-te-ra-o-te-reo-music-festival/index.html
+layout: layout.njk
 ---
 Turia: Te Ra o te Reo Music Festival
 ====================================

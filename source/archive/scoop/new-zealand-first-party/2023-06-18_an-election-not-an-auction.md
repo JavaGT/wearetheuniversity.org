@@ -1,9 +1,11 @@
 ---
 slug: an-election-not-an-auction
-title: "\"An Election – Not An Auction\""
-date: 2023-06-18
+title: '"An Election – Not An Auction"'
+date: 2023-06-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2306/S00146/an-election-not-an-auction.htm
 author: new-zealand-first-party
+permalink: /archive/2023/06/18/an-election-not-an-auction/index.html
+layout: layout.njk
 ---
 “An Election – Not An Auction”
 ==============================

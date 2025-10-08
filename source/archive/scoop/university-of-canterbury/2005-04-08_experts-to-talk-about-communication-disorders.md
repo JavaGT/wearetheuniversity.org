@@ -1,9 +1,12 @@
 ---
 slug: experts-to-talk-about-communication-disorders
-title: "Experts to talk about communication disorders"
-date: 2005-04-08
-source-url: https://www.scoop.co.nz/stories/ED0504/S00024/experts-to-talk-about-communication-disorders.htm
+title: Experts to talk about communication disorders
+date: 2005-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00024/experts-to-talk-about-communication-disorders.htm
 author: university-of-canterbury
+permalink: /archive/2005/04/08/experts-to-talk-about-communication-disorders/index.html
+layout: layout.njk
 ---
 Experts to talk about communication disorders
 =============================================

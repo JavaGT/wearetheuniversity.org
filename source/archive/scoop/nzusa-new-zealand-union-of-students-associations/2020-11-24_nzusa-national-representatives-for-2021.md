@@ -1,9 +1,12 @@
 ---
 slug: nzusa-national-representatives-for-2021
-title: "NZUSA National Representatives For 2021"
-date: 2020-11-24
-source-url: https://www.scoop.co.nz/stories/ED2011/S00047/nzusa-national-representatives-for-2021.htm
+title: NZUSA National Representatives For 2021
+date: 2020-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00047/nzusa-national-representatives-for-2021.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2020/11/24/nzusa-national-representatives-for-2021/index.html
+layout: layout.njk
 ---
 NZUSA National Representatives For 2021
 =======================================

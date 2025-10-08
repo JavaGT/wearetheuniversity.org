@@ -1,9 +1,12 @@
 ---
 slug: govt-breaks-auckland-housing-promise
-title: "Govt Breaks Auckland Housing Promise"
-date: 2024-12-05
-source-url: https://www.scoop.co.nz/stories/PA2412/S00057/govt-breaks-auckland-housing-promise.htm
+title: Govt Breaks Auckland Housing Promise
+date: 2024-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00057/govt-breaks-auckland-housing-promise.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/12/05/govt-breaks-auckland-housing-promise/index.html
+layout: layout.njk
 ---
 Govt Breaks Auckland Housing Promise
 ====================================

@@ -1,9 +1,11 @@
 ---
 slug: has-act-got-an-act
-title: "Has ACT got an act?"
-date: 2004-03-29
+title: Has ACT got an act?
+date: 2004-03-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0403/S00636/has-act-got-an-act.htm
 author: act-new-zealand
+permalink: /archive/2004/03/29/has-act-got-an-act/index.html
+layout: layout.njk
 ---
 Has ACT got an act?
 ===================

@@ -1,9 +1,12 @@
 ---
 slug: students-lodge-complaint-with-auditor-general
-title: "Students lodge complaint with Auditor General"
-date: 2004-11-15
-source-url: https://www.scoop.co.nz/stories/ED0411/S00043/students-lodge-complaint-with-auditor-general.htm
+title: Students lodge complaint with Auditor General
+date: 2004-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00043/students-lodge-complaint-with-auditor-general.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/11/15/students-lodge-complaint-with-auditor-general/index.html
+layout: layout.njk
 ---
 Students lodge complaint with Auditor General
 =============================================

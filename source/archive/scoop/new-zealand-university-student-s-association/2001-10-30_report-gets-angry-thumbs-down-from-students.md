@@ -1,9 +1,12 @@
 ---
 slug: report-gets-angry-thumbs-down-from-students
-title: "Report gets angry thumbs down from students"
-date: 2001-10-30
-source-url: https://www.scoop.co.nz/stories/ED0110/S00036/report-gets-angry-thumbs-down-from-students.htm
+title: Report gets angry thumbs down from students
+date: 2001-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00036/report-gets-angry-thumbs-down-from-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/10/30/report-gets-angry-thumbs-down-from-students/index.html
+layout: layout.njk
 ---
 Report gets angry thumbs down from students
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: bargaining-protocol-agreed
-title: "Bargaining protocol agreed"
-date: 2003-10-15
+title: Bargaining protocol agreed
+date: 2003-10-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0310/S00064/bargaining-protocol-agreed.htm
 author: association-of-university-staff
+permalink: /archive/2003/10/15/bargaining-protocol-agreed/index.html
+layout: layout.njk
 ---
 Bargaining protocol agreed
 ==========================

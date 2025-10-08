@@ -1,9 +1,12 @@
 ---
 slug: petition-demands-parliamentary-response
-title: "Petition Demands Parliamentary Response"
-date: 2010-06-29
-source-url: https://www.scoop.co.nz/stories/ED1006/S00110/petition-demands-parliamentary-response.htm
+title: Petition Demands Parliamentary Response
+date: 2010-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00110/petition-demands-parliamentary-response.htm
 author: nzei
+permalink: /archive/2010/06/29/petition-demands-parliamentary-response/index.html
+layout: layout.njk
 ---
 Petition Demands Parliamentary Response
 =======================================

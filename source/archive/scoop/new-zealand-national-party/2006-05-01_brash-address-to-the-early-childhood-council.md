@@ -1,9 +1,12 @@
 ---
 slug: brash-address-to-the-early-childhood-council
-title: "Brash - Address to the Early Childhood Council"
-date: 2006-05-01
-source-url: https://www.scoop.co.nz/stories/PA0605/S00008/brash-address-to-the-early-childhood-council.htm
+title: Brash - Address to the Early Childhood Council
+date: 2006-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00008/brash-address-to-the-early-childhood-council.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/01/brash-address-to-the-early-childhood-council/index.html
+layout: layout.njk
 ---
 Brash - Address to the Early Childhood Council
 ==============================================

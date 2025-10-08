@@ -1,9 +1,13 @@
 ---
 slug: student-life-and-learning-celebrated-in-150th-exhibition
-title: "Student Life And Learning Celebrated In 150th Exhibition"
-date: 2023-07-17
-source-url: https://www.scoop.co.nz/stories/AK2307/S00265/student-life-and-learning-celebrated-in-150th-exhibition.htm
+title: Student Life And Learning Celebrated In 150th Exhibition
+date: 2023-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2307/S00265/student-life-and-learning-celebrated-in-150th-exhibition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/07/17/student-life-and-learning-celebrated-in-150th-exhibition/index.html
+layout: layout.njk
 ---
 Student Life And Learning Celebrated In 150th Exhibition
 ========================================================

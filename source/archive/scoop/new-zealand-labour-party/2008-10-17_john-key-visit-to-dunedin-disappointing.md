@@ -1,9 +1,12 @@
 ---
 slug: john-key-visit-to-dunedin-disappointing
-title: "John Key Visit to Dunedin Disappointing."
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/PO0810/S00282/john-key-visit-to-dunedin-disappointing.htm
+title: John Key Visit to Dunedin Disappointing.
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00282/john-key-visit-to-dunedin-disappointing.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/17/john-key-visit-to-dunedin-disappointing/index.html
+layout: layout.njk
 ---
 John Key Visit to Dunedin Disappointing.
 ========================================

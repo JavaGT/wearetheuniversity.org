@@ -1,9 +1,13 @@
 ---
 slug: data-challenge-sums-up-ucs-business-leadership-talent
-title: "Data Challenge Sums Up UC’s Business Leadership Talent"
-date: 2020-08-10
-source-url: https://www.scoop.co.nz/stories/ED2008/S00011/data-challenge-sums-up-ucs-business-leadership-talent.htm
+title: Data Challenge Sums Up UC’s Business Leadership Talent
+date: 2020-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2008/S00011/data-challenge-sums-up-ucs-business-leadership-talent.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/08/10/data-challenge-sums-up-ucs-business-leadership-talent/index.html
+layout: layout.njk
 ---
 Data Challenge Sums Up UC’s Business Leadership Talent
 ======================================================

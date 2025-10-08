@@ -1,9 +1,13 @@
 ---
 slug: how-can-philanthropy-contribute-to-conservation-in-nz
-title: "How can philanthropy contribute to conservation in NZ?"
-date: 2015-11-10
-source-url: https://www.scoop.co.nz/stories/ED1511/S00059/how-can-philanthropy-contribute-to-conservation-in-nz.htm
+title: How can philanthropy contribute to conservation in NZ?
+date: 2015-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00059/how-can-philanthropy-contribute-to-conservation-in-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/11/10/how-can-philanthropy-contribute-to-conservation-in-nz/index.html
+layout: layout.njk
 ---
 How can philanthropy contribute to conservation in NZ?
 ======================================================

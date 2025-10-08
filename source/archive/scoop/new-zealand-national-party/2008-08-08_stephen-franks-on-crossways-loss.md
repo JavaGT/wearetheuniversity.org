@@ -1,9 +1,12 @@
 ---
 slug: stephen-franks-on-crossways-loss
-title: "Stephen Franks On Crossways loss"
-date: 2008-08-08
-source-url: https://www.scoop.co.nz/stories/PO0808/S00113/stephen-franks-on-crossways-loss.htm
+title: Stephen Franks On Crossways loss
+date: 2008-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00113/stephen-franks-on-crossways-loss.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/08/stephen-franks-on-crossways-loss/index.html
+layout: layout.njk
 ---
 Stephen Franks On Crossways loss
 ================================

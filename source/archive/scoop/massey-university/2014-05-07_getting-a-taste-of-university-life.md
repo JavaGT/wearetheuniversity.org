@@ -1,9 +1,12 @@
 ---
 slug: getting-a-taste-of-university-life
-title: "Getting a taste of university life"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/ED1405/S00038/getting-a-taste-of-university-life.htm
+title: Getting a taste of university life
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00038/getting-a-taste-of-university-life.htm
 author: massey-university
+permalink: /archive/2014/05/07/getting-a-taste-of-university-life/index.html
+layout: layout.njk
 ---
 Getting a taste of university life
 ==================================

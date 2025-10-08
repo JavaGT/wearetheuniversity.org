@@ -1,9 +1,12 @@
 ---
 slug: author-claims-new-zealand-wars-were-avoidable
-title: "Author claims New Zealand Wars were avoidable"
-date: 2009-05-01
-source-url: https://www.scoop.co.nz/stories/ED0905/S00005/author-claims-new-zealand-wars-were-avoidable.htm
+title: Author claims New Zealand Wars were avoidable
+date: 2009-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00005/author-claims-new-zealand-wars-were-avoidable.htm
 author: aut-university
+permalink: /archive/2009/05/01/author-claims-new-zealand-wars-were-avoidable/index.html
+layout: layout.njk
 ---
 Author claims New Zealand Wars were avoidable
 =============================================

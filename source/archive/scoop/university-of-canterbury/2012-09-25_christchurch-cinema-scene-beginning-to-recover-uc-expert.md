@@ -1,9 +1,13 @@
 ---
 slug: christchurch-cinema-scene-beginning-to-recover-uc-expert
-title: "Christchurch cinema scene beginning to recover – UC expert"
-date: 2012-09-25
-source-url: https://www.scoop.co.nz/stories/AK1209/S00531/christchurch-cinema-scene-beginning-to-recover-uc-expert.htm
+title: Christchurch cinema scene beginning to recover – UC expert
+date: 2012-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1209/S00531/christchurch-cinema-scene-beginning-to-recover-uc-expert.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/25/christchurch-cinema-scene-beginning-to-recover-uc-expert/index.html
+layout: layout.njk
 ---
 Christchurch cinema scene beginning to recover – UC expert
 ==========================================================

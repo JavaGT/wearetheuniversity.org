@@ -1,9 +1,12 @@
 ---
 slug: govt-spin-wont-solve-teacher-shortage
-title: "Govt Spin Won't Solve Teacher Shortage"
-date: 2004-01-26
-source-url: https://www.scoop.co.nz/stories/PA0401/S00193/govt-spin-wont-solve-teacher-shortage.htm
+title: Govt Spin Won't Solve Teacher Shortage
+date: 2004-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00193/govt-spin-wont-solve-teacher-shortage.htm
 author: act-new-zealand
+permalink: /archive/2004/01/26/govt-spin-wont-solve-teacher-shortage/index.html
+layout: layout.njk
 ---
 Govt Spin Won't Solve Teacher Shortage
 ======================================

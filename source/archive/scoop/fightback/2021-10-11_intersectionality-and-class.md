@@ -1,9 +1,11 @@
 ---
 slug: intersectionality-and-class
-title: "Intersectionality And Class"
-date: 2021-10-11
+title: Intersectionality And Class
+date: 2021-10-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL2110/S00020/intersectionality-and-class.htm
 author: fightback
+permalink: /archive/2021/10/11/intersectionality-and-class/index.html
+layout: layout.njk
 ---
 Intersectionality And Class
 ===========================

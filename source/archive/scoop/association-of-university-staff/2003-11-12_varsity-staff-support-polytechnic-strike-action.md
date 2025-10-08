@@ -1,9 +1,12 @@
 ---
 slug: varsity-staff-support-polytechnic-strike-action
-title: "Varsity staff support polytechnic strike action"
-date: 2003-11-12
-source-url: https://www.scoop.co.nz/stories/ED0311/S00042/varsity-staff-support-polytechnic-strike-action.htm
+title: Varsity staff support polytechnic strike action
+date: 2003-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00042/varsity-staff-support-polytechnic-strike-action.htm
 author: association-of-university-staff
+permalink: /archive/2003/11/12/varsity-staff-support-polytechnic-strike-action/index.html
+layout: layout.njk
 ---
 Varsity staff support polytechnic strike action
 ===============================================

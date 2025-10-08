@@ -1,9 +1,12 @@
 ---
 slug: nzei-says-attack-on-nzqa-chief-unfair
-title: "NZEI Says Attack On NZQA Chief Unfair"
-date: 2005-12-14
-source-url: https://www.scoop.co.nz/stories/ED0512/S00064/nzei-says-attack-on-nzqa-chief-unfair.htm
+title: NZEI Says Attack On NZQA Chief Unfair
+date: 2005-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00064/nzei-says-attack-on-nzqa-chief-unfair.htm
 author: nzei
+permalink: /archive/2005/12/14/nzei-says-attack-on-nzqa-chief-unfair/index.html
+layout: layout.njk
 ---
 NZEI Says Attack On NZQA Chief Unfair
 =====================================

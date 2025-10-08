@@ -1,9 +1,12 @@
 ---
 slug: labours-inaction-putting-animal-welfare-at-risk
-title: "Labour’s Inaction Putting Animal Welfare At Risk"
-date: 2021-09-23
-source-url: https://www.scoop.co.nz/stories/PA2109/S00211/labours-inaction-putting-animal-welfare-at-risk.htm
+title: Labour’s Inaction Putting Animal Welfare At Risk
+date: 2021-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00211/labours-inaction-putting-animal-welfare-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/23/labours-inaction-putting-animal-welfare-at-risk/index.html
+layout: layout.njk
 ---
 Labour’s Inaction Putting Animal Welfare At Risk
 ================================================

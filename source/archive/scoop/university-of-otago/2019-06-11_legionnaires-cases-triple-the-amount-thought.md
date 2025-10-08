@@ -1,9 +1,12 @@
 ---
 slug: legionnaires-cases-triple-the-amount-thought
-title: "Legionnaire’s cases triple the amount thought"
-date: 2019-06-11
-source-url: https://www.scoop.co.nz/stories/GE1906/S00030/legionnaires-cases-triple-the-amount-thought.htm
+title: Legionnaire’s cases triple the amount thought
+date: 2019-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1906/S00030/legionnaires-cases-triple-the-amount-thought.htm
 author: university-of-otago
+permalink: /archive/2019/06/11/legionnaires-cases-triple-the-amount-thought/index.html
+layout: layout.njk
 ---
 Legionnaire’s cases triple the amount thought
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: skills-and-training-critical-to-economic-performance
-title: "Skills and training critical to economic performance"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/ED1510/S00075/skills-and-training-critical-to-economic-performance.htm
+title: Skills and training critical to economic performance
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00075/skills-and-training-critical-to-economic-performance.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/15/skills-and-training-critical-to-economic-performance/index.html
+layout: layout.njk
 ---
 Skills and training critical to economic performance
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: billions-of-dollars-for-barely-any-capacity
-title: "Billions Of Dollars For Barely Any Capacity"
-date: 2022-07-20
-source-url: https://www.scoop.co.nz/stories/PA2207/S00130/billions-of-dollars-for-barely-any-capacity.htm
+title: Billions Of Dollars For Barely Any Capacity
+date: 2022-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00130/billions-of-dollars-for-barely-any-capacity.htm
 author: act-new-zealand
+permalink: /archive/2022/07/20/billions-of-dollars-for-barely-any-capacity/index.html
+layout: layout.njk
 ---
 Billions Of Dollars For Barely Any Capacity
 ===========================================

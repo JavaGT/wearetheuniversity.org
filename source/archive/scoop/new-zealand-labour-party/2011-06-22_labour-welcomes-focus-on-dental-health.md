@@ -1,9 +1,12 @@
 ---
 slug: labour-welcomes-focus-on-dental-health
-title: "Labour welcomes focus on dental health"
-date: 2011-06-22
-source-url: https://www.scoop.co.nz/stories/PA1106/S00375/labour-welcomes-focus-on-dental-health.htm
+title: Labour welcomes focus on dental health
+date: 2011-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00375/labour-welcomes-focus-on-dental-health.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/22/labour-welcomes-focus-on-dental-health/index.html
+layout: layout.njk
 ---
 Labour welcomes focus on dental health
 ======================================

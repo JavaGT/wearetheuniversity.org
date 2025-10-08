@@ -1,9 +1,12 @@
 ---
 slug: loss-of-health-&-safety-committee-blow-to-workers
-title: "Loss of health & safety committee blow to workers"
-date: 2009-07-13
-source-url: https://www.scoop.co.nz/stories/BU0907/S00335/loss-of-health-safety-committee-blow-to-workers.htm
+title: Loss of health & safety committee blow to workers
+date: 2009-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00335/loss-of-health-safety-committee-blow-to-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/07/13/loss-of-health-/index.html
+layout: layout.njk
 ---
 Loss of health & safety committee blow to workers
 =================================================

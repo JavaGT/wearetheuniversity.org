@@ -1,9 +1,16 @@
 ---
-slug: andrew-little-still-splurging-on-consultants-for-his-poorly-timed-health-restructure
-title: "Andrew Little Still Splurging On Consultants For His Poorly-timed Health Restructure"
-date: 2021-10-14
-source-url: https://www.scoop.co.nz/stories/PA2110/S00133/andrew-little-still-splurging-on-consultants-for-his-poorly-timed-health-restructure.htm
+slug: >-
+  andrew-little-still-splurging-on-consultants-for-his-poorly-timed-health-restructure
+title: >-
+  Andrew Little Still Splurging On Consultants For His Poorly-timed Health
+  Restructure
+date: 2021-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00133/andrew-little-still-splurging-on-consultants-for-his-poorly-timed-health-restructure.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/14/andrew-little-still-splurging-on-consultants-for-his-poorly-timed-health-restructure/index.html
+layout: layout.njk
 ---
 Andrew Little Still Splurging On Consultants For His Poorly-timed Health Restructure
 ====================================================================================

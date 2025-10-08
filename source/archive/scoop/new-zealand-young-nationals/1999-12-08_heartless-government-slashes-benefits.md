@@ -1,9 +1,12 @@
 ---
 slug: heartless-government-slashes-benefits
-title: "Heartless Government Slashes Benefits"
-date: 1999-12-08
-source-url: https://www.scoop.co.nz/stories/PO9912/S00013/heartless-government-slashes-benefits.htm
+title: Heartless Government Slashes Benefits
+date: 1999-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9912/S00013/heartless-government-slashes-benefits.htm
 author: new-zealand-young-nationals
+permalink: /archive/1999/12/08/heartless-government-slashes-benefits/index.html
+layout: layout.njk
 ---
 Heartless Government Slashes Benefits
 =====================================

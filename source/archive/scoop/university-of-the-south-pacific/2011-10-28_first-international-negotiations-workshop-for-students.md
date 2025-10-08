@@ -1,9 +1,13 @@
 ---
 slug: first-international-negotiations-workshop-for-students
-title: "First International Negotiations Workshop for Students"
-date: 2011-10-28
-source-url: https://www.scoop.co.nz/stories/WO1110/S00786/first-international-negotiations-workshop-for-students.htm
+title: First International Negotiations Workshop for Students
+date: 2011-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1110/S00786/first-international-negotiations-workshop-for-students.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2011/10/28/first-international-negotiations-workshop-for-students/index.html
+layout: layout.njk
 ---
 First International Negotiations Workshop for Students
 ======================================================

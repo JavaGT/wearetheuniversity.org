@@ -1,9 +1,13 @@
 ---
 slug: 4-yr-primary-teaching-qualification-national-first
-title: "4 yr primary teaching qualification national first"
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/ED0703/S00064/4-yr-primary-teaching-qualification-national-first.htm
+title: 4 yr primary teaching qualification national first
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00064/4-yr-primary-teaching-qualification-national-first.htm
 author: massey-university
+permalink: >-
+  /archive/2007/03/19/4-yr-primary-teaching-qualification-national-first/index.html
+layout: layout.njk
 ---
 4 yr primary teaching qualification national first
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: christchurch-city-becomes-the-first-new-zealand-city-to-sanction-israel
-title: "Christchurch City Becomes The First New Zealand City To Sanction Israel"
-date: 2024-10-27
-source-url: https://www.scoop.co.nz/stories/PO2410/S00150/christchurch-city-becomes-the-first-new-zealand-city-to-sanction-israel.htm
+title: Christchurch City Becomes The First New Zealand City To Sanction Israel
+date: 2024-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2410/S00150/christchurch-city-becomes-the-first-new-zealand-city-to-sanction-israel.htm
 author: palestine-solidarity-network-aotearoa
+permalink: >-
+  /archive/2024/10/27/christchurch-city-becomes-the-first-new-zealand-city-to-sanction-israel/index.html
+layout: layout.njk
 ---
 Christchurch City Becomes The First New Zealand City To Sanction Israel
 =======================================================================

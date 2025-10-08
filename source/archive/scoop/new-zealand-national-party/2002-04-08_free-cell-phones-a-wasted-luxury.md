@@ -1,9 +1,12 @@
 ---
 slug: free-cell-phones-a-wasted-luxury
-title: "Free Cell Phones A Wasted Luxury"
-date: 2002-04-08
-source-url: https://www.scoop.co.nz/stories/PA0204/S00087/free-cell-phones-a-wasted-luxury.htm
+title: Free Cell Phones A Wasted Luxury
+date: 2002-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00087/free-cell-phones-a-wasted-luxury.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/08/free-cell-phones-a-wasted-luxury/index.html
+layout: layout.njk
 ---
 Free Cell Phones A Wasted Luxury
 ================================

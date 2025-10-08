@@ -1,9 +1,13 @@
 ---
 slug: dr-ruby-manukia-schaumkel-selected-as-nationals-candidate-in-kelston
-title: "Dr Ruby Manukia Schaumkel Selected As National’s Candidate In Kelston"
-date: 2023-03-18
-source-url: https://www.scoop.co.nz/stories/PA2303/S00157/dr-ruby-manukia-schaumkel-selected-as-nationals-candidate-in-kelston.htm
+title: Dr Ruby Manukia Schaumkel Selected As National’s Candidate In Kelston
+date: 2023-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00157/dr-ruby-manukia-schaumkel-selected-as-nationals-candidate-in-kelston.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/18/dr-ruby-manukia-schaumkel-selected-as-nationals-candidate-in-kelston/index.html
+layout: layout.njk
 ---
 Dr Ruby Manukia Schaumkel Selected As National’s Candidate In Kelston
 =====================================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-leads-with-more-medical-students
-title: "Labour leads with more medical students"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/PA0811/S00070/labour-leads-with-more-medical-students.htm
+title: Labour leads with more medical students
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00070/labour-leads-with-more-medical-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/11/04/labour-leads-with-more-medical-students/index.html
+layout: layout.njk
 ---
 Labour leads with more medical students
 =======================================

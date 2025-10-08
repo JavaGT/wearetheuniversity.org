@@ -1,9 +1,12 @@
 ---
 slug: marama-davidsons-state-of-the-planet-speech
-title: "Marama Davidson's State of the Planet speech"
-date: 2020-01-28
-source-url: https://www.scoop.co.nz/stories/PA2001/S00108/marama-davidsons-state-of-the-planet-speech.htm
+title: Marama Davidson's State of the Planet speech
+date: 2020-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00108/marama-davidsons-state-of-the-planet-speech.htm
 author: green-party
+permalink: /archive/2020/01/28/marama-davidsons-state-of-the-planet-speech/index.html
+layout: layout.njk
 ---
 Marama Davidson's State of the Planet speech
 ============================================

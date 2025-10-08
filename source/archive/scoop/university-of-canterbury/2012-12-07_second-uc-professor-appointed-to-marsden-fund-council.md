@@ -1,9 +1,13 @@
 ---
 slug: second-uc-professor-appointed-to-marsden-fund-council
-title: "Second UC professor appointed to Marsden Fund Council"
-date: 2012-12-07
-source-url: https://www.scoop.co.nz/stories/ED1212/S00043/second-uc-professor-appointed-to-marsden-fund-council.htm
+title: Second UC professor appointed to Marsden Fund Council
+date: 2012-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00043/second-uc-professor-appointed-to-marsden-fund-council.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/07/second-uc-professor-appointed-to-marsden-fund-council/index.html
+layout: layout.njk
 ---
 Second UC professor appointed to Marsden Fund Council
 =====================================================

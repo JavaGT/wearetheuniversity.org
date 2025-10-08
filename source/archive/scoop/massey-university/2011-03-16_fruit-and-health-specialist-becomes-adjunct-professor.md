@@ -1,9 +1,13 @@
 ---
 slug: fruit-and-health-specialist-becomes-adjunct-professor
-title: "Fruit and health specialist becomes adjunct professor"
-date: 2011-03-16
-source-url: https://www.scoop.co.nz/stories/ED1103/S00073/fruit-and-health-specialist-becomes-adjunct-professor.htm
+title: Fruit and health specialist becomes adjunct professor
+date: 2011-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00073/fruit-and-health-specialist-becomes-adjunct-professor.htm
 author: massey-university
+permalink: >-
+  /archive/2011/03/16/fruit-and-health-specialist-becomes-adjunct-professor/index.html
+layout: layout.njk
 ---
 Fruit and health specialist becomes adjunct professor
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-327-elections-stories-work
-title: "Real Issues No. 327 - Elections, Stories, Work"
-date: 2008-11-14
-source-url: https://www.scoop.co.nz/stories/PO0811/S00190/real-issues-no-327-elections-stories-work.htm
+title: Real Issues No. 327 - Elections, Stories, Work
+date: 2008-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00190/real-issues-no-327-elections-stories-work.htm
 author: maxim-institute
+permalink: /archive/2008/11/14/real-issues-no-327-elections-stories-work/index.html
+layout: layout.njk
 ---
 Real Issues No. 327 - Elections, Stories, Work
 ==============================================

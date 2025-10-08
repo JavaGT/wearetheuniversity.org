@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-action-on-housing-report
-title: "Greens call for action on housing report"
-date: 2003-09-15
-source-url: https://www.scoop.co.nz/stories/PA0309/S00317/greens-call-for-action-on-housing-report.htm
+title: Greens call for action on housing report
+date: 2003-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00317/greens-call-for-action-on-housing-report.htm
 author: green-party
+permalink: /archive/2003/09/15/greens-call-for-action-on-housing-report/index.html
+layout: layout.njk
 ---
 Greens call for action on housing report
 ========================================

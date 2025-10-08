@@ -1,9 +1,11 @@
 ---
 slug: cannabis-whats-the-harm
-title: "Cannabis: what’s the harm?"
-date: 2018-05-25
+title: 'Cannabis: what’s the harm?'
+date: 2018-05-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1805/S00066/cannabis-whats-the-harm.htm
 author: university-of-otago
+permalink: /archive/2018/05/25/cannabis-whats-the-harm/index.html
+layout: layout.njk
 ---
 Cannabis: what’s the harm?
 ==========================

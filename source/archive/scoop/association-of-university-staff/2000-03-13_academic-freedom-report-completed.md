@@ -1,9 +1,12 @@
 ---
 slug: academic-freedom-report-completed
-title: "Academic Freedom Report Completed"
-date: 2000-03-13
-source-url: https://www.scoop.co.nz/stories/ED0003/S00020/academic-freedom-report-completed.htm
+title: Academic Freedom Report Completed
+date: 2000-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00020/academic-freedom-report-completed.htm
 author: association-of-university-staff
+permalink: /archive/2000/03/13/academic-freedom-report-completed/index.html
+layout: layout.njk
 ---
 Academic Freedom Report Completed
 =================================

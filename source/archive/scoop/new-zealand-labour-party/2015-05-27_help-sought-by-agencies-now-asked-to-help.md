@@ -1,9 +1,12 @@
 ---
 slug: help-sought-by-agencies-now-asked-to-help
-title: "Help sought by agencies now asked to help"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/PA1505/S00497/help-sought-by-agencies-now-asked-to-help.htm
+title: Help sought by agencies now asked to help
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00497/help-sought-by-agencies-now-asked-to-help.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/27/help-sought-by-agencies-now-asked-to-help/index.html
+layout: layout.njk
 ---
 Help sought by agencies now asked to help
 =========================================

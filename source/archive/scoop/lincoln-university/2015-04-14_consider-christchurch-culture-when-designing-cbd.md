@@ -1,9 +1,13 @@
 ---
 slug: consider-christchurch-culture-when-designing-cbd
-title: "Consider Christchurch Culture When Designing CBD"
-date: 2015-04-14
-source-url: https://www.scoop.co.nz/stories/SC1504/S00034/consider-christchurch-culture-when-designing-cbd.htm
+title: Consider Christchurch Culture When Designing CBD
+date: 2015-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00034/consider-christchurch-culture-when-designing-cbd.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/04/14/consider-christchurch-culture-when-designing-cbd/index.html
+layout: layout.njk
 ---
 Consider Christchurch Culture When Designing CBD
 ================================================

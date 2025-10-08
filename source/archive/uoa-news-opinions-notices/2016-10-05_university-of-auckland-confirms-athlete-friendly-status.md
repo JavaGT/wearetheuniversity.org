@@ -1,8 +1,12 @@
 ---
 slug: university-of-auckland-confirms-athlete-friendly-status
-title: "University of Auckland confirms athlete friendly status"
-date: 2016-10-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/athlete-friendly-status-confirmed.html
+title: University of Auckland confirms athlete friendly status
+date: 2016-10-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/athlete-friendly-status-confirmed.html
+permalink: >-
+  /archive/2016/10/05/university-of-auckland-confirms-athlete-friendly-status/index.html
+layout: layout.njk
 ---
 University of Auckland confirms athlete friendly status
 =======================================================

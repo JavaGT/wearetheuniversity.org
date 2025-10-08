@@ -1,9 +1,12 @@
 ---
 slug: pm-is-out-of-touch-with-concerns-about-crime
-title: "PM Is Out Of Touch With Concerns About Crime"
-date: 2023-02-22
-source-url: https://www.scoop.co.nz/stories/PA2302/S00104/pm-is-out-of-touch-with-concerns-about-crime.htm
+title: PM Is Out Of Touch With Concerns About Crime
+date: 2023-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00104/pm-is-out-of-touch-with-concerns-about-crime.htm
 author: new-zealand-national-party
+permalink: /archive/2023/02/22/pm-is-out-of-touch-with-concerns-about-crime/index.html
+layout: layout.njk
 ---
 PM Is Out Of Touch With Concerns About Crime
 ============================================

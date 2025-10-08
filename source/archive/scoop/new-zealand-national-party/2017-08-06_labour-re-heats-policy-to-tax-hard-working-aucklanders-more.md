@@ -1,9 +1,13 @@
 ---
 slug: labour-re-heats-policy-to-tax-hard-working-aucklanders-more
-title: "Labour re-heats policy to tax hard-working Aucklanders more"
-date: 2017-08-06
-source-url: https://www.scoop.co.nz/stories/PA1708/S00121/labour-re-heats-policy-to-tax-hard-working-aucklanders-more.htm
+title: Labour re-heats policy to tax hard-working Aucklanders more
+date: 2017-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00121/labour-re-heats-policy-to-tax-hard-working-aucklanders-more.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/08/06/labour-re-heats-policy-to-tax-hard-working-aucklanders-more/index.html
+layout: layout.njk
 ---
 Labour re-heats policy to tax hard-working Aucklanders more
 ===========================================================

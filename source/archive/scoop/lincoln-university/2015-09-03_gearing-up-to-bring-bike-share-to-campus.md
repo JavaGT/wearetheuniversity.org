@@ -1,9 +1,12 @@
 ---
 slug: gearing-up-to-bring-bike-share-to-campus
-title: "Gearing up to bring Bike Share to campus"
-date: 2015-09-03
-source-url: https://www.scoop.co.nz/stories/ED1509/S00019/gearing-up-to-bring-bike-share-to-campus.htm
+title: Gearing up to bring Bike Share to campus
+date: 2015-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00019/gearing-up-to-bring-bike-share-to-campus.htm
 author: lincoln-university
+permalink: /archive/2015/09/03/gearing-up-to-bring-bike-share-to-campus/index.html
+layout: layout.njk
 ---
 Gearing up to bring Bike Share to campus
 ========================================

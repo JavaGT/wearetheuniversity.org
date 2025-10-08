@@ -1,9 +1,12 @@
 ---
 slug: record-interest-expected-for-open-day
-title: "Record interest expected for Open Day"
-date: 2009-08-25
-source-url: https://www.scoop.co.nz/stories/ED0908/S00088/record-interest-expected-for-open-day.htm
+title: Record interest expected for Open Day
+date: 2009-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00088/record-interest-expected-for-open-day.htm
 author: massey-university
+permalink: /archive/2009/08/25/record-interest-expected-for-open-day/index.html
+layout: layout.njk
 ---
 Record interest expected for Open Day
 =====================================

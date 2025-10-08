@@ -1,9 +1,12 @@
 ---
 slug: innovative-research-for-a-healthier-new-zealand
-title: "Innovative research for a healthier New Zealand"
-date: 2009-09-14
-source-url: https://www.scoop.co.nz/stories/SC0909/S00029/innovative-research-for-a-healthier-new-zealand.htm
+title: Innovative research for a healthier New Zealand
+date: 2009-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00029/innovative-research-for-a-healthier-new-zealand.htm
 author: university-of-otago
+permalink: /archive/2009/09/14/innovative-research-for-a-healthier-new-zealand/index.html
+layout: layout.njk
 ---
 Innovative research for a healthier New Zealand
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: obesity-a-tough-topic-for-gps-otago-research-reveals
-title: "Obesity a tough topic for GPs, Otago research reveals"
-date: 2018-05-18
-source-url: https://www.scoop.co.nz/stories/GE1805/S00085/obesity-a-tough-topic-for-gps-otago-research-reveals.htm
+title: Obesity a tough topic for GPs, Otago research reveals
+date: 2018-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00085/obesity-a-tough-topic-for-gps-otago-research-reveals.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/18/obesity-a-tough-topic-for-gps-otago-research-reveals/index.html
+layout: layout.njk
 ---
 Obesity a tough topic for GPs, Otago research reveals
 =====================================================

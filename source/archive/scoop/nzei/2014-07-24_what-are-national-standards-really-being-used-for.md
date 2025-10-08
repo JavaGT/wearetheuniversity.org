@@ -1,9 +1,13 @@
 ---
 slug: what-are-national-standards-really-being-used-for
-title: "What are National Standards really being used for?"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/ED1407/S00121/what-are-national-standards-really-being-used-for.htm
+title: What are National Standards really being used for?
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00121/what-are-national-standards-really-being-used-for.htm
 author: nzei
+permalink: >-
+  /archive/2014/07/24/what-are-national-standards-really-being-used-for/index.html
+layout: layout.njk
 ---
 What are National Standards really being used for?
 ==================================================

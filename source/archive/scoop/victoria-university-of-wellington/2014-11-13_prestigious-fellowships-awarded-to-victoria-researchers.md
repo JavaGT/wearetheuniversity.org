@@ -1,9 +1,13 @@
 ---
 slug: prestigious-fellowships-awarded-to-victoria-researchers
-title: "Prestigious fellowships awarded to Victoria researchers"
-date: 2014-11-13
-source-url: https://www.scoop.co.nz/stories/ED1411/S00086/prestigious-fellowships-awarded-to-victoria-researchers.htm
+title: Prestigious fellowships awarded to Victoria researchers
+date: 2014-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00086/prestigious-fellowships-awarded-to-victoria-researchers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/13/prestigious-fellowships-awarded-to-victoria-researchers/index.html
+layout: layout.njk
 ---
 Prestigious fellowships awarded to Victoria researchers
 =======================================================

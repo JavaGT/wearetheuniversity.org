@@ -1,9 +1,13 @@
 ---
 slug: governance-changes-will-undermine-role-of-universities
-title: "Governance changes will undermine role of universities"
-date: 2014-02-17
-source-url: https://www.scoop.co.nz/stories/ED1402/S00060/governance-changes-will-undermine-role-of-universities.htm
+title: Governance changes will undermine role of universities
+date: 2014-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00060/governance-changes-will-undermine-role-of-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2014/02/17/governance-changes-will-undermine-role-of-universities/index.html
+layout: layout.njk
 ---
 Governance changes will undermine role of universities
 ======================================================

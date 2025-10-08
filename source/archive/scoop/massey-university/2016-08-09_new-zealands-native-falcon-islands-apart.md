@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-native-falcon-islands-apart
-title: "New Zealand’s Native falcon – islands apart"
-date: 2016-08-09
-source-url: https://www.scoop.co.nz/stories/SC1608/S00030/new-zealands-native-falcon-islands-apart.htm
+title: New Zealand’s Native falcon – islands apart
+date: 2016-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1608/S00030/new-zealands-native-falcon-islands-apart.htm
 author: massey-university
+permalink: /archive/2016/08/09/new-zealands-native-falcon-islands-apart/index.html
+layout: layout.njk
 ---
 New Zealand’s Native falcon – islands apart
 ===========================================

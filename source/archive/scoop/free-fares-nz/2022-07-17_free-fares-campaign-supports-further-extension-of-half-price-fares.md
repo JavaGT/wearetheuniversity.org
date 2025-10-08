@@ -1,9 +1,13 @@
 ---
 slug: free-fares-campaign-supports-further-extension-of-half-price-fares
-title: "Free Fares Campaign Supports Further Extension Of Half-price Fares"
-date: 2022-07-17
-source-url: https://www.scoop.co.nz/stories/BU2207/S00248/free-fares-campaign-supports-further-extension-of-half-price-fares.htm
+title: Free Fares Campaign Supports Further Extension Of Half-price Fares
+date: 2022-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2207/S00248/free-fares-campaign-supports-further-extension-of-half-price-fares.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2022/07/17/free-fares-campaign-supports-further-extension-of-half-price-fares/index.html
+layout: layout.njk
 ---
 Free Fares Campaign Supports Further Extension Of Half-price Fares
 ==================================================================

@@ -1,9 +1,11 @@
 ---
 slug: clean-coal-a-myth-say-greens
-title: "'Clean Coal' A Myth Say Greens"
-date: 2005-02-09
+title: '''Clean Coal'' A Myth Say Greens'
+date: 2005-02-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0502/S00172/clean-coal-a-myth-say-greens.htm
 author: green-party
+permalink: /archive/2005/02/09/clean-coal-a-myth-say-greens/index.html
+layout: layout.njk
 ---
 'Clean Coal' A Myth Say Greens
 ==============================

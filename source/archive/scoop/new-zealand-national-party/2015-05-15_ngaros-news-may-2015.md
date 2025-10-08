@@ -1,9 +1,11 @@
 ---
 slug: ngaros-news-may-2015
-title: "Ngaro's News: May 2015"
-date: 2015-05-15
+title: 'Ngaro''s News: May 2015'
+date: 2015-05-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1505/S00170/ngaros-news-may-2015.htm
 author: new-zealand-national-party
+permalink: /archive/2015/05/15/ngaros-news-may-2015/index.html
+layout: layout.njk
 ---
 Ngaro's News: May 2015
 ======================

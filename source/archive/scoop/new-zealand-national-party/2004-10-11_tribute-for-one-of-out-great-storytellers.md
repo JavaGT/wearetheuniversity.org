@@ -1,9 +1,12 @@
 ---
 slug: tribute-for-one-of-out-great-storytellers
-title: "Tribute for one of out great storytellers"
-date: 2004-10-11
-source-url: https://www.scoop.co.nz/stories/PA0410/S00181/tribute-for-one-of-out-great-storytellers.htm
+title: Tribute for one of out great storytellers
+date: 2004-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00181/tribute-for-one-of-out-great-storytellers.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/11/tribute-for-one-of-out-great-storytellers/index.html
+layout: layout.njk
 ---
 Tribute for one of out great storytellers
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: peace-action-wellington-oppose-the-warship-visit
-title: "Peace Action Wellington: oppose the warship visit"
-date: 2016-07-21
-source-url: https://www.scoop.co.nz/stories/PO1607/S00241/peace-action-wellington-oppose-the-warship-visit.htm
+title: 'Peace Action Wellington: oppose the warship visit'
+date: 2016-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00241/peace-action-wellington-oppose-the-warship-visit.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2016/07/21/peace-action-wellington-oppose-the-warship-visit/index.html
+layout: layout.njk
 ---
 Peace Action Wellington: oppose the warship visit
 =================================================

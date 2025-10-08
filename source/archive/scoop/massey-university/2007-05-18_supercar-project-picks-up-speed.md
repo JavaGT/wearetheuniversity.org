@@ -1,9 +1,12 @@
 ---
 slug: supercar-project-picks-up-speed
-title: "Supercar project picks up speed"
-date: 2007-05-18
-source-url: https://www.scoop.co.nz/stories/ED0705/S00074/supercar-project-picks-up-speed.htm
+title: Supercar project picks up speed
+date: 2007-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00074/supercar-project-picks-up-speed.htm
 author: massey-university
+permalink: /archive/2007/05/18/supercar-project-picks-up-speed/index.html
+layout: layout.njk
 ---
 Supercar project picks up speed
 ===============================

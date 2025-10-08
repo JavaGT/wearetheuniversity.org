@@ -1,9 +1,12 @@
 ---
 slug: nz-first-gains-concessions-for-school-staff
-title: "NZ First Gains Concessions For School Staff"
-date: 2000-07-05
-source-url: https://www.scoop.co.nz/stories/PA0007/S00060/nz-first-gains-concessions-for-school-staff.htm
+title: NZ First Gains Concessions For School Staff
+date: 2000-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00060/nz-first-gains-concessions-for-school-staff.htm
 author: new-zealand-first-party
+permalink: /archive/2000/07/05/nz-first-gains-concessions-for-school-staff/index.html
+layout: layout.njk
 ---
 NZ First Gains Concessions For School Staff
 ===========================================

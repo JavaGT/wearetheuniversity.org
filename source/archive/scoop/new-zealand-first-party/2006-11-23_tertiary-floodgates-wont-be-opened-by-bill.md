@@ -1,9 +1,12 @@
 ---
 slug: tertiary-floodgates-wont-be-opened-by-bill
-title: "Tertiary Floodgates Won't Be Opened By Bill"
-date: 2006-11-23
-source-url: https://www.scoop.co.nz/stories/PA0611/S00460/tertiary-floodgates-wont-be-opened-by-bill.htm
+title: Tertiary Floodgates Won't Be Opened By Bill
+date: 2006-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00460/tertiary-floodgates-wont-be-opened-by-bill.htm
 author: new-zealand-first-party
+permalink: /archive/2006/11/23/tertiary-floodgates-wont-be-opened-by-bill/index.html
+layout: layout.njk
 ---
 Tertiary Floodgates Won't Be Opened By Bill
 ===========================================

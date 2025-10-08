@@ -1,9 +1,12 @@
 ---
 slug: no-winners-in-nationals-housing-crisis
-title: "No winners in National’s housing crisis"
-date: 2014-06-30
-source-url: https://www.scoop.co.nz/stories/PA1406/S00471/no-winners-in-nationals-housing-crisis.htm
+title: No winners in National’s housing crisis
+date: 2014-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00471/no-winners-in-nationals-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/30/no-winners-in-nationals-housing-crisis/index.html
+layout: layout.njk
 ---
 No winners in National’s housing crisis
 =======================================

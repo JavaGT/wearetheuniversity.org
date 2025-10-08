@@ -1,9 +1,13 @@
 ---
 slug: green-party-calls-for-stop-to-shady-water-bottling-deal
-title: "Green Party calls for stop to shady water bottling deal"
-date: 2016-06-30
-source-url: https://www.scoop.co.nz/stories/PA1606/S00511/green-party-calls-for-stop-to-shady-water-bottling-deal.htm
+title: Green Party calls for stop to shady water bottling deal
+date: 2016-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00511/green-party-calls-for-stop-to-shady-water-bottling-deal.htm
 author: green-party
+permalink: >-
+  /archive/2016/06/30/green-party-calls-for-stop-to-shady-water-bottling-deal/index.html
+layout: layout.njk
 ---
 Green Party calls for stop to shady water bottling deal
 =======================================================

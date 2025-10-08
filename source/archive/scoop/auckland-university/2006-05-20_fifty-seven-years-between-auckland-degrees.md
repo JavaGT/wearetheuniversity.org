@@ -1,9 +1,12 @@
 ---
 slug: fifty-seven-years-between-auckland-degrees
-title: "Fifty-Seven Years Between Auckland Degrees"
-date: 2006-05-20
-source-url: https://www.scoop.co.nz/stories/ED0605/S00074/fifty-seven-years-between-auckland-degrees.htm
+title: Fifty-Seven Years Between Auckland Degrees
+date: 2006-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00074/fifty-seven-years-between-auckland-degrees.htm
 author: auckland-university
+permalink: /archive/2006/05/20/fifty-seven-years-between-auckland-degrees/index.html
+layout: layout.njk
 ---
 Fifty-Seven Years Between Auckland Degrees
 ==========================================

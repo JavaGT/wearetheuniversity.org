@@ -1,8 +1,12 @@
 ---
 slug: update-on-the-auckland-university-european-students-association
-title: "Update on the Auckland University European Students Association"
-date: 2017-03-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/02/media-statement-regarding-new-clubs.html
+title: Update on the Auckland University European Students Association
+date: 2017-03-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/02/media-statement-regarding-new-clubs.html
+permalink: >-
+  /archive/2017/03/02/update-on-the-auckland-university-european-students-association/index.html
+layout: layout.njk
 ---
 Update on the Auckland University European Students Association
 ===============================================================

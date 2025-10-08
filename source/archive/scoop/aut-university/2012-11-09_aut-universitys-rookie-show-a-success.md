@@ -1,9 +1,12 @@
 ---
 slug: aut-universitys-rookie-show-a-success
-title: "AUT University’s Rookie Show a Success"
-date: 2012-11-09
-source-url: https://www.scoop.co.nz/stories/ED1211/S00079/aut-universitys-rookie-show-a-success.htm
+title: AUT University’s Rookie Show a Success
+date: 2012-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00079/aut-universitys-rookie-show-a-success.htm
 author: aut-university
+permalink: /archive/2012/11/09/aut-universitys-rookie-show-a-success/index.html
+layout: layout.njk
 ---
 AUT University’s Rookie Show a Success
 ======================================

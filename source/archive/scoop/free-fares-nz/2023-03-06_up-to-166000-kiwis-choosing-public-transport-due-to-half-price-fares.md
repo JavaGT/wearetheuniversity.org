@@ -1,9 +1,13 @@
 ---
 slug: up-to-166000-kiwis-choosing-public-transport-due-to-half-price-fares
-title: "Up To 166,000 Kiwis Choosing Public Transport Due To Half-price Fares"
-date: 2023-03-06
-source-url: https://www.scoop.co.nz/stories/PO2303/S00041/up-to-166000-kiwis-choosing-public-transport-due-to-half-price-fares.htm
+title: Up To 166,000 Kiwis Choosing Public Transport Due To Half-price Fares
+date: 2023-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00041/up-to-166000-kiwis-choosing-public-transport-due-to-half-price-fares.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2023/03/06/up-to-166000-kiwis-choosing-public-transport-due-to-half-price-fares/index.html
+layout: layout.njk
 ---
 Up To 166,000 Kiwis Choosing Public Transport Due To Half-price Fares
 =====================================================================

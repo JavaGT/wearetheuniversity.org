@@ -1,9 +1,13 @@
 ---
 slug: canterbury-researcher-explores-living-with-chronic-pain
-title: "Canterbury researcher explores living with chronic pain"
-date: 2015-04-16
-source-url: https://www.scoop.co.nz/stories/GE1504/S00063/canterbury-researcher-explores-living-with-chronic-pain.htm
+title: Canterbury researcher explores living with chronic pain
+date: 2015-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1504/S00063/canterbury-researcher-explores-living-with-chronic-pain.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/16/canterbury-researcher-explores-living-with-chronic-pain/index.html
+layout: layout.njk
 ---
 Canterbury researcher explores living with chronic pain
 =======================================================

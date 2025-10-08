@@ -1,9 +1,12 @@
 ---
 slug: nzqa-head-must-go-over-exam-fee-increase
-title: "NZQA head must go over exam fee increase"
-date: 2003-05-07
-source-url: https://www.scoop.co.nz/stories/PA0305/S00160/nzqa-head-must-go-over-exam-fee-increase.htm
+title: NZQA head must go over exam fee increase
+date: 2003-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00160/nzqa-head-must-go-over-exam-fee-increase.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/07/nzqa-head-must-go-over-exam-fee-increase/index.html
+layout: layout.njk
 ---
 NZQA head must go over exam fee increase
 ========================================

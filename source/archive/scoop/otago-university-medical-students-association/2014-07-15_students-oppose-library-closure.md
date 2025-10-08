@@ -1,9 +1,12 @@
 ---
 slug: students-oppose-library-closure
-title: "Students Oppose Library Closure"
-date: 2014-07-15
-source-url: https://www.scoop.co.nz/stories/ED1407/S00079/students-oppose-library-closure.htm
+title: Students Oppose Library Closure
+date: 2014-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00079/students-oppose-library-closure.htm
 author: otago-university-medical-students-association
+permalink: /archive/2014/07/15/students-oppose-library-closure/index.html
+layout: layout.njk
 ---
 Students Oppose Library Closure
 ===============================

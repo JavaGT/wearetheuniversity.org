@@ -1,9 +1,12 @@
 ---
 slug: immigration-policy-bring-more-kiwis-home
-title: "Immigration policy: Bring more Kiwis home"
-date: 2008-09-04
-source-url: https://www.scoop.co.nz/stories/PA0809/S00089/immigration-policy-bring-more-kiwis-home.htm
+title: 'Immigration policy: Bring more Kiwis home'
+date: 2008-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00089/immigration-policy-bring-more-kiwis-home.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/04/immigration-policy-bring-more-kiwis-home/index.html
+layout: layout.njk
 ---
 Immigration policy: Bring more Kiwis home
 =========================================

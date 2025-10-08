@@ -1,9 +1,12 @@
 ---
 slug: 24-hours-for-$10-billion-tomorrow
-title: "24 hours for $10 Billion tomorrow"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/PO0804/S00140/24-hours-for-10-billion-tomorrow.htm
+title: 24 hours for $10 Billion tomorrow
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00140/24-hours-for-10-billion-tomorrow.htm
 author: ausa
+permalink: /archive/2008/04/09/24-hours-for-/index.html
+layout: layout.njk
 ---
 24 hours for $10 Billion tomorrow
 =================================

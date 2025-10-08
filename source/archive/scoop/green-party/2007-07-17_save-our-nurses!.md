@@ -1,9 +1,11 @@
 ---
 slug: save-our-nurses!
-title: "Save our nurses!"
-date: 2007-07-17
+title: Save our nurses!
+date: 2007-07-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0707/S00249/save-our-nurses.htm
 author: green-party
+permalink: /archive/2007/07/17/save-our-nurses/index.html
+layout: layout.njk
 ---
 Save our nurses!
 ================

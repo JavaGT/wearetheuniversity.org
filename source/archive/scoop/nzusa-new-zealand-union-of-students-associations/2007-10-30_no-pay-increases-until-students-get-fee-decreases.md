@@ -1,9 +1,13 @@
 ---
 slug: no-pay-increases-until-students-get-fee-decreases
-title: "No pay increases until students get fee decreases"
-date: 2007-10-30
-source-url: https://www.scoop.co.nz/stories/PO0710/S00411/no-pay-increases-until-students-get-fee-decreases.htm
+title: No pay increases until students get fee decreases
+date: 2007-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0710/S00411/no-pay-increases-until-students-get-fee-decreases.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2007/10/30/no-pay-increases-until-students-get-fee-decreases/index.html
+layout: layout.njk
 ---
 No pay increases until students get fee decreases
 =================================================

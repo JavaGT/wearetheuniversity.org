@@ -1,9 +1,13 @@
 ---
 slug: pacific-women-lag-behind-in-access-to-breast-cancer-care-and-treatment
-title: "Pacific Women Lag Behind In Access To Breast Cancer Care And Treatment"
-date: 2021-11-12
-source-url: https://www.scoop.co.nz/stories/GE2111/S00079/pacific-women-lag-behind-in-access-to-breast-cancer-care-and-treatment.htm
+title: Pacific Women Lag Behind In Access To Breast Cancer Care And Treatment
+date: 2021-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2111/S00079/pacific-women-lag-behind-in-access-to-breast-cancer-care-and-treatment.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/11/12/pacific-women-lag-behind-in-access-to-breast-cancer-care-and-treatment/index.html
+layout: layout.njk
 ---
 Pacific Women Lag Behind In Access To Breast Cancer Care And Treatment
 ======================================================================

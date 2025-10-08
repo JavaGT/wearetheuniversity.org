@@ -1,9 +1,13 @@
 ---
 slug: tackling-knock-on-effects-of-concussion-can-we-make-rugby-safer
-title: "Tackling Knock-on Effects Of Concussion – Can We Make Rugby Safer?"
-date: 2021-07-05
-source-url: https://www.scoop.co.nz/stories/GE2107/S00012/tackling-knock-on-effects-of-concussion-can-we-make-rugby-safer.htm
+title: Tackling Knock-on Effects Of Concussion – Can We Make Rugby Safer?
+date: 2021-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2107/S00012/tackling-knock-on-effects-of-concussion-can-we-make-rugby-safer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/07/05/tackling-knock-on-effects-of-concussion-can-we-make-rugby-safer/index.html
+layout: layout.njk
 ---
 Tackling Knock-on Effects Of Concussion – Can We Make Rugby Safer?
 ==================================================================

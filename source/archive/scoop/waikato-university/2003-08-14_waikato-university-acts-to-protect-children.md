@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-acts-to-protect-children
-title: "Waikato University Acts To Protect Children"
-date: 2003-08-14
-source-url: https://www.scoop.co.nz/stories/ED0308/S00043/waikato-university-acts-to-protect-children.htm
+title: Waikato University Acts To Protect Children
+date: 2003-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00043/waikato-university-acts-to-protect-children.htm
 author: waikato-university
+permalink: /archive/2003/08/14/waikato-university-acts-to-protect-children/index.html
+layout: layout.njk
 ---
 Waikato University Acts To Protect Children
 ===========================================

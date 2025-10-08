@@ -1,9 +1,12 @@
 ---
 slug: $4-4m-for-massey-health-research
-title: "$4.4m for Massey health research"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/ED1606/S00048/44m-for-massey-health-research.htm
+title: $4.4m for Massey health research
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00048/44m-for-massey-health-research.htm
 author: massey-university
+permalink: /archive/2016/06/15/4-4m-for-massey-health-research/index.html
+layout: layout.njk
 ---
 $4.4m for Massey health research
 ================================

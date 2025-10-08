@@ -1,9 +1,13 @@
 ---
 slug: international-food-safety-scientist-appointed-pvc
-title: "International food safety scientist appointed PVC"
-date: 2004-02-05
-source-url: https://www.scoop.co.nz/stories/ED0402/S00011/international-food-safety-scientist-appointed-pvc.htm
+title: International food safety scientist appointed PVC
+date: 2004-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00011/international-food-safety-scientist-appointed-pvc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/02/05/international-food-safety-scientist-appointed-pvc/index.html
+layout: layout.njk
 ---
 International food safety scientist appointed PVC
 =================================================

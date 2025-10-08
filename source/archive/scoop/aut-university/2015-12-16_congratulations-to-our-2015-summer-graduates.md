@@ -1,9 +1,12 @@
 ---
 slug: congratulations-to-our-2015-summer-graduates
-title: "Congratulations to our 2015 summer graduates"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/ED1512/S00077/congratulations-to-our-2015-summer-graduates.htm
+title: Congratulations to our 2015 summer graduates
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00077/congratulations-to-our-2015-summer-graduates.htm
 author: aut-university
+permalink: /archive/2015/12/16/congratulations-to-our-2015-summer-graduates/index.html
+layout: layout.njk
 ---
 Congratulations to our 2015 summer graduates
 ============================================

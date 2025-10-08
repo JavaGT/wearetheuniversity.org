@@ -1,9 +1,12 @@
 ---
 slug: uc-prepares-for-new-academic-year
-title: "UC prepares for new academic year"
-date: 2012-01-18
-source-url: https://www.scoop.co.nz/stories/ED1201/S00023/uc-prepares-for-new-academic-year.htm
+title: UC prepares for new academic year
+date: 2012-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00023/uc-prepares-for-new-academic-year.htm
 author: university-of-canterbury
+permalink: /archive/2012/01/18/uc-prepares-for-new-academic-year/index.html
+layout: layout.njk
 ---
 UC prepares for new academic year
 =================================

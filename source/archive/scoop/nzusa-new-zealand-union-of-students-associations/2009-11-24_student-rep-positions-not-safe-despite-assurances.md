@@ -1,9 +1,13 @@
 ---
 slug: student-rep-positions-not-safe-despite-assurances
-title: "Student Rep positions not safe despite assurances"
-date: 2009-11-24
-source-url: https://www.scoop.co.nz/stories/ED0911/S00104/student-rep-positions-not-safe-despite-assurances.htm
+title: Student Rep positions not safe despite assurances
+date: 2009-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00104/student-rep-positions-not-safe-despite-assurances.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2009/11/24/student-rep-positions-not-safe-despite-assurances/index.html
+layout: layout.njk
 ---
 Student Rep positions not safe despite assurances
 =================================================

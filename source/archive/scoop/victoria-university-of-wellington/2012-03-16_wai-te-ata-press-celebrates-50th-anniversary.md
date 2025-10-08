@@ -1,9 +1,12 @@
 ---
 slug: wai-te-ata-press-celebrates-50th-anniversary
-title: "Wai-te-ata Press celebrates 50th anniversary"
-date: 2012-03-16
-source-url: https://www.scoop.co.nz/stories/ED1203/S00077/wai-te-ata-press-celebrates-50th-anniversary.htm
+title: Wai-te-ata Press celebrates 50th anniversary
+date: 2012-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00077/wai-te-ata-press-celebrates-50th-anniversary.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/03/16/wai-te-ata-press-celebrates-50th-anniversary/index.html
+layout: layout.njk
 ---
 Wai-te-ata Press celebrates 50th anniversary
 ============================================

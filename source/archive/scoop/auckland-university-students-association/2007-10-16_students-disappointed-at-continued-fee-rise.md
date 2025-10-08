@@ -1,9 +1,12 @@
 ---
 slug: students-disappointed-at-continued-fee-rise
-title: "Students disappointed at continued fee rise"
-date: 2007-10-16
-source-url: https://www.scoop.co.nz/stories/ED0710/S00046/students-disappointed-at-continued-fee-rise.htm
+title: Students disappointed at continued fee rise
+date: 2007-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00046/students-disappointed-at-continued-fee-rise.htm
 author: auckland-university-students-association
+permalink: /archive/2007/10/16/students-disappointed-at-continued-fee-rise/index.html
+layout: layout.njk
 ---
 Students disappointed at continued fee rise
 ===========================================

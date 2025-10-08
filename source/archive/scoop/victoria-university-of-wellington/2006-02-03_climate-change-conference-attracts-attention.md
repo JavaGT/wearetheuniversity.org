@@ -1,9 +1,12 @@
 ---
 slug: climate-change-conference-attracts-attention
-title: "Climate change conference attracts attention"
-date: 2006-02-03
-source-url: https://www.scoop.co.nz/stories/ED0602/S00008/climate-change-conference-attracts-attention.htm
+title: Climate change conference attracts attention
+date: 2006-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00008/climate-change-conference-attracts-attention.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/02/03/climate-change-conference-attracts-attention/index.html
+layout: layout.njk
 ---
 Climate change conference attracts attention
 ============================================

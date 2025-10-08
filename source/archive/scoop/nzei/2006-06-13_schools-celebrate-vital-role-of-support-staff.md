@@ -1,9 +1,12 @@
 ---
 slug: schools-celebrate-vital-role-of-support-staff
-title: "Schools Celebrate Vital Role of Support Staff"
-date: 2006-06-13
-source-url: https://www.scoop.co.nz/stories/ED0606/S00020/schools-celebrate-vital-role-of-support-staff.htm
+title: Schools Celebrate Vital Role of Support Staff
+date: 2006-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00020/schools-celebrate-vital-role-of-support-staff.htm
 author: nzei
+permalink: /archive/2006/06/13/schools-celebrate-vital-role-of-support-staff/index.html
+layout: layout.njk
 ---
 Schools Celebrate Vital Role of Support Staff
 =============================================

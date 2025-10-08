@@ -1,9 +1,12 @@
 ---
 slug: brash-claims-on-university-preference-wrong
-title: "Brash claims on university preference wrong"
-date: 2004-02-23
-source-url: https://www.scoop.co.nz/stories/ED0402/S00055/brash-claims-on-university-preference-wrong.htm
+title: Brash claims on university preference wrong
+date: 2004-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00055/brash-claims-on-university-preference-wrong.htm
 author: association-of-university-staff
+permalink: /archive/2004/02/23/brash-claims-on-university-preference-wrong/index.html
+layout: layout.njk
 ---
 Brash claims on university preference wrong
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: hydraulic-rescue-tool-set-to-save-lives
-title: "Hydraulic rescue tool set to save lives"
-date: 2013-11-05
-source-url: https://www.scoop.co.nz/stories/ED1311/S00030/hydraulic-rescue-tool-set-to-save-lives.htm
+title: Hydraulic rescue tool set to save lives
+date: 2013-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00030/hydraulic-rescue-tool-set-to-save-lives.htm
 author: university-of-waikato
+permalink: /archive/2013/11/05/hydraulic-rescue-tool-set-to-save-lives/index.html
+layout: layout.njk
 ---
 Hydraulic rescue tool set to save lives
 =======================================

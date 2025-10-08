@@ -1,9 +1,12 @@
 ---
 slug: firm-funding-for-world-leading-research-farm
-title: "Firm funding for world-leading research farm"
-date: 2016-06-17
-source-url: https://www.scoop.co.nz/stories/ED1606/S00066/firm-funding-for-world-leading-research-farm.htm
+title: Firm funding for world-leading research farm
+date: 2016-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00066/firm-funding-for-world-leading-research-farm.htm
 author: lincoln-university
+permalink: /archive/2016/06/17/firm-funding-for-world-leading-research-farm/index.html
+layout: layout.njk
 ---
 Firm funding for world-leading research farm
 ============================================

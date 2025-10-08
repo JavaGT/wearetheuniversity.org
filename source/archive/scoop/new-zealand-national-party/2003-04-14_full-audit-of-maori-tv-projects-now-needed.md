@@ -1,9 +1,12 @@
 ---
 slug: full-audit-of-maori-tv-projects-now-needed
-title: "Full audit of Maori TV projects now needed"
-date: 2003-04-14
-source-url: https://www.scoop.co.nz/stories/PA0304/S00267/full-audit-of-maori-tv-projects-now-needed.htm
+title: Full audit of Maori TV projects now needed
+date: 2003-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00267/full-audit-of-maori-tv-projects-now-needed.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/14/full-audit-of-maori-tv-projects-now-needed/index.html
+layout: layout.njk
 ---
 Full audit of Maori TV projects now needed
 ==========================================

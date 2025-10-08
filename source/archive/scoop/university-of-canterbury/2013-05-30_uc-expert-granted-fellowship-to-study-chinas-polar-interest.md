@@ -1,9 +1,13 @@
 ---
 slug: uc-expert-granted-fellowship-to-study-chinas-polar-interest
-title: "UC expert granted fellowship to study China’s polar interest"
-date: 2013-05-30
-source-url: https://www.scoop.co.nz/stories/PO1305/S00435/uc-expert-granted-fellowship-to-study-chinas-polar-interest.htm
+title: UC expert granted fellowship to study China’s polar interest
+date: 2013-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00435/uc-expert-granted-fellowship-to-study-chinas-polar-interest.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/30/uc-expert-granted-fellowship-to-study-chinas-polar-interest/index.html
+layout: layout.njk
 ---
 UC expert granted fellowship to study China’s polar interest
 ============================================================

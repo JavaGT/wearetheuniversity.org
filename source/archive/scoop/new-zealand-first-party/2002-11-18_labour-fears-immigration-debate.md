@@ -1,9 +1,12 @@
 ---
 slug: labour-fears-immigration-debate
-title: "Labour Fears Immigration Debate"
-date: 2002-11-18
-source-url: https://www.scoop.co.nz/stories/PA0211/S00396/labour-fears-immigration-debate.htm
+title: Labour Fears Immigration Debate
+date: 2002-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00396/labour-fears-immigration-debate.htm
 author: new-zealand-first-party
+permalink: /archive/2002/11/18/labour-fears-immigration-debate/index.html
+layout: layout.njk
 ---
 Labour Fears Immigration Debate
 ===============================

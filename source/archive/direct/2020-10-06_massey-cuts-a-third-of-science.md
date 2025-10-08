@@ -1,11 +1,13 @@
 ---
-title: "Massey University Cuts a Third of Science"
+title: Massey University Cuts a Third of Science
 slug: massey-cuts-a-third-of-science
-date: 2020-10-06
+date: 2020-10-06T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: /archive/2020/10/06/massey-cuts-a-third-of-science/index.html
+layout: layout.njk
 ---
 
 6-October-2020

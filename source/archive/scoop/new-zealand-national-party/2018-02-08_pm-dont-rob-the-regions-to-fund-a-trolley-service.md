@@ -1,9 +1,13 @@
 ---
 slug: pm-dont-rob-the-regions-to-fund-a-trolley-service
-title: "PM, don’t rob the regions to fund a trolley service"
-date: 2018-02-08
-source-url: https://www.scoop.co.nz/stories/PA1802/S00062/pm-dont-rob-the-regions-to-fund-a-trolley-service.htm
+title: PM, don’t rob the regions to fund a trolley service
+date: 2018-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00062/pm-dont-rob-the-regions-to-fund-a-trolley-service.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/02/08/pm-dont-rob-the-regions-to-fund-a-trolley-service/index.html
+layout: layout.njk
 ---
 PM, don’t rob the regions to fund a trolley service
 ===================================================

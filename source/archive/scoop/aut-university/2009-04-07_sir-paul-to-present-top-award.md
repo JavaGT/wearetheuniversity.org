@@ -1,9 +1,12 @@
 ---
 slug: sir-paul-to-present-top-award
-title: "Sir Paul to present top award –"
-date: 2009-04-07
-source-url: https://www.scoop.co.nz/stories/BU0904/S00144/sir-paul-to-present-top-award-.htm
+title: Sir Paul to present top award –
+date: 2009-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0904/S00144/sir-paul-to-present-top-award-.htm
 author: aut-university
+permalink: /archive/2009/04/07/sir-paul-to-present-top-award/index.html
+layout: layout.njk
 ---
 Sir Paul to present top award –
 ===============================

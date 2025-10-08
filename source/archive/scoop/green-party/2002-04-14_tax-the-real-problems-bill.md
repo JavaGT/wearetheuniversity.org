@@ -1,9 +1,11 @@
 ---
 slug: tax-the-real-problems-bill
-title: "Tax The Real Problems, Bill"
-date: 2002-04-14
+title: Tax The Real Problems, Bill
+date: 2002-04-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0204/S00185/tax-the-real-problems-bill.htm
 author: green-party
+permalink: /archive/2002/04/14/tax-the-real-problems-bill/index.html
+layout: layout.njk
 ---
 Tax The Real Problems, Bill
 ===========================

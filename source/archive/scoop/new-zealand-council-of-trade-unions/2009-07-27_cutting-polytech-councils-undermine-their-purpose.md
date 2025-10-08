@@ -1,9 +1,13 @@
 ---
 slug: cutting-polytech-councils-undermine-their-purpose
-title: "Cutting polytech councils undermine their purpose"
-date: 2009-07-27
-source-url: https://www.scoop.co.nz/stories/ED0907/S00091/cutting-polytech-councils-undermine-their-purpose.htm
+title: Cutting polytech councils undermine their purpose
+date: 2009-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00091/cutting-polytech-councils-undermine-their-purpose.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2009/07/27/cutting-polytech-councils-undermine-their-purpose/index.html
+layout: layout.njk
 ---
 Cutting polytech councils undermine their purpose
 =================================================

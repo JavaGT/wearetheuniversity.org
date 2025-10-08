@@ -1,9 +1,12 @@
 ---
 slug: maxim-real-issues-no-170-18-august-2005
-title: "Maxim Real Issues: No. 170,   18 AUGUST 2005"
-date: 2005-08-19
-source-url: https://www.scoop.co.nz/stories/PO0508/S00215/maxim-real-issues-no-170-18-august-2005.htm
+title: 'Maxim Real Issues: No. 170,   18 AUGUST 2005'
+date: 2005-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0508/S00215/maxim-real-issues-no-170-18-august-2005.htm
 author: maxim-institute
+permalink: /archive/2005/08/19/maxim-real-issues-no-170-18-august-2005/index.html
+layout: layout.njk
 ---
 Maxim Real Issues: No. 170, 18 AUGUST 2005
 ==========================================

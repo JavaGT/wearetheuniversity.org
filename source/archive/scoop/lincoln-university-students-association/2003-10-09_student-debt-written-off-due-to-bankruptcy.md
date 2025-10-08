@@ -1,9 +1,12 @@
 ---
 slug: student-debt-written-off-due-to-bankruptcy
-title: "Student debt written off due to bankruptcy"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/ED0310/S00035/student-debt-written-off-due-to-bankruptcy.htm
+title: Student debt written off due to bankruptcy
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00035/student-debt-written-off-due-to-bankruptcy.htm
 author: lincoln-university-students-association
+permalink: /archive/2003/10/09/student-debt-written-off-due-to-bankruptcy/index.html
+layout: layout.njk
 ---
 Student debt written off due to bankruptcy
 ==========================================

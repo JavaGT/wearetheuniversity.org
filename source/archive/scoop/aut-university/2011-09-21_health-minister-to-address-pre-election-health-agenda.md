@@ -1,9 +1,13 @@
 ---
 slug: health-minister-to-address-pre-election-health-agenda
-title: "Health Minister to address pre-election health agenda"
-date: 2011-09-21
-source-url: https://www.scoop.co.nz/stories/PO1109/S00295/health-minister-to-address-pre-election-health-agenda.htm
+title: Health Minister to address pre-election health agenda
+date: 2011-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00295/health-minister-to-address-pre-election-health-agenda.htm
 author: aut-university
+permalink: >-
+  /archive/2011/09/21/health-minister-to-address-pre-election-health-agenda/index.html
+layout: layout.njk
 ---
 Health Minister to address pre-election health agenda
 =====================================================

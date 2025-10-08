@@ -1,9 +1,12 @@
 ---
 slug: taxpayers-fund-foreign-childrens-early-child-ed
-title: "Taxpayers Fund Foreign Children's Early Child Ed"
-date: 2003-09-18
-source-url: https://www.scoop.co.nz/stories/PA0309/S00416/taxpayers-fund-foreign-childrens-early-child-ed.htm
+title: Taxpayers Fund Foreign Children's Early Child Ed
+date: 2003-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00416/taxpayers-fund-foreign-childrens-early-child-ed.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/18/taxpayers-fund-foreign-childrens-early-child-ed/index.html
+layout: layout.njk
 ---
 Taxpayers Fund Foreign Children's Early Child Ed
 ================================================

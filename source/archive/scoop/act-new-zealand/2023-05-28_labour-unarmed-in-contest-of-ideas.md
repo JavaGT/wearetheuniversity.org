@@ -1,9 +1,12 @@
 ---
 slug: labour-unarmed-in-contest-of-ideas
-title: "Labour Unarmed In Contest Of Ideas"
-date: 2023-05-28
-source-url: https://www.scoop.co.nz/stories/PO2305/S00204/labour-unarmed-in-contest-of-ideas.htm
+title: Labour Unarmed In Contest Of Ideas
+date: 2023-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2305/S00204/labour-unarmed-in-contest-of-ideas.htm
 author: act-new-zealand
+permalink: /archive/2023/05/28/labour-unarmed-in-contest-of-ideas/index.html
+layout: layout.njk
 ---
 Labour Unarmed In Contest Of Ideas
 ==================================

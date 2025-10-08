@@ -1,9 +1,13 @@
 ---
 slug: education-system-failing-kids-with-high-learning-needs
-title: "Education system failing kids with high learning needs"
-date: 2016-11-29
-source-url: https://www.scoop.co.nz/stories/PA1611/S00532/education-system-failing-kids-with-high-learning-needs.htm
+title: Education system failing kids with high learning needs
+date: 2016-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00532/education-system-failing-kids-with-high-learning-needs.htm
 author: green-party
+permalink: >-
+  /archive/2016/11/29/education-system-failing-kids-with-high-learning-needs/index.html
+layout: layout.njk
 ---
 Education system failing kids with high learning needs
 ======================================================

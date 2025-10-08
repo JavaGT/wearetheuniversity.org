@@ -1,9 +1,13 @@
 ---
 slug: medal-win-for-team-behind-pioneering-childrens-literacy-project
-title: "Medal Win For Team Behind Pioneering Children’s Literacy Project"
-date: 2023-11-08
-source-url: https://www.scoop.co.nz/stories/ED2311/S00018/medal-win-for-team-behind-pioneering-childrens-literacy-project.htm
+title: Medal Win For Team Behind Pioneering Children’s Literacy Project
+date: 2023-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2311/S00018/medal-win-for-team-behind-pioneering-childrens-literacy-project.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/11/08/medal-win-for-team-behind-pioneering-childrens-literacy-project/index.html
+layout: layout.njk
 ---
 Medal Win For Team Behind Pioneering Children’s Literacy Project
 ================================================================

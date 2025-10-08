@@ -1,9 +1,12 @@
 ---
 slug: govts-additional-$6m-for-work-and-income-welcomed
-title: "Govt's additional $6m for Work and Income welcomed"
-date: 2000-10-25
-source-url: https://www.scoop.co.nz/stories/ED0010/S00036/govts-additional-6m-for-work-and-income-welcomed.htm
+title: Govt's additional $6m for Work and Income welcomed
+date: 2000-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00036/govts-additional-6m-for-work-and-income-welcomed.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/10/25/govts-additional-/index.html
+layout: layout.njk
 ---
 Govt's additional $6m for Work and Income welcomed
 ==================================================

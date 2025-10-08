@@ -1,9 +1,13 @@
 ---
 slug: maori-party-welcomes-south-auckland-health-centre
-title: "Maori Party Welcomes South Auckland Health Centre"
-date: 2008-08-20
-source-url: https://www.scoop.co.nz/stories/GE0808/S00097/maori-party-welcomes-south-auckland-health-centre.htm
+title: Maori Party Welcomes South Auckland Health Centre
+date: 2008-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00097/maori-party-welcomes-south-auckland-health-centre.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/08/20/maori-party-welcomes-south-auckland-health-centre/index.html
+layout: layout.njk
 ---
 Maori Party Welcomes South Auckland Health Centre
 =================================================

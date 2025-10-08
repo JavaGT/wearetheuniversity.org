@@ -1,9 +1,13 @@
 ---
 slug: digital-future-should-be-accessible-for-all-says-māori-party
-title: "Digital future should be accessible for all says Māori Party"
-date: 2012-05-10
-source-url: https://www.scoop.co.nz/stories/PA1205/S00177/digital-future-should-be-accessible-for-all-says-maori-party.htm
+title: Digital future should be accessible for all says Māori Party
+date: 2012-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00177/digital-future-should-be-accessible-for-all-says-maori-party.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/05/10/digital-future-should-be-accessible-for-all-says-m/index.html
+layout: layout.njk
 ---
 Digital future should be accessible for all says Māori Party
 ============================================================

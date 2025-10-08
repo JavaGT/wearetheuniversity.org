@@ -1,9 +1,11 @@
 ---
 slug: te-reo-celebrated-on-campus
-title: "Te reo celebrated on campus"
-date: 2014-07-08
+title: Te reo celebrated on campus
+date: 2014-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1407/S00053/te-reo-celebrated-on-campus.htm
 author: university-of-waikato
+permalink: /archive/2014/07/08/te-reo-celebrated-on-campus/index.html
+layout: layout.njk
 ---
 Te reo celebrated on campus
 ===========================

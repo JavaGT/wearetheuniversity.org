@@ -1,9 +1,12 @@
 ---
 slug: real-issues-referendum-education-kiwisaver
-title: "Real Issues  - Referendum, Education, KiwiSaver"
-date: 2009-06-26
-source-url: https://www.scoop.co.nz/stories/PO0906/S00286/real-issues-referendum-education-kiwisaver.htm
+title: Real Issues  - Referendum, Education, KiwiSaver
+date: 2009-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00286/real-issues-referendum-education-kiwisaver.htm
 author: maxim-institute
+permalink: /archive/2009/06/26/real-issues-referendum-education-kiwisaver/index.html
+layout: layout.njk
 ---
 Real Issues - Referendum, Education, KiwiSaver
 ==============================================

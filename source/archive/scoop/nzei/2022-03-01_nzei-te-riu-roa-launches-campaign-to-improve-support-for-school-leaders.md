@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-launches-campaign-to-improve-support-for-school-leaders
-title: "NZEI Te Riu Roa Launches Campaign To Improve Support For School Leaders"
-date: 2022-03-01
-source-url: https://www.scoop.co.nz/stories/ED2203/S00002/nzei-te-riu-roa-launches-campaign-to-improve-support-for-school-leaders.htm
+title: NZEI Te Riu Roa Launches Campaign To Improve Support For School Leaders
+date: 2022-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00002/nzei-te-riu-roa-launches-campaign-to-improve-support-for-school-leaders.htm
 author: nzei
+permalink: >-
+  /archive/2022/03/01/nzei-te-riu-roa-launches-campaign-to-improve-support-for-school-leaders/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Launches Campaign To Improve Support For School Leaders
 =======================================================================

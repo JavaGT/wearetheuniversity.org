@@ -1,9 +1,12 @@
 ---
 slug: flavell-housing-(information-matching)-bill
-title: "Flavell: Housing (Information Matching) Bill"
-date: 2006-06-30
-source-url: https://www.scoop.co.nz/stories/PA0606/S00598/flavell-housing-information-matching-bill.htm
+title: 'Flavell: Housing (Information Matching) Bill'
+date: 2006-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00598/flavell-housing-information-matching-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/06/30/flavell-housing-/index.html
+layout: layout.njk
 ---
 Flavell: Housing (Information Matching) Bill
 ============================================

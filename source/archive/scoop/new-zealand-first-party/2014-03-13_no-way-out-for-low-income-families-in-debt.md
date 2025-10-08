@@ -1,9 +1,12 @@
 ---
 slug: no-way-out-for-low-income-families-in-debt
-title: "No Way Out for Low-Income Families in Debt"
-date: 2014-03-13
-source-url: https://www.scoop.co.nz/stories/PA1403/S00243/no-way-out-for-low-income-families-in-debt.htm
+title: No Way Out for Low-Income Families in Debt
+date: 2014-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00243/no-way-out-for-low-income-families-in-debt.htm
 author: new-zealand-first-party
+permalink: /archive/2014/03/13/no-way-out-for-low-income-families-in-debt/index.html
+layout: layout.njk
 ---
 No Way Out for Low-Income Families in Debt
 ==========================================

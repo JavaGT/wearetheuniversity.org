@@ -1,9 +1,16 @@
 ---
-slug: two-prominent-free-speech-advocates-to-tour-new-zealand-with-free-speech-union-before-end-of-the-year
-title: "Two Prominent Free Speech Advocates To Tour New Zealand With Free Speech Union Before End Of The Year"
-date: 2024-09-16
-source-url: https://www.scoop.co.nz/stories/PO2409/S00043/two-prominent-free-speech-advocates-to-tour-new-zealand-with-free-speech-union-before-end-of-the-year.htm
+slug: >-
+  two-prominent-free-speech-advocates-to-tour-new-zealand-with-free-speech-union-before-end-of-the-year
+title: >-
+  Two Prominent Free Speech Advocates To Tour New Zealand With Free Speech Union
+  Before End Of The Year
+date: 2024-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2409/S00043/two-prominent-free-speech-advocates-to-tour-new-zealand-with-free-speech-union-before-end-of-the-year.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/09/16/two-prominent-free-speech-advocates-to-tour-new-zealand-with-free-speech-union-before-end-of-the-year/index.html
+layout: layout.njk
 ---
 Two Prominent Free Speech Advocates To Tour New Zealand With Free Speech Union Before End Of The Year
 =====================================================================================================

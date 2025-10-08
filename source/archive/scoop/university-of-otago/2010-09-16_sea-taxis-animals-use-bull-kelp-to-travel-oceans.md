@@ -1,9 +1,13 @@
 ---
 slug: sea-taxis-animals-use-bull-kelp-to-travel-oceans
-title: "Sea taxis: animals use bull kelp to travel oceans"
-date: 2010-09-16
-source-url: https://www.scoop.co.nz/stories/ED1009/S00078/sea-taxis-animals-use-bull-kelp-to-travel-oceans.htm
+title: 'Sea taxis: animals use bull kelp to travel oceans'
+date: 2010-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00078/sea-taxis-animals-use-bull-kelp-to-travel-oceans.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/09/16/sea-taxis-animals-use-bull-kelp-to-travel-oceans/index.html
+layout: layout.njk
 ---
 Sea taxis: animals use bull kelp to travel oceans
 =================================================

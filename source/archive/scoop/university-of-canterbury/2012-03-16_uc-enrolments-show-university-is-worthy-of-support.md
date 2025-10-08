@@ -1,9 +1,13 @@
 ---
 slug: uc-enrolments-show-university-is-worthy-of-support
-title: "UC enrolments show University is worthy of support"
-date: 2012-03-16
-source-url: https://www.scoop.co.nz/stories/ED1203/S00075/uc-enrolments-show-university-is-worthy-of-support.htm
+title: UC enrolments show University is worthy of support
+date: 2012-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00075/uc-enrolments-show-university-is-worthy-of-support.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/03/16/uc-enrolments-show-university-is-worthy-of-support/index.html
+layout: layout.njk
 ---
 UC enrolments show University is worthy of support
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: asian-president-committed-to-allowances
-title: "Asian president committed to allowances"
-date: 2008-01-29
-source-url: https://www.scoop.co.nz/stories/ED0801/S00037/asian-president-committed-to-allowances.htm
+title: Asian president committed to allowances
+date: 2008-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00037/asian-president-committed-to-allowances.htm
 author: auckland-university-students-association
+permalink: /archive/2008/01/29/asian-president-committed-to-allowances/index.html
+layout: layout.njk
 ---
 Asian president committed to allowances
 =======================================

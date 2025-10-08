@@ -1,9 +1,13 @@
 ---
 slug: is-child-slave-labour-keeping-our-schools-afloat
-title: "Is child slave labour keeping our schools afloat?"
-date: 2005-04-05
-source-url: https://www.scoop.co.nz/stories/PA0504/S00087/is-child-slave-labour-keeping-our-schools-afloat.htm
+title: Is child slave labour keeping our schools afloat?
+date: 2005-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00087/is-child-slave-labour-keeping-our-schools-afloat.htm
 author: green-party
+permalink: >-
+  /archive/2005/04/05/is-child-slave-labour-keeping-our-schools-afloat/index.html
+layout: layout.njk
 ---
 Is child slave labour keeping our schools afloat?
 =================================================

@@ -1,8 +1,15 @@
 ---
-slug: glitzy-chinese-new-year-ball-to-benefit-research-into-promising-new-blood-test-for-preterm-birth-risk
-title: "Glitzy Chinese New Year ball to benefit research into promising new blood-test for preterm birth risk"
-date: 2017-02-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/chinese-new-year-ball-to-benefit-research-promising-new-blood-test-for-preterm-birth-risk.html
+slug: >-
+  glitzy-chinese-new-year-ball-to-benefit-research-into-promising-new-blood-test-for-preterm-birth-risk
+title: >-
+  Glitzy Chinese New Year ball to benefit research into promising new blood-test
+  for preterm birth risk
+date: 2017-02-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/chinese-new-year-ball-to-benefit-research-promising-new-blood-test-for-preterm-birth-risk.html
+permalink: >-
+  /archive/2017/02/14/glitzy-chinese-new-year-ball-to-benefit-research-into-promising-new-blood-test-for-preterm-birth-risk/index.html
+layout: layout.njk
 ---
 Glitzy Chinese New Year ball to benefit research into promising new blood-test for preterm birth risk
 =====================================================================================================

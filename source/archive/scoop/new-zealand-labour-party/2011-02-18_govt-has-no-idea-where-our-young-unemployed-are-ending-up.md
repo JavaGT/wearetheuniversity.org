@@ -1,9 +1,13 @@
 ---
 slug: govt-has-no-idea-where-our-young-unemployed-are-ending-up
-title: "Govt has no idea where our young unemployed are ending up"
-date: 2011-02-18
-source-url: https://www.scoop.co.nz/stories/PA1102/S00288/govt-has-no-idea-where-our-young-unemployed-are-ending-up.htm
+title: Govt has no idea where our young unemployed are ending up
+date: 2011-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00288/govt-has-no-idea-where-our-young-unemployed-are-ending-up.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/02/18/govt-has-no-idea-where-our-young-unemployed-are-ending-up/index.html
+layout: layout.njk
 ---
 Govt has no idea where our young unemployed are ending up
 =========================================================

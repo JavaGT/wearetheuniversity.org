@@ -1,9 +1,12 @@
 ---
 slug: industry-award-for-victoria-bioscientist
-title: "Industry award for Victoria bioscientist"
-date: 2015-10-16
-source-url: https://www.scoop.co.nz/stories/ED1510/S00085/industry-award-for-victoria-bioscientist.htm
+title: Industry award for Victoria bioscientist
+date: 2015-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00085/industry-award-for-victoria-bioscientist.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/10/16/industry-award-for-victoria-bioscientist/index.html
+layout: layout.njk
 ---
 Industry award for Victoria bioscientist
 ========================================

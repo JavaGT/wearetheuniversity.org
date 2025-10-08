@@ -1,9 +1,12 @@
 ---
 slug: green-party-supports-living-wage-campaign
-title: "Green Party supports living wage campaign"
-date: 2012-05-23
-source-url: https://www.scoop.co.nz/stories/PA1205/S00376/green-party-supports-living-wage-campaign.htm
+title: Green Party supports living wage campaign
+date: 2012-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00376/green-party-supports-living-wage-campaign.htm
 author: green-party
+permalink: /archive/2012/05/23/green-party-supports-living-wage-campaign/index.html
+layout: layout.njk
 ---
 Green Party supports living wage campaign
 =========================================

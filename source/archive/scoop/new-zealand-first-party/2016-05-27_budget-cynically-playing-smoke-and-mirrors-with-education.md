@@ -1,9 +1,13 @@
 ---
 slug: budget-cynically-playing-smoke-and-mirrors-with-education
-title: "Budget: Cynically Playing Smoke And Mirrors With Education"
-date: 2016-05-27
-source-url: https://www.scoop.co.nz/stories/PA1605/S00598/budget-cynically-playing-smoke-and-mirrors-with-education.htm
+title: 'Budget: Cynically Playing Smoke And Mirrors With Education'
+date: 2016-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00598/budget-cynically-playing-smoke-and-mirrors-with-education.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/05/27/budget-cynically-playing-smoke-and-mirrors-with-education/index.html
+layout: layout.njk
 ---
 Budget: Cynically Playing Smoke And Mirrors With Education
 ==========================================================

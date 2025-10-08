@@ -1,8 +1,12 @@
 ---
 slug: academics-research-into-drama-funding-gaining-interest-overseas
-title: "Academic’s research into drama funding gaining interest overseas"
-date: 2016-04-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/academic_s-research-into-drama-funding-gaining-interest-overseas.html
+title: Academic’s research into drama funding gaining interest overseas
+date: 2016-04-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/academic_s-research-into-drama-funding-gaining-interest-overseas.html
+permalink: >-
+  /archive/2016/04/08/academics-research-into-drama-funding-gaining-interest-overseas/index.html
+layout: layout.njk
 ---
 Academic’s research into drama funding gaining interest overseas
 ================================================================

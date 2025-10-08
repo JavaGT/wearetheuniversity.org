@@ -1,9 +1,12 @@
 ---
 slug: the-worlds-biggest-radio-telescope-project
-title: "The world's biggest radio telescope project."
-date: 2006-09-29
-source-url: https://www.scoop.co.nz/stories/SC0609/S00057/the-worlds-biggest-radio-telescope-project.htm
+title: The world's biggest radio telescope project.
+date: 2006-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0609/S00057/the-worlds-biggest-radio-telescope-project.htm
 author: aut-university
+permalink: /archive/2006/09/29/the-worlds-biggest-radio-telescope-project/index.html
+layout: layout.njk
 ---
 The world's biggest radio telescope project.
 ============================================

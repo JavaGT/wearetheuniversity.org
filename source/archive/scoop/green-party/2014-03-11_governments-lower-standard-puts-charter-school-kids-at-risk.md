@@ -1,9 +1,13 @@
 ---
 slug: governments-lower-standard-puts-charter-school-kids-at-risk
-title: "Government’s lower standard puts charter school kids at risk"
-date: 2014-03-11
-source-url: https://www.scoop.co.nz/stories/PA1403/S00188/governments-lower-standard-puts-charter-school-kids-at-risk.htm
+title: Government’s lower standard puts charter school kids at risk
+date: 2014-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00188/governments-lower-standard-puts-charter-school-kids-at-risk.htm
 author: green-party
+permalink: >-
+  /archive/2014/03/11/governments-lower-standard-puts-charter-school-kids-at-risk/index.html
+layout: layout.njk
 ---
 Government’s lower standard puts charter school kids at risk
 ============================================================

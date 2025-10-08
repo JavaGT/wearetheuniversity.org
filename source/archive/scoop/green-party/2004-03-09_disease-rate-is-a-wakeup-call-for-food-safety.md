@@ -1,9 +1,12 @@
 ---
 slug: disease-rate-is-a-wakeup-call-for-food-safety
-title: "Disease rate is a wakeup call for food safety"
-date: 2004-03-09
-source-url: https://www.scoop.co.nz/stories/PA0403/S00186/disease-rate-is-a-wakeup-call-for-food-safety.htm
+title: Disease rate is a wakeup call for food safety
+date: 2004-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00186/disease-rate-is-a-wakeup-call-for-food-safety.htm
 author: green-party
+permalink: /archive/2004/03/09/disease-rate-is-a-wakeup-call-for-food-safety/index.html
+layout: layout.njk
 ---
 Disease rate is a wakeup call for food safety
 =============================================

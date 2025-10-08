@@ -1,9 +1,12 @@
 ---
 slug: aut-rookie-a-show-not-to-miss
-title: "AUT Rookie: A show not to miss"
-date: 2013-10-08
-source-url: https://www.scoop.co.nz/stories/AK1310/S00334/aut-rookie-a-show-not-to-miss.htm
+title: 'AUT Rookie: A show not to miss'
+date: 2013-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00334/aut-rookie-a-show-not-to-miss.htm
 author: aut-university
+permalink: /archive/2013/10/08/aut-rookie-a-show-not-to-miss/index.html
+layout: layout.njk
 ---
 AUT Rookie: A show not to miss
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: student-teacher-representatives-question-mixed-messages
-title: "Student teacher representatives question mixed messages"
-date: 2012-07-13
-source-url: https://www.scoop.co.nz/stories/PO1207/S00155/student-teacher-representatives-question-mixed-messages.htm
+title: Student teacher representatives question mixed messages
+date: 2012-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1207/S00155/student-teacher-representatives-question-mixed-messages.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/07/13/student-teacher-representatives-question-mixed-messages/index.html
+layout: layout.njk
 ---
 Student teacher representatives question mixed messages
 =======================================================

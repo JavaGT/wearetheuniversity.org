@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-125
-title: "Maxim Institute - real issues - No. 125"
-date: 2004-08-26
-source-url: https://www.scoop.co.nz/stories/PO0408/S00253/maxim-institute-real-issues-no-125.htm
+title: Maxim Institute - real issues - No. 125
+date: 2004-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0408/S00253/maxim-institute-real-issues-no-125.htm
 author: maxim-institute
+permalink: /archive/2004/08/26/maxim-institute-real-issues-no-125/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 125
 =======================================

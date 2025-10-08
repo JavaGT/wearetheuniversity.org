@@ -1,9 +1,12 @@
 ---
 slug: the-impact-of-our-warming-world-on-earths-ice
-title: "The impact of our warming world on Earth’s ice"
-date: 2017-02-09
-source-url: https://www.scoop.co.nz/stories/SC1702/S00025/the-impact-of-our-warming-world-on-earths-ice.htm
+title: The impact of our warming world on Earth’s ice
+date: 2017-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00025/the-impact-of-our-warming-world-on-earths-ice.htm
 author: victoria-university-of-wellington
+permalink: /archive/2017/02/09/the-impact-of-our-warming-world-on-earths-ice/index.html
+layout: layout.njk
 ---
 The impact of our warming world on Earth’s ice
 ==============================================

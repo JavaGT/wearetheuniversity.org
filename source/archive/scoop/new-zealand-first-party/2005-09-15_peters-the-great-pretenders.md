@@ -1,9 +1,11 @@
 ---
 slug: peters-the-great-pretenders
-title: "Peters: The Great Pretenders"
-date: 2005-09-15
+title: 'Peters: The Great Pretenders'
+date: 2005-09-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00407/peters-the-great-pretenders.htm
 author: new-zealand-first-party
+permalink: /archive/2005/09/15/peters-the-great-pretenders/index.html
+layout: layout.njk
 ---
 Peters: The Great Pretenders
 ============================

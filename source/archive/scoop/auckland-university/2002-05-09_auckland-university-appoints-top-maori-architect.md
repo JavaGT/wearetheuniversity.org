@@ -1,9 +1,13 @@
 ---
 slug: auckland-university-appoints-top-maori-architect
-title: "Auckland University Appoints Top Maori Architect"
-date: 2002-05-09
-source-url: https://www.scoop.co.nz/stories/ED0205/S00015/auckland-university-appoints-top-maori-architect.htm
+title: Auckland University Appoints Top Maori Architect
+date: 2002-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00015/auckland-university-appoints-top-maori-architect.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/05/09/auckland-university-appoints-top-maori-architect/index.html
+layout: layout.njk
 ---
 Auckland University Appoints Top Maori Architect
 ================================================

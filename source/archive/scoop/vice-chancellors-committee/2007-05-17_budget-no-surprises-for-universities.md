@@ -1,9 +1,12 @@
 ---
 slug: budget-no-surprises-for-universities
-title: "Budget: No Surprises For Universities"
-date: 2007-05-17
-source-url: https://www.scoop.co.nz/stories/PO0705/S00328/budget-no-surprises-for-universities.htm
+title: 'Budget: No Surprises For Universities'
+date: 2007-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00328/budget-no-surprises-for-universities.htm
 author: vice-chancellors-committee
+permalink: /archive/2007/05/17/budget-no-surprises-for-universities/index.html
+layout: layout.njk
 ---
 Budget: No Surprises For Universities
 =====================================

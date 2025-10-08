@@ -1,9 +1,13 @@
 ---
 slug: missing-dna-could-explain-why-some-get-breast-cancer-young
-title: "‘Missing DNA’ could explain why some get breast cancer young"
-date: 2017-05-29
-source-url: https://www.scoop.co.nz/stories/SC1705/S00082/missing-dna-could-explain-why-some-get-breast-cancer-young.htm
+title: ‘Missing DNA’ could explain why some get breast cancer young
+date: 2017-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1705/S00082/missing-dna-could-explain-why-some-get-breast-cancer-young.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/05/29/missing-dna-could-explain-why-some-get-breast-cancer-young/index.html
+layout: layout.njk
 ---
 ‘Missing DNA’ could explain why some get breast cancer young
 ============================================================

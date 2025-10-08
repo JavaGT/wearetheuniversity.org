@@ -1,9 +1,12 @@
 ---
 slug: greens-must-renounce-criminal-activity
-title: "Greens Must Renounce Criminal Activity"
-date: 2002-01-15
-source-url: https://www.scoop.co.nz/stories/PA0201/S00045/greens-must-renounce-criminal-activity.htm
+title: Greens Must Renounce Criminal Activity
+date: 2002-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00045/greens-must-renounce-criminal-activity.htm
 author: act-new-zealand
+permalink: /archive/2002/01/15/greens-must-renounce-criminal-activity/index.html
+layout: layout.njk
 ---
 Greens Must Renounce Criminal Activity
 ======================================

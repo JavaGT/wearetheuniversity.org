@@ -1,9 +1,13 @@
 ---
 slug: home-affordability-continues-to-decline-massey-report
-title: "Home affordability continues to decline - Massey report"
-date: 2014-10-14
-source-url: https://www.scoop.co.nz/stories/ED1410/S00082/home-affordability-continues-to-decline-massey-report.htm
+title: Home affordability continues to decline - Massey report
+date: 2014-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00082/home-affordability-continues-to-decline-massey-report.htm
 author: massey-university
+permalink: >-
+  /archive/2014/10/14/home-affordability-continues-to-decline-massey-report/index.html
+layout: layout.njk
 ---
 Home affordability continues to decline - Massey report
 =======================================================

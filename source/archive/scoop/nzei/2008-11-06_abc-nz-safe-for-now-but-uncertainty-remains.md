@@ -1,9 +1,12 @@
 ---
 slug: abc-nz-safe-for-now-but-uncertainty-remains
-title: "ABC NZ Safe For Now But Uncertainty Remains"
-date: 2008-11-06
-source-url: https://www.scoop.co.nz/stories/ED0811/S00020/abc-nz-safe-for-now-but-uncertainty-remains.htm
+title: ABC NZ Safe For Now But Uncertainty Remains
+date: 2008-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00020/abc-nz-safe-for-now-but-uncertainty-remains.htm
 author: nzei
+permalink: /archive/2008/11/06/abc-nz-safe-for-now-but-uncertainty-remains/index.html
+layout: layout.njk
 ---
 ABC NZ Safe For Now But Uncertainty Remains
 ===========================================

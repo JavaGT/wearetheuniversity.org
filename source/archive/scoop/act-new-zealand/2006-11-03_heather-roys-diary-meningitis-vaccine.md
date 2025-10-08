@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-meningitis-vaccine
-title: "Heather Roy's Diary: Meningitis Vaccine"
-date: 2006-11-03
-source-url: https://www.scoop.co.nz/stories/PA0611/S00077/heather-roys-diary-meningitis-vaccine.htm
+title: 'Heather Roy''s Diary: Meningitis Vaccine'
+date: 2006-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00077/heather-roys-diary-meningitis-vaccine.htm
 author: act-new-zealand
+permalink: /archive/2006/11/03/heather-roys-diary-meningitis-vaccine/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Meningitis Vaccine
 =======================================

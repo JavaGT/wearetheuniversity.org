@@ -1,9 +1,13 @@
 ---
 slug: greens-and-sfwu-to-fight-for-workers-environment
-title: "Greens and SFWU to fight for workers, environment"
-date: 2009-10-08
-source-url: https://www.scoop.co.nz/stories/PA0910/S00094/greens-and-sfwu-to-fight-for-workers-environment.htm
+title: Greens and SFWU to fight for workers, environment
+date: 2009-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00094/greens-and-sfwu-to-fight-for-workers-environment.htm
 author: green-party
+permalink: >-
+  /archive/2009/10/08/greens-and-sfwu-to-fight-for-workers-environment/index.html
+layout: layout.njk
 ---
 Greens and SFWU to fight for workers, environment
 =================================================

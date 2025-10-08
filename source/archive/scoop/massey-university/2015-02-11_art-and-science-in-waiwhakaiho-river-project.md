@@ -1,9 +1,12 @@
 ---
 slug: art-and-science-in-waiwhakaiho-river-project
-title: "Art and science in Waiwhakaiho river project"
-date: 2015-02-11
-source-url: https://www.scoop.co.nz/stories/ED1502/S00038/art-and-science-in-waiwhakaiho-river-project.htm
+title: Art and science in Waiwhakaiho river project
+date: 2015-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00038/art-and-science-in-waiwhakaiho-river-project.htm
 author: massey-university
+permalink: /archive/2015/02/11/art-and-science-in-waiwhakaiho-river-project/index.html
+layout: layout.njk
 ---
 Art and science in Waiwhakaiho river project
 ============================================

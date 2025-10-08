@@ -1,9 +1,12 @@
 ---
 slug: aut-university-to-offer-nz-apec-certification
-title: "AUT University to offer NZ APEC certification"
-date: 2007-05-22
-source-url: https://www.scoop.co.nz/stories/ED0705/S00095/aut-university-to-offer-nz-apec-certification.htm
+title: AUT University to offer NZ APEC certification
+date: 2007-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00095/aut-university-to-offer-nz-apec-certification.htm
 author: aut-university
+permalink: /archive/2007/05/22/aut-university-to-offer-nz-apec-certification/index.html
+layout: layout.njk
 ---
 AUT University to offer NZ APEC certification
 =============================================

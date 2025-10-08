@@ -1,9 +1,12 @@
 ---
 slug: uc-team-wins-a-dragons-den-competition
-title: "UC team wins a Dragon’s Den competition"
-date: 2013-10-18
-source-url: https://www.scoop.co.nz/stories/ED1310/S00123/uc-team-wins-a-dragons-den-competition.htm
+title: UC team wins a Dragon’s Den competition
+date: 2013-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00123/uc-team-wins-a-dragons-den-competition.htm
 author: university-of-canterbury
+permalink: /archive/2013/10/18/uc-team-wins-a-dragons-den-competition/index.html
+layout: layout.njk
 ---
 UC team wins a Dragon’s Den competition
 =======================================

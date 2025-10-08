@@ -1,9 +1,13 @@
 ---
 slug: professorial-lecture-explores-evolution-in-action
-title: "Professorial lecture explores evolution in action"
-date: 2009-03-30
-source-url: https://www.scoop.co.nz/stories/ED0903/S00098/professorial-lecture-explores-evolution-in-action.htm
+title: Professorial lecture explores evolution in action
+date: 2009-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00098/professorial-lecture-explores-evolution-in-action.htm
 author: massey-university
+permalink: >-
+  /archive/2009/03/30/professorial-lecture-explores-evolution-in-action/index.html
+layout: layout.njk
 ---
 Professorial lecture explores evolution in action
 =================================================

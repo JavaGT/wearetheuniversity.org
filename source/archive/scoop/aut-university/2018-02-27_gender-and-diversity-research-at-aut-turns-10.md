@@ -1,9 +1,12 @@
 ---
 slug: gender-and-diversity-research-at-aut-turns-10
-title: "Gender and Diversity Research at AUT turns 10"
-date: 2018-02-27
-source-url: https://www.scoop.co.nz/stories/ED1802/S00065/gender-and-diversity-research-at-aut-turns-10.htm
+title: Gender and Diversity Research at AUT turns 10
+date: 2018-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1802/S00065/gender-and-diversity-research-at-aut-turns-10.htm
 author: aut-university
+permalink: /archive/2018/02/27/gender-and-diversity-research-at-aut-turns-10/index.html
+layout: layout.njk
 ---
 Gender and Diversity Research at AUT turns 10
 =============================================

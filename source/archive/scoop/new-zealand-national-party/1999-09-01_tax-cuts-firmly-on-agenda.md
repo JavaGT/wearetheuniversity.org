@@ -1,9 +1,11 @@
 ---
 slug: tax-cuts-firmly-on-agenda
-title: "Tax cuts firmly on agenda"
-date: 1999-09-01
+title: Tax cuts firmly on agenda
+date: 1999-09-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9909/S00038/tax-cuts-firmly-on-agenda.htm
 author: new-zealand-national-party
+permalink: /archive/1999/09/01/tax-cuts-firmly-on-agenda/index.html
+layout: layout.njk
 ---
 Tax cuts firmly on agenda
 =========================

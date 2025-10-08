@@ -1,9 +1,12 @@
 ---
 slug: dont-wrap-boys-in-cotton-wool
-title: "Don’t wrap boys in cotton wool"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/ED1304/S00041/dont-wrap-boys-in-cotton-wool.htm
+title: Don’t wrap boys in cotton wool
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00041/dont-wrap-boys-in-cotton-wool.htm
 author: massey-university
+permalink: /archive/2013/04/09/dont-wrap-boys-in-cotton-wool/index.html
+layout: layout.njk
 ---
 Don’t wrap boys in cotton wool
 ==============================

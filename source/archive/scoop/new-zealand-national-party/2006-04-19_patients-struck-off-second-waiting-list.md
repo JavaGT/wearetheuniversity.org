@@ -1,9 +1,12 @@
 ---
 slug: patients-struck-off-second-waiting-list
-title: "Patients struck off second waiting list"
-date: 2006-04-19
-source-url: https://www.scoop.co.nz/stories/PA0604/S00299/patients-struck-off-second-waiting-list.htm
+title: Patients struck off second waiting list
+date: 2006-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00299/patients-struck-off-second-waiting-list.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/19/patients-struck-off-second-waiting-list/index.html
+layout: layout.njk
 ---
 Patients struck off second waiting list
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: canterbury-westland-science-and-technology-fair
-title: "Canterbury Westland Science and Technology Fair"
-date: 2005-08-19
-source-url: https://www.scoop.co.nz/stories/ED0508/S00086/canterbury-westland-science-and-technology-fair.htm
+title: Canterbury Westland Science and Technology Fair
+date: 2005-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00086/canterbury-westland-science-and-technology-fair.htm
 author: lincoln-university
+permalink: /archive/2005/08/19/canterbury-westland-science-and-technology-fair/index.html
+layout: layout.njk
 ---
 Canterbury Westland Science and Technology Fair
 ===============================================

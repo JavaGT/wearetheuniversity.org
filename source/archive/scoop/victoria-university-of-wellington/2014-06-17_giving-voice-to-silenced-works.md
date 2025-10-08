@@ -1,9 +1,12 @@
 ---
 slug: giving-voice-to-silenced-works
-title: "Giving voice to silenced works"
-date: 2014-06-17
-source-url: https://www.scoop.co.nz/stories/AK1406/S00383/giving-voice-to-silenced-works.htm
+title: Giving voice to silenced works
+date: 2014-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00383/giving-voice-to-silenced-works.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/17/giving-voice-to-silenced-works/index.html
+layout: layout.njk
 ---
 Giving voice to silenced works
 ==============================

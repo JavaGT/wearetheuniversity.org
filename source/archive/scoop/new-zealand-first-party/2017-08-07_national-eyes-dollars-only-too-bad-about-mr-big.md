@@ -1,9 +1,12 @@
 ---
 slug: national-eyes-dollars-only-too-bad-about-mr-big
-title: "National Eyes Dollars Only – Too Bad About ‘Mr Big’"
-date: 2017-08-07
-source-url: https://www.scoop.co.nz/stories/PA1708/S00133/national-eyes-dollars-only-too-bad-about-mr-big.htm
+title: National Eyes Dollars Only – Too Bad About ‘Mr Big’
+date: 2017-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00133/national-eyes-dollars-only-too-bad-about-mr-big.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/07/national-eyes-dollars-only-too-bad-about-mr-big/index.html
+layout: layout.njk
 ---
 National Eyes Dollars Only – Too Bad About ‘Mr Big’
 ===================================================

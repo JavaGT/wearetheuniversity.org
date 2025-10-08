@@ -1,9 +1,12 @@
 ---
 slug: more-scholarships-offered-to-attract-māori-and-pasifika
-title: "More scholarships offered to attract Māori and Pasifika"
-date: 2018-12-17
-source-url: https://www.scoop.co.nz/stories/ED1812/S00040/more-scholarships-offered-to-attract-maori-and-pasifika.htm
+title: More scholarships offered to attract Māori and Pasifika
+date: 2018-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1812/S00040/more-scholarships-offered-to-attract-maori-and-pasifika.htm
 author: lincoln-university
+permalink: /archive/2018/12/17/more-scholarships-offered-to-attract-m/index.html
+layout: layout.njk
 ---
 More scholarships offered to attract Māori and Pasifika
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: cyclings-mountain-climbing-secrets-studied
-title: "Cycling's mountain-climbing secrets studied"
-date: 2010-06-09
-source-url: https://www.scoop.co.nz/stories/CU1006/S00092/cyclings-mountain-climbing-secrets-studied.htm
+title: Cycling's mountain-climbing secrets studied
+date: 2010-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1006/S00092/cyclings-mountain-climbing-secrets-studied.htm
 author: massey-university
+permalink: /archive/2010/06/09/cyclings-mountain-climbing-secrets-studied/index.html
+layout: layout.njk
 ---
 Cycling's mountain-climbing secrets studied
 ===========================================

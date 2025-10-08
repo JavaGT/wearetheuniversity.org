@@ -1,9 +1,13 @@
 ---
 slug: waikato-students-film-about-loneliness-makes-festival-final
-title: "Waikato student’s film about loneliness makes festival final"
-date: 2013-03-19
-source-url: https://www.scoop.co.nz/stories/CU1303/S00391/waikato-students-film-about-loneliness-makes-festival-final.htm
+title: Waikato student’s film about loneliness makes festival final
+date: 2013-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1303/S00391/waikato-students-film-about-loneliness-makes-festival-final.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/03/19/waikato-students-film-about-loneliness-makes-festival-final/index.html
+layout: layout.njk
 ---
 Waikato student’s film about loneliness makes festival final
 ============================================================

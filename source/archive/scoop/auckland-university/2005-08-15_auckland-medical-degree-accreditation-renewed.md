@@ -1,9 +1,12 @@
 ---
 slug: auckland-medical-degree-accreditation-renewed
-title: "Auckland Medical Degree accreditation renewed"
-date: 2005-08-15
-source-url: https://www.scoop.co.nz/stories/ED0508/S00073/auckland-medical-degree-accreditation-renewed.htm
+title: Auckland Medical Degree accreditation renewed
+date: 2005-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00073/auckland-medical-degree-accreditation-renewed.htm
 author: auckland-university
+permalink: /archive/2005/08/15/auckland-medical-degree-accreditation-renewed/index.html
+layout: layout.njk
 ---
 Auckland Medical Degree accreditation renewed
 =============================================

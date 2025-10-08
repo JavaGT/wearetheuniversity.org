@@ -1,9 +1,13 @@
 ---
 slug: give-teachers-tools-to-deal-with-problem-students
-title: "Give teachers tools to deal with problem students"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/PA0609/S00571/give-teachers-tools-to-deal-with-problem-students.htm
+title: Give teachers tools to deal with problem students
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00571/give-teachers-tools-to-deal-with-problem-students.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/09/27/give-teachers-tools-to-deal-with-problem-students/index.html
+layout: layout.njk
 ---
 Give teachers tools to deal with problem students
 =================================================

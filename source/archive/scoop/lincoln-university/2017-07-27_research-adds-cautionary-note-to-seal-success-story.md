@@ -1,9 +1,13 @@
 ---
 slug: research-adds-cautionary-note-to-seal-success-story
-title: "Research Adds Cautionary Note to Seal Success Story"
-date: 2017-07-27
-source-url: https://www.scoop.co.nz/stories/ED1707/S00092/research-adds-cautionary-note-to-seal-success-story.htm
+title: Research Adds Cautionary Note to Seal Success Story
+date: 2017-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00092/research-adds-cautionary-note-to-seal-success-story.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/07/27/research-adds-cautionary-note-to-seal-success-story/index.html
+layout: layout.njk
 ---
 Research Adds Cautionary Note to Seal Success Story
 ===================================================

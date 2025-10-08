@@ -1,9 +1,12 @@
 ---
 slug: free-press-the-gen-y-manifesto
-title: "Free Press: The Gen-Y Manifesto"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/PA1505/S00175/free-press-the-gen-y-manifesto.htm
+title: 'Free Press: The Gen-Y Manifesto'
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00175/free-press-the-gen-y-manifesto.htm
 author: act-new-zealand
+permalink: /archive/2015/05/11/free-press-the-gen-y-manifesto/index.html
+layout: layout.njk
 ---
 Free Press: The Gen-Y Manifesto
 ===============================

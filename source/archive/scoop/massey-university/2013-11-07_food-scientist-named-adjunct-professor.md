@@ -1,9 +1,12 @@
 ---
 slug: food-scientist-named-adjunct-professor
-title: "Food scientist named Adjunct Professor"
-date: 2013-11-07
-source-url: https://www.scoop.co.nz/stories/ED1311/S00051/food-scientist-named-adjunct-professor.htm
+title: Food scientist named Adjunct Professor
+date: 2013-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00051/food-scientist-named-adjunct-professor.htm
 author: massey-university
+permalink: /archive/2013/11/07/food-scientist-named-adjunct-professor/index.html
+layout: layout.njk
 ---
 Food scientist named Adjunct Professor
 ======================================

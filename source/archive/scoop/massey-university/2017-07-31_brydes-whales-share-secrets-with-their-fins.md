@@ -1,9 +1,12 @@
 ---
 slug: brydes-whales-share-secrets-with-their-fins
-title: "Bryde’s Whales Share Secrets With Their Fins"
-date: 2017-07-31
-source-url: https://www.scoop.co.nz/stories/ED1707/S00103/brydes-whales-share-secrets-with-their-fins.htm
+title: Bryde’s Whales Share Secrets With Their Fins
+date: 2017-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00103/brydes-whales-share-secrets-with-their-fins.htm
 author: massey-university
+permalink: /archive/2017/07/31/brydes-whales-share-secrets-with-their-fins/index.html
+layout: layout.njk
 ---
 Bryde’s Whales Share Secrets With Their Fins
 ============================================

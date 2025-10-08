@@ -1,9 +1,11 @@
 ---
 slug: what-about-waverley
-title: "What about Waverley?"
-date: 2007-02-15
+title: What about Waverley?
+date: 2007-02-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0702/S00289/what-about-waverley.htm
 author: green-party
+permalink: /archive/2007/02/15/what-about-waverley/index.html
+layout: layout.njk
 ---
 What about Waverley?
 ====================

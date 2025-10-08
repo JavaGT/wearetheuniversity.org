@@ -1,9 +1,11 @@
 ---
 slug: key-launches-action-plan
-title: "Key launches action plan"
-date: 2008-11-04
+title: Key launches action plan
+date: 2008-11-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0811/S00073/key-launches-action-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/04/key-launches-action-plan/index.html
+layout: layout.njk
 ---
 Key launches action plan
 ========================

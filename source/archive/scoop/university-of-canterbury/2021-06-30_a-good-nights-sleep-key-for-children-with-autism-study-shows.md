@@ -1,9 +1,13 @@
 ---
 slug: a-good-nights-sleep-key-for-children-with-autism-study-shows
-title: "A Good Night’s Sleep Key For Children With Autism, Study Shows"
-date: 2021-06-30
-source-url: https://www.scoop.co.nz/stories/GE2106/S00143/a-good-nights-sleep-key-for-children-with-autism-study-shows.htm
+title: A Good Night’s Sleep Key For Children With Autism, Study Shows
+date: 2021-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2106/S00143/a-good-nights-sleep-key-for-children-with-autism-study-shows.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/06/30/a-good-nights-sleep-key-for-children-with-autism-study-shows/index.html
+layout: layout.njk
 ---
 A Good Night’s Sleep Key For Children With Autism, Study Shows
 ==============================================================

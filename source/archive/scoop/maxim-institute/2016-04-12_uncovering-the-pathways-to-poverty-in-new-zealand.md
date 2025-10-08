@@ -1,9 +1,13 @@
 ---
 slug: uncovering-the-pathways-to-poverty-in-new-zealand
-title: "Uncovering the Pathways to Poverty in New Zealand"
-date: 2016-04-12
-source-url: https://www.scoop.co.nz/stories/PO1604/S00145/uncovering-the-pathways-to-poverty-in-new-zealand.htm
+title: Uncovering the Pathways to Poverty in New Zealand
+date: 2016-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00145/uncovering-the-pathways-to-poverty-in-new-zealand.htm
 author: maxim-institute
+permalink: >-
+  /archive/2016/04/12/uncovering-the-pathways-to-poverty-in-new-zealand/index.html
+layout: layout.njk
 ---
 Uncovering the Pathways to Poverty in New Zealand
 =================================================

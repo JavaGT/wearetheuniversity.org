@@ -1,9 +1,12 @@
 ---
 slug: time-for-special-needs-battles-is-over
-title: "Time For Special Needs Battles Is Over"
-date: 2002-04-04
-source-url: https://www.scoop.co.nz/stories/PA0204/S00064/time-for-special-needs-battles-is-over.htm
+title: Time For Special Needs Battles Is Over
+date: 2002-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00064/time-for-special-needs-battles-is-over.htm
 author: green-party
+permalink: /archive/2002/04/04/time-for-special-needs-battles-is-over/index.html
+layout: layout.njk
 ---
 Time For Special Needs Battles Is Over
 ======================================

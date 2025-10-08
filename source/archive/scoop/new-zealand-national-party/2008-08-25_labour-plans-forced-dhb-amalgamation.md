@@ -1,9 +1,12 @@
 ---
 slug: labour-plans-forced-dhb-amalgamation
-title: "Labour plans forced DHB amalgamation?"
-date: 2008-08-25
-source-url: https://www.scoop.co.nz/stories/PA0808/S00360/labour-plans-forced-dhb-amalgamation.htm
+title: Labour plans forced DHB amalgamation?
+date: 2008-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00360/labour-plans-forced-dhb-amalgamation.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/25/labour-plans-forced-dhb-amalgamation/index.html
+layout: layout.njk
 ---
 Labour plans forced DHB amalgamation?
 =====================================

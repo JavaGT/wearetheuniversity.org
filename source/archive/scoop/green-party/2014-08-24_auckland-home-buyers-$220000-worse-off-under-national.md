@@ -1,9 +1,12 @@
 ---
 slug: auckland-home-buyers-$220000-worse-off-under-national
-title: "Auckland home buyers $220,000 worse off under National"
-date: 2014-08-24
-source-url: https://www.scoop.co.nz/stories/PA1408/S00369/auckland-home-buyers-220000-worse-off-under-national.htm
+title: Auckland home buyers $220,000 worse off under National
+date: 2014-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00369/auckland-home-buyers-220000-worse-off-under-national.htm
 author: green-party
+permalink: /archive/2014/08/24/auckland-home-buyers-/index.html
+layout: layout.njk
 ---
 Auckland home buyers $220,000 worse off under National
 ======================================================

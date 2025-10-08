@@ -1,9 +1,12 @@
 ---
 slug: university-announces-partnership
-title: "University announces partnership"
-date: 2015-06-12
-source-url: https://www.scoop.co.nz/stories/ED1506/S00064/university-announces-partnership.htm
+title: University announces partnership
+date: 2015-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00064/university-announces-partnership.htm
 author: university-of-canterbury
+permalink: /archive/2015/06/12/university-announces-partnership/index.html
+layout: layout.njk
 ---
 University announces partnership
 ================================

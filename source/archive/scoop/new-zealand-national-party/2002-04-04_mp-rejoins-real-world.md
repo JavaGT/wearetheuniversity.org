@@ -1,9 +1,11 @@
 ---
 slug: mp-rejoins-real-world
-title: "MP Rejoins Real World"
-date: 2002-04-04
+title: MP Rejoins Real World
+date: 2002-04-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0204/S00066/mp-rejoins-real-world.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/04/mp-rejoins-real-world/index.html
+layout: layout.njk
 ---
 MP Rejoins Real World
 =====================

@@ -1,9 +1,13 @@
 ---
 slug: the-pianist-at-gallagher-academy-of-performing-arts
-title: "The Pianist at Gallagher Academy of Performing Arts"
-date: 2014-04-29
-source-url: https://www.scoop.co.nz/stories/CU1404/S00429/the-pianist-at-gallagher-academy-of-performing-arts.htm
+title: The Pianist at Gallagher Academy of Performing Arts
+date: 2014-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00429/the-pianist-at-gallagher-academy-of-performing-arts.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/04/29/the-pianist-at-gallagher-academy-of-performing-arts/index.html
+layout: layout.njk
 ---
 The Pianist at Gallagher Academy of Performing Arts
 ===================================================

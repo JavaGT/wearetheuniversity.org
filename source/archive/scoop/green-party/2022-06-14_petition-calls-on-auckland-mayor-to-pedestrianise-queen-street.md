@@ -1,9 +1,13 @@
 ---
 slug: petition-calls-on-auckland-mayor-to-pedestrianise-queen-street
-title: "Petition Calls On Auckland Mayor To Pedestrianise Queen Street"
-date: 2022-06-14
-source-url: https://www.scoop.co.nz/stories/PO2206/S00101/petition-calls-on-auckland-mayor-to-pedestrianise-queen-street.htm
+title: Petition Calls On Auckland Mayor To Pedestrianise Queen Street
+date: 2022-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2206/S00101/petition-calls-on-auckland-mayor-to-pedestrianise-queen-street.htm
 author: green-party
+permalink: >-
+  /archive/2022/06/14/petition-calls-on-auckland-mayor-to-pedestrianise-queen-street/index.html
+layout: layout.njk
 ---
 Petition Calls On Auckland Mayor To Pedestrianise Queen Street
 ==============================================================

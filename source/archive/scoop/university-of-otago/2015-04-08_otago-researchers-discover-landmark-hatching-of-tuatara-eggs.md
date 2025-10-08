@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-discover-landmark-hatching-of-tuatara-eggs
-title: "Otago researchers discover landmark hatching of tuatara eggs"
-date: 2015-04-08
-source-url: https://www.scoop.co.nz/stories/SC1504/S00021/otago-researchers-discover-landmark-hatching-of-tuatara-eggs.htm
+title: Otago researchers discover landmark hatching of tuatara eggs
+date: 2015-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00021/otago-researchers-discover-landmark-hatching-of-tuatara-eggs.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/04/08/otago-researchers-discover-landmark-hatching-of-tuatara-eggs/index.html
+layout: layout.njk
 ---
 Otago researchers discover landmark hatching of tuatara eggs
 ============================================================

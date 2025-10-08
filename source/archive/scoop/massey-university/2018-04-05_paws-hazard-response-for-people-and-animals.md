@@ -1,9 +1,12 @@
 ---
 slug: paws-hazard-response-for-people-and-animals
-title: "PAWS – hazard response for people and animals"
-date: 2018-04-05
-source-url: https://www.scoop.co.nz/stories/AK1804/S00069/paws-hazard-response-for-people-and-animals.htm
+title: PAWS – hazard response for people and animals
+date: 2018-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1804/S00069/paws-hazard-response-for-people-and-animals.htm
 author: massey-university
+permalink: /archive/2018/04/05/paws-hazard-response-for-people-and-animals/index.html
+layout: layout.njk
 ---
 PAWS – hazard response for people and animals
 =============================================

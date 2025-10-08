@@ -1,9 +1,12 @@
 ---
 slug: albany-blues-top-student-athletes-named
-title: "Albany Blues top student-athletes named"
-date: 2013-10-21
-source-url: https://www.scoop.co.nz/stories/ED1310/S00131/albany-blues-top-student-athletes-named.htm
+title: Albany Blues top student-athletes named
+date: 2013-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00131/albany-blues-top-student-athletes-named.htm
 author: massey-university
+permalink: /archive/2013/10/21/albany-blues-top-student-athletes-named/index.html
+layout: layout.njk
 ---
 Albany Blues top student-athletes named
 =======================================

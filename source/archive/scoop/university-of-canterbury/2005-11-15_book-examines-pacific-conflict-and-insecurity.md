@@ -1,9 +1,12 @@
 ---
 slug: book-examines-pacific-conflict-and-insecurity
-title: "Book examines Pacific conflict and insecurity"
-date: 2005-11-15
-source-url: https://www.scoop.co.nz/stories/BU0511/S00248/book-examines-pacific-conflict-and-insecurity.htm
+title: Book examines Pacific conflict and insecurity
+date: 2005-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0511/S00248/book-examines-pacific-conflict-and-insecurity.htm
 author: university-of-canterbury
+permalink: /archive/2005/11/15/book-examines-pacific-conflict-and-insecurity/index.html
+layout: layout.njk
 ---
 Book examines Pacific conflict and insecurity
 =============================================

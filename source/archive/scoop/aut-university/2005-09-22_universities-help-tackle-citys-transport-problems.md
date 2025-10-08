@@ -1,9 +1,13 @@
 ---
 slug: universities-help-tackle-citys-transport-problems
-title: "Universities help tackle city’s transport problems"
-date: 2005-09-22
-source-url: https://www.scoop.co.nz/stories/ED0509/S00075/universities-help-tackle-citys-transport-problems.htm
+title: Universities help tackle city’s transport problems
+date: 2005-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00075/universities-help-tackle-citys-transport-problems.htm
 author: aut-university
+permalink: >-
+  /archive/2005/09/22/universities-help-tackle-citys-transport-problems/index.html
+layout: layout.njk
 ---
 Universities help tackle city’s transport problems
 ==================================================

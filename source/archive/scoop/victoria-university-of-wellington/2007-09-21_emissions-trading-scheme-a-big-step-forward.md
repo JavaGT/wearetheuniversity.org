@@ -1,9 +1,12 @@
 ---
 slug: emissions-trading-scheme-a-big-step-forward
-title: "Emissions trading scheme a big step forward"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/ED0709/S00071/emissions-trading-scheme-a-big-step-forward.htm
+title: Emissions trading scheme a big step forward
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00071/emissions-trading-scheme-a-big-step-forward.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/09/21/emissions-trading-scheme-a-big-step-forward/index.html
+layout: layout.njk
 ---
 Emissions trading scheme a big step forward
 ===========================================

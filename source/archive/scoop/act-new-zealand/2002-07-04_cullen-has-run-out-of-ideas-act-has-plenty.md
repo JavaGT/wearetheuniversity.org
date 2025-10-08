@@ -1,9 +1,12 @@
 ---
 slug: cullen-has-run-out-of-ideas-act-has-plenty
-title: "Cullen Has Run Out of Ideas, ACT has Plenty"
-date: 2002-07-04
-source-url: https://www.scoop.co.nz/stories/PA0207/S00122/cullen-has-run-out-of-ideas-act-has-plenty.htm
+title: Cullen Has Run Out of Ideas, ACT has Plenty
+date: 2002-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00122/cullen-has-run-out-of-ideas-act-has-plenty.htm
 author: act-new-zealand
+permalink: /archive/2002/07/04/cullen-has-run-out-of-ideas-act-has-plenty/index.html
+layout: layout.njk
 ---
 Cullen Has Run Out of Ideas, ACT has Plenty
 ===========================================

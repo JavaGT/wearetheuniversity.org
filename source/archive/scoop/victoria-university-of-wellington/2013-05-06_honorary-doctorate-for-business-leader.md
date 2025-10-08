@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-business-leader
-title: "Honorary Doctorate for business leader"
-date: 2013-05-06
-source-url: https://www.scoop.co.nz/stories/ED1305/S00027/honorary-doctorate-for-business-leader.htm
+title: Honorary Doctorate for business leader
+date: 2013-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00027/honorary-doctorate-for-business-leader.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/06/honorary-doctorate-for-business-leader/index.html
+layout: layout.njk
 ---
 Honorary Doctorate for business leader
 ======================================

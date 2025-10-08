@@ -1,9 +1,12 @@
 ---
 slug: olympians-lead-universities-blues-nominees
-title: "Olympians lead Universities Blues nominees"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/CU1211/S00306/olympians-lead-universities-blues-nominees.htm
+title: Olympians lead Universities Blues nominees
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00306/olympians-lead-universities-blues-nominees.htm
 author: massey-university
+permalink: /archive/2012/11/15/olympians-lead-universities-blues-nominees/index.html
+layout: layout.njk
 ---
 Olympians lead Universities Blues nominees
 ==========================================

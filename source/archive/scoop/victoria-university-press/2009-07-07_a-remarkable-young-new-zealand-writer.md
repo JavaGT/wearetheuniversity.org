@@ -1,9 +1,12 @@
 ---
 slug: a-remarkable-young-new-zealand-writer
-title: "A Remarkable Young New Zealand Writer"
-date: 2009-07-07
-source-url: https://www.scoop.co.nz/stories/CU0907/S00069/a-remarkable-young-new-zealand-writer.htm
+title: A Remarkable Young New Zealand Writer
+date: 2009-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00069/a-remarkable-young-new-zealand-writer.htm
 author: victoria-university-press
+permalink: /archive/2009/07/07/a-remarkable-young-new-zealand-writer/index.html
+layout: layout.njk
 ---
 A Remarkable Young New Zealand Writer
 =====================================

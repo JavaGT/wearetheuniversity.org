@@ -1,9 +1,12 @@
 ---
 slug: stroke-a-killer-for-māori-and-pacific-islanders
-title: "Stroke a killer for Māori and Pacific Islanders"
-date: 2009-03-02
-source-url: https://www.scoop.co.nz/stories/GE0903/S00002/stroke-a-killer-for-maori-and-pacific-islanders.htm
+title: Stroke a killer for Māori and Pacific Islanders
+date: 2009-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0903/S00002/stroke-a-killer-for-maori-and-pacific-islanders.htm
 author: aut-university
+permalink: /archive/2009/03/02/stroke-a-killer-for-m/index.html
+layout: layout.njk
 ---
 Stroke a killer for Māori and Pacific Islanders
 ===============================================

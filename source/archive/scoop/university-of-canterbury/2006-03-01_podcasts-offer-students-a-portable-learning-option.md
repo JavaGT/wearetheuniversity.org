@@ -1,9 +1,13 @@
 ---
 slug: podcasts-offer-students-a-portable-learning-option
-title: "Podcasts offer students a portable learning option"
-date: 2006-03-01
-source-url: https://www.scoop.co.nz/stories/ED0603/S00003/podcasts-offer-students-a-portable-learning-option.htm
+title: Podcasts offer students a portable learning option
+date: 2006-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00003/podcasts-offer-students-a-portable-learning-option.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2006/03/01/podcasts-offer-students-a-portable-learning-option/index.html
+layout: layout.njk
 ---
 Podcasts offer students a portable learning option
 ==================================================

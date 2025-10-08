@@ -1,9 +1,13 @@
 ---
 slug: hasty-travel-ban-causes-international-education-crisis
-title: "Hasty travel ban causes international education crisis"
-date: 2020-02-04
-source-url: https://www.scoop.co.nz/stories/PO2002/S00029/hasty-travel-ban-causes-international-education-crisis.htm
+title: Hasty travel ban causes international education crisis
+date: 2020-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2002/S00029/hasty-travel-ban-causes-international-education-crisis.htm
 author: nzisa
+permalink: >-
+  /archive/2020/02/04/hasty-travel-ban-causes-international-education-crisis/index.html
+layout: layout.njk
 ---
 Hasty travel ban causes international education crisis
 ======================================================

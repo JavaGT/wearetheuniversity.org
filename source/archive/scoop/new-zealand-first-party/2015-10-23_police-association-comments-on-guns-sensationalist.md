@@ -1,9 +1,13 @@
 ---
 slug: police-association-comments-on-guns-sensationalist
-title: "Police Association Comments on Guns Sensationalist"
-date: 2015-10-23
-source-url: https://www.scoop.co.nz/stories/PA1510/S00448/police-association-comments-on-guns-sensationalist.htm
+title: Police Association Comments on Guns Sensationalist
+date: 2015-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00448/police-association-comments-on-guns-sensationalist.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/10/23/police-association-comments-on-guns-sensationalist/index.html
+layout: layout.njk
 ---
 Police Association Comments on Guns Sensationalist
 ==================================================

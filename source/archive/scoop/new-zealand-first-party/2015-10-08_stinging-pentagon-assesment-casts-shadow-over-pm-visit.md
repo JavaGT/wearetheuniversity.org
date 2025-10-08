@@ -1,9 +1,13 @@
 ---
 slug: stinging-pentagon-assesment-casts-shadow-over-pm-visit
-title: "Stinging Pentagon assesment casts shadow over PM visit"
-date: 2015-10-08
-source-url: https://www.scoop.co.nz/stories/PA1510/S00126/stinging-pentagon-assesment-casts-shadow-over-pm-visit.htm
+title: Stinging Pentagon assesment casts shadow over PM visit
+date: 2015-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00126/stinging-pentagon-assesment-casts-shadow-over-pm-visit.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/10/08/stinging-pentagon-assesment-casts-shadow-over-pm-visit/index.html
+layout: layout.njk
 ---
 Stinging Pentagon assesment casts shadow over PM visit
 ======================================================

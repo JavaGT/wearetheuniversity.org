@@ -1,9 +1,12 @@
 ---
 slug: reasons-for-interest-rate-rise-not-convincing
-title: "Reasons for interest rate rise not convincing"
-date: 2014-03-13
-source-url: https://www.scoop.co.nz/stories/PO1403/S00149/reasons-for-interest-rate-rise-not-convincing.htm
+title: Reasons for interest rate rise not convincing
+date: 2014-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00149/reasons-for-interest-rate-rise-not-convincing.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/03/13/reasons-for-interest-rate-rise-not-convincing/index.html
+layout: layout.njk
 ---
 Reasons for interest rate rise not convincing
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: health-minister-exposes-doctors-to-huge-risk
-title: "Health Minister Exposes Doctors to Huge Risk"
-date: 2002-09-18
-source-url: https://www.scoop.co.nz/stories/PA0209/S00308/health-minister-exposes-doctors-to-huge-risk.htm
+title: Health Minister Exposes Doctors to Huge Risk
+date: 2002-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00308/health-minister-exposes-doctors-to-huge-risk.htm
 author: act-new-zealand
+permalink: /archive/2002/09/18/health-minister-exposes-doctors-to-huge-risk/index.html
+layout: layout.njk
 ---
 Health Minister Exposes Doctors to Huge Risk
 ============================================

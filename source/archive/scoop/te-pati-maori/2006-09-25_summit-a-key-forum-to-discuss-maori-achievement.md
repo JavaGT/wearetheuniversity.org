@@ -1,9 +1,12 @@
 ---
 slug: summit-a-key-forum-to-discuss-maori-achievement
-title: "Summit a Key Forum to discuss Maori Achievement"
-date: 2006-09-25
-source-url: https://www.scoop.co.nz/stories/PA0609/S00535/summit-a-key-forum-to-discuss-maori-achievement.htm
+title: Summit a Key Forum to discuss Maori Achievement
+date: 2006-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00535/summit-a-key-forum-to-discuss-maori-achievement.htm
 author: te-pati-maori
+permalink: /archive/2006/09/25/summit-a-key-forum-to-discuss-maori-achievement/index.html
+layout: layout.njk
 ---
 Summit a Key Forum to discuss Maori Achievement
 ===============================================

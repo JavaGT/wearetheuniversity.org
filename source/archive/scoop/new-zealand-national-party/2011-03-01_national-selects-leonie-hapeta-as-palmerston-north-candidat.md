@@ -1,9 +1,13 @@
 ---
 slug: national-selects-leonie-hapeta-as-palmerston-north-candidat
-title: "National Selects Leonie Hapeta as Palmerston North Candidat"
-date: 2011-03-01
-source-url: https://www.scoop.co.nz/stories/PO1103/S00002/national-selects-leonie-hapeta-as-palmerston-north-candidat.htm
+title: National Selects Leonie Hapeta as Palmerston North Candidat
+date: 2011-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1103/S00002/national-selects-leonie-hapeta-as-palmerston-north-candidat.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/03/01/national-selects-leonie-hapeta-as-palmerston-north-candidat/index.html
+layout: layout.njk
 ---
 National Selects Leonie Hapeta as Palmerston North Candidat
 ===========================================================

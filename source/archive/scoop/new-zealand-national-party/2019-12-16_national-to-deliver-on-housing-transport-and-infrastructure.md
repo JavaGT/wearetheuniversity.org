@@ -1,9 +1,13 @@
 ---
 slug: national-to-deliver-on-housing-transport-and-infrastructure
-title: "National to deliver on housing, transport and infrastructure"
-date: 2019-12-16
-source-url: https://www.scoop.co.nz/stories/PA1912/S00153/national-to-deliver-on-housing-transport-and-infrastructure.htm
+title: National to deliver on housing, transport and infrastructure
+date: 2019-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00153/national-to-deliver-on-housing-transport-and-infrastructure.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/12/16/national-to-deliver-on-housing-transport-and-infrastructure/index.html
+layout: layout.njk
 ---
 National to deliver on housing, transport and infrastructure
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: aup-authors-win-at-the-montana-nz-book-awards
-title: "AUP Authors Win at the Montana NZ Book Awards"
-date: 2009-07-28
-source-url: https://www.scoop.co.nz/stories/CU0907/S00388/aup-authors-win-at-the-montana-nz-book-awards.htm
+title: AUP Authors Win at the Montana NZ Book Awards
+date: 2009-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00388/aup-authors-win-at-the-montana-nz-book-awards.htm
 author: auckland-university-press
+permalink: /archive/2009/07/28/aup-authors-win-at-the-montana-nz-book-awards/index.html
+layout: layout.njk
 ---
 AUP Authors Win at the Montana NZ Book Awards
 =============================================

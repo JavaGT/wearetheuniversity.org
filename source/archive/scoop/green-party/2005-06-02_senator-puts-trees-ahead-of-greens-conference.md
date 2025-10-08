@@ -1,9 +1,12 @@
 ---
 slug: senator-puts-trees-ahead-of-greens-conference
-title: "Senator puts trees ahead of Greens' conference"
-date: 2005-06-02
-source-url: https://www.scoop.co.nz/stories/PA0506/S00036/senator-puts-trees-ahead-of-greens-conference.htm
+title: Senator puts trees ahead of Greens' conference
+date: 2005-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00036/senator-puts-trees-ahead-of-greens-conference.htm
 author: green-party
+permalink: /archive/2005/06/02/senator-puts-trees-ahead-of-greens-conference/index.html
+layout: layout.njk
 ---
 Senator puts trees ahead of Greens' conference
 ==============================================

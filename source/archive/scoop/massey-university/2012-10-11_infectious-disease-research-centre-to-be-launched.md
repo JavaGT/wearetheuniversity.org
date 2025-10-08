@@ -1,9 +1,13 @@
 ---
 slug: infectious-disease-research-centre-to-be-launched
-title: "Infectious Disease Research Centre to be launched"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/ED1210/S00076/infectious-disease-research-centre-to-be-launched.htm
+title: Infectious Disease Research Centre to be launched
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00076/infectious-disease-research-centre-to-be-launched.htm
 author: massey-university
+permalink: >-
+  /archive/2012/10/11/infectious-disease-research-centre-to-be-launched/index.html
+layout: layout.njk
 ---
 Infectious Disease Research Centre to be launched
 =================================================

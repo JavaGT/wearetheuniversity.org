@@ -1,9 +1,12 @@
 ---
 slug: expanded-epa-unlikely-to-have-any-teeth
-title: "Expanded EPA unlikely to have any teeth"
-date: 2010-06-03
-source-url: https://www.scoop.co.nz/stories/PA1006/S00099/expanded-epa-unlikely-to-have-any-teeth.htm
+title: Expanded EPA unlikely to have any teeth
+date: 2010-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00099/expanded-epa-unlikely-to-have-any-teeth.htm
 author: green-party
+permalink: /archive/2010/06/03/expanded-epa-unlikely-to-have-any-teeth/index.html
+layout: layout.njk
 ---
 Expanded EPA unlikely to have any teeth
 =======================================

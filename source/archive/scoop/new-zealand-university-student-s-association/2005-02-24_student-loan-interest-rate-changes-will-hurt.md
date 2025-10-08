@@ -1,9 +1,12 @@
 ---
 slug: student-loan-interest-rate-changes-will-hurt
-title: "Student loan interest rate changes will hurt"
-date: 2005-02-24
-source-url: https://www.scoop.co.nz/stories/ED0502/S00087/student-loan-interest-rate-changes-will-hurt.htm
+title: Student loan interest rate changes will hurt
+date: 2005-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00087/student-loan-interest-rate-changes-will-hurt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/02/24/student-loan-interest-rate-changes-will-hurt/index.html
+layout: layout.njk
 ---
 Student loan interest rate changes will hurt
 ============================================

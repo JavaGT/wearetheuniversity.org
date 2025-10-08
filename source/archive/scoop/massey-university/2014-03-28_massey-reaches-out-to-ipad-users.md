@@ -1,9 +1,12 @@
 ---
 slug: massey-reaches-out-to-ipad-users
-title: "Massey reaches out to iPad users"
-date: 2014-03-28
-source-url: https://www.scoop.co.nz/stories/ED1403/S00172/massey-reaches-out-to-ipad-users.htm
+title: Massey reaches out to iPad users
+date: 2014-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00172/massey-reaches-out-to-ipad-users.htm
 author: massey-university
+permalink: /archive/2014/03/28/massey-reaches-out-to-ipad-users/index.html
+layout: layout.njk
 ---
 Massey reaches out to iPad users
 ================================

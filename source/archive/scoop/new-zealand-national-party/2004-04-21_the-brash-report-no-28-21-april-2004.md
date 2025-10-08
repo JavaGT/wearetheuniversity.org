@@ -1,9 +1,12 @@
 ---
 slug: the-brash-report-no-28-21-april-2004
-title: "The Brash-Report - No. 28, 21 April 2004"
-date: 2004-04-21
-source-url: https://www.scoop.co.nz/stories/PA0404/S00335/the-brash-report-no-28-21-april-2004.htm
+title: The Brash-Report - No. 28, 21 April 2004
+date: 2004-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00335/the-brash-report-no-28-21-april-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/21/the-brash-report-no-28-21-april-2004/index.html
+layout: layout.njk
 ---
 The Brash-Report - No. 28, 21 April 2004
 ========================================

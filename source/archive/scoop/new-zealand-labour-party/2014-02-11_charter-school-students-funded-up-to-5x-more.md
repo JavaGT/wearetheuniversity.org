@@ -1,9 +1,12 @@
 ---
 slug: charter-school-students-funded-up-to-5x-more
-title: "Charter school students funded up to 5x more"
-date: 2014-02-11
-source-url: https://www.scoop.co.nz/stories/PA1402/S00121/charter-school-students-funded-up-to-5x-more.htm
+title: Charter school students funded up to 5x more
+date: 2014-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00121/charter-school-students-funded-up-to-5x-more.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/11/charter-school-students-funded-up-to-5x-more/index.html
+layout: layout.njk
 ---
 Charter school students funded up to 5x more
 ============================================

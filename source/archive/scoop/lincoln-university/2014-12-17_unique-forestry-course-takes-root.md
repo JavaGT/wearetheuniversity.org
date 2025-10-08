@@ -1,9 +1,12 @@
 ---
 slug: unique-forestry-course-takes-root
-title: "Unique forestry course takes root"
-date: 2014-12-17
-source-url: https://www.scoop.co.nz/stories/ED1412/S00116/unique-forestry-course-takes-root.htm
+title: Unique forestry course takes root
+date: 2014-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00116/unique-forestry-course-takes-root.htm
 author: lincoln-university
+permalink: /archive/2014/12/17/unique-forestry-course-takes-root/index.html
+layout: layout.njk
 ---
 Unique forestry course takes root
 =================================

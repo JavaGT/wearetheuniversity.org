@@ -1,9 +1,13 @@
 ---
 slug: world-first-study-on-blood-hormone-could-help-reduce-cardiovascular-deaths
-title: "World-first Study On Blood Hormone Could Help Reduce Cardiovascular Deaths"
-date: 2020-08-25
-source-url: https://www.scoop.co.nz/stories/GE2008/S00146/world-first-study-on-blood-hormone-could-help-reduce-cardiovascular-deaths.htm
+title: World-first Study On Blood Hormone Could Help Reduce Cardiovascular Deaths
+date: 2020-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2008/S00146/world-first-study-on-blood-hormone-could-help-reduce-cardiovascular-deaths.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/08/25/world-first-study-on-blood-hormone-could-help-reduce-cardiovascular-deaths/index.html
+layout: layout.njk
 ---
 World-first Study On Blood Hormone Could Help Reduce Cardiovascular Deaths
 ==========================================================================

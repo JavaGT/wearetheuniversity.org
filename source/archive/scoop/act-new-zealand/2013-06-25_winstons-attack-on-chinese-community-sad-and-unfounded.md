@@ -1,9 +1,13 @@
 ---
 slug: winstons-attack-on-chinese-community-sad-and-unfounded
-title: "Winston’s Attack on Chinese Community Sad And Unfounded"
-date: 2013-06-25
-source-url: https://www.scoop.co.nz/stories/PO1306/S00305/winstons-attack-on-chinese-community-sad-and-unfounded.htm
+title: Winston’s Attack on Chinese Community Sad And Unfounded
+date: 2013-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1306/S00305/winstons-attack-on-chinese-community-sad-and-unfounded.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2013/06/25/winstons-attack-on-chinese-community-sad-and-unfounded/index.html
+layout: layout.njk
 ---
 Winston’s Attack on Chinese Community Sad And Unfounded
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: taking-charge-of-your-breast-cancer
-title: "Taking charge of your breast cancer"
-date: 2002-03-18
-source-url: https://www.scoop.co.nz/stories/GE0203/S00027/taking-charge-of-your-breast-cancer.htm
+title: Taking charge of your breast cancer
+date: 2002-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0203/S00027/taking-charge-of-your-breast-cancer.htm
 author: auckland-university
+permalink: /archive/2002/03/18/taking-charge-of-your-breast-cancer/index.html
+layout: layout.njk
 ---
 Taking charge of your breast cancer
 ===================================

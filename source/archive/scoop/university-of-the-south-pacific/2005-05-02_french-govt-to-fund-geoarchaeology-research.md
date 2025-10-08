@@ -1,9 +1,12 @@
 ---
 slug: french-govt-to-fund-geoarchaeology-research
-title: "French Govt to Fund Geoarchaeology Research"
-date: 2005-05-02
-source-url: https://www.scoop.co.nz/stories/WO0505/S00016/french-govt-to-fund-geoarchaeology-research.htm
+title: French Govt to Fund Geoarchaeology Research
+date: 2005-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0505/S00016/french-govt-to-fund-geoarchaeology-research.htm
 author: university-of-the-south-pacific
+permalink: /archive/2005/05/02/french-govt-to-fund-geoarchaeology-research/index.html
+layout: layout.njk
 ---
 French Govt to Fund Geoarchaeology Research
 ===========================================

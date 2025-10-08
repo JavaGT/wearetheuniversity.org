@@ -1,9 +1,12 @@
 ---
 slug: students-staying-engaged-at-hutt-valley-schools
-title: "Students staying engaged at Hutt Valley schools"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/PA1507/S00060/students-staying-engaged-at-hutt-valley-schools.htm
+title: Students staying engaged at Hutt Valley schools
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00060/students-staying-engaged-at-hutt-valley-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2015/07/02/students-staying-engaged-at-hutt-valley-schools/index.html
+layout: layout.njk
 ---
 Students staying engaged at Hutt Valley schools
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: mp-embraces-new-role
-title: "MP embraces new role"
-date: 2021-08-30
+title: MP embraces new role
+date: 2021-08-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2108/S00249/mp-embraces-new-role.htm
 author: new-zealand-national-party
+permalink: /archive/2021/08/30/mp-embraces-new-role/index.html
+layout: layout.njk
 ---
 MP embraces new role
 ====================

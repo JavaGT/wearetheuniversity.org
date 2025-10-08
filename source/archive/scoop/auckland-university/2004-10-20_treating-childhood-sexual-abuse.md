@@ -1,9 +1,12 @@
 ---
 slug: treating-childhood-sexual-abuse
-title: "Treating Childhood Sexual Abuse"
-date: 2004-10-20
-source-url: https://www.scoop.co.nz/stories/GE0410/S00089/treating-childhood-sexual-abuse.htm
+title: Treating Childhood Sexual Abuse
+date: 2004-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0410/S00089/treating-childhood-sexual-abuse.htm
 author: auckland-university
+permalink: /archive/2004/10/20/treating-childhood-sexual-abuse/index.html
+layout: layout.njk
 ---
 Treating Childhood Sexual Abuse
 ===============================

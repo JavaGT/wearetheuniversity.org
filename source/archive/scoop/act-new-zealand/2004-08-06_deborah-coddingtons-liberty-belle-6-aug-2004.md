@@ -1,9 +1,12 @@
 ---
 slug: deborah-coddingtons-liberty-belle-6-aug-2004
-title: "Deborah Coddington's Liberty Belle: 6 Aug 2004"
-date: 2004-08-06
-source-url: https://www.scoop.co.nz/stories/PA0408/S00121/deborah-coddingtons-liberty-belle-6-aug-2004.htm
+title: 'Deborah Coddington''s Liberty Belle: 6 Aug 2004'
+date: 2004-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00121/deborah-coddingtons-liberty-belle-6-aug-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/08/06/deborah-coddingtons-liberty-belle-6-aug-2004/index.html
+layout: layout.njk
 ---
 Deborah Coddington's Liberty Belle: 6 Aug 2004
 ==============================================

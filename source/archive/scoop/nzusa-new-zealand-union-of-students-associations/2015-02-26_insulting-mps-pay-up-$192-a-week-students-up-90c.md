@@ -1,9 +1,12 @@
 ---
 slug: insulting-mps-pay-up-$192-a-week-students-up-90c
-title: "‘Insulting’: MPs’ pay up $192 a week – students’ up 90c"
-date: 2015-02-26
-source-url: https://www.scoop.co.nz/stories/PO1502/S00299/insulting-mps-pay-up-192-a-week-students-up-90c.htm
+title: '‘Insulting’: MPs’ pay up $192 a week – students’ up 90c'
+date: 2015-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00299/insulting-mps-pay-up-192-a-week-students-up-90c.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/02/26/insulting-mps-pay-up-/index.html
+layout: layout.njk
 ---
 ‘Insulting’: MPs’ pay up $192 a week – students’ up 90c
 =======================================================

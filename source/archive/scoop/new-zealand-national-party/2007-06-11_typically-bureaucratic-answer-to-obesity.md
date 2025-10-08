@@ -1,9 +1,12 @@
 ---
 slug: typically-bureaucratic-answer-to-obesity
-title: "Typically bureaucratic answer to obesity"
-date: 2007-06-11
-source-url: https://www.scoop.co.nz/stories/PA0706/S00174/typically-bureaucratic-answer-to-obesity.htm
+title: Typically bureaucratic answer to obesity
+date: 2007-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00174/typically-bureaucratic-answer-to-obesity.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/11/typically-bureaucratic-answer-to-obesity/index.html
+layout: layout.njk
 ---
 Typically bureaucratic answer to obesity
 ========================================

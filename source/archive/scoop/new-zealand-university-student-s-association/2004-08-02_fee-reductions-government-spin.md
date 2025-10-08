@@ -1,9 +1,12 @@
 ---
 slug: fee-reductions-government-spin
-title: "Fee reductions: government spin"
-date: 2004-08-02
-source-url: https://www.scoop.co.nz/stories/ED0408/S00003/fee-reductions-government-spin.htm
+title: 'Fee reductions: government spin'
+date: 2004-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00003/fee-reductions-government-spin.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/08/02/fee-reductions-government-spin/index.html
+layout: layout.njk
 ---
 Fee reductions: government spin
 ===============================

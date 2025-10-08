@@ -1,9 +1,12 @@
 ---
 slug: speech-(abridged)-peck-on-science
-title: "Speech (abridged) - Peck on science"
-date: 1999-08-16
-source-url: https://www.scoop.co.nz/stories/PA9908/S00259/speech-abridged-peck-on-science.htm
+title: Speech (abridged) - Peck on science
+date: 1999-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00259/speech-abridged-peck-on-science.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/16/speech-/index.html
+layout: layout.njk
 ---
 Speech (abridged) - Peck on science
 ===================================

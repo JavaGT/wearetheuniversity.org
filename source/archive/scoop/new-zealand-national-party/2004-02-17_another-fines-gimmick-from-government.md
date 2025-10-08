@@ -1,9 +1,12 @@
 ---
 slug: another-fines-gimmick-from-government
-title: "Another fines gimmick from Government"
-date: 2004-02-17
-source-url: https://www.scoop.co.nz/stories/PA0402/S00267/another-fines-gimmick-from-government.htm
+title: Another fines gimmick from Government
+date: 2004-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00267/another-fines-gimmick-from-government.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/17/another-fines-gimmick-from-government/index.html
+layout: layout.njk
 ---
 Another fines gimmick from Government
 =====================================

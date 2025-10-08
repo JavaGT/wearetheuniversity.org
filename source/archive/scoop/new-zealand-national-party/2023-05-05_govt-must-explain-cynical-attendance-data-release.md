@@ -1,9 +1,13 @@
 ---
 slug: govt-must-explain-cynical-attendance-data-release
-title: "Govt Must Explain Cynical Attendance Data Release"
-date: 2023-05-05
-source-url: https://www.scoop.co.nz/stories/PA2305/S00037/govt-must-explain-cynical-attendance-data-release.htm
+title: Govt Must Explain Cynical Attendance Data Release
+date: 2023-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00037/govt-must-explain-cynical-attendance-data-release.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/05/05/govt-must-explain-cynical-attendance-data-release/index.html
+layout: layout.njk
 ---
 Govt Must Explain Cynical Attendance Data Release
 =================================================

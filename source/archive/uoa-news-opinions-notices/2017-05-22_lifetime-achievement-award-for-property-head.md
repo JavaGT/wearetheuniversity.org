@@ -1,8 +1,11 @@
 ---
 slug: lifetime-achievement-award-for-property-head
-title: "Lifetime achievement award for Property head"
-date: 2017-05-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/lifetime-achievement-award-for-property-head.html
+title: Lifetime achievement award for Property head
+date: 2017-05-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/lifetime-achievement-award-for-property-head.html
+permalink: /archive/2017/05/22/lifetime-achievement-award-for-property-head/index.html
+layout: layout.njk
 ---
 Lifetime achievement award for Property head
 ============================================

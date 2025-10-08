@@ -1,9 +1,12 @@
 ---
 slug: elective-surgery-shutdown-begins-monday
-title: "Elective surgery shutdown begins Monday"
-date: 2006-11-27
-source-url: https://www.scoop.co.nz/stories/PA0611/S00504/elective-surgery-shutdown-begins-monday.htm
+title: Elective surgery shutdown begins Monday
+date: 2006-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00504/elective-surgery-shutdown-begins-monday.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/27/elective-surgery-shutdown-begins-monday/index.html
+layout: layout.njk
 ---
 Elective surgery shutdown begins Monday
 =======================================

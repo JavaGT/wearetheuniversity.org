@@ -1,9 +1,12 @@
 ---
 slug: homeless-should-be-parliament-focus
-title: "Homeless should be Parliament focus"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/PA1310/S00156/homeless-should-be-parliament-focus.htm
+title: Homeless should be Parliament focus
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00156/homeless-should-be-parliament-focus.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/09/homeless-should-be-parliament-focus/index.html
+layout: layout.njk
 ---
 Homeless should be Parliament focus
 ===================================

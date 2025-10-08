@@ -1,9 +1,13 @@
 ---
 slug: rebels-disgusted-at-alliances-policy-of-contempt
-title: "Rebels Disgusted At Alliance's Policy Of Contempt"
-date: 1999-09-27
-source-url: https://www.scoop.co.nz/stories/PO9909/S00101/rebels-disgusted-at-alliances-policy-of-contempt.htm
+title: Rebels Disgusted At Alliance's Policy Of Contempt
+date: 1999-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00101/rebels-disgusted-at-alliances-policy-of-contempt.htm
 author: prebble-s-rebels
+permalink: >-
+  /archive/1999/09/27/rebels-disgusted-at-alliances-policy-of-contempt/index.html
+layout: layout.njk
 ---
 Rebels Disgusted At Alliance's Policy Of Contempt
 =================================================

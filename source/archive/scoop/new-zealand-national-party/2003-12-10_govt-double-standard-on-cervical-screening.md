@@ -1,9 +1,12 @@
 ---
 slug: govt-double-standard-on-cervical-screening
-title: "Govt double standard on cervical screening"
-date: 2003-12-10
-source-url: https://www.scoop.co.nz/stories/PA0312/S00248/govt-double-standard-on-cervical-screening.htm
+title: Govt double standard on cervical screening
+date: 2003-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00248/govt-double-standard-on-cervical-screening.htm
 author: new-zealand-national-party
+permalink: /archive/2003/12/10/govt-double-standard-on-cervical-screening/index.html
+layout: layout.njk
 ---
 Govt double standard on cervical screening
 ==========================================

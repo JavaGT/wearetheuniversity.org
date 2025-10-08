@@ -1,9 +1,12 @@
 ---
 slug: act-$650m-business-deveklopment-cut-will-kill-jobs
-title: "ACT $650m Business Deveklopment Cut Will Kill Jobs"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00676/act-650m-business-deveklopment-cut-will-kill-jobs.htm
+title: ACT $650m Business Deveklopment Cut Will Kill Jobs
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00676/act-650m-business-deveklopment-cut-will-kill-jobs.htm
 author: act-new-zealand
+permalink: /archive/1999/09/30/act-/index.html
+layout: layout.njk
 ---
 ACT $650m Business Deveklopment Cut Will Kill Jobs
 ==================================================

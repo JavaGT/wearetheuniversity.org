@@ -1,9 +1,12 @@
 ---
 slug: dietetics-experts-unveil-latest-research
-title: "Dietetics Experts Unveil Latest Research"
-date: 2004-08-26
-source-url: https://www.scoop.co.nz/stories/ED0408/S00119/dietetics-experts-unveil-latest-research.htm
+title: Dietetics Experts Unveil Latest Research
+date: 2004-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00119/dietetics-experts-unveil-latest-research.htm
 author: university-of-otago
+permalink: /archive/2004/08/26/dietetics-experts-unveil-latest-research/index.html
+layout: layout.njk
 ---
 Dietetics Experts Unveil Latest Research
 ========================================

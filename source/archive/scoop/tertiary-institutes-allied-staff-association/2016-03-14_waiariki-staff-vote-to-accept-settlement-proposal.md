@@ -1,9 +1,13 @@
 ---
 slug: waiariki-staff-vote-to-accept-settlement-proposal
-title: "Waiariki staff vote to accept settlement proposal"
-date: 2016-03-14
-source-url: https://www.scoop.co.nz/stories/ED1603/S00050/waiariki-staff-vote-to-accept-settlement-proposal.htm
+title: Waiariki staff vote to accept settlement proposal
+date: 2016-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00050/waiariki-staff-vote-to-accept-settlement-proposal.htm
 author: tertiary-institutes-allied-staff-association
+permalink: >-
+  /archive/2016/03/14/waiariki-staff-vote-to-accept-settlement-proposal/index.html
+layout: layout.njk
 ---
 Waiariki staff vote to accept settlement proposal
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-unions-ready-to-move-on
-title: "\"Massey Unions Ready To Move On\""
-date: 2002-04-12
-source-url: https://www.scoop.co.nz/stories/ED0204/S00020/massey-unions-ready-to-move-on.htm
+title: '"Massey Unions Ready To Move On"'
+date: 2002-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00020/massey-unions-ready-to-move-on.htm
 author: massey-university
+permalink: /archive/2002/04/12/massey-unions-ready-to-move-on/index.html
+layout: layout.njk
 ---
 \"Massey Unions Ready To Move On"
 ================================

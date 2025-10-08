@@ -1,9 +1,13 @@
 ---
 slug: greens-seek-to-stop-telco-rollout-on-power-poles
-title: "Greens seek to stop telco rollout on power poles"
-date: 2008-01-24
-source-url: https://www.scoop.co.nz/stories/PA0801/S00167/greens-seek-to-stop-telco-rollout-on-power-poles.htm
+title: Greens seek to stop telco rollout on power poles
+date: 2008-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00167/greens-seek-to-stop-telco-rollout-on-power-poles.htm
 author: green-party
+permalink: >-
+  /archive/2008/01/24/greens-seek-to-stop-telco-rollout-on-power-poles/index.html
+layout: layout.njk
 ---
 Greens seek to stop telco rollout on power poles
 ================================================

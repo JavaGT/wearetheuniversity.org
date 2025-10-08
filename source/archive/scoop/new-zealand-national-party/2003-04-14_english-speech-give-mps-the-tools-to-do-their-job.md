@@ -1,9 +1,13 @@
 ---
 slug: english-speech-give-mps-the-tools-to-do-their-job
-title: "English Speech: Give MPs the tools to do their job"
-date: 2003-04-14
-source-url: https://www.scoop.co.nz/stories/PA0304/S00270/english-speech-give-mps-the-tools-to-do-their-job.htm
+title: 'English Speech: Give MPs the tools to do their job'
+date: 2003-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00270/english-speech-give-mps-the-tools-to-do-their-job.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/04/14/english-speech-give-mps-the-tools-to-do-their-job/index.html
+layout: layout.njk
 ---
 English Speech: Give MPs the tools to do their job
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: summer-sun-no-fun-for-psoriasis-sufferers
-title: "Summer sun no fun for psoriasis sufferers"
-date: 2012-12-04
-source-url: https://www.scoop.co.nz/stories/GE1212/S00010/summer-sun-no-fun-for-psoriasis-sufferers.htm
+title: Summer sun no fun for psoriasis sufferers
+date: 2012-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1212/S00010/summer-sun-no-fun-for-psoriasis-sufferers.htm
 author: massey-university
+permalink: /archive/2012/12/04/summer-sun-no-fun-for-psoriasis-sufferers/index.html
+layout: layout.njk
 ---
 Summer sun no fun for psoriasis sufferers
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: national-selects-east-coast-bays-candidate
-title: "National selects East Coast Bays candidate"
-date: 2016-11-25
-source-url: https://www.scoop.co.nz/stories/PO1611/S00372/national-selects-east-coast-bays-candidate.htm
+title: National selects East Coast Bays candidate
+date: 2016-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1611/S00372/national-selects-east-coast-bays-candidate.htm
 author: new-zealand-national-party
+permalink: /archive/2016/11/25/national-selects-east-coast-bays-candidate/index.html
+layout: layout.njk
 ---
 National selects East Coast Bays candidate
 ==========================================

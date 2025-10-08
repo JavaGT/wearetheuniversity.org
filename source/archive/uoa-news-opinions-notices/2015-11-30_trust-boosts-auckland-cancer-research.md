@@ -1,8 +1,11 @@
 ---
 slug: trust-boosts-auckland-cancer-research
-title: "Trust boosts Auckland cancer research"
-date: 2015-11-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/trust-boosts-auckland-cancer-research.html
+title: Trust boosts Auckland cancer research
+date: 2015-11-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/trust-boosts-auckland-cancer-research.html
+permalink: /archive/2015/11/30/trust-boosts-auckland-cancer-research/index.html
+layout: layout.njk
 ---
 Trust boosts Auckland cancer research
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-welcomes-more-funding-for-cancer-care
-title: "Māori Party welcomes more funding for  cancer care"
-date: 2012-05-17
-source-url: https://www.scoop.co.nz/stories/PA1205/S00299/maori-party-welcomes-more-funding-for-cancer-care.htm
+title: Māori Party welcomes more funding for  cancer care
+date: 2012-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00299/maori-party-welcomes-more-funding-for-cancer-care.htm
 author: te-pati-maori
+permalink: /archive/2012/05/17/m/index.html
+layout: layout.njk
 ---
 Māori Party welcomes more funding for cancer care
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: little-needs-to-stop-making-excuses-on-mental-health-and-start-doing-his-job
-title: "Little Needs To Stop Making Excuses On Mental Health And Start Doing His Job"
-date: 2021-06-29
-source-url: https://www.scoop.co.nz/stories/PA2106/S00232/little-needs-to-stop-making-excuses-on-mental-health-and-start-doing-his-job.htm
+title: Little Needs To Stop Making Excuses On Mental Health And Start Doing His Job
+date: 2021-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00232/little-needs-to-stop-making-excuses-on-mental-health-and-start-doing-his-job.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/06/29/little-needs-to-stop-making-excuses-on-mental-health-and-start-doing-his-job/index.html
+layout: layout.njk
 ---
 Little Needs To Stop Making Excuses On Mental Health And Start Doing His Job
 ============================================================================

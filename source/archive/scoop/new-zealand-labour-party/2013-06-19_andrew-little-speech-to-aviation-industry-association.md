@@ -1,9 +1,13 @@
 ---
 slug: andrew-little-speech-to-aviation-industry-association
-title: "Andrew Little Speech to Aviation Industry Association"
-date: 2013-06-19
-source-url: https://www.scoop.co.nz/stories/PA1306/S00320/andrew-little-speech-to-aviation-industry-association.htm
+title: Andrew Little Speech to Aviation Industry Association
+date: 2013-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00320/andrew-little-speech-to-aviation-industry-association.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/06/19/andrew-little-speech-to-aviation-industry-association/index.html
+layout: layout.njk
 ---
 Andrew Little Speech to Aviation Industry Association
 =====================================================

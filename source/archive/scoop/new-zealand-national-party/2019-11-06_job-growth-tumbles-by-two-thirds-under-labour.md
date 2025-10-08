@@ -1,9 +1,12 @@
 ---
 slug: job-growth-tumbles-by-two-thirds-under-labour
-title: "Job growth tumbles by two-thirds under Labour"
-date: 2019-11-06
-source-url: https://www.scoop.co.nz/stories/PA1911/S00042/job-growth-tumbles-by-two-thirds-under-labour.htm
+title: Job growth tumbles by two-thirds under Labour
+date: 2019-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00042/job-growth-tumbles-by-two-thirds-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2019/11/06/job-growth-tumbles-by-two-thirds-under-labour/index.html
+layout: layout.njk
 ---
 Job growth tumbles by two-thirds under Labour
 =============================================

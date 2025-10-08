@@ -1,9 +1,12 @@
 ---
 slug: veterans-need-more-support-nz-first
-title: "Veterans Need More Support – NZ First"
-date: 2005-05-04
-source-url: https://www.scoop.co.nz/stories/PA0505/S00074/veterans-need-more-support-nz-first.htm
+title: Veterans Need More Support – NZ First
+date: 2005-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00074/veterans-need-more-support-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/04/veterans-need-more-support-nz-first/index.html
+layout: layout.njk
 ---
 Veterans Need More Support – NZ First
 =====================================

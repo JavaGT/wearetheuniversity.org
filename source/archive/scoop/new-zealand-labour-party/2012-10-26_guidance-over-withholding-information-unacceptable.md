@@ -1,9 +1,13 @@
 ---
 slug: guidance-over-withholding-information-unacceptable
-title: "‘Guidance’ over withholding information unacceptable"
-date: 2012-10-26
-source-url: https://www.scoop.co.nz/stories/PA1210/S00454/guidance-over-withholding-information-unacceptable.htm
+title: ‘Guidance’ over withholding information unacceptable
+date: 2012-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00454/guidance-over-withholding-information-unacceptable.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/26/guidance-over-withholding-information-unacceptable/index.html
+layout: layout.njk
 ---
 ‘Guidance’ over withholding information unacceptable
 ====================================================

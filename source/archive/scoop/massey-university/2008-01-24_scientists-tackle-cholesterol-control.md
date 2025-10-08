@@ -1,9 +1,12 @@
 ---
 slug: scientists-tackle-cholesterol-control
-title: "Scientists tackle cholesterol control"
-date: 2008-01-24
-source-url: https://www.scoop.co.nz/stories/ED0801/S00023/scientists-tackle-cholesterol-control.htm
+title: Scientists tackle cholesterol control
+date: 2008-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00023/scientists-tackle-cholesterol-control.htm
 author: massey-university
+permalink: /archive/2008/01/24/scientists-tackle-cholesterol-control/index.html
+layout: layout.njk
 ---
 Scientists tackle cholesterol control
 =====================================

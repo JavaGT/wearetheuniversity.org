@@ -1,9 +1,13 @@
 ---
 slug: bacteria-communicate-to-ramp-up-collective-immune-response
-title: "Bacteria communicate to ramp up collective immune response"
-date: 2016-11-22
-source-url: https://www.scoop.co.nz/stories/SC1611/S00066/bacteria-communicate-to-ramp-up-collective-immune-response.htm
+title: Bacteria communicate to ramp up collective immune response
+date: 2016-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00066/bacteria-communicate-to-ramp-up-collective-immune-response.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/11/22/bacteria-communicate-to-ramp-up-collective-immune-response/index.html
+layout: layout.njk
 ---
 Bacteria communicate to ramp up collective immune response
 ==========================================================

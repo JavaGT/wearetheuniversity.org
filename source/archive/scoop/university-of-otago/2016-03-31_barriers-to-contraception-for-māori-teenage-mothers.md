@@ -1,9 +1,12 @@
 ---
 slug: barriers-to-contraception-for-māori-teenage-mothers
-title: "Barriers to contraception for Māori teenage mothers"
-date: 2016-03-31
-source-url: https://www.scoop.co.nz/stories/SC1603/S00072/barriers-to-contraception-for-maori-teenage-mothers.htm
+title: Barriers to contraception for Māori teenage mothers
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00072/barriers-to-contraception-for-maori-teenage-mothers.htm
 author: university-of-otago
+permalink: /archive/2016/03/31/barriers-to-contraception-for-m/index.html
+layout: layout.njk
 ---
 Barriers to contraception for Māori teenage mothers
 ===================================================

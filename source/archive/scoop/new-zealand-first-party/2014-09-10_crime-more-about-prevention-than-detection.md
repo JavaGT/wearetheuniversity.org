@@ -1,9 +1,12 @@
 ---
 slug: crime-more-about-prevention-than-detection
-title: "Crime: More About Prevention than Detection"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/PA1409/S00155/crime-more-about-prevention-than-detection.htm
+title: 'Crime: More About Prevention than Detection'
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00155/crime-more-about-prevention-than-detection.htm
 author: new-zealand-first-party
+permalink: /archive/2014/09/10/crime-more-about-prevention-than-detection/index.html
+layout: layout.njk
 ---
 Crime: More About Prevention than Detection
 ===========================================

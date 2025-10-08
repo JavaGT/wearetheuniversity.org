@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-learning-lessons-from-tragedy
-title: "Pansy Speak: Learning lessons from tragedy"
-date: 2006-04-21
-source-url: https://www.scoop.co.nz/stories/PA0604/S00337/pansy-speak-learning-lessons-from-tragedy.htm
+title: 'Pansy Speak: Learning lessons from tragedy'
+date: 2006-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00337/pansy-speak-learning-lessons-from-tragedy.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/21/pansy-speak-learning-lessons-from-tragedy/index.html
+layout: layout.njk
 ---
 Pansy Speak: Learning lessons from tragedy
 ==========================================

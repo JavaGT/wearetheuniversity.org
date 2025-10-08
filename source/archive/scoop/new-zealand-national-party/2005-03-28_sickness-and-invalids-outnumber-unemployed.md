@@ -1,9 +1,12 @@
 ---
 slug: sickness-and-invalids-outnumber-unemployed
-title: "Sickness And Invalids Outnumber Unemployed"
-date: 2005-03-28
-source-url: https://www.scoop.co.nz/stories/PA0503/S00524/sickness-and-invalids-outnumber-unemployed.htm
+title: Sickness And Invalids Outnumber Unemployed
+date: 2005-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00524/sickness-and-invalids-outnumber-unemployed.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/28/sickness-and-invalids-outnumber-unemployed/index.html
+layout: layout.njk
 ---
 Sickness And Invalids Outnumber Unemployed
 ==========================================

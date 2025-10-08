@@ -1,9 +1,12 @@
 ---
 slug: literacy-results-prove-worth-of-programmes
-title: "Literacy Results Prove Worth Of Programmes"
-date: 2008-04-14
-source-url: https://www.scoop.co.nz/stories/ED0804/S00036/literacy-results-prove-worth-of-programmes.htm
+title: Literacy Results Prove Worth Of Programmes
+date: 2008-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00036/literacy-results-prove-worth-of-programmes.htm
 author: nzei
+permalink: /archive/2008/04/14/literacy-results-prove-worth-of-programmes/index.html
+layout: layout.njk
 ---
 Literacy Results Prove Worth Of Programmes
 ==========================================

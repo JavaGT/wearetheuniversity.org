@@ -1,9 +1,13 @@
 ---
 slug: lack-of-action-from-conservation-minister-will-cost-jobs
-title: "Lack Of Action From Conservation Minister Will Cost Jobs"
-date: 2020-06-25
-source-url: https://www.scoop.co.nz/stories/PA2006/S00249/lack-of-action-from-conservation-minister-will-cost-jobs.htm
+title: Lack Of Action From Conservation Minister Will Cost Jobs
+date: 2020-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00249/lack-of-action-from-conservation-minister-will-cost-jobs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/25/lack-of-action-from-conservation-minister-will-cost-jobs/index.html
+layout: layout.njk
 ---
 Lack Of Action From Conservation Minister Will Cost Jobs
 ========================================================

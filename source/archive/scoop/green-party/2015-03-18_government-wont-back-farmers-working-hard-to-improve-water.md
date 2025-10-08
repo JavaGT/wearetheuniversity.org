@@ -1,9 +1,13 @@
 ---
 slug: government-wont-back-farmers-working-hard-to-improve-water
-title: "Government won’t back farmers working hard to improve water"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/PA1503/S00277/government-wont-back-farmers-working-hard-to-improve-water.htm
+title: Government won’t back farmers working hard to improve water
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00277/government-wont-back-farmers-working-hard-to-improve-water.htm
 author: green-party
+permalink: >-
+  /archive/2015/03/18/government-wont-back-farmers-working-hard-to-improve-water/index.html
+layout: layout.njk
 ---
 Government won’t back farmers working hard to improve water
 ===========================================================

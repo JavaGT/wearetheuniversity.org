@@ -1,9 +1,13 @@
 ---
 slug: canterbury-police-disappointed-at-drink-driving-levels
-title: "Canterbury Police disappointed at drink driving levels"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/AK1412/S00430/canterbury-police-disappointed-at-drink-driving-levels.htm
+title: Canterbury Police disappointed at drink driving levels
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1412/S00430/canterbury-police-disappointed-at-drink-driving-levels.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/15/canterbury-police-disappointed-at-drink-driving-levels/index.html
+layout: layout.njk
 ---
 Canterbury Police disappointed at drink driving levels
 ======================================================

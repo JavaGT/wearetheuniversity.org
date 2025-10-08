@@ -1,9 +1,13 @@
 ---
 slug: annual-toga-parade-disrupted-by-non-participants
-title: "Annual Toga Parade Disrupted by Non-Participants"
-date: 2009-02-25
-source-url: https://www.scoop.co.nz/stories/ED0902/S00088/annual-toga-parade-disrupted-by-non-participants.htm
+title: Annual Toga Parade Disrupted by Non-Participants
+date: 2009-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00088/annual-toga-parade-disrupted-by-non-participants.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2009/02/25/annual-toga-parade-disrupted-by-non-participants/index.html
+layout: layout.njk
 ---
 Annual Toga Parade Disrupted by Non-Participants
 ================================================

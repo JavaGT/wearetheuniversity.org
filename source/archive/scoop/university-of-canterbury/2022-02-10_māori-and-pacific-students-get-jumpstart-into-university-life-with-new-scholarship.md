@@ -1,9 +1,15 @@
 ---
-slug: māori-and-pacific-students-get-jumpstart-into-university-life-with-new-scholarship
-title: "Māori And Pacific Students Get \"jumpstart\" Into University Life With New Scholarship"
-date: 2022-02-10
-source-url: https://www.scoop.co.nz/stories/ED2202/S00017/maori-and-pacific-students-get-jumpstart-into-university-life-with-new-scholarship.htm
+slug: >-
+  māori-and-pacific-students-get-jumpstart-into-university-life-with-new-scholarship
+title: >-
+  Māori And Pacific Students Get "jumpstart" Into University Life With New
+  Scholarship
+date: 2022-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2202/S00017/maori-and-pacific-students-get-jumpstart-into-university-life-with-new-scholarship.htm
 author: university-of-canterbury
+permalink: /archive/2022/02/10/m/index.html
+layout: layout.njk
 ---
 Māori And Pacific Students Get “jumpstart” Into University Life With New Scholarship
 ====================================================================================

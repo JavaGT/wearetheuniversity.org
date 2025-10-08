@@ -1,9 +1,16 @@
 ---
-slug: the-sound-of-success-four-young-kiwi-musicians-share-their-talents-with-the-world
-title: "The Sound Of Success – Four Young Kiwi Musicians Share Their Talents With The World"
-date: 2023-10-17
-source-url: https://www.scoop.co.nz/stories/ED2310/S00020/the-sound-of-success-four-young-kiwi-musicians-share-their-talents-with-the-world.htm
+slug: >-
+  the-sound-of-success-four-young-kiwi-musicians-share-their-talents-with-the-world
+title: >-
+  The Sound Of Success – Four Young Kiwi Musicians Share Their Talents With The
+  World
+date: 2023-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2310/S00020/the-sound-of-success-four-young-kiwi-musicians-share-their-talents-with-the-world.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/10/17/the-sound-of-success-four-young-kiwi-musicians-share-their-talents-with-the-world/index.html
+layout: layout.njk
 ---
 The Sound Of Success – Four Young Kiwi Musicians Share Their Talents With The World
 ===================================================================================

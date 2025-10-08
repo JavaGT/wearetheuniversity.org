@@ -1,9 +1,13 @@
 ---
 slug: bright-future-for-tertiary-destination-in-christchurch
-title: "Bright future for tertiary destination in Christchurch"
-date: 2012-09-05
-source-url: https://www.scoop.co.nz/stories/ED1209/S00027/bright-future-for-tertiary-destination-in-christchurch.htm
+title: Bright future for tertiary destination in Christchurch
+date: 2012-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00027/bright-future-for-tertiary-destination-in-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/05/bright-future-for-tertiary-destination-in-christchurch/index.html
+layout: layout.njk
 ---
 Bright future for tertiary destination in Christchurch
 ======================================================

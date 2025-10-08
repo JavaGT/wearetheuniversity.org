@@ -1,9 +1,12 @@
 ---
 slug: tighter-controls-needed-on-foreign-investment
-title: "Tighter controls needed on foreign investment"
-date: 2005-04-07
-source-url: https://www.scoop.co.nz/stories/PA0504/S00145/tighter-controls-needed-on-foreign-investment.htm
+title: Tighter controls needed on foreign investment
+date: 2005-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00145/tighter-controls-needed-on-foreign-investment.htm
 author: green-party
+permalink: /archive/2005/04/07/tighter-controls-needed-on-foreign-investment/index.html
+layout: layout.njk
 ---
 Tighter controls needed on foreign investment
 =============================================

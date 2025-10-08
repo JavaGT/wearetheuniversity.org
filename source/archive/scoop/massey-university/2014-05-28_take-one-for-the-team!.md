@@ -1,9 +1,11 @@
 ---
 slug: take-one-for-the-team!
-title: "Take one for the team!"
-date: 2014-05-28
+title: Take one for the team!
+date: 2014-05-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1405/S00158/take-one-for-the-team.htm
 author: massey-university
+permalink: /archive/2014/05/28/take-one-for-the-team/index.html
+layout: layout.njk
 ---
 Take one for the team!
 ======================

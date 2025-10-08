@@ -1,9 +1,12 @@
 ---
 slug: ncea-drives-kids-from-education-system
-title: "NCEA Drives Kids From Education System"
-date: 2002-10-18
-source-url: https://www.scoop.co.nz/stories/PA0210/S00410/ncea-drives-kids-from-education-system.htm
+title: NCEA Drives Kids From Education System
+date: 2002-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00410/ncea-drives-kids-from-education-system.htm
 author: act-new-zealand
+permalink: /archive/2002/10/18/ncea-drives-kids-from-education-system/index.html
+layout: layout.njk
 ---
 NCEA Drives Kids From Education System
 ======================================

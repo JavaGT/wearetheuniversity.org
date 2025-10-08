@@ -1,9 +1,12 @@
 ---
 slug: labour-must-explain-dodgy-aussie-numbers
-title: "Labour must explain dodgy Aussie numbers"
-date: 2005-01-14
-source-url: https://www.scoop.co.nz/stories/PA0501/S00096/labour-must-explain-dodgy-aussie-numbers.htm
+title: Labour must explain dodgy Aussie numbers
+date: 2005-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00096/labour-must-explain-dodgy-aussie-numbers.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/14/labour-must-explain-dodgy-aussie-numbers/index.html
+layout: layout.njk
 ---
 Labour must explain dodgy Aussie numbers
 ========================================

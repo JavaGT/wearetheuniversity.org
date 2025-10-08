@@ -1,9 +1,13 @@
 ---
 slug: dairy-price-drop-means-landcorp-must-stop-dairy-conversions
-title: "Dairy price drop means Landcorp must stop dairy conversions"
-date: 2015-05-28
-source-url: https://www.scoop.co.nz/stories/PA1505/S00535/dairy-price-drop-means-landcorp-must-stop-dairy-conversions.htm
+title: Dairy price drop means Landcorp must stop dairy conversions
+date: 2015-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00535/dairy-price-drop-means-landcorp-must-stop-dairy-conversions.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/28/dairy-price-drop-means-landcorp-must-stop-dairy-conversions/index.html
+layout: layout.njk
 ---
 Dairy price drop means Landcorp must stop dairy conversions
 ===========================================================

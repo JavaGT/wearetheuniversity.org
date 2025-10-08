@@ -1,9 +1,12 @@
 ---
 slug: turia-climate-change-response-amendment-bill
-title: "Turia: Climate Change Response Amendment Bill"
-date: 2006-10-26
-source-url: https://www.scoop.co.nz/stories/PA0610/S00476/turia-climate-change-response-amendment-bill.htm
+title: 'Turia: Climate Change Response Amendment Bill'
+date: 2006-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00476/turia-climate-change-response-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/10/26/turia-climate-change-response-amendment-bill/index.html
+layout: layout.njk
 ---
 Turia: Climate Change Response Amendment Bill
 =============================================

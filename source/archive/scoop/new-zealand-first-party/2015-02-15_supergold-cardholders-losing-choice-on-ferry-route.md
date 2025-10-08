@@ -1,9 +1,13 @@
 ---
 slug: supergold-cardholders-losing-choice-on-ferry-route
-title: "Supergold Cardholders Losing Choice on Ferry Route"
-date: 2015-02-15
-source-url: https://www.scoop.co.nz/stories/PA1502/S00151/supergold-cardholders-losing-choice-on-ferry-route.htm
+title: Supergold Cardholders Losing Choice on Ferry Route
+date: 2015-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00151/supergold-cardholders-losing-choice-on-ferry-route.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/02/15/supergold-cardholders-losing-choice-on-ferry-route/index.html
+layout: layout.njk
 ---
 Supergold Cardholders Losing Choice on Ferry Route
 ==================================================

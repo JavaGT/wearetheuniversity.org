@@ -1,9 +1,16 @@
 ---
-slug: greens-partner-with-student-unions-to-launch-peoples-inquiry-into-student-wellbeing
-title: "Greens Partner With Student Unions To Launch People’s Inquiry Into Student Wellbeing"
-date: 2022-04-12
-source-url: https://www.scoop.co.nz/stories/PA2204/S00087/greens-partner-with-student-unions-to-launch-peoples-inquiry-into-student-wellbeing.htm
+slug: >-
+  greens-partner-with-student-unions-to-launch-peoples-inquiry-into-student-wellbeing
+title: >-
+  Greens Partner With Student Unions To Launch People’s Inquiry Into Student
+  Wellbeing
+date: 2022-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00087/greens-partner-with-student-unions-to-launch-peoples-inquiry-into-student-wellbeing.htm
 author: green-party
+permalink: >-
+  /archive/2022/04/12/greens-partner-with-student-unions-to-launch-peoples-inquiry-into-student-wellbeing/index.html
+layout: layout.njk
 ---
 Greens Partner With Student Unions To Launch People’s Inquiry Into Student Wellbeing
 ====================================================================================

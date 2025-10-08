@@ -1,9 +1,13 @@
 ---
 slug: cultural-amnesia-the-price-of-lost-perspectives-in-nz
-title: "Cultural amnesia – the price of lost perspectives in NZ"
-date: 2018-09-24
-source-url: https://www.scoop.co.nz/stories/CU1809/S00298/cultural-amnesia-the-price-of-lost-perspectives-in-nz.htm
+title: Cultural amnesia – the price of lost perspectives in NZ
+date: 2018-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1809/S00298/cultural-amnesia-the-price-of-lost-perspectives-in-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/09/24/cultural-amnesia-the-price-of-lost-perspectives-in-nz/index.html
+layout: layout.njk
 ---
 Cultural amnesia – the price of lost perspectives in NZ
 =======================================================

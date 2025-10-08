@@ -1,9 +1,12 @@
 ---
 slug: staff-and-students-unite-to-seek-answers
-title: "Staff And Students Unite To Seek Answers"
-date: 2002-04-19
-source-url: https://www.scoop.co.nz/stories/ED0204/S00030/staff-and-students-unite-to-seek-answers.htm
+title: Staff And Students Unite To Seek Answers
+date: 2002-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00030/staff-and-students-unite-to-seek-answers.htm
 author: association-of-university-staff
+permalink: /archive/2002/04/19/staff-and-students-unite-to-seek-answers/index.html
+layout: layout.njk
 ---
 Staff And Students Unite To Seek Answers
 ========================================

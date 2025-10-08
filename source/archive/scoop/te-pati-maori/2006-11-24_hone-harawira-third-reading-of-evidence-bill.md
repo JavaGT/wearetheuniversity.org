@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-third-reading-of-evidence-bill
-title: "Hone Harawira - Third Reading Of Evidence Bill"
-date: 2006-11-24
-source-url: https://www.scoop.co.nz/stories/PA0611/S00472/hone-harawira-third-reading-of-evidence-bill.htm
+title: Hone Harawira - Third Reading Of Evidence Bill
+date: 2006-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00472/hone-harawira-third-reading-of-evidence-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/11/24/hone-harawira-third-reading-of-evidence-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira - Third Reading Of Evidence Bill
 ==============================================

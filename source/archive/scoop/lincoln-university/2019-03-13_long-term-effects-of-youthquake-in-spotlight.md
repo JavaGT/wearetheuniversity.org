@@ -1,9 +1,12 @@
 ---
 slug: long-term-effects-of-youthquake-in-spotlight
-title: "Long-term effects of ‘youthquake’ in spotlight"
-date: 2019-03-13
-source-url: https://www.scoop.co.nz/stories/AK1903/S00340/long-term-effects-of-youthquake-in-spotlight.htm
+title: Long-term effects of ‘youthquake’ in spotlight
+date: 2019-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1903/S00340/long-term-effects-of-youthquake-in-spotlight.htm
 author: lincoln-university
+permalink: /archive/2019/03/13/long-term-effects-of-youthquake-in-spotlight/index.html
+layout: layout.njk
 ---
 Long-term effects of ‘youthquake’ in spotlight
 ==============================================

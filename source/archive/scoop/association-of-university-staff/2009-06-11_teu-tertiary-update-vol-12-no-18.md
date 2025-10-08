@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-12-no-18
-title: "TEU Tertiary Update Vol 12 No 18"
-date: 2009-06-11
-source-url: https://www.scoop.co.nz/stories/ED0906/S00033/teu-tertiary-update-vol-12-no-18.htm
+title: TEU Tertiary Update Vol 12 No 18
+date: 2009-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00033/teu-tertiary-update-vol-12-no-18.htm
 author: association-of-university-staff
+permalink: /archive/2009/06/11/teu-tertiary-update-vol-12-no-18/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 12 No 18
 ================================

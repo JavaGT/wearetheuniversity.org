@@ -1,9 +1,13 @@
 ---
 slug: budget-announcements-great-news-for-hunua-residents
-title: "Budget announcements great news for Hunua residents"
-date: 2014-05-19
-source-url: https://www.scoop.co.nz/stories/PO1405/S00319/budget-announcements-great-news-for-hunua-residents.htm
+title: Budget announcements great news for Hunua residents
+date: 2014-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00319/budget-announcements-great-news-for-hunua-residents.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/05/19/budget-announcements-great-news-for-hunua-residents/index.html
+layout: layout.njk
 ---
 Budget announcements great news for Hunua residents
 ===================================================

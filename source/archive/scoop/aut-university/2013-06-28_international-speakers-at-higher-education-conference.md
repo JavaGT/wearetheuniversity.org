@@ -1,9 +1,13 @@
 ---
 slug: international-speakers-at-higher-education-conference
-title: "International speakers at higher education conference"
-date: 2013-06-28
-source-url: https://www.scoop.co.nz/stories/ED1306/S00157/international-speakers-at-higher-education-conference.htm
+title: International speakers at higher education conference
+date: 2013-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00157/international-speakers-at-higher-education-conference.htm
 author: aut-university
+permalink: >-
+  /archive/2013/06/28/international-speakers-at-higher-education-conference/index.html
+layout: layout.njk
 ---
 International speakers at higher education conference
 =====================================================

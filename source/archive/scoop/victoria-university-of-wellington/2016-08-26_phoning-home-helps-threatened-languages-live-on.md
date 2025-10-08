@@ -1,9 +1,12 @@
 ---
 slug: phoning-home-helps-threatened-languages-live-on
-title: "Phoning home helps threatened languages live on"
-date: 2016-08-26
-source-url: https://www.scoop.co.nz/stories/ED1608/S00107/phoning-home-helps-threatened-languages-live-on.htm
+title: Phoning home helps threatened languages live on
+date: 2016-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00107/phoning-home-helps-threatened-languages-live-on.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/08/26/phoning-home-helps-threatened-languages-live-on/index.html
+layout: layout.njk
 ---
 Phoning home helps threatened languages live on
 ===============================================

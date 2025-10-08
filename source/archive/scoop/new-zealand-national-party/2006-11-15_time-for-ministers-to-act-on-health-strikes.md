@@ -1,9 +1,12 @@
 ---
 slug: time-for-ministers-to-act-on-health-strikes
-title: "Time for ministers to act on health strikes"
-date: 2006-11-15
-source-url: https://www.scoop.co.nz/stories/PA0611/S00287/time-for-ministers-to-act-on-health-strikes.htm
+title: Time for ministers to act on health strikes
+date: 2006-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00287/time-for-ministers-to-act-on-health-strikes.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/15/time-for-ministers-to-act-on-health-strikes/index.html
+layout: layout.njk
 ---
 Time for ministers to act on health strikes
 ===========================================

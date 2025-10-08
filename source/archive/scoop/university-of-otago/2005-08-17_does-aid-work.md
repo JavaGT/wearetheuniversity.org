@@ -1,9 +1,11 @@
 ---
 slug: does-aid-work
-title: "Does Aid Work?"
-date: 2005-08-17
+title: Does Aid Work?
+date: 2005-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0508/S00080/does-aid-work.htm
 author: university-of-otago
+permalink: /archive/2005/08/17/does-aid-work/index.html
+layout: layout.njk
 ---
 Does Aid Work?
 ==============

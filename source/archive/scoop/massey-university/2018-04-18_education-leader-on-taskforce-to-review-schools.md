@@ -1,9 +1,12 @@
 ---
 slug: education-leader-on-taskforce-to-review-schools
-title: "Education leader on taskforce to review schools"
-date: 2018-04-18
-source-url: https://www.scoop.co.nz/stories/ED1804/S00043/education-leader-on-taskforce-to-review-schools.htm
+title: Education leader on taskforce to review schools
+date: 2018-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00043/education-leader-on-taskforce-to-review-schools.htm
 author: massey-university
+permalink: /archive/2018/04/18/education-leader-on-taskforce-to-review-schools/index.html
+layout: layout.njk
 ---
 Education leader on taskforce to review schools
 ===============================================

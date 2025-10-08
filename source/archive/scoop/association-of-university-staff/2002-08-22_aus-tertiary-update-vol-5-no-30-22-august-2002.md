@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-30-22-august-2002
-title: "AUS Tertiary Update Vol. 5 No.30, 22 August 2002"
-date: 2002-08-22
-source-url: https://www.scoop.co.nz/stories/ED0208/S00030/aus-tertiary-update-vol-5-no30-22-august-2002.htm
+title: AUS Tertiary Update Vol. 5 No.30, 22 August 2002
+date: 2002-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00030/aus-tertiary-update-vol-5-no30-22-august-2002.htm
 author: association-of-university-staff
+permalink: /archive/2002/08/22/aus-tertiary-update-vol-5-no-30-22-august-2002/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No.30, 22 August 2002
 ================================================

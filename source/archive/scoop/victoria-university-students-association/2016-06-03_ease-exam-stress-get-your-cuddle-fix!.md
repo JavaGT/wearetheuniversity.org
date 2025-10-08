@@ -1,9 +1,12 @@
 ---
 slug: ease-exam-stress-get-your-cuddle-fix!
-title: "Ease exam stress – get your cuddle fix!"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/ED1606/S00014/ease-exam-stress-get-your-cuddle-fix.htm
+title: Ease exam stress – get your cuddle fix!
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00014/ease-exam-stress-get-your-cuddle-fix.htm
 author: victoria-university-students-association
+permalink: /archive/2016/06/03/ease-exam-stress-get-your-cuddle-fix/index.html
+layout: layout.njk
 ---
 Ease exam stress – get your cuddle fix!
 =======================================

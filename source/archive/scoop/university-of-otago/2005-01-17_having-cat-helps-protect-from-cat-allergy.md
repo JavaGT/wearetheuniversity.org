@@ -1,9 +1,12 @@
 ---
 slug: having-cat-helps-protect-from-cat-allergy
-title: "Having Cat Helps Protect From Cat Allergy"
-date: 2005-01-17
-source-url: https://www.scoop.co.nz/stories/ED0501/S00026/having-cat-helps-protect-from-cat-allergy.htm
+title: Having Cat Helps Protect From Cat Allergy
+date: 2005-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00026/having-cat-helps-protect-from-cat-allergy.htm
 author: university-of-otago
+permalink: /archive/2005/01/17/having-cat-helps-protect-from-cat-allergy/index.html
+layout: layout.njk
 ---
 Having Cat Helps Protect From Cat Allergy
 =========================================

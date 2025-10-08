@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-speech-to-the-dairy-farmers-agm
-title: "Fitzsimons - Speech to the Dairy Farmers AGM"
-date: 2005-06-08
-source-url: https://www.scoop.co.nz/stories/PA0506/S00139/fitzsimons-speech-to-the-dairy-farmers-agm.htm
+title: Fitzsimons - Speech to the Dairy Farmers AGM
+date: 2005-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00139/fitzsimons-speech-to-the-dairy-farmers-agm.htm
 author: green-party
+permalink: /archive/2005/06/08/fitzsimons-speech-to-the-dairy-farmers-agm/index.html
+layout: layout.njk
 ---
 Fitzsimons - Speech to the Dairy Farmers AGM
 ============================================

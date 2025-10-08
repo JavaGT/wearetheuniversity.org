@@ -1,9 +1,12 @@
 ---
 slug: james-shaw-adjournment-speech
-title: "James Shaw Adjournment Speech"
-date: 2020-08-06
-source-url: https://www.scoop.co.nz/stories/PA2008/S00068/james-shaw-adjournment-speech.htm
+title: James Shaw Adjournment Speech
+date: 2020-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00068/james-shaw-adjournment-speech.htm
 author: green-party
+permalink: /archive/2020/08/06/james-shaw-adjournment-speech/index.html
+layout: layout.njk
 ---
 James Shaw Adjournment Speech
 =============================

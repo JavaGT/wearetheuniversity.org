@@ -1,9 +1,12 @@
 ---
 slug: flavell-maori-teachers-conference-2006
-title: "Flavell - Maori Teachers' Conference 2006"
-date: 2006-07-04
-source-url: https://www.scoop.co.nz/stories/PA0607/S00033/flavell-maori-teachers-conference-2006.htm
+title: Flavell - Maori Teachers' Conference 2006
+date: 2006-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00033/flavell-maori-teachers-conference-2006.htm
 author: te-pati-maori
+permalink: /archive/2006/07/04/flavell-maori-teachers-conference-2006/index.html
+layout: layout.njk
 ---
 Flavell - Maori Teachers' Conference 2006
 =========================================

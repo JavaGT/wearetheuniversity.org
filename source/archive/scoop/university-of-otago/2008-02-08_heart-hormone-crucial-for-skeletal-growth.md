@@ -1,9 +1,12 @@
 ---
 slug: heart-hormone-crucial-for-skeletal-growth
-title: "Heart hormone crucial for skeletal growth"
-date: 2008-02-08
-source-url: https://www.scoop.co.nz/stories/GE0802/S00022/heart-hormone-crucial-for-skeletal-growth.htm
+title: Heart hormone crucial for skeletal growth
+date: 2008-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0802/S00022/heart-hormone-crucial-for-skeletal-growth.htm
 author: university-of-otago
+permalink: /archive/2008/02/08/heart-hormone-crucial-for-skeletal-growth/index.html
+layout: layout.njk
 ---
 Heart hormone crucial for skeletal growth
 =========================================

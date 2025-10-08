@@ -1,9 +1,12 @@
 ---
 slug: push-to-make-cycling-a-way-of-life
-title: "Push to make cycling a way of life"
-date: 2016-04-13
-source-url: https://www.scoop.co.nz/stories/GE1604/S00041/push-to-make-cycling-a-way-of-life.htm
+title: Push to make cycling a way of life
+date: 2016-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1604/S00041/push-to-make-cycling-a-way-of-life.htm
 author: lincoln-university
+permalink: /archive/2016/04/13/push-to-make-cycling-a-way-of-life/index.html
+layout: layout.njk
 ---
 Push to make cycling a way of life
 ==================================

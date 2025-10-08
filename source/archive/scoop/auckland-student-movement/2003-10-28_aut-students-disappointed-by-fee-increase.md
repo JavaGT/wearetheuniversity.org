@@ -1,9 +1,12 @@
 ---
 slug: aut-students-disappointed-by-fee-increase
-title: "AUT Students Disappointed By Fee Increase"
-date: 2003-10-28
-source-url: https://www.scoop.co.nz/stories/ED0310/S00108/aut-students-disappointed-by-fee-increase.htm
+title: AUT Students Disappointed By Fee Increase
+date: 2003-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00108/aut-students-disappointed-by-fee-increase.htm
 author: auckland-student-movement
+permalink: /archive/2003/10/28/aut-students-disappointed-by-fee-increase/index.html
+layout: layout.njk
 ---
 AUT Students Disappointed By Fee Increase
 =========================================

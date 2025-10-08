@@ -1,9 +1,11 @@
 ---
 slug: nzqa-fails-its-own-test
-title: "NZQA fails its own test"
-date: 2006-05-10
+title: NZQA fails its own test
+date: 2006-05-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00233/nzqa-fails-its-own-test.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/10/nzqa-fails-its-own-test/index.html
+layout: layout.njk
 ---
 NZQA fails its own test
 =======================

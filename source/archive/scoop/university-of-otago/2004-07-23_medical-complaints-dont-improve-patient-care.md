@@ -1,9 +1,12 @@
 ---
 slug: medical-complaints-dont-improve-patient-care
-title: "Medical Complaints Don’t Improve Patient Care"
-date: 2004-07-23
-source-url: https://www.scoop.co.nz/stories/GE0407/S00068/medical-complaints-dont-improve-patient-care.htm
+title: Medical Complaints Don’t Improve Patient Care
+date: 2004-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0407/S00068/medical-complaints-dont-improve-patient-care.htm
 author: university-of-otago
+permalink: /archive/2004/07/23/medical-complaints-dont-improve-patient-care/index.html
+layout: layout.njk
 ---
 Medical Complaints Don’t Improve Patient Care
 =============================================

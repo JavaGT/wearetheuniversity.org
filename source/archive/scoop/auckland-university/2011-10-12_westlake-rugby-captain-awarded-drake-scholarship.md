@@ -1,9 +1,13 @@
 ---
 slug: westlake-rugby-captain-awarded-drake-scholarship
-title: "Westlake Rugby Captain Awarded Drake Scholarship"
-date: 2011-10-12
-source-url: https://www.scoop.co.nz/stories/ED1110/S00044/westlake-rugby-captain-awarded-drake-scholarship.htm
+title: Westlake Rugby Captain Awarded Drake Scholarship
+date: 2011-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00044/westlake-rugby-captain-awarded-drake-scholarship.htm
 author: auckland-university
+permalink: >-
+  /archive/2011/10/12/westlake-rugby-captain-awarded-drake-scholarship/index.html
+layout: layout.njk
 ---
 Westlake Rugby Captain Awarded Drake Scholarship
 ================================================

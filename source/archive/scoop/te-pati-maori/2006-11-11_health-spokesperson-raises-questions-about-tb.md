@@ -1,9 +1,12 @@
 ---
 slug: health-spokesperson-raises-questions-about-tb
-title: "Health Spokesperson Raises Questions About TB"
-date: 2006-11-11
-source-url: https://www.scoop.co.nz/stories/PA0611/S00212/health-spokesperson-raises-questions-about-tb.htm
+title: Health Spokesperson Raises Questions About TB
+date: 2006-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00212/health-spokesperson-raises-questions-about-tb.htm
 author: te-pati-maori
+permalink: /archive/2006/11/11/health-spokesperson-raises-questions-about-tb/index.html
+layout: layout.njk
 ---
 Health Spokesperson Raises Questions About TB
 =============================================

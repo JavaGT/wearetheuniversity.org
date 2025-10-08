@@ -1,9 +1,13 @@
 ---
 slug: early-detection-key-to-avoiding-large-ebola-outbreaks
-title: "Early detection key to avoiding large Ebola outbreaks"
-date: 2014-09-29
-source-url: https://www.scoop.co.nz/stories/GE1409/S00127/early-detection-key-to-avoiding-large-ebola-outbreaks.htm
+title: Early detection key to avoiding large Ebola outbreaks
+date: 2014-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1409/S00127/early-detection-key-to-avoiding-large-ebola-outbreaks.htm
 author: massey-university
+permalink: >-
+  /archive/2014/09/29/early-detection-key-to-avoiding-large-ebola-outbreaks/index.html
+layout: layout.njk
 ---
 Early detection key to avoiding large Ebola outbreaks
 =====================================================

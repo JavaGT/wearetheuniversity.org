@@ -1,9 +1,13 @@
 ---
 slug: kiwis-should-be-outraged-welsh-beach-better-than-any-in-nz
-title: "Kiwis Should Be Outraged Welsh Beach Better Than Any In NZ"
-date: 2013-03-07
-source-url: https://www.scoop.co.nz/stories/ED1303/S00037/kiwis-should-be-outraged-welsh-beach-better-than-any-in-nz.htm
+title: Kiwis Should Be Outraged Welsh Beach Better Than Any In NZ
+date: 2013-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00037/kiwis-should-be-outraged-welsh-beach-better-than-any-in-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/07/kiwis-should-be-outraged-welsh-beach-better-than-any-in-nz/index.html
+layout: layout.njk
 ---
 Kiwis Should Be Outraged Welsh Beach Better Than Any In NZ
 ==========================================================

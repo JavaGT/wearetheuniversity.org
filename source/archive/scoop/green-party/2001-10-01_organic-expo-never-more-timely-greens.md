@@ -1,9 +1,12 @@
 ---
 slug: organic-expo-never-more-timely-greens
-title: "Organic Expo Never More Timely - Greens"
-date: 2001-10-01
-source-url: https://www.scoop.co.nz/stories/PA0110/S00021/organic-expo-never-more-timely-greens.htm
+title: Organic Expo Never More Timely - Greens
+date: 2001-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00021/organic-expo-never-more-timely-greens.htm
 author: green-party
+permalink: /archive/2001/10/01/organic-expo-never-more-timely-greens/index.html
+layout: layout.njk
 ---
 Organic Expo Never More Timely - Greens
 =======================================

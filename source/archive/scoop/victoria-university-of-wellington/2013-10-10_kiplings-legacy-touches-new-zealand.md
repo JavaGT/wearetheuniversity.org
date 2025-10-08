@@ -1,9 +1,12 @@
 ---
 slug: kiplings-legacy-touches-new-zealand
-title: "Kipling’s legacy touches New Zealand"
-date: 2013-10-10
-source-url: https://www.scoop.co.nz/stories/CU1310/S00182/kiplings-legacy-touches-new-zealand.htm
+title: Kipling’s legacy touches New Zealand
+date: 2013-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00182/kiplings-legacy-touches-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/10/10/kiplings-legacy-touches-new-zealand/index.html
+layout: layout.njk
 ---
 Kipling’s legacy touches New Zealand
 ====================================

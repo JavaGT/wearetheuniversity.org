@@ -1,9 +1,12 @@
 ---
 slug: presidents-win-university-council-positions
-title: "Presidents Win University Council Positions"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/ED1210/S00069/presidents-win-university-council-positions.htm
+title: Presidents Win University Council Positions
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00069/presidents-win-university-council-positions.htm
 author: ousa
+permalink: /archive/2012/10/10/presidents-win-university-council-positions/index.html
+layout: layout.njk
 ---
 Presidents Win University Council Positions
 ===========================================

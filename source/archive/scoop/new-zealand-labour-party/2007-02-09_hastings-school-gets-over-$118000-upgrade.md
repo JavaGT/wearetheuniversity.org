@@ -1,9 +1,12 @@
 ---
 slug: hastings-school-gets-over-$118000-upgrade
-title: "Hastings school gets over $118,000 upgrade"
-date: 2007-02-09
-source-url: https://www.scoop.co.nz/stories/PA0702/S00121/hastings-school-gets-over-118000-upgrade.htm
+title: Hastings school gets over $118,000 upgrade
+date: 2007-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00121/hastings-school-gets-over-118000-upgrade.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/02/09/hastings-school-gets-over-/index.html
+layout: layout.njk
 ---
 Hastings school gets over $118,000 upgrade
 ==========================================

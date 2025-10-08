@@ -1,9 +1,12 @@
 ---
 slug: student-health-exempt-from-fee-freeze
-title: "Student Health Exempt From Fee Freeze"
-date: 2001-08-06
-source-url: https://www.scoop.co.nz/stories/ED0108/S00018/student-health-exempt-from-fee-freeze.htm
+title: Student Health Exempt From Fee Freeze
+date: 2001-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00018/student-health-exempt-from-fee-freeze.htm
 author: otago-university-students-association
+permalink: /archive/2001/08/06/student-health-exempt-from-fee-freeze/index.html
+layout: layout.njk
 ---
 Student Health Exempt From Fee Freeze
 =====================================

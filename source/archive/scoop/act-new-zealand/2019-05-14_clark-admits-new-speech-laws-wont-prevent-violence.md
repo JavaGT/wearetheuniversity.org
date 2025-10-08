@@ -1,9 +1,13 @@
 ---
 slug: clark-admits-new-speech-laws-wont-prevent-violence
-title: "Clark admits new speech laws won’t prevent violence"
-date: 2019-05-14
-source-url: https://www.scoop.co.nz/stories/PA1905/S00138/clark-admits-new-speech-laws-wont-prevent-violence.htm
+title: Clark admits new speech laws won’t prevent violence
+date: 2019-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00138/clark-admits-new-speech-laws-wont-prevent-violence.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/05/14/clark-admits-new-speech-laws-wont-prevent-violence/index.html
+layout: layout.njk
 ---
 Clark admits new speech laws won’t prevent violence
 ===================================================

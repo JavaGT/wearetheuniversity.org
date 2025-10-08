@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-appoints-chief-operating-officer
-title: "Waikato Uni appoints Chief Operating Officer"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/ED0311/S00030/waikato-uni-appoints-chief-operating-officer.htm
+title: Waikato Uni appoints Chief Operating Officer
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00030/waikato-uni-appoints-chief-operating-officer.htm
 author: waikato-university
+permalink: /archive/2003/11/10/waikato-uni-appoints-chief-operating-officer/index.html
+layout: layout.njk
 ---
 Waikato Uni appoints Chief Operating Officer
 ============================================

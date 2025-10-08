@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-court-decision-in-rankin-case
-title: "Greens Welcome Court Decision In Rankin Case"
-date: 2001-08-02
-source-url: https://www.scoop.co.nz/stories/PA0108/S00065/greens-welcome-court-decision-in-rankin-case.htm
+title: Greens Welcome Court Decision In Rankin Case
+date: 2001-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00065/greens-welcome-court-decision-in-rankin-case.htm
 author: green-party
+permalink: /archive/2001/08/02/greens-welcome-court-decision-in-rankin-case/index.html
+layout: layout.njk
 ---
 Greens Welcome Court Decision In Rankin Case
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-to-invest-$4-billion-in-education
-title: "Labour to invest $4 billion in education"
-date: 2017-07-21
-source-url: https://www.scoop.co.nz/stories/PA1707/S00322/labour-to-invest-4-billion-in-education.htm
+title: Labour to invest $4 billion in education
+date: 2017-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00322/labour-to-invest-4-billion-in-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/21/labour-to-invest-/index.html
+layout: layout.njk
 ---
 Labour to invest $4 billion in education
 ========================================

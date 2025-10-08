@@ -1,9 +1,11 @@
 ---
 slug: sharples-notices-of-motion
-title: "Sharples: Notices of Motion"
-date: 2008-04-15
+title: 'Sharples: Notices of Motion'
+date: 2008-04-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0804/S00375/sharples-notices-of-motion.htm
 author: te-pati-maori
+permalink: /archive/2008/04/15/sharples-notices-of-motion/index.html
+layout: layout.njk
 ---
 Sharples: Notices of Motion
 ===========================

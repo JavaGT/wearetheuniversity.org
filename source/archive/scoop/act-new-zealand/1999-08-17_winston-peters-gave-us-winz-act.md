@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-gave-us-winz-act
-title: "Winston Peters gave us WINZ - ACT"
-date: 1999-08-17
-source-url: https://www.scoop.co.nz/stories/PA9908/S00284/winston-peters-gave-us-winz-act.htm
+title: Winston Peters gave us WINZ - ACT
+date: 1999-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00284/winston-peters-gave-us-winz-act.htm
 author: act-new-zealand
+permalink: /archive/1999/08/17/winston-peters-gave-us-winz-act/index.html
+layout: layout.njk
 ---
 Winston Peters gave us WINZ - ACT
 =================================

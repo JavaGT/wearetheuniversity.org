@@ -1,9 +1,12 @@
 ---
 slug: society-congratulates-schools-debating-team
-title: "Society congratulates Schools Debating Team"
-date: 2009-02-27
-source-url: https://www.scoop.co.nz/stories/CU0902/S00467/society-congratulates-schools-debating-team.htm
+title: Society congratulates Schools Debating Team
+date: 2009-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0902/S00467/society-congratulates-schools-debating-team.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/02/27/society-congratulates-schools-debating-team/index.html
+layout: layout.njk
 ---
 Society congratulates Schools Debating Team
 ===========================================

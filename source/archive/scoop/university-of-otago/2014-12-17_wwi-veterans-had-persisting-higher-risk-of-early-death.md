@@ -1,9 +1,13 @@
 ---
 slug: wwi-veterans-had-persisting-higher-risk-of-early-death
-title: "WWI veterans had persisting higher risk of early death"
-date: 2014-12-17
-source-url: https://www.scoop.co.nz/stories/PO1412/S00214/wwi-veterans-had-persisting-higher-risk-of-early-death.htm
+title: WWI veterans had persisting higher risk of early death
+date: 2014-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00214/wwi-veterans-had-persisting-higher-risk-of-early-death.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/12/17/wwi-veterans-had-persisting-higher-risk-of-early-death/index.html
+layout: layout.njk
 ---
 WWI veterans had persisting higher risk of early death
 ======================================================

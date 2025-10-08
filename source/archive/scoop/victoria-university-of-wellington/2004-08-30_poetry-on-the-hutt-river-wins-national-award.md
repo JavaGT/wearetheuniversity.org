@@ -1,9 +1,12 @@
 ---
 slug: poetry-on-the-hutt-river-wins-national-award
-title: "Poetry on the Hutt River wins national award"
-date: 2004-08-30
-source-url: https://www.scoop.co.nz/stories/ED0408/S00127/poetry-on-the-hutt-river-wins-national-award.htm
+title: Poetry on the Hutt River wins national award
+date: 2004-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00127/poetry-on-the-hutt-river-wins-national-award.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/30/poetry-on-the-hutt-river-wins-national-award/index.html
+layout: layout.njk
 ---
 Poetry on the Hutt River wins national award
 ============================================

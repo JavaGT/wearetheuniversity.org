@@ -1,9 +1,12 @@
 ---
 slug: student-hub-wins-nz-interior-award
-title: "Student hub wins NZ Interior Award"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/ED1406/S00150/student-hub-wins-nz-interior-award.htm
+title: Student hub wins NZ Interior Award
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00150/student-hub-wins-nz-interior-award.htm
 author: university-of-canterbury
+permalink: /archive/2014/06/27/student-hub-wins-nz-interior-award/index.html
+layout: layout.njk
 ---
 Student hub wins NZ Interior Award
 ==================================

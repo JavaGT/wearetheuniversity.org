@@ -1,9 +1,13 @@
 ---
 slug: new-business-book-provides-keys-to-growth-for-smes
-title: "New Business Book Provides Keys to Growth for SMEs"
-date: 2009-09-30
-source-url: https://www.scoop.co.nz/stories/BU0909/S00772/new-business-book-provides-keys-to-growth-for-smes.htm
+title: New Business Book Provides Keys to Growth for SMEs
+date: 2009-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0909/S00772/new-business-book-provides-keys-to-growth-for-smes.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2009/09/30/new-business-book-provides-keys-to-growth-for-smes/index.html
+layout: layout.njk
 ---
 New Business Book Provides Keys to Growth for SMEs
 ==================================================

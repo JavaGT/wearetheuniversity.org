@@ -1,9 +1,12 @@
 ---
 slug: creative-industry-a-seminar-series
-title: "Creative Industry: A Seminar Series"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/ED0508/S00118/creative-industry-a-seminar-series.htm
+title: 'Creative Industry: A Seminar Series'
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00118/creative-industry-a-seminar-series.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/08/30/creative-industry-a-seminar-series/index.html
+layout: layout.njk
 ---
 Creative Industry: A Seminar Series
 ===================================

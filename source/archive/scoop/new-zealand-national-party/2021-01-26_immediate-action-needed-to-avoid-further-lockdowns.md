@@ -1,9 +1,13 @@
 ---
 slug: immediate-action-needed-to-avoid-further-lockdowns
-title: "Immediate Action Needed To Avoid Further Lockdowns"
-date: 2021-01-26
-source-url: https://www.scoop.co.nz/stories/PA2101/S00067/immediate-action-needed-to-avoid-further-lockdowns.htm
+title: Immediate Action Needed To Avoid Further Lockdowns
+date: 2021-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00067/immediate-action-needed-to-avoid-further-lockdowns.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/01/26/immediate-action-needed-to-avoid-further-lockdowns/index.html
+layout: layout.njk
 ---
 Immediate Action Needed To Avoid Further Lockdowns
 ==================================================

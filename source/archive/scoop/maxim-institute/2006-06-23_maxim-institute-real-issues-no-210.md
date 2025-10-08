@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-210
-title: "Maxim Institute - real issues - No 210"
-date: 2006-06-23
-source-url: https://www.scoop.co.nz/stories/PO0606/S00231/maxim-institute-real-issues-no-210.htm
+title: Maxim Institute - real issues - No 210
+date: 2006-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0606/S00231/maxim-institute-real-issues-no-210.htm
 author: maxim-institute
+permalink: /archive/2006/06/23/maxim-institute-real-issues-no-210/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No 210
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: alternative-medicine-users-needed-for-study
-title: "Alternative medicine users needed for study"
-date: 2010-11-30
-source-url: https://www.scoop.co.nz/stories/GE1011/S00167/alternative-medicine-users-needed-for-study.htm
+title: Alternative medicine users needed for study
+date: 2010-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1011/S00167/alternative-medicine-users-needed-for-study.htm
 author: massey-university
+permalink: /archive/2010/11/30/alternative-medicine-users-needed-for-study/index.html
+layout: layout.njk
 ---
 Alternative medicine users needed for study
 ===========================================

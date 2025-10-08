@@ -1,9 +1,12 @@
 ---
 slug: stand-by-for-more-dumb-ineffectual-taxes
-title: "Stand By For More Dumb, Ineffectual Taxes"
-date: 2021-03-19
-source-url: https://www.scoop.co.nz/stories/PA2103/S00144/stand-by-for-more-dumb-ineffectual-taxes.htm
+title: Stand By For More Dumb, Ineffectual Taxes
+date: 2021-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00144/stand-by-for-more-dumb-ineffectual-taxes.htm
 author: act-new-zealand
+permalink: /archive/2021/03/19/stand-by-for-more-dumb-ineffectual-taxes/index.html
+layout: layout.njk
 ---
 Stand By For More Dumb, Ineffectual Taxes
 =========================================

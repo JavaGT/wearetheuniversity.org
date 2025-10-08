@@ -1,9 +1,12 @@
 ---
 slug: yet-another-corrections-failure-under-davis
-title: "Yet Another Corrections Failure Under Davis"
-date: 2020-02-26
-source-url: https://www.scoop.co.nz/stories/PA2002/S00171/yet-another-corrections-failure-under-davis.htm
+title: Yet Another Corrections Failure Under Davis
+date: 2020-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00171/yet-another-corrections-failure-under-davis.htm
 author: new-zealand-national-party
+permalink: /archive/2020/02/26/yet-another-corrections-failure-under-davis/index.html
+layout: layout.njk
 ---
 Yet Another Corrections Failure Under Davis
 ===========================================

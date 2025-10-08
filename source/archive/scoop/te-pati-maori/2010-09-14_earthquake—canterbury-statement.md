@@ -1,9 +1,12 @@
 ---
 slug: earthquake—canterbury-statement
-title: "Earthquake—Canterbury Statement"
-date: 2010-09-14
-source-url: https://www.scoop.co.nz/stories/PA1009/S00221/earthquake-canterbury-statement.htm
+title: Earthquake—Canterbury Statement
+date: 2010-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00221/earthquake-canterbury-statement.htm
 author: te-pati-maori
+permalink: /archive/2010/09/14/earthquake/index.html
+layout: layout.njk
 ---
 Earthquake—Canterbury Statement
 ===============================

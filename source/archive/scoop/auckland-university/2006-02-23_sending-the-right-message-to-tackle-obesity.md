@@ -1,9 +1,12 @@
 ---
 slug: sending-the-right-message-to-tackle-obesity
-title: "Sending The Right Message To Tackle Obesity"
-date: 2006-02-23
-source-url: https://www.scoop.co.nz/stories/ED0602/S00067/sending-the-right-message-to-tackle-obesity.htm
+title: Sending The Right Message To Tackle Obesity
+date: 2006-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00067/sending-the-right-message-to-tackle-obesity.htm
 author: auckland-university
+permalink: /archive/2006/02/23/sending-the-right-message-to-tackle-obesity/index.html
+layout: layout.njk
 ---
 Sending The Right Message To Tackle Obesity
 ===========================================

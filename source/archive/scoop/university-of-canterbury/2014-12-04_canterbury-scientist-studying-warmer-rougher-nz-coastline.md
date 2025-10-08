@@ -1,9 +1,13 @@
 ---
 slug: canterbury-scientist-studying-warmer-rougher-nz-coastline
-title: "Canterbury scientist studying warmer, rougher NZ coastline"
-date: 2014-12-04
-source-url: https://www.scoop.co.nz/stories/SC1412/S00016/canterbury-scientist-studying-warmer-rougher-nz-coastline.htm
+title: Canterbury scientist studying warmer, rougher NZ coastline
+date: 2014-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00016/canterbury-scientist-studying-warmer-rougher-nz-coastline.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/04/canterbury-scientist-studying-warmer-rougher-nz-coastline/index.html
+layout: layout.njk
 ---
 Canterbury scientist studying warmer, rougher NZ coastline
 ==========================================================

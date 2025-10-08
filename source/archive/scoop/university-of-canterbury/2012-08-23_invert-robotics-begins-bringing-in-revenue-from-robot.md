@@ -1,9 +1,13 @@
 ---
 slug: invert-robotics-begins-bringing-in-revenue-from-robot
-title: "Invert Robotics’ begins bringing in revenue from robot"
-date: 2012-08-23
-source-url: https://www.scoop.co.nz/stories/BU1208/S00837/invert-robotics-begins-bringing-in-revenue-from-robot.htm
+title: Invert Robotics’ begins bringing in revenue from robot
+date: 2012-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1208/S00837/invert-robotics-begins-bringing-in-revenue-from-robot.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/23/invert-robotics-begins-bringing-in-revenue-from-robot/index.html
+layout: layout.njk
 ---
 Invert Robotics’ begins bringing in revenue from robot
 ======================================================

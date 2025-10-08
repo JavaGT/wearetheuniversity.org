@@ -1,9 +1,12 @@
 ---
 slug: kiwisaver-not-an-lvr-life-raft-for-first-homes
-title: "KiwiSaver not an LVR life raft for first homes"
-date: 2013-07-17
-source-url: https://www.scoop.co.nz/stories/PA1307/S00277/kiwisaver-not-an-lvr-life-raft-for-first-homes.htm
+title: KiwiSaver not an LVR life raft for first homes
+date: 2013-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00277/kiwisaver-not-an-lvr-life-raft-for-first-homes.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/17/kiwisaver-not-an-lvr-life-raft-for-first-homes/index.html
+layout: layout.njk
 ---
 KiwiSaver not an LVR life raft for first homes
 ==============================================

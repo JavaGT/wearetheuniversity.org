@@ -1,9 +1,12 @@
 ---
 slug: climbing-deficit-for-second-rate-health-system
-title: "Climbing Deficit For Second-Rate Health System"
-date: 2002-03-01
-source-url: https://www.scoop.co.nz/stories/PA0203/S00034/climbing-deficit-for-second-rate-health-system.htm
+title: Climbing Deficit For Second-Rate Health System
+date: 2002-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00034/climbing-deficit-for-second-rate-health-system.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/01/climbing-deficit-for-second-rate-health-system/index.html
+layout: layout.njk
 ---
 Climbing Deficit For Second-Rate Health System
 ==============================================

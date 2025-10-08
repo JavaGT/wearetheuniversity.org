@@ -1,9 +1,12 @@
 ---
 slug: harawira-unsolicited-electronic-messages-bill
-title: "Harawira: Unsolicited Electronic Messages Bill"
-date: 2006-12-06
-source-url: https://www.scoop.co.nz/stories/PA0612/S00089/harawira-unsolicited-electronic-messages-bill.htm
+title: 'Harawira: Unsolicited Electronic Messages Bill'
+date: 2006-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00089/harawira-unsolicited-electronic-messages-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/12/06/harawira-unsolicited-electronic-messages-bill/index.html
+layout: layout.njk
 ---
 Harawira: Unsolicited Electronic Messages Bill
 ==============================================

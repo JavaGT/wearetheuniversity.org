@@ -1,9 +1,12 @@
 ---
 slug: review-timely-but-ineffective-without-funding
-title: "Review timely but ineffective without funding"
-date: 2015-11-02
-source-url: https://www.scoop.co.nz/stories/PA1511/S00023/review-timely-but-ineffective-without-funding.htm
+title: Review timely but ineffective without funding
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00023/review-timely-but-ineffective-without-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/02/review-timely-but-ineffective-without-funding/index.html
+layout: layout.njk
 ---
 Review timely but ineffective without funding
 =============================================

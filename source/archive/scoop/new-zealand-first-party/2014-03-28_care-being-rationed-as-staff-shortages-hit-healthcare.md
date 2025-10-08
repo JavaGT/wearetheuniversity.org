@@ -1,9 +1,13 @@
 ---
 slug: care-being-rationed-as-staff-shortages-hit-healthcare
-title: "Care Being Rationed as Staff Shortages Hit Healthcare"
-date: 2014-03-28
-source-url: https://www.scoop.co.nz/stories/PA1403/S00563/care-being-rationed-as-staff-shortages-hit-healthcare.htm
+title: Care Being Rationed as Staff Shortages Hit Healthcare
+date: 2014-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00563/care-being-rationed-as-staff-shortages-hit-healthcare.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/03/28/care-being-rationed-as-staff-shortages-hit-healthcare/index.html
+layout: layout.njk
 ---
 Care Being Rationed as Staff Shortages Hit Healthcare
 =====================================================

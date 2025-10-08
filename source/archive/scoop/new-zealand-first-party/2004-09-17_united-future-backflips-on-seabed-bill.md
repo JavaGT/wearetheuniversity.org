@@ -1,9 +1,12 @@
 ---
 slug: united-future-backflips-on-seabed-bill
-title: "United Future Backflips On Seabed Bill"
-date: 2004-09-17
-source-url: https://www.scoop.co.nz/stories/PA0409/S00369/united-future-backflips-on-seabed-bill.htm
+title: United Future Backflips On Seabed Bill
+date: 2004-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00369/united-future-backflips-on-seabed-bill.htm
 author: new-zealand-first-party
+permalink: /archive/2004/09/17/united-future-backflips-on-seabed-bill/index.html
+layout: layout.njk
 ---
 United Future Backflips On Seabed Bill
 ======================================

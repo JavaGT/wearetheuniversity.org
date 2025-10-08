@@ -1,9 +1,12 @@
 ---
 slug: nandor-not-standing-in-2008-election
-title: "Nandor not standing in 2008 election"
-date: 2008-01-17
-source-url: https://www.scoop.co.nz/stories/PA0801/S00121/nandor-not-standing-in-2008-election.htm
+title: Nandor not standing in 2008 election
+date: 2008-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00121/nandor-not-standing-in-2008-election.htm
 author: green-party
+permalink: /archive/2008/01/17/nandor-not-standing-in-2008-election/index.html
+layout: layout.njk
 ---
 Nandor not standing in 2008 election
 ====================================

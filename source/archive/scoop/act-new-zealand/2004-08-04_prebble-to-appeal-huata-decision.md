@@ -1,9 +1,12 @@
 ---
 slug: prebble-to-appeal-huata-decision
-title: "Prebble to Appeal Huata Decision"
-date: 2004-08-04
-source-url: https://www.scoop.co.nz/stories/PA0408/S00059/prebble-to-appeal-huata-decision.htm
+title: Prebble to Appeal Huata Decision
+date: 2004-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00059/prebble-to-appeal-huata-decision.htm
 author: act-new-zealand
+permalink: /archive/2004/08/04/prebble-to-appeal-huata-decision/index.html
+layout: layout.njk
 ---
 Prebble to Appeal Huata Decision
 ================================

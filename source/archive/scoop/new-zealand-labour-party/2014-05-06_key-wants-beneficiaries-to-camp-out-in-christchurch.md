@@ -1,9 +1,13 @@
 ---
 slug: key-wants-beneficiaries-to-camp-out-in-christchurch
-title: "Key wants beneficiaries to camp out in Christchurch"
-date: 2014-05-06
-source-url: https://www.scoop.co.nz/stories/PA1405/S00083/key-wants-beneficiaries-to-camp-out-in-christchurch.htm
+title: Key wants beneficiaries to camp out in Christchurch
+date: 2014-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00083/key-wants-beneficiaries-to-camp-out-in-christchurch.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/05/06/key-wants-beneficiaries-to-camp-out-in-christchurch/index.html
+layout: layout.njk
 ---
 Key wants beneficiaries to camp out in Christchurch
 ===================================================

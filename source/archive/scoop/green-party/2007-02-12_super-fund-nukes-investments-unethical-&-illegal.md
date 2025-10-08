@@ -1,9 +1,12 @@
 ---
 slug: super-fund-nukes-investments-unethical-&-illegal
-title: "Super Fund nukes’ investments unethical & Illegal?"
-date: 2007-02-12
-source-url: https://www.scoop.co.nz/stories/PA0702/S00167/super-fund-nukes-investments-unethical-illegal.htm
+title: Super Fund nukes’ investments unethical & Illegal?
+date: 2007-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00167/super-fund-nukes-investments-unethical-illegal.htm
 author: green-party
+permalink: /archive/2007/02/12/super-fund-nukes-investments-unethical-/index.html
+layout: layout.njk
 ---
 Super Fund nukes’ investments unethical & Illegal?
 ==================================================

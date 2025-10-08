@@ -1,9 +1,12 @@
 ---
 slug: police-minister-must-clear-up-vest-confusion
-title: "Police Minister must clear up vest confusion"
-date: 2007-05-11
-source-url: https://www.scoop.co.nz/stories/PA0705/S00304/police-minister-must-clear-up-vest-confusion.htm
+title: Police Minister must clear up vest confusion
+date: 2007-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00304/police-minister-must-clear-up-vest-confusion.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/11/police-minister-must-clear-up-vest-confusion/index.html
+layout: layout.njk
 ---
 Police Minister must clear up vest confusion
 ============================================

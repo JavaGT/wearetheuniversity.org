@@ -1,9 +1,12 @@
 ---
 slug: meadow-fresh-protest-great-to-see-greens
-title: "Meadow Fresh protest \"great to see\" - Greens"
-date: 2005-11-30
-source-url: https://www.scoop.co.nz/stories/PA0511/S00437/meadow-fresh-protest-great-to-see-greens.htm
+title: Meadow Fresh protest "great to see" - Greens
+date: 2005-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00437/meadow-fresh-protest-great-to-see-greens.htm
 author: green-party
+permalink: /archive/2005/11/30/meadow-fresh-protest-great-to-see-greens/index.html
+layout: layout.njk
 ---
 Meadow Fresh protest "great to see" - Greens
 ============================================

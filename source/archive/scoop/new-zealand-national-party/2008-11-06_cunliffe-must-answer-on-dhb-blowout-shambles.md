@@ -1,9 +1,12 @@
 ---
 slug: cunliffe-must-answer-on-dhb-blowout-shambles
-title: "Cunliffe must answer on DHB blowout shambles"
-date: 2008-11-06
-source-url: https://www.scoop.co.nz/stories/PA0811/S00115/cunliffe-must-answer-on-dhb-blowout-shambles.htm
+title: Cunliffe must answer on DHB blowout shambles
+date: 2008-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00115/cunliffe-must-answer-on-dhb-blowout-shambles.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/06/cunliffe-must-answer-on-dhb-blowout-shambles/index.html
+layout: layout.njk
 ---
 Cunliffe must answer on DHB blowout shambles
 ============================================

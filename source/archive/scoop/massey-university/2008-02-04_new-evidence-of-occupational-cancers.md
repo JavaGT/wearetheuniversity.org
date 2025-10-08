@@ -1,9 +1,12 @@
 ---
 slug: new-evidence-of-occupational-cancers
-title: "New evidence of occupational cancers"
-date: 2008-02-04
-source-url: https://www.scoop.co.nz/stories/ED0802/S00007/new-evidence-of-occupational-cancers.htm
+title: New evidence of occupational cancers
+date: 2008-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00007/new-evidence-of-occupational-cancers.htm
 author: massey-university
+permalink: /archive/2008/02/04/new-evidence-of-occupational-cancers/index.html
+layout: layout.njk
 ---
 New evidence of occupational cancers
 ====================================

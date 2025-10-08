@@ -1,9 +1,12 @@
 ---
 slug: green-party-says-erma-canola-decision-is-weak
-title: "Green Party Says ERMA Canola Decision Is Weak"
-date: 1999-08-13
-source-url: https://www.scoop.co.nz/stories/PA9908/S00232/green-party-says-erma-canola-decision-is-weak.htm
+title: Green Party Says ERMA Canola Decision Is Weak
+date: 1999-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00232/green-party-says-erma-canola-decision-is-weak.htm
 author: green-party
+permalink: /archive/1999/08/13/green-party-says-erma-canola-decision-is-weak/index.html
+layout: layout.njk
 ---
 Green Party Says ERMA Canola Decision Is Weak
 =============================================

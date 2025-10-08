@@ -1,9 +1,13 @@
 ---
 slug: national-sells-off-our-biggest-slice-of-dairy-land
-title: "National sells off our biggest slice of dairy land"
-date: 2010-10-08
-source-url: https://www.scoop.co.nz/stories/PA1010/S00099/national-sells-off-our-biggest-slice-of-dairy-land.htm
+title: National sells off our biggest slice of dairy land
+date: 2010-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00099/national-sells-off-our-biggest-slice-of-dairy-land.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/10/08/national-sells-off-our-biggest-slice-of-dairy-land/index.html
+layout: layout.njk
 ---
 National sells off our biggest slice of dairy land
 ==================================================

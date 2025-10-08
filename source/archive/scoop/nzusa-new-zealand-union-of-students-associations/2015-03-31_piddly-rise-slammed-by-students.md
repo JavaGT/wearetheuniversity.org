@@ -1,9 +1,12 @@
 ---
 slug: piddly-rise-slammed-by-students
-title: "Piddly rise slammed by students"
-date: 2015-03-31
-source-url: https://www.scoop.co.nz/stories/ED1503/S00136/piddly-rise-slammed-by-students.htm
+title: Piddly rise slammed by students
+date: 2015-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00136/piddly-rise-slammed-by-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/03/31/piddly-rise-slammed-by-students/index.html
+layout: layout.njk
 ---
 Piddly rise slammed by students
 ===============================

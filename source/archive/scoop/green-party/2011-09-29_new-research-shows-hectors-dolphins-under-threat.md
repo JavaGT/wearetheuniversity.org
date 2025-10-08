@@ -1,9 +1,13 @@
 ---
 slug: new-research-shows-hectors-dolphins-under-threat
-title: "New research shows Hector’s dolphins under threat"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/PA1109/S00585/new-research-shows-hectors-dolphins-under-threat.htm
+title: New research shows Hector’s dolphins under threat
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00585/new-research-shows-hectors-dolphins-under-threat.htm
 author: green-party
+permalink: >-
+  /archive/2011/09/29/new-research-shows-hectors-dolphins-under-threat/index.html
+layout: layout.njk
 ---
 New research shows Hector’s dolphins under threat
 =================================================

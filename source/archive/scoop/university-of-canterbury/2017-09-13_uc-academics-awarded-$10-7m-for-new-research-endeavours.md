@@ -1,9 +1,12 @@
 ---
 slug: uc-academics-awarded-$10-7m-for-new-research-endeavours
-title: "UC academics awarded $10.7m for new research endeavours"
-date: 2017-09-13
-source-url: https://www.scoop.co.nz/stories/ED1709/S00043/uc-academics-awarded-107m-for-new-research-endeavours.htm
+title: UC academics awarded $10.7m for new research endeavours
+date: 2017-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00043/uc-academics-awarded-107m-for-new-research-endeavours.htm
 author: university-of-canterbury
+permalink: /archive/2017/09/13/uc-academics-awarded-/index.html
+layout: layout.njk
 ---
 UC academics awarded $10.7m for new research endeavours
 =======================================================

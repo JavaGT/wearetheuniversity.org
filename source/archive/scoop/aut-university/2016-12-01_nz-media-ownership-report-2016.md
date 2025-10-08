@@ -1,9 +1,12 @@
 ---
 slug: nz-media-ownership-report-2016
-title: "NZ media ownership report 2016"
-date: 2016-12-01
-source-url: https://www.scoop.co.nz/stories/BU1612/S00024/nz-media-ownership-report-2016.htm
+title: NZ media ownership report 2016
+date: 2016-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1612/S00024/nz-media-ownership-report-2016.htm
 author: aut-university
+permalink: /archive/2016/12/01/nz-media-ownership-report-2016/index.html
+layout: layout.njk
 ---
 NZ media ownership report 2016
 ==============================

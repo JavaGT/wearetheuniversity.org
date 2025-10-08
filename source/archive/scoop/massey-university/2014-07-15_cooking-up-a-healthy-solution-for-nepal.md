@@ -1,9 +1,12 @@
 ---
 slug: cooking-up-a-healthy-solution-for-nepal
-title: "Cooking up a healthy solution for Nepal"
-date: 2014-07-15
-source-url: https://www.scoop.co.nz/stories/SC1407/S00036/cooking-up-a-healthy-solution-for-nepal.htm
+title: Cooking up a healthy solution for Nepal
+date: 2014-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00036/cooking-up-a-healthy-solution-for-nepal.htm
 author: massey-university
+permalink: /archive/2014/07/15/cooking-up-a-healthy-solution-for-nepal/index.html
+layout: layout.njk
 ---
 Cooking up a healthy solution for Nepal
 =======================================

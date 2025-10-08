@@ -1,9 +1,16 @@
 ---
-slug: nz-staunchest-western-supporter-of-israel-silence-on-israels-attacks-on-the-united-nations
-title: "NZ Staunchest Western Supporter Of Israel – Silence On Israel’s Attacks On The United Nations"
-date: 2024-11-04
-source-url: https://www.scoop.co.nz/stories/PO2411/S00007/nz-staunchest-western-supporter-of-israel-silence-on-israels-attacks-on-the-united-nations.htm
+slug: >-
+  nz-staunchest-western-supporter-of-israel-silence-on-israels-attacks-on-the-united-nations
+title: >-
+  NZ Staunchest Western Supporter Of Israel – Silence On Israel’s Attacks On The
+  United Nations
+date: 2024-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2411/S00007/nz-staunchest-western-supporter-of-israel-silence-on-israels-attacks-on-the-united-nations.htm
 author: palestine-solidarity-network-aotearoa
+permalink: >-
+  /archive/2024/11/04/nz-staunchest-western-supporter-of-israel-silence-on-israels-attacks-on-the-united-nations/index.html
+layout: layout.njk
 ---
 NZ Staunchest Western Supporter Of Israel – Silence On Israel’s Attacks On The United Nations
 =============================================================================================

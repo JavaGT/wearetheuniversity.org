@@ -1,9 +1,12 @@
 ---
 slug: english-speech-region-national-party-conference
-title: "English Speech - Region National Party Conference"
-date: 2003-05-19
-source-url: https://www.scoop.co.nz/stories/PA0305/S00487/english-speech-region-national-party-conference.htm
+title: English Speech - Region National Party Conference
+date: 2003-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00487/english-speech-region-national-party-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/19/english-speech-region-national-party-conference/index.html
+layout: layout.njk
 ---
 English Speech - Region National Party Conference
 =================================================

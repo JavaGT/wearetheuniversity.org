@@ -1,9 +1,12 @@
 ---
 slug: newman-speech-labours-uncharitable-approach
-title: "Newman Speech:Labour's Uncharitable Approach"
-date: 2004-11-08
-source-url: https://www.scoop.co.nz/stories/PA0411/S00178/newman-speechlabours-uncharitable-approach.htm
+title: Newman Speech:Labour's Uncharitable Approach
+date: 2004-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00178/newman-speechlabours-uncharitable-approach.htm
 author: act-new-zealand
+permalink: /archive/2004/11/08/newman-speech-labours-uncharitable-approach/index.html
+layout: layout.njk
 ---
 Newman Speech:Labour's Uncharitable Approach
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: ministers-callous-flip-flop-on-environment-fund
-title: "Minister’s callous flip-flop on environment fund"
-date: 2009-12-16
-source-url: https://www.scoop.co.nz/stories/PA0912/S00281/ministers-callous-flip-flop-on-environment-fund.htm
+title: Minister’s callous flip-flop on environment fund
+date: 2009-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00281/ministers-callous-flip-flop-on-environment-fund.htm
 author: green-party
+permalink: /archive/2009/12/16/ministers-callous-flip-flop-on-environment-fund/index.html
+layout: layout.njk
 ---
 Minister’s callous flip-flop on environment fund
 ================================================

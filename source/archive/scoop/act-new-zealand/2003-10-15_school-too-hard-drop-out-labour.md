@@ -1,9 +1,12 @@
 ---
 slug: school-too-hard-drop-out-labour
-title: "School Too Hard? Drop Out - Labour"
-date: 2003-10-15
-source-url: https://www.scoop.co.nz/stories/PA0310/S00330/school-too-hard-drop-out-labour.htm
+title: School Too Hard? Drop Out - Labour
+date: 2003-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00330/school-too-hard-drop-out-labour.htm
 author: act-new-zealand
+permalink: /archive/2003/10/15/school-too-hard-drop-out-labour/index.html
+layout: layout.njk
 ---
 School Too Hard? Drop Out - Labour
 ==================================

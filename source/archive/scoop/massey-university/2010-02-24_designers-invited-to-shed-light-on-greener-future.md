@@ -1,9 +1,13 @@
 ---
 slug: designers-invited-to-shed-light-on-greener-future
-title: "Designers invited to shed light on greener future"
-date: 2010-02-24
-source-url: https://www.scoop.co.nz/stories/CU1002/S00398/designers-invited-to-shed-light-on-greener-future.htm
+title: Designers invited to shed light on greener future
+date: 2010-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1002/S00398/designers-invited-to-shed-light-on-greener-future.htm
 author: massey-university
+permalink: >-
+  /archive/2010/02/24/designers-invited-to-shed-light-on-greener-future/index.html
+layout: layout.njk
 ---
 Designers invited to shed light on greener future
 =================================================

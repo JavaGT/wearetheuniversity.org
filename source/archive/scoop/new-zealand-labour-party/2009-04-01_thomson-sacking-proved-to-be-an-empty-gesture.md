@@ -1,9 +1,12 @@
 ---
 slug: thomson-sacking-proved-to-be-an-empty-gesture
-title: "Thomson sacking proved to be an empty gesture"
-date: 2009-04-01
-source-url: https://www.scoop.co.nz/stories/PA0904/S00025/thomson-sacking-proved-to-be-an-empty-gesture.htm
+title: Thomson sacking proved to be an empty gesture
+date: 2009-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00025/thomson-sacking-proved-to-be-an-empty-gesture.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/01/thomson-sacking-proved-to-be-an-empty-gesture/index.html
+layout: layout.njk
 ---
 Thomson sacking proved to be an empty gesture
 =============================================

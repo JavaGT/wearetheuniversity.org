@@ -1,9 +1,12 @@
 ---
 slug: decision-to-decline-fee-rise-applauded
-title: "Decision to decline fee rise applauded"
-date: 2012-12-03
-source-url: https://www.scoop.co.nz/stories/ED1212/S00011/decision-to-decline-fee-rise-applauded.htm
+title: Decision to decline fee rise applauded
+date: 2012-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00011/decision-to-decline-fee-rise-applauded.htm
 author: vuwsa
+permalink: /archive/2012/12/03/decision-to-decline-fee-rise-applauded/index.html
+layout: layout.njk
 ---
 Decision to decline fee rise applauded
 ======================================

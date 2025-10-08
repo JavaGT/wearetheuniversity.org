@@ -1,9 +1,13 @@
 ---
 slug: nationals-back-to-the-future-on-housing-sell-off
-title: "National’s back to the future on housing sell-off"
-date: 2015-01-29
-source-url: https://www.scoop.co.nz/stories/PA1501/S00150/nationals-back-to-the-future-on-housing-sell-off.htm
+title: National’s back to the future on housing sell-off
+date: 2015-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00150/nationals-back-to-the-future-on-housing-sell-off.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/01/29/nationals-back-to-the-future-on-housing-sell-off/index.html
+layout: layout.njk
 ---
 National’s back to the future on housing sell-off
 =================================================

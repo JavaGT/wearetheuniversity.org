@@ -1,9 +1,13 @@
 ---
 slug: leading-the-world-in-shellfish-farming-innovation
-title: "Leading the world in shellfish farming innovation"
-date: 2019-07-04
-source-url: https://www.scoop.co.nz/stories/SC1907/S00013/leading-the-world-in-shellfish-farming-innovation.htm
+title: Leading the world in shellfish farming innovation
+date: 2019-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1907/S00013/leading-the-world-in-shellfish-farming-innovation.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/07/04/leading-the-world-in-shellfish-farming-innovation/index.html
+layout: layout.njk
 ---
 Leading the world in shellfish farming innovation
 =================================================

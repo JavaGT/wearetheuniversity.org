@@ -1,9 +1,12 @@
 ---
 slug: young-kiwis-expect-nz-superannuation-to-change
-title: "Young Kiwis expect NZ Superannuation to change"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/ED1609/S00071/young-kiwis-expect-nz-superannuation-to-change.htm
+title: Young Kiwis expect NZ Superannuation to change
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00071/young-kiwis-expect-nz-superannuation-to-change.htm
 author: massey-university
+permalink: /archive/2016/09/14/young-kiwis-expect-nz-superannuation-to-change/index.html
+layout: layout.njk
 ---
 Young Kiwis expect NZ Superannuation to change
 ==============================================

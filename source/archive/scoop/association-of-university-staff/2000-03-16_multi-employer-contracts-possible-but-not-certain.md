@@ -1,9 +1,13 @@
 ---
 slug: multi-employer-contracts-possible-but-not-certain
-title: "Multi-employer contracts possible but not certain"
-date: 2000-03-16
-source-url: https://www.scoop.co.nz/stories/ED0003/S00028/multi-employer-contracts-possible-but-not-certain.htm
+title: Multi-employer contracts possible but not certain
+date: 2000-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00028/multi-employer-contracts-possible-but-not-certain.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2000/03/16/multi-employer-contracts-possible-but-not-certain/index.html
+layout: layout.njk
 ---
 Multi-employer contracts possible but not certain
 =================================================

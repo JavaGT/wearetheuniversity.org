@@ -1,9 +1,12 @@
 ---
 slug: exercise-relieves-chronic-fatigue
-title: "Exercise Relieves Chronic Fatigue"
-date: 2005-03-03
-source-url: https://www.scoop.co.nz/stories/GE0503/S00015/exercise-relieves-chronic-fatigue.htm
+title: Exercise Relieves Chronic Fatigue
+date: 2005-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0503/S00015/exercise-relieves-chronic-fatigue.htm
 author: auckland-university
+permalink: /archive/2005/03/03/exercise-relieves-chronic-fatigue/index.html
+layout: layout.njk
 ---
 Exercise Relieves Chronic Fatigue
 =================================

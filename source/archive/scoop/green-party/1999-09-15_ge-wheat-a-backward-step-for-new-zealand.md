@@ -1,9 +1,12 @@
 ---
 slug: ge-wheat-a-backward-step-for-new-zealand
-title: "GE Wheat A Backward Step For New Zealand"
-date: 1999-09-15
-source-url: https://www.scoop.co.nz/stories/PO9909/S00075/ge-wheat-a-backward-step-for-new-zealand.htm
+title: GE Wheat A Backward Step For New Zealand
+date: 1999-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00075/ge-wheat-a-backward-step-for-new-zealand.htm
 author: green-party
+permalink: /archive/1999/09/15/ge-wheat-a-backward-step-for-new-zealand/index.html
+layout: layout.njk
 ---
 GE Wheat A Backward Step For New Zealand
 ========================================

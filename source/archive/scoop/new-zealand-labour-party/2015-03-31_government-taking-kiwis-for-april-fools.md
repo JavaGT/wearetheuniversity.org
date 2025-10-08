@@ -1,9 +1,12 @@
 ---
 slug: government-taking-kiwis-for-april-fools
-title: "Government taking Kiwis for April Fools"
-date: 2015-03-31
-source-url: https://www.scoop.co.nz/stories/PA1503/S00448/government-taking-kiwis-for-april-fools.htm
+title: Government taking Kiwis for April Fools
+date: 2015-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00448/government-taking-kiwis-for-april-fools.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/31/government-taking-kiwis-for-april-fools/index.html
+layout: layout.njk
 ---
 Government taking Kiwis for April Fools
 =======================================

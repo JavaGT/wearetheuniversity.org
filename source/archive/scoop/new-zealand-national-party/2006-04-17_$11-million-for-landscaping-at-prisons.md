@@ -1,9 +1,12 @@
 ---
 slug: $11-million-for-landscaping-at-prisons
-title: "$11 million for landscaping at prisons"
-date: 2006-04-17
-source-url: https://www.scoop.co.nz/stories/PA0604/S00280/11-million-for-landscaping-at-prisons.htm
+title: $11 million for landscaping at prisons
+date: 2006-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00280/11-million-for-landscaping-at-prisons.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/17/11-million-for-landscaping-at-prisons/index.html
+layout: layout.njk
 ---
 $11 million for landscaping at prisons
 ======================================

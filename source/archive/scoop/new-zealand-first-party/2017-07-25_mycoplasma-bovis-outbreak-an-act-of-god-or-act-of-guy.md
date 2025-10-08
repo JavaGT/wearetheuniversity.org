@@ -1,9 +1,13 @@
 ---
 slug: mycoplasma-bovis-outbreak-an-act-of-god-or-act-of-guy
-title: "Mycoplasma Bovis Outbreak an ‘Act of God Or Act of Guy?’"
-date: 2017-07-25
-source-url: https://www.scoop.co.nz/stories/PA1707/S00369/mycoplasma-bovis-outbreak-an-act-of-god-or-act-of-guy.htm
+title: Mycoplasma Bovis Outbreak an ‘Act of God Or Act of Guy?’
+date: 2017-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00369/mycoplasma-bovis-outbreak-an-act-of-god-or-act-of-guy.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/07/25/mycoplasma-bovis-outbreak-an-act-of-god-or-act-of-guy/index.html
+layout: layout.njk
 ---
 Mycoplasma Bovis Outbreak an ‘Act of God Or Act of Guy?’
 ========================================================

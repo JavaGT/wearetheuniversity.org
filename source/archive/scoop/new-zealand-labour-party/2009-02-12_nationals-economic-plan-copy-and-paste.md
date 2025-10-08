@@ -1,9 +1,12 @@
 ---
 slug: nationals-economic-plan-copy-and-paste
-title: "National’s economic plan – copy and paste"
-date: 2009-02-12
-source-url: https://www.scoop.co.nz/stories/PA0902/S00193/nationals-economic-plan-copy-and-paste.htm
+title: National’s economic plan – copy and paste
+date: 2009-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00193/nationals-economic-plan-copy-and-paste.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/12/nationals-economic-plan-copy-and-paste/index.html
+layout: layout.njk
 ---
 National’s economic plan – copy and paste
 =========================================

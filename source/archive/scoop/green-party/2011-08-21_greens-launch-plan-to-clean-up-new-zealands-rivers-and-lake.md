@@ -1,9 +1,13 @@
 ---
 slug: greens-launch-plan-to-clean-up-new-zealands-rivers-and-lake
-title: "Greens launch plan to clean up New Zealand’s rivers and lake"
-date: 2011-08-21
-source-url: https://www.scoop.co.nz/stories/PA1108/S00439/greens-launch-plan-to-clean-up-new-zealands-rivers-and-lake.htm
+title: Greens launch plan to clean up New Zealand’s rivers and lake
+date: 2011-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00439/greens-launch-plan-to-clean-up-new-zealands-rivers-and-lake.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/21/greens-launch-plan-to-clean-up-new-zealands-rivers-and-lake/index.html
+layout: layout.njk
 ---
 Greens launch plan to clean up New Zealand’s rivers and lake
 ============================================================

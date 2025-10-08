@@ -1,9 +1,12 @@
 ---
 slug: scientists-seek-answers-in-young-orca-stranding
-title: "Scientists seek answers in young orca stranding"
-date: 2011-09-16
-source-url: https://www.scoop.co.nz/stories/SC1109/S00035/scientists-seek-answers-in-young-orca-stranding.htm
+title: Scientists seek answers in young orca stranding
+date: 2011-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1109/S00035/scientists-seek-answers-in-young-orca-stranding.htm
 author: massey-university
+permalink: /archive/2011/09/16/scientists-seek-answers-in-young-orca-stranding/index.html
+layout: layout.njk
 ---
 Scientists seek answers in young orca stranding
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-and-wsu-orientation-kicks-off-on-24-feb
-title: "Waikato University and WSU orientation kicks off on 24 Feb"
-date: 2014-02-14
-source-url: https://www.scoop.co.nz/stories/ED1402/S00054/waikato-university-and-wsu-orientation-kicks-off-on-24-feb.htm
+title: Waikato University and WSU orientation kicks off on 24 Feb
+date: 2014-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00054/waikato-university-and-wsu-orientation-kicks-off-on-24-feb.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/02/14/waikato-university-and-wsu-orientation-kicks-off-on-24-feb/index.html
+layout: layout.njk
 ---
 Waikato University and WSU orientation kicks off on 24 Feb
 ==========================================================

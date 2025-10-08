@@ -1,9 +1,12 @@
 ---
 slug: ousa-supports-nzusa-student-food-bank-findings
-title: "OUSA Supports NZUSA Student Food Bank Findings"
-date: 2013-09-17
-source-url: https://www.scoop.co.nz/stories/ED1309/S00100/ousa-supports-nzusa-student-food-bank-findings.htm
+title: OUSA Supports NZUSA Student Food Bank Findings
+date: 2013-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00100/ousa-supports-nzusa-student-food-bank-findings.htm
 author: otago-university-students-association
+permalink: /archive/2013/09/17/ousa-supports-nzusa-student-food-bank-findings/index.html
+layout: layout.njk
 ---
 OUSA Supports NZUSA Student Food Bank Findings
 ==============================================

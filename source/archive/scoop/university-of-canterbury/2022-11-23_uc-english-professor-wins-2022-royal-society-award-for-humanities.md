@@ -1,9 +1,13 @@
 ---
 slug: uc-english-professor-wins-2022-royal-society-award-for-humanities
-title: "UC English Professor Wins 2022 Royal Society Award For Humanities"
-date: 2022-11-23
-source-url: https://www.scoop.co.nz/stories/ED2211/S00041/uc-english-professor-wins-2022-royal-society-award-for-humanities.htm
+title: UC English Professor Wins 2022 Royal Society Award For Humanities
+date: 2022-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2211/S00041/uc-english-professor-wins-2022-royal-society-award-for-humanities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/11/23/uc-english-professor-wins-2022-royal-society-award-for-humanities/index.html
+layout: layout.njk
 ---
 UC English Professor Wins 2022 Royal Society Award For Humanities
 =================================================================

@@ -1,9 +1,13 @@
 ---
 slug: 2021-enrolment-data-university-of-waikato-community-larger-and-more-diverse
-title: "2021 Enrolment Data: University Of Waikato Community Larger And More Diverse"
-date: 2021-03-18
-source-url: https://www.scoop.co.nz/stories/ED2103/S00033/2021-enrolment-data-university-of-waikato-community-larger-and-more-diverse.htm
+title: '2021 Enrolment Data: University Of Waikato Community Larger And More Diverse'
+date: 2021-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00033/2021-enrolment-data-university-of-waikato-community-larger-and-more-diverse.htm
 author: waikato-university
+permalink: >-
+  /archive/2021/03/18/2021-enrolment-data-university-of-waikato-community-larger-and-more-diverse/index.html
+layout: layout.njk
 ---
 2021 Enrolment Data: University Of Waikato Community Larger And More Diverse
 ============================================================================

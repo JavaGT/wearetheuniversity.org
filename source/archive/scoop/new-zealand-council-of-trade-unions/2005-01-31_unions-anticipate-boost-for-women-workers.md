@@ -1,9 +1,12 @@
 ---
 slug: unions-anticipate-boost-for-women-workers
-title: "Unions Anticipate Boost for Women Workers"
-date: 2005-01-31
-source-url: https://www.scoop.co.nz/stories/PO0501/S00226/unions-anticipate-boost-for-women-workers.htm
+title: Unions Anticipate Boost for Women Workers
+date: 2005-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0501/S00226/unions-anticipate-boost-for-women-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/01/31/unions-anticipate-boost-for-women-workers/index.html
+layout: layout.njk
 ---
 Unions Anticipate Boost for Women Workers
 =========================================

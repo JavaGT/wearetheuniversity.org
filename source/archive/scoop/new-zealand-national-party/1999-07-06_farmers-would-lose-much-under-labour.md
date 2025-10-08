@@ -1,9 +1,12 @@
 ---
 slug: farmers-would-lose-much-under-labour
-title: "Farmers would lose much under Labour"
-date: 1999-07-06
-source-url: https://www.scoop.co.nz/stories/PA9907/S00086/farmers-would-lose-much-under-labour.htm
+title: Farmers would lose much under Labour
+date: 1999-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00086/farmers-would-lose-much-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/1999/07/06/farmers-would-lose-much-under-labour/index.html
+layout: layout.njk
 ---
 Farmers would lose much under Labour
 ====================================

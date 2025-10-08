@@ -1,9 +1,12 @@
 ---
 slug: joyces-pr-fluff-wont-help-neglected-regions
-title: "Joyce’s PR fluff won’t help neglected regions"
-date: 2015-07-07
-source-url: https://www.scoop.co.nz/stories/PA1507/S00125/joyces-pr-fluff-wont-help-neglected-regions.htm
+title: Joyce’s PR fluff won’t help neglected regions
+date: 2015-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00125/joyces-pr-fluff-wont-help-neglected-regions.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/07/joyces-pr-fluff-wont-help-neglected-regions/index.html
+layout: layout.njk
 ---
 Joyce’s PR fluff won’t help neglected regions
 =============================================

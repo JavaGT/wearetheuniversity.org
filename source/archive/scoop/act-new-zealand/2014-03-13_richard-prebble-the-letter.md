@@ -1,9 +1,11 @@
 ---
 slug: richard-prebble-the-letter
-title: "Richard Prebble: The Letter"
-date: 2014-03-13
+title: 'Richard Prebble: The Letter'
+date: 2014-03-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1403/S00161/richard-prebble-the-letter.htm
 author: act-new-zealand
+permalink: /archive/2014/03/13/richard-prebble-the-letter/index.html
+layout: layout.njk
 ---
 Richard Prebble: The Letter
 ===========================

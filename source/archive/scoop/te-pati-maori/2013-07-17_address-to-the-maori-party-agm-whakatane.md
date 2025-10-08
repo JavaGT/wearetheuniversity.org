@@ -1,9 +1,12 @@
 ---
 slug: address-to-the-maori-party-agm-whakatane
-title: "Address to the Maori Party AGM, Whakatane"
-date: 2013-07-17
-source-url: https://www.scoop.co.nz/stories/PA1307/S00283/address-to-the-maori-party-agm-whakatane.htm
+title: Address to the Maori Party AGM, Whakatane
+date: 2013-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00283/address-to-the-maori-party-agm-whakatane.htm
 author: te-pati-maori
+permalink: /archive/2013/07/17/address-to-the-maori-party-agm-whakatane/index.html
+layout: layout.njk
 ---
 Address to the Maori Party AGM, Whakatane
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: students-to-make-$15-billion-warning
-title: "Students to make $15 Billion warning"
-date: 2015-12-13
-source-url: https://www.scoop.co.nz/stories/ED1512/S00056/students-to-make-15-billion-warning.htm
+title: Students to make $15 Billion warning
+date: 2015-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00056/students-to-make-15-billion-warning.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/12/13/students-to-make-/index.html
+layout: layout.njk
 ---
 Students to make $15 Billion warning
 ====================================

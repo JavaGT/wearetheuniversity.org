@@ -1,9 +1,12 @@
 ---
 slug: gap-filling-projects-reach-crucial-juncture
-title: "Gap filling projects reach crucial juncture"
-date: 2014-10-30
-source-url: https://www.scoop.co.nz/stories/ED1410/S00167/gap-filling-projects-reach-crucial-juncture.htm
+title: Gap filling projects reach crucial juncture
+date: 2014-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00167/gap-filling-projects-reach-crucial-juncture.htm
 author: lincoln-university
+permalink: /archive/2014/10/30/gap-filling-projects-reach-crucial-juncture/index.html
+layout: layout.njk
 ---
 Gap filling projects reach crucial juncture
 ===========================================

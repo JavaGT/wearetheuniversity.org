@@ -1,9 +1,13 @@
 ---
 slug: harawira-auckland-regional-amenities-funding-bill
-title: "Harawira: Auckland Regional Amenities Funding Bill"
-date: 2008-08-28
-source-url: https://www.scoop.co.nz/stories/PA0808/S00441/harawira-auckland-regional-amenities-funding-bill.htm
+title: 'Harawira: Auckland Regional Amenities Funding Bill'
+date: 2008-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00441/harawira-auckland-regional-amenities-funding-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/08/28/harawira-auckland-regional-amenities-funding-bill/index.html
+layout: layout.njk
 ---
 Harawira: Auckland Regional Amenities Funding Bill
 ==================================================

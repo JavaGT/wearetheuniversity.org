@@ -1,9 +1,13 @@
 ---
 slug: katie-milne-breaks-the-oldest-ceiling-in-kiwi-farming
-title: "Katie Milne Breaks the Oldest Ceiling in Kiwi Farming"
-date: 2017-06-22
-source-url: https://www.scoop.co.nz/stories/PA1706/S00384/katie-milne-breaks-the-oldest-ceiling-in-kiwi-farming.htm
+title: Katie Milne Breaks the Oldest Ceiling in Kiwi Farming
+date: 2017-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00384/katie-milne-breaks-the-oldest-ceiling-in-kiwi-farming.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/06/22/katie-milne-breaks-the-oldest-ceiling-in-kiwi-farming/index.html
+layout: layout.njk
 ---
 Katie Milne Breaks the Oldest Ceiling in Kiwi Farming
 =====================================================

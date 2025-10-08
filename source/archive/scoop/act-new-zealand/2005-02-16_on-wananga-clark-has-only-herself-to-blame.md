@@ -1,9 +1,12 @@
 ---
 slug: on-wananga-clark-has-only-herself-to-blame
-title: "On wananga Clark has only herself to blame"
-date: 2005-02-16
-source-url: https://www.scoop.co.nz/stories/PA0502/S00367/on-wananga-clark-has-only-herself-to-blame.htm
+title: On wananga Clark has only herself to blame
+date: 2005-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00367/on-wananga-clark-has-only-herself-to-blame.htm
 author: act-new-zealand
+permalink: /archive/2005/02/16/on-wananga-clark-has-only-herself-to-blame/index.html
+layout: layout.njk
 ---
 On wananga Clark has only herself to blame
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-party-māori-mps-need-to-check-themselves
-title: "Labour Party Māori MPs Need to Check Themselves"
-date: 2016-04-22
-source-url: https://www.scoop.co.nz/stories/PO1604/S00296/labour-party-maori-mps-need-to-check-themselves.htm
+title: Labour Party Māori MPs Need to Check Themselves
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00296/labour-party-maori-mps-need-to-check-themselves.htm
 author: te-pati-maori
+permalink: /archive/2016/04/22/labour-party-m/index.html
+layout: layout.njk
 ---
 Labour Party Māori MPs Need to Check Themselves
 ===============================================

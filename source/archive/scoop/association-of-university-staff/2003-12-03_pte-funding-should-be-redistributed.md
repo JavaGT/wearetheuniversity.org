@@ -1,9 +1,12 @@
 ---
 slug: pte-funding-should-be-redistributed
-title: "PTE funding should be redistributed"
-date: 2003-12-03
-source-url: https://www.scoop.co.nz/stories/ED0312/S00018/pte-funding-should-be-redistributed.htm
+title: PTE funding should be redistributed
+date: 2003-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00018/pte-funding-should-be-redistributed.htm
 author: association-of-university-staff
+permalink: /archive/2003/12/03/pte-funding-should-be-redistributed/index.html
+layout: layout.njk
 ---
 PTE funding should be redistributed
 ===================================

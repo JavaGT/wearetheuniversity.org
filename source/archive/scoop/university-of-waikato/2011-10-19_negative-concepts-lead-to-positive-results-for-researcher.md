@@ -1,9 +1,13 @@
 ---
 slug: negative-concepts-lead-to-positive-results-for-researcher
-title: "\"Negative\" concepts lead to positive results for researcher"
-date: 2011-10-19
-source-url: https://www.scoop.co.nz/stories/SC1110/S00053/negative-concepts-lead-to-positive-results-for-researcher.htm
+title: '"Negative" concepts lead to positive results for researcher'
+date: 2011-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00053/negative-concepts-lead-to-positive-results-for-researcher.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/10/19/negative-concepts-lead-to-positive-results-for-researcher/index.html
+layout: layout.njk
 ---
 “Negative” concepts lead to positive results for researcher
 ===========================================================

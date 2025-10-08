@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-graduation-total-up
-title: "Lincoln University graduation total up"
-date: 2003-04-30
-source-url: https://www.scoop.co.nz/stories/ED0304/S00061/lincoln-university-graduation-total-up.htm
+title: Lincoln University graduation total up
+date: 2003-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00061/lincoln-university-graduation-total-up.htm
 author: lincoln-university
+permalink: /archive/2003/04/30/lincoln-university-graduation-total-up/index.html
+layout: layout.njk
 ---
 Lincoln University graduation total up
 ======================================

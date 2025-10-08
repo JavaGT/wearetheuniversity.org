@@ -1,9 +1,12 @@
 ---
 slug: further-govt-meddling-for-small-investors
-title: "Further Govt meddling for small investors"
-date: 2004-11-05
-source-url: https://www.scoop.co.nz/stories/PA0411/S00139/further-govt-meddling-for-small-investors.htm
+title: Further Govt meddling for small investors
+date: 2004-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00139/further-govt-meddling-for-small-investors.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/05/further-govt-meddling-for-small-investors/index.html
+layout: layout.njk
 ---
 Further Govt meddling for small investors
 =========================================

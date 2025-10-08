@@ -1,9 +1,13 @@
 ---
 slug: how-are-we-making-cycling-safer-for-new-zealanders
-title: "How are we making cycling safer for New Zealanders?"
-date: 2015-06-26
-source-url: https://www.scoop.co.nz/stories/PA1506/S00487/how-are-we-making-cycling-safer-for-new-zealanders.htm
+title: How are we making cycling safer for New Zealanders?
+date: 2015-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00487/how-are-we-making-cycling-safer-for-new-zealanders.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/06/26/how-are-we-making-cycling-safer-for-new-zealanders/index.html
+layout: layout.njk
 ---
 How are we making cycling safer for New Zealanders?
 ===================================================

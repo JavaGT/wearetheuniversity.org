@@ -1,9 +1,13 @@
 ---
 slug: labour-loses-more-than-6000-children-from-school
-title: "Labour loses more than 6,000 children from school"
-date: 2007-12-11
-source-url: https://www.scoop.co.nz/stories/PA0712/S00219/labour-loses-more-than-6000-children-from-school.htm
+title: Labour loses more than 6,000 children from school
+date: 2007-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00219/labour-loses-more-than-6000-children-from-school.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/12/11/labour-loses-more-than-6000-children-from-school/index.html
+layout: layout.njk
 ---
 Labour loses more than 6,000 children from school
 =================================================

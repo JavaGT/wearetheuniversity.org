@@ -1,9 +1,12 @@
 ---
 slug: imported-crime-increasing-says-mark
-title: "Imported Crime Increasing Says Mark"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/PA0305/S00548/imported-crime-increasing-says-mark.htm
+title: Imported Crime Increasing Says Mark
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00548/imported-crime-increasing-says-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/21/imported-crime-increasing-says-mark/index.html
+layout: layout.njk
 ---
 Imported Crime Increasing Says Mark
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: artemis-the-future-of-deep-space-exploration
-title: "Artemis: The Future of Deep Space Exploration"
-date: 2019-10-02
-source-url: https://www.scoop.co.nz/stories/SC1910/S00004/artemis-the-future-of-deep-space-exploration.htm
+title: 'Artemis: The Future of Deep Space Exploration'
+date: 2019-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1910/S00004/artemis-the-future-of-deep-space-exploration.htm
 author: university-of-canterbury
+permalink: /archive/2019/10/02/artemis-the-future-of-deep-space-exploration/index.html
+layout: layout.njk
 ---
 Artemis: The Future of Deep Space Exploration
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: study-of-nz-childrens-first-words-expected-to-finish-2014
-title: "Study Of NZ Children’s First Words Expected to Finish 2014"
-date: 2013-05-02
-source-url: https://www.scoop.co.nz/stories/SC1305/S00012/study-of-nz-childrens-first-words-expected-to-finish-2014.htm
+title: Study Of NZ Children’s First Words Expected to Finish 2014
+date: 2013-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00012/study-of-nz-childrens-first-words-expected-to-finish-2014.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/02/study-of-nz-childrens-first-words-expected-to-finish-2014/index.html
+layout: layout.njk
 ---
 Study Of NZ Children’s First Words Expected to Finish 2014
 ==========================================================

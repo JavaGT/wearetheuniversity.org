@@ -1,9 +1,13 @@
 ---
 slug: poto-williams-selected-as-labour-christchurch-east-candidate
-title: "Poto Williams selected as Labour Christchurch East Candidate"
-date: 2013-09-22
-source-url: https://www.scoop.co.nz/stories/PA1309/S00398/poto-williams-selected-as-labour-christchurch-east-candidate.htm
+title: Poto Williams selected as Labour Christchurch East Candidate
+date: 2013-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00398/poto-williams-selected-as-labour-christchurch-east-candidate.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/09/22/poto-williams-selected-as-labour-christchurch-east-candidate/index.html
+layout: layout.njk
 ---
 Poto Williams selected as Labour Christchurch East Candidate
 ============================================================

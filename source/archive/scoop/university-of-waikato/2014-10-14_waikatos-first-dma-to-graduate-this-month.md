@@ -1,9 +1,12 @@
 ---
 slug: waikatos-first-dma-to-graduate-this-month
-title: "Waikato’s first DMA to graduate this month"
-date: 2014-10-14
-source-url: https://www.scoop.co.nz/stories/ED1410/S00077/waikatos-first-dma-to-graduate-this-month.htm
+title: Waikato’s first DMA to graduate this month
+date: 2014-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00077/waikatos-first-dma-to-graduate-this-month.htm
 author: university-of-waikato
+permalink: /archive/2014/10/14/waikatos-first-dma-to-graduate-this-month/index.html
+layout: layout.njk
 ---
 Waikato’s first DMA to graduate this month
 ==========================================

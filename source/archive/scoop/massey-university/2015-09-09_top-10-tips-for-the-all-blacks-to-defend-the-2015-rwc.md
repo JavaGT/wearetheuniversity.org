@@ -1,9 +1,13 @@
 ---
 slug: top-10-tips-for-the-all-blacks-to-defend-the-2015-rwc
-title: "Top 10 Tips for the All Blacks to defend the 2015 RWC"
-date: 2015-09-09
-source-url: https://www.scoop.co.nz/stories/ED1509/S00056/top-10-tips-for-the-all-blacks-to-defend-the-2015-rwc.htm
+title: Top 10 Tips for the All Blacks to defend the 2015 RWC
+date: 2015-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00056/top-10-tips-for-the-all-blacks-to-defend-the-2015-rwc.htm
 author: massey-university
+permalink: >-
+  /archive/2015/09/09/top-10-tips-for-the-all-blacks-to-defend-the-2015-rwc/index.html
+layout: layout.njk
 ---
 Top 10 Tips for the All Blacks to defend the 2015 RWC
 =====================================================

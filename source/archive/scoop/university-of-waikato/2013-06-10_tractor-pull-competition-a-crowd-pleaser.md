@@ -1,9 +1,12 @@
 ---
 slug: tractor-pull-competition-a-crowd-pleaser
-title: "Tractor-pull competition a crowd pleaser"
-date: 2013-06-10
-source-url: https://www.scoop.co.nz/stories/ED1306/S00045/tractor-pull-competition-a-crowd-pleaser.htm
+title: Tractor-pull competition a crowd pleaser
+date: 2013-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00045/tractor-pull-competition-a-crowd-pleaser.htm
 author: university-of-waikato
+permalink: /archive/2013/06/10/tractor-pull-competition-a-crowd-pleaser/index.html
+layout: layout.njk
 ---
 Tractor-pull competition a crowd pleaser
 ========================================

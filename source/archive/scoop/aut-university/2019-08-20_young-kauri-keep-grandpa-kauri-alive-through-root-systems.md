@@ -1,9 +1,13 @@
 ---
 slug: young-kauri-keep-grandpa-kauri-alive-through-root-systems
-title: "Young kauri keep 'grandpa' kauri alive through root systems"
-date: 2019-08-20
-source-url: https://www.scoop.co.nz/stories/SC1908/S00046/young-kauri-keep-grandpa-kauri-alive-through-root-systems.htm
+title: Young kauri keep 'grandpa' kauri alive through root systems
+date: 2019-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1908/S00046/young-kauri-keep-grandpa-kauri-alive-through-root-systems.htm
 author: aut-university
+permalink: >-
+  /archive/2019/08/20/young-kauri-keep-grandpa-kauri-alive-through-root-systems/index.html
+layout: layout.njk
 ---
 Young kauri keep 'grandpa' kauri alive through root systems
 ===========================================================

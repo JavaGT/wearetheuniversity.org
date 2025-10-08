@@ -1,9 +1,12 @@
 ---
 slug: victoria-to-play-visiting-british-league-team
-title: "Victoria to play visiting British league team"
-date: 2000-09-04
-source-url: https://www.scoop.co.nz/stories/SP0009/S00003/victoria-to-play-visiting-british-league-team.htm
+title: Victoria to play visiting British league team
+date: 2000-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP0009/S00003/victoria-to-play-visiting-british-league-team.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/09/04/victoria-to-play-visiting-british-league-team/index.html
+layout: layout.njk
 ---
 Victoria to play visiting British league team
 =============================================

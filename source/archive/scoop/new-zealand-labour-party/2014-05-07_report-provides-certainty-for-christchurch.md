@@ -1,9 +1,12 @@
 ---
 slug: report-provides-certainty-for-christchurch
-title: "Report provides certainty for Christchurch"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/PA1405/S00116/report-provides-certainty-for-christchurch.htm
+title: Report provides certainty for Christchurch
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00116/report-provides-certainty-for-christchurch.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/07/report-provides-certainty-for-christchurch/index.html
+layout: layout.njk
 ---
 Report provides certainty for Christchurch
 ==========================================

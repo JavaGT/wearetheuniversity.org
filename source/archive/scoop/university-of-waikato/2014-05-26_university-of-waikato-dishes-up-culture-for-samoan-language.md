@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-dishes-up-culture-for-samoan-language
-title: "University of Waikato dishes up culture for Samoan Language"
-date: 2014-05-26
-source-url: https://www.scoop.co.nz/stories/ED1405/S00131/university-of-waikato-dishes-up-culture-for-samoan-language.htm
+title: University of Waikato dishes up culture for Samoan Language
+date: 2014-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00131/university-of-waikato-dishes-up-culture-for-samoan-language.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/05/26/university-of-waikato-dishes-up-culture-for-samoan-language/index.html
+layout: layout.njk
 ---
 University of Waikato dishes up culture for Samoan Language
 ===========================================================

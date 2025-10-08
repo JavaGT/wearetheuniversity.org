@@ -1,9 +1,11 @@
 ---
 slug: mallards-mess-gets-messier
-title: "Mallard's mess gets messier"
-date: 2004-09-13
+title: Mallard's mess gets messier
+date: 2004-09-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0409/S00259/mallards-mess-gets-messier.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/13/mallards-mess-gets-messier/index.html
+layout: layout.njk
 ---
 Mallard's mess gets messier
 ===========================

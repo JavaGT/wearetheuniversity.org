@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-time-to-take-the-treaty-seriously
-title: "Speech: Katene - Time to Take The Treaty Seriously"
-date: 2009-09-04
-source-url: https://www.scoop.co.nz/stories/PA0909/S00068/speech-katene-time-to-take-the-treaty-seriously.htm
+title: 'Speech: Katene - Time to Take The Treaty Seriously'
+date: 2009-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00068/speech-katene-time-to-take-the-treaty-seriously.htm
 author: te-pati-maori
+permalink: /archive/2009/09/04/speech-katene-time-to-take-the-treaty-seriously/index.html
+layout: layout.njk
 ---
 Speech: Katene - Time to Take The Treaty Seriously
 ==================================================

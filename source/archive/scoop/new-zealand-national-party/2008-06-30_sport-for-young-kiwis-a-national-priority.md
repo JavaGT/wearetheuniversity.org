@@ -1,9 +1,12 @@
 ---
 slug: sport-for-young-kiwis-a-national-priority
-title: "Sport for young Kiwis: a National priority"
-date: 2008-06-30
-source-url: https://www.scoop.co.nz/stories/PA0806/S00500/sport-for-young-kiwis-a-national-priority.htm
+title: 'Sport for young Kiwis: a National priority'
+date: 2008-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00500/sport-for-young-kiwis-a-national-priority.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/30/sport-for-young-kiwis-a-national-priority/index.html
+layout: layout.njk
 ---
 Sport for young Kiwis: a National priority
 ==========================================

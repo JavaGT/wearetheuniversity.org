@@ -1,9 +1,12 @@
 ---
 slug: restriction-on-political-ads-anti-democratic
-title: "Restriction on political ads anti-democratic"
-date: 2007-04-12
-source-url: https://www.scoop.co.nz/stories/PA0704/S00201/restriction-on-political-ads-anti-democratic.htm
+title: Restriction on political ads anti-democratic
+date: 2007-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00201/restriction-on-political-ads-anti-democratic.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/12/restriction-on-political-ads-anti-democratic/index.html
+layout: layout.njk
 ---
 Restriction on political ads anti-democratic
 ============================================

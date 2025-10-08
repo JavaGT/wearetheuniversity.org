@@ -1,9 +1,12 @@
 ---
 slug: waitakere-education-symposium-opening-address
-title: "Waitakere Education Symposium: Opening Address"
-date: 2009-04-29
-source-url: https://www.scoop.co.nz/stories/PA0904/S00361/waitakere-education-symposium-opening-address.htm
+title: 'Waitakere Education Symposium: Opening Address'
+date: 2009-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00361/waitakere-education-symposium-opening-address.htm
 author: te-pati-maori
+permalink: /archive/2009/04/29/waitakere-education-symposium-opening-address/index.html
+layout: layout.njk
 ---
 Waitakere Education Symposium: Opening Address
 ==============================================

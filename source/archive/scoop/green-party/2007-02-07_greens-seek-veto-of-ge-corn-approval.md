@@ -1,9 +1,12 @@
 ---
 slug: greens-seek-veto-of-ge-corn-approval
-title: "Greens seek veto of GE corn approval"
-date: 2007-02-07
-source-url: https://www.scoop.co.nz/stories/PA0702/S00079/greens-seek-veto-of-ge-corn-approval.htm
+title: Greens seek veto of GE corn approval
+date: 2007-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00079/greens-seek-veto-of-ge-corn-approval.htm
 author: green-party
+permalink: /archive/2007/02/07/greens-seek-veto-of-ge-corn-approval/index.html
+layout: layout.njk
 ---
 Greens seek veto of GE corn approval
 ====================================

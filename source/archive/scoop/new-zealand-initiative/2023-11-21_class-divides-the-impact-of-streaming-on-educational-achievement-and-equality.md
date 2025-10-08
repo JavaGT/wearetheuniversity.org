@@ -1,9 +1,13 @@
 ---
 slug: class-divides-the-impact-of-streaming-on-educational-achievement-and-equality
-title: "Class Divides? The Impact Of Streaming On Educational Achievement And Equality"
-date: 2023-11-21
-source-url: https://www.scoop.co.nz/stories/HL2311/S00038/class-divides-the-impact-of-streaming-on-educational-achievement-and-equality.htm
+title: Class Divides? The Impact Of Streaming On Educational Achievement And Equality
+date: 2023-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL2311/S00038/class-divides-the-impact-of-streaming-on-educational-achievement-and-equality.htm
 author: new-zealand-initiative
+permalink: >-
+  /archive/2023/11/21/class-divides-the-impact-of-streaming-on-educational-achievement-and-equality/index.html
+layout: layout.njk
 ---
 Class Divides? The Impact Of Streaming On Educational Achievement And Equality
 ==============================================================================

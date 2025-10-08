@@ -1,9 +1,13 @@
 ---
 slug: high-value-scholarship-for-uc-engineering-student
-title: "High value scholarship for UC engineering student"
-date: 2008-10-29
-source-url: https://www.scoop.co.nz/stories/ED0810/S00111/high-value-scholarship-for-uc-engineering-student.htm
+title: High value scholarship for UC engineering student
+date: 2008-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00111/high-value-scholarship-for-uc-engineering-student.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2008/10/29/high-value-scholarship-for-uc-engineering-student/index.html
+layout: layout.njk
 ---
 High value scholarship for UC engineering student
 =================================================

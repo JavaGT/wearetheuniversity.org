@@ -1,9 +1,12 @@
 ---
 slug: speech-turia-recession-in-the-midst
-title: "Speech: Turia - Recession in the Midst"
-date: 2009-05-07
-source-url: https://www.scoop.co.nz/stories/PA0905/S00129/speech-turia-recession-in-the-midst.htm
+title: 'Speech: Turia - Recession in the Midst'
+date: 2009-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00129/speech-turia-recession-in-the-midst.htm
 author: te-pati-maori
+permalink: /archive/2009/05/07/speech-turia-recession-in-the-midst/index.html
+layout: layout.njk
 ---
 Speech: Turia - Recession in the Midst
 ======================================

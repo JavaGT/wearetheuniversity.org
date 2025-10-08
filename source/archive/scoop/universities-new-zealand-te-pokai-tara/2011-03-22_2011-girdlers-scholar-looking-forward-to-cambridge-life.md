@@ -1,9 +1,13 @@
 ---
 slug: 2011-girdlers-scholar-looking-forward-to-cambridge-life
-title: "2011 Girdlers’ Scholar Looking Forward to Cambridge Life"
-date: 2011-03-22
-source-url: https://www.scoop.co.nz/stories/ED1103/S00092/2011-girdlers-scholar-looking-forward-to-cambridge-life.htm
+title: 2011 Girdlers’ Scholar Looking Forward to Cambridge Life
+date: 2011-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00092/2011-girdlers-scholar-looking-forward-to-cambridge-life.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2011/03/22/2011-girdlers-scholar-looking-forward-to-cambridge-life/index.html
+layout: layout.njk
 ---
 2011 Girdlers’ Scholar Looking Forward to Cambridge Life
 ========================================================

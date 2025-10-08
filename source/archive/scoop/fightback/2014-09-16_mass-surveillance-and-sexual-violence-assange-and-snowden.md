@@ -1,9 +1,13 @@
 ---
 slug: mass-surveillance-and-sexual-violence-assange-and-snowden
-title: "Mass surveillance and sexual violence: Assange and Snowden"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/HL1409/S00133/mass-surveillance-and-sexual-violence-assange-and-snowden.htm
+title: 'Mass surveillance and sexual violence: Assange and Snowden'
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1409/S00133/mass-surveillance-and-sexual-violence-assange-and-snowden.htm
 author: fightback
+permalink: >-
+  /archive/2014/09/16/mass-surveillance-and-sexual-violence-assange-and-snowden/index.html
+layout: layout.njk
 ---
 Mass surveillance and sexual violence: Assange and Snowden
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: government-plan-to-reinstate-live-animal-exports-a-national-disgrace
-title: "Government Plan To Reinstate Live Animal Exports A \"National Disgrace\""
-date: 2024-11-20
-source-url: https://www.scoop.co.nz/stories/PA2411/S00152/government-plan-to-reinstate-live-animal-exports-a-national-disgrace.htm
+title: Government Plan To Reinstate Live Animal Exports A "National Disgrace"
+date: 2024-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00152/government-plan-to-reinstate-live-animal-exports-a-national-disgrace.htm
 author: green-party
+permalink: >-
+  /archive/2024/11/20/government-plan-to-reinstate-live-animal-exports-a-national-disgrace/index.html
+layout: layout.njk
 ---
 Government Plan To Reinstate Live Animal Exports A “National Disgrace”
 ======================================================================

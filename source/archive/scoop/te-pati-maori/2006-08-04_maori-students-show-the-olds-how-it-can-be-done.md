@@ -1,9 +1,12 @@
 ---
 slug: maori-students-show-the-olds-how-it-can-be-done
-title: "Maori Students Show the Olds How it can be done"
-date: 2006-08-04
-source-url: https://www.scoop.co.nz/stories/PA0608/S00089/maori-students-show-the-olds-how-it-can-be-done.htm
+title: Maori Students Show the Olds How it can be done
+date: 2006-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00089/maori-students-show-the-olds-how-it-can-be-done.htm
 author: te-pati-maori
+permalink: /archive/2006/08/04/maori-students-show-the-olds-how-it-can-be-done/index.html
+layout: layout.njk
 ---
 Maori Students Show the Olds How it can be done
 ===============================================

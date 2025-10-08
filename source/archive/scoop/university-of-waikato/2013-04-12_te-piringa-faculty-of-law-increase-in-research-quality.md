@@ -1,9 +1,13 @@
 ---
 slug: te-piringa-faculty-of-law-increase-in-research-quality
-title: "Te Piringa - Faculty Of Law Increase in Research Quality"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/ED1304/S00076/te-piringa-faculty-of-law-increase-in-research-quality.htm
+title: Te Piringa - Faculty Of Law Increase in Research Quality
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00076/te-piringa-faculty-of-law-increase-in-research-quality.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/04/12/te-piringa-faculty-of-law-increase-in-research-quality/index.html
+layout: layout.njk
 ---
 Te Piringa - Faculty Of Law Increase in Research Quality
 ========================================================

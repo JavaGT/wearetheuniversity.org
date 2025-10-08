@@ -1,9 +1,13 @@
 ---
 slug: christchurchs-leading-woman-of-science-celebrated
-title: "Christchurch’s leading woman of science celebrated"
-date: 2015-12-07
-source-url: https://www.scoop.co.nz/stories/SC1512/S00036/christchurchs-leading-woman-of-science-celebrated.htm
+title: Christchurch’s leading woman of science celebrated
+date: 2015-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00036/christchurchs-leading-woman-of-science-celebrated.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/12/07/christchurchs-leading-woman-of-science-celebrated/index.html
+layout: layout.njk
 ---
 Christchurch’s leading woman of science celebrated
 ==================================================

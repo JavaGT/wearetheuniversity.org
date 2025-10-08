@@ -1,9 +1,12 @@
 ---
 slug: dole-deal-is-to-soften-up-aussies
-title: "Dole Deal Is To Soften Up Aussies"
-date: 2001-02-27
-source-url: https://www.scoop.co.nz/stories/PA0102/S00408/dole-deal-is-to-soften-up-aussies.htm
+title: Dole Deal Is To Soften Up Aussies
+date: 2001-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00408/dole-deal-is-to-soften-up-aussies.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/27/dole-deal-is-to-soften-up-aussies/index.html
+layout: layout.njk
 ---
 Dole Deal Is To Soften Up Aussies
 =================================

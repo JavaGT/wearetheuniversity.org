@@ -1,9 +1,12 @@
 ---
 slug: business-roundtable-hosts-liquor-debate
-title: "Business Roundtable Hosts Liquor Debate"
-date: 2009-11-24
-source-url: https://www.scoop.co.nz/stories/BU0911/S00745/business-roundtable-hosts-liquor-debate.htm
+title: Business Roundtable Hosts Liquor Debate
+date: 2009-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0911/S00745/business-roundtable-hosts-liquor-debate.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2009/11/24/business-roundtable-hosts-liquor-debate/index.html
+layout: layout.njk
 ---
 Business Roundtable Hosts Liquor Debate
 =======================================

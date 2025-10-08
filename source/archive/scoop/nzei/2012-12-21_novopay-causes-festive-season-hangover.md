@@ -1,9 +1,12 @@
 ---
 slug: novopay-causes-festive-season-hangover
-title: "Novopay causes festive season hangover"
-date: 2012-12-21
-source-url: https://www.scoop.co.nz/stories/ED1212/S00140/novopay-causes-festive-season-hangover.htm
+title: Novopay causes festive season hangover
+date: 2012-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00140/novopay-causes-festive-season-hangover.htm
 author: nzei
+permalink: /archive/2012/12/21/novopay-causes-festive-season-hangover/index.html
+layout: layout.njk
 ---
 Novopay causes festive season hangover
 ======================================

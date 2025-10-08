@@ -1,9 +1,13 @@
 ---
 slug: green-party-announces-sahra-ahmed-as-candidate-for-christchurch-east
-title: "Green Party Announces Sahra Ahmed As Candidate For Christchurch East"
-date: 2023-04-16
-source-url: https://www.scoop.co.nz/stories/PO2304/S00092/green-party-announces-sahra-ahmed-as-candidate-for-christchurch-east.htm
+title: Green Party Announces Sahra Ahmed As Candidate For Christchurch East
+date: 2023-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2304/S00092/green-party-announces-sahra-ahmed-as-candidate-for-christchurch-east.htm
 author: green-party
+permalink: >-
+  /archive/2023/04/16/green-party-announces-sahra-ahmed-as-candidate-for-christchurch-east/index.html
+layout: layout.njk
 ---
 Green Party Announces Sahra Ahmed As Candidate For Christchurch East
 ====================================================================

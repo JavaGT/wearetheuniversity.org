@@ -1,9 +1,12 @@
 ---
 slug: fee-hikes-restrict-student-choices
-title: "Fee hikes restrict student choices"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/PO1409/S00345/fee-hikes-restrict-student-choices.htm
+title: Fee hikes restrict student choices
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00345/fee-hikes-restrict-student-choices.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/09/15/fee-hikes-restrict-student-choices/index.html
+layout: layout.njk
 ---
 Fee hikes restrict student choices
 ==================================

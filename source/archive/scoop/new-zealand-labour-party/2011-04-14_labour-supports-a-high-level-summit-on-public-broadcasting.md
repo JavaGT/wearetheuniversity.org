@@ -1,9 +1,13 @@
 ---
 slug: labour-supports-a-high-level-summit-on-public-broadcasting
-title: "Labour Supports a High Level Summit on Public Broadcasting"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/PA1104/S00338/labour-supports-a-high-level-summit-on-public-broadcasting.htm
+title: Labour Supports a High Level Summit on Public Broadcasting
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00338/labour-supports-a-high-level-summit-on-public-broadcasting.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/14/labour-supports-a-high-level-summit-on-public-broadcasting/index.html
+layout: layout.njk
 ---
 Labour Supports a High Level Summit on Public Broadcasting
 ==========================================================

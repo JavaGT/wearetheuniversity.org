@@ -1,9 +1,13 @@
 ---
 slug: honorary-doctorate-for-the-boy-who-ran-away-to-sea
-title: "Honorary doctorate for the boy who ran away to sea"
-date: 2010-08-30
-source-url: https://www.scoop.co.nz/stories/ED1008/S00102/honorary-doctorate-for-the-boy-who-ran-away-to-sea.htm
+title: Honorary doctorate for the boy who ran away to sea
+date: 2010-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00102/honorary-doctorate-for-the-boy-who-ran-away-to-sea.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/08/30/honorary-doctorate-for-the-boy-who-ran-away-to-sea/index.html
+layout: layout.njk
 ---
 Honorary doctorate for the boy who ran away to sea
 ==================================================

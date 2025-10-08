@@ -1,9 +1,12 @@
 ---
 slug: roger-douglas-bill-will-put-students-at-risk
-title: "Roger Douglas' Bill will put students at risk"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/ED0909/S00091/roger-douglas-bill-will-put-students-at-risk.htm
+title: Roger Douglas' Bill will put students at risk
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00091/roger-douglas-bill-will-put-students-at-risk.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/09/24/roger-douglas-bill-will-put-students-at-risk/index.html
+layout: layout.njk
 ---
 Roger Douglas' Bill will put students at risk
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: theatre-students-present-plays-to-public
-title: "Theatre students present plays to public"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/ED0608/S00033/theatre-students-present-plays-to-public.htm
+title: Theatre students present plays to public
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00033/theatre-students-present-plays-to-public.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/10/theatre-students-present-plays-to-public/index.html
+layout: layout.njk
 ---
 Theatre students present plays to public
 ========================================

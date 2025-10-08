@@ -1,9 +1,12 @@
 ---
 slug: university-staff-urge-sanctions-against-fiji
-title: "University staff urge sanctions against Fiji"
-date: 2000-06-01
-source-url: https://www.scoop.co.nz/stories/ED0006/S00003/university-staff-urge-sanctions-against-fiji.htm
+title: University staff urge sanctions against Fiji
+date: 2000-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00003/university-staff-urge-sanctions-against-fiji.htm
 author: association-of-university-staff
+permalink: /archive/2000/06/01/university-staff-urge-sanctions-against-fiji/index.html
+layout: layout.njk
 ---
 University staff urge sanctions against Fiji
 ============================================

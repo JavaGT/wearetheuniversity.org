@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-looks-at-major-capital-spending
-title: "Waikato University Looks At Major Capital Spending"
-date: 2003-11-20
-source-url: https://www.scoop.co.nz/stories/ED0311/S00067/waikato-university-looks-at-major-capital-spending.htm
+title: Waikato University Looks At Major Capital Spending
+date: 2003-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00067/waikato-university-looks-at-major-capital-spending.htm
 author: waikato-university
+permalink: >-
+  /archive/2003/11/20/waikato-university-looks-at-major-capital-spending/index.html
+layout: layout.njk
 ---
 Waikato University Looks At Major Capital Spending
 ==================================================

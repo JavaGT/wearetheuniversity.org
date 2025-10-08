@@ -1,9 +1,13 @@
 ---
 slug: new-position-tackles-the-frontiers-of-cyber-security
-title: "New position tackles the frontiers of cyber security"
-date: 2018-03-06
-source-url: https://www.scoop.co.nz/stories/ED1803/S00027/new-position-tackles-the-frontiers-of-cyber-security.htm
+title: New position tackles the frontiers of cyber security
+date: 2018-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00027/new-position-tackles-the-frontiers-of-cyber-security.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2018/03/06/new-position-tackles-the-frontiers-of-cyber-security/index.html
+layout: layout.njk
 ---
 New position tackles the frontiers of cyber security
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: juggling-study-and-sport-pays-off-for-massey-students
-title: "Juggling study and sport pays off for Massey students"
-date: 2017-10-20
-source-url: https://www.scoop.co.nz/stories/ED1710/S00063/juggling-study-and-sport-pays-off-for-massey-students.htm
+title: Juggling study and sport pays off for Massey students
+date: 2017-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00063/juggling-study-and-sport-pays-off-for-massey-students.htm
 author: massey-university
+permalink: >-
+  /archive/2017/10/20/juggling-study-and-sport-pays-off-for-massey-students/index.html
+layout: layout.njk
 ---
 Juggling study and sport pays off for Massey students
 =====================================================

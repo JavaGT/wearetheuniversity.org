@@ -1,9 +1,12 @@
 ---
 slug: international-win-for-clever-dataminer
-title: "International win for clever dataminer"
-date: 2009-08-17
-source-url: https://www.scoop.co.nz/stories/BU0908/S00429/international-win-for-clever-dataminer.htm
+title: International win for clever dataminer
+date: 2009-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0908/S00429/international-win-for-clever-dataminer.htm
 author: university-of-waikato
+permalink: /archive/2009/08/17/international-win-for-clever-dataminer/index.html
+layout: layout.njk
 ---
 International win for clever dataminer
 ======================================

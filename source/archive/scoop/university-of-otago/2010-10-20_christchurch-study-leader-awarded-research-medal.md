@@ -1,9 +1,13 @@
 ---
 slug: christchurch-study-leader-awarded-research-medal
-title: "Christchurch Study leader awarded Research Medal"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/GE1010/S00088/christchurch-study-leader-awarded-research-medal.htm
+title: Christchurch Study leader awarded Research Medal
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1010/S00088/christchurch-study-leader-awarded-research-medal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/10/20/christchurch-study-leader-awarded-research-medal/index.html
+layout: layout.njk
 ---
 Christchurch Study leader awarded Research Medal
 ================================================

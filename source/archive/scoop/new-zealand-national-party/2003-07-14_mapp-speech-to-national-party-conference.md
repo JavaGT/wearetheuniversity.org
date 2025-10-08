@@ -1,9 +1,12 @@
 ---
 slug: mapp-speech-to-national-party-conference
-title: "Mapp Speech To National Party Conference"
-date: 2003-07-14
-source-url: https://www.scoop.co.nz/stories/PA0307/S00242/mapp-speech-to-national-party-conference.htm
+title: Mapp Speech To National Party Conference
+date: 2003-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00242/mapp-speech-to-national-party-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/14/mapp-speech-to-national-party-conference/index.html
+layout: layout.njk
 ---
 Mapp Speech To National Party Conference
 ========================================

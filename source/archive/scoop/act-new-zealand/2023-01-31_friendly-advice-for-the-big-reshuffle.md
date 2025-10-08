@@ -1,9 +1,12 @@
 ---
 slug: friendly-advice-for-the-big-reshuffle
-title: "Friendly Advice For The Big Reshuffle"
-date: 2023-01-31
-source-url: https://www.scoop.co.nz/stories/PA2301/S00079/friendly-advice-for-the-big-reshuffle.htm
+title: Friendly Advice For The Big Reshuffle
+date: 2023-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2301/S00079/friendly-advice-for-the-big-reshuffle.htm
 author: act-new-zealand
+permalink: /archive/2023/01/31/friendly-advice-for-the-big-reshuffle/index.html
+layout: layout.njk
 ---
 Friendly Advice For The Big Reshuffle
 =====================================

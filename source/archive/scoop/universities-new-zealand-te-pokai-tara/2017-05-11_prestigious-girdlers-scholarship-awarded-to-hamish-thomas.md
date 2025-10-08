@@ -1,9 +1,13 @@
 ---
 slug: prestigious-girdlers-scholarship-awarded-to-hamish-thomas
-title: "Prestigious Girdlers’ Scholarship awarded to Hamish Thomas"
-date: 2017-05-11
-source-url: https://www.scoop.co.nz/stories/ED1705/S00060/prestigious-girdlers-scholarship-awarded-to-hamish-thomas.htm
+title: Prestigious Girdlers’ Scholarship awarded to Hamish Thomas
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00060/prestigious-girdlers-scholarship-awarded-to-hamish-thomas.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2017/05/11/prestigious-girdlers-scholarship-awarded-to-hamish-thomas/index.html
+layout: layout.njk
 ---
 Prestigious Girdlers’ Scholarship awarded to Hamish Thomas
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: maharey-abuses-ministerial-position
-title: "Maharey abuses ministerial position"
-date: 2005-11-18
-source-url: https://www.scoop.co.nz/stories/PA0511/S00273/maharey-abuses-ministerial-position.htm
+title: Maharey abuses ministerial position
+date: 2005-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00273/maharey-abuses-ministerial-position.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/18/maharey-abuses-ministerial-position/index.html
+layout: layout.njk
 ---
 Maharey abuses ministerial position
 ===================================

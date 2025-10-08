@@ -1,9 +1,13 @@
 ---
 slug: chch-fightback-reading-group-how-to-make-a-revolution
-title: "CHCH Fightback Reading Group: How To Make a Revolution"
-date: 2014-07-04
-source-url: https://www.scoop.co.nz/stories/PO1407/S00086/chch-fightback-reading-group-how-to-make-a-revolution.htm
+title: 'CHCH Fightback Reading Group: How To Make a Revolution'
+date: 2014-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00086/chch-fightback-reading-group-how-to-make-a-revolution.htm
 author: fightback
+permalink: >-
+  /archive/2014/07/04/chch-fightback-reading-group-how-to-make-a-revolution/index.html
+layout: layout.njk
 ---
 CHCH Fightback Reading Group: How To Make a Revolution
 ======================================================

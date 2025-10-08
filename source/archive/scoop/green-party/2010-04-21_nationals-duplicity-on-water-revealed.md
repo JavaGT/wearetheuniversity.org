@@ -1,9 +1,12 @@
 ---
 slug: nationals-duplicity-on-water-revealed
-title: "National’s duplicity on water revealed"
-date: 2010-04-21
-source-url: https://www.scoop.co.nz/stories/PA1004/S00235/nationals-duplicity-on-water-revealed.htm
+title: National’s duplicity on water revealed
+date: 2010-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00235/nationals-duplicity-on-water-revealed.htm
 author: green-party
+permalink: /archive/2010/04/21/nationals-duplicity-on-water-revealed/index.html
+layout: layout.njk
 ---
 National’s duplicity on water revealed
 ======================================

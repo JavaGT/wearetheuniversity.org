@@ -1,9 +1,12 @@
 ---
 slug: sue-bolton-socialist-councillor-for-moreland-(australia)
-title: "Sue Bolton, Socialist Councillor for Moreland (Australia)"
-date: 2014-04-03
-source-url: https://www.scoop.co.nz/stories/HL1404/S00017/sue-bolton-socialist-councillor-for-moreland-australia.htm
+title: Sue Bolton, Socialist Councillor for Moreland (Australia)
+date: 2014-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1404/S00017/sue-bolton-socialist-councillor-for-moreland-australia.htm
 author: fightback
+permalink: /archive/2014/04/03/sue-bolton-socialist-councillor-for-moreland-/index.html
+layout: layout.njk
 ---
 Sue Bolton, Socialist Councillor for Moreland (Australia)
 =========================================================

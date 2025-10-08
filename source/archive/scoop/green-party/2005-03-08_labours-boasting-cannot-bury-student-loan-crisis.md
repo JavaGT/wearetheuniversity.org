@@ -1,9 +1,13 @@
 ---
 slug: labours-boasting-cannot-bury-student-loan-crisis
-title: "Labour’s boasting cannot bury student loan crisis"
-date: 2005-03-08
-source-url: https://www.scoop.co.nz/stories/PA0503/S00168/labours-boasting-cannot-bury-student-loan-crisis.htm
+title: Labour’s boasting cannot bury student loan crisis
+date: 2005-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00168/labours-boasting-cannot-bury-student-loan-crisis.htm
 author: green-party
+permalink: >-
+  /archive/2005/03/08/labours-boasting-cannot-bury-student-loan-crisis/index.html
+layout: layout.njk
 ---
 Labour’s boasting cannot bury student loan crisis
 =================================================

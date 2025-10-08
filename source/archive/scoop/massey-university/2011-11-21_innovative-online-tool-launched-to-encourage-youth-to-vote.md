@@ -1,9 +1,13 @@
 ---
 slug: innovative-online-tool-launched-to-encourage-youth-to-vote
-title: "Innovative online tool launched to encourage youth to vote"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/PO1111/S00544/innovative-online-tool-launched-to-encourage-youth-to-vote.htm
+title: Innovative online tool launched to encourage youth to vote
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00544/innovative-online-tool-launched-to-encourage-youth-to-vote.htm
 author: massey-university
+permalink: >-
+  /archive/2011/11/21/innovative-online-tool-launched-to-encourage-youth-to-vote/index.html
+layout: layout.njk
 ---
 Innovative online tool launched to encourage youth to vote
 ==========================================================

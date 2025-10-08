@@ -1,9 +1,12 @@
 ---
 slug: $100m-hidden-cost-of-housing-policy-revealed
-title: "$100M Hidden Cost Of Housing Policy Revealed"
-date: 2000-03-29
-source-url: https://www.scoop.co.nz/stories/PA0003/S00514/100m-hidden-cost-of-housing-policy-revealed.htm
+title: $100M Hidden Cost Of Housing Policy Revealed
+date: 2000-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00514/100m-hidden-cost-of-housing-policy-revealed.htm
 author: act-new-zealand
+permalink: /archive/2000/03/29/100m-hidden-cost-of-housing-policy-revealed/index.html
+layout: layout.njk
 ---
 $100M Hidden Cost Of Housing Policy Revealed
 ============================================

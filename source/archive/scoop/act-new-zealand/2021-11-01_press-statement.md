@@ -1,9 +1,11 @@
 ---
 slug: press-statement
-title: "Press Statement"
-date: 2021-11-01
+title: Press Statement
+date: 2021-11-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2111/S00009/press-statement.htm
 author: act-new-zealand
+permalink: /archive/2021/11/01/press-statement/index.html
+layout: layout.njk
 ---
 Press Statement
 ===============

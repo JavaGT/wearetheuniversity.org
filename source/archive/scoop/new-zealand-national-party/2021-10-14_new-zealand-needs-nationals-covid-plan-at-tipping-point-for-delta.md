@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-needs-nationals-covid-plan-at-tipping-point-for-delta
-title: "New Zealand Needs National’s Covid Plan At Tipping Point For Delta"
-date: 2021-10-14
-source-url: https://www.scoop.co.nz/stories/PA2110/S00132/new-zealand-needs-nationals-covid-plan-at-tipping-point-for-delta.htm
+title: New Zealand Needs National’s Covid Plan At Tipping Point For Delta
+date: 2021-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00132/new-zealand-needs-nationals-covid-plan-at-tipping-point-for-delta.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/14/new-zealand-needs-nationals-covid-plan-at-tipping-point-for-delta/index.html
+layout: layout.njk
 ---
 New Zealand Needs National’s Covid Plan At Tipping Point For Delta
 ==================================================================

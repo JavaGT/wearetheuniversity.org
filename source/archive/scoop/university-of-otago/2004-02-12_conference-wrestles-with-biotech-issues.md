@@ -1,9 +1,12 @@
 ---
 slug: conference-wrestles-with-biotech-issues
-title: "Conference Wrestles With Biotech Issues"
-date: 2004-02-12
-source-url: https://www.scoop.co.nz/stories/SC0402/S00034/conference-wrestles-with-biotech-issues.htm
+title: Conference Wrestles With Biotech Issues
+date: 2004-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0402/S00034/conference-wrestles-with-biotech-issues.htm
 author: university-of-otago
+permalink: /archive/2004/02/12/conference-wrestles-with-biotech-issues/index.html
+layout: layout.njk
 ---
 Conference Wrestles With Biotech Issues
 =======================================

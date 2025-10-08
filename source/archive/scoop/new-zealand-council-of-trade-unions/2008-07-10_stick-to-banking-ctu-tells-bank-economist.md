@@ -1,9 +1,12 @@
 ---
 slug: stick-to-banking-ctu-tells-bank-economist
-title: "Stick to Banking – CTU tells Bank Economist"
-date: 2008-07-10
-source-url: https://www.scoop.co.nz/stories/PO0807/S00148/stick-to-banking-ctu-tells-bank-economist.htm
+title: Stick to Banking – CTU tells Bank Economist
+date: 2008-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00148/stick-to-banking-ctu-tells-bank-economist.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/07/10/stick-to-banking-ctu-tells-bank-economist/index.html
+layout: layout.njk
 ---
 Stick to Banking – CTU tells Bank Economist
 ===========================================

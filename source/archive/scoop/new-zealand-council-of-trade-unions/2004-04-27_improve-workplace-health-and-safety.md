@@ -1,9 +1,12 @@
 ---
 slug: improve-workplace-health-and-safety
-title: "Improve Workplace Health and Safety"
-date: 2004-04-27
-source-url: https://www.scoop.co.nz/stories/PO0404/S00176/improve-workplace-health-and-safety.htm
+title: Improve Workplace Health and Safety
+date: 2004-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0404/S00176/improve-workplace-health-and-safety.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/04/27/improve-workplace-health-and-safety/index.html
+layout: layout.njk
 ---
 Improve Workplace Health and Safety
 ===================================

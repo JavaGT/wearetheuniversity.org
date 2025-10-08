@@ -1,9 +1,13 @@
 ---
 slug: nees-appointed-canterburys-inaugural-architect-in-residence
-title: "Nees appointed Canterbury’s inaugural architect in residence"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/AK1408/S00227/nees-appointed-canterburys-inaugural-architect-in-residence.htm
+title: Nees appointed Canterbury’s inaugural architect in residence
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00227/nees-appointed-canterburys-inaugural-architect-in-residence.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/13/nees-appointed-canterburys-inaugural-architect-in-residence/index.html
+layout: layout.njk
 ---
 Nees appointed Canterbury’s inaugural architect in residence
 ============================================================

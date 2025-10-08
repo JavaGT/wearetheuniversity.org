@@ -1,9 +1,12 @@
 ---
 slug: new-leadership-team-congratulated
-title: "New leadership team congratulated"
-date: 2011-12-13
-source-url: https://www.scoop.co.nz/stories/PA1112/S00088/new-leadership-team-congratulated.htm
+title: New leadership team congratulated
+date: 2011-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00088/new-leadership-team-congratulated.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/13/new-leadership-team-congratulated/index.html
+layout: layout.njk
 ---
 New leadership team congratulated
 =================================

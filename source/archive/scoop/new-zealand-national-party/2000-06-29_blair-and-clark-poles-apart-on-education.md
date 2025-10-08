@@ -1,9 +1,12 @@
 ---
 slug: blair-and-clark-poles-apart-on-education
-title: "Blair And Clark Poles Apart On Education"
-date: 2000-06-29
-source-url: https://www.scoop.co.nz/stories/PA0006/S00640/blair-and-clark-poles-apart-on-education.htm
+title: Blair And Clark Poles Apart On Education
+date: 2000-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00640/blair-and-clark-poles-apart-on-education.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/29/blair-and-clark-poles-apart-on-education/index.html
+layout: layout.njk
 ---
 Blair And Clark Poles Apart On Education
 ========================================

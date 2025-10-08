@@ -1,9 +1,13 @@
 ---
 slug: telecomix-hacktivist-to-talk-about-control-of-cyberspace
-title: "Telecomix hacktivist to talk about control of cyberspace"
-date: 2014-05-09
-source-url: https://www.scoop.co.nz/stories/PO1405/S00141/telecomix-hacktivist-to-talk-about-control-of-cyberspace.htm
+title: Telecomix hacktivist to talk about control of cyberspace
+date: 2014-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00141/telecomix-hacktivist-to-talk-about-control-of-cyberspace.htm
 author: massey-university
+permalink: >-
+  /archive/2014/05/09/telecomix-hacktivist-to-talk-about-control-of-cyberspace/index.html
+layout: layout.njk
 ---
 Telecomix hacktivist to talk about control of cyberspace
 ========================================================

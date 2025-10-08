@@ -1,9 +1,13 @@
 ---
 slug: food-biochemist-acknowledged-as-visiting-professor
-title: "Food Biochemist Acknowledged as Visiting Professor"
-date: 2006-01-11
-source-url: https://www.scoop.co.nz/stories/GE0601/S00017/food-biochemist-acknowledged-as-visiting-professor.htm
+title: Food Biochemist Acknowledged as Visiting Professor
+date: 2006-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0601/S00017/food-biochemist-acknowledged-as-visiting-professor.htm
 author: lincoln-university
+permalink: >-
+  /archive/2006/01/11/food-biochemist-acknowledged-as-visiting-professor/index.html
+layout: layout.njk
 ---
 Food Biochemist Acknowledged as Visiting Professor
 ==================================================

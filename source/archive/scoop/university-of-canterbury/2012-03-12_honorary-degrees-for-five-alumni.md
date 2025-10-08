@@ -1,9 +1,12 @@
 ---
 slug: honorary-degrees-for-five-alumni
-title: "Honorary degrees for five alumni"
-date: 2012-03-12
-source-url: https://www.scoop.co.nz/stories/ED1203/S00053/honorary-degrees-for-five-alumni.htm
+title: Honorary degrees for five alumni
+date: 2012-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00053/honorary-degrees-for-five-alumni.htm
 author: university-of-canterbury
+permalink: /archive/2012/03/12/honorary-degrees-for-five-alumni/index.html
+layout: layout.njk
 ---
 Honorary degrees for five alumni
 ================================

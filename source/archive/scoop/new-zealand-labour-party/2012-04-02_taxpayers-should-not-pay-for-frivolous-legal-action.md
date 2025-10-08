@@ -1,9 +1,13 @@
 ---
 slug: taxpayers-should-not-pay-for-frivolous-legal-action
-title: "Taxpayers Should Not Pay For Frivolous Legal Action"
-date: 2012-04-02
-source-url: https://www.scoop.co.nz/stories/PA1204/S00012/taxpayers-should-not-pay-for-frivolous-legal-action.htm
+title: Taxpayers Should Not Pay For Frivolous Legal Action
+date: 2012-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00012/taxpayers-should-not-pay-for-frivolous-legal-action.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/04/02/taxpayers-should-not-pay-for-frivolous-legal-action/index.html
+layout: layout.njk
 ---
 Taxpayers Should Not Pay For Frivolous Legal Action
 ===================================================

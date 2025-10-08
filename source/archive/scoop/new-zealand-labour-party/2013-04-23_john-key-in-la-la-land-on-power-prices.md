@@ -1,9 +1,12 @@
 ---
 slug: john-key-in-la-la-land-on-power-prices
-title: "John Key In La-La Land On Power Prices"
-date: 2013-04-23
-source-url: https://www.scoop.co.nz/stories/PA1304/S00445/john-key-in-la-la-land-on-power-prices.htm
+title: John Key In La-La Land On Power Prices
+date: 2013-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00445/john-key-in-la-la-land-on-power-prices.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/23/john-key-in-la-la-land-on-power-prices/index.html
+layout: layout.njk
 ---
 John Key In La-La Land On Power Prices
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: hundreds-protest-adult-class-funding-cuts
-title: "Hundreds protest adult class funding cuts"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/ED0908/S00032/hundreds-protest-adult-class-funding-cuts.htm
+title: Hundreds protest adult class funding cuts
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00032/hundreds-protest-adult-class-funding-cuts.htm
 author: salient
+permalink: /archive/2009/08/10/hundreds-protest-adult-class-funding-cuts/index.html
+layout: layout.njk
 ---
 Hundreds protest adult class funding cuts
 =========================================

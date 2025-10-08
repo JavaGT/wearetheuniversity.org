@@ -1,9 +1,12 @@
 ---
 slug: international-study-of-nzs-non-profit-sector
-title: "International Study Of NZ's Non-Profit Sector"
-date: 2008-08-20
-source-url: https://www.scoop.co.nz/stories/ED0808/S00049/international-study-of-nzs-non-profit-sector.htm
+title: International Study Of NZ's Non-Profit Sector
+date: 2008-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00049/international-study-of-nzs-non-profit-sector.htm
 author: massey-university
+permalink: /archive/2008/08/20/international-study-of-nzs-non-profit-sector/index.html
+layout: layout.njk
 ---
 International Study Of NZ's Non-Profit Sector
 =============================================

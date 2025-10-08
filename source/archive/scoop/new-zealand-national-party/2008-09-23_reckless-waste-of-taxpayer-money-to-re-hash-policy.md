@@ -1,9 +1,13 @@
 ---
 slug: reckless-waste-of-taxpayer-money-to-re-hash-policy
-title: "Reckless waste of taxpayer money to re-hash policy"
-date: 2008-09-23
-source-url: https://www.scoop.co.nz/stories/PA0809/S00488/reckless-waste-of-taxpayer-money-to-re-hash-policy.htm
+title: Reckless waste of taxpayer money to re-hash policy
+date: 2008-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00488/reckless-waste-of-taxpayer-money-to-re-hash-policy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/09/23/reckless-waste-of-taxpayer-money-to-re-hash-policy/index.html
+layout: layout.njk
 ---
 Reckless waste of taxpayer money to re-hash policy
 ==================================================

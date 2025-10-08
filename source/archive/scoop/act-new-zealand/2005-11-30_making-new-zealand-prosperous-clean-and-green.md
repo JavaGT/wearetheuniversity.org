@@ -1,9 +1,12 @@
 ---
 slug: making-new-zealand-prosperous-clean-and-green
-title: "Making New Zealand Prosperous, Clean and Green"
-date: 2005-11-30
-source-url: https://www.scoop.co.nz/stories/PA0511/S00428/making-new-zealand-prosperous-clean-and-green.htm
+title: Making New Zealand Prosperous, Clean and Green
+date: 2005-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00428/making-new-zealand-prosperous-clean-and-green.htm
 author: act-new-zealand
+permalink: /archive/2005/11/30/making-new-zealand-prosperous-clean-and-green/index.html
+layout: layout.njk
 ---
 Making New Zealand Prosperous, Clean and Green
 ==============================================

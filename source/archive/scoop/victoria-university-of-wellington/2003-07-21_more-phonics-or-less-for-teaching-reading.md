@@ -1,9 +1,12 @@
 ---
 slug: more-phonics-or-less-for-teaching-reading
-title: "More phonics or less for teaching reading?"
-date: 2003-07-21
-source-url: https://www.scoop.co.nz/stories/ED0307/S00049/more-phonics-or-less-for-teaching-reading.htm
+title: More phonics or less for teaching reading?
+date: 2003-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00049/more-phonics-or-less-for-teaching-reading.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/21/more-phonics-or-less-for-teaching-reading/index.html
+layout: layout.njk
 ---
 More phonics or less for teaching reading?
 ==========================================

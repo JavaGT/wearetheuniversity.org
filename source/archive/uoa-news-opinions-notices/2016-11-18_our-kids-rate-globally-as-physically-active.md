@@ -1,8 +1,11 @@
 ---
 slug: our-kids-rate-globally-as-physically-active
-title: "Our kids rate globally as physically active"
-date: 2016-11-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/our-kids-rate-globally-as-physically-active.html
+title: Our kids rate globally as physically active
+date: 2016-11-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/our-kids-rate-globally-as-physically-active.html
+permalink: /archive/2016/11/18/our-kids-rate-globally-as-physically-active/index.html
+layout: layout.njk
 ---
 Our kids rate globally as physically active
 ===========================================

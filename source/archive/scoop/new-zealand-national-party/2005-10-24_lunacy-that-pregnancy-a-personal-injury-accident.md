@@ -1,9 +1,13 @@
 ---
 slug: lunacy-that-pregnancy-a-personal-injury-accident
-title: "Lunacy that pregnancy a 'personal injury accident'"
-date: 2005-10-24
-source-url: https://www.scoop.co.nz/stories/PA0510/S00143/lunacy-that-pregnancy-a-personal-injury-accident.htm
+title: Lunacy that pregnancy a 'personal injury accident'
+date: 2005-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00143/lunacy-that-pregnancy-a-personal-injury-accident.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/10/24/lunacy-that-pregnancy-a-personal-injury-accident/index.html
+layout: layout.njk
 ---
 Lunacy that pregnancy a 'personal injury accident'
 ==================================================

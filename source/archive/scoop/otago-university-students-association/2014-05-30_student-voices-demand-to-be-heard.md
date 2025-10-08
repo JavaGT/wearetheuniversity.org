@@ -1,9 +1,12 @@
 ---
 slug: student-voices-demand-to-be-heard
-title: "Student Voices Demand to be Heard"
-date: 2014-05-30
-source-url: https://www.scoop.co.nz/stories/ED1405/S00162/student-voices-demand-to-be-heard.htm
+title: Student Voices Demand to be Heard
+date: 2014-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00162/student-voices-demand-to-be-heard.htm
 author: otago-university-students-association
+permalink: /archive/2014/05/30/student-voices-demand-to-be-heard/index.html
+layout: layout.njk
 ---
 Student Voices Demand to be Heard
 =================================

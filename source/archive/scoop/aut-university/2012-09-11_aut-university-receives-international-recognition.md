@@ -1,9 +1,13 @@
 ---
 slug: aut-university-receives-international-recognition
-title: "AUT University receives international recognition"
-date: 2012-09-11
-source-url: https://www.scoop.co.nz/stories/ED1209/S00068/aut-university-receives-international-recognition.htm
+title: AUT University receives international recognition
+date: 2012-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00068/aut-university-receives-international-recognition.htm
 author: aut-university
+permalink: >-
+  /archive/2012/09/11/aut-university-receives-international-recognition/index.html
+layout: layout.njk
 ---
 AUT University receives international recognition
 =================================================

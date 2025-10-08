@@ -1,9 +1,12 @@
 ---
 slug: new-poetry-collection-launching-this-weekend
-title: "New Poetry Collection Launching This Weekend"
-date: 2008-05-16
-source-url: https://www.scoop.co.nz/stories/CU0805/S00173/new-poetry-collection-launching-this-weekend.htm
+title: New Poetry Collection Launching This Weekend
+date: 2008-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0805/S00173/new-poetry-collection-launching-this-weekend.htm
 author: auckland-university-press
+permalink: /archive/2008/05/16/new-poetry-collection-launching-this-weekend/index.html
+layout: layout.njk
 ---
 New Poetry Collection Launching This Weekend
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: nzusa-calls-for-increased-student-support-with-yo-yoing-alert-levels
-title: "NZUSA Calls For Increased Student Support With Yo-yoing Alert Levels"
-date: 2021-02-28
-source-url: https://www.scoop.co.nz/stories/PO2102/S00217/nzusa-calls-for-increased-student-support-with-yo-yoing-alert-levels.htm
+title: NZUSA Calls For Increased Student Support With Yo-yoing Alert Levels
+date: 2021-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2102/S00217/nzusa-calls-for-increased-student-support-with-yo-yoing-alert-levels.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/02/28/nzusa-calls-for-increased-student-support-with-yo-yoing-alert-levels/index.html
+layout: layout.njk
 ---
 NZUSA Calls For Increased Student Support With Yo-yoing Alert Levels
 ====================================================================

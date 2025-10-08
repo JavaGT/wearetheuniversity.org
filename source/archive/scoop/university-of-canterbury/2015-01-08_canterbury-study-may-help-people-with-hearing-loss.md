@@ -1,9 +1,13 @@
 ---
 slug: canterbury-study-may-help-people-with-hearing-loss
-title: "Canterbury study may help people with hearing loss"
-date: 2015-01-08
-source-url: https://www.scoop.co.nz/stories/GE1501/S00010/canterbury-study-may-help-people-with-hearing-loss.htm
+title: Canterbury study may help people with hearing loss
+date: 2015-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1501/S00010/canterbury-study-may-help-people-with-hearing-loss.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/08/canterbury-study-may-help-people-with-hearing-loss/index.html
+layout: layout.njk
 ---
 Canterbury study may help people with hearing loss
 ==================================================

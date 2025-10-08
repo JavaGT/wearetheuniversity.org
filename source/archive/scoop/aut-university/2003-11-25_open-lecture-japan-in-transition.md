@@ -1,9 +1,12 @@
 ---
 slug: open-lecture-japan-in-transition
-title: "Open Lecture: Japan in Transition"
-date: 2003-11-25
-source-url: https://www.scoop.co.nz/stories/ED0311/S00083/open-lecture-japan-in-transition.htm
+title: 'Open Lecture: Japan in Transition'
+date: 2003-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00083/open-lecture-japan-in-transition.htm
 author: aut-university
+permalink: /archive/2003/11/25/open-lecture-japan-in-transition/index.html
+layout: layout.njk
 ---
 Open Lecture: Japan in Transition
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: pizza-man-makes-special-delivery
-title: "Pizza man makes special delivery"
-date: 2000-03-15
-source-url: https://www.scoop.co.nz/stories/PA0003/S00225/pizza-man-makes-special-delivery.htm
+title: Pizza man makes special delivery
+date: 2000-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00225/pizza-man-makes-special-delivery.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/15/pizza-man-makes-special-delivery/index.html
+layout: layout.njk
 ---
 Pizza man makes special delivery
 ================================

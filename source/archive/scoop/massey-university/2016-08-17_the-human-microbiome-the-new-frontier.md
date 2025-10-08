@@ -1,9 +1,12 @@
 ---
 slug: the-human-microbiome-the-new-frontier
-title: "The human microbiome – the new frontier"
-date: 2016-08-17
-source-url: https://www.scoop.co.nz/stories/GE1608/S00071/the-human-microbiome-the-new-frontier.htm
+title: The human microbiome – the new frontier
+date: 2016-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00071/the-human-microbiome-the-new-frontier.htm
 author: massey-university
+permalink: /archive/2016/08/17/the-human-microbiome-the-new-frontier/index.html
+layout: layout.njk
 ---
 The human microbiome – the new frontier
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: trade-training-is-a-focus-for-national
-title: "Trade training is a focus for National"
-date: 2008-04-29
-source-url: https://www.scoop.co.nz/stories/PA0804/S00625/trade-training-is-a-focus-for-national.htm
+title: Trade training is a focus for National
+date: 2008-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00625/trade-training-is-a-focus-for-national.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/29/trade-training-is-a-focus-for-national/index.html
+layout: layout.njk
 ---
 Trade training is a focus for National
 ======================================

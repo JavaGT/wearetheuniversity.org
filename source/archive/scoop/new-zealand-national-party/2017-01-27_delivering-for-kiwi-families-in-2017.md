@@ -1,9 +1,12 @@
 ---
 slug: delivering-for-kiwi-families-in-2017
-title: "Delivering for Kiwi families in 2017"
-date: 2017-01-27
-source-url: https://www.scoop.co.nz/stories/AK1701/S00604/delivering-for-kiwi-families-in-2017.htm
+title: Delivering for Kiwi families in 2017
+date: 2017-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1701/S00604/delivering-for-kiwi-families-in-2017.htm
 author: new-zealand-national-party
+permalink: /archive/2017/01/27/delivering-for-kiwi-families-in-2017/index.html
+layout: layout.njk
 ---
 Delivering for Kiwi families in 2017
 ====================================

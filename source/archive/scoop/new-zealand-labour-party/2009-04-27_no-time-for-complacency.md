@@ -1,9 +1,11 @@
 ---
 slug: no-time-for-complacency
-title: "No time for complacency"
-date: 2009-04-27
+title: No time for complacency
+date: 2009-04-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0904/S00326/no-time-for-complacency.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/27/no-time-for-complacency/index.html
+layout: layout.njk
 ---
 No time for complacency
 =======================

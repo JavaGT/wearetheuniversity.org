@@ -1,9 +1,13 @@
 ---
 slug: the-spectre-of-a-right-wing-coalition-government
-title: "The Spectre Of A Right Wing Coalition Government"
-date: 2002-07-24
-source-url: https://www.scoop.co.nz/stories/PA0207/S00653/the-spectre-of-a-right-wing-coalition-government.htm
+title: The Spectre Of A Right Wing Coalition Government
+date: 2002-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00653/the-spectre-of-a-right-wing-coalition-government.htm
 author: green-party
+permalink: >-
+  /archive/2002/07/24/the-spectre-of-a-right-wing-coalition-government/index.html
+layout: layout.njk
 ---
 The Spectre Of A Right Wing Coalition Government
 ================================================

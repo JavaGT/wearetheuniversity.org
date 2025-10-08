@@ -1,9 +1,13 @@
 ---
 slug: waikato-students-receive-freemasons-scholarships
-title: "Waikato students receive Freemasons scholarships"
-date: 2010-06-11
-source-url: https://www.scoop.co.nz/stories/ED1006/S00040/waikato-students-receive-freemasons-scholarships.htm
+title: Waikato students receive Freemasons scholarships
+date: 2010-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00040/waikato-students-receive-freemasons-scholarships.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/06/11/waikato-students-receive-freemasons-scholarships/index.html
+layout: layout.njk
 ---
 Waikato students receive Freemasons scholarships
 ================================================

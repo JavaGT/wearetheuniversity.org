@@ -1,9 +1,12 @@
 ---
 slug: plan-for-transport-windfall-a-lost-opportunity
-title: "Plan for transport windfall a lost opportunity"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/PA0508/S00273/plan-for-transport-windfall-a-lost-opportunity.htm
+title: Plan for transport windfall a lost opportunity
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00273/plan-for-transport-windfall-a-lost-opportunity.htm
 author: green-party
+permalink: /archive/2005/08/10/plan-for-transport-windfall-a-lost-opportunity/index.html
+layout: layout.njk
 ---
 Plan for transport windfall a lost opportunity
 ==============================================

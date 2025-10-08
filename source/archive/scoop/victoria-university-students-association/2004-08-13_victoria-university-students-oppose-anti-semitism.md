@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-students-oppose-anti-semitism
-title: "Victoria University Students Oppose Anti-Semitism"
-date: 2004-08-13
-source-url: https://www.scoop.co.nz/stories/ED0408/S00060/victoria-university-students-oppose-anti-semitism.htm
+title: Victoria University Students Oppose Anti-Semitism
+date: 2004-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00060/victoria-university-students-oppose-anti-semitism.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2004/08/13/victoria-university-students-oppose-anti-semitism/index.html
+layout: layout.njk
 ---
 Victoria University Students Oppose Anti-Semitism
 =================================================

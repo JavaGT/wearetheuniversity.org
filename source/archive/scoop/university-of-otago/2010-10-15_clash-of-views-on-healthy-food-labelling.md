@@ -1,9 +1,12 @@
 ---
 slug: clash-of-views-on-healthy-food-labelling
-title: "Clash of views on healthy food labelling"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/GE1010/S00068/clash-of-views-on-healthy-food-labelling.htm
+title: Clash of views on healthy food labelling
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1010/S00068/clash-of-views-on-healthy-food-labelling.htm
 author: university-of-otago
+permalink: /archive/2010/10/15/clash-of-views-on-healthy-food-labelling/index.html
+layout: layout.njk
 ---
 Clash of views on healthy food labelling
 ========================================

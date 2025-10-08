@@ -1,9 +1,13 @@
 ---
 slug: national-on-right-track-with-road-infrastructure
-title: "National On Right Track With Road Infrastructure"
-date: 2023-09-07
-source-url: https://www.scoop.co.nz/stories/PA2309/S00037/national-on-right-track-with-road-infrastructure.htm
+title: National On Right Track With Road Infrastructure
+date: 2023-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00037/national-on-right-track-with-road-infrastructure.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/09/07/national-on-right-track-with-road-infrastructure/index.html
+layout: layout.njk
 ---
 National On Right Track With Road Infrastructure
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: reserve-bank-needs-to-take-a-closer-look-at-insurance-cos
-title: "Reserve Bank needs to take a closer look at insurance cos"
-date: 2011-04-12
-source-url: https://www.scoop.co.nz/stories/PA1104/S00217/reserve-bank-needs-to-take-a-closer-look-at-insurance-cos.htm
+title: Reserve Bank needs to take a closer look at insurance cos
+date: 2011-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00217/reserve-bank-needs-to-take-a-closer-look-at-insurance-cos.htm
 author: green-party
+permalink: >-
+  /archive/2011/04/12/reserve-bank-needs-to-take-a-closer-look-at-insurance-cos/index.html
+layout: layout.njk
 ---
 Reserve Bank needs to take a closer look at insurance cos
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: young-asian-women-sought-for-vitamin-d-study
-title: "Young Asian women sought for vitamin D study"
-date: 2009-09-30
-source-url: https://www.scoop.co.nz/stories/SC0909/S00057/young-asian-women-sought-for-vitamin-d-study.htm
+title: Young Asian women sought for vitamin D study
+date: 2009-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00057/young-asian-women-sought-for-vitamin-d-study.htm
 author: massey-university
+permalink: /archive/2009/09/30/young-asian-women-sought-for-vitamin-d-study/index.html
+layout: layout.njk
 ---
 Young Asian women sought for vitamin D study
 ============================================

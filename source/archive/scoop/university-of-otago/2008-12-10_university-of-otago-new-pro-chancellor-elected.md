@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-new-pro-chancellor-elected
-title: "University of Otago - New Pro-Chancellor Elected"
-date: 2008-12-10
-source-url: https://www.scoop.co.nz/stories/ED0812/S00041/university-of-otago-new-pro-chancellor-elected.htm
+title: University of Otago - New Pro-Chancellor Elected
+date: 2008-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00041/university-of-otago-new-pro-chancellor-elected.htm
 author: university-of-otago
+permalink: /archive/2008/12/10/university-of-otago-new-pro-chancellor-elected/index.html
+layout: layout.njk
 ---
 University of Otago - New Pro-Chancellor Elected
 ================================================

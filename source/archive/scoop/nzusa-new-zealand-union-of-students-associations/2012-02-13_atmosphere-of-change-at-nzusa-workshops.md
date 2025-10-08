@@ -1,9 +1,12 @@
 ---
 slug: atmosphere-of-change-at-nzusa-workshops
-title: "Atmosphere of change at NZUSA workshops"
-date: 2012-02-13
-source-url: https://www.scoop.co.nz/stories/PO1202/S00129/atmosphere-of-change-at-nzusa-workshops.htm
+title: Atmosphere of change at NZUSA workshops
+date: 2012-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1202/S00129/atmosphere-of-change-at-nzusa-workshops.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/02/13/atmosphere-of-change-at-nzusa-workshops/index.html
+layout: layout.njk
 ---
 Atmosphere of change at NZUSA workshops
 =======================================

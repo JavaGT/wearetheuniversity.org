@@ -1,9 +1,12 @@
 ---
 slug: extra-funding-welcome-but-govt-must-do-more
-title: "Extra Funding Welcome But Govt Must Do More"
-date: 2000-06-15
-source-url: https://www.scoop.co.nz/stories/ED0006/S00019/extra-funding-welcome-but-govt-must-do-more.htm
+title: Extra Funding Welcome But Govt Must Do More
+date: 2000-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00019/extra-funding-welcome-but-govt-must-do-more.htm
 author: victoria-university-students-association
+permalink: /archive/2000/06/15/extra-funding-welcome-but-govt-must-do-more/index.html
+layout: layout.njk
 ---
 Extra Funding Welcome But Govt Must Do More
 ===========================================

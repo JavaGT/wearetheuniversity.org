@@ -1,9 +1,13 @@
 ---
 slug: early-letters-offer-unique-window-into-new-zealand
-title: "Early letters offer unique window into New Zealand"
-date: 2009-07-13
-source-url: https://www.scoop.co.nz/stories/ED0907/S00055/early-letters-offer-unique-window-into-new-zealand.htm
+title: Early letters offer unique window into New Zealand
+date: 2009-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00055/early-letters-offer-unique-window-into-new-zealand.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/07/13/early-letters-offer-unique-window-into-new-zealand/index.html
+layout: layout.njk
 ---
 Early letters offer unique window into New Zealand
 ==================================================

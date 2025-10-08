@@ -1,9 +1,13 @@
 ---
 slug: parents-overwhelmingly-support-need-for-qualified-teachers
-title: "Parents overwhelmingly support need for qualified teachers"
-date: 2012-08-03
-source-url: https://www.scoop.co.nz/stories/ED1208/S00027/parents-overwhelmingly-support-need-for-qualified-teachers.htm
+title: Parents overwhelmingly support need for qualified teachers
+date: 2012-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00027/parents-overwhelmingly-support-need-for-qualified-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/03/parents-overwhelmingly-support-need-for-qualified-teachers/index.html
+layout: layout.njk
 ---
 Parents overwhelmingly support need for qualified teachers
 ==========================================================

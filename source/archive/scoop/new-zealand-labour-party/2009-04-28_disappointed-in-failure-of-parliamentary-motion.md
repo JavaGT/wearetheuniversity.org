@@ -1,9 +1,12 @@
 ---
 slug: disappointed-in-failure-of-parliamentary-motion
-title: "Disappointed in failure of parliamentary motion"
-date: 2009-04-28
-source-url: https://www.scoop.co.nz/stories/PA0904/S00348/disappointed-in-failure-of-parliamentary-motion.htm
+title: Disappointed in failure of parliamentary motion
+date: 2009-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00348/disappointed-in-failure-of-parliamentary-motion.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/28/disappointed-in-failure-of-parliamentary-motion/index.html
+layout: layout.njk
 ---
 Disappointed in failure of parliamentary motion
 ===============================================

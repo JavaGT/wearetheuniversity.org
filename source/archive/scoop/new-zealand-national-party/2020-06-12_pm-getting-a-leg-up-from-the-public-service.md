@@ -1,9 +1,12 @@
 ---
 slug: pm-getting-a-leg-up-from-the-public-service
-title: "PM Getting A Leg Up From The Public Service"
-date: 2020-06-12
-source-url: https://www.scoop.co.nz/stories/PA2006/S00110/pm-getting-a-leg-up-from-the-public-service.htm
+title: PM Getting A Leg Up From The Public Service
+date: 2020-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00110/pm-getting-a-leg-up-from-the-public-service.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/12/pm-getting-a-leg-up-from-the-public-service/index.html
+layout: layout.njk
 ---
 PM Getting A Leg Up From The Public Service
 ===========================================

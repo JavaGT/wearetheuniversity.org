@@ -1,9 +1,13 @@
 ---
 slug: chch-could-become-a-state-of-the-art-cycle-friendly-city
-title: "Chch could become a state of the art cycle-friendly city"
-date: 2013-08-22
-source-url: https://www.scoop.co.nz/stories/AK1308/S00674/chch-could-become-a-state-of-the-art-cycle-friendly-city.htm
+title: Chch could become a state of the art cycle-friendly city
+date: 2013-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00674/chch-could-become-a-state-of-the-art-cycle-friendly-city.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/22/chch-could-become-a-state-of-the-art-cycle-friendly-city/index.html
+layout: layout.njk
 ---
 Chch could become a state of the art cycle-friendly city
 ========================================================

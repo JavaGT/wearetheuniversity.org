@@ -1,9 +1,11 @@
 ---
 slug: breastfeeding-can-raise-iq
-title: "Breastfeeding Can Raise IQ"
-date: 2007-11-06
+title: Breastfeeding Can Raise IQ
+date: 2007-11-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0711/S00013/breastfeeding-can-raise-iq.htm
 author: university-of-otago
+permalink: /archive/2007/11/06/breastfeeding-can-raise-iq/index.html
+layout: layout.njk
 ---
 Breastfeeding Can Raise IQ
 ==========================

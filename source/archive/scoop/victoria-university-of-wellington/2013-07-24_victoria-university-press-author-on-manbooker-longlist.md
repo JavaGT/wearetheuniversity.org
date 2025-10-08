@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-press-author-on-manbooker-longlist
-title: "Victoria University Press author on ManBooker Longlist"
-date: 2013-07-24
-source-url: https://www.scoop.co.nz/stories/CU1307/S00415/victoria-university-press-author-on-manbooker-longlist.htm
+title: Victoria University Press author on ManBooker Longlist
+date: 2013-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00415/victoria-university-press-author-on-manbooker-longlist.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/07/24/victoria-university-press-author-on-manbooker-longlist/index.html
+layout: layout.njk
 ---
 Victoria University Press author on ManBooker Longlist
 ======================================================

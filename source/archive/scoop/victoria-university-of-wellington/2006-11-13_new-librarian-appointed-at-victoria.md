@@ -1,9 +1,12 @@
 ---
 slug: new-librarian-appointed-at-victoria
-title: "New librarian appointed at Victoria"
-date: 2006-11-13
-source-url: https://www.scoop.co.nz/stories/ED0611/S00049/new-librarian-appointed-at-victoria.htm
+title: New librarian appointed at Victoria
+date: 2006-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00049/new-librarian-appointed-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/13/new-librarian-appointed-at-victoria/index.html
+layout: layout.njk
 ---
 New librarian appointed at Victoria
 ===================================

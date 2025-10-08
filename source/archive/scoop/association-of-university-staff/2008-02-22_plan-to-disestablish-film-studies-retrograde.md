@@ -1,9 +1,12 @@
 ---
 slug: plan-to-disestablish-film-studies-retrograde
-title: "Plan to disestablish Film Studies retrograde"
-date: 2008-02-22
-source-url: https://www.scoop.co.nz/stories/ED0802/S00057/plan-to-disestablish-film-studies-retrograde.htm
+title: Plan to disestablish Film Studies retrograde
+date: 2008-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00057/plan-to-disestablish-film-studies-retrograde.htm
 author: association-of-university-staff
+permalink: /archive/2008/02/22/plan-to-disestablish-film-studies-retrograde/index.html
+layout: layout.njk
 ---
 Plan to disestablish Film Studies retrograde
 ============================================

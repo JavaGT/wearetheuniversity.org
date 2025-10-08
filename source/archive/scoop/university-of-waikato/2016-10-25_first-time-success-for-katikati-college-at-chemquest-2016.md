@@ -1,9 +1,13 @@
 ---
 slug: first-time-success-for-katikati-college-at-chemquest-2016
-title: "First time Success for Katikati College at Chemquest 2016"
-date: 2016-10-25
-source-url: https://www.scoop.co.nz/stories/ED1610/S00087/first-time-success-for-katikati-college-at-chemquest-2016.htm
+title: First time Success for Katikati College at Chemquest 2016
+date: 2016-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00087/first-time-success-for-katikati-college-at-chemquest-2016.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/10/25/first-time-success-for-katikati-college-at-chemquest-2016/index.html
+layout: layout.njk
 ---
 First time Success for Katikati College at Chemquest 2016
 =========================================================

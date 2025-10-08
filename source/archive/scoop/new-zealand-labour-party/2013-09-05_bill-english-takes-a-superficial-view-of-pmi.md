@@ -1,9 +1,12 @@
 ---
 slug: bill-english-takes-a-superficial-view-of-pmi
-title: "Bill English takes a superficial view of PMI"
-date: 2013-09-05
-source-url: https://www.scoop.co.nz/stories/PA1309/S00122/bill-english-takes-a-superficial-view-of-pmi.htm
+title: Bill English takes a superficial view of PMI
+date: 2013-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00122/bill-english-takes-a-superficial-view-of-pmi.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/05/bill-english-takes-a-superficial-view-of-pmi/index.html
+layout: layout.njk
 ---
 Bill English takes a superficial view of PMI
 ============================================

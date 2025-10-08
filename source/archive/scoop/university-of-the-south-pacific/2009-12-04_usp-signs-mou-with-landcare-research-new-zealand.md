@@ -1,9 +1,13 @@
 ---
 slug: usp-signs-mou-with-landcare-research-new-zealand
-title: "USP signs MOU with Landcare Research New Zealand"
-date: 2009-12-04
-source-url: https://www.scoop.co.nz/stories/ED0912/S00010/usp-signs-mou-with-landcare-research-new-zealand.htm
+title: USP signs MOU with Landcare Research New Zealand
+date: 2009-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0912/S00010/usp-signs-mou-with-landcare-research-new-zealand.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2009/12/04/usp-signs-mou-with-landcare-research-new-zealand/index.html
+layout: layout.njk
 ---
 USP signs MOU with Landcare Research New Zealand
 ================================================

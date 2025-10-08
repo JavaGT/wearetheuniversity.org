@@ -1,9 +1,12 @@
 ---
 slug: greens-throw-down-gauntlet-with-tertiary-policy
-title: "Greens Throw Down Gauntlet With Tertiary Policy"
-date: 2002-07-05
-source-url: https://www.scoop.co.nz/stories/PA0207/S00184/greens-throw-down-gauntlet-with-tertiary-policy.htm
+title: Greens Throw Down Gauntlet With Tertiary Policy
+date: 2002-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00184/greens-throw-down-gauntlet-with-tertiary-policy.htm
 author: green-party
+permalink: /archive/2002/07/05/greens-throw-down-gauntlet-with-tertiary-policy/index.html
+layout: layout.njk
 ---
 Greens Throw Down Gauntlet With Tertiary Policy
 ===============================================

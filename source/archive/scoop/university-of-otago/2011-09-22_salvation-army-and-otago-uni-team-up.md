@@ -1,9 +1,12 @@
 ---
 slug: salvation-army-and-otago-uni-team-up
-title: "Salvation Army and Otago Uni team up"
-date: 2011-09-22
-source-url: https://www.scoop.co.nz/stories/CU1109/S00332/salvation-army-and-otago-uni-team-up.htm
+title: Salvation Army and Otago Uni team up
+date: 2011-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1109/S00332/salvation-army-and-otago-uni-team-up.htm
 author: university-of-otago
+permalink: /archive/2011/09/22/salvation-army-and-otago-uni-team-up/index.html
+layout: layout.njk
 ---
 Salvation Army and Otago Uni team up
 ====================================

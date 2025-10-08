@@ -1,9 +1,12 @@
 ---
 slug: ppta-gets-in-bed-with-populist-politicians
-title: "PPTA Gets In Bed With Populist Politicians"
-date: 2002-11-20
-source-url: https://www.scoop.co.nz/stories/PA0211/S00453/ppta-gets-in-bed-with-populist-politicians.htm
+title: PPTA Gets In Bed With Populist Politicians
+date: 2002-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00453/ppta-gets-in-bed-with-populist-politicians.htm
 author: act-new-zealand
+permalink: /archive/2002/11/20/ppta-gets-in-bed-with-populist-politicians/index.html
+layout: layout.njk
 ---
 PPTA Gets In Bed With Populist Politicians
 ==========================================

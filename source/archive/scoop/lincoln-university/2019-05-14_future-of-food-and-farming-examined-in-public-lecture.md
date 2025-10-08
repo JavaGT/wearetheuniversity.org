@@ -1,9 +1,13 @@
 ---
 slug: future-of-food-and-farming-examined-in-public-lecture
-title: "Future of food and farming examined in public lecture"
-date: 2019-05-14
-source-url: https://www.scoop.co.nz/stories/ED1905/S00041/future-of-food-and-farming-examined-in-public-lecture.htm
+title: Future of food and farming examined in public lecture
+date: 2019-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00041/future-of-food-and-farming-examined-in-public-lecture.htm
 author: lincoln-university
+permalink: >-
+  /archive/2019/05/14/future-of-food-and-farming-examined-in-public-lecture/index.html
+layout: layout.njk
 ---
 Future of food and farming examined in public lecture
 =====================================================

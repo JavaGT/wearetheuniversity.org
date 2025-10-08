@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-languishing-behind-our-neighbours
-title: "Muriel Newman: Languishing Behind Our Neighbours"
-date: 2003-10-01
-source-url: https://www.scoop.co.nz/stories/PA0310/S00023/muriel-newman-languishing-behind-our-neighbours.htm
+title: 'Muriel Newman: Languishing Behind Our Neighbours'
+date: 2003-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00023/muriel-newman-languishing-behind-our-neighbours.htm
 author: act-new-zealand
+permalink: /archive/2003/10/01/muriel-newman-languishing-behind-our-neighbours/index.html
+layout: layout.njk
 ---
 Muriel Newman: Languishing Behind Our Neighbours
 ================================================

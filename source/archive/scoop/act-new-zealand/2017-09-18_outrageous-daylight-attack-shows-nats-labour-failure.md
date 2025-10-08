@@ -1,9 +1,13 @@
 ---
 slug: outrageous-daylight-attack-shows-nats-labour-failure
-title: "Outrageous daylight attack shows Nats, Labour failure"
-date: 2017-09-18
-source-url: https://www.scoop.co.nz/stories/PA1709/S00220/outrageous-daylight-attack-shows-nats-labour-failure.htm
+title: Outrageous daylight attack shows Nats, Labour failure
+date: 2017-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00220/outrageous-daylight-attack-shows-nats-labour-failure.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/09/18/outrageous-daylight-attack-shows-nats-labour-failure/index.html
+layout: layout.njk
 ---
 Outrageous daylight attack shows Nats, Labour failure
 =====================================================

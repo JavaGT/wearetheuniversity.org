@@ -1,9 +1,12 @@
 ---
 slug: māori-astronomer-receives-prime-ministers-award
-title: "Māori Astronomer Receives Prime Minister’s Award"
-date: 2020-06-30
-source-url: https://www.scoop.co.nz/stories/SC2006/S00068/maori-astronomer-receives-prime-ministers-award.htm
+title: Māori Astronomer Receives Prime Minister’s Award
+date: 2020-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2006/S00068/maori-astronomer-receives-prime-ministers-award.htm
 author: university-of-waikato
+permalink: /archive/2020/06/30/m/index.html
+layout: layout.njk
 ---
 Māori Astronomer Receives Prime Minister’s Award
 ================================================

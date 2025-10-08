@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-professor-awarded-$1-1m-research-grant
-title: "University of Waikato Professor awarded $1.1m research grant"
-date: 2019-07-04
-source-url: https://www.scoop.co.nz/stories/ED1907/S00008/university-of-waikato-professor-awarded-11m-research-grant.htm
+title: University of Waikato Professor awarded $1.1m research grant
+date: 2019-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1907/S00008/university-of-waikato-professor-awarded-11m-research-grant.htm
 author: university-of-waikato
+permalink: /archive/2019/07/04/university-of-waikato-professor-awarded-/index.html
+layout: layout.njk
 ---
 University of Waikato Professor awarded $1.1m research grant
 ============================================================

@@ -1,8 +1,11 @@
 ---
 slug: brainy-obsession-leads-to-knighthood
-title: "Brainy obsession leads to knighthood"
-date: 2017-01-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/brainy-obsession-leads-to-knighthood.html
+title: Brainy obsession leads to knighthood
+date: 2017-01-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/brainy-obsession-leads-to-knighthood.html
+permalink: /archive/2017/01/09/brainy-obsession-leads-to-knighthood/index.html
+layout: layout.njk
 ---
 Brainy obsession leads to knighthood
 ====================================

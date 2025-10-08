@@ -1,9 +1,13 @@
 ---
 slug: partnership-schools-achieve-excellence-on-attendance
-title: "Partnership Schools achieve excellence on attendance"
-date: 2017-06-20
-source-url: https://www.scoop.co.nz/stories/PA1706/S00330/partnership-schools-achieve-excellence-on-attendance.htm
+title: Partnership Schools achieve excellence on attendance
+date: 2017-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00330/partnership-schools-achieve-excellence-on-attendance.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/06/20/partnership-schools-achieve-excellence-on-attendance/index.html
+layout: layout.njk
 ---
 Partnership Schools achieve excellence on attendance
 ====================================================

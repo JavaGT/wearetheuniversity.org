@@ -1,9 +1,13 @@
 ---
 slug: innovation-in-early-childhood-education-under-thre
-title: "Innovation In Early Childhood Education Under Thre"
-date: 2009-06-26
-source-url: https://www.scoop.co.nz/stories/ED0906/S00079/innovation-in-early-childhood-education-under-thre.htm
+title: Innovation In Early Childhood Education Under Thre
+date: 2009-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00079/innovation-in-early-childhood-education-under-thre.htm
 author: nzei
+permalink: >-
+  /archive/2009/06/26/innovation-in-early-childhood-education-under-thre/index.html
+layout: layout.njk
 ---
 Innovation In Early Childhood Education Under Thre
 ==================================================

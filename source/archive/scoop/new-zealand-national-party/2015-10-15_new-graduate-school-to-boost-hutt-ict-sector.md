@@ -1,9 +1,12 @@
 ---
 slug: new-graduate-school-to-boost-hutt-ict-sector
-title: "New graduate school to boost Hutt ICT sector"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PA1510/S00237/new-graduate-school-to-boost-hutt-ict-sector.htm
+title: New graduate school to boost Hutt ICT sector
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00237/new-graduate-school-to-boost-hutt-ict-sector.htm
 author: new-zealand-national-party
+permalink: /archive/2015/10/15/new-graduate-school-to-boost-hutt-ict-sector/index.html
+layout: layout.njk
 ---
 New graduate school to boost Hutt ICT sector
 ============================================

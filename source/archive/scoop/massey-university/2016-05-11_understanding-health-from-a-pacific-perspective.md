@@ -1,9 +1,12 @@
 ---
 slug: understanding-health-from-a-pacific-perspective
-title: "Understanding health from a Pacific perspective"
-date: 2016-05-11
-source-url: https://www.scoop.co.nz/stories/GE1605/S00055/understanding-health-from-a-pacific-perspective.htm
+title: Understanding health from a Pacific perspective
+date: 2016-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00055/understanding-health-from-a-pacific-perspective.htm
 author: massey-university
+permalink: /archive/2016/05/11/understanding-health-from-a-pacific-perspective/index.html
+layout: layout.njk
 ---
 Understanding health from a Pacific perspective
 ===============================================

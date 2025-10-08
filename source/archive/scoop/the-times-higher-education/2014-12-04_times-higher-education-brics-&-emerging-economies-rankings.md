@@ -1,9 +1,12 @@
 ---
 slug: times-higher-education-brics-&-emerging-economies-rankings
-title: "Times Higher Education: Brics & Emerging Economies Rankings"
-date: 2014-12-04
-source-url: https://www.scoop.co.nz/stories/ED1412/S00030/times-higher-education-brics-emerging-economies-rankings.htm
+title: 'Times Higher Education: Brics & Emerging Economies Rankings'
+date: 2014-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00030/times-higher-education-brics-emerging-economies-rankings.htm
 author: the-times-higher-education
+permalink: /archive/2014/12/04/times-higher-education-brics-/index.html
+layout: layout.njk
 ---
 Times Higher Education: Brics & Emerging Economies Rankings
 ===========================================================

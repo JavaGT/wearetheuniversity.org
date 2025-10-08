@@ -1,9 +1,13 @@
 ---
 slug: effective-mental-health-care-comes-in-many-forms-new-study
-title: "Effective Mental Health Care Comes In Many Forms: New Study"
-date: 2024-08-05
-source-url: https://www.scoop.co.nz/stories/GE2408/S00018/effective-mental-health-care-comes-in-many-forms-new-study.htm
+title: 'Effective Mental Health Care Comes In Many Forms: New Study'
+date: 2024-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2408/S00018/effective-mental-health-care-comes-in-many-forms-new-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/08/05/effective-mental-health-care-comes-in-many-forms-new-study/index.html
+layout: layout.njk
 ---
 Effective Mental Health Care Comes In Many Forms: New Study
 ===========================================================

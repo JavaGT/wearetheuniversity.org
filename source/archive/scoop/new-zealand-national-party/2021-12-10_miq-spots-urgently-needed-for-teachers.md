@@ -1,9 +1,12 @@
 ---
 slug: miq-spots-urgently-needed-for-teachers
-title: "MIQ Spots Urgently Needed For Teachers"
-date: 2021-12-10
-source-url: https://www.scoop.co.nz/stories/PA2112/S00083/miq-spots-urgently-needed-for-teachers.htm
+title: MIQ Spots Urgently Needed For Teachers
+date: 2021-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00083/miq-spots-urgently-needed-for-teachers.htm
 author: new-zealand-national-party
+permalink: /archive/2021/12/10/miq-spots-urgently-needed-for-teachers/index.html
+layout: layout.njk
 ---
 MIQ Spots Urgently Needed For Teachers
 ======================================

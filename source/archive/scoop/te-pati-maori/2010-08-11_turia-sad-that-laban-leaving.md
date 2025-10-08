@@ -1,9 +1,11 @@
 ---
 slug: turia-sad-that-laban-leaving
-title: "Turia Sad That Laban Leaving"
-date: 2010-08-11
+title: Turia Sad That Laban Leaving
+date: 2010-08-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1008/S00174/turia-sad-that-laban-leaving.htm
 author: te-pati-maori
+permalink: /archive/2010/08/11/turia-sad-that-laban-leaving/index.html
+layout: layout.njk
 ---
 Turia Sad That Laban Leaving
 ============================

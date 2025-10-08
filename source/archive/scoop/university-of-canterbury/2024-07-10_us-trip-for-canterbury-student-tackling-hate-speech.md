@@ -1,9 +1,13 @@
 ---
 slug: us-trip-for-canterbury-student-tackling-hate-speech
-title: "US Trip For Canterbury Student Tackling Hate Speech"
-date: 2024-07-10
-source-url: https://www.scoop.co.nz/stories/ED2407/S00025/us-trip-for-canterbury-student-tackling-hate-speech.htm
+title: US Trip For Canterbury Student Tackling Hate Speech
+date: 2024-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2407/S00025/us-trip-for-canterbury-student-tackling-hate-speech.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/07/10/us-trip-for-canterbury-student-tackling-hate-speech/index.html
+layout: layout.njk
 ---
 US Trip For Canterbury Student Tackling Hate Speech
 ===================================================

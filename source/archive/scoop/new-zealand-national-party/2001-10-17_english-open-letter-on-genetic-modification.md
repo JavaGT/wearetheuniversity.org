@@ -1,9 +1,12 @@
 ---
 slug: english-open-letter-on-genetic-modification
-title: "English - Open Letter On Genetic Modification"
-date: 2001-10-17
-source-url: https://www.scoop.co.nz/stories/PA0110/S00324/english-open-letter-on-genetic-modification.htm
+title: English - Open Letter On Genetic Modification
+date: 2001-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00324/english-open-letter-on-genetic-modification.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/17/english-open-letter-on-genetic-modification/index.html
+layout: layout.njk
 ---
 English - Open Letter On Genetic Modification
 =============================================

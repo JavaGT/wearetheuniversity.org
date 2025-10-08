@@ -1,9 +1,12 @@
 ---
 slug: mallard-playing-a-shell-game-with-student-debt
-title: "Mallard playing a shell game with student debt"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/PA0506/S00161/mallard-playing-a-shell-game-with-student-debt.htm
+title: Mallard playing a shell game with student debt
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00161/mallard-playing-a-shell-game-with-student-debt.htm
 author: green-party
+permalink: /archive/2005/06/09/mallard-playing-a-shell-game-with-student-debt/index.html
+layout: layout.njk
 ---
 Mallard playing a shell game with student debt
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: government-sneaky-moves-push-students-into-$15-billion-debt
-title: "Government sneaky moves push students into $15 billion debt"
-date: 2016-03-02
-source-url: https://www.scoop.co.nz/stories/PA1603/S00030/government-sneaky-moves-push-students-into-15-billion-debt.htm
+title: Government sneaky moves push students into $15 billion debt
+date: 2016-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00030/government-sneaky-moves-push-students-into-15-billion-debt.htm
 author: green-party
+permalink: /archive/2016/03/02/government-sneaky-moves-push-students-into-/index.html
+layout: layout.njk
 ---
 Government sneaky moves push students into $15 billion debt
 ===========================================================

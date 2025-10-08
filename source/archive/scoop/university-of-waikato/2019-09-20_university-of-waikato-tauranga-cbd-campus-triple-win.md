@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-tauranga-cbd-campus-triple-win
-title: "University of Waikato Tauranga CBD Campus’ triple win"
-date: 2019-09-20
-source-url: https://www.scoop.co.nz/stories/BU1909/S00533/university-of-waikato-tauranga-cbd-campus-triple-win.htm
+title: University of Waikato Tauranga CBD Campus’ triple win
+date: 2019-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1909/S00533/university-of-waikato-tauranga-cbd-campus-triple-win.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/09/20/university-of-waikato-tauranga-cbd-campus-triple-win/index.html
+layout: layout.njk
 ---
 University of Waikato Tauranga CBD Campus’ triple win
 =====================================================

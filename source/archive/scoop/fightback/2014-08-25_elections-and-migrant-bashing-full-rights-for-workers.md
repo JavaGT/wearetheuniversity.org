@@ -1,9 +1,13 @@
 ---
 slug: elections-and-migrant-bashing-full-rights-for-workers
-title: "Elections and migrant-bashing: Full rights for workers"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/HL1408/S00161/elections-and-migrant-bashing-full-rights-for-workers.htm
+title: 'Elections and migrant-bashing: Full rights for workers'
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1408/S00161/elections-and-migrant-bashing-full-rights-for-workers.htm
 author: fightback
+permalink: >-
+  /archive/2014/08/25/elections-and-migrant-bashing-full-rights-for-workers/index.html
+layout: layout.njk
 ---
 Elections and migrant-bashing: Full rights for workers
 ======================================================

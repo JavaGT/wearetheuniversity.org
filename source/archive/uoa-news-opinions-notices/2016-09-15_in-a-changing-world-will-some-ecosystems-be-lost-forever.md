@@ -1,8 +1,12 @@
 ---
 slug: in-a-changing-world-will-some-ecosystems-be-lost-forever
-title: "In a changing world, will some ecosystems be lost forever?"
-date: 2016-09-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/in-a-changing-world-will-some-ecosystems-be-lost-forever.html
+title: In a changing world, will some ecosystems be lost forever?
+date: 2016-09-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/in-a-changing-world-will-some-ecosystems-be-lost-forever.html
+permalink: >-
+  /archive/2016/09/15/in-a-changing-world-will-some-ecosystems-be-lost-forever/index.html
+layout: layout.njk
 ---
 In a changing world, will some ecosystems be lost forever?
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: ird-job-losses-a-body-blow-for-provinces
-title: "IRD job losses a body blow for provinces"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/PA1108/S00099/ird-job-losses-a-body-blow-for-provinces.htm
+title: IRD job losses a body blow for provinces
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00099/ird-job-losses-a-body-blow-for-provinces.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/04/ird-job-losses-a-body-blow-for-provinces/index.html
+layout: layout.njk
 ---
 IRD job losses a body blow for provinces
 ========================================

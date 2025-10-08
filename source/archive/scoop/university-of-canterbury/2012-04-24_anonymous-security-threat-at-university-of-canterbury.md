@@ -1,9 +1,13 @@
 ---
 slug: anonymous-security-threat-at-university-of-canterbury
-title: "Anonymous security threat at University of Canterbury"
-date: 2012-04-24
-source-url: https://www.scoop.co.nz/stories/ED1204/S00094/anonymous-security-threat-at-university-of-canterbury.htm
+title: Anonymous security threat at University of Canterbury
+date: 2012-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00094/anonymous-security-threat-at-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/04/24/anonymous-security-threat-at-university-of-canterbury/index.html
+layout: layout.njk
 ---
 Anonymous security threat at University of Canterbury
 =====================================================

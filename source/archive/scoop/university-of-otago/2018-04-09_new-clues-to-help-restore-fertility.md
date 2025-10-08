@@ -1,9 +1,12 @@
 ---
 slug: new-clues-to-help-restore-fertility
-title: "New clues to help restore fertility"
-date: 2018-04-09
-source-url: https://www.scoop.co.nz/stories/SC1804/S00007/new-clues-to-help-restore-fertility.htm
+title: New clues to help restore fertility
+date: 2018-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1804/S00007/new-clues-to-help-restore-fertility.htm
 author: university-of-otago
+permalink: /archive/2018/04/09/new-clues-to-help-restore-fertility/index.html
+layout: layout.njk
 ---
 New clues to help restore fertility
 ===================================

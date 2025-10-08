@@ -1,9 +1,12 @@
 ---
 slug: tertiary-reforms-on-right-track-say-staff
-title: "Tertiary reforms on right track, say staff"
-date: 2007-12-14
-source-url: https://www.scoop.co.nz/stories/ED0712/S00064/tertiary-reforms-on-right-track-say-staff.htm
+title: Tertiary reforms on right track, say staff
+date: 2007-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00064/tertiary-reforms-on-right-track-say-staff.htm
 author: association-of-university-staff
+permalink: /archive/2007/12/14/tertiary-reforms-on-right-track-say-staff/index.html
+layout: layout.njk
 ---
 Tertiary reforms on right track, say staff
 ==========================================

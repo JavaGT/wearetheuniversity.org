@@ -1,9 +1,13 @@
 ---
 slug: national-remain-coy-over-likely-foreign-ownership-of-soes
-title: "National remain coy over likely foreign ownership of SOEs"
-date: 2011-11-25
-source-url: https://www.scoop.co.nz/stories/PA1111/S00501/national-remain-coy-over-likely-foreign-ownership-of-soes.htm
+title: National remain coy over likely foreign ownership of SOEs
+date: 2011-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00501/national-remain-coy-over-likely-foreign-ownership-of-soes.htm
 author: green-party
+permalink: >-
+  /archive/2011/11/25/national-remain-coy-over-likely-foreign-ownership-of-soes/index.html
+layout: layout.njk
 ---
 National remain coy over likely foreign ownership of SOEs
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: bonding-plan-to-tackle-health-workforce-crisis
-title: "Bonding plan to tackle health workforce crisis"
-date: 2008-09-18
-source-url: https://www.scoop.co.nz/stories/PA0809/S00393/bonding-plan-to-tackle-health-workforce-crisis.htm
+title: Bonding plan to tackle health workforce crisis
+date: 2008-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00393/bonding-plan-to-tackle-health-workforce-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/18/bonding-plan-to-tackle-health-workforce-crisis/index.html
+layout: layout.njk
 ---
 Bonding plan to tackle health workforce crisis
 ==============================================

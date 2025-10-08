@@ -1,9 +1,12 @@
 ---
 slug: nz-school-of-music-welcomes-first-students
-title: "NZ School of Music welcomes first students"
-date: 2005-10-14
-source-url: https://www.scoop.co.nz/stories/ED0510/S00040/nz-school-of-music-welcomes-first-students.htm
+title: NZ School of Music welcomes first students
+date: 2005-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00040/nz-school-of-music-welcomes-first-students.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/10/14/nz-school-of-music-welcomes-first-students/index.html
+layout: layout.njk
 ---
 NZ School of Music welcomes first students
 ==========================================

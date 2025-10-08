@@ -1,9 +1,13 @@
 ---
 slug: call-on-mps-to-provide-solutions-to-underfunding
-title: "Call on MPs to provide solutions to underfunding"
-date: 2009-07-01
-source-url: https://www.scoop.co.nz/stories/ED0907/S00006/call-on-mps-to-provide-solutions-to-underfunding.htm
+title: Call on MPs to provide solutions to underfunding
+date: 2009-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00006/call-on-mps-to-provide-solutions-to-underfunding.htm
 author: lincoln-university-students-association
+permalink: >-
+  /archive/2009/07/01/call-on-mps-to-provide-solutions-to-underfunding/index.html
+layout: layout.njk
 ---
 Call on MPs to provide solutions to underfunding
 ================================================

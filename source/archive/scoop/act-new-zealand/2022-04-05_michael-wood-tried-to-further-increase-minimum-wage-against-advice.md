@@ -1,9 +1,13 @@
 ---
 slug: michael-wood-tried-to-further-increase-minimum-wage-against-advice
-title: "Michael Wood Tried To Further Increase Minimum Wage Against Advice"
-date: 2022-04-05
-source-url: https://www.scoop.co.nz/stories/PA2204/S00032/michael-wood-tried-to-further-increase-minimum-wage-against-advice.htm
+title: Michael Wood Tried To Further Increase Minimum Wage Against Advice
+date: 2022-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00032/michael-wood-tried-to-further-increase-minimum-wage-against-advice.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/04/05/michael-wood-tried-to-further-increase-minimum-wage-against-advice/index.html
+layout: layout.njk
 ---
 Michael Wood Tried To Further Increase Minimum Wage Against Advice
 ==================================================================

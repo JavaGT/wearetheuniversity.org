@@ -1,9 +1,13 @@
 ---
 slug: the-foodbank-project-targets-the-most-vulnerable
-title: "‘The Foodbank Project’ targets the most vulnerable"
-date: 2016-07-27
-source-url: https://www.scoop.co.nz/stories/ED1607/S00096/the-foodbank-project-targets-the-most-vulnerable.htm
+title: ‘The Foodbank Project’ targets the most vulnerable
+date: 2016-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00096/the-foodbank-project-targets-the-most-vulnerable.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2016/07/27/the-foodbank-project-targets-the-most-vulnerable/index.html
+layout: layout.njk
 ---
 ‘The Foodbank Project’ targets the most vulnerable
 ==================================================

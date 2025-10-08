@@ -1,9 +1,13 @@
 ---
 slug: book-brings-relationship-with-the-sea-to-the-fore
-title: "Book brings relationship with the sea to the fore"
-date: 2015-02-04
-source-url: https://www.scoop.co.nz/stories/CU1502/S00100/book-brings-relationship-with-the-sea-to-the-fore.htm
+title: Book brings relationship with the sea to the fore
+date: 2015-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00100/book-brings-relationship-with-the-sea-to-the-fore.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/02/04/book-brings-relationship-with-the-sea-to-the-fore/index.html
+layout: layout.njk
 ---
 Book brings relationship with the sea to the fore
 =================================================

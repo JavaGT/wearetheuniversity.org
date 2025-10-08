@@ -1,9 +1,13 @@
 ---
 slug: government-books-show-they-can-afford-to-do-more-for-jobs
-title: "Government books show they can afford to do more for jobs"
-date: 2013-05-06
-source-url: https://www.scoop.co.nz/stories/PO1305/S00062/government-books-show-they-can-afford-to-do-more-for-jobs.htm
+title: Government books show they can afford to do more for jobs
+date: 2013-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00062/government-books-show-they-can-afford-to-do-more-for-jobs.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/05/06/government-books-show-they-can-afford-to-do-more-for-jobs/index.html
+layout: layout.njk
 ---
 Government books show they can afford to do more for jobs
 =========================================================

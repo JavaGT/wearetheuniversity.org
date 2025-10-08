@@ -1,9 +1,12 @@
 ---
 slug: charter-school-announcement-no-surprise
-title: "Charter School Announcement No Surprise"
-date: 2015-07-24
-source-url: https://www.scoop.co.nz/stories/PA1507/S00420/charter-school-announcement-no-surprise.htm
+title: Charter School Announcement No Surprise
+date: 2015-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00420/charter-school-announcement-no-surprise.htm
 author: new-zealand-first-party
+permalink: /archive/2015/07/24/charter-school-announcement-no-surprise/index.html
+layout: layout.njk
 ---
 Charter School Announcement No Surprise
 =======================================

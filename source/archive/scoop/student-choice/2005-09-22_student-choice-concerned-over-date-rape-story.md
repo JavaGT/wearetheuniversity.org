@@ -1,9 +1,12 @@
 ---
 slug: student-choice-concerned-over-date-rape-story
-title: "Student Choice Concerned Over Date-Rape Story"
-date: 2005-09-22
-source-url: https://www.scoop.co.nz/stories/ED0509/S00074/student-choice-concerned-over-date-rape-story.htm
+title: Student Choice Concerned Over Date-Rape Story
+date: 2005-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00074/student-choice-concerned-over-date-rape-story.htm
 author: student-choice
+permalink: /archive/2005/09/22/student-choice-concerned-over-date-rape-story/index.html
+layout: layout.njk
 ---
 Student Choice Concerned Over Date-Rape Story
 =============================================

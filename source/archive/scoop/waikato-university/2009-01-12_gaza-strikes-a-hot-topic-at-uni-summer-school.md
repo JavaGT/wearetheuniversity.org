@@ -1,9 +1,12 @@
 ---
 slug: gaza-strikes-a-hot-topic-at-uni-summer-school
-title: "Gaza strikes a hot topic at uni summer school"
-date: 2009-01-12
-source-url: https://www.scoop.co.nz/stories/ED0901/S00010/gaza-strikes-a-hot-topic-at-uni-summer-school.htm
+title: Gaza strikes a hot topic at uni summer school
+date: 2009-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00010/gaza-strikes-a-hot-topic-at-uni-summer-school.htm
 author: waikato-university
+permalink: /archive/2009/01/12/gaza-strikes-a-hot-topic-at-uni-summer-school/index.html
+layout: layout.njk
 ---
 Gaza strikes a hot topic at uni summer school
 =============================================

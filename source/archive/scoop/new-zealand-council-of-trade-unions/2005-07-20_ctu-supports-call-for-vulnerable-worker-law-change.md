@@ -1,9 +1,13 @@
 ---
 slug: ctu-supports-call-for-vulnerable-worker-law-change
-title: "CTU Supports call for Vulnerable Worker Law Change"
-date: 2005-07-20
-source-url: https://www.scoop.co.nz/stories/PO0507/S00193/ctu-supports-call-for-vulnerable-worker-law-change.htm
+title: CTU Supports call for Vulnerable Worker Law Change
+date: 2005-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0507/S00193/ctu-supports-call-for-vulnerable-worker-law-change.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2005/07/20/ctu-supports-call-for-vulnerable-worker-law-change/index.html
+layout: layout.njk
 ---
 CTU Supports call for Vulnerable Worker Law Change
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: funding-battles-shouldnt-hold-up-transport-changes
-title: "Funding battles shouldn’t hold up transport changes"
-date: 2013-02-01
-source-url: https://www.scoop.co.nz/stories/PA1302/S00006/funding-battles-shouldnt-hold-up-transport-changes.htm
+title: Funding battles shouldn’t hold up transport changes
+date: 2013-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00006/funding-battles-shouldnt-hold-up-transport-changes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/02/01/funding-battles-shouldnt-hold-up-transport-changes/index.html
+layout: layout.njk
 ---
 Funding battles shouldn’t hold up transport changes
 ===================================================

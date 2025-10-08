@@ -1,9 +1,11 @@
 ---
 slug: heather-roys-diary-nov-26
-title: "Heather Roy's Diary Nov 26"
-date: 2010-11-27
+title: Heather Roy's Diary Nov 26
+date: 2010-11-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1011/S00543/heather-roys-diary-nov-26.htm
 author: act-new-zealand
+permalink: /archive/2010/11/27/heather-roys-diary-nov-26/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary Nov 26
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: steven-joyce-minister-for-shuffling-deckchairs
-title: "Steven Joyce: Minister for shuffling deckchairs"
-date: 2012-03-13
-source-url: https://www.scoop.co.nz/stories/PA1203/S00165/steven-joyce-minister-for-shuffling-deckchairs.htm
+title: 'Steven Joyce: Minister for shuffling deckchairs'
+date: 2012-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00165/steven-joyce-minister-for-shuffling-deckchairs.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/13/steven-joyce-minister-for-shuffling-deckchairs/index.html
+layout: layout.njk
 ---
 Steven Joyce: Minister for shuffling deckchairs
 ===============================================

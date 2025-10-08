@@ -1,9 +1,13 @@
 ---
 slug: nzei-says-decile-assistance-will-cushion-the-blow
-title: "NZEI Says Decile Assistance Will Cushion the Blow"
-date: 2007-12-04
-source-url: https://www.scoop.co.nz/stories/ED0712/S00013/nzei-says-decile-assistance-will-cushion-the-blow.htm
+title: NZEI Says Decile Assistance Will Cushion the Blow
+date: 2007-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00013/nzei-says-decile-assistance-will-cushion-the-blow.htm
 author: nzei
+permalink: >-
+  /archive/2007/12/04/nzei-says-decile-assistance-will-cushion-the-blow/index.html
+layout: layout.njk
 ---
 NZEI Says Decile Assistance Will Cushion the Blow
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-give-provisional-support-only-to-dpb-bill
-title: "Greens Give Provisional Support Only To DPB Bill"
-date: 2001-12-20
-source-url: https://www.scoop.co.nz/stories/PA0112/S00391/greens-give-provisional-support-only-to-dpb-bill.htm
+title: Greens Give Provisional Support Only To DPB Bill
+date: 2001-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00391/greens-give-provisional-support-only-to-dpb-bill.htm
 author: green-party
+permalink: >-
+  /archive/2001/12/20/greens-give-provisional-support-only-to-dpb-bill/index.html
+layout: layout.njk
 ---
 Greens Give Provisional Support Only To DPB Bill
 ================================================

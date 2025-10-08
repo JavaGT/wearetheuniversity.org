@@ -1,9 +1,12 @@
 ---
 slug: close-whangaruru-charter-school-now
-title: "Close Whangaruru Charter School Now"
-date: 2014-08-01
-source-url: https://www.scoop.co.nz/stories/PA1408/S00011/close-whangaruru-charter-school-now.htm
+title: Close Whangaruru Charter School Now
+date: 2014-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00011/close-whangaruru-charter-school-now.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/01/close-whangaruru-charter-school-now/index.html
+layout: layout.njk
 ---
 Close Whangaruru Charter School Now
 ===================================

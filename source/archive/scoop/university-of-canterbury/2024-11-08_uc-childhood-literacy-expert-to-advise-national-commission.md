@@ -1,9 +1,13 @@
 ---
 slug: uc-childhood-literacy-expert-to-advise-national-commission
-title: "UC Childhood Literacy Expert To Advise National Commission"
-date: 2024-11-08
-source-url: https://www.scoop.co.nz/stories/ED2411/S00021/uc-childhood-literacy-expert-to-advise-national-commission.htm
+title: UC Childhood Literacy Expert To Advise National Commission
+date: 2024-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00021/uc-childhood-literacy-expert-to-advise-national-commission.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/11/08/uc-childhood-literacy-expert-to-advise-national-commission/index.html
+layout: layout.njk
 ---
 UC Childhood Literacy Expert To Advise National Commission
 ==========================================================

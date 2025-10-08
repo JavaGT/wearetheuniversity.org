@@ -1,9 +1,11 @@
 ---
 slug: in-focus-16-december-2015
-title: "In Focus: 16 December 2015"
-date: 2015-12-16
+title: 'In Focus: 16 December 2015'
+date: 2015-12-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1512/S00367/in-focus-16-december-2015.htm
 author: new-zealand-national-party
+permalink: /archive/2015/12/16/in-focus-16-december-2015/index.html
+layout: layout.njk
 ---
 In Focus: 16 December 2015
 ==========================

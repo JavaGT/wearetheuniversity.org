@@ -1,9 +1,12 @@
 ---
 slug: involve-gisborne-and-pukekohe-growers
-title: "Involve Gisborne and Pukekohe growers"
-date: 2002-10-03
-source-url: https://www.scoop.co.nz/stories/PA0210/S00079/involve-gisborne-and-pukekohe-growers.htm
+title: Involve Gisborne and Pukekohe growers
+date: 2002-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00079/involve-gisborne-and-pukekohe-growers.htm
 author: green-party
+permalink: /archive/2002/10/03/involve-gisborne-and-pukekohe-growers/index.html
+layout: layout.njk
 ---
 Involve Gisborne and Pukekohe growers
 =====================================

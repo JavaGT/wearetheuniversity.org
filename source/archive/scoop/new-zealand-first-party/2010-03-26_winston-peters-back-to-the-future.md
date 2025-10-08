@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-back-to-the-future
-title: "Winston Peters - Back To The Future?"
-date: 2010-03-26
-source-url: https://www.scoop.co.nz/stories/PO1003/S00434/winston-peters-back-to-the-future.htm
+title: Winston Peters - Back To The Future?
+date: 2010-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00434/winston-peters-back-to-the-future.htm
 author: new-zealand-first-party
+permalink: /archive/2010/03/26/winston-peters-back-to-the-future/index.html
+layout: layout.njk
 ---
 Winston Peters - Back To The Future?
 ====================================

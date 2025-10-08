@@ -1,9 +1,13 @@
 ---
 slug: ministers-acknowledge-water-quality-comes-second
-title: "Ministers acknowledge water quality comes second"
-date: 2010-06-17
-source-url: https://www.scoop.co.nz/stories/PA1006/S00281/ministers-acknowledge-water-quality-comes-second.htm
+title: Ministers acknowledge water quality comes second
+date: 2010-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00281/ministers-acknowledge-water-quality-comes-second.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/06/17/ministers-acknowledge-water-quality-comes-second/index.html
+layout: layout.njk
 ---
 Ministers acknowledge water quality comes second
 ================================================

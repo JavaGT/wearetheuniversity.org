@@ -1,9 +1,11 @@
 ---
 slug: labour-abandons-workers
-title: "Labour Abandons Workers"
-date: 2003-09-30
+title: Labour Abandons Workers
+date: 2003-09-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0309/S00614/labour-abandons-workers.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/30/labour-abandons-workers/index.html
+layout: layout.njk
 ---
 Labour Abandons Workers
 =======================

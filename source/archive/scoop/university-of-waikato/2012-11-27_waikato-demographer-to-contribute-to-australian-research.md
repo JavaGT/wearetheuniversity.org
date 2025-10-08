@@ -1,9 +1,13 @@
 ---
 slug: waikato-demographer-to-contribute-to-australian-research
-title: "Waikato demographer to contribute to Australian research"
-date: 2012-11-27
-source-url: https://www.scoop.co.nz/stories/ED1211/S00197/waikato-demographer-to-contribute-to-australian-research.htm
+title: Waikato demographer to contribute to Australian research
+date: 2012-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00197/waikato-demographer-to-contribute-to-australian-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/11/27/waikato-demographer-to-contribute-to-australian-research/index.html
+layout: layout.njk
 ---
 Waikato demographer to contribute to Australian research
 ========================================================

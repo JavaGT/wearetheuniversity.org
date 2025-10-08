@@ -1,9 +1,13 @@
 ---
 slug: urgent-legislation-undermines-outstanding-rivers
-title: "Urgent legislation undermines outstanding rivers"
-date: 2010-03-30
-source-url: https://www.scoop.co.nz/stories/PA1003/S00475/urgent-legislation-undermines-outstanding-rivers.htm
+title: Urgent legislation undermines outstanding rivers
+date: 2010-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00475/urgent-legislation-undermines-outstanding-rivers.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/03/30/urgent-legislation-undermines-outstanding-rivers/index.html
+layout: layout.njk
 ---
 Urgent legislation undermines outstanding rivers
 ================================================

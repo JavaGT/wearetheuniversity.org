@@ -1,9 +1,12 @@
 ---
 slug: world-oceans-day-but-little-to-celebrate
-title: "World Oceans Day - but little to celebrate"
-date: 2005-06-08
-source-url: https://www.scoop.co.nz/stories/PA0506/S00143/world-oceans-day-but-little-to-celebrate.htm
+title: World Oceans Day - but little to celebrate
+date: 2005-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00143/world-oceans-day-but-little-to-celebrate.htm
 author: green-party
+permalink: /archive/2005/06/08/world-oceans-day-but-little-to-celebrate/index.html
+layout: layout.njk
 ---
 World Oceans Day - but little to celebrate
 ==========================================

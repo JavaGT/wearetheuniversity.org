@@ -1,9 +1,12 @@
 ---
 slug: estimates-debate-vote-education
-title: "Estimates Debate Vote Education"
-date: 2010-08-04
-source-url: https://www.scoop.co.nz/stories/PA1008/S00051/estimates-debate-vote-education.htm
+title: Estimates Debate Vote Education
+date: 2010-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00051/estimates-debate-vote-education.htm
 author: te-pati-maori
+permalink: /archive/2010/08/04/estimates-debate-vote-education/index.html
+layout: layout.njk
 ---
 Estimates Debate Vote Education
 ===============================

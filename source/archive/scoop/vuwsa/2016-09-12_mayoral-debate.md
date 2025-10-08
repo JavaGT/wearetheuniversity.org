@@ -1,9 +1,11 @@
 ---
 slug: mayoral-debate
-title: "Mayoral Debate"
-date: 2016-09-12
+title: Mayoral Debate
+date: 2016-09-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1609/S00134/mayoral-debate.htm
 author: vuwsa
+permalink: /archive/2016/09/12/mayoral-debate/index.html
+layout: layout.njk
 ---
 Mayoral Debate
 ==============

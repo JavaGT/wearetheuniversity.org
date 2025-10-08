@@ -1,9 +1,12 @@
 ---
 slug: big-agribusiness-threatens-our-native-fish
-title: "Big Agribusiness Threatens Our Native Fish"
-date: 2010-09-28
-source-url: https://www.scoop.co.nz/stories/PA1009/S00403/big-agribusiness-threatens-our-native-fish.htm
+title: Big Agribusiness Threatens Our Native Fish
+date: 2010-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00403/big-agribusiness-threatens-our-native-fish.htm
 author: green-party
+permalink: /archive/2010/09/28/big-agribusiness-threatens-our-native-fish/index.html
+layout: layout.njk
 ---
 Big Agribusiness Threatens Our Native Fish
 ==========================================

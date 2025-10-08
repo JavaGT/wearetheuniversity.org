@@ -1,9 +1,12 @@
 ---
 slug: primary-teachers-to-vote-on-claim
-title: "Primary Teachers To vote On Claim"
-date: 2007-05-06
-source-url: https://www.scoop.co.nz/stories/ED0705/S00020/primary-teachers-to-vote-on-claim.htm
+title: Primary Teachers To vote On Claim
+date: 2007-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00020/primary-teachers-to-vote-on-claim.htm
 author: nzei
+permalink: /archive/2007/05/06/primary-teachers-to-vote-on-claim/index.html
+layout: layout.njk
 ---
 Primary Teachers To vote On Claim
 =================================

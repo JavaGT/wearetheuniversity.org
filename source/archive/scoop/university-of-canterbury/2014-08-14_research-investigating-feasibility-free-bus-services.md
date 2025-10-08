@@ -1,9 +1,13 @@
 ---
 slug: research-investigating-feasibility-free-bus-services
-title: "Research investigating feasibility free bus services"
-date: 2014-08-14
-source-url: https://www.scoop.co.nz/stories/AK1408/S00266/research-investigating-feasibility-free-bus-services.htm
+title: Research investigating feasibility free bus services
+date: 2014-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00266/research-investigating-feasibility-free-bus-services.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/14/research-investigating-feasibility-free-bus-services/index.html
+layout: layout.njk
 ---
 Research investigating feasibility free bus services
 ====================================================

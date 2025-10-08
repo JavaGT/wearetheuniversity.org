@@ -1,9 +1,13 @@
 ---
 slug: counselling-delays-for-abuse-victims-unacceptable
-title: "Counselling delays for abuse victims unacceptable"
-date: 2009-09-28
-source-url: https://www.scoop.co.nz/stories/PA0909/S00402/counselling-delays-for-abuse-victims-unacceptable.htm
+title: Counselling delays for abuse victims unacceptable
+date: 2009-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00402/counselling-delays-for-abuse-victims-unacceptable.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/09/28/counselling-delays-for-abuse-victims-unacceptable/index.html
+layout: layout.njk
 ---
 Counselling delays for abuse victims unacceptable
 =================================================

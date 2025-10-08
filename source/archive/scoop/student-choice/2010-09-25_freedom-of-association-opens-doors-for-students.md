@@ -1,9 +1,12 @@
 ---
 slug: freedom-of-association-opens-doors-for-students
-title: "Freedom of association opens doors for Students"
-date: 2010-09-25
-source-url: https://www.scoop.co.nz/stories/ED1009/S00120/freedom-of-association-opens-doors-for-students.htm
+title: Freedom of association opens doors for Students
+date: 2010-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00120/freedom-of-association-opens-doors-for-students.htm
 author: student-choice
+permalink: /archive/2010/09/25/freedom-of-association-opens-doors-for-students/index.html
+layout: layout.njk
 ---
 Freedom of association opens doors for Students
 ===============================================

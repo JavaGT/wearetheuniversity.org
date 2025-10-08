@@ -1,9 +1,12 @@
 ---
 slug: pita-sharples-address-to-maori-party-agm
-title: "Pita Sharples ADDRESS TO Maori Party AGM"
-date: 2006-10-31
-source-url: https://www.scoop.co.nz/stories/PA0610/S00574/pita-sharples-address-to-maori-party-agm.htm
+title: Pita Sharples ADDRESS TO Maori Party AGM
+date: 2006-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00574/pita-sharples-address-to-maori-party-agm.htm
 author: te-pati-maori
+permalink: /archive/2006/10/31/pita-sharples-address-to-maori-party-agm/index.html
+layout: layout.njk
 ---
 Pita Sharples ADDRESS TO Maori Party AGM
 ========================================

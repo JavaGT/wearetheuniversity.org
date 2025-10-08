@@ -1,9 +1,13 @@
 ---
 slug: psychologists-study-what-helps-prisoners-to-change
-title: "Psychologists study what helps prisoners to change"
-date: 2011-01-24
-source-url: https://www.scoop.co.nz/stories/ED1101/S00033/psychologists-study-what-helps-prisoners-to-change.htm
+title: Psychologists study what helps prisoners to change
+date: 2011-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00033/psychologists-study-what-helps-prisoners-to-change.htm
 author: massey-university
+permalink: >-
+  /archive/2011/01/24/psychologists-study-what-helps-prisoners-to-change/index.html
+layout: layout.njk
 ---
 Psychologists study what helps prisoners to change
 ==================================================

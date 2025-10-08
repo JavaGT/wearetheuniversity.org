@@ -1,9 +1,13 @@
 ---
 slug: sigmoidoscopy-test-greatly-reduces-risk-of-bowel-cancer
-title: "Sigmoidoscopy test greatly reduces risk of bowel cancer"
-date: 2017-03-03
-source-url: https://www.scoop.co.nz/stories/SC1703/S00011/sigmoidoscopy-test-greatly-reduces-risk-of-bowel-cancer.htm
+title: Sigmoidoscopy test greatly reduces risk of bowel cancer
+date: 2017-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00011/sigmoidoscopy-test-greatly-reduces-risk-of-bowel-cancer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/03/sigmoidoscopy-test-greatly-reduces-risk-of-bowel-cancer/index.html
+layout: layout.njk
 ---
 Sigmoidoscopy test greatly reduces risk of bowel cancer
 =======================================================

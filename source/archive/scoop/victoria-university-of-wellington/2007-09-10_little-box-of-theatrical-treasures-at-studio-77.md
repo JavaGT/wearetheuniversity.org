@@ -1,9 +1,12 @@
 ---
 slug: little-box-of-theatrical-treasures-at-studio-77
-title: "Little Box of Theatrical Treasures at Studio 77"
-date: 2007-09-10
-source-url: https://www.scoop.co.nz/stories/CU0709/S00104/little-box-of-theatrical-treasures-at-studio-77.htm
+title: Little Box of Theatrical Treasures at Studio 77
+date: 2007-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0709/S00104/little-box-of-theatrical-treasures-at-studio-77.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/09/10/little-box-of-theatrical-treasures-at-studio-77/index.html
+layout: layout.njk
 ---
 Little Box of Theatrical Treasures at Studio 77
 ===============================================

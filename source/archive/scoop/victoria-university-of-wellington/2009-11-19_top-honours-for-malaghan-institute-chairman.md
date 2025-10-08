@@ -1,9 +1,12 @@
 ---
 slug: top-honours-for-malaghan-institute-chairman
-title: "Top honours for Malaghan Institute chairman"
-date: 2009-11-19
-source-url: https://www.scoop.co.nz/stories/ED0911/S00079/top-honours-for-malaghan-institute-chairman.htm
+title: Top honours for Malaghan Institute chairman
+date: 2009-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00079/top-honours-for-malaghan-institute-chairman.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/11/19/top-honours-for-malaghan-institute-chairman/index.html
+layout: layout.njk
 ---
 Top honours for Malaghan Institute chairman
 ===========================================

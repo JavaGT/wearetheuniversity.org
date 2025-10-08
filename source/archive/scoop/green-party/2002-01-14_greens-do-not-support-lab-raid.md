@@ -1,9 +1,12 @@
 ---
 slug: greens-do-not-support-lab-raid
-title: "Greens Do Not Support Lab Raid"
-date: 2002-01-14
-source-url: https://www.scoop.co.nz/stories/PA0201/S00042/greens-do-not-support-lab-raid.htm
+title: Greens Do Not Support Lab Raid
+date: 2002-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00042/greens-do-not-support-lab-raid.htm
 author: green-party
+permalink: /archive/2002/01/14/greens-do-not-support-lab-raid/index.html
+layout: layout.njk
 ---
 Greens Do Not Support Lab Raid
 ==============================

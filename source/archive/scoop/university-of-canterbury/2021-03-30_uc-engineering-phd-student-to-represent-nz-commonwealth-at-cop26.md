@@ -1,9 +1,13 @@
 ---
 slug: uc-engineering-phd-student-to-represent-nz-commonwealth-at-cop26
-title: "UC Engineering PhD Student To Represent NZ, Commonwealth At COP26"
-date: 2021-03-30
-source-url: https://www.scoop.co.nz/stories/ED2103/S00056/uc-engineering-phd-student-to-represent-nz-commonwealth-at-cop26.htm
+title: UC Engineering PhD Student To Represent NZ, Commonwealth At COP26
+date: 2021-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00056/uc-engineering-phd-student-to-represent-nz-commonwealth-at-cop26.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/03/30/uc-engineering-phd-student-to-represent-nz-commonwealth-at-cop26/index.html
+layout: layout.njk
 ---
 UC Engineering PhD Student To Represent NZ, Commonwealth At COP26
 =================================================================

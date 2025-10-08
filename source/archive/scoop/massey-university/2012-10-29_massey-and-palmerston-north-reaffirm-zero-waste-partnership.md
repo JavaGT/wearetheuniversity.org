@@ -1,9 +1,13 @@
 ---
 slug: massey-and-palmerston-north-reaffirm-zero-waste-partnership
-title: "Massey and Palmerston North reaffirm zero waste partnership"
-date: 2012-10-29
-source-url: https://www.scoop.co.nz/stories/AK1210/S00740/massey-and-palmerston-north-reaffirm-zero-waste-partnership.htm
+title: Massey and Palmerston North reaffirm zero waste partnership
+date: 2012-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00740/massey-and-palmerston-north-reaffirm-zero-waste-partnership.htm
 author: massey-university
+permalink: >-
+  /archive/2012/10/29/massey-and-palmerston-north-reaffirm-zero-waste-partnership/index.html
+layout: layout.njk
 ---
 Massey and Palmerston North reaffirm zero waste partnership
 ===========================================================

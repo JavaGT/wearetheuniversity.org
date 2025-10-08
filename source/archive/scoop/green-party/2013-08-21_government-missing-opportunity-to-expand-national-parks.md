@@ -1,9 +1,13 @@
 ---
 slug: government-missing-opportunity-to-expand-national-parks
-title: "Government missing opportunity to expand national parks"
-date: 2013-08-21
-source-url: https://www.scoop.co.nz/stories/PA1308/S00334/government-missing-opportunity-to-expand-national-parks.htm
+title: Government missing opportunity to expand national parks
+date: 2013-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00334/government-missing-opportunity-to-expand-national-parks.htm
 author: green-party
+permalink: >-
+  /archive/2013/08/21/government-missing-opportunity-to-expand-national-parks/index.html
+layout: layout.njk
 ---
 Government missing opportunity to expand national parks
 =======================================================

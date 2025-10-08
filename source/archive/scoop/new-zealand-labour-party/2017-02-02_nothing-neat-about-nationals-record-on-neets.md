@@ -1,9 +1,12 @@
 ---
 slug: nothing-neat-about-nationals-record-on-neets
-title: "Nothing neat about National’s record on NEETs"
-date: 2017-02-02
-source-url: https://www.scoop.co.nz/stories/PA1702/S00025/nothing-neat-about-nationals-record-on-neets.htm
+title: Nothing neat about National’s record on NEETs
+date: 2017-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00025/nothing-neat-about-nationals-record-on-neets.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/02/nothing-neat-about-nationals-record-on-neets/index.html
+layout: layout.njk
 ---
 Nothing neat about National’s record on NEETs
 =============================================

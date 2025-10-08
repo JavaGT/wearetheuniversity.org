@@ -1,9 +1,12 @@
 ---
 slug: building-a-strong-and-inclusive-nation
-title: "Building a strong and inclusive nation"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/PA1111/S00085/building-a-strong-and-inclusive-nation.htm
+title: Building a strong and inclusive nation
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00085/building-a-strong-and-inclusive-nation.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/04/building-a-strong-and-inclusive-nation/index.html
+layout: layout.njk
 ---
 Building a strong and inclusive nation
 ======================================

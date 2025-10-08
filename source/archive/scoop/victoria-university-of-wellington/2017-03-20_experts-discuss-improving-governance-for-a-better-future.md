@@ -1,9 +1,13 @@
 ---
 slug: experts-discuss-improving-governance-for-a-better-future
-title: "Experts discuss improving governance for a better future"
-date: 2017-03-20
-source-url: https://www.scoop.co.nz/stories/PO1703/S00234/experts-discuss-improving-governance-for-a-better-future.htm
+title: Experts discuss improving governance for a better future
+date: 2017-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00234/experts-discuss-improving-governance-for-a-better-future.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/03/20/experts-discuss-improving-governance-for-a-better-future/index.html
+layout: layout.njk
 ---
 Experts discuss improving governance for a better future
 ========================================================

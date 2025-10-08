@@ -1,9 +1,12 @@
 ---
 slug: policy-research-and-decision-making
-title: "Policy, Research and Decision-Making"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PA1010/S00329/policy-research-and-decision-making.htm
+title: Policy, Research and Decision-Making
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00329/policy-research-and-decision-making.htm
 author: te-pati-maori
+permalink: /archive/2010/10/20/policy-research-and-decision-making/index.html
+layout: layout.njk
 ---
 Policy, Research and Decision-Making
 ====================================

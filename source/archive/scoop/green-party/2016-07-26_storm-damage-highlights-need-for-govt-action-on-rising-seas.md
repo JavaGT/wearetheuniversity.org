@@ -1,9 +1,13 @@
 ---
 slug: storm-damage-highlights-need-for-govt-action-on-rising-seas
-title: "Storm damage highlights need for Govt action on rising seas"
-date: 2016-07-26
-source-url: https://www.scoop.co.nz/stories/PA1607/S00355/storm-damage-highlights-need-for-govt-action-on-rising-seas.htm
+title: Storm damage highlights need for Govt action on rising seas
+date: 2016-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00355/storm-damage-highlights-need-for-govt-action-on-rising-seas.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/26/storm-damage-highlights-need-for-govt-action-on-rising-seas/index.html
+layout: layout.njk
 ---
 Storm damage highlights need for Govt action on rising seas
 ===========================================================

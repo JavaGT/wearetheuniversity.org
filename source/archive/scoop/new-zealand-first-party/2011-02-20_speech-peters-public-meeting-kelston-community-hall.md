@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-public-meeting-kelston-community-hall
-title: "Speech: Peters - Public Meeting,  Kelston Community Hall"
-date: 2011-02-20
-source-url: https://www.scoop.co.nz/stories/PO1102/S00190/speech-peters-public-meeting-kelston-community-hall.htm
+title: 'Speech: Peters - Public Meeting,  Kelston Community Hall'
+date: 2011-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00190/speech-peters-public-meeting-kelston-community-hall.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2011/02/20/speech-peters-public-meeting-kelston-community-hall/index.html
+layout: layout.njk
 ---
 Speech: Peters - Public Meeting, Kelston Community Hall
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: students-call-to-vote-no-confidence-in-the-editor-of-craccum
-title: "Students call to vote no confidence in the editor of Craccum"
-date: 2012-04-04
-source-url: https://www.scoop.co.nz/stories/ED1204/S00026/students-call-to-vote-no-confidence-in-the-editor-of-craccum.htm
+title: Students call to vote no confidence in the editor of Craccum
+date: 2012-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00026/students-call-to-vote-no-confidence-in-the-editor-of-craccum.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2012/04/04/students-call-to-vote-no-confidence-in-the-editor-of-craccum/index.html
+layout: layout.njk
 ---
 Students call to vote no confidence in the editor of Craccum
 ============================================================

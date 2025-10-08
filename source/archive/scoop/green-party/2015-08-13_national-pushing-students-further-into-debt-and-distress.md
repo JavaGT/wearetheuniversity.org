@@ -1,9 +1,13 @@
 ---
 slug: national-pushing-students-further-into-debt-and-distress
-title: "National pushing students further into debt and distress"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/PA1508/S00198/national-pushing-students-further-into-debt-and-distress.htm
+title: National pushing students further into debt and distress
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00198/national-pushing-students-further-into-debt-and-distress.htm
 author: green-party
+permalink: >-
+  /archive/2015/08/13/national-pushing-students-further-into-debt-and-distress/index.html
+layout: layout.njk
 ---
 National pushing students further into debt and distress
 ========================================================

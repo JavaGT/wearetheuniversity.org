@@ -1,9 +1,12 @@
 ---
 slug: turia-to-be-maori-a-truly-revolutionary-action
-title: "Turia: To be Maori - a truly revolutionary action"
-date: 2006-08-11
-source-url: https://www.scoop.co.nz/stories/PA0608/S00195/turia-to-be-maori-a-truly-revolutionary-action.htm
+title: 'Turia: To be Maori - a truly revolutionary action'
+date: 2006-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00195/turia-to-be-maori-a-truly-revolutionary-action.htm
 author: te-pati-maori
+permalink: /archive/2006/08/11/turia-to-be-maori-a-truly-revolutionary-action/index.html
+layout: layout.njk
 ---
 Turia: To be Maori - a truly revolutionary action
 =================================================

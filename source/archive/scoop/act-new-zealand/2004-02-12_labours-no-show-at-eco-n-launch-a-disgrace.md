@@ -1,9 +1,12 @@
 ---
 slug: labours-no-show-at-eco-n-launch-a-disgrace
-title: "Labour's No Show At ECO-N Launch A Disgrace"
-date: 2004-02-12
-source-url: https://www.scoop.co.nz/stories/PA0402/S00200/labours-no-show-at-eco-n-launch-a-disgrace.htm
+title: Labour's No Show At ECO-N Launch A Disgrace
+date: 2004-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00200/labours-no-show-at-eco-n-launch-a-disgrace.htm
 author: act-new-zealand
+permalink: /archive/2004/02/12/labours-no-show-at-eco-n-launch-a-disgrace/index.html
+layout: layout.njk
 ---
 Labour's No Show At ECO-N Launch A Disgrace
 ===========================================

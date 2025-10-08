@@ -1,9 +1,12 @@
 ---
 slug: schools-policy-labours-vision
-title: "Schools Policy - Labour’s Vision"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00658/schools-policy-labours-vision.htm
+title: Schools Policy - Labour’s Vision
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00658/schools-policy-labours-vision.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/25/schools-policy-labours-vision/index.html
+layout: layout.njk
 ---
 Schools Policy - Labour’s Vision
 ================================

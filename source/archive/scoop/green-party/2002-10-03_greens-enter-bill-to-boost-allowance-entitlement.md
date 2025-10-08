@@ -1,9 +1,13 @@
 ---
 slug: greens-enter-bill-to-boost-allowance-entitlement
-title: "Greens enter bill to boost allowance entitlement"
-date: 2002-10-03
-source-url: https://www.scoop.co.nz/stories/PA0210/S00067/greens-enter-bill-to-boost-allowance-entitlement.htm
+title: Greens enter bill to boost allowance entitlement
+date: 2002-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00067/greens-enter-bill-to-boost-allowance-entitlement.htm
 author: green-party
+permalink: >-
+  /archive/2002/10/03/greens-enter-bill-to-boost-allowance-entitlement/index.html
+layout: layout.njk
 ---
 Greens enter bill to boost allowance entitlement
 ================================================

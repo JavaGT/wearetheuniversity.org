@@ -1,9 +1,13 @@
 ---
 slug: speech-simon-bridges-national-party-annual-conference
-title: "SPEECH: Simon Bridges - National Party Annual Conference"
-date: 2018-07-29
-source-url: https://www.scoop.co.nz/stories/PA1807/S00259/speech-simon-bridges-national-party-annual-conference.htm
+title: 'SPEECH: Simon Bridges - National Party Annual Conference'
+date: 2018-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00259/speech-simon-bridges-national-party-annual-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/07/29/speech-simon-bridges-national-party-annual-conference/index.html
+layout: layout.njk
 ---
 SPEECH: Simon Bridges - National Party Annual Conference
 ========================================================

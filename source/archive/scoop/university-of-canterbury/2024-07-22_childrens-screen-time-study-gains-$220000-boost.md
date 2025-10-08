@@ -1,9 +1,12 @@
 ---
 slug: childrens-screen-time-study-gains-$220000-boost
-title: "Children’s Screen Time Study Gains $220,000 Boost"
-date: 2024-07-22
-source-url: https://www.scoop.co.nz/stories/GE2407/S00105/childrens-screen-time-study-gains-220000-boost.htm
+title: Children’s Screen Time Study Gains $220,000 Boost
+date: 2024-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2407/S00105/childrens-screen-time-study-gains-220000-boost.htm
 author: university-of-canterbury
+permalink: /archive/2024/07/22/childrens-screen-time-study-gains-/index.html
+layout: layout.njk
 ---
 Children’s Screen Time Study Gains $220,000 Boost
 =================================================

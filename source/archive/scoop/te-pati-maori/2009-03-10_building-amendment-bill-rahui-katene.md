@@ -1,9 +1,12 @@
 ---
 slug: building-amendment-bill-rahui-katene
-title: "Building Amendment Bill: Rahui Katene"
-date: 2009-03-10
-source-url: https://www.scoop.co.nz/stories/PA0903/S00145/building-amendment-bill-rahui-katene.htm
+title: 'Building Amendment Bill: Rahui Katene'
+date: 2009-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00145/building-amendment-bill-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2009/03/10/building-amendment-bill-rahui-katene/index.html
+layout: layout.njk
 ---
 Building Amendment Bill: Rahui Katene
 =====================================

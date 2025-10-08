@@ -1,9 +1,12 @@
 ---
 slug: green-party-congratulates-poto-williams
-title: "Green Party congratulates Poto Williams"
-date: 2013-12-01
-source-url: https://www.scoop.co.nz/stories/PA1312/S00002/green-party-congratulates-poto-williams.htm
+title: Green Party congratulates Poto Williams
+date: 2013-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00002/green-party-congratulates-poto-williams.htm
 author: green-party
+permalink: /archive/2013/12/01/green-party-congratulates-poto-williams/index.html
+layout: layout.njk
 ---
 Green Party congratulates Poto Williams
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: act-new-zealands-liberal-party
-title: "ACT - New Zealand's Liberal Party"
-date: 2002-11-11
-source-url: https://www.scoop.co.nz/stories/PA0211/S00235/act-new-zealands-liberal-party.htm
+title: ACT - New Zealand's Liberal Party
+date: 2002-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00235/act-new-zealands-liberal-party.htm
 author: act-new-zealand
+permalink: /archive/2002/11/11/act-new-zealands-liberal-party/index.html
+layout: layout.njk
 ---
 ACT - New Zealand's Liberal Party
 =================================

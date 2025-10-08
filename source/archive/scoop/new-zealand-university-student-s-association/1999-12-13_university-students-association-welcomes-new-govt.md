@@ -1,9 +1,13 @@
 ---
 slug: university-students-association-welcomes-new-govt
-title: "University Students Association Welcomes New Govt"
-date: 1999-12-13
-source-url: https://www.scoop.co.nz/stories/ED9912/S00007/university-students-association-welcomes-new-govt.htm
+title: University Students Association Welcomes New Govt
+date: 1999-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00007/university-students-association-welcomes-new-govt.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/1999/12/13/university-students-association-welcomes-new-govt/index.html
+layout: layout.njk
 ---
 University Students Association Welcomes New Govt
 =================================================

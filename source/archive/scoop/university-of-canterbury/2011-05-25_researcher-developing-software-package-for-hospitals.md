@@ -1,9 +1,13 @@
 ---
 slug: researcher-developing-software-package-for-hospitals
-title: "Researcher developing software package for hospitals"
-date: 2011-05-25
-source-url: https://www.scoop.co.nz/stories/BU1105/S00875/researcher-developing-software-package-for-hospitals.htm
+title: Researcher developing software package for hospitals
+date: 2011-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1105/S00875/researcher-developing-software-package-for-hospitals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/05/25/researcher-developing-software-package-for-hospitals/index.html
+layout: layout.njk
 ---
 Researcher developing software package for hospitals
 ====================================================

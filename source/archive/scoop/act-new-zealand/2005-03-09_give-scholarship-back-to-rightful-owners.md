@@ -1,9 +1,12 @@
 ---
 slug: give-scholarship-back-to-rightful-owners
-title: "Give Scholarship back to rightful owners"
-date: 2005-03-09
-source-url: https://www.scoop.co.nz/stories/PA0503/S00172/give-scholarship-back-to-rightful-owners.htm
+title: Give Scholarship back to rightful owners
+date: 2005-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00172/give-scholarship-back-to-rightful-owners.htm
 author: act-new-zealand
+permalink: /archive/2005/03/09/give-scholarship-back-to-rightful-owners/index.html
+layout: layout.njk
 ---
 Give Scholarship back to rightful owners
 ========================================

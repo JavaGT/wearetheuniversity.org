@@ -1,9 +1,12 @@
 ---
 slug: americas-cup-fans-should-sleep-in
-title: "America’s Cup fans should sleep in"
-date: 2007-06-28
-source-url: https://www.scoop.co.nz/stories/GE0706/S00101/americas-cup-fans-should-sleep-in.htm
+title: America’s Cup fans should sleep in
+date: 2007-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0706/S00101/americas-cup-fans-should-sleep-in.htm
 author: massey-university
+permalink: /archive/2007/06/28/americas-cup-fans-should-sleep-in/index.html
+layout: layout.njk
 ---
 America’s Cup fans should sleep in
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: no-good-news-for-maori-in-budget
-title: "No Good News For Maori In Budget"
-date: 2001-05-24
-source-url: https://www.scoop.co.nz/stories/PA0105/S00544/no-good-news-for-maori-in-budget.htm
+title: No Good News For Maori In Budget
+date: 2001-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00544/no-good-news-for-maori-in-budget.htm
 author: act-new-zealand
+permalink: /archive/2001/05/24/no-good-news-for-maori-in-budget/index.html
+layout: layout.njk
 ---
 No Good News For Maori In Budget
 ================================

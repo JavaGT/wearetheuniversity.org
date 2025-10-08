@@ -1,9 +1,11 @@
 ---
 slug: muslims-at-work-summit
-title: "‘Muslims at Work’ Summit"
-date: 2015-03-25
+title: ‘Muslims at Work’ Summit
+date: 2015-03-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1503/S00298/muslims-at-work-summit.htm
 author: aut-university
+permalink: /archive/2015/03/25/muslims-at-work-summit/index.html
+layout: layout.njk
 ---
 ‘Muslims at Work’ Summit
 ========================

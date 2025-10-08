@@ -1,9 +1,13 @@
 ---
 slug: all-new-zealanders-should-be-able-to-see-all-blacks-free
-title: "All New Zealanders Should Be Able to See All Blacks Free"
-date: 2016-06-10
-source-url: https://www.scoop.co.nz/stories/PA1606/S00194/all-new-zealanders-should-be-able-to-see-all-blacks-free.htm
+title: All New Zealanders Should Be Able to See All Blacks Free
+date: 2016-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00194/all-new-zealanders-should-be-able-to-see-all-blacks-free.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/10/all-new-zealanders-should-be-able-to-see-all-blacks-free/index.html
+layout: layout.njk
 ---
 All New Zealanders Should Be Able to See All Blacks Free
 ========================================================

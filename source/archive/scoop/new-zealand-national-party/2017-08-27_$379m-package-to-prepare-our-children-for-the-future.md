@@ -1,9 +1,13 @@
 ---
 slug: $379m-package-to-prepare-our-children-for-the-future
-title: "$379m package to prepare our children for the future"
-date: 2017-08-27
-source-url: https://www.scoop.co.nz/stories/PA1708/S00492/379m-package-to-prepare-our-children-for-the-future.htm
+title: $379m package to prepare our children for the future
+date: 2017-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00492/379m-package-to-prepare-our-children-for-the-future.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/08/27/379m-package-to-prepare-our-children-for-the-future/index.html
+layout: layout.njk
 ---
 $379m package to prepare our children for the future
 ====================================================

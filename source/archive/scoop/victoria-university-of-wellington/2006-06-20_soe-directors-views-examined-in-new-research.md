@@ -1,9 +1,12 @@
 ---
 slug: soe-directors-views-examined-in-new-research
-title: "SOE directors' views examined in new research"
-date: 2006-06-20
-source-url: https://www.scoop.co.nz/stories/ED0606/S00041/soe-directors-views-examined-in-new-research.htm
+title: SOE directors' views examined in new research
+date: 2006-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00041/soe-directors-views-examined-in-new-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/06/20/soe-directors-views-examined-in-new-research/index.html
+layout: layout.njk
 ---
 SOE directors' views examined in new research
 =============================================

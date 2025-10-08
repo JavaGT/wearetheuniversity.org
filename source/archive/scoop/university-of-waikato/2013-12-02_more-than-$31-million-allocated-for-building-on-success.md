@@ -1,9 +1,12 @@
 ---
 slug: more-than-$31-million-allocated-for-building-on-success
-title: "More than $31 million allocated for Building on Success"
-date: 2013-12-02
-source-url: https://www.scoop.co.nz/stories/ED1312/S00007/more-than-31-million-allocated-for-building-on-success.htm
+title: More than $31 million allocated for Building on Success
+date: 2013-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00007/more-than-31-million-allocated-for-building-on-success.htm
 author: university-of-waikato
+permalink: /archive/2013/12/02/more-than-/index.html
+layout: layout.njk
 ---
 More than $31 million allocated for Building on Success
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-thu-17-feb-2005
-title: "Liberty Belle - Thu, 17 Feb 2005"
-date: 2005-02-18
-source-url: https://www.scoop.co.nz/stories/PA0502/S00427/liberty-belle-thu-17-feb-2005.htm
+title: Liberty Belle - Thu, 17 Feb 2005
+date: 2005-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00427/liberty-belle-thu-17-feb-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/02/18/liberty-belle-thu-17-feb-2005/index.html
+layout: layout.njk
 ---
 Liberty Belle - Thu, 17 Feb 2005
 ================================

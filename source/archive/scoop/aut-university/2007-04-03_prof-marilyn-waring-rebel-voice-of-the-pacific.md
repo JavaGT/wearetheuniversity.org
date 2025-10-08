@@ -1,7 +1,10 @@
 ---
 slug: prof-marilyn-waring-rebel-voice-of-the-pacific
-title: "Prof. Marilyn Waring: Rebel voice of the Pacific"
-date: 2007-04-03
-source-url: https://www.scoop.co.nz/stories/ED0704/S00011/prof-marilyn-waring-rebel-voice-of-the-pacific.htm
+title: 'Prof. Marilyn Waring: Rebel voice of the Pacific'
+date: 2007-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00011/prof-marilyn-waring-rebel-voice-of-the-pacific.htm
 author: aut-university
+permalink: /archive/2007/04/03/prof-marilyn-waring-rebel-voice-of-the-pacific/index.html
+layout: layout.njk
 ---

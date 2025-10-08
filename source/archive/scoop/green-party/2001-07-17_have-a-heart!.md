@@ -1,9 +1,11 @@
 ---
 slug: have-a-heart!
-title: "\"Have a heart!\""
-date: 2001-07-17
+title: '"Have a heart!"'
+date: 2001-07-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0107/S00277/have-a-heart.htm
 author: green-party
+permalink: /archive/2001/07/17/have-a-heart/index.html
+layout: layout.njk
 ---
 \"Have a heart!"
 ===============

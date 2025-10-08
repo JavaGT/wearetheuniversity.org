@@ -1,9 +1,12 @@
 ---
 slug: making-rural-new-zealand-age-friendly
-title: "Making rural New Zealand age-friendly"
-date: 2019-08-29
-source-url: https://www.scoop.co.nz/stories/CU1908/S00296/making-rural-new-zealand-age-friendly.htm
+title: Making rural New Zealand age-friendly
+date: 2019-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1908/S00296/making-rural-new-zealand-age-friendly.htm
 author: aut-university
+permalink: /archive/2019/08/29/making-rural-new-zealand-age-friendly/index.html
+layout: layout.njk
 ---
 Making rural New Zealand age-friendly
 =====================================

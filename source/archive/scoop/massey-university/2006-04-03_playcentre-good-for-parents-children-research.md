@@ -1,9 +1,12 @@
 ---
 slug: playcentre-good-for-parents-children-research
-title: "Playcentre good for parents, children - research"
-date: 2006-04-03
-source-url: https://www.scoop.co.nz/stories/ED0604/S00001/playcentre-good-for-parents-children-research.htm
+title: Playcentre good for parents, children - research
+date: 2006-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00001/playcentre-good-for-parents-children-research.htm
 author: massey-university
+permalink: /archive/2006/04/03/playcentre-good-for-parents-children-research/index.html
+layout: layout.njk
 ---
 Playcentre good for parents, children - research
 ================================================

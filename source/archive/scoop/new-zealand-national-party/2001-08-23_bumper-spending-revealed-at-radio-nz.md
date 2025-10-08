@@ -1,9 +1,12 @@
 ---
 slug: bumper-spending-revealed-at-radio-nz
-title: "Bumper Spending Revealed At Radio NZ"
-date: 2001-08-23
-source-url: https://www.scoop.co.nz/stories/PA0108/S00450/bumper-spending-revealed-at-radio-nz.htm
+title: Bumper Spending Revealed At Radio NZ
+date: 2001-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00450/bumper-spending-revealed-at-radio-nz.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/23/bumper-spending-revealed-at-radio-nz/index.html
+layout: layout.njk
 ---
 Bumper Spending Revealed At Radio NZ
 ====================================

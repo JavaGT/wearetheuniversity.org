@@ -1,9 +1,13 @@
 ---
 slug: over-14000-wellington-students-prepare-for-exams
-title: "Over 14000 Wellington Students prepare for exams"
-date: 2007-10-18
-source-url: https://www.scoop.co.nz/stories/PA0710/S00352/over-14000-wellington-students-prepare-for-exams.htm
+title: Over 14000 Wellington Students prepare for exams
+date: 2007-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00352/over-14000-wellington-students-prepare-for-exams.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2007/10/18/over-14000-wellington-students-prepare-for-exams/index.html
+layout: layout.njk
 ---
 Over 14000 Wellington Students prepare for exams
 ================================================

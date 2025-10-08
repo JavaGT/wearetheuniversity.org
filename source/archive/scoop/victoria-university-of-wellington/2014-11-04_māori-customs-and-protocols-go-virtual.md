@@ -1,9 +1,12 @@
 ---
 slug: māori-customs-and-protocols-go-virtual
-title: "Māori customs and protocols go virtual"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/CU1411/S00047/maori-customs-and-protocols-go-virtual.htm
+title: Māori customs and protocols go virtual
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00047/maori-customs-and-protocols-go-virtual.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/11/04/m/index.html
+layout: layout.njk
 ---
 Māori customs and protocols go virtual
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: luxon-nationals-candidate-in-botany
-title: "Luxon National’s candidate in Botany"
-date: 2019-11-04
-source-url: https://www.scoop.co.nz/stories/PO1911/S00037/luxon-nationals-candidate-in-botany.htm
+title: Luxon National’s candidate in Botany
+date: 2019-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1911/S00037/luxon-nationals-candidate-in-botany.htm
 author: new-zealand-national-party
+permalink: /archive/2019/11/04/luxon-nationals-candidate-in-botany/index.html
+layout: layout.njk
 ---
 Luxon National’s candidate in Botany
 ====================================

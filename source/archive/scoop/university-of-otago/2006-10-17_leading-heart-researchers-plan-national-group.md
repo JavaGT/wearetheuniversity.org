@@ -1,9 +1,12 @@
 ---
 slug: leading-heart-researchers-plan-national-group
-title: "Leading Heart Researchers Plan National Group"
-date: 2006-10-17
-source-url: https://www.scoop.co.nz/stories/GE0610/S00067/leading-heart-researchers-plan-national-group.htm
+title: Leading Heart Researchers Plan National Group
+date: 2006-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0610/S00067/leading-heart-researchers-plan-national-group.htm
 author: university-of-otago
+permalink: /archive/2006/10/17/leading-heart-researchers-plan-national-group/index.html
+layout: layout.njk
 ---
 Leading Heart Researchers Plan National Group
 =============================================

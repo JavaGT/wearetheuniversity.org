@@ -1,9 +1,12 @@
 ---
 slug: working-students-and-graduates-to-be-hit-hard
-title: "Working students and graduates to be hit hard"
-date: 2010-09-22
-source-url: https://www.scoop.co.nz/stories/ED1009/S00102/working-students-and-graduates-to-be-hit-hard.htm
+title: Working students and graduates to be hit hard
+date: 2010-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00102/working-students-and-graduates-to-be-hit-hard.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/09/22/working-students-and-graduates-to-be-hit-hard/index.html
+layout: layout.njk
 ---
 Working students and graduates to be hit hard
 =============================================

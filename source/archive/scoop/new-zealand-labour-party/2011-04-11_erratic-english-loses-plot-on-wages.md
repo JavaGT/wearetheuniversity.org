@@ -1,9 +1,12 @@
 ---
 slug: erratic-english-loses-plot-on-wages
-title: "Erratic English loses plot on wages"
-date: 2011-04-11
-source-url: https://www.scoop.co.nz/stories/PA1104/S00209/erratic-english-loses-plot-on-wages.htm
+title: Erratic English loses plot on wages
+date: 2011-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00209/erratic-english-loses-plot-on-wages.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/11/erratic-english-loses-plot-on-wages/index.html
+layout: layout.njk
 ---
 Erratic English loses plot on wages
 ===================================

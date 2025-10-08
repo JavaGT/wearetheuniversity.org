@@ -1,9 +1,12 @@
 ---
 slug: new-café-societys-bean-roasted-by-research
-title: "New Café society's bean roasted by research"
-date: 2000-11-16
-source-url: https://www.scoop.co.nz/stories/CU0011/S00042/new-cafe-societys-bean-roasted-by-research.htm
+title: New Café society's bean roasted by research
+date: 2000-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0011/S00042/new-cafe-societys-bean-roasted-by-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/11/16/new-caf/index.html
+layout: layout.njk
 ---
 New Café society's bean roasted by research
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: international-funding-to-help-fight-cancer-evolution
-title: "International funding to help fight cancer evolution"
-date: 2016-04-15
-source-url: https://www.scoop.co.nz/stories/GE1604/S00056/international-funding-to-help-fight-cancer-evolution.htm
+title: International funding to help fight cancer evolution
+date: 2016-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1604/S00056/international-funding-to-help-fight-cancer-evolution.htm
 author: massey-university
+permalink: >-
+  /archive/2016/04/15/international-funding-to-help-fight-cancer-evolution/index.html
+layout: layout.njk
 ---
 International funding to help fight cancer evolution
 ====================================================

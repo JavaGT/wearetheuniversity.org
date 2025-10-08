@@ -1,9 +1,13 @@
 ---
 slug: bennett-denies-women-same-education-support-she-had
-title: "Bennett denies women same education support she had"
-date: 2012-02-16
-source-url: https://www.scoop.co.nz/stories/PA1202/S00188/bennett-denies-women-same-education-support-she-had.htm
+title: Bennett denies women same education support she had
+date: 2012-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00188/bennett-denies-women-same-education-support-she-had.htm
 author: green-party
+permalink: >-
+  /archive/2012/02/16/bennett-denies-women-same-education-support-she-had/index.html
+layout: layout.njk
 ---
 Bennett denies women same education support she had
 ===================================================

@@ -1,8 +1,11 @@
 ---
 slug: launch-of-the-new-university-website-home-page
-title: "Launch of the new University website home page"
-date: 2016-05-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/launch-of-the-new-university-website-home-page.html
+title: Launch of the new University website home page
+date: 2016-05-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/launch-of-the-new-university-website-home-page.html
+permalink: /archive/2016/05/05/launch-of-the-new-university-website-home-page/index.html
+layout: layout.njk
 ---
 Launch of the new University website home page
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-chemistry-students-to-be-taught-by-an-industry-leader
-title: "UC chemistry students to be taught by an industry leader"
-date: 2012-10-30
-source-url: https://www.scoop.co.nz/stories/ED1210/S00175/uc-chemistry-students-to-be-taught-by-an-industry-leader.htm
+title: UC chemistry students to be taught by an industry leader
+date: 2012-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00175/uc-chemistry-students-to-be-taught-by-an-industry-leader.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/30/uc-chemistry-students-to-be-taught-by-an-industry-leader/index.html
+layout: layout.njk
 ---
 UC chemistry students to be taught by an industry leader
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: unitec-student-union-awards-top-athletes
-title: "Unitec Student Union Awards Top Athletes"
-date: 2006-10-13
-source-url: https://www.scoop.co.nz/stories/ED0610/S00064/unitec-student-union-awards-top-athletes.htm
+title: Unitec Student Union Awards Top Athletes
+date: 2006-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00064/unitec-student-union-awards-top-athletes.htm
 author: unitec-student-union
+permalink: /archive/2006/10/13/unitec-student-union-awards-top-athletes/index.html
+layout: layout.njk
 ---
 Unitec Student Union Awards Top Athletes
 ========================================

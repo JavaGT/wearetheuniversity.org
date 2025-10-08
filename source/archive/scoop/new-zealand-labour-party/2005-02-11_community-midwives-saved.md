@@ -1,9 +1,11 @@
 ---
 slug: community-midwives-saved
-title: "Community Midwives Saved"
-date: 2005-02-11
+title: Community Midwives Saved
+date: 2005-02-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0502/S00286/community-midwives-saved.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/02/11/community-midwives-saved/index.html
+layout: layout.njk
 ---
 Community Midwives Saved
 ========================

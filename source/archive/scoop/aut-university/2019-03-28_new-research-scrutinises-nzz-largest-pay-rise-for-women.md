@@ -1,9 +1,13 @@
 ---
 slug: new-research-scrutinises-nzz-largest-pay-rise-for-women
-title: "New research scrutinises NZ'z largest pay rise for women"
-date: 2019-03-28
-source-url: https://www.scoop.co.nz/stories/PO1903/S00290/new-research-scrutinises-nzz-largest-pay-rise-for-women.htm
+title: New research scrutinises NZ'z largest pay rise for women
+date: 2019-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1903/S00290/new-research-scrutinises-nzz-largest-pay-rise-for-women.htm
 author: aut-university
+permalink: >-
+  /archive/2019/03/28/new-research-scrutinises-nzz-largest-pay-rise-for-women/index.html
+layout: layout.njk
 ---
 New research scrutinises NZ'z largest pay rise for women
 ========================================================

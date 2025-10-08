@@ -1,9 +1,12 @@
 ---
 slug: students-back-staff-in-campaign-for-more-pay
-title: "Students back staff in campaign for more pay"
-date: 2004-03-05
-source-url: https://www.scoop.co.nz/stories/ED0403/S00028/students-back-staff-in-campaign-for-more-pay.htm
+title: Students back staff in campaign for more pay
+date: 2004-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00028/students-back-staff-in-campaign-for-more-pay.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/03/05/students-back-staff-in-campaign-for-more-pay/index.html
+layout: layout.njk
 ---
 Students back staff in campaign for more pay
 ============================================

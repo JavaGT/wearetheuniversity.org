@@ -1,9 +1,13 @@
 ---
 slug: falling-mortgage-rates-change-affordability-trends
-title: "Falling mortgage rates change affordability trends"
-date: 2015-09-29
-source-url: https://www.scoop.co.nz/stories/PO1509/S00383/falling-mortgage-rates-change-affordability-trends.htm
+title: Falling mortgage rates change affordability trends
+date: 2015-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1509/S00383/falling-mortgage-rates-change-affordability-trends.htm
 author: massey-university
+permalink: >-
+  /archive/2015/09/29/falling-mortgage-rates-change-affordability-trends/index.html
+layout: layout.njk
 ---
 Falling mortgage rates change affordability trends
 ==================================================

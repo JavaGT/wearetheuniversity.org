@@ -1,9 +1,12 @@
 ---
 slug: witchcraft-paper-casts-a-spell-over-students
-title: "Witchcraft paper casts a spell over students"
-date: 2008-08-13
-source-url: https://www.scoop.co.nz/stories/ED0808/S00023/witchcraft-paper-casts-a-spell-over-students.htm
+title: Witchcraft paper casts a spell over students
+date: 2008-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00023/witchcraft-paper-casts-a-spell-over-students.htm
 author: massey-university
+permalink: /archive/2008/08/13/witchcraft-paper-casts-a-spell-over-students/index.html
+layout: layout.njk
 ---
 Witchcraft paper casts a spell over students
 ============================================

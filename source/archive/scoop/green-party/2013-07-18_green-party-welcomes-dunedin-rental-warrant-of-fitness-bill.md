@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcomes-dunedin-rental-warrant-of-fitness-bill
-title: "Green Party welcomes Dunedin rental Warrant of Fitness Bill"
-date: 2013-07-18
-source-url: https://www.scoop.co.nz/stories/PA1307/S00307/green-party-welcomes-dunedin-rental-warrant-of-fitness-bill.htm
+title: Green Party welcomes Dunedin rental Warrant of Fitness Bill
+date: 2013-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00307/green-party-welcomes-dunedin-rental-warrant-of-fitness-bill.htm
 author: green-party
+permalink: >-
+  /archive/2013/07/18/green-party-welcomes-dunedin-rental-warrant-of-fitness-bill/index.html
+layout: layout.njk
 ---
 Green Party welcomes Dunedin rental Warrant of Fitness Bill
 ===========================================================

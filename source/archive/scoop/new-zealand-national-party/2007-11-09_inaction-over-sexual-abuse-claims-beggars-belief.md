@@ -1,9 +1,13 @@
 ---
 slug: inaction-over-sexual-abuse-claims-beggars-belief
-title: "Inaction over sexual abuse claims beggars belief"
-date: 2007-11-09
-source-url: https://www.scoop.co.nz/stories/PA0711/S00196/inaction-over-sexual-abuse-claims-beggars-belief.htm
+title: Inaction over sexual abuse claims beggars belief
+date: 2007-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00196/inaction-over-sexual-abuse-claims-beggars-belief.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/11/09/inaction-over-sexual-abuse-claims-beggars-belief/index.html
+layout: layout.njk
 ---
 Inaction over sexual abuse claims beggars belief
 ================================================

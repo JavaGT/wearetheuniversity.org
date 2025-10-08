@@ -1,9 +1,12 @@
 ---
 slug: jono-naylor-welcomes-national-science-challenge
-title: "Jono Naylor welcomes National Science Challenge"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/PA1510/S00182/jono-naylor-welcomes-national-science-challenge.htm
+title: Jono Naylor welcomes National Science Challenge
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00182/jono-naylor-welcomes-national-science-challenge.htm
 author: new-zealand-national-party
+permalink: /archive/2015/10/13/jono-naylor-welcomes-national-science-challenge/index.html
+layout: layout.njk
 ---
 Jono Naylor welcomes National Science Challenge
 ===============================================

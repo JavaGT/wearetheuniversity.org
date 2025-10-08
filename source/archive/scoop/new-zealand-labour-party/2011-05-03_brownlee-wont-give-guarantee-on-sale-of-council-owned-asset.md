@@ -1,9 +1,13 @@
 ---
 slug: brownlee-wont-give-guarantee-on-sale-of-council-owned-asset
-title: "Brownlee Won’t Give Guarantee on Sale of Council-Owned Asset"
-date: 2011-05-03
-source-url: https://www.scoop.co.nz/stories/PA1105/S00043/brownlee-wont-give-guarantee-on-sale-of-council-owned-asset.htm
+title: Brownlee Won’t Give Guarantee on Sale of Council-Owned Asset
+date: 2011-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00043/brownlee-wont-give-guarantee-on-sale-of-council-owned-asset.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/03/brownlee-wont-give-guarantee-on-sale-of-council-owned-asset/index.html
+layout: layout.njk
 ---
 Brownlee Won’t Give Guarantee on Sale of Council-Owned Asset
 ============================================================

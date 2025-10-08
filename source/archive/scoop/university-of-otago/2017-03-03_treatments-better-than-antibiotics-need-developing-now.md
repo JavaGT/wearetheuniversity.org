@@ -1,9 +1,13 @@
 ---
 slug: treatments-better-than-antibiotics-need-developing-now
-title: "Treatments better than antibiotics need developing \"now\""
-date: 2017-03-03
-source-url: https://www.scoop.co.nz/stories/SC1703/S00008/treatments-better-than-antibiotics-need-developing-now.htm
+title: Treatments better than antibiotics need developing "now"
+date: 2017-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00008/treatments-better-than-antibiotics-need-developing-now.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/03/treatments-better-than-antibiotics-need-developing-now/index.html
+layout: layout.njk
 ---
 Treatments better than antibiotics need developing “now”
 ========================================================

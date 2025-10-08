@@ -1,9 +1,13 @@
 ---
 slug: chunuk-bair-commemoration-talk-at-pn-city-library
-title: "Chunuk Bair commemoration talk at PN City Library"
-date: 2016-08-05
-source-url: https://www.scoop.co.nz/stories/ED1608/S00011/chunuk-bair-commemoration-talk-at-pn-city-library.htm
+title: Chunuk Bair commemoration talk at PN City Library
+date: 2016-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00011/chunuk-bair-commemoration-talk-at-pn-city-library.htm
 author: massey-university
+permalink: >-
+  /archive/2016/08/05/chunuk-bair-commemoration-talk-at-pn-city-library/index.html
+layout: layout.njk
 ---
 Chunuk Bair commemoration talk at PN City Library
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: big-increase-in-necrotising-fasciitis-disease
-title: "Big increase in necrotising fasciitis disease"
-date: 2011-09-27
-source-url: https://www.scoop.co.nz/stories/GE1109/S00144/big-increase-in-necrotising-fasciitis-disease.htm
+title: Big increase in necrotising fasciitis disease
+date: 2011-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1109/S00144/big-increase-in-necrotising-fasciitis-disease.htm
 author: university-of-otago
+permalink: /archive/2011/09/27/big-increase-in-necrotising-fasciitis-disease/index.html
+layout: layout.njk
 ---
 Big increase in necrotising fasciitis disease
 =============================================

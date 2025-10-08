@@ -1,9 +1,12 @@
 ---
 slug: under-funding-fuels-cultural-tensions
-title: "Under-funding fuels cultural tensions"
-date: 2018-07-19
-source-url: https://www.scoop.co.nz/stories/GE1807/S00077/under-funding-fuels-cultural-tensions.htm
+title: Under-funding fuels cultural tensions
+date: 2018-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00077/under-funding-fuels-cultural-tensions.htm
 author: massey-university
+permalink: /archive/2018/07/19/under-funding-fuels-cultural-tensions/index.html
+layout: layout.njk
 ---
 Under-funding fuels cultural tensions
 =====================================

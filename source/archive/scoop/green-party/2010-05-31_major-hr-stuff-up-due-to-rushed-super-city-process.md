@@ -1,9 +1,13 @@
 ---
 slug: major-hr-stuff-up-due-to-rushed-super-city-process
-title: "Major HR stuff-up due to rushed Super City process"
-date: 2010-05-31
-source-url: https://www.scoop.co.nz/stories/PA1005/S00529/major-hr-stuff-up-due-to-rushed-super-city-process.htm
+title: Major HR stuff-up due to rushed Super City process
+date: 2010-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00529/major-hr-stuff-up-due-to-rushed-super-city-process.htm
 author: green-party
+permalink: >-
+  /archive/2010/05/31/major-hr-stuff-up-due-to-rushed-super-city-process/index.html
+layout: layout.njk
 ---
 Major HR stuff-up due to rushed Super City process
 ==================================================

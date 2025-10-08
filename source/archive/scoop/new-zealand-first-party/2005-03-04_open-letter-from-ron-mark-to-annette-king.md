@@ -1,9 +1,12 @@
 ---
 slug: open-letter-from-ron-mark-to-annette-king
-title: "Open Letter From Ron Mark To Annette King"
-date: 2005-03-04
-source-url: https://www.scoop.co.nz/stories/PA0503/S00097/open-letter-from-ron-mark-to-annette-king.htm
+title: Open Letter From Ron Mark To Annette King
+date: 2005-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00097/open-letter-from-ron-mark-to-annette-king.htm
 author: new-zealand-first-party
+permalink: /archive/2005/03/04/open-letter-from-ron-mark-to-annette-king/index.html
+layout: layout.njk
 ---
 Open Letter From Ron Mark To Annette King
 =========================================

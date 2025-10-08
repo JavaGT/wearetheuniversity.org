@@ -1,9 +1,12 @@
 ---
 slug: nationals-motorway-obsession-hurts-regions
-title: "National’s Motorway Obsession Hurts Regions"
-date: 2012-08-15
-source-url: https://www.scoop.co.nz/stories/PA1208/S00208/nationals-motorway-obsession-hurts-regions.htm
+title: National’s Motorway Obsession Hurts Regions
+date: 2012-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00208/nationals-motorway-obsession-hurts-regions.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/15/nationals-motorway-obsession-hurts-regions/index.html
+layout: layout.njk
 ---
 National’s Motorway Obsession Hurts Regions
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: schools-denied-support-by-government-decile-system
-title: "Schools Denied Support by Government Decile System"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/PA1506/S00272/schools-denied-support-by-government-decile-system.htm
+title: Schools Denied Support by Government Decile System
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00272/schools-denied-support-by-government-decile-system.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/06/17/schools-denied-support-by-government-decile-system/index.html
+layout: layout.njk
 ---
 Schools Denied Support by Government Decile System
 ==================================================

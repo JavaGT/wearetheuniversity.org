@@ -1,9 +1,12 @@
 ---
 slug: massey-researcher-makes-it-into-new-york-times
-title: "Massey researcher makes it into New York Times"
-date: 2009-03-12
-source-url: https://www.scoop.co.nz/stories/ED0903/S00041/massey-researcher-makes-it-into-new-york-times.htm
+title: Massey researcher makes it into New York Times
+date: 2009-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00041/massey-researcher-makes-it-into-new-york-times.htm
 author: massey-university
+permalink: /archive/2009/03/12/massey-researcher-makes-it-into-new-york-times/index.html
+layout: layout.njk
 ---
 Massey researcher makes it into New York Times
 ==============================================

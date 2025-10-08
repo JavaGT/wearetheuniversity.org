@@ -1,9 +1,13 @@
 ---
 slug: sound-science-point-of-difference-for-waipara-winemakers
-title: "Sound science point of difference for Waipara winemakers"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/SC1511/S00083/sound-science-point-of-difference-for-waipara-winemakers.htm
+title: Sound science point of difference for Waipara winemakers
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00083/sound-science-point-of-difference-for-waipara-winemakers.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/11/20/sound-science-point-of-difference-for-waipara-winemakers/index.html
+layout: layout.njk
 ---
 Sound science point of difference for Waipara winemakers
 ========================================================

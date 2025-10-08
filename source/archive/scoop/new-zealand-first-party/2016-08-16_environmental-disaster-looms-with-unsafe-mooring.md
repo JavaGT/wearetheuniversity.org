@@ -1,9 +1,13 @@
 ---
 slug: environmental-disaster-looms-with-unsafe-mooring
-title: "Environmental Disaster Looms With Unsafe Mooring"
-date: 2016-08-16
-source-url: https://www.scoop.co.nz/stories/PA1608/S00274/environmental-disaster-looms-with-unsafe-mooring.htm
+title: Environmental Disaster Looms With Unsafe Mooring
+date: 2016-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00274/environmental-disaster-looms-with-unsafe-mooring.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/16/environmental-disaster-looms-with-unsafe-mooring/index.html
+layout: layout.njk
 ---
 Environmental Disaster Looms With Unsafe Mooring
 ================================================

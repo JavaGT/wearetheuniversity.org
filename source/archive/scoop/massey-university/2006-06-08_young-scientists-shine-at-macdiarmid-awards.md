@@ -1,9 +1,12 @@
 ---
 slug: young-scientists-shine-at-macdiarmid-awards
-title: "Young scientists shine at MacDiarmid Awards"
-date: 2006-06-08
-source-url: https://www.scoop.co.nz/stories/SC0606/S00021/young-scientists-shine-at-macdiarmid-awards.htm
+title: Young scientists shine at MacDiarmid Awards
+date: 2006-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0606/S00021/young-scientists-shine-at-macdiarmid-awards.htm
 author: massey-university
+permalink: /archive/2006/06/08/young-scientists-shine-at-macdiarmid-awards/index.html
+layout: layout.njk
 ---
 Young scientists shine at MacDiarmid Awards
 ===========================================

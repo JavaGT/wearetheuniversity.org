@@ -1,9 +1,12 @@
 ---
 slug: staff-feature-at-landmark-defence-conference
-title: "Staff feature at landmark defence conference"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/ED1309/S00055/staff-feature-at-landmark-defence-conference.htm
+title: Staff feature at landmark defence conference
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00055/staff-feature-at-landmark-defence-conference.htm
 author: massey-university
+permalink: /archive/2013/09/10/staff-feature-at-landmark-defence-conference/index.html
+layout: layout.njk
 ---
 Staff feature at landmark defence conference
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: courage-needed-in-disarming-nuclear-arsenal
-title: "Courage Needed In Disarming Nuclear Arsenal"
-date: 2006-10-10
-source-url: https://www.scoop.co.nz/stories/PA0610/S00157/courage-needed-in-disarming-nuclear-arsenal.htm
+title: Courage Needed In Disarming Nuclear Arsenal
+date: 2006-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00157/courage-needed-in-disarming-nuclear-arsenal.htm
 author: te-pati-maori
+permalink: /archive/2006/10/10/courage-needed-in-disarming-nuclear-arsenal/index.html
+layout: layout.njk
 ---
 Courage Needed In Disarming Nuclear Arsenal
 ===========================================

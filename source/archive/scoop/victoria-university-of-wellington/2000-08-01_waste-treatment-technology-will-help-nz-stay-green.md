@@ -1,9 +1,13 @@
 ---
 slug: waste-treatment-technology-will-help-nz-stay-green
-title: "Waste treatment technology will help NZ stay green"
-date: 2000-08-01
-source-url: https://www.scoop.co.nz/stories/SC0008/S00003/waste-treatment-technology-will-help-nz-stay-green.htm
+title: Waste treatment technology will help NZ stay green
+date: 2000-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0008/S00003/waste-treatment-technology-will-help-nz-stay-green.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/08/01/waste-treatment-technology-will-help-nz-stay-green/index.html
+layout: layout.njk
 ---
 Waste treatment technology will help NZ stay green
 ==================================================

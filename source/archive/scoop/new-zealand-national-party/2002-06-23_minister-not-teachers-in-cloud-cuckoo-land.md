@@ -1,9 +1,12 @@
 ---
 slug: minister-not-teachers-in-cloud-cuckoo-land
-title: "Minister not teachers in 'cloud cuckoo land'"
-date: 2002-06-23
-source-url: https://www.scoop.co.nz/stories/PA0206/S00409/minister-not-teachers-in-cloud-cuckoo-land.htm
+title: Minister not teachers in 'cloud cuckoo land'
+date: 2002-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00409/minister-not-teachers-in-cloud-cuckoo-land.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/23/minister-not-teachers-in-cloud-cuckoo-land/index.html
+layout: layout.njk
 ---
 Minister not teachers in 'cloud cuckoo land'
 ============================================

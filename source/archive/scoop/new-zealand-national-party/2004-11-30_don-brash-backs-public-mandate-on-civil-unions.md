@@ -1,9 +1,12 @@
 ---
 slug: don-brash-backs-public-mandate-on-civil-unions
-title: "Don Brash backs public mandate on civil unions"
-date: 2004-11-30
-source-url: https://www.scoop.co.nz/stories/PA0411/S00648/don-brash-backs-public-mandate-on-civil-unions.htm
+title: Don Brash backs public mandate on civil unions
+date: 2004-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00648/don-brash-backs-public-mandate-on-civil-unions.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/30/don-brash-backs-public-mandate-on-civil-unions/index.html
+layout: layout.njk
 ---
 Don Brash backs public mandate on civil unions
 ==============================================

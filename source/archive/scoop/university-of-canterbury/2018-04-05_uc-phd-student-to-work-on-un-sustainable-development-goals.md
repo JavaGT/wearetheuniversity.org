@@ -1,9 +1,13 @@
 ---
 slug: uc-phd-student-to-work-on-un-sustainable-development-goals
-title: "UC PhD student to work on UN Sustainable Development Goals"
-date: 2018-04-05
-source-url: https://www.scoop.co.nz/stories/ED1804/S00008/uc-phd-student-to-work-on-un-sustainable-development-goals.htm
+title: UC PhD student to work on UN Sustainable Development Goals
+date: 2018-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00008/uc-phd-student-to-work-on-un-sustainable-development-goals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/04/05/uc-phd-student-to-work-on-un-sustainable-development-goals/index.html
+layout: layout.njk
 ---
 UC PhD student to work on UN Sustainable Development Goals
 ==========================================================

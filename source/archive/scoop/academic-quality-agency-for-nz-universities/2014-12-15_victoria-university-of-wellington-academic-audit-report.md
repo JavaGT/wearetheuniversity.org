@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-of-wellington-academic-audit-report
-title: "Victoria University of Wellington academic audit report"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/ED1412/S00095/victoria-university-of-wellington-academic-audit-report.htm
+title: Victoria University of Wellington academic audit report
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00095/victoria-university-of-wellington-academic-audit-report.htm
 author: academic-quality-agency-for-nz-universities
+permalink: >-
+  /archive/2014/12/15/victoria-university-of-wellington-academic-audit-report/index.html
+layout: layout.njk
 ---
 Victoria University of Wellington academic audit report
 =======================================================

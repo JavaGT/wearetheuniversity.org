@@ -1,9 +1,11 @@
 ---
 slug: honouring-sir-john-graham
-title: "Honouring Sir John Graham"
-date: 2017-08-03
+title: Honouring Sir John Graham
+date: 2017-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1708/S00042/honouring-sir-john-graham.htm
 author: maxim-institute
+permalink: /archive/2017/08/03/honouring-sir-john-graham/index.html
+layout: layout.njk
 ---
 Honouring Sir John Graham
 =========================

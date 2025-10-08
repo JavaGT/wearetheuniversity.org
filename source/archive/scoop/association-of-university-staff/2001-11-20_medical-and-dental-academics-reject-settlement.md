@@ -1,9 +1,12 @@
 ---
 slug: medical-and-dental-academics-reject-settlement
-title: "MEDICAL AND DENTAL ACADEMICS REJECT SETTLEMENT"
-date: 2001-11-20
-source-url: https://www.scoop.co.nz/stories/ED0111/S00039/medical-and-dental-academics-reject-settlement.htm
+title: MEDICAL AND DENTAL ACADEMICS REJECT SETTLEMENT
+date: 2001-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00039/medical-and-dental-academics-reject-settlement.htm
 author: association-of-university-staff
+permalink: /archive/2001/11/20/medical-and-dental-academics-reject-settlement/index.html
+layout: layout.njk
 ---
 MEDICAL AND DENTAL ACADEMICS REJECT SETTLEMENT
 ==============================================

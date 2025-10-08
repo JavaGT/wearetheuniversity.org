@@ -1,9 +1,12 @@
 ---
 slug: increasing-efficiency-of-justice-system
-title: "Increasing efficiency of justice system"
-date: 2009-12-21
-source-url: https://www.scoop.co.nz/stories/PA0912/S00351/increasing-efficiency-of-justice-system.htm
+title: Increasing efficiency of justice system
+date: 2009-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00351/increasing-efficiency-of-justice-system.htm
 author: new-zealand-national-party
+permalink: /archive/2009/12/21/increasing-efficiency-of-justice-system/index.html
+layout: layout.njk
 ---
 Increasing efficiency of justice system
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: government-ignores-prison-population-forecast
-title: "Government ignores prison population forecast"
-date: 2018-07-02
-source-url: https://www.scoop.co.nz/stories/PA1807/S00008/government-ignores-prison-population-forecast.htm
+title: Government ignores prison population forecast
+date: 2018-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00008/government-ignores-prison-population-forecast.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/02/government-ignores-prison-population-forecast/index.html
+layout: layout.njk
 ---
 Government ignores prison population forecast
 =============================================

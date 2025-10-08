@@ -1,9 +1,12 @@
 ---
 slug: joyce-on-dairy-dont-have-a-cow-man
-title: "Joyce on dairy: Don’t have a cow, man"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/PA1412/S00052/joyce-on-dairy-dont-have-a-cow-man.htm
+title: 'Joyce on dairy: Don’t have a cow, man'
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00052/joyce-on-dairy-dont-have-a-cow-man.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/12/03/joyce-on-dairy-dont-have-a-cow-man/index.html
+layout: layout.njk
 ---
 Joyce on dairy: Don’t have a cow, man
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: unspent-funding-should-be-redistributed
-title: "Unspent Funding Should Be Redistributed"
-date: 2003-12-04
-source-url: https://www.scoop.co.nz/stories/ED0312/S00022/unspent-funding-should-be-redistributed.htm
+title: Unspent Funding Should Be Redistributed
+date: 2003-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00022/unspent-funding-should-be-redistributed.htm
 author: association-of-university-staff
+permalink: /archive/2003/12/04/unspent-funding-should-be-redistributed/index.html
+layout: layout.njk
 ---
 Unspent Funding Should Be Redistributed
 =======================================

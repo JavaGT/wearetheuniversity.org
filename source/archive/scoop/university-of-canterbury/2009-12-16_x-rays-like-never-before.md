@@ -1,9 +1,11 @@
 ---
 slug: x-rays-like-never-before
-title: "X-rays like never before"
-date: 2009-12-16
+title: X-rays like never before
+date: 2009-12-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0912/S00058/x-rays-like-never-before.htm
 author: university-of-canterbury
+permalink: /archive/2009/12/16/x-rays-like-never-before/index.html
+layout: layout.njk
 ---
 X-rays like never before
 ========================

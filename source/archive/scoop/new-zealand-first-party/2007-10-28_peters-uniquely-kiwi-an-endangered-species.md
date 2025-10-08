@@ -1,9 +1,12 @@
 ---
 slug: peters-uniquely-kiwi-an-endangered-species
-title: "Peters: Uniquely Kiwi – An Endangered Species"
-date: 2007-10-28
-source-url: https://www.scoop.co.nz/stories/PA0710/S00538/peters-uniquely-kiwi-an-endangered-species.htm
+title: 'Peters: Uniquely Kiwi – An Endangered Species'
+date: 2007-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00538/peters-uniquely-kiwi-an-endangered-species.htm
 author: new-zealand-first-party
+permalink: /archive/2007/10/28/peters-uniquely-kiwi-an-endangered-species/index.html
+layout: layout.njk
 ---
 Peters: Uniquely Kiwi – An Endangered Species
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: ethnic-communities-deserve-more-than-tokenism
-title: "Ethnic communities deserve more than tokenism"
-date: 2006-12-06
-source-url: https://www.scoop.co.nz/stories/PA0612/S00099/ethnic-communities-deserve-more-than-tokenism.htm
+title: Ethnic communities deserve more than tokenism
+date: 2006-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00099/ethnic-communities-deserve-more-than-tokenism.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/06/ethnic-communities-deserve-more-than-tokenism/index.html
+layout: layout.njk
 ---
 Ethnic communities deserve more than tokenism
 =============================================

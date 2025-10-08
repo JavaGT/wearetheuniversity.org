@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-go-green-with-bottle-buy-back
-title: "Victoria Students Go Green with ‘Bottle Buy Back’"
-date: 2008-03-05
-source-url: https://www.scoop.co.nz/stories/AK0803/S00043/victoria-students-go-green-with-bottle-buy-back.htm
+title: Victoria Students Go Green with ‘Bottle Buy Back’
+date: 2008-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0803/S00043/victoria-students-go-green-with-bottle-buy-back.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/03/05/victoria-students-go-green-with-bottle-buy-back/index.html
+layout: layout.njk
 ---
 Victoria Students Go Green with ‘Bottle Buy Back’
 =================================================

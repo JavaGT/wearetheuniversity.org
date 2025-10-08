@@ -1,9 +1,12 @@
 ---
 slug: sculpture-wins-queensland-commission
-title: "Sculpture wins Queensland commission"
-date: 2011-12-16
-source-url: https://www.scoop.co.nz/stories/CU1112/S00264/sculpture-wins-queensland-commission.htm
+title: Sculpture wins Queensland commission
+date: 2011-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1112/S00264/sculpture-wins-queensland-commission.htm
 author: auckland-university
+permalink: /archive/2011/12/16/sculpture-wins-queensland-commission/index.html
+layout: layout.njk
 ---
 Sculpture wins Queensland commission
 ====================================

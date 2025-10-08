@@ -1,9 +1,13 @@
 ---
 slug: greens-across-country-push-for-action-on-climate
-title: "Greens across country push for action on climate"
-date: 2006-11-03
-source-url: https://www.scoop.co.nz/stories/PA0611/S00073/greens-across-country-push-for-action-on-climate.htm
+title: Greens across country push for action on climate
+date: 2006-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00073/greens-across-country-push-for-action-on-climate.htm
 author: green-party
+permalink: >-
+  /archive/2006/11/03/greens-across-country-push-for-action-on-climate/index.html
+layout: layout.njk
 ---
 Greens across country push for action on climate
 ================================================

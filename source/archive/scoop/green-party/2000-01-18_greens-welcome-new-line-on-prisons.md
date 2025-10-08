@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-new-line-on-prisons
-title: "Greens Welcome New Line On Prisons"
-date: 2000-01-18
-source-url: https://www.scoop.co.nz/stories/PA0001/S00051/greens-welcome-new-line-on-prisons.htm
+title: Greens Welcome New Line On Prisons
+date: 2000-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00051/greens-welcome-new-line-on-prisons.htm
 author: green-party
+permalink: /archive/2000/01/18/greens-welcome-new-line-on-prisons/index.html
+layout: layout.njk
 ---
 Greens Welcome New Line On Prisons
 ==================================

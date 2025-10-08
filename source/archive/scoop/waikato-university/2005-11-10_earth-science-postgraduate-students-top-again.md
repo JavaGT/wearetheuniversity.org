@@ -1,9 +1,12 @@
 ---
 slug: earth-science-postgraduate-students-top-again
-title: "Earth science postgraduate students top again"
-date: 2005-11-10
-source-url: https://www.scoop.co.nz/stories/ED0511/S00046/earth-science-postgraduate-students-top-again.htm
+title: Earth science postgraduate students top again
+date: 2005-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00046/earth-science-postgraduate-students-top-again.htm
 author: waikato-university
+permalink: /archive/2005/11/10/earth-science-postgraduate-students-top-again/index.html
+layout: layout.njk
 ---
 Earth science postgraduate students top again
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-strategy-for-a-modern-dynamic-economy
-title: "Labour's strategy for a modern, dynamic economy"
-date: 1999-11-10
-source-url: https://www.scoop.co.nz/stories/PA9911/S00236/labours-strategy-for-a-modern-dynamic-economy.htm
+title: Labour's strategy for a modern, dynamic economy
+date: 1999-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00236/labours-strategy-for-a-modern-dynamic-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/10/labours-strategy-for-a-modern-dynamic-economy/index.html
+layout: layout.njk
 ---
 Labour's strategy for a modern, dynamic economy
 ===============================================

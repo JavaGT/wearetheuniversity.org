@@ -1,8 +1,11 @@
 ---
 slug: skull-could-be-worlds-oldest-tsunami-victim
-title: "Skull could be world’s oldest tsunami victim"
-date: 2017-10-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/skull-could-be-worlds-oldest-tsunami-victim.html
+title: Skull could be world’s oldest tsunami victim
+date: 2017-10-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/skull-could-be-worlds-oldest-tsunami-victim.html
+permalink: /archive/2017/10/26/skull-could-be-worlds-oldest-tsunami-victim/index.html
+layout: layout.njk
 ---
 Skull could be world’s oldest tsunami victim
 ============================================

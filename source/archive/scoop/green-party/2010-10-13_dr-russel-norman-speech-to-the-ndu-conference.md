@@ -1,9 +1,12 @@
 ---
 slug: dr-russel-norman-speech-to-the-ndu-conference
-title: "Dr Russel Norman Speech to the NDU Conference"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/PA1010/S00174/dr-russel-norman-speech-to-the-ndu-conference.htm
+title: Dr Russel Norman Speech to the NDU Conference
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00174/dr-russel-norman-speech-to-the-ndu-conference.htm
 author: green-party
+permalink: /archive/2010/10/13/dr-russel-norman-speech-to-the-ndu-conference/index.html
+layout: layout.njk
 ---
 Dr Russel Norman Speech to the NDU Conference
 =============================================

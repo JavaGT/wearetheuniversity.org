@@ -1,9 +1,12 @@
 ---
 slug: indigenous-treaties-underpin-political-order
-title: "Indigenous treaties underpin political order"
-date: 2006-04-24
-source-url: https://www.scoop.co.nz/stories/ED0604/S00080/indigenous-treaties-underpin-political-order.htm
+title: Indigenous treaties underpin political order
+date: 2006-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00080/indigenous-treaties-underpin-political-order.htm
 author: auckland-university
+permalink: /archive/2006/04/24/indigenous-treaties-underpin-political-order/index.html
+layout: layout.njk
 ---
 Indigenous treaties underpin political order
 ============================================

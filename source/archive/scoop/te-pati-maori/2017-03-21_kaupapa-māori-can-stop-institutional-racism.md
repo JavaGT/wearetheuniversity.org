@@ -1,9 +1,12 @@
 ---
 slug: kaupapa-māori-can-stop-institutional-racism
-title: "Kaupapa Māori can stop institutional racism"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/PA1703/S00336/kaupapa-maori-can-stop-institutional-racism.htm
+title: Kaupapa Māori can stop institutional racism
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00336/kaupapa-maori-can-stop-institutional-racism.htm
 author: te-pati-maori
+permalink: /archive/2017/03/21/kaupapa-m/index.html
+layout: layout.njk
 ---
 Kaupapa Māori can stop institutional racism
 ===========================================

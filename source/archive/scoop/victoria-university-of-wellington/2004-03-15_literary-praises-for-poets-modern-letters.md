@@ -1,9 +1,12 @@
 ---
 slug: literary-praises-for-poets-modern-letters
-title: "Literary Praises for Poet’s Modern Letters"
-date: 2004-03-15
-source-url: https://www.scoop.co.nz/stories/ED0403/S00055/literary-praises-for-poets-modern-letters.htm
+title: Literary Praises for Poet’s Modern Letters
+date: 2004-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00055/literary-praises-for-poets-modern-letters.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/15/literary-praises-for-poets-modern-letters/index.html
+layout: layout.njk
 ---
 Literary Praises for Poet’s Modern Letters
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: determining-the-origin-of-insect-pests
-title: "Determining the origin of insect pests"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/SC1412/S00045/determining-the-origin-of-insect-pests.htm
+title: Determining the origin of insect pests
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00045/determining-the-origin-of-insect-pests.htm
 author: lincoln-university
+permalink: /archive/2014/12/15/determining-the-origin-of-insect-pests/index.html
+layout: layout.njk
 ---
 Determining the origin of insect pests
 ======================================

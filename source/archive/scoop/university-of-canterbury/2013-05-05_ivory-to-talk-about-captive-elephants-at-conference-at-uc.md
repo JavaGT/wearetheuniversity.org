@@ -1,9 +1,13 @@
 ---
 slug: ivory-to-talk-about-captive-elephants-at-conference-at-uc
-title: "Ivory to talk about captive elephants at conference at UC"
-date: 2013-05-05
-source-url: https://www.scoop.co.nz/stories/ED1305/S00024/ivory-to-talk-about-captive-elephants-at-conference-at-uc.htm
+title: Ivory to talk about captive elephants at conference at UC
+date: 2013-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00024/ivory-to-talk-about-captive-elephants-at-conference-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/05/ivory-to-talk-about-captive-elephants-at-conference-at-uc/index.html
+layout: layout.njk
 ---
 Ivory to talk about captive elephants at conference at UC
 =========================================================

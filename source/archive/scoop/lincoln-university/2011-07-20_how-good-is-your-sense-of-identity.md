@@ -1,9 +1,12 @@
 ---
 slug: how-good-is-your-sense-of-identity
-title: "How good is your sense of identity?"
-date: 2011-07-20
-source-url: https://www.scoop.co.nz/stories/ED1107/S00089/how-good-is-your-sense-of-identity.htm
+title: How good is your sense of identity?
+date: 2011-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00089/how-good-is-your-sense-of-identity.htm
 author: lincoln-university
+permalink: /archive/2011/07/20/how-good-is-your-sense-of-identity/index.html
+layout: layout.njk
 ---
 How good is your sense of identity?
 ===================================

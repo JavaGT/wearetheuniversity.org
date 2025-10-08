@@ -1,9 +1,12 @@
 ---
 slug: new-research-institute-to-tackle-nzs-future
-title: "New research institute to tackle NZ's future"
-date: 2010-11-22
-source-url: https://www.scoop.co.nz/stories/ED1011/S00094/new-research-institute-to-tackle-nzs-future.htm
+title: New research institute to tackle NZ's future
+date: 2010-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00094/new-research-institute-to-tackle-nzs-future.htm
 author: university-of-waikato
+permalink: /archive/2010/11/22/new-research-institute-to-tackle-nzs-future/index.html
+layout: layout.njk
 ---
 New research institute to tackle NZ's future
 ============================================

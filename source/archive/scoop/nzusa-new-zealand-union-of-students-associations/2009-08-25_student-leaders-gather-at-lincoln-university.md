@@ -1,9 +1,12 @@
 ---
 slug: student-leaders-gather-at-lincoln-university
-title: "Student leaders gather at Lincoln University"
-date: 2009-08-25
-source-url: https://www.scoop.co.nz/stories/PO0908/S00325/student-leaders-gather-at-lincoln-university.htm
+title: Student leaders gather at Lincoln University
+date: 2009-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00325/student-leaders-gather-at-lincoln-university.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/08/25/student-leaders-gather-at-lincoln-university/index.html
+layout: layout.njk
 ---
 Student leaders gather at Lincoln University
 ============================================

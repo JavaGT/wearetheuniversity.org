@@ -1,9 +1,12 @@
 ---
 slug: state-servants-liable-for-millions
-title: "State Servants Liable For Millions"
-date: 2002-04-21
-source-url: https://www.scoop.co.nz/stories/PA0204/S00301/state-servants-liable-for-millions.htm
+title: State Servants Liable For Millions
+date: 2002-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00301/state-servants-liable-for-millions.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/21/state-servants-liable-for-millions/index.html
+layout: layout.njk
 ---
 State Servants Liable For Millions
 ==================================

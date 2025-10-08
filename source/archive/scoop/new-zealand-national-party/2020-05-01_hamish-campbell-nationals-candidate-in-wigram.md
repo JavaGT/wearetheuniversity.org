@@ -1,9 +1,12 @@
 ---
 slug: hamish-campbell-nationals-candidate-in-wigram
-title: "Hamish Campbell National’s Candidate In Wigram"
-date: 2020-05-01
-source-url: https://www.scoop.co.nz/stories/PO2005/S00018/hamish-campbell-nationals-candidate-in-wigram.htm
+title: Hamish Campbell National’s Candidate In Wigram
+date: 2020-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00018/hamish-campbell-nationals-candidate-in-wigram.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/01/hamish-campbell-nationals-candidate-in-wigram/index.html
+layout: layout.njk
 ---
 Hamish Campbell National’s Candidate In Wigram
 ==============================================

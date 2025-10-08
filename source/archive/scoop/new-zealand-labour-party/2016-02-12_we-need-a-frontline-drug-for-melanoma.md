@@ -1,9 +1,12 @@
 ---
 slug: we-need-a-frontline-drug-for-melanoma
-title: "We need a frontline drug for Melanoma"
-date: 2016-02-12
-source-url: https://www.scoop.co.nz/stories/GE1602/S00042/we-need-a-frontline-drug-for-melanoma.htm
+title: We need a frontline drug for Melanoma
+date: 2016-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1602/S00042/we-need-a-frontline-drug-for-melanoma.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/12/we-need-a-frontline-drug-for-melanoma/index.html
+layout: layout.njk
 ---
 We need a frontline drug for Melanoma
 =====================================

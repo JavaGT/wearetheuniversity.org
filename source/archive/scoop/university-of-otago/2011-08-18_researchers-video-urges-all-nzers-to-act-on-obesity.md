@@ -1,9 +1,13 @@
 ---
 slug: researchers-video-urges-all-nzers-to-act-on-obesity
-title: "Researchers’ video urges all NZers to act on obesity"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/GE1108/S00074/researchers-video-urges-all-nzers-to-act-on-obesity.htm
+title: Researchers’ video urges all NZers to act on obesity
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1108/S00074/researchers-video-urges-all-nzers-to-act-on-obesity.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/08/18/researchers-video-urges-all-nzers-to-act-on-obesity/index.html
+layout: layout.njk
 ---
 Researchers’ video urges all NZers to act on obesity
 ====================================================

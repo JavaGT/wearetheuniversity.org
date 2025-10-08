@@ -1,9 +1,12 @@
 ---
 slug: honey-breakthrough-reveals-manukas-secrets
-title: "Honey breakthrough reveals manuka’s secrets"
-date: 2009-09-03
-source-url: https://www.scoop.co.nz/stories/SC0909/S00011/honey-breakthrough-reveals-manukas-secrets.htm
+title: Honey breakthrough reveals manuka’s secrets
+date: 2009-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00011/honey-breakthrough-reveals-manukas-secrets.htm
 author: university-of-waikato
+permalink: /archive/2009/09/03/honey-breakthrough-reveals-manukas-secrets/index.html
+layout: layout.njk
 ---
 Honey breakthrough reveals manuka’s secrets
 ===========================================

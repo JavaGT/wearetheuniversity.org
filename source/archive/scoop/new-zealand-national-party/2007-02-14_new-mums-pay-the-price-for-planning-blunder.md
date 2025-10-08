@@ -1,9 +1,12 @@
 ---
 slug: new-mums-pay-the-price-for-planning-blunder
-title: "New mums pay the price for planning blunder"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/PA0702/S00237/new-mums-pay-the-price-for-planning-blunder.htm
+title: New mums pay the price for planning blunder
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00237/new-mums-pay-the-price-for-planning-blunder.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/14/new-mums-pay-the-price-for-planning-blunder/index.html
+layout: layout.njk
 ---
 New mums pay the price for planning blunder
 ===========================================

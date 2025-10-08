@@ -1,9 +1,12 @@
 ---
 slug: registry-occupation-continues-at-canterbury-uni
-title: "Registry occupation continues at Canterbury Uni"
-date: 1999-10-06
-source-url: https://www.scoop.co.nz/stories/HL9910/S00019/registry-occupation-continues-at-canterbury-uni.htm
+title: Registry occupation continues at Canterbury Uni
+date: 1999-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL9910/S00019/registry-occupation-continues-at-canterbury-uni.htm
 author: matthew-thomas
+permalink: /archive/1999/10/06/registry-occupation-continues-at-canterbury-uni/index.html
+layout: layout.njk
 ---
 Registry occupation continues at Canterbury Uni
 ===============================================

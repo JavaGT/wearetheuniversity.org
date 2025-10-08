@@ -1,9 +1,12 @@
 ---
 slug: some-new-years-resolution-ideas-for-jacinda
-title: "Some New Year’s Resolution Ideas For Jacinda"
-date: 2022-01-01
-source-url: https://www.scoop.co.nz/stories/PA2201/S00001/some-new-years-resolution-ideas-for-jacinda.htm
+title: Some New Year’s Resolution Ideas For Jacinda
+date: 2022-01-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00001/some-new-years-resolution-ideas-for-jacinda.htm
 author: act-new-zealand
+permalink: /archive/2022/01/01/some-new-years-resolution-ideas-for-jacinda/index.html
+layout: layout.njk
 ---
 Some New Year’s Resolution Ideas For Jacinda
 ============================================

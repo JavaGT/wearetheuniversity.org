@@ -1,9 +1,12 @@
 ---
 slug: larger-men-earn-more-larger-women-earn-less
-title: "Larger men earn more, larger women earn less"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/ED1510/S00027/larger-men-earn-more-larger-women-earn-less.htm
+title: Larger men earn more, larger women earn less
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00027/larger-men-earn-more-larger-women-earn-less.htm
 author: university-of-otago
+permalink: /archive/2015/10/05/larger-men-earn-more-larger-women-earn-less/index.html
+layout: layout.njk
 ---
 Larger men earn more, larger women earn less
 ============================================

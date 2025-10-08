@@ -1,9 +1,13 @@
 ---
 slug: nzqa-position-on-national-degrees-strongly-opposed
-title: "NZQA position on national degrees strongly opposed"
-date: 2008-04-01
-source-url: https://www.scoop.co.nz/stories/ED0804/S00002/nzqa-position-on-national-degrees-strongly-opposed.htm
+title: NZQA position on national degrees strongly opposed
+date: 2008-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00002/nzqa-position-on-national-degrees-strongly-opposed.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2008/04/01/nzqa-position-on-national-degrees-strongly-opposed/index.html
+layout: layout.njk
 ---
 NZQA position on national degrees strongly opposed
 ==================================================

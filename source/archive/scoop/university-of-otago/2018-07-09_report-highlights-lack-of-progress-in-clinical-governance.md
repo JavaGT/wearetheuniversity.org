@@ -1,9 +1,13 @@
 ---
 slug: report-highlights-lack-of-progress-in-clinical-governance
-title: "Report highlights lack of progress in clinical governance"
-date: 2018-07-09
-source-url: https://www.scoop.co.nz/stories/GE1807/S00030/report-highlights-lack-of-progress-in-clinical-governance.htm
+title: Report highlights lack of progress in clinical governance
+date: 2018-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00030/report-highlights-lack-of-progress-in-clinical-governance.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/09/report-highlights-lack-of-progress-in-clinical-governance/index.html
+layout: layout.njk
 ---
 Report highlights lack of progress in clinical governance
 =========================================================

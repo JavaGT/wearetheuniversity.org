@@ -1,9 +1,13 @@
 ---
 slug: labours-tertiary-bribe-unprecedented-foolishness
-title: "Labour's Tertiary bribe unprecedented foolishness"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/PA0507/S00556/labours-tertiary-bribe-unprecedented-foolishness.htm
+title: Labour's Tertiary bribe unprecedented foolishness
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00556/labours-tertiary-bribe-unprecedented-foolishness.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/07/26/labours-tertiary-bribe-unprecedented-foolishness/index.html
+layout: layout.njk
 ---
 Labour's Tertiary bribe unprecedented foolishness
 =================================================

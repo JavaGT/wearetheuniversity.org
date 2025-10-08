@@ -1,9 +1,12 @@
 ---
 slug: councillors-attacks-on-young-people-not-cool!
-title: "Councillor’s attacks on young people Not Cool!"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/PO1109/S00339/councillors-attacks-on-young-people-not-cool.htm
+title: Councillor’s attacks on young people Not Cool!
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00339/councillors-attacks-on-young-people-not-cool.htm
 author: new-zealand-young-nationals
+permalink: /archive/2011/09/23/councillors-attacks-on-young-people-not-cool/index.html
+layout: layout.njk
 ---
 Councillor’s attacks on young people Not Cool!
 ==============================================

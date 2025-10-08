@@ -1,9 +1,12 @@
 ---
 slug: public-transport-behaviours-explained
-title: "Public transport behaviours explained"
-date: 2010-01-11
-source-url: https://www.scoop.co.nz/stories/ED1001/S00010/public-transport-behaviours-explained.htm
+title: Public transport behaviours explained
+date: 2010-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00010/public-transport-behaviours-explained.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/01/11/public-transport-behaviours-explained/index.html
+layout: layout.njk
 ---
 Public transport behaviours explained
 =====================================

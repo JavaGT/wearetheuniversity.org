@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-10-november-2006-no-92
-title: "News Worthy - 10 November 2006 - No. 92"
-date: 2006-11-10
-source-url: https://www.scoop.co.nz/stories/PA0611/S00194/news-worthy-10-november-2006-no-92.htm
+title: News Worthy - 10 November 2006 - No. 92
+date: 2006-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00194/news-worthy-10-november-2006-no-92.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/10/news-worthy-10-november-2006-no-92/index.html
+layout: layout.njk
 ---
 News Worthy - 10 November 2006 - No. 92
 =======================================

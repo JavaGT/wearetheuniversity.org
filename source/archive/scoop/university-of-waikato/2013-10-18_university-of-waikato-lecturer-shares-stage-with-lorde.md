@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-lecturer-shares-stage-with-lorde
-title: "University of Waikato lecturer shares stage with Lorde"
-date: 2013-10-18
-source-url: https://www.scoop.co.nz/stories/ED1310/S00125/university-of-waikato-lecturer-shares-stage-with-lorde.htm
+title: University of Waikato lecturer shares stage with Lorde
+date: 2013-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00125/university-of-waikato-lecturer-shares-stage-with-lorde.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/10/18/university-of-waikato-lecturer-shares-stage-with-lorde/index.html
+layout: layout.njk
 ---
 University of Waikato lecturer shares stage with Lorde
 ======================================================

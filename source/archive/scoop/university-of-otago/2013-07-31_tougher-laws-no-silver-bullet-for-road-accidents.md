@@ -1,9 +1,13 @@
 ---
 slug: tougher-laws-no-silver-bullet-for-road-accidents
-title: "Tougher laws no silver bullet for road accidents"
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/PO1307/S00392/tougher-laws-no-silver-bullet-for-road-accidents.htm
+title: Tougher laws no silver bullet for road accidents
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00392/tougher-laws-no-silver-bullet-for-road-accidents.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/31/tougher-laws-no-silver-bullet-for-road-accidents/index.html
+layout: layout.njk
 ---
 Tougher laws no silver bullet for road accidents
 ================================================

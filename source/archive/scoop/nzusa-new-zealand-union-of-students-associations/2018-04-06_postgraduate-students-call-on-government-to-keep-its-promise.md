@@ -1,9 +1,13 @@
 ---
 slug: postgraduate-students-call-on-government-to-keep-its-promise
-title: "Postgraduate students call on Government to keep its promise"
-date: 2018-04-06
-source-url: https://www.scoop.co.nz/stories/PO1804/S00065/postgraduate-students-call-on-government-to-keep-its-promise.htm
+title: Postgraduate students call on Government to keep its promise
+date: 2018-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1804/S00065/postgraduate-students-call-on-government-to-keep-its-promise.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2018/04/06/postgraduate-students-call-on-government-to-keep-its-promise/index.html
+layout: layout.njk
 ---
 Postgraduate students call on Government to keep its promise
 ============================================================

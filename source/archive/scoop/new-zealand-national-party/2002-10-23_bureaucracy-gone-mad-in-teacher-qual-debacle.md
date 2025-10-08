@@ -1,9 +1,12 @@
 ---
 slug: bureaucracy-gone-mad-in-teacher-qual-debacle
-title: "Bureaucracy gone mad in teacher qual debacle"
-date: 2002-10-23
-source-url: https://www.scoop.co.nz/stories/PA0210/S00486/bureaucracy-gone-mad-in-teacher-qual-debacle.htm
+title: Bureaucracy gone mad in teacher qual debacle
+date: 2002-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00486/bureaucracy-gone-mad-in-teacher-qual-debacle.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/23/bureaucracy-gone-mad-in-teacher-qual-debacle/index.html
+layout: layout.njk
 ---
 Bureaucracy gone mad in teacher qual debacle
 ============================================

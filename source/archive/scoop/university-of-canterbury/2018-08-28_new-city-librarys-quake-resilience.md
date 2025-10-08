@@ -1,9 +1,12 @@
 ---
 slug: new-city-librarys-quake-resilience
-title: "New city library’s quake resilience"
-date: 2018-08-28
-source-url: https://www.scoop.co.nz/stories/AK1808/S00652/new-city-librarys-quake-resilience.htm
+title: New city library’s quake resilience
+date: 2018-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1808/S00652/new-city-librarys-quake-resilience.htm
 author: university-of-canterbury
+permalink: /archive/2018/08/28/new-city-librarys-quake-resilience/index.html
+layout: layout.njk
 ---
 New city library’s quake resilience
 ===================================

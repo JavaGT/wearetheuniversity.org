@@ -1,9 +1,13 @@
 ---
 slug: teachers-urged-to-stay-away-from-quake-affected-buildings
-title: "Teachers Urged to Stay Away from Quake-Affected Buildings"
-date: 2011-02-27
-source-url: https://www.scoop.co.nz/stories/ED1102/S00078/teachers-urged-to-stay-away-from-quake-affected-buildings.htm
+title: Teachers Urged to Stay Away from Quake-Affected Buildings
+date: 2011-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00078/teachers-urged-to-stay-away-from-quake-affected-buildings.htm
 author: nzei
+permalink: >-
+  /archive/2011/02/27/teachers-urged-to-stay-away-from-quake-affected-buildings/index.html
+layout: layout.njk
 ---
 Teachers Urged to Stay Away from Quake-Affected Buildings
 =========================================================

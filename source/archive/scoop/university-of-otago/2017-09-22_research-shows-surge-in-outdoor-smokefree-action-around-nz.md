@@ -1,9 +1,13 @@
 ---
 slug: research-shows-surge-in-outdoor-smokefree-action-around-nz
-title: "Research shows surge in outdoor smokefree action around NZ"
-date: 2017-09-22
-source-url: https://www.scoop.co.nz/stories/ED1709/S00087/research-shows-surge-in-outdoor-smokefree-action-around-nz.htm
+title: Research shows surge in outdoor smokefree action around NZ
+date: 2017-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00087/research-shows-surge-in-outdoor-smokefree-action-around-nz.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/09/22/research-shows-surge-in-outdoor-smokefree-action-around-nz/index.html
+layout: layout.njk
 ---
 Research shows surge in outdoor smokefree action around NZ
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-uc-centre-focuses-on-human-animal-studies
-title: "New UC centre focuses on human-animal studies"
-date: 2007-03-14
-source-url: https://www.scoop.co.nz/stories/ED0703/S00045/new-uc-centre-focuses-on-human-animal-studies.htm
+title: New UC centre focuses on human-animal studies
+date: 2007-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00045/new-uc-centre-focuses-on-human-animal-studies.htm
 author: university-of-canterbury
+permalink: /archive/2007/03/14/new-uc-centre-focuses-on-human-animal-studies/index.html
+layout: layout.njk
 ---
 New UC centre focuses on human-animal studies
 =============================================

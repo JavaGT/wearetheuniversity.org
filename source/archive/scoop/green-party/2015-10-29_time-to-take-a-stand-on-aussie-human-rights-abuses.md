@@ -1,9 +1,13 @@
 ---
 slug: time-to-take-a-stand-on-aussie-human-rights-abuses
-title: "Time to take a stand on Aussie human rights abuses"
-date: 2015-10-29
-source-url: https://www.scoop.co.nz/stories/PA1510/S00494/time-to-take-a-stand-on-aussie-human-rights-abuses.htm
+title: Time to take a stand on Aussie human rights abuses
+date: 2015-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00494/time-to-take-a-stand-on-aussie-human-rights-abuses.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/29/time-to-take-a-stand-on-aussie-human-rights-abuses/index.html
+layout: layout.njk
 ---
 Time to take a stand on Aussie human rights abuses
 ==================================================

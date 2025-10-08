@@ -1,9 +1,13 @@
 ---
 slug: honorary-doctorates-for-policewoman-diplomat-chief-exec
-title: "Honorary doctorates for policewoman, diplomat, chief exec"
-date: 2015-02-12
-source-url: https://www.scoop.co.nz/stories/ED1502/S00040/honorary-doctorates-for-policewoman-diplomat-chief-exec.htm
+title: Honorary doctorates for policewoman, diplomat, chief exec
+date: 2015-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00040/honorary-doctorates-for-policewoman-diplomat-chief-exec.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/12/honorary-doctorates-for-policewoman-diplomat-chief-exec/index.html
+layout: layout.njk
 ---
 Honorary doctorates for policewoman, diplomat, chief exec
 =========================================================

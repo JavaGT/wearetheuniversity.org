@@ -1,9 +1,12 @@
 ---
 slug: green-party-release-controversial-video
-title: "Green Party Release Controversial Video"
-date: 2008-05-17
-source-url: https://www.scoop.co.nz/stories/PO0805/S00261/green-party-release-controversial-video.htm
+title: Green Party Release Controversial Video
+date: 2008-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0805/S00261/green-party-release-controversial-video.htm
 author: green-party
+permalink: /archive/2008/05/17/green-party-release-controversial-video/index.html
+layout: layout.njk
 ---
 Green Party Release Controversial Video
 =======================================

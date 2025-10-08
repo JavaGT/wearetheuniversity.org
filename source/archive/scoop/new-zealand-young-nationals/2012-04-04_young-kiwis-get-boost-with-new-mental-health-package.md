@@ -1,9 +1,13 @@
 ---
 slug: young-kiwis-get-boost-with-new-mental-health-package
-title: "Young Kiwis get boost with New Mental Health Package"
-date: 2012-04-04
-source-url: https://www.scoop.co.nz/stories/PO1204/S00056/young-kiwis-get-boost-with-new-mental-health-package.htm
+title: Young Kiwis get boost with New Mental Health Package
+date: 2012-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1204/S00056/young-kiwis-get-boost-with-new-mental-health-package.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2012/04/04/young-kiwis-get-boost-with-new-mental-health-package/index.html
+layout: layout.njk
 ---
 Young Kiwis get boost with New Mental Health Package
 ====================================================

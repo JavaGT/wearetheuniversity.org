@@ -1,9 +1,12 @@
 ---
 slug: working-makes-for-a-happier-retirement
-title: "Working makes for a happier retirement"
-date: 2008-05-05
-source-url: https://www.scoop.co.nz/stories/BU0805/S00049/working-makes-for-a-happier-retirement.htm
+title: Working makes for a happier retirement
+date: 2008-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0805/S00049/working-makes-for-a-happier-retirement.htm
 author: massey-university
+permalink: /archive/2008/05/05/working-makes-for-a-happier-retirement/index.html
+layout: layout.njk
 ---
 Working makes for a happier retirement
 ======================================

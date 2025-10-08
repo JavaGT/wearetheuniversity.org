@@ -1,9 +1,12 @@
 ---
 slug: keys-ambition-where-do-we-fit
-title: "Key’s ambition: where do we fit?"
-date: 2008-02-21
-source-url: https://www.scoop.co.nz/stories/PO0802/S00262/keys-ambition-where-do-we-fit.htm
+title: 'Key’s ambition: where do we fit?'
+date: 2008-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0802/S00262/keys-ambition-where-do-we-fit.htm
 author: vuwsa
+permalink: /archive/2008/02/21/keys-ambition-where-do-we-fit/index.html
+layout: layout.njk
 ---
 Key’s ambition: where do we fit?
 ================================

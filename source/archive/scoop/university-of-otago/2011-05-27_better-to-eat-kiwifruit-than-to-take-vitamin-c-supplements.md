@@ -1,9 +1,13 @@
 ---
 slug: better-to-eat-kiwifruit-than-to-take-vitamin-c-supplements
-title: "Better to eat kiwifruit than to take vitamin C supplements"
-date: 2011-05-27
-source-url: https://www.scoop.co.nz/stories/SC1105/S00072/better-to-eat-kiwifruit-than-to-take-vitamin-c-supplements.htm
+title: Better to eat kiwifruit than to take vitamin C supplements
+date: 2011-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00072/better-to-eat-kiwifruit-than-to-take-vitamin-c-supplements.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/05/27/better-to-eat-kiwifruit-than-to-take-vitamin-c-supplements/index.html
+layout: layout.njk
 ---
 Better to eat kiwifruit than to take vitamin C supplements
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: cost-cuts-still-of-concern-at-victoria
-title: "COST CUTS STILL OF CONCERN AT VICTORIA"
-date: 2000-09-08
-source-url: https://www.scoop.co.nz/stories/ED0009/S00014/cost-cuts-still-of-concern-at-victoria.htm
+title: COST CUTS STILL OF CONCERN AT VICTORIA
+date: 2000-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00014/cost-cuts-still-of-concern-at-victoria.htm
 author: association-of-university-staff
+permalink: /archive/2000/09/08/cost-cuts-still-of-concern-at-victoria/index.html
+layout: layout.njk
 ---
 COST CUTS STILL OF CONCERN AT VICTORIA
 ======================================

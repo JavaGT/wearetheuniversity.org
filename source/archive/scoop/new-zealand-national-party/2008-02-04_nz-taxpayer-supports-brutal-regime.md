@@ -1,9 +1,12 @@
 ---
 slug: nz-taxpayer-supports-brutal-regime
-title: "NZ taxpayer supports brutal regime"
-date: 2008-02-04
-source-url: https://www.scoop.co.nz/stories/PA0802/S00023/nz-taxpayer-supports-brutal-regime.htm
+title: NZ taxpayer supports brutal regime
+date: 2008-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00023/nz-taxpayer-supports-brutal-regime.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/04/nz-taxpayer-supports-brutal-regime/index.html
+layout: layout.njk
 ---
 NZ taxpayer supports brutal regime
 ==================================

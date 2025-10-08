@@ -1,9 +1,12 @@
 ---
 slug: stripping-canterbury-of-local-democracy
-title: "Stripping Canterbury of local democracy"
-date: 2010-03-30
-source-url: https://www.scoop.co.nz/stories/PA1003/S00468/stripping-canterbury-of-local-democracy.htm
+title: Stripping Canterbury of local democracy
+date: 2010-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00468/stripping-canterbury-of-local-democracy.htm
 author: green-party
+permalink: /archive/2010/03/30/stripping-canterbury-of-local-democracy/index.html
+layout: layout.njk
 ---
 Stripping Canterbury of local democracy
 =======================================

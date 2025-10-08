@@ -1,9 +1,12 @@
 ---
 slug: further-action-planned-by-aste-members-at-aut
-title: "Further Action Planned by ASTE Members at AUT"
-date: 2005-08-31
-source-url: https://www.scoop.co.nz/stories/ED0508/S00126/further-action-planned-by-aste-members-at-aut.htm
+title: Further Action Planned by ASTE Members at AUT
+date: 2005-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00126/further-action-planned-by-aste-members-at-aut.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/08/31/further-action-planned-by-aste-members-at-aut/index.html
+layout: layout.njk
 ---
 Further Action Planned by ASTE Members at AUT
 =============================================

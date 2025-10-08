@@ -1,9 +1,12 @@
 ---
 slug: government-suffocating-polytechnics
-title: "Government suffocating polytechnics"
-date: 2009-06-15
-source-url: https://www.scoop.co.nz/stories/PA0906/S00176/government-suffocating-polytechnics.htm
+title: Government suffocating polytechnics
+date: 2009-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00176/government-suffocating-polytechnics.htm
 author: green-party
+permalink: /archive/2009/06/15/government-suffocating-polytechnics/index.html
+layout: layout.njk
 ---
 Government suffocating polytechnics
 ===================================

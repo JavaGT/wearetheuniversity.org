@@ -1,9 +1,12 @@
 ---
 slug: more-support-for-beginning-teachers
-title: "More Support For Beginning Teachers"
-date: 2004-09-29
-source-url: https://www.scoop.co.nz/stories/ED0409/S00132/more-support-for-beginning-teachers.htm
+title: More Support For Beginning Teachers
+date: 2004-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00132/more-support-for-beginning-teachers.htm
 author: nzei
+permalink: /archive/2004/09/29/more-support-for-beginning-teachers/index.html
+layout: layout.njk
 ---
 More Support For Beginning Teachers
 ===================================

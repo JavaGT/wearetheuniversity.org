@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-proves-to-be-the-quiet-achiever
-title: "Waikato University Proves To Be The Quiet Achiever"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/ED0404/S00084/waikato-university-proves-to-be-the-quiet-achiever.htm
+title: Waikato University Proves To Be The Quiet Achiever
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00084/waikato-university-proves-to-be-the-quiet-achiever.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/04/23/waikato-university-proves-to-be-the-quiet-achiever/index.html
+layout: layout.njk
 ---
 Waikato University Proves To Be The Quiet Achiever
 ==================================================

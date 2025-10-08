@@ -1,9 +1,12 @@
 ---
 slug: top-results-for-samoan-student
-title: "Top results for Samoan student"
-date: 2017-03-01
-source-url: https://www.scoop.co.nz/stories/ED1703/S00007/top-results-for-samoan-student.htm
+title: Top results for Samoan student
+date: 2017-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00007/top-results-for-samoan-student.htm
 author: university-of-waikato
+permalink: /archive/2017/03/01/top-results-for-samoan-student/index.html
+layout: layout.njk
 ---
 Top results for Samoan student
 ==============================

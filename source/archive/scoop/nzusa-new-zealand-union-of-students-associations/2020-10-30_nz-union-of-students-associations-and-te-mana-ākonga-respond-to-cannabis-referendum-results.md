@@ -1,9 +1,15 @@
 ---
-slug: nz-union-of-students-associations-and-te-mana-ākonga-respond-to-cannabis-referendum-results
-title: "NZ Union Of Students’ Associations And Te Mana Ākonga Respond To Cannabis Referendum Results."
-date: 2020-10-30
-source-url: https://www.scoop.co.nz/stories/PO2010/S00319/nz-union-of-students-associations-and-te-mana-akonga-respond-to-cannabis-referendum-results.htm
+slug: >-
+  nz-union-of-students-associations-and-te-mana-ākonga-respond-to-cannabis-referendum-results
+title: >-
+  NZ Union Of Students’ Associations And Te Mana Ākonga Respond To Cannabis
+  Referendum Results.
+date: 2020-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00319/nz-union-of-students-associations-and-te-mana-akonga-respond-to-cannabis-referendum-results.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2020/10/30/nz-union-of-students-associations-and-te-mana-/index.html
+layout: layout.njk
 ---
 NZ Union Of Students’ Associations And Te Mana Ākonga Respond To Cannabis Referendum Results.
 =============================================================================================

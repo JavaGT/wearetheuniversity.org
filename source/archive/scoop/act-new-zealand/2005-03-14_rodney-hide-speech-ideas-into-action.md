@@ -1,9 +1,12 @@
 ---
 slug: rodney-hide-speech-ideas-into-action
-title: "Rodney Hide Speech: Ideas Into Action"
-date: 2005-03-14
-source-url: https://www.scoop.co.nz/stories/PA0503/S00264/rodney-hide-speech-ideas-into-action.htm
+title: 'Rodney Hide Speech: Ideas Into Action'
+date: 2005-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00264/rodney-hide-speech-ideas-into-action.htm
 author: act-new-zealand
+permalink: /archive/2005/03/14/rodney-hide-speech-ideas-into-action/index.html
+layout: layout.njk
 ---
 Rodney Hide Speech: Ideas Into Action
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: heather-roy-criminalising-acts-of-parenting
-title: "Heather Roy - Criminalising Acts Of Parenting"
-date: 2007-02-23
-source-url: https://www.scoop.co.nz/stories/PA0702/S00445/heather-roy-criminalising-acts-of-parenting.htm
+title: Heather Roy - Criminalising Acts Of Parenting
+date: 2007-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00445/heather-roy-criminalising-acts-of-parenting.htm
 author: act-new-zealand
+permalink: /archive/2007/02/23/heather-roy-criminalising-acts-of-parenting/index.html
+layout: layout.njk
 ---
 Heather Roy - Criminalising Acts Of Parenting
 =============================================

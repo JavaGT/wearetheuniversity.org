@@ -1,9 +1,11 @@
 ---
 slug: labour-on-disability-issues
-title: "Labour On Disability Issues"
-date: 2002-07-24
+title: Labour On Disability Issues
+date: 2002-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00645/labour-on-disability-issues.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/24/labour-on-disability-issues/index.html
+layout: layout.njk
 ---
 Labour On Disability Issues
 ===========================

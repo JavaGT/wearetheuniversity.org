@@ -1,9 +1,12 @@
 ---
 slug: brussels-heist-similar-to-great-train-robbery
-title: "Brussels heist similar to Great Train Robbery"
-date: 2013-02-20
-source-url: https://www.scoop.co.nz/stories/ED1302/S00111/brussels-heist-similar-to-great-train-robbery.htm
+title: Brussels heist similar to Great Train Robbery
+date: 2013-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00111/brussels-heist-similar-to-great-train-robbery.htm
 author: university-of-canterbury
+permalink: /archive/2013/02/20/brussels-heist-similar-to-great-train-robbery/index.html
+layout: layout.njk
 ---
 Brussels heist similar to Great Train Robbery
 =============================================

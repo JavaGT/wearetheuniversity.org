@@ -1,9 +1,12 @@
 ---
 slug: nz-firsts-student-driving-policy-a-winner
-title: "NZ First’s Student Driving Policy a Winner"
-date: 2017-08-11
-source-url: https://www.scoop.co.nz/stories/PO1708/S00238/nz-firsts-student-driving-policy-a-winner.htm
+title: NZ First’s Student Driving Policy a Winner
+date: 2017-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00238/nz-firsts-student-driving-policy-a-winner.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/11/nz-firsts-student-driving-policy-a-winner/index.html
+layout: layout.njk
 ---
 NZ First’s Student Driving Policy a Winner
 ==========================================

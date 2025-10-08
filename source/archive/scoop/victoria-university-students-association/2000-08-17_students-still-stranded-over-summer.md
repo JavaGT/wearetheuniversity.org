@@ -1,9 +1,12 @@
 ---
 slug: students-still-stranded-over-summer
-title: "Students Still Stranded Over Summer"
-date: 2000-08-17
-source-url: https://www.scoop.co.nz/stories/ED0008/S00033/students-still-stranded-over-summer.htm
+title: Students Still Stranded Over Summer
+date: 2000-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00033/students-still-stranded-over-summer.htm
 author: victoria-university-students-association
+permalink: /archive/2000/08/17/students-still-stranded-over-summer/index.html
+layout: layout.njk
 ---
 Students Still Stranded Over Summer
 ===================================

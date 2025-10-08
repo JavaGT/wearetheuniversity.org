@@ -1,9 +1,16 @@
 ---
-slug: regulatory-relief-welcomed-for-earthquake-prone-buildings-but-real-change-needed
-title: "Regulatory Relief Welcomed For Earthquake-prone Buildings, But Real Change Needed"
-date: 2024-11-21
-source-url: https://www.scoop.co.nz/stories/PA2411/S00171/regulatory-relief-welcomed-for-earthquake-prone-buildings-but-real-change-needed.htm
+slug: >-
+  regulatory-relief-welcomed-for-earthquake-prone-buildings-but-real-change-needed
+title: >-
+  Regulatory Relief Welcomed For Earthquake-prone Buildings, But Real Change
+  Needed
+date: 2024-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00171/regulatory-relief-welcomed-for-earthquake-prone-buildings-but-real-change-needed.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/11/21/regulatory-relief-welcomed-for-earthquake-prone-buildings-but-real-change-needed/index.html
+layout: layout.njk
 ---
 Regulatory Relief Welcomed For Earthquake-prone Buildings, But Real Change Needed
 =================================================================================

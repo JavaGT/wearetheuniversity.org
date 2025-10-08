@@ -1,9 +1,12 @@
 ---
 slug: $7-million-earned-by-otago-students-in-2011
-title: "$7 Million Earned by Otago Students in 2011"
-date: 2012-01-11
-source-url: https://www.scoop.co.nz/stories/ED1201/S00009/7-million-earned-by-otago-students-in-2011.htm
+title: $7 Million Earned by Otago Students in 2011
+date: 2012-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00009/7-million-earned-by-otago-students-in-2011.htm
 author: ousa
+permalink: /archive/2012/01/11/7-million-earned-by-otago-students-in-2011/index.html
+layout: layout.njk
 ---
 $7 Million Earned by Otago Students in 2011
 ===========================================

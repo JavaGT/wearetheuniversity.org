@@ -1,9 +1,12 @@
 ---
 slug: increasing-māori-participation-in-the-digital-sector
-title: "Increasing Māori participation in the digital sector"
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/ED1705/S00007/increasing-maori-participation-in-the-digital-sector.htm
+title: Increasing Māori participation in the digital sector
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00007/increasing-maori-participation-in-the-digital-sector.htm
 author: massey-university
+permalink: /archive/2017/05/02/increasing-m/index.html
+layout: layout.njk
 ---
 Increasing Māori participation in the digital sector
 ====================================================

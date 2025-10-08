@@ -1,9 +1,12 @@
 ---
 slug: 30000-sign-petition-opposing-supplement-plans
-title: "30,000 Sign Petition Opposing Supplement Plans"
-date: 2002-06-13
-source-url: https://www.scoop.co.nz/stories/PA0206/S00202/30000-sign-petition-opposing-supplement-plans.htm
+title: 30,000 Sign Petition Opposing Supplement Plans
+date: 2002-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00202/30000-sign-petition-opposing-supplement-plans.htm
 author: green-party
+permalink: /archive/2002/06/13/30000-sign-petition-opposing-supplement-plans/index.html
+layout: layout.njk
 ---
 30,000 Sign Petition Opposing Supplement Plans
 ==============================================

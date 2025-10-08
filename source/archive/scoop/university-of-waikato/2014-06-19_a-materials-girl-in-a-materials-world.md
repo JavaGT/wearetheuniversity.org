@@ -1,9 +1,12 @@
 ---
 slug: a-materials-girl-in-a-materials-world
-title: "‘A materials girl in a materials world’"
-date: 2014-06-19
-source-url: https://www.scoop.co.nz/stories/ED1406/S00100/a-materials-girl-in-a-materials-world.htm
+title: ‘A materials girl in a materials world’
+date: 2014-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00100/a-materials-girl-in-a-materials-world.htm
 author: university-of-waikato
+permalink: /archive/2014/06/19/a-materials-girl-in-a-materials-world/index.html
+layout: layout.njk
 ---
 ‘A materials girl in a materials world’
 =======================================

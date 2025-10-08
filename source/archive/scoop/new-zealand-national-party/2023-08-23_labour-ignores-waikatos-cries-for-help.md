@@ -1,9 +1,12 @@
 ---
 slug: labour-ignores-waikatos-cries-for-help
-title: "Labour Ignores Waikato’s Cries For Help"
-date: 2023-08-23
-source-url: https://www.scoop.co.nz/stories/PA2308/S00148/labour-ignores-waikatos-cries-for-help.htm
+title: Labour Ignores Waikato’s Cries For Help
+date: 2023-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00148/labour-ignores-waikatos-cries-for-help.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/23/labour-ignores-waikatos-cries-for-help/index.html
+layout: layout.njk
 ---
 Labour Ignores Waikato’s Cries For Help
 =======================================

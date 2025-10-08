@@ -1,9 +1,12 @@
 ---
 slug: national-contradicts-own-act-on-student-voice
-title: "National contradicts own Act on student voice"
-date: 2011-08-19
-source-url: https://www.scoop.co.nz/stories/ED1108/S00110/national-contradicts-own-act-on-student-voice.htm
+title: National contradicts own Act on student voice
+date: 2011-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00110/national-contradicts-own-act-on-student-voice.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/08/19/national-contradicts-own-act-on-student-voice/index.html
+layout: layout.njk
 ---
 National contradicts own Act on student voice
 =============================================

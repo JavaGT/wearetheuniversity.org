@@ -1,9 +1,13 @@
 ---
 slug: act-called-for-survey-testing-at-the-start-of-the-pandemic
-title: "ACT Called For Survey Testing At The Start Of The Pandemic"
-date: 2022-07-19
-source-url: https://www.scoop.co.nz/stories/PA2207/S00126/act-called-for-survey-testing-at-the-start-of-the-pandemic.htm
+title: ACT Called For Survey Testing At The Start Of The Pandemic
+date: 2022-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00126/act-called-for-survey-testing-at-the-start-of-the-pandemic.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/07/19/act-called-for-survey-testing-at-the-start-of-the-pandemic/index.html
+layout: layout.njk
 ---
 ACT Called For Survey Testing At The Start Of The Pandemic
 ==========================================================

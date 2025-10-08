@@ -1,9 +1,12 @@
 ---
 slug: michael-cullen-labour-and-business
-title: "Michael Cullen - Labour and Business"
-date: 1999-08-25
-source-url: https://www.scoop.co.nz/stories/PA9908/S00436/michael-cullen-labour-and-business.htm
+title: Michael Cullen - Labour and Business
+date: 1999-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00436/michael-cullen-labour-and-business.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/25/michael-cullen-labour-and-business/index.html
+layout: layout.njk
 ---
 Michael Cullen - Labour and Business
 ====================================

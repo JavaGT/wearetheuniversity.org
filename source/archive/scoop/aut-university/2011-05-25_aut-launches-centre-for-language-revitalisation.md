@@ -1,9 +1,12 @@
 ---
 slug: aut-launches-centre-for-language-revitalisation
-title: "AUT launches centre for language revitalisation"
-date: 2011-05-25
-source-url: https://www.scoop.co.nz/stories/CU1105/S00394/aut-launches-centre-for-language-revitalisation.htm
+title: AUT launches centre for language revitalisation
+date: 2011-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1105/S00394/aut-launches-centre-for-language-revitalisation.htm
 author: aut-university
+permalink: /archive/2011/05/25/aut-launches-centre-for-language-revitalisation/index.html
+layout: layout.njk
 ---
 AUT launches centre for language revitalisation
 ===============================================

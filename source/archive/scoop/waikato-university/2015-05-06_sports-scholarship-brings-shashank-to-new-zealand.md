@@ -1,9 +1,13 @@
 ---
 slug: sports-scholarship-brings-shashank-to-new-zealand
-title: "Sports scholarship brings Shashank to New Zealand"
-date: 2015-05-06
-source-url: https://www.scoop.co.nz/stories/ED1505/S00029/sports-scholarship-brings-shashank-to-new-zealand.htm
+title: Sports scholarship brings Shashank to New Zealand
+date: 2015-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00029/sports-scholarship-brings-shashank-to-new-zealand.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/05/06/sports-scholarship-brings-shashank-to-new-zealand/index.html
+layout: layout.njk
 ---
 Sports scholarship brings Shashank to New Zealand
 =================================================

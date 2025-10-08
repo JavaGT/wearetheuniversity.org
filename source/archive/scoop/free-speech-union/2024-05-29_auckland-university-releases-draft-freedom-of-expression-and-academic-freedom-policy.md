@@ -1,9 +1,16 @@
 ---
-slug: auckland-university-releases-draft-freedom-of-expression-and-academic-freedom-policy
-title: "Auckland University Releases Draft Freedom Of Expression And Academic Freedom Policy"
-date: 2024-05-29
-source-url: https://www.scoop.co.nz/stories/ED2405/S00096/auckland-university-releases-draft-freedom-of-expression-and-academic-freedom-policy.htm
+slug: >-
+  auckland-university-releases-draft-freedom-of-expression-and-academic-freedom-policy
+title: >-
+  Auckland University Releases Draft Freedom Of Expression And Academic Freedom
+  Policy
+date: 2024-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00096/auckland-university-releases-draft-freedom-of-expression-and-academic-freedom-policy.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/05/29/auckland-university-releases-draft-freedom-of-expression-and-academic-freedom-policy/index.html
+layout: layout.njk
 ---
 Auckland University Releases Draft Freedom Of Expression And Academic Freedom Policy
 ====================================================================================

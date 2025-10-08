@@ -1,9 +1,12 @@
 ---
 slug: the-legal-māori-project-te-reo-deal
-title: "The Legal Māori Project: Te Reo Deal"
-date: 2008-05-28
-source-url: https://www.scoop.co.nz/stories/ED0805/S00120/the-legal-maori-project-te-reo-deal.htm
+title: 'The Legal Māori Project: Te Reo Deal'
+date: 2008-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00120/the-legal-maori-project-te-reo-deal.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/28/the-legal-m/index.html
+layout: layout.njk
 ---
 The Legal Māori Project: Te Reo Deal
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: mmp-six-years-and-three-elections-on
-title: "\"MMP - Six Years And Three Elections On\""
-date: 2002-10-17
-source-url: https://www.scoop.co.nz/stories/PA0210/S00344/mmp-six-years-and-three-elections-on.htm
+title: '"MMP - Six Years And Three Elections On"'
+date: 2002-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00344/mmp-six-years-and-three-elections-on.htm
 author: new-zealand-first-party
+permalink: /archive/2002/10/17/mmp-six-years-and-three-elections-on/index.html
+layout: layout.njk
 ---
 \"MMP - Six Years And Three Elections On"
 ========================================

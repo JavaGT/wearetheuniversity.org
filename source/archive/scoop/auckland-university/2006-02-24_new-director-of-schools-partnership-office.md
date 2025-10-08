@@ -1,9 +1,12 @@
 ---
 slug: new-director-of-schools-partnership-office
-title: "New Director of Schools Partnership Office"
-date: 2006-02-24
-source-url: https://www.scoop.co.nz/stories/ED0602/S00071/new-director-of-schools-partnership-office.htm
+title: New Director of Schools Partnership Office
+date: 2006-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00071/new-director-of-schools-partnership-office.htm
 author: auckland-university
+permalink: /archive/2006/02/24/new-director-of-schools-partnership-office/index.html
+layout: layout.njk
 ---
 New Director of Schools Partnership Office
 ==========================================

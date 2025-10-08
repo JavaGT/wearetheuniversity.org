@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-on-military-training
-title: "Winston Peters Speech On Military Training"
-date: 1999-10-19
-source-url: https://www.scoop.co.nz/stories/PA9910/S00415/winston-peters-speech-on-military-training.htm
+title: Winston Peters Speech On Military Training
+date: 1999-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00415/winston-peters-speech-on-military-training.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/19/winston-peters-speech-on-military-training/index.html
+layout: layout.njk
 ---
 Winston Peters Speech On Military Training
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: harawira-reserve-bank-of-nz-amendment-bill
-title: "Harawira: Reserve Bank of NZ Amendment Bill"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/PA0712/S00252/harawira-reserve-bank-of-nz-amendment-bill.htm
+title: 'Harawira: Reserve Bank of NZ Amendment Bill'
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00252/harawira-reserve-bank-of-nz-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/12/13/harawira-reserve-bank-of-nz-amendment-bill/index.html
+layout: layout.njk
 ---
 Harawira: Reserve Bank of NZ Amendment Bill
 ===========================================

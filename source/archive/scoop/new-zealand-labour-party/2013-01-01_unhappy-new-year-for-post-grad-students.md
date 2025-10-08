@@ -1,9 +1,12 @@
 ---
 slug: unhappy-new-year-for-post-grad-students
-title: "Unhappy New Year for post-grad students"
-date: 2013-01-01
-source-url: https://www.scoop.co.nz/stories/PA1301/S00003/unhappy-new-year-for-post-grad-students.htm
+title: Unhappy New Year for post-grad students
+date: 2013-01-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00003/unhappy-new-year-for-post-grad-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/01/unhappy-new-year-for-post-grad-students/index.html
+layout: layout.njk
 ---
 Unhappy New Year for post-grad students
 =======================================

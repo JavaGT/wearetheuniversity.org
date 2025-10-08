@@ -1,9 +1,12 @@
 ---
 slug: farmax-announces-$5000-lincoln-university-post-grad-research
-title: "Farmax Announces $5000 Lincoln University Post-Grad Research"
-date: 2013-01-24
-source-url: https://www.scoop.co.nz/stories/ED1301/S00072/farmax-announces-5000-lincoln-university-post-grad-research.htm
+title: Farmax Announces $5000 Lincoln University Post-Grad Research
+date: 2013-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00072/farmax-announces-5000-lincoln-university-post-grad-research.htm
 author: lincoln-university
+permalink: /archive/2013/01/24/farmax-announces-/index.html
+layout: layout.njk
 ---
 Farmax Announces $5000 Lincoln University Post-Grad Research
 ============================================================

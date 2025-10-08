@@ -1,9 +1,13 @@
 ---
 slug: lack-of-financial-support-and-tertiary-enrolment-decline
-title: "Lack of financial support and tertiary enrolment decline"
-date: 2017-10-09
-source-url: https://www.scoop.co.nz/stories/PO1710/S00059/lack-of-financial-support-and-tertiary-enrolment-decline.htm
+title: Lack of financial support and tertiary enrolment decline
+date: 2017-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1710/S00059/lack-of-financial-support-and-tertiary-enrolment-decline.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/10/09/lack-of-financial-support-and-tertiary-enrolment-decline/index.html
+layout: layout.njk
 ---
 Lack of financial support and tertiary enrolment decline
 ========================================================

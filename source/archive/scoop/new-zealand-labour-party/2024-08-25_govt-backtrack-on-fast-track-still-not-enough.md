@@ -1,9 +1,12 @@
 ---
 slug: govt-backtrack-on-fast-track-still-not-enough
-title: "Govt Backtrack On Fast-track Still Not Enough"
-date: 2024-08-25
-source-url: https://www.scoop.co.nz/stories/PA2408/S00161/govt-backtrack-on-fast-track-still-not-enough.htm
+title: Govt Backtrack On Fast-track Still Not Enough
+date: 2024-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00161/govt-backtrack-on-fast-track-still-not-enough.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/08/25/govt-backtrack-on-fast-track-still-not-enough/index.html
+layout: layout.njk
 ---
 Govt Backtrack On Fast-track Still Not Enough
 =============================================

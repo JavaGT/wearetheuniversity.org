@@ -1,9 +1,12 @@
 ---
 slug: more-red-flags-for-meningococcal-deaths-in-may
-title: "More red flags for meningococcal deaths in May"
-date: 2018-12-04
-source-url: https://www.scoop.co.nz/stories/PA1812/S00034/more-red-flags-for-meningococcal-deaths-in-may.htm
+title: More red flags for meningococcal deaths in May
+date: 2018-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00034/more-red-flags-for-meningococcal-deaths-in-may.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/04/more-red-flags-for-meningococcal-deaths-in-may/index.html
+layout: layout.njk
 ---
 More red flags for meningococcal deaths in May
 ==============================================

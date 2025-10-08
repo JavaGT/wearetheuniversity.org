@@ -1,9 +1,12 @@
 ---
 slug: meanings-make-stolen-medals-irreplaceable
-title: "Meanings make stolen medals irreplaceable"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/PO0712/S00175/meanings-make-stolen-medals-irreplaceable.htm
+title: Meanings make stolen medals irreplaceable
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0712/S00175/meanings-make-stolen-medals-irreplaceable.htm
 author: massey-university
+permalink: /archive/2007/12/13/meanings-make-stolen-medals-irreplaceable/index.html
+layout: layout.njk
 ---
 Meanings make stolen medals irreplaceable
 =========================================

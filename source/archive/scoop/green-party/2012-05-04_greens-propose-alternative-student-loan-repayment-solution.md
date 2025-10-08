@@ -1,9 +1,13 @@
 ---
 slug: greens-propose-alternative-student-loan-repayment-solution
-title: "Greens Propose Alternative Student Loan Repayment Solution"
-date: 2012-05-04
-source-url: https://www.scoop.co.nz/stories/PA1205/S00092/greens-propose-alternative-student-loan-repayment-solution.htm
+title: Greens Propose Alternative Student Loan Repayment Solution
+date: 2012-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00092/greens-propose-alternative-student-loan-repayment-solution.htm
 author: green-party
+permalink: >-
+  /archive/2012/05/04/greens-propose-alternative-student-loan-repayment-solution/index.html
+layout: layout.njk
 ---
 Greens Propose Alternative Student Loan Repayment Solution
 ==========================================================

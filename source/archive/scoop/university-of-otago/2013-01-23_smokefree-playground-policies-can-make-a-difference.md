@@ -1,9 +1,13 @@
 ---
 slug: smokefree-playground-policies-can-make-a-difference
-title: "Smokefree Playground Policies Can Make A Difference"
-date: 2013-01-23
-source-url: https://www.scoop.co.nz/stories/ED1301/S00057/smokefree-playground-policies-can-make-a-difference.htm
+title: Smokefree Playground Policies Can Make A Difference
+date: 2013-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00057/smokefree-playground-policies-can-make-a-difference.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/01/23/smokefree-playground-policies-can-make-a-difference/index.html
+layout: layout.njk
 ---
 Smokefree Playground Policies Can Make A Difference
 ===================================================

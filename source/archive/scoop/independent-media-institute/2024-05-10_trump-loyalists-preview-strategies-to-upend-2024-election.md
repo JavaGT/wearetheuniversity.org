@@ -1,9 +1,13 @@
 ---
 slug: trump-loyalists-preview-strategies-to-upend-2024-election
-title: "Trump Loyalists Preview Strategies To Upend 2024 Election"
-date: 2024-05-10
-source-url: https://www.scoop.co.nz/stories/WO2405/S00120/trump-loyalists-preview-strategies-to-upend-2024-election.htm
+title: Trump Loyalists Preview Strategies To Upend 2024 Election
+date: 2024-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2405/S00120/trump-loyalists-preview-strategies-to-upend-2024-election.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/05/10/trump-loyalists-preview-strategies-to-upend-2024-election/index.html
+layout: layout.njk
 ---
 Trump Loyalists Preview Strategies To Upend 2024 Election
 =========================================================

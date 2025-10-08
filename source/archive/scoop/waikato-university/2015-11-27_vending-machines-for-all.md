@@ -1,9 +1,11 @@
 ---
 slug: vending-machines-for-all
-title: "Vending Machines For All"
-date: 2015-11-27
+title: Vending Machines For All
+date: 2015-11-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1511/S00409/vending-machines-for-all.htm
 author: waikato-university
+permalink: /archive/2015/11/27/vending-machines-for-all/index.html
+layout: layout.njk
 ---
 Vending Machines For All
 ========================

@@ -1,9 +1,16 @@
 ---
-slug: 600-volunteers-come-together-for-a-morning-of-volunteering-in-the-red-zone-at-the-uc-sva-big-give-|-ratonga-tuao
-title: "600 Volunteers Come Together For A Morning Of Volunteering In The Red Zone At The UC SVA Big Give | Ratonga Tuao"
-date: 2023-03-07
-source-url: https://www.scoop.co.nz/stories/AK2303/S00128/600-volunteers-come-together-for-a-morning-of-volunteering-in-the-red-zone-at-the-uc-sva-big-give-ratonga-tuao.htm
+slug: >-
+  600-volunteers-come-together-for-a-morning-of-volunteering-in-the-red-zone-at-the-uc-sva-big-give-|-ratonga-tuao
+title: >-
+  600 Volunteers Come Together For A Morning Of Volunteering In The Red Zone At
+  The UC SVA Big Give | Ratonga Tuao
+date: 2023-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2303/S00128/600-volunteers-come-together-for-a-morning-of-volunteering-in-the-red-zone-at-the-uc-sva-big-give-ratonga-tuao.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2023/03/07/600-volunteers-come-together-for-a-morning-of-volunteering-in-the-red-zone-at-the-uc-sva-big-give-/index.html
+layout: layout.njk
 ---
 600 Volunteers Come Together For A Morning Of Volunteering In The Red Zone At The UC SVA Big Give | Ratonga Tuao
 ================================================================================================================

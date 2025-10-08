@@ -1,9 +1,12 @@
 ---
 slug: compulsion-gives-mwsa-$350000-honeypot
-title: "Compulsion Gives MWSA $350,000 Honeypot"
-date: 2002-12-20
-source-url: https://www.scoop.co.nz/stories/ED0212/S00044/compulsion-gives-mwsa-350000-honeypot.htm
+title: Compulsion Gives MWSA $350,000 Honeypot
+date: 2002-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00044/compulsion-gives-mwsa-350000-honeypot.htm
 author: student-choice
+permalink: /archive/2002/12/20/compulsion-gives-mwsa-/index.html
+layout: layout.njk
 ---
 Compulsion Gives MWSA $350,000 Honeypot
 =======================================

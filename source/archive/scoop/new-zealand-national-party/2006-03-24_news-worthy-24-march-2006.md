@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-24-march-2006
-title: "News Worthy - 24 March 2006"
-date: 2006-03-24
+title: News Worthy - 24 March 2006
+date: 2006-03-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0603/S00419/news-worthy-24-march-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/24/news-worthy-24-march-2006/index.html
+layout: layout.njk
 ---
 News Worthy - 24 March 2006
 ===========================

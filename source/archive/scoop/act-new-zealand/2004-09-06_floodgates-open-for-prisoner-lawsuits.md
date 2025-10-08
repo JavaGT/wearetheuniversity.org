@@ -1,9 +1,12 @@
 ---
 slug: floodgates-open-for-prisoner-lawsuits
-title: "Floodgates Open For Prisoner Lawsuits"
-date: 2004-09-06
-source-url: https://www.scoop.co.nz/stories/PA0409/S00109/floodgates-open-for-prisoner-lawsuits.htm
+title: Floodgates Open For Prisoner Lawsuits
+date: 2004-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00109/floodgates-open-for-prisoner-lawsuits.htm
 author: act-new-zealand
+permalink: /archive/2004/09/06/floodgates-open-for-prisoner-lawsuits/index.html
+layout: layout.njk
 ---
 Floodgates Open For Prisoner Lawsuits
 =====================================

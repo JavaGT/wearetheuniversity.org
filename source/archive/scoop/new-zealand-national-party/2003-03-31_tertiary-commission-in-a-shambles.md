@@ -1,9 +1,12 @@
 ---
 slug: tertiary-commission-in-a-shambles
-title: "Tertiary Commission in a shambles"
-date: 2003-03-31
-source-url: https://www.scoop.co.nz/stories/PA0303/S00569/tertiary-commission-in-a-shambles.htm
+title: Tertiary Commission in a shambles
+date: 2003-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00569/tertiary-commission-in-a-shambles.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/31/tertiary-commission-in-a-shambles/index.html
+layout: layout.njk
 ---
 Tertiary Commission in a shambles
 =================================

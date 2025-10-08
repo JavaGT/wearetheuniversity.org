@@ -1,8 +1,11 @@
 ---
 slug: innovative-projects-featured-at-fast-forward
-title: "Innovative projects featured at Fast Forward"
-date: 2017-07-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/innovative-projects-featured-at-fast-forward-.html
+title: Innovative projects featured at Fast Forward
+date: 2017-07-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/innovative-projects-featured-at-fast-forward-.html
+permalink: /archive/2017/07/20/innovative-projects-featured-at-fast-forward/index.html
+layout: layout.njk
 ---
 Innovative projects featured at Fast Forward
 ============================================

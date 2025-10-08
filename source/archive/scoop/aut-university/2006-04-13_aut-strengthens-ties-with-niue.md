@@ -1,9 +1,12 @@
 ---
 slug: aut-strengthens-ties-with-niue
-title: "AUT strengthens ties with Niue"
-date: 2006-04-13
-source-url: https://www.scoop.co.nz/stories/ED0604/S00050/aut-strengthens-ties-with-niue.htm
+title: AUT strengthens ties with Niue
+date: 2006-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00050/aut-strengthens-ties-with-niue.htm
 author: aut-university
+permalink: /archive/2006/04/13/aut-strengthens-ties-with-niue/index.html
+layout: layout.njk
 ---
 AUT strengthens ties with Niue
 ==============================

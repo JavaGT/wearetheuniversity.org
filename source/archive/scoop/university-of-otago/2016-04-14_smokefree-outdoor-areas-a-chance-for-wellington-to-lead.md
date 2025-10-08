@@ -1,9 +1,13 @@
 ---
 slug: smokefree-outdoor-areas-a-chance-for-wellington-to-lead
-title: "Smokefree outdoor areas: A chance for Wellington to lead"
-date: 2016-04-14
-source-url: https://www.scoop.co.nz/stories/ED1604/S00044/smokefree-outdoor-areas-a-chance-for-wellington-to-lead.htm
+title: 'Smokefree outdoor areas: A chance for Wellington to lead'
+date: 2016-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00044/smokefree-outdoor-areas-a-chance-for-wellington-to-lead.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/14/smokefree-outdoor-areas-a-chance-for-wellington-to-lead/index.html
+layout: layout.njk
 ---
 Smokefree outdoor areas: A chance for Wellington to lead
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: bryce-wilkinson-acting-executive-director
-title: "Bryce Wilkinson Acting Executive Director"
-date: 2011-11-15
-source-url: https://www.scoop.co.nz/stories/BU1111/S00591/bryce-wilkinson-acting-executive-director.htm
+title: Bryce Wilkinson Acting Executive Director
+date: 2011-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1111/S00591/bryce-wilkinson-acting-executive-director.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/11/15/bryce-wilkinson-acting-executive-director/index.html
+layout: layout.njk
 ---
 Bryce Wilkinson Acting Executive Director
 =========================================

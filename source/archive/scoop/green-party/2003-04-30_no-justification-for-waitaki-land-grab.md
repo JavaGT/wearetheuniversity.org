@@ -1,9 +1,12 @@
 ---
 slug: no-justification-for-waitaki-land-grab
-title: "No justification for Waitaki land-grab"
-date: 2003-04-30
-source-url: https://www.scoop.co.nz/stories/PA0304/S00575/no-justification-for-waitaki-land-grab.htm
+title: No justification for Waitaki land-grab
+date: 2003-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00575/no-justification-for-waitaki-land-grab.htm
 author: green-party
+permalink: /archive/2003/04/30/no-justification-for-waitaki-land-grab/index.html
+layout: layout.njk
 ---
 No justification for Waitaki land-grab
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: act-auditing-safe-space-policies-at-universities-and-polytechnics
-title: "ACT Auditing \"Safe Space\" Policies At Universities And Polytechnics"
-date: 2024-03-28
-source-url: https://www.scoop.co.nz/stories/PA2403/S00180/act-auditing-safe-space-policies-at-universities-and-polytechnics.htm
+title: ACT Auditing "Safe Space" Policies At Universities And Polytechnics
+date: 2024-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00180/act-auditing-safe-space-policies-at-universities-and-polytechnics.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/03/28/act-auditing-safe-space-policies-at-universities-and-polytechnics/index.html
+layout: layout.njk
 ---
 ACT Auditing “Safe Space” Policies At Universities And Polytechnics
 ===================================================================

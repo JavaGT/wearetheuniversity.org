@@ -1,9 +1,13 @@
 ---
 slug: surprising-public-perceptions-of-surrogacy-influencing-law-change
-title: "Surprising Public Perceptions Of Surrogacy Influencing Law Change"
-date: 2020-03-16
-source-url: https://www.scoop.co.nz/stories/PO2003/S00159/surprising-public-perceptions-of-surrogacy-influencing-law-change.htm
+title: Surprising Public Perceptions Of Surrogacy Influencing Law Change
+date: 2020-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2003/S00159/surprising-public-perceptions-of-surrogacy-influencing-law-change.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/03/16/surprising-public-perceptions-of-surrogacy-influencing-law-change/index.html
+layout: layout.njk
 ---
 Surprising Public Perceptions Of Surrogacy Influencing Law Change
 =================================================================

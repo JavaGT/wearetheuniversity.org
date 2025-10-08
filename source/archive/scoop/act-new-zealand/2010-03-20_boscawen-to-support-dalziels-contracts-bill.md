@@ -1,9 +1,12 @@
 ---
 slug: boscawen-to-support-dalziels-contracts-bill
-title: "Boscawen To Support  Dalziel’s Contracts Bill"
-date: 2010-03-20
-source-url: https://www.scoop.co.nz/stories/PA1003/S00300/boscawen-to-support-dalziels-contracts-bill.htm
+title: Boscawen To Support  Dalziel’s Contracts Bill
+date: 2010-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00300/boscawen-to-support-dalziels-contracts-bill.htm
 author: act-new-zealand
+permalink: /archive/2010/03/20/boscawen-to-support-dalziels-contracts-bill/index.html
+layout: layout.njk
 ---
 Boscawen To Support Dalziel’s Contracts Bill
 ============================================

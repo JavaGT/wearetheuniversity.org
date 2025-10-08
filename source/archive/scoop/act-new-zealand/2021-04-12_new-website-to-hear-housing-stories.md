@@ -1,9 +1,12 @@
 ---
 slug: new-website-to-hear-housing-stories
-title: "New Website To Hear Housing Stories"
-date: 2021-04-12
-source-url: https://www.scoop.co.nz/stories/PO2104/S00076/new-website-to-hear-housing-stories.htm
+title: New Website To Hear Housing Stories
+date: 2021-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2104/S00076/new-website-to-hear-housing-stories.htm
 author: act-new-zealand
+permalink: /archive/2021/04/12/new-website-to-hear-housing-stories/index.html
+layout: layout.njk
 ---
 New Website To Hear Housing Stories
 ===================================

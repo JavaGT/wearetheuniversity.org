@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-agreement-in-china-cements-tourism-ties
-title: "Waikato University Agreement In China Cements Tourism Ties"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00056/waikato-university-agreement-in-china-cements-tourism-ties.htm
+title: Waikato University Agreement In China Cements Tourism Ties
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00056/waikato-university-agreement-in-china-cements-tourism-ties.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/04/11/waikato-university-agreement-in-china-cements-tourism-ties/index.html
+layout: layout.njk
 ---
 Waikato University Agreement In China Cements Tourism Ties
 ==========================================================

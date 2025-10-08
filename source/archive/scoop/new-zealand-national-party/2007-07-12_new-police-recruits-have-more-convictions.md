@@ -1,9 +1,12 @@
 ---
 slug: new-police-recruits-have-more-convictions
-title: "New police recruits have more convictions"
-date: 2007-07-12
-source-url: https://www.scoop.co.nz/stories/PA0707/S00179/new-police-recruits-have-more-convictions.htm
+title: New police recruits have more convictions
+date: 2007-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00179/new-police-recruits-have-more-convictions.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/12/new-police-recruits-have-more-convictions/index.html
+layout: layout.njk
 ---
 New police recruits have more convictions
 =========================================

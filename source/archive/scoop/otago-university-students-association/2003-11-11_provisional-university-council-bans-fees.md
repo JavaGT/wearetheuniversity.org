@@ -1,9 +1,12 @@
 ---
 slug: provisional-university-council-bans-fees
-title: "Provisional University Council Bans Fees"
-date: 2003-11-11
-source-url: https://www.scoop.co.nz/stories/ED0311/S00039/provisional-university-council-bans-fees.htm
+title: Provisional University Council Bans Fees
+date: 2003-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00039/provisional-university-council-bans-fees.htm
 author: otago-university-students-association
+permalink: /archive/2003/11/11/provisional-university-council-bans-fees/index.html
+layout: layout.njk
 ---
 Provisional University Council Bans Fees
 ========================================

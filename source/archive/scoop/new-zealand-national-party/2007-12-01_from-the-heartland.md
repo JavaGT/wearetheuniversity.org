@@ -1,9 +1,11 @@
 ---
 slug: from-the-heartland
-title: "From The Heartland"
-date: 2007-12-01
+title: From The Heartland
+date: 2007-12-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0712/S00004/from-the-heartland.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/01/from-the-heartland/index.html
+layout: layout.njk
 ---
 From The Heartland
 ==================

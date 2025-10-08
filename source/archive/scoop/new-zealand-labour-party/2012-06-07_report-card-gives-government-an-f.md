@@ -1,9 +1,12 @@
 ---
 slug: report-card-gives-government-an-f
-title: "Report card gives Government an F"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/PA1206/S00074/report-card-gives-government-an-f.htm
+title: Report card gives Government an F
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00074/report-card-gives-government-an-f.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/06/07/report-card-gives-government-an-f/index.html
+layout: layout.njk
 ---
 Report card gives Government an F
 =================================

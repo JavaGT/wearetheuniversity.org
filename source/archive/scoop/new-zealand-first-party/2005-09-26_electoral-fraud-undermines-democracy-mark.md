@@ -1,9 +1,12 @@
 ---
 slug: electoral-fraud-undermines-democracy-mark
-title: "Electoral Fraud Undermines Democracy - Mark"
-date: 2005-09-26
-source-url: https://www.scoop.co.nz/stories/PA0509/S00487/electoral-fraud-undermines-democracy-mark.htm
+title: Electoral Fraud Undermines Democracy - Mark
+date: 2005-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00487/electoral-fraud-undermines-democracy-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2005/09/26/electoral-fraud-undermines-democracy-mark/index.html
+layout: layout.njk
 ---
 Electoral Fraud Undermines Democracy - Mark
 ===========================================

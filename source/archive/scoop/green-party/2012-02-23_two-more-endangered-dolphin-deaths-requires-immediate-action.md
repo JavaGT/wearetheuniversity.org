@@ -1,9 +1,13 @@
 ---
 slug: two-more-endangered-dolphin-deaths-requires-immediate-action
-title: "Two more endangered dolphin deaths requires immediate action"
-date: 2012-02-23
-source-url: https://www.scoop.co.nz/stories/PA1202/S00276/two-more-endangered-dolphin-deaths-requires-immediate-action.htm
+title: Two more endangered dolphin deaths requires immediate action
+date: 2012-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00276/two-more-endangered-dolphin-deaths-requires-immediate-action.htm
 author: green-party
+permalink: >-
+  /archive/2012/02/23/two-more-endangered-dolphin-deaths-requires-immediate-action/index.html
+layout: layout.njk
 ---
 Two more endangered dolphin deaths requires immediate action
 ============================================================

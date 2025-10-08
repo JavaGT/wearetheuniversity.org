@@ -1,9 +1,11 @@
 ---
 slug: turnbull-law-not-enough
-title: "Turnbull law not enough"
-date: 2015-10-19
+title: Turnbull law not enough
+date: 2015-10-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1510/S00286/turnbull-law-not-enough.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/10/19/turnbull-law-not-enough/index.html
+layout: layout.njk
 ---
 Turnbull law not enough
 =======================

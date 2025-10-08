@@ -1,9 +1,13 @@
 ---
 slug: river-restrictions-highlight-need-for-water-storage
-title: "River Restrictions Highlight Need for Water Storage"
-date: 2016-09-22
-source-url: https://www.scoop.co.nz/stories/PA1609/S00418/river-restrictions-highlight-need-for-water-storage.htm
+title: River Restrictions Highlight Need for Water Storage
+date: 2016-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00418/river-restrictions-highlight-need-for-water-storage.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/09/22/river-restrictions-highlight-need-for-water-storage/index.html
+layout: layout.njk
 ---
 River Restrictions Highlight Need for Water Storage
 ===================================================

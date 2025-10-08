@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-only-online-mba-ranked-among-the-worlds-best
-title: "New Zealand’s only Online MBA ranked among the world’s best"
-date: 2017-04-07
-source-url: https://www.scoop.co.nz/stories/ED1704/S00029/new-zealands-only-online-mba-ranked-among-the-worlds-best.htm
+title: New Zealand’s only Online MBA ranked among the world’s best
+date: 2017-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00029/new-zealands-only-online-mba-ranked-among-the-worlds-best.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/04/07/new-zealands-only-online-mba-ranked-among-the-worlds-best/index.html
+layout: layout.njk
 ---
 New Zealand’s only Online MBA ranked among the world’s best
 ===========================================================

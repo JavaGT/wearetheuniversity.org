@@ -1,9 +1,13 @@
 ---
 slug: kava-drinking-research-highlighted-in-global-report
-title: "Kava drinking research highlighted in global report"
-date: 2018-03-12
-source-url: https://www.scoop.co.nz/stories/WO1803/S00068/kava-drinking-research-highlighted-in-global-report.htm
+title: Kava drinking research highlighted in global report
+date: 2018-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1803/S00068/kava-drinking-research-highlighted-in-global-report.htm
 author: aut-university
+permalink: >-
+  /archive/2018/03/12/kava-drinking-research-highlighted-in-global-report/index.html
+layout: layout.njk
 ---
 Kava drinking research highlighted in global report
 ===================================================

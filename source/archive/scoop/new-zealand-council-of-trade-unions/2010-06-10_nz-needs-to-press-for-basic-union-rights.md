@@ -1,9 +1,12 @@
 ---
 slug: nz-needs-to-press-for-basic-union-rights
-title: "NZ needs to press for basic union rights"
-date: 2010-06-10
-source-url: https://www.scoop.co.nz/stories/PO1006/S00108/nz-needs-to-press-for-basic-union-rights.htm
+title: NZ needs to press for basic union rights
+date: 2010-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1006/S00108/nz-needs-to-press-for-basic-union-rights.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/06/10/nz-needs-to-press-for-basic-union-rights/index.html
+layout: layout.njk
 ---
 NZ needs to press for basic union rights
 ========================================

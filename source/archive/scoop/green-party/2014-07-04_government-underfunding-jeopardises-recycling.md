@@ -1,9 +1,12 @@
 ---
 slug: government-underfunding-jeopardises-recycling
-title: "Government underfunding jeopardises recycling"
-date: 2014-07-04
-source-url: https://www.scoop.co.nz/stories/PA1407/S00099/government-underfunding-jeopardises-recycling.htm
+title: Government underfunding jeopardises recycling
+date: 2014-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00099/government-underfunding-jeopardises-recycling.htm
 author: green-party
+permalink: /archive/2014/07/04/government-underfunding-jeopardises-recycling/index.html
+layout: layout.njk
 ---
 Government underfunding jeopardises recycling
 =============================================

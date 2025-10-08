@@ -1,9 +1,12 @@
 ---
 slug: maori-community-projects-given-funding-boost
-title: "Maori Community Projects Given Funding Boost"
-date: 2008-08-27
-source-url: https://www.scoop.co.nz/stories/GE0808/S00125/maori-community-projects-given-funding-boost.htm
+title: Maori Community Projects Given Funding Boost
+date: 2008-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00125/maori-community-projects-given-funding-boost.htm
 author: te-pati-maori
+permalink: /archive/2008/08/27/maori-community-projects-given-funding-boost/index.html
+layout: layout.njk
 ---
 Maori Community Projects Given Funding Boost
 ============================================

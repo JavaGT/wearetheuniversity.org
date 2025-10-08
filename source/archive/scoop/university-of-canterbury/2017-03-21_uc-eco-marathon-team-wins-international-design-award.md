@@ -1,9 +1,13 @@
 ---
 slug: uc-eco-marathon-team-wins-international-design-award
-title: "UC Eco-marathon team wins international design award"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/SC1703/S00051/uc-eco-marathon-team-wins-international-design-award.htm
+title: UC Eco-marathon team wins international design award
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00051/uc-eco-marathon-team-wins-international-design-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/03/21/uc-eco-marathon-team-wins-international-design-award/index.html
+layout: layout.njk
 ---
 UC Eco-marathon team wins international design award
 ====================================================

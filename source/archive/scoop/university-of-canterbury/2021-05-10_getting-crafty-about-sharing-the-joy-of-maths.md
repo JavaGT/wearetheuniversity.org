@@ -1,9 +1,12 @@
 ---
 slug: getting-crafty-about-sharing-the-joy-of-maths
-title: "Getting Crafty About Sharing The Joy Of Maths"
-date: 2021-05-10
-source-url: https://www.scoop.co.nz/stories/ED2105/S00014/getting-crafty-about-sharing-the-joy-of-maths.htm
+title: Getting Crafty About Sharing The Joy Of Maths
+date: 2021-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00014/getting-crafty-about-sharing-the-joy-of-maths.htm
 author: university-of-canterbury
+permalink: /archive/2021/05/10/getting-crafty-about-sharing-the-joy-of-maths/index.html
+layout: layout.njk
 ---
 Getting Crafty About Sharing The Joy Of Maths
 =============================================

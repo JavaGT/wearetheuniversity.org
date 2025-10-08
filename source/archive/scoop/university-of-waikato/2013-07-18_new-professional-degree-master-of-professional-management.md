@@ -1,9 +1,13 @@
 ---
 slug: new-professional-degree-master-of-professional-management
-title: "New professional degree – Master of Professional Management"
-date: 2013-07-18
-source-url: https://www.scoop.co.nz/stories/ED1307/S00108/new-professional-degree-master-of-professional-management.htm
+title: New professional degree – Master of Professional Management
+date: 2013-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00108/new-professional-degree-master-of-professional-management.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/07/18/new-professional-degree-master-of-professional-management/index.html
+layout: layout.njk
 ---
 New professional degree – Master of Professional Management
 ===========================================================

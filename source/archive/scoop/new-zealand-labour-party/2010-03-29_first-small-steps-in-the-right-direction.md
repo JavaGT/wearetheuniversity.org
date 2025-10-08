@@ -1,9 +1,12 @@
 ---
 slug: first-small-steps-in-the-right-direction
-title: "First Small Steps In The Right Direction"
-date: 2010-03-29
-source-url: https://www.scoop.co.nz/stories/PA1003/S00451/first-small-steps-in-the-right-direction.htm
+title: First Small Steps In The Right Direction
+date: 2010-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00451/first-small-steps-in-the-right-direction.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/29/first-small-steps-in-the-right-direction/index.html
+layout: layout.njk
 ---
 First Small Steps In The Right Direction
 ========================================

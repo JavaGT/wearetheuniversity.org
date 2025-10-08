@@ -1,9 +1,12 @@
 ---
 slug: new-speakers-announced-for-project-15
-title: "New speakers announced for ‘Project 15’"
-date: 2015-02-12
-source-url: https://www.scoop.co.nz/stories/BU1502/S00336/new-speakers-announced-for-project-15.htm
+title: New speakers announced for ‘Project 15’
+date: 2015-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1502/S00336/new-speakers-announced-for-project-15.htm
 author: aut-university
+permalink: /archive/2015/02/12/new-speakers-announced-for-project-15/index.html
+layout: layout.njk
 ---
 New speakers announced for ‘Project 15’
 =======================================

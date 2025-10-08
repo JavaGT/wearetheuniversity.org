@@ -1,9 +1,13 @@
 ---
 slug: sustainable-cultural-tourism-focus-for-doctoral-student
-title: "Sustainable cultural tourism focus for doctoral student"
-date: 2014-12-01
-source-url: https://www.scoop.co.nz/stories/ED1412/S00010/sustainable-cultural-tourism-focus-for-doctoral-student.htm
+title: Sustainable cultural tourism focus for doctoral student
+date: 2014-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00010/sustainable-cultural-tourism-focus-for-doctoral-student.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/12/01/sustainable-cultural-tourism-focus-for-doctoral-student/index.html
+layout: layout.njk
 ---
 Sustainable cultural tourism focus for doctoral student
 =======================================================

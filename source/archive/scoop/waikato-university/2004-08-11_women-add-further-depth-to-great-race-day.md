@@ -1,9 +1,12 @@
 ---
 slug: women-add-further-depth-to-great-race-day
-title: "Women Add Further Depth To Great Race Day"
-date: 2004-08-11
-source-url: https://www.scoop.co.nz/stories/ED0408/S00046/women-add-further-depth-to-great-race-day.htm
+title: Women Add Further Depth To Great Race Day
+date: 2004-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00046/women-add-further-depth-to-great-race-day.htm
 author: waikato-university
+permalink: /archive/2004/08/11/women-add-further-depth-to-great-race-day/index.html
+layout: layout.njk
 ---
 Women Add Further Depth To Great Race Day
 =========================================

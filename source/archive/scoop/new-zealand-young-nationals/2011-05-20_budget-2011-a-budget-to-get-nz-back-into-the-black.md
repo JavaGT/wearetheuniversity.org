@@ -1,9 +1,13 @@
 ---
 slug: budget-2011-a-budget-to-get-nz-back-into-the-black
-title: "Budget 2011 – A Budget to get NZ back into the black"
-date: 2011-05-20
-source-url: https://www.scoop.co.nz/stories/PO1105/S00338/budget-2011-a-budget-to-get-nz-back-into-the-black.htm
+title: Budget 2011 – A Budget to get NZ back into the black
+date: 2011-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00338/budget-2011-a-budget-to-get-nz-back-into-the-black.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2011/05/20/budget-2011-a-budget-to-get-nz-back-into-the-black/index.html
+layout: layout.njk
 ---
 Budget 2011 – A Budget to get NZ back into the black
 ====================================================

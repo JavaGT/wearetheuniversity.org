@@ -1,9 +1,12 @@
 ---
 slug: ahmed-zaoui-declared-spokesperson-of-students
-title: "Ahmed Zaoui Declared Spokesperson of Students"
-date: 2004-10-07
-source-url: https://www.scoop.co.nz/stories/PO0410/S00075/ahmed-zaoui-declared-spokesperson-of-students.htm
+title: Ahmed Zaoui Declared Spokesperson of Students
+date: 2004-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0410/S00075/ahmed-zaoui-declared-spokesperson-of-students.htm
 author: auckland-university-students-association
+permalink: /archive/2004/10/07/ahmed-zaoui-declared-spokesperson-of-students/index.html
+layout: layout.njk
 ---
 Ahmed Zaoui Declared Spokesperson of Students
 =============================================

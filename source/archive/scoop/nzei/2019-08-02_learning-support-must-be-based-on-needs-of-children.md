@@ -1,9 +1,13 @@
 ---
 slug: learning-support-must-be-based-on-needs-of-children
-title: "Learning support must be based on needs of children"
-date: 2019-08-02
-source-url: https://www.scoop.co.nz/stories/ED1908/S00012/learning-support-must-be-based-on-needs-of-children.htm
+title: Learning support must be based on needs of children
+date: 2019-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00012/learning-support-must-be-based-on-needs-of-children.htm
 author: nzei
+permalink: >-
+  /archive/2019/08/02/learning-support-must-be-based-on-needs-of-children/index.html
+layout: layout.njk
 ---
 Learning support must be based on needs of children
 ===================================================

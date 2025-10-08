@@ -1,9 +1,12 @@
 ---
 slug: cuts-will-hurt-low-decile-schools
-title: "Cuts will hurt low decile schools"
-date: 2010-07-09
-source-url: https://www.scoop.co.nz/stories/PA1007/S00174/cuts-will-hurt-low-decile-schools.htm
+title: Cuts will hurt low decile schools
+date: 2010-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00174/cuts-will-hurt-low-decile-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/09/cuts-will-hurt-low-decile-schools/index.html
+layout: layout.njk
 ---
 Cuts will hurt low decile schools
 =================================

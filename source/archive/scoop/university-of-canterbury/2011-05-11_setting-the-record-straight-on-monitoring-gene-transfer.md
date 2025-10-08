@@ -1,9 +1,13 @@
 ---
 slug: setting-the-record-straight-on-monitoring-gene-transfer
-title: "Setting the record straight on monitoring gene transfer"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/SC1105/S00030/setting-the-record-straight-on-monitoring-gene-transfer.htm
+title: Setting the record straight on monitoring gene transfer
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00030/setting-the-record-straight-on-monitoring-gene-transfer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/05/11/setting-the-record-straight-on-monitoring-gene-transfer/index.html
+layout: layout.njk
 ---
 Setting the record straight on monitoring gene transfer
 =======================================================

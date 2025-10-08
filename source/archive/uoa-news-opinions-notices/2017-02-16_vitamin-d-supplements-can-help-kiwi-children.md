@@ -1,8 +1,11 @@
 ---
 slug: vitamin-d-supplements-can-help-kiwi-children
-title: "Vitamin D supplements can help kiwi children"
-date: 2017-02-16
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/vitamin-d-supplements-can-help-kiwi-children.html
+title: Vitamin D supplements can help kiwi children
+date: 2017-02-16T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/vitamin-d-supplements-can-help-kiwi-children.html
+permalink: /archive/2017/02/16/vitamin-d-supplements-can-help-kiwi-children/index.html
+layout: layout.njk
 ---
 Vitamin D supplements can help kiwi children
 ============================================

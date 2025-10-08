@@ -1,9 +1,13 @@
 ---
 slug: time-for-tolley-to-explain-no-response-directive
-title: "Time for Tolley to explain no response directive"
-date: 2014-01-21
-source-url: https://www.scoop.co.nz/stories/PA1401/S00082/time-for-tolley-to-explain-no-response-directive.htm
+title: Time for Tolley to explain no response directive
+date: 2014-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00082/time-for-tolley-to-explain-no-response-directive.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/01/21/time-for-tolley-to-explain-no-response-directive/index.html
+layout: layout.njk
 ---
 Time for Tolley to explain no response directive
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: commitments-from-labour-and-greens-a-huge-boost
-title: "Commitments from Labour and Greens a huge boost"
-date: 2014-03-30
-source-url: https://www.scoop.co.nz/stories/PO1403/S00397/commitments-from-labour-and-greens-a-huge-boost.htm
+title: Commitments from Labour and Greens a huge boost
+date: 2014-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00397/commitments-from-labour-and-greens-a-huge-boost.htm
 author: nzei
+permalink: /archive/2014/03/30/commitments-from-labour-and-greens-a-huge-boost/index.html
+layout: layout.njk
 ---
 Commitments from Labour and Greens a huge boost
 ===============================================

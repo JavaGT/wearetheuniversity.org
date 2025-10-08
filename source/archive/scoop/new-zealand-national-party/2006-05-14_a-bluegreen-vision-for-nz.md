@@ -1,9 +1,11 @@
 ---
 slug: a-bluegreen-vision-for-nz
-title: "A Bluegreen Vision for NZ"
-date: 2006-05-14
+title: A Bluegreen Vision for NZ
+date: 2006-05-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00312/a-bluegreen-vision-for-nz.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/14/a-bluegreen-vision-for-nz/index.html
+layout: layout.njk
 ---
 A Bluegreen Vision for NZ
 =========================

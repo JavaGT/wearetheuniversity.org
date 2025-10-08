@@ -1,9 +1,12 @@
 ---
 slug: nine-years-inaction-on-rheumatic-fever-reversed
-title: "Nine years inaction on Rheumatic fever reversed"
-date: 2011-11-03
-source-url: https://www.scoop.co.nz/stories/PA1111/S00048/nine-years-inaction-on-rheumatic-fever-reversed.htm
+title: Nine years inaction on Rheumatic fever reversed
+date: 2011-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00048/nine-years-inaction-on-rheumatic-fever-reversed.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/03/nine-years-inaction-on-rheumatic-fever-reversed/index.html
+layout: layout.njk
 ---
 Nine years inaction on Rheumatic fever reversed
 ===============================================

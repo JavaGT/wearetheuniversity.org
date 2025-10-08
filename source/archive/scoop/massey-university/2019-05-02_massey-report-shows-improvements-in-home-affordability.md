@@ -1,9 +1,13 @@
 ---
 slug: massey-report-shows-improvements-in-home-affordability
-title: "Massey report shows improvements in home affordability"
-date: 2019-05-02
-source-url: https://www.scoop.co.nz/stories/BU1905/S00052/massey-report-shows-improvements-in-home-affordability.htm
+title: Massey report shows improvements in home affordability
+date: 2019-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1905/S00052/massey-report-shows-improvements-in-home-affordability.htm
 author: massey-university
+permalink: >-
+  /archive/2019/05/02/massey-report-shows-improvements-in-home-affordability/index.html
+layout: layout.njk
 ---
 Massey report shows improvements in home affordability
 ======================================================

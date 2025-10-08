@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-friday-26-november-2004
-title: "Beehive Bulletin - Friday, 26 November 2004"
-date: 2004-11-26
-source-url: https://www.scoop.co.nz/stories/PA0411/S00580/beehive-bulletin-friday-26-november-2004.htm
+title: Beehive Bulletin - Friday, 26 November 2004
+date: 2004-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00580/beehive-bulletin-friday-26-november-2004.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/11/26/beehive-bulletin-friday-26-november-2004/index.html
+layout: layout.njk
 ---
 Beehive Bulletin - Friday, 26 November 2004
 ===========================================

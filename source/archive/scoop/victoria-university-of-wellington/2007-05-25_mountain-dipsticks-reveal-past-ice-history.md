@@ -1,9 +1,12 @@
 ---
 slug: mountain-dipsticks-reveal-past-ice-history
-title: "Mountain 'dipsticks' reveal past ice history"
-date: 2007-05-25
-source-url: https://www.scoop.co.nz/stories/SC0705/S00059/mountain-dipsticks-reveal-past-ice-history.htm
+title: Mountain 'dipsticks' reveal past ice history
+date: 2007-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0705/S00059/mountain-dipsticks-reveal-past-ice-history.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/25/mountain-dipsticks-reveal-past-ice-history/index.html
+layout: layout.njk
 ---
 Mountain 'dipsticks' reveal past ice history
 ============================================

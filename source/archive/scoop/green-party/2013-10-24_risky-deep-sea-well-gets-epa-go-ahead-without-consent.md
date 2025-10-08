@@ -1,9 +1,13 @@
 ---
 slug: risky-deep-sea-well-gets-epa-go-ahead-without-consent
-title: "Risky deep sea well gets EPA go ahead without consent"
-date: 2013-10-24
-source-url: https://www.scoop.co.nz/stories/PA1310/S00401/risky-deep-sea-well-gets-epa-go-ahead-without-consent.htm
+title: Risky deep sea well gets EPA go ahead without consent
+date: 2013-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00401/risky-deep-sea-well-gets-epa-go-ahead-without-consent.htm
 author: green-party
+permalink: >-
+  /archive/2013/10/24/risky-deep-sea-well-gets-epa-go-ahead-without-consent/index.html
+layout: layout.njk
 ---
 Risky deep sea well gets EPA go ahead without consent
 =====================================================

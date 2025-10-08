@@ -1,9 +1,12 @@
 ---
 slug: the-2002-election-issues-prebble-speech
-title: "The 2002 Election Issues - Prebble Speech"
-date: 2002-02-21
-source-url: https://www.scoop.co.nz/stories/PA0202/S00324/the-2002-election-issues-prebble-speech.htm
+title: The 2002 Election Issues - Prebble Speech
+date: 2002-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00324/the-2002-election-issues-prebble-speech.htm
 author: act-new-zealand
+permalink: /archive/2002/02/21/the-2002-election-issues-prebble-speech/index.html
+layout: layout.njk
 ---
 The 2002 Election Issues - Prebble Speech
 =========================================

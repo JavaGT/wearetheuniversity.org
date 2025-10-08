@@ -1,9 +1,12 @@
 ---
 slug: labour-creating-opportunities
-title: "Labour: Creating opportunities"
-date: 2014-08-07
-source-url: https://www.scoop.co.nz/stories/PA1408/S00123/labour-creating-opportunities.htm
+title: 'Labour: Creating opportunities'
+date: 2014-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00123/labour-creating-opportunities.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/07/labour-creating-opportunities/index.html
+layout: layout.njk
 ---
 Labour: Creating opportunities
 ==============================

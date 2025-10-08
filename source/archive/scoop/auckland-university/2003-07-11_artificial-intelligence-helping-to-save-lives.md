@@ -1,9 +1,12 @@
 ---
 slug: artificial-intelligence-helping-to-save-lives
-title: "Artificial intelligence Helping To Save Lives"
-date: 2003-07-11
-source-url: https://www.scoop.co.nz/stories/ED0307/S00028/artificial-intelligence-helping-to-save-lives.htm
+title: Artificial intelligence Helping To Save Lives
+date: 2003-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00028/artificial-intelligence-helping-to-save-lives.htm
 author: auckland-university
+permalink: /archive/2003/07/11/artificial-intelligence-helping-to-save-lives/index.html
+layout: layout.njk
 ---
 Artificial intelligence Helping To Save Lives
 =============================================

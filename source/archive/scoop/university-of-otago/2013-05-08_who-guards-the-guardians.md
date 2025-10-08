@@ -1,9 +1,11 @@
 ---
 slug: who-guards-the-guardians
-title: "Who Guards The Guardians?"
-date: 2013-05-08
+title: Who Guards The Guardians?
+date: 2013-05-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1305/S00088/who-guards-the-guardians.htm
 author: university-of-otago
+permalink: /archive/2013/05/08/who-guards-the-guardians/index.html
+layout: layout.njk
 ---
 Who Guards The Guardians?
 =========================

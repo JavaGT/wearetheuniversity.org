@@ -1,9 +1,12 @@
 ---
 slug: party-pill-educn-shouldnt-be-left-to-students
-title: "Party pill educ'n shouldn’t be left to students"
-date: 2006-05-02
-source-url: https://www.scoop.co.nz/stories/PA0605/S00048/party-pill-educn-shouldnt-be-left-to-students.htm
+title: Party pill educ'n shouldn’t be left to students
+date: 2006-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00048/party-pill-educn-shouldnt-be-left-to-students.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/02/party-pill-educn-shouldnt-be-left-to-students/index.html
+layout: layout.njk
 ---
 Party pill educ'n shouldn’t be left to students
 ===============================================

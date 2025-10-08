@@ -1,9 +1,12 @@
 ---
 slug: peters-the-super-rip-off-continues
-title: "Peters:  The Super Rip-Off Continues"
-date: 2005-07-15
-source-url: https://www.scoop.co.nz/stories/PA0507/S00317/peters-the-super-rip-off-continues.htm
+title: 'Peters:  The Super Rip-Off Continues'
+date: 2005-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00317/peters-the-super-rip-off-continues.htm
 author: new-zealand-first-party
+permalink: /archive/2005/07/15/peters-the-super-rip-off-continues/index.html
+layout: layout.njk
 ---
 Peters: The Super Rip-Off Continues
 ===================================

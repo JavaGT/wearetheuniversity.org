@@ -1,9 +1,13 @@
 ---
 slug: address-the-racial-lottery-in-healthcare-as-well
-title: "Address The Racial Lottery In Healthcare As Well"
-date: 2023-06-12
-source-url: https://www.scoop.co.nz/stories/PA2306/S00051/address-the-racial-lottery-in-healthcare-as-well.htm
+title: Address The Racial Lottery In Healthcare As Well
+date: 2023-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00051/address-the-racial-lottery-in-healthcare-as-well.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/06/12/address-the-racial-lottery-in-healthcare-as-well/index.html
+layout: layout.njk
 ---
 Address The Racial Lottery In Healthcare As Well
 ================================================

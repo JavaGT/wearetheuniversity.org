@@ -1,9 +1,12 @@
 ---
 slug: spiders-use-of-smell-nothing-to-sniff-at
-title: "Spider’s use of smell nothing to sniff at"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/SC1008/S00010/spiders-use-of-smell-nothing-to-sniff-at.htm
+title: Spider’s use of smell nothing to sniff at
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1008/S00010/spiders-use-of-smell-nothing-to-sniff-at.htm
 author: university-of-canterbury
+permalink: /archive/2010/08/05/spiders-use-of-smell-nothing-to-sniff-at/index.html
+layout: layout.njk
 ---
 Spider’s use of smell nothing to sniff at
 =========================================

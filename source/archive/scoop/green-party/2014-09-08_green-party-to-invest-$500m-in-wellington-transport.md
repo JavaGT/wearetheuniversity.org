@@ -1,9 +1,12 @@
 ---
 slug: green-party-to-invest-$500m-in-wellington-transport
-title: "Green Party to invest $500m in Wellington transport"
-date: 2014-09-08
-source-url: https://www.scoop.co.nz/stories/PA1409/S00111/green-party-to-invest-500m-in-wellington-transport.htm
+title: Green Party to invest $500m in Wellington transport
+date: 2014-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00111/green-party-to-invest-500m-in-wellington-transport.htm
 author: green-party
+permalink: /archive/2014/09/08/green-party-to-invest-/index.html
+layout: layout.njk
 ---
 Green Party to invest $500m in Wellington transport
 ===================================================

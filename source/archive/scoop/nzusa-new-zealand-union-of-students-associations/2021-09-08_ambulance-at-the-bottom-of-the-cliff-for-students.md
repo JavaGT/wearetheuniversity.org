@@ -1,9 +1,13 @@
 ---
 slug: ambulance-at-the-bottom-of-the-cliff-for-students
-title: "Ambulance at the Bottom of the Cliff for Students"
-date: 2021-09-08
-source-url: https://www.scoop.co.nz/stories/ED2109/S00014/ambulance-at-the-bottom-of-the-cliff-for-students.htm
+title: Ambulance at the Bottom of the Cliff for Students
+date: 2021-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2109/S00014/ambulance-at-the-bottom-of-the-cliff-for-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/09/08/ambulance-at-the-bottom-of-the-cliff-for-students/index.html
+layout: layout.njk
 ---
 Ambulance at the Bottom of the Cliff for Students
 =================================================

@@ -1,9 +1,11 @@
 ---
 slug: black-day-for-new-zealand
-title: "Black Day for New Zealand"
-date: 2002-11-14
+title: Black Day for New Zealand
+date: 2002-11-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0211/S00340/black-day-for-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2002/11/14/black-day-for-new-zealand/index.html
+layout: layout.njk
 ---
 Black Day for New Zealand
 =========================

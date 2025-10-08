@@ -1,9 +1,13 @@
 ---
 slug: sea-ice-can-control-antarctic-ice-sheet-stability-new-research-finds
-title: "Sea Ice Can Control Antarctic Ice Sheet Stability, New Research Finds"
-date: 2022-05-13
-source-url: https://www.scoop.co.nz/stories/SC2205/S00021/sea-ice-can-control-antarctic-ice-sheet-stability-new-research-finds.htm
+title: Sea Ice Can Control Antarctic Ice Sheet Stability, New Research Finds
+date: 2022-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2205/S00021/sea-ice-can-control-antarctic-ice-sheet-stability-new-research-finds.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/13/sea-ice-can-control-antarctic-ice-sheet-stability-new-research-finds/index.html
+layout: layout.njk
 ---
 Sea Ice Can Control Antarctic Ice Sheet Stability, New Research Finds
 =====================================================================

@@ -1,9 +1,13 @@
 ---
 slug: nobel-nominee-explains-psychology-behind-genocide
-title: "Nobel nominee explains psychology behind genocide"
-date: 2005-05-24
-source-url: https://www.scoop.co.nz/stories/PO0505/S00249/nobel-nominee-explains-psychology-behind-genocide.htm
+title: Nobel nominee explains psychology behind genocide
+date: 2005-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0505/S00249/nobel-nominee-explains-psychology-behind-genocide.htm
 author: aut-university
+permalink: >-
+  /archive/2005/05/24/nobel-nominee-explains-psychology-behind-genocide/index.html
+layout: layout.njk
 ---
 Nobel nominee explains psychology behind genocide
 =================================================

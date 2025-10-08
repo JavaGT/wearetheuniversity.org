@@ -1,9 +1,13 @@
 ---
 slug: government-should-heed-public-concerns-about-freshwater
-title: "Government should heed public concerns about freshwater"
-date: 2013-12-15
-source-url: https://www.scoop.co.nz/stories/PA1312/S00310/government-should-heed-public-concerns-about-freshwater.htm
+title: Government should heed public concerns about freshwater
+date: 2013-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00310/government-should-heed-public-concerns-about-freshwater.htm
 author: green-party
+permalink: >-
+  /archive/2013/12/15/government-should-heed-public-concerns-about-freshwater/index.html
+layout: layout.njk
 ---
 Government should heed public concerns about freshwater
 =======================================================

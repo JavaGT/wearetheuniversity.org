@@ -1,9 +1,13 @@
 ---
 slug: ignore-the-mythmakers-silent-majority-backs-assisted-dying
-title: "Ignore the mythmakers – silent majority backs assisted dying"
-date: 2017-06-09
-source-url: https://www.scoop.co.nz/stories/PA1706/S00164/ignore-the-mythmakers-silent-majority-backs-assisted-dying.htm
+title: Ignore the mythmakers – silent majority backs assisted dying
+date: 2017-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00164/ignore-the-mythmakers-silent-majority-backs-assisted-dying.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/06/09/ignore-the-mythmakers-silent-majority-backs-assisted-dying/index.html
+layout: layout.njk
 ---
 Ignore the mythmakers – silent majority backs assisted dying
 ============================================================

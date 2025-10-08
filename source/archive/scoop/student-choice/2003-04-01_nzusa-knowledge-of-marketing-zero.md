@@ -1,9 +1,12 @@
 ---
 slug: nzusa-knowledge-of-marketing-zero
-title: "NZUSA Knowledge Of Marketing: Zero"
-date: 2003-04-01
-source-url: https://www.scoop.co.nz/stories/ED0304/S00003/nzusa-knowledge-of-marketing-zero.htm
+title: 'NZUSA Knowledge Of Marketing: Zero'
+date: 2003-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00003/nzusa-knowledge-of-marketing-zero.htm
 author: student-choice
+permalink: /archive/2003/04/01/nzusa-knowledge-of-marketing-zero/index.html
+layout: layout.njk
 ---
 NZUSA Knowledge Of Marketing: Zero
 ==================================

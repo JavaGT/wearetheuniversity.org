@@ -1,9 +1,11 @@
 ---
 slug: thank-you-to-miq-workers-ctu
-title: "Thank You To MIQ Workers - CTU"
-date: 2022-02-28
+title: Thank You To MIQ Workers - CTU
+date: 2022-02-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU2202/S00607/thank-you-to-miq-workers-ctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2022/02/28/thank-you-to-miq-workers-ctu/index.html
+layout: layout.njk
 ---
 Thank You To MIQ Workers - CTU
 ==============================

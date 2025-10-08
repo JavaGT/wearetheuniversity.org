@@ -1,9 +1,11 @@
 ---
 slug: real-issues-no-216
-title: "Real issues - No 216"
-date: 2006-08-04
+title: Real issues - No 216
+date: 2006-08-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0608/S00041/real-issues-no-216.htm
 author: maxim-institute
+permalink: /archive/2006/08/04/real-issues-no-216/index.html
+layout: layout.njk
 ---
 Real issues - No 216
 ====================

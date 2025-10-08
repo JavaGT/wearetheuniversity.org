@@ -1,9 +1,13 @@
 ---
 slug: students-to-help-restore-earthquake-and-storm-damaged-area
-title: "Students to help restore earthquake and storm damaged area"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/AK1405/S00488/students-to-help-restore-earthquake-and-storm-damaged-area.htm
+title: Students to help restore earthquake and storm damaged area
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1405/S00488/students-to-help-restore-earthquake-and-storm-damaged-area.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/23/students-to-help-restore-earthquake-and-storm-damaged-area/index.html
+layout: layout.njk
 ---
 Students to help restore earthquake and storm damaged area
 ==========================================================

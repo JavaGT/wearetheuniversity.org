@@ -1,9 +1,13 @@
 ---
 slug: diamond-polishes-her-skills-to-better-serve-bop-community
-title: "Diamond polishes her skills to better serve BOP community"
-date: 2017-11-24
-source-url: https://www.scoop.co.nz/stories/ED1711/S00097/diamond-polishes-her-skills-to-better-serve-bop-community.htm
+title: Diamond polishes her skills to better serve BOP community
+date: 2017-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00097/diamond-polishes-her-skills-to-better-serve-bop-community.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/11/24/diamond-polishes-her-skills-to-better-serve-bop-community/index.html
+layout: layout.njk
 ---
 Diamond polishes her skills to better serve BOP community
 =========================================================

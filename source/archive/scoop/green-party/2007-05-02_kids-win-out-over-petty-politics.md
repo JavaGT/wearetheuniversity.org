@@ -1,9 +1,12 @@
 ---
 slug: kids-win-out-over-petty-politics
-title: "Kids win out over petty politics"
-date: 2007-05-02
-source-url: https://www.scoop.co.nz/stories/PA0705/S00050/kids-win-out-over-petty-politics.htm
+title: Kids win out over petty politics
+date: 2007-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00050/kids-win-out-over-petty-politics.htm
 author: green-party
+permalink: /archive/2007/05/02/kids-win-out-over-petty-politics/index.html
+layout: layout.njk
 ---
 Kids win out over petty politics
 ================================

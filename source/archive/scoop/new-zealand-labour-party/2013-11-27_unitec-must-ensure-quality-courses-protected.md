@@ -1,9 +1,12 @@
 ---
 slug: unitec-must-ensure-quality-courses-protected
-title: "Unitec must ensure quality courses protected"
-date: 2013-11-27
-source-url: https://www.scoop.co.nz/stories/PA1311/S00498/unitec-must-ensure-quality-courses-protected.htm
+title: Unitec must ensure quality courses protected
+date: 2013-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00498/unitec-must-ensure-quality-courses-protected.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/27/unitec-must-ensure-quality-courses-protected/index.html
+layout: layout.njk
 ---
 Unitec must ensure quality courses protected
 ============================================

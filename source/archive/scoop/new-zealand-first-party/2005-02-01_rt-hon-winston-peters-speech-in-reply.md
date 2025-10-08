@@ -1,9 +1,12 @@
 ---
 slug: rt-hon-winston-peters-speech-in-reply
-title: "Rt Hon Winston Peters -  Speech In Reply"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/PA0502/S00027/rt-hon-winston-peters-speech-in-reply.htm
+title: Rt Hon Winston Peters -  Speech In Reply
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00027/rt-hon-winston-peters-speech-in-reply.htm
 author: new-zealand-first-party
+permalink: /archive/2005/02/01/rt-hon-winston-peters-speech-in-reply/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters - Speech In Reply
 =======================================

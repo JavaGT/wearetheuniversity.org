@@ -1,9 +1,11 @@
 ---
 slug: happy-end-to-airport-fiasco
-title: "Happy end to airport fiasco"
-date: 2005-09-02
+title: Happy end to airport fiasco
+date: 2005-09-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00072/happy-end-to-airport-fiasco.htm
 author: green-party
+permalink: /archive/2005/09/02/happy-end-to-airport-fiasco/index.html
+layout: layout.njk
 ---
 Happy end to airport fiasco
 ===========================

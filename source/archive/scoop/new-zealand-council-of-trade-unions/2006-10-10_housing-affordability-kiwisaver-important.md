@@ -1,9 +1,12 @@
 ---
 slug: housing-affordability-kiwisaver-important
-title: "Housing Affordability - Kiwisaver Important"
-date: 2006-10-10
-source-url: https://www.scoop.co.nz/stories/PO0610/S00084/housing-affordability-kiwisaver-important.htm
+title: Housing Affordability - Kiwisaver Important
+date: 2006-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00084/housing-affordability-kiwisaver-important.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/10/10/housing-affordability-kiwisaver-important/index.html
+layout: layout.njk
 ---
 Housing Affordability - Kiwisaver Important
 ===========================================

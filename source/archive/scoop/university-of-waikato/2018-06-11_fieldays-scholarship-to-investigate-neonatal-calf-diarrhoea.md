@@ -1,9 +1,13 @@
 ---
 slug: fieldays-scholarship-to-investigate-neonatal-calf-diarrhoea
-title: "Fieldays scholarship to investigate neonatal calf diarrhoea"
-date: 2018-06-11
-source-url: https://www.scoop.co.nz/stories/ED1806/S00034/fieldays-scholarship-to-investigate-neonatal-calf-diarrhoea.htm
+title: Fieldays scholarship to investigate neonatal calf diarrhoea
+date: 2018-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00034/fieldays-scholarship-to-investigate-neonatal-calf-diarrhoea.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2018/06/11/fieldays-scholarship-to-investigate-neonatal-calf-diarrhoea/index.html
+layout: layout.njk
 ---
 Fieldays scholarship to investigate neonatal calf diarrhoea
 ===========================================================

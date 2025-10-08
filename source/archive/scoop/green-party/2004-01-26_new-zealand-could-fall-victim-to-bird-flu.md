@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-could-fall-victim-to-bird-flu
-title: "New Zealand could fall victim to bird flu"
-date: 2004-01-26
-source-url: https://www.scoop.co.nz/stories/PA0401/S00189/new-zealand-could-fall-victim-to-bird-flu.htm
+title: New Zealand could fall victim to bird flu
+date: 2004-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00189/new-zealand-could-fall-victim-to-bird-flu.htm
 author: green-party
+permalink: /archive/2004/01/26/new-zealand-could-fall-victim-to-bird-flu/index.html
+layout: layout.njk
 ---
 New Zealand could fall victim to bird flu
 =========================================

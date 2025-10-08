@@ -1,9 +1,12 @@
 ---
 slug: hear-from-a-refugee-high-court-judge
-title: "Hear from a refugee High Court Judge"
-date: 2008-08-12
-source-url: https://www.scoop.co.nz/stories/PO0808/S00150/hear-from-a-refugee-high-court-judge.htm
+title: Hear from a refugee High Court Judge
+date: 2008-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00150/hear-from-a-refugee-high-court-judge.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/08/12/hear-from-a-refugee-high-court-judge/index.html
+layout: layout.njk
 ---
 Hear from a refugee High Court Judge
 ====================================

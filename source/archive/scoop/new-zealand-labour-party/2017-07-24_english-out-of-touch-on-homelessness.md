@@ -1,9 +1,12 @@
 ---
 slug: english-out-of-touch-on-homelessness
-title: "English out of touch on homelessness"
-date: 2017-07-24
-source-url: https://www.scoop.co.nz/stories/PA1707/S00340/english-out-of-touch-on-homelessness.htm
+title: English out of touch on homelessness
+date: 2017-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00340/english-out-of-touch-on-homelessness.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/24/english-out-of-touch-on-homelessness/index.html
+layout: layout.njk
 ---
 English out of touch on homelessness
 ====================================

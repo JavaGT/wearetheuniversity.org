@@ -1,9 +1,12 @@
 ---
 slug: childrens-health-services-in-crisis
-title: "Children's health services in crisis"
-date: 2003-07-23
-source-url: https://www.scoop.co.nz/stories/PA0307/S00419/childrens-health-services-in-crisis.htm
+title: Children's health services in crisis
+date: 2003-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00419/childrens-health-services-in-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/23/childrens-health-services-in-crisis/index.html
+layout: layout.njk
 ---
 Children's health services in crisis
 ====================================

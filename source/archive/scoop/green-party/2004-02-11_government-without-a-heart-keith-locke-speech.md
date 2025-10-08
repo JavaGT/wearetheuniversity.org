@@ -1,9 +1,12 @@
 ---
 slug: government-without-a-heart-keith-locke-speech
-title: "Government without a heart - Keith Locke Speech"
-date: 2004-02-11
-source-url: https://www.scoop.co.nz/stories/PA0402/S00171/government-without-a-heart-keith-locke-speech.htm
+title: Government without a heart - Keith Locke Speech
+date: 2004-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00171/government-without-a-heart-keith-locke-speech.htm
 author: green-party
+permalink: /archive/2004/02/11/government-without-a-heart-keith-locke-speech/index.html
+layout: layout.njk
 ---
 Government without a heart - Keith Locke Speech
 ===============================================

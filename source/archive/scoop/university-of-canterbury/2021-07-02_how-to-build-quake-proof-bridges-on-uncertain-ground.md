@@ -1,9 +1,13 @@
 ---
 slug: how-to-build-quake-proof-bridges-on-uncertain-ground
-title: "How To Build Quake-proof Bridges On Uncertain Ground"
-date: 2021-07-02
-source-url: https://www.scoop.co.nz/stories/SC2107/S00007/how-to-build-quake-proof-bridges-on-uncertain-ground.htm
+title: How To Build Quake-proof Bridges On Uncertain Ground
+date: 2021-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00007/how-to-build-quake-proof-bridges-on-uncertain-ground.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/07/02/how-to-build-quake-proof-bridges-on-uncertain-ground/index.html
+layout: layout.njk
 ---
 How To Build Quake-proof Bridges On Uncertain Ground
 ====================================================

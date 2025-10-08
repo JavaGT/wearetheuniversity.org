@@ -1,9 +1,13 @@
 ---
 slug: increase-in-parent-donations-shows-funding-boost-is-needed
-title: "Increase in parent donations shows funding boost is needed"
-date: 2016-12-10
-source-url: https://www.scoop.co.nz/stories/PO1612/S00121/increase-in-parent-donations-shows-funding-boost-is-needed.htm
+title: Increase in parent donations shows funding boost is needed
+date: 2016-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1612/S00121/increase-in-parent-donations-shows-funding-boost-is-needed.htm
 author: nzei
+permalink: >-
+  /archive/2016/12/10/increase-in-parent-donations-shows-funding-boost-is-needed/index.html
+layout: layout.njk
 ---
 Increase in parent donations shows funding boost is needed
 ==========================================================

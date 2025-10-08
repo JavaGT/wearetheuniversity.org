@@ -1,9 +1,12 @@
 ---
 slug: fiscal-strategy-sees-households-struggling
-title: "Fiscal strategy sees households struggling"
-date: 2018-12-13
-source-url: https://www.scoop.co.nz/stories/PA1812/S00178/fiscal-strategy-sees-households-struggling.htm
+title: Fiscal strategy sees households struggling
+date: 2018-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00178/fiscal-strategy-sees-households-struggling.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/13/fiscal-strategy-sees-households-struggling/index.html
+layout: layout.njk
 ---
 Fiscal strategy sees households struggling
 ==========================================

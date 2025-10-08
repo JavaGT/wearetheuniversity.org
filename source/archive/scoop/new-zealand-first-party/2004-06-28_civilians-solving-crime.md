@@ -1,9 +1,11 @@
 ---
 slug: civilians-solving-crime
-title: "Civilians Solving Crime"
-date: 2004-06-28
+title: Civilians Solving Crime
+date: 2004-06-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0406/S00445/civilians-solving-crime.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/28/civilians-solving-crime/index.html
+layout: layout.njk
 ---
 Civilians Solving Crime
 =======================

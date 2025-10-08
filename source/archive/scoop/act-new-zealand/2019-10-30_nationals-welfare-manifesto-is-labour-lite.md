@@ -1,9 +1,12 @@
 ---
 slug: nationals-welfare-manifesto-is-labour-lite
-title: "National’s welfare manifesto is Labour-lite"
-date: 2019-10-30
-source-url: https://www.scoop.co.nz/stories/PA1910/S00249/nationals-welfare-manifesto-is-labour-lite.htm
+title: National’s welfare manifesto is Labour-lite
+date: 2019-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00249/nationals-welfare-manifesto-is-labour-lite.htm
 author: act-new-zealand
+permalink: /archive/2019/10/30/nationals-welfare-manifesto-is-labour-lite/index.html
+layout: layout.njk
 ---
 National’s welfare manifesto is Labour-lite
 ===========================================

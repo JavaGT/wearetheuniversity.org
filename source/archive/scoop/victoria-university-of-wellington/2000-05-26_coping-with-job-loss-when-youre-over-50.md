@@ -1,9 +1,12 @@
 ---
 slug: coping-with-job-loss-when-youre-over-50
-title: "Coping with job loss when you’re over 50"
-date: 2000-05-26
-source-url: https://www.scoop.co.nz/stories/GE0005/S00053/coping-with-job-loss-when-youre-over-50.htm
+title: Coping with job loss when you’re over 50
+date: 2000-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0005/S00053/coping-with-job-loss-when-youre-over-50.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/05/26/coping-with-job-loss-when-youre-over-50/index.html
+layout: layout.njk
 ---
 Coping with job loss when you’re over 50
 ========================================

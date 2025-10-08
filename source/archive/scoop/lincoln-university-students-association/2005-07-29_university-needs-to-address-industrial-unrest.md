@@ -1,9 +1,12 @@
 ---
 slug: university-needs-to-address-industrial-unrest
-title: "University needs to address Industrial Unrest"
-date: 2005-07-29
-source-url: https://www.scoop.co.nz/stories/ED0507/S00135/university-needs-to-address-industrial-unrest.htm
+title: University needs to address Industrial Unrest
+date: 2005-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00135/university-needs-to-address-industrial-unrest.htm
 author: lincoln-university-students-association
+permalink: /archive/2005/07/29/university-needs-to-address-industrial-unrest/index.html
+layout: layout.njk
 ---
 University needs to address Industrial Unrest
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: medicate-me
-title: "Medicate Me"
-date: 2009-05-18
+title: Medicate Me
+date: 2009-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0905/S00133/medicate-me.htm
 author: salient
+permalink: /archive/2009/05/18/medicate-me/index.html
+layout: layout.njk
 ---
 Medicate Me
 ===========

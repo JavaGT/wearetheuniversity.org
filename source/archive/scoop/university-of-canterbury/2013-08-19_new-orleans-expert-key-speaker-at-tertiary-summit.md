@@ -1,9 +1,13 @@
 ---
 slug: new-orleans-expert-key-speaker-at-tertiary-summit
-title: "New Orleans expert key speaker at tertiary summit"
-date: 2013-08-19
-source-url: https://www.scoop.co.nz/stories/ED1308/S00083/new-orleans-expert-key-speaker-at-tertiary-summit.htm
+title: New Orleans expert key speaker at tertiary summit
+date: 2013-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00083/new-orleans-expert-key-speaker-at-tertiary-summit.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/19/new-orleans-expert-key-speaker-at-tertiary-summit/index.html
+layout: layout.njk
 ---
 New Orleans expert key speaker at tertiary summit
 =================================================

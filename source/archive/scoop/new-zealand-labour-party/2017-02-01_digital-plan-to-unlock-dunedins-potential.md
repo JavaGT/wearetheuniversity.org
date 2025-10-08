@@ -1,9 +1,12 @@
 ---
 slug: digital-plan-to-unlock-dunedins-potential
-title: "Digital plan to unlock Dunedin’s potential"
-date: 2017-02-01
-source-url: https://www.scoop.co.nz/stories/PA1702/S00008/digital-plan-to-unlock-dunedins-potential.htm
+title: Digital plan to unlock Dunedin’s potential
+date: 2017-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00008/digital-plan-to-unlock-dunedins-potential.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/01/digital-plan-to-unlock-dunedins-potential/index.html
+layout: layout.njk
 ---
 Digital plan to unlock Dunedin’s potential
 ==========================================

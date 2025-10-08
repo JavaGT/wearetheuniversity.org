@@ -1,9 +1,12 @@
 ---
 slug: extreme-weather-picture-of-the-future
-title: "Extreme weather \"picture of the future\""
-date: 2014-06-12
-source-url: https://www.scoop.co.nz/stories/PA1406/S00149/extreme-weather-picture-of-the-future.htm
+title: Extreme weather "picture of the future"
+date: 2014-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00149/extreme-weather-picture-of-the-future.htm
 author: green-party
+permalink: /archive/2014/06/12/extreme-weather-picture-of-the-future/index.html
+layout: layout.njk
 ---
 Extreme weather “picture of the future”
 =======================================

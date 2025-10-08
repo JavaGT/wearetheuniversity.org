@@ -1,9 +1,13 @@
 ---
 slug: does-being-dehydrated-increase-your-pain-perception
-title: "Does being dehydrated increase your pain perception"
-date: 2016-02-22
-source-url: https://www.scoop.co.nz/stories/SC1602/S00055/does-being-dehydrated-increase-your-pain-perception.htm
+title: Does being dehydrated increase your pain perception
+date: 2016-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00055/does-being-dehydrated-increase-your-pain-perception.htm
 author: massey-university
+permalink: >-
+  /archive/2016/02/22/does-being-dehydrated-increase-your-pain-perception/index.html
+layout: layout.njk
 ---
 Does being dehydrated increase your pain perception
 ===================================================

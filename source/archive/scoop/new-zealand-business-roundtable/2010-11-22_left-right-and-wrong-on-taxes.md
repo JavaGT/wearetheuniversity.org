@@ -1,9 +1,12 @@
 ---
 slug: left-right-and-wrong-on-taxes
-title: "Left, Right and Wrong on Taxes"
-date: 2010-11-22
-source-url: https://www.scoop.co.nz/stories/BU1011/S00591/left-right-and-wrong-on-taxes.htm
+title: Left, Right and Wrong on Taxes
+date: 2010-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1011/S00591/left-right-and-wrong-on-taxes.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/11/22/left-right-and-wrong-on-taxes/index.html
+layout: layout.njk
 ---
 Left, Right and Wrong on Taxes
 ==============================

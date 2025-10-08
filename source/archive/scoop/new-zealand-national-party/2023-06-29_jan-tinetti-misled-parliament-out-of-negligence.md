@@ -1,9 +1,12 @@
 ---
 slug: jan-tinetti-misled-parliament-out-of-negligence
-title: "Jan Tinetti Misled Parliament Out Of Negligence"
-date: 2023-06-29
-source-url: https://www.scoop.co.nz/stories/PA2306/S00208/jan-tinetti-misled-parliament-out-of-negligence.htm
+title: Jan Tinetti Misled Parliament Out Of Negligence
+date: 2023-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00208/jan-tinetti-misled-parliament-out-of-negligence.htm
 author: new-zealand-national-party
+permalink: /archive/2023/06/29/jan-tinetti-misled-parliament-out-of-negligence/index.html
+layout: layout.njk
 ---
 Jan Tinetti Misled Parliament Out Of Negligence
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: staying-in-control-of-career-change
-title: "Staying in control of career change"
-date: 2011-09-12
-source-url: https://www.scoop.co.nz/stories/BU1109/S00349/staying-in-control-of-career-change.htm
+title: Staying in control of career change
+date: 2011-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00349/staying-in-control-of-career-change.htm
 author: auckland-university
+permalink: /archive/2011/09/12/staying-in-control-of-career-change/index.html
+layout: layout.njk
 ---
 Staying in control of career change
 ===================================

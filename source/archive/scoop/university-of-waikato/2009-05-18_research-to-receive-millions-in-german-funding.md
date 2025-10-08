@@ -1,9 +1,12 @@
 ---
 slug: research-to-receive-millions-in-german-funding
-title: "Research to receive millions in German funding"
-date: 2009-05-18
-source-url: https://www.scoop.co.nz/stories/ED0905/S00074/research-to-receive-millions-in-german-funding.htm
+title: Research to receive millions in German funding
+date: 2009-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00074/research-to-receive-millions-in-german-funding.htm
 author: university-of-waikato
+permalink: /archive/2009/05/18/research-to-receive-millions-in-german-funding/index.html
+layout: layout.njk
 ---
 Research to receive millions in German funding
 ==============================================

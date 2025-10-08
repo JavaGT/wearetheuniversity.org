@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-and-vbc-88-3fm-proudly-present
-title: "VUWSA and VBC 88.3FM proudly present..."
-date: 2010-02-18
-source-url: https://www.scoop.co.nz/stories/CU1002/S00340/vuwsa-and-vbc-883fm-proudly-present.htm
+title: VUWSA and VBC 88.3FM proudly present...
+date: 2010-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1002/S00340/vuwsa-and-vbc-883fm-proudly-present.htm
 author: vuwsa
+permalink: /archive/2010/02/18/vuwsa-and-vbc-88-3fm-proudly-present/index.html
+layout: layout.njk
 ---
 VUWSA and VBC 88.3FM proudly present...
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-food-awards-announced
-title: "New Zealand Food Awards announced"
-date: 2010-10-29
-source-url: https://www.scoop.co.nz/stories/CU1010/S00403/new-zealand-food-awards-announced.htm
+title: New Zealand Food Awards announced
+date: 2010-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1010/S00403/new-zealand-food-awards-announced.htm
 author: massey-university
+permalink: /archive/2010/10/29/new-zealand-food-awards-announced/index.html
+layout: layout.njk
 ---
 New Zealand Food Awards announced
 =================================

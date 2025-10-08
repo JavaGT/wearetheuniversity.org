@@ -1,9 +1,12 @@
 ---
 slug: nothing-is-funnier-than-unhappiness
-title: "‘Nothing is funnier than unhappiness’"
-date: 2007-04-26
-source-url: https://www.scoop.co.nz/stories/CU0704/S00294/nothing-is-funnier-than-unhappiness.htm
+title: ‘Nothing is funnier than unhappiness’
+date: 2007-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0704/S00294/nothing-is-funnier-than-unhappiness.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/04/26/nothing-is-funnier-than-unhappiness/index.html
+layout: layout.njk
 ---
 ‘Nothing is funnier than unhappiness’
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-the-kiwi-bid-to-protect-our-beaches
-title: "Green Party launches the Kiwi Bid to protect our beaches"
-date: 2013-05-19
-source-url: https://www.scoop.co.nz/stories/PA1305/S00393/green-party-launches-the-kiwi-bid-to-protect-our-beaches.htm
+title: Green Party launches the Kiwi Bid to protect our beaches
+date: 2013-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00393/green-party-launches-the-kiwi-bid-to-protect-our-beaches.htm
 author: green-party
+permalink: >-
+  /archive/2013/05/19/green-party-launches-the-kiwi-bid-to-protect-our-beaches/index.html
+layout: layout.njk
 ---
 Green Party launches the Kiwi Bid to protect our beaches
 ========================================================

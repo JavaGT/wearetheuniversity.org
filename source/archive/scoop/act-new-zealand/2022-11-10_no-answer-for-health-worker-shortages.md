@@ -1,9 +1,12 @@
 ---
 slug: no-answer-for-health-worker-shortages
-title: "No Answer For Health Worker Shortages"
-date: 2022-11-10
-source-url: https://www.scoop.co.nz/stories/PA2211/S00089/no-answer-for-health-worker-shortages.htm
+title: No Answer For Health Worker Shortages
+date: 2022-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00089/no-answer-for-health-worker-shortages.htm
 author: act-new-zealand
+permalink: /archive/2022/11/10/no-answer-for-health-worker-shortages/index.html
+layout: layout.njk
 ---
 No Answer For Health Worker Shortages
 =====================================

@@ -1,9 +1,11 @@
 ---
 slug: gastro-care-plan-implemented
-title: "Gastro care plan implemented"
-date: 2008-10-31
+title: Gastro care plan implemented
+date: 2008-10-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0810/S00127/gastro-care-plan-implemented.htm
 author: massey-university
+permalink: /archive/2008/10/31/gastro-care-plan-implemented/index.html
+layout: layout.njk
 ---
 Gastro care plan implemented
 ============================

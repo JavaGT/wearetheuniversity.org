@@ -1,9 +1,12 @@
 ---
 slug: be-radical;-look-at-the-treaty-on-waitangi-day
-title: "Be Radical; Look At The Treaty On Waitangi Day"
-date: 2003-02-06
-source-url: https://www.scoop.co.nz/stories/PA0302/S00072/be-radical-look-at-the-treaty-on-waitangi-day.htm
+title: Be Radical; Look At The Treaty On Waitangi Day
+date: 2003-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00072/be-radical-look-at-the-treaty-on-waitangi-day.htm
 author: act-new-zealand
+permalink: /archive/2003/02/06/be-radical/index.html
+layout: layout.njk
 ---
 Be Radical; Look At The Treaty On Waitangi Day
 ==============================================

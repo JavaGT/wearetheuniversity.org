@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-the-most-homeless-country-in-the-world
-title: "New Zealand the most homeless country in the world?"
-date: 2017-07-23
-source-url: https://www.scoop.co.nz/stories/PO1707/S00326/new-zealand-the-most-homeless-country-in-the-world.htm
+title: New Zealand the most homeless country in the world?
+date: 2017-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00326/new-zealand-the-most-homeless-country-in-the-world.htm
 author: green-party
+permalink: >-
+  /archive/2017/07/23/new-zealand-the-most-homeless-country-in-the-world/index.html
+layout: layout.njk
 ---
 New Zealand the most homeless country in the world?
 ===================================================

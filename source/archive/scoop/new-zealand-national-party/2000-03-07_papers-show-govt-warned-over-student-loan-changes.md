@@ -1,9 +1,13 @@
 ---
 slug: papers-show-govt-warned-over-student-loan-changes
-title: "Papers show Govt warned over student loan changes"
-date: 2000-03-07
-source-url: https://www.scoop.co.nz/stories/PA0003/S00103/papers-show-govt-warned-over-student-loan-changes.htm
+title: Papers show Govt warned over student loan changes
+date: 2000-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00103/papers-show-govt-warned-over-student-loan-changes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/03/07/papers-show-govt-warned-over-student-loan-changes/index.html
+layout: layout.njk
 ---
 Papers show Govt warned over student loan changes
 =================================================

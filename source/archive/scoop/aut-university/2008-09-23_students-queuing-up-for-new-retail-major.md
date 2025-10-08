@@ -1,9 +1,12 @@
 ---
 slug: students-queuing-up-for-new-retail-major
-title: "Students queuing up for new Retail major"
-date: 2008-09-23
-source-url: https://www.scoop.co.nz/stories/ED0809/S00071/students-queuing-up-for-new-retail-major.htm
+title: Students queuing up for new Retail major
+date: 2008-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00071/students-queuing-up-for-new-retail-major.htm
 author: aut-university
+permalink: /archive/2008/09/23/students-queuing-up-for-new-retail-major/index.html
+layout: layout.njk
 ---
 Students queuing up for new Retail major
 ========================================

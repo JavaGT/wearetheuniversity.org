@@ -1,9 +1,12 @@
 ---
 slug: hamilton-student-cake-turns-to-hash-cookies
-title: "Hamilton Student Cake Turns To Hash Cookies"
-date: 2002-03-06
-source-url: https://www.scoop.co.nz/stories/ED0203/S00014/hamilton-student-cake-turns-to-hash-cookies.htm
+title: Hamilton Student Cake Turns To Hash Cookies
+date: 2002-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00014/hamilton-student-cake-turns-to-hash-cookies.htm
 author: young-labour
+permalink: /archive/2002/03/06/hamilton-student-cake-turns-to-hash-cookies/index.html
+layout: layout.njk
 ---
 Hamilton Student Cake Turns To Hash Cookies
 ===========================================

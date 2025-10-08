@@ -1,9 +1,12 @@
 ---
 slug: ae-marika-mts-bids-for-the-rugby
-title: "Ae Marika: MTS Bids For The Rugby"
-date: 2009-10-15
-source-url: https://www.scoop.co.nz/stories/PA0910/S00176/ae-marika-mts-bids-for-the-rugby.htm
+title: 'Ae Marika: MTS Bids For The Rugby'
+date: 2009-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00176/ae-marika-mts-bids-for-the-rugby.htm
 author: te-pati-maori
+permalink: /archive/2009/10/15/ae-marika-mts-bids-for-the-rugby/index.html
+layout: layout.njk
 ---
 Ae Marika: MTS Bids For The Rugby
 =================================

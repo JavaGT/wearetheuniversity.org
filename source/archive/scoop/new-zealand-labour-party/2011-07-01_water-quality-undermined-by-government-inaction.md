@@ -1,9 +1,12 @@
 ---
 slug: water-quality-undermined-by-government-inaction
-title: "Water quality undermined by  Government inaction"
-date: 2011-07-01
-source-url: https://www.scoop.co.nz/stories/PA1107/S00013/water-quality-undermined-by-government-inaction.htm
+title: Water quality undermined by  Government inaction
+date: 2011-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00013/water-quality-undermined-by-government-inaction.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/01/water-quality-undermined-by-government-inaction/index.html
+layout: layout.njk
 ---
 Water quality undermined by Government inaction
 ===============================================

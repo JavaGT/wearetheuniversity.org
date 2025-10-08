@@ -1,9 +1,12 @@
 ---
 slug: maori-scholarships-to-help-fight-diabetes
-title: "Maori scholarships to help fight diabetes"
-date: 2009-05-04
-source-url: https://www.scoop.co.nz/stories/ED0905/S00014/maori-scholarships-to-help-fight-diabetes.htm
+title: Maori scholarships to help fight diabetes
+date: 2009-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00014/maori-scholarships-to-help-fight-diabetes.htm
 author: massey-university
+permalink: /archive/2009/05/04/maori-scholarships-to-help-fight-diabetes/index.html
+layout: layout.njk
 ---
 Maori scholarships to help fight diabetes
 =========================================

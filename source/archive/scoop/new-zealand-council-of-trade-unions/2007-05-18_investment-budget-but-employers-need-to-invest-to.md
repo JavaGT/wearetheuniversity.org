@@ -1,9 +1,13 @@
 ---
 slug: investment-budget-but-employers-need-to-invest-to
-title: "Investment Budget, But Employers Need To Invest To"
-date: 2007-05-18
-source-url: https://www.scoop.co.nz/stories/PO0705/S00349/investment-budget-but-employers-need-to-invest-to.htm
+title: Investment Budget, But Employers Need To Invest To
+date: 2007-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00349/investment-budget-but-employers-need-to-invest-to.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2007/05/18/investment-budget-but-employers-need-to-invest-to/index.html
+layout: layout.njk
 ---
 Investment Budget, But Employers Need To Invest To
 ==================================================

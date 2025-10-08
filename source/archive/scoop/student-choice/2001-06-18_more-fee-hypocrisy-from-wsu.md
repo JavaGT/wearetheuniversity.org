@@ -1,9 +1,11 @@
 ---
 slug: more-fee-hypocrisy-from-wsu
-title: "More Fee Hypocrisy From WSU"
-date: 2001-06-18
+title: More Fee Hypocrisy From WSU
+date: 2001-06-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0106/S00014/more-fee-hypocrisy-from-wsu.htm
 author: student-choice
+permalink: /archive/2001/06/18/more-fee-hypocrisy-from-wsu/index.html
+layout: layout.njk
 ---
 More Fee Hypocrisy From WSU
 ===========================

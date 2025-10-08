@@ -1,9 +1,12 @@
 ---
 slug: campus-is-no-place-for-a-brewery-says-nandor
-title: "Campus is no place for a brewery, says Nandor"
-date: 2004-09-27
-source-url: https://www.scoop.co.nz/stories/PA0409/S00544/campus-is-no-place-for-a-brewery-says-nandor.htm
+title: Campus is no place for a brewery, says Nandor
+date: 2004-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00544/campus-is-no-place-for-a-brewery-says-nandor.htm
 author: green-party
+permalink: /archive/2004/09/27/campus-is-no-place-for-a-brewery-says-nandor/index.html
+layout: layout.njk
 ---
 Campus is no place for a brewery, says Nandor
 =============================================

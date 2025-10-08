@@ -1,9 +1,13 @@
 ---
 slug: nats-supremely-hypocritical-on-nz-first-re-election-fund
-title: "Nats Supremely Hypocritical on NZ First Re-Election Fund"
-date: 2018-02-23
-source-url: https://www.scoop.co.nz/stories/PA1802/S00239/nats-supremely-hypocritical-on-nz-first-re-election-fund.htm
+title: Nats Supremely Hypocritical on NZ First Re-Election Fund
+date: 2018-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00239/nats-supremely-hypocritical-on-nz-first-re-election-fund.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/02/23/nats-supremely-hypocritical-on-nz-first-re-election-fund/index.html
+layout: layout.njk
 ---
 Nats Supremely Hypocritical on NZ First Re-Election Fund
 ========================================================

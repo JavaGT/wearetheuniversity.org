@@ -1,9 +1,13 @@
 ---
 slug: govt-must-release-damning-contact-tracing-report
-title: "Govt Must Release Damning Contact Tracing Report"
-date: 2020-04-19
-source-url: https://www.scoop.co.nz/stories/PA2004/S00102/govt-must-release-damning-contact-tracing-report.htm
+title: Govt Must Release Damning Contact Tracing Report
+date: 2020-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00102/govt-must-release-damning-contact-tracing-report.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/04/19/govt-must-release-damning-contact-tracing-report/index.html
+layout: layout.njk
 ---
 Govt Must Release Damning Contact Tracing Report
 ================================================

@@ -1,8 +1,12 @@
 ---
 slug: historic-auckland-visit-by-corpus-christi-college-chapel-choir
-title: "Historic Auckland visit by Corpus Christi College Chapel Choir"
-date: 2016-11-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/historic-auckland-visit-by-corpus-christi-college-chapel-choir.html
+title: Historic Auckland visit by Corpus Christi College Chapel Choir
+date: 2016-11-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/historic-auckland-visit-by-corpus-christi-college-chapel-choir.html
+permalink: >-
+  /archive/2016/11/10/historic-auckland-visit-by-corpus-christi-college-chapel-choir/index.html
+layout: layout.njk
 ---
 Historic Auckland visit by Corpus Christi College Chapel Choir
 ==============================================================

@@ -1,9 +1,11 @@
 ---
 slug: doc-time-to-share-the-vision
-title: "DOC - Time To Share The Vision"
-date: 2004-07-16
+title: DOC - Time To Share The Vision
+date: 2004-07-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0407/S00291/doc-time-to-share-the-vision.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/16/doc-time-to-share-the-vision/index.html
+layout: layout.njk
 ---
 DOC - Time To Share The Vision
 ==============================

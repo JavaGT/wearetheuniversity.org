@@ -1,9 +1,12 @@
 ---
 slug: inmates-before-graduates-&-prisons-before-polytech
-title: "Inmates before graduates & prisons before polytech"
-date: 2009-05-14
-source-url: https://www.scoop.co.nz/stories/PA0905/S00258/inmates-before-graduates-prisons-before-polytech.htm
+title: Inmates before graduates & prisons before polytech
+date: 2009-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00258/inmates-before-graduates-prisons-before-polytech.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/14/inmates-before-graduates-/index.html
+layout: layout.njk
 ---
 Inmates before graduates & prisons before polytech
 ==================================================

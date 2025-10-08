@@ -1,9 +1,13 @@
 ---
 slug: protest-planned-teacher-ed-cuts-threaten-quality
-title: "Protest planned: teacher ed cuts threaten quality"
-date: 2008-05-21
-source-url: https://www.scoop.co.nz/stories/ED0805/S00074/protest-planned-teacher-ed-cuts-threaten-quality.htm
+title: 'Protest planned: teacher ed cuts threaten quality'
+date: 2008-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00074/protest-planned-teacher-ed-cuts-threaten-quality.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2008/05/21/protest-planned-teacher-ed-cuts-threaten-quality/index.html
+layout: layout.njk
 ---
 Protest planned: teacher ed cuts threaten quality
 =================================================

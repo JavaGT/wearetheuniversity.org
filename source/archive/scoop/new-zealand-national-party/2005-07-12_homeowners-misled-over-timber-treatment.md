@@ -1,9 +1,12 @@
 ---
 slug: homeowners-misled-over-timber-treatment
-title: "Homeowners misled over timber treatment"
-date: 2005-07-12
-source-url: https://www.scoop.co.nz/stories/PA0507/S00252/homeowners-misled-over-timber-treatment.htm
+title: Homeowners misled over timber treatment
+date: 2005-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00252/homeowners-misled-over-timber-treatment.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/12/homeowners-misled-over-timber-treatment/index.html
+layout: layout.njk
 ---
 Homeowners misled over timber treatment
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: industrial-action-to-continue-at-victoria
-title: "Industrial action to continue at Victoria"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/ED0406/S00032/industrial-action-to-continue-at-victoria.htm
+title: Industrial action to continue at Victoria
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00032/industrial-action-to-continue-at-victoria.htm
 author: association-of-university-staff
+permalink: /archive/2004/06/08/industrial-action-to-continue-at-victoria/index.html
+layout: layout.njk
 ---
 Industrial action to continue at Victoria
 =========================================

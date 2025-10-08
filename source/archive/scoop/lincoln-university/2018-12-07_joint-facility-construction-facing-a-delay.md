@@ -1,9 +1,12 @@
 ---
 slug: joint-facility-construction-facing-a-delay
-title: "Joint facility construction facing a delay"
-date: 2018-12-07
-source-url: https://www.scoop.co.nz/stories/ED1812/S00023/joint-facility-construction-facing-a-delay.htm
+title: Joint facility construction facing a delay
+date: 2018-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1812/S00023/joint-facility-construction-facing-a-delay.htm
 author: lincoln-university
+permalink: /archive/2018/12/07/joint-facility-construction-facing-a-delay/index.html
+layout: layout.njk
 ---
 Joint facility construction facing a delay
 ==========================================

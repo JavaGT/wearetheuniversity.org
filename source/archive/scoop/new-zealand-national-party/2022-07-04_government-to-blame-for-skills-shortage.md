@@ -1,9 +1,12 @@
 ---
 slug: government-to-blame-for-skills-shortage
-title: "Government To Blame For Skills Shortage"
-date: 2022-07-04
-source-url: https://www.scoop.co.nz/stories/PA2207/S00017/government-to-blame-for-skills-shortage.htm
+title: Government To Blame For Skills Shortage
+date: 2022-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00017/government-to-blame-for-skills-shortage.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/04/government-to-blame-for-skills-shortage/index.html
+layout: layout.njk
 ---
 Government To Blame For Skills Shortage
 =======================================

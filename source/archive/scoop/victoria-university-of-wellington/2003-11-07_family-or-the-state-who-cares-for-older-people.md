@@ -1,9 +1,12 @@
 ---
 slug: family-or-the-state-who-cares-for-older-people
-title: "Family or the State - who cares for older people?"
-date: 2003-11-07
-source-url: https://www.scoop.co.nz/stories/ED0311/S00025/family-or-the-state-who-cares-for-older-people.htm
+title: Family or the State - who cares for older people?
+date: 2003-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00025/family-or-the-state-who-cares-for-older-people.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/11/07/family-or-the-state-who-cares-for-older-people/index.html
+layout: layout.njk
 ---
 Family or the State - who cares for older people?
 =================================================

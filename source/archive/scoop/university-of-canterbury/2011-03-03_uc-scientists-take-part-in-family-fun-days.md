@@ -1,9 +1,12 @@
 ---
 slug: uc-scientists-take-part-in-family-fun-days
-title: "UC Scientists take part in Family Fun Days"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/ED1103/S00014/uc-scientists-take-part-in-family-fun-days.htm
+title: UC Scientists take part in Family Fun Days
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00014/uc-scientists-take-part-in-family-fun-days.htm
 author: university-of-canterbury
+permalink: /archive/2011/03/03/uc-scientists-take-part-in-family-fun-days/index.html
+layout: layout.njk
 ---
 UC Scientists take part in Family Fun Days
 ==========================================

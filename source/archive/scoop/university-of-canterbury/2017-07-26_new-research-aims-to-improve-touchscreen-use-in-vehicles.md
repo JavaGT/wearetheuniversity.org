@@ -1,9 +1,13 @@
 ---
 slug: new-research-aims-to-improve-touchscreen-use-in-vehicles
-title: "New research aims to improve touchscreen use in vehicles"
-date: 2017-07-26
-source-url: https://www.scoop.co.nz/stories/SC1707/S00043/new-research-aims-to-improve-touchscreen-use-in-vehicles.htm
+title: New research aims to improve touchscreen use in vehicles
+date: 2017-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1707/S00043/new-research-aims-to-improve-touchscreen-use-in-vehicles.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/07/26/new-research-aims-to-improve-touchscreen-use-in-vehicles/index.html
+layout: layout.njk
 ---
 New research aims to improve touchscreen use in vehicles
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: research-finds-flu-is-a-major-killer-in-new-zealand
-title: "Research finds flu is a major killer in New Zealand"
-date: 2017-06-09
-source-url: https://www.scoop.co.nz/stories/SC1706/S00023/research-finds-flu-is-a-major-killer-in-new-zealand.htm
+title: Research finds flu is a major killer in New Zealand
+date: 2017-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1706/S00023/research-finds-flu-is-a-major-killer-in-new-zealand.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/09/research-finds-flu-is-a-major-killer-in-new-zealand/index.html
+layout: layout.njk
 ---
 Research finds flu is a major killer in New Zealand
 ===================================================

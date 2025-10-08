@@ -1,9 +1,11 @@
 ---
 slug: fresh-water-fresh-thinking
-title: "Fresh water - fresh thinking"
-date: 2014-02-26
+title: Fresh water - fresh thinking
+date: 2014-02-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1402/S00582/fresh-water-fresh-thinking.htm
 author: university-of-waikato
+permalink: /archive/2014/02/26/fresh-water-fresh-thinking/index.html
+layout: layout.njk
 ---
 Fresh water - fresh thinking
 ============================

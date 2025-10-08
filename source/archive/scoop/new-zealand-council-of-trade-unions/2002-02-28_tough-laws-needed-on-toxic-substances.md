@@ -1,9 +1,12 @@
 ---
 slug: tough-laws-needed-on-toxic-substances
-title: "Tough Laws Needed On Toxic Substances"
-date: 2002-02-28
-source-url: https://www.scoop.co.nz/stories/BU0202/S00247/tough-laws-needed-on-toxic-substances.htm
+title: Tough Laws Needed On Toxic Substances
+date: 2002-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0202/S00247/tough-laws-needed-on-toxic-substances.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/02/28/tough-laws-needed-on-toxic-substances/index.html
+layout: layout.njk
 ---
 Tough Laws Needed On Toxic Substances
 =====================================

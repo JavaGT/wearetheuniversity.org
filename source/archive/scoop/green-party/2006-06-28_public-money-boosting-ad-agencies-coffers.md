@@ -1,9 +1,12 @@
 ---
 slug: public-money-boosting-ad-agencies-coffers
-title: "Public money boosting ad agencies' coffers"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/PA0606/S00563/public-money-boosting-ad-agencies-coffers.htm
+title: Public money boosting ad agencies' coffers
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00563/public-money-boosting-ad-agencies-coffers.htm
 author: green-party
+permalink: /archive/2006/06/28/public-money-boosting-ad-agencies-coffers/index.html
+layout: layout.njk
 ---
 Public money boosting ad agencies' coffers
 ==========================================

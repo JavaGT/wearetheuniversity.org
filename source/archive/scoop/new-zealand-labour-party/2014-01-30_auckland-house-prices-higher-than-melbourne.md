@@ -1,9 +1,12 @@
 ---
 slug: auckland-house-prices-higher-than-melbourne
-title: "Auckland house prices higher than Melbourne"
-date: 2014-01-30
-source-url: https://www.scoop.co.nz/stories/PA1401/S00212/auckland-house-prices-higher-than-melbourne.htm
+title: Auckland house prices higher than Melbourne
+date: 2014-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00212/auckland-house-prices-higher-than-melbourne.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/01/30/auckland-house-prices-higher-than-melbourne/index.html
+layout: layout.njk
 ---
 Auckland house prices higher than Melbourne
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: homeland-security-a-discussion-paper
-title: "Homeland Security - A Discussion Paper"
-date: 2002-12-16
-source-url: https://www.scoop.co.nz/stories/PA0212/S00368/homeland-security-a-discussion-paper.htm
+title: Homeland Security - A Discussion Paper
+date: 2002-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00368/homeland-security-a-discussion-paper.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/16/homeland-security-a-discussion-paper/index.html
+layout: layout.njk
 ---
 Homeland Security - A Discussion Paper
 ======================================

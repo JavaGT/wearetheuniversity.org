@@ -1,9 +1,12 @@
 ---
 slug: ba-a-career-enhancer-for-graduating-mp
-title: "BA a career enhancer for graduating MP"
-date: 2016-11-24
-source-url: https://www.scoop.co.nz/stories/ED1611/S00116/ba-a-career-enhancer-for-graduating-mp.htm
+title: BA a career enhancer for graduating MP
+date: 2016-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00116/ba-a-career-enhancer-for-graduating-mp.htm
 author: massey-university
+permalink: /archive/2016/11/24/ba-a-career-enhancer-for-graduating-mp/index.html
+layout: layout.njk
 ---
 BA a career enhancer for graduating MP
 ======================================

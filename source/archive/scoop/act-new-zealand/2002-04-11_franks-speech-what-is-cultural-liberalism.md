@@ -1,9 +1,12 @@
 ---
 slug: franks-speech-what-is-cultural-liberalism
-title: "Franks Speech: What Is Cultural Liberalism?"
-date: 2002-04-11
-source-url: https://www.scoop.co.nz/stories/PA0204/S00146/franks-speech-what-is-cultural-liberalism.htm
+title: 'Franks Speech: What Is Cultural Liberalism?'
+date: 2002-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00146/franks-speech-what-is-cultural-liberalism.htm
 author: act-new-zealand
+permalink: /archive/2002/04/11/franks-speech-what-is-cultural-liberalism/index.html
+layout: layout.njk
 ---
 Franks Speech: What Is Cultural Liberalism?
 ===========================================

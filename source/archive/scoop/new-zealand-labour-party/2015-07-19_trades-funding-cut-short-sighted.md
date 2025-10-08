@@ -1,9 +1,12 @@
 ---
 slug: trades-funding-cut-short-sighted
-title: "Trades funding cut short-sighted"
-date: 2015-07-19
-source-url: https://www.scoop.co.nz/stories/PA1507/S00297/trades-funding-cut-short-sighted.htm
+title: Trades funding cut short-sighted
+date: 2015-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00297/trades-funding-cut-short-sighted.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/19/trades-funding-cut-short-sighted/index.html
+layout: layout.njk
 ---
 Trades funding cut short-sighted
 ================================

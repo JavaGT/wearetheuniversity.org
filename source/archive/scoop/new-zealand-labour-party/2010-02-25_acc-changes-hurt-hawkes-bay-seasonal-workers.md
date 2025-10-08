@@ -1,9 +1,12 @@
 ---
 slug: acc-changes-hurt-hawkes-bay-seasonal-workers
-title: "ACC changes hurt Hawke’s Bay seasonal workers"
-date: 2010-02-25
-source-url: https://www.scoop.co.nz/stories/PO1002/S00280/acc-changes-hurt-hawkes-bay-seasonal-workers.htm
+title: ACC changes hurt Hawke’s Bay seasonal workers
+date: 2010-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1002/S00280/acc-changes-hurt-hawkes-bay-seasonal-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/25/acc-changes-hurt-hawkes-bay-seasonal-workers/index.html
+layout: layout.njk
 ---
 ACC changes hurt Hawke’s Bay seasonal workers
 =============================================

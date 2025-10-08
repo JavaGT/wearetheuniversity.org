@@ -1,9 +1,12 @@
 ---
 slug: otago-can-add-a-billion-to-our-economy
-title: "Otago can add a billion to our economy"
-date: 2015-09-24
-source-url: https://www.scoop.co.nz/stories/PA1509/S00426/otago-can-add-a-billion-to-our-economy.htm
+title: Otago can add a billion to our economy
+date: 2015-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00426/otago-can-add-a-billion-to-our-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/24/otago-can-add-a-billion-to-our-economy/index.html
+layout: layout.njk
 ---
 Otago can add a billion to our economy
 ======================================

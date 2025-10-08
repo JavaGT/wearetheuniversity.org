@@ -1,9 +1,11 @@
 ---
 slug: ready-willing-jobless…
-title: "Ready, willing, jobless…"
-date: 2012-08-09
+title: Ready, willing, jobless…
+date: 2012-08-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1208/S00123/ready-willing-jobless.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/09/ready-willing-jobless/index.html
+layout: layout.njk
 ---
 Ready, willing, jobless…
 ========================

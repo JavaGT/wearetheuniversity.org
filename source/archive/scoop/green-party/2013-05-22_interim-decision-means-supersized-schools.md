@@ -1,9 +1,12 @@
 ---
 slug: interim-decision-means-supersized-schools
-title: "Interim Decision Means Supersized Schools"
-date: 2013-05-22
-source-url: https://www.scoop.co.nz/stories/PA1305/S00460/interim-decision-means-supersized-schools.htm
+title: Interim Decision Means Supersized Schools
+date: 2013-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00460/interim-decision-means-supersized-schools.htm
 author: green-party
+permalink: /archive/2013/05/22/interim-decision-means-supersized-schools/index.html
+layout: layout.njk
 ---
 Interim Decision Means Supersized Schools
 =========================================

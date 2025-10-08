@@ -1,9 +1,13 @@
 ---
 slug: privatisation-expert-to-speak-at-business-roundtable-forum
-title: "Privatisation Expert to Speak at Business Roundtable Forum"
-date: 2011-08-05
-source-url: https://www.scoop.co.nz/stories/BU1108/S00193/privatisation-expert-to-speak-at-business-roundtable-forum.htm
+title: Privatisation Expert to Speak at Business Roundtable Forum
+date: 2011-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1108/S00193/privatisation-expert-to-speak-at-business-roundtable-forum.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2011/08/05/privatisation-expert-to-speak-at-business-roundtable-forum/index.html
+layout: layout.njk
 ---
 Privatisation Expert to Speak at Business Roundtable Forum
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: school-support-launch-petition-at-pay-claims-meet
-title: "School Support Launch Petition At Pay Claims Meet"
-date: 2005-03-29
-source-url: https://www.scoop.co.nz/stories/ED0503/S00093/school-support-launch-petition-at-pay-claims-meet.htm
+title: School Support Launch Petition At Pay Claims Meet
+date: 2005-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00093/school-support-launch-petition-at-pay-claims-meet.htm
 author: nzei
+permalink: >-
+  /archive/2005/03/29/school-support-launch-petition-at-pay-claims-meet/index.html
+layout: layout.njk
 ---
 School Support Launch Petition At Pay Claims Meet
 =================================================

@@ -1,9 +1,11 @@
 ---
 slug: making-the-boardroom-green
-title: "Making the boardroom green"
-date: 2011-07-15
+title: Making the boardroom green
+date: 2011-07-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1107/S00485/making-the-boardroom-green.htm
 author: university-of-canterbury
+permalink: /archive/2011/07/15/making-the-boardroom-green/index.html
+layout: layout.njk
 ---
 Making the boardroom green
 ==========================

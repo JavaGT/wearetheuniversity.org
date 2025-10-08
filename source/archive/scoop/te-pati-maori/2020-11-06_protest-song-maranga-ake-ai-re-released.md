@@ -1,9 +1,12 @@
 ---
 slug: protest-song-maranga-ake-ai-re-released
-title: "Protest Song Maranga Ake Ai Re-released"
-date: 2020-11-06
-source-url: https://www.scoop.co.nz/stories/AK2011/S00120/protest-song-maranga-ake-ai-re-released.htm
+title: Protest Song Maranga Ake Ai Re-released
+date: 2020-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2011/S00120/protest-song-maranga-ake-ai-re-released.htm
 author: te-pati-maori
+permalink: /archive/2020/11/06/protest-song-maranga-ake-ai-re-released/index.html
+layout: layout.njk
 ---
 Protest Song Maranga Ake Ai Re-released
 =======================================

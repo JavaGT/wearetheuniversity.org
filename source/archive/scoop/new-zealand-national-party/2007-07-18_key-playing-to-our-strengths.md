@@ -1,9 +1,11 @@
 ---
 slug: key-playing-to-our-strengths
-title: "Key - Playing to Our Strengths"
-date: 2007-07-18
+title: Key - Playing to Our Strengths
+date: 2007-07-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0707/S00284/key-playing-to-our-strengths.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/18/key-playing-to-our-strengths/index.html
+layout: layout.njk
 ---
 Key - Playing to Our Strengths
 ==============================

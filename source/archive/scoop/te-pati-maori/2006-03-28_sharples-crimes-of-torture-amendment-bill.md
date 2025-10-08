@@ -1,9 +1,12 @@
 ---
 slug: sharples-crimes-of-torture-amendment-bill
-title: "Sharples: Crimes of Torture Amendment Bill"
-date: 2006-03-28
-source-url: https://www.scoop.co.nz/stories/PA0603/S00497/sharples-crimes-of-torture-amendment-bill.htm
+title: 'Sharples: Crimes of Torture Amendment Bill'
+date: 2006-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00497/sharples-crimes-of-torture-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/03/28/sharples-crimes-of-torture-amendment-bill/index.html
+layout: layout.njk
 ---
 Sharples: Crimes of Torture Amendment Bill
 ==========================================

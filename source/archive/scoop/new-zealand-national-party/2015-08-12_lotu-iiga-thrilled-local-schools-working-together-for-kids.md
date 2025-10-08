@@ -1,9 +1,13 @@
 ---
 slug: lotu-iiga-thrilled-local-schools-working-together-for-kids
-title: "Lotu-Iiga thrilled local schools working together for kids"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/PA1508/S00183/lotu-iiga-thrilled-local-schools-working-together-for-kids.htm
+title: Lotu-Iiga thrilled local schools working together for kids
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00183/lotu-iiga-thrilled-local-schools-working-together-for-kids.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/08/12/lotu-iiga-thrilled-local-schools-working-together-for-kids/index.html
+layout: layout.njk
 ---
 Lotu-Iiga thrilled local schools working together for kids
 ==========================================================

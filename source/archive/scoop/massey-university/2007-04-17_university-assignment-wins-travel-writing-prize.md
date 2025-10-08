@@ -1,9 +1,12 @@
 ---
 slug: university-assignment-wins-travel-writing-prize
-title: "University assignment wins travel writing prize"
-date: 2007-04-17
-source-url: https://www.scoop.co.nz/stories/ED0704/S00050/university-assignment-wins-travel-writing-prize.htm
+title: University assignment wins travel writing prize
+date: 2007-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00050/university-assignment-wins-travel-writing-prize.htm
 author: massey-university
+permalink: /archive/2007/04/17/university-assignment-wins-travel-writing-prize/index.html
+layout: layout.njk
 ---
 University assignment wins travel writing prize
 ===============================================

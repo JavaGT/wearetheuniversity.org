@@ -1,9 +1,12 @@
 ---
 slug: brash-association-for-migration-and-investment
-title: "Brash: Association for Migration and Investment"
-date: 2006-07-28
-source-url: https://www.scoop.co.nz/stories/PA0607/S00509/brash-association-for-migration-and-investment.htm
+title: 'Brash: Association for Migration and Investment'
+date: 2006-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00509/brash-association-for-migration-and-investment.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/28/brash-association-for-migration-and-investment/index.html
+layout: layout.njk
 ---
 Brash: Association for Migration and Investment
 ===============================================

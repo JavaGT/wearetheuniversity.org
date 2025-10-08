@@ -1,9 +1,13 @@
 ---
 slug: political-journalist-musician-honorary-doctorates
-title: "Political journalist, musician honorary doctorates"
-date: 2008-04-23
-source-url: https://www.scoop.co.nz/stories/ED0804/S00070/political-journalist-musician-honorary-doctorates.htm
+title: Political journalist, musician honorary doctorates
+date: 2008-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00070/political-journalist-musician-honorary-doctorates.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2008/04/23/political-journalist-musician-honorary-doctorates/index.html
+layout: layout.njk
 ---
 Political journalist, musician honorary doctorates
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: brilliant-chance-for-christchurch-to-become-a-smarter-city
-title: "Brilliant chance for Christchurch to become a smarter city"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/AK1211/S00589/brilliant-chance-for-christchurch-to-become-a-smarter-city.htm
+title: Brilliant chance for Christchurch to become a smarter city
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1211/S00589/brilliant-chance-for-christchurch-to-become-a-smarter-city.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/22/brilliant-chance-for-christchurch-to-become-a-smarter-city/index.html
+layout: layout.njk
 ---
 Brilliant chance for Christchurch to become a smarter city
 ==========================================================

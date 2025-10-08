@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-15-no-28
-title: "TEU Tertiary Update Vol 15 No 28"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/ED1208/S00092/teu-tertiary-update-vol-15-no-28.htm
+title: TEU Tertiary Update Vol 15 No 28
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00092/teu-tertiary-update-vol-15-no-28.htm
 author: association-of-university-staff
+permalink: /archive/2012/08/16/teu-tertiary-update-vol-15-no-28/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 15 No 28
 ================================

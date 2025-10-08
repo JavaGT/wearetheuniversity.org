@@ -1,9 +1,12 @@
 ---
 slug: auckland-university-fee-increase-is-outrageous
-title: "Auckland University Fee Increase Is Outrageous"
-date: 2006-10-17
-source-url: https://www.scoop.co.nz/stories/PO0610/S00193/auckland-university-fee-increase-is-outrageous.htm
+title: Auckland University Fee Increase Is Outrageous
+date: 2006-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00193/auckland-university-fee-increase-is-outrageous.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2006/10/17/auckland-university-fee-increase-is-outrageous/index.html
+layout: layout.njk
 ---
 Auckland University Fee Increase Is Outrageous
 ==============================================

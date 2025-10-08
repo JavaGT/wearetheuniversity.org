@@ -1,9 +1,13 @@
 ---
 slug: sixth-form-certificate-grades-will-be-meaningless
-title: "Sixth Form Certificate Grades Will Be Meaningless"
-date: 2002-08-29
-source-url: https://www.scoop.co.nz/stories/PA0208/S00291/sixth-form-certificate-grades-will-be-meaningless.htm
+title: Sixth Form Certificate Grades Will Be Meaningless
+date: 2002-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00291/sixth-form-certificate-grades-will-be-meaningless.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2002/08/29/sixth-form-certificate-grades-will-be-meaningless/index.html
+layout: layout.njk
 ---
 Sixth Form Certificate Grades Will Be Meaningless
 =================================================

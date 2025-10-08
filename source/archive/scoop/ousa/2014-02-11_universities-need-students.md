@@ -1,9 +1,11 @@
 ---
 slug: universities-need-students
-title: "Universities need students"
-date: 2014-02-11
+title: Universities need students
+date: 2014-02-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1402/S00037/universities-need-students.htm
 author: ousa
+permalink: /archive/2014/02/11/universities-need-students/index.html
+layout: layout.njk
 ---
 Universities need students
 ==========================

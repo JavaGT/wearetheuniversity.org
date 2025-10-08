@@ -1,9 +1,12 @@
 ---
 slug: pbrf-the-good-the-bad-and-the-not-worth-it
-title: "PBRF – The Good, The Bad and the Not Worth It"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/ED0705/S00015/pbrf-the-good-the-bad-and-the-not-worth-it.htm
+title: PBRF – The Good, The Bad and the Not Worth It
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00015/pbrf-the-good-the-bad-and-the-not-worth-it.htm
 author: association-of-university-staff
+permalink: /archive/2007/05/04/pbrf-the-good-the-bad-and-the-not-worth-it/index.html
+layout: layout.njk
 ---
 PBRF – The Good, The Bad and the Not Worth It
 =============================================

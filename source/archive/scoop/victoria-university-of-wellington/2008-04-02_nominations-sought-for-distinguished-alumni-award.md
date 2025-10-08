@@ -1,9 +1,13 @@
 ---
 slug: nominations-sought-for-distinguished-alumni-award
-title: "Nominations sought for Distinguished Alumni Award"
-date: 2008-04-02
-source-url: https://www.scoop.co.nz/stories/ED0804/S00003/nominations-sought-for-distinguished-alumni-award.htm
+title: Nominations sought for Distinguished Alumni Award
+date: 2008-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00003/nominations-sought-for-distinguished-alumni-award.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2008/04/02/nominations-sought-for-distinguished-alumni-award/index.html
+layout: layout.njk
 ---
 Nominations sought for Distinguished Alumni Award
 =================================================

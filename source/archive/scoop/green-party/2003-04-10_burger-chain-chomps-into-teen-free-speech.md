@@ -1,9 +1,12 @@
 ---
 slug: burger-chain-chomps-into-teen-free-speech
-title: "Burger chain chomps into teen free speech"
-date: 2003-04-10
-source-url: https://www.scoop.co.nz/stories/PA0304/S00219/burger-chain-chomps-into-teen-free-speech.htm
+title: Burger chain chomps into teen free speech
+date: 2003-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00219/burger-chain-chomps-into-teen-free-speech.htm
 author: green-party
+permalink: /archive/2003/04/10/burger-chain-chomps-into-teen-free-speech/index.html
+layout: layout.njk
 ---
 Burger chain chomps into teen free speech
 =========================================

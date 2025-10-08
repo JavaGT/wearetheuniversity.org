@@ -1,9 +1,12 @@
 ---
 slug: migrants-loan-needs-must-be-considered
-title: "Migrants loan needs must be considered"
-date: 2010-07-30
-source-url: https://www.scoop.co.nz/stories/PA1007/S00492/migrants-loan-needs-must-be-considered.htm
+title: Migrants loan needs must be considered
+date: 2010-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00492/migrants-loan-needs-must-be-considered.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/30/migrants-loan-needs-must-be-considered/index.html
+layout: layout.njk
 ---
 Migrants loan needs must be considered
 ======================================

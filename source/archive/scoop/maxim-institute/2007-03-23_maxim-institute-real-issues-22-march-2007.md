@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-22-march-2007
-title: "Maxim Institute - real issues - 22 March 2007"
-date: 2007-03-23
-source-url: https://www.scoop.co.nz/stories/PO0703/S00293/maxim-institute-real-issues-22-march-2007.htm
+title: Maxim Institute - real issues - 22 March 2007
+date: 2007-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00293/maxim-institute-real-issues-22-march-2007.htm
 author: maxim-institute
+permalink: /archive/2007/03/23/maxim-institute-real-issues-22-march-2007/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - 22 March 2007
 =============================================

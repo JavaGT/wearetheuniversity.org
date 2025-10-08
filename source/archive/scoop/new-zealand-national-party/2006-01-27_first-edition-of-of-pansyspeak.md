@@ -1,9 +1,12 @@
 ---
 slug: first-edition-of-of-pansyspeak
-title: "First edition Of Of 'Pansyspeak'"
-date: 2006-01-27
-source-url: https://www.scoop.co.nz/stories/PA0601/S00148/first-edition-of-of-pansyspeak.htm
+title: First edition Of Of 'Pansyspeak'
+date: 2006-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00148/first-edition-of-of-pansyspeak.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/27/first-edition-of-of-pansyspeak/index.html
+layout: layout.njk
 ---
 First edition Of Of 'Pansyspeak'
 ================================

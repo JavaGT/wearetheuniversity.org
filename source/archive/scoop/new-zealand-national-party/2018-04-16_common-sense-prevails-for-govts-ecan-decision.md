@@ -1,9 +1,12 @@
 ---
 slug: common-sense-prevails-for-govts-ecan-decision
-title: "Common sense prevails for Govt’s ECan decision"
-date: 2018-04-16
-source-url: https://www.scoop.co.nz/stories/PA1804/S00180/common-sense-prevails-for-govts-ecan-decision.htm
+title: Common sense prevails for Govt’s ECan decision
+date: 2018-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00180/common-sense-prevails-for-govts-ecan-decision.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/16/common-sense-prevails-for-govts-ecan-decision/index.html
+layout: layout.njk
 ---
 Common sense prevails for Govt’s ECan decision
 ==============================================

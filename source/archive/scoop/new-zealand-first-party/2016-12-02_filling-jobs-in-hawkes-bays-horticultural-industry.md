@@ -1,9 +1,13 @@
 ---
 slug: filling-jobs-in-hawkes-bays-horticultural-industry
-title: "Filling Jobs in Hawke’s Bay’s Horticultural Industry"
-date: 2016-12-02
-source-url: https://www.scoop.co.nz/stories/PA1612/S00037/filling-jobs-in-hawkes-bays-horticultural-industry.htm
+title: Filling Jobs in Hawke’s Bay’s Horticultural Industry
+date: 2016-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00037/filling-jobs-in-hawkes-bays-horticultural-industry.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/12/02/filling-jobs-in-hawkes-bays-horticultural-industry/index.html
+layout: layout.njk
 ---
 Filling Jobs in Hawke’s Bay’s Horticultural Industry
 ====================================================

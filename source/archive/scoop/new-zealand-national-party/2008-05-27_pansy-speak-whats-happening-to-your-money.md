@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-whats-happening-to-your-money
-title: "Pansy Speak: What’s happening to your money?"
-date: 2008-05-27
-source-url: https://www.scoop.co.nz/stories/PA0805/S00516/pansy-speak-whats-happening-to-your-money.htm
+title: 'Pansy Speak: What’s happening to your money?'
+date: 2008-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00516/pansy-speak-whats-happening-to-your-money.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/27/pansy-speak-whats-happening-to-your-money/index.html
+layout: layout.njk
 ---
 Pansy Speak: What’s happening to your money?
 ============================================

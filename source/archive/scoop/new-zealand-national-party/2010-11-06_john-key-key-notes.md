@@ -1,9 +1,11 @@
 ---
 slug: john-key-key-notes
-title: "John Key: Key Notes"
-date: 2010-11-06
+title: 'John Key: Key Notes'
+date: 2010-11-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1011/S00115/john-key-key-notes.htm
 author: new-zealand-national-party
+permalink: /archive/2010/11/06/john-key-key-notes/index.html
+layout: layout.njk
 ---
 John Key: Key Notes
 ===================

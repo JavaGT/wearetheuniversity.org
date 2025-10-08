@@ -1,9 +1,12 @@
 ---
 slug: op-ed-its-not-about-banter-its-about-bullying
-title: "Op-Ed: It’s not about banter – it’s about bullying"
-date: 2015-05-14
-source-url: https://www.scoop.co.nz/stories/CU1505/S00260/op-ed-its-not-about-banter-its-about-bullying.htm
+title: 'Op-Ed: It’s not about banter – it’s about bullying'
+date: 2015-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00260/op-ed-its-not-about-banter-its-about-bullying.htm
 author: massey-university
+permalink: /archive/2015/05/14/op-ed-its-not-about-banter-its-about-bullying/index.html
+layout: layout.njk
 ---
 Op-Ed: It’s not about banter – it’s about bullying
 ==================================================

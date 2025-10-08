@@ -1,9 +1,13 @@
 ---
 slug: grad-selected-for-imperial-college-london-doctoral-programme
-title: "grad selected for Imperial College London doctoral programme"
-date: 2014-08-18
-source-url: https://www.scoop.co.nz/stories/ED1408/S00093/grad-selected-for-imperial-college-london-doctoral-programme.htm
+title: grad selected for Imperial College London doctoral programme
+date: 2014-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00093/grad-selected-for-imperial-college-london-doctoral-programme.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/18/grad-selected-for-imperial-college-london-doctoral-programme/index.html
+layout: layout.njk
 ---
 grad selected for Imperial College London doctoral programme
 ============================================================

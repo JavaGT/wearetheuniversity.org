@@ -1,9 +1,13 @@
 ---
 slug: finalists-announced-in-school-is-cool-competition
-title: "Finalists announced in School is Cool competition"
-date: 2011-08-03
-source-url: https://www.scoop.co.nz/stories/ED1108/S00022/finalists-announced-in-school-is-cool-competition.htm
+title: Finalists announced in School is Cool competition
+date: 2011-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00022/finalists-announced-in-school-is-cool-competition.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/03/finalists-announced-in-school-is-cool-competition/index.html
+layout: layout.njk
 ---
 Finalists announced in School is Cool competition
 =================================================

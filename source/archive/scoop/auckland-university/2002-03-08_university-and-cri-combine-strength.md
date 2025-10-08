@@ -1,9 +1,12 @@
 ---
 slug: university-and-cri-combine-strength
-title: "University And CRI Combine Strength"
-date: 2002-03-08
-source-url: https://www.scoop.co.nz/stories/ED0203/S00025/university-and-cri-combine-strength.htm
+title: University And CRI Combine Strength
+date: 2002-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00025/university-and-cri-combine-strength.htm
 author: auckland-university
+permalink: /archive/2002/03/08/university-and-cri-combine-strength/index.html
+layout: layout.njk
 ---
 University And CRI Combine Strength
 ===================================

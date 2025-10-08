@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-researchers-to-uncover-secrets-of-our-planet
-title: "University Of Waikato Researchers To Uncover Secrets Of Our Planet"
-date: 2020-11-23
-source-url: https://www.scoop.co.nz/stories/SC2011/S00044/university-of-waikato-researchers-to-uncover-secrets-of-our-planet.htm
+title: University Of Waikato Researchers To Uncover Secrets Of Our Planet
+date: 2020-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00044/university-of-waikato-researchers-to-uncover-secrets-of-our-planet.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/11/23/university-of-waikato-researchers-to-uncover-secrets-of-our-planet/index.html
+layout: layout.njk
 ---
 University Of Waikato Researchers To Uncover Secrets Of Our Planet
 ==================================================================

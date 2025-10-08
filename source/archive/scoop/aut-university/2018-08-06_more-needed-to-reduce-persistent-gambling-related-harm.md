@@ -1,9 +1,13 @@
 ---
 slug: more-needed-to-reduce-persistent-gambling-related-harm
-title: "More needed to reduce persistent gambling-related harm"
-date: 2018-08-06
-source-url: https://www.scoop.co.nz/stories/PO1808/S00062/more-needed-to-reduce-persistent-gambling-related-harm.htm
+title: More needed to reduce persistent gambling-related harm
+date: 2018-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1808/S00062/more-needed-to-reduce-persistent-gambling-related-harm.htm
 author: aut-university
+permalink: >-
+  /archive/2018/08/06/more-needed-to-reduce-persistent-gambling-related-harm/index.html
+layout: layout.njk
 ---
 More needed to reduce persistent gambling-related harm
 ======================================================

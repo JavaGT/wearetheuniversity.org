@@ -1,9 +1,12 @@
 ---
 slug: uc-student-to-represent-nz-in-$100000-australasian-finals
-title: "UC student to represent NZ in $100,000 Australasian finals"
-date: 2012-10-02
-source-url: https://www.scoop.co.nz/stories/ED1210/S00012/uc-student-to-represent-nz-in-100000-australasian-finals.htm
+title: UC student to represent NZ in $100,000 Australasian finals
+date: 2012-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00012/uc-student-to-represent-nz-in-100000-australasian-finals.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/02/uc-student-to-represent-nz-in-/index.html
+layout: layout.njk
 ---
 UC student to represent NZ in $100,000 Australasian finals
 ==========================================================

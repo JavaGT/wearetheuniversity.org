@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-students-aid-in-fiji-relief-effort
-title: "University of Canterbury students aid in Fiji relief effort"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/AK1603/S00319/university-of-canterbury-students-aid-in-fiji-relief-effort.htm
+title: University of Canterbury students aid in Fiji relief effort
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1603/S00319/university-of-canterbury-students-aid-in-fiji-relief-effort.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/11/university-of-canterbury-students-aid-in-fiji-relief-effort/index.html
+layout: layout.njk
 ---
 University of Canterbury students aid in Fiji relief effort
 ===========================================================

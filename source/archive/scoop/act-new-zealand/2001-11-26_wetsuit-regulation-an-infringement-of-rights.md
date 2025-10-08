@@ -1,9 +1,12 @@
 ---
 slug: wetsuit-regulation-an-infringement-of-rights
-title: "Wetsuit Regulation An Infringement of Rights"
-date: 2001-11-26
-source-url: https://www.scoop.co.nz/stories/PA0111/S00426/wetsuit-regulation-an-infringement-of-rights.htm
+title: Wetsuit Regulation An Infringement of Rights
+date: 2001-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00426/wetsuit-regulation-an-infringement-of-rights.htm
 author: act-new-zealand
+permalink: /archive/2001/11/26/wetsuit-regulation-an-infringement-of-rights/index.html
+layout: layout.njk
 ---
 Wetsuit Regulation An Infringement of Rights
 ============================================

@@ -1,8 +1,11 @@
 ---
 slug: new-book-studies-war-myths-and-fairy-tales
-title: "New book studies war, myths and fairy tales"
-date: 2017-03-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/new-book-studies-war--myths-and-fairy-tales.html
+title: New book studies war, myths and fairy tales
+date: 2017-03-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/new-book-studies-war--myths-and-fairy-tales.html
+permalink: /archive/2017/03/27/new-book-studies-war-myths-and-fairy-tales/index.html
+layout: layout.njk
 ---
 New book studies war, myths and fairy tales
 ===========================================

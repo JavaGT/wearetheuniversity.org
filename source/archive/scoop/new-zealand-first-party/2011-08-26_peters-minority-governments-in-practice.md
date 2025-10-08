@@ -1,9 +1,12 @@
 ---
 slug: peters-minority-governments-in-practice
-title: "Peters: Minority Governments in Practice"
-date: 2011-08-26
-source-url: https://www.scoop.co.nz/stories/PO1108/S00372/peters-minority-governments-in-practice.htm
+title: 'Peters: Minority Governments in Practice'
+date: 2011-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00372/peters-minority-governments-in-practice.htm
 author: new-zealand-first-party
+permalink: /archive/2011/08/26/peters-minority-governments-in-practice/index.html
+layout: layout.njk
 ---
 Peters: Minority Governments in Practice
 ========================================

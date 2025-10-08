@@ -1,9 +1,11 @@
 ---
 slug: clock-ticking-on-loan-papers
-title: "Clock ticking on loan papers"
-date: 2005-09-14
+title: Clock ticking on loan papers
+date: 2005-09-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00358/clock-ticking-on-loan-papers.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/14/clock-ticking-on-loan-papers/index.html
+layout: layout.njk
 ---
 Clock ticking on loan papers
 ============================

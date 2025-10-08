@@ -1,9 +1,12 @@
 ---
 slug: councils-should-pay-back-illegal-millions
-title: "Councils Should Pay Back Illegal Millions"
-date: 2001-06-07
-source-url: https://www.scoop.co.nz/stories/PA0106/S00095/councils-should-pay-back-illegal-millions.htm
+title: Councils Should Pay Back Illegal Millions
+date: 2001-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00095/councils-should-pay-back-illegal-millions.htm
 author: act-new-zealand
+permalink: /archive/2001/06/07/councils-should-pay-back-illegal-millions/index.html
+layout: layout.njk
 ---
 Councils Should Pay Back Illegal Millions
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: maharey-asked-to-judge-student-shanty-town-comp
-title: "Maharey Asked To Judge Student Shanty Town Comp"
-date: 2001-03-29
-source-url: https://www.scoop.co.nz/stories/ED0103/S00056/maharey-asked-to-judge-student-shanty-town-comp.htm
+title: Maharey Asked To Judge Student Shanty Town Comp
+date: 2001-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00056/maharey-asked-to-judge-student-shanty-town-comp.htm
 author: otago-university-students-association
+permalink: /archive/2001/03/29/maharey-asked-to-judge-student-shanty-town-comp/index.html
+layout: layout.njk
 ---
 Maharey Asked To Judge Student Shanty Town Comp
 ===============================================

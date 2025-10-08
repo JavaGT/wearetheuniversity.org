@@ -1,9 +1,13 @@
 ---
 slug: antarctic-scientist-receives-international-honour
-title: "Antarctic scientist receives international honour"
-date: 2006-04-24
-source-url: https://www.scoop.co.nz/stories/ED0604/S00081/antarctic-scientist-receives-international-honour.htm
+title: Antarctic scientist receives international honour
+date: 2006-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00081/antarctic-scientist-receives-international-honour.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/04/24/antarctic-scientist-receives-international-honour/index.html
+layout: layout.njk
 ---
 Antarctic scientist receives international honour
 =================================================

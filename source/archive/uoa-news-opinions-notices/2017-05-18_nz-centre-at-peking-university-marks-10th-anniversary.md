@@ -1,8 +1,12 @@
 ---
 slug: nz-centre-at-peking-university-marks-10th-anniversary
-title: "NZ Centre at Peking University marks 10th anniversary"
-date: 2017-05-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/nz-centre-at-peking-university-marks-10th-anniversary-.html
+title: NZ Centre at Peking University marks 10th anniversary
+date: 2017-05-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/nz-centre-at-peking-university-marks-10th-anniversary-.html
+permalink: >-
+  /archive/2017/05/18/nz-centre-at-peking-university-marks-10th-anniversary/index.html
+layout: layout.njk
 ---
 NZ Centre at Peking University marks 10th anniversary
 =====================================================

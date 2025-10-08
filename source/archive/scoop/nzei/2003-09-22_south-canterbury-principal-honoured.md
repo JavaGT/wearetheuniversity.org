@@ -1,9 +1,12 @@
 ---
 slug: south-canterbury-principal-honoured
-title: "South Canterbury Principal Honoured"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/ED0309/S00096/south-canterbury-principal-honoured.htm
+title: South Canterbury Principal Honoured
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00096/south-canterbury-principal-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/south-canterbury-principal-honoured/index.html
+layout: layout.njk
 ---
 South Canterbury Principal Honoured
 ===================================

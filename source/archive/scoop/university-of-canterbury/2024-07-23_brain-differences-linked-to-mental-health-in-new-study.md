@@ -1,9 +1,13 @@
 ---
 slug: brain-differences-linked-to-mental-health-in-new-study
-title: "Brain Differences Linked To Mental Health In New Study"
-date: 2024-07-23
-source-url: https://www.scoop.co.nz/stories/SC2407/S00044/brain-differences-linked-to-mental-health-in-new-study.htm
+title: Brain Differences Linked To Mental Health In New Study
+date: 2024-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2407/S00044/brain-differences-linked-to-mental-health-in-new-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/07/23/brain-differences-linked-to-mental-health-in-new-study/index.html
+layout: layout.njk
 ---
 Brain Differences Linked To Mental Health In New Study
 ======================================================

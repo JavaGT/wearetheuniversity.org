@@ -1,9 +1,12 @@
 ---
 slug: from-hibernation-to-restoration-flavell
-title: "From Hibernation to Restoration - Flavell"
-date: 2007-10-26
-source-url: https://www.scoop.co.nz/stories/PA0710/S00515/from-hibernation-to-restoration-flavell.htm
+title: From Hibernation to Restoration - Flavell
+date: 2007-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00515/from-hibernation-to-restoration-flavell.htm
 author: te-pati-maori
+permalink: /archive/2007/10/26/from-hibernation-to-restoration-flavell/index.html
+layout: layout.njk
 ---
 From Hibernation to Restoration - Flavell
 =========================================

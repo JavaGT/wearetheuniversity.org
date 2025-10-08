@@ -1,9 +1,12 @@
 ---
 slug: good-appointment-bad-strategy
-title: "Good appointment, bad strategy"
-date: 2005-01-27
-source-url: https://www.scoop.co.nz/stories/PA0501/S00243/good-appointment-bad-strategy.htm
+title: Good appointment, bad strategy
+date: 2005-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00243/good-appointment-bad-strategy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/27/good-appointment-bad-strategy/index.html
+layout: layout.njk
 ---
 Good appointment, bad strategy
 ==============================

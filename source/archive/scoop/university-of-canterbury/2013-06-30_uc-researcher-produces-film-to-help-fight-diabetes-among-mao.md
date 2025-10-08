@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-produces-film-to-help-fight-diabetes-among-mao
-title: "UC researcher produces film to help fight diabetes among Mao"
-date: 2013-06-30
-source-url: https://www.scoop.co.nz/stories/GE1306/S00140/uc-researcher-produces-film-to-help-fight-diabetes-among-mao.htm
+title: UC researcher produces film to help fight diabetes among Mao
+date: 2013-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1306/S00140/uc-researcher-produces-film-to-help-fight-diabetes-among-mao.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/30/uc-researcher-produces-film-to-help-fight-diabetes-among-mao/index.html
+layout: layout.njk
 ---
 UC researcher produces film to help fight diabetes among Mao
 ============================================================

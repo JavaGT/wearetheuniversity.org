@@ -1,9 +1,13 @@
 ---
 slug: universitys-adult-learners-celebrated-with-awards
-title: "University’s adult learners celebrated with awards"
-date: 2009-09-14
-source-url: https://www.scoop.co.nz/stories/ED0909/S00049/universitys-adult-learners-celebrated-with-awards.htm
+title: University’s adult learners celebrated with awards
+date: 2009-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00049/universitys-adult-learners-celebrated-with-awards.htm
 author: waikato-university
+permalink: >-
+  /archive/2009/09/14/universitys-adult-learners-celebrated-with-awards/index.html
+layout: layout.njk
 ---
 University’s adult learners celebrated with awards
 ==================================================

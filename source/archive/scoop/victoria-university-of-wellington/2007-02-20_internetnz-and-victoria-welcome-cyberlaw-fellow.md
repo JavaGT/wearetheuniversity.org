@@ -1,9 +1,12 @@
 ---
 slug: internetnz-and-victoria-welcome-cyberlaw-fellow
-title: "InternetNZ and Victoria welcome Cyberlaw Fellow"
-date: 2007-02-20
-source-url: https://www.scoop.co.nz/stories/ED0702/S00073/internetnz-and-victoria-welcome-cyberlaw-fellow.htm
+title: InternetNZ and Victoria welcome Cyberlaw Fellow
+date: 2007-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00073/internetnz-and-victoria-welcome-cyberlaw-fellow.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/20/internetnz-and-victoria-welcome-cyberlaw-fellow/index.html
+layout: layout.njk
 ---
 InternetNZ and Victoria welcome Cyberlaw Fellow
 ===============================================

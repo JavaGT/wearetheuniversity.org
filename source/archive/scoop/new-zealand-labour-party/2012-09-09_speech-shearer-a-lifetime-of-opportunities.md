@@ -1,9 +1,12 @@
 ---
 slug: speech-shearer-a-lifetime-of-opportunities
-title: "Speech: Shearer - A Lifetime of Opportunities"
-date: 2012-09-09
-source-url: https://www.scoop.co.nz/stories/PA1209/S00105/speech-shearer-a-lifetime-of-opportunities.htm
+title: 'Speech: Shearer - A Lifetime of Opportunities'
+date: 2012-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00105/speech-shearer-a-lifetime-of-opportunities.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/09/speech-shearer-a-lifetime-of-opportunities/index.html
+layout: layout.njk
 ---
 Speech: Shearer - A Lifetime of Opportunities
 =============================================

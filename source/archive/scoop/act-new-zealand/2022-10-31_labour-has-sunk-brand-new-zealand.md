@@ -1,9 +1,12 @@
 ---
 slug: labour-has-sunk-brand-new-zealand
-title: "Labour Has Sunk Brand New Zealand"
-date: 2022-10-31
-source-url: https://www.scoop.co.nz/stories/PA2210/S00237/labour-has-sunk-brand-new-zealand.htm
+title: Labour Has Sunk Brand New Zealand
+date: 2022-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00237/labour-has-sunk-brand-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2022/10/31/labour-has-sunk-brand-new-zealand/index.html
+layout: layout.njk
 ---
 Labour Has Sunk Brand New Zealand
 =================================

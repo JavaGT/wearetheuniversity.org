@@ -1,9 +1,12 @@
 ---
 slug: a-vote-for-fitzsimons-=-vote-for-bradford-tanczos
-title: "A Vote For Fitzsimons = Vote For Bradford/Tanczos"
-date: 1999-10-25
-source-url: https://www.scoop.co.nz/stories/PA9910/S00574/a-vote-for-fitzsimons-vote-for-bradfordtanczos.htm
+title: A Vote For Fitzsimons = Vote For Bradford/Tanczos
+date: 1999-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00574/a-vote-for-fitzsimons-vote-for-bradfordtanczos.htm
 author: new-zealand-national-party
+permalink: /archive/1999/10/25/a-vote-for-fitzsimons-/index.html
+layout: layout.njk
 ---
 A Vote For Fitzsimons = Vote For Bradford/Tanczos
 =================================================

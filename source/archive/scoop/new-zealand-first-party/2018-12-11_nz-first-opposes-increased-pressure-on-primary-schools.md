@@ -1,9 +1,13 @@
 ---
 slug: nz-first-opposes-increased-pressure-on-primary-schools
-title: "NZ First opposes increased pressure on primary schools"
-date: 2018-12-11
-source-url: https://www.scoop.co.nz/stories/PO1812/S00121/nz-first-opposes-increased-pressure-on-primary-schools.htm
+title: NZ First opposes increased pressure on primary schools
+date: 2018-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1812/S00121/nz-first-opposes-increased-pressure-on-primary-schools.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2018/12/11/nz-first-opposes-increased-pressure-on-primary-schools/index.html
+layout: layout.njk
 ---
 NZ First opposes increased pressure on primary schools
 ======================================================

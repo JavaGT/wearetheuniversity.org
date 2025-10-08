@@ -1,9 +1,12 @@
 ---
 slug: labours-rural-claims-not-credible
-title: "Labour's rural claims not credible"
-date: 1999-10-11
-source-url: https://www.scoop.co.nz/stories/PA9910/S00181/labours-rural-claims-not-credible.htm
+title: Labour's rural claims not credible
+date: 1999-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00181/labours-rural-claims-not-credible.htm
 author: act-new-zealand
+permalink: /archive/1999/10/11/labours-rural-claims-not-credible/index.html
+layout: layout.njk
 ---
 Labour's rural claims not credible
 ==================================

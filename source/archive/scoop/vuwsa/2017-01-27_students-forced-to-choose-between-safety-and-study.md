@@ -1,9 +1,13 @@
 ---
 slug: students-forced-to-choose-between-safety-and-study
-title: "Students forced to choose between safety and study"
-date: 2017-01-27
-source-url: https://www.scoop.co.nz/stories/PO1701/S00179/students-forced-to-choose-between-safety-and-study.htm
+title: Students forced to choose between safety and study
+date: 2017-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1701/S00179/students-forced-to-choose-between-safety-and-study.htm
 author: vuwsa
+permalink: >-
+  /archive/2017/01/27/students-forced-to-choose-between-safety-and-study/index.html
+layout: layout.njk
 ---
 Students forced to choose between safety and study
 ==================================================

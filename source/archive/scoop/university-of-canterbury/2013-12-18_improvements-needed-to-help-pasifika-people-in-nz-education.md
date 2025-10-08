@@ -1,9 +1,13 @@
 ---
 slug: improvements-needed-to-help-pasifika-people-in-nz-education
-title: "Improvements needed to help Pasifika people in NZ education"
-date: 2013-12-18
-source-url: https://www.scoop.co.nz/stories/ED1312/S00116/improvements-needed-to-help-pasifika-people-in-nz-education.htm
+title: Improvements needed to help Pasifika people in NZ education
+date: 2013-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00116/improvements-needed-to-help-pasifika-people-in-nz-education.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/18/improvements-needed-to-help-pasifika-people-in-nz-education/index.html
+layout: layout.njk
 ---
 Improvements needed to help Pasifika people in NZ education
 ===========================================================

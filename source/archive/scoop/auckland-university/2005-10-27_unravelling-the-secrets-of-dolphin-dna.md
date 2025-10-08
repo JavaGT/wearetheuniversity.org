@@ -1,9 +1,12 @@
 ---
 slug: unravelling-the-secrets-of-dolphin-dna
-title: "Unravelling the secrets of dolphin DNA"
-date: 2005-10-27
-source-url: https://www.scoop.co.nz/stories/SC0510/S00061/unravelling-the-secrets-of-dolphin-dna.htm
+title: Unravelling the secrets of dolphin DNA
+date: 2005-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0510/S00061/unravelling-the-secrets-of-dolphin-dna.htm
 author: auckland-university
+permalink: /archive/2005/10/27/unravelling-the-secrets-of-dolphin-dna/index.html
+layout: layout.njk
 ---
 Unravelling the secrets of dolphin DNA
 ======================================

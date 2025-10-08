@@ -1,9 +1,13 @@
 ---
 slug: kedgley-in-palmerston-north-for-political-debate
-title: "Kedgley In Palmerston North For Political Debate"
-date: 2002-05-21
-source-url: https://www.scoop.co.nz/stories/PA0205/S00412/kedgley-in-palmerston-north-for-political-debate.htm
+title: Kedgley In Palmerston North For Political Debate
+date: 2002-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00412/kedgley-in-palmerston-north-for-political-debate.htm
 author: green-party
+permalink: >-
+  /archive/2002/05/21/kedgley-in-palmerston-north-for-political-debate/index.html
+layout: layout.njk
 ---
 Kedgley In Palmerston North For Political Debate
 ================================================

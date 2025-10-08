@@ -1,9 +1,13 @@
 ---
 slug: heads-should-roll-over-disgraceful-kiwirail-decision
-title: "Heads Should Roll Over Disgraceful Kiwirail Decision"
-date: 2016-09-08
-source-url: https://www.scoop.co.nz/stories/PA1609/S00147/heads-should-roll-over-disgraceful-kiwirail-decision.htm
+title: Heads Should Roll Over Disgraceful Kiwirail Decision
+date: 2016-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00147/heads-should-roll-over-disgraceful-kiwirail-decision.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/09/08/heads-should-roll-over-disgraceful-kiwirail-decision/index.html
+layout: layout.njk
 ---
 Heads Should Roll Over Disgraceful Kiwirail Decision
 ====================================================

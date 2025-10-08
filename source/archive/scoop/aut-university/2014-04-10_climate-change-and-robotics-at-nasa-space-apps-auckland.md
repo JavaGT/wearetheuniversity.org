@@ -1,9 +1,13 @@
 ---
 slug: climate-change-and-robotics-at-nasa-space-apps-auckland
-title: "Climate change and robotics at NASA Space Apps, Auckland"
-date: 2014-04-10
-source-url: https://www.scoop.co.nz/stories/SC1404/S00040/climate-change-and-robotics-at-nasa-space-apps-auckland.htm
+title: Climate change and robotics at NASA Space Apps, Auckland
+date: 2014-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00040/climate-change-and-robotics-at-nasa-space-apps-auckland.htm
 author: aut-university
+permalink: >-
+  /archive/2014/04/10/climate-change-and-robotics-at-nasa-space-apps-auckland/index.html
+layout: layout.njk
 ---
 Climate change and robotics at NASA Space Apps, Auckland
 ========================================================

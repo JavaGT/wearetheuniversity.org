@@ -1,9 +1,12 @@
 ---
 slug: sorry-seems-to-be-the-most-interesting-word
-title: "Sorry seems to be the most interesting word"
-date: 2010-03-31
-source-url: https://www.scoop.co.nz/stories/ED1003/S00151/sorry-seems-to-be-the-most-interesting-word.htm
+title: Sorry seems to be the most interesting word
+date: 2010-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00151/sorry-seems-to-be-the-most-interesting-word.htm
 author: university-of-waikato
+permalink: /archive/2010/03/31/sorry-seems-to-be-the-most-interesting-word/index.html
+layout: layout.njk
 ---
 Sorry seems to be the most interesting word
 ===========================================

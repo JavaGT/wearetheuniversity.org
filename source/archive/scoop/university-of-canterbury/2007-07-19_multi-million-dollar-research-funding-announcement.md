@@ -1,9 +1,13 @@
 ---
 slug: multi-million-dollar-research-funding-announcement
-title: "Multi-million dollar research funding announcement"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/ED0707/S00062/multi-million-dollar-research-funding-announcement.htm
+title: Multi-million dollar research funding announcement
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00062/multi-million-dollar-research-funding-announcement.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2007/07/19/multi-million-dollar-research-funding-announcement/index.html
+layout: layout.njk
 ---
 Multi-million dollar research funding announcement
 ==================================================

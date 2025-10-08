@@ -1,9 +1,12 @@
 ---
 slug: henry-a-breakfast-new-zealand-cant-swallow
-title: "Henry: A breakfast New Zealand can't swallow"
-date: 2010-10-06
-source-url: https://www.scoop.co.nz/stories/PA1010/S00053/henry-a-breakfast-new-zealand-cant-swallow.htm
+title: 'Henry: A breakfast New Zealand can''t swallow'
+date: 2010-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00053/henry-a-breakfast-new-zealand-cant-swallow.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/06/henry-a-breakfast-new-zealand-cant-swallow/index.html
+layout: layout.njk
 ---
 Henry: A breakfast New Zealand can't swallow
 ============================================

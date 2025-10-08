@@ -1,9 +1,12 @@
 ---
 slug: make-the-right-call-nick-call-it-in
-title: "Make the right call, Nick – call it in"
-date: 2010-01-18
-source-url: https://www.scoop.co.nz/stories/PA1001/S00053/make-the-right-call-nick-call-it-in.htm
+title: Make the right call, Nick – call it in
+date: 2010-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00053/make-the-right-call-nick-call-it-in.htm
 author: green-party
+permalink: /archive/2010/01/18/make-the-right-call-nick-call-it-in/index.html
+layout: layout.njk
 ---
 Make the right call, Nick – call it in
 ======================================

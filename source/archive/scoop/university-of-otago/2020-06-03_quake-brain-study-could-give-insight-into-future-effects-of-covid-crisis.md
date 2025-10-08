@@ -1,9 +1,13 @@
 ---
 slug: quake-brain-study-could-give-insight-into-future-effects-of-covid-crisis
-title: "‘Quake Brain’ Study Could Give Insight Into Future Effects Of COVID Crisis"
-date: 2020-06-03
-source-url: https://www.scoop.co.nz/stories/GE2006/S00012/quake-brain-study-could-give-insight-into-future-effects-of-covid-crisis.htm
+title: ‘Quake Brain’ Study Could Give Insight Into Future Effects Of COVID Crisis
+date: 2020-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2006/S00012/quake-brain-study-could-give-insight-into-future-effects-of-covid-crisis.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/06/03/quake-brain-study-could-give-insight-into-future-effects-of-covid-crisis/index.html
+layout: layout.njk
 ---
 ‘Quake Brain’ Study Could Give Insight Into Future Effects Of COVID Crisis
 ==========================================================================

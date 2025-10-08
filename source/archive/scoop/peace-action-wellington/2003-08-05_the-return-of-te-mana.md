@@ -1,9 +1,11 @@
 ---
 slug: the-return-of-te-mana
-title: "The Return of Te Mana"
-date: 2003-08-05
+title: The Return of Te Mana
+date: 2003-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0308/S00017/the-return-of-te-mana.htm
 author: peace-action-wellington
+permalink: /archive/2003/08/05/the-return-of-te-mana/index.html
+layout: layout.njk
 ---
 The Return of Te Mana
 =====================

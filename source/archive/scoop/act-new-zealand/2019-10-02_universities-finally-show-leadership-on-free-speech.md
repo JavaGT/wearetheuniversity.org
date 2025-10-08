@@ -1,9 +1,13 @@
 ---
 slug: universities-finally-show-leadership-on-free-speech
-title: "Universities Finally Show Leadership on Free Speech"
-date: 2019-10-02
-source-url: https://www.scoop.co.nz/stories/PA1910/S00011/universities-finally-show-leadership-on-free-speech.htm
+title: Universities Finally Show Leadership on Free Speech
+date: 2019-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00011/universities-finally-show-leadership-on-free-speech.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/10/02/universities-finally-show-leadership-on-free-speech/index.html
+layout: layout.njk
 ---
 Universities Finally Show Leadership on Free Speech
 ===================================================

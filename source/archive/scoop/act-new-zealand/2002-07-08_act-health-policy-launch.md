@@ -1,9 +1,11 @@
 ---
 slug: act-health-policy-launch
-title: "ACT Health Policy Launch"
-date: 2002-07-08
+title: ACT Health Policy Launch
+date: 2002-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00234/act-health-policy-launch.htm
 author: act-new-zealand
+permalink: /archive/2002/07/08/act-health-policy-launch/index.html
+layout: layout.njk
 ---
 ACT Health Policy Launch
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: mental-health-care-controversies-to-be-explored
-title: "Mental health care controversies to be explored"
-date: 2010-09-13
-source-url: https://www.scoop.co.nz/stories/GE1009/S00072/mental-health-care-controversies-to-be-explored.htm
+title: Mental health care controversies to be explored
+date: 2010-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1009/S00072/mental-health-care-controversies-to-be-explored.htm
 author: university-of-otago
+permalink: /archive/2010/09/13/mental-health-care-controversies-to-be-explored/index.html
+layout: layout.njk
 ---
 Mental health care controversies to be explored
 ===============================================

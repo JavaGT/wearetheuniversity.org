@@ -1,9 +1,13 @@
 ---
 slug: uc-earthquake-researcher-receives-pms-science-honour
-title: "UC earthquake researcher receives PM’s science honour"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/ED1703/S00092/uc-earthquake-researcher-receives-pms-science-honour.htm
+title: UC earthquake researcher receives PM’s science honour
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00092/uc-earthquake-researcher-receives-pms-science-honour.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/03/21/uc-earthquake-researcher-receives-pms-science-honour/index.html
+layout: layout.njk
 ---
 UC earthquake researcher receives PM’s science honour
 =====================================================

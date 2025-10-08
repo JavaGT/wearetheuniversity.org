@@ -1,9 +1,12 @@
 ---
 slug: digital-technologies-enhance-maths-learning
-title: "Digital technologies enhance maths learning"
-date: 2011-11-25
-source-url: https://www.scoop.co.nz/stories/ED1111/S00181/digital-technologies-enhance-maths-learning.htm
+title: Digital technologies enhance maths learning
+date: 2011-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00181/digital-technologies-enhance-maths-learning.htm
 author: waikato-university
+permalink: /archive/2011/11/25/digital-technologies-enhance-maths-learning/index.html
+layout: layout.njk
 ---
 Digital technologies enhance maths learning
 ===========================================

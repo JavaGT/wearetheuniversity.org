@@ -1,9 +1,13 @@
 ---
 slug: otago-university-to-hold-first-anzac-remembrance
-title: "Otago University to Hold First ANZAC Remembrance"
-date: 2012-04-18
-source-url: https://www.scoop.co.nz/stories/ED1204/S00066/otago-university-to-hold-first-anzac-remembrance.htm
+title: Otago University to Hold First ANZAC Remembrance
+date: 2012-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00066/otago-university-to-hold-first-anzac-remembrance.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2012/04/18/otago-university-to-hold-first-anzac-remembrance/index.html
+layout: layout.njk
 ---
 Otago University to Hold First ANZAC Remembrance
 ================================================

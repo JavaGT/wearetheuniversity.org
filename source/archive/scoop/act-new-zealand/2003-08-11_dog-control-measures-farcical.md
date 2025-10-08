@@ -1,9 +1,12 @@
 ---
 slug: dog-control-measures-farcical
-title: "Dog Control Measures Farcical"
-date: 2003-08-11
-source-url: https://www.scoop.co.nz/stories/PA0308/S00202/dog-control-measures-farcical.htm
+title: Dog Control Measures Farcical
+date: 2003-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00202/dog-control-measures-farcical.htm
 author: act-new-zealand
+permalink: /archive/2003/08/11/dog-control-measures-farcical/index.html
+layout: layout.njk
 ---
 Dog Control Measures Farcical
 =============================

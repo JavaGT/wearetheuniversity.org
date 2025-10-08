@@ -1,9 +1,12 @@
 ---
 slug: simon-upton-valedictory-too-young-too-old
-title: "Simon Upton Valedictory  - \"Too Young - Too Old\""
-date: 2000-12-13
-source-url: https://www.scoop.co.nz/stories/PA0012/S00197/simon-upton-valedictory-too-young-too-old.htm
+title: Simon Upton Valedictory  - "Too Young - Too Old"
+date: 2000-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00197/simon-upton-valedictory-too-young-too-old.htm
 author: new-zealand-national-party
+permalink: /archive/2000/12/13/simon-upton-valedictory-too-young-too-old/index.html
+layout: layout.njk
 ---
 Simon Upton Valedictory - \"Too Young - Too Old"
 ===============================================

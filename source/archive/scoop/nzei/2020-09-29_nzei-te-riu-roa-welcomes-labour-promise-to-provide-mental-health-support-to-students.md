@@ -1,9 +1,16 @@
 ---
-slug: nzei-te-riu-roa-welcomes-labour-promise-to-provide-mental-health-support-to-students
-title: "NZEI Te Riu Roa Welcomes Labour Promise To Provide Mental Health Support To Students"
-date: 2020-09-29
-source-url: https://www.scoop.co.nz/stories/PO2009/S00438/nzei-te-riu-roa-welcomes-labour-promise-to-provide-mental-health-support-to-students.htm
+slug: >-
+  nzei-te-riu-roa-welcomes-labour-promise-to-provide-mental-health-support-to-students
+title: >-
+  NZEI Te Riu Roa Welcomes Labour Promise To Provide Mental Health Support To
+  Students
+date: 2020-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00438/nzei-te-riu-roa-welcomes-labour-promise-to-provide-mental-health-support-to-students.htm
 author: nzei
+permalink: >-
+  /archive/2020/09/29/nzei-te-riu-roa-welcomes-labour-promise-to-provide-mental-health-support-to-students/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Welcomes Labour Promise To Provide Mental Health Support To Students
 ====================================================================================

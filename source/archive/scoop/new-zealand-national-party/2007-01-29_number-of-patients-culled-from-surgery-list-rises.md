@@ -1,9 +1,13 @@
 ---
 slug: number-of-patients-culled-from-surgery-list-rises
-title: "Number of patients culled from surgery list rises"
-date: 2007-01-29
-source-url: https://www.scoop.co.nz/stories/PA0701/S00181/number-of-patients-culled-from-surgery-list-rises.htm
+title: Number of patients culled from surgery list rises
+date: 2007-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00181/number-of-patients-culled-from-surgery-list-rises.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/01/29/number-of-patients-culled-from-surgery-list-rises/index.html
+layout: layout.njk
 ---
 Number of patients culled from surgery list rises
 =================================================

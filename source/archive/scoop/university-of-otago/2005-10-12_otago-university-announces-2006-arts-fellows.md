@@ -1,9 +1,12 @@
 ---
 slug: otago-university-announces-2006-arts-fellows
-title: "Otago University Announces 2006 Arts Fellows"
-date: 2005-10-12
-source-url: https://www.scoop.co.nz/stories/ED0510/S00035/otago-university-announces-2006-arts-fellows.htm
+title: Otago University Announces 2006 Arts Fellows
+date: 2005-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00035/otago-university-announces-2006-arts-fellows.htm
 author: university-of-otago
+permalink: /archive/2005/10/12/otago-university-announces-2006-arts-fellows/index.html
+layout: layout.njk
 ---
 Otago University Announces 2006 Arts Fellows
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: friedmanite-fringe-influencing-govt-welfare-policy
-title: "Friedmanite Fringe Influencing Govt Welfare Policy"
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/PA1004/S00139/friedmanite-fringe-influencing-govt-welfare-policy.htm
+title: Friedmanite Fringe Influencing Govt Welfare Policy
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00139/friedmanite-fringe-influencing-govt-welfare-policy.htm
 author: green-party
+permalink: >-
+  /archive/2010/04/14/friedmanite-fringe-influencing-govt-welfare-policy/index.html
+layout: layout.njk
 ---
 Friedmanite Fringe Influencing Govt Welfare Policy
 ==================================================

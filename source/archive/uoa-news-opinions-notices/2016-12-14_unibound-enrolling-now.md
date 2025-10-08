@@ -1,8 +1,11 @@
 ---
 slug: unibound-enrolling-now
-title: "UniBound enrolling now"
-date: 2016-12-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/unibound-enrolling-now.html
+title: UniBound enrolling now
+date: 2016-12-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/unibound-enrolling-now.html
+permalink: /archive/2016/12/14/unibound-enrolling-now/index.html
+layout: layout.njk
 ---
 UniBound enrolling now
 ======================

@@ -1,9 +1,12 @@
 ---
 slug: speech-marama-davidson-homes-for-all
-title: "Speech: Marama Davidson: Homes For All"
-date: 2020-08-09
-source-url: https://www.scoop.co.nz/stories/PO2008/S00098/speech-marama-davidson-homes-for-all.htm
+title: 'Speech: Marama Davidson: Homes For All'
+date: 2020-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00098/speech-marama-davidson-homes-for-all.htm
 author: green-party
+permalink: /archive/2020/08/09/speech-marama-davidson-homes-for-all/index.html
+layout: layout.njk
 ---
 Speech: Marama Davidson: Homes For All
 ======================================

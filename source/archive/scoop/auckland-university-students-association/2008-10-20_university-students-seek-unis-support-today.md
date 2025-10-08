@@ -1,9 +1,12 @@
 ---
 slug: university-students-seek-unis-support-today
-title: "University students seek Uni’s support today"
-date: 2008-10-20
-source-url: https://www.scoop.co.nz/stories/ED0810/S00078/university-students-seek-unis-support-today.htm
+title: University students seek Uni’s support today
+date: 2008-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00078/university-students-seek-unis-support-today.htm
 author: auckland-university-students-association
+permalink: /archive/2008/10/20/university-students-seek-unis-support-today/index.html
+layout: layout.njk
 ---
 University students seek Uni’s support today
 ============================================

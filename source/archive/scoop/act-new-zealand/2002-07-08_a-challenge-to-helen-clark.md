@@ -1,9 +1,11 @@
 ---
 slug: a-challenge-to-helen-clark
-title: "A challenge to Helen Clark"
-date: 2002-07-08
+title: A challenge to Helen Clark
+date: 2002-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00232/a-challenge-to-helen-clark.htm
 author: act-new-zealand
+permalink: /archive/2002/07/08/a-challenge-to-helen-clark/index.html
+layout: layout.njk
 ---
 A challenge to Helen Clark
 ==========================

@@ -1,9 +1,13 @@
 ---
 slug: nzei-supports-student-action-over-climate-change
-title: "NZEI supports student action over climate change"
-date: 2019-03-11
-source-url: https://www.scoop.co.nz/stories/PO1903/S00108/nzei-supports-student-action-over-climate-change.htm
+title: NZEI supports student action over climate change
+date: 2019-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1903/S00108/nzei-supports-student-action-over-climate-change.htm
 author: nzei
+permalink: >-
+  /archive/2019/03/11/nzei-supports-student-action-over-climate-change/index.html
+layout: layout.njk
 ---
 NZEI supports student action over climate change
 ================================================

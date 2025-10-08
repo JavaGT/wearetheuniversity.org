@@ -1,9 +1,12 @@
 ---
 slug: painter-nerlis-contribution-to-nz-art
-title: "Painter Nerli’s Contribution to NZ Art"
-date: 2005-06-30
-source-url: https://www.scoop.co.nz/stories/CU0506/S00259/painter-nerlis-contribution-to-nz-art.htm
+title: Painter Nerli’s Contribution to NZ Art
+date: 2005-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0506/S00259/painter-nerlis-contribution-to-nz-art.htm
 author: auckland-university-press
+permalink: /archive/2005/06/30/painter-nerlis-contribution-to-nz-art/index.html
+layout: layout.njk
 ---
 Painter Nerli’s Contribution to NZ Art
 ======================================

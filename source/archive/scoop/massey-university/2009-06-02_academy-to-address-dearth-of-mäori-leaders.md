@@ -1,9 +1,12 @@
 ---
 slug: academy-to-address-dearth-of-mäori-leaders
-title: "Academy to address dearth of Mäori leaders"
-date: 2009-06-02
-source-url: https://www.scoop.co.nz/stories/ED0906/S00006/academy-to-address-dearth-of-maori-leaders.htm
+title: Academy to address dearth of Mäori leaders
+date: 2009-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00006/academy-to-address-dearth-of-maori-leaders.htm
 author: massey-university
+permalink: /archive/2009/06/02/academy-to-address-dearth-of-m/index.html
+layout: layout.njk
 ---
 Academy to address dearth of Mäori leaders
 ==========================================

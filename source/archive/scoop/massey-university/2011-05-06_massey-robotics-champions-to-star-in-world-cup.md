@@ -1,9 +1,12 @@
 ---
 slug: massey-robotics-champions-to-star-in-world-cup
-title: "Massey robotics champions to star in world cup"
-date: 2011-05-06
-source-url: https://www.scoop.co.nz/stories/ED1105/S00026/massey-robotics-champions-to-star-in-world-cup.htm
+title: Massey robotics champions to star in world cup
+date: 2011-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00026/massey-robotics-champions-to-star-in-world-cup.htm
 author: massey-university
+permalink: /archive/2011/05/06/massey-robotics-champions-to-star-in-world-cup/index.html
+layout: layout.njk
 ---
 Massey robotics champions to star in world cup
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: 50000-indictments-on-labour-policy-rebels
-title: "50,000 Indictments On Labour Policy - Rebels"
-date: 2000-02-24
-source-url: https://www.scoop.co.nz/stories/PO0002/S00085/50000-indictments-on-labour-policy-rebels.htm
+title: 50,000 Indictments On Labour Policy - Rebels
+date: 2000-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0002/S00085/50000-indictments-on-labour-policy-rebels.htm
 author: prebble-s-rebels
+permalink: /archive/2000/02/24/50000-indictments-on-labour-policy-rebels/index.html
+layout: layout.njk
 ---
 50,000 Indictments On Labour Policy - Rebels
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: turia-hui-for-management-and-kaimahi
-title: "Turia: Hui for Management and Kaimahi"
-date: 2008-01-23
-source-url: https://www.scoop.co.nz/stories/PA0801/S00152/turia-hui-for-management-and-kaimahi.htm
+title: 'Turia: Hui for Management and Kaimahi'
+date: 2008-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00152/turia-hui-for-management-and-kaimahi.htm
 author: te-pati-maori
+permalink: /archive/2008/01/23/turia-hui-for-management-and-kaimahi/index.html
+layout: layout.njk
 ---
 Turia: Hui for Management and Kaimahi
 =====================================

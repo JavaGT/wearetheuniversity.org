@@ -1,9 +1,13 @@
 ---
 slug: victorias-green-wins-gold-at-sustainability-awards
-title: "Victoria’s green wins gold at sustainability awards"
-date: 2015-10-23
-source-url: https://www.scoop.co.nz/stories/ED1510/S00121/victorias-green-wins-gold-at-sustainability-awards.htm
+title: Victoria’s green wins gold at sustainability awards
+date: 2015-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00121/victorias-green-wins-gold-at-sustainability-awards.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/10/23/victorias-green-wins-gold-at-sustainability-awards/index.html
+layout: layout.njk
 ---
 Victoria’s green wins gold at sustainability awards
 ===================================================

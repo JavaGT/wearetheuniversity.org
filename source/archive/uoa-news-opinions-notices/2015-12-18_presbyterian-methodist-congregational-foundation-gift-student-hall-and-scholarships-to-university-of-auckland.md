@@ -1,8 +1,15 @@
 ---
-slug: presbyterian-methodist-congregational-foundation-gift-student-hall-and-scholarships-to-university-of-auckland
-title: "Presbyterian Methodist Congregational Foundation gift student hall and scholarships to University of Auckland"
-date: 2015-12-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/presbyterian-methodist-congregational-foundation-gift.html
+slug: >-
+  presbyterian-methodist-congregational-foundation-gift-student-hall-and-scholarships-to-university-of-auckland
+title: >-
+  Presbyterian Methodist Congregational Foundation gift student hall and
+  scholarships to University of Auckland
+date: 2015-12-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/presbyterian-methodist-congregational-foundation-gift.html
+permalink: >-
+  /archive/2015/12/18/presbyterian-methodist-congregational-foundation-gift-student-hall-and-scholarships-to-university-of-auckland/index.html
+layout: layout.njk
 ---
 Presbyterian Methodist Congregational Foundation gift student hall and scholarships to University of Auckland
 =============================================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-income-tax-would-hurt-kiwi-workers
-title: "Labour's income tax would hurt Kiwi workers"
-date: 2017-09-20
-source-url: https://www.scoop.co.nz/stories/PO1709/S00368/labours-income-tax-would-hurt-kiwi-workers.htm
+title: Labour's income tax would hurt Kiwi workers
+date: 2017-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00368/labours-income-tax-would-hurt-kiwi-workers.htm
 author: new-zealand-national-party
+permalink: /archive/2017/09/20/labours-income-tax-would-hurt-kiwi-workers/index.html
+layout: layout.njk
 ---
 Labour's income tax would hurt Kiwi workers
 ===========================================

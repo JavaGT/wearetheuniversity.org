@@ -1,9 +1,12 @@
 ---
 slug: uc-buzzes-with-innovation-over-summer
-title: "UC buzzes with innovation over summer"
-date: 2015-12-21
-source-url: https://www.scoop.co.nz/stories/ED1512/S00089/uc-buzzes-with-innovation-over-summer.htm
+title: UC buzzes with innovation over summer
+date: 2015-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00089/uc-buzzes-with-innovation-over-summer.htm
 author: university-of-canterbury
+permalink: /archive/2015/12/21/uc-buzzes-with-innovation-over-summer/index.html
+layout: layout.njk
 ---
 UC buzzes with innovation over summer
 =====================================

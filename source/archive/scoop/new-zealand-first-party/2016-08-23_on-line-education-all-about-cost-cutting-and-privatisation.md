@@ -1,9 +1,13 @@
 ---
 slug: on-line-education-all-about-cost-cutting-and-privatisation
-title: "On-Line Education All About Cost Cutting And Privatisation"
-date: 2016-08-23
-source-url: https://www.scoop.co.nz/stories/PA1608/S00421/on-line-education-all-about-cost-cutting-and-privatisation.htm
+title: On-Line Education All About Cost Cutting And Privatisation
+date: 2016-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00421/on-line-education-all-about-cost-cutting-and-privatisation.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/23/on-line-education-all-about-cost-cutting-and-privatisation/index.html
+layout: layout.njk
 ---
 On-Line Education All About Cost Cutting And Privatisation
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-makes-no-headway-on-oz-based-liable-parents
-title: "Labour makes no headway on Oz-based liable parents"
-date: 2006-08-20
-source-url: https://www.scoop.co.nz/stories/PA0608/S00338/labour-makes-no-headway-on-oz-based-liable-parents.htm
+title: Labour makes no headway on Oz-based liable parents
+date: 2006-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00338/labour-makes-no-headway-on-oz-based-liable-parents.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/08/20/labour-makes-no-headway-on-oz-based-liable-parents/index.html
+layout: layout.njk
 ---
 Labour makes no headway on Oz-based liable parents
 ==================================================

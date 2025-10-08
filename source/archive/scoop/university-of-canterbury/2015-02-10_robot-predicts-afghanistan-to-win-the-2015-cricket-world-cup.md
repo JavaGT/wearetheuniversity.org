@@ -1,9 +1,13 @@
 ---
 slug: robot-predicts-afghanistan-to-win-the-2015-cricket-world-cup
-title: "Robot predicts Afghanistan to win the 2015 Cricket World Cup"
-date: 2015-02-10
-source-url: https://www.scoop.co.nz/stories/SC1502/S00017/robot-predicts-afghanistan-to-win-the-2015-cricket-world-cup.htm
+title: Robot predicts Afghanistan to win the 2015 Cricket World Cup
+date: 2015-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1502/S00017/robot-predicts-afghanistan-to-win-the-2015-cricket-world-cup.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/10/robot-predicts-afghanistan-to-win-the-2015-cricket-world-cup/index.html
+layout: layout.njk
 ---
 Robot predicts Afghanistan to win the 2015 Cricket World Cup
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: education-a-vital-part-of-nz-china-relationship
-title: "Education a vital part of NZ-China relationship"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/ED1304/S00083/education-a-vital-part-of-nz-china-relationship.htm
+title: Education a vital part of NZ-China relationship
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00083/education-a-vital-part-of-nz-china-relationship.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2013/04/12/education-a-vital-part-of-nz-china-relationship/index.html
+layout: layout.njk
 ---
 Education a vital part of NZ-China relationship
 ===============================================

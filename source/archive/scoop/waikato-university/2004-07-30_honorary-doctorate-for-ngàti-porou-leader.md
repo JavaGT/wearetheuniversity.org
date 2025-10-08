@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-ngàti-porou-leader
-title: "Honorary Doctorate For Ngàti Porou Leader"
-date: 2004-07-30
-source-url: https://www.scoop.co.nz/stories/ED0407/S00089/honorary-doctorate-for-ngati-porou-leader.htm
+title: Honorary Doctorate For Ngàti Porou Leader
+date: 2004-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00089/honorary-doctorate-for-ngati-porou-leader.htm
 author: waikato-university
+permalink: /archive/2004/07/30/honorary-doctorate-for-ng/index.html
+layout: layout.njk
 ---
 Honorary Doctorate For Ngàti Porou Leader
 =========================================

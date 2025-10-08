@@ -1,9 +1,13 @@
 ---
 slug: newman-select-committee-should-probe-child-abuse
-title: "Newman: Select Committee Should Probe Child Abuse"
-date: 2000-08-31
-source-url: https://www.scoop.co.nz/stories/PA0008/S00593/newman-select-committee-should-probe-child-abuse.htm
+title: 'Newman: Select Committee Should Probe Child Abuse'
+date: 2000-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00593/newman-select-committee-should-probe-child-abuse.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2000/08/31/newman-select-committee-should-probe-child-abuse/index.html
+layout: layout.njk
 ---
 Newman: Select Committee Should Probe Child Abuse
 =================================================

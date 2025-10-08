@@ -1,9 +1,12 @@
 ---
 slug: no-new-parliamentary-building-for-us
-title: "No New Parliamentary Building for Us"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/PA1609/S00238/no-new-parliamentary-building-for-us.htm
+title: No New Parliamentary Building for Us
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00238/no-new-parliamentary-building-for-us.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/14/no-new-parliamentary-building-for-us/index.html
+layout: layout.njk
 ---
 No New Parliamentary Building for Us
 ====================================

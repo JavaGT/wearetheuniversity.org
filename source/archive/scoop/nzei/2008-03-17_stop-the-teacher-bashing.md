@@ -1,9 +1,11 @@
 ---
 slug: stop-the-teacher-bashing
-title: "Stop The Teacher Bashing"
-date: 2008-03-17
+title: Stop The Teacher Bashing
+date: 2008-03-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0803/S00040/stop-the-teacher-bashing.htm
 author: nzei
+permalink: /archive/2008/03/17/stop-the-teacher-bashing/index.html
+layout: layout.njk
 ---
 Stop The Teacher Bashing
 ========================

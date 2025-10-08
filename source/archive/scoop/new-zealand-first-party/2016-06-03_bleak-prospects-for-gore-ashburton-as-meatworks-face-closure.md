@@ -1,9 +1,13 @@
 ---
 slug: bleak-prospects-for-gore-ashburton-as-meatworks-face-closure
-title: "Bleak Prospects For Gore/Ashburton as Meatworks Face Closure"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/PA1606/S00071/bleak-prospects-for-goreashburton-as-meatworks-face-closure.htm
+title: Bleak Prospects For Gore/Ashburton as Meatworks Face Closure
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00071/bleak-prospects-for-goreashburton-as-meatworks-face-closure.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/03/bleak-prospects-for-gore-ashburton-as-meatworks-face-closure/index.html
+layout: layout.njk
 ---
 Bleak Prospects For Gore/Ashburton as Meatworks Face Closure
 ============================================================

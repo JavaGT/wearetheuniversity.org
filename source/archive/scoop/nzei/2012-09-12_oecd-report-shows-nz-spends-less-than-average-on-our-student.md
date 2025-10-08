@@ -1,9 +1,13 @@
 ---
 slug: oecd-report-shows-nz-spends-less-than-average-on-our-student
-title: "OECD report shows NZ spends less than average on our student"
-date: 2012-09-12
-source-url: https://www.scoop.co.nz/stories/ED1209/S00093/oecd-report-shows-nz-spends-less-than-average-on-our-student.htm
+title: OECD report shows NZ spends less than average on our student
+date: 2012-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00093/oecd-report-shows-nz-spends-less-than-average-on-our-student.htm
 author: nzei
+permalink: >-
+  /archive/2012/09/12/oecd-report-shows-nz-spends-less-than-average-on-our-student/index.html
+layout: layout.njk
 ---
 OECD report shows NZ spends less than average on our student
 ============================================================

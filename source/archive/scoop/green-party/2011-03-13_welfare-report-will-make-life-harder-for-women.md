@@ -1,9 +1,12 @@
 ---
 slug: welfare-report-will-make-life-harder-for-women
-title: "Welfare report will make life harder for women"
-date: 2011-03-13
-source-url: https://www.scoop.co.nz/stories/PA1103/S00198/welfare-report-will-make-life-harder-for-women.htm
+title: Welfare report will make life harder for women
+date: 2011-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00198/welfare-report-will-make-life-harder-for-women.htm
 author: green-party
+permalink: /archive/2011/03/13/welfare-report-will-make-life-harder-for-women/index.html
+layout: layout.njk
 ---
 Welfare report will make life harder for women
 ==============================================

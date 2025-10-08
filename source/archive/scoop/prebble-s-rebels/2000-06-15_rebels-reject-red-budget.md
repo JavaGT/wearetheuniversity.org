@@ -1,9 +1,11 @@
 ---
 slug: rebels-reject-red-budget
-title: "Rebels Reject Red Budget"
-date: 2000-06-15
+title: Rebels Reject Red Budget
+date: 2000-06-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0006/S00052/rebels-reject-red-budget.htm
 author: prebble-s-rebels
+permalink: /archive/2000/06/15/rebels-reject-red-budget/index.html
+layout: layout.njk
 ---
 Rebels Reject Red Budget
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: mining-decision-big-blow-for-whole-south-island
-title: "Mining Decision Big Blow For Whole South Island"
-date: 2001-08-21
-source-url: https://www.scoop.co.nz/stories/PA0108/S00407/mining-decision-big-blow-for-whole-south-island.htm
+title: Mining Decision Big Blow For Whole South Island
+date: 2001-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00407/mining-decision-big-blow-for-whole-south-island.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/21/mining-decision-big-blow-for-whole-south-island/index.html
+layout: layout.njk
 ---
 Mining Decision Big Blow For Whole South Island
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: students-tell-tertiary-sector-to-respond-to-industry-trends
-title: "Students tell tertiary sector to respond to industry trends"
-date: 2016-07-25
-source-url: https://www.scoop.co.nz/stories/ED1607/S00090/students-tell-tertiary-sector-to-respond-to-industry-trends.htm
+title: Students tell tertiary sector to respond to industry trends
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00090/students-tell-tertiary-sector-to-respond-to-industry-trends.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2016/07/25/students-tell-tertiary-sector-to-respond-to-industry-trends/index.html
+layout: layout.njk
 ---
 Students tell tertiary sector to respond to industry trends
 ===========================================================

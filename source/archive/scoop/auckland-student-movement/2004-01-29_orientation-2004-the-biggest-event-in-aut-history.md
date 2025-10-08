@@ -1,9 +1,13 @@
 ---
 slug: orientation-2004-the-biggest-event-in-aut-history
-title: "Orientation 2004 -the biggest event in AUT history"
-date: 2004-01-29
-source-url: https://www.scoop.co.nz/stories/CU0401/S00095/orientation-2004-the-biggest-event-in-aut-history.htm
+title: Orientation 2004 -the biggest event in AUT history
+date: 2004-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0401/S00095/orientation-2004-the-biggest-event-in-aut-history.htm
 author: auckland-student-movement
+permalink: >-
+  /archive/2004/01/29/orientation-2004-the-biggest-event-in-aut-history/index.html
+layout: layout.njk
 ---
 Orientation 2004 -the biggest event in AUT history
 ==================================================

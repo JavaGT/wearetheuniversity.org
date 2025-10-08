@@ -1,9 +1,13 @@
 ---
 slug: highlanders-coaching-staff-head-back-to-school-for-the-day
-title: "Highlanders coaching staff head back to school for the day"
-date: 2018-03-20
-source-url: https://www.scoop.co.nz/stories/ED1803/S00065/highlanders-coaching-staff-head-back-to-school-for-the-day.htm
+title: Highlanders coaching staff head back to school for the day
+date: 2018-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00065/highlanders-coaching-staff-head-back-to-school-for-the-day.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/20/highlanders-coaching-staff-head-back-to-school-for-the-day/index.html
+layout: layout.njk
 ---
 Highlanders coaching staff head back to school for the day
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: gang-insignia-to-be-banned-from-all-government-buildings
-title: "Gang Insignia to be banned from All Government Buildings"
-date: 2011-06-05
-source-url: https://www.scoop.co.nz/stories/PA1106/S00083/gang-insignia-to-be-banned-from-all-government-buildings.htm
+title: Gang Insignia to be banned from All Government Buildings
+date: 2011-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00083/gang-insignia-to-be-banned-from-all-government-buildings.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/06/05/gang-insignia-to-be-banned-from-all-government-buildings/index.html
+layout: layout.njk
 ---
 Gang Insignia to be banned from All Government Buildings
 ========================================================

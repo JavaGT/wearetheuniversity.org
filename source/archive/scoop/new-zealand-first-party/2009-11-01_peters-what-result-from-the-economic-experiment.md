@@ -1,9 +1,12 @@
 ---
 slug: peters-what-result-from-the-economic-experiment
-title: "Peters: What result from the economic experiment?"
-date: 2009-11-01
-source-url: https://www.scoop.co.nz/stories/PO0911/S00001/peters-what-result-from-the-economic-experiment.htm
+title: 'Peters: What result from the economic experiment?'
+date: 2009-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0911/S00001/peters-what-result-from-the-economic-experiment.htm
 author: new-zealand-first-party
+permalink: /archive/2009/11/01/peters-what-result-from-the-economic-experiment/index.html
+layout: layout.njk
 ---
 Peters: What result from the economic experiment?
 =================================================

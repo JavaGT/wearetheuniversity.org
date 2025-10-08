@@ -1,9 +1,13 @@
 ---
 slug: study-of-salmon-sperm-success-shows-need-for-speed
-title: "Study of salmon sperm success shows need for speed"
-date: 2013-10-23
-source-url: https://www.scoop.co.nz/stories/SC1310/S00063/study-of-salmon-sperm-success-shows-need-for-speed.htm
+title: Study of salmon sperm success shows need for speed
+date: 2013-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00063/study-of-salmon-sperm-success-shows-need-for-speed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/10/23/study-of-salmon-sperm-success-shows-need-for-speed/index.html
+layout: layout.njk
 ---
 Study of salmon sperm success shows need for speed
 ==================================================

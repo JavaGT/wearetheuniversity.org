@@ -1,9 +1,11 @@
 ---
 slug: mad-fee-setters-tea-party
-title: "Mad Fee Setters Tea Party"
-date: 2004-10-01
+title: Mad Fee Setters Tea Party
+date: 2004-10-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0410/S00003/mad-fee-setters-tea-party.htm
 author: massey-university-students-association
+permalink: /archive/2004/10/01/mad-fee-setters-tea-party/index.html
+layout: layout.njk
 ---
 Mad Fee Setters Tea Party
 =========================

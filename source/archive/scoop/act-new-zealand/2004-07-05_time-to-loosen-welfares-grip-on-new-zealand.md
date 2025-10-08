@@ -1,9 +1,12 @@
 ---
 slug: time-to-loosen-welfares-grip-on-new-zealand
-title: "Time To Loosen Welfare's Grip On New Zealand"
-date: 2004-07-05
-source-url: https://www.scoop.co.nz/stories/PA0407/S00089/time-to-loosen-welfares-grip-on-new-zealand.htm
+title: Time To Loosen Welfare's Grip On New Zealand
+date: 2004-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00089/time-to-loosen-welfares-grip-on-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2004/07/05/time-to-loosen-welfares-grip-on-new-zealand/index.html
+layout: layout.njk
 ---
 Time To Loosen Welfare's Grip On New Zealand
 ============================================

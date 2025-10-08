@@ -1,9 +1,13 @@
 ---
 slug: northland-schools-suffer-as-cash-goes-to-auckland
-title: "Northland Schools Suffer as Cash Goes to Auckland"
-date: 2016-08-02
-source-url: https://www.scoop.co.nz/stories/PA1608/S00038/northland-schools-suffer-as-cash-goes-to-auckland.htm
+title: Northland Schools Suffer as Cash Goes to Auckland
+date: 2016-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00038/northland-schools-suffer-as-cash-goes-to-auckland.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/02/northland-schools-suffer-as-cash-goes-to-auckland/index.html
+layout: layout.njk
 ---
 Northland Schools Suffer as Cash Goes to Auckland
 =================================================

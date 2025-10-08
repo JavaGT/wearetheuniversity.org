@@ -1,9 +1,12 @@
 ---
 slug: webster-government-must-act-now-to-save-lives
-title: "Webster: Government Must Act Now To Save Lives"
-date: 2000-06-05
-source-url: https://www.scoop.co.nz/stories/PA0006/S00063/webster-government-must-act-now-to-save-lives.htm
+title: 'Webster: Government Must Act Now To Save Lives'
+date: 2000-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00063/webster-government-must-act-now-to-save-lives.htm
 author: act-new-zealand
+permalink: /archive/2000/06/05/webster-government-must-act-now-to-save-lives/index.html
+layout: layout.njk
 ---
 Webster: Government Must Act Now To Save Lives
 ==============================================

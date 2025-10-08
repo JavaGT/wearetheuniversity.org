@@ -1,9 +1,11 @@
 ---
 slug: labour-will-save-invermay
-title: "Labour will save Invermay"
-date: 2014-05-29
+title: Labour will save Invermay
+date: 2014-05-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1405/S00566/labour-will-save-invermay.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/29/labour-will-save-invermay/index.html
+layout: layout.njk
 ---
 Labour will save Invermay
 =========================

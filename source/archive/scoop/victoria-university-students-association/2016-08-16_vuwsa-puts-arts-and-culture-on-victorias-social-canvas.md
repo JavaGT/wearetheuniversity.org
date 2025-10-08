@@ -1,9 +1,13 @@
 ---
 slug: vuwsa-puts-arts-and-culture-on-victorias-social-canvas
-title: "VUWSA puts arts and culture on Victoria’s social canvas"
-date: 2016-08-16
-source-url: https://www.scoop.co.nz/stories/ED1608/S00039/vuwsa-puts-arts-and-culture-on-victorias-social-canvas.htm
+title: VUWSA puts arts and culture on Victoria’s social canvas
+date: 2016-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00039/vuwsa-puts-arts-and-culture-on-victorias-social-canvas.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2016/08/16/vuwsa-puts-arts-and-culture-on-victorias-social-canvas/index.html
+layout: layout.njk
 ---
 VUWSA puts arts and culture on Victoria’s social canvas
 =======================================================

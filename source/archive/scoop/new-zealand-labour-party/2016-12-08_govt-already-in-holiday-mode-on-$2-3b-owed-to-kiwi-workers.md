@@ -1,9 +1,12 @@
 ---
 slug: govt-already-in-holiday-mode-on-$2-3b-owed-to-kiwi-workers
-title: "Govt already in ‘holiday mode’ on $2.3b owed to Kiwi workers"
-date: 2016-12-08
-source-url: https://www.scoop.co.nz/stories/PA1612/S00143/govt-already-in-holiday-mode-on-23b-owed-to-kiwi-workers.htm
+title: Govt already in ‘holiday mode’ on $2.3b owed to Kiwi workers
+date: 2016-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00143/govt-already-in-holiday-mode-on-23b-owed-to-kiwi-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/12/08/govt-already-in-holiday-mode-on-/index.html
+layout: layout.njk
 ---
 Govt already in ‘holiday mode’ on $2.3b owed to Kiwi workers
 ============================================================

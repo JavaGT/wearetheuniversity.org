@@ -1,9 +1,11 @@
 ---
 slug: tu-backs-zeal320-workers
-title: "TU backs Zeal320 workers"
-date: 2009-05-10
+title: TU backs Zeal320 workers
+date: 2009-05-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0905/S00122/tu-backs-zeal320-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/05/10/tu-backs-zeal320-workers/index.html
+layout: layout.njk
 ---
  TU backs Zeal320 workers
 =========================

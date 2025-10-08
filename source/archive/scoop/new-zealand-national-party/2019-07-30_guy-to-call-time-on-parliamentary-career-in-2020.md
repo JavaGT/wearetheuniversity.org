@@ -1,9 +1,13 @@
 ---
 slug: guy-to-call-time-on-parliamentary-career-in-2020
-title: "Guy to call time on Parliamentary career in 2020"
-date: 2019-07-30
-source-url: https://www.scoop.co.nz/stories/PA1907/S00240/guy-to-call-time-on-parliamentary-career-in-2020.htm
+title: Guy to call time on Parliamentary career in 2020
+date: 2019-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00240/guy-to-call-time-on-parliamentary-career-in-2020.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/07/30/guy-to-call-time-on-parliamentary-career-in-2020/index.html
+layout: layout.njk
 ---
 Guy to call time on Parliamentary career in 2020
 ================================================

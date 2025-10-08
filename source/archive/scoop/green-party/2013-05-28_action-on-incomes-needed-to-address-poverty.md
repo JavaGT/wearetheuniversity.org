@@ -1,9 +1,12 @@
 ---
 slug: action-on-incomes-needed-to-address-poverty
-title: "Action on incomes needed to address poverty"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/PA1305/S00561/action-on-incomes-needed-to-address-poverty.htm
+title: Action on incomes needed to address poverty
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00561/action-on-incomes-needed-to-address-poverty.htm
 author: green-party
+permalink: /archive/2013/05/28/action-on-incomes-needed-to-address-poverty/index.html
+layout: layout.njk
 ---
 Action on incomes needed to address poverty
 ===========================================

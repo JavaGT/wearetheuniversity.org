@@ -1,9 +1,13 @@
 ---
 slug: canterbury-sculpture-students-show-opens-19-july
-title: "Canterbury sculpture students' show  opens 19 July"
-date: 2011-07-11
-source-url: https://www.scoop.co.nz/stories/CU1107/S00179/canterbury-sculpture-students-show-opens-19-july.htm
+title: Canterbury sculpture students' show  opens 19 July
+date: 2011-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1107/S00179/canterbury-sculpture-students-show-opens-19-july.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/07/11/canterbury-sculpture-students-show-opens-19-july/index.html
+layout: layout.njk
 ---
 Canterbury sculpture students' show opens 19 July
 =================================================

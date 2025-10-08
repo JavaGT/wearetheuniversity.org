@@ -1,9 +1,13 @@
 ---
 slug: national-to-give-young-kiwis-a-better-start-at-life
-title: "National To Give Young Kiwis A Better Start At Life"
-date: 2020-10-13
-source-url: https://www.scoop.co.nz/stories/PA2010/S00090/national-to-give-young-kiwis-a-better-start-at-life.htm
+title: National To Give Young Kiwis A Better Start At Life
+date: 2020-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00090/national-to-give-young-kiwis-a-better-start-at-life.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/10/13/national-to-give-young-kiwis-a-better-start-at-life/index.html
+layout: layout.njk
 ---
 National To Give Young Kiwis A Better Start At Life
 ===================================================

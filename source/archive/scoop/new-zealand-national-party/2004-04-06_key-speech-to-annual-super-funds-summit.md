@@ -1,9 +1,12 @@
 ---
 slug: key-speech-to-annual-super-funds-summit
-title: "Key - Speech to Annual Super Funds Summit"
-date: 2004-04-06
-source-url: https://www.scoop.co.nz/stories/PA0404/S00103/key-speech-to-annual-super-funds-summit.htm
+title: Key - Speech to Annual Super Funds Summit
+date: 2004-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00103/key-speech-to-annual-super-funds-summit.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/06/key-speech-to-annual-super-funds-summit/index.html
+layout: layout.njk
 ---
 Key - Speech to Annual Super Funds Summit
 =========================================

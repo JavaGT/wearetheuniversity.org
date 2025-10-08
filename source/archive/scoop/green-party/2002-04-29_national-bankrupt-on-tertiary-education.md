@@ -1,9 +1,12 @@
 ---
 slug: national-bankrupt-on-tertiary-education
-title: "National Bankrupt On Tertiary Education"
-date: 2002-04-29
-source-url: https://www.scoop.co.nz/stories/PA0204/S00424/national-bankrupt-on-tertiary-education.htm
+title: National Bankrupt On Tertiary Education
+date: 2002-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00424/national-bankrupt-on-tertiary-education.htm
 author: green-party
+permalink: /archive/2002/04/29/national-bankrupt-on-tertiary-education/index.html
+layout: layout.njk
 ---
 National Bankrupt On Tertiary Education
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: speedy-victory-for-st-johns-at-waikato-physics-day
-title: "Speedy victory for St John’s at Waikato physics day"
-date: 2014-06-16
-source-url: https://www.scoop.co.nz/stories/SC1406/S00045/speedy-victory-for-st-johns-at-waikato-physics-day.htm
+title: Speedy victory for St John’s at Waikato physics day
+date: 2014-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00045/speedy-victory-for-st-johns-at-waikato-physics-day.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/16/speedy-victory-for-st-johns-at-waikato-physics-day/index.html
+layout: layout.njk
 ---
 Speedy victory for St John’s at Waikato physics day
 ===================================================

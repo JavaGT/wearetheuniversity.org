@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-17
-title: "AUS Tertiary Update Vol 3 No 17"
-date: 2000-06-23
-source-url: https://www.scoop.co.nz/stories/ED0006/S00035/aus-tertiary-update-vol-3-no-17.htm
+title: AUS Tertiary Update Vol 3 No 17
+date: 2000-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00035/aus-tertiary-update-vol-3-no-17.htm
 author: association-of-university-staff
+permalink: /archive/2000/06/23/aus-tertiary-update-vol-3-no-17/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 3 No 17
 ===============================

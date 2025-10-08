@@ -1,9 +1,13 @@
 ---
 slug: liberty-belle-closing-the-schools-of-new-zealand
-title: "Liberty Belle: Closing The Schools Of New Zealand"
-date: 2003-10-17
-source-url: https://www.scoop.co.nz/stories/PA0310/S00418/liberty-belle-closing-the-schools-of-new-zealand.htm
+title: 'Liberty Belle: Closing The Schools Of New Zealand'
+date: 2003-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00418/liberty-belle-closing-the-schools-of-new-zealand.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2003/10/17/liberty-belle-closing-the-schools-of-new-zealand/index.html
+layout: layout.njk
 ---
 Liberty Belle: Closing The Schools Of New Zealand
 =================================================

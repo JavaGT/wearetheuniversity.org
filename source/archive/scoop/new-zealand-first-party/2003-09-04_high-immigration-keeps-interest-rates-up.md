@@ -1,9 +1,12 @@
 ---
 slug: high-immigration-keeps-interest-rates-up
-title: "High Immigration Keeps Interest Rates Up"
-date: 2003-09-04
-source-url: https://www.scoop.co.nz/stories/PA0309/S00069/high-immigration-keeps-interest-rates-up.htm
+title: High Immigration Keeps Interest Rates Up
+date: 2003-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00069/high-immigration-keeps-interest-rates-up.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/04/high-immigration-keeps-interest-rates-up/index.html
+layout: layout.njk
 ---
 High Immigration Keeps Interest Rates Up
 ========================================

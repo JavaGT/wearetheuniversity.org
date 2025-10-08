@@ -1,9 +1,12 @@
 ---
 slug: kiwi-start-up-bowls-the-australians-over
-title: "Kiwi start-up bowls the Australians over"
-date: 2019-02-28
-source-url: https://www.scoop.co.nz/stories/BU1902/S00780/kiwi-start-up-bowls-the-australians-over.htm
+title: Kiwi start-up bowls the Australians over
+date: 2019-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1902/S00780/kiwi-start-up-bowls-the-australians-over.htm
 author: lincoln-university
+permalink: /archive/2019/02/28/kiwi-start-up-bowls-the-australians-over/index.html
+layout: layout.njk
 ---
 Kiwi start-up bowls the Australians over
 ========================================

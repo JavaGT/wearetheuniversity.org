@@ -1,9 +1,12 @@
 ---
 slug: police-recruitment-campaign-falters
-title: "Police recruitment campaign falters"
-date: 2007-05-21
-source-url: https://www.scoop.co.nz/stories/PA0705/S00549/police-recruitment-campaign-falters.htm
+title: Police recruitment campaign falters
+date: 2007-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00549/police-recruitment-campaign-falters.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/21/police-recruitment-campaign-falters/index.html
+layout: layout.njk
 ---
 Police recruitment campaign falters
 ===================================

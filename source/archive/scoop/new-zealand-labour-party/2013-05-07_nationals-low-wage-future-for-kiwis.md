@@ -1,9 +1,12 @@
 ---
 slug: nationals-low-wage-future-for-kiwis
-title: "National’s low wage future for Kiwis"
-date: 2013-05-07
-source-url: https://www.scoop.co.nz/stories/PA1305/S00086/nationals-low-wage-future-for-kiwis.htm
+title: National’s low wage future for Kiwis
+date: 2013-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00086/nationals-low-wage-future-for-kiwis.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/07/nationals-low-wage-future-for-kiwis/index.html
+layout: layout.njk
 ---
 National’s low wage future for Kiwis
 ====================================

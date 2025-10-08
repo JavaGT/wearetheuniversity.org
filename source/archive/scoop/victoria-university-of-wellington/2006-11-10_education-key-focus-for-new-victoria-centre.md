@@ -1,9 +1,12 @@
 ---
 slug: education-key-focus-for-new-victoria-centre
-title: "Education key focus for new Victoria centre"
-date: 2006-11-10
-source-url: https://www.scoop.co.nz/stories/ED0611/S00046/education-key-focus-for-new-victoria-centre.htm
+title: Education key focus for new Victoria centre
+date: 2006-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00046/education-key-focus-for-new-victoria-centre.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/10/education-key-focus-for-new-victoria-centre/index.html
+layout: layout.njk
 ---
 Education key focus for new Victoria centre
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-royal-nz-navy-sign-agreement
-title: "Victoria University-Royal NZ Navy Sign Agreement"
-date: 2002-09-18
-source-url: https://www.scoop.co.nz/stories/ED0209/S00031/victoria-university-royal-nz-navy-sign-agreement.htm
+title: Victoria University-Royal NZ Navy Sign Agreement
+date: 2002-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00031/victoria-university-royal-nz-navy-sign-agreement.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2002/09/18/victoria-university-royal-nz-navy-sign-agreement/index.html
+layout: layout.njk
 ---
 Victoria University-Royal NZ Navy Sign Agreement
 ================================================

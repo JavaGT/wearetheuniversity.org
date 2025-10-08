@@ -1,9 +1,13 @@
 ---
 slug: roger-douglas-a-high-growth-low-tax-welfare-state
-title: "Roger Douglas: A High Growth-Low Tax Welfare State"
-date: 2009-02-11
-source-url: https://www.scoop.co.nz/stories/PA0902/S00135/roger-douglas-a-high-growth-low-tax-welfare-state.htm
+title: 'Roger Douglas: A High Growth-Low Tax Welfare State'
+date: 2009-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00135/roger-douglas-a-high-growth-low-tax-welfare-state.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2009/02/11/roger-douglas-a-high-growth-low-tax-welfare-state/index.html
+layout: layout.njk
 ---
 Roger Douglas: A High Growth-Low Tax Welfare State
 ==================================================

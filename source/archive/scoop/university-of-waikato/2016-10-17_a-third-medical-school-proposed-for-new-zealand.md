@@ -1,9 +1,12 @@
 ---
 slug: a-third-medical-school-proposed-for-new-zealand
-title: "A third medical school proposed for New Zealand"
-date: 2016-10-17
-source-url: https://www.scoop.co.nz/stories/ED1610/S00058/a-third-medical-school-proposed-for-new-zealand.htm
+title: A third medical school proposed for New Zealand
+date: 2016-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00058/a-third-medical-school-proposed-for-new-zealand.htm
 author: university-of-waikato
+permalink: /archive/2016/10/17/a-third-medical-school-proposed-for-new-zealand/index.html
+layout: layout.njk
 ---
 A third medical school proposed for New Zealand
 ===============================================

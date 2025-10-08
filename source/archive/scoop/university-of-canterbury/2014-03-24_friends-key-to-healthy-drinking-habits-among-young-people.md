@@ -1,9 +1,13 @@
 ---
 slug: friends-key-to-healthy-drinking-habits-among-young-people
-title: "Friends key to healthy drinking habits among young people"
-date: 2014-03-24
-source-url: https://www.scoop.co.nz/stories/ED1403/S00139/friends-key-to-healthy-drinking-habits-among-young-people.htm
+title: Friends key to healthy drinking habits among young people
+date: 2014-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00139/friends-key-to-healthy-drinking-habits-among-young-people.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/24/friends-key-to-healthy-drinking-habits-among-young-people/index.html
+layout: layout.njk
 ---
 Friends key to healthy drinking habits among young people
 =========================================================

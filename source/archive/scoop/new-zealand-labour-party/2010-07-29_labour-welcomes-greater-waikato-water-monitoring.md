@@ -1,9 +1,13 @@
 ---
 slug: labour-welcomes-greater-waikato-water-monitoring
-title: "Labour welcomes greater Waikato water monitoring"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/PA1007/S00473/labour-welcomes-greater-waikato-water-monitoring.htm
+title: Labour welcomes greater Waikato water monitoring
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00473/labour-welcomes-greater-waikato-water-monitoring.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/07/29/labour-welcomes-greater-waikato-water-monitoring/index.html
+layout: layout.njk
 ---
 Labour welcomes greater Waikato water monitoring
 ================================================

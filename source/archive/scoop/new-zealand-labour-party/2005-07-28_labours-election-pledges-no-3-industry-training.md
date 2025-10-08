@@ -1,9 +1,12 @@
 ---
 slug: labours-election-pledges-no-3-industry-training
-title: "Labour's Election Pledges No 3: Industry Training"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/PA0507/S00612/labours-election-pledges-no-3-industry-training.htm
+title: 'Labour''s Election Pledges No 3: Industry Training'
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00612/labours-election-pledges-no-3-industry-training.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/07/28/labours-election-pledges-no-3-industry-training/index.html
+layout: layout.njk
 ---
 Labour's Election Pledges No 3: Industry Training
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: bedrock-breakthrough-in-antarctica
-title: "Bedrock breakthrough in Antarctica"
-date: 2012-12-21
-source-url: https://www.scoop.co.nz/stories/SC1212/S00044/bedrock-breakthrough-in-antarctica.htm
+title: Bedrock breakthrough in Antarctica
+date: 2012-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00044/bedrock-breakthrough-in-antarctica.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/12/21/bedrock-breakthrough-in-antarctica/index.html
+layout: layout.njk
 ---
 Bedrock breakthrough in Antarctica
 ==================================

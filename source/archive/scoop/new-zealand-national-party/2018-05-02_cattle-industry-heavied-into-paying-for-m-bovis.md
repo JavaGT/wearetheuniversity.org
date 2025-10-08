@@ -1,9 +1,12 @@
 ---
 slug: cattle-industry-heavied-into-paying-for-m-bovis
-title: "Cattle industry heavied into paying for M-Bovis"
-date: 2018-05-02
-source-url: https://www.scoop.co.nz/stories/PA1805/S00023/cattle-industry-heavied-into-paying-for-m-bovis.htm
+title: Cattle industry heavied into paying for M-Bovis
+date: 2018-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00023/cattle-industry-heavied-into-paying-for-m-bovis.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/02/cattle-industry-heavied-into-paying-for-m-bovis/index.html
+layout: layout.njk
 ---
 Cattle industry heavied into paying for M-Bovis
 ===============================================

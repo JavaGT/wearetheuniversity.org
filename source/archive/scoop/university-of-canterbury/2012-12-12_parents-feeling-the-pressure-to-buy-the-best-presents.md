@@ -1,9 +1,13 @@
 ---
 slug: parents-feeling-the-pressure-to-buy-the-best-presents
-title: "Parents feeling the pressure to buy the best presents"
-date: 2012-12-12
-source-url: https://www.scoop.co.nz/stories/CU1212/S00172/parents-feeling-the-pressure-to-buy-the-best-presents.htm
+title: Parents feeling the pressure to buy the best presents
+date: 2012-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1212/S00172/parents-feeling-the-pressure-to-buy-the-best-presents.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/12/parents-feeling-the-pressure-to-buy-the-best-presents/index.html
+layout: layout.njk
 ---
 Parents feeling the pressure to buy the best presents
 =====================================================

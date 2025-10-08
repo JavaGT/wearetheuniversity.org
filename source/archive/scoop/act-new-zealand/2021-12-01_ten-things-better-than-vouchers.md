@@ -1,9 +1,12 @@
 ---
 slug: ten-things-better-than-vouchers
-title: "Ten Things Better Than Vouchers"
-date: 2021-12-01
-source-url: https://www.scoop.co.nz/stories/PA2112/S00010/ten-things-better-than-vouchers.htm
+title: Ten Things Better Than Vouchers
+date: 2021-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00010/ten-things-better-than-vouchers.htm
 author: act-new-zealand
+permalink: /archive/2021/12/01/ten-things-better-than-vouchers/index.html
+layout: layout.njk
 ---
 Ten Things Better Than Vouchers
 ===============================

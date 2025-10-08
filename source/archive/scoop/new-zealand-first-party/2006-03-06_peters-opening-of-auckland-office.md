@@ -1,9 +1,12 @@
 ---
 slug: peters-opening-of-auckland-office
-title: "Peters: Opening Of Auckland Office"
-date: 2006-03-06
-source-url: https://www.scoop.co.nz/stories/PA0603/S00076/peters-opening-of-auckland-office.htm
+title: 'Peters: Opening Of Auckland Office'
+date: 2006-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00076/peters-opening-of-auckland-office.htm
 author: new-zealand-first-party
+permalink: /archive/2006/03/06/peters-opening-of-auckland-office/index.html
+layout: layout.njk
 ---
 Peters: Opening Of Auckland Office
 ==================================

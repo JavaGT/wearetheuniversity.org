@@ -1,9 +1,12 @@
 ---
 slug: funding-cuts-cost-regions-vital-services
-title: "Funding cuts cost regions vital services"
-date: 2015-04-08
-source-url: https://www.scoop.co.nz/stories/PA1504/S00095/funding-cuts-cost-regions-vital-services.htm
+title: Funding cuts cost regions vital services
+date: 2015-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00095/funding-cuts-cost-regions-vital-services.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/04/08/funding-cuts-cost-regions-vital-services/index.html
+layout: layout.njk
 ---
 Funding cuts cost regions vital services
 ========================================

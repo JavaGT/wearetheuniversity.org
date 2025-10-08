@@ -1,9 +1,12 @@
 ---
 slug: young-kiwi-talent-should-be-encouraged-act
-title: "Young Kiwi Talent Should Be Encouraged - ACT"
-date: 1999-09-27
-source-url: https://www.scoop.co.nz/stories/PA9909/S00561/young-kiwi-talent-should-be-encouraged-act.htm
+title: Young Kiwi Talent Should Be Encouraged - ACT
+date: 1999-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00561/young-kiwi-talent-should-be-encouraged-act.htm
 author: act-new-zealand
+permalink: /archive/1999/09/27/young-kiwi-talent-should-be-encouraged-act/index.html
+layout: layout.njk
 ---
 Young Kiwi Talent Should Be Encouraged - ACT
 ============================================

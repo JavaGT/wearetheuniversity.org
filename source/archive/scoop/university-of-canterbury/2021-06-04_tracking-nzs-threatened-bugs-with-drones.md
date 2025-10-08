@@ -1,9 +1,12 @@
 ---
 slug: tracking-nzs-threatened-bugs-with-drones
-title: "Tracking NZ’s Threatened Bugs With Drones"
-date: 2021-06-04
-source-url: https://www.scoop.co.nz/stories/SC2106/S00011/tracking-nzs-threatened-bugs-with-drones.htm
+title: Tracking NZ’s Threatened Bugs With Drones
+date: 2021-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2106/S00011/tracking-nzs-threatened-bugs-with-drones.htm
 author: university-of-canterbury
+permalink: /archive/2021/06/04/tracking-nzs-threatened-bugs-with-drones/index.html
+layout: layout.njk
 ---
 Tracking NZ’s Threatened Bugs With Drones
 =========================================

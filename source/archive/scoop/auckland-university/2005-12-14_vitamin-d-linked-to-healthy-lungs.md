@@ -1,9 +1,12 @@
 ---
 slug: vitamin-d-linked-to-healthy-lungs
-title: "Vitamin D linked to Healthy Lungs"
-date: 2005-12-14
-source-url: https://www.scoop.co.nz/stories/SC0512/S00027/vitamin-d-linked-to-healthy-lungs.htm
+title: Vitamin D linked to Healthy Lungs
+date: 2005-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0512/S00027/vitamin-d-linked-to-healthy-lungs.htm
 author: auckland-university
+permalink: /archive/2005/12/14/vitamin-d-linked-to-healthy-lungs/index.html
+layout: layout.njk
 ---
 Vitamin D linked to Healthy Lungs
 =================================

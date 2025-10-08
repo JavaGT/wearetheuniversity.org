@@ -1,9 +1,15 @@
 ---
-slug: salient-backs-kororā-for-bird-of-the-year-a-campaign-to-support-wellingtons-little-blue-penguins
-title: "Salient Backs Kororā For Bird Of The Year: A Campaign To Support Wellington’s Little Blue Penguins"
-date: 2024-09-15
-source-url: https://www.scoop.co.nz/stories/CU2409/S00057/salient-backs-korora-for-bird-of-the-year-a-campaign-to-support-wellingtons-little-blue-penguins.htm
+slug: >-
+  salient-backs-kororā-for-bird-of-the-year-a-campaign-to-support-wellingtons-little-blue-penguins
+title: >-
+  Salient Backs Kororā For Bird Of The Year: A Campaign To Support Wellington’s
+  Little Blue Penguins
+date: 2024-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2409/S00057/salient-backs-korora-for-bird-of-the-year-a-campaign-to-support-wellingtons-little-blue-penguins.htm
 author: salient
+permalink: /archive/2024/09/15/salient-backs-koror/index.html
+layout: layout.njk
 ---
 Salient Backs Kororā For Bird Of The Year: A Campaign To Support Wellington’s Little Blue Penguins
 ==================================================================================================

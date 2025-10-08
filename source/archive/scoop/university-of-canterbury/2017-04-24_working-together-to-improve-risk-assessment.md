@@ -1,9 +1,12 @@
 ---
 slug: working-together-to-improve-risk-assessment
-title: "Working together to improve risk assessment"
-date: 2017-04-24
-source-url: https://www.scoop.co.nz/stories/PO1704/S00262/working-together-to-improve-risk-assessment.htm
+title: Working together to improve risk assessment
+date: 2017-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00262/working-together-to-improve-risk-assessment.htm
 author: university-of-canterbury
+permalink: /archive/2017/04/24/working-together-to-improve-risk-assessment/index.html
+layout: layout.njk
 ---
 Working together to improve risk assessment
 ===========================================

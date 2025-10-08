@@ -1,9 +1,13 @@
 ---
 slug: health-boards-must-pull-managers-to-prevent-strike
-title: "Health Boards must pull managers to prevent strike"
-date: 2002-10-09
-source-url: https://www.scoop.co.nz/stories/PO0210/S00057/health-boards-must-pull-managers-to-prevent-strike.htm
+title: Health Boards must pull managers to prevent strike
+date: 2002-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0210/S00057/health-boards-must-pull-managers-to-prevent-strike.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2002/10/09/health-boards-must-pull-managers-to-prevent-strike/index.html
+layout: layout.njk
 ---
 Health Boards must pull managers to prevent strike
 ==================================================

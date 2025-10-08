@@ -1,9 +1,12 @@
 ---
 slug: green-tea-and-endometrial-cancer-research-at-uc
-title: "Green tea and endometrial cancer research at UC"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/SC1210/S00035/green-tea-and-endometrial-cancer-research-at-uc.htm
+title: Green tea and endometrial cancer research at UC
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00035/green-tea-and-endometrial-cancer-research-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/17/green-tea-and-endometrial-cancer-research-at-uc/index.html
+layout: layout.njk
 ---
 Green tea and endometrial cancer research at UC
 ===============================================

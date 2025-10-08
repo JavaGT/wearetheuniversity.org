@@ -1,9 +1,13 @@
 ---
 slug: otago-academic-wins-supreme-teaching-excellence-award
-title: "Otago academic wins supreme teaching excellence award"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/ED1508/S00042/otago-academic-wins-supreme-teaching-excellence-award.htm
+title: Otago academic wins supreme teaching excellence award
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00042/otago-academic-wins-supreme-teaching-excellence-award.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/08/12/otago-academic-wins-supreme-teaching-excellence-award/index.html
+layout: layout.njk
 ---
 Otago academic wins supreme teaching excellence award
 =====================================================

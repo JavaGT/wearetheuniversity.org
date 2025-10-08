@@ -1,9 +1,11 @@
 ---
 slug: wages-still-on-the-rise
-title: "Wages Still on the Rise"
-date: 2007-07-20
+title: Wages Still on the Rise
+date: 2007-07-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0707/S00206/wages-still-on-the-rise.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/07/20/wages-still-on-the-rise/index.html
+layout: layout.njk
 ---
 Wages Still on the Rise
 =======================

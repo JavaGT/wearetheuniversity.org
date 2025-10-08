@@ -1,9 +1,13 @@
 ---
 slug: uc-spin-out-company-named-one-of-deloittes-rising-stars
-title: "UC spin out company named one of Deloitte’s rising stars"
-date: 2012-10-30
-source-url: https://www.scoop.co.nz/stories/BU1210/S01145/uc-spin-out-company-named-one-of-deloittes-rising-stars.htm
+title: UC spin out company named one of Deloitte’s rising stars
+date: 2012-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1210/S01145/uc-spin-out-company-named-one-of-deloittes-rising-stars.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/30/uc-spin-out-company-named-one-of-deloittes-rising-stars/index.html
+layout: layout.njk
 ---
 UC spin out company named one of Deloitte’s rising stars
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: adult-learners-hard-work-recognised
-title: "Adult learners’ hard work recognised"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/ED1109/S00103/adult-learners-hard-work-recognised.htm
+title: Adult learners’ hard work recognised
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00103/adult-learners-hard-work-recognised.htm
 author: university-of-waikato
+permalink: /archive/2011/09/23/adult-learners-hard-work-recognised/index.html
+layout: layout.njk
 ---
 Adult learners’ hard work recognised
 ====================================

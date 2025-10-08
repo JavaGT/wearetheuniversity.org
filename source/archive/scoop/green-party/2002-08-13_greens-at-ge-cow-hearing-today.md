@@ -1,9 +1,12 @@
 ---
 slug: greens-at-ge-cow-hearing-today
-title: "Greens At GE Cow Hearing Today"
-date: 2002-08-13
-source-url: https://www.scoop.co.nz/stories/PA0208/S00089/greens-at-ge-cow-hearing-today.htm
+title: Greens At GE Cow Hearing Today
+date: 2002-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00089/greens-at-ge-cow-hearing-today.htm
 author: green-party
+permalink: /archive/2002/08/13/greens-at-ge-cow-hearing-today/index.html
+layout: layout.njk
 ---
 Greens At GE Cow Hearing Today
 ==============================

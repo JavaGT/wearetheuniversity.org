@@ -1,9 +1,13 @@
 ---
 slug: schools-play-vital-role-in-childrens-recovery-and-health
-title: "Schools play vital role in children’s recovery and health"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/ED1212/S00038/schools-play-vital-role-in-childrens-recovery-and-health.htm
+title: Schools play vital role in children’s recovery and health
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00038/schools-play-vital-role-in-childrens-recovery-and-health.htm
 author: nzei
+permalink: >-
+  /archive/2012/12/06/schools-play-vital-role-in-childrens-recovery-and-health/index.html
+layout: layout.njk
 ---
 Schools play vital role in children’s recovery and health
 =========================================================

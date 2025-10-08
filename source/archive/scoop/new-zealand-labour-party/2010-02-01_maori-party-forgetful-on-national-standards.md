@@ -1,9 +1,12 @@
 ---
 slug: maori-party-forgetful-on-national-standards
-title: "Maori Party forgetful on National Standards"
-date: 2010-02-01
-source-url: https://www.scoop.co.nz/stories/PA1002/S00015/maori-party-forgetful-on-national-standards.htm
+title: Maori Party forgetful on National Standards
+date: 2010-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00015/maori-party-forgetful-on-national-standards.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/01/maori-party-forgetful-on-national-standards/index.html
+layout: layout.njk
 ---
 Maori Party forgetful on National Standards
 ===========================================

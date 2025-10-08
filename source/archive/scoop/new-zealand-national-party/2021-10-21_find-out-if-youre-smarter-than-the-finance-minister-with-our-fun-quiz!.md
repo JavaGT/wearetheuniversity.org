@@ -1,9 +1,13 @@
 ---
 slug: find-out-if-youre-smarter-than-the-finance-minister-with-our-fun-quiz!
-title: "Find Out If You’re Smarter Than The Finance Minister With Our Fun Quiz!"
-date: 2021-10-21
-source-url: https://www.scoop.co.nz/stories/PA2110/S00214/find-out-if-youre-smarter-than-the-finance-minister-with-our-fun-quiz.htm
+title: Find Out If You’re Smarter Than The Finance Minister With Our Fun Quiz!
+date: 2021-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00214/find-out-if-youre-smarter-than-the-finance-minister-with-our-fun-quiz.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/21/find-out-if-youre-smarter-than-the-finance-minister-with-our-fun-quiz/index.html
+layout: layout.njk
 ---
 Find Out If You’re Smarter Than The Finance Minister With Our Fun Quiz!
 =======================================================================

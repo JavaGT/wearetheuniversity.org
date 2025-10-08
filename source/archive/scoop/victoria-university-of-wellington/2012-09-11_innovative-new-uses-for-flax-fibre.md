@@ -1,9 +1,12 @@
 ---
 slug: innovative-new-uses-for-flax-fibre
-title: "Innovative new uses for flax fibre"
-date: 2012-09-11
-source-url: https://www.scoop.co.nz/stories/ED1209/S00073/innovative-new-uses-for-flax-fibre.htm
+title: Innovative new uses for flax fibre
+date: 2012-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00073/innovative-new-uses-for-flax-fibre.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/09/11/innovative-new-uses-for-flax-fibre/index.html
+layout: layout.njk
 ---
 Innovative new uses for flax fibre
 ==================================

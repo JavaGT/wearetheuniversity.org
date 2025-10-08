@@ -1,9 +1,12 @@
 ---
 slug: staff-and-students-designs-best-for-2009
-title: "Staff and students designs BeST  for 2009"
-date: 2009-10-19
-source-url: https://www.scoop.co.nz/stories/ED0910/S00076/staff-and-students-designs-best-for-2009.htm
+title: Staff and students designs BeST  for 2009
+date: 2009-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00076/staff-and-students-designs-best-for-2009.htm
 author: massey-university
+permalink: /archive/2009/10/19/staff-and-students-designs-best-for-2009/index.html
+layout: layout.njk
 ---
 Staff and students designs BeST for 2009
 ========================================

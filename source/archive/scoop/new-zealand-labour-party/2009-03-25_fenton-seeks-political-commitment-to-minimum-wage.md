@@ -1,9 +1,13 @@
 ---
 slug: fenton-seeks-political-commitment-to-minimum-wage
-title: "Fenton seeks political commitment to minimum wage"
-date: 2009-03-25
-source-url: https://www.scoop.co.nz/stories/PA0903/S00352/fenton-seeks-political-commitment-to-minimum-wage.htm
+title: Fenton seeks political commitment to minimum wage
+date: 2009-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00352/fenton-seeks-political-commitment-to-minimum-wage.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/03/25/fenton-seeks-political-commitment-to-minimum-wage/index.html
+layout: layout.njk
 ---
 Fenton seeks political commitment to minimum wage
 =================================================

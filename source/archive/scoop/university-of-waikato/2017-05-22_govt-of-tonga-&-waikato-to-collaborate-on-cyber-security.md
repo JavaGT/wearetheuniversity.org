@@ -1,9 +1,12 @@
 ---
 slug: govt-of-tonga-&-waikato-to-collaborate-on-cyber-security
-title: "Gov't of Tonga & Waikato to collaborate on cyber security"
-date: 2017-05-22
-source-url: https://www.scoop.co.nz/stories/PO1705/S00290/govt-of-tonga-waikato-to-collaborate-on-cyber-security.htm
+title: Gov't of Tonga & Waikato to collaborate on cyber security
+date: 2017-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00290/govt-of-tonga-waikato-to-collaborate-on-cyber-security.htm
 author: university-of-waikato
+permalink: /archive/2017/05/22/govt-of-tonga-/index.html
+layout: layout.njk
 ---
 Gov't of Tonga & Waikato to collaborate on cyber security
 =========================================================

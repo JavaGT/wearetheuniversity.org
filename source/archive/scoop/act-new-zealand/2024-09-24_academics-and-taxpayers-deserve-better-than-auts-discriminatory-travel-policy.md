@@ -1,9 +1,13 @@
 ---
 slug: academics-and-taxpayers-deserve-better-than-auts-discriminatory-travel-policy
-title: "Academics And Taxpayers Deserve Better Than AUT’s Discriminatory Travel Policy"
-date: 2024-09-24
-source-url: https://www.scoop.co.nz/stories/PA2409/S00218/academics-and-taxpayers-deserve-better-than-auts-discriminatory-travel-policy.htm
+title: Academics And Taxpayers Deserve Better Than AUT’s Discriminatory Travel Policy
+date: 2024-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00218/academics-and-taxpayers-deserve-better-than-auts-discriminatory-travel-policy.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/09/24/academics-and-taxpayers-deserve-better-than-auts-discriminatory-travel-policy/index.html
+layout: layout.njk
 ---
 Academics And Taxpayers Deserve Better Than AUT’s Discriminatory Travel Policy
 ==============================================================================

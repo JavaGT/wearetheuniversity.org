@@ -1,9 +1,13 @@
 ---
 slug: relationship-between-birth-weight-and-socio-economic-status
-title: "Relationship between birth weight and socio-economic status"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/SC1504/S00063/relationship-between-birth-weight-and-socio-economic-status.htm
+title: Relationship between birth weight and socio-economic status
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00063/relationship-between-birth-weight-and-socio-economic-status.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/22/relationship-between-birth-weight-and-socio-economic-status/index.html
+layout: layout.njk
 ---
 Relationship between birth weight and socio-economic status
 ===========================================================

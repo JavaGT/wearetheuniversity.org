@@ -1,9 +1,12 @@
 ---
 slug: pōwhiri-ceremony-marks-the-beginning-of-the-inaugural-cpem
-title: "Pōwhiri Ceremony Marks The Beginning Of The Inaugural CPEM"
-date: 2023-03-21
-source-url: https://www.scoop.co.nz/stories/ED2303/S00030/powhiri-ceremony-marks-the-beginning-of-the-inaugural-cpem.htm
+title: Pōwhiri Ceremony Marks The Beginning Of The Inaugural CPEM
+date: 2023-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00030/powhiri-ceremony-marks-the-beginning-of-the-inaugural-cpem.htm
 author: university-of-the-south-pacific
+permalink: /archive/2023/03/21/p/index.html
+layout: layout.njk
 ---
 Pōwhiri Ceremony Marks The Beginning Of The Inaugural CPEM
 ==========================================================

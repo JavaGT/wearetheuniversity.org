@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-visits-auckland
-title: "Victoria University visits Auckland"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/ED0607/S00048/victoria-university-visits-auckland.htm
+title: Victoria University visits Auckland
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00048/victoria-university-visits-auckland.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/07/17/victoria-university-visits-auckland/index.html
+layout: layout.njk
 ---
 Victoria University visits Auckland
 ===================================

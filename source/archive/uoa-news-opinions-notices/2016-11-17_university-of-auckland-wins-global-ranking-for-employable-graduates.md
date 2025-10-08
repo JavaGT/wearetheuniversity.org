@@ -1,8 +1,12 @@
 ---
 slug: university-of-auckland-wins-global-ranking-for-employable-graduates
-title: "University of Auckland wins global ranking for employable graduates"
-date: 2016-11-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/university-of-auckland-wins-global-ranking-employable-graduates.html
+title: University of Auckland wins global ranking for employable graduates
+date: 2016-11-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/university-of-auckland-wins-global-ranking-employable-graduates.html
+permalink: >-
+  /archive/2016/11/17/university-of-auckland-wins-global-ranking-for-employable-graduates/index.html
+layout: layout.njk
 ---
 University of Auckland wins global ranking for employable graduates
 ===================================================================

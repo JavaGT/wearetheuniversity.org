@@ -1,9 +1,12 @@
 ---
 slug: maharey-must-explain-hip-hoppers-chill-out
-title: "Maharey must explain hip-hoppers 'chill out'"
-date: 2004-03-18
-source-url: https://www.scoop.co.nz/stories/PA0403/S00418/maharey-must-explain-hip-hoppers-chill-out.htm
+title: Maharey must explain hip-hoppers 'chill out'
+date: 2004-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00418/maharey-must-explain-hip-hoppers-chill-out.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/18/maharey-must-explain-hip-hoppers-chill-out/index.html
+layout: layout.njk
 ---
 Maharey must explain hip-hoppers 'chill out'
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-fix-education-underfunding
-title: "Government needs to fix education underfunding"
-date: 2016-03-15
-source-url: https://www.scoop.co.nz/stories/PO1603/S00235/government-needs-to-fix-education-underfunding.htm
+title: Government needs to fix education underfunding
+date: 2016-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00235/government-needs-to-fix-education-underfunding.htm
 author: nzei
+permalink: /archive/2016/03/15/government-needs-to-fix-education-underfunding/index.html
+layout: layout.njk
 ---
 Government needs to fix education underfunding
 ==============================================

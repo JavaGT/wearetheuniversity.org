@@ -1,9 +1,12 @@
 ---
 slug: national-library-culling-scandal-is-real-labour
-title: "National Library culling scandal is real - Labour"
-date: 1999-07-08
-source-url: https://www.scoop.co.nz/stories/PO9907/S00016/national-library-culling-scandal-is-real-labour.htm
+title: National Library culling scandal is real - Labour
+date: 1999-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9907/S00016/national-library-culling-scandal-is-real-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/08/national-library-culling-scandal-is-real-labour/index.html
+layout: layout.njk
 ---
 National Library culling scandal is real - Labour
 =================================================

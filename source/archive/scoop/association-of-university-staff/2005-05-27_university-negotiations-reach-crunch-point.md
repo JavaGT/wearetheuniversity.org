@@ -1,9 +1,12 @@
 ---
 slug: university-negotiations-reach-crunch-point
-title: "University negotiations reach crunch point"
-date: 2005-05-27
-source-url: https://www.scoop.co.nz/stories/ED0505/S00122/university-negotiations-reach-crunch-point.htm
+title: University negotiations reach crunch point
+date: 2005-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00122/university-negotiations-reach-crunch-point.htm
 author: association-of-university-staff
+permalink: /archive/2005/05/27/university-negotiations-reach-crunch-point/index.html
+layout: layout.njk
 ---
 University negotiations reach crunch point
 ==========================================

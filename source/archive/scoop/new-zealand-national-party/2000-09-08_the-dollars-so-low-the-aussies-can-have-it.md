@@ -1,9 +1,12 @@
 ---
 slug: the-dollars-so-low-the-aussies-can-have-it
-title: "The Dollar's So Low The Aussies Can Have It"
-date: 2000-09-08
-source-url: https://www.scoop.co.nz/stories/PA0009/S00129/the-dollars-so-low-the-aussies-can-have-it.htm
+title: The Dollar's So Low The Aussies Can Have It
+date: 2000-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00129/the-dollars-so-low-the-aussies-can-have-it.htm
 author: new-zealand-national-party
+permalink: /archive/2000/09/08/the-dollars-so-low-the-aussies-can-have-it/index.html
+layout: layout.njk
 ---
 The Dollar's So Low The Aussies Can Have It
 ===========================================

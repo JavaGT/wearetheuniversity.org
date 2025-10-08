@@ -1,9 +1,13 @@
 ---
 slug: seven-universities-in-nz-make-expanded-world-rankings
-title: "Seven Universities in NZ make Expanded World Rankings"
-date: 2015-10-01
-source-url: https://www.scoop.co.nz/stories/ED1510/S00003/seven-universities-in-nz-make-expanded-world-rankings.htm
+title: Seven Universities in NZ make Expanded World Rankings
+date: 2015-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00003/seven-universities-in-nz-make-expanded-world-rankings.htm
 author: the-times-higher-education
+permalink: >-
+  /archive/2015/10/01/seven-universities-in-nz-make-expanded-world-rankings/index.html
+layout: layout.njk
 ---
 Seven Universities in NZ make Expanded World Rankings
 =====================================================

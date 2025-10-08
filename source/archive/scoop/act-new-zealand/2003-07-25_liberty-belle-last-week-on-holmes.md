@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-last-week-on-holmes
-title: "Liberty Belle: Last Week On Holmes"
-date: 2003-07-25
-source-url: https://www.scoop.co.nz/stories/PA0307/S00473/liberty-belle-last-week-on-holmes.htm
+title: 'Liberty Belle: Last Week On Holmes'
+date: 2003-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00473/liberty-belle-last-week-on-holmes.htm
 author: act-new-zealand
+permalink: /archive/2003/07/25/liberty-belle-last-week-on-holmes/index.html
+layout: layout.njk
 ---
 Liberty Belle: Last Week On Holmes
 ==================================

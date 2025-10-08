@@ -1,9 +1,12 @@
 ---
 slug: shade-shortage-in-wellington-playgrounds
-title: "Shade shortage in Wellington playgrounds"
-date: 2018-01-09
-source-url: https://www.scoop.co.nz/stories/AK1801/S00167/shade-shortage-in-wellington-playgrounds.htm
+title: Shade shortage in Wellington playgrounds
+date: 2018-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1801/S00167/shade-shortage-in-wellington-playgrounds.htm
 author: university-of-otago
+permalink: /archive/2018/01/09/shade-shortage-in-wellington-playgrounds/index.html
+layout: layout.njk
 ---
 Shade shortage in Wellington playgrounds
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-short-changes-nzers-on-april-1
-title: "Govt short-changes NZers on April 1"
-date: 2000-04-01
-source-url: https://www.scoop.co.nz/stories/PA0004/S00006/govt-short-changes-nzers-on-april-1.htm
+title: Govt short-changes NZers on April 1
+date: 2000-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00006/govt-short-changes-nzers-on-april-1.htm
 author: new-zealand-national-party
+permalink: /archive/2000/04/01/govt-short-changes-nzers-on-april-1/index.html
+layout: layout.njk
 ---
 Govt short-changes NZers on April 1
 ===================================

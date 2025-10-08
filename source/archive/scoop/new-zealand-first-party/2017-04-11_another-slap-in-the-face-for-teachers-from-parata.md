@@ -1,9 +1,13 @@
 ---
 slug: another-slap-in-the-face-for-teachers-from-parata
-title: "Another Slap in the Face for Teachers From Parata"
-date: 2017-04-11
-source-url: https://www.scoop.co.nz/stories/PA1704/S00130/another-slap-in-the-face-for-teachers-from-parata.htm
+title: Another Slap in the Face for Teachers From Parata
+date: 2017-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00130/another-slap-in-the-face-for-teachers-from-parata.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/04/11/another-slap-in-the-face-for-teachers-from-parata/index.html
+layout: layout.njk
 ---
 Another Slap in the Face for Teachers From Parata
 =================================================

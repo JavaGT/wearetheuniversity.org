@@ -1,9 +1,13 @@
 ---
 slug: funding-for-chch-schools-and-centres-must-extend-into-2012
-title: "Funding for Chch schools and centres must extend into 2012"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/ED1107/S00022/funding-for-chch-schools-and-centres-must-extend-into-2012.htm
+title: Funding for Chch schools and centres must extend into 2012
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00022/funding-for-chch-schools-and-centres-must-extend-into-2012.htm
 author: nzei
+permalink: >-
+  /archive/2011/07/06/funding-for-chch-schools-and-centres-must-extend-into-2012/index.html
+layout: layout.njk
 ---
 Funding for Chch schools and centres must extend into 2012
 ==========================================================

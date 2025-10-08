@@ -1,9 +1,13 @@
 ---
 slug: ruth-dyson-vulnerable-women-the-victims-of-govt-inaction
-title: "Ruth Dyson: Vulnerable Women the Victims of Govt Inaction"
-date: 2016-01-31
-source-url: https://www.scoop.co.nz/stories/PA1601/S00179/ruth-dyson-vulnerable-women-the-victims-of-govt-inaction.htm
+title: 'Ruth Dyson: Vulnerable Women the Victims of Govt Inaction'
+date: 2016-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00179/ruth-dyson-vulnerable-women-the-victims-of-govt-inaction.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/01/31/ruth-dyson-vulnerable-women-the-victims-of-govt-inaction/index.html
+layout: layout.njk
 ---
 Ruth Dyson: Vulnerable Women the Victims of Govt Inaction
 =========================================================

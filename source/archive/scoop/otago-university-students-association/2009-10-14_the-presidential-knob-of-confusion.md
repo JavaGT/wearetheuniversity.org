@@ -1,9 +1,12 @@
 ---
 slug: the-presidential-knob-of-confusion
-title: "The Presidential Knob of Confusion"
-date: 2009-10-14
-source-url: https://www.scoop.co.nz/stories/ED0910/S00060/the-presidential-knob-of-confusion.htm
+title: The Presidential Knob of Confusion
+date: 2009-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00060/the-presidential-knob-of-confusion.htm
 author: otago-university-students-association
+permalink: /archive/2009/10/14/the-presidential-knob-of-confusion/index.html
+layout: layout.njk
 ---
 The Presidential Knob of Confusion
 ==================================

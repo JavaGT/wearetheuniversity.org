@@ -1,9 +1,11 @@
 ---
 slug: who-run-the-world-students
-title: "Who run the world? Students"
-date: 2016-04-15
+title: Who run the world? Students
+date: 2016-04-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1604/S00051/who-run-the-world-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2016/04/15/who-run-the-world-students/index.html
+layout: layout.njk
 ---
 Who run the world? Students
 ===========================

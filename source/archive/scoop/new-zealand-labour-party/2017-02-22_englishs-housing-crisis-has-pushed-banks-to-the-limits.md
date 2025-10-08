@@ -1,9 +1,13 @@
 ---
 slug: englishs-housing-crisis-has-pushed-banks-to-the-limits
-title: "English’s housing crisis has pushed banks to the limits"
-date: 2017-02-22
-source-url: https://www.scoop.co.nz/stories/PA1702/S00304/englishs-housing-crisis-has-pushed-banks-to-the-limits.htm
+title: English’s housing crisis has pushed banks to the limits
+date: 2017-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00304/englishs-housing-crisis-has-pushed-banks-to-the-limits.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/02/22/englishs-housing-crisis-has-pushed-banks-to-the-limits/index.html
+layout: layout.njk
 ---
 English’s housing crisis has pushed banks to the limits
 =======================================================

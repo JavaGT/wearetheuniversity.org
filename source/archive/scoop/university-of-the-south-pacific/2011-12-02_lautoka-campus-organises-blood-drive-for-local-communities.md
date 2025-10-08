@@ -1,9 +1,13 @@
 ---
 slug: lautoka-campus-organises-blood-drive-for-local-communities
-title: "Lautoka Campus Organises Blood Drive For Local Communities"
-date: 2011-12-02
-source-url: https://www.scoop.co.nz/stories/WO1112/S00042/lautoka-campus-organises-blood-drive-for-local-communities.htm
+title: Lautoka Campus Organises Blood Drive For Local Communities
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1112/S00042/lautoka-campus-organises-blood-drive-for-local-communities.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2011/12/02/lautoka-campus-organises-blood-drive-for-local-communities/index.html
+layout: layout.njk
 ---
 Lautoka Campus Organises Blood Drive For Local Communities
 ==========================================================

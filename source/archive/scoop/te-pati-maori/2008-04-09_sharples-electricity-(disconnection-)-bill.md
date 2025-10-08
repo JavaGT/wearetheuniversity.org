@@ -1,9 +1,12 @@
 ---
 slug: sharples-electricity-(disconnection-)-bill
-title: "Sharples: Electricity (Disconnection...) Bill"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/PA0804/S00232/sharples-electricity-disconnection-bill.htm
+title: 'Sharples: Electricity (Disconnection...) Bill'
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00232/sharples-electricity-disconnection-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/04/09/sharples-electricity-/index.html
+layout: layout.njk
 ---
 Sharples: Electricity (Disconnection...) Bill
 =============================================

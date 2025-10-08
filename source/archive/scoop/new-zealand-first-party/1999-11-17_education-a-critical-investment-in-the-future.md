@@ -1,9 +1,12 @@
 ---
 slug: education-a-critical-investment-in-the-future
-title: "Education a Critical Investment in the Future"
-date: 1999-11-17
-source-url: https://www.scoop.co.nz/stories/PA9911/S00404/education-a-critical-investment-in-the-future.htm
+title: Education a Critical Investment in the Future
+date: 1999-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00404/education-a-critical-investment-in-the-future.htm
 author: new-zealand-first-party
+permalink: /archive/1999/11/17/education-a-critical-investment-in-the-future/index.html
+layout: layout.njk
 ---
 Education a Critical Investment in the Future
 =============================================

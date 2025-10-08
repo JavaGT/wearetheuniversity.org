@@ -1,9 +1,12 @@
 ---
 slug: submissions-called-on-tax-grab
-title: "Submissions Called On Tax Grab"
-date: 2001-05-17
-source-url: https://www.scoop.co.nz/stories/PA0105/S00359/submissions-called-on-tax-grab.htm
+title: Submissions Called On Tax Grab
+date: 2001-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00359/submissions-called-on-tax-grab.htm
 author: act-new-zealand
+permalink: /archive/2001/05/17/submissions-called-on-tax-grab/index.html
+layout: layout.njk
 ---
 Submissions Called On Tax Grab
 ==============================

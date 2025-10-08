@@ -1,9 +1,13 @@
 ---
 slug: uc-partners-with-local-farm-for-more-sustainable-milk
-title: "UC Partners With Local Farm For More Sustainable Milk"
-date: 2022-10-31
-source-url: https://www.scoop.co.nz/stories/AK2210/S00636/uc-partners-with-local-farm-for-more-sustainable-milk.htm
+title: UC Partners With Local Farm For More Sustainable Milk
+date: 2022-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2210/S00636/uc-partners-with-local-farm-for-more-sustainable-milk.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/10/31/uc-partners-with-local-farm-for-more-sustainable-milk/index.html
+layout: layout.njk
 ---
 UC Partners With Local Farm For More Sustainable Milk
 =====================================================

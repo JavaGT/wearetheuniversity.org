@@ -1,9 +1,12 @@
 ---
 slug: kids-in-space-study-where-do-our-children-go
-title: "Kids in Space Study: Where do our children go?"
-date: 2017-11-09
-source-url: https://www.scoop.co.nz/stories/CU1711/S00163/kids-in-space-study-where-do-our-children-go.htm
+title: 'Kids in Space Study: Where do our children go?'
+date: 2017-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1711/S00163/kids-in-space-study-where-do-our-children-go.htm
 author: university-of-otago
+permalink: /archive/2017/11/09/kids-in-space-study-where-do-our-children-go/index.html
+layout: layout.njk
 ---
 Kids in Space Study: Where do our children go?
 ==============================================

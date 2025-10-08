@@ -1,9 +1,12 @@
 ---
 slug: med-student-crisis-wake-up-call
-title: "Med student crisis wake-up call"
-date: 2015-05-29
-source-url: https://www.scoop.co.nz/stories/PO1505/S00392/med-student-crisis-wake-up-call.htm
+title: Med student crisis wake-up call
+date: 2015-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00392/med-student-crisis-wake-up-call.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/05/29/med-student-crisis-wake-up-call/index.html
+layout: layout.njk
 ---
 Med student crisis wake-up call
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: time-for-those-who-have-to-help-those-who-have-not
-title: "Time for those who ‘have’ to help those who ‘have not’"
-date: 2011-03-02
-source-url: https://www.scoop.co.nz/stories/PA1103/S00028/time-for-those-who-have-to-help-those-who-have-not.htm
+title: Time for those who ‘have’ to help those who ‘have not’
+date: 2011-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00028/time-for-those-who-have-to-help-those-who-have-not.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/03/02/time-for-those-who-have-to-help-those-who-have-not/index.html
+layout: layout.njk
 ---
 Time for those who ‘have’ to help those who ‘have not’
 ======================================================

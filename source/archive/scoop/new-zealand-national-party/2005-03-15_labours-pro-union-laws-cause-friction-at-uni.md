@@ -1,9 +1,12 @@
 ---
 slug: labours-pro-union-laws-cause-friction-at-uni
-title: "Labour’s pro-union laws cause friction at Uni"
-date: 2005-03-15
-source-url: https://www.scoop.co.nz/stories/PA0503/S00301/labours-pro-union-laws-cause-friction-at-uni.htm
+title: Labour’s pro-union laws cause friction at Uni
+date: 2005-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00301/labours-pro-union-laws-cause-friction-at-uni.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/15/labours-pro-union-laws-cause-friction-at-uni/index.html
+layout: layout.njk
 ---
 Labour’s pro-union laws cause friction at Uni
 =============================================

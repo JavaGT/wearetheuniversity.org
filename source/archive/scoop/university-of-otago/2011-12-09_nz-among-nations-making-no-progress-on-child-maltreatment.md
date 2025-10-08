@@ -1,9 +1,13 @@
 ---
 slug: nz-among-nations-making-no-progress-on-child-maltreatment
-title: "NZ Among Nations Making No Progress On Child Maltreatment"
-date: 2011-12-09
-source-url: https://www.scoop.co.nz/stories/NM1112/S00001/nz-among-nations-making-no-progress-on-child-maltreatment.htm
+title: NZ Among Nations Making No Progress On Child Maltreatment
+date: 2011-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/NM1112/S00001/nz-among-nations-making-no-progress-on-child-maltreatment.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/12/09/nz-among-nations-making-no-progress-on-child-maltreatment/index.html
+layout: layout.njk
 ---
 NZ Among Nations Making No Progress On Child Maltreatment
 =========================================================

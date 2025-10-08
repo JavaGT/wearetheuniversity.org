@@ -1,9 +1,13 @@
 ---
 slug: pm-should-support-tourism-over-basin-super-farms
-title: "PM should support tourism over Basin super farms"
-date: 2009-12-14
-source-url: https://www.scoop.co.nz/stories/PA0912/S00223/pm-should-support-tourism-over-basin-super-farms.htm
+title: PM should support tourism over Basin super farms
+date: 2009-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00223/pm-should-support-tourism-over-basin-super-farms.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/12/14/pm-should-support-tourism-over-basin-super-farms/index.html
+layout: layout.njk
 ---
 PM should support tourism over Basin super farms
 ================================================

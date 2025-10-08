@@ -1,9 +1,12 @@
 ---
 slug: greens-keen-to-tell-good-farm-stories
-title: "Greens keen to tell Good Farm Stories"
-date: 2009-11-26
-source-url: https://www.scoop.co.nz/stories/PA0911/S00403/greens-keen-to-tell-good-farm-stories.htm
+title: Greens keen to tell Good Farm Stories
+date: 2009-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00403/greens-keen-to-tell-good-farm-stories.htm
 author: green-party
+permalink: /archive/2009/11/26/greens-keen-to-tell-good-farm-stories/index.html
+layout: layout.njk
 ---
 Greens keen to tell Good Farm Stories
 =====================================

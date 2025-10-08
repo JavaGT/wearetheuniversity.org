@@ -1,9 +1,13 @@
 ---
 slug: otago-scientists-breakthrough-in-childhood-kidney-cancer
-title: "Otago scientists' breakthrough in childhood kidney cancer"
-date: 2018-07-03
-source-url: https://www.scoop.co.nz/stories/GE1807/S00007/otago-scientists-breakthrough-in-childhood-kidney-cancer.htm
+title: Otago scientists' breakthrough in childhood kidney cancer
+date: 2018-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00007/otago-scientists-breakthrough-in-childhood-kidney-cancer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/03/otago-scientists-breakthrough-in-childhood-kidney-cancer/index.html
+layout: layout.njk
 ---
 Otago scientists' breakthrough in childhood kidney cancer
 =========================================================

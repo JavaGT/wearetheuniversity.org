@@ -1,9 +1,12 @@
 ---
 slug: sex-in-prisons-concept-highly-offensive
-title: "Sex in prisons concept \"highly offensive\""
-date: 2000-05-25
-source-url: https://www.scoop.co.nz/stories/PA0005/S00534/sex-in-prisons-concept-highly-offensive.htm
+title: Sex in prisons concept "highly offensive"
+date: 2000-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00534/sex-in-prisons-concept-highly-offensive.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/25/sex-in-prisons-concept-highly-offensive/index.html
+layout: layout.njk
 ---
 Sex in prisons concept \"highly offensive"
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: competition-sparks-a-winning-change
-title: "Competition sparks a winning change"
-date: 2015-10-20
-source-url: https://www.scoop.co.nz/stories/AK1510/S00475/competition-sparks-a-winning-change.htm
+title: Competition sparks a winning change
+date: 2015-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1510/S00475/competition-sparks-a-winning-change.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/10/20/competition-sparks-a-winning-change/index.html
+layout: layout.njk
 ---
 Competition sparks a winning change
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: all-blacks-show-mental-toughness-in-winning-year
-title: "All Blacks show mental toughness in winning year"
-date: 2013-11-25
-source-url: https://www.scoop.co.nz/stories/ED1311/S00167/all-blacks-show-mental-toughness-in-winning-year.htm
+title: All Blacks show mental toughness in winning year
+date: 2013-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00167/all-blacks-show-mental-toughness-in-winning-year.htm
 author: massey-university
+permalink: >-
+  /archive/2013/11/25/all-blacks-show-mental-toughness-in-winning-year/index.html
+layout: layout.njk
 ---
 All Blacks show mental toughness in winning year
 ================================================

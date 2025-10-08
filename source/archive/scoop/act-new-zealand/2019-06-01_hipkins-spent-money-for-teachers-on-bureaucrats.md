@@ -1,9 +1,12 @@
 ---
 slug: hipkins-spent-money-for-teachers-on-bureaucrats
-title: "Hipkins spent money for teachers on bureaucrats"
-date: 2019-06-01
-source-url: https://www.scoop.co.nz/stories/PA1906/S00004/hipkins-spent-money-for-teachers-on-bureaucrats.htm
+title: Hipkins spent money for teachers on bureaucrats
+date: 2019-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00004/hipkins-spent-money-for-teachers-on-bureaucrats.htm
 author: act-new-zealand
+permalink: /archive/2019/06/01/hipkins-spent-money-for-teachers-on-bureaucrats/index.html
+layout: layout.njk
 ---
 Hipkins spent money for teachers on bureaucrats
 ===============================================

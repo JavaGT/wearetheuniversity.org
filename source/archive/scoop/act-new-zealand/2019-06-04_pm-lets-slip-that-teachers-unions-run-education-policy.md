@@ -1,9 +1,13 @@
 ---
 slug: pm-lets-slip-that-teachers-unions-run-education-policy
-title: "PM lets slip that teachers’ unions run education policy"
-date: 2019-06-04
-source-url: https://www.scoop.co.nz/stories/PA1906/S00024/pm-lets-slip-that-teachers-unions-run-education-policy.htm
+title: PM lets slip that teachers’ unions run education policy
+date: 2019-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00024/pm-lets-slip-that-teachers-unions-run-education-policy.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/06/04/pm-lets-slip-that-teachers-unions-run-education-policy/index.html
+layout: layout.njk
 ---
 PM lets slip that teachers’ unions run education policy
 =======================================================

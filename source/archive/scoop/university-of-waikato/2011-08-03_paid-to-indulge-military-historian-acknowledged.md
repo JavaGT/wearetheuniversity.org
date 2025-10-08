@@ -1,9 +1,12 @@
 ---
 slug: paid-to-indulge-military-historian-acknowledged
-title: "Paid to Indulge – military historian acknowledged"
-date: 2011-08-03
-source-url: https://www.scoop.co.nz/stories/CU1108/S00028/paid-to-indulge-military-historian-acknowledged.htm
+title: Paid to Indulge – military historian acknowledged
+date: 2011-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00028/paid-to-indulge-military-historian-acknowledged.htm
 author: university-of-waikato
+permalink: /archive/2011/08/03/paid-to-indulge-military-historian-acknowledged/index.html
+layout: layout.njk
 ---
 Paid to Indulge – military historian acknowledged
 =================================================

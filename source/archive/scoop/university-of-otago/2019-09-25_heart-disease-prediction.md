@@ -1,9 +1,11 @@
 ---
 slug: heart-disease-prediction
-title: "Heart Disease Prediction"
-date: 2019-09-25
+title: Heart Disease Prediction
+date: 2019-09-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1909/S00130/heart-disease-prediction.htm
 author: university-of-otago
+permalink: /archive/2019/09/25/heart-disease-prediction/index.html
+layout: layout.njk
 ---
 Heart Disease Prediction
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: campbell-live-demise-a-sad-day
-title: "Campbell Live demise ‘a sad day’"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PO1505/S00292/campbell-live-demise-a-sad-day.htm
+title: Campbell Live demise ‘a sad day’
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00292/campbell-live-demise-a-sad-day.htm
 author: massey-university
+permalink: /archive/2015/05/21/campbell-live-demise-a-sad-day/index.html
+layout: layout.njk
 ---
 Campbell Live demise ‘a sad day’
 ================================

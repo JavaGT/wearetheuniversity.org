@@ -1,9 +1,12 @@
 ---
 slug: bellamy-talking-about-nz-conservation-at-massey
-title: "Bellamy talking about NZ conservation at Massey"
-date: 2009-09-02
-source-url: https://www.scoop.co.nz/stories/ED0909/S00005/bellamy-talking-about-nz-conservation-at-massey.htm
+title: Bellamy talking about NZ conservation at Massey
+date: 2009-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00005/bellamy-talking-about-nz-conservation-at-massey.htm
 author: massey-university
+permalink: /archive/2009/09/02/bellamy-talking-about-nz-conservation-at-massey/index.html
+layout: layout.njk
 ---
 Bellamy talking about NZ conservation at Massey
 ===============================================

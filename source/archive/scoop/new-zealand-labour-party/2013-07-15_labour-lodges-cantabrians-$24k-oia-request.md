@@ -1,9 +1,12 @@
 ---
 slug: labour-lodges-cantabrians-$24k-oia-request
-title: "Labour lodges Cantabrians’ $24k OIA request"
-date: 2013-07-15
-source-url: https://www.scoop.co.nz/stories/PA1307/S00244/labour-lodges-cantabrians-24k-oia-request.htm
+title: Labour lodges Cantabrians’ $24k OIA request
+date: 2013-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00244/labour-lodges-cantabrians-24k-oia-request.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/15/labour-lodges-cantabrians-/index.html
+layout: layout.njk
 ---
 Labour lodges Cantabrians’ $24k OIA request
 ===========================================

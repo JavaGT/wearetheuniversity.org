@@ -1,9 +1,12 @@
 ---
 slug: drop-in-murder-rate-statistics-questionable
-title: "Drop in Murder Rate Statistics Questionable"
-date: 2009-04-08
-source-url: https://www.scoop.co.nz/stories/PA0904/S00122/drop-in-murder-rate-statistics-questionable.htm
+title: Drop in Murder Rate Statistics Questionable
+date: 2009-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00122/drop-in-murder-rate-statistics-questionable.htm
 author: act-new-zealand
+permalink: /archive/2009/04/08/drop-in-murder-rate-statistics-questionable/index.html
+layout: layout.njk
 ---
 Drop in Murder Rate Statistics Questionable
 ===========================================

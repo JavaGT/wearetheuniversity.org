@@ -1,9 +1,12 @@
 ---
 slug: kauri-provide-a-unique-climate-change-record
-title: "Kauri provide a unique climate change record"
-date: 2010-05-27
-source-url: https://www.scoop.co.nz/stories/SC1005/S00069/kauri-provide-a-unique-climate-change-record.htm
+title: Kauri provide a unique climate change record
+date: 2010-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1005/S00069/kauri-provide-a-unique-climate-change-record.htm
 author: waikato-university
+permalink: /archive/2010/05/27/kauri-provide-a-unique-climate-change-record/index.html
+layout: layout.njk
 ---
 Kauri provide a unique climate change record
 ============================================

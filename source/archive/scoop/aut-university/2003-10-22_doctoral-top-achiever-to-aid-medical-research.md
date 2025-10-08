@@ -1,9 +1,12 @@
 ---
 slug: doctoral-top-achiever-to-aid-medical-research
-title: "Doctoral top achiever to aid medical research"
-date: 2003-10-22
-source-url: https://www.scoop.co.nz/stories/ED0310/S00092/doctoral-top-achiever-to-aid-medical-research.htm
+title: Doctoral top achiever to aid medical research
+date: 2003-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00092/doctoral-top-achiever-to-aid-medical-research.htm
 author: aut-university
+permalink: /archive/2003/10/22/doctoral-top-achiever-to-aid-medical-research/index.html
+layout: layout.njk
 ---
 Doctoral top achiever to aid medical research
 =============================================

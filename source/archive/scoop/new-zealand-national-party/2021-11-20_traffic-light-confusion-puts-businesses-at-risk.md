@@ -1,9 +1,12 @@
 ---
 slug: traffic-light-confusion-puts-businesses-at-risk
-title: "Traffic Light Confusion Puts Businesses At Risk"
-date: 2021-11-20
-source-url: https://www.scoop.co.nz/stories/PA2111/S00231/traffic-light-confusion-puts-businesses-at-risk.htm
+title: Traffic Light Confusion Puts Businesses At Risk
+date: 2021-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00231/traffic-light-confusion-puts-businesses-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/20/traffic-light-confusion-puts-businesses-at-risk/index.html
+layout: layout.njk
 ---
 Traffic Light Confusion Puts Businesses At Risk
 ===============================================

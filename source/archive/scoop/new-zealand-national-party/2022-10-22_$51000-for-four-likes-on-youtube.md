@@ -1,9 +1,12 @@
 ---
 slug: $51000-for-four-likes-on-youtube
-title: "$51,000 For Four Likes On YouTube"
-date: 2022-10-22
-source-url: https://www.scoop.co.nz/stories/PA2210/S00165/51000-for-four-likes-on-youtube.htm
+title: $51,000 For Four Likes On YouTube
+date: 2022-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00165/51000-for-four-likes-on-youtube.htm
 author: new-zealand-national-party
+permalink: /archive/2022/10/22/51-000-for-four-likes-on-youtube/index.html
+layout: layout.njk
 ---
 $51,000 For Four Likes On YouTube
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: herbal-medicines-in-spotlighted-with-appointment
-title: "Herbal Medicines in spotlighted with appointment"
-date: 2005-11-29
-source-url: https://www.scoop.co.nz/stories/ED0511/S00093/herbal-medicines-in-spotlighted-with-appointment.htm
+title: Herbal Medicines in spotlighted with appointment
+date: 2005-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00093/herbal-medicines-in-spotlighted-with-appointment.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/11/29/herbal-medicines-in-spotlighted-with-appointment/index.html
+layout: layout.njk
 ---
 Herbal Medicines in spotlighted with appointment
 ================================================

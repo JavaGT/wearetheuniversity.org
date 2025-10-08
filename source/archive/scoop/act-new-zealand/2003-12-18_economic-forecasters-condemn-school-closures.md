@@ -1,9 +1,12 @@
 ---
 slug: economic-forecasters-condemn-school-closures
-title: "Economic Forecasters Condemn School Closures"
-date: 2003-12-18
-source-url: https://www.scoop.co.nz/stories/PA0312/S00463/economic-forecasters-condemn-school-closures.htm
+title: Economic Forecasters Condemn School Closures
+date: 2003-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00463/economic-forecasters-condemn-school-closures.htm
 author: act-new-zealand
+permalink: /archive/2003/12/18/economic-forecasters-condemn-school-closures/index.html
+layout: layout.njk
 ---
 Economic Forecasters Condemn School Closures
 ============================================

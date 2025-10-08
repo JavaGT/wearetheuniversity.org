@@ -1,9 +1,12 @@
 ---
 slug: its-a-student-friendly-budget!-(yeah-right)
-title: "It’s A Student Friendly Budget! (Yeah Right)"
-date: 2001-05-24
-source-url: https://www.scoop.co.nz/stories/ED0105/S00050/its-a-student-friendly-budget-yeah-right.htm
+title: It’s A Student Friendly Budget! (Yeah Right)
+date: 2001-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00050/its-a-student-friendly-budget-yeah-right.htm
 author: otago-university-students-association
+permalink: /archive/2001/05/24/its-a-student-friendly-budget/index.html
+layout: layout.njk
 ---
 It’s A Student Friendly Budget! (Yeah Right)
 ============================================

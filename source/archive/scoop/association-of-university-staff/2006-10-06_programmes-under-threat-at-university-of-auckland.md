@@ -1,9 +1,13 @@
 ---
 slug: programmes-under-threat-at-university-of-auckland
-title: "Programmes under threat at University of Auckland"
-date: 2006-10-06
-source-url: https://www.scoop.co.nz/stories/ED0610/S00022/programmes-under-threat-at-university-of-auckland.htm
+title: Programmes under threat at University of Auckland
+date: 2006-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00022/programmes-under-threat-at-university-of-auckland.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2006/10/06/programmes-under-threat-at-university-of-auckland/index.html
+layout: layout.njk
 ---
 Programmes under threat at University of Auckland
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-are-becoming-less-religious
-title: "New Zealanders are becoming less religious"
-date: 2009-04-02
-source-url: https://www.scoop.co.nz/stories/PO0904/S00021/new-zealanders-are-becoming-less-religious.htm
+title: New Zealanders are becoming less religious
+date: 2009-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0904/S00021/new-zealanders-are-becoming-less-religious.htm
 author: massey-university
+permalink: /archive/2009/04/02/new-zealanders-are-becoming-less-religious/index.html
+layout: layout.njk
 ---
 New Zealanders are becoming less religious
 ==========================================

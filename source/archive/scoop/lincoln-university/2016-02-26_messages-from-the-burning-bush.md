@@ -1,9 +1,12 @@
 ---
 slug: messages-from-the-burning-bush
-title: "Messages from the burning bush"
-date: 2016-02-26
-source-url: https://www.scoop.co.nz/stories/SC1602/S00071/messages-from-the-burning-bush.htm
+title: Messages from the burning bush
+date: 2016-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00071/messages-from-the-burning-bush.htm
 author: lincoln-university
+permalink: /archive/2016/02/26/messages-from-the-burning-bush/index.html
+layout: layout.njk
 ---
 Messages from the burning bush
 ==============================

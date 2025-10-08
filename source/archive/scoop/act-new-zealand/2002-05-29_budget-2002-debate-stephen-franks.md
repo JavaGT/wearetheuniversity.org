@@ -1,9 +1,12 @@
 ---
 slug: budget-2002-debate-stephen-franks
-title: "Budget 2002 Debate -- Stephen Franks"
-date: 2002-05-29
-source-url: https://www.scoop.co.nz/stories/PA0205/S00659/budget-2002-debate-stephen-franks.htm
+title: Budget 2002 Debate -- Stephen Franks
+date: 2002-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00659/budget-2002-debate-stephen-franks.htm
 author: act-new-zealand
+permalink: /archive/2002/05/29/budget-2002-debate-stephen-franks/index.html
+layout: layout.njk
 ---
 Budget 2002 Debate -- Stephen Franks
 ====================================

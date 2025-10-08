@@ -1,9 +1,13 @@
 ---
 slug: unwelcome-christmas-surprise-for-canterbury-health
-title: "Unwelcome Christmas surprise for Canterbury health"
-date: 2011-12-22
-source-url: https://www.scoop.co.nz/stories/PA1112/S00184/unwelcome-christmas-surprise-for-canterbury-health.htm
+title: Unwelcome Christmas surprise for Canterbury health
+date: 2011-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00184/unwelcome-christmas-surprise-for-canterbury-health.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/12/22/unwelcome-christmas-surprise-for-canterbury-health/index.html
+layout: layout.njk
 ---
 Unwelcome Christmas surprise for Canterbury health
 ==================================================

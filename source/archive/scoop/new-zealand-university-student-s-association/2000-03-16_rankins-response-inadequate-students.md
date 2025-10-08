@@ -1,9 +1,12 @@
 ---
 slug: rankins-response-inadequate-students
-title: "Rankin's Response Inadequate - Students"
-date: 2000-03-16
-source-url: https://www.scoop.co.nz/stories/ED0003/S00026/rankins-response-inadequate-students.htm
+title: Rankin's Response Inadequate - Students
+date: 2000-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00026/rankins-response-inadequate-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/03/16/rankins-response-inadequate-students/index.html
+layout: layout.njk
 ---
 Rankin's Response Inadequate - Students
 =======================================

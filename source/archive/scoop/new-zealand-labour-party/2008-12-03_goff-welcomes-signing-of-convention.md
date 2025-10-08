@@ -1,9 +1,12 @@
 ---
 slug: goff-welcomes-signing-of-convention
-title: "Goff welcomes signing of Convention"
-date: 2008-12-03
-source-url: https://www.scoop.co.nz/stories/PA0812/S00025/goff-welcomes-signing-of-convention.htm
+title: Goff welcomes signing of Convention
+date: 2008-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00025/goff-welcomes-signing-of-convention.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/12/03/goff-welcomes-signing-of-convention/index.html
+layout: layout.njk
 ---
 Goff welcomes signing of Convention
 ===================================

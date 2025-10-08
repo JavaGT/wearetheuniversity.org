@@ -1,9 +1,13 @@
 ---
 slug: a-comparison-between-the-green-partys-and-labours-family-support
-title: "A Comparison Between The Green Party’s And Labour’s Family Support"
-date: 2023-08-13
-source-url: https://www.scoop.co.nz/stories/PA2308/S00077/a-comparison-between-the-green-partys-and-labours-family-support.htm
+title: A Comparison Between The Green Party’s And Labour’s Family Support
+date: 2023-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00077/a-comparison-between-the-green-partys-and-labours-family-support.htm
 author: green-party
+permalink: >-
+  /archive/2023/08/13/a-comparison-between-the-green-partys-and-labours-family-support/index.html
+layout: layout.njk
 ---
 A Comparison Between The Green Party’s And Labour’s Family Support
 ==================================================================

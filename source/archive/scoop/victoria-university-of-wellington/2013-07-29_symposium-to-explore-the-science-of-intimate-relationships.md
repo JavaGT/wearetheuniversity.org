@@ -1,9 +1,13 @@
 ---
 slug: symposium-to-explore-the-science-of-intimate-relationships
-title: "Symposium to explore the science of intimate relationships"
-date: 2013-07-29
-source-url: https://www.scoop.co.nz/stories/ED1307/S00145/symposium-to-explore-the-science-of-intimate-relationships.htm
+title: Symposium to explore the science of intimate relationships
+date: 2013-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00145/symposium-to-explore-the-science-of-intimate-relationships.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/07/29/symposium-to-explore-the-science-of-intimate-relationships/index.html
+layout: layout.njk
 ---
 Symposium to explore the science of intimate relationships
 ==========================================================

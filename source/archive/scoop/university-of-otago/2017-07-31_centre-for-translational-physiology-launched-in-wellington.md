@@ -1,9 +1,13 @@
 ---
 slug: centre-for-translational-physiology-launched-in-wellington
-title: "Centre for Translational Physiology launched in Wellington"
-date: 2017-07-31
-source-url: https://www.scoop.co.nz/stories/ED1707/S00105/centre-for-translational-physiology-launched-in-wellington.htm
+title: Centre for Translational Physiology launched in Wellington
+date: 2017-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00105/centre-for-translational-physiology-launched-in-wellington.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/07/31/centre-for-translational-physiology-launched-in-wellington/index.html
+layout: layout.njk
 ---
 Centre for Translational Physiology launched in Wellington
 ==========================================================

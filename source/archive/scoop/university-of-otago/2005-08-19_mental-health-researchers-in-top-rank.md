@@ -1,9 +1,12 @@
 ---
 slug: mental-health-researchers-in-top-rank
-title: "Mental Health  Researchers In Top Rank"
-date: 2005-08-19
-source-url: https://www.scoop.co.nz/stories/GE0508/S00082/mental-health-researchers-in-top-rank.htm
+title: Mental Health  Researchers In Top Rank
+date: 2005-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0508/S00082/mental-health-researchers-in-top-rank.htm
 author: university-of-otago
+permalink: /archive/2005/08/19/mental-health-researchers-in-top-rank/index.html
+layout: layout.njk
 ---
 Mental Health Researchers In Top Rank
 =====================================

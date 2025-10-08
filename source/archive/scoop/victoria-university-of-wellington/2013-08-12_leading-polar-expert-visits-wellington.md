@@ -1,9 +1,12 @@
 ---
 slug: leading-polar-expert-visits-wellington
-title: "Leading polar expert visits Wellington"
-date: 2013-08-12
-source-url: https://www.scoop.co.nz/stories/SC1308/S00029/leading-polar-expert-visits-wellington.htm
+title: Leading polar expert visits Wellington
+date: 2013-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00029/leading-polar-expert-visits-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/08/12/leading-polar-expert-visits-wellington/index.html
+layout: layout.njk
 ---
 Leading polar expert visits Wellington
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: mp-delighted-at-fund-for-food-processing-research
-title: "MP delighted at fund for food processing research"
-date: 2015-06-25
-source-url: https://www.scoop.co.nz/stories/PA1506/S00456/mp-delighted-at-fund-for-food-processing-research.htm
+title: MP delighted at fund for food processing research
+date: 2015-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00456/mp-delighted-at-fund-for-food-processing-research.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/06/25/mp-delighted-at-fund-for-food-processing-research/index.html
+layout: layout.njk
 ---
 MP delighted at fund for food processing research
 =================================================

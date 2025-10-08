@@ -1,9 +1,13 @@
 ---
 slug: double-victory-for-waikato-students-in-competition
-title: "Double victory for Waikato students in competition"
-date: 2010-09-07
-source-url: https://www.scoop.co.nz/stories/ED1009/S00024/double-victory-for-waikato-students-in-competition.htm
+title: Double victory for Waikato students in competition
+date: 2010-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00024/double-victory-for-waikato-students-in-competition.htm
 author: waikato-university
+permalink: >-
+  /archive/2010/09/07/double-victory-for-waikato-students-in-competition/index.html
+layout: layout.njk
 ---
 Double victory for Waikato students in competition
 ==================================================

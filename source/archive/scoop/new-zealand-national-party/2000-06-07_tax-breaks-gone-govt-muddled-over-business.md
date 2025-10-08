@@ -1,9 +1,12 @@
 ---
 slug: tax-breaks-gone-govt-muddled-over-business
-title: "Tax Breaks Gone: Govt. muddled over business"
-date: 2000-06-07
-source-url: https://www.scoop.co.nz/stories/PA0006/S00116/tax-breaks-gone-govt-muddled-over-business.htm
+title: 'Tax Breaks Gone: Govt. muddled over business'
+date: 2000-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00116/tax-breaks-gone-govt-muddled-over-business.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/07/tax-breaks-gone-govt-muddled-over-business/index.html
+layout: layout.njk
 ---
 Tax Breaks Gone: Govt. muddled over business
 ============================================

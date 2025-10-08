@@ -1,9 +1,12 @@
 ---
 slug: pioneering-nelson-architect-follows-her-heart
-title: "Pioneering Nelson architect follows her heart"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/ED1212/S00072/pioneering-nelson-architect-follows-her-heart.htm
+title: Pioneering Nelson architect follows her heart
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00072/pioneering-nelson-architect-follows-her-heart.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/12/11/pioneering-nelson-architect-follows-her-heart/index.html
+layout: layout.njk
 ---
 Pioneering Nelson architect follows her heart
 =============================================

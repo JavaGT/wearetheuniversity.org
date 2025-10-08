@@ -1,9 +1,12 @@
 ---
 slug: support-staff-are-our-schools-unsung-heroes
-title: "Support staff are our schools’ unsung heroes"
-date: 2013-06-12
-source-url: https://www.scoop.co.nz/stories/PA1306/S00182/support-staff-are-our-schools-unsung-heroes.htm
+title: Support staff are our schools’ unsung heroes
+date: 2013-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00182/support-staff-are-our-schools-unsung-heroes.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/12/support-staff-are-our-schools-unsung-heroes/index.html
+layout: layout.njk
 ---
 Support staff are our schools’ unsung heroes
 ============================================

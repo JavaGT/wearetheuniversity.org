@@ -1,9 +1,12 @@
 ---
 slug: speech-to-nz-labour-womens-conference
-title: "Speech to NZ Labour Women’s Conference"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/PA1308/S00394/speech-to-nz-labour-womens-conference.htm
+title: Speech to NZ Labour Women’s Conference
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00394/speech-to-nz-labour-womens-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/26/speech-to-nz-labour-womens-conference/index.html
+layout: layout.njk
 ---
 Speech to NZ Labour Women’s Conference
 ======================================

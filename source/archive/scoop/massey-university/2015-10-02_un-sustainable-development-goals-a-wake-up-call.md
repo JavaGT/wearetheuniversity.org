@@ -1,9 +1,12 @@
 ---
 slug: un-sustainable-development-goals-a-wake-up-call
-title: "UN Sustainable Development Goals a wake-up call"
-date: 2015-10-02
-source-url: https://www.scoop.co.nz/stories/PO1510/S00046/un-sustainable-development-goals-a-wake-up-call.htm
+title: UN Sustainable Development Goals a wake-up call
+date: 2015-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00046/un-sustainable-development-goals-a-wake-up-call.htm
 author: massey-university
+permalink: /archive/2015/10/02/un-sustainable-development-goals-a-wake-up-call/index.html
+layout: layout.njk
 ---
 UN Sustainable Development Goals a wake-up call
 ===============================================

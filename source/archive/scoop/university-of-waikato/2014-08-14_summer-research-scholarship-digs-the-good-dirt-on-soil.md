@@ -1,9 +1,13 @@
 ---
 slug: summer-research-scholarship-digs-the-good-dirt-on-soil
-title: "Summer Research Scholarship digs the good dirt on soil"
-date: 2014-08-14
-source-url: https://www.scoop.co.nz/stories/ED1408/S00074/summer-research-scholarship-digs-the-good-dirt-on-soil.htm
+title: Summer Research Scholarship digs the good dirt on soil
+date: 2014-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00074/summer-research-scholarship-digs-the-good-dirt-on-soil.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/14/summer-research-scholarship-digs-the-good-dirt-on-soil/index.html
+layout: layout.njk
 ---
 Summer Research Scholarship digs the good dirt on soil
 ======================================================

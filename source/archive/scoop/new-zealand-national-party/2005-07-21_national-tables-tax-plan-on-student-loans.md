@@ -1,9 +1,12 @@
 ---
 slug: national-tables-tax-plan-on-student-loans
-title: "National tables tax plan on student loans"
-date: 2005-07-21
-source-url: https://www.scoop.co.nz/stories/PA0507/S00446/national-tables-tax-plan-on-student-loans.htm
+title: National tables tax plan on student loans
+date: 2005-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00446/national-tables-tax-plan-on-student-loans.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/21/national-tables-tax-plan-on-student-loans/index.html
+layout: layout.njk
 ---
 National tables tax plan on student loans
 =========================================

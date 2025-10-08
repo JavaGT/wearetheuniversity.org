@@ -1,9 +1,12 @@
 ---
 slug: uc-establishes-new-professorship
-title: "UC establishes new Professorship"
-date: 2015-12-07
-source-url: https://www.scoop.co.nz/stories/ED1512/S00025/uc-establishes-new-professorship.htm
+title: UC establishes new Professorship
+date: 2015-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00025/uc-establishes-new-professorship.htm
 author: university-of-canterbury
+permalink: /archive/2015/12/07/uc-establishes-new-professorship/index.html
+layout: layout.njk
 ---
 UC establishes new Professorship
 ================================

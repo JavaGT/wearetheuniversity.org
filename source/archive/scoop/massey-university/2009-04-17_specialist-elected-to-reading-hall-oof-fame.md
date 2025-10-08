@@ -1,9 +1,12 @@
 ---
 slug: specialist-elected-to-reading-hall-oof-fame
-title: "Specialist elected to Reading Hall oof Fame"
-date: 2009-04-17
-source-url: https://www.scoop.co.nz/stories/ED0904/S00038/specialist-elected-to-reading-hall-oof-fame.htm
+title: Specialist elected to Reading Hall oof Fame
+date: 2009-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00038/specialist-elected-to-reading-hall-oof-fame.htm
 author: massey-university
+permalink: /archive/2009/04/17/specialist-elected-to-reading-hall-oof-fame/index.html
+layout: layout.njk
 ---
 Specialist elected to Reading Hall oof Fame
 ===========================================

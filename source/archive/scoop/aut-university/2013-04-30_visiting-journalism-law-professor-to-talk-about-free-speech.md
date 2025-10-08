@@ -1,9 +1,13 @@
 ---
 slug: visiting-journalism-law-professor-to-talk-about-free-speech
-title: "Visiting journalism law professor to talk about free speech"
-date: 2013-04-30
-source-url: https://www.scoop.co.nz/stories/ED1304/S00156/visiting-journalism-law-professor-to-talk-about-free-speech.htm
+title: Visiting journalism law professor to talk about free speech
+date: 2013-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00156/visiting-journalism-law-professor-to-talk-about-free-speech.htm
 author: aut-university
+permalink: >-
+  /archive/2013/04/30/visiting-journalism-law-professor-to-talk-about-free-speech/index.html
+layout: layout.njk
 ---
 Visiting journalism law professor to talk about free speech
 ===========================================================

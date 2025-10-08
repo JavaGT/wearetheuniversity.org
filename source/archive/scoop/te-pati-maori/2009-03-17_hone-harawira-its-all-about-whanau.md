@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-its-all-about-whanau
-title: "Hone Harawira: It’s All About Whanau"
-date: 2009-03-17
-source-url: https://www.scoop.co.nz/stories/PA0903/S00248/hone-harawira-its-all-about-whanau.htm
+title: 'Hone Harawira: It’s All About Whanau'
+date: 2009-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00248/hone-harawira-its-all-about-whanau.htm
 author: te-pati-maori
+permalink: /archive/2009/03/17/hone-harawira-its-all-about-whanau/index.html
+layout: layout.njk
 ---
 Hone Harawira: It’s All About Whanau
 ====================================

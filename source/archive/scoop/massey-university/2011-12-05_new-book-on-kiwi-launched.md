@@ -1,9 +1,11 @@
 ---
 slug: new-book-on-kiwi-launched
-title: "New book on kiwi launched"
-date: 2011-12-05
+title: New book on kiwi launched
+date: 2011-12-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1112/S00022/new-book-on-kiwi-launched.htm
 author: massey-university
+permalink: /archive/2011/12/05/new-book-on-kiwi-launched/index.html
+layout: layout.njk
 ---
 New book on kiwi launched
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: convention-centre-decision-offers-security
-title: "Convention centre decision offers security"
-date: 2016-07-19
-source-url: https://www.scoop.co.nz/stories/AK1607/S00561/convention-centre-decision-offers-security.htm
+title: Convention centre decision offers security
+date: 2016-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1607/S00561/convention-centre-decision-offers-security.htm
 author: lincoln-university
+permalink: /archive/2016/07/19/convention-centre-decision-offers-security/index.html
+layout: layout.njk
 ---
 Convention centre decision offers security
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: humanity-greater-than-any-act-of-nature
-title: "Humanity Greater Than Any Act of Nature"
-date: 2011-03-01
-source-url: https://www.scoop.co.nz/stories/PA1103/S00008/humanity-greater-than-any-act-of-nature.htm
+title: Humanity Greater Than Any Act of Nature
+date: 2011-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00008/humanity-greater-than-any-act-of-nature.htm
 author: new-zealand-national-party
+permalink: /archive/2011/03/01/humanity-greater-than-any-act-of-nature/index.html
+layout: layout.njk
 ---
 Humanity Greater Than Any Act of Nature
 =======================================

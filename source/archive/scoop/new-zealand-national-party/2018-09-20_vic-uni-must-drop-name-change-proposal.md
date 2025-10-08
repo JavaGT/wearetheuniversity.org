@@ -1,9 +1,12 @@
 ---
 slug: vic-uni-must-drop-name-change-proposal
-title: "Vic Uni must drop name-change proposal"
-date: 2018-09-20
-source-url: https://www.scoop.co.nz/stories/PA1809/S00280/vic-uni-must-drop-name-change-proposal.htm
+title: Vic Uni must drop name-change proposal
+date: 2018-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00280/vic-uni-must-drop-name-change-proposal.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/20/vic-uni-must-drop-name-change-proposal/index.html
+layout: layout.njk
 ---
 Vic Uni must drop name-change proposal
 ======================================

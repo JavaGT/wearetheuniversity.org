@@ -1,9 +1,12 @@
 ---
 slug: ngā-whanaketanga-highlight-flawed-standards
-title: "Ngā Whanaketanga Highlight Flawed Standards"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/ED1010/S00055/nga-whanaketanga-highlight-flawed-standards.htm
+title: Ngā Whanaketanga Highlight Flawed Standards
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00055/nga-whanaketanga-highlight-flawed-standards.htm
 author: nzei
+permalink: /archive/2010/10/15/ng/index.html
+layout: layout.njk
 ---
 Ngā Whanaketanga Highlight Flawed Standards
 ===========================================

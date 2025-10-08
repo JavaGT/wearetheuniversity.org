@@ -1,9 +1,13 @@
 ---
 slug: decision-makers-back-concept-of-tobacco-free-nz-by-2025
-title: "Decision-makers back concept of tobacco-free NZ by 2025"
-date: 2011-09-05
-source-url: https://www.scoop.co.nz/stories/GE1109/S00032/decision-makers-back-concept-of-tobacco-free-nz-by-2025.htm
+title: Decision-makers back concept of tobacco-free NZ by 2025
+date: 2011-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1109/S00032/decision-makers-back-concept-of-tobacco-free-nz-by-2025.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/09/05/decision-makers-back-concept-of-tobacco-free-nz-by-2025/index.html
+layout: layout.njk
 ---
 Decision-makers back concept of tobacco-free NZ by 2025
 =======================================================

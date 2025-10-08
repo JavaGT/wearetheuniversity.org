@@ -1,9 +1,12 @@
 ---
 slug: new-facilities-for-booming-bioactivity
-title: "New Facilities For Booming Bioactivity"
-date: 2004-11-22
-source-url: https://www.scoop.co.nz/stories/SC0411/S00060/new-facilities-for-booming-bioactivity.htm
+title: New Facilities For Booming Bioactivity
+date: 2004-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0411/S00060/new-facilities-for-booming-bioactivity.htm
 author: university-of-otago
+permalink: /archive/2004/11/22/new-facilities-for-booming-bioactivity/index.html
+layout: layout.njk
 ---
 New Facilities For Booming Bioactivity
 ======================================

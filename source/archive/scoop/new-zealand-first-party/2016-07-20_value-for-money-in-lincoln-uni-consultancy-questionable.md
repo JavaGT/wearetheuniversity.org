@@ -1,9 +1,13 @@
 ---
 slug: value-for-money-in-lincoln-uni-consultancy-questionable
-title: "Value for Money in Lincoln Uni Consultancy Questionable"
-date: 2016-07-20
-source-url: https://www.scoop.co.nz/stories/PA1607/S00293/value-for-money-in-lincoln-uni-consultancy-questionable.htm
+title: Value for Money in Lincoln Uni Consultancy Questionable
+date: 2016-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00293/value-for-money-in-lincoln-uni-consultancy-questionable.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/07/20/value-for-money-in-lincoln-uni-consultancy-questionable/index.html
+layout: layout.njk
 ---
 Value for Money in Lincoln Uni Consultancy Questionable
 =======================================================

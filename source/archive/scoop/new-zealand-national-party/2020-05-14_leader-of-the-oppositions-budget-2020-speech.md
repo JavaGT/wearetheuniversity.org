@@ -1,9 +1,12 @@
 ---
 slug: leader-of-the-oppositions-budget-2020-speech
-title: "Leader Of The Opposition’s Budget 2020 Speech"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/PA2005/S00142/leader-of-the-oppositions-budget-2020-speech.htm
+title: Leader Of The Opposition’s Budget 2020 Speech
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00142/leader-of-the-oppositions-budget-2020-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/14/leader-of-the-oppositions-budget-2020-speech/index.html
+layout: layout.njk
 ---
 Leader Of The Opposition’s Budget 2020 Speech
 =============================================

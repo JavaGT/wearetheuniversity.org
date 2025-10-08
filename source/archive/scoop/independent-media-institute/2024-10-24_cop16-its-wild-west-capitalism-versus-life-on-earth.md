@@ -1,9 +1,13 @@
 ---
 slug: cop16-its-wild-west-capitalism-versus-life-on-earth
-title: "COP16: It’s Wild-West Capitalism Versus Life On Earth"
-date: 2024-10-24
-source-url: https://www.scoop.co.nz/stories/WO2410/S00294/cop16-its-wild-west-capitalism-versus-life-on-earth.htm
+title: 'COP16: It’s Wild-West Capitalism Versus Life On Earth'
+date: 2024-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00294/cop16-its-wild-west-capitalism-versus-life-on-earth.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/10/24/cop16-its-wild-west-capitalism-versus-life-on-earth/index.html
+layout: layout.njk
 ---
 COP16: It’s Wild-West Capitalism Versus Life On Earth
 =====================================================

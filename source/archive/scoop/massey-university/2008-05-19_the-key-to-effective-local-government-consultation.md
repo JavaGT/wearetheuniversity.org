@@ -1,9 +1,13 @@
 ---
 slug: the-key-to-effective-local-government-consultation
-title: "The key to effective local government consultation"
-date: 2008-05-19
-source-url: https://www.scoop.co.nz/stories/PA0805/S00324/the-key-to-effective-local-government-consultation.htm
+title: The key to effective local government consultation
+date: 2008-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00324/the-key-to-effective-local-government-consultation.htm
 author: massey-university
+permalink: >-
+  /archive/2008/05/19/the-key-to-effective-local-government-consultation/index.html
+layout: layout.njk
 ---
 The key to effective local government consultation
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: web-tool-lets-public-determine-new-zealand-flag
-title: "Web tool lets public determine New Zealand flag"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/ED1506/S00082/web-tool-lets-public-determine-new-zealand-flag.htm
+title: Web tool lets public determine New Zealand flag
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00082/web-tool-lets-public-determine-new-zealand-flag.htm
 author: massey-university
+permalink: /archive/2015/06/17/web-tool-lets-public-determine-new-zealand-flag/index.html
+layout: layout.njk
 ---
 Web tool lets public determine New Zealand flag
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: reconsider-fees-freeze-position-students-urge
-title: "Reconsider Fees Freeze Position - Students Urge"
-date: 2001-07-16
-source-url: https://www.scoop.co.nz/stories/ED0107/S00023/reconsider-fees-freeze-position-students-urge.htm
+title: Reconsider Fees Freeze Position - Students Urge
+date: 2001-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0107/S00023/reconsider-fees-freeze-position-students-urge.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/07/16/reconsider-fees-freeze-position-students-urge/index.html
+layout: layout.njk
 ---
 Reconsider Fees Freeze Position - Students Urge
 ===============================================

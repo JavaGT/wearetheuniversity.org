@@ -1,9 +1,12 @@
 ---
 slug: national-party-president-tribute-to-simon-upton
-title: "National Party President Tribute To Simon Upton"
-date: 2000-09-21
-source-url: https://www.scoop.co.nz/stories/PO0009/S00109/national-party-president-tribute-to-simon-upton.htm
+title: National Party President Tribute To Simon Upton
+date: 2000-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0009/S00109/national-party-president-tribute-to-simon-upton.htm
 author: new-zealand-national-party
+permalink: /archive/2000/09/21/national-party-president-tribute-to-simon-upton/index.html
+layout: layout.njk
 ---
 National Party President Tribute To Simon Upton
 ===============================================

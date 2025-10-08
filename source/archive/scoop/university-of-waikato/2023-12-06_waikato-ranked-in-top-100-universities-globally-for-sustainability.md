@@ -1,9 +1,13 @@
 ---
 slug: waikato-ranked-in-top-100-universities-globally-for-sustainability
-title: "Waikato Ranked In Top 100 Universities Globally For Sustainability"
-date: 2023-12-06
-source-url: https://www.scoop.co.nz/stories/ED2312/S00009/waikato-ranked-in-top-100-universities-globally-for-sustainability.htm
+title: Waikato Ranked In Top 100 Universities Globally For Sustainability
+date: 2023-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2312/S00009/waikato-ranked-in-top-100-universities-globally-for-sustainability.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/12/06/waikato-ranked-in-top-100-universities-globally-for-sustainability/index.html
+layout: layout.njk
 ---
 Waikato Ranked In Top 100 Universities Globally For Sustainability
 ==================================================================

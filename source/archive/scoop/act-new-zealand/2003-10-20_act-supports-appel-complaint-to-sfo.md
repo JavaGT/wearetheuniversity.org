@@ -1,9 +1,12 @@
 ---
 slug: act-supports-appel-complaint-to-sfo
-title: "ACT Supports APPEL Complaint To SFO"
-date: 2003-10-20
-source-url: https://www.scoop.co.nz/stories/PA0310/S00442/act-supports-appel-complaint-to-sfo.htm
+title: ACT Supports APPEL Complaint To SFO
+date: 2003-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00442/act-supports-appel-complaint-to-sfo.htm
 author: act-new-zealand
+permalink: /archive/2003/10/20/act-supports-appel-complaint-to-sfo/index.html
+layout: layout.njk
 ---
 ACT Supports APPEL Complaint To SFO
 ===================================

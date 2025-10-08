@@ -1,9 +1,13 @@
 ---
 slug: former-environment-judge-joins-list-of-rma-critics
-title: "Former Environment Judge joins list of RMA critics"
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/PA0904/S00382/former-environment-judge-joins-list-of-rma-critics.htm
+title: Former Environment Judge joins list of RMA critics
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00382/former-environment-judge-joins-list-of-rma-critics.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/04/30/former-environment-judge-joins-list-of-rma-critics/index.html
+layout: layout.njk
 ---
 Former Environment Judge joins list of RMA critics
 ==================================================

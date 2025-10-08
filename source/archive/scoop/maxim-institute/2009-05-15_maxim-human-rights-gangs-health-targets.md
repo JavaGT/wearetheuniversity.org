@@ -1,9 +1,12 @@
 ---
 slug: maxim-human-rights-gangs-health-targets
-title: "Maxim: Human rights, Gangs, Health targets"
-date: 2009-05-15
-source-url: https://www.scoop.co.nz/stories/PO0905/S00197/maxim-human-rights-gangs-health-targets.htm
+title: 'Maxim: Human rights, Gangs, Health targets'
+date: 2009-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00197/maxim-human-rights-gangs-health-targets.htm
 author: maxim-institute
+permalink: /archive/2009/05/15/maxim-human-rights-gangs-health-targets/index.html
+layout: layout.njk
 ---
 Maxim: Human rights, Gangs, Health targets
 ==========================================

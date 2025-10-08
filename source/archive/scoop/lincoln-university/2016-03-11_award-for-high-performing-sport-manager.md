@@ -1,9 +1,12 @@
 ---
 slug: award-for-high-performing-sport-manager
-title: "Award for high performing sport manager"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/ED1603/S00046/award-for-high-performing-sport-manager.htm
+title: Award for high performing sport manager
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00046/award-for-high-performing-sport-manager.htm
 author: lincoln-university
+permalink: /archive/2016/03/11/award-for-high-performing-sport-manager/index.html
+layout: layout.njk
 ---
 Award for high performing sport manager
 =======================================

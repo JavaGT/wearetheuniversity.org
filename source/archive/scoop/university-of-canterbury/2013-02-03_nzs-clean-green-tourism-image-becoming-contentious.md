@@ -1,9 +1,13 @@
 ---
 slug: nzs-clean-green-tourism-image-becoming-contentious
-title: "NZ’s clean, green tourism image becoming contentious"
-date: 2013-02-03
-source-url: https://www.scoop.co.nz/stories/ED1302/S00011/nzs-clean-green-tourism-image-becoming-contentious.htm
+title: NZ’s clean, green tourism image becoming contentious
+date: 2013-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00011/nzs-clean-green-tourism-image-becoming-contentious.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/03/nzs-clean-green-tourism-image-becoming-contentious/index.html
+layout: layout.njk
 ---
 NZ’s clean, green tourism image becoming contentious
 ====================================================

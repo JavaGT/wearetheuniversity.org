@@ -1,9 +1,13 @@
 ---
 slug: uc-research-funded-in-deep-south-science-challenge
-title: "UC research funded in Deep South Science Challenge"
-date: 2016-07-05
-source-url: https://www.scoop.co.nz/stories/SC1607/S00011/uc-research-funded-in-deep-south-science-challenge.htm
+title: UC research funded in Deep South Science Challenge
+date: 2016-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00011/uc-research-funded-in-deep-south-science-challenge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/07/05/uc-research-funded-in-deep-south-science-challenge/index.html
+layout: layout.njk
 ---
 UC research funded in Deep South Science Challenge
 ==================================================

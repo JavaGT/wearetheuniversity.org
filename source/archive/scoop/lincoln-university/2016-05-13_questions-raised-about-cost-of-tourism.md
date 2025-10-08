@@ -1,9 +1,12 @@
 ---
 slug: questions-raised-about-cost-of-tourism
-title: "Questions raised about cost of tourism"
-date: 2016-05-13
-source-url: https://www.scoop.co.nz/stories/BU1605/S00411/questions-raised-about-cost-of-tourism.htm
+title: Questions raised about cost of tourism
+date: 2016-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1605/S00411/questions-raised-about-cost-of-tourism.htm
 author: lincoln-university
+permalink: /archive/2016/05/13/questions-raised-about-cost-of-tourism/index.html
+layout: layout.njk
 ---
 Questions raised about cost of tourism
 ======================================

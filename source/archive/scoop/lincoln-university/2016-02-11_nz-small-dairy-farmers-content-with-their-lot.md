@@ -1,9 +1,12 @@
 ---
 slug: nz-small-dairy-farmers-content-with-their-lot
-title: "NZ small dairy farmers content with their lot"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/BU1602/S00330/nz-small-dairy-farmers-content-with-their-lot.htm
+title: NZ small dairy farmers content with their lot
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1602/S00330/nz-small-dairy-farmers-content-with-their-lot.htm
 author: lincoln-university
+permalink: /archive/2016/02/11/nz-small-dairy-farmers-content-with-their-lot/index.html
+layout: layout.njk
 ---
 NZ small dairy farmers content with their lot
 =============================================

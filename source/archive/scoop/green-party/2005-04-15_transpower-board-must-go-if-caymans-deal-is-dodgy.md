@@ -1,9 +1,13 @@
 ---
 slug: transpower-board-must-go-if-caymans-deal-is-dodgy
-title: "Transpower Board must go if Caymans deal is dodgy"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/PA0504/S00345/transpower-board-must-go-if-caymans-deal-is-dodgy.htm
+title: Transpower Board must go if Caymans deal is dodgy
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00345/transpower-board-must-go-if-caymans-deal-is-dodgy.htm
 author: green-party
+permalink: >-
+  /archive/2005/04/15/transpower-board-must-go-if-caymans-deal-is-dodgy/index.html
+layout: layout.njk
 ---
 Transpower Board must go if Caymans deal is dodgy
 =================================================

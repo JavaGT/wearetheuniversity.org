@@ -1,9 +1,13 @@
 ---
 slug: green-team-line-up-announced-for-wellington-elections
-title: "Green team line up announced for Wellington elections"
-date: 2019-06-06
-source-url: https://www.scoop.co.nz/stories/PO1906/S00056/green-team-line-up-announced-for-wellington-elections.htm
+title: Green team line up announced for Wellington elections
+date: 2019-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1906/S00056/green-team-line-up-announced-for-wellington-elections.htm
 author: green-party
+permalink: >-
+  /archive/2019/06/06/green-team-line-up-announced-for-wellington-elections/index.html
+layout: layout.njk
 ---
 Green team line up announced for Wellington elections
 =====================================================

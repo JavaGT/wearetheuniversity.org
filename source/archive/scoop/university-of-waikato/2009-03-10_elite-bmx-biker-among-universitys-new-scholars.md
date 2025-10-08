@@ -1,9 +1,12 @@
 ---
 slug: elite-bmx-biker-among-universitys-new-scholars
-title: "Elite BMX biker among University’s new Scholars"
-date: 2009-03-10
-source-url: https://www.scoop.co.nz/stories/ED0903/S00033/elite-bmx-biker-among-universitys-new-scholars.htm
+title: Elite BMX biker among University’s new Scholars
+date: 2009-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00033/elite-bmx-biker-among-universitys-new-scholars.htm
 author: university-of-waikato
+permalink: /archive/2009/03/10/elite-bmx-biker-among-universitys-new-scholars/index.html
+layout: layout.njk
 ---
 Elite BMX biker among University’s new Scholars
 ===============================================

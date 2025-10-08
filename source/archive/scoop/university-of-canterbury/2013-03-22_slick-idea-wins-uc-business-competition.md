@@ -1,9 +1,12 @@
 ---
 slug: slick-idea-wins-uc-business-competition
-title: "Slick idea wins UC business competition"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/ED1303/S00163/slick-idea-wins-uc-business-competition.htm
+title: Slick idea wins UC business competition
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00163/slick-idea-wins-uc-business-competition.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/22/slick-idea-wins-uc-business-competition/index.html
+layout: layout.njk
 ---
 Slick idea wins UC business competition
 =======================================

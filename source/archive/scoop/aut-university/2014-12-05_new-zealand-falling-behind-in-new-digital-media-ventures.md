@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-falling-behind-in-new-digital-media-ventures
-title: "New Zealand Falling Behind in New Digital Media Ventures"
-date: 2014-12-05
-source-url: https://www.scoop.co.nz/stories/BU1412/S00231/new-zealand-falling-behind-in-new-digital-media-ventures.htm
+title: New Zealand Falling Behind in New Digital Media Ventures
+date: 2014-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1412/S00231/new-zealand-falling-behind-in-new-digital-media-ventures.htm
 author: aut-university
+permalink: >-
+  /archive/2014/12/05/new-zealand-falling-behind-in-new-digital-media-ventures/index.html
+layout: layout.njk
 ---
 New Zealand Falling Behind in New Digital Media Ventures
 ========================================================

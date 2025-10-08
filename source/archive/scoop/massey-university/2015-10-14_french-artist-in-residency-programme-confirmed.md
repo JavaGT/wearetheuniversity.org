@@ -1,9 +1,12 @@
 ---
 slug: french-artist-in-residency-programme-confirmed
-title: "French artist-in-residency programme confirmed"
-date: 2015-10-14
-source-url: https://www.scoop.co.nz/stories/ED1510/S00072/french-artist-in-residency-programme-confirmed.htm
+title: French artist-in-residency programme confirmed
+date: 2015-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00072/french-artist-in-residency-programme-confirmed.htm
 author: massey-university
+permalink: /archive/2015/10/14/french-artist-in-residency-programme-confirmed/index.html
+layout: layout.njk
 ---
 French artist-in-residency programme confirmed
 ==============================================

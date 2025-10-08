@@ -1,9 +1,13 @@
 ---
 slug: national-selects-todd-muller-as-bay-of-plenty-candidate
-title: "National selects Todd Muller as Bay of Plenty candidate"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/PO1406/S00031/national-selects-todd-muller-as-bay-of-plenty-candidate.htm
+title: National selects Todd Muller as Bay of Plenty candidate
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00031/national-selects-todd-muller-as-bay-of-plenty-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/06/03/national-selects-todd-muller-as-bay-of-plenty-candidate/index.html
+layout: layout.njk
 ---
 National selects Todd Muller as Bay of Plenty candidate
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-possible-southerner-extension
-title: "Greens welcome possible Southerner extension"
-date: 2001-08-23
-source-url: https://www.scoop.co.nz/stories/PA0108/S00468/greens-welcome-possible-southerner-extension.htm
+title: Greens welcome possible Southerner extension
+date: 2001-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00468/greens-welcome-possible-southerner-extension.htm
 author: green-party
+permalink: /archive/2001/08/23/greens-welcome-possible-southerner-extension/index.html
+layout: layout.njk
 ---
 Greens welcome possible Southerner extension
 ============================================

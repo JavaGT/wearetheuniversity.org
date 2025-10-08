@@ -1,9 +1,13 @@
 ---
 slug: are-education-cuts-missing-in-nationals-fiscal-plan
-title: "Are Education Cuts Missing in National’s Fiscal Plan?"
-date: 2017-09-07
-source-url: https://www.scoop.co.nz/stories/PA1709/S00071/are-education-cuts-missing-in-nationals-fiscal-plan.htm
+title: Are Education Cuts Missing in National’s Fiscal Plan?
+date: 2017-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00071/are-education-cuts-missing-in-nationals-fiscal-plan.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/09/07/are-education-cuts-missing-in-nationals-fiscal-plan/index.html
+layout: layout.njk
 ---
 Are Education Cuts Missing in National’s Fiscal Plan?
 =====================================================

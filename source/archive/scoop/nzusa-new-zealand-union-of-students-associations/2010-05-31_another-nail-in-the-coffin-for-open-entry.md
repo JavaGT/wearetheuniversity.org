@@ -1,9 +1,12 @@
 ---
 slug: another-nail-in-the-coffin-for-open-entry
-title: "Another nail in the coffin for open entry"
-date: 2010-05-31
-source-url: https://www.scoop.co.nz/stories/ED1005/S00149/another-nail-in-the-coffin-for-open-entry.htm
+title: Another nail in the coffin for open entry
+date: 2010-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00149/another-nail-in-the-coffin-for-open-entry.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/05/31/another-nail-in-the-coffin-for-open-entry/index.html
+layout: layout.njk
 ---
 Another nail in the coffin for open entry
 =========================================

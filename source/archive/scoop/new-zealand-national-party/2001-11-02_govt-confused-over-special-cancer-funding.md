@@ -1,9 +1,12 @@
 ---
 slug: govt-confused-over-special-cancer-funding
-title: "Govt confused over special cancer funding"
-date: 2001-11-02
-source-url: https://www.scoop.co.nz/stories/PA0111/S00040/govt-confused-over-special-cancer-funding.htm
+title: Govt confused over special cancer funding
+date: 2001-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00040/govt-confused-over-special-cancer-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/02/govt-confused-over-special-cancer-funding/index.html
+layout: layout.njk
 ---
 Govt confused over special cancer funding
 =========================================

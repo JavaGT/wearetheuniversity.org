@@ -1,9 +1,13 @@
 ---
 slug: how-to-discuss-your-kids-setbacks-university-study-investigates
-title: "How To Discuss Your Kids’ Setbacks? University Study Investigates"
-date: 2024-06-25
-source-url: https://www.scoop.co.nz/stories/ED2406/S00062/how-to-discuss-your-kids-setbacks-university-study-investigates.htm
+title: How To Discuss Your Kids’ Setbacks? University Study Investigates
+date: 2024-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00062/how-to-discuss-your-kids-setbacks-university-study-investigates.htm
 author: auckland-university
+permalink: >-
+  /archive/2024/06/25/how-to-discuss-your-kids-setbacks-university-study-investigates/index.html
+layout: layout.njk
 ---
 How To Discuss Your Kids’ Setbacks? University Study Investigates
 =================================================================

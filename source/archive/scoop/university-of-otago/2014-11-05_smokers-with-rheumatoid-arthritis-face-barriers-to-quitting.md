@@ -1,9 +1,13 @@
 ---
 slug: smokers-with-rheumatoid-arthritis-face-barriers-to-quitting
-title: "Smokers with Rheumatoid Arthritis face barriers to quitting"
-date: 2014-11-05
-source-url: https://www.scoop.co.nz/stories/GE1411/S00032/smokers-with-rheumatoid-arthritis-face-barriers-to-quitting.htm
+title: Smokers with Rheumatoid Arthritis face barriers to quitting
+date: 2014-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1411/S00032/smokers-with-rheumatoid-arthritis-face-barriers-to-quitting.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/05/smokers-with-rheumatoid-arthritis-face-barriers-to-quitting/index.html
+layout: layout.njk
 ---
 Smokers with Rheumatoid Arthritis face barriers to quitting
 ===========================================================

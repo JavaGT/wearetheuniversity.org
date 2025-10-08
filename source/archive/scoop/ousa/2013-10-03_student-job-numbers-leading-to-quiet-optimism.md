@@ -1,9 +1,12 @@
 ---
 slug: student-job-numbers-leading-to-quiet-optimism
-title: "Student Job Numbers Leading to Quiet Optimism"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/ED1310/S00036/student-job-numbers-leading-to-quiet-optimism.htm
+title: Student Job Numbers Leading to Quiet Optimism
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00036/student-job-numbers-leading-to-quiet-optimism.htm
 author: ousa
+permalink: /archive/2013/10/03/student-job-numbers-leading-to-quiet-optimism/index.html
+layout: layout.njk
 ---
 Student Job Numbers Leading to Quiet Optimism
 =============================================

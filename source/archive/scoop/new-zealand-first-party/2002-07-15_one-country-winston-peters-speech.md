@@ -1,9 +1,12 @@
 ---
 slug: one-country-winston-peters-speech
-title: "One Country - Winston Peters Speech"
-date: 2002-07-15
-source-url: https://www.scoop.co.nz/stories/PA0207/S00380/one-country-winston-peters-speech.htm
+title: One Country - Winston Peters Speech
+date: 2002-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00380/one-country-winston-peters-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/15/one-country-winston-peters-speech/index.html
+layout: layout.njk
 ---
 One Country - Winston Peters Speech
 ===================================

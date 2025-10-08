@@ -1,9 +1,13 @@
 ---
 slug: advocating-household-climate-actions-reduces-support-for-more-effective-policy
-title: "Advocating Household Climate Actions Reduces Support For More Effective Policy"
-date: 2021-11-04
-source-url: https://www.scoop.co.nz/stories/PO2111/S00044/advocating-household-climate-actions-reduces-support-for-more-effective-policy.htm
+title: Advocating Household Climate Actions Reduces Support For More Effective Policy
+date: 2021-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2111/S00044/advocating-household-climate-actions-reduces-support-for-more-effective-policy.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/11/04/advocating-household-climate-actions-reduces-support-for-more-effective-policy/index.html
+layout: layout.njk
 ---
 Advocating Household Climate Actions Reduces Support For More Effective Policy
 ==============================================================================

@@ -1,9 +1,13 @@
 ---
 slug: former-uc-student-named-nzs-young-engineer-of-the-year
-title: "Former UC student named NZ’s young engineer of the year"
-date: 2012-12-01
-source-url: https://www.scoop.co.nz/stories/ED1212/S00001/former-uc-student-named-nzs-young-engineer-of-the-year.htm
+title: Former UC student named NZ’s young engineer of the year
+date: 2012-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00001/former-uc-student-named-nzs-young-engineer-of-the-year.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/01/former-uc-student-named-nzs-young-engineer-of-the-year/index.html
+layout: layout.njk
 ---
 Former UC student named NZ’s young engineer of the year
 =======================================================

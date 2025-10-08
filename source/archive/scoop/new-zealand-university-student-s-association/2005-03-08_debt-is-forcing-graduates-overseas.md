@@ -1,9 +1,12 @@
 ---
 slug: debt-is-forcing-graduates-overseas
-title: "Debt is forcing graduates overseas"
-date: 2005-03-08
-source-url: https://www.scoop.co.nz/stories/ED0503/S00020/debt-is-forcing-graduates-overseas.htm
+title: Debt is forcing graduates overseas
+date: 2005-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00020/debt-is-forcing-graduates-overseas.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/03/08/debt-is-forcing-graduates-overseas/index.html
+layout: layout.njk
 ---
 Debt is forcing graduates overseas
 ==================================

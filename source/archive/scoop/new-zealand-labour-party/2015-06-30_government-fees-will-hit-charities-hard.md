@@ -1,9 +1,12 @@
 ---
 slug: government-fees-will-hit-charities-hard
-title: "Government fees will hit charities hard"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/PA1506/S00558/government-fees-will-hit-charities-hard.htm
+title: Government fees will hit charities hard
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00558/government-fees-will-hit-charities-hard.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/30/government-fees-will-hit-charities-hard/index.html
+layout: layout.njk
 ---
 Government fees will hit charities hard
 =======================================

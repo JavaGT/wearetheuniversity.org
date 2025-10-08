@@ -1,9 +1,11 @@
 ---
 slug: keys-efficiencies-=-dhbs-pain
-title: "Key’s ‘efficiencies’ = DHBs’ pain"
-date: 2016-10-05
+title: Key’s ‘efficiencies’ = DHBs’ pain
+date: 2016-10-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1610/S00061/keys-efficiencies-dhbs-pain.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/10/05/keys-efficiencies-/index.html
+layout: layout.njk
 ---
 Key’s ‘efficiencies’ = DHBs’ pain
 =================================

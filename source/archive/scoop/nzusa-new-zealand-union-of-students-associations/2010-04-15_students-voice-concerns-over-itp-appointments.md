@@ -1,9 +1,12 @@
 ---
 slug: students-voice-concerns-over-itp-appointments
-title: "Students voice concerns over ITP appointments"
-date: 2010-04-15
-source-url: https://www.scoop.co.nz/stories/PO1004/S00139/students-voice-concerns-over-itp-appointments.htm
+title: Students voice concerns over ITP appointments
+date: 2010-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1004/S00139/students-voice-concerns-over-itp-appointments.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/04/15/students-voice-concerns-over-itp-appointments/index.html
+layout: layout.njk
 ---
 Students voice concerns over ITP appointments
 =============================================

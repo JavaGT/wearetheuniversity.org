@@ -1,9 +1,13 @@
 ---
 slug: fossil-fuel-divestment-on-auckland-university-council-agenda
-title: "Fossil fuel divestment on Auckland University Council agenda"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/PO1512/S00001/fossil-fuel-divestment-on-auckland-university-council-agenda.htm
+title: Fossil fuel divestment on Auckland University Council agenda
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1512/S00001/fossil-fuel-divestment-on-auckland-university-council-agenda.htm
 author: fossil-free-uoa
+permalink: >-
+  /archive/2015/12/01/fossil-fuel-divestment-on-auckland-university-council-agenda/index.html
+layout: layout.njk
 ---
 Fossil fuel divestment on Auckland University Council agenda
 ============================================================

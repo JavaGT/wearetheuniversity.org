@@ -1,9 +1,12 @@
 ---
 slug: contest-of-environmental-policy-ideas-welcome
-title: "Contest of Environmental Policy Ideas Welcome"
-date: 2006-10-20
-source-url: https://www.scoop.co.nz/stories/BU0610/S00406/contest-of-environmental-policy-ideas-welcome.htm
+title: Contest of Environmental Policy Ideas Welcome
+date: 2006-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0610/S00406/contest-of-environmental-policy-ideas-welcome.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/10/20/contest-of-environmental-policy-ideas-welcome/index.html
+layout: layout.njk
 ---
 Contest of Environmental Policy Ideas Welcome
 =============================================

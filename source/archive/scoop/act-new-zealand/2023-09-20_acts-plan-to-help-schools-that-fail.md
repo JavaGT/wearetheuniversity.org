@@ -1,9 +1,12 @@
 ---
 slug: acts-plan-to-help-schools-that-fail
-title: "ACT’s Plan To Help Schools That Fail"
-date: 2023-09-20
-source-url: https://www.scoop.co.nz/stories/PA2309/S00111/acts-plan-to-help-schools-that-fail.htm
+title: ACT’s Plan To Help Schools That Fail
+date: 2023-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00111/acts-plan-to-help-schools-that-fail.htm
 author: act-new-zealand
+permalink: /archive/2023/09/20/acts-plan-to-help-schools-that-fail/index.html
+layout: layout.njk
 ---
 ACT’s Plan To Help Schools That Fail
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: outdated-business-models-undermine-copyright-law
-title: "Outdated business models undermine copyright law"
-date: 2010-04-23
-source-url: https://www.scoop.co.nz/stories/PA1004/S00287/outdated-business-models-undermine-copyright-law.htm
+title: Outdated business models undermine copyright law
+date: 2010-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00287/outdated-business-models-undermine-copyright-law.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/04/23/outdated-business-models-undermine-copyright-law/index.html
+layout: layout.njk
 ---
 Outdated business models undermine copyright law
 ================================================

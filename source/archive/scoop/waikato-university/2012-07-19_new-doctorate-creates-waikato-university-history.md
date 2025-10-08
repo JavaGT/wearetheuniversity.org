@@ -1,9 +1,13 @@
 ---
 slug: new-doctorate-creates-waikato-university-history
-title: "New doctorate creates Waikato University history"
-date: 2012-07-19
-source-url: https://www.scoop.co.nz/stories/ED1207/S00080/new-doctorate-creates-waikato-university-history.htm
+title: New doctorate creates Waikato University history
+date: 2012-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00080/new-doctorate-creates-waikato-university-history.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/07/19/new-doctorate-creates-waikato-university-history/index.html
+layout: layout.njk
 ---
 New doctorate creates Waikato University history
 ================================================

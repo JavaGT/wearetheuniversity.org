@@ -1,9 +1,13 @@
 ---
 slug: greens-celebrate-huge-step-forward-for-adhd-community
-title: "Greens Celebrate Huge Step Forward For ADHD Community"
-date: 2024-09-12
-source-url: https://www.scoop.co.nz/stories/PA2409/S00006/greens-celebrate-huge-step-forward-for-adhd-community.htm
+title: Greens Celebrate Huge Step Forward For ADHD Community
+date: 2024-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00006/greens-celebrate-huge-step-forward-for-adhd-community.htm
 author: green-party
+permalink: >-
+  /archive/2024/09/12/greens-celebrate-huge-step-forward-for-adhd-community/index.html
+layout: layout.njk
 ---
 Greens Celebrate Huge Step Forward For ADHD Community
 =====================================================

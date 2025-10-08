@@ -1,9 +1,12 @@
 ---
 slug: triple-graduation-celebrations-for-phd-graduate
-title: "Triple graduation celebrations for PhD graduate"
-date: 2015-11-27
-source-url: https://www.scoop.co.nz/stories/ED1511/S00137/triple-graduation-celebrations-for-phd-graduate.htm
+title: Triple graduation celebrations for PhD graduate
+date: 2015-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00137/triple-graduation-celebrations-for-phd-graduate.htm
 author: massey-university
+permalink: /archive/2015/11/27/triple-graduation-celebrations-for-phd-graduate/index.html
+layout: layout.njk
 ---
 Triple graduation celebrations for PhD graduate
 ===============================================

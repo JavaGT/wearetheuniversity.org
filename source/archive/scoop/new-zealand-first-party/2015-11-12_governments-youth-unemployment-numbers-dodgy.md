@@ -1,9 +1,12 @@
 ---
 slug: governments-youth-unemployment-numbers-dodgy
-title: "Government’s Youth Unemployment Numbers Dodgy"
-date: 2015-11-12
-source-url: https://www.scoop.co.nz/stories/PA1511/S00242/governments-youth-unemployment-numbers-dodgy.htm
+title: Government’s Youth Unemployment Numbers Dodgy
+date: 2015-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00242/governments-youth-unemployment-numbers-dodgy.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/12/governments-youth-unemployment-numbers-dodgy/index.html
+layout: layout.njk
 ---
 Government’s Youth Unemployment Numbers Dodgy
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: no-accountability-for-scholarship-debacle
-title: "No accountability for scholarship debacle"
-date: 2005-02-09
-source-url: https://www.scoop.co.nz/stories/PA0502/S00208/no-accountability-for-scholarship-debacle.htm
+title: No accountability for scholarship debacle
+date: 2005-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00208/no-accountability-for-scholarship-debacle.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/09/no-accountability-for-scholarship-debacle/index.html
+layout: layout.njk
 ---
 No accountability for scholarship debacle
 =========================================

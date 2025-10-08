@@ -1,9 +1,13 @@
 ---
 slug: first-step-toward-protecting-our-first-responders
-title: "First Step toward Protecting Our First Responders"
-date: 2019-12-11
-source-url: https://www.scoop.co.nz/stories/PA1912/S00089/first-step-toward-protecting-our-first-responders.htm
+title: First Step toward Protecting Our First Responders
+date: 2019-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00089/first-step-toward-protecting-our-first-responders.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2019/12/11/first-step-toward-protecting-our-first-responders/index.html
+layout: layout.njk
 ---
 First Step toward Protecting Our First Responders
 =================================================

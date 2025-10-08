@@ -1,9 +1,12 @@
 ---
 slug: what-makes-the-tourism-industry-more-resilient
-title: "What makes the tourism industry more resilient?"
-date: 2016-06-08
-source-url: https://www.scoop.co.nz/stories/ED1606/S00019/what-makes-the-tourism-industry-more-resilient.htm
+title: What makes the tourism industry more resilient?
+date: 2016-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00019/what-makes-the-tourism-industry-more-resilient.htm
 author: university-of-canterbury
+permalink: /archive/2016/06/08/what-makes-the-tourism-industry-more-resilient/index.html
+layout: layout.njk
 ---
 What makes the tourism industry more resilient?
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: national-ditches-mana-after-by-election-loss
-title: "National ditches Mana after By-election loss"
-date: 2010-12-01
-source-url: https://www.scoop.co.nz/stories/PA1012/S00001/national-ditches-mana-after-by-election-loss.htm
+title: National ditches Mana after By-election loss
+date: 2010-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00001/national-ditches-mana-after-by-election-loss.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/01/national-ditches-mana-after-by-election-loss/index.html
+layout: layout.njk
 ---
 National ditches Mana after By-election loss
 ============================================

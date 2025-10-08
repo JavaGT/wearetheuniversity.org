@@ -1,9 +1,12 @@
 ---
 slug: trevor-gives-a-lesson-in-union-busting
-title: "Trevor Gives A Lesson In Union Busting"
-date: 2003-12-04
-source-url: https://www.scoop.co.nz/stories/PA0312/S00094/trevor-gives-a-lesson-in-union-busting.htm
+title: Trevor Gives A Lesson In Union Busting
+date: 2003-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00094/trevor-gives-a-lesson-in-union-busting.htm
 author: green-party
+permalink: /archive/2003/12/04/trevor-gives-a-lesson-in-union-busting/index.html
+layout: layout.njk
 ---
 Trevor Gives A Lesson In Union Busting
 ======================================

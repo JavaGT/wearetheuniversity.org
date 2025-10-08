@@ -1,9 +1,12 @@
 ---
 slug: thesis-provides-new-insight-into-queens-music
-title: "Thesis Provides New Insight into Queen’s Music"
-date: 2016-07-06
-source-url: https://www.scoop.co.nz/stories/ED1607/S00025/thesis-provides-new-insight-into-queens-music.htm
+title: Thesis Provides New Insight into Queen’s Music
+date: 2016-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00025/thesis-provides-new-insight-into-queens-music.htm
 author: university-of-waikato
+permalink: /archive/2016/07/06/thesis-provides-new-insight-into-queens-music/index.html
+layout: layout.njk
 ---
 Thesis Provides New Insight into Queen’s Music
 ==============================================

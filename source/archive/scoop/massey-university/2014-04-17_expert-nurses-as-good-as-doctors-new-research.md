@@ -1,9 +1,12 @@
 ---
 slug: expert-nurses-as-good-as-doctors-new-research
-title: "Expert nurses as good as doctors – new research"
-date: 2014-04-17
-source-url: https://www.scoop.co.nz/stories/GE1404/S00066/expert-nurses-as-good-as-doctors-new-research.htm
+title: Expert nurses as good as doctors – new research
+date: 2014-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1404/S00066/expert-nurses-as-good-as-doctors-new-research.htm
 author: massey-university
+permalink: /archive/2014/04/17/expert-nurses-as-good-as-doctors-new-research/index.html
+layout: layout.njk
 ---
 Expert nurses as good as doctors – new research
 ===============================================

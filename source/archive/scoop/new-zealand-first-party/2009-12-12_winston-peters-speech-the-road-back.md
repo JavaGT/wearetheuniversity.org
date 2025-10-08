@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-the-road-back
-title: "Winston Peters' Speech: The Road Back"
-date: 2009-12-12
-source-url: https://www.scoop.co.nz/stories/PO0912/S00165/winston-peters-speech-the-road-back.htm
+title: 'Winston Peters'' Speech: The Road Back'
+date: 2009-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0912/S00165/winston-peters-speech-the-road-back.htm
 author: new-zealand-first-party
+permalink: /archive/2009/12/12/winston-peters-speech-the-road-back/index.html
+layout: layout.njk
 ---
 Winston Peters' Speech: The Road Back
 =====================================

@@ -1,9 +1,11 @@
 ---
 slug: kiwis-helping-kiwi
-title: "Kiwis helping kiwi"
-date: 2012-08-01
+title: Kiwis helping kiwi
+date: 2012-08-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1208/S00001/kiwis-helping-kiwi.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/08/01/kiwis-helping-kiwi/index.html
+layout: layout.njk
 ---
 Kiwis helping kiwi
 ==================

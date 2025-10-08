@@ -1,9 +1,12 @@
 ---
 slug: peters-myths-and-legends-of-election-2008
-title: "Peters: Myths and Legends of Election 2008"
-date: 2008-10-28
-source-url: https://www.scoop.co.nz/stories/PA0810/S00621/peters-myths-and-legends-of-election-2008.htm
+title: 'Peters: Myths and Legends of Election 2008'
+date: 2008-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00621/peters-myths-and-legends-of-election-2008.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/28/peters-myths-and-legends-of-election-2008/index.html
+layout: layout.njk
 ---
 Peters: Myths and Legends of Election 2008
 ==========================================

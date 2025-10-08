@@ -1,9 +1,12 @@
 ---
 slug: private-savings-scheme-makes-mockery
-title: "Private Savings Scheme Makes Mockery"
-date: 2002-05-06
-source-url: https://www.scoop.co.nz/stories/PO0205/S00062/private-savings-scheme-makes-mockery.htm
+title: Private Savings Scheme Makes Mockery
+date: 2002-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00062/private-savings-scheme-makes-mockery.htm
 author: otago-university-students-association
+permalink: /archive/2002/05/06/private-savings-scheme-makes-mockery/index.html
+layout: layout.njk
 ---
 Private Savings Scheme Makes Mockery
 ====================================

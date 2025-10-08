@@ -1,9 +1,11 @@
 ---
 slug: taking-a-different-stage
-title: "Taking a different stage"
-date: 2013-12-06
+title: Taking a different stage
+date: 2013-12-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1312/S00208/taking-a-different-stage.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/12/06/taking-a-different-stage/index.html
+layout: layout.njk
 ---
 Taking a different stage
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: climate-change-beliefs-biases-and-measures
-title: "Climate change: beliefs, biases and measures"
-date: 2015-07-09
-source-url: https://www.scoop.co.nz/stories/ED1507/S00060/climate-change-beliefs-biases-and-measures.htm
+title: 'Climate change: beliefs, biases and measures'
+date: 2015-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00060/climate-change-beliefs-biases-and-measures.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/07/09/climate-change-beliefs-biases-and-measures/index.html
+layout: layout.njk
 ---
 Climate change: beliefs, biases and measures
 ============================================

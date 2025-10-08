@@ -1,9 +1,12 @@
 ---
 slug: acumen-republic-business-breakfast
-title: "Acumen Republic Business Breakfast"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/PA1007/S00459/acumen-republic-business-breakfast.htm
+title: Acumen Republic Business Breakfast
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00459/acumen-republic-business-breakfast.htm
 author: te-pati-maori
+permalink: /archive/2010/07/29/acumen-republic-business-breakfast/index.html
+layout: layout.njk
 ---
 Acumen Republic Business Breakfast
 ==================================

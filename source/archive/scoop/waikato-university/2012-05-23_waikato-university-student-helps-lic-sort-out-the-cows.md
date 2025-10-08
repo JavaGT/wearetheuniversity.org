@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-student-helps-lic-sort-out-the-cows
-title: "Waikato University student helps LIC sort out the cows"
-date: 2012-05-23
-source-url: https://www.scoop.co.nz/stories/ED1205/S00100/waikato-university-student-helps-lic-sort-out-the-cows.htm
+title: Waikato University student helps LIC sort out the cows
+date: 2012-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00100/waikato-university-student-helps-lic-sort-out-the-cows.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/05/23/waikato-university-student-helps-lic-sort-out-the-cows/index.html
+layout: layout.njk
 ---
 Waikato University student helps LIC sort out the cows
 ======================================================

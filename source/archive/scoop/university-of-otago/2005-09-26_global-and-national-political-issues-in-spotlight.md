@@ -1,9 +1,13 @@
 ---
 slug: global-and-national-political-issues-in-spotlight
-title: "Global and National Political Issues in Spotlight"
-date: 2005-09-26
-source-url: https://www.scoop.co.nz/stories/ED0509/S00083/global-and-national-political-issues-in-spotlight.htm
+title: Global and National Political Issues in Spotlight
+date: 2005-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00083/global-and-national-political-issues-in-spotlight.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/09/26/global-and-national-political-issues-in-spotlight/index.html
+layout: layout.njk
 ---
 Global and National Political Issues in Spotlight
 =================================================

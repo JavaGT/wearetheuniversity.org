@@ -1,9 +1,12 @@
 ---
 slug: creative-temporary-sculpture-series-launched
-title: "Creative temporary sculpture series launched"
-date: 2008-09-02
-source-url: https://www.scoop.co.nz/stories/CU0809/S00033/creative-temporary-sculpture-series-launched.htm
+title: Creative temporary sculpture series launched
+date: 2008-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0809/S00033/creative-temporary-sculpture-series-launched.htm
 author: massey-university
+permalink: /archive/2008/09/02/creative-temporary-sculpture-series-launched/index.html
+layout: layout.njk
 ---
 Creative temporary sculpture series launched
 ============================================

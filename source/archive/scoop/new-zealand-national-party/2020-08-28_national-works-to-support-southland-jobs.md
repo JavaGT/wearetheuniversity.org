@@ -1,9 +1,12 @@
 ---
 slug: national-works-to-support-southland-jobs
-title: "National Works To Support Southland Jobs"
-date: 2020-08-28
-source-url: https://www.scoop.co.nz/stories/PA2008/S00219/national-works-to-support-southland-jobs.htm
+title: National Works To Support Southland Jobs
+date: 2020-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00219/national-works-to-support-southland-jobs.htm
 author: new-zealand-national-party
+permalink: /archive/2020/08/28/national-works-to-support-southland-jobs/index.html
+layout: layout.njk
 ---
 National Works To Support Southland Jobs
 ========================================

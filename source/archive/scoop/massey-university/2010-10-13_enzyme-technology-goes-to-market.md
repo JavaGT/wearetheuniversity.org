@@ -1,9 +1,12 @@
 ---
 slug: enzyme-technology-goes-to-market
-title: "Enzyme technology goes to market"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/ED1010/S00045/enzyme-technology-goes-to-market.htm
+title: Enzyme technology goes to market
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00045/enzyme-technology-goes-to-market.htm
 author: massey-university
+permalink: /archive/2010/10/13/enzyme-technology-goes-to-market/index.html
+layout: layout.njk
 ---
 Enzyme technology goes to market
 ================================

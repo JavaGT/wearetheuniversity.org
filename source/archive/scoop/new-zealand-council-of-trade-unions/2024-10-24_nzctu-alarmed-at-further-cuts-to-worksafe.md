@@ -1,9 +1,12 @@
 ---
 slug: nzctu-alarmed-at-further-cuts-to-worksafe
-title: "NZCTU Alarmed At Further Cuts To WorkSafe"
-date: 2024-10-24
-source-url: https://www.scoop.co.nz/stories/AK2410/S00776/nzctu-alarmed-at-further-cuts-to-worksafe.htm
+title: NZCTU Alarmed At Further Cuts To WorkSafe
+date: 2024-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2410/S00776/nzctu-alarmed-at-further-cuts-to-worksafe.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2024/10/24/nzctu-alarmed-at-further-cuts-to-worksafe/index.html
+layout: layout.njk
 ---
 NZCTU Alarmed At Further Cuts To WorkSafe
 =========================================

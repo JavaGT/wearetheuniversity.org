@@ -1,9 +1,12 @@
 ---
 slug: labours-legacy-of-taxes-and-racial-tension
-title: "Labour's legacy of taxes and racial tension"
-date: 2003-07-23
-source-url: https://www.scoop.co.nz/stories/PA0307/S00403/labours-legacy-of-taxes-and-racial-tension.htm
+title: Labour's legacy of taxes and racial tension
+date: 2003-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00403/labours-legacy-of-taxes-and-racial-tension.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/23/labours-legacy-of-taxes-and-racial-tension/index.html
+layout: layout.njk
 ---
 Labour's legacy of taxes and racial tension
 ===========================================

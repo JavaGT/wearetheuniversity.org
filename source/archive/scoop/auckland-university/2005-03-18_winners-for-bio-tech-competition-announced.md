@@ -1,9 +1,12 @@
 ---
 slug: winners-for-bio-tech-competition-announced
-title: "Winners for bio-tech competition announced"
-date: 2005-03-18
-source-url: https://www.scoop.co.nz/stories/ED0503/S00063/winners-for-bio-tech-competition-announced.htm
+title: Winners for bio-tech competition announced
+date: 2005-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00063/winners-for-bio-tech-competition-announced.htm
 author: auckland-university
+permalink: /archive/2005/03/18/winners-for-bio-tech-competition-announced/index.html
+layout: layout.njk
 ---
 Winners for bio-tech competition announced
 ==========================================

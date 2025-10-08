@@ -1,9 +1,12 @@
 ---
 slug: wool-growers-have-no-confidence-in-wool-board
-title: "Wool Growers Have No Confidence In Wool Board"
-date: 1999-07-22
-source-url: https://www.scoop.co.nz/stories/PO9907/S00056/wool-growers-have-no-confidence-in-wool-board.htm
+title: Wool Growers Have No Confidence In Wool Board
+date: 1999-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9907/S00056/wool-growers-have-no-confidence-in-wool-board.htm
 author: act-new-zealand
+permalink: /archive/1999/07/22/wool-growers-have-no-confidence-in-wool-board/index.html
+layout: layout.njk
 ---
 Wool Growers Have No Confidence In Wool Board
 =============================================

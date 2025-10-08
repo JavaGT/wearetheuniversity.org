@@ -1,9 +1,13 @@
 ---
 slug: govt-gives-cash-to-wealthy-school-while-christchurch-suffers
-title: "Govt gives cash to wealthy school while Christchurch suffers"
-date: 2013-01-30
-source-url: https://www.scoop.co.nz/stories/PA1301/S00158/govt-gives-cash-to-wealthy-school-while-christchurch-suffers.htm
+title: Govt gives cash to wealthy school while Christchurch suffers
+date: 2013-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00158/govt-gives-cash-to-wealthy-school-while-christchurch-suffers.htm
 author: green-party
+permalink: >-
+  /archive/2013/01/30/govt-gives-cash-to-wealthy-school-while-christchurch-suffers/index.html
+layout: layout.njk
 ---
 Govt gives cash to wealthy school while Christchurch suffers
 ============================================================

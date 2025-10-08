@@ -1,9 +1,12 @@
 ---
 slug: maxim-real-issues-no-162-24-june-2005
-title: "Maxim Real Issues: No. 162,   24 JUNE 2005"
-date: 2005-06-24
-source-url: https://www.scoop.co.nz/stories/PO0506/S00267/maxim-real-issues-no-162-24-june-2005.htm
+title: 'Maxim Real Issues: No. 162,   24 JUNE 2005'
+date: 2005-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0506/S00267/maxim-real-issues-no-162-24-june-2005.htm
 author: maxim-institute
+permalink: /archive/2005/06/24/maxim-real-issues-no-162-24-june-2005/index.html
+layout: layout.njk
 ---
 Maxim Real Issues: No. 162, 24 JUNE 2005
 ========================================

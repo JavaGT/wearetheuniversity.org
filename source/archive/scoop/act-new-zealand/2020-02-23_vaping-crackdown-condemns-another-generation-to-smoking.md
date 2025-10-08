@@ -1,9 +1,13 @@
 ---
 slug: vaping-crackdown-condemns-another-generation-to-smoking
-title: "Vaping Crackdown Condemns Another Generation To Smoking"
-date: 2020-02-23
-source-url: https://www.scoop.co.nz/stories/PA2002/S00142/vaping-crackdown-condemns-another-generation-to-smoking.htm
+title: Vaping Crackdown Condemns Another Generation To Smoking
+date: 2020-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00142/vaping-crackdown-condemns-another-generation-to-smoking.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/02/23/vaping-crackdown-condemns-another-generation-to-smoking/index.html
+layout: layout.njk
 ---
 Vaping Crackdown Condemns Another Generation To Smoking
 =======================================================

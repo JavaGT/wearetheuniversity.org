@@ -1,9 +1,12 @@
 ---
 slug: politicians-show-depressing-lack-of-courage
-title: "Politicians show depressing lack of courage"
-date: 2016-09-29
-source-url: https://www.scoop.co.nz/stories/PA1609/S00510/politicians-show-depressing-lack-of-courage.htm
+title: Politicians show depressing lack of courage
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00510/politicians-show-depressing-lack-of-courage.htm
 author: act-new-zealand
+permalink: /archive/2016/09/29/politicians-show-depressing-lack-of-courage/index.html
+layout: layout.njk
 ---
 Politicians show depressing lack of courage
 ===========================================

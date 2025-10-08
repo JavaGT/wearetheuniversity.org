@@ -1,9 +1,13 @@
 ---
 slug: re-booting-biculturalism-in-aotearoa-new-zealand
-title: "Re-booting biculturalism in Aotearoa-New Zealand"
-date: 2018-02-02
-source-url: https://www.scoop.co.nz/stories/PO1802/S00021/re-booting-biculturalism-in-aotearoa-new-zealand.htm
+title: Re-booting biculturalism in Aotearoa-New Zealand
+date: 2018-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1802/S00021/re-booting-biculturalism-in-aotearoa-new-zealand.htm
 author: aut-university
+permalink: >-
+  /archive/2018/02/02/re-booting-biculturalism-in-aotearoa-new-zealand/index.html
+layout: layout.njk
 ---
 Re-booting biculturalism in Aotearoa-New Zealand
 ================================================

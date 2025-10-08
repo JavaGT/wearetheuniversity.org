@@ -1,9 +1,12 @@
 ---
 slug: newsworthy-27-january-2006-no-58
-title: "Newsworthy 27 January 2006 - No. 58"
-date: 2006-01-27
-source-url: https://www.scoop.co.nz/stories/PA0601/S00147/newsworthy-27-january-2006-no-58.htm
+title: Newsworthy 27 January 2006 - No. 58
+date: 2006-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00147/newsworthy-27-january-2006-no-58.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/27/newsworthy-27-january-2006-no-58/index.html
+layout: layout.njk
 ---
 Newsworthy 27 January 2006 - No. 58
 ===================================

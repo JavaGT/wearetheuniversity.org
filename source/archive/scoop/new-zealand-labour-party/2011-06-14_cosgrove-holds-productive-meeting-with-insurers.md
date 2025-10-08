@@ -1,9 +1,12 @@
 ---
 slug: cosgrove-holds-productive-meeting-with-insurers
-title: "Cosgrove holds productive meeting with insurers"
-date: 2011-06-14
-source-url: https://www.scoop.co.nz/stories/PA1106/S00210/cosgrove-holds-productive-meeting-with-insurers.htm
+title: Cosgrove holds productive meeting with insurers
+date: 2011-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00210/cosgrove-holds-productive-meeting-with-insurers.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/14/cosgrove-holds-productive-meeting-with-insurers/index.html
+layout: layout.njk
 ---
 Cosgrove holds productive meeting with insurers
 ===============================================

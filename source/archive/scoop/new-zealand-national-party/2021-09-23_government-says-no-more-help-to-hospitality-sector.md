@@ -1,9 +1,13 @@
 ---
 slug: government-says-no-more-help-to-hospitality-sector
-title: "Government Says No More Help To Hospitality Sector"
-date: 2021-09-23
-source-url: https://www.scoop.co.nz/stories/PA2109/S00214/government-says-no-more-help-to-hospitality-sector.htm
+title: Government Says No More Help To Hospitality Sector
+date: 2021-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00214/government-says-no-more-help-to-hospitality-sector.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/23/government-says-no-more-help-to-hospitality-sector/index.html
+layout: layout.njk
 ---
 Government Says No More Help To Hospitality Sector
 ==================================================

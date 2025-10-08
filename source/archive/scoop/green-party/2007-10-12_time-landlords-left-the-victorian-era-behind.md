@@ -1,9 +1,12 @@
 ---
 slug: time-landlords-left-the-victorian-era-behind
-title: "Time landlords left the Victorian era behind"
-date: 2007-10-12
-source-url: https://www.scoop.co.nz/stories/PA0710/S00258/time-landlords-left-the-victorian-era-behind.htm
+title: Time landlords left the Victorian era behind
+date: 2007-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00258/time-landlords-left-the-victorian-era-behind.htm
 author: green-party
+permalink: /archive/2007/10/12/time-landlords-left-the-victorian-era-behind/index.html
+layout: layout.njk
 ---
 Time landlords left the Victorian era behind
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: tim-costley-selected-as-nationals-candidate-in-ōtaki
-title: "Tim Costley Selected As National’s Candidate In Ōtaki"
-date: 2022-12-13
-source-url: https://www.scoop.co.nz/stories/PA2212/S00116/tim-costley-selected-as-nationals-candidate-in-otaki.htm
+title: Tim Costley Selected As National’s Candidate In Ōtaki
+date: 2022-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00116/tim-costley-selected-as-nationals-candidate-in-otaki.htm
 author: new-zealand-national-party
+permalink: /archive/2022/12/13/tim-costley-selected-as-nationals-candidate-in-/index.html
+layout: layout.njk
 ---
 Tim Costley Selected As National’s Candidate In Ōtaki
 =====================================================

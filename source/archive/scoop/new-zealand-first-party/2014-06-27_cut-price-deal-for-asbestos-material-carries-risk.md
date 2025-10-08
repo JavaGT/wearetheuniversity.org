@@ -1,9 +1,13 @@
 ---
 slug: cut-price-deal-for-asbestos-material-carries-risk
-title: "Cut- Price Deal for Asbestos Material Carries Risk"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/PA1406/S00435/cut-price-deal-for-asbestos-material-carries-risk.htm
+title: Cut- Price Deal for Asbestos Material Carries Risk
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00435/cut-price-deal-for-asbestos-material-carries-risk.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/06/27/cut-price-deal-for-asbestos-material-carries-risk/index.html
+layout: layout.njk
 ---
 Cut- Price Deal for Asbestos Material Carries Risk
 ==================================================

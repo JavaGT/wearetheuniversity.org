@@ -1,9 +1,12 @@
 ---
 slug: ongoing-funding-confirmed-for-new-drug-research
-title: "Ongoing Funding Confirmed for New Drug Research"
-date: 2004-02-10
-source-url: https://www.scoop.co.nz/stories/GE0402/S00025/ongoing-funding-confirmed-for-new-drug-research.htm
+title: Ongoing Funding Confirmed for New Drug Research
+date: 2004-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0402/S00025/ongoing-funding-confirmed-for-new-drug-research.htm
 author: auckland-university
+permalink: /archive/2004/02/10/ongoing-funding-confirmed-for-new-drug-research/index.html
+layout: layout.njk
 ---
 Ongoing Funding Confirmed for New Drug Research
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: supreme-court-a-trojan-horse-for-hidden-agenda
-title: "Supreme Court a Trojan horse for hidden agenda"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/PA0310/S00198/supreme-court-a-trojan-horse-for-hidden-agenda.htm
+title: Supreme Court a Trojan horse for hidden agenda
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00198/supreme-court-a-trojan-horse-for-hidden-agenda.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/09/supreme-court-a-trojan-horse-for-hidden-agenda/index.html
+layout: layout.njk
 ---
 Supreme Court a Trojan horse for hidden agenda
 ==============================================

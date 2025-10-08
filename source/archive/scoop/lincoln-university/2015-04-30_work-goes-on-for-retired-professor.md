@@ -1,9 +1,12 @@
 ---
 slug: work-goes-on-for-retired-professor
-title: "Work goes on for retired professor"
-date: 2015-04-30
-source-url: https://www.scoop.co.nz/stories/ED1504/S00087/work-goes-on-for-retired-professor.htm
+title: Work goes on for retired professor
+date: 2015-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00087/work-goes-on-for-retired-professor.htm
 author: lincoln-university
+permalink: /archive/2015/04/30/work-goes-on-for-retired-professor/index.html
+layout: layout.njk
 ---
 Work goes on for retired professor
 ==================================

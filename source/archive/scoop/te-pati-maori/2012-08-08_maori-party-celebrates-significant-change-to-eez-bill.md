@@ -1,9 +1,13 @@
 ---
 slug: maori-party-celebrates-significant-change-to-eez-bill
-title: "Maori Party Celebrates Significant Change to EEZ Bill"
-date: 2012-08-08
-source-url: https://www.scoop.co.nz/stories/PA1208/S00100/maori-party-celebrates-significant-change-to-eez-bill.htm
+title: Maori Party Celebrates Significant Change to EEZ Bill
+date: 2012-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00100/maori-party-celebrates-significant-change-to-eez-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/08/08/maori-party-celebrates-significant-change-to-eez-bill/index.html
+layout: layout.njk
 ---
 Maori Party Celebrates Significant Change to EEZ Bill
 =====================================================

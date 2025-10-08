@@ -1,9 +1,12 @@
 ---
 slug: taranaki-the-treaty-and-human-rights
-title: "Taranaki, the Treaty and Human Rights"
-date: 2010-07-15
-source-url: https://www.scoop.co.nz/stories/PA1007/S00220/taranaki-the-treaty-and-human-rights.htm
+title: Taranaki, the Treaty and Human Rights
+date: 2010-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00220/taranaki-the-treaty-and-human-rights.htm
 author: te-pati-maori
+permalink: /archive/2010/07/15/taranaki-the-treaty-and-human-rights/index.html
+layout: layout.njk
 ---
 Taranaki, the Treaty and Human Rights
 =====================================

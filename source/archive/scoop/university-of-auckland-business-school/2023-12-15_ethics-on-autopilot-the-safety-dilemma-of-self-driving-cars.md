@@ -1,9 +1,13 @@
 ---
 slug: ethics-on-autopilot-the-safety-dilemma-of-self-driving-cars
-title: "Ethics On Autopilot: The Safety Dilemma Of Self-driving Cars"
-date: 2023-12-15
-source-url: https://www.scoop.co.nz/stories/SC2312/S00023/ethics-on-autopilot-the-safety-dilemma-of-self-driving-cars.htm
+title: 'Ethics On Autopilot: The Safety Dilemma Of Self-driving Cars'
+date: 2023-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2312/S00023/ethics-on-autopilot-the-safety-dilemma-of-self-driving-cars.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2023/12/15/ethics-on-autopilot-the-safety-dilemma-of-self-driving-cars/index.html
+layout: layout.njk
 ---
 Ethics On Autopilot: The Safety Dilemma Of Self-driving Cars
 ============================================================

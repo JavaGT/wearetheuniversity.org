@@ -1,9 +1,12 @@
 ---
 slug: lack-of-rights-or-the-pull-of-home-prompts-māori-migration
-title: "lack of rights or the pull of home prompts Māori migration"
-date: 2013-03-06
-source-url: https://www.scoop.co.nz/stories/PO1303/S00066/lack-of-rights-or-the-pull-of-home-prompts-maori-migration.htm
+title: lack of rights or the pull of home prompts Māori migration
+date: 2013-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00066/lack-of-rights-or-the-pull-of-home-prompts-maori-migration.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/03/06/lack-of-rights-or-the-pull-of-home-prompts-m/index.html
+layout: layout.njk
 ---
 lack of rights or the pull of home prompts Māori migration
 ==========================================================

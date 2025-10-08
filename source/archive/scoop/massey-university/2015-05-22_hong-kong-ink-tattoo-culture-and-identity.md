@@ -1,9 +1,12 @@
 ---
 slug: hong-kong-ink-tattoo-culture-and-identity
-title: "Hong Kong Ink - Tattoo Culture and Identity"
-date: 2015-05-22
-source-url: https://www.scoop.co.nz/stories/CU1505/S00406/hong-kong-ink-tattoo-culture-and-identity.htm
+title: Hong Kong Ink - Tattoo Culture and Identity
+date: 2015-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00406/hong-kong-ink-tattoo-culture-and-identity.htm
 author: massey-university
+permalink: /archive/2015/05/22/hong-kong-ink-tattoo-culture-and-identity/index.html
+layout: layout.njk
 ---
 Hong Kong Ink - Tattoo Culture and Identity
 ===========================================

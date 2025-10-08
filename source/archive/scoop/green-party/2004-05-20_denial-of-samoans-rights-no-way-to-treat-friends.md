@@ -1,9 +1,13 @@
 ---
 slug: denial-of-samoans-rights-no-way-to-treat-friends
-title: "Denial of Samoans' rights no way to treat friends"
-date: 2004-05-20
-source-url: https://www.scoop.co.nz/stories/PA0405/S00434/denial-of-samoans-rights-no-way-to-treat-friends.htm
+title: Denial of Samoans' rights no way to treat friends
+date: 2004-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00434/denial-of-samoans-rights-no-way-to-treat-friends.htm
 author: green-party
+permalink: >-
+  /archive/2004/05/20/denial-of-samoans-rights-no-way-to-treat-friends/index.html
+layout: layout.njk
 ---
 Denial of Samoans' rights no way to treat friends
 =================================================

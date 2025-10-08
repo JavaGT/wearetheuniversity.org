@@ -1,9 +1,13 @@
 ---
 slug: staff-numbers-at-labour-inspectorate-need-to-trebled
-title: "Staff Numbers at Labour Inspectorate Need to Trebled"
-date: 2017-09-15
-source-url: https://www.scoop.co.nz/stories/PA1709/S00178/staff-numbers-at-labour-inspectorate-need-to-trebled.htm
+title: Staff Numbers at Labour Inspectorate Need to Trebled
+date: 2017-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00178/staff-numbers-at-labour-inspectorate-need-to-trebled.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/09/15/staff-numbers-at-labour-inspectorate-need-to-trebled/index.html
+layout: layout.njk
 ---
 Staff Numbers at Labour Inspectorate Need to Trebled
 ====================================================

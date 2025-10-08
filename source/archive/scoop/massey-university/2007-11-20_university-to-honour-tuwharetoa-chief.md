@@ -1,9 +1,12 @@
 ---
 slug: university-to-honour-tuwharetoa-chief
-title: "University to honour Tuwharetoa chief"
-date: 2007-11-20
-source-url: https://www.scoop.co.nz/stories/ED0711/S00095/university-to-honour-tuwharetoa-chief.htm
+title: University to honour Tuwharetoa chief
+date: 2007-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00095/university-to-honour-tuwharetoa-chief.htm
 author: massey-university
+permalink: /archive/2007/11/20/university-to-honour-tuwharetoa-chief/index.html
+layout: layout.njk
 ---
 University to honour Tuwharetoa chief
 =====================================

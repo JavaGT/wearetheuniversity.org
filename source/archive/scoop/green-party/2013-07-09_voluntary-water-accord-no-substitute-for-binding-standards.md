@@ -1,9 +1,13 @@
 ---
 slug: voluntary-water-accord-no-substitute-for-binding-standards
-title: "Voluntary water accord no substitute for binding standards"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/PA1307/S00156/voluntary-water-accord-no-substitute-for-binding-standards.htm
+title: Voluntary water accord no substitute for binding standards
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00156/voluntary-water-accord-no-substitute-for-binding-standards.htm
 author: green-party
+permalink: >-
+  /archive/2013/07/09/voluntary-water-accord-no-substitute-for-binding-standards/index.html
+layout: layout.njk
 ---
 Voluntary water accord no substitute for binding standards
 ==========================================================

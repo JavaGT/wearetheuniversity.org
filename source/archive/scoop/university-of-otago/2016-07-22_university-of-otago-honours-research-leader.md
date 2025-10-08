@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-honours-research-leader
-title: "University of Otago honours research leader"
-date: 2016-07-22
-source-url: https://www.scoop.co.nz/stories/SC1607/S00051/university-of-otago-honours-research-leader.htm
+title: University of Otago honours research leader
+date: 2016-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00051/university-of-otago-honours-research-leader.htm
 author: university-of-otago
+permalink: /archive/2016/07/22/university-of-otago-honours-research-leader/index.html
+layout: layout.njk
 ---
 University of Otago honours research leader
 ===========================================

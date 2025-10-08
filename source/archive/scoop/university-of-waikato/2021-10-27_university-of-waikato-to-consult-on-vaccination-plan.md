@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-to-consult-on-vaccination-plan
-title: "University Of Waikato To Consult On Vaccination Plan"
-date: 2021-10-27
-source-url: https://www.scoop.co.nz/stories/ED2110/S00024/university-of-waikato-to-consult-on-vaccination-plan.htm
+title: University Of Waikato To Consult On Vaccination Plan
+date: 2021-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2110/S00024/university-of-waikato-to-consult-on-vaccination-plan.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/10/27/university-of-waikato-to-consult-on-vaccination-plan/index.html
+layout: layout.njk
 ---
 University Of Waikato To Consult On Vaccination Plan
 ====================================================

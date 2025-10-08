@@ -1,9 +1,12 @@
 ---
 slug: adult-role-first-of-its-kind-in-new-zealand
-title: "Adult role first of its kind in New Zealand"
-date: 2005-08-31
-source-url: https://www.scoop.co.nz/stories/ED0508/S00124/adult-role-first-of-its-kind-in-new-zealand.htm
+title: Adult role first of its kind in New Zealand
+date: 2005-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00124/adult-role-first-of-its-kind-in-new-zealand.htm
 author: university-of-canterbury
+permalink: /archive/2005/08/31/adult-role-first-of-its-kind-in-new-zealand/index.html
+layout: layout.njk
 ---
 Adult role first of its kind in New Zealand
 ===========================================

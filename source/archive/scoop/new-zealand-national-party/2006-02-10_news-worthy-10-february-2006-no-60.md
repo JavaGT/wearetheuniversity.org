@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-10-february-2006-no-60
-title: "News Worthy: 10 February 2006 - No. 60"
-date: 2006-02-10
-source-url: https://www.scoop.co.nz/stories/PA0602/S00125/news-worthy-10-february-2006-no-60.htm
+title: 'News Worthy: 10 February 2006 - No. 60'
+date: 2006-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00125/news-worthy-10-february-2006-no-60.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/10/news-worthy-10-february-2006-no-60/index.html
+layout: layout.njk
 ---
 News Worthy: 10 February 2006 - No. 60
 ======================================

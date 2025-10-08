@@ -1,9 +1,12 @@
 ---
 slug: tec-rejection-of-fee-hikes-a-win-for-students
-title: "TEC rejection of fee hikes a win for students"
-date: 2005-12-23
-source-url: https://www.scoop.co.nz/stories/ED0512/S00098/tec-rejection-of-fee-hikes-a-win-for-students.htm
+title: TEC rejection of fee hikes a win for students
+date: 2005-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00098/tec-rejection-of-fee-hikes-a-win-for-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/12/23/tec-rejection-of-fee-hikes-a-win-for-students/index.html
+layout: layout.njk
 ---
 TEC rejection of fee hikes a win for students
 =============================================

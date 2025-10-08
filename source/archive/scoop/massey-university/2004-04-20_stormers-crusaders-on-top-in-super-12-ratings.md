@@ -1,9 +1,12 @@
 ---
 slug: stormers-crusaders-on-top-in-super-12-ratings
-title: "Stormers, Crusaders  on top in Super 12 ratings"
-date: 2004-04-20
-source-url: https://www.scoop.co.nz/stories/SP0404/S00007/stormers-crusaders-on-top-in-super-12-ratings.htm
+title: Stormers, Crusaders  on top in Super 12 ratings
+date: 2004-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP0404/S00007/stormers-crusaders-on-top-in-super-12-ratings.htm
 author: massey-university
+permalink: /archive/2004/04/20/stormers-crusaders-on-top-in-super-12-ratings/index.html
+layout: layout.njk
 ---
 Stormers, Crusaders on top in Super 12 ratings
 ==============================================

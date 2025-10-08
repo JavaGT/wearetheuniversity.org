@@ -1,9 +1,12 @@
 ---
 slug: victoria-joins-australia-nz-school-of-govt
-title: "Victoria joins Australia NZ School of Govt"
-date: 2002-09-10
-source-url: https://www.scoop.co.nz/stories/ED0209/S00017/victoria-joins-australia-nz-school-of-govt.htm
+title: Victoria joins Australia NZ School of Govt
+date: 2002-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00017/victoria-joins-australia-nz-school-of-govt.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/09/10/victoria-joins-australia-nz-school-of-govt/index.html
+layout: layout.njk
 ---
 Victoria joins Australia NZ School of Govt
 ==========================================

@@ -1,9 +1,11 @@
 ---
 slug: students-will-see-real-gains
-title: "Students will see real gains"
-date: 2005-07-26
+title: Students will see real gains
+date: 2005-07-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0507/S00098/students-will-see-real-gains.htm
 author: association-of-university-staff
+permalink: /archive/2005/07/26/students-will-see-real-gains/index.html
+layout: layout.njk
 ---
 Students will see real gains
 ============================

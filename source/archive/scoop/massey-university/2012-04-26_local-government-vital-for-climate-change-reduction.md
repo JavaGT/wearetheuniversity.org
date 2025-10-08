@@ -1,9 +1,13 @@
 ---
 slug: local-government-vital-for-climate-change-reduction
-title: "Local Government Vital For Climate Change Reduction"
-date: 2012-04-26
-source-url: https://www.scoop.co.nz/stories/ED1204/S00101/local-government-vital-for-climate-change-reduction.htm
+title: Local Government Vital For Climate Change Reduction
+date: 2012-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00101/local-government-vital-for-climate-change-reduction.htm
 author: massey-university
+permalink: >-
+  /archive/2012/04/26/local-government-vital-for-climate-change-reduction/index.html
+layout: layout.njk
 ---
 Local Government Vital For Climate Change Reduction
 ===================================================

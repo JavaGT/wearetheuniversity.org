@@ -1,9 +1,13 @@
 ---
 slug: university-increases-efforts-to-care-for-campus-lakes
-title: "University increases efforts to care for campus lakes"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/AK1404/S00327/university-increases-efforts-to-care-for-campus-lakes.htm
+title: University increases efforts to care for campus lakes
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1404/S00327/university-increases-efforts-to-care-for-campus-lakes.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/04/15/university-increases-efforts-to-care-for-campus-lakes/index.html
+layout: layout.njk
 ---
 University increases efforts to care for campus lakes
 =====================================================

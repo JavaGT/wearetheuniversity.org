@@ -1,9 +1,12 @@
 ---
 slug: region-leads-way-with-new-occupational-therapy
-title: "Region leads way with new occupational therapy"
-date: 2005-02-10
-source-url: https://www.scoop.co.nz/stories/ED0502/S00035/region-leads-way-with-new-occupational-therapy.htm
+title: Region leads way with new occupational therapy
+date: 2005-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00035/region-leads-way-with-new-occupational-therapy.htm
 author: aut-university
+permalink: /archive/2005/02/10/region-leads-way-with-new-occupational-therapy/index.html
+layout: layout.njk
 ---
 Region leads way with new occupational therapy
 ==============================================

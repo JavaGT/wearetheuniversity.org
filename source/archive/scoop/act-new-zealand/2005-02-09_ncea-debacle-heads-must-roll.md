@@ -1,9 +1,11 @@
 ---
 slug: ncea-debacle-heads-must-roll
-title: "NCEA Debacle: Heads must roll"
-date: 2005-02-09
+title: 'NCEA Debacle: Heads must roll'
+date: 2005-02-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0502/S00203/ncea-debacle-heads-must-roll.htm
 author: act-new-zealand
+permalink: /archive/2005/02/09/ncea-debacle-heads-must-roll/index.html
+layout: layout.njk
 ---
 NCEA Debacle: Heads must roll
 =============================

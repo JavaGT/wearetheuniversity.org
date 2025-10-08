@@ -1,9 +1,11 @@
 ---
 slug: national-party-informer-#27
-title: "National Party Informer #27"
-date: 2000-11-27
+title: 'National Party Informer #27'
+date: 2000-11-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0011/S00481/national-party-informer-27.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/27/national-party-informer-/index.html
+layout: layout.njk
 ---
 National Party Informer #27
 ===========================

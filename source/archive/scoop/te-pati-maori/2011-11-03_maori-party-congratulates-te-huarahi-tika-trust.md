@@ -1,9 +1,12 @@
 ---
 slug: maori-party-congratulates-te-huarahi-tika-trust
-title: "Maori Party congratulates Te Huarahi Tika Trust"
-date: 2011-11-03
-source-url: https://www.scoop.co.nz/stories/PA1111/S00065/maori-party-congratulates-te-huarahi-tika-trust.htm
+title: Maori Party congratulates Te Huarahi Tika Trust
+date: 2011-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00065/maori-party-congratulates-te-huarahi-tika-trust.htm
 author: te-pati-maori
+permalink: /archive/2011/11/03/maori-party-congratulates-te-huarahi-tika-trust/index.html
+layout: layout.njk
 ---
 Maori Party congratulates Te Huarahi Tika Trust
 ===============================================

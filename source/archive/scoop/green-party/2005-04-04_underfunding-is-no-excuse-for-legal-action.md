@@ -1,9 +1,12 @@
 ---
 slug: underfunding-is-no-excuse-for-legal-action
-title: "Underfunding is no excuse for legal action"
-date: 2005-04-04
-source-url: https://www.scoop.co.nz/stories/PA0504/S00042/underfunding-is-no-excuse-for-legal-action.htm
+title: Underfunding is no excuse for legal action
+date: 2005-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00042/underfunding-is-no-excuse-for-legal-action.htm
 author: green-party
+permalink: /archive/2005/04/04/underfunding-is-no-excuse-for-legal-action/index.html
+layout: layout.njk
 ---
 Underfunding is no excuse for legal action
 ==========================================

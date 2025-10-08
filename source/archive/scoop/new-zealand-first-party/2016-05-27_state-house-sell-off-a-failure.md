@@ -1,9 +1,12 @@
 ---
 slug: state-house-sell-off-a-failure
-title: "State House Sell-Off A Failure"
-date: 2016-05-27
-source-url: https://www.scoop.co.nz/stories/PA1605/S00601/state-house-sell-off-a-failure.htm
+title: State House Sell-Off A Failure
+date: 2016-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00601/state-house-sell-off-a-failure.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/27/state-house-sell-off-a-failure/index.html
+layout: layout.njk
 ---
 State House Sell-Off A Failure
 ==============================

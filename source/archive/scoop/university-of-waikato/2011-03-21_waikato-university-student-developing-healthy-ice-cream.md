@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-student-developing-healthy-ice-cream
-title: "Waikato University student developing healthy ice cream"
-date: 2011-03-21
-source-url: https://www.scoop.co.nz/stories/SC1103/S00070/waikato-university-student-developing-healthy-ice-cream.htm
+title: Waikato University student developing healthy ice cream
+date: 2011-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1103/S00070/waikato-university-student-developing-healthy-ice-cream.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/03/21/waikato-university-student-developing-healthy-ice-cream/index.html
+layout: layout.njk
 ---
 Waikato University student developing healthy ice cream
 =======================================================

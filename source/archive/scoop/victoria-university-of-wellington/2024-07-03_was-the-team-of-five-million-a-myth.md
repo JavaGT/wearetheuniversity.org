@@ -1,9 +1,12 @@
 ---
 slug: was-the-team-of-five-million-a-myth
-title: "Was The ‘Team Of Five Million’ A Myth?"
-date: 2024-07-03
-source-url: https://www.scoop.co.nz/stories/PO2407/S00028/was-the-team-of-five-million-a-myth.htm
+title: Was The ‘Team Of Five Million’ A Myth?
+date: 2024-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2407/S00028/was-the-team-of-five-million-a-myth.htm
 author: victoria-university-of-wellington
+permalink: /archive/2024/07/03/was-the-team-of-five-million-a-myth/index.html
+layout: layout.njk
 ---
 Was The ‘Team Of Five Million’ A Myth?
 ======================================

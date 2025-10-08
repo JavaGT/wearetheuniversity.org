@@ -1,9 +1,11 @@
 ---
 slug: how-to-make-teleworking-work
-title: "How to make teleworking work"
-date: 2014-07-28
+title: How to make teleworking work
+date: 2014-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1407/S00984/how-to-make-teleworking-work.htm
 author: aut-university
+permalink: /archive/2014/07/28/how-to-make-teleworking-work/index.html
+layout: layout.njk
 ---
 How to make teleworking work
 ============================

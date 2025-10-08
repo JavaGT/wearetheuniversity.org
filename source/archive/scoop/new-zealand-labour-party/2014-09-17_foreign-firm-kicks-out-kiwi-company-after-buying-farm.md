@@ -1,9 +1,13 @@
 ---
 slug: foreign-firm-kicks-out-kiwi-company-after-buying-farm
-title: "Foreign firm kicks out Kiwi company after buying farm"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/PA1409/S00252/foreign-firm-kicks-out-kiwi-company-after-buying-farm.htm
+title: Foreign firm kicks out Kiwi company after buying farm
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00252/foreign-firm-kicks-out-kiwi-company-after-buying-farm.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/09/17/foreign-firm-kicks-out-kiwi-company-after-buying-farm/index.html
+layout: layout.njk
 ---
 Foreign firm kicks out Kiwi company after buying farm
 =====================================================

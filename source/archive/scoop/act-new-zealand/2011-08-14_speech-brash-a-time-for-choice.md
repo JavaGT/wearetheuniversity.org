@@ -1,9 +1,12 @@
 ---
 slug: speech-brash-a-time-for-choice
-title: "Speech - Brash: A Time For Choice"
-date: 2011-08-14
-source-url: https://www.scoop.co.nz/stories/PA1108/S00273/speech-brash-a-time-for-choice.htm
+title: 'Speech - Brash: A Time For Choice'
+date: 2011-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00273/speech-brash-a-time-for-choice.htm
 author: act-new-zealand
+permalink: /archive/2011/08/14/speech-brash-a-time-for-choice/index.html
+layout: layout.njk
 ---
 Speech - Brash: A Time For Choice
 =================================

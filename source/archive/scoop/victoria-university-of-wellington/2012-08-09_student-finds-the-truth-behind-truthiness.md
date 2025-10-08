@@ -1,9 +1,12 @@
 ---
 slug: student-finds-the-truth-behind-truthiness
-title: "Student finds the truth behind ‘truthiness’"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/ED1208/S00058/student-finds-the-truth-behind-truthiness.htm
+title: Student finds the truth behind ‘truthiness’
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00058/student-finds-the-truth-behind-truthiness.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/08/09/student-finds-the-truth-behind-truthiness/index.html
+layout: layout.njk
 ---
 Student finds the truth behind ‘truthiness’
 ===========================================

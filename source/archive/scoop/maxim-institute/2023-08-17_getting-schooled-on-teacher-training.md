@@ -1,9 +1,12 @@
 ---
 slug: getting-schooled-on-teacher-training
-title: "Getting Schooled On Teacher Training"
-date: 2023-08-17
-source-url: https://www.scoop.co.nz/stories/ED2308/S00029/getting-schooled-on-teacher-training.htm
+title: Getting Schooled On Teacher Training
+date: 2023-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00029/getting-schooled-on-teacher-training.htm
 author: maxim-institute
+permalink: /archive/2023/08/17/getting-schooled-on-teacher-training/index.html
+layout: layout.njk
 ---
 Getting Schooled On Teacher Training
 ====================================

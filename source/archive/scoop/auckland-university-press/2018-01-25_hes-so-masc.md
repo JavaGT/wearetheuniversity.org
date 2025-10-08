@@ -1,9 +1,11 @@
 ---
 slug: hes-so-masc
-title: "He's so MASC"
-date: 2018-01-25
+title: He's so MASC
+date: 2018-01-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1801/S00222/hes-so-masc.htm
 author: auckland-university-press
+permalink: /archive/2018/01/25/hes-so-masc/index.html
+layout: layout.njk
 ---
 He's so MASC
 ============

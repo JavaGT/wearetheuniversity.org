@@ -1,9 +1,12 @@
 ---
 slug: in-the-shadow-of-the-super-city
-title: "In The Shadow of the Super City"
-date: 2016-04-22
-source-url: https://www.scoop.co.nz/stories/PA1604/S00377/in-the-shadow-of-the-super-city.htm
+title: In The Shadow of the Super City
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00377/in-the-shadow-of-the-super-city.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/22/in-the-shadow-of-the-super-city/index.html
+layout: layout.njk
 ---
 In The Shadow of the Super City
 ===============================

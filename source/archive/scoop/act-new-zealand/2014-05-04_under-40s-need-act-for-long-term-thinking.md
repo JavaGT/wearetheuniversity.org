@@ -1,9 +1,12 @@
 ---
 slug: under-40s-need-act-for-long-term-thinking
-title: "Under 40s need ACT for long term thinking"
-date: 2014-05-04
-source-url: https://www.scoop.co.nz/stories/PO1405/S00057/under-40s-need-act-for-long-term-thinking.htm
+title: Under 40s need ACT for long term thinking
+date: 2014-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00057/under-40s-need-act-for-long-term-thinking.htm
 author: act-new-zealand
+permalink: /archive/2014/05/04/under-40s-need-act-for-long-term-thinking/index.html
+layout: layout.njk
 ---
 Under 40s need ACT for long term thinking
 =========================================

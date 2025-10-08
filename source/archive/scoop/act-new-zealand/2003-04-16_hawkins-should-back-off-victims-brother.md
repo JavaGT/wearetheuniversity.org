@@ -1,9 +1,12 @@
 ---
 slug: hawkins-should-back-off-victims-brother
-title: "Hawkins Should Back Off Victim's Brother"
-date: 2003-04-16
-source-url: https://www.scoop.co.nz/stories/PA0304/S00338/hawkins-should-back-off-victims-brother.htm
+title: Hawkins Should Back Off Victim's Brother
+date: 2003-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00338/hawkins-should-back-off-victims-brother.htm
 author: act-new-zealand
+permalink: /archive/2003/04/16/hawkins-should-back-off-victims-brother/index.html
+layout: layout.njk
 ---
 Hawkins Should Back Off Victim's Brother
 ========================================

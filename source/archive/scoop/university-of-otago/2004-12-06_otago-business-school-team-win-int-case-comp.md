@@ -1,9 +1,12 @@
 ---
 slug: otago-business-school-team-win-int-case-comp
-title: "Otago Business School Team Win Int. Case Comp"
-date: 2004-12-06
-source-url: https://www.scoop.co.nz/stories/ED0412/S00024/otago-business-school-team-win-int-case-comp.htm
+title: Otago Business School Team Win Int. Case Comp
+date: 2004-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00024/otago-business-school-team-win-int-case-comp.htm
 author: university-of-otago
+permalink: /archive/2004/12/06/otago-business-school-team-win-int-case-comp/index.html
+layout: layout.njk
 ---
 Otago Business School Team Win Int. Case Comp
 =============================================

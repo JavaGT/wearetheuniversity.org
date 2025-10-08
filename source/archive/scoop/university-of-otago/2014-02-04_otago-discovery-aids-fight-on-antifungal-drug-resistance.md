@@ -1,9 +1,13 @@
 ---
 slug: otago-discovery-aids-fight-on-antifungal-drug-resistance
-title: "Otago discovery aids fight on antifungal drug resistance"
-date: 2014-02-04
-source-url: https://www.scoop.co.nz/stories/GE1402/S00013/otago-discovery-aids-fight-on-antifungal-drug-resistance.htm
+title: Otago discovery aids fight on antifungal drug resistance
+date: 2014-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1402/S00013/otago-discovery-aids-fight-on-antifungal-drug-resistance.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/02/04/otago-discovery-aids-fight-on-antifungal-drug-resistance/index.html
+layout: layout.njk
 ---
 Otago discovery aids fight on antifungal drug resistance
 ========================================================

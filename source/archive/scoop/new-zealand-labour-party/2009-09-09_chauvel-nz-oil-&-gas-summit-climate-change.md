@@ -1,9 +1,12 @@
 ---
 slug: chauvel-nz-oil-&-gas-summit-climate-change
-title: "Chauvel: NZ Oil & Gas Summit: Climate Change"
-date: 2009-09-09
-source-url: https://www.scoop.co.nz/stories/PA0909/S00104/chauvel-nz-oil-gas-summit-climate-change.htm
+title: 'Chauvel: NZ Oil & Gas Summit: Climate Change'
+date: 2009-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00104/chauvel-nz-oil-gas-summit-climate-change.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/09/chauvel-nz-oil-/index.html
+layout: layout.njk
 ---
 Chauvel: NZ Oil & Gas Summit: Climate Change
 ============================================

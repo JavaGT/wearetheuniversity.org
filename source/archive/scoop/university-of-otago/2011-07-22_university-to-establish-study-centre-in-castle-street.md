@@ -1,9 +1,13 @@
 ---
 slug: university-to-establish-study-centre-in-castle-street
-title: "University to Establish Study Centre in Castle Street"
-date: 2011-07-22
-source-url: https://www.scoop.co.nz/stories/ED1107/S00099/university-to-establish-study-centre-in-castle-street.htm
+title: University to Establish Study Centre in Castle Street
+date: 2011-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00099/university-to-establish-study-centre-in-castle-street.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/07/22/university-to-establish-study-centre-in-castle-street/index.html
+layout: layout.njk
 ---
 University to Establish Study Centre in Castle Street
 =====================================================

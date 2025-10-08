@@ -1,9 +1,12 @@
 ---
 slug: completing-a-degree-debt-free
-title: "Completing a degree debt free"
-date: 2015-09-10
-source-url: https://www.scoop.co.nz/stories/ED1509/S00061/completing-a-degree-debt-free.htm
+title: Completing a degree debt free
+date: 2015-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00061/completing-a-degree-debt-free.htm
 author: university-of-waikato
+permalink: /archive/2015/09/10/completing-a-degree-debt-free/index.html
+layout: layout.njk
 ---
 Completing a degree debt free
 =============================

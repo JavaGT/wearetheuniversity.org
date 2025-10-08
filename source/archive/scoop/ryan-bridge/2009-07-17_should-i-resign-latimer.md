@@ -1,9 +1,11 @@
 ---
 slug: should-i-resign-latimer
-title: "\"Should I Resign?\"- Latimer"
-date: 2009-07-17
+title: '"Should I Resign?"- Latimer'
+date: 2009-07-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0907/S00074/should-i-resign-latimer.htm
 author: ryan-bridge
+permalink: /archive/2009/07/17/should-i-resign-latimer/index.html
+layout: layout.njk
 ---
 "Should I Resign?"- Latimer
 ===========================

@@ -1,9 +1,11 @@
 ---
 slug: penny-simmonds-maiden-speech
-title: "Penny Simmonds – Maiden Speech"
-date: 2021-03-24
+title: Penny Simmonds – Maiden Speech
+date: 2021-03-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2103/S00190/penny-simmonds-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/24/penny-simmonds-maiden-speech/index.html
+layout: layout.njk
 ---
 Penny Simmonds – Maiden Speech
 ==============================

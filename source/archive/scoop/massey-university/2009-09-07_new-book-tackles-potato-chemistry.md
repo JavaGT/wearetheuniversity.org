@@ -1,9 +1,12 @@
 ---
 slug: new-book-tackles-potato-chemistry
-title: "New book tackles potato chemistry"
-date: 2009-09-07
-source-url: https://www.scoop.co.nz/stories/SC0909/S00018/new-book-tackles-potato-chemistry.htm
+title: New book tackles potato chemistry
+date: 2009-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00018/new-book-tackles-potato-chemistry.htm
 author: massey-university
+permalink: /archive/2009/09/07/new-book-tackles-potato-chemistry/index.html
+layout: layout.njk
 ---
 New book tackles potato chemistry
 =================================

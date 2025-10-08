@@ -1,9 +1,13 @@
 ---
 slug: award-winning-te-uku-wind-farm-first-of-its-kind
-title: "Award winning Te Uku wind farm first of its kind"
-date: 2010-08-18
-source-url: https://www.scoop.co.nz/stories/PA1008/S00271/award-winning-te-uku-wind-farm-first-of-its-kind.htm
+title: Award winning Te Uku wind farm first of its kind
+date: 2010-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00271/award-winning-te-uku-wind-farm-first-of-its-kind.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/08/18/award-winning-te-uku-wind-farm-first-of-its-kind/index.html
+layout: layout.njk
 ---
 Award winning Te Uku wind farm first of its kind
 ================================================

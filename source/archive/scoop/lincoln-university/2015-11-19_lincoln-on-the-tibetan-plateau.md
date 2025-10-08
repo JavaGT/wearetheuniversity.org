@@ -1,9 +1,12 @@
 ---
 slug: lincoln-on-the-tibetan-plateau
-title: "Lincoln on the Tibetan Plateau"
-date: 2015-11-19
-source-url: https://www.scoop.co.nz/stories/SC1511/S00072/lincoln-on-the-tibetan-plateau.htm
+title: Lincoln on the Tibetan Plateau
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00072/lincoln-on-the-tibetan-plateau.htm
 author: lincoln-university
+permalink: /archive/2015/11/19/lincoln-on-the-tibetan-plateau/index.html
+layout: layout.njk
 ---
 Lincoln on the Tibetan Plateau
 ==============================

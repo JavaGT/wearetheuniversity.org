@@ -1,9 +1,12 @@
 ---
 slug: dunnes-pro-tobacco-line-anti-family
-title: "Dunne's Pro-Tobacco Line \"Anti-Family\""
-date: 2003-06-25
-source-url: https://www.scoop.co.nz/stories/PA0306/S00456/dunnes-pro-tobacco-line-anti-family.htm
+title: Dunne's Pro-Tobacco Line "Anti-Family"
+date: 2003-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00456/dunnes-pro-tobacco-line-anti-family.htm
 author: green-party
+permalink: /archive/2003/06/25/dunnes-pro-tobacco-line-anti-family/index.html
+layout: layout.njk
 ---
 Dunne's Pro-Tobacco Line \"Anti-Family"
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: hollow-words-on-reporting-requirements
-title: "Hollow words on reporting requirements"
-date: 2000-12-07
-source-url: https://www.scoop.co.nz/stories/PA0012/S00134/hollow-words-on-reporting-requirements.htm
+title: Hollow words on reporting requirements
+date: 2000-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00134/hollow-words-on-reporting-requirements.htm
 author: new-zealand-national-party
+permalink: /archive/2000/12/07/hollow-words-on-reporting-requirements/index.html
+layout: layout.njk
 ---
 Hollow words on reporting requirements
 ======================================

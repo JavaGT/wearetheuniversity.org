@@ -1,9 +1,12 @@
 ---
 slug: aut-future-of-work-conference-9-february-2015
-title: "AUT Future of Work Conference 9 February 2015"
-date: 2015-02-03
-source-url: https://www.scoop.co.nz/stories/PO1502/S00030/aut-future-of-work-conference-9-february-2015.htm
+title: AUT Future of Work Conference 9 February 2015
+date: 2015-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00030/aut-future-of-work-conference-9-february-2015.htm
 author: aut-university
+permalink: /archive/2015/02/03/aut-future-of-work-conference-9-february-2015/index.html
+layout: layout.njk
 ---
 AUT Future of Work Conference 9 February 2015
 =============================================

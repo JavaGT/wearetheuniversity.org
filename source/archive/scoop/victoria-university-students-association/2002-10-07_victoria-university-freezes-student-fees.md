@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-freezes-student-fees
-title: "Victoria University freezes student fees"
-date: 2002-10-07
-source-url: https://www.scoop.co.nz/stories/ED0210/S00018/victoria-university-freezes-student-fees.htm
+title: Victoria University freezes student fees
+date: 2002-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00018/victoria-university-freezes-student-fees.htm
 author: victoria-university-students-association
+permalink: /archive/2002/10/07/victoria-university-freezes-student-fees/index.html
+layout: layout.njk
 ---
 Victoria University freezes student fees
 ========================================

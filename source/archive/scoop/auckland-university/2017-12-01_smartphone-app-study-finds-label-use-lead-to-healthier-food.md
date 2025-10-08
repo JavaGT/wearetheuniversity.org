@@ -1,9 +1,13 @@
 ---
 slug: smartphone-app-study-finds-label-use-lead-to-healthier-food
-title: "Smartphone App Study Finds Label Use Lead to Healthier Food"
-date: 2017-12-01
-source-url: https://www.scoop.co.nz/stories/GE1712/S00003/smartphone-app-study-finds-label-use-lead-to-healthier-food.htm
+title: Smartphone App Study Finds Label Use Lead to Healthier Food
+date: 2017-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1712/S00003/smartphone-app-study-finds-label-use-lead-to-healthier-food.htm
 author: auckland-university
+permalink: >-
+  /archive/2017/12/01/smartphone-app-study-finds-label-use-lead-to-healthier-food/index.html
+layout: layout.njk
 ---
 Smartphone App Study Finds Label Use Lead to Healthier Food
 ===========================================================

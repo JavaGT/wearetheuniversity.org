@@ -1,9 +1,13 @@
 ---
 slug: new-tech-will-help-nz-prepare-for-quakes-and-other-hazards
-title: "New Tech Will Help NZ Prepare For Quakes And Other Hazards"
-date: 2023-11-09
-source-url: https://www.scoop.co.nz/stories/SC2311/S00008/new-tech-will-help-nz-prepare-for-quakes-and-other-hazards.htm
+title: New Tech Will Help NZ Prepare For Quakes And Other Hazards
+date: 2023-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2311/S00008/new-tech-will-help-nz-prepare-for-quakes-and-other-hazards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/11/09/new-tech-will-help-nz-prepare-for-quakes-and-other-hazards/index.html
+layout: layout.njk
 ---
 New Tech Will Help NZ Prepare For Quakes And Other Hazards
 ==========================================================

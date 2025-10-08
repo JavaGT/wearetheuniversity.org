@@ -1,9 +1,12 @@
 ---
 slug: oconnor-finally-admits-system-failing-some
-title: "O'Connor finally admits system failing some"
-date: 2006-09-08
-source-url: https://www.scoop.co.nz/stories/PA0609/S00219/oconnor-finally-admits-system-failing-some.htm
+title: O'Connor finally admits system failing some
+date: 2006-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00219/oconnor-finally-admits-system-failing-some.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/08/oconnor-finally-admits-system-failing-some/index.html
+layout: layout.njk
 ---
 O'Connor finally admits system failing some
 ===========================================

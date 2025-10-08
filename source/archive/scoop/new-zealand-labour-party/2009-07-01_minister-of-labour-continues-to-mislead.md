@@ -1,9 +1,12 @@
 ---
 slug: minister-of-labour-continues-to-mislead
-title: "Minister of Labour continues to mislead"
-date: 2009-07-01
-source-url: https://www.scoop.co.nz/stories/PA0907/S00002/minister-of-labour-continues-to-mislead.htm
+title: Minister of Labour continues to mislead
+date: 2009-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00002/minister-of-labour-continues-to-mislead.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/01/minister-of-labour-continues-to-mislead/index.html
+layout: layout.njk
 ---
 Minister of Labour continues to mislead
 =======================================

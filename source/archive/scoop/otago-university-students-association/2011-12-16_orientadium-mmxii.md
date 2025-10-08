@@ -1,9 +1,11 @@
 ---
 slug: orientadium-mmxii
-title: "Orientadium MMXII"
-date: 2011-12-16
+title: Orientadium MMXII
+date: 2011-12-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1112/S00090/orientadium-mmxii.htm
 author: otago-university-students-association
+permalink: /archive/2011/12/16/orientadium-mmxii/index.html
+layout: layout.njk
 ---
 Orientadium MMXII
 =================

@@ -1,9 +1,13 @@
 ---
 slug: national-pushes-on-with-failed-state-house-sell-off
-title: "National pushes on with failed state house sell-off"
-date: 2016-07-27
-source-url: https://www.scoop.co.nz/stories/PA1607/S00384/national-pushes-on-with-failed-state-house-sell-off.htm
+title: National pushes on with failed state house sell-off
+date: 2016-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00384/national-pushes-on-with-failed-state-house-sell-off.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/07/27/national-pushes-on-with-failed-state-house-sell-off/index.html
+layout: layout.njk
 ---
 National pushes on with failed state house sell-off
 ===================================================

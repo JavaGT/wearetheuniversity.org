@@ -1,9 +1,12 @@
 ---
 slug: robertson-must-front-up-on-costings
-title: "Robertson must front up on costings"
-date: 2017-11-21
-source-url: https://www.scoop.co.nz/stories/PA1711/S00126/robertson-must-front-up-on-costings.htm
+title: Robertson must front up on costings
+date: 2017-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00126/robertson-must-front-up-on-costings.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/21/robertson-must-front-up-on-costings/index.html
+layout: layout.njk
 ---
 Robertson must front up on costings
 ===================================

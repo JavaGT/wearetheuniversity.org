@@ -1,9 +1,12 @@
 ---
 slug: joint-initiative-to-support-māori-entrepreneurs-in-northland
-title: "Joint initiative to support Māori entrepreneurs in Northland"
-date: 2019-10-22
-source-url: https://www.scoop.co.nz/stories/ED1910/S00046/joint-initiative-to-support-maori-entrepreneurs-in-northland.htm
+title: Joint initiative to support Māori entrepreneurs in Northland
+date: 2019-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00046/joint-initiative-to-support-maori-entrepreneurs-in-northland.htm
 author: aut-university
+permalink: /archive/2019/10/22/joint-initiative-to-support-m/index.html
+layout: layout.njk
 ---
 Joint initiative to support Māori entrepreneurs in Northland
 ============================================================

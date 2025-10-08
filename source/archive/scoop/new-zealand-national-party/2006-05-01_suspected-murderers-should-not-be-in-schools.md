@@ -1,9 +1,12 @@
 ---
 slug: suspected-murderers-should-not-be-in-schools
-title: "Suspected murderers should not be in schools"
-date: 2006-05-01
-source-url: https://www.scoop.co.nz/stories/PA0605/S00005/suspected-murderers-should-not-be-in-schools.htm
+title: Suspected murderers should not be in schools
+date: 2006-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00005/suspected-murderers-should-not-be-in-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/01/suspected-murderers-should-not-be-in-schools/index.html
+layout: layout.njk
 ---
 Suspected murderers should not be in schools
 ============================================

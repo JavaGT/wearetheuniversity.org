@@ -1,9 +1,13 @@
 ---
 slug: bill-will-force-more-misery-on-millions-of-animals
-title: "Bill will force more misery on millions of animals"
-date: 2002-11-14
-source-url: https://www.scoop.co.nz/stories/PA0211/S00332/bill-will-force-more-misery-on-millions-of-animals.htm
+title: Bill will force more misery on millions of animals
+date: 2002-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00332/bill-will-force-more-misery-on-millions-of-animals.htm
 author: green-party
+permalink: >-
+  /archive/2002/11/14/bill-will-force-more-misery-on-millions-of-animals/index.html
+layout: layout.njk
 ---
 Bill will force more misery on millions of animals
 ==================================================

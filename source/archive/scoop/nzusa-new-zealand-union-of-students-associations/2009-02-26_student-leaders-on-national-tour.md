@@ -1,9 +1,12 @@
 ---
 slug: student-leaders-on-national-tour
-title: "Student leaders on national tour"
-date: 2009-02-26
-source-url: https://www.scoop.co.nz/stories/ED0902/S00098/student-leaders-on-national-tour.htm
+title: Student leaders on national tour
+date: 2009-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00098/student-leaders-on-national-tour.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/02/26/student-leaders-on-national-tour/index.html
+layout: layout.njk
 ---
 Student leaders on national tour
 ================================

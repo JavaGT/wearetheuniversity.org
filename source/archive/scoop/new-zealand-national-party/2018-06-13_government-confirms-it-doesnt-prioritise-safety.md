@@ -1,9 +1,12 @@
 ---
 slug: government-confirms-it-doesnt-prioritise-safety
-title: "Government confirms it doesn’t prioritise safety"
-date: 2018-06-13
-source-url: https://www.scoop.co.nz/stories/PA1806/S00122/government-confirms-it-doesnt-prioritise-safety.htm
+title: Government confirms it doesn’t prioritise safety
+date: 2018-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00122/government-confirms-it-doesnt-prioritise-safety.htm
 author: new-zealand-national-party
+permalink: /archive/2018/06/13/government-confirms-it-doesnt-prioritise-safety/index.html
+layout: layout.njk
 ---
 Government confirms it doesn’t prioritise safety
 ================================================

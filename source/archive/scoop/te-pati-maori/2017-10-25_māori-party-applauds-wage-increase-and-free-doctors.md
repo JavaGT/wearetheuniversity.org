@@ -1,9 +1,12 @@
 ---
 slug: māori-party-applauds-wage-increase-and-free-doctors
-title: "Māori Party applauds wage increase and free doctors"
-date: 2017-10-25
-source-url: https://www.scoop.co.nz/stories/PA1710/S00065/maori-party-applauds-wage-increase-and-free-doctors.htm
+title: Māori Party applauds wage increase and free doctors
+date: 2017-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1710/S00065/maori-party-applauds-wage-increase-and-free-doctors.htm
 author: te-pati-maori
+permalink: /archive/2017/10/25/m/index.html
+layout: layout.njk
 ---
 Māori Party applauds wage increase and free doctors
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: understanding-changes-in-grey-matter
-title: "Understanding Changes In Grey Matter"
-date: 2020-10-01
-source-url: https://www.scoop.co.nz/stories/SC2010/S00001/understanding-changes-in-grey-matter.htm
+title: Understanding Changes In Grey Matter
+date: 2020-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2010/S00001/understanding-changes-in-grey-matter.htm
 author: aut-university
+permalink: /archive/2020/10/01/understanding-changes-in-grey-matter/index.html
+layout: layout.njk
 ---
 Understanding Changes In Grey Matter
 ====================================

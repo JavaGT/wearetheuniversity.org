@@ -1,9 +1,13 @@
 ---
 slug: speech-nicola-willis-nz-economics-forum-university-of-waikato
-title: "Speech: Nicola Willis - NZ Economics Forum, University Of Waikato"
-date: 2023-03-02
-source-url: https://www.scoop.co.nz/stories/PA2303/S00008/speech-nicola-willis-nz-economics-forum-university-of-waikato.htm
+title: 'Speech: Nicola Willis - NZ Economics Forum, University Of Waikato'
+date: 2023-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00008/speech-nicola-willis-nz-economics-forum-university-of-waikato.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/02/speech-nicola-willis-nz-economics-forum-university-of-waikato/index.html
+layout: layout.njk
 ---
 Speech: Nicola Willis - NZ Economics Forum, University Of Waikato
 =================================================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-research-recognised-for-international-impact
-title: "Waikato research recognised for international impact"
-date: 2021-09-02
-source-url: https://www.scoop.co.nz/stories/ED2109/S00005/waikato-research-recognised-for-international-impact.htm
+title: Waikato research recognised for international impact
+date: 2021-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2109/S00005/waikato-research-recognised-for-international-impact.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/09/02/waikato-research-recognised-for-international-impact/index.html
+layout: layout.njk
 ---
 Waikato research recognised for international impact
 ====================================================

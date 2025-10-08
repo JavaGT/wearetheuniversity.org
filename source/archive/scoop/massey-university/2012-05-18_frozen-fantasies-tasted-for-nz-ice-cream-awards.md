@@ -1,9 +1,12 @@
 ---
 slug: frozen-fantasies-tasted-for-nz-ice-cream-awards
-title: "Frozen fantasies tasted for NZ Ice Cream Awards"
-date: 2012-05-18
-source-url: https://www.scoop.co.nz/stories/CU1205/S00259/frozen-fantasies-tasted-for-nz-ice-cream-awards.htm
+title: Frozen fantasies tasted for NZ Ice Cream Awards
+date: 2012-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1205/S00259/frozen-fantasies-tasted-for-nz-ice-cream-awards.htm
 author: massey-university
+permalink: /archive/2012/05/18/frozen-fantasies-tasted-for-nz-ice-cream-awards/index.html
+layout: layout.njk
 ---
 Frozen fantasies tasted for NZ Ice Cream Awards
 ===============================================

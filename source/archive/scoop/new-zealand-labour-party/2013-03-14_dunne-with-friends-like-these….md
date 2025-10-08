@@ -1,9 +1,12 @@
 ---
 slug: dunne-with-friends-like-these…
-title: "Dunne: With friends like these…"
-date: 2013-03-14
-source-url: https://www.scoop.co.nz/stories/PA1303/S00248/dunne-with-friends-like-these.htm
+title: 'Dunne: With friends like these…'
+date: 2013-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00248/dunne-with-friends-like-these.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/14/dunne-with-friends-like-these/index.html
+layout: layout.njk
 ---
 Dunne: With friends like these…
 ===============================

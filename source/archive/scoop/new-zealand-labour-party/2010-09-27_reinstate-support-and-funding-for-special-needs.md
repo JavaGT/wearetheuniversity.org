@@ -1,9 +1,12 @@
 ---
 slug: reinstate-support-and-funding-for-special-needs
-title: "Reinstate support and funding for special needs"
-date: 2010-09-27
-source-url: https://www.scoop.co.nz/stories/PA1009/S00386/reinstate-support-and-funding-for-special-needs.htm
+title: Reinstate support and funding for special needs
+date: 2010-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00386/reinstate-support-and-funding-for-special-needs.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/27/reinstate-support-and-funding-for-special-needs/index.html
+layout: layout.njk
 ---
 Reinstate support and funding for special needs
 ===============================================

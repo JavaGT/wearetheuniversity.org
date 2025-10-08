@@ -1,9 +1,13 @@
 ---
 slug: new-bbus-major-will-enhance-business-bottom-line
-title: "New BBus major will enhance business bottom line"
-date: 2007-02-02
-source-url: https://www.scoop.co.nz/stories/BU0702/S00036/new-bbus-major-will-enhance-business-bottom-line.htm
+title: New BBus major will enhance business bottom line
+date: 2007-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0702/S00036/new-bbus-major-will-enhance-business-bottom-line.htm
 author: aut-university
+permalink: >-
+  /archive/2007/02/02/new-bbus-major-will-enhance-business-bottom-line/index.html
+layout: layout.njk
 ---
 New BBus major will enhance business bottom line
 ================================================

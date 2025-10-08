@@ -1,9 +1,12 @@
 ---
 slug: peoples-centre-on-road-to-recovery
-title: "Peoples Centre on road to recovery"
-date: 2003-03-11
-source-url: https://www.scoop.co.nz/stories/PA0303/S00169/peoples-centre-on-road-to-recovery.htm
+title: Peoples Centre on road to recovery
+date: 2003-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00169/peoples-centre-on-road-to-recovery.htm
 author: green-party
+permalink: /archive/2003/03/11/peoples-centre-on-road-to-recovery/index.html
+layout: layout.njk
 ---
 Peoples Centre on road to recovery
 ==================================

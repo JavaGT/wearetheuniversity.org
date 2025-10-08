@@ -1,9 +1,12 @@
 ---
 slug: uc-research-project-to-look-into-cathedral-row
-title: "UC research project to look into Cathedral row"
-date: 2012-09-03
-source-url: https://www.scoop.co.nz/stories/AK1209/S00013/uc-research-project-to-look-into-cathedral-row.htm
+title: UC research project to look into Cathedral row
+date: 2012-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1209/S00013/uc-research-project-to-look-into-cathedral-row.htm
 author: university-of-canterbury
+permalink: /archive/2012/09/03/uc-research-project-to-look-into-cathedral-row/index.html
+layout: layout.njk
 ---
 UC research project to look into Cathedral row
 ==============================================

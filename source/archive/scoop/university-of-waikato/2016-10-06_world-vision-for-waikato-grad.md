@@ -1,9 +1,12 @@
 ---
 slug: world-vision-for-waikato-grad
-title: "World Vision for Waikato grad"
-date: 2016-10-06
-source-url: https://www.scoop.co.nz/stories/ED1610/S00013/world-vision-for-waikato-grad.htm
+title: World Vision for Waikato grad
+date: 2016-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00013/world-vision-for-waikato-grad.htm
 author: university-of-waikato
+permalink: /archive/2016/10/06/world-vision-for-waikato-grad/index.html
+layout: layout.njk
 ---
 World Vision for Waikato grad
 =============================

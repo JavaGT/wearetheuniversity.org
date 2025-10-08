@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-told-this-is-d-day
-title: "Prime Minister told ‘this is D Day’"
-date: 2006-11-28
-source-url: https://www.scoop.co.nz/stories/PA0611/S00547/prime-minister-told-this-is-d-day.htm
+title: Prime Minister told ‘this is D Day’
+date: 2006-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00547/prime-minister-told-this-is-d-day.htm
 author: te-pati-maori
+permalink: /archive/2006/11/28/prime-minister-told-this-is-d-day/index.html
+layout: layout.njk
 ---
 Prime Minister told ‘this is D Day’
 ===================================

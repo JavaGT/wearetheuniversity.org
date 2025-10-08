@@ -1,9 +1,12 @@
 ---
 slug: thank-goodness-for-otago-university
-title: "Thank Goodness For Otago University"
-date: 2006-02-20
-source-url: https://www.scoop.co.nz/stories/PA0602/S00261/thank-goodness-for-otago-university.htm
+title: Thank Goodness For Otago University
+date: 2006-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00261/thank-goodness-for-otago-university.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/20/thank-goodness-for-otago-university/index.html
+layout: layout.njk
 ---
 Thank Goodness For Otago University
 ===================================

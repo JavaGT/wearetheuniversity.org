@@ -1,9 +1,12 @@
 ---
 slug: lincolns-fellowship-honours-a-world-leader
-title: "Lincoln’s Fellowship Honours a World Leader"
-date: 2015-05-01
-source-url: https://www.scoop.co.nz/stories/ED1505/S00007/lincolns-fellowship-honours-a-world-leader.htm
+title: Lincoln’s Fellowship Honours a World Leader
+date: 2015-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00007/lincolns-fellowship-honours-a-world-leader.htm
 author: lincoln-university
+permalink: /archive/2015/05/01/lincolns-fellowship-honours-a-world-leader/index.html
+layout: layout.njk
 ---
 Lincoln’s Fellowship Honours a World Leader
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-are-cows-are-contributing-to-decline-in-whitebait
-title: "UC Are Cows Are Contributing To Decline in Whitebait?"
-date: 2013-03-26
-source-url: https://www.scoop.co.nz/stories/ED1303/S00180/uc-are-cows-are-contributing-to-decline-in-whitebait.htm
+title: UC Are Cows Are Contributing To Decline in Whitebait?
+date: 2013-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00180/uc-are-cows-are-contributing-to-decline-in-whitebait.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/26/uc-are-cows-are-contributing-to-decline-in-whitebait/index.html
+layout: layout.njk
 ---
 UC Are Cows Are Contributing To Decline in Whitebait?
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: nationals-immigration-madness-continues
-title: "National’s Immigration Madness Continues"
-date: 2016-11-22
-source-url: https://www.scoop.co.nz/stories/PA1611/S00419/nationals-immigration-madness-continues.htm
+title: National’s Immigration Madness Continues
+date: 2016-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00419/nationals-immigration-madness-continues.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/22/nationals-immigration-madness-continues/index.html
+layout: layout.njk
 ---
 National’s Immigration Madness Continues
 ========================================

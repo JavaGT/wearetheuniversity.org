@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-the-election-cometh
-title: "News Worthy:  The election cometh"
-date: 2008-09-19
-source-url: https://www.scoop.co.nz/stories/PA0809/S00426/news-worthy-the-election-cometh.htm
+title: 'News Worthy:  The election cometh'
+date: 2008-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00426/news-worthy-the-election-cometh.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/19/news-worthy-the-election-cometh/index.html
+layout: layout.njk
 ---
 News Worthy: The election cometh
 ================================

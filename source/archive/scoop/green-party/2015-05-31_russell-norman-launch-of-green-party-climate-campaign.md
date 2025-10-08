@@ -1,9 +1,13 @@
 ---
 slug: russell-norman-launch-of-green-party-climate-campaign
-title: "Russell Norman: Launch of Green Party Climate Campaign"
-date: 2015-05-31
-source-url: https://www.scoop.co.nz/stories/PA1505/S00597/russell-norman-launch-of-green-party-climate-campaign.htm
+title: 'Russell Norman: Launch of Green Party Climate Campaign'
+date: 2015-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00597/russell-norman-launch-of-green-party-climate-campaign.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/31/russell-norman-launch-of-green-party-climate-campaign/index.html
+layout: layout.njk
 ---
 Russell Norman: Launch of Green Party Climate Campaign
 ======================================================

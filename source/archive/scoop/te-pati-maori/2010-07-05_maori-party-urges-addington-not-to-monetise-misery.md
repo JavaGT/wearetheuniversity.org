@@ -1,9 +1,13 @@
 ---
 slug: maori-party-urges-addington-not-to-monetise-misery
-title: "Maori Party urges Addington not to monetise misery"
-date: 2010-07-05
-source-url: https://www.scoop.co.nz/stories/PA1007/S00094/maori-party-urges-addington-not-to-monetise-misery.htm
+title: Maori Party urges Addington not to monetise misery
+date: 2010-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00094/maori-party-urges-addington-not-to-monetise-misery.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/07/05/maori-party-urges-addington-not-to-monetise-misery/index.html
+layout: layout.njk
 ---
 Maori Party urges Addington not to monetise misery
 ==================================================

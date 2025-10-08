@@ -1,9 +1,13 @@
 ---
 slug: private-members-bills-expose-wacky-economic-policies
-title: "Private Members' Bills Expose Wacky Economic Policies"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/PA1208/S00240/private-members-bills-expose-wacky-economic-policies.htm
+title: Private Members' Bills Expose Wacky Economic Policies
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00240/private-members-bills-expose-wacky-economic-policies.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2012/08/16/private-members-bills-expose-wacky-economic-policies/index.html
+layout: layout.njk
 ---
 Private Members' Bills Expose Wacky Economic Policies
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: university-distances-itself-from-petition
-title: "University distances itself from petition"
-date: 2006-09-15
-source-url: https://www.scoop.co.nz/stories/ED0609/S00063/university-distances-itself-from-petition.htm
+title: University distances itself from petition
+date: 2006-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00063/university-distances-itself-from-petition.htm
 author: university-of-canterbury
+permalink: /archive/2006/09/15/university-distances-itself-from-petition/index.html
+layout: layout.njk
 ---
 University distances itself from petition
 =========================================

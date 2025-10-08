@@ -1,9 +1,12 @@
 ---
 slug: parents-will-lose-out-of-tipped-changes-to-ece
-title: "Parents Will Lose Out Of Tipped Changes to ECE"
-date: 2010-05-17
-source-url: https://www.scoop.co.nz/stories/ED1005/S00063/parents-will-lose-out-of-tipped-changes-to-ece.htm
+title: Parents Will Lose Out Of Tipped Changes to ECE
+date: 2010-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00063/parents-will-lose-out-of-tipped-changes-to-ece.htm
 author: nzei
+permalink: /archive/2010/05/17/parents-will-lose-out-of-tipped-changes-to-ece/index.html
+layout: layout.njk
 ---
 Parents Will Lose Out Of Tipped Changes to ECE
 ==============================================

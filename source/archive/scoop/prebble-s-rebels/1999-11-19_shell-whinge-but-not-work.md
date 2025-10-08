@@ -1,9 +1,11 @@
 ---
 slug: shell-whinge-but-not-work
-title: "She'll Whinge But Not Work"
-date: 1999-11-19
+title: She'll Whinge But Not Work
+date: 1999-11-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO9911/S00124/shell-whinge-but-not-work.htm
 author: prebble-s-rebels
+permalink: /archive/1999/11/19/shell-whinge-but-not-work/index.html
+layout: layout.njk
 ---
 She'll Whinge But Not Work
 ==========================

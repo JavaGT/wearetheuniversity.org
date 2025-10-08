@@ -1,9 +1,13 @@
 ---
 slug: nzier-report-shows-increasing-benefits-will-boost-economy
-title: "NZIER Report Shows Increasing Benefits Will Boost Economy"
-date: 2020-08-10
-source-url: https://www.scoop.co.nz/stories/PO2008/S00119/nzier-report-shows-increasing-benefits-will-boost-economy.htm
+title: NZIER Report Shows Increasing Benefits Will Boost Economy
+date: 2020-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00119/nzier-report-shows-increasing-benefits-will-boost-economy.htm
 author: nzier
+permalink: >-
+  /archive/2020/08/10/nzier-report-shows-increasing-benefits-will-boost-economy/index.html
+layout: layout.njk
 ---
 NZIER Report Shows Increasing Benefits Will Boost Economy
 =========================================================

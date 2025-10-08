@@ -1,9 +1,12 @@
 ---
 slug: quality-schooling-for-all-under-labour
-title: "Quality schooling for all under Labour"
-date: 1999-07-26
-source-url: https://www.scoop.co.nz/stories/ED9907/S00023/quality-schooling-for-all-under-labour.htm
+title: Quality schooling for all under Labour
+date: 1999-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9907/S00023/quality-schooling-for-all-under-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/26/quality-schooling-for-all-under-labour/index.html
+layout: layout.njk
 ---
 Quality schooling for all under Labour
 ======================================

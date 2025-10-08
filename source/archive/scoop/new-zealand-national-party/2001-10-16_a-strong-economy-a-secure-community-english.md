@@ -1,9 +1,12 @@
 ---
 slug: a-strong-economy-a-secure-community-english
-title: "A Strong Economy - A Secure Community - English"
-date: 2001-10-16
-source-url: https://www.scoop.co.nz/stories/PA0110/S00303/a-strong-economy-a-secure-community-english.htm
+title: A Strong Economy - A Secure Community - English
+date: 2001-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00303/a-strong-economy-a-secure-community-english.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/16/a-strong-economy-a-secure-community-english/index.html
+layout: layout.njk
 ---
 A Strong Economy - A Secure Community - English
 ===============================================

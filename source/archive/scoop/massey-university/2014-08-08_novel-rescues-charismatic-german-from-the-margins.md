@@ -1,9 +1,13 @@
 ---
 slug: novel-rescues-charismatic-german-from-the-margins
-title: "Novel rescues charismatic German from the margins"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/SC1408/S00025/novel-rescues-charismatic-german-from-the-margins.htm
+title: Novel rescues charismatic German from the margins
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00025/novel-rescues-charismatic-german-from-the-margins.htm
 author: massey-university
+permalink: >-
+  /archive/2014/08/08/novel-rescues-charismatic-german-from-the-margins/index.html
+layout: layout.njk
 ---
 Novel rescues charismatic German from the margins
 =================================================

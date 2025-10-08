@@ -1,9 +1,12 @@
 ---
 slug: labour-backs-regenerate-bill-after-govt-shift
-title: "Labour backs Regenerate Bill after Govt shift"
-date: 2016-03-16
-source-url: https://www.scoop.co.nz/stories/PA1603/S00283/labour-backs-regenerate-bill-after-govt-shift.htm
+title: Labour backs Regenerate Bill after Govt shift
+date: 2016-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00283/labour-backs-regenerate-bill-after-govt-shift.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/16/labour-backs-regenerate-bill-after-govt-shift/index.html
+layout: layout.njk
 ---
 Labour backs Regenerate Bill after Govt shift
 =============================================

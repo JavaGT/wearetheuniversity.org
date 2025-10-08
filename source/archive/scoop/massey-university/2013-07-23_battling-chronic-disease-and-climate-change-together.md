@@ -1,9 +1,13 @@
 ---
 slug: battling-chronic-disease-and-climate-change-together
-title: "Battling chronic disease and climate change together"
-date: 2013-07-23
-source-url: https://www.scoop.co.nz/stories/GE1307/S00098/battling-chronic-disease-and-climate-change-together.htm
+title: Battling chronic disease and climate change together
+date: 2013-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00098/battling-chronic-disease-and-climate-change-together.htm
 author: massey-university
+permalink: >-
+  /archive/2013/07/23/battling-chronic-disease-and-climate-change-together/index.html
+layout: layout.njk
 ---
 Battling chronic disease and climate change together
 ====================================================

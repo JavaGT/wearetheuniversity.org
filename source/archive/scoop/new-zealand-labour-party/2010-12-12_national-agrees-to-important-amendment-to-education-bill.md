@@ -1,9 +1,13 @@
 ---
 slug: national-agrees-to-important-amendment-to-education-bill
-title: "National agrees to important amendment to education bill"
-date: 2010-12-12
-source-url: https://www.scoop.co.nz/stories/PA1012/S00218/national-agrees-to-important-amendment-to-education-bill.htm
+title: National agrees to important amendment to education bill
+date: 2010-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00218/national-agrees-to-important-amendment-to-education-bill.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/12/12/national-agrees-to-important-amendment-to-education-bill/index.html
+layout: layout.njk
 ---
 National agrees to important amendment to education bill
 ========================================================

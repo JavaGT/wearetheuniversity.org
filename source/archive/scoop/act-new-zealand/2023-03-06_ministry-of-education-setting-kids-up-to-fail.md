@@ -1,9 +1,12 @@
 ---
 slug: ministry-of-education-setting-kids-up-to-fail
-title: "Ministry Of Education Setting Kids Up To Fail"
-date: 2023-03-06
-source-url: https://www.scoop.co.nz/stories/PA2303/S00033/ministry-of-education-setting-kids-up-to-fail.htm
+title: Ministry Of Education Setting Kids Up To Fail
+date: 2023-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00033/ministry-of-education-setting-kids-up-to-fail.htm
 author: act-new-zealand
+permalink: /archive/2023/03/06/ministry-of-education-setting-kids-up-to-fail/index.html
+layout: layout.njk
 ---
 Ministry Of Education Setting Kids Up To Fail
 =============================================

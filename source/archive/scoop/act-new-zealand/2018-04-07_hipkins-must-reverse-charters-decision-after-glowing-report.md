@@ -1,9 +1,13 @@
 ---
 slug: hipkins-must-reverse-charters-decision-after-glowing-report
-title: "Hipkins must reverse charters decision after glowing report"
-date: 2018-04-07
-source-url: https://www.scoop.co.nz/stories/PA1804/S00079/hipkins-must-reverse-charters-decision-after-glowing-report.htm
+title: Hipkins must reverse charters decision after glowing report
+date: 2018-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00079/hipkins-must-reverse-charters-decision-after-glowing-report.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/04/07/hipkins-must-reverse-charters-decision-after-glowing-report/index.html
+layout: layout.njk
 ---
 Hipkins must reverse charters decision after glowing report
 ===========================================================

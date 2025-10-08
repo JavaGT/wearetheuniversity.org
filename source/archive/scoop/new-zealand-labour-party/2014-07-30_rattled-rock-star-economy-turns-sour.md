@@ -1,9 +1,12 @@
 ---
 slug: rattled-rock-star-economy-turns-sour
-title: "Rattled rock-star economy turns sour"
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/PA1407/S00581/rattled-rock-star-economy-turns-sour.htm
+title: Rattled rock-star economy turns sour
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00581/rattled-rock-star-economy-turns-sour.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/30/rattled-rock-star-economy-turns-sour/index.html
+layout: layout.njk
 ---
 Rattled rock-star economy turns sour
 ====================================

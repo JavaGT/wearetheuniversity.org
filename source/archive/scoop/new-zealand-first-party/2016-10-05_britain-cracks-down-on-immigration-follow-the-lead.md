@@ -1,9 +1,13 @@
 ---
 slug: britain-cracks-down-on-immigration-follow-the-lead
-title: "Britain Cracks Down on Immigration – Follow the Lead"
-date: 2016-10-05
-source-url: https://www.scoop.co.nz/stories/PA1610/S00059/britain-cracks-down-on-immigration-follow-the-lead.htm
+title: Britain Cracks Down on Immigration – Follow the Lead
+date: 2016-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00059/britain-cracks-down-on-immigration-follow-the-lead.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/10/05/britain-cracks-down-on-immigration-follow-the-lead/index.html
+layout: layout.njk
 ---
 Britain Cracks Down on Immigration – Follow the Lead
 ====================================================

@@ -1,9 +1,11 @@
 ---
 slug: wired-for-sound
-title: "Wired for sound"
-date: 2007-07-19
+title: Wired for sound
+date: 2007-07-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0707/S00224/wired-for-sound.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/07/19/wired-for-sound/index.html
+layout: layout.njk
 ---
 Wired for sound
 ===============

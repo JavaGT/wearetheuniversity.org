@@ -1,9 +1,12 @@
 ---
 slug: pm-elect-announces-new-ministry
-title: "PM-elect announces new ministry"
-date: 1999-12-09
-source-url: https://www.scoop.co.nz/stories/PA9912/S00036/pm-elect-announces-new-ministry.htm
+title: PM-elect announces new ministry
+date: 1999-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00036/pm-elect-announces-new-ministry.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/12/09/pm-elect-announces-new-ministry/index.html
+layout: layout.njk
 ---
 PM-elect announces new ministry
 ===============================

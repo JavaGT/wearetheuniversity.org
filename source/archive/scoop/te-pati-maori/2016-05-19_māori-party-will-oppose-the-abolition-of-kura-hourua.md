@@ -1,9 +1,12 @@
 ---
 slug: māori-party-will-oppose-the-abolition-of-kura-hourua
-title: "Māori Party will oppose the abolition of Kura Hourua"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/PA1605/S00353/maori-party-will-oppose-the-abolition-of-kura-hourua.htm
+title: Māori Party will oppose the abolition of Kura Hourua
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00353/maori-party-will-oppose-the-abolition-of-kura-hourua.htm
 author: te-pati-maori
+permalink: /archive/2016/05/19/m/index.html
+layout: layout.njk
 ---
 Māori Party will oppose the abolition of Kura Hourua
 ====================================================

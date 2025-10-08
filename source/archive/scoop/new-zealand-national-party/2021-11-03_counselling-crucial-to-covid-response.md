@@ -1,9 +1,12 @@
 ---
 slug: counselling-crucial-to-covid-response
-title: "Counselling Crucial To Covid Response"
-date: 2021-11-03
-source-url: https://www.scoop.co.nz/stories/PA2111/S00037/counselling-crucial-to-covid-response.htm
+title: Counselling Crucial To Covid Response
+date: 2021-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00037/counselling-crucial-to-covid-response.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/03/counselling-crucial-to-covid-response/index.html
+layout: layout.njk
 ---
 Counselling Crucial To Covid Response
 =====================================

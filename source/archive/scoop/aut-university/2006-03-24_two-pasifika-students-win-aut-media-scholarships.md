@@ -1,9 +1,13 @@
 ---
 slug: two-pasifika-students-win-aut-media-scholarships
-title: "Two Pasifika students win AUT media scholarships"
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/ED0603/S00073/two-pasifika-students-win-aut-media-scholarships.htm
+title: Two Pasifika students win AUT media scholarships
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00073/two-pasifika-students-win-aut-media-scholarships.htm
 author: aut-university
+permalink: >-
+  /archive/2006/03/24/two-pasifika-students-win-aut-media-scholarships/index.html
+layout: layout.njk
 ---
 Two Pasifika students win AUT media scholarships
 ================================================

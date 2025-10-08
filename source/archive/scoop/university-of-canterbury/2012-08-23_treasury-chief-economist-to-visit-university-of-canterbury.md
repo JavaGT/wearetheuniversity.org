@@ -1,9 +1,13 @@
 ---
 slug: treasury-chief-economist-to-visit-university-of-canterbury
-title: "Treasury chief economist to visit University of Canterbury"
-date: 2012-08-23
-source-url: https://www.scoop.co.nz/stories/AK1208/S00508/treasury-chief-economist-to-visit-university-of-canterbury.htm
+title: Treasury chief economist to visit University of Canterbury
+date: 2012-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1208/S00508/treasury-chief-economist-to-visit-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/23/treasury-chief-economist-to-visit-university-of-canterbury/index.html
+layout: layout.njk
 ---
 Treasury chief economist to visit University of Canterbury
 ==========================================================

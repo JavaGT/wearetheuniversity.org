@@ -1,9 +1,12 @@
 ---
 slug: improving-prioritisation-of-health-services
-title: "Improving prioritisation of health services"
-date: 2010-11-26
-source-url: https://www.scoop.co.nz/stories/GE1011/S00155/improving-prioritisation-of-health-services.htm
+title: Improving prioritisation of health services
+date: 2010-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1011/S00155/improving-prioritisation-of-health-services.htm
 author: university-of-otago
+permalink: /archive/2010/11/26/improving-prioritisation-of-health-services/index.html
+layout: layout.njk
 ---
 Improving prioritisation of health services
 ===========================================

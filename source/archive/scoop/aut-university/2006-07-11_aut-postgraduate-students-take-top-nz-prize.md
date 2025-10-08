@@ -1,9 +1,12 @@
 ---
 slug: aut-postgraduate-students-take-top-nz-prize
-title: "AUT postgraduate students take top NZ prize"
-date: 2006-07-11
-source-url: https://www.scoop.co.nz/stories/ED0607/S00026/aut-postgraduate-students-take-top-nz-prize.htm
+title: AUT postgraduate students take top NZ prize
+date: 2006-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00026/aut-postgraduate-students-take-top-nz-prize.htm
 author: aut-university
+permalink: /archive/2006/07/11/aut-postgraduate-students-take-top-nz-prize/index.html
+layout: layout.njk
 ---
 AUT postgraduate students take top NZ prize
 ===========================================

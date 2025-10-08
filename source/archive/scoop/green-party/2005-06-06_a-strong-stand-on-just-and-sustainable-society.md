@@ -1,9 +1,12 @@
 ---
 slug: a-strong-stand-on-just-and-sustainable-society
-title: "A strong stand on just and sustainable society"
-date: 2005-06-06
-source-url: https://www.scoop.co.nz/stories/PA0506/S00108/a-strong-stand-on-just-and-sustainable-society.htm
+title: A strong stand on just and sustainable society
+date: 2005-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00108/a-strong-stand-on-just-and-sustainable-society.htm
 author: green-party
+permalink: /archive/2005/06/06/a-strong-stand-on-just-and-sustainable-society/index.html
+layout: layout.njk
 ---
 A strong stand on just and sustainable society
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: explanation-for-axing-of-manaaki-tauira
-title: "Explanation for Axing of Manaaki Tauira"
-date: 2006-05-25
-source-url: https://www.scoop.co.nz/stories/PA0605/S00613/explanation-for-axing-of-manaaki-tauira.htm
+title: Explanation for Axing of Manaaki Tauira
+date: 2006-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00613/explanation-for-axing-of-manaaki-tauira.htm
 author: te-pati-maori
+permalink: /archive/2006/05/25/explanation-for-axing-of-manaaki-tauira/index.html
+layout: layout.njk
 ---
 Explanation for Axing of Manaaki Tauira
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: meditation-and-mindfulness-not-nirvana-for-all
-title: "Meditation and mindfulness not nirvana for all"
-date: 2018-02-08
-source-url: https://www.scoop.co.nz/stories/SC1802/S00018/meditation-and-mindfulness-not-nirvana-for-all.htm
+title: Meditation and mindfulness not nirvana for all
+date: 2018-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00018/meditation-and-mindfulness-not-nirvana-for-all.htm
 author: massey-university
+permalink: /archive/2018/02/08/meditation-and-mindfulness-not-nirvana-for-all/index.html
+layout: layout.njk
 ---
 Meditation and mindfulness not nirvana for all
 ==============================================

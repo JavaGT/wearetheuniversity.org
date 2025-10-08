@@ -1,9 +1,12 @@
 ---
 slug: new-bachelor-of-health-degree
-title: "New Bachelor of Health degree"
-date: 2019-08-12
-source-url: https://www.scoop.co.nz/stories/ED1908/S00024/new-bachelor-of-health-degree.htm
+title: New Bachelor of Health degree
+date: 2019-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00024/new-bachelor-of-health-degree.htm
 author: waikato-university
+permalink: /archive/2019/08/12/new-bachelor-of-health-degree/index.html
+layout: layout.njk
 ---
 New Bachelor of Health degree
 =============================

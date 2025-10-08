@@ -1,9 +1,12 @@
 ---
 slug: young-nats-back-end-to-tertiary-racial-bias
-title: "Young Nats back end to tertiary racial bias"
-date: 2004-04-08
-source-url: https://www.scoop.co.nz/stories/PO0404/S00068/young-nats-back-end-to-tertiary-racial-bias.htm
+title: Young Nats back end to tertiary racial bias
+date: 2004-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0404/S00068/young-nats-back-end-to-tertiary-racial-bias.htm
 author: new-zealand-young-nationals
+permalink: /archive/2004/04/08/young-nats-back-end-to-tertiary-racial-bias/index.html
+layout: layout.njk
 ---
 Young Nats back end to tertiary racial bias
 ===========================================

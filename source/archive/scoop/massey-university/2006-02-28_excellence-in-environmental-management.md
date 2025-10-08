@@ -1,9 +1,12 @@
 ---
 slug: excellence-in-environmental-management
-title: "Excellence in Environmental Management"
-date: 2006-02-28
-source-url: https://www.scoop.co.nz/stories/ED0602/S00079/excellence-in-environmental-management.htm
+title: Excellence in Environmental Management
+date: 2006-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00079/excellence-in-environmental-management.htm
 author: massey-university
+permalink: /archive/2006/02/28/excellence-in-environmental-management/index.html
+layout: layout.njk
 ---
 Excellence in Environmental Management
 ======================================

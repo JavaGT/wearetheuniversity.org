@@ -1,9 +1,12 @@
 ---
 slug: tights-tested-for-rapid-recovery
-title: "Tights tested for rapid recovery"
-date: 2006-05-04
-source-url: https://www.scoop.co.nz/stories/ED0605/S00021/tights-tested-for-rapid-recovery.htm
+title: Tights tested for rapid recovery
+date: 2006-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00021/tights-tested-for-rapid-recovery.htm
 author: massey-university
+permalink: /archive/2006/05/04/tights-tested-for-rapid-recovery/index.html
+layout: layout.njk
 ---
 Tights tested for rapid recovery
 ================================

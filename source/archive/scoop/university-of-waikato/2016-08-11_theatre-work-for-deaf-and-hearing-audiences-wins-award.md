@@ -1,9 +1,13 @@
 ---
 slug: theatre-work-for-deaf-and-hearing-audiences-wins-award
-title: "Theatre work for Deaf and hearing audiences wins award"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/ED1608/S00020/theatre-work-for-deaf-and-hearing-audiences-wins-award.htm
+title: Theatre work for Deaf and hearing audiences wins award
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00020/theatre-work-for-deaf-and-hearing-audiences-wins-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/08/11/theatre-work-for-deaf-and-hearing-audiences-wins-award/index.html
+layout: layout.njk
 ---
 Theatre work for Deaf and hearing audiences wins award
 ======================================================

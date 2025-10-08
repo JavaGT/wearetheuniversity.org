@@ -1,9 +1,12 @@
 ---
 slug: 250-more-police-is-too-little-too-late
-title: "250 more police is too little, too late"
-date: 2005-08-11
-source-url: https://www.scoop.co.nz/stories/PA0508/S00306/250-more-police-is-too-little-too-late.htm
+title: 250 more police is too little, too late
+date: 2005-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00306/250-more-police-is-too-little-too-late.htm
 author: act-new-zealand
+permalink: /archive/2005/08/11/250-more-police-is-too-little-too-late/index.html
+layout: layout.njk
 ---
 250 more police is too little, too late
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: celebrating-50-years-of-independence-in-the-cook-islands
-title: "Celebrating 50 Years Of Independence in the Cook Islands"
-date: 2015-08-05
-source-url: https://www.scoop.co.nz/stories/PA1508/S00054/celebrating-50-years-of-independence-in-the-cook-islands.htm
+title: Celebrating 50 Years Of Independence in the Cook Islands
+date: 2015-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00054/celebrating-50-years-of-independence-in-the-cook-islands.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/08/05/celebrating-50-years-of-independence-in-the-cook-islands/index.html
+layout: layout.njk
 ---
 Celebrating 50 Years Of Independence in the Cook Islands
 ========================================================

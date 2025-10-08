@@ -1,9 +1,12 @@
 ---
 slug: brutal-rates-rises-under-national
-title: "Brutal Rates Rises Under National"
-date: 2023-10-06
-source-url: https://www.scoop.co.nz/stories/PA2310/S00053/brutal-rates-rises-under-national.htm
+title: Brutal Rates Rises Under National
+date: 2023-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00053/brutal-rates-rises-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/10/06/brutal-rates-rises-under-national/index.html
+layout: layout.njk
 ---
 Brutal Rates Rises Under National
 =================================

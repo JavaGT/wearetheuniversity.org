@@ -1,9 +1,13 @@
 ---
 slug: migration-not-enough-to-build-sustainable-economy
-title: "Migration not enough to build sustainable economy"
-date: 2015-09-21
-source-url: https://www.scoop.co.nz/stories/PA1509/S00355/migration-not-enough-to-build-sustainable-economy.htm
+title: Migration not enough to build sustainable economy
+date: 2015-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00355/migration-not-enough-to-build-sustainable-economy.htm
 author: green-party
+permalink: >-
+  /archive/2015/09/21/migration-not-enough-to-build-sustainable-economy/index.html
+layout: layout.njk
 ---
 Migration not enough to build sustainable economy
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: flavell-evidence-amendment-bill
-title: "Flavell: Evidence Amendment Bill"
-date: 2007-06-28
-source-url: https://www.scoop.co.nz/stories/PA0706/S00578/flavell-evidence-amendment-bill.htm
+title: 'Flavell: Evidence Amendment Bill'
+date: 2007-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00578/flavell-evidence-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/06/28/flavell-evidence-amendment-bill/index.html
+layout: layout.njk
 ---
 Flavell: Evidence Amendment Bill
 ================================

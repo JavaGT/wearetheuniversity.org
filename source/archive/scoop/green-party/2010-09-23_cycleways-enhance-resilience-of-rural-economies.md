@@ -1,9 +1,12 @@
 ---
 slug: cycleways-enhance-resilience-of-rural-economies
-title: "Cycleways enhance resilience of rural economies"
-date: 2010-09-23
-source-url: https://www.scoop.co.nz/stories/PA1009/S00340/cycleways-enhance-resilience-of-rural-economies.htm
+title: Cycleways enhance resilience of rural economies
+date: 2010-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00340/cycleways-enhance-resilience-of-rural-economies.htm
 author: green-party
+permalink: /archive/2010/09/23/cycleways-enhance-resilience-of-rural-economies/index.html
+layout: layout.njk
 ---
 Cycleways enhance resilience of rural economies
 ===============================================

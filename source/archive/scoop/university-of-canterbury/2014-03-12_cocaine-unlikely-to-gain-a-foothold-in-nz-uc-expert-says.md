@@ -1,9 +1,13 @@
 ---
 slug: cocaine-unlikely-to-gain-a-foothold-in-nz-uc-expert-says
-title: "Cocaine unlikely to gain a foothold in NZ, UC expert says"
-date: 2014-03-12
-source-url: https://www.scoop.co.nz/stories/PO1403/S00127/cocaine-unlikely-to-gain-a-foothold-in-nz-uc-expert-says.htm
+title: Cocaine unlikely to gain a foothold in NZ, UC expert says
+date: 2014-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00127/cocaine-unlikely-to-gain-a-foothold-in-nz-uc-expert-says.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/12/cocaine-unlikely-to-gain-a-foothold-in-nz-uc-expert-says/index.html
+layout: layout.njk
 ---
 Cocaine unlikely to gain a foothold in NZ, UC expert says
 =========================================================

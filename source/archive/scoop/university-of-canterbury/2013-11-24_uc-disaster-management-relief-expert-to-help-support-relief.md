@@ -1,9 +1,13 @@
 ---
 slug: uc-disaster-management-relief-expert-to-help-support-relief
-title: "UC disaster management relief expert to help support relief"
-date: 2013-11-24
-source-url: https://www.scoop.co.nz/stories/AK1311/S00714/uc-disaster-management-relief-expert-to-help-support-relief.htm
+title: UC disaster management relief expert to help support relief
+date: 2013-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00714/uc-disaster-management-relief-expert-to-help-support-relief.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/24/uc-disaster-management-relief-expert-to-help-support-relief/index.html
+layout: layout.njk
 ---
 UC disaster management relief expert to help support relief
 ===========================================================

@@ -1,9 +1,11 @@
 ---
 slug: whats-gone-wrong-with-teac
-title: "What's gone wrong with TEAC?"
-date: 2000-11-07
+title: What's gone wrong with TEAC?
+date: 2000-11-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0011/S00137/whats-gone-wrong-with-teac.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/07/whats-gone-wrong-with-teac/index.html
+layout: layout.njk
 ---
 What's gone wrong with TEAC?
 ============================

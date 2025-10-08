@@ -1,9 +1,13 @@
 ---
 slug: students-showcase-research-in-quick-fire-thesis-challenge
-title: "Students Showcase Research In Quick-fire Thesis Challenge"
-date: 2024-08-15
-source-url: https://www.scoop.co.nz/stories/ED2408/S00030/students-showcase-research-in-quick-fire-thesis-challenge.htm
+title: Students Showcase Research In Quick-fire Thesis Challenge
+date: 2024-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00030/students-showcase-research-in-quick-fire-thesis-challenge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/08/15/students-showcase-research-in-quick-fire-thesis-challenge/index.html
+layout: layout.njk
 ---
 Students Showcase Research In Quick-fire Thesis Challenge
 =========================================================

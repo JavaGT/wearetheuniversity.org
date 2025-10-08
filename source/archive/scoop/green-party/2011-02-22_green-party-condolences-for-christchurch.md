@@ -1,9 +1,12 @@
 ---
 slug: green-party-condolences-for-christchurch
-title: "Green Party - Condolences for Christchurch"
-date: 2011-02-22
-source-url: https://www.scoop.co.nz/stories/PA1102/S00342/green-party-condolences-for-christchurch.htm
+title: Green Party - Condolences for Christchurch
+date: 2011-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00342/green-party-condolences-for-christchurch.htm
 author: green-party
+permalink: /archive/2011/02/22/green-party-condolences-for-christchurch/index.html
+layout: layout.njk
 ---
 Green Party - Condolences for Christchurch
 ==========================================

@@ -1,9 +1,16 @@
 ---
-slug: employment-rights-for-international-students-benefit-nz-says-universities-new-zealand
-title: "Employment Rights For International Students Benefit NZ, Says Universities New Zealand"
-date: 2020-12-02
-source-url: https://www.scoop.co.nz/stories/ED2012/S00003/employment-rights-for-international-students-benefit-nz-says-universities-new-zealand.htm
+slug: >-
+  employment-rights-for-international-students-benefit-nz-says-universities-new-zealand
+title: >-
+  Employment Rights For International Students Benefit NZ, Says Universities New
+  Zealand
+date: 2020-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00003/employment-rights-for-international-students-benefit-nz-says-universities-new-zealand.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2020/12/02/employment-rights-for-international-students-benefit-nz-says-universities-new-zealand/index.html
+layout: layout.njk
 ---
 Employment Rights For International Students Benefit NZ, Says Universities New Zealand
 ======================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: nzei-supports-extra-education-funding
-title: "NZEI Supports Extra Education Funding"
-date: 2003-05-16
-source-url: https://www.scoop.co.nz/stories/ED0305/S00054/nzei-supports-extra-education-funding.htm
+title: NZEI Supports Extra Education Funding
+date: 2003-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00054/nzei-supports-extra-education-funding.htm
 author: nzei
+permalink: /archive/2003/05/16/nzei-supports-extra-education-funding/index.html
+layout: layout.njk
 ---
 NZEI Supports Extra Education Funding
 =====================================

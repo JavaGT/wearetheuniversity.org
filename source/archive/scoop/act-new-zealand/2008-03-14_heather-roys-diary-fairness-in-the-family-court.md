@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-fairness-in-the-family-court
-title: "Heather Roy's Diary: Fairness In The Family Court"
-date: 2008-03-14
-source-url: https://www.scoop.co.nz/stories/PA0803/S00263/heather-roys-diary-fairness-in-the-family-court.htm
+title: 'Heather Roy''s Diary: Fairness In The Family Court'
+date: 2008-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00263/heather-roys-diary-fairness-in-the-family-court.htm
 author: act-new-zealand
+permalink: /archive/2008/03/14/heather-roys-diary-fairness-in-the-family-court/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Fairness In The Family Court
 =================================================

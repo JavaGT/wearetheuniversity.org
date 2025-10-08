@@ -1,9 +1,13 @@
 ---
 slug: chills-keyboardist-plays-a-different-tune-at-day-job
-title: "Chills keyboardist plays a different tune at day job"
-date: 2016-03-04
-source-url: https://www.scoop.co.nz/stories/CU1603/S00096/chills-keyboardist-plays-a-different-tune-at-day-job.htm
+title: Chills keyboardist plays a different tune at day job
+date: 2016-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1603/S00096/chills-keyboardist-plays-a-different-tune-at-day-job.htm
 author: massey-university
+permalink: >-
+  /archive/2016/03/04/chills-keyboardist-plays-a-different-tune-at-day-job/index.html
+layout: layout.njk
 ---
 Chills keyboardist plays a different tune at day job
 ====================================================

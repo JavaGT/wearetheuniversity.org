@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-ki-a-dr-arnold-manaaki-wilson
-title: "Poroporoaki ki a Dr Arnold Manaaki Wilson"
-date: 2012-05-04
-source-url: https://www.scoop.co.nz/stories/PA1205/S00091/poroporoaki-ki-a-dr-arnold-manaaki-wilson.htm
+title: Poroporoaki ki a Dr Arnold Manaaki Wilson
+date: 2012-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00091/poroporoaki-ki-a-dr-arnold-manaaki-wilson.htm
 author: te-pati-maori
+permalink: /archive/2012/05/04/poroporoaki-ki-a-dr-arnold-manaaki-wilson/index.html
+layout: layout.njk
 ---
 Poroporoaki ki a Dr Arnold Manaaki Wilson
 =========================================

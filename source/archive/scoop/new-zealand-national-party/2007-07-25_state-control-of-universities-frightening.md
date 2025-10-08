@@ -1,9 +1,12 @@
 ---
 slug: state-control-of-universities-frightening
-title: "State control of universities ‘frightening’"
-date: 2007-07-25
-source-url: https://www.scoop.co.nz/stories/PA0707/S00411/state-control-of-universities-frightening.htm
+title: State control of universities ‘frightening’
+date: 2007-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00411/state-control-of-universities-frightening.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/25/state-control-of-universities-frightening/index.html
+layout: layout.njk
 ---
 State control of universities ‘frightening’
 ===========================================

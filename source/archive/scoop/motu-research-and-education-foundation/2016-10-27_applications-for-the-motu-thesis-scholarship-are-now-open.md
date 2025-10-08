@@ -1,9 +1,13 @@
 ---
 slug: applications-for-the-motu-thesis-scholarship-are-now-open
-title: "Applications for the Motu Thesis Scholarship are now open"
-date: 2016-10-27
-source-url: https://www.scoop.co.nz/stories/ED1610/S00098/applications-for-the-motu-thesis-scholarship-are-now-open.htm
+title: Applications for the Motu Thesis Scholarship are now open
+date: 2016-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00098/applications-for-the-motu-thesis-scholarship-are-now-open.htm
 author: motu-research-and-education-foundation
+permalink: >-
+  /archive/2016/10/27/applications-for-the-motu-thesis-scholarship-are-now-open/index.html
+layout: layout.njk
 ---
 Applications for the Motu Thesis Scholarship are now open
 =========================================================

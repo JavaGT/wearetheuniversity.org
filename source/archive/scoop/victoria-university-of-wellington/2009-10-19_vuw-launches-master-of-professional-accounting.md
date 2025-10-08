@@ -1,9 +1,12 @@
 ---
 slug: vuw-launches-master-of-professional-accounting
-title: "VUW launches Master of Professional Accounting"
-date: 2009-10-19
-source-url: https://www.scoop.co.nz/stories/ED0910/S00086/vuw-launches-master-of-professional-accounting.htm
+title: VUW launches Master of Professional Accounting
+date: 2009-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00086/vuw-launches-master-of-professional-accounting.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/10/19/vuw-launches-master-of-professional-accounting/index.html
+layout: layout.njk
 ---
 VUW launches Master of Professional Accounting
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: flat-fees-the-answer-to-$130000-student-debt
-title: "Flat Fees the Answer to $130,000 Student Debt"
-date: 2000-05-31
-source-url: https://www.scoop.co.nz/stories/ED0005/S00050/flat-fees-the-answer-to-130000-student-debt.htm
+title: Flat Fees the Answer to $130,000 Student Debt
+date: 2000-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00050/flat-fees-the-answer-to-130000-student-debt.htm
 author: auckland-student-movement
+permalink: /archive/2000/05/31/flat-fees-the-answer-to-/index.html
+layout: layout.njk
 ---
 Flat Fees the Answer to $130,000 Student Debt
 =============================================

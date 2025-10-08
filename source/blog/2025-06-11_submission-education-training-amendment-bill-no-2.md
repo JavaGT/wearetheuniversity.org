@@ -1,9 +1,18 @@
 ---
-title: Submission to the Education and Workforce Committee regarding the Education and Training Amendment Bill (No 2)
+layout: layout.njk
+title: >-
+  Submission to the Education and Workforce Committee regarding the Education
+  and Training Amendment Bill (No 2)
 slug: submission-education-training-amendment-bill-no-2
-date: 2025-06-11
+date: 2025-06-11T00:00:00.000Z
 author: Java Grant
 author-slug: java-grant
+permalink: /blog/2025/06/11/submission-education-training-amendment-bill-no-2/index.html
+excerpt: >-
+  I am writing to express my strong opposition to the Education Amendment Bill
+  No 2. As a PhD researcher examining the future of Universities in Aotearoa, I
+  am distressed by the introduction of a very American framework inappropriate
+  for the context of New Zealand. I urge the rejection of this...
 ---
 
 I am writing to express my strong opposition to the Education Amendment Bill (No 2). 

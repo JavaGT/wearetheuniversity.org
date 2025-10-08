@@ -1,9 +1,12 @@
 ---
 slug: voluntary-membership-on-for-aussie-students
-title: "Voluntary Membership On For Aussie Students"
-date: 2003-05-26
-source-url: https://www.scoop.co.nz/stories/ED0305/S00087/voluntary-membership-on-for-aussie-students.htm
+title: Voluntary Membership On For Aussie Students
+date: 2003-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00087/voluntary-membership-on-for-aussie-students.htm
 author: student-choice
+permalink: /archive/2003/05/26/voluntary-membership-on-for-aussie-students/index.html
+layout: layout.njk
 ---
 Voluntary Membership On For Aussie Students
 ===========================================

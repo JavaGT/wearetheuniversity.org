@@ -1,9 +1,13 @@
 ---
 slug: distinguished-professor-receives-university-of-waikato-award
-title: "Distinguished Professor receives University of Waikato Award"
-date: 2013-09-12
-source-url: https://www.scoop.co.nz/stories/ED1309/S00072/distinguished-professor-receives-university-of-waikato-award.htm
+title: Distinguished Professor receives University of Waikato Award
+date: 2013-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00072/distinguished-professor-receives-university-of-waikato-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/09/12/distinguished-professor-receives-university-of-waikato-award/index.html
+layout: layout.njk
 ---
 Distinguished Professor receives University of Waikato Award
 ============================================================

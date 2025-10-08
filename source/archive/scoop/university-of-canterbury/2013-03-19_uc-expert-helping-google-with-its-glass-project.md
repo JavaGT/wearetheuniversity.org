@@ -1,9 +1,12 @@
 ---
 slug: uc-expert-helping-google-with-its-glass-project
-title: "UC Expert Helping Google With Its Glass Project"
-date: 2013-03-19
-source-url: https://www.scoop.co.nz/stories/ED1303/S00127/uc-expert-helping-google-with-its-glass-project.htm
+title: UC Expert Helping Google With Its Glass Project
+date: 2013-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00127/uc-expert-helping-google-with-its-glass-project.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/19/uc-expert-helping-google-with-its-glass-project/index.html
+layout: layout.njk
 ---
 UC Expert Helping Google With Its Glass Project
 ===============================================

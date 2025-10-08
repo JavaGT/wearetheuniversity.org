@@ -1,9 +1,12 @@
 ---
 slug: historian-james-belich-to-return-to-victoria
-title: "Historian James Belich to return to Victoria"
-date: 2007-09-14
-source-url: https://www.scoop.co.nz/stories/ED0709/S00051/historian-james-belich-to-return-to-victoria.htm
+title: Historian James Belich to return to Victoria
+date: 2007-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00051/historian-james-belich-to-return-to-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/09/14/historian-james-belich-to-return-to-victoria/index.html
+layout: layout.njk
 ---
 Historian James Belich to return to Victoria
 ============================================

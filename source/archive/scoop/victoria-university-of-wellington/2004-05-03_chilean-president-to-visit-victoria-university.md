@@ -1,9 +1,12 @@
 ---
 slug: chilean-president-to-visit-victoria-university
-title: "Chilean President to visit Victoria University"
-date: 2004-05-03
-source-url: https://www.scoop.co.nz/stories/ED0405/S00003/chilean-president-to-visit-victoria-university.htm
+title: Chilean President to visit Victoria University
+date: 2004-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00003/chilean-president-to-visit-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/05/03/chilean-president-to-visit-victoria-university/index.html
+layout: layout.njk
 ---
 Chilean President to visit Victoria University
 ==============================================

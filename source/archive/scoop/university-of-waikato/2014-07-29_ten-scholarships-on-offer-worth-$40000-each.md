@@ -1,9 +1,12 @@
 ---
 slug: ten-scholarships-on-offer-worth-$40000-each
-title: "Ten scholarships on offer worth $40,000 each"
-date: 2014-07-29
-source-url: https://www.scoop.co.nz/stories/ED1407/S00136/ten-scholarships-on-offer-worth-40000-each.htm
+title: Ten scholarships on offer worth $40,000 each
+date: 2014-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00136/ten-scholarships-on-offer-worth-40000-each.htm
 author: university-of-waikato
+permalink: /archive/2014/07/29/ten-scholarships-on-offer-worth-/index.html
+layout: layout.njk
 ---
 Ten scholarships on offer worth $40,000 each
 ============================================

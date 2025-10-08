@@ -1,9 +1,12 @@
 ---
 slug: sharples-taxation-(budget-tax-measures)-bill
-title: "Sharples: Taxation (Budget Tax Measures) Bill"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/PA0905/S00550/sharples-taxation-budget-tax-measures-bill.htm
+title: 'Sharples: Taxation (Budget Tax Measures) Bill'
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00550/sharples-taxation-budget-tax-measures-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/05/29/sharples-taxation-/index.html
+layout: layout.njk
 ---
 Sharples: Taxation (Budget Tax Measures) Bill
 =============================================

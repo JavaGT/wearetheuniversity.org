@@ -1,9 +1,13 @@
 ---
 slug: hamilton-plans-up-for-discussion-at-winter-lecture-series
-title: "Hamilton plans up for discussion at Winter Lecture Series"
-date: 2014-06-24
-source-url: https://www.scoop.co.nz/stories/ED1406/S00126/hamilton-plans-up-for-discussion-at-winter-lecture-series.htm
+title: Hamilton plans up for discussion at Winter Lecture Series
+date: 2014-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00126/hamilton-plans-up-for-discussion-at-winter-lecture-series.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/24/hamilton-plans-up-for-discussion-at-winter-lecture-series/index.html
+layout: layout.njk
 ---
 Hamilton plans up for discussion at Winter Lecture Series
 =========================================================

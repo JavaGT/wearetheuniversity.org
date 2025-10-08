@@ -1,9 +1,13 @@
 ---
 slug: minister-asleep-at-agribusiness-wheel-since-january
-title: "Minister asleep at Agribusiness wheel since January"
-date: 2015-11-05
-source-url: https://www.scoop.co.nz/stories/PA1511/S00101/minister-asleep-at-agribusiness-wheel-since-january.htm
+title: Minister asleep at Agribusiness wheel since January
+date: 2015-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00101/minister-asleep-at-agribusiness-wheel-since-january.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/11/05/minister-asleep-at-agribusiness-wheel-since-january/index.html
+layout: layout.njk
 ---
 Minister asleep at Agribusiness wheel since January
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: school-leaders-report-high-levels-of-violence
-title: "School leaders report high levels of violence"
-date: 2018-07-26
-source-url: https://www.scoop.co.nz/stories/ED1807/S00065/school-leaders-report-high-levels-of-violence.htm
+title: School leaders report high levels of violence
+date: 2018-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1807/S00065/school-leaders-report-high-levels-of-violence.htm
 author: nzei
+permalink: /archive/2018/07/26/school-leaders-report-high-levels-of-violence/index.html
+layout: layout.njk
 ---
 School leaders report high levels of violence
 =============================================

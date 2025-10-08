@@ -1,9 +1,12 @@
 ---
 slug: strengthening-child-and-mental-health-research
-title: "Strengthening Child and Mental Health Research"
-date: 2005-08-04
-source-url: https://www.scoop.co.nz/stories/GE0508/S00023/strengthening-child-and-mental-health-research.htm
+title: Strengthening Child and Mental Health Research
+date: 2005-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0508/S00023/strengthening-child-and-mental-health-research.htm
 author: auckland-university
+permalink: /archive/2005/08/04/strengthening-child-and-mental-health-research/index.html
+layout: layout.njk
 ---
 Strengthening Child and Mental Health Research
 ==============================================

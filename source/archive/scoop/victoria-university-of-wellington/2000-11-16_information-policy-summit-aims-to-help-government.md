@@ -1,9 +1,13 @@
 ---
 slug: information-policy-summit-aims-to-help-government
-title: "Information Policy Summit aims to help government"
-date: 2000-11-16
-source-url: https://www.scoop.co.nz/stories/BU0011/S00117/information-policy-summit-aims-to-help-government.htm
+title: Information Policy Summit aims to help government
+date: 2000-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0011/S00117/information-policy-summit-aims-to-help-government.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/11/16/information-policy-summit-aims-to-help-government/index.html
+layout: layout.njk
 ---
 Information Policy Summit aims to help government
 =================================================

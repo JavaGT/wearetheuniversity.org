@@ -1,9 +1,12 @@
 ---
 slug: rough-guide-to-politics-for-perplexed-voters
-title: "Rough guide to politics for perplexed voters"
-date: 2008-10-09
-source-url: https://www.scoop.co.nz/stories/PO0810/S00129/rough-guide-to-politics-for-perplexed-voters.htm
+title: Rough guide to politics for perplexed voters
+date: 2008-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00129/rough-guide-to-politics-for-perplexed-voters.htm
 author: massey-university
+permalink: /archive/2008/10/09/rough-guide-to-politics-for-perplexed-voters/index.html
+layout: layout.njk
 ---
 Rough guide to politics for perplexed voters
 ============================================

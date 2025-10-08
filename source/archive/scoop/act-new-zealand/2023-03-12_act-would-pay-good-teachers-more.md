@@ -1,9 +1,12 @@
 ---
 slug: act-would-pay-good-teachers-more
-title: "ACT Would Pay Good Teachers More"
-date: 2023-03-12
-source-url: https://www.scoop.co.nz/stories/PA2303/S00086/act-would-pay-good-teachers-more.htm
+title: ACT Would Pay Good Teachers More
+date: 2023-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00086/act-would-pay-good-teachers-more.htm
 author: act-new-zealand
+permalink: /archive/2023/03/12/act-would-pay-good-teachers-more/index.html
+layout: layout.njk
 ---
 ACT Would Pay Good Teachers More
 ================================

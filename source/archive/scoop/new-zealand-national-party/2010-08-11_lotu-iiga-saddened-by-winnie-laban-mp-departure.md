@@ -1,9 +1,12 @@
 ---
 slug: lotu-iiga-saddened-by-winnie-laban-mp-departure
-title: "Lotu-Iiga Saddened By Winnie Laban MP Departure"
-date: 2010-08-11
-source-url: https://www.scoop.co.nz/stories/PA1008/S00190/lotu-iiga-saddened-by-winnie-laban-mp-departure.htm
+title: Lotu-Iiga Saddened By Winnie Laban MP Departure
+date: 2010-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00190/lotu-iiga-saddened-by-winnie-laban-mp-departure.htm
 author: new-zealand-national-party
+permalink: /archive/2010/08/11/lotu-iiga-saddened-by-winnie-laban-mp-departure/index.html
+layout: layout.njk
 ---
 Lotu-Iiga Saddened By Winnie Laban MP Departure
 ===============================================

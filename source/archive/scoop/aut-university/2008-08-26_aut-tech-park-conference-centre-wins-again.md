@@ -1,9 +1,12 @@
 ---
 slug: aut-tech-park-conference-centre-wins-again
-title: "AUT Tech Park Conference Centre wins again"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/BU0808/S00459/aut-tech-park-conference-centre-wins-again.htm
+title: AUT Tech Park Conference Centre wins again
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0808/S00459/aut-tech-park-conference-centre-wins-again.htm
 author: aut-university
+permalink: /archive/2008/08/26/aut-tech-park-conference-centre-wins-again/index.html
+layout: layout.njk
 ---
 AUT Tech Park Conference Centre wins again
 ==========================================

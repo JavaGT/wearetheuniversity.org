@@ -1,9 +1,12 @@
 ---
 slug: evidence-for-alcohol-causing-cancer-is-strong
-title: "Evidence for alcohol causing cancer is  strong"
-date: 2016-07-22
-source-url: https://www.scoop.co.nz/stories/SC1607/S00052/evidence-for-alcohol-causing-cancer-is-strong.htm
+title: Evidence for alcohol causing cancer is  strong
+date: 2016-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00052/evidence-for-alcohol-causing-cancer-is-strong.htm
 author: university-of-otago
+permalink: /archive/2016/07/22/evidence-for-alcohol-causing-cancer-is-strong/index.html
+layout: layout.njk
 ---
 Evidence for alcohol causing cancer is strong
 =============================================

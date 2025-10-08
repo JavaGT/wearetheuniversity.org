@@ -1,9 +1,12 @@
 ---
 slug: ousa-seeks-alternatives-to-toga-parade
-title: "OUSA seeks alternatives to Toga Parade"
-date: 2009-11-12
-source-url: https://www.scoop.co.nz/stories/ED0911/S00055/ousa-seeks-alternatives-to-toga-parade.htm
+title: OUSA seeks alternatives to Toga Parade
+date: 2009-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00055/ousa-seeks-alternatives-to-toga-parade.htm
 author: otago-university-students-association
+permalink: /archive/2009/11/12/ousa-seeks-alternatives-to-toga-parade/index.html
+layout: layout.njk
 ---
 OUSA seeks alternatives to Toga Parade
 ======================================

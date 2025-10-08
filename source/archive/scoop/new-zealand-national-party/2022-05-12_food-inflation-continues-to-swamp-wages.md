@@ -1,9 +1,12 @@
 ---
 slug: food-inflation-continues-to-swamp-wages
-title: "Food Inflation Continues To Swamp Wages"
-date: 2022-05-12
-source-url: https://www.scoop.co.nz/stories/PA2205/S00111/food-inflation-continues-to-swamp-wages.htm
+title: Food Inflation Continues To Swamp Wages
+date: 2022-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00111/food-inflation-continues-to-swamp-wages.htm
 author: new-zealand-national-party
+permalink: /archive/2022/05/12/food-inflation-continues-to-swamp-wages/index.html
+layout: layout.njk
 ---
 Food Inflation Continues To Swamp Wages
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-41
-title: "AUS Tertiary Update  Vol.3 No.41"
-date: 2000-12-07
-source-url: https://www.scoop.co.nz/stories/ED0012/S00004/aus-tertiary-update-vol3-no41.htm
+title: AUS Tertiary Update  Vol.3 No.41
+date: 2000-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0012/S00004/aus-tertiary-update-vol3-no41.htm
 author: association-of-university-staff
+permalink: /archive/2000/12/07/aus-tertiary-update-vol-3-no-41/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.41
 ===============================

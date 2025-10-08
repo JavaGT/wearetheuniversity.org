@@ -1,9 +1,12 @@
 ---
 slug: plain-english-from-bill-english
-title: "Plain English from Bill English"
-date: 2009-12-16
-source-url: https://www.scoop.co.nz/stories/PA0912/S00283/plain-english-from-bill-english.htm
+title: Plain English from Bill English
+date: 2009-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00283/plain-english-from-bill-english.htm
 author: new-zealand-national-party
+permalink: /archive/2009/12/16/plain-english-from-bill-english/index.html
+layout: layout.njk
 ---
 Plain English from Bill English
 ===============================

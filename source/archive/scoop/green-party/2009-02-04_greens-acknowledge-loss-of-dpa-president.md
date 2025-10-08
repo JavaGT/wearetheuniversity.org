@@ -1,9 +1,12 @@
 ---
 slug: greens-acknowledge-loss-of-dpa-president
-title: "Greens acknowledge loss of DPA President"
-date: 2009-02-04
-source-url: https://www.scoop.co.nz/stories/PA0902/S00050/greens-acknowledge-loss-of-dpa-president.htm
+title: Greens acknowledge loss of DPA President
+date: 2009-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00050/greens-acknowledge-loss-of-dpa-president.htm
 author: green-party
+permalink: /archive/2009/02/04/greens-acknowledge-loss-of-dpa-president/index.html
+layout: layout.njk
 ---
 Greens acknowledge loss of DPA President
 ========================================

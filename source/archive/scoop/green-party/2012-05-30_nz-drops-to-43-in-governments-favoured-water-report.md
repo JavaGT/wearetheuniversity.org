@@ -1,9 +1,13 @@
 ---
 slug: nz-drops-to-43-in-governments-favoured-water-report
-title: "NZ drops to 43 in Government’s favoured water report"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/PA1205/S00541/nz-drops-to-43-in-governments-favoured-water-report.htm
+title: NZ drops to 43 in Government’s favoured water report
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00541/nz-drops-to-43-in-governments-favoured-water-report.htm
 author: green-party
+permalink: >-
+  /archive/2012/05/30/nz-drops-to-43-in-governments-favoured-water-report/index.html
+layout: layout.njk
 ---
 NZ drops to 43 in Government’s favoured water report
 ====================================================

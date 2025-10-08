@@ -1,9 +1,13 @@
 ---
 slug: waikato-oceanographer-rena-oil-best-washed-up-on-beaches
-title: "Waikato oceanographer: Rena oil best washed up on beaches"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/ED1111/S00133/waikato-oceanographer-rena-oil-best-washed-up-on-beaches.htm
+title: 'Waikato oceanographer: Rena oil best washed up on beaches'
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00133/waikato-oceanographer-rena-oil-best-washed-up-on-beaches.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/21/waikato-oceanographer-rena-oil-best-washed-up-on-beaches/index.html
+layout: layout.njk
 ---
 Waikato oceanographer: Rena oil best washed up on beaches
 =========================================================

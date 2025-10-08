@@ -1,9 +1,12 @@
 ---
 slug: academic-migrants-in-new-zealand-universities
-title: "Academic migrants in New Zealand universities"
-date: 2009-04-02
-source-url: https://www.scoop.co.nz/stories/ED0904/S00004/academic-migrants-in-new-zealand-universities.htm
+title: Academic migrants in New Zealand universities
+date: 2009-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00004/academic-migrants-in-new-zealand-universities.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/04/02/academic-migrants-in-new-zealand-universities/index.html
+layout: layout.njk
 ---
 Academic migrants in New Zealand universities
 =============================================

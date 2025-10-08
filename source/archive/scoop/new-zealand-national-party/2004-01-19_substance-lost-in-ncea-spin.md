@@ -1,9 +1,11 @@
 ---
 slug: substance-lost-in-ncea-spin
-title: "Substance lost in NCEA spin"
-date: 2004-01-19
+title: Substance lost in NCEA spin
+date: 2004-01-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0401/S00108/substance-lost-in-ncea-spin.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/19/substance-lost-in-ncea-spin/index.html
+layout: layout.njk
 ---
 Substance lost in NCEA spin
 ===========================

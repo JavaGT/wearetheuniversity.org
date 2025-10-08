@@ -1,9 +1,11 @@
 ---
 slug: mallard-way-off-target
-title: "Mallard Way Off Target"
-date: 2003-01-22
+title: Mallard Way Off Target
+date: 2003-01-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0301/S00165/mallard-way-off-target.htm
 author: act-new-zealand
+permalink: /archive/2003/01/22/mallard-way-off-target/index.html
+layout: layout.njk
 ---
 Mallard Way Off Target
 ======================

@@ -1,9 +1,12 @@
 ---
 slug: a-new-life-for-st-james-theatre
-title: "A New Life For St. James Theatre"
-date: 2023-07-22
-source-url: https://www.scoop.co.nz/stories/PO2307/S00145/a-new-life-for-st-james-theatre.htm
+title: A New Life For St. James Theatre
+date: 2023-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00145/a-new-life-for-st-james-theatre.htm
 author: green-party
+permalink: /archive/2023/07/22/a-new-life-for-st-james-theatre/index.html
+layout: layout.njk
 ---
 A New Life For St. James Theatre
 ================================

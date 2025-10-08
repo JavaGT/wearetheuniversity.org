@@ -1,9 +1,12 @@
 ---
 slug: changing-social-circumstances-influence-smoking
-title: "Changing social circumstances influence smoking"
-date: 2013-09-12
-source-url: https://www.scoop.co.nz/stories/CU1309/S00207/changing-social-circumstances-influence-smoking.htm
+title: Changing social circumstances influence smoking
+date: 2013-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1309/S00207/changing-social-circumstances-influence-smoking.htm
 author: university-of-otago
+permalink: /archive/2013/09/12/changing-social-circumstances-influence-smoking/index.html
+layout: layout.njk
 ---
 Changing social circumstances influence smoking
 ===============================================

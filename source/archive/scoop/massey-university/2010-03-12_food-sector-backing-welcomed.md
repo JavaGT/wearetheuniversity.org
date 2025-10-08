@@ -1,9 +1,11 @@
 ---
 slug: food-sector-backing-welcomed
-title: "Food sector backing welcomed"
-date: 2010-03-12
+title: Food sector backing welcomed
+date: 2010-03-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1003/S00047/food-sector-backing-welcomed.htm
 author: massey-university
+permalink: /archive/2010/03/12/food-sector-backing-welcomed/index.html
+layout: layout.njk
 ---
 Food sector backing welcomed
 ============================

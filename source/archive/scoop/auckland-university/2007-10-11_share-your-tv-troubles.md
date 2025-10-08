@@ -1,9 +1,11 @@
 ---
 slug: share-your-tv-troubles
-title: "Share your TV troubles"
-date: 2007-10-11
+title: Share your TV troubles
+date: 2007-10-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0710/S00055/share-your-tv-troubles.htm
 author: auckland-university
+permalink: /archive/2007/10/11/share-your-tv-troubles/index.html
+layout: layout.njk
 ---
 Share your TV troubles
 ======================

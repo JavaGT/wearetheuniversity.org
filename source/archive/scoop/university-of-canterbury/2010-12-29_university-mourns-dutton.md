@@ -1,9 +1,11 @@
 ---
 slug: university-mourns-dutton
-title: "University Mourns Dutton"
-date: 2010-12-29
+title: University Mourns Dutton
+date: 2010-12-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1012/S00091/university-mourns-dutton.htm
 author: university-of-canterbury
+permalink: /archive/2010/12/29/university-mourns-dutton/index.html
+layout: layout.njk
 ---
 University Mourns Dutton
 ========================

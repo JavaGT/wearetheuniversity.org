@@ -1,9 +1,12 @@
 ---
 slug: retailers-revenge-could-slow-dairy-recovery
-title: "Retailers’ revenge could slow dairy recovery"
-date: 2015-09-07
-source-url: https://www.scoop.co.nz/stories/BU1509/S00235/retailers-revenge-could-slow-dairy-recovery.htm
+title: Retailers’ revenge could slow dairy recovery
+date: 2015-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1509/S00235/retailers-revenge-could-slow-dairy-recovery.htm
 author: lincoln-university
+permalink: /archive/2015/09/07/retailers-revenge-could-slow-dairy-recovery/index.html
+layout: layout.njk
 ---
 Retailers’ revenge could slow dairy recovery
 ============================================

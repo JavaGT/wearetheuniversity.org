@@ -1,9 +1,13 @@
 ---
 slug: more-not-necessarily-better-in-problem-gambling-services
-title: "More not necessarily better in problem gambling services"
-date: 2013-10-10
-source-url: https://www.scoop.co.nz/stories/ED1310/S00083/more-not-necessarily-better-in-problem-gambling-services.htm
+title: More not necessarily better in problem gambling services
+date: 2013-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00083/more-not-necessarily-better-in-problem-gambling-services.htm
 author: aut-university
+permalink: >-
+  /archive/2013/10/10/more-not-necessarily-better-in-problem-gambling-services/index.html
+layout: layout.njk
 ---
 More not necessarily better in problem gambling services
 ========================================================

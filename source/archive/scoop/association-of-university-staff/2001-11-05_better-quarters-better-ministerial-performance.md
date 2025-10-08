@@ -1,9 +1,12 @@
 ---
 slug: better-quarters-better-ministerial-performance
-title: "Better Quarters -- Better Ministerial Performance?"
-date: 2001-11-05
-source-url: https://www.scoop.co.nz/stories/ED0111/S00008/better-quarters-better-ministerial-performance.htm
+title: Better Quarters -- Better Ministerial Performance?
+date: 2001-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00008/better-quarters-better-ministerial-performance.htm
 author: association-of-university-staff
+permalink: /archive/2001/11/05/better-quarters-better-ministerial-performance/index.html
+layout: layout.njk
 ---
 Better Quarters -- Better Ministerial Performance?
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-reform-bill-fails-test
-title: "Tertiary Education Reform Bill Fails Test"
-date: 2002-03-21
-source-url: https://www.scoop.co.nz/stories/ED0203/S00042/tertiary-education-reform-bill-fails-test.htm
+title: Tertiary Education Reform Bill Fails Test
+date: 2002-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00042/tertiary-education-reform-bill-fails-test.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2002/03/21/tertiary-education-reform-bill-fails-test/index.html
+layout: layout.njk
 ---
 Tertiary Education Reform Bill Fails Test
 =========================================

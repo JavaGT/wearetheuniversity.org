@@ -1,9 +1,12 @@
 ---
 slug: the-no-care-no-responsibility-government
-title: "The no care, no responsibility Government"
-date: 2003-05-30
-source-url: https://www.scoop.co.nz/stories/PA0305/S00749/the-no-care-no-responsibility-government.htm
+title: The no care, no responsibility Government
+date: 2003-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00749/the-no-care-no-responsibility-government.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/30/the-no-care-no-responsibility-government/index.html
+layout: layout.njk
 ---
 The no care, no responsibility Government
 =========================================

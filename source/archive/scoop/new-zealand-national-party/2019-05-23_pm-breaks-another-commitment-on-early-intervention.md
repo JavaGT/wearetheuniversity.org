@@ -1,9 +1,13 @@
 ---
 slug: pm-breaks-another-commitment-on-early-intervention
-title: "PM breaks another commitment on early intervention"
-date: 2019-05-23
-source-url: https://www.scoop.co.nz/stories/PA1905/S00235/pm-breaks-another-commitment-on-early-intervention.htm
+title: PM breaks another commitment on early intervention
+date: 2019-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00235/pm-breaks-another-commitment-on-early-intervention.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/05/23/pm-breaks-another-commitment-on-early-intervention/index.html
+layout: layout.njk
 ---
 PM breaks another commitment on early intervention
 ==================================================

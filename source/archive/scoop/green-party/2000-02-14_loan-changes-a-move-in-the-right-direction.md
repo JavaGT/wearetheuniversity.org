@@ -1,9 +1,12 @@
 ---
 slug: loan-changes-a-move-in-the-right-direction
-title: "Loan Changes A Move In The Right Direction"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/PA0002/S00155/loan-changes-a-move-in-the-right-direction.htm
+title: Loan Changes A Move In The Right Direction
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00155/loan-changes-a-move-in-the-right-direction.htm
 author: green-party
+permalink: /archive/2000/02/14/loan-changes-a-move-in-the-right-direction/index.html
+layout: layout.njk
 ---
 Loan Changes A Move In The Right Direction
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-backs-conservation-groups-petition
-title: "Labour backs conservation groups’ petition"
-date: 2010-06-02
-source-url: https://www.scoop.co.nz/stories/PA1006/S00056/labour-backs-conservation-groups-petition.htm
+title: Labour backs conservation groups’ petition
+date: 2010-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00056/labour-backs-conservation-groups-petition.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/02/labour-backs-conservation-groups-petition/index.html
+layout: layout.njk
 ---
 Labour backs conservation groups’ petition
 ==========================================

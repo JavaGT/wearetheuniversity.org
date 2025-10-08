@@ -1,9 +1,13 @@
 ---
 slug: tariana-turia-reply-debate-2005-for-the-48th-parl
-title: "Tariana Turia: Reply Debate 2005 for the 48th Parl"
-date: 2005-11-16
-source-url: https://www.scoop.co.nz/stories/PA0511/S00196/tariana-turia-reply-debate-2005-for-the-48th-parl.htm
+title: 'Tariana Turia: Reply Debate 2005 for the 48th Parl'
+date: 2005-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00196/tariana-turia-reply-debate-2005-for-the-48th-parl.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2005/11/16/tariana-turia-reply-debate-2005-for-the-48th-parl/index.html
+layout: layout.njk
 ---
 Tariana Turia: Reply Debate 2005 for the 48th Parl
 ==================================================

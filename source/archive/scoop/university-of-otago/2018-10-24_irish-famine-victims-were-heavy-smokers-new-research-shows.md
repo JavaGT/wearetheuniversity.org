@@ -1,9 +1,13 @@
 ---
 slug: irish-famine-victims-were-heavy-smokers-new-research-shows
-title: "Irish Famine victims were heavy smokers, new research shows"
-date: 2018-10-24
-source-url: https://www.scoop.co.nz/stories/SC1810/S00075/irish-famine-victims-were-heavy-smokers-new-research-shows.htm
+title: Irish Famine victims were heavy smokers, new research shows
+date: 2018-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00075/irish-famine-victims-were-heavy-smokers-new-research-shows.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/24/irish-famine-victims-were-heavy-smokers-new-research-shows/index.html
+layout: layout.njk
 ---
 Irish Famine victims were heavy smokers, new research shows
 ===========================================================

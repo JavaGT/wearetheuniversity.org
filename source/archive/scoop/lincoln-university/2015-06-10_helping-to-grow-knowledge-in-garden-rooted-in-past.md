@@ -1,9 +1,13 @@
 ---
 slug: helping-to-grow-knowledge-in-garden-rooted-in-past
-title: "Helping to grow knowledge in garden rooted in past"
-date: 2015-06-10
-source-url: https://www.scoop.co.nz/stories/CU1506/S00193/helping-to-grow-knowledge-in-garden-rooted-in-past.htm
+title: Helping to grow knowledge in garden rooted in past
+date: 2015-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1506/S00193/helping-to-grow-knowledge-in-garden-rooted-in-past.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/06/10/helping-to-grow-knowledge-in-garden-rooted-in-past/index.html
+layout: layout.njk
 ---
 Helping to grow knowledge in garden rooted in past
 ==================================================

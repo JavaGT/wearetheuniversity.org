@@ -1,9 +1,12 @@
 ---
 slug: inaugural-hmnzs-canterbury-scholarship-awarded
-title: "Inaugural HMNZS Canterbury Scholarship awarded"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/ED0603/S00046/inaugural-hmnzs-canterbury-scholarship-awarded.htm
+title: Inaugural HMNZS Canterbury Scholarship awarded
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00046/inaugural-hmnzs-canterbury-scholarship-awarded.htm
 author: university-of-canterbury
+permalink: /archive/2006/03/20/inaugural-hmnzs-canterbury-scholarship-awarded/index.html
+layout: layout.njk
 ---
 Inaugural HMNZS Canterbury Scholarship awarded
 ==============================================

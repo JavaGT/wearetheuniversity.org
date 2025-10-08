@@ -1,9 +1,12 @@
 ---
 slug: survey-shows-junk-food-school-staple
-title: "Survey shows junk-food school staple"
-date: 2009-04-16
-source-url: https://www.scoop.co.nz/stories/PA0904/S00189/survey-shows-junk-food-school-staple.htm
+title: Survey shows junk-food school staple
+date: 2009-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00189/survey-shows-junk-food-school-staple.htm
 author: green-party
+permalink: /archive/2009/04/16/survey-shows-junk-food-school-staple/index.html
+layout: layout.njk
 ---
 Survey shows junk-food school staple
 ====================================

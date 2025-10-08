@@ -1,9 +1,12 @@
 ---
 slug: union-members-back-work-life-bill
-title: "Union Members Back Work-Life Bill"
-date: 2005-04-08
-source-url: https://www.scoop.co.nz/stories/PO0504/S00113/union-members-back-work-life-bill.htm
+title: Union Members Back Work-Life Bill
+date: 2005-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00113/union-members-back-work-life-bill.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/04/08/union-members-back-work-life-bill/index.html
+layout: layout.njk
 ---
 Union Members Back Work-Life Bill
 =================================

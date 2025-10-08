@@ -1,9 +1,13 @@
 ---
 slug: greens-cautiously-welcome-new-education-strategy
-title: "Greens cautiously welcome new Education Strategy"
-date: 2006-12-14
-source-url: https://www.scoop.co.nz/stories/PA0612/S00301/greens-cautiously-welcome-new-education-strategy.htm
+title: Greens cautiously welcome new Education Strategy
+date: 2006-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00301/greens-cautiously-welcome-new-education-strategy.htm
 author: green-party
+permalink: >-
+  /archive/2006/12/14/greens-cautiously-welcome-new-education-strategy/index.html
+layout: layout.njk
 ---
 Greens cautiously welcome new Education Strategy
 ================================================

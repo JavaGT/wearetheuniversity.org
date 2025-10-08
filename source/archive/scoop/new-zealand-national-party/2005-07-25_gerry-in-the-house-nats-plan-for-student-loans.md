@@ -1,9 +1,12 @@
 ---
 slug: gerry-in-the-house-nats-plan-for-student-loans
-title: "Gerry In The House: Nat's plan for student loans"
-date: 2005-07-25
-source-url: https://www.scoop.co.nz/stories/PA0507/S00507/gerry-in-the-house-nats-plan-for-student-loans.htm
+title: 'Gerry In The House: Nat''s plan for student loans'
+date: 2005-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00507/gerry-in-the-house-nats-plan-for-student-loans.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/25/gerry-in-the-house-nats-plan-for-student-loans/index.html
+layout: layout.njk
 ---
 Gerry In The House: Nat's plan for student loans
 ================================================

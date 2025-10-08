@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-election-looming-key-things-to-watch-for
-title: "Speech: Peters - Election Looming – Key things to watch for"
-date: 2011-10-26
-source-url: https://www.scoop.co.nz/stories/PO1110/S00449/speech-peters-election-looming-key-things-to-watch-for.htm
+title: 'Speech: Peters - Election Looming – Key things to watch for'
+date: 2011-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00449/speech-peters-election-looming-key-things-to-watch-for.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2011/10/26/speech-peters-election-looming-key-things-to-watch-for/index.html
+layout: layout.njk
 ---
 Speech: Peters - Election Looming – Key things to watch for
 ===========================================================

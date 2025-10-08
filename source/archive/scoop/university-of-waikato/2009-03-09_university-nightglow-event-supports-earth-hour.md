@@ -1,9 +1,12 @@
 ---
 slug: university-nightglow-event-supports-earth-hour
-title: "University Nightglow event supports Earth Hour"
-date: 2009-03-09
-source-url: https://www.scoop.co.nz/stories/CU0903/S00130/university-nightglow-event-supports-earth-hour.htm
+title: University Nightglow event supports Earth Hour
+date: 2009-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0903/S00130/university-nightglow-event-supports-earth-hour.htm
 author: university-of-waikato
+permalink: /archive/2009/03/09/university-nightglow-event-supports-earth-hour/index.html
+layout: layout.njk
 ---
 University Nightglow event supports Earth Hour
 ==============================================

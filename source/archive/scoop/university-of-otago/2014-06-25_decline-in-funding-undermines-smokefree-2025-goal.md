@@ -1,9 +1,13 @@
 ---
 slug: decline-in-funding-undermines-smokefree-2025-goal
-title: "Decline in funding undermines smokefree 2025 goal"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/GE1406/S00112/decline-in-funding-undermines-smokefree-2025-goal.htm
+title: Decline in funding undermines smokefree 2025 goal
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1406/S00112/decline-in-funding-undermines-smokefree-2025-goal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/06/25/decline-in-funding-undermines-smokefree-2025-goal/index.html
+layout: layout.njk
 ---
 Decline in funding undermines smokefree 2025 goal
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: early-childhood-day-of-action-and-petition-launch
-title: "Early Childhood Day of Action and Petition Launch"
-date: 2011-01-28
-source-url: https://www.scoop.co.nz/stories/ED1101/S00044/early-childhood-day-of-action-and-petition-launch.htm
+title: Early Childhood Day of Action and Petition Launch
+date: 2011-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00044/early-childhood-day-of-action-and-petition-launch.htm
 author: nzei
+permalink: >-
+  /archive/2011/01/28/early-childhood-day-of-action-and-petition-launch/index.html
+layout: layout.njk
 ---
 Early Childhood Day of Action and Petition Launch
 =================================================

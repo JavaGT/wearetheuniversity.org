@@ -1,9 +1,12 @@
 ---
 slug: 21-months-of-dallying-in-tertiary-ed
-title: "21 months of dallying in tertiary ed"
-date: 2001-10-05
-source-url: https://www.scoop.co.nz/stories/PA0110/S00122/21-months-of-dallying-in-tertiary-ed.htm
+title: 21 months of dallying in tertiary ed
+date: 2001-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00122/21-months-of-dallying-in-tertiary-ed.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/05/21-months-of-dallying-in-tertiary-ed/index.html
+layout: layout.njk
 ---
 21 months of dallying in tertiary ed
 ====================================

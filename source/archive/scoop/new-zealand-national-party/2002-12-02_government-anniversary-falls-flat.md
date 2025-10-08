@@ -1,9 +1,12 @@
 ---
 slug: government-anniversary-falls-flat
-title: "Government anniversary falls flat"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00003/government-anniversary-falls-flat.htm
+title: Government anniversary falls flat
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00003/government-anniversary-falls-flat.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/02/government-anniversary-falls-flat/index.html
+layout: layout.njk
 ---
 Government anniversary falls flat
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: best-new-zealand-poems-now-online
-title: "Best New Zealand Poems now online"
-date: 2013-04-08
-source-url: https://www.scoop.co.nz/stories/CU1304/S00148/best-new-zealand-poems-now-online.htm
+title: Best New Zealand Poems now online
+date: 2013-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1304/S00148/best-new-zealand-poems-now-online.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/04/08/best-new-zealand-poems-now-online/index.html
+layout: layout.njk
 ---
 Best New Zealand Poems now online
 =================================

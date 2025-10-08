@@ -1,9 +1,13 @@
 ---
 slug: state-house-sell-off-fiasco-a-gift-for-developers
-title: "State house sell-off fiasco a gift for developers"
-date: 2015-03-23
-source-url: https://www.scoop.co.nz/stories/PA1503/S00336/state-house-sell-off-fiasco-a-gift-for-developers.htm
+title: State house sell-off fiasco a gift for developers
+date: 2015-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00336/state-house-sell-off-fiasco-a-gift-for-developers.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/03/23/state-house-sell-off-fiasco-a-gift-for-developers/index.html
+layout: layout.njk
 ---
 State house sell-off fiasco a gift for developers
 =================================================

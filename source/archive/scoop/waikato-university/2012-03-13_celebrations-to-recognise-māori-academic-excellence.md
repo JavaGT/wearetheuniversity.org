@@ -1,9 +1,12 @@
 ---
 slug: celebrations-to-recognise-māori-academic-excellence
-title: "Celebrations to recognise Māori academic excellence"
-date: 2012-03-13
-source-url: https://www.scoop.co.nz/stories/ED1203/S00055/celebrations-to-recognise-maori-academic-excellence.htm
+title: Celebrations to recognise Māori academic excellence
+date: 2012-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00055/celebrations-to-recognise-maori-academic-excellence.htm
 author: waikato-university
+permalink: /archive/2012/03/13/celebrations-to-recognise-m/index.html
+layout: layout.njk
 ---
 Celebrations to recognise Māori academic excellence
 ===================================================

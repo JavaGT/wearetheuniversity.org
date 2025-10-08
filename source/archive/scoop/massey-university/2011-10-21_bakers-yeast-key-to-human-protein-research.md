@@ -1,9 +1,12 @@
 ---
 slug: bakers-yeast-key-to-human-protein-research
-title: "Baker’s yeast key to human protein research"
-date: 2011-10-21
-source-url: https://www.scoop.co.nz/stories/ED1110/S00097/bakers-yeast-key-to-human-protein-research.htm
+title: Baker’s yeast key to human protein research
+date: 2011-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00097/bakers-yeast-key-to-human-protein-research.htm
 author: massey-university
+permalink: /archive/2011/10/21/bakers-yeast-key-to-human-protein-research/index.html
+layout: layout.njk
 ---
 Baker’s yeast key to human protein research
 ===========================================

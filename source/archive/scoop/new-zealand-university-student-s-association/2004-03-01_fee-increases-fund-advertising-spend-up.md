@@ -1,9 +1,12 @@
 ---
 slug: fee-increases-fund-advertising-spend-up
-title: "Fee increases fund advertising spend up"
-date: 2004-03-01
-source-url: https://www.scoop.co.nz/stories/ED0403/S00003/fee-increases-fund-advertising-spend-up.htm
+title: Fee increases fund advertising spend up
+date: 2004-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00003/fee-increases-fund-advertising-spend-up.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/03/01/fee-increases-fund-advertising-spend-up/index.html
+layout: layout.njk
 ---
 Fee increases fund advertising spend up
 =======================================

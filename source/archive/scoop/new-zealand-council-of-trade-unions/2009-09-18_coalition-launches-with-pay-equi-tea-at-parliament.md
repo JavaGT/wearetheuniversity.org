@@ -1,9 +1,13 @@
 ---
 slug: coalition-launches-with-pay-equi-tea-at-parliament
-title: "Coalition Launches With Pay-Equi-tea at Parliament"
-date: 2009-09-18
-source-url: https://www.scoop.co.nz/stories/PO0909/S00213/coalition-launches-with-pay-equi-tea-at-parliament.htm
+title: Coalition Launches With Pay-Equi-tea at Parliament
+date: 2009-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0909/S00213/coalition-launches-with-pay-equi-tea-at-parliament.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2009/09/18/coalition-launches-with-pay-equi-tea-at-parliament/index.html
+layout: layout.njk
 ---
 Coalition Launches With Pay-Equi-tea at Parliament
 ==================================================

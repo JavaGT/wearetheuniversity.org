@@ -1,9 +1,12 @@
 ---
 slug: important-roading-projects-around-nz-in-doubt
-title: "Important roading projects around NZ in doubt"
-date: 2017-12-06
-source-url: https://www.scoop.co.nz/stories/PA1712/S00050/important-roading-projects-around-nz-in-doubt.htm
+title: Important roading projects around NZ in doubt
+date: 2017-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00050/important-roading-projects-around-nz-in-doubt.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/06/important-roading-projects-around-nz-in-doubt/index.html
+layout: layout.njk
 ---
 Important roading projects around NZ in doubt
 =============================================

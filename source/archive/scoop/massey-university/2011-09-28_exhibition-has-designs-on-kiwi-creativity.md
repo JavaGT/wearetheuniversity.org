@@ -1,9 +1,12 @@
 ---
 slug: exhibition-has-designs-on-kiwi-creativity
-title: "Exhibition has designs on Kiwi creativity"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/ED1109/S00125/exhibition-has-designs-on-kiwi-creativity.htm
+title: Exhibition has designs on Kiwi creativity
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00125/exhibition-has-designs-on-kiwi-creativity.htm
 author: massey-university
+permalink: /archive/2011/09/28/exhibition-has-designs-on-kiwi-creativity/index.html
+layout: layout.njk
 ---
 Exhibition has designs on Kiwi creativity
 =========================================

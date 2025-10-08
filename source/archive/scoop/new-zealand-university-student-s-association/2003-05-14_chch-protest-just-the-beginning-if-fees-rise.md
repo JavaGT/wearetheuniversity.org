@@ -1,9 +1,12 @@
 ---
 slug: chch-protest-just-the-beginning-if-fees-rise
-title: "ChCh protest just the beginning if fees rise"
-date: 2003-05-14
-source-url: https://www.scoop.co.nz/stories/ED0305/S00033/chch-protest-just-the-beginning-if-fees-rise.htm
+title: ChCh protest just the beginning if fees rise
+date: 2003-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00033/chch-protest-just-the-beginning-if-fees-rise.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/05/14/chch-protest-just-the-beginning-if-fees-rise/index.html
+layout: layout.njk
 ---
 ChCh protest just the beginning if fees rise
 ============================================

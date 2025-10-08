@@ -1,9 +1,12 @@
 ---
 slug: labour-takes-pride-in-rainbow-policies
-title: "Labour Takes Pride In Rainbow Policies"
-date: 2020-10-05
-source-url: https://www.scoop.co.nz/stories/PO2010/S00067/labour-takes-pride-in-rainbow-policies.htm
+title: Labour Takes Pride In Rainbow Policies
+date: 2020-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00067/labour-takes-pride-in-rainbow-policies.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/10/05/labour-takes-pride-in-rainbow-policies/index.html
+layout: layout.njk
 ---
 Labour Takes Pride In Rainbow Policies
 ======================================

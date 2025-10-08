@@ -1,9 +1,12 @@
 ---
 slug: ucs-$3-5mn-design-of-astronomical-proportions
-title: "UC’s $3.5mn design of astronomical proportions"
-date: 2005-04-19
-source-url: https://www.scoop.co.nz/stories/SC0504/S00057/ucs-35mn-design-of-astronomical-proportions.htm
+title: UC’s $3.5mn design of astronomical proportions
+date: 2005-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0504/S00057/ucs-35mn-design-of-astronomical-proportions.htm
 author: university-of-canterbury
+permalink: /archive/2005/04/19/ucs-/index.html
+layout: layout.njk
 ---
 UC’s $3.5mn design of astronomical proportions
 ==============================================

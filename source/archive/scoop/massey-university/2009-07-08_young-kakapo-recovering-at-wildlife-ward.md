@@ -1,9 +1,12 @@
 ---
 slug: young-kakapo-recovering-at-wildlife-ward
-title: "Young Kakapo recovering at wildlife ward"
-date: 2009-07-08
-source-url: https://www.scoop.co.nz/stories/SC0907/S00015/young-kakapo-recovering-at-wildlife-ward.htm
+title: Young Kakapo recovering at wildlife ward
+date: 2009-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0907/S00015/young-kakapo-recovering-at-wildlife-ward.htm
 author: massey-university
+permalink: /archive/2009/07/08/young-kakapo-recovering-at-wildlife-ward/index.html
+layout: layout.njk
 ---
 Young Kakapo recovering at wildlife ward
 ========================================

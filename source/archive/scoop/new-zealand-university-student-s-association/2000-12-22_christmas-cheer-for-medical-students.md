@@ -1,9 +1,12 @@
 ---
 slug: christmas-cheer-for-medical-students
-title: "Christmas Cheer For Medical Students"
-date: 2000-12-22
-source-url: https://www.scoop.co.nz/stories/ED0012/S00017/christmas-cheer-for-medical-students.htm
+title: Christmas Cheer For Medical Students
+date: 2000-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0012/S00017/christmas-cheer-for-medical-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/12/22/christmas-cheer-for-medical-students/index.html
+layout: layout.njk
 ---
 Christmas Cheer For Medical Students
 ====================================

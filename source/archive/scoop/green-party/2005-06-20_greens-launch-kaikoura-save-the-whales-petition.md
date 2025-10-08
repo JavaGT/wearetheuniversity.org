@@ -1,9 +1,12 @@
 ---
 slug: greens-launch-kaikoura-save-the-whales-petition
-title: "Greens launch Kaikoura save-the-whales petition"
-date: 2005-06-20
-source-url: https://www.scoop.co.nz/stories/PA0506/S00418/greens-launch-kaikoura-save-the-whales-petition.htm
+title: Greens launch Kaikoura save-the-whales petition
+date: 2005-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00418/greens-launch-kaikoura-save-the-whales-petition.htm
 author: green-party
+permalink: /archive/2005/06/20/greens-launch-kaikoura-save-the-whales-petition/index.html
+layout: layout.njk
 ---
 Greens launch Kaikoura save-the-whales petition
 ===============================================

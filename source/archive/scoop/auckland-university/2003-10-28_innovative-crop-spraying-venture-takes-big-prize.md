@@ -1,9 +1,13 @@
 ---
 slug: innovative-crop-spraying-venture-takes-big-prize
-title: "Innovative Crop-Spraying Venture Takes Big Prize"
-date: 2003-10-28
-source-url: https://www.scoop.co.nz/stories/ED0310/S00107/innovative-crop-spraying-venture-takes-big-prize.htm
+title: Innovative Crop-Spraying Venture Takes Big Prize
+date: 2003-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00107/innovative-crop-spraying-venture-takes-big-prize.htm
 author: auckland-university
+permalink: >-
+  /archive/2003/10/28/innovative-crop-spraying-venture-takes-big-prize/index.html
+layout: layout.njk
 ---
 Innovative Crop-Spraying Venture Takes Big Prize
 ================================================

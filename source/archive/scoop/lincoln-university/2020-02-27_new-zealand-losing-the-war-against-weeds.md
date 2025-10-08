@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-losing-the-war-against-weeds
-title: "New Zealand Losing The War Against Weeds"
-date: 2020-02-27
-source-url: https://www.scoop.co.nz/stories/SC2002/S00063/new-zealand-losing-the-war-against-weeds.htm
+title: New Zealand Losing The War Against Weeds
+date: 2020-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2002/S00063/new-zealand-losing-the-war-against-weeds.htm
 author: lincoln-university
+permalink: /archive/2020/02/27/new-zealand-losing-the-war-against-weeds/index.html
+layout: layout.njk
 ---
 New Zealand Losing The War Against Weeds
 ========================================

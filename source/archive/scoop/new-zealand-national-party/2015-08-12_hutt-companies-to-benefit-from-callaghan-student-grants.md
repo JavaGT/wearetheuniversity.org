@@ -1,9 +1,13 @@
 ---
 slug: hutt-companies-to-benefit-from-callaghan-student-grants
-title: "Hutt companies to benefit from Callaghan student grants"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/PA1508/S00182/hutt-companies-to-benefit-from-callaghan-student-grants.htm
+title: Hutt companies to benefit from Callaghan student grants
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00182/hutt-companies-to-benefit-from-callaghan-student-grants.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/08/12/hutt-companies-to-benefit-from-callaghan-student-grants/index.html
+layout: layout.njk
 ---
 Hutt companies to benefit from Callaghan student grants
 =======================================================

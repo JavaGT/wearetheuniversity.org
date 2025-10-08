@@ -1,9 +1,12 @@
 ---
 slug: harawira-electoral-finance-bill
-title: "Harawira: Electoral FInance Bill"
-date: 2007-12-18
-source-url: https://www.scoop.co.nz/stories/PA0712/S00417/harawira-electoral-finance-bill.htm
+title: 'Harawira: Electoral FInance Bill'
+date: 2007-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00417/harawira-electoral-finance-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/12/18/harawira-electoral-finance-bill/index.html
+layout: layout.njk
 ---
 Harawira: Electoral FInance Bill
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-labour!-dont-rob-your-student-neighbour
-title: "Labour, Labour!  Don't  Rob Your Student Neighbour"
-date: 2000-06-01
-source-url: https://www.scoop.co.nz/stories/ED0006/S00001/labour-labour-dont-rob-your-student-neighbour.htm
+title: Labour, Labour!  Don't  Rob Your Student Neighbour
+date: 2000-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00001/labour-labour-dont-rob-your-student-neighbour.htm
 author: fightback
+permalink: /archive/2000/06/01/labour-labour/index.html
+layout: layout.njk
 ---
 Labour, Labour! Don"t Rob Your Student Neighbour
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: proposed-defence-restructure-sinister
-title: "Proposed Defence restructure sinister"
-date: 2001-08-24
-source-url: https://www.scoop.co.nz/stories/PA0108/S00482/proposed-defence-restructure-sinister.htm
+title: Proposed Defence restructure sinister
+date: 2001-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00482/proposed-defence-restructure-sinister.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/24/proposed-defence-restructure-sinister/index.html
+layout: layout.njk
 ---
 Proposed Defence restructure sinister
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: consequences-for-unruly-kāinga-ora-neighbours-long-overdue
-title: "Consequences For Unruly Kāinga Ora Neighbours Long Overdue"
-date: 2024-03-18
-source-url: https://www.scoop.co.nz/stories/PA2403/S00083/consequences-for-unruly-kainga-ora-neighbours-long-overdue.htm
+title: Consequences For Unruly Kāinga Ora Neighbours Long Overdue
+date: 2024-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00083/consequences-for-unruly-kainga-ora-neighbours-long-overdue.htm
 author: act-new-zealand
+permalink: /archive/2024/03/18/consequences-for-unruly-k/index.html
+layout: layout.njk
 ---
 Consequences For Unruly Kāinga Ora Neighbours Long Overdue
 ==========================================================

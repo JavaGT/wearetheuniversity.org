@@ -1,9 +1,13 @@
 ---
 slug: pasifika-representation-strong-in-super-city-elections
-title: "Pasifika Representation Strong in Super City Elections"
-date: 2013-07-22
-source-url: https://www.scoop.co.nz/stories/AK1307/S00585/pasifika-representation-strong-in-super-city-elections.htm
+title: Pasifika Representation Strong in Super City Elections
+date: 2013-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00585/pasifika-representation-strong-in-super-city-elections.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/07/22/pasifika-representation-strong-in-super-city-elections/index.html
+layout: layout.njk
 ---
 Pasifika Representation Strong in Super City Elections
 ======================================================

@@ -1,9 +1,11 @@
 ---
 slug: the-mapp-report-may-16-2006
-title: "The Mapp Report  - May 16 2006"
-date: 2006-05-16
+title: The Mapp Report  - May 16 2006
+date: 2006-05-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00346/the-mapp-report-may-16-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/16/the-mapp-report-may-16-2006/index.html
+layout: layout.njk
 ---
 The Mapp Report - May 16 2006
 =============================

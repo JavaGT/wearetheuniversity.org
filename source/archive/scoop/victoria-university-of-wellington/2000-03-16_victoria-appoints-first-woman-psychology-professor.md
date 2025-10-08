@@ -1,9 +1,13 @@
 ---
 slug: victoria-appoints-first-woman-psychology-professor
-title: "Victoria appoints first woman psychology professor"
-date: 2000-03-16
-source-url: https://www.scoop.co.nz/stories/ED0003/S00032/victoria-appoints-first-woman-psychology-professor.htm
+title: Victoria appoints first woman psychology professor
+date: 2000-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00032/victoria-appoints-first-woman-psychology-professor.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/03/16/victoria-appoints-first-woman-psychology-professor/index.html
+layout: layout.njk
 ---
 Victoria appoints first woman psychology professor
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: events-in-syria-horrifying-says-mp
-title: "Events in Syria horrifying, says MP"
-date: 2012-05-31
-source-url: https://www.scoop.co.nz/stories/PA1205/S00567/events-in-syria-horrifying-says-mp.htm
+title: Events in Syria horrifying, says MP
+date: 2012-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00567/events-in-syria-horrifying-says-mp.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/31/events-in-syria-horrifying-says-mp/index.html
+layout: layout.njk
 ---
 Events in Syria horrifying, says MP
 ===================================

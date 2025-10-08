@@ -1,9 +1,12 @@
 ---
 slug: feeling-at-home-as-a-samoan-in-canterbury
-title: "Feeling at home as a Samoan in Canterbury"
-date: 2016-05-31
-source-url: https://www.scoop.co.nz/stories/AK1605/S00975/feeling-at-home-as-a-samoan-in-canterbury.htm
+title: Feeling at home as a Samoan in Canterbury
+date: 2016-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1605/S00975/feeling-at-home-as-a-samoan-in-canterbury.htm
 author: university-of-canterbury
+permalink: /archive/2016/05/31/feeling-at-home-as-a-samoan-in-canterbury/index.html
+layout: layout.njk
 ---
 Feeling at home as a Samoan in Canterbury
 =========================================

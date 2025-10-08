@@ -1,9 +1,12 @@
 ---
 slug: socio-economic-status-half-story-in-death-rates
-title: "Socio-economic status half story in death rates"
-date: 2006-05-08
-source-url: https://www.scoop.co.nz/stories/GE0605/S00059/socio-economic-status-half-story-in-death-rates.htm
+title: Socio-economic status half story in death rates
+date: 2006-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0605/S00059/socio-economic-status-half-story-in-death-rates.htm
 author: university-of-otago
+permalink: /archive/2006/05/08/socio-economic-status-half-story-in-death-rates/index.html
+layout: layout.njk
 ---
 Socio-economic status half story in death rates
 ===============================================

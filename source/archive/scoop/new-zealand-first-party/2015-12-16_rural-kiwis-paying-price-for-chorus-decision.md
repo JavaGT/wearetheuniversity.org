@@ -1,9 +1,12 @@
 ---
 slug: rural-kiwis-paying-price-for-chorus-decision
-title: "Rural Kiwis Paying Price for Chorus Decision"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/PA1512/S00350/rural-kiwis-paying-price-for-chorus-decision.htm
+title: Rural Kiwis Paying Price for Chorus Decision
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00350/rural-kiwis-paying-price-for-chorus-decision.htm
 author: new-zealand-first-party
+permalink: /archive/2015/12/16/rural-kiwis-paying-price-for-chorus-decision/index.html
+layout: layout.njk
 ---
 Rural Kiwis Paying Price for Chorus Decision
 ============================================

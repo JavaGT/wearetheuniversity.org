@@ -1,9 +1,12 @@
 ---
 slug: rich-european-and-chinese-students-only
-title: "Rich European and Chinese Students Only"
-date: 2001-06-20
-source-url: https://www.scoop.co.nz/stories/PA0106/S00293/rich-european-and-chinese-students-only.htm
+title: Rich European and Chinese Students Only
+date: 2001-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00293/rich-european-and-chinese-students-only.htm
 author: act-new-zealand
+permalink: /archive/2001/06/20/rich-european-and-chinese-students-only/index.html
+layout: layout.njk
 ---
 Rich European and Chinese Students Only
 =======================================

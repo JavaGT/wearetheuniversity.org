@@ -1,9 +1,12 @@
 ---
 slug: bright-future-for-waikato-microbiology-graduate
-title: "Bright future for Waikato microbiology graduate"
-date: 2013-11-11
-source-url: https://www.scoop.co.nz/stories/ED1311/S00072/bright-future-for-waikato-microbiology-graduate.htm
+title: Bright future for Waikato microbiology graduate
+date: 2013-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00072/bright-future-for-waikato-microbiology-graduate.htm
 author: university-of-waikato
+permalink: /archive/2013/11/11/bright-future-for-waikato-microbiology-graduate/index.html
+layout: layout.njk
 ---
 Bright future for Waikato microbiology graduate
 ===============================================

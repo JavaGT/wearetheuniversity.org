@@ -1,9 +1,13 @@
 ---
 slug: small-business-first-to-suffer-from-holidays-act
-title: "Small business first to suffer from Holidays Act"
-date: 2003-12-17
-source-url: https://www.scoop.co.nz/stories/PA0312/S00425/small-business-first-to-suffer-from-holidays-act.htm
+title: Small business first to suffer from Holidays Act
+date: 2003-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00425/small-business-first-to-suffer-from-holidays-act.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/12/17/small-business-first-to-suffer-from-holidays-act/index.html
+layout: layout.njk
 ---
 Small business first to suffer from Holidays Act
 ================================================

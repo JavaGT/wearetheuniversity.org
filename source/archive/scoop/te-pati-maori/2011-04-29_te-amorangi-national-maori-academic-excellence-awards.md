@@ -1,9 +1,13 @@
 ---
 slug: te-amorangi-national-maori-academic-excellence-awards
-title: "Te Amorangi National Maori Academic Excellence Awards"
-date: 2011-04-29
-source-url: https://www.scoop.co.nz/stories/PA1104/S00531/te-amorangi-national-maori-academic-excellence-awards.htm
+title: Te Amorangi National Maori Academic Excellence Awards
+date: 2011-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00531/te-amorangi-national-maori-academic-excellence-awards.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/04/29/te-amorangi-national-maori-academic-excellence-awards/index.html
+layout: layout.njk
 ---
 Te Amorangi National Maori Academic Excellence Awards
 =====================================================

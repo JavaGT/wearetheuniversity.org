@@ -1,8 +1,12 @@
 ---
 slug: condolences-for-victims-of-terror-attacks-in-paris-beirut-and-baghdad
-title: "Condolences for victims of terror attacks in Paris, Beirut and Baghdad"
-date: 2015-11-16
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/condolences-for-victims-of-terror-attacks-in-paris-beirut-baghdad.html
+title: Condolences for victims of terror attacks in Paris, Beirut and Baghdad
+date: 2015-11-16T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/condolences-for-victims-of-terror-attacks-in-paris-beirut-baghdad.html
+permalink: >-
+  /archive/2015/11/16/condolences-for-victims-of-terror-attacks-in-paris-beirut-and-baghdad/index.html
+layout: layout.njk
 ---
 Condolences for victims of terror attacks in Paris, Beirut and Baghdad
 ======================================================================

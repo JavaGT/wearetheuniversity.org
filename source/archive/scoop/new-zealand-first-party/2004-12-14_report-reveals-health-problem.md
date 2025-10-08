@@ -1,9 +1,12 @@
 ---
 slug: report-reveals-health-problem
-title: "Report Reveals Health Problem"
-date: 2004-12-14
-source-url: https://www.scoop.co.nz/stories/PA0412/S00334/report-reveals-health-problem.htm
+title: Report Reveals Health Problem
+date: 2004-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00334/report-reveals-health-problem.htm
 author: new-zealand-first-party
+permalink: /archive/2004/12/14/report-reveals-health-problem/index.html
+layout: layout.njk
 ---
 Report Reveals Health Problem
 =============================

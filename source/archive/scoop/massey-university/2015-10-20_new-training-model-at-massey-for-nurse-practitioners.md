@@ -1,9 +1,13 @@
 ---
 slug: new-training-model-at-massey-for-nurse-practitioners
-title: "New training model at Massey for nurse practitioners"
-date: 2015-10-20
-source-url: https://www.scoop.co.nz/stories/ED1510/S00097/new-training-model-at-massey-for-nurse-practitioners.htm
+title: New training model at Massey for nurse practitioners
+date: 2015-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00097/new-training-model-at-massey-for-nurse-practitioners.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/20/new-training-model-at-massey-for-nurse-practitioners/index.html
+layout: layout.njk
 ---
 New training model at Massey for nurse practitioners
 ====================================================

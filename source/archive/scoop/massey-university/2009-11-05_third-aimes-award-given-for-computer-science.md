@@ -1,9 +1,12 @@
 ---
 slug: third-aimes-award-given-for-computer-science
-title: "Third AIMES Award Given for Computer Science"
-date: 2009-11-05
-source-url: https://www.scoop.co.nz/stories/ED0911/S00028/third-aimes-award-given-for-computer-science.htm
+title: Third AIMES Award Given for Computer Science
+date: 2009-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00028/third-aimes-award-given-for-computer-science.htm
 author: massey-university
+permalink: /archive/2009/11/05/third-aimes-award-given-for-computer-science/index.html
+layout: layout.njk
 ---
 Third AIMES Award Given for Computer Science
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: boost-for-child-cancer-research
-title: "Boost For Child Cancer Research"
-date: 2006-06-01
-source-url: https://www.scoop.co.nz/stories/GE0606/S00005/boost-for-child-cancer-research.htm
+title: Boost For Child Cancer Research
+date: 2006-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0606/S00005/boost-for-child-cancer-research.htm
 author: university-of-otago
+permalink: /archive/2006/06/01/boost-for-child-cancer-research/index.html
+layout: layout.njk
 ---
 Boost For Child Cancer Research
 ===============================

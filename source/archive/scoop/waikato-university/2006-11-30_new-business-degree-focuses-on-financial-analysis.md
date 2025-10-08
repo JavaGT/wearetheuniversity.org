@@ -1,9 +1,13 @@
 ---
 slug: new-business-degree-focuses-on-financial-analysis
-title: "New business degree focuses on financial analysis"
-date: 2006-11-30
-source-url: https://www.scoop.co.nz/stories/ED0611/S00117/new-business-degree-focuses-on-financial-analysis.htm
+title: New business degree focuses on financial analysis
+date: 2006-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00117/new-business-degree-focuses-on-financial-analysis.htm
 author: waikato-university
+permalink: >-
+  /archive/2006/11/30/new-business-degree-focuses-on-financial-analysis/index.html
+layout: layout.njk
 ---
 New business degree focuses on financial analysis
 =================================================

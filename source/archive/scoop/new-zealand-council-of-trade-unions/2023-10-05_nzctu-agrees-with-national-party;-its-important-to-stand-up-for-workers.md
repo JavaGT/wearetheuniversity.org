@@ -1,9 +1,12 @@
 ---
 slug: nzctu-agrees-with-national-party;-its-important-to-stand-up-for-workers
-title: "NZCTU Agrees With National Party; It’s Important To Stand Up For Workers"
-date: 2023-10-05
-source-url: https://www.scoop.co.nz/stories/PO2310/S00062/nzctu-agrees-with-national-party-its-important-to-stand-up-for-workers.htm
+title: NZCTU Agrees With National Party; It’s Important To Stand Up For Workers
+date: 2023-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2310/S00062/nzctu-agrees-with-national-party-its-important-to-stand-up-for-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2023/10/05/nzctu-agrees-with-national-party/index.html
+layout: layout.njk
 ---
 NZCTU Agrees With National Party; It’s Important To Stand Up For Workers
 ========================================================================

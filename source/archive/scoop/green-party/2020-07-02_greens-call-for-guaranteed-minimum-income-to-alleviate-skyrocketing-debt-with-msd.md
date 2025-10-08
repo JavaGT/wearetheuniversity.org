@@ -1,9 +1,16 @@
 ---
-slug: greens-call-for-guaranteed-minimum-income-to-alleviate-skyrocketing-debt-with-msd
-title: "Greens Call For Guaranteed Minimum Income To Alleviate Skyrocketing Debt With MSD"
-date: 2020-07-02
-source-url: https://www.scoop.co.nz/stories/PA2007/S00026/greens-call-for-guaranteed-minimum-income-to-alleviate-skyrocketing-debt-with-msd.htm
+slug: >-
+  greens-call-for-guaranteed-minimum-income-to-alleviate-skyrocketing-debt-with-msd
+title: >-
+  Greens Call For Guaranteed Minimum Income To Alleviate Skyrocketing Debt With
+  MSD
+date: 2020-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00026/greens-call-for-guaranteed-minimum-income-to-alleviate-skyrocketing-debt-with-msd.htm
 author: green-party
+permalink: >-
+  /archive/2020/07/02/greens-call-for-guaranteed-minimum-income-to-alleviate-skyrocketing-debt-with-msd/index.html
+layout: layout.njk
 ---
 Greens Call For Guaranteed Minimum Income To Alleviate Skyrocketing Debt With MSD
 =================================================================================

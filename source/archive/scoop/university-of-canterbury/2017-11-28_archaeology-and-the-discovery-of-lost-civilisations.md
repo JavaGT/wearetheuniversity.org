@@ -1,9 +1,13 @@
 ---
 slug: archaeology-and-the-discovery-of-lost-civilisations
-title: "Archaeology and the discovery of lost civilisations"
-date: 2017-11-28
-source-url: https://www.scoop.co.nz/stories/CU1711/S00499/archaeology-and-the-discovery-of-lost-civilisations.htm
+title: Archaeology and the discovery of lost civilisations
+date: 2017-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1711/S00499/archaeology-and-the-discovery-of-lost-civilisations.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/28/archaeology-and-the-discovery-of-lost-civilisations/index.html
+layout: layout.njk
 ---
 Archaeology and the discovery of lost civilisations
 ===================================================

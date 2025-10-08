@@ -1,9 +1,13 @@
 ---
 slug: govt-sea-lion-proposal-at-odds-with-new-doc-information
-title: "Govt Sea Lion proposal at odds with new DOC information"
-date: 2012-01-10
-source-url: https://www.scoop.co.nz/stories/ED1201/S00004/govt-sea-lion-proposal-at-odds-with-new-doc-information.htm
+title: Govt Sea Lion proposal at odds with new DOC information
+date: 2012-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00004/govt-sea-lion-proposal-at-odds-with-new-doc-information.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/01/10/govt-sea-lion-proposal-at-odds-with-new-doc-information/index.html
+layout: layout.njk
 ---
 Govt Sea Lion proposal at odds with new DOC information
 =======================================================

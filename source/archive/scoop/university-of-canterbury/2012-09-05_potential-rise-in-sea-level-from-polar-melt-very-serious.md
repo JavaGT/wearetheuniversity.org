@@ -1,9 +1,13 @@
 ---
 slug: potential-rise-in-sea-level-from-polar-melt-very-serious
-title: "Potential rise in sea level from polar melt very serious"
-date: 2012-09-05
-source-url: https://www.scoop.co.nz/stories/SC1209/S00005/potential-rise-in-sea-level-from-polar-melt-very-serious.htm
+title: Potential rise in sea level from polar melt very serious
+date: 2012-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00005/potential-rise-in-sea-level-from-polar-melt-very-serious.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/05/potential-rise-in-sea-level-from-polar-melt-very-serious/index.html
+layout: layout.njk
 ---
 Potential rise in sea level from polar melt very serious
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: exceptional-adult-learners-rewarded-for-hard-work
-title: "Exceptional adult learners rewarded for hard work"
-date: 2004-08-31
-source-url: https://www.scoop.co.nz/stories/ED0408/S00129/exceptional-adult-learners-rewarded-for-hard-work.htm
+title: Exceptional adult learners rewarded for hard work
+date: 2004-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00129/exceptional-adult-learners-rewarded-for-hard-work.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/08/31/exceptional-adult-learners-rewarded-for-hard-work/index.html
+layout: layout.njk
 ---
 Exceptional adult learners rewarded for hard work
 =================================================

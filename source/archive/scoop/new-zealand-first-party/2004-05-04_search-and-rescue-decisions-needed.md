@@ -1,9 +1,12 @@
 ---
 slug: search-and-rescue-decisions-needed
-title: "Search And Rescue Decisions Needed"
-date: 2004-05-04
-source-url: https://www.scoop.co.nz/stories/PA0405/S00053/search-and-rescue-decisions-needed.htm
+title: Search And Rescue Decisions Needed
+date: 2004-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00053/search-and-rescue-decisions-needed.htm
 author: new-zealand-first-party
+permalink: /archive/2004/05/04/search-and-rescue-decisions-needed/index.html
+layout: layout.njk
 ---
 Search And Rescue Decisions Needed
 ==================================

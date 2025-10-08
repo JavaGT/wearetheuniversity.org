@@ -1,9 +1,13 @@
 ---
 slug: connecting-a-fairer-society-and-a-sustainable-one
-title: "Connecting a fairer society and a sustainable one"
-date: 2005-06-07
-source-url: https://www.scoop.co.nz/stories/PA0506/S00109/connecting-a-fairer-society-and-a-sustainable-one.htm
+title: Connecting a fairer society and a sustainable one
+date: 2005-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00109/connecting-a-fairer-society-and-a-sustainable-one.htm
 author: green-party
+permalink: >-
+  /archive/2005/06/07/connecting-a-fairer-society-and-a-sustainable-one/index.html
+layout: layout.njk
 ---
 Connecting a fairer society and a sustainable one
 =================================================

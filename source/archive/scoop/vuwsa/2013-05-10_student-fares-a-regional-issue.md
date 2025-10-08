@@ -1,9 +1,12 @@
 ---
 slug: student-fares-a-regional-issue
-title: "Student fares a regional issue"
-date: 2013-05-10
-source-url: https://www.scoop.co.nz/stories/ED1305/S00064/student-fares-a-regional-issue.htm
+title: Student fares a regional issue
+date: 2013-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00064/student-fares-a-regional-issue.htm
 author: vuwsa
+permalink: /archive/2013/05/10/student-fares-a-regional-issue/index.html
+layout: layout.njk
 ---
 Student fares a regional issue
 ==============================

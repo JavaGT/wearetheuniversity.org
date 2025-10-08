@@ -1,9 +1,12 @@
 ---
 slug: national-caught-out-on-state-house-porkies
-title: "National caught out on state house porkies"
-date: 2014-11-19
-source-url: https://www.scoop.co.nz/stories/PA1411/S00238/national-caught-out-on-state-house-porkies.htm
+title: National caught out on state house porkies
+date: 2014-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00238/national-caught-out-on-state-house-porkies.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/19/national-caught-out-on-state-house-porkies/index.html
+layout: layout.njk
 ---
 National caught out on state house porkies
 ==========================================

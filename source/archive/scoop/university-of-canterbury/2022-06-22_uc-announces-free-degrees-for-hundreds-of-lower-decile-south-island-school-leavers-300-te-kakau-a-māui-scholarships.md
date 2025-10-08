@@ -1,9 +1,16 @@
 ---
-slug: uc-announces-free-degrees-for-hundreds-of-lower-decile-south-island-school-leavers-300-te-kakau-a-māui-scholarships
-title: "UC Announces Free Degrees For Hundreds Of Lower Decile South Island School-leavers – 300 Te Kakau A Māui Scholarships"
-date: 2022-06-22
-source-url: https://www.scoop.co.nz/stories/ED2206/S00036/uc-announces-free-degrees-for-hundreds-of-lower-decile-south-island-school-leavers-300-te-kakau-a-maui-scholarships.htm
+slug: >-
+  uc-announces-free-degrees-for-hundreds-of-lower-decile-south-island-school-leavers-300-te-kakau-a-māui-scholarships
+title: >-
+  UC Announces Free Degrees For Hundreds Of Lower Decile South Island
+  School-leavers – 300 Te Kakau A Māui Scholarships
+date: 2022-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2206/S00036/uc-announces-free-degrees-for-hundreds-of-lower-decile-south-island-school-leavers-300-te-kakau-a-maui-scholarships.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/06/22/uc-announces-free-degrees-for-hundreds-of-lower-decile-south-island-school-leavers-300-te-kakau-a-m/index.html
+layout: layout.njk
 ---
 UC Announces Free Degrees For Hundreds Of Lower Decile South Island School-leavers – 300 Te Kakau A Māui Scholarships
 =====================================================================================================================

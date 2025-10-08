@@ -1,9 +1,12 @@
 ---
 slug: organic-prison-building-blows-budget
-title: "‘Organic’ prison building blows budget"
-date: 2007-09-06
-source-url: https://www.scoop.co.nz/stories/PA0709/S00096/organic-prison-building-blows-budget.htm
+title: ‘Organic’ prison building blows budget
+date: 2007-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00096/organic-prison-building-blows-budget.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/06/organic-prison-building-blows-budget/index.html
+layout: layout.njk
 ---
 ‘Organic’ prison building blows budget
 ======================================

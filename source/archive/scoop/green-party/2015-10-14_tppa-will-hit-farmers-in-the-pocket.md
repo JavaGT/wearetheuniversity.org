@@ -1,9 +1,12 @@
 ---
 slug: tppa-will-hit-farmers-in-the-pocket
-title: "TPPA will hit farmers in the pocket"
-date: 2015-10-14
-source-url: https://www.scoop.co.nz/stories/PA1510/S00215/tppa-will-hit-farmers-in-the-pocket.htm
+title: TPPA will hit farmers in the pocket
+date: 2015-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00215/tppa-will-hit-farmers-in-the-pocket.htm
 author: green-party
+permalink: /archive/2015/10/14/tppa-will-hit-farmers-in-the-pocket/index.html
+layout: layout.njk
 ---
 TPPA will hit farmers in the pocket
 ===================================

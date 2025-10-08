@@ -1,9 +1,12 @@
 ---
 slug: cyber-threats-a-greater-risk-under-labour
-title: "Cyber Threats A Greater Risk Under Labour"
-date: 2021-05-28
-source-url: https://www.scoop.co.nz/stories/PA2105/S00249/cyber-threats-a-greater-risk-under-labour.htm
+title: Cyber Threats A Greater Risk Under Labour
+date: 2021-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00249/cyber-threats-a-greater-risk-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/28/cyber-threats-a-greater-risk-under-labour/index.html
+layout: layout.njk
 ---
 Cyber Threats A Greater Risk Under Labour
 =========================================

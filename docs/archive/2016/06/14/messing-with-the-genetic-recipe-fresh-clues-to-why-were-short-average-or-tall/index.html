@@ -1,4 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Messing with the genetic recipe: fresh clues to why we’re short, average or tall – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>Messing with the genetic recipe: fresh clues to why we’re short, average or tall</h2><h3><span></span></h3><p>Tue Jun 14 2016 12:00:00 GMT+1200 (New Zealand Standard Time)</p><p><h1>Messing with the genetic recipe: fresh clues to why we’re short, average or tall</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Messing with the genetic recipe: fresh clues to why we’re short, average or tall</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Messing with the genetic recipe: fresh clues to why we’re short, average or tall</h1>
 <p>14 June 2016</p>
 <p><img src="https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/genetics-study-snps-role-height-disease/_jcr_content/par/textimage/image.img.jpg/1466136225993.jpg" alt="DNA double helix" title="DNA double helix"></p>
 <p>DNA is tightly coiled inside cells</p>
@@ -26,17 +50,38 @@
 <p>The study was published in the journal <em>Human Molecular Genetics.</em></p>
 <h3>Key points:</h3>
 <ul>
-<li> First study to show that SNPs (points in the DNA that commonly vary between people and that have been linked to diseases) influence the action of genes involved in height</li>
+<li>First study to show that SNPs (points in the DNA that commonly vary between people and that have been linked to diseases) influence the action of genes involved in height</li>
 <li>SNPs that come into contact with genes through the way that DNA is folded inside cells can interfere with the genes’ functioning, causing them to overproduce or under-produce proteins</li>
 <li>Adds to evidence that some SNPs cause disease by disrupting the action of genes they make contact with through DNA folding</li>
 <li>This approach predicted to lead to new gene-based treatments for many conditions</li>
 </ul>
 <h3>Associated Article:</h3>
-<p>Human Molecular Genetics – <a href="http://hmg.oxfordjournals.org/content/early/2016/06/09/hmg.ddw165.full.pdf?keytype=ref&ijkey=Pg5keGNWghtnlBG">Intergenic GWAS SNIPs are Key Components of the Spatial and Regulatory Network for Human Growth</a></p>
+<p>Human Molecular Genetics – <a href="http://hmg.oxfordjournals.org/content/early/2016/06/09/hmg.ddw165.full.pdf?keytype=ref&amp;ijkey=Pg5keGNWghtnlBG">Intergenic GWAS SNIPs are Key Components of the Spatial and Regulatory Network for Human Growth</a></p>
 <h3><strong>Contact</strong></h3>
 <p><strong>Nicola Shepheard</strong></p>
 <p>Media Relations Adviser</p>
 <p><strong>Tel</strong>: 09 923 1515</p>
 <p><strong>Mob</strong>: 027 537 1319</p>
-<p><strong>Email</strong>: <a href="mailto:n.shepheard@auckland.ac.nz">n.shepheard@auckland.ac.nz</a></p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+<p><strong>Email</strong>: n.shepheard@auckland.ac.nz</p>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

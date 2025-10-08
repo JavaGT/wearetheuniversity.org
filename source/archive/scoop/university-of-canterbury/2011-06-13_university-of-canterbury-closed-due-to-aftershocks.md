@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-closed-due-to-aftershocks
-title: "University of Canterbury Closed Due to Aftershocks"
-date: 2011-06-13
-source-url: https://www.scoop.co.nz/stories/AK1106/S00328/university-of-canterbury-closed-due-to-aftershocks.htm
+title: University of Canterbury Closed Due to Aftershocks
+date: 2011-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1106/S00328/university-of-canterbury-closed-due-to-aftershocks.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/06/13/university-of-canterbury-closed-due-to-aftershocks/index.html
+layout: layout.njk
 ---
 University of Canterbury Closed Due to Aftershocks
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-pharmaceutical-expert-to-collaborate-with-uc-researchers
-title: "NZ Pharmaceutical Expert to Collaborate with UC Researchers"
-date: 2013-05-24
-source-url: https://www.scoop.co.nz/stories/SC1305/S00077/nz-pharmaceutical-expert-to-collaborate-with-uc-researchers.htm
+title: NZ Pharmaceutical Expert to Collaborate with UC Researchers
+date: 2013-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00077/nz-pharmaceutical-expert-to-collaborate-with-uc-researchers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/24/nz-pharmaceutical-expert-to-collaborate-with-uc-researchers/index.html
+layout: layout.njk
 ---
 NZ Pharmaceutical Expert to Collaborate with UC Researchers
 ===========================================================

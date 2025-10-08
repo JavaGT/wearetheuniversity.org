@@ -1,9 +1,11 @@
 ---
 slug: lecture-showcases-war-images
-title: "Lecture showcases war images"
-date: 2008-10-28
+title: Lecture showcases war images
+date: 2008-10-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0810/S00109/lecture-showcases-war-images.htm
 author: massey-university
+permalink: /archive/2008/10/28/lecture-showcases-war-images/index.html
+layout: layout.njk
 ---
 Lecture showcases war images
 ============================

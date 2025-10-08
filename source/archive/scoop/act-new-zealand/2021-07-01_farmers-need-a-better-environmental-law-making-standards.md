@@ -1,9 +1,13 @@
 ---
 slug: farmers-need-a-better-environmental-law-making-standards
-title: "Farmers Need A Better Environmental Law Making Standards"
-date: 2021-07-01
-source-url: https://www.scoop.co.nz/stories/PA2107/S00013/farmers-need-a-better-environmental-law-making-standards.htm
+title: Farmers Need A Better Environmental Law Making Standards
+date: 2021-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00013/farmers-need-a-better-environmental-law-making-standards.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/07/01/farmers-need-a-better-environmental-law-making-standards/index.html
+layout: layout.njk
 ---
 Farmers Need A Better Environmental Law Making Standards
 ========================================================

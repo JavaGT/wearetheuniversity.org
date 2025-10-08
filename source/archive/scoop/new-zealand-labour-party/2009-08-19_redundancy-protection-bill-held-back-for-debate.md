@@ -1,9 +1,12 @@
 ---
 slug: redundancy-protection-bill-held-back-for-debate
-title: "Redundancy Protection Bill held back for debate"
-date: 2009-08-19
-source-url: https://www.scoop.co.nz/stories/PA0908/S00267/redundancy-protection-bill-held-back-for-debate.htm
+title: Redundancy Protection Bill held back for debate
+date: 2009-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00267/redundancy-protection-bill-held-back-for-debate.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/19/redundancy-protection-bill-held-back-for-debate/index.html
+layout: layout.njk
 ---
 Redundancy Protection Bill held back for debate
 ===============================================

@@ -1,8 +1,11 @@
 ---
 slug: science-and-fiction
-title: "Science and fiction"
-date: 2015-09-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/science-and-fiction.html
+title: Science and fiction
+date: 2015-09-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/science-and-fiction.html
+permalink: /archive/2015/09/10/science-and-fiction/index.html
+layout: layout.njk
 ---
 Science and fiction
 ===================

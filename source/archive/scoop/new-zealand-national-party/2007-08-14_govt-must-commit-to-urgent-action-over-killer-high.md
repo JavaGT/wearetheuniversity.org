@@ -1,9 +1,13 @@
 ---
 slug: govt-must-commit-to-urgent-action-over-killer-high
-title: "Govt must commit to urgent action over killer high"
-date: 2007-08-14
-source-url: https://www.scoop.co.nz/stories/PA0708/S00220/govt-must-commit-to-urgent-action-over-killer-high.htm
+title: Govt must commit to urgent action over killer high
+date: 2007-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00220/govt-must-commit-to-urgent-action-over-killer-high.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/08/14/govt-must-commit-to-urgent-action-over-killer-high/index.html
+layout: layout.njk
 ---
 Govt must commit to urgent action over killer high
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: te-rau-puawai-scholarship-for-nurse
-title: "Te Rau Puawai scholarship for nurse"
-date: 2008-12-19
-source-url: https://www.scoop.co.nz/stories/ED0812/S00081/te-rau-puawai-scholarship-for-nurse.htm
+title: Te Rau Puawai scholarship for nurse
+date: 2008-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00081/te-rau-puawai-scholarship-for-nurse.htm
 author: massey-university
+permalink: /archive/2008/12/19/te-rau-puawai-scholarship-for-nurse/index.html
+layout: layout.njk
 ---
 Te Rau Puawai scholarship for nurse
 ===================================

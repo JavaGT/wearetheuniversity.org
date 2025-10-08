@@ -1,9 +1,13 @@
 ---
 slug: national-must-fix-legal-flaws-in-export-education
-title: "National must fix legal flaws in export education"
-date: 2012-07-18
-source-url: https://www.scoop.co.nz/stories/PA1207/S00217/national-must-fix-legal-flaws-in-export-education.htm
+title: National must fix legal flaws in export education
+date: 2012-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00217/national-must-fix-legal-flaws-in-export-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/07/18/national-must-fix-legal-flaws-in-export-education/index.html
+layout: layout.njk
 ---
 National must fix legal flaws in export education
 =================================================

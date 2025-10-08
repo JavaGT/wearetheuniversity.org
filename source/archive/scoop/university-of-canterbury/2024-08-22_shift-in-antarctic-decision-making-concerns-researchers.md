@@ -1,9 +1,13 @@
 ---
 slug: shift-in-antarctic-decision-making-concerns-researchers
-title: "Shift In Antarctic Decision-Making Concerns Researchers"
-date: 2024-08-22
-source-url: https://www.scoop.co.nz/stories/SC2408/S00044/shift-in-antarctic-decision-making-concerns-researchers.htm
+title: Shift In Antarctic Decision-Making Concerns Researchers
+date: 2024-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2408/S00044/shift-in-antarctic-decision-making-concerns-researchers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/08/22/shift-in-antarctic-decision-making-concerns-researchers/index.html
+layout: layout.njk
 ---
 Shift In Antarctic Decision-Making Concerns Researchers
 =======================================================

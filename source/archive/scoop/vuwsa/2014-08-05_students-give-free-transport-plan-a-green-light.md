@@ -1,9 +1,12 @@
 ---
 slug: students-give-free-transport-plan-a-green-light
-title: "Students give free transport plan a green light"
-date: 2014-08-05
-source-url: https://www.scoop.co.nz/stories/PO1408/S00067/students-give-free-transport-plan-a-green-light.htm
+title: Students give free transport plan a green light
+date: 2014-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00067/students-give-free-transport-plan-a-green-light.htm
 author: vuwsa
+permalink: /archive/2014/08/05/students-give-free-transport-plan-a-green-light/index.html
+layout: layout.njk
 ---
 Students give free transport plan a green light
 ===============================================

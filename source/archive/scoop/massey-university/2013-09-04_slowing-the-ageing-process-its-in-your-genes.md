@@ -1,9 +1,12 @@
 ---
 slug: slowing-the-ageing-process-its-in-your-genes
-title: "Slowing the ageing process – it’s in your genes"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/SC1309/S00009/slowing-the-ageing-process-its-in-your-genes.htm
+title: Slowing the ageing process – it’s in your genes
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00009/slowing-the-ageing-process-its-in-your-genes.htm
 author: massey-university
+permalink: /archive/2013/09/04/slowing-the-ageing-process-its-in-your-genes/index.html
+layout: layout.njk
 ---
 Slowing the ageing process – it’s in your genes
 ===============================================

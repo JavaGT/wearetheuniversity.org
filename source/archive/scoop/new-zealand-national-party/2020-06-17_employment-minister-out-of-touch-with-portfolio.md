@@ -1,9 +1,12 @@
 ---
 slug: employment-minister-out-of-touch-with-portfolio
-title: "Employment Minister Out Of Touch With Portfolio"
-date: 2020-06-17
-source-url: https://www.scoop.co.nz/stories/PA2006/S00159/employment-minister-out-of-touch-with-portfolio.htm
+title: Employment Minister Out Of Touch With Portfolio
+date: 2020-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00159/employment-minister-out-of-touch-with-portfolio.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/17/employment-minister-out-of-touch-with-portfolio/index.html
+layout: layout.njk
 ---
 Employment Minister Out Of Touch With Portfolio
 ===============================================

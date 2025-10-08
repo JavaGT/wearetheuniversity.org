@@ -1,9 +1,12 @@
 ---
 slug: employment-law-a-key-to-prosperity
-title: "Employment Law: A Key To Prosperity"
-date: 2005-07-20
-source-url: https://www.scoop.co.nz/stories/PA0507/S00429/employment-law-a-key-to-prosperity.htm
+title: 'Employment Law: A Key To Prosperity'
+date: 2005-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00429/employment-law-a-key-to-prosperity.htm
 author: act-new-zealand
+permalink: /archive/2005/07/20/employment-law-a-key-to-prosperity/index.html
+layout: layout.njk
 ---
 Employment Law: A Key To Prosperity
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: nzei-supports-intermediate-and-middle-schools
-title: "NZEI Supports Intermediate And Middle Schools"
-date: 2005-08-04
-source-url: https://www.scoop.co.nz/stories/ED0508/S00026/nzei-supports-intermediate-and-middle-schools.htm
+title: NZEI Supports Intermediate And Middle Schools
+date: 2005-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00026/nzei-supports-intermediate-and-middle-schools.htm
 author: nzei
+permalink: /archive/2005/08/04/nzei-supports-intermediate-and-middle-schools/index.html
+layout: layout.njk
 ---
 NZEI Supports Intermediate And Middle Schools
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: new-executive-director-for-aqa
-title: "New Executive Director For AQA"
-date: 2015-11-19
-source-url: https://www.scoop.co.nz/stories/BU1511/S00634/new-executive-director-for-aqa.htm
+title: New Executive Director For AQA
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1511/S00634/new-executive-director-for-aqa.htm
 author: academic-quality-agency-for-nz-universities
+permalink: /archive/2015/11/19/new-executive-director-for-aqa/index.html
+layout: layout.njk
 ---
 New Executive Director For AQA
 ==============================

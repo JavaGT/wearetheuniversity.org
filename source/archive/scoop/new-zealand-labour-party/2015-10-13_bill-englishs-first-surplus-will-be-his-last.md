@@ -1,9 +1,12 @@
 ---
 slug: bill-englishs-first-surplus-will-be-his-last
-title: "Bill English’s first surplus will be his last"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/PA1510/S00187/bill-englishs-first-surplus-will-be-his-last.htm
+title: Bill English’s first surplus will be his last
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00187/bill-englishs-first-surplus-will-be-his-last.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/13/bill-englishs-first-surplus-will-be-his-last/index.html
+layout: layout.njk
 ---
 Bill English’s first surplus will be his last
 =============================================

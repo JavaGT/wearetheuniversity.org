@@ -1,9 +1,12 @@
 ---
 slug: the-robots-are-coming!-shouldnt-we-be-more-worried
-title: "The robots are coming! Shouldn’t we be more worried?"
-date: 2016-06-20
-source-url: https://www.scoop.co.nz/stories/ED1606/S00070/the-robots-are-coming-shouldnt-we-be-more-worried.htm
+title: The robots are coming! Shouldn’t we be more worried?
+date: 2016-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00070/the-robots-are-coming-shouldnt-we-be-more-worried.htm
 author: massey-university
+permalink: /archive/2016/06/20/the-robots-are-coming/index.html
+layout: layout.njk
 ---
 The robots are coming! Shouldn’t we be more worried?
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: tpk-struggles-to-measure-whānau-ora-outcomes
-title: "TPK struggles to measure Whānau Ora outcomes"
-date: 2016-07-01
-source-url: https://www.scoop.co.nz/stories/PA1607/S00005/tpk-struggles-to-measure-whanau-ora-outcomes.htm
+title: TPK struggles to measure Whānau Ora outcomes
+date: 2016-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00005/tpk-struggles-to-measure-whanau-ora-outcomes.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/01/tpk-struggles-to-measure-wh/index.html
+layout: layout.njk
 ---
 TPK struggles to measure Whānau Ora outcomes
 ============================================

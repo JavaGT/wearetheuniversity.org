@@ -1,9 +1,13 @@
 ---
 slug: stop-acting-like-muppets-and-cancel-all-ge-trials
-title: "Stop acting like Muppets and cancel all GE trials"
-date: 2009-02-12
-source-url: https://www.scoop.co.nz/stories/PA0902/S00171/stop-acting-like-muppets-and-cancel-all-ge-trials.htm
+title: Stop acting like Muppets and cancel all GE trials
+date: 2009-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00171/stop-acting-like-muppets-and-cancel-all-ge-trials.htm
 author: green-party
+permalink: >-
+  /archive/2009/02/12/stop-acting-like-muppets-and-cancel-all-ge-trials/index.html
+layout: layout.njk
 ---
 Stop acting like Muppets and cancel all GE trials
 =================================================

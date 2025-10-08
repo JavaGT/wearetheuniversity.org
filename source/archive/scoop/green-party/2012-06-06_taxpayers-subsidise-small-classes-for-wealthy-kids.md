@@ -1,9 +1,13 @@
 ---
 slug: taxpayers-subsidise-small-classes-for-wealthy-kids
-title: "Taxpayers subsidise small classes for wealthy kids"
-date: 2012-06-06
-source-url: https://www.scoop.co.nz/stories/PA1206/S00054/taxpayers-subsidise-small-classes-for-wealthy-kids.htm
+title: Taxpayers subsidise small classes for wealthy kids
+date: 2012-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00054/taxpayers-subsidise-small-classes-for-wealthy-kids.htm
 author: green-party
+permalink: >-
+  /archive/2012/06/06/taxpayers-subsidise-small-classes-for-wealthy-kids/index.html
+layout: layout.njk
 ---
 Taxpayers subsidise small classes for wealthy kids
 ==================================================

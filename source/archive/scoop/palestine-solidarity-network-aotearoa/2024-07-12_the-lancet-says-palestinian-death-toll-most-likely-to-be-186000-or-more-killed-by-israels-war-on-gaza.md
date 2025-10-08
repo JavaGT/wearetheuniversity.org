@@ -1,9 +1,16 @@
 ---
-slug: the-lancet-says-palestinian-death-toll-most-likely-to-be-186000-or-more-killed-by-israels-war-on-gaza
-title: "The Lancet Says Palestinian Death Toll Most Likely To Be 186,000 Or More Killed By Israel’s War On Gaza"
-date: 2024-07-12
-source-url: https://www.scoop.co.nz/stories/PO2407/S00079/the-lancet-says-palestinian-death-toll-most-likely-to-be-186000-or-more-killed-by-israels-war-on-gaza.htm
+slug: >-
+  the-lancet-says-palestinian-death-toll-most-likely-to-be-186000-or-more-killed-by-israels-war-on-gaza
+title: >-
+  The Lancet Says Palestinian Death Toll Most Likely To Be 186,000 Or More
+  Killed By Israel’s War On Gaza
+date: 2024-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2407/S00079/the-lancet-says-palestinian-death-toll-most-likely-to-be-186000-or-more-killed-by-israels-war-on-gaza.htm
 author: palestine-solidarity-network-aotearoa
+permalink: >-
+  /archive/2024/07/12/the-lancet-says-palestinian-death-toll-most-likely-to-be-186000-or-more-killed-by-israels-war-on-gaza/index.html
+layout: layout.njk
 ---
 The Lancet Says Palestinian Death Toll Most Likely To Be 186,000 Or More Killed By Israel’s War On Gaza
 =======================================================================================================

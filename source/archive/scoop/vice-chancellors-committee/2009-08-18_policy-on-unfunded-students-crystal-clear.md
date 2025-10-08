@@ -1,9 +1,12 @@
 ---
 slug: policy-on-unfunded-students-crystal-clear
-title: "Policy on unfunded students crystal clear"
-date: 2009-08-18
-source-url: https://www.scoop.co.nz/stories/ED0908/S00061/policy-on-unfunded-students-crystal-clear.htm
+title: Policy on unfunded students crystal clear
+date: 2009-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00061/policy-on-unfunded-students-crystal-clear.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/08/18/policy-on-unfunded-students-crystal-clear/index.html
+layout: layout.njk
 ---
 Policy on unfunded students crystal clear
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: national-picks-ideology-over-proven-success
-title: "National Picks Ideology Over Proven Success"
-date: 2013-04-23
-source-url: https://www.scoop.co.nz/stories/PA1304/S00450/national-picks-ideology-over-proven-success.htm
+title: National Picks Ideology Over Proven Success
+date: 2013-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00450/national-picks-ideology-over-proven-success.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/23/national-picks-ideology-over-proven-success/index.html
+layout: layout.njk
 ---
 National Picks Ideology Over Proven Success
 ===========================================

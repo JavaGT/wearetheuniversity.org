@@ -1,9 +1,13 @@
 ---
 slug: grandmothers-wartime-experience-inspires-new-book
-title: "Grandmother’s Wartime Experience Inspires New Book"
-date: 2001-04-10
-source-url: https://www.scoop.co.nz/stories/CU0104/S00028/grandmothers-wartime-experience-inspires-new-book.htm
+title: Grandmother’s Wartime Experience Inspires New Book
+date: 2001-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0104/S00028/grandmothers-wartime-experience-inspires-new-book.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2001/04/10/grandmothers-wartime-experience-inspires-new-book/index.html
+layout: layout.njk
 ---
 Grandmother’s Wartime Experience Inspires New Book
 ==================================================

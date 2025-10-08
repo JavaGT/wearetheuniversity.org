@@ -1,9 +1,12 @@
 ---
 slug: traffic-plan-more-revenue-collecting
-title: "Traffic plan more revenue collecting"
-date: 2003-08-13
-source-url: https://www.scoop.co.nz/stories/PA0308/S00255/traffic-plan-more-revenue-collecting.htm
+title: Traffic plan more revenue collecting
+date: 2003-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00255/traffic-plan-more-revenue-collecting.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/13/traffic-plan-more-revenue-collecting/index.html
+layout: layout.njk
 ---
 Traffic plan more revenue collecting
 ====================================

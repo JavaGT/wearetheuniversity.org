@@ -1,9 +1,12 @@
 ---
 slug: japanese-films-to-screen-at-albany-each-month
-title: "Japanese films to screen at Albany each month"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/CU1409/S00242/japanese-films-to-screen-at-albany-each-month.htm
+title: Japanese films to screen at Albany each month
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1409/S00242/japanese-films-to-screen-at-albany-each-month.htm
 author: massey-university
+permalink: /archive/2014/09/12/japanese-films-to-screen-at-albany-each-month/index.html
+layout: layout.njk
 ---
 Japanese films to screen at Albany each month
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: ex-vuwsa-president-burns-nz-flag
-title: "Ex-VUWSA President burns NZ flag"
-date: 2009-05-06
-source-url: https://www.scoop.co.nz/stories/ED0905/S00029/ex-vuwsa-president-burns-nz-flag.htm
+title: Ex-VUWSA President burns NZ flag
+date: 2009-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00029/ex-vuwsa-president-burns-nz-flag.htm
 author: salient
+permalink: /archive/2009/05/06/ex-vuwsa-president-burns-nz-flag/index.html
+layout: layout.njk
 ---
 Ex-VUWSA President burns NZ flag
 ================================

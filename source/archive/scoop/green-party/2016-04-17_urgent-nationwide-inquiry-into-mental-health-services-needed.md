@@ -1,9 +1,13 @@
 ---
 slug: urgent-nationwide-inquiry-into-mental-health-services-needed
-title: "Urgent nationwide inquiry into mental health services needed"
-date: 2016-04-17
-source-url: https://www.scoop.co.nz/stories/PA1604/S00290/urgent-nationwide-inquiry-into-mental-health-services-needed.htm
+title: Urgent nationwide inquiry into mental health services needed
+date: 2016-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00290/urgent-nationwide-inquiry-into-mental-health-services-needed.htm
 author: green-party
+permalink: >-
+  /archive/2016/04/17/urgent-nationwide-inquiry-into-mental-health-services-needed/index.html
+layout: layout.njk
 ---
 Urgent nationwide inquiry into mental health services needed
 ============================================================

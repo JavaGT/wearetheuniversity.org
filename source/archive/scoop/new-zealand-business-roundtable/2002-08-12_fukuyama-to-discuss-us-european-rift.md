@@ -1,9 +1,12 @@
 ---
 slug: fukuyama-to-discuss-us-european-rift
-title: "Fukuyama To Discuss Us-European Rift"
-date: 2002-08-12
-source-url: https://www.scoop.co.nz/stories/BU0208/S00077/fukuyama-to-discuss-us-european-rift.htm
+title: Fukuyama To Discuss Us-European Rift
+date: 2002-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0208/S00077/fukuyama-to-discuss-us-european-rift.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2002/08/12/fukuyama-to-discuss-us-european-rift/index.html
+layout: layout.njk
 ---
 Fukuyama To Discuss Us-European Rift
 ====================================

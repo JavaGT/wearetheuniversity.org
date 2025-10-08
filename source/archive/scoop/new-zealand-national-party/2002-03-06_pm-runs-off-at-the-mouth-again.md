@@ -1,9 +1,12 @@
 ---
 slug: pm-runs-off-at-the-mouth-again
-title: "PM Runs Off At The Mouth - Again"
-date: 2002-03-06
-source-url: https://www.scoop.co.nz/stories/PA0203/S00103/pm-runs-off-at-the-mouth-again.htm
+title: PM Runs Off At The Mouth - Again
+date: 2002-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00103/pm-runs-off-at-the-mouth-again.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/06/pm-runs-off-at-the-mouth-again/index.html
+layout: layout.njk
 ---
 PM Runs Off At The Mouth - Again
 ================================

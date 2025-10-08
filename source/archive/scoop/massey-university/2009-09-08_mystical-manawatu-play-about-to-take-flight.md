@@ -1,9 +1,12 @@
 ---
 slug: mystical-manawatu-play-about-to-take-flight
-title: "Mystical Manawatu play about to take flight"
-date: 2009-09-08
-source-url: https://www.scoop.co.nz/stories/CU0909/S00116/mystical-manawatu-play-about-to-take-flight.htm
+title: Mystical Manawatu play about to take flight
+date: 2009-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00116/mystical-manawatu-play-about-to-take-flight.htm
 author: massey-university
+permalink: /archive/2009/09/08/mystical-manawatu-play-about-to-take-flight/index.html
+layout: layout.njk
 ---
 Mystical Manawatu play about to take flight
 ===========================================

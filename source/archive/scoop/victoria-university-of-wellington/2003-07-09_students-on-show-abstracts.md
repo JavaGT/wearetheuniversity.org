@@ -1,9 +1,11 @@
 ---
 slug: students-on-show-abstracts
-title: "Students on Show Abstracts"
-date: 2003-07-09
+title: Students on Show Abstracts
+date: 2003-07-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0307/S00024/students-on-show-abstracts.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/09/students-on-show-abstracts/index.html
+layout: layout.njk
 ---
 Students on Show Abstracts
 ==========================

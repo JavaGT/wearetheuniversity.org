@@ -1,9 +1,12 @@
 ---
 slug: in-support-of-a-living-allowance-for-all
-title: "In Support Of A Living Allowance For All"
-date: 2004-03-12
-source-url: https://www.scoop.co.nz/stories/ED0403/S00054/in-support-of-a-living-allowance-for-all.htm
+title: In Support Of A Living Allowance For All
+date: 2004-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00054/in-support-of-a-living-allowance-for-all.htm
 author: victoria-university-students-association
+permalink: /archive/2004/03/12/in-support-of-a-living-allowance-for-all/index.html
+layout: layout.njk
 ---
 In Support Of A Living Allowance For All
 ========================================

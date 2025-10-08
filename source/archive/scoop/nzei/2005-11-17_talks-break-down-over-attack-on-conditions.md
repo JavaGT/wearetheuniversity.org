@@ -1,9 +1,12 @@
 ---
 slug: talks-break-down-over-attack-on-conditions
-title: "Talks Break Down Over Attack On Conditions"
-date: 2005-11-17
-source-url: https://www.scoop.co.nz/stories/ED0511/S00065/talks-break-down-over-attack-on-conditions.htm
+title: Talks Break Down Over Attack On Conditions
+date: 2005-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00065/talks-break-down-over-attack-on-conditions.htm
 author: nzei
+permalink: /archive/2005/11/17/talks-break-down-over-attack-on-conditions/index.html
+layout: layout.njk
 ---
 Talks Break Down Over Attack On Conditions
 ==========================================

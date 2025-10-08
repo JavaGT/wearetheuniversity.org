@@ -1,9 +1,13 @@
 ---
 slug: students-first-for-funding-not-failed-foreign-models
-title: "Students first for funding, not failed foreign models"
-date: 2015-10-02
-source-url: https://www.scoop.co.nz/stories/PA1510/S00033/students-first-for-funding-not-failed-foreign-models.htm
+title: Students first for funding, not failed foreign models
+date: 2015-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00033/students-first-for-funding-not-failed-foreign-models.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/10/02/students-first-for-funding-not-failed-foreign-models/index.html
+layout: layout.njk
 ---
 Students first for funding, not failed foreign models
 =====================================================

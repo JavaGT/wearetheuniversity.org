@@ -1,9 +1,13 @@
 ---
 slug: michael-cullen-speech-to-auckland-chinese-meeting
-title: "Michael Cullen Speech To Auckland Chinese Meeting"
-date: 2002-07-15
-source-url: https://www.scoop.co.nz/stories/PA0207/S00385/michael-cullen-speech-to-auckland-chinese-meeting.htm
+title: Michael Cullen Speech To Auckland Chinese Meeting
+date: 2002-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00385/michael-cullen-speech-to-auckland-chinese-meeting.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2002/07/15/michael-cullen-speech-to-auckland-chinese-meeting/index.html
+layout: layout.njk
 ---
 Michael Cullen Speech To Auckland Chinese Meeting
 =================================================

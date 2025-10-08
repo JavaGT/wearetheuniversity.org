@@ -1,9 +1,12 @@
 ---
 slug: turia-māori-association-of-social-scientists
-title: "Turia: Māori Association of Social Scientists"
-date: 2008-06-11
-source-url: https://www.scoop.co.nz/stories/PA0806/S00155/turia-maori-association-of-social-scientists.htm
+title: 'Turia: Māori Association of Social Scientists'
+date: 2008-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00155/turia-maori-association-of-social-scientists.htm
 author: te-pati-maori
+permalink: /archive/2008/06/11/turia-m/index.html
+layout: layout.njk
 ---
 Turia: Māori Association of Social Scientists
 =============================================

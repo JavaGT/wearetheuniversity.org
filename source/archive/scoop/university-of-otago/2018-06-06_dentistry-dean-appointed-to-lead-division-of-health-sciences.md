@@ -1,9 +1,13 @@
 ---
 slug: dentistry-dean-appointed-to-lead-division-of-health-sciences
-title: "Dentistry Dean appointed to lead Division of Health Sciences"
-date: 2018-06-06
-source-url: https://www.scoop.co.nz/stories/ED1806/S00018/dentistry-dean-appointed-to-lead-division-of-health-sciences.htm
+title: Dentistry Dean appointed to lead Division of Health Sciences
+date: 2018-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00018/dentistry-dean-appointed-to-lead-division-of-health-sciences.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/06/dentistry-dean-appointed-to-lead-division-of-health-sciences/index.html
+layout: layout.njk
 ---
 Dentistry Dean appointed to lead Division of Health Sciences
 ============================================================

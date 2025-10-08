@@ -1,9 +1,13 @@
 ---
 slug: uc-bridge-building-pivotal-for-students-and-for-engineering
-title: "UC bridge building pivotal for students and for engineering"
-date: 2013-10-07
-source-url: https://www.scoop.co.nz/stories/ED1310/S00050/uc-bridge-building-pivotal-for-students-and-for-engineering.htm
+title: UC bridge building pivotal for students and for engineering
+date: 2013-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00050/uc-bridge-building-pivotal-for-students-and-for-engineering.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/07/uc-bridge-building-pivotal-for-students-and-for-engineering/index.html
+layout: layout.njk
 ---
 UC bridge building pivotal for students and for engineering
 ===========================================================

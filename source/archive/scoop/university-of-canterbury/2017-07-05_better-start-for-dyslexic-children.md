@@ -1,9 +1,12 @@
 ---
 slug: better-start-for-dyslexic-children
-title: "Better Start for dyslexic children"
-date: 2017-07-05
-source-url: https://www.scoop.co.nz/stories/ED1707/S00014/better-start-for-dyslexic-children.htm
+title: Better Start for dyslexic children
+date: 2017-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00014/better-start-for-dyslexic-children.htm
 author: university-of-canterbury
+permalink: /archive/2017/07/05/better-start-for-dyslexic-children/index.html
+layout: layout.njk
 ---
 Better Start for dyslexic children
 ==================================

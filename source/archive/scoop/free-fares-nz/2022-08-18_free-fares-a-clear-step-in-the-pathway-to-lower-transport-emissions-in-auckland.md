@@ -1,9 +1,16 @@
 ---
-slug: free-fares-a-clear-step-in-the-pathway-to-lower-transport-emissions-in-auckland
-title: "Free Fares A Clear Step In The Pathway To Lower Transport Emissions In Auckland"
-date: 2022-08-18
-source-url: https://www.scoop.co.nz/stories/PO2208/S00131/free-fares-a-clear-step-in-the-pathway-to-lower-transport-emissions-in-auckland.htm
+slug: >-
+  free-fares-a-clear-step-in-the-pathway-to-lower-transport-emissions-in-auckland
+title: >-
+  Free Fares A Clear Step In The Pathway To Lower Transport Emissions In
+  Auckland
+date: 2022-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2208/S00131/free-fares-a-clear-step-in-the-pathway-to-lower-transport-emissions-in-auckland.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2022/08/18/free-fares-a-clear-step-in-the-pathway-to-lower-transport-emissions-in-auckland/index.html
+layout: layout.njk
 ---
 Free Fares A Clear Step In The Pathway To Lower Transport Emissions In Auckland
 ===============================================================================

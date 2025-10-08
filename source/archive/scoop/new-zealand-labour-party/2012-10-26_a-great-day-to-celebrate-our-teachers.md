@@ -1,9 +1,12 @@
 ---
 slug: a-great-day-to-celebrate-our-teachers
-title: "A great day to celebrate our teachers"
-date: 2012-10-26
-source-url: https://www.scoop.co.nz/stories/PA1210/S00458/a-great-day-to-celebrate-our-teachers.htm
+title: A great day to celebrate our teachers
+date: 2012-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00458/a-great-day-to-celebrate-our-teachers.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/26/a-great-day-to-celebrate-our-teachers/index.html
+layout: layout.njk
 ---
 A great day to celebrate our teachers
 =====================================

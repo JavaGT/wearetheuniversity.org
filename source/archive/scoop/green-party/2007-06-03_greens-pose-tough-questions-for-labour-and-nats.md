@@ -1,9 +1,12 @@
 ---
 slug: greens-pose-tough-questions-for-labour-and-nats
-title: "Greens pose tough questions for Labour and Nats"
-date: 2007-06-03
-source-url: https://www.scoop.co.nz/stories/PA0706/S00034/greens-pose-tough-questions-for-labour-and-nats.htm
+title: Greens pose tough questions for Labour and Nats
+date: 2007-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00034/greens-pose-tough-questions-for-labour-and-nats.htm
 author: green-party
+permalink: /archive/2007/06/03/greens-pose-tough-questions-for-labour-and-nats/index.html
+layout: layout.njk
 ---
 Greens pose tough questions for Labour and Nats
 ===============================================

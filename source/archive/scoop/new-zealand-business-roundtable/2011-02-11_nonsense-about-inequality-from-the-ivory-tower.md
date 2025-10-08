@@ -1,9 +1,12 @@
 ---
 slug: nonsense-about-inequality-from-the-ivory-tower
-title: "Nonsense About Inequality From The Ivory Tower"
-date: 2011-02-11
-source-url: https://www.scoop.co.nz/stories/BU1102/S00252/nonsense-about-inequality-from-the-ivory-tower.htm
+title: Nonsense About Inequality From The Ivory Tower
+date: 2011-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1102/S00252/nonsense-about-inequality-from-the-ivory-tower.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/02/11/nonsense-about-inequality-from-the-ivory-tower/index.html
+layout: layout.njk
 ---
 Nonsense About Inequality From The Ivory Tower
 ==============================================

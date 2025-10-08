@@ -1,9 +1,13 @@
 ---
 slug: whanau-ora-efforts-touch-thousands-in-ikaroa-rawhiti
-title: "Whanau ora efforts touch thousands in Ikaroa Rawhiti"
-date: 2013-06-12
-source-url: https://www.scoop.co.nz/stories/PO1306/S00126/whanau-ora-efforts-touch-thousands-in-ikaroa-rawhiti.htm
+title: Whanau ora efforts touch thousands in Ikaroa Rawhiti
+date: 2013-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1306/S00126/whanau-ora-efforts-touch-thousands-in-ikaroa-rawhiti.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/06/12/whanau-ora-efforts-touch-thousands-in-ikaroa-rawhiti/index.html
+layout: layout.njk
 ---
 Whanau ora efforts touch thousands in Ikaroa Rawhiti
 ====================================================

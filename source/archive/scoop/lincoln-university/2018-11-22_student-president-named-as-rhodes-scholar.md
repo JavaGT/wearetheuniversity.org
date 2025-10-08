@@ -1,9 +1,12 @@
 ---
 slug: student-president-named-as-rhodes-scholar
-title: "Student president named as Rhodes Scholar"
-date: 2018-11-22
-source-url: https://www.scoop.co.nz/stories/ED1811/S00062/student-president-named-as-rhodes-scholar.htm
+title: Student president named as Rhodes Scholar
+date: 2018-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1811/S00062/student-president-named-as-rhodes-scholar.htm
 author: lincoln-university
+permalink: /archive/2018/11/22/student-president-named-as-rhodes-scholar/index.html
+layout: layout.njk
 ---
 Student president named as Rhodes Scholar
 =========================================

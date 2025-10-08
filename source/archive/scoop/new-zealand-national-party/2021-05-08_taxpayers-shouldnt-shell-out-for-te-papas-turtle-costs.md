@@ -1,9 +1,13 @@
 ---
 slug: taxpayers-shouldnt-shell-out-for-te-papas-turtle-costs
-title: "Taxpayers Shouldn’t Shell Out For Te Papa’s Turtle Costs"
-date: 2021-05-08
-source-url: https://www.scoop.co.nz/stories/PA2105/S00069/taxpayers-shouldnt-shell-out-for-te-papas-turtle-costs.htm
+title: Taxpayers Shouldn’t Shell Out For Te Papa’s Turtle Costs
+date: 2021-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00069/taxpayers-shouldnt-shell-out-for-te-papas-turtle-costs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/05/08/taxpayers-shouldnt-shell-out-for-te-papas-turtle-costs/index.html
+layout: layout.njk
 ---
 Taxpayers Shouldn’t Shell Out For Te Papa’s Turtle Costs
 ========================================================

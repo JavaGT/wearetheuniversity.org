@@ -1,9 +1,13 @@
 ---
 slug: aut-first-new-zealand-university-to-partner-with-anzbc
-title: "AUT first New Zealand university to partner with ANZBC"
-date: 2013-12-03
-source-url: https://www.scoop.co.nz/stories/ED1312/S00010/aut-first-new-zealand-university-to-partner-with-anzbc.htm
+title: AUT first New Zealand university to partner with ANZBC
+date: 2013-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00010/aut-first-new-zealand-university-to-partner-with-anzbc.htm
 author: aut-university
+permalink: >-
+  /archive/2013/12/03/aut-first-new-zealand-university-to-partner-with-anzbc/index.html
+layout: layout.njk
 ---
 AUT first New Zealand university to partner with ANZBC
 ======================================================

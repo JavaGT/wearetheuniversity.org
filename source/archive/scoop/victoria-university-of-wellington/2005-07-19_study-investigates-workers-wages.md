@@ -1,9 +1,12 @@
 ---
 slug: study-investigates-workers-wages
-title: "Study investigates workers’ wages"
-date: 2005-07-19
-source-url: https://www.scoop.co.nz/stories/ED0507/S00070/study-investigates-workers-wages.htm
+title: Study investigates workers’ wages
+date: 2005-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00070/study-investigates-workers-wages.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/07/19/study-investigates-workers-wages/index.html
+layout: layout.njk
 ---
 Study investigates workers’ wages
 =================================

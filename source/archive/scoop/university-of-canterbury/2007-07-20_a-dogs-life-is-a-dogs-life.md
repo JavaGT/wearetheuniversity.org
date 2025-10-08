@@ -1,9 +1,11 @@
 ---
 slug: a-dogs-life-is-a-dogs-life
-title: "A dog’s life is a dog’s life"
-date: 2007-07-20
+title: A dog’s life is a dog’s life
+date: 2007-07-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0707/S00045/a-dogs-life-is-a-dogs-life.htm
 author: university-of-canterbury
+permalink: /archive/2007/07/20/a-dogs-life-is-a-dogs-life/index.html
+layout: layout.njk
 ---
 A dog’s life is a dog’s life
 ============================

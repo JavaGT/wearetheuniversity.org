@@ -1,9 +1,12 @@
 ---
 slug: nz-and-malaysian-vcs-discuss-collaboration
-title: "NZ and Malaysian VCs discuss collaboration"
-date: 2006-07-12
-source-url: https://www.scoop.co.nz/stories/ED0607/S00032/nz-and-malaysian-vcs-discuss-collaboration.htm
+title: NZ and Malaysian VCs discuss collaboration
+date: 2006-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00032/nz-and-malaysian-vcs-discuss-collaboration.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/07/12/nz-and-malaysian-vcs-discuss-collaboration/index.html
+layout: layout.njk
 ---
 NZ and Malaysian VCs discuss collaboration
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: taonga-of-maori-poetry-music-and-culture-restored
-title: "Taonga of Maori Poetry, Music and Culture Restored"
-date: 2004-07-09
-source-url: https://www.scoop.co.nz/stories/ED0407/S00035/taonga-of-maori-poetry-music-and-culture-restored.htm
+title: Taonga of Maori Poetry, Music and Culture Restored
+date: 2004-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00035/taonga-of-maori-poetry-music-and-culture-restored.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/07/09/taonga-of-maori-poetry-music-and-culture-restored/index.html
+layout: layout.njk
 ---
 Taonga of Maori Poetry, Music and Culture Restored
 ==================================================

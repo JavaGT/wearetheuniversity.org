@@ -1,9 +1,13 @@
 ---
 slug: two-uc-researchers-awarded-rutherford-foundation-fellowships
-title: "Two UC researchers awarded Rutherford Foundation Fellowships"
-date: 2019-11-14
-source-url: https://www.scoop.co.nz/stories/SC1911/S00037/two-uc-researchers-awarded-rutherford-foundation-fellowships.htm
+title: Two UC researchers awarded Rutherford Foundation Fellowships
+date: 2019-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1911/S00037/two-uc-researchers-awarded-rutherford-foundation-fellowships.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/11/14/two-uc-researchers-awarded-rutherford-foundation-fellowships/index.html
+layout: layout.njk
 ---
 Two UC researchers awarded Rutherford Foundation Fellowships
 ============================================================

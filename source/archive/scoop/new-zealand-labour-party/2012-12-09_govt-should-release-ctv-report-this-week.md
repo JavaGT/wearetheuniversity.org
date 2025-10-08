@@ -1,9 +1,12 @@
 ---
 slug: govt-should-release-ctv-report-this-week
-title: "Govt should release CTV report this week"
-date: 2012-12-09
-source-url: https://www.scoop.co.nz/stories/PA1212/S00145/govt-should-release-ctv-report-this-week.htm
+title: Govt should release CTV report this week
+date: 2012-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00145/govt-should-release-ctv-report-this-week.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/09/govt-should-release-ctv-report-this-week/index.html
+layout: layout.njk
 ---
 Govt should release CTV report this week
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: massey-survey-shows-amazon-effect-spooks-local-retailers
-title: "Massey Survey Shows 'Amazon Effect' Spooks Local Retailers"
-date: 2017-10-06
-source-url: https://www.scoop.co.nz/stories/BU1710/S00197/massey-survey-shows-amazon-effect-spooks-local-retailers.htm
+title: Massey Survey Shows 'Amazon Effect' Spooks Local Retailers
+date: 2017-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1710/S00197/massey-survey-shows-amazon-effect-spooks-local-retailers.htm
 author: massey-university
+permalink: >-
+  /archive/2017/10/06/massey-survey-shows-amazon-effect-spooks-local-retailers/index.html
+layout: layout.njk
 ---
 Massey Survey Shows 'Amazon Effect' Spooks Local Retailers
 ==========================================================

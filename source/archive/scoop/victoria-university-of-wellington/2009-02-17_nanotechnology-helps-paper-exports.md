@@ -1,9 +1,12 @@
 ---
 slug: nanotechnology-helps-paper-exports
-title: "Nanotechnology Helps Paper Exports"
-date: 2009-02-17
-source-url: https://www.scoop.co.nz/stories/SC0902/S00038/nanotechnology-helps-paper-exports.htm
+title: Nanotechnology Helps Paper Exports
+date: 2009-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0902/S00038/nanotechnology-helps-paper-exports.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/02/17/nanotechnology-helps-paper-exports/index.html
+layout: layout.njk
 ---
 Nanotechnology Helps Paper Exports
 ==================================

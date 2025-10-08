@@ -1,9 +1,13 @@
 ---
 slug: study-into-alcohol-and-driving-produces-surprising-results
-title: "Study into alcohol and driving produces surprising results"
-date: 2013-12-03
-source-url: https://www.scoop.co.nz/stories/SC1312/S00010/study-into-alcohol-and-driving-produces-surprising-results.htm
+title: Study into alcohol and driving produces surprising results
+date: 2013-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00010/study-into-alcohol-and-driving-produces-surprising-results.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/12/03/study-into-alcohol-and-driving-produces-surprising-results/index.html
+layout: layout.njk
 ---
 Study into alcohol and driving produces surprising results
 ==========================================================

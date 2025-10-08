@@ -1,9 +1,13 @@
 ---
 slug: genesis-congratulated-for-cancelling-coal-stations
-title: "Genesis Congratulated For Cancelling Coal Stations"
-date: 2005-03-03
-source-url: https://www.scoop.co.nz/stories/PA0503/S00085/genesis-congratulated-for-cancelling-coal-stations.htm
+title: Genesis Congratulated For Cancelling Coal Stations
+date: 2005-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00085/genesis-congratulated-for-cancelling-coal-stations.htm
 author: green-party
+permalink: >-
+  /archive/2005/03/03/genesis-congratulated-for-cancelling-coal-stations/index.html
+layout: layout.njk
 ---
 Genesis Congratulated For Cancelling Coal Stations
 ==================================================

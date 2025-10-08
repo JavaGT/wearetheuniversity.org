@@ -1,9 +1,13 @@
 ---
 slug: labour-opposes-suspending-access-to-the-internet
-title: "Labour opposes suspending access to the internet"
-date: 2010-03-31
-source-url: https://www.scoop.co.nz/stories/PA1003/S00489/labour-opposes-suspending-access-to-the-internet.htm
+title: Labour opposes suspending access to the internet
+date: 2010-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00489/labour-opposes-suspending-access-to-the-internet.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/03/31/labour-opposes-suspending-access-to-the-internet/index.html
+layout: layout.njk
 ---
 Labour opposes suspending access to the internet
 ================================================

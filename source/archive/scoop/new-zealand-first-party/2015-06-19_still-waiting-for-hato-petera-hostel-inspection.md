@@ -1,9 +1,12 @@
 ---
 slug: still-waiting-for-hato-petera-hostel-inspection
-title: "Still Waiting For  Hato Petera Hostel Inspection"
-date: 2015-06-19
-source-url: https://www.scoop.co.nz/stories/PA1506/S00355/still-waiting-for-hato-petera-hostel-inspection.htm
+title: Still Waiting For  Hato Petera Hostel Inspection
+date: 2015-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00355/still-waiting-for-hato-petera-hostel-inspection.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/19/still-waiting-for-hato-petera-hostel-inspection/index.html
+layout: layout.njk
 ---
 Still Waiting For Hato Petera Hostel Inspection
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: new-council-member-part-of-rwandas-recovery
-title: "New Council member part of Rwanda’s recovery"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/WO1708/S00024/new-council-member-part-of-rwandas-recovery.htm
+title: New Council member part of Rwanda’s recovery
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1708/S00024/new-council-member-part-of-rwandas-recovery.htm
 author: lincoln-university
+permalink: /archive/2017/08/10/new-council-member-part-of-rwandas-recovery/index.html
+layout: layout.njk
 ---
 New Council member part of Rwanda’s recovery
 ============================================

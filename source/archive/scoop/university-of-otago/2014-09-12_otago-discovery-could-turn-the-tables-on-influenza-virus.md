@@ -1,9 +1,13 @@
 ---
 slug: otago-discovery-could-turn-the-tables-on-influenza-virus
-title: "Otago discovery could turn the tables on influenza virus"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/GE1409/S00066/otago-discovery-could-turn-the-tables-on-influenza-virus.htm
+title: Otago discovery could turn the tables on influenza virus
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1409/S00066/otago-discovery-could-turn-the-tables-on-influenza-virus.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/12/otago-discovery-could-turn-the-tables-on-influenza-virus/index.html
+layout: layout.njk
 ---
 Otago discovery could turn the tables on influenza virus
 ========================================================

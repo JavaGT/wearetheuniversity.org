@@ -1,9 +1,12 @@
 ---
 slug: hunt-familys-plight-tip-of-the-iceberg
-title: "Hunt family’s plight tip of the iceberg"
-date: 2013-12-10
-source-url: https://www.scoop.co.nz/stories/PA1312/S00204/hunt-familys-plight-tip-of-the-iceberg.htm
+title: Hunt family’s plight tip of the iceberg
+date: 2013-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00204/hunt-familys-plight-tip-of-the-iceberg.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/12/10/hunt-familys-plight-tip-of-the-iceberg/index.html
+layout: layout.njk
 ---
 Hunt family’s plight tip of the iceberg
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: john-ormond-running-for-act-presidency
-title: "John Ormond Running For ACT Presidency"
-date: 2001-01-30
-source-url: https://www.scoop.co.nz/stories/PA0101/S00152/john-ormond-running-for-act-presidency.htm
+title: John Ormond Running For ACT Presidency
+date: 2001-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00152/john-ormond-running-for-act-presidency.htm
 author: act-new-zealand
+permalink: /archive/2001/01/30/john-ormond-running-for-act-presidency/index.html
+layout: layout.njk
 ---
 John Ormond Running For ACT Presidency
 ======================================

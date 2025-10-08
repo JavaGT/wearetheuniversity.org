@@ -1,9 +1,12 @@
 ---
 slug: obesity-experts-back-junk-food-marketing-ban
-title: "Obesity experts back junk food marketing ban"
-date: 2008-03-14
-source-url: https://www.scoop.co.nz/stories/GE0803/S00055/obesity-experts-back-junk-food-marketing-ban.htm
+title: Obesity experts back junk food marketing ban
+date: 2008-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0803/S00055/obesity-experts-back-junk-food-marketing-ban.htm
 author: aut-university
+permalink: /archive/2008/03/14/obesity-experts-back-junk-food-marketing-ban/index.html
+layout: layout.njk
 ---
 Obesity experts back junk food marketing ban
 ============================================

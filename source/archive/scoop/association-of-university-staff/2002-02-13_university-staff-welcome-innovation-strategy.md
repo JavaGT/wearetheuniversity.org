@@ -1,9 +1,12 @@
 ---
 slug: university-staff-welcome-innovation-strategy
-title: "University Staff welcome innovation strategy"
-date: 2002-02-13
-source-url: https://www.scoop.co.nz/stories/ED0202/S00007/university-staff-welcome-innovation-strategy.htm
+title: University Staff welcome innovation strategy
+date: 2002-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00007/university-staff-welcome-innovation-strategy.htm
 author: association-of-university-staff
+permalink: /archive/2002/02/13/university-staff-welcome-innovation-strategy/index.html
+layout: layout.njk
 ---
 University Staff welcome innovation strategy
 ============================================

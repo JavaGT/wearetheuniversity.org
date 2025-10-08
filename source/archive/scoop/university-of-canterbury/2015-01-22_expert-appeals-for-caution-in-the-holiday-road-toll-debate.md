@@ -1,9 +1,13 @@
 ---
 slug: expert-appeals-for-caution-in-the-holiday-road-toll-debate
-title: "Expert appeals for caution in the holiday road toll debate"
-date: 2015-01-22
-source-url: https://www.scoop.co.nz/stories/PO1501/S00061/expert-appeals-for-caution-in-the-holiday-road-toll-debate.htm
+title: Expert appeals for caution in the holiday road toll debate
+date: 2015-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1501/S00061/expert-appeals-for-caution-in-the-holiday-road-toll-debate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/22/expert-appeals-for-caution-in-the-holiday-road-toll-debate/index.html
+layout: layout.njk
 ---
 Expert appeals for caution in the holiday road toll debate
 ==========================================================

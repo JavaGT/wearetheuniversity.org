@@ -1,9 +1,12 @@
 ---
 slug: early-childhood-report-is-utter-rubbish
-title: "Early Childhood Report Is Utter Rubbish"
-date: 2001-11-02
-source-url: https://www.scoop.co.nz/stories/PA0111/S00031/early-childhood-report-is-utter-rubbish.htm
+title: Early Childhood Report Is Utter Rubbish
+date: 2001-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00031/early-childhood-report-is-utter-rubbish.htm
 author: act-new-zealand
+permalink: /archive/2001/11/02/early-childhood-report-is-utter-rubbish/index.html
+layout: layout.njk
 ---
 Early Childhood Report Is Utter Rubbish
 =======================================

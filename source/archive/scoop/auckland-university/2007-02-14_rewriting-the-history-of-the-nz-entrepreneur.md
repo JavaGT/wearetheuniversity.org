@@ -1,9 +1,12 @@
 ---
 slug: rewriting-the-history-of-the-nz-entrepreneur
-title: "Rewriting the history of the NZ entrepreneur"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/ED0702/S00046/rewriting-the-history-of-the-nz-entrepreneur.htm
+title: Rewriting the history of the NZ entrepreneur
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00046/rewriting-the-history-of-the-nz-entrepreneur.htm
 author: auckland-university
+permalink: /archive/2007/02/14/rewriting-the-history-of-the-nz-entrepreneur/index.html
+layout: layout.njk
 ---
 Rewriting the history of the NZ entrepreneur
 ============================================

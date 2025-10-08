@@ -1,9 +1,12 @@
 ---
 slug: where-are-the-100000-families
-title: "Where Are The 100,000 Families?"
-date: 2024-10-10
-source-url: https://www.scoop.co.nz/stories/PA2410/S00077/where-are-the-100000-families.htm
+title: Where Are The 100,000 Families?
+date: 2024-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00077/where-are-the-100000-families.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/10/10/where-are-the-100000-families/index.html
+layout: layout.njk
 ---
 Where Are The 100,000 Families?
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: massey-university-q&a-on-the-north-korea-crisis
-title: "Massey University - Q&A on the North Korea crisis"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/PO1708/S00220/massey-university-qa-on-the-north-korea-crisis.htm
+title: Massey University - Q&A on the North Korea crisis
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00220/massey-university-qa-on-the-north-korea-crisis.htm
 author: massey-university
+permalink: /archive/2017/08/10/massey-university-q/index.html
+layout: layout.njk
 ---
 Massey University - Q&A on the North Korea crisis
 =================================================

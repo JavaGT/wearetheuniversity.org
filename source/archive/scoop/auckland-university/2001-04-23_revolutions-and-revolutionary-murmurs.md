@@ -1,9 +1,12 @@
 ---
 slug: revolutions-and-revolutionary-murmurs
-title: "Revolutions and Revolutionary Murmurs"
-date: 2001-04-23
-source-url: https://www.scoop.co.nz/stories/WO0104/S00052/revolutions-and-revolutionary-murmurs.htm
+title: Revolutions and Revolutionary Murmurs
+date: 2001-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0104/S00052/revolutions-and-revolutionary-murmurs.htm
 author: auckland-university
+permalink: /archive/2001/04/23/revolutions-and-revolutionary-murmurs/index.html
+layout: layout.njk
 ---
 Revolutions and Revolutionary Murmurs
 =====================================

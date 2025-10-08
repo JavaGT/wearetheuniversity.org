@@ -1,9 +1,12 @@
 ---
 slug: treaty-is-already-deleted-from-education
-title: "Treaty is Already Deleted from Education"
-date: 2006-08-01
-source-url: https://www.scoop.co.nz/stories/PA0608/S00008/treaty-is-already-deleted-from-education.htm
+title: Treaty is Already Deleted from Education
+date: 2006-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00008/treaty-is-already-deleted-from-education.htm
 author: te-pati-maori
+permalink: /archive/2006/08/01/treaty-is-already-deleted-from-education/index.html
+layout: layout.njk
 ---
 Treaty is Already Deleted from Education
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: chinas-first-lady-hosts-massey-weta-arts-delegation
-title: "China’s First Lady hosts Massey, Weta arts delegation"
-date: 2015-06-11
-source-url: https://www.scoop.co.nz/stories/BU1506/S00421/chinas-first-lady-hosts-massey-weta-arts-delegation.htm
+title: China’s First Lady hosts Massey, Weta arts delegation
+date: 2015-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1506/S00421/chinas-first-lady-hosts-massey-weta-arts-delegation.htm
 author: massey-university
+permalink: >-
+  /archive/2015/06/11/chinas-first-lady-hosts-massey-weta-arts-delegation/index.html
+layout: layout.njk
 ---
 China’s First Lady hosts Massey, Weta arts delegation
 =====================================================

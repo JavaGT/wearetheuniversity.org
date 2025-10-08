@@ -1,9 +1,12 @@
 ---
 slug: nationals-welfare-policy-is-cruel
-title: "National's Welfare Policy Is Cruel"
-date: 2023-09-26
-source-url: https://www.scoop.co.nz/stories/PA2309/S00142/nationals-welfare-policy-is-cruel.htm
+title: National's Welfare Policy Is Cruel
+date: 2023-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00142/nationals-welfare-policy-is-cruel.htm
 author: green-party
+permalink: /archive/2023/09/26/nationals-welfare-policy-is-cruel/index.html
+layout: layout.njk
 ---
 National's Welfare Policy Is Cruel
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: 36000-new-brain-injuries-each-year-epidemic-proportions
 title: \\"36,000 new brain injuries each year, \"epidemic proportions\""
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/GE1211/S00094/36000-new-brain-injuries-each-year-epidemic-proportions.htm
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1211/S00094/36000-new-brain-injuries-each-year-epidemic-proportions.htm
 author: aut-university
+permalink: >-
+  /archive/2012/11/22/36000-new-brain-injuries-each-year-epidemic-proportions/index.html
+layout: layout.njk
 ---
 36,000 new brain injuries each year, “epidemic proportions"
 ===========================================================

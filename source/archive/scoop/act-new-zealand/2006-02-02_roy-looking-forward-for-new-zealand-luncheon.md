@@ -1,9 +1,12 @@
 ---
 slug: roy-looking-forward-for-new-zealand-luncheon
-title: "Roy: Looking Forward for New Zealand Luncheon"
-date: 2006-02-02
-source-url: https://www.scoop.co.nz/stories/PA0602/S00024/roy-looking-forward-for-new-zealand-luncheon.htm
+title: 'Roy: Looking Forward for New Zealand Luncheon'
+date: 2006-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00024/roy-looking-forward-for-new-zealand-luncheon.htm
 author: act-new-zealand
+permalink: /archive/2006/02/02/roy-looking-forward-for-new-zealand-luncheon/index.html
+layout: layout.njk
 ---
 Roy: Looking Forward for New Zealand Luncheon
 =============================================

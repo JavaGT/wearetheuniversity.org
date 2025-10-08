@@ -1,9 +1,12 @@
 ---
 slug: aut-boosts-ai-expertise-with-new-ailab
-title: "AUT boosts AI expertise with new AiLab"
-date: 2020-01-28
-source-url: https://www.scoop.co.nz/stories/ED2001/S00016/aut-boosts-ai-expertise-with-new-ailab.htm
+title: AUT boosts AI expertise with new AiLab
+date: 2020-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2001/S00016/aut-boosts-ai-expertise-with-new-ailab.htm
 author: aut-university
+permalink: /archive/2020/01/28/aut-boosts-ai-expertise-with-new-ailab/index.html
+layout: layout.njk
 ---
 AUT boosts AI expertise with new AiLab
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: selling-down-assets-the-ministerial-approach
-title: "Selling Down Assets the ‘Ministerial Approach’"
-date: 2012-05-20
-source-url: https://www.scoop.co.nz/stories/PA1205/S00328/selling-down-assets-the-ministerial-approach.htm
+title: Selling Down Assets the ‘Ministerial Approach’
+date: 2012-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00328/selling-down-assets-the-ministerial-approach.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/20/selling-down-assets-the-ministerial-approach/index.html
+layout: layout.njk
 ---
 Selling Down Assets the ‘Ministerial Approach’
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-student-loan-policy-a-winner
-title: "Labour’s Student Loan Policy A Winner"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/ED0507/S00106/labours-student-loan-policy-a-winner.htm
+title: Labour’s Student Loan Policy A Winner
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00106/labours-student-loan-policy-a-winner.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2005/07/26/labours-student-loan-policy-a-winner/index.html
+layout: layout.njk
 ---
 Labour’s Student Loan Policy A Winner
 =====================================

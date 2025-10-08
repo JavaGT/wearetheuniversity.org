@@ -1,9 +1,13 @@
 ---
 slug: uc-scientists-discover-a-new-way-of-assembling-atoms
-title: "UC Scientists Discover A New Way Of Assembling Atoms"
-date: 2013-03-18
-source-url: https://www.scoop.co.nz/stories/ED1303/S00115/uc-scientists-discover-a-new-way-of-assembling-atoms.htm
+title: UC Scientists Discover A New Way Of Assembling Atoms
+date: 2013-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00115/uc-scientists-discover-a-new-way-of-assembling-atoms.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/18/uc-scientists-discover-a-new-way-of-assembling-atoms/index.html
+layout: layout.njk
 ---
 UC Scientists Discover A New Way Of Assembling Atoms
 ====================================================

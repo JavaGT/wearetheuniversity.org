@@ -1,9 +1,13 @@
 ---
 slug: take-responsibility-minister-fund-maori-language-teaching
-title: "Take Responsibility Minister: Fund Maori Language Teaching"
-date: 2015-01-30
-source-url: https://www.scoop.co.nz/stories/PA1501/S00162/take-responsibility-minister-fund-maori-language-teaching.htm
+title: 'Take Responsibility Minister: Fund Maori Language Teaching'
+date: 2015-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00162/take-responsibility-minister-fund-maori-language-teaching.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/01/30/take-responsibility-minister-fund-maori-language-teaching/index.html
+layout: layout.njk
 ---
 Take Responsibility Minister: Fund Maori Language Teaching
 ==========================================================

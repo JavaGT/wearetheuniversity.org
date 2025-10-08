@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-students-support-tax-cuts
-title: "Victoria University Students Support Tax Cuts"
-date: 2004-06-03
-source-url: https://www.scoop.co.nz/stories/PA0406/S00075/victoria-university-students-support-tax-cuts.htm
+title: Victoria University Students Support Tax Cuts
+date: 2004-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00075/victoria-university-students-support-tax-cuts.htm
 author: act-new-zealand
+permalink: /archive/2004/06/03/victoria-university-students-support-tax-cuts/index.html
+layout: layout.njk
 ---
 Victoria University Students Support Tax Cuts
 =============================================

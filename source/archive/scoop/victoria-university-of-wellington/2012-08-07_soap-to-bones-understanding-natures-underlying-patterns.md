@@ -1,9 +1,13 @@
 ---
 slug: soap-to-bones-understanding-natures-underlying-patterns
-title: "Soap to bones: understanding nature’s underlying patterns"
-date: 2012-08-07
-source-url: https://www.scoop.co.nz/stories/ED1208/S00041/soap-to-bones-understanding-natures-underlying-patterns.htm
+title: 'Soap to bones: understanding nature’s underlying patterns'
+date: 2012-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00041/soap-to-bones-understanding-natures-underlying-patterns.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/08/07/soap-to-bones-understanding-natures-underlying-patterns/index.html
+layout: layout.njk
 ---
 Soap to bones: understanding nature’s underlying patterns
 =========================================================

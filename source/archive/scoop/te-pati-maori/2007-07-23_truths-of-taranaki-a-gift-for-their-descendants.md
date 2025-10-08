@@ -1,9 +1,12 @@
 ---
 slug: truths-of-taranaki-a-gift-for-their-descendants
-title: "Truths of Taranaki a Gift for their Descendants"
-date: 2007-07-23
-source-url: https://www.scoop.co.nz/stories/PA0707/S00364/truths-of-taranaki-a-gift-for-their-descendants.htm
+title: Truths of Taranaki a Gift for their Descendants
+date: 2007-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00364/truths-of-taranaki-a-gift-for-their-descendants.htm
 author: te-pati-maori
+permalink: /archive/2007/07/23/truths-of-taranaki-a-gift-for-their-descendants/index.html
+layout: layout.njk
 ---
 Truths of Taranaki a Gift for their Descendants
 ===============================================

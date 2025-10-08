@@ -1,9 +1,12 @@
 ---
 slug: exploring-off-the-earth-for-the-earth
-title: "Exploring off the earth, for the earth"
-date: 2016-08-05
-source-url: https://www.scoop.co.nz/stories/SC1608/S00023/exploring-off-the-earth-for-the-earth.htm
+title: Exploring off the earth, for the earth
+date: 2016-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1608/S00023/exploring-off-the-earth-for-the-earth.htm
 author: university-of-canterbury
+permalink: /archive/2016/08/05/exploring-off-the-earth-for-the-earth/index.html
+layout: layout.njk
 ---
 Exploring off the earth, for the earth
 ======================================

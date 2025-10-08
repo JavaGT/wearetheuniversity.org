@@ -1,9 +1,11 @@
 ---
 slug: turangi-teacher-honoured
-title: "Turangi Teacher Honoured"
-date: 2003-09-22
+title: Turangi Teacher Honoured
+date: 2003-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00088/turangi-teacher-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/turangi-teacher-honoured/index.html
+layout: layout.njk
 ---
 Turangi Teacher Honoured
 ========================

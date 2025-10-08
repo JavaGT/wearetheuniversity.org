@@ -1,9 +1,12 @@
 ---
 slug: papua-new-guinea-students-skill-up-in-banking
-title: "Papua New Guinea students skill up in banking"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/ED0705/S00059/papua-new-guinea-students-skill-up-in-banking.htm
+title: Papua New Guinea students skill up in banking
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00059/papua-new-guinea-students-skill-up-in-banking.htm
 author: massey-university
+permalink: /archive/2007/05/14/papua-new-guinea-students-skill-up-in-banking/index.html
+layout: layout.njk
 ---
 Papua New Guinea students skill up in banking
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: trade-union-membership-continues-to-rise
-title: "Trade union membership continues to rise"
-date: 2003-05-22
-source-url: https://www.scoop.co.nz/stories/ED0305/S00078/trade-union-membership-continues-to-rise.htm
+title: Trade union membership continues to rise
+date: 2003-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00078/trade-union-membership-continues-to-rise.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/05/22/trade-union-membership-continues-to-rise/index.html
+layout: layout.njk
 ---
 Trade union membership continues to rise
 ========================================

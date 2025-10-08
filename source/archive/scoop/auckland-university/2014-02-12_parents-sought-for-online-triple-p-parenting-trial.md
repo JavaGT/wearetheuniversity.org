@@ -1,9 +1,13 @@
 ---
 slug: parents-sought-for-online-triple-p-parenting-trial
-title: "Parents sought for online Triple P Parenting trial"
-date: 2014-02-12
-source-url: https://www.scoop.co.nz/stories/ED1402/S00042/parents-sought-for-online-triple-p-parenting-trial.htm
+title: Parents sought for online Triple P Parenting trial
+date: 2014-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00042/parents-sought-for-online-triple-p-parenting-trial.htm
 author: auckland-university
+permalink: >-
+  /archive/2014/02/12/parents-sought-for-online-triple-p-parenting-trial/index.html
+layout: layout.njk
 ---
 Parents sought for online Triple P Parenting trial
 ==================================================

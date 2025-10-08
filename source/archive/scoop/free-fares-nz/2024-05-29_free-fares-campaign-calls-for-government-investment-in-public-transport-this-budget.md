@@ -1,9 +1,16 @@
 ---
-slug: free-fares-campaign-calls-for-government-investment-in-public-transport-this-budget
-title: "Free Fares Campaign Calls For Government Investment In Public Transport This Budget"
-date: 2024-05-29
-source-url: https://www.scoop.co.nz/stories/PO2405/S00141/free-fares-campaign-calls-for-government-investment-in-public-transport-this-budget.htm
+slug: >-
+  free-fares-campaign-calls-for-government-investment-in-public-transport-this-budget
+title: >-
+  Free Fares Campaign Calls For Government Investment In Public Transport This
+  Budget
+date: 2024-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2405/S00141/free-fares-campaign-calls-for-government-investment-in-public-transport-this-budget.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2024/05/29/free-fares-campaign-calls-for-government-investment-in-public-transport-this-budget/index.html
+layout: layout.njk
 ---
 Free Fares Campaign Calls For Government Investment In Public Transport This Budget
 ===================================================================================

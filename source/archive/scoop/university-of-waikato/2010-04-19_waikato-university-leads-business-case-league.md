@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-leads-business-case-league
-title: "Waikato University Leads Business Case League"
-date: 2010-04-19
-source-url: https://www.scoop.co.nz/stories/ED1004/S00045/waikato-university-leads-business-case-league.htm
+title: Waikato University Leads Business Case League
+date: 2010-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00045/waikato-university-leads-business-case-league.htm
 author: university-of-waikato
+permalink: /archive/2010/04/19/waikato-university-leads-business-case-league/index.html
+layout: layout.njk
 ---
 Waikato University Leads Business Case League
 =============================================

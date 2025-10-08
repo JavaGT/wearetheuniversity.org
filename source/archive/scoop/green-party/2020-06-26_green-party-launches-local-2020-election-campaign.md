@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-local-2020-election-campaign
-title: "Green Party Launches Local 2020 Election Campaign"
-date: 2020-06-26
-source-url: https://www.scoop.co.nz/stories/PO2006/S00285/green-party-launches-local-2020-election-campaign.htm
+title: Green Party Launches Local 2020 Election Campaign
+date: 2020-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2006/S00285/green-party-launches-local-2020-election-campaign.htm
 author: green-party
+permalink: >-
+  /archive/2020/06/26/green-party-launches-local-2020-election-campaign/index.html
+layout: layout.njk
 ---
 Green Party Launches Local 2020 Election Campaign
 =================================================

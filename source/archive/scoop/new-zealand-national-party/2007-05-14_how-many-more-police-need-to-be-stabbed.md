@@ -1,9 +1,12 @@
 ---
 slug: how-many-more-police-need-to-be-stabbed
-title: "How many more police need to be stabbed?"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/PA0705/S00331/how-many-more-police-need-to-be-stabbed.htm
+title: How many more police need to be stabbed?
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00331/how-many-more-police-need-to-be-stabbed.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/14/how-many-more-police-need-to-be-stabbed/index.html
+layout: layout.njk
 ---
 How many more police need to be stabbed?
 ========================================

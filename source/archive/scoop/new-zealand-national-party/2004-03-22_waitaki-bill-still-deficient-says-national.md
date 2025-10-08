@@ -1,9 +1,12 @@
 ---
 slug: waitaki-bill-still-deficient-says-national
-title: "Waitaki Bill still deficient says National"
-date: 2004-03-22
-source-url: https://www.scoop.co.nz/stories/PA0403/S00471/waitaki-bill-still-deficient-says-national.htm
+title: Waitaki Bill still deficient says National
+date: 2004-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00471/waitaki-bill-still-deficient-says-national.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/22/waitaki-bill-still-deficient-says-national/index.html
+layout: layout.njk
 ---
 Waitaki Bill still deficient says National
 ==========================================

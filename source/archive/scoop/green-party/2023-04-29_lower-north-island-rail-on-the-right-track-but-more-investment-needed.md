@@ -1,9 +1,13 @@
 ---
 slug: lower-north-island-rail-on-the-right-track-but-more-investment-needed
-title: "Lower North Island Rail On The Right Track, But More Investment Needed"
-date: 2023-04-29
-source-url: https://www.scoop.co.nz/stories/PO2304/S00173/lower-north-island-rail-on-the-right-track-but-more-investment-needed.htm
+title: Lower North Island Rail On The Right Track, But More Investment Needed
+date: 2023-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2304/S00173/lower-north-island-rail-on-the-right-track-but-more-investment-needed.htm
 author: green-party
+permalink: >-
+  /archive/2023/04/29/lower-north-island-rail-on-the-right-track-but-more-investment-needed/index.html
+layout: layout.njk
 ---
 Lower North Island Rail On The Right Track, But More Investment Needed
 ======================================================================

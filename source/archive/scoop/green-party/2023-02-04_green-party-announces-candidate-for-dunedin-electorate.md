@@ -1,9 +1,13 @@
 ---
 slug: green-party-announces-candidate-for-dunedin-electorate
-title: "Green Party Announces Candidate For Dunedin Electorate"
-date: 2023-02-04
-source-url: https://www.scoop.co.nz/stories/PO2302/S00032/green-party-announces-candidate-for-dunedin-electorate.htm
+title: Green Party Announces Candidate For Dunedin Electorate
+date: 2023-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00032/green-party-announces-candidate-for-dunedin-electorate.htm
 author: green-party
+permalink: >-
+  /archive/2023/02/04/green-party-announces-candidate-for-dunedin-electorate/index.html
+layout: layout.njk
 ---
 Green Party Announces Candidate For Dunedin Electorate
 ======================================================

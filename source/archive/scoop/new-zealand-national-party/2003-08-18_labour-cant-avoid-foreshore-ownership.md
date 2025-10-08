@@ -1,9 +1,12 @@
 ---
 slug: labour-cant-avoid-foreshore-ownership
-title: "Labour can't avoid foreshore 'ownership'"
-date: 2003-08-18
-source-url: https://www.scoop.co.nz/stories/PA0308/S00340/labour-cant-avoid-foreshore-ownership.htm
+title: Labour can't avoid foreshore 'ownership'
+date: 2003-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00340/labour-cant-avoid-foreshore-ownership.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/18/labour-cant-avoid-foreshore-ownership/index.html
+layout: layout.njk
 ---
 Labour can't avoid foreshore 'ownership'
 ========================================

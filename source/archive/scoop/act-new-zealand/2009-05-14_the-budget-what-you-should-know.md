@@ -1,9 +1,12 @@
 ---
 slug: the-budget-what-you-should-know
-title: "The Budget – What You Should Know"
-date: 2009-05-14
-source-url: https://www.scoop.co.nz/stories/PA0905/S00273/the-budget-what-you-should-know.htm
+title: The Budget – What You Should Know
+date: 2009-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00273/the-budget-what-you-should-know.htm
 author: act-new-zealand
+permalink: /archive/2009/05/14/the-budget-what-you-should-know/index.html
+layout: layout.njk
 ---
 The Budget – What You Should Know
 =================================

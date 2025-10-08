@@ -1,9 +1,12 @@
 ---
 slug: give-students-their-campus-back-petition
-title: "Give Students Their Campus Back Petition"
-date: 2022-02-17
-source-url: https://www.scoop.co.nz/stories/ED2202/S00024/give-students-their-campus-back-petition.htm
+title: Give Students Their Campus Back Petition
+date: 2022-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2202/S00024/give-students-their-campus-back-petition.htm
 author: vuwsa
+permalink: /archive/2022/02/17/give-students-their-campus-back-petition/index.html
+layout: layout.njk
 ---
 Give Students Their Campus Back Petition
 ========================================

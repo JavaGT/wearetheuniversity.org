@@ -1,9 +1,13 @@
 ---
 slug: biscuit-exhibit-offers-commentary-on-casualties-of-war
-title: "Biscuit exhibit offers commentary on casualties of war"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/CU1404/S00238/biscuit-exhibit-offers-commentary-on-casualties-of-war.htm
+title: Biscuit exhibit offers commentary on casualties of war
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00238/biscuit-exhibit-offers-commentary-on-casualties-of-war.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/15/biscuit-exhibit-offers-commentary-on-casualties-of-war/index.html
+layout: layout.njk
 ---
 Biscuit exhibit offers commentary on casualties of war
 ======================================================

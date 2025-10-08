@@ -1,9 +1,12 @@
 ---
 slug: zaoui-case-scandalous-says-peters
-title: "Zaoui Case Scandalous Says Peters"
-date: 2004-03-31
-source-url: https://www.scoop.co.nz/stories/PA0403/S00717/zaoui-case-scandalous-says-peters.htm
+title: Zaoui Case Scandalous Says Peters
+date: 2004-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00717/zaoui-case-scandalous-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2004/03/31/zaoui-case-scandalous-says-peters/index.html
+layout: layout.njk
 ---
 Zaoui Case Scandalous Says Peters
 =================================

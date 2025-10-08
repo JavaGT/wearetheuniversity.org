@@ -1,9 +1,13 @@
 ---
 slug: world-expert-on-bird-flu-at-major-otago-conference
-title: "World Expert on Bird Flu at Major Otago Conference"
-date: 2005-11-22
-source-url: https://www.scoop.co.nz/stories/ED0511/S00075/world-expert-on-bird-flu-at-major-otago-conference.htm
+title: World Expert on Bird Flu at Major Otago Conference
+date: 2005-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00075/world-expert-on-bird-flu-at-major-otago-conference.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/11/22/world-expert-on-bird-flu-at-major-otago-conference/index.html
+layout: layout.njk
 ---
 World Expert on Bird Flu at Major Otago Conference
 ==================================================

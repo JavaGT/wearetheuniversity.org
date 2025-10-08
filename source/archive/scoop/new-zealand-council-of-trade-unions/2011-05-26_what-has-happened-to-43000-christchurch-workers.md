@@ -1,9 +1,12 @@
 ---
 slug: what-has-happened-to-43000-christchurch-workers
-title: "What has happened to 43,000 Christchurch workers?"
-date: 2011-05-26
-source-url: https://www.scoop.co.nz/stories/PO1105/S00431/what-has-happened-to-43000-christchurch-workers.htm
+title: What has happened to 43,000 Christchurch workers?
+date: 2011-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00431/what-has-happened-to-43000-christchurch-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/05/26/what-has-happened-to-43000-christchurch-workers/index.html
+layout: layout.njk
 ---
 What has happened to 43,000 Christchurch workers?
 =================================================

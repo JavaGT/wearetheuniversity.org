@@ -1,9 +1,12 @@
 ---
 slug: seniors-gather-data-on-age-friendly-communities
-title: "Seniors gather data on age-friendly communities"
-date: 2018-10-29
-source-url: https://www.scoop.co.nz/stories/CU1810/S00357/seniors-gather-data-on-age-friendly-communities.htm
+title: Seniors gather data on age-friendly communities
+date: 2018-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1810/S00357/seniors-gather-data-on-age-friendly-communities.htm
 author: massey-university
+permalink: /archive/2018/10/29/seniors-gather-data-on-age-friendly-communities/index.html
+layout: layout.njk
 ---
 Seniors gather data on age-friendly communities
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: nzei-resorts-to-desperate-measures-due-to-union-failure
-title: "NZEI resorts to desperate measures due to union failure"
-date: 2017-09-13
-source-url: https://www.scoop.co.nz/stories/PA1709/S00147/nzei-resorts-to-desperate-measures-due-to-union-failure.htm
+title: NZEI resorts to desperate measures due to union failure
+date: 2017-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00147/nzei-resorts-to-desperate-measures-due-to-union-failure.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/09/13/nzei-resorts-to-desperate-measures-due-to-union-failure/index.html
+layout: layout.njk
 ---
 NZEI resorts to desperate measures due to union failure
 =======================================================

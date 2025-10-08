@@ -1,9 +1,13 @@
 ---
 slug: national-party-to-launch-rural-nats-group-at-fieldays
-title: "National Party To Launch Rural Nats Group At Fieldays"
-date: 2024-06-11
-source-url: https://www.scoop.co.nz/stories/PA2406/S00060/national-party-to-launch-rural-nats-group-at-fieldays.htm
+title: National Party To Launch Rural Nats Group At Fieldays
+date: 2024-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2406/S00060/national-party-to-launch-rural-nats-group-at-fieldays.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2024/06/11/national-party-to-launch-rural-nats-group-at-fieldays/index.html
+layout: layout.njk
 ---
 National Party To Launch Rural Nats Group At Fieldays
 =====================================================

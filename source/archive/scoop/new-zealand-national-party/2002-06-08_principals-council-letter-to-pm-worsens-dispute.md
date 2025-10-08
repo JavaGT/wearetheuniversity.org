@@ -1,9 +1,12 @@
 ---
 slug: principals-council-letter-to-pm-worsens-dispute
-title: "Principals' Council letter to PM worsens dispute"
-date: 2002-06-08
-source-url: https://www.scoop.co.nz/stories/PA0206/S00099/principals-council-letter-to-pm-worsens-dispute.htm
+title: Principals' Council letter to PM worsens dispute
+date: 2002-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00099/principals-council-letter-to-pm-worsens-dispute.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/08/principals-council-letter-to-pm-worsens-dispute/index.html
+layout: layout.njk
 ---
 Principals' Council letter to PM worsens dispute
 ================================================

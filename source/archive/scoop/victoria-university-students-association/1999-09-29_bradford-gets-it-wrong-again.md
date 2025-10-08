@@ -1,9 +1,11 @@
 ---
 slug: bradford-gets-it-wrong-again
-title: "Bradford Gets It Wrong Again"
-date: 1999-09-29
+title: Bradford Gets It Wrong Again
+date: 1999-09-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED9909/S00058/bradford-gets-it-wrong-again.htm
 author: victoria-university-students-association
+permalink: /archive/1999/09/29/bradford-gets-it-wrong-again/index.html
+layout: layout.njk
 ---
 Bradford Gets It Wrong Again
 ============================

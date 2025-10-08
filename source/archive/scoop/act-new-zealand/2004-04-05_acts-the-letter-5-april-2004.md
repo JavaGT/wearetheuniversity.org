@@ -1,9 +1,11 @@
 ---
 slug: acts-the-letter-5-april-2004
-title: "Act's The Letter - 5 April 2004"
-date: 2004-04-05
+title: Act's The Letter - 5 April 2004
+date: 2004-04-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0404/S00089/acts-the-letter-5-april-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/04/05/acts-the-letter-5-april-2004/index.html
+layout: layout.njk
 ---
 Act's The Letter - 5 April 2004
 ===============================

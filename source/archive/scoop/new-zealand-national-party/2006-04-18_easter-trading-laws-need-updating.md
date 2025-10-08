@@ -1,9 +1,12 @@
 ---
 slug: easter-trading-laws-need-updating
-title: "Easter trading laws need updating"
-date: 2006-04-18
-source-url: https://www.scoop.co.nz/stories/PA0604/S00289/easter-trading-laws-need-updating.htm
+title: Easter trading laws need updating
+date: 2006-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00289/easter-trading-laws-need-updating.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/18/easter-trading-laws-need-updating/index.html
+layout: layout.njk
 ---
 Easter trading laws need updating
 =================================

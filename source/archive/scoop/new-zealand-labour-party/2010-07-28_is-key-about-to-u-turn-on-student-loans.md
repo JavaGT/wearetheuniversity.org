@@ -1,9 +1,12 @@
 ---
 slug: is-key-about-to-u-turn-on-student-loans
-title: "Is Key about to u-turn on student loans?"
-date: 2010-07-28
-source-url: https://www.scoop.co.nz/stories/PA1007/S00428/is-key-about-to-u-turn-on-student-loans.htm
+title: Is Key about to u-turn on student loans?
+date: 2010-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00428/is-key-about-to-u-turn-on-student-loans.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/28/is-key-about-to-u-turn-on-student-loans/index.html
+layout: layout.njk
 ---
 Is Key about to u-turn on student loans?
 ========================================

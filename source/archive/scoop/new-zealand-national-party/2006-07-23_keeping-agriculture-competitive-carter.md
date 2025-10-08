@@ -1,9 +1,12 @@
 ---
 slug: keeping-agriculture-competitive-carter
-title: "Keeping agriculture competitive: Carter"
-date: 2006-07-23
-source-url: https://www.scoop.co.nz/stories/PA0607/S00361/keeping-agriculture-competitive-carter.htm
+title: 'Keeping agriculture competitive: Carter'
+date: 2006-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00361/keeping-agriculture-competitive-carter.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/23/keeping-agriculture-competitive-carter/index.html
+layout: layout.njk
 ---
 Keeping agriculture competitive: Carter
 =======================================

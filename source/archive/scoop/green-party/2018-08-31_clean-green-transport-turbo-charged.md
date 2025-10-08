@@ -1,9 +1,12 @@
 ---
 slug: clean-green-transport-turbo-charged
-title: "Clean, green transport turbo charged"
-date: 2018-08-31
-source-url: https://www.scoop.co.nz/stories/PA1808/S00362/clean-green-transport-turbo-charged.htm
+title: Clean, green transport turbo charged
+date: 2018-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00362/clean-green-transport-turbo-charged.htm
 author: green-party
+permalink: /archive/2018/08/31/clean-green-transport-turbo-charged/index.html
+layout: layout.njk
 ---
 Clean, green transport turbo charged
 ====================================

@@ -1,9 +1,11 @@
 ---
 slug: veteran-journalist-honoured
-title: "Veteran Journalist Honoured"
-date: 2011-05-24
+title: Veteran Journalist Honoured
+date: 2011-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1105/S00097/veteran-journalist-honoured.htm
 author: massey-university
+permalink: /archive/2011/05/24/veteran-journalist-honoured/index.html
+layout: layout.njk
 ---
 Veteran Journalist Honoured
 ===========================

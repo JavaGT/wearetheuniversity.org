@@ -1,9 +1,12 @@
 ---
 slug: lab-launch-marks-new-zealand-first
-title: "Lab launch marks New Zealand first"
-date: 2013-12-02
-source-url: https://www.scoop.co.nz/stories/ED1312/S00002/lab-launch-marks-new-zealand-first.htm
+title: Lab launch marks New Zealand first
+date: 2013-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00002/lab-launch-marks-new-zealand-first.htm
 author: university-of-waikato
+permalink: /archive/2013/12/02/lab-launch-marks-new-zealand-first/index.html
+layout: layout.njk
 ---
 Lab launch marks New Zealand first
 ==================================

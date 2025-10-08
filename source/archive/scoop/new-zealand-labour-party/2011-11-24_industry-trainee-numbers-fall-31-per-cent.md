@@ -1,9 +1,12 @@
 ---
 slug: industry-trainee-numbers-fall-31-per-cent
-title: "Industry trainee numbers fall 31 per cent"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/PA1111/S00497/industry-trainee-numbers-fall-31-per-cent.htm
+title: Industry trainee numbers fall 31 per cent
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00497/industry-trainee-numbers-fall-31-per-cent.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/24/industry-trainee-numbers-fall-31-per-cent/index.html
+layout: layout.njk
 ---
 Industry trainee numbers fall 31 per cent
 =========================================

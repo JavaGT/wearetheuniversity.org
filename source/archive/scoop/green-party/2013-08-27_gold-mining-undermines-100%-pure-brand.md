@@ -1,9 +1,12 @@
 ---
 slug: gold-mining-undermines-100%-pure-brand
-title: "Gold mining undermines 100% Pure brand"
-date: 2013-08-27
-source-url: https://www.scoop.co.nz/stories/PA1308/S00421/gold-mining-undermines-100-pure-brand.htm
+title: Gold mining undermines 100% Pure brand
+date: 2013-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00421/gold-mining-undermines-100-pure-brand.htm
 author: green-party
+permalink: /archive/2013/08/27/gold-mining-undermines-100/index.html
+layout: layout.njk
 ---
 Gold mining undermines 100% Pure brand
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: fellow-from-hawaii-to-teach-te-reo-at-uc
-title: "Fellow from Hawaii to teach Te Reo at UC"
-date: 2016-07-12
-source-url: https://www.scoop.co.nz/stories/ED1607/S00047/fellow-from-hawaii-to-teach-te-reo-at-uc.htm
+title: Fellow from Hawaii to teach Te Reo at UC
+date: 2016-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00047/fellow-from-hawaii-to-teach-te-reo-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2016/07/12/fellow-from-hawaii-to-teach-te-reo-at-uc/index.html
+layout: layout.njk
 ---
 Fellow from Hawaii to teach Te Reo at UC
 ========================================

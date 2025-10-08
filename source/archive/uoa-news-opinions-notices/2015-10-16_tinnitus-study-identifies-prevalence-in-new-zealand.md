@@ -1,8 +1,12 @@
 ---
 slug: tinnitus-study-identifies-prevalence-in-new-zealand
-title: "Tinnitus study identifies prevalence in New Zealand"
-date: 2015-10-16
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/tinnitus-study-identifies-prevalence-in-new-zealand.html
+title: Tinnitus study identifies prevalence in New Zealand
+date: 2015-10-16T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/tinnitus-study-identifies-prevalence-in-new-zealand.html
+permalink: >-
+  /archive/2015/10/16/tinnitus-study-identifies-prevalence-in-new-zealand/index.html
+layout: layout.njk
 ---
 Tinnitus study identifies prevalence in New Zealand
 ===================================================

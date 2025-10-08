@@ -1,9 +1,12 @@
 ---
 slug: compulsory-ousas-income-hiked-9%-to-$1-2-million
-title: "Compulsory OUSA's income hiked 9% to $1.2 million"
-date: 2003-12-19
-source-url: https://www.scoop.co.nz/stories/ED0312/S00077/compulsory-ousas-income-hiked-9-to-12-million.htm
+title: Compulsory OUSA's income hiked 9% to $1.2 million
+date: 2003-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00077/compulsory-ousas-income-hiked-9-to-12-million.htm
 author: student-choice
+permalink: /archive/2003/12/19/compulsory-ousas-income-hiked-9/index.html
+layout: layout.njk
 ---
 Compulsory OUSA's income hiked 9% to $1.2 million
 =================================================

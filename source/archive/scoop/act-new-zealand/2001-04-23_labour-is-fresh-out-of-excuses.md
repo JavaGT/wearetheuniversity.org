@@ -1,9 +1,12 @@
 ---
 slug: labour-is-fresh-out-of-excuses
-title: "Labour is Fresh Out of Excuses"
-date: 2001-04-23
-source-url: https://www.scoop.co.nz/stories/PA0104/S00311/labour-is-fresh-out-of-excuses.htm
+title: Labour is Fresh Out of Excuses
+date: 2001-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00311/labour-is-fresh-out-of-excuses.htm
 author: act-new-zealand
+permalink: /archive/2001/04/23/labour-is-fresh-out-of-excuses/index.html
+layout: layout.njk
 ---
 Labour is Fresh Out of Excuses
 ==============================

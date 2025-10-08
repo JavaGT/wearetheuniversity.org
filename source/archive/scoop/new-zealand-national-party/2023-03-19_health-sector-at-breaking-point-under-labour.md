@@ -1,9 +1,12 @@
 ---
 slug: health-sector-at-breaking-point-under-labour
-title: "Health Sector At Breaking Point Under Labour"
-date: 2023-03-19
-source-url: https://www.scoop.co.nz/stories/PA2303/S00160/health-sector-at-breaking-point-under-labour.htm
+title: Health Sector At Breaking Point Under Labour
+date: 2023-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00160/health-sector-at-breaking-point-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2023/03/19/health-sector-at-breaking-point-under-labour/index.html
+layout: layout.njk
 ---
 Health Sector At Breaking Point Under Labour
 ============================================

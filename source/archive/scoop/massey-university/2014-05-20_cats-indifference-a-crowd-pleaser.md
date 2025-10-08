@@ -1,9 +1,12 @@
 ---
 slug: cats-indifference-a-crowd-pleaser
-title: "Cats’ indifference a crowd-pleaser"
-date: 2014-05-20
-source-url: https://www.scoop.co.nz/stories/SC1405/S00049/cats-indifference-a-crowd-pleaser.htm
+title: Cats’ indifference a crowd-pleaser
+date: 2014-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1405/S00049/cats-indifference-a-crowd-pleaser.htm
 author: massey-university
+permalink: /archive/2014/05/20/cats-indifference-a-crowd-pleaser/index.html
+layout: layout.njk
 ---
 Cats’ indifference a crowd-pleaser
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: evaluating-aucklands-amalgamation
-title: "Evaluating Auckland’s amalgamation"
-date: 2015-07-31
-source-url: https://www.scoop.co.nz/stories/ED1507/S00130/evaluating-aucklands-amalgamation.htm
+title: Evaluating Auckland’s amalgamation
+date: 2015-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00130/evaluating-aucklands-amalgamation.htm
 author: massey-university
+permalink: /archive/2015/07/31/evaluating-aucklands-amalgamation/index.html
+layout: layout.njk
 ---
 Evaluating Auckland’s amalgamation
 ==================================

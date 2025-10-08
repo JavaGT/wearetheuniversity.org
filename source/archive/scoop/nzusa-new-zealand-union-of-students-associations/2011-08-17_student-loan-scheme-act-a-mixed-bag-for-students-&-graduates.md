@@ -1,9 +1,13 @@
 ---
 slug: student-loan-scheme-act-a-mixed-bag-for-students-&-graduates
-title: "Student Loan Scheme Act a mixed bag for students & graduates"
-date: 2011-08-17
-source-url: https://www.scoop.co.nz/stories/ED1108/S00101/student-loan-scheme-act-a-mixed-bag-for-students-graduates.htm
+title: Student Loan Scheme Act a mixed bag for students & graduates
+date: 2011-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00101/student-loan-scheme-act-a-mixed-bag-for-students-graduates.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/08/17/student-loan-scheme-act-a-mixed-bag-for-students-/index.html
+layout: layout.njk
 ---
 Student Loan Scheme Act a mixed bag for students & graduates
 ============================================================

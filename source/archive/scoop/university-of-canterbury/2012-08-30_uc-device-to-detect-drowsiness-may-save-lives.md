@@ -1,9 +1,12 @@
 ---
 slug: uc-device-to-detect-drowsiness-may-save-lives
-title: "UC device to detect drowsiness may save lives"
-date: 2012-08-30
-source-url: https://www.scoop.co.nz/stories/SC1208/S00078/uc-device-to-detect-drowsiness-may-save-lives.htm
+title: UC device to detect drowsiness may save lives
+date: 2012-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00078/uc-device-to-detect-drowsiness-may-save-lives.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/30/uc-device-to-detect-drowsiness-may-save-lives/index.html
+layout: layout.njk
 ---
 UC device to detect drowsiness may save lives
 =============================================

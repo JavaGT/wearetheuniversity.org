@@ -1,9 +1,12 @@
 ---
 slug: using-maths-to-meet-environmental-challenges
-title: "Using maths to meet environmental challenges"
-date: 2015-09-02
-source-url: https://www.scoop.co.nz/stories/SC1509/S00005/using-maths-to-meet-environmental-challenges.htm
+title: Using maths to meet environmental challenges
+date: 2015-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1509/S00005/using-maths-to-meet-environmental-challenges.htm
 author: auckland-university
+permalink: /archive/2015/09/02/using-maths-to-meet-environmental-challenges/index.html
+layout: layout.njk
 ---
 Using maths to meet environmental challenges
 ============================================

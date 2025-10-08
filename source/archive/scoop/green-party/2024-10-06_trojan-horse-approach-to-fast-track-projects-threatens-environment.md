@@ -1,9 +1,13 @@
 ---
 slug: trojan-horse-approach-to-fast-track-projects-threatens-environment
-title: "Trojan Horse Approach To Fast-track Projects Threatens Environment"
-date: 2024-10-06
-source-url: https://www.scoop.co.nz/stories/PA2410/S00047/trojan-horse-approach-to-fast-track-projects-threatens-environment.htm
+title: Trojan Horse Approach To Fast-track Projects Threatens Environment
+date: 2024-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00047/trojan-horse-approach-to-fast-track-projects-threatens-environment.htm
 author: green-party
+permalink: >-
+  /archive/2024/10/06/trojan-horse-approach-to-fast-track-projects-threatens-environment/index.html
+layout: layout.njk
 ---
 Trojan Horse Approach To Fast-track Projects Threatens Environment
 ==================================================================
@@ -24,14 +28,7 @@ The Government’s fast-track list is another example of its reckless approach t
 “What we see in this list is a number of projects that will have long-lasting and potentially irreversible impacts on the environment. Talk of renewable energy and housing - which could be consented under current processes - are nothing more than a smokescreen to the environmental vandalism this is set to unleash.
 
 “The fast track still has the power to bulldoze through environmental protections and set aside previous court rulings that declined projects due to their serious environmental harm. The Government is trying to gaslight us all into thinking we need this legislation to build nice things - we don’t. This isn’t about building a better future, it’s all about handouts to big business.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “We are deeply concerned that projects with massive, irreversible environmental effects - like seabed mining by Trans-Tasman Resources in a marine mammal sanctuary, or gold mine expansion that threatens the future of an entire forest in the Coromandel, are included in the list of projects. Extending the Bathurst coal mine in Buller and digging an open-cast mine in Central Otago during a climate crisis is beyond irresponsible.
+“We are deeply concerned that projects with massive, irreversible environmental effects - like seabed mining by Trans-Tasman Resources in a marine mammal sanctuary, or gold mine expansion that threatens the future of an entire forest in the Coromandel, are included in the list of projects. Extending the Bathurst coal mine in Buller and digging an open-cast mine in Central Otago during a climate crisis is beyond irresponsible.
 
 “To make things abundantly clear to companies and potential investors out there looking to profit from this legislation in a way that destroys our precious environment: You need to know that a Green Government will review consents, and revoke those with significant harm,” says Lan Pham.
 

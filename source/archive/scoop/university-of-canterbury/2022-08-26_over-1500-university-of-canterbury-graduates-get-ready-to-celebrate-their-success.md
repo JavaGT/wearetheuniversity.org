@@ -1,9 +1,16 @@
 ---
-slug: over-1500-university-of-canterbury-graduates-get-ready-to-celebrate-their-success
-title: "Over 1500 University Of Canterbury Graduates Get Ready To Celebrate Their Success"
-date: 2022-08-26
-source-url: https://www.scoop.co.nz/stories/ED2208/S00046/over-1500-university-of-canterbury-graduates-get-ready-to-celebrate-their-success.htm
+slug: >-
+  over-1500-university-of-canterbury-graduates-get-ready-to-celebrate-their-success
+title: >-
+  Over 1500 University Of Canterbury Graduates Get Ready To Celebrate Their
+  Success
+date: 2022-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2208/S00046/over-1500-university-of-canterbury-graduates-get-ready-to-celebrate-their-success.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/08/26/over-1500-university-of-canterbury-graduates-get-ready-to-celebrate-their-success/index.html
+layout: layout.njk
 ---
 Over 1500 University Of Canterbury Graduates Get Ready To Celebrate Their Success
 =================================================================================

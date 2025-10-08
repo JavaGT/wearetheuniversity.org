@@ -1,9 +1,13 @@
 ---
 slug: otago-honours-leading-physician-scientist-helen-heslop
-title: "Otago honours leading physician-scientist Helen Heslop"
-date: 2013-05-24
-source-url: https://www.scoop.co.nz/stories/ED1305/S00166/otago-honours-leading-physician-scientist-helen-heslop.htm
+title: Otago honours leading physician-scientist Helen Heslop
+date: 2013-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00166/otago-honours-leading-physician-scientist-helen-heslop.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/05/24/otago-honours-leading-physician-scientist-helen-heslop/index.html
+layout: layout.njk
 ---
 Otago honours leading physician-scientist Helen Heslop
 ======================================================

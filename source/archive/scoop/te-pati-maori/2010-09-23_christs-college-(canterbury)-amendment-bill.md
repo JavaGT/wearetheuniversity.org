@@ -1,9 +1,12 @@
 ---
 slug: christs-college-(canterbury)-amendment-bill
-title: "Christ’s College (Canterbury) Amendment Bill"
-date: 2010-09-23
-source-url: https://www.scoop.co.nz/stories/PA1009/S00348/christs-college-canterbury-amendment-bill.htm
+title: Christ’s College (Canterbury) Amendment Bill
+date: 2010-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00348/christs-college-canterbury-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/09/23/christs-college-/index.html
+layout: layout.njk
 ---
 Christ’s College (Canterbury) Amendment Bill
 ============================================

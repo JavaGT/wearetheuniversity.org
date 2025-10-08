@@ -1,9 +1,12 @@
 ---
 slug: major-nz-international-contemporary-art-series
-title: "Major NZ international contemporary art series"
-date: 2008-01-09
-source-url: https://www.scoop.co.nz/stories/CU0801/S00038/major-nz-international-contemporary-art-series.htm
+title: Major NZ international contemporary art series
+date: 2008-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0801/S00038/major-nz-international-contemporary-art-series.htm
 author: massey-university
+permalink: /archive/2008/01/09/major-nz-international-contemporary-art-series/index.html
+layout: layout.njk
 ---
 Major NZ international contemporary art series
 ==============================================

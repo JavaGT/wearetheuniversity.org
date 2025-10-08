@@ -1,9 +1,12 @@
 ---
 slug: an-exciting-start-to-term-one
-title: "An exciting start to Term One"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/PA1602/S00137/an-exciting-start-to-term-one.htm
+title: An exciting start to Term One
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00137/an-exciting-start-to-term-one.htm
 author: new-zealand-national-party
+permalink: /archive/2016/02/11/an-exciting-start-to-term-one/index.html
+layout: layout.njk
 ---
 An exciting start to Term One
 =============================

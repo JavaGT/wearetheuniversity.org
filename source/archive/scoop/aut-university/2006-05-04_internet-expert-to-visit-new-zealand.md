@@ -1,9 +1,12 @@
 ---
 slug: internet-expert-to-visit-new-zealand
-title: "Internet expert to visit New Zealand"
-date: 2006-05-04
-source-url: https://www.scoop.co.nz/stories/ED0605/S00017/internet-expert-to-visit-new-zealand.htm
+title: Internet expert to visit New Zealand
+date: 2006-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00017/internet-expert-to-visit-new-zealand.htm
 author: aut-university
+permalink: /archive/2006/05/04/internet-expert-to-visit-new-zealand/index.html
+layout: layout.njk
 ---
 Internet expert to visit New Zealand
 ====================================

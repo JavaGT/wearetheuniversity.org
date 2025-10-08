@@ -1,9 +1,12 @@
 ---
 slug: educators-need-priority-for-seasonal-flu-jabs
-title: "Educators Need Priority For Seasonal Flu Jabs"
-date: 2020-04-28
-source-url: https://www.scoop.co.nz/stories/GE2004/S00229/educators-need-priority-for-seasonal-flu-jabs.htm
+title: Educators Need Priority For Seasonal Flu Jabs
+date: 2020-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2004/S00229/educators-need-priority-for-seasonal-flu-jabs.htm
 author: nzei
+permalink: /archive/2020/04/28/educators-need-priority-for-seasonal-flu-jabs/index.html
+layout: layout.njk
 ---
 Educators Need Priority For Seasonal Flu Jabs
 =============================================

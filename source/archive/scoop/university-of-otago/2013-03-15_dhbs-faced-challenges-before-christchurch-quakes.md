@@ -1,9 +1,13 @@
 ---
 slug: dhbs-faced-challenges-before-christchurch-quakes
-title: "DHBs faced challenges before Christchurch quakes"
-date: 2013-03-15
-source-url: https://www.scoop.co.nz/stories/AK1303/S00342/dhbs-faced-challenges-before-christchurch-quakes.htm
+title: DHBs faced challenges before Christchurch quakes
+date: 2013-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1303/S00342/dhbs-faced-challenges-before-christchurch-quakes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/03/15/dhbs-faced-challenges-before-christchurch-quakes/index.html
+layout: layout.njk
 ---
 DHBs faced challenges before Christchurch quakes
 ================================================

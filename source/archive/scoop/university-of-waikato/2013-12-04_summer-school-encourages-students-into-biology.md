@@ -1,9 +1,12 @@
 ---
 slug: summer-school-encourages-students-into-biology
-title: "Summer School encourages students into biology"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/ED1312/S00021/summer-school-encourages-students-into-biology.htm
+title: Summer School encourages students into biology
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00021/summer-school-encourages-students-into-biology.htm
 author: university-of-waikato
+permalink: /archive/2013/12/04/summer-school-encourages-students-into-biology/index.html
+layout: layout.njk
 ---
 Summer School encourages students into biology
 ==============================================

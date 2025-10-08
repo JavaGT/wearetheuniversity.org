@@ -1,9 +1,13 @@
 ---
 slug: erc-to-focus-on-small-businesses-frontline-services
-title: "ERC To Focus On Small Businesses, Frontline Services"
-date: 2020-04-27
-source-url: https://www.scoop.co.nz/stories/PA2004/S00156/erc-to-focus-on-small-businesses-frontline-services.htm
+title: ERC To Focus On Small Businesses, Frontline Services
+date: 2020-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00156/erc-to-focus-on-small-businesses-frontline-services.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/04/27/erc-to-focus-on-small-businesses-frontline-services/index.html
+layout: layout.njk
 ---
 ERC To Focus On Small Businesses, Frontline Services
 ====================================================

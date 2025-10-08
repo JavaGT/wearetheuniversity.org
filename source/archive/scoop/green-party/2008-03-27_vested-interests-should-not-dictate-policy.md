@@ -1,9 +1,12 @@
 ---
 slug: vested-interests-should-not-dictate-policy
-title: "Vested interests should not dictate policy"
-date: 2008-03-27
-source-url: https://www.scoop.co.nz/stories/PA0803/S00460/vested-interests-should-not-dictate-policy.htm
+title: Vested interests should not dictate policy
+date: 2008-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00460/vested-interests-should-not-dictate-policy.htm
 author: green-party
+permalink: /archive/2008/03/27/vested-interests-should-not-dictate-policy/index.html
+layout: layout.njk
 ---
 Vested interests should not dictate policy
 ==========================================

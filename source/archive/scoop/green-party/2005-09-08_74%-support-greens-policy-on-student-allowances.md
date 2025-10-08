@@ -1,9 +1,12 @@
 ---
 slug: 74%-support-greens-policy-on-student-allowances
-title: "74% support Greens' policy on student allowances"
-date: 2005-09-08
-source-url: https://www.scoop.co.nz/stories/PA0509/S00220/74-support-greens-policy-on-student-allowances.htm
+title: 74% support Greens' policy on student allowances
+date: 2005-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00220/74-support-greens-policy-on-student-allowances.htm
 author: green-party
+permalink: /archive/2005/09/08/74/index.html
+layout: layout.njk
 ---
 74% support Greens' policy on student allowances
 ================================================

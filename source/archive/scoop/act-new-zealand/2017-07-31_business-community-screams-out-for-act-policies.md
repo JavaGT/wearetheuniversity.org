@@ -1,9 +1,12 @@
 ---
 slug: business-community-screams-out-for-act-policies
-title: "Business community screams out for ACT policies"
-date: 2017-07-31
-source-url: https://www.scoop.co.nz/stories/PA1707/S00466/business-community-screams-out-for-act-policies.htm
+title: Business community screams out for ACT policies
+date: 2017-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00466/business-community-screams-out-for-act-policies.htm
 author: act-new-zealand
+permalink: /archive/2017/07/31/business-community-screams-out-for-act-policies/index.html
+layout: layout.njk
 ---
 Business community screams out for ACT policies
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: video-showing-a-drunk-nine-year-old-shocking-for-good-reason
-title: "Video showing a drunk nine-year-old shocking for good reason"
-date: 2014-01-12
-source-url: https://www.scoop.co.nz/stories/AK1401/S00225/video-showing-a-drunk-nine-year-old-shocking-for-good-reason.htm
+title: Video showing a drunk nine-year-old shocking for good reason
+date: 2014-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1401/S00225/video-showing-a-drunk-nine-year-old-shocking-for-good-reason.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/12/video-showing-a-drunk-nine-year-old-shocking-for-good-reason/index.html
+layout: layout.njk
 ---
 Video showing a drunk nine-year-old shocking for good reason
 ============================================================

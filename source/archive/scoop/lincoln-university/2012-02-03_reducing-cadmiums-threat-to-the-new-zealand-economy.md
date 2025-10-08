@@ -1,9 +1,13 @@
 ---
 slug: reducing-cadmiums-threat-to-the-new-zealand-economy
-title: "Reducing cadmium’s threat to the New Zealand economy"
-date: 2012-02-03
-source-url: https://www.scoop.co.nz/stories/SC1202/S00006/reducing-cadmiums-threat-to-the-new-zealand-economy.htm
+title: Reducing cadmium’s threat to the New Zealand economy
+date: 2012-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1202/S00006/reducing-cadmiums-threat-to-the-new-zealand-economy.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/02/03/reducing-cadmiums-threat-to-the-new-zealand-economy/index.html
+layout: layout.njk
 ---
 Reducing cadmium’s threat to the New Zealand economy
 ====================================================

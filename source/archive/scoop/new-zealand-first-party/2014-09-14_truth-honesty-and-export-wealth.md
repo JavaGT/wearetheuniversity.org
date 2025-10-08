@@ -1,9 +1,12 @@
 ---
 slug: truth-honesty-and-export-wealth
-title: "Truth, Honesty And Export Wealth"
-date: 2014-09-14
-source-url: https://www.scoop.co.nz/stories/PA1409/S00201/truth-honesty-and-export-wealth.htm
+title: Truth, Honesty And Export Wealth
+date: 2014-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00201/truth-honesty-and-export-wealth.htm
 author: new-zealand-first-party
+permalink: /archive/2014/09/14/truth-honesty-and-export-wealth/index.html
+layout: layout.njk
 ---
 Truth, Honesty And Export Wealth
 ================================

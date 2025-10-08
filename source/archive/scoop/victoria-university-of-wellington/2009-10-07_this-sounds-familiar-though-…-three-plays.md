@@ -1,9 +1,12 @@
 ---
 slug: this-sounds-familiar-though-…-three-plays
-title: "This Sounds Familiar Though … Three Plays"
-date: 2009-10-07
-source-url: https://www.scoop.co.nz/stories/CU0910/S00113/this-sounds-familiar-though-three-plays.htm
+title: This Sounds Familiar Though … Three Plays
+date: 2009-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0910/S00113/this-sounds-familiar-though-three-plays.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/10/07/this-sounds-familiar-though-/index.html
+layout: layout.njk
 ---
 This Sounds Familiar Though … Three Plays
 =========================================

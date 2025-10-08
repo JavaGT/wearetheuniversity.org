@@ -1,9 +1,13 @@
 ---
 slug: inquiry-into-covid-19-economic-response-necessary
-title: "Inquiry Into COVID-19 Economic Response Necessary"
-date: 2022-05-25
-source-url: https://www.scoop.co.nz/stories/PA2205/S00248/inquiry-into-covid-19-economic-response-necessary.htm
+title: Inquiry Into COVID-19 Economic Response Necessary
+date: 2022-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00248/inquiry-into-covid-19-economic-response-necessary.htm
 author: green-party
+permalink: >-
+  /archive/2022/05/25/inquiry-into-covid-19-economic-response-necessary/index.html
+layout: layout.njk
 ---
 Inquiry Into COVID-19 Economic Response Necessary
 =================================================

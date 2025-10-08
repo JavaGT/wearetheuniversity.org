@@ -1,9 +1,12 @@
 ---
 slug: pharmac-properly-inform-our-older-citizens
-title: "Pharmac – properly inform our older citizens"
-date: 2008-12-18
-source-url: https://www.scoop.co.nz/stories/PA0812/S00221/pharmac-properly-inform-our-older-citizens.htm
+title: Pharmac – properly inform our older citizens
+date: 2008-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00221/pharmac-properly-inform-our-older-citizens.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/12/18/pharmac-properly-inform-our-older-citizens/index.html
+layout: layout.njk
 ---
 Pharmac – properly inform our older citizens
 ============================================

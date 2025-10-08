@@ -1,9 +1,12 @@
 ---
 slug: public-safety-and-trust-in-police-is-strained
-title: "Public Safety and Trust in Police Is Strained"
-date: 2013-12-18
-source-url: https://www.scoop.co.nz/stories/PA1312/S00368/public-safety-and-trust-in-police-is-strained.htm
+title: Public Safety and Trust in Police Is Strained
+date: 2013-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00368/public-safety-and-trust-in-police-is-strained.htm
 author: new-zealand-first-party
+permalink: /archive/2013/12/18/public-safety-and-trust-in-police-is-strained/index.html
+layout: layout.njk
 ---
 Public Safety and Trust in Police Is Strained
 =============================================

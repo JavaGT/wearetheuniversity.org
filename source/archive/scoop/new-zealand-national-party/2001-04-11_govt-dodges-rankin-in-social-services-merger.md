@@ -1,9 +1,12 @@
 ---
 slug: govt-dodges-rankin-in-social-services-merger
-title: "Govt Dodges Rankin In Social Services Merger"
-date: 2001-04-11
-source-url: https://www.scoop.co.nz/stories/PA0104/S00191/govt-dodges-rankin-in-social-services-merger.htm
+title: Govt Dodges Rankin In Social Services Merger
+date: 2001-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00191/govt-dodges-rankin-in-social-services-merger.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/11/govt-dodges-rankin-in-social-services-merger/index.html
+layout: layout.njk
 ---
 Govt Dodges Rankin In Social Services Merger
 ============================================

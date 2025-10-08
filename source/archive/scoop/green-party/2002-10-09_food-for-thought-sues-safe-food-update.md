@@ -1,9 +1,12 @@
 ---
 slug: food-for-thought-sues-safe-food-update
-title: "Food for thought - Sue's safe food update"
-date: 2002-10-09
-source-url: https://www.scoop.co.nz/stories/PA0210/S00173/food-for-thought-sues-safe-food-update.htm
+title: Food for thought - Sue's safe food update
+date: 2002-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00173/food-for-thought-sues-safe-food-update.htm
 author: green-party
+permalink: /archive/2002/10/09/food-for-thought-sues-safe-food-update/index.html
+layout: layout.njk
 ---
 Food for thought - Sue's safe food update
 =========================================

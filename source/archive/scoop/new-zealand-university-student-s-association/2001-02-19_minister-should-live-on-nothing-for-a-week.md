@@ -1,9 +1,12 @@
 ---
 slug: minister-should-live-on-nothing-for-a-week
-title: "Minister should  live on nothing for a week"
-date: 2001-02-19
-source-url: https://www.scoop.co.nz/stories/ED0102/S00021/minister-should-live-on-nothing-for-a-week.htm
+title: Minister should  live on nothing for a week
+date: 2001-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0102/S00021/minister-should-live-on-nothing-for-a-week.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/02/19/minister-should-live-on-nothing-for-a-week/index.html
+layout: layout.njk
 ---
 Minister should live on nothing for a week
 ==========================================

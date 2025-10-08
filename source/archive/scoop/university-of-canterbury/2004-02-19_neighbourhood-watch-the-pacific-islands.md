@@ -1,9 +1,12 @@
 ---
 slug: neighbourhood-watch-the-pacific-islands
-title: "Neighbourhood watch: the Pacific Islands"
-date: 2004-02-19
-source-url: https://www.scoop.co.nz/stories/ED0402/S00048/neighbourhood-watch-the-pacific-islands.htm
+title: 'Neighbourhood watch: the Pacific Islands'
+date: 2004-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00048/neighbourhood-watch-the-pacific-islands.htm
 author: university-of-canterbury
+permalink: /archive/2004/02/19/neighbourhood-watch-the-pacific-islands/index.html
+layout: layout.njk
 ---
 Neighbourhood watch: the Pacific Islands
 ========================================

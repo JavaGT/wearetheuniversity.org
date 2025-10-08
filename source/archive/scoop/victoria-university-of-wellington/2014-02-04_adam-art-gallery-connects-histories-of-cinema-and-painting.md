@@ -1,9 +1,13 @@
 ---
 slug: adam-art-gallery-connects-histories-of-cinema-and-painting
-title: "Adam Art Gallery connects histories of cinema and painting"
-date: 2014-02-04
-source-url: https://www.scoop.co.nz/stories/CU1402/S00054/adam-art-gallery-connects-histories-of-cinema-and-painting.htm
+title: Adam Art Gallery connects histories of cinema and painting
+date: 2014-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1402/S00054/adam-art-gallery-connects-histories-of-cinema-and-painting.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/02/04/adam-art-gallery-connects-histories-of-cinema-and-painting/index.html
+layout: layout.njk
 ---
 Adam Art Gallery connects histories of cinema and painting
 ==========================================================

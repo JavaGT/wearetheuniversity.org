@@ -1,9 +1,12 @@
 ---
 slug: labour-pro-nuke-move-clark-will-not-be-amused
-title: "Labour pro-nuke-move - Clark will not be amused"
-date: 2004-08-30
-source-url: https://www.scoop.co.nz/stories/PA0408/S00526/labour-pro-nuke-move-clark-will-not-be-amused.htm
+title: Labour pro-nuke-move - Clark will not be amused
+date: 2004-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00526/labour-pro-nuke-move-clark-will-not-be-amused.htm
 author: green-party
+permalink: /archive/2004/08/30/labour-pro-nuke-move-clark-will-not-be-amused/index.html
+layout: layout.njk
 ---
 Labour pro-nuke-move - Clark will not be amused
 ===============================================

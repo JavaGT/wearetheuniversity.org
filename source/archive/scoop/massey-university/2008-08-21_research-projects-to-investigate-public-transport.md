@@ -1,9 +1,13 @@
 ---
 slug: research-projects-to-investigate-public-transport
-title: "Research projects to investigate public transport"
-date: 2008-08-21
-source-url: https://www.scoop.co.nz/stories/AK0808/S00214/research-projects-to-investigate-public-transport.htm
+title: Research projects to investigate public transport
+date: 2008-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0808/S00214/research-projects-to-investigate-public-transport.htm
 author: massey-university
+permalink: >-
+  /archive/2008/08/21/research-projects-to-investigate-public-transport/index.html
+layout: layout.njk
 ---
 Research projects to investigate public transport
 =================================================

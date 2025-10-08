@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-contract-management-of-prisons
-title: "Speech: Flavell - Contract Management of Prisons"
-date: 2009-03-25
-source-url: https://www.scoop.co.nz/stories/PA0903/S00346/speech-flavell-contract-management-of-prisons.htm
+title: 'Speech: Flavell - Contract Management of Prisons'
+date: 2009-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00346/speech-flavell-contract-management-of-prisons.htm
 author: te-pati-maori
+permalink: /archive/2009/03/25/speech-flavell-contract-management-of-prisons/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Contract Management of Prisons
 ================================================

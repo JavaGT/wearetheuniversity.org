@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-&-ngāti-toa-rangatira-renew-partnership
-title: "University of Otago & Ngāti Toa Rangatira renew partnership"
-date: 2016-10-17
-source-url: https://www.scoop.co.nz/stories/ED1610/S00057/university-of-otago-ngati-toa-rangatira-renew-partnership.htm
+title: University of Otago & Ngāti Toa Rangatira renew partnership
+date: 2016-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00057/university-of-otago-ngati-toa-rangatira-renew-partnership.htm
 author: university-of-otago
+permalink: /archive/2016/10/17/university-of-otago-/index.html
+layout: layout.njk
 ---
 University of Otago & Ngāti Toa Rangatira renew partnership
 ===========================================================

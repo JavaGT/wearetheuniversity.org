@@ -1,9 +1,12 @@
 ---
 slug: earth-science-draws-uk-siblings-to-victoria
-title: "Earth science draws UK siblings to Victoria"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/ED1412/S00070/earth-science-draws-uk-siblings-to-victoria.htm
+title: Earth science draws UK siblings to Victoria
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00070/earth-science-draws-uk-siblings-to-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/10/earth-science-draws-uk-siblings-to-victoria/index.html
+layout: layout.njk
 ---
 Earth science draws UK siblings to Victoria
 ===========================================

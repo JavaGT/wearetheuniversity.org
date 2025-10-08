@@ -1,9 +1,13 @@
 ---
 slug: in-response-to-willie-jacksons-desperate-co-governance-diatribe
-title: "In Response To Willie Jackson’s Desperate Co-governance Diatribe"
-date: 2022-08-09
-source-url: https://www.scoop.co.nz/stories/PA2208/S00090/in-response-to-willie-jacksons-desperate-co-governance-diatribe.htm
+title: In Response To Willie Jackson’s Desperate Co-governance Diatribe
+date: 2022-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00090/in-response-to-willie-jacksons-desperate-co-governance-diatribe.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2022/08/09/in-response-to-willie-jacksons-desperate-co-governance-diatribe/index.html
+layout: layout.njk
 ---
 In Response To Willie Jackson’s Desperate Co-governance Diatribe
 ================================================================

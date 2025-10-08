@@ -1,9 +1,12 @@
 ---
 slug: south-island-national-party-hack-gets-hutt-job
-title: "South Island National Party hack gets Hutt job"
-date: 1999-06-20
-source-url: https://www.scoop.co.nz/stories/PA9906/S00140/south-island-national-party-hack-gets-hutt-job.htm
+title: South Island National Party hack gets Hutt job
+date: 1999-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00140/south-island-national-party-hack-gets-hutt-job.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/06/20/south-island-national-party-hack-gets-hutt-job/index.html
+layout: layout.njk
 ---
 South Island National Party hack gets Hutt job
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: sports-inspired-christchurch-people-after-the-earthquakes
-title: "Sports inspired Christchurch people after the earthquakes"
-date: 2015-01-27
-source-url: https://www.scoop.co.nz/stories/AK1501/S00467/sports-inspired-christchurch-people-after-the-earthquakes.htm
+title: Sports inspired Christchurch people after the earthquakes
+date: 2015-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1501/S00467/sports-inspired-christchurch-people-after-the-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/27/sports-inspired-christchurch-people-after-the-earthquakes/index.html
+layout: layout.njk
 ---
 Sports inspired Christchurch people after the earthquakes
 =========================================================

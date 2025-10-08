@@ -1,9 +1,12 @@
 ---
 slug: rankings-jump-provides-birthday-boost
-title: "Rankings jump provides birthday boost"
-date: 2014-05-01
-source-url: https://www.scoop.co.nz/stories/ED1405/S00004/rankings-jump-provides-birthday-boost.htm
+title: Rankings jump provides birthday boost
+date: 2014-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00004/rankings-jump-provides-birthday-boost.htm
 author: university-of-waikato
+permalink: /archive/2014/05/01/rankings-jump-provides-birthday-boost/index.html
+layout: layout.njk
 ---
 Rankings jump provides birthday boost
 =====================================

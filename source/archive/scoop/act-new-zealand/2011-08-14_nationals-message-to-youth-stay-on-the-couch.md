@@ -1,9 +1,12 @@
 ---
 slug: nationals-message-to-youth-stay-on-the-couch
-title: "National’s Message To Youth: Stay On The Couch"
-date: 2011-08-14
-source-url: https://www.scoop.co.nz/stories/PA1108/S00280/nationals-message-to-youth-stay-on-the-couch.htm
+title: 'National’s Message To Youth: Stay On The Couch'
+date: 2011-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00280/nationals-message-to-youth-stay-on-the-couch.htm
 author: act-new-zealand
+permalink: /archive/2011/08/14/nationals-message-to-youth-stay-on-the-couch/index.html
+layout: layout.njk
 ---
 National’s Message To Youth: Stay On The Couch
 ==============================================

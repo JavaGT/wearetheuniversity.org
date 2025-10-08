@@ -1,9 +1,13 @@
 ---
 slug: discovery-of-extraterrestrial-life-expected-before-2040
-title: "Discovery of extraterrestrial life expected before 2040"
-date: 2015-09-28
-source-url: https://www.scoop.co.nz/stories/ED1509/S00153/discovery-of-extraterrestrial-life-expected-before-2040.htm
+title: Discovery of extraterrestrial life expected before 2040
+date: 2015-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00153/discovery-of-extraterrestrial-life-expected-before-2040.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/09/28/discovery-of-extraterrestrial-life-expected-before-2040/index.html
+layout: layout.njk
 ---
 Discovery of extraterrestrial life expected before 2040
 =======================================================

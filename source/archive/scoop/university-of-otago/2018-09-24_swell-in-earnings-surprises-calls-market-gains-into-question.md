@@ -1,9 +1,13 @@
 ---
 slug: swell-in-earnings-surprises-calls-market-gains-into-question
-title: "Swell in earnings surprises calls market gains into question"
-date: 2018-09-24
-source-url: https://www.scoop.co.nz/stories/WO1809/S00124/swell-in-earnings-surprises-calls-market-gains-into-question.htm
+title: Swell in earnings surprises calls market gains into question
+date: 2018-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1809/S00124/swell-in-earnings-surprises-calls-market-gains-into-question.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/24/swell-in-earnings-surprises-calls-market-gains-into-question/index.html
+layout: layout.njk
 ---
 Swell in earnings surprises calls market gains into question
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: multiple-sclerosis-trial-begins-at-wellington-hospital
-title: "Multiple sclerosis trial begins at Wellington Hospital"
-date: 2016-06-13
-source-url: https://www.scoop.co.nz/stories/SC1606/S00021/multiple-sclerosis-trial-begins-at-wellington-hospital.htm
+title: Multiple sclerosis trial begins at Wellington Hospital
+date: 2016-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00021/multiple-sclerosis-trial-begins-at-wellington-hospital.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/06/13/multiple-sclerosis-trial-begins-at-wellington-hospital/index.html
+layout: layout.njk
 ---
 Multiple sclerosis trial begins at Wellington Hospital
 ======================================================

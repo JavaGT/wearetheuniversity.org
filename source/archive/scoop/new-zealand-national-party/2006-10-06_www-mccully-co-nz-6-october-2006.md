@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-6-october-2006
-title: "www.mccully.co.nz - 6 October 2006"
-date: 2006-10-06
-source-url: https://www.scoop.co.nz/stories/PA0610/S00082/wwwmccullyconz-6-october-2006.htm
+title: www.mccully.co.nz - 6 October 2006
+date: 2006-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00082/wwwmccullyconz-6-october-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/06/www-mccully-co-nz-6-october-2006/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 6 October 2006
 ==================================

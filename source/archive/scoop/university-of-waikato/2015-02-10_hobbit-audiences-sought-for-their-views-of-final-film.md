@@ -1,9 +1,13 @@
 ---
 slug: hobbit-audiences-sought-for-their-views-of-final-film
-title: "Hobbit Audiences Sought for Their Views of Final Film"
-date: 2015-02-10
-source-url: https://www.scoop.co.nz/stories/CU1502/S00206/hobbit-audiences-sought-for-their-views-of-final-film.htm
+title: Hobbit Audiences Sought for Their Views of Final Film
+date: 2015-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00206/hobbit-audiences-sought-for-their-views-of-final-film.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/02/10/hobbit-audiences-sought-for-their-views-of-final-film/index.html
+layout: layout.njk
 ---
 Hobbit Audiences Sought for Their Views of Final Film
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: health-issues-highlighted-in-child-poverty-monitor
-title: "Health Issues Highlighted in Child Poverty Monitor"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/GE1412/S00012/health-issues-highlighted-in-child-poverty-monitor.htm
+title: Health Issues Highlighted in Child Poverty Monitor
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1412/S00012/health-issues-highlighted-in-child-poverty-monitor.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/12/02/health-issues-highlighted-in-child-poverty-monitor/index.html
+layout: layout.njk
 ---
 Health Issues Highlighted in Child Poverty Monitor
 ==================================================

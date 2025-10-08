@@ -1,9 +1,16 @@
 ---
-slug: internal-aut-law-school-survey-reiterates-growing-challenges-to-academic-freedom
-title: "Internal AUT Law School Survey Reiterates Growing Challenges To Academic Freedom"
-date: 2024-09-15
-source-url: https://www.scoop.co.nz/stories/ED2409/S00022/internal-aut-law-school-survey-reiterates-growing-challenges-to-academic-freedom.htm
+slug: >-
+  internal-aut-law-school-survey-reiterates-growing-challenges-to-academic-freedom
+title: >-
+  Internal AUT Law School Survey Reiterates Growing Challenges To Academic
+  Freedom
+date: 2024-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2409/S00022/internal-aut-law-school-survey-reiterates-growing-challenges-to-academic-freedom.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/09/15/internal-aut-law-school-survey-reiterates-growing-challenges-to-academic-freedom/index.html
+layout: layout.njk
 ---
 Internal AUT Law School Survey Reiterates Growing Challenges To Academic Freedom
 ================================================================================

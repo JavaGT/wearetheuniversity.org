@@ -1,9 +1,12 @@
 ---
 slug: hippy-fear-factor-to-heighten-environ-awareness
-title: "\"Hippy fear factor\" to heighten environ awareness"
-date: 2004-09-22
-source-url: https://www.scoop.co.nz/stories/ED0409/S00099/hippy-fear-factor-to-heighten-environ-awareness.htm
+title: '"Hippy fear factor" to heighten environ awareness'
+date: 2004-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00099/hippy-fear-factor-to-heighten-environ-awareness.htm
 author: auckland-university-students-association
+permalink: /archive/2004/09/22/hippy-fear-factor-to-heighten-environ-awareness/index.html
+layout: layout.njk
 ---
 “Hippy fear factor” to heighten environ awareness
 =================================================

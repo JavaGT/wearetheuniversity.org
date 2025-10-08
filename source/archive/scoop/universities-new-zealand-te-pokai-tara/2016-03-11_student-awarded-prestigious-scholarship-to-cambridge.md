@@ -1,9 +1,13 @@
 ---
 slug: student-awarded-prestigious-scholarship-to-cambridge
-title: "Student awarded prestigious scholarship to Cambridge"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/ED1603/S00045/student-awarded-prestigious-scholarship-to-cambridge.htm
+title: Student awarded prestigious scholarship to Cambridge
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00045/student-awarded-prestigious-scholarship-to-cambridge.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/03/11/student-awarded-prestigious-scholarship-to-cambridge/index.html
+layout: layout.njk
 ---
 Student awarded prestigious scholarship to Cambridge
 ====================================================

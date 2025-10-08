@@ -1,8 +1,11 @@
 ---
 slug: award-for-reminder-device-in-asthma-research
-title: "Award for reminder device in asthma research"
-date: 2015-09-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/award-for-reminder-device-in-asthma-research.html
+title: Award for reminder device in asthma research
+date: 2015-09-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/award-for-reminder-device-in-asthma-research.html
+permalink: /archive/2015/09/24/award-for-reminder-device-in-asthma-research/index.html
+layout: layout.njk
 ---
 Award for reminder device in asthma research
 ============================================

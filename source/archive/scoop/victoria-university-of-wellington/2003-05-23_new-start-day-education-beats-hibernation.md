@@ -1,9 +1,12 @@
 ---
 slug: new-start-day-education-beats-hibernation
-title: "New Start Day – education beats hibernation"
-date: 2003-05-23
-source-url: https://www.scoop.co.nz/stories/ED0305/S00082/new-start-day-education-beats-hibernation.htm
+title: New Start Day – education beats hibernation
+date: 2003-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00082/new-start-day-education-beats-hibernation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/05/23/new-start-day-education-beats-hibernation/index.html
+layout: layout.njk
 ---
 New Start Day – education beats hibernation
 ===========================================

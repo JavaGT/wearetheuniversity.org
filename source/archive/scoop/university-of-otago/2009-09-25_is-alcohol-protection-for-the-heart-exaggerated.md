@@ -1,9 +1,12 @@
 ---
 slug: is-alcohol-protection-for-the-heart-exaggerated
-title: "Is alcohol protection for the heart exaggerated?"
-date: 2009-09-25
-source-url: https://www.scoop.co.nz/stories/GE0909/S00125/is-alcohol-protection-for-the-heart-exaggerated.htm
+title: Is alcohol protection for the heart exaggerated?
+date: 2009-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0909/S00125/is-alcohol-protection-for-the-heart-exaggerated.htm
 author: university-of-otago
+permalink: /archive/2009/09/25/is-alcohol-protection-for-the-heart-exaggerated/index.html
+layout: layout.njk
 ---
 Is alcohol protection for the heart exaggerated?
 ================================================

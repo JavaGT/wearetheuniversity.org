@@ -1,9 +1,12 @@
 ---
 slug: gangs-attractive-to-young-rebellious-people
-title: "Gangs Attractive To Young Rebellious People"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/ED1303/S00160/gangs-attractive-to-young-rebellious-people.htm
+title: Gangs Attractive To Young Rebellious People
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00160/gangs-attractive-to-young-rebellious-people.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/22/gangs-attractive-to-young-rebellious-people/index.html
+layout: layout.njk
 ---
 Gangs Attractive To Young Rebellious People
 ===========================================

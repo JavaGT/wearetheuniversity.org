@@ -1,9 +1,13 @@
 ---
 slug: six-years-on-government-still-denying-cantabrians-democracy
-title: "Six years on Government still denying Cantabrians democracy"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/PA1503/S00278/six-years-on-government-still-denying-cantabrians-democracy.htm
+title: Six years on Government still denying Cantabrians democracy
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00278/six-years-on-government-still-denying-cantabrians-democracy.htm
 author: green-party
+permalink: >-
+  /archive/2015/03/18/six-years-on-government-still-denying-cantabrians-democracy/index.html
+layout: layout.njk
 ---
 Six years on Government still denying Cantabrians democracy
 ===========================================================

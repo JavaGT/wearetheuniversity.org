@@ -1,9 +1,12 @@
 ---
 slug: history-points-to-poor-dhb-decision
-title: "History points to poor DHB decision"
-date: 2014-07-15
-source-url: https://www.scoop.co.nz/stories/PA1407/S00269/history-points-to-poor-dhb-decision.htm
+title: History points to poor DHB decision
+date: 2014-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00269/history-points-to-poor-dhb-decision.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/15/history-points-to-poor-dhb-decision/index.html
+layout: layout.njk
 ---
 History points to poor DHB decision
 ===================================

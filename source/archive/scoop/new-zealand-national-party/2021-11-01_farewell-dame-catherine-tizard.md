@@ -1,9 +1,12 @@
 ---
 slug: farewell-dame-catherine-tizard
-title: "Farewell, Dame Catherine Tizard"
-date: 2021-11-01
-source-url: https://www.scoop.co.nz/stories/PA2111/S00005/farewell-dame-catherine-tizard.htm
+title: Farewell, Dame Catherine Tizard
+date: 2021-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00005/farewell-dame-catherine-tizard.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/01/farewell-dame-catherine-tizard/index.html
+layout: layout.njk
 ---
 Farewell, Dame Catherine Tizard
 ===============================

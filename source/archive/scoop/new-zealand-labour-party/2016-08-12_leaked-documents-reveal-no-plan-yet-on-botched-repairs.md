@@ -1,9 +1,13 @@
 ---
 slug: leaked-documents-reveal-no-plan-yet-on-botched-repairs
-title: "Leaked documents reveal no plan yet on botched repairs"
-date: 2016-08-12
-source-url: https://www.scoop.co.nz/stories/PA1608/S00221/leaked-documents-reveal-no-plan-yet-on-botched-repairs.htm
+title: Leaked documents reveal no plan yet on botched repairs
+date: 2016-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00221/leaked-documents-reveal-no-plan-yet-on-botched-repairs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/12/leaked-documents-reveal-no-plan-yet-on-botched-repairs/index.html
+layout: layout.njk
 ---
 Leaked documents reveal no plan yet on botched repairs
 ======================================================

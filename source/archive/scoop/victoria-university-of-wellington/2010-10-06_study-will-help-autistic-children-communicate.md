@@ -1,9 +1,12 @@
 ---
 slug: study-will-help-autistic-children-communicate
-title: "Study will help autistic children communicate"
-date: 2010-10-06
-source-url: https://www.scoop.co.nz/stories/GE1010/S00020/study-will-help-autistic-children-communicate.htm
+title: Study will help autistic children communicate
+date: 2010-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1010/S00020/study-will-help-autistic-children-communicate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/10/06/study-will-help-autistic-children-communicate/index.html
+layout: layout.njk
 ---
 Study will help autistic children communicate
 =============================================

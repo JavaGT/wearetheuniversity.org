@@ -1,9 +1,13 @@
 ---
 slug: concern-for-kids-a-significant-new-reason-to-quit-smoking
-title: "Concern for kids a significant new reason to quit smoking"
-date: 2010-12-10
-source-url: https://www.scoop.co.nz/stories/GE1012/S00050/concern-for-kids-a-significant-new-reason-to-quit-smoking.htm
+title: Concern for kids a significant new reason to quit smoking
+date: 2010-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1012/S00050/concern-for-kids-a-significant-new-reason-to-quit-smoking.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/12/10/concern-for-kids-a-significant-new-reason-to-quit-smoking/index.html
+layout: layout.njk
 ---
 Concern for kids a significant new reason to quit smoking
 =========================================================

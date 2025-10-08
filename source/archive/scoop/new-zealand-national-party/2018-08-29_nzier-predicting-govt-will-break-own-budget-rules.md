@@ -1,9 +1,13 @@
 ---
 slug: nzier-predicting-govt-will-break-own-budget-rules
-title: "NZIER predicting Govt will break own budget rules"
-date: 2018-08-29
-source-url: https://www.scoop.co.nz/stories/PA1808/S00329/nzier-predicting-govt-will-break-own-budget-rules.htm
+title: NZIER predicting Govt will break own budget rules
+date: 2018-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00329/nzier-predicting-govt-will-break-own-budget-rules.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/08/29/nzier-predicting-govt-will-break-own-budget-rules/index.html
+layout: layout.njk
 ---
 NZIER predicting Govt will break own budget rules
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-cunliffe-caught-out-on-ccdhb
-title: "Minister Cunliffe Caught Out On CCDHB"
-date: 2007-12-09
-source-url: https://www.scoop.co.nz/stories/PA0712/S00178/minister-cunliffe-caught-out-on-ccdhb.htm
+title: Minister Cunliffe Caught Out On CCDHB
+date: 2007-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00178/minister-cunliffe-caught-out-on-ccdhb.htm
 author: act-new-zealand
+permalink: /archive/2007/12/09/minister-cunliffe-caught-out-on-ccdhb/index.html
+layout: layout.njk
 ---
 Minister Cunliffe Caught Out On CCDHB
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: teenage-doctoral-scholar-top-achiever
-title: "Teenage doctoral scholar top achiever"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/ED0703/S00099/teenage-doctoral-scholar-top-achiever.htm
+title: Teenage doctoral scholar top achiever
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00099/teenage-doctoral-scholar-top-achiever.htm
 author: university-of-canterbury
+permalink: /archive/2007/03/27/teenage-doctoral-scholar-top-achiever/index.html
+layout: layout.njk
 ---
 Teenage doctoral scholar top achiever
 =====================================

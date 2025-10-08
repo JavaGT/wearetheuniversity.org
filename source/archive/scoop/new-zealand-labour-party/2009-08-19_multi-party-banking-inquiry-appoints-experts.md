@@ -1,9 +1,12 @@
 ---
 slug: multi-party-banking-inquiry-appoints-experts
-title: "Multi-party Banking Inquiry appoints experts"
-date: 2009-08-19
-source-url: https://www.scoop.co.nz/stories/PA0908/S00260/multi-party-banking-inquiry-appoints-experts.htm
+title: Multi-party Banking Inquiry appoints experts
+date: 2009-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00260/multi-party-banking-inquiry-appoints-experts.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/19/multi-party-banking-inquiry-appoints-experts/index.html
+layout: layout.njk
 ---
 Multi-party Banking Inquiry appoints experts
 ============================================

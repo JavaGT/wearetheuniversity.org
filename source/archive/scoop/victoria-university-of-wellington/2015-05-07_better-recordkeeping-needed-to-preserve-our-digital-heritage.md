@@ -1,9 +1,13 @@
 ---
 slug: better-recordkeeping-needed-to-preserve-our-digital-heritage
-title: "Better recordkeeping needed to preserve our digital heritage"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/CU1505/S00116/better-recordkeeping-needed-to-preserve-our-digital-heritage.htm
+title: Better recordkeeping needed to preserve our digital heritage
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00116/better-recordkeeping-needed-to-preserve-our-digital-heritage.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/05/07/better-recordkeeping-needed-to-preserve-our-digital-heritage/index.html
+layout: layout.njk
 ---
 Better recordkeeping needed to preserve our digital heritage
 ============================================================

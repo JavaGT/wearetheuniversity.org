@@ -1,9 +1,12 @@
 ---
 slug: tppa-will-allow-tobacco-companies-to-sue-nz
-title: "TPPA will allow tobacco companies to sue NZ"
-date: 2012-05-31
-source-url: https://www.scoop.co.nz/stories/PA1205/S00558/tppa-will-allow-tobacco-companies-to-sue-nz.htm
+title: TPPA will allow tobacco companies to sue NZ
+date: 2012-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00558/tppa-will-allow-tobacco-companies-to-sue-nz.htm
 author: green-party
+permalink: /archive/2012/05/31/tppa-will-allow-tobacco-companies-to-sue-nz/index.html
+layout: layout.njk
 ---
 TPPA will allow tobacco companies to sue NZ
 ===========================================

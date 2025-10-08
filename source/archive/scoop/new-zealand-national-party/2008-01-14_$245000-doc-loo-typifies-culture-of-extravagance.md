@@ -1,9 +1,13 @@
 ---
 slug: $245000-doc-loo-typifies-culture-of-extravagance
-title: "$245,000 DOC loo typifies culture of extravagance"
-date: 2008-01-14
-source-url: https://www.scoop.co.nz/stories/PA0801/S00087/245000-doc-loo-typifies-culture-of-extravagance.htm
+title: $245,000 DOC loo typifies culture of extravagance
+date: 2008-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00087/245000-doc-loo-typifies-culture-of-extravagance.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/01/14/245-000-doc-loo-typifies-culture-of-extravagance/index.html
+layout: layout.njk
 ---
 $245,000 DOC loo typifies culture of extravagance
 =================================================

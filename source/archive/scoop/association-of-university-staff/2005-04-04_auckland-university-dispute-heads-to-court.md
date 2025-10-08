@@ -1,9 +1,12 @@
 ---
 slug: auckland-university-dispute-heads-to-court
-title: "Auckland University dispute heads to Court"
-date: 2005-04-04
-source-url: https://www.scoop.co.nz/stories/ED0504/S00009/auckland-university-dispute-heads-to-court.htm
+title: Auckland University dispute heads to Court
+date: 2005-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00009/auckland-university-dispute-heads-to-court.htm
 author: association-of-university-staff
+permalink: /archive/2005/04/04/auckland-university-dispute-heads-to-court/index.html
+layout: layout.njk
 ---
 Auckland University dispute heads to Court
 ==========================================

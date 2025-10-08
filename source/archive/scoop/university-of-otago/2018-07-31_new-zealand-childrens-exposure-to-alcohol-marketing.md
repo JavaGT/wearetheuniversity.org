@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-childrens-exposure-to-alcohol-marketing
-title: "New Zealand children’s exposure to alcohol marketing"
-date: 2018-07-31
-source-url: https://www.scoop.co.nz/stories/PO1807/S00371/new-zealand-childrens-exposure-to-alcohol-marketing.htm
+title: New Zealand children’s exposure to alcohol marketing
+date: 2018-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00371/new-zealand-childrens-exposure-to-alcohol-marketing.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/31/new-zealand-childrens-exposure-to-alcohol-marketing/index.html
+layout: layout.njk
 ---
 New Zealand children’s exposure to alcohol marketing
 ====================================================

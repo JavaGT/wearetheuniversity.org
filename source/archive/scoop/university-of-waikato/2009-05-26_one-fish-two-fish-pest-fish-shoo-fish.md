@@ -1,9 +1,12 @@
 ---
 slug: one-fish-two-fish-pest-fish-shoo-fish
-title: "One fish, two fish, pest fish, shoo fish"
-date: 2009-05-26
-source-url: https://www.scoop.co.nz/stories/SC0905/S00036/one-fish-two-fish-pest-fish-shoo-fish.htm
+title: One fish, two fish, pest fish, shoo fish
+date: 2009-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0905/S00036/one-fish-two-fish-pest-fish-shoo-fish.htm
 author: university-of-waikato
+permalink: /archive/2009/05/26/one-fish-two-fish-pest-fish-shoo-fish/index.html
+layout: layout.njk
 ---
 One fish, two fish, pest fish, shoo fish
 ========================================

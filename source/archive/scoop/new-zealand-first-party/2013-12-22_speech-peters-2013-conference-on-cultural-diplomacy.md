@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-2013-conference-on-cultural-diplomacy
-title: "Speech: Peters - 2013 Conference on Cultural Diplomacy"
-date: 2013-12-22
-source-url: https://www.scoop.co.nz/stories/PA1312/S00416/speech-peters-2013-conference-on-cultural-diplomacy.htm
+title: 'Speech: Peters - 2013 Conference on Cultural Diplomacy'
+date: 2013-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00416/speech-peters-2013-conference-on-cultural-diplomacy.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/12/22/speech-peters-2013-conference-on-cultural-diplomacy/index.html
+layout: layout.njk
 ---
 Speech: Peters - 2013 Conference on Cultural Diplomacy
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: universities-science-funding-concerns-confirmed
-title: "Universities’ Science Funding Concerns Confirmed"
-date: 2006-07-20
-source-url: https://www.scoop.co.nz/stories/ED0607/S00068/universities-science-funding-concerns-confirmed.htm
+title: Universities’ Science Funding Concerns Confirmed
+date: 2006-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00068/universities-science-funding-concerns-confirmed.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/07/20/universities-science-funding-concerns-confirmed/index.html
+layout: layout.njk
 ---
 Universities’ Science Funding Concerns Confirmed
 ================================================

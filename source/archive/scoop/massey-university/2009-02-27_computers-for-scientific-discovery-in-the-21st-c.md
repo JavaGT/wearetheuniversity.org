@@ -1,9 +1,13 @@
 ---
 slug: computers-for-scientific-discovery-in-the-21st-c
-title: "Computers for scientific discovery in the 21st C"
-date: 2009-02-27
-source-url: https://www.scoop.co.nz/stories/ED0902/S00100/computers-for-scientific-discovery-in-the-21st-c.htm
+title: Computers for scientific discovery in the 21st C
+date: 2009-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00100/computers-for-scientific-discovery-in-the-21st-c.htm
 author: massey-university
+permalink: >-
+  /archive/2009/02/27/computers-for-scientific-discovery-in-the-21st-c/index.html
+layout: layout.njk
 ---
 Computers for scientific discovery in the 21st C
 ================================================

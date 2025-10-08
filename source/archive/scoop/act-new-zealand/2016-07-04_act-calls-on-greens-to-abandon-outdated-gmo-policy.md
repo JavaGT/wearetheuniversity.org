@@ -1,9 +1,13 @@
 ---
 slug: act-calls-on-greens-to-abandon-outdated-gmo-policy
-title: "ACT calls on Greens to abandon outdated GMO policy"
-date: 2016-07-04
-source-url: https://www.scoop.co.nz/stories/PA1607/S00044/act-calls-on-greens-to-abandon-outdated-gmo-policy.htm
+title: ACT calls on Greens to abandon outdated GMO policy
+date: 2016-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00044/act-calls-on-greens-to-abandon-outdated-gmo-policy.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/07/04/act-calls-on-greens-to-abandon-outdated-gmo-policy/index.html
+layout: layout.njk
 ---
 ACT calls on Greens to abandon outdated GMO policy
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: covid-19-invasion-requires-a-war-time-response-says-māori-party
-title: "Covid-19 Invasion Requires A War Time Response, Says Māori Party"
-date: 2020-03-19
-source-url: https://www.scoop.co.nz/stories/PO2003/S00220/covid-19-invasion-requires-a-war-time-response-says-maori-party.htm
+title: Covid-19 Invasion Requires A War Time Response, Says Māori Party
+date: 2020-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2003/S00220/covid-19-invasion-requires-a-war-time-response-says-maori-party.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2020/03/19/covid-19-invasion-requires-a-war-time-response-says-m/index.html
+layout: layout.njk
 ---
 Covid-19 Invasion Requires A War Time Response, Says Māori Party
 ================================================================

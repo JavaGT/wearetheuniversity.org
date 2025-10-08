@@ -1,9 +1,12 @@
 ---
 slug: peters-bring-back-compulsory-military-training
-title: "Peters: Bring Back Compulsory Military Training"
-date: 2004-08-31
-source-url: https://www.scoop.co.nz/stories/PA0408/S00538/peters-bring-back-compulsory-military-training.htm
+title: 'Peters: Bring Back Compulsory Military Training'
+date: 2004-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00538/peters-bring-back-compulsory-military-training.htm
 author: new-zealand-first-party
+permalink: /archive/2004/08/31/peters-bring-back-compulsory-military-training/index.html
+layout: layout.njk
 ---
 Peters: Bring Back Compulsory Military Training
 ===============================================

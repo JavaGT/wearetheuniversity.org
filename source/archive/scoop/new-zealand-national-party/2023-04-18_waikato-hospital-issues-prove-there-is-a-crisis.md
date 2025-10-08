@@ -1,9 +1,12 @@
 ---
 slug: waikato-hospital-issues-prove-there-is-a-crisis
-title: "Waikato Hospital Issues Prove There Is A Crisis"
-date: 2023-04-18
-source-url: https://www.scoop.co.nz/stories/PA2304/S00112/waikato-hospital-issues-prove-there-is-a-crisis.htm
+title: Waikato Hospital Issues Prove There Is A Crisis
+date: 2023-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00112/waikato-hospital-issues-prove-there-is-a-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2023/04/18/waikato-hospital-issues-prove-there-is-a-crisis/index.html
+layout: layout.njk
 ---
 Waikato Hospital Issues Prove There Is A Crisis
 ===============================================

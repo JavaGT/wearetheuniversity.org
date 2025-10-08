@@ -1,9 +1,13 @@
 ---
 slug: uc-scientists-predict-alpine-fault-quake-to-destroy-highway
-title: "UC scientists predict Alpine Fault quake to destroy highway"
-date: 2015-11-11
-source-url: https://www.scoop.co.nz/stories/AK1511/S00275/uc-scientists-predict-alpine-fault-quake-to-destroy-highway.htm
+title: UC scientists predict Alpine Fault quake to destroy highway
+date: 2015-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1511/S00275/uc-scientists-predict-alpine-fault-quake-to-destroy-highway.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/11/11/uc-scientists-predict-alpine-fault-quake-to-destroy-highway/index.html
+layout: layout.njk
 ---
 UC scientists predict Alpine Fault quake to destroy highway
 ===========================================================

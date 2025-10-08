@@ -1,9 +1,13 @@
 ---
 slug: study-yields-teaching-ways-for-employees-with-down-syndrome
-title: "Study yields teaching ways for employees with Down syndrome"
-date: 2014-01-24
-source-url: https://www.scoop.co.nz/stories/GE1401/S00056/study-yields-teaching-ways-for-employees-with-down-syndrome.htm
+title: Study yields teaching ways for employees with Down syndrome
+date: 2014-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1401/S00056/study-yields-teaching-ways-for-employees-with-down-syndrome.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/24/study-yields-teaching-ways-for-employees-with-down-syndrome/index.html
+layout: layout.njk
 ---
 Study yields teaching ways for employees with Down syndrome
 ===========================================================

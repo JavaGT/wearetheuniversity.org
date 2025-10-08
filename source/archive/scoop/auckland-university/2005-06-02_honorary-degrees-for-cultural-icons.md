@@ -1,9 +1,12 @@
 ---
 slug: honorary-degrees-for-cultural-icons
-title: "Honorary degrees for cultural icons"
-date: 2005-06-02
-source-url: https://www.scoop.co.nz/stories/CU0506/S00025/honorary-degrees-for-cultural-icons.htm
+title: Honorary degrees for cultural icons
+date: 2005-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0506/S00025/honorary-degrees-for-cultural-icons.htm
 author: auckland-university
+permalink: /archive/2005/06/02/honorary-degrees-for-cultural-icons/index.html
+layout: layout.njk
 ---
 Honorary degrees for cultural icons
 ===================================

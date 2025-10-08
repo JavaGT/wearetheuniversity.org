@@ -1,9 +1,13 @@
 ---
 slug: solutions-needed-to-improve-lot-of-insecure-workers
-title: "Solutions needed to improve lot of insecure workers"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/PA1310/S00151/solutions-needed-to-improve-lot-of-insecure-workers.htm
+title: Solutions needed to improve lot of insecure workers
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00151/solutions-needed-to-improve-lot-of-insecure-workers.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/10/09/solutions-needed-to-improve-lot-of-insecure-workers/index.html
+layout: layout.njk
 ---
 Solutions needed to improve lot of insecure workers
 ===================================================

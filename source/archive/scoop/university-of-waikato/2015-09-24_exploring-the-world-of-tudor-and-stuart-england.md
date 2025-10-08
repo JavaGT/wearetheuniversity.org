@@ -1,9 +1,12 @@
 ---
 slug: exploring-the-world-of-tudor-and-stuart-england
-title: "Exploring the World of Tudor and Stuart England"
-date: 2015-09-24
-source-url: https://www.scoop.co.nz/stories/ED1509/S00140/exploring-the-world-of-tudor-and-stuart-england.htm
+title: Exploring the World of Tudor and Stuart England
+date: 2015-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00140/exploring-the-world-of-tudor-and-stuart-england.htm
 author: university-of-waikato
+permalink: /archive/2015/09/24/exploring-the-world-of-tudor-and-stuart-england/index.html
+layout: layout.njk
 ---
 Exploring the World of Tudor and Stuart England
 ===============================================

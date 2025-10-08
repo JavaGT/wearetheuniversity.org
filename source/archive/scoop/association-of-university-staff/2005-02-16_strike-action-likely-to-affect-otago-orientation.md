@@ -1,9 +1,13 @@
 ---
 slug: strike-action-likely-to-affect-otago-orientation
-title: "Strike action likely to affect Otago orientation"
-date: 2005-02-16
-source-url: https://www.scoop.co.nz/stories/ED0502/S00059/strike-action-likely-to-affect-otago-orientation.htm
+title: Strike action likely to affect Otago orientation
+date: 2005-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00059/strike-action-likely-to-affect-otago-orientation.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2005/02/16/strike-action-likely-to-affect-otago-orientation/index.html
+layout: layout.njk
 ---
 Strike action likely to affect Otago orientation
 ================================================

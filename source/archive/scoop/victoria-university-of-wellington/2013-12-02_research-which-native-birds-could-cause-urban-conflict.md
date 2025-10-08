@@ -1,9 +1,13 @@
 ---
 slug: research-which-native-birds-could-cause-urban-conflict
-title: "Research: Which native birds could cause urban conflict"
-date: 2013-12-02
-source-url: https://www.scoop.co.nz/stories/SC1312/S00005/research-which-native-birds-could-cause-urban-conflict.htm
+title: 'Research: Which native birds could cause urban conflict'
+date: 2013-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00005/research-which-native-birds-could-cause-urban-conflict.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/12/02/research-which-native-birds-could-cause-urban-conflict/index.html
+layout: layout.njk
 ---
 Research: Which native birds could cause urban conflict
 =======================================================

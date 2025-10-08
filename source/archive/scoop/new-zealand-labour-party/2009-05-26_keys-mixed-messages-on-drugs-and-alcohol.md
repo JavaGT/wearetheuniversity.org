@@ -1,9 +1,12 @@
 ---
 slug: keys-mixed-messages-on-drugs-and-alcohol
-title: "Key’s mixed messages on drugs and alcohol"
-date: 2009-05-26
-source-url: https://www.scoop.co.nz/stories/PA0905/S00438/keys-mixed-messages-on-drugs-and-alcohol.htm
+title: Key’s mixed messages on drugs and alcohol
+date: 2009-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00438/keys-mixed-messages-on-drugs-and-alcohol.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/26/keys-mixed-messages-on-drugs-and-alcohol/index.html
+layout: layout.njk
 ---
 Key’s mixed messages on drugs and alcohol
 =========================================

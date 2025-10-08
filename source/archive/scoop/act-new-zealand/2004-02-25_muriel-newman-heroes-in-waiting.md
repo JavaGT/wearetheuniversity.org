@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-heroes-in-waiting
-title: "Muriel Newman: Heroes In Waiting"
-date: 2004-02-25
-source-url: https://www.scoop.co.nz/stories/PA0402/S00450/muriel-newman-heroes-in-waiting.htm
+title: 'Muriel Newman: Heroes In Waiting'
+date: 2004-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00450/muriel-newman-heroes-in-waiting.htm
 author: act-new-zealand
+permalink: /archive/2004/02/25/muriel-newman-heroes-in-waiting/index.html
+layout: layout.njk
 ---
 Muriel Newman: Heroes In Waiting
 ================================

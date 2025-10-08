@@ -1,9 +1,13 @@
 ---
 slug: otago-research-sheds-new-light-on-bacterial-immune-system
-title: "Otago research sheds new light on  bacterial immune system"
-date: 2014-04-08
-source-url: https://www.scoop.co.nz/stories/SC1404/S00031/otago-research-sheds-new-light-on-bacterial-immune-system.htm
+title: Otago research sheds new light on  bacterial immune system
+date: 2014-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00031/otago-research-sheds-new-light-on-bacterial-immune-system.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/04/08/otago-research-sheds-new-light-on-bacterial-immune-system/index.html
+layout: layout.njk
 ---
 Otago research sheds new light on bacterial immune system
 =========================================================

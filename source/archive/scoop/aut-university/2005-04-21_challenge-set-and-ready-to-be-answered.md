@@ -1,9 +1,12 @@
 ---
 slug: challenge-set-and-ready-to-be-answered
-title: "Challenge set and ready to be answered"
-date: 2005-04-21
-source-url: https://www.scoop.co.nz/stories/CU0504/S00139/challenge-set-and-ready-to-be-answered.htm
+title: Challenge set and ready to be answered
+date: 2005-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0504/S00139/challenge-set-and-ready-to-be-answered.htm
 author: aut-university
+permalink: /archive/2005/04/21/challenge-set-and-ready-to-be-answered/index.html
+layout: layout.njk
 ---
 Challenge set and ready to be answered
 ======================================

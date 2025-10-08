@@ -1,9 +1,12 @@
 ---
 slug: major-support-for-innovative-otago-research
-title: "Major support for innovative Otago research"
-date: 2010-09-24
-source-url: https://www.scoop.co.nz/stories/ED1009/S00116/major-support-for-innovative-otago-research.htm
+title: Major support for innovative Otago research
+date: 2010-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00116/major-support-for-innovative-otago-research.htm
 author: university-of-otago
+permalink: /archive/2010/09/24/major-support-for-innovative-otago-research/index.html
+layout: layout.njk
 ---
 Major support for innovative Otago research
 ===========================================

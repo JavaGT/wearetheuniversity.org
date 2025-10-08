@@ -1,9 +1,13 @@
 ---
 slug: government-leave-subsidy-must-meet-three-key-tests
-title: "Government Leave Subsidy Must Meet Three Key Tests"
-date: 2020-04-24
-source-url: https://www.scoop.co.nz/stories/AK2004/S00559/government-leave-subsidy-must-meet-three-key-tests.htm
+title: Government Leave Subsidy Must Meet Three Key Tests
+date: 2020-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2004/S00559/government-leave-subsidy-must-meet-three-key-tests.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2020/04/24/government-leave-subsidy-must-meet-three-key-tests/index.html
+layout: layout.njk
 ---
 Government Leave Subsidy Must Meet Three Key Tests
 ==================================================

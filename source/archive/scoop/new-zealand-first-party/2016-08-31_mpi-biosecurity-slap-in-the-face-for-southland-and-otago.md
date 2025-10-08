@@ -1,9 +1,13 @@
 ---
 slug: mpi-biosecurity-slap-in-the-face-for-southland-and-otago
-title: "MPI Biosecurity Slap in the Face for Southland and Otago"
-date: 2016-08-31
-source-url: https://www.scoop.co.nz/stories/PA1608/S00550/mpi-biosecurity-slap-in-the-face-for-southland-and-otago.htm
+title: MPI Biosecurity Slap in the Face for Southland and Otago
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00550/mpi-biosecurity-slap-in-the-face-for-southland-and-otago.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/31/mpi-biosecurity-slap-in-the-face-for-southland-and-otago/index.html
+layout: layout.njk
 ---
 MPI Biosecurity Slap in the Face for Southland and Otago
 ========================================================

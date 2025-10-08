@@ -1,9 +1,12 @@
 ---
 slug: ignore-our-young-at-your-peril-says-maori-party
-title: "Ignore our Young at your peril says Maori Party"
-date: 2008-10-24
-source-url: https://www.scoop.co.nz/stories/PA0810/S00586/ignore-our-young-at-your-peril-says-maori-party.htm
+title: Ignore our Young at your peril says Maori Party
+date: 2008-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00586/ignore-our-young-at-your-peril-says-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2008/10/24/ignore-our-young-at-your-peril-says-maori-party/index.html
+layout: layout.njk
 ---
 Ignore our Young at your peril says Maori Party
 ===============================================

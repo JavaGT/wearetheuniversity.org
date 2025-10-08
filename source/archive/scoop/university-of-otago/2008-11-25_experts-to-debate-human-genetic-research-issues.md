@@ -1,9 +1,12 @@
 ---
 slug: experts-to-debate-human-genetic-research-issues
-title: "Experts to debate human genetic research issues"
-date: 2008-11-25
-source-url: https://www.scoop.co.nz/stories/SC0811/S00038/experts-to-debate-human-genetic-research-issues.htm
+title: Experts to debate human genetic research issues
+date: 2008-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0811/S00038/experts-to-debate-human-genetic-research-issues.htm
 author: university-of-otago
+permalink: /archive/2008/11/25/experts-to-debate-human-genetic-research-issues/index.html
+layout: layout.njk
 ---
 Experts to debate human genetic research issues
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: greater-package-and-focus-needed-in-education
-title: "Greater Package And Focus Needed In Education"
-date: 2020-04-08
-source-url: https://www.scoop.co.nz/stories/PA2004/S00047/greater-package-and-focus-needed-in-education.htm
+title: Greater Package And Focus Needed In Education
+date: 2020-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00047/greater-package-and-focus-needed-in-education.htm
 author: new-zealand-national-party
+permalink: /archive/2020/04/08/greater-package-and-focus-needed-in-education/index.html
+layout: layout.njk
 ---
 Greater Package And Focus Needed In Education
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-back-striking-teachers
-title: "Greens Back Striking Teachers"
-date: 2023-11-08
-source-url: https://www.scoop.co.nz/stories/PA2311/S00008/greens-back-striking-teachers.htm
+title: Greens Back Striking Teachers
+date: 2023-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2311/S00008/greens-back-striking-teachers.htm
 author: green-party
+permalink: /archive/2023/11/08/greens-back-striking-teachers/index.html
+layout: layout.njk
 ---
 Greens Back Striking Teachers
 =============================

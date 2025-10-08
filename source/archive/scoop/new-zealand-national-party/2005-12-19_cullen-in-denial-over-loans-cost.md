@@ -1,9 +1,12 @@
 ---
 slug: cullen-in-denial-over-loans-cost
-title: "Cullen in denial over loans cost"
-date: 2005-12-19
-source-url: https://www.scoop.co.nz/stories/PA0512/S00296/cullen-in-denial-over-loans-cost.htm
+title: Cullen in denial over loans cost
+date: 2005-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00296/cullen-in-denial-over-loans-cost.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/19/cullen-in-denial-over-loans-cost/index.html
+layout: layout.njk
 ---
 Cullen in denial over loans cost
 ================================

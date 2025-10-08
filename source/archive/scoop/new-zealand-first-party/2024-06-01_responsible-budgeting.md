@@ -1,9 +1,11 @@
 ---
 slug: responsible-budgeting
-title: "Responsible Budgeting"
-date: 2024-06-01
+title: Responsible Budgeting
+date: 2024-06-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2406/S00002/responsible-budgeting.htm
 author: new-zealand-first-party
+permalink: /archive/2024/06/01/responsible-budgeting/index.html
+layout: layout.njk
 ---
 Responsible Budgeting
 =====================

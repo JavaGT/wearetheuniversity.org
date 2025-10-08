@@ -1,9 +1,13 @@
 ---
 slug: vaccine-proves-cost-effective-but-coverage-needs-improving
-title: "Vaccine proves cost effective: but coverage needs improving"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/SC1404/S00056/vaccine-proves-cost-effective-but-coverage-needs-improving.htm
+title: 'Vaccine proves cost effective: but coverage needs improving'
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00056/vaccine-proves-cost-effective-but-coverage-needs-improving.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/04/15/vaccine-proves-cost-effective-but-coverage-needs-improving/index.html
+layout: layout.njk
 ---
 Vaccine proves cost effective: but coverage needs improving
 ===========================================================

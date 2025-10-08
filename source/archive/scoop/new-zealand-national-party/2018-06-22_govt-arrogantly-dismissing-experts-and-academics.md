@@ -1,9 +1,13 @@
 ---
 slug: govt-arrogantly-dismissing-experts-and-academics
-title: "Govt arrogantly dismissing experts and academics"
-date: 2018-06-22
-source-url: https://www.scoop.co.nz/stories/PA1806/S00240/govt-arrogantly-dismissing-experts-and-academics.htm
+title: Govt arrogantly dismissing experts and academics
+date: 2018-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00240/govt-arrogantly-dismissing-experts-and-academics.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/06/22/govt-arrogantly-dismissing-experts-and-academics/index.html
+layout: layout.njk
 ---
 Govt arrogantly dismissing experts and academics
 ================================================

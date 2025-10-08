@@ -1,9 +1,12 @@
 ---
 slug: waikato-professor-wins-agilent-foundation-grant
-title: "Waikato professor wins Agilent Foundation grant"
-date: 2009-02-17
-source-url: https://www.scoop.co.nz/stories/SC0902/S00039/waikato-professor-wins-agilent-foundation-grant.htm
+title: Waikato professor wins Agilent Foundation grant
+date: 2009-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0902/S00039/waikato-professor-wins-agilent-foundation-grant.htm
 author: university-of-waikato
+permalink: /archive/2009/02/17/waikato-professor-wins-agilent-foundation-grant/index.html
+layout: layout.njk
 ---
 Waikato professor wins Agilent Foundation grant
 ===============================================

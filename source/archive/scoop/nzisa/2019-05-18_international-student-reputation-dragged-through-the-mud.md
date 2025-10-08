@@ -1,9 +1,13 @@
 ---
 slug: international-student-reputation-dragged-through-the-mud
-title: "International Student reputation dragged through the mud"
-date: 2019-05-18
-source-url: https://www.scoop.co.nz/stories/PO1905/S00275/international-student-reputation-dragged-through-the-mud.htm
+title: International Student reputation dragged through the mud
+date: 2019-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1905/S00275/international-student-reputation-dragged-through-the-mud.htm
 author: nzisa
+permalink: >-
+  /archive/2019/05/18/international-student-reputation-dragged-through-the-mud/index.html
+layout: layout.njk
 ---
 International Student reputation dragged through the mud
 ========================================================

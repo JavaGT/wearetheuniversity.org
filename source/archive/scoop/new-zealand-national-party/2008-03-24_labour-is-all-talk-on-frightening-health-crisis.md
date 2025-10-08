@@ -1,9 +1,12 @@
 ---
 slug: labour-is-all-talk-on-frightening-health-crisis
-title: "Labour is all talk on ‘frightening’ health crisis"
-date: 2008-03-24
-source-url: https://www.scoop.co.nz/stories/PA0803/S00404/labour-is-all-talk-on-frightening-health-crisis.htm
+title: Labour is all talk on ‘frightening’ health crisis
+date: 2008-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00404/labour-is-all-talk-on-frightening-health-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/24/labour-is-all-talk-on-frightening-health-crisis/index.html
+layout: layout.njk
 ---
 Labour is all talk on ‘frightening’ health crisis
 =================================================

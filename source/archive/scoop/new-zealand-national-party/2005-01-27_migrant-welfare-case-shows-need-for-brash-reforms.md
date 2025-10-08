@@ -1,9 +1,13 @@
 ---
 slug: migrant-welfare-case-shows-need-for-brash-reforms
-title: "Migrant welfare case shows need for Brash reforms"
-date: 2005-01-27
-source-url: https://www.scoop.co.nz/stories/PA0501/S00242/migrant-welfare-case-shows-need-for-brash-reforms.htm
+title: Migrant welfare case shows need for Brash reforms
+date: 2005-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00242/migrant-welfare-case-shows-need-for-brash-reforms.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/01/27/migrant-welfare-case-shows-need-for-brash-reforms/index.html
+layout: layout.njk
 ---
 Migrant welfare case shows need for Brash reforms
 =================================================

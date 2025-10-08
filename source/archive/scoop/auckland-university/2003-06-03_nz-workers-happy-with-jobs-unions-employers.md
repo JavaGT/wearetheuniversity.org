@@ -1,9 +1,12 @@
 ---
 slug: nz-workers-happy-with-jobs-unions-employers
-title: "NZ Workers Happy With Jobs, Unions, Employers"
-date: 2003-06-03
-source-url: https://www.scoop.co.nz/stories/ED0306/S00001/nz-workers-happy-with-jobs-unions-employers.htm
+title: NZ Workers Happy With Jobs, Unions, Employers
+date: 2003-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00001/nz-workers-happy-with-jobs-unions-employers.htm
 author: auckland-university
+permalink: /archive/2003/06/03/nz-workers-happy-with-jobs-unions-employers/index.html
+layout: layout.njk
 ---
 NZ Workers Happy With Jobs, Unions, Employers
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: darien-fenton-valedictory-statement
-title: "Darien Fenton: Valedictory Statement"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/PA1407/S00505/darien-fenton-valedictory-statement.htm
+title: 'Darien Fenton: Valedictory Statement'
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00505/darien-fenton-valedictory-statement.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/24/darien-fenton-valedictory-statement/index.html
+layout: layout.njk
 ---
 Darien Fenton: Valedictory Statement
 ====================================

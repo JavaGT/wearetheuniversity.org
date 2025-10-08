@@ -1,9 +1,13 @@
 ---
 slug: otago-key-partner-in-asia-pacific-ties-strengthening-plans
-title: "Otago key partner in Asia-Pacific ties-strengthening plans"
-date: 2017-03-09
-source-url: https://www.scoop.co.nz/stories/ED1703/S00047/otago-key-partner-in-asia-pacific-ties-strengthening-plans.htm
+title: Otago key partner in Asia-Pacific ties-strengthening plans
+date: 2017-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00047/otago-key-partner-in-asia-pacific-ties-strengthening-plans.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/09/otago-key-partner-in-asia-pacific-ties-strengthening-plans/index.html
+layout: layout.njk
 ---
 Otago key partner in Asia-Pacific ties-strengthening plans
 ==========================================================

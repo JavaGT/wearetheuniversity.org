@@ -1,9 +1,12 @@
 ---
 slug: sentencing-and-parole-reform-bill
-title: "Sentencing and Parole Reform Bill"
-date: 2010-05-05
-source-url: https://www.scoop.co.nz/stories/PA1005/S00049/sentencing-and-parole-reform-bill.htm
+title: Sentencing and Parole Reform Bill
+date: 2010-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00049/sentencing-and-parole-reform-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/05/05/sentencing-and-parole-reform-bill/index.html
+layout: layout.njk
 ---
 Sentencing and Parole Reform Bill
 =================================

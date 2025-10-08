@@ -1,9 +1,13 @@
 ---
 slug: national-government-takes-a-deep-swipe-at-southerners
-title: "National Government Takes A Deep Swipe At Southerners"
-date: 2016-05-13
-source-url: https://www.scoop.co.nz/stories/PA1605/S00262/national-government-takes-a-deep-swipe-at-southerners.htm
+title: National Government Takes A Deep Swipe At Southerners
+date: 2016-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00262/national-government-takes-a-deep-swipe-at-southerners.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/05/13/national-government-takes-a-deep-swipe-at-southerners/index.html
+layout: layout.njk
 ---
 National Government Takes A Deep Swipe At Southerners
 =====================================================

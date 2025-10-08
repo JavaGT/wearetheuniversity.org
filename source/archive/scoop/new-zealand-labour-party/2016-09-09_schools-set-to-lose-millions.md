@@ -1,9 +1,11 @@
 ---
 slug: schools-set-to-lose-millions
-title: "Schools set to lose millions"
-date: 2016-09-09
+title: Schools set to lose millions
+date: 2016-09-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1609/S00174/schools-set-to-lose-millions.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/09/schools-set-to-lose-millions/index.html
+layout: layout.njk
 ---
 Schools set to lose millions
 ============================

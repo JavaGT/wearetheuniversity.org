@@ -1,9 +1,13 @@
 ---
 slug: labour-votes-against-law-to-notify-schools-of-sex-offenders
-title: "Labour Votes Against Law To Notify Schools Of Sex Offenders"
-date: 2021-03-25
-source-url: https://www.scoop.co.nz/stories/PA2103/S00193/labour-votes-against-law-to-notify-schools-of-sex-offenders.htm
+title: Labour Votes Against Law To Notify Schools Of Sex Offenders
+date: 2021-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00193/labour-votes-against-law-to-notify-schools-of-sex-offenders.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/03/25/labour-votes-against-law-to-notify-schools-of-sex-offenders/index.html
+layout: layout.njk
 ---
 Labour Votes Against Law To Notify Schools Of Sex Offenders
 ===========================================================

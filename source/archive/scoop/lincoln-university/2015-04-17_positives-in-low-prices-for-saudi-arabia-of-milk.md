@@ -1,9 +1,13 @@
 ---
 slug: positives-in-low-prices-for-saudi-arabia-of-milk
-title: "Positives in low prices for ‘Saudi Arabia of milk’"
-date: 2015-04-17
-source-url: https://www.scoop.co.nz/stories/BU1504/S00482/positives-in-low-prices-for-saudi-arabia-of-milk.htm
+title: Positives in low prices for ‘Saudi Arabia of milk’
+date: 2015-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1504/S00482/positives-in-low-prices-for-saudi-arabia-of-milk.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/04/17/positives-in-low-prices-for-saudi-arabia-of-milk/index.html
+layout: layout.njk
 ---
 Positives in low prices for ‘Saudi Arabia of milk’
 ==================================================

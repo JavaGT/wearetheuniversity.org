@@ -1,9 +1,12 @@
 ---
 slug: what-will-auckland-look-like-by-2036
-title: "What will Auckland look like by 2036?"
-date: 2013-09-03
-source-url: https://www.scoop.co.nz/stories/AK1309/S00066/what-will-auckland-look-like-by-2036.htm
+title: What will Auckland look like by 2036?
+date: 2013-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00066/what-will-auckland-look-like-by-2036.htm
 author: massey-university
+permalink: /archive/2013/09/03/what-will-auckland-look-like-by-2036/index.html
+layout: layout.njk
 ---
 What will Auckland look like by 2036?
 =====================================

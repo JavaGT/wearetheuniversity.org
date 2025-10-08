@@ -1,9 +1,12 @@
 ---
 slug: $850-fee-hike-at-lincoln-university
-title: "$850 Fee Hike At Lincoln University"
-date: 2001-07-31
-source-url: https://www.scoop.co.nz/stories/PA0107/S00529/850-fee-hike-at-lincoln-university.htm
+title: $850 Fee Hike At Lincoln University
+date: 2001-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00529/850-fee-hike-at-lincoln-university.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/31/850-fee-hike-at-lincoln-university/index.html
+layout: layout.njk
 ---
 $850 Fee Hike At Lincoln University
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: how-many-families-could-afford-asset-sales-shares
-title: "How many families could afford asset sales shares?"
-date: 2012-07-05
-source-url: https://www.scoop.co.nz/stories/PA1207/S00050/how-many-families-could-afford-asset-sales-shares.htm
+title: How many families could afford asset sales shares?
+date: 2012-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00050/how-many-families-could-afford-asset-sales-shares.htm
 author: green-party
+permalink: >-
+  /archive/2012/07/05/how-many-families-could-afford-asset-sales-shares/index.html
+layout: layout.njk
 ---
 How many families could afford asset sales shares?
 ==================================================

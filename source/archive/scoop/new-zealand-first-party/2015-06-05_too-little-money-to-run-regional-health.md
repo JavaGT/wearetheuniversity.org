@@ -1,9 +1,12 @@
 ---
 slug: too-little-money-to-run-regional-health
-title: "Too Little Money to Run Regional Health"
-date: 2015-06-05
-source-url: https://www.scoop.co.nz/stories/PA1506/S00106/too-little-money-to-run-regional-health.htm
+title: Too Little Money to Run Regional Health
+date: 2015-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00106/too-little-money-to-run-regional-health.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/05/too-little-money-to-run-regional-health/index.html
+layout: layout.njk
 ---
 Too Little Money to Run Regional Health
 =======================================

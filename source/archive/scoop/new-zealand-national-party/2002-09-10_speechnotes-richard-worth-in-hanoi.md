@@ -1,9 +1,12 @@
 ---
 slug: speechnotes-richard-worth-in-hanoi
-title: "Speechnotes: Richard Worth in Hanoi"
-date: 2002-09-10
-source-url: https://www.scoop.co.nz/stories/PA0209/S00137/speechnotes-richard-worth-in-hanoi.htm
+title: 'Speechnotes: Richard Worth in Hanoi'
+date: 2002-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00137/speechnotes-richard-worth-in-hanoi.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/10/speechnotes-richard-worth-in-hanoi/index.html
+layout: layout.njk
 ---
 Speechnotes: Richard Worth in Hanoi
 ===================================

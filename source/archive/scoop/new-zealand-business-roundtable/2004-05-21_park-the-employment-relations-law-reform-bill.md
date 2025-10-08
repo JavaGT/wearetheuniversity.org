@@ -1,9 +1,12 @@
 ---
 slug: park-the-employment-relations-law-reform-bill
-title: "Park the Employment Relations Law Reform Bill"
-date: 2004-05-21
-source-url: https://www.scoop.co.nz/stories/PO0405/S00219/park-the-employment-relations-law-reform-bill.htm
+title: Park the Employment Relations Law Reform Bill
+date: 2004-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00219/park-the-employment-relations-law-reform-bill.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/05/21/park-the-employment-relations-law-reform-bill/index.html
+layout: layout.njk
 ---
 Park the Employment Relations Law Reform Bill
 =============================================

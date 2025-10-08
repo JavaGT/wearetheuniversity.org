@@ -1,9 +1,13 @@
 ---
 slug: dairy-price-fall-continues-to-hit-neglected-regions
-title: "Dairy price fall continues to hit neglected regions"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/PA1506/S00264/dairy-price-fall-continues-to-hit-neglected-regions.htm
+title: Dairy price fall continues to hit neglected regions
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00264/dairy-price-fall-continues-to-hit-neglected-regions.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/06/17/dairy-price-fall-continues-to-hit-neglected-regions/index.html
+layout: layout.njk
 ---
 Dairy price fall continues to hit neglected regions
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-to-host-conference-on-ageing
-title: "Victoria University to host conference on ageing"
-date: 2000-07-27
-source-url: https://www.scoop.co.nz/stories/ED0007/S00037/victoria-university-to-host-conference-on-ageing.htm
+title: Victoria University to host conference on ageing
+date: 2000-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00037/victoria-university-to-host-conference-on-ageing.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/07/27/victoria-university-to-host-conference-on-ageing/index.html
+layout: layout.njk
 ---
 Victoria University to host conference on ageing
 ================================================

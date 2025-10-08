@@ -1,9 +1,12 @@
 ---
 slug: final-graduations-at-auckland-town-hall
-title: "Final Graduations At Auckland Town Hall"
-date: 2011-09-19
-source-url: https://www.scoop.co.nz/stories/ED1109/S00073/final-graduations-at-auckland-town-hall.htm
+title: Final Graduations At Auckland Town Hall
+date: 2011-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00073/final-graduations-at-auckland-town-hall.htm
 author: auckland-university
+permalink: /archive/2011/09/19/final-graduations-at-auckland-town-hall/index.html
+layout: layout.njk
 ---
 Final Graduations At Auckland Town Hall
 =======================================

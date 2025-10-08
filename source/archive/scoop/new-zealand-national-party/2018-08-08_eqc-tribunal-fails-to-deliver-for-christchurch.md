@@ -1,9 +1,12 @@
 ---
 slug: eqc-tribunal-fails-to-deliver-for-christchurch
-title: "EQC Tribunal fails to deliver for Christchurch"
-date: 2018-08-08
-source-url: https://www.scoop.co.nz/stories/PA1808/S00094/eqc-tribunal-fails-to-deliver-for-christchurch.htm
+title: EQC Tribunal fails to deliver for Christchurch
+date: 2018-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00094/eqc-tribunal-fails-to-deliver-for-christchurch.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/08/eqc-tribunal-fails-to-deliver-for-christchurch/index.html
+layout: layout.njk
 ---
 EQC Tribunal fails to deliver for Christchurch
 ==============================================

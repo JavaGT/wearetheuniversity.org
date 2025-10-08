@@ -1,9 +1,12 @@
 ---
 slug: ue-bar-hike-denies-access-to-thousands
-title: "UE bar hike denies access to thousands"
-date: 2015-01-30
-source-url: https://www.scoop.co.nz/stories/PA1501/S00155/ue-bar-hike-denies-access-to-thousands.htm
+title: UE bar hike denies access to thousands
+date: 2015-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00155/ue-bar-hike-denies-access-to-thousands.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/01/30/ue-bar-hike-denies-access-to-thousands/index.html
+layout: layout.njk
 ---
 UE bar hike denies access to thousands
 ======================================

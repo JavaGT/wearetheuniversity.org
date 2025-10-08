@@ -1,9 +1,12 @@
 ---
 slug: story-of-brazils-diverse-languages-and-people
-title: "Story of Brazil’s diverse languages and people"
-date: 2015-09-24
-source-url: https://www.scoop.co.nz/stories/ED1509/S00144/story-of-brazils-diverse-languages-and-people.htm
+title: Story of Brazil’s diverse languages and people
+date: 2015-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00144/story-of-brazils-diverse-languages-and-people.htm
 author: massey-university
+permalink: /archive/2015/09/24/story-of-brazils-diverse-languages-and-people/index.html
+layout: layout.njk
 ---
 Story of Brazil’s diverse languages and people
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: time-for-maori-party-to-stand-up
-title: "Time for Maori Party to stand up"
-date: 2009-07-24
-source-url: https://www.scoop.co.nz/stories/PA0907/S00282/time-for-maori-party-to-stand-up.htm
+title: Time for Maori Party to stand up
+date: 2009-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00282/time-for-maori-party-to-stand-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/24/time-for-maori-party-to-stand-up/index.html
+layout: layout.njk
 ---
 Time for Maori Party to stand up
 ================================

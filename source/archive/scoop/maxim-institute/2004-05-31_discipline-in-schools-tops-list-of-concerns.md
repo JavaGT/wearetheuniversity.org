@@ -1,9 +1,12 @@
 ---
 slug: discipline-in-schools-tops-list-of-concerns
-title: "Discipline in schools tops list of concerns"
-date: 2004-05-31
-source-url: https://www.scoop.co.nz/stories/PO0405/S00319/discipline-in-schools-tops-list-of-concerns.htm
+title: Discipline in schools tops list of concerns
+date: 2004-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00319/discipline-in-schools-tops-list-of-concerns.htm
 author: maxim-institute
+permalink: /archive/2004/05/31/discipline-in-schools-tops-list-of-concerns/index.html
+layout: layout.njk
 ---
 Discipline in schools tops list of concerns
 ===========================================

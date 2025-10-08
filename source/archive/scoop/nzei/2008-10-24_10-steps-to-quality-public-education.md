@@ -1,9 +1,12 @@
 ---
 slug: 10-steps-to-quality-public-education
-title: "10 Steps To Quality Public Education"
-date: 2008-10-24
-source-url: https://www.scoop.co.nz/stories/BU0810/S00531/10-steps-to-quality-public-education.htm
+title: 10 Steps To Quality Public Education
+date: 2008-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0810/S00531/10-steps-to-quality-public-education.htm
 author: nzei
+permalink: /archive/2008/10/24/10-steps-to-quality-public-education/index.html
+layout: layout.njk
 ---
 10 Steps To Quality Public Education
 ====================================

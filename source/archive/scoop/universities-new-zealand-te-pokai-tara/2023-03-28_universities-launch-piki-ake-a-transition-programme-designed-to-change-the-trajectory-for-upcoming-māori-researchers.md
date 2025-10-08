@@ -1,9 +1,16 @@
 ---
-slug: universities-launch-piki-ake-a-transition-programme-designed-to-change-the-trajectory-for-upcoming-māori-researchers
-title: "Universities Launch ‘Piki Ake’: A Transition Programme Designed To Change The Trajectory For Upcoming Māori Researchers"
-date: 2023-03-28
-source-url: https://www.scoop.co.nz/stories/ED2303/S00043/universities-launch-piki-ake-a-transition-programme-designed-to-change-the-trajectory-for-upcoming-maori-researchers.htm
+slug: >-
+  universities-launch-piki-ake-a-transition-programme-designed-to-change-the-trajectory-for-upcoming-māori-researchers
+title: >-
+  Universities Launch ‘Piki Ake’: A Transition Programme Designed To Change The
+  Trajectory For Upcoming Māori Researchers
+date: 2023-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00043/universities-launch-piki-ake-a-transition-programme-designed-to-change-the-trajectory-for-upcoming-maori-researchers.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/03/28/universities-launch-piki-ake-a-transition-programme-designed-to-change-the-trajectory-for-upcoming-m/index.html
+layout: layout.njk
 ---
 Universities Launch ‘Piki Ake’: A Transition Programme Designed To Change The Trajectory For Upcoming Māori Researchers
 =======================================================================================================================

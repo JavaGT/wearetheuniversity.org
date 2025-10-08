@@ -1,9 +1,12 @@
 ---
 slug: speech-turia-transport-amendment
-title: "Speech: Turia -  Transport Amendment"
-date: 2009-06-03
-source-url: https://www.scoop.co.nz/stories/PA0906/S00029/speech-turia-transport-amendment.htm
+title: 'Speech: Turia -  Transport Amendment'
+date: 2009-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00029/speech-turia-transport-amendment.htm
 author: te-pati-maori
+permalink: /archive/2009/06/03/speech-turia-transport-amendment/index.html
+layout: layout.njk
 ---
 Speech: Turia - Transport Amendment
 ===================================

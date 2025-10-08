@@ -1,9 +1,11 @@
 ---
 slug: pm-must-listen-to-ratepayers
-title: "PM Must Listen To Ratepayers"
-date: 2003-08-04
+title: PM Must Listen To Ratepayers
+date: 2003-08-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0308/S00034/pm-must-listen-to-ratepayers.htm
 author: act-new-zealand
+permalink: /archive/2003/08/04/pm-must-listen-to-ratepayers/index.html
+layout: layout.njk
 ---
 PM Must Listen To Ratepayers
 ============================

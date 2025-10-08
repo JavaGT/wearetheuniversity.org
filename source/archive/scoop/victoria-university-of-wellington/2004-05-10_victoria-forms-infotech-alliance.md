@@ -1,9 +1,12 @@
 ---
 slug: victoria-forms-infotech-alliance
-title: "Victoria forms infotech alliance"
-date: 2004-05-10
-source-url: https://www.scoop.co.nz/stories/ED0405/S00034/victoria-forms-infotech-alliance.htm
+title: Victoria forms infotech alliance
+date: 2004-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00034/victoria-forms-infotech-alliance.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/05/10/victoria-forms-infotech-alliance/index.html
+layout: layout.njk
 ---
 Victoria forms infotech alliance
 ================================

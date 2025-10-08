@@ -1,9 +1,12 @@
 ---
 slug: greens-moot-tougher-penalties-for-polluters
-title: "Greens moot tougher penalties for polluters"
-date: 2008-08-17
-source-url: https://www.scoop.co.nz/stories/PA0808/S00263/greens-moot-tougher-penalties-for-polluters.htm
+title: Greens moot tougher penalties for polluters
+date: 2008-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00263/greens-moot-tougher-penalties-for-polluters.htm
 author: green-party
+permalink: /archive/2008/08/17/greens-moot-tougher-penalties-for-polluters/index.html
+layout: layout.njk
 ---
 Greens moot tougher penalties for polluters
 ===========================================

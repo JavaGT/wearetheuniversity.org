@@ -1,9 +1,12 @@
 ---
 slug: nzmsa-disappointed-by-lack-of-student-input
-title: "NZMSA disappointed by lack of student input"
-date: 2019-05-16
-source-url: https://www.scoop.co.nz/stories/GE1905/S00068/nzmsa-disappointed-by-lack-of-student-input.htm
+title: NZMSA disappointed by lack of student input
+date: 2019-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1905/S00068/nzmsa-disappointed-by-lack-of-student-input.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: /archive/2019/05/16/nzmsa-disappointed-by-lack-of-student-input/index.html
+layout: layout.njk
 ---
 NZMSA disappointed by lack of student input
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-candidate-joins-underdog-national-party-in-opposing-labour-government
-title: "Labour Candidate Joins Underdog National Party In Opposing Labour Government"
-date: 2022-11-02
-source-url: https://www.scoop.co.nz/stories/PA2211/S00016/labour-candidate-joins-underdog-national-party-in-opposing-labour-government.htm
+title: Labour Candidate Joins Underdog National Party In Opposing Labour Government
+date: 2022-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00016/labour-candidate-joins-underdog-national-party-in-opposing-labour-government.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/11/02/labour-candidate-joins-underdog-national-party-in-opposing-labour-government/index.html
+layout: layout.njk
 ---
 Labour Candidate Joins Underdog National Party In Opposing Labour Government
 ============================================================================

@@ -1,9 +1,11 @@
 ---
 slug: new-dental-degree-at-aut
-title: "New Dental Degree At AUT"
-date: 2001-11-05
+title: New Dental Degree At AUT
+date: 2001-11-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0111/S00005/new-dental-degree-at-aut.htm
 author: aut-university
+permalink: /archive/2001/11/05/new-dental-degree-at-aut/index.html
+layout: layout.njk
 ---
 New Dental Degree At AUT
 ========================

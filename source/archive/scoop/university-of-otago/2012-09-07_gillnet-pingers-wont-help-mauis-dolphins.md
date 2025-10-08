@@ -1,9 +1,12 @@
 ---
 slug: gillnet-pingers-wont-help-mauis-dolphins
-title: "Gillnet pingers won’t help Maui’s dolphins"
-date: 2012-09-07
-source-url: https://www.scoop.co.nz/stories/SC1209/S00007/gillnet-pingers-wont-help-mauis-dolphins.htm
+title: Gillnet pingers won’t help Maui’s dolphins
+date: 2012-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00007/gillnet-pingers-wont-help-mauis-dolphins.htm
 author: university-of-otago
+permalink: /archive/2012/09/07/gillnet-pingers-wont-help-mauis-dolphins/index.html
+layout: layout.njk
 ---
 Gillnet pingers won’t help Maui’s dolphins
 ==========================================

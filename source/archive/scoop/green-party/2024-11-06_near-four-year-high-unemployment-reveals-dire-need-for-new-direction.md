@@ -1,9 +1,13 @@
 ---
 slug: near-four-year-high-unemployment-reveals-dire-need-for-new-direction
-title: "Near Four-year High Unemployment Reveals Dire Need For New Direction"
-date: 2024-11-06
-source-url: https://www.scoop.co.nz/stories/PA2411/S00037/near-four-year-high-unemployment-reveals-dire-need-for-new-direction.htm
+title: Near Four-year High Unemployment Reveals Dire Need For New Direction
+date: 2024-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00037/near-four-year-high-unemployment-reveals-dire-need-for-new-direction.htm
 author: green-party
+permalink: >-
+  /archive/2024/11/06/near-four-year-high-unemployment-reveals-dire-need-for-new-direction/index.html
+layout: layout.njk
 ---
 Near Four-year High Unemployment Reveals Dire Need For New Direction
 ====================================================================

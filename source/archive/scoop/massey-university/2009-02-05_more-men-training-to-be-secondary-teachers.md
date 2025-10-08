@@ -1,9 +1,12 @@
 ---
 slug: more-men-training-to-be-secondary-teachers
-title: "More men training to be secondary teachers"
-date: 2009-02-05
-source-url: https://www.scoop.co.nz/stories/ED0902/S00015/more-men-training-to-be-secondary-teachers.htm
+title: More men training to be secondary teachers
+date: 2009-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00015/more-men-training-to-be-secondary-teachers.htm
 author: massey-university
+permalink: /archive/2009/02/05/more-men-training-to-be-secondary-teachers/index.html
+layout: layout.njk
 ---
 More men training to be secondary teachers
 ==========================================

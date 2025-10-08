@@ -1,9 +1,12 @@
 ---
 slug: loss-of-$102k-on-wsu-orientation-is-no-service
-title: "Loss of $102K on WSU orientation is no ‘service’"
-date: 2010-04-16
-source-url: https://www.scoop.co.nz/stories/PO1004/S00161/loss-of-102k-on-wsu-orientation-is-no-service.htm
+title: Loss of $102K on WSU orientation is no ‘service’
+date: 2010-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1004/S00161/loss-of-102k-on-wsu-orientation-is-no-service.htm
 author: student-choice
+permalink: /archive/2010/04/16/loss-of-/index.html
+layout: layout.njk
 ---
 Loss of $102K on WSU orientation is no ‘service’
 ================================================

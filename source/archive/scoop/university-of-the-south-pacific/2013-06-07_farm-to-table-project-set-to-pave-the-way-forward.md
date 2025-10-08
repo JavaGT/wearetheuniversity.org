@@ -1,9 +1,13 @@
 ---
 slug: farm-to-table-project-set-to-pave-the-way-forward
-title: "Farm to Table Project Set to Pave the Way Forward"
-date: 2013-06-07
-source-url: https://www.scoop.co.nz/stories/WO1306/S00164/farm-to-table-project-set-to-pave-the-way-forward.htm
+title: Farm to Table Project Set to Pave the Way Forward
+date: 2013-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1306/S00164/farm-to-table-project-set-to-pave-the-way-forward.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2013/06/07/farm-to-table-project-set-to-pave-the-way-forward/index.html
+layout: layout.njk
 ---
 Farm to Table Project Set to Pave the Way Forward
 =================================================

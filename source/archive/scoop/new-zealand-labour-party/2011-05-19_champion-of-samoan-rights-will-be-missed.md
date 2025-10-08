@@ -1,9 +1,12 @@
 ---
 slug: champion-of-samoan-rights-will-be-missed
-title: "Champion of Samoan rights will be missed"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PA1105/S00394/champion-of-samoan-rights-will-be-missed.htm
+title: Champion of Samoan rights will be missed
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00394/champion-of-samoan-rights-will-be-missed.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/19/champion-of-samoan-rights-will-be-missed/index.html
+layout: layout.njk
 ---
 Champion of Samoan rights will be missed
 ========================================

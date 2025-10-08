@@ -1,9 +1,12 @@
 ---
 slug: major-health-research-funding-boost
-title: "Major Health Research Funding Boost"
-date: 2004-06-03
-source-url: https://www.scoop.co.nz/stories/ED0406/S00010/major-health-research-funding-boost.htm
+title: Major Health Research Funding Boost
+date: 2004-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00010/major-health-research-funding-boost.htm
 author: university-of-otago
+permalink: /archive/2004/06/03/major-health-research-funding-boost/index.html
+layout: layout.njk
 ---
 Major Health Research Funding Boost
 ===================================

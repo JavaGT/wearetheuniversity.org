@@ -1,9 +1,12 @@
 ---
 slug: sir-owen-glenn-gifts-$2-6-million-to-university-of-auckland
-title: "Sir Owen Glenn gifts $2.6 million to University of Auckland"
-date: 2017-02-28
-source-url: https://www.scoop.co.nz/stories/ED1702/S00082/sir-owen-glenn-gifts-26-million-to-university-of-auckland.htm
+title: Sir Owen Glenn gifts $2.6 million to University of Auckland
+date: 2017-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00082/sir-owen-glenn-gifts-26-million-to-university-of-auckland.htm
 author: university-of-auckland-business-school
+permalink: /archive/2017/02/28/sir-owen-glenn-gifts-/index.html
+layout: layout.njk
 ---
 Sir Owen Glenn gifts $2.6 million to University of Auckland
 ===========================================================

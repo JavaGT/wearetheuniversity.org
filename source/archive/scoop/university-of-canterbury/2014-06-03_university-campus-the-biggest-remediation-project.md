@@ -1,9 +1,13 @@
 ---
 slug: university-campus-the-biggest-remediation-project
-title: "University campus the biggest remediation project"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/AK1406/S00014/university-campus-the-biggest-remediation-project.htm
+title: University campus the biggest remediation project
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00014/university-campus-the-biggest-remediation-project.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/03/university-campus-the-biggest-remediation-project/index.html
+layout: layout.njk
 ---
 University campus the biggest remediation project
 =================================================

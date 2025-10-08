@@ -1,9 +1,12 @@
 ---
 slug: free-mental-health-support-for-youth-in-porirua
-title: "Free mental health support for youth in Porirua"
-date: 2019-02-11
-source-url: https://www.scoop.co.nz/stories/PA1902/S00075/free-mental-health-support-for-youth-in-porirua.htm
+title: Free mental health support for youth in Porirua
+date: 2019-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00075/free-mental-health-support-for-youth-in-porirua.htm
 author: green-party
+permalink: /archive/2019/02/11/free-mental-health-support-for-youth-in-porirua/index.html
+layout: layout.njk
 ---
 Free mental health support for youth in Porirua
 ===============================================

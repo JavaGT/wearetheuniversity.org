@@ -1,9 +1,13 @@
 ---
 slug: kiwi-lands-job-at-international-whaling-commission
-title: "Kiwi Lands Job at International Whaling Commission"
-date: 2018-03-26
-source-url: https://www.scoop.co.nz/stories/ED1803/S00077/kiwi-lands-job-at-international-whaling-commission.htm
+title: Kiwi Lands Job at International Whaling Commission
+date: 2018-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00077/kiwi-lands-job-at-international-whaling-commission.htm
 author: massey-university
+permalink: >-
+  /archive/2018/03/26/kiwi-lands-job-at-international-whaling-commission/index.html
+layout: layout.njk
 ---
 Kiwi Lands Job at International Whaling Commission
 ==================================================

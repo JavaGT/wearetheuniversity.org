@@ -1,9 +1,13 @@
 ---
 slug: green-party-a-strong-opposition-to-divisive-government
-title: "Green Party A Strong Opposition To Divisive Government"
-date: 2023-11-24
-source-url: https://www.scoop.co.nz/stories/PA2311/S00017/green-party-a-strong-opposition-to-divisive-government.htm
+title: Green Party A Strong Opposition To Divisive Government
+date: 2023-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2311/S00017/green-party-a-strong-opposition-to-divisive-government.htm
 author: green-party
+permalink: >-
+  /archive/2023/11/24/green-party-a-strong-opposition-to-divisive-government/index.html
+layout: layout.njk
 ---
 Green Party A Strong Opposition To Divisive Government
 ======================================================

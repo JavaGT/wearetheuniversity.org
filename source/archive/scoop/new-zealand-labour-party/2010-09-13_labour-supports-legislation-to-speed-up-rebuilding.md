@@ -1,9 +1,13 @@
 ---
 slug: labour-supports-legislation-to-speed-up-rebuilding
-title: "Labour supports legislation to speed up rebuilding"
-date: 2010-09-13
-source-url: https://www.scoop.co.nz/stories/PA1009/S00199/labour-supports-legislation-to-speed-up-rebuilding.htm
+title: Labour supports legislation to speed up rebuilding
+date: 2010-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00199/labour-supports-legislation-to-speed-up-rebuilding.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/09/13/labour-supports-legislation-to-speed-up-rebuilding/index.html
+layout: layout.njk
 ---
 Labour supports legislation to speed up rebuilding
 ==================================================

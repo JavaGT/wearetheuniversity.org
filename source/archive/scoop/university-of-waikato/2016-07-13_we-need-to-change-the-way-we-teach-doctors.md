@@ -1,9 +1,12 @@
 ---
 slug: we-need-to-change-the-way-we-teach-doctors
-title: "We need to change the way we teach doctors"
-date: 2016-07-13
-source-url: https://www.scoop.co.nz/stories/GE1607/S00044/we-need-to-change-the-way-we-teach-doctors.htm
+title: We need to change the way we teach doctors
+date: 2016-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1607/S00044/we-need-to-change-the-way-we-teach-doctors.htm
 author: university-of-waikato
+permalink: /archive/2016/07/13/we-need-to-change-the-way-we-teach-doctors/index.html
+layout: layout.njk
 ---
 We need to change the way we teach doctors
 ==========================================

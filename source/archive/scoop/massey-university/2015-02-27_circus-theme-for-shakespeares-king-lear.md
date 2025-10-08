@@ -1,9 +1,12 @@
 ---
 slug: circus-theme-for-shakespeares-king-lear
-title: "Circus theme for Shakespeare’s King Lear"
-date: 2015-02-27
-source-url: https://www.scoop.co.nz/stories/CU1502/S00567/circus-theme-for-shakespeares-king-lear.htm
+title: Circus theme for Shakespeare’s King Lear
+date: 2015-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00567/circus-theme-for-shakespeares-king-lear.htm
 author: massey-university
+permalink: /archive/2015/02/27/circus-theme-for-shakespeares-king-lear/index.html
+layout: layout.njk
 ---
 Circus theme for Shakespeare’s King Lear
 ========================================

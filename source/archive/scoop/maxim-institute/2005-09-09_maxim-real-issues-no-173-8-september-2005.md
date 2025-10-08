@@ -1,9 +1,12 @@
 ---
 slug: maxim-real-issues-no-173-8-september-2005
-title: "Maxim Real Issues No. 173,   8 SEPTEMBER 2005"
-date: 2005-09-09
-source-url: https://www.scoop.co.nz/stories/PO0509/S00096/maxim-real-issues-no-173-8-september-2005.htm
+title: Maxim Real Issues No. 173,   8 SEPTEMBER 2005
+date: 2005-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0509/S00096/maxim-real-issues-no-173-8-september-2005.htm
 author: maxim-institute
+permalink: /archive/2005/09/09/maxim-real-issues-no-173-8-september-2005/index.html
+layout: layout.njk
 ---
 Maxim Real Issues No. 173, 8 SEPTEMBER 2005
 ===========================================

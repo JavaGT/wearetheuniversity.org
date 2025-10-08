@@ -1,9 +1,12 @@
 ---
 slug: pm-labour-party-rally-wellington-speech
-title: "PM: Labour Party Rally Wellington Speech"
-date: 2008-10-20
-source-url: https://www.scoop.co.nz/stories/PA0810/S00437/pm-labour-party-rally-wellington-speech.htm
+title: 'PM: Labour Party Rally Wellington Speech'
+date: 2008-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00437/pm-labour-party-rally-wellington-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/20/pm-labour-party-rally-wellington-speech/index.html
+layout: layout.njk
 ---
 PM: Labour Party Rally Wellington Speech
 ========================================

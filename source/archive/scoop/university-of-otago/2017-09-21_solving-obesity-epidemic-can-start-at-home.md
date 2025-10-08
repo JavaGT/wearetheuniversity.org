@@ -1,9 +1,12 @@
 ---
 slug: solving-obesity-epidemic-can-start-at-home
-title: "Solving obesity epidemic can start at home"
-date: 2017-09-21
-source-url: https://www.scoop.co.nz/stories/SC1709/S00031/solving-obesity-epidemic-can-start-at-home.htm
+title: Solving obesity epidemic can start at home
+date: 2017-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1709/S00031/solving-obesity-epidemic-can-start-at-home.htm
 author: university-of-otago
+permalink: /archive/2017/09/21/solving-obesity-epidemic-can-start-at-home/index.html
+layout: layout.njk
 ---
 Solving obesity epidemic can start at home
 ==========================================

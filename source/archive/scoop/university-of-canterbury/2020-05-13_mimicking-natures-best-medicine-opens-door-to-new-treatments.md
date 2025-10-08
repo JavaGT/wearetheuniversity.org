@@ -1,9 +1,13 @@
 ---
 slug: mimicking-natures-best-medicine-opens-door-to-new-treatments
-title: "Mimicking Nature’s Best Medicine Opens Door To New Treatments"
-date: 2020-05-13
-source-url: https://www.scoop.co.nz/stories/SC2005/S00026/mimicking-natures-best-medicine-opens-door-to-new-treatments.htm
+title: Mimicking Nature’s Best Medicine Opens Door To New Treatments
+date: 2020-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2005/S00026/mimicking-natures-best-medicine-opens-door-to-new-treatments.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/13/mimicking-natures-best-medicine-opens-door-to-new-treatments/index.html
+layout: layout.njk
 ---
 Mimicking Nature’s Best Medicine Opens Door To New Treatments
 =============================================================

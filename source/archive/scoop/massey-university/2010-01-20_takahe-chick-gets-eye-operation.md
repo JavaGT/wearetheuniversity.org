@@ -1,9 +1,12 @@
 ---
 slug: takahe-chick-gets-eye-operation
-title: "Takahe Chick Gets Eye Operation"
-date: 2010-01-20
-source-url: https://www.scoop.co.nz/stories/ED1001/S00022/takahe-chick-gets-eye-operation.htm
+title: Takahe Chick Gets Eye Operation
+date: 2010-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00022/takahe-chick-gets-eye-operation.htm
 author: massey-university
+permalink: /archive/2010/01/20/takahe-chick-gets-eye-operation/index.html
+layout: layout.njk
 ---
 Takahe Chick Gets Eye Operation
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: nzbr-perspectives-no-138-november-2007
-title: "NZBR Perspectives - No. 138 November 2007"
-date: 2007-11-14
-source-url: https://www.scoop.co.nz/stories/BU0711/S00282/nzbr-perspectives-no-138-november-2007.htm
+title: NZBR Perspectives - No. 138 November 2007
+date: 2007-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0711/S00282/nzbr-perspectives-no-138-november-2007.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/11/14/nzbr-perspectives-no-138-november-2007/index.html
+layout: layout.njk
 ---
 NZBR Perspectives - No. 138 November 2007
 =========================================

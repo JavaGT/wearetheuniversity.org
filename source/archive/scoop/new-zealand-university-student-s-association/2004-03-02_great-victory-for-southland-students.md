@@ -1,9 +1,12 @@
 ---
 slug: great-victory-for-southland-students
-title: "Great victory for Southland students"
-date: 2004-03-02
-source-url: https://www.scoop.co.nz/stories/ED0403/S00013/great-victory-for-southland-students.htm
+title: Great victory for Southland students
+date: 2004-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00013/great-victory-for-southland-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/03/02/great-victory-for-southland-students/index.html
+layout: layout.njk
 ---
 Great victory for Southland students
 ====================================

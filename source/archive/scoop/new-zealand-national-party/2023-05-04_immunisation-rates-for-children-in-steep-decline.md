@@ -1,9 +1,13 @@
 ---
 slug: immunisation-rates-for-children-in-steep-decline
-title: "Immunisation Rates For Children In Steep Decline"
-date: 2023-05-04
-source-url: https://www.scoop.co.nz/stories/PA2305/S00027/immunisation-rates-for-children-in-steep-decline.htm
+title: Immunisation Rates For Children In Steep Decline
+date: 2023-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00027/immunisation-rates-for-children-in-steep-decline.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/05/04/immunisation-rates-for-children-in-steep-decline/index.html
+layout: layout.njk
 ---
 Immunisation Rates For Children In Steep Decline
 ================================================

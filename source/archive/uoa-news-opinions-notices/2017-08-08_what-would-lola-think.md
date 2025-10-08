@@ -1,8 +1,11 @@
 ---
 slug: what-would-lola-think
-title: "What would Lola think?"
-date: 2017-08-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/what-would-lola-think-.html
+title: What would Lola think?
+date: 2017-08-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/what-would-lola-think-.html
+permalink: /archive/2017/08/08/what-would-lola-think/index.html
+layout: layout.njk
 ---
 What would Lola think?
 ======================

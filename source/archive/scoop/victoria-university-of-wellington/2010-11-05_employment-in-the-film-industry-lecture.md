@@ -1,9 +1,12 @@
 ---
 slug: employment-in-the-film-industry-lecture
-title: "Employment in the film industry lecture"
-date: 2010-11-05
-source-url: https://www.scoop.co.nz/stories/CU1011/S00093/employment-in-the-film-industry-lecture.htm
+title: Employment in the film industry lecture
+date: 2010-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1011/S00093/employment-in-the-film-industry-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/11/05/employment-in-the-film-industry-lecture/index.html
+layout: layout.njk
 ---
 Employment in the film industry lecture
 =======================================

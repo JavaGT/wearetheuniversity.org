@@ -1,9 +1,12 @@
 ---
 slug: surge-in-auckland-meth-supply-continues
-title: "Surge in Auckland Meth Supply Continues"
-date: 2017-08-02
-source-url: https://www.scoop.co.nz/stories/ED1708/S00004/surge-in-auckland-meth-supply-continues.htm
+title: Surge in Auckland Meth Supply Continues
+date: 2017-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00004/surge-in-auckland-meth-supply-continues.htm
 author: massey-university
+permalink: /archive/2017/08/02/surge-in-auckland-meth-supply-continues/index.html
+layout: layout.njk
 ---
 Surge in Auckland Meth Supply Continues
 =======================================

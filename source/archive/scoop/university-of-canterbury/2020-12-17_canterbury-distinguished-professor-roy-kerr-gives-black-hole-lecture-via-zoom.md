@@ -1,9 +1,13 @@
 ---
 slug: canterbury-distinguished-professor-roy-kerr-gives-black-hole-lecture-via-zoom
-title: "Canterbury Distinguished Professor Roy Kerr Gives Black Hole Lecture Via Zoom"
-date: 2020-12-17
-source-url: https://www.scoop.co.nz/stories/ED2012/S00040/canterbury-distinguished-professor-roy-kerr-gives-black-hole-lecture-via-zoom.htm
+title: Canterbury Distinguished Professor Roy Kerr Gives Black Hole Lecture Via Zoom
+date: 2020-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00040/canterbury-distinguished-professor-roy-kerr-gives-black-hole-lecture-via-zoom.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/12/17/canterbury-distinguished-professor-roy-kerr-gives-black-hole-lecture-via-zoom/index.html
+layout: layout.njk
 ---
 Canterbury Distinguished Professor Roy Kerr Gives Black Hole Lecture Via Zoom
 =============================================================================

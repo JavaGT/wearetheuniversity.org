@@ -1,9 +1,12 @@
 ---
 slug: students-help-students-with-their-finances
-title: "Students help students with their finances"
-date: 2012-08-22
-source-url: https://www.scoop.co.nz/stories/ED1208/S00111/students-help-students-with-their-finances.htm
+title: Students help students with their finances
+date: 2012-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00111/students-help-students-with-their-finances.htm
 author: massey-university
+permalink: /archive/2012/08/22/students-help-students-with-their-finances/index.html
+layout: layout.njk
 ---
 Students help students with their finances
 ==========================================

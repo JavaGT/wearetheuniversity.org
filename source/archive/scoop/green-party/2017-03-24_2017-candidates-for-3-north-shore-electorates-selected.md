@@ -1,9 +1,13 @@
 ---
 slug: 2017-candidates-for-3-north-shore-electorates-selected
-title: "2017 candidates for 3 North Shore electorates selected"
-date: 2017-03-24
-source-url: https://www.scoop.co.nz/stories/AK1703/S00756/2017-candidates-for-3-north-shore-electorates-selected.htm
+title: 2017 candidates for 3 North Shore electorates selected
+date: 2017-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1703/S00756/2017-candidates-for-3-north-shore-electorates-selected.htm
 author: green-party
+permalink: >-
+  /archive/2017/03/24/2017-candidates-for-3-north-shore-electorates-selected/index.html
+layout: layout.njk
 ---
 2017 candidates for 3 North Shore electorates selected
 ======================================================

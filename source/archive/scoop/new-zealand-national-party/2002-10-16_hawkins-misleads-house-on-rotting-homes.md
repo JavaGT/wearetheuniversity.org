@@ -1,9 +1,12 @@
 ---
 slug: hawkins-misleads-house-on-rotting-homes
-title: "Hawkins misleads House on rotting homes"
-date: 2002-10-16
-source-url: https://www.scoop.co.nz/stories/PA0210/S00336/hawkins-misleads-house-on-rotting-homes.htm
+title: Hawkins misleads House on rotting homes
+date: 2002-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00336/hawkins-misleads-house-on-rotting-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/16/hawkins-misleads-house-on-rotting-homes/index.html
+layout: layout.njk
 ---
 Hawkins misleads House on rotting homes
 =======================================

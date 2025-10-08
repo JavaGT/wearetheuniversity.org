@@ -1,9 +1,13 @@
 ---
 slug: solutions-to-online-hate-weekend-brings-experts-together
-title: "Solutions to Online Hate weekend brings experts together"
-date: 2019-09-17
-source-url: https://www.scoop.co.nz/stories/ED1909/S00046/solutions-to-online-hate-weekend-brings-experts-together.htm
+title: Solutions to Online Hate weekend brings experts together
+date: 2019-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00046/solutions-to-online-hate-weekend-brings-experts-together.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/09/17/solutions-to-online-hate-weekend-brings-experts-together/index.html
+layout: layout.njk
 ---
 Solutions to Online Hate weekend brings experts together
 ========================================================

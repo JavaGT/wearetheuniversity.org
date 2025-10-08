@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-auckland-amenities-funding-bill
-title: "The Mapp Report: Auckland Amenities Funding Bill"
-date: 2007-09-07
-source-url: https://www.scoop.co.nz/stories/HL0709/S00137/the-mapp-report-auckland-amenities-funding-bill.htm
+title: 'The Mapp Report: Auckland Amenities Funding Bill'
+date: 2007-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0709/S00137/the-mapp-report-auckland-amenities-funding-bill.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/07/the-mapp-report-auckland-amenities-funding-bill/index.html
+layout: layout.njk
 ---
 The Mapp Report: Auckland Amenities Funding Bill
 ================================================

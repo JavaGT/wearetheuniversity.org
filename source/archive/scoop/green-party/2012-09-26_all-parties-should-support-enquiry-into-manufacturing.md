@@ -1,9 +1,13 @@
 ---
 slug: all-parties-should-support-enquiry-into-manufacturing
-title: "All parties should support enquiry into manufacturing"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/PA1209/S00394/all-parties-should-support-enquiry-into-manufacturing.htm
+title: All parties should support enquiry into manufacturing
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00394/all-parties-should-support-enquiry-into-manufacturing.htm
 author: green-party
+permalink: >-
+  /archive/2012/09/26/all-parties-should-support-enquiry-into-manufacturing/index.html
+layout: layout.njk
 ---
 All parties should support enquiry into manufacturing
 =====================================================

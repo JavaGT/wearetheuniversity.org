@@ -1,9 +1,12 @@
 ---
 slug: purple-shoes-and-social-justice
-title: "Purple Shoes And Social Justice"
-date: 2006-03-21
-source-url: https://www.scoop.co.nz/stories/ED0603/S00052/purple-shoes-and-social-justice.htm
+title: Purple Shoes And Social Justice
+date: 2006-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00052/purple-shoes-and-social-justice.htm
 author: waikato-university
+permalink: /archive/2006/03/21/purple-shoes-and-social-justice/index.html
+layout: layout.njk
 ---
 Purple Shoes And Social Justice
 ===============================

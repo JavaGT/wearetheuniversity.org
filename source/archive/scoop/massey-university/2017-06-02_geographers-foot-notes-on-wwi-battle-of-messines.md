@@ -1,9 +1,13 @@
 ---
 slug: geographers-foot-notes-on-wwi-battle-of-messines
-title: "Geographer’s ‘foot’ notes on WWI Battle of Messines"
-date: 2017-06-02
-source-url: https://www.scoop.co.nz/stories/CU1706/S00055/geographers-foot-notes-on-wwi-battle-of-messines.htm
+title: Geographer’s ‘foot’ notes on WWI Battle of Messines
+date: 2017-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1706/S00055/geographers-foot-notes-on-wwi-battle-of-messines.htm
 author: massey-university
+permalink: >-
+  /archive/2017/06/02/geographers-foot-notes-on-wwi-battle-of-messines/index.html
+layout: layout.njk
 ---
 Geographer’s ‘foot’ notes on WWI Battle of Messines
 ===================================================

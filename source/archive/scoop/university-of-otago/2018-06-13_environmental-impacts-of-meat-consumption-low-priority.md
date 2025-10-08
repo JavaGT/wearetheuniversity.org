@@ -1,9 +1,13 @@
 ---
 slug: environmental-impacts-of-meat-consumption-low-priority
-title: "Environmental impacts of meat consumption low priority"
-date: 2018-06-13
-source-url: https://www.scoop.co.nz/stories/SC1806/S00031/environmental-impacts-of-meat-consumption-low-priority.htm
+title: Environmental impacts of meat consumption low priority
+date: 2018-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00031/environmental-impacts-of-meat-consumption-low-priority.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/13/environmental-impacts-of-meat-consumption-low-priority/index.html
+layout: layout.njk
 ---
 Environmental impacts of meat consumption low priority
 ======================================================

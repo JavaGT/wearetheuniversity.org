@@ -1,9 +1,12 @@
 ---
 slug: national-red-faced-as-benefit-numbers-skyrocket
-title: "National Red-Faced As Benefit Numbers Skyrocket"
-date: 2024-09-20
-source-url: https://www.scoop.co.nz/stories/PA2409/S00192/national-red-faced-as-benefit-numbers-skyrocket.htm
+title: National Red-Faced As Benefit Numbers Skyrocket
+date: 2024-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00192/national-red-faced-as-benefit-numbers-skyrocket.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/09/20/national-red-faced-as-benefit-numbers-skyrocket/index.html
+layout: layout.njk
 ---
 National Red-Faced As Benefit Numbers Skyrocket
 ===============================================

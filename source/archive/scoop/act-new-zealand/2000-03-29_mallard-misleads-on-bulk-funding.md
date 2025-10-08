@@ -1,9 +1,12 @@
 ---
 slug: mallard-misleads-on-bulk-funding
-title: "Mallard Misleads on Bulk Funding"
-date: 2000-03-29
-source-url: https://www.scoop.co.nz/stories/PA0003/S00500/mallard-misleads-on-bulk-funding.htm
+title: Mallard Misleads on Bulk Funding
+date: 2000-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00500/mallard-misleads-on-bulk-funding.htm
 author: act-new-zealand
+permalink: /archive/2000/03/29/mallard-misleads-on-bulk-funding/index.html
+layout: layout.njk
 ---
 Mallard Misleads on Bulk Funding
 ================================

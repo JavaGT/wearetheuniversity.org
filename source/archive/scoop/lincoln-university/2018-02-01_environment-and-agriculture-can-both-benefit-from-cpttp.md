@@ -1,9 +1,13 @@
 ---
 slug: environment-and-agriculture-can-both-benefit-from-cpttp
-title: "Environment and agriculture can both benefit from CPTTP"
-date: 2018-02-01
-source-url: https://www.scoop.co.nz/stories/PO1802/S00017/environment-and-agriculture-can-both-benefit-from-cpttp.htm
+title: Environment and agriculture can both benefit from CPTTP
+date: 2018-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1802/S00017/environment-and-agriculture-can-both-benefit-from-cpttp.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/02/01/environment-and-agriculture-can-both-benefit-from-cpttp/index.html
+layout: layout.njk
 ---
 Environment and agriculture can both benefit from CPTTP
 =======================================================

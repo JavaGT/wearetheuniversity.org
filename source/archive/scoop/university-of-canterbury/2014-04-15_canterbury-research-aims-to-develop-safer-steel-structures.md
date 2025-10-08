@@ -1,9 +1,13 @@
 ---
 slug: canterbury-research-aims-to-develop-safer-steel-structures
-title: "Canterbury research aims to develop safer steel structures"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/SC1404/S00057/canterbury-research-aims-to-develop-safer-steel-structures.htm
+title: Canterbury research aims to develop safer steel structures
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00057/canterbury-research-aims-to-develop-safer-steel-structures.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/15/canterbury-research-aims-to-develop-safer-steel-structures/index.html
+layout: layout.njk
 ---
 Canterbury research aims to develop safer steel structures
 ==========================================================

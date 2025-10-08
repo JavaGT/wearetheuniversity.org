@@ -1,9 +1,12 @@
 ---
 slug: international-fellowship-a-career-highlight
-title: "International fellowship a career highlight"
-date: 2016-10-11
-source-url: https://www.scoop.co.nz/stories/ED1610/S00023/international-fellowship-a-career-highlight.htm
+title: International fellowship a career highlight
+date: 2016-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00023/international-fellowship-a-career-highlight.htm
 author: massey-university
+permalink: /archive/2016/10/11/international-fellowship-a-career-highlight/index.html
+layout: layout.njk
 ---
 International fellowship a career highlight
 ===========================================

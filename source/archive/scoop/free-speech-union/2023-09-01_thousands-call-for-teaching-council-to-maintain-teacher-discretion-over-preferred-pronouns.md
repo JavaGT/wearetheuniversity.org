@@ -1,9 +1,16 @@
 ---
-slug: thousands-call-for-teaching-council-to-maintain-teacher-discretion-over-preferred-pronouns
-title: "Thousands Call For Teaching Council To Maintain Teacher Discretion Over Preferred Pronouns"
-date: 2023-09-01
-source-url: https://www.scoop.co.nz/stories/PO2309/S00002/thousands-call-for-teaching-council-to-maintain-teacher-discretion-over-preferred-pronouns.htm
+slug: >-
+  thousands-call-for-teaching-council-to-maintain-teacher-discretion-over-preferred-pronouns
+title: >-
+  Thousands Call For Teaching Council To Maintain Teacher Discretion Over
+  Preferred Pronouns
+date: 2023-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00002/thousands-call-for-teaching-council-to-maintain-teacher-discretion-over-preferred-pronouns.htm
 author: free-speech-union
+permalink: >-
+  /archive/2023/09/01/thousands-call-for-teaching-council-to-maintain-teacher-discretion-over-preferred-pronouns/index.html
+layout: layout.njk
 ---
 Thousands Call For Teaching Council To Maintain Teacher Discretion Over Preferred Pronouns
 ==========================================================================================

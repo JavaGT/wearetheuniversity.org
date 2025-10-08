@@ -1,9 +1,12 @@
 ---
 slug: university-staff-mourn-death-of-maori-queen
-title: "University staff mourn death of Maori Queen"
-date: 2006-08-16
-source-url: https://www.scoop.co.nz/stories/NM0608/S00002/university-staff-mourn-death-of-maori-queen.htm
+title: University staff mourn death of Maori Queen
+date: 2006-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/NM0608/S00002/university-staff-mourn-death-of-maori-queen.htm
 author: association-of-university-staff
+permalink: /archive/2006/08/16/university-staff-mourn-death-of-maori-queen/index.html
+layout: layout.njk
 ---
 University staff mourn death of Maori Queen
 ===========================================

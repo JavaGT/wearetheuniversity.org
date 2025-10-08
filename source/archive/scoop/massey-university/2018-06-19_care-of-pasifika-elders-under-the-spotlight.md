@@ -1,9 +1,12 @@
 ---
 slug: care-of-pasifika-elders-under-the-spotlight
-title: "Care of Pasifika elders under the spotlight"
-date: 2018-06-19
-source-url: https://www.scoop.co.nz/stories/GE1806/S00069/care-of-pasifika-elders-under-the-spotlight.htm
+title: Care of Pasifika elders under the spotlight
+date: 2018-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00069/care-of-pasifika-elders-under-the-spotlight.htm
 author: massey-university
+permalink: /archive/2018/06/19/care-of-pasifika-elders-under-the-spotlight/index.html
+layout: layout.njk
 ---
 Care of Pasifika elders under the spotlight
 ===========================================

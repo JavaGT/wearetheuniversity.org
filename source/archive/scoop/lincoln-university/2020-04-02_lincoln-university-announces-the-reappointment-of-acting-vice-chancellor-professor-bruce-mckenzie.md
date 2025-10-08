@@ -1,9 +1,16 @@
 ---
-slug: lincoln-university-announces-the-reappointment-of-acting-vice-chancellor-professor-bruce-mckenzie
-title: "Lincoln University Announces The Reappointment Of Acting Vice-Chancellor Professor Bruce McKenzie"
-date: 2020-04-02
-source-url: https://www.scoop.co.nz/stories/ED2004/S00003/lincoln-university-announces-the-reappointment-of-acting-vice-chancellor-professor-bruce-mckenzie.htm
+slug: >-
+  lincoln-university-announces-the-reappointment-of-acting-vice-chancellor-professor-bruce-mckenzie
+title: >-
+  Lincoln University Announces The Reappointment Of Acting Vice-Chancellor
+  Professor Bruce McKenzie
+date: 2020-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2004/S00003/lincoln-university-announces-the-reappointment-of-acting-vice-chancellor-professor-bruce-mckenzie.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/04/02/lincoln-university-announces-the-reappointment-of-acting-vice-chancellor-professor-bruce-mckenzie/index.html
+layout: layout.njk
 ---
 Lincoln University Announces The Reappointment Of Acting Vice-Chancellor Professor Bruce McKenzie
 =================================================================================================

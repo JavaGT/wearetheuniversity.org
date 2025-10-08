@@ -1,9 +1,12 @@
 ---
 slug: school-students-the-losers-in-industrial-strife
-title: "School Students The Losers In Industrial Strife"
-date: 2002-03-26
-source-url: https://www.scoop.co.nz/stories/PA0203/S00488/school-students-the-losers-in-industrial-strife.htm
+title: School Students The Losers In Industrial Strife
+date: 2002-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00488/school-students-the-losers-in-industrial-strife.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/26/school-students-the-losers-in-industrial-strife/index.html
+layout: layout.njk
 ---
 School Students The Losers In Industrial Strife
 ===============================================

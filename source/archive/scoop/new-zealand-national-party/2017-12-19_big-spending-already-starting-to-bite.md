@@ -1,9 +1,12 @@
 ---
 slug: big-spending-already-starting-to-bite
-title: "Big Spending Already Starting to Bite"
-date: 2017-12-19
-source-url: https://www.scoop.co.nz/stories/PA1712/S00197/big-spending-already-starting-to-bite.htm
+title: Big Spending Already Starting to Bite
+date: 2017-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00197/big-spending-already-starting-to-bite.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/19/big-spending-already-starting-to-bite/index.html
+layout: layout.njk
 ---
 Big Spending Already Starting to Bite
 =====================================

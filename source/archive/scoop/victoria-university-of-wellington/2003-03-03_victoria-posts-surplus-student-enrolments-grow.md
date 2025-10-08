@@ -1,9 +1,12 @@
 ---
 slug: victoria-posts-surplus-student-enrolments-grow
-title: "Victoria  posts surplus - student enrolments grow"
-date: 2003-03-03
-source-url: https://www.scoop.co.nz/stories/ED0303/S00002/victoria-posts-surplus-student-enrolments-grow.htm
+title: Victoria  posts surplus - student enrolments grow
+date: 2003-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00002/victoria-posts-surplus-student-enrolments-grow.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/03/03/victoria-posts-surplus-student-enrolments-grow/index.html
+layout: layout.njk
 ---
 Victoria posts surplus - student enrolments grow
 ================================================

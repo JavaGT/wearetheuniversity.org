@@ -1,9 +1,12 @@
 ---
 slug: back-pain-an-issue-for-nearly-all-vets
-title: "Back pain an issue for nearly all vets"
-date: 2009-05-25
-source-url: https://www.scoop.co.nz/stories/ED0905/S00098/back-pain-an-issue-for-nearly-all-vets.htm
+title: Back pain an issue for nearly all vets
+date: 2009-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00098/back-pain-an-issue-for-nearly-all-vets.htm
 author: massey-university
+permalink: /archive/2009/05/25/back-pain-an-issue-for-nearly-all-vets/index.html
+layout: layout.njk
 ---
 Back pain an issue for nearly all vets
 ======================================

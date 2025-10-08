@@ -1,9 +1,12 @@
 ---
 slug: no-assessment-on-in-house-doc-course
-title: "No assessment on in-house DOC course"
-date: 2004-10-04
-source-url: https://www.scoop.co.nz/stories/PA0410/S00027/no-assessment-on-in-house-doc-course.htm
+title: No assessment on in-house DOC course
+date: 2004-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00027/no-assessment-on-in-house-doc-course.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/04/no-assessment-on-in-house-doc-course/index.html
+layout: layout.njk
 ---
 No assessment on in-house DOC course
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: teenage-girls-their-bones-and-the-effects-of-vitamin-d
-title: "Teenage girls, their bones, and the effects of vitamin D"
-date: 2012-06-20
-source-url: https://www.scoop.co.nz/stories/GE1206/S00070/teenage-girls-their-bones-and-the-effects-of-vitamin-d.htm
+title: Teenage girls, their bones, and the effects of vitamin D
+date: 2012-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1206/S00070/teenage-girls-their-bones-and-the-effects-of-vitamin-d.htm
 author: massey-university
+permalink: >-
+  /archive/2012/06/20/teenage-girls-their-bones-and-the-effects-of-vitamin-d/index.html
+layout: layout.njk
 ---
 Teenage girls, their bones, and the effects of vitamin D
 ========================================================

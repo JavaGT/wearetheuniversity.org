@@ -1,9 +1,12 @@
 ---
 slug: kiwi-music-scholarship-awards
-title: "Kiwi Music scholarship awards"
-date: 2015-07-08
-source-url: https://www.scoop.co.nz/stories/ED1507/S00051/kiwi-music-scholarship-awards.htm
+title: Kiwi Music scholarship awards
+date: 2015-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00051/kiwi-music-scholarship-awards.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2015/07/08/kiwi-music-scholarship-awards/index.html
+layout: layout.njk
 ---
 Kiwi Music scholarship awards
 =============================

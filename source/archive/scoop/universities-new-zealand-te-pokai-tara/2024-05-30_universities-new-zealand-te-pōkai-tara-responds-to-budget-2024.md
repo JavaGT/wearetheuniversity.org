@@ -1,9 +1,12 @@
 ---
 slug: universities-new-zealand-te-pōkai-tara-responds-to-budget-2024
-title: "Universities New Zealand – Te Pōkai Tara Responds To Budget 2024"
-date: 2024-05-30
-source-url: https://www.scoop.co.nz/stories/ED2405/S00099/universities-new-zealand-te-pokai-tara-responds-to-budget-2024.htm
+title: Universities New Zealand – Te Pōkai Tara Responds To Budget 2024
+date: 2024-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00099/universities-new-zealand-te-pokai-tara-responds-to-budget-2024.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2024/05/30/universities-new-zealand-te-p/index.html
+layout: layout.njk
 ---
 Universities New Zealand – Te Pōkai Tara Responds To Budget 2024
 ================================================================

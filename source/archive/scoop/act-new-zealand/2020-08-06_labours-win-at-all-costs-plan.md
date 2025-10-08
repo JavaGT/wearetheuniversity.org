@@ -1,9 +1,12 @@
 ---
 slug: labours-win-at-all-costs-plan
-title: "Labour’s Win-at-all-costs Plan"
-date: 2020-08-06
-source-url: https://www.scoop.co.nz/stories/PO2008/S00050/labours-win-at-all-costs-plan.htm
+title: Labour’s Win-at-all-costs Plan
+date: 2020-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00050/labours-win-at-all-costs-plan.htm
 author: act-new-zealand
+permalink: /archive/2020/08/06/labours-win-at-all-costs-plan/index.html
+layout: layout.njk
 ---
 Labour’s Win-at-all-costs Plan
 ==============================

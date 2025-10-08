@@ -1,9 +1,12 @@
 ---
 slug: time-for-john-key-to-sack-his-housing-minister
-title: "Time for John Key to sack his Housing Minister"
-date: 2016-08-09
-source-url: https://www.scoop.co.nz/stories/PA1608/S00122/time-for-john-key-to-sack-his-housing-minister.htm
+title: Time for John Key to sack his Housing Minister
+date: 2016-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00122/time-for-john-key-to-sack-his-housing-minister.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/09/time-for-john-key-to-sack-his-housing-minister/index.html
+layout: layout.njk
 ---
 Time for John Key to sack his Housing Minister
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-hide-lockwood-group-annual-conference
-title: "Speech: Hide -  Lockwood Group Annual Conference"
-date: 2009-06-15
-source-url: https://www.scoop.co.nz/stories/PA0906/S00185/speech-hide-lockwood-group-annual-conference.htm
+title: 'Speech: Hide -  Lockwood Group Annual Conference'
+date: 2009-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00185/speech-hide-lockwood-group-annual-conference.htm
 author: act-new-zealand
+permalink: /archive/2009/06/15/speech-hide-lockwood-group-annual-conference/index.html
+layout: layout.njk
 ---
 Speech: Hide - Lockwood Group Annual Conference
 ===============================================

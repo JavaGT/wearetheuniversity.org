@@ -1,9 +1,12 @@
 ---
 slug: time-to-tell-us-what-vaccine-will-mean
-title: "Time To Tell Us What Vaccine Will Mean"
-date: 2021-03-15
-source-url: https://www.scoop.co.nz/stories/PA2103/S00102/time-to-tell-us-what-vaccine-will-mean.htm
+title: Time To Tell Us What Vaccine Will Mean
+date: 2021-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00102/time-to-tell-us-what-vaccine-will-mean.htm
 author: act-new-zealand
+permalink: /archive/2021/03/15/time-to-tell-us-what-vaccine-will-mean/index.html
+layout: layout.njk
 ---
 Time To Tell Us What Vaccine Will Mean
 ======================================

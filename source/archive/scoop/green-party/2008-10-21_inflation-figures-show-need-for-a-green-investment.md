@@ -1,9 +1,13 @@
 ---
 slug: inflation-figures-show-need-for-a-green-investment
-title: "Inflation figures show need for a Green Investment"
-date: 2008-10-21
-source-url: https://www.scoop.co.nz/stories/PA0810/S00473/inflation-figures-show-need-for-a-green-investment.htm
+title: Inflation figures show need for a Green Investment
+date: 2008-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00473/inflation-figures-show-need-for-a-green-investment.htm
 author: green-party
+permalink: >-
+  /archive/2008/10/21/inflation-figures-show-need-for-a-green-investment/index.html
+layout: layout.njk
 ---
 Inflation figures show need for a Green Investment
 ==================================================

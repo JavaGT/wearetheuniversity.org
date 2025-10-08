@@ -1,9 +1,12 @@
 ---
 slug: greens-urge-big-turn-out-for-peace
-title: "Greens urge big turn-out for peace"
-date: 2003-02-13
-source-url: https://www.scoop.co.nz/stories/PA0302/S00212/greens-urge-big-turn-out-for-peace.htm
+title: Greens urge big turn-out for peace
+date: 2003-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00212/greens-urge-big-turn-out-for-peace.htm
 author: green-party
+permalink: /archive/2003/02/13/greens-urge-big-turn-out-for-peace/index.html
+layout: layout.njk
 ---
 Greens urge big turn-out for peace
 ==================================

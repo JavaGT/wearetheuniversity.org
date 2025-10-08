@@ -1,9 +1,12 @@
 ---
 slug: era-is-failing-families-trapped-in-poverty
-title: "ERA is Failing Families Trapped in Poverty"
-date: 2003-10-23
-source-url: https://www.scoop.co.nz/stories/PO0310/S00198/era-is-failing-families-trapped-in-poverty.htm
+title: ERA is Failing Families Trapped in Poverty
+date: 2003-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0310/S00198/era-is-failing-families-trapped-in-poverty.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/10/23/era-is-failing-families-trapped-in-poverty/index.html
+layout: layout.njk
 ---
 ERA is Failing Families Trapped in Poverty
 ==========================================

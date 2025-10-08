@@ -1,9 +1,13 @@
 ---
 slug: art-technology-virtual-and-extended-realities-on-show
-title: "Art, Technology, Virtual And Extended Realities On Show"
-date: 2022-06-14
-source-url: https://www.scoop.co.nz/stories/CU2206/S00103/art-technology-virtual-and-extended-realities-on-show.htm
+title: Art, Technology, Virtual And Extended Realities On Show
+date: 2022-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2206/S00103/art-technology-virtual-and-extended-realities-on-show.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2022/06/14/art-technology-virtual-and-extended-realities-on-show/index.html
+layout: layout.njk
 ---
 Art, Technology, Virtual And Extended Realities On Show
 =======================================================

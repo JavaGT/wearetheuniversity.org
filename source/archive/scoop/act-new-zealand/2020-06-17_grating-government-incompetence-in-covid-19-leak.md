@@ -1,9 +1,13 @@
 ---
 slug: grating-government-incompetence-in-covid-19-leak
-title: "Grating Government Incompetence In Covid-19 Leak"
-date: 2020-06-17
-source-url: https://www.scoop.co.nz/stories/PA2006/S00149/grating-government-incompetence-in-covid-19-leak.htm
+title: Grating Government Incompetence In Covid-19 Leak
+date: 2020-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00149/grating-government-incompetence-in-covid-19-leak.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/17/grating-government-incompetence-in-covid-19-leak/index.html
+layout: layout.njk
 ---
 Grating Government Incompetence In Covid-19 Leak
 ================================================

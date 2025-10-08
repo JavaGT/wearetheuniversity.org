@@ -1,9 +1,12 @@
 ---
 slug: government-continues-to-under-deliver
-title: "Government continues to under-deliver"
-date: 2018-05-04
-source-url: https://www.scoop.co.nz/stories/PA1805/S00053/government-continues-to-under-deliver.htm
+title: Government continues to under-deliver
+date: 2018-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00053/government-continues-to-under-deliver.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/04/government-continues-to-under-deliver/index.html
+layout: layout.njk
 ---
 Government continues to under-deliver
 =====================================

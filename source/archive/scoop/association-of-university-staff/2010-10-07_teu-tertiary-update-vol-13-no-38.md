@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-13-no-38
-title: "TEU Tertiary Update Vol 13 No 38"
-date: 2010-10-07
-source-url: https://www.scoop.co.nz/stories/ED1010/S00021/teu-tertiary-update-vol-13-no-38.htm
+title: TEU Tertiary Update Vol 13 No 38
+date: 2010-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00021/teu-tertiary-update-vol-13-no-38.htm
 author: association-of-university-staff
+permalink: /archive/2010/10/07/teu-tertiary-update-vol-13-no-38/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 13 No 38
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-building-to-be-renamed-after-victims-advocate
-title: "UC Building To Be Renamed After Victims’ Advocate"
-date: 2022-03-08
-source-url: https://www.scoop.co.nz/stories/AK2203/S00158/uc-building-to-be-renamed-after-victims-advocate.htm
+title: UC Building To Be Renamed After Victims’ Advocate
+date: 2022-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2203/S00158/uc-building-to-be-renamed-after-victims-advocate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/03/08/uc-building-to-be-renamed-after-victims-advocate/index.html
+layout: layout.njk
 ---
 UC Building To Be Renamed After Victims’ Advocate
 =================================================

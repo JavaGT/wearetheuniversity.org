@@ -1,9 +1,13 @@
 ---
 slug: select-committee-interested-in-amnesty-period-for-borrowers
-title: "Select Committee interested in amnesty period for borrowers"
-date: 2013-10-18
-source-url: https://www.scoop.co.nz/stories/ED1310/S00119/select-committee-interested-in-amnesty-period-for-borrowers.htm
+title: Select Committee interested in amnesty period for borrowers
+date: 2013-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00119/select-committee-interested-in-amnesty-period-for-borrowers.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/10/18/select-committee-interested-in-amnesty-period-for-borrowers/index.html
+layout: layout.njk
 ---
 Select Committee interested in amnesty period for borrowers
 ===========================================================

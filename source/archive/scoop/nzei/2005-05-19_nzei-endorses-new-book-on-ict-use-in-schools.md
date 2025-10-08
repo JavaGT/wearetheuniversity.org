@@ -1,9 +1,12 @@
 ---
 slug: nzei-endorses-new-book-on-ict-use-in-schools
-title: "NZEI Endorses New Book on ICT Use in Schools"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/ED0505/S00080/nzei-endorses-new-book-on-ict-use-in-schools.htm
+title: NZEI Endorses New Book on ICT Use in Schools
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00080/nzei-endorses-new-book-on-ict-use-in-schools.htm
 author: nzei
+permalink: /archive/2005/05/19/nzei-endorses-new-book-on-ict-use-in-schools/index.html
+layout: layout.njk
 ---
 NZEI Endorses New Book on ICT Use in Schools
 ============================================

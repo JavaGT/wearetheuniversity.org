@@ -1,9 +1,12 @@
 ---
 slug: millions-more-for-delayed-convention-centre
-title: "Millions more for delayed convention centre"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/PA1606/S00252/millions-more-for-delayed-convention-centre.htm
+title: Millions more for delayed convention centre
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00252/millions-more-for-delayed-convention-centre.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/15/millions-more-for-delayed-convention-centre/index.html
+layout: layout.njk
 ---
 Millions more for delayed convention centre
 ===========================================

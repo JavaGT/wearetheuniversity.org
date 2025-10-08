@@ -1,9 +1,13 @@
 ---
 slug: malaysia-airlines-on-communication-breakfast-radar
-title: "Malaysia Airlines on communication breakfast radar"
-date: 2014-04-28
-source-url: https://www.scoop.co.nz/stories/PO1404/S00394/malaysia-airlines-on-communication-breakfast-radar.htm
+title: Malaysia Airlines on communication breakfast radar
+date: 2014-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00394/malaysia-airlines-on-communication-breakfast-radar.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/28/malaysia-airlines-on-communication-breakfast-radar/index.html
+layout: layout.njk
 ---
 Malaysia Airlines on communication breakfast radar
 ==================================================

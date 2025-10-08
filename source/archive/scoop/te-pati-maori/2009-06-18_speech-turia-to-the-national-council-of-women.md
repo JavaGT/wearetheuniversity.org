@@ -1,9 +1,12 @@
 ---
 slug: speech-turia-to-the-national-council-of-women
-title: "Speech: Turia - To The National Council of Women"
-date: 2009-06-18
-source-url: https://www.scoop.co.nz/stories/PA0906/S00227/speech-turia-to-the-national-council-of-women.htm
+title: 'Speech: Turia - To The National Council of Women'
+date: 2009-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00227/speech-turia-to-the-national-council-of-women.htm
 author: te-pati-maori
+permalink: /archive/2009/06/18/speech-turia-to-the-national-council-of-women/index.html
+layout: layout.njk
 ---
 Speech: Turia - To The National Council of Women
 ================================================

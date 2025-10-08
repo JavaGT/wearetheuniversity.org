@@ -1,9 +1,13 @@
 ---
 slug: kiwis-send-a-message-to-key-with-big-asset-sales-no-vote
-title: "Kiwis send a message to Key with big asset sales no vote"
-date: 2013-12-13
-source-url: https://www.scoop.co.nz/stories/PA1312/S00302/kiwis-send-a-message-to-key-with-big-asset-sales-no-vote.htm
+title: Kiwis send a message to Key with big asset sales no vote
+date: 2013-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00302/kiwis-send-a-message-to-key-with-big-asset-sales-no-vote.htm
 author: green-party
+permalink: >-
+  /archive/2013/12/13/kiwis-send-a-message-to-key-with-big-asset-sales-no-vote/index.html
+layout: layout.njk
 ---
 Kiwis send a message to Key with big asset sales no vote
 ========================================================

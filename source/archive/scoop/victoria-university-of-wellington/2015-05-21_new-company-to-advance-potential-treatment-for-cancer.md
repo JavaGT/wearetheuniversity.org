@@ -1,9 +1,13 @@
 ---
 slug: new-company-to-advance-potential-treatment-for-cancer
-title: "New company to advance potential treatment for cancer"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/GE1505/S00093/new-company-to-advance-potential-treatment-for-cancer.htm
+title: New company to advance potential treatment for cancer
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1505/S00093/new-company-to-advance-potential-treatment-for-cancer.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/05/21/new-company-to-advance-potential-treatment-for-cancer/index.html
+layout: layout.njk
 ---
 New company to advance potential treatment for cancer
 =====================================================

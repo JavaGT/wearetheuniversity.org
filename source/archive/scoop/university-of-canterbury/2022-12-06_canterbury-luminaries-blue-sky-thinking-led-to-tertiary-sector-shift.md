@@ -1,9 +1,13 @@
 ---
 slug: canterbury-luminaries-blue-sky-thinking-led-to-tertiary-sector-shift
-title: "Canterbury Luminaries’ Blue-sky Thinking Led To Tertiary Sector Shift"
-date: 2022-12-06
-source-url: https://www.scoop.co.nz/stories/ED2212/S00010/canterbury-luminaries-blue-sky-thinking-led-to-tertiary-sector-shift.htm
+title: Canterbury Luminaries’ Blue-sky Thinking Led To Tertiary Sector Shift
+date: 2022-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2212/S00010/canterbury-luminaries-blue-sky-thinking-led-to-tertiary-sector-shift.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/12/06/canterbury-luminaries-blue-sky-thinking-led-to-tertiary-sector-shift/index.html
+layout: layout.njk
 ---
 Canterbury Luminaries’ Blue-sky Thinking Led To Tertiary Sector Shift
 =====================================================================

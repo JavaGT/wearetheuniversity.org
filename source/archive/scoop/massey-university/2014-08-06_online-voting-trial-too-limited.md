@@ -1,9 +1,12 @@
 ---
 slug: online-voting-trial-too-limited
-title: "Online voting trial ‘too limited’"
-date: 2014-08-06
-source-url: https://www.scoop.co.nz/stories/PO1408/S00095/online-voting-trial-too-limited.htm
+title: Online voting trial ‘too limited’
+date: 2014-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00095/online-voting-trial-too-limited.htm
 author: massey-university
+permalink: /archive/2014/08/06/online-voting-trial-too-limited/index.html
+layout: layout.njk
 ---
 Online voting trial ‘too limited’
 =================================

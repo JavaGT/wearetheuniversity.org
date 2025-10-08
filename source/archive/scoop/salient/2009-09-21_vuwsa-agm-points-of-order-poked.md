@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-agm-points-of-order-poked
-title: "VUWSA AGM points of order poked"
-date: 2009-09-21
-source-url: https://www.scoop.co.nz/stories/ED0909/S00071/vuwsa-agm-points-of-order-poked.htm
+title: VUWSA AGM points of order poked
+date: 2009-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00071/vuwsa-agm-points-of-order-poked.htm
 author: salient
+permalink: /archive/2009/09/21/vuwsa-agm-points-of-order-poked/index.html
+layout: layout.njk
 ---
 VUWSA AGM points of order poked
 ===============================

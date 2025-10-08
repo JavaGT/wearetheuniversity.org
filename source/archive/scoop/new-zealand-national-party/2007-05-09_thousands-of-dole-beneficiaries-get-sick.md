@@ -1,9 +1,12 @@
 ---
 slug: thousands-of-dole-beneficiaries-get-sick
-title: "Thousands of dole beneficiaries get 'sick'"
-date: 2007-05-09
-source-url: https://www.scoop.co.nz/stories/PA0705/S00207/thousands-of-dole-beneficiaries-get-sick.htm
+title: Thousands of dole beneficiaries get 'sick'
+date: 2007-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00207/thousands-of-dole-beneficiaries-get-sick.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/09/thousands-of-dole-beneficiaries-get-sick/index.html
+layout: layout.njk
 ---
 Thousands of dole beneficiaries get 'sick'
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: police-shouldnt-help-breath-test-for-school-ball
-title: "Police shouldn't help breath-test for school ball"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/PA0608/S00172/police-shouldnt-help-breath-test-for-school-ball.htm
+title: Police shouldn't help breath-test for school ball
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00172/police-shouldnt-help-breath-test-for-school-ball.htm
 author: green-party
+permalink: >-
+  /archive/2006/08/10/police-shouldnt-help-breath-test-for-school-ball/index.html
+layout: layout.njk
 ---
 Police shouldn't help breath-test for school ball
 =================================================

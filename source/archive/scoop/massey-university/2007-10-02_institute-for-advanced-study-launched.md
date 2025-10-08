@@ -1,9 +1,12 @@
 ---
 slug: institute-for-advanced-study-launched
-title: "Institute for Advanced Study launched"
-date: 2007-10-02
-source-url: https://www.scoop.co.nz/stories/SC0710/S00006/institute-for-advanced-study-launched.htm
+title: Institute for Advanced Study launched
+date: 2007-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0710/S00006/institute-for-advanced-study-launched.htm
 author: massey-university
+permalink: /archive/2007/10/02/institute-for-advanced-study-launched/index.html
+layout: layout.njk
 ---
 Institute for Advanced Study launched
 =====================================

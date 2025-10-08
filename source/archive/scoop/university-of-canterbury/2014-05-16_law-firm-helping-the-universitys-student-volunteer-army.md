@@ -1,9 +1,13 @@
 ---
 slug: law-firm-helping-the-universitys-student-volunteer-army
-title: "Law firm helping the University’s Student Volunteer Army"
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/AK1405/S00325/law-firm-helping-the-universitys-student-volunteer-army.htm
+title: Law firm helping the University’s Student Volunteer Army
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1405/S00325/law-firm-helping-the-universitys-student-volunteer-army.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/16/law-firm-helping-the-universitys-student-volunteer-army/index.html
+layout: layout.njk
 ---
 Law firm helping the University’s Student Volunteer Army
 ========================================================

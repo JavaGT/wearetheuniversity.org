@@ -1,9 +1,13 @@
 ---
 slug: neighbourhoods-play-a-role-in-health-of-kiwi-adults-study-shows
-title: "Neighbourhoods Play A Role In Health Of Kiwi Adults, Study Shows"
-date: 2022-03-01
-source-url: https://www.scoop.co.nz/stories/GE2203/S00011/neighbourhoods-play-a-role-in-health-of-kiwi-adults-study-shows.htm
+title: Neighbourhoods Play A Role In Health Of Kiwi Adults, Study Shows
+date: 2022-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2203/S00011/neighbourhoods-play-a-role-in-health-of-kiwi-adults-study-shows.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/03/01/neighbourhoods-play-a-role-in-health-of-kiwi-adults-study-shows/index.html
+layout: layout.njk
 ---
 Neighbourhoods Play A Role In Health Of Kiwi Adults, Study Shows
 ================================================================

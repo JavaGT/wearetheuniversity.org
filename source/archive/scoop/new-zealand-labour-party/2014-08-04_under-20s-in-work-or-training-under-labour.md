@@ -1,9 +1,12 @@
 ---
 slug: under-20s-in-work-or-training-under-labour
-title: "Under 20s in work or training under Labour"
-date: 2014-08-04
-source-url: https://www.scoop.co.nz/stories/PA1408/S00042/under-20s-in-work-or-training-under-labour.htm
+title: Under 20s in work or training under Labour
+date: 2014-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00042/under-20s-in-work-or-training-under-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/04/under-20s-in-work-or-training-under-labour/index.html
+layout: layout.njk
 ---
 Under 20s in work or training under Labour
 ==========================================

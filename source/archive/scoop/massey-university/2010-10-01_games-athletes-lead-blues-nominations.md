@@ -1,9 +1,12 @@
 ---
 slug: games-athletes-lead-blues-nominations
-title: "Games athletes lead Blues nominations"
-date: 2010-10-01
-source-url: https://www.scoop.co.nz/stories/CU1010/S00001/games-athletes-lead-blues-nominations.htm
+title: Games athletes lead Blues nominations
+date: 2010-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1010/S00001/games-athletes-lead-blues-nominations.htm
 author: massey-university
+permalink: /archive/2010/10/01/games-athletes-lead-blues-nominations/index.html
+layout: layout.njk
 ---
 Games athletes lead Blues nominations
 =====================================

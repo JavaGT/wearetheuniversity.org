@@ -1,9 +1,12 @@
 ---
 slug: local-boy-makes-good-with-move-back-home
-title: "Local boy makes good with move back home"
-date: 2015-11-26
-source-url: https://www.scoop.co.nz/stories/ED1511/S00124/local-boy-makes-good-with-move-back-home.htm
+title: Local boy makes good with move back home
+date: 2015-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00124/local-boy-makes-good-with-move-back-home.htm
 author: university-of-waikato
+permalink: /archive/2015/11/26/local-boy-makes-good-with-move-back-home/index.html
+layout: layout.njk
 ---
 Local boy makes good with move back home
 ========================================

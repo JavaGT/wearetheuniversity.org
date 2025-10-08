@@ -1,9 +1,12 @@
 ---
 slug: lernz-hit-the-road-to-show-how-to-save-lakes
-title: "LERNZ hit the road to show how to save lakes"
-date: 2012-02-17
-source-url: https://www.scoop.co.nz/stories/SC1202/S00033/lernz-hit-the-road-to-show-how-to-save-lakes.htm
+title: LERNZ hit the road to show how to save lakes
+date: 2012-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1202/S00033/lernz-hit-the-road-to-show-how-to-save-lakes.htm
 author: university-of-waikato
+permalink: /archive/2012/02/17/lernz-hit-the-road-to-show-how-to-save-lakes/index.html
+layout: layout.njk
 ---
 LERNZ hit the road to show how to save lakes
 ============================================

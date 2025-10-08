@@ -1,9 +1,11 @@
 ---
 slug: sue-kedgley-maiden-speech
-title: "Sue Kedgley Maiden Speech"
-date: 2000-02-09
+title: Sue Kedgley Maiden Speech
+date: 2000-02-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0002/S00096/sue-kedgley-maiden-speech.htm
 author: green-party
+permalink: /archive/2000/02/09/sue-kedgley-maiden-speech/index.html
+layout: layout.njk
 ---
 Sue Kedgley Maiden Speech
 =========================

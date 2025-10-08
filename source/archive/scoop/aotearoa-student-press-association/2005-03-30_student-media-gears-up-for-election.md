@@ -1,9 +1,12 @@
 ---
 slug: student-media-gears-up-for-election
-title: "Student Media Gears Up for Election"
-date: 2005-03-30
-source-url: https://www.scoop.co.nz/stories/PO0503/S00263/student-media-gears-up-for-election.htm
+title: Student Media Gears Up for Election
+date: 2005-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0503/S00263/student-media-gears-up-for-election.htm
 author: aotearoa-student-press-association
+permalink: /archive/2005/03/30/student-media-gears-up-for-election/index.html
+layout: layout.njk
 ---
 Student Media Gears Up for Election
 ===================================

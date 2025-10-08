@@ -1,9 +1,12 @@
 ---
 slug: keeping-warm-a-matter-of-life-and-death-greens
-title: "Keeping warm a matter of life and death: Greens"
-date: 2008-05-28
-source-url: https://www.scoop.co.nz/stories/PA0805/S00582/keeping-warm-a-matter-of-life-and-death-greens.htm
+title: 'Keeping warm a matter of life and death: Greens'
+date: 2008-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00582/keeping-warm-a-matter-of-life-and-death-greens.htm
 author: green-party
+permalink: /archive/2008/05/28/keeping-warm-a-matter-of-life-and-death-greens/index.html
+layout: layout.njk
 ---
 Keeping warm a matter of life and death: Greens
 ===============================================

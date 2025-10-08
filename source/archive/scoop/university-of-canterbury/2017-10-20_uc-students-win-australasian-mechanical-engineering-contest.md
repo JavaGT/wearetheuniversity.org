@@ -1,9 +1,13 @@
 ---
 slug: uc-students-win-australasian-mechanical-engineering-contest
-title: "UC students win Australasian mechanical engineering contest"
-date: 2017-10-20
-source-url: https://www.scoop.co.nz/stories/ED1710/S00061/uc-students-win-australasian-mechanical-engineering-contest.htm
+title: UC students win Australasian mechanical engineering contest
+date: 2017-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00061/uc-students-win-australasian-mechanical-engineering-contest.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/10/20/uc-students-win-australasian-mechanical-engineering-contest/index.html
+layout: layout.njk
 ---
 UC students win Australasian mechanical engineering contest
 ===========================================================

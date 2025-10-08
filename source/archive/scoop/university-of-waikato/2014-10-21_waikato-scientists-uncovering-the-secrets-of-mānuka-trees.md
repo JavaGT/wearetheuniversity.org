@@ -1,9 +1,12 @@
 ---
 slug: waikato-scientists-uncovering-the-secrets-of-mānuka-trees
-title: "Waikato scientists uncovering the secrets of mānuka trees"
-date: 2014-10-21
-source-url: https://www.scoop.co.nz/stories/SC1410/S00069/waikato-scientists-uncovering-the-secrets-of-manuka-trees.htm
+title: Waikato scientists uncovering the secrets of mānuka trees
+date: 2014-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00069/waikato-scientists-uncovering-the-secrets-of-manuka-trees.htm
 author: university-of-waikato
+permalink: /archive/2014/10/21/waikato-scientists-uncovering-the-secrets-of-m/index.html
+layout: layout.njk
 ---
 Waikato scientists uncovering the secrets of mānuka trees
 =========================================================

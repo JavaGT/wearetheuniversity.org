@@ -1,9 +1,12 @@
 ---
 slug: key-should-be-ashamed-over-student-debt
-title: "Key should be ashamed over student debt"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/PA1602/S00005/key-should-be-ashamed-over-student-debt.htm
+title: Key should be ashamed over student debt
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00005/key-should-be-ashamed-over-student-debt.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/01/key-should-be-ashamed-over-student-debt/index.html
+layout: layout.njk
 ---
 Key should be ashamed over student debt
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: celebrating-150-years-of-scientific-partnership-with-the-united-states
-title: "Celebrating 150 Years Of Scientific Partnership With The United States"
-date: 2024-02-26
-source-url: https://www.scoop.co.nz/stories/ED2402/S00030/celebrating-150-years-of-scientific-partnership-with-the-united-states.htm
+title: Celebrating 150 Years Of Scientific Partnership With The United States
+date: 2024-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2402/S00030/celebrating-150-years-of-scientific-partnership-with-the-united-states.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2024/02/26/celebrating-150-years-of-scientific-partnership-with-the-united-states/index.html
+layout: layout.njk
 ---
 Celebrating 150 Years Of Scientific Partnership With The United States
 ======================================================================

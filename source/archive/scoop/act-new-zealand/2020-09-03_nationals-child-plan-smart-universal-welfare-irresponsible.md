@@ -1,9 +1,13 @@
 ---
 slug: nationals-child-plan-smart-universal-welfare-irresponsible
-title: "National’s Child Plan Smart, Universal Welfare Irresponsible"
-date: 2020-09-03
-source-url: https://www.scoop.co.nz/stories/PA2009/S00021/nationals-child-plan-smart-universal-welfare-irresponsible.htm
+title: National’s Child Plan Smart, Universal Welfare Irresponsible
+date: 2020-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00021/nationals-child-plan-smart-universal-welfare-irresponsible.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/09/03/nationals-child-plan-smart-universal-welfare-irresponsible/index.html
+layout: layout.njk
 ---
 National’s Child Plan Smart, Universal Welfare Irresponsible
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-14
-title: "AUS Tertiary Update Vol.3 No.14"
-date: 2000-06-02
-source-url: https://www.scoop.co.nz/stories/ED0006/S00004/aus-tertiary-update-vol3-no14.htm
+title: AUS Tertiary Update Vol.3 No.14
+date: 2000-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00004/aus-tertiary-update-vol3-no14.htm
 author: association-of-university-staff
+permalink: /archive/2000/06/02/aus-tertiary-update-vol-3-no-14/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.14
 ===============================

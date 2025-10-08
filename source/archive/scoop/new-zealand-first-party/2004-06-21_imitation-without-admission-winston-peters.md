@@ -1,9 +1,12 @@
 ---
 slug: imitation-without-admission-winston-peters
-title: "Imitation Without Admission - Winston Peters"
-date: 2004-06-21
-source-url: https://www.scoop.co.nz/stories/PA0406/S00306/imitation-without-admission-winston-peters.htm
+title: Imitation Without Admission - Winston Peters
+date: 2004-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00306/imitation-without-admission-winston-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/21/imitation-without-admission-winston-peters/index.html
+layout: layout.njk
 ---
 Imitation Without Admission - Winston Peters
 ============================================

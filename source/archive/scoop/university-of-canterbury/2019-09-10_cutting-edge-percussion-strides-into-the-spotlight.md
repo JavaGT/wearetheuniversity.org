@@ -1,9 +1,13 @@
 ---
 slug: cutting-edge-percussion-strides-into-the-spotlight
-title: "Cutting-edge percussion strides into the spotlight"
-date: 2019-09-10
-source-url: https://www.scoop.co.nz/stories/CU1909/S00131/cutting-edge-percussion-strides-into-the-spotlight.htm
+title: Cutting-edge percussion strides into the spotlight
+date: 2019-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1909/S00131/cutting-edge-percussion-strides-into-the-spotlight.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/09/10/cutting-edge-percussion-strides-into-the-spotlight/index.html
+layout: layout.njk
 ---
 Cutting-edge percussion strides into the spotlight
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: wakanz-navigating-with-foresight
-title: "WakaNZ: Navigating with foresight"
-date: 2017-11-20
-source-url: https://www.scoop.co.nz/stories/PO1711/S00231/wakanz-navigating-with-foresight.htm
+title: 'WakaNZ: Navigating with foresight'
+date: 2017-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1711/S00231/wakanz-navigating-with-foresight.htm
 author: mcguinness-institute
+permalink: /archive/2017/11/20/wakanz-navigating-with-foresight/index.html
+layout: layout.njk
 ---
 WakaNZ: Navigating with foresight
 =================================

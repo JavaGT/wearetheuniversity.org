@@ -1,9 +1,12 @@
 ---
 slug: ian-warrington-awarded-professor-emeritus-title
-title: "Ian Warrington awarded professor emeritus title"
-date: 2011-10-13
-source-url: https://www.scoop.co.nz/stories/ED1110/S00048/ian-warrington-awarded-professor-emeritus-title.htm
+title: Ian Warrington awarded professor emeritus title
+date: 2011-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00048/ian-warrington-awarded-professor-emeritus-title.htm
 author: massey-university
+permalink: /archive/2011/10/13/ian-warrington-awarded-professor-emeritus-title/index.html
+layout: layout.njk
 ---
 Ian Warrington awarded professor emeritus title
 ===============================================

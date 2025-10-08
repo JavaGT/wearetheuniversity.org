@@ -1,9 +1,12 @@
 ---
 slug: pm-reveals-govts-aim-is-to-stifle-oil-&-gas-sector
-title: "PM reveals Govt’s aim is to stifle oil & gas sector"
-date: 2018-10-01
-source-url: https://www.scoop.co.nz/stories/PA1810/S00008/pm-reveals-govts-aim-is-to-stifle-oil-gas-sector.htm
+title: PM reveals Govt’s aim is to stifle oil & gas sector
+date: 2018-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00008/pm-reveals-govts-aim-is-to-stifle-oil-gas-sector.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/01/pm-reveals-govts-aim-is-to-stifle-oil-/index.html
+layout: layout.njk
 ---
 PM reveals Govt’s aim is to stifle oil & gas sector
 ===================================================

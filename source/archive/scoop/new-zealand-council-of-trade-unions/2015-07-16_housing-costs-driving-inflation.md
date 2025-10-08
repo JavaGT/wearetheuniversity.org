@@ -1,9 +1,12 @@
 ---
 slug: housing-costs-driving-inflation
-title: "Housing costs driving inflation"
-date: 2015-07-16
-source-url: https://www.scoop.co.nz/stories/PO1507/S00140/housing-costs-driving-inflation.htm
+title: Housing costs driving inflation
+date: 2015-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1507/S00140/housing-costs-driving-inflation.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2015/07/16/housing-costs-driving-inflation/index.html
+layout: layout.njk
 ---
 Housing costs driving inflation
 ===============================

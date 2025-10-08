@@ -1,9 +1,13 @@
 ---
 slug: ecstasy-and-alcohol-cause-serious-problems-during-pregnancy
-title: "Ecstasy and Alcohol Cause Serious Problems During Pregnancy"
-date: 2013-05-21
-source-url: https://www.scoop.co.nz/stories/SC1305/S00065/ecstasy-and-alcohol-cause-serious-problems-during-pregnancy.htm
+title: Ecstasy and Alcohol Cause Serious Problems During Pregnancy
+date: 2013-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00065/ecstasy-and-alcohol-cause-serious-problems-during-pregnancy.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/21/ecstasy-and-alcohol-cause-serious-problems-during-pregnancy/index.html
+layout: layout.njk
 ---
 Ecstasy and Alcohol Cause Serious Problems During Pregnancy
 ===========================================================

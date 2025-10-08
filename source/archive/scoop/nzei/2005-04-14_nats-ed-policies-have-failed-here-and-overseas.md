@@ -1,9 +1,12 @@
 ---
 slug: nats-ed-policies-have-failed-here-and-overseas
-title: "Nat's Ed Policies Have Failed Here And Overseas"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/ED0504/S00047/nats-ed-policies-have-failed-here-and-overseas.htm
+title: Nat's Ed Policies Have Failed Here And Overseas
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00047/nats-ed-policies-have-failed-here-and-overseas.htm
 author: nzei
+permalink: /archive/2005/04/14/nats-ed-policies-have-failed-here-and-overseas/index.html
+layout: layout.njk
 ---
 Nat's Ed Policies Have Failed Here And Overseas
 ===============================================

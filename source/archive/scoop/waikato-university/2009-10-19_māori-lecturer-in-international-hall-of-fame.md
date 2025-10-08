@@ -1,9 +1,12 @@
 ---
 slug: māori-lecturer-in-international-hall-of-fame
-title: "Māori lecturer in international Hall of Fame"
-date: 2009-10-19
-source-url: https://www.scoop.co.nz/stories/ED0910/S00077/maori-lecturer-in-international-hall-of-fame.htm
+title: Māori lecturer in international Hall of Fame
+date: 2009-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00077/maori-lecturer-in-international-hall-of-fame.htm
 author: waikato-university
+permalink: /archive/2009/10/19/m/index.html
+layout: layout.njk
 ---
 Māori lecturer in international Hall of Fame
 ============================================

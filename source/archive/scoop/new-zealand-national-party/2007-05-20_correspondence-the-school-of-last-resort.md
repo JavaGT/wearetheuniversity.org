@@ -1,9 +1,12 @@
 ---
 slug: correspondence-the-school-of-last-resort
-title: "Correspondence – the school of last resort"
-date: 2007-05-20
-source-url: https://www.scoop.co.nz/stories/PA0705/S00541/correspondence-the-school-of-last-resort.htm
+title: Correspondence – the school of last resort
+date: 2007-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00541/correspondence-the-school-of-last-resort.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/20/correspondence-the-school-of-last-resort/index.html
+layout: layout.njk
 ---
 Correspondence – the school of last resort
 ==========================================

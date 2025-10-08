@@ -1,9 +1,12 @@
 ---
 slug: young-greens-campaign-for-sues-bill
-title: "Young Greens campaign for Sue's Bill"
-date: 2005-12-09
-source-url: https://www.scoop.co.nz/stories/PA0512/S00134/young-greens-campaign-for-sues-bill.htm
+title: Young Greens campaign for Sue's Bill
+date: 2005-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00134/young-greens-campaign-for-sues-bill.htm
 author: green-party
+permalink: /archive/2005/12/09/young-greens-campaign-for-sues-bill/index.html
+layout: layout.njk
 ---
 Young Greens campaign for Sue's Bill
 ====================================

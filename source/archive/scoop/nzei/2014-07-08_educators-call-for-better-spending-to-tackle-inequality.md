@@ -1,9 +1,13 @@
 ---
 slug: educators-call-for-better-spending-to-tackle-inequality
-title: "Educators call for better spending to tackle inequality"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/PO1407/S00137/educators-call-for-better-spending-to-tackle-inequality.htm
+title: Educators call for better spending to tackle inequality
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00137/educators-call-for-better-spending-to-tackle-inequality.htm
 author: nzei
+permalink: >-
+  /archive/2014/07/08/educators-call-for-better-spending-to-tackle-inequality/index.html
+layout: layout.njk
 ---
 Educators call for better spending to tackle inequality
 =======================================================

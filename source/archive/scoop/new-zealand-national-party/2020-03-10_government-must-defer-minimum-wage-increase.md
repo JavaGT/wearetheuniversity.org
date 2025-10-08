@@ -1,9 +1,12 @@
 ---
 slug: government-must-defer-minimum-wage-increase
-title: "Government Must Defer Minimum Wage Increase"
-date: 2020-03-10
-source-url: https://www.scoop.co.nz/stories/PA2003/S00074/government-must-defer-minimum-wage-increase.htm
+title: Government Must Defer Minimum Wage Increase
+date: 2020-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00074/government-must-defer-minimum-wage-increase.htm
 author: new-zealand-national-party
+permalink: /archive/2020/03/10/government-must-defer-minimum-wage-increase/index.html
+layout: layout.njk
 ---
 Government Must Defer Minimum Wage Increase
 ===========================================

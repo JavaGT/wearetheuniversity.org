@@ -1,9 +1,12 @@
 ---
 slug: iconic-māori-college-still-needed
-title: "Iconic Māori College Still Needed"
-date: 2015-04-08
-source-url: https://www.scoop.co.nz/stories/PA1504/S00079/iconic-maori-college-still-needed.htm
+title: Iconic Māori College Still Needed
+date: 2015-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00079/iconic-maori-college-still-needed.htm
 author: new-zealand-first-party
+permalink: /archive/2015/04/08/iconic-m/index.html
+layout: layout.njk
 ---
 Iconic Māori College Still Needed
 =================================

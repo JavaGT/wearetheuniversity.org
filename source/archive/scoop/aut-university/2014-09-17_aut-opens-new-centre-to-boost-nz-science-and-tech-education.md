@@ -1,9 +1,13 @@
 ---
 slug: aut-opens-new-centre-to-boost-nz-science-and-tech-education
-title: "AUT Opens New Centre to Boost NZ Science And Tech Education"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/ED1409/S00106/aut-opens-new-centre-to-boost-nz-science-and-tech-education.htm
+title: AUT Opens New Centre to Boost NZ Science And Tech Education
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00106/aut-opens-new-centre-to-boost-nz-science-and-tech-education.htm
 author: aut-university
+permalink: >-
+  /archive/2014/09/17/aut-opens-new-centre-to-boost-nz-science-and-tech-education/index.html
+layout: layout.njk
 ---
 AUT Opens New Centre to Boost NZ Science And Tech Education
 ===========================================================

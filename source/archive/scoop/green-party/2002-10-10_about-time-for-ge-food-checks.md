@@ -1,9 +1,12 @@
 ---
 slug: about-time-for-ge-food-checks
-title: "About time for GE food checks"
-date: 2002-10-10
-source-url: https://www.scoop.co.nz/stories/PA0210/S00218/about-time-for-ge-food-checks.htm
+title: About time for GE food checks
+date: 2002-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00218/about-time-for-ge-food-checks.htm
 author: green-party
+permalink: /archive/2002/10/10/about-time-for-ge-food-checks/index.html
+layout: layout.njk
 ---
 About time for GE food checks
 =============================

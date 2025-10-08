@@ -1,9 +1,13 @@
 ---
 slug: students-applaud-demise-of-tertiary-savings-scheme
-title: "Students applaud demise of tertiary savings scheme"
-date: 2005-03-29
-source-url: https://www.scoop.co.nz/stories/ED0503/S00092/students-applaud-demise-of-tertiary-savings-scheme.htm
+title: Students applaud demise of tertiary savings scheme
+date: 2005-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00092/students-applaud-demise-of-tertiary-savings-scheme.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/03/29/students-applaud-demise-of-tertiary-savings-scheme/index.html
+layout: layout.njk
 ---
 Students applaud demise of tertiary savings scheme
 ==================================================

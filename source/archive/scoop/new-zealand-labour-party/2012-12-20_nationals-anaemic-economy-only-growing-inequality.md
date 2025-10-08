@@ -1,9 +1,13 @@
 ---
 slug: nationals-anaemic-economy-only-growing-inequality
-title: "National’s anaemic economy only growing inequality"
-date: 2012-12-20
-source-url: https://www.scoop.co.nz/stories/PA1212/S00373/nationals-anaemic-economy-only-growing-inequality.htm
+title: National’s anaemic economy only growing inequality
+date: 2012-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00373/nationals-anaemic-economy-only-growing-inequality.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/12/20/nationals-anaemic-economy-only-growing-inequality/index.html
+layout: layout.njk
 ---
 National’s anaemic economy only growing inequality
 ==================================================

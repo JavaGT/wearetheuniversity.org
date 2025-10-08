@@ -1,9 +1,12 @@
 ---
 slug: serious-attacks-on-teachers-rise
-title: "Serious Attacks On Teachers Rise"
-date: 2003-10-03
-source-url: https://www.scoop.co.nz/stories/PA0310/S00047/serious-attacks-on-teachers-rise.htm
+title: Serious Attacks On Teachers Rise
+date: 2003-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00047/serious-attacks-on-teachers-rise.htm
 author: act-new-zealand
+permalink: /archive/2003/10/03/serious-attacks-on-teachers-rise/index.html
+layout: layout.njk
 ---
 Serious Attacks On Teachers Rise
 ================================

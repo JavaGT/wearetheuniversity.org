@@ -1,9 +1,12 @@
 ---
 slug: claims-of-conventional-milk-risks-unjustified
-title: "Claims of Conventional Milk Risks Unjustified"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/ED0709/S00072/claims-of-conventional-milk-risks-unjustified.htm
+title: Claims of Conventional Milk Risks Unjustified
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00072/claims-of-conventional-milk-risks-unjustified.htm
 author: university-of-otago
+permalink: /archive/2007/09/21/claims-of-conventional-milk-risks-unjustified/index.html
+layout: layout.njk
 ---
 Claims of Conventional Milk Risks Unjustified
 =============================================

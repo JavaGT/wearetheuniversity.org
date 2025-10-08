@@ -1,9 +1,12 @@
 ---
 slug: pm-urged-to-see-impact-of-school-closures
-title: "PM urged to see impact of school closures"
-date: 2004-03-18
-source-url: https://www.scoop.co.nz/stories/WO0403/S00244/pm-urged-to-see-impact-of-school-closures.htm
+title: PM urged to see impact of school closures
+date: 2004-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0403/S00244/pm-urged-to-see-impact-of-school-closures.htm
 author: green-party
+permalink: /archive/2004/03/18/pm-urged-to-see-impact-of-school-closures/index.html
+layout: layout.njk
 ---
 PM urged to see impact of school closures
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: enzyme-immobilisation-breakthrough
-title: "Enzyme Immobilisation Breakthrough"
-date: 2002-02-08
-source-url: https://www.scoop.co.nz/stories/SC0202/S00006/enzyme-immobilisation-breakthrough.htm
+title: Enzyme Immobilisation Breakthrough
+date: 2002-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0202/S00006/enzyme-immobilisation-breakthrough.htm
 author: auckland-university
+permalink: /archive/2002/02/08/enzyme-immobilisation-breakthrough/index.html
+layout: layout.njk
 ---
 Enzyme Immobilisation Breakthrough
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: mcclay-says-kawerau-to-get-$15-6m-school-facilities
-title: "McClay says Kawerau to get $15.6m school facilities"
-date: 2013-08-20
-source-url: https://www.scoop.co.nz/stories/PA1308/S00331/mcclay-says-kawerau-to-get-156m-school-facilities.htm
+title: McClay says Kawerau to get $15.6m school facilities
+date: 2013-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00331/mcclay-says-kawerau-to-get-156m-school-facilities.htm
 author: new-zealand-national-party
+permalink: /archive/2013/08/20/mcclay-says-kawerau-to-get-/index.html
+layout: layout.njk
 ---
 McClay says Kawerau to get $15.6m school facilities
 ===================================================

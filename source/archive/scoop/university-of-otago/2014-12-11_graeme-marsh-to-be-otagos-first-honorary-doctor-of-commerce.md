@@ -1,9 +1,13 @@
 ---
 slug: graeme-marsh-to-be-otagos-first-honorary-doctor-of-commerce
-title: "Graeme Marsh to be Otago’s first Honorary Doctor of Commerce"
-date: 2014-12-11
-source-url: https://www.scoop.co.nz/stories/ED1412/S00078/graeme-marsh-to-be-otagos-first-honorary-doctor-of-commerce.htm
+title: Graeme Marsh to be Otago’s first Honorary Doctor of Commerce
+date: 2014-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00078/graeme-marsh-to-be-otagos-first-honorary-doctor-of-commerce.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/12/11/graeme-marsh-to-be-otagos-first-honorary-doctor-of-commerce/index.html
+layout: layout.njk
 ---
 Graeme Marsh to be Otago’s first Honorary Doctor of Commerce
 ============================================================

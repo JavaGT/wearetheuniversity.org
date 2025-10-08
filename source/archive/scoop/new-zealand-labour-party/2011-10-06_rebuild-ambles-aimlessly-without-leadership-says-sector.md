@@ -1,9 +1,13 @@
 ---
 slug: rebuild-ambles-aimlessly-without-leadership-says-sector
-title: "Rebuild ‘ambles aimlessly’ without leadership,  says sector"
-date: 2011-10-06
-source-url: https://www.scoop.co.nz/stories/PA1110/S00124/rebuild-ambles-aimlessly-without-leadership-says-sector.htm
+title: Rebuild ‘ambles aimlessly’ without leadership,  says sector
+date: 2011-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00124/rebuild-ambles-aimlessly-without-leadership-says-sector.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/10/06/rebuild-ambles-aimlessly-without-leadership-says-sector/index.html
+layout: layout.njk
 ---
 Rebuild ‘ambles aimlessly’ without leadership, says sector
 ==========================================================

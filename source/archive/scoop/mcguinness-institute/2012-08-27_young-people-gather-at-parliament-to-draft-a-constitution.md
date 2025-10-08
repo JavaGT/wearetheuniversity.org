@@ -1,9 +1,13 @@
 ---
 slug: young-people-gather-at-parliament-to-draft-a-constitution
-title: "Young People Gather at Parliament to Draft a Constitution"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/PO1208/S00422/young-people-gather-at-parliament-to-draft-a-constitution.htm
+title: Young People Gather at Parliament to Draft a Constitution
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00422/young-people-gather-at-parliament-to-draft-a-constitution.htm
 author: mcguinness-institute
+permalink: >-
+  /archive/2012/08/27/young-people-gather-at-parliament-to-draft-a-constitution/index.html
+layout: layout.njk
 ---
 Young People Gather at Parliament to Draft a Constitution
 =========================================================

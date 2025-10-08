@@ -1,9 +1,12 @@
 ---
 slug: lynne-pillay-valedictory-speech
-title: "Lynne Pillay Valedictory speech"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/PA1110/S00073/lynne-pillay-valedictory-speech.htm
+title: Lynne Pillay Valedictory speech
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00073/lynne-pillay-valedictory-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/05/lynne-pillay-valedictory-speech/index.html
+layout: layout.njk
 ---
 Lynne Pillay Valedictory speech
 ===============================

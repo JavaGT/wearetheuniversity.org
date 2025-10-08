@@ -1,9 +1,12 @@
 ---
 slug: franchise-sector-turnover-reaches-$20-billion
-title: "Franchise sector turnover reaches $20 billion"
-date: 2012-11-13
-source-url: https://www.scoop.co.nz/stories/BU1211/S00452/franchise-sector-turnover-reaches-20-billion.htm
+title: Franchise sector turnover reaches $20 billion
+date: 2012-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1211/S00452/franchise-sector-turnover-reaches-20-billion.htm
 author: massey-university
+permalink: /archive/2012/11/13/franchise-sector-turnover-reaches-/index.html
+layout: layout.njk
 ---
 Franchise sector turnover reaches $20 billion
 =============================================

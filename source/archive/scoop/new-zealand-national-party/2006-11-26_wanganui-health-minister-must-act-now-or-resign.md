@@ -1,9 +1,12 @@
 ---
 slug: wanganui-health-minister-must-act-now-or-resign
-title: "Wanganui: Health Minister must act now – or resign"
-date: 2006-11-26
-source-url: https://www.scoop.co.nz/stories/PA0611/S00501/wanganui-health-minister-must-act-now-or-resign.htm
+title: 'Wanganui: Health Minister must act now – or resign'
+date: 2006-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00501/wanganui-health-minister-must-act-now-or-resign.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/26/wanganui-health-minister-must-act-now-or-resign/index.html
+layout: layout.njk
 ---
 Wanganui: Health Minister must act now – or resign
 ==================================================

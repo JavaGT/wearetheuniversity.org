@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-shore-to-the-fore
-title: "The Mapp Report: Shore to the Fore"
-date: 2008-06-06
-source-url: https://www.scoop.co.nz/stories/PA0806/S00081/the-mapp-report-shore-to-the-fore.htm
+title: 'The Mapp Report: Shore to the Fore'
+date: 2008-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00081/the-mapp-report-shore-to-the-fore.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/06/the-mapp-report-shore-to-the-fore/index.html
+layout: layout.njk
 ---
 The Mapp Report: Shore to the Fore
 ==================================

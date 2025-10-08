@@ -1,9 +1,12 @@
 ---
 slug: special-education-negotiators-settle-pay-deal
-title: "Special Education Negotiators Settle Pay Deal"
-date: 2003-10-17
-source-url: https://www.scoop.co.nz/stories/ED0310/S00073/special-education-negotiators-settle-pay-deal.htm
+title: Special Education Negotiators Settle Pay Deal
+date: 2003-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00073/special-education-negotiators-settle-pay-deal.htm
 author: nzei
+permalink: /archive/2003/10/17/special-education-negotiators-settle-pay-deal/index.html
+layout: layout.njk
 ---
 Special Education Negotiators Settle Pay Deal
 =============================================

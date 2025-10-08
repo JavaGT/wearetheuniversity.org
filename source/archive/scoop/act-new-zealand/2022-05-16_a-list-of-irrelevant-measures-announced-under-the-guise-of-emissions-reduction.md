@@ -1,9 +1,15 @@
 ---
 slug: a-list-of-irrelevant-measures-announced-under-the-guise-of-emissions-reduction
-title: "A List Of Irrelevant Measures Announced Under The Guise Of ‘Emissions Reduction’"
-date: 2022-05-16
-source-url: https://www.scoop.co.nz/stories/PA2205/S00144/a-list-of-irrelevant-measures-announced-under-the-guise-of-emissions-reduction.htm
+title: >-
+  A List Of Irrelevant Measures Announced Under The Guise Of ‘Emissions
+  Reduction’
+date: 2022-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00144/a-list-of-irrelevant-measures-announced-under-the-guise-of-emissions-reduction.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/05/16/a-list-of-irrelevant-measures-announced-under-the-guise-of-emissions-reduction/index.html
+layout: layout.njk
 ---
 A List Of Irrelevant Measures Announced Under The Guise Of ‘Emissions Reduction’
 ================================================================================

@@ -1,9 +1,11 @@
 ---
 slug: time-to-come-clean-on-ncea
-title: "Time to come clean on NCEA"
-date: 2004-08-13
+title: Time to come clean on NCEA
+date: 2004-08-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0408/S00269/time-to-come-clean-on-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/13/time-to-come-clean-on-ncea/index.html
+layout: layout.njk
 ---
 Time to come clean on NCEA
 ==========================

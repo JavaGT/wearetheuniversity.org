@@ -1,9 +1,13 @@
 ---
 slug: simon-bridges-speech-to-fieldays-on-climate-change
-title: "Simon Bridges: Speech to Fieldays on climate change"
-date: 2018-06-15
-source-url: https://www.scoop.co.nz/stories/PA1806/S00152/simon-bridges-speech-to-fieldays-on-climate-change.htm
+title: 'Simon Bridges: Speech to Fieldays on climate change'
+date: 2018-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00152/simon-bridges-speech-to-fieldays-on-climate-change.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/06/15/simon-bridges-speech-to-fieldays-on-climate-change/index.html
+layout: layout.njk
 ---
 Simon Bridges: Speech to Fieldays on climate change
 ===================================================

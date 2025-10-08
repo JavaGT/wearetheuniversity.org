@@ -1,9 +1,12 @@
 ---
 slug: time-to-show-mallard-weve-had-enough
-title: "Time To Show Mallard We've Had Enough"
-date: 2004-02-11
-source-url: https://www.scoop.co.nz/stories/PA0402/S00154/time-to-show-mallard-weve-had-enough.htm
+title: Time To Show Mallard We've Had Enough
+date: 2004-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00154/time-to-show-mallard-weve-had-enough.htm
 author: act-new-zealand
+permalink: /archive/2004/02/11/time-to-show-mallard-weve-had-enough/index.html
+layout: layout.njk
 ---
 Time To Show Mallard We've Had Enough
 =====================================

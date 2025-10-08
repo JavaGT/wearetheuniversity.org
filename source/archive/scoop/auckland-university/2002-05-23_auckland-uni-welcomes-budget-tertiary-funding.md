@@ -1,9 +1,12 @@
 ---
 slug: auckland-uni-welcomes-budget-tertiary-funding
-title: "Auckland Uni Welcomes Budget Tertiary Funding"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/ED0205/S00050/auckland-uni-welcomes-budget-tertiary-funding.htm
+title: Auckland Uni Welcomes Budget Tertiary Funding
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00050/auckland-uni-welcomes-budget-tertiary-funding.htm
 author: auckland-university
+permalink: /archive/2002/05/23/auckland-uni-welcomes-budget-tertiary-funding/index.html
+layout: layout.njk
 ---
 Auckland Uni Welcomes Budget Tertiary Funding
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: juniper-passion-opera-to-premiere-in-italy
-title: "Juniper Passion Opera to Premiere In Italy"
-date: 2013-06-20
-source-url: https://www.scoop.co.nz/stories/CU1306/S00266/juniper-passion-opera-to-premiere-in-italy.htm
+title: Juniper Passion Opera to Premiere In Italy
+date: 2013-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1306/S00266/juniper-passion-opera-to-premiere-in-italy.htm
 author: university-of-waikato
+permalink: /archive/2013/06/20/juniper-passion-opera-to-premiere-in-italy/index.html
+layout: layout.njk
 ---
 Juniper Passion Opera to Premiere In Italy
 ==========================================

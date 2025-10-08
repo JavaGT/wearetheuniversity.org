@@ -1,9 +1,12 @@
 ---
 slug: trade-unions-mourn-the-death-of-pat-kelly
-title: "Trade Unions Mourn the Death of Pat Kelly"
-date: 2004-06-24
-source-url: https://www.scoop.co.nz/stories/PO0406/S00250/trade-unions-mourn-the-death-of-pat-kelly.htm
+title: Trade Unions Mourn the Death of Pat Kelly
+date: 2004-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0406/S00250/trade-unions-mourn-the-death-of-pat-kelly.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/06/24/trade-unions-mourn-the-death-of-pat-kelly/index.html
+layout: layout.njk
 ---
 Trade Unions Mourn the Death of Pat Kelly
 =========================================

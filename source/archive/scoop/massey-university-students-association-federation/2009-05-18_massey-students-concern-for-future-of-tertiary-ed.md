@@ -1,9 +1,13 @@
 ---
 slug: massey-students-concern-for-future-of-tertiary-ed
-title: "Massey students concern for future of tertiary ed"
-date: 2009-05-18
-source-url: https://www.scoop.co.nz/stories/ED0905/S00072/massey-students-concern-for-future-of-tertiary-ed.htm
+title: Massey students concern for future of tertiary ed
+date: 2009-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00072/massey-students-concern-for-future-of-tertiary-ed.htm
 author: massey-university-students-association-federation
+permalink: >-
+  /archive/2009/05/18/massey-students-concern-for-future-of-tertiary-ed/index.html
+layout: layout.njk
 ---
 Massey students concern for future of tertiary ed
 =================================================

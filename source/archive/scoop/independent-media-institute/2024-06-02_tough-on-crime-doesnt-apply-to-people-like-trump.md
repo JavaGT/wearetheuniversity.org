@@ -1,9 +1,13 @@
 ---
 slug: tough-on-crime-doesnt-apply-to-people-like-trump
-title: "‘Tough-on-Crime’ Doesn’t Apply To People Like Trump"
-date: 2024-06-02
-source-url: https://www.scoop.co.nz/stories/WO2406/S00010/tough-on-crime-doesnt-apply-to-people-like-trump.htm
+title: ‘Tough-on-Crime’ Doesn’t Apply To People Like Trump
+date: 2024-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2406/S00010/tough-on-crime-doesnt-apply-to-people-like-trump.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/06/02/tough-on-crime-doesnt-apply-to-people-like-trump/index.html
+layout: layout.njk
 ---
 ‘Tough-on-Crime’ Doesn’t Apply To People Like Trump
 ===================================================

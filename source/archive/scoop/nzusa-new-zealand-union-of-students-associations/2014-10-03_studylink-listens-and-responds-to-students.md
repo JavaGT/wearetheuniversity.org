@@ -1,9 +1,12 @@
 ---
 slug: studylink-listens-and-responds-to-students
-title: "Studylink Listens and Responds to Students"
-date: 2014-10-03
-source-url: https://www.scoop.co.nz/stories/ED1410/S00029/studylink-listens-and-responds-to-students.htm
+title: Studylink Listens and Responds to Students
+date: 2014-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00029/studylink-listens-and-responds-to-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/10/03/studylink-listens-and-responds-to-students/index.html
+layout: layout.njk
 ---
 Studylink Listens and Responds to Students
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: connecting-ucs-research-with-the-world
-title: "Connecting UC’s research with the world"
-date: 2010-02-25
-source-url: https://www.scoop.co.nz/stories/ED1002/S00094/connecting-ucs-research-with-the-world.htm
+title: Connecting UC’s research with the world
+date: 2010-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00094/connecting-ucs-research-with-the-world.htm
 author: university-of-canterbury
+permalink: /archive/2010/02/25/connecting-ucs-research-with-the-world/index.html
+layout: layout.njk
 ---
 Connecting UC’s research with the world
 =======================================

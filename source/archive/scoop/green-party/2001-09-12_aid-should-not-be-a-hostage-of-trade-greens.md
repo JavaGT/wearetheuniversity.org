@@ -1,9 +1,12 @@
 ---
 slug: aid-should-not-be-a-hostage-of-trade-greens
-title: "Aid should not be a hostage of trade - Greens"
-date: 2001-09-12
-source-url: https://www.scoop.co.nz/stories/PA0109/S00169/aid-should-not-be-a-hostage-of-trade-greens.htm
+title: Aid should not be a hostage of trade - Greens
+date: 2001-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00169/aid-should-not-be-a-hostage-of-trade-greens.htm
 author: green-party
+permalink: /archive/2001/09/12/aid-should-not-be-a-hostage-of-trade-greens/index.html
+layout: layout.njk
 ---
 Aid should not be a hostage of trade - Greens
 =============================================

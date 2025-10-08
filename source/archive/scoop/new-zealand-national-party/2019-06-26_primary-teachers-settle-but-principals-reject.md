@@ -1,9 +1,12 @@
 ---
 slug: primary-teachers-settle-but-principals-reject
-title: "Primary teachers settle but principals reject"
-date: 2019-06-26
-source-url: https://www.scoop.co.nz/stories/PA1906/S00225/primary-teachers-settle-but-principals-reject.htm
+title: Primary teachers settle but principals reject
+date: 2019-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00225/primary-teachers-settle-but-principals-reject.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/26/primary-teachers-settle-but-principals-reject/index.html
+layout: layout.njk
 ---
 Primary teachers settle but principals reject
 =============================================

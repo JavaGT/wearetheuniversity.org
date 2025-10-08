@@ -1,9 +1,12 @@
 ---
 slug: snell-to-open-garden-before-knighthood
-title: "Snell to open garden before knighthood"
-date: 2009-08-12
-source-url: https://www.scoop.co.nz/stories/AK0908/S00155/snell-to-open-garden-before-knighthood.htm
+title: Snell to open garden before knighthood
+date: 2009-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0908/S00155/snell-to-open-garden-before-knighthood.htm
 author: massey-university
+permalink: /archive/2009/08/12/snell-to-open-garden-before-knighthood/index.html
+layout: layout.njk
 ---
 Snell to open garden before knighthood
 ======================================

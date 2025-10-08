@@ -1,9 +1,11 @@
 ---
 slug: cheap-food-has-high-price
-title: "Cheap food has high price"
-date: 2016-06-20
+title: Cheap food has high price
+date: 2016-06-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1606/S00547/cheap-food-has-high-price.htm
 author: lincoln-university
+permalink: /archive/2016/06/20/cheap-food-has-high-price/index.html
+layout: layout.njk
 ---
 Cheap food has high price
 =========================

@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-welcomes-crime-prevention-initiative-for-small-businesses
-title: "New Zealand First Welcomes Crime Prevention Initiative For Small Businesses"
-date: 2020-03-06
-source-url: https://www.scoop.co.nz/stories/PA2003/S00054/new-zealand-first-welcomes-crime-prevention-initiative-for-small-businesses.htm
+title: New Zealand First Welcomes Crime Prevention Initiative For Small Businesses
+date: 2020-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00054/new-zealand-first-welcomes-crime-prevention-initiative-for-small-businesses.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/03/06/new-zealand-first-welcomes-crime-prevention-initiative-for-small-businesses/index.html
+layout: layout.njk
 ---
 New Zealand First Welcomes Crime Prevention Initiative For Small Businesses
 ===========================================================================

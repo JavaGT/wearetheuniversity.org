@@ -1,9 +1,13 @@
 ---
 slug: former-prime-minister-to-lecture-on-celtic-tiger
-title: "Former Prime Minister to lecture on ‘Celtic Tiger’"
-date: 2004-09-06
-source-url: https://www.scoop.co.nz/stories/ED0409/S00019/former-prime-minister-to-lecture-on-celtic-tiger.htm
+title: Former Prime Minister to lecture on ‘Celtic Tiger’
+date: 2004-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00019/former-prime-minister-to-lecture-on-celtic-tiger.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/09/06/former-prime-minister-to-lecture-on-celtic-tiger/index.html
+layout: layout.njk
 ---
 Former Prime Minister to lecture on ‘Celtic Tiger’
 ==================================================

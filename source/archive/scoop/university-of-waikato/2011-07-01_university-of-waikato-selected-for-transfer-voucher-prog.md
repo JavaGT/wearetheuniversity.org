@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-selected-for-transfer-voucher-prog
-title: "University of Waikato selected for Transfer Voucher Programme"
-date: 2011-07-01
-source-url: https://www.scoop.co.nz/stories/ED1107/S00003/university-of-waikato-selected-for-transfer-voucher-prog.htm
+title: University of Waikato selected for Transfer Voucher Programme
+date: 2011-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00003/university-of-waikato-selected-for-transfer-voucher-prog.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/07/01/university-of-waikato-selected-for-transfer-voucher-prog/index.html
+layout: layout.njk
 ---
 University of Waikato selected for Transfer Voucher Prog"
 =========================================================

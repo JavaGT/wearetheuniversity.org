@@ -1,9 +1,12 @@
 ---
 slug: students-unimpressed-by-lamington-attack
-title: "Students unimpressed by lamington attack"
-date: 2012-03-09
-source-url: https://www.scoop.co.nz/stories/PO1203/S00114/students-unimpressed-by-lamington-attack.htm
+title: Students unimpressed by lamington attack
+date: 2012-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00114/students-unimpressed-by-lamington-attack.htm
 author: auckland-university-students-association
+permalink: /archive/2012/03/09/students-unimpressed-by-lamington-attack/index.html
+layout: layout.njk
 ---
 Students unimpressed by lamington attack
 ========================================

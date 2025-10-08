@@ -1,9 +1,13 @@
 ---
 slug: students-create-world-first-3d-printed-titanium-engine
-title: "Students create world-first 3D-printed titanium engine"
-date: 2018-02-23
-source-url: https://www.scoop.co.nz/stories/SC1802/S00052/students-create-world-first-3d-printed-titanium-engine.htm
+title: Students create world-first 3D-printed titanium engine
+date: 2018-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00052/students-create-world-first-3d-printed-titanium-engine.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/02/23/students-create-world-first-3d-printed-titanium-engine/index.html
+layout: layout.njk
 ---
 Students create world-first 3D-printed titanium engine
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: local-student-selected-as-youth-mp
-title: "Local student selected as Youth MP"
-date: 2015-11-16
-source-url: https://www.scoop.co.nz/stories/PA1511/S00282/local-student-selected-as-youth-mp.htm
+title: Local student selected as Youth MP
+date: 2015-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00282/local-student-selected-as-youth-mp.htm
 author: new-zealand-national-party
+permalink: /archive/2015/11/16/local-student-selected-as-youth-mp/index.html
+layout: layout.njk
 ---
 Local student selected as Youth MP
 ==================================

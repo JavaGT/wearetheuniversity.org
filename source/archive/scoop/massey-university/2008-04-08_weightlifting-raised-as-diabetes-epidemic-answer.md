@@ -1,9 +1,13 @@
 ---
 slug: weightlifting-raised-as-diabetes-epidemic-answer
-title: "Weightlifting raised as diabetes epidemic answer"
-date: 2008-04-08
-source-url: https://www.scoop.co.nz/stories/ED0804/S00016/weightlifting-raised-as-diabetes-epidemic-answer.htm
+title: Weightlifting raised as diabetes epidemic answer
+date: 2008-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00016/weightlifting-raised-as-diabetes-epidemic-answer.htm
 author: massey-university
+permalink: >-
+  /archive/2008/04/08/weightlifting-raised-as-diabetes-epidemic-answer/index.html
+layout: layout.njk
 ---
 Weightlifting raised as diabetes epidemic answer
 ================================================

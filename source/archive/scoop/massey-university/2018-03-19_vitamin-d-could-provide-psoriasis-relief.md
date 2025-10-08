@@ -1,9 +1,12 @@
 ---
 slug: vitamin-d-could-provide-psoriasis-relief
-title: "Vitamin D could provide psoriasis relief"
-date: 2018-03-19
-source-url: https://www.scoop.co.nz/stories/GE1803/S00046/vitamin-d-could-provide-psoriasis-relief.htm
+title: Vitamin D could provide psoriasis relief
+date: 2018-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1803/S00046/vitamin-d-could-provide-psoriasis-relief.htm
 author: massey-university
+permalink: /archive/2018/03/19/vitamin-d-could-provide-psoriasis-relief/index.html
+layout: layout.njk
 ---
 Vitamin D could provide psoriasis relief
 ========================================

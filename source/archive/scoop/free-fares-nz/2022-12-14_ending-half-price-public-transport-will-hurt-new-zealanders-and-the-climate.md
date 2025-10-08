@@ -1,9 +1,13 @@
 ---
 slug: ending-half-price-public-transport-will-hurt-new-zealanders-and-the-climate
-title: "Ending Half-price Public Transport Will Hurt New Zealanders And The Climate"
-date: 2022-12-14
-source-url: https://www.scoop.co.nz/stories/PO2212/S00117/ending-half-price-public-transport-will-hurt-new-zealanders-and-the-climate.htm
+title: Ending Half-price Public Transport Will Hurt New Zealanders And The Climate
+date: 2022-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2212/S00117/ending-half-price-public-transport-will-hurt-new-zealanders-and-the-climate.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2022/12/14/ending-half-price-public-transport-will-hurt-new-zealanders-and-the-climate/index.html
+layout: layout.njk
 ---
 Ending Half-price Public Transport Will Hurt New Zealanders And The Climate
 ===========================================================================

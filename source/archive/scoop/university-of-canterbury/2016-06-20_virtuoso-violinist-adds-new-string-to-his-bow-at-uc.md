@@ -1,9 +1,13 @@
 ---
 slug: virtuoso-violinist-adds-new-string-to-his-bow-at-uc
-title: "Virtuoso violinist adds new string to his bow at UC"
-date: 2016-06-20
-source-url: https://www.scoop.co.nz/stories/ED1606/S00071/virtuoso-violinist-adds-new-string-to-his-bow-at-uc.htm
+title: Virtuoso violinist adds new string to his bow at UC
+date: 2016-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00071/virtuoso-violinist-adds-new-string-to-his-bow-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/20/virtuoso-violinist-adds-new-string-to-his-bow-at-uc/index.html
+layout: layout.njk
 ---
 Virtuoso violinist adds new string to his bow at UC
 ===================================================

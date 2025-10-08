@@ -1,9 +1,13 @@
 ---
 slug: wide-ranging-and-effective-contributions-by-students
-title: "Wide-ranging and effective contributions by students"
-date: 2015-03-24
-source-url: https://www.scoop.co.nz/stories/ED1503/S00099/wide-ranging-and-effective-contributions-by-students.htm
+title: Wide-ranging and effective contributions by students
+date: 2015-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00099/wide-ranging-and-effective-contributions-by-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/24/wide-ranging-and-effective-contributions-by-students/index.html
+layout: layout.njk
 ---
 Wide-ranging and effective contributions by students
 ====================================================

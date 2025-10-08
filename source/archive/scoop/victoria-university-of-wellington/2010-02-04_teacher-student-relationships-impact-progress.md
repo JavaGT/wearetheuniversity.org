@@ -1,9 +1,12 @@
 ---
 slug: teacher-student-relationships-impact-progress
-title: "Teacher-student relationships impact progress"
-date: 2010-02-04
-source-url: https://www.scoop.co.nz/stories/ED1002/S00013/teacher-student-relationships-impact-progress.htm
+title: Teacher-student relationships impact progress
+date: 2010-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00013/teacher-student-relationships-impact-progress.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/02/04/teacher-student-relationships-impact-progress/index.html
+layout: layout.njk
 ---
 Teacher-student relationships impact progress
 =============================================

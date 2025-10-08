@@ -1,9 +1,12 @@
 ---
 slug: national-will-bring-back-exams
-title: "National Will Bring Back Exams"
-date: 2001-05-07
-source-url: https://www.scoop.co.nz/stories/PA0105/S00129/national-will-bring-back-exams.htm
+title: National Will Bring Back Exams
+date: 2001-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00129/national-will-bring-back-exams.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/07/national-will-bring-back-exams/index.html
+layout: layout.njk
 ---
 National Will Bring Back Exams
 ==============================

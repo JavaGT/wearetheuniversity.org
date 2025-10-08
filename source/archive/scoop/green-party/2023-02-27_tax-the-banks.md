@@ -1,9 +1,11 @@
 ---
 slug: tax-the-banks
-title: "Tax The Banks"
-date: 2023-02-27
+title: Tax The Banks
+date: 2023-02-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2302/S00138/tax-the-banks.htm
 author: green-party
+permalink: /archive/2023/02/27/tax-the-banks/index.html
+layout: layout.njk
 ---
 Tax The Banks
 =============

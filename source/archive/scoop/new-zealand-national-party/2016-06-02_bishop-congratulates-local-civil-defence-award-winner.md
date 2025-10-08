@@ -1,9 +1,13 @@
 ---
 slug: bishop-congratulates-local-civil-defence-award-winner
-title: "Bishop congratulates local civil defence award winner"
-date: 2016-06-02
-source-url: https://www.scoop.co.nz/stories/PA1606/S00032/bishop-congratulates-local-civil-defence-award-winner.htm
+title: Bishop congratulates local civil defence award winner
+date: 2016-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00032/bishop-congratulates-local-civil-defence-award-winner.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/06/02/bishop-congratulates-local-civil-defence-award-winner/index.html
+layout: layout.njk
 ---
 Bishop congratulates local civil defence award winner
 =====================================================

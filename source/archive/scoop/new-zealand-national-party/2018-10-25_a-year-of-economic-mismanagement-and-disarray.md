@@ -1,9 +1,12 @@
 ---
 slug: a-year-of-economic-mismanagement-and-disarray
-title: "A year of economic mismanagement and disarray"
-date: 2018-10-25
-source-url: https://www.scoop.co.nz/stories/PA1810/S00248/a-year-of-economic-mismanagement-and-disarray.htm
+title: A year of economic mismanagement and disarray
+date: 2018-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00248/a-year-of-economic-mismanagement-and-disarray.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/25/a-year-of-economic-mismanagement-and-disarray/index.html
+layout: layout.njk
 ---
 A year of economic mismanagement and disarray
 =============================================

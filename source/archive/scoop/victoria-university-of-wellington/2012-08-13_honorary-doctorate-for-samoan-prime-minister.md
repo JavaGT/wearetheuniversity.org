@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-samoan-prime-minister
-title: "Honorary Doctorate for Samoan Prime Minister"
-date: 2012-08-13
-source-url: https://www.scoop.co.nz/stories/ED1208/S00073/honorary-doctorate-for-samoan-prime-minister.htm
+title: Honorary Doctorate for Samoan Prime Minister
+date: 2012-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00073/honorary-doctorate-for-samoan-prime-minister.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/08/13/honorary-doctorate-for-samoan-prime-minister/index.html
+layout: layout.njk
 ---
 Honorary Doctorate for Samoan Prime Minister
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: watershed-plan-to-end-streaming-in-schools-released
-title: "Watershed Plan To End Streaming In Schools Released"
-date: 2023-03-20
-source-url: https://www.scoop.co.nz/stories/ED2303/S00029/watershed-plan-to-end-streaming-in-schools-released.htm
+title: Watershed Plan To End Streaming In Schools Released
+date: 2023-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00029/watershed-plan-to-end-streaming-in-schools-released.htm
 author: nzei
+permalink: >-
+  /archive/2023/03/20/watershed-plan-to-end-streaming-in-schools-released/index.html
+layout: layout.njk
 ---
 Watershed Plan To End Streaming In Schools Released
 ===================================================

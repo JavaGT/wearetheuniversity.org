@@ -1,9 +1,13 @@
 ---
 slug: uc-eco-marathon-team-wins-the-innovation-award-at-singapore
-title: "UC Eco-Marathon Team Wins the Innovation Award at Singapore"
-date: 2018-03-16
-source-url: https://www.scoop.co.nz/stories/ED1803/S00055/uc-eco-marathon-team-wins-the-innovation-award-at-singapore.htm
+title: UC Eco-Marathon Team Wins the Innovation Award at Singapore
+date: 2018-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00055/uc-eco-marathon-team-wins-the-innovation-award-at-singapore.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/03/16/uc-eco-marathon-team-wins-the-innovation-award-at-singapore/index.html
+layout: layout.njk
 ---
 UC Eco-Marathon Team Wins the Innovation Award at Singapore
 ===========================================================

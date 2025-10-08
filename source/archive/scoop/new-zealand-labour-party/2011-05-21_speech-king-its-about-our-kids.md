@@ -1,9 +1,12 @@
 ---
 slug: speech-king-its-about-our-kids
-title: "Speech: King - \"It’s About Our Kids\""
-date: 2011-05-21
-source-url: https://www.scoop.co.nz/stories/PA1105/S00503/speech-king-its-about-our-kids.htm
+title: 'Speech: King - "It’s About Our Kids"'
+date: 2011-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00503/speech-king-its-about-our-kids.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/21/speech-king-its-about-our-kids/index.html
+layout: layout.njk
 ---
 Speech: King - “It’s About Our Kids”
 ====================================

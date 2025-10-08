@@ -1,9 +1,13 @@
 ---
 slug: waste-management-critical-to-natural-disaster-recovery
-title: "Waste management critical to natural disaster recovery"
-date: 2011-04-12
-source-url: https://www.scoop.co.nz/stories/ED1104/S00040/waste-management-critical-to-natural-disaster-recovery.htm
+title: Waste management critical to natural disaster recovery
+date: 2011-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00040/waste-management-critical-to-natural-disaster-recovery.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/04/12/waste-management-critical-to-natural-disaster-recovery/index.html
+layout: layout.njk
 ---
 Waste management critical to natural disaster recovery
 ======================================================

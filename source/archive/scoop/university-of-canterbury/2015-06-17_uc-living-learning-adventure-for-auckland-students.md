@@ -1,9 +1,13 @@
 ---
 slug: uc-living-learning-adventure-for-auckland-students
-title: "UC living-learning adventure for Auckland students"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/ED1506/S00081/uc-living-learning-adventure-for-auckland-students.htm
+title: UC living-learning adventure for Auckland students
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00081/uc-living-learning-adventure-for-auckland-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/06/17/uc-living-learning-adventure-for-auckland-students/index.html
+layout: layout.njk
 ---
 UC living-learning adventure for Auckland students
 ==================================================

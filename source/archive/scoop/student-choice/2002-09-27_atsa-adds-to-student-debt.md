@@ -1,9 +1,11 @@
 ---
 slug: atsa-adds-to-student-debt
-title: "ATSA Adds To Student Debt"
-date: 2002-09-27
+title: ATSA Adds To Student Debt
+date: 2002-09-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0209/S00056/atsa-adds-to-student-debt.htm
 author: student-choice
+permalink: /archive/2002/09/27/atsa-adds-to-student-debt/index.html
+layout: layout.njk
 ---
 ATSA Adds To Student Debt
 =========================

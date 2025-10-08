@@ -1,9 +1,13 @@
 ---
 slug: pay-talks-for-school-support-staff-as-they-battle-inequity
-title: "Pay talks for school support staff as they battle inequity"
-date: 2011-03-30
-source-url: https://www.scoop.co.nz/stories/AK1103/S01015/pay-talks-for-school-support-staff-as-they-battle-inequity.htm
+title: Pay talks for school support staff as they battle inequity
+date: 2011-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S01015/pay-talks-for-school-support-staff-as-they-battle-inequity.htm
 author: nzei
+permalink: >-
+  /archive/2011/03/30/pay-talks-for-school-support-staff-as-they-battle-inequity/index.html
+layout: layout.njk
 ---
 Pay talks for school support staff as they battle inequity
 ==========================================================

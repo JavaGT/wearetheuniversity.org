@@ -1,8 +1,15 @@
 ---
-slug: mother-and-baby-clinical-trials-could-save-the-health-system-$290-million-over-five-years
-title: "Mother and baby clinical trials could save the health system $290 million over five years"
-date: 2017-11-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/mother-baby-clinical-trials-could-save-the-health-system-290-million-over-five-years.html
+slug: >-
+  mother-and-baby-clinical-trials-could-save-the-health-system-$290-million-over-five-years
+title: >-
+  Mother and baby clinical trials could save the health system $290 million over
+  five years
+date: 2017-11-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/mother-baby-clinical-trials-could-save-the-health-system-290-million-over-five-years.html
+permalink: >-
+  /archive/2017/11/15/mother-and-baby-clinical-trials-could-save-the-health-system-/index.html
+layout: layout.njk
 ---
 Mother and baby clinical trials could save the health system $290 million over five years
 =========================================================================================

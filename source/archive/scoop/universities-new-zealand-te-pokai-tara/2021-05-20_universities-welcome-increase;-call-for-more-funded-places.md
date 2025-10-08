@@ -1,9 +1,12 @@
 ---
 slug: universities-welcome-increase;-call-for-more-funded-places
-title: "Universities Welcome Increase; Call For More Funded Places"
-date: 2021-05-20
-source-url: https://www.scoop.co.nz/stories/ED2105/S00043/universities-welcome-increase-call-for-more-funded-places.htm
+title: Universities Welcome Increase; Call For More Funded Places
+date: 2021-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00043/universities-welcome-increase-call-for-more-funded-places.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2021/05/20/universities-welcome-increase/index.html
+layout: layout.njk
 ---
 Universities Welcome Increase; Call For More Funded Places
 ==========================================================

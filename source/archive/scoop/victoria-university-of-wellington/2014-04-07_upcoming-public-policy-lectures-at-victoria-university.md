@@ -1,9 +1,13 @@
 ---
 slug: upcoming-public-policy-lectures-at-victoria-university
-title: "Upcoming Public Policy Lectures at Victoria University"
-date: 2014-04-07
-source-url: https://www.scoop.co.nz/stories/ED1404/S00034/upcoming-public-policy-lectures-at-victoria-university.htm
+title: Upcoming Public Policy Lectures at Victoria University
+date: 2014-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00034/upcoming-public-policy-lectures-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/04/07/upcoming-public-policy-lectures-at-victoria-university/index.html
+layout: layout.njk
 ---
 Upcoming Public Policy Lectures at Victoria University
 ======================================================

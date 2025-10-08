@@ -1,9 +1,13 @@
 ---
 slug: kelvin-davis-get-out-of-community-work-free-card
-title: "Kelvin Davis’ ‘get Out Of Community Work Free’ Card"
-date: 2021-11-12
-source-url: https://www.scoop.co.nz/stories/PA2111/S00151/kelvin-davis-get-out-of-community-work-free-card.htm
+title: Kelvin Davis’ ‘get Out Of Community Work Free’ Card
+date: 2021-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00151/kelvin-davis-get-out-of-community-work-free-card.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/12/kelvin-davis-get-out-of-community-work-free-card/index.html
+layout: layout.njk
 ---
 Kelvin Davis’ ‘get Out Of Community Work Free’ Card
 ===================================================

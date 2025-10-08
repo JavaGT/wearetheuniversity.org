@@ -1,9 +1,13 @@
 ---
 slug: aucklands-trees-vulnerable-to-housing-intensification
-title: "Auckland’s trees vulnerable to housing intensification"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/SC1506/S00017/aucklands-trees-vulnerable-to-housing-intensification.htm
+title: Auckland’s trees vulnerable to housing intensification
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00017/aucklands-trees-vulnerable-to-housing-intensification.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/06/04/aucklands-trees-vulnerable-to-housing-intensification/index.html
+layout: layout.njk
 ---
 Auckland’s trees vulnerable to housing intensification
 ======================================================

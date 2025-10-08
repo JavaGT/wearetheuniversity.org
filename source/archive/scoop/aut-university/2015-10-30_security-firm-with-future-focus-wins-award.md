@@ -1,9 +1,12 @@
 ---
 slug: security-firm-with-future-focus-wins-award
-title: "Security firm with future focus wins award"
-date: 2015-10-30
-source-url: https://www.scoop.co.nz/stories/BU1510/S00966/security-firm-with-future-focus-wins-award.htm
+title: Security firm with future focus wins award
+date: 2015-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1510/S00966/security-firm-with-future-focus-wins-award.htm
 author: aut-university
+permalink: /archive/2015/10/30/security-firm-with-future-focus-wins-award/index.html
+layout: layout.njk
 ---
 Security firm with future focus wins award
 ==========================================

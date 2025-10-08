@@ -1,9 +1,13 @@
 ---
 slug: hang-in-there-is-not-a-policy-its-economic-suicide
-title: "\"Hang in There\" is Not a Policy It’s Economic Suicide"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/PO1406/S00145/hang-in-there-is-not-a-policy-its-economic-suicide.htm
+title: '"Hang in There" is Not a Policy It’s Economic Suicide'
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00145/hang-in-there-is-not-a-policy-its-economic-suicide.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/06/11/hang-in-there-is-not-a-policy-its-economic-suicide/index.html
+layout: layout.njk
 ---
 “Hang in There” is Not a Policy It’s Economic Suicide
 =====================================================

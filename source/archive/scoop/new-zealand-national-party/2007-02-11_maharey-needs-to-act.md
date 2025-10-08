@@ -1,9 +1,11 @@
 ---
 slug: maharey-needs-to-act
-title: "Maharey needs to act"
-date: 2007-02-11
+title: Maharey needs to act
+date: 2007-02-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0702/S00156/maharey-needs-to-act.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/11/maharey-needs-to-act/index.html
+layout: layout.njk
 ---
 Maharey needs to act
 ====================

@@ -1,9 +1,12 @@
 ---
 slug: minister-knew-of-botched-tender-process
-title: "Minister Knew of Botched Tender Process"
-date: 2002-02-04
-source-url: https://www.scoop.co.nz/stories/PA0202/S00035/minister-knew-of-botched-tender-process.htm
+title: Minister Knew of Botched Tender Process
+date: 2002-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00035/minister-knew-of-botched-tender-process.htm
 author: act-new-zealand
+permalink: /archive/2002/02/04/minister-knew-of-botched-tender-process/index.html
+layout: layout.njk
 ---
 Minister Knew of Botched Tender Process
 =======================================

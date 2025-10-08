@@ -1,9 +1,12 @@
 ---
 slug: maharey-laughing-stock-at-polytechs
-title: "Maharey laughing stock at polytechs"
-date: 2004-10-05
-source-url: https://www.scoop.co.nz/stories/PA0410/S00072/maharey-laughing-stock-at-polytechs.htm
+title: Maharey laughing stock at polytechs
+date: 2004-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00072/maharey-laughing-stock-at-polytechs.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/05/maharey-laughing-stock-at-polytechs/index.html
+layout: layout.njk
 ---
 Maharey laughing stock at polytechs
 ===================================

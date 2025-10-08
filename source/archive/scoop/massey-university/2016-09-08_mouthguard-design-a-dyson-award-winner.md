@@ -1,9 +1,12 @@
 ---
 slug: mouthguard-design-a-dyson-award-winner
-title: "Mouthguard design a Dyson Award winner"
-date: 2016-09-08
-source-url: https://www.scoop.co.nz/stories/SC1609/S00024/mouthguard-design-a-dyson-award-winner.htm
+title: Mouthguard design a Dyson Award winner
+date: 2016-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00024/mouthguard-design-a-dyson-award-winner.htm
 author: massey-university
+permalink: /archive/2016/09/08/mouthguard-design-a-dyson-award-winner/index.html
+layout: layout.njk
 ---
 Mouthguard design a Dyson Award winner
 ======================================

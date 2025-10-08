@@ -1,9 +1,13 @@
 ---
 slug: moe-needs-stop-micromanaging-and-start-measuring
-title: "MOE Needs Stop Micromanaging And Start Measuring"
-date: 2023-04-27
-source-url: https://www.scoop.co.nz/stories/PA2304/S00165/moe-needs-stop-micromanaging-and-start-measuring.htm
+title: MOE Needs Stop Micromanaging And Start Measuring
+date: 2023-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00165/moe-needs-stop-micromanaging-and-start-measuring.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/04/27/moe-needs-stop-micromanaging-and-start-measuring/index.html
+layout: layout.njk
 ---
 MOE Needs Stop Micromanaging And Start Measuring
 ================================================

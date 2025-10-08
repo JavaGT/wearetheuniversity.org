@@ -1,9 +1,12 @@
 ---
 slug: red-paint-used-on-opera-house-no-war-protest
-title: "Red paint used on Opera House 'No War' Protest"
-date: 2006-01-17
-source-url: https://www.scoop.co.nz/stories/WO0601/S00195/red-paint-used-on-opera-house-no-war-protest.htm
+title: Red paint used on Opera House 'No War' Protest
+date: 2006-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0601/S00195/red-paint-used-on-opera-house-no-war-protest.htm
 author: green-party
+permalink: /archive/2006/01/17/red-paint-used-on-opera-house-no-war-protest/index.html
+layout: layout.njk
 ---
 Red paint used on Opera House 'No War' Protest
 ==============================================

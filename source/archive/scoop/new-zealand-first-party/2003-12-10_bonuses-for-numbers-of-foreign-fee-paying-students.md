@@ -1,9 +1,13 @@
 ---
 slug: bonuses-for-numbers-of-foreign-fee-paying-students
-title: "Bonuses For Numbers Of Foreign Fee-Paying Students"
-date: 2003-12-10
-source-url: https://www.scoop.co.nz/stories/PA0312/S00237/bonuses-for-numbers-of-foreign-fee-paying-students.htm
+title: Bonuses For Numbers Of Foreign Fee-Paying Students
+date: 2003-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00237/bonuses-for-numbers-of-foreign-fee-paying-students.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2003/12/10/bonuses-for-numbers-of-foreign-fee-paying-students/index.html
+layout: layout.njk
 ---
 Bonuses For Numbers Of Foreign Fee-Paying Students
 ==================================================

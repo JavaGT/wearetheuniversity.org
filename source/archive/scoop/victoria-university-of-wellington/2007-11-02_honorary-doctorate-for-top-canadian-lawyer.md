@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-top-canadian-lawyer
-title: "Honorary doctorate for top Canadian lawyer"
-date: 2007-11-02
-source-url: https://www.scoop.co.nz/stories/ED0711/S00012/honorary-doctorate-for-top-canadian-lawyer.htm
+title: Honorary doctorate for top Canadian lawyer
+date: 2007-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00012/honorary-doctorate-for-top-canadian-lawyer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/02/honorary-doctorate-for-top-canadian-lawyer/index.html
+layout: layout.njk
 ---
 Honorary doctorate for top Canadian lawyer
 ==========================================

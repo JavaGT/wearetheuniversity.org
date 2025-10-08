@@ -1,9 +1,13 @@
 ---
 slug: minister-says-more-evidence-needed-on-e-cigarettes
-title: "Minister says more evidence needed on e-cigarettes"
-date: 2015-03-12
-source-url: https://www.scoop.co.nz/stories/PO1503/S00142/minister-says-more-evidence-needed-on-e-cigarettes.htm
+title: Minister says more evidence needed on e-cigarettes
+date: 2015-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1503/S00142/minister-says-more-evidence-needed-on-e-cigarettes.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/03/12/minister-says-more-evidence-needed-on-e-cigarettes/index.html
+layout: layout.njk
 ---
 Minister says more evidence needed on e-cigarettes
 ==================================================

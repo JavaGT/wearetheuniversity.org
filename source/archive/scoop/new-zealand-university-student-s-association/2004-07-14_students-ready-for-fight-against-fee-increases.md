@@ -1,9 +1,12 @@
 ---
 slug: students-ready-for-fight-against-fee-increases
-title: "Students ready for fight against fee increases"
-date: 2004-07-14
-source-url: https://www.scoop.co.nz/stories/ED0407/S00046/students-ready-for-fight-against-fee-increases.htm
+title: Students ready for fight against fee increases
+date: 2004-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00046/students-ready-for-fight-against-fee-increases.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/07/14/students-ready-for-fight-against-fee-increases/index.html
+layout: layout.njk
 ---
 Students ready for fight against fee increases
 ==============================================

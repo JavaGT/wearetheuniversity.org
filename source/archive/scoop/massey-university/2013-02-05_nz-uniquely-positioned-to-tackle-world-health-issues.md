@@ -1,9 +1,13 @@
 ---
 slug: nz-uniquely-positioned-to-tackle-world-health-issues
-title: "NZ 'uniquely positioned' to tackle world health issues"
-date: 2013-02-05
-source-url: https://www.scoop.co.nz/stories/ED1302/S00023/nz-uniquely-positioned-to-tackle-world-health-issues.htm
+title: NZ 'uniquely positioned' to tackle world health issues
+date: 2013-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00023/nz-uniquely-positioned-to-tackle-world-health-issues.htm
 author: massey-university
+permalink: >-
+  /archive/2013/02/05/nz-uniquely-positioned-to-tackle-world-health-issues/index.html
+layout: layout.njk
 ---
 NZ 'uniquely positioned' to tackle world health issues
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: obesity-diabetes-and-finding-the-best-diet
-title: "Obesity, Diabetes and Finding the Best Diet"
-date: 2007-05-11
-source-url: https://www.scoop.co.nz/stories/GE0705/S00086/obesity-diabetes-and-finding-the-best-diet.htm
+title: Obesity, Diabetes and Finding the Best Diet
+date: 2007-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0705/S00086/obesity-diabetes-and-finding-the-best-diet.htm
 author: university-of-otago
+permalink: /archive/2007/05/11/obesity-diabetes-and-finding-the-best-diet/index.html
+layout: layout.njk
 ---
 Obesity, Diabetes and Finding the Best Diet
 ===========================================

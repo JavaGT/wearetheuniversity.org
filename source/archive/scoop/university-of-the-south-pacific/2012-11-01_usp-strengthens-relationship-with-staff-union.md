@@ -1,9 +1,12 @@
 ---
 slug: usp-strengthens-relationship-with-staff-union
-title: "USP strengthens relationship with staff union"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/ED1211/S00007/usp-strengthens-relationship-with-staff-union.htm
+title: USP strengthens relationship with staff union
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00007/usp-strengthens-relationship-with-staff-union.htm
 author: university-of-the-south-pacific
+permalink: /archive/2012/11/01/usp-strengthens-relationship-with-staff-union/index.html
+layout: layout.njk
 ---
 USP strengthens relationship with staff union
 =============================================

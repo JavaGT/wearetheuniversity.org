@@ -1,9 +1,16 @@
 ---
-slug: uc-academics-win-hrc-grants-for-autism-child-sleep-problems-and-brain-injury-research
-title: "UC Academics Win HRC Grants For Autism, Child Sleep Problems And Brain Injury Research"
-date: 2020-11-05
-source-url: https://www.scoop.co.nz/stories/ED2011/S00010/uc-academics-win-hrc-grants-for-autism-child-sleep-problems-and-brain-injury-research.htm
+slug: >-
+  uc-academics-win-hrc-grants-for-autism-child-sleep-problems-and-brain-injury-research
+title: >-
+  UC Academics Win HRC Grants For Autism, Child Sleep Problems And Brain Injury
+  Research
+date: 2020-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00010/uc-academics-win-hrc-grants-for-autism-child-sleep-problems-and-brain-injury-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/05/uc-academics-win-hrc-grants-for-autism-child-sleep-problems-and-brain-injury-research/index.html
+layout: layout.njk
 ---
 UC Academics Win HRC Grants For Autism, Child Sleep Problems And Brain Injury Research
 ======================================================================================

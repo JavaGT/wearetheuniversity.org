@@ -1,9 +1,13 @@
 ---
 slug: abbott-appointed-pro-vice-chancellor-north-shore
-title: "Abbott Appointed Pro Vice-Chancellor North Shore"
-date: 2004-08-11
-source-url: https://www.scoop.co.nz/stories/ED0408/S00042/abbott-appointed-pro-vice-chancellor-north-shore.htm
+title: Abbott Appointed Pro Vice-Chancellor North Shore
+date: 2004-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00042/abbott-appointed-pro-vice-chancellor-north-shore.htm
 author: aut-university
+permalink: >-
+  /archive/2004/08/11/abbott-appointed-pro-vice-chancellor-north-shore/index.html
+layout: layout.njk
 ---
 Abbott Appointed Pro Vice-Chancellor North Shore
 ================================================

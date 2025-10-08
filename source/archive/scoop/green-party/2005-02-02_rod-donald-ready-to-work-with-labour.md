@@ -1,9 +1,12 @@
 ---
 slug: rod-donald-ready-to-work-with-labour
-title: "Rod Donald: Ready to work with Labour"
-date: 2005-02-02
-source-url: https://www.scoop.co.nz/stories/PA0502/S00056/rod-donald-ready-to-work-with-labour.htm
+title: 'Rod Donald: Ready to work with Labour'
+date: 2005-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00056/rod-donald-ready-to-work-with-labour.htm
 author: green-party
+permalink: /archive/2005/02/02/rod-donald-ready-to-work-with-labour/index.html
+layout: layout.njk
 ---
 Rod Donald: Ready to work with Labour
 =====================================

@@ -1,9 +1,11 @@
 ---
 slug: big-trucks-are-big-trouble
-title: "Big trucks are big trouble"
-date: 2010-03-31
+title: Big trucks are big trouble
+date: 2010-03-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1003/S00505/big-trucks-are-big-trouble.htm
 author: green-party
+permalink: /archive/2010/03/31/big-trucks-are-big-trouble/index.html
+layout: layout.njk
 ---
 Big trucks are big trouble
 ==========================

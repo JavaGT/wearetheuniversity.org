@@ -1,9 +1,13 @@
 ---
 slug: super-city-mayor-must-have-backing-at-ballot-box
-title: "Super City Mayor must have backing at ballot box"
-date: 2009-05-04
-source-url: https://www.scoop.co.nz/stories/ED0905/S00018/super-city-mayor-must-have-backing-at-ballot-box.htm
+title: Super City Mayor must have backing at ballot box
+date: 2009-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00018/super-city-mayor-must-have-backing-at-ballot-box.htm
 author: massey-university
+permalink: >-
+  /archive/2009/05/04/super-city-mayor-must-have-backing-at-ballot-box/index.html
+layout: layout.njk
 ---
 Super City Mayor must have backing at ballot box
 ================================================

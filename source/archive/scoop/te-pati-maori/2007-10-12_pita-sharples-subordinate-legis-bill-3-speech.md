@@ -1,9 +1,12 @@
 ---
 slug: pita-sharples-subordinate-legis-bill-3-speech
-title: "Pita Sharples: Subordinate Legis. Bill 3 Speech"
-date: 2007-10-12
-source-url: https://www.scoop.co.nz/stories/PA0710/S00226/pita-sharples-subordinate-legis-bill-3-speech.htm
+title: 'Pita Sharples: Subordinate Legis. Bill 3 Speech'
+date: 2007-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00226/pita-sharples-subordinate-legis-bill-3-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/10/12/pita-sharples-subordinate-legis-bill-3-speech/index.html
+layout: layout.njk
 ---
 Pita Sharples: Subordinate Legis. Bill 3 Speech
 ===============================================

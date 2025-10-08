@@ -1,9 +1,11 @@
 ---
 slug: turia-when-im-64
-title: "Turia: When I'm 64"
-date: 2008-04-08
+title: 'Turia: When I''m 64'
+date: 2008-04-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0804/S00221/turia-when-im-64.htm
 author: te-pati-maori
+permalink: /archive/2008/04/08/turia-when-im-64/index.html
+layout: layout.njk
 ---
 Turia: When I'm 64
 ==================

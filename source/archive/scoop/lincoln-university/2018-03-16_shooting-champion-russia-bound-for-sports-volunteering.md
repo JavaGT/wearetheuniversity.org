@@ -1,9 +1,13 @@
 ---
 slug: shooting-champion-russia-bound-for-sports-volunteering
-title: "Shooting champion Russia bound for sports volunteering"
-date: 2018-03-16
-source-url: https://www.scoop.co.nz/stories/CU1803/S00252/shooting-champion-russia-bound-for-sports-volunteering.htm
+title: Shooting champion Russia bound for sports volunteering
+date: 2018-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1803/S00252/shooting-champion-russia-bound-for-sports-volunteering.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/03/16/shooting-champion-russia-bound-for-sports-volunteering/index.html
+layout: layout.njk
 ---
 Shooting champion Russia bound for sports volunteering
 ======================================================

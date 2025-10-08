@@ -1,9 +1,16 @@
 ---
-slug: young-new-zealand-first-calls-on-the-government-to-aid-the-student-community-amid-omicron-outbreak
-title: "Young New Zealand First Calls On The Government To Aid The Student Community Amid Omicron Outbreak"
-date: 2022-02-17
-source-url: https://www.scoop.co.nz/stories/PO2202/S00153/young-new-zealand-first-calls-on-the-government-to-aid-the-student-community-amid-omicron-outbreak.htm
+slug: >-
+  young-new-zealand-first-calls-on-the-government-to-aid-the-student-community-amid-omicron-outbreak
+title: >-
+  Young New Zealand First Calls On The Government To Aid The Student Community
+  Amid Omicron Outbreak
+date: 2022-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2202/S00153/young-new-zealand-first-calls-on-the-government-to-aid-the-student-community-amid-omicron-outbreak.htm
 author: young-new-zealand-first
+permalink: >-
+  /archive/2022/02/17/young-new-zealand-first-calls-on-the-government-to-aid-the-student-community-amid-omicron-outbreak/index.html
+layout: layout.njk
 ---
 Young New Zealand First Calls On The Government To Aid The Student Community Amid Omicron Outbreak
 ==================================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: climate-safe-communities-james-shaw-speech
-title: "Climate Safe Communities - James Shaw Speech"
-date: 2023-08-27
-source-url: https://www.scoop.co.nz/stories/PA2308/S00171/climate-safe-communities-james-shaw-speech.htm
+title: Climate Safe Communities - James Shaw Speech
+date: 2023-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00171/climate-safe-communities-james-shaw-speech.htm
 author: green-party
+permalink: /archive/2023/08/27/climate-safe-communities-james-shaw-speech/index.html
+layout: layout.njk
 ---
 Climate Safe Communities - James Shaw Speech
 ============================================

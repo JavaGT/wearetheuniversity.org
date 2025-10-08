@@ -1,9 +1,11 @@
 ---
 slug: a-shake-up-for-tertiary!
-title: "A shake up for Tertiary!"
-date: 2005-07-18
+title: A shake up for Tertiary!
+date: 2005-07-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0507/S00063/a-shake-up-for-tertiary.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/07/18/a-shake-up-for-tertiary/index.html
+layout: layout.njk
 ---
 A shake up for Tertiary!
 ========================

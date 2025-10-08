@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-22
-title: "AUS Tertiary Update  Vol.4 No.22"
-date: 2001-07-05
-source-url: https://www.scoop.co.nz/stories/ED0107/S00006/aus-tertiary-update-vol4-no22.htm
+title: AUS Tertiary Update  Vol.4 No.22
+date: 2001-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0107/S00006/aus-tertiary-update-vol4-no22.htm
 author: association-of-university-staff
+permalink: /archive/2001/07/05/aus-tertiary-update-vol-4-no-22/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.4 No.22
 ===============================

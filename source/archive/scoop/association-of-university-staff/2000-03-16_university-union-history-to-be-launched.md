@@ -1,9 +1,12 @@
 ---
 slug: university-union-history-to-be-launched
-title: "University union history to be launched"
-date: 2000-03-16
-source-url: https://www.scoop.co.nz/stories/ED0003/S00025/university-union-history-to-be-launched.htm
+title: University union history to be launched
+date: 2000-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00025/university-union-history-to-be-launched.htm
 author: association-of-university-staff
+permalink: /archive/2000/03/16/university-union-history-to-be-launched/index.html
+layout: layout.njk
 ---
 University union history to be launched
 =======================================

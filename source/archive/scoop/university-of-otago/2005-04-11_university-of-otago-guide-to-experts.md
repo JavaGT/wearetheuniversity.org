@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-guide-to-experts
-title: "University of Otago Guide to Experts"
-date: 2005-04-11
-source-url: https://www.scoop.co.nz/stories/ED0504/S00028/university-of-otago-guide-to-experts.htm
+title: University of Otago Guide to Experts
+date: 2005-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00028/university-of-otago-guide-to-experts.htm
 author: university-of-otago
+permalink: /archive/2005/04/11/university-of-otago-guide-to-experts/index.html
+layout: layout.njk
 ---
 University of Otago Guide to Experts
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: teachers-strike-no-surprise-as-govt-favours-tertiary
-title: "Teachers’ strike no surprise as Govt favours tertiary"
-date: 2018-07-03
-source-url: https://www.scoop.co.nz/stories/PA1807/S00036/teachers-strike-no-surprise-as-govt-favours-tertiary.htm
+title: Teachers’ strike no surprise as Govt favours tertiary
+date: 2018-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00036/teachers-strike-no-surprise-as-govt-favours-tertiary.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/07/03/teachers-strike-no-surprise-as-govt-favours-tertiary/index.html
+layout: layout.njk
 ---
 Teachers’ strike no surprise as Govt favours tertiary
 =====================================================

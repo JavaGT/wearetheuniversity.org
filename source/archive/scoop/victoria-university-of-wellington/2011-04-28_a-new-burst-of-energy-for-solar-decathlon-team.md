@@ -1,9 +1,12 @@
 ---
 slug: a-new-burst-of-energy-for-solar-decathlon-team
-title: "A new burst of energy for Solar Decathlon team"
-date: 2011-04-28
-source-url: https://www.scoop.co.nz/stories/ED1104/S00079/a-new-burst-of-energy-for-solar-decathlon-team.htm
+title: A new burst of energy for Solar Decathlon team
+date: 2011-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00079/a-new-burst-of-energy-for-solar-decathlon-team.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/04/28/a-new-burst-of-energy-for-solar-decathlon-team/index.html
+layout: layout.njk
 ---
 A new burst of energy for Solar Decathlon team
 ==============================================

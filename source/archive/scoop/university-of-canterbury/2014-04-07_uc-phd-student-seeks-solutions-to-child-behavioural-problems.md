@@ -1,9 +1,13 @@
 ---
 slug: uc-phd-student-seeks-solutions-to-child-behavioural-problems
-title: "UC PhD student seeks solutions to child behavioural problems"
-date: 2014-04-07
-source-url: https://www.scoop.co.nz/stories/ED1404/S00030/uc-phd-student-seeks-solutions-to-child-behavioural-problems.htm
+title: UC PhD student seeks solutions to child behavioural problems
+date: 2014-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00030/uc-phd-student-seeks-solutions-to-child-behavioural-problems.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/07/uc-phd-student-seeks-solutions-to-child-behavioural-problems/index.html
+layout: layout.njk
 ---
 UC PhD student seeks solutions to child behavioural problems
 ============================================================

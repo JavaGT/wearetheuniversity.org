@@ -1,9 +1,13 @@
 ---
 slug: government-deciding-which-industries-will-survive
-title: "Government Deciding Which Industries Will Survive"
-date: 2020-06-02
-source-url: https://www.scoop.co.nz/stories/PA2006/S00019/government-deciding-which-industries-will-survive.htm
+title: Government Deciding Which Industries Will Survive
+date: 2020-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00019/government-deciding-which-industries-will-survive.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/02/government-deciding-which-industries-will-survive/index.html
+layout: layout.njk
 ---
 Government Deciding Which Industries Will Survive
 =================================================

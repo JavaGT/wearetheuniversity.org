@@ -1,9 +1,13 @@
 ---
 slug: academic-returns-to-aut-with-global-market-knowle
-title: "Academic returns to AUT with global market knowle"
-date: 2008-06-13
-source-url: https://www.scoop.co.nz/stories/ED0806/S00037/academic-returns-to-aut-with-global-market-knowle.htm
+title: Academic returns to AUT with global market knowle
+date: 2008-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00037/academic-returns-to-aut-with-global-market-knowle.htm
 author: aut-university
+permalink: >-
+  /archive/2008/06/13/academic-returns-to-aut-with-global-market-knowle/index.html
+layout: layout.njk
 ---
 Academic returns to AUT with global market knowle
 =================================================

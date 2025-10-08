@@ -1,9 +1,13 @@
 ---
 slug: three-journalism-students-win-scholarships-to-asia
-title: "Three Journalism students win scholarships to Asia"
-date: 2006-10-25
-source-url: https://www.scoop.co.nz/stories/ED0610/S00089/three-journalism-students-win-scholarships-to-asia.htm
+title: Three Journalism students win scholarships to Asia
+date: 2006-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00089/three-journalism-students-win-scholarships-to-asia.htm
 author: massey-university
+permalink: >-
+  /archive/2006/10/25/three-journalism-students-win-scholarships-to-asia/index.html
+layout: layout.njk
 ---
 Three Journalism students win scholarships to Asia
 ==================================================

@@ -1,9 +1,11 @@
 ---
 slug: mapp-report-23-november-2007
-title: "Mapp Report - 23 November 2007"
-date: 2007-11-23
+title: Mapp Report - 23 November 2007
+date: 2007-11-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0711/S00469/mapp-report-23-november-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/23/mapp-report-23-november-2007/index.html
+layout: layout.njk
 ---
 Mapp Report - 23 November 2007
 ==============================

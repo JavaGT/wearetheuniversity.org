@@ -1,9 +1,12 @@
 ---
 slug: salient-editor-2006-appointed
-title: "Salient Editor 2006 Appointed"
-date: 2005-10-11
-source-url: https://www.scoop.co.nz/stories/ED0510/S00034/salient-editor-2006-appointed.htm
+title: Salient Editor 2006 Appointed
+date: 2005-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00034/salient-editor-2006-appointed.htm
 author: salient
+permalink: /archive/2005/10/11/salient-editor-2006-appointed/index.html
+layout: layout.njk
 ---
 Salient Editor 2006 Appointed
 =============================

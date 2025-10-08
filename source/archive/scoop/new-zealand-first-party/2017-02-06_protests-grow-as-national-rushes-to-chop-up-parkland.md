@@ -1,9 +1,13 @@
 ---
 slug: protests-grow-as-national-rushes-to-chop-up-parkland
-title: "Protests Grow as National Rushes to Chop up Parkland"
-date: 2017-02-06
-source-url: https://www.scoop.co.nz/stories/PA1702/S00074/protests-grow-as-national-rushes-to-chop-up-parkland.htm
+title: Protests Grow as National Rushes to Chop up Parkland
+date: 2017-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00074/protests-grow-as-national-rushes-to-chop-up-parkland.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/02/06/protests-grow-as-national-rushes-to-chop-up-parkland/index.html
+layout: layout.njk
 ---
 Protests Grow as National Rushes to Chop up Parkland
 ====================================================

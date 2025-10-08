@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-christchurch-mid-winter-dialogues
-title: "University of Otago, Christchurch,  Mid-Winter Dialogues"
-date: 2011-05-23
-source-url: https://www.scoop.co.nz/stories/ED1105/S00089/university-of-otago-christchurch-mid-winter-dialogues.htm
+title: University of Otago, Christchurch,  Mid-Winter Dialogues
+date: 2011-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00089/university-of-otago-christchurch-mid-winter-dialogues.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/05/23/university-of-otago-christchurch-mid-winter-dialogues/index.html
+layout: layout.njk
 ---
 University of Otago, Christchurch, Mid-Winter Dialogues
 =======================================================

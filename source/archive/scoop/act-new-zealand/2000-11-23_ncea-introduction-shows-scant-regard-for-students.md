@@ -1,9 +1,13 @@
 ---
 slug: ncea-introduction-shows-scant-regard-for-students
-title: "NCEA Introduction Shows Scant Regard for Students"
-date: 2000-11-23
-source-url: https://www.scoop.co.nz/stories/PA0011/S00421/ncea-introduction-shows-scant-regard-for-students.htm
+title: NCEA Introduction Shows Scant Regard for Students
+date: 2000-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00421/ncea-introduction-shows-scant-regard-for-students.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2000/11/23/ncea-introduction-shows-scant-regard-for-students/index.html
+layout: layout.njk
 ---
 NCEA Introduction Shows Scant Regard for Students
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: 55-year-career-recognised-with-honorary-doctorate
-title: "55-year career recognised with Honorary Doctorate"
-date: 2009-04-15
-source-url: https://www.scoop.co.nz/stories/BU0904/S00284/55-year-career-recognised-with-honorary-doctorate.htm
+title: 55-year career recognised with Honorary Doctorate
+date: 2009-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0904/S00284/55-year-career-recognised-with-honorary-doctorate.htm
 author: massey-university
+permalink: >-
+  /archive/2009/04/15/55-year-career-recognised-with-honorary-doctorate/index.html
+layout: layout.njk
 ---
 55-year career recognised with Honorary Doctorate
 =================================================

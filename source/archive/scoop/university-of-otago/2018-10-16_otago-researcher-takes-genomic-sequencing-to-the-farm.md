@@ -1,9 +1,13 @@
 ---
 slug: otago-researcher-takes-genomic-sequencing-to-the-farm
-title: "Otago researcher takes genomic sequencing to the farm"
-date: 2018-10-16
-source-url: https://www.scoop.co.nz/stories/SC1810/S00059/otago-researcher-takes-genomic-sequencing-to-the-farm.htm
+title: Otago researcher takes genomic sequencing to the farm
+date: 2018-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00059/otago-researcher-takes-genomic-sequencing-to-the-farm.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/16/otago-researcher-takes-genomic-sequencing-to-the-farm/index.html
+layout: layout.njk
 ---
 Otago researcher takes genomic sequencing to the farm
 =====================================================

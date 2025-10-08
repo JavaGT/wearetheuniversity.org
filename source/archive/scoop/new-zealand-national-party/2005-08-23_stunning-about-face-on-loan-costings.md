@@ -1,9 +1,12 @@
 ---
 slug: stunning-about-face-on-loan-costings
-title: "Stunning about-face on loan costings"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/PA0508/S00592/stunning-about-face-on-loan-costings.htm
+title: Stunning about-face on loan costings
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00592/stunning-about-face-on-loan-costings.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/23/stunning-about-face-on-loan-costings/index.html
+layout: layout.njk
 ---
 Stunning about-face on loan costings
 ====================================

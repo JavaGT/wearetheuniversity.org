@@ -1,9 +1,12 @@
 ---
 slug: govt-takes-futile-stance-on-diabetes-treatment
-title: "Govt Takes Futile Stance On Diabetes Treatment"
-date: 2002-03-04
-source-url: https://www.scoop.co.nz/stories/PA0203/S00061/govt-takes-futile-stance-on-diabetes-treatment.htm
+title: Govt Takes Futile Stance On Diabetes Treatment
+date: 2002-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00061/govt-takes-futile-stance-on-diabetes-treatment.htm
 author: act-new-zealand
+permalink: /archive/2002/03/04/govt-takes-futile-stance-on-diabetes-treatment/index.html
+layout: layout.njk
 ---
 Govt Takes Futile Stance On Diabetes Treatment
 ==============================================

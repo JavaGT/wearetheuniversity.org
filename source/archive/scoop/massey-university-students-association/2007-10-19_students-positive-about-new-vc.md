@@ -1,9 +1,12 @@
 ---
 slug: students-positive-about-new-vc
-title: "Students positive about new VC"
-date: 2007-10-19
-source-url: https://www.scoop.co.nz/stories/ED0710/S00063/students-positive-about-new-vc.htm
+title: Students positive about new VC
+date: 2007-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00063/students-positive-about-new-vc.htm
 author: massey-university-students-association
+permalink: /archive/2007/10/19/students-positive-about-new-vc/index.html
+layout: layout.njk
 ---
 Students positive about new VC
 ==============================

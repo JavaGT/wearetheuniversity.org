@@ -1,9 +1,12 @@
 ---
 slug: unitec-has-failed-employees-&-students
-title: "Unitec has failed employees & students"
-date: 2015-11-13
-source-url: https://www.scoop.co.nz/stories/PO1511/S00217/unitec-has-failed-employees-students.htm
+title: Unitec has failed employees & students
+date: 2015-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1511/S00217/unitec-has-failed-employees-students.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2015/11/13/unitec-has-failed-employees-/index.html
+layout: layout.njk
 ---
 Unitec has failed employees & students
 ======================================

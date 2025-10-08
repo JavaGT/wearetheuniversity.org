@@ -1,9 +1,13 @@
 ---
 slug: akld-uni-presss-record-in-nz-national-book-awards-continues
-title: "AKLD Uni Press’s Record in NZ National Book Awards Continues"
-date: 2011-06-01
-source-url: https://www.scoop.co.nz/stories/ED1106/S00002/akld-uni-presss-record-in-nz-national-book-awards-continues.htm
+title: AKLD Uni Press’s Record in NZ National Book Awards Continues
+date: 2011-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00002/akld-uni-presss-record-in-nz-national-book-awards-continues.htm
 author: auckland-university
+permalink: >-
+  /archive/2011/06/01/akld-uni-presss-record-in-nz-national-book-awards-continues/index.html
+layout: layout.njk
 ---
 AKLD Uni Press’s Record in NZ National Book Awards Continues
 ============================================================

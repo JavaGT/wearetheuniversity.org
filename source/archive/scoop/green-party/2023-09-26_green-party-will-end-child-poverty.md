@@ -1,9 +1,12 @@
 ---
 slug: green-party-will-end-child-poverty
-title: "Green Party Will End Child Poverty"
-date: 2023-09-26
-source-url: https://www.scoop.co.nz/stories/PO2309/S00225/green-party-will-end-child-poverty.htm
+title: Green Party Will End Child Poverty
+date: 2023-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00225/green-party-will-end-child-poverty.htm
 author: green-party
+permalink: /archive/2023/09/26/green-party-will-end-child-poverty/index.html
+layout: layout.njk
 ---
 Green Party Will End Child Poverty
 ==================================

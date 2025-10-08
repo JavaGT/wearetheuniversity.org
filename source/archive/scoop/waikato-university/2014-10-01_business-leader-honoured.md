@@ -1,9 +1,11 @@
 ---
 slug: business-leader-honoured
-title: "Business leader honoured"
-date: 2014-10-01
+title: Business leader honoured
+date: 2014-10-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1410/S00002/business-leader-honoured.htm
 author: waikato-university
+permalink: /archive/2014/10/01/business-leader-honoured/index.html
+layout: layout.njk
 ---
 Business leader honoured
 ========================

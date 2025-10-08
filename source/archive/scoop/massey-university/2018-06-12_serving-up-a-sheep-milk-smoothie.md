@@ -1,9 +1,12 @@
 ---
 slug: serving-up-a-sheep-milk-smoothie
-title: "Serving up a sheep milk smoothie"
-date: 2018-06-12
-source-url: https://www.scoop.co.nz/stories/BU1806/S00257/serving-up-a-sheep-milk-smoothie.htm
+title: Serving up a sheep milk smoothie
+date: 2018-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1806/S00257/serving-up-a-sheep-milk-smoothie.htm
 author: massey-university
+permalink: /archive/2018/06/12/serving-up-a-sheep-milk-smoothie/index.html
+layout: layout.njk
 ---
 Serving up a sheep milk smoothie
 ================================

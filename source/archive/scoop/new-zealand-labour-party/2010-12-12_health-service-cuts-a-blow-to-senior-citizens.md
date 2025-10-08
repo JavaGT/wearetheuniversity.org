@@ -1,9 +1,12 @@
 ---
 slug: health-service-cuts-a-blow-to-senior-citizens
-title: "Health service cuts a blow to senior citizens"
-date: 2010-12-12
-source-url: https://www.scoop.co.nz/stories/PA1012/S00217/health-service-cuts-a-blow-to-senior-citizens.htm
+title: Health service cuts a blow to senior citizens
+date: 2010-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00217/health-service-cuts-a-blow-to-senior-citizens.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/12/health-service-cuts-a-blow-to-senior-citizens/index.html
+layout: layout.njk
 ---
 Health service cuts a blow to senior citizens
 =============================================

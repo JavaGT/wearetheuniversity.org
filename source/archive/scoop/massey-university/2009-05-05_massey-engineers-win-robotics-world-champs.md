@@ -1,9 +1,12 @@
 ---
 slug: massey-engineers-win-robotics-world-champs
-title: "Massey engineers win robotics world champs"
-date: 2009-05-05
-source-url: https://www.scoop.co.nz/stories/ED0905/S00021/massey-engineers-win-robotics-world-champs.htm
+title: Massey engineers win robotics world champs
+date: 2009-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00021/massey-engineers-win-robotics-world-champs.htm
 author: massey-university
+permalink: /archive/2009/05/05/massey-engineers-win-robotics-world-champs/index.html
+layout: layout.njk
 ---
 Massey engineers win robotics world champs
 ==========================================

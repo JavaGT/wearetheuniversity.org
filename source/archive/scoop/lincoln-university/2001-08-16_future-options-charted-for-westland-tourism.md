@@ -1,9 +1,12 @@
 ---
 slug: future-options-charted-for-westland-tourism
-title: "Future Options Charted For Westland Tourism"
-date: 2001-08-16
-source-url: https://www.scoop.co.nz/stories/BU0108/S00168/future-options-charted-for-westland-tourism.htm
+title: Future Options Charted For Westland Tourism
+date: 2001-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0108/S00168/future-options-charted-for-westland-tourism.htm
 author: lincoln-university
+permalink: /archive/2001/08/16/future-options-charted-for-westland-tourism/index.html
+layout: layout.njk
 ---
 Future Options Charted For Westland Tourism
 ===========================================

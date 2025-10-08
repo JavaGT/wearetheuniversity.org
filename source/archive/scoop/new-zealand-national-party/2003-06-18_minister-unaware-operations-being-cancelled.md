@@ -1,9 +1,12 @@
 ---
 slug: minister-unaware-operations-being-cancelled
-title: "Minister unaware operations being cancelled"
-date: 2003-06-18
-source-url: https://www.scoop.co.nz/stories/PA0306/S00330/minister-unaware-operations-being-cancelled.htm
+title: Minister unaware operations being cancelled
+date: 2003-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00330/minister-unaware-operations-being-cancelled.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/18/minister-unaware-operations-being-cancelled/index.html
+layout: layout.njk
 ---
 Minister unaware operations being cancelled
 ===========================================

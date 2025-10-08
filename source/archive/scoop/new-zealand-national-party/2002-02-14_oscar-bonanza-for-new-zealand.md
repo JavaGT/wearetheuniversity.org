@@ -1,9 +1,12 @@
 ---
 slug: oscar-bonanza-for-new-zealand
-title: "Oscar Bonanza For New Zealand"
-date: 2002-02-14
-source-url: https://www.scoop.co.nz/stories/PA0202/S00179/oscar-bonanza-for-new-zealand.htm
+title: Oscar Bonanza For New Zealand
+date: 2002-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00179/oscar-bonanza-for-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/14/oscar-bonanza-for-new-zealand/index.html
+layout: layout.njk
 ---
 Oscar Bonanza For New Zealand
 =============================

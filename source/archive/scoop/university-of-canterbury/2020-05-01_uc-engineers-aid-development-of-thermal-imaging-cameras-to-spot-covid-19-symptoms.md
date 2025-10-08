@@ -1,9 +1,16 @@
 ---
-slug: uc-engineers-aid-development-of-thermal-imaging-cameras-to-spot-covid-19-symptoms
-title: "UC Engineers Aid Development Of Thermal Imaging Cameras To Spot COVID-19 Symptoms"
-date: 2020-05-01
-source-url: https://www.scoop.co.nz/stories/SC2005/S00003/uc-engineers-aid-development-of-thermal-imaging-cameras-to-spot-covid-19-symptoms.htm
+slug: >-
+  uc-engineers-aid-development-of-thermal-imaging-cameras-to-spot-covid-19-symptoms
+title: >-
+  UC Engineers Aid Development Of Thermal Imaging Cameras To Spot COVID-19
+  Symptoms
+date: 2020-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2005/S00003/uc-engineers-aid-development-of-thermal-imaging-cameras-to-spot-covid-19-symptoms.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/01/uc-engineers-aid-development-of-thermal-imaging-cameras-to-spot-covid-19-symptoms/index.html
+layout: layout.njk
 ---
 UC Engineers Aid Development Of Thermal Imaging Cameras To Spot COVID-19 Symptoms
 =================================================================================

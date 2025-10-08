@@ -1,9 +1,13 @@
 ---
 slug: food-code-not-grounded-on-best-available-science
-title: "Food code not grounded on best available science"
-date: 2006-06-08
-source-url: https://www.scoop.co.nz/stories/SC0606/S00022/food-code-not-grounded-on-best-available-science.htm
+title: Food code not grounded on best available science
+date: 2006-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0606/S00022/food-code-not-grounded-on-best-available-science.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2006/06/08/food-code-not-grounded-on-best-available-science/index.html
+layout: layout.njk
 ---
 Food code not grounded on best available science
 ================================================

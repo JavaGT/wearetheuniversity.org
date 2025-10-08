@@ -1,9 +1,12 @@
 ---
 slug: mallard-bullies-private-schools
-title: "Mallard bullies private schools"
-date: 2001-10-03
-source-url: https://www.scoop.co.nz/stories/PA0110/S00080/mallard-bullies-private-schools.htm
+title: Mallard bullies private schools
+date: 2001-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00080/mallard-bullies-private-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/03/mallard-bullies-private-schools/index.html
+layout: layout.njk
 ---
 Mallard bullies private schools
 ===============================

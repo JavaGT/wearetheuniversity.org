@@ -1,9 +1,12 @@
 ---
 slug: cowardly-vice-chancellor-should-resign
-title: "Cowardly Vice-Chancellor should resign"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/PA1808/S00061/cowardly-vice-chancellor-should-resign.htm
+title: Cowardly Vice-Chancellor should resign
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00061/cowardly-vice-chancellor-should-resign.htm
 author: act-new-zealand
+permalink: /archive/2018/08/07/cowardly-vice-chancellor-should-resign/index.html
+layout: layout.njk
 ---
 Cowardly Vice-Chancellor should resign
 ======================================

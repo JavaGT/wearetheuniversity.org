@@ -1,9 +1,12 @@
 ---
 slug: massey-hosted-food-safety-partnership-awarded-$1-25m
-title: "Massey-hosted food safety partnership awarded $1.25M"
-date: 2016-06-30
-source-url: https://www.scoop.co.nz/stories/SC1606/S00066/massey-hosted-food-safety-partnership-awarded-125m.htm
+title: Massey-hosted food safety partnership awarded $1.25M
+date: 2016-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00066/massey-hosted-food-safety-partnership-awarded-125m.htm
 author: massey-university
+permalink: /archive/2016/06/30/massey-hosted-food-safety-partnership-awarded-/index.html
+layout: layout.njk
 ---
 Massey-hosted food safety partnership awarded $1.25M
 ====================================================

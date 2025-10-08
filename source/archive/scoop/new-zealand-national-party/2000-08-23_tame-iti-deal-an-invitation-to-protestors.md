@@ -1,9 +1,12 @@
 ---
 slug: tame-iti-deal-an-invitation-to-protestors
-title: "Tame Iti Deal An Invitation To Protestors"
-date: 2000-08-23
-source-url: https://www.scoop.co.nz/stories/PA0008/S00426/tame-iti-deal-an-invitation-to-protestors.htm
+title: Tame Iti Deal An Invitation To Protestors
+date: 2000-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00426/tame-iti-deal-an-invitation-to-protestors.htm
 author: new-zealand-national-party
+permalink: /archive/2000/08/23/tame-iti-deal-an-invitation-to-protestors/index.html
+layout: layout.njk
 ---
 Tame Iti Deal An Invitation To Protestors
 =========================================

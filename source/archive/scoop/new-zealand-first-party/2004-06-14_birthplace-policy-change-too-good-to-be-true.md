@@ -1,9 +1,12 @@
 ---
 slug: birthplace-policy-change-too-good-to-be-true
-title: "Birthplace Policy Change Too Good To Be True"
-date: 2004-06-14
-source-url: https://www.scoop.co.nz/stories/PA0406/S00200/birthplace-policy-change-too-good-to-be-true.htm
+title: Birthplace Policy Change Too Good To Be True
+date: 2004-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00200/birthplace-policy-change-too-good-to-be-true.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/14/birthplace-policy-change-too-good-to-be-true/index.html
+layout: layout.njk
 ---
 Birthplace Policy Change Too Good To Be True
 ============================================

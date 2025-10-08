@@ -1,9 +1,12 @@
 ---
 slug: in-pursuit-of-economic-nationalism
-title: "In Pursuit of Economic Nationalism"
-date: 2014-08-10
-source-url: https://www.scoop.co.nz/stories/PA1408/S00163/in-pursuit-of-economic-nationalism.htm
+title: In Pursuit of Economic Nationalism
+date: 2014-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00163/in-pursuit-of-economic-nationalism.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/10/in-pursuit-of-economic-nationalism/index.html
+layout: layout.njk
 ---
 In Pursuit of Economic Nationalism
 ==================================

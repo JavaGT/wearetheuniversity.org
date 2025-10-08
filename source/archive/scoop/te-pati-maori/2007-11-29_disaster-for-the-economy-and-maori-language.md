@@ -1,9 +1,12 @@
 ---
 slug: disaster-for-the-economy-and-maori-language
-title: "'Disaster for the economy, and Maori language'"
-date: 2007-11-29
-source-url: https://www.scoop.co.nz/stories/PA0711/S00600/disaster-for-the-economy-and-maori-language.htm
+title: '''Disaster for the economy, and Maori language'''
+date: 2007-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00600/disaster-for-the-economy-and-maori-language.htm
 author: te-pati-maori
+permalink: /archive/2007/11/29/disaster-for-the-economy-and-maori-language/index.html
+layout: layout.njk
 ---
 'Disaster for the economy, and Maori language'
 ==============================================

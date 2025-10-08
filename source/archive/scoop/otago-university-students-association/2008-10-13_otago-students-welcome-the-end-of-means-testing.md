@@ -1,9 +1,12 @@
 ---
 slug: otago-students-welcome-the-end-of-means-testing
-title: "Otago Students Welcome the End of Means Testing"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/ED0810/S00046/otago-students-welcome-the-end-of-means-testing.htm
+title: Otago Students Welcome the End of Means Testing
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00046/otago-students-welcome-the-end-of-means-testing.htm
 author: otago-university-students-association
+permalink: /archive/2008/10/13/otago-students-welcome-the-end-of-means-testing/index.html
+layout: layout.njk
 ---
 Otago Students Welcome the End of Means Testing
 ===============================================

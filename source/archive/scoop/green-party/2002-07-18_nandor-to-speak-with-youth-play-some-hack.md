@@ -1,9 +1,12 @@
 ---
 slug: nandor-to-speak-with-youth-play-some-hack
-title: "Nandor to speak with youth, play some hack"
-date: 2002-07-18
-source-url: https://www.scoop.co.nz/stories/PA0207/S00484/nandor-to-speak-with-youth-play-some-hack.htm
+title: Nandor to speak with youth, play some hack
+date: 2002-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00484/nandor-to-speak-with-youth-play-some-hack.htm
 author: green-party
+permalink: /archive/2002/07/18/nandor-to-speak-with-youth-play-some-hack/index.html
+layout: layout.njk
 ---
 Nandor to speak with youth, play some hack
 ==========================================

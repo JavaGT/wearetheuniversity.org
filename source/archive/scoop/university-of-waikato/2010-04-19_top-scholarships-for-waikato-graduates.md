@@ -1,9 +1,12 @@
 ---
 slug: top-scholarships-for-waikato-graduates
-title: "Top Scholarships For Waikato Graduates"
-date: 2010-04-19
-source-url: https://www.scoop.co.nz/stories/ED1004/S00042/top-scholarships-for-waikato-graduates.htm
+title: Top Scholarships For Waikato Graduates
+date: 2010-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00042/top-scholarships-for-waikato-graduates.htm
 author: university-of-waikato
+permalink: /archive/2010/04/19/top-scholarships-for-waikato-graduates/index.html
+layout: layout.njk
 ---
 Top Scholarships For Waikato Graduates
 ======================================

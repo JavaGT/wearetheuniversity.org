@@ -1,9 +1,12 @@
 ---
 slug: david-seymour-visits-hawkes-bay
-title: "David Seymour Visits Hawke's Bay"
-date: 2023-02-20
-source-url: https://www.scoop.co.nz/stories/PA2302/S00083/david-seymour-visits-hawkes-bay.htm
+title: David Seymour Visits Hawke's Bay
+date: 2023-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00083/david-seymour-visits-hawkes-bay.htm
 author: act-new-zealand
+permalink: /archive/2023/02/20/david-seymour-visits-hawkes-bay/index.html
+layout: layout.njk
 ---
 David Seymour Visits Hawke's Bay
 ================================

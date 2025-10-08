@@ -1,9 +1,12 @@
 ---
 slug: nationals-growing-list-of-broken-promises
-title: "National's growing list of broken promises"
-date: 2011-11-17
-source-url: https://www.scoop.co.nz/stories/PA1111/S00331/nationals-growing-list-of-broken-promises.htm
+title: National's growing list of broken promises
+date: 2011-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00331/nationals-growing-list-of-broken-promises.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/17/nationals-growing-list-of-broken-promises/index.html
+layout: layout.njk
 ---
 National's growing list of broken promises
 ==========================================

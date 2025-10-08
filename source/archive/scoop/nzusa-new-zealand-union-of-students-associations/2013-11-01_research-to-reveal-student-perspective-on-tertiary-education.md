@@ -1,9 +1,13 @@
 ---
 slug: research-to-reveal-student-perspective-on-tertiary-education
-title: "Research to reveal student perspective on tertiary education"
-date: 2013-11-01
-source-url: https://www.scoop.co.nz/stories/ED1311/S00018/research-to-reveal-student-perspective-on-tertiary-education.htm
+title: Research to reveal student perspective on tertiary education
+date: 2013-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00018/research-to-reveal-student-perspective-on-tertiary-education.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/11/01/research-to-reveal-student-perspective-on-tertiary-education/index.html
+layout: layout.njk
 ---
 Research to reveal student perspective on tertiary education
 ============================================================

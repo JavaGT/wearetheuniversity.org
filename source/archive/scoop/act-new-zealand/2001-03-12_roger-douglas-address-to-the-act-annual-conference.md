@@ -1,9 +1,13 @@
 ---
 slug: roger-douglas-address-to-the-act-annual-conference
-title: "Roger Douglas Address To The ACT Annual Conference"
-date: 2001-03-12
-source-url: https://www.scoop.co.nz/stories/PO0103/S00044/roger-douglas-address-to-the-act-annual-conference.htm
+title: Roger Douglas Address To The ACT Annual Conference
+date: 2001-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0103/S00044/roger-douglas-address-to-the-act-annual-conference.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/03/12/roger-douglas-address-to-the-act-annual-conference/index.html
+layout: layout.njk
 ---
 Roger Douglas Address To The ACT Annual Conference
 ==================================================

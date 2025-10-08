@@ -1,9 +1,12 @@
 ---
 slug: finding-the-next-generation-of-female-leaders
-title: "Finding the next generation of female leaders"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/ED1408/S00098/finding-the-next-generation-of-female-leaders.htm
+title: Finding the next generation of female leaders
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00098/finding-the-next-generation-of-female-leaders.htm
 author: massey-university
+permalink: /archive/2014/08/19/finding-the-next-generation-of-female-leaders/index.html
+layout: layout.njk
 ---
 Finding the next generation of female leaders
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: students-declare-massey-a-contagious-fee-zone
-title: "Students declare Massey a contagious fee zone"
-date: 2004-09-29
-source-url: https://www.scoop.co.nz/stories/ED0409/S00131/students-declare-massey-a-contagious-fee-zone.htm
+title: Students declare Massey a contagious fee zone
+date: 2004-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00131/students-declare-massey-a-contagious-fee-zone.htm
 author: massey-university-students-association
+permalink: /archive/2004/09/29/students-declare-massey-a-contagious-fee-zone/index.html
+layout: layout.njk
 ---
 Students declare Massey a contagious fee zone
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: todd-muller-outlines-nationals-first-term-priorities
-title: "Todd Muller Outlines National’s First Term Priorities"
-date: 2020-06-14
-source-url: https://www.scoop.co.nz/stories/PA2006/S00117/todd-muller-outlines-nationals-first-term-priorities.htm
+title: Todd Muller Outlines National’s First Term Priorities
+date: 2020-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00117/todd-muller-outlines-nationals-first-term-priorities.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/14/todd-muller-outlines-nationals-first-term-priorities/index.html
+layout: layout.njk
 ---
 Todd Muller Outlines National’s First Term Priorities
 =====================================================

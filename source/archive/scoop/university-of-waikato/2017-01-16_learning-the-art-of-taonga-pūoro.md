@@ -1,9 +1,12 @@
 ---
 slug: learning-the-art-of-taonga-pūoro
-title: "Learning the art of taonga pūoro"
-date: 2017-01-16
-source-url: https://www.scoop.co.nz/stories/ED1701/S00011/learning-the-art-of-taonga-puoro.htm
+title: Learning the art of taonga pūoro
+date: 2017-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00011/learning-the-art-of-taonga-puoro.htm
 author: university-of-waikato
+permalink: /archive/2017/01/16/learning-the-art-of-taonga-p/index.html
+layout: layout.njk
 ---
 Learning the art of taonga pūoro
 ================================

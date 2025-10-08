@@ -1,9 +1,13 @@
 ---
 slug: researcher-documents-climate-impacts-in-samoa-ahead-of-cop27
-title: "Researcher Documents Climate Impacts In Samoa Ahead Of COP27"
-date: 2022-11-09
-source-url: https://www.scoop.co.nz/stories/ED2211/S00025/researcher-documents-climate-impacts-in-samoa-ahead-of-cop27.htm
+title: Researcher Documents Climate Impacts In Samoa Ahead Of COP27
+date: 2022-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2211/S00025/researcher-documents-climate-impacts-in-samoa-ahead-of-cop27.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/11/09/researcher-documents-climate-impacts-in-samoa-ahead-of-cop27/index.html
+layout: layout.njk
 ---
 Researcher Documents Climate Impacts In Samoa Ahead Of COP27
 ============================================================

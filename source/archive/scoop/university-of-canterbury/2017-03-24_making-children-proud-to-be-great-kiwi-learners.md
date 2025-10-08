@@ -1,9 +1,12 @@
 ---
 slug: making-children-proud-to-be-great-kiwi-learners
-title: "Making children proud to be Great KIWI learners"
-date: 2017-03-24
-source-url: https://www.scoop.co.nz/stories/ED1703/S00108/making-children-proud-to-be-great-kiwi-learners.htm
+title: Making children proud to be Great KIWI learners
+date: 2017-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00108/making-children-proud-to-be-great-kiwi-learners.htm
 author: university-of-canterbury
+permalink: /archive/2017/03/24/making-children-proud-to-be-great-kiwi-learners/index.html
+layout: layout.njk
 ---
 Making children proud to be Great KIWI learners
 ===============================================

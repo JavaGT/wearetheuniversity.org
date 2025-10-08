@@ -1,9 +1,13 @@
 ---
 slug: phd-graduate-discovers-potential-anti-cancer-compound
-title: "PhD graduate discovers potential anti-cancer compound"
-date: 2011-12-09
-source-url: https://www.scoop.co.nz/stories/ED1112/S00051/phd-graduate-discovers-potential-anti-cancer-compound.htm
+title: PhD graduate discovers potential anti-cancer compound
+date: 2011-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00051/phd-graduate-discovers-potential-anti-cancer-compound.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/12/09/phd-graduate-discovers-potential-anti-cancer-compound/index.html
+layout: layout.njk
 ---
 PhD graduate discovers potential anti-cancer compound
 =====================================================

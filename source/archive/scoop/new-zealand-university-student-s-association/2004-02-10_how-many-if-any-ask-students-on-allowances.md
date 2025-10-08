@@ -1,9 +1,12 @@
 ---
 slug: how-many-if-any-ask-students-on-allowances
-title: "How many, if any? ask students on allowances"
-date: 2004-02-10
-source-url: https://www.scoop.co.nz/stories/ED0402/S00019/how-many-if-any-ask-students-on-allowances.htm
+title: How many, if any? ask students on allowances
+date: 2004-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00019/how-many-if-any-ask-students-on-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/02/10/how-many-if-any-ask-students-on-allowances/index.html
+layout: layout.njk
 ---
 How many, if any? ask students on allowances
 ============================================

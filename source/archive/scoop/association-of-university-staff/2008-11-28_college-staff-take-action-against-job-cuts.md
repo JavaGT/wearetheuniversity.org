@@ -1,9 +1,12 @@
 ---
 slug: college-staff-take-action-against-job-cuts
-title: "College Staff take action against job cuts"
-date: 2008-11-28
-source-url: https://www.scoop.co.nz/stories/ED0811/S00095/college-staff-take-action-against-job-cuts.htm
+title: College Staff take action against job cuts
+date: 2008-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00095/college-staff-take-action-against-job-cuts.htm
 author: association-of-university-staff
+permalink: /archive/2008/11/28/college-staff-take-action-against-job-cuts/index.html
+layout: layout.njk
 ---
 College Staff take action against job cuts
 ==========================================

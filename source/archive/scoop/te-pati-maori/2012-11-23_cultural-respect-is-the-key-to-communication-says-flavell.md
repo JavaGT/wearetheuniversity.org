@@ -1,9 +1,13 @@
 ---
 slug: cultural-respect-is-the-key-to-communication-says-flavell
-title: "Cultural Respect is the Key to Communication Says Flavell"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/PA1211/S00414/cultural-respect-is-the-key-to-communication-says-flavell.htm
+title: Cultural Respect is the Key to Communication Says Flavell
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00414/cultural-respect-is-the-key-to-communication-says-flavell.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/11/23/cultural-respect-is-the-key-to-communication-says-flavell/index.html
+layout: layout.njk
 ---
 Cultural Respect is the Key to Communication Says Flavell
 =========================================================

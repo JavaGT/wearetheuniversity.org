@@ -1,9 +1,12 @@
 ---
 slug: flavell-urgent-debate-hawkes-bay-dhb
-title: "Flavell: Urgent Debate - Hawkes Bay DHB"
-date: 2008-03-04
-source-url: https://www.scoop.co.nz/stories/PA0803/S00038/flavell-urgent-debate-hawkes-bay-dhb.htm
+title: 'Flavell: Urgent Debate - Hawkes Bay DHB'
+date: 2008-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00038/flavell-urgent-debate-hawkes-bay-dhb.htm
 author: te-pati-maori
+permalink: /archive/2008/03/04/flavell-urgent-debate-hawkes-bay-dhb/index.html
+layout: layout.njk
 ---
 Flavell: Urgent Debate - Hawkes Bay DHB
 =======================================

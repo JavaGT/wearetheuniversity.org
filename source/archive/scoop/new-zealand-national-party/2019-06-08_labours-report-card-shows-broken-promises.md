@@ -1,9 +1,12 @@
 ---
 slug: labours-report-card-shows-broken-promises
-title: "Labour’s report card shows broken promises"
-date: 2019-06-08
-source-url: https://www.scoop.co.nz/stories/PA1906/S00061/labours-report-card-shows-broken-promises.htm
+title: Labour’s report card shows broken promises
+date: 2019-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00061/labours-report-card-shows-broken-promises.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/08/labours-report-card-shows-broken-promises/index.html
+layout: layout.njk
 ---
 Labour’s report card shows broken promises
 ==========================================

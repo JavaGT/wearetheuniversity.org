@@ -1,9 +1,13 @@
 ---
 slug: burnt-out-risk-in-nz-workforce-bad-and-getting-worse
-title: "Burnt-out Risk In NZ Workforce: Bad And Getting Worse"
-date: 2021-12-02
-source-url: https://www.scoop.co.nz/stories/BU2112/S00051/burnt-out-risk-in-nz-workforce-bad-and-getting-worse.htm
+title: 'Burnt-out Risk In NZ Workforce: Bad And Getting Worse'
+date: 2021-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2112/S00051/burnt-out-risk-in-nz-workforce-bad-and-getting-worse.htm
 author: aut-university
+permalink: >-
+  /archive/2021/12/02/burnt-out-risk-in-nz-workforce-bad-and-getting-worse/index.html
+layout: layout.njk
 ---
 Burnt-out Risk In NZ Workforce: Bad And Getting Worse
 =====================================================

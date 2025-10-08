@@ -1,9 +1,12 @@
 ---
 slug: countdown-to-nationals-defeat-begins
-title: "Countdown to National's defeat begins"
-date: 1999-09-26
-source-url: https://www.scoop.co.nz/stories/PA9909/S00545/countdown-to-nationals-defeat-begins.htm
+title: Countdown to National's defeat begins
+date: 1999-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00545/countdown-to-nationals-defeat-begins.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/26/countdown-to-nationals-defeat-begins/index.html
+layout: layout.njk
 ---
 Countdown to National's defeat begins
 =====================================

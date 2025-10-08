@@ -1,9 +1,12 @@
 ---
 slug: media-workers-homicides-increase-due-to-iraq-wa
-title: "Media workers homicides increase due to Iraq wa"
-date: 2008-07-16
-source-url: https://www.scoop.co.nz/stories/ED0807/S00046/media-workers-homicides-increase-due-to-iraq-wa.htm
+title: Media workers homicides increase due to Iraq wa
+date: 2008-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00046/media-workers-homicides-increase-due-to-iraq-wa.htm
 author: university-of-otago
+permalink: /archive/2008/07/16/media-workers-homicides-increase-due-to-iraq-wa/index.html
+layout: layout.njk
 ---
 Media workers homicides increase due to Iraq wa
 ===============================================

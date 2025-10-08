@@ -1,9 +1,12 @@
 ---
 slug: auckland-university-boosts-region-by-$3-1-billion
-title: "Auckland University Boosts Region By $3.1 Billion"
-date: 2002-10-24
-source-url: https://www.scoop.co.nz/stories/ED0210/S00059/auckland-university-boosts-region-by-31-billion.htm
+title: Auckland University Boosts Region By $3.1 Billion
+date: 2002-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00059/auckland-university-boosts-region-by-31-billion.htm
 author: auckland-university
+permalink: /archive/2002/10/24/auckland-university-boosts-region-by-/index.html
+layout: layout.njk
 ---
 Auckland University Boosts Region By $3.1 Billion
 =================================================

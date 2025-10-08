@@ -1,9 +1,13 @@
 ---
 slug: minister-disingenuous-with-university-council-claims
-title: "Minister Disingenuous With University Council Claims"
-date: 2014-03-19
-source-url: https://www.scoop.co.nz/stories/PO1403/S00217/minister-disingenuous-with-university-council-claims.htm
+title: Minister Disingenuous With University Council Claims
+date: 2014-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00217/minister-disingenuous-with-university-council-claims.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/03/19/minister-disingenuous-with-university-council-claims/index.html
+layout: layout.njk
 ---
 Minister Disingenuous With University Council Claims
 ====================================================

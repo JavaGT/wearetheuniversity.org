@@ -1,9 +1,12 @@
 ---
 slug: tribunal-report-adds-to-confusion
-title: "Tribunal Report Adds To Confusion"
-date: 2004-03-08
-source-url: https://www.scoop.co.nz/stories/PA0403/S00152/tribunal-report-adds-to-confusion.htm
+title: Tribunal Report Adds To Confusion
+date: 2004-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00152/tribunal-report-adds-to-confusion.htm
 author: new-zealand-first-party
+permalink: /archive/2004/03/08/tribunal-report-adds-to-confusion/index.html
+layout: layout.njk
 ---
 Tribunal Report Adds To Confusion
 =================================

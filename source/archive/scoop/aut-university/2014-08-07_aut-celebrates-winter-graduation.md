@@ -1,9 +1,12 @@
 ---
 slug: aut-celebrates-winter-graduation
-title: "AUT celebrates Winter Graduation"
-date: 2014-08-07
-source-url: https://www.scoop.co.nz/stories/ED1408/S00034/aut-celebrates-winter-graduation.htm
+title: AUT celebrates Winter Graduation
+date: 2014-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00034/aut-celebrates-winter-graduation.htm
 author: aut-university
+permalink: /archive/2014/08/07/aut-celebrates-winter-graduation/index.html
+layout: layout.njk
 ---
 AUT celebrates Winter Graduation
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: excellent-trio-receive-medals
-title: "Excellent Trio Receive Medals"
-date: 2004-03-15
-source-url: https://www.scoop.co.nz/stories/ED0403/S00056/excellent-trio-receive-medals.htm
+title: Excellent Trio Receive Medals
+date: 2004-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00056/excellent-trio-receive-medals.htm
 author: waikato-university
+permalink: /archive/2004/03/15/excellent-trio-receive-medals/index.html
+layout: layout.njk
 ---
 Excellent Trio Receive Medals
 =============================

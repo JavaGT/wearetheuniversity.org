@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-16
-title: "AUS Tertiary Update, Vol 5 No 16"
-date: 2002-05-16
-source-url: https://www.scoop.co.nz/stories/ED0205/S00027/aus-tertiary-update-vol-5-no-16.htm
+title: AUS Tertiary Update, Vol 5 No 16
+date: 2002-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00027/aus-tertiary-update-vol-5-no-16.htm
 author: association-of-university-staff
+permalink: /archive/2002/05/16/aus-tertiary-update-vol-5-no-16/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update, Vol 5 No 16
 ================================

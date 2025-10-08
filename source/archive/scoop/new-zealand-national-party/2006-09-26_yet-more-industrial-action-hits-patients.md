@@ -1,9 +1,12 @@
 ---
 slug: yet-more-industrial-action-hits-patients
-title: "Yet more industrial action hits patients"
-date: 2006-09-26
-source-url: https://www.scoop.co.nz/stories/PA0609/S00548/yet-more-industrial-action-hits-patients.htm
+title: Yet more industrial action hits patients
+date: 2006-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00548/yet-more-industrial-action-hits-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/26/yet-more-industrial-action-hits-patients/index.html
+layout: layout.njk
 ---
 Yet more industrial action hits patients
 ========================================

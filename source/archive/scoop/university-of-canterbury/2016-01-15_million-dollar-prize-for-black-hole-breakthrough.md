@@ -1,9 +1,13 @@
 ---
 slug: million-dollar-prize-for-black-hole-breakthrough
-title: "Million dollar prize for black hole breakthrough"
-date: 2016-01-15
-source-url: https://www.scoop.co.nz/stories/SC1601/S00028/million-dollar-prize-for-black-hole-breakthrough.htm
+title: Million dollar prize for black hole breakthrough
+date: 2016-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1601/S00028/million-dollar-prize-for-black-hole-breakthrough.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/01/15/million-dollar-prize-for-black-hole-breakthrough/index.html
+layout: layout.njk
 ---
 Million dollar prize for black hole breakthrough
 ================================================

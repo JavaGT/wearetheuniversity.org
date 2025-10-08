@@ -1,9 +1,13 @@
 ---
 slug: big-increase-of-sex-workers-myth-latest-research
-title: "Big Increase of Sex Workers Myth: Latest Research"
-date: 2006-09-12
-source-url: https://www.scoop.co.nz/stories/ED0609/S00041/big-increase-of-sex-workers-myth-latest-research.htm
+title: 'Big Increase of Sex Workers Myth: Latest Research'
+date: 2006-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00041/big-increase-of-sex-workers-myth-latest-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/09/12/big-increase-of-sex-workers-myth-latest-research/index.html
+layout: layout.njk
 ---
 Big Increase of Sex Workers Myth: Latest Research
 =================================================

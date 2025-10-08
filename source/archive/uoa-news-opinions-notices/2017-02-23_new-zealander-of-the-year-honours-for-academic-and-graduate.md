@@ -1,8 +1,12 @@
 ---
 slug: new-zealander-of-the-year-honours-for-academic-and-graduate
-title: "New Zealander of the Year honours for academic and graduate"
-date: 2017-02-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/new-zealander-of-the-year-honours-for-academic-and-graduate.html
+title: New Zealander of the Year honours for academic and graduate
+date: 2017-02-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/new-zealander-of-the-year-honours-for-academic-and-graduate.html
+permalink: >-
+  /archive/2017/02/23/new-zealander-of-the-year-honours-for-academic-and-graduate/index.html
+layout: layout.njk
 ---
 New Zealander of the Year honours for academic and graduate
 ===========================================================

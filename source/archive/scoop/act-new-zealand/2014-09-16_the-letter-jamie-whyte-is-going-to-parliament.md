@@ -1,9 +1,12 @@
 ---
 slug: the-letter-jamie-whyte-is-going-to-parliament
-title: "The Letter: Jamie Whyte is going to Parliament"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/PO1409/S00353/the-letter-jamie-whyte-is-going-to-parliament.htm
+title: 'The Letter: Jamie Whyte is going to Parliament'
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00353/the-letter-jamie-whyte-is-going-to-parliament.htm
 author: act-new-zealand
+permalink: /archive/2014/09/16/the-letter-jamie-whyte-is-going-to-parliament/index.html
+layout: layout.njk
 ---
 The Letter: Jamie Whyte is going to Parliament
 ==============================================

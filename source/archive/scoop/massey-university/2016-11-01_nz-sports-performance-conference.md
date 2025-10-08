@@ -1,9 +1,12 @@
 ---
 slug: nz-sports-performance-conference
-title: "NZ Sports Performance Conference"
-date: 2016-11-01
-source-url: https://www.scoop.co.nz/stories/CU1611/S00006/nz-sports-performance-conference.htm
+title: NZ Sports Performance Conference
+date: 2016-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1611/S00006/nz-sports-performance-conference.htm
 author: massey-university
+permalink: /archive/2016/11/01/nz-sports-performance-conference/index.html
+layout: layout.njk
 ---
 NZ Sports Performance Conference
 ================================

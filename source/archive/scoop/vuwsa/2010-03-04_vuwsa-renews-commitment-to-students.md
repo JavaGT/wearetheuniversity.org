@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-renews-commitment-to-students
-title: "VUWSA renews commitment to students"
-date: 2010-03-04
-source-url: https://www.scoop.co.nz/stories/ED1003/S00016/vuwsa-renews-commitment-to-students.htm
+title: VUWSA renews commitment to students
+date: 2010-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00016/vuwsa-renews-commitment-to-students.htm
 author: vuwsa
+permalink: /archive/2010/03/04/vuwsa-renews-commitment-to-students/index.html
+layout: layout.njk
 ---
 VUWSA renews commitment to students
 ===================================

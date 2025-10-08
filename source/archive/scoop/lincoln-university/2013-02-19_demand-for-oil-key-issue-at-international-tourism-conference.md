@@ -1,9 +1,13 @@
 ---
 slug: demand-for-oil-key-issue-at-international-tourism-conference
-title: "Demand For Oil Key Issue At International Tourism Conference"
-date: 2013-02-19
-source-url: https://www.scoop.co.nz/stories/ED1302/S00095/demand-for-oil-key-issue-at-international-tourism-conference.htm
+title: Demand For Oil Key Issue At International Tourism Conference
+date: 2013-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00095/demand-for-oil-key-issue-at-international-tourism-conference.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/02/19/demand-for-oil-key-issue-at-international-tourism-conference/index.html
+layout: layout.njk
 ---
 Demand For Oil Key Issue At International Tourism Conference
 ============================================================

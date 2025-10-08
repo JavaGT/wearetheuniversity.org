@@ -1,9 +1,12 @@
 ---
 slug: future-focused-graduates-prepared
-title: "Future-focused graduates prepared"
-date: 2007-10-02
-source-url: https://www.scoop.co.nz/stories/ED0710/S00012/future-focused-graduates-prepared.htm
+title: Future-focused graduates prepared
+date: 2007-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00012/future-focused-graduates-prepared.htm
 author: massey-university
+permalink: /archive/2007/10/02/future-focused-graduates-prepared/index.html
+layout: layout.njk
 ---
 Future-focused graduates prepared
 =================================

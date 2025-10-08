@@ -1,9 +1,12 @@
 ---
 slug: polar-legends-flaws-exposed-in-new-book
-title: "Polar legend’s flaws exposed in new book"
-date: 2004-07-27
-source-url: https://www.scoop.co.nz/stories/ED0407/S00075/polar-legends-flaws-exposed-in-new-book.htm
+title: Polar legend’s flaws exposed in new book
+date: 2004-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00075/polar-legends-flaws-exposed-in-new-book.htm
 author: university-of-canterbury
+permalink: /archive/2004/07/27/polar-legends-flaws-exposed-in-new-book/index.html
+layout: layout.njk
 ---
 Polar legend’s flaws exposed in new book
 ========================================

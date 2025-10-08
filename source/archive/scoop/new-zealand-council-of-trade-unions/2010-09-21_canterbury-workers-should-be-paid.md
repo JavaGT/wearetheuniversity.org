@@ -1,9 +1,12 @@
 ---
 slug: canterbury-workers-should-be-paid
-title: "Canterbury workers should be paid"
-date: 2010-09-21
-source-url: https://www.scoop.co.nz/stories/BU1009/S00649/canterbury-workers-should-be-paid.htm
+title: Canterbury workers should be paid
+date: 2010-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1009/S00649/canterbury-workers-should-be-paid.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/09/21/canterbury-workers-should-be-paid/index.html
+layout: layout.njk
 ---
 Canterbury workers should be paid
 =================================

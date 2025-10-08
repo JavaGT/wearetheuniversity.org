@@ -1,9 +1,12 @@
 ---
 slug: govt-must-invest-in-prevention-based-solutions
-title: "Govt must invest in prevention-based solutions"
-date: 2009-02-19
-source-url: https://www.scoop.co.nz/stories/PA0902/S00274/govt-must-invest-in-prevention-based-solutions.htm
+title: Govt must invest in prevention-based solutions
+date: 2009-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00274/govt-must-invest-in-prevention-based-solutions.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/19/govt-must-invest-in-prevention-based-solutions/index.html
+layout: layout.njk
 ---
 Govt must invest in prevention-based solutions
 ==============================================

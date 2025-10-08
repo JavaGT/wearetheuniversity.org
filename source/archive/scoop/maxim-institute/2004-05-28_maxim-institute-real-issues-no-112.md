@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-112
-title: "Maxim Institute - real issues - No. 112"
-date: 2004-05-28
-source-url: https://www.scoop.co.nz/stories/PO0405/S00299/maxim-institute-real-issues-no-112.htm
+title: Maxim Institute - real issues - No. 112
+date: 2004-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00299/maxim-institute-real-issues-no-112.htm
 author: maxim-institute
+permalink: /archive/2004/05/28/maxim-institute-real-issues-no-112/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 112
 =======================================

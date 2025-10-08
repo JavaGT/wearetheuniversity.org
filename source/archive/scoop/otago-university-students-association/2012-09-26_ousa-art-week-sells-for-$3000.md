@@ -1,9 +1,11 @@
 ---
 slug: ousa-art-week-sells-for-$3000
-title: "OUSA Art Week sells for $3,000"
-date: 2012-09-26
+title: OUSA Art Week sells for $3,000
+date: 2012-09-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1209/S00495/ousa-art-week-sells-for-3000.htm
 author: otago-university-students-association
+permalink: /archive/2012/09/26/ousa-art-week-sells-for-/index.html
+layout: layout.njk
 ---
 OUSA Art Week sells for $3,000
 ==============================

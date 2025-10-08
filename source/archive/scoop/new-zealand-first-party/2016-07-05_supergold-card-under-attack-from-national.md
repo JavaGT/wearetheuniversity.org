@@ -1,9 +1,12 @@
 ---
 slug: supergold-card-under-attack-from-national
-title: "Supergold Card under Attack From National"
-date: 2016-07-05
-source-url: https://www.scoop.co.nz/stories/PA1607/S00058/supergold-card-under-attack-from-national.htm
+title: Supergold Card under Attack From National
+date: 2016-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00058/supergold-card-under-attack-from-national.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/05/supergold-card-under-attack-from-national/index.html
+layout: layout.njk
 ---
 Supergold Card under Attack From National
 =========================================

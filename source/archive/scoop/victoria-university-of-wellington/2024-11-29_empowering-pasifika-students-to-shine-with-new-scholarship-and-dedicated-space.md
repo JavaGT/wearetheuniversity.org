@@ -1,9 +1,13 @@
 ---
 slug: empowering-pasifika-students-to-shine-with-new-scholarship-and-dedicated-space
-title: "Empowering Pasifika Students To Shine With New Scholarship And Dedicated Space"
-date: 2024-11-29
-source-url: https://www.scoop.co.nz/stories/ED2411/S00053/empowering-pasifika-students-to-shine-with-new-scholarship-and-dedicated-space.htm
+title: Empowering Pasifika Students To Shine With New Scholarship And Dedicated Space
+date: 2024-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00053/empowering-pasifika-students-to-shine-with-new-scholarship-and-dedicated-space.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/11/29/empowering-pasifika-students-to-shine-with-new-scholarship-and-dedicated-space/index.html
+layout: layout.njk
 ---
 Empowering Pasifika Students To Shine With New Scholarship And Dedicated Space
 ==============================================================================

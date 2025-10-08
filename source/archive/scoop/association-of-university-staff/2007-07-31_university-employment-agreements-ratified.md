@@ -1,9 +1,12 @@
 ---
 slug: university-employment-agreements-ratified
-title: "University Employment Agreements Ratified"
-date: 2007-07-31
-source-url: https://www.scoop.co.nz/stories/ED0707/S00100/university-employment-agreements-ratified.htm
+title: University Employment Agreements Ratified
+date: 2007-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00100/university-employment-agreements-ratified.htm
 author: association-of-university-staff
+permalink: /archive/2007/07/31/university-employment-agreements-ratified/index.html
+layout: layout.njk
 ---
 University Employment Agreements Ratified
 =========================================

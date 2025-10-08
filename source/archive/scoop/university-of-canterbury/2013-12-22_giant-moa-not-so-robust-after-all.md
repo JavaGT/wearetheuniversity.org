@@ -1,9 +1,12 @@
 ---
 slug: giant-moa-not-so-robust-after-all
-title: "Giant moa not so robust after all"
-date: 2013-12-22
-source-url: https://www.scoop.co.nz/stories/SC1312/S00052/giant-moa-not-so-robust-after-all.htm
+title: Giant moa not so robust after all
+date: 2013-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00052/giant-moa-not-so-robust-after-all.htm
 author: university-of-canterbury
+permalink: /archive/2013/12/22/giant-moa-not-so-robust-after-all/index.html
+layout: layout.njk
 ---
 Giant moa not so robust after all
 =================================

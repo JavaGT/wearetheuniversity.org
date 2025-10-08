@@ -1,9 +1,13 @@
 ---
 slug: pesticide-studies-lead-awards-of-research-grants
-title: "Pesticide studies lead awards of research grants"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/GE1306/S00020/pesticide-studies-lead-awards-of-research-grants.htm
+title: Pesticide studies lead awards of research grants
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1306/S00020/pesticide-studies-lead-awards-of-research-grants.htm
 author: massey-university
+permalink: >-
+  /archive/2013/06/06/pesticide-studies-lead-awards-of-research-grants/index.html
+layout: layout.njk
 ---
 Pesticide studies lead awards of research grants
 ================================================

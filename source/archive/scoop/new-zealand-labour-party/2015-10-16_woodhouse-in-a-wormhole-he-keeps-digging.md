@@ -1,9 +1,12 @@
 ---
 slug: woodhouse-in-a-wormhole-he-keeps-digging
-title: "Woodhouse: In a wormhole he keeps digging"
-date: 2015-10-16
-source-url: https://www.scoop.co.nz/stories/PA1510/S00269/woodhouse-in-a-wormhole-he-keeps-digging.htm
+title: 'Woodhouse: In a wormhole he keeps digging'
+date: 2015-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00269/woodhouse-in-a-wormhole-he-keeps-digging.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/16/woodhouse-in-a-wormhole-he-keeps-digging/index.html
+layout: layout.njk
 ---
 Woodhouse: In a wormhole he keeps digging
 =========================================

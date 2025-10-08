@@ -1,9 +1,13 @@
 ---
 slug: pbrf-review-provides-opportunity-to-fix-problems
-title: "PBRF review provides opportunity to fix problems"
-date: 2008-03-03
-source-url: https://www.scoop.co.nz/stories/ED0803/S00002/pbrf-review-provides-opportunity-to-fix-problems.htm
+title: PBRF review provides opportunity to fix problems
+date: 2008-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00002/pbrf-review-provides-opportunity-to-fix-problems.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2008/03/03/pbrf-review-provides-opportunity-to-fix-problems/index.html
+layout: layout.njk
 ---
 PBRF review provides opportunity to fix problems
 ================================================

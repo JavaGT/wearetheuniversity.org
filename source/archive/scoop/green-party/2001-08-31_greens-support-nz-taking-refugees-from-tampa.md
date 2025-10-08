@@ -1,9 +1,12 @@
 ---
 slug: greens-support-nz-taking-refugees-from-tampa
-title: "Greens Support NZ Taking Refugees From Tampa"
-date: 2001-08-31
-source-url: https://www.scoop.co.nz/stories/PA0108/S00591/greens-support-nz-taking-refugees-from-tampa.htm
+title: Greens Support NZ Taking Refugees From Tampa
+date: 2001-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00591/greens-support-nz-taking-refugees-from-tampa.htm
 author: green-party
+permalink: /archive/2001/08/31/greens-support-nz-taking-refugees-from-tampa/index.html
+layout: layout.njk
 ---
 Greens Support NZ Taking Refugees From Tampa
 ============================================

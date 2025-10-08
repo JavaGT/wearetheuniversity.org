@@ -1,9 +1,13 @@
 ---
 slug: fund-talented-kids-too-urges-gifted-education-champion
-title: "Fund talented kids too, urges gifted education champion"
-date: 2016-12-19
-source-url: https://www.scoop.co.nz/stories/ED1612/S00070/fund-talented-kids-too-urges-gifted-education-champion.htm
+title: Fund talented kids too, urges gifted education champion
+date: 2016-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00070/fund-talented-kids-too-urges-gifted-education-champion.htm
 author: massey-university
+permalink: >-
+  /archive/2016/12/19/fund-talented-kids-too-urges-gifted-education-champion/index.html
+layout: layout.njk
 ---
 Fund talented kids too, urges gifted education champion
 =======================================================

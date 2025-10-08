@@ -1,9 +1,12 @@
 ---
 slug: new-focus-for-university-challenge
-title: "New Focus for University Challenge"
-date: 2005-03-11
-source-url: https://www.scoop.co.nz/stories/ED0503/S00036/new-focus-for-university-challenge.htm
+title: New Focus for University Challenge
+date: 2005-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00036/new-focus-for-university-challenge.htm
 author: auckland-university
+permalink: /archive/2005/03/11/new-focus-for-university-challenge/index.html
+layout: layout.njk
 ---
 New Focus for University Challenge
 ==================================

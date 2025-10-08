@@ -1,9 +1,13 @@
 ---
 slug: well-deserved-win-for-waikato-student-boat-builders
-title: "Well-deserved win for Waikato student boat builders"
-date: 2017-06-07
-source-url: https://www.scoop.co.nz/stories/CU1706/S00107/well-deserved-win-for-waikato-student-boat-builders.htm
+title: Well-deserved win for Waikato student boat builders
+date: 2017-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1706/S00107/well-deserved-win-for-waikato-student-boat-builders.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/06/07/well-deserved-win-for-waikato-student-boat-builders/index.html
+layout: layout.njk
 ---
 Well-deserved win for Waikato student boat builders
 ===================================================

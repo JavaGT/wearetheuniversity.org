@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-gambling-amendment-bill-no-2
-title: "Speech: Flavell - Gambling Amendment Bill, No. 2"
-date: 2009-05-13
-source-url: https://www.scoop.co.nz/stories/PA0905/S00228/speech-flavell-gambling-amendment-bill-no-2.htm
+title: 'Speech: Flavell - Gambling Amendment Bill, No. 2'
+date: 2009-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00228/speech-flavell-gambling-amendment-bill-no-2.htm
 author: te-pati-maori
+permalink: /archive/2009/05/13/speech-flavell-gambling-amendment-bill-no-2/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Gambling Amendment Bill, No. 2
 ================================================

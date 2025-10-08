@@ -1,9 +1,12 @@
 ---
 slug: ect-often-given-without-consent-mainly-to-women
-title: "ECT often given without consent, mainly to women"
-date: 2006-08-14
-source-url: https://www.scoop.co.nz/stories/PA0608/S00221/ect-often-given-without-consent-mainly-to-women.htm
+title: ECT often given without consent, mainly to women
+date: 2006-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00221/ect-often-given-without-consent-mainly-to-women.htm
 author: green-party
+permalink: /archive/2006/08/14/ect-often-given-without-consent-mainly-to-women/index.html
+layout: layout.njk
 ---
 ECT often given without consent, mainly to women
 ================================================

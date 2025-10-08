@@ -1,9 +1,13 @@
 ---
 slug: uc-designs-phone-app-for-christchurchs-historic-high-street
-title: "UC designs phone app for Christchurch’s historic High Street"
-date: 2013-02-01
-source-url: https://www.scoop.co.nz/stories/AK1302/S00004/uc-designs-phone-app-for-christchurchs-historic-high-street.htm
+title: UC designs phone app for Christchurch’s historic High Street
+date: 2013-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1302/S00004/uc-designs-phone-app-for-christchurchs-historic-high-street.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/01/uc-designs-phone-app-for-christchurchs-historic-high-street/index.html
+layout: layout.njk
 ---
 UC designs phone app for Christchurch’s historic High Street
 ============================================================

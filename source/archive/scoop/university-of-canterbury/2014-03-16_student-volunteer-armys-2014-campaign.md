@@ -1,9 +1,12 @@
 ---
 slug: student-volunteer-armys-2014-campaign
-title: "Student Volunteer Army’s 2014 campaign"
-date: 2014-03-16
-source-url: https://www.scoop.co.nz/stories/AK1403/S00431/student-volunteer-armys-2014-campaign.htm
+title: Student Volunteer Army’s 2014 campaign
+date: 2014-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00431/student-volunteer-armys-2014-campaign.htm
 author: university-of-canterbury
+permalink: /archive/2014/03/16/student-volunteer-armys-2014-campaign/index.html
+layout: layout.njk
 ---
 Student Volunteer Army’s 2014 campaign
 ======================================

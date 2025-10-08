@@ -1,9 +1,13 @@
 ---
 slug: act-congratulates-ministry-of-education-for-policy-change
-title: "ACT Congratulates Ministry Of Education For Policy Change"
-date: 2021-06-06
-source-url: https://www.scoop.co.nz/stories/PA2106/S00050/act-congratulates-ministry-of-education-for-policy-change.htm
+title: ACT Congratulates Ministry Of Education For Policy Change
+date: 2021-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00050/act-congratulates-ministry-of-education-for-policy-change.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/06/06/act-congratulates-ministry-of-education-for-policy-change/index.html
+layout: layout.njk
 ---
 ACT Congratulates Ministry Of Education For Policy Change
 =========================================================

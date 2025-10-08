@@ -1,9 +1,12 @@
 ---
 slug: review-must-not-jeopardise-academic-freedom
-title: "Review must not jeopardise academic freedom"
-date: 2002-11-20
-source-url: https://www.scoop.co.nz/stories/PA0211/S00473/review-must-not-jeopardise-academic-freedom.htm
+title: Review must not jeopardise academic freedom
+date: 2002-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00473/review-must-not-jeopardise-academic-freedom.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/20/review-must-not-jeopardise-academic-freedom/index.html
+layout: layout.njk
 ---
 Review must not jeopardise academic freedom
 ===========================================

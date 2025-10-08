@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-strengthens-ties-with-china
-title: "Waikato University strengthens ties with China"
-date: 2017-05-24
-source-url: https://www.scoop.co.nz/stories/ED1705/S00104/waikato-university-strengthens-ties-with-china.htm
+title: Waikato University strengthens ties with China
+date: 2017-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00104/waikato-university-strengthens-ties-with-china.htm
 author: university-of-waikato
+permalink: /archive/2017/05/24/waikato-university-strengthens-ties-with-china/index.html
+layout: layout.njk
 ---
 Waikato University strengthens ties with China
 ==============================================

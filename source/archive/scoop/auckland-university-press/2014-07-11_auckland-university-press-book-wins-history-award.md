@@ -1,9 +1,13 @@
 ---
 slug: auckland-university-press-book-wins-history-award
-title: "Auckland University Press Book Wins History Award"
-date: 2014-07-11
-source-url: https://www.scoop.co.nz/stories/CU1407/S00174/auckland-university-press-book-wins-history-award.htm
+title: Auckland University Press Book Wins History Award
+date: 2014-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00174/auckland-university-press-book-wins-history-award.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2014/07/11/auckland-university-press-book-wins-history-award/index.html
+layout: layout.njk
 ---
 Auckland University Press Book Wins History Award
 =================================================

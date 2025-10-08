@@ -1,9 +1,12 @@
 ---
 slug: maori-party-sorrow-at-death-of-dpa-president
-title: "Maori Party sorrow at death of DPA President"
-date: 2009-02-05
-source-url: https://www.scoop.co.nz/stories/PA0902/S00069/maori-party-sorrow-at-death-of-dpa-president.htm
+title: Maori Party sorrow at death of DPA President
+date: 2009-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00069/maori-party-sorrow-at-death-of-dpa-president.htm
 author: te-pati-maori
+permalink: /archive/2009/02/05/maori-party-sorrow-at-death-of-dpa-president/index.html
+layout: layout.njk
 ---
 Maori Party sorrow at death of DPA President
 ============================================

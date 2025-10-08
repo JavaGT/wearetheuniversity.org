@@ -1,9 +1,12 @@
 ---
 slug: maori-party-saddened-by-passing-of-lady-raiha
-title: "Maori Party saddened by passing of Lady Raiha"
-date: 2010-03-23
-source-url: https://www.scoop.co.nz/stories/PA1003/S00324/maori-party-saddened-by-passing-of-lady-raiha.htm
+title: Maori Party saddened by passing of Lady Raiha
+date: 2010-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00324/maori-party-saddened-by-passing-of-lady-raiha.htm
 author: te-pati-maori
+permalink: /archive/2010/03/23/maori-party-saddened-by-passing-of-lady-raiha/index.html
+layout: layout.njk
 ---
 Maori Party saddened by passing of Lady Raiha
 =============================================

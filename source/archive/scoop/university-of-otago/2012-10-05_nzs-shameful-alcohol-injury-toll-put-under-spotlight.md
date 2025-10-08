@@ -1,9 +1,13 @@
 ---
 slug: nzs-shameful-alcohol-injury-toll-put-under-spotlight
-title: "NZ’s shameful alcohol injury toll put under spotlight"
-date: 2012-10-05
-source-url: https://www.scoop.co.nz/stories/PO1210/S00068/nzs-shameful-alcohol-injury-toll-put-under-spotlight.htm
+title: NZ’s shameful alcohol injury toll put under spotlight
+date: 2012-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00068/nzs-shameful-alcohol-injury-toll-put-under-spotlight.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/10/05/nzs-shameful-alcohol-injury-toll-put-under-spotlight/index.html
+layout: layout.njk
 ---
 NZ’s shameful alcohol injury toll put under spotlight
 =====================================================

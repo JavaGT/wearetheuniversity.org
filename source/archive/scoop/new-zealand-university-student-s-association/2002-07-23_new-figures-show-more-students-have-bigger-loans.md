@@ -1,9 +1,13 @@
 ---
 slug: new-figures-show-more-students-have-bigger-loans
-title: "New Figures Show More Students Have Bigger Loans"
-date: 2002-07-23
-source-url: https://www.scoop.co.nz/stories/ED0207/S00054/new-figures-show-more-students-have-bigger-loans.htm
+title: New Figures Show More Students Have Bigger Loans
+date: 2002-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00054/new-figures-show-more-students-have-bigger-loans.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2002/07/23/new-figures-show-more-students-have-bigger-loans/index.html
+layout: layout.njk
 ---
 New Figures Show More Students Have Bigger Loans
 ================================================

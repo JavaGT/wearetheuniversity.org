@@ -1,9 +1,13 @@
 ---
 slug: how-the-built-environment-is-damaging-childrens-connection-to-nature
-title: "How The Built Environment Is Damaging Children’s Connection To Nature"
-date: 2024-10-25
-source-url: https://www.scoop.co.nz/stories/WO2410/S00296/how-the-built-environment-is-damaging-childrens-connection-to-nature.htm
+title: How The Built Environment Is Damaging Children’s Connection To Nature
+date: 2024-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00296/how-the-built-environment-is-damaging-childrens-connection-to-nature.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/10/25/how-the-built-environment-is-damaging-childrens-connection-to-nature/index.html
+layout: layout.njk
 ---
 How The Built Environment Is Damaging Children’s Connection To Nature
 =====================================================================

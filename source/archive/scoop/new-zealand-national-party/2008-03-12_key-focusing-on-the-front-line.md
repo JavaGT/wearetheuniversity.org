@@ -1,9 +1,12 @@
 ---
 slug: key-focusing-on-the-front-line
-title: "Key: Focusing on the Front Line"
-date: 2008-03-12
-source-url: https://www.scoop.co.nz/stories/PA0803/S00204/key-focusing-on-the-front-line.htm
+title: 'Key: Focusing on the Front Line'
+date: 2008-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00204/key-focusing-on-the-front-line.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/12/key-focusing-on-the-front-line/index.html
+layout: layout.njk
 ---
 Key: Focusing on the Front Line
 ===============================

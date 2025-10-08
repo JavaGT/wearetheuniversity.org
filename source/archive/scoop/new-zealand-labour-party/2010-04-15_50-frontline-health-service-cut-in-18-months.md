@@ -1,9 +1,12 @@
 ---
 slug: 50-frontline-health-service-cut-in-18-months
-title: "50 Frontline Health Service Cut In 18 Months"
-date: 2010-04-15
-source-url: https://www.scoop.co.nz/stories/PA1004/S00158/50-frontline-health-service-cut-in-18-months.htm
+title: 50 Frontline Health Service Cut In 18 Months
+date: 2010-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00158/50-frontline-health-service-cut-in-18-months.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/15/50-frontline-health-service-cut-in-18-months/index.html
+layout: layout.njk
 ---
 50 Frontline Health Service Cut In 18 Months
 ============================================

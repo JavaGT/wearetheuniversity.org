@@ -1,9 +1,12 @@
 ---
 slug: elitist-govt-leaves-kiwis-in-the-poo
-title: "Elitist Govt leaves Kiwis in the poo"
-date: 2008-12-22
-source-url: https://www.scoop.co.nz/stories/PA0812/S00256/elitist-govt-leaves-kiwis-in-the-poo.htm
+title: Elitist Govt leaves Kiwis in the poo
+date: 2008-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00256/elitist-govt-leaves-kiwis-in-the-poo.htm
 author: green-party
+permalink: /archive/2008/12/22/elitist-govt-leaves-kiwis-in-the-poo/index.html
+layout: layout.njk
 ---
 Elitist Govt leaves Kiwis in the poo
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: dental-care-for-children-disappearing
-title: "Dental Care For Children Disappearing"
-date: 2004-02-26
-source-url: https://www.scoop.co.nz/stories/PA0402/S00460/dental-care-for-children-disappearing.htm
+title: Dental Care For Children Disappearing
+date: 2004-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00460/dental-care-for-children-disappearing.htm
 author: new-zealand-first-party
+permalink: /archive/2004/02/26/dental-care-for-children-disappearing/index.html
+layout: layout.njk
 ---
 Dental Care For Children Disappearing
 =====================================

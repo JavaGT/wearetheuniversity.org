@@ -1,9 +1,11 @@
 ---
 slug: jan-logie-maiden-speech
-title: "Jan Logie – Maiden Speech"
-date: 2012-02-15
+title: Jan Logie – Maiden Speech
+date: 2012-02-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1202/S00175/jan-logie-maiden-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/15/jan-logie-maiden-speech/index.html
+layout: layout.njk
 ---
 Jan Logie – Maiden Speech
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: misconception-that-switching-banks-is-difficult
-title: "Misconception that switching banks is difficult"
-date: 2009-12-07
-source-url: https://www.scoop.co.nz/stories/ED0912/S00018/misconception-that-switching-banks-is-difficult.htm
+title: Misconception that switching banks is difficult
+date: 2009-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0912/S00018/misconception-that-switching-banks-is-difficult.htm
 author: massey-university
+permalink: /archive/2009/12/07/misconception-that-switching-banks-is-difficult/index.html
+layout: layout.njk
 ---
 Misconception that switching banks is difficult
 ===============================================

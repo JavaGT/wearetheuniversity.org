@@ -1,9 +1,12 @@
 ---
 slug: nz-climate-response-slammed-as-inadequate-again
-title: "NZ climate response slammed as ‘inadequate’, again"
-date: 2016-11-11
-source-url: https://www.scoop.co.nz/stories/PA1611/S00241/nz-climate-response-slammed-as-inadequate-again.htm
+title: NZ climate response slammed as ‘inadequate’, again
+date: 2016-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00241/nz-climate-response-slammed-as-inadequate-again.htm
 author: green-party
+permalink: /archive/2016/11/11/nz-climate-response-slammed-as-inadequate-again/index.html
+layout: layout.njk
 ---
 NZ climate response slammed as ‘inadequate’, again
 ==================================================

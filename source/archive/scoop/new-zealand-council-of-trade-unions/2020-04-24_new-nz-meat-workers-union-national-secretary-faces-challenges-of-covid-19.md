@@ -1,9 +1,13 @@
 ---
 slug: new-nz-meat-workers-union-national-secretary-faces-challenges-of-covid-19
-title: "New NZ Meat Workers Union National Secretary Faces Challenges Of COVID 19"
-date: 2020-04-24
-source-url: https://www.scoop.co.nz/stories/BU2004/S00501/new-nz-meat-workers-union-national-secretary-faces-challenges-of-covid-19.htm
+title: New NZ Meat Workers Union National Secretary Faces Challenges Of COVID 19
+date: 2020-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2004/S00501/new-nz-meat-workers-union-national-secretary-faces-challenges-of-covid-19.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2020/04/24/new-nz-meat-workers-union-national-secretary-faces-challenges-of-covid-19/index.html
+layout: layout.njk
 ---
 New NZ Meat Workers Union National Secretary Faces Challenges Of COVID 19
 =========================================================================

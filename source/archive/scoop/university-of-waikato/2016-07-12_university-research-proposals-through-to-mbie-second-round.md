@@ -1,9 +1,13 @@
 ---
 slug: university-research-proposals-through-to-mbie-second-round
-title: "University research proposals through to MBIE second round"
-date: 2016-07-12
-source-url: https://www.scoop.co.nz/stories/ED1607/S00055/university-research-proposals-through-to-mbie-second-round.htm
+title: University research proposals through to MBIE second round
+date: 2016-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00055/university-research-proposals-through-to-mbie-second-round.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/07/12/university-research-proposals-through-to-mbie-second-round/index.html
+layout: layout.njk
 ---
 University research proposals through to MBIE second round
 ==========================================================

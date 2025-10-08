@@ -1,9 +1,13 @@
 ---
 slug: growing-antarctic-ice-sheet-caused-ancient-med-to-dry-up
-title: "Growing Antarctic ice sheet caused ancient Med to dry up"
-date: 2015-11-11
-source-url: https://www.scoop.co.nz/stories/SC1511/S00039/growing-antarctic-ice-sheet-caused-ancient-med-to-dry-up.htm
+title: Growing Antarctic ice sheet caused ancient Med to dry up
+date: 2015-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00039/growing-antarctic-ice-sheet-caused-ancient-med-to-dry-up.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/11/growing-antarctic-ice-sheet-caused-ancient-med-to-dry-up/index.html
+layout: layout.njk
 ---
 Growing Antarctic ice sheet caused ancient Med to dry up
 ========================================================

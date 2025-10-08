@@ -1,9 +1,13 @@
 ---
 slug: new-innovations-to-fuel-the-future-of-nzs-food-fibre-and-agritech-sector
-title: "New Innovations To Fuel The Future Of NZ’s Food, Fibre And Agritech Sector"
-date: 2021-05-12
-source-url: https://www.scoop.co.nz/stories/BU2105/S00196/new-innovations-to-fuel-the-future-of-nzs-food-fibre-and-agritech-sector.htm
+title: New Innovations To Fuel The Future Of NZ’s Food, Fibre And Agritech Sector
+date: 2021-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2105/S00196/new-innovations-to-fuel-the-future-of-nzs-food-fibre-and-agritech-sector.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/05/12/new-innovations-to-fuel-the-future-of-nzs-food-fibre-and-agritech-sector/index.html
+layout: layout.njk
 ---
 New Innovations To Fuel The Future Of NZ’s Food, Fibre And Agritech Sector
 ==========================================================================

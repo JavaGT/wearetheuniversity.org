@@ -1,9 +1,12 @@
 ---
 slug: students-outraged-as-their-voice-is-silenced
-title: "Students outraged as their voice is silenced"
-date: 2013-08-30
-source-url: https://www.scoop.co.nz/stories/PO1308/S00432/students-outraged-as-their-voice-is-silenced.htm
+title: Students outraged as their voice is silenced
+date: 2013-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00432/students-outraged-as-their-voice-is-silenced.htm
 author: ausa
+permalink: /archive/2013/08/30/students-outraged-as-their-voice-is-silenced/index.html
+layout: layout.njk
 ---
 Students outraged as their voice is silenced
 ============================================

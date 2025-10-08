@@ -1,9 +1,12 @@
 ---
 slug: hamilton-labour-offices-to-be-targetted
-title: "Hamilton Labour Offices To Be Targetted"
-date: 2000-05-29
-source-url: https://www.scoop.co.nz/stories/ED0005/S00045/hamilton-labour-offices-to-be-targetted.htm
+title: Hamilton Labour Offices To Be Targetted
+date: 2000-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00045/hamilton-labour-offices-to-be-targetted.htm
 author: fightback
+permalink: /archive/2000/05/29/hamilton-labour-offices-to-be-targetted/index.html
+layout: layout.njk
 ---
 Hamilton Labour Offices To Be Targetted
 =======================================

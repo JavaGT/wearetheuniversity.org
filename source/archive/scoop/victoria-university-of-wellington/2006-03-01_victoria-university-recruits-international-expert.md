@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-recruits-international-expert
-title: "Victoria University recruits international expert"
-date: 2006-03-01
-source-url: https://www.scoop.co.nz/stories/ED0603/S00002/victoria-university-recruits-international-expert.htm
+title: Victoria University recruits international expert
+date: 2006-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00002/victoria-university-recruits-international-expert.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/03/01/victoria-university-recruits-international-expert/index.html
+layout: layout.njk
 ---
 Victoria University recruits international expert
 =================================================

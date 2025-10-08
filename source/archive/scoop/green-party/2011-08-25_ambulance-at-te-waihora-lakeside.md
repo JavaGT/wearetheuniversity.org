@@ -1,9 +1,12 @@
 ---
 slug: ambulance-at-te-waihora-lakeside
-title: "\"Ambulance at Te Waihora lakeside\""
-date: 2011-08-25
-source-url: https://www.scoop.co.nz/stories/PA1108/S00517/ambulance-at-te-waihora-lakeside.htm
+title: '"Ambulance at Te Waihora lakeside"'
+date: 2011-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00517/ambulance-at-te-waihora-lakeside.htm
 author: green-party
+permalink: /archive/2011/08/25/ambulance-at-te-waihora-lakeside/index.html
+layout: layout.njk
 ---
 \"Ambulance at Te Waihora lakeside"
 ==================================

@@ -1,9 +1,11 @@
 ---
 slug: aspa-supports-salient
-title: "ASPA Supports Salient"
-date: 2005-10-05
+title: ASPA Supports Salient
+date: 2005-10-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0510/S00013/aspa-supports-salient.htm
 author: aotearoa-student-press-association
+permalink: /archive/2005/10/05/aspa-supports-salient/index.html
+layout: layout.njk
 ---
 ASPA Supports Salient
 =====================

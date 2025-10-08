@@ -1,9 +1,12 @@
 ---
 slug: uninvited-a-season-of-three-plays
-title: "Uninvited – a season of three plays"
-date: 2006-10-02
-source-url: https://www.scoop.co.nz/stories/ED0610/S00002/uninvited-a-season-of-three-plays.htm
+title: Uninvited – a season of three plays
+date: 2006-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00002/uninvited-a-season-of-three-plays.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/10/02/uninvited-a-season-of-three-plays/index.html
+layout: layout.njk
 ---
 Uninvited – a season of three plays
 ===================================

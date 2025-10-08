@@ -1,9 +1,13 @@
 ---
 slug: uc-equips-environmental-scientists-to-make-a-difference
-title: "UC Equips Environmental Scientists To Make A Difference"
-date: 2020-12-18
-source-url: https://www.scoop.co.nz/stories/SC2012/S00030/uc-equips-environmental-scientists-to-make-a-difference.htm
+title: UC Equips Environmental Scientists To Make A Difference
+date: 2020-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2012/S00030/uc-equips-environmental-scientists-to-make-a-difference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/12/18/uc-equips-environmental-scientists-to-make-a-difference/index.html
+layout: layout.njk
 ---
 UC Equips Environmental Scientists To Make A Difference
 =======================================================

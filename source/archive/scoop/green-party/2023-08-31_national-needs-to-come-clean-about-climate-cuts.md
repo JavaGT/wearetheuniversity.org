@@ -1,9 +1,12 @@
 ---
 slug: national-needs-to-come-clean-about-climate-cuts
-title: "National Needs To Come Clean About Climate Cuts"
-date: 2023-08-31
-source-url: https://www.scoop.co.nz/stories/PA2308/S00208/national-needs-to-come-clean-about-climate-cuts.htm
+title: National Needs To Come Clean About Climate Cuts
+date: 2023-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00208/national-needs-to-come-clean-about-climate-cuts.htm
 author: green-party
+permalink: /archive/2023/08/31/national-needs-to-come-clean-about-climate-cuts/index.html
+layout: layout.njk
 ---
 National Needs To Come Clean About Climate Cuts
 ===============================================

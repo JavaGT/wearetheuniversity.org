@@ -1,9 +1,11 @@
 ---
 slug: hands-up-for-learning
-title: "Hands Up for Learning"
-date: 2009-10-30
+title: Hands Up for Learning
+date: 2009-10-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0910/S00482/hands-up-for-learning.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/30/hands-up-for-learning/index.html
+layout: layout.njk
 ---
 Hands Up for Learning
 =====================

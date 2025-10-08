@@ -1,9 +1,12 @@
 ---
 slug: nzusa-thrilled-with-student-reps-on-tec
-title: "NZUSA thrilled with student reps on TEC"
-date: 2002-12-03
-source-url: https://www.scoop.co.nz/stories/PO0212/S00030/nzusa-thrilled-with-student-reps-on-tec.htm
+title: NZUSA thrilled with student reps on TEC
+date: 2002-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0212/S00030/nzusa-thrilled-with-student-reps-on-tec.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/12/03/nzusa-thrilled-with-student-reps-on-tec/index.html
+layout: layout.njk
 ---
 NZUSA thrilled with student reps on TEC
 =======================================

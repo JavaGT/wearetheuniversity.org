@@ -1,9 +1,12 @@
 ---
 slug: small-firms-urged-to-consider-frontier-markets
-title: "Small firms urged to consider frontier markets"
-date: 2015-06-11
-source-url: https://www.scoop.co.nz/stories/BU1506/S00420/small-firms-urged-to-consider-frontier-markets.htm
+title: Small firms urged to consider frontier markets
+date: 2015-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1506/S00420/small-firms-urged-to-consider-frontier-markets.htm
 author: massey-university
+permalink: /archive/2015/06/11/small-firms-urged-to-consider-frontier-markets/index.html
+layout: layout.njk
 ---
 Small firms urged to consider frontier markets
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: mallard-should-send-censorship-software-to-dogbox
-title: "Mallard should send censorship software to dogbox"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/PA0505/S00441/mallard-should-send-censorship-software-to-dogbox.htm
+title: Mallard should send censorship software to dogbox
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00441/mallard-should-send-censorship-software-to-dogbox.htm
 author: green-party
+permalink: >-
+  /archive/2005/05/19/mallard-should-send-censorship-software-to-dogbox/index.html
+layout: layout.njk
 ---
 Mallard should send censorship software to dogbox
 =================================================

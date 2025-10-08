@@ -1,9 +1,13 @@
 ---
 slug: speech-to-act-party-auckland-south-annual-conference
-title: "Speech to ACT Party Auckland South Annual Conference"
-date: 2015-12-07
-source-url: https://www.scoop.co.nz/stories/PA1512/S00137/speech-to-act-party-auckland-south-annual-conference.htm
+title: Speech to ACT Party Auckland South Annual Conference
+date: 2015-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00137/speech-to-act-party-auckland-south-annual-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/12/07/speech-to-act-party-auckland-south-annual-conference/index.html
+layout: layout.njk
 ---
 Speech to ACT Party Auckland South Annual Conference
 ====================================================

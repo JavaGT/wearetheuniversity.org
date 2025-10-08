@@ -1,9 +1,13 @@
 ---
 slug: govts-velvet-glove-submission-to-council-over-asset-sales
-title: "Govt’s velvet glove submission to council over asset sales"
-date: 2011-10-12
-source-url: https://www.scoop.co.nz/stories/PA1110/S00244/govts-velvet-glove-submission-to-council-over-asset-sales.htm
+title: Govt’s velvet glove submission to council over asset sales
+date: 2011-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00244/govts-velvet-glove-submission-to-council-over-asset-sales.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/10/12/govts-velvet-glove-submission-to-council-over-asset-sales/index.html
+layout: layout.njk
 ---
 Govt’s velvet glove submission to council over asset sales
 ==========================================================

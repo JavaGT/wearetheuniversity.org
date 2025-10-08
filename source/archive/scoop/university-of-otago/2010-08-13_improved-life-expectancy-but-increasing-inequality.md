@@ -1,9 +1,13 @@
 ---
 slug: improved-life-expectancy-but-increasing-inequality
-title: "Improved life expectancy but increasing inequality"
-date: 2010-08-13
-source-url: https://www.scoop.co.nz/stories/GE1008/S00062/improved-life-expectancy-but-increasing-inequality.htm
+title: Improved life expectancy but increasing inequality
+date: 2010-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1008/S00062/improved-life-expectancy-but-increasing-inequality.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/08/13/improved-life-expectancy-but-increasing-inequality/index.html
+layout: layout.njk
 ---
 Improved life expectancy but increasing inequality
 ==================================================

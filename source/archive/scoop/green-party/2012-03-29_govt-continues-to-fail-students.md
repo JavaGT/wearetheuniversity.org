@@ -1,9 +1,12 @@
 ---
 slug: govt-continues-to-fail-students
-title: "Govt Continues To Fail Students"
-date: 2012-03-29
-source-url: https://www.scoop.co.nz/stories/PA1203/S00395/govt-continues-to-fail-students.htm
+title: Govt Continues To Fail Students
+date: 2012-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00395/govt-continues-to-fail-students.htm
 author: green-party
+permalink: /archive/2012/03/29/govt-continues-to-fail-students/index.html
+layout: layout.njk
 ---
 Govt Continues To Fail Students
 ===============================

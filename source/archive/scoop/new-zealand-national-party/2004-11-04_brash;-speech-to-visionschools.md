@@ -1,9 +1,12 @@
 ---
 slug: brash;-speech-to-visionschools
-title: "Brash; Speech to Visionschools"
-date: 2004-11-04
-source-url: https://www.scoop.co.nz/stories/PA0411/S00114/brash-speech-to-visionschools.htm
+title: Brash; Speech to Visionschools
+date: 2004-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00114/brash-speech-to-visionschools.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/04/brash/index.html
+layout: layout.njk
 ---
 Brash; Speech to Visionschools
 ==============================

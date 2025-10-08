@@ -1,9 +1,12 @@
 ---
 slug: stopping-smoking-main-reason-for-vaping
-title: "Stopping smoking main reason for vaping"
-date: 2018-01-31
-source-url: https://www.scoop.co.nz/stories/GE1801/S00067/stopping-smoking-main-reason-for-vaping.htm
+title: Stopping smoking main reason for vaping
+date: 2018-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1801/S00067/stopping-smoking-main-reason-for-vaping.htm
 author: massey-university
+permalink: /archive/2018/01/31/stopping-smoking-main-reason-for-vaping/index.html
+layout: layout.njk
 ---
 Stopping smoking main reason for vaping
 =======================================

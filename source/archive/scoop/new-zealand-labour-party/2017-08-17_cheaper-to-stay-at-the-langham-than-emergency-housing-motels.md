@@ -1,9 +1,13 @@
 ---
 slug: cheaper-to-stay-at-the-langham-than-emergency-housing-motels
-title: "Cheaper to stay at The Langham than emergency housing motels"
-date: 2017-08-17
-source-url: https://www.scoop.co.nz/stories/PO1708/S00363/cheaper-to-stay-at-the-langham-than-emergency-housing-motels.htm
+title: Cheaper to stay at The Langham than emergency housing motels
+date: 2017-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00363/cheaper-to-stay-at-the-langham-than-emergency-housing-motels.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/08/17/cheaper-to-stay-at-the-langham-than-emergency-housing-motels/index.html
+layout: layout.njk
 ---
 Cheaper to stay at The Langham than emergency housing motels
 ============================================================

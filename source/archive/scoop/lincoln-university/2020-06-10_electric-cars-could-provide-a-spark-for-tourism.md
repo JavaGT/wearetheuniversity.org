@@ -1,9 +1,12 @@
 ---
 slug: electric-cars-could-provide-a-spark-for-tourism
-title: "Electric Cars Could Provide A Spark For Tourism"
-date: 2020-06-10
-source-url: https://www.scoop.co.nz/stories/BU2006/S00181/electric-cars-could-provide-a-spark-for-tourism.htm
+title: Electric Cars Could Provide A Spark For Tourism
+date: 2020-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2006/S00181/electric-cars-could-provide-a-spark-for-tourism.htm
 author: lincoln-university
+permalink: /archive/2020/06/10/electric-cars-could-provide-a-spark-for-tourism/index.html
+layout: layout.njk
 ---
 Electric Cars Could Provide A Spark For Tourism
 ===============================================

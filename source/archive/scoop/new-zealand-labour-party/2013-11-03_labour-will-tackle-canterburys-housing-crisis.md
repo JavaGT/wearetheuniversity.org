@@ -1,9 +1,12 @@
 ---
 slug: labour-will-tackle-canterburys-housing-crisis
-title: "Labour will tackle Canterbury’s housing crisis"
-date: 2013-11-03
-source-url: https://www.scoop.co.nz/stories/PA1311/S00024/labour-will-tackle-canterburys-housing-crisis.htm
+title: Labour will tackle Canterbury’s housing crisis
+date: 2013-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00024/labour-will-tackle-canterburys-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/03/labour-will-tackle-canterburys-housing-crisis/index.html
+layout: layout.njk
 ---
 Labour will tackle Canterbury’s housing crisis
 ==============================================

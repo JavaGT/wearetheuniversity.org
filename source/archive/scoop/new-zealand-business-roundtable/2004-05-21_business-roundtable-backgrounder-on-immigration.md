@@ -1,9 +1,12 @@
 ---
 slug: business-roundtable-backgrounder-on-immigration
-title: "Business Roundtable Backgrounder On Immigration"
-date: 2004-05-21
-source-url: https://www.scoop.co.nz/stories/PO0405/S00218/business-roundtable-backgrounder-on-immigration.htm
+title: Business Roundtable Backgrounder On Immigration
+date: 2004-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00218/business-roundtable-backgrounder-on-immigration.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/05/21/business-roundtable-backgrounder-on-immigration/index.html
+layout: layout.njk
 ---
 Business Roundtable Backgrounder On Immigration
 ===============================================

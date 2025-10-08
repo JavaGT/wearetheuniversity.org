@@ -1,9 +1,12 @@
 ---
 slug: farm-environment-plans-need-extension
-title: "Farm Environment Plans Need Extension"
-date: 2022-08-27
-source-url: https://www.scoop.co.nz/stories/PA2208/S00224/farm-environment-plans-need-extension.htm
+title: Farm Environment Plans Need Extension
+date: 2022-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00224/farm-environment-plans-need-extension.htm
 author: act-new-zealand
+permalink: /archive/2022/08/27/farm-environment-plans-need-extension/index.html
+layout: layout.njk
 ---
 Farm Environment Plans Need Extension
 =====================================

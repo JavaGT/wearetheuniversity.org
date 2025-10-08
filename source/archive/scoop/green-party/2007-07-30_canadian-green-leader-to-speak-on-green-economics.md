@@ -1,9 +1,13 @@
 ---
 slug: canadian-green-leader-to-speak-on-green-economics
-title: "Canadian Green leader to speak on Green Economics"
-date: 2007-07-30
-source-url: https://www.scoop.co.nz/stories/PA0707/S00499/canadian-green-leader-to-speak-on-green-economics.htm
+title: Canadian Green leader to speak on Green Economics
+date: 2007-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00499/canadian-green-leader-to-speak-on-green-economics.htm
 author: green-party
+permalink: >-
+  /archive/2007/07/30/canadian-green-leader-to-speak-on-green-economics/index.html
+layout: layout.njk
 ---
 Canadian Green leader to speak on Green Economics
 =================================================

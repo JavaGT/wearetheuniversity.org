@@ -1,9 +1,12 @@
 ---
 slug: understanding-the-outfield-catch
-title: "Understanding the outfield catch"
-date: 2010-03-16
-source-url: https://www.scoop.co.nz/stories/ED1003/S00066/understanding-the-outfield-catch.htm
+title: Understanding the outfield catch
+date: 2010-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00066/understanding-the-outfield-catch.htm
 author: massey-university
+permalink: /archive/2010/03/16/understanding-the-outfield-catch/index.html
+layout: layout.njk
 ---
 Understanding the outfield catch
 ================================

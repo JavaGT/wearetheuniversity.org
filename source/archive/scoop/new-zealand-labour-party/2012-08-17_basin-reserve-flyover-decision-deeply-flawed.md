@@ -1,9 +1,12 @@
 ---
 slug: basin-reserve-flyover-decision-deeply-flawed
-title: "Basin Reserve flyover decision deeply flawed"
-date: 2012-08-17
-source-url: https://www.scoop.co.nz/stories/PA1208/S00248/basin-reserve-flyover-decision-deeply-flawed.htm
+title: Basin Reserve flyover decision deeply flawed
+date: 2012-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00248/basin-reserve-flyover-decision-deeply-flawed.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/17/basin-reserve-flyover-decision-deeply-flawed/index.html
+layout: layout.njk
 ---
 Basin Reserve flyover decision deeply flawed
 ============================================

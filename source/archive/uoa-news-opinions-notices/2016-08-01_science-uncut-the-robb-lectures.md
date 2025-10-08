@@ -1,8 +1,11 @@
 ---
 slug: science-uncut-the-robb-lectures
-title: "Science Uncut - the Robb Lectures"
-date: 2016-08-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/science-uncut---the-robb-lectures.html
+title: Science Uncut - the Robb Lectures
+date: 2016-08-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/science-uncut---the-robb-lectures.html
+permalink: /archive/2016/08/01/science-uncut-the-robb-lectures/index.html
+layout: layout.njk
 ---
 Science Uncut - the Robb Lectures
 =================================

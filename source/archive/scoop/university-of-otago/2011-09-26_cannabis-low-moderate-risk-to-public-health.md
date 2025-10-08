@@ -1,9 +1,12 @@
 ---
 slug: cannabis-low-moderate-risk-to-public-health
-title: "Cannabis – low/moderate risk to public health"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/PO1109/S00363/cannabis-lowmoderate-risk-to-public-health.htm
+title: Cannabis – low/moderate risk to public health
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00363/cannabis-lowmoderate-risk-to-public-health.htm
 author: university-of-otago
+permalink: /archive/2011/09/26/cannabis-low-moderate-risk-to-public-health/index.html
+layout: layout.njk
 ---
 Cannabis – low/moderate risk to public health
 =============================================

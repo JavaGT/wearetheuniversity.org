@@ -1,9 +1,12 @@
 ---
 slug: agreement-signals-new-note-in-music-education
-title: "Agreement signals new note in music education"
-date: 2006-11-21
-source-url: https://www.scoop.co.nz/stories/ED0611/S00081/agreement-signals-new-note-in-music-education.htm
+title: Agreement signals new note in music education
+date: 2006-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00081/agreement-signals-new-note-in-music-education.htm
 author: university-of-waikato
+permalink: /archive/2006/11/21/agreement-signals-new-note-in-music-education/index.html
+layout: layout.njk
 ---
 Agreement signals new note in music education
 =============================================

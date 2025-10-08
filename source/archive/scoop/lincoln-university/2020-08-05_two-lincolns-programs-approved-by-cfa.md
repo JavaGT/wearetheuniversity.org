@@ -1,9 +1,12 @@
 ---
 slug: two-lincolns-programs-approved-by-cfa
-title: "Two Lincoln’s Programs Approved By CFA"
-date: 2020-08-05
-source-url: https://www.scoop.co.nz/stories/ED2008/S00006/two-lincolns-programs-approved-by-cfa.htm
+title: Two Lincoln’s Programs Approved By CFA
+date: 2020-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2008/S00006/two-lincolns-programs-approved-by-cfa.htm
 author: lincoln-university
+permalink: /archive/2020/08/05/two-lincolns-programs-approved-by-cfa/index.html
+layout: layout.njk
 ---
 Two Lincoln’s Programs Approved By CFA
 ======================================

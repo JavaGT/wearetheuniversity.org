@@ -1,9 +1,13 @@
 ---
 slug: much-still-to-be-done-to-reduce-health-inequities
-title: "Much still to be done to reduce health inequities"
-date: 2011-07-11
-source-url: https://www.scoop.co.nz/stories/GE1107/S00040/much-still-to-be-done-to-reduce-health-inequities.htm
+title: Much still to be done to reduce health inequities
+date: 2011-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1107/S00040/much-still-to-be-done-to-reduce-health-inequities.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/07/11/much-still-to-be-done-to-reduce-health-inequities/index.html
+layout: layout.njk
 ---
 Much still to be done to reduce health inequities
 =================================================

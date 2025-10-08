@@ -1,9 +1,11 @@
 ---
 slug: rideshare-ridewhere
-title: "Rideshare Ridewhere?"
-date: 2011-10-20
+title: Rideshare Ridewhere?
+date: 2011-10-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1110/S00354/rideshare-ridewhere.htm
 author: ousa
+permalink: /archive/2011/10/20/rideshare-ridewhere/index.html
+layout: layout.njk
 ---
 Rideshare Ridewhere?
 ====================

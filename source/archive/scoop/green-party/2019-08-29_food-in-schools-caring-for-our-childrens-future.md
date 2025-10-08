@@ -1,9 +1,12 @@
 ---
 slug: food-in-schools-caring-for-our-childrens-future
-title: "Food in Schools: caring for our children’s future"
-date: 2019-08-29
-source-url: https://www.scoop.co.nz/stories/PA1908/S00294/food-in-schools-caring-for-our-childrens-future.htm
+title: 'Food in Schools: caring for our children’s future'
+date: 2019-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00294/food-in-schools-caring-for-our-childrens-future.htm
 author: green-party
+permalink: /archive/2019/08/29/food-in-schools-caring-for-our-childrens-future/index.html
+layout: layout.njk
 ---
 Food in Schools: caring for our children’s future
 =================================================

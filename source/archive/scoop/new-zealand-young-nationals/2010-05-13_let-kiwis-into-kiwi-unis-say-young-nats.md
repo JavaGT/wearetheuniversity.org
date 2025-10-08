@@ -1,9 +1,12 @@
 ---
 slug: let-kiwis-into-kiwi-unis-say-young-nats
-title: "Let Kiwis into Kiwi Uni's Say Young Nats"
-date: 2010-05-13
-source-url: https://www.scoop.co.nz/stories/PO1005/S00117/let-kiwis-into-kiwi-unis-say-young-nats.htm
+title: Let Kiwis into Kiwi Uni's Say Young Nats
+date: 2010-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1005/S00117/let-kiwis-into-kiwi-unis-say-young-nats.htm
 author: new-zealand-young-nationals
+permalink: /archive/2010/05/13/let-kiwis-into-kiwi-unis-say-young-nats/index.html
+layout: layout.njk
 ---
 Let Kiwis into Kiwi Uni's Say Young Nats
 ========================================

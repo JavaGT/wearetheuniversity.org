@@ -1,9 +1,12 @@
 ---
 slug: labour-young-gun-aims-for-clutha-southland
-title: "Labour young gun aims for Clutha-Southland"
-date: 2004-11-30
-source-url: https://www.scoop.co.nz/stories/PO0411/S00263/labour-young-gun-aims-for-clutha-southland.htm
+title: Labour young gun aims for Clutha-Southland
+date: 2004-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0411/S00263/labour-young-gun-aims-for-clutha-southland.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/11/30/labour-young-gun-aims-for-clutha-southland/index.html
+layout: layout.njk
 ---
 Labour young gun aims for Clutha-Southland
 ==========================================

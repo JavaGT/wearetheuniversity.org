@@ -1,9 +1,11 @@
 ---
 slug: pms-plan-clear-as-mud
-title: "PM’s plan clear as mud"
-date: 2011-06-15
+title: PM’s plan clear as mud
+date: 2011-06-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1106/S00232/pms-plan-clear-as-mud.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/15/pms-plan-clear-as-mud/index.html
+layout: layout.njk
 ---
 PM’s plan clear as mud
 ======================

@@ -1,9 +1,12 @@
 ---
 slug: director-of-marketing-for-waikato-university
-title: "Director of Marketing for Waikato University"
-date: 2003-08-06
-source-url: https://www.scoop.co.nz/stories/ED0308/S00023/director-of-marketing-for-waikato-university.htm
+title: Director of Marketing for Waikato University
+date: 2003-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00023/director-of-marketing-for-waikato-university.htm
 author: waikato-university
+permalink: /archive/2003/08/06/director-of-marketing-for-waikato-university/index.html
+layout: layout.njk
 ---
 Director of Marketing for Waikato University
 ============================================

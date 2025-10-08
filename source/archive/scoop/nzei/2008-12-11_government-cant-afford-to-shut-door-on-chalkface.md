@@ -1,9 +1,13 @@
 ---
 slug: government-cant-afford-to-shut-door-on-chalkface
-title: "Government Can’t Afford To Shut Door On Chalkface"
-date: 2008-12-11
-source-url: https://www.scoop.co.nz/stories/ED0812/S00043/government-cant-afford-to-shut-door-on-chalkface.htm
+title: Government Can’t Afford To Shut Door On Chalkface
+date: 2008-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00043/government-cant-afford-to-shut-door-on-chalkface.htm
 author: nzei
+permalink: >-
+  /archive/2008/12/11/government-cant-afford-to-shut-door-on-chalkface/index.html
+layout: layout.njk
 ---
 Government Can’t Afford To Shut Door On Chalkface
 =================================================

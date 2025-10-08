@@ -1,9 +1,13 @@
 ---
 slug: world-expert-to-give-public-talk-about-treating-lung-disease
-title: "World expert to give public talk about treating lung disease"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/GE1403/S00068/world-expert-to-give-public-talk-about-treating-lung-disease.htm
+title: World expert to give public talk about treating lung disease
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1403/S00068/world-expert-to-give-public-talk-about-treating-lung-disease.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/14/world-expert-to-give-public-talk-about-treating-lung-disease/index.html
+layout: layout.njk
 ---
 World expert to give public talk about treating lung disease
 ============================================================

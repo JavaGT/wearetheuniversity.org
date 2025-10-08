@@ -1,9 +1,13 @@
 ---
 slug: kiwis-the-losers-in-competition-with-migrants-for-jobs
-title: "Kiwis the Losers in Competition with Migrants for Jobs"
-date: 2015-01-18
-source-url: https://www.scoop.co.nz/stories/PA1501/S00059/kiwis-the-losers-in-competition-with-migrants-for-jobs.htm
+title: Kiwis the Losers in Competition with Migrants for Jobs
+date: 2015-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00059/kiwis-the-losers-in-competition-with-migrants-for-jobs.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/01/18/kiwis-the-losers-in-competition-with-migrants-for-jobs/index.html
+layout: layout.njk
 ---
 Kiwis the Losers in Competition with Migrants for Jobs
 ======================================================

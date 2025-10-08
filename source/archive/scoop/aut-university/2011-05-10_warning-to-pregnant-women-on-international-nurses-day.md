@@ -1,9 +1,13 @@
 ---
 slug: warning-to-pregnant-women-on-international-nurses-day
-title: "Warning to Pregnant Women on International Nurses Day"
-date: 2011-05-10
-source-url: https://www.scoop.co.nz/stories/GE1105/S00065/warning-to-pregnant-women-on-international-nurses-day.htm
+title: Warning to Pregnant Women on International Nurses Day
+date: 2011-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1105/S00065/warning-to-pregnant-women-on-international-nurses-day.htm
 author: aut-university
+permalink: >-
+  /archive/2011/05/10/warning-to-pregnant-women-on-international-nurses-day/index.html
+layout: layout.njk
 ---
 Warning to Pregnant Women on International Nurses Day
 =====================================================

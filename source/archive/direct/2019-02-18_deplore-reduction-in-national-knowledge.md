@@ -1,11 +1,13 @@
 ---
-title: "NZ Association of Scientists Deplore Reduction in National Knowledge."
-date: 2019-02-18
+title: NZ Association of Scientists Deplore Reduction in National Knowledge.
+date: 2019-02-18T00:00:00.000Z
 slug: deplore-reduction-in-national-knowledge
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: /archive/2019/02/18/deplore-reduction-in-national-knowledge/index.html
+layout: layout.njk
 ---
 
 1

@@ -1,9 +1,12 @@
 ---
 slug: $9000-to-help-gangs-complete-census-forms
-title: "$9,000 To Help Gangs Complete Census Forms"
-date: 2023-06-05
-source-url: https://www.scoop.co.nz/stories/PA2306/S00023/9000-to-help-gangs-complete-census-forms.htm
+title: $9,000 To Help Gangs Complete Census Forms
+date: 2023-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00023/9000-to-help-gangs-complete-census-forms.htm
 author: new-zealand-national-party
+permalink: /archive/2023/06/05/9-000-to-help-gangs-complete-census-forms/index.html
+layout: layout.njk
 ---
 $9,000 To Help Gangs Complete Census Forms
 ==========================================

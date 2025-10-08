@@ -1,9 +1,13 @@
 ---
 slug: bandidos-gang-expansion-a-significant-development
-title: "Bandidos gang expansion a significant development"
-date: 2014-01-28
-source-url: https://www.scoop.co.nz/stories/AK1401/S00577/bandidos-gang-expansion-a-significant-development.htm
+title: Bandidos gang expansion a significant development
+date: 2014-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1401/S00577/bandidos-gang-expansion-a-significant-development.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/28/bandidos-gang-expansion-a-significant-development/index.html
+layout: layout.njk
 ---
 Bandidos gang expansion a significant development
 =================================================

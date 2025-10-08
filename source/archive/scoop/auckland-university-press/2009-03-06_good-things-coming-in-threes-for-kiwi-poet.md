@@ -1,9 +1,12 @@
 ---
 slug: good-things-coming-in-threes-for-kiwi-poet
-title: "Good Things Coming in Threes for Kiwi Poet"
-date: 2009-03-06
-source-url: https://www.scoop.co.nz/stories/CU0903/S00121/good-things-coming-in-threes-for-kiwi-poet.htm
+title: Good Things Coming in Threes for Kiwi Poet
+date: 2009-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0903/S00121/good-things-coming-in-threes-for-kiwi-poet.htm
 author: auckland-university-press
+permalink: /archive/2009/03/06/good-things-coming-in-threes-for-kiwi-poet/index.html
+layout: layout.njk
 ---
 Good Things Coming in Threes for Kiwi Poet
 ==========================================

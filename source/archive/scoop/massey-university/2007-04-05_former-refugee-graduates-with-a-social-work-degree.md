@@ -1,9 +1,13 @@
 ---
 slug: former-refugee-graduates-with-a-social-work-degree
-title: "Former refugee graduates with a Social Work degree"
-date: 2007-04-05
-source-url: https://www.scoop.co.nz/stories/ED0704/S00023/former-refugee-graduates-with-a-social-work-degree.htm
+title: Former refugee graduates with a Social Work degree
+date: 2007-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00023/former-refugee-graduates-with-a-social-work-degree.htm
 author: massey-university
+permalink: >-
+  /archive/2007/04/05/former-refugee-graduates-with-a-social-work-degree/index.html
+layout: layout.njk
 ---
 Former refugee graduates with a Social Work degree
 ==================================================

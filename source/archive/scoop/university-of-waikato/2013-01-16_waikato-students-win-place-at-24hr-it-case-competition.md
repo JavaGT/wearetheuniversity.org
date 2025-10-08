@@ -1,9 +1,13 @@
 ---
 slug: waikato-students-win-place-at-24hr-it-case-competition
-title: "Waikato students win place at 24hr IT case competition"
-date: 2013-01-16
-source-url: https://www.scoop.co.nz/stories/ED1301/S00026/waikato-students-win-place-at-24hr-it-case-competition.htm
+title: Waikato students win place at 24hr IT case competition
+date: 2013-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00026/waikato-students-win-place-at-24hr-it-case-competition.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/01/16/waikato-students-win-place-at-24hr-it-case-competition/index.html
+layout: layout.njk
 ---
 Waikato students win place at 24hr IT case competition
 ======================================================

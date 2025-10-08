@@ -1,9 +1,12 @@
 ---
 slug: labour-wastes-more-education-money
-title: "Labour wastes more education money"
-date: 2004-01-28
-source-url: https://www.scoop.co.nz/stories/PA0401/S00242/labour-wastes-more-education-money.htm
+title: Labour wastes more education money
+date: 2004-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00242/labour-wastes-more-education-money.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/28/labour-wastes-more-education-money/index.html
+layout: layout.njk
 ---
 Labour wastes more education money
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: the-speech-that-goff-should-deliver
-title: "The Speech That Goff Should Deliver"
-date: 2010-02-08
-source-url: https://www.scoop.co.nz/stories/PA1002/S00088/the-speech-that-goff-should-deliver.htm
+title: The Speech That Goff Should Deliver
+date: 2010-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00088/the-speech-that-goff-should-deliver.htm
 author: act-new-zealand
+permalink: /archive/2010/02/08/the-speech-that-goff-should-deliver/index.html
+layout: layout.njk
 ---
 The Speech That Goff Should Deliver
 ===================================

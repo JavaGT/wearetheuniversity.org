@@ -1,9 +1,12 @@
 ---
 slug: unique-perspective-on-growing-problem-of-stress
-title: "Unique Perspective on Growing Problem of Stress"
-date: 2003-12-22
-source-url: https://www.scoop.co.nz/stories/ED0312/S00080/unique-perspective-on-growing-problem-of-stress.htm
+title: Unique Perspective on Growing Problem of Stress
+date: 2003-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00080/unique-perspective-on-growing-problem-of-stress.htm
 author: university-of-canterbury
+permalink: /archive/2003/12/22/unique-perspective-on-growing-problem-of-stress/index.html
+layout: layout.njk
 ---
 Unique Perspective on Growing Problem of Stress
 ===============================================

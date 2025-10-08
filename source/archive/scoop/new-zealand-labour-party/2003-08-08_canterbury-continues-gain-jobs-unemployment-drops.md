@@ -1,9 +1,13 @@
 ---
 slug: canterbury-continues-gain-jobs-unemployment-drops
-title: "Canterbury continues gain jobs unemployment drops"
-date: 2003-08-08
-source-url: https://www.scoop.co.nz/stories/PA0308/S00186/canterbury-continues-gain-jobs-unemployment-drops.htm
+title: Canterbury continues gain jobs unemployment drops
+date: 2003-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00186/canterbury-continues-gain-jobs-unemployment-drops.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2003/08/08/canterbury-continues-gain-jobs-unemployment-drops/index.html
+layout: layout.njk
 ---
 Canterbury continues gain jobs unemployment drops
 =================================================

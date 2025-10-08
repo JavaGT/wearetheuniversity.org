@@ -1,9 +1,13 @@
 ---
 slug: low-income-earners-to-subsidise-homes-for-wealthy
-title: "Low income earners to subsidise homes for wealthy"
-date: 2018-05-21
-source-url: https://www.scoop.co.nz/stories/PA1805/S00284/low-income-earners-to-subsidise-homes-for-wealthy.htm
+title: Low income earners to subsidise homes for wealthy
+date: 2018-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00284/low-income-earners-to-subsidise-homes-for-wealthy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/05/21/low-income-earners-to-subsidise-homes-for-wealthy/index.html
+layout: layout.njk
 ---
 Low income earners to subsidise homes for wealthy
 =================================================

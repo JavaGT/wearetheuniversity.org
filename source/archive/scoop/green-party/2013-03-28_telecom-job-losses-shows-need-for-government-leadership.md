@@ -1,9 +1,13 @@
 ---
 slug: telecom-job-losses-shows-need-for-government-leadership
-title: "Telecom job losses shows need for government leadership"
-date: 2013-03-28
-source-url: https://www.scoop.co.nz/stories/PA1303/S00501/telecom-job-losses-shows-need-for-government-leadership.htm
+title: Telecom job losses shows need for government leadership
+date: 2013-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00501/telecom-job-losses-shows-need-for-government-leadership.htm
 author: green-party
+permalink: >-
+  /archive/2013/03/28/telecom-job-losses-shows-need-for-government-leadership/index.html
+layout: layout.njk
 ---
 Telecom job losses shows need for government leadership
 =======================================================

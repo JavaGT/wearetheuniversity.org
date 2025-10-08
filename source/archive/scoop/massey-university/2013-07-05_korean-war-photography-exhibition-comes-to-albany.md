@@ -1,9 +1,13 @@
 ---
 slug: korean-war-photography-exhibition-comes-to-albany
-title: "Korean War photography exhibition comes to Albany"
-date: 2013-07-05
-source-url: https://www.scoop.co.nz/stories/CU1307/S00116/korean-war-photography-exhibition-comes-to-albany.htm
+title: Korean War photography exhibition comes to Albany
+date: 2013-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00116/korean-war-photography-exhibition-comes-to-albany.htm
 author: massey-university
+permalink: >-
+  /archive/2013/07/05/korean-war-photography-exhibition-comes-to-albany/index.html
+layout: layout.njk
 ---
 Korean War photography exhibition comes to Albany
 =================================================

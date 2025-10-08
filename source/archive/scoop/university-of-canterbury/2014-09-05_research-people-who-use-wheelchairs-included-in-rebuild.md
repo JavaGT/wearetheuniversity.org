@@ -1,9 +1,13 @@
 ---
 slug: research-people-who-use-wheelchairs-included-in-rebuild
-title: "Research: People who use wheelchairs included in rebuild?"
-date: 2014-09-05
-source-url: https://www.scoop.co.nz/stories/ED1409/S00036/research-people-who-use-wheelchairs-included-in-rebuild.htm
+title: 'Research: People who use wheelchairs included in rebuild?'
+date: 2014-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00036/research-people-who-use-wheelchairs-included-in-rebuild.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/05/research-people-who-use-wheelchairs-included-in-rebuild/index.html
+layout: layout.njk
 ---
 Research: People who use wheelchairs included in rebuild?
 =========================================================

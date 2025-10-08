@@ -1,9 +1,13 @@
 ---
 slug: prime-minister-can-act-to-protect-nzs-reputation
-title: "Prime Minister can act to protect NZ’s reputation"
-date: 2009-12-08
-source-url: https://www.scoop.co.nz/stories/PA0912/S00104/prime-minister-can-act-to-protect-nzs-reputation.htm
+title: Prime Minister can act to protect NZ’s reputation
+date: 2009-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00104/prime-minister-can-act-to-protect-nzs-reputation.htm
 author: green-party
+permalink: >-
+  /archive/2009/12/08/prime-minister-can-act-to-protect-nzs-reputation/index.html
+layout: layout.njk
 ---
 Prime Minister can act to protect NZ’s reputation
 =================================================

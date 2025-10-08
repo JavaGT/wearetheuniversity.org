@@ -1,9 +1,12 @@
 ---
 slug: young-kiwis-lack-skills-in-budgeting-and-saving
-title: "Young Kiwis lack skills in budgeting and saving"
-date: 2016-02-22
-source-url: https://www.scoop.co.nz/stories/ED1602/S00068/young-kiwis-lack-skills-in-budgeting-and-saving.htm
+title: Young Kiwis lack skills in budgeting and saving
+date: 2016-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00068/young-kiwis-lack-skills-in-budgeting-and-saving.htm
 author: massey-university
+permalink: /archive/2016/02/22/young-kiwis-lack-skills-in-budgeting-and-saving/index.html
+layout: layout.njk
 ---
 Young Kiwis lack skills in budgeting and saving
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: txt-exams-maharey-thinks-hes-cool
-title: "TXT exams: Maharey thinks he’s cool"
-date: 2006-11-09
-source-url: https://www.scoop.co.nz/stories/PA0611/S00172/txt-exams-maharey-thinks-hes-cool.htm
+title: 'TXT exams: Maharey thinks he’s cool'
+date: 2006-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00172/txt-exams-maharey-thinks-hes-cool.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/09/txt-exams-maharey-thinks-hes-cool/index.html
+layout: layout.njk
 ---
 TXT exams: Maharey thinks he’s cool
 ===================================

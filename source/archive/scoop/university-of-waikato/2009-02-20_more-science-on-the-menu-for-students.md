@@ -1,9 +1,12 @@
 ---
 slug: more-science-on-the-menu-for-students
-title: "More science on the menu for students"
-date: 2009-02-20
-source-url: https://www.scoop.co.nz/stories/ED0902/S00069/more-science-on-the-menu-for-students.htm
+title: More science on the menu for students
+date: 2009-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00069/more-science-on-the-menu-for-students.htm
 author: university-of-waikato
+permalink: /archive/2009/02/20/more-science-on-the-menu-for-students/index.html
+layout: layout.njk
 ---
 More science on the menu for students
 =====================================

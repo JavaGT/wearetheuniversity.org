@@ -1,9 +1,13 @@
 ---
 slug: national-questions-motives-behind-education-letter
-title: "National questions motives behind education letter"
-date: 2005-09-09
-source-url: https://www.scoop.co.nz/stories/PA0509/S00232/national-questions-motives-behind-education-letter.htm
+title: National questions motives behind education letter
+date: 2005-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00232/national-questions-motives-behind-education-letter.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/09/09/national-questions-motives-behind-education-letter/index.html
+layout: layout.njk
 ---
 National questions motives behind education letter
 ==================================================

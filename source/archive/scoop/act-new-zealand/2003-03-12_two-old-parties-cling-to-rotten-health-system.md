@@ -1,9 +1,12 @@
 ---
 slug: two-old-parties-cling-to-rotten-health-system
-title: "Two Old Parties Cling to Rotten Health System"
-date: 2003-03-12
-source-url: https://www.scoop.co.nz/stories/PA0303/S00188/two-old-parties-cling-to-rotten-health-system.htm
+title: Two Old Parties Cling to Rotten Health System
+date: 2003-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00188/two-old-parties-cling-to-rotten-health-system.htm
 author: act-new-zealand
+permalink: /archive/2003/03/12/two-old-parties-cling-to-rotten-health-system/index.html
+layout: layout.njk
 ---
 Two Old Parties Cling to Rotten Health System
 =============================================

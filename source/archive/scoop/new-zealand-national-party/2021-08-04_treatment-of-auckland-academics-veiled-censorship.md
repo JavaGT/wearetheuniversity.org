@@ -1,9 +1,13 @@
 ---
 slug: treatment-of-auckland-academics-veiled-censorship
-title: "Treatment Of Auckland Academics Veiled Censorship"
-date: 2021-08-04
-source-url: https://www.scoop.co.nz/stories/PA2108/S00025/treatment-of-auckland-academics-veiled-censorship.htm
+title: Treatment Of Auckland Academics Veiled Censorship
+date: 2021-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00025/treatment-of-auckland-academics-veiled-censorship.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/08/04/treatment-of-auckland-academics-veiled-censorship/index.html
+layout: layout.njk
 ---
 Treatment Of Auckland Academics Veiled Censorship
 =================================================

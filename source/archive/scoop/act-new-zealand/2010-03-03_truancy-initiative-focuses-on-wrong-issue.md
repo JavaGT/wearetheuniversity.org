@@ -1,9 +1,12 @@
 ---
 slug: truancy-initiative-focuses-on-wrong-issue
-title: "Truancy Initiative Focuses On Wrong Issue"
-date: 2010-03-03
-source-url: https://www.scoop.co.nz/stories/PA1003/S00056/truancy-initiative-focuses-on-wrong-issue.htm
+title: Truancy Initiative Focuses On Wrong Issue
+date: 2010-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00056/truancy-initiative-focuses-on-wrong-issue.htm
 author: act-new-zealand
+permalink: /archive/2010/03/03/truancy-initiative-focuses-on-wrong-issue/index.html
+layout: layout.njk
 ---
 Truancy Initiative Focuses On Wrong Issue
 =========================================

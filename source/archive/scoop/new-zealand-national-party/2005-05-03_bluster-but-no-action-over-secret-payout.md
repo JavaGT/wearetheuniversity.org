@@ -1,9 +1,12 @@
 ---
 slug: bluster-but-no-action-over-secret-payout
-title: "Bluster but no action over secret payout"
-date: 2005-05-03
-source-url: https://www.scoop.co.nz/stories/PA0505/S00043/bluster-but-no-action-over-secret-payout.htm
+title: Bluster but no action over secret payout
+date: 2005-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00043/bluster-but-no-action-over-secret-payout.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/03/bluster-but-no-action-over-secret-payout/index.html
+layout: layout.njk
 ---
 Bluster but no action over secret payout
 ========================================

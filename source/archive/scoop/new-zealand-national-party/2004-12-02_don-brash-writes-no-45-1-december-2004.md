@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-no-45-1-december-2004
-title: "Don Brash Writes: No. 45, 1 December 2004"
-date: 2004-12-02
-source-url: https://www.scoop.co.nz/stories/PA0412/S00060/don-brash-writes-no-45-1-december-2004.htm
+title: 'Don Brash Writes: No. 45, 1 December 2004'
+date: 2004-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00060/don-brash-writes-no-45-1-december-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/02/don-brash-writes-no-45-1-december-2004/index.html
+layout: layout.njk
 ---
 Don Brash Writes: No. 45, 1 December 2004
 =========================================

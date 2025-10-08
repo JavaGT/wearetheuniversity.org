@@ -1,9 +1,13 @@
 ---
 slug: treatment-of-pregnant-women-appalling-uc-law-expert-says
-title: "Treatment of pregnant women appalling, UC law expert says"
-date: 2013-02-15
-source-url: https://www.scoop.co.nz/stories/PO1302/S00148/treatment-of-pregnant-women-appalling-uc-law-expert-says.htm
+title: Treatment of pregnant women appalling, UC law expert says
+date: 2013-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00148/treatment-of-pregnant-women-appalling-uc-law-expert-says.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/15/treatment-of-pregnant-women-appalling-uc-law-expert-says/index.html
+layout: layout.njk
 ---
 Treatment of pregnant women appalling, UC law expert says
 =========================================================

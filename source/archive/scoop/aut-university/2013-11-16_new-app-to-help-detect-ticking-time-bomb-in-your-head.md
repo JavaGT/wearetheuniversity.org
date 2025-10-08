@@ -1,9 +1,13 @@
 ---
 slug: new-app-to-help-detect-ticking-time-bomb-in-your-head
-title: "New app to help detect 'ticking time bomb in your head'"
-date: 2013-11-16
-source-url: https://www.scoop.co.nz/stories/SC1311/S00054/new-app-to-help-detect-ticking-time-bomb-in-your-head.htm
+title: New app to help detect 'ticking time bomb in your head'
+date: 2013-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00054/new-app-to-help-detect-ticking-time-bomb-in-your-head.htm
 author: aut-university
+permalink: >-
+  /archive/2013/11/16/new-app-to-help-detect-ticking-time-bomb-in-your-head/index.html
+layout: layout.njk
 ---
 New app to help detect 'ticking time bomb in your head'
 =======================================================

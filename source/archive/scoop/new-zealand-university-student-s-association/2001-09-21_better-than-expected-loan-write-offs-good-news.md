@@ -1,9 +1,12 @@
 ---
 slug: better-than-expected-loan-write-offs-good-news
-title: "Better than expected loan write-offs good news"
-date: 2001-09-21
-source-url: https://www.scoop.co.nz/stories/ED0109/S00007/better-than-expected-loan-write-offs-good-news.htm
+title: Better than expected loan write-offs good news
+date: 2001-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0109/S00007/better-than-expected-loan-write-offs-good-news.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/09/21/better-than-expected-loan-write-offs-good-news/index.html
+layout: layout.njk
 ---
 Better than expected loan write-offs good news
 ==============================================

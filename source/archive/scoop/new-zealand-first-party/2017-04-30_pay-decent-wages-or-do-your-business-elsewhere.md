@@ -1,9 +1,12 @@
 ---
 slug: pay-decent-wages-or-do-your-business-elsewhere
-title: "Pay Decent Wages, Or Do Your Business Elsewhere"
-date: 2017-04-30
-source-url: https://www.scoop.co.nz/stories/PA1704/S00361/pay-decent-wages-or-do-your-business-elsewhere.htm
+title: Pay Decent Wages, Or Do Your Business Elsewhere
+date: 2017-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00361/pay-decent-wages-or-do-your-business-elsewhere.htm
 author: new-zealand-first-party
+permalink: /archive/2017/04/30/pay-decent-wages-or-do-your-business-elsewhere/index.html
+layout: layout.njk
 ---
 Pay Decent Wages, Or Do Your Business Elsewhere
 ===============================================

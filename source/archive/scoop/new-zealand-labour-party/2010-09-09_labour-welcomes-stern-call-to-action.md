@@ -1,9 +1,12 @@
 ---
 slug: labour-welcomes-stern-call-to-action
-title: "Labour welcomes Stern call to action"
-date: 2010-09-09
-source-url: https://www.scoop.co.nz/stories/PA1009/S00151/labour-welcomes-stern-call-to-action.htm
+title: Labour welcomes Stern call to action
+date: 2010-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00151/labour-welcomes-stern-call-to-action.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/09/labour-welcomes-stern-call-to-action/index.html
+layout: layout.njk
 ---
 Labour welcomes Stern call to action
 ====================================

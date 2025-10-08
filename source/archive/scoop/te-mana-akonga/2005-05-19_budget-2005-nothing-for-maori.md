@@ -1,9 +1,12 @@
 ---
 slug: budget-2005-nothing-for-maori
-title: "Budget 2005:  Nothing for Maori"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/PO0505/S00198/budget-2005-nothing-for-maori.htm
+title: 'Budget 2005:  Nothing for Maori'
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0505/S00198/budget-2005-nothing-for-maori.htm
 author: te-mana-akonga
+permalink: /archive/2005/05/19/budget-2005-nothing-for-maori/index.html
+layout: layout.njk
 ---
 Budget 2005: Nothing for Maori
 ==============================

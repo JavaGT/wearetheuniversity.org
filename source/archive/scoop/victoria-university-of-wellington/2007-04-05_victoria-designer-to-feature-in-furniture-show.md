@@ -1,9 +1,12 @@
 ---
 slug: victoria-designer-to-feature-in-furniture-show
-title: "Victoria designer to feature in furniture show"
-date: 2007-04-05
-source-url: https://www.scoop.co.nz/stories/ED0704/S00020/victoria-designer-to-feature-in-furniture-show.htm
+title: Victoria designer to feature in furniture show
+date: 2007-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00020/victoria-designer-to-feature-in-furniture-show.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/04/05/victoria-designer-to-feature-in-furniture-show/index.html
+layout: layout.njk
 ---
 Victoria designer to feature in furniture show
 ==============================================

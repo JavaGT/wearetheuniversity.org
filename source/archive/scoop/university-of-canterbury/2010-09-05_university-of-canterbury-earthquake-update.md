@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-earthquake-update
-title: "University Of Canterbury: Earthquake Update"
-date: 2010-09-05
-source-url: https://www.scoop.co.nz/stories/ED1009/S00019/university-of-canterbury-earthquake-update.htm
+title: 'University Of Canterbury: Earthquake Update'
+date: 2010-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00019/university-of-canterbury-earthquake-update.htm
 author: university-of-canterbury
+permalink: /archive/2010/09/05/university-of-canterbury-earthquake-update/index.html
+layout: layout.njk
 ---
 University Of Canterbury: Earthquake Update
 ===========================================

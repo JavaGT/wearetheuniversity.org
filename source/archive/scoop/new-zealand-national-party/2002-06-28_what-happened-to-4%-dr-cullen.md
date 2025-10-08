@@ -1,9 +1,11 @@
 ---
 slug: what-happened-to-4%-dr-cullen
-title: "What Happened To 4% Dr Cullen?"
-date: 2002-06-28
+title: What Happened To 4% Dr Cullen?
+date: 2002-06-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00531/what-happened-to-4-dr-cullen.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/28/what-happened-to-4/index.html
+layout: layout.njk
 ---
 What Happened To 4% Dr Cullen?
 ==============================

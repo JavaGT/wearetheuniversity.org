@@ -1,9 +1,13 @@
 ---
 slug: education-leaders-call-on-pm-to-save-school-lunch-programme
-title: "Education Leaders Call On PM To Save School Lunch Programme"
-date: 2024-03-12
-source-url: https://www.scoop.co.nz/stories/ED2403/S00015/education-leaders-call-on-pm-to-save-school-lunch-programme.htm
+title: Education Leaders Call On PM To Save School Lunch Programme
+date: 2024-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2403/S00015/education-leaders-call-on-pm-to-save-school-lunch-programme.htm
 author: nzei
+permalink: >-
+  /archive/2024/03/12/education-leaders-call-on-pm-to-save-school-lunch-programme/index.html
+layout: layout.njk
 ---
 Education Leaders Call On PM To Save School Lunch Programme
 ===========================================================

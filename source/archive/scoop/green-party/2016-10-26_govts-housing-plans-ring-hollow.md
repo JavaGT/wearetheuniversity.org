@@ -1,9 +1,12 @@
 ---
 slug: govts-housing-plans-ring-hollow
-title: "Govt’s housing plans ring hollow"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/PA1610/S00390/govts-housing-plans-ring-hollow.htm
+title: Govt’s housing plans ring hollow
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00390/govts-housing-plans-ring-hollow.htm
 author: green-party
+permalink: /archive/2016/10/26/govts-housing-plans-ring-hollow/index.html
+layout: layout.njk
 ---
 Govt’s housing plans ring hollow
 ================================

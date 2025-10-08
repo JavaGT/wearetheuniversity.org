@@ -1,9 +1,12 @@
 ---
 slug: 3d-food-printing-on-the-menu-for-summer-scholar
-title: "3D Food Printing On The Menu For Summer Scholar"
-date: 2022-02-23
-source-url: https://www.scoop.co.nz/stories/ED2202/S00035/3d-food-printing-on-the-menu-for-summer-scholar.htm
+title: 3D Food Printing On The Menu For Summer Scholar
+date: 2022-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2202/S00035/3d-food-printing-on-the-menu-for-summer-scholar.htm
 author: lincoln-university
+permalink: /archive/2022/02/23/3d-food-printing-on-the-menu-for-summer-scholar/index.html
+layout: layout.njk
 ---
 3D Food Printing On The Menu For Summer Scholar
 ===============================================

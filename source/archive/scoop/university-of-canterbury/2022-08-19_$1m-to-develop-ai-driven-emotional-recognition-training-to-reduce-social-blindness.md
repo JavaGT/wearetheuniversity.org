@@ -1,9 +1,16 @@
 ---
-slug: $1m-to-develop-ai-driven-emotional-recognition-training-to-reduce-social-blindness
-title: "$1m To Develop AI-driven Emotional Recognition Training To Reduce ‘Social Blindness’"
-date: 2022-08-19
-source-url: https://www.scoop.co.nz/stories/ED2208/S00033/1m-to-develop-ai-driven-emotional-recognition-training-to-reduce-social-blindness.htm
+slug: >-
+  $1m-to-develop-ai-driven-emotional-recognition-training-to-reduce-social-blindness
+title: >-
+  $1m To Develop AI-driven Emotional Recognition Training To Reduce ‘Social
+  Blindness’
+date: 2022-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2208/S00033/1m-to-develop-ai-driven-emotional-recognition-training-to-reduce-social-blindness.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/08/19/1m-to-develop-ai-driven-emotional-recognition-training-to-reduce-social-blindness/index.html
+layout: layout.njk
 ---
 $1m To Develop AI-driven Emotional Recognition Training To Reduce ‘Social Blindness’
 ====================================================================================

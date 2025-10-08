@@ -1,9 +1,12 @@
 ---
 slug: model-mayhem-for-uc-engineering-students
-title: "Model Mayhem for UC Engineering Students"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/ED1506/S00007/model-mayhem-for-uc-engineering-students.htm
+title: Model Mayhem for UC Engineering Students
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00007/model-mayhem-for-uc-engineering-students.htm
 author: university-of-canterbury
+permalink: /archive/2015/06/03/model-mayhem-for-uc-engineering-students/index.html
+layout: layout.njk
 ---
 Model Mayhem for UC Engineering Students
 ========================================

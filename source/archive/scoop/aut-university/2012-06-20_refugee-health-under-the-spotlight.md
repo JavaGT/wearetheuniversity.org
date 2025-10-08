@@ -1,9 +1,12 @@
 ---
 slug: refugee-health-under-the-spotlight
-title: "Refugee health under the spotlight"
-date: 2012-06-20
-source-url: https://www.scoop.co.nz/stories/PO1206/S00273/refugee-health-under-the-spotlight.htm
+title: Refugee health under the spotlight
+date: 2012-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00273/refugee-health-under-the-spotlight.htm
 author: aut-university
+permalink: /archive/2012/06/20/refugee-health-under-the-spotlight/index.html
+layout: layout.njk
 ---
 Refugee health under the spotlight
 ==================================

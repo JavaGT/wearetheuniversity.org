@@ -1,9 +1,12 @@
 ---
 slug: experts-slam-christchurch-transport-proposals
-title: "Experts slam Christchurch transport proposals"
-date: 2013-09-03
-source-url: https://www.scoop.co.nz/stories/AK1309/S00051/experts-slam-christchurch-transport-proposals.htm
+title: Experts slam Christchurch transport proposals
+date: 2013-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00051/experts-slam-christchurch-transport-proposals.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/03/experts-slam-christchurch-transport-proposals/index.html
+layout: layout.njk
 ---
 Experts slam Christchurch transport proposals
 =============================================

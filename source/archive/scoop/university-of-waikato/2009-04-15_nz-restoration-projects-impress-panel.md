@@ -1,9 +1,12 @@
 ---
 slug: nz-restoration-projects-impress-panel
-title: "NZ Restoration Projects Impress Panel"
-date: 2009-04-15
-source-url: https://www.scoop.co.nz/stories/SC0904/S00020/nz-restoration-projects-impress-panel.htm
+title: NZ Restoration Projects Impress Panel
+date: 2009-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00020/nz-restoration-projects-impress-panel.htm
 author: university-of-waikato
+permalink: /archive/2009/04/15/nz-restoration-projects-impress-panel/index.html
+layout: layout.njk
 ---
 NZ Restoration Projects Impress Panel
 =====================================

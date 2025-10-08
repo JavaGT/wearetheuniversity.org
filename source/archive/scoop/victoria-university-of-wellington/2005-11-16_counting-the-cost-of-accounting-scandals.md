@@ -1,9 +1,12 @@
 ---
 slug: counting-the-cost-of-accounting-scandals
-title: "Counting the cost of accounting scandals"
-date: 2005-11-16
-source-url: https://www.scoop.co.nz/stories/ED0511/S00061/counting-the-cost-of-accounting-scandals.htm
+title: Counting the cost of accounting scandals
+date: 2005-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00061/counting-the-cost-of-accounting-scandals.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/11/16/counting-the-cost-of-accounting-scandals/index.html
+layout: layout.njk
 ---
 Counting the cost of accounting scandals
 ========================================

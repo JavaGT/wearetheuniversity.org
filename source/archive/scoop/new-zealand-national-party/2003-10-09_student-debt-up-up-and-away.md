@@ -1,9 +1,11 @@
 ---
 slug: student-debt-up-up-and-away
-title: "Student debt up, up and away"
-date: 2003-10-09
+title: Student debt up, up and away
+date: 2003-10-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00171/student-debt-up-up-and-away.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/09/student-debt-up-up-and-away/index.html
+layout: layout.njk
 ---
 Student debt up, up and away
 ============================

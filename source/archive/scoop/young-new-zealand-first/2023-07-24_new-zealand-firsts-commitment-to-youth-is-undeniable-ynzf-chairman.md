@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-firsts-commitment-to-youth-is-undeniable-ynzf-chairman
-title: "\"New Zealand First’s Commitment To Youth Is Undeniable\" – Ynzf Chairman"
-date: 2023-07-24
-source-url: https://www.scoop.co.nz/stories/PO2307/S00163/new-zealand-firsts-commitment-to-youth-is-undeniable-ynzf-chairman.htm
+title: '"New Zealand First’s Commitment To Youth Is Undeniable" – Ynzf Chairman'
+date: 2023-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00163/new-zealand-firsts-commitment-to-youth-is-undeniable-ynzf-chairman.htm
 author: young-new-zealand-first
+permalink: >-
+  /archive/2023/07/24/new-zealand-firsts-commitment-to-youth-is-undeniable-ynzf-chairman/index.html
+layout: layout.njk
 ---
 “New Zealand First’s Commitment To Youth Is Undeniable” – Ynzf Chairman
 =======================================================================

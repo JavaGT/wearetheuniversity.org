@@ -1,9 +1,12 @@
 ---
 slug: uc-research-to-help-feed-the-world
-title: "UC research to help feed the world"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/SC1210/S00019/uc-research-to-help-feed-the-world.htm
+title: UC research to help feed the world
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00019/uc-research-to-help-feed-the-world.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/09/uc-research-to-help-feed-the-world/index.html
+layout: layout.njk
 ---
 UC research to help feed the world
 ==================================

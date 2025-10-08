@@ -1,9 +1,13 @@
 ---
 slug: john-key-speech-nationals-post-election-action-plan-launch
-title: "John Key speech: National's post-election Action Plan launch"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/PA1111/S00460/john-key-speech-nationals-post-election-action-plan-launch.htm
+title: 'John Key speech: National''s post-election Action Plan launch'
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00460/john-key-speech-nationals-post-election-action-plan-launch.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/11/23/john-key-speech-nationals-post-election-action-plan-launch/index.html
+layout: layout.njk
 ---
 John Key speech: National's post-election Action Plan launch
 ============================================================

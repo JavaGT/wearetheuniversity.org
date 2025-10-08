@@ -1,9 +1,12 @@
 ---
 slug: mp-prison-visits-impeded-by-minister
-title: "MP Prison Visits Impeded by Minister"
-date: 2017-08-03
-source-url: https://www.scoop.co.nz/stories/PA1708/S00079/mp-prison-visits-impeded-by-minister.htm
+title: MP Prison Visits Impeded by Minister
+date: 2017-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00079/mp-prison-visits-impeded-by-minister.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/03/mp-prison-visits-impeded-by-minister/index.html
+layout: layout.njk
 ---
 MP Prison Visits Impeded by Minister
 ====================================

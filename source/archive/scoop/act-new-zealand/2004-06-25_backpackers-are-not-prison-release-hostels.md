@@ -1,9 +1,12 @@
 ---
 slug: backpackers-are-not-prison-release-hostels
-title: "Backpackers' Are Not Prison Release Hostels"
-date: 2004-06-25
-source-url: https://www.scoop.co.nz/stories/PA0406/S00425/backpackers-are-not-prison-release-hostels.htm
+title: Backpackers' Are Not Prison Release Hostels
+date: 2004-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00425/backpackers-are-not-prison-release-hostels.htm
 author: act-new-zealand
+permalink: /archive/2004/06/25/backpackers-are-not-prison-release-hostels/index.html
+layout: layout.njk
 ---
 Backpackers' Are Not Prison Release Hostels
 ===========================================

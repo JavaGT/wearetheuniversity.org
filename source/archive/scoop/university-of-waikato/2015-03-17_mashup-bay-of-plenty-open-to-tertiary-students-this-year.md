@@ -1,9 +1,13 @@
 ---
 slug: mashup-bay-of-plenty-open-to-tertiary-students-this-year
-title: "Mashup Bay of Plenty open to tertiary students this year"
-date: 2015-03-17
-source-url: https://www.scoop.co.nz/stories/AK1503/S00470/mashup-bay-of-plenty-open-to-tertiary-students-this-year.htm
+title: Mashup Bay of Plenty open to tertiary students this year
+date: 2015-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00470/mashup-bay-of-plenty-open-to-tertiary-students-this-year.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/03/17/mashup-bay-of-plenty-open-to-tertiary-students-this-year/index.html
+layout: layout.njk
 ---
 Mashup Bay of Plenty open to tertiary students this year
 ========================================================

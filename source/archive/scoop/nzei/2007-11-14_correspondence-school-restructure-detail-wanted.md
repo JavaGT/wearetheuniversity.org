@@ -1,9 +1,12 @@
 ---
 slug: correspondence-school-restructure-detail-wanted
-title: "Correspondence School Restructure: Detail Wanted"
-date: 2007-11-14
-source-url: https://www.scoop.co.nz/stories/ED0711/S00073/correspondence-school-restructure-detail-wanted.htm
+title: 'Correspondence School Restructure: Detail Wanted'
+date: 2007-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00073/correspondence-school-restructure-detail-wanted.htm
 author: nzei
+permalink: /archive/2007/11/14/correspondence-school-restructure-detail-wanted/index.html
+layout: layout.njk
 ---
 Correspondence School Restructure: Detail Wanted
 ================================================

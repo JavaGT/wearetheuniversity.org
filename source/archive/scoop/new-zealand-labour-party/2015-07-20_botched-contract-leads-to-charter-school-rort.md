@@ -1,9 +1,12 @@
 ---
 slug: botched-contract-leads-to-charter-school-rort
-title: "Botched contract leads to charter school rort"
-date: 2015-07-20
-source-url: https://www.scoop.co.nz/stories/PA1507/S00306/botched-contract-leads-to-charter-school-rort.htm
+title: Botched contract leads to charter school rort
+date: 2015-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00306/botched-contract-leads-to-charter-school-rort.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/20/botched-contract-leads-to-charter-school-rort/index.html
+layout: layout.njk
 ---
 Botched contract leads to charter school rort
 =============================================

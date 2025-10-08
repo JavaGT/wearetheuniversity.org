@@ -1,9 +1,13 @@
 ---
 slug: government-inaction-means-thousands-hurt-by-loan-sharks
-title: "Government inaction means thousands hurt by loan sharks"
-date: 2013-04-14
-source-url: https://www.scoop.co.nz/stories/PA1304/S00261/government-inaction-means-thousands-hurt-by-loan-sharks.htm
+title: Government inaction means thousands hurt by loan sharks
+date: 2013-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00261/government-inaction-means-thousands-hurt-by-loan-sharks.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/04/14/government-inaction-means-thousands-hurt-by-loan-sharks/index.html
+layout: layout.njk
 ---
 Government inaction means thousands hurt by loan sharks
 =======================================================

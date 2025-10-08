@@ -1,9 +1,13 @@
 ---
 slug: writer-artists-comedians-olympic-rower-in-rivers-campaign
-title: "Writer, artists, comedians, Olympic rower in rivers campaign"
-date: 2014-06-05
-source-url: https://www.scoop.co.nz/stories/PA1406/S00059/writer-artists-comedians-olympic-rower-in-rivers-campaign.htm
+title: Writer, artists, comedians, Olympic rower in rivers campaign
+date: 2014-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00059/writer-artists-comedians-olympic-rower-in-rivers-campaign.htm
 author: green-party
+permalink: >-
+  /archive/2014/06/05/writer-artists-comedians-olympic-rower-in-rivers-campaign/index.html
+layout: layout.njk
 ---
 Writer, artists, comedians, Olympic rower in rivers campaign
 ============================================================

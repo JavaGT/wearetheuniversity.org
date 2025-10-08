@@ -1,9 +1,11 @@
 ---
 slug: womens-issues-policy
-title: "Women's Issues Policy"
-date: 2005-09-06
+title: Women's Issues Policy
+date: 2005-09-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00163/womens-issues-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/06/womens-issues-policy/index.html
+layout: layout.njk
 ---
 Women's Issues Policy
 =====================

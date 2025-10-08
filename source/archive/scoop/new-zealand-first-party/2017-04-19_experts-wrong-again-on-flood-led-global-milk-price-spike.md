@@ -1,9 +1,13 @@
 ---
 slug: experts-wrong-again-on-flood-led-global-milk-price-spike
-title: "Experts Wrong Again on Flood-Led Global Milk Price Spike"
-date: 2017-04-19
-source-url: https://www.scoop.co.nz/stories/PA1704/S00232/experts-wrong-again-on-flood-led-global-milk-price-spike.htm
+title: Experts Wrong Again on Flood-Led Global Milk Price Spike
+date: 2017-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00232/experts-wrong-again-on-flood-led-global-milk-price-spike.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/04/19/experts-wrong-again-on-flood-led-global-milk-price-spike/index.html
+layout: layout.njk
 ---
 Experts Wrong Again on Flood-Led Global Milk Price Spike
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: surgical-mesh-inquiry-a-must-says-labour
-title: "Surgical mesh inquiry a must says Labour"
-date: 2014-07-02
-source-url: https://www.scoop.co.nz/stories/PA1407/S00035/surgical-mesh-inquiry-a-must-says-labour.htm
+title: Surgical mesh inquiry a must says Labour
+date: 2014-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00035/surgical-mesh-inquiry-a-must-says-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/02/surgical-mesh-inquiry-a-must-says-labour/index.html
+layout: layout.njk
 ---
 Surgical mesh inquiry a must says Labour
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: nats-sacrifice-kiwis-health-and-education-for-surplus
-title: "Nats sacrifice Kiwis’ health and education for surplus"
-date: 2015-10-14
-source-url: https://www.scoop.co.nz/stories/PA1510/S00223/nats-sacrifice-kiwis-health-and-education-for-surplus.htm
+title: Nats sacrifice Kiwis’ health and education for surplus
+date: 2015-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00223/nats-sacrifice-kiwis-health-and-education-for-surplus.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/10/14/nats-sacrifice-kiwis-health-and-education-for-surplus/index.html
+layout: layout.njk
 ---
 Nats sacrifice Kiwis’ health and education for surplus
 ======================================================

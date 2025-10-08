@@ -1,9 +1,12 @@
 ---
 slug: new-research-facility-at-otago-launched
-title: "New Research Facility At Otago Launched"
-date: 2003-05-02
-source-url: https://www.scoop.co.nz/stories/ED0305/S00010/new-research-facility-at-otago-launched.htm
+title: New Research Facility At Otago Launched
+date: 2003-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00010/new-research-facility-at-otago-launched.htm
 author: university-of-otago
+permalink: /archive/2003/05/02/new-research-facility-at-otago-launched/index.html
+layout: layout.njk
 ---
 New Research Facility At Otago Launched
 =======================================

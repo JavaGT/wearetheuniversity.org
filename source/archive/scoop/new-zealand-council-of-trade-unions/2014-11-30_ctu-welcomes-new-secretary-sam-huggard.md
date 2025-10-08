@@ -1,9 +1,12 @@
 ---
 slug: ctu-welcomes-new-secretary-sam-huggard
-title: "CTU welcomes new Secretary Sam Huggard"
-date: 2014-11-30
-source-url: https://www.scoop.co.nz/stories/BU1411/S01171/ctu-welcomes-new-secretary-sam-huggard.htm
+title: CTU welcomes new Secretary Sam Huggard
+date: 2014-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1411/S01171/ctu-welcomes-new-secretary-sam-huggard.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/11/30/ctu-welcomes-new-secretary-sam-huggard/index.html
+layout: layout.njk
 ---
 CTU welcomes new Secretary Sam Huggard
 ======================================

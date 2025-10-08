@@ -1,9 +1,12 @@
 ---
 slug: community-pleas-fall-on-deaf-ears
-title: "Community pleas fall on deaf ears"
-date: 2018-05-15
-source-url: https://www.scoop.co.nz/stories/PA1805/S00189/community-pleas-fall-on-deaf-ears.htm
+title: Community pleas fall on deaf ears
+date: 2018-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00189/community-pleas-fall-on-deaf-ears.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/15/community-pleas-fall-on-deaf-ears/index.html
+layout: layout.njk
 ---
 Community pleas fall on deaf ears
 =================================

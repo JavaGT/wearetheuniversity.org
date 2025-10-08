@@ -1,9 +1,12 @@
 ---
 slug: abbey-lodge-to-become-postgraduate-centre
-title: "Abbey Lodge to become postgraduate centre"
-date: 2007-08-15
-source-url: https://www.scoop.co.nz/stories/ED0708/S00041/abbey-lodge-to-become-postgraduate-centre.htm
+title: Abbey Lodge to become postgraduate centre
+date: 2007-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00041/abbey-lodge-to-become-postgraduate-centre.htm
 author: university-of-otago
+permalink: /archive/2007/08/15/abbey-lodge-to-become-postgraduate-centre/index.html
+layout: layout.njk
 ---
 Abbey Lodge to become postgraduate centre
 =========================================

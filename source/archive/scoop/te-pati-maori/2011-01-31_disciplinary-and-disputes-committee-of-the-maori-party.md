@@ -1,9 +1,13 @@
 ---
 slug: disciplinary-and-disputes-committee-of-the-maori-party
-title: "Disciplinary and Disputes Committee of the Maori Party"
-date: 2011-01-31
-source-url: https://www.scoop.co.nz/stories/PA1101/S00161/disciplinary-and-disputes-committee-of-the-maori-party.htm
+title: Disciplinary and Disputes Committee of the Maori Party
+date: 2011-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00161/disciplinary-and-disputes-committee-of-the-maori-party.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/01/31/disciplinary-and-disputes-committee-of-the-maori-party/index.html
+layout: layout.njk
 ---
 Disciplinary and Disputes Committee of the Maori Party
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: students-invoice-mallard-over-bungled-allowances
-title: "Students invoice Mallard over bungled allowances"
-date: 2005-05-04
-source-url: https://www.scoop.co.nz/stories/ED0505/S00014/students-invoice-mallard-over-bungled-allowances.htm
+title: Students invoice Mallard over bungled allowances
+date: 2005-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00014/students-invoice-mallard-over-bungled-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/05/04/students-invoice-mallard-over-bungled-allowances/index.html
+layout: layout.njk
 ---
 Students invoice Mallard over bungled allowances
 ================================================

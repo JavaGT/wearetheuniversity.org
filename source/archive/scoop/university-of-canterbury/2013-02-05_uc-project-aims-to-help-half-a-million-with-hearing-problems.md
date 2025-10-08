@@ -1,9 +1,13 @@
 ---
 slug: uc-project-aims-to-help-half-a-million-with-hearing-problems
-title: "UC Project Aims To Help Half A Million With Hearing Problems"
-date: 2013-02-05
-source-url: https://www.scoop.co.nz/stories/ED1302/S00015/uc-project-aims-to-help-half-a-million-with-hearing-problems.htm
+title: UC Project Aims To Help Half A Million With Hearing Problems
+date: 2013-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00015/uc-project-aims-to-help-half-a-million-with-hearing-problems.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/05/uc-project-aims-to-help-half-a-million-with-hearing-problems/index.html
+layout: layout.njk
 ---
 UC Project Aims To Help Half A Million With Hearing Problems
 ============================================================

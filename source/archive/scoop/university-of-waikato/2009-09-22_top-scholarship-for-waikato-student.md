@@ -1,9 +1,12 @@
 ---
 slug: top-scholarship-for-waikato-student
-title: "Top scholarship for Waikato student"
-date: 2009-09-22
-source-url: https://www.scoop.co.nz/stories/ED0909/S00079/top-scholarship-for-waikato-student.htm
+title: Top scholarship for Waikato student
+date: 2009-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00079/top-scholarship-for-waikato-student.htm
 author: university-of-waikato
+permalink: /archive/2009/09/22/top-scholarship-for-waikato-student/index.html
+layout: layout.njk
 ---
 Top scholarship for Waikato student
 ===================================

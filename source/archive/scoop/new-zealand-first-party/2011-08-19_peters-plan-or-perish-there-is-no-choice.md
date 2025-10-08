@@ -1,9 +1,12 @@
 ---
 slug: peters-plan-or-perish-there-is-no-choice
-title: "Peters: Plan Or Perish – There is No Choice"
-date: 2011-08-19
-source-url: https://www.scoop.co.nz/stories/PO1108/S00268/peters-plan-or-perish-there-is-no-choice.htm
+title: 'Peters: Plan Or Perish – There is No Choice'
+date: 2011-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00268/peters-plan-or-perish-there-is-no-choice.htm
 author: new-zealand-first-party
+permalink: /archive/2011/08/19/peters-plan-or-perish-there-is-no-choice/index.html
+layout: layout.njk
 ---
 Peters: Plan Or Perish – There is No Choice
 ===========================================

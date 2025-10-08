@@ -1,9 +1,12 @@
 ---
 slug: university-recognises-outstanding-research
-title: "University Recognises Outstanding Research"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/ED0608/S00035/university-recognises-outstanding-research.htm
+title: University Recognises Outstanding Research
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00035/university-recognises-outstanding-research.htm
 author: university-of-otago
+permalink: /archive/2006/08/10/university-recognises-outstanding-research/index.html
+layout: layout.njk
 ---
 University Recognises Outstanding Research
 ==========================================

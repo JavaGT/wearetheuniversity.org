@@ -1,9 +1,13 @@
 ---
 slug: new-era-of-unfair-education-league-tables-a-step-closer
-title: "New era of unfair education league tables a step closer"
-date: 2012-08-08
-source-url: https://www.scoop.co.nz/stories/ED1208/S00046/new-era-of-unfair-education-league-tables-a-step-closer.htm
+title: New era of unfair education league tables a step closer
+date: 2012-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00046/new-era-of-unfair-education-league-tables-a-step-closer.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/08/new-era-of-unfair-education-league-tables-a-step-closer/index.html
+layout: layout.njk
 ---
 New era of unfair education league tables a step closer
 =======================================================

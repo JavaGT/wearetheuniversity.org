@@ -1,9 +1,13 @@
 ---
 slug: climate-change-conference-to-hear-top-scientists
-title: "Climate Change Conference to hear top scientists"
-date: 2006-02-27
-source-url: https://www.scoop.co.nz/stories/SC0602/S00045/climate-change-conference-to-hear-top-scientists.htm
+title: Climate Change Conference to hear top scientists
+date: 2006-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0602/S00045/climate-change-conference-to-hear-top-scientists.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/02/27/climate-change-conference-to-hear-top-scientists/index.html
+layout: layout.njk
 ---
 Climate Change Conference to hear top scientists
 ================================================

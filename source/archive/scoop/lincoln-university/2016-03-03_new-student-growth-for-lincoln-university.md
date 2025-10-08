@@ -1,9 +1,12 @@
 ---
 slug: new-student-growth-for-lincoln-university
-title: "New student growth for Lincoln University"
-date: 2016-03-03
-source-url: https://www.scoop.co.nz/stories/ED1603/S00016/new-student-growth-for-lincoln-university.htm
+title: New student growth for Lincoln University
+date: 2016-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00016/new-student-growth-for-lincoln-university.htm
 author: lincoln-university
+permalink: /archive/2016/03/03/new-student-growth-for-lincoln-university/index.html
+layout: layout.njk
 ---
 New student growth for Lincoln University
 =========================================

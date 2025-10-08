@@ -1,9 +1,13 @@
 ---
 slug: wellingtons-street-connecting-walkways-could-be-better
-title: "Wellington’s street-connecting walkways could be better"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/ED1407/S00108/wellingtons-street-connecting-walkways-could-be-better.htm
+title: Wellington’s street-connecting walkways could be better
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00108/wellingtons-street-connecting-walkways-could-be-better.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/07/23/wellingtons-street-connecting-walkways-could-be-better/index.html
+layout: layout.njk
 ---
 Wellington’s street-connecting walkways could be better
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-degree-to-benefit-students-the-economy-and-exports
-title: "New Degree to benefit students, the economy and exports"
-date: 2012-12-17
-source-url: https://www.scoop.co.nz/stories/ED1212/S00116/new-degree-to-benefit-students-the-economy-and-exports.htm
+title: New Degree to benefit students, the economy and exports
+date: 2012-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00116/new-degree-to-benefit-students-the-economy-and-exports.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2012/12/17/new-degree-to-benefit-students-the-economy-and-exports/index.html
+layout: layout.njk
 ---
 New Degree to benefit students, the economy and exports
 =======================================================

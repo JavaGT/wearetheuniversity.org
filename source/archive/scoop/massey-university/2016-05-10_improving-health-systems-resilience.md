@@ -1,9 +1,12 @@
 ---
 slug: improving-health-systems-resilience
-title: "Improving health systems’ resilience"
-date: 2016-05-10
-source-url: https://www.scoop.co.nz/stories/GE1605/S00048/improving-health-systems-resilience.htm
+title: Improving health systems’ resilience
+date: 2016-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00048/improving-health-systems-resilience.htm
 author: massey-university
+permalink: /archive/2016/05/10/improving-health-systems-resilience/index.html
+layout: layout.njk
 ---
 Improving health systems’ resilience
 ====================================

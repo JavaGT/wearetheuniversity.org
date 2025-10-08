@@ -1,9 +1,13 @@
 ---
 slug: unfamiliarity-with-natural-history-concerns-author
-title: "Unfamiliarity with natural history concerns author"
-date: 2004-04-14
-source-url: https://www.scoop.co.nz/stories/ED0404/S00044/unfamiliarity-with-natural-history-concerns-author.htm
+title: Unfamiliarity with natural history concerns author
+date: 2004-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00044/unfamiliarity-with-natural-history-concerns-author.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/04/14/unfamiliarity-with-natural-history-concerns-author/index.html
+layout: layout.njk
 ---
 Unfamiliarity with natural history concerns author
 ==================================================

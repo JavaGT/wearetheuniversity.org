@@ -1,9 +1,11 @@
 ---
 slug: gender-gaps-still-remain
-title: "Gender Gaps Still Remain"
-date: 2012-04-10
+title: Gender Gaps Still Remain
+date: 2012-04-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1204/S00035/gender-gaps-still-remain.htm
 author: university-of-the-south-pacific
+permalink: /archive/2012/04/10/gender-gaps-still-remain/index.html
+layout: layout.njk
 ---
 Gender Gaps Still Remain
 ========================

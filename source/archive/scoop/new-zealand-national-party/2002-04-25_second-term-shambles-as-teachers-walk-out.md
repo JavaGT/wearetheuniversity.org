@@ -1,9 +1,12 @@
 ---
 slug: second-term-shambles-as-teachers-walk-out
-title: "Second Term Shambles As Teachers Walk Out"
-date: 2002-04-25
-source-url: https://www.scoop.co.nz/stories/PA0204/S00372/second-term-shambles-as-teachers-walk-out.htm
+title: Second Term Shambles As Teachers Walk Out
+date: 2002-04-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00372/second-term-shambles-as-teachers-walk-out.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/25/second-term-shambles-as-teachers-walk-out/index.html
+layout: layout.njk
 ---
 Second Term Shambles As Teachers Walk Out
 =========================================

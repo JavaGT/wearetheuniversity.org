@@ -1,9 +1,12 @@
 ---
 slug: nzs-wimbledon-hero-remembered-in-new-book
-title: "NZ’s Wimbledon hero remembered in new book"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/CU0506/S00231/nzs-wimbledon-hero-remembered-in-new-book.htm
+title: NZ’s Wimbledon hero remembered in new book
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0506/S00231/nzs-wimbledon-hero-remembered-in-new-book.htm
 author: university-of-canterbury
+permalink: /archive/2005/06/27/nzs-wimbledon-hero-remembered-in-new-book/index.html
+layout: layout.njk
 ---
 NZ’s Wimbledon hero remembered in new book
 ==========================================

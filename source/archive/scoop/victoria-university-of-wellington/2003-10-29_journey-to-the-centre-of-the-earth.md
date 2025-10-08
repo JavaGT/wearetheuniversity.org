@@ -1,9 +1,12 @@
 ---
 slug: journey-to-the-centre-of-the-earth
-title: "Journey to the centre of the earth"
-date: 2003-10-29
-source-url: https://www.scoop.co.nz/stories/SC0310/S00114/journey-to-the-centre-of-the-earth.htm
+title: Journey to the centre of the earth
+date: 2003-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0310/S00114/journey-to-the-centre-of-the-earth.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/10/29/journey-to-the-centre-of-the-earth/index.html
+layout: layout.njk
 ---
 Journey to the centre of the earth
 ==================================

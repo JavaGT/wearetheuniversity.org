@@ -1,9 +1,12 @@
 ---
 slug: dont-let-unfair-dismissals-happen-to-others
-title: "Don’t let unfair dismissals happen to others"
-date: 2010-11-17
-source-url: https://www.scoop.co.nz/stories/AK1011/S00315/dont-let-unfair-dismissals-happen-to-others.htm
+title: Don’t let unfair dismissals happen to others
+date: 2010-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1011/S00315/dont-let-unfair-dismissals-happen-to-others.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/11/17/dont-let-unfair-dismissals-happen-to-others/index.html
+layout: layout.njk
 ---
 Don’t let unfair dismissals happen to others
 ============================================

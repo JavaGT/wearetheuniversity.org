@@ -1,9 +1,12 @@
 ---
 slug: aqua-style-scheme-can-be-stopped
-title: "Aqua-style scheme can be stopped"
-date: 2004-06-24
-source-url: https://www.scoop.co.nz/stories/PA0406/S00402/aqua-style-scheme-can-be-stopped.htm
+title: Aqua-style scheme can be stopped
+date: 2004-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00402/aqua-style-scheme-can-be-stopped.htm
 author: green-party
+permalink: /archive/2004/06/24/aqua-style-scheme-can-be-stopped/index.html
+layout: layout.njk
 ---
 Aqua-style scheme can be stopped
 ================================

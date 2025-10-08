@@ -1,9 +1,12 @@
 ---
 slug: act-will-campaign-to-restore-school-autonomy
-title: "ACT will campaign to restore school autonomy"
-date: 2019-11-12
-source-url: https://www.scoop.co.nz/stories/PA1911/S00085/act-will-campaign-to-restore-school-autonomy.htm
+title: ACT will campaign to restore school autonomy
+date: 2019-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00085/act-will-campaign-to-restore-school-autonomy.htm
 author: act-new-zealand
+permalink: /archive/2019/11/12/act-will-campaign-to-restore-school-autonomy/index.html
+layout: layout.njk
 ---
 ACT will campaign to restore school autonomy
 ============================================

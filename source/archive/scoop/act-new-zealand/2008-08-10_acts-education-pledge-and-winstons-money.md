@@ -1,9 +1,12 @@
 ---
 slug: acts-education-pledge-and-winstons-money
-title: "ACT's Education Pledge - And Winston's Money"
-date: 2008-08-10
-source-url: https://www.scoop.co.nz/stories/PA0808/S00162/acts-education-pledge-and-winstons-money.htm
+title: ACT's Education Pledge - And Winston's Money
+date: 2008-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00162/acts-education-pledge-and-winstons-money.htm
 author: act-new-zealand
+permalink: /archive/2008/08/10/acts-education-pledge-and-winstons-money/index.html
+layout: layout.njk
 ---
 ACT's Education Pledge - And Winston's Money
 ============================================

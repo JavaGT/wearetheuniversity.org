@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-help-map-aphid-genome
-title: "Otago researchers help map aphid genome"
-date: 2010-02-23
-source-url: https://www.scoop.co.nz/stories/ED1002/S00086/otago-researchers-help-map-aphid-genome.htm
+title: Otago researchers help map aphid genome
+date: 2010-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00086/otago-researchers-help-map-aphid-genome.htm
 author: university-of-otago
+permalink: /archive/2010/02/23/otago-researchers-help-map-aphid-genome/index.html
+layout: layout.njk
 ---
 Otago researchers help map aphid genome
 =======================================

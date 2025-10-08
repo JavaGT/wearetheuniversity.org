@@ -1,9 +1,12 @@
 ---
 slug: university-students-seek-universitys-support
-title: "University students seek University’s support"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/ED0810/S00074/university-students-seek-universitys-support.htm
+title: University students seek University’s support
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00074/university-students-seek-universitys-support.htm
 author: auckland-university-students-association
+permalink: /archive/2008/10/17/university-students-seek-universitys-support/index.html
+layout: layout.njk
 ---
 University students seek University’s support
 =============================================

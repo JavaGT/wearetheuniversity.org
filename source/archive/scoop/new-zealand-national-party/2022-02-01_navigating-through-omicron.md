@@ -1,9 +1,11 @@
 ---
 slug: navigating-through-omicron
-title: "Navigating Through Omicron"
-date: 2022-02-01
+title: Navigating Through Omicron
+date: 2022-02-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2202/S00007/navigating-through-omicron.htm
 author: new-zealand-national-party
+permalink: /archive/2022/02/01/navigating-through-omicron/index.html
+layout: layout.njk
 ---
 Navigating Through Omicron
 ==========================

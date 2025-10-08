@@ -1,9 +1,12 @@
 ---
 slug: hatchet-man-cant-even-swing-his-axe-cleanly
-title: "Hatchet-man can't even swing his axe cleanly"
-date: 2004-04-13
-source-url: https://www.scoop.co.nz/stories/PA0404/S00192/hatchet-man-cant-even-swing-his-axe-cleanly.htm
+title: Hatchet-man can't even swing his axe cleanly
+date: 2004-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00192/hatchet-man-cant-even-swing-his-axe-cleanly.htm
 author: green-party
+permalink: /archive/2004/04/13/hatchet-man-cant-even-swing-his-axe-cleanly/index.html
+layout: layout.njk
 ---
 Hatchet-man can't even swing his axe cleanly
 ============================================

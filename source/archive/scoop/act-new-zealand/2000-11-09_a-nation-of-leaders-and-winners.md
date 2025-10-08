@@ -1,9 +1,12 @@
 ---
 slug: a-nation-of-leaders-and-winners
-title: "A Nation Of Leaders And Winners"
-date: 2000-11-09
-source-url: https://www.scoop.co.nz/stories/PA0011/S00169/a-nation-of-leaders-and-winners.htm
+title: A Nation Of Leaders And Winners
+date: 2000-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00169/a-nation-of-leaders-and-winners.htm
 author: act-new-zealand
+permalink: /archive/2000/11/09/a-nation-of-leaders-and-winners/index.html
+layout: layout.njk
 ---
 A Nation Of Leaders And Winners
 ===============================

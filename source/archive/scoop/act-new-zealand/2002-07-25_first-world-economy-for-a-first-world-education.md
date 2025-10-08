@@ -1,9 +1,12 @@
 ---
 slug: first-world-economy-for-a-first-world-education
-title: "First World Economy for a First World Education"
-date: 2002-07-25
-source-url: https://www.scoop.co.nz/stories/PA0207/S00667/first-world-economy-for-a-first-world-education.htm
+title: First World Economy for a First World Education
+date: 2002-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00667/first-world-economy-for-a-first-world-education.htm
 author: act-new-zealand
+permalink: /archive/2002/07/25/first-world-economy-for-a-first-world-education/index.html
+layout: layout.njk
 ---
 First World Economy for a First World Education
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: think-globally-act-locally
-title: "Think Globally, ACT Locally"
-date: 2006-08-14
+title: Think Globally, ACT Locally
+date: 2006-08-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0608/S00201/think-globally-act-locally.htm
 author: act-new-zealand
+permalink: /archive/2006/08/14/think-globally-act-locally/index.html
+layout: layout.njk
 ---
 Think Globally, ACT Locally
 ===========================

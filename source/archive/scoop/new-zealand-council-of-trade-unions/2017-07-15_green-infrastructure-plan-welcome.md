@@ -1,9 +1,12 @@
 ---
 slug: green-infrastructure-plan-welcome
-title: "Green infrastructure plan welcome"
-date: 2017-07-15
-source-url: https://www.scoop.co.nz/stories/PO1707/S00208/green-infrastructure-plan-welcome.htm
+title: Green infrastructure plan welcome
+date: 2017-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00208/green-infrastructure-plan-welcome.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2017/07/15/green-infrastructure-plan-welcome/index.html
+layout: layout.njk
 ---
 Green infrastructure plan welcome
 =================================

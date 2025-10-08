@@ -1,9 +1,12 @@
 ---
 slug: prebble-speech-immigration-leads-inflation
-title: "Prebble Speech Immigration Leads Inflation"
-date: 2002-04-08
-source-url: https://www.scoop.co.nz/stories/PA0204/S00090/prebble-speech-immigration-leads-inflation.htm
+title: Prebble Speech Immigration Leads Inflation
+date: 2002-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00090/prebble-speech-immigration-leads-inflation.htm
 author: act-new-zealand
+permalink: /archive/2002/04/08/prebble-speech-immigration-leads-inflation/index.html
+layout: layout.njk
 ---
 Prebble Speech Immigration Leads Inflation
 ==========================================

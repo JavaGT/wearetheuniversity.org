@@ -1,9 +1,12 @@
 ---
 slug: new-export-education-levy-a-shambles
-title: "New Export Education Levy A Shambles"
-date: 2002-04-24
-source-url: https://www.scoop.co.nz/stories/PA0204/S00361/new-export-education-levy-a-shambles.htm
+title: New Export Education Levy A Shambles
+date: 2002-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00361/new-export-education-levy-a-shambles.htm
 author: act-new-zealand
+permalink: /archive/2002/04/24/new-export-education-levy-a-shambles/index.html
+layout: layout.njk
 ---
 New Export Education Levy A Shambles
 ====================================

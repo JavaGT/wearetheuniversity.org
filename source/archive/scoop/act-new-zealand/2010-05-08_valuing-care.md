@@ -1,9 +1,11 @@
 ---
 slug: valuing-care
-title: "Valuing Care"
-date: 2010-05-08
+title: Valuing Care
+date: 2010-05-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1005/S00143/valuing-care.htm
 author: act-new-zealand
+permalink: /archive/2010/05/08/valuing-care/index.html
+layout: layout.njk
 ---
 Valuing Care
 ============

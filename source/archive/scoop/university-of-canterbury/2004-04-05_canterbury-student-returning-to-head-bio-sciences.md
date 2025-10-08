@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-returning-to-head-bio-sciences
-title: "Canterbury student returning to head bio sciences"
-date: 2004-04-05
-source-url: https://www.scoop.co.nz/stories/ED0404/S00009/canterbury-student-returning-to-head-bio-sciences.htm
+title: Canterbury student returning to head bio sciences
+date: 2004-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00009/canterbury-student-returning-to-head-bio-sciences.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/04/05/canterbury-student-returning-to-head-bio-sciences/index.html
+layout: layout.njk
 ---
 Canterbury student returning to head bio sciences
 =================================================

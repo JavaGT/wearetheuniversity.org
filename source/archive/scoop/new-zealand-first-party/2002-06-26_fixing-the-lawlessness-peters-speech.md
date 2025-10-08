@@ -1,9 +1,12 @@
 ---
 slug: fixing-the-lawlessness-peters-speech
-title: "Fixing The Lawlessness - Peters Speech"
-date: 2002-06-26
-source-url: https://www.scoop.co.nz/stories/PA0206/S00461/fixing-the-lawlessness-peters-speech.htm
+title: Fixing The Lawlessness - Peters Speech
+date: 2002-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00461/fixing-the-lawlessness-peters-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2002/06/26/fixing-the-lawlessness-peters-speech/index.html
+layout: layout.njk
 ---
 Fixing The Lawlessness - Peters Speech
 ======================================

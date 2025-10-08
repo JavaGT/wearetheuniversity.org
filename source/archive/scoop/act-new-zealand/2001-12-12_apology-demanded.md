@@ -1,9 +1,11 @@
 ---
 slug: apology-demanded
-title: "Apology demanded"
-date: 2001-12-12
+title: Apology demanded
+date: 2001-12-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0112/S00233/apology-demanded.htm
 author: act-new-zealand
+permalink: /archive/2001/12/12/apology-demanded/index.html
+layout: layout.njk
 ---
 Apology demanded
 ================

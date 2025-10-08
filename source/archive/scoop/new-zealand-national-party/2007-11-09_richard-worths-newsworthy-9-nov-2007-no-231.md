@@ -1,9 +1,12 @@
 ---
 slug: richard-worths-newsworthy-9-nov-2007-no-231
-title: "Richard Worth's NewsWorthy : 9 Nov. 2007 – No. 231"
-date: 2007-11-09
-source-url: https://www.scoop.co.nz/stories/PA0711/S00186/richard-worths-newsworthy-9-nov-2007-no-231.htm
+title: 'Richard Worth''s NewsWorthy : 9 Nov. 2007 – No. 231'
+date: 2007-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00186/richard-worths-newsworthy-9-nov-2007-no-231.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/09/richard-worths-newsworthy-9-nov-2007-no-231/index.html
+layout: layout.njk
 ---
 Richard Worth's NewsWorthy : 9 Nov. 2007 – No. 231
 ==================================================

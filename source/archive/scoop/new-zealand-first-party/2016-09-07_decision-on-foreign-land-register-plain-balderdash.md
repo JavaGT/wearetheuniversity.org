@@ -1,9 +1,13 @@
 ---
 slug: decision-on-foreign-land-register-plain-balderdash
-title: "Decision on Foreign Land Register: Plain Balderdash"
-date: 2016-09-07
-source-url: https://www.scoop.co.nz/stories/PA1609/S00122/decision-on-foreign-land-register-plain-balderdash.htm
+title: 'Decision on Foreign Land Register: Plain Balderdash'
+date: 2016-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00122/decision-on-foreign-land-register-plain-balderdash.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/09/07/decision-on-foreign-land-register-plain-balderdash/index.html
+layout: layout.njk
 ---
 Decision on Foreign Land Register: Plain Balderdash
 ===================================================

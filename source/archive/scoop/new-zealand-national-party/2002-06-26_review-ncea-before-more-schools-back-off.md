@@ -1,9 +1,12 @@
 ---
 slug: review-ncea-before-more-schools-back-off
-title: "Review NCEA Before More Schools Back Off"
-date: 2002-06-26
-source-url: https://www.scoop.co.nz/stories/PA0206/S00468/review-ncea-before-more-schools-back-off.htm
+title: Review NCEA Before More Schools Back Off
+date: 2002-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00468/review-ncea-before-more-schools-back-off.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/26/review-ncea-before-more-schools-back-off/index.html
+layout: layout.njk
 ---
 Review NCEA Before More Schools Back Off
 ========================================

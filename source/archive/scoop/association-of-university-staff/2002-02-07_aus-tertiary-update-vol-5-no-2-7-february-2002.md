@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-2-7-february-2002
-title: "AUS Tertiary Update Vol.5.No.2, 7 February 2002"
-date: 2002-02-07
-source-url: https://www.scoop.co.nz/stories/ED0202/S00004/aus-tertiary-update-vol5no2-7-february-2002.htm
+title: AUS Tertiary Update Vol.5.No.2, 7 February 2002
+date: 2002-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00004/aus-tertiary-update-vol5no2-7-february-2002.htm
 author: association-of-university-staff
+permalink: /archive/2002/02/07/aus-tertiary-update-vol-5-no-2-7-february-2002/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.5.No.2, 7 February 2002
 ===============================================

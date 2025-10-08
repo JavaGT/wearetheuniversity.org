@@ -1,9 +1,12 @@
 ---
 slug: bishop-and-bennett-announce-$50000-for-sanitary-products
-title: "Bishop and Bennett announce $50,000 for sanitary products"
-date: 2017-04-13
-source-url: https://www.scoop.co.nz/stories/PA1704/S00193/bishop-and-bennett-announce-50000-for-sanitary-products.htm
+title: Bishop and Bennett announce $50,000 for sanitary products
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00193/bishop-and-bennett-announce-50000-for-sanitary-products.htm
 author: new-zealand-national-party
+permalink: /archive/2017/04/13/bishop-and-bennett-announce-/index.html
+layout: layout.njk
 ---
 Bishop and Bennett announce $50,000 for sanitary products
 =========================================================

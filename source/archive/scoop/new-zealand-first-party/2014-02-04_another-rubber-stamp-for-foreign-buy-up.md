@@ -1,9 +1,12 @@
 ---
 slug: another-rubber-stamp-for-foreign-buy-up
-title: "Another Rubber Stamp for Foreign Buy-up"
-date: 2014-02-04
-source-url: https://www.scoop.co.nz/stories/PA1402/S00040/another-rubber-stamp-for-foreign-buy-up.htm
+title: Another Rubber Stamp for Foreign Buy-up
+date: 2014-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00040/another-rubber-stamp-for-foreign-buy-up.htm
 author: new-zealand-first-party
+permalink: /archive/2014/02/04/another-rubber-stamp-for-foreign-buy-up/index.html
+layout: layout.njk
 ---
 Another Rubber Stamp for Foreign Buy-up
 =======================================

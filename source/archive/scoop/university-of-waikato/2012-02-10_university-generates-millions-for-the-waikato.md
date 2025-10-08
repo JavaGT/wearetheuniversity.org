@@ -1,9 +1,12 @@
 ---
 slug: university-generates-millions-for-the-waikato
-title: "University generates millions for the Waikato"
-date: 2012-02-10
-source-url: https://www.scoop.co.nz/stories/ED1202/S00044/university-generates-millions-for-the-waikato.htm
+title: University generates millions for the Waikato
+date: 2012-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00044/university-generates-millions-for-the-waikato.htm
 author: university-of-waikato
+permalink: /archive/2012/02/10/university-generates-millions-for-the-waikato/index.html
+layout: layout.njk
 ---
 University generates millions for the Waikato
 =============================================

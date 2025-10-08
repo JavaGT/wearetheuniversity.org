@@ -1,9 +1,12 @@
 ---
 slug: māori-party-farewells-a-respected-māori-advocate
-title: "Māori Party farewells a respected Māori advocate"
-date: 2016-02-10
-source-url: https://www.scoop.co.nz/stories/PA1602/S00113/maori-party-farewells-a-respected-maori-advocate.htm
+title: Māori Party farewells a respected Māori advocate
+date: 2016-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00113/maori-party-farewells-a-respected-maori-advocate.htm
 author: te-pati-maori
+permalink: /archive/2016/02/10/m/index.html
+layout: layout.njk
 ---
 Māori Party farewells a respected Māori advocate
 ================================================

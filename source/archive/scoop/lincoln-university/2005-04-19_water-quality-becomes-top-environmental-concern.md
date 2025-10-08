@@ -1,9 +1,12 @@
 ---
 slug: water-quality-becomes-top-environmental-concern
-title: "Water Quality Becomes Top Environmental Concern"
-date: 2005-04-19
-source-url: https://www.scoop.co.nz/stories/SC0504/S00055/water-quality-becomes-top-environmental-concern.htm
+title: Water Quality Becomes Top Environmental Concern
+date: 2005-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0504/S00055/water-quality-becomes-top-environmental-concern.htm
 author: lincoln-university
+permalink: /archive/2005/04/19/water-quality-becomes-top-environmental-concern/index.html
+layout: layout.njk
 ---
 Water Quality Becomes Top Environmental Concern
 ===============================================

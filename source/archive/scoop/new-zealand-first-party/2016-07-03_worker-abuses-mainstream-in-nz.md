@@ -1,9 +1,12 @@
 ---
 slug: worker-abuses-mainstream-in-nz
-title: "Worker abuses mainstream in NZ"
-date: 2016-07-03
-source-url: https://www.scoop.co.nz/stories/PA1607/S00034/worker-abuses-mainstream-in-nz.htm
+title: Worker abuses mainstream in NZ
+date: 2016-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00034/worker-abuses-mainstream-in-nz.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/03/worker-abuses-mainstream-in-nz/index.html
+layout: layout.njk
 ---
 Worker abuses mainstream in NZ
 ==============================

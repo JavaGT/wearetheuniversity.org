@@ -1,9 +1,12 @@
 ---
 slug: tec-doubles-number-of-staff-on-over-$100000
-title: "TEC doubles number of staff on over $100,000"
-date: 2007-11-04
-source-url: https://www.scoop.co.nz/stories/PA0711/S00046/tec-doubles-number-of-staff-on-over-100000.htm
+title: TEC doubles number of staff on over $100,000
+date: 2007-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00046/tec-doubles-number-of-staff-on-over-100000.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/04/tec-doubles-number-of-staff-on-over-/index.html
+layout: layout.njk
 ---
 TEC doubles number of staff on over $100,000
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: recipe-for-keeping-nz-cities-habitable
-title: "Recipe For Keeping NZ Cities Habitable"
-date: 2002-07-16
-source-url: https://www.scoop.co.nz/stories/ED0207/S00033/recipe-for-keeping-nz-cities-habitable.htm
+title: Recipe For Keeping NZ Cities Habitable
+date: 2002-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00033/recipe-for-keeping-nz-cities-habitable.htm
 author: lincoln-university
+permalink: /archive/2002/07/16/recipe-for-keeping-nz-cities-habitable/index.html
+layout: layout.njk
 ---
 Recipe For Keeping NZ Cities Habitable
 ======================================

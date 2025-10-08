@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-may-12-2006
-title: "Heather Roy's Diary - May 12 2006"
-date: 2006-05-12
-source-url: https://www.scoop.co.nz/stories/PA0605/S00301/heather-roys-diary-may-12-2006.htm
+title: Heather Roy's Diary - May 12 2006
+date: 2006-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00301/heather-roys-diary-may-12-2006.htm
 author: act-new-zealand
+permalink: /archive/2006/05/12/heather-roys-diary-may-12-2006/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - May 12 2006
 =================================

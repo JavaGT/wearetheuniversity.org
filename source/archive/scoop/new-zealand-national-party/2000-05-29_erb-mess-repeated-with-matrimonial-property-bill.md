@@ -1,9 +1,13 @@
 ---
 slug: erb-mess-repeated-with-matrimonial-property-bill
-title: "ERB mess repeated with matrimonial property bill"
-date: 2000-05-29
-source-url: https://www.scoop.co.nz/stories/PA0005/S00601/erb-mess-repeated-with-matrimonial-property-bill.htm
+title: ERB mess repeated with matrimonial property bill
+date: 2000-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00601/erb-mess-repeated-with-matrimonial-property-bill.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/05/29/erb-mess-repeated-with-matrimonial-property-bill/index.html
+layout: layout.njk
 ---
 ERB mess repeated with matrimonial property bill
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: killing-koi-could-be-key-to-saving-lake
-title: "Killing koi could be key to saving lake"
-date: 2011-05-16
-source-url: https://www.scoop.co.nz/stories/AK1105/S00411/killing-koi-could-be-key-to-saving-lake.htm
+title: Killing koi could be key to saving lake
+date: 2011-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1105/S00411/killing-koi-could-be-key-to-saving-lake.htm
 author: university-of-waikato
+permalink: /archive/2011/05/16/killing-koi-could-be-key-to-saving-lake/index.html
+layout: layout.njk
 ---
 Killing koi could be key to saving lake
 =======================================

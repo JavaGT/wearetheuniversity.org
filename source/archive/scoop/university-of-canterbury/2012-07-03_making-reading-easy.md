@@ -1,9 +1,11 @@
 ---
 slug: making-reading-easy
-title: "Making reading easy"
-date: 2012-07-03
+title: Making reading easy
+date: 2012-07-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1207/S00006/making-reading-easy.htm
 author: university-of-canterbury
+permalink: /archive/2012/07/03/making-reading-easy/index.html
+layout: layout.njk
 ---
 Making reading easy
 ===================

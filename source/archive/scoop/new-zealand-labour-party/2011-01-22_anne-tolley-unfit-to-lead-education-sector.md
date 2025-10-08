@@ -1,9 +1,12 @@
 ---
 slug: anne-tolley-unfit-to-lead-education-sector
-title: "Anne Tolley unfit to lead education sector"
-date: 2011-01-22
-source-url: https://www.scoop.co.nz/stories/PA1101/S00074/anne-tolley-unfit-to-lead-education-sector.htm
+title: Anne Tolley unfit to lead education sector
+date: 2011-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00074/anne-tolley-unfit-to-lead-education-sector.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/22/anne-tolley-unfit-to-lead-education-sector/index.html
+layout: layout.njk
 ---
 Anne Tolley unfit to lead education sector
 ==========================================

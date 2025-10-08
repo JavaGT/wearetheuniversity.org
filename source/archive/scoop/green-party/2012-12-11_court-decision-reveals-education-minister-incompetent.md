@@ -1,9 +1,13 @@
 ---
 slug: court-decision-reveals-education-minister-incompetent
-title: "Court decision reveals Education Minister incompetent"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/PA1212/S00214/court-decision-reveals-education-minister-incompetent.htm
+title: Court decision reveals Education Minister incompetent
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00214/court-decision-reveals-education-minister-incompetent.htm
 author: green-party
+permalink: >-
+  /archive/2012/12/11/court-decision-reveals-education-minister-incompetent/index.html
+layout: layout.njk
 ---
 Court decision reveals Education Minister incompetent
 =====================================================

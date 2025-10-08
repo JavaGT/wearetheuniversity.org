@@ -1,9 +1,11 @@
 ---
 slug: bringing-on-the-innovators
-title: "Bringing on the Innovators"
-date: 2008-06-23
+title: Bringing on the Innovators
+date: 2008-06-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0806/S00388/bringing-on-the-innovators.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/06/23/bringing-on-the-innovators/index.html
+layout: layout.njk
 ---
 Bringing on the Innovators
 ==========================

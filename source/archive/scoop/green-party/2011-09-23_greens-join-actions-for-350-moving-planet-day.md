@@ -1,9 +1,12 @@
 ---
 slug: greens-join-actions-for-350-moving-planet-day
-title: "Greens join actions for 350 Moving Planet Day"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/PA1109/S00445/greens-join-actions-for-350-moving-planet-day.htm
+title: Greens join actions for 350 Moving Planet Day
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00445/greens-join-actions-for-350-moving-planet-day.htm
 author: green-party
+permalink: /archive/2011/09/23/greens-join-actions-for-350-moving-planet-day/index.html
+layout: layout.njk
 ---
 Greens join actions for 350 Moving Planet Day
 =============================================

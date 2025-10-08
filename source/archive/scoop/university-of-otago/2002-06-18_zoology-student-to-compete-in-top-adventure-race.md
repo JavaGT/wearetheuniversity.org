@@ -1,9 +1,13 @@
 ---
 slug: zoology-student-to-compete-in-top-adventure-race
-title: "Zoology Student To Compete In Top Adventure Race"
-date: 2002-06-18
-source-url: https://www.scoop.co.nz/stories/ED0206/S00043/zoology-student-to-compete-in-top-adventure-race.htm
+title: Zoology Student To Compete In Top Adventure Race
+date: 2002-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00043/zoology-student-to-compete-in-top-adventure-race.htm
 author: university-of-otago
+permalink: >-
+  /archive/2002/06/18/zoology-student-to-compete-in-top-adventure-race/index.html
+layout: layout.njk
 ---
 Zoology Student To Compete In Top Adventure Race
 ================================================

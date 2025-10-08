@@ -1,9 +1,12 @@
 ---
 slug: christchurch-residents-open-to-conservatorium
-title: "Christchurch residents open to Conservatorium"
-date: 2009-09-08
-source-url: https://www.scoop.co.nz/stories/AK0909/S00107/christchurch-residents-open-to-conservatorium.htm
+title: Christchurch residents open to Conservatorium
+date: 2009-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0909/S00107/christchurch-residents-open-to-conservatorium.htm
 author: university-of-canterbury
+permalink: /archive/2009/09/08/christchurch-residents-open-to-conservatorium/index.html
+layout: layout.njk
 ---
 Christchurch residents open to Conservatorium
 =============================================

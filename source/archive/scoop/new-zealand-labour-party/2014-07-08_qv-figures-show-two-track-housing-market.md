@@ -1,9 +1,12 @@
 ---
 slug: qv-figures-show-two-track-housing-market
-title: "QV figures show two-track housing market"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/PA1407/S00145/qv-figures-show-two-track-housing-market.htm
+title: QV figures show two-track housing market
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00145/qv-figures-show-two-track-housing-market.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/08/qv-figures-show-two-track-housing-market/index.html
+layout: layout.njk
 ---
 QV figures show two-track housing market
 ========================================

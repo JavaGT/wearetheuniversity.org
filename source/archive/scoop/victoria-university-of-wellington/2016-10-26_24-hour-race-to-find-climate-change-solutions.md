@@ -1,9 +1,12 @@
 ---
 slug: 24-hour-race-to-find-climate-change-solutions
-title: "24 hour race to find climate change solutions"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/AK1610/S00581/24-hour-race-to-find-climate-change-solutions.htm
+title: 24 hour race to find climate change solutions
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1610/S00581/24-hour-race-to-find-climate-change-solutions.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/10/26/24-hour-race-to-find-climate-change-solutions/index.html
+layout: layout.njk
 ---
 24 hour race to find climate change solutions
 =============================================

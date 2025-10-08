@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-action-on-winz-boss
-title: "Greens call for action on WINZ boss"
-date: 2000-02-18
-source-url: https://www.scoop.co.nz/stories/PA0002/S00271/greens-call-for-action-on-winz-boss.htm
+title: Greens call for action on WINZ boss
+date: 2000-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00271/greens-call-for-action-on-winz-boss.htm
 author: green-party
+permalink: /archive/2000/02/18/greens-call-for-action-on-winz-boss/index.html
+layout: layout.njk
 ---
 Greens call for action on WINZ boss
 ===================================

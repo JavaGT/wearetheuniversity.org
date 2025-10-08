@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-hosts-australian-of-the-year
-title: "University Of Otago Hosts Australian Of The Year"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/ED0707/S00066/university-of-otago-hosts-australian-of-the-year.htm
+title: University Of Otago Hosts Australian Of The Year
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00066/university-of-otago-hosts-australian-of-the-year.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/07/19/university-of-otago-hosts-australian-of-the-year/index.html
+layout: layout.njk
 ---
 University Of Otago Hosts Australian Of The Year
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: making-the-health-dollar-go-further
-title: "Making the Health Dollar Go Further"
-date: 2011-02-04
-source-url: https://www.scoop.co.nz/stories/GE1102/S00026/making-the-health-dollar-go-further.htm
+title: Making the Health Dollar Go Further
+date: 2011-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1102/S00026/making-the-health-dollar-go-further.htm
 author: auckland-university
+permalink: /archive/2011/02/04/making-the-health-dollar-go-further/index.html
+layout: layout.njk
 ---
 Making the Health Dollar Go Further
 ===================================

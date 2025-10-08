@@ -1,9 +1,11 @@
 ---
 slug: dna-suggests-moa-once-flew
-title: "DNA suggests Moa once flew"
-date: 2010-01-30
+title: DNA suggests Moa once flew
+date: 2010-01-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1001/S00046/dna-suggests-moa-once-flew.htm
 author: massey-university
+permalink: /archive/2010/01/30/dna-suggests-moa-once-flew/index.html
+layout: layout.njk
 ---
 DNA suggests Moa once flew
 ==========================

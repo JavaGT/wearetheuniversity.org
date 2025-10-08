@@ -1,9 +1,12 @@
 ---
 slug: speech-street-tertiary-education-whose-future
-title: "Speech: Street - Tertiary Education, Whose Future?"
-date: 2009-08-14
-source-url: https://www.scoop.co.nz/stories/PA0908/S00192/speech-street-tertiary-education-whose-future.htm
+title: 'Speech: Street - Tertiary Education, Whose Future?'
+date: 2009-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00192/speech-street-tertiary-education-whose-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/14/speech-street-tertiary-education-whose-future/index.html
+layout: layout.njk
 ---
 Speech: Street - Tertiary Education, Whose Future?
 ==================================================

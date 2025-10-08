@@ -1,9 +1,11 @@
 ---
 slug: drop-out-figures-skyrocket
-title: "Drop Out Figures Skyrocket"
-date: 2001-10-03
+title: Drop Out Figures Skyrocket
+date: 2001-10-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0110/S00079/drop-out-figures-skyrocket.htm
 author: act-new-zealand
+permalink: /archive/2001/10/03/drop-out-figures-skyrocket/index.html
+layout: layout.njk
 ---
 Drop Out Figures Skyrocket
 ==========================

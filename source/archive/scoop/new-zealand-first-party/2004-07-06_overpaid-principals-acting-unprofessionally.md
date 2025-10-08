@@ -1,9 +1,12 @@
 ---
 slug: overpaid-principals-acting-unprofessionally
-title: "Overpaid Principals Acting Unprofessionally"
-date: 2004-07-06
-source-url: https://www.scoop.co.nz/stories/PA0407/S00105/overpaid-principals-acting-unprofessionally.htm
+title: Overpaid Principals Acting Unprofessionally
+date: 2004-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00105/overpaid-principals-acting-unprofessionally.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/06/overpaid-principals-acting-unprofessionally/index.html
+layout: layout.njk
 ---
 Overpaid Principals Acting Unprofessionally
 ===========================================

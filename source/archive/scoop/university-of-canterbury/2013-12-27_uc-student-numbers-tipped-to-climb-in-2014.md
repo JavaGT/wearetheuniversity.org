@@ -1,9 +1,12 @@
 ---
 slug: uc-student-numbers-tipped-to-climb-in-2014
-title: "UC student numbers tipped to climb in 2014"
-date: 2013-12-27
-source-url: https://www.scoop.co.nz/stories/ED1312/S00128/uc-student-numbers-tipped-to-climb-in-2014.htm
+title: UC student numbers tipped to climb in 2014
+date: 2013-12-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00128/uc-student-numbers-tipped-to-climb-in-2014.htm
 author: university-of-canterbury
+permalink: /archive/2013/12/27/uc-student-numbers-tipped-to-climb-in-2014/index.html
+layout: layout.njk
 ---
 UC student numbers tipped to climb in 2014
 ==========================================

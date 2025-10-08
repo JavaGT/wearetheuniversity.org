@@ -1,9 +1,12 @@
 ---
 slug: union-calls-for-decontamination-action-plan
-title: "Union Calls For Decontamination Action Plan"
-date: 2008-02-07
-source-url: https://www.scoop.co.nz/stories/AK0802/S00066/union-calls-for-decontamination-action-plan.htm
+title: Union Calls For Decontamination Action Plan
+date: 2008-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0802/S00066/union-calls-for-decontamination-action-plan.htm
 author: nzei
+permalink: /archive/2008/02/07/union-calls-for-decontamination-action-plan/index.html
+layout: layout.njk
 ---
 Union Calls For Decontamination Action Plan
 ===========================================

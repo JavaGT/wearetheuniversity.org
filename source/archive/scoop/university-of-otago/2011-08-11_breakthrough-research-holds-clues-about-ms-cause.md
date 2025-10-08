@@ -1,9 +1,13 @@
 ---
 slug: breakthrough-research-holds-clues-about-ms-cause
-title: "Breakthrough Research Holds Clues About MS Cause"
-date: 2011-08-11
-source-url: https://www.scoop.co.nz/stories/SC1108/S00035/breakthrough-research-holds-clues-about-ms-cause.htm
+title: Breakthrough Research Holds Clues About MS Cause
+date: 2011-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1108/S00035/breakthrough-research-holds-clues-about-ms-cause.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/08/11/breakthrough-research-holds-clues-about-ms-cause/index.html
+layout: layout.njk
 ---
 Breakthrough Research Holds Clues About MS Cause
 ================================================

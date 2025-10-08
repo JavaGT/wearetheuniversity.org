@@ -1,9 +1,12 @@
 ---
 slug: otago-unemployed-number-hits-22-year-high
-title: "Otago unemployed number hits 22 year high"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/PA1308/S00151/otago-unemployed-number-hits-22-year-high.htm
+title: Otago unemployed number hits 22 year high
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00151/otago-unemployed-number-hits-22-year-high.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/08/otago-unemployed-number-hits-22-year-high/index.html
+layout: layout.njk
 ---
 Otago unemployed number hits 22 year high
 =========================================

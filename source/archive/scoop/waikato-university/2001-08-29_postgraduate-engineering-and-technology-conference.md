@@ -1,9 +1,13 @@
 ---
 slug: postgraduate-engineering-and-technology-conference
-title: "Postgraduate Engineering And Technology Conference"
-date: 2001-08-29
-source-url: https://www.scoop.co.nz/stories/ED0108/S00065/postgraduate-engineering-and-technology-conference.htm
+title: Postgraduate Engineering And Technology Conference
+date: 2001-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00065/postgraduate-engineering-and-technology-conference.htm
 author: waikato-university
+permalink: >-
+  /archive/2001/08/29/postgraduate-engineering-and-technology-conference/index.html
+layout: layout.njk
 ---
 Postgraduate Engineering And Technology Conference
 ==================================================

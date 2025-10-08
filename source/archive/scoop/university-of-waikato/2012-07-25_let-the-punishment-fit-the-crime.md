@@ -1,9 +1,12 @@
 ---
 slug: let-the-punishment-fit-the-crime
-title: "Let the punishment fit the crime"
-date: 2012-07-25
-source-url: https://www.scoop.co.nz/stories/PO1207/S00322/let-the-punishment-fit-the-crime.htm
+title: Let the punishment fit the crime
+date: 2012-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1207/S00322/let-the-punishment-fit-the-crime.htm
 author: university-of-waikato
+permalink: /archive/2012/07/25/let-the-punishment-fit-the-crime/index.html
+layout: layout.njk
 ---
 Let the punishment fit the crime
 ================================

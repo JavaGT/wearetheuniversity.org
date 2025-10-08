@@ -1,9 +1,12 @@
 ---
 slug: best-ideas-can-come-from-the-public
-title: "Best ideas can come from the public"
-date: 2014-02-25
-source-url: https://www.scoop.co.nz/stories/ED1402/S00113/best-ideas-can-come-from-the-public.htm
+title: Best ideas can come from the public
+date: 2014-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00113/best-ideas-can-come-from-the-public.htm
 author: university-of-waikato
+permalink: /archive/2014/02/25/best-ideas-can-come-from-the-public/index.html
+layout: layout.njk
 ---
 Best ideas can come from the public
 ===================================

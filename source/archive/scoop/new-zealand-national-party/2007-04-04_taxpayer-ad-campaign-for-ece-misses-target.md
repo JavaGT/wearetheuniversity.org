@@ -1,9 +1,12 @@
 ---
 slug: taxpayer-ad-campaign-for-ece-misses-target
-title: "Taxpayer ad campaign for ECE misses target"
-date: 2007-04-04
-source-url: https://www.scoop.co.nz/stories/PA0704/S00097/taxpayer-ad-campaign-for-ece-misses-target.htm
+title: Taxpayer ad campaign for ECE misses target
+date: 2007-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00097/taxpayer-ad-campaign-for-ece-misses-target.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/04/taxpayer-ad-campaign-for-ece-misses-target/index.html
+layout: layout.njk
 ---
 Taxpayer ad campaign for ECE misses target
 ==========================================

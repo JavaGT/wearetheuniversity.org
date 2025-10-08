@@ -1,9 +1,13 @@
 ---
 slug: government-locks-in-cuts-and-continues-to-lock-out-students
-title: "Government locks in cuts and continues to lock out students"
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/PO1405/S00269/government-locks-in-cuts-and-continues-to-lock-out-students.htm
+title: Government locks in cuts and continues to lock out students
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00269/government-locks-in-cuts-and-continues-to-lock-out-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/05/16/government-locks-in-cuts-and-continues-to-lock-out-students/index.html
+layout: layout.njk
 ---
 Government locks in cuts and continues to lock out students
 ===========================================================

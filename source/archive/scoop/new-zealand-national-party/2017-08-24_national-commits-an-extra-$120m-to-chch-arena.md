@@ -1,9 +1,12 @@
 ---
 slug: national-commits-an-extra-$120m-to-chch-arena
-title: "National commits an extra $120m to Chch arena"
-date: 2017-08-24
-source-url: https://www.scoop.co.nz/stories/AK1708/S00647/national-commits-an-extra-120m-to-chch-arena.htm
+title: National commits an extra $120m to Chch arena
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1708/S00647/national-commits-an-extra-120m-to-chch-arena.htm
 author: new-zealand-national-party
+permalink: /archive/2017/08/24/national-commits-an-extra-/index.html
+layout: layout.njk
 ---
 National commits an extra $120m to Chch arena
 =============================================

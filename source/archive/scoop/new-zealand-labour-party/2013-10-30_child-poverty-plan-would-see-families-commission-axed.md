@@ -1,9 +1,13 @@
 ---
 slug: child-poverty-plan-would-see-families-commission-axed
-title: "Child poverty plan would see Families Commission axed"
-date: 2013-10-30
-source-url: https://www.scoop.co.nz/stories/PA1310/S00473/child-poverty-plan-would-see-families-commission-axed.htm
+title: Child poverty plan would see Families Commission axed
+date: 2013-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00473/child-poverty-plan-would-see-families-commission-axed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/10/30/child-poverty-plan-would-see-families-commission-axed/index.html
+layout: layout.njk
 ---
 Child poverty plan would see Families Commission axed
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-minister-refuses-to-front-on-erb
-title: "Labour Minister refuses to front on ERB"
-date: 2000-05-03
-source-url: https://www.scoop.co.nz/stories/PA0005/S00071/labour-minister-refuses-to-front-on-erb.htm
+title: Labour Minister refuses to front on ERB
+date: 2000-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00071/labour-minister-refuses-to-front-on-erb.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/03/labour-minister-refuses-to-front-on-erb/index.html
+layout: layout.njk
 ---
 Labour Minister refuses to front on ERB
 =======================================

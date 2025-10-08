@@ -1,9 +1,12 @@
 ---
 slug: professor-rajesh-chandra-moves-on
-title: "Professor Rajesh Chandra moves on"
-date: 2005-03-14
-source-url: https://www.scoop.co.nz/stories/ED0503/S00042/professor-rajesh-chandra-moves-on.htm
+title: Professor Rajesh Chandra moves on
+date: 2005-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00042/professor-rajesh-chandra-moves-on.htm
 author: university-of-the-south-pacific
+permalink: /archive/2005/03/14/professor-rajesh-chandra-moves-on/index.html
+layout: layout.njk
 ---
 Professor Rajesh Chandra moves on
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: its-down-to-the-wire-in-northcote-by-election
-title: "It’s down to the wire in Northcote by-election"
-date: 2018-06-07
-source-url: https://www.scoop.co.nz/stories/PO1806/S00080/its-down-to-the-wire-in-northcote-by-election.htm
+title: It’s down to the wire in Northcote by-election
+date: 2018-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1806/S00080/its-down-to-the-wire-in-northcote-by-election.htm
 author: new-zealand-labour-party
+permalink: /archive/2018/06/07/its-down-to-the-wire-in-northcote-by-election/index.html
+layout: layout.njk
 ---
 It’s down to the wire in Northcote by-election
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: rhetoric-doesnt-match-reality
-title: "Rhetoric Doesn't Match Reality"
-date: 2002-05-09
-source-url: https://www.scoop.co.nz/stories/PA0205/S00192/rhetoric-doesnt-match-reality.htm
+title: Rhetoric Doesn't Match Reality
+date: 2002-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00192/rhetoric-doesnt-match-reality.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/09/rhetoric-doesnt-match-reality/index.html
+layout: layout.njk
 ---
 Rhetoric Doesn't Match Reality
 ==============================

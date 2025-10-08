@@ -1,9 +1,13 @@
 ---
 slug: interest-free-loans-bad-economics-or-smart-investment
-title: "Interest-Free Loans: Bad Economics, or Smart Investment?"
-date: 2012-03-18
-source-url: https://www.scoop.co.nz/stories/WO1203/S00353/interest-free-loans-bad-economics-or-smart-investment.htm
+title: 'Interest-Free Loans: Bad Economics, or Smart Investment?'
+date: 2012-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1203/S00353/interest-free-loans-bad-economics-or-smart-investment.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/03/18/interest-free-loans-bad-economics-or-smart-investment/index.html
+layout: layout.njk
 ---
 Interest-Free Loans: Bad Economics, or Smart Investment?
 ========================================================

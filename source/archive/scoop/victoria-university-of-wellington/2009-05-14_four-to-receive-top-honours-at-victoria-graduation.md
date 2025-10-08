@@ -1,9 +1,13 @@
 ---
 slug: four-to-receive-top-honours-at-victoria-graduation
-title: "Four to receive top honours at Victoria graduation"
-date: 2009-05-14
-source-url: https://www.scoop.co.nz/stories/ED0905/S00058/four-to-receive-top-honours-at-victoria-graduation.htm
+title: Four to receive top honours at Victoria graduation
+date: 2009-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00058/four-to-receive-top-honours-at-victoria-graduation.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/05/14/four-to-receive-top-honours-at-victoria-graduation/index.html
+layout: layout.njk
 ---
 Four to receive top honours at Victoria graduation
 ==================================================

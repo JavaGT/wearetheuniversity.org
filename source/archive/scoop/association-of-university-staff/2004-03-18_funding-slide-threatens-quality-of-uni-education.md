@@ -1,9 +1,13 @@
 ---
 slug: funding-slide-threatens-quality-of-uni-education
-title: "Funding Slide Threatens Quality Of Uni. Education"
-date: 2004-03-18
-source-url: https://www.scoop.co.nz/stories/ED0403/S00075/funding-slide-threatens-quality-of-uni-education.htm
+title: Funding Slide Threatens Quality Of Uni. Education
+date: 2004-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00075/funding-slide-threatens-quality-of-uni-education.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2004/03/18/funding-slide-threatens-quality-of-uni-education/index.html
+layout: layout.njk
 ---
 Funding Slide Threatens Quality Of Uni. Education
 =================================================

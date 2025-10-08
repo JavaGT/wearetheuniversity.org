@@ -1,9 +1,12 @@
 ---
 slug: what-drives-urban-change-in-new-zealand
-title: "What drives urban change in New Zealand?"
-date: 2015-12-08
-source-url: https://www.scoop.co.nz/stories/PO1512/S00087/what-drives-urban-change-in-new-zealand.htm
+title: What drives urban change in New Zealand?
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1512/S00087/what-drives-urban-change-in-new-zealand.htm
 author: university-of-otago
+permalink: /archive/2015/12/08/what-drives-urban-change-in-new-zealand/index.html
+layout: layout.njk
 ---
 What drives urban change in New Zealand?
 ========================================

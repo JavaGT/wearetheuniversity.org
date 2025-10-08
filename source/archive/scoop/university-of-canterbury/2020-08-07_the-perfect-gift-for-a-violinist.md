@@ -1,9 +1,12 @@
 ---
 slug: the-perfect-gift-for-a-violinist
-title: "The Perfect Gift For A Violinist"
-date: 2020-08-07
-source-url: https://www.scoop.co.nz/stories/CU2008/S00051/the-perfect-gift-for-a-violinist.htm
+title: The Perfect Gift For A Violinist
+date: 2020-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2008/S00051/the-perfect-gift-for-a-violinist.htm
 author: university-of-canterbury
+permalink: /archive/2020/08/07/the-perfect-gift-for-a-violinist/index.html
+layout: layout.njk
 ---
 The Perfect Gift For A Violinist
 ================================

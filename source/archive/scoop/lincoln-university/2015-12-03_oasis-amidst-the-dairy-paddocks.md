@@ -1,9 +1,12 @@
 ---
 slug: oasis-amidst-the-dairy-paddocks
-title: "Oasis amidst the dairy paddocks"
-date: 2015-12-03
-source-url: https://www.scoop.co.nz/stories/SC1512/S00024/oasis-amidst-the-dairy-paddocks.htm
+title: Oasis amidst the dairy paddocks
+date: 2015-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00024/oasis-amidst-the-dairy-paddocks.htm
 author: lincoln-university
+permalink: /archive/2015/12/03/oasis-amidst-the-dairy-paddocks/index.html
+layout: layout.njk
 ---
 Oasis amidst the dairy paddocks
 ===============================

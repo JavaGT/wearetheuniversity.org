@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-cuts-will-hurt-students
-title: "Tertiary education cuts will hurt students"
-date: 2009-05-14
-source-url: https://www.scoop.co.nz/stories/ED0905/S00061/tertiary-education-cuts-will-hurt-students.htm
+title: Tertiary education cuts will hurt students
+date: 2009-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00061/tertiary-education-cuts-will-hurt-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/05/14/tertiary-education-cuts-will-hurt-students/index.html
+layout: layout.njk
 ---
 Tertiary education cuts will hurt students
 ==========================================

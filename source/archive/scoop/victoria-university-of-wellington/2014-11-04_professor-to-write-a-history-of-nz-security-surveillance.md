@@ -1,9 +1,13 @@
 ---
 slug: professor-to-write-a-history-of-nz-security-surveillance
-title: "Professor to write a history of NZ security surveillance"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/ED1411/S00016/professor-to-write-a-history-of-nz-security-surveillance.htm
+title: Professor to write a history of NZ security surveillance
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00016/professor-to-write-a-history-of-nz-security-surveillance.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/04/professor-to-write-a-history-of-nz-security-surveillance/index.html
+layout: layout.njk
 ---
 Professor to write a history of NZ security surveillance
 ========================================================

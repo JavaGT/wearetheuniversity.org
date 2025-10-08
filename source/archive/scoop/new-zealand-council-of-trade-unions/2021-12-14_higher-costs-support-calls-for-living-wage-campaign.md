@@ -1,9 +1,13 @@
 ---
 slug: higher-costs-support-calls-for-living-wage-campaign
-title: "Higher Costs Support Calls For Living Wage Campaign"
-date: 2021-12-14
-source-url: https://www.scoop.co.nz/stories/PO2112/S00126/higher-costs-support-calls-for-living-wage-campaign.htm
+title: Higher Costs Support Calls For Living Wage Campaign
+date: 2021-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2112/S00126/higher-costs-support-calls-for-living-wage-campaign.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2021/12/14/higher-costs-support-calls-for-living-wage-campaign/index.html
+layout: layout.njk
 ---
 Higher Costs Support Calls For Living Wage Campaign
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: on-air-expletive-a-sad-fact-free-response
-title: "On-Air Expletive a Sad Fact-Free Response"
-date: 2015-08-23
-source-url: https://www.scoop.co.nz/stories/PA1508/S00381/on-air-expletive-a-sad-fact-free-response.htm
+title: On-Air Expletive a Sad Fact-Free Response
+date: 2015-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00381/on-air-expletive-a-sad-fact-free-response.htm
 author: new-zealand-first-party
+permalink: /archive/2015/08/23/on-air-expletive-a-sad-fact-free-response/index.html
+layout: layout.njk
 ---
 On-Air Expletive a Sad Fact-Free Response
 =========================================

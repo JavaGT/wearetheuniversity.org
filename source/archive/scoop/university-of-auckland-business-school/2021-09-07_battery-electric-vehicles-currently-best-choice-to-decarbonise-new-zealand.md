@@ -1,9 +1,13 @@
 ---
 slug: battery-electric-vehicles-currently-best-choice-to-decarbonise-new-zealand
-title: "Battery Electric Vehicles Currently Best Choice To Decarbonise New Zealand"
-date: 2021-09-07
-source-url: https://www.scoop.co.nz/stories/BU2109/S00165/battery-electric-vehicles-currently-best-choice-to-decarbonise-new-zealand.htm
+title: Battery Electric Vehicles Currently Best Choice To Decarbonise New Zealand
+date: 2021-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2109/S00165/battery-electric-vehicles-currently-best-choice-to-decarbonise-new-zealand.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2021/09/07/battery-electric-vehicles-currently-best-choice-to-decarbonise-new-zealand/index.html
+layout: layout.njk
 ---
 Battery Electric Vehicles Currently Best Choice To Decarbonise New Zealand
 ==========================================================================

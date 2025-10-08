@@ -1,9 +1,12 @@
 ---
 slug: labour-promotes-modern-apprenticeships
-title: "Labour promotes modern apprenticeships"
-date: 1999-07-14
-source-url: https://www.scoop.co.nz/stories/PA9907/S00226/labour-promotes-modern-apprenticeships.htm
+title: Labour promotes modern apprenticeships
+date: 1999-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00226/labour-promotes-modern-apprenticeships.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/14/labour-promotes-modern-apprenticeships/index.html
+layout: layout.njk
 ---
 Labour promotes modern apprenticeships
 ======================================

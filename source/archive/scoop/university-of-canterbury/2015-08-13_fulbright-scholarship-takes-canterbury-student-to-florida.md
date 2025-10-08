@@ -1,9 +1,13 @@
 ---
 slug: fulbright-scholarship-takes-canterbury-student-to-florida
-title: "Fulbright scholarship takes Canterbury student to Florida"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/ED1508/S00056/fulbright-scholarship-takes-canterbury-student-to-florida.htm
+title: Fulbright scholarship takes Canterbury student to Florida
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00056/fulbright-scholarship-takes-canterbury-student-to-florida.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/08/13/fulbright-scholarship-takes-canterbury-student-to-florida/index.html
+layout: layout.njk
 ---
 Fulbright scholarship takes Canterbury student to Florida
 =========================================================

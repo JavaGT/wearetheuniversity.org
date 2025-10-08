@@ -1,9 +1,13 @@
 ---
 slug: otago-rugby-solution-a-huge-relief-to-our-region-labour-mps
-title: "Otago rugby solution a huge relief to our region: Labour MPs"
-date: 2012-03-15
-source-url: https://www.scoop.co.nz/stories/PA1203/S00208/otago-rugby-solution-a-huge-relief-to-our-region-labour-mps.htm
+title: 'Otago rugby solution a huge relief to our region: Labour MPs'
+date: 2012-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00208/otago-rugby-solution-a-huge-relief-to-our-region-labour-mps.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/03/15/otago-rugby-solution-a-huge-relief-to-our-region-labour-mps/index.html
+layout: layout.njk
 ---
 Otago rugby solution a huge relief to our region: Labour MPs
 ============================================================

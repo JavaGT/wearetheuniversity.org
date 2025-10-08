@@ -1,9 +1,13 @@
 ---
 slug: afl-saints-march-in-with-student-designed-guernsey
-title: "AFL Saints march in with student-designed guernsey"
-date: 2014-04-16
-source-url: https://www.scoop.co.nz/stories/CU1404/S00251/afl-saints-march-in-with-student-designed-guernsey.htm
+title: AFL Saints march in with student-designed guernsey
+date: 2014-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00251/afl-saints-march-in-with-student-designed-guernsey.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/16/afl-saints-march-in-with-student-designed-guernsey/index.html
+layout: layout.njk
 ---
 AFL Saints march in with student-designed guernsey
 ==================================================

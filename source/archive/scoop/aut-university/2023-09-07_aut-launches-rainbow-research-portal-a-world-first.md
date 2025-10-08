@@ -1,9 +1,13 @@
 ---
 slug: aut-launches-rainbow-research-portal-a-world-first
-title: "AUT Launches Rainbow Research Portal – A World First"
-date: 2023-09-07
-source-url: https://www.scoop.co.nz/stories/ED2309/S00011/aut-launches-rainbow-research-portal-a-world-first.htm
+title: AUT Launches Rainbow Research Portal – A World First
+date: 2023-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2309/S00011/aut-launches-rainbow-research-portal-a-world-first.htm
 author: aut-university
+permalink: >-
+  /archive/2023/09/07/aut-launches-rainbow-research-portal-a-world-first/index.html
+layout: layout.njk
 ---
 AUT Launches Rainbow Research Portal – A World First
 ====================================================

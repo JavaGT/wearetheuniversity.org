@@ -1,9 +1,13 @@
 ---
 slug: key-cant-duck-blame-for-internet-phone-price-increases
-title: "Key can’t duck blame for internet, phone price increases"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/PA1412/S00222/key-cant-duck-blame-for-internet-phone-price-increases.htm
+title: Key can’t duck blame for internet, phone price increases
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00222/key-cant-duck-blame-for-internet-phone-price-increases.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/12/10/key-cant-duck-blame-for-internet-phone-price-increases/index.html
+layout: layout.njk
 ---
 Key can’t duck blame for internet, phone price increases
 ========================================================

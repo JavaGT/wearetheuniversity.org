@@ -1,9 +1,12 @@
 ---
 slug: violent-endings-in-matthews-gospel
-title: "Violent endings in Matthew’s Gospel"
-date: 2006-06-07
-source-url: https://www.scoop.co.nz/stories/ED0606/S00010/violent-endings-in-matthews-gospel.htm
+title: Violent endings in Matthew’s Gospel
+date: 2006-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00010/violent-endings-in-matthews-gospel.htm
 author: auckland-university
+permalink: /archive/2006/06/07/violent-endings-in-matthews-gospel/index.html
+layout: layout.njk
 ---
 Violent endings in Matthew’s Gospel
 ===================================

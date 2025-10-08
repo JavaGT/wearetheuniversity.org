@@ -1,9 +1,13 @@
 ---
 slug: cambridge-professor-to-lead-victoria-law-faculty
-title: "Cambridge Professor to lead Victoria Law Faculty"
-date: 2006-07-27
-source-url: https://www.scoop.co.nz/stories/ED0607/S00083/cambridge-professor-to-lead-victoria-law-faculty.htm
+title: Cambridge Professor to lead Victoria Law Faculty
+date: 2006-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00083/cambridge-professor-to-lead-victoria-law-faculty.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/07/27/cambridge-professor-to-lead-victoria-law-faculty/index.html
+layout: layout.njk
 ---
 Cambridge Professor to lead Victoria Law Faculty
 ================================================

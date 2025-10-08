@@ -1,9 +1,12 @@
 ---
 slug: christchurch-needs-to-prepare-for-the-big-one
-title: "Christchurch needs to prepare for the big one"
-date: 2010-09-17
-source-url: https://www.scoop.co.nz/stories/ED1009/S00084/christchurch-needs-to-prepare-for-the-big-one.htm
+title: Christchurch needs to prepare for the big one
+date: 2010-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00084/christchurch-needs-to-prepare-for-the-big-one.htm
 author: university-of-canterbury
+permalink: /archive/2010/09/17/christchurch-needs-to-prepare-for-the-big-one/index.html
+layout: layout.njk
 ---
 Christchurch needs to prepare for the big one
 =============================================

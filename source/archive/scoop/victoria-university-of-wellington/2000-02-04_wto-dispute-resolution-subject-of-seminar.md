@@ -1,9 +1,12 @@
 ---
 slug: wto-dispute-resolution-subject-of-seminar
-title: "WTO dispute resolution subject of seminar"
-date: 2000-02-04
-source-url: https://www.scoop.co.nz/stories/BU0002/S00038/wto-dispute-resolution-subject-of-seminar.htm
+title: WTO dispute resolution subject of seminar
+date: 2000-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0002/S00038/wto-dispute-resolution-subject-of-seminar.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/02/04/wto-dispute-resolution-subject-of-seminar/index.html
+layout: layout.njk
 ---
 WTO dispute resolution subject of seminar
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: students-furious-at-doctor-and-teacher-fee-hikes
-title: "Students Furious at Doctor and Teacher Fee Hikes"
-date: 2004-12-15
-source-url: https://www.scoop.co.nz/stories/ED0412/S00051/students-furious-at-doctor-and-teacher-fee-hikes.htm
+title: Students Furious at Doctor and Teacher Fee Hikes
+date: 2004-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00051/students-furious-at-doctor-and-teacher-fee-hikes.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/12/15/students-furious-at-doctor-and-teacher-fee-hikes/index.html
+layout: layout.njk
 ---
 Students Furious at Doctor and Teacher Fee Hikes
 ================================================

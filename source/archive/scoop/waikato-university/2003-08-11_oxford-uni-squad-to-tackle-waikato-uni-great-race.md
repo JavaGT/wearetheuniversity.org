@@ -1,9 +1,13 @@
 ---
 slug: oxford-uni-squad-to-tackle-waikato-uni-great-race
-title: "Oxford Uni Squad to Tackle Waikato Uni Great Race"
-date: 2003-08-11
-source-url: https://www.scoop.co.nz/stories/ED0308/S00035/oxford-uni-squad-to-tackle-waikato-uni-great-race.htm
+title: Oxford Uni Squad to Tackle Waikato Uni Great Race
+date: 2003-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00035/oxford-uni-squad-to-tackle-waikato-uni-great-race.htm
 author: waikato-university
+permalink: >-
+  /archive/2003/08/11/oxford-uni-squad-to-tackle-waikato-uni-great-race/index.html
+layout: layout.njk
 ---
 Oxford Uni Squad to Tackle Waikato Uni Great Race
 =================================================

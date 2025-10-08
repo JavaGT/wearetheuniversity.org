@@ -1,9 +1,12 @@
 ---
 slug: prebble-seeks-urgent-debate-on-apple-industry
-title: "Prebble Seeks Urgent Debate on Apple Industry"
-date: 2001-07-19
-source-url: https://www.scoop.co.nz/stories/PA0107/S00311/prebble-seeks-urgent-debate-on-apple-industry.htm
+title: Prebble Seeks Urgent Debate on Apple Industry
+date: 2001-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00311/prebble-seeks-urgent-debate-on-apple-industry.htm
 author: act-new-zealand
+permalink: /archive/2001/07/19/prebble-seeks-urgent-debate-on-apple-industry/index.html
+layout: layout.njk
 ---
 Prebble Seeks Urgent Debate on Apple Industry
 =============================================

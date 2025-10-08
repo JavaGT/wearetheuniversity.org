@@ -1,9 +1,12 @@
 ---
 slug: council-must-not-rain-on-hero-parade
-title: "Council must not rain on Hero parade"
-date: 2000-04-19
-source-url: https://www.scoop.co.nz/stories/PA0004/S00273/council-must-not-rain-on-hero-parade.htm
+title: Council must not rain on Hero parade
+date: 2000-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00273/council-must-not-rain-on-hero-parade.htm
 author: new-zealand-national-party
+permalink: /archive/2000/04/19/council-must-not-rain-on-hero-parade/index.html
+layout: layout.njk
 ---
 Council must not rain on Hero parade
 ====================================

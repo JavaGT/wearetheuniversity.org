@@ -1,9 +1,12 @@
 ---
 slug: labour-joins-in-commemorating-8-8-88-massacre
-title: "Labour joins in commemorating  8/8/88 massacre"
-date: 2011-08-08
-source-url: https://www.scoop.co.nz/stories/PA1108/S00148/labour-joins-in-commemorating-8888-massacre.htm
+title: Labour joins in commemorating  8/8/88 massacre
+date: 2011-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00148/labour-joins-in-commemorating-8888-massacre.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/08/labour-joins-in-commemorating-8-8-88-massacre/index.html
+layout: layout.njk
 ---
 Labour joins in commemorating 8/8/88 massacre
 =============================================

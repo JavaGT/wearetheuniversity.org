@@ -1,9 +1,13 @@
 ---
 slug: trend-of-new-zealanders-migrating-to-australia-is-cyclical
-title: "Trend of New Zealanders migrating to Australia is cyclical"
-date: 2013-07-23
-source-url: https://www.scoop.co.nz/stories/BU1307/S00822/trend-of-new-zealanders-migrating-to-australia-is-cyclical.htm
+title: Trend of New Zealanders migrating to Australia is cyclical
+date: 2013-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1307/S00822/trend-of-new-zealanders-migrating-to-australia-is-cyclical.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/23/trend-of-new-zealanders-migrating-to-australia-is-cyclical/index.html
+layout: layout.njk
 ---
 Trend of New Zealanders migrating to Australia is cyclical
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: the-power-of-five-too-strong-for-dragons-den-competition
-title: "The power of five too strong for Dragon’s Den competition"
-date: 2012-12-05
-source-url: https://www.scoop.co.nz/stories/ED1212/S00020/the-power-of-five-too-strong-for-dragons-den-competition.htm
+title: The power of five too strong for Dragon’s Den competition
+date: 2012-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00020/the-power-of-five-too-strong-for-dragons-den-competition.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/12/05/the-power-of-five-too-strong-for-dragons-den-competition/index.html
+layout: layout.njk
 ---
 The power of five too strong for Dragon’s Den competition
 =========================================================

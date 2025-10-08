@@ -1,9 +1,12 @@
 ---
 slug: budget-offers-clear-choice-for-workers
-title: "Budget offers clear choice for workers"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/PO0205/S00229/budget-offers-clear-choice-for-workers.htm
+title: Budget offers clear choice for workers
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00229/budget-offers-clear-choice-for-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/05/23/budget-offers-clear-choice-for-workers/index.html
+layout: layout.njk
 ---
 Budget offers clear choice for workers
 ======================================

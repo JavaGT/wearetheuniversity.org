@@ -1,9 +1,12 @@
 ---
 slug: olympic-media-under-spotlight
-title: "Olympic media under spotlight"
-date: 2008-08-11
-source-url: https://www.scoop.co.nz/stories/ED0808/S00019/olympic-media-under-spotlight.htm
+title: Olympic media under spotlight
+date: 2008-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00019/olympic-media-under-spotlight.htm
 author: massey-university
+permalink: /archive/2008/08/11/olympic-media-under-spotlight/index.html
+layout: layout.njk
 ---
 Olympic media under spotlight
 =============================

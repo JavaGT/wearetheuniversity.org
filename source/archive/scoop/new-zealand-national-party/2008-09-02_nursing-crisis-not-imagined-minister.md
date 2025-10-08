@@ -1,9 +1,12 @@
 ---
 slug: nursing-crisis-not-imagined-minister
-title: "Nursing crisis not imagined, Minister"
-date: 2008-09-02
-source-url: https://www.scoop.co.nz/stories/PA0809/S00031/nursing-crisis-not-imagined-minister.htm
+title: Nursing crisis not imagined, Minister
+date: 2008-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00031/nursing-crisis-not-imagined-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/02/nursing-crisis-not-imagined-minister/index.html
+layout: layout.njk
 ---
 Nursing crisis not imagined, Minister
 =====================================

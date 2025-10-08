@@ -1,9 +1,12 @@
 ---
 slug: will-charter-school-farmland-be-lost
-title: "Will Charter School Farmland Be Lost?"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/PA1512/S00364/will-charter-school-farmland-be-lost.htm
+title: Will Charter School Farmland Be Lost?
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00364/will-charter-school-farmland-be-lost.htm
 author: new-zealand-first-party
+permalink: /archive/2015/12/16/will-charter-school-farmland-be-lost/index.html
+layout: layout.njk
 ---
 Will Charter School Farmland Be Lost?
 =====================================

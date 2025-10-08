@@ -1,9 +1,12 @@
 ---
 slug: labour-does-little-to-keep-kids-in-school
-title: "Labour does little to keep kids in school"
-date: 2007-04-23
-source-url: https://www.scoop.co.nz/stories/PA0704/S00364/labour-does-little-to-keep-kids-in-school.htm
+title: Labour does little to keep kids in school
+date: 2007-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00364/labour-does-little-to-keep-kids-in-school.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/23/labour-does-little-to-keep-kids-in-school/index.html
+layout: layout.njk
 ---
 Labour does little to keep kids in school
 =========================================

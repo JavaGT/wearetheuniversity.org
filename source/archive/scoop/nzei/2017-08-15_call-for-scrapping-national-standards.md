@@ -1,9 +1,12 @@
 ---
 slug: call-for-scrapping-national-standards
-title: "Call for scrapping National Standards"
-date: 2017-08-15
-source-url: https://www.scoop.co.nz/stories/ED1708/S00052/call-for-scrapping-national-standards.htm
+title: Call for scrapping National Standards
+date: 2017-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00052/call-for-scrapping-national-standards.htm
 author: nzei
+permalink: /archive/2017/08/15/call-for-scrapping-national-standards/index.html
+layout: layout.njk
 ---
 Call for scrapping National Standards
 =====================================

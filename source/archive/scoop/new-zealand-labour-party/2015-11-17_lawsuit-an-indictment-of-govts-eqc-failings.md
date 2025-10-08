@@ -1,9 +1,12 @@
 ---
 slug: lawsuit-an-indictment-of-govts-eqc-failings
-title: "Lawsuit an indictment of Govt’s EQC failings"
-date: 2015-11-17
-source-url: https://www.scoop.co.nz/stories/PA1511/S00305/lawsuit-an-indictment-of-govts-eqc-failings.htm
+title: Lawsuit an indictment of Govt’s EQC failings
+date: 2015-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00305/lawsuit-an-indictment-of-govts-eqc-failings.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/17/lawsuit-an-indictment-of-govts-eqc-failings/index.html
+layout: layout.njk
 ---
 Lawsuit an indictment of Govt’s EQC failings
 ============================================

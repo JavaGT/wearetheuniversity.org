@@ -1,9 +1,12 @@
 ---
 slug: lincoln-enrolments-back-on-track
-title: "Lincoln enrolments ‘back on track’"
-date: 2015-03-06
-source-url: https://www.scoop.co.nz/stories/ED1503/S00026/lincoln-enrolments-back-on-track.htm
+title: Lincoln enrolments ‘back on track’
+date: 2015-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00026/lincoln-enrolments-back-on-track.htm
 author: lincoln-university
+permalink: /archive/2015/03/06/lincoln-enrolments-back-on-track/index.html
+layout: layout.njk
 ---
 Lincoln enrolments ‘back on track’
 ==================================

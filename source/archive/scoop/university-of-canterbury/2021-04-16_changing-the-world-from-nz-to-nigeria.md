@@ -1,9 +1,12 @@
 ---
 slug: changing-the-world-from-nz-to-nigeria
-title: "Changing The World From NZ To Nigeria"
-date: 2021-04-16
-source-url: https://www.scoop.co.nz/stories/ED2104/S00016/changing-the-world-from-nz-to-nigeria.htm
+title: Changing The World From NZ To Nigeria
+date: 2021-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00016/changing-the-world-from-nz-to-nigeria.htm
 author: university-of-canterbury
+permalink: /archive/2021/04/16/changing-the-world-from-nz-to-nigeria/index.html
+layout: layout.njk
 ---
 Changing The World From NZ To Nigeria
 =====================================

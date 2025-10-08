@@ -1,9 +1,13 @@
 ---
 slug: study-reveals-impact-of-commune-life-on-children
-title: "Study reveals impact of commune life on children"
-date: 2010-05-27
-source-url: https://www.scoop.co.nz/stories/GE1005/S00148/study-reveals-impact-of-commune-life-on-children.htm
+title: Study reveals impact of commune life on children
+date: 2010-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1005/S00148/study-reveals-impact-of-commune-life-on-children.htm
 author: massey-university
+permalink: >-
+  /archive/2010/05/27/study-reveals-impact-of-commune-life-on-children/index.html
+layout: layout.njk
 ---
 Study reveals impact of commune life on children
 ================================================

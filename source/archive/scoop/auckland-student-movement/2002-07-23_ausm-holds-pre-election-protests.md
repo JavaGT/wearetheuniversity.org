@@ -1,9 +1,12 @@
 ---
 slug: ausm-holds-pre-election-protests
-title: "AuSM Holds Pre-Election Protests"
-date: 2002-07-23
-source-url: https://www.scoop.co.nz/stories/ED0207/S00053/ausm-holds-pre-election-protests.htm
+title: AuSM Holds Pre-Election Protests
+date: 2002-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00053/ausm-holds-pre-election-protests.htm
 author: auckland-student-movement
+permalink: /archive/2002/07/23/ausm-holds-pre-election-protests/index.html
+layout: layout.njk
 ---
 AuSM Holds Pre-Election Protests
 ================================

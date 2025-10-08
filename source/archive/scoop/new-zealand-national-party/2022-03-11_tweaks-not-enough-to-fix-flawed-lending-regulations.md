@@ -1,9 +1,13 @@
 ---
 slug: tweaks-not-enough-to-fix-flawed-lending-regulations
-title: "Tweaks Not Enough To Fix Flawed Lending Regulations"
-date: 2022-03-11
-source-url: https://www.scoop.co.nz/stories/PA2203/S00089/tweaks-not-enough-to-fix-flawed-lending-regulations.htm
+title: Tweaks Not Enough To Fix Flawed Lending Regulations
+date: 2022-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00089/tweaks-not-enough-to-fix-flawed-lending-regulations.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/03/11/tweaks-not-enough-to-fix-flawed-lending-regulations/index.html
+layout: layout.njk
 ---
 Tweaks Not Enough To Fix Flawed Lending Regulations
 ===================================================

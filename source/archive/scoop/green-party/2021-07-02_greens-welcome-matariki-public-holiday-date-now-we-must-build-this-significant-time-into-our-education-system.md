@@ -1,9 +1,16 @@
 ---
-slug: greens-welcome-matariki-public-holiday-date-now-we-must-build-this-significant-time-into-our-education-system
-title: "Greens Welcome Matariki Public Holiday Date, Now We Must Build This Significant Time Into Our Education System"
-date: 2021-07-02
-source-url: https://www.scoop.co.nz/stories/PA2107/S00026/greens-welcome-matariki-public-holiday-date-now-we-must-build-this-significant-time-into-our-education-system.htm
+slug: >-
+  greens-welcome-matariki-public-holiday-date-now-we-must-build-this-significant-time-into-our-education-system
+title: >-
+  Greens Welcome Matariki Public Holiday Date, Now We Must Build This
+  Significant Time Into Our Education System
+date: 2021-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00026/greens-welcome-matariki-public-holiday-date-now-we-must-build-this-significant-time-into-our-education-system.htm
 author: green-party
+permalink: >-
+  /archive/2021/07/02/greens-welcome-matariki-public-holiday-date-now-we-must-build-this-significant-time-into-our-education-system/index.html
+layout: layout.njk
 ---
 Greens Welcome Matariki Public Holiday Date, Now We Must Build This Significant Time Into Our Education System
 ==============================================================================================================

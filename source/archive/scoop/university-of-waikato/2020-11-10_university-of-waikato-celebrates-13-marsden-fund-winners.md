@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-celebrates-13-marsden-fund-winners
-title: "University Of Waikato Celebrates 13 Marsden Fund Winners"
-date: 2020-11-10
-source-url: https://www.scoop.co.nz/stories/ED2011/S00022/university-of-waikato-celebrates-13-marsden-fund-winners.htm
+title: University Of Waikato Celebrates 13 Marsden Fund Winners
+date: 2020-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00022/university-of-waikato-celebrates-13-marsden-fund-winners.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/11/10/university-of-waikato-celebrates-13-marsden-fund-winners/index.html
+layout: layout.njk
 ---
 University Of Waikato Celebrates 13 Marsden Fund Winners
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-party-celebrates-the-power-of-whakapapa
-title: "Maori Party Celebrates the Power of Whakapapa"
-date: 2007-09-26
-source-url: https://www.scoop.co.nz/stories/PA0709/S00451/maori-party-celebrates-the-power-of-whakapapa.htm
+title: Maori Party Celebrates the Power of Whakapapa
+date: 2007-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00451/maori-party-celebrates-the-power-of-whakapapa.htm
 author: te-pati-maori
+permalink: /archive/2007/09/26/maori-party-celebrates-the-power-of-whakapapa/index.html
+layout: layout.njk
 ---
 Maori Party Celebrates the Power of Whakapapa
 =============================================

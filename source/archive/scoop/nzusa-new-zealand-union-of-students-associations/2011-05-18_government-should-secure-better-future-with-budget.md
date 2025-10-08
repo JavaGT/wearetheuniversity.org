@@ -1,9 +1,13 @@
 ---
 slug: government-should-secure-better-future-with-budget
-title: "Government Should Secure Better Future with Budget"
-date: 2011-05-18
-source-url: https://www.scoop.co.nz/stories/PO1105/S00259/government-should-secure-better-future-with-budget.htm
+title: Government Should Secure Better Future with Budget
+date: 2011-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00259/government-should-secure-better-future-with-budget.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/05/18/government-should-secure-better-future-with-budget/index.html
+layout: layout.njk
 ---
 Government Should Secure Better Future with Budget
 ==================================================

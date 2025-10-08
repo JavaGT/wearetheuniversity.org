@@ -1,9 +1,13 @@
 ---
 slug: shark-liver-and-giant-squid-on-seal-sea-food-and-eat-it-diet
-title: "Shark liver and giant squid on seal sea-food-and-eat-it diet"
-date: 2016-07-25
-source-url: https://www.scoop.co.nz/stories/SC1607/S00058/shark-liver-and-giant-squid-on-seal-sea-food-and-eat-it-diet.htm
+title: Shark liver and giant squid on seal sea-food-and-eat-it diet
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00058/shark-liver-and-giant-squid-on-seal-sea-food-and-eat-it-diet.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/07/25/shark-liver-and-giant-squid-on-seal-sea-food-and-eat-it-diet/index.html
+layout: layout.njk
 ---
 Shark liver and giant squid on seal sea-food-and-eat-it diet
 ============================================================

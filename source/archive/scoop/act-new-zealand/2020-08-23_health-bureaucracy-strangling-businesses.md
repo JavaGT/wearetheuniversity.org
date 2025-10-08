@@ -1,9 +1,12 @@
 ---
 slug: health-bureaucracy-strangling-businesses
-title: "Health Bureaucracy Strangling Businesses"
-date: 2020-08-23
-source-url: https://www.scoop.co.nz/stories/PO2008/S00272/health-bureaucracy-strangling-businesses.htm
+title: Health Bureaucracy Strangling Businesses
+date: 2020-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00272/health-bureaucracy-strangling-businesses.htm
 author: act-new-zealand
+permalink: /archive/2020/08/23/health-bureaucracy-strangling-businesses/index.html
+layout: layout.njk
 ---
 Health Bureaucracy Strangling Businesses
 ========================================

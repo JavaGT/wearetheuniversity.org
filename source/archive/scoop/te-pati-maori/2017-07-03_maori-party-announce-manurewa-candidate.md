@@ -1,9 +1,12 @@
 ---
 slug: maori-party-announce-manurewa-candidate
-title: "Maori Party announce Manurewa candidate"
-date: 2017-07-03
-source-url: https://www.scoop.co.nz/stories/PO1707/S00025/maori-party-announce-manurewa-candidate.htm
+title: Maori Party announce Manurewa candidate
+date: 2017-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00025/maori-party-announce-manurewa-candidate.htm
 author: te-pati-maori
+permalink: /archive/2017/07/03/maori-party-announce-manurewa-candidate/index.html
+layout: layout.njk
 ---
 Maori Party announce Manurewa candidate
 =======================================

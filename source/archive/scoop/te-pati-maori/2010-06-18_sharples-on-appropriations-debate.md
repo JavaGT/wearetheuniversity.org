@@ -1,9 +1,12 @@
 ---
 slug: sharples-on-appropriations-debate
-title: "Sharples on Appropriations Debate"
-date: 2010-06-18
-source-url: https://www.scoop.co.nz/stories/PA1006/S00286/sharples-on-appropriations-debate.htm
+title: Sharples on Appropriations Debate
+date: 2010-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00286/sharples-on-appropriations-debate.htm
 author: te-pati-maori
+permalink: /archive/2010/06/18/sharples-on-appropriations-debate/index.html
+layout: layout.njk
 ---
 Sharples on Appropriations Debate
 =================================

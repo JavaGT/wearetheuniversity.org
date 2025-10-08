@@ -1,9 +1,11 @@
 ---
 slug: govt-breaks-another-promise
-title: "Govt breaks another promise"
-date: 2009-11-09
+title: Govt breaks another promise
+date: 2009-11-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0911/S00104/govt-breaks-another-promise.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/09/govt-breaks-another-promise/index.html
+layout: layout.njk
 ---
 Govt breaks another promise
 ===========================

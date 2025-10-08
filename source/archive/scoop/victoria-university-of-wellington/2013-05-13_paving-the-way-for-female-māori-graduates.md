@@ -1,9 +1,12 @@
 ---
 slug: paving-the-way-for-female-māori-graduates
-title: "Paving the Way For Female Māori Graduates"
-date: 2013-05-13
-source-url: https://www.scoop.co.nz/stories/ED1305/S00078/paving-the-way-for-female-maori-graduates.htm
+title: Paving the Way For Female Māori Graduates
+date: 2013-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00078/paving-the-way-for-female-maori-graduates.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/13/paving-the-way-for-female-m/index.html
+layout: layout.njk
 ---
 Paving the Way For Female Māori Graduates
 =========================================

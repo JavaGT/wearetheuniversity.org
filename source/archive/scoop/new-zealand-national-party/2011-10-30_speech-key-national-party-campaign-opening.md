@@ -1,9 +1,12 @@
 ---
 slug: speech-key-national-party-campaign-opening
-title: "Speech: Key - National Party Campaign Opening"
-date: 2011-10-30
-source-url: https://www.scoop.co.nz/stories/PA1110/S00477/speech-key-national-party-campaign-opening.htm
+title: 'Speech: Key - National Party Campaign Opening'
+date: 2011-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00477/speech-key-national-party-campaign-opening.htm
 author: new-zealand-national-party
+permalink: /archive/2011/10/30/speech-key-national-party-campaign-opening/index.html
+layout: layout.njk
 ---
 Speech: Key - National Party Campaign Opening
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: waikato-graduates-aim-high
-title: "Waikato Graduates Aim High"
-date: 2010-10-20
+title: Waikato Graduates Aim High
+date: 2010-10-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1010/S00337/waikato-graduates-aim-high.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/20/waikato-graduates-aim-high/index.html
+layout: layout.njk
 ---
 Waikato Graduates Aim High
 ==========================

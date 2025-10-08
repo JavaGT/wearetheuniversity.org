@@ -1,9 +1,13 @@
 ---
 slug: uc-student-in-top-20-of-20000-chemistry-students
-title: "UC Student In Top 20 Of 20,000 Chemistry Students"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/ED1211/S00131/uc-student-in-top-20-of-20000-chemistry-students.htm
+title: UC Student In Top 20 Of 20,000 Chemistry Students
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00131/uc-student-in-top-20-of-20000-chemistry-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/20/uc-student-in-top-20-of-20000-chemistry-students/index.html
+layout: layout.njk
 ---
 UC Student In Top 20 Of 20,000 Chemistry Students
 =================================================

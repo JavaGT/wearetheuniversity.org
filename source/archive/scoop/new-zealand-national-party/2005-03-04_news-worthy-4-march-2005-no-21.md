@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-4-march-2005-no-21
-title: "News Worthy - 4 March 2005 - No. 21"
-date: 2005-03-04
-source-url: https://www.scoop.co.nz/stories/PA0503/S00096/news-worthy-4-march-2005-no-21.htm
+title: News Worthy - 4 March 2005 - No. 21
+date: 2005-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00096/news-worthy-4-march-2005-no-21.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/04/news-worthy-4-march-2005-no-21/index.html
+layout: layout.njk
 ---
 News Worthy - 4 March 2005 - No. 21
 ===================================

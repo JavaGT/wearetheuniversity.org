@@ -1,9 +1,12 @@
 ---
 slug: todays-9-year-olds-tomorrows-problem-gamblers
-title: "Today’s 9 year olds - tomorrow’s problem gamblers?"
-date: 2012-09-11
-source-url: https://www.scoop.co.nz/stories/ED1209/S00074/todays-9-year-olds-tomorrows-problem-gamblers.htm
+title: Today’s 9 year olds - tomorrow’s problem gamblers?
+date: 2012-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00074/todays-9-year-olds-tomorrows-problem-gamblers.htm
 author: aut-university
+permalink: /archive/2012/09/11/todays-9-year-olds-tomorrows-problem-gamblers/index.html
+layout: layout.njk
 ---
 Today’s 9 year olds - tomorrow’s problem gamblers?
 ==================================================

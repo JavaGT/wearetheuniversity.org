@@ -1,9 +1,11 @@
 ---
 slug: how-to-be-a-world-citizen
-title: "How to be a world citizen"
-date: 2005-04-11
+title: How to be a world citizen
+date: 2005-04-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0504/S00027/how-to-be-a-world-citizen.htm
 author: university-of-otago
+permalink: /archive/2005/04/11/how-to-be-a-world-citizen/index.html
+layout: layout.njk
 ---
 How to be a world citizen
 =========================

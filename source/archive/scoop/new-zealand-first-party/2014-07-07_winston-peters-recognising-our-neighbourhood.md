@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-recognising-our-neighbourhood
-title: "Winston Peters: Recognising Our Neighbourhood"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/PA1407/S00127/winston-peters-recognising-our-neighbourhood.htm
+title: 'Winston Peters: Recognising Our Neighbourhood'
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00127/winston-peters-recognising-our-neighbourhood.htm
 author: new-zealand-first-party
+permalink: /archive/2014/07/07/winston-peters-recognising-our-neighbourhood/index.html
+layout: layout.njk
 ---
 Winston Peters: Recognising Our Neighbourhood
 =============================================

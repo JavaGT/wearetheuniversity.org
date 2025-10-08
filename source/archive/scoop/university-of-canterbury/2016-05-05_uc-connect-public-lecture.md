@@ -1,9 +1,11 @@
 ---
 slug: uc-connect-public-lecture
-title: "UC Connect public lecture"
-date: 2016-05-05
+title: UC Connect public lecture
+date: 2016-05-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1605/S00054/uc-connect-public-lecture.htm
 author: university-of-canterbury
+permalink: /archive/2016/05/05/uc-connect-public-lecture/index.html
+layout: layout.njk
 ---
 UC Connect public lecture
 =========================

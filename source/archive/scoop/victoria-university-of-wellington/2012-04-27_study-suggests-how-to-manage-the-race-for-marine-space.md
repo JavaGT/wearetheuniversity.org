@@ -1,9 +1,13 @@
 ---
 slug: study-suggests-how-to-manage-the-race-for-marine-space
-title: "Study suggests how to manage the ‘race for marine space’"
-date: 2012-04-27
-source-url: https://www.scoop.co.nz/stories/PO1204/S00310/study-suggests-how-to-manage-the-race-for-marine-space.htm
+title: Study suggests how to manage the ‘race for marine space’
+date: 2012-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1204/S00310/study-suggests-how-to-manage-the-race-for-marine-space.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/04/27/study-suggests-how-to-manage-the-race-for-marine-space/index.html
+layout: layout.njk
 ---
 Study suggests how to manage the ‘race for marine space’
 ========================================================

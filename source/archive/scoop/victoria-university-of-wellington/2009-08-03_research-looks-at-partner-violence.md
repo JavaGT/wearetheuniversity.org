@@ -1,9 +1,12 @@
 ---
 slug: research-looks-at-partner-violence
-title: "Research looks at partner violence"
-date: 2009-08-03
-source-url: https://www.scoop.co.nz/stories/ED0908/S00008/research-looks-at-partner-violence.htm
+title: Research looks at partner violence
+date: 2009-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00008/research-looks-at-partner-violence.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/08/03/research-looks-at-partner-violence/index.html
+layout: layout.njk
 ---
 Research looks at partner violence
 ==================================

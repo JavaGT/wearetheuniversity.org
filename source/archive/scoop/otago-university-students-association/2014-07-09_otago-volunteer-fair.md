@@ -1,9 +1,11 @@
 ---
 slug: otago-volunteer-fair
-title: "Otago Volunteer Fair"
-date: 2014-07-09
+title: Otago Volunteer Fair
+date: 2014-07-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1407/S00060/otago-volunteer-fair.htm
 author: otago-university-students-association
+permalink: /archive/2014/07/09/otago-volunteer-fair/index.html
+layout: layout.njk
 ---
 Otago Volunteer Fair
 ====================

@@ -1,9 +1,11 @@
 ---
 slug: goff-the-squeezed-middle
-title: "Goff: The squeezed middle"
-date: 2010-12-06
+title: 'Goff: The squeezed middle'
+date: 2010-12-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1012/S00055/goff-the-squeezed-middle.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/06/goff-the-squeezed-middle/index.html
+layout: layout.njk
 ---
 Goff: The squeezed middle
 =========================

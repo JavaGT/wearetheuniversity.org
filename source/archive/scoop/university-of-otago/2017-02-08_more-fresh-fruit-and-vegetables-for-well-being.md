@@ -1,9 +1,12 @@
 ---
 slug: more-fresh-fruit-and-vegetables-for-well-being
-title: "More fresh fruit and vegetables for well-being"
-date: 2017-02-08
-source-url: https://www.scoop.co.nz/stories/GE1702/S00032/more-fresh-fruit-and-vegetables-for-well-being.htm
+title: More fresh fruit and vegetables for well-being
+date: 2017-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1702/S00032/more-fresh-fruit-and-vegetables-for-well-being.htm
 author: university-of-otago
+permalink: /archive/2017/02/08/more-fresh-fruit-and-vegetables-for-well-being/index.html
+layout: layout.njk
 ---
 More fresh fruit and vegetables for well-being
 ==============================================

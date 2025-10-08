@@ -1,8 +1,11 @@
 ---
 slug: ocean-between-nz-and-australia-a-hotspot
-title: "Ocean between NZ and Australia a \"hotspot\""
-date: 2016-08-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/ocean-between-nz-and-australia-a-hotspot.html
+title: Ocean between NZ and Australia a "hotspot"
+date: 2016-08-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/ocean-between-nz-and-australia-a-hotspot.html
+permalink: /archive/2016/08/29/ocean-between-nz-and-australia-a-hotspot/index.html
+layout: layout.njk
 ---
 Ocean between NZ and Australia a “hotspot”
 ==========================================

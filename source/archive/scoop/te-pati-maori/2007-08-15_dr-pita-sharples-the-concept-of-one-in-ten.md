@@ -1,9 +1,12 @@
 ---
 slug: dr-pita-sharples-the-concept-of-one-in-ten
-title: "Dr Pita Sharples: the concept of one in ten"
-date: 2007-08-15
-source-url: https://www.scoop.co.nz/stories/PA0708/S00233/dr-pita-sharples-the-concept-of-one-in-ten.htm
+title: 'Dr Pita Sharples: the concept of one in ten'
+date: 2007-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00233/dr-pita-sharples-the-concept-of-one-in-ten.htm
 author: te-pati-maori
+permalink: /archive/2007/08/15/dr-pita-sharples-the-concept-of-one-in-ten/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples: the concept of one in ten
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: aut-and-zeacann-green-light-medicinal-cannabis
-title: "AUT and Zeacann green light medicinal cannabis"
-date: 2019-12-13
-source-url: https://www.scoop.co.nz/stories/ED1912/S00037/aut-and-zeacann-green-light-medicinal-cannabis.htm
+title: AUT and Zeacann green light medicinal cannabis
+date: 2019-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00037/aut-and-zeacann-green-light-medicinal-cannabis.htm
 author: aut-university
+permalink: /archive/2019/12/13/aut-and-zeacann-green-light-medicinal-cannabis/index.html
+layout: layout.njk
 ---
 AUT and Zeacann green light medicinal cannabis
 ==============================================

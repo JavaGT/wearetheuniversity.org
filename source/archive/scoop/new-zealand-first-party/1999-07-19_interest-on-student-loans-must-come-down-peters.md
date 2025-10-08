@@ -1,9 +1,12 @@
 ---
 slug: interest-on-student-loans-must-come-down-peters
-title: "Interest On Student Loans Must Come Down - Peters"
-date: 1999-07-19
-source-url: https://www.scoop.co.nz/stories/PA9907/S00317/interest-on-student-loans-must-come-down-peters.htm
+title: Interest On Student Loans Must Come Down - Peters
+date: 1999-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00317/interest-on-student-loans-must-come-down-peters.htm
 author: new-zealand-first-party
+permalink: /archive/1999/07/19/interest-on-student-loans-must-come-down-peters/index.html
+layout: layout.njk
 ---
 Interest On Student Loans Must Come Down - Peters
 =================================================

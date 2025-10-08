@@ -1,8 +1,12 @@
 ---
 slug: our-future-wireless-world-what-might-2020-look-like
-title: "Our future wireless world: what might 2020 look like?"
-date: 2015-10-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/our-future-wireless-world--what-might-2020-look-like--.html
+title: 'Our future wireless world: what might 2020 look like?'
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/our-future-wireless-world--what-might-2020-look-like--.html
+permalink: >-
+  /archive/2015/10/15/our-future-wireless-world-what-might-2020-look-like/index.html
+layout: layout.njk
 ---
 Our future wireless world: what might 2020 look like?
 =====================================================

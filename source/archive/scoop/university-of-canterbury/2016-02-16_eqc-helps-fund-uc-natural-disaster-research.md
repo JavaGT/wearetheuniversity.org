@@ -1,9 +1,12 @@
 ---
 slug: eqc-helps-fund-uc-natural-disaster-research
-title: "EQC helps fund UC natural disaster research"
-date: 2016-02-16
-source-url: https://www.scoop.co.nz/stories/SC1602/S00044/eqc-helps-fund-uc-natural-disaster-research.htm
+title: EQC helps fund UC natural disaster research
+date: 2016-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00044/eqc-helps-fund-uc-natural-disaster-research.htm
 author: university-of-canterbury
+permalink: /archive/2016/02/16/eqc-helps-fund-uc-natural-disaster-research/index.html
+layout: layout.njk
 ---
 EQC helps fund UC natural disaster research
 ===========================================

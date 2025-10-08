@@ -1,9 +1,13 @@
 ---
 slug: mummified-seals-in-antarctica-help-to-predict-climate-change
-title: "Mummified seals in Antarctica help to predict climate change"
-date: 2012-02-08
-source-url: https://www.scoop.co.nz/stories/SC1202/S00016/mummified-seals-in-antarctica-help-to-predict-climate-change.htm
+title: Mummified seals in Antarctica help to predict climate change
+date: 2012-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1202/S00016/mummified-seals-in-antarctica-help-to-predict-climate-change.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/02/08/mummified-seals-in-antarctica-help-to-predict-climate-change/index.html
+layout: layout.njk
 ---
 Mummified seals in Antarctica help to predict climate change
 ============================================================

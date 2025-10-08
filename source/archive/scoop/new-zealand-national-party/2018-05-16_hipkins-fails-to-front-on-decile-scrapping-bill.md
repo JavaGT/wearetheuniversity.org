@@ -1,9 +1,12 @@
 ---
 slug: hipkins-fails-to-front-on-decile-scrapping-bill
-title: "Hipkins fails to front on decile-scrapping bill"
-date: 2018-05-16
-source-url: https://www.scoop.co.nz/stories/PA1805/S00209/hipkins-fails-to-front-on-decile-scrapping-bill.htm
+title: Hipkins fails to front on decile-scrapping bill
+date: 2018-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00209/hipkins-fails-to-front-on-decile-scrapping-bill.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/16/hipkins-fails-to-front-on-decile-scrapping-bill/index.html
+layout: layout.njk
 ---
 Hipkins fails to front on decile-scrapping bill
 ===============================================

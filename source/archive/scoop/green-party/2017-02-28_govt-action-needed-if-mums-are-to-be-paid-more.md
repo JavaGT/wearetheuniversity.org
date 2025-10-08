@@ -1,9 +1,12 @@
 ---
 slug: govt-action-needed-if-mums-are-to-be-paid-more
-title: "Govt action needed if mums are to be paid more"
-date: 2017-02-28
-source-url: https://www.scoop.co.nz/stories/PA1702/S00393/govt-action-needed-if-mums-are-to-be-paid-more.htm
+title: Govt action needed if mums are to be paid more
+date: 2017-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00393/govt-action-needed-if-mums-are-to-be-paid-more.htm
 author: green-party
+permalink: /archive/2017/02/28/govt-action-needed-if-mums-are-to-be-paid-more/index.html
+layout: layout.njk
 ---
 Govt action needed if mums are to be paid more
 ==============================================

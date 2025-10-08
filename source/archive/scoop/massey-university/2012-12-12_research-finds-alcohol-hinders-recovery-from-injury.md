@@ -1,9 +1,13 @@
 ---
 slug: research-finds-alcohol-hinders-recovery-from-injury
-title: "Research finds alcohol hinders recovery from injury"
-date: 2012-12-12
-source-url: https://www.scoop.co.nz/stories/SC1212/S00031/research-finds-alcohol-hinders-recovery-from-injury.htm
+title: Research finds alcohol hinders recovery from injury
+date: 2012-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00031/research-finds-alcohol-hinders-recovery-from-injury.htm
 author: massey-university
+permalink: >-
+  /archive/2012/12/12/research-finds-alcohol-hinders-recovery-from-injury/index.html
+layout: layout.njk
 ---
 Research finds alcohol hinders recovery from injury
 ===================================================

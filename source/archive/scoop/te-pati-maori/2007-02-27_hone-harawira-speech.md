@@ -1,9 +1,11 @@
 ---
 slug: hone-harawira-speech
-title: "Hone Harawira - Speech"
-date: 2007-02-27
+title: Hone Harawira - Speech
+date: 2007-02-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0702/S00513/hone-harawira-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/02/27/hone-harawira-speech/index.html
+layout: layout.njk
 ---
 Hone Harawira - Speech
 ======================

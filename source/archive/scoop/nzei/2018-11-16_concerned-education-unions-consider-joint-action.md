@@ -1,9 +1,13 @@
 ---
 slug: concerned-education-unions-consider-joint-action
-title: "Concerned education unions consider joint action"
-date: 2018-11-16
-source-url: https://www.scoop.co.nz/stories/ED1811/S00039/concerned-education-unions-consider-joint-action.htm
+title: Concerned education unions consider joint action
+date: 2018-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1811/S00039/concerned-education-unions-consider-joint-action.htm
 author: nzei
+permalink: >-
+  /archive/2018/11/16/concerned-education-unions-consider-joint-action/index.html
+layout: layout.njk
 ---
 Concerned education unions consider joint action
 ================================================

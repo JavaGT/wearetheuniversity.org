@@ -1,9 +1,12 @@
 ---
 slug: education-system-rates-d-for-failing-maori-&-pi
-title: "Education system rates D- for failing Maori & PI"
-date: 2003-09-15
-source-url: https://www.scoop.co.nz/stories/PA0309/S00318/education-system-rates-d-for-failing-maori-pi.htm
+title: Education system rates D- for failing Maori & PI
+date: 2003-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00318/education-system-rates-d-for-failing-maori-pi.htm
 author: green-party
+permalink: /archive/2003/09/15/education-system-rates-d-for-failing-maori-/index.html
+layout: layout.njk
 ---
 Education system rates D- for failing Maori & PI
 ================================================

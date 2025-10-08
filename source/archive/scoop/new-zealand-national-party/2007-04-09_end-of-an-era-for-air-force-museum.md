@@ -1,9 +1,12 @@
 ---
 slug: end-of-an-era-for-air-force-museum
-title: "End of an era for Air Force Museum?"
-date: 2007-04-09
-source-url: https://www.scoop.co.nz/stories/PA0704/S00158/end-of-an-era-for-air-force-museum.htm
+title: End of an era for Air Force Museum?
+date: 2007-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00158/end-of-an-era-for-air-force-museum.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/09/end-of-an-era-for-air-force-museum/index.html
+layout: layout.njk
 ---
 End of an era for Air Force Museum?
 ===================================

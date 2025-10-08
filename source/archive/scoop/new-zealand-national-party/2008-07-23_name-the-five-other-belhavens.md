@@ -1,9 +1,12 @@
 ---
 slug: name-the-five-other-belhavens
-title: "Name the five other ‘Belhavens’"
-date: 2008-07-23
-source-url: https://www.scoop.co.nz/stories/PA0807/S00402/name-the-five-other-belhavens.htm
+title: Name the five other ‘Belhavens’
+date: 2008-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00402/name-the-five-other-belhavens.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/23/name-the-five-other-belhavens/index.html
+layout: layout.njk
 ---
 Name the five other ‘Belhavens’
 ===============================

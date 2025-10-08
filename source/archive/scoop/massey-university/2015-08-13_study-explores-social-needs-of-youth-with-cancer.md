@@ -1,9 +1,13 @@
 ---
 slug: study-explores-social-needs-of-youth-with-cancer
-title: "Study explores social needs of youth with cancer"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/ED1508/S00065/study-explores-social-needs-of-youth-with-cancer.htm
+title: Study explores social needs of youth with cancer
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00065/study-explores-social-needs-of-youth-with-cancer.htm
 author: massey-university
+permalink: >-
+  /archive/2015/08/13/study-explores-social-needs-of-youth-with-cancer/index.html
+layout: layout.njk
 ---
 Study explores social needs of youth with cancer
 ================================================

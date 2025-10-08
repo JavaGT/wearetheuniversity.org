@@ -1,9 +1,12 @@
 ---
 slug: first-in-family-scholarship-inspires-others
-title: "First-in-family scholarship inspires others"
-date: 2017-04-07
-source-url: https://www.scoop.co.nz/stories/ED1704/S00026/first-in-family-scholarship-inspires-others.htm
+title: First-in-family scholarship inspires others
+date: 2017-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00026/first-in-family-scholarship-inspires-others.htm
 author: aut-university
+permalink: /archive/2017/04/07/first-in-family-scholarship-inspires-others/index.html
+layout: layout.njk
 ---
 First-in-family scholarship inspires others
 ===========================================

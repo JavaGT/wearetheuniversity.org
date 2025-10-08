@@ -1,9 +1,12 @@
 ---
 slug: national-will-create-a-social-investment-fund
-title: "National Will Create A Social Investment Fund"
-date: 2022-10-19
-source-url: https://www.scoop.co.nz/stories/PA2210/S00128/national-will-create-a-social-investment-fund.htm
+title: National Will Create A Social Investment Fund
+date: 2022-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00128/national-will-create-a-social-investment-fund.htm
 author: new-zealand-national-party
+permalink: /archive/2022/10/19/national-will-create-a-social-investment-fund/index.html
+layout: layout.njk
 ---
 National Will Create A Social Investment Fund
 =============================================

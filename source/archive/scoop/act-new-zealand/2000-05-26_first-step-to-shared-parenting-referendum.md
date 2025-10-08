@@ -1,9 +1,12 @@
 ---
 slug: first-step-to-shared-parenting-referendum
-title: "First Step To Shared Parenting Referendum"
-date: 2000-05-26
-source-url: https://www.scoop.co.nz/stories/PA0005/S00591/first-step-to-shared-parenting-referendum.htm
+title: First Step To Shared Parenting Referendum
+date: 2000-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00591/first-step-to-shared-parenting-referendum.htm
 author: act-new-zealand
+permalink: /archive/2000/05/26/first-step-to-shared-parenting-referendum/index.html
+layout: layout.njk
 ---
 First Step To Shared Parenting Referendum
 =========================================

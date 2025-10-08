@@ -1,9 +1,13 @@
 ---
 slug: graduation-brings-450-former-students-back-to-town
-title: "Graduation brings 450 former students back to town"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/ED1211/S00175/graduation-brings-450-former-students-back-to-town.htm
+title: Graduation brings 450 former students back to town
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00175/graduation-brings-450-former-students-back-to-town.htm
 author: massey-university
+permalink: >-
+  /archive/2012/11/23/graduation-brings-450-former-students-back-to-town/index.html
+layout: layout.njk
 ---
 Graduation brings 450 former students back to town
 ==================================================

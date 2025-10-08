@@ -1,9 +1,12 @@
 ---
 slug: new-mandatory-timber-chemicals-toxic-says-eu
-title: "New mandatory timber chemicals toxic, says EU"
-date: 2011-03-16
-source-url: https://www.scoop.co.nz/stories/PA1103/S00258/new-mandatory-timber-chemicals-toxic-says-eu.htm
+title: New mandatory timber chemicals toxic, says EU
+date: 2011-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00258/new-mandatory-timber-chemicals-toxic-says-eu.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/03/16/new-mandatory-timber-chemicals-toxic-says-eu/index.html
+layout: layout.njk
 ---
 New mandatory timber chemicals toxic, says EU
 =============================================

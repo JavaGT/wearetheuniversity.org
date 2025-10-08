@@ -1,9 +1,13 @@
 ---
 slug: expanding-chch-nightlife-all-set-for-cup-week-next-week
-title: "Expanding Chch nightlife all set for Cup Week next week"
-date: 2013-11-05
-source-url: https://www.scoop.co.nz/stories/AK1311/S00134/expanding-chch-nightlife-all-set-for-cup-week-next-week.htm
+title: Expanding Chch nightlife all set for Cup Week next week
+date: 2013-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00134/expanding-chch-nightlife-all-set-for-cup-week-next-week.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/05/expanding-chch-nightlife-all-set-for-cup-week-next-week/index.html
+layout: layout.njk
 ---
 Expanding Chch nightlife all set for Cup Week next week
 =======================================================

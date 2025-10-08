@@ -1,9 +1,13 @@
 ---
 slug: fine-arts-graduate-youngest-finalist-in-the-wallace-awards
-title: "Fine arts graduate youngest finalist in the Wallace Awards"
-date: 2014-10-03
-source-url: https://www.scoop.co.nz/stories/CU1410/S00067/fine-arts-graduate-youngest-finalist-in-the-wallace-awards.htm
+title: Fine arts graduate youngest finalist in the Wallace Awards
+date: 2014-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00067/fine-arts-graduate-youngest-finalist-in-the-wallace-awards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/10/03/fine-arts-graduate-youngest-finalist-in-the-wallace-awards/index.html
+layout: layout.njk
 ---
 Fine arts graduate youngest finalist in the Wallace Awards
 ==========================================================

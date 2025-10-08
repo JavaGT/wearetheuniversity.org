@@ -1,9 +1,12 @@
 ---
 slug: government-fees-policy-fails-students
-title: "Government Fees Policy Fails Students"
-date: 2004-10-27
-source-url: https://www.scoop.co.nz/stories/ED0410/S00091/government-fees-policy-fails-students.htm
+title: Government Fees Policy Fails Students
+date: 2004-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00091/government-fees-policy-fails-students.htm
 author: auckland-student-movement
+permalink: /archive/2004/10/27/government-fees-policy-fails-students/index.html
+layout: layout.njk
 ---
 Government Fees Policy Fails Students
 =====================================

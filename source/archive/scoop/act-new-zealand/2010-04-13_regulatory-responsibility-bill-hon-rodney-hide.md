@@ -1,9 +1,12 @@
 ---
 slug: regulatory-responsibility-bill-hon-rodney-hide
-title: "Regulatory Responsibility Bill - Hon Rodney Hide"
-date: 2010-04-13
-source-url: https://www.scoop.co.nz/stories/PA1004/S00111/regulatory-responsibility-bill-hon-rodney-hide.htm
+title: Regulatory Responsibility Bill - Hon Rodney Hide
+date: 2010-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00111/regulatory-responsibility-bill-hon-rodney-hide.htm
 author: act-new-zealand
+permalink: /archive/2010/04/13/regulatory-responsibility-bill-hon-rodney-hide/index.html
+layout: layout.njk
 ---
 Regulatory Responsibility Bill - Hon Rodney Hide
 ================================================

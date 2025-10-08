@@ -1,9 +1,12 @@
 ---
 slug: victoria-researcher-questions-tribunal-history
-title: "Victoria researcher questions Tribunal history"
-date: 2004-05-03
-source-url: https://www.scoop.co.nz/stories/ED0405/S00004/victoria-researcher-questions-tribunal-history.htm
+title: Victoria researcher questions Tribunal history
+date: 2004-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00004/victoria-researcher-questions-tribunal-history.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/05/03/victoria-researcher-questions-tribunal-history/index.html
+layout: layout.njk
 ---
 Victoria researcher questions Tribunal history
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: sharples-every-day-is-childrens-day
-title: "Sharples: Every day is Children's Day"
-date: 2008-03-05
-source-url: https://www.scoop.co.nz/stories/PA0803/S00046/sharples-every-day-is-childrens-day.htm
+title: 'Sharples: Every day is Children''s Day'
+date: 2008-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00046/sharples-every-day-is-childrens-day.htm
 author: te-pati-maori
+permalink: /archive/2008/03/05/sharples-every-day-is-childrens-day/index.html
+layout: layout.njk
 ---
 Sharples: Every day is Children's Day
 =====================================

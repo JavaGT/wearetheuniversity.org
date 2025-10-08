@@ -1,9 +1,12 @@
 ---
 slug: hutt-valley-hosts-national-science-challenge
-title: "Hutt Valley hosts National Science Challenge"
-date: 2015-09-22
-source-url: https://www.scoop.co.nz/stories/PA1509/S00365/hutt-valley-hosts-national-science-challenge.htm
+title: Hutt Valley hosts National Science Challenge
+date: 2015-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00365/hutt-valley-hosts-national-science-challenge.htm
 author: new-zealand-national-party
+permalink: /archive/2015/09/22/hutt-valley-hosts-national-science-challenge/index.html
+layout: layout.njk
 ---
 Hutt Valley hosts National Science Challenge
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: key-treats-cantabrians-with-contempt
-title: "Key Treats Cantabrians With Contempt"
-date: 2013-03-26
-source-url: https://www.scoop.co.nz/stories/PA1303/S00450/key-treats-cantabrians-with-contempt.htm
+title: Key Treats Cantabrians With Contempt
+date: 2013-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00450/key-treats-cantabrians-with-contempt.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/26/key-treats-cantabrians-with-contempt/index.html
+layout: layout.njk
 ---
 Key Treats Cantabrians With Contempt
 ====================================

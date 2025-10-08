@@ -1,9 +1,13 @@
 ---
 slug: government-needs-to-sort-out-auckland-border-mess
-title: "Government Needs To Sort Out Auckland Border Mess"
-date: 2020-08-17
-source-url: https://www.scoop.co.nz/stories/PA2008/S00143/government-needs-to-sort-out-auckland-border-mess.htm
+title: Government Needs To Sort Out Auckland Border Mess
+date: 2020-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00143/government-needs-to-sort-out-auckland-border-mess.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/17/government-needs-to-sort-out-auckland-border-mess/index.html
+layout: layout.njk
 ---
 Government Needs To Sort Out Auckland Border Mess
 =================================================

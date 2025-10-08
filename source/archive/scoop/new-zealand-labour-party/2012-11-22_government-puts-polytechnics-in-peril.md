@@ -1,9 +1,12 @@
 ---
 slug: government-puts-polytechnics-in-peril
-title: "Government Puts Polytechnics In Peril"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/PA1211/S00367/government-puts-polytechnics-in-peril.htm
+title: Government Puts Polytechnics In Peril
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00367/government-puts-polytechnics-in-peril.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/22/government-puts-polytechnics-in-peril/index.html
+layout: layout.njk
 ---
 Government Puts Polytechnics In Peril
 =====================================

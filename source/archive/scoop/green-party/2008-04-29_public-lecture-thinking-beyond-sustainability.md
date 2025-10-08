@@ -1,9 +1,12 @@
 ---
 slug: public-lecture-thinking-beyond-sustainability
-title: "Public Lecture: Thinking beyond sustainability"
-date: 2008-04-29
-source-url: https://www.scoop.co.nz/stories/PA0804/S00624/public-lecture-thinking-beyond-sustainability.htm
+title: 'Public Lecture: Thinking beyond sustainability'
+date: 2008-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00624/public-lecture-thinking-beyond-sustainability.htm
 author: green-party
+permalink: /archive/2008/04/29/public-lecture-thinking-beyond-sustainability/index.html
+layout: layout.njk
 ---
 Public Lecture: Thinking beyond sustainability
 ==============================================

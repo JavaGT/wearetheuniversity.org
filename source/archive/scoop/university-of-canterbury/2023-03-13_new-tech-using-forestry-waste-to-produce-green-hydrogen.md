@@ -1,9 +1,13 @@
 ---
 slug: new-tech-using-forestry-waste-to-produce-green-hydrogen
-title: "New Tech Using Forestry Waste To Produce Green Hydrogen"
-date: 2023-03-13
-source-url: https://www.scoop.co.nz/stories/SC2303/S00021/new-tech-using-forestry-waste-to-produce-green-hydrogen.htm
+title: New Tech Using Forestry Waste To Produce Green Hydrogen
+date: 2023-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2303/S00021/new-tech-using-forestry-waste-to-produce-green-hydrogen.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/03/13/new-tech-using-forestry-waste-to-produce-green-hydrogen/index.html
+layout: layout.njk
 ---
 New Tech Using Forestry Waste To Produce Green Hydrogen
 =======================================================

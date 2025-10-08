@@ -1,9 +1,12 @@
 ---
 slug: nz-folklore-brought-to-the-fore-at-symposium
-title: "NZ folklore brought to the fore at symposium"
-date: 2007-11-28
-source-url: https://www.scoop.co.nz/stories/ED0711/S00112/nz-folklore-brought-to-the-fore-at-symposium.htm
+title: NZ folklore brought to the fore at symposium
+date: 2007-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00112/nz-folklore-brought-to-the-fore-at-symposium.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/28/nz-folklore-brought-to-the-fore-at-symposium/index.html
+layout: layout.njk
 ---
 NZ folklore brought to the fore at symposium
 ============================================

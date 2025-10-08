@@ -1,9 +1,13 @@
 ---
 slug: clean-power-payment-the-smartest-way-forward-to-reduce-emissions-and-bills
-title: "Clean Power Payment The Smartest Way Forward To Reduce Emissions And Bills"
-date: 2023-09-20
-source-url: https://www.scoop.co.nz/stories/PA2309/S00110/clean-power-payment-the-smartest-way-forward-to-reduce-emissions-and-bills.htm
+title: Clean Power Payment The Smartest Way Forward To Reduce Emissions And Bills
+date: 2023-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00110/clean-power-payment-the-smartest-way-forward-to-reduce-emissions-and-bills.htm
 author: green-party
+permalink: >-
+  /archive/2023/09/20/clean-power-payment-the-smartest-way-forward-to-reduce-emissions-and-bills/index.html
+layout: layout.njk
 ---
 Clean Power Payment The Smartest Way Forward To Reduce Emissions And Bills
 ==========================================================================

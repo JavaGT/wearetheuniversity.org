@@ -1,9 +1,12 @@
 ---
 slug: worse-health-outcomes-for-pacific-women
-title: "Worse health outcomes for Pacific women"
-date: 2018-03-20
-source-url: https://www.scoop.co.nz/stories/GE1803/S00049/worse-health-outcomes-for-pacific-women.htm
+title: Worse health outcomes for Pacific women
+date: 2018-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1803/S00049/worse-health-outcomes-for-pacific-women.htm
 author: aut-university
+permalink: /archive/2018/03/20/worse-health-outcomes-for-pacific-women/index.html
+layout: layout.njk
 ---
 Worse health outcomes for Pacific women
 =======================================

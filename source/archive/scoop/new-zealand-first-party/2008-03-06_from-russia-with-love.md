@@ -1,9 +1,11 @@
 ---
 slug: from-russia-with-love
-title: "From Russia With Love"
-date: 2008-03-06
+title: From Russia With Love
+date: 2008-03-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0803/S00103/from-russia-with-love.htm
 author: new-zealand-first-party
+permalink: /archive/2008/03/06/from-russia-with-love/index.html
+layout: layout.njk
 ---
 From Russia With Love
 =====================

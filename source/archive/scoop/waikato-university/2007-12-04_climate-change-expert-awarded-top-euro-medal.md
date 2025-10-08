@@ -1,9 +1,12 @@
 ---
 slug: climate-change-expert-awarded-top-euro-medal
-title: "Climate change expert awarded top Euro medal"
-date: 2007-12-04
-source-url: https://www.scoop.co.nz/stories/ED0712/S00010/climate-change-expert-awarded-top-euro-medal.htm
+title: Climate change expert awarded top Euro medal
+date: 2007-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00010/climate-change-expert-awarded-top-euro-medal.htm
 author: waikato-university
+permalink: /archive/2007/12/04/climate-change-expert-awarded-top-euro-medal/index.html
+layout: layout.njk
 ---
 Climate change expert awarded top Euro medal
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: treasury-confirms-govts-slashing-of-health
-title: "Treasury Confirms Govt's Slashing Of Health"
-date: 2002-06-25
-source-url: https://www.scoop.co.nz/stories/PA0206/S00451/treasury-confirms-govts-slashing-of-health.htm
+title: Treasury Confirms Govt's Slashing Of Health
+date: 2002-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00451/treasury-confirms-govts-slashing-of-health.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/25/treasury-confirms-govts-slashing-of-health/index.html
+layout: layout.njk
 ---
 Treasury Confirms Govt's Slashing Of Health
 ===========================================

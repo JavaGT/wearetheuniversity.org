@@ -1,9 +1,12 @@
 ---
 slug: latest-exodus-to-australia-worrying
-title: "Latest exodus to Australia worrying"
-date: 2008-02-04
-source-url: https://www.scoop.co.nz/stories/PA0802/S00035/latest-exodus-to-australia-worrying.htm
+title: Latest exodus to Australia worrying
+date: 2008-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00035/latest-exodus-to-australia-worrying.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/04/latest-exodus-to-australia-worrying/index.html
+layout: layout.njk
 ---
 Latest exodus to Australia worrying
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: master-plan-urged-for-urban-sustainability
-title: "‘Master plan’ urged for urban sustainability"
-date: 2002-07-19
-source-url: https://www.scoop.co.nz/stories/ED0207/S00050/master-plan-urged-for-urban-sustainability.htm
+title: ‘Master plan’ urged for urban sustainability
+date: 2002-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00050/master-plan-urged-for-urban-sustainability.htm
 author: lincoln-university
+permalink: /archive/2002/07/19/master-plan-urged-for-urban-sustainability/index.html
+layout: layout.njk
 ---
 ‘Master plan’ urged for urban sustainability
 ============================================

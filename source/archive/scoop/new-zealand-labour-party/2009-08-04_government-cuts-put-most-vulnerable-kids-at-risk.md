@@ -1,9 +1,13 @@
 ---
 slug: government-cuts-put-most-vulnerable-kids-at-risk
-title: "Government cuts put most vulnerable kids at risk"
-date: 2009-08-04
-source-url: https://www.scoop.co.nz/stories/PA0908/S00038/government-cuts-put-most-vulnerable-kids-at-risk.htm
+title: Government cuts put most vulnerable kids at risk
+date: 2009-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00038/government-cuts-put-most-vulnerable-kids-at-risk.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/08/04/government-cuts-put-most-vulnerable-kids-at-risk/index.html
+layout: layout.njk
 ---
 Government cuts put most vulnerable kids at risk
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: superannuation-shortfall-still-significant-for-most
-title: "Superannuation shortfall still significant for most"
-date: 2017-07-06
-source-url: https://www.scoop.co.nz/stories/PO1707/S00062/superannuation-shortfall-still-significant-for-most.htm
+title: Superannuation shortfall still significant for most
+date: 2017-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00062/superannuation-shortfall-still-significant-for-most.htm
 author: massey-university
+permalink: >-
+  /archive/2017/07/06/superannuation-shortfall-still-significant-for-most/index.html
+layout: layout.njk
 ---
 Superannuation shortfall still significant for most
 ===================================================

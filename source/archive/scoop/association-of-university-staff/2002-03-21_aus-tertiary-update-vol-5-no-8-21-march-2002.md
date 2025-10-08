@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-8-21-march-2002
-title: "AUS Tertiary Update Vol. 5 No.8, 21 March 2002"
-date: 2002-03-21
-source-url: https://www.scoop.co.nz/stories/ED0203/S00044/aus-tertiary-update-vol-5-no8-21-march-2002.htm
+title: AUS Tertiary Update Vol. 5 No.8, 21 March 2002
+date: 2002-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00044/aus-tertiary-update-vol-5-no8-21-march-2002.htm
 author: association-of-university-staff
+permalink: /archive/2002/03/21/aus-tertiary-update-vol-5-no-8-21-march-2002/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No.8, 21 March 2002
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: government-turns-blind-eye-to-methyl-bromide-risks
-title: "Government turns blind eye to methyl bromide risks"
-date: 2007-04-03
-source-url: https://www.scoop.co.nz/stories/PA0704/S00068/government-turns-blind-eye-to-methyl-bromide-risks.htm
+title: Government turns blind eye to methyl bromide risks
+date: 2007-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00068/government-turns-blind-eye-to-methyl-bromide-risks.htm
 author: green-party
+permalink: >-
+  /archive/2007/04/03/government-turns-blind-eye-to-methyl-bromide-risks/index.html
+layout: layout.njk
 ---
 Government turns blind eye to methyl bromide risks
 ==================================================

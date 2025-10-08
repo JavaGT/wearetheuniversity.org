@@ -1,9 +1,12 @@
 ---
 slug: national-party-selects-strong-leadership-team
-title: "National Party Selects Strong Leadership Team"
-date: 2020-11-10
-source-url: https://www.scoop.co.nz/stories/PA2011/S00027/national-party-selects-strong-leadership-team.htm
+title: National Party Selects Strong Leadership Team
+date: 2020-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2011/S00027/national-party-selects-strong-leadership-team.htm
 author: new-zealand-national-party
+permalink: /archive/2020/11/10/national-party-selects-strong-leadership-team/index.html
+layout: layout.njk
 ---
 National Party Selects Strong Leadership Team
 =============================================

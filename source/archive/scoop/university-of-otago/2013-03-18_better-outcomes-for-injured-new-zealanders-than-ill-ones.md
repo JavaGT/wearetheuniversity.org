@@ -1,9 +1,13 @@
 ---
 slug: better-outcomes-for-injured-new-zealanders-than-ill-ones
-title: "Better Outcomes For Injured New Zealanders Than Ill Ones"
-date: 2013-03-18
-source-url: https://www.scoop.co.nz/stories/GE1303/S00066/better-outcomes-for-injured-new-zealanders-than-ill-ones.htm
+title: Better Outcomes For Injured New Zealanders Than Ill Ones
+date: 2013-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1303/S00066/better-outcomes-for-injured-new-zealanders-than-ill-ones.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/03/18/better-outcomes-for-injured-new-zealanders-than-ill-ones/index.html
+layout: layout.njk
 ---
 Better Outcomes For Injured New Zealanders Than Ill Ones
 ========================================================

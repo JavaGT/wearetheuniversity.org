@@ -1,9 +1,11 @@
 ---
 slug: sailing-through-the-study
-title: "Sailing through the study"
-date: 2016-12-12
+title: Sailing through the study
+date: 2016-12-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1612/S00042/sailing-through-the-study.htm
 author: massey-university
+permalink: /archive/2016/12/12/sailing-through-the-study/index.html
+layout: layout.njk
 ---
 Sailing through the study
 =========================

@@ -1,9 +1,13 @@
 ---
 slug: who-regional-director-to-attend-seminar-at-the-fale-pasifika
-title: "WHO Regional Director To Attend Seminar At The Fale Pasifika"
-date: 2024-07-15
-source-url: https://www.scoop.co.nz/stories/ED2407/S00034/who-regional-director-to-attend-seminar-at-the-fale-pasifika.htm
+title: WHO Regional Director To Attend Seminar At The Fale Pasifika
+date: 2024-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2407/S00034/who-regional-director-to-attend-seminar-at-the-fale-pasifika.htm
 author: auckland-university
+permalink: >-
+  /archive/2024/07/15/who-regional-director-to-attend-seminar-at-the-fale-pasifika/index.html
+layout: layout.njk
 ---
 WHO Regional Director To Attend Seminar At The Fale Pasifika
 ============================================================

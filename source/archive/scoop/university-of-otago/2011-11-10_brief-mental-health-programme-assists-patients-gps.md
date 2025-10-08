@@ -1,9 +1,13 @@
 ---
 slug: brief-mental-health-programme-assists-patients-gps
-title: "Brief mental health programme assists patients, GPs"
-date: 2011-11-10
-source-url: https://www.scoop.co.nz/stories/GE1111/S00071/brief-mental-health-programme-assists-patients-gps.htm
+title: Brief mental health programme assists patients, GPs
+date: 2011-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1111/S00071/brief-mental-health-programme-assists-patients-gps.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/11/10/brief-mental-health-programme-assists-patients-gps/index.html
+layout: layout.njk
 ---
 Brief mental health programme assists patients, GPs
 ===================================================

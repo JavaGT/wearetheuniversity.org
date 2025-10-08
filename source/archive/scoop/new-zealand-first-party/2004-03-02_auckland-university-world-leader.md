@@ -1,9 +1,12 @@
 ---
 slug: auckland-university-world-leader
-title: "Auckland University World Leader"
-date: 2004-03-02
-source-url: https://www.scoop.co.nz/stories/PA0403/S00032/auckland-university-world-leader.htm
+title: Auckland University World Leader
+date: 2004-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00032/auckland-university-world-leader.htm
 author: new-zealand-first-party
+permalink: /archive/2004/03/02/auckland-university-world-leader/index.html
+layout: layout.njk
 ---
 Auckland University World Leader
 ================================

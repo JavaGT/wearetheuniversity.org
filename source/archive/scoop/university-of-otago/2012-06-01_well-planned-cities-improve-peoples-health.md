@@ -1,9 +1,12 @@
 ---
 slug: well-planned-cities-improve-peoples-health
-title: "Well-planned cities improve people’s health"
-date: 2012-06-01
-source-url: https://www.scoop.co.nz/stories/GE1206/S00001/well-planned-cities-improve-peoples-health.htm
+title: Well-planned cities improve people’s health
+date: 2012-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1206/S00001/well-planned-cities-improve-peoples-health.htm
 author: university-of-otago
+permalink: /archive/2012/06/01/well-planned-cities-improve-peoples-health/index.html
+layout: layout.njk
 ---
 Well-planned cities improve people’s health
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: health-system-so-bad-patients-clean-toilets
-title: "Health system so bad - patients clean toilets"
-date: 2007-12-05
-source-url: https://www.scoop.co.nz/stories/PA0712/S00112/health-system-so-bad-patients-clean-toilets.htm
+title: Health system so bad - patients clean toilets
+date: 2007-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00112/health-system-so-bad-patients-clean-toilets.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/05/health-system-so-bad-patients-clean-toilets/index.html
+layout: layout.njk
 ---
 Health system so bad - patients clean toilets
 =============================================

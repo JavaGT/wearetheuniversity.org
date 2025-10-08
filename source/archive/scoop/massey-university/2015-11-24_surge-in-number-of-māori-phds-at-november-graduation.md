@@ -1,9 +1,12 @@
 ---
 slug: surge-in-number-of-māori-phds-at-november-graduation
-title: "Surge in number of Māori PhDs at November graduation"
-date: 2015-11-24
-source-url: https://www.scoop.co.nz/stories/ED1511/S00113/surge-in-number-of-maori-phds-at-november-graduation.htm
+title: Surge in number of Māori PhDs at November graduation
+date: 2015-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00113/surge-in-number-of-maori-phds-at-november-graduation.htm
 author: massey-university
+permalink: /archive/2015/11/24/surge-in-number-of-m/index.html
+layout: layout.njk
 ---
 Surge in number of Māori PhDs at November graduation
 ====================================================

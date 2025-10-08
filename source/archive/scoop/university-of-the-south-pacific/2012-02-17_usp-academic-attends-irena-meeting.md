@@ -1,9 +1,12 @@
 ---
 slug: usp-academic-attends-irena-meeting
-title: "USP Academic Attends IRENA Meeting"
-date: 2012-02-17
-source-url: https://www.scoop.co.nz/stories/WO1202/S00458/usp-academic-attends-irena-meeting.htm
+title: USP Academic Attends IRENA Meeting
+date: 2012-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1202/S00458/usp-academic-attends-irena-meeting.htm
 author: university-of-the-south-pacific
+permalink: /archive/2012/02/17/usp-academic-attends-irena-meeting/index.html
+layout: layout.njk
 ---
 USP Academic Attends IRENA Meeting
 ==================================

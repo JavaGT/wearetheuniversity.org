@@ -1,9 +1,12 @@
 ---
 slug: chinas-rise-as-a-global-superpower-debated
-title: "China’s rise as a global superpower debated"
-date: 2010-06-18
-source-url: https://www.scoop.co.nz/stories/ED1006/S00070/chinas-rise-as-a-global-superpower-debated.htm
+title: China’s rise as a global superpower debated
+date: 2010-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00070/chinas-rise-as-a-global-superpower-debated.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/06/18/chinas-rise-as-a-global-superpower-debated/index.html
+layout: layout.njk
 ---
 China’s rise as a global superpower debated
 ===========================================

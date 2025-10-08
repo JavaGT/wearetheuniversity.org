@@ -1,9 +1,13 @@
 ---
 slug: walks-after-meals-may-prove-important-in-managing-diabetes
-title: "Walks after meals may prove important in managing diabetes"
-date: 2016-10-19
-source-url: https://www.scoop.co.nz/stories/GE1610/S00101/walks-after-meals-may-prove-important-in-managing-diabetes.htm
+title: Walks after meals may prove important in managing diabetes
+date: 2016-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1610/S00101/walks-after-meals-may-prove-important-in-managing-diabetes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/10/19/walks-after-meals-may-prove-important-in-managing-diabetes/index.html
+layout: layout.njk
 ---
 Walks after meals may prove important in managing diabetes
 ==========================================================

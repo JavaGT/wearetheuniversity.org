@@ -1,9 +1,13 @@
 ---
 slug: f-is-for-fail-grading-the-ministry-of-educations-flood-response
-title: "F Is For Fail: Grading The Ministry Of Education’s Flood Response"
-date: 2023-02-07
-source-url: https://www.scoop.co.nz/stories/PO2302/S00040/f-is-for-fail-grading-the-ministry-of-educations-flood-response.htm
+title: 'F Is For Fail: Grading The Ministry Of Education’s Flood Response'
+date: 2023-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00040/f-is-for-fail-grading-the-ministry-of-educations-flood-response.htm
 author: maxim-institute
+permalink: >-
+  /archive/2023/02/07/f-is-for-fail-grading-the-ministry-of-educations-flood-response/index.html
+layout: layout.njk
 ---
 F Is For Fail: Grading The Ministry Of Education’s Flood Response
 =================================================================

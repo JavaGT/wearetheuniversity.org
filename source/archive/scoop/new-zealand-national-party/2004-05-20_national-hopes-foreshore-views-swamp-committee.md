@@ -1,9 +1,12 @@
 ---
 slug: national-hopes-foreshore-views-swamp-committee
-title: "National hopes foreshore views swamp committee"
-date: 2004-05-20
-source-url: https://www.scoop.co.nz/stories/PA0405/S00421/national-hopes-foreshore-views-swamp-committee.htm
+title: National hopes foreshore views swamp committee
+date: 2004-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00421/national-hopes-foreshore-views-swamp-committee.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/20/national-hopes-foreshore-views-swamp-committee/index.html
+layout: layout.njk
 ---
 National hopes foreshore views swamp committee
 ==============================================

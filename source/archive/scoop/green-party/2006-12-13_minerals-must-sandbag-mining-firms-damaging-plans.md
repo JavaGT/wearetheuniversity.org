@@ -1,9 +1,13 @@
 ---
 slug: minerals-must-sandbag-mining-firms-damaging-plans
-title: "Minerals must sandbag mining firm's damaging plans"
-date: 2006-12-13
-source-url: https://www.scoop.co.nz/stories/PA0612/S00266/minerals-must-sandbag-mining-firms-damaging-plans.htm
+title: Minerals must sandbag mining firm's damaging plans
+date: 2006-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00266/minerals-must-sandbag-mining-firms-damaging-plans.htm
 author: green-party
+permalink: >-
+  /archive/2006/12/13/minerals-must-sandbag-mining-firms-damaging-plans/index.html
+layout: layout.njk
 ---
 Minerals must sandbag mining firm's damaging plans
 ==================================================

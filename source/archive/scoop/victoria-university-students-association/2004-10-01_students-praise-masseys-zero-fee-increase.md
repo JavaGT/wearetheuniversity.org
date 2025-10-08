@@ -1,9 +1,12 @@
 ---
 slug: students-praise-masseys-zero-fee-increase
-title: "Students Praise Massey’s Zero Fee Increase"
-date: 2004-10-01
-source-url: https://www.scoop.co.nz/stories/ED0410/S00005/students-praise-masseys-zero-fee-increase.htm
+title: Students Praise Massey’s Zero Fee Increase
+date: 2004-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00005/students-praise-masseys-zero-fee-increase.htm
 author: victoria-university-students-association
+permalink: /archive/2004/10/01/students-praise-masseys-zero-fee-increase/index.html
+layout: layout.njk
 ---
 Students Praise Massey’s Zero Fee Increase
 ==========================================

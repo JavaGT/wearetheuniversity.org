@@ -1,9 +1,12 @@
 ---
 slug: top-otago-education-researcher-receives-award
-title: "Top Otago Education Researcher Receives Award"
-date: 2002-01-10
-source-url: https://www.scoop.co.nz/stories/ED0201/S00003/top-otago-education-researcher-receives-award.htm
+title: Top Otago Education Researcher Receives Award
+date: 2002-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0201/S00003/top-otago-education-researcher-receives-award.htm
 author: university-of-otago
+permalink: /archive/2002/01/10/top-otago-education-researcher-receives-award/index.html
+layout: layout.njk
 ---
 Top Otago Education Researcher Receives Award
 =============================================

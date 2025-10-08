@@ -1,9 +1,16 @@
 ---
-slug: thousands-sign-public-letter-calling-for-tolerance-in-debate-over-israel-gaza-conflict
-title: "Thousands Sign Public Letter Calling For Tolerance In Debate Over Israel-Gaza Conflict"
-date: 2023-11-13
-source-url: https://www.scoop.co.nz/stories/PO2311/S00070/thousands-sign-public-letter-calling-for-tolerance-in-debate-over-israel-gaza-conflict.htm
+slug: >-
+  thousands-sign-public-letter-calling-for-tolerance-in-debate-over-israel-gaza-conflict
+title: >-
+  Thousands Sign Public Letter Calling For Tolerance In Debate Over Israel-Gaza
+  Conflict
+date: 2023-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2311/S00070/thousands-sign-public-letter-calling-for-tolerance-in-debate-over-israel-gaza-conflict.htm
 author: free-speech-union
+permalink: >-
+  /archive/2023/11/13/thousands-sign-public-letter-calling-for-tolerance-in-debate-over-israel-gaza-conflict/index.html
+layout: layout.njk
 ---
 Thousands Sign Public Letter Calling For Tolerance In Debate Over Israel-Gaza Conflict
 ======================================================================================

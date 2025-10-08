@@ -1,9 +1,13 @@
 ---
 slug: protection-against-unfair-competition-focus-of-new-book
-title: "Protection against unfair competition focus of new book"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/PO1610/S00364/protection-against-unfair-competition-focus-of-new-book.htm
+title: Protection against unfair competition focus of new book
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00364/protection-against-unfair-competition-focus-of-new-book.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/10/26/protection-against-unfair-competition-focus-of-new-book/index.html
+layout: layout.njk
 ---
 Protection against unfair competition focus of new book
 =======================================================

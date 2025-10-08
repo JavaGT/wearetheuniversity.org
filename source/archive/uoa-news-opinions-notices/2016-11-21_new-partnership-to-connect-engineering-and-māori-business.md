@@ -1,8 +1,11 @@
 ---
 slug: new-partnership-to-connect-engineering-and-māori-business
-title: "New partnership to connect engineering and Māori business"
-date: 2016-11-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/new-partnership-to-connect-engineering-and-maori-business.html
+title: New partnership to connect engineering and Māori business
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/new-partnership-to-connect-engineering-and-maori-business.html
+permalink: /archive/2016/11/21/new-partnership-to-connect-engineering-and-m/index.html
+layout: layout.njk
 ---
 New partnership to connect engineering and Māori business
 =========================================================

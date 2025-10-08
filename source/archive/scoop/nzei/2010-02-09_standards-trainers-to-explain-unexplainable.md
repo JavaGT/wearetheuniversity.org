@@ -1,9 +1,12 @@
 ---
 slug: standards-trainers-to-explain-unexplainable
-title: "Standards Trainers to Explain Unexplainable"
-date: 2010-02-09
-source-url: https://www.scoop.co.nz/stories/ED1002/S00029/standards-trainers-to-explain-unexplainable.htm
+title: Standards Trainers to Explain Unexplainable
+date: 2010-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00029/standards-trainers-to-explain-unexplainable.htm
 author: nzei
+permalink: /archive/2010/02/09/standards-trainers-to-explain-unexplainable/index.html
+layout: layout.njk
 ---
 Standards Trainers to Explain Unexplainable
 ===========================================

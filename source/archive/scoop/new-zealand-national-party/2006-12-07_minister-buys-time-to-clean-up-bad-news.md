@@ -1,9 +1,12 @@
 ---
 slug: minister-buys-time-to-clean-up-bad-news
-title: "Minister buys time to clean up bad news"
-date: 2006-12-07
-source-url: https://www.scoop.co.nz/stories/PA0612/S00151/minister-buys-time-to-clean-up-bad-news.htm
+title: Minister buys time to clean up bad news
+date: 2006-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00151/minister-buys-time-to-clean-up-bad-news.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/07/minister-buys-time-to-clean-up-bad-news/index.html
+layout: layout.njk
 ---
 Minister buys time to clean up bad news
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: how-overmedication-is-injuring-and-killing-our-elderly
-title: "How overmedication is injuring and killing our elderly"
-date: 2018-09-11
-source-url: https://www.scoop.co.nz/stories/GE1809/S00033/how-overmedication-is-injuring-and-killing-our-elderly.htm
+title: How overmedication is injuring and killing our elderly
+date: 2018-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00033/how-overmedication-is-injuring-and-killing-our-elderly.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/11/how-overmedication-is-injuring-and-killing-our-elderly/index.html
+layout: layout.njk
 ---
 How overmedication is injuring and killing our elderly
 ======================================================

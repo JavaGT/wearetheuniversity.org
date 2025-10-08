@@ -1,9 +1,12 @@
 ---
 slug: sir-graeme-harrison-joins-national-party-board
-title: "Sir Graeme Harrison Joins National Party Board"
-date: 2021-09-27
-source-url: https://www.scoop.co.nz/stories/PA2109/S00234/sir-graeme-harrison-joins-national-party-board.htm
+title: Sir Graeme Harrison Joins National Party Board
+date: 2021-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00234/sir-graeme-harrison-joins-national-party-board.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/27/sir-graeme-harrison-joins-national-party-board/index.html
+layout: layout.njk
 ---
 Sir Graeme Harrison Joins National Party Board
 ==============================================

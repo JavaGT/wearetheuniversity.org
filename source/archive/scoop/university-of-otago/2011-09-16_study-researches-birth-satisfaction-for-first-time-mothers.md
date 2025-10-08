@@ -1,9 +1,13 @@
 ---
 slug: study-researches-birth-satisfaction-for-first-time-mothers
-title: "Study researches birth satisfaction for first time mothers"
-date: 2011-09-16
-source-url: https://www.scoop.co.nz/stories/CU1109/S00243/study-researches-birth-satisfaction-for-first-time-mothers.htm
+title: Study researches birth satisfaction for first time mothers
+date: 2011-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1109/S00243/study-researches-birth-satisfaction-for-first-time-mothers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/09/16/study-researches-birth-satisfaction-for-first-time-mothers/index.html
+layout: layout.njk
 ---
 Study researches birth satisfaction for first time mothers
 ==========================================================

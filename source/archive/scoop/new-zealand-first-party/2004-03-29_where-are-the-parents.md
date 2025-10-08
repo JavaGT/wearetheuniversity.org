@@ -1,9 +1,11 @@
 ---
 slug: where-are-the-parents
-title: "Where Are The Parents?"
-date: 2004-03-29
+title: Where Are The Parents?
+date: 2004-03-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0403/S00650/where-are-the-parents.htm
 author: new-zealand-first-party
+permalink: /archive/2004/03/29/where-are-the-parents/index.html
+layout: layout.njk
 ---
 Where Are The Parents?
 ======================

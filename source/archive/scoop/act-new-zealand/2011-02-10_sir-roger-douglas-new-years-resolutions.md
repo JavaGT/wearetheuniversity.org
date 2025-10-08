@@ -1,9 +1,12 @@
 ---
 slug: sir-roger-douglas-new-years-resolutions
-title: "Sir Roger Douglas: New Year’s Resolutions"
-date: 2011-02-10
-source-url: https://www.scoop.co.nz/stories/PA1102/S00155/sir-roger-douglas-new-years-resolutions.htm
+title: 'Sir Roger Douglas: New Year’s Resolutions'
+date: 2011-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00155/sir-roger-douglas-new-years-resolutions.htm
 author: act-new-zealand
+permalink: /archive/2011/02/10/sir-roger-douglas-new-years-resolutions/index.html
+layout: layout.njk
 ---
 Sir Roger Douglas: New Year’s Resolutions
 =========================================

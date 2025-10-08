@@ -1,9 +1,12 @@
 ---
 slug: worsening-forecasts-dont-help-those-out-of-work
-title: "Worsening forecasts don’t help those out of work"
-date: 2012-09-06
-source-url: https://www.scoop.co.nz/stories/BU1209/S00218/worsening-forecasts-dont-help-those-out-of-work.htm
+title: Worsening forecasts don’t help those out of work
+date: 2012-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1209/S00218/worsening-forecasts-dont-help-those-out-of-work.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/09/06/worsening-forecasts-dont-help-those-out-of-work/index.html
+layout: layout.njk
 ---
 Worsening forecasts don’t help those out of work
 ================================================

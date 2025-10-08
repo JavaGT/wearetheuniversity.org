@@ -1,9 +1,13 @@
 ---
 slug: lack-of-any-real-funding-in-predator-free-proposal
-title: "Lack of any real funding in predator free proposal"
-date: 2016-07-25
-source-url: https://www.scoop.co.nz/stories/PA1607/S00348/lack-of-any-real-funding-in-predator-free-proposal.htm
+title: Lack of any real funding in predator free proposal
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00348/lack-of-any-real-funding-in-predator-free-proposal.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/07/25/lack-of-any-real-funding-in-predator-free-proposal/index.html
+layout: layout.njk
 ---
 Lack of any real funding in predator free proposal
 ==================================================

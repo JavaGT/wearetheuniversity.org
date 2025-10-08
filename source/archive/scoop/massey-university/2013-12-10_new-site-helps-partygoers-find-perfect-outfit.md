@@ -1,9 +1,12 @@
 ---
 slug: new-site-helps-partygoers-find-perfect-outfit
-title: "New site helps partygoers find perfect outfit"
-date: 2013-12-10
-source-url: https://www.scoop.co.nz/stories/BU1312/S00384/new-site-helps-partygoers-find-perfect-outfit.htm
+title: New site helps partygoers find perfect outfit
+date: 2013-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1312/S00384/new-site-helps-partygoers-find-perfect-outfit.htm
 author: massey-university
+permalink: /archive/2013/12/10/new-site-helps-partygoers-find-perfect-outfit/index.html
+layout: layout.njk
 ---
 New site helps partygoers find perfect outfit
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: good-start-jim-but-youve-got-a-way-to-go-yet
-title: "Good Start Jim, But You’ve Got A Way To Go Yet"
-date: 2000-12-18
-source-url: https://www.scoop.co.nz/stories/PA0012/S00285/good-start-jim-but-youve-got-a-way-to-go-yet.htm
+title: Good Start Jim, But You’ve Got A Way To Go Yet
+date: 2000-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00285/good-start-jim-but-youve-got-a-way-to-go-yet.htm
 author: act-new-zealand
+permalink: /archive/2000/12/18/good-start-jim-but-youve-got-a-way-to-go-yet/index.html
+layout: layout.njk
 ---
 Good Start Jim, But You’ve Got A Way To Go Yet
 ==============================================

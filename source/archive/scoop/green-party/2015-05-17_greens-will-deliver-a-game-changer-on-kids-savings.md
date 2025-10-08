@@ -1,9 +1,13 @@
 ---
 slug: greens-will-deliver-a-game-changer-on-kids-savings
-title: "Greens will deliver a game-changer on kids’ savings"
-date: 2015-05-17
-source-url: https://www.scoop.co.nz/stories/PA1505/S00254/greens-will-deliver-a-game-changer-on-kids-savings.htm
+title: Greens will deliver a game-changer on kids’ savings
+date: 2015-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00254/greens-will-deliver-a-game-changer-on-kids-savings.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/17/greens-will-deliver-a-game-changer-on-kids-savings/index.html
+layout: layout.njk
 ---
 Greens will deliver a game-changer on kids’ savings
 ===================================================

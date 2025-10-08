@@ -1,9 +1,13 @@
 ---
 slug: tertiary-job-losses-loom-because-of-govt-failure
-title: "Tertiary Job Losses Loom Because Of Govt Failure"
-date: 2022-03-30
-source-url: https://www.scoop.co.nz/stories/PA2203/S00248/tertiary-job-losses-loom-because-of-govt-failure.htm
+title: Tertiary Job Losses Loom Because Of Govt Failure
+date: 2022-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00248/tertiary-job-losses-loom-because-of-govt-failure.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/03/30/tertiary-job-losses-loom-because-of-govt-failure/index.html
+layout: layout.njk
 ---
 Tertiary Job Losses Loom Because Of Govt Failure
 ================================================

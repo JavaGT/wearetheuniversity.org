@@ -1,9 +1,13 @@
 ---
 slug: new-director-for-graduate-school-of-nursing-and-midwifery
-title: "New Director for Graduate School of Nursing and Midwifery"
-date: 2016-04-29
-source-url: https://www.scoop.co.nz/stories/ED1604/S00095/new-director-for-graduate-school-of-nursing-and-midwifery.htm
+title: New Director for Graduate School of Nursing and Midwifery
+date: 2016-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00095/new-director-for-graduate-school-of-nursing-and-midwifery.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/04/29/new-director-for-graduate-school-of-nursing-and-midwifery/index.html
+layout: layout.njk
 ---
 New Director for Graduate School of Nursing and Midwifery
 =========================================================

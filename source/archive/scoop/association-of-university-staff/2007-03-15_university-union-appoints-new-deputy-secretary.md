@@ -1,9 +1,12 @@
 ---
 slug: university-union-appoints-new-deputy-secretary
-title: "University union appoints new Deputy Secretary"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/BU0703/S00287/university-union-appoints-new-deputy-secretary.htm
+title: University union appoints new Deputy Secretary
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0703/S00287/university-union-appoints-new-deputy-secretary.htm
 author: association-of-university-staff
+permalink: /archive/2007/03/15/university-union-appoints-new-deputy-secretary/index.html
+layout: layout.njk
 ---
 University union appoints new Deputy Secretary
 ==============================================

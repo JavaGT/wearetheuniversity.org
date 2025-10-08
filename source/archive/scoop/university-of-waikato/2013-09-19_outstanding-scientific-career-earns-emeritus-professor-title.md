@@ -1,9 +1,13 @@
 ---
 slug: outstanding-scientific-career-earns-emeritus-professor-title
-title: "Outstanding scientific career earns Emeritus Professor title"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/SC1309/S00048/outstanding-scientific-career-earns-emeritus-professor-title.htm
+title: Outstanding scientific career earns Emeritus Professor title
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00048/outstanding-scientific-career-earns-emeritus-professor-title.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/09/19/outstanding-scientific-career-earns-emeritus-professor-title/index.html
+layout: layout.njk
 ---
 Outstanding scientific career earns Emeritus Professor title
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: robertson-dissembles-on-rotorua-bill
-title: "Robertson Dissembles On Rotorua Bill"
-date: 2022-04-26
-source-url: https://www.scoop.co.nz/stories/PA2204/S00180/robertson-dissembles-on-rotorua-bill.htm
+title: Robertson Dissembles On Rotorua Bill
+date: 2022-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00180/robertson-dissembles-on-rotorua-bill.htm
 author: new-zealand-national-party
+permalink: /archive/2022/04/26/robertson-dissembles-on-rotorua-bill/index.html
+layout: layout.njk
 ---
 Robertson Dissembles On Rotorua Bill
 ====================================

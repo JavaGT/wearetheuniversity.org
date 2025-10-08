@@ -1,9 +1,13 @@
 ---
 slug: student-wins-postgraduate-research-excellence-award
-title: "Student Wins Postgraduate Research Excellence Award"
-date: 2010-12-17
-source-url: https://www.scoop.co.nz/stories/ED1012/S00079/student-wins-postgraduate-research-excellence-award.htm
+title: Student Wins Postgraduate Research Excellence Award
+date: 2010-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00079/student-wins-postgraduate-research-excellence-award.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/12/17/student-wins-postgraduate-research-excellence-award/index.html
+layout: layout.njk
 ---
 Student Wins Postgraduate Research Excellence Award
 ===================================================

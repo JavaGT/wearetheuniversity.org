@@ -1,9 +1,12 @@
 ---
 slug: aut-funding-helps-kiwis-talk-about-money
-title: "AUT Funding Helps Kiwis Talk About Money"
-date: 2021-06-14
-source-url: https://www.scoop.co.nz/stories/ED2106/S00026/aut-funding-helps-kiwis-talk-about-money.htm
+title: AUT Funding Helps Kiwis Talk About Money
+date: 2021-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00026/aut-funding-helps-kiwis-talk-about-money.htm
 author: aut-university
+permalink: /archive/2021/06/14/aut-funding-helps-kiwis-talk-about-money/index.html
+layout: layout.njk
 ---
 AUT Funding Helps Kiwis Talk About Money
 ========================================

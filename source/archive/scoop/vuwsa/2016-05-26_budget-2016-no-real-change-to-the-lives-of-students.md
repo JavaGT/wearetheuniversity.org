@@ -1,9 +1,13 @@
 ---
 slug: budget-2016-no-real-change-to-the-lives-of-students
-title: "Budget 2016: No real change to the lives of students"
-date: 2016-05-26
-source-url: https://www.scoop.co.nz/stories/PO1605/S00390/budget-2016-no-real-change-to-the-lives-of-students.htm
+title: 'Budget 2016: No real change to the lives of students'
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00390/budget-2016-no-real-change-to-the-lives-of-students.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/05/26/budget-2016-no-real-change-to-the-lives-of-students/index.html
+layout: layout.njk
 ---
 Budget 2016: No real change to the lives of students
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-healthy-homes-guarantee-needed-now
-title: "Labour’s Healthy Homes Guarantee needed now"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/PA1405/S00234/labours-healthy-homes-guarantee-needed-now.htm
+title: Labour’s Healthy Homes Guarantee needed now
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00234/labours-healthy-homes-guarantee-needed-now.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/15/labours-healthy-homes-guarantee-needed-now/index.html
+layout: layout.njk
 ---
 Labour’s Healthy Homes Guarantee needed now
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: university-of-auckland-makes-key-appointments
-title: "University Of Auckland Makes Key Appointments"
-date: 2000-10-31
-source-url: https://www.scoop.co.nz/stories/ED0010/S00044/university-of-auckland-makes-key-appointments.htm
+title: University Of Auckland Makes Key Appointments
+date: 2000-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00044/university-of-auckland-makes-key-appointments.htm
 author: auckland-university
+permalink: /archive/2000/10/31/university-of-auckland-makes-key-appointments/index.html
+layout: layout.njk
 ---
 University Of Auckland Makes Key Appointments
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: parata-puts-brakes-on-charter-school-appraisal
-title: "Parata puts brakes on charter school appraisal"
-date: 2015-10-08
-source-url: https://www.scoop.co.nz/stories/PA1510/S00102/parata-puts-brakes-on-charter-school-appraisal.htm
+title: Parata puts brakes on charter school appraisal
+date: 2015-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00102/parata-puts-brakes-on-charter-school-appraisal.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/08/parata-puts-brakes-on-charter-school-appraisal/index.html
+layout: layout.njk
 ---
 Parata puts brakes on charter school appraisal
 ==============================================

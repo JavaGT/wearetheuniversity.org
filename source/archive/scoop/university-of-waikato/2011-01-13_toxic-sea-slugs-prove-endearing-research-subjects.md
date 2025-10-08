@@ -1,9 +1,13 @@
 ---
 slug: toxic-sea-slugs-prove-endearing-research-subjects
-title: "Toxic sea slugs prove endearing research subjects"
-date: 2011-01-13
-source-url: https://www.scoop.co.nz/stories/SC1101/S00011/toxic-sea-slugs-prove-endearing-research-subjects.htm
+title: Toxic sea slugs prove endearing research subjects
+date: 2011-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1101/S00011/toxic-sea-slugs-prove-endearing-research-subjects.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/01/13/toxic-sea-slugs-prove-endearing-research-subjects/index.html
+layout: layout.njk
 ---
 Toxic sea slugs prove endearing research subjects
 =================================================

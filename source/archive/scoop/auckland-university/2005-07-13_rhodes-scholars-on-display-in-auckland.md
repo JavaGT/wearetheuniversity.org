@@ -1,9 +1,12 @@
 ---
 slug: rhodes-scholars-on-display-in-auckland
-title: "Rhodes Scholars on display in Auckland"
-date: 2005-07-13
-source-url: https://www.scoop.co.nz/stories/ED0507/S00049/rhodes-scholars-on-display-in-auckland.htm
+title: Rhodes Scholars on display in Auckland
+date: 2005-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00049/rhodes-scholars-on-display-in-auckland.htm
 author: auckland-university
+permalink: /archive/2005/07/13/rhodes-scholars-on-display-in-auckland/index.html
+layout: layout.njk
 ---
 Rhodes Scholars on display in Auckland
 ======================================

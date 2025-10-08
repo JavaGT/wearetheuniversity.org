@@ -1,9 +1,12 @@
 ---
 slug: norman-green-party-2014-election-campaign-close
-title: "Norman: Green Party 2014 election campaign close"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/PA1409/S00275/norman-green-party-2014-election-campaign-close.htm
+title: 'Norman: Green Party 2014 election campaign close'
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00275/norman-green-party-2014-election-campaign-close.htm
 author: green-party
+permalink: /archive/2014/09/18/norman-green-party-2014-election-campaign-close/index.html
+layout: layout.njk
 ---
 Norman: Green Party 2014 election campaign close
 ================================================

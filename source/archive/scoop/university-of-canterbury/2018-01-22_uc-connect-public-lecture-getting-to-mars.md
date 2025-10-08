@@ -1,9 +1,12 @@
 ---
 slug: uc-connect-public-lecture-getting-to-mars
-title: "UC Connect public lecture: Getting to Mars"
-date: 2018-01-22
-source-url: https://www.scoop.co.nz/stories/SC1801/S00023/uc-connect-public-lecture-getting-to-mars.htm
+title: 'UC Connect public lecture: Getting to Mars'
+date: 2018-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1801/S00023/uc-connect-public-lecture-getting-to-mars.htm
 author: university-of-canterbury
+permalink: /archive/2018/01/22/uc-connect-public-lecture-getting-to-mars/index.html
+layout: layout.njk
 ---
 UC Connect public lecture: Getting to Mars
 ==========================================

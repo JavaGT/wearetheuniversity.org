@@ -1,9 +1,13 @@
 ---
 slug: glass-price-drop-makes-accord-shortcomings-clear
-title: "Glass price drop makes Accord shortcomings clear"
-date: 2004-12-03
-source-url: https://www.scoop.co.nz/stories/PA0412/S00102/glass-price-drop-makes-accord-shortcomings-clear.htm
+title: Glass price drop makes Accord shortcomings clear
+date: 2004-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00102/glass-price-drop-makes-accord-shortcomings-clear.htm
 author: green-party
+permalink: >-
+  /archive/2004/12/03/glass-price-drop-makes-accord-shortcomings-clear/index.html
+layout: layout.njk
 ---
 Glass price drop makes Accord shortcomings clear
 ================================================

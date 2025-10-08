@@ -1,9 +1,11 @@
 ---
 slug: last-train-to-clarksville
-title: "Last train to Clarksville"
-date: 2005-08-12
+title: Last train to Clarksville
+date: 2005-08-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00328/last-train-to-clarksville.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/12/last-train-to-clarksville/index.html
+layout: layout.njk
 ---
 Last train to Clarksville
 =========================

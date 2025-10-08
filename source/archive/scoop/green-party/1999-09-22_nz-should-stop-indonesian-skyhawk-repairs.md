@@ -1,9 +1,12 @@
 ---
 slug: nz-should-stop-indonesian-skyhawk-repairs
-title: "NZ Should Stop Indonesian Skyhawk Repairs"
-date: 1999-09-22
-source-url: https://www.scoop.co.nz/stories/PA9909/S00464/nz-should-stop-indonesian-skyhawk-repairs.htm
+title: NZ Should Stop Indonesian Skyhawk Repairs
+date: 1999-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00464/nz-should-stop-indonesian-skyhawk-repairs.htm
 author: green-party
+permalink: /archive/1999/09/22/nz-should-stop-indonesian-skyhawk-repairs/index.html
+layout: layout.njk
 ---
 NZ Should Stop Indonesian Skyhawk Repairs
 =========================================

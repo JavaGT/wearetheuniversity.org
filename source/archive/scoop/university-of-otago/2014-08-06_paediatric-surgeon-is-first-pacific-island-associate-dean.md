@@ -1,9 +1,13 @@
 ---
 slug: paediatric-surgeon-is-first-pacific-island-associate-dean
-title: "Paediatric surgeon is first Pacific Island Associate Dean"
-date: 2014-08-06
-source-url: https://www.scoop.co.nz/stories/ED1408/S00028/paediatric-surgeon-is-first-pacific-island-associate-dean.htm
+title: Paediatric surgeon is first Pacific Island Associate Dean
+date: 2014-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00028/paediatric-surgeon-is-first-pacific-island-associate-dean.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/08/06/paediatric-surgeon-is-first-pacific-island-associate-dean/index.html
+layout: layout.njk
 ---
 Paediatric surgeon is first Pacific Island Associate Dean
 =========================================================

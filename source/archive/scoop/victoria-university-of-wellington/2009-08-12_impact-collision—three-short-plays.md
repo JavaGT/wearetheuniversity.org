@@ -1,9 +1,12 @@
 ---
 slug: impact-collision—three-short-plays
-title: "Impact/Collision—Three Short Plays"
-date: 2009-08-12
-source-url: https://www.scoop.co.nz/stories/CU0908/S00200/impactcollision-three-short-plays.htm
+title: Impact/Collision—Three Short Plays
+date: 2009-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0908/S00200/impactcollision-three-short-plays.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/08/12/impact-collision/index.html
+layout: layout.njk
 ---
 Impact/Collision—Three Short Plays
 ==================================

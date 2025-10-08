@@ -1,9 +1,11 @@
 ---
 slug: budget-blues-for-schools
-title: "Budget Blues for Schools"
-date: 2005-05-19
+title: Budget Blues for Schools
+date: 2005-05-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0505/S00515/budget-blues-for-schools.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/19/budget-blues-for-schools/index.html
+layout: layout.njk
 ---
 Budget Blues for Schools
 ========================

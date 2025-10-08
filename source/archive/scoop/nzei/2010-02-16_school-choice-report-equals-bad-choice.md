@@ -1,9 +1,12 @@
 ---
 slug: school-choice-report-equals-bad-choice
-title: "School Choice Report Equals Bad Choice"
-date: 2010-02-16
-source-url: https://www.scoop.co.nz/stories/ED1002/S00059/school-choice-report-equals-bad-choice.htm
+title: School Choice Report Equals Bad Choice
+date: 2010-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00059/school-choice-report-equals-bad-choice.htm
 author: nzei
+permalink: /archive/2010/02/16/school-choice-report-equals-bad-choice/index.html
+layout: layout.njk
 ---
 School Choice Report Equals Bad Choice
 ======================================

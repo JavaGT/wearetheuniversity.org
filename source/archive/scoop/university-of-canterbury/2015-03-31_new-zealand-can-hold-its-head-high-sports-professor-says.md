@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-can-hold-its-head-high-sports-professor-says
-title: "New Zealand can hold its head high, sports professor says"
-date: 2015-03-31
-source-url: https://www.scoop.co.nz/stories/CU1503/S00580/new-zealand-can-hold-its-head-high-sports-professor-says.htm
+title: New Zealand can hold its head high, sports professor says
+date: 2015-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1503/S00580/new-zealand-can-hold-its-head-high-sports-professor-says.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/31/new-zealand-can-hold-its-head-high-sports-professor-says/index.html
+layout: layout.njk
 ---
 New Zealand can hold its head high, sports professor says
 =========================================================

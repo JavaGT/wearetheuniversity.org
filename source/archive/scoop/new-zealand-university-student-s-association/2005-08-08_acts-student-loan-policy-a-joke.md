@@ -1,9 +1,12 @@
 ---
 slug: acts-student-loan-policy-a-joke
-title: "ACT’s \"student loan policy\" a joke"
-date: 2005-08-08
-source-url: https://www.scoop.co.nz/stories/ED0508/S00033/acts-student-loan-policy-a-joke.htm
+title: ACT’s "student loan policy" a joke
+date: 2005-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00033/acts-student-loan-policy-a-joke.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/08/08/acts-student-loan-policy-a-joke/index.html
+layout: layout.njk
 ---
 ACT’s “student loan policy” a joke
 ==================================

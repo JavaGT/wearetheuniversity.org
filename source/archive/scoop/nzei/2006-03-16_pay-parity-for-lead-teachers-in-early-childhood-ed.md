@@ -1,9 +1,13 @@
 ---
 slug: pay-parity-for-lead-teachers-in-early-childhood-ed
-title: "Pay Parity for Lead Teachers in Early Childhood Ed"
-date: 2006-03-16
-source-url: https://www.scoop.co.nz/stories/ED0603/S00040/pay-parity-for-lead-teachers-in-early-childhood-ed.htm
+title: Pay Parity for Lead Teachers in Early Childhood Ed
+date: 2006-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00040/pay-parity-for-lead-teachers-in-early-childhood-ed.htm
 author: nzei
+permalink: >-
+  /archive/2006/03/16/pay-parity-for-lead-teachers-in-early-childhood-ed/index.html
+layout: layout.njk
 ---
 Pay Parity for Lead Teachers in Early Childhood Ed
 ==================================================

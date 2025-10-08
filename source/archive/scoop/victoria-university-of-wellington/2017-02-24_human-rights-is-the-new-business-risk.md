@@ -1,9 +1,12 @@
 ---
 slug: human-rights-is-the-new-business-risk
-title: "Human rights is the new business risk"
-date: 2017-02-24
-source-url: https://www.scoop.co.nz/stories/PO1702/S00275/human-rights-is-the-new-business-risk.htm
+title: Human rights is the new business risk
+date: 2017-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1702/S00275/human-rights-is-the-new-business-risk.htm
 author: victoria-university-of-wellington
+permalink: /archive/2017/02/24/human-rights-is-the-new-business-risk/index.html
+layout: layout.njk
 ---
 Human rights is the new business risk
 =====================================

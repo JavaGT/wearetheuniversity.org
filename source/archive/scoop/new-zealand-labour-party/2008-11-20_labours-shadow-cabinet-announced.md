@@ -1,9 +1,12 @@
 ---
 slug: labours-shadow-cabinet-announced
-title: "Labour's shadow Cabinet announced"
-date: 2008-11-20
-source-url: https://www.scoop.co.nz/stories/PA0811/S00194/labours-shadow-cabinet-announced.htm
+title: Labour's shadow Cabinet announced
+date: 2008-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00194/labours-shadow-cabinet-announced.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/11/20/labours-shadow-cabinet-announced/index.html
+layout: layout.njk
 ---
 Labour's shadow Cabinet announced
 =================================

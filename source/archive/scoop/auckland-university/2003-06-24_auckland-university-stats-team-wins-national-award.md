@@ -1,9 +1,13 @@
 ---
 slug: auckland-university-stats-team-wins-national-award
-title: "Auckland University stats team wins national award"
-date: 2003-06-24
-source-url: https://www.scoop.co.nz/stories/ED0306/S00053/auckland-university-stats-team-wins-national-award.htm
+title: Auckland University stats team wins national award
+date: 2003-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00053/auckland-university-stats-team-wins-national-award.htm
 author: auckland-university
+permalink: >-
+  /archive/2003/06/24/auckland-university-stats-team-wins-national-award/index.html
+layout: layout.njk
 ---
 Auckland University stats team wins national award
 ==================================================

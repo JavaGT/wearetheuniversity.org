@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-labour-party-campaign-launch-speech
-title: "Helen Clark: Labour Party Campaign Launch Speech"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PA0810/S00261/helen-clark-labour-party-campaign-launch-speech.htm
+title: 'Helen Clark: Labour Party Campaign Launch Speech'
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00261/helen-clark-labour-party-campaign-launch-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/13/helen-clark-labour-party-campaign-launch-speech/index.html
+layout: layout.njk
 ---
 Helen Clark: Labour Party Campaign Launch Speech
 ================================================

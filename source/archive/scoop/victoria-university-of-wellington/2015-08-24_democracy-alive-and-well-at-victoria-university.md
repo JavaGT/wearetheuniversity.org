@@ -1,9 +1,12 @@
 ---
 slug: democracy-alive-and-well-at-victoria-university
-title: "Democracy alive and well at Victoria University"
-date: 2015-08-24
-source-url: https://www.scoop.co.nz/stories/PO1508/S00255/democracy-alive-and-well-at-victoria-university.htm
+title: Democracy alive and well at Victoria University
+date: 2015-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1508/S00255/democracy-alive-and-well-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/08/24/democracy-alive-and-well-at-victoria-university/index.html
+layout: layout.njk
 ---
 Democracy alive and well at Victoria University
 ===============================================

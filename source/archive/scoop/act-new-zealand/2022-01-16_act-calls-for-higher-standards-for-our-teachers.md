@@ -1,9 +1,12 @@
 ---
 slug: act-calls-for-higher-standards-for-our-teachers
-title: "ACT Calls For Higher Standards For Our Teachers"
-date: 2022-01-16
-source-url: https://www.scoop.co.nz/stories/PA2201/S00042/act-calls-for-higher-standards-for-our-teachers.htm
+title: ACT Calls For Higher Standards For Our Teachers
+date: 2022-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00042/act-calls-for-higher-standards-for-our-teachers.htm
 author: act-new-zealand
+permalink: /archive/2022/01/16/act-calls-for-higher-standards-for-our-teachers/index.html
+layout: layout.njk
 ---
 ACT Calls For Higher Standards For Our Teachers
 ===============================================

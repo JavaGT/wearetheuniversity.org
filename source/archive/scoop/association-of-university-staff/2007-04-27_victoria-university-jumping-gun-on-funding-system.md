@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-jumping-gun-on-funding-system
-title: "Victoria University Jumping Gun on Funding System"
-date: 2007-04-27
-source-url: https://www.scoop.co.nz/stories/PO0704/S00344/victoria-university-jumping-gun-on-funding-system.htm
+title: Victoria University Jumping Gun on Funding System
+date: 2007-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00344/victoria-university-jumping-gun-on-funding-system.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2007/04/27/victoria-university-jumping-gun-on-funding-system/index.html
+layout: layout.njk
 ---
 Victoria University Jumping Gun on Funding System
 =================================================

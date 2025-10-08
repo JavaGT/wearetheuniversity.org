@@ -1,9 +1,12 @@
 ---
 slug: vuw-students-lose-internet-access
-title: "VUW students lose internet access"
-date: 2009-09-21
-source-url: https://www.scoop.co.nz/stories/ED0909/S00070/vuw-students-lose-internet-access.htm
+title: VUW students lose internet access
+date: 2009-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00070/vuw-students-lose-internet-access.htm
 author: salient
+permalink: /archive/2009/09/21/vuw-students-lose-internet-access/index.html
+layout: layout.njk
 ---
 VUW students lose internet access
 =================================

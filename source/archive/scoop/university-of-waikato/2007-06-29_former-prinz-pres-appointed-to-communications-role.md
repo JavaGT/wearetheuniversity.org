@@ -1,9 +1,13 @@
 ---
 slug: former-prinz-pres-appointed-to-communications-role
-title: "Former PRINZ pres appointed to communications role"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/ED0706/S00114/former-prinz-pres-appointed-to-communications-role.htm
+title: Former PRINZ pres appointed to communications role
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00114/former-prinz-pres-appointed-to-communications-role.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2007/06/29/former-prinz-pres-appointed-to-communications-role/index.html
+layout: layout.njk
 ---
 Former PRINZ pres appointed to communications role
 ==================================================

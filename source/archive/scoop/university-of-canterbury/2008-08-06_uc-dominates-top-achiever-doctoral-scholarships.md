@@ -1,9 +1,12 @@
 ---
 slug: uc-dominates-top-achiever-doctoral-scholarships
-title: "UC dominates Top Achiever Doctoral Scholarships"
-date: 2008-08-06
-source-url: https://www.scoop.co.nz/stories/ED0808/S00012/uc-dominates-top-achiever-doctoral-scholarships.htm
+title: UC dominates Top Achiever Doctoral Scholarships
+date: 2008-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00012/uc-dominates-top-achiever-doctoral-scholarships.htm
 author: university-of-canterbury
+permalink: /archive/2008/08/06/uc-dominates-top-achiever-doctoral-scholarships/index.html
+layout: layout.njk
 ---
 UC dominates Top Achiever Doctoral Scholarships
 ===============================================

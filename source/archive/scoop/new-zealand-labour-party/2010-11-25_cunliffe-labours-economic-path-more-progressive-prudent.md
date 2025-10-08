@@ -1,9 +1,13 @@
 ---
 slug: cunliffe-labours-economic-path-more-progressive-prudent
-title: "Cunliffe: Labour's economic path more progressive, prudent"
-date: 2010-11-25
-source-url: https://www.scoop.co.nz/stories/PA1011/S00524/cunliffe-labours-economic-path-more-progressive-prudent.htm
+title: 'Cunliffe: Labour''s economic path more progressive, prudent'
+date: 2010-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00524/cunliffe-labours-economic-path-more-progressive-prudent.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/11/25/cunliffe-labours-economic-path-more-progressive-prudent/index.html
+layout: layout.njk
 ---
 Cunliffe: Labour's economic path more progressive, prudent
 ==========================================================

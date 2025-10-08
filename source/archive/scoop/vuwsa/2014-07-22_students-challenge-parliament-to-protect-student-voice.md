@@ -1,9 +1,13 @@
 ---
 slug: students-challenge-parliament-to-protect-student-voice
-title: "Students Challenge Parliament to Protect Student  Voice"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/PO1407/S00348/students-challenge-parliament-to-protect-student-voice.htm
+title: Students Challenge Parliament to Protect Student  Voice
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00348/students-challenge-parliament-to-protect-student-voice.htm
 author: vuwsa
+permalink: >-
+  /archive/2014/07/22/students-challenge-parliament-to-protect-student-voice/index.html
+layout: layout.njk
 ---
 Students Challenge Parliament to Protect Student Voice
 ======================================================

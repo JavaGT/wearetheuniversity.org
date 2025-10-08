@@ -1,9 +1,12 @@
 ---
 slug: new-otago-study-focuses-on-toxic-site-clean-up
-title: "New Otago study focuses on toxic site clean up"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/SC1109/S00067/new-otago-study-focuses-on-toxic-site-clean-up.htm
+title: New Otago study focuses on toxic site clean up
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1109/S00067/new-otago-study-focuses-on-toxic-site-clean-up.htm
 author: university-of-otago
+permalink: /archive/2011/09/28/new-otago-study-focuses-on-toxic-site-clean-up/index.html
+layout: layout.njk
 ---
 New Otago study focuses on toxic site clean up
 ==============================================

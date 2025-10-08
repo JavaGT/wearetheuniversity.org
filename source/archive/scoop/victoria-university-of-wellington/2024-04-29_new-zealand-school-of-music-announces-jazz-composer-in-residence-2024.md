@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-school-of-music-announces-jazz-composer-in-residence-2024
-title: "New Zealand School Of Music Announces Jazz Composer-in-Residence 2024"
-date: 2024-04-29
-source-url: https://www.scoop.co.nz/stories/ED2404/S00047/new-zealand-school-of-music-announces-jazz-composer-in-residence-2024.htm
+title: New Zealand School Of Music Announces Jazz Composer-in-Residence 2024
+date: 2024-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2404/S00047/new-zealand-school-of-music-announces-jazz-composer-in-residence-2024.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/04/29/new-zealand-school-of-music-announces-jazz-composer-in-residence-2024/index.html
+layout: layout.njk
 ---
 New Zealand School Of Music Announces Jazz Composer-in-Residence 2024
 =====================================================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-needs-to-target-responsible-tourists-that-spend-more
-title: "NZ needs to target responsible tourists that spend more"
-date: 2013-12-03
-source-url: https://www.scoop.co.nz/stories/BU1312/S00094/nz-needs-to-target-responsible-tourists-that-spend-more.htm
+title: NZ needs to target responsible tourists that spend more
+date: 2013-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1312/S00094/nz-needs-to-target-responsible-tourists-that-spend-more.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/03/nz-needs-to-target-responsible-tourists-that-spend-more/index.html
+layout: layout.njk
 ---
 NZ needs to target responsible tourists that spend more
 =======================================================

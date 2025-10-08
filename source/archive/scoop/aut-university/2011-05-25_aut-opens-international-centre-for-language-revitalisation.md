@@ -1,9 +1,13 @@
 ---
 slug: aut-opens-international-centre-for-language-revitalisation
-title: "AUT Opens International Centre for Language Revitalisation"
-date: 2011-05-25
-source-url: https://www.scoop.co.nz/stories/ED1105/S00103/aut-opens-international-centre-for-language-revitalisation.htm
+title: AUT Opens International Centre for Language Revitalisation
+date: 2011-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00103/aut-opens-international-centre-for-language-revitalisation.htm
 author: aut-university
+permalink: >-
+  /archive/2011/05/25/aut-opens-international-centre-for-language-revitalisation/index.html
+layout: layout.njk
 ---
 AUT Opens International Centre for Language Revitalisation
 ==========================================================

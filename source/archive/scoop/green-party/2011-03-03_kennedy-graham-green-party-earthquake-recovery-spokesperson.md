@@ -1,9 +1,13 @@
 ---
 slug: kennedy-graham-green-party-earthquake-recovery-spokesperson
-title: "Kennedy Graham Green Party Earthquake/Recovery Spokesperson"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/PA1103/S00036/kennedy-graham-green-party-earthquakerecovery-spokesperson.htm
+title: Kennedy Graham Green Party Earthquake/Recovery Spokesperson
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00036/kennedy-graham-green-party-earthquakerecovery-spokesperson.htm
 author: green-party
+permalink: >-
+  /archive/2011/03/03/kennedy-graham-green-party-earthquake-recovery-spokesperson/index.html
+layout: layout.njk
 ---
 Kennedy Graham Green Party Earthquake/Recovery Spokesperson
 ===========================================================

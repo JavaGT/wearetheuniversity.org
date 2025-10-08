@@ -1,9 +1,12 @@
 ---
 slug: software-and-it-degree-has-close-job-market-fit
-title: "Software and IT degree has close job market ‘fit’"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/ED0609/S00059/software-and-it-degree-has-close-job-market-fit.htm
+title: Software and IT degree has close job market ‘fit’
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00059/software-and-it-degree-has-close-job-market-fit.htm
 author: lincoln-university
+permalink: /archive/2006/09/14/software-and-it-degree-has-close-job-market-fit/index.html
+layout: layout.njk
 ---
 Software and IT degree has close job market ‘fit’
 =================================================

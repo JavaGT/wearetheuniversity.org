@@ -1,9 +1,13 @@
 ---
 slug: action-needed-to-reverse-ghettoization-of-auckland
-title: "Action needed to reverse \"ghettoization\" of Auckland"
-date: 2016-08-31
-source-url: https://www.scoop.co.nz/stories/PO1608/S00359/action-needed-to-reverse-ghettoization-of-auckland.htm
+title: Action needed to reverse "ghettoization" of Auckland
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1608/S00359/action-needed-to-reverse-ghettoization-of-auckland.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2016/08/31/action-needed-to-reverse-ghettoization-of-auckland/index.html
+layout: layout.njk
 ---
 Action needed to reverse “ghettoization” of Auckland
 ====================================================

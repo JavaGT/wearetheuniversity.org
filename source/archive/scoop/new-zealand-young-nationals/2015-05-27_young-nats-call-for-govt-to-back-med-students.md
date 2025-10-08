@@ -1,9 +1,12 @@
 ---
 slug: young-nats-call-for-govt-to-back-med-students
-title: "Young Nats call for Govt to back Med Students"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/PO1505/S00369/young-nats-call-for-govt-to-back-med-students.htm
+title: Young Nats call for Govt to back Med Students
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00369/young-nats-call-for-govt-to-back-med-students.htm
 author: new-zealand-young-nationals
+permalink: /archive/2015/05/27/young-nats-call-for-govt-to-back-med-students/index.html
+layout: layout.njk
 ---
 Young Nats call for Govt to back Med Students
 =============================================

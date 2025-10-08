@@ -1,9 +1,12 @@
 ---
 slug: cake-stalls-for-teachers-salaries
-title: "Cake stalls for teachers’ salaries"
-date: 2004-08-04
-source-url: https://www.scoop.co.nz/stories/PA0408/S00063/cake-stalls-for-teachers-salaries.htm
+title: Cake stalls for teachers’ salaries
+date: 2004-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00063/cake-stalls-for-teachers-salaries.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/04/cake-stalls-for-teachers-salaries/index.html
+layout: layout.njk
 ---
 Cake stalls for teachers’ salaries
 ==================================

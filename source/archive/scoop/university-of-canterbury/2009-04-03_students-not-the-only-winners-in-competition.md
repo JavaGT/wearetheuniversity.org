@@ -1,9 +1,12 @@
 ---
 slug: students-not-the-only-winners-in-competition
-title: "Students not the only winners in competition"
-date: 2009-04-03
-source-url: https://www.scoop.co.nz/stories/AK0904/S00048/students-not-the-only-winners-in-competition.htm
+title: Students not the only winners in competition
+date: 2009-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0904/S00048/students-not-the-only-winners-in-competition.htm
 author: university-of-canterbury
+permalink: /archive/2009/04/03/students-not-the-only-winners-in-competition/index.html
+layout: layout.njk
 ---
 Students not the only winners in competition
 ============================================

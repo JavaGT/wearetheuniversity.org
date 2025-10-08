@@ -1,9 +1,12 @@
 ---
 slug: tony-ballantyne-wins-inaugural-w-h-oliver-prize
-title: "Tony Ballantyne wins inaugural W H Oliver prize"
-date: 2015-12-04
-source-url: https://www.scoop.co.nz/stories/CU1512/S00076/tony-ballantyne-wins-inaugural-w-h-oliver-prize.htm
+title: Tony Ballantyne wins inaugural W H Oliver prize
+date: 2015-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1512/S00076/tony-ballantyne-wins-inaugural-w-h-oliver-prize.htm
 author: auckland-university-press
+permalink: /archive/2015/12/04/tony-ballantyne-wins-inaugural-w-h-oliver-prize/index.html
+layout: layout.njk
 ---
 Tony Ballantyne wins inaugural W H Oliver prize
 ===============================================

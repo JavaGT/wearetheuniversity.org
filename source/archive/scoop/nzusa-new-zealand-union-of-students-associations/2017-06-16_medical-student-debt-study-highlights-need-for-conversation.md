@@ -1,9 +1,13 @@
 ---
 slug: medical-student-debt-study-highlights-need-for-conversation
-title: "Medical student debt study highlights need for conversation"
-date: 2017-06-16
-source-url: https://www.scoop.co.nz/stories/PO1706/S00226/medical-student-debt-study-highlights-need-for-conversation.htm
+title: Medical student debt study highlights need for conversation
+date: 2017-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00226/medical-student-debt-study-highlights-need-for-conversation.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/06/16/medical-student-debt-study-highlights-need-for-conversation/index.html
+layout: layout.njk
 ---
 Medical student debt study highlights need for conversation
 ===========================================================

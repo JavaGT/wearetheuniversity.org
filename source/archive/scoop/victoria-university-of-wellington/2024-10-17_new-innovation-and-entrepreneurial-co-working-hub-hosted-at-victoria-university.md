@@ -1,9 +1,16 @@
 ---
-slug: new-innovation-and-entrepreneurial-co-working-hub-hosted-at-victoria-university
-title: "New Innovation And Entrepreneurial Co-Working Hub Hosted At Victoria University"
-date: 2024-10-17
-source-url: https://www.scoop.co.nz/stories/BU2410/S00324/new-innovation-and-entrepreneurial-co-working-hub-hosted-at-victoria-university.htm
+slug: >-
+  new-innovation-and-entrepreneurial-co-working-hub-hosted-at-victoria-university
+title: >-
+  New Innovation And Entrepreneurial Co-Working Hub Hosted At Victoria
+  University
+date: 2024-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2410/S00324/new-innovation-and-entrepreneurial-co-working-hub-hosted-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/10/17/new-innovation-and-entrepreneurial-co-working-hub-hosted-at-victoria-university/index.html
+layout: layout.njk
 ---
 New Innovation And Entrepreneurial Co-Working Hub Hosted At Victoria University
 ===============================================================================

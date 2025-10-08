@@ -1,9 +1,13 @@
 ---
 slug: women-of-independence-recollections-of-fiji-at-forty-one
-title: "Women of Independence: Recollections of Fiji at Forty-One"
-date: 2011-10-28
-source-url: https://www.scoop.co.nz/stories/WO1110/S00823/women-of-independence-recollections-of-fiji-at-forty-one.htm
+title: 'Women of Independence: Recollections of Fiji at Forty-One'
+date: 2011-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1110/S00823/women-of-independence-recollections-of-fiji-at-forty-one.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2011/10/28/women-of-independence-recollections-of-fiji-at-forty-one/index.html
+layout: layout.njk
 ---
 Women of Independence: Recollections of Fiji at Forty-One
 =========================================================

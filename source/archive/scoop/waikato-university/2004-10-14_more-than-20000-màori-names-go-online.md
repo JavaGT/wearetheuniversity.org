@@ -1,9 +1,12 @@
 ---
 slug: more-than-20000-màori-names-go-online
-title: "More Than 20,000 Màori Names Go Online"
-date: 2004-10-14
-source-url: https://www.scoop.co.nz/stories/ED0410/S00059/more-than-20000-maori-names-go-online.htm
+title: More Than 20,000 Màori Names Go Online
+date: 2004-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00059/more-than-20000-maori-names-go-online.htm
 author: waikato-university
+permalink: /archive/2004/10/14/more-than-20000-m/index.html
+layout: layout.njk
 ---
 More Than 20,000 Màori Names Go Online
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: people-with-medical-skills-urgently-needed-for-nepal-aid
-title: "People with medical skills urgently needed for Nepal aid"
-date: 2015-05-06
-source-url: https://www.scoop.co.nz/stories/PO1505/S00048/people-with-medical-skills-urgently-needed-for-nepal-aid.htm
+title: People with medical skills urgently needed for Nepal aid
+date: 2015-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00048/people-with-medical-skills-urgently-needed-for-nepal-aid.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/06/people-with-medical-skills-urgently-needed-for-nepal-aid/index.html
+layout: layout.njk
 ---
 People with medical skills urgently needed for Nepal aid
 ========================================================

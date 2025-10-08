@@ -1,9 +1,12 @@
 ---
 slug: memorial-expert-to-address-50th-world-congress
-title: "Memorial Expert To Address 50th World Congress"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/ED1304/S00035/memorial-expert-to-address-50th-world-congress.htm
+title: Memorial Expert To Address 50th World Congress
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00035/memorial-expert-to-address-50th-world-congress.htm
 author: lincoln-university
+permalink: /archive/2013/04/09/memorial-expert-to-address-50th-world-congress/index.html
+layout: layout.njk
 ---
 Memorial Expert To Address 50th World Congress
 ==============================================

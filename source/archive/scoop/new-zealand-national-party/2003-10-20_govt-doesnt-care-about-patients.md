@@ -1,9 +1,12 @@
 ---
 slug: govt-doesnt-care-about-patients
-title: "Govt doesn't care about patients"
-date: 2003-10-20
-source-url: https://www.scoop.co.nz/stories/PA0310/S00450/govt-doesnt-care-about-patients.htm
+title: Govt doesn't care about patients
+date: 2003-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00450/govt-doesnt-care-about-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/20/govt-doesnt-care-about-patients/index.html
+layout: layout.njk
 ---
 Govt doesn't care about patients
 ================================

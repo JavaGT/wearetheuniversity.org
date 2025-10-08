@@ -1,9 +1,11 @@
 ---
 slug: new-cross-cultural-centre
-title: "New Cross-Cultural Centre"
-date: 2003-10-28
+title: New Cross-Cultural Centre
+date: 2003-10-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0310/S00104/new-cross-cultural-centre.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/10/28/new-cross-cultural-centre/index.html
+layout: layout.njk
 ---
 New Cross-Cultural Centre
 =========================

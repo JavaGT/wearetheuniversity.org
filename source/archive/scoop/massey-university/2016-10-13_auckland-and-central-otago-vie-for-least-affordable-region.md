@@ -1,9 +1,13 @@
 ---
 slug: auckland-and-central-otago-vie-for-least-affordable-region
-title: "Auckland and Central Otago vie for least affordable region"
-date: 2016-10-13
-source-url: https://www.scoop.co.nz/stories/AK1610/S00292/auckland-and-central-otago-vie-for-least-affordable-region.htm
+title: Auckland and Central Otago vie for least affordable region
+date: 2016-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1610/S00292/auckland-and-central-otago-vie-for-least-affordable-region.htm
 author: massey-university
+permalink: >-
+  /archive/2016/10/13/auckland-and-central-otago-vie-for-least-affordable-region/index.html
+layout: layout.njk
 ---
 Auckland and Central Otago vie for least affordable region
 ==========================================================

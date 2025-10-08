@@ -1,9 +1,12 @@
 ---
 slug: aut-professor-wins-supreme-innovator-award
-title: "AUT Professor Wins Supreme Innovator Award"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/ED1510/S00112/aut-professor-wins-supreme-innovator-award.htm
+title: AUT Professor Wins Supreme Innovator Award
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00112/aut-professor-wins-supreme-innovator-award.htm
 author: aut-university
+permalink: /archive/2015/10/22/aut-professor-wins-supreme-innovator-award/index.html
+layout: layout.njk
 ---
 AUT Professor Wins Supreme Innovator Award
 ==========================================

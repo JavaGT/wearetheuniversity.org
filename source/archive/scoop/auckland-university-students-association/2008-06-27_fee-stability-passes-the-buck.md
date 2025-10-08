@@ -1,9 +1,12 @@
 ---
 slug: fee-stability-passes-the-buck
-title: "Fee ‘stability’ passes the buck"
-date: 2008-06-27
-source-url: https://www.scoop.co.nz/stories/ED0806/S00082/fee-stability-passes-the-buck.htm
+title: Fee ‘stability’ passes the buck
+date: 2008-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00082/fee-stability-passes-the-buck.htm
 author: auckland-university-students-association
+permalink: /archive/2008/06/27/fee-stability-passes-the-buck/index.html
+layout: layout.njk
 ---
 Fee ‘stability’ passes the buck
 ===============================

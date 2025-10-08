@@ -1,9 +1,12 @@
 ---
 slug: marine-geology-pioneer-to-deliver-lecture
-title: "Marine geology pioneer to deliver lecture"
-date: 2004-08-09
-source-url: https://www.scoop.co.nz/stories/ED0408/S00028/marine-geology-pioneer-to-deliver-lecture.htm
+title: Marine geology pioneer to deliver lecture
+date: 2004-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00028/marine-geology-pioneer-to-deliver-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/09/marine-geology-pioneer-to-deliver-lecture/index.html
+layout: layout.njk
 ---
 Marine geology pioneer to deliver lecture
 =========================================

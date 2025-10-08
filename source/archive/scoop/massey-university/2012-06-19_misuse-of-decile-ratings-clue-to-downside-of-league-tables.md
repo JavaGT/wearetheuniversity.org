@@ -1,9 +1,13 @@
 ---
 slug: misuse-of-decile-ratings-clue-to-downside-of-league-tables
-title: "Misuse of decile ratings clue to downside of league tables"
-date: 2012-06-19
-source-url: https://www.scoop.co.nz/stories/ED1206/S00085/misuse-of-decile-ratings-clue-to-downside-of-league-tables.htm
+title: Misuse of decile ratings clue to downside of league tables
+date: 2012-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00085/misuse-of-decile-ratings-clue-to-downside-of-league-tables.htm
 author: massey-university
+permalink: >-
+  /archive/2012/06/19/misuse-of-decile-ratings-clue-to-downside-of-league-tables/index.html
+layout: layout.njk
 ---
 Misuse of decile ratings clue to downside of league tables
 ==========================================================

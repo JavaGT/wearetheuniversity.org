@@ -1,9 +1,11 @@
 ---
 slug: ausa-supports-teu-strike
-title: "AUSA Supports TEU Strike"
-date: 2017-03-14
+title: AUSA Supports TEU Strike
+date: 2017-03-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1703/S00165/ausa-supports-teu-strike.htm
 author: ausa
+permalink: /archive/2017/03/14/ausa-supports-teu-strike/index.html
+layout: layout.njk
 ---
 AUSA Supports TEU Strike
 ========================

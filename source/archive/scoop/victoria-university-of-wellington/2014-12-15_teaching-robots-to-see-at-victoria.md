@@ -1,9 +1,12 @@
 ---
 slug: teaching-robots-to-see-at-victoria
-title: "Teaching robots to see at Victoria"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/SC1412/S00043/teaching-robots-to-see-at-victoria.htm
+title: Teaching robots to see at Victoria
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00043/teaching-robots-to-see-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/15/teaching-robots-to-see-at-victoria/index.html
+layout: layout.njk
 ---
 Teaching robots to see at Victoria
 ==================================

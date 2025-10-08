@@ -1,9 +1,12 @@
 ---
 slug: some-things-dont-change-says-maori-party-whip
-title: "\"Some things don’t change\" says Maori Party Whip"
-date: 2011-06-13
-source-url: https://www.scoop.co.nz/stories/PA1106/S00199/some-things-dont-change-says-maori-party-whip.htm
+title: '"Some things don’t change" says Maori Party Whip'
+date: 2011-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00199/some-things-dont-change-says-maori-party-whip.htm
 author: te-pati-maori
+permalink: /archive/2011/06/13/some-things-dont-change-says-maori-party-whip/index.html
+layout: layout.njk
 ---
 “Some things don’t change” says Maori Party Whip
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: fair-to-showcase-young-science-talent
-title: "Fair to showcase young science talent"
-date: 2007-08-20
-source-url: https://www.scoop.co.nz/stories/ED0708/S00050/fair-to-showcase-young-science-talent.htm
+title: Fair to showcase young science talent
+date: 2007-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00050/fair-to-showcase-young-science-talent.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/20/fair-to-showcase-young-science-talent/index.html
+layout: layout.njk
 ---
 Fair to showcase young science talent
 =====================================

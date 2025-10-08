@@ -1,9 +1,12 @@
 ---
 slug: ctu-backs-striking-aut-academics
-title: "CTU backs striking AUT academics"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/ED0508/S00113/ctu-backs-striking-aut-academics.htm
+title: CTU backs striking AUT academics
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00113/ctu-backs-striking-aut-academics.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/08/30/ctu-backs-striking-aut-academics/index.html
+layout: layout.njk
 ---
 CTU backs striking AUT academics
 ================================

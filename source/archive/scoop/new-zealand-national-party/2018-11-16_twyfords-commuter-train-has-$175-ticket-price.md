@@ -1,9 +1,12 @@
 ---
 slug: twyfords-commuter-train-has-$175-ticket-price
-title: "Twyford’s commuter train has $175 ticket price"
-date: 2018-11-16
-source-url: https://www.scoop.co.nz/stories/PA1811/S00176/twyfords-commuter-train-has-175-ticket-price.htm
+title: Twyford’s commuter train has $175 ticket price
+date: 2018-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00176/twyfords-commuter-train-has-175-ticket-price.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/16/twyfords-commuter-train-has-/index.html
+layout: layout.njk
 ---
 Twyford’s commuter train has $175 ticket price
 ==============================================

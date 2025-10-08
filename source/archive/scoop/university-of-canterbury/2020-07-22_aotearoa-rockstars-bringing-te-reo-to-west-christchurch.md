@@ -1,9 +1,13 @@
 ---
 slug: aotearoa-rockstars-bringing-te-reo-to-west-christchurch
-title: "Aotearoa Rockstars Bringing Te Reo To West Christchurch"
-date: 2020-07-22
-source-url: https://www.scoop.co.nz/stories/ED2007/S00026/aotearoa-rockstars-bringing-te-reo-to-west-christchurch.htm
+title: Aotearoa Rockstars Bringing Te Reo To West Christchurch
+date: 2020-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00026/aotearoa-rockstars-bringing-te-reo-to-west-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/07/22/aotearoa-rockstars-bringing-te-reo-to-west-christchurch/index.html
+layout: layout.njk
 ---
 Aotearoa Rockstars Bringing Te Reo To West Christchurch
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: otago-universitys-top-supervisors-awarded
-title: "Otago University’s Top Supervisors Awarded"
-date: 2013-08-27
-source-url: https://www.scoop.co.nz/stories/ED1308/S00132/otago-universitys-top-supervisors-awarded.htm
+title: Otago University’s Top Supervisors Awarded
+date: 2013-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00132/otago-universitys-top-supervisors-awarded.htm
 author: ousa
+permalink: /archive/2013/08/27/otago-universitys-top-supervisors-awarded/index.html
+layout: layout.njk
 ---
 Otago University’s Top Supervisors Awarded
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: global-supercomputer-rankings-uc-in-the-top-100
-title: "Global supercomputer rankings: UC in the Top 100"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/ED0706/S00117/global-supercomputer-rankings-uc-in-the-top-100.htm
+title: 'Global supercomputer rankings: UC in the Top 100'
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00117/global-supercomputer-rankings-uc-in-the-top-100.htm
 author: university-of-canterbury
+permalink: /archive/2007/06/29/global-supercomputer-rankings-uc-in-the-top-100/index.html
+layout: layout.njk
 ---
 Global supercomputer rankings: UC in the Top 100
 ================================================

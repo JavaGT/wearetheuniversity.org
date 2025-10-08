@@ -1,9 +1,12 @@
 ---
 slug: learning-the-mechanics-of-biomechanics
-title: "Learning the mechanics of biomechanics"
-date: 2017-03-22
-source-url: https://www.scoop.co.nz/stories/ED1703/S00094/learning-the-mechanics-of-biomechanics.htm
+title: Learning the mechanics of biomechanics
+date: 2017-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00094/learning-the-mechanics-of-biomechanics.htm
 author: massey-university
+permalink: /archive/2017/03/22/learning-the-mechanics-of-biomechanics/index.html
+layout: layout.njk
 ---
 Learning the mechanics of biomechanics
 ======================================

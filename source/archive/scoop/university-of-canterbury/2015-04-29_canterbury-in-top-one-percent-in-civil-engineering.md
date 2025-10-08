@@ -1,9 +1,13 @@
 ---
 slug: canterbury-in-top-one-percent-in-civil-engineering
-title: "Canterbury in top one percent in civil engineering"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/ED1504/S00072/canterbury-in-top-one-percent-in-civil-engineering.htm
+title: Canterbury in top one percent in civil engineering
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00072/canterbury-in-top-one-percent-in-civil-engineering.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/29/canterbury-in-top-one-percent-in-civil-engineering/index.html
+layout: layout.njk
 ---
 Canterbury in top one percent in civil engineering
 ==================================================

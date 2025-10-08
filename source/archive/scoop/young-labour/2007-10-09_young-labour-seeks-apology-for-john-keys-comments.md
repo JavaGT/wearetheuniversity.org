@@ -1,9 +1,13 @@
 ---
 slug: young-labour-seeks-apology-for-john-keys-comments
-title: "Young Labour seeks apology for John Key’s Comments"
-date: 2007-10-09
-source-url: https://www.scoop.co.nz/stories/PO0710/S00102/young-labour-seeks-apology-for-john-keys-comments.htm
+title: Young Labour seeks apology for John Key’s Comments
+date: 2007-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0710/S00102/young-labour-seeks-apology-for-john-keys-comments.htm
 author: young-labour
+permalink: >-
+  /archive/2007/10/09/young-labour-seeks-apology-for-john-keys-comments/index.html
+layout: layout.njk
 ---
 Young Labour seeks apology for John Key’s Comments
 ==================================================

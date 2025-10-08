@@ -1,9 +1,11 @@
 ---
 slug: stoats-make-a-splash
-title: "Stoats make a splash"
-date: 2013-09-11
+title: Stoats make a splash
+date: 2013-09-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1309/S00028/stoats-make-a-splash.htm
 author: university-of-waikato
+permalink: /archive/2013/09/11/stoats-make-a-splash/index.html
+layout: layout.njk
 ---
 Stoats make a splash
 ====================

@@ -1,9 +1,13 @@
 ---
 slug: charter-schools-to-remove-the-rights-of-teachers
-title: "Charter Schools To Remove The Rights Of Teachers"
-date: 2024-07-26
-source-url: https://www.scoop.co.nz/stories/PA2407/S00167/charter-schools-to-remove-the-rights-of-teachers.htm
+title: Charter Schools To Remove The Rights Of Teachers
+date: 2024-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00167/charter-schools-to-remove-the-rights-of-teachers.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/07/26/charter-schools-to-remove-the-rights-of-teachers/index.html
+layout: layout.njk
 ---
 Charter Schools To Remove The Rights Of Teachers
 ================================================

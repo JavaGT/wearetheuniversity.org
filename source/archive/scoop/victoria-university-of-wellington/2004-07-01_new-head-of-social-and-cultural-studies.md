@@ -1,9 +1,12 @@
 ---
 slug: new-head-of-social-and-cultural-studies
-title: "New Head of Social and Cultural Studies"
-date: 2004-07-01
-source-url: https://www.scoop.co.nz/stories/ED0407/S00001/new-head-of-social-and-cultural-studies.htm
+title: New Head of Social and Cultural Studies
+date: 2004-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00001/new-head-of-social-and-cultural-studies.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/07/01/new-head-of-social-and-cultural-studies/index.html
+layout: layout.njk
 ---
 New Head of Social and Cultural Studies
 =======================================

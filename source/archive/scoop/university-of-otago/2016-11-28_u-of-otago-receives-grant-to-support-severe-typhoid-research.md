@@ -1,9 +1,13 @@
 ---
 slug: u-of-otago-receives-grant-to-support-severe-typhoid-research
-title: "U of Otago receives grant to support severe typhoid research"
-date: 2016-11-28
-source-url: https://www.scoop.co.nz/stories/GE1611/S00148/u-of-otago-receives-grant-to-support-severe-typhoid-research.htm
+title: U of Otago receives grant to support severe typhoid research
+date: 2016-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1611/S00148/u-of-otago-receives-grant-to-support-severe-typhoid-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/11/28/u-of-otago-receives-grant-to-support-severe-typhoid-research/index.html
+layout: layout.njk
 ---
 U of Otago receives grant to support severe typhoid research
 ============================================================

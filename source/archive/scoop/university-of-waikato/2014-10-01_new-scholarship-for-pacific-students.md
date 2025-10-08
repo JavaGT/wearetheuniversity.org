@@ -1,9 +1,12 @@
 ---
 slug: new-scholarship-for-pacific-students
-title: "New scholarship for Pacific students"
-date: 2014-10-01
-source-url: https://www.scoop.co.nz/stories/ED1410/S00014/new-scholarship-for-pacific-students.htm
+title: New scholarship for Pacific students
+date: 2014-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00014/new-scholarship-for-pacific-students.htm
 author: university-of-waikato
+permalink: /archive/2014/10/01/new-scholarship-for-pacific-students/index.html
+layout: layout.njk
 ---
 New scholarship for Pacific students
 ====================================

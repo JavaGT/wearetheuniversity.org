@@ -1,9 +1,12 @@
 ---
 slug: greens-compare-apples-with-oranges
-title: "Greens Compare Apples With Oranges"
-date: 2003-01-17
-source-url: https://www.scoop.co.nz/stories/PA0301/S00110/greens-compare-apples-with-oranges.htm
+title: Greens Compare Apples With Oranges
+date: 2003-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00110/greens-compare-apples-with-oranges.htm
 author: act-new-zealand
+permalink: /archive/2003/01/17/greens-compare-apples-with-oranges/index.html
+layout: layout.njk
 ---
 Greens Compare Apples With Oranges
 ==================================

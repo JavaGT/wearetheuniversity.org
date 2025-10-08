@@ -1,9 +1,12 @@
 ---
 slug: hewlett-packard-scholar-announced
-title: "Hewlett-Packard Scholar Announced"
-date: 2006-06-09
-source-url: https://www.scoop.co.nz/stories/ED0606/S00016/hewlett-packard-scholar-announced.htm
+title: Hewlett-Packard Scholar Announced
+date: 2006-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00016/hewlett-packard-scholar-announced.htm
 author: university-of-otago
+permalink: /archive/2006/06/09/hewlett-packard-scholar-announced/index.html
+layout: layout.njk
 ---
 Hewlett-Packard Scholar Announced
 =================================

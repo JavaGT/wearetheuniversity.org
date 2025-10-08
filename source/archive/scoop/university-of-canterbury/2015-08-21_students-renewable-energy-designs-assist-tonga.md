@@ -1,9 +1,12 @@
 ---
 slug: students-renewable-energy-designs-assist-tonga
-title: "Students’ renewable energy designs assist Tonga"
-date: 2015-08-21
-source-url: https://www.scoop.co.nz/stories/SC1508/S00039/students-renewable-energy-designs-assist-tonga.htm
+title: Students’ renewable energy designs assist Tonga
+date: 2015-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1508/S00039/students-renewable-energy-designs-assist-tonga.htm
 author: university-of-canterbury
+permalink: /archive/2015/08/21/students-renewable-energy-designs-assist-tonga/index.html
+layout: layout.njk
 ---
 Students’ renewable energy designs assist Tonga
 ===============================================

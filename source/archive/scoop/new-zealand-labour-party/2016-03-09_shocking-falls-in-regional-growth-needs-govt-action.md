@@ -1,9 +1,13 @@
 ---
 slug: shocking-falls-in-regional-growth-needs-govt-action
-title: "Shocking falls in regional growth needs Govt action"
-date: 2016-03-09
-source-url: https://www.scoop.co.nz/stories/PA1603/S00147/shocking-falls-in-regional-growth-needs-govt-action.htm
+title: Shocking falls in regional growth needs Govt action
+date: 2016-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00147/shocking-falls-in-regional-growth-needs-govt-action.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/03/09/shocking-falls-in-regional-growth-needs-govt-action/index.html
+layout: layout.njk
 ---
 Shocking falls in regional growth needs Govt action
 ===================================================

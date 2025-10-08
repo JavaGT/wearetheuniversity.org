@@ -1,8 +1,12 @@
 ---
 slug: population-ageing-may-lead-to-increased-negative-effects-of-dementia
-title: "Population ageing may lead to increased negative effects of dementia"
-date: 2017-05-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/population-ageing-dementia.html
+title: Population ageing may lead to increased negative effects of dementia
+date: 2017-05-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/population-ageing-dementia.html
+permalink: >-
+  /archive/2017/05/10/population-ageing-may-lead-to-increased-negative-effects-of-dementia/index.html
+layout: layout.njk
 ---
 Population ageing may lead to increased negative effects of dementia
 ====================================================================

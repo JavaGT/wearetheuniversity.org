@@ -1,9 +1,12 @@
 ---
 slug: marriage-bill-all-about-fairness
-title: "Marriage Bill all about fairness"
-date: 2012-11-07
-source-url: https://www.scoop.co.nz/stories/PA1211/S00108/marriage-bill-all-about-fairness.htm
+title: Marriage Bill all about fairness
+date: 2012-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00108/marriage-bill-all-about-fairness.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/07/marriage-bill-all-about-fairness/index.html
+layout: layout.njk
 ---
 Marriage Bill all about fairness
 ================================

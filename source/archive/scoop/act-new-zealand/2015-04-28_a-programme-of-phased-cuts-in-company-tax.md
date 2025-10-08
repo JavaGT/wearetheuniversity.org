@@ -1,9 +1,12 @@
 ---
 slug: a-programme-of-phased-cuts-in-company-tax
-title: "A Programme of Phased Cuts in Company Tax"
-date: 2015-04-28
-source-url: https://www.scoop.co.nz/stories/PA1504/S00362/a-programme-of-phased-cuts-in-company-tax.htm
+title: A Programme of Phased Cuts in Company Tax
+date: 2015-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00362/a-programme-of-phased-cuts-in-company-tax.htm
 author: act-new-zealand
+permalink: /archive/2015/04/28/a-programme-of-phased-cuts-in-company-tax/index.html
+layout: layout.njk
 ---
 A Programme of Phased Cuts in Company Tax
 =========================================

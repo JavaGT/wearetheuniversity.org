@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-partners-with-equidays
-title: "Waikato University partners with Equidays"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/CU1210/S00373/waikato-university-partners-with-equidays.htm
+title: Waikato University partners with Equidays
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1210/S00373/waikato-university-partners-with-equidays.htm
 author: university-of-waikato
+permalink: /archive/2012/10/18/waikato-university-partners-with-equidays/index.html
+layout: layout.njk
 ---
 Waikato University partners with Equidays
 =========================================

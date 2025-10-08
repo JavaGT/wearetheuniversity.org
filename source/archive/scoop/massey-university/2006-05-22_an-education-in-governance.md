@@ -1,9 +1,11 @@
 ---
 slug: an-education-in-governance
-title: "An education in governance"
-date: 2006-05-22
+title: An education in governance
+date: 2006-05-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0605/S00081/an-education-in-governance.htm
 author: massey-university
+permalink: /archive/2006/05/22/an-education-in-governance/index.html
+layout: layout.njk
 ---
 An education in governance
 ==========================

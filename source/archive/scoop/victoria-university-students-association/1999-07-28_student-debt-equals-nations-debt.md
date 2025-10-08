@@ -1,9 +1,12 @@
 ---
 slug: student-debt-equals-nations-debt
-title: "Student Debt Equals Nation's Debt"
-date: 1999-07-28
-source-url: https://www.scoop.co.nz/stories/ED9907/S00035/student-debt-equals-nations-debt.htm
+title: Student Debt Equals Nation's Debt
+date: 1999-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9907/S00035/student-debt-equals-nations-debt.htm
 author: victoria-university-students-association
+permalink: /archive/1999/07/28/student-debt-equals-nations-debt/index.html
+layout: layout.njk
 ---
 Student Debt Equals Nation's Debt
 =================================

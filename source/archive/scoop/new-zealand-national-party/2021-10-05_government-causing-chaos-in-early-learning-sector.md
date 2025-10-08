@@ -1,9 +1,13 @@
 ---
 slug: government-causing-chaos-in-early-learning-sector
-title: "Government Causing Chaos In Early Learning Sector"
-date: 2021-10-05
-source-url: https://www.scoop.co.nz/stories/PA2110/S00049/government-causing-chaos-in-early-learning-sector.htm
+title: Government Causing Chaos In Early Learning Sector
+date: 2021-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00049/government-causing-chaos-in-early-learning-sector.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/05/government-causing-chaos-in-early-learning-sector/index.html
+layout: layout.njk
 ---
 Government Causing Chaos In Early Learning Sector
 =================================================

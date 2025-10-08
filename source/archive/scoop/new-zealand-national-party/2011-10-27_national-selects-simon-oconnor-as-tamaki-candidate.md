@@ -1,9 +1,13 @@
 ---
 slug: national-selects-simon-oconnor-as-tamaki-candidate
-title: "National Selects Simon O'Connor as Tamaki Candidate"
-date: 2011-10-27
-source-url: https://www.scoop.co.nz/stories/PO1110/S00460/national-selects-simon-oconnor-as-tamaki-candidate.htm
+title: National Selects Simon O'Connor as Tamaki Candidate
+date: 2011-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00460/national-selects-simon-oconnor-as-tamaki-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/10/27/national-selects-simon-oconnor-as-tamaki-candidate/index.html
+layout: layout.njk
 ---
 National Selects Simon O'Connor as Tamaki Candidate
 ===================================================

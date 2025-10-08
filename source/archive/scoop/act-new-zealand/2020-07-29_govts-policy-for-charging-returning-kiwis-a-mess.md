@@ -1,9 +1,13 @@
 ---
 slug: govts-policy-for-charging-returning-kiwis-a-mess
-title: "Govt’s Policy For Charging Returning Kiwis A Mess"
-date: 2020-07-29
-source-url: https://www.scoop.co.nz/stories/PA2007/S00279/govts-policy-for-charging-returning-kiwis-a-mess.htm
+title: Govt’s Policy For Charging Returning Kiwis A Mess
+date: 2020-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00279/govts-policy-for-charging-returning-kiwis-a-mess.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/07/29/govts-policy-for-charging-returning-kiwis-a-mess/index.html
+layout: layout.njk
 ---
 Govt’s Policy For Charging Returning Kiwis A Mess
 =================================================

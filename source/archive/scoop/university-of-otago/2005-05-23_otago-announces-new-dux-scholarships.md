@@ -1,9 +1,12 @@
 ---
 slug: otago-announces-new-dux-scholarships
-title: "Otago announces new Dux Scholarships"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/ED0505/S00101/otago-announces-new-dux-scholarships.htm
+title: Otago announces new Dux Scholarships
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00101/otago-announces-new-dux-scholarships.htm
 author: university-of-otago
+permalink: /archive/2005/05/23/otago-announces-new-dux-scholarships/index.html
+layout: layout.njk
 ---
 Otago announces new Dux Scholarships
 ====================================

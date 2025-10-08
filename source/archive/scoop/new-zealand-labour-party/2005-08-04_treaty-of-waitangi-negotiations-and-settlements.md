@@ -1,9 +1,12 @@
 ---
 slug: treaty-of-waitangi-negotiations-and-settlements
-title: "Treaty of Waitangi – negotiations and settlements"
-date: 2005-08-04
-source-url: https://www.scoop.co.nz/stories/PA0508/S00126/treaty-of-waitangi-negotiations-and-settlements.htm
+title: Treaty of Waitangi – negotiations and settlements
+date: 2005-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00126/treaty-of-waitangi-negotiations-and-settlements.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/04/treaty-of-waitangi-negotiations-and-settlements/index.html
+layout: layout.njk
 ---
 Treaty of Waitangi – negotiations and settlements
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: study-abroad-awards-take-students-further
-title: "Study abroad awards take students further"
-date: 2007-12-05
-source-url: https://www.scoop.co.nz/stories/ED0712/S00019/study-abroad-awards-take-students-further.htm
+title: Study abroad awards take students further
+date: 2007-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00019/study-abroad-awards-take-students-further.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/12/05/study-abroad-awards-take-students-further/index.html
+layout: layout.njk
 ---
 Study abroad awards take students further
 =========================================

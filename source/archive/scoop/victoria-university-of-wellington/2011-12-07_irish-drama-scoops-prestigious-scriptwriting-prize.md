@@ -1,9 +1,13 @@
 ---
 slug: irish-drama-scoops-prestigious-scriptwriting-prize
-title: "Irish drama scoops prestigious scriptwriting prize"
-date: 2011-12-07
-source-url: https://www.scoop.co.nz/stories/CU1112/S00097/irish-drama-scoops-prestigious-scriptwriting-prize.htm
+title: Irish drama scoops prestigious scriptwriting prize
+date: 2011-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1112/S00097/irish-drama-scoops-prestigious-scriptwriting-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/12/07/irish-drama-scoops-prestigious-scriptwriting-prize/index.html
+layout: layout.njk
 ---
 Irish drama scoops prestigious scriptwriting prize
 ==================================================

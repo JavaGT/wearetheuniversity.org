@@ -1,9 +1,13 @@
 ---
 slug: accentuating-the-positive-out-of-earthquake-adversity
-title: "Accentuating the positive out of earthquake adversity"
-date: 2016-02-22
-source-url: https://www.scoop.co.nz/stories/PO1602/S00287/accentuating-the-positive-out-of-earthquake-adversity.htm
+title: Accentuating the positive out of earthquake adversity
+date: 2016-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1602/S00287/accentuating-the-positive-out-of-earthquake-adversity.htm
 author: massey-university
+permalink: >-
+  /archive/2016/02/22/accentuating-the-positive-out-of-earthquake-adversity/index.html
+layout: layout.njk
 ---
 Accentuating the positive out of earthquake adversity
 =====================================================

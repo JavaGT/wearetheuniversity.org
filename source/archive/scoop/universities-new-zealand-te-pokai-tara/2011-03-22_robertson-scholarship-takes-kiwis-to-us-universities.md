@@ -1,9 +1,13 @@
 ---
 slug: robertson-scholarship-takes-kiwis-to-us-universities
-title: "Robertson Scholarship Takes Kiwis to US Universities"
-date: 2011-03-22
-source-url: https://www.scoop.co.nz/stories/ED1103/S00094/robertson-scholarship-takes-kiwis-to-us-universities.htm
+title: Robertson Scholarship Takes Kiwis to US Universities
+date: 2011-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00094/robertson-scholarship-takes-kiwis-to-us-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2011/03/22/robertson-scholarship-takes-kiwis-to-us-universities/index.html
+layout: layout.njk
 ---
 Robertson Scholarship Takes Kiwis to US Universities
 ====================================================

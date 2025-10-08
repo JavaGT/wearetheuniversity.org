@@ -1,9 +1,12 @@
 ---
 slug: knowledge-wave-selected-speaker-biographies
-title: "Knowledge Wave - Selected Speaker Biographies"
-date: 2001-05-31
-source-url: https://www.scoop.co.nz/stories/PO0105/S00144/knowledge-wave-selected-speaker-biographies.htm
+title: Knowledge Wave - Selected Speaker Biographies
+date: 2001-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0105/S00144/knowledge-wave-selected-speaker-biographies.htm
 author: auckland-university
+permalink: /archive/2001/05/31/knowledge-wave-selected-speaker-biographies/index.html
+layout: layout.njk
 ---
 Knowledge Wave - Selected Speaker Biographies
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: wellington-top-town-or-porn-town
-title: "Wellington - Top Town Or Porn Town?"
-date: 2000-11-22
-source-url: https://www.scoop.co.nz/stories/PA0011/S00389/wellington-top-town-or-porn-town.htm
+title: Wellington - Top Town Or Porn Town?
+date: 2000-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00389/wellington-top-town-or-porn-town.htm
 author: new-zealand-first-party
+permalink: /archive/2000/11/22/wellington-top-town-or-porn-town/index.html
+layout: layout.njk
 ---
 Wellington - Top Town Or Porn Town?
 ===================================

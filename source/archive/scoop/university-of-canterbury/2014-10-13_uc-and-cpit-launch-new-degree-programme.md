@@ -1,9 +1,12 @@
 ---
 slug: uc-and-cpit-launch-new-degree-programme
-title: "UC and CPIT launch new degree programme"
-date: 2014-10-13
-source-url: https://www.scoop.co.nz/stories/ED1410/S00073/uc-and-cpit-launch-new-degree-programme.htm
+title: UC and CPIT launch new degree programme
+date: 2014-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00073/uc-and-cpit-launch-new-degree-programme.htm
 author: university-of-canterbury
+permalink: /archive/2014/10/13/uc-and-cpit-launch-new-degree-programme/index.html
+layout: layout.njk
 ---
 UC and CPIT launch new degree programme
 =======================================

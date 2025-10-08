@@ -1,9 +1,13 @@
 ---
 slug: priceless-old-nz-films-discovered-in-a-californian-garage
-title: "Priceless old NZ films discovered in a Californian garage"
-date: 2014-12-11
-source-url: https://www.scoop.co.nz/stories/CU1412/S00238/priceless-old-nz-films-discovered-in-a-californian-garage.htm
+title: Priceless old NZ films discovered in a Californian garage
+date: 2014-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00238/priceless-old-nz-films-discovered-in-a-californian-garage.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/11/priceless-old-nz-films-discovered-in-a-californian-garage/index.html
+layout: layout.njk
 ---
 Priceless old NZ films discovered in a Californian garage
 =========================================================

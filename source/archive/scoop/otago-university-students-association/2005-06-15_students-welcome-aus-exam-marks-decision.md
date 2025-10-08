@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-aus-exam-marks-decision
-title: "Students Welcome AUS Exam Marks Decision"
-date: 2005-06-15
-source-url: https://www.scoop.co.nz/stories/ED0506/S00040/students-welcome-aus-exam-marks-decision.htm
+title: Students Welcome AUS Exam Marks Decision
+date: 2005-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00040/students-welcome-aus-exam-marks-decision.htm
 author: otago-university-students-association
+permalink: /archive/2005/06/15/students-welcome-aus-exam-marks-decision/index.html
+layout: layout.njk
 ---
 Students Welcome AUS Exam Marks Decision
 ========================================

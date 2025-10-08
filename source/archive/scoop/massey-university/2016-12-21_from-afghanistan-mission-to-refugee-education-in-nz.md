@@ -1,9 +1,13 @@
 ---
 slug: from-afghanistan-mission-to-refugee-education-in-nz
-title: "From Afghanistan mission to refugee education in NZ"
-date: 2016-12-21
-source-url: https://www.scoop.co.nz/stories/ED1612/S00079/from-afghanistan-mission-to-refugee-education-in-nz.htm
+title: From Afghanistan mission to refugee education in NZ
+date: 2016-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00079/from-afghanistan-mission-to-refugee-education-in-nz.htm
 author: massey-university
+permalink: >-
+  /archive/2016/12/21/from-afghanistan-mission-to-refugee-education-in-nz/index.html
+layout: layout.njk
 ---
 From Afghanistan mission to refugee education in NZ
 ===================================================

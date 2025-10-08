@@ -1,9 +1,12 @@
 ---
 slug: nemp-helps-identify-students-strengths
-title: "NEMP Helps Identify Students Strengths"
-date: 2006-08-25
-source-url: https://www.scoop.co.nz/stories/ED0608/S00079/nemp-helps-identify-students-strengths.htm
+title: NEMP Helps Identify Students Strengths
+date: 2006-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00079/nemp-helps-identify-students-strengths.htm
 author: nzei
+permalink: /archive/2006/08/25/nemp-helps-identify-students-strengths/index.html
+layout: layout.njk
 ---
 NEMP Helps Identify Students Strengths
 ======================================

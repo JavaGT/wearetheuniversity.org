@@ -1,9 +1,12 @@
 ---
 slug: lights-dim-on-labour-in-do-nothing-budget
-title: "Lights dim on Labour in 'do nothing' budget"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/PA0305/S00405/lights-dim-on-labour-in-do-nothing-budget.htm
+title: Lights dim on Labour in 'do nothing' budget
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00405/lights-dim-on-labour-in-do-nothing-budget.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/15/lights-dim-on-labour-in-do-nothing-budget/index.html
+layout: layout.njk
 ---
 Lights dim on Labour in 'do nothing' budget
 ===========================================

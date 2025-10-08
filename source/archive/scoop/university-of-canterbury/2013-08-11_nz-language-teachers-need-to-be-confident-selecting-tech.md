@@ -1,9 +1,13 @@
 ---
 slug: nz-language-teachers-need-to-be-confident-selecting-tech
-title: "NZ language teachers need to be confident selecting tech"
-date: 2013-08-11
-source-url: https://www.scoop.co.nz/stories/ED1308/S00048/nz-language-teachers-need-to-be-confident-selecting-tech.htm
+title: NZ language teachers need to be confident selecting tech
+date: 2013-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00048/nz-language-teachers-need-to-be-confident-selecting-tech.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/11/nz-language-teachers-need-to-be-confident-selecting-tech/index.html
+layout: layout.njk
 ---
 NZ language teachers need to be confident selecting tech
 ========================================================

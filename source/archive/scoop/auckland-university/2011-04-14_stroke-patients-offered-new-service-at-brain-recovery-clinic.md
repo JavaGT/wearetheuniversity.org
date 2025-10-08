@@ -1,9 +1,13 @@
 ---
 slug: stroke-patients-offered-new-service-at-brain-recovery-clinic
-title: "Stroke Patients Offered New Service at Brain Recovery Clinic"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/GE1104/S00034/stroke-patients-offered-new-service-at-brain-recovery-clinic.htm
+title: Stroke Patients Offered New Service at Brain Recovery Clinic
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1104/S00034/stroke-patients-offered-new-service-at-brain-recovery-clinic.htm
 author: auckland-university
+permalink: >-
+  /archive/2011/04/14/stroke-patients-offered-new-service-at-brain-recovery-clinic/index.html
+layout: layout.njk
 ---
 Stroke Patients Offered New Service at Brain Recovery Clinic
 ============================================================

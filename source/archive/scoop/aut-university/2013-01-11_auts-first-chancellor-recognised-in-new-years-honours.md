@@ -1,9 +1,13 @@
 ---
 slug: auts-first-chancellor-recognised-in-new-years-honours
-title: "AUT’s First Chancellor Recognised In New Year’s Honours"
-date: 2013-01-11
-source-url: https://www.scoop.co.nz/stories/ED1301/S00013/auts-first-chancellor-recognised-in-new-years-honours.htm
+title: AUT’s First Chancellor Recognised In New Year’s Honours
+date: 2013-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00013/auts-first-chancellor-recognised-in-new-years-honours.htm
 author: aut-university
+permalink: >-
+  /archive/2013/01/11/auts-first-chancellor-recognised-in-new-years-honours/index.html
+layout: layout.njk
 ---
 AUT’s First Chancellor Recognised In New Year’s Honours
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: italian-humanitarian-expert-to-study-international-aid-work
-title: "Italian humanitarian expert to study international aid work"
-date: 2013-08-03
-source-url: https://www.scoop.co.nz/stories/ED1308/S00014/italian-humanitarian-expert-to-study-international-aid-work.htm
+title: Italian humanitarian expert to study international aid work
+date: 2013-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00014/italian-humanitarian-expert-to-study-international-aid-work.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/03/italian-humanitarian-expert-to-study-international-aid-work/index.html
+layout: layout.njk
 ---
 Italian humanitarian expert to study international aid work
 ===========================================================

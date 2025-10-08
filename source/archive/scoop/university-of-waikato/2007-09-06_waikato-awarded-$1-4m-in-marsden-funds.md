@@ -1,9 +1,12 @@
 ---
 slug: waikato-awarded-$1-4m-in-marsden-funds
-title: "Waikato awarded $1.4m in Marsden Funds"
-date: 2007-09-06
-source-url: https://www.scoop.co.nz/stories/ED0709/S00018/waikato-awarded-14m-in-marsden-funds.htm
+title: Waikato awarded $1.4m in Marsden Funds
+date: 2007-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00018/waikato-awarded-14m-in-marsden-funds.htm
 author: university-of-waikato
+permalink: /archive/2007/09/06/waikato-awarded-/index.html
+layout: layout.njk
 ---
 Waikato awarded $1.4m in Marsden Funds
 ======================================

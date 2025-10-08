@@ -1,9 +1,12 @@
 ---
 slug: transforming-everyday-objects-into-art
-title: "Transforming everyday objects into art"
-date: 2016-08-31
-source-url: https://www.scoop.co.nz/stories/CU1608/S00333/transforming-everyday-objects-into-art.htm
+title: Transforming everyday objects into art
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1608/S00333/transforming-everyday-objects-into-art.htm
 author: massey-university
+permalink: /archive/2016/08/31/transforming-everyday-objects-into-art/index.html
+layout: layout.njk
 ---
 Transforming everyday objects into art
 ======================================

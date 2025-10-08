@@ -1,9 +1,12 @@
 ---
 slug: budget-a-missed-opportunity-say-universities
-title: "Budget a missed opportunity, say universities"
-date: 2018-05-17
-source-url: https://www.scoop.co.nz/stories/ED1805/S00039/budget-a-missed-opportunity-say-universities.htm
+title: Budget a missed opportunity, say universities
+date: 2018-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1805/S00039/budget-a-missed-opportunity-say-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2018/05/17/budget-a-missed-opportunity-say-universities/index.html
+layout: layout.njk
 ---
 Budget a missed opportunity, say universities
 =============================================

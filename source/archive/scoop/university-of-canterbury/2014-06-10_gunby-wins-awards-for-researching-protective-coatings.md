@@ -1,9 +1,13 @@
 ---
 slug: gunby-wins-awards-for-researching-protective-coatings
-title: "Gunby wins awards for researching protective coatings"
-date: 2014-06-10
-source-url: https://www.scoop.co.nz/stories/SC1406/S00023/gunby-wins-awards-for-researching-protective-coatings.htm
+title: Gunby wins awards for researching protective coatings
+date: 2014-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00023/gunby-wins-awards-for-researching-protective-coatings.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/10/gunby-wins-awards-for-researching-protective-coatings/index.html
+layout: layout.njk
 ---
 Gunby wins awards for researching protective coatings
 =====================================================

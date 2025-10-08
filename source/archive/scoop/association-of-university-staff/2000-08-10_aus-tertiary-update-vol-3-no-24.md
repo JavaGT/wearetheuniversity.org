@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-24
-title: "AUS Tertiary Update Vol.3 No.24"
-date: 2000-08-10
-source-url: https://www.scoop.co.nz/stories/ED0008/S00023/aus-tertiary-update-vol3-no24.htm
+title: AUS Tertiary Update Vol.3 No.24
+date: 2000-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00023/aus-tertiary-update-vol3-no24.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/10/aus-tertiary-update-vol-3-no-24/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.24
 ===============================

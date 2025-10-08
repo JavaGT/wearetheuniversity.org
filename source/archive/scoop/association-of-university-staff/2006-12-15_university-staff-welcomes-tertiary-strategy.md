@@ -1,9 +1,12 @@
 ---
 slug: university-staff-welcomes-tertiary-strategy
-title: "University staff welcomes Tertiary Strategy"
-date: 2006-12-15
-source-url: https://www.scoop.co.nz/stories/ED0612/S00048/university-staff-welcomes-tertiary-strategy.htm
+title: University staff welcomes Tertiary Strategy
+date: 2006-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00048/university-staff-welcomes-tertiary-strategy.htm
 author: association-of-university-staff
+permalink: /archive/2006/12/15/university-staff-welcomes-tertiary-strategy/index.html
+layout: layout.njk
 ---
 University staff welcomes Tertiary Strategy
 ===========================================

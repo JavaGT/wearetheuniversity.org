@@ -1,9 +1,13 @@
 ---
 slug: ctu-pleased-with-swift-progress-on-pay-equity-principles
-title: "CTU pleased with swift progress on pay equity principles"
-date: 2018-03-05
-source-url: https://www.scoop.co.nz/stories/PO1803/S00052/ctu-pleased-with-swift-progress-on-pay-equity-principles.htm
+title: CTU pleased with swift progress on pay equity principles
+date: 2018-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1803/S00052/ctu-pleased-with-swift-progress-on-pay-equity-principles.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2018/03/05/ctu-pleased-with-swift-progress-on-pay-equity-principles/index.html
+layout: layout.njk
 ---
 CTU pleased with swift progress on pay equity principles
 ========================================================

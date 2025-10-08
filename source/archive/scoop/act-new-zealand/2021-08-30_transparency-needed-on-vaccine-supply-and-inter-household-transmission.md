@@ -1,9 +1,13 @@
 ---
 slug: transparency-needed-on-vaccine-supply-and-inter-household-transmission
-title: "Transparency needed on vaccine supply and inter-household transmission"
-date: 2021-08-30
-source-url: https://www.scoop.co.nz/stories/PA2108/S00245/transparency-needed-on-vaccine-supply-and-inter-household-transmission.htm
+title: Transparency needed on vaccine supply and inter-household transmission
+date: 2021-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00245/transparency-needed-on-vaccine-supply-and-inter-household-transmission.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/08/30/transparency-needed-on-vaccine-supply-and-inter-household-transmission/index.html
+layout: layout.njk
 ---
 Transparency needed on vaccine supply and inter-household transmission
 ======================================================================

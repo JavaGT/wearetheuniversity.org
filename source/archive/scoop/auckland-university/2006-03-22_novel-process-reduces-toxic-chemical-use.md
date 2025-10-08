@@ -1,9 +1,12 @@
 ---
 slug: novel-process-reduces-toxic-chemical-use
-title: "Novel process reduces toxic chemical use"
-date: 2006-03-22
-source-url: https://www.scoop.co.nz/stories/ED0603/S00060/novel-process-reduces-toxic-chemical-use.htm
+title: Novel process reduces toxic chemical use
+date: 2006-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00060/novel-process-reduces-toxic-chemical-use.htm
 author: auckland-university
+permalink: /archive/2006/03/22/novel-process-reduces-toxic-chemical-use/index.html
+layout: layout.njk
 ---
 Novel process reduces toxic chemical use
 ========================================

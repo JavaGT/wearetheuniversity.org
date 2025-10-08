@@ -1,9 +1,12 @@
 ---
 slug: englishs-amazing-u-turn-on-community-education
-title: "English’s amazing u-turn on community education"
-date: 2004-06-28
-source-url: https://www.scoop.co.nz/stories/PA0406/S00456/englishs-amazing-u-turn-on-community-education.htm
+title: English’s amazing u-turn on community education
+date: 2004-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00456/englishs-amazing-u-turn-on-community-education.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/28/englishs-amazing-u-turn-on-community-education/index.html
+layout: layout.njk
 ---
 English’s amazing u-turn on community education
 ===============================================

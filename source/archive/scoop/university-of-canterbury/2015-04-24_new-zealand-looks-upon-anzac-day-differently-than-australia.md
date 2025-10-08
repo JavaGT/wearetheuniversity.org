@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-looks-upon-anzac-day-differently-than-australia
-title: "New Zealand looks upon Anzac Day differently than Australia"
-date: 2015-04-24
-source-url: https://www.scoop.co.nz/stories/CU1504/S00450/new-zealand-looks-upon-anzac-day-differently-than-australia.htm
+title: New Zealand looks upon Anzac Day differently than Australia
+date: 2015-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00450/new-zealand-looks-upon-anzac-day-differently-than-australia.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/24/new-zealand-looks-upon-anzac-day-differently-than-australia/index.html
+layout: layout.njk
 ---
 New Zealand looks upon Anzac Day differently than Australia
 ===========================================================

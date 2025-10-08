@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-aria-competition
-title: "University of Waikato Aria Competition"
-date: 2017-05-15
-source-url: https://www.scoop.co.nz/stories/CU1705/S00262/university-of-waikato-aria-competition.htm
+title: University of Waikato Aria Competition
+date: 2017-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1705/S00262/university-of-waikato-aria-competition.htm
 author: university-of-waikato
+permalink: /archive/2017/05/15/university-of-waikato-aria-competition/index.html
+layout: layout.njk
 ---
 University of Waikato Aria Competition
 ======================================

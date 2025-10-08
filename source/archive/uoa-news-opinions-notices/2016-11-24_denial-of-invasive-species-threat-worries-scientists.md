@@ -1,8 +1,12 @@
 ---
 slug: denial-of-invasive-species-threat-worries-scientists
-title: "Denial of invasive species threat worries scientists"
-date: 2016-11-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/denial-of-invasive-species-threat-worries-scientists.html
+title: Denial of invasive species threat worries scientists
+date: 2016-11-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/denial-of-invasive-species-threat-worries-scientists.html
+permalink: >-
+  /archive/2016/11/24/denial-of-invasive-species-threat-worries-scientists/index.html
+layout: layout.njk
 ---
 Denial of invasive species threat worries scientists
 ====================================================

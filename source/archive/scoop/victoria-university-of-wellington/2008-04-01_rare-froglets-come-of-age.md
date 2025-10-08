@@ -1,9 +1,11 @@
 ---
 slug: rare-froglets-come-of-age
-title: "Rare froglets come of age"
-date: 2008-04-01
+title: Rare froglets come of age
+date: 2008-04-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0804/S00007/rare-froglets-come-of-age.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/04/01/rare-froglets-come-of-age/index.html
+layout: layout.njk
 ---
 Rare froglets come of age
 =========================

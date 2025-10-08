@@ -1,9 +1,12 @@
 ---
 slug: prominent-surgeon-establishes-scholarship
-title: "Prominent Surgeon Establishes Scholarship"
-date: 2004-07-08
-source-url: https://www.scoop.co.nz/stories/ED0407/S00028/prominent-surgeon-establishes-scholarship.htm
+title: Prominent Surgeon Establishes Scholarship
+date: 2004-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00028/prominent-surgeon-establishes-scholarship.htm
 author: auckland-university
+permalink: /archive/2004/07/08/prominent-surgeon-establishes-scholarship/index.html
+layout: layout.njk
 ---
 Prominent Surgeon Establishes Scholarship
 =========================================

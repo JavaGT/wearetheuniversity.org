@@ -1,9 +1,12 @@
 ---
 slug: cancer-prevention-calls-gain-momentum
-title: "Cancer prevention calls gain momentum"
-date: 2015-04-15
-source-url: https://www.scoop.co.nz/stories/PA1504/S00166/cancer-prevention-calls-gain-momentum.htm
+title: Cancer prevention calls gain momentum
+date: 2015-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00166/cancer-prevention-calls-gain-momentum.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/04/15/cancer-prevention-calls-gain-momentum/index.html
+layout: layout.njk
 ---
 Cancer prevention calls gain momentum
 =====================================

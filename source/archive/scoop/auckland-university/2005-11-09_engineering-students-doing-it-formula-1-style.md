@@ -1,9 +1,12 @@
 ---
 slug: engineering-students-doing-it-formula-1-style
-title: "Engineering students doing it Formula 1 style"
-date: 2005-11-09
-source-url: https://www.scoop.co.nz/stories/ED0511/S00036/engineering-students-doing-it-formula-1-style.htm
+title: Engineering students doing it Formula 1 style
+date: 2005-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00036/engineering-students-doing-it-formula-1-style.htm
 author: auckland-university
+permalink: /archive/2005/11/09/engineering-students-doing-it-formula-1-style/index.html
+layout: layout.njk
 ---
 Engineering students doing it Formula 1 style
 =============================================

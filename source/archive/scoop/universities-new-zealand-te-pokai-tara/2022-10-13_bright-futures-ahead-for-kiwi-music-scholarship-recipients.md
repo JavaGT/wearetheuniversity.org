@@ -1,9 +1,13 @@
 ---
 slug: bright-futures-ahead-for-kiwi-music-scholarship-recipients
-title: "Bright Futures Ahead For Kiwi Music Scholarship Recipients"
-date: 2022-10-13
-source-url: https://www.scoop.co.nz/stories/ED2210/S00020/bright-futures-ahead-for-kiwi-music-scholarship-recipients.htm
+title: Bright Futures Ahead For Kiwi Music Scholarship Recipients
+date: 2022-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2210/S00020/bright-futures-ahead-for-kiwi-music-scholarship-recipients.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/10/13/bright-futures-ahead-for-kiwi-music-scholarship-recipients/index.html
+layout: layout.njk
 ---
 Bright Futures Ahead For Kiwi Music Scholarship Recipients
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: mou-between-aut-and-cook-islands
-title: "MoU between AUT and Cook Islands"
-date: 2012-04-04
-source-url: https://www.scoop.co.nz/stories/ED1204/S00021/mou-between-aut-and-cook-islands.htm
+title: MoU between AUT and Cook Islands
+date: 2012-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00021/mou-between-aut-and-cook-islands.htm
 author: aut-university
+permalink: /archive/2012/04/04/mou-between-aut-and-cook-islands/index.html
+layout: layout.njk
 ---
 MoU between AUT and Cook Islands
 ================================

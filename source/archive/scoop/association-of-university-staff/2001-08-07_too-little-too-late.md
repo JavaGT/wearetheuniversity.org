@@ -1,9 +1,11 @@
 ---
 slug: too-little-too-late
-title: "Too little, too late"
-date: 2001-08-07
+title: Too little, too late
+date: 2001-08-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0108/S00024/too-little-too-late.htm
 author: association-of-university-staff
+permalink: /archive/2001/08/07/too-little-too-late/index.html
+layout: layout.njk
 ---
 Too little, too late
 ====================

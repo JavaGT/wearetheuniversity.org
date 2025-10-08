@@ -1,9 +1,12 @@
 ---
 slug: health-minister-deciding-education-policy
-title: "Health Minister Deciding Education Policy?"
-date: 2000-08-24
-source-url: https://www.scoop.co.nz/stories/PA0008/S00463/health-minister-deciding-education-policy.htm
+title: Health Minister Deciding Education Policy?
+date: 2000-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00463/health-minister-deciding-education-policy.htm
 author: act-new-zealand
+permalink: /archive/2000/08/24/health-minister-deciding-education-policy/index.html
+layout: layout.njk
 ---
 Health Minister Deciding Education Policy?
 ==========================================

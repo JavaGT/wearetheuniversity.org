@@ -1,9 +1,12 @@
 ---
 slug: arthur-or-martha-let-the-commission-decide!
-title: "Arthur Or Martha? Let The Commission Decide!"
-date: 2008-01-18
-source-url: https://www.scoop.co.nz/stories/PA0801/S00135/arthur-or-martha-let-the-commission-decide.htm
+title: Arthur Or Martha? Let The Commission Decide!
+date: 2008-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00135/arthur-or-martha-let-the-commission-decide.htm
 author: new-zealand-first-party
+permalink: /archive/2008/01/18/arthur-or-martha-let-the-commission-decide/index.html
+layout: layout.njk
 ---
 Arthur Or Martha? Let The Commission Decide!
 ============================================

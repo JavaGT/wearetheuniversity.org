@@ -1,9 +1,12 @@
 ---
 slug: shane-jones-in-la-la-land-on-the-economy
-title: "Shane Jones in La La Land on the economy"
-date: 2019-07-12
-source-url: https://www.scoop.co.nz/stories/PA1907/S00094/shane-jones-in-la-la-land-on-the-economy.htm
+title: Shane Jones in La La Land on the economy
+date: 2019-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00094/shane-jones-in-la-la-land-on-the-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2019/07/12/shane-jones-in-la-la-land-on-the-economy/index.html
+layout: layout.njk
 ---
 Shane Jones in La La Land on the economy
 ========================================

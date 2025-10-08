@@ -1,9 +1,13 @@
 ---
 slug: shipley-to-national-party-65th-annual-conference
-title: "Shipley to National Party 65th Annual Conference"
-date: 2001-07-22
-source-url: https://www.scoop.co.nz/stories/PA0107/S00344/shipley-to-national-party-65th-annual-conference.htm
+title: Shipley to National Party 65th Annual Conference
+date: 2001-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00344/shipley-to-national-party-65th-annual-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/07/22/shipley-to-national-party-65th-annual-conference/index.html
+layout: layout.njk
 ---
 Shipley to National Party 65th Annual Conference
 ================================================

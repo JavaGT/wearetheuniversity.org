@@ -1,9 +1,13 @@
 ---
 slug: over-promising-government-under-delivering-for-aotearoa
-title: "Over-promising Government Under Delivering For Aotearoa"
-date: 2023-12-20
-source-url: https://www.scoop.co.nz/stories/PA2312/S00077/over-promising-government-under-delivering-for-aotearoa.htm
+title: Over-promising Government Under Delivering For Aotearoa
+date: 2023-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2312/S00077/over-promising-government-under-delivering-for-aotearoa.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2023/12/20/over-promising-government-under-delivering-for-aotearoa/index.html
+layout: layout.njk
 ---
 Over-promising Government Under Delivering For Aotearoa
 =======================================================

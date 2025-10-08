@@ -1,9 +1,13 @@
 ---
 slug: proposed-fare-structure-a-huge-missed-opportunity
-title: "Proposed fare structure a huge missed opportunity"
-date: 2013-06-27
-source-url: https://www.scoop.co.nz/stories/ED1306/S00152/proposed-fare-structure-a-huge-missed-opportunity.htm
+title: Proposed fare structure a huge missed opportunity
+date: 2013-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00152/proposed-fare-structure-a-huge-missed-opportunity.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2013/06/27/proposed-fare-structure-a-huge-missed-opportunity/index.html
+layout: layout.njk
 ---
 Proposed fare structure a huge missed opportunity
 =================================================

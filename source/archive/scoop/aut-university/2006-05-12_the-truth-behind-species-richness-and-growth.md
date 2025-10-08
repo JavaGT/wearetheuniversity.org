@@ -1,9 +1,12 @@
 ---
 slug: the-truth-behind-species-richness-and-growth
-title: "The truth behind species richness and growth"
-date: 2006-05-12
-source-url: https://www.scoop.co.nz/stories/SC0605/S00041/the-truth-behind-species-richness-and-growth.htm
+title: The truth behind species richness and growth
+date: 2006-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0605/S00041/the-truth-behind-species-richness-and-growth.htm
 author: aut-university
+permalink: /archive/2006/05/12/the-truth-behind-species-richness-and-growth/index.html
+layout: layout.njk
 ---
 The truth behind species richness and growth
 ============================================

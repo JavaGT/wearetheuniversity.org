@@ -1,9 +1,13 @@
 ---
 slug: landmark-symposium-looking-at-christchurchs-resilience
-title: "Landmark symposium looking at Christchurch’s resilience"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/AK1308/S00748/landmark-symposium-looking-at-christchurchs-resilience.htm
+title: Landmark symposium looking at Christchurch’s resilience
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00748/landmark-symposium-looking-at-christchurchs-resilience.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/26/landmark-symposium-looking-at-christchurchs-resilience/index.html
+layout: layout.njk
 ---
 Landmark symposium looking at Christchurch’s resilience
 =======================================================

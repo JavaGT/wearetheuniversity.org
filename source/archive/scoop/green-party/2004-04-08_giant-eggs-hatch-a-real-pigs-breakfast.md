@@ -1,9 +1,12 @@
 ---
 slug: giant-eggs-hatch-a-real-pigs-breakfast
-title: "Giant Eggs Hatch A Real Pig's Breakfast"
-date: 2004-04-08
-source-url: https://www.scoop.co.nz/stories/PA0404/S00148/giant-eggs-hatch-a-real-pigs-breakfast.htm
+title: Giant Eggs Hatch A Real Pig's Breakfast
+date: 2004-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00148/giant-eggs-hatch-a-real-pigs-breakfast.htm
 author: green-party
+permalink: /archive/2004/04/08/giant-eggs-hatch-a-real-pigs-breakfast/index.html
+layout: layout.njk
 ---
 Giant Eggs Hatch A Real Pig's Breakfast
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: eminent-theologian-to-deliver-lectures-in-wellington
-title: "Eminent theologian to deliver lectures in Wellington"
-date: 2012-07-26
-source-url: https://www.scoop.co.nz/stories/CU1207/S00431/eminent-theologian-to-deliver-lectures-in-wellington.htm
+title: Eminent theologian to deliver lectures in Wellington
+date: 2012-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00431/eminent-theologian-to-deliver-lectures-in-wellington.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/07/26/eminent-theologian-to-deliver-lectures-in-wellington/index.html
+layout: layout.njk
 ---
 Eminent theologian to deliver lectures in Wellington
 ====================================================

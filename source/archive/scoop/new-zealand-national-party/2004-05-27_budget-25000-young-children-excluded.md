@@ -1,9 +1,12 @@
 ---
 slug: budget-25000-young-children-excluded
-title: "Budget: 25,000 young children excluded"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/PA0405/S00628/budget-25000-young-children-excluded.htm
+title: 'Budget: 25,000 young children excluded'
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00628/budget-25000-young-children-excluded.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/27/budget-25000-young-children-excluded/index.html
+layout: layout.njk
 ---
 Budget: 25,000 young children excluded
 ======================================

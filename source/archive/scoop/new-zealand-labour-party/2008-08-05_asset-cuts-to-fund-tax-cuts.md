@@ -1,9 +1,11 @@
 ---
 slug: asset-cuts-to-fund-tax-cuts
-title: "Asset Cuts to fund Tax Cuts"
-date: 2008-08-05
+title: Asset Cuts to fund Tax Cuts
+date: 2008-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0808/S00043/asset-cuts-to-fund-tax-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/08/05/asset-cuts-to-fund-tax-cuts/index.html
+layout: layout.njk
 ---
 Asset Cuts to fund Tax Cuts
 ===========================

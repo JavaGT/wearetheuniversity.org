@@ -1,9 +1,12 @@
 ---
 slug: maori-party-congratulates-ero-on-bold-report
-title: "Maori Party Congratulates ERO on Bold Report"
-date: 2010-10-06
-source-url: https://www.scoop.co.nz/stories/PA1010/S00060/maori-party-congratulates-ero-on-bold-report.htm
+title: Maori Party Congratulates ERO on Bold Report
+date: 2010-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00060/maori-party-congratulates-ero-on-bold-report.htm
 author: te-pati-maori
+permalink: /archive/2010/10/06/maori-party-congratulates-ero-on-bold-report/index.html
+layout: layout.njk
 ---
 Maori Party Congratulates ERO on Bold Report
 ============================================

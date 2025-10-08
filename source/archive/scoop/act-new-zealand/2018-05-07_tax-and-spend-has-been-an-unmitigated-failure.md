@@ -1,9 +1,12 @@
 ---
 slug: tax-and-spend-has-been-an-unmitigated-failure
-title: "Tax and spend’ has been an unmitigated failure"
-date: 2018-05-07
-source-url: https://www.scoop.co.nz/stories/PA1805/S00071/tax-and-spend-has-been-an-unmitigated-failure.htm
+title: Tax and spend’ has been an unmitigated failure
+date: 2018-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00071/tax-and-spend-has-been-an-unmitigated-failure.htm
 author: act-new-zealand
+permalink: /archive/2018/05/07/tax-and-spend-has-been-an-unmitigated-failure/index.html
+layout: layout.njk
 ---
 Tax and spend’ has been an unmitigated failure
 ==============================================

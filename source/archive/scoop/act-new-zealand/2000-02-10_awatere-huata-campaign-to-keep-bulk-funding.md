@@ -1,9 +1,12 @@
 ---
 slug: awatere-huata-campaign-to-keep-bulk-funding
-title: "Awatere Huata Campaign To Keep Bulk Funding"
-date: 2000-02-10
-source-url: https://www.scoop.co.nz/stories/PA0002/S00119/awatere-huata-campaign-to-keep-bulk-funding.htm
+title: Awatere Huata Campaign To Keep Bulk Funding
+date: 2000-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00119/awatere-huata-campaign-to-keep-bulk-funding.htm
 author: act-new-zealand
+permalink: /archive/2000/02/10/awatere-huata-campaign-to-keep-bulk-funding/index.html
+layout: layout.njk
 ---
 Awatere Huata Campaign To Keep Bulk Funding
 ===========================================

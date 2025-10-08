@@ -1,9 +1,12 @@
 ---
 slug: sars-threat-continues-to-grow
-title: "SARS threat continues to grow"
-date: 2003-03-28
-source-url: https://www.scoop.co.nz/stories/PA0303/S00560/sars-threat-continues-to-grow.htm
+title: SARS threat continues to grow
+date: 2003-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00560/sars-threat-continues-to-grow.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/28/sars-threat-continues-to-grow/index.html
+layout: layout.njk
 ---
 SARS threat continues to grow
 =============================

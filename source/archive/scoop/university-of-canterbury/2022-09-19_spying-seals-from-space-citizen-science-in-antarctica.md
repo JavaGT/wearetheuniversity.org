@@ -1,9 +1,13 @@
 ---
 slug: spying-seals-from-space-citizen-science-in-antarctica
-title: "Spying Seals From Space – Citizen Science In Antarctica"
-date: 2022-09-19
-source-url: https://www.scoop.co.nz/stories/ED2209/S00027/spying-seals-from-space-citizen-science-in-antarctica.htm
+title: Spying Seals From Space – Citizen Science In Antarctica
+date: 2022-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2209/S00027/spying-seals-from-space-citizen-science-in-antarctica.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/09/19/spying-seals-from-space-citizen-science-in-antarctica/index.html
+layout: layout.njk
 ---
 Spying Seals From Space – Citizen Science In Antarctica
 =======================================================

@@ -1,8 +1,12 @@
 ---
 slug: counsellors-available-after-christchurch-earthquake
-title: "Counsellors available after Christchurch earthquake"
-date: 2011-02-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/02/23/Counsellors-available-after-Christchurch-earthquake.html
+title: Counsellors available after Christchurch earthquake
+date: 2011-02-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/02/23/Counsellors-available-after-Christchurch-earthquake.html
+permalink: >-
+  /archive/2011/02/23/counsellors-available-after-christchurch-earthquake/index.html
+layout: layout.njk
 ---
 Counsellors available after Christchurch earthquake
 ===================================================

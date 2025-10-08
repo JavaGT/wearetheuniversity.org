@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-20-june-2002
-title: "AUS Tertiary Update 20 June 2002"
-date: 2002-06-20
-source-url: https://www.scoop.co.nz/stories/ED0206/S00054/aus-tertiary-update-20-june-2002.htm
+title: AUS Tertiary Update 20 June 2002
+date: 2002-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00054/aus-tertiary-update-20-june-2002.htm
 author: association-of-university-staff
+permalink: /archive/2002/06/20/aus-tertiary-update-20-june-2002/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update 20 June 2002
 ================================

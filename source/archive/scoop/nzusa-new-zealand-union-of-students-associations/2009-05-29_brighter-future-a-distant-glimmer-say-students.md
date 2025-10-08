@@ -1,9 +1,12 @@
 ---
 slug: brighter-future-a-distant-glimmer-say-students
-title: "\"Brighter future\" a distant glimmer say students"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/ED0905/S00116/brighter-future-a-distant-glimmer-say-students.htm
+title: '"Brighter future" a distant glimmer say students'
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00116/brighter-future-a-distant-glimmer-say-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/05/29/brighter-future-a-distant-glimmer-say-students/index.html
+layout: layout.njk
 ---
 "Brighter future" a distant glimmer say students
 ================================================

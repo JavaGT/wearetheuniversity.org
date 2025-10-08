@@ -1,9 +1,12 @@
 ---
 slug: youth-tackle-big-issues-via-creative-activism
-title: "Youth tackle big issues via creative activism"
-date: 2018-10-17
-source-url: https://www.scoop.co.nz/stories/PO1810/S00254/youth-tackle-big-issues-via-creative-activism.htm
+title: Youth tackle big issues via creative activism
+date: 2018-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00254/youth-tackle-big-issues-via-creative-activism.htm
 author: massey-university
+permalink: /archive/2018/10/17/youth-tackle-big-issues-via-creative-activism/index.html
+layout: layout.njk
 ---
 Youth tackle big issues via creative activism
 =============================================

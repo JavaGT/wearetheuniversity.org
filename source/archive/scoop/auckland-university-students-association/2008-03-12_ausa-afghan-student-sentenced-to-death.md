@@ -1,9 +1,12 @@
 ---
 slug: ausa-afghan-student-sentenced-to-death
-title: "AUSA: Afghan student sentenced to death"
-date: 2008-03-12
-source-url: https://www.scoop.co.nz/stories/PO0803/S00114/ausa-afghan-student-sentenced-to-death.htm
+title: 'AUSA: Afghan student sentenced to death'
+date: 2008-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0803/S00114/ausa-afghan-student-sentenced-to-death.htm
 author: auckland-university-students-association
+permalink: /archive/2008/03/12/ausa-afghan-student-sentenced-to-death/index.html
+layout: layout.njk
 ---
 AUSA: Afghan student sentenced to death
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: maori-representation-critical-on-university-councils
-title: "Maori representation critical on University Councils"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/ED1310/S00042/maori-representation-critical-on-university-councils.htm
+title: Maori representation critical on University Councils
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00042/maori-representation-critical-on-university-councils.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/10/03/maori-representation-critical-on-university-councils/index.html
+layout: layout.njk
 ---
 Maori representation critical on University Councils
 ====================================================

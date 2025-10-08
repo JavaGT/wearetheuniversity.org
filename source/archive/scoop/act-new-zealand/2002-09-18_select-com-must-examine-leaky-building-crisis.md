@@ -1,9 +1,12 @@
 ---
 slug: select-com-must-examine-leaky-building-crisis
-title: "Select Com Must Examine Leaky Building Crisis"
-date: 2002-09-18
-source-url: https://www.scoop.co.nz/stories/PA0209/S00299/select-com-must-examine-leaky-building-crisis.htm
+title: Select Com Must Examine Leaky Building Crisis
+date: 2002-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00299/select-com-must-examine-leaky-building-crisis.htm
 author: act-new-zealand
+permalink: /archive/2002/09/18/select-com-must-examine-leaky-building-crisis/index.html
+layout: layout.njk
 ---
 Select Com Must Examine Leaky Building Crisis
 =============================================

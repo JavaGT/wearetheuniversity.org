@@ -1,9 +1,12 @@
 ---
 slug: john-boscawen-an-honour-to-serve
-title: "John Boscawen - An Honour To Serve"
-date: 2008-12-18
-source-url: https://www.scoop.co.nz/stories/PA0812/S00227/john-boscawen-an-honour-to-serve.htm
+title: John Boscawen - An Honour To Serve
+date: 2008-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00227/john-boscawen-an-honour-to-serve.htm
 author: act-new-zealand
+permalink: /archive/2008/12/18/john-boscawen-an-honour-to-serve/index.html
+layout: layout.njk
 ---
 John Boscawen - An Honour To Serve
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: booze-left-on-the-shelf-after-2011-earthquake
-title: "Booze left on the shelf after 2011 earthquake"
-date: 2015-07-03
-source-url: https://www.scoop.co.nz/stories/AK1507/S00085/booze-left-on-the-shelf-after-2011-earthquake.htm
+title: Booze left on the shelf after 2011 earthquake
+date: 2015-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1507/S00085/booze-left-on-the-shelf-after-2011-earthquake.htm
 author: lincoln-university
+permalink: /archive/2015/07/03/booze-left-on-the-shelf-after-2011-earthquake/index.html
+layout: layout.njk
 ---
 Booze left on the shelf after 2011 earthquake
 =============================================

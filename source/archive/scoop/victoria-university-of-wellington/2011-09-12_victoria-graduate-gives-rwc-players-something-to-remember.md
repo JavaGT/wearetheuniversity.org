@@ -1,9 +1,13 @@
 ---
 slug: victoria-graduate-gives-rwc-players-something-to-remember
-title: "Victoria graduate gives RWC players something to remember"
-date: 2011-09-12
-source-url: https://www.scoop.co.nz/stories/ED1109/S00039/victoria-graduate-gives-rwc-players-something-to-remember.htm
+title: Victoria graduate gives RWC players something to remember
+date: 2011-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00039/victoria-graduate-gives-rwc-players-something-to-remember.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/09/12/victoria-graduate-gives-rwc-players-something-to-remember/index.html
+layout: layout.njk
 ---
 Victoria graduate gives RWC players something to remember
 =========================================================

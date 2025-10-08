@@ -1,9 +1,12 @@
 ---
 slug: less-waste-more-ambition-needed-on-tax
-title: "Less Waste, More Ambition Needed On Tax"
-date: 2023-08-31
-source-url: https://www.scoop.co.nz/stories/PA2308/S00202/less-waste-more-ambition-needed-on-tax.htm
+title: Less Waste, More Ambition Needed On Tax
+date: 2023-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00202/less-waste-more-ambition-needed-on-tax.htm
 author: act-new-zealand
+permalink: /archive/2023/08/31/less-waste-more-ambition-needed-on-tax/index.html
+layout: layout.njk
 ---
 Less Waste, More Ambition Needed On Tax
 =======================================

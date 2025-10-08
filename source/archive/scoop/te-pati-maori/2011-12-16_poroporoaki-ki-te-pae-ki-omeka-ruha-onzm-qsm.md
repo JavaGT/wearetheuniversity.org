@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-ki-te-pae-ki-omeka-ruha-onzm-qsm
-title: "Poroporoaki ki Te Pae ki Omeka Ruha, ONZM, QSM"
-date: 2011-12-16
-source-url: https://www.scoop.co.nz/stories/PA1112/S00117/poroporoaki-ki-te-pae-ki-omeka-ruha-onzm-qsm.htm
+title: Poroporoaki ki Te Pae ki Omeka Ruha, ONZM, QSM
+date: 2011-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00117/poroporoaki-ki-te-pae-ki-omeka-ruha-onzm-qsm.htm
 author: te-pati-maori
+permalink: /archive/2011/12/16/poroporoaki-ki-te-pae-ki-omeka-ruha-onzm-qsm/index.html
+layout: layout.njk
 ---
 Poroporoaki ki Te Pae ki Omeka Ruha, ONZM, QSM
 ==============================================

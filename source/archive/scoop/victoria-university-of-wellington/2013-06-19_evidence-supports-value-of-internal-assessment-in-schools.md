@@ -1,9 +1,13 @@
 ---
 slug: evidence-supports-value-of-internal-assessment-in-schools
-title: "Evidence supports value of internal assessment in schools"
-date: 2013-06-19
-source-url: https://www.scoop.co.nz/stories/ED1306/S00100/evidence-supports-value-of-internal-assessment-in-schools.htm
+title: Evidence supports value of internal assessment in schools
+date: 2013-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00100/evidence-supports-value-of-internal-assessment-in-schools.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/06/19/evidence-supports-value-of-internal-assessment-in-schools/index.html
+layout: layout.njk
 ---
 Evidence supports value of internal assessment in schools
 =========================================================

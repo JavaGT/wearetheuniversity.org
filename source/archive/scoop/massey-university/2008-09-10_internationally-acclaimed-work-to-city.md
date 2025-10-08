@@ -1,9 +1,12 @@
 ---
 slug: internationally-acclaimed-work-to-city
-title: "Internationally acclaimed work to city"
-date: 2008-09-10
-source-url: https://www.scoop.co.nz/stories/ED0809/S00029/internationally-acclaimed-work-to-city.htm
+title: Internationally acclaimed work to city
+date: 2008-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00029/internationally-acclaimed-work-to-city.htm
 author: massey-university
+permalink: /archive/2008/09/10/internationally-acclaimed-work-to-city/index.html
+layout: layout.njk
 ---
 Internationally acclaimed work to city
 ======================================

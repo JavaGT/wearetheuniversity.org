@@ -1,9 +1,12 @@
 ---
 slug: waikato-medical-school-moves-a-step-closer
-title: "Waikato Medical School Moves A Step Closer"
-date: 2024-02-13
-source-url: https://www.scoop.co.nz/stories/ED2402/S00013/waikato-medical-school-moves-a-step-closer.htm
+title: Waikato Medical School Moves A Step Closer
+date: 2024-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2402/S00013/waikato-medical-school-moves-a-step-closer.htm
 author: university-of-waikato
+permalink: /archive/2024/02/13/waikato-medical-school-moves-a-step-closer/index.html
+layout: layout.njk
 ---
 Waikato Medical School Moves A Step Closer
 ==========================================

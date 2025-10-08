@@ -1,9 +1,12 @@
 ---
 slug: nz-vice-chancellors-committee-news-bulletin
-title: "NZ Vice-Chancellors' Committee News Bulletin"
-date: 2006-05-03
-source-url: https://www.scoop.co.nz/stories/ED0605/S00009/nz-vice-chancellors-committee-news-bulletin.htm
+title: NZ Vice-Chancellors' Committee News Bulletin
+date: 2006-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00009/nz-vice-chancellors-committee-news-bulletin.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/05/03/nz-vice-chancellors-committee-news-bulletin/index.html
+layout: layout.njk
 ---
 NZ Vice-Chancellors' Committee News Bulletin
 ============================================

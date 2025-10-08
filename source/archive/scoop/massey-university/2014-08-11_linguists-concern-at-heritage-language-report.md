@@ -1,9 +1,12 @@
 ---
 slug: linguists-concern-at-heritage-language-report
-title: "Linguist’s concern at heritage language report"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/ED1408/S00053/linguists-concern-at-heritage-language-report.htm
+title: Linguist’s concern at heritage language report
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00053/linguists-concern-at-heritage-language-report.htm
 author: massey-university
+permalink: /archive/2014/08/11/linguists-concern-at-heritage-language-report/index.html
+layout: layout.njk
 ---
 Linguist’s concern at heritage language report
 ==============================================

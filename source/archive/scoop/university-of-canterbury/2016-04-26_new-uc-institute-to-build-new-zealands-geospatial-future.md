@@ -1,9 +1,13 @@
 ---
 slug: new-uc-institute-to-build-new-zealands-geospatial-future
-title: "New UC institute to build New Zealand’s geospatial future"
-date: 2016-04-26
-source-url: https://www.scoop.co.nz/stories/SC1604/S00044/new-uc-institute-to-build-new-zealands-geospatial-future.htm
+title: New UC institute to build New Zealand’s geospatial future
+date: 2016-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00044/new-uc-institute-to-build-new-zealands-geospatial-future.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/26/new-uc-institute-to-build-new-zealands-geospatial-future/index.html
+layout: layout.njk
 ---
 New UC institute to build New Zealand’s geospatial future
 =========================================================

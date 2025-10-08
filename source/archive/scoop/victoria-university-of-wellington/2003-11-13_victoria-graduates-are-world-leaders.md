@@ -1,9 +1,12 @@
 ---
 slug: victoria-graduates-are-world-leaders
-title: "Victoria graduates are world leaders"
-date: 2003-11-13
-source-url: https://www.scoop.co.nz/stories/ED0311/S00046/victoria-graduates-are-world-leaders.htm
+title: Victoria graduates are world leaders
+date: 2003-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00046/victoria-graduates-are-world-leaders.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/11/13/victoria-graduates-are-world-leaders/index.html
+layout: layout.njk
 ---
 Victoria graduates are world leaders
 ====================================

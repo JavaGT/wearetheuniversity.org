@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-13-no-32
-title: "TEU Tertiary Update Vol 13 No 32"
-date: 2010-08-26
-source-url: https://www.scoop.co.nz/stories/ED1008/S00096/teu-tertiary-update-vol-13-no-32.htm
+title: TEU Tertiary Update Vol 13 No 32
+date: 2010-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00096/teu-tertiary-update-vol-13-no-32.htm
 author: association-of-university-staff
+permalink: /archive/2010/08/26/teu-tertiary-update-vol-13-no-32/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 13 No 32
 ================================

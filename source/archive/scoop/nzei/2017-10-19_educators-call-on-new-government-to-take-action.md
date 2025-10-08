@@ -1,9 +1,12 @@
 ---
 slug: educators-call-on-new-government-to-take-action
-title: "Educators call on new government to take action"
-date: 2017-10-19
-source-url: https://www.scoop.co.nz/stories/PO1710/S00141/educators-call-on-new-government-to-take-action.htm
+title: Educators call on new government to take action
+date: 2017-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1710/S00141/educators-call-on-new-government-to-take-action.htm
 author: nzei
+permalink: /archive/2017/10/19/educators-call-on-new-government-to-take-action/index.html
+layout: layout.njk
 ---
 Educators call on new government to take action
 ===============================================

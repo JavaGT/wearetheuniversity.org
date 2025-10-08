@@ -1,9 +1,13 @@
 ---
 slug: urgent-additional-support-needed-for-hospitality-sector
-title: "Urgent Additional Support Needed For Hospitality Sector"
-date: 2020-05-08
-source-url: https://www.scoop.co.nz/stories/PA2005/S00067/urgent-additional-support-needed-for-hospitality-sector.htm
+title: Urgent Additional Support Needed For Hospitality Sector
+date: 2020-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00067/urgent-additional-support-needed-for-hospitality-sector.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/05/08/urgent-additional-support-needed-for-hospitality-sector/index.html
+layout: layout.njk
 ---
 Urgent Additional Support Needed For Hospitality Sector
 =======================================================

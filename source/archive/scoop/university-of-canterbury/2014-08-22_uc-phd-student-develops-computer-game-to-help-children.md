@@ -1,9 +1,13 @@
 ---
 slug: uc-phd-student-develops-computer-game-to-help-children
-title: "UC Phd Student Develops Computer Game to Help Children"
-date: 2014-08-22
-source-url: https://www.scoop.co.nz/stories/ED1408/S00119/uc-phd-student-develops-computer-game-to-help-children.htm
+title: UC Phd Student Develops Computer Game to Help Children
+date: 2014-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00119/uc-phd-student-develops-computer-game-to-help-children.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/22/uc-phd-student-develops-computer-game-to-help-children/index.html
+layout: layout.njk
 ---
 UC Phd Student Develops Computer Game to Help Children
 ======================================================

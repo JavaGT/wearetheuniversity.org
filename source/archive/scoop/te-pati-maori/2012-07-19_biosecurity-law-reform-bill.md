@@ -1,9 +1,11 @@
 ---
 slug: biosecurity-law-reform-bill
-title: "Biosecurity Law Reform Bill"
-date: 2012-07-19
+title: Biosecurity Law Reform Bill
+date: 2012-07-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1207/S00226/biosecurity-law-reform-bill.htm
 author: te-pati-maori
+permalink: /archive/2012/07/19/biosecurity-law-reform-bill/index.html
+layout: layout.njk
 ---
 Biosecurity Law Reform Bill
 ===========================

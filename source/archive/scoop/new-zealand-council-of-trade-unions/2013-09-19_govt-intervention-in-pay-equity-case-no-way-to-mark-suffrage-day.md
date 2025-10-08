@@ -1,9 +1,13 @@
 ---
 slug: govt-intervention-in-pay-equity-case-no-way-to-mark-suffrage-day
-title: "Govt intervention in Pay Equity case no way to mark Suffrage Day"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/PO1309/S00213/govt-intervention-in-pay-equity-case-no-way-to-mark-suffrage-day.htm
+title: Govt intervention in Pay Equity case no way to mark Suffrage Day
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00213/govt-intervention-in-pay-equity-case-no-way-to-mark-suffrage-day.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/09/19/govt-intervention-in-pay-equity-case-no-way-to-mark-suffrage-day/index.html
+layout: layout.njk
 ---
 Govt intervention in Pay Equity case no way to mark Suffrage Day
 ================================================================

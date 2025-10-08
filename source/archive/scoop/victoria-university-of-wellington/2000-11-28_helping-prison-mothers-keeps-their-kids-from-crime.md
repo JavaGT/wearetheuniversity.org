@@ -1,9 +1,13 @@
 ---
 slug: helping-prison-mothers-keeps-their-kids-from-crime
-title: "Helping prison mothers keeps their kids from crime"
-date: 2000-11-28
-source-url: https://www.scoop.co.nz/stories/ED0011/S00036/helping-prison-mothers-keeps-their-kids-from-crime.htm
+title: Helping prison mothers keeps their kids from crime
+date: 2000-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00036/helping-prison-mothers-keeps-their-kids-from-crime.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/11/28/helping-prison-mothers-keeps-their-kids-from-crime/index.html
+layout: layout.njk
 ---
 Helping prison mothers keeps their kids from crime
 ==================================================

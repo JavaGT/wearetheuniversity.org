@@ -1,9 +1,13 @@
 ---
 slug: winter-lecture-series-to-explore-the-future-of-business
-title: "Winter Lecture Series to explore the future of business"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/ED1407/S00090/winter-lecture-series-to-explore-the-future-of-business.htm
+title: Winter Lecture Series to explore the future of business
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00090/winter-lecture-series-to-explore-the-future-of-business.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/07/21/winter-lecture-series-to-explore-the-future-of-business/index.html
+layout: layout.njk
 ---
 Winter Lecture Series to explore the future of business
 =======================================================

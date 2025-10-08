@@ -1,9 +1,12 @@
 ---
 slug: new-book-plots-future-of-farming
-title: "New book plots future of farming"
-date: 2009-11-24
-source-url: https://www.scoop.co.nz/stories/CU0911/S00400/new-book-plots-future-of-farming.htm
+title: New book plots future of farming
+date: 2009-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0911/S00400/new-book-plots-future-of-farming.htm
 author: massey-university
+permalink: /archive/2009/11/24/new-book-plots-future-of-farming/index.html
+layout: layout.njk
 ---
 New book plots future of farming
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: breathtaking-ideas-from-young-entrepreneurs
-title: "Breathtaking ideas from young entrepreneurs"
-date: 2009-03-12
-source-url: https://www.scoop.co.nz/stories/ED0903/S00044/breathtaking-ideas-from-young-entrepreneurs.htm
+title: Breathtaking ideas from young entrepreneurs
+date: 2009-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00044/breathtaking-ideas-from-young-entrepreneurs.htm
 author: massey-university
+permalink: /archive/2009/03/12/breathtaking-ideas-from-young-entrepreneurs/index.html
+layout: layout.njk
 ---
 Breathtaking ideas from young entrepreneurs
 ===========================================

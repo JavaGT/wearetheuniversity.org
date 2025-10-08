@@ -1,9 +1,12 @@
 ---
 slug: anderton-says-one-thing-does-another
-title: "Anderton Says One Thing – Does Another"
-date: 1999-08-11
-source-url: https://www.scoop.co.nz/stories/PA9908/S00178/anderton-says-one-thing-does-another.htm
+title: Anderton Says One Thing – Does Another
+date: 1999-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00178/anderton-says-one-thing-does-another.htm
 author: new-zealand-national-party
+permalink: /archive/1999/08/11/anderton-says-one-thing-does-another/index.html
+layout: layout.njk
 ---
 Anderton Says One Thing – Does Another
 ======================================

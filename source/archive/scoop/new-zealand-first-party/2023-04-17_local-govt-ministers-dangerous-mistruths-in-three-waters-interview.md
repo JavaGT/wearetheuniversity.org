@@ -1,9 +1,13 @@
 ---
 slug: local-govt-ministers-dangerous-mistruths-in-three-waters-interview
-title: "Local Govt Minister's Dangerous Mistruths In 'Three Waters' Interview"
-date: 2023-04-17
-source-url: https://www.scoop.co.nz/stories/PO2304/S00097/local-govt-ministers-dangerous-mistruths-in-three-waters-interview.htm
+title: Local Govt Minister's Dangerous Mistruths In 'Three Waters' Interview
+date: 2023-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2304/S00097/local-govt-ministers-dangerous-mistruths-in-three-waters-interview.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2023/04/17/local-govt-ministers-dangerous-mistruths-in-three-waters-interview/index.html
+layout: layout.njk
 ---
 Local Govt Minister's Dangerous Mistruths In 'Three Waters' Interview
 =====================================================================

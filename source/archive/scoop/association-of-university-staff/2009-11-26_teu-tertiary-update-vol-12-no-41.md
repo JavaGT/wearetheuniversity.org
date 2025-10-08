@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-12-no-41
-title: "TEU Tertiary Update Vol 12 No 41"
-date: 2009-11-26
-source-url: https://www.scoop.co.nz/stories/ED0911/S00116/teu-tertiary-update-vol-12-no-41.htm
+title: TEU Tertiary Update Vol 12 No 41
+date: 2009-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00116/teu-tertiary-update-vol-12-no-41.htm
 author: association-of-university-staff
+permalink: /archive/2009/11/26/teu-tertiary-update-vol-12-no-41/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 12 No 41
 ================================

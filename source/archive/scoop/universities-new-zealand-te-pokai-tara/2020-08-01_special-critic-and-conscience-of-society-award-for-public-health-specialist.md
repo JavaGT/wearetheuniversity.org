@@ -1,9 +1,13 @@
 ---
 slug: special-critic-and-conscience-of-society-award-for-public-health-specialist
-title: "Special Critic And Conscience Of Society Award For Public Health Specialist"
-date: 2020-08-01
-source-url: https://www.scoop.co.nz/stories/AK2008/S00008/special-critic-and-conscience-of-society-award-for-public-health-specialist.htm
+title: Special Critic And Conscience Of Society Award For Public Health Specialist
+date: 2020-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2008/S00008/special-critic-and-conscience-of-society-award-for-public-health-specialist.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2020/08/01/special-critic-and-conscience-of-society-award-for-public-health-specialist/index.html
+layout: layout.njk
 ---
 Special Critic And Conscience Of Society Award For Public Health Specialist
 ===========================================================================

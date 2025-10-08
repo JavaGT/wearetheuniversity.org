@@ -1,9 +1,12 @@
 ---
 slug: from-homespun-degree-to-nano-fibre-career
-title: "From Homespun Degree to Nano-fibre Career"
-date: 2011-09-05
-source-url: https://www.scoop.co.nz/stories/BU1109/S00118/from-homespun-degree-to-nano-fibre-career.htm
+title: From Homespun Degree to Nano-fibre Career
+date: 2011-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00118/from-homespun-degree-to-nano-fibre-career.htm
 author: auckland-university
+permalink: /archive/2011/09/05/from-homespun-degree-to-nano-fibre-career/index.html
+layout: layout.njk
 ---
 From Homespun Degree to Nano-fibre Career
 =========================================

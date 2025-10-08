@@ -1,9 +1,13 @@
 ---
 slug: uc-strongly-supports-callaghan-innovations-direction
-title: "UC strongly supports Callaghan Innovation’s direction"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/ED1307/S00045/uc-strongly-supports-callaghan-innovations-direction.htm
+title: UC strongly supports Callaghan Innovation’s direction
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00045/uc-strongly-supports-callaghan-innovations-direction.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/10/uc-strongly-supports-callaghan-innovations-direction/index.html
+layout: layout.njk
 ---
 UC strongly supports Callaghan Innovation’s direction
 =====================================================

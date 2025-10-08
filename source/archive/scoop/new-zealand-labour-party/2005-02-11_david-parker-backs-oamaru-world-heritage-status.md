@@ -1,9 +1,12 @@
 ---
 slug: david-parker-backs-oamaru-world-heritage-status
-title: "David Parker Backs Oamaru World Heritage Status"
-date: 2005-02-11
-source-url: https://www.scoop.co.nz/stories/PA0502/S00254/david-parker-backs-oamaru-world-heritage-status.htm
+title: David Parker Backs Oamaru World Heritage Status
+date: 2005-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00254/david-parker-backs-oamaru-world-heritage-status.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/02/11/david-parker-backs-oamaru-world-heritage-status/index.html
+layout: layout.njk
 ---
 David Parker Backs Oamaru World Heritage Status
 ===============================================

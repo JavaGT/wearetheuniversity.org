@@ -1,9 +1,12 @@
 ---
 slug: jeanette-fitzsimons-on-the-us-tragedy
-title: "Jeanette Fitzsimons on the US tragedy"
-date: 2001-09-13
-source-url: https://www.scoop.co.nz/stories/PA0109/S00186/jeanette-fitzsimons-on-the-us-tragedy.htm
+title: Jeanette Fitzsimons on the US tragedy
+date: 2001-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00186/jeanette-fitzsimons-on-the-us-tragedy.htm
 author: green-party
+permalink: /archive/2001/09/13/jeanette-fitzsimons-on-the-us-tragedy/index.html
+layout: layout.njk
 ---
 Jeanette Fitzsimons on the US tragedy
 =====================================

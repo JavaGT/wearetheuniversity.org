@@ -1,9 +1,13 @@
 ---
 slug: unclear-govt-advice-could-cost-businesses-thousands
-title: "Unclear Govt Advice Could Cost Businesses Thousands"
-date: 2020-08-19
-source-url: https://www.scoop.co.nz/stories/PA2008/S00153/unclear-govt-advice-could-cost-businesses-thousands.htm
+title: Unclear Govt Advice Could Cost Businesses Thousands
+date: 2020-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00153/unclear-govt-advice-could-cost-businesses-thousands.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/19/unclear-govt-advice-could-cost-businesses-thousands/index.html
+layout: layout.njk
 ---
 Unclear Govt Advice Could Cost Businesses Thousands
 ===================================================

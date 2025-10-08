@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-ethics-software-scoops-uk-award
-title: "New Zealand Ethics Software Scoops UK Award"
-date: 2007-02-12
-source-url: https://www.scoop.co.nz/stories/ED0702/S00035/new-zealand-ethics-software-scoops-uk-award.htm
+title: New Zealand Ethics Software Scoops UK Award
+date: 2007-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00035/new-zealand-ethics-software-scoops-uk-award.htm
 author: aut-university
+permalink: /archive/2007/02/12/new-zealand-ethics-software-scoops-uk-award/index.html
+layout: layout.njk
 ---
 New Zealand Ethics Software Scoops UK Award
 ===========================================

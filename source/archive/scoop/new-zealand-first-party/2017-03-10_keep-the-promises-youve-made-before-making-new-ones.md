@@ -1,9 +1,13 @@
 ---
 slug: keep-the-promises-youve-made-before-making-new-ones
-title: "\"...keep the promises you’ve made before making new ones\""
-date: 2017-03-10
-source-url: https://www.scoop.co.nz/stories/PA1703/S00170/keep-the-promises-youve-made-before-making-new-ones.htm
+title: '"...keep the promises you’ve made before making new ones"'
+date: 2017-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00170/keep-the-promises-youve-made-before-making-new-ones.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/03/10/keep-the-promises-youve-made-before-making-new-ones/index.html
+layout: layout.njk
 ---
 \"...keep the promises you’ve made before making new ones"
 =========================================================

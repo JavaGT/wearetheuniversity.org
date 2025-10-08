@@ -1,9 +1,12 @@
 ---
 slug: lower-unemployment-great-news-for-canterbury
-title: "Lower Unemployment Great News For Canterbury"
-date: 1999-11-04
-source-url: https://www.scoop.co.nz/stories/PA9911/S00115/lower-unemployment-great-news-for-canterbury.htm
+title: Lower Unemployment Great News For Canterbury
+date: 1999-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00115/lower-unemployment-great-news-for-canterbury.htm
 author: new-zealand-national-party
+permalink: /archive/1999/11/04/lower-unemployment-great-news-for-canterbury/index.html
+layout: layout.njk
 ---
 Lower Unemployment Great News For Canterbury
 ============================================

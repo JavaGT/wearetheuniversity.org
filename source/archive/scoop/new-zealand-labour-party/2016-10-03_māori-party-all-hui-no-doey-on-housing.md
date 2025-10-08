@@ -1,9 +1,12 @@
 ---
 slug: māori-party-all-hui-no-doey-on-housing
-title: "Māori Party all hui no-doey on housing"
-date: 2016-10-03
-source-url: https://www.scoop.co.nz/stories/PA1610/S00023/maori-party-all-hui-no-doey-on-housing.htm
+title: Māori Party all hui no-doey on housing
+date: 2016-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00023/maori-party-all-hui-no-doey-on-housing.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/10/03/m/index.html
+layout: layout.njk
 ---
 Māori Party all hui no-doey on housing
 ======================================

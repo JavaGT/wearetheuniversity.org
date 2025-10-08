@@ -1,9 +1,12 @@
 ---
 slug: ge-cows-threaten-nz-food-supply
-title: "GE cows threaten NZ food supply"
-date: 2005-07-01
-source-url: https://www.scoop.co.nz/stories/PA0507/S00024/ge-cows-threaten-nz-food-supply.htm
+title: GE cows threaten NZ food supply
+date: 2005-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00024/ge-cows-threaten-nz-food-supply.htm
 author: green-party
+permalink: /archive/2005/07/01/ge-cows-threaten-nz-food-supply/index.html
+layout: layout.njk
 ---
 GE cows threaten NZ food supply
 ===============================

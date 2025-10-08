@@ -1,9 +1,12 @@
 ---
 slug: rob-donald-speech-green-party-campaign-launch
-title: "Rob Donald Speech: Green Party campaign launch"
-date: 1999-10-25
-source-url: https://www.scoop.co.nz/stories/PA9910/S00582/rob-donald-speech-green-party-campaign-launch.htm
+title: 'Rob Donald Speech: Green Party campaign launch'
+date: 1999-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00582/rob-donald-speech-green-party-campaign-launch.htm
 author: green-party
+permalink: /archive/1999/10/25/rob-donald-speech-green-party-campaign-launch/index.html
+layout: layout.njk
 ---
 Rob Donald Speech: Green Party campaign launch
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: confirmation-hmnzs-canterbury-procurement-flawed
-title: "Confirmation HMNZS Canterbury procurement flawed"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/PA0809/S00303/confirmation-hmnzs-canterbury-procurement-flawed.htm
+title: Confirmation HMNZS Canterbury procurement flawed
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00303/confirmation-hmnzs-canterbury-procurement-flawed.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/09/12/confirmation-hmnzs-canterbury-procurement-flawed/index.html
+layout: layout.njk
 ---
 Confirmation HMNZS Canterbury procurement flawed
 ================================================

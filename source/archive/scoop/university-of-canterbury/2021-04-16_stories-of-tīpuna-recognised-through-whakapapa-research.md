@@ -1,9 +1,12 @@
 ---
 slug: stories-of-tīpuna-recognised-through-whakapapa-research
-title: "Stories Of Tīpuna Recognised Through Whakapapa Research"
-date: 2021-04-16
-source-url: https://www.scoop.co.nz/stories/ED2104/S00018/stories-of-tipuna-recognised-through-whakapapa-research.htm
+title: Stories Of Tīpuna Recognised Through Whakapapa Research
+date: 2021-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00018/stories-of-tipuna-recognised-through-whakapapa-research.htm
 author: university-of-canterbury
+permalink: /archive/2021/04/16/stories-of-t/index.html
+layout: layout.njk
 ---
 Stories Of Tīpuna Recognised Through Whakapapa Research
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: food-safety-regulation-of-poultry-cuts-levels-of-paralysis
-title: "Food safety regulation of poultry cuts levels of paralysis"
-date: 2012-02-08
-source-url: https://www.scoop.co.nz/stories/GE1202/S00021/food-safety-regulation-of-poultry-cuts-levels-of-paralysis.htm
+title: Food safety regulation of poultry cuts levels of paralysis
+date: 2012-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1202/S00021/food-safety-regulation-of-poultry-cuts-levels-of-paralysis.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/02/08/food-safety-regulation-of-poultry-cuts-levels-of-paralysis/index.html
+layout: layout.njk
 ---
 Food safety regulation of poultry cuts levels of paralysis
 ==========================================================

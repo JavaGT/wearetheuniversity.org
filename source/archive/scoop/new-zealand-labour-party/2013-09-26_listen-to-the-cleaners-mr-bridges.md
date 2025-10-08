@@ -1,9 +1,12 @@
 ---
 slug: listen-to-the-cleaners-mr-bridges
-title: "Listen to the cleaners Mr Bridges"
-date: 2013-09-26
-source-url: https://www.scoop.co.nz/stories/PA1309/S00472/listen-to-the-cleaners-mr-bridges.htm
+title: Listen to the cleaners Mr Bridges
+date: 2013-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00472/listen-to-the-cleaners-mr-bridges.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/26/listen-to-the-cleaners-mr-bridges/index.html
+layout: layout.njk
 ---
 Listen to the cleaners Mr Bridges
 =================================

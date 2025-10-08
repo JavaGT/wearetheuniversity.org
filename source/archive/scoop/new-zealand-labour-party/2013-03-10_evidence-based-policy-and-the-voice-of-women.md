@@ -1,9 +1,12 @@
 ---
 slug: evidence-based-policy-and-the-voice-of-women
-title: "Evidence-based Policy and the Voice of Women"
-date: 2013-03-10
-source-url: https://www.scoop.co.nz/stories/PA1303/S00152/evidence-based-policy-and-the-voice-of-women.htm
+title: Evidence-based Policy and the Voice of Women
+date: 2013-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00152/evidence-based-policy-and-the-voice-of-women.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/10/evidence-based-policy-and-the-voice-of-women/index.html
+layout: layout.njk
 ---
 Evidence-based Policy and the Voice of Women
 ============================================

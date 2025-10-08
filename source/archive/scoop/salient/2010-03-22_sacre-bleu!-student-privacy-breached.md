@@ -1,9 +1,12 @@
 ---
 slug: sacre-bleu!-student-privacy-breached
-title: "Sacre bleu! Student privacy breached"
-date: 2010-03-22
-source-url: https://www.scoop.co.nz/stories/ED1003/S00098/sacre-bleu-student-privacy-breached.htm
+title: Sacre bleu! Student privacy breached
+date: 2010-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00098/sacre-bleu-student-privacy-breached.htm
 author: salient
+permalink: /archive/2010/03/22/sacre-bleu/index.html
+layout: layout.njk
 ---
 Sacre bleu! Student privacy breached
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: students-to-picket-mallards-office
-title: "Students to Picket Mallard's office"
-date: 2004-09-10
-source-url: https://www.scoop.co.nz/stories/ED0409/S00042/students-to-picket-mallards-office.htm
+title: Students to Picket Mallard's office
+date: 2004-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00042/students-to-picket-mallards-office.htm
 author: victoria-university-students-association
+permalink: /archive/2004/09/10/students-to-picket-mallards-office/index.html
+layout: layout.njk
 ---
 Students to Picket Mallard's office
 ===================================

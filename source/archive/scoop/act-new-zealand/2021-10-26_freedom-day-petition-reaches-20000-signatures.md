@@ -1,9 +1,12 @@
 ---
 slug: freedom-day-petition-reaches-20000-signatures
-title: "Freedom Day Petition Reaches 20,000 Signatures"
-date: 2021-10-26
-source-url: https://www.scoop.co.nz/stories/PA2110/S00254/freedom-day-petition-reaches-20000-signatures.htm
+title: Freedom Day Petition Reaches 20,000 Signatures
+date: 2021-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00254/freedom-day-petition-reaches-20000-signatures.htm
 author: act-new-zealand
+permalink: /archive/2021/10/26/freedom-day-petition-reaches-20000-signatures/index.html
+layout: layout.njk
 ---
 Freedom Day Petition Reaches 20,000 Signatures
 ==============================================

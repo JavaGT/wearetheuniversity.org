@@ -1,9 +1,12 @@
 ---
 slug: government-blows-the-budget-for-students
-title: "Government blows the budget for students"
-date: 2003-05-18
-source-url: https://www.scoop.co.nz/stories/PA0305/S00481/government-blows-the-budget-for-students.htm
+title: Government blows the budget for students
+date: 2003-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00481/government-blows-the-budget-for-students.htm
 author: green-party
+permalink: /archive/2003/05/18/government-blows-the-budget-for-students/index.html
+layout: layout.njk
 ---
 Government blows the budget for students
 ========================================

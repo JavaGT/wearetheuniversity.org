@@ -1,9 +1,13 @@
 ---
 slug: uc-students-to-learn-more-about-robotics-in-japan
-title: "UC students to learn more about robotics in Japan"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/ED1403/S00030/uc-students-to-learn-more-about-robotics-in-japan.htm
+title: UC students to learn more about robotics in Japan
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00030/uc-students-to-learn-more-about-robotics-in-japan.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/06/uc-students-to-learn-more-about-robotics-in-japan/index.html
+layout: layout.njk
 ---
 UC students to learn more about robotics in Japan
 =================================================

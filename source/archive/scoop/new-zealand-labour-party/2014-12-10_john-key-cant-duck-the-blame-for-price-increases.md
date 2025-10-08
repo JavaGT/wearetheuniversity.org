@@ -1,9 +1,13 @@
 ---
 slug: john-key-cant-duck-the-blame-for-price-increases
-title: "John Key can’t duck the blame for price increases"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/PA1412/S00232/john-key-cant-duck-the-blame-for-price-increases.htm
+title: John Key can’t duck the blame for price increases
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00232/john-key-cant-duck-the-blame-for-price-increases.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/12/10/john-key-cant-duck-the-blame-for-price-increases/index.html
+layout: layout.njk
 ---
 John Key can’t duck the blame for price increases
 =================================================

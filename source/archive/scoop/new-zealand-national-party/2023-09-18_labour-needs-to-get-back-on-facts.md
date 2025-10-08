@@ -1,9 +1,12 @@
 ---
 slug: labour-needs-to-get-back-on-facts
-title: "Labour Needs To Get Back On Facts"
-date: 2023-09-18
-source-url: https://www.scoop.co.nz/stories/PO2309/S00138/labour-needs-to-get-back-on-facts.htm
+title: Labour Needs To Get Back On Facts
+date: 2023-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00138/labour-needs-to-get-back-on-facts.htm
 author: new-zealand-national-party
+permalink: /archive/2023/09/18/labour-needs-to-get-back-on-facts/index.html
+layout: layout.njk
 ---
 Labour Needs To Get Back On Facts
 =================================

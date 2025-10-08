@@ -1,9 +1,12 @@
 ---
 slug: decade-of-action-on-nutrition
-title: "Decade of action on nutrition"
-date: 2016-04-07
-source-url: https://www.scoop.co.nz/stories/ED1604/S00022/decade-of-action-on-nutrition.htm
+title: Decade of action on nutrition
+date: 2016-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00022/decade-of-action-on-nutrition.htm
 author: massey-university
+permalink: /archive/2016/04/07/decade-of-action-on-nutrition/index.html
+layout: layout.njk
 ---
 Decade of action on nutrition
 =============================

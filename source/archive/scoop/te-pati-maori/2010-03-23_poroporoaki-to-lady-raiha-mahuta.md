@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-to-lady-raiha-mahuta
-title: "Poroporoaki to Lady Raiha Mahuta"
-date: 2010-03-23
-source-url: https://www.scoop.co.nz/stories/PA1003/S00335/poroporoaki-to-lady-raiha-mahuta.htm
+title: Poroporoaki to Lady Raiha Mahuta
+date: 2010-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00335/poroporoaki-to-lady-raiha-mahuta.htm
 author: te-pati-maori
+permalink: /archive/2010/03/23/poroporoaki-to-lady-raiha-mahuta/index.html
+layout: layout.njk
 ---
 Poroporoaki to Lady Raiha Mahuta
 ================================

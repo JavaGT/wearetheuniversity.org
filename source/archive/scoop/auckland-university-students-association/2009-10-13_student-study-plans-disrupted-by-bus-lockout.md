@@ -1,9 +1,12 @@
 ---
 slug: student-study-plans-disrupted-by-bus-lockout
-title: "Student Study Plans Disrupted by Bus Lockout"
-date: 2009-10-13
-source-url: https://www.scoop.co.nz/stories/ED0910/S00057/student-study-plans-disrupted-by-bus-lockout.htm
+title: Student Study Plans Disrupted by Bus Lockout
+date: 2009-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00057/student-study-plans-disrupted-by-bus-lockout.htm
 author: auckland-university-students-association
+permalink: /archive/2009/10/13/student-study-plans-disrupted-by-bus-lockout/index.html
+layout: layout.njk
 ---
 Student Study Plans Disrupted by Bus Lockout
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: international-reference-group-welcomed
-title: "International reference group welcomed"
-date: 2000-11-14
-source-url: https://www.scoop.co.nz/stories/ED0011/S00021/international-reference-group-welcomed.htm
+title: International reference group welcomed
+date: 2000-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00021/international-reference-group-welcomed.htm
 author: association-of-university-staff
+permalink: /archive/2000/11/14/international-reference-group-welcomed/index.html
+layout: layout.njk
 ---
 International reference group welcomed
 ======================================

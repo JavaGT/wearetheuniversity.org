@@ -1,9 +1,12 @@
 ---
 slug: new-app-makes-learning-māori-fun
-title: "New App makes learning Māori fun"
-date: 2013-06-11
-source-url: https://www.scoop.co.nz/stories/ED1306/S00061/new-app-makes-learning-maori-fun.htm
+title: New App makes learning Māori fun
+date: 2013-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00061/new-app-makes-learning-maori-fun.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/06/11/new-app-makes-learning-m/index.html
+layout: layout.njk
 ---
 New App makes learning Māori fun
 ================================

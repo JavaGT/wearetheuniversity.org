@@ -1,9 +1,12 @@
 ---
 slug: tree-harvester-design-a-cut-above
-title: "Tree Harvester Design A Cut Above"
-date: 2012-08-17
-source-url: https://www.scoop.co.nz/stories/ED1208/S00097/tree-harvester-design-a-cut-above.htm
+title: Tree Harvester Design A Cut Above
+date: 2012-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00097/tree-harvester-design-a-cut-above.htm
 author: massey-university
+permalink: /archive/2012/08/17/tree-harvester-design-a-cut-above/index.html
+layout: layout.njk
 ---
 Tree Harvester Design A Cut Above
 =================================

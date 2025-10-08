@@ -1,9 +1,12 @@
 ---
 slug: labours-potential-economic-stimulus-package
-title: "Labour's Potential Economic Stimulus Package"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PA0810/S00263/labours-potential-economic-stimulus-package.htm
+title: Labour's Potential Economic Stimulus Package
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00263/labours-potential-economic-stimulus-package.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/13/labours-potential-economic-stimulus-package/index.html
+layout: layout.njk
 ---
 Labour's Potential Economic Stimulus Package
 ============================================

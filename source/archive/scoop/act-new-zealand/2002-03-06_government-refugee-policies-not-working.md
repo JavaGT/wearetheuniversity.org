@@ -1,9 +1,12 @@
 ---
 slug: government-refugee-policies-not-working
-title: "Government Refugee Policies Not Working"
-date: 2002-03-06
-source-url: https://www.scoop.co.nz/stories/PA0203/S00102/government-refugee-policies-not-working.htm
+title: Government Refugee Policies Not Working
+date: 2002-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00102/government-refugee-policies-not-working.htm
 author: act-new-zealand
+permalink: /archive/2002/03/06/government-refugee-policies-not-working/index.html
+layout: layout.njk
 ---
 Government Refugee Policies Not Working
 =======================================

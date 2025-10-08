@@ -1,9 +1,13 @@
 ---
 slug: uc-research-into-high-rise-earthquake-evacuations
-title: "UC research into high rise earthquake evacuations"
-date: 2012-09-27
-source-url: https://www.scoop.co.nz/stories/AK1209/S00594/uc-research-into-high-rise-earthquake-evacuations.htm
+title: UC research into high rise earthquake evacuations
+date: 2012-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1209/S00594/uc-research-into-high-rise-earthquake-evacuations.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/27/uc-research-into-high-rise-earthquake-evacuations/index.html
+layout: layout.njk
 ---
 UC research into high rise earthquake evacuations
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: faculty-of-commerce-and-administration-strikes-jackpot
-title: "Faculty of Commerce and Administration strikes jackpot"
-date: 2011-12-20
-source-url: https://www.scoop.co.nz/stories/ED1112/S00101/faculty-of-commerce-and-administration-strikes-jackpot.htm
+title: Faculty of Commerce and Administration strikes jackpot
+date: 2011-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00101/faculty-of-commerce-and-administration-strikes-jackpot.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/12/20/faculty-of-commerce-and-administration-strikes-jackpot/index.html
+layout: layout.njk
 ---
 Faculty of Commerce and Administration strikes jackpot
 ======================================================

@@ -1,9 +1,11 @@
 ---
 slug: speech-peters-anzac-day
-title: "Speech: Peters - Anzac Day"
-date: 2016-04-25
+title: 'Speech: Peters - Anzac Day'
+date: 2016-04-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1604/S00400/speech-peters-anzac-day.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/25/speech-peters-anzac-day/index.html
+layout: layout.njk
 ---
 Speech: Peters - Anzac Day
 ==========================

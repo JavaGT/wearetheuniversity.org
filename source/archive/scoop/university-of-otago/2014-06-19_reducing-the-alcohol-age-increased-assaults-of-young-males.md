@@ -1,9 +1,13 @@
 ---
 slug: reducing-the-alcohol-age-increased-assaults-of-young-males
-title: "Reducing the alcohol age increased assaults of young males"
-date: 2014-06-19
-source-url: https://www.scoop.co.nz/stories/GE1406/S00088/reducing-the-alcohol-age-increased-assaults-of-young-males.htm
+title: Reducing the alcohol age increased assaults of young males
+date: 2014-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1406/S00088/reducing-the-alcohol-age-increased-assaults-of-young-males.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/06/19/reducing-the-alcohol-age-increased-assaults-of-young-males/index.html
+layout: layout.njk
 ---
 Reducing the alcohol age increased assaults of young males
 ==========================================================

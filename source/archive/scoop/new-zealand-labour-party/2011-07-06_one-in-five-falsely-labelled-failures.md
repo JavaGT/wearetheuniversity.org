@@ -1,9 +1,12 @@
 ---
 slug: one-in-five-falsely-labelled-failures
-title: "One in five falsely labelled ‘failures’"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/PA1107/S00101/one-in-five-falsely-labelled-failures.htm
+title: One in five falsely labelled ‘failures’
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00101/one-in-five-falsely-labelled-failures.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/06/one-in-five-falsely-labelled-failures/index.html
+layout: layout.njk
 ---
 One in five falsely labelled ‘failures’
 =======================================

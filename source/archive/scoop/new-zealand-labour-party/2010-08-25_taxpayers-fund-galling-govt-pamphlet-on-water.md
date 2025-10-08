@@ -1,9 +1,12 @@
 ---
 slug: taxpayers-fund-galling-govt-pamphlet-on-water
-title: "Taxpayers fund galling Govt pamphlet on water"
-date: 2010-08-25
-source-url: https://www.scoop.co.nz/stories/PA1008/S00376/taxpayers-fund-galling-govt-pamphlet-on-water.htm
+title: Taxpayers fund galling Govt pamphlet on water
+date: 2010-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00376/taxpayers-fund-galling-govt-pamphlet-on-water.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/25/taxpayers-fund-galling-govt-pamphlet-on-water/index.html
+layout: layout.njk
 ---
 Taxpayers fund galling Govt pamphlet on water
 =============================================

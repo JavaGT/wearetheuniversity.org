@@ -1,9 +1,13 @@
 ---
 slug: preventable-nerve-injuries-from-treatments-need-attention
-title: "Preventable nerve injuries from treatments need attention"
-date: 2012-02-28
-source-url: https://www.scoop.co.nz/stories/GE1202/S00110/preventable-nerve-injuries-from-treatments-need-attention.htm
+title: Preventable nerve injuries from treatments need attention
+date: 2012-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1202/S00110/preventable-nerve-injuries-from-treatments-need-attention.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/02/28/preventable-nerve-injuries-from-treatments-need-attention/index.html
+layout: layout.njk
 ---
 Preventable nerve injuries from treatments need attention
 =========================================================

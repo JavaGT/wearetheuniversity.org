@@ -1,9 +1,13 @@
 ---
 slug: integrated-ticketing-too-important-to-scale-back
-title: "Integrated Ticketing too important to scale back"
-date: 2009-06-10
-source-url: https://www.scoop.co.nz/stories/PA0906/S00141/integrated-ticketing-too-important-to-scale-back.htm
+title: Integrated Ticketing too important to scale back
+date: 2009-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00141/integrated-ticketing-too-important-to-scale-back.htm
 author: green-party
+permalink: >-
+  /archive/2009/06/10/integrated-ticketing-too-important-to-scale-back/index.html
+layout: layout.njk
 ---
 Integrated Ticketing too important to scale back
 ================================================

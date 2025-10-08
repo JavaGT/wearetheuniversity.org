@@ -1,9 +1,12 @@
 ---
 slug: opinion-zero-to-hero-why-we-need-phonics
-title: "Opinion: Zero to hero – why we need phonics"
-date: 2017-06-12
-source-url: https://www.scoop.co.nz/stories/ED1706/S00030/opinion-zero-to-hero-why-we-need-phonics.htm
+title: 'Opinion: Zero to hero – why we need phonics'
+date: 2017-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00030/opinion-zero-to-hero-why-we-need-phonics.htm
 author: massey-university
+permalink: /archive/2017/06/12/opinion-zero-to-hero-why-we-need-phonics/index.html
+layout: layout.njk
 ---
 Opinion: Zero to hero – why we need phonics
 ===========================================

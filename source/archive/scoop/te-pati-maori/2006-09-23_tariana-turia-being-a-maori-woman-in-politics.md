@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-being-a-maori-woman-in-politics
-title: "Tariana Turia: ‘Being a Maori Woman in Politics’"
-date: 2006-09-23
-source-url: https://www.scoop.co.nz/stories/PA0609/S00509/tariana-turia-being-a-maori-woman-in-politics.htm
+title: 'Tariana Turia: ‘Being a Maori Woman in Politics’'
+date: 2006-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00509/tariana-turia-being-a-maori-woman-in-politics.htm
 author: te-pati-maori
+permalink: /archive/2006/09/23/tariana-turia-being-a-maori-woman-in-politics/index.html
+layout: layout.njk
 ---
 Tariana Turia: ‘Being a Maori Woman in Politics’
 ================================================

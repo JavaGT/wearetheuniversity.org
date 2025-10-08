@@ -1,9 +1,13 @@
 ---
 slug: assessment-regime-encourages-superficial-learning
-title: "Assessment regime encourages superficial learning"
-date: 2011-01-17
-source-url: https://www.scoop.co.nz/stories/ED1101/S00020/assessment-regime-encourages-superficial-learning.htm
+title: Assessment regime encourages superficial learning
+date: 2011-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00020/assessment-regime-encourages-superficial-learning.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/01/17/assessment-regime-encourages-superficial-learning/index.html
+layout: layout.njk
 ---
 Assessment regime encourages superficial learning
 =================================================

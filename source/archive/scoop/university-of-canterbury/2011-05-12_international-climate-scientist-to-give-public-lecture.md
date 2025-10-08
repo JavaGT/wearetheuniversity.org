@@ -1,9 +1,13 @@
 ---
 slug: international-climate-scientist-to-give-public-lecture
-title: "International climate scientist to give public lecture"
-date: 2011-05-12
-source-url: https://www.scoop.co.nz/stories/CU1105/S00215/international-climate-scientist-to-give-public-lecture.htm
+title: International climate scientist to give public lecture
+date: 2011-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1105/S00215/international-climate-scientist-to-give-public-lecture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/05/12/international-climate-scientist-to-give-public-lecture/index.html
+layout: layout.njk
 ---
 International climate scientist to give public lecture
 ======================================================

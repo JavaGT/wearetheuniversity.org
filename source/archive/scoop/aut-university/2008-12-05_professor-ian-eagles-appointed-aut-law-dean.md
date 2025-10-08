@@ -1,9 +1,12 @@
 ---
 slug: professor-ian-eagles-appointed-aut-law-dean
-title: "Professor Ian Eagles appointed AUT Law Dean"
-date: 2008-12-05
-source-url: https://www.scoop.co.nz/stories/ED0812/S00017/professor-ian-eagles-appointed-aut-law-dean.htm
+title: Professor Ian Eagles appointed AUT Law Dean
+date: 2008-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00017/professor-ian-eagles-appointed-aut-law-dean.htm
 author: aut-university
+permalink: /archive/2008/12/05/professor-ian-eagles-appointed-aut-law-dean/index.html
+layout: layout.njk
 ---
 Professor Ian Eagles appointed AUT Law Dean
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: 90-day-unfair-dismissal-cases-unveiled
-title: "90 Day unfair dismissal cases unveiled"
-date: 2010-08-13
-source-url: https://www.scoop.co.nz/stories/PO1008/S00156/90-day-unfair-dismissal-cases-unveiled.htm
+title: 90 Day unfair dismissal cases unveiled
+date: 2010-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00156/90-day-unfair-dismissal-cases-unveiled.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/08/13/90-day-unfair-dismissal-cases-unveiled/index.html
+layout: layout.njk
 ---
 90 Day unfair dismissal cases unveiled
 ======================================

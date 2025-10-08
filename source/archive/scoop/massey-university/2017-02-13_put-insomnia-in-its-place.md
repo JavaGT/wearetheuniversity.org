@@ -1,9 +1,11 @@
 ---
 slug: put-insomnia-in-its-place
-title: "Put insomnia in its place"
-date: 2017-02-13
+title: Put insomnia in its place
+date: 2017-02-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1702/S00036/put-insomnia-in-its-place.htm
 author: massey-university
+permalink: /archive/2017/02/13/put-insomnia-in-its-place/index.html
+layout: layout.njk
 ---
 Put insomnia in its place
 =========================

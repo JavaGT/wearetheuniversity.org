@@ -1,9 +1,12 @@
 ---
 slug: greens-launch-ced-income-support-policy-speech
-title: "Greens launch CED / Income Support policy - Speech"
-date: 2002-07-11
-source-url: https://www.scoop.co.nz/stories/PA0207/S00317/greens-launch-ced-income-support-policy-speech.htm
+title: Greens launch CED / Income Support policy - Speech
+date: 2002-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00317/greens-launch-ced-income-support-policy-speech.htm
 author: green-party
+permalink: /archive/2002/07/11/greens-launch-ced-income-support-policy-speech/index.html
+layout: layout.njk
 ---
 Greens launch CED / Income Support policy - Speech
 ==================================================

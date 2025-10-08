@@ -1,9 +1,13 @@
 ---
 slug: unprecedented-drop-in-incomes-shows-lockdowns-unsustainable
-title: "Unprecedented Drop In Incomes Shows Lockdowns Unsustainable"
-date: 2020-08-26
-source-url: https://www.scoop.co.nz/stories/PA2008/S00197/unprecedented-drop-in-incomes-shows-lockdowns-unsustainable.htm
+title: Unprecedented Drop In Incomes Shows Lockdowns Unsustainable
+date: 2020-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00197/unprecedented-drop-in-incomes-shows-lockdowns-unsustainable.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/08/26/unprecedented-drop-in-incomes-shows-lockdowns-unsustainable/index.html
+layout: layout.njk
 ---
 Unprecedented Drop In Incomes Shows Lockdowns Unsustainable
 ===========================================================

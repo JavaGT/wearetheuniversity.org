@@ -1,9 +1,12 @@
 ---
 slug: labours-2020-strategy-borrow-to-bribe
-title: "Labour’s 2020 strategy: Borrow to bribe"
-date: 2019-12-01
-source-url: https://www.scoop.co.nz/stories/PA1912/S00004/labours-2020-strategy-borrow-to-bribe.htm
+title: 'Labour’s 2020 strategy: Borrow to bribe'
+date: 2019-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00004/labours-2020-strategy-borrow-to-bribe.htm
 author: act-new-zealand
+permalink: /archive/2019/12/01/labours-2020-strategy-borrow-to-bribe/index.html
+layout: layout.njk
 ---
 Labour’s 2020 strategy: Borrow to bribe
 =======================================

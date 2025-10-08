@@ -1,9 +1,13 @@
 ---
 slug: peters-farmers-must-reject-being-nationals-doormat
-title: "Peters: Farmers Must Reject Being National’s Doormat"
-date: 2016-05-27
-source-url: https://www.scoop.co.nz/stories/PA1605/S00608/peters-farmers-must-reject-being-nationals-doormat.htm
+title: 'Peters: Farmers Must Reject Being National’s Doormat'
+date: 2016-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00608/peters-farmers-must-reject-being-nationals-doormat.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/05/27/peters-farmers-must-reject-being-nationals-doormat/index.html
+layout: layout.njk
 ---
 Peters: Farmers Must Reject Being National’s Doormat
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: covid-committee-summonses-solicitor-general
-title: "Covid Committee Summonses Solicitor General"
-date: 2020-05-06
-source-url: https://www.scoop.co.nz/stories/PA2005/S00038/covid-committee-summonses-solicitor-general.htm
+title: Covid Committee Summonses Solicitor General
+date: 2020-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00038/covid-committee-summonses-solicitor-general.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/06/covid-committee-summonses-solicitor-general/index.html
+layout: layout.njk
 ---
 Covid Committee Summonses Solicitor General
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: victoria-academic-1st-to-receive-management-consulting-award
-title: "Victoria academic 1st to receive management consulting award"
-date: 2014-12-01
-source-url: https://www.scoop.co.nz/stories/ED1412/S00004/victoria-academic-1st-to-receive-management-consulting-award.htm
+title: Victoria academic 1st to receive management consulting award
+date: 2014-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00004/victoria-academic-1st-to-receive-management-consulting-award.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/01/victoria-academic-1st-to-receive-management-consulting-award/index.html
+layout: layout.njk
 ---
 Victoria academic 1st to receive management consulting award
 ============================================================

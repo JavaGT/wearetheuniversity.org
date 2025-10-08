@@ -1,9 +1,13 @@
 ---
 slug: professor-emerita-paula-jameson-awarded-2019-marsden-medal
-title: "Professor Emerita Paula Jameson awarded 2019 Marsden Medal"
-date: 2019-10-29
-source-url: https://www.scoop.co.nz/stories/ED1910/S00061/professor-emerita-paula-jameson-awarded-2019-marsden-medal.htm
+title: Professor Emerita Paula Jameson awarded 2019 Marsden Medal
+date: 2019-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00061/professor-emerita-paula-jameson-awarded-2019-marsden-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/10/29/professor-emerita-paula-jameson-awarded-2019-marsden-medal/index.html
+layout: layout.njk
 ---
 Professor Emerita Paula Jameson awarded 2019 Marsden Medal
 ==========================================================

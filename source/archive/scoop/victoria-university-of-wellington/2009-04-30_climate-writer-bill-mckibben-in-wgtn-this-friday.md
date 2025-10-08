@@ -1,9 +1,13 @@
 ---
 slug: climate-writer-bill-mckibben-in-wgtn-this-friday
-title: "Climate writer Bill McKibben in Wgtn this Friday."
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/ED0904/S00077/climate-writer-bill-mckibben-in-wgtn-this-friday.htm
+title: Climate writer Bill McKibben in Wgtn this Friday.
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00077/climate-writer-bill-mckibben-in-wgtn-this-friday.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/04/30/climate-writer-bill-mckibben-in-wgtn-this-friday/index.html
+layout: layout.njk
 ---
 Climate writer Bill McKibben in Wgtn this Friday.
 =================================================

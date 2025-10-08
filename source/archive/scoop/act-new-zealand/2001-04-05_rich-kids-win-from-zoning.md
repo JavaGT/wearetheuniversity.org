@@ -1,9 +1,11 @@
 ---
 slug: rich-kids-win-from-zoning
-title: "Rich Kids Win From Zoning"
-date: 2001-04-05
+title: Rich Kids Win From Zoning
+date: 2001-04-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0104/S00085/rich-kids-win-from-zoning.htm
 author: act-new-zealand
+permalink: /archive/2001/04/05/rich-kids-win-from-zoning/index.html
+layout: layout.njk
 ---
 Rich Kids Win From Zoning
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: why-are-200000+-animal-experiments-secret
-title: "Why are 200,000+ animal experiments secret?"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00631/why-are-200000-animal-experiments-secret.htm
+title: Why are 200,000+ animal experiments secret?
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00631/why-are-200000-animal-experiments-secret.htm
 author: green-party
+permalink: /archive/2005/06/27/why-are-200000/index.html
+layout: layout.njk
 ---
 Why are 200,000+ animal experiments secret?
 ===========================================

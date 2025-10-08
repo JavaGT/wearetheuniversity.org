@@ -1,9 +1,12 @@
 ---
 slug: fitzsimmons-speech-politics-for-beyond-tomorrow
-title: "Fitzsimmons Speech: Politics for Beyond Tomorrow"
-date: 1999-10-25
-source-url: https://www.scoop.co.nz/stories/PA9910/S00581/fitzsimmons-speech-politics-for-beyond-tomorrow.htm
+title: 'Fitzsimmons Speech: Politics for Beyond Tomorrow'
+date: 1999-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00581/fitzsimmons-speech-politics-for-beyond-tomorrow.htm
 author: green-party
+permalink: /archive/1999/10/25/fitzsimmons-speech-politics-for-beyond-tomorrow/index.html
+layout: layout.njk
 ---
 Fitzsimmons Speech: Politics for Beyond Tomorrow
 ================================================

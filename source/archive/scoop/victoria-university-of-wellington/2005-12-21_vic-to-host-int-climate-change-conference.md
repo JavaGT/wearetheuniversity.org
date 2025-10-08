@@ -1,9 +1,12 @@
 ---
 slug: vic-to-host-int-climate-change-conference
-title: "Vic to host int. climate change conference"
-date: 2005-12-21
-source-url: https://www.scoop.co.nz/stories/ED0512/S00083/vic-to-host-int-climate-change-conference.htm
+title: Vic to host int. climate change conference
+date: 2005-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00083/vic-to-host-int-climate-change-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/12/21/vic-to-host-int-climate-change-conference/index.html
+layout: layout.njk
 ---
 Vic to host int. climate change conference
 ==========================================

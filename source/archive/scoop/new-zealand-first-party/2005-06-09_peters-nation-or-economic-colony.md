@@ -1,9 +1,12 @@
 ---
 slug: peters-nation-or-economic-colony
-title: "Peter's - Nation or Economic Colony"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/PA0506/S00170/peters-nation-or-economic-colony.htm
+title: Peter's - Nation or Economic Colony
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00170/peters-nation-or-economic-colony.htm
 author: new-zealand-first-party
+permalink: /archive/2005/06/09/peters-nation-or-economic-colony/index.html
+layout: layout.njk
 ---
 Peter's - Nation or Economic Colony
 ===================================

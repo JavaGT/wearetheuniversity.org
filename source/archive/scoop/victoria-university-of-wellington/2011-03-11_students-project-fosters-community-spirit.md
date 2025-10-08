@@ -1,9 +1,12 @@
 ---
 slug: students-project-fosters-community-spirit
-title: "Students’ project fosters community spirit"
-date: 2011-03-11
-source-url: https://www.scoop.co.nz/stories/ED1103/S00055/students-project-fosters-community-spirit.htm
+title: Students’ project fosters community spirit
+date: 2011-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00055/students-project-fosters-community-spirit.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/03/11/students-project-fosters-community-spirit/index.html
+layout: layout.njk
 ---
 Students’ project fosters community spirit
 ==========================================

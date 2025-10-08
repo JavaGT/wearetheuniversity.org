@@ -1,9 +1,13 @@
 ---
 slug: cancer-doesnt-just-affect-the-wealthy-grant-robertson
-title: "Cancer Doesn’t Just Affect The Wealthy, Grant Robertson"
-date: 2021-04-09
-source-url: https://www.scoop.co.nz/stories/PA2104/S00064/cancer-doesnt-just-affect-the-wealthy-grant-robertson.htm
+title: Cancer Doesn’t Just Affect The Wealthy, Grant Robertson
+date: 2021-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00064/cancer-doesnt-just-affect-the-wealthy-grant-robertson.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/04/09/cancer-doesnt-just-affect-the-wealthy-grant-robertson/index.html
+layout: layout.njk
 ---
 Cancer Doesn’t Just Affect The Wealthy, Grant Robertson
 =======================================================

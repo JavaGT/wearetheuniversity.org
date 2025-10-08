@@ -1,9 +1,13 @@
 ---
 slug: vaping-law-the-most-damaging-public-health-policy-in-a-generation
-title: "Vaping Law The Most Damaging Public Health Policy In A Generation"
-date: 2020-11-11
-source-url: https://www.scoop.co.nz/stories/PA2011/S00032/vaping-law-the-most-damaging-public-health-policy-in-a-generation.htm
+title: Vaping Law The Most Damaging Public Health Policy In A Generation
+date: 2020-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2011/S00032/vaping-law-the-most-damaging-public-health-policy-in-a-generation.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/11/11/vaping-law-the-most-damaging-public-health-policy-in-a-generation/index.html
+layout: layout.njk
 ---
 Vaping Law The Most Damaging Public Health Policy In A Generation
 =================================================================

@@ -1,9 +1,12 @@
 ---
 slug: richard-prebble-speech-auckland-(south)-conference
-title: "Richard Prebble Speech Auckland (South) Conference"
-date: 2002-11-25
-source-url: https://www.scoop.co.nz/stories/PA0211/S00556/richard-prebble-speech-auckland-south-conference.htm
+title: Richard Prebble Speech Auckland (South) Conference
+date: 2002-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00556/richard-prebble-speech-auckland-south-conference.htm
 author: act-new-zealand
+permalink: /archive/2002/11/25/richard-prebble-speech-auckland-/index.html
+layout: layout.njk
 ---
 Richard Prebble Speech Auckland (South) Conference
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-congratulates-england-on-standardised-packaging
-title: "Māori Party congratulates England on  standardised packaging"
-date: 2015-03-12
-source-url: https://www.scoop.co.nz/stories/PA1503/S00167/maori-party-congratulates-england-on-standardised-packaging.htm
+title: Māori Party congratulates England on  standardised packaging
+date: 2015-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00167/maori-party-congratulates-england-on-standardised-packaging.htm
 author: te-pati-maori
+permalink: /archive/2015/03/12/m/index.html
+layout: layout.njk
 ---
 Māori Party congratulates England on standardised packaging
 ===========================================================

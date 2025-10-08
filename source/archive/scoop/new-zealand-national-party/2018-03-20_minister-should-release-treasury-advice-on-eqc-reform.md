@@ -1,9 +1,13 @@
 ---
 slug: minister-should-release-treasury-advice-on-eqc-reform
-title: "Minister should release Treasury advice on EQC reform"
-date: 2018-03-20
-source-url: https://www.scoop.co.nz/stories/PA1803/S00206/minister-should-release-treasury-advice-on-eqc-reform.htm
+title: Minister should release Treasury advice on EQC reform
+date: 2018-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00206/minister-should-release-treasury-advice-on-eqc-reform.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/03/20/minister-should-release-treasury-advice-on-eqc-reform/index.html
+layout: layout.njk
 ---
 Minister should release Treasury advice on EQC reform
 =====================================================

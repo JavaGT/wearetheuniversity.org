@@ -1,9 +1,11 @@
 ---
 slug: massey-university-news
-title: "Massey University News"
-date: 2003-04-07
+title: Massey University News
+date: 2003-04-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0304/S00015/massey-university-news.htm
 author: massey-university
+permalink: /archive/2003/04/07/massey-university-news/index.html
+layout: layout.njk
 ---
 Massey University News
 ======================

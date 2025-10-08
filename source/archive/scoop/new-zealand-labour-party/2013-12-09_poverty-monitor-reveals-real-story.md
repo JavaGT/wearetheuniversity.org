@@ -1,9 +1,12 @@
 ---
 slug: poverty-monitor-reveals-real-story
-title: "Poverty monitor reveals real story"
-date: 2013-12-09
-source-url: https://www.scoop.co.nz/stories/PA1312/S00184/poverty-monitor-reveals-real-story.htm
+title: Poverty monitor reveals real story
+date: 2013-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00184/poverty-monitor-reveals-real-story.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/12/09/poverty-monitor-reveals-real-story/index.html
+layout: layout.njk
 ---
 Poverty monitor reveals real story
 ==================================

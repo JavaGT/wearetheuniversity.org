@@ -1,9 +1,12 @@
 ---
 slug: dr-cullens-medicine-makes-us-sick-greens
-title: "Dr Cullen's medicine makes us sick - Greens"
-date: 2000-09-10
-source-url: https://www.scoop.co.nz/stories/PA0009/S00153/dr-cullens-medicine-makes-us-sick-greens.htm
+title: Dr Cullen's medicine makes us sick - Greens
+date: 2000-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00153/dr-cullens-medicine-makes-us-sick-greens.htm
 author: green-party
+permalink: /archive/2000/09/10/dr-cullens-medicine-makes-us-sick-greens/index.html
+layout: layout.njk
 ---
 Dr Cullen's medicine makes us sick - Greens
 ===========================================

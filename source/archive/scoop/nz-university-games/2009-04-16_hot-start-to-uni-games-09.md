@@ -1,9 +1,11 @@
 ---
 slug: hot-start-to-uni-games-09
-title: "Hot start to Uni Games 09"
-date: 2009-04-16
+title: Hot start to Uni Games 09
+date: 2009-04-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0904/S00204/hot-start-to-uni-games-09.htm
 author: nz-university-games
+permalink: /archive/2009/04/16/hot-start-to-uni-games-09/index.html
+layout: layout.njk
 ---
 Hot start to Uni Games 09
 =========================

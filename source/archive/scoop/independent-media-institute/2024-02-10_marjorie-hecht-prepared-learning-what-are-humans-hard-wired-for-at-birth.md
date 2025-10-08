@@ -1,9 +1,13 @@
 ---
 slug: marjorie-hecht-prepared-learning-what-are-humans-hard-wired-for-at-birth
-title: "Marjorie Hecht: Prepared Learning: What Are Humans Hard-Wired For At Birth?"
-date: 2024-02-10
-source-url: https://www.scoop.co.nz/stories/WO2402/S00033/marjorie-hecht-prepared-learning-what-are-humans-hard-wired-for-at-birth.htm
+title: 'Marjorie Hecht: Prepared Learning: What Are Humans Hard-Wired For At Birth?'
+date: 2024-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2402/S00033/marjorie-hecht-prepared-learning-what-are-humans-hard-wired-for-at-birth.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/02/10/marjorie-hecht-prepared-learning-what-are-humans-hard-wired-for-at-birth/index.html
+layout: layout.njk
 ---
 Marjorie Hecht: Prepared Learning: What Are Humans Hard-Wired For At Birth?
 ===========================================================================

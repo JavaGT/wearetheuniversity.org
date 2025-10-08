@@ -1,9 +1,13 @@
 ---
 slug: govt-caught-acting-unethically-over-cluster-bomb-investments
-title: "Govt caught acting unethically over cluster bomb investments"
-date: 2016-08-29
-source-url: https://www.scoop.co.nz/stories/PA1608/S00512/govt-caught-acting-unethically-over-cluster-bomb-investments.htm
+title: Govt caught acting unethically over cluster bomb investments
+date: 2016-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00512/govt-caught-acting-unethically-over-cluster-bomb-investments.htm
 author: green-party
+permalink: >-
+  /archive/2016/08/29/govt-caught-acting-unethically-over-cluster-bomb-investments/index.html
+layout: layout.njk
 ---
 Govt caught acting unethically over cluster bomb investments
 ============================================================

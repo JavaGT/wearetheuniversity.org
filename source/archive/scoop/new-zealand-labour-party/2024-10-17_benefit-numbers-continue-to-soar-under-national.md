@@ -1,9 +1,12 @@
 ---
 slug: benefit-numbers-continue-to-soar-under-national
-title: "Benefit Numbers Continue To Soar Under National"
-date: 2024-10-17
-source-url: https://www.scoop.co.nz/stories/PA2410/S00128/benefit-numbers-continue-to-soar-under-national.htm
+title: Benefit Numbers Continue To Soar Under National
+date: 2024-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00128/benefit-numbers-continue-to-soar-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/10/17/benefit-numbers-continue-to-soar-under-national/index.html
+layout: layout.njk
 ---
 Benefit Numbers Continue To Soar Under National
 ===============================================

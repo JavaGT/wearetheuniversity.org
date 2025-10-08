@@ -1,9 +1,12 @@
 ---
 slug: time-to-pull-stumps-on-arsenic-herbicide
-title: "Time to pull stumps on arsenic herbicide"
-date: 2009-02-19
-source-url: https://www.scoop.co.nz/stories/PA0902/S00292/time-to-pull-stumps-on-arsenic-herbicide.htm
+title: Time to pull stumps on arsenic herbicide
+date: 2009-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00292/time-to-pull-stumps-on-arsenic-herbicide.htm
 author: green-party
+permalink: /archive/2009/02/19/time-to-pull-stumps-on-arsenic-herbicide/index.html
+layout: layout.njk
 ---
 Time to pull stumps on arsenic herbicide
 ========================================

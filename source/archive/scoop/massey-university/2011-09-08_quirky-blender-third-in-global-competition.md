@@ -1,9 +1,12 @@
 ---
 slug: quirky-blender-third-in-global-competition
-title: "Quirky blender third in global competition"
-date: 2011-09-08
-source-url: https://www.scoop.co.nz/stories/ED1109/S00027/quirky-blender-third-in-global-competition.htm
+title: Quirky blender third in global competition
+date: 2011-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00027/quirky-blender-third-in-global-competition.htm
 author: massey-university
+permalink: /archive/2011/09/08/quirky-blender-third-in-global-competition/index.html
+layout: layout.njk
 ---
 Quirky blender third in global competition
 ==========================================

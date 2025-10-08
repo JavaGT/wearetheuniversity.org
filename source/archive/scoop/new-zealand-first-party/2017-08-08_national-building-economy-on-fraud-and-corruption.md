@@ -1,9 +1,13 @@
 ---
 slug: national-building-economy-on-fraud-and-corruption
-title: "National Building Economy on Fraud And Corruption"
-date: 2017-08-08
-source-url: https://www.scoop.co.nz/stories/PA1708/S00154/national-building-economy-on-fraud-and-corruption.htm
+title: National Building Economy on Fraud And Corruption
+date: 2017-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00154/national-building-economy-on-fraud-and-corruption.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/08/national-building-economy-on-fraud-and-corruption/index.html
+layout: layout.njk
 ---
 National Building Economy on Fraud And Corruption
 =================================================

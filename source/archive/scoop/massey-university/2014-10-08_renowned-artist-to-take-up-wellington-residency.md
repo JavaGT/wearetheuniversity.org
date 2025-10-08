@@ -1,9 +1,12 @@
 ---
 slug: renowned-artist-to-take-up-wellington-residency
-title: "Renowned artist to take up Wellington residency"
-date: 2014-10-08
-source-url: https://www.scoop.co.nz/stories/CU1410/S00189/renowned-artist-to-take-up-wellington-residency.htm
+title: Renowned artist to take up Wellington residency
+date: 2014-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00189/renowned-artist-to-take-up-wellington-residency.htm
 author: massey-university
+permalink: /archive/2014/10/08/renowned-artist-to-take-up-wellington-residency/index.html
+layout: layout.njk
 ---
 Renowned artist to take up Wellington residency
 ===============================================

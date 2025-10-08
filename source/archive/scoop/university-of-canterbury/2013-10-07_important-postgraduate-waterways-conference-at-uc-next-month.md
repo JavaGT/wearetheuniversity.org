@@ -1,9 +1,13 @@
 ---
 slug: important-postgraduate-waterways-conference-at-uc-next-month
-title: "Important postgraduate waterways conference at UC next month"
-date: 2013-10-07
-source-url: https://www.scoop.co.nz/stories/SC1310/S00011/important-postgraduate-waterways-conference-at-uc-next-month.htm
+title: Important postgraduate waterways conference at UC next month
+date: 2013-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00011/important-postgraduate-waterways-conference-at-uc-next-month.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/07/important-postgraduate-waterways-conference-at-uc-next-month/index.html
+layout: layout.njk
 ---
 Important postgraduate waterways conference at UC next month
 ============================================================

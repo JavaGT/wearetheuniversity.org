@@ -1,9 +1,13 @@
 ---
 slug: former-vc-to-be-awarded-degree-of-honorary-doctor
-title: "Former VC to be Awarded Degree of Honorary Doctor"
-date: 2006-09-25
-source-url: https://www.scoop.co.nz/stories/ED0609/S00092/former-vc-to-be-awarded-degree-of-honorary-doctor.htm
+title: Former VC to be Awarded Degree of Honorary Doctor
+date: 2006-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00092/former-vc-to-be-awarded-degree-of-honorary-doctor.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2006/09/25/former-vc-to-be-awarded-degree-of-honorary-doctor/index.html
+layout: layout.njk
 ---
 Former VC to be Awarded Degree of Honorary Doctor
 =================================================

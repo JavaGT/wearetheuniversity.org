@@ -1,9 +1,12 @@
 ---
 slug: centenary-of-an-outstanding-new-zealander
-title: "Centenary Of An Outstanding New Zealander"
-date: 2001-07-04
-source-url: https://www.scoop.co.nz/stories/CU0107/S00017/centenary-of-an-outstanding-new-zealander.htm
+title: Centenary Of An Outstanding New Zealander
+date: 2001-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0107/S00017/centenary-of-an-outstanding-new-zealander.htm
 author: auckland-university-press
+permalink: /archive/2001/07/04/centenary-of-an-outstanding-new-zealander/index.html
+layout: layout.njk
 ---
 Centenary Of An Outstanding New Zealander
 =========================================

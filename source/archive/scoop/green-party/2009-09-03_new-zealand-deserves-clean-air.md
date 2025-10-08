@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-deserves-clean-air
-title: "New Zealand deserves clean air"
-date: 2009-09-03
-source-url: https://www.scoop.co.nz/stories/PA0909/S00036/new-zealand-deserves-clean-air.htm
+title: New Zealand deserves clean air
+date: 2009-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00036/new-zealand-deserves-clean-air.htm
 author: green-party
+permalink: /archive/2009/09/03/new-zealand-deserves-clean-air/index.html
+layout: layout.njk
 ---
 New Zealand deserves clean air
 ==============================

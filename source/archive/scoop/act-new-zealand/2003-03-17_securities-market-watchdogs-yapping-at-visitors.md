@@ -1,9 +1,12 @@
 ---
 slug: securities-market-watchdogs-yapping-at-visitors
-title: "Securities Market Watchdogs Yapping at Visitors"
-date: 2003-03-17
-source-url: https://www.scoop.co.nz/stories/PA0303/S00263/securities-market-watchdogs-yapping-at-visitors.htm
+title: Securities Market Watchdogs Yapping at Visitors
+date: 2003-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00263/securities-market-watchdogs-yapping-at-visitors.htm
 author: act-new-zealand
+permalink: /archive/2003/03/17/securities-market-watchdogs-yapping-at-visitors/index.html
+layout: layout.njk
 ---
 Securities Market Watchdogs Yapping at Visitors
 ===============================================

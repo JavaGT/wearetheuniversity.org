@@ -1,9 +1,12 @@
 ---
 slug: winebox-speech-from-ron-mark-mp
-title: "Winebox Speech From Ron Mark MP"
-date: 1999-08-20
-source-url: https://www.scoop.co.nz/stories/PA9908/S00350/winebox-speech-from-ron-mark-mp.htm
+title: Winebox Speech From Ron Mark MP
+date: 1999-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00350/winebox-speech-from-ron-mark-mp.htm
 author: new-zealand-first-party
+permalink: /archive/1999/08/20/winebox-speech-from-ron-mark-mp/index.html
+layout: layout.njk
 ---
 Winebox Speech From Ron Mark MP
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: prize-winning-year-for-nanogirl
-title: "Prize-winning year for ‘Nanogirl’"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/SC1412/S00007/prize-winning-year-for-nanogirl.htm
+title: Prize-winning year for ‘Nanogirl’
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00007/prize-winning-year-for-nanogirl.htm
 author: auckland-university
+permalink: /archive/2014/12/03/prize-winning-year-for-nanogirl/index.html
+layout: layout.njk
 ---
 Prize-winning year for ‘Nanogirl’
 =================================

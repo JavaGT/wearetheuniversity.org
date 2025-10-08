@@ -1,9 +1,13 @@
 ---
 slug: quality-public-education-under-threat-from-charter-schools
-title: "Quality public education under threat from charter schools"
-date: 2013-02-12
-source-url: https://www.scoop.co.nz/stories/ED1302/S00059/quality-public-education-under-threat-from-charter-schools.htm
+title: Quality public education under threat from charter schools
+date: 2013-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00059/quality-public-education-under-threat-from-charter-schools.htm
 author: nzei
+permalink: >-
+  /archive/2013/02/12/quality-public-education-under-threat-from-charter-schools/index.html
+layout: layout.njk
 ---
 Quality public education under threat from charter schools
 ==========================================================

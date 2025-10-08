@@ -1,9 +1,13 @@
 ---
 slug: govt-must-step-up-efforts-to-save-cook-islands-language
-title: "Govt must step up efforts to save Cook Islands language"
-date: 2013-08-04
-source-url: https://www.scoop.co.nz/stories/PA1308/S00068/govt-must-step-up-efforts-to-save-cook-islands-language.htm
+title: Govt must step up efforts to save Cook Islands language
+date: 2013-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00068/govt-must-step-up-efforts-to-save-cook-islands-language.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/08/04/govt-must-step-up-efforts-to-save-cook-islands-language/index.html
+layout: layout.njk
 ---
 Govt must step up efforts to save Cook Islands language
 =======================================================

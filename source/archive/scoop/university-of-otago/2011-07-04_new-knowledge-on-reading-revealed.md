@@ -1,9 +1,12 @@
 ---
 slug: new-knowledge-on-reading-revealed
-title: "New knowledge on reading revealed"
-date: 2011-07-04
-source-url: https://www.scoop.co.nz/stories/ED1107/S00011/new-knowledge-on-reading-revealed.htm
+title: New knowledge on reading revealed
+date: 2011-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00011/new-knowledge-on-reading-revealed.htm
 author: university-of-otago
+permalink: /archive/2011/07/04/new-knowledge-on-reading-revealed/index.html
+layout: layout.njk
 ---
 New knowledge on reading revealed
 =================================

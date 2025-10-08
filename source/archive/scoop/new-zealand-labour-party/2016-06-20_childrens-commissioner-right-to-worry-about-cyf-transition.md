@@ -1,9 +1,13 @@
 ---
 slug: childrens-commissioner-right-to-worry-about-cyf-transition
-title: "Children’s Commissioner right to worry about CYF transition"
-date: 2016-06-20
-source-url: https://www.scoop.co.nz/stories/PA1606/S00332/childrens-commissioner-right-to-worry-about-cyf-transition.htm
+title: Children’s Commissioner right to worry about CYF transition
+date: 2016-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00332/childrens-commissioner-right-to-worry-about-cyf-transition.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/06/20/childrens-commissioner-right-to-worry-about-cyf-transition/index.html
+layout: layout.njk
 ---
 Children’s Commissioner right to worry about CYF transition
 ===========================================================

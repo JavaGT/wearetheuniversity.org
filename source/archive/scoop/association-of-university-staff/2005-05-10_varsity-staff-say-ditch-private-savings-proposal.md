@@ -1,9 +1,13 @@
 ---
 slug: varsity-staff-say-ditch-private-savings-proposal
-title: "Varsity staff say ditch private savings proposal"
-date: 2005-05-10
-source-url: https://www.scoop.co.nz/stories/ED0505/S00038/varsity-staff-say-ditch-private-savings-proposal.htm
+title: Varsity staff say ditch private savings proposal
+date: 2005-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00038/varsity-staff-say-ditch-private-savings-proposal.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2005/05/10/varsity-staff-say-ditch-private-savings-proposal/index.html
+layout: layout.njk
 ---
 Varsity staff say ditch private savings proposal
 ================================================

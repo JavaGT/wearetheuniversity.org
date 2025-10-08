@@ -1,9 +1,12 @@
 ---
 slug: manuka-honey-research-to-grow-industry
-title: "Manuka honey research to grow industry"
-date: 2011-05-10
-source-url: https://www.scoop.co.nz/stories/SC1105/S00028/manuka-honey-research-to-grow-industry.htm
+title: Manuka honey research to grow industry
+date: 2011-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00028/manuka-honey-research-to-grow-industry.htm
 author: massey-university
+permalink: /archive/2011/05/10/manuka-honey-research-to-grow-industry/index.html
+layout: layout.njk
 ---
 Manuka honey research to grow industry
 ======================================

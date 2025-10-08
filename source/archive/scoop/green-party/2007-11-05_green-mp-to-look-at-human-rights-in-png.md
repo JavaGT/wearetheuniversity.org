@@ -1,9 +1,12 @@
 ---
 slug: green-mp-to-look-at-human-rights-in-png
-title: "Green MP to look at human rights  in PNG"
-date: 2007-11-05
-source-url: https://www.scoop.co.nz/stories/PA0711/S00056/green-mp-to-look-at-human-rights-in-png.htm
+title: Green MP to look at human rights  in PNG
+date: 2007-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00056/green-mp-to-look-at-human-rights-in-png.htm
 author: green-party
+permalink: /archive/2007/11/05/green-mp-to-look-at-human-rights-in-png/index.html
+layout: layout.njk
 ---
 Green MP to look at human rights in PNG
 =======================================

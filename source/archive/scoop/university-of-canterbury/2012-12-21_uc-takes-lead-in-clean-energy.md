@@ -1,9 +1,12 @@
 ---
 slug: uc-takes-lead-in-clean-energy
-title: "UC takes lead in clean energy"
-date: 2012-12-21
-source-url: https://www.scoop.co.nz/stories/ED1212/S00137/uc-takes-lead-in-clean-energy.htm
+title: UC takes lead in clean energy
+date: 2012-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00137/uc-takes-lead-in-clean-energy.htm
 author: university-of-canterbury
+permalink: /archive/2012/12/21/uc-takes-lead-in-clean-energy/index.html
+layout: layout.njk
 ---
 UC takes lead in clean energy
 =============================

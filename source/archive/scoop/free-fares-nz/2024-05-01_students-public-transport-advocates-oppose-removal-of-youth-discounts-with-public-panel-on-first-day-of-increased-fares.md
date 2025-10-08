@@ -1,9 +1,16 @@
 ---
-slug: students-public-transport-advocates-oppose-removal-of-youth-discounts-with-public-panel-on-first-day-of-increased-fares
-title: "Students, Public Transport Advocates Oppose Removal Of Youth Discounts With Public Panel On First Day Of Increased Fares"
-date: 2024-05-01
-source-url: https://www.scoop.co.nz/stories/AK2405/S00017/students-public-transport-advocates-oppose-removal-of-youth-discounts-with-public-panel-on-first-day-of-increased-fares.htm
+slug: >-
+  students-public-transport-advocates-oppose-removal-of-youth-discounts-with-public-panel-on-first-day-of-increased-fares
+title: >-
+  Students, Public Transport Advocates Oppose Removal Of Youth Discounts With
+  Public Panel On First Day Of Increased Fares
+date: 2024-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2405/S00017/students-public-transport-advocates-oppose-removal-of-youth-discounts-with-public-panel-on-first-day-of-increased-fares.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2024/05/01/students-public-transport-advocates-oppose-removal-of-youth-discounts-with-public-panel-on-first-day-of-increased-fares/index.html
+layout: layout.njk
 ---
 Students, Public Transport Advocates Oppose Removal Of Youth Discounts With Public Panel On First Day Of Increased Fares
 ========================================================================================================================

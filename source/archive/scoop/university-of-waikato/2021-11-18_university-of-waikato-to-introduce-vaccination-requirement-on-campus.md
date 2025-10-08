@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-to-introduce-vaccination-requirement-on-campus
-title: "University Of Waikato To Introduce Vaccination Requirement On Campus"
-date: 2021-11-18
-source-url: https://www.scoop.co.nz/stories/GE2111/S00126/university-of-waikato-to-introduce-vaccination-requirement-on-campus.htm
+title: University Of Waikato To Introduce Vaccination Requirement On Campus
+date: 2021-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2111/S00126/university-of-waikato-to-introduce-vaccination-requirement-on-campus.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/11/18/university-of-waikato-to-introduce-vaccination-requirement-on-campus/index.html
+layout: layout.njk
 ---
 University Of Waikato To Introduce Vaccination Requirement On Campus
 ====================================================================

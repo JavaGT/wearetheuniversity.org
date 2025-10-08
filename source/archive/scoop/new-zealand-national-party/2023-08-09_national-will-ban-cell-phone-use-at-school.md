@@ -1,9 +1,12 @@
 ---
 slug: national-will-ban-cell-phone-use-at-school
-title: "National Will Ban Cell Phone Use At School"
-date: 2023-08-09
-source-url: https://www.scoop.co.nz/stories/PO2308/S00079/national-will-ban-cell-phone-use-at-school.htm
+title: National Will Ban Cell Phone Use At School
+date: 2023-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00079/national-will-ban-cell-phone-use-at-school.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/09/national-will-ban-cell-phone-use-at-school/index.html
+layout: layout.njk
 ---
 National Will Ban Cell Phone Use At School
 ==========================================

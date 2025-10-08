@@ -1,9 +1,13 @@
 ---
 slug: ryall-new-zealand-medical-association-conference
-title: "Ryall: New Zealand Medical Association Conference"
-date: 2008-06-20
-source-url: https://www.scoop.co.nz/stories/PA0806/S00330/ryall-new-zealand-medical-association-conference.htm
+title: 'Ryall: New Zealand Medical Association Conference'
+date: 2008-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00330/ryall-new-zealand-medical-association-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/06/20/ryall-new-zealand-medical-association-conference/index.html
+layout: layout.njk
 ---
 Ryall: New Zealand Medical Association Conference
 =================================================

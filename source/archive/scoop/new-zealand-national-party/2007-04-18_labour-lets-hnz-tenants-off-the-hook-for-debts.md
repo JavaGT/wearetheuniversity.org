@@ -1,9 +1,12 @@
 ---
 slug: labour-lets-hnz-tenants-off-the-hook-for-debts
-title: "Labour lets HNZ tenants off the hook for debts"
-date: 2007-04-18
-source-url: https://www.scoop.co.nz/stories/PA0704/S00304/labour-lets-hnz-tenants-off-the-hook-for-debts.htm
+title: Labour lets HNZ tenants off the hook for debts
+date: 2007-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00304/labour-lets-hnz-tenants-off-the-hook-for-debts.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/18/labour-lets-hnz-tenants-off-the-hook-for-debts/index.html
+layout: layout.njk
 ---
 Labour lets HNZ tenants off the hook for debts
 ==============================================

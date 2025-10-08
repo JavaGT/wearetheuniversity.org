@@ -1,9 +1,13 @@
 ---
 slug: national-launch-campaign-to-demand-the-debate-for-all-new-zealanders
-title: "National Launch Campaign To Demand The Debate For All New Zealanders"
-date: 2021-07-11
-source-url: https://www.scoop.co.nz/stories/PA2107/S00090/national-launch-campaign-to-demand-the-debate-for-all-new-zealanders.htm
+title: National Launch Campaign To Demand The Debate For All New Zealanders
+date: 2021-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00090/national-launch-campaign-to-demand-the-debate-for-all-new-zealanders.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/07/11/national-launch-campaign-to-demand-the-debate-for-all-new-zealanders/index.html
+layout: layout.njk
 ---
 National Launch Campaign To Demand The Debate For All New Zealanders
 ====================================================================

@@ -1,9 +1,13 @@
 ---
 slug: grant-awarded-for-approach-to-stop-biofilm-based-infections
-title: "Grant awarded for approach to stop biofilm-based infections"
-date: 2014-12-17
-source-url: https://www.scoop.co.nz/stories/SC1412/S00054/grant-awarded-for-approach-to-stop-biofilm-based-infections.htm
+title: Grant awarded for approach to stop biofilm-based infections
+date: 2014-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00054/grant-awarded-for-approach-to-stop-biofilm-based-infections.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/12/17/grant-awarded-for-approach-to-stop-biofilm-based-infections/index.html
+layout: layout.njk
 ---
 Grant awarded for approach to stop biofilm-based infections
 ===========================================================

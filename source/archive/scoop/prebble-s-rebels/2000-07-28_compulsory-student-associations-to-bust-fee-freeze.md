@@ -1,9 +1,13 @@
 ---
 slug: compulsory-student-associations-to-bust-fee-freeze
-title: "Compulsory Student Associations To Bust Fee Freeze"
-date: 2000-07-28
-source-url: https://www.scoop.co.nz/stories/PO0007/S00121/compulsory-student-associations-to-bust-fee-freeze.htm
+title: Compulsory Student Associations To Bust Fee Freeze
+date: 2000-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0007/S00121/compulsory-student-associations-to-bust-fee-freeze.htm
 author: prebble-s-rebels
+permalink: >-
+  /archive/2000/07/28/compulsory-student-associations-to-bust-fee-freeze/index.html
+layout: layout.njk
 ---
 Compulsory Student Associations To Bust Fee Freeze
 ==================================================

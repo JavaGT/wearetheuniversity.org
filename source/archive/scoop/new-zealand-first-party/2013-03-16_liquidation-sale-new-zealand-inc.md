@@ -1,9 +1,12 @@
 ---
 slug: liquidation-sale-new-zealand-inc
-title: "\"Liquidation Sale – New Zealand Inc\""
-date: 2013-03-16
-source-url: https://www.scoop.co.nz/stories/PA1303/S00284/liquidation-sale-new-zealand-inc.htm
+title: '"Liquidation Sale – New Zealand Inc"'
+date: 2013-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00284/liquidation-sale-new-zealand-inc.htm
 author: new-zealand-first-party
+permalink: /archive/2013/03/16/liquidation-sale-new-zealand-inc/index.html
+layout: layout.njk
 ---
 “Liquidation Sale – New Zealand Inc”
 ====================================

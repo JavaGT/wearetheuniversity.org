@@ -1,9 +1,12 @@
 ---
 slug: majority-of-youth-use-internet-without-conflict
-title: "Majority of youth use Internet without conflict"
-date: 2007-08-16
-source-url: https://www.scoop.co.nz/stories/ED0708/S00046/majority-of-youth-use-internet-without-conflict.htm
+title: Majority of youth use Internet without conflict
+date: 2007-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00046/majority-of-youth-use-internet-without-conflict.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/16/majority-of-youth-use-internet-without-conflict/index.html
+layout: layout.njk
 ---
 Majority of youth use Internet without conflict
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: nothing-silly-about-wanting-quake-information
-title: "Nothing silly about wanting quake information"
-date: 2010-12-10
-source-url: https://www.scoop.co.nz/stories/PA1012/S00180/nothing-silly-about-wanting-quake-information.htm
+title: Nothing silly about wanting quake information
+date: 2010-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00180/nothing-silly-about-wanting-quake-information.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/10/nothing-silly-about-wanting-quake-information/index.html
+layout: layout.njk
 ---
 Nothing silly about wanting quake information
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: uc-funding-agreement-varied
-title: "UC funding agreement varied"
-date: 2015-11-26
+title: UC funding agreement varied
+date: 2015-11-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1511/S00122/uc-funding-agreement-varied.htm
 author: university-of-canterbury
+permalink: /archive/2015/11/26/uc-funding-agreement-varied/index.html
+layout: layout.njk
 ---
 UC funding agreement varied
 ===========================

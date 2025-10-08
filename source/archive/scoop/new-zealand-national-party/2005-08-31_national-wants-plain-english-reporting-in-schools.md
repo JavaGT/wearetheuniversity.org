@@ -1,9 +1,13 @@
 ---
 slug: national-wants-plain-english-reporting-in-schools
-title: "National wants Plain English reporting in schools"
-date: 2005-08-31
-source-url: https://www.scoop.co.nz/stories/PA0508/S00826/national-wants-plain-english-reporting-in-schools.htm
+title: National wants Plain English reporting in schools
+date: 2005-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00826/national-wants-plain-english-reporting-in-schools.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/08/31/national-wants-plain-english-reporting-in-schools/index.html
+layout: layout.njk
 ---
 National wants Plain English reporting in schools
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-data-shows-fees-free-a-major-flop
-title: "New data shows Fees-Free a major flop"
-date: 2018-06-22
-source-url: https://www.scoop.co.nz/stories/PA1806/S00242/new-data-shows-fees-free-a-major-flop.htm
+title: New data shows Fees-Free a major flop
+date: 2018-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00242/new-data-shows-fees-free-a-major-flop.htm
 author: act-new-zealand
+permalink: /archive/2018/06/22/new-data-shows-fees-free-a-major-flop/index.html
+layout: layout.njk
 ---
 New data shows Fees-Free a major flop
 =====================================

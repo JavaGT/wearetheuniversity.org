@@ -1,9 +1,13 @@
 ---
 slug: unsold-kiwibuild-homes-should-have-taxpayers-worried
-title: "Unsold KiwiBuild homes should have taxpayers worried"
-date: 2019-05-20
-source-url: https://www.scoop.co.nz/stories/PA1905/S00193/unsold-kiwibuild-homes-should-have-taxpayers-worried.htm
+title: Unsold KiwiBuild homes should have taxpayers worried
+date: 2019-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00193/unsold-kiwibuild-homes-should-have-taxpayers-worried.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/05/20/unsold-kiwibuild-homes-should-have-taxpayers-worried/index.html
+layout: layout.njk
 ---
 Unsold KiwiBuild homes should have taxpayers worried
 ====================================================

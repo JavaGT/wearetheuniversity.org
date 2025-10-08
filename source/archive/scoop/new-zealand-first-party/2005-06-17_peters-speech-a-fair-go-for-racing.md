@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-a-fair-go-for-racing
-title: "Peters Speech: A Fair Go For Racing"
-date: 2005-06-17
-source-url: https://www.scoop.co.nz/stories/PA0506/S00375/peters-speech-a-fair-go-for-racing.htm
+title: 'Peters Speech: A Fair Go For Racing'
+date: 2005-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00375/peters-speech-a-fair-go-for-racing.htm
 author: new-zealand-first-party
+permalink: /archive/2005/06/17/peters-speech-a-fair-go-for-racing/index.html
+layout: layout.njk
 ---
 Peters Speech: A Fair Go For Racing
 ===================================

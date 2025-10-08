@@ -1,9 +1,13 @@
 ---
 slug: museums-and-universities-can-learn-from-each-other
-title: "Museums and universities can learn from each other"
-date: 2015-11-06
-source-url: https://www.scoop.co.nz/stories/ED1511/S00038/museums-and-universities-can-learn-from-each-other.htm
+title: Museums and universities can learn from each other
+date: 2015-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00038/museums-and-universities-can-learn-from-each-other.htm
 author: massey-university
+permalink: >-
+  /archive/2015/11/06/museums-and-universities-can-learn-from-each-other/index.html
+layout: layout.njk
 ---
 Museums and universities can learn from each other
 ==================================================

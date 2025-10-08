@@ -1,9 +1,12 @@
 ---
 slug: appropriate-use-of-phone-recording-clarified
-title: "Appropriate use of phone recording clarified"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/PA1304/S00220/appropriate-use-of-phone-recording-clarified.htm
+title: Appropriate use of phone recording clarified
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00220/appropriate-use-of-phone-recording-clarified.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/11/appropriate-use-of-phone-recording-clarified/index.html
+layout: layout.njk
 ---
 Appropriate use of phone recording clarified
 ============================================

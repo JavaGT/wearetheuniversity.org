@@ -1,9 +1,11 @@
 ---
 slug: building-bedrooms-not-enough
-title: "Building bedrooms not enough"
-date: 2013-05-14
+title: Building bedrooms not enough
+date: 2013-05-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1305/S00222/building-bedrooms-not-enough.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/14/building-bedrooms-not-enough/index.html
+layout: layout.njk
 ---
 Building bedrooms not enough
 ============================

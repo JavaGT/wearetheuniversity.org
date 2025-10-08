@@ -1,9 +1,13 @@
 ---
 slug: global-study-examines-individual-responses-to-covid-19
-title: "Global Study Examines Individual Responses To Covid-19"
-date: 2020-07-06
-source-url: https://www.scoop.co.nz/stories/PO2007/S00070/global-study-examines-individual-responses-to-covid-19.htm
+title: Global Study Examines Individual Responses To Covid-19
+date: 2020-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2007/S00070/global-study-examines-individual-responses-to-covid-19.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/07/06/global-study-examines-individual-responses-to-covid-19/index.html
+layout: layout.njk
 ---
 Global Study Examines Individual Responses To Covid-19
 ======================================================

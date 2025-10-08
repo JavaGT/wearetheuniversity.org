@@ -1,9 +1,13 @@
 ---
 slug: tobacco-display-bans-protect-youth-and-quitters-research
-title: "Tobacco display bans protect youth and quitters: research"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/GE1409/S00009/tobacco-display-bans-protect-youth-and-quitters-research.htm
+title: 'Tobacco display bans protect youth and quitters: research'
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1409/S00009/tobacco-display-bans-protect-youth-and-quitters-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/02/tobacco-display-bans-protect-youth-and-quitters-research/index.html
+layout: layout.njk
 ---
 Tobacco display bans protect youth and quitters: research
 =========================================================

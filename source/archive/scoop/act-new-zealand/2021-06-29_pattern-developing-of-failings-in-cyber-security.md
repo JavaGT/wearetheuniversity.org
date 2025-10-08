@@ -1,9 +1,13 @@
 ---
 slug: pattern-developing-of-failings-in-cyber-security
-title: "Pattern Developing Of Failings In Cyber Security"
-date: 2021-06-29
-source-url: https://www.scoop.co.nz/stories/PA2106/S00234/pattern-developing-of-failings-in-cyber-security.htm
+title: Pattern Developing Of Failings In Cyber Security
+date: 2021-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00234/pattern-developing-of-failings-in-cyber-security.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/06/29/pattern-developing-of-failings-in-cyber-security/index.html
+layout: layout.njk
 ---
 Pattern Developing Of Failings In Cyber Security
 ================================================

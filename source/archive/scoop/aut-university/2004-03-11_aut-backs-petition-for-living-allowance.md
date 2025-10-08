@@ -1,9 +1,12 @@
 ---
 slug: aut-backs-petition-for-living-allowance
-title: "AUT Backs Petition for Living Allowance"
-date: 2004-03-11
-source-url: https://www.scoop.co.nz/stories/ED0403/S00046/aut-backs-petition-for-living-allowance.htm
+title: AUT Backs Petition for Living Allowance
+date: 2004-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00046/aut-backs-petition-for-living-allowance.htm
 author: aut-university
+permalink: /archive/2004/03/11/aut-backs-petition-for-living-allowance/index.html
+layout: layout.njk
 ---
 AUT Backs Petition for Living Allowance
 =======================================

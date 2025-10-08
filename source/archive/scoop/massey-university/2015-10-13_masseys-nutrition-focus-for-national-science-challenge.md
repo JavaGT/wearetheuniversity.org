@@ -1,9 +1,13 @@
 ---
 slug: masseys-nutrition-focus-for-national-science-challenge
-title: "Massey’s nutrition focus for National Science Challenge"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/ED1510/S00059/masseys-nutrition-focus-for-national-science-challenge.htm
+title: Massey’s nutrition focus for National Science Challenge
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00059/masseys-nutrition-focus-for-national-science-challenge.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/13/masseys-nutrition-focus-for-national-science-challenge/index.html
+layout: layout.njk
 ---
 Massey’s nutrition focus for National Science Challenge
 =======================================================

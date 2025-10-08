@@ -1,9 +1,12 @@
 ---
 slug: more-pipe-dreams-from-justice-minister
-title: "More pipe dreams from Justice Minister"
-date: 2013-04-17
-source-url: https://www.scoop.co.nz/stories/PA1304/S00327/more-pipe-dreams-from-justice-minister.htm
+title: More pipe dreams from Justice Minister
+date: 2013-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00327/more-pipe-dreams-from-justice-minister.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/17/more-pipe-dreams-from-justice-minister/index.html
+layout: layout.njk
 ---
 More pipe dreams from Justice Minister
 ======================================

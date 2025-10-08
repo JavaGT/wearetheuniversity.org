@@ -1,9 +1,12 @@
 ---
 slug: scholarship-labour-is-learning-its-lesson
-title: "Scholarship: Labour is learning its lesson"
-date: 2006-02-22
-source-url: https://www.scoop.co.nz/stories/PA0602/S00344/scholarship-labour-is-learning-its-lesson.htm
+title: 'Scholarship: Labour is learning its lesson'
+date: 2006-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00344/scholarship-labour-is-learning-its-lesson.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/22/scholarship-labour-is-learning-its-lesson/index.html
+layout: layout.njk
 ---
 Scholarship: Labour is learning its lesson
 ==========================================

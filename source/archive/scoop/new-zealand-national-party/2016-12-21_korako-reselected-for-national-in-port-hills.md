@@ -1,9 +1,12 @@
 ---
 slug: korako-reselected-for-national-in-port-hills
-title: "Korako reselected for National in Port Hills"
-date: 2016-12-21
-source-url: https://www.scoop.co.nz/stories/PO1612/S00254/korako-reselected-for-national-in-port-hills.htm
+title: Korako reselected for National in Port Hills
+date: 2016-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1612/S00254/korako-reselected-for-national-in-port-hills.htm
 author: new-zealand-national-party
+permalink: /archive/2016/12/21/korako-reselected-for-national-in-port-hills/index.html
+layout: layout.njk
 ---
 Korako reselected for National in Port Hills
 ============================================

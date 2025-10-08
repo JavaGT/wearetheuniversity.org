@@ -1,9 +1,11 @@
 ---
 slug: why-do-children-get-so-mad
-title: "Why Do Children Get So Mad?"
-date: 2007-07-31
+title: Why Do Children Get So Mad?
+date: 2007-07-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0707/S00099/why-do-children-get-so-mad.htm
 author: nzei
+permalink: /archive/2007/07/31/why-do-children-get-so-mad/index.html
+layout: layout.njk
 ---
 Why Do Children Get So Mad?
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: 2009-volunteering-new-zealand-conference
-title: "2009 Volunteering New Zealand conference"
-date: 2009-10-29
-source-url: https://www.scoop.co.nz/stories/PA0910/S00444/2009-volunteering-new-zealand-conference.htm
+title: 2009 Volunteering New Zealand conference
+date: 2009-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00444/2009-volunteering-new-zealand-conference.htm
 author: te-pati-maori
+permalink: /archive/2009/10/29/2009-volunteering-new-zealand-conference/index.html
+layout: layout.njk
 ---
 2009 Volunteering New Zealand conference
 ========================================

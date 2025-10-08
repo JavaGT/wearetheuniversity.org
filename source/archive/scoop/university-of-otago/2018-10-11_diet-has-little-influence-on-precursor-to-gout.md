@@ -1,9 +1,12 @@
 ---
 slug: diet-has-little-influence-on-precursor-to-gout
-title: "Diet has little influence on precursor to gout"
-date: 2018-10-11
-source-url: https://www.scoop.co.nz/stories/SC1810/S00043/diet-has-little-influence-on-precursor-to-gout.htm
+title: Diet has little influence on precursor to gout
+date: 2018-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00043/diet-has-little-influence-on-precursor-to-gout.htm
 author: university-of-otago
+permalink: /archive/2018/10/11/diet-has-little-influence-on-precursor-to-gout/index.html
+layout: layout.njk
 ---
 Diet has little influence on precursor to gout
 ==============================================

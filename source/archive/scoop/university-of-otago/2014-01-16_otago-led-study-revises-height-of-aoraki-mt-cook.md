@@ -1,9 +1,13 @@
 ---
 slug: otago-led-study-revises-height-of-aoraki-mt-cook
-title: "Otago-led study revises height of Aoraki/Mt Cook"
-date: 2014-01-16
-source-url: https://www.scoop.co.nz/stories/SC1401/S00031/otago-led-study-revises-height-of-aorakimt-cook.htm
+title: Otago-led study revises height of Aoraki/Mt Cook
+date: 2014-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00031/otago-led-study-revises-height-of-aorakimt-cook.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/01/16/otago-led-study-revises-height-of-aoraki-mt-cook/index.html
+layout: layout.njk
 ---
 Otago-led study revises height of Aoraki/Mt Cook
 ================================================

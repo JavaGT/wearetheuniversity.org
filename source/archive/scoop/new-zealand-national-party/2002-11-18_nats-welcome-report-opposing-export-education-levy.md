@@ -1,9 +1,13 @@
 ---
 slug: nats-welcome-report-opposing-export-education-levy
-title: "Nats welcome report opposing export education levy"
-date: 2002-11-18
-source-url: https://www.scoop.co.nz/stories/PA0211/S00398/nats-welcome-report-opposing-export-education-levy.htm
+title: Nats welcome report opposing export education levy
+date: 2002-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00398/nats-welcome-report-opposing-export-education-levy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/11/18/nats-welcome-report-opposing-export-education-levy/index.html
+layout: layout.njk
 ---
 Nats welcome report opposing export education levy
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: candidate-highlights-ceras-dictatorial-business-approach
-title: "Candidate highlights CERA's 'dictatorial' business approach"
-date: 2013-11-28
-source-url: https://www.scoop.co.nz/stories/PO1311/S00343/candidate-highlights-ceras-dictatorial-business-approach.htm
+title: Candidate highlights CERA's 'dictatorial' business approach
+date: 2013-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1311/S00343/candidate-highlights-ceras-dictatorial-business-approach.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2013/11/28/candidate-highlights-ceras-dictatorial-business-approach/index.html
+layout: layout.njk
 ---
 Candidate highlights CERA's 'dictatorial' business approach
 ===========================================================

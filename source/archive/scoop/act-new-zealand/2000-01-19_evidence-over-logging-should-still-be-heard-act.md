@@ -1,9 +1,12 @@
 ---
 slug: evidence-over-logging-should-still-be-heard-act
-title: "Evidence Over Logging Should Still Be Heard - ACT"
-date: 2000-01-19
-source-url: https://www.scoop.co.nz/stories/PA0001/S00055/evidence-over-logging-should-still-be-heard-act.htm
+title: Evidence Over Logging Should Still Be Heard - ACT
+date: 2000-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00055/evidence-over-logging-should-still-be-heard-act.htm
 author: act-new-zealand
+permalink: /archive/2000/01/19/evidence-over-logging-should-still-be-heard-act/index.html
+layout: layout.njk
 ---
 Evidence Over Logging Should Still Be Heard - ACT
 =================================================

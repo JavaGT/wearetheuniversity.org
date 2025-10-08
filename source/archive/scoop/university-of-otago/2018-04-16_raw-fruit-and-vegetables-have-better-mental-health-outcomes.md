@@ -1,9 +1,13 @@
 ---
 slug: raw-fruit-and-vegetables-have-better-mental-health-outcomes
-title: "Raw fruit and vegetables have better mental health outcomes"
-date: 2018-04-16
-source-url: https://www.scoop.co.nz/stories/GE1804/S00045/raw-fruit-and-vegetables-have-better-mental-health-outcomes.htm
+title: Raw fruit and vegetables have better mental health outcomes
+date: 2018-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1804/S00045/raw-fruit-and-vegetables-have-better-mental-health-outcomes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/04/16/raw-fruit-and-vegetables-have-better-mental-health-outcomes/index.html
+layout: layout.njk
 ---
 Raw fruit and vegetables have better mental health outcomes
 ===========================================================

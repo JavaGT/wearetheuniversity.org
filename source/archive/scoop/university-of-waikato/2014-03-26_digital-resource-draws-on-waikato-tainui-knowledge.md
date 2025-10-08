@@ -1,9 +1,13 @@
 ---
 slug: digital-resource-draws-on-waikato-tainui-knowledge
-title: "Digital Resource Draws On Waikato-Tainui Knowledge"
-date: 2014-03-26
-source-url: https://www.scoop.co.nz/stories/ED1403/S00156/digital-resource-draws-on-waikato-tainui-knowledge.htm
+title: Digital Resource Draws On Waikato-Tainui Knowledge
+date: 2014-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00156/digital-resource-draws-on-waikato-tainui-knowledge.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/26/digital-resource-draws-on-waikato-tainui-knowledge/index.html
+layout: layout.njk
 ---
 Digital Resource Draws On Waikato-Tainui Knowledge
 ==================================================

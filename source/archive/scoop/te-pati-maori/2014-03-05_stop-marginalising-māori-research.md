@@ -1,9 +1,12 @@
 ---
 slug: stop-marginalising-māori-research
-title: "Stop marginalising Māori research"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/PA1403/S00067/stop-marginalising-maori-research.htm
+title: Stop marginalising Māori research
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00067/stop-marginalising-maori-research.htm
 author: te-pati-maori
+permalink: /archive/2014/03/05/stop-marginalising-m/index.html
+layout: layout.njk
 ---
 Stop marginalising Māori research
 =================================

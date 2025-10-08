@@ -1,9 +1,13 @@
 ---
 slug: ucsa-responds-to-issues-regarding-equity-and-diversity
-title: "UCSA responds to issues regarding Equity and Diversity"
-date: 2014-10-09
-source-url: https://www.scoop.co.nz/stories/PO1410/S00108/ucsa-responds-to-issues-regarding-equity-and-diversity.htm
+title: UCSA responds to issues regarding Equity and Diversity
+date: 2014-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00108/ucsa-responds-to-issues-regarding-equity-and-diversity.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2014/10/09/ucsa-responds-to-issues-regarding-equity-and-diversity/index.html
+layout: layout.njk
 ---
 UCSA responds to issues regarding Equity and Diversity
 ======================================================

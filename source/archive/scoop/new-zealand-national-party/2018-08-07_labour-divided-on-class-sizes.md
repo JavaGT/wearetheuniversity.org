@@ -1,9 +1,12 @@
 ---
 slug: labour-divided-on-class-sizes
-title: "Labour divided on class sizes"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/PA1808/S00070/labour-divided-on-class-sizes.htm
+title: Labour divided on class sizes
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00070/labour-divided-on-class-sizes.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/07/labour-divided-on-class-sizes/index.html
+layout: layout.njk
 ---
 Labour divided on class sizes
 =============================

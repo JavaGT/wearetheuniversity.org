@@ -1,9 +1,12 @@
 ---
 slug: photo-op-disguises-abysmal-failure
-title: "Photo op disguises abysmal failure"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/PA1407/S00467/photo-op-disguises-abysmal-failure.htm
+title: Photo op disguises abysmal failure
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00467/photo-op-disguises-abysmal-failure.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/24/photo-op-disguises-abysmal-failure/index.html
+layout: layout.njk
 ---
 Photo op disguises abysmal failure
 ==================================

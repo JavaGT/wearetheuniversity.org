@@ -1,9 +1,12 @@
 ---
 slug: roger-kerr-speech-hong-kong-nz-business-assn
-title: "Roger Kerr Speech: Hong Kong NZ Business Assn"
-date: 2003-07-31
-source-url: https://www.scoop.co.nz/stories/BU0307/S00273/roger-kerr-speech-hong-kong-nz-business-assn.htm
+title: 'Roger Kerr Speech: Hong Kong NZ Business Assn'
+date: 2003-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0307/S00273/roger-kerr-speech-hong-kong-nz-business-assn.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2003/07/31/roger-kerr-speech-hong-kong-nz-business-assn/index.html
+layout: layout.njk
 ---
 Roger Kerr Speech: Hong Kong NZ Business Assn
 =============================================

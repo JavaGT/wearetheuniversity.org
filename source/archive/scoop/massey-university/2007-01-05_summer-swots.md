@@ -1,9 +1,11 @@
 ---
 slug: summer-swots
-title: "Summer swots"
-date: 2007-01-05
+title: Summer swots
+date: 2007-01-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0701/S00004/summer-swots.htm
 author: massey-university
+permalink: /archive/2007/01/05/summer-swots/index.html
+layout: layout.njk
 ---
 Summer swots
 ============

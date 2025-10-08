@@ -1,9 +1,13 @@
 ---
 slug: vuwsa-criticises-victoria-universitys-brand-refresh
-title: "VUWSA criticises Victoria University's ‘brand refresh'"
-date: 2019-07-16
-source-url: https://www.scoop.co.nz/stories/PO1907/S00178/vuwsa-criticises-victoria-universitys-brand-refresh.htm
+title: VUWSA criticises Victoria University's ‘brand refresh'
+date: 2019-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1907/S00178/vuwsa-criticises-victoria-universitys-brand-refresh.htm
 author: vuwsa
+permalink: >-
+  /archive/2019/07/16/vuwsa-criticises-victoria-universitys-brand-refresh/index.html
+layout: layout.njk
 ---
 VUWSA criticises Victoria University's ‘brand refresh'
 ======================================================

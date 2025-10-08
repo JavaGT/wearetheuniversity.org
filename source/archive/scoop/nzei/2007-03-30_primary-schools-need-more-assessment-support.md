@@ -1,9 +1,12 @@
 ---
 slug: primary-schools-need-more-assessment-support
-title: "Primary Schools Need More Assessment Support"
-date: 2007-03-30
-source-url: https://www.scoop.co.nz/stories/ED0703/S00124/primary-schools-need-more-assessment-support.htm
+title: Primary Schools Need More Assessment Support
+date: 2007-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00124/primary-schools-need-more-assessment-support.htm
 author: nzei
+permalink: /archive/2007/03/30/primary-schools-need-more-assessment-support/index.html
+layout: layout.njk
 ---
 Primary Schools Need More Assessment Support
 ============================================

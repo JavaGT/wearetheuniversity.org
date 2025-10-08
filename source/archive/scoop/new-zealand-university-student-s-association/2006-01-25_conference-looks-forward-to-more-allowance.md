@@ -1,9 +1,12 @@
 ---
 slug: conference-looks-forward-to-more-allowance
-title: "Conference looks forward to more allowance"
-date: 2006-01-25
-source-url: https://www.scoop.co.nz/stories/ED0601/S00020/conference-looks-forward-to-more-allowance.htm
+title: Conference looks forward to more allowance
+date: 2006-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0601/S00020/conference-looks-forward-to-more-allowance.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/01/25/conference-looks-forward-to-more-allowance/index.html
+layout: layout.njk
 ---
 Conference looks forward to more allowance
 ==========================================

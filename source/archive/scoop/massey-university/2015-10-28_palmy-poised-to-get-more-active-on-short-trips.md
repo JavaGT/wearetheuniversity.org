@@ -1,9 +1,12 @@
 ---
 slug: palmy-poised-to-get-more-active-on-short-trips
-title: "Palmy poised to get more active on short trips"
-date: 2015-10-28
-source-url: https://www.scoop.co.nz/stories/ED1510/S00132/palmy-poised-to-get-more-active-on-short-trips.htm
+title: Palmy poised to get more active on short trips
+date: 2015-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00132/palmy-poised-to-get-more-active-on-short-trips.htm
 author: massey-university
+permalink: /archive/2015/10/28/palmy-poised-to-get-more-active-on-short-trips/index.html
+layout: layout.njk
 ---
 Palmy poised to get more active on short trips
 ==============================================

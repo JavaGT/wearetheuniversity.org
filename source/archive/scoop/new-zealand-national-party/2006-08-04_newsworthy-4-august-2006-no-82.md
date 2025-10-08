@@ -1,9 +1,12 @@
 ---
 slug: newsworthy-4-august-2006-no-82
-title: "Newsworthy 4 August 2006 - No. 82"
-date: 2006-08-04
-source-url: https://www.scoop.co.nz/stories/PA0608/S00072/newsworthy-4-august-2006-no-82.htm
+title: Newsworthy 4 August 2006 - No. 82
+date: 2006-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00072/newsworthy-4-august-2006-no-82.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/04/newsworthy-4-august-2006-no-82/index.html
+layout: layout.njk
 ---
 Newsworthy 4 August 2006 - No. 82
 =================================

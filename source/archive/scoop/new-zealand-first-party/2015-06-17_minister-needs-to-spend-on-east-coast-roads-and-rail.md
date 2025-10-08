@@ -1,9 +1,13 @@
 ---
 slug: minister-needs-to-spend-on-east-coast-roads-and-rail
-title: "Minister Needs to Spend on East Coast Roads And Rail"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/PA1506/S00266/minister-needs-to-spend-on-east-coast-roads-and-rail.htm
+title: Minister Needs to Spend on East Coast Roads And Rail
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00266/minister-needs-to-spend-on-east-coast-roads-and-rail.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/06/17/minister-needs-to-spend-on-east-coast-roads-and-rail/index.html
+layout: layout.njk
 ---
 Minister Needs to Spend on East Coast Roads And Rail
 ====================================================

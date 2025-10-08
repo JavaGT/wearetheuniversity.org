@@ -1,9 +1,13 @@
 ---
 slug: ask-for-choice-palm-oil-campaign-handover-at-parliament
-title: "Ask for Choice palm oil campaign handover at Parliament"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/PA1611/S00361/ask-for-choice-palm-oil-campaign-handover-at-parliament.htm
+title: Ask for Choice palm oil campaign handover at Parliament
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00361/ask-for-choice-palm-oil-campaign-handover-at-parliament.htm
 author: green-party
+permalink: >-
+  /archive/2016/11/21/ask-for-choice-palm-oil-campaign-handover-at-parliament/index.html
+layout: layout.njk
 ---
 Ask for Choice palm oil campaign handover at Parliament
 =======================================================

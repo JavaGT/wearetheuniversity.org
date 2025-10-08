@@ -1,9 +1,13 @@
 ---
 slug: unqualified-teachers-in-classrooms-pass-the-first-hurdle
-title: "Unqualified teachers in classrooms pass the first hurdle"
-date: 2016-07-09
-source-url: https://www.scoop.co.nz/stories/ED1607/S00041/unqualified-teachers-in-classrooms-pass-the-first-hurdle.htm
+title: Unqualified teachers in classrooms pass the first hurdle
+date: 2016-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00041/unqualified-teachers-in-classrooms-pass-the-first-hurdle.htm
 author: nzei
+permalink: >-
+  /archive/2016/07/09/unqualified-teachers-in-classrooms-pass-the-first-hurdle/index.html
+layout: layout.njk
 ---
 Unqualified teachers in classrooms pass the first hurdle
 ========================================================

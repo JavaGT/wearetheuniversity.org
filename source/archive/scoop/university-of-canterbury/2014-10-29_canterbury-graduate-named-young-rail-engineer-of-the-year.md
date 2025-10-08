@@ -1,9 +1,13 @@
 ---
 slug: canterbury-graduate-named-young-rail-engineer-of-the-year
-title: "Canterbury graduate named Young Rail Engineer of the Year"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/AK1410/S00730/canterbury-graduate-named-young-rail-engineer-of-the-year.htm
+title: Canterbury graduate named Young Rail Engineer of the Year
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1410/S00730/canterbury-graduate-named-young-rail-engineer-of-the-year.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/10/29/canterbury-graduate-named-young-rail-engineer-of-the-year/index.html
+layout: layout.njk
 ---
 Canterbury graduate named Young Rail Engineer of the Year
 =========================================================

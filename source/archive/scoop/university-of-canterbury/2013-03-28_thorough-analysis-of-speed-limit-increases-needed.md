@@ -1,9 +1,13 @@
 ---
 slug: thorough-analysis-of-speed-limit-increases-needed
-title: "Thorough analysis of speed limit increases needed"
-date: 2013-03-28
-source-url: https://www.scoop.co.nz/stories/ED1303/S00202/thorough-analysis-of-speed-limit-increases-needed.htm
+title: Thorough analysis of speed limit increases needed
+date: 2013-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00202/thorough-analysis-of-speed-limit-increases-needed.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/28/thorough-analysis-of-speed-limit-increases-needed/index.html
+layout: layout.njk
 ---
 Thorough analysis of speed limit increases needed
 =================================================

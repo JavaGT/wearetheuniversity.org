@@ -1,9 +1,13 @@
 ---
 slug: govt-must-guarantee-homes-built-on-crown-land-are-affordable
-title: "Govt must guarantee homes built on Crown land are affordable"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PA1505/S00307/govt-must-guarantee-homes-built-on-crown-land-are-affordable.htm
+title: Govt must guarantee homes built on Crown land are affordable
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00307/govt-must-guarantee-homes-built-on-crown-land-are-affordable.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/21/govt-must-guarantee-homes-built-on-crown-land-are-affordable/index.html
+layout: layout.njk
 ---
 Govt must guarantee homes built on Crown land are affordable
 ============================================================

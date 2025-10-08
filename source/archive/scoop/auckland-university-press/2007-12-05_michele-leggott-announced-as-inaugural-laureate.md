@@ -1,9 +1,12 @@
 ---
 slug: michele-leggott-announced-as-inaugural-laureate
-title: "Michele Leggott Announced as Inaugural Laureate"
-date: 2007-12-05
-source-url: https://www.scoop.co.nz/stories/AK0712/S00040/michele-leggott-announced-as-inaugural-laureate.htm
+title: Michele Leggott Announced as Inaugural Laureate
+date: 2007-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0712/S00040/michele-leggott-announced-as-inaugural-laureate.htm
 author: auckland-university-press
+permalink: /archive/2007/12/05/michele-leggott-announced-as-inaugural-laureate/index.html
+layout: layout.njk
 ---
 Michele Leggott Announced as Inaugural Laureate
 ===============================================

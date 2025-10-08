@@ -1,9 +1,13 @@
 ---
 slug: ousa-letting-the-cat-out-of-the-bag-for-students
-title: "OUSA Letting the Cat Out of the Bag for Students"
-date: 2013-07-25
-source-url: https://www.scoop.co.nz/stories/AK1307/S00681/ousa-letting-the-cat-out-of-the-bag-for-students.htm
+title: OUSA Letting the Cat Out of the Bag for Students
+date: 2013-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00681/ousa-letting-the-cat-out-of-the-bag-for-students.htm
 author: ousa
+permalink: >-
+  /archive/2013/07/25/ousa-letting-the-cat-out-of-the-bag-for-students/index.html
+layout: layout.njk
 ---
 OUSA Letting the Cat Out of the Bag for Students
 ================================================

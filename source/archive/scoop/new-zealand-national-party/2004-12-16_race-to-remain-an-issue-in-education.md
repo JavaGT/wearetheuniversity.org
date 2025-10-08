@@ -1,9 +1,12 @@
 ---
 slug: race-to-remain-an-issue-in-education
-title: "Race to remain an issue in education"
-date: 2004-12-16
-source-url: https://www.scoop.co.nz/stories/PA0412/S00437/race-to-remain-an-issue-in-education.htm
+title: Race to remain an issue in education
+date: 2004-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00437/race-to-remain-an-issue-in-education.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/16/race-to-remain-an-issue-in-education/index.html
+layout: layout.njk
 ---
 Race to remain an issue in education
 ====================================

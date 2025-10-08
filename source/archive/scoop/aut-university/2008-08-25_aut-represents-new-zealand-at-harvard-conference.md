@@ -1,9 +1,13 @@
 ---
 slug: aut-represents-new-zealand-at-harvard-conference
-title: "AUT represents New Zealand at Harvard conference"
-date: 2008-08-25
-source-url: https://www.scoop.co.nz/stories/ED0808/S00072/aut-represents-new-zealand-at-harvard-conference.htm
+title: AUT represents New Zealand at Harvard conference
+date: 2008-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00072/aut-represents-new-zealand-at-harvard-conference.htm
 author: aut-university
+permalink: >-
+  /archive/2008/08/25/aut-represents-new-zealand-at-harvard-conference/index.html
+layout: layout.njk
 ---
 AUT represents New Zealand at Harvard conference
 ================================================

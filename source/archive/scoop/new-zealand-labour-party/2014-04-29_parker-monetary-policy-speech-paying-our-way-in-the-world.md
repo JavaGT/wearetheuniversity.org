@@ -1,9 +1,13 @@
 ---
 slug: parker-monetary-policy-speech-paying-our-way-in-the-world
-title: "Parker: Monetary Policy Speech - Paying our way in the world"
-date: 2014-04-29
-source-url: https://www.scoop.co.nz/stories/PA1404/S00426/parker-monetary-policy-speech-paying-our-way-in-the-world.htm
+title: 'Parker: Monetary Policy Speech - Paying our way in the world'
+date: 2014-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00426/parker-monetary-policy-speech-paying-our-way-in-the-world.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/04/29/parker-monetary-policy-speech-paying-our-way-in-the-world/index.html
+layout: layout.njk
 ---
 Parker: Monetary Policy Speech - Paying our way in the world
 ============================================================

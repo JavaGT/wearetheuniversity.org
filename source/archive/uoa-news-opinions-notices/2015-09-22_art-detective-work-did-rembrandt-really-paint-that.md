@@ -1,8 +1,12 @@
 ---
 slug: art-detective-work-did-rembrandt-really-paint-that
-title: "Art detective work: did Rembrandt really paint that?"
-date: 2015-09-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/art-detective-work-did-rembrandt-really-paint-that.html
+title: 'Art detective work: did Rembrandt really paint that?'
+date: 2015-09-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/art-detective-work-did-rembrandt-really-paint-that.html
+permalink: >-
+  /archive/2015/09/22/art-detective-work-did-rembrandt-really-paint-that/index.html
+layout: layout.njk
 ---
 Art detective work: did Rembrandt really paint that?
 ====================================================

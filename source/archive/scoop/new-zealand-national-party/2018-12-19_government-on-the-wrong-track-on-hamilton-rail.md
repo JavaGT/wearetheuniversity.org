@@ -1,9 +1,12 @@
 ---
 slug: government-on-the-wrong-track-on-hamilton-rail
-title: "Government on the wrong track on Hamilton rail"
-date: 2018-12-19
-source-url: https://www.scoop.co.nz/stories/PA1812/S00247/government-on-the-wrong-track-on-hamilton-rail.htm
+title: Government on the wrong track on Hamilton rail
+date: 2018-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00247/government-on-the-wrong-track-on-hamilton-rail.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/19/government-on-the-wrong-track-on-hamilton-rail/index.html
+layout: layout.njk
 ---
 Government on the wrong track on Hamilton rail
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: massey-lecturer-honoured-for-contribution-to-dairy
-title: "Massey lecturer honoured for contribution to Dairy"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/ED1508/S00050/massey-lecturer-honoured-for-contribution-to-dairy.htm
+title: Massey lecturer honoured for contribution to Dairy
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00050/massey-lecturer-honoured-for-contribution-to-dairy.htm
 author: massey-university
+permalink: >-
+  /archive/2015/08/12/massey-lecturer-honoured-for-contribution-to-dairy/index.html
+layout: layout.njk
 ---
 Massey lecturer honoured for contribution to Dairy
 ==================================================

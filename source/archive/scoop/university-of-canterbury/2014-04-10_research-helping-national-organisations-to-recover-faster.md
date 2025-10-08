@@ -1,9 +1,13 @@
 ---
 slug: research-helping-national-organisations-to-recover-faster
-title: "Research helping national organisations to recover faster"
-date: 2014-04-10
-source-url: https://www.scoop.co.nz/stories/BU1404/S00310/research-helping-national-organisations-to-recover-faster.htm
+title: Research helping national organisations to recover faster
+date: 2014-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1404/S00310/research-helping-national-organisations-to-recover-faster.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/10/research-helping-national-organisations-to-recover-faster/index.html
+layout: layout.njk
 ---
 Research helping national organisations to recover faster
 =========================================================

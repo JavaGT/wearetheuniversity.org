@@ -1,9 +1,12 @@
 ---
 slug: athens-set-to-challenge-new-zealand-olympians
-title: "Athens set to challenge New Zealand Olympians"
-date: 2004-07-02
-source-url: https://www.scoop.co.nz/stories/ED0407/S00010/athens-set-to-challenge-new-zealand-olympians.htm
+title: Athens set to challenge New Zealand Olympians
+date: 2004-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00010/athens-set-to-challenge-new-zealand-olympians.htm
 author: auckland-university
+permalink: /archive/2004/07/02/athens-set-to-challenge-new-zealand-olympians/index.html
+layout: layout.njk
 ---
 Athens set to challenge New Zealand Olympians
 =============================================

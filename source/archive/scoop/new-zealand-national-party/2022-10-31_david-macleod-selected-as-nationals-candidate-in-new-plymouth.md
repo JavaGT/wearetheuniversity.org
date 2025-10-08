@@ -1,9 +1,13 @@
 ---
 slug: david-macleod-selected-as-nationals-candidate-in-new-plymouth
-title: "David MacLeod Selected As National’s Candidate In New Plymouth"
-date: 2022-10-31
-source-url: https://www.scoop.co.nz/stories/PA2210/S00241/david-macleod-selected-as-nationals-candidate-in-new-plymouth.htm
+title: David MacLeod Selected As National’s Candidate In New Plymouth
+date: 2022-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00241/david-macleod-selected-as-nationals-candidate-in-new-plymouth.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/10/31/david-macleod-selected-as-nationals-candidate-in-new-plymouth/index.html
+layout: layout.njk
 ---
 David MacLeod Selected As National’s Candidate In New Plymouth
 ==============================================================

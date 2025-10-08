@@ -1,9 +1,13 @@
 ---
 slug: uc-retains-ranking-in-top-three-percent-of-universities
-title: "UC retains ranking in top three percent of universities"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/ED1409/S00097/uc-retains-ranking-in-top-three-percent-of-universities.htm
+title: UC retains ranking in top three percent of universities
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00097/uc-retains-ranking-in-top-three-percent-of-universities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/16/uc-retains-ranking-in-top-three-percent-of-universities/index.html
+layout: layout.njk
 ---
 UC retains ranking in top three percent of universities
 =======================================================

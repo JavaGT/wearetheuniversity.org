@@ -1,9 +1,12 @@
 ---
 slug: icy-expedition-for-raglan-locals
-title: "Icy expedition for Raglan locals"
-date: 2015-02-19
-source-url: https://www.scoop.co.nz/stories/ED1502/S00073/icy-expedition-for-raglan-locals.htm
+title: Icy expedition for Raglan locals
+date: 2015-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00073/icy-expedition-for-raglan-locals.htm
 author: university-of-waikato
+permalink: /archive/2015/02/19/icy-expedition-for-raglan-locals/index.html
+layout: layout.njk
 ---
 Icy expedition for Raglan locals
 ================================

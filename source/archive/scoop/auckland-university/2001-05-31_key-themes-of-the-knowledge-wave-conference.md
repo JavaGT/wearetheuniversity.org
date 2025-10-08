@@ -1,9 +1,12 @@
 ---
 slug: key-themes-of-the-knowledge-wave-conference
-title: "Key Themes Of The Knowledge Wave Conference"
-date: 2001-05-31
-source-url: https://www.scoop.co.nz/stories/PO0105/S00142/key-themes-of-the-knowledge-wave-conference.htm
+title: Key Themes Of The Knowledge Wave Conference
+date: 2001-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0105/S00142/key-themes-of-the-knowledge-wave-conference.htm
 author: auckland-university
+permalink: /archive/2001/05/31/key-themes-of-the-knowledge-wave-conference/index.html
+layout: layout.njk
 ---
 Key Themes Of The Knowledge Wave Conference
 ===========================================

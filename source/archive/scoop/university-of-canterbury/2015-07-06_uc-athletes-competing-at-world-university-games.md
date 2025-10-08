@@ -1,9 +1,12 @@
 ---
 slug: uc-athletes-competing-at-world-university-games
-title: "UC athletes competing at World University Games"
-date: 2015-07-06
-source-url: https://www.scoop.co.nz/stories/CU1507/S00093/uc-athletes-competing-at-world-university-games.htm
+title: UC athletes competing at World University Games
+date: 2015-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1507/S00093/uc-athletes-competing-at-world-university-games.htm
 author: university-of-canterbury
+permalink: /archive/2015/07/06/uc-athletes-competing-at-world-university-games/index.html
+layout: layout.njk
 ---
 UC athletes competing at World University Games
 ===============================================

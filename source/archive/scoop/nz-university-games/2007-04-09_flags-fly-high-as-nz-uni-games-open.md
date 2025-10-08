@@ -1,9 +1,12 @@
 ---
 slug: flags-fly-high-as-nz-uni-games-open
-title: "Flags fly high as NZ Uni Games open"
-date: 2007-04-09
-source-url: https://www.scoop.co.nz/stories/ED0704/S00026/flags-fly-high-as-nz-uni-games-open.htm
+title: Flags fly high as NZ Uni Games open
+date: 2007-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00026/flags-fly-high-as-nz-uni-games-open.htm
 author: nz-university-games
+permalink: /archive/2007/04/09/flags-fly-high-as-nz-uni-games-open/index.html
+layout: layout.njk
 ---
 Flags fly high as NZ Uni Games open
 ===================================

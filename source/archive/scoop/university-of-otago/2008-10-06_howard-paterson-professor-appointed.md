@@ -1,9 +1,12 @@
 ---
 slug: howard-paterson-professor-appointed
-title: "Howard Paterson Professor Appointed"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/ED0810/S00015/howard-paterson-professor-appointed.htm
+title: Howard Paterson Professor Appointed
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00015/howard-paterson-professor-appointed.htm
 author: university-of-otago
+permalink: /archive/2008/10/06/howard-paterson-professor-appointed/index.html
+layout: layout.njk
 ---
 Howard Paterson Professor Appointed
 ===================================

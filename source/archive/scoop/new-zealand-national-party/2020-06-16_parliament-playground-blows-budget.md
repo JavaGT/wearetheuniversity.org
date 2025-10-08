@@ -1,9 +1,12 @@
 ---
 slug: parliament-playground-blows-budget
-title: "Parliament Playground Blows Budget"
-date: 2020-06-16
-source-url: https://www.scoop.co.nz/stories/PA2006/S00147/parliament-playground-blows-budget.htm
+title: Parliament Playground Blows Budget
+date: 2020-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00147/parliament-playground-blows-budget.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/16/parliament-playground-blows-budget/index.html
+layout: layout.njk
 ---
 Parliament Playground Blows Budget
 ==================================

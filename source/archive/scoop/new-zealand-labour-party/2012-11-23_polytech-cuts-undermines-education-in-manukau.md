@@ -1,9 +1,12 @@
 ---
 slug: polytech-cuts-undermines-education-in-manukau
-title: "Polytech cuts undermines education in Manukau"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/PA1211/S00412/polytech-cuts-undermines-education-in-manukau.htm
+title: Polytech cuts undermines education in Manukau
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00412/polytech-cuts-undermines-education-in-manukau.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/23/polytech-cuts-undermines-education-in-manukau/index.html
+layout: layout.njk
 ---
 Polytech cuts undermines education in Manukau
 =============================================

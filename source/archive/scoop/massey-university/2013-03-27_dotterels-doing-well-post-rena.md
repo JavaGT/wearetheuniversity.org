@@ -1,9 +1,12 @@
 ---
 slug: dotterels-doing-well-post-rena
-title: "Dotterels doing well post-Rena"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/AK1303/S00653/dotterels-doing-well-post-rena.htm
+title: Dotterels doing well post-Rena
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1303/S00653/dotterels-doing-well-post-rena.htm
 author: massey-university
+permalink: /archive/2013/03/27/dotterels-doing-well-post-rena/index.html
+layout: layout.njk
 ---
 Dotterels doing well post-Rena
 ==============================

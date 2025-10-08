@@ -1,9 +1,13 @@
 ---
 slug: vero-tells-insurers-dont-apologise-for-canterbury
-title: "Vero tells insurers ‘don’t apologise’ for Canterbury"
-date: 2014-04-02
-source-url: https://www.scoop.co.nz/stories/PA1404/S00043/vero-tells-insurers-dont-apologise-for-canterbury.htm
+title: Vero tells insurers ‘don’t apologise’ for Canterbury
+date: 2014-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00043/vero-tells-insurers-dont-apologise-for-canterbury.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/04/02/vero-tells-insurers-dont-apologise-for-canterbury/index.html
+layout: layout.njk
 ---
 Vero tells insurers ‘don’t apologise’ for Canterbury
 ====================================================

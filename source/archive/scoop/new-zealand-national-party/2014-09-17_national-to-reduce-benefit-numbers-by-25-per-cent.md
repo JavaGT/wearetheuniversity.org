@@ -1,9 +1,13 @@
 ---
 slug: national-to-reduce-benefit-numbers-by-25-per-cent
-title: "National to reduce benefit numbers by 25 per cent"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/PA1409/S00251/national-to-reduce-benefit-numbers-by-25-per-cent.htm
+title: National to reduce benefit numbers by 25 per cent
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00251/national-to-reduce-benefit-numbers-by-25-per-cent.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/09/17/national-to-reduce-benefit-numbers-by-25-per-cent/index.html
+layout: layout.njk
 ---
 National to reduce benefit numbers by 25 per cent
 =================================================

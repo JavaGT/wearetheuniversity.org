@@ -1,9 +1,13 @@
 ---
 slug: international-interest-in-asian-airport-research
-title: "International interest in Asian airport research"
-date: 2006-12-19
-source-url: https://www.scoop.co.nz/stories/ED0612/S00054/international-interest-in-asian-airport-research.htm
+title: International interest in Asian airport research
+date: 2006-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00054/international-interest-in-asian-airport-research.htm
 author: massey-university
+permalink: >-
+  /archive/2006/12/19/international-interest-in-asian-airport-research/index.html
+layout: layout.njk
 ---
 International interest in Asian airport research
 ================================================

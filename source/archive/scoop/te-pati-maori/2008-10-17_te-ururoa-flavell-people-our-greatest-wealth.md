@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-people-our-greatest-wealth
-title: "Te Ururoa Flavell: People Our Greatest Wealth"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/PA0810/S00420/te-ururoa-flavell-people-our-greatest-wealth.htm
+title: 'Te Ururoa Flavell: People Our Greatest Wealth'
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00420/te-ururoa-flavell-people-our-greatest-wealth.htm
 author: te-pati-maori
+permalink: /archive/2008/10/17/te-ururoa-flavell-people-our-greatest-wealth/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell: People Our Greatest Wealth
 =============================================

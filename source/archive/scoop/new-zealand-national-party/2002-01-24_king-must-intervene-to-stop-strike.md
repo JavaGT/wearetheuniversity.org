@@ -1,9 +1,12 @@
 ---
 slug: king-must-intervene-to-stop-strike
-title: "King Must Intervene To Stop Strike"
-date: 2002-01-24
-source-url: https://www.scoop.co.nz/stories/PA0201/S00137/king-must-intervene-to-stop-strike.htm
+title: King Must Intervene To Stop Strike
+date: 2002-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00137/king-must-intervene-to-stop-strike.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/24/king-must-intervene-to-stop-strike/index.html
+layout: layout.njk
 ---
 King Must Intervene To Stop Strike
 ==================================

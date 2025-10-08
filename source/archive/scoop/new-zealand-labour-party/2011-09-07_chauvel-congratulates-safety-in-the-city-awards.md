@@ -1,9 +1,12 @@
 ---
 slug: chauvel-congratulates-safety-in-the-city-awards
-title: "Chauvel congratulates Safety in the City Awards"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/PA1109/S00153/chauvel-congratulates-safety-in-the-city-awards.htm
+title: Chauvel congratulates Safety in the City Awards
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00153/chauvel-congratulates-safety-in-the-city-awards.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/07/chauvel-congratulates-safety-in-the-city-awards/index.html
+layout: layout.njk
 ---
 Chauvel congratulates Safety in the City Awards
 ===============================================

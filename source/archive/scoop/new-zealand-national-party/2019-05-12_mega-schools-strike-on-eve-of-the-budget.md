@@ -1,9 +1,12 @@
 ---
 slug: mega-schools-strike-on-eve-of-the-budget
-title: "Mega schools strike on eve of the Budget"
-date: 2019-05-12
-source-url: https://www.scoop.co.nz/stories/PA1905/S00122/mega-schools-strike-on-eve-of-the-budget.htm
+title: Mega schools strike on eve of the Budget
+date: 2019-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00122/mega-schools-strike-on-eve-of-the-budget.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/12/mega-schools-strike-on-eve-of-the-budget/index.html
+layout: layout.njk
 ---
 Mega schools strike on eve of the Budget
 ========================================

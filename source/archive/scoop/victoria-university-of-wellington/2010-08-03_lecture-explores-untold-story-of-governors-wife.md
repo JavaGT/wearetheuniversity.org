@@ -1,9 +1,12 @@
 ---
 slug: lecture-explores-untold-story-of-governors-wife
-title: "Lecture explores untold story of Governor’s wife"
-date: 2010-08-03
-source-url: https://www.scoop.co.nz/stories/CU1008/S00026/lecture-explores-untold-story-of-governors-wife.htm
+title: Lecture explores untold story of Governor’s wife
+date: 2010-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1008/S00026/lecture-explores-untold-story-of-governors-wife.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/08/03/lecture-explores-untold-story-of-governors-wife/index.html
+layout: layout.njk
 ---
 Lecture explores untold story of Governor’s wife
 ================================================

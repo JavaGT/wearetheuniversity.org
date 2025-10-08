@@ -1,9 +1,12 @@
 ---
 slug: aut-university-is-going-global
-title: "AUT University is going global"
-date: 2006-06-02
-source-url: https://www.scoop.co.nz/stories/ED0606/S00004/aut-university-is-going-global.htm
+title: AUT University is going global
+date: 2006-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00004/aut-university-is-going-global.htm
 author: aut-university
+permalink: /archive/2006/06/02/aut-university-is-going-global/index.html
+layout: layout.njk
 ---
 AUT University is going global
 ==============================

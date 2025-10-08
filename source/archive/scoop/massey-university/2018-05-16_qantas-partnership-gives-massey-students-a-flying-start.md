@@ -1,9 +1,13 @@
 ---
 slug: qantas-partnership-gives-massey-students-a-flying-start
-title: "Qantas partnership gives Massey students a flying start"
-date: 2018-05-16
-source-url: https://www.scoop.co.nz/stories/ED1805/S00030/qantas-partnership-gives-massey-students-a-flying-start.htm
+title: Qantas partnership gives Massey students a flying start
+date: 2018-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1805/S00030/qantas-partnership-gives-massey-students-a-flying-start.htm
 author: massey-university
+permalink: >-
+  /archive/2018/05/16/qantas-partnership-gives-massey-students-a-flying-start/index.html
+layout: layout.njk
 ---
 Qantas partnership gives Massey students a flying start
 =======================================================

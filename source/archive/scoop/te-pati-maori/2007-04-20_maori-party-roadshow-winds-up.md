@@ -1,9 +1,12 @@
 ---
 slug: maori-party-roadshow-winds-up
-title: "Maori Party Roadshow Winds Up"
-date: 2007-04-20
-source-url: https://www.scoop.co.nz/stories/PA0704/S00352/maori-party-roadshow-winds-up.htm
+title: Maori Party Roadshow Winds Up
+date: 2007-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00352/maori-party-roadshow-winds-up.htm
 author: te-pati-maori
+permalink: /archive/2007/04/20/maori-party-roadshow-winds-up/index.html
+layout: layout.njk
 ---
 Maori Party Roadshow Winds Up
 =============================

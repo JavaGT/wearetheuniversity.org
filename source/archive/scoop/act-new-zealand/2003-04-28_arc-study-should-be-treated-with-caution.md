@@ -1,9 +1,12 @@
 ---
 slug: arc-study-should-be-treated-with-caution
-title: "ARC 'Study' Should Be Treated with Caution"
-date: 2003-04-28
-source-url: https://www.scoop.co.nz/stories/PA0304/S00483/arc-study-should-be-treated-with-caution.htm
+title: ARC 'Study' Should Be Treated with Caution
+date: 2003-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00483/arc-study-should-be-treated-with-caution.htm
 author: act-new-zealand
+permalink: /archive/2003/04/28/arc-study-should-be-treated-with-caution/index.html
+layout: layout.njk
 ---
 ARC 'Study' Should Be Treated with Caution
 ==========================================

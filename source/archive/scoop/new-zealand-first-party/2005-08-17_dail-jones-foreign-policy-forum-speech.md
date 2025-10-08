@@ -1,9 +1,12 @@
 ---
 slug: dail-jones-foreign-policy-forum-speech
-title: "Dail Jones: Foreign Policy Forum Speech"
-date: 2005-08-17
-source-url: https://www.scoop.co.nz/stories/PA0508/S00430/dail-jones-foreign-policy-forum-speech.htm
+title: 'Dail Jones: Foreign Policy Forum Speech'
+date: 2005-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00430/dail-jones-foreign-policy-forum-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2005/08/17/dail-jones-foreign-policy-forum-speech/index.html
+layout: layout.njk
 ---
 Dail Jones: Foreign Policy Forum Speech
 =======================================

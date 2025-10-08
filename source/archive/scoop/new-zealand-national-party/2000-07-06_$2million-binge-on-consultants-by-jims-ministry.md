@@ -1,9 +1,12 @@
 ---
 slug: $2million-binge-on-consultants-by-jims-ministry
-title: "$2million binge on consultants by Jim's Ministry"
-date: 2000-07-06
-source-url: https://www.scoop.co.nz/stories/PA0007/S00084/2million-binge-on-consultants-by-jims-ministry.htm
+title: $2million binge on consultants by Jim's Ministry
+date: 2000-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00084/2million-binge-on-consultants-by-jims-ministry.htm
 author: new-zealand-national-party
+permalink: /archive/2000/07/06//index.html
+layout: layout.njk
 ---
 $2million binge on consultants by Jim's Ministry
 ================================================

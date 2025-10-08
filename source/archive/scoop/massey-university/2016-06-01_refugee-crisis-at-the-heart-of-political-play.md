@@ -1,9 +1,12 @@
 ---
 slug: refugee-crisis-at-the-heart-of-political-play
-title: "Refugee crisis at the heart of political play"
-date: 2016-06-01
-source-url: https://www.scoop.co.nz/stories/ED1606/S00002/refugee-crisis-at-the-heart-of-political-play.htm
+title: Refugee crisis at the heart of political play
+date: 2016-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00002/refugee-crisis-at-the-heart-of-political-play.htm
 author: massey-university
+permalink: /archive/2016/06/01/refugee-crisis-at-the-heart-of-political-play/index.html
+layout: layout.njk
 ---
 Refugee crisis at the heart of political play
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-experts-support-new-technology-for-children
-title: "UC experts support new technology for children"
-date: 2013-01-18
-source-url: https://www.scoop.co.nz/stories/ED1301/S00034/uc-experts-support-new-technology-for-children.htm
+title: UC experts support new technology for children
+date: 2013-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00034/uc-experts-support-new-technology-for-children.htm
 author: university-of-canterbury
+permalink: /archive/2013/01/18/uc-experts-support-new-technology-for-children/index.html
+layout: layout.njk
 ---
 UC experts support new technology for children
 ==============================================

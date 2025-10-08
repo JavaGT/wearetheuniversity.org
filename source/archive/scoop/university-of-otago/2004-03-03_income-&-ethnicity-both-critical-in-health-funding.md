@@ -1,9 +1,12 @@
 ---
 slug: income-&-ethnicity-both-critical-in-health-funding
-title: "Income & Ethnicity Both Critical In Health Funding"
-date: 2004-03-03
-source-url: https://www.scoop.co.nz/stories/PO0403/S00034/income-ethnicity-both-critical-in-health-funding.htm
+title: Income & Ethnicity Both Critical In Health Funding
+date: 2004-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0403/S00034/income-ethnicity-both-critical-in-health-funding.htm
 author: university-of-otago
+permalink: /archive/2004/03/03/income-/index.html
+layout: layout.njk
 ---
 Income & Ethnicity Both Critical In Health Funding
 ==================================================

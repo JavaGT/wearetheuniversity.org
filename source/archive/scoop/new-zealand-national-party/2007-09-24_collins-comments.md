@@ -1,9 +1,11 @@
 ---
 slug: collins-comments
-title: "Collins Comments"
-date: 2007-09-24
+title: Collins Comments
+date: 2007-09-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0709/S00420/collins-comments.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/24/collins-comments/index.html
+layout: layout.njk
 ---
 Collins Comments
 ================

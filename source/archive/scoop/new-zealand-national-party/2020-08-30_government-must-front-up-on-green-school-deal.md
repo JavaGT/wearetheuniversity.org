@@ -1,9 +1,12 @@
 ---
 slug: government-must-front-up-on-green-school-deal
-title: "Government Must Front Up On Green School Deal"
-date: 2020-08-30
-source-url: https://www.scoop.co.nz/stories/PA2008/S00230/government-must-front-up-on-green-school-deal.htm
+title: Government Must Front Up On Green School Deal
+date: 2020-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00230/government-must-front-up-on-green-school-deal.htm
 author: new-zealand-national-party
+permalink: /archive/2020/08/30/government-must-front-up-on-green-school-deal/index.html
+layout: layout.njk
 ---
 Government Must Front Up On Green School Deal
 =============================================

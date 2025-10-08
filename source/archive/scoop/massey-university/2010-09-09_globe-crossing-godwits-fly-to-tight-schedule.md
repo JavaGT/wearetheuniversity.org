@@ -1,9 +1,12 @@
 ---
 slug: globe-crossing-godwits-fly-to-tight-schedule
-title: "Globe-crossing godwits fly to tight schedule"
-date: 2010-09-09
-source-url: https://www.scoop.co.nz/stories/SC1009/S00013/globe-crossing-godwits-fly-to-tight-schedule.htm
+title: Globe-crossing godwits fly to tight schedule
+date: 2010-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1009/S00013/globe-crossing-godwits-fly-to-tight-schedule.htm
 author: massey-university
+permalink: /archive/2010/09/09/globe-crossing-godwits-fly-to-tight-schedule/index.html
+layout: layout.njk
 ---
 Globe-crossing godwits fly to tight schedule
 ============================================

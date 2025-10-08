@@ -1,9 +1,12 @@
 ---
 slug: harawira-he-poroporoaki-haere-e-te-rangatira
-title: "Harawira: He Poroporoaki - Haere E Te Rangatira"
-date: 2007-09-12
-source-url: https://www.scoop.co.nz/stories/PA0709/S00216/harawira-he-poroporoaki-haere-e-te-rangatira.htm
+title: 'Harawira: He Poroporoaki - Haere E Te Rangatira'
+date: 2007-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00216/harawira-he-poroporoaki-haere-e-te-rangatira.htm
 author: te-pati-maori
+permalink: /archive/2007/09/12/harawira-he-poroporoaki-haere-e-te-rangatira/index.html
+layout: layout.njk
 ---
 Harawira: He Poroporoaki - Haere E Te Rangatira
 ===============================================

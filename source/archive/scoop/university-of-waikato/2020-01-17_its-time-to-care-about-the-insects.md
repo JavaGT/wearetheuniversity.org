@@ -1,9 +1,12 @@
 ---
 slug: its-time-to-care-about-the-insects
-title: "It’s time to care about the insects"
-date: 2020-01-17
-source-url: https://www.scoop.co.nz/stories/SC2001/S00013/its-time-to-care-about-the-insects.htm
+title: It’s time to care about the insects
+date: 2020-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2001/S00013/its-time-to-care-about-the-insects.htm
 author: university-of-waikato
+permalink: /archive/2020/01/17/its-time-to-care-about-the-insects/index.html
+layout: layout.njk
 ---
 It’s time to care about the insects
 ===================================

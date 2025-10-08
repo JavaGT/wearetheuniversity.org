@@ -1,9 +1,12 @@
 ---
 slug: supergold-card-free-travel-scheme-at-risk-again
-title: "Supergold Card free travel scheme at risk again"
-date: 2010-09-02
-source-url: https://www.scoop.co.nz/stories/PA1009/S00041/supergold-card-free-travel-scheme-at-risk-again.htm
+title: Supergold Card free travel scheme at risk again
+date: 2010-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00041/supergold-card-free-travel-scheme-at-risk-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/02/supergold-card-free-travel-scheme-at-risk-again/index.html
+layout: layout.njk
 ---
 Supergold Card free travel scheme at risk again
 ===============================================

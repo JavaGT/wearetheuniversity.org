@@ -1,9 +1,12 @@
 ---
 slug: iwi-short-sighted-if-private-prisons-approved
-title: "Iwi short-sighted if private prisons approved"
-date: 2010-04-16
-source-url: https://www.scoop.co.nz/stories/PA1004/S00166/iwi-short-sighted-if-private-prisons-approved.htm
+title: Iwi short-sighted if private prisons approved
+date: 2010-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00166/iwi-short-sighted-if-private-prisons-approved.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/16/iwi-short-sighted-if-private-prisons-approved/index.html
+layout: layout.njk
 ---
 Iwi short-sighted if private prisons approved
 =============================================

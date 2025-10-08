@@ -1,9 +1,12 @@
 ---
 slug: flavell-10yr-anniversary-of-ihenga-tupuna-whare
-title: "Flavell: 10yr Anniversary of Ihenga – Tupuna whare"
-date: 2006-11-07
-source-url: https://www.scoop.co.nz/stories/PA0611/S00102/flavell-10yr-anniversary-of-ihenga-tupuna-whare.htm
+title: 'Flavell: 10yr Anniversary of Ihenga – Tupuna whare'
+date: 2006-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00102/flavell-10yr-anniversary-of-ihenga-tupuna-whare.htm
 author: te-pati-maori
+permalink: /archive/2006/11/07/flavell-10yr-anniversary-of-ihenga-tupuna-whare/index.html
+layout: layout.njk
 ---
 Flavell: 10yr Anniversary of Ihenga – Tupuna whare
 ==================================================

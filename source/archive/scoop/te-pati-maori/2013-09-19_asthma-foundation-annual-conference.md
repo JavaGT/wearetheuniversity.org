@@ -1,9 +1,12 @@
 ---
 slug: asthma-foundation-annual-conference
-title: "Asthma Foundation Annual Conference"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/PA1309/S00378/asthma-foundation-annual-conference.htm
+title: Asthma Foundation Annual Conference
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00378/asthma-foundation-annual-conference.htm
 author: te-pati-maori
+permalink: /archive/2013/09/19/asthma-foundation-annual-conference/index.html
+layout: layout.njk
 ---
 Asthma Foundation Annual Conference
 ===================================

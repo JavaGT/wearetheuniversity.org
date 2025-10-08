@@ -1,9 +1,16 @@
 ---
-slug: young-new-zealand-first-to-propose-major-student-loan-reform-at-upcoming-convention
-title: "Young New Zealand First To Propose Major Student Loan Reform At Upcoming Convention."
-date: 2022-10-17
-source-url: https://www.scoop.co.nz/stories/PO2210/S00098/young-new-zealand-first-to-propose-major-student-loan-reform-at-upcoming-convention.htm
+slug: >-
+  young-new-zealand-first-to-propose-major-student-loan-reform-at-upcoming-convention
+title: >-
+  Young New Zealand First To Propose Major Student Loan Reform At Upcoming
+  Convention.
+date: 2022-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2210/S00098/young-new-zealand-first-to-propose-major-student-loan-reform-at-upcoming-convention.htm
 author: young-new-zealand-first
+permalink: >-
+  /archive/2022/10/17/young-new-zealand-first-to-propose-major-student-loan-reform-at-upcoming-convention/index.html
+layout: layout.njk
 ---
 Young New Zealand First To Propose Major Student Loan Reform At Upcoming Convention.
 ====================================================================================

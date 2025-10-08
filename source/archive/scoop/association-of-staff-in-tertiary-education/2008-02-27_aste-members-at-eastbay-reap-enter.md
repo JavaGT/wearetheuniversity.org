@@ -1,9 +1,12 @@
 ---
 slug: aste-members-at-eastbay-reap-enter
-title: "ASTE Members at EastBay REAP enter"
-date: 2008-02-27
-source-url: https://www.scoop.co.nz/stories/ED0802/S00064/aste-members-at-eastbay-reap-enter.htm
+title: ASTE Members at EastBay REAP enter
+date: 2008-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00064/aste-members-at-eastbay-reap-enter.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2008/02/27/aste-members-at-eastbay-reap-enter/index.html
+layout: layout.njk
 ---
 ASTE Members at EastBay REAP enter
 ==================================

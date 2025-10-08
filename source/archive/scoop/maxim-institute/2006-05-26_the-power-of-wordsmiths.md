@@ -1,9 +1,11 @@
 ---
 slug: the-power-of-wordsmiths
-title: "The Power Of Wordsmiths"
-date: 2006-05-26
+title: The Power Of Wordsmiths
+date: 2006-05-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0605/S00271/the-power-of-wordsmiths.htm
 author: maxim-institute
+permalink: /archive/2006/05/26/the-power-of-wordsmiths/index.html
+layout: layout.njk
 ---
 The Power Of Wordsmiths
 =======================

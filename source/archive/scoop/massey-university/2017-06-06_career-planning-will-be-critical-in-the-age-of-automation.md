@@ -1,9 +1,13 @@
 ---
 slug: career-planning-will-be-critical-in-the-age-of-automation
-title: "Career planning will be critical in the age of automation"
-date: 2017-06-06
-source-url: https://www.scoop.co.nz/stories/BU1706/S00126/career-planning-will-be-critical-in-the-age-of-automation.htm
+title: Career planning will be critical in the age of automation
+date: 2017-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1706/S00126/career-planning-will-be-critical-in-the-age-of-automation.htm
 author: massey-university
+permalink: >-
+  /archive/2017/06/06/career-planning-will-be-critical-in-the-age-of-automation/index.html
+layout: layout.njk
 ---
 Career planning will be critical in the age of automation
 =========================================================

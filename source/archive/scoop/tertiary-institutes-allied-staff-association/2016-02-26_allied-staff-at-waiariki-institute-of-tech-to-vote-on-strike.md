@@ -1,9 +1,13 @@
 ---
 slug: allied-staff-at-waiariki-institute-of-tech-to-vote-on-strike
-title: "Allied Staff at Waiariki Institute of Tech to vote on strike"
-date: 2016-02-26
-source-url: https://www.scoop.co.nz/stories/ED1602/S00083/allied-staff-at-waiariki-institute-of-tech-to-vote-on-strike.htm
+title: Allied Staff at Waiariki Institute of Tech to vote on strike
+date: 2016-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00083/allied-staff-at-waiariki-institute-of-tech-to-vote-on-strike.htm
 author: tertiary-institutes-allied-staff-association
+permalink: >-
+  /archive/2016/02/26/allied-staff-at-waiariki-institute-of-tech-to-vote-on-strike/index.html
+layout: layout.njk
 ---
 Allied Staff at Waiariki Institute of Tech to vote on strike
 ============================================================

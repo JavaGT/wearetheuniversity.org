@@ -1,9 +1,12 @@
 ---
 slug: grant-robertson-to-retire-from-parliament
-title: "Grant Robertson To Retire From Parliament"
-date: 2024-02-20
-source-url: https://www.scoop.co.nz/stories/PA2402/S00058/grant-robertson-to-retire-from-parliament.htm
+title: Grant Robertson To Retire From Parliament
+date: 2024-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2402/S00058/grant-robertson-to-retire-from-parliament.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/02/20/grant-robertson-to-retire-from-parliament/index.html
+layout: layout.njk
 ---
 Grant Robertson To Retire From Parliament
 =========================================

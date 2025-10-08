@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-whats-with-helen
-title: "The Mapp Report: What's with Helen?"
-date: 2006-09-22
-source-url: https://www.scoop.co.nz/stories/PA0609/S00497/the-mapp-report-whats-with-helen.htm
+title: 'The Mapp Report: What''s with Helen?'
+date: 2006-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00497/the-mapp-report-whats-with-helen.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/22/the-mapp-report-whats-with-helen/index.html
+layout: layout.njk
 ---
 The Mapp Report: What's with Helen?
 ===================================

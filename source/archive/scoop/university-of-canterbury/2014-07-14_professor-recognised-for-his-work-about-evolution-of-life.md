@@ -1,9 +1,13 @@
 ---
 slug: professor-recognised-for-his-work-about-evolution-of-life
-title: "Professor recognised for his work about evolution of life"
-date: 2014-07-14
-source-url: https://www.scoop.co.nz/stories/SC1407/S00033/professor-recognised-for-his-work-about-evolution-of-life.htm
+title: Professor recognised for his work about evolution of life
+date: 2014-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00033/professor-recognised-for-his-work-about-evolution-of-life.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/14/professor-recognised-for-his-work-about-evolution-of-life/index.html
+layout: layout.njk
 ---
 Professor recognised for his work about evolution of life
 =========================================================

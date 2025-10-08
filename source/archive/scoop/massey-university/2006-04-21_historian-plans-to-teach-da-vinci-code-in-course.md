@@ -1,9 +1,13 @@
 ---
 slug: historian-plans-to-teach-da-vinci-code-in-course
-title: "Historian plans to teach Da Vinci Code in course"
-date: 2006-04-21
-source-url: https://www.scoop.co.nz/stories/ED0604/S00074/historian-plans-to-teach-da-vinci-code-in-course.htm
+title: Historian plans to teach Da Vinci Code in course
+date: 2006-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00074/historian-plans-to-teach-da-vinci-code-in-course.htm
 author: massey-university
+permalink: >-
+  /archive/2006/04/21/historian-plans-to-teach-da-vinci-code-in-course/index.html
+layout: layout.njk
 ---
 Historian plans to teach Da Vinci Code in course
 ================================================

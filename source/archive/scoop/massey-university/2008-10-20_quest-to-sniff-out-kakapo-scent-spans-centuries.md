@@ -1,9 +1,12 @@
 ---
 slug: quest-to-sniff-out-kakapo-scent-spans-centuries
-title: "Quest to sniff out kakapo scent spans centuries"
-date: 2008-10-20
-source-url: https://www.scoop.co.nz/stories/ED0810/S00083/quest-to-sniff-out-kakapo-scent-spans-centuries.htm
+title: Quest to sniff out kakapo scent spans centuries
+date: 2008-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00083/quest-to-sniff-out-kakapo-scent-spans-centuries.htm
 author: massey-university
+permalink: /archive/2008/10/20/quest-to-sniff-out-kakapo-scent-spans-centuries/index.html
+layout: layout.njk
 ---
 Quest to sniff out kakapo scent spans centuries
 ===============================================

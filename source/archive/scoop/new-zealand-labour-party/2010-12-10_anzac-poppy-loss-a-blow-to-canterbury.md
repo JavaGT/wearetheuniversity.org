@@ -1,9 +1,12 @@
 ---
 slug: anzac-poppy-loss-a-blow-to-canterbury
-title: "ANZAC poppy loss a blow to Canterbury"
-date: 2010-12-10
-source-url: https://www.scoop.co.nz/stories/PA1012/S00189/anzac-poppy-loss-a-blow-to-canterbury.htm
+title: ANZAC poppy loss a blow to Canterbury
+date: 2010-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00189/anzac-poppy-loss-a-blow-to-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/10/anzac-poppy-loss-a-blow-to-canterbury/index.html
+layout: layout.njk
 ---
 ANZAC poppy loss a blow to Canterbury
 =====================================

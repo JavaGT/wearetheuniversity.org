@@ -1,9 +1,13 @@
 ---
 slug: nzei-welcomes-cross-party-report-on-digital-learning
-title: "NZEI welcomes cross-party report on digital learning"
-date: 2012-12-20
-source-url: https://www.scoop.co.nz/stories/ED1212/S00132/nzei-welcomes-cross-party-report-on-digital-learning.htm
+title: NZEI welcomes cross-party report on digital learning
+date: 2012-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00132/nzei-welcomes-cross-party-report-on-digital-learning.htm
 author: nzei
+permalink: >-
+  /archive/2012/12/20/nzei-welcomes-cross-party-report-on-digital-learning/index.html
+layout: layout.njk
 ---
 NZEI welcomes cross-party report on digital learning
 ====================================================

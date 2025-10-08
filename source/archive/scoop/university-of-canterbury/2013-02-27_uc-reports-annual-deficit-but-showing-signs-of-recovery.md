@@ -1,9 +1,13 @@
 ---
 slug: uc-reports-annual-deficit-but-showing-signs-of-recovery
-title: "UC reports annual deficit but showing signs of recovery"
-date: 2013-02-27
-source-url: https://www.scoop.co.nz/stories/ED1302/S00154/uc-reports-annual-deficit-but-showing-signs-of-recovery.htm
+title: UC reports annual deficit but showing signs of recovery
+date: 2013-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00154/uc-reports-annual-deficit-but-showing-signs-of-recovery.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/27/uc-reports-annual-deficit-but-showing-signs-of-recovery/index.html
+layout: layout.njk
 ---
 UC reports annual deficit but showing signs of recovery
 =======================================================

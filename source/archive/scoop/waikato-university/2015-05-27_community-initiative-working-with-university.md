@@ -1,9 +1,12 @@
 ---
 slug: community-initiative-working-with-university
-title: "Community initiative working with University"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/AK1505/S00663/community-initiative-working-with-university.htm
+title: Community initiative working with University
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1505/S00663/community-initiative-working-with-university.htm
 author: waikato-university
+permalink: /archive/2015/05/27/community-initiative-working-with-university/index.html
+layout: layout.njk
 ---
 Community initiative working with University
 ============================================

@@ -1,9 +1,11 @@
 ---
 slug: school-of-theology-formed
-title: "School Of Theology Formed"
-date: 2002-11-22
+title: School Of Theology Formed
+date: 2002-11-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0211/S00061/school-of-theology-formed.htm
 author: auckland-university
+permalink: /archive/2002/11/22/school-of-theology-formed/index.html
+layout: layout.njk
 ---
 School Of Theology Formed
 =========================

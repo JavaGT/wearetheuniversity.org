@@ -1,9 +1,13 @@
 ---
 slug: waikato-dean-to-lead-biological-heritage-science-challenge
-title: "Waikato Dean to lead Biological Heritage Science Challenge"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/SC1409/S00006/waikato-dean-to-lead-biological-heritage-science-challenge.htm
+title: Waikato Dean to lead Biological Heritage Science Challenge
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00006/waikato-dean-to-lead-biological-heritage-science-challenge.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/09/02/waikato-dean-to-lead-biological-heritage-science-challenge/index.html
+layout: layout.njk
 ---
 Waikato Dean to lead Biological Heritage Science Challenge
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: pita-sharples-speech-additional-ombudsman
-title: "Pita Sharples Speech: Additional Ombudsman"
-date: 2006-12-08
-source-url: https://www.scoop.co.nz/stories/PA0612/S00175/pita-sharples-speech-additional-ombudsman.htm
+title: 'Pita Sharples Speech: Additional Ombudsman'
+date: 2006-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00175/pita-sharples-speech-additional-ombudsman.htm
 author: te-pati-maori
+permalink: /archive/2006/12/08/pita-sharples-speech-additional-ombudsman/index.html
+layout: layout.njk
 ---
 Pita Sharples Speech: Additional Ombudsman
 ==========================================

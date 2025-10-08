@@ -1,9 +1,13 @@
 ---
 slug: poroporoaki-his-highness-susuga-malietoa-tanumafi
-title: "Poroporoaki: His Highness Susuga Malietoa Tanumafi"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/PA0705/S00338/poroporoaki-his-highness-susuga-malietoa-tanumafi.htm
+title: 'Poroporoaki: His Highness Susuga Malietoa Tanumafi'
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00338/poroporoaki-his-highness-susuga-malietoa-tanumafi.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/05/14/poroporoaki-his-highness-susuga-malietoa-tanumafi/index.html
+layout: layout.njk
 ---
 Poroporoaki: His Highness Susuga Malietoa Tanumafi
 ==================================================

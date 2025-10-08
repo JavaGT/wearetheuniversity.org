@@ -1,9 +1,12 @@
 ---
 slug: release-the-list-prime-minister
-title: "Release The List, Prime Minister"
-date: 2020-07-31
-source-url: https://www.scoop.co.nz/stories/PA2007/S00320/release-the-list-prime-minister.htm
+title: Release The List, Prime Minister
+date: 2020-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00320/release-the-list-prime-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/31/release-the-list-prime-minister/index.html
+layout: layout.njk
 ---
 Release The List, Prime Minister
 ================================

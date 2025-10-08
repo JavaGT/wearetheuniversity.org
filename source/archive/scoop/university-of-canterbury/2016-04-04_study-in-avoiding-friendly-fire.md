@@ -1,9 +1,12 @@
 ---
 slug: study-in-avoiding-friendly-fire
-title: "Study in avoiding \"friendly fire\""
-date: 2016-04-04
-source-url: https://www.scoop.co.nz/stories/ED1604/S00005/study-in-avoiding-friendly-fire.htm
+title: Study in avoiding "friendly fire"
+date: 2016-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00005/study-in-avoiding-friendly-fire.htm
 author: university-of-canterbury
+permalink: /archive/2016/04/04/study-in-avoiding-friendly-fire/index.html
+layout: layout.njk
 ---
 Study in avoiding \"friendly fire"
 =================================

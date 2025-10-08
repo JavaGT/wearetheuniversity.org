@@ -1,9 +1,13 @@
 ---
 slug: forget-the-banks-what-about-inland-revenues-huge-profits
-title: "Forget The Banks, What About Inland Revenue’s Huge Profits"
-date: 2022-11-07
-source-url: https://www.scoop.co.nz/stories/PA2211/S00058/forget-the-banks-what-about-inland-revenues-huge-profits.htm
+title: Forget The Banks, What About Inland Revenue’s Huge Profits
+date: 2022-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00058/forget-the-banks-what-about-inland-revenues-huge-profits.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/11/07/forget-the-banks-what-about-inland-revenues-huge-profits/index.html
+layout: layout.njk
 ---
 Forget The Banks, What About Inland Revenue’s Huge Profits
 ==========================================================

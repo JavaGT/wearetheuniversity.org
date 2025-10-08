@@ -1,9 +1,13 @@
 ---
 slug: regulatory-standards-bill-a-wolf-in-sheeps-clothing
-title: "Regulatory Standards Bill a Wolf in Sheep's Clothing"
-date: 2011-03-16
-source-url: https://www.scoop.co.nz/stories/PO1103/S00151/regulatory-standards-bill-a-wolf-in-sheeps-clothing.htm
+title: Regulatory Standards Bill a Wolf in Sheep's Clothing
+date: 2011-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1103/S00151/regulatory-standards-bill-a-wolf-in-sheeps-clothing.htm
 author: maxim-institute
+permalink: >-
+  /archive/2011/03/16/regulatory-standards-bill-a-wolf-in-sheeps-clothing/index.html
+layout: layout.njk
 ---
 Regulatory Standards Bill a Wolf in Sheep's Clothing
 ====================================================

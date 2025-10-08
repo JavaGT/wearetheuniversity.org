@@ -1,9 +1,12 @@
 ---
 slug: geopark-could-be-ideal-prospect-for-kaikoura
-title: "Geopark could be ideal prospect for Kaikoura"
-date: 2017-08-03
-source-url: https://www.scoop.co.nz/stories/AK1708/S00057/geopark-could-be-ideal-prospect-for-kaikoura.htm
+title: Geopark could be ideal prospect for Kaikoura
+date: 2017-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1708/S00057/geopark-could-be-ideal-prospect-for-kaikoura.htm
 author: lincoln-university
+permalink: /archive/2017/08/03/geopark-could-be-ideal-prospect-for-kaikoura/index.html
+layout: layout.njk
 ---
 Geopark could be ideal prospect for Kaikoura
 ============================================

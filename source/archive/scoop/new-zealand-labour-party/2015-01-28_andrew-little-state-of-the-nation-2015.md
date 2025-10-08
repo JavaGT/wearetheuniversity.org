@@ -1,9 +1,12 @@
 ---
 slug: andrew-little-state-of-the-nation-2015
-title: "Andrew Little: State of the Nation 2015"
-date: 2015-01-28
-source-url: https://www.scoop.co.nz/stories/PA1501/S00125/andrew-little-state-of-the-nation-2015.htm
+title: 'Andrew Little: State of the Nation 2015'
+date: 2015-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00125/andrew-little-state-of-the-nation-2015.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/01/28/andrew-little-state-of-the-nation-2015/index.html
+layout: layout.njk
 ---
 Andrew Little: State of the Nation 2015
 =======================================

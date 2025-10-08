@@ -1,9 +1,12 @@
 ---
 slug: clark-election-crucial-for-tertiary-education
-title: "Clark: election crucial for tertiary education"
-date: 1999-10-06
-source-url: https://www.scoop.co.nz/stories/PA9910/S00099/clark-election-crucial-for-tertiary-education.htm
+title: 'Clark: election crucial for tertiary education'
+date: 1999-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00099/clark-election-crucial-for-tertiary-education.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/06/clark-election-crucial-for-tertiary-education/index.html
+layout: layout.njk
 ---
 Clark: election crucial for tertiary education
 ==============================================

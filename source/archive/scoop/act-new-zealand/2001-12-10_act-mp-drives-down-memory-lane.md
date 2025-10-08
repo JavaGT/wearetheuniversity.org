@@ -1,9 +1,12 @@
 ---
 slug: act-mp-drives-down-memory-lane
-title: "ACT MP Drives Down Memory Lane"
-date: 2001-12-10
-source-url: https://www.scoop.co.nz/stories/PA0112/S00157/act-mp-drives-down-memory-lane.htm
+title: ACT MP Drives Down Memory Lane
+date: 2001-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00157/act-mp-drives-down-memory-lane.htm
 author: act-new-zealand
+permalink: /archive/2001/12/10/act-mp-drives-down-memory-lane/index.html
+layout: layout.njk
 ---
 ACT MP Drives Down Memory Lane
 ==============================

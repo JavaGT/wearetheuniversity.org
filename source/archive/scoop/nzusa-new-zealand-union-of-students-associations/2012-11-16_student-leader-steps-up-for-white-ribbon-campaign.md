@@ -1,9 +1,13 @@
 ---
 slug: student-leader-steps-up-for-white-ribbon-campaign
-title: "Student leader steps up for White Ribbon campaign"
-date: 2012-11-16
-source-url: https://www.scoop.co.nz/stories/ED1211/S00122/student-leader-steps-up-for-white-ribbon-campaign.htm
+title: Student leader steps up for White Ribbon campaign
+date: 2012-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00122/student-leader-steps-up-for-white-ribbon-campaign.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/11/16/student-leader-steps-up-for-white-ribbon-campaign/index.html
+layout: layout.njk
 ---
 Student leader steps up for White Ribbon campaign
 =================================================

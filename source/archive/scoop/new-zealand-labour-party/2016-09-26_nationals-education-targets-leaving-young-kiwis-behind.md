@@ -1,9 +1,13 @@
 ---
 slug: nationals-education-targets-leaving-young-kiwis-behind
-title: "National’s education targets leaving young Kiwis behind"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/PA1609/S00453/nationals-education-targets-leaving-young-kiwis-behind.htm
+title: National’s education targets leaving young Kiwis behind
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00453/nationals-education-targets-leaving-young-kiwis-behind.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/09/26/nationals-education-targets-leaving-young-kiwis-behind/index.html
+layout: layout.njk
 ---
 National’s education targets leaving young Kiwis behind
 =======================================================

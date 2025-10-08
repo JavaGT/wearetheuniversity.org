@@ -1,9 +1,13 @@
 ---
 slug: over-eight-thousand-warmer-drier-homes-in-wellington
-title: "Over eight thousand warmer, drier homes in Wellington"
-date: 2011-08-10
-source-url: https://www.scoop.co.nz/stories/PO1108/S00137/over-eight-thousand-warmer-drier-homes-in-wellington.htm
+title: Over eight thousand warmer, drier homes in Wellington
+date: 2011-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00137/over-eight-thousand-warmer-drier-homes-in-wellington.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/08/10/over-eight-thousand-warmer-drier-homes-in-wellington/index.html
+layout: layout.njk
 ---
 Over eight thousand warmer, drier homes in Wellington
 =====================================================

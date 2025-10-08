@@ -1,9 +1,12 @@
 ---
 slug: super-matcher-study-wins-$360000-funding-boost
-title: "‘Super-Matcher’ Study Wins $360,000 Funding Boost"
-date: 2024-12-11
-source-url: https://www.scoop.co.nz/stories/SC2412/S00016/super-matcher-study-wins-360000-funding-boost.htm
+title: ‘Super-Matcher’ Study Wins $360,000 Funding Boost
+date: 2024-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2412/S00016/super-matcher-study-wins-360000-funding-boost.htm
 author: university-of-canterbury
+permalink: /archive/2024/12/11/super-matcher-study-wins-/index.html
+layout: layout.njk
 ---
 ‘Super-Matcher’ Study Wins $360,000 Funding Boost
 =================================================

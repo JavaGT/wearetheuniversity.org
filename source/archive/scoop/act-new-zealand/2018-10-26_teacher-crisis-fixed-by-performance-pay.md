@@ -1,9 +1,12 @@
 ---
 slug: teacher-crisis-fixed-by-performance-pay
-title: "Teacher crisis fixed by performance pay"
-date: 2018-10-26
-source-url: https://www.scoop.co.nz/stories/PA1810/S00252/teacher-crisis-fixed-by-performance-pay.htm
+title: Teacher crisis fixed by performance pay
+date: 2018-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00252/teacher-crisis-fixed-by-performance-pay.htm
 author: act-new-zealand
+permalink: /archive/2018/10/26/teacher-crisis-fixed-by-performance-pay/index.html
+layout: layout.njk
 ---
 Teacher crisis fixed by performance pay
 =======================================

@@ -1,9 +1,11 @@
 ---
 slug: top-honour-for-top-coach
-title: "Top honour for top coach"
-date: 2015-02-23
+title: Top honour for top coach
+date: 2015-02-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1502/S00085/top-honour-for-top-coach.htm
 author: university-of-waikato
+permalink: /archive/2015/02/23/top-honour-for-top-coach/index.html
+layout: layout.njk
 ---
 Top honour for top coach
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: groundwork-not-done-to-lift-lockdown
-title: "Groundwork Not Done To Lift Lockdown"
-date: 2020-04-20
-source-url: https://www.scoop.co.nz/stories/PA2004/S00109/groundwork-not-done-to-lift-lockdown.htm
+title: Groundwork Not Done To Lift Lockdown
+date: 2020-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00109/groundwork-not-done-to-lift-lockdown.htm
 author: new-zealand-national-party
+permalink: /archive/2020/04/20/groundwork-not-done-to-lift-lockdown/index.html
+layout: layout.njk
 ---
 Groundwork Not Done To Lift Lockdown
 ====================================

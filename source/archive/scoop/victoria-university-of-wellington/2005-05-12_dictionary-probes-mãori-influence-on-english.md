@@ -1,9 +1,12 @@
 ---
 slug: dictionary-probes-mãori-influence-on-english
-title: "Dictionary probes Mãori influence on English"
-date: 2005-05-12
-source-url: https://www.scoop.co.nz/stories/CU0505/S00089/dictionary-probes-maori-influence-on-english.htm
+title: Dictionary probes Mãori influence on English
+date: 2005-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0505/S00089/dictionary-probes-maori-influence-on-english.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/05/12/dictionary-probes-m/index.html
+layout: layout.njk
 ---
 Dictionary probes Mãori influence on English
 ============================================

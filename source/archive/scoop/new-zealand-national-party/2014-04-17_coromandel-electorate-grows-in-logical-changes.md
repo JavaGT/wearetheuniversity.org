@@ -1,9 +1,12 @@
 ---
 slug: coromandel-electorate-grows-in-logical-changes
-title: "Coromandel electorate grows in logical changes"
-date: 2014-04-17
-source-url: https://www.scoop.co.nz/stories/PA1404/S00319/coromandel-electorate-grows-in-logical-changes.htm
+title: Coromandel electorate grows in logical changes
+date: 2014-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00319/coromandel-electorate-grows-in-logical-changes.htm
 author: new-zealand-national-party
+permalink: /archive/2014/04/17/coromandel-electorate-grows-in-logical-changes/index.html
+layout: layout.njk
 ---
 Coromandel electorate grows in logical changes
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: business-support-organisations-feature-in-annual-awards
-title: "Business support organisations feature in annual awards"
-date: 2016-06-10
-source-url: https://www.scoop.co.nz/stories/BU1606/S00302/business-support-organisations-feature-in-annual-awards.htm
+title: Business support organisations feature in annual awards
+date: 2016-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1606/S00302/business-support-organisations-feature-in-annual-awards.htm
 author: aut-university
+permalink: >-
+  /archive/2016/06/10/business-support-organisations-feature-in-annual-awards/index.html
+layout: layout.njk
 ---
 Business support organisations feature in annual awards
 =======================================================

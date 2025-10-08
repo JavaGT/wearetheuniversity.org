@@ -1,9 +1,12 @@
 ---
 slug: encouraging-the-phenomenal-growth-in-the-māori-economy
-title: "Encouraging the phenomenal growth in the Māori economy"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/PO1409/S00065/encouraging-the-phenomenal-growth-in-the-maori-economy.htm
+title: Encouraging the phenomenal growth in the Māori economy
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00065/encouraging-the-phenomenal-growth-in-the-maori-economy.htm
 author: te-pati-maori
+permalink: /archive/2014/09/03/encouraging-the-phenomenal-growth-in-the-m/index.html
+layout: layout.njk
 ---
 Encouraging the phenomenal growth in the Māori economy
 ======================================================

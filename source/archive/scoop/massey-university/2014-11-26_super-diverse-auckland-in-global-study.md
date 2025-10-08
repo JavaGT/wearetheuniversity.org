@@ -1,9 +1,12 @@
 ---
 slug: super-diverse-auckland-in-global-study
-title: "Super-diverse Auckland in global study"
-date: 2014-11-26
-source-url: https://www.scoop.co.nz/stories/ED1411/S00156/super-diverse-auckland-in-global-study.htm
+title: Super-diverse Auckland in global study
+date: 2014-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00156/super-diverse-auckland-in-global-study.htm
 author: massey-university
+permalink: /archive/2014/11/26/super-diverse-auckland-in-global-study/index.html
+layout: layout.njk
 ---
 Super-diverse Auckland in global study
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: telecom-says-no-to-toll-free-north-canterbury
-title: "Telecom Says \"No\" To Toll Free North Canterbury"
-date: 2001-08-02
-source-url: https://www.scoop.co.nz/stories/PA0108/S00062/telecom-says-no-to-toll-free-north-canterbury.htm
+title: Telecom Says "No" To Toll Free North Canterbury
+date: 2001-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00062/telecom-says-no-to-toll-free-north-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2001/08/02/telecom-says-no-to-toll-free-north-canterbury/index.html
+layout: layout.njk
 ---
 Telecom Says “No” To Toll Free North Canterbury
 ===============================================

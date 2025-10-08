@@ -1,9 +1,12 @@
 ---
 slug: aut-wins-global-sustainability-award
-title: "AUT Wins Global Sustainability Award"
-date: 2022-03-28
-source-url: https://www.scoop.co.nz/stories/ED2203/S00036/aut-wins-global-sustainability-award.htm
+title: AUT Wins Global Sustainability Award
+date: 2022-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00036/aut-wins-global-sustainability-award.htm
 author: aut-university
+permalink: /archive/2022/03/28/aut-wins-global-sustainability-award/index.html
+layout: layout.njk
 ---
 AUT Wins Global Sustainability Award
 ====================================

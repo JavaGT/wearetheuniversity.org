@@ -1,9 +1,12 @@
 ---
 slug: colquhoun-leads-search-for-nzs-best-young-poet
-title: "Colquhoun Leads Search for NZ’s Best Young Poet"
-date: 2004-04-26
-source-url: https://www.scoop.co.nz/stories/ED0404/S00094/colquhoun-leads-search-for-nzs-best-young-poet.htm
+title: Colquhoun Leads Search for NZ’s Best Young Poet
+date: 2004-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00094/colquhoun-leads-search-for-nzs-best-young-poet.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/04/26/colquhoun-leads-search-for-nzs-best-young-poet/index.html
+layout: layout.njk
 ---
 Colquhoun Leads Search for NZ’s Best Young Poet
 ===============================================

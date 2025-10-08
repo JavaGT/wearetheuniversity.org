@@ -1,9 +1,13 @@
 ---
 slug: act-wants-parliament-to-reconsider-smith-petition
-title: "ACT Wants Parliament To Reconsider Smith Petition"
-date: 1999-10-18
-source-url: https://www.scoop.co.nz/stories/PA9910/S00373/act-wants-parliament-to-reconsider-smith-petition.htm
+title: ACT Wants Parliament To Reconsider Smith Petition
+date: 1999-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00373/act-wants-parliament-to-reconsider-smith-petition.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/10/18/act-wants-parliament-to-reconsider-smith-petition/index.html
+layout: layout.njk
 ---
 ACT Wants Parliament To Reconsider Smith Petition
 =================================================

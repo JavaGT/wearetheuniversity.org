@@ -1,9 +1,13 @@
 ---
 slug: university-announces-next-sciences-pro-vice-chancellor
-title: "University announces next Sciences Pro-Vice-Chancellor"
-date: 2016-09-30
-source-url: https://www.scoop.co.nz/stories/ED1609/S00160/university-announces-next-sciences-pro-vice-chancellor.htm
+title: University announces next Sciences Pro-Vice-Chancellor
+date: 2016-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00160/university-announces-next-sciences-pro-vice-chancellor.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/09/30/university-announces-next-sciences-pro-vice-chancellor/index.html
+layout: layout.njk
 ---
 University announces next Sciences Pro-Vice-Chancellor
 ======================================================

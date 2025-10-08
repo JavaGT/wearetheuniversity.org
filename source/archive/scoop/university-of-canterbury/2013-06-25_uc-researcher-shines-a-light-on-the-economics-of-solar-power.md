@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-shines-a-light-on-the-economics-of-solar-power
-title: "UC researcher shines a light on the economics of solar power"
-date: 2013-06-25
-source-url: https://www.scoop.co.nz/stories/SC1306/S00062/uc-researcher-shines-a-light-on-the-economics-of-solar-power.htm
+title: UC researcher shines a light on the economics of solar power
+date: 2013-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00062/uc-researcher-shines-a-light-on-the-economics-of-solar-power.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/25/uc-researcher-shines-a-light-on-the-economics-of-solar-power/index.html
+layout: layout.njk
 ---
 UC researcher shines a light on the economics of solar power
 ============================================================

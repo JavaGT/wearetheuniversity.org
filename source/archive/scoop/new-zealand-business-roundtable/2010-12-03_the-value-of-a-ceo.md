@@ -1,9 +1,11 @@
 ---
 slug: the-value-of-a-ceo
-title: "The Value of a CEO"
-date: 2010-12-03
+title: The Value of a CEO
+date: 2010-12-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1012/S00120/the-value-of-a-ceo.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/12/03/the-value-of-a-ceo/index.html
+layout: layout.njk
 ---
 The Value of a CEO
 ==================

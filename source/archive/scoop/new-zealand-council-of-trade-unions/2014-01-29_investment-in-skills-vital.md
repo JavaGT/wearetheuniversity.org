@@ -1,9 +1,11 @@
 ---
 slug: investment-in-skills-vital
-title: "Investment in Skills Vital"
-date: 2014-01-29
+title: Investment in Skills Vital
+date: 2014-01-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1401/S00120/investment-in-skills-vital.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/01/29/investment-in-skills-vital/index.html
+layout: layout.njk
 ---
 Investment in Skills Vital
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: worlds-top-young-chefs-do-battle-at-aut
-title: "World's top young chefs do battle at AUT"
-date: 2006-03-15
-source-url: https://www.scoop.co.nz/stories/ED0603/S00037/worlds-top-young-chefs-do-battle-at-aut.htm
+title: World's top young chefs do battle at AUT
+date: 2006-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00037/worlds-top-young-chefs-do-battle-at-aut.htm
 author: aut-university
+permalink: /archive/2006/03/15/worlds-top-young-chefs-do-battle-at-aut/index.html
+layout: layout.njk
 ---
 World's top young chefs do battle at AUT
 ========================================

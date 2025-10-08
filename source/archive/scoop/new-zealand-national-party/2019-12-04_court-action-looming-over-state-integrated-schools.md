@@ -1,9 +1,13 @@
 ---
 slug: court-action-looming-over-state-integrated-schools
-title: "Court action looming over State Integrated Schools"
-date: 2019-12-04
-source-url: https://www.scoop.co.nz/stories/PA1912/S00036/court-action-looming-over-state-integrated-schools.htm
+title: Court action looming over State Integrated Schools
+date: 2019-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00036/court-action-looming-over-state-integrated-schools.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/12/04/court-action-looming-over-state-integrated-schools/index.html
+layout: layout.njk
 ---
 Court action looming over State Integrated Schools
 ==================================================

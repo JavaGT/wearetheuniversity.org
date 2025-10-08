@@ -1,9 +1,12 @@
 ---
 slug: infection-of-us-military-a-threat-to-nz-&-the-pacific
-title: "Infection Of US Military A Threat To NZ & The Pacific"
-date: 2020-04-26
-source-url: https://www.scoop.co.nz/stories/PO2004/S00255/infection-of-us-military-a-threat-to-nz-the-pacific.htm
+title: Infection Of US Military A Threat To NZ & The Pacific
+date: 2020-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2004/S00255/infection-of-us-military-a-threat-to-nz-the-pacific.htm
 author: peace-action-wellington
+permalink: /archive/2020/04/26/infection-of-us-military-a-threat-to-nz-/index.html
+layout: layout.njk
 ---
 Infection Of US Military A Threat To NZ & The Pacific
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: supergold-cardholders-miss-out-on-free-off-peak-transport
-title: "Supergold Cardholders Miss Out on Free Off-Peak Transport"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/PA1606/S00468/supergold-cardholders-miss-out-on-free-off-peak-transport.htm
+title: Supergold Cardholders Miss Out on Free Off-Peak Transport
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00468/supergold-cardholders-miss-out-on-free-off-peak-transport.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/29/supergold-cardholders-miss-out-on-free-off-peak-transport/index.html
+layout: layout.njk
 ---
 Supergold Cardholders Miss Out on Free Off-Peak Transport
 =========================================================

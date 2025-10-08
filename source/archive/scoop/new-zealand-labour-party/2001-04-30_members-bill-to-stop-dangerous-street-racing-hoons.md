@@ -1,9 +1,13 @@
 ---
 slug: members-bill-to-stop-dangerous-street-racing-hoons
-title: "Members Bill To Stop Dangerous Street Racing Hoons"
-date: 2001-04-30
-source-url: https://www.scoop.co.nz/stories/PA0104/S00456/members-bill-to-stop-dangerous-street-racing-hoons.htm
+title: Members Bill To Stop Dangerous Street Racing Hoons
+date: 2001-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00456/members-bill-to-stop-dangerous-street-racing-hoons.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2001/04/30/members-bill-to-stop-dangerous-street-racing-hoons/index.html
+layout: layout.njk
 ---
 Members Bill To Stop Dangerous Street Racing Hoons
 ==================================================

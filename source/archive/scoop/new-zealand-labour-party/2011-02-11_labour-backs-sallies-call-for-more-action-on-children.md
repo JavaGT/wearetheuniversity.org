@@ -1,9 +1,13 @@
 ---
 slug: labour-backs-sallies-call-for-more-action-on-children
-title: "Labour backs Sallies’ call for more action on children"
-date: 2011-02-11
-source-url: https://www.scoop.co.nz/stories/PA1102/S00174/labour-backs-sallies-call-for-more-action-on-children.htm
+title: Labour backs Sallies’ call for more action on children
+date: 2011-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00174/labour-backs-sallies-call-for-more-action-on-children.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/02/11/labour-backs-sallies-call-for-more-action-on-children/index.html
+layout: layout.njk
 ---
 Labour backs Sallies’ call for more action on children
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: high-pressure-jobs-linked-to-depression-anxiety
-title: "High pressure jobs linked to depression, anxiety"
-date: 2007-08-02
-source-url: https://www.scoop.co.nz/stories/GE0708/S00008/high-pressure-jobs-linked-to-depression-anxiety.htm
+title: High pressure jobs linked to depression, anxiety
+date: 2007-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0708/S00008/high-pressure-jobs-linked-to-depression-anxiety.htm
 author: university-of-otago
+permalink: /archive/2007/08/02/high-pressure-jobs-linked-to-depression-anxiety/index.html
+layout: layout.njk
 ---
 High pressure jobs linked to depression, anxiety
 ================================================

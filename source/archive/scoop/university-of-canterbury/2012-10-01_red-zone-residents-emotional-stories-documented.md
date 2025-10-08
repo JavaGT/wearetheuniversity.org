@@ -1,9 +1,12 @@
 ---
 slug: red-zone-residents-emotional-stories-documented
-title: "Red zone residents’ emotional stories documented"
-date: 2012-10-01
-source-url: https://www.scoop.co.nz/stories/AK1210/S00003/red-zone-residents-emotional-stories-documented.htm
+title: Red zone residents’ emotional stories documented
+date: 2012-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00003/red-zone-residents-emotional-stories-documented.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/01/red-zone-residents-emotional-stories-documented/index.html
+layout: layout.njk
 ---
 Red zone residents’ emotional stories documented
 ================================================

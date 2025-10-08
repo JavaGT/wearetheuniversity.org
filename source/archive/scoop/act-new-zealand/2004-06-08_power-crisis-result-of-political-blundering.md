@@ -1,9 +1,12 @@
 ---
 slug: power-crisis-result-of-political-blundering
-title: "Power Crisis Result Of Political Blundering"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/PA0406/S00114/power-crisis-result-of-political-blundering.htm
+title: Power Crisis Result Of Political Blundering
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00114/power-crisis-result-of-political-blundering.htm
 author: act-new-zealand
+permalink: /archive/2004/06/08/power-crisis-result-of-political-blundering/index.html
+layout: layout.njk
 ---
 Power Crisis Result Of Political Blundering
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: body-clock-study-gains-research-funding
-title: "Body clock study gains research funding"
-date: 2008-01-24
-source-url: https://www.scoop.co.nz/stories/ED0801/S00022/body-clock-study-gains-research-funding.htm
+title: Body clock study gains research funding
+date: 2008-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00022/body-clock-study-gains-research-funding.htm
 author: massey-university
+permalink: /archive/2008/01/24/body-clock-study-gains-research-funding/index.html
+layout: layout.njk
 ---
 Body clock study gains research funding
 =======================================

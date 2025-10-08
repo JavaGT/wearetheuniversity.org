@@ -1,9 +1,12 @@
 ---
 slug: co-management-in-rma-is-a-recipe-for-paralysis
-title: "Co-management in RMA is a recipe for paralysis"
-date: 2004-09-16
-source-url: https://www.scoop.co.nz/stories/PA0409/S00350/co-management-in-rma-is-a-recipe-for-paralysis.htm
+title: Co-management in RMA is a recipe for paralysis
+date: 2004-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00350/co-management-in-rma-is-a-recipe-for-paralysis.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/16/co-management-in-rma-is-a-recipe-for-paralysis/index.html
+layout: layout.njk
 ---
 Co-management in RMA is a recipe for paralysis
 ==============================================

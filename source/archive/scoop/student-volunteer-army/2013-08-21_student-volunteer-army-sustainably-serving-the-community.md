@@ -1,9 +1,13 @@
 ---
 slug: student-volunteer-army-sustainably-serving-the-community
-title: "Student Volunteer Army Sustainably Serving the Community"
-date: 2013-08-21
-source-url: https://www.scoop.co.nz/stories/AK1308/S00648/student-volunteer-army-sustainably-serving-the-community.htm
+title: Student Volunteer Army Sustainably Serving the Community
+date: 2013-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00648/student-volunteer-army-sustainably-serving-the-community.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2013/08/21/student-volunteer-army-sustainably-serving-the-community/index.html
+layout: layout.njk
 ---
 Student Volunteer Army Sustainably Serving the Community
 ========================================================

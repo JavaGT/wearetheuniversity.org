@@ -1,9 +1,13 @@
 ---
 slug: getting-rich-on-the-sweat-of-third-world-workers
-title: "Getting rich on the sweat of third world workers"
-date: 2004-09-14
-source-url: https://www.scoop.co.nz/stories/PA0409/S00282/getting-rich-on-the-sweat-of-third-world-workers.htm
+title: Getting rich on the sweat of third world workers
+date: 2004-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00282/getting-rich-on-the-sweat-of-third-world-workers.htm
 author: green-party
+permalink: >-
+  /archive/2004/09/14/getting-rich-on-the-sweat-of-third-world-workers/index.html
+layout: layout.njk
 ---
 Getting rich on the sweat of third world workers
 ================================================

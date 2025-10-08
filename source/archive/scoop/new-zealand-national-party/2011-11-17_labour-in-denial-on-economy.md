@@ -1,9 +1,11 @@
 ---
 slug: labour-in-denial-on-economy
-title: "Labour in denial on economy"
-date: 2011-11-17
+title: Labour in denial on economy
+date: 2011-11-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1111/S00443/labour-in-denial-on-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/17/labour-in-denial-on-economy/index.html
+layout: layout.njk
 ---
 Labour in denial on economy
 ===========================

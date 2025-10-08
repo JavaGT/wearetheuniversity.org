@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-win-university-shield-again
-title: "Victoria students win University shield again"
-date: 2009-04-19
-source-url: https://www.scoop.co.nz/stories/CU0904/S00241/victoria-students-win-university-shield-again.htm
+title: Victoria students win University shield again
+date: 2009-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0904/S00241/victoria-students-win-university-shield-again.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/04/19/victoria-students-win-university-shield-again/index.html
+layout: layout.njk
 ---
 Victoria students win University shield again
 =============================================

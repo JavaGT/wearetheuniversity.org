@@ -1,9 +1,13 @@
 ---
 slug: 30-under-30-running-in-2019-local-body-elections
-title: "‘30 under 30’ running in 2019 Local Body Elections"
-date: 2019-07-10
-source-url: https://www.scoop.co.nz/stories/PO1907/S00130/30-under-30-running-in-2019-local-body-elections.htm
+title: ‘30 under 30’ running in 2019 Local Body Elections
+date: 2019-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1907/S00130/30-under-30-running-in-2019-local-body-elections.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2019/07/10/30-under-30-running-in-2019-local-body-elections/index.html
+layout: layout.njk
 ---
 ‘30 under 30’ running in 2019 Local Body Elections
 ==================================================

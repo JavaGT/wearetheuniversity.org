@@ -1,9 +1,13 @@
 ---
 slug: study-examines-links-between-violence-and-animal-cruelty
-title: "Study examines links between violence and animal cruelty"
-date: 2011-03-31
-source-url: https://www.scoop.co.nz/stories/SC1103/S00097/study-examines-links-between-violence-and-animal-cruelty.htm
+title: Study examines links between violence and animal cruelty
+date: 2011-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1103/S00097/study-examines-links-between-violence-and-animal-cruelty.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/03/31/study-examines-links-between-violence-and-animal-cruelty/index.html
+layout: layout.njk
 ---
 Study examines links between violence and animal cruelty
 ========================================================

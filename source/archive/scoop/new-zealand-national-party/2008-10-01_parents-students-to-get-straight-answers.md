@@ -1,9 +1,12 @@
 ---
 slug: parents-students-to-get-straight-answers
-title: "Parents, students to get straight answers"
-date: 2008-10-01
-source-url: https://www.scoop.co.nz/stories/PA0810/S00027/parents-students-to-get-straight-answers.htm
+title: Parents, students to get straight answers
+date: 2008-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00027/parents-students-to-get-straight-answers.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/01/parents-students-to-get-straight-answers/index.html
+layout: layout.njk
 ---
 Parents, students to get straight answers
 =========================================

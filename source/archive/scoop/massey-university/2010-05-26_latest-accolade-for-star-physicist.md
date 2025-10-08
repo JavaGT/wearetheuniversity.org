@@ -1,9 +1,12 @@
 ---
 slug: latest-accolade-for-star-physicist
-title: "Latest accolade for star physicist"
-date: 2010-05-26
-source-url: https://www.scoop.co.nz/stories/ED1005/S00117/latest-accolade-for-star-physicist.htm
+title: Latest accolade for star physicist
+date: 2010-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00117/latest-accolade-for-star-physicist.htm
 author: massey-university
+permalink: /archive/2010/05/26/latest-accolade-for-star-physicist/index.html
+layout: layout.njk
 ---
 Latest accolade for star physicist
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: big-firms-offer-better-pay-but-at-what-cost
-title: "Big firms offer better pay – but at what cost?"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/BU0907/S00524/big-firms-offer-better-pay-but-at-what-cost.htm
+title: Big firms offer better pay – but at what cost?
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00524/big-firms-offer-better-pay-but-at-what-cost.htm
 author: university-of-waikato
+permalink: /archive/2009/07/20/big-firms-offer-better-pay-but-at-what-cost/index.html
+layout: layout.njk
 ---
 Big firms offer better pay – but at what cost?
 ==============================================

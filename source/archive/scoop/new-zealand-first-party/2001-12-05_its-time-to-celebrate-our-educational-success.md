@@ -1,9 +1,12 @@
 ---
 slug: its-time-to-celebrate-our-educational-success
-title: "It’s Time To Celebrate Our Educational Success"
-date: 2001-12-05
-source-url: https://www.scoop.co.nz/stories/PA0112/S00073/its-time-to-celebrate-our-educational-success.htm
+title: It’s Time To Celebrate Our Educational Success
+date: 2001-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00073/its-time-to-celebrate-our-educational-success.htm
 author: new-zealand-first-party
+permalink: /archive/2001/12/05/its-time-to-celebrate-our-educational-success/index.html
+layout: layout.njk
 ---
 It’s Time To Celebrate Our Educational Success
 ==============================================

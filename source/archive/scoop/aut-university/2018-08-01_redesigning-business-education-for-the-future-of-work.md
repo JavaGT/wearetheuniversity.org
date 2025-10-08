@@ -1,9 +1,13 @@
 ---
 slug: redesigning-business-education-for-the-future-of-work
-title: "Redesigning Business Education for the Future of Work"
-date: 2018-08-01
-source-url: https://www.scoop.co.nz/stories/ED1808/S00004/redesigning-business-education-for-the-future-of-work.htm
+title: Redesigning Business Education for the Future of Work
+date: 2018-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00004/redesigning-business-education-for-the-future-of-work.htm
 author: aut-university
+permalink: >-
+  /archive/2018/08/01/redesigning-business-education-for-the-future-of-work/index.html
+layout: layout.njk
 ---
 Redesigning Business Education for the Future of Work
 =====================================================

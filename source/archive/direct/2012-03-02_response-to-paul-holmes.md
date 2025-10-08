@@ -1,10 +1,13 @@
 ---
 title: Response to Paul Holmes
 slug: response-to-paul-holmes
-date: 2012-03-02
-source: https://web.archive.org/web/20130208081850/http://wearetheuniversity.org.nz/2012/03/02/363/
+date: 2012-03-02T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208081850/http://wearetheuniversity.org.nz/2012/03/02/363/
 author: Nathalie Jaques
 author-slug: nathalie-jaques
+permalink: /archive/2012/03/02/response-to-paul-holmes/index.html
+layout: layout.njk
 ---
 
 Nathalie Jaques

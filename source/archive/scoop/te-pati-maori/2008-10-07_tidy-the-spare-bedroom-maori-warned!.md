@@ -1,9 +1,12 @@
 ---
 slug: tidy-the-spare-bedroom-maori-warned!
-title: "Tidy the spare bedroom, Maori warned!"
-date: 2008-10-07
-source-url: https://www.scoop.co.nz/stories/PA0810/S00135/tidy-the-spare-bedroom-maori-warned.htm
+title: Tidy the spare bedroom, Maori warned!
+date: 2008-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00135/tidy-the-spare-bedroom-maori-warned.htm
 author: te-pati-maori
+permalink: /archive/2008/10/07/tidy-the-spare-bedroom-maori-warned/index.html
+layout: layout.njk
 ---
 Tidy the spare bedroom, Maori warned!
 =====================================

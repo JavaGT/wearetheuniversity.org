@@ -1,9 +1,13 @@
 ---
 slug: astronomers-discover-the-science-behind-star-bursts-that-light-up-the-sky
-title: "Astronomers Discover The Science Behind Star Bursts That Light Up The Sky"
-date: 2020-04-23
-source-url: https://www.scoop.co.nz/stories/SC2004/S00055/astronomers-discover-the-science-behind-star-bursts-that-light-up-the-sky.htm
+title: Astronomers Discover The Science Behind Star Bursts That Light Up The Sky
+date: 2020-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2004/S00055/astronomers-discover-the-science-behind-star-bursts-that-light-up-the-sky.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/04/23/astronomers-discover-the-science-behind-star-bursts-that-light-up-the-sky/index.html
+layout: layout.njk
 ---
 Astronomers Discover The Science Behind Star Bursts That Light Up The Sky
 =========================================================================

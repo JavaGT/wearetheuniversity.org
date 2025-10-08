@@ -1,9 +1,13 @@
 ---
 slug: unions-respond-to-concerns-in-earthquake-aftermath
-title: "Unions respond to concerns in earthquake aftermath"
-date: 2010-09-06
-source-url: https://www.scoop.co.nz/stories/PO1009/S00067/unions-respond-to-concerns-in-earthquake-aftermath.htm
+title: Unions respond to concerns in earthquake aftermath
+date: 2010-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00067/unions-respond-to-concerns-in-earthquake-aftermath.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2010/09/06/unions-respond-to-concerns-in-earthquake-aftermath/index.html
+layout: layout.njk
 ---
 Unions respond to concerns in earthquake aftermath
 ==================================================

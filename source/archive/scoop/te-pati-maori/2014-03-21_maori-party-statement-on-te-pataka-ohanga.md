@@ -1,9 +1,12 @@
 ---
 slug: maori-party-statement-on-te-pataka-ohanga
-title: "Maori Party Statement on Te Pataka Ohanga"
-date: 2014-03-21
-source-url: https://www.scoop.co.nz/stories/PA1403/S00433/maori-party-statement-on-te-pataka-ohanga.htm
+title: Maori Party Statement on Te Pataka Ohanga
+date: 2014-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00433/maori-party-statement-on-te-pataka-ohanga.htm
 author: te-pati-maori
+permalink: /archive/2014/03/21/maori-party-statement-on-te-pataka-ohanga/index.html
+layout: layout.njk
 ---
 Maori Party Statement on Te Pataka Ohanga
 =========================================

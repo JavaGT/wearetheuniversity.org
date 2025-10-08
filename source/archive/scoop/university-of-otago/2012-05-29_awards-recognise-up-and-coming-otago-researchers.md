@@ -1,9 +1,13 @@
 ---
 slug: awards-recognise-up-and-coming-otago-researchers
-title: "Awards recognise up-and-coming Otago researchers"
-date: 2012-05-29
-source-url: https://www.scoop.co.nz/stories/SC1205/S00057/awards-recognise-up-and-coming-otago-researchers.htm
+title: Awards recognise up-and-coming Otago researchers
+date: 2012-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00057/awards-recognise-up-and-coming-otago-researchers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/05/29/awards-recognise-up-and-coming-otago-researchers/index.html
+layout: layout.njk
 ---
 Awards recognise up-and-coming Otago researchers
 ================================================

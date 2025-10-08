@@ -1,9 +1,13 @@
 ---
 slug: sp-national-maori-disability-providers-hui-taumata-turia
-title: "Sp: National Maori Disability Providers Hui Taumata - Turia"
-date: 2011-04-01
-source-url: https://www.scoop.co.nz/stories/PA1104/S00019/sp-national-maori-disability-providers-hui-taumata-turia.htm
+title: 'Sp: National Maori Disability Providers Hui Taumata - Turia'
+date: 2011-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00019/sp-national-maori-disability-providers-hui-taumata-turia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/04/01/sp-national-maori-disability-providers-hui-taumata-turia/index.html
+layout: layout.njk
 ---
 Sp: National Maori Disability Providers Hui Taumata - Turia
 ===========================================================

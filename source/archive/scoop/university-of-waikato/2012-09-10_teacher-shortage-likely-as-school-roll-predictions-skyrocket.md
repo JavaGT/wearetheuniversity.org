@@ -1,9 +1,13 @@
 ---
 slug: teacher-shortage-likely-as-school-roll-predictions-skyrocket
-title: "Teacher shortage likely as school roll predictions skyrocket"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/ED1209/S00059/teacher-shortage-likely-as-school-roll-predictions-skyrocket.htm
+title: Teacher shortage likely as school roll predictions skyrocket
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00059/teacher-shortage-likely-as-school-roll-predictions-skyrocket.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/09/10/teacher-shortage-likely-as-school-roll-predictions-skyrocket/index.html
+layout: layout.njk
 ---
 Teacher shortage likely as school roll predictions skyrocket
 ============================================================

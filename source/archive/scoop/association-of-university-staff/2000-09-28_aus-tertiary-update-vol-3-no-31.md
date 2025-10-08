@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-31
-title: "AUS Tertiary Update  Vol.3 No.31"
-date: 2000-09-28
-source-url: https://www.scoop.co.nz/stories/ED0009/S00049/aus-tertiary-update-vol3-no31.htm
+title: AUS Tertiary Update  Vol.3 No.31
+date: 2000-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00049/aus-tertiary-update-vol3-no31.htm
 author: association-of-university-staff
+permalink: /archive/2000/09/28/aus-tertiary-update-vol-3-no-31/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.31
 ===============================

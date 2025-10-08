@@ -1,9 +1,12 @@
 ---
 slug: working-kiwis-being-played-for-fools-today
-title: "Working Kiwis Being Played For Fools Today"
-date: 2023-04-01
-source-url: https://www.scoop.co.nz/stories/PA2304/S00002/working-kiwis-being-played-for-fools-today.htm
+title: Working Kiwis Being Played For Fools Today
+date: 2023-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00002/working-kiwis-being-played-for-fools-today.htm
 author: act-new-zealand
+permalink: /archive/2023/04/01/working-kiwis-being-played-for-fools-today/index.html
+layout: layout.njk
 ---
 Working Kiwis Being Played For Fools Today
 ==========================================

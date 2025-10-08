@@ -1,9 +1,12 @@
 ---
 slug: cullen-address-to-government-superannuitants
-title: "Cullen - Address to Government Superannuitants"
-date: 2005-09-05
-source-url: https://www.scoop.co.nz/stories/PA0509/S00109/cullen-address-to-government-superannuitants.htm
+title: Cullen - Address to Government Superannuitants
+date: 2005-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00109/cullen-address-to-government-superannuitants.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/05/cullen-address-to-government-superannuitants/index.html
+layout: layout.njk
 ---
 Cullen - Address to Government Superannuitants
 ==============================================

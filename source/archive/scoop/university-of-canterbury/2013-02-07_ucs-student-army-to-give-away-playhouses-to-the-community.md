@@ -1,9 +1,13 @@
 ---
 slug: ucs-student-army-to-give-away-playhouses-to-the-community
-title: "UC’s student army to give away playhouses to the community"
-date: 2013-02-07
-source-url: https://www.scoop.co.nz/stories/CU1302/S00141/ucs-student-army-to-give-away-playhouses-to-the-community.htm
+title: UC’s student army to give away playhouses to the community
+date: 2013-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1302/S00141/ucs-student-army-to-give-away-playhouses-to-the-community.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/07/ucs-student-army-to-give-away-playhouses-to-the-community/index.html
+layout: layout.njk
 ---
 UC’s student army to give away playhouses to the community
 ==========================================================

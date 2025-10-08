@@ -1,9 +1,12 @@
 ---
 slug: flexible-1ru-network-switch-to-uci3-donated
-title: "Flexible 1ru Network Switch To Uci3  Donated"
-date: 2006-06-19
-source-url: https://www.scoop.co.nz/stories/SC0606/S00044/flexible-1ru-network-switch-to-uci3-donated.htm
+title: Flexible 1ru Network Switch To Uci3  Donated
+date: 2006-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0606/S00044/flexible-1ru-network-switch-to-uci3-donated.htm
 author: university-of-canterbury
+permalink: /archive/2006/06/19/flexible-1ru-network-switch-to-uci3-donated/index.html
+layout: layout.njk
 ---
 Flexible 1ru Network Switch To Uci3 Donated
 ===========================================

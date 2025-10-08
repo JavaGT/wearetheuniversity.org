@@ -1,9 +1,12 @@
 ---
 slug: tolley-joins-in-on-the-ducking-and-diving
-title: "Tolley Joins In On The Ducking And Diving"
-date: 2013-03-15
-source-url: https://www.scoop.co.nz/stories/PA1303/S00261/tolley-joins-in-on-the-ducking-and-diving.htm
+title: Tolley Joins In On The Ducking And Diving
+date: 2013-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00261/tolley-joins-in-on-the-ducking-and-diving.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/15/tolley-joins-in-on-the-ducking-and-diving/index.html
+layout: layout.njk
 ---
 Tolley Joins In On The Ducking And Diving
 =========================================

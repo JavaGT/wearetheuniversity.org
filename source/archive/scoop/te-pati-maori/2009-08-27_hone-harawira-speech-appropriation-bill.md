@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-speech-appropriation-bill
-title: "Hone Harawira Speech: Appropriation Bill"
-date: 2009-08-27
-source-url: https://www.scoop.co.nz/stories/PA0908/S00401/hone-harawira-speech-appropriation-bill.htm
+title: 'Hone Harawira Speech: Appropriation Bill'
+date: 2009-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00401/hone-harawira-speech-appropriation-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/08/27/hone-harawira-speech-appropriation-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira Speech: Appropriation Bill
 ========================================

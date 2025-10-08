@@ -1,9 +1,13 @@
 ---
 slug: home-affordability-improves-but-not-for-auckland
-title: "Home affordability improves – but not for Auckland"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/BU1210/S00343/home-affordability-improves-but-not-for-auckland.htm
+title: Home affordability improves – but not for Auckland
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1210/S00343/home-affordability-improves-but-not-for-auckland.htm
 author: massey-university
+permalink: >-
+  /archive/2012/10/09/home-affordability-improves-but-not-for-auckland/index.html
+layout: layout.njk
 ---
 Home affordability improves – but not for Auckland
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: prof-harry-glasbeek-corporate-crime-fighter
-title: "Prof. Harry Glasbeek - ‘Corporate Crime Fighter’"
-date: 2005-04-11
-source-url: https://www.scoop.co.nz/stories/PO0504/S00129/prof-harry-glasbeek-corporate-crime-fighter.htm
+title: Prof. Harry Glasbeek - ‘Corporate Crime Fighter’
+date: 2005-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00129/prof-harry-glasbeek-corporate-crime-fighter.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/04/11/prof-harry-glasbeek-corporate-crime-fighter/index.html
+layout: layout.njk
 ---
 Prof. Harry Glasbeek - ‘Corporate Crime Fighter’
 ================================================

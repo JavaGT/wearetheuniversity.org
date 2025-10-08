@@ -1,9 +1,12 @@
 ---
 slug: $5-15m-usp-nz-partnership-agreement-signed
-title: "$5.15m USP, NZ Partnership Agreement signed"
-date: 2019-02-09
-source-url: https://www.scoop.co.nz/stories/WO1902/S00040/515m-usp-nz-partnership-agreement-signed.htm
+title: $5.15m USP, NZ Partnership Agreement signed
+date: 2019-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1902/S00040/515m-usp-nz-partnership-agreement-signed.htm
 author: university-of-the-south-pacific
+permalink: /archive/2019/02/09/5-15m-usp-nz-partnership-agreement-signed/index.html
+layout: layout.njk
 ---
 $5.15m USP, NZ Partnership Agreement signed
 ===========================================

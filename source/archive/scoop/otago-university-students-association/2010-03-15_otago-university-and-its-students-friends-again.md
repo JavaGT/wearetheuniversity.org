@@ -1,9 +1,12 @@
 ---
 slug: otago-university-and-its-students-friends-again
-title: "Otago University and its Students Friends Again"
-date: 2010-03-15
-source-url: https://www.scoop.co.nz/stories/ED1003/S00065/otago-university-and-its-students-friends-again.htm
+title: Otago University and its Students Friends Again
+date: 2010-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00065/otago-university-and-its-students-friends-again.htm
 author: otago-university-students-association
+permalink: /archive/2010/03/15/otago-university-and-its-students-friends-again/index.html
+layout: layout.njk
 ---
 Otago University and its Students Friends Again
 ===============================================

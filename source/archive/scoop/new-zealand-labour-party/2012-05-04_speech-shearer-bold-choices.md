@@ -1,9 +1,11 @@
 ---
 slug: speech-shearer-bold-choices
-title: "Speech:  Shearer - Bold Choices"
-date: 2012-05-04
+title: 'Speech:  Shearer - Bold Choices'
+date: 2012-05-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1205/S00080/speech-shearer-bold-choices.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/04/speech-shearer-bold-choices/index.html
+layout: layout.njk
 ---
 Speech: Shearer - Bold Choices
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: fruit-growers-face-labour-shortage-crisis
-title: "Fruit Growers Face Labour Shortage Crisis"
-date: 2002-02-18
-source-url: https://www.scoop.co.nz/stories/PA0202/S00241/fruit-growers-face-labour-shortage-crisis.htm
+title: Fruit Growers Face Labour Shortage Crisis
+date: 2002-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00241/fruit-growers-face-labour-shortage-crisis.htm
 author: act-new-zealand
+permalink: /archive/2002/02/18/fruit-growers-face-labour-shortage-crisis/index.html
+layout: layout.njk
 ---
 Fruit Growers Face Labour Shortage Crisis
 =========================================

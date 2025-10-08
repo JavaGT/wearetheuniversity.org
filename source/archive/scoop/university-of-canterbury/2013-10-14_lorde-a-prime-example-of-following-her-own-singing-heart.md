@@ -1,9 +1,13 @@
 ---
 slug: lorde-a-prime-example-of-following-her-own-singing-heart
-title: "Lorde a prime example of following her own singing heart"
-date: 2013-10-14
-source-url: https://www.scoop.co.nz/stories/CU1310/S00242/lorde-a-prime-example-of-following-her-own-singing-heart.htm
+title: Lorde a prime example of following her own singing heart
+date: 2013-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00242/lorde-a-prime-example-of-following-her-own-singing-heart.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/14/lorde-a-prime-example-of-following-her-own-singing-heart/index.html
+layout: layout.njk
 ---
 Lorde a prime example of following her own singing heart
 ========================================================

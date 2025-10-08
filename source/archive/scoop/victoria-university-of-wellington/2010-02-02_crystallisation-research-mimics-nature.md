@@ -1,9 +1,12 @@
 ---
 slug: crystallisation-research-mimics-nature
-title: "Crystallisation research mimics nature"
-date: 2010-02-02
-source-url: https://www.scoop.co.nz/stories/SC1002/S00009/crystallisation-research-mimics-nature.htm
+title: Crystallisation research mimics nature
+date: 2010-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1002/S00009/crystallisation-research-mimics-nature.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/02/02/crystallisation-research-mimics-nature/index.html
+layout: layout.njk
 ---
 Crystallisation research mimics nature
 ======================================

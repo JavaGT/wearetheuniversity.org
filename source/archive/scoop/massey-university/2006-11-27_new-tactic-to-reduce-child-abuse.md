@@ -1,9 +1,12 @@
 ---
 slug: new-tactic-to-reduce-child-abuse
-title: "New tactic to reduce child abuse"
-date: 2006-11-27
-source-url: https://www.scoop.co.nz/stories/ED0611/S00099/new-tactic-to-reduce-child-abuse.htm
+title: New tactic to reduce child abuse
+date: 2006-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00099/new-tactic-to-reduce-child-abuse.htm
 author: massey-university
+permalink: /archive/2006/11/27/new-tactic-to-reduce-child-abuse/index.html
+layout: layout.njk
 ---
 New tactic to reduce child abuse
 ================================

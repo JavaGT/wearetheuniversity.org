@@ -1,9 +1,12 @@
 ---
 slug: bulging-prisons-need-vacancy-signs
-title: "Bulging Prisons Need 'Vacancy' Signs"
-date: 2004-09-07
-source-url: https://www.scoop.co.nz/stories/PA0409/S00132/bulging-prisons-need-vacancy-signs.htm
+title: Bulging Prisons Need 'Vacancy' Signs
+date: 2004-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00132/bulging-prisons-need-vacancy-signs.htm
 author: act-new-zealand
+permalink: /archive/2004/09/07/bulging-prisons-need-vacancy-signs/index.html
+layout: layout.njk
 ---
 Bulging Prisons Need 'Vacancy' Signs
 ====================================

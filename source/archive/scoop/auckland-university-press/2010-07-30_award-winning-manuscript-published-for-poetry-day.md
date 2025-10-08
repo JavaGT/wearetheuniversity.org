@@ -1,9 +1,13 @@
 ---
 slug: award-winning-manuscript-published-for-poetry-day
-title: "Award Winning Manuscript Published For Poetry Day"
-date: 2010-07-30
-source-url: https://www.scoop.co.nz/stories/CU1007/S00434/award-winning-manuscript-published-for-poetry-day.htm
+title: Award Winning Manuscript Published For Poetry Day
+date: 2010-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1007/S00434/award-winning-manuscript-published-for-poetry-day.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2010/07/30/award-winning-manuscript-published-for-poetry-day/index.html
+layout: layout.njk
 ---
 Award Winning Manuscript Published For Poetry Day
 =================================================

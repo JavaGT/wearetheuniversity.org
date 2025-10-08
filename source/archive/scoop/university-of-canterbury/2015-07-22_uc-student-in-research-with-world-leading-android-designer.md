@@ -1,9 +1,13 @@
 ---
 slug: uc-student-in-research-with-world-leading-android-designer
-title: "UC student in research with world-leading android designer"
-date: 2015-07-22
-source-url: https://www.scoop.co.nz/stories/ED1507/S00094/uc-student-in-research-with-world-leading-android-designer.htm
+title: UC student in research with world-leading android designer
+date: 2015-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00094/uc-student-in-research-with-world-leading-android-designer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/07/22/uc-student-in-research-with-world-leading-android-designer/index.html
+layout: layout.njk
 ---
 UC student in research with world-leading android designer
 ==========================================================

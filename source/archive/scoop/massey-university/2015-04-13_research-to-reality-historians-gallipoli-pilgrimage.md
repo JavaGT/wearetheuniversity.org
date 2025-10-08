@@ -1,9 +1,13 @@
 ---
 slug: research-to-reality-historians-gallipoli-pilgrimage
-title: "Research to reality – historian’s Gallipoli pilgrimage"
-date: 2015-04-13
-source-url: https://www.scoop.co.nz/stories/CU1504/S00187/research-to-reality-historians-gallipoli-pilgrimage.htm
+title: Research to reality – historian’s Gallipoli pilgrimage
+date: 2015-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00187/research-to-reality-historians-gallipoli-pilgrimage.htm
 author: massey-university
+permalink: >-
+  /archive/2015/04/13/research-to-reality-historians-gallipoli-pilgrimage/index.html
+layout: layout.njk
 ---
 Research to reality – historian’s Gallipoli pilgrimage
 ======================================================

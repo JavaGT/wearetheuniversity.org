@@ -1,9 +1,12 @@
 ---
 slug: probiotic-supplement-protects-against-eczema
-title: "Probiotic supplement protects against eczema"
-date: 2008-09-09
-source-url: https://www.scoop.co.nz/stories/GE0809/S00057/probiotic-supplement-protects-against-eczema.htm
+title: Probiotic supplement protects against eczema
+date: 2008-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0809/S00057/probiotic-supplement-protects-against-eczema.htm
 author: university-of-otago
+permalink: /archive/2008/09/09/probiotic-supplement-protects-against-eczema/index.html
+layout: layout.njk
 ---
 Probiotic supplement protects against eczema
 ============================================

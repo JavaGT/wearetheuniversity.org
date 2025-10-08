@@ -1,8 +1,12 @@
 ---
 slug: mass-surveillance-and-a-crisis-of-social-responsibility
-title: "Mass surveillance and a crisis of social responsibility"
-date: 2015-12-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/mass-surveillance-and-a-crisis-of-social-responsibility.html
+title: Mass surveillance and a crisis of social responsibility
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/mass-surveillance-and-a-crisis-of-social-responsibility.html
+permalink: >-
+  /archive/2015/12/01/mass-surveillance-and-a-crisis-of-social-responsibility/index.html
+layout: layout.njk
 ---
 Mass surveillance and a crisis of social responsibility
 =======================================================

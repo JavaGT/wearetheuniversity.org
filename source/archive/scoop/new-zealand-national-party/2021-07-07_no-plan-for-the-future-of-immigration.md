@@ -1,9 +1,12 @@
 ---
 slug: no-plan-for-the-future-of-immigration
-title: "No Plan For The Future Of Immigration"
-date: 2021-07-07
-source-url: https://www.scoop.co.nz/stories/PA2107/S00068/no-plan-for-the-future-of-immigration.htm
+title: No Plan For The Future Of Immigration
+date: 2021-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00068/no-plan-for-the-future-of-immigration.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/07/no-plan-for-the-future-of-immigration/index.html
+layout: layout.njk
 ---
 No Plan For The Future Of Immigration
 =====================================

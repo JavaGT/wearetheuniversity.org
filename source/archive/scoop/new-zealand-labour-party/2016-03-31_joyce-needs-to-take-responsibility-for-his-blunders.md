@@ -1,9 +1,13 @@
 ---
 slug: joyce-needs-to-take-responsibility-for-his-blunders
-title: "Joyce needs to take responsibility for his blunders"
-date: 2016-03-31
-source-url: https://www.scoop.co.nz/stories/PA1603/S00510/joyce-needs-to-take-responsibility-for-his-blunders.htm
+title: Joyce needs to take responsibility for his blunders
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00510/joyce-needs-to-take-responsibility-for-his-blunders.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/03/31/joyce-needs-to-take-responsibility-for-his-blunders/index.html
+layout: layout.njk
 ---
 Joyce needs to take responsibility for his blunders
 ===================================================

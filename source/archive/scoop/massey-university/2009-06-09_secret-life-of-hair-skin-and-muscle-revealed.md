@@ -1,9 +1,12 @@
 ---
 slug: secret-life-of-hair-skin-and-muscle-revealed
-title: "Secret life of hair, skin and muscle revealed"
-date: 2009-06-09
-source-url: https://www.scoop.co.nz/stories/SC0906/S00012/secret-life-of-hair-skin-and-muscle-revealed.htm
+title: Secret life of hair, skin and muscle revealed
+date: 2009-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0906/S00012/secret-life-of-hair-skin-and-muscle-revealed.htm
 author: massey-university
+permalink: /archive/2009/06/09/secret-life-of-hair-skin-and-muscle-revealed/index.html
+layout: layout.njk
 ---
 Secret life of hair, skin and muscle revealed
 =============================================

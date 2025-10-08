@@ -1,9 +1,11 @@
 ---
 slug: soaking-up-the-sun
-title: "Soaking up the sun"
-date: 2014-06-26
+title: Soaking up the sun
+date: 2014-06-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1406/S00067/soaking-up-the-sun.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/26/soaking-up-the-sun/index.html
+layout: layout.njk
 ---
 Soaking up the sun
 ==================

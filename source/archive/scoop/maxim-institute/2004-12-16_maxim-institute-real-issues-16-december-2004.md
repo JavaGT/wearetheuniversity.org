@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-16-december-2004
-title: "Maxim Institute - real issues 16 December 2004"
-date: 2004-12-16
-source-url: https://www.scoop.co.nz/stories/PO0412/S00193/maxim-institute-real-issues-16-december-2004.htm
+title: Maxim Institute - real issues 16 December 2004
+date: 2004-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0412/S00193/maxim-institute-real-issues-16-december-2004.htm
 author: maxim-institute
+permalink: /archive/2004/12/16/maxim-institute-real-issues-16-december-2004/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues 16 December 2004
 ==============================================

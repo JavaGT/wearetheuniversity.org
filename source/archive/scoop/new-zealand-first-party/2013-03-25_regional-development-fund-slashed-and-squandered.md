@@ -1,9 +1,13 @@
 ---
 slug: regional-development-fund-slashed-and-squandered
-title: "Regional Development Fund Slashed And Squandered"
-date: 2013-03-25
-source-url: https://www.scoop.co.nz/stories/PA1303/S00421/regional-development-fund-slashed-and-squandered.htm
+title: Regional Development Fund Slashed And Squandered
+date: 2013-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00421/regional-development-fund-slashed-and-squandered.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/03/25/regional-development-fund-slashed-and-squandered/index.html
+layout: layout.njk
 ---
 Regional Development Fund Slashed And Squandered
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: get-real-mr-woodhouse-review-immigration-properly
-title: "Get real Mr Woodhouse: Review immigration properly"
-date: 2016-09-05
-source-url: https://www.scoop.co.nz/stories/PA1609/S00075/get-real-mr-woodhouse-review-immigration-properly.htm
+title: 'Get real Mr Woodhouse: Review immigration properly'
+date: 2016-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00075/get-real-mr-woodhouse-review-immigration-properly.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/09/05/get-real-mr-woodhouse-review-immigration-properly/index.html
+layout: layout.njk
 ---
 Get real Mr Woodhouse: Review immigration properly
 ==================================================

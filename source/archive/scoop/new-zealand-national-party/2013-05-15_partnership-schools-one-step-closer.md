@@ -1,9 +1,12 @@
 ---
 slug: partnership-schools-one-step-closer
-title: "Partnership schools one step closer"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/PA1305/S00252/partnership-schools-one-step-closer.htm
+title: Partnership schools one step closer
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00252/partnership-schools-one-step-closer.htm
 author: new-zealand-national-party
+permalink: /archive/2013/05/15/partnership-schools-one-step-closer/index.html
+layout: layout.njk
 ---
 Partnership schools one step closer
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: auts-business-school-scoops-supreme-award
-title: "AUT's Business School scoops Supreme Award"
-date: 2006-05-29
-source-url: https://www.scoop.co.nz/stories/ED0605/S00108/auts-business-school-scoops-supreme-award.htm
+title: AUT's Business School scoops Supreme Award
+date: 2006-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00108/auts-business-school-scoops-supreme-award.htm
 author: aut-university
+permalink: /archive/2006/05/29/auts-business-school-scoops-supreme-award/index.html
+layout: layout.njk
 ---
 AUT's Business School scoops Supreme Award
 ==========================================

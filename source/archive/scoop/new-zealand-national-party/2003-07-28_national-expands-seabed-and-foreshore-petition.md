@@ -1,9 +1,12 @@
 ---
 slug: national-expands-seabed-and-foreshore-petition
-title: "National expands seabed and foreshore petition"
-date: 2003-07-28
-source-url: https://www.scoop.co.nz/stories/PA0307/S00495/national-expands-seabed-and-foreshore-petition.htm
+title: National expands seabed and foreshore petition
+date: 2003-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00495/national-expands-seabed-and-foreshore-petition.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/28/national-expands-seabed-and-foreshore-petition/index.html
+layout: layout.njk
 ---
 National expands seabed and foreshore petition
 ==============================================

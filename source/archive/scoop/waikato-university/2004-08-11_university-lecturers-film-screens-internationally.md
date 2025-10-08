@@ -1,9 +1,13 @@
 ---
 slug: university-lecturers-film-screens-internationally
-title: "University lecturer's film screens internationally"
-date: 2004-08-11
-source-url: https://www.scoop.co.nz/stories/CU0408/S00072/university-lecturers-film-screens-internationally.htm
+title: University lecturer's film screens internationally
+date: 2004-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0408/S00072/university-lecturers-film-screens-internationally.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/08/11/university-lecturers-film-screens-internationally/index.html
+layout: layout.njk
 ---
 University lecturer's film screens internationally
 ==================================================

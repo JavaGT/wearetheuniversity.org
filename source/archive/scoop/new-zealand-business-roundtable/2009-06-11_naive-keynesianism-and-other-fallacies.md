@@ -1,9 +1,12 @@
 ---
 slug: naive-keynesianism-and-other-fallacies
-title: "Naive Keynesianism and Other Fallacies"
-date: 2009-06-11
-source-url: https://www.scoop.co.nz/stories/BU0906/S00283/naive-keynesianism-and-other-fallacies.htm
+title: Naive Keynesianism and Other Fallacies
+date: 2009-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0906/S00283/naive-keynesianism-and-other-fallacies.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2009/06/11/naive-keynesianism-and-other-fallacies/index.html
+layout: layout.njk
 ---
 Naive Keynesianism and Other Fallacies
 ======================================

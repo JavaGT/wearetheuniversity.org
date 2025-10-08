@@ -1,9 +1,13 @@
 ---
 slug: massey-university-disgraces-free-speech-tradition
-title: "Massey University disgraces free speech tradition"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/PO1808/S00075/massey-university-disgraces-free-speech-tradition.htm
+title: Massey University disgraces free speech tradition
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1808/S00075/massey-university-disgraces-free-speech-tradition.htm
 author: free-speech-coalition
+permalink: >-
+  /archive/2018/08/07/massey-university-disgraces-free-speech-tradition/index.html
+layout: layout.njk
 ---
 Massey University disgraces free speech tradition
 =================================================

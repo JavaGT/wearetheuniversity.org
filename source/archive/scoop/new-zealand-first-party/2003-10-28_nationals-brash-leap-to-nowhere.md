@@ -1,9 +1,12 @@
 ---
 slug: nationals-brash-leap-to-nowhere
-title: "National’s Brash Leap To Nowhere"
-date: 2003-10-28
-source-url: https://www.scoop.co.nz/stories/PA0310/S00637/nationals-brash-leap-to-nowhere.htm
+title: National’s Brash Leap To Nowhere
+date: 2003-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00637/nationals-brash-leap-to-nowhere.htm
 author: new-zealand-first-party
+permalink: /archive/2003/10/28/nationals-brash-leap-to-nowhere/index.html
+layout: layout.njk
 ---
 National’s Brash Leap To Nowhere
 ================================

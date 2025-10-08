@@ -1,9 +1,12 @@
 ---
 slug: university-awarded-$7-million-for-nations-health
-title: "University Awarded $7 Million for Nation's Health"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/ED0508/S00047/university-awarded-7-million-for-nations-health.htm
+title: University Awarded $7 Million for Nation's Health
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00047/university-awarded-7-million-for-nations-health.htm
 author: auckland-university
+permalink: /archive/2005/08/10/university-awarded-/index.html
+layout: layout.njk
 ---
 University Awarded $7 Million for Nation's Health
 =================================================

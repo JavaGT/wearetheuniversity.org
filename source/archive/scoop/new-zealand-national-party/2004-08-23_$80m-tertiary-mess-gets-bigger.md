@@ -1,9 +1,12 @@
 ---
 slug: $80m-tertiary-mess-gets-bigger
-title: "$80m tertiary mess gets bigger"
-date: 2004-08-23
-source-url: https://www.scoop.co.nz/stories/PA0408/S00358/80m-tertiary-mess-gets-bigger.htm
+title: $80m tertiary mess gets bigger
+date: 2004-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00358/80m-tertiary-mess-gets-bigger.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/23/80m-tertiary-mess-gets-bigger/index.html
+layout: layout.njk
 ---
 $80m tertiary mess gets bigger
 ==============================

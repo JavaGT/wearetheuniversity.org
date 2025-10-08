@@ -1,9 +1,13 @@
 ---
 slug: media-framing-of-climate-change-lecture-hot-topic
-title: "Media framing of climate change – lecture hot topic"
-date: 2013-11-21
-source-url: https://www.scoop.co.nz/stories/SC1311/S00071/media-framing-of-climate-change-lecture-hot-topic.htm
+title: Media framing of climate change – lecture hot topic
+date: 2013-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00071/media-framing-of-climate-change-lecture-hot-topic.htm
 author: massey-university
+permalink: >-
+  /archive/2013/11/21/media-framing-of-climate-change-lecture-hot-topic/index.html
+layout: layout.njk
 ---
 Media framing of climate change – lecture hot topic
 ===================================================

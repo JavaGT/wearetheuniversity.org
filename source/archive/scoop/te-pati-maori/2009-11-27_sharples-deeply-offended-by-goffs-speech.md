@@ -1,9 +1,12 @@
 ---
 slug: sharples-deeply-offended-by-goffs-speech
-title: "Sharples 'Deeply Offended' by Goff's Speech"
-date: 2009-11-27
-source-url: https://www.scoop.co.nz/stories/PA0911/S00443/sharples-deeply-offended-by-goffs-speech.htm
+title: Sharples 'Deeply Offended' by Goff's Speech
+date: 2009-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00443/sharples-deeply-offended-by-goffs-speech.htm
 author: te-pati-maori
+permalink: /archive/2009/11/27/sharples-deeply-offended-by-goffs-speech/index.html
+layout: layout.njk
 ---
 Sharples 'Deeply Offended' by Goff's Speech
 ===========================================

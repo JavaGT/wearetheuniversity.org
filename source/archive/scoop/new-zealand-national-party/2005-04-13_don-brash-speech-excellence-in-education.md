@@ -1,9 +1,12 @@
 ---
 slug: don-brash-speech-excellence-in-education
-title: "Don Brash Speech - Excellence in Education"
-date: 2005-04-13
-source-url: https://www.scoop.co.nz/stories/PA0504/S00286/don-brash-speech-excellence-in-education.htm
+title: Don Brash Speech - Excellence in Education
+date: 2005-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00286/don-brash-speech-excellence-in-education.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/13/don-brash-speech-excellence-in-education/index.html
+layout: layout.njk
 ---
 Don Brash Speech - Excellence in Education
 ==========================================

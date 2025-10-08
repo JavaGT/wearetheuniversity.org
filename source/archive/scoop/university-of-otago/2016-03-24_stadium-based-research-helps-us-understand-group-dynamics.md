@@ -1,9 +1,13 @@
 ---
 slug: stadium-based-research-helps-us-understand-group-dynamics
-title: "Stadium-based research helps us understand group dynamics"
-date: 2016-03-24
-source-url: https://www.scoop.co.nz/stories/SC1603/S00057/stadium-based-research-helps-us-understand-group-dynamics.htm
+title: Stadium-based research helps us understand group dynamics
+date: 2016-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00057/stadium-based-research-helps-us-understand-group-dynamics.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/03/24/stadium-based-research-helps-us-understand-group-dynamics/index.html
+layout: layout.njk
 ---
 Stadium-based research helps us understand group dynamics
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-directions-for-maori-health-welcomed
-title: "New Directions for Maori Health Welcomed"
-date: 2007-01-24
-source-url: https://www.scoop.co.nz/stories/PA0701/S00131/new-directions-for-maori-health-welcomed.htm
+title: New Directions for Maori Health Welcomed
+date: 2007-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00131/new-directions-for-maori-health-welcomed.htm
 author: te-pati-maori
+permalink: /archive/2007/01/24/new-directions-for-maori-health-welcomed/index.html
+layout: layout.njk
 ---
 New Directions for Maori Health Welcomed
 ========================================

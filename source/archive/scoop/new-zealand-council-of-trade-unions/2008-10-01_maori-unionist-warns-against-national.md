@@ -1,9 +1,12 @@
 ---
 slug: maori-unionist-warns-against-national
-title: "Maori Unionist Warns Against National"
-date: 2008-10-01
-source-url: https://www.scoop.co.nz/stories/PO0810/S00016/maori-unionist-warns-against-national.htm
+title: Maori Unionist Warns Against National
+date: 2008-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00016/maori-unionist-warns-against-national.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/10/01/maori-unionist-warns-against-national/index.html
+layout: layout.njk
 ---
 Maori Unionist Warns Against National
 =====================================

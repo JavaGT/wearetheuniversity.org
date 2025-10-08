@@ -1,9 +1,11 @@
 ---
 slug: dr-dives-to-medical-history
-title: "Dr Dives To Medical History"
-date: 2006-04-26
+title: Dr Dives To Medical History
+date: 2006-04-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0604/S00085/dr-dives-to-medical-history.htm
 author: auckland-university
+permalink: /archive/2006/04/26/dr-dives-to-medical-history/index.html
+layout: layout.njk
 ---
 Dr Dives To Medical History
 ===========================

@@ -1,9 +1,13 @@
 ---
 slug: uc-research-into-decarbonising-antarctic-science
-title: "UC Research Into Decarbonising Antarctic Science"
-date: 2021-11-02
-source-url: https://www.scoop.co.nz/stories/SC2111/S00009/uc-research-into-decarbonising-antarctic-science.htm
+title: UC Research Into Decarbonising Antarctic Science
+date: 2021-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2111/S00009/uc-research-into-decarbonising-antarctic-science.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/11/02/uc-research-into-decarbonising-antarctic-science/index.html
+layout: layout.njk
 ---
 UC Research Into Decarbonising Antarctic Science
 ================================================

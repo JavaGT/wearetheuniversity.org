@@ -1,9 +1,11 @@
 ---
 slug: crime-continues-to-rise
-title: "Crime continues to rise"
-date: 2016-11-30
+title: Crime continues to rise
+date: 2016-11-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1611/S00588/crime-continues-to-rise.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/30/crime-continues-to-rise/index.html
+layout: layout.njk
 ---
 Crime continues to rise
 =======================

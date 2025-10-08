@@ -1,9 +1,13 @@
 ---
 slug: external-exams-must-stay-as-core-of-qualifications
-title: "External exams must stay as core of qualifications"
-date: 2000-09-04
-source-url: https://www.scoop.co.nz/stories/PA0009/S00037/external-exams-must-stay-as-core-of-qualifications.htm
+title: External exams must stay as core of qualifications
+date: 2000-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00037/external-exams-must-stay-as-core-of-qualifications.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/09/04/external-exams-must-stay-as-core-of-qualifications/index.html
+layout: layout.njk
 ---
 External exams must stay as core of qualifications
 ==================================================

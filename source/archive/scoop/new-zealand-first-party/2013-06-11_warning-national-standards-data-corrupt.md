@@ -1,9 +1,12 @@
 ---
 slug: warning-national-standards-data-corrupt
-title: "Warning – National Standards Data Corrupt"
-date: 2013-06-11
-source-url: https://www.scoop.co.nz/stories/PA1306/S00154/warning-national-standards-data-corrupt.htm
+title: Warning – National Standards Data Corrupt
+date: 2013-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00154/warning-national-standards-data-corrupt.htm
 author: new-zealand-first-party
+permalink: /archive/2013/06/11/warning-national-standards-data-corrupt/index.html
+layout: layout.njk
 ---
 Warning – National Standards Data Corrupt
 =========================================

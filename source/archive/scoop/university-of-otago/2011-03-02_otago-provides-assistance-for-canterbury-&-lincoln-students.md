@@ -1,9 +1,12 @@
 ---
 slug: otago-provides-assistance-for-canterbury-&-lincoln-students
-title: "Otago Provides Assistance for Canterbury & Lincoln Students"
-date: 2011-03-02
-source-url: https://www.scoop.co.nz/stories/AK1103/S00114/otago-provides-assistance-for-canterbury-lincoln-students.htm
+title: Otago Provides Assistance for Canterbury & Lincoln Students
+date: 2011-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00114/otago-provides-assistance-for-canterbury-lincoln-students.htm
 author: university-of-otago
+permalink: /archive/2011/03/02/otago-provides-assistance-for-canterbury-/index.html
+layout: layout.njk
 ---
 Otago Provides Assistance for Canterbury & Lincoln Students
 ===========================================================

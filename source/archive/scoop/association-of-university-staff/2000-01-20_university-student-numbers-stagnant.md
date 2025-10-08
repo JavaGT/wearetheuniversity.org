@@ -1,9 +1,12 @@
 ---
 slug: university-student-numbers-stagnant
-title: "University student numbers stagnant"
-date: 2000-01-20
-source-url: https://www.scoop.co.nz/stories/ED0001/S00010/university-student-numbers-stagnant.htm
+title: University student numbers stagnant
+date: 2000-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0001/S00010/university-student-numbers-stagnant.htm
 author: association-of-university-staff
+permalink: /archive/2000/01/20/university-student-numbers-stagnant/index.html
+layout: layout.njk
 ---
 University student numbers stagnant
 ===================================

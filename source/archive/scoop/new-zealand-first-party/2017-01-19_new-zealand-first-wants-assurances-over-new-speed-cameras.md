@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-wants-assurances-over-new-speed-cameras
-title: "New Zealand First Wants Assurances Over New Speed Cameras"
-date: 2017-01-19
-source-url: https://www.scoop.co.nz/stories/PA1701/S00059/new-zealand-first-wants-assurances-over-new-speed-cameras.htm
+title: New Zealand First Wants Assurances Over New Speed Cameras
+date: 2017-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00059/new-zealand-first-wants-assurances-over-new-speed-cameras.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/01/19/new-zealand-first-wants-assurances-over-new-speed-cameras/index.html
+layout: layout.njk
 ---
 New Zealand First Wants Assurances Over New Speed Cameras
 =========================================================

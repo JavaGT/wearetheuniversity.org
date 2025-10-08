@@ -1,9 +1,11 @@
 ---
 slug: pete-hodgson-valedictory
-title: "Pete Hodgson – Valedictory"
-date: 2011-10-05
+title: Pete Hodgson – Valedictory
+date: 2011-10-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1110/S00074/pete-hodgson-valedictory.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/05/pete-hodgson-valedictory/index.html
+layout: layout.njk
 ---
 Pete Hodgson – Valedictory
 ==========================

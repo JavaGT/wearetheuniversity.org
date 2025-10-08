@@ -1,9 +1,12 @@
 ---
 slug: perfect-accessory-for-nervous-joggers
-title: "Perfect accessory for nervous joggers"
-date: 2007-09-20
-source-url: https://www.scoop.co.nz/stories/BU0709/S00376/perfect-accessory-for-nervous-joggers.htm
+title: Perfect accessory for nervous joggers
+date: 2007-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0709/S00376/perfect-accessory-for-nervous-joggers.htm
 author: university-of-waikato
+permalink: /archive/2007/09/20/perfect-accessory-for-nervous-joggers/index.html
+layout: layout.njk
 ---
 Perfect accessory for nervous joggers
 =====================================

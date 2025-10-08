@@ -1,9 +1,13 @@
 ---
 slug: national-seizes-control-of-auckland-council-plan-fast-track
-title: "National seizes control of Auckland Council plan fast-track"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/PA1212/S00091/national-seizes-control-of-auckland-council-plan-fast-track.htm
+title: National seizes control of Auckland Council plan fast-track
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00091/national-seizes-control-of-auckland-council-plan-fast-track.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/12/06/national-seizes-control-of-auckland-council-plan-fast-track/index.html
+layout: layout.njk
 ---
 National seizes control of Auckland Council plan fast-track
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: child-poverty-stats-show-need-for-action
-title: "Child Poverty Stats Show Need For Action"
-date: 2023-03-23
-source-url: https://www.scoop.co.nz/stories/PA2303/S00194/child-poverty-stats-show-need-for-action.htm
+title: Child Poverty Stats Show Need For Action
+date: 2023-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00194/child-poverty-stats-show-need-for-action.htm
 author: green-party
+permalink: /archive/2023/03/23/child-poverty-stats-show-need-for-action/index.html
+layout: layout.njk
 ---
 Child Poverty Stats Show Need For Action
 ========================================

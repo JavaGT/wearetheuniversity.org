@@ -1,9 +1,13 @@
 ---
 slug: health-campaign-needed-to-fight-childrens-dental-problems
-title: "Health Campaign Needed To Fight Children’s Dental Problems"
-date: 2013-01-24
-source-url: https://www.scoop.co.nz/stories/PA1301/S00088/health-campaign-needed-to-fight-childrens-dental-problems.htm
+title: Health Campaign Needed To Fight Children’s Dental Problems
+date: 2013-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00088/health-campaign-needed-to-fight-childrens-dental-problems.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/01/24/health-campaign-needed-to-fight-childrens-dental-problems/index.html
+layout: layout.njk
 ---
 Health Campaign Needed To Fight Children’s Dental Problems
 ==========================================================

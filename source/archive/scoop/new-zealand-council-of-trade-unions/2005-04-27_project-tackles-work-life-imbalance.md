@@ -1,9 +1,12 @@
 ---
 slug: project-tackles-work-life-imbalance
-title: "Project Tackles Work-Life Imbalance"
-date: 2005-04-27
-source-url: https://www.scoop.co.nz/stories/PO0504/S00298/project-tackles-work-life-imbalance.htm
+title: Project Tackles Work-Life Imbalance
+date: 2005-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00298/project-tackles-work-life-imbalance.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/04/27/project-tackles-work-life-imbalance/index.html
+layout: layout.njk
 ---
 Project Tackles Work-Life Imbalance
 ===================================

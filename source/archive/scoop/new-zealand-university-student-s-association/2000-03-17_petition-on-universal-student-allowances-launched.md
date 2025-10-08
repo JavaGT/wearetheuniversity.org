@@ -1,9 +1,13 @@
 ---
 slug: petition-on-universal-student-allowances-launched
-title: "Petition On Universal Student Allowances Launched"
-date: 2000-03-17
-source-url: https://www.scoop.co.nz/stories/PO0003/S00078/petition-on-universal-student-allowances-launched.htm
+title: Petition On Universal Student Allowances Launched
+date: 2000-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00078/petition-on-universal-student-allowances-launched.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2000/03/17/petition-on-universal-student-allowances-launched/index.html
+layout: layout.njk
 ---
 Petition On Universal Student Allowances Launched
 =================================================

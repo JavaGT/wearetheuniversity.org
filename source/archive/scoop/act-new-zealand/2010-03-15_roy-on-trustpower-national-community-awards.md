@@ -1,9 +1,12 @@
 ---
 slug: roy-on-trustpower-national-community-awards
-title: "Roy on TrustPower National Community Awards"
-date: 2010-03-15
-source-url: https://www.scoop.co.nz/stories/PA1003/S00193/roy-on-trustpower-national-community-awards.htm
+title: Roy on TrustPower National Community Awards
+date: 2010-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00193/roy-on-trustpower-national-community-awards.htm
 author: act-new-zealand
+permalink: /archive/2010/03/15/roy-on-trustpower-national-community-awards/index.html
+layout: layout.njk
 ---
 Roy on TrustPower National Community Awards
 ===========================================

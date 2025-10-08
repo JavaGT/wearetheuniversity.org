@@ -1,9 +1,12 @@
 ---
 slug: domestic-violence-and-mental-health
-title: "Domestic Violence And Mental Health"
-date: 2006-02-08
-source-url: https://www.scoop.co.nz/stories/ED0602/S00017/domestic-violence-and-mental-health.htm
+title: Domestic Violence And Mental Health
+date: 2006-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00017/domestic-violence-and-mental-health.htm
 author: university-of-otago
+permalink: /archive/2006/02/08/domestic-violence-and-mental-health/index.html
+layout: layout.njk
 ---
 Domestic Violence And Mental Health
 ===================================

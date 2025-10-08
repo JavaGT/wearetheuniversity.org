@@ -1,9 +1,12 @@
 ---
 slug: only-constant-is-hekias-waffle
-title: "Only Constant Is Hekia’s Waffle"
-date: 2013-06-11
-source-url: https://www.scoop.co.nz/stories/PA1306/S00164/only-constant-is-hekias-waffle.htm
+title: Only Constant Is Hekia’s Waffle
+date: 2013-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00164/only-constant-is-hekias-waffle.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/11/only-constant-is-hekias-waffle/index.html
+layout: layout.njk
 ---
 Only Constant Is Hekia’s Waffle
 ===============================

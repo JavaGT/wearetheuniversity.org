@@ -1,9 +1,13 @@
 ---
 slug: fees-free-does-nothing-to-lift-participation-from-low-income-groups
-title: "Fees-free Does Nothing To Lift Participation From Low-income Groups"
-date: 2024-02-22
-source-url: https://www.scoop.co.nz/stories/PA2402/S00067/fees-free-does-nothing-to-lift-participation-from-low-income-groups.htm
+title: Fees-free Does Nothing To Lift Participation From Low-income Groups
+date: 2024-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2402/S00067/fees-free-does-nothing-to-lift-participation-from-low-income-groups.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/02/22/fees-free-does-nothing-to-lift-participation-from-low-income-groups/index.html
+layout: layout.njk
 ---
 Fees-free Does Nothing To Lift Participation From Low-income Groups
 ===================================================================

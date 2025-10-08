@@ -1,9 +1,12 @@
 ---
 slug: student-diversity-upheld-at-otago
-title: "Student Diversity Upheld at Otago"
-date: 2004-08-19
-source-url: https://www.scoop.co.nz/stories/ED0408/S00083/student-diversity-upheld-at-otago.htm
+title: Student Diversity Upheld at Otago
+date: 2004-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00083/student-diversity-upheld-at-otago.htm
 author: student-choice
+permalink: /archive/2004/08/19/student-diversity-upheld-at-otago/index.html
+layout: layout.njk
 ---
 Student Diversity Upheld at Otago
 =================================

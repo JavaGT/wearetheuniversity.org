@@ -1,9 +1,12 @@
 ---
 slug: green-party-supports-living-wage
-title: "Green Party Supports Living Wage"
-date: 2013-02-14
-source-url: https://www.scoop.co.nz/stories/PA1302/S00174/green-party-supports-living-wage.htm
+title: Green Party Supports Living Wage
+date: 2013-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00174/green-party-supports-living-wage.htm
 author: green-party
+permalink: /archive/2013/02/14/green-party-supports-living-wage/index.html
+layout: layout.njk
 ---
 Green Party Supports Living Wage
 ================================

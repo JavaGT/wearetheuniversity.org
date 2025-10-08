@@ -1,9 +1,12 @@
 ---
 slug: flavell-new-approaches-to-youth-justice
-title: "Flavell: New approaches to youth justice"
-date: 2008-11-20
-source-url: https://www.scoop.co.nz/stories/PA0811/S00193/flavell-new-approaches-to-youth-justice.htm
+title: 'Flavell: New approaches to youth justice'
+date: 2008-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00193/flavell-new-approaches-to-youth-justice.htm
 author: te-pati-maori
+permalink: /archive/2008/11/20/flavell-new-approaches-to-youth-justice/index.html
+layout: layout.njk
 ---
 Flavell: New approaches to youth justice
 ========================================

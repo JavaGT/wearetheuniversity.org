@@ -1,9 +1,12 @@
 ---
 slug: distance-no-barrier-to-learning-at-waikato
-title: "Distance no barrier to learning at Waikato"
-date: 2009-06-02
-source-url: https://www.scoop.co.nz/stories/ED0906/S00005/distance-no-barrier-to-learning-at-waikato.htm
+title: Distance no barrier to learning at Waikato
+date: 2009-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00005/distance-no-barrier-to-learning-at-waikato.htm
 author: university-of-waikato
+permalink: /archive/2009/06/02/distance-no-barrier-to-learning-at-waikato/index.html
+layout: layout.njk
 ---
 Distance no barrier to learning at Waikato
 ==========================================

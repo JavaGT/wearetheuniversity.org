@@ -1,9 +1,12 @@
 ---
 slug: auckland-shows-benefits-of-rationalising-water
-title: "Auckland Shows Benefits of Rationalising Water"
-date: 2010-09-02
-source-url: https://www.scoop.co.nz/stories/BU1009/S00084/auckland-shows-benefits-of-rationalising-water.htm
+title: Auckland Shows Benefits of Rationalising Water
+date: 2010-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1009/S00084/auckland-shows-benefits-of-rationalising-water.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/09/02/auckland-shows-benefits-of-rationalising-water/index.html
+layout: layout.njk
 ---
 Auckland Shows Benefits of Rationalising Water
 ==============================================

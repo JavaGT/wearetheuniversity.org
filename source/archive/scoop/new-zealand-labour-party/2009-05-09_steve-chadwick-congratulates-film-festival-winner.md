@@ -1,9 +1,13 @@
 ---
 slug: steve-chadwick-congratulates-film-festival-winner
-title: "Steve Chadwick congratulates Film Festival winner"
-date: 2009-05-09
-source-url: https://www.scoop.co.nz/stories/CU0905/S00117/steve-chadwick-congratulates-film-festival-winner.htm
+title: Steve Chadwick congratulates Film Festival winner
+date: 2009-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00117/steve-chadwick-congratulates-film-festival-winner.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/05/09/steve-chadwick-congratulates-film-festival-winner/index.html
+layout: layout.njk
 ---
 Steve Chadwick congratulates Film Festival winner
 =================================================

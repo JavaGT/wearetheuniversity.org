@@ -1,9 +1,12 @@
 ---
-slug: unions-universities-welcome-extra-funding
-title: "Unions, universities welcome extra funding"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/ED0606/S00073/unions-universities-welcome-extra-funding.htm
+slug: unions-universities-welcome-extra-funding-2
+title: Unions, universities welcome extra funding
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00073/unions-universities-welcome-extra-funding.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/06/28/unions-universities-welcome-extra-funding-2/index.html
+layout: layout.njk
 ---
 Unions, universities welcome extra funding
 ==========================================

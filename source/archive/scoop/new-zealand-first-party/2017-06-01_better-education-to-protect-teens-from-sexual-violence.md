@@ -1,9 +1,13 @@
 ---
 slug: better-education-to-protect-teens-from-sexual-violence
-title: "Better Education to Protect Teens From Sexual Violence"
-date: 2017-06-01
-source-url: https://www.scoop.co.nz/stories/PA1706/S00006/better-education-to-protect-teens-from-sexual-violence.htm
+title: Better Education to Protect Teens From Sexual Violence
+date: 2017-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00006/better-education-to-protect-teens-from-sexual-violence.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/06/01/better-education-to-protect-teens-from-sexual-violence/index.html
+layout: layout.njk
 ---
 Better Education to Protect Teens From Sexual Violence
 ======================================================

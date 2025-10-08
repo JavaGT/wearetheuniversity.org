@@ -1,9 +1,12 @@
 ---
 slug: latin-america-&-spain-film-festival-on-campus
-title: "Latin America & Spain film festival on campus"
-date: 2018-09-04
-source-url: https://www.scoop.co.nz/stories/CU1809/S00055/latin-america-spain-film-festival-on-campus.htm
+title: Latin America & Spain film festival on campus
+date: 2018-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1809/S00055/latin-america-spain-film-festival-on-campus.htm
 author: massey-university
+permalink: /archive/2018/09/04/latin-america-/index.html
+layout: layout.njk
 ---
 Latin America & Spain film festival on campus
 =============================================

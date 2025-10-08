@@ -1,9 +1,12 @@
 ---
 slug: some-review-announcements-ignore-students-needs
-title: "Some Review Announcements Ignore Students Needs"
-date: 2004-02-10
-source-url: https://www.scoop.co.nz/stories/ED0402/S00016/some-review-announcements-ignore-students-needs.htm
+title: Some Review Announcements Ignore Students Needs
+date: 2004-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00016/some-review-announcements-ignore-students-needs.htm
 author: nzei
+permalink: /archive/2004/02/10/some-review-announcements-ignore-students-needs/index.html
+layout: layout.njk
 ---
 Some Review Announcements Ignore Students Needs
 ===============================================

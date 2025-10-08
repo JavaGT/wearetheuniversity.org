@@ -1,9 +1,13 @@
 ---
 slug: is-aucklands-mayor-backtracking-on-port-promises
-title: "Is Auckland’s Mayor Backtracking on Port Promises?"
-date: 2017-09-02
-source-url: https://www.scoop.co.nz/stories/PA1709/S00018/is-aucklands-mayor-backtracking-on-port-promises.htm
+title: Is Auckland’s Mayor Backtracking on Port Promises?
+date: 2017-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00018/is-aucklands-mayor-backtracking-on-port-promises.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/09/02/is-aucklands-mayor-backtracking-on-port-promises/index.html
+layout: layout.njk
 ---
 Is Auckland’s Mayor Backtracking on Port Promises?
 ==================================================

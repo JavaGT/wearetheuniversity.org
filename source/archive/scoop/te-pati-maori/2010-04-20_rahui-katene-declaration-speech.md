@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-declaration-speech
-title: "Rahui Katene: Declaration Speech"
-date: 2010-04-20
-source-url: https://www.scoop.co.nz/stories/PA1004/S00217/rahui-katene-declaration-speech.htm
+title: 'Rahui Katene: Declaration Speech'
+date: 2010-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00217/rahui-katene-declaration-speech.htm
 author: te-pati-maori
+permalink: /archive/2010/04/20/rahui-katene-declaration-speech/index.html
+layout: layout.njk
 ---
 Rahui Katene: Declaration Speech
 ================================

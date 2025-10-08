@@ -1,9 +1,12 @@
 ---
 slug: equity-index-welcome-but-needs-greater-funding
-title: "Equity Index welcome but needs greater funding"
-date: 2019-09-24
-source-url: https://www.scoop.co.nz/stories/ED1909/S00069/equity-index-welcome-but-needs-greater-funding.htm
+title: Equity Index welcome but needs greater funding
+date: 2019-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00069/equity-index-welcome-but-needs-greater-funding.htm
 author: nzei
+permalink: /archive/2019/09/24/equity-index-welcome-but-needs-greater-funding/index.html
+layout: layout.njk
 ---
 Equity Index welcome but needs greater funding
 ==============================================

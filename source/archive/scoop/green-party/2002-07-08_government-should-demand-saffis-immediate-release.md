@@ -1,9 +1,13 @@
 ---
 slug: government-should-demand-saffis-immediate-release
-title: "Government should demand Saffi's immediate release"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/PA0207/S00213/government-should-demand-saffis-immediate-release.htm
+title: Government should demand Saffi's immediate release
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00213/government-should-demand-saffis-immediate-release.htm
 author: green-party
+permalink: >-
+  /archive/2002/07/08/government-should-demand-saffis-immediate-release/index.html
+layout: layout.njk
 ---
 Government should demand Saffi's immediate release
 ==================================================

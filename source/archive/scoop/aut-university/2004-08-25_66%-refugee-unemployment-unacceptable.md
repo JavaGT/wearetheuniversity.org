@@ -1,9 +1,12 @@
 ---
 slug: 66%-refugee-unemployment-unacceptable
-title: "66% Refugee Unemployment Unacceptable"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/ED0408/S00108/66-refugee-unemployment-unacceptable.htm
+title: 66% Refugee Unemployment Unacceptable
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00108/66-refugee-unemployment-unacceptable.htm
 author: aut-university
+permalink: /archive/2004/08/25/66/index.html
+layout: layout.njk
 ---
 66% Refugee Unemployment Unacceptable
 =====================================

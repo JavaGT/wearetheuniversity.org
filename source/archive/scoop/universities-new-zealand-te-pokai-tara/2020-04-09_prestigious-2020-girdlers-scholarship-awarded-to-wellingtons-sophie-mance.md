@@ -1,9 +1,13 @@
 ---
 slug: prestigious-2020-girdlers-scholarship-awarded-to-wellingtons-sophie-mance
-title: "Prestigious 2020 Girdlers’ Scholarship Awarded To Wellington’s Sophie Mance"
-date: 2020-04-09
-source-url: https://www.scoop.co.nz/stories/ED2004/S00021/prestigious-2020-girdlers-scholarship-awarded-to-wellingtons-sophie-mance.htm
+title: Prestigious 2020 Girdlers’ Scholarship Awarded To Wellington’s Sophie Mance
+date: 2020-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2004/S00021/prestigious-2020-girdlers-scholarship-awarded-to-wellingtons-sophie-mance.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2020/04/09/prestigious-2020-girdlers-scholarship-awarded-to-wellingtons-sophie-mance/index.html
+layout: layout.njk
 ---
 Prestigious 2020 Girdlers’ Scholarship Awarded To Wellington’s Sophie Mance
 ===========================================================================

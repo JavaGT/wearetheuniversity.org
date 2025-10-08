@@ -1,9 +1,12 @@
 ---
 slug: cant-trust-the-government-on-car-tax
-title: "Can’t Trust The Government On Car Tax"
-date: 2020-02-24
-source-url: https://www.scoop.co.nz/stories/PA2002/S00148/cant-trust-the-government-on-car-tax.htm
+title: Can’t Trust The Government On Car Tax
+date: 2020-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00148/cant-trust-the-government-on-car-tax.htm
 author: new-zealand-national-party
+permalink: /archive/2020/02/24/cant-trust-the-government-on-car-tax/index.html
+layout: layout.njk
 ---
 Can’t Trust The Government On Car Tax
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: forget-about-a-free-trade-deal-with-the-us
-title: "Forget About A Free Trade Deal With The US"
-date: 2003-11-17
-source-url: https://www.scoop.co.nz/stories/ED0311/S00053/forget-about-a-free-trade-deal-with-the-us.htm
+title: Forget About A Free Trade Deal With The US
+date: 2003-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00053/forget-about-a-free-trade-deal-with-the-us.htm
 author: university-of-otago
+permalink: /archive/2003/11/17/forget-about-a-free-trade-deal-with-the-us/index.html
+layout: layout.njk
 ---
 Forget About A Free Trade Deal With The US
 ==========================================

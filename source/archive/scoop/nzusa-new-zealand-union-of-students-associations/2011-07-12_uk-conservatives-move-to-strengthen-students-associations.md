@@ -1,9 +1,13 @@
 ---
 slug: uk-conservatives-move-to-strengthen-students-associations
-title: "UK Conservatives Move to Strengthen Students’ Associations"
-date: 2011-07-12
-source-url: https://www.scoop.co.nz/stories/ED1107/S00042/uk-conservatives-move-to-strengthen-students-associations.htm
+title: UK Conservatives Move to Strengthen Students’ Associations
+date: 2011-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00042/uk-conservatives-move-to-strengthen-students-associations.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/07/12/uk-conservatives-move-to-strengthen-students-associations/index.html
+layout: layout.njk
 ---
 UK Conservatives Move to Strengthen Students’ Associations
 ==========================================================

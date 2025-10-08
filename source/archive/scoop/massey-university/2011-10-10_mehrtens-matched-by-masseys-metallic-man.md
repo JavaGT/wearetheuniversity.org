@@ -1,9 +1,12 @@
 ---
 slug: mehrtens-matched-by-masseys-metallic-man
-title: "Mehrtens matched by Massey’s metallic man"
-date: 2011-10-10
-source-url: https://www.scoop.co.nz/stories/ED1110/S00038/mehrtens-matched-by-masseys-metallic-man.htm
+title: Mehrtens matched by Massey’s metallic man
+date: 2011-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00038/mehrtens-matched-by-masseys-metallic-man.htm
 author: massey-university
+permalink: /archive/2011/10/10/mehrtens-matched-by-masseys-metallic-man/index.html
+layout: layout.njk
 ---
 Mehrtens matched by Massey’s metallic man
 =========================================

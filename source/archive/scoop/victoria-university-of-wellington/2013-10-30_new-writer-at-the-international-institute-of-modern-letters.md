@@ -1,9 +1,13 @@
 ---
 slug: new-writer-at-the-international-institute-of-modern-letters
-title: "New Writer at the International Institute of Modern Letters"
-date: 2013-10-30
-source-url: https://www.scoop.co.nz/stories/ED1310/S00188/new-writer-at-the-international-institute-of-modern-letters.htm
+title: New Writer at the International Institute of Modern Letters
+date: 2013-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00188/new-writer-at-the-international-institute-of-modern-letters.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/10/30/new-writer-at-the-international-institute-of-modern-letters/index.html
+layout: layout.njk
 ---
 New Writer at the International Institute of Modern Letters
 ===========================================================

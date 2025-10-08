@@ -1,9 +1,13 @@
 ---
 slug: minister-ignores-strike-affected-patients-plight
-title: "Minister ignores strike-affected patients plight"
-date: 2002-10-25
-source-url: https://www.scoop.co.nz/stories/PA0210/S00528/minister-ignores-strike-affected-patients-plight.htm
+title: Minister ignores strike-affected patients plight
+date: 2002-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00528/minister-ignores-strike-affected-patients-plight.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/10/25/minister-ignores-strike-affected-patients-plight/index.html
+layout: layout.njk
 ---
 Minister ignores strike-affected patients plight
 ================================================

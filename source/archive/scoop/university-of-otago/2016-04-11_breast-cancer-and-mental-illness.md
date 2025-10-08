@@ -1,9 +1,12 @@
 ---
 slug: breast-cancer-and-mental-illness
-title: "Breast cancer and mental illness"
-date: 2016-04-11
-source-url: https://www.scoop.co.nz/stories/SC1604/S00020/breast-cancer-and-mental-illness.htm
+title: Breast cancer and mental illness
+date: 2016-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00020/breast-cancer-and-mental-illness.htm
 author: university-of-otago
+permalink: /archive/2016/04/11/breast-cancer-and-mental-illness/index.html
+layout: layout.njk
 ---
 Breast cancer and mental illness
 ================================

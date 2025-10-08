@@ -1,8 +1,12 @@
 ---
 slug: eight-seconds-that-changed-an-earthquake-engineers-life
-title: "Eight seconds that changed an earthquake engineer’s life"
-date: 2015-10-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/eight-seconds-that-changed-an-earthquake-engineers-life.html
+title: Eight seconds that changed an earthquake engineer’s life
+date: 2015-10-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/eight-seconds-that-changed-an-earthquake-engineers-life.html
+permalink: >-
+  /archive/2015/10/27/eight-seconds-that-changed-an-earthquake-engineers-life/index.html
+layout: layout.njk
 ---
 Eight seconds that changed an earthquake engineer’s life
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: english-challenged-on-tertiary-education-investment
-title: "English challenged on tertiary education investment"
-date: 2012-02-23
-source-url: https://www.scoop.co.nz/stories/ED1202/S00109/english-challenged-on-tertiary-education-investment.htm
+title: English challenged on tertiary education investment
+date: 2012-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00109/english-challenged-on-tertiary-education-investment.htm
 author: massey-university
+permalink: >-
+  /archive/2012/02/23/english-challenged-on-tertiary-education-investment/index.html
+layout: layout.njk
 ---
 English challenged on tertiary education investment
 ===================================================

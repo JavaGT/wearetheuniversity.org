@@ -1,9 +1,12 @@
 ---
 slug: breaking-up-is-hard-to-do-study-seeks-views
-title: "Breaking up is hard to do – study seeks views"
-date: 2004-03-12
-source-url: https://www.scoop.co.nz/stories/ED0403/S00049/breaking-up-is-hard-to-do-study-seeks-views.htm
+title: Breaking up is hard to do – study seeks views
+date: 2004-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00049/breaking-up-is-hard-to-do-study-seeks-views.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/12/breaking-up-is-hard-to-do-study-seeks-views/index.html
+layout: layout.njk
 ---
 Breaking up is hard to do – study seeks views
 =============================================

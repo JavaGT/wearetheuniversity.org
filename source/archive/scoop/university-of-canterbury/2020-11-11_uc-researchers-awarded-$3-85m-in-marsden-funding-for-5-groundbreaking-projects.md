@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-awarded-$3-85m-in-marsden-funding-for-5-groundbreaking-projects
-title: "UC Researchers Awarded $3.85m In Marsden Funding For 5 Groundbreaking Projects"
-date: 2020-11-11
-source-url: https://www.scoop.co.nz/stories/ED2011/S00024/uc-researchers-awarded-385m-in-marsden-funding-for-5-groundbreaking-projects.htm
+title: UC Researchers Awarded $3.85m In Marsden Funding For 5 Groundbreaking Projects
+date: 2020-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00024/uc-researchers-awarded-385m-in-marsden-funding-for-5-groundbreaking-projects.htm
 author: university-of-canterbury
+permalink: /archive/2020/11/11/uc-researchers-awarded-/index.html
+layout: layout.njk
 ---
 UC Researchers Awarded $3.85m In Marsden Funding For 5 Groundbreaking Projects
 ==============================================================================

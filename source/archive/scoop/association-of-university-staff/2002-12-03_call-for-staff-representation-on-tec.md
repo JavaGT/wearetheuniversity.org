@@ -1,9 +1,12 @@
 ---
 slug: call-for-staff-representation-on-tec
-title: "Call for Staff Representation on TEC"
-date: 2002-12-03
-source-url: https://www.scoop.co.nz/stories/ED0212/S00003/call-for-staff-representation-on-tec.htm
+title: Call for Staff Representation on TEC
+date: 2002-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00003/call-for-staff-representation-on-tec.htm
 author: association-of-university-staff
+permalink: /archive/2002/12/03/call-for-staff-representation-on-tec/index.html
+layout: layout.njk
 ---
 Call for Staff Representation on TEC
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: lets-get-wellington-moving-absolutely-positively-must-go
-title: "Let’s Get Wellington Moving Absolutely Positively Must Go"
-date: 2023-06-29
-source-url: https://www.scoop.co.nz/stories/PA2306/S00199/lets-get-wellington-moving-absolutely-positively-must-go.htm
+title: Let’s Get Wellington Moving Absolutely Positively Must Go
+date: 2023-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00199/lets-get-wellington-moving-absolutely-positively-must-go.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/06/29/lets-get-wellington-moving-absolutely-positively-must-go/index.html
+layout: layout.njk
 ---
 Let’s Get Wellington Moving Absolutely Positively Must Go
 =========================================================

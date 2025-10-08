@@ -1,9 +1,12 @@
 ---
 slug: speech-parana-park-rahui-katene
-title: "Speech: Parana Park - Rahui Katene"
-date: 2011-02-17
-source-url: https://www.scoop.co.nz/stories/PA1102/S00249/speech-parana-park-rahui-katene.htm
+title: 'Speech: Parana Park - Rahui Katene'
+date: 2011-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00249/speech-parana-park-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2011/02/17/speech-parana-park-rahui-katene/index.html
+layout: layout.njk
 ---
 Speech: Parana Park - Rahui Katene
 ==================================

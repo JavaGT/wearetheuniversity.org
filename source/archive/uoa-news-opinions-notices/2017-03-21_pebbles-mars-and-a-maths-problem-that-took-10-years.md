@@ -1,8 +1,12 @@
 ---
 slug: pebbles-mars-and-a-maths-problem-that-took-10-years
-title: "Pebbles, Mars and a maths problem that took 10 years"
-date: 2017-03-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/pebbles-mars-and-a-maths-problem-that-took-10-years.html
+title: Pebbles, Mars and a maths problem that took 10 years
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/pebbles-mars-and-a-maths-problem-that-took-10-years.html
+permalink: >-
+  /archive/2017/03/21/pebbles-mars-and-a-maths-problem-that-took-10-years/index.html
+layout: layout.njk
 ---
 Pebbles, Mars and a maths problem that took 10 years
 ====================================================

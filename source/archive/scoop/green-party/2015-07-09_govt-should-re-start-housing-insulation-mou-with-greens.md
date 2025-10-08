@@ -1,9 +1,13 @@
 ---
 slug: govt-should-re-start-housing-insulation-mou-with-greens
-title: "Govt should re-start housing insulation MoU with Greens"
-date: 2015-07-09
-source-url: https://www.scoop.co.nz/stories/PA1507/S00168/govt-should-re-start-housing-insulation-mou-with-greens.htm
+title: Govt should re-start housing insulation MoU with Greens
+date: 2015-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00168/govt-should-re-start-housing-insulation-mou-with-greens.htm
 author: green-party
+permalink: >-
+  /archive/2015/07/09/govt-should-re-start-housing-insulation-mou-with-greens/index.html
+layout: layout.njk
 ---
 Govt should re-start housing insulation MoU with Greens
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: meeting-the-health-needs-in-rural-communities
-title: "Meeting the health needs in rural communities"
-date: 2018-04-20
-source-url: https://www.scoop.co.nz/stories/GE1804/S00071/meeting-the-health-needs-in-rural-communities.htm
+title: Meeting the health needs in rural communities
+date: 2018-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1804/S00071/meeting-the-health-needs-in-rural-communities.htm
 author: massey-university
+permalink: /archive/2018/04/20/meeting-the-health-needs-in-rural-communities/index.html
+layout: layout.njk
 ---
 Meeting the health needs in rural communities
 =============================================

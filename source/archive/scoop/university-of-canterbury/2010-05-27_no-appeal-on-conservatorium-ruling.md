@@ -1,9 +1,12 @@
 ---
 slug: no-appeal-on-conservatorium-ruling
-title: "No appeal on Conservatorium ruling"
-date: 2010-05-27
-source-url: https://www.scoop.co.nz/stories/ED1005/S00126/no-appeal-on-conservatorium-ruling.htm
+title: No appeal on Conservatorium ruling
+date: 2010-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00126/no-appeal-on-conservatorium-ruling.htm
 author: university-of-canterbury
+permalink: /archive/2010/05/27/no-appeal-on-conservatorium-ruling/index.html
+layout: layout.njk
 ---
 No appeal on Conservatorium ruling
 ==================================

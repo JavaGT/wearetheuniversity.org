@@ -1,9 +1,12 @@
 ---
 slug: bulk-funding-support-staff-doesnt-work
-title: "Bulk Funding Support Staff Doesn't Work"
-date: 2005-06-15
-source-url: https://www.scoop.co.nz/stories/ED0506/S00038/bulk-funding-support-staff-doesnt-work.htm
+title: Bulk Funding Support Staff Doesn't Work
+date: 2005-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00038/bulk-funding-support-staff-doesnt-work.htm
 author: nzei
+permalink: /archive/2005/06/15/bulk-funding-support-staff-doesnt-work/index.html
+layout: layout.njk
 ---
 Bulk Funding Support Staff Doesn't Work
 =======================================

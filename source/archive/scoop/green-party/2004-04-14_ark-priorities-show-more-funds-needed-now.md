@@ -1,9 +1,12 @@
 ---
 slug: ark-priorities-show-more-funds-needed-now
-title: "Ark priorities show more funds needed now"
-date: 2004-04-14
-source-url: https://www.scoop.co.nz/stories/PA0404/S00202/ark-priorities-show-more-funds-needed-now.htm
+title: Ark priorities show more funds needed now
+date: 2004-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00202/ark-priorities-show-more-funds-needed-now.htm
 author: green-party
+permalink: /archive/2004/04/14/ark-priorities-show-more-funds-needed-now/index.html
+layout: layout.njk
 ---
 Ark priorities show more funds needed now
 =========================================

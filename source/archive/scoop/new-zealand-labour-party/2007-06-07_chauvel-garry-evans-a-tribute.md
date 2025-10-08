@@ -1,9 +1,12 @@
 ---
 slug: chauvel-garry-evans-a-tribute
-title: "Chauvel - Garry Evans: A Tribute"
-date: 2007-06-07
-source-url: https://www.scoop.co.nz/stories/PA0706/S00115/chauvel-garry-evans-a-tribute.htm
+title: 'Chauvel - Garry Evans: A Tribute'
+date: 2007-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00115/chauvel-garry-evans-a-tribute.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/06/07/chauvel-garry-evans-a-tribute/index.html
+layout: layout.njk
 ---
 Chauvel - Garry Evans: A Tribute
 ================================

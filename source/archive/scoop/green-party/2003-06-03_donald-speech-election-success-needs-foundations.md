@@ -1,9 +1,13 @@
 ---
 slug: donald-speech-election-success-needs-foundations
-title: "Donald Speech Election success needs foundations"
-date: 2003-06-03
-source-url: https://www.scoop.co.nz/stories/PA0306/S00002/donald-speech-election-success-needs-foundations.htm
+title: Donald Speech Election success needs foundations
+date: 2003-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00002/donald-speech-election-success-needs-foundations.htm
 author: green-party
+permalink: >-
+  /archive/2003/06/03/donald-speech-election-success-needs-foundations/index.html
+layout: layout.njk
 ---
 Donald Speech Election success needs foundations
 ================================================

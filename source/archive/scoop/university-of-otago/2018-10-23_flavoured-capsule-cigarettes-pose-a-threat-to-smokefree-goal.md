@@ -1,9 +1,13 @@
 ---
 slug: flavoured-capsule-cigarettes-pose-a-threat-to-smokefree-goal
-title: "Flavoured capsule cigarettes pose a threat to smokefree goal"
-date: 2018-10-23
-source-url: https://www.scoop.co.nz/stories/GE1810/S00100/flavoured-capsule-cigarettes-pose-a-threat-to-smokefree-goal.htm
+title: Flavoured capsule cigarettes pose a threat to smokefree goal
+date: 2018-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00100/flavoured-capsule-cigarettes-pose-a-threat-to-smokefree-goal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/23/flavoured-capsule-cigarettes-pose-a-threat-to-smokefree-goal/index.html
+layout: layout.njk
 ---
 Flavoured capsule cigarettes pose a threat to smokefree goal
 ============================================================

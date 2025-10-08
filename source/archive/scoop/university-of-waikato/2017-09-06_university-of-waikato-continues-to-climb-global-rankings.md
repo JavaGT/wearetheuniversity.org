@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-continues-to-climb-global-rankings
-title: "University of Waikato Continues to Climb Global Rankings"
-date: 2017-09-06
-source-url: https://www.scoop.co.nz/stories/ED1709/S00020/university-of-waikato-continues-to-climb-global-rankings.htm
+title: University of Waikato Continues to Climb Global Rankings
+date: 2017-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00020/university-of-waikato-continues-to-climb-global-rankings.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/09/06/university-of-waikato-continues-to-climb-global-rankings/index.html
+layout: layout.njk
 ---
 University of Waikato Continues to Climb Global Rankings
 ========================================================

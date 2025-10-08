@@ -1,9 +1,12 @@
 ---
 slug: student-jobs-continue-to-decline-in-otago
-title: "Student Jobs Continue to Decline in Otago"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/ED1306/S00032/student-jobs-continue-to-decline-in-otago.htm
+title: Student Jobs Continue to Decline in Otago
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00032/student-jobs-continue-to-decline-in-otago.htm
 author: otago-university-students-association
+permalink: /archive/2013/06/06/student-jobs-continue-to-decline-in-otago/index.html
+layout: layout.njk
 ---
 Student Jobs Continue to Decline in Otago
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: national-getting-auckland-moving
-title: "National: getting Auckland moving"
-date: 2011-10-29
-source-url: https://www.scoop.co.nz/stories/PA1110/S00466/national-getting-auckland-moving.htm
+title: 'National: getting Auckland moving'
+date: 2011-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00466/national-getting-auckland-moving.htm
 author: new-zealand-national-party
+permalink: /archive/2011/10/29/national-getting-auckland-moving/index.html
+layout: layout.njk
 ---
 National: getting Auckland moving
 =================================

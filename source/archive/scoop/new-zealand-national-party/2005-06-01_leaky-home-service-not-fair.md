@@ -1,9 +1,11 @@
 ---
 slug: leaky-home-service-not-fair
-title: "Leaky home service not fair"
-date: 2005-06-01
+title: Leaky home service not fair
+date: 2005-06-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0506/S00006/leaky-home-service-not-fair.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/01/leaky-home-service-not-fair/index.html
+layout: layout.njk
 ---
 Leaky home service not fair
 ===========================

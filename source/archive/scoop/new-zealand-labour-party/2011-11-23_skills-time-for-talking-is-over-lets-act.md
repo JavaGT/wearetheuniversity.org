@@ -1,9 +1,12 @@
 ---
 slug: skills-time-for-talking-is-over-lets-act
-title: "Skills: Time for talking is over, let’s act"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/PA1111/S00471/skills-time-for-talking-is-over-lets-act.htm
+title: 'Skills: Time for talking is over, let’s act'
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00471/skills-time-for-talking-is-over-lets-act.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/23/skills-time-for-talking-is-over-lets-act/index.html
+layout: layout.njk
 ---
 Skills: Time for talking is over, let’s act
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: new-health-sciences-degree-for-2013
-title: "New Health Sciences degree for 2013"
-date: 2012-08-07
-source-url: https://www.scoop.co.nz/stories/ED1208/S00044/new-health-sciences-degree-for-2013.htm
+title: New Health Sciences degree for 2013
+date: 2012-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00044/new-health-sciences-degree-for-2013.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/07/new-health-sciences-degree-for-2013/index.html
+layout: layout.njk
 ---
 New Health Sciences degree for 2013
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: subsidised-dental-scheme-a-key-highlight
-title: "Subsidised dental scheme a key highlight"
-date: 2013-12-15
-source-url: https://www.scoop.co.nz/stories/ED1312/S00097/subsidised-dental-scheme-a-key-highlight.htm
+title: Subsidised dental scheme a key highlight
+date: 2013-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00097/subsidised-dental-scheme-a-key-highlight.htm
 author: university-of-canterbury
+permalink: /archive/2013/12/15/subsidised-dental-scheme-a-key-highlight/index.html
+layout: layout.njk
 ---
 Subsidised dental scheme a key highlight
 ========================================

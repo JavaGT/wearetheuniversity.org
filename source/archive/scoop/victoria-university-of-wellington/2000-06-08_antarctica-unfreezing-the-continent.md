@@ -1,9 +1,12 @@
 ---
 slug: antarctica-unfreezing-the-continent
-title: "Antarctica: unfreezing the continent"
-date: 2000-06-08
-source-url: https://www.scoop.co.nz/stories/SC0006/S00002/antarctica-unfreezing-the-continent.htm
+title: 'Antarctica: unfreezing the continent'
+date: 2000-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0006/S00002/antarctica-unfreezing-the-continent.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/06/08/antarctica-unfreezing-the-continent/index.html
+layout: layout.njk
 ---
 Antarctica: unfreezing the continent
 ====================================

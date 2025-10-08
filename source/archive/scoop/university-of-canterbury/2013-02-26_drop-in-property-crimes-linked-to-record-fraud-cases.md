@@ -1,9 +1,13 @@
 ---
 slug: drop-in-property-crimes-linked-to-record-fraud-cases
-title: "Drop in property crimes linked to record fraud cases"
-date: 2013-02-26
-source-url: https://www.scoop.co.nz/stories/PO1302/S00254/drop-in-property-crimes-linked-to-record-fraud-cases.htm
+title: Drop in property crimes linked to record fraud cases
+date: 2013-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00254/drop-in-property-crimes-linked-to-record-fraud-cases.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/26/drop-in-property-crimes-linked-to-record-fraud-cases/index.html
+layout: layout.njk
 ---
 Drop in property crimes linked to record fraud cases
 ====================================================

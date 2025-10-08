@@ -1,9 +1,12 @@
 ---
 slug: basin-reserve-flyover-modelling-flawed
-title: "Basin Reserve flyover modelling flawed"
-date: 2014-02-03
-source-url: https://www.scoop.co.nz/stories/PA1402/S00006/basin-reserve-flyover-modelling-flawed.htm
+title: Basin Reserve flyover modelling flawed
+date: 2014-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00006/basin-reserve-flyover-modelling-flawed.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/03/basin-reserve-flyover-modelling-flawed/index.html
+layout: layout.njk
 ---
 Basin Reserve flyover modelling flawed
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: waikato-hospital-forced-to-divert-ambulances
-title: "Waikato Hospital Forced To Divert Ambulances"
-date: 2023-05-30
-source-url: https://www.scoop.co.nz/stories/PA2305/S00228/waikato-hospital-forced-to-divert-ambulances.htm
+title: Waikato Hospital Forced To Divert Ambulances
+date: 2023-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00228/waikato-hospital-forced-to-divert-ambulances.htm
 author: new-zealand-national-party
+permalink: /archive/2023/05/30/waikato-hospital-forced-to-divert-ambulances/index.html
+layout: layout.njk
 ---
 Waikato Hospital Forced To Divert Ambulances
 ============================================

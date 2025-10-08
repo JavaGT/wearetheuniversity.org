@@ -1,9 +1,13 @@
 ---
 slug: government-must-urgently-prioritise-truancy-crisis
-title: "Government Must Urgently Prioritise Truancy Crisis"
-date: 2021-07-30
-source-url: https://www.scoop.co.nz/stories/PA2107/S00232/government-must-urgently-prioritise-truancy-crisis.htm
+title: Government Must Urgently Prioritise Truancy Crisis
+date: 2021-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00232/government-must-urgently-prioritise-truancy-crisis.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/07/30/government-must-urgently-prioritise-truancy-crisis/index.html
+layout: layout.njk
 ---
 Government Must Urgently Prioritise Truancy Crisis
 ==================================================

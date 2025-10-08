@@ -1,9 +1,13 @@
 ---
 slug: rudolphs-glowing-nose-explained-by-science-in-fun-video
-title: "Rudolph’s glowing nose explained by science in fun video"
-date: 2014-11-28
-source-url: https://www.scoop.co.nz/stories/SC1411/S00082/rudolphs-glowing-nose-explained-by-science-in-fun-video.htm
+title: Rudolph’s glowing nose explained by science in fun video
+date: 2014-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00082/rudolphs-glowing-nose-explained-by-science-in-fun-video.htm
 author: aut-university
+permalink: >-
+  /archive/2014/11/28/rudolphs-glowing-nose-explained-by-science-in-fun-video/index.html
+layout: layout.njk
 ---
 Rudolph’s glowing nose explained by science in fun video
 ========================================================

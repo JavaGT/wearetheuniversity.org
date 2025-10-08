@@ -1,9 +1,13 @@
 ---
 slug: rethink-needed-on-water-allocation-in-new-zealand
-title: "Rethink needed on water allocation in New Zealand"
-date: 2012-02-03
-source-url: https://www.scoop.co.nz/stories/SC1202/S00007/rethink-needed-on-water-allocation-in-new-zealand.htm
+title: Rethink needed on water allocation in New Zealand
+date: 2012-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1202/S00007/rethink-needed-on-water-allocation-in-new-zealand.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/02/03/rethink-needed-on-water-allocation-in-new-zealand/index.html
+layout: layout.njk
 ---
 Rethink needed on water allocation in New Zealand
 =================================================

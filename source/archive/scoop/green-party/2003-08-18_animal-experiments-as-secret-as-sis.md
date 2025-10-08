@@ -1,9 +1,12 @@
 ---
 slug: animal-experiments-as-secret-as-sis
-title: "Animal experiments as secret as SIS"
-date: 2003-08-18
-source-url: https://www.scoop.co.nz/stories/PA0308/S00346/animal-experiments-as-secret-as-sis.htm
+title: Animal experiments as secret as SIS
+date: 2003-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00346/animal-experiments-as-secret-as-sis.htm
 author: green-party
+permalink: /archive/2003/08/18/animal-experiments-as-secret-as-sis/index.html
+layout: layout.njk
 ---
 Animal experiments as secret as SIS
 ===================================

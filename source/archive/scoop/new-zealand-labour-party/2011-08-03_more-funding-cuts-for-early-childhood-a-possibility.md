@@ -1,9 +1,13 @@
 ---
 slug: more-funding-cuts-for-early-childhood-a-possibility
-title: "More funding cuts for early childhood a possibility"
-date: 2011-08-03
-source-url: https://www.scoop.co.nz/stories/PA1108/S00071/more-funding-cuts-for-early-childhood-a-possibility.htm
+title: More funding cuts for early childhood a possibility
+date: 2011-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00071/more-funding-cuts-for-early-childhood-a-possibility.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/08/03/more-funding-cuts-for-early-childhood-a-possibility/index.html
+layout: layout.njk
 ---
 More funding cuts for early childhood a possibility
 ===================================================

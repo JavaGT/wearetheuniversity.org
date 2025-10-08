@@ -1,9 +1,12 @@
 ---
 slug: hodgson-the-absentee-minister
-title: "Hodgson the absentee Minister"
-date: 2000-11-23
-source-url: https://www.scoop.co.nz/stories/PA0011/S00430/hodgson-the-absentee-minister.htm
+title: Hodgson the absentee Minister
+date: 2000-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00430/hodgson-the-absentee-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/23/hodgson-the-absentee-minister/index.html
+layout: layout.njk
 ---
 Hodgson the absentee Minister
 =============================

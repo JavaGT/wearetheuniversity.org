@@ -1,9 +1,13 @@
 ---
 slug: study-points-to-long-term-recall-of-very-early-experience
-title: "Study points to long-term recall of very early experience"
-date: 2011-12-22
-source-url: https://www.scoop.co.nz/stories/SC1112/S00050/study-points-to-long-term-recall-of-very-early-experience.htm
+title: Study points to long-term recall of very early experience
+date: 2011-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1112/S00050/study-points-to-long-term-recall-of-very-early-experience.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/12/22/study-points-to-long-term-recall-of-very-early-experience/index.html
+layout: layout.njk
 ---
 Study points to long-term recall of very early experience
 =========================================================

@@ -1,9 +1,11 @@
 ---
 slug: two-clarks-for-labour
-title: "Two Clarks for Labour"
-date: 2010-11-30
+title: Two Clarks for Labour
+date: 2010-11-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1011/S00325/two-clarks-for-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/30/two-clarks-for-labour/index.html
+layout: layout.njk
 ---
 Two Clarks for Labour
 =====================

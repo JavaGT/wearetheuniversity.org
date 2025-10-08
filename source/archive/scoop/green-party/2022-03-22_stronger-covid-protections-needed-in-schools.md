@@ -1,9 +1,12 @@
 ---
 slug: stronger-covid-protections-needed-in-schools
-title: "Stronger COVID Protections Needed In Schools"
-date: 2022-03-22
-source-url: https://www.scoop.co.nz/stories/PA2203/S00181/stronger-covid-protections-needed-in-schools.htm
+title: Stronger COVID Protections Needed In Schools
+date: 2022-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00181/stronger-covid-protections-needed-in-schools.htm
 author: green-party
+permalink: /archive/2022/03/22/stronger-covid-protections-needed-in-schools/index.html
+layout: layout.njk
 ---
 Stronger COVID Protections Needed In Schools
 ============================================

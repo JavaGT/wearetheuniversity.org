@@ -1,9 +1,12 @@
 ---
 slug: hipkins-must-explain-school-funding-hypocrisy
-title: "Hipkins Must Explain School Funding Hypocrisy"
-date: 2020-08-27
-source-url: https://www.scoop.co.nz/stories/PA2008/S00207/hipkins-must-explain-school-funding-hypocrisy.htm
+title: Hipkins Must Explain School Funding Hypocrisy
+date: 2020-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00207/hipkins-must-explain-school-funding-hypocrisy.htm
 author: new-zealand-national-party
+permalink: /archive/2020/08/27/hipkins-must-explain-school-funding-hypocrisy/index.html
+layout: layout.njk
 ---
 Hipkins Must Explain School Funding Hypocrisy
 =============================================

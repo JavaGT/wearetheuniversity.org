@@ -1,9 +1,12 @@
 ---
 slug: education-standards-reach-new-low
-title: "Education standards reach new low"
-date: 2004-12-23
-source-url: https://www.scoop.co.nz/stories/PA0412/S00583/education-standards-reach-new-low.htm
+title: Education standards reach new low
+date: 2004-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00583/education-standards-reach-new-low.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/23/education-standards-reach-new-low/index.html
+layout: layout.njk
 ---
 Education standards reach new low
 =================================

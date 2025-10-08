@@ -1,9 +1,13 @@
 ---
 slug: violent-offenders-note-from-mum-shows-absurdity-of-cultural-reports
-title: "Violent Offender’s Note From Mum Shows Absurdity Of Cultural Reports"
-date: 2023-12-16
-source-url: https://www.scoop.co.nz/stories/PA2312/S00056/violent-offenders-note-from-mum-shows-absurdity-of-cultural-reports.htm
+title: Violent Offender’s Note From Mum Shows Absurdity Of Cultural Reports
+date: 2023-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2312/S00056/violent-offenders-note-from-mum-shows-absurdity-of-cultural-reports.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/12/16/violent-offenders-note-from-mum-shows-absurdity-of-cultural-reports/index.html
+layout: layout.njk
 ---
 Violent Offender’s Note From Mum Shows Absurdity Of Cultural Reports
 ====================================================================

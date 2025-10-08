@@ -1,8 +1,11 @@
 ---
 slug: condolences-for-earthquake-victims-in-nepal
-title: "Condolences for earthquake victims in Nepal"
-date: 2015-04-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/condolences-for-earthquake-victims-in-nepal.html
+title: Condolences for earthquake victims in Nepal
+date: 2015-04-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/condolences-for-earthquake-victims-in-nepal.html
+permalink: /archive/2015/04/30/condolences-for-earthquake-victims-in-nepal/index.html
+layout: layout.njk
 ---
 Condolences for earthquake victims in Nepal
 ===========================================

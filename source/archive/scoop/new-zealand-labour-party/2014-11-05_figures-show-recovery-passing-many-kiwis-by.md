@@ -1,9 +1,12 @@
 ---
 slug: figures-show-recovery-passing-many-kiwis-by
-title: "Figures show recovery passing many Kiwis by"
-date: 2014-11-05
-source-url: https://www.scoop.co.nz/stories/PA1411/S00060/figures-show-recovery-passing-many-kiwis-by.htm
+title: Figures show recovery passing many Kiwis by
+date: 2014-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00060/figures-show-recovery-passing-many-kiwis-by.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/05/figures-show-recovery-passing-many-kiwis-by/index.html
+layout: layout.njk
 ---
 Figures show recovery passing many Kiwis by
 ===========================================

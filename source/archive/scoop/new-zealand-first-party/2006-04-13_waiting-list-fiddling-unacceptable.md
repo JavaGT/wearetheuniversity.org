@@ -1,9 +1,12 @@
 ---
 slug: waiting-list-fiddling-unacceptable
-title: "Waiting List Fiddling Unacceptable"
-date: 2006-04-13
-source-url: https://www.scoop.co.nz/stories/PA0604/S00268/waiting-list-fiddling-unacceptable.htm
+title: Waiting List Fiddling Unacceptable
+date: 2006-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00268/waiting-list-fiddling-unacceptable.htm
 author: new-zealand-first-party
+permalink: /archive/2006/04/13/waiting-list-fiddling-unacceptable/index.html
+layout: layout.njk
 ---
 Waiting List Fiddling Unacceptable
 ==================================

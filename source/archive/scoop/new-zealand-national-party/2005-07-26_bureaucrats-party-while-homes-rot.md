@@ -1,9 +1,12 @@
 ---
 slug: bureaucrats-party-while-homes-rot
-title: "Bureaucrats party while homes rot"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/PA0507/S00569/bureaucrats-party-while-homes-rot.htm
+title: Bureaucrats party while homes rot
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00569/bureaucrats-party-while-homes-rot.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/26/bureaucrats-party-while-homes-rot/index.html
+layout: layout.njk
 ---
 Bureaucrats party while homes rot
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: promoting-physically-active-children-in-car-dependent-nz
-title: "Promoting physically active children in car-dependent NZ"
-date: 2014-04-24
-source-url: https://www.scoop.co.nz/stories/ED1404/S00080/promoting-physically-active-children-in-car-dependent-nz.htm
+title: Promoting physically active children in car-dependent NZ
+date: 2014-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00080/promoting-physically-active-children-in-car-dependent-nz.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/24/promoting-physically-active-children-in-car-dependent-nz/index.html
+layout: layout.njk
 ---
 Promoting physically active children in car-dependent NZ
 ========================================================

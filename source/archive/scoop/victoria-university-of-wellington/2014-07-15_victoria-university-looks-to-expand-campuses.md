@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-looks-to-expand-campuses
-title: "Victoria University looks to expand campuses"
-date: 2014-07-15
-source-url: https://www.scoop.co.nz/stories/ED1407/S00077/victoria-university-looks-to-expand-campuses.htm
+title: Victoria University looks to expand campuses
+date: 2014-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00077/victoria-university-looks-to-expand-campuses.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/15/victoria-university-looks-to-expand-campuses/index.html
+layout: layout.njk
 ---
 Victoria University looks to expand campuses
 ============================================

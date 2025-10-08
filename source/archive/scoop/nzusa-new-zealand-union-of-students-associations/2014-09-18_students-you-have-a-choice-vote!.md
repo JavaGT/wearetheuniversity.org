@@ -1,9 +1,12 @@
 ---
 slug: students-you-have-a-choice-vote!
-title: "Students, You Have a Choice, Vote!"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/PO1409/S00419/students-you-have-a-choice-vote.htm
+title: Students, You Have a Choice, Vote!
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00419/students-you-have-a-choice-vote.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/09/18/students-you-have-a-choice-vote/index.html
+layout: layout.njk
 ---
 Students, You Have a Choice, Vote!
 ==================================

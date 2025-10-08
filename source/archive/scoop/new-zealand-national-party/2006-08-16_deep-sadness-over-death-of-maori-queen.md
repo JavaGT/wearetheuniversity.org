@@ -1,9 +1,12 @@
 ---
 slug: deep-sadness-over-death-of-maori-queen
-title: "Deep sadness over death of Maori Queen"
-date: 2006-08-16
-source-url: https://www.scoop.co.nz/stories/PA0608/S00253/deep-sadness-over-death-of-maori-queen.htm
+title: Deep sadness over death of Maori Queen
+date: 2006-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00253/deep-sadness-over-death-of-maori-queen.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/16/deep-sadness-over-death-of-maori-queen/index.html
+layout: layout.njk
 ---
 Deep sadness over death of Maori Queen
 ======================================

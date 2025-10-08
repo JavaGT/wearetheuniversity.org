@@ -1,9 +1,13 @@
 ---
 slug: vanity-motorway-projects-not-answer-to-auckland-transport
-title: "Vanity motorway projects not answer to Auckland transport"
-date: 2013-06-28
-source-url: https://www.scoop.co.nz/stories/PA1306/S00470/vanity-motorway-projects-not-answer-to-auckland-transport.htm
+title: Vanity motorway projects not answer to Auckland transport
+date: 2013-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00470/vanity-motorway-projects-not-answer-to-auckland-transport.htm
 author: green-party
+permalink: >-
+  /archive/2013/06/28/vanity-motorway-projects-not-answer-to-auckland-transport/index.html
+layout: layout.njk
 ---
 Vanity motorway projects not answer to Auckland transport
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: smaller-twin-girls-greater-risk-of-adult-obesity
-title: "Smaller twin girls, greater risk of adult obesity"
-date: 2009-07-27
-source-url: https://www.scoop.co.nz/stories/SC0907/S00048/smaller-twin-girls-greater-risk-of-adult-obesity.htm
+title: Smaller twin girls, greater risk of adult obesity
+date: 2009-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0907/S00048/smaller-twin-girls-greater-risk-of-adult-obesity.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/07/27/smaller-twin-girls-greater-risk-of-adult-obesity/index.html
+layout: layout.njk
 ---
 Smaller twin girls, greater risk of adult obesity
 =================================================

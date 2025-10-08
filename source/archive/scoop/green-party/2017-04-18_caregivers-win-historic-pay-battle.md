@@ -1,9 +1,12 @@
 ---
 slug: caregivers-win-historic-pay-battle
-title: "Caregivers win historic pay battle"
-date: 2017-04-18
-source-url: https://www.scoop.co.nz/stories/PA1704/S00204/caregivers-win-historic-pay-battle.htm
+title: Caregivers win historic pay battle
+date: 2017-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00204/caregivers-win-historic-pay-battle.htm
 author: green-party
+permalink: /archive/2017/04/18/caregivers-win-historic-pay-battle/index.html
+layout: layout.njk
 ---
 Caregivers win historic pay battle
 ==================================

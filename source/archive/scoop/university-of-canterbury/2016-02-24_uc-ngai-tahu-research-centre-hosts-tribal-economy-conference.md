@@ -1,9 +1,13 @@
 ---
 slug: uc-ngai-tahu-research-centre-hosts-tribal-economy-conference
-title: "UC Ngai Tahu Research Centre hosts Tribal Economy Conference"
-date: 2016-02-24
-source-url: https://www.scoop.co.nz/stories/ED1602/S00074/uc-ngai-tahu-research-centre-hosts-tribal-economy-conference.htm
+title: UC Ngai Tahu Research Centre hosts Tribal Economy Conference
+date: 2016-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00074/uc-ngai-tahu-research-centre-hosts-tribal-economy-conference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/02/24/uc-ngai-tahu-research-centre-hosts-tribal-economy-conference/index.html
+layout: layout.njk
 ---
 UC Ngai Tahu Research Centre hosts Tribal Economy Conference
 ============================================================

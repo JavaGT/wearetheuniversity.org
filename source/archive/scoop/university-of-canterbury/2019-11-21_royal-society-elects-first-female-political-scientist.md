@@ -1,9 +1,13 @@
 ---
 slug: royal-society-elects-first-female-political-scientist
-title: "Royal Society elects first female political scientist"
-date: 2019-11-21
-source-url: https://www.scoop.co.nz/stories/ED1911/S00055/royal-society-elects-first-female-political-scientist.htm
+title: Royal Society elects first female political scientist
+date: 2019-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00055/royal-society-elects-first-female-political-scientist.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/11/21/royal-society-elects-first-female-political-scientist/index.html
+layout: layout.njk
 ---
 Royal Society elects first female political scientist
 =====================================================

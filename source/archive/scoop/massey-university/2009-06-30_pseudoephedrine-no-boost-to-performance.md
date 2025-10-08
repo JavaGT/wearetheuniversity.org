@@ -1,9 +1,12 @@
 ---
 slug: pseudoephedrine-no-boost-to-performance
-title: "Pseudoephedrine no boost to performance"
-date: 2009-06-30
-source-url: https://www.scoop.co.nz/stories/SC0906/S00042/pseudoephedrine-no-boost-to-performance.htm
+title: Pseudoephedrine no boost to performance
+date: 2009-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0906/S00042/pseudoephedrine-no-boost-to-performance.htm
 author: massey-university
+permalink: /archive/2009/06/30/pseudoephedrine-no-boost-to-performance/index.html
+layout: layout.njk
 ---
 Pseudoephedrine no boost to performance
 =======================================

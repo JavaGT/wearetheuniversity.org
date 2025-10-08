@@ -1,9 +1,12 @@
 ---
 slug: nurses-workforce-study-launched
-title: "Nurses workforce study launched"
-date: 2006-04-05
-source-url: https://www.scoop.co.nz/stories/GE0604/S00019/nurses-workforce-study-launched.htm
+title: Nurses workforce study launched
+date: 2006-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0604/S00019/nurses-workforce-study-launched.htm
 author: massey-university
+permalink: /archive/2006/04/05/nurses-workforce-study-launched/index.html
+layout: layout.njk
 ---
 Nurses workforce study launched
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: cullen-address-to-bell-gully-leaders-series
-title: "Cullen:  Address to Bell Gully Leaders Series"
-date: 2005-08-16
-source-url: https://www.scoop.co.nz/stories/PA0508/S00418/cullen-address-to-bell-gully-leaders-series.htm
+title: 'Cullen:  Address to Bell Gully Leaders Series'
+date: 2005-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00418/cullen-address-to-bell-gully-leaders-series.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/16/cullen-address-to-bell-gully-leaders-series/index.html
+layout: layout.njk
 ---
 Cullen: Address to Bell Gully Leaders Series
 ============================================

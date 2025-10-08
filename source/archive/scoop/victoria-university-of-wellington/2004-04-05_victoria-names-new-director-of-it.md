@@ -1,9 +1,12 @@
 ---
 slug: victoria-names-new-director-of-it
-title: "Victoria names new director of IT"
-date: 2004-04-05
-source-url: https://www.scoop.co.nz/stories/ED0404/S00012/victoria-names-new-director-of-it.htm
+title: Victoria names new director of IT
+date: 2004-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00012/victoria-names-new-director-of-it.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/04/05/victoria-names-new-director-of-it/index.html
+layout: layout.njk
 ---
 Victoria names new director of IT
 =================================

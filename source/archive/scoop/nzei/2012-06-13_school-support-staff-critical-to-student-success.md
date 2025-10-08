@@ -1,9 +1,13 @@
 ---
 slug: school-support-staff-critical-to-student-success
-title: "School Support Staff critical to student success"
-date: 2012-06-13
-source-url: https://www.scoop.co.nz/stories/ED1206/S00052/school-support-staff-critical-to-student-success.htm
+title: School Support Staff critical to student success
+date: 2012-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00052/school-support-staff-critical-to-student-success.htm
 author: nzei
+permalink: >-
+  /archive/2012/06/13/school-support-staff-critical-to-student-success/index.html
+layout: layout.njk
 ---
 School Support Staff critical to student success
 ================================================

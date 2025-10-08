@@ -1,9 +1,15 @@
 ---
-slug: sva-&-new-world-bringing-back-grocery-delivery-service-to-support-those-in-need
-title: "SVA & New World Bringing Back Grocery Delivery Service To Support Those In Need"
-date: 2021-03-01
-source-url: https://www.scoop.co.nz/stories/AK2103/S00029/sva-new-world-bringing-back-grocery-delivery-service-to-support-those-in-need.htm
+slug: >-
+  sva-&-new-world-bringing-back-grocery-delivery-service-to-support-those-in-need
+title: >-
+  SVA & New World Bringing Back Grocery Delivery Service To Support Those In
+  Need
+date: 2021-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2103/S00029/sva-new-world-bringing-back-grocery-delivery-service-to-support-those-in-need.htm
 author: student-volunteer-army
+permalink: /archive/2021/03/01/sva-/index.html
+layout: layout.njk
 ---
 SVA & New World Bringing Back Grocery Delivery Service To Support Those In Need
 ===============================================================================

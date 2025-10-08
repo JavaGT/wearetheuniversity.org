@@ -1,9 +1,12 @@
 ---
 slug: appropriation-bill-hone-harawira
-title: "Appropriation  Bill - Hone Harawira"
-date: 2010-08-04
-source-url: https://www.scoop.co.nz/stories/PA1008/S00050/appropriation-bill-hone-harawira.htm
+title: Appropriation  Bill - Hone Harawira
+date: 2010-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00050/appropriation-bill-hone-harawira.htm
 author: te-pati-maori
+permalink: /archive/2010/08/04/appropriation-bill-hone-harawira/index.html
+layout: layout.njk
 ---
 Appropriation Bill - Hone Harawira
 ==================================

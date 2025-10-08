@@ -1,9 +1,16 @@
 ---
-slug: jane-campion-requests-her-film-be-withdrawn-from-apartheid-israels-jerusalem-film-festival
-title: "Jane Campion requests her film be withdrawn from apartheid Israel’s Jerusalem Film Festival"
-date: 2023-07-23
-source-url: https://www.scoop.co.nz/stories/PO2307/S00147/jane-campion-requests-her-film-be-withdrawn-from-apartheid-israels-jerusalem-film-festival.htm
+slug: >-
+  jane-campion-requests-her-film-be-withdrawn-from-apartheid-israels-jerusalem-film-festival
+title: >-
+  Jane Campion requests her film be withdrawn from apartheid Israel’s Jerusalem
+  Film Festival
+date: 2023-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00147/jane-campion-requests-her-film-be-withdrawn-from-apartheid-israels-jerusalem-film-festival.htm
 author: palestine-solidarity-network-aotearoa
+permalink: >-
+  /archive/2023/07/23/jane-campion-requests-her-film-be-withdrawn-from-apartheid-israels-jerusalem-film-festival/index.html
+layout: layout.njk
 ---
 Jane Campion requests her film be withdrawn from apartheid Israel’s Jerusalem Film Festival
 ===========================================================================================

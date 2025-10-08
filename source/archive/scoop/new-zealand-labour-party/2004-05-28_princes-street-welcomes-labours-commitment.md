@@ -1,9 +1,12 @@
 ---
 slug: princes-street-welcomes-labours-commitment
-title: "Princes Street Welcomes Labour’s Commitment"
-date: 2004-05-28
-source-url: https://www.scoop.co.nz/stories/PO0405/S00312/princes-street-welcomes-labours-commitment.htm
+title: Princes Street Welcomes Labour’s Commitment
+date: 2004-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00312/princes-street-welcomes-labours-commitment.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/05/28/princes-street-welcomes-labours-commitment/index.html
+layout: layout.njk
 ---
 Princes Street Welcomes Labour’s Commitment
 ===========================================

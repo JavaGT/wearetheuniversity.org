@@ -1,9 +1,13 @@
 ---
 slug: government-invests-in-tools-for-better-broadband-performance
-title: "Government Invests In Tools For Better Broadband Performance"
-date: 2012-08-23
-source-url: https://www.scoop.co.nz/stories/SC1208/S00062/government-invests-in-tools-for-better-broadband-performance.htm
+title: Government Invests In Tools For Better Broadband Performance
+date: 2012-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00062/government-invests-in-tools-for-better-broadband-performance.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/08/23/government-invests-in-tools-for-better-broadband-performance/index.html
+layout: layout.njk
 ---
 Government Invests In Tools For Better Broadband Performance
 ============================================================

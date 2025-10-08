@@ -1,9 +1,12 @@
 ---
 slug: top-sporting-honours-at-university-blues-awards
-title: "Top sporting honours at University Blues awards"
-date: 2003-10-30
-source-url: https://www.scoop.co.nz/stories/ED0310/S00120/top-sporting-honours-at-university-blues-awards.htm
+title: Top sporting honours at University Blues awards
+date: 2003-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00120/top-sporting-honours-at-university-blues-awards.htm
 author: aut-university
+permalink: /archive/2003/10/30/top-sporting-honours-at-university-blues-awards/index.html
+layout: layout.njk
 ---
 Top sporting honours at University Blues awards
 ===============================================

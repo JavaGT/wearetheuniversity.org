@@ -1,9 +1,12 @@
 ---
 slug: hide-hopes-pm-can-spit-out-a-thank-you
-title: "Hide hopes PM can spit out a ‘thank you’"
-date: 2005-01-05
-source-url: https://www.scoop.co.nz/stories/PA0501/S00016/hide-hopes-pm-can-spit-out-a-thank-you.htm
+title: Hide hopes PM can spit out a ‘thank you’
+date: 2005-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00016/hide-hopes-pm-can-spit-out-a-thank-you.htm
 author: act-new-zealand
+permalink: /archive/2005/01/05/hide-hopes-pm-can-spit-out-a-thank-you/index.html
+layout: layout.njk
 ---
 Hide hopes PM can spit out a ‘thank you’
 ========================================

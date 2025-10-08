@@ -1,9 +1,13 @@
 ---
 slug: people-with-disabilities-most-adversely-affected-in-crises
-title: "People with disabilities most adversely affected in crises"
-date: 2014-04-14
-source-url: https://www.scoop.co.nz/stories/PO1404/S00199/people-with-disabilities-most-adversely-affected-in-crises.htm
+title: People with disabilities most adversely affected in crises
+date: 2014-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00199/people-with-disabilities-most-adversely-affected-in-crises.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/14/people-with-disabilities-most-adversely-affected-in-crises/index.html
+layout: layout.njk
 ---
 People with disabilities most adversely affected in crises
 ==========================================================

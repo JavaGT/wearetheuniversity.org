@@ -1,9 +1,12 @@
 ---
 slug: race-relations-speech-richard-prebble
-title: "\"RACE RELATIONS\"  - Speech -- Richard Prebble"
-date: 2000-09-28
-source-url: https://www.scoop.co.nz/stories/PA0009/S00451/race-relations-speech-richard-prebble.htm
+title: '"RACE RELATIONS"  - Speech -- Richard Prebble'
+date: 2000-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00451/race-relations-speech-richard-prebble.htm
 author: act-new-zealand
+permalink: /archive/2000/09/28/race-relations-speech-richard-prebble/index.html
+layout: layout.njk
 ---
 "RACE RELATIONS" - Speech -- Richard Prebble
 ============================================

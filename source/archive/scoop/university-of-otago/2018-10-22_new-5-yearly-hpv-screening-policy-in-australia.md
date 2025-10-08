@@ -1,9 +1,12 @@
 ---
 slug: new-5-yearly-hpv-screening-policy-in-australia
-title: "New 5-yearly HPV screening policy in Australia"
-date: 2018-10-22
-source-url: https://www.scoop.co.nz/stories/GE1810/S00099/new-5-yearly-hpv-screening-policy-in-australia.htm
+title: New 5-yearly HPV screening policy in Australia
+date: 2018-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00099/new-5-yearly-hpv-screening-policy-in-australia.htm
 author: university-of-otago
+permalink: /archive/2018/10/22/new-5-yearly-hpv-screening-policy-in-australia/index.html
+layout: layout.njk
 ---
 New 5-yearly HPV screening policy in Australia
 ==============================================

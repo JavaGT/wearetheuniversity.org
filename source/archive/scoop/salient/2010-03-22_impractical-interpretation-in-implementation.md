@@ -1,9 +1,12 @@
 ---
 slug: impractical-interpretation-in-implementation
-title: "Impractical interpretation in implementation"
-date: 2010-03-22
-source-url: https://www.scoop.co.nz/stories/ED1003/S00097/impractical-interpretation-in-implementation.htm
+title: Impractical interpretation in implementation
+date: 2010-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00097/impractical-interpretation-in-implementation.htm
 author: salient
+permalink: /archive/2010/03/22/impractical-interpretation-in-implementation/index.html
+layout: layout.njk
 ---
 Impractical interpretation in implementation
 ============================================

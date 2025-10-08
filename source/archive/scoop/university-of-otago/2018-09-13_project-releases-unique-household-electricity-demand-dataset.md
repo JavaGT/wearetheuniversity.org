@@ -1,9 +1,13 @@
 ---
 slug: project-releases-unique-household-electricity-demand-dataset
-title: "Project releases unique household electricity demand dataset"
-date: 2018-09-13
-source-url: https://www.scoop.co.nz/stories/ED1809/S00033/project-releases-unique-household-electricity-demand-dataset.htm
+title: Project releases unique household electricity demand dataset
+date: 2018-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00033/project-releases-unique-household-electricity-demand-dataset.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/13/project-releases-unique-household-electricity-demand-dataset/index.html
+layout: layout.njk
 ---
 Project releases unique household electricity demand dataset
 ============================================================

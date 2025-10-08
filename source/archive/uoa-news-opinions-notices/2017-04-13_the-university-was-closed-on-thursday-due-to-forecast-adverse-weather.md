@@ -1,8 +1,12 @@
 ---
 slug: the-university-was-closed-on-thursday-due-to-forecast-adverse-weather
-title: "The University was closed on Thursday due to forecast adverse weather"
-date: 2017-04-13
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/04/university-closure.html
+title: The University was closed on Thursday due to forecast adverse weather
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/04/university-closure.html
+permalink: >-
+  /archive/2017/04/13/the-university-was-closed-on-thursday-due-to-forecast-adverse-weather/index.html
+layout: layout.njk
 ---
 The University was closed on Thursday due to forecast adverse weather
 =====================================================================

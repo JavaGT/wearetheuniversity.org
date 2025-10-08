@@ -1,9 +1,12 @@
 ---
 slug: no-celebration-on-te-pūkengas-third-birthday
-title: "No Celebration On Te Pūkenga's Third Birthday"
-date: 2023-04-01
-source-url: https://www.scoop.co.nz/stories/PA2304/S00001/no-celebration-on-te-pukengas-third-birthday.htm
+title: No Celebration On Te Pūkenga's Third Birthday
+date: 2023-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00001/no-celebration-on-te-pukengas-third-birthday.htm
 author: new-zealand-national-party
+permalink: /archive/2023/04/01/no-celebration-on-te-p/index.html
+layout: layout.njk
 ---
 No Celebration On Te Pūkenga's Third Birthday
 =============================================

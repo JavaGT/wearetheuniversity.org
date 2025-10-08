@@ -1,9 +1,12 @@
 ---
 slug: twice-as-many-fish-caught-as-industry-claimed
-title: "Twice as many fish caught as industry claimed"
-date: 2016-05-16
-source-url: https://www.scoop.co.nz/stories/PA1605/S00277/twice-as-many-fish-caught-as-industry-claimed.htm
+title: Twice as many fish caught as industry claimed
+date: 2016-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00277/twice-as-many-fish-caught-as-industry-claimed.htm
 author: green-party
+permalink: /archive/2016/05/16/twice-as-many-fish-caught-as-industry-claimed/index.html
+layout: layout.njk
 ---
 Twice as many fish caught as industry claimed
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-palmy-nth-showgrounds-act-repeal
-title: "Speech: Katene - Palmy Nth Showgrounds Act Repeal"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/PA0909/S00347/speech-katene-palmy-nth-showgrounds-act-repeal.htm
+title: 'Speech: Katene - Palmy Nth Showgrounds Act Repeal'
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00347/speech-katene-palmy-nth-showgrounds-act-repeal.htm
 author: te-pati-maori
+permalink: /archive/2009/09/24/speech-katene-palmy-nth-showgrounds-act-repeal/index.html
+layout: layout.njk
 ---
 Speech: Katene - Palmy Nth Showgrounds Act Repeal
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: academics-treaty-and-māori-content-in-history
-title: "Academics: Treaty and Māori Content in History"
-date: 2010-06-23
-source-url: https://www.scoop.co.nz/stories/ED1006/S00078/academics-treaty-and-maori-content-in-history.htm
+title: 'Academics: Treaty and Māori Content in History'
+date: 2010-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00078/academics-treaty-and-maori-content-in-history.htm
 author: university-of-canterbury
+permalink: /archive/2010/06/23/academics-treaty-and-m/index.html
+layout: layout.njk
 ---
 Academics: Treaty and Māori Content in History
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: millions-wasted-on-treaty-principles-bill
-title: "Millions Wasted On Treaty Principles Bill"
-date: 2024-09-12
-source-url: https://www.scoop.co.nz/stories/PO2409/S00001/millions-wasted-on-treaty-principles-bill.htm
+title: Millions Wasted On Treaty Principles Bill
+date: 2024-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2409/S00001/millions-wasted-on-treaty-principles-bill.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2024/09/12/millions-wasted-on-treaty-principles-bill/index.html
+layout: layout.njk
 ---
 Millions Wasted On Treaty Principles Bill
 =========================================

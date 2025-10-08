@@ -1,9 +1,12 @@
 ---
 slug: turei-address-in-reply-speech-21-october-2014
-title: "Turei: Address in reply speech, 21 October 2014"
-date: 2014-10-21
-source-url: https://www.scoop.co.nz/stories/PA1410/S00115/turei-address-in-reply-speech-21-october-2014.htm
+title: 'Turei: Address in reply speech, 21 October 2014'
+date: 2014-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00115/turei-address-in-reply-speech-21-october-2014.htm
 author: green-party
+permalink: /archive/2014/10/21/turei-address-in-reply-speech-21-october-2014/index.html
+layout: layout.njk
 ---
 Turei: Address in reply speech, 21 October 2014
 ===============================================

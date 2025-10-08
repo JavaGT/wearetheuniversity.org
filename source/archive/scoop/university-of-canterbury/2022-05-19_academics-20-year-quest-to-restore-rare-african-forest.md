@@ -1,9 +1,13 @@
 ---
 slug: academics-20-year-quest-to-restore-rare-african-forest
-title: "Academic’s 20-year Quest To Restore Rare African Forest"
-date: 2022-05-19
-source-url: https://www.scoop.co.nz/stories/BU2205/S00364/academics-20-year-quest-to-restore-rare-african-forest.htm
+title: Academic’s 20-year Quest To Restore Rare African Forest
+date: 2022-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2205/S00364/academics-20-year-quest-to-restore-rare-african-forest.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/19/academics-20-year-quest-to-restore-rare-african-forest/index.html
+layout: layout.njk
 ---
 Academic’s 20-year Quest To Restore Rare African Forest
 =======================================================

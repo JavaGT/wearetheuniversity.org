@@ -1,9 +1,12 @@
 ---
 slug: netherlands-university-signs-aut-partnership
-title: "Netherlands’ university signs AUT partnership"
-date: 2006-02-08
-source-url: https://www.scoop.co.nz/stories/ED0602/S00018/netherlands-university-signs-aut-partnership.htm
+title: Netherlands’ university signs AUT partnership
+date: 2006-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00018/netherlands-university-signs-aut-partnership.htm
 author: aut-university
+permalink: /archive/2006/02/08/netherlands-university-signs-aut-partnership/index.html
+layout: layout.njk
 ---
 Netherlands’ university signs AUT partnership
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: health-and-money-have-the-potential-to-collide
-title: "Health And Money Have The Potential To Collide"
-date: 2004-02-17
-source-url: https://www.scoop.co.nz/stories/ED0402/S00036/health-and-money-have-the-potential-to-collide.htm
+title: Health And Money Have The Potential To Collide
+date: 2004-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00036/health-and-money-have-the-potential-to-collide.htm
 author: university-of-otago
+permalink: /archive/2004/02/17/health-and-money-have-the-potential-to-collide/index.html
+layout: layout.njk
 ---
 Health And Money Have The Potential To Collide
 ==============================================

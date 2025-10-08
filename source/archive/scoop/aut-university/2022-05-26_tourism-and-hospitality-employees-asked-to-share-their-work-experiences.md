@@ -1,9 +1,13 @@
 ---
 slug: tourism-and-hospitality-employees-asked-to-share-their-work-experiences
-title: "Tourism And Hospitality Employees Asked To Share Their Work Experiences"
-date: 2022-05-26
-source-url: https://www.scoop.co.nz/stories/ED2205/S00053/tourism-and-hospitality-employees-asked-to-share-their-work-experiences.htm
+title: Tourism And Hospitality Employees Asked To Share Their Work Experiences
+date: 2022-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00053/tourism-and-hospitality-employees-asked-to-share-their-work-experiences.htm
 author: aut-university
+permalink: >-
+  /archive/2022/05/26/tourism-and-hospitality-employees-asked-to-share-their-work-experiences/index.html
+layout: layout.njk
 ---
 Tourism And Hospitality Employees Asked To Share Their Work Experiences
 =======================================================================

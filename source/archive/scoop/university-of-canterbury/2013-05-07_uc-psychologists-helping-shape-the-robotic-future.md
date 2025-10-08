@@ -1,9 +1,13 @@
 ---
 slug: uc-psychologists-helping-shape-the-robotic-future
-title: "UC Psychologists Helping Shape the Robotic Future"
-date: 2013-05-07
-source-url: https://www.scoop.co.nz/stories/SC1305/S00030/uc-psychologists-helping-shape-the-robotic-future.htm
+title: UC Psychologists Helping Shape the Robotic Future
+date: 2013-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00030/uc-psychologists-helping-shape-the-robotic-future.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/07/uc-psychologists-helping-shape-the-robotic-future/index.html
+layout: layout.njk
 ---
 UC Psychologists Helping Shape the Robotic Future
 =================================================

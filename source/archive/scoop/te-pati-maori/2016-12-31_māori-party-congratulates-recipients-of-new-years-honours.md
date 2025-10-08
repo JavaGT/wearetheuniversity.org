@@ -1,9 +1,12 @@
 ---
 slug: māori-party-congratulates-recipients-of-new-years-honours
-title: "Māori Party congratulates recipients of New Year’s Honours"
-date: 2016-12-31
-source-url: https://www.scoop.co.nz/stories/PA1612/S00372/maori-party-congratulates-recipients-of-new-years-honours.htm
+title: Māori Party congratulates recipients of New Year’s Honours
+date: 2016-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00372/maori-party-congratulates-recipients-of-new-years-honours.htm
 author: te-pati-maori
+permalink: /archive/2016/12/31/m/index.html
+layout: layout.njk
 ---
 Māori Party congratulates recipients of New Year’s Honours
 ==========================================================

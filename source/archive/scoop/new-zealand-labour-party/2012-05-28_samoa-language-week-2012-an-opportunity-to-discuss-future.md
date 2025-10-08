@@ -1,9 +1,13 @@
 ---
 slug: samoa-language-week-2012-an-opportunity-to-discuss-future
-title: "Samoa Language Week 2012 An Opportunity To Discuss Future"
-date: 2012-05-28
-source-url: https://www.scoop.co.nz/stories/PA1205/S00492/samoa-language-week-2012-an-opportunity-to-discuss-future.htm
+title: Samoa Language Week 2012 An Opportunity To Discuss Future
+date: 2012-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00492/samoa-language-week-2012-an-opportunity-to-discuss-future.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/05/28/samoa-language-week-2012-an-opportunity-to-discuss-future/index.html
+layout: layout.njk
 ---
 Samoa Language Week 2012 An Opportunity To Discuss Future
 =========================================================

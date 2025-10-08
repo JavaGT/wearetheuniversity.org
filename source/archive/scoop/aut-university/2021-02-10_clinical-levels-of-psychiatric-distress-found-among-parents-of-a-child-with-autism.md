@@ -1,9 +1,16 @@
 ---
-slug: clinical-levels-of-psychiatric-distress-found-among-parents-of-a-child-with-autism
-title: "Clinical Levels Of Psychiatric Distress Found Among Parents Of A Child With Autism"
-date: 2021-02-10
-source-url: https://www.scoop.co.nz/stories/GE2102/S00040/clinical-levels-of-psychiatric-distress-found-among-parents-of-a-child-with-autism.htm
+slug: >-
+  clinical-levels-of-psychiatric-distress-found-among-parents-of-a-child-with-autism
+title: >-
+  Clinical Levels Of Psychiatric Distress Found Among Parents Of A Child With
+  Autism
+date: 2021-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2102/S00040/clinical-levels-of-psychiatric-distress-found-among-parents-of-a-child-with-autism.htm
 author: aut-university
+permalink: >-
+  /archive/2021/02/10/clinical-levels-of-psychiatric-distress-found-among-parents-of-a-child-with-autism/index.html
+layout: layout.njk
 ---
 Clinical Levels Of Psychiatric Distress Found Among Parents Of A Child With Autism
 ==================================================================================

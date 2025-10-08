@@ -1,9 +1,13 @@
 ---
 slug: sugar-coated-education-budget-with-a-rotten-core
-title: "Sugar-coated education budget with a rotten core"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/ED1105/S00075/sugar-coated-education-budget-with-a-rotten-core.htm
+title: Sugar-coated education budget with a rotten core
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00075/sugar-coated-education-budget-with-a-rotten-core.htm
 author: nzei
+permalink: >-
+  /archive/2011/05/19/sugar-coated-education-budget-with-a-rotten-core/index.html
+layout: layout.njk
 ---
 Sugar-coated education budget with a rotten core
 ================================================

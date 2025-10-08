@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-no-week-for-politics
-title: "Heather Roy's Diary - No Week for Politics"
-date: 2011-02-25
-source-url: https://www.scoop.co.nz/stories/PA1102/S00392/heather-roys-diary-no-week-for-politics.htm
+title: Heather Roy's Diary - No Week for Politics
+date: 2011-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00392/heather-roys-diary-no-week-for-politics.htm
 author: act-new-zealand
+permalink: /archive/2011/02/25/heather-roys-diary-no-week-for-politics/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - No Week for Politics
 ==========================================

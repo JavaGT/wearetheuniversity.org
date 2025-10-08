@@ -1,9 +1,12 @@
 ---
 slug: pm-not-coming-clean-over-refugees
-title: "PM Not Coming Clean Over Refugees"
-date: 2001-09-26
-source-url: https://www.scoop.co.nz/stories/PA0109/S00424/pm-not-coming-clean-over-refugees.htm
+title: PM Not Coming Clean Over Refugees
+date: 2001-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00424/pm-not-coming-clean-over-refugees.htm
 author: new-zealand-first-party
+permalink: /archive/2001/09/26/pm-not-coming-clean-over-refugees/index.html
+layout: layout.njk
 ---
 PM Not Coming Clean Over Refugees
 =================================

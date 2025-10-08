@@ -1,8 +1,11 @@
 ---
 slug: kim-dotcom-documentary-in-itunes-top-ten
-title: "Kim Dotcom documentary in iTunes Top Ten"
-date: 2017-09-04
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/kim-dotcom-documentary-screens-in-film-festival.html
+title: Kim Dotcom documentary in iTunes Top Ten
+date: 2017-09-04T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/kim-dotcom-documentary-screens-in-film-festival.html
+permalink: /archive/2017/09/04/kim-dotcom-documentary-in-itunes-top-ten/index.html
+layout: layout.njk
 ---
 Kim Dotcom documentary in iTunes Top Ten
 ========================================

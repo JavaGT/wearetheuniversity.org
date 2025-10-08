@@ -1,9 +1,13 @@
 ---
 slug: feilding-school-using-children-as-political-pawns
-title: "Feilding School Using Children As Political Pawns"
-date: 2024-05-30
-source-url: https://www.scoop.co.nz/stories/PA2405/S00215/feilding-school-using-children-as-political-pawns.htm
+title: Feilding School Using Children As Political Pawns
+date: 2024-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00215/feilding-school-using-children-as-political-pawns.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/05/30/feilding-school-using-children-as-political-pawns/index.html
+layout: layout.njk
 ---
 Feilding School Using Children As Political Pawns
 =================================================

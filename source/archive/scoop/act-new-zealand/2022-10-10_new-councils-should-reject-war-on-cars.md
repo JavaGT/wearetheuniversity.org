@@ -1,9 +1,12 @@
 ---
 slug: new-councils-should-reject-war-on-cars
-title: "New Councils Should Reject War On Cars"
-date: 2022-10-10
-source-url: https://www.scoop.co.nz/stories/PA2210/S00056/new-councils-should-reject-war-on-cars.htm
+title: New Councils Should Reject War On Cars
+date: 2022-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00056/new-councils-should-reject-war-on-cars.htm
 author: act-new-zealand
+permalink: /archive/2022/10/10/new-councils-should-reject-war-on-cars/index.html
+layout: layout.njk
 ---
 New Councils Should Reject War On Cars
 ======================================

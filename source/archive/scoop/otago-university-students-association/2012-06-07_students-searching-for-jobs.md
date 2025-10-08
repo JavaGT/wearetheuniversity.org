@@ -1,9 +1,11 @@
 ---
 slug: students-searching-for-jobs
-title: "Students Searching for Jobs"
-date: 2012-06-07
+title: Students Searching for Jobs
+date: 2012-06-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1206/S00027/students-searching-for-jobs.htm
 author: otago-university-students-association
+permalink: /archive/2012/06/07/students-searching-for-jobs/index.html
+layout: layout.njk
 ---
 Students Searching for Jobs
 ===========================

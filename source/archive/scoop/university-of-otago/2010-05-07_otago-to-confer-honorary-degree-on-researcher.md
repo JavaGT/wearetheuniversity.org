@@ -1,9 +1,12 @@
 ---
 slug: otago-to-confer-honorary-degree-on-researcher
-title: "Otago to confer honorary degree on researcher"
-date: 2010-05-07
-source-url: https://www.scoop.co.nz/stories/ED1005/S00029/otago-to-confer-honorary-degree-on-researcher.htm
+title: Otago to confer honorary degree on researcher
+date: 2010-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00029/otago-to-confer-honorary-degree-on-researcher.htm
 author: university-of-otago
+permalink: /archive/2010/05/07/otago-to-confer-honorary-degree-on-researcher/index.html
+layout: layout.njk
 ---
 Otago to confer honorary degree on researcher
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: address-to-the-national-party-campaign-launch
-title: "Address to the National Party Campaign Launch"
-date: 2014-08-24
-source-url: https://www.scoop.co.nz/stories/PA1408/S00366/address-to-the-national-party-campaign-launch.htm
+title: Address to the National Party Campaign Launch
+date: 2014-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00366/address-to-the-national-party-campaign-launch.htm
 author: new-zealand-national-party
+permalink: /archive/2014/08/24/address-to-the-national-party-campaign-launch/index.html
+layout: layout.njk
 ---
 Address to the National Party Campaign Launch
 =============================================

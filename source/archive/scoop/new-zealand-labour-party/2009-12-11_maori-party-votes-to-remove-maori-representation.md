@@ -1,9 +1,13 @@
 ---
 slug: maori-party-votes-to-remove-maori-representation
-title: "Maori Party votes to remove Maori representation"
-date: 2009-12-11
-source-url: https://www.scoop.co.nz/stories/PA0912/S00185/maori-party-votes-to-remove-maori-representation.htm
+title: Maori Party votes to remove Maori representation
+date: 2009-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00185/maori-party-votes-to-remove-maori-representation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/12/11/maori-party-votes-to-remove-maori-representation/index.html
+layout: layout.njk
 ---
 Maori Party votes to remove Maori representation
 ================================================

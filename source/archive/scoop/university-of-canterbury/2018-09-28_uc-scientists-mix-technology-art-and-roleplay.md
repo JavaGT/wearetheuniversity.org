@@ -1,9 +1,12 @@
 ---
 slug: uc-scientists-mix-technology-art-and-roleplay
-title: "UC scientists mix technology, art and roleplay"
-date: 2018-09-28
-source-url: https://www.scoop.co.nz/stories/SC1809/S00047/uc-scientists-mix-technology-art-and-roleplay.htm
+title: UC scientists mix technology, art and roleplay
+date: 2018-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1809/S00047/uc-scientists-mix-technology-art-and-roleplay.htm
 author: university-of-canterbury
+permalink: /archive/2018/09/28/uc-scientists-mix-technology-art-and-roleplay/index.html
+layout: layout.njk
 ---
 UC scientists mix technology, art and roleplay
 ==============================================

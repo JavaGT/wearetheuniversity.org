@@ -1,9 +1,13 @@
 ---
 slug: 10-partnership-schools-get-a-reprieve-6-still-in-limbo
-title: "10 partnership schools get a reprieve, 6 still in limbo"
-date: 2017-12-06
-source-url: https://www.scoop.co.nz/stories/PA1712/S00052/10-partnership-schools-get-a-reprieve-6-still-in-limbo.htm
+title: 10 partnership schools get a reprieve, 6 still in limbo
+date: 2017-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00052/10-partnership-schools-get-a-reprieve-6-still-in-limbo.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/12/06/10-partnership-schools-get-a-reprieve-6-still-in-limbo/index.html
+layout: layout.njk
 ---
 10 partnership schools get a reprieve, 6 still in limbo
 =======================================================

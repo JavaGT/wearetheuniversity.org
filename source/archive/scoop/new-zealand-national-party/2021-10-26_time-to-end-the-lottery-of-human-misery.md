@@ -1,9 +1,12 @@
 ---
 slug: time-to-end-the-lottery-of-human-misery
-title: "Time To End The Lottery Of Human Misery"
-date: 2021-10-26
-source-url: https://www.scoop.co.nz/stories/PA2110/S00259/time-to-end-the-lottery-of-human-misery.htm
+title: Time To End The Lottery Of Human Misery
+date: 2021-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00259/time-to-end-the-lottery-of-human-misery.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/26/time-to-end-the-lottery-of-human-misery/index.html
+layout: layout.njk
 ---
 Time To End The Lottery Of Human Misery
 =======================================

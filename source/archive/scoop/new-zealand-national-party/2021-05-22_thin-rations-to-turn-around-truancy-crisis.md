@@ -1,9 +1,12 @@
 ---
 slug: thin-rations-to-turn-around-truancy-crisis
-title: "Thin Rations To Turn Around Truancy Crisis"
-date: 2021-05-22
-source-url: https://www.scoop.co.nz/stories/PA2105/S00202/thin-rations-to-turn-around-truancy-crisis.htm
+title: Thin Rations To Turn Around Truancy Crisis
+date: 2021-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00202/thin-rations-to-turn-around-truancy-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/22/thin-rations-to-turn-around-truancy-crisis/index.html
+layout: layout.njk
 ---
 Thin Rations To Turn Around Truancy Crisis
 ==========================================

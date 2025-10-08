@@ -1,9 +1,13 @@
 ---
 slug: new-tertiary-education-union-another-step-closer
-title: "New tertiary- education union another step closer"
-date: 2008-08-20
-source-url: https://www.scoop.co.nz/stories/ED0808/S00050/new-tertiary-education-union-another-step-closer.htm
+title: New tertiary- education union another step closer
+date: 2008-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00050/new-tertiary-education-union-another-step-closer.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2008/08/20/new-tertiary-education-union-another-step-closer/index.html
+layout: layout.njk
 ---
 New tertiary- education union another step closer
 =================================================

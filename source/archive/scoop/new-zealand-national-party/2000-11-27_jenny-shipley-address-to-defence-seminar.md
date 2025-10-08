@@ -1,9 +1,12 @@
 ---
 slug: jenny-shipley-address-to-defence-seminar
-title: "Jenny Shipley Address To Defence Seminar"
-date: 2000-11-27
-source-url: https://www.scoop.co.nz/stories/PA0011/S00468/jenny-shipley-address-to-defence-seminar.htm
+title: Jenny Shipley Address To Defence Seminar
+date: 2000-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00468/jenny-shipley-address-to-defence-seminar.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/27/jenny-shipley-address-to-defence-seminar/index.html
+layout: layout.njk
 ---
 Jenny Shipley Address To Defence Seminar
 ========================================

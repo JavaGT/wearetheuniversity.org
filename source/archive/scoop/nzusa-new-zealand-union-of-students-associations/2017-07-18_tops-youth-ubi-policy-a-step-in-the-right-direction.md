@@ -1,9 +1,13 @@
 ---
 slug: tops-youth-ubi-policy-a-step-in-the-right-direction
-title: "TOP’s youth UBI policy a step in the right direction"
-date: 2017-07-18
-source-url: https://www.scoop.co.nz/stories/PO1707/S00252/tops-youth-ubi-policy-a-step-in-the-right-direction.htm
+title: TOP’s youth UBI policy a step in the right direction
+date: 2017-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00252/tops-youth-ubi-policy-a-step-in-the-right-direction.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/07/18/tops-youth-ubi-policy-a-step-in-the-right-direction/index.html
+layout: layout.njk
 ---
 TOP’s youth UBI policy a step in the right direction
 ====================================================

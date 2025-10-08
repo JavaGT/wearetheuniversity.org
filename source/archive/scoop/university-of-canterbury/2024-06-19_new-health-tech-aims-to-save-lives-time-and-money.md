@@ -1,9 +1,13 @@
 ---
 slug: new-health-tech-aims-to-save-lives-time-and-money
-title: "New Health Tech Aims To Save Lives, Time And Money"
-date: 2024-06-19
-source-url: https://www.scoop.co.nz/stories/GE2406/S00086/new-health-tech-aims-to-save-lives-time-and-money.htm
+title: New Health Tech Aims To Save Lives, Time And Money
+date: 2024-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2406/S00086/new-health-tech-aims-to-save-lives-time-and-money.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/06/19/new-health-tech-aims-to-save-lives-time-and-money/index.html
+layout: layout.njk
 ---
 New Health Tech Aims To Save Lives, Time And Money
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: rally-today-for-a-debt-free-and-democratic-university
-title: "Rally Today For A Debt-Free And Democratic University"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/ED1310/S00010/rally-today-for-a-debt-free-and-democratic-university.htm
+title: Rally Today For A Debt-Free And Democratic University
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00010/rally-today-for-a-debt-free-and-democratic-university.htm
 author: ausa
+permalink: >-
+  /archive/2013/10/02/rally-today-for-a-debt-free-and-democratic-university/index.html
+layout: layout.njk
 ---
 Rally Today For A Debt-Free And Democratic University
 =====================================================

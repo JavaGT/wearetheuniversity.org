@@ -1,9 +1,13 @@
 ---
 slug: millions-of-reasons-for-northlanders-to-be-angry-peters
-title: "Millions of Reasons for Northlanders to Be Angry - Peters"
-date: 2017-03-02
-source-url: https://www.scoop.co.nz/stories/PA1703/S00033/millions-of-reasons-for-northlanders-to-be-angry-peters.htm
+title: Millions of Reasons for Northlanders to Be Angry - Peters
+date: 2017-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00033/millions-of-reasons-for-northlanders-to-be-angry-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/03/02/millions-of-reasons-for-northlanders-to-be-angry-peters/index.html
+layout: layout.njk
 ---
 Millions of Reasons for Northlanders to Be Angry - Peters
 =========================================================

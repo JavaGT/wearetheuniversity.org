@@ -1,9 +1,13 @@
 ---
 slug: new-climate-change-research-institute-for-victoria
-title: "New Climate Change Research Institute For Victoria"
-date: 2007-06-26
-source-url: https://www.scoop.co.nz/stories/ED0706/S00101/new-climate-change-research-institute-for-victoria.htm
+title: New Climate Change Research Institute For Victoria
+date: 2007-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00101/new-climate-change-research-institute-for-victoria.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/06/26/new-climate-change-research-institute-for-victoria/index.html
+layout: layout.njk
 ---
 New Climate Change Research Institute For Victoria
 ==================================================

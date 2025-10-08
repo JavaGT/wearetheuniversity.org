@@ -1,9 +1,13 @@
 ---
 slug: waikato-achieves-gold-standard-for-public-relations
-title: "Waikato achieves  gold standard for public relations"
-date: 2016-07-15
-source-url: https://www.scoop.co.nz/stories/BU1607/S00449/waikato-achieves-gold-standard-for-public-relations.htm
+title: Waikato achieves  gold standard for public relations
+date: 2016-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1607/S00449/waikato-achieves-gold-standard-for-public-relations.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/07/15/waikato-achieves-gold-standard-for-public-relations/index.html
+layout: layout.njk
 ---
 Waikato achieves gold standard for public relations
 ===================================================

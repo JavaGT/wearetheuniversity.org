@@ -1,9 +1,13 @@
 ---
 slug: exhibition-features-the-transformation-of-an-eastern-suburb
-title: "Exhibition features the transformation of an eastern suburb"
-date: 2013-08-13
-source-url: https://www.scoop.co.nz/stories/CU1308/S00192/exhibition-features-the-transformation-of-an-eastern-suburb.htm
+title: Exhibition features the transformation of an eastern suburb
+date: 2013-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1308/S00192/exhibition-features-the-transformation-of-an-eastern-suburb.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/13/exhibition-features-the-transformation-of-an-eastern-suburb/index.html
+layout: layout.njk
 ---
 Exhibition features the transformation of an eastern suburb
 ===========================================================

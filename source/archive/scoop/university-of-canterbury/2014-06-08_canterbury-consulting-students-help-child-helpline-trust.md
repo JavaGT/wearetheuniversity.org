@@ -1,9 +1,13 @@
 ---
 slug: canterbury-consulting-students-help-child-helpline-trust
-title: "Canterbury consulting students help Child Helpline Trust"
-date: 2014-06-08
-source-url: https://www.scoop.co.nz/stories/CU1406/S00084/canterbury-consulting-students-help-child-helpline-trust.htm
+title: Canterbury consulting students help Child Helpline Trust
+date: 2014-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00084/canterbury-consulting-students-help-child-helpline-trust.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/08/canterbury-consulting-students-help-child-helpline-trust/index.html
+layout: layout.njk
 ---
 Canterbury consulting students help Child Helpline Trust
 ========================================================

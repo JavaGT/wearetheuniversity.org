@@ -1,9 +1,12 @@
 ---
 slug: auckland-transport-spends-$71m-slowing-down-auckland
-title: "Auckland Transport Spends $71m Slowing Down Auckland"
-date: 2022-12-12
-source-url: https://www.scoop.co.nz/stories/PA2212/S00110/auckland-transport-spends-71m-slowing-down-auckland.htm
+title: Auckland Transport Spends $71m Slowing Down Auckland
+date: 2022-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00110/auckland-transport-spends-71m-slowing-down-auckland.htm
 author: act-new-zealand
+permalink: /archive/2022/12/12/auckland-transport-spends-/index.html
+layout: layout.njk
 ---
 Auckland Transport Spends $71m Slowing Down Auckland
 ====================================================

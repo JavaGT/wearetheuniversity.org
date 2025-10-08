@@ -1,9 +1,12 @@
 ---
 slug: meager-tertiary-concessions-fail-students-again
-title: "Meager tertiary concessions fail students again"
-date: 2008-05-23
-source-url: https://www.scoop.co.nz/stories/PA0805/S00456/meager-tertiary-concessions-fail-students-again.htm
+title: Meager tertiary concessions fail students again
+date: 2008-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00456/meager-tertiary-concessions-fail-students-again.htm
 author: green-party
+permalink: /archive/2008/05/23/meager-tertiary-concessions-fail-students-again/index.html
+layout: layout.njk
 ---
 Meager tertiary concessions fail students again
 ===============================================

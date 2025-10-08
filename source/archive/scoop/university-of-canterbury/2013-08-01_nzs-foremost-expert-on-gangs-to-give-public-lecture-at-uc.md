@@ -1,9 +1,13 @@
 ---
 slug: nzs-foremost-expert-on-gangs-to-give-public-lecture-at-uc
-title: "NZ's foremost expert on gangs to give public lecture at UC"
-date: 2013-08-01
-source-url: https://www.scoop.co.nz/stories/ED1308/S00001/nzs-foremost-expert-on-gangs-to-give-public-lecture-at-uc.htm
+title: NZ's foremost expert on gangs to give public lecture at UC
+date: 2013-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00001/nzs-foremost-expert-on-gangs-to-give-public-lecture-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/01/nzs-foremost-expert-on-gangs-to-give-public-lecture-at-uc/index.html
+layout: layout.njk
 ---
 NZ's foremost expert on gangs to give public lecture at UC
 ==========================================================

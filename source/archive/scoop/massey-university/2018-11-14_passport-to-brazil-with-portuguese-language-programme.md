@@ -1,9 +1,13 @@
 ---
 slug: passport-to-brazil-with-portuguese-language-programme
-title: "Passport to Brazil with Portuguese language programme"
-date: 2018-11-14
-source-url: https://www.scoop.co.nz/stories/ED1811/S00030/passport-to-brazil-with-portuguese-language-programme.htm
+title: Passport to Brazil with Portuguese language programme
+date: 2018-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1811/S00030/passport-to-brazil-with-portuguese-language-programme.htm
 author: massey-university
+permalink: >-
+  /archive/2018/11/14/passport-to-brazil-with-portuguese-language-programme/index.html
+layout: layout.njk
 ---
 Passport to Brazil with Portuguese language programme
 =====================================================

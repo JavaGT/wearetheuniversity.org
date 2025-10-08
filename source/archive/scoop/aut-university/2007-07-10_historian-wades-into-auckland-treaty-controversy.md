@@ -1,9 +1,13 @@
 ---
 slug: historian-wades-into-auckland-treaty-controversy
-title: "Historian Wades Into Auckland Treaty Controversy"
-date: 2007-07-10
-source-url: https://www.scoop.co.nz/stories/CU0707/S00107/historian-wades-into-auckland-treaty-controversy.htm
+title: Historian Wades Into Auckland Treaty Controversy
+date: 2007-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0707/S00107/historian-wades-into-auckland-treaty-controversy.htm
 author: aut-university
+permalink: >-
+  /archive/2007/07/10/historian-wades-into-auckland-treaty-controversy/index.html
+layout: layout.njk
 ---
 Historian Wades Into Auckland Treaty Controversy
 ================================================

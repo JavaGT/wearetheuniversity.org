@@ -1,9 +1,13 @@
 ---
 slug: wellington-start-up-in-top-three-at-paris-climate-conference
-title: "Wellington start-up in top three at Paris Climate Conference"
-date: 2015-12-21
-source-url: https://www.scoop.co.nz/stories/PO1512/S00299/wellington-start-up-in-top-three-at-paris-climate-conference.htm
+title: Wellington start-up in top three at Paris Climate Conference
+date: 2015-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1512/S00299/wellington-start-up-in-top-three-at-paris-climate-conference.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/12/21/wellington-start-up-in-top-three-at-paris-climate-conference/index.html
+layout: layout.njk
 ---
 Wellington start-up in top three at Paris Climate Conference
 ============================================================

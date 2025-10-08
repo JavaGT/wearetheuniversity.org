@@ -1,9 +1,13 @@
 ---
 slug: waikato-regional-council-to-allow-iwi-to-trade-water
-title: "Waikato Regional Council to Allow Iwi to Trade Water"
-date: 2017-07-03
-source-url: https://www.scoop.co.nz/stories/PA1707/S00022/waikato-regional-council-to-allow-iwi-to-trade-water.htm
+title: Waikato Regional Council to Allow Iwi to Trade Water
+date: 2017-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00022/waikato-regional-council-to-allow-iwi-to-trade-water.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/07/03/waikato-regional-council-to-allow-iwi-to-trade-water/index.html
+layout: layout.njk
 ---
 Waikato Regional Council to Allow Iwi to Trade Water
 ====================================================

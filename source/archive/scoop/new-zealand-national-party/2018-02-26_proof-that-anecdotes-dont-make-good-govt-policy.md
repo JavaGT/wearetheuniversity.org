@@ -1,9 +1,12 @@
 ---
 slug: proof-that-anecdotes-dont-make-good-govt-policy
-title: "Proof that anecdotes don’t make good Govt policy"
-date: 2018-02-26
-source-url: https://www.scoop.co.nz/stories/PA1802/S00249/proof-that-anecdotes-dont-make-good-govt-policy.htm
+title: Proof that anecdotes don’t make good Govt policy
+date: 2018-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00249/proof-that-anecdotes-dont-make-good-govt-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/26/proof-that-anecdotes-dont-make-good-govt-policy/index.html
+layout: layout.njk
 ---
 Proof that anecdotes don’t make good Govt policy
 ================================================

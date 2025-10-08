@@ -1,9 +1,12 @@
 ---
 slug: key-cant-just-be-prime-minister-for-parnell
-title: "Key can’t just be Prime Minister for Parnell"
-date: 2015-05-15
-source-url: https://www.scoop.co.nz/stories/PA1505/S00238/key-cant-just-be-prime-minister-for-parnell.htm
+title: Key can’t just be Prime Minister for Parnell
+date: 2015-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00238/key-cant-just-be-prime-minister-for-parnell.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/15/key-cant-just-be-prime-minister-for-parnell/index.html
+layout: layout.njk
 ---
 Key can’t just be Prime Minister for Parnell
 ============================================

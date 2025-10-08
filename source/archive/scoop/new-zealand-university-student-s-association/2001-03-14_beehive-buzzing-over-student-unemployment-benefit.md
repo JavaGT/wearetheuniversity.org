@@ -1,9 +1,13 @@
 ---
 slug: beehive-buzzing-over-student-unemployment-benefit
-title: "Beehive Buzzing Over Student Unemployment Benefit"
-date: 2001-03-14
-source-url: https://www.scoop.co.nz/stories/ED0103/S00028/beehive-buzzing-over-student-unemployment-benefit.htm
+title: Beehive Buzzing Over Student Unemployment Benefit
+date: 2001-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00028/beehive-buzzing-over-student-unemployment-benefit.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2001/03/14/beehive-buzzing-over-student-unemployment-benefit/index.html
+layout: layout.njk
 ---
 Beehive Buzzing Over Student Unemployment Benefit
 =================================================

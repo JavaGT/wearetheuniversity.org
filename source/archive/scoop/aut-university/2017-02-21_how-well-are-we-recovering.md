@@ -1,9 +1,11 @@
 ---
 slug: how-well-are-we-recovering
-title: "How well are we recovering?"
-date: 2017-02-21
+title: How well are we recovering?
+date: 2017-02-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1702/S00066/how-well-are-we-recovering.htm
 author: aut-university
+permalink: /archive/2017/02/21/how-well-are-we-recovering/index.html
+layout: layout.njk
 ---
 How well are we recovering?
 ===========================

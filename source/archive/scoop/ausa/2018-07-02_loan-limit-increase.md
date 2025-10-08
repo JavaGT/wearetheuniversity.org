@@ -1,9 +1,11 @@
 ---
 slug: loan-limit-increase
-title: "Loan Limit Increase"
-date: 2018-07-02
+title: Loan Limit Increase
+date: 2018-07-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1807/S00001/loan-limit-increase.htm
 author: ausa
+permalink: /archive/2018/07/02/loan-limit-increase/index.html
+layout: layout.njk
 ---
 Loan Limit Increase
 ===================

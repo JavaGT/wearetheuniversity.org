@@ -1,9 +1,12 @@
 ---
 slug: article-hide-ird-officers-should-pay
-title: "Article: Hide - IRD Officers Should Pay"
-date: 1999-06-17
-source-url: https://www.scoop.co.nz/stories/PA9906/S00105/article-hide-ird-officers-should-pay.htm
+title: 'Article: Hide - IRD Officers Should Pay'
+date: 1999-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00105/article-hide-ird-officers-should-pay.htm
 author: act-new-zealand
+permalink: /archive/1999/06/17/article-hide-ird-officers-should-pay/index.html
+layout: layout.njk
 ---
 Article: Hide - IRD Officers Should Pay
 =======================================

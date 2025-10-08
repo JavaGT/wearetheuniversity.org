@@ -1,9 +1,12 @@
 ---
 slug: otago-students-not-all-couch-burners
-title: "Otago Students \"not all couch burners\""
-date: 2007-05-21
-source-url: https://www.scoop.co.nz/stories/ED0705/S00083/otago-students-not-all-couch-burners.htm
+title: Otago Students "not all couch burners"
+date: 2007-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00083/otago-students-not-all-couch-burners.htm
 author: otago-university-students-association
+permalink: /archive/2007/05/21/otago-students-not-all-couch-burners/index.html
+layout: layout.njk
 ---
 Otago Students \"not all couch burners"
 ======================================

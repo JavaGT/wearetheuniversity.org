@@ -1,9 +1,12 @@
 ---
 slug: power-hikes-hit-marooned-christchurch-residents
-title: "Power hikes hit marooned Christchurch residents"
-date: 2014-03-07
-source-url: https://www.scoop.co.nz/stories/PA1403/S00130/power-hikes-hit-marooned-christchurch-residents.htm
+title: Power hikes hit marooned Christchurch residents
+date: 2014-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00130/power-hikes-hit-marooned-christchurch-residents.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/07/power-hikes-hit-marooned-christchurch-residents/index.html
+layout: layout.njk
 ---
 Power hikes hit marooned Christchurch residents
 ===============================================

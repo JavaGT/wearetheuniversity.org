@@ -1,9 +1,12 @@
 ---
 slug: act-launches-national-security-policy
-title: "ACT Launches National Security Policy"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/PA0811/S00062/act-launches-national-security-policy.htm
+title: ACT Launches National Security Policy
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00062/act-launches-national-security-policy.htm
 author: act-new-zealand
+permalink: /archive/2008/11/04/act-launches-national-security-policy/index.html
+layout: layout.njk
 ---
 ACT Launches National Security Policy
 =====================================

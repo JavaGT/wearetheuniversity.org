@@ -1,9 +1,12 @@
 ---
 slug: te-wananga-o-aotearoa-report-damning
-title: "Te Wananga o Aotearoa report damning"
-date: 2005-09-07
-source-url: https://www.scoop.co.nz/stories/PA0509/S00189/te-wananga-o-aotearoa-report-damning.htm
+title: Te Wananga o Aotearoa report damning
+date: 2005-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00189/te-wananga-o-aotearoa-report-damning.htm
 author: act-new-zealand
+permalink: /archive/2005/09/07/te-wananga-o-aotearoa-report-damning/index.html
+layout: layout.njk
 ---
 Te Wananga o Aotearoa report damning
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: mahareys-waste-based-tertiary-policy
-title: "Maharey's waste-based tertiary policy"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/PA0405/S00567/mahareys-waste-based-tertiary-policy.htm
+title: Maharey's waste-based tertiary policy
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00567/mahareys-waste-based-tertiary-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/27/mahareys-waste-based-tertiary-policy/index.html
+layout: layout.njk
 ---
 Maharey's waste-based tertiary policy
 =====================================

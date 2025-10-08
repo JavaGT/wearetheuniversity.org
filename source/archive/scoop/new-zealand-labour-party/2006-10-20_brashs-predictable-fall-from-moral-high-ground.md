@@ -1,9 +1,12 @@
 ---
 slug: brashs-predictable-fall-from-moral-high-ground
-title: "Brash's predictable fall from moral high ground"
-date: 2006-10-20
-source-url: https://www.scoop.co.nz/stories/PA0610/S00412/brashs-predictable-fall-from-moral-high-ground.htm
+title: Brash's predictable fall from moral high ground
+date: 2006-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00412/brashs-predictable-fall-from-moral-high-ground.htm
 author: new-zealand-labour-party
+permalink: /archive/2006/10/20/brashs-predictable-fall-from-moral-high-ground/index.html
+layout: layout.njk
 ---
 Brash's predictable fall from moral high ground
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: effective-tobacco-free-strategies-by-māori-for-māori
-title: "Effective tobacco-free strategies: by Māori for Māori"
-date: 2010-11-26
-source-url: https://www.scoop.co.nz/stories/GE1011/S00152/effective-tobacco-free-strategies-by-maori-for-maori.htm
+title: 'Effective tobacco-free strategies: by Māori for Māori'
+date: 2010-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1011/S00152/effective-tobacco-free-strategies-by-maori-for-maori.htm
 author: university-of-otago
+permalink: /archive/2010/11/26/effective-tobacco-free-strategies-by-m/index.html
+layout: layout.njk
 ---
 Effective tobacco-free strategies: by Māori for Māori
 =====================================================

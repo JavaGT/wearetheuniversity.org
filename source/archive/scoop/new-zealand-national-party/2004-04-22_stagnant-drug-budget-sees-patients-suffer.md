@@ -1,9 +1,12 @@
 ---
 slug: stagnant-drug-budget-sees-patients-suffer
-title: "Stagnant drug budget sees patients suffer"
-date: 2004-04-22
-source-url: https://www.scoop.co.nz/stories/PA0404/S00348/stagnant-drug-budget-sees-patients-suffer.htm
+title: Stagnant drug budget sees patients suffer
+date: 2004-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00348/stagnant-drug-budget-sees-patients-suffer.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/22/stagnant-drug-budget-sees-patients-suffer/index.html
+layout: layout.njk
 ---
 Stagnant drug budget sees patients suffer
 =========================================

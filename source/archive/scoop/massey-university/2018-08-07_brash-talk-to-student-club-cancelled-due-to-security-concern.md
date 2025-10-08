@@ -1,9 +1,13 @@
 ---
 slug: brash-talk-to-student-club-cancelled-due-to-security-concern
-title: "Brash talk to student club cancelled due to security concern"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/ED1808/S00010/brash-talk-to-student-club-cancelled-due-to-security-concern.htm
+title: Brash talk to student club cancelled due to security concern
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00010/brash-talk-to-student-club-cancelled-due-to-security-concern.htm
 author: massey-university
+permalink: >-
+  /archive/2018/08/07/brash-talk-to-student-club-cancelled-due-to-security-concern/index.html
+layout: layout.njk
 ---
 Brash talk to student club cancelled due to security concern
 ============================================================

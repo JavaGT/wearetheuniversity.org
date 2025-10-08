@@ -1,9 +1,12 @@
 ---
 slug: ppta-sings-from-mallards-songsheet
-title: "PPTA Sings From Mallard’s Songsheet"
-date: 2004-04-19
-source-url: https://www.scoop.co.nz/stories/PA0404/S00286/ppta-sings-from-mallards-songsheet.htm
+title: PPTA Sings From Mallard’s Songsheet
+date: 2004-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00286/ppta-sings-from-mallards-songsheet.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/19/ppta-sings-from-mallards-songsheet/index.html
+layout: layout.njk
 ---
 PPTA Sings From Mallard’s Songsheet
 ===================================

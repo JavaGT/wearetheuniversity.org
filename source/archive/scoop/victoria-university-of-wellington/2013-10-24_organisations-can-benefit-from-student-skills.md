@@ -1,9 +1,12 @@
 ---
 slug: organisations-can-benefit-from-student-skills
-title: "Organisations can benefit from student skills"
-date: 2013-10-24
-source-url: https://www.scoop.co.nz/stories/ED1310/S00160/organisations-can-benefit-from-student-skills.htm
+title: Organisations can benefit from student skills
+date: 2013-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00160/organisations-can-benefit-from-student-skills.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/10/24/organisations-can-benefit-from-student-skills/index.html
+layout: layout.njk
 ---
 Organisations can benefit from student skills
 =============================================

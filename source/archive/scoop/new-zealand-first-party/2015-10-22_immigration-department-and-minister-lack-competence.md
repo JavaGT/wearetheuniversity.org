@@ -1,9 +1,13 @@
 ---
 slug: immigration-department-and-minister-lack-competence
-title: "Immigration Department And Minister Lack Competence"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/PA1510/S00407/immigration-department-and-minister-lack-competence.htm
+title: Immigration Department And Minister Lack Competence
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00407/immigration-department-and-minister-lack-competence.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/10/22/immigration-department-and-minister-lack-competence/index.html
+layout: layout.njk
 ---
 Immigration Department And Minister Lack Competence
 ===================================================

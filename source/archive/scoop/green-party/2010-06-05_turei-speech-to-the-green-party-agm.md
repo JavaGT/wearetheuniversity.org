@@ -1,9 +1,12 @@
 ---
 slug: turei-speech-to-the-green-party-agm
-title: "Turei Speech To The Green Party AGM"
-date: 2010-06-05
-source-url: https://www.scoop.co.nz/stories/PA1006/S00120/turei-speech-to-the-green-party-agm.htm
+title: Turei Speech To The Green Party AGM
+date: 2010-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00120/turei-speech-to-the-green-party-agm.htm
 author: green-party
+permalink: /archive/2010/06/05/turei-speech-to-the-green-party-agm/index.html
+layout: layout.njk
 ---
 Turei Speech To The Green Party AGM
 ===================================

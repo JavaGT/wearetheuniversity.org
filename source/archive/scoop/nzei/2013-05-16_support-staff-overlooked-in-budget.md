@@ -1,9 +1,12 @@
 ---
 slug: support-staff-overlooked-in-budget
-title: "Support staff overlooked in Budget"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/ED1305/S00107/support-staff-overlooked-in-budget.htm
+title: Support staff overlooked in Budget
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00107/support-staff-overlooked-in-budget.htm
 author: nzei
+permalink: /archive/2013/05/16/support-staff-overlooked-in-budget/index.html
+layout: layout.njk
 ---
 Support staff overlooked in Budget
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: gift-boosts-public-policy-research-for-ordinary-nzers
-title: "Gift boosts public policy research for ordinary NZers"
-date: 2012-07-26
-source-url: https://www.scoop.co.nz/stories/ED1207/S00096/gift-boosts-public-policy-research-for-ordinary-nzers.htm
+title: Gift boosts public policy research for ordinary NZers
+date: 2012-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00096/gift-boosts-public-policy-research-for-ordinary-nzers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/07/26/gift-boosts-public-policy-research-for-ordinary-nzers/index.html
+layout: layout.njk
 ---
 Gift boosts public policy research for ordinary NZers
 =====================================================

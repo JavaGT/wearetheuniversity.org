@@ -1,9 +1,12 @@
 ---
 slug: govt-admits-charter-school-success
-title: "Govt Admits Charter School Success"
-date: 2018-09-17
-source-url: https://www.scoop.co.nz/stories/PA1809/S00216/govt-admits-charter-school-success.htm
+title: Govt Admits Charter School Success
+date: 2018-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00216/govt-admits-charter-school-success.htm
 author: act-new-zealand
+permalink: /archive/2018/09/17/govt-admits-charter-school-success/index.html
+layout: layout.njk
 ---
 Govt Admits Charter School Success
 ==================================

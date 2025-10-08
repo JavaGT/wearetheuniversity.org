@@ -1,9 +1,12 @@
 ---
 slug: new-book-shines-spotlight-on-nz-cities
-title: "New Book Shines Spotlight on NZ Cities"
-date: 2017-09-19
-source-url: https://www.scoop.co.nz/stories/CU1709/S00356/new-book-shines-spotlight-on-nz-cities.htm
+title: New Book Shines Spotlight on NZ Cities
+date: 2017-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1709/S00356/new-book-shines-spotlight-on-nz-cities.htm
 author: university-of-otago
+permalink: /archive/2017/09/19/new-book-shines-spotlight-on-nz-cities/index.html
+layout: layout.njk
 ---
 New Book Shines Spotlight on NZ Cities
 ======================================

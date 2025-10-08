@@ -1,9 +1,13 @@
 ---
 slug: newly-trained-teachers-forced-to-look-overseas-for-work
-title: "Newly Trained Teachers Forced To Look Overseas For Work"
-date: 2012-10-15
-source-url: https://www.scoop.co.nz/stories/PA1210/S00246/newly-trained-teachers-forced-to-look-overseas-for-work.htm
+title: Newly Trained Teachers Forced To Look Overseas For Work
+date: 2012-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00246/newly-trained-teachers-forced-to-look-overseas-for-work.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/10/15/newly-trained-teachers-forced-to-look-overseas-for-work/index.html
+layout: layout.njk
 ---
 Newly Trained Teachers Forced To Look Overseas For Work
 =======================================================

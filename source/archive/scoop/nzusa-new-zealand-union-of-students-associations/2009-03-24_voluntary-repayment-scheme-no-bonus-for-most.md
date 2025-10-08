@@ -1,9 +1,12 @@
 ---
 slug: voluntary-repayment-scheme-no-bonus-for-most
-title: "Voluntary repayment scheme no bonus for most"
-date: 2009-03-24
-source-url: https://www.scoop.co.nz/stories/ED0903/S00084/voluntary-repayment-scheme-no-bonus-for-most.htm
+title: Voluntary repayment scheme no bonus for most
+date: 2009-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00084/voluntary-repayment-scheme-no-bonus-for-most.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/03/24/voluntary-repayment-scheme-no-bonus-for-most/index.html
+layout: layout.njk
 ---
 Voluntary repayment scheme no bonus for most
 ============================================

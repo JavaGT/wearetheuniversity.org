@@ -1,9 +1,13 @@
 ---
 slug: how-is-food-used-to-foster-social-relationships-at-school
-title: "How is food used to foster social relationships at school?"
-date: 2017-01-17
-source-url: https://www.scoop.co.nz/stories/ED1701/S00018/how-is-food-used-to-foster-social-relationships-at-school.htm
+title: How is food used to foster social relationships at school?
+date: 2017-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00018/how-is-food-used-to-foster-social-relationships-at-school.htm
 author: massey-university
+permalink: >-
+  /archive/2017/01/17/how-is-food-used-to-foster-social-relationships-at-school/index.html
+layout: layout.njk
 ---
 How is food used to foster social relationships at school?
 ==========================================================

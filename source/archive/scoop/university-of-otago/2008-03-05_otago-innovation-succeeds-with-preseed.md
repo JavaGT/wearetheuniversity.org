@@ -1,9 +1,12 @@
 ---
 slug: otago-innovation-succeeds-with-preseed
-title: "Otago Innovation succeeds with PreSeed"
-date: 2008-03-05
-source-url: https://www.scoop.co.nz/stories/ED0803/S00008/otago-innovation-succeeds-with-preseed.htm
+title: Otago Innovation succeeds with PreSeed
+date: 2008-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00008/otago-innovation-succeeds-with-preseed.htm
 author: university-of-otago
+permalink: /archive/2008/03/05/otago-innovation-succeeds-with-preseed/index.html
+layout: layout.njk
 ---
 Otago Innovation succeeds with PreSeed
 ======================================

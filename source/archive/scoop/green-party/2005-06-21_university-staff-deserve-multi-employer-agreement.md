@@ -1,9 +1,13 @@
 ---
 slug: university-staff-deserve-multi-employer-agreement
-title: "University staff deserve multi-employer agreement"
-date: 2005-06-21
-source-url: https://www.scoop.co.nz/stories/PA0506/S00475/university-staff-deserve-multi-employer-agreement.htm
+title: University staff deserve multi-employer agreement
+date: 2005-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00475/university-staff-deserve-multi-employer-agreement.htm
 author: green-party
+permalink: >-
+  /archive/2005/06/21/university-staff-deserve-multi-employer-agreement/index.html
+layout: layout.njk
 ---
 University staff deserve multi-employer agreement
 =================================================

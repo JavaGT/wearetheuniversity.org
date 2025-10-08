@@ -1,9 +1,13 @@
 ---
 slug: resourcing-key-to-success-of-ka-hikitia-strategy
-title: "Resourcing  Key To Success Of Ka Hikitia Strategy"
-date: 2008-05-15
-source-url: https://www.scoop.co.nz/stories/ED0805/S00048/resourcing-key-to-success-of-ka-hikitia-strategy.htm
+title: Resourcing  Key To Success Of Ka Hikitia Strategy
+date: 2008-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00048/resourcing-key-to-success-of-ka-hikitia-strategy.htm
 author: nzei
+permalink: >-
+  /archive/2008/05/15/resourcing-key-to-success-of-ka-hikitia-strategy/index.html
+layout: layout.njk
 ---
 Resourcing Key To Success Of Ka Hikitia Strategy
 ================================================

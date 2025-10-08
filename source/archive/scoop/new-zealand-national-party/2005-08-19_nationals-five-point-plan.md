@@ -1,9 +1,11 @@
 ---
 slug: nationals-five-point-plan
-title: "Nationals five point plan"
-date: 2005-08-19
+title: Nationals five point plan
+date: 2005-08-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00497/nationals-five-point-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/19/nationals-five-point-plan/index.html
+layout: layout.njk
 ---
 Nationals five point plan
 =========================

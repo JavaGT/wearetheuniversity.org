@@ -1,9 +1,11 @@
 ---
 slug: be-the-difference-party-vote
-title: "Be The Difference - Party Vote"
-date: 2008-09-29
+title: Be The Difference - Party Vote
+date: 2008-09-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0809/S00615/be-the-difference-party-vote.htm
 author: act-new-zealand
+permalink: /archive/2008/09/29/be-the-difference-party-vote/index.html
+layout: layout.njk
 ---
 Be The Difference - Party Vote
 ==============================

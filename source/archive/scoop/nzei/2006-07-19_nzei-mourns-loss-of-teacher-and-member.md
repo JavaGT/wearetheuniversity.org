@@ -1,9 +1,12 @@
 ---
 slug: nzei-mourns-loss-of-teacher-and-member
-title: "NZEI mourns loss of teacher and member"
-date: 2006-07-19
-source-url: https://www.scoop.co.nz/stories/ED0607/S00059/nzei-mourns-loss-of-teacher-and-member.htm
+title: NZEI mourns loss of teacher and member
+date: 2006-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00059/nzei-mourns-loss-of-teacher-and-member.htm
 author: nzei
+permalink: /archive/2006/07/19/nzei-mourns-loss-of-teacher-and-member/index.html
+layout: layout.njk
 ---
 NZEI mourns loss of teacher and member
 ======================================

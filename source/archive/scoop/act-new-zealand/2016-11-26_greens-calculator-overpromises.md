@@ -1,9 +1,12 @@
 ---
 slug: greens-calculator-overpromises
-title: "Greens' calculator overpromises"
-date: 2016-11-26
-source-url: https://www.scoop.co.nz/stories/PA1611/S00506/greens-calculator-overpromises.htm
+title: Greens' calculator overpromises
+date: 2016-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00506/greens-calculator-overpromises.htm
 author: act-new-zealand
+permalink: /archive/2016/11/26/greens-calculator-overpromises/index.html
+layout: layout.njk
 ---
 Greens' calculator overpromises
 ===============================

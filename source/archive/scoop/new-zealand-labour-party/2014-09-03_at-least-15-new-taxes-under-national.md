@@ -1,9 +1,12 @@
 ---
 slug: at-least-15-new-taxes-under-national
-title: "At least 15 new taxes under National"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/PA1409/S00053/at-least-15-new-taxes-under-national.htm
+title: At least 15 new taxes under National
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00053/at-least-15-new-taxes-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/09/03/at-least-15-new-taxes-under-national/index.html
+layout: layout.njk
 ---
 At least 15 new taxes under National
 ====================================

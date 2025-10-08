@@ -1,9 +1,12 @@
 ---
 slug: another-kick-in-the-teeth-for-kiwi-workers
-title: "Another kick in the teeth for Kiwi workers"
-date: 2011-10-28
-source-url: https://www.scoop.co.nz/stories/PA1110/S00439/another-kick-in-the-teeth-for-kiwi-workers.htm
+title: Another kick in the teeth for Kiwi workers
+date: 2011-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00439/another-kick-in-the-teeth-for-kiwi-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/28/another-kick-in-the-teeth-for-kiwi-workers/index.html
+layout: layout.njk
 ---
 Another kick in the teeth for Kiwi workers
 ==========================================

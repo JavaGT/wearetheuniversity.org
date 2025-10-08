@@ -1,9 +1,13 @@
 ---
 slug: spreading-risk-for-resilience-in-the-urban-system
-title: "Spreading risk for resilience in the urban system"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/ED1508/S00046/spreading-risk-for-resilience-in-the-urban-system.htm
+title: Spreading risk for resilience in the urban system
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00046/spreading-risk-for-resilience-in-the-urban-system.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/08/12/spreading-risk-for-resilience-in-the-urban-system/index.html
+layout: layout.njk
 ---
 Spreading risk for resilience in the urban system
 =================================================

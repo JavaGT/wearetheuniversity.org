@@ -1,9 +1,12 @@
 ---
 slug: quake-package-leaves-issues-unresolved
-title: "Quake package leaves issues unresolved"
-date: 2011-06-23
-source-url: https://www.scoop.co.nz/stories/PA1106/S00422/quake-package-leaves-issues-unresolved.htm
+title: Quake package leaves issues unresolved
+date: 2011-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00422/quake-package-leaves-issues-unresolved.htm
 author: green-party
+permalink: /archive/2011/06/23/quake-package-leaves-issues-unresolved/index.html
+layout: layout.njk
 ---
 Quake package leaves issues unresolved
 ======================================

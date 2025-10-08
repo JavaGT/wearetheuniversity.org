@@ -1,9 +1,12 @@
 ---
 slug: examining-responses-to-natural-disasters
-title: "Examining Responses To Natural Disasters"
-date: 2010-08-10
-source-url: https://www.scoop.co.nz/stories/AK1008/S00155/examining-responses-to-natural-disasters.htm
+title: Examining Responses To Natural Disasters
+date: 2010-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1008/S00155/examining-responses-to-natural-disasters.htm
 author: massey-university
+permalink: /archive/2010/08/10/examining-responses-to-natural-disasters/index.html
+layout: layout.njk
 ---
 Examining Responses To Natural Disasters
 ========================================

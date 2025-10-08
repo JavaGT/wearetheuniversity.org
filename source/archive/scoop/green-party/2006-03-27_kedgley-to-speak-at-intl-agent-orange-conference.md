@@ -1,9 +1,13 @@
 ---
 slug: kedgley-to-speak-at-intl-agent-orange-conference
-title: "Kedgley to speak at int'l Agent Orange conference"
-date: 2006-03-27
-source-url: https://www.scoop.co.nz/stories/PA0603/S00446/kedgley-to-speak-at-intl-agent-orange-conference.htm
+title: Kedgley to speak at int'l Agent Orange conference
+date: 2006-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00446/kedgley-to-speak-at-intl-agent-orange-conference.htm
 author: green-party
+permalink: >-
+  /archive/2006/03/27/kedgley-to-speak-at-intl-agent-orange-conference/index.html
+layout: layout.njk
 ---
 Kedgley to speak at int'l Agent Orange conference
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: auts-pauline-winter-takes-on-new-role
-title: "AUT’s Pauline Winter takes on new role"
-date: 2012-08-29
-source-url: https://www.scoop.co.nz/stories/ED1208/S00161/auts-pauline-winter-takes-on-new-role.htm
+title: AUT’s Pauline Winter takes on new role
+date: 2012-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00161/auts-pauline-winter-takes-on-new-role.htm
 author: aut-university
+permalink: /archive/2012/08/29/auts-pauline-winter-takes-on-new-role/index.html
+layout: layout.njk
 ---
 AUT’s Pauline Winter takes on new role
 ======================================

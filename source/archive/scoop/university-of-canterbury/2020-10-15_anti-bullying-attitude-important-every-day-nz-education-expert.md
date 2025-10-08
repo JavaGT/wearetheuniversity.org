@@ -1,9 +1,13 @@
 ---
 slug: anti-bullying-attitude-important-every-day-nz-education-expert
-title: "Anti-bullying Attitude Important Every Day – NZ Education Expert"
-date: 2020-10-15
-source-url: https://www.scoop.co.nz/stories/PO2010/S00196/anti-bullying-attitude-important-every-day-nz-education-expert.htm
+title: Anti-bullying Attitude Important Every Day – NZ Education Expert
+date: 2020-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00196/anti-bullying-attitude-important-every-day-nz-education-expert.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/10/15/anti-bullying-attitude-important-every-day-nz-education-expert/index.html
+layout: layout.njk
 ---
 Anti-bullying Attitude Important Every Day – NZ Education Expert
 ================================================================

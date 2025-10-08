@@ -1,9 +1,12 @@
 ---
 slug: research-pops-cork-on-lunar-effect-wine-theory
-title: "Research pops cork on lunar–effect wine theory"
-date: 2017-02-13
-source-url: https://www.scoop.co.nz/stories/CU1702/S00235/research-pops-cork-on-lunar-effect-wine-theory.htm
+title: Research pops cork on lunar–effect wine theory
+date: 2017-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1702/S00235/research-pops-cork-on-lunar-effect-wine-theory.htm
 author: lincoln-university
+permalink: /archive/2017/02/13/research-pops-cork-on-lunar-effect-wine-theory/index.html
+layout: layout.njk
 ---
 Research pops cork on lunar–effect wine theory
 ==============================================

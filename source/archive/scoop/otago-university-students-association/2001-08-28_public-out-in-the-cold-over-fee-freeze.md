@@ -1,9 +1,12 @@
 ---
 slug: public-out-in-the-cold-over-fee-freeze
-title: "Public Out In The Cold Over Fee Freeze"
-date: 2001-08-28
-source-url: https://www.scoop.co.nz/stories/ED0108/S00059/public-out-in-the-cold-over-fee-freeze.htm
+title: Public Out In The Cold Over Fee Freeze
+date: 2001-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00059/public-out-in-the-cold-over-fee-freeze.htm
 author: otago-university-students-association
+permalink: /archive/2001/08/28/public-out-in-the-cold-over-fee-freeze/index.html
+layout: layout.njk
 ---
 Public Out In The Cold Over Fee Freeze
 ======================================

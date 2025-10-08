@@ -1,9 +1,13 @@
 ---
 slug: state-housing-the-big-loser-in-heatleys-money-go-round
-title: "State housing the big loser in Heatley’s money-go-round"
-date: 2011-06-14
-source-url: https://www.scoop.co.nz/stories/PA1106/S00219/state-housing-the-big-loser-in-heatleys-money-go-round.htm
+title: State housing the big loser in Heatley’s money-go-round
+date: 2011-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00219/state-housing-the-big-loser-in-heatleys-money-go-round.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/06/14/state-housing-the-big-loser-in-heatleys-money-go-round/index.html
+layout: layout.njk
 ---
 State housing the big loser in Heatley’s money-go-round
 =======================================================

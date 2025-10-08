@@ -1,9 +1,12 @@
 ---
 slug: govt-in-thrall-to-tobacco-lobbyists
-title: "Govt In Thrall To Tobacco Lobbyists"
-date: 2024-08-22
-source-url: https://www.scoop.co.nz/stories/PA2408/S00143/govt-in-thrall-to-tobacco-lobbyists.htm
+title: Govt In Thrall To Tobacco Lobbyists
+date: 2024-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00143/govt-in-thrall-to-tobacco-lobbyists.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/08/22/govt-in-thrall-to-tobacco-lobbyists/index.html
+layout: layout.njk
 ---
 Govt In Thrall To Tobacco Lobbyists
 ===================================

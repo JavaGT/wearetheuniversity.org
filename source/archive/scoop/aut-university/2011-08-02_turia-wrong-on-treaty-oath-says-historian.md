@@ -1,9 +1,12 @@
 ---
 slug: turia-wrong-on-treaty-oath-says-historian
-title: "Turia wrong on Treaty oath says historian"
-date: 2011-08-02
-source-url: https://www.scoop.co.nz/stories/ED1108/S00011/turia-wrong-on-treaty-oath-says-historian.htm
+title: Turia wrong on Treaty oath says historian
+date: 2011-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00011/turia-wrong-on-treaty-oath-says-historian.htm
 author: aut-university
+permalink: /archive/2011/08/02/turia-wrong-on-treaty-oath-says-historian/index.html
+layout: layout.njk
 ---
 Turia wrong on Treaty oath says historian
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: artist-talk-series-jayce-salloum
-title: "Artist Talk Series: Jayce Salloum"
-date: 2008-02-26
-source-url: https://www.scoop.co.nz/stories/CU0802/S00286/artist-talk-series-jayce-salloum.htm
+title: 'Artist Talk Series: Jayce Salloum'
+date: 2008-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0802/S00286/artist-talk-series-jayce-salloum.htm
 author: massey-university
+permalink: /archive/2008/02/26/artist-talk-series-jayce-salloum/index.html
+layout: layout.njk
 ---
 Artist Talk Series: Jayce Salloum
 =================================

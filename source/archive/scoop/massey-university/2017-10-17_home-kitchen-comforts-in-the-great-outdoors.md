@@ -1,9 +1,12 @@
 ---
 slug: home-kitchen-comforts-in-the-great-outdoors
-title: "Home Kitchen Comforts in The Great Outdoors"
-date: 2017-10-17
-source-url: https://www.scoop.co.nz/stories/CU1710/S00304/home-kitchen-comforts-in-the-great-outdoors.htm
+title: Home Kitchen Comforts in The Great Outdoors
+date: 2017-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1710/S00304/home-kitchen-comforts-in-the-great-outdoors.htm
 author: massey-university
+permalink: /archive/2017/10/17/home-kitchen-comforts-in-the-great-outdoors/index.html
+layout: layout.njk
 ---
 Home Kitchen Comforts in The Great Outdoors
 ===========================================

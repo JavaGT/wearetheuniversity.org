@@ -1,9 +1,12 @@
 ---
 slug: goff-address-to-grey-power-agm
-title: "Goff: Address to Grey Power AGM"
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/PA1004/S00131/goff-address-to-grey-power-agm.htm
+title: 'Goff: Address to Grey Power AGM'
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00131/goff-address-to-grey-power-agm.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/14/goff-address-to-grey-power-agm/index.html
+layout: layout.njk
 ---
 Goff: Address to Grey Power AGM
 ===============================

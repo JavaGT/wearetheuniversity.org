@@ -1,9 +1,12 @@
 ---
 slug: free-press-19-february-2019-the-envy-tax
-title: "Free Press, 19 February 2019 - The Envy Tax"
-date: 2019-02-19
-source-url: https://www.scoop.co.nz/stories/PA1902/S00159/free-press-19-february-2019-the-envy-tax.htm
+title: Free Press, 19 February 2019 - The Envy Tax
+date: 2019-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00159/free-press-19-february-2019-the-envy-tax.htm
 author: act-new-zealand
+permalink: /archive/2019/02/19/free-press-19-february-2019-the-envy-tax/index.html
+layout: layout.njk
 ---
 Free Press, 19 February 2019 - The Envy Tax
 ===========================================

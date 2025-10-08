@@ -1,9 +1,12 @@
 ---
 slug: keys-boasts-now-haunt-him-and-innocent-kiwis
-title: "Key’s boasts now haunt him and innocent kiwis"
-date: 2010-04-01
-source-url: https://www.scoop.co.nz/stories/PA1004/S00013/keys-boasts-now-haunt-him-and-innocent-kiwis.htm
+title: Key’s boasts now haunt him and innocent kiwis
+date: 2010-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00013/keys-boasts-now-haunt-him-and-innocent-kiwis.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/01/keys-boasts-now-haunt-him-and-innocent-kiwis/index.html
+layout: layout.njk
 ---
 Key’s boasts now haunt him and innocent kiwis
 =============================================

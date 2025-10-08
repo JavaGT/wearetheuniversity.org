@@ -1,9 +1,13 @@
 ---
 slug: protest-against-the-infringing-file-sharing-amendment-bill
-title: "Protest against the Infringing File Sharing Amendment Bill"
-date: 2011-08-26
-source-url: https://www.scoop.co.nz/stories/PA1108/S00527/protest-against-the-infringing-file-sharing-amendment-bill.htm
+title: Protest against the Infringing File Sharing Amendment Bill
+date: 2011-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00527/protest-against-the-infringing-file-sharing-amendment-bill.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/26/protest-against-the-infringing-file-sharing-amendment-bill/index.html
+layout: layout.njk
 ---
 Protest against the Infringing File Sharing Amendment Bill
 ==========================================================

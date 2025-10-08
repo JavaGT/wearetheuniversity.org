@@ -1,9 +1,12 @@
 ---
 slug: author-calls-for-nz-help-for-pacific-media
-title: "Author calls for NZ help for Pacific media"
-date: 2005-02-15
-source-url: https://www.scoop.co.nz/stories/ED0502/S00051/author-calls-for-nz-help-for-pacific-media.htm
+title: Author calls for NZ help for Pacific media
+date: 2005-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00051/author-calls-for-nz-help-for-pacific-media.htm
 author: aut-university
+permalink: /archive/2005/02/15/author-calls-for-nz-help-for-pacific-media/index.html
+layout: layout.njk
 ---
 Author calls for NZ help for Pacific media
 ==========================================

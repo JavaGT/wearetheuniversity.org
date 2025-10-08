@@ -1,9 +1,12 @@
 ---
 slug: bbq-idea-a-gimmick-should-not-distract-tenants
-title: "BBQ Idea A Gimmick  - Should Not Distract Tenants"
-date: 2000-01-17
-source-url: https://www.scoop.co.nz/stories/PA0001/S00038/bbq-idea-a-gimmick-should-not-distract-tenants.htm
+title: BBQ Idea A Gimmick  - Should Not Distract Tenants
+date: 2000-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00038/bbq-idea-a-gimmick-should-not-distract-tenants.htm
 author: new-zealand-national-party
+permalink: /archive/2000/01/17/bbq-idea-a-gimmick-should-not-distract-tenants/index.html
+layout: layout.njk
 ---
 BBQ Idea A Gimmick - Should Not Distract Tenants
 ================================================

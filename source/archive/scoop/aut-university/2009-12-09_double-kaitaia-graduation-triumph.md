@@ -1,9 +1,12 @@
 ---
 slug: double-kaitaia-graduation-triumph
-title: "Double Kaitaia graduation triumph"
-date: 2009-12-09
-source-url: https://www.scoop.co.nz/stories/ED0912/S00023/double-kaitaia-graduation-triumph.htm
+title: Double Kaitaia graduation triumph
+date: 2009-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0912/S00023/double-kaitaia-graduation-triumph.htm
 author: aut-university
+permalink: /archive/2009/12/09/double-kaitaia-graduation-triumph/index.html
+layout: layout.njk
 ---
 Double Kaitaia graduation triumph
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: cash-donation-boosts-kiwis-chances-of-survival
-title: "Cash Donation Boosts Kiwis’ Chances Of Survival"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/ED1212/S00066/cash-donation-boosts-kiwis-chances-of-survival.htm
+title: Cash Donation Boosts Kiwis’ Chances Of Survival
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00066/cash-donation-boosts-kiwis-chances-of-survival.htm
 author: lincoln-university
+permalink: /archive/2012/12/11/cash-donation-boosts-kiwis-chances-of-survival/index.html
+layout: layout.njk
 ---
 Cash Donation Boosts Kiwis’ Chances Of Survival
 ===============================================

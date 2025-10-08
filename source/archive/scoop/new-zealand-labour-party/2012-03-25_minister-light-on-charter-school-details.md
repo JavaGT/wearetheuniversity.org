@@ -1,9 +1,12 @@
 ---
 slug: minister-light-on-charter-school-details
-title: "Minister Light on Charter School Details"
-date: 2012-03-25
-source-url: https://www.scoop.co.nz/stories/PA1203/S00324/minister-light-on-charter-school-details.htm
+title: Minister Light on Charter School Details
+date: 2012-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00324/minister-light-on-charter-school-details.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/25/minister-light-on-charter-school-details/index.html
+layout: layout.njk
 ---
 Minister Light on Charter School Details
 ========================================

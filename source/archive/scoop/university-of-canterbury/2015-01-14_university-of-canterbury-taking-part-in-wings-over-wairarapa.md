@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-taking-part-in-wings-over-wairarapa
-title: "University of Canterbury taking part in Wings Over Wairarapa"
-date: 2015-01-14
-source-url: https://www.scoop.co.nz/stories/ED1501/S00026/university-of-canterbury-taking-part-in-wings-over-wairarapa.htm
+title: University of Canterbury taking part in Wings Over Wairarapa
+date: 2015-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00026/university-of-canterbury-taking-part-in-wings-over-wairarapa.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/14/university-of-canterbury-taking-part-in-wings-over-wairarapa/index.html
+layout: layout.njk
 ---
 University of Canterbury taking part in Wings Over Wairarapa
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-must-rethink-funding-for-vulnerable-students
-title: "Govt must rethink funding for vulnerable students"
-date: 2009-07-22
-source-url: https://www.scoop.co.nz/stories/PA0907/S00255/govt-must-rethink-funding-for-vulnerable-students.htm
+title: Govt must rethink funding for vulnerable students
+date: 2009-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00255/govt-must-rethink-funding-for-vulnerable-students.htm
 author: green-party
+permalink: >-
+  /archive/2009/07/22/govt-must-rethink-funding-for-vulnerable-students/index.html
+layout: layout.njk
 ---
 Govt must rethink funding for vulnerable students
 =================================================

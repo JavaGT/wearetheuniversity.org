@@ -1,9 +1,12 @@
 ---
 slug: labour-to-revolutionise-schools-and-learning
-title: "Labour to revolutionise schools and learning"
-date: 2014-07-05
-source-url: https://www.scoop.co.nz/stories/PO1407/S00096/labour-to-revolutionise-schools-and-learning.htm
+title: Labour to revolutionise schools and learning
+date: 2014-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00096/labour-to-revolutionise-schools-and-learning.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/05/labour-to-revolutionise-schools-and-learning/index.html
+layout: layout.njk
 ---
 Labour to revolutionise schools and learning
 ============================================

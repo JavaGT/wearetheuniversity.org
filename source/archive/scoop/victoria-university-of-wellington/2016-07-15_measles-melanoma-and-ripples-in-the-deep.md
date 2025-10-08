@@ -1,9 +1,12 @@
 ---
 slug: measles-melanoma-and-ripples-in-the-deep
-title: "Measles, melanoma and ripples in the deep"
-date: 2016-07-15
-source-url: https://www.scoop.co.nz/stories/ED1607/S00065/measles-melanoma-and-ripples-in-the-deep.htm
+title: Measles, melanoma and ripples in the deep
+date: 2016-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00065/measles-melanoma-and-ripples-in-the-deep.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/07/15/measles-melanoma-and-ripples-in-the-deep/index.html
+layout: layout.njk
 ---
 Measles, melanoma and ripples in the deep
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: book-dishes-up-gourmet-delights-for-trampers
-title: "Book dishes up gourmet delights for trampers"
-date: 2007-04-05
-source-url: https://www.scoop.co.nz/stories/CU0704/S00059/book-dishes-up-gourmet-delights-for-trampers.htm
+title: Book dishes up gourmet delights for trampers
+date: 2007-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0704/S00059/book-dishes-up-gourmet-delights-for-trampers.htm
 author: university-of-canterbury
+permalink: /archive/2007/04/05/book-dishes-up-gourmet-delights-for-trampers/index.html
+layout: layout.njk
 ---
 Book dishes up gourmet delights for trampers
 ============================================

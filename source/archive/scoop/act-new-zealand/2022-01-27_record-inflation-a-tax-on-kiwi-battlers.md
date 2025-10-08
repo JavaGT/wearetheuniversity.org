@@ -1,9 +1,12 @@
 ---
 slug: record-inflation-a-tax-on-kiwi-battlers
-title: "Record Inflation A Tax On Kiwi Battlers"
-date: 2022-01-27
-source-url: https://www.scoop.co.nz/stories/PA2201/S00101/record-inflation-a-tax-on-kiwi-battlers.htm
+title: Record Inflation A Tax On Kiwi Battlers
+date: 2022-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00101/record-inflation-a-tax-on-kiwi-battlers.htm
 author: act-new-zealand
+permalink: /archive/2022/01/27/record-inflation-a-tax-on-kiwi-battlers/index.html
+layout: layout.njk
 ---
 Record Inflation A Tax On Kiwi Battlers
 =======================================

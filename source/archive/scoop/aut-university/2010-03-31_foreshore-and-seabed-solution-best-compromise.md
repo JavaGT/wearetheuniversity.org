@@ -1,9 +1,12 @@
 ---
 slug: foreshore-and-seabed-solution-best-compromise
-title: "Foreshore and Seabed solution \"best compromise\""
-date: 2010-03-31
-source-url: https://www.scoop.co.nz/stories/ED1003/S00152/foreshore-and-seabed-solution-best-compromise.htm
+title: Foreshore and Seabed solution "best compromise"
+date: 2010-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00152/foreshore-and-seabed-solution-best-compromise.htm
 author: aut-university
+permalink: /archive/2010/03/31/foreshore-and-seabed-solution-best-compromise/index.html
+layout: layout.njk
 ---
 Foreshore and Seabed solution “best compromise”
 ===============================================

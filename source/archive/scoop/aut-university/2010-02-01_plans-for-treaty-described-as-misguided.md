@@ -1,9 +1,12 @@
 ---
 slug: plans-for-treaty-described-as-misguided
-title: "Plans For Treaty Described As ‘Misguided’"
-date: 2010-02-01
-source-url: https://www.scoop.co.nz/stories/PO1002/S00004/plans-for-treaty-described-as-misguided.htm
+title: Plans For Treaty Described As ‘Misguided’
+date: 2010-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1002/S00004/plans-for-treaty-described-as-misguided.htm
 author: aut-university
+permalink: /archive/2010/02/01/plans-for-treaty-described-as-misguided/index.html
+layout: layout.njk
 ---
 Plans For Treaty Described As ‘Misguided’
 =========================================

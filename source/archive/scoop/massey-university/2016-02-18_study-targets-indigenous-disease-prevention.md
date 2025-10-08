@@ -1,9 +1,12 @@
 ---
 slug: study-targets-indigenous-disease-prevention
-title: "Study targets indigenous disease prevention"
-date: 2016-02-18
-source-url: https://www.scoop.co.nz/stories/SC1602/S00049/study-targets-indigenous-disease-prevention.htm
+title: Study targets indigenous disease prevention
+date: 2016-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00049/study-targets-indigenous-disease-prevention.htm
 author: massey-university
+permalink: /archive/2016/02/18/study-targets-indigenous-disease-prevention/index.html
+layout: layout.njk
 ---
 Study targets indigenous disease prevention
 ===========================================

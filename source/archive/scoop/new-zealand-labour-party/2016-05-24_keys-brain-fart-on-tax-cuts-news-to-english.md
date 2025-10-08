@@ -1,9 +1,12 @@
 ---
 slug: keys-brain-fart-on-tax-cuts-news-to-english
-title: "Key’s \"brain fart\" on tax cuts news to English"
-date: 2016-05-24
-source-url: https://www.scoop.co.nz/stories/PA1605/S00453/keys-brain-fart-on-tax-cuts-news-to-english.htm
+title: Key’s "brain fart" on tax cuts news to English
+date: 2016-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00453/keys-brain-fart-on-tax-cuts-news-to-english.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/24/keys-brain-fart-on-tax-cuts-news-to-english/index.html
+layout: layout.njk
 ---
 Key’s “brain fart” on tax cuts news to English
 ==============================================

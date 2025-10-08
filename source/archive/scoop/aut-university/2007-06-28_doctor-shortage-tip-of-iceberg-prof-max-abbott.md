@@ -1,9 +1,12 @@
 ---
 slug: doctor-shortage-tip-of-iceberg-prof-max-abbott
-title: "Doctor Shortage Tip Of Iceberg -- Prof. Max Abbott"
-date: 2007-06-28
-source-url: https://www.scoop.co.nz/stories/GE0706/S00103/doctor-shortage-tip-of-iceberg-prof-max-abbott.htm
+title: Doctor Shortage Tip Of Iceberg -- Prof. Max Abbott
+date: 2007-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0706/S00103/doctor-shortage-tip-of-iceberg-prof-max-abbott.htm
 author: aut-university
+permalink: /archive/2007/06/28/doctor-shortage-tip-of-iceberg-prof-max-abbott/index.html
+layout: layout.njk
 ---
 Doctor Shortage Tip Of Iceberg -- Prof. Max Abbott
 ==================================================

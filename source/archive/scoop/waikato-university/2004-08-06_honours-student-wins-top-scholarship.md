@@ -1,9 +1,12 @@
 ---
 slug: honours-student-wins-top-scholarship
-title: "Honours Student Wins Top Scholarship"
-date: 2004-08-06
-source-url: https://www.scoop.co.nz/stories/ED0408/S00021/honours-student-wins-top-scholarship.htm
+title: Honours Student Wins Top Scholarship
+date: 2004-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00021/honours-student-wins-top-scholarship.htm
 author: waikato-university
+permalink: /archive/2004/08/06/honours-student-wins-top-scholarship/index.html
+layout: layout.njk
 ---
 Honours Student Wins Top Scholarship
 ====================================

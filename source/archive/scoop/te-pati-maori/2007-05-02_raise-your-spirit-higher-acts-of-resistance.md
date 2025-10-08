@@ -1,9 +1,12 @@
 ---
 slug: raise-your-spirit-higher-acts-of-resistance
-title: "‘Raise your spirit higher: Acts of Resistance’"
-date: 2007-05-02
-source-url: https://www.scoop.co.nz/stories/PA0705/S00061/raise-your-spirit-higher-acts-of-resistance.htm
+title: '‘Raise your spirit higher: Acts of Resistance’'
+date: 2007-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00061/raise-your-spirit-higher-acts-of-resistance.htm
 author: te-pati-maori
+permalink: /archive/2007/05/02/raise-your-spirit-higher-acts-of-resistance/index.html
+layout: layout.njk
 ---
 ‘Raise your spirit higher: Acts of Resistance’
 ==============================================

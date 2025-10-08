@@ -1,9 +1,12 @@
 ---
 slug: international-students-introduced-to-kiwi-ways
-title: "International students introduced to Kiwi ways"
-date: 2006-02-20
-source-url: https://www.scoop.co.nz/stories/ED0602/S00049/international-students-introduced-to-kiwi-ways.htm
+title: International students introduced to Kiwi ways
+date: 2006-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00049/international-students-introduced-to-kiwi-ways.htm
 author: auckland-university
+permalink: /archive/2006/02/20/international-students-introduced-to-kiwi-ways/index.html
+layout: layout.njk
 ---
 International students introduced to Kiwi ways
 ==============================================

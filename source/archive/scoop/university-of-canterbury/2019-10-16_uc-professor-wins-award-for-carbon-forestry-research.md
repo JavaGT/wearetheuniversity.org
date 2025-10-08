@@ -1,9 +1,13 @@
 ---
 slug: uc-professor-wins-award-for-carbon-forestry-research
-title: "UC professor wins award for carbon forestry research"
-date: 2019-10-16
-source-url: https://www.scoop.co.nz/stories/SC1910/S00036/uc-professor-wins-award-for-carbon-forestry-research.htm
+title: UC professor wins award for carbon forestry research
+date: 2019-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1910/S00036/uc-professor-wins-award-for-carbon-forestry-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/10/16/uc-professor-wins-award-for-carbon-forestry-research/index.html
+layout: layout.njk
 ---
 UC professor wins award for carbon forestry research
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: what-taniwha-get-on-with-the-road!
-title: "What taniwha? Get on with the road!"
-date: 2002-11-06
-source-url: https://www.scoop.co.nz/stories/PA0211/S00111/what-taniwha-get-on-with-the-road.htm
+title: What taniwha? Get on with the road!
+date: 2002-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00111/what-taniwha-get-on-with-the-road.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/06/what-taniwha-get-on-with-the-road/index.html
+layout: layout.njk
 ---
 What taniwha? Get on with the road!
 ===================================

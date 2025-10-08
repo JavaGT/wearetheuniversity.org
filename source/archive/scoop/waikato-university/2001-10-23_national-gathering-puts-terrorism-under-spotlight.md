@@ -1,9 +1,13 @@
 ---
 slug: national-gathering-puts-terrorism-under-spotlight
-title: "National gathering puts terrorism under spotlight"
-date: 2001-10-23
-source-url: https://www.scoop.co.nz/stories/ED0110/S00024/national-gathering-puts-terrorism-under-spotlight.htm
+title: National gathering puts terrorism under spotlight
+date: 2001-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00024/national-gathering-puts-terrorism-under-spotlight.htm
 author: waikato-university
+permalink: >-
+  /archive/2001/10/23/national-gathering-puts-terrorism-under-spotlight/index.html
+layout: layout.njk
 ---
 National gathering puts terrorism under spotlight
 =================================================

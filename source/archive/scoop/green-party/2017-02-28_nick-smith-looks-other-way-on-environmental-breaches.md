@@ -1,9 +1,13 @@
 ---
 slug: nick-smith-looks-other-way-on-environmental-breaches
-title: "Nick Smith looks other way on environmental breaches"
-date: 2017-02-28
-source-url: https://www.scoop.co.nz/stories/PA1702/S00391/nick-smith-looks-other-way-on-environmental-breaches.htm
+title: Nick Smith looks other way on environmental breaches
+date: 2017-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00391/nick-smith-looks-other-way-on-environmental-breaches.htm
 author: green-party
+permalink: >-
+  /archive/2017/02/28/nick-smith-looks-other-way-on-environmental-breaches/index.html
+layout: layout.njk
 ---
 Nick Smith looks other way on environmental breaches
 ====================================================

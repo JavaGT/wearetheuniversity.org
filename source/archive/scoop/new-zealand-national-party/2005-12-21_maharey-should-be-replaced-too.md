@@ -1,9 +1,12 @@
 ---
 slug: maharey-should-be-replaced-too
-title: "Maharey should be replaced too"
-date: 2005-12-21
-source-url: https://www.scoop.co.nz/stories/PA0512/S00339/maharey-should-be-replaced-too.htm
+title: Maharey should be replaced too
+date: 2005-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00339/maharey-should-be-replaced-too.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/21/maharey-should-be-replaced-too/index.html
+layout: layout.njk
 ---
 Maharey should be replaced too
 ==============================

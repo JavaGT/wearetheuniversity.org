@@ -1,9 +1,12 @@
 ---
 slug: marsden-grant-to-study-sophisticated-cameras
-title: "Marsden grant to study sophisticated cameras"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/ED1511/S00053/marsden-grant-to-study-sophisticated-cameras.htm
+title: Marsden grant to study sophisticated cameras
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00053/marsden-grant-to-study-sophisticated-cameras.htm
 author: university-of-waikato
+permalink: /archive/2015/11/09/marsden-grant-to-study-sophisticated-cameras/index.html
+layout: layout.njk
 ---
 Marsden grant to study sophisticated cameras
 ============================================

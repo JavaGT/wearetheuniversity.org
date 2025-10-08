@@ -1,9 +1,12 @@
 ---
 slug: multiple-education-strikes-looming
-title: "Multiple education strikes looming"
-date: 2018-09-26
-source-url: https://www.scoop.co.nz/stories/PA1809/S00353/multiple-education-strikes-looming.htm
+title: Multiple education strikes looming
+date: 2018-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00353/multiple-education-strikes-looming.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/26/multiple-education-strikes-looming/index.html
+layout: layout.njk
 ---
 Multiple education strikes looming
 ==================================

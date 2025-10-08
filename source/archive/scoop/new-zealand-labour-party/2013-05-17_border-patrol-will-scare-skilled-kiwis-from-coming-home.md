@@ -1,9 +1,13 @@
 ---
 slug: border-patrol-will-scare-skilled-kiwis-from-coming-home
-title: "Border Patrol Will Scare Skilled Kiwis from Coming Home"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PA1305/S00363/border-patrol-will-scare-skilled-kiwis-from-coming-home.htm
+title: Border Patrol Will Scare Skilled Kiwis from Coming Home
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00363/border-patrol-will-scare-skilled-kiwis-from-coming-home.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/05/17/border-patrol-will-scare-skilled-kiwis-from-coming-home/index.html
+layout: layout.njk
 ---
 Border Patrol Will Scare Skilled Kiwis from Coming Home
 =======================================================

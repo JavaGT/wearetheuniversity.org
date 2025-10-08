@@ -1,9 +1,13 @@
 ---
 slug: student-volunteer-army-planning-next-major-campaign
-title: "Student Volunteer Army planning next major campaign"
-date: 2014-06-15
-source-url: https://www.scoop.co.nz/stories/AK1406/S00341/student-volunteer-army-planning-next-major-campaign.htm
+title: Student Volunteer Army planning next major campaign
+date: 2014-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00341/student-volunteer-army-planning-next-major-campaign.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/15/student-volunteer-army-planning-next-major-campaign/index.html
+layout: layout.njk
 ---
 Student Volunteer Army planning next major campaign
 ===================================================

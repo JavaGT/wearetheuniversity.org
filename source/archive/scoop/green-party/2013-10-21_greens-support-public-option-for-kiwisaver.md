@@ -1,9 +1,12 @@
 ---
 slug: greens-support-public-option-for-kiwisaver
-title: "Greens support public option for KiwiSaver"
-date: 2013-10-21
-source-url: https://www.scoop.co.nz/stories/PA1310/S00324/greens-support-public-option-for-kiwisaver.htm
+title: Greens support public option for KiwiSaver
+date: 2013-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00324/greens-support-public-option-for-kiwisaver.htm
 author: green-party
+permalink: /archive/2013/10/21/greens-support-public-option-for-kiwisaver/index.html
+layout: layout.njk
 ---
 Greens support public option for KiwiSaver
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: the-impacts-of-education-policy-under-the-microscope
-title: "The impacts of education policy under the microscope"
-date: 2010-12-08
-source-url: https://www.scoop.co.nz/stories/AK1012/S00249/the-impacts-of-education-policy-under-the-microscope.htm
+title: The impacts of education policy under the microscope
+date: 2010-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1012/S00249/the-impacts-of-education-policy-under-the-microscope.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/12/08/the-impacts-of-education-policy-under-the-microscope/index.html
+layout: layout.njk
 ---
 The impacts of education policy under the microscope
 ====================================================

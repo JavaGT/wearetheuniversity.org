@@ -1,9 +1,12 @@
 ---
 slug: clean-green-new-zealand-can-we-keep-it
-title: "Clean, Green New Zealand – Can We Keep It"
-date: 2002-09-25
-source-url: https://www.scoop.co.nz/stories/PA0209/S00407/clean-green-new-zealand-can-we-keep-it.htm
+title: Clean, Green New Zealand – Can We Keep It
+date: 2002-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00407/clean-green-new-zealand-can-we-keep-it.htm
 author: new-zealand-first-party
+permalink: /archive/2002/09/25/clean-green-new-zealand-can-we-keep-it/index.html
+layout: layout.njk
 ---
 Clean, Green New Zealand – Can We Keep It
 =========================================

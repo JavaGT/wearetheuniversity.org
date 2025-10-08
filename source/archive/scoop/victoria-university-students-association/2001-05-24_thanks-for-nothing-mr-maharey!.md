@@ -1,9 +1,12 @@
 ---
 slug: thanks-for-nothing-mr-maharey!
-title: "Thanks for Nothing Mr Maharey!"
-date: 2001-05-24
-source-url: https://www.scoop.co.nz/stories/ED0105/S00055/thanks-for-nothing-mr-maharey.htm
+title: Thanks for Nothing Mr Maharey!
+date: 2001-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00055/thanks-for-nothing-mr-maharey.htm
 author: victoria-university-students-association
+permalink: /archive/2001/05/24/thanks-for-nothing-mr-maharey/index.html
+layout: layout.njk
 ---
 Thanks for Nothing Mr Maharey!
 ==============================

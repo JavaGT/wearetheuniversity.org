@@ -1,9 +1,11 @@
 ---
 slug: youth-rates-vote-significant
-title: "Youth Rates Vote Significant"
-date: 2007-08-16
+title: Youth Rates Vote Significant
+date: 2007-08-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0708/S00230/youth-rates-vote-significant.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/08/16/youth-rates-vote-significant/index.html
+layout: layout.njk
 ---
 Youth Rates Vote Significant
 ============================

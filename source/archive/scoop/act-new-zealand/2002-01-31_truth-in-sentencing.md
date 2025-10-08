@@ -1,9 +1,11 @@
 ---
 slug: truth-in-sentencing
-title: "Truth in Sentencing"
-date: 2002-01-31
+title: Truth in Sentencing
+date: 2002-01-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0201/S00246/truth-in-sentencing.htm
 author: act-new-zealand
+permalink: /archive/2002/01/31/truth-in-sentencing/index.html
+layout: layout.njk
 ---
 Truth in Sentencing
 ===================

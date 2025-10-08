@@ -1,9 +1,12 @@
 ---
 slug: its-my-life-winners-to-help-make-nz-smokefree
-title: "‘It’s My Life’ winners to help make NZ smokefree"
-date: 2014-03-25
-source-url: https://www.scoop.co.nz/stories/ED1403/S00151/its-my-life-winners-to-help-make-nz-smokefree.htm
+title: ‘It’s My Life’ winners to help make NZ smokefree
+date: 2014-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00151/its-my-life-winners-to-help-make-nz-smokefree.htm
 author: massey-university
+permalink: /archive/2014/03/25/its-my-life-winners-to-help-make-nz-smokefree/index.html
+layout: layout.njk
 ---
 ‘It’s My Life’ winners to help make NZ smokefree
 ================================================

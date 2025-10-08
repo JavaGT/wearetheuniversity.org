@@ -1,9 +1,12 @@
 ---
 slug: arrogant-government-not-above-the-law
-title: "Arrogant Government not above the law"
-date: 2016-02-03
-source-url: https://www.scoop.co.nz/stories/PA1602/S00045/arrogant-government-not-above-the-law.htm
+title: Arrogant Government not above the law
+date: 2016-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00045/arrogant-government-not-above-the-law.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/03/arrogant-government-not-above-the-law/index.html
+layout: layout.njk
 ---
 Arrogant Government not above the law
 =====================================

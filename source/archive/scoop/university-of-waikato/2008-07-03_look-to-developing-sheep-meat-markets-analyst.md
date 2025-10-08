@@ -1,9 +1,12 @@
 ---
 slug: look-to-developing-sheep-meat-markets-analyst
-title: "Look to developing sheep meat markets - analyst"
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/BU0807/S00055/look-to-developing-sheep-meat-markets-analyst.htm
+title: Look to developing sheep meat markets - analyst
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0807/S00055/look-to-developing-sheep-meat-markets-analyst.htm
 author: university-of-waikato
+permalink: /archive/2008/07/03/look-to-developing-sheep-meat-markets-analyst/index.html
+layout: layout.njk
 ---
 Look to developing sheep meat markets - analyst
 ===============================================

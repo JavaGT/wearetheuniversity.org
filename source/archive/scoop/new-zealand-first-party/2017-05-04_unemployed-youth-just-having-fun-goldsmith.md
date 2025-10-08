@@ -1,9 +1,12 @@
 ---
 slug: unemployed-youth-just-having-fun-goldsmith
-title: "Unemployed Youth ‘Just Having Fun’ - Goldsmith"
-date: 2017-05-04
-source-url: https://www.scoop.co.nz/stories/PA1705/S00107/unemployed-youth-just-having-fun-goldsmith.htm
+title: Unemployed Youth ‘Just Having Fun’ - Goldsmith
+date: 2017-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00107/unemployed-youth-just-having-fun-goldsmith.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/04/unemployed-youth-just-having-fun-goldsmith/index.html
+layout: layout.njk
 ---
 Unemployed Youth ‘Just Having Fun’ - Goldsmith
 ==============================================

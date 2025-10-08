@@ -1,9 +1,12 @@
 ---
 slug: ross-robertson-to-present-international-award
-title: "Ross Robertson to present international award"
-date: 2010-10-22
-source-url: https://www.scoop.co.nz/stories/PA1010/S00400/ross-robertson-to-present-international-award.htm
+title: Ross Robertson to present international award
+date: 2010-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00400/ross-robertson-to-present-international-award.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/22/ross-robertson-to-present-international-award/index.html
+layout: layout.njk
 ---
 Ross Robertson to present international award
 =============================================

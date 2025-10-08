@@ -1,9 +1,13 @@
 ---
 slug: tuiloma-neroni-slade-to-receive-honorary-doctorate
-title: "Tuiloma Neroni Slade to receive honorary doctorate"
-date: 2016-11-01
-source-url: https://www.scoop.co.nz/stories/AK1611/S00007/tuiloma-neroni-slade-to-receive-honorary-doctorate.htm
+title: Tuiloma Neroni Slade to receive honorary doctorate
+date: 2016-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1611/S00007/tuiloma-neroni-slade-to-receive-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/11/01/tuiloma-neroni-slade-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Tuiloma Neroni Slade to receive honorary doctorate
 ==================================================

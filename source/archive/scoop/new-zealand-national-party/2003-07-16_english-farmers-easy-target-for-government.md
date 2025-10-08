@@ -1,9 +1,12 @@
 ---
 slug: english-farmers-easy-target-for-government
-title: "English -  Farmers easy target for Government"
-date: 2003-07-16
-source-url: https://www.scoop.co.nz/stories/PA0307/S00288/english-farmers-easy-target-for-government.htm
+title: English -  Farmers easy target for Government
+date: 2003-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00288/english-farmers-easy-target-for-government.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/16/english-farmers-easy-target-for-government/index.html
+layout: layout.njk
 ---
 English - Farmers easy target for Government
 ============================================

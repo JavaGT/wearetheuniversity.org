@@ -1,9 +1,12 @@
 ---
 slug: phd-graduates-continue-to-shine-at-victoria
-title: "PhD Graduates Continue to Shine at Victoria"
-date: 2004-05-05
-source-url: https://www.scoop.co.nz/stories/ED0405/S00018/phd-graduates-continue-to-shine-at-victoria.htm
+title: PhD Graduates Continue to Shine at Victoria
+date: 2004-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00018/phd-graduates-continue-to-shine-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/05/05/phd-graduates-continue-to-shine-at-victoria/index.html
+layout: layout.njk
 ---
 PhD Graduates Continue to Shine at Victoria
 ===========================================

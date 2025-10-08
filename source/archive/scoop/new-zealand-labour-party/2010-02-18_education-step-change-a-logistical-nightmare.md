@@ -1,9 +1,12 @@
 ---
 slug: education-step-change-a-logistical-nightmare
-title: "Education 'Step Change' a logistical nightmare"
-date: 2010-02-18
-source-url: https://www.scoop.co.nz/stories/PA1002/S00244/education-step-change-a-logistical-nightmare.htm
+title: Education 'Step Change' a logistical nightmare
+date: 2010-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00244/education-step-change-a-logistical-nightmare.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/18/education-step-change-a-logistical-nightmare/index.html
+layout: layout.njk
 ---
 Education 'Step Change' a logistical nightmare
 ==============================================

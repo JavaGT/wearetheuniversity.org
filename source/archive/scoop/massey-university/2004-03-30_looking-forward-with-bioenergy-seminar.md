@@ -1,9 +1,12 @@
 ---
 slug: looking-forward-with-bioenergy-seminar
-title: "\"Looking Forward with Bioenergy \" - Seminar"
-date: 2004-03-30
-source-url: https://www.scoop.co.nz/stories/ED0403/S00126/looking-forward-with-bioenergy--seminar.htm
+title: '"Looking Forward with Bioenergy " - Seminar'
+date: 2004-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00126/looking-forward-with-bioenergy--seminar.htm
 author: massey-university
+permalink: /archive/2004/03/30/looking-forward-with-bioenergy-seminar/index.html
+layout: layout.njk
 ---
 "Looking Forward with Bioenergy " - Seminar
 ===========================================

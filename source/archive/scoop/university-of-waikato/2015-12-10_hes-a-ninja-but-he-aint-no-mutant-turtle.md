@@ -1,9 +1,12 @@
 ---
 slug: hes-a-ninja-but-he-aint-no-mutant-turtle
-title: "He’s a ninja but he ain’t no mutant turtle"
-date: 2015-12-10
-source-url: https://www.scoop.co.nz/stories/ED1512/S00044/hes-a-ninja-but-he-aint-no-mutant-turtle.htm
+title: He’s a ninja but he ain’t no mutant turtle
+date: 2015-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00044/hes-a-ninja-but-he-aint-no-mutant-turtle.htm
 author: university-of-waikato
+permalink: /archive/2015/12/10/hes-a-ninja-but-he-aint-no-mutant-turtle/index.html
+layout: layout.njk
 ---
 He’s a ninja but he ain’t no mutant turtle
 ==========================================

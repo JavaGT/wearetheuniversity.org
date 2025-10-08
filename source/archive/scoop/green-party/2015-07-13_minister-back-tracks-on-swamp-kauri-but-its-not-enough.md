@@ -1,9 +1,13 @@
 ---
 slug: minister-back-tracks-on-swamp-kauri-but-its-not-enough
-title: "Minister back tracks on swamp kauri – but it’s not enough"
-date: 2015-07-13
-source-url: https://www.scoop.co.nz/stories/PA1507/S00210/minister-back-tracks-on-swamp-kauri-but-its-not-enough.htm
+title: Minister back tracks on swamp kauri – but it’s not enough
+date: 2015-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00210/minister-back-tracks-on-swamp-kauri-but-its-not-enough.htm
 author: green-party
+permalink: >-
+  /archive/2015/07/13/minister-back-tracks-on-swamp-kauri-but-its-not-enough/index.html
+layout: layout.njk
 ---
 Minister back tracks on swamp kauri – but it’s not enough
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: government-continues-to-turn-its-back-on-pacific-priorities
-title: "Government continues to turn its back on Pacific priorities"
-date: 2011-03-17
-source-url: https://www.scoop.co.nz/stories/PA1103/S00272/government-continues-to-turn-its-back-on-pacific-priorities.htm
+title: Government continues to turn its back on Pacific priorities
+date: 2011-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00272/government-continues-to-turn-its-back-on-pacific-priorities.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/03/17/government-continues-to-turn-its-back-on-pacific-priorities/index.html
+layout: layout.njk
 ---
 Government continues to turn its back on Pacific priorities
 ===========================================================

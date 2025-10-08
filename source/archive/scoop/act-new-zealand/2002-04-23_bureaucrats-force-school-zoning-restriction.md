@@ -1,9 +1,12 @@
 ---
 slug: bureaucrats-force-school-zoning-restriction
-title: "Bureaucrats Force School Zoning Restriction"
-date: 2002-04-23
-source-url: https://www.scoop.co.nz/stories/PA0204/S00326/bureaucrats-force-school-zoning-restriction.htm
+title: Bureaucrats Force School Zoning Restriction
+date: 2002-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00326/bureaucrats-force-school-zoning-restriction.htm
 author: act-new-zealand
+permalink: /archive/2002/04/23/bureaucrats-force-school-zoning-restriction/index.html
+layout: layout.njk
 ---
 Bureaucrats Force School Zoning Restriction
 ===========================================

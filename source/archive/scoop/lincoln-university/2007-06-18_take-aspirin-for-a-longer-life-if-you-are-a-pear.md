@@ -1,9 +1,13 @@
 ---
 slug: take-aspirin-for-a-longer-life-if-you-are-a-pear
-title: "Take aspirin for a longer life – if you are a pear"
-date: 2007-06-18
-source-url: https://www.scoop.co.nz/stories/SC0706/S00045/take-aspirin-for-a-longer-life-if-you-are-a-pear.htm
+title: Take aspirin for a longer life – if you are a pear
+date: 2007-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0706/S00045/take-aspirin-for-a-longer-life-if-you-are-a-pear.htm
 author: lincoln-university
+permalink: >-
+  /archive/2007/06/18/take-aspirin-for-a-longer-life-if-you-are-a-pear/index.html
+layout: layout.njk
 ---
 Take aspirin for a longer life – if you are a pear
 ==================================================

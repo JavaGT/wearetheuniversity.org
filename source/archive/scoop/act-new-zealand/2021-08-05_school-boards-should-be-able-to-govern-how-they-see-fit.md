@@ -1,9 +1,13 @@
 ---
 slug: school-boards-should-be-able-to-govern-how-they-see-fit
-title: "School Boards Should Be Able To Govern How They See Fit"
-date: 2021-08-05
-source-url: https://www.scoop.co.nz/stories/PA2108/S00045/school-boards-should-be-able-to-govern-how-they-see-fit.htm
+title: School Boards Should Be Able To Govern How They See Fit
+date: 2021-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00045/school-boards-should-be-able-to-govern-how-they-see-fit.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/08/05/school-boards-should-be-able-to-govern-how-they-see-fit/index.html
+layout: layout.njk
 ---
 School Boards Should Be Able To Govern How They See Fit
 =======================================================

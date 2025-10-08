@@ -1,9 +1,13 @@
 ---
 slug: auckland-students-rally-against-albert-park-violence
-title: "Auckland Students Rally Against Albert Park Violence"
-date: 2016-04-06
-source-url: https://www.scoop.co.nz/stories/ED1604/S00014/auckland-students-rally-against-albert-park-violence.htm
+title: Auckland Students Rally Against Albert Park Violence
+date: 2016-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00014/auckland-students-rally-against-albert-park-violence.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2016/04/06/auckland-students-rally-against-albert-park-violence/index.html
+layout: layout.njk
 ---
 Auckland Students Rally Against Albert Park Violence
 ====================================================

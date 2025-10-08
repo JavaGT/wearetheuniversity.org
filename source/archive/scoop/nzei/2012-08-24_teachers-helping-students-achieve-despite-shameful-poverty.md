@@ -1,9 +1,13 @@
 ---
 slug: teachers-helping-students-achieve-despite-shameful-poverty
-title: "Teachers helping students achieve despite shameful poverty"
-date: 2012-08-24
-source-url: https://www.scoop.co.nz/stories/PO1208/S00381/teachers-helping-students-achieve-despite-shameful-poverty.htm
+title: Teachers helping students achieve despite shameful poverty
+date: 2012-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00381/teachers-helping-students-achieve-despite-shameful-poverty.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/24/teachers-helping-students-achieve-despite-shameful-poverty/index.html
+layout: layout.njk
 ---
 Teachers helping students achieve despite shameful poverty
 ==========================================================

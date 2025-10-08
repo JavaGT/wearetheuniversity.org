@@ -1,9 +1,12 @@
 ---
 slug: govt-confirms-no-caveats-on-criminals-payouts
-title: "Govt confirms no caveats on criminals’ payouts"
-date: 2018-07-04
-source-url: https://www.scoop.co.nz/stories/PA1807/S00052/govt-confirms-no-caveats-on-criminals-payouts.htm
+title: Govt confirms no caveats on criminals’ payouts
+date: 2018-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00052/govt-confirms-no-caveats-on-criminals-payouts.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/04/govt-confirms-no-caveats-on-criminals-payouts/index.html
+layout: layout.njk
 ---
 Govt confirms no caveats on criminals’ payouts
 ==============================================

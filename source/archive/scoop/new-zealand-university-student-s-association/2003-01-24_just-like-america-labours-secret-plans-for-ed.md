@@ -1,9 +1,12 @@
 ---
 slug: just-like-america-labours-secret-plans-for-ed
-title: "\"Just like America\" - Labour's Secret Plans for Ed"
-date: 2003-01-24
-source-url: https://www.scoop.co.nz/stories/ED0301/S00011/just-like-america-labours-secret-plans-for-ed.htm
+title: '"Just like America" - Labour''s Secret Plans for Ed'
+date: 2003-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00011/just-like-america-labours-secret-plans-for-ed.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/01/24/just-like-america-labours-secret-plans-for-ed/index.html
+layout: layout.njk
 ---
 "Just like America" - Labour's Secret Plans for Ed
 ==================================================

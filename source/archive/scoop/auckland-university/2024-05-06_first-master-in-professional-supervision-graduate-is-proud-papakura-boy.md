@@ -1,9 +1,13 @@
 ---
 slug: first-master-in-professional-supervision-graduate-is-proud-papakura-boy
-title: "First Master In Professional Supervision Graduate Is ‘proud Papakura Boy’"
-date: 2024-05-06
-source-url: https://www.scoop.co.nz/stories/ED2405/S00023/first-master-in-professional-supervision-graduate-is-proud-papakura-boy.htm
+title: First Master In Professional Supervision Graduate Is ‘proud Papakura Boy’
+date: 2024-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00023/first-master-in-professional-supervision-graduate-is-proud-papakura-boy.htm
 author: auckland-university
+permalink: >-
+  /archive/2024/05/06/first-master-in-professional-supervision-graduate-is-proud-papakura-boy/index.html
+layout: layout.njk
 ---
 First Master In Professional Supervision Graduate Is ‘proud Papakura Boy’
 =========================================================================

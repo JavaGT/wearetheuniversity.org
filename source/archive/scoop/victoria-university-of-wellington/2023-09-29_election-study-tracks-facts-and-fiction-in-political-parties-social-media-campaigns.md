@@ -1,9 +1,16 @@
 ---
-slug: election-study-tracks-facts-and-fiction-in-political-parties-social-media-campaigns
-title: "Election Study Tracks Facts And Fiction In Political Parties’ Social Media Campaigns"
-date: 2023-09-29
-source-url: https://www.scoop.co.nz/stories/PO2309/S00258/election-study-tracks-facts-and-fiction-in-political-parties-social-media-campaigns.htm
+slug: >-
+  election-study-tracks-facts-and-fiction-in-political-parties-social-media-campaigns
+title: >-
+  Election Study Tracks Facts And Fiction In Political Parties’ Social Media
+  Campaigns
+date: 2023-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00258/election-study-tracks-facts-and-fiction-in-political-parties-social-media-campaigns.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2023/09/29/election-study-tracks-facts-and-fiction-in-political-parties-social-media-campaigns/index.html
+layout: layout.njk
 ---
 Election Study Tracks Facts And Fiction In Political Parties’ Social Media Campaigns
 ====================================================================================

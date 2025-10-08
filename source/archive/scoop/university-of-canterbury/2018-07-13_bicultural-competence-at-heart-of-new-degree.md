@@ -1,9 +1,12 @@
 ---
 slug: bicultural-competence-at-heart-of-new-degree
-title: "Bicultural competence at heart of new degree"
-date: 2018-07-13
-source-url: https://www.scoop.co.nz/stories/ED1807/S00043/bicultural-competence-at-heart-of-new-degree.htm
+title: Bicultural competence at heart of new degree
+date: 2018-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1807/S00043/bicultural-competence-at-heart-of-new-degree.htm
 author: university-of-canterbury
+permalink: /archive/2018/07/13/bicultural-competence-at-heart-of-new-degree/index.html
+layout: layout.njk
 ---
 Bicultural competence at heart of new degree
 ============================================

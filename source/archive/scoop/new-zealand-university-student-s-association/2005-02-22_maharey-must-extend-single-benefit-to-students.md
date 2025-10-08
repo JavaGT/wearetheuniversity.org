@@ -1,9 +1,12 @@
 ---
 slug: maharey-must-extend-single-benefit-to-students
-title: "Maharey must extend single benefit to students"
-date: 2005-02-22
-source-url: https://www.scoop.co.nz/stories/ED0502/S00073/maharey-must-extend-single-benefit-to-students.htm
+title: Maharey must extend single benefit to students
+date: 2005-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00073/maharey-must-extend-single-benefit-to-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/02/22/maharey-must-extend-single-benefit-to-students/index.html
+layout: layout.njk
 ---
 Maharey must extend single benefit to students
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: where-are-the-affordable-homes-mr-key
-title: "Where are the affordable homes, Mr Key?"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/PA1305/S00556/where-are-the-affordable-homes-mr-key.htm
+title: Where are the affordable homes, Mr Key?
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00556/where-are-the-affordable-homes-mr-key.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/28/where-are-the-affordable-homes-mr-key/index.html
+layout: layout.njk
 ---
 Where are the affordable homes, Mr Key?
 =======================================

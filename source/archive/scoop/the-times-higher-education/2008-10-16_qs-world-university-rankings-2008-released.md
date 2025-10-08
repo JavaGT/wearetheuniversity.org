@@ -1,9 +1,12 @@
 ---
 slug: qs-world-university-rankings-2008-released
-title: "QS World University Rankings 2008 Released"
-date: 2008-10-16
-source-url: https://www.scoop.co.nz/stories/WO0810/S00318/qs-world-university-rankings-2008-released.htm
+title: QS World University Rankings 2008 Released
+date: 2008-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0810/S00318/qs-world-university-rankings-2008-released.htm
 author: the-times-higher-education
+permalink: /archive/2008/10/16/qs-world-university-rankings-2008-released/index.html
+layout: layout.njk
 ---
 QS World University Rankings 2008 Released
 ==========================================

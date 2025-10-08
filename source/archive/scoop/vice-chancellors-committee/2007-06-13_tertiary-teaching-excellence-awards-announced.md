@@ -1,9 +1,12 @@
 ---
 slug: tertiary-teaching-excellence-awards-announced
-title: "Tertiary Teaching Excellence Awards announced"
-date: 2007-06-13
-source-url: https://www.scoop.co.nz/stories/ED0706/S00049/tertiary-teaching-excellence-awards-announced.htm
+title: Tertiary Teaching Excellence Awards announced
+date: 2007-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00049/tertiary-teaching-excellence-awards-announced.htm
 author: vice-chancellors-committee
+permalink: /archive/2007/06/13/tertiary-teaching-excellence-awards-announced/index.html
+layout: layout.njk
 ---
 Tertiary Teaching Excellence Awards announced
 =============================================

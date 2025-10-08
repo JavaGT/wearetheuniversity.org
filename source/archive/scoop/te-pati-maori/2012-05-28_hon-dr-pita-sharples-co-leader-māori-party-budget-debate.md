@@ -1,9 +1,12 @@
 ---
 slug: hon-dr-pita-sharples-co-leader-māori-party-budget-debate
-title: "Hon Dr Pita Sharples, Co-leader, Māori Party: Budget Debate"
-date: 2012-05-28
-source-url: https://www.scoop.co.nz/stories/PA1205/S00495/hon-dr-pita-sharples-co-leader-maori-party-budget-debate.htm
+title: 'Hon Dr Pita Sharples, Co-leader, Māori Party: Budget Debate'
+date: 2012-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00495/hon-dr-pita-sharples-co-leader-maori-party-budget-debate.htm
 author: te-pati-maori
+permalink: /archive/2012/05/28/hon-dr-pita-sharples-co-leader-m/index.html
+layout: layout.njk
 ---
 Hon Dr Pita Sharples, Co-leader, Māori Party: Budget Debate
 ===========================================================

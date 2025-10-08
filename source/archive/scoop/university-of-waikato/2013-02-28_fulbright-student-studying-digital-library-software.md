@@ -1,9 +1,13 @@
 ---
 slug: fulbright-student-studying-digital-library-software
-title: "Fulbright Student Studying Digital Library Software"
-date: 2013-02-28
-source-url: https://www.scoop.co.nz/stories/ED1302/S00161/fulbright-student-studying-digital-library-software.htm
+title: Fulbright Student Studying Digital Library Software
+date: 2013-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00161/fulbright-student-studying-digital-library-software.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/02/28/fulbright-student-studying-digital-library-software/index.html
+layout: layout.njk
 ---
 Fulbright Student Studying Digital Library Software
 ===================================================

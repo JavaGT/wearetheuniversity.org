@@ -1,9 +1,12 @@
 ---
 slug: biomedical-institute-finds-new-home-at-victoria
-title: "Biomedical institute finds new home at Victoria"
-date: 2003-08-26
-source-url: https://www.scoop.co.nz/stories/SC0308/S00087/biomedical-institute-finds-new-home-at-victoria.htm
+title: Biomedical institute finds new home at Victoria
+date: 2003-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0308/S00087/biomedical-institute-finds-new-home-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/08/26/biomedical-institute-finds-new-home-at-victoria/index.html
+layout: layout.njk
 ---
 Biomedical institute finds new home at Victoria
 ===============================================

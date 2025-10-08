@@ -1,9 +1,13 @@
 ---
 slug: vaccination-mandate-for-lincoln-university-campus-access
-title: "Vaccination Mandate For Lincoln University Campus Access"
-date: 2021-12-14
-source-url: https://www.scoop.co.nz/stories/ED2112/S00026/vaccination-mandate-for-lincoln-university-campus-access.htm
+title: Vaccination Mandate For Lincoln University Campus Access
+date: 2021-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2112/S00026/vaccination-mandate-for-lincoln-university-campus-access.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/12/14/vaccination-mandate-for-lincoln-university-campus-access/index.html
+layout: layout.njk
 ---
 Vaccination Mandate For Lincoln University Campus Access
 ========================================================

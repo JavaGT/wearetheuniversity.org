@@ -1,9 +1,12 @@
 ---
 slug: lives-lost-as-funding-indecision-continues
-title: "Lives lost as funding indecision continues"
-date: 2016-01-22
-source-url: https://www.scoop.co.nz/stories/PA1601/S00091/lives-lost-as-funding-indecision-continues.htm
+title: Lives lost as funding indecision continues
+date: 2016-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00091/lives-lost-as-funding-indecision-continues.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/01/22/lives-lost-as-funding-indecision-continues/index.html
+layout: layout.njk
 ---
 Lives lost as funding indecision continues
 ==========================================

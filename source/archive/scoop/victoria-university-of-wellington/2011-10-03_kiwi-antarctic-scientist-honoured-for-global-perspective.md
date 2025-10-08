@@ -1,9 +1,13 @@
 ---
 slug: kiwi-antarctic-scientist-honoured-for-global-perspective
-title: "Kiwi Antarctic scientist honoured for global perspective"
-date: 2011-10-03
-source-url: https://www.scoop.co.nz/stories/SC1110/S00005/kiwi-antarctic-scientist-honoured-for-global-perspective.htm
+title: Kiwi Antarctic scientist honoured for global perspective
+date: 2011-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00005/kiwi-antarctic-scientist-honoured-for-global-perspective.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/10/03/kiwi-antarctic-scientist-honoured-for-global-perspective/index.html
+layout: layout.njk
 ---
 Kiwi Antarctic scientist honoured for global perspective
 ========================================================

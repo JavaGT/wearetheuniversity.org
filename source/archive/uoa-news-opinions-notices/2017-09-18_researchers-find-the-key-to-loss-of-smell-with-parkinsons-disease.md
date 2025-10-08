@@ -1,8 +1,12 @@
 ---
 slug: researchers-find-the-key-to-loss-of-smell-with-parkinsons-disease
-title: "Researchers find the key to loss of smell with Parkinson’s disease"
-date: 2017-09-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/researchers-find-the-key-to-loss-of-smell-with-parkinsons-diseas.html
+title: Researchers find the key to loss of smell with Parkinson’s disease
+date: 2017-09-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/researchers-find-the-key-to-loss-of-smell-with-parkinsons-diseas.html
+permalink: >-
+  /archive/2017/09/18/researchers-find-the-key-to-loss-of-smell-with-parkinsons-disease/index.html
+layout: layout.njk
 ---
 Researchers find the key to loss of smell with Parkinson’s disease
 ==================================================================

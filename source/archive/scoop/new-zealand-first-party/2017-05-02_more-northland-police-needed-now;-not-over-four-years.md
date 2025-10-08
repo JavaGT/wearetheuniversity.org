@@ -1,9 +1,12 @@
 ---
 slug: more-northland-police-needed-now;-not-over-four-years
-title: "More Northland Police  Needed Now; Not Over Four Years"
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/PA1705/S00033/more-northland-police-needed-now-not-over-four-years.htm
+title: More Northland Police  Needed Now; Not Over Four Years
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00033/more-northland-police-needed-now-not-over-four-years.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/02/more-northland-police-needed-now/index.html
+layout: layout.njk
 ---
 More Northland Police Needed Now; Not Over Four Years
 =====================================================

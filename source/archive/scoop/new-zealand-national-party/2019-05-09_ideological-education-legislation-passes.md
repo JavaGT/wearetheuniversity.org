@@ -1,9 +1,12 @@
 ---
 slug: ideological-education-legislation-passes
-title: "Ideological Education legislation passes"
-date: 2019-05-09
-source-url: https://www.scoop.co.nz/stories/PA1905/S00095/ideological-education-legislation-passes.htm
+title: Ideological Education legislation passes
+date: 2019-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00095/ideological-education-legislation-passes.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/09/ideological-education-legislation-passes/index.html
+layout: layout.njk
 ---
 Ideological Education legislation passes
 ========================================

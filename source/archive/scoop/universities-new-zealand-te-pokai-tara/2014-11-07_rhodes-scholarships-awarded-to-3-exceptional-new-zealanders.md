@@ -1,9 +1,13 @@
 ---
 slug: rhodes-scholarships-awarded-to-3-exceptional-new-zealanders
-title: "Rhodes Scholarships awarded to 3 exceptional New Zealanders"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/ED1411/S00052/rhodes-scholarships-awarded-to-3-exceptional-new-zealanders.htm
+title: Rhodes Scholarships awarded to 3 exceptional New Zealanders
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00052/rhodes-scholarships-awarded-to-3-exceptional-new-zealanders.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2014/11/07/rhodes-scholarships-awarded-to-3-exceptional-new-zealanders/index.html
+layout: layout.njk
 ---
 Rhodes Scholarships awarded to 3 exceptional New Zealanders
 ===========================================================

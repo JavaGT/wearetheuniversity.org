@@ -1,9 +1,11 @@
 ---
 slug: a-tribute-to-david-lange
-title: "A Tribute to David Lange"
-date: 2005-11-09
+title: A Tribute to David Lange
+date: 2005-11-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00115/a-tribute-to-david-lange.htm
 author: new-zealand-first-party
+permalink: /archive/2005/11/09/a-tribute-to-david-lange/index.html
+layout: layout.njk
 ---
 A Tribute to David Lange
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: efforts-in-wild-rivers-campaign-applauded
-title: "Efforts in wild rivers campaign applauded"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/PA1208/S00130/efforts-in-wild-rivers-campaign-applauded.htm
+title: Efforts in wild rivers campaign applauded
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00130/efforts-in-wild-rivers-campaign-applauded.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/09/efforts-in-wild-rivers-campaign-applauded/index.html
+layout: layout.njk
 ---
 Efforts in wild rivers campaign applauded
 =========================================

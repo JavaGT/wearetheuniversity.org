@@ -1,9 +1,12 @@
 ---
 slug: govts-oil-&-gas-ban-delivers-another-economic-blow
-title: "Govt’s Oil & Gas Ban Delivers Another Economic Blow"
-date: 2020-11-20
-source-url: https://www.scoop.co.nz/stories/PA2011/S00067/govts-oil-gas-ban-delivers-another-economic-blow.htm
+title: Govt’s Oil & Gas Ban Delivers Another Economic Blow
+date: 2020-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2011/S00067/govts-oil-gas-ban-delivers-another-economic-blow.htm
 author: new-zealand-national-party
+permalink: /archive/2020/11/20/govts-oil-/index.html
+layout: layout.njk
 ---
 Govt’s Oil & Gas Ban Delivers Another Economic Blow
 ===================================================

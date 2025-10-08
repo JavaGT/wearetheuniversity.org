@@ -1,9 +1,13 @@
 ---
 slug: uc-academics-bring-food-for-thought-to-riverside-market
-title: "UC academics bring Food for Thought to Riverside Market"
-date: 2019-12-06
-source-url: https://www.scoop.co.nz/stories/ED1912/S00026/uc-academics-bring-food-for-thought-to-riverside-market.htm
+title: UC academics bring Food for Thought to Riverside Market
+date: 2019-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00026/uc-academics-bring-food-for-thought-to-riverside-market.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/12/06/uc-academics-bring-food-for-thought-to-riverside-market/index.html
+layout: layout.njk
 ---
 UC academics bring Food for Thought to Riverside Market
 =======================================================

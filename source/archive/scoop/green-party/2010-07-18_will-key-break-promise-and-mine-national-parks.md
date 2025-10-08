@@ -1,9 +1,12 @@
 ---
 slug: will-key-break-promise-and-mine-national-parks
-title: "Will Key Break Promise And Mine National Parks?"
-date: 2010-07-18
-source-url: https://www.scoop.co.nz/stories/PA1007/S00270/will-key-break-promise-and-mine-national-parks.htm
+title: Will Key Break Promise And Mine National Parks?
+date: 2010-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00270/will-key-break-promise-and-mine-national-parks.htm
 author: green-party
+permalink: /archive/2010/07/18/will-key-break-promise-and-mine-national-parks/index.html
+layout: layout.njk
 ---
 Will Key Break Promise And Mine National Parks?
 ===============================================

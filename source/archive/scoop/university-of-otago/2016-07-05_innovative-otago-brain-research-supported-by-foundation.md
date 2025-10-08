@@ -1,9 +1,13 @@
 ---
 slug: innovative-otago-brain-research-supported-by-foundation
-title: "Innovative Otago brain research supported by Foundation"
-date: 2016-07-05
-source-url: https://www.scoop.co.nz/stories/SC1607/S00015/innovative-otago-brain-research-supported-by-foundation.htm
+title: Innovative Otago brain research supported by Foundation
+date: 2016-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00015/innovative-otago-brain-research-supported-by-foundation.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/05/innovative-otago-brain-research-supported-by-foundation/index.html
+layout: layout.njk
 ---
 Innovative Otago brain research supported by Foundation
 =======================================================

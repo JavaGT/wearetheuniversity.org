@@ -1,9 +1,11 @@
 ---
 slug: flavell-welcomes-new-judge
-title: "Flavell welcomes new judge"
-date: 2009-11-30
+title: Flavell welcomes new judge
+date: 2009-11-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0911/S00483/flavell-welcomes-new-judge.htm
 author: te-pati-maori
+permalink: /archive/2009/11/30/flavell-welcomes-new-judge/index.html
+layout: layout.njk
 ---
 Flavell welcomes new judge
 ==========================

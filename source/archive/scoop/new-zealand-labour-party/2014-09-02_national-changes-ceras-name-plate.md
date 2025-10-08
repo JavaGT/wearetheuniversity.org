@@ -1,9 +1,12 @@
 ---
 slug: national-changes-ceras-name-plate
-title: "National changes CERA’s name plate"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/PA1409/S00029/national-changes-ceras-name-plate.htm
+title: National changes CERA’s name plate
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00029/national-changes-ceras-name-plate.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/09/02/national-changes-ceras-name-plate/index.html
+layout: layout.njk
 ---
 National changes CERA’s name plate
 ==================================

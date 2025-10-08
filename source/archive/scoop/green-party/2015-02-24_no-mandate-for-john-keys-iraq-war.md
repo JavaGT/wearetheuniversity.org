@@ -1,9 +1,12 @@
 ---
 slug: no-mandate-for-john-keys-iraq-war
-title: "No mandate for John Key’s Iraq war"
-date: 2015-02-24
-source-url: https://www.scoop.co.nz/stories/PA1502/S00294/no-mandate-for-john-keys-iraq-war.htm
+title: No mandate for John Key’s Iraq war
+date: 2015-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00294/no-mandate-for-john-keys-iraq-war.htm
 author: green-party
+permalink: /archive/2015/02/24/no-mandate-for-john-keys-iraq-war/index.html
+layout: layout.njk
 ---
 No mandate for John Key’s Iraq war
 ==================================

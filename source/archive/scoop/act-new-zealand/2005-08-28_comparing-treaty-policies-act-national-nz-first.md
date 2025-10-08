@@ -1,9 +1,12 @@
 ---
 slug: comparing-treaty-policies-act-national-nz-first
-title: "Comparing Treaty policies: ACT, National, NZ First"
-date: 2005-08-28
-source-url: https://www.scoop.co.nz/stories/PA0508/S00726/comparing-treaty-policies-act-national-nz-first.htm
+title: 'Comparing Treaty policies: ACT, National, NZ First'
+date: 2005-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00726/comparing-treaty-policies-act-national-nz-first.htm
 author: act-new-zealand
+permalink: /archive/2005/08/28/comparing-treaty-policies-act-national-nz-first/index.html
+layout: layout.njk
 ---
 Comparing Treaty policies: ACT, National, NZ First
 ==================================================

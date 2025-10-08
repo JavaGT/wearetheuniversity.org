@@ -1,9 +1,12 @@
 ---
 slug: mallard-gets-key-facts-on-student-loans-wrong
-title: "Mallard gets key facts on student loans wrong"
-date: 2005-01-28
-source-url: https://www.scoop.co.nz/stories/ED0501/S00061/mallard-gets-key-facts-on-student-loans-wrong.htm
+title: Mallard gets key facts on student loans wrong
+date: 2005-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00061/mallard-gets-key-facts-on-student-loans-wrong.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/01/28/mallard-gets-key-facts-on-student-loans-wrong/index.html
+layout: layout.njk
 ---
 Mallard gets key facts on student loans wrong
 =============================================

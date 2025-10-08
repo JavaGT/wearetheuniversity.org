@@ -1,9 +1,13 @@
 ---
 slug: research-institute-scholarships-on-offer-at-waikato
-title: "Research Institute Scholarships on offer at Waikato"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/ED1405/S00079/research-institute-scholarships-on-offer-at-waikato.htm
+title: Research Institute Scholarships on offer at Waikato
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00079/research-institute-scholarships-on-offer-at-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/05/15/research-institute-scholarships-on-offer-at-waikato/index.html
+layout: layout.njk
 ---
 Research Institute Scholarships on offer at Waikato
 ===================================================

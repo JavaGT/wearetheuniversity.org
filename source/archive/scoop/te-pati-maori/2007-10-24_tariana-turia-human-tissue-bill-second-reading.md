@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-human-tissue-bill-second-reading
-title: "Tariana Turia: Human Tissue Bill - Second Reading"
-date: 2007-10-24
-source-url: https://www.scoop.co.nz/stories/PA0710/S00423/tariana-turia-human-tissue-bill-second-reading.htm
+title: 'Tariana Turia: Human Tissue Bill - Second Reading'
+date: 2007-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00423/tariana-turia-human-tissue-bill-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2007/10/24/tariana-turia-human-tissue-bill-second-reading/index.html
+layout: layout.njk
 ---
 Tariana Turia: Human Tissue Bill - Second Reading
 =================================================

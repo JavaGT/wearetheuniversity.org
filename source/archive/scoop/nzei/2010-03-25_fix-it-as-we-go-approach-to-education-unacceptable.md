@@ -1,9 +1,13 @@
 ---
 slug: fix-it-as-we-go-approach-to-education-unacceptable
-title: "Fix It As We Go Approach To Education Unacceptable"
-date: 2010-03-25
-source-url: https://www.scoop.co.nz/stories/ED1003/S00112/fix-it-as-we-go-approach-to-education-unacceptable.htm
+title: Fix It As We Go Approach To Education Unacceptable
+date: 2010-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00112/fix-it-as-we-go-approach-to-education-unacceptable.htm
 author: nzei
+permalink: >-
+  /archive/2010/03/25/fix-it-as-we-go-approach-to-education-unacceptable/index.html
+layout: layout.njk
 ---
 Fix It As We Go Approach To Education Unacceptable
 ==================================================

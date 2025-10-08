@@ -1,9 +1,13 @@
 ---
 slug: conservation-resource-for-maori-language-students
-title: "Conservation Resource for Maori Language Students"
-date: 2002-10-17
-source-url: https://www.scoop.co.nz/stories/ED0210/S00043/conservation-resource-for-maori-language-students.htm
+title: Conservation Resource for Maori Language Students
+date: 2002-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00043/conservation-resource-for-maori-language-students.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2002/10/17/conservation-resource-for-maori-language-students/index.html
+layout: layout.njk
 ---
 Conservation Resource for Maori Language Students
 =================================================

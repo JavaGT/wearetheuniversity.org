@@ -1,9 +1,12 @@
 ---
 slug: national-announces-2005-list-ranking
-title: "National announces 2005 list ranking"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/PA0505/S00718/national-announces-2005-list-ranking.htm
+title: National announces 2005 list ranking
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00718/national-announces-2005-list-ranking.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/30/national-announces-2005-list-ranking/index.html
+layout: layout.njk
 ---
 National announces 2005 list ranking
 ====================================

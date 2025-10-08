@@ -1,9 +1,12 @@
 ---
 slug: flavell-finance-agreements-amendment-bill
-title: "Flavell: Finance Agreements Amendment Bill"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/PA0705/S00239/flavell-finance-agreements-amendment-bill.htm
+title: 'Flavell: Finance Agreements Amendment Bill'
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00239/flavell-finance-agreements-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/05/10/flavell-finance-agreements-amendment-bill/index.html
+layout: layout.njk
 ---
 Flavell: Finance Agreements Amendment Bill
 ==========================================

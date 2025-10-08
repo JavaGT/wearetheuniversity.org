@@ -1,9 +1,12 @@
 ---
 slug: nationals-youth-work-scheme-too-little-too-late
-title: "National’s youth work scheme too little, too late"
-date: 2017-07-12
-source-url: https://www.scoop.co.nz/stories/PA1707/S00186/nationals-youth-work-scheme-too-little-too-late.htm
+title: National’s youth work scheme too little, too late
+date: 2017-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00186/nationals-youth-work-scheme-too-little-too-late.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/12/nationals-youth-work-scheme-too-little-too-late/index.html
+layout: layout.njk
 ---
 National’s youth work scheme too little, too late
 =================================================

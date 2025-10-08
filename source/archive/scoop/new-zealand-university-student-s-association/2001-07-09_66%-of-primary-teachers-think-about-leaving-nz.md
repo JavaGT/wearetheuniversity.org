@@ -1,9 +1,12 @@
 ---
 slug: 66%-of-primary-teachers-think-about-leaving-nz
-title: "66% Of Primary Teachers Think About Leaving NZ"
-date: 2001-07-09
-source-url: https://www.scoop.co.nz/stories/SC0107/S00019/66-of-primary-teachers-think-about-leaving-nz.htm
+title: 66% Of Primary Teachers Think About Leaving NZ
+date: 2001-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0107/S00019/66-of-primary-teachers-think-about-leaving-nz.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/07/09/66/index.html
+layout: layout.njk
 ---
 66% Of Primary Teachers Think About Leaving NZ
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-westpac-new-zealand-bill-speech
-title: "Rahui Katene Westpac New Zealand Bill Speech"
-date: 2011-06-16
-source-url: https://www.scoop.co.nz/stories/PA1106/S00257/rahui-katene-westpac-new-zealand-bill-speech.htm
+title: Rahui Katene Westpac New Zealand Bill Speech
+date: 2011-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00257/rahui-katene-westpac-new-zealand-bill-speech.htm
 author: te-pati-maori
+permalink: /archive/2011/06/16/rahui-katene-westpac-new-zealand-bill-speech/index.html
+layout: layout.njk
 ---
 Rahui Katene Westpac New Zealand Bill Speech
 ============================================

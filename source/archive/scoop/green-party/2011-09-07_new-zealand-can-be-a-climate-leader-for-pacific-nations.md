@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-can-be-a-climate-leader-for-pacific-nations
-title: "New Zealand can be a climate leader for Pacific nations"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/PA1109/S00136/new-zealand-can-be-a-climate-leader-for-pacific-nations.htm
+title: New Zealand can be a climate leader for Pacific nations
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00136/new-zealand-can-be-a-climate-leader-for-pacific-nations.htm
 author: green-party
+permalink: >-
+  /archive/2011/09/07/new-zealand-can-be-a-climate-leader-for-pacific-nations/index.html
+layout: layout.njk
 ---
 New Zealand can be a climate leader for Pacific nations
 =======================================================

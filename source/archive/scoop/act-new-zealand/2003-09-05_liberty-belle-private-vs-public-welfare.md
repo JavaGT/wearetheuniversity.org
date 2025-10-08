@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-private-vs-public-welfare
-title: "Liberty Belle: Private vs Public Welfare"
-date: 2003-09-05
-source-url: https://www.scoop.co.nz/stories/PA0309/S00105/liberty-belle-private-vs-public-welfare.htm
+title: 'Liberty Belle: Private vs Public Welfare'
+date: 2003-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00105/liberty-belle-private-vs-public-welfare.htm
 author: act-new-zealand
+permalink: /archive/2003/09/05/liberty-belle-private-vs-public-welfare/index.html
+layout: layout.njk
 ---
 Liberty Belle: Private vs Public Welfare
 ========================================

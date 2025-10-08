@@ -1,9 +1,13 @@
 ---
 slug: conference-to-bring-pacifc-island-countries-together
-title: "Conference to bring Pacifc Island countries together"
-date: 2016-07-19
-source-url: https://www.scoop.co.nz/stories/WO1607/S00057/conference-to-bring-pacifc-island-countries-together.htm
+title: Conference to bring Pacifc Island countries together
+date: 2016-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1607/S00057/conference-to-bring-pacifc-island-countries-together.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2016/07/19/conference-to-bring-pacifc-island-countries-together/index.html
+layout: layout.njk
 ---
 Conference to bring Pacifc Island countries together
 ====================================================

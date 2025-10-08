@@ -1,9 +1,12 @@
 ---
 slug: trades-drain-is-a-national-disaster
-title: "Trades drain is a National disaster"
-date: 2012-10-01
-source-url: https://www.scoop.co.nz/stories/PA1210/S00001/trades-drain-is-a-national-disaster.htm
+title: Trades drain is a National disaster
+date: 2012-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00001/trades-drain-is-a-national-disaster.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/01/trades-drain-is-a-national-disaster/index.html
+layout: layout.njk
 ---
 Trades drain is a National disaster
 ===================================

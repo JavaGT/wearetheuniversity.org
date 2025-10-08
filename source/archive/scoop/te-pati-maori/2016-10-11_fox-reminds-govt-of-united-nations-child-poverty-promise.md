@@ -1,9 +1,13 @@
 ---
 slug: fox-reminds-govt-of-united-nations-child-poverty-promise
-title: "Fox reminds Govt of United Nations child poverty promise"
-date: 2016-10-11
-source-url: https://www.scoop.co.nz/stories/PA1610/S00140/fox-reminds-govt-of-united-nations-child-poverty-promise.htm
+title: Fox reminds Govt of United Nations child poverty promise
+date: 2016-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00140/fox-reminds-govt-of-united-nations-child-poverty-promise.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2016/10/11/fox-reminds-govt-of-united-nations-child-poverty-promise/index.html
+layout: layout.njk
 ---
 Fox reminds Govt of United Nations child poverty promise
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: prison-or-brothel-asks-nz-first-mp
-title: "Prison Or Brothel? Asks Nz First Mp"
-date: 2003-03-07
-source-url: https://www.scoop.co.nz/stories/PA0303/S00110/prison-or-brothel-asks-nz-first-mp.htm
+title: Prison Or Brothel? Asks Nz First Mp
+date: 2003-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00110/prison-or-brothel-asks-nz-first-mp.htm
 author: new-zealand-first-party
+permalink: /archive/2003/03/07/prison-or-brothel-asks-nz-first-mp/index.html
+layout: layout.njk
 ---
 Prison Or Brothel? Asks Nz First Mp
 ===================================

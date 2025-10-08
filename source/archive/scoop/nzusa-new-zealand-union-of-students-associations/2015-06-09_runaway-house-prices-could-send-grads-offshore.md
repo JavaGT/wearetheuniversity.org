@@ -1,9 +1,12 @@
 ---
 slug: runaway-house-prices-could-send-grads-offshore
-title: "Runaway house prices could send grads offshore"
-date: 2015-06-09
-source-url: https://www.scoop.co.nz/stories/ED1506/S00053/runaway-house-prices-could-send-grads-offshore.htm
+title: Runaway house prices could send grads offshore
+date: 2015-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00053/runaway-house-prices-could-send-grads-offshore.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/06/09/runaway-house-prices-could-send-grads-offshore/index.html
+layout: layout.njk
 ---
 Runaway house prices could send grads offshore
 ==============================================

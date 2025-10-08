@@ -1,9 +1,12 @@
 ---
 slug: anti-terrorism-experts-to-gather-at-victoria
-title: "Anti-terrorism experts to gather at Victoria"
-date: 2005-08-11
-source-url: https://www.scoop.co.nz/stories/ED0508/S00058/anti-terrorism-experts-to-gather-at-victoria.htm
+title: Anti-terrorism experts to gather at Victoria
+date: 2005-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00058/anti-terrorism-experts-to-gather-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/08/11/anti-terrorism-experts-to-gather-at-victoria/index.html
+layout: layout.njk
 ---
 Anti-terrorism experts to gather at Victoria
 ============================================

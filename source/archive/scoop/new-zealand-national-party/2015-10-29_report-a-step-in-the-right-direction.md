@@ -1,9 +1,12 @@
 ---
 slug: report-a-step-in-the-right-direction
-title: "Report a step in the right direction"
-date: 2015-10-29
-source-url: https://www.scoop.co.nz/stories/PA1510/S00496/report-a-step-in-the-right-direction.htm
+title: Report a step in the right direction
+date: 2015-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00496/report-a-step-in-the-right-direction.htm
 author: new-zealand-national-party
+permalink: /archive/2015/10/29/report-a-step-in-the-right-direction/index.html
+layout: layout.njk
 ---
 Report a step in the right direction
 ====================================

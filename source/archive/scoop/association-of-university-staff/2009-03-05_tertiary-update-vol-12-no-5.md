@@ -1,9 +1,11 @@
 ---
 slug: tertiary-update-vol-12-no-5
-title: "Tertiary Update - Vol 12 No 5"
-date: 2009-03-05
+title: Tertiary Update - Vol 12 No 5
+date: 2009-03-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0903/S00018/tertiary-update-vol-12-no-5.htm
 author: association-of-university-staff
+permalink: /archive/2009/03/05/tertiary-update-vol-12-no-5/index.html
+layout: layout.njk
 ---
 Tertiary Update - Vol 12 No 5
 =============================

@@ -1,9 +1,11 @@
 ---
 slug: māori-experiences-of-cancer
-title: "Māori experiences of cancer"
-date: 2008-09-10
+title: Māori experiences of cancer
+date: 2008-09-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0809/S00065/maori-experiences-of-cancer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/09/10/m/index.html
+layout: layout.njk
 ---
 Māori experiences of cancer
 ===========================

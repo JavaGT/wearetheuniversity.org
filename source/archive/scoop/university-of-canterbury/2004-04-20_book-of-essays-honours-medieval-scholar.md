@@ -1,9 +1,12 @@
 ---
 slug: book-of-essays-honours-medieval-scholar
-title: "Book of essays honours medieval scholar"
-date: 2004-04-20
-source-url: https://www.scoop.co.nz/stories/ED0404/S00065/book-of-essays-honours-medieval-scholar.htm
+title: Book of essays honours medieval scholar
+date: 2004-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00065/book-of-essays-honours-medieval-scholar.htm
 author: university-of-canterbury
+permalink: /archive/2004/04/20/book-of-essays-honours-medieval-scholar/index.html
+layout: layout.njk
 ---
 Book of essays honours medieval scholar
 =======================================

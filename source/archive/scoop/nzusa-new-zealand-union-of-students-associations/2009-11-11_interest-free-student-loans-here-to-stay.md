@@ -1,9 +1,12 @@
 ---
 slug: interest-free-student-loans-here-to-stay
-title: "Interest free student loans here to stay"
-date: 2009-11-11
-source-url: https://www.scoop.co.nz/stories/PO0911/S00099/interest-free-student-loans-here-to-stay.htm
+title: Interest free student loans here to stay
+date: 2009-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0911/S00099/interest-free-student-loans-here-to-stay.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/11/11/interest-free-student-loans-here-to-stay/index.html
+layout: layout.njk
 ---
 Interest free student loans here to stay
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: former-irish-pm-dr-garret-fitzgerald-visits-nz
-title: "Former Irish PM Dr Garret FitzGerald Visits NZ"
-date: 2004-09-07
-source-url: https://www.scoop.co.nz/stories/ED0409/S00022/former-irish-pm-dr-garret-fitzgerald-visits-nz.htm
+title: Former Irish PM Dr Garret FitzGerald Visits NZ
+date: 2004-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00022/former-irish-pm-dr-garret-fitzgerald-visits-nz.htm
 author: university-of-canterbury
+permalink: /archive/2004/09/07/former-irish-pm-dr-garret-fitzgerald-visits-nz/index.html
+layout: layout.njk
 ---
 Former Irish PM Dr Garret FitzGerald Visits NZ
 ==============================================

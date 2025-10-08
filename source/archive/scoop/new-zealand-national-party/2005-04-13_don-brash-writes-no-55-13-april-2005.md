@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-no-55-13-april-2005
-title: "Don Brash Writes: No. 55, 13 April 2005"
-date: 2005-04-13
-source-url: https://www.scoop.co.nz/stories/PA0504/S00266/don-brash-writes-no-55-13-april-2005.htm
+title: 'Don Brash Writes: No. 55, 13 April 2005'
+date: 2005-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00266/don-brash-writes-no-55-13-april-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/13/don-brash-writes-no-55-13-april-2005/index.html
+layout: layout.njk
 ---
 Don Brash Writes: No. 55, 13 April 2005
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: ncea-expert-a-political-poodle
-title: "NCEA ‘expert’ a political poodle"
-date: 2005-03-02
-source-url: https://www.scoop.co.nz/stories/PA0503/S00067/ncea-expert-a-political-poodle.htm
+title: NCEA ‘expert’ a political poodle
+date: 2005-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00067/ncea-expert-a-political-poodle.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/02/ncea-expert-a-political-poodle/index.html
+layout: layout.njk
 ---
 NCEA ‘expert’ a political poodle
 ================================

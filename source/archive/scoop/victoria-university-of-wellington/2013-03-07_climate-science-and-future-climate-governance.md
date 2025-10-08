@@ -1,9 +1,12 @@
 ---
 slug: climate-science-and-future-climate-governance
-title: "Climate Science And Future Climate Governance"
-date: 2013-03-07
-source-url: https://www.scoop.co.nz/stories/ED1303/S00035/climate-science-and-future-climate-governance.htm
+title: Climate Science And Future Climate Governance
+date: 2013-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00035/climate-science-and-future-climate-governance.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/03/07/climate-science-and-future-climate-governance/index.html
+layout: layout.njk
 ---
 Climate Science And Future Climate Governance
 =============================================

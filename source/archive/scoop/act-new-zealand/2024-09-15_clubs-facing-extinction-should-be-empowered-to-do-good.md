@@ -1,9 +1,13 @@
 ---
 slug: clubs-facing-extinction-should-be-empowered-to-do-good
-title: "Clubs Facing Extinction Should Be Empowered To Do Good"
-date: 2024-09-15
-source-url: https://www.scoop.co.nz/stories/PO2409/S00016/clubs-facing-extinction-should-be-empowered-to-do-good.htm
+title: Clubs Facing Extinction Should Be Empowered To Do Good
+date: 2024-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2409/S00016/clubs-facing-extinction-should-be-empowered-to-do-good.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/09/15/clubs-facing-extinction-should-be-empowered-to-do-good/index.html
+layout: layout.njk
 ---
 Clubs Facing Extinction Should Be Empowered To Do Good
 ======================================================

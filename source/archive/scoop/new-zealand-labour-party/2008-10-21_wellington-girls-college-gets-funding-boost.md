@@ -1,9 +1,12 @@
 ---
 slug: wellington-girls-college-gets-funding-boost
-title: "Wellington Girls’ College Gets Funding Boost"
-date: 2008-10-21
-source-url: https://www.scoop.co.nz/stories/PO0810/S00339/wellington-girls-college-gets-funding-boost.htm
+title: Wellington Girls’ College Gets Funding Boost
+date: 2008-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00339/wellington-girls-college-gets-funding-boost.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/21/wellington-girls-college-gets-funding-boost/index.html
+layout: layout.njk
 ---
 Wellington Girls’ College Gets Funding Boost
 ============================================

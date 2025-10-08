@@ -1,9 +1,13 @@
 ---
 slug: pop-up-messages-and-harmful-gambling-habits-study
-title: "Pop-up messages and harmful gambling habits - study"
-date: 2014-12-08
-source-url: https://www.scoop.co.nz/stories/ED1412/S00047/pop-up-messages-and-harmful-gambling-habits-study.htm
+title: Pop-up messages and harmful gambling habits - study
+date: 2014-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00047/pop-up-messages-and-harmful-gambling-habits-study.htm
 author: aut-university
+permalink: >-
+  /archive/2014/12/08/pop-up-messages-and-harmful-gambling-habits-study/index.html
+layout: layout.njk
 ---
 Pop-up messages and harmful gambling habits - study
 ===================================================

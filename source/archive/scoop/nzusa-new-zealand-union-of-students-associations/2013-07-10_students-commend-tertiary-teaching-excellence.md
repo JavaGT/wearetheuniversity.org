@@ -1,9 +1,12 @@
 ---
 slug: students-commend-tertiary-teaching-excellence
-title: "Students commend Tertiary Teaching Excellence"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/ED1307/S00044/students-commend-tertiary-teaching-excellence.htm
+title: Students commend Tertiary Teaching Excellence
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00044/students-commend-tertiary-teaching-excellence.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/07/10/students-commend-tertiary-teaching-excellence/index.html
+layout: layout.njk
 ---
 Students commend Tertiary Teaching Excellence
 =============================================

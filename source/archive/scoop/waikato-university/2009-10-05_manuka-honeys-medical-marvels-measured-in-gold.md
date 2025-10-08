@@ -1,9 +1,12 @@
 ---
 slug: manuka-honeys-medical-marvels-measured-in-gold
-title: "Manuka honey’s medical marvels measured in gold"
-date: 2009-10-05
-source-url: https://www.scoop.co.nz/stories/ED0910/S00017/manuka-honeys-medical-marvels-measured-in-gold.htm
+title: Manuka honey’s medical marvels measured in gold
+date: 2009-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00017/manuka-honeys-medical-marvels-measured-in-gold.htm
 author: waikato-university
+permalink: /archive/2009/10/05/manuka-honeys-medical-marvels-measured-in-gold/index.html
+layout: layout.njk
 ---
 Manuka honey’s medical marvels measured in gold
 ===============================================

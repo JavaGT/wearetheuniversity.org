@@ -1,9 +1,13 @@
 ---
 slug: library-storytellers-shown-to-contribute-to-early-literacy
-title: "Library storytellers shown to contribute to early literacy"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/ED1410/S00150/library-storytellers-shown-to-contribute-to-early-literacy.htm
+title: Library storytellers shown to contribute to early literacy
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00150/library-storytellers-shown-to-contribute-to-early-literacy.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/10/29/library-storytellers-shown-to-contribute-to-early-literacy/index.html
+layout: layout.njk
 ---
 Library storytellers shown to contribute to early literacy
 ==========================================================

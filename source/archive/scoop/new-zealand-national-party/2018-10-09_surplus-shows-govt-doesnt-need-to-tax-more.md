@@ -1,9 +1,12 @@
 ---
 slug: surplus-shows-govt-doesnt-need-to-tax-more
-title: "Surplus shows Govt doesn’t need to tax more"
-date: 2018-10-09
-source-url: https://www.scoop.co.nz/stories/PA1810/S00082/surplus-shows-govt-doesnt-need-to-tax-more.htm
+title: Surplus shows Govt doesn’t need to tax more
+date: 2018-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00082/surplus-shows-govt-doesnt-need-to-tax-more.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/09/surplus-shows-govt-doesnt-need-to-tax-more/index.html
+layout: layout.njk
 ---
 Surplus shows Govt doesn’t need to tax more
 ===========================================

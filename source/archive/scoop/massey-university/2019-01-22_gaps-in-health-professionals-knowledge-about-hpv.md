@@ -1,9 +1,13 @@
 ---
 slug: gaps-in-health-professionals-knowledge-about-hpv
-title: "Gaps in health professionals’ knowledge about HPV"
-date: 2019-01-22
-source-url: https://www.scoop.co.nz/stories/SC1901/S00036/gaps-in-health-professionals-knowledge-about-hpv.htm
+title: Gaps in health professionals’ knowledge about HPV
+date: 2019-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1901/S00036/gaps-in-health-professionals-knowledge-about-hpv.htm
 author: massey-university
+permalink: >-
+  /archive/2019/01/22/gaps-in-health-professionals-knowledge-about-hpv/index.html
+layout: layout.njk
 ---
 Gaps in health professionals’ knowledge about HPV
 =================================================

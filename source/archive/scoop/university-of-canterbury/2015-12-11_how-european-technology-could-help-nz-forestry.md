@@ -1,9 +1,12 @@
 ---
 slug: how-european-technology-could-help-nz-forestry
-title: "How European technology could help NZ forestry"
-date: 2015-12-11
-source-url: https://www.scoop.co.nz/stories/SC1512/S00051/how-european-technology-could-help-nz-forestry.htm
+title: How European technology could help NZ forestry
+date: 2015-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00051/how-european-technology-could-help-nz-forestry.htm
 author: university-of-canterbury
+permalink: /archive/2015/12/11/how-european-technology-could-help-nz-forestry/index.html
+layout: layout.njk
 ---
 How European technology could help NZ forestry
 ==============================================

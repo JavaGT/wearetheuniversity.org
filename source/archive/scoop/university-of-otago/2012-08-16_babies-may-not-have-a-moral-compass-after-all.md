@@ -1,9 +1,12 @@
 ---
 slug: babies-may-not-have-a-moral-compass-after-all
-title: "Babies may not have a ‘moral compass’ after all"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/SC1208/S00040/babies-may-not-have-a-moral-compass-after-all.htm
+title: Babies may not have a ‘moral compass’ after all
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00040/babies-may-not-have-a-moral-compass-after-all.htm
 author: university-of-otago
+permalink: /archive/2012/08/16/babies-may-not-have-a-moral-compass-after-all/index.html
+layout: layout.njk
 ---
 Babies may not have a ‘moral compass’ after all
 ===============================================

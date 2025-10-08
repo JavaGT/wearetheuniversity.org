@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-julie-anne-genter
-title: "Maiden Speech - Julie Anne Genter"
-date: 2012-02-15
-source-url: https://www.scoop.co.nz/stories/PA1202/S00172/maiden-speech-julie-anne-genter.htm
+title: Maiden Speech - Julie Anne Genter
+date: 2012-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00172/maiden-speech-julie-anne-genter.htm
 author: green-party
+permalink: /archive/2012/02/15/maiden-speech-julie-anne-genter/index.html
+layout: layout.njk
 ---
 Maiden Speech - Julie Anne Genter
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: lgnzs-inclusive-campaigning-guidelines-must-be-withdrawn
-title: "LGNZ’s ‘Inclusive Campaigning Guidelines’ Must Be Withdrawn"
-date: 2022-07-27
-source-url: https://www.scoop.co.nz/stories/PO2207/S00163/lgnzs-inclusive-campaigning-guidelines-must-be-withdrawn.htm
+title: LGNZ’s ‘Inclusive Campaigning Guidelines’ Must Be Withdrawn
+date: 2022-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2207/S00163/lgnzs-inclusive-campaigning-guidelines-must-be-withdrawn.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2022/07/27/lgnzs-inclusive-campaigning-guidelines-must-be-withdrawn/index.html
+layout: layout.njk
 ---
 LGNZ’s ‘Inclusive Campaigning Guidelines’ Must Be Withdrawn
 ===========================================================

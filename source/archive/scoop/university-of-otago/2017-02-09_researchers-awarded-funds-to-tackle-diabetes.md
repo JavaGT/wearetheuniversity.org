@@ -1,9 +1,12 @@
 ---
 slug: researchers-awarded-funds-to-tackle-diabetes
-title: "Researchers awarded funds to tackle diabetes"
-date: 2017-02-09
-source-url: https://www.scoop.co.nz/stories/SC1702/S00027/researchers-awarded-funds-to-tackle-diabetes.htm
+title: Researchers awarded funds to tackle diabetes
+date: 2017-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00027/researchers-awarded-funds-to-tackle-diabetes.htm
 author: university-of-otago
+permalink: /archive/2017/02/09/researchers-awarded-funds-to-tackle-diabetes/index.html
+layout: layout.njk
 ---
 Researchers awarded funds to tackle diabetes
 ============================================

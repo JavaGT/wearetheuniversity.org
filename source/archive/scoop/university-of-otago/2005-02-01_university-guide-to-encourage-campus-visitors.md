@@ -1,9 +1,12 @@
 ---
 slug: university-guide-to-encourage-campus-visitors
-title: "University Guide To Encourage Campus Visitors"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/ED0502/S00004/university-guide-to-encourage-campus-visitors.htm
+title: University Guide To Encourage Campus Visitors
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00004/university-guide-to-encourage-campus-visitors.htm
 author: university-of-otago
+permalink: /archive/2005/02/01/university-guide-to-encourage-campus-visitors/index.html
+layout: layout.njk
 ---
 University Guide To Encourage Campus Visitors
 =============================================

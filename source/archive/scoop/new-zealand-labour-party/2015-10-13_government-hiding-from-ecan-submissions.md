@@ -1,9 +1,12 @@
 ---
 slug: government-hiding-from-ecan-submissions
-title: "Government hiding from ECan submissions"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/PA1510/S00188/government-hiding-from-ecan-submissions.htm
+title: Government hiding from ECan submissions
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00188/government-hiding-from-ecan-submissions.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/13/government-hiding-from-ecan-submissions/index.html
+layout: layout.njk
 ---
 Government hiding from ECan submissions
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: the-lights-are-on-but-nobodys-home
-title: "The Lights Are On But Nobody’s Home"
-date: 2022-09-30
-source-url: https://www.scoop.co.nz/stories/PA2209/S00175/the-lights-are-on-but-nobodys-home.htm
+title: The Lights Are On But Nobody’s Home
+date: 2022-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00175/the-lights-are-on-but-nobodys-home.htm
 author: new-zealand-national-party
+permalink: /archive/2022/09/30/the-lights-are-on-but-nobodys-home/index.html
+layout: layout.njk
 ---
 The Lights Are On But Nobody’s Home
 ===================================

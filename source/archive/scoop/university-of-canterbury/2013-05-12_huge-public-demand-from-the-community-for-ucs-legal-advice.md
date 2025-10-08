@@ -1,9 +1,13 @@
 ---
 slug: huge-public-demand-from-the-community-for-ucs-legal-advice
-title: "Huge public demand from the community for UC’s legal advice"
-date: 2013-05-12
-source-url: https://www.scoop.co.nz/stories/ED1305/S00069/huge-public-demand-from-the-community-for-ucs-legal-advice.htm
+title: Huge public demand from the community for UC’s legal advice
+date: 2013-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00069/huge-public-demand-from-the-community-for-ucs-legal-advice.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/12/huge-public-demand-from-the-community-for-ucs-legal-advice/index.html
+layout: layout.njk
 ---
 Huge public demand from the community for UC’s legal advice
 ===========================================================

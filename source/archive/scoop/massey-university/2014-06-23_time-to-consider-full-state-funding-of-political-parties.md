@@ -1,9 +1,13 @@
 ---
 slug: time-to-consider-full-state-funding-of-political-parties
-title: "Time to consider full state funding of political parties?"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/HL1406/S00171/time-to-consider-full-state-funding-of-political-parties.htm
+title: Time to consider full state funding of political parties?
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1406/S00171/time-to-consider-full-state-funding-of-political-parties.htm
 author: massey-university
+permalink: >-
+  /archive/2014/06/23/time-to-consider-full-state-funding-of-political-parties/index.html
+layout: layout.njk
 ---
 Time to consider full state funding of political parties?
 =========================================================

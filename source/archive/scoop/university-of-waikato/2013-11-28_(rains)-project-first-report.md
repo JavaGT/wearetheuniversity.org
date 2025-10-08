@@ -1,9 +1,11 @@
 ---
 slug: (rains)-project-first-report
-title: "(RAINS) Project - First Report"
-date: 2013-11-28
+title: (RAINS) Project - First Report
+date: 2013-11-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1311/S00192/rains-project-first-report.htm
 author: university-of-waikato
+permalink: /archive/2013/11/28/rains-project-first-report/index.html
+layout: layout.njk
 ---
 (RAINS) Project - First Report
 ==============================

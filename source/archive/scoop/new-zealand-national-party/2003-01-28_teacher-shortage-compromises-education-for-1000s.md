@@ -1,9 +1,13 @@
 ---
 slug: teacher-shortage-compromises-education-for-1000s
-title: "Teacher Shortage Compromises Education for 1000s"
-date: 2003-01-28
-source-url: https://www.scoop.co.nz/stories/PA0301/S00228/teacher-shortage-compromises-education-for-1000s.htm
+title: Teacher Shortage Compromises Education for 1000s
+date: 2003-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00228/teacher-shortage-compromises-education-for-1000s.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/01/28/teacher-shortage-compromises-education-for-1000s/index.html
+layout: layout.njk
 ---
 Teacher Shortage Compromises Education for 1000s
 ================================================

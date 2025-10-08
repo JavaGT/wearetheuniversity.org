@@ -1,9 +1,12 @@
 ---
 slug: 5th-november-a-day-to-celebrate-peace
-title: "5th November a day to celebrate peace"
-date: 2009-11-05
-source-url: https://www.scoop.co.nz/stories/PA0911/S00059/5th-november-a-day-to-celebrate-peace.htm
+title: 5th November a day to celebrate peace
+date: 2009-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00059/5th-november-a-day-to-celebrate-peace.htm
 author: te-pati-maori
+permalink: /archive/2009/11/05/5th-november-a-day-to-celebrate-peace/index.html
+layout: layout.njk
 ---
 5th November a day to celebrate peace
 =====================================

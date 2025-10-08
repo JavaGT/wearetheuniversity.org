@@ -1,9 +1,12 @@
 ---
 slug: dunne-buys-into-labour-policy-on-parent-debt
-title: "Dunne buys into Labour policy on parent debt"
-date: 2005-11-17
-source-url: https://www.scoop.co.nz/stories/PA0511/S00238/dunne-buys-into-labour-policy-on-parent-debt.htm
+title: Dunne buys into Labour policy on parent debt
+date: 2005-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00238/dunne-buys-into-labour-policy-on-parent-debt.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/17/dunne-buys-into-labour-policy-on-parent-debt/index.html
+layout: layout.njk
 ---
 Dunne buys into Labour policy on parent debt
 ============================================

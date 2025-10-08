@@ -1,9 +1,13 @@
 ---
 slug: treating-submitters-like-spam-is-not-good-enough
-title: "Treating submitters like spam is not good enough"
-date: 2019-09-30
-source-url: https://www.scoop.co.nz/stories/PA1909/S00272/treating-submitters-like-spam-is-not-good-enough.htm
+title: Treating submitters like spam is not good enough
+date: 2019-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00272/treating-submitters-like-spam-is-not-good-enough.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/09/30/treating-submitters-like-spam-is-not-good-enough/index.html
+layout: layout.njk
 ---
 Treating submitters like spam is not good enough
 ================================================

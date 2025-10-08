@@ -1,9 +1,12 @@
 ---
 slug: te-pāti-māori-announce-te-tai-tonga-candidate-takuta-ferris
-title: "Te Pāti Māori Announce Te Tai Tonga Candidate, Takuta Ferris"
-date: 2023-06-04
-source-url: https://www.scoop.co.nz/stories/PO2306/S00025/te-pati-maori-announce-te-tai-tonga-candidate-takuta-ferris.htm
+title: Te Pāti Māori Announce Te Tai Tonga Candidate, Takuta Ferris
+date: 2023-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00025/te-pati-maori-announce-te-tai-tonga-candidate-takuta-ferris.htm
 author: te-pati-maori
+permalink: /archive/2023/06/04/te-p/index.html
+layout: layout.njk
 ---
 Te Pāti Māori Announce Te Tai Tonga Candidate, Takuta Ferris
 ============================================================

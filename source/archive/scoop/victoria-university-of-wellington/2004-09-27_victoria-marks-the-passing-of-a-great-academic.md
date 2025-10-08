@@ -1,9 +1,12 @@
 ---
 slug: victoria-marks-the-passing-of-a-great-academic
-title: "Victoria marks the passing of a great academic"
-date: 2004-09-27
-source-url: https://www.scoop.co.nz/stories/ED0409/S00126/victoria-marks-the-passing-of-a-great-academic.htm
+title: Victoria marks the passing of a great academic
+date: 2004-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00126/victoria-marks-the-passing-of-a-great-academic.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/27/victoria-marks-the-passing-of-a-great-academic/index.html
+layout: layout.njk
 ---
 Victoria marks the passing of a great academic
 ==============================================

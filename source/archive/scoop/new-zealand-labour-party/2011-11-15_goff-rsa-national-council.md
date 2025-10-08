@@ -1,9 +1,11 @@
 ---
 slug: goff-rsa-national-council
-title: "Goff: RSA National Council"
-date: 2011-11-15
+title: 'Goff: RSA National Council'
+date: 2011-11-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00298/goff-rsa-national-council.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/15/goff-rsa-national-council/index.html
+layout: layout.njk
 ---
 Goff: RSA National Council
 ==========================

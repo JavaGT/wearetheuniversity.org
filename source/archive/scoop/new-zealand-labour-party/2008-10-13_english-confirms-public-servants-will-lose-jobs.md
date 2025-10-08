@@ -1,9 +1,12 @@
 ---
 slug: english-confirms-public-servants-will-lose-jobs
-title: "English confirms public servants will lose jobs"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PO0810/S00178/english-confirms-public-servants-will-lose-jobs.htm
+title: English confirms public servants will lose jobs
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00178/english-confirms-public-servants-will-lose-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/13/english-confirms-public-servants-will-lose-jobs/index.html
+layout: layout.njk
 ---
 English confirms public servants will lose jobs
 ===============================================

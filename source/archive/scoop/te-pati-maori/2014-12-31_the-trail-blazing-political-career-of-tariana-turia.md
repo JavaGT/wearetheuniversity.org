@@ -1,9 +1,13 @@
 ---
 slug: the-trail-blazing-political-career-of-tariana-turia
-title: "The trail-blazing political career of Tariana Turia"
-date: 2014-12-31
-source-url: https://www.scoop.co.nz/stories/PA1412/S00385/the-trail-blazing-political-career-of-tariana-turia.htm
+title: The trail-blazing political career of Tariana Turia
+date: 2014-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00385/the-trail-blazing-political-career-of-tariana-turia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/12/31/the-trail-blazing-political-career-of-tariana-turia/index.html
+layout: layout.njk
 ---
 The trail-blazing political career of Tariana Turia
 ===================================================

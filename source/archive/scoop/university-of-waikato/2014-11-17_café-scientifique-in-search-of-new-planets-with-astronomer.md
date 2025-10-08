@@ -1,9 +1,12 @@
 ---
 slug: café-scientifique-in-search-of-new-planets-with-astronomer
-title: "Café Scientifique in search of new planets with astronomer"
-date: 2014-11-17
-source-url: https://www.scoop.co.nz/stories/ED1411/S00101/cafe-scientifique-in-search-of-new-planets-with-astronomer.htm
+title: Café Scientifique in search of new planets with astronomer
+date: 2014-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00101/cafe-scientifique-in-search-of-new-planets-with-astronomer.htm
 author: university-of-waikato
+permalink: /archive/2014/11/17/caf/index.html
+layout: layout.njk
 ---
 Café Scientifique in search of new planets with astronomer
 ==========================================================

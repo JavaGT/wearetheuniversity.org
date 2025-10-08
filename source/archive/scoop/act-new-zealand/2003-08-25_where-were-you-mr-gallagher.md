@@ -1,9 +1,11 @@
 ---
 slug: where-were-you-mr-gallagher
-title: "Where Were You Mr Gallagher?"
-date: 2003-08-25
+title: Where Were You Mr Gallagher?
+date: 2003-08-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0308/S00480/where-were-you-mr-gallagher.htm
 author: act-new-zealand
+permalink: /archive/2003/08/25/where-were-you-mr-gallagher/index.html
+layout: layout.njk
 ---
 Where Were You Mr Gallagher?
 ============================

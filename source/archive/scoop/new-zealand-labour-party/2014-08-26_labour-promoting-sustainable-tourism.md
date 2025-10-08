@@ -1,9 +1,12 @@
 ---
 slug: labour-promoting-sustainable-tourism
-title: "Labour: Promoting sustainable tourism"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/PA1408/S00396/labour-promoting-sustainable-tourism.htm
+title: 'Labour: Promoting sustainable tourism'
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00396/labour-promoting-sustainable-tourism.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/26/labour-promoting-sustainable-tourism/index.html
+layout: layout.njk
 ---
 Labour: Promoting sustainable tourism
 =====================================

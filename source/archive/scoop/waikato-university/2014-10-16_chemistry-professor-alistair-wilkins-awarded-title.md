@@ -1,9 +1,13 @@
 ---
 slug: chemistry-professor-alistair-wilkins-awarded-title
-title: "Chemistry Professor Alistair Wilkins awarded title"
-date: 2014-10-16
-source-url: https://www.scoop.co.nz/stories/ED1410/S00093/chemistry-professor-alistair-wilkins-awarded-title.htm
+title: Chemistry Professor Alistair Wilkins awarded title
+date: 2014-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00093/chemistry-professor-alistair-wilkins-awarded-title.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/10/16/chemistry-professor-alistair-wilkins-awarded-title/index.html
+layout: layout.njk
 ---
 Chemistry Professor Alistair Wilkins awarded title
 ==================================================

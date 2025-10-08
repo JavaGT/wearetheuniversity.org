@@ -1,9 +1,11 @@
 ---
 slug: pansy-speak-6-june-2006
-title: "Pansy Speak 6 june 2006"
-date: 2006-06-07
+title: Pansy Speak 6 june 2006
+date: 2006-06-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0606/S00069/pansy-speak-6-june-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/07/pansy-speak-6-june-2006/index.html
+layout: layout.njk
 ---
 Pansy Speak 6 june 2006
 =======================

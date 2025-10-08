@@ -1,9 +1,12 @@
 ---
 slug: act-challenges-labour-to-come-clean-on-welfare
-title: "ACT Challenges Labour to Come Clean on Welfare"
-date: 2002-07-31
-source-url: https://www.scoop.co.nz/stories/PA0207/S00712/act-challenges-labour-to-come-clean-on-welfare.htm
+title: ACT Challenges Labour to Come Clean on Welfare
+date: 2002-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00712/act-challenges-labour-to-come-clean-on-welfare.htm
 author: act-new-zealand
+permalink: /archive/2002/07/31/act-challenges-labour-to-come-clean-on-welfare/index.html
+layout: layout.njk
 ---
 ACT Challenges Labour to Come Clean on Welfare
 ==============================================

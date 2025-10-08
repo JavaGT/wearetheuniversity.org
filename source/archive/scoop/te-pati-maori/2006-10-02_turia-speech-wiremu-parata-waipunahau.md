@@ -1,9 +1,12 @@
 ---
 slug: turia-speech-wiremu-parata-waipunahau
-title: "Turia Speech: Wiremu Parata Waipunahau"
-date: 2006-10-02
-source-url: https://www.scoop.co.nz/stories/PA0610/S00009/turia-speech-wiremu-parata-waipunahau.htm
+title: 'Turia Speech: Wiremu Parata Waipunahau'
+date: 2006-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00009/turia-speech-wiremu-parata-waipunahau.htm
 author: te-pati-maori
+permalink: /archive/2006/10/02/turia-speech-wiremu-parata-waipunahau/index.html
+layout: layout.njk
 ---
 Turia Speech: Wiremu Parata Waipunahau
 ======================================

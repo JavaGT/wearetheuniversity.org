@@ -1,9 +1,12 @@
 ---
 slug: how-much-is-social-media-controlling-you
-title: "How Much Is Social Media Controlling You?"
-date: 2024-10-30
-source-url: https://www.scoop.co.nz/stories/SC2410/S00061/how-much-is-social-media-controlling-you.htm
+title: How Much Is Social Media Controlling You?
+date: 2024-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2410/S00061/how-much-is-social-media-controlling-you.htm
 author: university-of-canterbury
+permalink: /archive/2024/10/30/how-much-is-social-media-controlling-you/index.html
+layout: layout.njk
 ---
 How Much Is Social Media Controlling You?
 =========================================

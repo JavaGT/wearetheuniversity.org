@@ -1,9 +1,12 @@
 ---
 slug: planning-good-regulation-for-the-future
-title: "Planning good regulation for the future"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/ED1009/S00028/planning-good-regulation-for-the-future.htm
+title: Planning good regulation for the future
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00028/planning-good-regulation-for-the-future.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/09/08/planning-good-regulation-for-the-future/index.html
+layout: layout.njk
 ---
 Planning good regulation for the future
 =======================================

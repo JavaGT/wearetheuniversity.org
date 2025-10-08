@@ -1,9 +1,12 @@
 ---
 slug: workers-laid-off-six-weeks-before-christmas
-title: "Workers laid off six weeks before Christmas"
-date: 2011-11-18
-source-url: https://www.scoop.co.nz/stories/PA1111/S00370/workers-laid-off-six-weeks-before-christmas.htm
+title: Workers laid off six weeks before Christmas
+date: 2011-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00370/workers-laid-off-six-weeks-before-christmas.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/18/workers-laid-off-six-weeks-before-christmas/index.html
+layout: layout.njk
 ---
 Workers laid off six weeks before Christmas
 ===========================================

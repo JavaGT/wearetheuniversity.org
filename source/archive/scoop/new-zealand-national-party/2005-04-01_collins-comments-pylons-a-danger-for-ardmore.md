@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-pylons-a-danger-for-ardmore
-title: "Collins Comments: Pylons - a danger for Ardmore"
-date: 2005-04-01
-source-url: https://www.scoop.co.nz/stories/PA0504/S00018/collins-comments-pylons-a-danger-for-ardmore.htm
+title: 'Collins Comments: Pylons - a danger for Ardmore'
+date: 2005-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00018/collins-comments-pylons-a-danger-for-ardmore.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/01/collins-comments-pylons-a-danger-for-ardmore/index.html
+layout: layout.njk
 ---
 Collins Comments: Pylons - a danger for Ardmore
 ===============================================

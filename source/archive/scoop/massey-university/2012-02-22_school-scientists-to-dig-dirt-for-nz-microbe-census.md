@@ -1,9 +1,13 @@
 ---
 slug: school-scientists-to-dig-dirt-for-nz-microbe-census
-title: "School scientists to dig dirt for NZ microbe census"
-date: 2012-02-22
-source-url: https://www.scoop.co.nz/stories/SC1202/S00043/school-scientists-to-dig-dirt-for-nz-microbe-census.htm
+title: School scientists to dig dirt for NZ microbe census
+date: 2012-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1202/S00043/school-scientists-to-dig-dirt-for-nz-microbe-census.htm
 author: massey-university
+permalink: >-
+  /archive/2012/02/22/school-scientists-to-dig-dirt-for-nz-microbe-census/index.html
+layout: layout.njk
 ---
 School scientists to dig dirt for NZ microbe census
 ===================================================

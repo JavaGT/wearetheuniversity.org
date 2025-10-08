@@ -1,9 +1,12 @@
 ---
 slug: peters-great-lakes-party-conference-speech
-title: "Peters' Great Lakes Party Conference Speech"
-date: 2004-11-01
-source-url: https://www.scoop.co.nz/stories/PA0411/S00014/peters-great-lakes-party-conference-speech.htm
+title: Peters' Great Lakes Party Conference Speech
+date: 2004-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00014/peters-great-lakes-party-conference-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2004/11/01/peters-great-lakes-party-conference-speech/index.html
+layout: layout.njk
 ---
 Peters' Great Lakes Party Conference Speech
 ===========================================

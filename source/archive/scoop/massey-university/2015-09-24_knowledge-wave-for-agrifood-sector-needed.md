@@ -1,9 +1,12 @@
 ---
 slug: knowledge-wave-for-agrifood-sector-needed
-title: "Knowledge wave for agrifood sector needed"
-date: 2015-09-24
-source-url: https://www.scoop.co.nz/stories/PO1509/S00308/knowledge-wave-for-agrifood-sector-needed.htm
+title: Knowledge wave for agrifood sector needed
+date: 2015-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1509/S00308/knowledge-wave-for-agrifood-sector-needed.htm
 author: massey-university
+permalink: /archive/2015/09/24/knowledge-wave-for-agrifood-sector-needed/index.html
+layout: layout.njk
 ---
 Knowledge wave for agrifood sector needed
 =========================================

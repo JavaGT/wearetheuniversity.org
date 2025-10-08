@@ -1,9 +1,13 @@
 ---
 slug: building-a-more-sustainable-future-with-3d-concrete-printed-homes
-title: "Building A More Sustainable Future With 3D Concrete Printed Homes"
-date: 2022-06-02
-source-url: https://www.scoop.co.nz/stories/SC2206/S00003/building-a-more-sustainable-future-with-3d-concrete-printed-homes.htm
+title: Building A More Sustainable Future With 3D Concrete Printed Homes
+date: 2022-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2206/S00003/building-a-more-sustainable-future-with-3d-concrete-printed-homes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/06/02/building-a-more-sustainable-future-with-3d-concrete-printed-homes/index.html
+layout: layout.njk
 ---
 Building A More Sustainable Future With 3D Concrete Printed Homes
 =================================================================

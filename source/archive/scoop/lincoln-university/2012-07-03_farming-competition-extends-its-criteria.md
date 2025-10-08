@@ -1,9 +1,12 @@
 ---
 slug: farming-competition-extends-its-criteria
-title: "Farming competition extends its criteria"
-date: 2012-07-03
-source-url: https://www.scoop.co.nz/stories/AK1207/S00042/farming-competition-extends-its-criteria.htm
+title: Farming competition extends its criteria
+date: 2012-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1207/S00042/farming-competition-extends-its-criteria.htm
 author: lincoln-university
+permalink: /archive/2012/07/03/farming-competition-extends-its-criteria/index.html
+layout: layout.njk
 ---
 Farming competition extends its criteria
 ========================================

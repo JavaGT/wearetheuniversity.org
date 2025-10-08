@@ -1,9 +1,12 @@
 ---
 slug: child-poverty-ignored-by-government
-title: "Child Poverty Ignored by Government"
-date: 2015-04-02
-source-url: https://www.scoop.co.nz/stories/PA1504/S00031/child-poverty-ignored-by-government.htm
+title: Child Poverty Ignored by Government
+date: 2015-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00031/child-poverty-ignored-by-government.htm
 author: new-zealand-first-party
+permalink: /archive/2015/04/02/child-poverty-ignored-by-government/index.html
+layout: layout.njk
 ---
 Child Poverty Ignored by Government
 ===================================

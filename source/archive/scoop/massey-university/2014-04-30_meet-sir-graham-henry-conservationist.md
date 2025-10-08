@@ -1,9 +1,12 @@
 ---
 slug: meet-sir-graham-henry-conservationist
-title: "Meet Sir Graham Henry, conservationist"
-date: 2014-04-30
-source-url: https://www.scoop.co.nz/stories/ED1404/S00090/meet-sir-graham-henry-conservationist.htm
+title: Meet Sir Graham Henry, conservationist
+date: 2014-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00090/meet-sir-graham-henry-conservationist.htm
 author: massey-university
+permalink: /archive/2014/04/30/meet-sir-graham-henry-conservationist/index.html
+layout: layout.njk
 ---
 Meet Sir Graham Henry, conservationist
 ======================================

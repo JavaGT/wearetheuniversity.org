@@ -1,9 +1,13 @@
 ---
 slug: racial-blends-easy-on-the-eyes-until-you-categorise
-title: "Racial blends - easy on the eyes until you categorise"
-date: 2014-01-09
-source-url: https://www.scoop.co.nz/stories/SC1401/S00013/racial-blends-easy-on-the-eyes-until-you-categorise.htm
+title: Racial blends - easy on the eyes until you categorise
+date: 2014-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00013/racial-blends-easy-on-the-eyes-until-you-categorise.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/01/09/racial-blends-easy-on-the-eyes-until-you-categorise/index.html
+layout: layout.njk
 ---
 Racial blends - easy on the eyes until you categorise
 =====================================================

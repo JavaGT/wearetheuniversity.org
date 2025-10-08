@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-bring-back-national-service
-title: "Winston Peters - \"Bring back National Service\""
-date: 1999-10-18
-source-url: https://www.scoop.co.nz/stories/PA9910/S00380/winston-peters-bring-back-national-service.htm
+title: Winston Peters - "Bring back National Service"
+date: 1999-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00380/winston-peters-bring-back-national-service.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/18/winston-peters-bring-back-national-service/index.html
+layout: layout.njk
 ---
 Winston Peters - \"Bring back National Service"
 ==============================================

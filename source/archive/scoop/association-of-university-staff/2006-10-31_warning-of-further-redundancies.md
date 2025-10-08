@@ -1,9 +1,12 @@
 ---
 slug: warning-of-further-redundancies
-title: "Warning of further redundancies"
-date: 2006-10-31
-source-url: https://www.scoop.co.nz/stories/ED0610/S00104/warning-of-further-redundancies.htm
+title: Warning of further redundancies
+date: 2006-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00104/warning-of-further-redundancies.htm
 author: association-of-university-staff
+permalink: /archive/2006/10/31/warning-of-further-redundancies/index.html
+layout: layout.njk
 ---
 Warning of further redundancies
 ===============================

@@ -1,9 +1,11 @@
 ---
 slug: let-them-eat-cake!
-title: "Let Them Eat Cake!"
-date: 2002-03-06
+title: Let Them Eat Cake!
+date: 2002-03-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0203/S00012/let-them-eat-cake.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/03/06/let-them-eat-cake/index.html
+layout: layout.njk
 ---
 Let Them Eat Cake!
 ==================

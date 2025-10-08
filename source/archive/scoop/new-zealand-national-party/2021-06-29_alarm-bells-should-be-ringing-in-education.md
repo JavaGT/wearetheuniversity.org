@@ -1,9 +1,12 @@
 ---
 slug: alarm-bells-should-be-ringing-in-education
-title: "Alarm Bells Should Be Ringing In Education"
-date: 2021-06-29
-source-url: https://www.scoop.co.nz/stories/PA2106/S00227/alarm-bells-should-be-ringing-in-education.htm
+title: Alarm Bells Should Be Ringing In Education
+date: 2021-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00227/alarm-bells-should-be-ringing-in-education.htm
 author: new-zealand-national-party
+permalink: /archive/2021/06/29/alarm-bells-should-be-ringing-in-education/index.html
+layout: layout.njk
 ---
 Alarm Bells Should Be Ringing In Education
 ==========================================

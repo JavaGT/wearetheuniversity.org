@@ -1,9 +1,13 @@
 ---
 slug: culture-clash-cause-of-few-pacific-islands-grads
-title: "Culture Clash Cause Of Few Pacific Islands Grads"
-date: 2004-04-07
-source-url: https://www.scoop.co.nz/stories/ED0404/S00024/culture-clash-cause-of-few-pacific-islands-grads.htm
+title: Culture Clash Cause Of Few Pacific Islands Grads
+date: 2004-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00024/culture-clash-cause-of-few-pacific-islands-grads.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/04/07/culture-clash-cause-of-few-pacific-islands-grads/index.html
+layout: layout.njk
 ---
 Culture Clash Cause Of Few Pacific Islands Grads
 ================================================

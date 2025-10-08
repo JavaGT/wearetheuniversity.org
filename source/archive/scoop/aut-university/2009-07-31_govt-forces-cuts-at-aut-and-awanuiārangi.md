@@ -1,9 +1,12 @@
 ---
 slug: govt-forces-cuts-at-aut-and-awanuiārangi
-title: "Govt forces cuts at AUT and Awanuiārangi"
-date: 2009-07-31
-source-url: https://www.scoop.co.nz/stories/ED0907/S00113/govt-forces-cuts-at-aut-and-awanuiarangi.htm
+title: Govt forces cuts at AUT and Awanuiārangi
+date: 2009-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00113/govt-forces-cuts-at-aut-and-awanuiarangi.htm
 author: aut-university
+permalink: /archive/2009/07/31/govt-forces-cuts-at-aut-and-awanui/index.html
+layout: layout.njk
 ---
 Govt forces cuts at AUT and Awanuiārangi
 ========================================

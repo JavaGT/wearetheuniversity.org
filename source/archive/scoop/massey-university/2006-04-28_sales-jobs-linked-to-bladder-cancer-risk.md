@@ -1,9 +1,12 @@
 ---
 slug: sales-jobs-linked-to-bladder-cancer-risk
-title: "Sales jobs linked to bladder cancer risk"
-date: 2006-04-28
-source-url: https://www.scoop.co.nz/stories/GE0604/S00095/sales-jobs-linked-to-bladder-cancer-risk.htm
+title: Sales jobs linked to bladder cancer risk
+date: 2006-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0604/S00095/sales-jobs-linked-to-bladder-cancer-risk.htm
 author: massey-university
+permalink: /archive/2006/04/28/sales-jobs-linked-to-bladder-cancer-risk/index.html
+layout: layout.njk
 ---
 Sales jobs linked to bladder cancer risk
 ========================================

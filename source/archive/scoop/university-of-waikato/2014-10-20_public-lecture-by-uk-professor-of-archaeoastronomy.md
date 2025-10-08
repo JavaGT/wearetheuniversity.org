@@ -1,9 +1,13 @@
 ---
 slug: public-lecture-by-uk-professor-of-archaeoastronomy
-title: "Public Lecture by UK Professor of Archaeoastronomy"
-date: 2014-10-20
-source-url: https://www.scoop.co.nz/stories/CU1410/S00402/public-lecture-by-uk-professor-of-archaeoastronomy.htm
+title: Public Lecture by UK Professor of Archaeoastronomy
+date: 2014-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00402/public-lecture-by-uk-professor-of-archaeoastronomy.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/10/20/public-lecture-by-uk-professor-of-archaeoastronomy/index.html
+layout: layout.njk
 ---
 Public Lecture by UK Professor of Archaeoastronomy
 ==================================================

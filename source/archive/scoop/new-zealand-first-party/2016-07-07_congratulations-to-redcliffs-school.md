@@ -1,9 +1,12 @@
 ---
 slug: congratulations-to-redcliffs-school
-title: "Congratulations To Redcliffs School"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/PA1607/S00123/congratulations-to-redcliffs-school.htm
+title: Congratulations To Redcliffs School
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00123/congratulations-to-redcliffs-school.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/07/congratulations-to-redcliffs-school/index.html
+layout: layout.njk
 ---
 Congratulations To Redcliffs School
 ===================================

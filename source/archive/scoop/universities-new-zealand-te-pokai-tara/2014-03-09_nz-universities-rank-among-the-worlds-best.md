@@ -1,9 +1,12 @@
 ---
 slug: nz-universities-rank-among-the-worlds-best
-title: "NZ universities rank among the world’s best"
-date: 2014-03-09
-source-url: https://www.scoop.co.nz/stories/ED1403/S00045/nz-universities-rank-among-the-worlds-best.htm
+title: NZ universities rank among the world’s best
+date: 2014-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00045/nz-universities-rank-among-the-worlds-best.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2014/03/09/nz-universities-rank-among-the-worlds-best/index.html
+layout: layout.njk
 ---
 NZ universities rank among the world’s best
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: call-for-cantabs-to-think-about-future-of-water
-title: "Call for Cantabs to think about future of water"
-date: 2015-04-13
-source-url: https://www.scoop.co.nz/stories/ED1504/S00028/call-for-cantabs-to-think-about-future-of-water.htm
+title: Call for Cantabs to think about future of water
+date: 2015-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00028/call-for-cantabs-to-think-about-future-of-water.htm
 author: lincoln-university
+permalink: /archive/2015/04/13/call-for-cantabs-to-think-about-future-of-water/index.html
+layout: layout.njk
 ---
 Call for Cantabs to think about future of water
 ===============================================

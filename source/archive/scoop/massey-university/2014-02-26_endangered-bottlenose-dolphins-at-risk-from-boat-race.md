@@ -1,9 +1,13 @@
 ---
 slug: endangered-bottlenose-dolphins-at-risk-from-boat-race
-title: "Endangered bottlenose dolphins at risk from boat race"
-date: 2014-02-26
-source-url: https://www.scoop.co.nz/stories/AK1402/S00600/endangered-bottlenose-dolphins-at-risk-from-boat-race.htm
+title: Endangered bottlenose dolphins at risk from boat race
+date: 2014-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1402/S00600/endangered-bottlenose-dolphins-at-risk-from-boat-race.htm
 author: massey-university
+permalink: >-
+  /archive/2014/02/26/endangered-bottlenose-dolphins-at-risk-from-boat-race/index.html
+layout: layout.njk
 ---
 Endangered bottlenose dolphins at risk from boat race
 =====================================================

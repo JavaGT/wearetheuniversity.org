@@ -1,9 +1,12 @@
 ---
 slug: salmon-reigns-supreme-at-nz-food-awards
-title: "Salmon reigns supreme at NZ Food Awards"
-date: 2011-10-20
-source-url: https://www.scoop.co.nz/stories/BU1110/S00623/salmon-reigns-supreme-at-nz-food-awards.htm
+title: Salmon reigns supreme at NZ Food Awards
+date: 2011-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1110/S00623/salmon-reigns-supreme-at-nz-food-awards.htm
 author: massey-university
+permalink: /archive/2011/10/20/salmon-reigns-supreme-at-nz-food-awards/index.html
+layout: layout.njk
 ---
 Salmon reigns supreme at NZ Food Awards
 =======================================

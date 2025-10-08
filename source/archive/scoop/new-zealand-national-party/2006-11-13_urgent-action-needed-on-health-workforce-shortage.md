@@ -1,9 +1,13 @@
 ---
 slug: urgent-action-needed-on-health-workforce-shortage
-title: "Urgent action needed on health workforce shortage"
-date: 2006-11-13
-source-url: https://www.scoop.co.nz/stories/PA0611/S00218/urgent-action-needed-on-health-workforce-shortage.htm
+title: Urgent action needed on health workforce shortage
+date: 2006-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00218/urgent-action-needed-on-health-workforce-shortage.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/11/13/urgent-action-needed-on-health-workforce-shortage/index.html
+layout: layout.njk
 ---
 Urgent action needed on health workforce shortage
 =================================================

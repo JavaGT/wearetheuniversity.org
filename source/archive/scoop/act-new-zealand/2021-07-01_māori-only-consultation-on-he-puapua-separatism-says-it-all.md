@@ -1,9 +1,12 @@
 ---
 slug: māori-only-consultation-on-he-puapua-separatism-says-it-all
-title: "Māori Only Consultation On He Puapua Separatism Says It All"
-date: 2021-07-01
-source-url: https://www.scoop.co.nz/stories/PA2107/S00008/maori-only-consultation-on-he-puapua-separatism-says-it-all.htm
+title: Māori Only Consultation On He Puapua Separatism Says It All
+date: 2021-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00008/maori-only-consultation-on-he-puapua-separatism-says-it-all.htm
 author: act-new-zealand
+permalink: /archive/2021/07/01/m/index.html
+layout: layout.njk
 ---
 Māori Only Consultation On He Puapua Separatism Says It All
 ===========================================================

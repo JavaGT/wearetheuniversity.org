@@ -1,9 +1,13 @@
 ---
 slug: government-should-be-shamed-into-action-on-equity
-title: "Government Should Be Shamed into Action On Equity"
-date: 2010-11-08
-source-url: https://www.scoop.co.nz/stories/PO1011/S00103/government-should-be-shamed-into-action-on-equity.htm
+title: Government Should Be Shamed into Action On Equity
+date: 2010-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00103/government-should-be-shamed-into-action-on-equity.htm
 author: nzei
+permalink: >-
+  /archive/2010/11/08/government-should-be-shamed-into-action-on-equity/index.html
+layout: layout.njk
 ---
 Government Should Be Shamed into Action On Equity
 =================================================

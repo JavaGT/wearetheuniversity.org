@@ -1,9 +1,13 @@
 ---
 slug: public-will-add-depth-to-lively-media-conference
-title: "Public will add depth to ‘lively’ media conference"
-date: 2006-11-13
-source-url: https://www.scoop.co.nz/stories/ED0611/S00051/public-will-add-depth-to-lively-media-conference.htm
+title: Public will add depth to ‘lively’ media conference
+date: 2006-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00051/public-will-add-depth-to-lively-media-conference.htm
 author: aut-university
+permalink: >-
+  /archive/2006/11/13/public-will-add-depth-to-lively-media-conference/index.html
+layout: layout.njk
 ---
 Public will add depth to ‘lively’ media conference
 ==================================================

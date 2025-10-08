@@ -1,9 +1,13 @@
 ---
 slug: palestinian-solidarity-protests-will-continue-and-grow-next-weekend
-title: "Palestinian Solidarity Protests Will Continue And Grow Next Weekend"
-date: 2021-05-17
-source-url: https://www.scoop.co.nz/stories/PO2105/S00142/palestinian-solidarity-protests-will-continue-and-grow-next-weekend.htm
+title: Palestinian Solidarity Protests Will Continue And Grow Next Weekend
+date: 2021-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2105/S00142/palestinian-solidarity-protests-will-continue-and-grow-next-weekend.htm
 author: palestine-solidarity-network-aotearoa
+permalink: >-
+  /archive/2021/05/17/palestinian-solidarity-protests-will-continue-and-grow-next-weekend/index.html
+layout: layout.njk
 ---
 Palestinian Solidarity Protests Will Continue And Grow Next Weekend
 ===================================================================

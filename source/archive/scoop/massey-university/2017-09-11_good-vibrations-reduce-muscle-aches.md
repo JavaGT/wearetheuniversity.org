@@ -1,9 +1,12 @@
 ---
 slug: good-vibrations-reduce-muscle-aches
-title: "Good vibrations reduce muscle aches"
-date: 2017-09-11
-source-url: https://www.scoop.co.nz/stories/GE1709/S00066/good-vibrations-reduce-muscle-aches.htm
+title: Good vibrations reduce muscle aches
+date: 2017-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1709/S00066/good-vibrations-reduce-muscle-aches.htm
 author: massey-university
+permalink: /archive/2017/09/11/good-vibrations-reduce-muscle-aches/index.html
+layout: layout.njk
 ---
 Good vibrations reduce muscle aches
 ===================================

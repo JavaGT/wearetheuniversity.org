@@ -1,9 +1,13 @@
 ---
 slug: civil-liberties-have-we-reached-the-right-balance
-title: "Civil Liberties: Have We Reached The Right Balance"
-date: 2007-10-11
-source-url: https://www.scoop.co.nz/stories/PA0710/S00186/civil-liberties-have-we-reached-the-right-balance.htm
+title: 'Civil Liberties: Have We Reached The Right Balance'
+date: 2007-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00186/civil-liberties-have-we-reached-the-right-balance.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2007/10/11/civil-liberties-have-we-reached-the-right-balance/index.html
+layout: layout.njk
 ---
 Civil Liberties: Have We Reached The Right Balance
 ==================================================

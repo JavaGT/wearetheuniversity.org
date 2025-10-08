@@ -1,9 +1,13 @@
 ---
 slug: act-to-level-the-playing-field-for-independent-schools
-title: "ACT to level the playing field for independent schools"
-date: 2017-08-31
-source-url: https://www.scoop.co.nz/stories/PA1708/S00553/act-to-level-the-playing-field-for-independent-schools.htm
+title: ACT to level the playing field for independent schools
+date: 2017-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00553/act-to-level-the-playing-field-for-independent-schools.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/08/31/act-to-level-the-playing-field-for-independent-schools/index.html
+layout: layout.njk
 ---
 ACT to level the playing field for independent schools
 ======================================================

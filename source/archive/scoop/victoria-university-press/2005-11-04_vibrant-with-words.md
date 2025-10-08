@@ -1,9 +1,11 @@
 ---
 slug: vibrant-with-words
-title: "Vibrant with Words"
-date: 2005-11-04
+title: Vibrant with Words
+date: 2005-11-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0511/S00089/vibrant-with-words.htm
 author: victoria-university-press
+permalink: /archive/2005/11/04/vibrant-with-words/index.html
+layout: layout.njk
 ---
 Vibrant with Words
 ==================

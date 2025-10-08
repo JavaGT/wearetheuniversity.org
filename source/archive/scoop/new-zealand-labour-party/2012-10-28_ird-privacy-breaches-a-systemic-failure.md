@@ -1,9 +1,12 @@
 ---
 slug: ird-privacy-breaches-a-systemic-failure
-title: "IRD privacy breaches a systemic failure"
-date: 2012-10-28
-source-url: https://www.scoop.co.nz/stories/PA1210/S00473/ird-privacy-breaches-a-systemic-failure.htm
+title: IRD privacy breaches a systemic failure
+date: 2012-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00473/ird-privacy-breaches-a-systemic-failure.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/28/ird-privacy-breaches-a-systemic-failure/index.html
+layout: layout.njk
 ---
 IRD privacy breaches a systemic failure
 =======================================

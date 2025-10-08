@@ -1,9 +1,12 @@
 ---
 slug: double-standard-in-east-timor-prebble
-title: "Double Standard In East Timor - Prebble"
-date: 1999-08-20
-source-url: https://www.scoop.co.nz/stories/PA9908/S00344/double-standard-in-east-timor-prebble.htm
+title: Double Standard In East Timor - Prebble
+date: 1999-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00344/double-standard-in-east-timor-prebble.htm
 author: act-new-zealand
+permalink: /archive/1999/08/20/double-standard-in-east-timor-prebble/index.html
+layout: layout.njk
 ---
 Double Standard In East Timor - Prebble
 =======================================

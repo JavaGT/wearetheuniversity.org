@@ -1,9 +1,13 @@
 ---
 slug: more-support-needed-for-pre-fab-home-manufacturers
-title: "More support needed for pre-fab home manufacturers"
-date: 2019-09-03
-source-url: https://www.scoop.co.nz/stories/PA1909/S00019/more-support-needed-for-pre-fab-home-manufacturers.htm
+title: More support needed for pre-fab home manufacturers
+date: 2019-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00019/more-support-needed-for-pre-fab-home-manufacturers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/09/03/more-support-needed-for-pre-fab-home-manufacturers/index.html
+layout: layout.njk
 ---
 More support needed for pre-fab home manufacturers
 ==================================================

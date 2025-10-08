@@ -1,9 +1,12 @@
 ---
 slug: cant-control-your-ministry-resign-then!
-title: "Can't Control Your Ministry? Resign Then!"
-date: 2001-08-03
-source-url: https://www.scoop.co.nz/stories/PA0108/S00078/cant-control-your-ministry-resign-then.htm
+title: Can't Control Your Ministry? Resign Then!
+date: 2001-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00078/cant-control-your-ministry-resign-then.htm
 author: new-zealand-first-party
+permalink: /archive/2001/08/03/cant-control-your-ministry-resign-then/index.html
+layout: layout.njk
 ---
 Can't Control Your Ministry? Resign Then!
 =========================================

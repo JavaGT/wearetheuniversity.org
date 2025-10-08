@@ -1,9 +1,13 @@
 ---
 slug: top-three-finalists-named-in-international-uc-challenge
-title: "Top three finalists named in international UC challenge"
-date: 2015-05-29
-source-url: https://www.scoop.co.nz/stories/ED1505/S00110/top-three-finalists-named-in-international-uc-challenge.htm
+title: Top three finalists named in international UC challenge
+date: 2015-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00110/top-three-finalists-named-in-international-uc-challenge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/29/top-three-finalists-named-in-international-uc-challenge/index.html
+layout: layout.njk
 ---
 Top three finalists named in international UC challenge
 =======================================================

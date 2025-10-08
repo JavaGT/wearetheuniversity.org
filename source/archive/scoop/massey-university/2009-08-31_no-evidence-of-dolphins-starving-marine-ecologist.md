@@ -1,9 +1,13 @@
 ---
 slug: no-evidence-of-dolphins-starving-marine-ecologist
-title: "No evidence of dolphins starving –marine ecologist"
-date: 2009-08-31
-source-url: https://www.scoop.co.nz/stories/AK0908/S00507/no-evidence-of-dolphins-starving-marine-ecologist.htm
+title: No evidence of dolphins starving –marine ecologist
+date: 2009-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0908/S00507/no-evidence-of-dolphins-starving-marine-ecologist.htm
 author: massey-university
+permalink: >-
+  /archive/2009/08/31/no-evidence-of-dolphins-starving-marine-ecologist/index.html
+layout: layout.njk
 ---
 No evidence of dolphins starving –marine ecologist
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-13-october-2003
-title: "ACT's The Letter - 13 October 2003"
-date: 2003-10-13
-source-url: https://www.scoop.co.nz/stories/PA0310/S00260/acts-the-letter-13-october-2003.htm
+title: ACT's The Letter - 13 October 2003
+date: 2003-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00260/acts-the-letter-13-october-2003.htm
 author: act-new-zealand
+permalink: /archive/2003/10/13/acts-the-letter-13-october-2003/index.html
+layout: layout.njk
 ---
 ACT's The Letter - 13 October 2003
 ==================================

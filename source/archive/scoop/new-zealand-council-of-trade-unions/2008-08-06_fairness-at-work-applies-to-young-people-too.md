@@ -1,9 +1,12 @@
 ---
 slug: fairness-at-work-applies-to-young-people-too
-title: "Fairness at work applies to young people too"
-date: 2008-08-06
-source-url: https://www.scoop.co.nz/stories/PO0808/S00068/fairness-at-work-applies-to-young-people-too.htm
+title: Fairness at work applies to young people too
+date: 2008-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00068/fairness-at-work-applies-to-young-people-too.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/08/06/fairness-at-work-applies-to-young-people-too/index.html
+layout: layout.njk
 ---
 Fairness at work applies to young people too
 ============================================

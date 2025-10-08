@@ -1,9 +1,13 @@
 ---
 slug: lecture-to-focus-on-victorian-writers-terrible-sonnets
-title: "Lecture to focus on Victorian writer’s ‘terrible sonnets’"
-date: 2013-11-22
-source-url: https://www.scoop.co.nz/stories/AK1311/S00688/lecture-to-focus-on-victorian-writers-terrible-sonnets.htm
+title: Lecture to focus on Victorian writer’s ‘terrible sonnets’
+date: 2013-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00688/lecture-to-focus-on-victorian-writers-terrible-sonnets.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/11/22/lecture-to-focus-on-victorian-writers-terrible-sonnets/index.html
+layout: layout.njk
 ---
 Lecture to focus on Victorian writer’s ‘terrible sonnets’
 =========================================================

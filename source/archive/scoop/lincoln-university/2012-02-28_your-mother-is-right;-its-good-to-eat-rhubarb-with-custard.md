@@ -1,9 +1,12 @@
 ---
 slug: your-mother-is-right;-its-good-to-eat-rhubarb-with-custard
-title: "Your mother is right; it’s good to eat rhubarb with custard"
-date: 2012-02-28
-source-url: https://www.scoop.co.nz/stories/SC1202/S00056/your-mother-is-right-its-good-to-eat-rhubarb-with-custard.htm
+title: Your mother is right; it’s good to eat rhubarb with custard
+date: 2012-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1202/S00056/your-mother-is-right-its-good-to-eat-rhubarb-with-custard.htm
 author: lincoln-university
+permalink: /archive/2012/02/28/your-mother-is-right/index.html
+layout: layout.njk
 ---
 Your mother is right; it’s good to eat rhubarb with custard
 ===========================================================

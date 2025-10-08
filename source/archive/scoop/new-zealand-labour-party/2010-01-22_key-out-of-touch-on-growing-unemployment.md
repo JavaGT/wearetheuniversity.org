@@ -1,9 +1,12 @@
 ---
 slug: key-out-of-touch-on-growing-unemployment
-title: "Key out of touch on growing unemployment"
-date: 2010-01-22
-source-url: https://www.scoop.co.nz/stories/PA1001/S00096/key-out-of-touch-on-growing-unemployment.htm
+title: Key out of touch on growing unemployment
+date: 2010-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00096/key-out-of-touch-on-growing-unemployment.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/22/key-out-of-touch-on-growing-unemployment/index.html
+layout: layout.njk
 ---
 Key out of touch on growing unemployment
 ========================================

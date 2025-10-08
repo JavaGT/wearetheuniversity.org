@@ -1,9 +1,12 @@
 ---
 slug: new-clues-to-schizophrenias-biological-basis
-title: "New clues to schizophrenia’s biological basis"
-date: 2010-09-15
-source-url: https://www.scoop.co.nz/stories/GE1009/S00095/new-clues-to-schizophrenias-biological-basis.htm
+title: New clues to schizophrenia’s biological basis
+date: 2010-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1009/S00095/new-clues-to-schizophrenias-biological-basis.htm
 author: university-of-otago
+permalink: /archive/2010/09/15/new-clues-to-schizophrenias-biological-basis/index.html
+layout: layout.njk
 ---
 New clues to schizophrenia’s biological basis
 =============================================

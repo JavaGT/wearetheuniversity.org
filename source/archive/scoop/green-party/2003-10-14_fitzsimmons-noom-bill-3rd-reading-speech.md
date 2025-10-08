@@ -1,9 +1,12 @@
 ---
 slug: fitzsimmons-noom-bill-3rd-reading-speech
-title: "Fitzsimmons' Noom Bill 3rd reading speech"
-date: 2003-10-14
-source-url: https://www.scoop.co.nz/stories/PA0310/S00323/fitzsimmons-noom-bill-3rd-reading-speech.htm
+title: Fitzsimmons' Noom Bill 3rd reading speech
+date: 2003-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00323/fitzsimmons-noom-bill-3rd-reading-speech.htm
 author: green-party
+permalink: /archive/2003/10/14/fitzsimmons-noom-bill-3rd-reading-speech/index.html
+layout: layout.njk
 ---
 Fitzsimmons' Noom Bill 3rd reading speech
 =========================================

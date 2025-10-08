@@ -1,9 +1,12 @@
 ---
 slug: academics-retain-visa-free-access-to-uk
-title: "Academics retain visa-free access to UK"
-date: 2008-06-26
-source-url: https://www.scoop.co.nz/stories/ED0806/S00078/academics-retain-visa-free-access-to-uk.htm
+title: Academics retain visa-free access to UK
+date: 2008-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00078/academics-retain-visa-free-access-to-uk.htm
 author: association-of-university-staff
+permalink: /archive/2008/06/26/academics-retain-visa-free-access-to-uk/index.html
+layout: layout.njk
 ---
 Academics retain visa-free access to UK
 =======================================

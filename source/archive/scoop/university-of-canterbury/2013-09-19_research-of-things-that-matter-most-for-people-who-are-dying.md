@@ -1,9 +1,13 @@
 ---
 slug: research-of-things-that-matter-most-for-people-who-are-dying
-title: "Research of things that matter most for people who are dying"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/GE1309/S00103/research-of-things-that-matter-most-for-people-who-are-dying.htm
+title: Research of things that matter most for people who are dying
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1309/S00103/research-of-things-that-matter-most-for-people-who-are-dying.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/19/research-of-things-that-matter-most-for-people-who-are-dying/index.html
+layout: layout.njk
 ---
 Research of things that matter most for people who are dying
 ============================================================

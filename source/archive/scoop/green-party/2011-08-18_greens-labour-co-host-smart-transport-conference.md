@@ -1,9 +1,13 @@
 ---
 slug: greens-labour-co-host-smart-transport-conference
-title: "Greens, Labour co-host Smart Transport Conference"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/PA1108/S00367/greens-labour-co-host-smart-transport-conference.htm
+title: Greens, Labour co-host Smart Transport Conference
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00367/greens-labour-co-host-smart-transport-conference.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/18/greens-labour-co-host-smart-transport-conference/index.html
+layout: layout.njk
 ---
 Greens, Labour co-host Smart Transport Conference
 =================================================

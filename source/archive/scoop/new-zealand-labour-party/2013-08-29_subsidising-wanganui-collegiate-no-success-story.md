@@ -1,9 +1,13 @@
 ---
 slug: subsidising-wanganui-collegiate-no-success-story
-title: "Subsidising Wanganui Collegiate no success story"
-date: 2013-08-29
-source-url: https://www.scoop.co.nz/stories/PA1308/S00489/subsidising-wanganui-collegiate-no-success-story.htm
+title: Subsidising Wanganui Collegiate no success story
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00489/subsidising-wanganui-collegiate-no-success-story.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/08/29/subsidising-wanganui-collegiate-no-success-story/index.html
+layout: layout.njk
 ---
 Subsidising Wanganui Collegiate no success story
 ================================================

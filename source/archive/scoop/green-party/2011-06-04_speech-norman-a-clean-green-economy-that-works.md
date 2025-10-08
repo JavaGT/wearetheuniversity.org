@@ -1,9 +1,12 @@
 ---
 slug: speech-norman-a-clean-green-economy-that-works
-title: "Speech: Norman - A Clean Green Economy that works"
-date: 2011-06-04
-source-url: https://www.scoop.co.nz/stories/PA1106/S00077/speech-norman-a-clean-green-economy-that-works.htm
+title: 'Speech: Norman - A Clean Green Economy that works'
+date: 2011-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00077/speech-norman-a-clean-green-economy-that-works.htm
 author: green-party
+permalink: /archive/2011/06/04/speech-norman-a-clean-green-economy-that-works/index.html
+layout: layout.njk
 ---
 Speech: Norman - A Clean Green Economy that works
 =================================================

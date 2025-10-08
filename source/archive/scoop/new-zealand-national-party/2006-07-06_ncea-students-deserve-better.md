@@ -1,9 +1,11 @@
 ---
 slug: ncea-students-deserve-better
-title: "NCEA: Students deserve better"
-date: 2006-07-06
+title: 'NCEA: Students deserve better'
+date: 2006-07-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0607/S00087/ncea-students-deserve-better.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/06/ncea-students-deserve-better/index.html
+layout: layout.njk
 ---
 NCEA: Students deserve better
 =============================

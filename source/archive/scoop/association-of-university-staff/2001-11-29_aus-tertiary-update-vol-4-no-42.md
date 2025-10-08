@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-42
-title: "AUS Tertiary Update  Vol 4 No 42"
-date: 2001-11-29
-source-url: https://www.scoop.co.nz/stories/ED0111/S00046/aus-tertiary-update-vol-4-no-42.htm
+title: AUS Tertiary Update  Vol 4 No 42
+date: 2001-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00046/aus-tertiary-update-vol-4-no-42.htm
 author: association-of-university-staff
+permalink: /archive/2001/11/29/aus-tertiary-update-vol-4-no-42/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 4 No 42
 ===============================

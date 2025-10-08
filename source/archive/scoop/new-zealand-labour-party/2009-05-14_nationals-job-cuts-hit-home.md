@@ -1,9 +1,11 @@
 ---
 slug: nationals-job-cuts-hit-home
-title: "National’s job cuts hit home"
-date: 2009-05-14
+title: National’s job cuts hit home
+date: 2009-05-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0905/S00271/nationals-job-cuts-hit-home.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/14/nationals-job-cuts-hit-home/index.html
+layout: layout.njk
 ---
 National’s job cuts hit home
 ============================

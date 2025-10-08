@@ -1,9 +1,13 @@
 ---
 slug: top-researcher-to-highlight-the-human-impact-on-earth
-title: "Top researcher to highlight the human impact on Earth"
-date: 2016-01-12
-source-url: https://www.scoop.co.nz/stories/SC1601/S00018/top-researcher-to-highlight-the-human-impact-on-earth.htm
+title: Top researcher to highlight the human impact on Earth
+date: 2016-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1601/S00018/top-researcher-to-highlight-the-human-impact-on-earth.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/01/12/top-researcher-to-highlight-the-human-impact-on-earth/index.html
+layout: layout.njk
 ---
 Top researcher to highlight the human impact on Earth
 =====================================================

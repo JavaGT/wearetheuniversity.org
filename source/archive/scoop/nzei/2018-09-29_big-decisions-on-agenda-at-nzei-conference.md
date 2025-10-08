@@ -1,9 +1,12 @@
 ---
 slug: big-decisions-on-agenda-at-nzei-conference
-title: "Big decisions on agenda at NZEI conference"
-date: 2018-09-29
-source-url: https://www.scoop.co.nz/stories/ED1809/S00080/big-decisions-on-agenda-at-nzei-conference.htm
+title: Big decisions on agenda at NZEI conference
+date: 2018-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00080/big-decisions-on-agenda-at-nzei-conference.htm
 author: nzei
+permalink: /archive/2018/09/29/big-decisions-on-agenda-at-nzei-conference/index.html
+layout: layout.njk
 ---
 Big decisions on agenda at NZEI conference
 ==========================================

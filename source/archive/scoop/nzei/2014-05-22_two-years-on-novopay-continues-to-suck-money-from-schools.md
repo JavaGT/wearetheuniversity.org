@@ -1,9 +1,13 @@
 ---
 slug: two-years-on-novopay-continues-to-suck-money-from-schools
-title: "Two years on - Novopay continues to suck money from schools"
-date: 2014-05-22
-source-url: https://www.scoop.co.nz/stories/ED1405/S00112/two-years-on-novopay-continues-to-suck-money-from-schools.htm
+title: Two years on - Novopay continues to suck money from schools
+date: 2014-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00112/two-years-on-novopay-continues-to-suck-money-from-schools.htm
 author: nzei
+permalink: >-
+  /archive/2014/05/22/two-years-on-novopay-continues-to-suck-money-from-schools/index.html
+layout: layout.njk
 ---
 Two years on - Novopay continues to suck money from schools
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: mexican-multi-media-artist-takes-up-residency
-title: "Mexican multi-media artist takes up residency"
-date: 2018-08-20
-source-url: https://www.scoop.co.nz/stories/CU1808/S00198/mexican-multi-media-artist-takes-up-residency.htm
+title: Mexican multi-media artist takes up residency
+date: 2018-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1808/S00198/mexican-multi-media-artist-takes-up-residency.htm
 author: massey-university
+permalink: /archive/2018/08/20/mexican-multi-media-artist-takes-up-residency/index.html
+layout: layout.njk
 ---
 Mexican multi-media artist takes up residency
 =============================================

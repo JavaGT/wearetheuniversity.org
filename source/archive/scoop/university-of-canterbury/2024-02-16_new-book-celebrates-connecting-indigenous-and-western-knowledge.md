@@ -1,9 +1,13 @@
 ---
 slug: new-book-celebrates-connecting-indigenous-and-western-knowledge
-title: "New Book Celebrates Connecting Indigenous And Western Knowledge"
-date: 2024-02-16
-source-url: https://www.scoop.co.nz/stories/CU2402/S00152/new-book-celebrates-connecting-indigenous-and-western-knowledge.htm
+title: New Book Celebrates Connecting Indigenous And Western Knowledge
+date: 2024-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2402/S00152/new-book-celebrates-connecting-indigenous-and-western-knowledge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/02/16/new-book-celebrates-connecting-indigenous-and-western-knowledge/index.html
+layout: layout.njk
 ---
 New Book Celebrates Connecting Indigenous And Western Knowledge
 ===============================================================

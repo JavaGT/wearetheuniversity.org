@@ -1,9 +1,13 @@
 ---
 slug: campaign-to-give-cost-of-living-adjustments-to-students
-title: "Campaign to Give Cost of Living Adjustments to Students"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/ED1407/S00054/campaign-to-give-cost-of-living-adjustments-to-students.htm
+title: Campaign to Give Cost of Living Adjustments to Students
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00054/campaign-to-give-cost-of-living-adjustments-to-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/07/08/campaign-to-give-cost-of-living-adjustments-to-students/index.html
+layout: layout.njk
 ---
 Campaign to Give Cost of Living Adjustments to Students
 =======================================================

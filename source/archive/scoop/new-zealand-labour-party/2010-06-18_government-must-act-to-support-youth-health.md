@@ -1,9 +1,12 @@
 ---
 slug: government-must-act-to-support-youth-health
-title: "Government must act to support youth health"
-date: 2010-06-18
-source-url: https://www.scoop.co.nz/stories/PA1006/S00284/government-must-act-to-support-youth-health.htm
+title: Government must act to support youth health
+date: 2010-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00284/government-must-act-to-support-youth-health.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/18/government-must-act-to-support-youth-health/index.html
+layout: layout.njk
 ---
 Government must act to support youth health
 ===========================================

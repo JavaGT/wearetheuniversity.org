@@ -1,9 +1,12 @@
 ---
 slug: digging-deeper-into-natural-hazard-management
-title: "Digging Deeper Into Natural Hazard Management"
-date: 2012-08-15
-source-url: https://www.scoop.co.nz/stories/ED1208/S00087/digging-deeper-into-natural-hazard-management.htm
+title: Digging Deeper Into Natural Hazard Management
+date: 2012-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00087/digging-deeper-into-natural-hazard-management.htm
 author: massey-university
+permalink: /archive/2012/08/15/digging-deeper-into-natural-hazard-management/index.html
+layout: layout.njk
 ---
 Digging Deeper Into Natural Hazard Management
 =============================================

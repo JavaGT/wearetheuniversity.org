@@ -1,9 +1,12 @@
 ---
 slug: petition-on-early-childhood-funding-cuts
-title: "Petition on early childhood funding cuts"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/PO1109/S00179/petition-on-early-childhood-funding-cuts.htm
+title: Petition on early childhood funding cuts
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00179/petition-on-early-childhood-funding-cuts.htm
 author: nzei
+permalink: /archive/2011/09/13/petition-on-early-childhood-funding-cuts/index.html
+layout: layout.njk
 ---
 Petition on early childhood funding cuts
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: public-invited-to-help-plan-hauraki-gulf-future
-title: "Public invited to help plan Hauraki Gulf future"
-date: 2014-03-02
-source-url: https://www.scoop.co.nz/stories/AK1403/S00011/public-invited-to-help-plan-hauraki-gulf-future.htm
+title: Public invited to help plan Hauraki Gulf future
+date: 2014-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00011/public-invited-to-help-plan-hauraki-gulf-future.htm
 author: aut-university
+permalink: /archive/2014/03/02/public-invited-to-help-plan-hauraki-gulf-future/index.html
+layout: layout.njk
 ---
 Public invited to help plan Hauraki Gulf future
 ===============================================

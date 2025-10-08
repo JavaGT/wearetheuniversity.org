@@ -1,9 +1,12 @@
 ---
 slug: can-firms-spend-their-way-out-of-a-recession
-title: "Can firms spend their way out of a recession?"
-date: 2010-09-29
-source-url: https://www.scoop.co.nz/stories/PO1009/S00356/can-firms-spend-their-way-out-of-a-recession.htm
+title: Can firms spend their way out of a recession?
+date: 2010-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00356/can-firms-spend-their-way-out-of-a-recession.htm
 author: university-of-waikato
+permalink: /archive/2010/09/29/can-firms-spend-their-way-out-of-a-recession/index.html
+layout: layout.njk
 ---
 Can firms spend their way out of a recession?
 =============================================

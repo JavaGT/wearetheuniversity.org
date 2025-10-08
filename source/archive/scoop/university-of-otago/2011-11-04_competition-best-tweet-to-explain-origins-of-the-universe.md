@@ -1,9 +1,13 @@
 ---
 slug: competition-best-tweet-to-explain-origins-of-the-universe
-title: "Competition: Best Tweet to Explain Origins of the Universe"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/ED1111/S00034/competition-best-tweet-to-explain-origins-of-the-universe.htm
+title: 'Competition: Best Tweet to Explain Origins of the Universe'
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00034/competition-best-tweet-to-explain-origins-of-the-universe.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/11/04/competition-best-tweet-to-explain-origins-of-the-universe/index.html
+layout: layout.njk
 ---
 Competition: Best Tweet to Explain Origins of the Universe
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwi-astronomers-help-find-icy-super-earth-life
-title: "Kiwi astronomers help find icy 'Super Earth' life"
-date: 2006-03-14
-source-url: https://www.scoop.co.nz/stories/SC0603/S00035/kiwi-astronomers-help-find-icy-super-earth-life.htm
+title: Kiwi astronomers help find icy 'Super Earth' life
+date: 2006-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0603/S00035/kiwi-astronomers-help-find-icy-super-earth-life.htm
 author: auckland-university
+permalink: /archive/2006/03/14/kiwi-astronomers-help-find-icy-super-earth-life/index.html
+layout: layout.njk
 ---
 Kiwi astronomers help find icy 'Super Earth' life
 =================================================

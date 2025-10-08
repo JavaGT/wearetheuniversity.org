@@ -1,9 +1,12 @@
 ---
 slug: solid-energys-workers-deserve-more
-title: "Solid Energy’s workers deserve more"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/PA1508/S00205/solid-energys-workers-deserve-more.htm
+title: Solid Energy’s workers deserve more
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00205/solid-energys-workers-deserve-more.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/13/solid-energys-workers-deserve-more/index.html
+layout: layout.njk
 ---
 Solid Energy’s workers deserve more
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwis-failing-with-sun-protection
-title: "Kiwis failing with sun protection"
-date: 2018-10-26
-source-url: https://www.scoop.co.nz/stories/GE1810/S00112/kiwis-failing-with-sun-protection.htm
+title: Kiwis failing with sun protection
+date: 2018-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00112/kiwis-failing-with-sun-protection.htm
 author: university-of-otago
+permalink: /archive/2018/10/26/kiwis-failing-with-sun-protection/index.html
+layout: layout.njk
 ---
 Kiwis failing with sun protection
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: government-must-sort-out-rwc-transport-debacle
-title: "Government must sort out RWC transport debacle"
-date: 2011-09-12
-source-url: https://www.scoop.co.nz/stories/PA1109/S00222/government-must-sort-out-rwc-transport-debacle.htm
+title: Government must sort out RWC transport debacle
+date: 2011-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00222/government-must-sort-out-rwc-transport-debacle.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/12/government-must-sort-out-rwc-transport-debacle/index.html
+layout: layout.njk
 ---
 Government must sort out RWC transport debacle
 ==============================================

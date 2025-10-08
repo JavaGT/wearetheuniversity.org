@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-presentations-of-tohu-in-business
-title: "Tariana Turia: Presentations of tohu in business"
-date: 2008-05-18
-source-url: https://www.scoop.co.nz/stories/PA0805/S00309/tariana-turia-presentations-of-tohu-in-business.htm
+title: 'Tariana Turia: Presentations of tohu in business'
+date: 2008-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00309/tariana-turia-presentations-of-tohu-in-business.htm
 author: te-pati-maori
+permalink: /archive/2008/05/18/tariana-turia-presentations-of-tohu-in-business/index.html
+layout: layout.njk
 ---
 Tariana Turia: Presentations of tohu in business
 ================================================

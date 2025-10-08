@@ -1,9 +1,12 @@
 ---
 slug: students-rally-against-fee-rises
-title: "Students rally against fee rises"
-date: 2003-05-22
-source-url: https://www.scoop.co.nz/stories/ED0305/S00081/students-rally-against-fee-rises.htm
+title: Students rally against fee rises
+date: 2003-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00081/students-rally-against-fee-rises.htm
 author: auckland-student-movement
+permalink: /archive/2003/05/22/students-rally-against-fee-rises/index.html
+layout: layout.njk
 ---
 Students rally against fee rises
 ================================

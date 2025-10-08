@@ -1,9 +1,12 @@
 ---
 slug: bishop-welcomes-hutt-valley-high-upgrade
-title: "Bishop Welcomes Hutt Valley High Upgrade"
-date: 2024-12-10
-source-url: https://www.scoop.co.nz/stories/PA2412/S00096/bishop-welcomes-hutt-valley-high-upgrade.htm
+title: Bishop Welcomes Hutt Valley High Upgrade
+date: 2024-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00096/bishop-welcomes-hutt-valley-high-upgrade.htm
 author: new-zealand-national-party
+permalink: /archive/2024/12/10/bishop-welcomes-hutt-valley-high-upgrade/index.html
+layout: layout.njk
 ---
 Bishop Welcomes Hutt Valley High Upgrade
 ========================================

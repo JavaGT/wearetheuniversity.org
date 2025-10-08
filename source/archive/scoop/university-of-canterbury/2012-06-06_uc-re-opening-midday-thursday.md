@@ -1,9 +1,12 @@
 ---
 slug: uc-re-opening-midday-thursday
-title: "UC Re-opening Midday Thursday"
-date: 2012-06-06
-source-url: https://www.scoop.co.nz/stories/ED1206/S00020/uc-re-opening-midday-thursday.htm
+title: UC Re-opening Midday Thursday
+date: 2012-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00020/uc-re-opening-midday-thursday.htm
 author: university-of-canterbury
+permalink: /archive/2012/06/06/uc-re-opening-midday-thursday/index.html
+layout: layout.njk
 ---
 UC Re-opening Midday Thursday
 =============================

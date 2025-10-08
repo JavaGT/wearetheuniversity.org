@@ -1,9 +1,13 @@
 ---
 slug: track-testing-for-international-competition-begins
-title: "Track testing for international competition begins"
-date: 2014-09-08
-source-url: https://www.scoop.co.nz/stories/SC1409/S00028/track-testing-for-international-competition-begins.htm
+title: Track testing for international competition begins
+date: 2014-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00028/track-testing-for-international-competition-begins.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/08/track-testing-for-international-competition-begins/index.html
+layout: layout.njk
 ---
 Track testing for international competition begins
 ==================================================

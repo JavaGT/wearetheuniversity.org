@@ -1,9 +1,13 @@
 ---
 slug: manufacturing-continues-to-contract-under-national
-title: "Manufacturing continues to contract under National"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/PA1208/S00221/manufacturing-continues-to-contract-under-national.htm
+title: Manufacturing continues to contract under National
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00221/manufacturing-continues-to-contract-under-national.htm
 author: green-party
+permalink: >-
+  /archive/2012/08/16/manufacturing-continues-to-contract-under-national/index.html
+layout: layout.njk
 ---
 Manufacturing continues to contract under National
 ==================================================

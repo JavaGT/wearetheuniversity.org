@@ -1,9 +1,12 @@
 ---
 slug: national-will-overturn-polytech-reforms
-title: "National will overturn polytech reforms"
-date: 2019-06-21
-source-url: https://www.scoop.co.nz/stories/PA1906/S00193/national-will-overturn-polytech-reforms.htm
+title: National will overturn polytech reforms
+date: 2019-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00193/national-will-overturn-polytech-reforms.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/21/national-will-overturn-polytech-reforms/index.html
+layout: layout.njk
 ---
 National will overturn polytech reforms
 =======================================

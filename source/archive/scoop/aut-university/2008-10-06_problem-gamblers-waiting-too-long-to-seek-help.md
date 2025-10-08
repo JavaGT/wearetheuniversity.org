@@ -1,9 +1,12 @@
 ---
 slug: problem-gamblers-waiting-too-long-to-seek-help
-title: "Problem gamblers waiting too long to seek help"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/GE0810/S00023/problem-gamblers-waiting-too-long-to-seek-help.htm
+title: Problem gamblers waiting too long to seek help
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0810/S00023/problem-gamblers-waiting-too-long-to-seek-help.htm
 author: aut-university
+permalink: /archive/2008/10/06/problem-gamblers-waiting-too-long-to-seek-help/index.html
+layout: layout.njk
 ---
 Problem gamblers waiting too long to seek help
 ==============================================

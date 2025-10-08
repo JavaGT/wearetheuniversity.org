@@ -1,9 +1,12 @@
 ---
 slug: funding-to-combat-disruptive-behaviour-welcomed
-title: "Funding to Combat Disruptive Behaviour Welcomed"
-date: 2006-05-04
-source-url: https://www.scoop.co.nz/stories/ED0605/S00019/funding-to-combat-disruptive-behaviour-welcomed.htm
+title: Funding to Combat Disruptive Behaviour Welcomed
+date: 2006-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00019/funding-to-combat-disruptive-behaviour-welcomed.htm
 author: nzei
+permalink: /archive/2006/05/04/funding-to-combat-disruptive-behaviour-welcomed/index.html
+layout: layout.njk
 ---
 Funding to Combat Disruptive Behaviour Welcomed
 ===============================================

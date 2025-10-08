@@ -1,9 +1,12 @@
 ---
 slug: students-need-to-fight-labour
-title: "Students need to fight Labour"
-date: 2006-12-27
-source-url: https://www.scoop.co.nz/stories/ED0612/S00075/students-need-to-fight-labour.htm
+title: Students need to fight Labour
+date: 2006-12-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00075/students-need-to-fight-labour.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/12/27/students-need-to-fight-labour/index.html
+layout: layout.njk
 ---
 Students need to fight Labour
 =============================

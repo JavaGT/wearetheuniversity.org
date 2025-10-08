@@ -1,9 +1,12 @@
 ---
 slug: sharples-lincoln-efford-memorial-lecture
-title: "Sharples: Lincoln Efford Memorial Lecture"
-date: 2006-08-17
-source-url: https://www.scoop.co.nz/stories/PA0608/S00287/sharples-lincoln-efford-memorial-lecture.htm
+title: 'Sharples: Lincoln Efford Memorial Lecture'
+date: 2006-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00287/sharples-lincoln-efford-memorial-lecture.htm
 author: te-pati-maori
+permalink: /archive/2006/08/17/sharples-lincoln-efford-memorial-lecture/index.html
+layout: layout.njk
 ---
 Sharples: Lincoln Efford Memorial Lecture
 =========================================

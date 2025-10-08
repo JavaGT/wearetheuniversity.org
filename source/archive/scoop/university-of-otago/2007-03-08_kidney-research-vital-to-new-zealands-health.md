@@ -1,9 +1,12 @@
 ---
 slug: kidney-research-vital-to-new-zealands-health
-title: "Kidney Research Vital to New Zealand’s Health"
-date: 2007-03-08
-source-url: https://www.scoop.co.nz/stories/GE0703/S00020/kidney-research-vital-to-new-zealands-health.htm
+title: Kidney Research Vital to New Zealand’s Health
+date: 2007-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0703/S00020/kidney-research-vital-to-new-zealands-health.htm
 author: university-of-otago
+permalink: /archive/2007/03/08/kidney-research-vital-to-new-zealands-health/index.html
+layout: layout.njk
 ---
 Kidney Research Vital to New Zealand’s Health
 =============================================

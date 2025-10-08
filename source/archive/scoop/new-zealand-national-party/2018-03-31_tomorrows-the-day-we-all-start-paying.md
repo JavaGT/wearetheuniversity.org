@@ -1,9 +1,12 @@
 ---
 slug: tomorrows-the-day-we-all-start-paying
-title: "Tomorrow’s the day we all start paying"
-date: 2018-03-31
-source-url: https://www.scoop.co.nz/stories/PA1803/S00343/tomorrows-the-day-we-all-start-paying.htm
+title: Tomorrow’s the day we all start paying
+date: 2018-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00343/tomorrows-the-day-we-all-start-paying.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/31/tomorrows-the-day-we-all-start-paying/index.html
+layout: layout.njk
 ---
 Tomorrow’s the day we all start paying
 ======================================

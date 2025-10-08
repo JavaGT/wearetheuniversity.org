@@ -1,9 +1,12 @@
 ---
 slug: urgent-action-needed-on-synthetic-cannabis
-title: "Urgent Action Needed on Synthetic Cannabis"
-date: 2012-03-30
-source-url: https://www.scoop.co.nz/stories/PA1203/S00413/urgent-action-needed-on-synthetic-cannabis.htm
+title: Urgent Action Needed on Synthetic Cannabis
+date: 2012-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00413/urgent-action-needed-on-synthetic-cannabis.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/30/urgent-action-needed-on-synthetic-cannabis/index.html
+layout: layout.njk
 ---
 Urgent Action Needed on Synthetic Cannabis
 ==========================================

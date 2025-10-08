@@ -1,9 +1,16 @@
 ---
-slug: university-of-canterbury-student-volunteers-connect-with-the-waimakariri-community
-title: "University Of Canterbury Student Volunteers Connect With The Waimakariri Community"
-date: 2023-08-04
-source-url: https://www.scoop.co.nz/stories/CU2308/S00030/university-of-canterbury-student-volunteers-connect-with-the-waimakariri-community.htm
+slug: >-
+  university-of-canterbury-student-volunteers-connect-with-the-waimakariri-community
+title: >-
+  University Of Canterbury Student Volunteers Connect With The Waimakariri
+  Community
+date: 2023-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2308/S00030/university-of-canterbury-student-volunteers-connect-with-the-waimakariri-community.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/08/04/university-of-canterbury-student-volunteers-connect-with-the-waimakariri-community/index.html
+layout: layout.njk
 ---
 University Of Canterbury Student Volunteers Connect With The Waimakariri Community
 ==================================================================================

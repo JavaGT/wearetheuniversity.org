@@ -1,9 +1,13 @@
 ---
 slug: govt-must-reach-agreement-and-avoid-more-strikes
-title: "Govt must reach agreement and avoid more strikes"
-date: 2018-08-15
-source-url: https://www.scoop.co.nz/stories/PA1808/S00164/govt-must-reach-agreement-and-avoid-more-strikes.htm
+title: Govt must reach agreement and avoid more strikes
+date: 2018-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00164/govt-must-reach-agreement-and-avoid-more-strikes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/08/15/govt-must-reach-agreement-and-avoid-more-strikes/index.html
+layout: layout.njk
 ---
 Govt must reach agreement and avoid more strikes
 ================================================

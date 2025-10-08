@@ -1,9 +1,12 @@
 ---
 slug: southern-alps-glaciers-in-state-of-rapid-change
-title: "Southern Alps glaciers in state of rapid change"
-date: 2013-11-25
-source-url: https://www.scoop.co.nz/stories/SC1311/S00082/southern-alps-glaciers-in-state-of-rapid-change.htm
+title: Southern Alps glaciers in state of rapid change
+date: 2013-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00082/southern-alps-glaciers-in-state-of-rapid-change.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/25/southern-alps-glaciers-in-state-of-rapid-change/index.html
+layout: layout.njk
 ---
 Southern Alps glaciers in state of rapid change
 ===============================================

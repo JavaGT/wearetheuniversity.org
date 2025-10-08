@@ -1,9 +1,12 @@
 ---
 slug: greens-make-two-key-appointments
-title: "Greens make two key appointments"
-date: 2000-03-13
-source-url: https://www.scoop.co.nz/stories/PA0003/S00180/greens-make-two-key-appointments.htm
+title: Greens make two key appointments
+date: 2000-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00180/greens-make-two-key-appointments.htm
 author: green-party
+permalink: /archive/2000/03/13/greens-make-two-key-appointments/index.html
+layout: layout.njk
 ---
 Greens make two key appointments
 ================================

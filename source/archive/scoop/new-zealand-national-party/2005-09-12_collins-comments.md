@@ -1,9 +1,11 @@
 ---
 slug: collins-comments
-title: "Collins' Comments"
-date: 2005-09-12
+title: Collins' Comments
+date: 2005-09-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00297/collins-comments.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/12/collins-comments/index.html
+layout: layout.njk
 ---
 Collins' Comments
 =================

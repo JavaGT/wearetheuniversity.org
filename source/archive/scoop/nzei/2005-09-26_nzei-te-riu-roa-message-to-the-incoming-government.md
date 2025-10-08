@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-message-to-the-incoming-government
-title: "NZEI Te Riu Roa Message To The Incoming Government"
-date: 2005-09-26
-source-url: https://www.scoop.co.nz/stories/ED0509/S00082/nzei-te-riu-roa-message-to-the-incoming-government.htm
+title: NZEI Te Riu Roa Message To The Incoming Government
+date: 2005-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00082/nzei-te-riu-roa-message-to-the-incoming-government.htm
 author: nzei
+permalink: >-
+  /archive/2005/09/26/nzei-te-riu-roa-message-to-the-incoming-government/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Message To The Incoming Government
 ==================================================

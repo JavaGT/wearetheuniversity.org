@@ -1,9 +1,13 @@
 ---
 slug: reports-aotearoa-stands-in-solidarity-with-palestine
-title: "Reports: Aotearoa stands in solidarity with Palestine"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/PO1407/S00365/reports-aotearoa-stands-in-solidarity-with-palestine.htm
+title: 'Reports: Aotearoa stands in solidarity with Palestine'
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00365/reports-aotearoa-stands-in-solidarity-with-palestine.htm
 author: fightback
+permalink: >-
+  /archive/2014/07/23/reports-aotearoa-stands-in-solidarity-with-palestine/index.html
+layout: layout.njk
 ---
 Reports: Aotearoa stands in solidarity with Palestine
 =====================================================

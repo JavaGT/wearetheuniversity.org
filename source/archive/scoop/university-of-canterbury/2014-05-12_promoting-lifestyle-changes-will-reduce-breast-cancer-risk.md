@@ -1,9 +1,13 @@
 ---
 slug: promoting-lifestyle-changes-will-reduce-breast-cancer-risk
-title: "Promoting lifestyle changes will reduce breast cancer risk"
-date: 2014-05-12
-source-url: https://www.scoop.co.nz/stories/GE1405/S00063/promoting-lifestyle-changes-will-reduce-breast-cancer-risk.htm
+title: Promoting lifestyle changes will reduce breast cancer risk
+date: 2014-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00063/promoting-lifestyle-changes-will-reduce-breast-cancer-risk.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/12/promoting-lifestyle-changes-will-reduce-breast-cancer-risk/index.html
+layout: layout.njk
 ---
 Promoting lifestyle changes will reduce breast cancer risk
 ==========================================================

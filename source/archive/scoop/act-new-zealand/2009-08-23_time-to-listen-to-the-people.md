@@ -1,9 +1,11 @@
 ---
 slug: time-to-listen-to-the-people
-title: "Time To Listen To The People"
-date: 2009-08-23
+title: Time To Listen To The People
+date: 2009-08-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0908/S00333/time-to-listen-to-the-people.htm
 author: act-new-zealand
+permalink: /archive/2009/08/23/time-to-listen-to-the-people/index.html
+layout: layout.njk
 ---
 Time To Listen To The People
 ============================

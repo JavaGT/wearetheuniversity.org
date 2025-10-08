@@ -1,9 +1,12 @@
 ---
-slug: "transition-to-new-faculty-arrangements"
-date: 2025-05-15
-source: "University of Auckland"
-source-url: https://www.auckland.ac.nz/en/intranet/stay-informed/improvement-projects-programmes/transition-new-faculty.html
-title: "Transition to new faculty arrangements"
+slug: transition-to-new-faculty-arrangements
+date: 2025-05-15T00:00:00.000Z
+source: University of Auckland
+source-url: >-
+  https://www.auckland.ac.nz/en/intranet/stay-informed/improvement-projects-programmes/transition-new-faculty.html
+title: Transition to new faculty arrangements
+permalink: /archive/2025/05/15/transition-to-new-faculty-arrangements/index.html
+layout: layout.njk
 ---
 
 # Transition to new faculty arrangements

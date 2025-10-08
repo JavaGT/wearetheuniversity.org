@@ -1,9 +1,13 @@
 ---
 slug: research-provides-innovation-roadmap-for-auckland
-title: "Research provides innovation roadmap for Auckland"
-date: 2015-11-30
-source-url: https://www.scoop.co.nz/stories/ED1511/S00140/research-provides-innovation-roadmap-for-auckland.htm
+title: Research provides innovation roadmap for Auckland
+date: 2015-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00140/research-provides-innovation-roadmap-for-auckland.htm
 author: massey-university
+permalink: >-
+  /archive/2015/11/30/research-provides-innovation-roadmap-for-auckland/index.html
+layout: layout.njk
 ---
 Research provides innovation roadmap for Auckland
 =================================================

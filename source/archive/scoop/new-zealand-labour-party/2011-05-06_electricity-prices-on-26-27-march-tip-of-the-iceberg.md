@@ -1,9 +1,13 @@
 ---
 slug: electricity-prices-on-26-27-march-tip-of-the-iceberg
-title: "Electricity prices on 26-27 March tip of the iceberg"
-date: 2011-05-06
-source-url: https://www.scoop.co.nz/stories/PA1105/S00147/electricity-prices-on-26-27-march-tip-of-the-iceberg.htm
+title: Electricity prices on 26-27 March tip of the iceberg
+date: 2011-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00147/electricity-prices-on-26-27-march-tip-of-the-iceberg.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/06/electricity-prices-on-26-27-march-tip-of-the-iceberg/index.html
+layout: layout.njk
 ---
 Electricity prices on 26-27 March tip of the iceberg
 ====================================================

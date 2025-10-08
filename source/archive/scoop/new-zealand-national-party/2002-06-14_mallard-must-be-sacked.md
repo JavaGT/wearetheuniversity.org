@@ -1,9 +1,11 @@
 ---
 slug: mallard-must-be-sacked
-title: "Mallard Must Be Sacked"
-date: 2002-06-14
+title: Mallard Must Be Sacked
+date: 2002-06-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00225/mallard-must-be-sacked.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/14/mallard-must-be-sacked/index.html
+layout: layout.njk
 ---
 Mallard Must Be Sacked
 ======================

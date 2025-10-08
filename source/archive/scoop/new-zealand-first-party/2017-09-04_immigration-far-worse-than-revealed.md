@@ -1,9 +1,12 @@
 ---
 slug: immigration-far-worse-than-revealed
-title: "Immigration Far Worse than Revealed"
-date: 2017-09-04
-source-url: https://www.scoop.co.nz/stories/PA1709/S00027/immigration-far-worse-than-revealed.htm
+title: Immigration Far Worse than Revealed
+date: 2017-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00027/immigration-far-worse-than-revealed.htm
 author: new-zealand-first-party
+permalink: /archive/2017/09/04/immigration-far-worse-than-revealed/index.html
+layout: layout.njk
 ---
 Immigration Far Worse than Revealed
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: industry-training-review-must-include-worker-perspectives
-title: "Industry Training Review Must Include Worker Perspectives"
-date: 2012-08-01
-source-url: https://www.scoop.co.nz/stories/PO1208/S00017/industry-training-review-must-include-worker-perspectives.htm
+title: Industry Training Review Must Include Worker Perspectives
+date: 2012-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00017/industry-training-review-must-include-worker-perspectives.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2012/08/01/industry-training-review-must-include-worker-perspectives/index.html
+layout: layout.njk
 ---
 Industry Training Review Must Include Worker Perspectives
 =========================================================

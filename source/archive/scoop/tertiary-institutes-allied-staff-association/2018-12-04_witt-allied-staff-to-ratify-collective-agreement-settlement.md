@@ -1,9 +1,13 @@
 ---
 slug: witt-allied-staff-to-ratify-collective-agreement-settlement
-title: "WITT Allied Staff to ratify collective agreement settlement"
-date: 2018-12-04
-source-url: https://www.scoop.co.nz/stories/PO1812/S00030/witt-allied-staff-to-ratify-collective-agreement-settlement.htm
+title: WITT Allied Staff to ratify collective agreement settlement
+date: 2018-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1812/S00030/witt-allied-staff-to-ratify-collective-agreement-settlement.htm
 author: tertiary-institutes-allied-staff-association
+permalink: >-
+  /archive/2018/12/04/witt-allied-staff-to-ratify-collective-agreement-settlement/index.html
+layout: layout.njk
 ---
 WITT Allied Staff to ratify collective agreement settlement
 ===========================================================

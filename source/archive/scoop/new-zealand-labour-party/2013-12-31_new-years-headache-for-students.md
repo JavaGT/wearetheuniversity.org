@@ -1,9 +1,12 @@
 ---
 slug: new-years-headache-for-students
-title: "New Year’s headache for students"
-date: 2013-12-31
-source-url: https://www.scoop.co.nz/stories/PA1312/S00426/new-years-headache-for-students.htm
+title: New Year’s headache for students
+date: 2013-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00426/new-years-headache-for-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/12/31/new-years-headache-for-students/index.html
+layout: layout.njk
 ---
 New Year’s headache for students
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: another-worsening-step-change-for-future-wage-prospects
-title: "Another worsening ‘step change’ for future wage prospects"
-date: 2012-11-27
-source-url: https://www.scoop.co.nz/stories/PO1211/S00397/another-worsening-step-change-for-future-wage-prospects.htm
+title: Another worsening ‘step change’ for future wage prospects
+date: 2012-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00397/another-worsening-step-change-for-future-wage-prospects.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/11/27/another-worsening-step-change-for-future-wage-prospects/index.html
+layout: layout.njk
 ---
 Another worsening ‘step change’ for future wage prospects
 =========================================================

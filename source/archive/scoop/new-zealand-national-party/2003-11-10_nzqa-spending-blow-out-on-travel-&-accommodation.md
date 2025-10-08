@@ -1,9 +1,12 @@
 ---
 slug: nzqa-spending-blow-out-on-travel-&-accommodation
-title: "NZQA spending blow-out on travel & accommodation"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/PA0311/S00173/nzqa-spending-blow-out-on-travel-accommodation.htm
+title: NZQA spending blow-out on travel & accommodation
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00173/nzqa-spending-blow-out-on-travel-accommodation.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/10/nzqa-spending-blow-out-on-travel-/index.html
+layout: layout.njk
 ---
 NZQA spending blow-out on travel & accommodation
 ================================================

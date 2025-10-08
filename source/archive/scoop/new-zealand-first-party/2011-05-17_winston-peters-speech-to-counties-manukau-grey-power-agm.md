@@ -1,9 +1,13 @@
 ---
 slug: winston-peters-speech-to-counties-manukau-grey-power-agm
-title: "Winston Peters Speech To Counties Manukau Grey Power AGM"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/PO1105/S00236/winston-peters-speech-to-counties-manukau-grey-power-agm.htm
+title: Winston Peters Speech To Counties Manukau Grey Power AGM
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00236/winston-peters-speech-to-counties-manukau-grey-power-agm.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2011/05/17/winston-peters-speech-to-counties-manukau-grey-power-agm/index.html
+layout: layout.njk
 ---
 Winston Peters Speech To Counties Manukau Grey Power AGM
 ========================================================

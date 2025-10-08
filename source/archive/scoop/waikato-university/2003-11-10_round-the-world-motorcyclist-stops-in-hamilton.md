@@ -1,9 +1,12 @@
 ---
 slug: round-the-world-motorcyclist-stops-in-hamilton
-title: "Round-the-world motorcyclist stops in Hamilton"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/ED0311/S00032/round-the-world-motorcyclist-stops-in-hamilton.htm
+title: Round-the-world motorcyclist stops in Hamilton
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00032/round-the-world-motorcyclist-stops-in-hamilton.htm
 author: waikato-university
+permalink: /archive/2003/11/10/round-the-world-motorcyclist-stops-in-hamilton/index.html
+layout: layout.njk
 ---
 Round-the-world motorcyclist stops in Hamilton
 ==============================================

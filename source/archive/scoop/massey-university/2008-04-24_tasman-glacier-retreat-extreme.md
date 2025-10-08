@@ -1,9 +1,12 @@
 ---
 slug: tasman-glacier-retreat-extreme
-title: "Tasman Glacier retreat extreme"
-date: 2008-04-24
-source-url: https://www.scoop.co.nz/stories/ED0804/S00074/tasman-glacier-retreat-extreme.htm
+title: Tasman Glacier retreat extreme
+date: 2008-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00074/tasman-glacier-retreat-extreme.htm
 author: massey-university
+permalink: /archive/2008/04/24/tasman-glacier-retreat-extreme/index.html
+layout: layout.njk
 ---
 Tasman Glacier retreat extreme
 ==============================

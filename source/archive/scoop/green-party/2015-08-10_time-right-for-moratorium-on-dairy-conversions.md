@@ -1,9 +1,12 @@
 ---
 slug: time-right-for-moratorium-on-dairy-conversions
-title: "Time right for moratorium on dairy conversions"
-date: 2015-08-10
-source-url: https://www.scoop.co.nz/stories/PA1508/S00116/time-right-for-moratorium-on-dairy-conversions.htm
+title: Time right for moratorium on dairy conversions
+date: 2015-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00116/time-right-for-moratorium-on-dairy-conversions.htm
 author: green-party
+permalink: /archive/2015/08/10/time-right-for-moratorium-on-dairy-conversions/index.html
+layout: layout.njk
 ---
 Time right for moratorium on dairy conversions
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: army-only-policy-wrong-for-maritime-nation
-title: "Army-Only Policy Wrong For Maritime Nation"
-date: 2000-08-23
-source-url: https://www.scoop.co.nz/stories/PA0008/S00442/army-only-policy-wrong-for-maritime-nation.htm
+title: Army-Only Policy Wrong For Maritime Nation
+date: 2000-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00442/army-only-policy-wrong-for-maritime-nation.htm
 author: new-zealand-national-party
+permalink: /archive/2000/08/23/army-only-policy-wrong-for-maritime-nation/index.html
+layout: layout.njk
 ---
 Army-Only Policy Wrong For Maritime Nation
 ==========================================

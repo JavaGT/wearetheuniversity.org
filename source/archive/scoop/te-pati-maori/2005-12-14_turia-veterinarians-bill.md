@@ -1,9 +1,11 @@
 ---
 slug: turia-veterinarians-bill
-title: "Turia: Veterinarians Bill"
-date: 2005-12-14
+title: 'Turia: Veterinarians Bill'
+date: 2005-12-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00212/turia-veterinarians-bill.htm
 author: te-pati-maori
+permalink: /archive/2005/12/14/turia-veterinarians-bill/index.html
+layout: layout.njk
 ---
 Turia: Veterinarians Bill
 =========================

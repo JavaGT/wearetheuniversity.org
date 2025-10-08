@@ -1,9 +1,12 @@
 ---
 slug: tinetti-misreads-the-empty-classroom
-title: "Tinetti Misreads The Empty Classroom"
-date: 2023-05-15
-source-url: https://www.scoop.co.nz/stories/PA2305/S00100/tinetti-misreads-the-empty-classroom.htm
+title: Tinetti Misreads The Empty Classroom
+date: 2023-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00100/tinetti-misreads-the-empty-classroom.htm
 author: new-zealand-national-party
+permalink: /archive/2023/05/15/tinetti-misreads-the-empty-classroom/index.html
+layout: layout.njk
 ---
 Tinetti Misreads The Empty Classroom
 ====================================

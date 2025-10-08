@@ -1,9 +1,12 @@
 ---
 slug: delaying-the-emissions-trading-scheme
-title: "Delaying the emissions trading scheme"
-date: 2008-05-20
-source-url: https://www.scoop.co.nz/stories/ED0805/S00066/delaying-the-emissions-trading-scheme.htm
+title: Delaying the emissions trading scheme
+date: 2008-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00066/delaying-the-emissions-trading-scheme.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/20/delaying-the-emissions-trading-scheme/index.html
+layout: layout.njk
 ---
 Delaying the emissions trading scheme
 =====================================

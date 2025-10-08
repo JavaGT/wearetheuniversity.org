@@ -1,9 +1,11 @@
 ---
 slug: accs-day-that-wasnt
-title: "ACC’s Day That Wasn’t"
-date: 2001-02-20
+title: ACC’s Day That Wasn’t
+date: 2001-02-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0102/S00297/accs-day-that-wasnt.htm
 author: act-new-zealand
+permalink: /archive/2001/02/20/accs-day-that-wasnt/index.html
+layout: layout.njk
 ---
 ACC’s Day That Wasn’t
 =====================

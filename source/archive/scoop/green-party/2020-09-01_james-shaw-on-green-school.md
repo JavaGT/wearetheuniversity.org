@@ -1,9 +1,11 @@
 ---
 slug: james-shaw-on-green-school
-title: "James Shaw On Green School"
-date: 2020-09-01
+title: James Shaw On Green School
+date: 2020-09-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2009/S00003/james-shaw-on-green-school.htm
 author: green-party
+permalink: /archive/2020/09/01/james-shaw-on-green-school/index.html
+layout: layout.njk
 ---
 James Shaw On Green School
 ==========================

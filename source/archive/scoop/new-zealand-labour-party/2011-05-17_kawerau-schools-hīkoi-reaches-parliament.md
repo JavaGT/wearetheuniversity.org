@@ -1,9 +1,12 @@
 ---
 slug: kawerau-schools-hīkoi-reaches-parliament
-title: "Kawerau schools hīkoi reaches Parliament"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/PA1105/S00339/kawerau-schools-hikoi-reaches-parliament.htm
+title: Kawerau schools hīkoi reaches Parliament
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00339/kawerau-schools-hikoi-reaches-parliament.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/17/kawerau-schools-h/index.html
+layout: layout.njk
 ---
 Kawerau schools hīkoi reaches Parliament
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: south-auckland-disadvantaged-by-new-decile-rankings
-title: "South Auckland disadvantaged by new decile rankings"
-date: 2014-11-24
-source-url: https://www.scoop.co.nz/stories/PA1411/S00290/south-auckland-disadvantaged-by-new-decile-rankings.htm
+title: South Auckland disadvantaged by new decile rankings
+date: 2014-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00290/south-auckland-disadvantaged-by-new-decile-rankings.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/11/24/south-auckland-disadvantaged-by-new-decile-rankings/index.html
+layout: layout.njk
 ---
 South Auckland disadvantaged by new decile rankings
 ===================================================

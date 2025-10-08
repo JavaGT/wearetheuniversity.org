@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-students-ready-to-celebrate
-title: "\"Lincoln University Students ready to Celebrate\""
-date: 2011-05-06
-source-url: https://www.scoop.co.nz/stories/ED1105/S00024/lincoln-university-students-ready-to-celebrate.htm
+title: '"Lincoln University Students ready to Celebrate"'
+date: 2011-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00024/lincoln-university-students-ready-to-celebrate.htm
 author: lincoln-university
+permalink: /archive/2011/05/06/lincoln-university-students-ready-to-celebrate/index.html
+layout: layout.njk
 ---
 “Lincoln University Students ready to Celebrate”
 ================================================

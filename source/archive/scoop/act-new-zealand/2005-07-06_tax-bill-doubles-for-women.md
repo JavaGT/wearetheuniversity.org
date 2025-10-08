@@ -1,9 +1,11 @@
 ---
 slug: tax-bill-doubles-for-women
-title: "Tax bill doubles for women"
-date: 2005-07-06
+title: Tax bill doubles for women
+date: 2005-07-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00122/tax-bill-doubles-for-women.htm
 author: act-new-zealand
+permalink: /archive/2005/07/06/tax-bill-doubles-for-women/index.html
+layout: layout.njk
 ---
 Tax bill doubles for women
 ==========================

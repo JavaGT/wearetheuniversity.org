@@ -1,9 +1,13 @@
 ---
 slug: building-sector-could-employ-thousands-more-people
-title: "Building Sector Could Employ Thousands More People"
-date: 2020-05-20
-source-url: https://www.scoop.co.nz/stories/PA2005/S00180/building-sector-could-employ-thousands-more-people.htm
+title: Building Sector Could Employ Thousands More People
+date: 2020-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00180/building-sector-could-employ-thousands-more-people.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/05/20/building-sector-could-employ-thousands-more-people/index.html
+layout: layout.njk
 ---
 Building Sector Could Employ Thousands More People
 ==================================================

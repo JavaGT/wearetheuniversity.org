@@ -1,9 +1,12 @@
 ---
 slug: traffic-jam-tax-must-be-given-the-red-light
-title: "Traffic Jam Tax must be given the red light"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/PA1410/S00212/traffic-jam-tax-must-be-given-the-red-light.htm
+title: Traffic Jam Tax must be given the red light
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00212/traffic-jam-tax-must-be-given-the-red-light.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/29/traffic-jam-tax-must-be-given-the-red-light/index.html
+layout: layout.njk
 ---
 Traffic Jam Tax must be given the red light
 ===========================================

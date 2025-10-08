@@ -1,9 +1,12 @@
 ---
 slug: two-years-of-the-act-team-in-parliament
-title: "Two Years Of The ACT Team In Parliament"
-date: 2022-10-17
-source-url: https://www.scoop.co.nz/stories/PA2210/S00108/two-years-of-the-act-team-in-parliament.htm
+title: Two Years Of The ACT Team In Parliament
+date: 2022-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00108/two-years-of-the-act-team-in-parliament.htm
 author: act-new-zealand
+permalink: /archive/2022/10/17/two-years-of-the-act-team-in-parliament/index.html
+layout: layout.njk
 ---
 Two Years Of The ACT Team In Parliament
 =======================================

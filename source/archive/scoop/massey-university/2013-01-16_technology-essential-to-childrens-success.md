@@ -1,9 +1,12 @@
 ---
 slug: technology-essential-to-childrens-success
-title: "Technology essential to children’s success"
-date: 2013-01-16
-source-url: https://www.scoop.co.nz/stories/ED1301/S00027/technology-essential-to-childrens-success.htm
+title: Technology essential to children’s success
+date: 2013-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00027/technology-essential-to-childrens-success.htm
 author: massey-university
+permalink: /archive/2013/01/16/technology-essential-to-childrens-success/index.html
+layout: layout.njk
 ---
 Technology essential to children’s success
 ==========================================

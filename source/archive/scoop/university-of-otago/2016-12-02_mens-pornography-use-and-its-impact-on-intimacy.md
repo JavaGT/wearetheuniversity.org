@@ -1,9 +1,12 @@
 ---
 slug: mens-pornography-use-and-its-impact-on-intimacy
-title: "Men’s pornography use and its impact on intimacy"
-date: 2016-12-02
-source-url: https://www.scoop.co.nz/stories/ED1612/S00010/mens-pornography-use-and-its-impact-on-intimacy.htm
+title: Men’s pornography use and its impact on intimacy
+date: 2016-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00010/mens-pornography-use-and-its-impact-on-intimacy.htm
 author: university-of-otago
+permalink: /archive/2016/12/02/mens-pornography-use-and-its-impact-on-intimacy/index.html
+layout: layout.njk
 ---
 Men’s pornography use and its impact on intimacy
 ================================================

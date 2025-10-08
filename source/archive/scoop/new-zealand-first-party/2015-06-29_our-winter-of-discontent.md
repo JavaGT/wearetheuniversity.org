@@ -1,9 +1,11 @@
 ---
 slug: our-winter-of-discontent
-title: "Our Winter of Discontent"
-date: 2015-06-29
+title: Our Winter of Discontent
+date: 2015-06-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1506/S00507/our-winter-of-discontent.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/29/our-winter-of-discontent/index.html
+layout: layout.njk
 ---
 Our Winter of Discontent
 ========================

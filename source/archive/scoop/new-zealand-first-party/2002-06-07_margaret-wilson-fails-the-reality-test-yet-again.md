@@ -1,9 +1,13 @@
 ---
 slug: margaret-wilson-fails-the-reality-test-yet-again
-title: "Margaret Wilson Fails The Reality Test Yet Again"
-date: 2002-06-07
-source-url: https://www.scoop.co.nz/stories/PA0206/S00094/margaret-wilson-fails-the-reality-test-yet-again.htm
+title: Margaret Wilson Fails The Reality Test Yet Again
+date: 2002-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00094/margaret-wilson-fails-the-reality-test-yet-again.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2002/06/07/margaret-wilson-fails-the-reality-test-yet-again/index.html
+layout: layout.njk
 ---
 Margaret Wilson Fails The Reality Test Yet Again
 ================================================

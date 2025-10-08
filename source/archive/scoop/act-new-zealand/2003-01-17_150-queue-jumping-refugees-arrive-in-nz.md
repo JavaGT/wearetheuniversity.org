@@ -1,9 +1,12 @@
 ---
 slug: 150-queue-jumping-refugees-arrive-in-nz
-title: "150 Queue Jumping Refugees Arrive in NZ"
-date: 2003-01-17
-source-url: https://www.scoop.co.nz/stories/PA0301/S00115/150-queue-jumping-refugees-arrive-in-nz.htm
+title: 150 Queue Jumping Refugees Arrive in NZ
+date: 2003-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00115/150-queue-jumping-refugees-arrive-in-nz.htm
 author: act-new-zealand
+permalink: /archive/2003/01/17/150-queue-jumping-refugees-arrive-in-nz/index.html
+layout: layout.njk
 ---
 150 Queue Jumping Refugees Arrive in NZ
 =======================================

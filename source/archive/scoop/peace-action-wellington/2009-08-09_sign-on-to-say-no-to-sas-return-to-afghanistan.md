@@ -1,9 +1,12 @@
 ---
 slug: sign-on-to-say-no-to-sas-return-to-afghanistan
-title: "Sign on to Say NO to SAS return to Afghanistan"
-date: 2009-08-09
-source-url: https://www.scoop.co.nz/stories/PO0908/S00092/sign-on-to-say-no-to-sas-return-to-afghanistan.htm
+title: Sign on to Say NO to SAS return to Afghanistan
+date: 2009-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00092/sign-on-to-say-no-to-sas-return-to-afghanistan.htm
 author: peace-action-wellington
+permalink: /archive/2009/08/09/sign-on-to-say-no-to-sas-return-to-afghanistan/index.html
+layout: layout.njk
 ---
 Sign on to Say NO to SAS return to Afghanistan
 ==============================================

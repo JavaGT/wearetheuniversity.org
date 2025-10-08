@@ -1,9 +1,13 @@
 ---
 slug: ten-university-of-canterbury-research-projects-gain-$23m-mbie-funding
-title: "Ten University Of Canterbury Research Projects Gain $23m MBIE Funding"
-date: 2021-09-07
-source-url: https://www.scoop.co.nz/stories/ED2109/S00011/ten-university-of-canterbury-research-projects-gain-23m-mbie-funding.htm
+title: Ten University Of Canterbury Research Projects Gain $23m MBIE Funding
+date: 2021-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2109/S00011/ten-university-of-canterbury-research-projects-gain-23m-mbie-funding.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/09/07/ten-university-of-canterbury-research-projects-gain-/index.html
+layout: layout.njk
 ---
 Ten University Of Canterbury Research Projects Gain $23m MBIE Funding
 =====================================================================

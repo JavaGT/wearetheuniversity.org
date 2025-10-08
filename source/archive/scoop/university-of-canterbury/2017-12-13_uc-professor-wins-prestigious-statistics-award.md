@@ -1,9 +1,12 @@
 ---
 slug: uc-professor-wins-prestigious-statistics-award
-title: "UC professor wins prestigious statistics award"
-date: 2017-12-13
-source-url: https://www.scoop.co.nz/stories/ED1712/S00052/uc-professor-wins-prestigious-statistics-award.htm
+title: UC professor wins prestigious statistics award
+date: 2017-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00052/uc-professor-wins-prestigious-statistics-award.htm
 author: university-of-canterbury
+permalink: /archive/2017/12/13/uc-professor-wins-prestigious-statistics-award/index.html
+layout: layout.njk
 ---
 UC professor wins prestigious statistics award
 ==============================================

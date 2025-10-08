@@ -1,9 +1,12 @@
 ---
 slug: canterbury-university-staff-to-strike
-title: "Canterbury University Staff to Strike"
-date: 2003-01-31
-source-url: https://www.scoop.co.nz/stories/GE0301/S00016/canterbury-university-staff-to-strike.htm
+title: Canterbury University Staff to Strike
+date: 2003-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0301/S00016/canterbury-university-staff-to-strike.htm
 author: association-of-university-staff
+permalink: /archive/2003/01/31/canterbury-university-staff-to-strike/index.html
+layout: layout.njk
 ---
 Canterbury University Staff to Strike
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: time-to-take-stock-as-tourism-trends-upwards
-title: "Time to take stock as tourism trends upwards"
-date: 2015-12-10
-source-url: https://www.scoop.co.nz/stories/BU1512/S00366/time-to-take-stock-as-tourism-trends-upwards.htm
+title: Time to take stock as tourism trends upwards
+date: 2015-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1512/S00366/time-to-take-stock-as-tourism-trends-upwards.htm
 author: lincoln-university
+permalink: /archive/2015/12/10/time-to-take-stock-as-tourism-trends-upwards/index.html
+layout: layout.njk
 ---
 Time to take stock as tourism trends upwards
 ============================================

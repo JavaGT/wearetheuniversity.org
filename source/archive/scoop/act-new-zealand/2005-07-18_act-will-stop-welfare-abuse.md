@@ -1,9 +1,11 @@
 ---
 slug: act-will-stop-welfare-abuse
-title: "ACT will stop welfare abuse"
-date: 2005-07-18
+title: ACT will stop welfare abuse
+date: 2005-07-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00368/act-will-stop-welfare-abuse.htm
 author: act-new-zealand
+permalink: /archive/2005/07/18/act-will-stop-welfare-abuse/index.html
+layout: layout.njk
 ---
 ACT will stop welfare abuse
 ===========================

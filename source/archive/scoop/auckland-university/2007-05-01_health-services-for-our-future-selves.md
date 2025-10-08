@@ -1,9 +1,12 @@
 ---
 slug: health-services-for-our-future-selves
-title: "Health Services for our Future Selves"
-date: 2007-05-01
-source-url: https://www.scoop.co.nz/stories/GE0705/S00001/health-services-for-our-future-selves.htm
+title: Health Services for our Future Selves
+date: 2007-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0705/S00001/health-services-for-our-future-selves.htm
 author: auckland-university
+permalink: /archive/2007/05/01/health-services-for-our-future-selves/index.html
+layout: layout.njk
 ---
 Health Services for our Future Selves
 =====================================

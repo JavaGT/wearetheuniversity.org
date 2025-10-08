@@ -1,9 +1,12 @@
 ---
 slug: turei-to-stand-in-dunedin-north
-title: "Turei to stand in Dunedin North"
-date: 2008-02-11
-source-url: https://www.scoop.co.nz/stories/PA0802/S00121/turei-to-stand-in-dunedin-north.htm
+title: Turei to stand in Dunedin North
+date: 2008-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00121/turei-to-stand-in-dunedin-north.htm
 author: green-party
+permalink: /archive/2008/02/11/turei-to-stand-in-dunedin-north/index.html
+layout: layout.njk
 ---
 Turei to stand in Dunedin North
 ===============================

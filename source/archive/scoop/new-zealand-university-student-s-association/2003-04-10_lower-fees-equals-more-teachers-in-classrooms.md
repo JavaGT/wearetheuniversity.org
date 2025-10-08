@@ -1,9 +1,12 @@
 ---
 slug: lower-fees-equals-more-teachers-in-classrooms
-title: "Lower fees equals more teachers in classrooms"
-date: 2003-04-10
-source-url: https://www.scoop.co.nz/stories/ED0304/S00033/lower-fees-equals-more-teachers-in-classrooms.htm
+title: Lower fees equals more teachers in classrooms
+date: 2003-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00033/lower-fees-equals-more-teachers-in-classrooms.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/04/10/lower-fees-equals-more-teachers-in-classrooms/index.html
+layout: layout.njk
 ---
 Lower fees equals more teachers in classrooms
 =============================================

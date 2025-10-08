@@ -1,9 +1,13 @@
 ---
 slug: women-in-leadership-gather-from-pacific-rim-universities
-title: "Women In Leadership Gather From Pacific Rim Universities"
-date: 2024-06-23
-source-url: https://www.scoop.co.nz/stories/ED2406/S00052/women-in-leadership-gather-from-pacific-rim-universities.htm
+title: Women In Leadership Gather From Pacific Rim Universities
+date: 2024-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00052/women-in-leadership-gather-from-pacific-rim-universities.htm
 author: auckland-university
+permalink: >-
+  /archive/2024/06/23/women-in-leadership-gather-from-pacific-rim-universities/index.html
+layout: layout.njk
 ---
 Women In Leadership Gather From Pacific Rim Universities
 ========================================================

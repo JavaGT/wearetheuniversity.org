@@ -1,9 +1,12 @@
 ---
 slug: gerry-brownlee-at-sea-over-breaches-at-eqc
-title: "Gerry Brownlee at sea over breaches at EQC"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/PA1304/S00136/gerry-brownlee-at-sea-over-breaches-at-eqc.htm
+title: Gerry Brownlee at sea over breaches at EQC
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00136/gerry-brownlee-at-sea-over-breaches-at-eqc.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/09/gerry-brownlee-at-sea-over-breaches-at-eqc/index.html
+layout: layout.njk
 ---
 Gerry Brownlee at sea over breaches at EQC
 ==========================================

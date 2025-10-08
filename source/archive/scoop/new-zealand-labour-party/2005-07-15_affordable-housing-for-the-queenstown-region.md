@@ -1,9 +1,12 @@
 ---
 slug: affordable-housing-for-the-queenstown-region
-title: "Affordable housing for the Queenstown region"
-date: 2005-07-15
-source-url: https://www.scoop.co.nz/stories/PA0507/S00315/affordable-housing-for-the-queenstown-region.htm
+title: Affordable housing for the Queenstown region
+date: 2005-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00315/affordable-housing-for-the-queenstown-region.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/07/15/affordable-housing-for-the-queenstown-region/index.html
+layout: layout.njk
 ---
 Affordable housing for the Queenstown region
 ============================================

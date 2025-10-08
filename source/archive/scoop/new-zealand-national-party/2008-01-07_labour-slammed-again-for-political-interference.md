@@ -1,9 +1,12 @@
 ---
 slug: labour-slammed-again-for-political-interference
-title: "Labour slammed again for political interference"
-date: 2008-01-07
-source-url: https://www.scoop.co.nz/stories/PA0801/S00030/labour-slammed-again-for-political-interference.htm
+title: Labour slammed again for political interference
+date: 2008-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00030/labour-slammed-again-for-political-interference.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/07/labour-slammed-again-for-political-interference/index.html
+layout: layout.njk
 ---
 Labour slammed again for political interference
 ===============================================

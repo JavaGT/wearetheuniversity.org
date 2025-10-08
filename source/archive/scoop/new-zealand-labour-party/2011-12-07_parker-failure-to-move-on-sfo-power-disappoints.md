@@ -1,9 +1,12 @@
 ---
 slug: parker-failure-to-move-on-sfo-power-disappoints
-title: "Parker: Failure to move on SFO power disappoints"
-date: 2011-12-07
-source-url: https://www.scoop.co.nz/stories/PA1112/S00048/parker-failure-to-move-on-sfo-power-disappoints.htm
+title: 'Parker: Failure to move on SFO power disappoints'
+date: 2011-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00048/parker-failure-to-move-on-sfo-power-disappoints.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/07/parker-failure-to-move-on-sfo-power-disappoints/index.html
+layout: layout.njk
 ---
 Parker: Failure to move on SFO power disappoints
 ================================================

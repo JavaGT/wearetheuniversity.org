@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-hotel-room-rates-are-not-expensive
-title: "New Zealand hotel room rates are not expensive"
-date: 2017-09-22
-source-url: https://www.scoop.co.nz/stories/ED1709/S00086/new-zealand-hotel-room-rates-are-not-expensive.htm
+title: New Zealand hotel room rates are not expensive
+date: 2017-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00086/new-zealand-hotel-room-rates-are-not-expensive.htm
 author: lincoln-university
+permalink: /archive/2017/09/22/new-zealand-hotel-room-rates-are-not-expensive/index.html
+layout: layout.njk
 ---
 New Zealand hotel room rates are not expensive
 ==============================================

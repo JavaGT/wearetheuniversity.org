@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-welcomes-comprehensive-report-on-academic-freedom-in-new-zealand-by-nzis-dr-james-kierstead
-title: "Free Speech Union Welcomes Comprehensive Report On Academic Freedom In New Zealand By NZI's Dr. James Kierstead"
-date: 2024-08-21
-source-url: https://www.scoop.co.nz/stories/ED2408/S00046/free-speech-union-welcomes-comprehensive-report-on-academic-freedom-in-new-zealand-by-nzis-dr-james-kierstead.htm
+slug: >-
+  free-speech-union-welcomes-comprehensive-report-on-academic-freedom-in-new-zealand-by-nzis-dr-james-kierstead
+title: >-
+  Free Speech Union Welcomes Comprehensive Report On Academic Freedom In New
+  Zealand By NZI's Dr. James Kierstead
+date: 2024-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00046/free-speech-union-welcomes-comprehensive-report-on-academic-freedom-in-new-zealand-by-nzis-dr-james-kierstead.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/08/21/free-speech-union-welcomes-comprehensive-report-on-academic-freedom-in-new-zealand-by-nzis-dr-james-kierstead/index.html
+layout: layout.njk
 ---
 Free Speech Union Welcomes Comprehensive Report On Academic Freedom In New Zealand By NZI's Dr. James Kierstead
 ===============================================================================================================

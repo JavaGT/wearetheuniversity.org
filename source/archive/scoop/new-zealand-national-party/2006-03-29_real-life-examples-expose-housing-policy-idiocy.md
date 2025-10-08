@@ -1,9 +1,12 @@
 ---
 slug: real-life-examples-expose-housing-policy-idiocy
-title: "Real life examples expose housing policy idiocy"
-date: 2006-03-29
-source-url: https://www.scoop.co.nz/stories/PA0603/S00519/real-life-examples-expose-housing-policy-idiocy.htm
+title: Real life examples expose housing policy idiocy
+date: 2006-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00519/real-life-examples-expose-housing-policy-idiocy.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/29/real-life-examples-expose-housing-policy-idiocy/index.html
+layout: layout.njk
 ---
 Real life examples expose housing policy idiocy
 ===============================================

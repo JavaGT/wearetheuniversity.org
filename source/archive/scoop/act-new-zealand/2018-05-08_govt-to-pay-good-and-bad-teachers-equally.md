@@ -1,9 +1,12 @@
 ---
 slug: govt-to-pay-good-and-bad-teachers-equally
-title: "Govt to pay good and bad teachers equally"
-date: 2018-05-08
-source-url: https://www.scoop.co.nz/stories/PA1805/S00080/govt-to-pay-good-and-bad-teachers-equally.htm
+title: Govt to pay good and bad teachers equally
+date: 2018-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00080/govt-to-pay-good-and-bad-teachers-equally.htm
 author: act-new-zealand
+permalink: /archive/2018/05/08/govt-to-pay-good-and-bad-teachers-equally/index.html
+layout: layout.njk
 ---
 Govt to pay good and bad teachers equally
 =========================================

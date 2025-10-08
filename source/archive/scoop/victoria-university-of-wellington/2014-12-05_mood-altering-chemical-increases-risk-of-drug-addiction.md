@@ -1,9 +1,13 @@
 ---
 slug: mood-altering-chemical-increases-risk-of-drug-addiction
-title: "Mood-altering chemical increases risk of drug addiction"
-date: 2014-12-05
-source-url: https://www.scoop.co.nz/stories/ED1412/S00037/mood-altering-chemical-increases-risk-of-drug-addiction.htm
+title: Mood-altering chemical increases risk of drug addiction
+date: 2014-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00037/mood-altering-chemical-increases-risk-of-drug-addiction.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/05/mood-altering-chemical-increases-risk-of-drug-addiction/index.html
+layout: layout.njk
 ---
 Mood-altering chemical increases risk of drug addiction
 =======================================================

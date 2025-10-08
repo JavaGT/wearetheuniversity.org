@@ -1,9 +1,12 @@
 ---
 slug: uc-planet-hunters-search-the-galaxys-centre
-title: "UC planet hunters search the galaxy’s centre"
-date: 2017-02-23
-source-url: https://www.scoop.co.nz/stories/SC1702/S00073/uc-planet-hunters-search-the-galaxys-centre.htm
+title: UC planet hunters search the galaxy’s centre
+date: 2017-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00073/uc-planet-hunters-search-the-galaxys-centre.htm
 author: university-of-canterbury
+permalink: /archive/2017/02/23/uc-planet-hunters-search-the-galaxys-centre/index.html
+layout: layout.njk
 ---
 UC planet hunters search the galaxy’s centre
 ============================================

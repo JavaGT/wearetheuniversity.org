@@ -1,9 +1,13 @@
 ---
 slug: project-to-better-under-understand-tourists-needs
-title: "Project to better under understand tourists' needs"
-date: 2005-09-16
-source-url: https://www.scoop.co.nz/stories/PA0509/S00435/project-to-better-under-understand-tourists-needs.htm
+title: Project to better under understand tourists' needs
+date: 2005-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00435/project-to-better-under-understand-tourists-needs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/09/16/project-to-better-under-understand-tourists-needs/index.html
+layout: layout.njk
 ---
 Project to better under understand tourists' needs
 ==================================================

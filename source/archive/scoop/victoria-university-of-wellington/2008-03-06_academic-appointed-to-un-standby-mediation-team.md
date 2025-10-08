@@ -1,9 +1,12 @@
 ---
 slug: academic-appointed-to-un-standby-mediation-team
-title: "Academic appointed to UN standby mediation team"
-date: 2008-03-06
-source-url: https://www.scoop.co.nz/stories/PO0803/S00054/academic-appointed-to-un-standby-mediation-team.htm
+title: Academic appointed to UN standby mediation team
+date: 2008-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0803/S00054/academic-appointed-to-un-standby-mediation-team.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/03/06/academic-appointed-to-un-standby-mediation-team/index.html
+layout: layout.njk
 ---
 Academic appointed to UN standby mediation team
 ===============================================

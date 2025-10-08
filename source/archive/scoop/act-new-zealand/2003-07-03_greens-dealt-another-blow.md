@@ -1,9 +1,11 @@
 ---
 slug: greens-dealt-another-blow
-title: "Greens Dealt Another Blow"
-date: 2003-07-03
+title: Greens Dealt Another Blow
+date: 2003-07-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0307/S00087/greens-dealt-another-blow.htm
 author: act-new-zealand
+permalink: /archive/2003/07/03/greens-dealt-another-blow/index.html
+layout: layout.njk
 ---
 Greens Dealt Another Blow
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: c-k-stead-presents-his-poetry-at-writers-read
-title: "C.K. Stead presents his poetry at Writers Read"
-date: 2013-03-20
-source-url: https://www.scoop.co.nz/stories/CU1303/S00429/ck-stead-presents-his-poetry-at-writers-read.htm
+title: C.K. Stead presents his poetry at Writers Read
+date: 2013-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1303/S00429/ck-stead-presents-his-poetry-at-writers-read.htm
 author: massey-university
+permalink: /archive/2013/03/20/c-k-stead-presents-his-poetry-at-writers-read/index.html
+layout: layout.njk
 ---
 C.K. Stead presents his poetry at Writers Read
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: forst-sows-financial-support-for-seed-industry
-title: "FORST sows financial support for seed industry"
-date: 2008-07-15
-source-url: https://www.scoop.co.nz/stories/SC0807/S00029/forst-sows-financial-support-for-seed-industry.htm
+title: FORST sows financial support for seed industry
+date: 2008-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0807/S00029/forst-sows-financial-support-for-seed-industry.htm
 author: lincoln-university
+permalink: /archive/2008/07/15/forst-sows-financial-support-for-seed-industry/index.html
+layout: layout.njk
 ---
 FORST sows financial support for seed industry
 ==============================================

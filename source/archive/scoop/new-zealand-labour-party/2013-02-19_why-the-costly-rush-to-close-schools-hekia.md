@@ -1,9 +1,12 @@
 ---
 slug: why-the-costly-rush-to-close-schools-hekia
-title: "Why the costly rush to close schools, Hekia?"
-date: 2013-02-19
-source-url: https://www.scoop.co.nz/stories/PA1302/S00252/why-the-costly-rush-to-close-schools-hekia.htm
+title: Why the costly rush to close schools, Hekia?
+date: 2013-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00252/why-the-costly-rush-to-close-schools-hekia.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/19/why-the-costly-rush-to-close-schools-hekia/index.html
+layout: layout.njk
 ---
 Why the costly rush to close schools, Hekia?
 ============================================

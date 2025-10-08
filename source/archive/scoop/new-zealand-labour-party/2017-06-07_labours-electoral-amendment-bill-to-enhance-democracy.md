@@ -1,9 +1,13 @@
 ---
 slug: labours-electoral-amendment-bill-to-enhance-democracy
-title: "Labour’s Electoral Amendment Bill to enhance democracy"
-date: 2017-06-07
-source-url: https://www.scoop.co.nz/stories/PA1706/S00107/labours-electoral-amendment-bill-to-enhance-democracy.htm
+title: Labour’s Electoral Amendment Bill to enhance democracy
+date: 2017-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00107/labours-electoral-amendment-bill-to-enhance-democracy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/06/07/labours-electoral-amendment-bill-to-enhance-democracy/index.html
+layout: layout.njk
 ---
 Labour’s Electoral Amendment Bill to enhance democracy
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: no-money-in-kitty-for-business-tax-breaks
-title: "No Money In Kitty For Business Tax Breaks"
-date: 2000-10-25
-source-url: https://www.scoop.co.nz/stories/PA0010/S00470/no-money-in-kitty-for-business-tax-breaks.htm
+title: No Money In Kitty For Business Tax Breaks
+date: 2000-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00470/no-money-in-kitty-for-business-tax-breaks.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/25/no-money-in-kitty-for-business-tax-breaks/index.html
+layout: layout.njk
 ---
 No Money In Kitty For Business Tax Breaks
 =========================================

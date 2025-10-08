@@ -1,9 +1,13 @@
 ---
 slug: wellingtons-most-dangerous-road-upgrades-delayed
-title: "Wellington’s most dangerous road upgrades delayed"
-date: 2019-07-25
-source-url: https://www.scoop.co.nz/stories/PA1907/S00207/wellingtons-most-dangerous-road-upgrades-delayed.htm
+title: Wellington’s most dangerous road upgrades delayed
+date: 2019-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00207/wellingtons-most-dangerous-road-upgrades-delayed.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/07/25/wellingtons-most-dangerous-road-upgrades-delayed/index.html
+layout: layout.njk
 ---
 Wellington’s most dangerous road upgrades delayed
 =================================================

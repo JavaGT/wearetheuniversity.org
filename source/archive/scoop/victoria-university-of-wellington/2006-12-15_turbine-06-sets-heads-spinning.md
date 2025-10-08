@@ -1,9 +1,12 @@
 ---
 slug: turbine-06-sets-heads-spinning
-title: "Turbine 06 sets heads spinning"
-date: 2006-12-15
-source-url: https://www.scoop.co.nz/stories/CU0612/S00121/turbine-06-sets-heads-spinning.htm
+title: Turbine 06 sets heads spinning
+date: 2006-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0612/S00121/turbine-06-sets-heads-spinning.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/12/15/turbine-06-sets-heads-spinning/index.html
+layout: layout.njk
 ---
 Turbine 06 sets heads spinning
 ==============================

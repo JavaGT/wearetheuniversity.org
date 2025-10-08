@@ -1,9 +1,16 @@
 ---
-slug: university-of-canterbury-students-raise-more-than-$1000-to-fight-period-poverty
-title: "University Of Canterbury Students Raise More Than $1000 To Fight Period Poverty"
-date: 2020-10-09
-source-url: https://www.scoop.co.nz/stories/ED2010/S00017/university-of-canterbury-students-raise-more-than-1000-to-fight-period-poverty.htm
+slug: >-
+  university-of-canterbury-students-raise-more-than-$1000-to-fight-period-poverty
+title: >-
+  University Of Canterbury Students Raise More Than $1000 To Fight Period
+  Poverty
+date: 2020-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00017/university-of-canterbury-students-raise-more-than-1000-to-fight-period-poverty.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/10/09/university-of-canterbury-students-raise-more-than-/index.html
+layout: layout.njk
 ---
 University Of Canterbury Students Raise More Than $1000 To Fight Period Poverty
 ===============================================================================

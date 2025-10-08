@@ -1,9 +1,12 @@
 ---
 slug: are-pregnant-women-getting-enough-key-nutrients
-title: "Are pregnant women getting enough key nutrients?"
-date: 2014-09-22
-source-url: https://www.scoop.co.nz/stories/GE1409/S00108/are-pregnant-women-getting-enough-key-nutrients.htm
+title: Are pregnant women getting enough key nutrients?
+date: 2014-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1409/S00108/are-pregnant-women-getting-enough-key-nutrients.htm
 author: massey-university
+permalink: /archive/2014/09/22/are-pregnant-women-getting-enough-key-nutrients/index.html
+layout: layout.njk
 ---
 Are pregnant women getting enough key nutrients?
 ================================================

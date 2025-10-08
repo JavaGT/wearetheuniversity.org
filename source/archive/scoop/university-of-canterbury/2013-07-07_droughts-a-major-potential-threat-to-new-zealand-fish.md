@@ -1,9 +1,13 @@
 ---
 slug: droughts-a-major-potential-threat-to-new-zealand-fish
-title: "Droughts a major potential threat to New Zealand fish"
-date: 2013-07-07
-source-url: https://www.scoop.co.nz/stories/SC1307/S00020/droughts-a-major-potential-threat-to-new-zealand-fish.htm
+title: Droughts a major potential threat to New Zealand fish
+date: 2013-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00020/droughts-a-major-potential-threat-to-new-zealand-fish.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/07/droughts-a-major-potential-threat-to-new-zealand-fish/index.html
+layout: layout.njk
 ---
 Droughts a major potential threat to New Zealand fish
 =====================================================

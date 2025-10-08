@@ -1,9 +1,12 @@
 ---
 slug: crime-a-major-concern-at-field-days
-title: "Crime a Major Concern at Field Days"
-date: 2002-06-17
-source-url: https://www.scoop.co.nz/stories/PA0206/S00253/crime-a-major-concern-at-field-days.htm
+title: Crime a Major Concern at Field Days
+date: 2002-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00253/crime-a-major-concern-at-field-days.htm
 author: act-new-zealand
+permalink: /archive/2002/06/17/crime-a-major-concern-at-field-days/index.html
+layout: layout.njk
 ---
 Crime a Major Concern at Field Days
 ===================================

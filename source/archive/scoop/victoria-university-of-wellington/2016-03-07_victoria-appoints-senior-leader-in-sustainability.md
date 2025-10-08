@@ -1,9 +1,13 @@
 ---
 slug: victoria-appoints-senior-leader-in-sustainability
-title: "Victoria appoints senior leader in sustainability"
-date: 2016-03-07
-source-url: https://www.scoop.co.nz/stories/ED1603/S00025/victoria-appoints-senior-leader-in-sustainability.htm
+title: Victoria appoints senior leader in sustainability
+date: 2016-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00025/victoria-appoints-senior-leader-in-sustainability.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/03/07/victoria-appoints-senior-leader-in-sustainability/index.html
+layout: layout.njk
 ---
 Victoria appoints senior leader in sustainability
 =================================================

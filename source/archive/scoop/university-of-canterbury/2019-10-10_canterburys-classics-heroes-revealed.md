@@ -1,9 +1,12 @@
 ---
 slug: canterburys-classics-heroes-revealed
-title: "Canterbury’s classics heroes revealed"
-date: 2019-10-10
-source-url: https://www.scoop.co.nz/stories/ED1910/S00023/canterburys-classics-heroes-revealed.htm
+title: Canterbury’s classics heroes revealed
+date: 2019-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00023/canterburys-classics-heroes-revealed.htm
 author: university-of-canterbury
+permalink: /archive/2019/10/10/canterburys-classics-heroes-revealed/index.html
+layout: layout.njk
 ---
 Canterbury’s classics heroes revealed
 =====================================

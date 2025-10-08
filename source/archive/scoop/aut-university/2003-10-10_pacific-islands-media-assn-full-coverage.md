@@ -1,9 +1,12 @@
 ---
 slug: pacific-islands-media-assn-full-coverage
-title: "Pacific Islands Media Assn Full Coverage"
-date: 2003-10-10
-source-url: https://www.scoop.co.nz/stories/PO0310/S00069/pacific-islands-media-assn-full-coverage.htm
+title: Pacific Islands Media Assn Full Coverage
+date: 2003-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0310/S00069/pacific-islands-media-assn-full-coverage.htm
 author: aut-university
+permalink: /archive/2003/10/10/pacific-islands-media-assn-full-coverage/index.html
+layout: layout.njk
 ---
 Pacific Islands Media Assn Full Coverage
 ========================================

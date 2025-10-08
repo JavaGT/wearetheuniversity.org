@@ -1,9 +1,13 @@
 ---
 slug: strong-staff-and-student-presence-at-prague-festival
-title: "Strong staff and student presence at Prague festival"
-date: 2011-06-06
-source-url: https://www.scoop.co.nz/stories/ED1106/S00035/strong-staff-and-student-presence-at-prague-festival.htm
+title: Strong staff and student presence at Prague festival
+date: 2011-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00035/strong-staff-and-student-presence-at-prague-festival.htm
 author: massey-university
+permalink: >-
+  /archive/2011/06/06/strong-staff-and-student-presence-at-prague-festival/index.html
+layout: layout.njk
 ---
 Strong staff and student presence at Prague festival
 ====================================================

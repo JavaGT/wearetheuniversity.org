@@ -1,9 +1,13 @@
 ---
 slug: mini-americas-cup-regatta-to-be-held-at-university
-title: "Mini Americas Cup Regatta to be held at University"
-date: 2002-06-05
-source-url: https://www.scoop.co.nz/stories/CU0206/S00009/mini-americas-cup-regatta-to-be-held-at-university.htm
+title: Mini Americas Cup Regatta to be held at University
+date: 2002-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0206/S00009/mini-americas-cup-regatta-to-be-held-at-university.htm
 author: waikato-university
+permalink: >-
+  /archive/2002/06/05/mini-americas-cup-regatta-to-be-held-at-university/index.html
+layout: layout.njk
 ---
 Mini Americas Cup Regatta to be held at University
 ==================================================

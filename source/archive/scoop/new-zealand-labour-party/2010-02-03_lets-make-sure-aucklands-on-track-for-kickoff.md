@@ -1,9 +1,12 @@
 ---
 slug: lets-make-sure-aucklands-on-track-for-kickoff
-title: "Let’s make sure Auckland’s on track for kickoff"
-date: 2010-02-03
-source-url: https://www.scoop.co.nz/stories/PA1002/S00044/lets-make-sure-aucklands-on-track-for-kickoff.htm
+title: Let’s make sure Auckland’s on track for kickoff
+date: 2010-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00044/lets-make-sure-aucklands-on-track-for-kickoff.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/03/lets-make-sure-aucklands-on-track-for-kickoff/index.html
+layout: layout.njk
 ---
 Let’s make sure Auckland’s on track for kickoff
 ===============================================

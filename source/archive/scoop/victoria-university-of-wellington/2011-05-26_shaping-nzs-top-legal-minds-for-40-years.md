@@ -1,9 +1,12 @@
 ---
 slug: shaping-nzs-top-legal-minds-for-40-years
-title: "Shaping NZ’s top legal minds for 40 years"
-date: 2011-05-26
-source-url: https://www.scoop.co.nz/stories/ED1105/S00107/shaping-nzs-top-legal-minds-for-40-years.htm
+title: Shaping NZ’s top legal minds for 40 years
+date: 2011-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00107/shaping-nzs-top-legal-minds-for-40-years.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/05/26/shaping-nzs-top-legal-minds-for-40-years/index.html
+layout: layout.njk
 ---
 Shaping NZ’s top legal minds for 40 years
 =========================================

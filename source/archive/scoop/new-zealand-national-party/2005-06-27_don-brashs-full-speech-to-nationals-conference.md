@@ -1,9 +1,12 @@
 ---
 slug: don-brashs-full-speech-to-nationals-conference
-title: "Don Brash's Full Speech To National's Conference"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00625/don-brashs-full-speech-to-nationals-conference.htm
+title: Don Brash's Full Speech To National's Conference
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00625/don-brashs-full-speech-to-nationals-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/27/don-brashs-full-speech-to-nationals-conference/index.html
+layout: layout.njk
 ---
 Don Brash's Full Speech To National's Conference
 ================================================

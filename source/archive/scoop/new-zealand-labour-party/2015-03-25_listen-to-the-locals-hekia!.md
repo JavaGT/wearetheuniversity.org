@@ -1,9 +1,11 @@
 ---
 slug: listen-to-the-locals-hekia!
-title: "Listen to the locals Hekia!"
-date: 2015-03-25
+title: Listen to the locals Hekia!
+date: 2015-03-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1503/S00377/listen-to-the-locals-hekia.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/25/listen-to-the-locals-hekia/index.html
+layout: layout.njk
 ---
 Listen to the locals Hekia!
 ===========================

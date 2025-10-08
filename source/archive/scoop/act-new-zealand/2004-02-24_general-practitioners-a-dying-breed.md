@@ -1,9 +1,12 @@
 ---
 slug: general-practitioners-a-dying-breed
-title: "General Practitioners A Dying Breed"
-date: 2004-02-24
-source-url: https://www.scoop.co.nz/stories/PA0402/S00421/general-practitioners-a-dying-breed.htm
+title: General Practitioners A Dying Breed
+date: 2004-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00421/general-practitioners-a-dying-breed.htm
 author: act-new-zealand
+permalink: /archive/2004/02/24/general-practitioners-a-dying-breed/index.html
+layout: layout.njk
 ---
 General Practitioners A Dying Breed
 ===================================

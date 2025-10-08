@@ -1,9 +1,12 @@
 ---
 slug: national-pledges-support-for-project-aqua
-title: "National pledges support for Project Aqua"
-date: 2003-05-14
-source-url: https://www.scoop.co.nz/stories/PA0305/S00333/national-pledges-support-for-project-aqua.htm
+title: National pledges support for Project Aqua
+date: 2003-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00333/national-pledges-support-for-project-aqua.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/14/national-pledges-support-for-project-aqua/index.html
+layout: layout.njk
 ---
 National pledges support for Project Aqua
 =========================================

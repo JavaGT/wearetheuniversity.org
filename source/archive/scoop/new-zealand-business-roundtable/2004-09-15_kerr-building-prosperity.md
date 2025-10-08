@@ -1,9 +1,11 @@
 ---
 slug: kerr-building-prosperity
-title: "Kerr: Building Prosperity"
-date: 2004-09-15
+title: 'Kerr: Building Prosperity'
+date: 2004-09-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0409/S00177/kerr-building-prosperity.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/09/15/kerr-building-prosperity/index.html
+layout: layout.njk
 ---
 Kerr: Building Prosperity
 =========================

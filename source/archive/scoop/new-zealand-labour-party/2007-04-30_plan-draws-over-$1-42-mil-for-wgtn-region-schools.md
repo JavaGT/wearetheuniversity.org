@@ -1,9 +1,12 @@
 ---
 slug: plan-draws-over-$1-42-mil-for-wgtn-region-schools
-title: "Plan draws over $1.42 mil for Wgtn region schools"
-date: 2007-04-30
-source-url: https://www.scoop.co.nz/stories/PA0704/S00491/plan-draws-over-142-mil-for-wgtn-region-schools.htm
+title: Plan draws over $1.42 mil for Wgtn region schools
+date: 2007-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00491/plan-draws-over-142-mil-for-wgtn-region-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/04/30/plan-draws-over-/index.html
+layout: layout.njk
 ---
 Plan draws over $1.42 mil for Wgtn region schools
 =================================================

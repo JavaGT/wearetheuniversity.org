@@ -1,9 +1,12 @@
 ---
 slug: five-themes-for-future-of-work-commission
-title: "Five themes for Future of Work Commission"
-date: 2015-02-09
-source-url: https://www.scoop.co.nz/stories/PA1502/S00067/five-themes-for-future-of-work-commission.htm
+title: Five themes for Future of Work Commission
+date: 2015-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00067/five-themes-for-future-of-work-commission.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/02/09/five-themes-for-future-of-work-commission/index.html
+layout: layout.njk
 ---
 Five themes for Future of Work Commission
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: sense-and-nonsense-about-happiness
-title: "Sense and Nonsense About Happiness"
-date: 2008-08-29
-source-url: https://www.scoop.co.nz/stories/BU0808/S00560/sense-and-nonsense-about-happiness.htm
+title: Sense and Nonsense About Happiness
+date: 2008-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0808/S00560/sense-and-nonsense-about-happiness.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/08/29/sense-and-nonsense-about-happiness/index.html
+layout: layout.njk
 ---
 Sense and Nonsense About Happiness
 ==================================

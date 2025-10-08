@@ -1,9 +1,12 @@
 ---
 slug: superannuitants-benefit-from-tax-package
-title: "Superannuitants benefit from tax package"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/PA0508/S00604/superannuitants-benefit-from-tax-package.htm
+title: Superannuitants benefit from tax package
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00604/superannuitants-benefit-from-tax-package.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/24/superannuitants-benefit-from-tax-package/index.html
+layout: layout.njk
 ---
 Superannuitants benefit from tax package
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: ants-spread-to-taranaki-shows-biosecurity-gap
-title: "Ant’s spread to Taranaki shows biosecurity gap"
-date: 2006-01-25
-source-url: https://www.scoop.co.nz/stories/PA0601/S00121/ants-spread-to-taranaki-shows-biosecurity-gap.htm
+title: Ant’s spread to Taranaki shows biosecurity gap
+date: 2006-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00121/ants-spread-to-taranaki-shows-biosecurity-gap.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/25/ants-spread-to-taranaki-shows-biosecurity-gap/index.html
+layout: layout.njk
 ---
 Ant’s spread to Taranaki shows biosecurity gap
 ==============================================

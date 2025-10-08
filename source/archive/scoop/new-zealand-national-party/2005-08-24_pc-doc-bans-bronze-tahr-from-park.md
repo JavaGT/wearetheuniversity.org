@@ -1,9 +1,12 @@
 ---
 slug: pc-doc-bans-bronze-tahr-from-park
-title: "PC DoC bans bronze tahr from Park"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/PA0508/S00599/pc-doc-bans-bronze-tahr-from-park.htm
+title: PC DoC bans bronze tahr from Park
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00599/pc-doc-bans-bronze-tahr-from-park.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/24/pc-doc-bans-bronze-tahr-from-park/index.html
+layout: layout.njk
 ---
 PC DoC bans bronze tahr from Park
 =================================

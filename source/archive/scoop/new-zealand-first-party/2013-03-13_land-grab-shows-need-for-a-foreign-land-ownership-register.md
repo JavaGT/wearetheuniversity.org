@@ -1,9 +1,13 @@
 ---
 slug: land-grab-shows-need-for-a-foreign-land-ownership-register
-title: "Land-Grab Shows Need for a Foreign Land Ownership Register"
-date: 2013-03-13
-source-url: https://www.scoop.co.nz/stories/PA1303/S00220/land-grab-shows-need-for-a-foreign-land-ownership-register.htm
+title: Land-Grab Shows Need for a Foreign Land Ownership Register
+date: 2013-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00220/land-grab-shows-need-for-a-foreign-land-ownership-register.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/03/13/land-grab-shows-need-for-a-foreign-land-ownership-register/index.html
+layout: layout.njk
 ---
 Land-Grab Shows Need for a Foreign Land Ownership Register
 ==========================================================

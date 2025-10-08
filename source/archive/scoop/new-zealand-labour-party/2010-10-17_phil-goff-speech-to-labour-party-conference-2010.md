@@ -1,9 +1,13 @@
 ---
 slug: phil-goff-speech-to-labour-party-conference-2010
-title: "Phil Goff: Speech To Labour Party Conference 2010"
-date: 2010-10-17
-source-url: https://www.scoop.co.nz/stories/PA1010/S00278/phil-goff-speech-to-labour-party-conference-2010.htm
+title: 'Phil Goff: Speech To Labour Party Conference 2010'
+date: 2010-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00278/phil-goff-speech-to-labour-party-conference-2010.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/10/17/phil-goff-speech-to-labour-party-conference-2010/index.html
+layout: layout.njk
 ---
 Phil Goff: Speech To Labour Party Conference 2010
 =================================================

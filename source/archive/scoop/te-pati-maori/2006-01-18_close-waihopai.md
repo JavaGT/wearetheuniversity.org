@@ -1,9 +1,11 @@
 ---
 slug: close-waihopai
-title: "Close Waihopai"
-date: 2006-01-18
+title: Close Waihopai
+date: 2006-01-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0601/S00060/close-waihopai.htm
 author: te-pati-maori
+permalink: /archive/2006/01/18/close-waihopai/index.html
+layout: layout.njk
 ---
 Close Waihopai
 ==============

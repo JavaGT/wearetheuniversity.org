@@ -1,9 +1,11 @@
 ---
 slug: phil-goffs-reply-to-john-key
-title: "Phil Goff’s reply to John Key"
-date: 2010-02-09
+title: Phil Goff’s reply to John Key
+date: 2010-02-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1002/S00095/phil-goffs-reply-to-john-key.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/09/phil-goffs-reply-to-john-key/index.html
+layout: layout.njk
 ---
 Phil Goff’s reply to John Key
 =============================

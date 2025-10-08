@@ -1,9 +1,12 @@
 ---
 slug: tackling-threat-of-biological-invasion
-title: "Tackling threat of biological invasion"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/SC0508/S00060/tackling-threat-of-biological-invasion.htm
+title: Tackling threat of biological invasion
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0508/S00060/tackling-threat-of-biological-invasion.htm
 author: auckland-university
+permalink: /archive/2005/08/23/tackling-threat-of-biological-invasion/index.html
+layout: layout.njk
 ---
 Tackling threat of biological invasion
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: how-desperate-will-labour-get
-title: "How desperate will Labour get?"
-date: 2005-08-05
-source-url: https://www.scoop.co.nz/stories/PA0508/S00174/how-desperate-will-labour-get.htm
+title: How desperate will Labour get?
+date: 2005-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00174/how-desperate-will-labour-get.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/05/how-desperate-will-labour-get/index.html
+layout: layout.njk
 ---
 How desperate will Labour get?
 ==============================

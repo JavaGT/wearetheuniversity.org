@@ -1,9 +1,13 @@
 ---
 slug: reading-results-show-damage-caused-by-national-standards
-title: "Reading results show damage caused by National Standards"
-date: 2017-12-06
-source-url: https://www.scoop.co.nz/stories/ED1712/S00019/reading-results-show-damage-caused-by-national-standards.htm
+title: Reading results show damage caused by National Standards
+date: 2017-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00019/reading-results-show-damage-caused-by-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2017/12/06/reading-results-show-damage-caused-by-national-standards/index.html
+layout: layout.njk
 ---
 Reading results show damage caused by National Standards
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: christchurch-dining-outlets-are-flat-out
-title: "Christchurch dining outlets are flat-out"
-date: 2012-12-10
-source-url: https://www.scoop.co.nz/stories/AK1212/S00200/christchurch-dining-outlets-are-flat-out.htm
+title: Christchurch dining outlets are flat-out
+date: 2012-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1212/S00200/christchurch-dining-outlets-are-flat-out.htm
 author: university-of-canterbury
+permalink: /archive/2012/12/10/christchurch-dining-outlets-are-flat-out/index.html
+layout: layout.njk
 ---
 Christchurch dining outlets are flat-out
 ========================================

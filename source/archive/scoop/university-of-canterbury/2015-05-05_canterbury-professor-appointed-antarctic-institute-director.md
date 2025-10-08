@@ -1,9 +1,13 @@
 ---
 slug: canterbury-professor-appointed-antarctic-institute-director
-title: "Canterbury professor appointed  Antarctic Institute director"
-date: 2015-05-05
-source-url: https://www.scoop.co.nz/stories/SC1505/S00010/canterbury-professor-appointed-antarctic-institute-director.htm
+title: Canterbury professor appointed  Antarctic Institute director
+date: 2015-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00010/canterbury-professor-appointed-antarctic-institute-director.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/05/canterbury-professor-appointed-antarctic-institute-director/index.html
+layout: layout.njk
 ---
 Canterbury professor appointed Antarctic Institute director
 ===========================================================

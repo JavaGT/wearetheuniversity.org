@@ -1,9 +1,12 @@
 ---
 slug: mäori-authors-win-inaugural-book-awards
-title: "Mäori authors win inaugural book awards"
-date: 2009-07-31
-source-url: https://www.scoop.co.nz/stories/CU0907/S00446/maori-authors-win-inaugural-book-awards.htm
+title: Mäori authors win inaugural book awards
+date: 2009-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00446/maori-authors-win-inaugural-book-awards.htm
 author: massey-university
+permalink: /archive/2009/07/31/m/index.html
+layout: layout.njk
 ---
 Mäori authors win inaugural book awards
 =======================================

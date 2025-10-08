@@ -1,9 +1,13 @@
 ---
 slug: nz-communities-benefit-from-disaster-collaboration
-title: "NZ communities benefit from disaster collaboration"
-date: 2009-06-02
-source-url: https://www.scoop.co.nz/stories/ED0906/S00004/nz-communities-benefit-from-disaster-collaboration.htm
+title: NZ communities benefit from disaster collaboration
+date: 2009-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00004/nz-communities-benefit-from-disaster-collaboration.htm
 author: massey-university
+permalink: >-
+  /archive/2009/06/02/nz-communities-benefit-from-disaster-collaboration/index.html
+layout: layout.njk
 ---
 NZ communities benefit from disaster collaboration
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-health-star-rating-nutrition-label-may-not-be-best
-title: "New Health Star Rating nutrition label may not be best"
-date: 2014-06-30
-source-url: https://www.scoop.co.nz/stories/PO1406/S00472/new-health-star-rating-nutrition-label-may-not-be-best.htm
+title: New Health Star Rating nutrition label may not be best
+date: 2014-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00472/new-health-star-rating-nutrition-label-may-not-be-best.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/06/30/new-health-star-rating-nutrition-label-may-not-be-best/index.html
+layout: layout.njk
 ---
 New Health Star Rating nutrition label may not be best
 ======================================================

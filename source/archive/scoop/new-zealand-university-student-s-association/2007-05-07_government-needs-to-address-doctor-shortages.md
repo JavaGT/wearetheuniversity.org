@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-address-doctor-shortages
-title: "Government needs to address doctor shortages"
-date: 2007-05-07
-source-url: https://www.scoop.co.nz/stories/ED0705/S00026/government-needs-to-address-doctor-shortages.htm
+title: Government needs to address doctor shortages
+date: 2007-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00026/government-needs-to-address-doctor-shortages.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2007/05/07/government-needs-to-address-doctor-shortages/index.html
+layout: layout.njk
 ---
 Government needs to address doctor shortages
 ============================================

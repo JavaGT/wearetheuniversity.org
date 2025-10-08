@@ -1,9 +1,12 @@
 ---
 slug: nzs-jobless-poverty-ranking-appalling
-title: "NZ’s jobless poverty ranking appalling"
-date: 2015-06-10
-source-url: https://www.scoop.co.nz/stories/PA1506/S00175/nzs-jobless-poverty-ranking-appalling.htm
+title: NZ’s jobless poverty ranking appalling
+date: 2015-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00175/nzs-jobless-poverty-ranking-appalling.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/10/nzs-jobless-poverty-ranking-appalling/index.html
+layout: layout.njk
 ---
 NZ’s jobless poverty ranking appalling
 ======================================

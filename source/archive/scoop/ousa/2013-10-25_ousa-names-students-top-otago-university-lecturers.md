@@ -1,9 +1,13 @@
 ---
 slug: ousa-names-students-top-otago-university-lecturers
-title: "OUSA Names Students’ Top Otago University Lecturers"
-date: 2013-10-25
-source-url: https://www.scoop.co.nz/stories/ED1310/S00169/ousa-names-students-top-otago-university-lecturers.htm
+title: OUSA Names Students’ Top Otago University Lecturers
+date: 2013-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00169/ousa-names-students-top-otago-university-lecturers.htm
 author: ousa
+permalink: >-
+  /archive/2013/10/25/ousa-names-students-top-otago-university-lecturers/index.html
+layout: layout.njk
 ---
 OUSA Names Students’ Top Otago University Lecturers
 ===================================================

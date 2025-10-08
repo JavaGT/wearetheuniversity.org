@@ -1,9 +1,12 @@
 ---
 slug: auckland-students-welcome-zaouis-freedom
-title: "Auckland students welcome Zaoui's freedom"
-date: 2007-09-14
-source-url: https://www.scoop.co.nz/stories/ED0709/S00053/auckland-students-welcome-zaouis-freedom.htm
+title: Auckland students welcome Zaoui's freedom
+date: 2007-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00053/auckland-students-welcome-zaouis-freedom.htm
 author: auckland-university-students-association
+permalink: /archive/2007/09/14/auckland-students-welcome-zaouis-freedom/index.html
+layout: layout.njk
 ---
 Auckland students welcome Zaoui's freedom
 =========================================

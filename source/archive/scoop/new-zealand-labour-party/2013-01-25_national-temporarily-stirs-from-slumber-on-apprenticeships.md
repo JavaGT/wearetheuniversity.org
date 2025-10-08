@@ -1,9 +1,13 @@
 ---
 slug: national-temporarily-stirs-from-slumber-on-apprenticeships
-title: "National temporarily stirs from slumber on apprenticeships"
-date: 2013-01-25
-source-url: https://www.scoop.co.nz/stories/PA1301/S00112/national-temporarily-stirs-from-slumber-on-apprenticeships.htm
+title: National temporarily stirs from slumber on apprenticeships
+date: 2013-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00112/national-temporarily-stirs-from-slumber-on-apprenticeships.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/01/25/national-temporarily-stirs-from-slumber-on-apprenticeships/index.html
+layout: layout.njk
 ---
 National temporarily stirs from slumber on apprenticeships
 ==========================================================

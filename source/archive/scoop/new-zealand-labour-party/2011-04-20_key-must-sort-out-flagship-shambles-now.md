@@ -1,9 +1,12 @@
 ---
 slug: key-must-sort-out-flagship-shambles-now
-title: "Key must sort out 'flagship' shambles now"
-date: 2011-04-20
-source-url: https://www.scoop.co.nz/stories/PA1104/S00423/key-must-sort-out-flagship-shambles-now.htm
+title: Key must sort out 'flagship' shambles now
+date: 2011-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00423/key-must-sort-out-flagship-shambles-now.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/20/key-must-sort-out-flagship-shambles-now/index.html
+layout: layout.njk
 ---
 Key must sort out 'flagship' shambles now
 =========================================

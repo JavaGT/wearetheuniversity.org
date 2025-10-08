@@ -1,9 +1,11 @@
 ---
 slug: free-press-25-september-2018
-title: "Free Press, 25 September 2018"
-date: 2018-09-25
+title: Free Press, 25 September 2018
+date: 2018-09-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1809/S00330/free-press-25-september-2018.htm
 author: act-new-zealand
+permalink: /archive/2018/09/25/free-press-25-september-2018/index.html
+layout: layout.njk
 ---
 Free Press, 25 September 2018
 =============================

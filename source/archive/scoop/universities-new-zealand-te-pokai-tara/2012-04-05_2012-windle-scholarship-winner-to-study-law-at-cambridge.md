@@ -1,9 +1,13 @@
 ---
 slug: 2012-windle-scholarship-winner-to-study-law-at-cambridge
-title: "2012 Windle Scholarship Winner to Study Law at Cambridge"
-date: 2012-04-05
-source-url: https://www.scoop.co.nz/stories/ED1204/S00027/2012-windle-scholarship-winner-to-study-law-at-cambridge.htm
+title: 2012 Windle Scholarship Winner to Study Law at Cambridge
+date: 2012-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00027/2012-windle-scholarship-winner-to-study-law-at-cambridge.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2012/04/05/2012-windle-scholarship-winner-to-study-law-at-cambridge/index.html
+layout: layout.njk
 ---
 2012 Windle Scholarship Winner to Study Law at Cambridge
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: experts-to-discuss-freshwater-management-for-the-waikato
-title: "Experts to discuss freshwater management for the Waikato"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/AK1408/S00488/experts-to-discuss-freshwater-management-for-the-waikato.htm
+title: Experts to discuss freshwater management for the Waikato
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00488/experts-to-discuss-freshwater-management-for-the-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/25/experts-to-discuss-freshwater-management-for-the-waikato/index.html
+layout: layout.njk
 ---
 Experts to discuss freshwater management for the Waikato
 ========================================================

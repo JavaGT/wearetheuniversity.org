@@ -1,9 +1,13 @@
 ---
 slug: caution-urged-against-over-stating-cheating-scandal
-title: "Caution urged against over-stating ‘cheating scandal’"
-date: 2013-05-13
-source-url: https://www.scoop.co.nz/stories/ED1305/S00080/caution-urged-against-over-stating-cheating-scandal.htm
+title: Caution urged against over-stating ‘cheating scandal’
+date: 2013-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00080/caution-urged-against-over-stating-cheating-scandal.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/05/13/caution-urged-against-over-stating-cheating-scandal/index.html
+layout: layout.njk
 ---
 Caution urged against over-stating ‘cheating scandal’
 =====================================================

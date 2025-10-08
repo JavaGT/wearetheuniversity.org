@@ -1,9 +1,11 @@
 ---
 slug: job-creators-back-act-policy
-title: "Job Creators Back ACT Policy"
-date: 2011-11-01
+title: Job Creators Back ACT Policy
+date: 2011-11-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00022/job-creators-back-act-policy.htm
 author: act-new-zealand
+permalink: /archive/2011/11/01/job-creators-back-act-policy/index.html
+layout: layout.njk
 ---
 Job Creators Back ACT Policy
 ============================

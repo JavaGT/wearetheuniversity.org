@@ -1,9 +1,12 @@
 ---
 slug: school-qualification-mess-continues
-title: "School Qualification mess continues"
-date: 2002-09-30
-source-url: https://www.scoop.co.nz/stories/PA0209/S00491/school-qualification-mess-continues.htm
+title: School Qualification mess continues
+date: 2002-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00491/school-qualification-mess-continues.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/30/school-qualification-mess-continues/index.html
+layout: layout.njk
 ---
 School Qualification mess continues
 ===================================

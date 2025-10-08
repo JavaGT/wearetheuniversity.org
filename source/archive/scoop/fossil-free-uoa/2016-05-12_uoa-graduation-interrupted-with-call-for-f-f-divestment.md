@@ -1,9 +1,13 @@
 ---
 slug: uoa-graduation-interrupted-with-call-for-f-f-divestment
-title: "UOA graduation interrupted with call for F.F. divestment"
-date: 2016-05-12
-source-url: https://www.scoop.co.nz/stories/ED1605/S00043/uoa-graduation-interrupted-with-call-for-ff-divestment.htm
+title: UOA graduation interrupted with call for F.F. divestment
+date: 2016-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00043/uoa-graduation-interrupted-with-call-for-ff-divestment.htm
 author: fossil-free-uoa
+permalink: >-
+  /archive/2016/05/12/uoa-graduation-interrupted-with-call-for-f-f-divestment/index.html
+layout: layout.njk
 ---
 UOA graduation interrupted with call for F.F. divestment
 ========================================================

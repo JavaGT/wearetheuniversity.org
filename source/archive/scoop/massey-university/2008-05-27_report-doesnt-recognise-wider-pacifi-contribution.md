@@ -1,9 +1,13 @@
 ---
 slug: report-doesnt-recognise-wider-pacifi-contribution
-title: "Report doesn't recognise wider Pacifi contribution"
-date: 2008-05-27
-source-url: https://www.scoop.co.nz/stories/ED0805/S00115/report-doesnt-recognise-wider-pacifi-contribution.htm
+title: Report doesn't recognise wider Pacifi contribution
+date: 2008-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00115/report-doesnt-recognise-wider-pacifi-contribution.htm
 author: massey-university
+permalink: >-
+  /archive/2008/05/27/report-doesnt-recognise-wider-pacifi-contribution/index.html
+layout: layout.njk
 ---
 Report doesn't recognise wider Pacifi contribution
 ==================================================

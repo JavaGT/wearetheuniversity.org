@@ -1,9 +1,13 @@
 ---
 slug: otago-receives-grant-to-track-true-toll-of-neglected-disease
-title: "Otago receives grant to track true toll of neglected disease"
-date: 2015-03-06
-source-url: https://www.scoop.co.nz/stories/SC1503/S00031/otago-receives-grant-to-track-true-toll-of-neglected-disease.htm
+title: Otago receives grant to track true toll of neglected disease
+date: 2015-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00031/otago-receives-grant-to-track-true-toll-of-neglected-disease.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/03/06/otago-receives-grant-to-track-true-toll-of-neglected-disease/index.html
+layout: layout.njk
 ---
 Otago receives grant to track true toll of neglected disease
 ============================================================

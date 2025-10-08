@@ -1,9 +1,12 @@
 ---
 slug: university-staff-say-no-to-heretaunga-campus
-title: "University staff say 'No' to Heretaunga campus"
-date: 2002-06-20
-source-url: https://www.scoop.co.nz/stories/ED0206/S00056/university-staff-say-no-to-heretaunga-campus.htm
+title: University staff say 'No' to Heretaunga campus
+date: 2002-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00056/university-staff-say-no-to-heretaunga-campus.htm
 author: association-of-university-staff
+permalink: /archive/2002/06/20/university-staff-say-no-to-heretaunga-campus/index.html
+layout: layout.njk
 ---
 University staff say 'No' to Heretaunga campus
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: firearms-licensing-delays-unacceptable
-title: "Firearms Licensing Delays Unacceptable"
-date: 2021-03-10
-source-url: https://www.scoop.co.nz/stories/PA2103/S00065/firearms-licensing-delays-unacceptable.htm
+title: Firearms Licensing Delays Unacceptable
+date: 2021-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00065/firearms-licensing-delays-unacceptable.htm
 author: act-new-zealand
+permalink: /archive/2021/03/10/firearms-licensing-delays-unacceptable/index.html
+layout: layout.njk
 ---
 Firearms Licensing Delays Unacceptable
 ======================================

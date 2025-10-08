@@ -1,9 +1,13 @@
 ---
 slug: victims-win-historic-victory-against-chiquita-in-colombia-paramilitary-case
-title: "Victims Win Historic Victory Against Chiquita In Colombia Paramilitary Case"
-date: 2024-07-23
-source-url: https://www.scoop.co.nz/stories/WO2407/S00227/victims-win-historic-victory-against-chiquita-in-colombia-paramilitary-case.htm
+title: Victims Win Historic Victory Against Chiquita In Colombia Paramilitary Case
+date: 2024-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2407/S00227/victims-win-historic-victory-against-chiquita-in-colombia-paramilitary-case.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/07/23/victims-win-historic-victory-against-chiquita-in-colombia-paramilitary-case/index.html
+layout: layout.njk
 ---
 Victims Win Historic Victory Against Chiquita In Colombia Paramilitary Case
 ===========================================================================

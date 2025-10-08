@@ -1,9 +1,12 @@
 ---
 slug: getting-value-for-money-in-health-and-education
-title: "Getting value for money in health and education"
-date: 2005-07-19
-source-url: https://www.scoop.co.nz/stories/PA0507/S00392/getting-value-for-money-in-health-and-education.htm
+title: Getting value for money in health and education
+date: 2005-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00392/getting-value-for-money-in-health-and-education.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/19/getting-value-for-money-in-health-and-education/index.html
+layout: layout.njk
 ---
 Getting value for money in health and education
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: full-force-of-law-needed-for-citizenship-scam
-title: "Full force of law needed for citizenship scam"
-date: 1999-10-14
-source-url: https://www.scoop.co.nz/stories/PA9910/S00289/full-force-of-law-needed-for-citizenship-scam.htm
+title: Full force of law needed for citizenship scam
+date: 1999-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00289/full-force-of-law-needed-for-citizenship-scam.htm
 author: act-new-zealand
+permalink: /archive/1999/10/14/full-force-of-law-needed-for-citizenship-scam/index.html
+layout: layout.njk
 ---
 Full force of law needed for citizenship scam
 =============================================

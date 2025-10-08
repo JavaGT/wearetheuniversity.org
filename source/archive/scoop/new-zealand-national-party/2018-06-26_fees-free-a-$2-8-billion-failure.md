@@ -1,9 +1,12 @@
 ---
 slug: fees-free-a-$2-8-billion-failure
-title: "Fees-free a $2.8 billion failure"
-date: 2018-06-26
-source-url: https://www.scoop.co.nz/stories/PA1806/S00268/fees-free-a-28-billion-failure.htm
+title: Fees-free a $2.8 billion failure
+date: 2018-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00268/fees-free-a-28-billion-failure.htm
 author: new-zealand-national-party
+permalink: /archive/2018/06/26/fees-free-a-/index.html
+layout: layout.njk
 ---
 Fees-free a $2.8 billion failure
 ================================

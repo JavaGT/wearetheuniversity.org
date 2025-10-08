@@ -1,9 +1,13 @@
 ---
 slug: uc-students-design-miniature-triathlon-tracking-device
-title: "UC Students Design Miniature Triathlon Tracking Device"
-date: 2013-04-15
-source-url: https://www.scoop.co.nz/stories/ED1304/S00090/uc-students-design-miniature-triathlon-tracking-device.htm
+title: UC Students Design Miniature Triathlon Tracking Device
+date: 2013-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00090/uc-students-design-miniature-triathlon-tracking-device.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/15/uc-students-design-miniature-triathlon-tracking-device/index.html
+layout: layout.njk
 ---
 UC Students Design Miniature Triathlon Tracking Device
 ======================================================

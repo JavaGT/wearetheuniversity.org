@@ -1,9 +1,12 @@
 ---
 slug: labour-throws-$8-million-at-tec-restructure
-title: "Labour Throws $8 Million At TEC Restructure"
-date: 2007-01-25
-source-url: https://www.scoop.co.nz/stories/PA0701/S00136/labour-throws-8-million-at-tec-restructure.htm
+title: Labour Throws $8 Million At TEC Restructure
+date: 2007-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00136/labour-throws-8-million-at-tec-restructure.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/25/labour-throws-/index.html
+layout: layout.njk
 ---
 Labour Throws $8 Million At TEC Restructure
 ===========================================

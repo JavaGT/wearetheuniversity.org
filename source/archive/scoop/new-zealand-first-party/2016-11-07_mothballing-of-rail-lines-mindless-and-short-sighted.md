@@ -1,9 +1,13 @@
 ---
 slug: mothballing-of-rail-lines-mindless-and-short-sighted
-title: "Mothballing of Rail Lines Mindless And Short-Sighted"
-date: 2016-11-07
-source-url: https://www.scoop.co.nz/stories/PA1611/S00128/mothballing-of-rail-lines-mindless-and-short-sighted.htm
+title: Mothballing of Rail Lines Mindless And Short-Sighted
+date: 2016-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00128/mothballing-of-rail-lines-mindless-and-short-sighted.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/07/mothballing-of-rail-lines-mindless-and-short-sighted/index.html
+layout: layout.njk
 ---
 Mothballing of Rail Lines Mindless And Short-Sighted
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: joint-pānui-on-the-te-herenga-waka-vaccine-mandate-review
-title: "Joint Pānui On The Te Herenga Waka Vaccine Mandate Review"
-date: 2022-04-01
-source-url: https://www.scoop.co.nz/stories/PO2204/S00006/joint-panui-on-the-te-herenga-waka-vaccine-mandate-review.htm
+title: Joint Pānui On The Te Herenga Waka Vaccine Mandate Review
+date: 2022-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2204/S00006/joint-panui-on-the-te-herenga-waka-vaccine-mandate-review.htm
 author: vuwsa
+permalink: /archive/2022/04/01/joint-p/index.html
+layout: layout.njk
 ---
 Joint Pānui On The Te Herenga Waka Vaccine Mandate Review
 =========================================================

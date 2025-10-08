@@ -1,9 +1,13 @@
 ---
 slug: autumn-graduation-for-more-than-1200-uc-students
-title: "Autumn graduation for more than 1200 UC students"
-date: 2012-04-23
-source-url: https://www.scoop.co.nz/stories/ED1204/S00086/autumn-graduation-for-more-than-1200-uc-students.htm
+title: Autumn graduation for more than 1200 UC students
+date: 2012-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00086/autumn-graduation-for-more-than-1200-uc-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/04/23/autumn-graduation-for-more-than-1200-uc-students/index.html
+layout: layout.njk
 ---
 Autumn graduation for more than 1200 UC students
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: speech-brash-campaign-close
-title: "Speech: Brash - Campaign Close"
-date: 2011-11-24
+title: 'Speech: Brash - Campaign Close'
+date: 2011-11-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00488/speech-brash-campaign-close.htm
 author: act-new-zealand
+permalink: /archive/2011/11/24/speech-brash-campaign-close/index.html
+layout: layout.njk
 ---
 Speech: Brash - Campaign Close
 ==============================

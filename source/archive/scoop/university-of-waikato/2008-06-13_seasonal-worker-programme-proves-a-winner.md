@@ -1,9 +1,12 @@
 ---
 slug: seasonal-worker-programme-proves-a-winner
-title: "Seasonal worker programme proves a winner"
-date: 2008-06-13
-source-url: https://www.scoop.co.nz/stories/ED0806/S00038/seasonal-worker-programme-proves-a-winner.htm
+title: Seasonal worker programme proves a winner
+date: 2008-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00038/seasonal-worker-programme-proves-a-winner.htm
 author: university-of-waikato
+permalink: /archive/2008/06/13/seasonal-worker-programme-proves-a-winner/index.html
+layout: layout.njk
 ---
 Seasonal worker programme proves a winner
 =========================================

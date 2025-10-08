@@ -1,9 +1,12 @@
 ---
 slug: renewed-calls-for-essential-rural-healthcare
-title: "Renewed calls for essential rural healthcare"
-date: 2018-07-24
-source-url: https://www.scoop.co.nz/stories/PA1807/S00196/renewed-calls-for-essential-rural-healthcare.htm
+title: Renewed calls for essential rural healthcare
+date: 2018-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00196/renewed-calls-for-essential-rural-healthcare.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/24/renewed-calls-for-essential-rural-healthcare/index.html
+layout: layout.njk
 ---
 Renewed calls for essential rural healthcare
 ============================================

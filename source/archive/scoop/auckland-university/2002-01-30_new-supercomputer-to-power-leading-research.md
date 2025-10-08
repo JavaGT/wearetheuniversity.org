@@ -1,9 +1,12 @@
 ---
 slug: new-supercomputer-to-power-leading-research
-title: "New Supercomputer To Power Leading Research"
-date: 2002-01-30
-source-url: https://www.scoop.co.nz/stories/ED0201/S00010/new-supercomputer-to-power-leading-research.htm
+title: New Supercomputer To Power Leading Research
+date: 2002-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0201/S00010/new-supercomputer-to-power-leading-research.htm
 author: auckland-university
+permalink: /archive/2002/01/30/new-supercomputer-to-power-leading-research/index.html
+layout: layout.njk
 ---
 New Supercomputer To Power Leading Research
 ===========================================

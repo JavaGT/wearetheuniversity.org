@@ -1,9 +1,13 @@
 ---
 slug: six-nominees-for-the-labour-candidacy-in-the-ikaroa-rawhiti
-title: "Six Nominees For the Labour Candidacy In the Ikaroa-Rawhiti"
-date: 2013-05-23
-source-url: https://www.scoop.co.nz/stories/PO1305/S00352/six-nominees-for-the-labour-candidacy-in-the-ikaroa-rawhiti.htm
+title: Six Nominees For the Labour Candidacy In the Ikaroa-Rawhiti
+date: 2013-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00352/six-nominees-for-the-labour-candidacy-in-the-ikaroa-rawhiti.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/05/23/six-nominees-for-the-labour-candidacy-in-the-ikaroa-rawhiti/index.html
+layout: layout.njk
 ---
 Six Nominees For the Labour Candidacy In the Ikaroa-Rawhiti
 ===========================================================

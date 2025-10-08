@@ -1,9 +1,12 @@
 ---
 slug: breast-cancer-surgery-by-postcode
-title: "Breast cancer surgery by postcode"
-date: 2007-02-27
-source-url: https://www.scoop.co.nz/stories/PA0702/S00487/breast-cancer-surgery-by-postcode.htm
+title: Breast cancer surgery by postcode
+date: 2007-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00487/breast-cancer-surgery-by-postcode.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/27/breast-cancer-surgery-by-postcode/index.html
+layout: layout.njk
 ---
 Breast cancer surgery by postcode
 =================================

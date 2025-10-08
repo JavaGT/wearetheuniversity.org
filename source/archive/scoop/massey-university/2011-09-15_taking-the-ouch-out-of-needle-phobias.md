@@ -1,9 +1,12 @@
 ---
 slug: taking-the-ouch-out-of-needle-phobias
-title: "Taking the \"ouch\" out of needle phobias"
-date: 2011-09-15
-source-url: https://www.scoop.co.nz/stories/GE1109/S00088/taking-the-ouch-out-of-needle-phobias.htm
+title: Taking the "ouch" out of needle phobias
+date: 2011-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1109/S00088/taking-the-ouch-out-of-needle-phobias.htm
 author: massey-university
+permalink: /archive/2011/09/15/taking-the-ouch-out-of-needle-phobias/index.html
+layout: layout.njk
 ---
 Taking the “ouch” out of needle phobias
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-dental-therapists-in-frontline-against-child-abuse
-title: "NZ dental therapists in frontline against child abuse"
-date: 2013-09-13
-source-url: https://www.scoop.co.nz/stories/GE1309/S00064/nz-dental-therapists-in-frontline-against-child-abuse.htm
+title: NZ dental therapists in frontline against child abuse
+date: 2013-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1309/S00064/nz-dental-therapists-in-frontline-against-child-abuse.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/09/13/nz-dental-therapists-in-frontline-against-child-abuse/index.html
+layout: layout.njk
 ---
 NZ dental therapists in frontline against child abuse
 =====================================================

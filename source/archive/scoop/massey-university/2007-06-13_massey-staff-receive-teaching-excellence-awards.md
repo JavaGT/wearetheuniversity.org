@@ -1,9 +1,12 @@
 ---
 slug: massey-staff-receive-teaching-excellence-awards
-title: "Massey staff receive teaching excellence awards"
-date: 2007-06-13
-source-url: https://www.scoop.co.nz/stories/ED0706/S00053/massey-staff-receive-teaching-excellence-awards.htm
+title: Massey staff receive teaching excellence awards
+date: 2007-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00053/massey-staff-receive-teaching-excellence-awards.htm
 author: massey-university
+permalink: /archive/2007/06/13/massey-staff-receive-teaching-excellence-awards/index.html
+layout: layout.njk
 ---
 Massey staff receive teaching excellence awards
 ===============================================

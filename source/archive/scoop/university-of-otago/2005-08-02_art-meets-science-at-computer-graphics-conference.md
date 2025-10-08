@@ -1,9 +1,13 @@
 ---
 slug: art-meets-science-at-computer-graphics-conference
-title: "Art meets Science at Computer Graphics Conference"
-date: 2005-08-02
-source-url: https://www.scoop.co.nz/stories/SC0508/S00016/art-meets-science-at-computer-graphics-conference.htm
+title: Art meets Science at Computer Graphics Conference
+date: 2005-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0508/S00016/art-meets-science-at-computer-graphics-conference.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/08/02/art-meets-science-at-computer-graphics-conference/index.html
+layout: layout.njk
 ---
 Art meets Science at Computer Graphics Conference
 =================================================

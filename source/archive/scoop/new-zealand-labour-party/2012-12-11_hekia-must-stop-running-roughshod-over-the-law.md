@@ -1,9 +1,12 @@
 ---
 slug: hekia-must-stop-running-roughshod-over-the-law
-title: "Hekia must stop running roughshod over the law"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/PA1212/S00215/hekia-must-stop-running-roughshod-over-the-law.htm
+title: Hekia must stop running roughshod over the law
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00215/hekia-must-stop-running-roughshod-over-the-law.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/11/hekia-must-stop-running-roughshod-over-the-law/index.html
+layout: layout.njk
 ---
 Hekia must stop running roughshod over the law
 ==============================================

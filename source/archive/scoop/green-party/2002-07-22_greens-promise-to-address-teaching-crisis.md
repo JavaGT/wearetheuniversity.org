@@ -1,9 +1,12 @@
 ---
 slug: greens-promise-to-address-teaching-crisis
-title: "Greens Promise To Address Teaching Crisis"
-date: 2002-07-22
-source-url: https://www.scoop.co.nz/stories/PA0207/S00586/greens-promise-to-address-teaching-crisis.htm
+title: Greens Promise To Address Teaching Crisis
+date: 2002-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00586/greens-promise-to-address-teaching-crisis.htm
 author: green-party
+permalink: /archive/2002/07/22/greens-promise-to-address-teaching-crisis/index.html
+layout: layout.njk
 ---
 Greens Promise To Address Teaching Crisis
 =========================================

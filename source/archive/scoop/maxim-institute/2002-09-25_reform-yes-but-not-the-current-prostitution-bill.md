@@ -1,9 +1,13 @@
 ---
 slug: reform-yes-but-not-the-current-prostitution-bill
-title: "Reform Yes - But Not The Current Prostitution Bill"
-date: 2002-09-25
-source-url: https://www.scoop.co.nz/stories/PO0209/S00142/reform-yes-but-not-the-current-prostitution-bill.htm
+title: Reform Yes - But Not The Current Prostitution Bill
+date: 2002-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0209/S00142/reform-yes-but-not-the-current-prostitution-bill.htm
 author: maxim-institute
+permalink: >-
+  /archive/2002/09/25/reform-yes-but-not-the-current-prostitution-bill/index.html
+layout: layout.njk
 ---
 Reform Yes - But Not The Current Prostitution Bill
 ==================================================

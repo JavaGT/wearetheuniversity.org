@@ -1,9 +1,12 @@
 ---
 slug: parata-abandons-teacher-quality
-title: "Parata abandons teacher quality"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/PA1210/S00169/parata-abandons-teacher-quality.htm
+title: Parata abandons teacher quality
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00169/parata-abandons-teacher-quality.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/10/parata-abandons-teacher-quality/index.html
+layout: layout.njk
 ---
 Parata abandons teacher quality
 ===============================

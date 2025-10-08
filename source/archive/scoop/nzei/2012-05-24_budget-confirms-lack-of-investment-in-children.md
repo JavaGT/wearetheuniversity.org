@@ -1,9 +1,12 @@
 ---
 slug: budget-confirms-lack-of-investment-in-children
-title: "Budget confirms lack of investment in children"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/ED1205/S00115/budget-confirms-lack-of-investment-in-children.htm
+title: Budget confirms lack of investment in children
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00115/budget-confirms-lack-of-investment-in-children.htm
 author: nzei
+permalink: /archive/2012/05/24/budget-confirms-lack-of-investment-in-children/index.html
+layout: layout.njk
 ---
 Budget confirms lack of investment in children
 ==============================================

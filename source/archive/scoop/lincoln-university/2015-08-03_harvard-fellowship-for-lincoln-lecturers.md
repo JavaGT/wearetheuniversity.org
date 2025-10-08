@@ -1,9 +1,12 @@
 ---
 slug: harvard-fellowship-for-lincoln-lecturers
-title: "Harvard fellowship for Lincoln lecturers"
-date: 2015-08-03
-source-url: https://www.scoop.co.nz/stories/ED1508/S00002/harvard-fellowship-for-lincoln-lecturers.htm
+title: Harvard fellowship for Lincoln lecturers
+date: 2015-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00002/harvard-fellowship-for-lincoln-lecturers.htm
 author: lincoln-university
+permalink: /archive/2015/08/03/harvard-fellowship-for-lincoln-lecturers/index.html
+layout: layout.njk
 ---
 Harvard fellowship for Lincoln lecturers
 ========================================

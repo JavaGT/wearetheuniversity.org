@@ -1,9 +1,13 @@
 ---
 slug: urgent-action-needed-to-help-sri-lankan-civilians
-title: "Urgent action needed to help Sri Lankan civilians"
-date: 2009-05-19
-source-url: https://www.scoop.co.nz/stories/PA0905/S00333/urgent-action-needed-to-help-sri-lankan-civilians.htm
+title: Urgent action needed to help Sri Lankan civilians
+date: 2009-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00333/urgent-action-needed-to-help-sri-lankan-civilians.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/05/19/urgent-action-needed-to-help-sri-lankan-civilians/index.html
+layout: layout.njk
 ---
 Urgent action needed to help Sri Lankan civilians
 =================================================

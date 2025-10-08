@@ -1,9 +1,13 @@
 ---
 slug: uc-showcases-innovative-research-which-is-good-for-the-world
-title: "UC showcases innovative research which is good for the world"
-date: 2018-05-17
-source-url: https://www.scoop.co.nz/stories/SC1805/S00043/uc-showcases-innovative-research-which-is-good-for-the-world.htm
+title: UC showcases innovative research which is good for the world
+date: 2018-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00043/uc-showcases-innovative-research-which-is-good-for-the-world.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/05/17/uc-showcases-innovative-research-which-is-good-for-the-world/index.html
+layout: layout.njk
 ---
 UC showcases innovative research which is good for the world
 ============================================================

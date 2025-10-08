@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-calculate-the-cost-of-smoking
-title: "UC researchers calculate the cost of smoking"
-date: 2012-11-27
-source-url: https://www.scoop.co.nz/stories/CU1211/S00557/uc-researchers-calculate-the-cost-of-smoking.htm
+title: UC researchers calculate the cost of smoking
+date: 2012-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00557/uc-researchers-calculate-the-cost-of-smoking.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/27/uc-researchers-calculate-the-cost-of-smoking/index.html
+layout: layout.njk
 ---
 UC researchers calculate the cost of smoking
 ============================================

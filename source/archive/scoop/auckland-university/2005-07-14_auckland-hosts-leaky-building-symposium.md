@@ -1,9 +1,12 @@
 ---
 slug: auckland-hosts-leaky-building-symposium
-title: "Auckland Hosts Leaky Building Symposium"
-date: 2005-07-14
-source-url: https://www.scoop.co.nz/stories/SC0507/S00032/auckland-hosts-leaky-building-symposium.htm
+title: Auckland Hosts Leaky Building Symposium
+date: 2005-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0507/S00032/auckland-hosts-leaky-building-symposium.htm
 author: auckland-university
+permalink: /archive/2005/07/14/auckland-hosts-leaky-building-symposium/index.html
+layout: layout.njk
 ---
 Auckland Hosts Leaky Building Symposium
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: sharples-immigration-advisers-licensing-bill
-title: "Sharples: Immigration Advisers Licensing Bill"
-date: 2005-12-15
-source-url: https://www.scoop.co.nz/stories/PA0512/S00239/sharples-immigration-advisers-licensing-bill.htm
+title: 'Sharples: Immigration Advisers Licensing Bill'
+date: 2005-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00239/sharples-immigration-advisers-licensing-bill.htm
 author: te-pati-maori
+permalink: /archive/2005/12/15/sharples-immigration-advisers-licensing-bill/index.html
+layout: layout.njk
 ---
 Sharples: Immigration Advisers Licensing Bill
 =============================================

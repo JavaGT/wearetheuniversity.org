@@ -1,9 +1,13 @@
 ---
 slug: wof-law-will-evict-the-poor-and-students-from-their-houses
-title: "WoF law will evict the poor and students  from their houses"
-date: 2014-08-28
-source-url: https://www.scoop.co.nz/stories/PO1408/S00470/wof-law-will-evict-the-poor-and-students-from-their-houses.htm
+title: WoF law will evict the poor and students  from their houses
+date: 2014-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00470/wof-law-will-evict-the-poor-and-students-from-their-houses.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/08/28/wof-law-will-evict-the-poor-and-students-from-their-houses/index.html
+layout: layout.njk
 ---
 WoF law will evict the poor and students from their houses
 ==========================================================

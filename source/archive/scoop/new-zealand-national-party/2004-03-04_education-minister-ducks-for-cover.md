@@ -1,9 +1,12 @@
 ---
 slug: education-minister-ducks-for-cover
-title: "Education Minister ducks for cover"
-date: 2004-03-04
-source-url: https://www.scoop.co.nz/stories/PA0403/S00084/education-minister-ducks-for-cover.htm
+title: Education Minister ducks for cover
+date: 2004-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00084/education-minister-ducks-for-cover.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/04/education-minister-ducks-for-cover/index.html
+layout: layout.njk
 ---
 Education Minister ducks for cover
 ==================================

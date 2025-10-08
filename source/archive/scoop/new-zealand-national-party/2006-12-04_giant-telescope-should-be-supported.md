@@ -1,9 +1,12 @@
 ---
 slug: giant-telescope-should-be-supported
-title: "Giant telescope should be supported"
-date: 2006-12-04
-source-url: https://www.scoop.co.nz/stories/PA0612/S00039/giant-telescope-should-be-supported.htm
+title: Giant telescope should be supported
+date: 2006-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00039/giant-telescope-should-be-supported.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/04/giant-telescope-should-be-supported/index.html
+layout: layout.njk
 ---
 Giant telescope should be supported
 ===================================

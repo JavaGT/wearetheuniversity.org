@@ -1,9 +1,12 @@
 ---
 slug: nz-children-are-surrounded-by-junk-food-ads
-title: "NZ children are surrounded by junk food ads"
-date: 2017-10-09
-source-url: https://www.scoop.co.nz/stories/GE1710/S00051/nz-children-are-surrounded-by-junk-food-ads.htm
+title: NZ children are surrounded by junk food ads
+date: 2017-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1710/S00051/nz-children-are-surrounded-by-junk-food-ads.htm
 author: university-of-otago
+permalink: /archive/2017/10/09/nz-children-are-surrounded-by-junk-food-ads/index.html
+layout: layout.njk
 ---
 NZ children are surrounded by junk food ads
 ===========================================

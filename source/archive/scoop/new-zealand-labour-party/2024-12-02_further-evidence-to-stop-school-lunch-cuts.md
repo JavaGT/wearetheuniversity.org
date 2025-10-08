@@ -1,9 +1,12 @@
 ---
 slug: further-evidence-to-stop-school-lunch-cuts
-title: "Further Evidence To Stop School Lunch Cuts"
-date: 2024-12-02
-source-url: https://www.scoop.co.nz/stories/PA2412/S00016/further-evidence-to-stop-school-lunch-cuts.htm
+title: Further Evidence To Stop School Lunch Cuts
+date: 2024-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00016/further-evidence-to-stop-school-lunch-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/12/02/further-evidence-to-stop-school-lunch-cuts/index.html
+layout: layout.njk
 ---
 Further Evidence To Stop School Lunch Cuts
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: scientists-trial-first-multimedia-whale-trap-in-the-ross-sea
-title: "Scientists trial first multimedia whale trap in the Ross Sea"
-date: 2018-02-14
-source-url: https://www.scoop.co.nz/stories/SC1802/S00033/scientists-trial-first-multimedia-whale-trap-in-the-ross-sea.htm
+title: Scientists trial first multimedia whale trap in the Ross Sea
+date: 2018-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00033/scientists-trial-first-multimedia-whale-trap-in-the-ross-sea.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/02/14/scientists-trial-first-multimedia-whale-trap-in-the-ross-sea/index.html
+layout: layout.njk
 ---
 Scientists trial first multimedia whale trap in the Ross Sea
 ============================================================

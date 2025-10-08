@@ -1,9 +1,12 @@
 ---
 slug: patients-waiting-in-more-pain-for-operations
-title: "Patients waiting in more pain for operations"
-date: 2015-11-11
-source-url: https://www.scoop.co.nz/stories/PA1511/S00196/patients-waiting-in-more-pain-for-operations.htm
+title: Patients waiting in more pain for operations
+date: 2015-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00196/patients-waiting-in-more-pain-for-operations.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/11/patients-waiting-in-more-pain-for-operations/index.html
+layout: layout.njk
 ---
 Patients waiting in more pain for operations
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: the-warning-signs-are-there-for-the-government
-title: "The warning signs are there for the Government"
-date: 2000-05-24
-source-url: https://www.scoop.co.nz/stories/PA0005/S00512/the-warning-signs-are-there-for-the-government.htm
+title: The warning signs are there for the Government
+date: 2000-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00512/the-warning-signs-are-there-for-the-government.htm
 author: new-zealand-first-party
+permalink: /archive/2000/05/24/the-warning-signs-are-there-for-the-government/index.html
+layout: layout.njk
 ---
 The warning signs are there for the Government
 ==============================================

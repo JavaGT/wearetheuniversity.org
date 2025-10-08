@@ -1,9 +1,13 @@
 ---
 slug: your-shot-at-literary-fame-2024-sargeson-prize-opens
-title: "Your Shot At Literary Fame: 2024 Sargeson Prize Opens"
-date: 2024-04-03
-source-url: https://www.scoop.co.nz/stories/CU2404/S00011/your-shot-at-literary-fame-2024-sargeson-prize-opens.htm
+title: 'Your Shot At Literary Fame: 2024 Sargeson Prize Opens'
+date: 2024-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2404/S00011/your-shot-at-literary-fame-2024-sargeson-prize-opens.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2024/04/03/your-shot-at-literary-fame-2024-sargeson-prize-opens/index.html
+layout: layout.njk
 ---
 Your Shot At Literary Fame: 2024 Sargeson Prize Opens
 =====================================================

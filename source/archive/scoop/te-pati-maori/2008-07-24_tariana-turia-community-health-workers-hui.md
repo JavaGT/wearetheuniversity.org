@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-community-health-workers-hui
-title: "Tariana Turia: Community Health Workers Hui"
-date: 2008-07-24
-source-url: https://www.scoop.co.nz/stories/PA0807/S00450/tariana-turia-community-health-workers-hui.htm
+title: 'Tariana Turia: Community Health Workers Hui'
+date: 2008-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00450/tariana-turia-community-health-workers-hui.htm
 author: te-pati-maori
+permalink: /archive/2008/07/24/tariana-turia-community-health-workers-hui/index.html
+layout: layout.njk
 ---
 Tariana Turia: Community Health Workers Hui
 ===========================================

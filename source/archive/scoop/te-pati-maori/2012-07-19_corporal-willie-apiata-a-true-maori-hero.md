@@ -1,9 +1,12 @@
 ---
 slug: corporal-willie-apiata-a-true-maori-hero
-title: "Corporal Willie Apiata a true Maori ‘hero’"
-date: 2012-07-19
-source-url: https://www.scoop.co.nz/stories/PA1207/S00229/corporal-willie-apiata-a-true-maori-hero.htm
+title: Corporal Willie Apiata a true Maori ‘hero’
+date: 2012-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00229/corporal-willie-apiata-a-true-maori-hero.htm
 author: te-pati-maori
+permalink: /archive/2012/07/19/corporal-willie-apiata-a-true-maori-hero/index.html
+layout: layout.njk
 ---
 Corporal Willie Apiata a true Maori ‘hero’
 ==========================================

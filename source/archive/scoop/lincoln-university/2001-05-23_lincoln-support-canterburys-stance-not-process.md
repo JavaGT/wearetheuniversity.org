@@ -1,9 +1,12 @@
 ---
 slug: lincoln-support-canterburys-stance-not-process
-title: "Lincoln Support Canterbury's Stance, Not Process"
-date: 2001-05-23
-source-url: https://www.scoop.co.nz/stories/ED0105/S00043/lincoln-support-canterburys-stance-not-process.htm
+title: Lincoln Support Canterbury's Stance, Not Process
+date: 2001-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00043/lincoln-support-canterburys-stance-not-process.htm
 author: lincoln-university
+permalink: /archive/2001/05/23/lincoln-support-canterburys-stance-not-process/index.html
+layout: layout.njk
 ---
 Lincoln Support Canterbury's Stance, Not Process
 ================================================

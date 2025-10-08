@@ -1,9 +1,13 @@
 ---
 slug: earth-to-reach-temperature-tipping-point-in-20-30-years-new-study-finds
-title: "Earth To Reach Temperature Tipping Point In 20-30 Years, New Study Finds"
-date: 2021-01-14
-source-url: https://www.scoop.co.nz/stories/SC2101/S00011/earth-to-reach-temperature-tipping-point-in-20-30-years-new-study-finds.htm
+title: Earth To Reach Temperature Tipping Point In 20-30 Years, New Study Finds
+date: 2021-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2101/S00011/earth-to-reach-temperature-tipping-point-in-20-30-years-new-study-finds.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/01/14/earth-to-reach-temperature-tipping-point-in-20-30-years-new-study-finds/index.html
+layout: layout.njk
 ---
 Earth To Reach Temperature Tipping Point In 20-30 Years, New Study Finds
 ========================================================================

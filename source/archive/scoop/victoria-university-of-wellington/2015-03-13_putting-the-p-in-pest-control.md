@@ -1,9 +1,12 @@
 ---
 slug: putting-the-p-in-pest-control
-title: "Putting the ‘P’ in pest control"
-date: 2015-03-13
-source-url: https://www.scoop.co.nz/stories/SC1503/S00047/putting-the-p-in-pest-control.htm
+title: Putting the ‘P’ in pest control
+date: 2015-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00047/putting-the-p-in-pest-control.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/03/13/putting-the-p-in-pest-control/index.html
+layout: layout.njk
 ---
 Putting the ‘P’ in pest control
 ===============================

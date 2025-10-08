@@ -1,9 +1,11 @@
 ---
 slug: nz-needs-uk-in-eu
-title: "NZ needs UK in EU"
-date: 2016-06-20
+title: NZ needs UK in EU
+date: 2016-06-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1606/S00233/nz-needs-uk-in-eu.htm
 author: lincoln-university
+permalink: /archive/2016/06/20/nz-needs-uk-in-eu/index.html
+layout: layout.njk
 ---
 NZ needs UK in EU
 =================

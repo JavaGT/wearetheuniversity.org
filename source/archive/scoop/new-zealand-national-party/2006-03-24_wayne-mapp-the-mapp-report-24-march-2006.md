@@ -1,9 +1,12 @@
 ---
 slug: wayne-mapp-the-mapp-report-24-march-2006
-title: "Wayne Mapp - The Mapp Report 24 March 2006"
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/PA0603/S00413/wayne-mapp-the-mapp-report-24-march-2006.htm
+title: Wayne Mapp - The Mapp Report 24 March 2006
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00413/wayne-mapp-the-mapp-report-24-march-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/24/wayne-mapp-the-mapp-report-24-march-2006/index.html
+layout: layout.njk
 ---
 Wayne Mapp - The Mapp Report 24 March 2006
 ==========================================

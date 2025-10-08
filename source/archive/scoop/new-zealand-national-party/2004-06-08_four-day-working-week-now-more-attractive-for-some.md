@@ -1,9 +1,13 @@
 ---
 slug: four-day-working-week-now-more-attractive-for-some
-title: "Four-day working week now more attractive for some"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/PA0406/S00116/four-day-working-week-now-more-attractive-for-some.htm
+title: Four-day working week now more attractive for some
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00116/four-day-working-week-now-more-attractive-for-some.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/06/08/four-day-working-week-now-more-attractive-for-some/index.html
+layout: layout.njk
 ---
 Four-day working week now more attractive for some
 ==================================================

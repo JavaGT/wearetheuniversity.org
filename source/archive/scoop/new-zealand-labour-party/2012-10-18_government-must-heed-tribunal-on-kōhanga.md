@@ -1,9 +1,12 @@
 ---
 slug: government-must-heed-tribunal-on-kōhanga
-title: "Government must heed Tribunal on Kōhanga"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/PA1210/S00310/government-must-heed-tribunal-on-kohanga.htm
+title: Government must heed Tribunal on Kōhanga
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00310/government-must-heed-tribunal-on-kohanga.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/18/government-must-heed-tribunal-on-k/index.html
+layout: layout.njk
 ---
 Government must heed Tribunal on Kōhanga
 ========================================

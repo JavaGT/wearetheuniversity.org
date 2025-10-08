@@ -1,9 +1,13 @@
 ---
 slug: rising-international-student-numbers-in-new-zealand
-title: "Rising international student numbers in New Zealand"
-date: 2019-08-26
-source-url: https://www.scoop.co.nz/stories/ED1908/S00055/rising-international-student-numbers-in-new-zealand.htm
+title: Rising international student numbers in New Zealand
+date: 2019-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00055/rising-international-student-numbers-in-new-zealand.htm
 author: new-zealand-international-students-association
+permalink: >-
+  /archive/2019/08/26/rising-international-student-numbers-in-new-zealand/index.html
+layout: layout.njk
 ---
 Rising international student numbers in New Zealand
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-wellington-ict-grad-school-opens-with-hutt-connection
-title: "New Wellington ICT Grad School opens with Hutt connection"
-date: 2016-05-03
-source-url: https://www.scoop.co.nz/stories/PA1605/S00048/new-wellington-ict-grad-school-opens-with-hutt-connection.htm
+title: New Wellington ICT Grad School opens with Hutt connection
+date: 2016-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00048/new-wellington-ict-grad-school-opens-with-hutt-connection.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/05/03/new-wellington-ict-grad-school-opens-with-hutt-connection/index.html
+layout: layout.njk
 ---
 New Wellington ICT Grad School opens with Hutt connection
 =========================================================

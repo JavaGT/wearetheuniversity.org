@@ -1,9 +1,12 @@
 ---
 slug: govt-science-cuts-take-nz-even-further-backward
-title: "Govt Science Cuts Take NZ Even Further Backward"
-date: 2024-11-05
-source-url: https://www.scoop.co.nz/stories/PO2411/S00019/govt-science-cuts-take-nz-even-further-backward.htm
+title: Govt Science Cuts Take NZ Even Further Backward
+date: 2024-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2411/S00019/govt-science-cuts-take-nz-even-further-backward.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2024/11/05/govt-science-cuts-take-nz-even-further-backward/index.html
+layout: layout.njk
 ---
 Govt Science Cuts Take NZ Even Further Backward
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-launch-youth-campaign-with-musical-backing
-title: "Greens Launch Youth Campaign with Musical Backing"
-date: 2008-07-31
-source-url: https://www.scoop.co.nz/stories/PO0807/S00397/greens-launch-youth-campaign-with-musical-backing.htm
+title: Greens Launch Youth Campaign with Musical Backing
+date: 2008-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00397/greens-launch-youth-campaign-with-musical-backing.htm
 author: green-party
+permalink: >-
+  /archive/2008/07/31/greens-launch-youth-campaign-with-musical-backing/index.html
+layout: layout.njk
 ---
 Greens Launch Youth Campaign with Musical Backing
 =================================================

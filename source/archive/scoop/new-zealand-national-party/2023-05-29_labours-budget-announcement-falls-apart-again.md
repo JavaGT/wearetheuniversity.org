@@ -1,9 +1,12 @@
 ---
 slug: labours-budget-announcement-falls-apart-again
-title: "Labour’s Budget Announcement Falls Apart – Again"
-date: 2023-05-29
-source-url: https://www.scoop.co.nz/stories/PA2305/S00210/labours-budget-announcement-falls-apart-again.htm
+title: Labour’s Budget Announcement Falls Apart – Again
+date: 2023-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00210/labours-budget-announcement-falls-apart-again.htm
 author: new-zealand-national-party
+permalink: /archive/2023/05/29/labours-budget-announcement-falls-apart-again/index.html
+layout: layout.njk
 ---
 Labour’s Budget Announcement Falls Apart – Again
 ================================================

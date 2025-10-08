@@ -1,9 +1,13 @@
 ---
 slug: reforms-will-destroy-regional-education-and-apprenticeships
-title: "Reforms will destroy regional education and apprenticeships"
-date: 2019-06-21
-source-url: https://www.scoop.co.nz/stories/PA1906/S00191/reforms-will-destroy-regional-education-and-apprenticeships.htm
+title: Reforms will destroy regional education and apprenticeships
+date: 2019-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00191/reforms-will-destroy-regional-education-and-apprenticeships.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/06/21/reforms-will-destroy-regional-education-and-apprenticeships/index.html
+layout: layout.njk
 ---
 Reforms will destroy regional education and apprenticeships
 ===========================================================

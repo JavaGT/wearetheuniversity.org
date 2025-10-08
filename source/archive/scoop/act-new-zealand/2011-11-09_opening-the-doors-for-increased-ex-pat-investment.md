@@ -1,9 +1,13 @@
 ---
 slug: opening-the-doors-for-increased-ex-pat-investment
-title: "Opening the doors for increased ex-pat investment"
-date: 2011-11-09
-source-url: https://www.scoop.co.nz/stories/PO1111/S00231/opening-the-doors-for-increased-ex-pat-investment.htm
+title: Opening the doors for increased ex-pat investment
+date: 2011-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00231/opening-the-doors-for-increased-ex-pat-investment.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/11/09/opening-the-doors-for-increased-ex-pat-investment/index.html
+layout: layout.njk
 ---
 Opening the doors for increased ex-pat investment
 =================================================

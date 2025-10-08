@@ -1,9 +1,12 @@
 ---
 slug: link-between-inequality-and-teen-births-studied
-title: "Link between inequality and teen births studied"
-date: 2014-11-25
-source-url: https://www.scoop.co.nz/stories/PO1411/S00266/link-between-inequality-and-teen-births-studied.htm
+title: Link between inequality and teen births studied
+date: 2014-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1411/S00266/link-between-inequality-and-teen-births-studied.htm
 author: university-of-canterbury
+permalink: /archive/2014/11/25/link-between-inequality-and-teen-births-studied/index.html
+layout: layout.njk
 ---
 Link between inequality and teen births studied
 ===============================================

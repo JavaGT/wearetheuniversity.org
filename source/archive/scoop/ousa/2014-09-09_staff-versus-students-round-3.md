@@ -1,9 +1,12 @@
 ---
 slug: staff-versus-students-round-3
-title: "Staff versus Students Round 3"
-date: 2014-09-09
-source-url: https://www.scoop.co.nz/stories/AK1409/S00210/staff-versus-students-round-3.htm
+title: Staff versus Students Round 3
+date: 2014-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1409/S00210/staff-versus-students-round-3.htm
 author: ousa
+permalink: /archive/2014/09/09/staff-versus-students-round-3/index.html
+layout: layout.njk
 ---
 Staff versus Students Round 3
 =============================

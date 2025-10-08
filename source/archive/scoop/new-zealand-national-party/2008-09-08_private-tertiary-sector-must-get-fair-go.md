@@ -1,9 +1,12 @@
 ---
 slug: private-tertiary-sector-must-get-fair-go
-title: "Private tertiary sector must get fair go"
-date: 2008-09-08
-source-url: https://www.scoop.co.nz/stories/PA0809/S00170/private-tertiary-sector-must-get-fair-go.htm
+title: Private tertiary sector must get fair go
+date: 2008-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00170/private-tertiary-sector-must-get-fair-go.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/08/private-tertiary-sector-must-get-fair-go/index.html
+layout: layout.njk
 ---
 Private tertiary sector must get fair go
 ========================================

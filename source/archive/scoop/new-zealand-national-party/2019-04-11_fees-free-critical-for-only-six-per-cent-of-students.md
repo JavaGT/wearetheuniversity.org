@@ -1,9 +1,13 @@
 ---
 slug: fees-free-critical-for-only-six-per-cent-of-students
-title: "Fees Free critical for only six per cent of students"
-date: 2019-04-11
-source-url: https://www.scoop.co.nz/stories/PA1904/S00108/fees-free-critical-for-only-six-per-cent-of-students.htm
+title: Fees Free critical for only six per cent of students
+date: 2019-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00108/fees-free-critical-for-only-six-per-cent-of-students.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/04/11/fees-free-critical-for-only-six-per-cent-of-students/index.html
+layout: layout.njk
 ---
 Fees Free critical for only six per cent of students
 ====================================================

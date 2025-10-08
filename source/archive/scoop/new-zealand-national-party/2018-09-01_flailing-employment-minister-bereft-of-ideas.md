@@ -1,9 +1,12 @@
 ---
 slug: flailing-employment-minister-bereft-of-ideas
-title: "Flailing Employment Minister bereft of ideas"
-date: 2018-09-01
-source-url: https://www.scoop.co.nz/stories/PA1809/S00001/flailing-employment-minister-bereft-of-ideas.htm
+title: Flailing Employment Minister bereft of ideas
+date: 2018-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00001/flailing-employment-minister-bereft-of-ideas.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/01/flailing-employment-minister-bereft-of-ideas/index.html
+layout: layout.njk
 ---
 Flailing Employment Minister bereft of ideas
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: government-must-explain-food-review-plans
-title: "Government must explain food review plans"
-date: 2006-11-02
-source-url: https://www.scoop.co.nz/stories/PA0611/S00044/government-must-explain-food-review-plans.htm
+title: Government must explain food review plans
+date: 2006-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00044/government-must-explain-food-review-plans.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/02/government-must-explain-food-review-plans/index.html
+layout: layout.njk
 ---
 Government must explain food review plans
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: police-graduates-deserve-religious-choice-in-oaths
-title: "Police Graduates Deserve Religious Choice In Oaths"
-date: 2024-08-08
-source-url: https://www.scoop.co.nz/stories/PA2408/S00047/police-graduates-deserve-religious-choice-in-oaths.htm
+title: Police Graduates Deserve Religious Choice In Oaths
+date: 2024-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00047/police-graduates-deserve-religious-choice-in-oaths.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/08/08/police-graduates-deserve-religious-choice-in-oaths/index.html
+layout: layout.njk
 ---
 Police Graduates Deserve Religious Choice In Oaths
 ==================================================

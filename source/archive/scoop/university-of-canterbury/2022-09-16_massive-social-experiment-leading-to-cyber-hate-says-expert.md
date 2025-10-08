@@ -1,9 +1,13 @@
 ---
 slug: massive-social-experiment-leading-to-cyber-hate-says-expert
-title: "‘Massive Social Experiment’ Leading To Cyber Hate Says Expert"
-date: 2022-09-16
-source-url: https://www.scoop.co.nz/stories/ED2209/S00023/massive-social-experiment-leading-to-cyber-hate-says-expert.htm
+title: ‘Massive Social Experiment’ Leading To Cyber Hate Says Expert
+date: 2022-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2209/S00023/massive-social-experiment-leading-to-cyber-hate-says-expert.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/09/16/massive-social-experiment-leading-to-cyber-hate-says-expert/index.html
+layout: layout.njk
 ---
 ‘Massive Social Experiment’ Leading To Cyber Hate Says Expert
 =============================================================

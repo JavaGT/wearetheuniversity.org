@@ -1,9 +1,13 @@
 ---
 slug: electrode-inventor-wins-national-innovation-award
-title: "Electrode inventor wins national innovation award"
-date: 2010-08-25
-source-url: https://www.scoop.co.nz/stories/SC1008/S00060/electrode-inventor-wins-national-innovation-award.htm
+title: Electrode inventor wins national innovation award
+date: 2010-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1008/S00060/electrode-inventor-wins-national-innovation-award.htm
 author: massey-university
+permalink: >-
+  /archive/2010/08/25/electrode-inventor-wins-national-innovation-award/index.html
+layout: layout.njk
 ---
 Electrode inventor wins national innovation award
 =================================================

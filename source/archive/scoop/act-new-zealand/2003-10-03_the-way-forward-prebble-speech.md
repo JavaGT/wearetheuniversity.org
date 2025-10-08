@@ -1,9 +1,12 @@
 ---
 slug: the-way-forward-prebble-speech
-title: "The Way Forward - Prebble Speech"
-date: 2003-10-03
-source-url: https://www.scoop.co.nz/stories/PA0310/S00065/the-way-forward-prebble-speech.htm
+title: The Way Forward - Prebble Speech
+date: 2003-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00065/the-way-forward-prebble-speech.htm
 author: act-new-zealand
+permalink: /archive/2003/10/03/the-way-forward-prebble-speech/index.html
+layout: layout.njk
 ---
 The Way Forward - Prebble Speech
 ================================

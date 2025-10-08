@@ -1,9 +1,12 @@
 ---
 slug: students-put-the-ice-on-steven-joyce
-title: "Students put the ice on Steven Joyce"
-date: 2012-02-29
-source-url: https://www.scoop.co.nz/stories/ED1202/S00132/students-put-the-ice-on-steven-joyce.htm
+title: Students put the ice on Steven Joyce
+date: 2012-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00132/students-put-the-ice-on-steven-joyce.htm
 author: auckland-university-students-association
+permalink: /archive/2012/02/29/students-put-the-ice-on-steven-joyce/index.html
+layout: layout.njk
 ---
 Students put the ice on Steven Joyce
 ====================================

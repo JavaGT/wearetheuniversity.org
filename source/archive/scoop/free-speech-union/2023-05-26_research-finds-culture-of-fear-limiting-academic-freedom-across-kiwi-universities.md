@@ -1,9 +1,16 @@
 ---
-slug: research-finds-culture-of-fear-limiting-academic-freedom-across-kiwi-universities
-title: "Research Finds Culture Of Fear Limiting Academic Freedom Across Kiwi Universities"
-date: 2023-05-26
-source-url: https://www.scoop.co.nz/stories/AK2305/S00511/research-finds-culture-of-fear-limiting-academic-freedom-across-kiwi-universities.htm
+slug: >-
+  research-finds-culture-of-fear-limiting-academic-freedom-across-kiwi-universities
+title: >-
+  Research Finds Culture Of Fear Limiting Academic Freedom Across Kiwi
+  Universities
+date: 2023-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2305/S00511/research-finds-culture-of-fear-limiting-academic-freedom-across-kiwi-universities.htm
 author: free-speech-union
+permalink: >-
+  /archive/2023/05/26/research-finds-culture-of-fear-limiting-academic-freedom-across-kiwi-universities/index.html
+layout: layout.njk
 ---
 Research Finds Culture Of Fear Limiting Academic Freedom Across Kiwi Universities
 =================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: special-education-funding-barely-scratches-the-surface
-title: "Special education funding barely scratches the surface"
-date: 2015-01-30
-source-url: https://www.scoop.co.nz/stories/PO1501/S00128/special-education-funding-barely-scratches-the-surface.htm
+title: Special education funding barely scratches the surface
+date: 2015-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1501/S00128/special-education-funding-barely-scratches-the-surface.htm
 author: nzei
+permalink: >-
+  /archive/2015/01/30/special-education-funding-barely-scratches-the-surface/index.html
+layout: layout.njk
 ---
 Special education funding barely scratches the surface
 ======================================================

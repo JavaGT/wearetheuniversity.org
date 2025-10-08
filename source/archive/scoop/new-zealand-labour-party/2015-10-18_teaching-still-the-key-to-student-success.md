@@ -1,9 +1,12 @@
 ---
 slug: teaching-still-the-key-to-student-success
-title: "Teaching still the key to student success"
-date: 2015-10-18
-source-url: https://www.scoop.co.nz/stories/PA1510/S00296/teaching-still-the-key-to-student-success.htm
+title: Teaching still the key to student success
+date: 2015-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00296/teaching-still-the-key-to-student-success.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/18/teaching-still-the-key-to-student-success/index.html
+layout: layout.njk
 ---
 Teaching still the key to student success
 =========================================

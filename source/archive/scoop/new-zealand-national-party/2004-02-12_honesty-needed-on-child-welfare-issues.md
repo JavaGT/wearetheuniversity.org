@@ -1,9 +1,12 @@
 ---
 slug: honesty-needed-on-child-welfare-issues
-title: "Honesty needed on child welfare issues"
-date: 2004-02-12
-source-url: https://www.scoop.co.nz/stories/PA0402/S00208/honesty-needed-on-child-welfare-issues.htm
+title: Honesty needed on child welfare issues
+date: 2004-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00208/honesty-needed-on-child-welfare-issues.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/12/honesty-needed-on-child-welfare-issues/index.html
+layout: layout.njk
 ---
 Honesty needed on child welfare issues
 ======================================

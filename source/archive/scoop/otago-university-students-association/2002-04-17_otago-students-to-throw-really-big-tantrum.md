@@ -1,9 +1,12 @@
 ---
 slug: otago-students-to-throw-really-big-tantrum
-title: "Otago Students To Throw \"Really Big Tantrum\""
-date: 2002-04-17
-source-url: https://www.scoop.co.nz/stories/ED0204/S00026/otago-students-to-throw-really-big-tantrum.htm
+title: Otago Students To Throw "Really Big Tantrum"
+date: 2002-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00026/otago-students-to-throw-really-big-tantrum.htm
 author: otago-university-students-association
+permalink: /archive/2002/04/17/otago-students-to-throw-really-big-tantrum/index.html
+layout: layout.njk
 ---
 Otago Students To Throw “Really Big Tantrum”
 ============================================

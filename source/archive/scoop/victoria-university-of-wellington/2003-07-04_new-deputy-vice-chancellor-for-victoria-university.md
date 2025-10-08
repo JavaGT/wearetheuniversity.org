@@ -1,9 +1,13 @@
 ---
 slug: new-deputy-vice-chancellor-for-victoria-university
-title: "New Deputy Vice-Chancellor For Victoria University"
-date: 2003-07-04
-source-url: https://www.scoop.co.nz/stories/ED0307/S00012/new-deputy-vice-chancellor-for-victoria-university.htm
+title: New Deputy Vice-Chancellor For Victoria University
+date: 2003-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00012/new-deputy-vice-chancellor-for-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/07/04/new-deputy-vice-chancellor-for-victoria-university/index.html
+layout: layout.njk
 ---
 New Deputy Vice-Chancellor For Victoria University
 ==================================================

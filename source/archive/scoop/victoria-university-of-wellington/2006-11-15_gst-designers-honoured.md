@@ -1,9 +1,11 @@
 ---
 slug: gst-designers-honoured
-title: "GST designers honoured"
-date: 2006-11-15
+title: GST designers honoured
+date: 2006-11-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0611/S00061/gst-designers-honoured.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/15/gst-designers-honoured/index.html
+layout: layout.njk
 ---
 GST designers honoured
 ======================

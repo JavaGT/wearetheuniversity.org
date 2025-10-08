@@ -1,9 +1,13 @@
 ---
 slug: uc-receives-us-patent-approval-for-digital-technology
-title: "UC Receives US Patent Approval for Digital Technology"
-date: 2013-08-09
-source-url: https://www.scoop.co.nz/stories/SC1308/S00021/uc-receives-us-patent-approval-for-digital-technology.htm
+title: UC Receives US Patent Approval for Digital Technology
+date: 2013-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00021/uc-receives-us-patent-approval-for-digital-technology.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/09/uc-receives-us-patent-approval-for-digital-technology/index.html
+layout: layout.njk
 ---
 UC Receives US Patent Approval for Digital Technology
 =====================================================

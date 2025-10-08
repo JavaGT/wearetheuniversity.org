@@ -1,9 +1,13 @@
 ---
 slug: health-qualifications-wellbeing-and-community-at-forefront
-title: "Health qualifications: wellbeing and community at forefront"
-date: 2019-08-12
-source-url: https://www.scoop.co.nz/stories/ED1908/S00025/health-qualifications-wellbeing-and-community-at-forefront.htm
+title: 'Health qualifications: wellbeing and community at forefront'
+date: 2019-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00025/health-qualifications-wellbeing-and-community-at-forefront.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/08/12/health-qualifications-wellbeing-and-community-at-forefront/index.html
+layout: layout.njk
 ---
 Health qualifications: wellbeing and community at forefront
 ===========================================================

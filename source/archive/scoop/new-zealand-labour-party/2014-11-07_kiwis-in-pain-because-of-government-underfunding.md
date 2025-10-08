@@ -1,9 +1,13 @@
 ---
 slug: kiwis-in-pain-because-of-government-underfunding
-title: "Kiwis in pain because of Government underfunding"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/PA1411/S00114/kiwis-in-pain-because-of-government-underfunding.htm
+title: Kiwis in pain because of Government underfunding
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00114/kiwis-in-pain-because-of-government-underfunding.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/11/07/kiwis-in-pain-because-of-government-underfunding/index.html
+layout: layout.njk
 ---
 Kiwis in pain because of Government underfunding
 ================================================

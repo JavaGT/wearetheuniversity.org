@@ -1,9 +1,12 @@
 ---
 slug: employment-a-key-driver-for-whanau-rahui-katene
-title: "Employment a key driver for Whanau - Rahui Katene"
-date: 2011-02-04
-source-url: https://www.scoop.co.nz/stories/PA1102/S00058/employment-a-key-driver-for-whanau-rahui-katene.htm
+title: Employment a key driver for Whanau - Rahui Katene
+date: 2011-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00058/employment-a-key-driver-for-whanau-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2011/02/04/employment-a-key-driver-for-whanau-rahui-katene/index.html
+layout: layout.njk
 ---
 Employment a key driver for Whanau - Rahui Katene
 =================================================

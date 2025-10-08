@@ -1,9 +1,12 @@
 ---
 slug: māori-and-pasifika-from-sports-field-to-boardroom
-title: "Māori and Pasifika – from sports field to boardroom"
-date: 2013-04-19
-source-url: https://www.scoop.co.nz/stories/ED1304/S00125/maori-and-pasifika-from-sports-field-to-boardroom.htm
+title: Māori and Pasifika – from sports field to boardroom
+date: 2013-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00125/maori-and-pasifika-from-sports-field-to-boardroom.htm
 author: massey-university
+permalink: /archive/2013/04/19/m/index.html
+layout: layout.njk
 ---
 Māori and Pasifika – from sports field to boardroom
 ===================================================

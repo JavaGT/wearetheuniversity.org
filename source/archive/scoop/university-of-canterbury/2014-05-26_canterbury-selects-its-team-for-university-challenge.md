@@ -1,9 +1,13 @@
 ---
 slug: canterbury-selects-its-team-for-university-challenge
-title: "Canterbury selects its team for  University Challenge"
-date: 2014-05-26
-source-url: https://www.scoop.co.nz/stories/ED1405/S00125/canterbury-selects-its-team-for-university-challenge.htm
+title: Canterbury selects its team for  University Challenge
+date: 2014-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00125/canterbury-selects-its-team-for-university-challenge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/26/canterbury-selects-its-team-for-university-challenge/index.html
+layout: layout.njk
 ---
 Canterbury selects its team for University Challenge
 ====================================================

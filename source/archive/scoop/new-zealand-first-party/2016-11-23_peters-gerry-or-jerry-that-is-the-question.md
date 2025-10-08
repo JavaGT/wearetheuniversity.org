@@ -1,9 +1,12 @@
 ---
 slug: peters-gerry-or-jerry-that-is-the-question
-title: "Peters: Gerry or Jerry? That is the question"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/PA1611/S00441/peters-gerry-or-jerry-that-is-the-question.htm
+title: 'Peters: Gerry or Jerry? That is the question'
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00441/peters-gerry-or-jerry-that-is-the-question.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/23/peters-gerry-or-jerry-that-is-the-question/index.html
+layout: layout.njk
 ---
 Peters: Gerry or Jerry? That is the question
 ============================================

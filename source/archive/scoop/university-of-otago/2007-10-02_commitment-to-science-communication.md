@@ -1,9 +1,12 @@
 ---
 slug: commitment-to-science-communication
-title: "Commitment to Science Communication"
-date: 2007-10-02
-source-url: https://www.scoop.co.nz/stories/AK0710/S00012/commitment-to-science-communication.htm
+title: Commitment to Science Communication
+date: 2007-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0710/S00012/commitment-to-science-communication.htm
 author: university-of-otago
+permalink: /archive/2007/10/02/commitment-to-science-communication/index.html
+layout: layout.njk
 ---
 Commitment to Science Communication
 ===================================

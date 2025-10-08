@@ -1,9 +1,11 @@
 ---
 slug: pasture-and-flock
-title: "Pasture and Flock"
-date: 2018-01-25
+title: Pasture and Flock
+date: 2018-01-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1801/S00221/pasture-and-flock.htm
 author: auckland-university-press
+permalink: /archive/2018/01/25/pasture-and-flock/index.html
+layout: layout.njk
 ---
 Pasture and Flock
 =================

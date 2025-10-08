@@ -1,9 +1,12 @@
 ---
 slug: te-mana-ākonga-māori-electoral-option
-title: "Te Mana Ākonga - Māori Electoral Option"
-date: 2006-08-02
-source-url: https://www.scoop.co.nz/stories/ED0608/S00009/te-mana-akonga-maori-electoral-option.htm
+title: Te Mana Ākonga - Māori Electoral Option
+date: 2006-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00009/te-mana-akonga-maori-electoral-option.htm
 author: te-mana-akonga
+permalink: /archive/2006/08/02/te-mana-/index.html
+layout: layout.njk
 ---
 Te Mana Ākonga - Māori Electoral Option
 =======================================

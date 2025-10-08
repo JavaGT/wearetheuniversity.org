@@ -1,9 +1,12 @@
 ---
 slug: awaroa-a-victory-for-our-grandchildren
-title: "Awaroa a victory for our grandchildren"
-date: 2016-02-24
-source-url: https://www.scoop.co.nz/stories/PA1602/S00345/awaroa-a-victory-for-our-grandchildren.htm
+title: Awaroa a victory for our grandchildren
+date: 2016-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00345/awaroa-a-victory-for-our-grandchildren.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/24/awaroa-a-victory-for-our-grandchildren/index.html
+layout: layout.njk
 ---
 Awaroa a victory for our grandchildren
 ======================================

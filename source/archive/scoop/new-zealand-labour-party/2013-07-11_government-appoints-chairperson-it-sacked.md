@@ -1,9 +1,12 @@
 ---
 slug: government-appoints-chairperson-it-sacked
-title: "Government appoints chairperson it sacked"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/PA1307/S00198/government-appoints-chairperson-it-sacked.htm
+title: Government appoints chairperson it sacked
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00198/government-appoints-chairperson-it-sacked.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/11/government-appoints-chairperson-it-sacked/index.html
+layout: layout.njk
 ---
 Government appoints chairperson it sacked
 =========================================

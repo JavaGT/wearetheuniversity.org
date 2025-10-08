@@ -1,9 +1,12 @@
 ---
 slug: winston-is-stuck-in-the-past-over-super
-title: "Winston is stuck in the past over Super"
-date: 2017-03-06
-source-url: https://www.scoop.co.nz/stories/PA1703/S00075/winston-is-stuck-in-the-past-over-super.htm
+title: Winston is stuck in the past over Super
+date: 2017-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00075/winston-is-stuck-in-the-past-over-super.htm
 author: act-new-zealand
+permalink: /archive/2017/03/06/winston-is-stuck-in-the-past-over-super/index.html
+layout: layout.njk
 ---
 Winston is stuck in the past over Super
 =======================================

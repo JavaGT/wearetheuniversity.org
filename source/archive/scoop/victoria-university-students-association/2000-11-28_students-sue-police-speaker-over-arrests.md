@@ -1,9 +1,12 @@
 ---
 slug: students-sue-police-speaker-over-arrests
-title: "Students Sue Police/Speaker Over Arrests"
-date: 2000-11-28
-source-url: https://www.scoop.co.nz/stories/ED0011/S00037/students-sue-policespeaker-over-arrests.htm
+title: Students Sue Police/Speaker Over Arrests
+date: 2000-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00037/students-sue-policespeaker-over-arrests.htm
 author: victoria-university-students-association
+permalink: /archive/2000/11/28/students-sue-police-speaker-over-arrests/index.html
+layout: layout.njk
 ---
 Students Sue Police/Speaker Over Arrests
 ========================================

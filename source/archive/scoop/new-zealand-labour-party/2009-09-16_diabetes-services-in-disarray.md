@@ -1,9 +1,12 @@
 ---
 slug: diabetes-services-in-disarray
-title: "Diabetes services in disarray"
-date: 2009-09-16
-source-url: https://www.scoop.co.nz/stories/PA0909/S00229/diabetes-services-in-disarray.htm
+title: Diabetes services in disarray
+date: 2009-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00229/diabetes-services-in-disarray.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/16/diabetes-services-in-disarray/index.html
+layout: layout.njk
 ---
 Diabetes services in disarray
 =============================

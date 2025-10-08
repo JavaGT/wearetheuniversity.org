@@ -1,9 +1,12 @@
 ---
 slug: speech-douglas-no-second-class-citizens
-title: "Speech: Douglas - No Second Class Citizens"
-date: 2009-06-19
-source-url: https://www.scoop.co.nz/stories/PA0906/S00272/speech-douglas-no-second-class-citizens.htm
+title: 'Speech: Douglas - No Second Class Citizens'
+date: 2009-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00272/speech-douglas-no-second-class-citizens.htm
 author: act-new-zealand
+permalink: /archive/2009/06/19/speech-douglas-no-second-class-citizens/index.html
+layout: layout.njk
 ---
 Speech: Douglas - No Second Class Citizens
 ==========================================

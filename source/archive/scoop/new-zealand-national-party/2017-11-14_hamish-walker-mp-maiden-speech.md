@@ -1,9 +1,12 @@
 ---
 slug: hamish-walker-mp-maiden-speech
-title: "Hamish Walker MP: Maiden speech"
-date: 2017-11-14
-source-url: https://www.scoop.co.nz/stories/PA1711/S00086/hamish-walker-mp-maiden-speech.htm
+title: 'Hamish Walker MP: Maiden speech'
+date: 2017-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00086/hamish-walker-mp-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/14/hamish-walker-mp-maiden-speech/index.html
+layout: layout.njk
 ---
 Hamish Walker MP: Maiden speech
 ===============================

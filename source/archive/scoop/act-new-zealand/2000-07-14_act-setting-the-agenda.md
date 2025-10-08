@@ -1,9 +1,11 @@
 ---
 slug: act-setting-the-agenda
-title: "ACT – Setting The Agenda"
-date: 2000-07-14
+title: ACT – Setting The Agenda
+date: 2000-07-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0007/S00228/act-setting-the-agenda.htm
 author: act-new-zealand
+permalink: /archive/2000/07/14/act-setting-the-agenda/index.html
+layout: layout.njk
 ---
 ACT – Setting The Agenda
 ========================

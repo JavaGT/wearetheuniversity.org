@@ -1,9 +1,12 @@
 ---
 slug: high-risk-institutions-tip-of-tertiary-iceberg
-title: "High risk institutions tip of tertiary iceberg"
-date: 2015-12-11
-source-url: https://www.scoop.co.nz/stories/PA1512/S00268/high-risk-institutions-tip-of-tertiary-iceberg.htm
+title: High risk institutions tip of tertiary iceberg
+date: 2015-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00268/high-risk-institutions-tip-of-tertiary-iceberg.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/11/high-risk-institutions-tip-of-tertiary-iceberg/index.html
+layout: layout.njk
 ---
 High risk institutions tip of tertiary iceberg
 ==============================================

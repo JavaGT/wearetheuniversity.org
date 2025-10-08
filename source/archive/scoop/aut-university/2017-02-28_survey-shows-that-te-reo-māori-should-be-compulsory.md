@@ -1,9 +1,12 @@
 ---
 slug: survey-shows-that-te-reo-māori-should-be-compulsory
-title: "Survey shows that Te Reo Māori should be compulsory"
-date: 2017-02-28
-source-url: https://www.scoop.co.nz/stories/ED1702/S00083/survey-shows-that-te-reo-maori-should-be-compulsory.htm
+title: Survey shows that Te Reo Māori should be compulsory
+date: 2017-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00083/survey-shows-that-te-reo-maori-should-be-compulsory.htm
 author: aut-university
+permalink: /archive/2017/02/28/survey-shows-that-te-reo-m/index.html
+layout: layout.njk
 ---
 Survey shows that Te Reo Māori should be compulsory
 ===================================================

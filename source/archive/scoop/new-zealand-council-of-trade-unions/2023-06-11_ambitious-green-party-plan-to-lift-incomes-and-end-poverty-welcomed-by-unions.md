@@ -1,9 +1,13 @@
 ---
 slug: ambitious-green-party-plan-to-lift-incomes-and-end-poverty-welcomed-by-unions
-title: "Ambitious Green Party Plan To Lift Incomes And End Poverty Welcomed By Unions"
-date: 2023-06-11
-source-url: https://www.scoop.co.nz/stories/PO2306/S00083/ambitious-green-party-plan-to-lift-incomes-and-end-poverty-welcomed-by-unions.htm
+title: Ambitious Green Party Plan To Lift Incomes And End Poverty Welcomed By Unions
+date: 2023-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00083/ambitious-green-party-plan-to-lift-incomes-and-end-poverty-welcomed-by-unions.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2023/06/11/ambitious-green-party-plan-to-lift-incomes-and-end-poverty-welcomed-by-unions/index.html
+layout: layout.njk
 ---
 Ambitious Green Party Plan To Lift Incomes And End Poverty Welcomed By Unions
 =============================================================================

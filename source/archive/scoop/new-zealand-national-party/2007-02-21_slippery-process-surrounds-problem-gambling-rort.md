@@ -1,9 +1,13 @@
 ---
 slug: slippery-process-surrounds-problem-gambling-rort
-title: "Slippery process surrounds problem gambling rort"
-date: 2007-02-21
-source-url: https://www.scoop.co.nz/stories/GE0702/S00052/slippery-process-surrounds-problem-gambling-rort.htm
+title: Slippery process surrounds problem gambling rort
+date: 2007-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0702/S00052/slippery-process-surrounds-problem-gambling-rort.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/02/21/slippery-process-surrounds-problem-gambling-rort/index.html
+layout: layout.njk
 ---
 Slippery process surrounds problem gambling rort
 ================================================

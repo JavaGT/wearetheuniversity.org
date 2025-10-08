@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-biosecurity-amendment-bill
-title: "Speech: Flavell - Biosecurity Amendment Bill"
-date: 2009-11-27
-source-url: https://www.scoop.co.nz/stories/PA0911/S00426/speech-flavell-biosecurity-amendment-bill.htm
+title: 'Speech: Flavell - Biosecurity Amendment Bill'
+date: 2009-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00426/speech-flavell-biosecurity-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/11/27/speech-flavell-biosecurity-amendment-bill/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Biosecurity Amendment Bill
 ============================================

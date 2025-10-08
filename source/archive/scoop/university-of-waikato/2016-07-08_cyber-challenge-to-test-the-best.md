@@ -1,9 +1,12 @@
 ---
 slug: cyber-challenge-to-test-the-best
-title: "Cyber challenge to test the best"
-date: 2016-07-08
-source-url: https://www.scoop.co.nz/stories/ED1607/S00039/cyber-challenge-to-test-the-best.htm
+title: Cyber challenge to test the best
+date: 2016-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00039/cyber-challenge-to-test-the-best.htm
 author: university-of-waikato
+permalink: /archive/2016/07/08/cyber-challenge-to-test-the-best/index.html
+layout: layout.njk
 ---
 Cyber challenge to test the best
 ================================

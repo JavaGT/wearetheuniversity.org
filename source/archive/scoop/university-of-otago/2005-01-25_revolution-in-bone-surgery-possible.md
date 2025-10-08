@@ -1,9 +1,12 @@
 ---
 slug: revolution-in-bone-surgery-possible
-title: "Revolution In Bone Surgery Possible"
-date: 2005-01-25
-source-url: https://www.scoop.co.nz/stories/SC0501/S00036/revolution-in-bone-surgery-possible.htm
+title: Revolution In Bone Surgery Possible
+date: 2005-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0501/S00036/revolution-in-bone-surgery-possible.htm
 author: university-of-otago
+permalink: /archive/2005/01/25/revolution-in-bone-surgery-possible/index.html
+layout: layout.njk
 ---
 Revolution In Bone Surgery Possible
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-students-winning-idea-puts-culture-online
-title: "Waikato student’s winning idea puts culture online"
-date: 2009-03-30
-source-url: https://www.scoop.co.nz/stories/CU0903/S00400/waikato-students-winning-idea-puts-culture-online.htm
+title: Waikato student’s winning idea puts culture online
+date: 2009-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0903/S00400/waikato-students-winning-idea-puts-culture-online.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/03/30/waikato-students-winning-idea-puts-culture-online/index.html
+layout: layout.njk
 ---
 Waikato student’s winning idea puts culture online
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: ausa-fees-maxima-as-a-step-in-the-right-direction
-title: "AUSA: Fees Maxima As A Step In The Right Direction"
-date: 2003-08-21
-source-url: https://www.scoop.co.nz/stories/ED0308/S00081/ausa-fees-maxima-as-a-step-in-the-right-direction.htm
+title: 'AUSA: Fees Maxima As A Step In The Right Direction'
+date: 2003-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00081/ausa-fees-maxima-as-a-step-in-the-right-direction.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2003/08/21/ausa-fees-maxima-as-a-step-in-the-right-direction/index.html
+layout: layout.njk
 ---
 AUSA: Fees Maxima As A Step In The Right Direction
 ==================================================

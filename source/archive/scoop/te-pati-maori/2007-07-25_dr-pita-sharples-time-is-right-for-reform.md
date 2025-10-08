@@ -1,9 +1,12 @@
 ---
 slug: dr-pita-sharples-time-is-right-for-reform
-title: "Dr Pita Sharples - Time Is Right For Reform"
-date: 2007-07-25
-source-url: https://www.scoop.co.nz/stories/PA0707/S00400/dr-pita-sharples-time-is-right-for-reform.htm
+title: Dr Pita Sharples - Time Is Right For Reform
+date: 2007-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00400/dr-pita-sharples-time-is-right-for-reform.htm
 author: te-pati-maori
+permalink: /archive/2007/07/25/dr-pita-sharples-time-is-right-for-reform/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples - Time Is Right For Reform
 ===========================================

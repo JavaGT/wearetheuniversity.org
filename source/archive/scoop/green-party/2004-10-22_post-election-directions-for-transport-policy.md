@@ -1,9 +1,12 @@
 ---
 slug: post-election-directions-for-transport-policy
-title: "Post-election directions for transport policy"
-date: 2004-10-22
-source-url: https://www.scoop.co.nz/stories/PO0410/S00227/post-election-directions-for-transport-policy.htm
+title: Post-election directions for transport policy
+date: 2004-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0410/S00227/post-election-directions-for-transport-policy.htm
 author: green-party
+permalink: /archive/2004/10/22/post-election-directions-for-transport-policy/index.html
+layout: layout.njk
 ---
 Post-election directions for transport policy
 =============================================

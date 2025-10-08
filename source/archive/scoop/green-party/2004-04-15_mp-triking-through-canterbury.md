@@ -1,9 +1,12 @@
 ---
 slug: mp-triking-through-canterbury
-title: "MP triking through Canterbury"
-date: 2004-04-15
-source-url: https://www.scoop.co.nz/stories/PA0404/S00227/mp-triking-through-canterbury.htm
+title: MP triking through Canterbury
+date: 2004-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00227/mp-triking-through-canterbury.htm
 author: green-party
+permalink: /archive/2004/04/15/mp-triking-through-canterbury/index.html
+layout: layout.njk
 ---
 MP triking through Canterbury
 =============================

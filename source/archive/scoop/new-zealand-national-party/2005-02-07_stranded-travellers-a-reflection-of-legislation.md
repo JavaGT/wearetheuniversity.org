@@ -1,9 +1,12 @@
 ---
 slug: stranded-travellers-a-reflection-of-legislation
-title: "Stranded travellers a reflection of legislation"
-date: 2005-02-07
-source-url: https://www.scoop.co.nz/stories/PA0502/S00129/stranded-travellers-a-reflection-of-legislation.htm
+title: Stranded travellers a reflection of legislation
+date: 2005-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00129/stranded-travellers-a-reflection-of-legislation.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/07/stranded-travellers-a-reflection-of-legislation/index.html
+layout: layout.njk
 ---
 Stranded travellers a reflection of legislation
 ===============================================

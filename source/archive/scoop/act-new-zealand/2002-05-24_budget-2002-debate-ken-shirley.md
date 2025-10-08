@@ -1,9 +1,12 @@
 ---
 slug: budget-2002-debate-ken-shirley
-title: "Budget 2002 Debate -- Ken Shirley"
-date: 2002-05-24
-source-url: https://www.scoop.co.nz/stories/PA0205/S00585/budget-2002-debate-ken-shirley.htm
+title: Budget 2002 Debate -- Ken Shirley
+date: 2002-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00585/budget-2002-debate-ken-shirley.htm
 author: act-new-zealand
+permalink: /archive/2002/05/24/budget-2002-debate-ken-shirley/index.html
+layout: layout.njk
 ---
 Budget 2002 Debate -- Ken Shirley
 =================================

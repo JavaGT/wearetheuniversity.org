@@ -1,9 +1,12 @@
 ---
 slug: axing-loan-interest-will-help-indebted-teachers
-title: "Axing Loan Interest Will Help Indebted Teachers"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/ED0507/S00101/axing-loan-interest-will-help-indebted-teachers.htm
+title: Axing Loan Interest Will Help Indebted Teachers
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00101/axing-loan-interest-will-help-indebted-teachers.htm
 author: nzei
+permalink: /archive/2005/07/26/axing-loan-interest-will-help-indebted-teachers/index.html
+layout: layout.njk
 ---
 Axing Loan Interest Will Help Indebted Teachers
 ===============================================

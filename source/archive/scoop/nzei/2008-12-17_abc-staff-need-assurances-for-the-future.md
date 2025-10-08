@@ -1,9 +1,12 @@
 ---
 slug: abc-staff-need-assurances-for-the-future
-title: "ABC Staff Need Assurances For The Future"
-date: 2008-12-17
-source-url: https://www.scoop.co.nz/stories/ED0812/S00069/abc-staff-need-assurances-for-the-future.htm
+title: ABC Staff Need Assurances For The Future
+date: 2008-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00069/abc-staff-need-assurances-for-the-future.htm
 author: nzei
+permalink: /archive/2008/12/17/abc-staff-need-assurances-for-the-future/index.html
+layout: layout.njk
 ---
 ABC Staff Need Assurances For The Future
 ========================================

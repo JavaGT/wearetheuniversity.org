@@ -1,9 +1,13 @@
 ---
 slug: speech-paul-goldsmith-to-canterbury-chamber-of-commerce
-title: "SPEECH: Paul Goldsmith to Canterbury Chamber of Commerce"
-date: 2019-10-02
-source-url: https://www.scoop.co.nz/stories/PA1910/S00010/speech-paul-goldsmith-to-canterbury-chamber-of-commerce.htm
+title: 'SPEECH: Paul Goldsmith to Canterbury Chamber of Commerce'
+date: 2019-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00010/speech-paul-goldsmith-to-canterbury-chamber-of-commerce.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/10/02/speech-paul-goldsmith-to-canterbury-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 SPEECH: Paul Goldsmith to Canterbury Chamber of Commerce
 ========================================================

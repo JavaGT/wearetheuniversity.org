@@ -1,9 +1,12 @@
 ---
 slug: no-pacific-prosperity-without-worker-prosperity
-title: "No Pacific Prosperity without worker prosperity"
-date: 2005-11-23
-source-url: https://www.scoop.co.nz/stories/PO0511/S00181/no-pacific-prosperity-without-worker-prosperity.htm
+title: No Pacific Prosperity without worker prosperity
+date: 2005-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0511/S00181/no-pacific-prosperity-without-worker-prosperity.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/11/23/no-pacific-prosperity-without-worker-prosperity/index.html
+layout: layout.njk
 ---
 No Pacific Prosperity without worker prosperity
 ===============================================

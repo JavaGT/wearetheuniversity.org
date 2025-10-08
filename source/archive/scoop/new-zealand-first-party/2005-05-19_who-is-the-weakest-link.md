@@ -1,9 +1,11 @@
 ---
 slug: who-is-the-weakest-link
-title: "Who is the Weakest Link?"
-date: 2005-05-19
+title: Who is the Weakest Link?
+date: 2005-05-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0505/S00513/who-is-the-weakest-link.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/19/who-is-the-weakest-link/index.html
+layout: layout.njk
 ---
 Who is the Weakest Link?
 ========================

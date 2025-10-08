@@ -1,9 +1,13 @@
 ---
 slug: local-mps-welcome-singapore-airlines-to-wellington
-title: "Local MPs welcome Singapore Airlines to Wellington"
-date: 2016-01-20
-source-url: https://www.scoop.co.nz/stories/PA1601/S00069/local-mps-welcome-singapore-airlines-to-wellington.htm
+title: Local MPs welcome Singapore Airlines to Wellington
+date: 2016-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00069/local-mps-welcome-singapore-airlines-to-wellington.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/01/20/local-mps-welcome-singapore-airlines-to-wellington/index.html
+layout: layout.njk
 ---
 Local MPs welcome Singapore Airlines to Wellington
 ==================================================

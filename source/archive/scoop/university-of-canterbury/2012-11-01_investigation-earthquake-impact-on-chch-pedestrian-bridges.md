@@ -1,9 +1,13 @@
 ---
 slug: investigation-earthquake-impact-on-chch-pedestrian-bridges
-title: "Investigation: Earthquake Impact On Chch Pedestrian Bridges"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/SC1211/S00003/investigation-earthquake-impact-on-chch-pedestrian-bridges.htm
+title: 'Investigation: Earthquake Impact On Chch Pedestrian Bridges'
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00003/investigation-earthquake-impact-on-chch-pedestrian-bridges.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/01/investigation-earthquake-impact-on-chch-pedestrian-bridges/index.html
+layout: layout.njk
 ---
 Investigation: Earthquake Impact On Chch Pedestrian Bridges
 ===========================================================

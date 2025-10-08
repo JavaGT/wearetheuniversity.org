@@ -1,9 +1,12 @@
 ---
 slug: new-research-towards-a-smokefree-wellington
-title: "New research towards a Smokefree Wellington"
-date: 2017-03-29
-source-url: https://www.scoop.co.nz/stories/AK1703/S00921/new-research-towards-a-smokefree-wellington.htm
+title: New research towards a Smokefree Wellington
+date: 2017-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1703/S00921/new-research-towards-a-smokefree-wellington.htm
 author: university-of-otago
+permalink: /archive/2017/03/29/new-research-towards-a-smokefree-wellington/index.html
+layout: layout.njk
 ---
 New research towards a Smokefree Wellington
 ===========================================

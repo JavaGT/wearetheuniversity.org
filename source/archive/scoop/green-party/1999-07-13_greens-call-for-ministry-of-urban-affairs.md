@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-ministry-of-urban-affairs
-title: "Greens Call For Ministry Of Urban Affairs"
-date: 1999-07-13
-source-url: https://www.scoop.co.nz/stories/PA9907/S00203/greens-call-for-ministry-of-urban-affairs.htm
+title: Greens Call For Ministry Of Urban Affairs
+date: 1999-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00203/greens-call-for-ministry-of-urban-affairs.htm
 author: green-party
+permalink: /archive/1999/07/13/greens-call-for-ministry-of-urban-affairs/index.html
+layout: layout.njk
 ---
 Greens Call For Ministry Of Urban Affairs
 =========================================

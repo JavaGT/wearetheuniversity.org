@@ -1,9 +1,13 @@
 ---
 slug: lincoln-student-in-frontline-of-battle-against-stink-bug
-title: "Lincoln student in frontline of battle against stink bug"
-date: 2015-03-11
-source-url: https://www.scoop.co.nz/stories/SC1503/S00042/lincoln-student-in-frontline-of-battle-against-stink-bug.htm
+title: Lincoln student in frontline of battle against stink bug
+date: 2015-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00042/lincoln-student-in-frontline-of-battle-against-stink-bug.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/03/11/lincoln-student-in-frontline-of-battle-against-stink-bug/index.html
+layout: layout.njk
 ---
 Lincoln student in frontline of battle against stink bug
 ========================================================

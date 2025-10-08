@@ -1,9 +1,13 @@
 ---
 slug: minister-must-intervene-to-stop-ni-health-strikes
-title: "Minister must intervene to stop NI health strikes"
-date: 2002-10-11
-source-url: https://www.scoop.co.nz/stories/PA0210/S00230/minister-must-intervene-to-stop-ni-health-strikes.htm
+title: Minister must intervene to stop NI health strikes
+date: 2002-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00230/minister-must-intervene-to-stop-ni-health-strikes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/10/11/minister-must-intervene-to-stop-ni-health-strikes/index.html
+layout: layout.njk
 ---
 Minister must intervene to stop NI health strikes
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-cannot-dodge-plummeting-student-allowance
-title: "Govt Cannot Dodge Plummeting Student Allowance"
-date: 2005-05-02
-source-url: https://www.scoop.co.nz/stories/PA0505/S00010/govt-cannot-dodge-plummeting-student-allowance.htm
+title: Govt Cannot Dodge Plummeting Student Allowance
+date: 2005-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00010/govt-cannot-dodge-plummeting-student-allowance.htm
 author: green-party
+permalink: /archive/2005/05/02/govt-cannot-dodge-plummeting-student-allowance/index.html
+layout: layout.njk
 ---
 Govt Cannot Dodge Plummeting Student Allowance
 ==============================================

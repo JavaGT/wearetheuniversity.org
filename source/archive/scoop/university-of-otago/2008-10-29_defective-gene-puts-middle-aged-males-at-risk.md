@@ -1,9 +1,12 @@
 ---
 slug: defective-gene-puts-middle-aged-males-at-risk
-title: "Defective gene puts middle aged males at risk"
-date: 2008-10-29
-source-url: https://www.scoop.co.nz/stories/GE0810/S00135/defective-gene-puts-middle-aged-males-at-risk.htm
+title: Defective gene puts middle aged males at risk
+date: 2008-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0810/S00135/defective-gene-puts-middle-aged-males-at-risk.htm
 author: university-of-otago
+permalink: /archive/2008/10/29/defective-gene-puts-middle-aged-males-at-risk/index.html
+layout: layout.njk
 ---
 Defective gene puts middle aged males at risk
 =============================================

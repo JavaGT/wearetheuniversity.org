@@ -1,9 +1,12 @@
 ---
 slug: get-in-the-know-at-study-at-vic-day-2007
-title: "Get in the know at Study at Vic Day 2007"
-date: 2007-08-21
-source-url: https://www.scoop.co.nz/stories/ED0708/S00055/get-in-the-know-at-study-at-vic-day-2007.htm
+title: Get in the know at Study at Vic Day 2007
+date: 2007-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00055/get-in-the-know-at-study-at-vic-day-2007.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/21/get-in-the-know-at-study-at-vic-day-2007/index.html
+layout: layout.njk
 ---
 Get in the know at Study at Vic Day 2007
 ========================================

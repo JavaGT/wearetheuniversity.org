@@ -1,9 +1,12 @@
 ---
 slug: interactive-webinars-tackle-racism-in-aotearoa
-title: "Interactive Webinars Tackle Racism In Aotearoa"
-date: 2020-03-05
-source-url: https://www.scoop.co.nz/stories/AK2003/S00060/interactive-webinars-tackle-racism-in-aotearoa.htm
+title: Interactive Webinars Tackle Racism In Aotearoa
+date: 2020-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2003/S00060/interactive-webinars-tackle-racism-in-aotearoa.htm
 author: aut-university
+permalink: /archive/2020/03/05/interactive-webinars-tackle-racism-in-aotearoa/index.html
+layout: layout.njk
 ---
 Interactive Webinars Tackle Racism In Aotearoa
 ==============================================
@@ -26,14 +29,7 @@ People need open access to Tiriti information and education, she says.
 The webinars will be posted online as resources for Tiriti education and anti-racism activism. More assets will be added over time.
 
 Dr Came is one of the event organisers, together with Alex Hotere-Barnes, Kassie Hartendorp, Stephen Blyth and Kate Matheson. The group has considerable experience in activism, research and community development, and relationships with Māori based on mutual trust and respect established over decades of _mahi_.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “We want to provide a deeper understanding of injustices in Aotearoa and around the world, and ideas on how to disrupt them. These webinars are an opportunity to hear a diverse range of voices and perspectives beyond the people you usually hang-out with,” says Dr Came.
+“We want to provide a deeper understanding of injustices in Aotearoa and around the world, and ideas on how to disrupt them. These webinars are an opportunity to hear a diverse range of voices and perspectives beyond the people you usually hang-out with,” says Dr Came.
 
 “International audiences will be interested to learn about the dynamics of decolonisation in New Zealand and gather ideas that may work in other parts of the world.”
 

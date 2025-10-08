@@ -1,9 +1,12 @@
 ---
 slug: agreement-builds-on-greening-goals
-title: "Agreement builds on greening goals"
-date: 2016-01-14
-source-url: https://www.scoop.co.nz/stories/PO1601/S00061/agreement-builds-on-greening-goals.htm
+title: Agreement builds on greening goals
+date: 2016-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1601/S00061/agreement-builds-on-greening-goals.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/01/14/agreement-builds-on-greening-goals/index.html
+layout: layout.njk
 ---
 Agreement builds on greening goals
 ==================================

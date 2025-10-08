@@ -1,9 +1,12 @@
 ---
 slug: correspondence-school-dropout-zone
-title: "Correspondence School - dropout zone"
-date: 2007-08-09
-source-url: https://www.scoop.co.nz/stories/PA0708/S00161/correspondence-school-dropout-zone.htm
+title: Correspondence School - dropout zone
+date: 2007-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00161/correspondence-school-dropout-zone.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/09/correspondence-school-dropout-zone/index.html
+layout: layout.njk
 ---
 Correspondence School - dropout zone
 ====================================

@@ -1,9 +1,11 @@
 ---
 slug: smart-arts-ousa-art-week
-title: "Smart Arts: OUSA Art Week"
-date: 2014-07-28
+title: 'Smart Arts: OUSA Art Week'
+date: 2014-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1407/S00443/smart-arts-ousa-art-week.htm
 author: ousa
+permalink: /archive/2014/07/28/smart-arts-ousa-art-week/index.html
+layout: layout.njk
 ---
 Smart Arts: OUSA Art Week
 =========================

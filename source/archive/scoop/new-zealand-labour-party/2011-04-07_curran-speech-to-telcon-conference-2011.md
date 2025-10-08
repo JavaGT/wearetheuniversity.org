@@ -1,9 +1,12 @@
 ---
 slug: curran-speech-to-telcon-conference-2011
-title: "Curran: Speech to Telcon Conference 2011"
-date: 2011-04-07
-source-url: https://www.scoop.co.nz/stories/PA1104/S00155/curran-speech-to-telcon-conference-2011.htm
+title: 'Curran: Speech to Telcon Conference 2011'
+date: 2011-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00155/curran-speech-to-telcon-conference-2011.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/07/curran-speech-to-telcon-conference-2011/index.html
+layout: layout.njk
 ---
 Curran: Speech to Telcon Conference 2011
 ========================================

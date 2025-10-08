@@ -1,9 +1,13 @@
 ---
 slug: forty-years-since-talkback-was-born-in-masterton
-title: "Forty Years Since Talkback Was Born In Masterton"
-date: 2000-10-03
-source-url: https://www.scoop.co.nz/stories/CU0010/S00005/forty-years-since-talkback-was-born-in-masterton.htm
+title: Forty Years Since Talkback Was Born In Masterton
+date: 2000-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0010/S00005/forty-years-since-talkback-was-born-in-masterton.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2000/10/03/forty-years-since-talkback-was-born-in-masterton/index.html
+layout: layout.njk
 ---
 Forty Years Since Talkback Was Born In Masterton
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: aut-the-most-improved-university
-title: "AUT the most improved university"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/ED0705/S00010/aut-the-most-improved-university.htm
+title: AUT the most improved university
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00010/aut-the-most-improved-university.htm
 author: aut-university
+permalink: /archive/2007/05/04/aut-the-most-improved-university/index.html
+layout: layout.njk
 ---
 AUT the most improved university
 ================================

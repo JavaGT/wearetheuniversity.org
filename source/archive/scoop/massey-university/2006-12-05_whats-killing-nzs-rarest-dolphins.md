@@ -1,9 +1,12 @@
 ---
 slug: whats-killing-nzs-rarest-dolphins
-title: "What’s killing NZ’s rarest dolphins?"
-date: 2006-12-05
-source-url: https://www.scoop.co.nz/stories/SC0612/S00012/whats-killing-nzs-rarest-dolphins.htm
+title: What’s killing NZ’s rarest dolphins?
+date: 2006-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0612/S00012/whats-killing-nzs-rarest-dolphins.htm
 author: massey-university
+permalink: /archive/2006/12/05/whats-killing-nzs-rarest-dolphins/index.html
+layout: layout.njk
 ---
 What’s killing NZ’s rarest dolphins?
 ====================================

@@ -1,9 +1,18 @@
 ---
+layout: layout.njk
 title: Vice Chancellor Dawn Freshwater Resigns from Auckland University
 slug: vice-chancellor-dawn-freshwater-resigns-from-auckland-university
-date: 2025-06-11
+date: 2025-06-11T00:00:00.000Z
 author: We Are The University
 author-slug: we-are-the-university
+permalink: >-
+  /blog/2025/06/11/vice-chancellor-dawn-freshwater-resigns-from-auckland-university/index.html
+excerpt: >-
+  Professor Dawn Freshwater has announced that she will step down as
+  ViceChancellor in early 2026, we acknowledge her service during unprecedented
+  times in Aotearoa. While We Are The University has strongly disagreed with key
+  consolidation and costsaving measures under her leadership – measures which
+  externalised costs onto students and staff...
 ---
 
 Professor Dawn Freshwater has announced that she will step down as Vice-Chancellor in early 2026, we acknowledge her service during unprecedented times in Aotearoa. While We Are The University has strongly disagreed with key consolidation and cost-saving measures under her leadership – measures which externalised costs onto students and staff – we recognise she too faced immense political pressures. We particularly value her work defending the place of matauranga Māori in the university against attacks both within and external to the university, and wish her well in future endeavours.

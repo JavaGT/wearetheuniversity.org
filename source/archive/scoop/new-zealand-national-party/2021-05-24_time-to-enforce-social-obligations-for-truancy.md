@@ -1,9 +1,12 @@
 ---
 slug: time-to-enforce-social-obligations-for-truancy
-title: "Time To Enforce Social Obligations For Truancy"
-date: 2021-05-24
-source-url: https://www.scoop.co.nz/stories/PA2105/S00208/time-to-enforce-social-obligations-for-truancy.htm
+title: Time To Enforce Social Obligations For Truancy
+date: 2021-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00208/time-to-enforce-social-obligations-for-truancy.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/24/time-to-enforce-social-obligations-for-truancy/index.html
+layout: layout.njk
 ---
 Time To Enforce Social Obligations For Truancy
 ==============================================

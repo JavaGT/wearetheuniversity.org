@@ -1,9 +1,12 @@
 ---
 slug: better-pay-for-good-teachers-we-hear-ya!
-title: "Better Pay For Good Teachers? We Hear Ya!"
-date: 2023-01-18
-source-url: https://www.scoop.co.nz/stories/PO2301/S00025/better-pay-for-good-teachers-we-hear-ya.htm
+title: Better Pay For Good Teachers? We Hear Ya!
+date: 2023-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2301/S00025/better-pay-for-good-teachers-we-hear-ya.htm
 author: act-new-zealand
+permalink: /archive/2023/01/18/better-pay-for-good-teachers-we-hear-ya/index.html
+layout: layout.njk
 ---
 Better Pay For Good Teachers? We Hear Ya!
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: maungakiekie-mp-selects-youth-mp
-title: "Maungakiekie MP selects Youth MP"
-date: 2010-03-23
-source-url: https://www.scoop.co.nz/stories/PA1003/S00343/maungakiekie-mp-selects-youth-mp.htm
+title: Maungakiekie MP selects Youth MP
+date: 2010-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00343/maungakiekie-mp-selects-youth-mp.htm
 author: new-zealand-national-party
+permalink: /archive/2010/03/23/maungakiekie-mp-selects-youth-mp/index.html
+layout: layout.njk
 ---
 Maungakiekie MP selects Youth MP
 ================================

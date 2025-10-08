@@ -1,9 +1,13 @@
 ---
 slug: renters-need-assistance-to-improve-poor-housing-conditions
-title: "Renters need assistance to improve poor housing conditions"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/PO1409/S00412/renters-need-assistance-to-improve-poor-housing-conditions.htm
+title: Renters need assistance to improve poor housing conditions
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00412/renters-need-assistance-to-improve-poor-housing-conditions.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/18/renters-need-assistance-to-improve-poor-housing-conditions/index.html
+layout: layout.njk
 ---
 Renters need assistance to improve poor housing conditions
 ==========================================================

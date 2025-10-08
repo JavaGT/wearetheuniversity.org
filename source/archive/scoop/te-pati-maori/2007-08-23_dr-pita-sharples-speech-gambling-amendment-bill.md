@@ -1,9 +1,12 @@
 ---
 slug: dr-pita-sharples-speech-gambling-amendment-bill
-title: "Dr Pita Sharples Speech: Gambling Amendment Bill"
-date: 2007-08-23
-source-url: https://www.scoop.co.nz/stories/PA0708/S00395/dr-pita-sharples-speech-gambling-amendment-bill.htm
+title: 'Dr Pita Sharples Speech: Gambling Amendment Bill'
+date: 2007-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00395/dr-pita-sharples-speech-gambling-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/08/23/dr-pita-sharples-speech-gambling-amendment-bill/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples Speech: Gambling Amendment Bill
 ================================================

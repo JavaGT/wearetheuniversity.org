@@ -1,9 +1,12 @@
 ---
 slug: government-slack-on-border-controls
-title: "Government slack on border controls"
-date: 2001-03-05
-source-url: https://www.scoop.co.nz/stories/PA0103/S00063/government-slack-on-border-controls.htm
+title: Government slack on border controls
+date: 2001-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00063/government-slack-on-border-controls.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/05/government-slack-on-border-controls/index.html
+layout: layout.njk
 ---
 Government slack on border controls
 ===================================

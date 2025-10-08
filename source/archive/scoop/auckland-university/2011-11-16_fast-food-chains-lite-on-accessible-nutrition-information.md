@@ -1,9 +1,13 @@
 ---
 slug: fast-food-chains-lite-on-accessible-nutrition-information
-title: "Fast food chains \"lite\" on accessible nutrition information"
-date: 2011-11-16
-source-url: https://www.scoop.co.nz/stories/ED1111/S00099/fast-food-chains-lite-on-accessible-nutrition-information.htm
+title: Fast food chains "lite" on accessible nutrition information
+date: 2011-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00099/fast-food-chains-lite-on-accessible-nutrition-information.htm
 author: auckland-university
+permalink: >-
+  /archive/2011/11/16/fast-food-chains-lite-on-accessible-nutrition-information/index.html
+layout: layout.njk
 ---
 Fast food chains “lite” on accessible nutrition information
 ===========================================================

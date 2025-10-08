@@ -1,9 +1,12 @@
 ---
 slug: act-leads-e-politics-campaign
-title: "ACT Leads e-Politics Campaign"
-date: 2002-07-02
-source-url: https://www.scoop.co.nz/stories/PA0207/S00058/act-leads-e-politics-campaign.htm
+title: ACT Leads e-Politics Campaign
+date: 2002-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00058/act-leads-e-politics-campaign.htm
 author: act-new-zealand
+permalink: /archive/2002/07/02/act-leads-e-politics-campaign/index.html
+layout: layout.njk
 ---
 ACT Leads e-Politics Campaign
 =============================

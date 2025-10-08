@@ -1,9 +1,13 @@
 ---
 slug: pacific-studies-lecturer-on-international-council
-title: "Pacific Studies lecturer on International Council"
-date: 2001-08-06
-source-url: https://www.scoop.co.nz/stories/ED0108/S00019/pacific-studies-lecturer-on-international-council.htm
+title: Pacific Studies lecturer on International Council
+date: 2001-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00019/pacific-studies-lecturer-on-international-council.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2001/08/06/pacific-studies-lecturer-on-international-council/index.html
+layout: layout.njk
 ---
 Pacific Studies lecturer on International Council
 =================================================

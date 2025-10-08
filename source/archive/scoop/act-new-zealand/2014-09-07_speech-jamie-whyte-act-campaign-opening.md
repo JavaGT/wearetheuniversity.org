@@ -1,9 +1,12 @@
 ---
 slug: speech-jamie-whyte-act-campaign-opening
-title: "Speech - Jamie Whyte ACT Campaign Opening"
-date: 2014-09-07
-source-url: https://www.scoop.co.nz/stories/PO1409/S00140/speech-jamie-whyte-act-campaign-opening.htm
+title: Speech - Jamie Whyte ACT Campaign Opening
+date: 2014-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00140/speech-jamie-whyte-act-campaign-opening.htm
 author: act-new-zealand
+permalink: /archive/2014/09/07/speech-jamie-whyte-act-campaign-opening/index.html
+layout: layout.njk
 ---
 Speech - Jamie Whyte ACT Campaign Opening
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: award-for-turning-wool-into-gold
-title: "Award for turning wool into gold"
-date: 2009-08-31
-source-url: https://www.scoop.co.nz/stories/ED0908/S00105/award-for-turning-wool-into-gold.htm
+title: Award for turning wool into gold
+date: 2009-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00105/award-for-turning-wool-into-gold.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/08/31/award-for-turning-wool-into-gold/index.html
+layout: layout.njk
 ---
 Award for turning wool into gold
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: student-support-changes-will-hurt-new-migrants
-title: "Student support changes will hurt new migrants"
-date: 2010-07-15
-source-url: https://www.scoop.co.nz/stories/PA1007/S00227/student-support-changes-will-hurt-new-migrants.htm
+title: Student support changes will hurt new migrants
+date: 2010-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00227/student-support-changes-will-hurt-new-migrants.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/15/student-support-changes-will-hurt-new-migrants/index.html
+layout: layout.njk
 ---
 Student support changes will hurt new migrants
 ==============================================

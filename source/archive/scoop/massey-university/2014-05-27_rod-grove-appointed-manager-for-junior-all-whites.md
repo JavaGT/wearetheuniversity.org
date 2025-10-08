@@ -1,9 +1,13 @@
 ---
 slug: rod-grove-appointed-manager-for-junior-all-whites
-title: "Rod Grove appointed manager for Junior All Whites"
-date: 2014-05-27
-source-url: https://www.scoop.co.nz/stories/ED1405/S00134/rod-grove-appointed-manager-for-junior-all-whites.htm
+title: Rod Grove appointed manager for Junior All Whites
+date: 2014-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00134/rod-grove-appointed-manager-for-junior-all-whites.htm
 author: massey-university
+permalink: >-
+  /archive/2014/05/27/rod-grove-appointed-manager-for-junior-all-whites/index.html
+layout: layout.njk
 ---
 Rod Grove appointed manager for Junior All Whites
 =================================================

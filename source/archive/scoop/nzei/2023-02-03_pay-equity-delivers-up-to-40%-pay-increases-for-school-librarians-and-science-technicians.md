@@ -1,9 +1,15 @@
 ---
-slug: pay-equity-delivers-up-to-40%-pay-increases-for-school-librarians-and-science-technicians
-title: "Pay Equity Delivers Up To 40% Pay Increases For School Librarians And Science Technicians"
-date: 2023-02-03
-source-url: https://www.scoop.co.nz/stories/PO2302/S00028/pay-equity-delivers-up-to-40-pay-increases-for-school-librarians-and-science-technicians.htm
+slug: >-
+  pay-equity-delivers-up-to-40%-pay-increases-for-school-librarians-and-science-technicians
+title: >-
+  Pay Equity Delivers Up To 40% Pay Increases For School Librarians And Science
+  Technicians
+date: 2023-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00028/pay-equity-delivers-up-to-40-pay-increases-for-school-librarians-and-science-technicians.htm
 author: nzei
+permalink: /archive/2023/02/03/pay-equity-delivers-up-to-40/index.html
+layout: layout.njk
 ---
 Pay Equity Delivers Up To 40% Pay Increases For School Librarians And Science Technicians
 =========================================================================================

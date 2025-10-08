@@ -1,8 +1,12 @@
 ---
 slug: exercise-in-early-life-has-long-lasting-benefits
-title: "Exercise in early life has long-lasting benefits"
-date: 2017-07-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/early-life-exercise-has-long-lasting-benefits.html
+title: Exercise in early life has long-lasting benefits
+date: 2017-07-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/early-life-exercise-has-long-lasting-benefits.html
+permalink: >-
+  /archive/2017/07/07/exercise-in-early-life-has-long-lasting-benefits/index.html
+layout: layout.njk
 ---
 Exercise in early life has long-lasting benefits
 ================================================

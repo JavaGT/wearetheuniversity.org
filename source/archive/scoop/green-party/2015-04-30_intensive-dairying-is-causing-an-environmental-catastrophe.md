@@ -1,9 +1,13 @@
 ---
 slug: intensive-dairying-is-causing-an-environmental-catastrophe
-title: "Intensive dairying is causing an environmental catastrophe"
-date: 2015-04-30
-source-url: https://www.scoop.co.nz/stories/PA1504/S00403/intensive-dairying-is-causing-an-environmental-catastrophe.htm
+title: Intensive dairying is causing an environmental catastrophe
+date: 2015-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00403/intensive-dairying-is-causing-an-environmental-catastrophe.htm
 author: green-party
+permalink: >-
+  /archive/2015/04/30/intensive-dairying-is-causing-an-environmental-catastrophe/index.html
+layout: layout.njk
 ---
 Intensive dairying is causing an environmental catastrophe
 ==========================================================

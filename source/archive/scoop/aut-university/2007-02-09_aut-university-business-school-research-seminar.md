@@ -1,9 +1,12 @@
 ---
 slug: aut-university-business-school-research-seminar
-title: "AUT University Business School Research Seminar"
-date: 2007-02-09
-source-url: https://www.scoop.co.nz/stories/ED0702/S00029/aut-university-business-school-research-seminar.htm
+title: AUT University Business School Research Seminar
+date: 2007-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00029/aut-university-business-school-research-seminar.htm
 author: aut-university
+permalink: /archive/2007/02/09/aut-university-business-school-research-seminar/index.html
+layout: layout.njk
 ---
 AUT University Business School Research Seminar
 ===============================================

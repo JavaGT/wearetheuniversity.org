@@ -1,9 +1,13 @@
 ---
 slug: environmental-decision-making-should-not-be-political
-title: "Environmental decision making should not be political"
-date: 2015-11-12
-source-url: https://www.scoop.co.nz/stories/PA1511/S00223/environmental-decision-making-should-not-be-political.htm
+title: Environmental decision making should not be political
+date: 2015-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00223/environmental-decision-making-should-not-be-political.htm
 author: green-party
+permalink: >-
+  /archive/2015/11/12/environmental-decision-making-should-not-be-political/index.html
+layout: layout.njk
 ---
 Environmental decision making should not be political
 =====================================================

@@ -1,9 +1,11 @@
 ---
 slug: a-weighty-issue-for-sheep
-title: "A Weighty Issue for Sheep"
-date: 2006-07-24
+title: A Weighty Issue for Sheep
+date: 2006-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0607/S00044/a-weighty-issue-for-sheep.htm
 author: lincoln-university
+permalink: /archive/2006/07/24/a-weighty-issue-for-sheep/index.html
+layout: layout.njk
 ---
 A Weighty Issue for Sheep
 =========================

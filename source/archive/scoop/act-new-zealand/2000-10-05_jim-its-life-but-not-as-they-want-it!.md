@@ -1,9 +1,12 @@
 ---
 slug: jim-its-life-but-not-as-they-want-it!
-title: "Jim, It’s Life But Not As They Want It!"
-date: 2000-10-05
-source-url: https://www.scoop.co.nz/stories/PA0010/S00110/jim-its-life-but-not-as-they-want-it.htm
+title: Jim, It’s Life But Not As They Want It!
+date: 2000-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00110/jim-its-life-but-not-as-they-want-it.htm
 author: act-new-zealand
+permalink: /archive/2000/10/05/jim-its-life-but-not-as-they-want-it/index.html
+layout: layout.njk
 ---
 Jim, It’s Life But Not As They Want It!
 =======================================

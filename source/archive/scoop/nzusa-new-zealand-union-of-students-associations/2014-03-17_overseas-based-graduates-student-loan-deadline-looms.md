@@ -1,9 +1,13 @@
 ---
 slug: overseas-based-graduates-student-loan-deadline-looms
-title: "Overseas-Based Graduates: Student Loan Deadline Looms"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/ED1403/S00091/overseas-based-graduates-student-loan-deadline-looms.htm
+title: 'Overseas-Based Graduates: Student Loan Deadline Looms'
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00091/overseas-based-graduates-student-loan-deadline-looms.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/03/17/overseas-based-graduates-student-loan-deadline-looms/index.html
+layout: layout.njk
 ---
 Overseas-Based Graduates: Student Loan Deadline Looms
 =====================================================

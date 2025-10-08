@@ -1,9 +1,12 @@
 ---
 slug: authoritys-soft-drinks-response-is-limp
-title: "Authority's soft drinks response is limp"
-date: 2006-02-22
-source-url: https://www.scoop.co.nz/stories/PA0602/S00320/authoritys-soft-drinks-response-is-limp.htm
+title: Authority's soft drinks response is limp
+date: 2006-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00320/authoritys-soft-drinks-response-is-limp.htm
 author: green-party
+permalink: /archive/2006/02/22/authoritys-soft-drinks-response-is-limp/index.html
+layout: layout.njk
 ---
 Authority's soft drinks response is limp
 ========================================

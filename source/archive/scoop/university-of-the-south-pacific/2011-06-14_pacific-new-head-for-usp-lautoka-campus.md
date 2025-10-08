@@ -1,9 +1,12 @@
 ---
 slug: pacific-new-head-for-usp-lautoka-campus
-title: "Pacific: New Head for USP Lautoka Campus"
-date: 2011-06-14
-source-url: https://www.scoop.co.nz/stories/WO1106/S00298/pacific-new-head-for-usp-lautoka-campus.htm
+title: 'Pacific: New Head for USP Lautoka Campus'
+date: 2011-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1106/S00298/pacific-new-head-for-usp-lautoka-campus.htm
 author: university-of-the-south-pacific
+permalink: /archive/2011/06/14/pacific-new-head-for-usp-lautoka-campus/index.html
+layout: layout.njk
 ---
 Pacific: New Head for USP Lautoka Campus
 ========================================

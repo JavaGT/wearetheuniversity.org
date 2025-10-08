@@ -1,9 +1,12 @@
 ---
 slug: sharples-opening-of-te-aho-tapu
-title: "Sharples: Opening of Te Aho Tapu"
-date: 2006-11-06
-source-url: https://www.scoop.co.nz/stories/PA0611/S00086/sharples-opening-of-te-aho-tapu.htm
+title: 'Sharples: Opening of Te Aho Tapu'
+date: 2006-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00086/sharples-opening-of-te-aho-tapu.htm
 author: te-pati-maori
+permalink: /archive/2006/11/06/sharples-opening-of-te-aho-tapu/index.html
+layout: layout.njk
 ---
 Sharples: Opening of Te Aho Tapu
 ================================

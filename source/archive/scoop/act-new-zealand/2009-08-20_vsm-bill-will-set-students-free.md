@@ -1,9 +1,12 @@
 ---
 slug: vsm-bill-will-set-students-free
-title: "VSM Bill Will Set Students Free"
-date: 2009-08-20
-source-url: https://www.scoop.co.nz/stories/PA0908/S00296/vsm-bill-will-set-students-free.htm
+title: VSM Bill Will Set Students Free
+date: 2009-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00296/vsm-bill-will-set-students-free.htm
 author: act-new-zealand
+permalink: /archive/2009/08/20/vsm-bill-will-set-students-free/index.html
+layout: layout.njk
 ---
 VSM Bill Will Set Students Free
 ===============================

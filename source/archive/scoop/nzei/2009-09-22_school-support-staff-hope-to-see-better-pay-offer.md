@@ -1,9 +1,13 @@
 ---
 slug: school-support-staff-hope-to-see-better-pay-offer
-title: "School Support Staff Hope to See Better Pay Offer"
-date: 2009-09-22
-source-url: https://www.scoop.co.nz/stories/ED0909/S00080/school-support-staff-hope-to-see-better-pay-offer.htm
+title: School Support Staff Hope to See Better Pay Offer
+date: 2009-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00080/school-support-staff-hope-to-see-better-pay-offer.htm
 author: nzei
+permalink: >-
+  /archive/2009/09/22/school-support-staff-hope-to-see-better-pay-offer/index.html
+layout: layout.njk
 ---
 School Support Staff Hope to See Better Pay Offer
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-more-competent-than-nzqa
-title: "Students more competent than NZQA"
-date: 2006-03-29
-source-url: https://www.scoop.co.nz/stories/PA0603/S00520/students-more-competent-than-nzqa.htm
+title: Students more competent than NZQA
+date: 2006-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00520/students-more-competent-than-nzqa.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/29/students-more-competent-than-nzqa/index.html
+layout: layout.njk
 ---
 Students more competent than NZQA
 =================================

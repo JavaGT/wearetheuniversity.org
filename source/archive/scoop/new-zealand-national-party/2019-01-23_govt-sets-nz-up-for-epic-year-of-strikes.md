@@ -1,9 +1,12 @@
 ---
 slug: govt-sets-nz-up-for-epic-year-of-strikes
-title: "Govt sets NZ up for epic year of strikes"
-date: 2019-01-23
-source-url: https://www.scoop.co.nz/stories/PA1901/S00059/govt-sets-nz-up-for-epic-year-of-strikes.htm
+title: Govt sets NZ up for epic year of strikes
+date: 2019-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00059/govt-sets-nz-up-for-epic-year-of-strikes.htm
 author: new-zealand-national-party
+permalink: /archive/2019/01/23/govt-sets-nz-up-for-epic-year-of-strikes/index.html
+layout: layout.njk
 ---
 Govt sets NZ up for epic year of strikes
 ========================================

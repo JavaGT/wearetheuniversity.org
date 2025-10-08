@@ -1,9 +1,12 @@
 ---
 slug: racing-important-to-provincial-nz
-title: "Racing important to provincial NZ"
-date: 1999-11-12
-source-url: https://www.scoop.co.nz/stories/PA9911/S00304/racing-important-to-provincial-nz.htm
+title: Racing important to provincial NZ
+date: 1999-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00304/racing-important-to-provincial-nz.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/12/racing-important-to-provincial-nz/index.html
+layout: layout.njk
 ---
 Racing important to provincial NZ
 =================================

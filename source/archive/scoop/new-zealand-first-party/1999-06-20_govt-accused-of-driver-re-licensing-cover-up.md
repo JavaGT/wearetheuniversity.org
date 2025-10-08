@@ -1,9 +1,12 @@
 ---
 slug: govt-accused-of-driver-re-licensing-cover-up
-title: "Govt Accused Of Driver Re-Licensing Cover-Up"
-date: 1999-06-20
-source-url: https://www.scoop.co.nz/stories/PA9906/S00145/govt-accused-of-driver-re-licensing-cover-up.htm
+title: Govt Accused Of Driver Re-Licensing Cover-Up
+date: 1999-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00145/govt-accused-of-driver-re-licensing-cover-up.htm
 author: new-zealand-first-party
+permalink: /archive/1999/06/20/govt-accused-of-driver-re-licensing-cover-up/index.html
+layout: layout.njk
 ---
 Govt Accused Of Driver Re-Licensing Cover-Up
 ============================================

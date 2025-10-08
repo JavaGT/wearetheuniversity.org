@@ -1,9 +1,11 @@
 ---
 slug: barkers-excuses-fool-no-one
-title: "Barker’s excuses fool no one"
-date: 2005-12-20
+title: Barker’s excuses fool no one
+date: 2005-12-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00313/barkers-excuses-fool-no-one.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/20/barkers-excuses-fool-no-one/index.html
+layout: layout.njk
 ---
 Barker’s excuses fool no one
 ============================

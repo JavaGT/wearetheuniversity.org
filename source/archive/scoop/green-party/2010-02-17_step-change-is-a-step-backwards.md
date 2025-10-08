@@ -1,9 +1,12 @@
 ---
 slug: step-change-is-a-step-backwards
-title: "Step change is a step backwards"
-date: 2010-02-17
-source-url: https://www.scoop.co.nz/stories/PA1002/S00224/step-change-is-a-step-backwards.htm
+title: Step change is a step backwards
+date: 2010-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00224/step-change-is-a-step-backwards.htm
 author: green-party
+permalink: /archive/2010/02/17/step-change-is-a-step-backwards/index.html
+layout: layout.njk
 ---
 Step change is a step backwards
 ===============================

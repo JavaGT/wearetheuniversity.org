@@ -1,9 +1,13 @@
 ---
 slug: labour-must-stop-flooding-rural-nz-with-pointless-and-onerous-regulation
-title: "Labour Must Stop Flooding Rural NZ With Pointless And Onerous Regulation"
-date: 2021-08-22
-source-url: https://www.scoop.co.nz/stories/PA2108/S00186/labour-must-stop-flooding-rural-nz-with-pointless-and-onerous-regulation.htm
+title: Labour Must Stop Flooding Rural NZ With Pointless And Onerous Regulation
+date: 2021-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00186/labour-must-stop-flooding-rural-nz-with-pointless-and-onerous-regulation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/08/22/labour-must-stop-flooding-rural-nz-with-pointless-and-onerous-regulation/index.html
+layout: layout.njk
 ---
 Labour Must Stop Flooding Rural NZ With Pointless And Onerous Regulation
 ========================================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-fighting-back-at-auckland-university
-title: "Students fighting back at Auckland University"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/GE1109/S00142/students-fighting-back-at-auckland-university.htm
+title: Students fighting back at Auckland University
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1109/S00142/students-fighting-back-at-auckland-university.htm
 author: auckland-university-students-association
+permalink: /archive/2011/09/26/students-fighting-back-at-auckland-university/index.html
+layout: layout.njk
 ---
 Students fighting back at Auckland University
 =============================================

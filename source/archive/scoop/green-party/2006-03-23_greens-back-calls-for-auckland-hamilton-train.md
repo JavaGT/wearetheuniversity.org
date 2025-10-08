@@ -1,9 +1,12 @@
 ---
 slug: greens-back-calls-for-auckland-hamilton-train
-title: "Greens back calls for Auckland - Hamilton train"
-date: 2006-03-23
-source-url: https://www.scoop.co.nz/stories/PA0603/S00396/greens-back-calls-for-auckland-hamilton-train.htm
+title: Greens back calls for Auckland - Hamilton train
+date: 2006-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00396/greens-back-calls-for-auckland-hamilton-train.htm
 author: green-party
+permalink: /archive/2006/03/23/greens-back-calls-for-auckland-hamilton-train/index.html
+layout: layout.njk
 ---
 Greens back calls for Auckland - Hamilton train
 ===============================================

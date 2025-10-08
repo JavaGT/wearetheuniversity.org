@@ -1,9 +1,12 @@
 ---
 slug: speech-shaw-party-agm-green-infrastructure-fund
-title: "Speech: Shaw - Party AGM: Green Infrastructure Fund"
-date: 2017-07-15
-source-url: https://www.scoop.co.nz/stories/PA1707/S00231/speech-shaw-party-agm-green-infrastructure-fund.htm
+title: 'Speech: Shaw - Party AGM: Green Infrastructure Fund'
+date: 2017-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00231/speech-shaw-party-agm-green-infrastructure-fund.htm
 author: green-party
+permalink: /archive/2017/07/15/speech-shaw-party-agm-green-infrastructure-fund/index.html
+layout: layout.njk
 ---
 Speech: Shaw - Party AGM: Green Infrastructure Fund
 ===================================================

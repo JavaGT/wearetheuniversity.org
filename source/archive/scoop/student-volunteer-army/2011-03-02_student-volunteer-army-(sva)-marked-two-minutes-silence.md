@@ -1,9 +1,12 @@
 ---
 slug: student-volunteer-army-(sva)-marked-two-minutes-silence
-title: "Student Volunteer Army (SVA) marked two minutes silence"
-date: 2011-03-02
-source-url: https://www.scoop.co.nz/stories/AK1103/S00076/student-volunteer-army-sva-marked-two-minutes-silence.htm
+title: Student Volunteer Army (SVA) marked two minutes silence
+date: 2011-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00076/student-volunteer-army-sva-marked-two-minutes-silence.htm
 author: student-volunteer-army
+permalink: /archive/2011/03/02/student-volunteer-army-/index.html
+layout: layout.njk
 ---
 Student Volunteer Army (SVA) marked two minutes silence
 =======================================================

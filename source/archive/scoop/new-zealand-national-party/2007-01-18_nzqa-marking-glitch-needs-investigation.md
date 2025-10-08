@@ -1,9 +1,12 @@
 ---
 slug: nzqa-marking-glitch-needs-investigation
-title: "NZQA marking glitch needs investigation"
-date: 2007-01-18
-source-url: https://www.scoop.co.nz/stories/PA0701/S00085/nzqa-marking-glitch-needs-investigation.htm
+title: NZQA marking glitch needs investigation
+date: 2007-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00085/nzqa-marking-glitch-needs-investigation.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/18/nzqa-marking-glitch-needs-investigation/index.html
+layout: layout.njk
 ---
 NZQA marking glitch needs investigation
 =======================================

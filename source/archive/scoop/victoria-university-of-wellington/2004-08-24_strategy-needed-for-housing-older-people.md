@@ -1,9 +1,12 @@
 ---
 slug: strategy-needed-for-housing-older-people
-title: "Strategy needed for housing older people"
-date: 2004-08-24
-source-url: https://www.scoop.co.nz/stories/ED0408/S00098/strategy-needed-for-housing-older-people.htm
+title: Strategy needed for housing older people
+date: 2004-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00098/strategy-needed-for-housing-older-people.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/24/strategy-needed-for-housing-older-people/index.html
+layout: layout.njk
 ---
 Strategy needed for housing older people
 ========================================

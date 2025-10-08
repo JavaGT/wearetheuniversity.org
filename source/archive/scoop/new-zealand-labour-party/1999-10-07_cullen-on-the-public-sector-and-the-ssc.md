@@ -1,9 +1,12 @@
 ---
 slug: cullen-on-the-public-sector-and-the-ssc
-title: "Cullen on the public sector and the SSC"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PA9910/S00119/cullen-on-the-public-sector-and-the-ssc.htm
+title: Cullen on the public sector and the SSC
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00119/cullen-on-the-public-sector-and-the-ssc.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/07/cullen-on-the-public-sector-and-the-ssc/index.html
+layout: layout.njk
 ---
 Cullen on the public sector and the SSC
 =======================================

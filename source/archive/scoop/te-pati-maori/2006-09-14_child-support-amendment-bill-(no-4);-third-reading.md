@@ -1,9 +1,12 @@
 ---
 slug: child-support-amendment-bill-(no-4);-third-reading
-title: "Child Support Amendment Bill (no 4); Third Reading"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/PA0609/S00322/child-support-amendment-bill-no-4-third-reading.htm
+title: Child Support Amendment Bill (no 4); Third Reading
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00322/child-support-amendment-bill-no-4-third-reading.htm
 author: te-pati-maori
+permalink: /archive/2006/09/14/child-support-amendment-bill-/index.html
+layout: layout.njk
 ---
 Child Support Amendment Bill (no 4); Third Reading
 ==================================================

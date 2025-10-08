@@ -1,9 +1,13 @@
 ---
 slug: otago-researcher-takes-up-role-in-global-fight-to-save-frogs
-title: "Otago researcher takes up role in global fight to save frogs"
-date: 2011-06-15
-source-url: https://www.scoop.co.nz/stories/ED1106/S00062/otago-researcher-takes-up-role-in-global-fight-to-save-frogs.htm
+title: Otago researcher takes up role in global fight to save frogs
+date: 2011-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00062/otago-researcher-takes-up-role-in-global-fight-to-save-frogs.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/06/15/otago-researcher-takes-up-role-in-global-fight-to-save-frogs/index.html
+layout: layout.njk
 ---
 Otago researcher takes up role in global fight to save frogs
 ============================================================

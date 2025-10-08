@@ -1,10 +1,19 @@
 ---
+layout: layout.njk
 title: Student Led Open Forum Minutes
 slug: student-led-open-forum-minutes
-date: 2024-08-24
-source: https://docs.google.com/document/d/1aWoM7d5Ju061BHejOfWT172LtuaWtFxW9-A2-YxX6ro/edit
+date: 2024-08-24T00:00:00.000Z
+source: >-
+  https://docs.google.com/document/d/1aWoM7d5Ju061BHejOfWT172LtuaWtFxW9-A2-YxX6ro/edit
 author: anonymous
 author-slug: anonymous
+permalink: /blog/2024/08/24/student-led-open-forum-minutes/index.html
+excerpt: >-
+  As the recorder, the following notes are written without bias, from a neutral
+  perspective. Notes are based on what was audible from my individual physical
+  position Information subject to misinterpretation Provost Valerie Linton’s
+  Address : Prov. Linton acknowledges the concern and worry regarding the ordeal
+  with the course cuts and...
 ---
 
 *As the recorder, the following notes are written without bias, from a neutral perspective.*

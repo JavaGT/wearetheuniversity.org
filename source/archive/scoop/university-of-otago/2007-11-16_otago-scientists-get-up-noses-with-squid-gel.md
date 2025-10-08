@@ -1,9 +1,12 @@
 ---
 slug: otago-scientists-get-up-noses-with-squid-gel
-title: "Otago scientists get up noses with squid gel"
-date: 2007-11-16
-source-url: https://www.scoop.co.nz/stories/SC0711/S00054/otago-scientists-get-up-noses-with-squid-gel.htm
+title: Otago scientists get up noses with squid gel
+date: 2007-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0711/S00054/otago-scientists-get-up-noses-with-squid-gel.htm
 author: university-of-otago
+permalink: /archive/2007/11/16/otago-scientists-get-up-noses-with-squid-gel/index.html
+layout: layout.njk
 ---
 Otago scientists get up noses with squid gel
 ============================================

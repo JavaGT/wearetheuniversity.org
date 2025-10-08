@@ -1,9 +1,12 @@
 ---
 slug: labour-asleep-on-blue-lake-logging
-title: "Labour asleep on Blue Lake logging"
-date: 2008-05-08
-source-url: https://www.scoop.co.nz/stories/PA0805/S00137/labour-asleep-on-blue-lake-logging.htm
+title: Labour asleep on Blue Lake logging
+date: 2008-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00137/labour-asleep-on-blue-lake-logging.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/08/labour-asleep-on-blue-lake-logging/index.html
+layout: layout.njk
 ---
 Labour asleep on Blue Lake logging
 ==================================

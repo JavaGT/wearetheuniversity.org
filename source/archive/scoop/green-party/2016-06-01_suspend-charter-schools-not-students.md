@@ -1,9 +1,12 @@
 ---
 slug: suspend-charter-schools-not-students
-title: "Suspend charter schools, not students"
-date: 2016-06-01
-source-url: https://www.scoop.co.nz/stories/PA1606/S00008/suspend-charter-schools-not-students.htm
+title: Suspend charter schools, not students
+date: 2016-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00008/suspend-charter-schools-not-students.htm
 author: green-party
+permalink: /archive/2016/06/01/suspend-charter-schools-not-students/index.html
+layout: layout.njk
 ---
 Suspend charter schools, not students
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: lincoln-universitys-vice-chancellor-resigns
-title: "Lincoln University’s Vice-Chancellor Resigns"
-date: 2015-06-26
-source-url: https://www.scoop.co.nz/stories/ED1506/S00135/lincoln-universitys-vice-chancellor-resigns.htm
+title: Lincoln University’s Vice-Chancellor Resigns
+date: 2015-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00135/lincoln-universitys-vice-chancellor-resigns.htm
 author: lincoln-university
+permalink: /archive/2015/06/26/lincoln-universitys-vice-chancellor-resigns/index.html
+layout: layout.njk
 ---
 Lincoln University’s Vice-Chancellor Resigns
 ============================================

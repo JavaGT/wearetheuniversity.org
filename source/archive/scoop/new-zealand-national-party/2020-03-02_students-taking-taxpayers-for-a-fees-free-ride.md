@@ -1,9 +1,12 @@
 ---
 slug: students-taking-taxpayers-for-a-fees-free-ride
-title: "Students Taking Taxpayers For A Fees Free Ride"
-date: 2020-03-02
-source-url: https://www.scoop.co.nz/stories/PA2003/S00011/students-taking-taxpayers-for-a-fees-free-ride.htm
+title: Students Taking Taxpayers For A Fees Free Ride
+date: 2020-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00011/students-taking-taxpayers-for-a-fees-free-ride.htm
 author: new-zealand-national-party
+permalink: /archive/2020/03/02/students-taking-taxpayers-for-a-fees-free-ride/index.html
+layout: layout.njk
 ---
 Students Taking Taxpayers For A Fees Free Ride
 ==============================================

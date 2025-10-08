@@ -1,9 +1,12 @@
 ---
 slug: more-nzers-signing-up-to-become-union-members
-title: "More NZers signing up to become union members"
-date: 2004-06-15
-source-url: https://www.scoop.co.nz/stories/ED0406/S00057/more-nzers-signing-up-to-become-union-members.htm
+title: More NZers signing up to become union members
+date: 2004-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00057/more-nzers-signing-up-to-become-union-members.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/06/15/more-nzers-signing-up-to-become-union-members/index.html
+layout: layout.njk
 ---
 More NZers signing up to become union members
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: treaty-specialist-warns-foreshore-issue-may-not-be-resolved
-title: "Treaty specialist warns foreshore issue may not be resolved"
-date: 2010-12-10
-source-url: https://www.scoop.co.nz/stories/PO1012/S00100/treaty-specialist-warns-foreshore-issue-may-not-be-resolved.htm
+title: Treaty specialist warns foreshore issue may not be resolved
+date: 2010-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00100/treaty-specialist-warns-foreshore-issue-may-not-be-resolved.htm
 author: aut-university
+permalink: >-
+  /archive/2010/12/10/treaty-specialist-warns-foreshore-issue-may-not-be-resolved/index.html
+layout: layout.njk
 ---
 Treaty specialist warns foreshore issue may not be resolved
 ===========================================================

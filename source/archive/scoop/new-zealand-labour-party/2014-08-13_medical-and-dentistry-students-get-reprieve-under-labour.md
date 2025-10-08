@@ -1,9 +1,13 @@
 ---
 slug: medical-and-dentistry-students-get-reprieve-under-labour
-title: "Medical and dentistry students get reprieve under Labour"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/PA1408/S00214/medical-and-dentistry-students-get-reprieve-under-labour.htm
+title: Medical and dentistry students get reprieve under Labour
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00214/medical-and-dentistry-students-get-reprieve-under-labour.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/13/medical-and-dentistry-students-get-reprieve-under-labour/index.html
+layout: layout.njk
 ---
 Medical and dentistry students get reprieve under Labour
 ========================================================

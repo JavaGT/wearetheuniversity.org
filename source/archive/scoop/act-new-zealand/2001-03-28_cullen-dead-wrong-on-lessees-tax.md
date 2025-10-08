@@ -1,9 +1,12 @@
 ---
 slug: cullen-dead-wrong-on-lessees-tax
-title: "Cullen Dead Wrong On Lessees Tax"
-date: 2001-03-28
-source-url: https://www.scoop.co.nz/stories/PA0103/S00494/cullen-dead-wrong-on-lessees-tax.htm
+title: Cullen Dead Wrong On Lessees Tax
+date: 2001-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00494/cullen-dead-wrong-on-lessees-tax.htm
 author: act-new-zealand
+permalink: /archive/2001/03/28/cullen-dead-wrong-on-lessees-tax/index.html
+layout: layout.njk
 ---
 Cullen Dead Wrong On Lessees Tax
 ================================

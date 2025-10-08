@@ -1,9 +1,13 @@
 ---
 slug: university-students-protest-against-political-prisoners
-title: "University students protest against political prisoners"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/PO1210/S00051/university-students-protest-against-political-prisoners.htm
+title: University students protest against political prisoners
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00051/university-students-protest-against-political-prisoners.htm
 author: ausa
+permalink: >-
+  /archive/2012/10/04/university-students-protest-against-political-prisoners/index.html
+layout: layout.njk
 ---
 University students protest against political prisoners
 =======================================================

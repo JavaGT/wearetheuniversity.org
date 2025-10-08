@@ -1,9 +1,11 @@
 ---
 slug: role-of-nzs-ceos-demystified
-title: "Role of NZ’s CEOs Demystified"
-date: 2010-02-01
+title: Role of NZ’s CEOs Demystified
+date: 2010-02-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1002/S00002/role-of-nzs-ceos-demystified.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/02/01/role-of-nzs-ceos-demystified/index.html
+layout: layout.njk
 ---
 Role of NZ’s CEOs Demystified
 =============================

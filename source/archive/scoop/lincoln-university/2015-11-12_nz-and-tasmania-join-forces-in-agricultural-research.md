@@ -1,9 +1,13 @@
 ---
 slug: nz-and-tasmania-join-forces-in-agricultural-research
-title: "NZ and Tasmania join forces in agricultural research"
-date: 2015-11-12
-source-url: https://www.scoop.co.nz/stories/ED1511/S00074/nz-and-tasmania-join-forces-in-agricultural-research.htm
+title: NZ and Tasmania join forces in agricultural research
+date: 2015-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00074/nz-and-tasmania-join-forces-in-agricultural-research.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/11/12/nz-and-tasmania-join-forces-in-agricultural-research/index.html
+layout: layout.njk
 ---
 NZ and Tasmania join forces in agricultural research
 ====================================================

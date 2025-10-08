@@ -1,9 +1,13 @@
 ---
 slug: peters-tells-coalition-to-learn-from-asian-crisis
-title: "Peters Tells Coalition To Learn From Asian Crisis"
-date: 2000-06-01
-source-url: https://www.scoop.co.nz/stories/PA0006/S00018/peters-tells-coalition-to-learn-from-asian-crisis.htm
+title: Peters Tells Coalition To Learn From Asian Crisis
+date: 2000-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00018/peters-tells-coalition-to-learn-from-asian-crisis.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2000/06/01/peters-tells-coalition-to-learn-from-asian-crisis/index.html
+layout: layout.njk
 ---
 Peters Tells Coalition To Learn From Asian Crisis
 =================================================

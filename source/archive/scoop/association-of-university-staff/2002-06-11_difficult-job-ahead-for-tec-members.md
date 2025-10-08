@@ -1,9 +1,12 @@
 ---
 slug: difficult-job-ahead-for-tec-members
-title: "Difficult Job Ahead for TEC Members"
-date: 2002-06-11
-source-url: https://www.scoop.co.nz/stories/ED0206/S00014/difficult-job-ahead-for-tec-members.htm
+title: Difficult Job Ahead for TEC Members
+date: 2002-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00014/difficult-job-ahead-for-tec-members.htm
 author: association-of-university-staff
+permalink: /archive/2002/06/11/difficult-job-ahead-for-tec-members/index.html
+layout: layout.njk
 ---
 Difficult Job Ahead for TEC Members
 ===================================

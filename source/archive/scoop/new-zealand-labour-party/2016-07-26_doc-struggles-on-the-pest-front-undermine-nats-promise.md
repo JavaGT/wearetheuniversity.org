@@ -1,9 +1,13 @@
 ---
 slug: doc-struggles-on-the-pest-front-undermine-nats-promise
-title: "DOC struggles on the pest front undermine Nats’ promise"
-date: 2016-07-26
-source-url: https://www.scoop.co.nz/stories/PA1607/S00360/doc-struggles-on-the-pest-front-undermine-nats-promise.htm
+title: DOC struggles on the pest front undermine Nats’ promise
+date: 2016-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00360/doc-struggles-on-the-pest-front-undermine-nats-promise.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/07/26/doc-struggles-on-the-pest-front-undermine-nats-promise/index.html
+layout: layout.njk
 ---
 DOC struggles on the pest front undermine Nats’ promise
 =======================================================

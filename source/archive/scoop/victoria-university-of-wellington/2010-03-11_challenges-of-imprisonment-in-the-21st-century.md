@@ -1,9 +1,12 @@
 ---
 slug: challenges-of-imprisonment-in-the-21st-century
-title: "Challenges of Imprisonment in the 21st century"
-date: 2010-03-11
-source-url: https://www.scoop.co.nz/stories/PO1003/S00167/challenges-of-imprisonment-in-the-21st-century.htm
+title: Challenges of Imprisonment in the 21st century
+date: 2010-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00167/challenges-of-imprisonment-in-the-21st-century.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/03/11/challenges-of-imprisonment-in-the-21st-century/index.html
+layout: layout.njk
 ---
 Challenges of Imprisonment in the 21st century
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: congress-2023-speech-chris-hipkins
-title: "Congress 2023 speech: Chris Hipkins"
-date: 2023-05-28
-source-url: https://www.scoop.co.nz/stories/PO2305/S00203/congress-2023-speech-chris-hipkins.htm
+title: 'Congress 2023 speech: Chris Hipkins'
+date: 2023-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2305/S00203/congress-2023-speech-chris-hipkins.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/05/28/congress-2023-speech-chris-hipkins/index.html
+layout: layout.njk
 ---
 Congress 2023 speech: Chris Hipkins
 ===================================

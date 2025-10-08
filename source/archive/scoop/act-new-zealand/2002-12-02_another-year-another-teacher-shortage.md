@@ -1,9 +1,12 @@
 ---
 slug: another-year-another-teacher-shortage
-title: "Another Year, Another Teacher Shortage?"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00039/another-year-another-teacher-shortage.htm
+title: Another Year, Another Teacher Shortage?
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00039/another-year-another-teacher-shortage.htm
 author: act-new-zealand
+permalink: /archive/2002/12/02/another-year-another-teacher-shortage/index.html
+layout: layout.njk
 ---
 Another Year, Another Teacher Shortage?
 =======================================

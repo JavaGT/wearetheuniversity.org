@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-proposes-undemocratic-council
-title: "Victoria University proposes undemocratic council"
-date: 2015-07-07
-source-url: https://www.scoop.co.nz/stories/ED1507/S00042/victoria-university-proposes-undemocratic-council.htm
+title: Victoria University proposes undemocratic council
+date: 2015-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00042/victoria-university-proposes-undemocratic-council.htm
 author: vuwsa
+permalink: >-
+  /archive/2015/07/07/victoria-university-proposes-undemocratic-council/index.html
+layout: layout.njk
 ---
 Victoria University proposes undemocratic council
 =================================================

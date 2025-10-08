@@ -1,9 +1,13 @@
 ---
 slug: government-claims-on-student-support-hopelessly-misleading
-title: "Government claims on student support hopelessly misleading"
-date: 2014-04-17
-source-url: https://www.scoop.co.nz/stories/ED1404/S00072/government-claims-on-student-support-hopelessly-misleading.htm
+title: Government claims on student support hopelessly misleading
+date: 2014-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00072/government-claims-on-student-support-hopelessly-misleading.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/04/17/government-claims-on-student-support-hopelessly-misleading/index.html
+layout: layout.njk
 ---
 Government claims on student support hopelessly misleading
 ==========================================================

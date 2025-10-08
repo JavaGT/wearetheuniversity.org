@@ -1,9 +1,13 @@
 ---
 slug: national-selects-nancy-lu-as-list-only-candidate
-title: "National Selects Nancy Lu As List Only Candidate"
-date: 2020-08-08
-source-url: https://www.scoop.co.nz/stories/PO2008/S00093/national-selects-nancy-lu-as-list-only-candidate.htm
+title: National Selects Nancy Lu As List Only Candidate
+date: 2020-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00093/national-selects-nancy-lu-as-list-only-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/08/national-selects-nancy-lu-as-list-only-candidate/index.html
+layout: layout.njk
 ---
 National Selects Nancy Lu As List Only Candidate
 ================================================

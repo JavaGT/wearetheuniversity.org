@@ -1,9 +1,13 @@
 ---
 slug: gen-i-waikato-launch-post-graduate-sales-training
-title: "Gen-i, Waikato launch post-graduate sales training"
-date: 2008-10-20
-source-url: https://www.scoop.co.nz/stories/ED0810/S00086/gen-i-waikato-launch-post-graduate-sales-training.htm
+title: Gen-i, Waikato launch post-graduate sales training
+date: 2008-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00086/gen-i-waikato-launch-post-graduate-sales-training.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2008/10/20/gen-i-waikato-launch-post-graduate-sales-training/index.html
+layout: layout.njk
 ---
 Gen-i, Waikato launch post-graduate sales training
 ==================================================

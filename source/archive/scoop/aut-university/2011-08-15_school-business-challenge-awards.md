@@ -1,9 +1,12 @@
 ---
 slug: school-business-challenge-awards
-title: "School business challenge awards"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/BU1108/S00468/school-business-challenge-awards.htm
+title: School business challenge awards
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1108/S00468/school-business-challenge-awards.htm
 author: aut-university
+permalink: /archive/2011/08/15/school-business-challenge-awards/index.html
+layout: layout.njk
 ---
 School business challenge awards
 ================================

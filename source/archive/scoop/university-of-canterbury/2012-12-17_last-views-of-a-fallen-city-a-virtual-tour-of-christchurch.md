@@ -1,9 +1,13 @@
 ---
 slug: last-views-of-a-fallen-city-a-virtual-tour-of-christchurch
-title: "Last views of a fallen city – a virtual tour of Christchurch"
-date: 2012-12-17
-source-url: https://www.scoop.co.nz/stories/AK1212/S00399/last-views-of-a-fallen-city-a-virtual-tour-of-christchurch.htm
+title: Last views of a fallen city – a virtual tour of Christchurch
+date: 2012-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1212/S00399/last-views-of-a-fallen-city-a-virtual-tour-of-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/17/last-views-of-a-fallen-city-a-virtual-tour-of-christchurch/index.html
+layout: layout.njk
 ---
 Last views of a fallen city – a virtual tour of Christchurch
 ============================================================

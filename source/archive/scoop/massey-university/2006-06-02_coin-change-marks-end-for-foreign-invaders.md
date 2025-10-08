@@ -1,9 +1,12 @@
 ---
 slug: coin-change-marks-end-for-foreign-invaders
-title: "Coin change marks end for foreign invaders"
-date: 2006-06-02
-source-url: https://www.scoop.co.nz/stories/BU0606/S00037/coin-change-marks-end-for-foreign-invaders.htm
+title: Coin change marks end for foreign invaders
+date: 2006-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0606/S00037/coin-change-marks-end-for-foreign-invaders.htm
 author: massey-university
+permalink: /archive/2006/06/02/coin-change-marks-end-for-foreign-invaders/index.html
+layout: layout.njk
 ---
 Coin change marks end for foreign invaders
 ==========================================

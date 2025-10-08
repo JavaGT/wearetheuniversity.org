@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-no-58-11-may-2005
-title: "Don Brash Writes No. 58, 11 May 2005"
-date: 2005-05-11
-source-url: https://www.scoop.co.nz/stories/PA0505/S00264/don-brash-writes-no-58-11-may-2005.htm
+title: Don Brash Writes No. 58, 11 May 2005
+date: 2005-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00264/don-brash-writes-no-58-11-may-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/11/don-brash-writes-no-58-11-may-2005/index.html
+layout: layout.njk
 ---
 Don Brash Writes No. 58, 11 May 2005
 ====================================

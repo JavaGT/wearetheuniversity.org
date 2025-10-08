@@ -1,9 +1,12 @@
 ---
 slug: tertiary-lifeline-buys-time-to-get-model-right
-title: "Tertiary Lifeline Buys Time To Get Model Right"
-date: 2023-06-27
-source-url: https://www.scoop.co.nz/stories/PA2306/S00173/tertiary-lifeline-buys-time-to-get-model-right.htm
+title: Tertiary Lifeline Buys Time To Get Model Right
+date: 2023-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00173/tertiary-lifeline-buys-time-to-get-model-right.htm
 author: green-party
+permalink: /archive/2023/06/27/tertiary-lifeline-buys-time-to-get-model-right/index.html
+layout: layout.njk
 ---
 Tertiary Lifeline Buys Time To Get Model Right
 ==============================================

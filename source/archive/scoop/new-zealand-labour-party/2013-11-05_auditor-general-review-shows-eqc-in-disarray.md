@@ -1,9 +1,12 @@
 ---
 slug: auditor-general-review-shows-eqc-in-disarray
-title: "Auditor General review shows EQC in disarray"
-date: 2013-11-05
-source-url: https://www.scoop.co.nz/stories/PA1311/S00052/auditor-general-review-shows-eqc-in-disarray.htm
+title: Auditor General review shows EQC in disarray
+date: 2013-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00052/auditor-general-review-shows-eqc-in-disarray.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/05/auditor-general-review-shows-eqc-in-disarray/index.html
+layout: layout.njk
 ---
 Auditor General review shows EQC in disarray
 ============================================

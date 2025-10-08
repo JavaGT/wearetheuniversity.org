@@ -1,9 +1,13 @@
 ---
 slug: important-tertiary-education-portfolio-a-logical-fit
-title: "Important tertiary education portfolio a 'logical fit'"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/PA1104/S00071/important-tertiary-education-portfolio-a-logical-fit.htm
+title: Important tertiary education portfolio a 'logical fit'
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00071/important-tertiary-education-portfolio-a-logical-fit.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/05/important-tertiary-education-portfolio-a-logical-fit/index.html
+layout: layout.njk
 ---
 Important tertiary education portfolio a 'logical fit'
 ======================================================

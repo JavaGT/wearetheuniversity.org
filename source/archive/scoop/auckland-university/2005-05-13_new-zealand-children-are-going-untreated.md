@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-children-are-going-untreated
-title: "New Zealand Children Are Going Untreated"
-date: 2005-05-13
-source-url: https://www.scoop.co.nz/stories/ED0505/S00055/new-zealand-children-are-going-untreated.htm
+title: New Zealand Children Are Going Untreated
+date: 2005-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00055/new-zealand-children-are-going-untreated.htm
 author: auckland-university
+permalink: /archive/2005/05/13/new-zealand-children-are-going-untreated/index.html
+layout: layout.njk
 ---
 New Zealand Children Are Going Untreated
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: international-award-to-new-zealand-scientist
-title: "International award to New Zealand scientist"
-date: 2014-01-22
-source-url: https://www.scoop.co.nz/stories/SC1401/S00045/international-award-to-new-zealand-scientist.htm
+title: International award to New Zealand scientist
+date: 2014-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00045/international-award-to-new-zealand-scientist.htm
 author: university-of-canterbury
+permalink: /archive/2014/01/22/international-award-to-new-zealand-scientist/index.html
+layout: layout.njk
 ---
 International award to New Zealand scientist
 ============================================

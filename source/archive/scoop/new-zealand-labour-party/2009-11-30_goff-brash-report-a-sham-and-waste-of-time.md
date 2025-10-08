@@ -1,9 +1,12 @@
 ---
 slug: goff-brash-report-a-sham-and-waste-of-time
-title: "Goff: Brash report a sham and waste of time"
-date: 2009-11-30
-source-url: https://www.scoop.co.nz/stories/PA0911/S00469/goff-brash-report-a-sham-and-waste-of-time.htm
+title: 'Goff: Brash report a sham and waste of time'
+date: 2009-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00469/goff-brash-report-a-sham-and-waste-of-time.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/30/goff-brash-report-a-sham-and-waste-of-time/index.html
+layout: layout.njk
 ---
 Goff: Brash report a sham and waste of time
 ===========================================

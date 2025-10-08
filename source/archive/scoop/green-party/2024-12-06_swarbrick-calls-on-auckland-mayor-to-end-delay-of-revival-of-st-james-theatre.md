@@ -1,9 +1,13 @@
 ---
 slug: swarbrick-calls-on-auckland-mayor-to-end-delay-of-revival-of-st-james-theatre
-title: "Swarbrick Calls On Auckland Mayor To End Delay Of Revival Of St James Theatre"
-date: 2024-12-06
-source-url: https://www.scoop.co.nz/stories/PA2412/S00074/swarbrick-calls-on-auckland-mayor-to-end-delay-of-revival-of-st-james-theatre.htm
+title: Swarbrick Calls On Auckland Mayor To End Delay Of Revival Of St James Theatre
+date: 2024-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00074/swarbrick-calls-on-auckland-mayor-to-end-delay-of-revival-of-st-james-theatre.htm
 author: green-party
+permalink: >-
+  /archive/2024/12/06/swarbrick-calls-on-auckland-mayor-to-end-delay-of-revival-of-st-james-theatre/index.html
+layout: layout.njk
 ---
 Swarbrick Calls On Auckland Mayor To End Delay Of Revival Of St James Theatre
 =============================================================================

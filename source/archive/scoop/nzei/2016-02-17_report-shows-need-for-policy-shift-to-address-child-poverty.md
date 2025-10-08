@@ -1,9 +1,13 @@
 ---
 slug: report-shows-need-for-policy-shift-to-address-child-poverty
-title: "Report shows need for policy shift to address child poverty"
-date: 2016-02-17
-source-url: https://www.scoop.co.nz/stories/PO1602/S00217/report-shows-need-for-policy-shift-to-address-child-poverty.htm
+title: Report shows need for policy shift to address child poverty
+date: 2016-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1602/S00217/report-shows-need-for-policy-shift-to-address-child-poverty.htm
 author: nzei
+permalink: >-
+  /archive/2016/02/17/report-shows-need-for-policy-shift-to-address-child-poverty/index.html
+layout: layout.njk
 ---
 Report shows need for policy shift to address child poverty
 ===========================================================

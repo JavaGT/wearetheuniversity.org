@@ -1,9 +1,12 @@
 ---
 slug: public-lecture-by-auts-newest-honorary-doctor
-title: "Public lecture by AUT’s newest honorary doctor"
-date: 2003-11-06
-source-url: https://www.scoop.co.nz/stories/ED0311/S00021/public-lecture-by-auts-newest-honorary-doctor.htm
+title: Public lecture by AUT’s newest honorary doctor
+date: 2003-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00021/public-lecture-by-auts-newest-honorary-doctor.htm
 author: aut-university
+permalink: /archive/2003/11/06/public-lecture-by-auts-newest-honorary-doctor/index.html
+layout: layout.njk
 ---
 Public lecture by AUT’s newest honorary doctor
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-celebrates-21-years-of-māori-admissions-process
-title: "Victoria celebrates 21 years of Māori Admissions process"
-date: 2011-10-12
-source-url: https://www.scoop.co.nz/stories/ED1110/S00042/victoria-celebrates-21-years-of-maori-admissions-process.htm
+title: Victoria celebrates 21 years of Māori Admissions process
+date: 2011-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00042/victoria-celebrates-21-years-of-maori-admissions-process.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/10/12/victoria-celebrates-21-years-of-m/index.html
+layout: layout.njk
 ---
 Victoria celebrates 21 years of Māori Admissions process
 ========================================================

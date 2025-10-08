@@ -1,9 +1,12 @@
 ---
 slug: honest-immigration-debate-needed-peters
-title: "Honest Immigration Debate Needed – Peters"
-date: 2008-06-11
-source-url: https://www.scoop.co.nz/stories/PA0806/S00152/honest-immigration-debate-needed-peters.htm
+title: Honest Immigration Debate Needed – Peters
+date: 2008-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00152/honest-immigration-debate-needed-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2008/06/11/honest-immigration-debate-needed-peters/index.html
+layout: layout.njk
 ---
 Honest Immigration Debate Needed – Peters
 =========================================

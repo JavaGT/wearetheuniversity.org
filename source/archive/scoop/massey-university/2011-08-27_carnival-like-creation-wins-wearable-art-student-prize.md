@@ -1,9 +1,13 @@
 ---
 slug: carnival-like-creation-wins-wearable-art-student-prize
-title: "Carnival-like creation wins wearable art student prize"
-date: 2011-08-27
-source-url: https://www.scoop.co.nz/stories/CU1108/S00460/carnival-like-creation-wins-wearable-art-student-prize.htm
+title: Carnival-like creation wins wearable art student prize
+date: 2011-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00460/carnival-like-creation-wins-wearable-art-student-prize.htm
 author: massey-university
+permalink: >-
+  /archive/2011/08/27/carnival-like-creation-wins-wearable-art-student-prize/index.html
+layout: layout.njk
 ---
 Carnival-like creation wins wearable art student prize
 ======================================================

@@ -1,9 +1,11 @@
 ---
 slug: dr-pita-sharples-te-ao-maori
-title: "Dr Pita Sharples - Te Ao Maori"
-date: 2007-10-04
+title: Dr Pita Sharples - Te Ao Maori
+date: 2007-10-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0710/S00053/dr-pita-sharples-te-ao-maori.htm
 author: te-pati-maori
+permalink: /archive/2007/10/04/dr-pita-sharples-te-ao-maori/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples - Te Ao Maori
 ==============================

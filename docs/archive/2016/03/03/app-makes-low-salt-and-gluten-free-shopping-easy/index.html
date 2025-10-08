@@ -1,4 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>App makes low salt and gluten-free shopping easy – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>App makes low salt and gluten-free shopping easy</h2><h3><span></span></h3><p>Thu Mar 03 2016 13:00:00 GMT+1300 (New Zealand Daylight Time)</p><p><h1>App makes low salt and gluten-free shopping easy</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>App makes low salt and gluten-free shopping easy</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>App makes low salt and gluten-free shopping easy</h1>
 <p>03 March 2016</p>
 <p><img src="https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/app-makes-low-salt-and-gluten-free-shopping-easy/_jcr_content/par/textimage/image.img.jpg/1456880878076.jpg" alt="1 Glutenswitch" title="1 Glutenswitch"></p>
 <p>Glutenswitch App showing the traffic light colours for a product. Red indicates a less healthy choice, amber a good choice and green is even better.</p>
@@ -18,7 +42,7 @@
 <p>“We know only a small number of New Zealanders read and understand food labels. FoodSwitch and its new filters make it simple for shoppers to identify the best options for their heath and reduce the risks of our biggest killers – heart disease, stroke and cancer,” she says.</p>
 <p>“Since the launch of FoodSwitch we’ve had several requests for a version for people concerned about heart health and for a gluten add-on, highlighting unmet needs of consumers.”</p>
 <p>Bupa New Zealand’s Managing Director, Grainne Moss, says it has become clear since the first release of FoodSwitch that there were large communities of people looking for some extra help when it came to healthy food choices.</p>
-<p>“Having something without gluten doesn&#39;t automatically make it healthy and as with processed foods in general, some gluten-free products may be high in sodium or saturated fat,” says Ms Moss.</p>
+<p>“Having something without gluten doesn't automatically make it healthy and as with processed foods in general, some gluten-free products may be high in sodium or saturated fat,” says Ms Moss.</p>
 <p>“This isn’t about chasing a fad,” she says. “GlutenSwitch helps consumers who need to maintain a gluten-free diet choose the best options for their health.”</p>
 <p>Users can scan the barcode of packaged food using their smartphone camera to receive immediate, easy to understand nutritional information on close to 30,000 New Zealand supermarket products.</p>
 <p>When a product is scanned using the phone’s camera, the SaltSwitch filter indicates whether the product is low in salt and if there are healthier, lower salt options.</p>
@@ -26,4 +50,25 @@
 <p>The updated version of FoodSwitch with Salt and Gluten filters is available as a free download from the New Zealand App Store for iPhone™ 3GS/4/4S/5/5C/5S/6/6S and iPad 2 devices or the Google Marketplace for an Android version.</p>
 <p>Apple mobile devices that have a camera with auto-focus require iOS 5.0 or later. Android devices need to be running version 4.4.4 or above.</p>
 <p>For media enquiries email <a href="mailto:s.phillips@auckland.ac.nz">Medical and Health Media Advisor, Suzi Phillips</a>.</p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

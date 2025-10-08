@@ -1,9 +1,12 @@
 ---
 slug: queerest-tea-party-highlights-diversity-week
-title: "Queerest Tea Party Highlights Diversity Week"
-date: 2010-04-21
-source-url: https://www.scoop.co.nz/stories/CU1004/S00273/queerest-tea-party-highlights-diversity-week.htm
+title: Queerest Tea Party Highlights Diversity Week
+date: 2010-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1004/S00273/queerest-tea-party-highlights-diversity-week.htm
 author: otago-university-students-association
+permalink: /archive/2010/04/21/queerest-tea-party-highlights-diversity-week/index.html
+layout: layout.njk
 ---
 Queerest Tea Party Highlights Diversity Week
 ============================================

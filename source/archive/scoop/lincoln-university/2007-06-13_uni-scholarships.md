@@ -1,9 +1,11 @@
 ---
 slug: uni-scholarships
-title: "Uni Scholarships"
-date: 2007-06-13
+title: Uni Scholarships
+date: 2007-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0706/S00056/uni-scholarships.htm
 author: lincoln-university
+permalink: /archive/2007/06/13/uni-scholarships/index.html
+layout: layout.njk
 ---
  Uni Scholarships
 =================

@@ -1,9 +1,13 @@
 ---
 slug: a-few-hares-the-life-and-economics-of-bill-phillips
-title: "A Few Hares: The Life and Economics of Bill Phillips"
-date: 2016-02-15
-source-url: https://www.scoop.co.nz/stories/CU1602/S00296/a-few-hares-the-life-and-economics-of-bill-phillips.htm
+title: 'A Few Hares: The Life and Economics of Bill Phillips'
+date: 2016-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1602/S00296/a-few-hares-the-life-and-economics-of-bill-phillips.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2016/02/15/a-few-hares-the-life-and-economics-of-bill-phillips/index.html
+layout: layout.njk
 ---
 A Few Hares: The Life and Economics of Bill Phillips
 ====================================================

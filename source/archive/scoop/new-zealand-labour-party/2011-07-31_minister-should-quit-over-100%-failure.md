@@ -1,9 +1,12 @@
 ---
 slug: minister-should-quit-over-100%-failure
-title: "Minister should quit over 100% failure"
-date: 2011-07-31
-source-url: https://www.scoop.co.nz/stories/PA1107/S00469/minister-should-quit-over-100-failure.htm
+title: Minister should quit over 100% failure
+date: 2011-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00469/minister-should-quit-over-100-failure.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/31/minister-should-quit-over-100/index.html
+layout: layout.njk
 ---
 Minister should quit over 100% failure
 ======================================

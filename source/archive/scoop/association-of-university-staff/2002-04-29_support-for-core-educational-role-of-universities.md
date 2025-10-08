@@ -1,9 +1,13 @@
 ---
 slug: support-for-core-educational-role-of-universities
-title: "Support for core educational role of universities"
-date: 2002-04-29
-source-url: https://www.scoop.co.nz/stories/ED0204/S00041/support-for-core-educational-role-of-universities.htm
+title: Support for core educational role of universities
+date: 2002-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00041/support-for-core-educational-role-of-universities.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2002/04/29/support-for-core-educational-role-of-universities/index.html
+layout: layout.njk
 ---
 Support for core educational role of universities
 =================================================

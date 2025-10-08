@@ -1,9 +1,12 @@
 ---
 slug: clark-tax-cuts-grossly-irresponsible
-title: "Clark: Tax cuts 'grossly irresponsible'"
-date: 1999-11-02
-source-url: https://www.scoop.co.nz/stories/PA9911/S00033/clark-tax-cuts-grossly-irresponsible.htm
+title: 'Clark: Tax cuts ''grossly irresponsible'''
+date: 1999-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00033/clark-tax-cuts-grossly-irresponsible.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/02/clark-tax-cuts-grossly-irresponsible/index.html
+layout: layout.njk
 ---
 Clark: Tax cuts 'grossly irresponsible'
 =======================================

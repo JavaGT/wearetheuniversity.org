@@ -1,9 +1,12 @@
 ---
 slug: who-director-general-lockdowns-unsustainable
-title: "WHO Director-General: Lockdowns Unsustainable"
-date: 2020-08-22
-source-url: https://www.scoop.co.nz/stories/PO2008/S00269/who-director-general-lockdowns-unsustainable.htm
+title: 'WHO Director-General: Lockdowns Unsustainable'
+date: 2020-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00269/who-director-general-lockdowns-unsustainable.htm
 author: act-new-zealand
+permalink: /archive/2020/08/22/who-director-general-lockdowns-unsustainable/index.html
+layout: layout.njk
 ---
 WHO Director-General: Lockdowns Unsustainable
 =============================================

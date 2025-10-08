@@ -1,9 +1,12 @@
 ---
 slug: super-fund-should-divest-$140-million-in-high-risk-coal
-title: "Super Fund should divest $140 million in high risk coal"
-date: 2015-03-19
-source-url: https://www.scoop.co.nz/stories/PA1503/S00293/super-fund-should-divest-140-million-in-high-risk-coal.htm
+title: Super Fund should divest $140 million in high risk coal
+date: 2015-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00293/super-fund-should-divest-140-million-in-high-risk-coal.htm
 author: green-party
+permalink: /archive/2015/03/19/super-fund-should-divest-/index.html
+layout: layout.njk
 ---
 Super Fund should divest $140 million in high risk coal
 =======================================================

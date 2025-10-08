@@ -1,9 +1,12 @@
 ---
 slug: climate-denial-puts-peoples-livelihoods-at-risk
-title: "Climate denial puts peoples’ livelihoods at risk"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/PA1511/S00398/climate-denial-puts-peoples-livelihoods-at-risk.htm
+title: Climate denial puts peoples’ livelihoods at risk
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00398/climate-denial-puts-peoples-livelihoods-at-risk.htm
 author: green-party
+permalink: /archive/2015/11/20/climate-denial-puts-peoples-livelihoods-at-risk/index.html
+layout: layout.njk
 ---
 Climate denial puts peoples’ livelihoods at risk
 ================================================

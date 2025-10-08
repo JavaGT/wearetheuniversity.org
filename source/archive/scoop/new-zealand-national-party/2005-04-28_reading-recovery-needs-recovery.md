@@ -1,9 +1,12 @@
 ---
 slug: reading-recovery-needs-recovery
-title: "Reading Recovery Needs Recovery"
-date: 2005-04-28
-source-url: https://www.scoop.co.nz/stories/PA0504/S00570/reading-recovery-needs-recovery.htm
+title: Reading Recovery Needs Recovery
+date: 2005-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00570/reading-recovery-needs-recovery.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/28/reading-recovery-needs-recovery/index.html
+layout: layout.njk
 ---
 Reading Recovery Needs Recovery
 ===============================

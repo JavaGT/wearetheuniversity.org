@@ -1,9 +1,16 @@
 ---
-slug: student-volunteer-army-prepared-to-mobilise-to-support-canterbury-residents-in-wake-of-flooding-event
-title: "Student Volunteer Army Prepared To Mobilise To Support Canterbury Residents In Wake Of Flooding Event"
-date: 2021-05-31
-source-url: https://www.scoop.co.nz/stories/AK2105/S00573/student-volunteer-army-prepared-to-mobilise-to-support-canterbury-residents-in-wake-of-flooding-event.htm
+slug: >-
+  student-volunteer-army-prepared-to-mobilise-to-support-canterbury-residents-in-wake-of-flooding-event
+title: >-
+  Student Volunteer Army Prepared To Mobilise To Support Canterbury Residents In
+  Wake Of Flooding Event
+date: 2021-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2105/S00573/student-volunteer-army-prepared-to-mobilise-to-support-canterbury-residents-in-wake-of-flooding-event.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2021/05/31/student-volunteer-army-prepared-to-mobilise-to-support-canterbury-residents-in-wake-of-flooding-event/index.html
+layout: layout.njk
 ---
 Student Volunteer Army Prepared To Mobilise To Support Canterbury Residents In Wake Of Flooding Event
 =====================================================================================================

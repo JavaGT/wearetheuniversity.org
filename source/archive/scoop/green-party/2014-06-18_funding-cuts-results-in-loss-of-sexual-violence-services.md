@@ -1,9 +1,13 @@
 ---
 slug: funding-cuts-results-in-loss-of-sexual-violence-services
-title: "Funding cuts results in loss of sexual violence services"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/PA1406/S00270/funding-cuts-results-in-loss-of-sexual-violence-services.htm
+title: Funding cuts results in loss of sexual violence services
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00270/funding-cuts-results-in-loss-of-sexual-violence-services.htm
 author: green-party
+permalink: >-
+  /archive/2014/06/18/funding-cuts-results-in-loss-of-sexual-violence-services/index.html
+layout: layout.njk
 ---
 Funding cuts results in loss of sexual violence services
 ========================================================

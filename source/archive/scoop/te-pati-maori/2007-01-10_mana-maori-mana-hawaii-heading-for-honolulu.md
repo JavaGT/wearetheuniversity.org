@@ -1,9 +1,12 @@
 ---
 slug: mana-maori-mana-hawaii-heading-for-honolulu
-title: "Mana Maori, Mana Hawai'i – heading  for Honolulu"
-date: 2007-01-10
-source-url: https://www.scoop.co.nz/stories/PA0701/S00037/mana-maori-mana-hawaii-heading-for-honolulu.htm
+title: Mana Maori, Mana Hawai'i – heading  for Honolulu
+date: 2007-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00037/mana-maori-mana-hawaii-heading-for-honolulu.htm
 author: te-pati-maori
+permalink: /archive/2007/01/10/mana-maori-mana-hawaii-heading-for-honolulu/index.html
+layout: layout.njk
 ---
 Mana Maori, Mana Hawai'i – heading for Honolulu
 ===============================================

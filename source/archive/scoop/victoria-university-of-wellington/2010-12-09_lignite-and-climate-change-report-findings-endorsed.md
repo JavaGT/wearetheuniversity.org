@@ -1,9 +1,13 @@
 ---
 slug: lignite-and-climate-change-report-findings-endorsed
-title: "Lignite and Climate Change report findings endorsed"
-date: 2010-12-09
-source-url: https://www.scoop.co.nz/stories/SC1012/S00032/lignite-and-climate-change-report-findings-endorsed.htm
+title: Lignite and Climate Change report findings endorsed
+date: 2010-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1012/S00032/lignite-and-climate-change-report-findings-endorsed.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/12/09/lignite-and-climate-change-report-findings-endorsed/index.html
+layout: layout.njk
 ---
 Lignite and Climate Change report findings endorsed
 ===================================================

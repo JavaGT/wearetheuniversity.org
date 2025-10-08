@@ -1,9 +1,13 @@
 ---
 slug: folly-of-governments-hands-off-approach-to-lifting-skills
-title: "Folly of Government’s ‘hands off’ approach to lifting skills"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/PA1109/S00619/folly-of-governments-hands-off-approach-to-lifting-skills.htm
+title: Folly of Government’s ‘hands off’ approach to lifting skills
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00619/folly-of-governments-hands-off-approach-to-lifting-skills.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/30/folly-of-governments-hands-off-approach-to-lifting-skills/index.html
+layout: layout.njk
 ---
 Folly of Government’s ‘hands off’ approach to lifting skills
 ============================================================

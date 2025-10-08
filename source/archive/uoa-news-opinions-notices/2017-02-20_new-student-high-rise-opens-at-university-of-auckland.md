@@ -1,8 +1,12 @@
 ---
 slug: new-student-high-rise-opens-at-university-of-auckland
-title: "New student high-rise opens at University of Auckland"
-date: 2017-02-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/new-student-high-rise-opens-at-university-of-auckland.html
+title: New student high-rise opens at University of Auckland
+date: 2017-02-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/new-student-high-rise-opens-at-university-of-auckland.html
+permalink: >-
+  /archive/2017/02/20/new-student-high-rise-opens-at-university-of-auckland/index.html
+layout: layout.njk
 ---
 New student high-rise opens at University of Auckland
 =====================================================

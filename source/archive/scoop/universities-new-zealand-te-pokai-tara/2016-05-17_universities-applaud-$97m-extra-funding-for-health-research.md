@@ -1,9 +1,12 @@
 ---
 slug: universities-applaud-$97m-extra-funding-for-health-research
-title: "Universities applaud $97m extra funding for health research"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/SC1605/S00042/universities-applaud-97m-extra-funding-for-health-research.htm
+title: Universities applaud $97m extra funding for health research
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00042/universities-applaud-97m-extra-funding-for-health-research.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2016/05/17/universities-applaud-/index.html
+layout: layout.njk
 ---
 Universities applaud $97m extra funding for health research
 ===========================================================

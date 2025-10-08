@@ -1,9 +1,12 @@
 ---
 slug: healthcare-eligibility-changes-unacceptable
-title: "Healthcare Eligibility Changes Unacceptable"
-date: 2001-04-24
-source-url: https://www.scoop.co.nz/stories/PA0104/S00362/healthcare-eligibility-changes-unacceptable.htm
+title: Healthcare Eligibility Changes Unacceptable
+date: 2001-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00362/healthcare-eligibility-changes-unacceptable.htm
 author: green-party
+permalink: /archive/2001/04/24/healthcare-eligibility-changes-unacceptable/index.html
+layout: layout.njk
 ---
 Healthcare Eligibility Changes Unacceptable
 ===========================================

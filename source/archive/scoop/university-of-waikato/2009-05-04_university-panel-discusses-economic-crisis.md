@@ -1,9 +1,12 @@
 ---
 slug: university-panel-discusses-economic-crisis
-title: "University panel discusses economic crisis"
-date: 2009-05-04
-source-url: https://www.scoop.co.nz/stories/PO0905/S00046/university-panel-discusses-economic-crisis.htm
+title: University panel discusses economic crisis
+date: 2009-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00046/university-panel-discusses-economic-crisis.htm
 author: university-of-waikato
+permalink: /archive/2009/05/04/university-panel-discusses-economic-crisis/index.html
+layout: layout.njk
 ---
 University panel discusses economic crisis
 ==========================================

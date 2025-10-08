@@ -1,9 +1,12 @@
 ---
 slug: govt-finally-sees-sense-over-mandeville
-title: "Govt Finally Sees Sense Over Mandeville"
-date: 2001-05-29
-source-url: https://www.scoop.co.nz/stories/PA0105/S00629/govt-finally-sees-sense-over-mandeville.htm
+title: Govt Finally Sees Sense Over Mandeville
+date: 2001-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00629/govt-finally-sees-sense-over-mandeville.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/29/govt-finally-sees-sense-over-mandeville/index.html
+layout: layout.njk
 ---
 Govt Finally Sees Sense Over Mandeville
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: staff-union-brings-legal-action-against-university
-title: "Staff union brings legal action against University"
-date: 2005-03-17
-source-url: https://www.scoop.co.nz/stories/ED0503/S00057/staff-union-brings-legal-action-against-university.htm
+title: Staff union brings legal action against University
+date: 2005-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00057/staff-union-brings-legal-action-against-university.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2005/03/17/staff-union-brings-legal-action-against-university/index.html
+layout: layout.njk
 ---
 Staff union brings legal action against University
 ==================================================

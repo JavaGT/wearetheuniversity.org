@@ -1,8 +1,12 @@
 ---
 slug: fellowship-success-leads-to-research-placement-in-europe
-title: "Fellowship success leads to research placement in Europe"
-date: 2016-03-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/fellowship-success-leads-to-research-placement-in-europe-.html
+title: Fellowship success leads to research placement in Europe
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/fellowship-success-leads-to-research-placement-in-europe-.html
+permalink: >-
+  /archive/2016/03/11/fellowship-success-leads-to-research-placement-in-europe/index.html
+layout: layout.njk
 ---
 Fellowship success leads to research placement in Europe
 ========================================================

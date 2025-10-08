@@ -1,9 +1,12 @@
 ---
 slug: twyford-misleads-on-rail-again
-title: "Twyford misleads on rail again"
-date: 2018-04-20
-source-url: https://www.scoop.co.nz/stories/PA1804/S00236/twyford-misleads-on-rail-again.htm
+title: Twyford misleads on rail again
+date: 2018-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00236/twyford-misleads-on-rail-again.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/20/twyford-misleads-on-rail-again/index.html
+layout: layout.njk
 ---
 Twyford misleads on rail again
 ==============================

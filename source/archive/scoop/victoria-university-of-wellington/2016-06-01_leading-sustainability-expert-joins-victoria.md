@@ -1,9 +1,12 @@
 ---
 slug: leading-sustainability-expert-joins-victoria
-title: "Leading sustainability expert joins Victoria"
-date: 2016-06-01
-source-url: https://www.scoop.co.nz/stories/ED1606/S00003/leading-sustainability-expert-joins-victoria.htm
+title: Leading sustainability expert joins Victoria
+date: 2016-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00003/leading-sustainability-expert-joins-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/06/01/leading-sustainability-expert-joins-victoria/index.html
+layout: layout.njk
 ---
 Leading sustainability expert joins Victoria
 ============================================

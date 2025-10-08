@@ -1,9 +1,12 @@
 ---
 slug: the-state-of-welfare-in-new-zealand
-title: "The State Of Welfare In New Zealand"
-date: 2003-11-18
-source-url: https://www.scoop.co.nz/stories/PA0311/S00352/the-state-of-welfare-in-new-zealand.htm
+title: The State Of Welfare In New Zealand
+date: 2003-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00352/the-state-of-welfare-in-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2003/11/18/the-state-of-welfare-in-new-zealand/index.html
+layout: layout.njk
 ---
 The State Of Welfare In New Zealand
 ===================================

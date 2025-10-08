@@ -1,9 +1,16 @@
 ---
-slug: new-zealands-richest-short-story-prize-launches-with-acclaimed-writer-patricia-grace-as-chief-judge-for-2021
-title: "New Zealand’s Richest Short Story Prize Launches With Acclaimed Writer Patricia Grace As Chief Judge For 2021"
-date: 2021-03-31
-source-url: https://www.scoop.co.nz/stories/CU2103/S00258/new-zealands-richest-short-story-prize-launches-with-acclaimed-writer-patricia-grace-as-chief-judge-for-2021.htm
+slug: >-
+  new-zealands-richest-short-story-prize-launches-with-acclaimed-writer-patricia-grace-as-chief-judge-for-2021
+title: >-
+  New Zealand’s Richest Short Story Prize Launches With Acclaimed Writer
+  Patricia Grace As Chief Judge For 2021
+date: 2021-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2103/S00258/new-zealands-richest-short-story-prize-launches-with-acclaimed-writer-patricia-grace-as-chief-judge-for-2021.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/03/31/new-zealands-richest-short-story-prize-launches-with-acclaimed-writer-patricia-grace-as-chief-judge-for-2021/index.html
+layout: layout.njk
 ---
 New Zealand’s Richest Short Story Prize Launches With Acclaimed Writer Patricia Grace As Chief Judge For 2021
 =============================================================================================================

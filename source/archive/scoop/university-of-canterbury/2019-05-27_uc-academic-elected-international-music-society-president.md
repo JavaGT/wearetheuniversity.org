@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-elected-international-music-society-president
-title: "UC academic elected international music society president"
-date: 2019-05-27
-source-url: https://www.scoop.co.nz/stories/CU1905/S00295/uc-academic-elected-international-music-society-president.htm
+title: UC academic elected international music society president
+date: 2019-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1905/S00295/uc-academic-elected-international-music-society-president.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/05/27/uc-academic-elected-international-music-society-president/index.html
+layout: layout.njk
 ---
 UC academic elected international music society president
 =========================================================

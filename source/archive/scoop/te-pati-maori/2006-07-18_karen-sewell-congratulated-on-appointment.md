@@ -1,9 +1,12 @@
 ---
 slug: karen-sewell-congratulated-on-appointment
-title: "Karen Sewell Congratulated on Appointment"
-date: 2006-07-18
-source-url: https://www.scoop.co.nz/stories/PA0607/S00266/karen-sewell-congratulated-on-appointment.htm
+title: Karen Sewell Congratulated on Appointment
+date: 2006-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00266/karen-sewell-congratulated-on-appointment.htm
 author: te-pati-maori
+permalink: /archive/2006/07/18/karen-sewell-congratulated-on-appointment/index.html
+layout: layout.njk
 ---
 Karen Sewell Congratulated on Appointment
 =========================================

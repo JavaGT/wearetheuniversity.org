@@ -1,9 +1,11 @@
 ---
 slug: d-day-for-diabetics
-title: "D-Day for diabetics"
-date: 2012-12-01
+title: D-Day for diabetics
+date: 2012-12-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1212/S00002/d-day-for-diabetics.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/01/d-day-for-diabetics/index.html
+layout: layout.njk
 ---
 D-Day for diabetics
 ===================

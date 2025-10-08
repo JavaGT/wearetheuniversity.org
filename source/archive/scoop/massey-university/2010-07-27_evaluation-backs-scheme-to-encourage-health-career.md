@@ -1,9 +1,13 @@
 ---
 slug: evaluation-backs-scheme-to-encourage-health-career
-title: "Evaluation backs scheme to encourage health career"
-date: 2010-07-27
-source-url: https://www.scoop.co.nz/stories/ED1007/S00091/evaluation-backs-scheme-to-encourage-health-career.htm
+title: Evaluation backs scheme to encourage health career
+date: 2010-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00091/evaluation-backs-scheme-to-encourage-health-career.htm
 author: massey-university
+permalink: >-
+  /archive/2010/07/27/evaluation-backs-scheme-to-encourage-health-career/index.html
+layout: layout.njk
 ---
 Evaluation backs scheme to encourage health career
 ==================================================

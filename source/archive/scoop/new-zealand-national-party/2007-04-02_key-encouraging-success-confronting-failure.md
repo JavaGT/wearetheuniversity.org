@@ -1,9 +1,12 @@
 ---
 slug: key-encouraging-success-confronting-failure
-title: "Key: Encouraging Success: Confronting Failure"
-date: 2007-04-02
-source-url: https://www.scoop.co.nz/stories/PA0704/S00019/key-encouraging-success-confronting-failure.htm
+title: 'Key: Encouraging Success: Confronting Failure'
+date: 2007-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00019/key-encouraging-success-confronting-failure.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/02/key-encouraging-success-confronting-failure/index.html
+layout: layout.njk
 ---
 Key: Encouraging Success: Confronting Failure
 =============================================

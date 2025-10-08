@@ -1,9 +1,13 @@
 ---
 slug: uc-and-cce-join-forces-to-celebrate-adult-learning
-title: "UC and CCE join forces to celebrate adult learning"
-date: 2006-08-29
-source-url: https://www.scoop.co.nz/stories/ED0608/S00087/uc-and-cce-join-forces-to-celebrate-adult-learning.htm
+title: UC and CCE join forces to celebrate adult learning
+date: 2006-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00087/uc-and-cce-join-forces-to-celebrate-adult-learning.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2006/08/29/uc-and-cce-join-forces-to-celebrate-adult-learning/index.html
+layout: layout.njk
 ---
 UC and CCE join forces to celebrate adult learning
 ==================================================

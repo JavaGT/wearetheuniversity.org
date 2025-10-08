@@ -1,9 +1,12 @@
 ---
 slug: floodgates-for-immigrants-wide-open
-title: "Floodgates For Immigrants Wide Open"
-date: 2003-03-03
-source-url: https://www.scoop.co.nz/stories/PA0303/S00018/floodgates-for-immigrants-wide-open.htm
+title: Floodgates For Immigrants Wide Open
+date: 2003-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00018/floodgates-for-immigrants-wide-open.htm
 author: new-zealand-first-party
+permalink: /archive/2003/03/03/floodgates-for-immigrants-wide-open/index.html
+layout: layout.njk
 ---
 Floodgates For Immigrants Wide Open
 ===================================

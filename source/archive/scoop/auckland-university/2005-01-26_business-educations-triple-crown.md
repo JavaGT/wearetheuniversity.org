@@ -1,9 +1,12 @@
 ---
 slug: business-educations-triple-crown
-title: "Business Education's Triple Crown"
-date: 2005-01-26
-source-url: https://www.scoop.co.nz/stories/ED0501/S00052/business-educations-triple-crown.htm
+title: Business Education's Triple Crown
+date: 2005-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00052/business-educations-triple-crown.htm
 author: auckland-university
+permalink: /archive/2005/01/26/business-educations-triple-crown/index.html
+layout: layout.njk
 ---
 Business Education's Triple Crown
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: denniston-decision-an-environmental-and-climate-disaster
-title: "Denniston decision an environmental and climate disaster"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/PA1308/S00144/denniston-decision-an-environmental-and-climate-disaster.htm
+title: Denniston decision an environmental and climate disaster
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00144/denniston-decision-an-environmental-and-climate-disaster.htm
 author: green-party
+permalink: >-
+  /archive/2013/08/08/denniston-decision-an-environmental-and-climate-disaster/index.html
+layout: layout.njk
 ---
 Denniston decision an environmental and climate disaster
 ========================================================

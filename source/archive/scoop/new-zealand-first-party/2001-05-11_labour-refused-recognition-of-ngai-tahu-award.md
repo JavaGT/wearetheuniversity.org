@@ -1,9 +1,12 @@
 ---
 slug: labour-refused-recognition-of-ngai-tahu-award
-title: "Labour Refused Recognition Of Ngai Tahu Award"
-date: 2001-05-11
-source-url: https://www.scoop.co.nz/stories/PA0105/S00258/labour-refused-recognition-of-ngai-tahu-award.htm
+title: Labour Refused Recognition Of Ngai Tahu Award
+date: 2001-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00258/labour-refused-recognition-of-ngai-tahu-award.htm
 author: new-zealand-first-party
+permalink: /archive/2001/05/11/labour-refused-recognition-of-ngai-tahu-award/index.html
+layout: layout.njk
 ---
 Labour Refused Recognition Of Ngai Tahu Award
 =============================================

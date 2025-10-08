@@ -1,9 +1,13 @@
 ---
 slug: victoria-congratulates-peter-hughes-on-appointment
-title: "Victoria congratulates Peter Hughes on appointment"
-date: 2013-06-25
-source-url: https://www.scoop.co.nz/stories/ED1306/S00135/victoria-congratulates-peter-hughes-on-appointment.htm
+title: Victoria congratulates Peter Hughes on appointment
+date: 2013-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00135/victoria-congratulates-peter-hughes-on-appointment.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/06/25/victoria-congratulates-peter-hughes-on-appointment/index.html
+layout: layout.njk
 ---
 Victoria congratulates Peter Hughes on appointment
 ==================================================

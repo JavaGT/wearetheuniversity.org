@@ -1,9 +1,12 @@
 ---
 slug: biggest-ever-solar-flare-just-got-bigger
-title: "Biggest Ever Solar Flare Just Got Bigger"
-date: 2004-03-16
-source-url: https://www.scoop.co.nz/stories/ED0403/S00065/biggest-ever-solar-flare-just-got-bigger.htm
+title: Biggest Ever Solar Flare Just Got Bigger
+date: 2004-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00065/biggest-ever-solar-flare-just-got-bigger.htm
 author: university-of-otago
+permalink: /archive/2004/03/16/biggest-ever-solar-flare-just-got-bigger/index.html
+layout: layout.njk
 ---
 Biggest Ever Solar Flare Just Got Bigger
 ========================================

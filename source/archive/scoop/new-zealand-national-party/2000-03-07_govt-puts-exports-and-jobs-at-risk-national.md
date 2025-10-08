@@ -1,9 +1,12 @@
 ---
 slug: govt-puts-exports-and-jobs-at-risk-national
-title: "Govt Puts Exports And Jobs At Risk - National"
-date: 2000-03-07
-source-url: https://www.scoop.co.nz/stories/PA0003/S00096/govt-puts-exports-and-jobs-at-risk-national.htm
+title: Govt Puts Exports And Jobs At Risk - National
+date: 2000-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00096/govt-puts-exports-and-jobs-at-risk-national.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/07/govt-puts-exports-and-jobs-at-risk-national/index.html
+layout: layout.njk
 ---
 Govt Puts Exports And Jobs At Risk - National
 =============================================

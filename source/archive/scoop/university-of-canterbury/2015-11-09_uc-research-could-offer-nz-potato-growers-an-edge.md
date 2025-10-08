@@ -1,9 +1,13 @@
 ---
 slug: uc-research-could-offer-nz-potato-growers-an-edge
-title: "UC research could offer NZ potato growers an edge"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/SC1511/S00026/uc-research-could-offer-nz-potato-growers-an-edge.htm
+title: UC research could offer NZ potato growers an edge
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00026/uc-research-could-offer-nz-potato-growers-an-edge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/11/09/uc-research-could-offer-nz-potato-growers-an-edge/index.html
+layout: layout.njk
 ---
 UC research could offer NZ potato growers an edge
 =================================================

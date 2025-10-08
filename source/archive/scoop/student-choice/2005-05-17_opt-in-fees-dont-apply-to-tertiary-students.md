@@ -1,9 +1,12 @@
 ---
 slug: opt-in-fees-dont-apply-to-tertiary-students
-title: "\"Opt In Fees Don't Apply to Tertiary Students\""
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/ED0505/S00068/opt-in-fees-dont-apply-to-tertiary-students.htm
+title: '"Opt In Fees Don''t Apply to Tertiary Students"'
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00068/opt-in-fees-dont-apply-to-tertiary-students.htm
 author: student-choice
+permalink: /archive/2005/05/17/opt-in-fees-dont-apply-to-tertiary-students/index.html
+layout: layout.njk
 ---
 \"Opt In Fees Don't Apply to Tertiary Students"
 ==============================================

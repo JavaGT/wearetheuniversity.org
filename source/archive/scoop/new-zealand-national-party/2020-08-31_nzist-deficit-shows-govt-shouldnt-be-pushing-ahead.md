@@ -1,9 +1,13 @@
 ---
 slug: nzist-deficit-shows-govt-shouldnt-be-pushing-ahead
-title: "NZIST Deficit Shows Govt Shouldn’t Be Pushing Ahead"
-date: 2020-08-31
-source-url: https://www.scoop.co.nz/stories/PA2008/S00238/nzist-deficit-shows-govt-shouldnt-be-pushing-ahead.htm
+title: NZIST Deficit Shows Govt Shouldn’t Be Pushing Ahead
+date: 2020-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00238/nzist-deficit-shows-govt-shouldnt-be-pushing-ahead.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/31/nzist-deficit-shows-govt-shouldnt-be-pushing-ahead/index.html
+layout: layout.njk
 ---
 NZIST Deficit Shows Govt Shouldn’t Be Pushing Ahead
 ===================================================

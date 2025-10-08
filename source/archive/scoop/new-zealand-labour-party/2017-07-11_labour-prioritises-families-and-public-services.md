@@ -1,9 +1,12 @@
 ---
 slug: labour-prioritises-families-and-public-services
-title: "Labour prioritises families and public services"
-date: 2017-07-11
-source-url: https://www.scoop.co.nz/stories/PA1707/S00172/labour-prioritises-families-and-public-services.htm
+title: Labour prioritises families and public services
+date: 2017-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00172/labour-prioritises-families-and-public-services.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/11/labour-prioritises-families-and-public-services/index.html
+layout: layout.njk
 ---
 Labour prioritises families and public services
 ===============================================

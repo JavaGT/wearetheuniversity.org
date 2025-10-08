@@ -1,9 +1,11 @@
 ---
 slug: ageing-in-new-zealand
-title: "Ageing in New Zealand"
-date: 2006-11-08
+title: Ageing in New Zealand
+date: 2006-11-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0611/S00117/ageing-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/08/ageing-in-new-zealand/index.html
+layout: layout.njk
 ---
 Ageing in New Zealand
 =====================

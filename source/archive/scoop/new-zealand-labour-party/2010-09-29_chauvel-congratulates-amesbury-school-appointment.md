@@ -1,9 +1,13 @@
 ---
 slug: chauvel-congratulates-amesbury-school-appointment
-title: "Chauvel congratulates Amesbury School appointment"
-date: 2010-09-29
-source-url: https://www.scoop.co.nz/stories/PA1009/S00427/chauvel-congratulates-amesbury-school-appointment.htm
+title: Chauvel congratulates Amesbury School appointment
+date: 2010-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00427/chauvel-congratulates-amesbury-school-appointment.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/09/29/chauvel-congratulates-amesbury-school-appointment/index.html
+layout: layout.njk
 ---
 Chauvel congratulates Amesbury School appointment
 =================================================

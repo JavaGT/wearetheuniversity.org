@@ -1,9 +1,12 @@
 ---
 slug: māori-and-pacific-students-get-support-from-aut
-title: "Māori And Pacific Students Get Support From AUT"
-date: 2020-04-24
-source-url: https://www.scoop.co.nz/stories/ED2004/S00054/maori-and-pacific-students-get-support-from-aut.htm
+title: Māori And Pacific Students Get Support From AUT
+date: 2020-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2004/S00054/maori-and-pacific-students-get-support-from-aut.htm
 author: aut-university
+permalink: /archive/2020/04/24/m/index.html
+layout: layout.njk
 ---
 Māori And Pacific Students Get Support From AUT
 ===============================================

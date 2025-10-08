@@ -1,9 +1,12 @@
 ---
 slug: green-petition-against-proposed-roads-in-parks
-title: "Green Petition Against Proposed Roads In Parks"
-date: 2001-05-07
-source-url: https://www.scoop.co.nz/stories/PA0105/S00127/green-petition-against-proposed-roads-in-parks.htm
+title: Green Petition Against Proposed Roads In Parks
+date: 2001-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00127/green-petition-against-proposed-roads-in-parks.htm
 author: green-party
+permalink: /archive/2001/05/07/green-petition-against-proposed-roads-in-parks/index.html
+layout: layout.njk
 ---
 Green Petition Against Proposed Roads In Parks
 ==============================================

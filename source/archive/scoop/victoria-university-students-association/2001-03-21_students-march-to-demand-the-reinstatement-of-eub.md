@@ -1,9 +1,13 @@
 ---
 slug: students-march-to-demand-the-reinstatement-of-eub
-title: "Students March To Demand The Reinstatement Of EUB"
-date: 2001-03-21
-source-url: https://www.scoop.co.nz/stories/ED0103/S00039/students-march-to-demand-the-reinstatement-of-eub.htm
+title: Students March To Demand The Reinstatement Of EUB
+date: 2001-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00039/students-march-to-demand-the-reinstatement-of-eub.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2001/03/21/students-march-to-demand-the-reinstatement-of-eub/index.html
+layout: layout.njk
 ---
 Students March To Demand The Reinstatement Of EUB
 =================================================

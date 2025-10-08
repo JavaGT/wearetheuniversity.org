@@ -1,9 +1,12 @@
 ---
 slug: pay-jolt-for-school-support-staff
-title: "Pay Jolt For School Support Staff"
-date: 2008-09-29
-source-url: https://www.scoop.co.nz/stories/ED0809/S00099/pay-jolt-for-school-support-staff.htm
+title: Pay Jolt For School Support Staff
+date: 2008-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00099/pay-jolt-for-school-support-staff.htm
 author: nzei
+permalink: /archive/2008/09/29/pay-jolt-for-school-support-staff/index.html
+layout: layout.njk
 ---
 Pay Jolt For School Support Staff
 =================================

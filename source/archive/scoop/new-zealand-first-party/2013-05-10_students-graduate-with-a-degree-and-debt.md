@@ -1,9 +1,12 @@
 ---
 slug: students-graduate-with-a-degree-and-debt
-title: "Students Graduate with a Degree – And Debt"
-date: 2013-05-10
-source-url: https://www.scoop.co.nz/stories/PA1305/S00178/students-graduate-with-a-degree-and-debt.htm
+title: Students Graduate with a Degree – And Debt
+date: 2013-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00178/students-graduate-with-a-degree-and-debt.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/10/students-graduate-with-a-degree-and-debt/index.html
+layout: layout.njk
 ---
 Students Graduate with a Degree – And Debt
 ==========================================

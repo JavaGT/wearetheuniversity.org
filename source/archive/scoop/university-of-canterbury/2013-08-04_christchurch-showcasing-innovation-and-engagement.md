@@ -1,9 +1,13 @@
 ---
 slug: christchurch-showcasing-innovation-and-engagement
-title: "Christchurch showcasing innovation and engagement"
-date: 2013-08-04
-source-url: https://www.scoop.co.nz/stories/AK1308/S00069/christchurch-showcasing-innovation-and-engagement.htm
+title: Christchurch showcasing innovation and engagement
+date: 2013-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00069/christchurch-showcasing-innovation-and-engagement.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/04/christchurch-showcasing-innovation-and-engagement/index.html
+layout: layout.njk
 ---
 Christchurch showcasing innovation and engagement
 =================================================

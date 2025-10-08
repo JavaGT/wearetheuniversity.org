@@ -1,9 +1,12 @@
 ---
 slug: offenders-on-home-detention-free-to-re-offend
-title: "Offenders On Home Detention Free To Re-Offend"
-date: 2003-05-06
-source-url: https://www.scoop.co.nz/stories/PA0305/S00116/offenders-on-home-detention-free-to-re-offend.htm
+title: Offenders On Home Detention Free To Re-Offend
+date: 2003-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00116/offenders-on-home-detention-free-to-re-offend.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/06/offenders-on-home-detention-free-to-re-offend/index.html
+layout: layout.njk
 ---
 Offenders On Home Detention Free To Re-Offend
 =============================================

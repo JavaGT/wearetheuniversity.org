@@ -1,9 +1,12 @@
 ---
 slug: prebble-a-problem-with-the-truth
-title: "Prebble - a problem with the truth"
-date: 1999-08-23
-source-url: https://www.scoop.co.nz/stories/PA9908/S00383/prebble-a-problem-with-the-truth.htm
+title: Prebble - a problem with the truth
+date: 1999-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00383/prebble-a-problem-with-the-truth.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/23/prebble-a-problem-with-the-truth/index.html
+layout: layout.njk
 ---
 Prebble - a problem with the truth
 ==================================

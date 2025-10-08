@@ -1,9 +1,13 @@
 ---
 slug: greater-equity-vital-for-improving-childrens-learning
-title: "Greater equity vital for improving children’s learning"
-date: 2014-01-22
-source-url: https://www.scoop.co.nz/stories/ED1401/S00026/greater-equity-vital-for-improving-childrens-learning.htm
+title: Greater equity vital for improving children’s learning
+date: 2014-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00026/greater-equity-vital-for-improving-childrens-learning.htm
 author: nzei
+permalink: >-
+  /archive/2014/01/22/greater-equity-vital-for-improving-childrens-learning/index.html
+layout: layout.njk
 ---
 Greater equity vital for improving children’s learning
 ======================================================

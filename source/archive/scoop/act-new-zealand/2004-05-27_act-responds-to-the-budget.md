@@ -1,9 +1,11 @@
 ---
 slug: act-responds-to-the-budget
-title: "ACT Responds To The Budget"
-date: 2004-05-27
+title: ACT Responds To The Budget
+date: 2004-05-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00617/act-responds-to-the-budget.htm
 author: act-new-zealand
+permalink: /archive/2004/05/27/act-responds-to-the-budget/index.html
+layout: layout.njk
 ---
 ACT Responds To The Budget
 ==========================

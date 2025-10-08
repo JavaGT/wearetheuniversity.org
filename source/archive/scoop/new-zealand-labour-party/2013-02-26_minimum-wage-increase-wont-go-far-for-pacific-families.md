@@ -1,9 +1,13 @@
 ---
 slug: minimum-wage-increase-wont-go-far-for-pacific-families
-title: "Minimum wage increase won’t go far for Pacific families"
-date: 2013-02-26
-source-url: https://www.scoop.co.nz/stories/PA1302/S00404/minimum-wage-increase-wont-go-far-for-pacific-families.htm
+title: Minimum wage increase won’t go far for Pacific families
+date: 2013-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00404/minimum-wage-increase-wont-go-far-for-pacific-families.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/02/26/minimum-wage-increase-wont-go-far-for-pacific-families/index.html
+layout: layout.njk
 ---
 Minimum wage increase won’t go far for Pacific families
 =======================================================

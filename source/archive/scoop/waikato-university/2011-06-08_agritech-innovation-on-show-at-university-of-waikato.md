@@ -1,9 +1,13 @@
 ---
 slug: agritech-innovation-on-show-at-university-of-waikato
-title: "Agritech innovation on show at University of Waikato"
-date: 2011-06-08
-source-url: https://www.scoop.co.nz/stories/ED1106/S00040/agritech-innovation-on-show-at-university-of-waikato.htm
+title: Agritech innovation on show at University of Waikato
+date: 2011-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00040/agritech-innovation-on-show-at-university-of-waikato.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/06/08/agritech-innovation-on-show-at-university-of-waikato/index.html
+layout: layout.njk
 ---
 Agritech innovation on show at University of Waikato
 ====================================================

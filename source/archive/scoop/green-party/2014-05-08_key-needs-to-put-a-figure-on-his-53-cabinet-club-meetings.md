@@ -1,9 +1,13 @@
 ---
 slug: key-needs-to-put-a-figure-on-his-53-cabinet-club-meetings
-title: "Key needs to put a figure on his 53 Cabinet Club meetings"
-date: 2014-05-08
-source-url: https://www.scoop.co.nz/stories/PA1405/S00134/key-needs-to-put-a-figure-on-his-53-cabinet-club-meetings.htm
+title: Key needs to put a figure on his 53 Cabinet Club meetings
+date: 2014-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00134/key-needs-to-put-a-figure-on-his-53-cabinet-club-meetings.htm
 author: green-party
+permalink: >-
+  /archive/2014/05/08/key-needs-to-put-a-figure-on-his-53-cabinet-club-meetings/index.html
+layout: layout.njk
 ---
 Key needs to put a figure on his 53 Cabinet Club meetings
 =========================================================

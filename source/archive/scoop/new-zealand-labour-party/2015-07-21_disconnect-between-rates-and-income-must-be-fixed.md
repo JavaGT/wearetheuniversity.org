@@ -1,9 +1,13 @@
 ---
 slug: disconnect-between-rates-and-income-must-be-fixed
-title: "Disconnect between rates and income must be fixed"
-date: 2015-07-21
-source-url: https://www.scoop.co.nz/stories/PA1507/S00326/disconnect-between-rates-and-income-must-be-fixed.htm
+title: Disconnect between rates and income must be fixed
+date: 2015-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00326/disconnect-between-rates-and-income-must-be-fixed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/07/21/disconnect-between-rates-and-income-must-be-fixed/index.html
+layout: layout.njk
 ---
 Disconnect between rates and income must be fixed
 =================================================

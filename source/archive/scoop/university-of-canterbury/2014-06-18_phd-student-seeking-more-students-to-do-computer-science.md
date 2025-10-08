@@ -1,9 +1,13 @@
 ---
 slug: phd-student-seeking-more-students-to-do-computer-science
-title: "PhD student seeking more students to do computer science"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/ED1406/S00094/phd-student-seeking-more-students-to-do-computer-science.htm
+title: PhD student seeking more students to do computer science
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00094/phd-student-seeking-more-students-to-do-computer-science.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/18/phd-student-seeking-more-students-to-do-computer-science/index.html
+layout: layout.njk
 ---
 PhD student seeking more students to do computer science
 ========================================================

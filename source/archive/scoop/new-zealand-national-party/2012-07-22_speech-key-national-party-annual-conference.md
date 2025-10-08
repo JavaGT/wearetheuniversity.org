@@ -1,9 +1,12 @@
 ---
 slug: speech-key-national-party-annual-conference
-title: "Speech: Key - National Party Annual Conference"
-date: 2012-07-22
-source-url: https://www.scoop.co.nz/stories/PA1207/S00271/speech-key-national-party-annual-conference.htm
+title: 'Speech: Key - National Party Annual Conference'
+date: 2012-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00271/speech-key-national-party-annual-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2012/07/22/speech-key-national-party-annual-conference/index.html
+layout: layout.njk
 ---
 Speech: Key - National Party Annual Conference
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: 2010-2011-estimates-for-vote-housing
-title: "2010/2011 Estimates for Vote Housing"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/PA1007/S00460/20102011-estimates-for-vote-housing.htm
+title: 2010/2011 Estimates for Vote Housing
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00460/20102011-estimates-for-vote-housing.htm
 author: te-pati-maori
+permalink: /archive/2010/07/29/2010-2011-estimates-for-vote-housing/index.html
+layout: layout.njk
 ---
 2010/2011 Estimates for Vote Housing
 ====================================

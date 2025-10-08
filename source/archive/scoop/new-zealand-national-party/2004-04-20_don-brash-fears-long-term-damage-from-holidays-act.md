@@ -1,9 +1,13 @@
 ---
 slug: don-brash-fears-long-term-damage-from-holidays-act
-title: "Don Brash fears long-term damage from Holidays Act"
-date: 2004-04-20
-source-url: https://www.scoop.co.nz/stories/PA0404/S00302/don-brash-fears-long-term-damage-from-holidays-act.htm
+title: Don Brash fears long-term damage from Holidays Act
+date: 2004-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00302/don-brash-fears-long-term-damage-from-holidays-act.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/04/20/don-brash-fears-long-term-damage-from-holidays-act/index.html
+layout: layout.njk
 ---
 Don Brash fears long-term damage from Holidays Act
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-exporters-to-japan-lead-the-way
-title: "New Zealand Exporters To Japan Lead The Way"
-date: 2003-04-01
-source-url: https://www.scoop.co.nz/stories/ED0304/S00002/new-zealand-exporters-to-japan-lead-the-way.htm
+title: New Zealand Exporters To Japan Lead The Way
+date: 2003-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00002/new-zealand-exporters-to-japan-lead-the-way.htm
 author: auckland-university
+permalink: /archive/2003/04/01/new-zealand-exporters-to-japan-lead-the-way/index.html
+layout: layout.njk
 ---
 New Zealand Exporters To Japan Lead The Way
 ===========================================

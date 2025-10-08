@@ -1,9 +1,12 @@
 ---
 slug: accounting-academics-win-prestigious-grant
-title: "Accounting academics win prestigious grant"
-date: 2005-05-26
-source-url: https://www.scoop.co.nz/stories/BU0505/S00396/accounting-academics-win-prestigious-grant.htm
+title: Accounting academics win prestigious grant
+date: 2005-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0505/S00396/accounting-academics-win-prestigious-grant.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/05/26/accounting-academics-win-prestigious-grant/index.html
+layout: layout.njk
 ---
 Accounting academics win prestigious grant
 ==========================================

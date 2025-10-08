@@ -1,9 +1,12 @@
 ---
 slug: compulsory-wsu-blows-$60k-of-student-money
-title: "Compulsory WSU blows $60K of student money"
-date: 2005-03-16
-source-url: https://www.scoop.co.nz/stories/ED0503/S00050/compulsory-wsu-blows-60k-of-student-money.htm
+title: Compulsory WSU blows $60K of student money
+date: 2005-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00050/compulsory-wsu-blows-60k-of-student-money.htm
 author: student-choice
+permalink: /archive/2005/03/16/compulsory-wsu-blows-/index.html
+layout: layout.njk
 ---
 Compulsory WSU blows $60K of student money
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: experts-question-use-of-consultants-in-tobacco-review
-title: "Experts question use of consultants in tobacco review"
-date: 2018-08-24
-source-url: https://www.scoop.co.nz/stories/PO1808/S00322/experts-question-use-of-consultants-in-tobacco-review.htm
+title: Experts question use of consultants in tobacco review
+date: 2018-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1808/S00322/experts-question-use-of-consultants-in-tobacco-review.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/24/experts-question-use-of-consultants-in-tobacco-review/index.html
+layout: layout.njk
 ---
 Experts question use of consultants in tobacco review
 =====================================================

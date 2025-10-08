@@ -1,9 +1,13 @@
 ---
 slug: otago-research-shows-one-in-5-gay-men-with-hiv-unaware
-title: "Otago Research shows One in 5 gay men with HIV unaware"
-date: 2012-02-02
-source-url: https://www.scoop.co.nz/stories/GE1202/S00011/otago-research-shows-one-in-5-gay-men-with-hiv-unaware.htm
+title: Otago Research shows One in 5 gay men with HIV unaware
+date: 2012-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1202/S00011/otago-research-shows-one-in-5-gay-men-with-hiv-unaware.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/02/02/otago-research-shows-one-in-5-gay-men-with-hiv-unaware/index.html
+layout: layout.njk
 ---
 Otago Research shows One in 5 gay men with HIV unaware
 ======================================================

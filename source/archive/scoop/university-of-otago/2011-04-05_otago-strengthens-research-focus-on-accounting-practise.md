@@ -1,9 +1,13 @@
 ---
 slug: otago-strengthens-research-focus-on-accounting-practise
-title: "Otago strengthens research focus on accounting practise"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/ED1104/S00012/otago-strengthens-research-focus-on-accounting-practise.htm
+title: Otago strengthens research focus on accounting practise
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00012/otago-strengthens-research-focus-on-accounting-practise.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/04/05/otago-strengthens-research-focus-on-accounting-practise/index.html
+layout: layout.njk
 ---
 Otago strengthens research focus on accounting practise
 =======================================================

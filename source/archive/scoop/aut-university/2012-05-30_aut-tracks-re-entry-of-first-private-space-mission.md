@@ -1,9 +1,13 @@
 ---
 slug: aut-tracks-re-entry-of-first-private-space-mission
-title: "AUT tracks re-entry of first private space mission"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/SC1205/S00060/aut-tracks-re-entry-of-first-private-space-mission.htm
+title: AUT tracks re-entry of first private space mission
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00060/aut-tracks-re-entry-of-first-private-space-mission.htm
 author: aut-university
+permalink: >-
+  /archive/2012/05/30/aut-tracks-re-entry-of-first-private-space-mission/index.html
+layout: layout.njk
 ---
 AUT tracks re-entry of first private space mission
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-fails-young-tradeswomen
-title: "Labour fails young tradeswomen"
-date: 2007-05-23
-source-url: https://www.scoop.co.nz/stories/PA0705/S00611/labour-fails-young-tradeswomen.htm
+title: Labour fails young tradeswomen
+date: 2007-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00611/labour-fails-young-tradeswomen.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/23/labour-fails-young-tradeswomen/index.html
+layout: layout.njk
 ---
 Labour fails young tradeswomen
 ==============================

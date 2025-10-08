@@ -1,9 +1,12 @@
 ---
 slug: one-law-for-all-richard-prebble-speech
-title: "One Law for All - Richard Prebble Speech"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PA0207/S00094/one-law-for-all-richard-prebble-speech.htm
+title: One Law for All - Richard Prebble Speech
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00094/one-law-for-all-richard-prebble-speech.htm
 author: act-new-zealand
+permalink: /archive/2002/07/03/one-law-for-all-richard-prebble-speech/index.html
+layout: layout.njk
 ---
 One Law for All - Richard Prebble Speech
 ========================================

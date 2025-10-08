@@ -1,9 +1,12 @@
 ---
 slug: nzei-satisfied-teachers-vetting-fair
-title: "NZEI Satisfied Teachers’ Vetting Fair"
-date: 2006-10-25
-source-url: https://www.scoop.co.nz/stories/ED0610/S00092/nzei-satisfied-teachers-vetting-fair.htm
+title: NZEI Satisfied Teachers’ Vetting Fair
+date: 2006-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00092/nzei-satisfied-teachers-vetting-fair.htm
 author: nzei
+permalink: /archive/2006/10/25/nzei-satisfied-teachers-vetting-fair/index.html
+layout: layout.njk
 ---
 NZEI Satisfied Teachers’ Vetting Fair
 =====================================

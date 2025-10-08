@@ -1,9 +1,12 @@
 ---
 slug: govt-plans-to-melt-antarctica!
-title: "Govt plans to melt Antarctica!"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PA1510/S00239/govt-plans-to-melt-antarctica.htm
+title: Govt plans to melt Antarctica!
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00239/govt-plans-to-melt-antarctica.htm
 author: green-party
+permalink: /archive/2015/10/15/govt-plans-to-melt-antarctica/index.html
+layout: layout.njk
 ---
 Govt plans to melt Antarctica!
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: computer-scientist-wins-fellowship-for-ar-development
-title: "Computer scientist wins Fellowship for AR development"
-date: 2018-10-30
-source-url: https://www.scoop.co.nz/stories/SC1810/S00095/computer-scientist-wins-fellowship-for-ar-development.htm
+title: Computer scientist wins Fellowship for AR development
+date: 2018-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00095/computer-scientist-wins-fellowship-for-ar-development.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/30/computer-scientist-wins-fellowship-for-ar-development/index.html
+layout: layout.njk
 ---
 Computer scientist wins Fellowship for AR development
 =====================================================

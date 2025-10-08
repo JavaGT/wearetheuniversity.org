@@ -1,9 +1,13 @@
 ---
 slug: bill-english-address-lower-ni-regional-conference
-title: "Bill English Address Lower NI Regional Conference"
-date: 2003-05-05
-source-url: https://www.scoop.co.nz/stories/PA0305/S00079/bill-english-address-lower-ni-regional-conference.htm
+title: Bill English Address Lower NI Regional Conference
+date: 2003-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00079/bill-english-address-lower-ni-regional-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/05/05/bill-english-address-lower-ni-regional-conference/index.html
+layout: layout.njk
 ---
 Bill English Address Lower NI Regional Conference
 =================================================

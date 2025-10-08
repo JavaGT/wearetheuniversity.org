@@ -1,9 +1,12 @@
 ---
 slug: designer-finds-comfort-and-style
-title: "Designer finds comfort and style"
-date: 2008-11-12
-source-url: https://www.scoop.co.nz/stories/ED0811/S00030/designer-finds-comfort-and-style.htm
+title: Designer finds comfort and style
+date: 2008-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00030/designer-finds-comfort-and-style.htm
 author: massey-university
+permalink: /archive/2008/11/12/designer-finds-comfort-and-style/index.html
+layout: layout.njk
 ---
 Designer finds comfort and style
 ================================

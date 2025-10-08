@@ -1,9 +1,12 @@
 ---
 slug: new-pasifika-director-appointed
-title: "New Pasifika director appointed"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/ED1304/S00082/new-pasifika-director-appointed.htm
+title: New Pasifika director appointed
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00082/new-pasifika-director-appointed.htm
 author: massey-university
+permalink: /archive/2013/04/12/new-pasifika-director-appointed/index.html
+layout: layout.njk
 ---
 New Pasifika director appointed
 ===============================

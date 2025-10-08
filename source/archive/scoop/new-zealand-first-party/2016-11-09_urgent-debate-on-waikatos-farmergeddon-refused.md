@@ -1,9 +1,12 @@
 ---
 slug: urgent-debate-on-waikatos-farmergeddon-refused
-title: "Urgent Debate on Waikato’s ‘Farmergeddon’ Refused"
-date: 2016-11-09
-source-url: https://www.scoop.co.nz/stories/PA1611/S00175/urgent-debate-on-waikatos-farmergeddon-refused.htm
+title: Urgent Debate on Waikato’s ‘Farmergeddon’ Refused
+date: 2016-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00175/urgent-debate-on-waikatos-farmergeddon-refused.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/09/urgent-debate-on-waikatos-farmergeddon-refused/index.html
+layout: layout.njk
 ---
 Urgent Debate on Waikato’s ‘Farmergeddon’ Refused
 =================================================

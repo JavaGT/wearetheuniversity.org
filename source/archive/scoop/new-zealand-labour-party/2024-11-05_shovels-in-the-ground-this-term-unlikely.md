@@ -1,9 +1,12 @@
 ---
 slug: shovels-in-the-ground-this-term-unlikely
-title: "Shovels In The Ground This Term Unlikely"
-date: 2024-11-05
-source-url: https://www.scoop.co.nz/stories/PA2411/S00031/shovels-in-the-ground-this-term-unlikely.htm
+title: Shovels In The Ground This Term Unlikely
+date: 2024-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00031/shovels-in-the-ground-this-term-unlikely.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/11/05/shovels-in-the-ground-this-term-unlikely/index.html
+layout: layout.njk
 ---
 Shovels In The Ground This Term Unlikely
 ========================================

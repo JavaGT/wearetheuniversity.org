@@ -1,9 +1,13 @@
 ---
 slug: maori-party-celebrates-20th-year-of-being-nuke-fre
-title: "Maori Party Celebrates 20th Year Of Being Nuke Fre"
-date: 2007-06-08
-source-url: https://www.scoop.co.nz/stories/PA0706/S00142/maori-party-celebrates-20th-year-of-being-nuke-fre.htm
+title: Maori Party Celebrates 20th Year Of Being Nuke Fre
+date: 2007-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00142/maori-party-celebrates-20th-year-of-being-nuke-fre.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/06/08/maori-party-celebrates-20th-year-of-being-nuke-fre/index.html
+layout: layout.njk
 ---
 Maori Party Celebrates 20th Year Of Being Nuke Fre
 ==================================================

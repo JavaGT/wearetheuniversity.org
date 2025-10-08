@@ -1,9 +1,13 @@
 ---
 slug: auckland-council-waste-proposal-punishes-those-already-minimising-waste
-title: "Auckland Council Waste Proposal Punishes Those Already Minimising Waste"
-date: 2022-03-24
-source-url: https://www.scoop.co.nz/stories/AK2203/S00501/auckland-council-waste-proposal-punishes-those-already-minimising-waste.htm
+title: Auckland Council Waste Proposal Punishes Those Already Minimising Waste
+date: 2022-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2203/S00501/auckland-council-waste-proposal-punishes-those-already-minimising-waste.htm
 author: aut-university
+permalink: >-
+  /archive/2022/03/24/auckland-council-waste-proposal-punishes-those-already-minimising-waste/index.html
+layout: layout.njk
 ---
 Auckland Council Waste Proposal Punishes Those Already Minimising Waste
 =======================================================================

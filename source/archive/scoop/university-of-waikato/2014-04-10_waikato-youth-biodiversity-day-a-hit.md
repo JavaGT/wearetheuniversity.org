@@ -1,9 +1,12 @@
 ---
 slug: waikato-youth-biodiversity-day-a-hit
-title: "Waikato youth biodiversity day a hit"
-date: 2014-04-10
-source-url: https://www.scoop.co.nz/stories/ED1404/S00050/waikato-youth-biodiversity-day-a-hit.htm
+title: Waikato youth biodiversity day a hit
+date: 2014-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00050/waikato-youth-biodiversity-day-a-hit.htm
 author: university-of-waikato
+permalink: /archive/2014/04/10/waikato-youth-biodiversity-day-a-hit/index.html
+layout: layout.njk
 ---
 Waikato youth biodiversity day a hit
 ====================================

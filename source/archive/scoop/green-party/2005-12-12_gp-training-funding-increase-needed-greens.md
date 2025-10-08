@@ -1,9 +1,12 @@
 ---
 slug: gp-training-funding-increase-needed-greens
-title: "GP training funding increase needed - Greens"
-date: 2005-12-12
-source-url: https://www.scoop.co.nz/stories/PA0512/S00166/gp-training-funding-increase-needed-greens.htm
+title: GP training funding increase needed - Greens
+date: 2005-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00166/gp-training-funding-increase-needed-greens.htm
 author: green-party
+permalink: /archive/2005/12/12/gp-training-funding-increase-needed-greens/index.html
+layout: layout.njk
 ---
 GP training funding increase needed - Greens
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: university-launches-corp-governance-course
-title: "University launches corp governance course"
-date: 2002-09-16
-source-url: https://www.scoop.co.nz/stories/ED0209/S00025/university-launches-corp-governance-course.htm
+title: University launches corp governance course
+date: 2002-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00025/university-launches-corp-governance-course.htm
 author: auckland-university
+permalink: /archive/2002/09/16/university-launches-corp-governance-course/index.html
+layout: layout.njk
 ---
 University launches corp governance course
 ==========================================

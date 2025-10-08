@@ -1,9 +1,12 @@
 ---
 slug: 10-kiwirail-children-awarded-scholarships
-title: "10 KiwiRail Children awarded Scholarships"
-date: 2015-06-15
-source-url: https://www.scoop.co.nz/stories/ED1506/S00070/10-kiwirail-children-awarded-scholarships.htm
+title: 10 KiwiRail Children awarded Scholarships
+date: 2015-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00070/10-kiwirail-children-awarded-scholarships.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2015/06/15/10-kiwirail-children-awarded-scholarships/index.html
+layout: layout.njk
 ---
 10 KiwiRail Children awarded Scholarships
 =========================================

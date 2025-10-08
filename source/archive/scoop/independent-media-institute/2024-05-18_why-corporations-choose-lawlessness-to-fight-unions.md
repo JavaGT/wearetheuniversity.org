@@ -1,9 +1,13 @@
 ---
 slug: why-corporations-choose-lawlessness-to-fight-unions
-title: "Why Corporations Choose Lawlessness To Fight Unions"
-date: 2024-05-18
-source-url: https://www.scoop.co.nz/stories/HL2405/S00057/why-corporations-choose-lawlessness-to-fight-unions.htm
+title: Why Corporations Choose Lawlessness To Fight Unions
+date: 2024-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL2405/S00057/why-corporations-choose-lawlessness-to-fight-unions.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/05/18/why-corporations-choose-lawlessness-to-fight-unions/index.html
+layout: layout.njk
 ---
 Why Corporations Choose Lawlessness To Fight Unions
 ===================================================

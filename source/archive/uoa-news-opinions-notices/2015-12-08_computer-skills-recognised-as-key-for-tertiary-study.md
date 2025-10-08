@@ -1,8 +1,12 @@
 ---
 slug: computer-skills-recognised-as-key-for-tertiary-study
-title: "Computer skills recognised as key for tertiary study"
-date: 2015-12-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/computer-skills-recognised-as-key-for-tertiary-study.html
+title: Computer skills recognised as key for tertiary study
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/computer-skills-recognised-as-key-for-tertiary-study.html
+permalink: >-
+  /archive/2015/12/08/computer-skills-recognised-as-key-for-tertiary-study/index.html
+layout: layout.njk
 ---
 Computer skills recognised as key for tertiary study
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: john-key-speech-to-maori-womens-welfare-league
-title: "John Key Speech To Maori Women’s Welfare League"
-date: 2007-09-22
-source-url: https://www.scoop.co.nz/stories/PA0709/S00398/john-key-speech-to-maori-womens-welfare-league.htm
+title: John Key Speech To Maori Women’s Welfare League
+date: 2007-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00398/john-key-speech-to-maori-womens-welfare-league.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/22/john-key-speech-to-maori-womens-welfare-league/index.html
+layout: layout.njk
 ---
 John Key Speech To Maori Women’s Welfare League
 ===============================================

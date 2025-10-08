@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-that-vision-thing
-title: "Winston Peters - That \"Vision\" Thing"
-date: 2008-08-14
-source-url: https://www.scoop.co.nz/stories/PA0808/S00225/winston-peters-that-vision-thing.htm
+title: Winston Peters - That "Vision" Thing
+date: 2008-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00225/winston-peters-that-vision-thing.htm
 author: new-zealand-first-party
+permalink: /archive/2008/08/14/winston-peters-that-vision-thing/index.html
+layout: layout.njk
 ---
 Winston Peters - That “Vision” Thing
 ====================================

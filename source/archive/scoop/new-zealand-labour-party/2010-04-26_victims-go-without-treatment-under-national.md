@@ -1,9 +1,12 @@
 ---
 slug: victims-go-without-treatment-under-national
-title: "Victims go without treatment under National"
-date: 2010-04-26
-source-url: https://www.scoop.co.nz/stories/PA1004/S00327/victims-go-without-treatment-under-national.htm
+title: Victims go without treatment under National
+date: 2010-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00327/victims-go-without-treatment-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/26/victims-go-without-treatment-under-national/index.html
+layout: layout.njk
 ---
 Victims go without treatment under National
 ===========================================

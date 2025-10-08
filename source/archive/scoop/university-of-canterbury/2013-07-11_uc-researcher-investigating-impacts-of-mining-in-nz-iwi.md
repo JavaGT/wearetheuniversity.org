@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-investigating-impacts-of-mining-in-nz-iwi
-title: "UC researcher investigating impacts of mining in NZ Iwi"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/AK1307/S00311/uc-researcher-investigating-impacts-of-mining-in-nz-iwi.htm
+title: UC researcher investigating impacts of mining in NZ Iwi
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00311/uc-researcher-investigating-impacts-of-mining-in-nz-iwi.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/11/uc-researcher-investigating-impacts-of-mining-in-nz-iwi/index.html
+layout: layout.njk
 ---
 UC researcher investigating impacts of mining in NZ Iwi
 =======================================================

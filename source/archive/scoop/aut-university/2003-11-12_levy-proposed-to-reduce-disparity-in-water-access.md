@@ -1,9 +1,13 @@
 ---
 slug: levy-proposed-to-reduce-disparity-in-water-access
-title: "Levy proposed to reduce disparity in water access"
-date: 2003-11-12
-source-url: https://www.scoop.co.nz/stories/PO0311/S00083/levy-proposed-to-reduce-disparity-in-water-access.htm
+title: Levy proposed to reduce disparity in water access
+date: 2003-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0311/S00083/levy-proposed-to-reduce-disparity-in-water-access.htm
 author: aut-university
+permalink: >-
+  /archive/2003/11/12/levy-proposed-to-reduce-disparity-in-water-access/index.html
+layout: layout.njk
 ---
 Levy proposed to reduce disparity in water access
 =================================================

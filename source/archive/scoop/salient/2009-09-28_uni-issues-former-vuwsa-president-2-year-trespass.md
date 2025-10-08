@@ -1,9 +1,13 @@
 ---
 slug: uni-issues-former-vuwsa-president-2-year-trespass
-title: "Uni issues former VUWSA President 2-year trespass"
-date: 2009-09-28
-source-url: https://www.scoop.co.nz/stories/ED0909/S00111/uni-issues-former-vuwsa-president-2-year-trespass.htm
+title: Uni issues former VUWSA President 2-year trespass
+date: 2009-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00111/uni-issues-former-vuwsa-president-2-year-trespass.htm
 author: salient
+permalink: >-
+  /archive/2009/09/28/uni-issues-former-vuwsa-president-2-year-trespass/index.html
+layout: layout.njk
 ---
 Uni issues former VUWSA President 2-year trespass
 =================================================

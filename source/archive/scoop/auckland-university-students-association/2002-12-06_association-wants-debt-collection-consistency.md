@@ -1,9 +1,12 @@
 ---
 slug: association-wants-debt-collection-consistency
-title: "Association Wants Debt Collection Consistency"
-date: 2002-12-06
-source-url: https://www.scoop.co.nz/stories/ED0212/S00017/association-wants-debt-collection-consistency.htm
+title: Association Wants Debt Collection Consistency
+date: 2002-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00017/association-wants-debt-collection-consistency.htm
 author: auckland-university-students-association
+permalink: /archive/2002/12/06/association-wants-debt-collection-consistency/index.html
+layout: layout.njk
 ---
 Association Wants Debt Collection Consistency
 =============================================

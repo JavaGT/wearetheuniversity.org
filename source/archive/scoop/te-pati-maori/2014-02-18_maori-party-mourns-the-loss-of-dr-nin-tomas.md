@@ -1,9 +1,12 @@
 ---
 slug: maori-party-mourns-the-loss-of-dr-nin-tomas
-title: "Maori Party mourns the loss of Dr Nin Tomas"
-date: 2014-02-18
-source-url: https://www.scoop.co.nz/stories/CU1402/S00319/maori-party-mourns-the-loss-of-dr-nin-tomas.htm
+title: Maori Party mourns the loss of Dr Nin Tomas
+date: 2014-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1402/S00319/maori-party-mourns-the-loss-of-dr-nin-tomas.htm
 author: te-pati-maori
+permalink: /archive/2014/02/18/maori-party-mourns-the-loss-of-dr-nin-tomas/index.html
+layout: layout.njk
 ---
 Maori Party mourns the loss of Dr Nin Tomas
 ===========================================

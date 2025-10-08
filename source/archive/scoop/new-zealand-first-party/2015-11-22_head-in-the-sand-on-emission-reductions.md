@@ -1,9 +1,12 @@
 ---
 slug: head-in-the-sand-on-emission-reductions
-title: "Head in the Sand on Emission Reductions"
-date: 2015-11-22
-source-url: https://www.scoop.co.nz/stories/PA1511/S00413/head-in-the-sand-on-emission-reductions.htm
+title: Head in the Sand on Emission Reductions
+date: 2015-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00413/head-in-the-sand-on-emission-reductions.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/22/head-in-the-sand-on-emission-reductions/index.html
+layout: layout.njk
 ---
 Head in the Sand on Emission Reductions
 =======================================

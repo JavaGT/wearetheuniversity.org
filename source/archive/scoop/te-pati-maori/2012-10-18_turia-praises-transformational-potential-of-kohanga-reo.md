@@ -1,9 +1,13 @@
 ---
 slug: turia-praises-transformational-potential-of-kohanga-reo
-title: "Turia praises transformational potential of kohanga reo"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/PA1210/S00306/turia-praises-transformational-potential-of-kohanga-reo.htm
+title: Turia praises transformational potential of kohanga reo
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00306/turia-praises-transformational-potential-of-kohanga-reo.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/10/18/turia-praises-transformational-potential-of-kohanga-reo/index.html
+layout: layout.njk
 ---
 Turia praises transformational potential of kohanga reo
 =======================================================

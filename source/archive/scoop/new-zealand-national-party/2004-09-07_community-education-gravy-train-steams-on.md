@@ -1,9 +1,12 @@
 ---
 slug: community-education-gravy-train-steams-on
-title: "Community Education Gravy Train Steams On"
-date: 2004-09-07
-source-url: https://www.scoop.co.nz/stories/PA0409/S00139/community-education-gravy-train-steams-on.htm
+title: Community Education Gravy Train Steams On
+date: 2004-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00139/community-education-gravy-train-steams-on.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/07/community-education-gravy-train-steams-on/index.html
+layout: layout.njk
 ---
 Community Education Gravy Train Steams On
 =========================================

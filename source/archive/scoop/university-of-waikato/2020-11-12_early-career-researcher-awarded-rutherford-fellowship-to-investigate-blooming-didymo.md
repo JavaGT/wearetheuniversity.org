@@ -1,9 +1,16 @@
 ---
-slug: early-career-researcher-awarded-rutherford-fellowship-to-investigate-blooming-didymo
-title: "Early Career Researcher Awarded Rutherford Fellowship  To Investigate Blooming Didymo"
-date: 2020-11-12
-source-url: https://www.scoop.co.nz/stories/SC2011/S00020/early-career-researcher-awarded-rutherford-fellowship-to-investigate-blooming-didymo.htm
+slug: >-
+  early-career-researcher-awarded-rutherford-fellowship-to-investigate-blooming-didymo
+title: >-
+  Early Career Researcher Awarded Rutherford Fellowship  To Investigate Blooming
+  Didymo
+date: 2020-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00020/early-career-researcher-awarded-rutherford-fellowship-to-investigate-blooming-didymo.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/11/12/early-career-researcher-awarded-rutherford-fellowship-to-investigate-blooming-didymo/index.html
+layout: layout.njk
 ---
 Early Career Researcher Awarded Rutherford Fellowship To Investigate Blooming Didymo
 ====================================================================================

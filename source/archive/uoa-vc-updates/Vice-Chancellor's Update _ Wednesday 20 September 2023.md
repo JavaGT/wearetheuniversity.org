@@ -1,0 +1,49 @@
+---
+layout: layout.njk
+title: Vice-Chancellor's Update | Wednesday 20 September 2023
+date: '2023-09-19T21:54:35.000Z'
+excerpt: >-
+  Kia ora koutou Yesterday we welcomed the Prime Minister, other Government
+  Ministers and representatives of Ngāti Whātua Ōrākei for the official opening
+  of the newly refurbished Building B201. The building is a triumph of clever
+  design, adaptation and sustainability, achieving a massive reduction in carbon
+  emissions compared to a new-build...
+author: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
+permalink: >-
+  /archive/2023/09/19/vice-chancellor-s-update-wednesday-20-september-2023/index.html
+---
+Kia ora koutou
+
+
+Yesterday we welcomed the Prime Minister, other Government Ministers and representatives of Ngāti Whātua Ōrākei for the official opening of the newly refurbished Building B201.
+
+
+The building is a triumph of clever design, adaptation and sustainability, achieving a massive reduction in carbon emissions compared to a new-build project, and a 6 Green Star certification from the New Zealand Green Building Council, the highest possible. It will become home to three faculties: Education and Social Work (EDSW); Arts; and Creative Arts and Industries (CAI). You can read more about the building and opening ceremony on the News pages here<[https://www.auckland.ac.nz/en/news/2023/09/19/world-class-building-ready-to-welcome-education-faculty-to-the-c.html>](https://www.auckland.ac.nz/en/news/2023/09/19/world-class-building-ready-to-welcome-education-faculty-to-the-c.html>) and read a wonderful poem by Professor Selina Tusitala Marsh dedicated to the building<[https://www.auckland.ac.nz/en/news/2023/09/19/b201--by-selina-tusitala-marsh.html>.](https://www.auckland.ac.nz/en/news/2023/09/19/b201--by-selina-tusitala-marsh.html>.)
+
+
+From Epsom to the City
+
+The opening of B201 is a major milestone in EDSW’s preparations to move from its current location in Epsom to the main City Campus. The move will begin in November and continue through to the start of teaching in Semester One 2024. We look forward to welcoming our EDSW students and staff to their new home. More information about the move is available on the main website<[https://www.auckland.ac.nz/en/news/notices/2023/the-epsom-move.html>.](https://www.auckland.ac.nz/en/news/notices/2023/the-epsom-move.html>.)
+
+
+Spring Graduation
+
+This year’s Spring Graduation truly lived up to its name, with glorious warm sunny weather and flowers everywhere. Congratulations to the 2,062 students who graduated in person this week, with a further 1,176 in absentia. Yesterday’s ceremonies marked 130 years to the day since women in Aotearoa New Zealand won the right to vote, so it was particularly apt that (as part of the University’s 140th anniversary) we conferred a posthumous honorary doctorate on Kate Edger<[https://www.auckland.ac.nz/en/news/2023/09/19/higher-education-pioneer-kate-edger-receives-posthumous-honorary.html>,](https://www.auckland.ac.nz/en/news/2023/09/19/higher-education-pioneer-kate-edger-receives-posthumous-honorary.html>,) the first woman in this country to gain a university degree. Thank you to all the staff and volunteers who helped make the ceremonies such a success. You can watch the videos of the Spring Graduation ceremonies here<[https://www.auckland.ac.nz/en/students/academic-information/graduation/spring-2023-graduation-live-stream.html>](https://www.auckland.ac.nz/en/students/academic-information/graduation/spring-2023-graduation-live-stream.html>) and read about some of our graduating students on the News pages<[https://www.auckland.ac.nz/en/news/list.html?tag=news%3Agraduation>.](https://www.auckland.ac.nz/en/news/list.html?tag=news%3Agraduation>.)
+
+
+All-staff forum, Wednesday 27 September
+
+Please join us for the next all-staff forum at 12.00 noon on Wednesday 27 September. We will be discussing the planned review and refresh of Taumata Teitei – Vision 2030 and Strategic Plan 2025. A calendar invitation will be sent shortly.
+
+
+Ngā mihi nui
+
+Dawn
+
+
+Professor Dawn Freshwater
+
+Vice-Chancellor
+
+

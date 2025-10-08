@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-get-ready-for-australian-carbon-tax
-title: "New Zealand, get ready for Australian Carbon Tax"
-date: 2011-06-02
-source-url: https://www.scoop.co.nz/stories/PA1106/S00044/new-zealand-get-ready-for-australian-carbon-tax.htm
+title: New Zealand, get ready for Australian Carbon Tax
+date: 2011-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00044/new-zealand-get-ready-for-australian-carbon-tax.htm
 author: green-party
+permalink: /archive/2011/06/02/new-zealand-get-ready-for-australian-carbon-tax/index.html
+layout: layout.njk
 ---
 New Zealand, get ready for Australian Carbon Tax
 ================================================

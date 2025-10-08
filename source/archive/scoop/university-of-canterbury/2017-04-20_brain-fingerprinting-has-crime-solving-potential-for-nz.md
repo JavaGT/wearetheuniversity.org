@@ -1,9 +1,13 @@
 ---
 slug: brain-fingerprinting-has-crime-solving-potential-for-nz
-title: "‘Brain fingerprinting’ has crime-solving potential for NZ"
-date: 2017-04-20
-source-url: https://www.scoop.co.nz/stories/SC1704/S00057/brain-fingerprinting-has-crime-solving-potential-for-nz.htm
+title: ‘Brain fingerprinting’ has crime-solving potential for NZ
+date: 2017-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1704/S00057/brain-fingerprinting-has-crime-solving-potential-for-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/04/20/brain-fingerprinting-has-crime-solving-potential-for-nz/index.html
+layout: layout.njk
 ---
 ‘Brain fingerprinting’ has crime-solving potential for NZ
 =========================================================

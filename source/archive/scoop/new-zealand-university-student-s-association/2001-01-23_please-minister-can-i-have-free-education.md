@@ -1,9 +1,12 @@
 ---
 slug: please-minister-can-i-have-free-education
-title: "Please Minister Can I have Free Education?"
-date: 2001-01-23
-source-url: https://www.scoop.co.nz/stories/ED0101/S00007/please-minister-can-i-have-free-education.htm
+title: Please Minister Can I have Free Education?
+date: 2001-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0101/S00007/please-minister-can-i-have-free-education.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/01/23/please-minister-can-i-have-free-education/index.html
+layout: layout.njk
 ---
 Please Minister Can I have Free Education?
 ==========================================

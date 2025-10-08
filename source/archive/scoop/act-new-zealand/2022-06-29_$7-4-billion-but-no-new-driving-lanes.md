@@ -1,9 +1,12 @@
 ---
 slug: $7-4-billion-but-no-new-driving-lanes
-title: "$7.4 Billion But No New Driving Lanes"
-date: 2022-06-29
-source-url: https://www.scoop.co.nz/stories/PA2206/S00235/74-billion-but-no-new-driving-lanes.htm
+title: $7.4 Billion But No New Driving Lanes
+date: 2022-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00235/74-billion-but-no-new-driving-lanes.htm
 author: act-new-zealand
+permalink: /archive/2022/06/29/7-4-billion-but-no-new-driving-lanes/index.html
+layout: layout.njk
 ---
 $7.4 Billion But No New Driving Lanes
 =====================================

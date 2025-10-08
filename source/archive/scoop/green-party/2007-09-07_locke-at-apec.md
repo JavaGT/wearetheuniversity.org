@@ -1,9 +1,11 @@
 ---
 slug: locke-at-apec
-title: "Locke at APEC"
-date: 2007-09-07
+title: Locke at APEC
+date: 2007-09-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0709/S00118/locke-at-apec.htm
 author: green-party
+permalink: /archive/2007/09/07/locke-at-apec/index.html
+layout: layout.njk
 ---
 Locke at APEC
 =============

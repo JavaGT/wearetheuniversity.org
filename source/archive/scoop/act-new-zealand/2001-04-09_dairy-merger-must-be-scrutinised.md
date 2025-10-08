@@ -1,9 +1,12 @@
 ---
 slug: dairy-merger-must-be-scrutinised
-title: "Dairy Merger Must Be Scrutinised"
-date: 2001-04-09
-source-url: https://www.scoop.co.nz/stories/PA0104/S00143/dairy-merger-must-be-scrutinised.htm
+title: Dairy Merger Must Be Scrutinised
+date: 2001-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00143/dairy-merger-must-be-scrutinised.htm
 author: act-new-zealand
+permalink: /archive/2001/04/09/dairy-merger-must-be-scrutinised/index.html
+layout: layout.njk
 ---
 Dairy Merger Must Be Scrutinised
 ================================

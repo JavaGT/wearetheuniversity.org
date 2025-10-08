@@ -1,9 +1,12 @@
 ---
 slug: hungry-students-overwhelm-food-bank
-title: "Hungry Students Overwhelm Food Bank"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/ED1111/S00037/hungry-students-overwhelm-food-bank.htm
+title: Hungry Students Overwhelm Food Bank
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00037/hungry-students-overwhelm-food-bank.htm
 author: ousa
+permalink: /archive/2011/11/04/hungry-students-overwhelm-food-bank/index.html
+layout: layout.njk
 ---
 Hungry Students Overwhelm Food Bank
 ===================================

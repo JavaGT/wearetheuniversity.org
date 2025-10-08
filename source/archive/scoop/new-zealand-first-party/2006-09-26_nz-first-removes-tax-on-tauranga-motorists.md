@@ -1,9 +1,12 @@
 ---
 slug: nz-first-removes-tax-on-tauranga-motorists
-title: "NZ First Removes Tax On Tauranga Motorists"
-date: 2006-09-26
-source-url: https://www.scoop.co.nz/stories/PA0609/S00565/nz-first-removes-tax-on-tauranga-motorists.htm
+title: NZ First Removes Tax On Tauranga Motorists
+date: 2006-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00565/nz-first-removes-tax-on-tauranga-motorists.htm
 author: new-zealand-first-party
+permalink: /archive/2006/09/26/nz-first-removes-tax-on-tauranga-motorists/index.html
+layout: layout.njk
 ---
 NZ First Removes Tax On Tauranga Motorists
 ==========================================

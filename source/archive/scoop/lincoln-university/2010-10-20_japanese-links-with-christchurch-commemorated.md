@@ -1,9 +1,12 @@
 ---
 slug: japanese-links-with-christchurch-commemorated
-title: "Japanese links with Christchurch commemorated"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/AK1010/S00237/japanese-links-with-christchurch-commemorated.htm
+title: Japanese links with Christchurch commemorated
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1010/S00237/japanese-links-with-christchurch-commemorated.htm
 author: lincoln-university
+permalink: /archive/2010/10/20/japanese-links-with-christchurch-commemorated/index.html
+layout: layout.njk
 ---
 Japanese links with Christchurch commemorated
 =============================================

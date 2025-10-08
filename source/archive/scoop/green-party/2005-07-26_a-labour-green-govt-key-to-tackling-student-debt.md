@@ -1,9 +1,13 @@
 ---
 slug: a-labour-green-govt-key-to-tackling-student-debt
-title: "A Labour-Green Govt key to tackling student debt"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/PA0507/S00560/a-labour-green-govt-key-to-tackling-student-debt.htm
+title: A Labour-Green Govt key to tackling student debt
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00560/a-labour-green-govt-key-to-tackling-student-debt.htm
 author: green-party
+permalink: >-
+  /archive/2005/07/26/a-labour-green-govt-key-to-tackling-student-debt/index.html
+layout: layout.njk
 ---
 A Labour-Green Govt key to tackling student debt
 ================================================

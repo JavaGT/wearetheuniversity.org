@@ -1,9 +1,12 @@
 ---
 slug: another-programme-failure-hurts-maori
-title: "Another programme failure hurts Maori"
-date: 2007-06-20
-source-url: https://www.scoop.co.nz/stories/PA0706/S00406/another-programme-failure-hurts-maori.htm
+title: Another programme failure hurts Maori
+date: 2007-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00406/another-programme-failure-hurts-maori.htm
 author: te-pati-maori
+permalink: /archive/2007/06/20/another-programme-failure-hurts-maori/index.html
+layout: layout.njk
 ---
 Another programme failure hurts Maori
 =====================================

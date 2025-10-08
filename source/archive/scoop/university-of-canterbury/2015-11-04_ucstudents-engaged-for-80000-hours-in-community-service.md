@@ -1,9 +1,13 @@
 ---
 slug: ucstudents-engaged-for-80000-hours-in-community-service
-title: "UCstudents engaged for 80,000 hours in community service"
-date: 2015-11-04
-source-url: https://www.scoop.co.nz/stories/ED1511/S00019/ucstudents-engaged-for-80000-hours-in-community-service.htm
+title: UCstudents engaged for 80,000 hours in community service
+date: 2015-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00019/ucstudents-engaged-for-80000-hours-in-community-service.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/11/04/ucstudents-engaged-for-80000-hours-in-community-service/index.html
+layout: layout.njk
 ---
 UCstudents engaged for 80,000 hours in community service
 ========================================================

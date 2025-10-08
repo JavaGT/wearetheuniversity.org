@@ -1,9 +1,12 @@
 ---
 slug: government-challenged-on-bottom-ranking
-title: "Government challenged on bottom ranking"
-date: 2013-06-27
-source-url: https://www.scoop.co.nz/stories/PO1306/S00349/government-challenged-on-bottom-ranking.htm
+title: Government challenged on bottom ranking
+date: 2013-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1306/S00349/government-challenged-on-bottom-ranking.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/06/27/government-challenged-on-bottom-ranking/index.html
+layout: layout.njk
 ---
 Government challenged on bottom ranking
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: former-students-garden-plans-finally-bear-fruit
-title: "Former students’ garden plans finally bear fruit"
-date: 2014-10-22
-source-url: https://www.scoop.co.nz/stories/ED1410/S00123/former-students-garden-plans-finally-bear-fruit.htm
+title: Former students’ garden plans finally bear fruit
+date: 2014-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00123/former-students-garden-plans-finally-bear-fruit.htm
 author: lincoln-university
+permalink: /archive/2014/10/22/former-students-garden-plans-finally-bear-fruit/index.html
+layout: layout.njk
 ---
 Former students’ garden plans finally bear fruit
 ================================================

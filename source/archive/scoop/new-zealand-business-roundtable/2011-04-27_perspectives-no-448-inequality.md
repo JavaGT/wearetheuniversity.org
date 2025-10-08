@@ -1,9 +1,12 @@
 ---
 slug: perspectives-no-448-inequality
-title: "Perspectives No 448: Inequality"
-date: 2011-04-27
-source-url: https://www.scoop.co.nz/stories/BU1104/S00761/perspectives-no-448-inequality.htm
+title: 'Perspectives No 448: Inequality'
+date: 2011-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1104/S00761/perspectives-no-448-inequality.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/04/27/perspectives-no-448-inequality/index.html
+layout: layout.njk
 ---
 Perspectives No 448: Inequality
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: tolley-confused-on-national-standards
-title: "Tolley confused on National Standards"
-date: 2009-09-22
-source-url: https://www.scoop.co.nz/stories/PA0909/S00305/tolley-confused-on-national-standards.htm
+title: Tolley confused on National Standards
+date: 2009-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00305/tolley-confused-on-national-standards.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/22/tolley-confused-on-national-standards/index.html
+layout: layout.njk
 ---
 Tolley confused on National Standards
 =====================================

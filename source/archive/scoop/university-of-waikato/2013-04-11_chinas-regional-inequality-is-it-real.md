@@ -1,9 +1,12 @@
 ---
 slug: chinas-regional-inequality-is-it-real
-title: "China’s regional inequality – is it real?"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00069/chinas-regional-inequality-is-it-real.htm
+title: China’s regional inequality – is it real?
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00069/chinas-regional-inequality-is-it-real.htm
 author: university-of-waikato
+permalink: /archive/2013/04/11/chinas-regional-inequality-is-it-real/index.html
+layout: layout.njk
 ---
 China’s regional inequality – is it real?
 =========================================

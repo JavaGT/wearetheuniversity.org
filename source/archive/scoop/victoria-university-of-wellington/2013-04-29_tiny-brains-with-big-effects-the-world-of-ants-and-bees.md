@@ -1,9 +1,13 @@
 ---
 slug: tiny-brains-with-big-effects-the-world-of-ants-and-bees
-title: "Tiny Brains with Big Effects: the World of Ants and Bees"
-date: 2013-04-29
-source-url: https://www.scoop.co.nz/stories/SC1304/S00051/tiny-brains-with-big-effects-the-world-of-ants-and-bees.htm
+title: 'Tiny Brains with Big Effects: the World of Ants and Bees'
+date: 2013-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00051/tiny-brains-with-big-effects-the-world-of-ants-and-bees.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/04/29/tiny-brains-with-big-effects-the-world-of-ants-and-bees/index.html
+layout: layout.njk
 ---
 Tiny Brains with Big Effects: the World of Ants and Bees
 ========================================================

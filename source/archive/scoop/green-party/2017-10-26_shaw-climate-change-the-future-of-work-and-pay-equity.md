@@ -1,9 +1,13 @@
 ---
 slug: shaw-climate-change-the-future-of-work-and-pay-equity
-title: "Shaw: Climate change, the future of work, and pay equity"
-date: 2017-10-26
-source-url: https://www.scoop.co.nz/stories/PA1710/S00069/shaw-climate-change-the-future-of-work-and-pay-equity.htm
+title: 'Shaw: Climate change, the future of work, and pay equity'
+date: 2017-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1710/S00069/shaw-climate-change-the-future-of-work-and-pay-equity.htm
 author: green-party
+permalink: >-
+  /archive/2017/10/26/shaw-climate-change-the-future-of-work-and-pay-equity/index.html
+layout: layout.njk
 ---
 Shaw: Climate change, the future of work, and pay equity
 ========================================================

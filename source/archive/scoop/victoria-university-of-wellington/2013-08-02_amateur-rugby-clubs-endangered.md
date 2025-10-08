@@ -1,9 +1,12 @@
 ---
 slug: amateur-rugby-clubs-endangered
-title: "Amateur rugby clubs endangered?"
-date: 2013-08-02
-source-url: https://www.scoop.co.nz/stories/ED1308/S00011/amateur-rugby-clubs-endangered.htm
+title: Amateur rugby clubs endangered?
+date: 2013-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00011/amateur-rugby-clubs-endangered.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/08/02/amateur-rugby-clubs-endangered/index.html
+layout: layout.njk
 ---
 Amateur rugby clubs endangered?
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: auckland-year-11-13s-must-be-exempt-from-level-3
-title: "Auckland Year 11-13s Must Be Exempt From Level 3"
-date: 2020-08-15
-source-url: https://www.scoop.co.nz/stories/PA2008/S00127/auckland-year-11-13s-must-be-exempt-from-level-3.htm
+title: Auckland Year 11-13s Must Be Exempt From Level 3
+date: 2020-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00127/auckland-year-11-13s-must-be-exempt-from-level-3.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/08/15/auckland-year-11-13s-must-be-exempt-from-level-3/index.html
+layout: layout.njk
 ---
 Auckland Year 11-13s Must Be Exempt From Level 3
 ================================================

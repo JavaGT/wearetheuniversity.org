@@ -1,9 +1,13 @@
 ---
 slug: national-unveils-team-to-take-on-labour-government
-title: "National Unveils Team To Take On Labour Government"
-date: 2020-11-11
-source-url: https://www.scoop.co.nz/stories/PA2011/S00037/national-unveils-team-to-take-on-labour-government.htm
+title: National Unveils Team To Take On Labour Government
+date: 2020-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2011/S00037/national-unveils-team-to-take-on-labour-government.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/11/11/national-unveils-team-to-take-on-labour-government/index.html
+layout: layout.njk
 ---
 National Unveils Team To Take On Labour Government
 ==================================================

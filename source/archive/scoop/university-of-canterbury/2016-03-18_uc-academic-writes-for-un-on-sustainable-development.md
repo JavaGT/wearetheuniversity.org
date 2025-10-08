@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-writes-for-un-on-sustainable-development
-title: "UC academic writes for UN on sustainable development"
-date: 2016-03-18
-source-url: https://www.scoop.co.nz/stories/PO1603/S00301/uc-academic-writes-for-un-on-sustainable-development.htm
+title: UC academic writes for UN on sustainable development
+date: 2016-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00301/uc-academic-writes-for-un-on-sustainable-development.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/18/uc-academic-writes-for-un-on-sustainable-development/index.html
+layout: layout.njk
 ---
 UC academic writes for UN on sustainable development
 ====================================================

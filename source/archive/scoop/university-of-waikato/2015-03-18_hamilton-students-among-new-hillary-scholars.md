@@ -1,9 +1,12 @@
 ---
 slug: hamilton-students-among-new-hillary-scholars
-title: "Hamilton students among new Hillary Scholars"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/ED1503/S00076/hamilton-students-among-new-hillary-scholars.htm
+title: Hamilton students among new Hillary Scholars
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00076/hamilton-students-among-new-hillary-scholars.htm
 author: university-of-waikato
+permalink: /archive/2015/03/18/hamilton-students-among-new-hillary-scholars/index.html
+layout: layout.njk
 ---
 Hamilton students among new Hillary Scholars
 ============================================

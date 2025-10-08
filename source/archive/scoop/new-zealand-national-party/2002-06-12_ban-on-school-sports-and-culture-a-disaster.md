@@ -1,9 +1,12 @@
 ---
 slug: ban-on-school-sports-and-culture-a-disaster
-title: "Ban on school sports and culture a disaster"
-date: 2002-06-12
-source-url: https://www.scoop.co.nz/stories/PA0206/S00162/ban-on-school-sports-and-culture-a-disaster.htm
+title: Ban on school sports and culture a disaster
+date: 2002-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00162/ban-on-school-sports-and-culture-a-disaster.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/12/ban-on-school-sports-and-culture-a-disaster/index.html
+layout: layout.njk
 ---
 Ban on school sports and culture a disaster
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: stellar-kiwis-crucial-black-hole-theory-turns-60
-title: "Stellar Kiwi’s Crucial Black Hole Theory Turns 60"
-date: 2023-08-28
-source-url: https://www.scoop.co.nz/stories/ED2308/S00045/stellar-kiwis-crucial-black-hole-theory-turns-60.htm
+title: Stellar Kiwi’s Crucial Black Hole Theory Turns 60
+date: 2023-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00045/stellar-kiwis-crucial-black-hole-theory-turns-60.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/08/28/stellar-kiwis-crucial-black-hole-theory-turns-60/index.html
+layout: layout.njk
 ---
 Stellar Kiwi’s Crucial Black Hole Theory Turns 60
 =================================================

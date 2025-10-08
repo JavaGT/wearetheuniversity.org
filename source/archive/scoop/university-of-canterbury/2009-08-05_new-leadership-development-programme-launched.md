@@ -1,9 +1,12 @@
 ---
 slug: new-leadership-development-programme-launched
-title: "New Leadership Development Programme Launched"
-date: 2009-08-05
-source-url: https://www.scoop.co.nz/stories/ED0908/S00018/new-leadership-development-programme-launched.htm
+title: New Leadership Development Programme Launched
+date: 2009-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00018/new-leadership-development-programme-launched.htm
 author: university-of-canterbury
+permalink: /archive/2009/08/05/new-leadership-development-programme-launched/index.html
+layout: layout.njk
 ---
 New Leadership Development Programme Launched
 =============================================

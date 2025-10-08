@@ -1,9 +1,13 @@
 ---
 slug: ash-holwell-named-green-candidate-for-whangarei-electorate
-title: "Ash Holwell named Green candidate for Whangarei electorate"
-date: 2017-02-18
-source-url: https://www.scoop.co.nz/stories/PO1702/S00210/ash-holwell-named-green-candidate-for-whangarei-electorate.htm
+title: Ash Holwell named Green candidate for Whangarei electorate
+date: 2017-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1702/S00210/ash-holwell-named-green-candidate-for-whangarei-electorate.htm
 author: green-party
+permalink: >-
+  /archive/2017/02/18/ash-holwell-named-green-candidate-for-whangarei-electorate/index.html
+layout: layout.njk
 ---
 Ash Holwell named Green candidate for Whangarei electorate
 ==========================================================

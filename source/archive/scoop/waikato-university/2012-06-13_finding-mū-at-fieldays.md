@@ -1,9 +1,11 @@
 ---
 slug: finding-mū-at-fieldays
-title: "Finding Mū at Fieldays"
-date: 2012-06-13
+title: Finding Mū at Fieldays
+date: 2012-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1206/S00053/finding-mu-at-fieldays.htm
 author: waikato-university
+permalink: /archive/2012/06/13/finding-m/index.html
+layout: layout.njk
 ---
 Finding Mū at Fieldays
 ======================

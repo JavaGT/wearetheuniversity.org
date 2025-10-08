@@ -1,9 +1,12 @@
 ---
 slug: a-national-languages-policy-for-new-zealand
-title: "A national languages policy for New Zealand"
-date: 2017-08-18
-source-url: https://www.scoop.co.nz/stories/ED1708/S00069/a-national-languages-policy-for-new-zealand.htm
+title: A national languages policy for New Zealand
+date: 2017-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00069/a-national-languages-policy-for-new-zealand.htm
 author: aut-university
+permalink: /archive/2017/08/18/a-national-languages-policy-for-new-zealand/index.html
+layout: layout.njk
 ---
 A national languages policy for New Zealand
 ===========================================

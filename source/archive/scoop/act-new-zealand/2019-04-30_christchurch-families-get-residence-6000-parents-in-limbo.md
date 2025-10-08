@@ -1,9 +1,13 @@
 ---
 slug: christchurch-families-get-residence-6000-parents-in-limbo
-title: "Christchurch families get residence, 6000 parents in limbo"
-date: 2019-04-30
-source-url: https://www.scoop.co.nz/stories/PA1904/S00231/christchurch-families-get-residence-6000-parents-in-limbo.htm
+title: Christchurch families get residence, 6000 parents in limbo
+date: 2019-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00231/christchurch-families-get-residence-6000-parents-in-limbo.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/04/30/christchurch-families-get-residence-6000-parents-in-limbo/index.html
+layout: layout.njk
 ---
 Christchurch families get residence, 6000 parents in limbo
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: a-public-meeting-on-charter-schools
-title: "A Public Meeting on Charter Schools"
-date: 2012-09-17
-source-url: https://www.scoop.co.nz/stories/ED1209/S00124/a-public-meeting-on-charter-schools.htm
+title: A Public Meeting on Charter Schools
+date: 2012-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00124/a-public-meeting-on-charter-schools.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/09/17/a-public-meeting-on-charter-schools/index.html
+layout: layout.njk
 ---
 A Public Meeting on Charter Schools
 ===================================

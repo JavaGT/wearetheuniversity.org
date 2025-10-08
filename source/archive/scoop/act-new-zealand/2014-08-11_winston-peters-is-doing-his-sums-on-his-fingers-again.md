@@ -1,9 +1,13 @@
 ---
 slug: winston-peters-is-doing-his-sums-on-his-fingers-again
-title: "Winston Peters is doing his sums on his fingers again"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/PO1408/S00163/winston-peters-is-doing-his-sums-on-his-fingers-again.htm
+title: Winston Peters is doing his sums on his fingers again
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00163/winston-peters-is-doing-his-sums-on-his-fingers-again.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/08/11/winston-peters-is-doing-his-sums-on-his-fingers-again/index.html
+layout: layout.njk
 ---
 Winston Peters is doing his sums on his fingers again
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: ae-marika-fighting-in-moerewa
-title: "Ae Marika: Fighting In Moerewa"
-date: 2009-03-03
-source-url: https://www.scoop.co.nz/stories/PA0903/S00021/ae-marika-fighting-in-moerewa.htm
+title: 'Ae Marika: Fighting In Moerewa'
+date: 2009-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00021/ae-marika-fighting-in-moerewa.htm
 author: te-pati-maori
+permalink: /archive/2009/03/03/ae-marika-fighting-in-moerewa/index.html
+layout: layout.njk
 ---
 Ae Marika: Fighting In Moerewa
 ==============================

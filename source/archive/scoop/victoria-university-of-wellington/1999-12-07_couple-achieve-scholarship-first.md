@@ -1,9 +1,12 @@
 ---
 slug: couple-achieve-scholarship-first
-title: "Couple achieve scholarship first"
-date: 1999-12-07
-source-url: https://www.scoop.co.nz/stories/ED9912/S00004/couple-achieve-scholarship-first.htm
+title: Couple achieve scholarship first
+date: 1999-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00004/couple-achieve-scholarship-first.htm
 author: victoria-university-of-wellington
+permalink: /archive/1999/12/07/couple-achieve-scholarship-first/index.html
+layout: layout.njk
 ---
 Couple achieve scholarship first
 ================================

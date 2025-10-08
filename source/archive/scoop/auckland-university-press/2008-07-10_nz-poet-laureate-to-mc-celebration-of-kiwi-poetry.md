@@ -1,9 +1,13 @@
 ---
 slug: nz-poet-laureate-to-mc-celebration-of-kiwi-poetry
-title: "NZ Poet Laureate to MC celebration of Kiwi poetry"
-date: 2008-07-10
-source-url: https://www.scoop.co.nz/stories/CU0807/S00101/nz-poet-laureate-to-mc-celebration-of-kiwi-poetry.htm
+title: NZ Poet Laureate to MC celebration of Kiwi poetry
+date: 2008-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0807/S00101/nz-poet-laureate-to-mc-celebration-of-kiwi-poetry.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2008/07/10/nz-poet-laureate-to-mc-celebration-of-kiwi-poetry/index.html
+layout: layout.njk
 ---
 NZ Poet Laureate to MC celebration of Kiwi poetry
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: mu-signs-agreement-with-top-chinese-arts-and-design-school
-title: "MU signs agreement with top Chinese arts and design school"
-date: 2016-06-01
-source-url: https://www.scoop.co.nz/stories/ED1606/S00001/mu-signs-agreement-with-top-chinese-arts-and-design-school.htm
+title: MU signs agreement with top Chinese arts and design school
+date: 2016-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00001/mu-signs-agreement-with-top-chinese-arts-and-design-school.htm
 author: massey-university
+permalink: >-
+  /archive/2016/06/01/mu-signs-agreement-with-top-chinese-arts-and-design-school/index.html
+layout: layout.njk
 ---
 MU signs agreement with top Chinese arts and design school
 ==========================================================

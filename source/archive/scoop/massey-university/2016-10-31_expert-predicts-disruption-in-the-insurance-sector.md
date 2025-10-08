@@ -1,9 +1,13 @@
 ---
 slug: expert-predicts-disruption-in-the-insurance-sector
-title: "Expert predicts disruption in the insurance sector"
-date: 2016-10-31
-source-url: https://www.scoop.co.nz/stories/BU1610/S00966/expert-predicts-disruption-in-the-insurance-sector.htm
+title: Expert predicts disruption in the insurance sector
+date: 2016-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1610/S00966/expert-predicts-disruption-in-the-insurance-sector.htm
 author: massey-university
+permalink: >-
+  /archive/2016/10/31/expert-predicts-disruption-in-the-insurance-sector/index.html
+layout: layout.njk
 ---
 Expert predicts disruption in the insurance sector
 ==================================================

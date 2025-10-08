@@ -1,9 +1,13 @@
 ---
 slug: salmon-beats-fish-oil-pills-for-omega-3-selenium
-title: "Salmon beats fish oil pills for omega-3, selenium"
-date: 2008-12-05
-source-url: https://www.scoop.co.nz/stories/SC0812/S00012/salmon-beats-fish-oil-pills-for-omega-3-selenium.htm
+title: Salmon beats fish oil pills for omega-3, selenium
+date: 2008-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0812/S00012/salmon-beats-fish-oil-pills-for-omega-3-selenium.htm
 author: massey-university
+permalink: >-
+  /archive/2008/12/05/salmon-beats-fish-oil-pills-for-omega-3-selenium/index.html
+layout: layout.njk
 ---
 Salmon beats fish oil pills for omega-3, selenium
 =================================================

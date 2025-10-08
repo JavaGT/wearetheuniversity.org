@@ -1,9 +1,12 @@
 ---
 slug: newsworthy-national-tax-policy-26-august-2005
-title: "Newsworthy - National tax policy 26 August 2005"
-date: 2005-08-26
-source-url: https://www.scoop.co.nz/stories/PA0508/S00680/newsworthy-national-tax-policy-26-august-2005.htm
+title: Newsworthy - National tax policy 26 August 2005
+date: 2005-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00680/newsworthy-national-tax-policy-26-august-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/26/newsworthy-national-tax-policy-26-august-2005/index.html
+layout: layout.njk
 ---
 Newsworthy - National tax policy 26 August 2005
 ===============================================

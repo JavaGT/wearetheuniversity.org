@@ -1,9 +1,12 @@
 ---
 slug: govt-cuts-school-lunches-even-further
-title: "Govt Cuts School Lunches Even Further"
-date: 2024-10-22
-source-url: https://www.scoop.co.nz/stories/PA2410/S00178/govt-cuts-school-lunches-even-further.htm
+title: Govt Cuts School Lunches Even Further
+date: 2024-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00178/govt-cuts-school-lunches-even-further.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/10/22/govt-cuts-school-lunches-even-further/index.html
+layout: layout.njk
 ---
 Govt Cuts School Lunches Even Further
 =====================================

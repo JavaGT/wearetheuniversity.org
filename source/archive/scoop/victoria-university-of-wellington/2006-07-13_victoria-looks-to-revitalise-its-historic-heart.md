@@ -1,9 +1,12 @@
 ---
 slug: victoria-looks-to-revitalise-its-historic-heart
-title: "Victoria looks to revitalise its historic heart"
-date: 2006-07-13
-source-url: https://www.scoop.co.nz/stories/ED0607/S00041/victoria-looks-to-revitalise-its-historic-heart.htm
+title: Victoria looks to revitalise its historic heart
+date: 2006-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00041/victoria-looks-to-revitalise-its-historic-heart.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/07/13/victoria-looks-to-revitalise-its-historic-heart/index.html
+layout: layout.njk
 ---
 Victoria looks to revitalise its historic heart
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: skills-shortage-a-result-of-nationals-complacency
-title: "Skills shortage a result of National's complacency"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/PA1408/S00395/skills-shortage-a-result-of-nationals-complacency.htm
+title: Skills shortage a result of National's complacency
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00395/skills-shortage-a-result-of-nationals-complacency.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/26/skills-shortage-a-result-of-nationals-complacency/index.html
+layout: layout.njk
 ---
 Skills shortage a result of National's complacency
 ==================================================

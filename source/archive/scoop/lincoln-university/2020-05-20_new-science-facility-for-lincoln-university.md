@@ -1,9 +1,12 @@
 ---
 slug: new-science-facility-for-lincoln-university
-title: "New Science Facility For Lincoln University"
-date: 2020-05-20
-source-url: https://www.scoop.co.nz/stories/ED2005/S00051/new-science-facility-for-lincoln-university.htm
+title: New Science Facility For Lincoln University
+date: 2020-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00051/new-science-facility-for-lincoln-university.htm
 author: lincoln-university
+permalink: /archive/2020/05/20/new-science-facility-for-lincoln-university/index.html
+layout: layout.njk
 ---
 New Science Facility For Lincoln University
 ===========================================

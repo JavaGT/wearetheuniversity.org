@@ -1,9 +1,12 @@
 ---
 slug: cut-schools-some-slack-in-face-of-novopay
-title: "Cut schools some slack in face of Novopay"
-date: 2013-03-03
-source-url: https://www.scoop.co.nz/stories/PA1303/S00025/cut-schools-some-slack-in-face-of-novopay.htm
+title: Cut schools some slack in face of Novopay
+date: 2013-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00025/cut-schools-some-slack-in-face-of-novopay.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/03/cut-schools-some-slack-in-face-of-novopay/index.html
+layout: layout.njk
 ---
 Cut schools some slack in face of Novopay
 =========================================

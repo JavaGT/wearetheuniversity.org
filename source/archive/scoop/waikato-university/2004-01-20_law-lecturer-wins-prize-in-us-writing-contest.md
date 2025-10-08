@@ -1,9 +1,12 @@
 ---
 slug: law-lecturer-wins-prize-in-us-writing-contest
-title: "Law Lecturer Wins Prize In US Writing Contest"
-date: 2004-01-20
-source-url: https://www.scoop.co.nz/stories/ED0401/S00018/law-lecturer-wins-prize-in-us-writing-contest.htm
+title: Law Lecturer Wins Prize In US Writing Contest
+date: 2004-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00018/law-lecturer-wins-prize-in-us-writing-contest.htm
 author: waikato-university
+permalink: /archive/2004/01/20/law-lecturer-wins-prize-in-us-writing-contest/index.html
+layout: layout.njk
 ---
 Law Lecturer Wins Prize In US Writing Contest
 =============================================

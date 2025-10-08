@@ -1,9 +1,13 @@
 ---
 slug: labour-expresses-sympathy-to-japan-on-quake-anniversary
-title: "Labour expresses sympathy to Japan on quake anniversary"
-date: 2012-03-11
-source-url: https://www.scoop.co.nz/stories/PA1203/S00155/labour-expresses-sympathy-to-japan-on-quake-anniversary.htm
+title: Labour expresses sympathy to Japan on quake anniversary
+date: 2012-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00155/labour-expresses-sympathy-to-japan-on-quake-anniversary.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/03/11/labour-expresses-sympathy-to-japan-on-quake-anniversary/index.html
+layout: layout.njk
 ---
 Labour expresses sympathy to Japan on quake anniversary
 =======================================================

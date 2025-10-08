@@ -1,9 +1,16 @@
 ---
-slug: court-of-appeal-trifecta-of-victory-for-nzfirst-trifecta-of-failure-for-opponents
-title: "Court Of Appeal: Trifecta Of Victory For NZFirst, Trifecta Of Failure For Opponents"
-date: 2024-03-26
-source-url: https://www.scoop.co.nz/stories/PA2403/S00152/court-of-appeal-trifecta-of-victory-for-nzfirst-trifecta-of-failure-for-opponents.htm
+slug: >-
+  court-of-appeal-trifecta-of-victory-for-nzfirst-trifecta-of-failure-for-opponents
+title: >-
+  Court Of Appeal: Trifecta Of Victory For NZFirst, Trifecta Of Failure For
+  Opponents
+date: 2024-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00152/court-of-appeal-trifecta-of-victory-for-nzfirst-trifecta-of-failure-for-opponents.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2024/03/26/court-of-appeal-trifecta-of-victory-for-nzfirst-trifecta-of-failure-for-opponents/index.html
+layout: layout.njk
 ---
 Court Of Appeal: Trifecta Of Victory For NZFirst, Trifecta Of Failure For Opponents
 ===================================================================================

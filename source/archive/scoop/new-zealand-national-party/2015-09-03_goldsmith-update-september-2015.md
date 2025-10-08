@@ -1,9 +1,12 @@
 ---
 slug: goldsmith-update-september-2015
-title: "Goldsmith Update: September 2015"
-date: 2015-09-03
-source-url: https://www.scoop.co.nz/stories/PA1509/S00071/goldsmith-update-september-2015.htm
+title: 'Goldsmith Update: September 2015'
+date: 2015-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00071/goldsmith-update-september-2015.htm
 author: new-zealand-national-party
+permalink: /archive/2015/08/31/goldsmith-update-september-2015/index.html
+layout: layout.njk
 ---
 Goldsmith Update: September 2015
 ================================

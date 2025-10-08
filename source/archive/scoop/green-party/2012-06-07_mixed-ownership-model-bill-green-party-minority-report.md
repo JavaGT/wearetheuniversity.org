@@ -1,9 +1,13 @@
 ---
 slug: mixed-ownership-model-bill-green-party-minority-report
-title: "Mixed Ownership Model Bill – Green Party Minority Report"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/PA1206/S00073/mixed-ownership-model-bill-green-party-minority-report.htm
+title: Mixed Ownership Model Bill – Green Party Minority Report
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00073/mixed-ownership-model-bill-green-party-minority-report.htm
 author: green-party
+permalink: >-
+  /archive/2012/06/07/mixed-ownership-model-bill-green-party-minority-report/index.html
+layout: layout.njk
 ---
 Mixed Ownership Model Bill – Green Party Minority Report
 ========================================================

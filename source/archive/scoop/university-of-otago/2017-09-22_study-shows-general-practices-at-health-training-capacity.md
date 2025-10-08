@@ -1,9 +1,13 @@
 ---
 slug: study-shows-general-practices-at-health-training-capacity
-title: "Study shows General Practices at health training capacity"
-date: 2017-09-22
-source-url: https://www.scoop.co.nz/stories/GE1709/S00112/study-shows-general-practices-at-health-training-capacity.htm
+title: Study shows General Practices at health training capacity
+date: 2017-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1709/S00112/study-shows-general-practices-at-health-training-capacity.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/09/22/study-shows-general-practices-at-health-training-capacity/index.html
+layout: layout.njk
 ---
 Study shows General Practices at health training capacity
 =========================================================

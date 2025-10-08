@@ -1,9 +1,12 @@
 ---
 slug: nurses-struggle-with-moral-distress-survey
-title: "Nurses struggle with moral distress - survey"
-date: 2012-08-14
-source-url: https://www.scoop.co.nz/stories/GE1208/S00058/nurses-struggle-with-moral-distress-survey.htm
+title: Nurses struggle with moral distress - survey
+date: 2012-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1208/S00058/nurses-struggle-with-moral-distress-survey.htm
 author: massey-university
+permalink: /archive/2012/08/14/nurses-struggle-with-moral-distress-survey/index.html
+layout: layout.njk
 ---
 Nurses struggle with moral distress - survey
 ============================================

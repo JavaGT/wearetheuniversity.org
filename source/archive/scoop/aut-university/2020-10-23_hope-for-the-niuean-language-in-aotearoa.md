@@ -1,9 +1,12 @@
 ---
 slug: hope-for-the-niuean-language-in-aotearoa
-title: "Hope For The Niuean Language In Aotearoa"
-date: 2020-10-23
-source-url: https://www.scoop.co.nz/stories/ED2010/S00041/hope-for-the-niuean-language-in-aotearoa.htm
+title: Hope For The Niuean Language In Aotearoa
+date: 2020-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00041/hope-for-the-niuean-language-in-aotearoa.htm
 author: aut-university
+permalink: /archive/2020/10/23/hope-for-the-niuean-language-in-aotearoa/index.html
+layout: layout.njk
 ---
 Hope For The Niuean Language In Aotearoa
 ========================================

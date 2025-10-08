@@ -1,9 +1,13 @@
 ---
 slug: to-fall-or-not-to-fall-the-science-of-rock-climbing
-title: "To fall or not to fall: The Science of Rock-climbing"
-date: 2017-05-22
-source-url: https://www.scoop.co.nz/stories/CU1705/S00370/to-fall-or-not-to-fall-the-science-of-rock-climbing.htm
+title: 'To fall or not to fall: The Science of Rock-climbing'
+date: 2017-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1705/S00370/to-fall-or-not-to-fall-the-science-of-rock-climbing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/05/22/to-fall-or-not-to-fall-the-science-of-rock-climbing/index.html
+layout: layout.njk
 ---
 To fall or not to fall: The Science of Rock-climbing
 ====================================================

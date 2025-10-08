@@ -1,9 +1,12 @@
 ---
 slug: mapp-report-visit-to-afghanistan
-title: "Mapp Report - Visit To Afghanistan"
-date: 2009-11-06
-source-url: https://www.scoop.co.nz/stories/PA0911/S00092/mapp-report-visit-to-afghanistan.htm
+title: Mapp Report - Visit To Afghanistan
+date: 2009-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00092/mapp-report-visit-to-afghanistan.htm
 author: new-zealand-national-party
+permalink: /archive/2009/11/06/mapp-report-visit-to-afghanistan/index.html
+layout: layout.njk
 ---
 Mapp Report - Visit To Afghanistan
 ==================================

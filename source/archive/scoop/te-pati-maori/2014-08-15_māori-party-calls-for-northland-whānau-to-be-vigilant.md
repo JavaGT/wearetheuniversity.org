@@ -1,9 +1,12 @@
 ---
 slug: māori-party-calls-for-northland-whānau-to-be-vigilant
-title: "Māori Party Calls for Northland Whānau to Be Vigilant"
-date: 2014-08-15
-source-url: https://www.scoop.co.nz/stories/PA1408/S00252/maori-party-calls-for-northland-whanau-to-be-vigilant.htm
+title: Māori Party Calls for Northland Whānau to Be Vigilant
+date: 2014-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00252/maori-party-calls-for-northland-whanau-to-be-vigilant.htm
 author: te-pati-maori
+permalink: /archive/2014/08/15/m/index.html
+layout: layout.njk
 ---
 Māori Party Calls for Northland Whānau to Be Vigilant
 =====================================================

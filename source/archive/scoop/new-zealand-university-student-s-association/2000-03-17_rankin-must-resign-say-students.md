@@ -1,9 +1,12 @@
 ---
 slug: rankin-must-resign-say-students
-title: "Rankin Must Resign Say Students"
-date: 2000-03-17
-source-url: https://www.scoop.co.nz/stories/ED0003/S00038/rankin-must-resign-say-students.htm
+title: Rankin Must Resign Say Students
+date: 2000-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00038/rankin-must-resign-say-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/03/17/rankin-must-resign-say-students/index.html
+layout: layout.njk
 ---
 Rankin Must Resign Say Students
 ===============================

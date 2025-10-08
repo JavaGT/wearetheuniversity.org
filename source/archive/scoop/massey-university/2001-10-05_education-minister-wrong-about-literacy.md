@@ -1,9 +1,12 @@
 ---
 slug: education-minister-wrong-about-literacy
-title: "Education Minister wrong about literacy"
-date: 2001-10-05
-source-url: https://www.scoop.co.nz/stories/ED0110/S00006/education-minister-wrong-about-literacy.htm
+title: Education Minister wrong about literacy
+date: 2001-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00006/education-minister-wrong-about-literacy.htm
 author: massey-university
+permalink: /archive/2001/10/05/education-minister-wrong-about-literacy/index.html
+layout: layout.njk
 ---
 Education Minister wrong about literacy
 =======================================

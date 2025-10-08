@@ -1,9 +1,13 @@
 ---
 slug: study-aiming-to-improve-nss-low-breastfeeding-rates
-title: "Study aiming to improve NS's low breastfeeding rates"
-date: 2018-05-03
-source-url: https://www.scoop.co.nz/stories/GE1805/S00018/study-aiming-to-improve-nss-low-breastfeeding-rates.htm
+title: Study aiming to improve NS's low breastfeeding rates
+date: 2018-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00018/study-aiming-to-improve-nss-low-breastfeeding-rates.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/03/study-aiming-to-improve-nss-low-breastfeeding-rates/index.html
+layout: layout.njk
 ---
 Study aiming to improve NS's low breastfeeding rates
 ====================================================

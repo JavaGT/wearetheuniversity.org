@@ -1,9 +1,12 @@
 ---
 slug: ministers-failure-to-act-comes-home-to-roost
-title: "Minister’s failure to act comes home to roost"
-date: 2011-07-13
-source-url: https://www.scoop.co.nz/stories/PA1107/S00231/ministers-failure-to-act-comes-home-to-roost.htm
+title: Minister’s failure to act comes home to roost
+date: 2011-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00231/ministers-failure-to-act-comes-home-to-roost.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/13/ministers-failure-to-act-comes-home-to-roost/index.html
+layout: layout.njk
 ---
 Minister’s failure to act comes home to roost
 =============================================

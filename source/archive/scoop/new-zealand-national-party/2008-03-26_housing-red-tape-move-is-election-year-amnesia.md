@@ -1,9 +1,12 @@
 ---
 slug: housing-red-tape-move-is-election-year-amnesia
-title: "Housing red-tape move is election-year amnesia"
-date: 2008-03-26
-source-url: https://www.scoop.co.nz/stories/PA0803/S00439/housing-red-tape-move-is-election-year-amnesia.htm
+title: Housing red-tape move is election-year amnesia
+date: 2008-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00439/housing-red-tape-move-is-election-year-amnesia.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/26/housing-red-tape-move-is-election-year-amnesia/index.html
+layout: layout.njk
 ---
 Housing red-tape move is election-year amnesia
 ==============================================

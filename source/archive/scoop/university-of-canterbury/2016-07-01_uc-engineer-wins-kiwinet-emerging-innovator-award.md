@@ -1,9 +1,13 @@
 ---
 slug: uc-engineer-wins-kiwinet-emerging-innovator-award
-title: "UC engineer wins KiwiNet emerging innovator award"
-date: 2016-07-01
-source-url: https://www.scoop.co.nz/stories/SC1607/S00002/uc-engineer-wins-kiwinet-emerging-innovator-award.htm
+title: UC engineer wins KiwiNet emerging innovator award
+date: 2016-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00002/uc-engineer-wins-kiwinet-emerging-innovator-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/07/01/uc-engineer-wins-kiwinet-emerging-innovator-award/index.html
+layout: layout.njk
 ---
 UC engineer wins KiwiNet emerging innovator award
 =================================================

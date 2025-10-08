@@ -1,9 +1,12 @@
 ---
 slug: hone-harawiras-farewell-speech
-title: "Hone Harawira’s farewell speech"
-date: 2014-10-06
-source-url: https://www.scoop.co.nz/stories/PO1410/S00056/hone-harawiras-farewell-speech.htm
+title: Hone Harawira’s farewell speech
+date: 2014-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00056/hone-harawiras-farewell-speech.htm
 author: fightback
+permalink: /archive/2014/10/06/hone-harawiras-farewell-speech/index.html
+layout: layout.njk
 ---
 Hone Harawira’s farewell speech
 ===============================

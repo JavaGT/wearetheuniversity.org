@@ -1,9 +1,12 @@
 ---
 slug: caesareans-not-as-posh-as-commonly-believed
-title: "Caesareans not as \"posh\" as commonly believed"
-date: 2011-06-14
-source-url: https://www.scoop.co.nz/stories/GE1106/S00054/caesareans-not-as-posh-as-commonly-believed.htm
+title: Caesareans not as "posh" as commonly believed
+date: 2011-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1106/S00054/caesareans-not-as-posh-as-commonly-believed.htm
 author: university-of-otago
+permalink: /archive/2011/06/14/caesareans-not-as-posh-as-commonly-believed/index.html
+layout: layout.njk
 ---
 Caesareans not as "posh" as commonly believed
 =============================================

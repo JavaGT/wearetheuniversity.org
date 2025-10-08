@@ -1,9 +1,13 @@
 ---
 slug: accelerating-research-into-seismic-hazard-analysis-and-forecasting
-title: "Accelerating Research Into Seismic Hazard Analysis And Forecasting"
-date: 2022-01-11
-source-url: https://www.scoop.co.nz/stories/SC2201/S00006/accelerating-research-into-seismic-hazard-analysis-and-forecasting.htm
+title: Accelerating Research Into Seismic Hazard Analysis And Forecasting
+date: 2022-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2201/S00006/accelerating-research-into-seismic-hazard-analysis-and-forecasting.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/01/11/accelerating-research-into-seismic-hazard-analysis-and-forecasting/index.html
+layout: layout.njk
 ---
 Accelerating Research Into Seismic Hazard Analysis And Forecasting
 ==================================================================

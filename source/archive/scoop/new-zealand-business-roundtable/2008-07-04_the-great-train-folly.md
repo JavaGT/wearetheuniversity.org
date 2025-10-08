@@ -1,9 +1,11 @@
 ---
 slug: the-great-train-folly
-title: "The Great Train Folly"
-date: 2008-07-04
+title: The Great Train Folly
+date: 2008-07-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0807/S00084/the-great-train-folly.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/07/04/the-great-train-folly/index.html
+layout: layout.njk
 ---
 The Great Train Folly
 =====================

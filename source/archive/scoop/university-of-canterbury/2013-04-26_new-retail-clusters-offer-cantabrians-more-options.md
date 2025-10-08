@@ -1,9 +1,13 @@
 ---
 slug: new-retail-clusters-offer-cantabrians-more-options
-title: "New Retail Clusters Offer Cantabrians More Options"
-date: 2013-04-26
-source-url: https://www.scoop.co.nz/stories/ED1304/S00151/new-retail-clusters-offer-cantabrians-more-options.htm
+title: New Retail Clusters Offer Cantabrians More Options
+date: 2013-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00151/new-retail-clusters-offer-cantabrians-more-options.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/26/new-retail-clusters-offer-cantabrians-more-options/index.html
+layout: layout.njk
 ---
 New Retail Clusters Offer Cantabrians More Options
 ==================================================

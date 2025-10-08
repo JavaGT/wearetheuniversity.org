@@ -1,9 +1,12 @@
 ---
 slug: health-coaching-a-psychology-grads-dream
-title: "Health coaching a psychology grad’s dream"
-date: 2015-05-13
-source-url: https://www.scoop.co.nz/stories/ED1505/S00062/health-coaching-a-psychology-grads-dream.htm
+title: Health coaching a psychology grad’s dream
+date: 2015-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00062/health-coaching-a-psychology-grads-dream.htm
 author: massey-university
+permalink: /archive/2015/05/13/health-coaching-a-psychology-grads-dream/index.html
+layout: layout.njk
 ---
 Health coaching a psychology grad’s dream
 =========================================

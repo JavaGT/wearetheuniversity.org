@@ -1,9 +1,12 @@
 ---
 slug: public-talk-on-global-sustainability
-title: "Public talk on global sustainability"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/SC1408/S00055/public-talk-on-global-sustainability.htm
+title: Public talk on global sustainability
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00055/public-talk-on-global-sustainability.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/20/public-talk-on-global-sustainability/index.html
+layout: layout.njk
 ---
 Public talk on global sustainability
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-leaves-maori-and-domestic-violence-victims-stranded
-title: "Govt leaves Maori and domestic violence victims stranded"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/PA1505/S00510/govt-leaves-maori-and-domestic-violence-victims-stranded.htm
+title: Govt leaves Maori and domestic violence victims stranded
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00510/govt-leaves-maori-and-domestic-violence-victims-stranded.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/27/govt-leaves-maori-and-domestic-violence-victims-stranded/index.html
+layout: layout.njk
 ---
 Govt leaves Maori and domestic violence victims stranded
 ========================================================

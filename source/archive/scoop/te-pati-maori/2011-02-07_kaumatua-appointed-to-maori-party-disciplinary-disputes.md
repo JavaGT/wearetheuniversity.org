@@ -1,9 +1,13 @@
 ---
 slug: kaumatua-appointed-to-maori-party-disciplinary-disputes
-title: "Kaumatua appointed to Maori Party Disciplinary/Disputes"
-date: 2011-02-07
-source-url: https://www.scoop.co.nz/stories/PA1102/S00076/kaumatua-appointed-to-maori-party-disciplinarydisputes.htm
+title: Kaumatua appointed to Maori Party Disciplinary/Disputes
+date: 2011-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00076/kaumatua-appointed-to-maori-party-disciplinarydisputes.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/02/07/kaumatua-appointed-to-maori-party-disciplinary-disputes/index.html
+layout: layout.njk
 ---
 Kaumatua appointed to Maori Party Disciplinary/Disputes
 =======================================================

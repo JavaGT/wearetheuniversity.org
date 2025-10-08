@@ -1,9 +1,12 @@
 ---
 slug: harawira-expenditure-validation-bill
-title: "Harawira: Expenditure Validation Bill"
-date: 2006-10-18
-source-url: https://www.scoop.co.nz/stories/PA0610/S00337/harawira-expenditure-validation-bill.htm
+title: 'Harawira: Expenditure Validation Bill'
+date: 2006-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00337/harawira-expenditure-validation-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/10/18/harawira-expenditure-validation-bill/index.html
+layout: layout.njk
 ---
 Harawira: Expenditure Validation Bill
 =====================================

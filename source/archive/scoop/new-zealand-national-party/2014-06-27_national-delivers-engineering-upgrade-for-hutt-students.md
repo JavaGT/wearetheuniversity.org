@@ -1,9 +1,13 @@
 ---
 slug: national-delivers-engineering-upgrade-for-hutt-students
-title: "National delivers engineering upgrade for Hutt students"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/PO1406/S00446/national-delivers-engineering-upgrade-for-hutt-students.htm
+title: National delivers engineering upgrade for Hutt students
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00446/national-delivers-engineering-upgrade-for-hutt-students.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/06/27/national-delivers-engineering-upgrade-for-hutt-students/index.html
+layout: layout.njk
 ---
 National delivers engineering upgrade for Hutt students
 =======================================================

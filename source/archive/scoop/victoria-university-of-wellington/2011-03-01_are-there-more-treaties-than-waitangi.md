@@ -1,9 +1,12 @@
 ---
 slug: are-there-more-treaties-than-waitangi
-title: "Are there more treaties than Waitangi?"
-date: 2011-03-01
-source-url: https://www.scoop.co.nz/stories/ED1103/S00003/are-there-more-treaties-than-waitangi.htm
+title: Are there more treaties than Waitangi?
+date: 2011-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00003/are-there-more-treaties-than-waitangi.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/03/01/are-there-more-treaties-than-waitangi/index.html
+layout: layout.njk
 ---
 Are there more treaties than Waitangi?
 ======================================

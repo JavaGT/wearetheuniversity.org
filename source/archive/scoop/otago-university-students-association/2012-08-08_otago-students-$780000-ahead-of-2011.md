@@ -1,9 +1,12 @@
 ---
 slug: otago-students-$780000-ahead-of-2011
-title: "Otago Students $780,000 ahead of 2011"
-date: 2012-08-08
-source-url: https://www.scoop.co.nz/stories/ED1208/S00050/otago-students-780000-ahead-of-2011.htm
+title: Otago Students $780,000 ahead of 2011
+date: 2012-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00050/otago-students-780000-ahead-of-2011.htm
 author: otago-university-students-association
+permalink: /archive/2012/08/08/otago-students-/index.html
+layout: layout.njk
 ---
 Otago Students $780,000 ahead of 2011
 =====================================

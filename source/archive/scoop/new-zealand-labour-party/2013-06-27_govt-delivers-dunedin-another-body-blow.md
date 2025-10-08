@@ -1,9 +1,12 @@
 ---
 slug: govt-delivers-dunedin-another-body-blow
-title: "Govt delivers Dunedin another body blow"
-date: 2013-06-27
-source-url: https://www.scoop.co.nz/stories/PA1306/S00453/govt-delivers-dunedin-another-body-blow.htm
+title: Govt delivers Dunedin another body blow
+date: 2013-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00453/govt-delivers-dunedin-another-body-blow.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/27/govt-delivers-dunedin-another-body-blow/index.html
+layout: layout.njk
 ---
 Govt delivers Dunedin another body blow
 =======================================

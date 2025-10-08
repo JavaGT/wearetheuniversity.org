@@ -1,9 +1,12 @@
 ---
 slug: marae-welcome-for-national-haka-champions
-title: "Marae welcome for national haka champions"
-date: 2008-06-20
-source-url: https://www.scoop.co.nz/stories/ED0806/S00063/marae-welcome-for-national-haka-champions.htm
+title: Marae welcome for national haka champions
+date: 2008-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00063/marae-welcome-for-national-haka-champions.htm
 author: massey-university
+permalink: /archive/2008/06/20/marae-welcome-for-national-haka-champions/index.html
+layout: layout.njk
 ---
 Marae welcome for national haka champions
 =========================================

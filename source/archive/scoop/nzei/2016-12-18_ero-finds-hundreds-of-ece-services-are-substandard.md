@@ -1,9 +1,13 @@
 ---
 slug: ero-finds-hundreds-of-ece-services-are-substandard
-title: "ERO finds hundreds of ECE services are substandard"
-date: 2016-12-18
-source-url: https://www.scoop.co.nz/stories/ED1612/S00066/ero-finds-hundreds-of-ece-services-are-substandard.htm
+title: ERO finds hundreds of ECE services are substandard
+date: 2016-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00066/ero-finds-hundreds-of-ece-services-are-substandard.htm
 author: nzei
+permalink: >-
+  /archive/2016/12/18/ero-finds-hundreds-of-ece-services-are-substandard/index.html
+layout: layout.njk
 ---
 ERO finds hundreds of ECE services are substandard
 ==================================================

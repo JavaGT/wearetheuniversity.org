@@ -1,9 +1,13 @@
 ---
 slug: jacinda-ardern-speech-to-wellington-labour-party-rally
-title: "Jacinda Ardern Speech To Wellington Labour Party Rally"
-date: 2020-10-12
-source-url: https://www.scoop.co.nz/stories/PO2010/S00147/jacinda-ardern-speech-to-wellington-labour-party-rally.htm
+title: Jacinda Ardern Speech To Wellington Labour Party Rally
+date: 2020-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00147/jacinda-ardern-speech-to-wellington-labour-party-rally.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2020/10/12/jacinda-ardern-speech-to-wellington-labour-party-rally/index.html
+layout: layout.njk
 ---
 Jacinda Ardern Speech To Wellington Labour Party Rally
 ======================================================

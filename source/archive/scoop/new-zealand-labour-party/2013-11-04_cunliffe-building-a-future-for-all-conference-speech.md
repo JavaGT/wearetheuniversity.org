@@ -1,9 +1,13 @@
 ---
 slug: cunliffe-building-a-future-for-all-conference-speech
-title: "Cunliffe: Building a Future for All - Conference Speech"
-date: 2013-11-04
-source-url: https://www.scoop.co.nz/stories/PA1311/S00027/cunliffe-building-a-future-for-all-conference-speech.htm
+title: 'Cunliffe: Building a Future for All - Conference Speech'
+date: 2013-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00027/cunliffe-building-a-future-for-all-conference-speech.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/11/04/cunliffe-building-a-future-for-all-conference-speech/index.html
+layout: layout.njk
 ---
 Cunliffe: Building a Future for All - Conference Speech
 =======================================================

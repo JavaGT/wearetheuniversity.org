@@ -1,9 +1,12 @@
 ---
 slug: new-student-tax-meets-with-strong-opposition
-title: "New Student Tax Meets With Strong Opposition"
-date: 2002-05-10
-source-url: https://www.scoop.co.nz/stories/PA0205/S00213/new-student-tax-meets-with-strong-opposition.htm
+title: New Student Tax Meets With Strong Opposition
+date: 2002-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00213/new-student-tax-meets-with-strong-opposition.htm
 author: act-new-zealand
+permalink: /archive/2002/05/10/new-student-tax-meets-with-strong-opposition/index.html
+layout: layout.njk
 ---
 New Student Tax Meets With Strong Opposition
 ============================================

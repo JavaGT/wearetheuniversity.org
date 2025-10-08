@@ -1,9 +1,12 @@
 ---
 slug: james-shaws-2017-budget-response-speech
-title: "James Shaw's 2017 Budget Response Speech"
-date: 2017-05-25
-source-url: https://www.scoop.co.nz/stories/PA1705/S00540/james-shaws-2017-budget-response-speech.htm
+title: James Shaw's 2017 Budget Response Speech
+date: 2017-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00540/james-shaws-2017-budget-response-speech.htm
 author: green-party
+permalink: /archive/2017/05/25/james-shaws-2017-budget-response-speech/index.html
+layout: layout.njk
 ---
 James Shaw's 2017 Budget Response Speech
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: council-elections-attract-student-leaders
-title: "Council Elections Attract Student Leaders"
-date: 2013-09-27
-source-url: https://www.scoop.co.nz/stories/PO1309/S00290/council-elections-attract-student-leaders.htm
+title: Council Elections Attract Student Leaders
+date: 2013-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00290/council-elections-attract-student-leaders.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/09/27/council-elections-attract-student-leaders/index.html
+layout: layout.njk
 ---
 Council Elections Attract Student Leaders
 =========================================

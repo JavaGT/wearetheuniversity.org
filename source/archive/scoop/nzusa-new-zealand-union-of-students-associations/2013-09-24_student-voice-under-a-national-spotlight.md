@@ -1,9 +1,12 @@
 ---
 slug: student-voice-under-a-national-spotlight
-title: "Student Voice under a National Spotlight"
-date: 2013-09-24
-source-url: https://www.scoop.co.nz/stories/PO1309/S00257/student-voice-under-a-national-spotlight.htm
+title: Student Voice under a National Spotlight
+date: 2013-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00257/student-voice-under-a-national-spotlight.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/09/24/student-voice-under-a-national-spotlight/index.html
+layout: layout.njk
 ---
 Student Voice under a National Spotlight
 ========================================

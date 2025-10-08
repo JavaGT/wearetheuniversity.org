@@ -1,9 +1,12 @@
 ---
 slug: politics-in-full-sentences-15-july-2019
-title: "Politics in Full Sentences - 15 July 2019"
-date: 2019-07-15
-source-url: https://www.scoop.co.nz/stories/PA1907/S00119/politics-in-full-sentences-15-july-2019.htm
+title: Politics in Full Sentences - 15 July 2019
+date: 2019-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00119/politics-in-full-sentences-15-july-2019.htm
 author: act-new-zealand
+permalink: /archive/2019/07/15/politics-in-full-sentences-15-july-2019/index.html
+layout: layout.njk
 ---
 Politics in Full Sentences - 15 July 2019
 =========================================

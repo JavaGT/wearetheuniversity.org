@@ -1,9 +1,12 @@
 ---
 slug: kapa-haka-recognition-pc-gone-mad
-title: "Kapa Haka recognition pc gone mad"
-date: 2002-09-12
-source-url: https://www.scoop.co.nz/stories/PA0209/S00214/kapa-haka-recognition-pc-gone-mad.htm
+title: Kapa Haka recognition pc gone mad
+date: 2002-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00214/kapa-haka-recognition-pc-gone-mad.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/12/kapa-haka-recognition-pc-gone-mad/index.html
+layout: layout.njk
 ---
 Kapa Haka recognition pc gone mad
 =================================

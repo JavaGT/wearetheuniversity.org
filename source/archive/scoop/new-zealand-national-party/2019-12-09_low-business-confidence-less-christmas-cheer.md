@@ -1,9 +1,12 @@
 ---
 slug: low-business-confidence-less-christmas-cheer
-title: "Low business confidence, less Christmas cheer"
-date: 2019-12-09
-source-url: https://www.scoop.co.nz/stories/PA1912/S00074/low-business-confidence-less-christmas-cheer.htm
+title: Low business confidence, less Christmas cheer
+date: 2019-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00074/low-business-confidence-less-christmas-cheer.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/09/low-business-confidence-less-christmas-cheer/index.html
+layout: layout.njk
 ---
 Low business confidence, less Christmas cheer
 =============================================

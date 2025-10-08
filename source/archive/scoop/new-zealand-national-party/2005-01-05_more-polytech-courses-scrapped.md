@@ -1,9 +1,12 @@
 ---
 slug: more-polytech-courses-scrapped
-title: "More polytech courses scrapped"
-date: 2005-01-05
-source-url: https://www.scoop.co.nz/stories/ED0501/S00006/more-polytech-courses-scrapped.htm
+title: More polytech courses scrapped
+date: 2005-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00006/more-polytech-courses-scrapped.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/05/more-polytech-courses-scrapped/index.html
+layout: layout.njk
 ---
 More polytech courses scrapped
 ==============================

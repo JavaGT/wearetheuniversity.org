@@ -1,9 +1,12 @@
 ---
 slug: canterbury-students-first-to-us-congress
-title: "Canterbury students first to US Congress"
-date: 2012-03-01
-source-url: https://www.scoop.co.nz/stories/ED1203/S00002/canterbury-students-first-to-us-congress.htm
+title: Canterbury students first to US Congress
+date: 2012-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00002/canterbury-students-first-to-us-congress.htm
 author: university-of-canterbury
+permalink: /archive/2012/03/01/canterbury-students-first-to-us-congress/index.html
+layout: layout.njk
 ---
 Canterbury students first to US Congress
 ========================================

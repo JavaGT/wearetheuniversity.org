@@ -1,9 +1,12 @@
 ---
 slug: another-summer-begging-on-the-breadline
-title: "Another summer begging on the breadline"
-date: 2004-01-05
-source-url: https://www.scoop.co.nz/stories/PA0401/S00013/another-summer-begging-on-the-breadline.htm
+title: Another summer begging on the breadline
+date: 2004-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00013/another-summer-begging-on-the-breadline.htm
 author: green-party
+permalink: /archive/2004/01/05/another-summer-begging-on-the-breadline/index.html
+layout: layout.njk
 ---
 Another summer begging on the breadline
 =======================================

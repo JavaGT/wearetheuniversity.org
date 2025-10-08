@@ -1,9 +1,13 @@
 ---
 slug: homelessness-research-confirms-student-unions-fears
-title: "Homelessness Research Confirms Student Union’s Fears"
-date: 2016-08-25
-source-url: https://www.scoop.co.nz/stories/ED1608/S00098/homelessness-research-confirms-student-unions-fears.htm
+title: Homelessness Research Confirms Student Union’s Fears
+date: 2016-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00098/homelessness-research-confirms-student-unions-fears.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2016/08/25/homelessness-research-confirms-student-unions-fears/index.html
+layout: layout.njk
 ---
 Homelessness Research Confirms Student Union’s Fears
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: sharples-new-zealand-sign-language-bill
-title: "Sharples: New Zealand Sign Language Bill"
-date: 2006-04-07
-source-url: https://www.scoop.co.nz/stories/PA0604/S00142/sharples-new-zealand-sign-language-bill.htm
+title: 'Sharples: New Zealand Sign Language Bill'
+date: 2006-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00142/sharples-new-zealand-sign-language-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/04/07/sharples-new-zealand-sign-language-bill/index.html
+layout: layout.njk
 ---
 Sharples: New Zealand Sign Language Bill
 ========================================

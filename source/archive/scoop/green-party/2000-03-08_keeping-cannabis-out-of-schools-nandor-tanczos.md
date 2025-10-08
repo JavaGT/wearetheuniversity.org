@@ -1,9 +1,12 @@
 ---
 slug: keeping-cannabis-out-of-schools-nandor-tanczos
-title: "Keeping Cannabis Out Of Schools -  Nandor Tanczos"
-date: 2000-03-08
-source-url: https://www.scoop.co.nz/stories/PA0003/S00120/keeping-cannabis-out-of-schools-nandor-tanczos.htm
+title: Keeping Cannabis Out Of Schools -  Nandor Tanczos
+date: 2000-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00120/keeping-cannabis-out-of-schools-nandor-tanczos.htm
 author: green-party
+permalink: /archive/2000/03/08/keeping-cannabis-out-of-schools-nandor-tanczos/index.html
+layout: layout.njk
 ---
 Keeping Cannabis Out Of Schools - Nandor Tanczos
 ================================================

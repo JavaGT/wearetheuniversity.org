@@ -1,9 +1,13 @@
 ---
 slug: speech-by-new-zealand-first-leader-and-mp-for-northland
-title: "Speech by New Zealand First Leader and MP for Northland"
-date: 2016-05-30
-source-url: https://www.scoop.co.nz/stories/PA1605/S00627/speech-by-new-zealand-first-leader-and-mp-for-northland.htm
+title: Speech by New Zealand First Leader and MP for Northland
+date: 2016-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00627/speech-by-new-zealand-first-leader-and-mp-for-northland.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/05/30/speech-by-new-zealand-first-leader-and-mp-for-northland/index.html
+layout: layout.njk
 ---
 Speech by New Zealand First Leader and MP for Northland
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-selects-new-waikato-candidate-for-2017
-title: "National selects new Waikato candidate for 2017"
-date: 2016-12-04
-source-url: https://www.scoop.co.nz/stories/PO1612/S00045/national-selects-new-waikato-candidate-for-2017.htm
+title: National selects new Waikato candidate for 2017
+date: 2016-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1612/S00045/national-selects-new-waikato-candidate-for-2017.htm
 author: new-zealand-national-party
+permalink: /archive/2016/12/04/national-selects-new-waikato-candidate-for-2017/index.html
+layout: layout.njk
 ---
 National selects new Waikato candidate for 2017
 ===============================================

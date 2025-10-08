@@ -1,9 +1,12 @@
 ---
 slug: sisters-with-masters-to-graduate-together
-title: "Sisters with Masters to graduate together"
-date: 2015-10-07
-source-url: https://www.scoop.co.nz/stories/ED1510/S00039/sisters-with-masters-to-graduate-together.htm
+title: Sisters with Masters to graduate together
+date: 2015-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00039/sisters-with-masters-to-graduate-together.htm
 author: university-of-waikato
+permalink: /archive/2015/10/07/sisters-with-masters-to-graduate-together/index.html
+layout: layout.njk
 ---
 Sisters with Masters to graduate together
 =========================================

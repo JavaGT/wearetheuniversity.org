@@ -1,9 +1,12 @@
 ---
 slug: pm-continues-to-thumb-his-nose-at-young-kiwis
-title: "PM Continues to Thumb His Nose at Young Kiwis"
-date: 2017-05-10
-source-url: https://www.scoop.co.nz/stories/PA1705/S00222/pm-continues-to-thumb-his-nose-at-young-kiwis.htm
+title: PM Continues to Thumb His Nose at Young Kiwis
+date: 2017-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00222/pm-continues-to-thumb-his-nose-at-young-kiwis.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/10/pm-continues-to-thumb-his-nose-at-young-kiwis/index.html
+layout: layout.njk
 ---
 PM Continues to Thumb His Nose at Young Kiwis
 =============================================

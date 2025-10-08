@@ -1,9 +1,13 @@
 ---
 slug: minister-should-apologise-to-supergold-cardholders
-title: "Minister Should Apologise To Supergold Cardholders"
-date: 2016-07-01
-source-url: https://www.scoop.co.nz/stories/PA1607/S00019/minister-should-apologise-to-supergold-cardholders.htm
+title: Minister Should Apologise To Supergold Cardholders
+date: 2016-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00019/minister-should-apologise-to-supergold-cardholders.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/07/01/minister-should-apologise-to-supergold-cardholders/index.html
+layout: layout.njk
 ---
 Minister Should Apologise To Supergold Cardholders
 ==================================================

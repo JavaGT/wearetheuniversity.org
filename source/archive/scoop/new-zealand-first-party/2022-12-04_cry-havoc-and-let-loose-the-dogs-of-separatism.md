@@ -1,9 +1,12 @@
 ---
 slug: cry-havoc-and-let-loose-the-dogs-of-separatism
-title: "Cry Havoc And Let Loose The Dogs Of Separatism"
-date: 2022-12-04
-source-url: https://www.scoop.co.nz/stories/PA2212/S00028/cry-havoc-and-let-loose-the-dogs-of-separatism.htm
+title: Cry Havoc And Let Loose The Dogs Of Separatism
+date: 2022-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00028/cry-havoc-and-let-loose-the-dogs-of-separatism.htm
 author: new-zealand-first-party
+permalink: /archive/2022/12/04/cry-havoc-and-let-loose-the-dogs-of-separatism/index.html
+layout: layout.njk
 ---
 Cry Havoc And Let Loose The Dogs Of Separatism
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: rahui-katene-highlights-southern-relationship-significance
-title: "Rahui Katene Highlights Southern Relationship significance"
-date: 2011-05-31
-source-url: https://www.scoop.co.nz/stories/PA1105/S00615/rahui-katene-highlights-southern-relationship-significance.htm
+title: Rahui Katene Highlights Southern Relationship significance
+date: 2011-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00615/rahui-katene-highlights-southern-relationship-significance.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/05/31/rahui-katene-highlights-southern-relationship-significance/index.html
+layout: layout.njk
 ---
 Rahui Katene Highlights Southern Relationship significance
 ==========================================================

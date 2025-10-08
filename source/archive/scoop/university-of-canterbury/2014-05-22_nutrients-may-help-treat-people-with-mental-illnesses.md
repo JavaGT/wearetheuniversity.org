@@ -1,9 +1,13 @@
 ---
 slug: nutrients-may-help-treat-people-with-mental-illnesses
-title: "Nutrients may help treat people with mental illnesses"
-date: 2014-05-22
-source-url: https://www.scoop.co.nz/stories/GE1405/S00126/nutrients-may-help-treat-people-with-mental-illnesses.htm
+title: Nutrients may help treat people with mental illnesses
+date: 2014-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00126/nutrients-may-help-treat-people-with-mental-illnesses.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/22/nutrients-may-help-treat-people-with-mental-illnesses/index.html
+layout: layout.njk
 ---
 Nutrients may help treat people with mental illnesses
 =====================================================

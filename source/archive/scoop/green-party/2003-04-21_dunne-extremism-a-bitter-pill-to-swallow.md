@@ -1,9 +1,12 @@
 ---
 slug: dunne-extremism-a-bitter-pill-to-swallow
-title: "Dunne extremism a bitter pill to swallow"
-date: 2003-04-21
-source-url: https://www.scoop.co.nz/stories/PA0304/S00397/dunne-extremism-a-bitter-pill-to-swallow.htm
+title: Dunne extremism a bitter pill to swallow
+date: 2003-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00397/dunne-extremism-a-bitter-pill-to-swallow.htm
 author: green-party
+permalink: /archive/2003/04/21/dunne-extremism-a-bitter-pill-to-swallow/index.html
+layout: layout.njk
 ---
 Dunne extremism a bitter pill to swallow
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: aquatic-conference-breaking-down-barriers
-title: "Aquatic conference breaking down barriers"
-date: 2013-08-20
-source-url: https://www.scoop.co.nz/stories/SC1308/S00045/aquatic-conference-breaking-down-barriers.htm
+title: Aquatic conference breaking down barriers
+date: 2013-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00045/aquatic-conference-breaking-down-barriers.htm
 author: university-of-waikato
+permalink: /archive/2013/08/20/aquatic-conference-breaking-down-barriers/index.html
+layout: layout.njk
 ---
 Aquatic conference breaking down barriers
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: the-bakhshali-manuscript-the-worlds-oldest-true-zero
-title: "The Bakhshali Manuscript: the World's Oldest ‘True’ Zero?"
-date: 2017-11-10
-source-url: https://www.scoop.co.nz/stories/CU1711/S00190/the-bakhshali-manuscript-the-worlds-oldest-true-zero.htm
+title: 'The Bakhshali Manuscript: the World''s Oldest ‘True’ Zero?'
+date: 2017-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1711/S00190/the-bakhshali-manuscript-the-worlds-oldest-true-zero.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/10/the-bakhshali-manuscript-the-worlds-oldest-true-zero/index.html
+layout: layout.njk
 ---
 The Bakhshali Manuscript: the World's Oldest ‘True’ Zero?
 =========================================================

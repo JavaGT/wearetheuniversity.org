@@ -1,9 +1,11 @@
 ---
 slug: speech-brash-one-law-for-all
-title: "Speech: Brash - One Law For All?"
-date: 2011-11-09
+title: 'Speech: Brash - One Law For All?'
+date: 2011-11-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00173/speech-brash-one-law-for-all.htm
 author: act-new-zealand
+permalink: /archive/2011/11/09/speech-brash-one-law-for-all/index.html
+layout: layout.njk
 ---
 Speech: Brash - One Law For All?
 ================================

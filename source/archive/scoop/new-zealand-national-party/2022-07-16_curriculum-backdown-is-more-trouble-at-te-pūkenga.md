@@ -1,9 +1,12 @@
 ---
 slug: curriculum-backdown-is-more-trouble-at-te-pūkenga
-title: "Curriculum Backdown Is More Trouble At Te Pūkenga"
-date: 2022-07-16
-source-url: https://www.scoop.co.nz/stories/PA2207/S00106/curriculum-backdown-is-more-trouble-at-te-pukenga.htm
+title: Curriculum Backdown Is More Trouble At Te Pūkenga
+date: 2022-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00106/curriculum-backdown-is-more-trouble-at-te-pukenga.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/16/curriculum-backdown-is-more-trouble-at-te-p/index.html
+layout: layout.njk
 ---
 Curriculum Backdown Is More Trouble At Te Pūkenga
 =================================================

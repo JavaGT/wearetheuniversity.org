@@ -1,9 +1,12 @@
 ---
 slug: public-lecture-restorative-justice
-title: "Public lecture - restorative justice"
-date: 2000-06-29
-source-url: https://www.scoop.co.nz/stories/GE0006/S00067/public-lecture-restorative-justice.htm
+title: Public lecture - restorative justice
+date: 2000-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0006/S00067/public-lecture-restorative-justice.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/06/29/public-lecture-restorative-justice/index.html
+layout: layout.njk
 ---
 Public lecture - restorative justice
 ====================================

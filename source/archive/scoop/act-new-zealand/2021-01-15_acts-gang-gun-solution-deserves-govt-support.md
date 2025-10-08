@@ -1,9 +1,12 @@
 ---
 slug: acts-gang-gun-solution-deserves-govt-support
-title: "ACT’s Gang Gun Solution Deserves Govt Support"
-date: 2021-01-15
-source-url: https://www.scoop.co.nz/stories/PA2101/S00031/acts-gang-gun-solution-deserves-govt-support.htm
+title: ACT’s Gang Gun Solution Deserves Govt Support
+date: 2021-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00031/acts-gang-gun-solution-deserves-govt-support.htm
 author: act-new-zealand
+permalink: /archive/2021/01/15/acts-gang-gun-solution-deserves-govt-support/index.html
+layout: layout.njk
 ---
 ACT’s Gang Gun Solution Deserves Govt Support
 =============================================

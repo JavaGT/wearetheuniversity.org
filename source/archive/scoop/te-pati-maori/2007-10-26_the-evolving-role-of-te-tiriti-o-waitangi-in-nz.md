@@ -1,9 +1,12 @@
 ---
 slug: the-evolving-role-of-te-tiriti-o-waitangi-in-nz
-title: "The evolving role of Te Tiriti o Waitangi in NZ"
-date: 2007-10-26
-source-url: https://www.scoop.co.nz/stories/PA0710/S00506/the-evolving-role-of-te-tiriti-o-waitangi-in-nz.htm
+title: The evolving role of Te Tiriti o Waitangi in NZ
+date: 2007-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00506/the-evolving-role-of-te-tiriti-o-waitangi-in-nz.htm
 author: te-pati-maori
+permalink: /archive/2007/10/26/the-evolving-role-of-te-tiriti-o-waitangi-in-nz/index.html
+layout: layout.njk
 ---
 The evolving role of Te Tiriti o Waitangi in NZ
 ===============================================

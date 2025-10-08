@@ -1,9 +1,13 @@
 ---
 slug: child-adhd-study-shows-longer-term-micronutrient-benefits
-title: "Child ADHD study shows longer term micronutrient benefits"
-date: 2019-09-03
-source-url: https://www.scoop.co.nz/stories/SC1909/S00003/child-adhd-study-shows-longer-term-micronutrient-benefits.htm
+title: Child ADHD study shows longer term micronutrient benefits
+date: 2019-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1909/S00003/child-adhd-study-shows-longer-term-micronutrient-benefits.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/09/03/child-adhd-study-shows-longer-term-micronutrient-benefits/index.html
+layout: layout.njk
 ---
 Child ADHD study shows longer term micronutrient benefits
 =========================================================

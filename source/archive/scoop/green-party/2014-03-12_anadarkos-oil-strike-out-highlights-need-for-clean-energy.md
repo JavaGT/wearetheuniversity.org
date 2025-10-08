@@ -1,9 +1,13 @@
 ---
 slug: anadarkos-oil-strike-out-highlights-need-for-clean-energy
-title: "Anadarko’s oil strike-out highlights need for clean energy"
-date: 2014-03-12
-source-url: https://www.scoop.co.nz/stories/PA1403/S00205/anadarkos-oil-strike-out-highlights-need-for-clean-energy.htm
+title: Anadarko’s oil strike-out highlights need for clean energy
+date: 2014-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00205/anadarkos-oil-strike-out-highlights-need-for-clean-energy.htm
 author: green-party
+permalink: >-
+  /archive/2014/03/12/anadarkos-oil-strike-out-highlights-need-for-clean-energy/index.html
+layout: layout.njk
 ---
 Anadarko’s oil strike-out highlights need for clean energy
 ==========================================================

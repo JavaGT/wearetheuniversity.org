@@ -1,9 +1,12 @@
 ---
 slug: the-full-story-of-the-2005-election
-title: "The Full Story of the 2005 Election"
-date: 2007-04-05
-source-url: https://www.scoop.co.nz/stories/PO0704/S00084/the-full-story-of-the-2005-election.htm
+title: The Full Story of the 2005 Election
+date: 2007-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00084/the-full-story-of-the-2005-election.htm
 author: victoria-university-press
+permalink: /archive/2007/04/05/the-full-story-of-the-2005-election/index.html
+layout: layout.njk
 ---
 The Full Story of the 2005 Election
 ===================================

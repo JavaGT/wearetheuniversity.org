@@ -1,9 +1,12 @@
 ---
 slug: budget-policy-statement-dr-pita-sharples
-title: "Budget Policy Statement: Dr Pita Sharples"
-date: 2008-03-13
-source-url: https://www.scoop.co.nz/stories/PA0803/S00222/budget-policy-statement-dr-pita-sharples.htm
+title: 'Budget Policy Statement: Dr Pita Sharples'
+date: 2008-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00222/budget-policy-statement-dr-pita-sharples.htm
 author: te-pati-maori
+permalink: /archive/2008/03/13/budget-policy-statement-dr-pita-sharples/index.html
+layout: layout.njk
 ---
 Budget Policy Statement: Dr Pita Sharples
 =========================================

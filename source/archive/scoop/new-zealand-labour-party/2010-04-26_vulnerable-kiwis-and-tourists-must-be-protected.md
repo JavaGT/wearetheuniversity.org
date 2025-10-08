@@ -1,9 +1,12 @@
 ---
 slug: vulnerable-kiwis-and-tourists-must-be-protected
-title: "Vulnerable Kiwis and tourists must be protected"
-date: 2010-04-26
-source-url: https://www.scoop.co.nz/stories/PA1004/S00321/vulnerable-kiwis-and-tourists-must-be-protected.htm
+title: Vulnerable Kiwis and tourists must be protected
+date: 2010-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00321/vulnerable-kiwis-and-tourists-must-be-protected.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/26/vulnerable-kiwis-and-tourists-must-be-protected/index.html
+layout: layout.njk
 ---
 Vulnerable Kiwis and tourists must be protected
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: study-links-midwifery-experience-to-infant-survival-chances
-title: "Study links midwifery experience to infant survival chances"
-date: 2015-10-21
-source-url: https://www.scoop.co.nz/stories/GE1510/S00081/study-links-midwifery-experience-to-infant-survival-chances.htm
+title: Study links midwifery experience to infant survival chances
+date: 2015-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1510/S00081/study-links-midwifery-experience-to-infant-survival-chances.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/10/21/study-links-midwifery-experience-to-infant-survival-chances/index.html
+layout: layout.njk
 ---
 Study links midwifery experience to infant survival chances
 ===========================================================

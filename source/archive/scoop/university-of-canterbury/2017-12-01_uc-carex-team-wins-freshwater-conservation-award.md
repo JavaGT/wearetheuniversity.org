@@ -1,9 +1,13 @@
 ---
 slug: uc-carex-team-wins-freshwater-conservation-award
-title: "UC CAREX team wins freshwater conservation award"
-date: 2017-12-01
-source-url: https://www.scoop.co.nz/stories/SC1712/S00001/uc-carex-team-wins-freshwater-conservation-award.htm
+title: UC CAREX team wins freshwater conservation award
+date: 2017-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1712/S00001/uc-carex-team-wins-freshwater-conservation-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/12/01/uc-carex-team-wins-freshwater-conservation-award/index.html
+layout: layout.njk
 ---
 UC CAREX team wins freshwater conservation award
 ================================================

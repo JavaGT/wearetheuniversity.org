@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-recognises-its-outstanding-researchers
-title: "University of Otago Recognises its Outstanding Researchers"
-date: 2017-08-03
-source-url: https://www.scoop.co.nz/stories/ED1708/S00010/university-of-otago-recognises-its-outstanding-researchers.htm
+title: University of Otago Recognises its Outstanding Researchers
+date: 2017-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00010/university-of-otago-recognises-its-outstanding-researchers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/08/03/university-of-otago-recognises-its-outstanding-researchers/index.html
+layout: layout.njk
 ---
 University of Otago Recognises its Outstanding Researchers
 ==========================================================

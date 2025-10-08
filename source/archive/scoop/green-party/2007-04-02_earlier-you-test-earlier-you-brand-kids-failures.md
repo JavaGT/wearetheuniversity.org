@@ -1,9 +1,13 @@
 ---
 slug: earlier-you-test-earlier-you-brand-kids-failures
-title: "Earlier you test, earlier you brand kids failures"
-date: 2007-04-02
-source-url: https://www.scoop.co.nz/stories/PA0704/S00033/earlier-you-test-earlier-you-brand-kids-failures.htm
+title: Earlier you test, earlier you brand kids failures
+date: 2007-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00033/earlier-you-test-earlier-you-brand-kids-failures.htm
 author: green-party
+permalink: >-
+  /archive/2007/04/02/earlier-you-test-earlier-you-brand-kids-failures/index.html
+layout: layout.njk
 ---
 Earlier you test, earlier you brand kids failures
 =================================================

@@ -1,9 +1,11 @@
 ---
 slug: michèles-top-scientific-mind
-title: "Michèle’s top scientific mind"
-date: 2016-03-17
+title: Michèle’s top scientific mind
+date: 2016-03-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1603/S00039/micheles-top-scientific-mind.htm
 author: university-of-waikato
+permalink: /archive/2016/03/17/mich/index.html
+layout: layout.njk
 ---
 Michèle’s top scientific mind
 =============================

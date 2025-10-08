@@ -1,9 +1,13 @@
 ---
 slug: creation-of-wetlands-could-solve-drought-problems
-title: "Creation of Wetlands Could Solve Drought Problems"
-date: 2001-10-03
-source-url: https://www.scoop.co.nz/stories/PA0110/S00057/creation-of-wetlands-could-solve-drought-problems.htm
+title: Creation of Wetlands Could Solve Drought Problems
+date: 2001-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00057/creation-of-wetlands-could-solve-drought-problems.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/10/03/creation-of-wetlands-could-solve-drought-problems/index.html
+layout: layout.njk
 ---
 Creation of Wetlands Could Solve Drought Problems
 =================================================

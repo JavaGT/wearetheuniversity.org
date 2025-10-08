@@ -1,9 +1,12 @@
 ---
 slug: mps-pay-hike-confirms-case-for-university-staff
-title: "MPs' pay hike confirms case for university staff"
-date: 2003-11-05
-source-url: https://www.scoop.co.nz/stories/ED0311/S00011/mps-pay-hike-confirms-case-for-university-staff.htm
+title: MPs' pay hike confirms case for university staff
+date: 2003-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00011/mps-pay-hike-confirms-case-for-university-staff.htm
 author: association-of-university-staff
+permalink: /archive/2003/11/05/mps-pay-hike-confirms-case-for-university-staff/index.html
+layout: layout.njk
 ---
 MPs' pay hike confirms case for university staff
 ================================================

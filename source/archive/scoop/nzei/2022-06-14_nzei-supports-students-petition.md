@@ -1,9 +1,12 @@
 ---
 slug: nzei-supports-students-petition
-title: "NZEI Supports Students' Petition"
-date: 2022-06-14
-source-url: https://www.scoop.co.nz/stories/PO2206/S00115/nzei-supports-students-petition.htm
+title: NZEI Supports Students' Petition
+date: 2022-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2206/S00115/nzei-supports-students-petition.htm
 author: nzei
+permalink: /archive/2022/06/14/nzei-supports-students-petition/index.html
+layout: layout.njk
 ---
 NZEI Supports Students' Petition
 ================================

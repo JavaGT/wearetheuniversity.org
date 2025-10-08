@@ -1,9 +1,12 @@
 ---
 slug: caffeine-shown-to-increase-performance-in-rugby
-title: "Caffeine shown to increase performance in rugby"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/GE0504/S00053/caffeine-shown-to-increase-performance-in-rugby.htm
+title: Caffeine shown to increase performance in rugby
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0504/S00053/caffeine-shown-to-increase-performance-in-rugby.htm
 author: aut-university
+permalink: /archive/2005/04/15/caffeine-shown-to-increase-performance-in-rugby/index.html
+layout: layout.njk
 ---
 Caffeine shown to increase performance in rugby
 ===============================================

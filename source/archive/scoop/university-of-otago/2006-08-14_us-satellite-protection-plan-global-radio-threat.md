@@ -1,9 +1,13 @@
 ---
 slug: us-satellite-protection-plan-global-radio-threat
-title: "US satellite protection plan global radio threat"
-date: 2006-08-14
-source-url: https://www.scoop.co.nz/stories/SC0608/S00032/us-satellite-protection-plan-global-radio-threat.htm
+title: US satellite protection plan global radio threat
+date: 2006-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0608/S00032/us-satellite-protection-plan-global-radio-threat.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/08/14/us-satellite-protection-plan-global-radio-threat/index.html
+layout: layout.njk
 ---
 US satellite protection plan global radio threat
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: minister-suggests-riding-horses-in-response-to-truancy
-title: "Minister suggests riding horses in response to truancy"
-date: 2011-04-18
-source-url: https://www.scoop.co.nz/stories/PA1104/S00371/minister-suggests-riding-horses-in-response-to-truancy.htm
+title: Minister suggests riding horses in response to truancy
+date: 2011-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00371/minister-suggests-riding-horses-in-response-to-truancy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/18/minister-suggests-riding-horses-in-response-to-truancy/index.html
+layout: layout.njk
 ---
 Minister suggests riding horses in response to truancy
 ======================================================

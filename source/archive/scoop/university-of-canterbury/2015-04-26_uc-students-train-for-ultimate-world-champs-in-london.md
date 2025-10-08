@@ -1,9 +1,13 @@
 ---
 slug: uc-students-train-for-ultimate-world-champs-in-london
-title: "UC students train for Ultimate world champs in London"
-date: 2015-04-26
-source-url: https://www.scoop.co.nz/stories/ED1504/S00069/uc-students-train-for-ultimate-world-champs-in-london.htm
+title: UC students train for Ultimate world champs in London
+date: 2015-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00069/uc-students-train-for-ultimate-world-champs-in-london.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/26/uc-students-train-for-ultimate-world-champs-in-london/index.html
+layout: layout.njk
 ---
 UC students train for Ultimate world champs in London
 =====================================================

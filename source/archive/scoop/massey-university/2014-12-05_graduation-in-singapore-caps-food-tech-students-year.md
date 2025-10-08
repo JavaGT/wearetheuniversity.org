@@ -1,9 +1,13 @@
 ---
 slug: graduation-in-singapore-caps-food-tech-students-year
-title: "Graduation in Singapore caps food tech students’ year"
-date: 2014-12-05
-source-url: https://www.scoop.co.nz/stories/ED1412/S00043/graduation-in-singapore-caps-food-tech-students-year.htm
+title: Graduation in Singapore caps food tech students’ year
+date: 2014-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00043/graduation-in-singapore-caps-food-tech-students-year.htm
 author: massey-university
+permalink: >-
+  /archive/2014/12/05/graduation-in-singapore-caps-food-tech-students-year/index.html
+layout: layout.njk
 ---
 Graduation in Singapore caps food tech students’ year
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: magic-netballers-performance-under-doctoral-scrutiny
-title: "Magic netballers’ performance under doctoral scrutiny"
-date: 2015-02-18
-source-url: https://www.scoop.co.nz/stories/ED1502/S00067/magic-netballers-performance-under-doctoral-scrutiny.htm
+title: Magic netballers’ performance under doctoral scrutiny
+date: 2015-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00067/magic-netballers-performance-under-doctoral-scrutiny.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/02/18/magic-netballers-performance-under-doctoral-scrutiny/index.html
+layout: layout.njk
 ---
 Magic netballers’ performance under doctoral scrutiny
 =====================================================

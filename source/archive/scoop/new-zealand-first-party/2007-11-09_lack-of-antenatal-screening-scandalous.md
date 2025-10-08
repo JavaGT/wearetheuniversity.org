@@ -1,9 +1,12 @@
 ---
 slug: lack-of-antenatal-screening-scandalous
-title: "Lack Of Antenatal Screening Scandalous"
-date: 2007-11-09
-source-url: https://www.scoop.co.nz/stories/PA0711/S00191/lack-of-antenatal-screening-scandalous.htm
+title: Lack Of Antenatal Screening Scandalous
+date: 2007-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00191/lack-of-antenatal-screening-scandalous.htm
 author: new-zealand-first-party
+permalink: /archive/2007/11/09/lack-of-antenatal-screening-scandalous/index.html
+layout: layout.njk
 ---
 Lack Of Antenatal Screening Scandalous
 ======================================

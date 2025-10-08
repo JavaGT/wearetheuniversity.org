@@ -1,9 +1,13 @@
 ---
 slug: university-staff-welcome-skills-forecasting-action
-title: "University staff welcome skills forecasting action"
-date: 2002-05-17
-source-url: https://www.scoop.co.nz/stories/ED0205/S00031/university-staff-welcome-skills-forecasting-action.htm
+title: University staff welcome skills forecasting action
+date: 2002-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00031/university-staff-welcome-skills-forecasting-action.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2002/05/17/university-staff-welcome-skills-forecasting-action/index.html
+layout: layout.njk
 ---
 University staff welcome skills forecasting action
 ==================================================

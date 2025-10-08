@@ -1,9 +1,11 @@
 ---
 slug: nobel-physicist-lecturing
-title: "Nobel Physicist Lecturing"
-date: 2005-09-23
+title: Nobel Physicist Lecturing
+date: 2005-09-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0509/S00077/nobel-physicist-lecturing.htm
 author: auckland-university
+permalink: /archive/2005/09/23/nobel-physicist-lecturing/index.html
+layout: layout.njk
 ---
 Nobel Physicist Lecturing
 =========================

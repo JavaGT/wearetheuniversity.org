@@ -1,9 +1,12 @@
 ---
 slug: the-column-help-getting-further-away
-title: "The Column: Help Getting Further Away"
-date: 2004-08-27
-source-url: https://www.scoop.co.nz/stories/PA0408/S00490/the-column-help-getting-further-away.htm
+title: 'The Column: Help Getting Further Away'
+date: 2004-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00490/the-column-help-getting-further-away.htm
 author: act-new-zealand
+permalink: /archive/2004/08/27/the-column-help-getting-further-away/index.html
+layout: layout.njk
 ---
 The Column: Help Getting Further Away
 =====================================

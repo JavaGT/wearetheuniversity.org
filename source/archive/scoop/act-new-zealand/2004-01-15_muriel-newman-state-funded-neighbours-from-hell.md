@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-state-funded-neighbours-from-hell
-title: "Muriel Newman: State-Funded Neighbours From Hell"
-date: 2004-01-15
-source-url: https://www.scoop.co.nz/stories/PA0401/S00081/muriel-newman-state-funded-neighbours-from-hell.htm
+title: 'Muriel Newman: State-Funded Neighbours From Hell'
+date: 2004-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00081/muriel-newman-state-funded-neighbours-from-hell.htm
 author: act-new-zealand
+permalink: /archive/2004/01/15/muriel-newman-state-funded-neighbours-from-hell/index.html
+layout: layout.njk
 ---
 Muriel Newman: State-Funded Neighbours From Hell
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-agree-with-act-logic
-title: "Students agree with ACT logic"
-date: 2011-03-09
-source-url: https://www.scoop.co.nz/stories/PO1103/S00069/students-agree-with-act-logic.htm
+title: Students agree with ACT logic
+date: 2011-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1103/S00069/students-agree-with-act-logic.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/03/09/students-agree-with-act-logic/index.html
+layout: layout.njk
 ---
 Students agree with ACT logic
 =============================

@@ -1,9 +1,11 @@
 ---
 slug: speech-flavell-gambling
-title: "Speech: Flavell – Gambling"
-date: 2010-11-12
+title: 'Speech: Flavell – Gambling'
+date: 2010-11-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1011/S00266/speech-flavell-gambling.htm
 author: te-pati-maori
+permalink: /archive/2010/11/12/speech-flavell-gambling/index.html
+layout: layout.njk
 ---
 Speech: Flavell – Gambling
 ==========================

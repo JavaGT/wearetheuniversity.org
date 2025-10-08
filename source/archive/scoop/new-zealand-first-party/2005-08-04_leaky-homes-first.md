@@ -1,9 +1,11 @@
 ---
 slug: leaky-homes-first
-title: "Leaky Homes First"
-date: 2005-08-04
+title: Leaky Homes First
+date: 2005-08-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00146/leaky-homes-first.htm
 author: new-zealand-first-party
+permalink: /archive/2005/08/04/leaky-homes-first/index.html
+layout: layout.njk
 ---
 Leaky Homes First
 =================

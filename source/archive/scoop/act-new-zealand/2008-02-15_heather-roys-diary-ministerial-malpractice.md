@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-ministerial-malpractice
-title: "Heather Roy's Diary: Ministerial Malpractice"
-date: 2008-02-15
-source-url: https://www.scoop.co.nz/stories/PA0802/S00239/heather-roys-diary-ministerial-malpractice.htm
+title: 'Heather Roy''s Diary: Ministerial Malpractice'
+date: 2008-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00239/heather-roys-diary-ministerial-malpractice.htm
 author: act-new-zealand
+permalink: /archive/2008/02/15/heather-roys-diary-ministerial-malpractice/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Ministerial Malpractice
 ============================================

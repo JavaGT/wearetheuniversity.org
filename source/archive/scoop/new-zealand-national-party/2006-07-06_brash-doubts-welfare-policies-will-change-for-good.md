@@ -1,9 +1,13 @@
 ---
 slug: brash-doubts-welfare-policies-will-change-for-good
-title: "Brash doubts welfare policies will change for good"
-date: 2006-07-06
-source-url: https://www.scoop.co.nz/stories/PA0607/S00082/brash-doubts-welfare-policies-will-change-for-good.htm
+title: Brash doubts welfare policies will change for good
+date: 2006-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00082/brash-doubts-welfare-policies-will-change-for-good.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/07/06/brash-doubts-welfare-policies-will-change-for-good/index.html
+layout: layout.njk
 ---
 Brash doubts welfare policies will change for good
 ==================================================

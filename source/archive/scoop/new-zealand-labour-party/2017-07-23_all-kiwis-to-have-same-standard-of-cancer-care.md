@@ -1,9 +1,12 @@
 ---
 slug: all-kiwis-to-have-same-standard-of-cancer-care
-title: "All Kiwis to have same standard of cancer care"
-date: 2017-07-23
-source-url: https://www.scoop.co.nz/stories/PA1707/S00334/all-kiwis-to-have-same-standard-of-cancer-care.htm
+title: All Kiwis to have same standard of cancer care
+date: 2017-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00334/all-kiwis-to-have-same-standard-of-cancer-care.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/23/all-kiwis-to-have-same-standard-of-cancer-care/index.html
+layout: layout.njk
 ---
 All Kiwis to have same standard of cancer care
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: the-governments-top-25-blunders-for-2001
-title: "The Government's Top 25 Blunders For 2001"
-date: 2002-01-15
-source-url: https://www.scoop.co.nz/stories/PA0201/S00047/the-governments-top-25-blunders-for-2001.htm
+title: The Government's Top 25 Blunders For 2001
+date: 2002-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00047/the-governments-top-25-blunders-for-2001.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/15/the-governments-top-25-blunders-for-2001/index.html
+layout: layout.njk
 ---
 The Government's Top 25 Blunders For 2001
 =========================================

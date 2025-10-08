@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-tess-embling-memorial-scholarship
-title: "Waikato University: Tess Embling Memorial Scholarship"
-date: 2012-03-07
-source-url: https://www.scoop.co.nz/stories/ED1203/S00030/waikato-university-tess-embling-memorial-scholarship.htm
+title: 'Waikato University: Tess Embling Memorial Scholarship'
+date: 2012-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00030/waikato-university-tess-embling-memorial-scholarship.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/03/07/waikato-university-tess-embling-memorial-scholarship/index.html
+layout: layout.njk
 ---
 Waikato University: Tess Embling Memorial Scholarship
 =====================================================

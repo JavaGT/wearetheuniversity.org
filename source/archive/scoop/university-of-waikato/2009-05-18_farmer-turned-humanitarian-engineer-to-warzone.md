@@ -1,9 +1,12 @@
 ---
 slug: farmer-turned-humanitarian-engineer-to-warzone
-title: "Farmer-turned-humanitarian engineer to warzone"
-date: 2009-05-18
-source-url: https://www.scoop.co.nz/stories/PO0905/S00237/farmer-turned-humanitarian-engineer-to-warzone.htm
+title: Farmer-turned-humanitarian engineer to warzone
+date: 2009-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00237/farmer-turned-humanitarian-engineer-to-warzone.htm
 author: university-of-waikato
+permalink: /archive/2009/05/18/farmer-turned-humanitarian-engineer-to-warzone/index.html
+layout: layout.njk
 ---
 Farmer-turned-humanitarian engineer to warzone
 ==============================================

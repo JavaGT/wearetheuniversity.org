@@ -1,9 +1,12 @@
 ---
 slug: model-for-vulnerable-youth-shines-in-real-world
-title: "Model for vulnerable youth shines in real world"
-date: 2018-04-04
-source-url: https://www.scoop.co.nz/stories/ED1804/S00005/model-for-vulnerable-youth-shines-in-real-world.htm
+title: Model for vulnerable youth shines in real world
+date: 2018-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00005/model-for-vulnerable-youth-shines-in-real-world.htm
 author: massey-university
+permalink: /archive/2018/04/04/model-for-vulnerable-youth-shines-in-real-world/index.html
+layout: layout.njk
 ---
 Model for vulnerable youth shines in real world
 ===============================================

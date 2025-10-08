@@ -1,9 +1,13 @@
 ---
 slug: mystery-of-colourful-giant-plants-of-the-subantarctic-solved
-title: "Mystery of colourful giant plants of the subantarctic solved"
-date: 2016-09-16
-source-url: https://www.scoop.co.nz/stories/SC1609/S00052/mystery-of-colourful-giant-plants-of-the-subantarctic-solved.htm
+title: Mystery of colourful giant plants of the subantarctic solved
+date: 2016-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00052/mystery-of-colourful-giant-plants-of-the-subantarctic-solved.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/09/16/mystery-of-colourful-giant-plants-of-the-subantarctic-solved/index.html
+layout: layout.njk
 ---
 Mystery of colourful giant plants of the subantarctic solved
 ============================================================

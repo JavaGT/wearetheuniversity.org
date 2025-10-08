@@ -1,9 +1,12 @@
 ---
 slug: seminar-by-angela-davies-26-june
-title: "Seminar by Angela Davies - 26 June"
-date: 2007-06-18
-source-url: https://www.scoop.co.nz/stories/ED0706/S00077/seminar-by-angela-davies-26-june.htm
+title: Seminar by Angela Davies - 26 June
+date: 2007-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00077/seminar-by-angela-davies-26-june.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/06/18/seminar-by-angela-davies-26-june/index.html
+layout: layout.njk
 ---
 Seminar by Angela Davies - 26 June
 ==================================

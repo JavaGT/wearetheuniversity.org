@@ -1,9 +1,12 @@
 ---
 slug: intermittent-rivers-affect-global-co2-emissions
-title: "Intermittent rivers affect global CO2 emissions"
-date: 2018-05-22
-source-url: https://www.scoop.co.nz/stories/SC1805/S00054/intermittent-rivers-affect-global-co2-emissions.htm
+title: Intermittent rivers affect global CO2 emissions
+date: 2018-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00054/intermittent-rivers-affect-global-co2-emissions.htm
 author: university-of-canterbury
+permalink: /archive/2018/05/22/intermittent-rivers-affect-global-co2-emissions/index.html
+layout: layout.njk
 ---
 Intermittent rivers affect global CO2 emissions
 ===============================================

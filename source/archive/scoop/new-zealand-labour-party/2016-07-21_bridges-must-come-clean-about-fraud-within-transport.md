@@ -1,9 +1,13 @@
 ---
 slug: bridges-must-come-clean-about-fraud-within-transport
-title: "Bridges must come clean about fraud within transport"
-date: 2016-07-21
-source-url: https://www.scoop.co.nz/stories/PA1607/S00314/bridges-must-come-clean-about-fraud-within-transport.htm
+title: Bridges must come clean about fraud within transport
+date: 2016-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00314/bridges-must-come-clean-about-fraud-within-transport.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/07/21/bridges-must-come-clean-about-fraud-within-transport/index.html
+layout: layout.njk
 ---
 Bridges must come clean about fraud within transport
 ====================================================

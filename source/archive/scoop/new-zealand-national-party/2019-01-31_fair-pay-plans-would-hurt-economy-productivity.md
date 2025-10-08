@@ -1,9 +1,12 @@
 ---
 slug: fair-pay-plans-would-hurt-economy-productivity
-title: "‘Fair Pay’ plans would hurt economy, productivity"
-date: 2019-01-31
-source-url: https://www.scoop.co.nz/stories/PA1901/S00098/fair-pay-plans-would-hurt-economy-productivity.htm
+title: ‘Fair Pay’ plans would hurt economy, productivity
+date: 2019-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00098/fair-pay-plans-would-hurt-economy-productivity.htm
 author: new-zealand-national-party
+permalink: /archive/2019/01/31/fair-pay-plans-would-hurt-economy-productivity/index.html
+layout: layout.njk
 ---
 ‘Fair Pay’ plans would hurt economy, productivity
 =================================================

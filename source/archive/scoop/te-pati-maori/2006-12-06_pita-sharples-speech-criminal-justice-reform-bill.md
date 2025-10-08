@@ -1,9 +1,13 @@
 ---
 slug: pita-sharples-speech-criminal-justice-reform-bill
-title: "Pita Sharples Speech Criminal Justice Reform Bill"
-date: 2006-12-06
-source-url: https://www.scoop.co.nz/stories/PA0612/S00086/pita-sharples-speech-criminal-justice-reform-bill.htm
+title: Pita Sharples Speech Criminal Justice Reform Bill
+date: 2006-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00086/pita-sharples-speech-criminal-justice-reform-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/12/06/pita-sharples-speech-criminal-justice-reform-bill/index.html
+layout: layout.njk
 ---
 Pita Sharples Speech Criminal Justice Reform Bill
 =================================================

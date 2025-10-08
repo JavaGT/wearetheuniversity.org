@@ -1,9 +1,13 @@
 ---
 slug: nz-history-curriculum-threatens-left-wing-indoctrination
-title: "NZ History Curriculum Threatens Left-wing Indoctrination"
-date: 2021-05-19
-source-url: https://www.scoop.co.nz/stories/PA2105/S00163/nz-history-curriculum-threatens-left-wing-indoctrination.htm
+title: NZ History Curriculum Threatens Left-wing Indoctrination
+date: 2021-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00163/nz-history-curriculum-threatens-left-wing-indoctrination.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/05/19/nz-history-curriculum-threatens-left-wing-indoctrination/index.html
+layout: layout.njk
 ---
 NZ History Curriculum Threatens Left-wing Indoctrination
 ========================================================

@@ -1,9 +1,11 @@
 ---
 slug: government-by-google
-title: "Government by Google"
-date: 2006-08-16
+title: Government by Google
+date: 2006-08-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0608/S00284/government-by-google.htm
 author: green-party
+permalink: /archive/2006/08/16/government-by-google/index.html
+layout: layout.njk
 ---
 Government by Google
 ====================

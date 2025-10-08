@@ -1,9 +1,12 @@
 ---
 slug: goff-preserve-new-chum-for-future-generations
-title: "Goff - Preserve New Chum for future generations"
-date: 2011-01-03
-source-url: https://www.scoop.co.nz/stories/PA1101/S00004/goff-preserve-new-chum-for-future-generations.htm
+title: Goff - Preserve New Chum for future generations
+date: 2011-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00004/goff-preserve-new-chum-for-future-generations.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/03/goff-preserve-new-chum-for-future-generations/index.html
+layout: layout.njk
 ---
 Goff - Preserve New Chum for future generations
 ===============================================

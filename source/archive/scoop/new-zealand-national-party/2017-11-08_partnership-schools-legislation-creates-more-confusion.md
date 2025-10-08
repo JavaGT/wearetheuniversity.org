@@ -1,9 +1,13 @@
 ---
 slug: partnership-schools-legislation-creates-more-confusion
-title: "Partnership schools legislation creates more confusion"
-date: 2017-11-08
-source-url: https://www.scoop.co.nz/stories/PA1711/S00046/partnership-schools-legislation-creates-more-confusion.htm
+title: Partnership schools legislation creates more confusion
+date: 2017-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00046/partnership-schools-legislation-creates-more-confusion.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/11/08/partnership-schools-legislation-creates-more-confusion/index.html
+layout: layout.njk
 ---
 Partnership schools legislation creates more confusion
 ======================================================

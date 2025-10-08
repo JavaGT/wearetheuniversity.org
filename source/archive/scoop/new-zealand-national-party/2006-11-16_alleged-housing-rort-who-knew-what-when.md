@@ -1,9 +1,12 @@
 ---
 slug: alleged-housing-rort-who-knew-what-when
-title: "Alleged housing rort: Who knew what, when?"
-date: 2006-11-16
-source-url: https://www.scoop.co.nz/stories/PA0611/S00318/alleged-housing-rort-who-knew-what-when.htm
+title: 'Alleged housing rort: Who knew what, when?'
+date: 2006-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00318/alleged-housing-rort-who-knew-what-when.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/16/alleged-housing-rort-who-knew-what-when/index.html
+layout: layout.njk
 ---
 Alleged housing rort: Who knew what, when?
 ==========================================

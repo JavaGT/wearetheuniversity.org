@@ -1,9 +1,12 @@
 ---
 slug: kātene-shocked-at-poll-results
-title: "Kātene shocked at poll results"
-date: 2011-10-02
-source-url: https://www.scoop.co.nz/stories/PA1110/S00011/katene-shocked-at-poll-results.htm
+title: Kātene shocked at poll results
+date: 2011-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00011/katene-shocked-at-poll-results.htm
 author: te-pati-maori
+permalink: /archive/2011/10/02/k/index.html
+layout: layout.njk
 ---
 Kātene shocked at poll results
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: teacher-quality-versus-registration
-title: "Teacher Quality Versus Registration"
-date: 2003-07-29
-source-url: https://www.scoop.co.nz/stories/PA0307/S00525/teacher-quality-versus-registration.htm
+title: Teacher Quality Versus Registration
+date: 2003-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00525/teacher-quality-versus-registration.htm
 author: act-new-zealand
+permalink: /archive/2003/07/29/teacher-quality-versus-registration/index.html
+layout: layout.njk
 ---
 Teacher Quality Versus Registration
 ===================================

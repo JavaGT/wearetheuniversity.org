@@ -1,9 +1,13 @@
 ---
 slug: students-call-on-maharey-to-enter-fees-mediation
-title: "Students call on Maharey to enter fees mediation"
-date: 2004-09-10
-source-url: https://www.scoop.co.nz/stories/ED0409/S00044/students-call-on-maharey-to-enter-fees-mediation.htm
+title: Students call on Maharey to enter fees mediation
+date: 2004-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00044/students-call-on-maharey-to-enter-fees-mediation.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/09/10/students-call-on-maharey-to-enter-fees-mediation/index.html
+layout: layout.njk
 ---
 Students call on Maharey to enter fees mediation
 ================================================

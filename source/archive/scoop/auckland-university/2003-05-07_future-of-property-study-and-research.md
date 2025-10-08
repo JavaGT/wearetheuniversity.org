@@ -1,9 +1,12 @@
 ---
 slug: future-of-property-study-and-research
-title: "Future of property study and research"
-date: 2003-05-07
-source-url: https://www.scoop.co.nz/stories/ED0305/S00021/future-of-property-study-and-research.htm
+title: Future of property study and research
+date: 2003-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00021/future-of-property-study-and-research.htm
 author: auckland-university
+permalink: /archive/2003/05/07/future-of-property-study-and-research/index.html
+layout: layout.njk
 ---
 Future of property study and research
 =====================================

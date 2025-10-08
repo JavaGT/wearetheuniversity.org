@@ -1,9 +1,13 @@
 ---
 slug: otago-physics-student-gains-prestigious-scholarship
-title: "Otago Physics student gains prestigious scholarship"
-date: 2013-11-11
-source-url: https://www.scoop.co.nz/stories/ED1311/S00076/otago-physics-student-gains-prestigious-scholarship.htm
+title: Otago Physics student gains prestigious scholarship
+date: 2013-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00076/otago-physics-student-gains-prestigious-scholarship.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/11/11/otago-physics-student-gains-prestigious-scholarship/index.html
+layout: layout.njk
 ---
 Otago Physics student gains prestigious scholarship
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: hodgson-cant-quantify-unpaid-bills
-title: "Hodgson can't quantify unpaid bills"
-date: 2006-07-18
-source-url: https://www.scoop.co.nz/stories/PA0607/S00271/hodgson-cant-quantify-unpaid-bills.htm
+title: Hodgson can't quantify unpaid bills
+date: 2006-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00271/hodgson-cant-quantify-unpaid-bills.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/18/hodgson-cant-quantify-unpaid-bills/index.html
+layout: layout.njk
 ---
 Hodgson can't quantify unpaid bills
 ===================================

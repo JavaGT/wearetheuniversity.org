@@ -1,9 +1,12 @@
 ---
 slug: ecologist-helps-plan-tasmanias-water-use
-title: "Ecologist Helps Plan Tasmania’s Water Use"
-date: 2012-08-01
-source-url: https://www.scoop.co.nz/stories/ED1208/S00001/ecologist-helps-plan-tasmanias-water-use.htm
+title: Ecologist Helps Plan Tasmania’s Water Use
+date: 2012-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00001/ecologist-helps-plan-tasmanias-water-use.htm
 author: massey-university
+permalink: /archive/2012/08/01/ecologist-helps-plan-tasmanias-water-use/index.html
+layout: layout.njk
 ---
 Ecologist Helps Plan Tasmania’s Water Use
 =========================================

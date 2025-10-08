@@ -1,9 +1,12 @@
 ---
 slug: young-farmer-winners-study-at-lincoln
-title: "Young Farmer Winners Study At Lincoln"
-date: 2009-07-15
-source-url: https://www.scoop.co.nz/stories/ED0907/S00062/young-farmer-winners-study-at-lincoln.htm
+title: Young Farmer Winners Study At Lincoln
+date: 2009-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00062/young-farmer-winners-study-at-lincoln.htm
 author: lincoln-university
+permalink: /archive/2009/07/15/young-farmer-winners-study-at-lincoln/index.html
+layout: layout.njk
 ---
 Young Farmer Winners Study At Lincoln
 =====================================

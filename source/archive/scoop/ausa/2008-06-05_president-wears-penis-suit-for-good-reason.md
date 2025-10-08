@@ -1,9 +1,12 @@
 ---
 slug: president-wears-penis-suit-for-good-reason
-title: "President wears penis suit for good reason"
-date: 2008-06-05
-source-url: https://www.scoop.co.nz/stories/GE0806/S00016/president-wears-penis-suit-for-good-reason.htm
+title: President wears penis suit for good reason
+date: 2008-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0806/S00016/president-wears-penis-suit-for-good-reason.htm
 author: ausa
+permalink: /archive/2008/06/05/president-wears-penis-suit-for-good-reason/index.html
+layout: layout.njk
 ---
 President wears penis suit for good reason
 ==========================================

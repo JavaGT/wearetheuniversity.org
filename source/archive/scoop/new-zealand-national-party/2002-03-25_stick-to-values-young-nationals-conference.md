@@ -1,9 +1,12 @@
 ---
 slug: stick-to-values-young-nationals-conference
-title: "\"Stick to values\" – Young National’s conference"
-date: 2002-03-25
-source-url: https://www.scoop.co.nz/stories/PO0203/S00124/stick-to-values-young-nationals-conference.htm
+title: '"Stick to values" – Young National’s conference'
+date: 2002-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0203/S00124/stick-to-values-young-nationals-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/25/stick-to-values-young-nationals-conference/index.html
+layout: layout.njk
 ---
 “Stick to values” – Young National’s conference
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: raising-young-peoples-understanding-of-china
-title: "Raising young people’s understanding of China"
-date: 2010-07-19
-source-url: https://www.scoop.co.nz/stories/ED1007/S00064/raising-young-peoples-understanding-of-china.htm
+title: Raising young people’s understanding of China
+date: 2010-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00064/raising-young-peoples-understanding-of-china.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/07/19/raising-young-peoples-understanding-of-china/index.html
+layout: layout.njk
 ---
 Raising young people’s understanding of China
 =============================================

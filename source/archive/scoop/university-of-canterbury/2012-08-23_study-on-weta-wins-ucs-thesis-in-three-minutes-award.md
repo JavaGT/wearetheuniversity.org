@@ -1,9 +1,13 @@
 ---
 slug: study-on-weta-wins-ucs-thesis-in-three-minutes-award
-title: "Study on weta wins UC’s thesis-in three-minutes award"
-date: 2012-08-23
-source-url: https://www.scoop.co.nz/stories/SC1208/S00060/study-on-weta-wins-ucs-thesis-in-three-minutes-award.htm
+title: Study on weta wins UC’s thesis-in three-minutes award
+date: 2012-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00060/study-on-weta-wins-ucs-thesis-in-three-minutes-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/23/study-on-weta-wins-ucs-thesis-in-three-minutes-award/index.html
+layout: layout.njk
 ---
 Study on weta wins UC’s thesis-in three-minutes award
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: secret-immigration-plan-revealed-in-paper
-title: "Secret immigration plan revealed in paper"
-date: 2012-03-05
-source-url: https://www.scoop.co.nz/stories/PA1203/S00048/secret-immigration-plan-revealed-in-paper.htm
+title: Secret immigration plan revealed in paper
+date: 2012-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00048/secret-immigration-plan-revealed-in-paper.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/05/secret-immigration-plan-revealed-in-paper/index.html
+layout: layout.njk
 ---
 Secret immigration plan revealed in paper
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-selects-meka-whaitiri-for-ikaroa-rawhiti
-title: "Labour selects Meka Whaitiri for Ikaroa-Rawhiti"
-date: 2013-05-26
-source-url: https://www.scoop.co.nz/stories/PO1305/S00385/labour-selects-meka-whaitiri-for-ikaroa-rawhiti.htm
+title: Labour selects Meka Whaitiri for Ikaroa-Rawhiti
+date: 2013-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00385/labour-selects-meka-whaitiri-for-ikaroa-rawhiti.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/26/labour-selects-meka-whaitiri-for-ikaroa-rawhiti/index.html
+layout: layout.njk
 ---
 Labour selects Meka Whaitiri for Ikaroa-Rawhiti
 ===============================================

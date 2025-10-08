@@ -1,9 +1,12 @@
 ---
 slug: pressure-on-dhbs-as-scalpel-taken-to-funding
-title: "Pressure on DHBs as scalpel taken to funding"
-date: 2015-11-03
-source-url: https://www.scoop.co.nz/stories/PA1511/S00026/pressure-on-dhbs-as-scalpel-taken-to-funding.htm
+title: Pressure on DHBs as scalpel taken to funding
+date: 2015-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00026/pressure-on-dhbs-as-scalpel-taken-to-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/03/pressure-on-dhbs-as-scalpel-taken-to-funding/index.html
+layout: layout.njk
 ---
 Pressure on DHBs as scalpel taken to funding
 ============================================

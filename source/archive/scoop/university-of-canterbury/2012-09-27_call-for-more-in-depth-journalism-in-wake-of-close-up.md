@@ -1,9 +1,13 @@
 ---
 slug: call-for-more-in-depth-journalism-in-wake-of-close-up
-title: "Call for more in-depth journalism in wake of Close Up"
-date: 2012-09-27
-source-url: https://www.scoop.co.nz/stories/ED1209/S00200/call-for-more-in-depth-journalism-in-wake-of-close-up.htm
+title: Call for more in-depth journalism in wake of Close Up
+date: 2012-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00200/call-for-more-in-depth-journalism-in-wake-of-close-up.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/27/call-for-more-in-depth-journalism-in-wake-of-close-up/index.html
+layout: layout.njk
 ---
 Call for more in-depth journalism in wake of Close Up
 =====================================================

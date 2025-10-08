@@ -1,9 +1,11 @@
 ---
 slug: gerry-in-the-house
-title: "Gerry: In the House"
-date: 2005-08-05
+title: 'Gerry: In the House'
+date: 2005-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00177/gerry-in-the-house.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/05/gerry-in-the-house/index.html
+layout: layout.njk
 ---
 Gerry: In the House
 ===================

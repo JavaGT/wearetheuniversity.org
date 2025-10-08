@@ -1,9 +1,11 @@
 ---
 slug: bsa-threat-to-free-speech
-title: "BSA Threat To Free Speech"
-date: 2003-07-04
+title: BSA Threat To Free Speech
+date: 2003-07-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0307/S00118/bsa-threat-to-free-speech.htm
 author: act-new-zealand
+permalink: /archive/2003/07/04/bsa-threat-to-free-speech/index.html
+layout: layout.njk
 ---
 BSA Threat To Free Speech
 =========================

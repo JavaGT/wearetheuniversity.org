@@ -1,9 +1,12 @@
 ---
 slug: 18-month-ministry-spent-thousands-on-branding
-title: "18-Month Ministry Spent Thousands On Branding"
-date: 2012-08-10
-source-url: https://www.scoop.co.nz/stories/PA1208/S00146/18-month-ministry-spent-thousands-on-branding.htm
+title: 18-Month Ministry Spent Thousands On Branding
+date: 2012-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00146/18-month-ministry-spent-thousands-on-branding.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/10/18-month-ministry-spent-thousands-on-branding/index.html
+layout: layout.njk
 ---
 18-Month Ministry Spent Thousands On Branding
 =============================================

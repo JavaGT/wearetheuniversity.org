@@ -1,9 +1,13 @@
 ---
 slug: making-it-even-easier-to-track-your-childs-progress
-title: "Making it even easier to track your child’s progress"
-date: 2017-08-27
-source-url: https://www.scoop.co.nz/stories/PA1708/S00493/making-it-even-easier-to-track-your-childs-progress.htm
+title: Making it even easier to track your child’s progress
+date: 2017-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00493/making-it-even-easier-to-track-your-childs-progress.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/08/27/making-it-even-easier-to-track-your-childs-progress/index.html
+layout: layout.njk
 ---
 Making it even easier to track your child’s progress
 ====================================================

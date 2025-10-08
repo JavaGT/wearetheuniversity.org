@@ -1,9 +1,13 @@
 ---
 slug: young-reviewers-unleashed-on-nz-int-arts-festival
-title: "Young reviewers unleashed on NZ Int. Arts Festival"
-date: 2004-02-16
-source-url: https://www.scoop.co.nz/stories/ED0402/S00034/young-reviewers-unleashed-on-nz-int-arts-festival.htm
+title: Young reviewers unleashed on NZ Int. Arts Festival
+date: 2004-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00034/young-reviewers-unleashed-on-nz-int-arts-festival.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/02/16/young-reviewers-unleashed-on-nz-int-arts-festival/index.html
+layout: layout.njk
 ---
 Young reviewers unleashed on NZ Int. Arts Festival
 ==================================================

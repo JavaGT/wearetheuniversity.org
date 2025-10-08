@@ -1,9 +1,12 @@
 ---
 slug: alcohol-harm-under-academic-scrutiny
-title: "Alcohol harm under academic scrutiny"
-date: 2010-08-17
-source-url: https://www.scoop.co.nz/stories/CU1008/S00238/alcohol-harm-under-academic-scrutiny.htm
+title: Alcohol harm under academic scrutiny
+date: 2010-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1008/S00238/alcohol-harm-under-academic-scrutiny.htm
 author: massey-university
+permalink: /archive/2010/08/17/alcohol-harm-under-academic-scrutiny/index.html
+layout: layout.njk
 ---
 Alcohol harm under academic scrutiny
 ====================================

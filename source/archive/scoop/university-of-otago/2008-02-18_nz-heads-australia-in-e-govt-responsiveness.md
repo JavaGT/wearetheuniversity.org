@@ -1,9 +1,12 @@
 ---
 slug: nz-heads-australia-in-e-govt-responsiveness
-title: "NZ heads Australia in e-govt responsiveness"
-date: 2008-02-18
-source-url: https://www.scoop.co.nz/stories/PO0802/S00206/nz-heads-australia-in-e-govt-responsiveness.htm
+title: NZ heads Australia in e-govt responsiveness
+date: 2008-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0802/S00206/nz-heads-australia-in-e-govt-responsiveness.htm
 author: university-of-otago
+permalink: /archive/2008/02/18/nz-heads-australia-in-e-govt-responsiveness/index.html
+layout: layout.njk
 ---
 NZ heads Australia in e-govt responsiveness
 ===========================================

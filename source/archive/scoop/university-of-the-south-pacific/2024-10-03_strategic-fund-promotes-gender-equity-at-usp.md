@@ -1,9 +1,12 @@
 ---
 slug: strategic-fund-promotes-gender-equity-at-usp
-title: "Strategic Fund Promotes Gender Equity At USP"
-date: 2024-10-03
-source-url: https://www.scoop.co.nz/stories/ED2410/S00007/strategic-fund-promotes-gender-equity-at-usp.htm
+title: Strategic Fund Promotes Gender Equity At USP
+date: 2024-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00007/strategic-fund-promotes-gender-equity-at-usp.htm
 author: university-of-the-south-pacific
+permalink: /archive/2024/10/03/strategic-fund-promotes-gender-equity-at-usp/index.html
+layout: layout.njk
 ---
 Strategic Fund Promotes Gender Equity At USP
 ============================================

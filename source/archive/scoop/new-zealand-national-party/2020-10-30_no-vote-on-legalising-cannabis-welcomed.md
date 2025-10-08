@@ -1,9 +1,12 @@
 ---
 slug: no-vote-on-legalising-cannabis-welcomed
-title: "No Vote On Legalising Cannabis Welcomed"
-date: 2020-10-30
-source-url: https://www.scoop.co.nz/stories/PA2010/S00115/no-vote-on-legalising-cannabis-welcomed.htm
+title: No Vote On Legalising Cannabis Welcomed
+date: 2020-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00115/no-vote-on-legalising-cannabis-welcomed.htm
 author: new-zealand-national-party
+permalink: /archive/2020/10/30/no-vote-on-legalising-cannabis-welcomed/index.html
+layout: layout.njk
 ---
 No Vote On Legalising Cannabis Welcomed
 =======================================

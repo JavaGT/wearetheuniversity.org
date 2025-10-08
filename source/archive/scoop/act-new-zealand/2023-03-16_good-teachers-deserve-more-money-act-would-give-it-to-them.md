@@ -1,9 +1,13 @@
 ---
 slug: good-teachers-deserve-more-money-act-would-give-it-to-them
-title: "Good Teachers Deserve More Money, ACT Would Give It To Them"
-date: 2023-03-16
-source-url: https://www.scoop.co.nz/stories/PA2303/S00128/good-teachers-deserve-more-money-act-would-give-it-to-them.htm
+title: Good Teachers Deserve More Money, ACT Would Give It To Them
+date: 2023-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00128/good-teachers-deserve-more-money-act-would-give-it-to-them.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/03/16/good-teachers-deserve-more-money-act-would-give-it-to-them/index.html
+layout: layout.njk
 ---
 Good Teachers Deserve More Money, ACT Would Give It To Them
 ===========================================================

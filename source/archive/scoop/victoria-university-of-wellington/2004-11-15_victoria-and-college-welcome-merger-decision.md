@@ -1,9 +1,12 @@
 ---
 slug: victoria-and-college-welcome-merger-decision
-title: "Victoria and College welcome merger decision"
-date: 2004-11-15
-source-url: https://www.scoop.co.nz/stories/ED0411/S00048/victoria-and-college-welcome-merger-decision.htm
+title: Victoria and College welcome merger decision
+date: 2004-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00048/victoria-and-college-welcome-merger-decision.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/11/15/victoria-and-college-welcome-merger-decision/index.html
+layout: layout.njk
 ---
 Victoria and College welcome merger decision
 ============================================

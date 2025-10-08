@@ -1,9 +1,12 @@
 ---
 slug: managers-are-dinosaurs-say-world-experts
-title: "Managers are dinosaurs, say world experts"
-date: 2006-09-12
-source-url: https://www.scoop.co.nz/stories/BU0609/S00189/managers-are-dinosaurs-say-world-experts.htm
+title: Managers are dinosaurs, say world experts
+date: 2006-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0609/S00189/managers-are-dinosaurs-say-world-experts.htm
 author: massey-university
+permalink: /archive/2006/09/12/managers-are-dinosaurs-say-world-experts/index.html
+layout: layout.njk
 ---
 Managers are dinosaurs, say world experts
 =========================================

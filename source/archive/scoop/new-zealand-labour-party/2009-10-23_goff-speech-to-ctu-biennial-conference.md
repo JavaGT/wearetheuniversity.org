@@ -1,9 +1,12 @@
 ---
 slug: goff-speech-to-ctu-biennial-conference
-title: "Goff: speech to CTU biennial conference"
-date: 2009-10-23
-source-url: https://www.scoop.co.nz/stories/PA0910/S00351/goff-speech-to-ctu-biennial-conference.htm
+title: 'Goff: speech to CTU biennial conference'
+date: 2009-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00351/goff-speech-to-ctu-biennial-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/23/goff-speech-to-ctu-biennial-conference/index.html
+layout: layout.njk
 ---
 Goff: speech to CTU biennial conference
 =======================================

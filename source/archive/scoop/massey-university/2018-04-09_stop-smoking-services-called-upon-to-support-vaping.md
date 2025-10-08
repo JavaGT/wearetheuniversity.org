@@ -1,9 +1,13 @@
 ---
 slug: stop-smoking-services-called-upon-to-support-vaping
-title: "Stop smoking services called upon to support vaping"
-date: 2018-04-09
-source-url: https://www.scoop.co.nz/stories/GE1804/S00011/stop-smoking-services-called-upon-to-support-vaping.htm
+title: Stop smoking services called upon to support vaping
+date: 2018-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1804/S00011/stop-smoking-services-called-upon-to-support-vaping.htm
 author: massey-university
+permalink: >-
+  /archive/2018/04/09/stop-smoking-services-called-upon-to-support-vaping/index.html
+layout: layout.njk
 ---
 Stop smoking services called upon to support vaping
 ===================================================

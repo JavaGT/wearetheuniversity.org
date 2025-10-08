@@ -1,9 +1,12 @@
 ---
 slug: national-will-revive-international-education
-title: "National Will Revive International Education"
-date: 2023-09-21
-source-url: https://www.scoop.co.nz/stories/PA2309/S00115/national-will-revive-international-education.htm
+title: National Will Revive International Education
+date: 2023-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00115/national-will-revive-international-education.htm
 author: new-zealand-national-party
+permalink: /archive/2023/09/21/national-will-revive-international-education/index.html
+layout: layout.njk
 ---
 National Will Revive International Education
 ============================================

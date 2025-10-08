@@ -1,9 +1,13 @@
 ---
 slug: anywhere-anytime-internet-popular-with-kiwis-report
-title: "‘Anywhere, anytime’ internet popular with Kiwis – report"
-date: 2013-11-22
-source-url: https://www.scoop.co.nz/stories/AK1311/S00653/anywhere-anytime-internet-popular-with-kiwis-report.htm
+title: ‘Anywhere, anytime’ internet popular with Kiwis – report
+date: 2013-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00653/anywhere-anytime-internet-popular-with-kiwis-report.htm
 author: aut-university
+permalink: >-
+  /archive/2013/11/22/anywhere-anytime-internet-popular-with-kiwis-report/index.html
+layout: layout.njk
 ---
 ‘Anywhere, anytime’ internet popular with Kiwis – report
 ========================================================

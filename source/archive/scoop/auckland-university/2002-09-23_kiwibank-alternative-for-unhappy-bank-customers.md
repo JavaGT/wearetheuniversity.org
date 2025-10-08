@@ -1,9 +1,12 @@
 ---
 slug: kiwibank-alternative-for-unhappy-bank-customers
-title: "Kiwibank alternative for unhappy bank customers"
-date: 2002-09-23
-source-url: https://www.scoop.co.nz/stories/BU0209/S00137/kiwibank-alternative-for-unhappy-bank-customers.htm
+title: Kiwibank alternative for unhappy bank customers
+date: 2002-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0209/S00137/kiwibank-alternative-for-unhappy-bank-customers.htm
 author: auckland-university
+permalink: /archive/2002/09/23/kiwibank-alternative-for-unhappy-bank-customers/index.html
+layout: layout.njk
 ---
 Kiwibank alternative for unhappy bank customers
 ===============================================

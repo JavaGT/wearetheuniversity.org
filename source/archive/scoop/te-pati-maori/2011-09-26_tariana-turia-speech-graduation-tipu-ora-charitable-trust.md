@@ -1,9 +1,13 @@
 ---
 slug: tariana-turia-speech-graduation-tipu-ora-charitable-trust
-title: "Tariana Turia Speech: Graduation Tipu Ora Charitable Trust"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/PA1109/S00454/tariana-turia-speech-graduation-tipu-ora-charitable-trust.htm
+title: 'Tariana Turia Speech: Graduation Tipu Ora Charitable Trust'
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00454/tariana-turia-speech-graduation-tipu-ora-charitable-trust.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/09/26/tariana-turia-speech-graduation-tipu-ora-charitable-trust/index.html
+layout: layout.njk
 ---
 Tariana Turia Speech: Graduation Tipu Ora Charitable Trust
 ==========================================================

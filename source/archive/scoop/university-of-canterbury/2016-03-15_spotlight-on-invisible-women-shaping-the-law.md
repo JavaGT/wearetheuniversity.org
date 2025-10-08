@@ -1,9 +1,12 @@
 ---
 slug: spotlight-on-invisible-women-shaping-the-law
-title: "Spotlight on ‘invisible women’ shaping the law"
-date: 2016-03-15
-source-url: https://www.scoop.co.nz/stories/BU1603/S00498/spotlight-on-invisible-women-shaping-the-law.htm
+title: Spotlight on ‘invisible women’ shaping the law
+date: 2016-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1603/S00498/spotlight-on-invisible-women-shaping-the-law.htm
 author: university-of-canterbury
+permalink: /archive/2016/03/15/spotlight-on-invisible-women-shaping-the-law/index.html
+layout: layout.njk
 ---
 Spotlight on ‘invisible women’ shaping the law
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-cheeky-on-student-fees
-title: "Minister cheeky on student fees"
-date: 2004-09-24
-source-url: https://www.scoop.co.nz/stories/ED0409/S00113/minister-cheeky-on-student-fees.htm
+title: Minister cheeky on student fees
+date: 2004-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00113/minister-cheeky-on-student-fees.htm
 author: association-of-university-staff
+permalink: /archive/2004/09/24/minister-cheeky-on-student-fees/index.html
+layout: layout.njk
 ---
 Minister cheeky on student fees
 ===============================

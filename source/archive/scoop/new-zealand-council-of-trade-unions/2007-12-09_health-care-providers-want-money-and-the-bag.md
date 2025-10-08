@@ -1,9 +1,12 @@
 ---
 slug: health-care-providers-want-money-and-the-bag
-title: "Health Care Providers want money and the bag"
-date: 2007-12-09
-source-url: https://www.scoop.co.nz/stories/GE0712/S00035/health-care-providers-want-money-and-the-bag.htm
+title: Health Care Providers want money and the bag
+date: 2007-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0712/S00035/health-care-providers-want-money-and-the-bag.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/12/09/health-care-providers-want-money-and-the-bag/index.html
+layout: layout.njk
 ---
 Health Care Providers want money and the bag
 ============================================

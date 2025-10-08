@@ -1,9 +1,12 @@
 ---
 slug: student-wellbeing-paramount-at-lincoln
-title: "Student wellbeing paramount at Lincoln"
-date: 2018-10-15
-source-url: https://www.scoop.co.nz/stories/ED1810/S00025/student-wellbeing-paramount-at-lincoln.htm
+title: Student wellbeing paramount at Lincoln
+date: 2018-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1810/S00025/student-wellbeing-paramount-at-lincoln.htm
 author: lincoln-university
+permalink: /archive/2018/10/15/student-wellbeing-paramount-at-lincoln/index.html
+layout: layout.njk
 ---
 Student wellbeing paramount at Lincoln
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-education-discussion-document-launch
-title: "Speech: Education Discussion Document Launch"
-date: 2019-11-13
-source-url: https://www.scoop.co.nz/stories/PA1911/S00089/speech-education-discussion-document-launch.htm
+title: 'Speech: Education Discussion Document Launch'
+date: 2019-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00089/speech-education-discussion-document-launch.htm
 author: new-zealand-national-party
+permalink: /archive/2019/11/13/speech-education-discussion-document-launch/index.html
+layout: layout.njk
 ---
 Speech: Education Discussion Document Launch
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: otago-university-appoints-new-enterprise-director
-title: "Otago University Appoints New Enterprise Director"
-date: 2005-10-04
-source-url: https://www.scoop.co.nz/stories/ED0510/S00008/otago-university-appoints-new-enterprise-director.htm
+title: Otago University Appoints New Enterprise Director
+date: 2005-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00008/otago-university-appoints-new-enterprise-director.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/10/04/otago-university-appoints-new-enterprise-director/index.html
+layout: layout.njk
 ---
 Otago University Appoints New Enterprise Director
 =================================================

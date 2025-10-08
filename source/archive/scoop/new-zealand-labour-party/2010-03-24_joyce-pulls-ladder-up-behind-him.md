@@ -1,9 +1,12 @@
 ---
 slug: joyce-pulls-ladder-up-behind-him
-title: "Joyce pulls ladder up behind him"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/PA1003/S00356/joyce-pulls-ladder-up-behind-him.htm
+title: Joyce pulls ladder up behind him
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00356/joyce-pulls-ladder-up-behind-him.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/24/joyce-pulls-ladder-up-behind-him/index.html
+layout: layout.njk
 ---
 Joyce pulls ladder up behind him
 ================================

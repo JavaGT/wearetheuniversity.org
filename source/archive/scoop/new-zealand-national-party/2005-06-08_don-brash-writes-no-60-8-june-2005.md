@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-no-60-8-june-2005
-title: "Don Brash Writes No. 60, 8 June 2005"
-date: 2005-06-08
-source-url: https://www.scoop.co.nz/stories/PA0506/S00144/don-brash-writes-no-60-8-june-2005.htm
+title: Don Brash Writes No. 60, 8 June 2005
+date: 2005-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00144/don-brash-writes-no-60-8-june-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/08/don-brash-writes-no-60-8-june-2005/index.html
+layout: layout.njk
 ---
 Don Brash Writes No. 60, 8 June 2005
 ====================================

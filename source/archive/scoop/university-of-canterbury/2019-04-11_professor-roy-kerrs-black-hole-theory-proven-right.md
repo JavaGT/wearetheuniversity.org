@@ -1,9 +1,13 @@
 ---
 slug: professor-roy-kerrs-black-hole-theory-proven-right
-title: "Professor Roy Kerr’s black hole theory proven right"
-date: 2019-04-11
-source-url: https://www.scoop.co.nz/stories/SC1904/S00025/professor-roy-kerrs-black-hole-theory-proven-right.htm
+title: Professor Roy Kerr’s black hole theory proven right
+date: 2019-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1904/S00025/professor-roy-kerrs-black-hole-theory-proven-right.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/04/11/professor-roy-kerrs-black-hole-theory-proven-right/index.html
+layout: layout.njk
 ---
 Professor Roy Kerr’s black hole theory proven right
 ===================================================

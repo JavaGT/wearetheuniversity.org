@@ -1,9 +1,12 @@
 ---
 slug: local-mp-encourages-you-to-get-behind-plunket
-title: "Local MP encourages you to get behind Plunket"
-date: 2010-03-22
-source-url: https://www.scoop.co.nz/stories/PA1003/S00317/local-mp-encourages-you-to-get-behind-plunket.htm
+title: Local MP encourages you to get behind Plunket
+date: 2010-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00317/local-mp-encourages-you-to-get-behind-plunket.htm
 author: new-zealand-national-party
+permalink: /archive/2010/03/22/local-mp-encourages-you-to-get-behind-plunket/index.html
+layout: layout.njk
 ---
 Local MP encourages you to get behind Plunket
 =============================================

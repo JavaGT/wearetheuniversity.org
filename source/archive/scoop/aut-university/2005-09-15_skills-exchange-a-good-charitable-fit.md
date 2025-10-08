@@ -1,9 +1,12 @@
 ---
 slug: skills-exchange-a-good-charitable-fit
-title: "Skills Exchange – A good charitable fit"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/CU0509/S00116/skills-exchange-a-good-charitable-fit.htm
+title: Skills Exchange – A good charitable fit
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0509/S00116/skills-exchange-a-good-charitable-fit.htm
 author: aut-university
+permalink: /archive/2005/09/15/skills-exchange-a-good-charitable-fit/index.html
+layout: layout.njk
 ---
 Skills Exchange – A good charitable fit
 =======================================

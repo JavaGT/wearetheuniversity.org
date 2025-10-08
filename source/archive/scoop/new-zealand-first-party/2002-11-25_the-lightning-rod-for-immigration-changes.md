@@ -1,9 +1,12 @@
 ---
 slug: the-lightning-rod-for-immigration-changes
-title: "The Lightning Rod For Immigration Changes"
-date: 2002-11-25
-source-url: https://www.scoop.co.nz/stories/PA0211/S00552/the-lightning-rod-for-immigration-changes.htm
+title: The Lightning Rod For Immigration Changes
+date: 2002-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00552/the-lightning-rod-for-immigration-changes.htm
 author: new-zealand-first-party
+permalink: /archive/2002/11/25/the-lightning-rod-for-immigration-changes/index.html
+layout: layout.njk
 ---
 The Lightning Rod For Immigration Changes
 =========================================

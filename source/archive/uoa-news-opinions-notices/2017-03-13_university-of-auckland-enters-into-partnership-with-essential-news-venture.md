@@ -1,8 +1,12 @@
 ---
 slug: university-of-auckland-enters-into-partnership-with-essential-news-venture
-title: "University of Auckland enters into partnership with essential news venture"
-date: 2017-03-13
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/university-of-auckland-enters-into-partnership-with-essential-ne.html
+title: University of Auckland enters into partnership with essential news venture
+date: 2017-03-13T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/university-of-auckland-enters-into-partnership-with-essential-ne.html
+permalink: >-
+  /archive/2017/03/13/university-of-auckland-enters-into-partnership-with-essential-news-venture/index.html
+layout: layout.njk
 ---
 University of Auckland enters into partnership with essential news venture
 ==========================================================================

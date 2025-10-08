@@ -1,9 +1,12 @@
 ---
 slug: universities-address-worker-shortage
-title: "Universities address worker shortage"
-date: 2007-07-11
-source-url: https://www.scoop.co.nz/stories/ED0707/S00042/universities-address-worker-shortage.htm
+title: Universities address worker shortage
+date: 2007-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00042/universities-address-worker-shortage.htm
 author: aut-university
+permalink: /archive/2007/07/11/universities-address-worker-shortage/index.html
+layout: layout.njk
 ---
 Universities address worker shortage
 ====================================

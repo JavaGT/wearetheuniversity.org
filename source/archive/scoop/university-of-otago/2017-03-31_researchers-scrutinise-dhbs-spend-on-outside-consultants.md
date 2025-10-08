@@ -1,9 +1,13 @@
 ---
 slug: researchers-scrutinise-dhbs-spend-on-outside-consultants
-title: "Researchers scrutinise DHBs’ spend on outside consultants"
-date: 2017-03-31
-source-url: https://www.scoop.co.nz/stories/PO1703/S00386/researchers-scrutinise-dhbs-spend-on-outside-consultants.htm
+title: Researchers scrutinise DHBs’ spend on outside consultants
+date: 2017-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00386/researchers-scrutinise-dhbs-spend-on-outside-consultants.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/31/researchers-scrutinise-dhbs-spend-on-outside-consultants/index.html
+layout: layout.njk
 ---
 Researchers scrutinise DHBs’ spend on outside consultants
 =========================================================

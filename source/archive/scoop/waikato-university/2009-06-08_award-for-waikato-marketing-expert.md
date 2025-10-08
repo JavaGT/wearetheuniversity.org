@@ -1,9 +1,12 @@
 ---
 slug: award-for-waikato-marketing-expert
-title: "Award for Waikato marketing expert"
-date: 2009-06-08
-source-url: https://www.scoop.co.nz/stories/ED0906/S00019/award-for-waikato-marketing-expert.htm
+title: Award for Waikato marketing expert
+date: 2009-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00019/award-for-waikato-marketing-expert.htm
 author: waikato-university
+permalink: /archive/2009/06/08/award-for-waikato-marketing-expert/index.html
+layout: layout.njk
 ---
 Award for Waikato marketing expert
 ==================================

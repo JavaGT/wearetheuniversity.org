@@ -1,9 +1,13 @@
 ---
 slug: negotiations-delayed-mediation-for-university-sta
-title: "Negotiations delayed, mediation for university sta"
-date: 2003-10-07
-source-url: https://www.scoop.co.nz/stories/ED0310/S00018/negotiations-delayed-mediation-for-university-sta.htm
+title: Negotiations delayed, mediation for university sta
+date: 2003-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00018/negotiations-delayed-mediation-for-university-sta.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2003/10/07/negotiations-delayed-mediation-for-university-sta/index.html
+layout: layout.njk
 ---
 Negotiations delayed, mediation for university sta
 ==================================================

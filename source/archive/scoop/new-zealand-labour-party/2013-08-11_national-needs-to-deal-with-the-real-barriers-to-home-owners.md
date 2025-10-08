@@ -1,9 +1,13 @@
 ---
 slug: national-needs-to-deal-with-the-real-barriers-to-home-owners
-title: "National needs to deal with the real barriers to home owners"
-date: 2013-08-11
-source-url: https://www.scoop.co.nz/stories/PA1308/S00188/national-needs-to-deal-with-the-real-barriers-to-home-owners.htm
+title: National needs to deal with the real barriers to home owners
+date: 2013-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00188/national-needs-to-deal-with-the-real-barriers-to-home-owners.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/08/11/national-needs-to-deal-with-the-real-barriers-to-home-owners/index.html
+layout: layout.njk
 ---
 National needs to deal with the real barriers to home owners
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-te-reo-campaigner
-title: "Honorary Doctorate for te reo campaigner"
-date: 2004-12-01
-source-url: https://www.scoop.co.nz/stories/ED0412/S00002/honorary-doctorate-for-te-reo-campaigner.htm
+title: Honorary Doctorate for te reo campaigner
+date: 2004-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00002/honorary-doctorate-for-te-reo-campaigner.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/12/01/honorary-doctorate-for-te-reo-campaigner/index.html
+layout: layout.njk
 ---
 Honorary Doctorate for te reo campaigner
 ========================================

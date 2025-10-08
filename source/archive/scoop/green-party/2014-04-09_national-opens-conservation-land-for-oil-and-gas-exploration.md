@@ -1,9 +1,13 @@
 ---
 slug: national-opens-conservation-land-for-oil-and-gas-exploration
-title: "National opens conservation land for oil and gas exploration"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/PA1404/S00136/national-opens-conservation-land-for-oil-and-gas-exploration.htm
+title: National opens conservation land for oil and gas exploration
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00136/national-opens-conservation-land-for-oil-and-gas-exploration.htm
 author: green-party
+permalink: >-
+  /archive/2014/04/09/national-opens-conservation-land-for-oil-and-gas-exploration/index.html
+layout: layout.njk
 ---
 National opens conservation land for oil and gas exploration
 ============================================================

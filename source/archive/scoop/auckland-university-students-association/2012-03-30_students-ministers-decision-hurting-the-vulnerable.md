@@ -1,9 +1,13 @@
 ---
 slug: students-ministers-decision-hurting-the-vulnerable
-title: "Students: Minister’s Decision Hurting the Vulnerable"
-date: 2012-03-30
-source-url: https://www.scoop.co.nz/stories/ED1203/S00158/students-ministers-decision-hurting-the-vulnerable.htm
+title: 'Students: Minister’s Decision Hurting the Vulnerable'
+date: 2012-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00158/students-ministers-decision-hurting-the-vulnerable.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2012/03/30/students-ministers-decision-hurting-the-vulnerable/index.html
+layout: layout.njk
 ---
 Students: Minister’s Decision Hurting the Vulnerable
 ====================================================

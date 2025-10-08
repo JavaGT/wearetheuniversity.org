@@ -1,9 +1,11 @@
 ---
 slug: students-caught-in-debt-trap
-title: "Students Caught In Debt Trap"
-date: 2004-05-03
+title: Students Caught In Debt Trap
+date: 2004-05-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00016/students-caught-in-debt-trap.htm
 author: new-zealand-first-party
+permalink: /archive/2004/05/03/students-caught-in-debt-trap/index.html
+layout: layout.njk
 ---
 Students Caught In Debt Trap
 ============================

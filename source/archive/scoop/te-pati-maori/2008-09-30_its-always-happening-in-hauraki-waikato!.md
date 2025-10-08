@@ -1,9 +1,12 @@
 ---
 slug: its-always-happening-in-hauraki-waikato!
-title: "It’s always happening in Hauraki-Waikato!"
-date: 2008-09-30
-source-url: https://www.scoop.co.nz/stories/PO0809/S00448/its-always-happening-in-hauraki-waikato.htm
+title: It’s always happening in Hauraki-Waikato!
+date: 2008-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00448/its-always-happening-in-hauraki-waikato.htm
 author: te-pati-maori
+permalink: /archive/2008/09/30/its-always-happening-in-hauraki-waikato/index.html
+layout: layout.njk
 ---
 It’s always happening in Hauraki-Waikato!
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: quake-response-not-nearly-urgent-enough
-title: "Quake Response Not Nearly Urgent Enough"
-date: 2017-05-11
-source-url: https://www.scoop.co.nz/stories/PA1705/S00250/quake-response-not-nearly-urgent-enough.htm
+title: Quake Response Not Nearly Urgent Enough
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00250/quake-response-not-nearly-urgent-enough.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/11/quake-response-not-nearly-urgent-enough/index.html
+layout: layout.njk
 ---
 Quake Response Not Nearly Urgent Enough
 =======================================

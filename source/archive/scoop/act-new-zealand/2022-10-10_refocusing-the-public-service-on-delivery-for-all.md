@@ -1,9 +1,13 @@
 ---
 slug: refocusing-the-public-service-on-delivery-for-all
-title: "Refocusing The Public Service On Delivery For All"
-date: 2022-10-10
-source-url: https://www.scoop.co.nz/stories/PA2210/S00062/refocusing-the-public-service-on-delivery-for-all.htm
+title: Refocusing The Public Service On Delivery For All
+date: 2022-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00062/refocusing-the-public-service-on-delivery-for-all.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/10/10/refocusing-the-public-service-on-delivery-for-all/index.html
+layout: layout.njk
 ---
 Refocusing The Public Service On Delivery For All
 =================================================

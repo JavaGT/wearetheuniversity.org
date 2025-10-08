@@ -1,9 +1,12 @@
 ---
 slug: hide-institute-of-economic-affairs-london
-title: "Hide: Institute of Economic Affairs, London"
-date: 2006-09-22
-source-url: https://www.scoop.co.nz/stories/PA0609/S00494/hide-institute-of-economic-affairs-london.htm
+title: 'Hide: Institute of Economic Affairs, London'
+date: 2006-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00494/hide-institute-of-economic-affairs-london.htm
 author: act-new-zealand
+permalink: /archive/2006/09/22/hide-institute-of-economic-affairs-london/index.html
+layout: layout.njk
 ---
 Hide: Institute of Economic Affairs, London
 ===========================================

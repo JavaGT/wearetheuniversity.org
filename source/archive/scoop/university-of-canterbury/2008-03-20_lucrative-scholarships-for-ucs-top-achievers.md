@@ -1,9 +1,12 @@
 ---
 slug: lucrative-scholarships-for-ucs-top-achievers
-title: "Lucrative scholarships for UC's top achievers"
-date: 2008-03-20
-source-url: https://www.scoop.co.nz/stories/ED0803/S00053/lucrative-scholarships-for-ucs-top-achievers.htm
+title: Lucrative scholarships for UC's top achievers
+date: 2008-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00053/lucrative-scholarships-for-ucs-top-achievers.htm
 author: university-of-canterbury
+permalink: /archive/2008/03/20/lucrative-scholarships-for-ucs-top-achievers/index.html
+layout: layout.njk
 ---
 Lucrative scholarships for UC's top achievers
 =============================================

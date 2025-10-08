@@ -1,9 +1,13 @@
 ---
 slug: 300-people-to-attend-the-geoscience-society-conference
-title: "300 people to attend the GeoScience Society conference"
-date: 2013-11-08
-source-url: https://www.scoop.co.nz/stories/SC1311/S00024/300-people-to-attend-the-geoscience-society-conference.htm
+title: 300 people to attend the GeoScience Society conference
+date: 2013-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00024/300-people-to-attend-the-geoscience-society-conference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/08/300-people-to-attend-the-geoscience-society-conference/index.html
+layout: layout.njk
 ---
 300 people to attend the GeoScience Society conference
 ======================================================

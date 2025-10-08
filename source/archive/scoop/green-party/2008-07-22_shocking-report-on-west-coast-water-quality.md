@@ -1,9 +1,12 @@
 ---
 slug: shocking-report-on-west-coast-water-quality
-title: "Shocking report on West Coast water quality"
-date: 2008-07-22
-source-url: https://www.scoop.co.nz/stories/PA0807/S00382/shocking-report-on-west-coast-water-quality.htm
+title: Shocking report on West Coast water quality
+date: 2008-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00382/shocking-report-on-west-coast-water-quality.htm
 author: green-party
+permalink: /archive/2008/07/22/shocking-report-on-west-coast-water-quality/index.html
+layout: layout.njk
 ---
 Shocking report on West Coast water quality
 ===========================================

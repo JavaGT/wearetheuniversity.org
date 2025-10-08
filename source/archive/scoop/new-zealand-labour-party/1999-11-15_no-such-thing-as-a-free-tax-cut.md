@@ -1,9 +1,12 @@
 ---
 slug: no-such-thing-as-a-free-tax-cut
-title: "No such thing as a free tax cut"
-date: 1999-11-15
-source-url: https://www.scoop.co.nz/stories/PA9911/S00342/no-such-thing-as-a-free-tax-cut.htm
+title: No such thing as a free tax cut
+date: 1999-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00342/no-such-thing-as-a-free-tax-cut.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/15/no-such-thing-as-a-free-tax-cut/index.html
+layout: layout.njk
 ---
 No such thing as a free tax cut
 ===============================

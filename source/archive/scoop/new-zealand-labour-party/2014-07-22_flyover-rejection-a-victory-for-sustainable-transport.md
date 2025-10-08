@@ -1,9 +1,13 @@
 ---
 slug: flyover-rejection-a-victory-for-sustainable-transport
-title: "Flyover rejection a victory for sustainable transport"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/PA1407/S00404/flyover-rejection-a-victory-for-sustainable-transport.htm
+title: Flyover rejection a victory for sustainable transport
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00404/flyover-rejection-a-victory-for-sustainable-transport.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/07/22/flyover-rejection-a-victory-for-sustainable-transport/index.html
+layout: layout.njk
 ---
 Flyover rejection a victory for sustainable transport
 =====================================================

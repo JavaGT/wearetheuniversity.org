@@ -1,9 +1,12 @@
 ---
 slug: candidate-pledges-support-to-wananga-council
-title: "Candidate Pledges Support to Wananga Council"
-date: 2005-06-24
-source-url: https://www.scoop.co.nz/stories/PO0506/S00270/candidate-pledges-support-to-wananga-council.htm
+title: Candidate Pledges Support to Wananga Council
+date: 2005-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0506/S00270/candidate-pledges-support-to-wananga-council.htm
 author: te-pati-maori
+permalink: /archive/2005/06/24/candidate-pledges-support-to-wananga-council/index.html
+layout: layout.njk
 ---
 Candidate Pledges Support to Wananga Council
 ============================================

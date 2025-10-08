@@ -1,9 +1,12 @@
 ---
 slug: vsm-=-bad-for-auckland-bad-for-students
-title: "VSM = bad for Auckland, bad for students"
-date: 2010-09-25
-source-url: https://www.scoop.co.nz/stories/ED1009/S00119/vsm-bad-for-auckland-bad-for-students.htm
+title: VSM = bad for Auckland, bad for students
+date: 2010-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00119/vsm-bad-for-auckland-bad-for-students.htm
 author: auckland-university-students-association
+permalink: /archive/2010/09/25/vsm-/index.html
+layout: layout.njk
 ---
 VSM = bad for Auckland, bad for students
 ========================================

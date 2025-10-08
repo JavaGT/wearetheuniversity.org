@@ -1,9 +1,12 @@
 ---
 slug: new-study-maps-transience-of-nz-population
-title: "New Study Maps Transience Of NZ Population"
-date: 2023-02-17
-source-url: https://www.scoop.co.nz/stories/ED2302/S00020/new-study-maps-transience-of-nz-population.htm
+title: New Study Maps Transience Of NZ Population
+date: 2023-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2302/S00020/new-study-maps-transience-of-nz-population.htm
 author: university-of-canterbury
+permalink: /archive/2023/02/17/new-study-maps-transience-of-nz-population/index.html
+layout: layout.njk
 ---
 New Study Maps Transience Of NZ Population
 ==========================================

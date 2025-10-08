@@ -1,9 +1,12 @@
 ---
 slug: funding-cuts-will-hurt-community-mental-health
-title: "Funding Cuts Will Hurt Community Mental Health"
-date: 2024-08-08
-source-url: https://www.scoop.co.nz/stories/PA2408/S00052/funding-cuts-will-hurt-community-mental-health.htm
+title: Funding Cuts Will Hurt Community Mental Health
+date: 2024-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00052/funding-cuts-will-hurt-community-mental-health.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/08/08/funding-cuts-will-hurt-community-mental-health/index.html
+layout: layout.njk
 ---
 Funding Cuts Will Hurt Community Mental Health
 ==============================================

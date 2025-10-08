@@ -1,9 +1,13 @@
 ---
 slug: cuts-to-disabled-training-a-tragedy-in-the-making
-title: "Cuts to disabled training a tragedy in the making"
-date: 2009-12-11
-source-url: https://www.scoop.co.nz/stories/PA0912/S00198/cuts-to-disabled-training-a-tragedy-in-the-making.htm
+title: Cuts to disabled training a tragedy in the making
+date: 2009-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00198/cuts-to-disabled-training-a-tragedy-in-the-making.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/12/11/cuts-to-disabled-training-a-tragedy-in-the-making/index.html
+layout: layout.njk
 ---
 Cuts to disabled training a tragedy in the making
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: how-to-protect-your-business-from-fake-news
-title: "How to protect your business from fake news"
-date: 2017-12-11
-source-url: https://www.scoop.co.nz/stories/BU1712/S00314/how-to-protect-your-business-from-fake-news.htm
+title: How to protect your business from fake news
+date: 2017-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1712/S00314/how-to-protect-your-business-from-fake-news.htm
 author: massey-university
+permalink: /archive/2017/12/11/how-to-protect-your-business-from-fake-news/index.html
+layout: layout.njk
 ---
 How to protect your business from fake news
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: ministers-let-rural-communities-suffer
-title: "Ministers Let Rural Communities Suffer"
-date: 2003-01-16
-source-url: https://www.scoop.co.nz/stories/PA0301/S00098/ministers-let-rural-communities-suffer.htm
+title: Ministers Let Rural Communities Suffer
+date: 2003-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00098/ministers-let-rural-communities-suffer.htm
 author: act-new-zealand
+permalink: /archive/2003/01/16/ministers-let-rural-communities-suffer/index.html
+layout: layout.njk
 ---
 Ministers Let Rural Communities Suffer
 ======================================

@@ -1,9 +1,11 @@
 ---
 slug: mr-moa-now-doctor-of-science
-title: "Mr Moa now Doctor of Science"
-date: 2011-04-28
+title: Mr Moa now Doctor of Science
+date: 2011-04-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1104/S00051/mr-moa-now-doctor-of-science.htm
 author: university-of-waikato
+permalink: /archive/2011/04/28/mr-moa-now-doctor-of-science/index.html
+layout: layout.njk
 ---
 Mr Moa now Doctor of Science
 ============================

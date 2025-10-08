@@ -1,9 +1,12 @@
 ---
 slug: countering-terrorist-fighters-legislation-bill
-title: "Countering Terrorist Fighters Legislation Bill"
-date: 2014-11-26
-source-url: https://www.scoop.co.nz/stories/PA1411/S00325/countering-terrorist-fighters-legislation-bill.htm
+title: Countering Terrorist Fighters Legislation Bill
+date: 2014-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00325/countering-terrorist-fighters-legislation-bill.htm
 author: te-pati-maori
+permalink: /archive/2014/11/26/countering-terrorist-fighters-legislation-bill/index.html
+layout: layout.njk
 ---
 Countering Terrorist Fighters Legislation Bill
 ==============================================

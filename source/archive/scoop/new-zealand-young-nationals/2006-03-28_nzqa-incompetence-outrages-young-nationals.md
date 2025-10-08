@@ -1,9 +1,12 @@
 ---
 slug: nzqa-incompetence-outrages-young-nationals
-title: "NZQA Incompetence Outrages Young Nationals"
-date: 2006-03-28
-source-url: https://www.scoop.co.nz/stories/ED0603/S00078/nzqa-incompetence-outrages-young-nationals.htm
+title: NZQA Incompetence Outrages Young Nationals
+date: 2006-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00078/nzqa-incompetence-outrages-young-nationals.htm
 author: new-zealand-young-nationals
+permalink: /archive/2006/03/28/nzqa-incompetence-outrages-young-nationals/index.html
+layout: layout.njk
 ---
 NZQA Incompetence Outrages Young Nationals
 ==========================================

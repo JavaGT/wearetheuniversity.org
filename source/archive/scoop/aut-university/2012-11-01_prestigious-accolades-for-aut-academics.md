@@ -1,9 +1,12 @@
 ---
 slug: prestigious-accolades-for-aut-academics
-title: "Prestigious accolades for AUT academics"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/ED1211/S00014/prestigious-accolades-for-aut-academics.htm
+title: Prestigious accolades for AUT academics
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00014/prestigious-accolades-for-aut-academics.htm
 author: aut-university
+permalink: /archive/2012/11/01/prestigious-accolades-for-aut-academics/index.html
+layout: layout.njk
 ---
 Prestigious accolades for AUT academics
 =======================================

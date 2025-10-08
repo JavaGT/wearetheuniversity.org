@@ -1,9 +1,12 @@
 ---
 slug: nz-should-take-notice-of-party-pill-research
-title: "NZ should take notice of party pill research"
-date: 2006-04-17
-source-url: https://www.scoop.co.nz/stories/PA0604/S00281/nz-should-take-notice-of-party-pill-research.htm
+title: NZ should take notice of party pill research
+date: 2006-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00281/nz-should-take-notice-of-party-pill-research.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/17/nz-should-take-notice-of-party-pill-research/index.html
+layout: layout.njk
 ---
 NZ should take notice of party pill research
 ============================================

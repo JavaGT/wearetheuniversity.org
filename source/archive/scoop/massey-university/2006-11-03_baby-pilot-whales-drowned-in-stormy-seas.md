@@ -1,9 +1,12 @@
 ---
 slug: baby-pilot-whales-drowned-in-stormy-seas
-title: "Baby pilot whales drowned in stormy seas"
-date: 2006-11-03
-source-url: https://www.scoop.co.nz/stories/SC0611/S00008/baby-pilot-whales-drowned-in-stormy-seas.htm
+title: Baby pilot whales drowned in stormy seas
+date: 2006-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0611/S00008/baby-pilot-whales-drowned-in-stormy-seas.htm
 author: massey-university
+permalink: /archive/2006/11/03/baby-pilot-whales-drowned-in-stormy-seas/index.html
+layout: layout.njk
 ---
 Baby pilot whales drowned in stormy seas
 ========================================

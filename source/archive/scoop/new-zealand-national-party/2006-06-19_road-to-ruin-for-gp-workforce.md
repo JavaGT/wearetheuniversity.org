@@ -1,9 +1,12 @@
 ---
 slug: road-to-ruin-for-gp-workforce
-title: "Road to ruin for GP workforce"
-date: 2006-06-19
-source-url: https://www.scoop.co.nz/stories/PA0606/S00350/road-to-ruin-for-gp-workforce.htm
+title: Road to ruin for GP workforce
+date: 2006-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00350/road-to-ruin-for-gp-workforce.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/19/road-to-ruin-for-gp-workforce/index.html
+layout: layout.njk
 ---
 Road to ruin for GP workforce
 =============================

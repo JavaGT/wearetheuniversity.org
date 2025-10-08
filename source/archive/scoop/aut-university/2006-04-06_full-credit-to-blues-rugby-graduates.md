@@ -1,9 +1,12 @@
 ---
 slug: full-credit-to-blues-rugby-graduates
-title: "Full credit to Blues rugby graduates"
-date: 2006-04-06
-source-url: https://www.scoop.co.nz/stories/ED0604/S00026/full-credit-to-blues-rugby-graduates.htm
+title: Full credit to Blues rugby graduates
+date: 2006-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00026/full-credit-to-blues-rugby-graduates.htm
 author: aut-university
+permalink: /archive/2006/04/06/full-credit-to-blues-rugby-graduates/index.html
+layout: layout.njk
 ---
 Full credit to Blues rugby graduates
 ====================================

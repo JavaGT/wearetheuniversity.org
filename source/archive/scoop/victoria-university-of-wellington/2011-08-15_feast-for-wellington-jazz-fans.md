@@ -1,9 +1,12 @@
 ---
 slug: feast-for-wellington-jazz-fans
-title: "Feast for Wellington Jazz fans"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/ED1108/S00088/feast-for-wellington-jazz-fans.htm
+title: Feast for Wellington Jazz fans
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00088/feast-for-wellington-jazz-fans.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/08/15/feast-for-wellington-jazz-fans/index.html
+layout: layout.njk
 ---
 Feast for Wellington Jazz fans
 ==============================

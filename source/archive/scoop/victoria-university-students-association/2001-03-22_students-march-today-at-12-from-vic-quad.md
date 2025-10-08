@@ -1,9 +1,12 @@
 ---
 slug: students-march-today-at-12-from-vic-quad
-title: "Students March Today At 12 From Vic Quad"
-date: 2001-03-22
-source-url: https://www.scoop.co.nz/stories/ED0103/S00041/students-march-today-at-12-from-vic-quad.htm
+title: Students March Today At 12 From Vic Quad
+date: 2001-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00041/students-march-today-at-12-from-vic-quad.htm
 author: victoria-university-students-association
+permalink: /archive/2001/03/22/students-march-today-at-12-from-vic-quad/index.html
+layout: layout.njk
 ---
 Students March Today At 12 From Vic Quad
 ========================================

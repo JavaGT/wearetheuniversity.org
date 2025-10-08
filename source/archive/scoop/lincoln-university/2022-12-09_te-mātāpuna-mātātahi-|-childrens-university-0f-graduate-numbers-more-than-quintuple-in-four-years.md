@@ -1,9 +1,15 @@
 ---
-slug: te-mātāpuna-mātātahi-|-childrens-university-0f-graduate-numbers-more-than-quintuple-in-four-years
-title: "Te Mātāpuna Mātātahi | Children’s University 0f Graduate Numbers More Than Quintuple In Four Years"
-date: 2022-12-09
-source-url: https://www.scoop.co.nz/stories/ED2212/S00018/te-matapuna-matatahi-childrens-university-0f-graduate-numbers-more-than-quintuple-in-four-years.htm
+slug: >-
+  te-mātāpuna-mātātahi-|-childrens-university-0f-graduate-numbers-more-than-quintuple-in-four-years
+title: >-
+  Te Mātāpuna Mātātahi | Children’s University 0f Graduate Numbers More Than
+  Quintuple In Four Years
+date: 2022-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2212/S00018/te-matapuna-matatahi-childrens-university-0f-graduate-numbers-more-than-quintuple-in-four-years.htm
 author: lincoln-university
+permalink: /archive/2022/12/09/te-m/index.html
+layout: layout.njk
 ---
 Te Mātāpuna Mātātahi | Children’s University 0f Graduate Numbers More Than Quintuple In Four Years
 ==================================================================================================

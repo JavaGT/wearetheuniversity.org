@@ -1,9 +1,12 @@
 ---
 slug: air-guitar-champ-wants-to-bring-comp-to-nz
-title: "Air Guitar Champ Wants To Bring Comp to NZ"
-date: 2009-06-17
-source-url: https://www.scoop.co.nz/stories/CU0906/S00187/air-guitar-champ-wants-to-bring-comp-to-nz.htm
+title: Air Guitar Champ Wants To Bring Comp to NZ
+date: 2009-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0906/S00187/air-guitar-champ-wants-to-bring-comp-to-nz.htm
 author: aut-university
+permalink: /archive/2009/06/17/air-guitar-champ-wants-to-bring-comp-to-nz/index.html
+layout: layout.njk
 ---
 Air Guitar Champ Wants To Bring Comp to NZ
 ==========================================

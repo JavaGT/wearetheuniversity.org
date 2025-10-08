@@ -1,9 +1,11 @@
 ---
 slug: researchers-return-to-kapiti
-title: "Researchers Return to Kapiti"
-date: 2013-04-30
+title: Researchers Return to Kapiti
+date: 2013-04-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1304/S00057/researchers-return-to-kapiti.htm
 author: university-of-waikato
+permalink: /archive/2013/04/30/researchers-return-to-kapiti/index.html
+layout: layout.njk
 ---
 Researchers Return to Kapiti
 ============================

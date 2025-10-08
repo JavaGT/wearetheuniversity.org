@@ -1,9 +1,12 @@
 ---
 slug: loans-to-be-deductible-against-earned-income
-title: "Loans to be deductible against earned income"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/PA0507/S00547/loans-to-be-deductible-against-earned-income.htm
+title: Loans to be deductible against earned income
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00547/loans-to-be-deductible-against-earned-income.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/26/loans-to-be-deductible-against-earned-income/index.html
+layout: layout.njk
 ---
 Loans to be deductible against earned income
 ============================================

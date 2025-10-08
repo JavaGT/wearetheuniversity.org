@@ -1,9 +1,12 @@
 ---
 slug: uc-leadership-training-adopted-by-wynyard-group
-title: "UC leadership training adopted by Wynyard Group"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/BU1602/S00332/uc-leadership-training-adopted-by-wynyard-group.htm
+title: UC leadership training adopted by Wynyard Group
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1602/S00332/uc-leadership-training-adopted-by-wynyard-group.htm
 author: university-of-canterbury
+permalink: /archive/2016/02/11/uc-leadership-training-adopted-by-wynyard-group/index.html
+layout: layout.njk
 ---
 UC leadership training adopted by Wynyard Group
 ===============================================

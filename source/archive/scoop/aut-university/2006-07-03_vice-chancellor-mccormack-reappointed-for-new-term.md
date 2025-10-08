@@ -1,9 +1,13 @@
 ---
 slug: vice-chancellor-mccormack-reappointed-for-new-term
-title: "Vice-Chancellor McCormack reappointed for new term"
-date: 2006-07-03
-source-url: https://www.scoop.co.nz/stories/ED0607/S00003/vice-chancellor-mccormack-reappointed-for-new-term.htm
+title: Vice-Chancellor McCormack reappointed for new term
+date: 2006-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00003/vice-chancellor-mccormack-reappointed-for-new-term.htm
 author: aut-university
+permalink: >-
+  /archive/2006/07/03/vice-chancellor-mccormack-reappointed-for-new-term/index.html
+layout: layout.njk
 ---
 Vice-Chancellor McCormack reappointed for new term
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: end-nuclear-nonsense-restore-anzus
-title: "End nuclear nonsense  -  restore ANZUS"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/PA0506/S00185/end-nuclear-nonsense-restore-anzus.htm
+title: End nuclear nonsense  -  restore ANZUS
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00185/end-nuclear-nonsense-restore-anzus.htm
 author: act-new-zealand
+permalink: /archive/2005/06/09/end-nuclear-nonsense-restore-anzus/index.html
+layout: layout.njk
 ---
 End nuclear nonsense - restore ANZUS
 ====================================

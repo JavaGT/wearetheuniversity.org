@@ -1,9 +1,13 @@
 ---
 slug: handover-of-petition-calling-for-visual-fire-alarms
-title: "Handover of petition calling for visual fire alarms"
-date: 2016-11-02
-source-url: https://www.scoop.co.nz/stories/PA1611/S00028/handover-of-petition-calling-for-visual-fire-alarms.htm
+title: Handover of petition calling for visual fire alarms
+date: 2016-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00028/handover-of-petition-calling-for-visual-fire-alarms.htm
 author: green-party
+permalink: >-
+  /archive/2016/11/02/handover-of-petition-calling-for-visual-fire-alarms/index.html
+layout: layout.njk
 ---
 Handover of petition calling for visual fire alarms
 ===================================================

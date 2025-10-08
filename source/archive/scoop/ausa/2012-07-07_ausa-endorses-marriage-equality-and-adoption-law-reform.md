@@ -1,9 +1,13 @@
 ---
 slug: ausa-endorses-marriage-equality-and-adoption-law-reform
-title: "AUSA endorses marriage equality and adoption law  reform"
-date: 2012-07-07
-source-url: https://www.scoop.co.nz/stories/PO1207/S00081/ausa-endorses-marriage-equality-and-adoption-law-reform.htm
+title: AUSA endorses marriage equality and adoption law  reform
+date: 2012-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1207/S00081/ausa-endorses-marriage-equality-and-adoption-law-reform.htm
 author: ausa
+permalink: >-
+  /archive/2012/07/07/ausa-endorses-marriage-equality-and-adoption-law-reform/index.html
+layout: layout.njk
 ---
 AUSA endorses marriage equality and adoption law reform
 =======================================================

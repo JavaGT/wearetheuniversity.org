@@ -1,9 +1,12 @@
 ---
 slug: local-company-dominates-at-the-olympics
-title: "Local company dominates at the Olympics"
-date: 2012-07-24
-source-url: https://www.scoop.co.nz/stories/BU1207/S00804/local-company-dominates-at-the-olympics.htm
+title: Local company dominates at the Olympics
+date: 2012-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1207/S00804/local-company-dominates-at-the-olympics.htm
 author: massey-university
+permalink: /archive/2012/07/24/local-company-dominates-at-the-olympics/index.html
+layout: layout.njk
 ---
 Local company dominates at the Olympics
 =======================================

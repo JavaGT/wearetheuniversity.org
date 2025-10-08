@@ -1,297 +1,406 @@
-import fsp from 'fs/promises';
-import path from 'path';
+#!/usr/bin/env node
+import { promises as fsp } from 'fs';
+import fs from 'fs';
+import { join, dirname, basename, extname } from 'path';
 import { simpleParser } from 'mailparser';
-import sanitize from 'sanitize-filename';
-import crypto from 'crypto';
-import winston from 'winston';
-import { marked } from 'marked';
-import pug from 'pug';
-import parse from 'front-matter';
-import { AUTHOR_DATA_FILE, EMAIL_ATTACHMENT_HOSTED_DIRECTORY, EMAIL_ATTACHMENT_OUTPUT_DIRECTORY } from '../config.mjs';
-import { arch } from 'os';
+import yaml from 'js-yaml';
 
-// Configure logging
-const logger = winston.createLogger({
-    level: 'info',
-    format: winston.format.combine(winston.format.colorize(), winston.format.simple()),
-    transports: [new winston.transports.Console()],
-});
+// Enhanced logger utility
+const logger = {
+  info: (msg) => console.log(`[INFO] ${new Date().toISOString()} ${msg}`),
+  warn: (msg) => console.warn(`[WARN] ${new Date().toISOString()} ${msg}`),
+  error: (msg) => console.error(`[ERROR] ${new Date().toISOString()} ${msg}`),
+  success: (msg) => console.log(`[SUCCESS] ${new Date().toISOString()} ${msg}`),
+  debug: (msg) => process.env.DEBUG && console.log(`[DEBUG] ${new Date().toISOString()} ${msg}`)
+};
 
-// Precompile Pug templates
-const archivePostTemplate = pug.compileFile('./source/templates/archive-post.pug');
-const authorTemplate = pug.compileFile('./source/templates/author.pug');
-const archiveIndexTemplate = pug.compileFile('./source/templates/archive-list.pug');
+// Constants
+const CACHE_FILE = join(process.cwd(), '.build-cache.json');
+const BLOG_DIR = join(process.cwd(), 'source', 'blog');
+const ARCHIVE_DIR = join(process.cwd(), 'source', 'archive');
+const EMAIL_ATTACHMENT_HOSTED_DIRECTORY = 'attachments';
 
-// Precompile regular expressions for better performance
-const linkRegex = /\(([^\)]+)\)<([^>]+)>/g;
-const imageRegex = /\[cid:(.+) @.+\]/g;
-const emailRegex = /([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})<mailto:([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})>/g;
-
-// Helper function to create an MD5 hash
-function createMD5(buffer) {
-    return crypto.createHash('md5').update(buffer).digest('hex');
+// Load build cache
+async function loadCache() {
+  try {
+    const cacheData = await fsp.readFile(CACHE_FILE, 'utf8');
+    return JSON.parse(cacheData);
+  } catch (error) {
+    logger.debug('No existing cache found, starting fresh');
+    return { fileHashes: {}, lastBuild: null };
+  }
 }
 
-// Helper function to slugify a string
-function slugify(subject) {
-    return subject
-        .toLowerCase()
-        .replace(/ |–/g, '-')
-        .replace(/[^a-z0-9-]/g, '')
-        .replace(/-+/g, '-');
+// Save build cache
+async function saveCache(cache) {
+  try {
+    await fsp.writeFile(CACHE_FILE, JSON.stringify(cache, null, 2), 'utf8');
+    logger.debug('Build cache saved');
+  } catch (error) {
+    logger.warn(`Failed to save cache: ${error.message}`);
+  }
 }
 
-// Helper function to save attachments or images
+// Calculate file hash
+function getFileSignature(filePath) {
+  try {
+    const stats = fs.statSync(filePath);
+    return `${stats.size}-${stats.mtime.getTime()}`;
+  } catch (error) {
+    return null;
+  }
+}
+
+// Check if file needs processing and return content if needed
+async function needsProcessing(filePath, cache, forceRebuild = false) {
+  if (forceRebuild) {
+    const content = await fsp.readFile(filePath);
+    const signature = getFileSignature(filePath);
+    cache.fileHashes[filePath] = signature;
+    return { needsUpdate: true, content };
+  }
+  
+  const currentSignature = getFileSignature(filePath);
+  if (!currentSignature) {
+    return { needsUpdate: true, content: null }; // File doesn't exist
+  }
+  
+  const needsUpdate = cache.fileHashes[filePath] !== currentSignature;
+  
+  if (needsUpdate) {
+    const content = await fsp.readFile(filePath);
+    cache.fileHashes[filePath] = currentSignature;
+    return { needsUpdate: true, content };
+  }
+  
+  return { needsUpdate: false, content: null };
+}
+
+// Load settings
+async function loadSettings() {
+  try {
+    const settingsPath = join(process.cwd(), 'settings.json');
+    const settingsContent = await fsp.readFile(settingsPath, 'utf8');
+    const settings = JSON.parse(settingsContent);
+    
+    // Ensure personalIdentifiers is always an array
+    if (!settings.personalIdentifiers) {
+      settings.personalIdentifiers = [];
+    } else if (typeof settings.personalIdentifiers === 'object' && !Array.isArray(settings.personalIdentifiers)) {
+      // Convert object format to array
+      settings.personalIdentifiers = Object.keys(settings.personalIdentifiers);
+    }
+    
+    return settings;
+  } catch (error) {
+    logger.warn('No settings.json found, using defaults');
+    return { personalIdentifiers: [] };
+  }
+}
+
+// Save attachment helper
 async function saveAttachment(attachment) {
-    const hash = createMD5(attachment.content);
-    const extension = attachment.contentType.split('/')[1];
-    const filename = `${hash}.${extension}`;
-    const filePath = path.join(EMAIL_ATTACHMENT_OUTPUT_DIRECTORY, filename);
-
-    await fsp.mkdir(EMAIL_ATTACHMENT_OUTPUT_DIRECTORY, { recursive: true });
-    await fsp.writeFile(filePath, attachment.content, { encoding: 'base64' });
-    return { filename, filePath };
+  const attachmentDir = join(process.cwd(), EMAIL_ATTACHMENT_HOSTED_DIRECTORY);
+  await fsp.mkdir(attachmentDir, { recursive: true });
+  
+  const filename = attachment.filename || `attachment_${Date.now()}`;
+  const filePath = join(attachmentDir, filename);
+  
+  await fsp.writeFile(filePath, attachment.content);
+  return { filename, filePath };
 }
 
-// Helper function to extract and format email headers
-function formatHeaders(parsed) {
-    const headers = ['subject', 'date', 'from', 'to', 'cc', 'bcc', 'replyTo', 'inReplyTo', 'references', 'messageId', 'priority'];
-
-    return headers
-        .map(header => {
-            const value = parsed[header]?.text || parsed[header] || '';
-            return [header, value];
-        })
-        .filter(([header, value]) => value) // Remove empty values
-        .map(([header, value]) => {
-            if (header === 'date') {
-                return [header, value.toISOString().split('T')[0]]; // Format date as YYYY-MM-DD
-            }
-            if (!value.replaceAll) return [header, '']; // Handle empty values
-            value = `"${value.replaceAll('"', "'")}"`
-            return [header, value];
-        })
-        .map(([header, value]) => {
-            // Clean up the value by removing newlines and double quotes
-            const cleanedValue = ('' + value).replace(/\n/g, ' ')
-            return `${header}: ${cleanedValue}`;
-        })
-        .join('\n'); // Join headers into a single string
+// Filter out personal identifiers
+function filterIdentifiers(text, identifiers) {
+  if (!identifiers || !Array.isArray(identifiers)) {
+    return text;
+  }
+  
+  let filtered = text;
+  for (const id of identifiers) {
+    if (id && typeof id === 'string') {
+      const re = new RegExp(id, 'gi');
+      filtered = filtered.replace(re, '[REDACTED]');
+    }
+  }
+  return filtered;
 }
 
-// Helper function to extract the author's name and slug
-function extractAuthor(from) {
-    if (!from) return { author: '', authorSlug: '' };
-
-    // Extract the name from the "from" field (e.g., "John Doe <john@example.com>" -> "John Doe")
-    const nameMatch = from.text.match(/^(.*?)<.*?>$/) || from.text.match(/^(.*)$/);
-    const author = nameMatch ? nameMatch[1].trim() : '';
-
-    // Generate a slug for the author
-    const authorSlug = slugify(author);
-
-    return { author, authorSlug };
-}
-
-// Add email headers and frontmatter to the body
-function addFrontmatter(parsed) {
-    const headers = formatHeaders(parsed);
-    const { author, authorSlug } = extractAuthor(parsed.from);
-
-    return `---
-${headers}
-slug: "${slugify(parsed.subject)}"
-title: "${parsed.subject}"
-author: "${author.name}"
-author-slug: "${authorSlug}"
----\n`;
-}
-
-// Function to process EML files
-async function processEMLFile(emlFilePath) {
-    try {
-        // Read the EML file asynchronously
-        const emlContent = await fsp.readFile(emlFilePath);
-        const parsed = await simpleParser(emlContent);
-
-        // Extract subject and body
-        const subject = parsed.subject || 'Untitled';
-        let body = addFrontmatter(parsed);
-
-        // Process non-image attachments
-        const attachments = parsed.attachments.filter(attachment => !attachment.contentType.includes('image'));
-        for (const attachment of attachments) {
-            const { filename, filePath } = await saveAttachment(attachment);
-            body += `Attachment: [${attachment.filename}](/${EMAIL_ATTACHMENT_HOSTED_DIRECTORY}/${filename})\n`;
-        }
-
-        body += parsed.text || '';
-
-        // Process image attachments
-        const images = parsed.attachments.filter(attachment => attachment.contentType.includes('image'));
-        for (const image of images) {
-            const { filename } = await saveAttachment(image);
-            body = body.replace(`[cid:${image.cid}]`, `![](/${EMAIL_ATTACHMENT_HOSTED_DIRECTORY}/${filename})`);
-        }
-
-        // Fix links, images, and emails in the body
-        body = body
-            .replace(linkRegex, '[$1]($2)')
-            .replace(imageRegex, '![]($1)')
-            .replace(emailRegex, '[$1](mailto:$2)')
-            .replace(/\n{4,}/g, '\n\n\n'); // Normalize newlines
-
-        return { markdown_body: body };
-    } catch (error) {
-        if (error.code === 'ENOENT') {
-            logger.error(`File not found: ${emlFilePath}`);
-        } else if (error instanceof SyntaxError) {
-            logger.error(`Parsing error in file ${emlFilePath}:`, error);
+// Process a single EML file
+async function processEMLFile(emlFilePath, identifiers, permalinkTracker, cache, forceRebuild = false) {
+  const checkResult = await needsProcessing(emlFilePath, cache, forceRebuild);
+  
+  if (!checkResult.needsUpdate) {
+    logger.debug(`Skipping unchanged EML file: ${emlFilePath}`);
+    return null;
+  }
+  
+  if (!checkResult.content) {
+    logger.error(`Failed to read EML file: ${emlFilePath}`);
+    return null;
+  }
+  
+  logger.info(`Processing changed EML file: ${emlFilePath}`);
+  
+  try {
+    const parsed = await simpleParser(checkResult.content);
+    
+    // Title
+    const title = parsed.subject ? String(parsed.subject).replace(/"/g, '\\"') : 'Untitled';
+    
+    // Date (ISO)
+    let date = '';
+    if (parsed.date) {
+      try {
+        const d = new Date(parsed.date);
+        if (!isNaN(d)) {
+          date = d.toISOString();
         } else {
-            logger.error(`Unexpected error processing ${emlFilePath}:`, error);
+          date = String(parsed.date).replace(/"/g, '\\"');
         }
-        throw error; // Re-throw to handle in the calling function
+      } catch {
+        date = String(parsed.date).replace(/"/g, '\\"');
+      }
     }
+    
+    // Build body
+    let body = '';
+    const attachments = (parsed.attachments || []).filter(a => !a.contentType.includes('image'));
+    for (const attachment of attachments) {
+      const { filename } = await saveAttachment(attachment);
+      body += `Attachment: [${attachment.filename}](/${EMAIL_ATTACHMENT_HOSTED_DIRECTORY}/${filename})\n`;
+    }
+    
+    body += parsed.text || '';
+    
+    const images = (parsed.attachments || []).filter(a => a.contentType.includes('image'));
+    for (const image of images) {
+      const { filename } = await saveAttachment(image);
+      body = body.replace(`[cid:${image.cid}]`, `![](/${EMAIL_ATTACHMENT_HOSTED_DIRECTORY}/${filename})`);
+    }
+    
+    // Regexes for link, image, email
+    const linkRegex = /(https?:\/\/\S+)/g;
+    const imageRegex = /!\[\]\(([^)]+)\)/g;
+    const emailRegex = /([\w.-]+@[\w.-]+)\b/g;
+    
+    body = body
+      .replace(linkRegex, '[$1]($1)')
+      .replace(imageRegex, '![]($1)')
+      .replace(emailRegex, '[$1](mailto:$1)')
+      .replace(/\n{4,}/g, '\n\n\n');
+    
+    body = filterIdentifiers(body, identifiers);
+    
+    // Excerpt: first 50 words of the processed body
+    let excerpt = '';
+    const words = body.split(/\s+/).filter(Boolean);
+    if (words.length > 0) {
+      let excerptWords = words.slice(0, 50).join(' ');
+      const needsEllipsis = words.length > 50;
+      if (needsEllipsis) {
+        excerptWords = excerptWords.replace(/[.?!,;:]*$/, '');
+        excerptWords += '...';
+      }
+      const escapeYAML = str => str.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
+      excerpt = escapeYAML(excerptWords);
+    }
+    
+    // Author details
+    let author = '';
+    if (parsed.from && parsed.from.value && parsed.from.value.length > 0) {
+      author = parsed.from.value.map(a => a.name ? `${a.name} <${a.address}>` : a.address).join(', ');
+    }
+    
+    let to = '';
+    if (parsed.to && parsed.to.value && parsed.to.value.length > 0) {
+      to = parsed.to.value.map(a => a.name ? `${a.name} <${a.address}>` : a.address).join(', ');
+    }
+    
+    // Generate slug
+    let slug = title
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+    
+    // Parse date for permalink
+    let y = '', m = '', d = '';
+    if (date) {
+      try {
+        const dt = new Date(date);
+        if (!isNaN(dt)) {
+          y = String(dt.getUTCFullYear());
+          m = String(dt.getUTCMonth() + 1).padStart(2, '0');
+          d = String(dt.getUTCDate()).padStart(2, '0');
+        }
+      } catch {}
+    }
+    
+    let permalink = '';
+    if (y && m && d && slug) {
+      const isBlog = emlFilePath.includes('/blog/');
+      const base = isBlog ? 'blog' : 'archive';
+      permalink = `/${base}/${y}/${m}/${d}/${slug}/index.html`;
+    }
+    
+    // Compose frontmatter
+    const fmData = {
+      layout: 'layout.njk',
+      title,
+      date,
+      excerpt,
+      author,
+      to,
+      permalink
+    };
+    
+    // Remove undefined/null keys
+    Object.keys(fmData).forEach(k => (fmData[k] === undefined || fmData[k] === null) && delete fmData[k]);
+    
+    const frontmatter = `---\n${yaml.dump(fmData)}---\n`;
+    
+    return { markdown_body: frontmatter + body };
+  } catch (error) {
+    logger.error(`Error processing EML file ${emlFilePath}: ${error.message}`);
+    return null;
+  }
 }
 
-// Main function to process all files
+// Recursively find all .eml files in a directory
+async function findEMLFiles(dir) {
+  let results = [];
+  try {
+    const entries = await fsp.readdir(dir, { withFileTypes: true });
+    for (const entry of entries) {
+      const fullPath = join(dir, entry.name);
+      if (entry.isDirectory()) {
+        results = results.concat(await findEMLFiles(fullPath));
+      } else if (extname(entry.name).toLowerCase() === '.eml') {
+        results.push(fullPath);
+      }
+    }
+  } catch (error) {
+    logger.warn(`Cannot read directory: ${dir}`);
+  }
+  return results;
+}
+
+// Recursively find all .md files in a directory
+async function findAllMarkdownFiles(dir) {
+  let results = [];
+  try {
+    const entries = await fsp.readdir(dir, { withFileTypes: true });
+    for (const entry of entries) {
+      const fullPath = join(dir, entry.name);
+      if (entry.isDirectory()) {
+        results = results.concat(await findAllMarkdownFiles(fullPath));
+      } else if (entry.isFile() && entry.name.endsWith('.md')) {
+        results.push(fullPath);
+      }
+    }
+  } catch (e) {
+    logger.warn(`Cannot read directory: ${dir}`);
+  }
+  return results;
+}
+
+// Process markdown file for hash tracking
+async function processMarkdownFile(mdPath, cache, forceRebuild) {
+  const result = await needsProcessing(mdPath, cache, forceRebuild);
+  
+  if (result.needsUpdate) {
+    logger.debug(`Markdown file content changed: ${mdPath}`);
+    logger.debug(`Cache now has ${Object.keys(cache.fileHashes).length} entries`);
+    return true; // File was updated in cache
+  } else {
+    logger.debug(`Markdown file unchanged: ${mdPath}`);
+    return false; // File was skipped
+  }
+}
+
+// Save processed markdown next to the .eml file
+async function saveMarkdown(emlPath, markdown) {
+  const mdPath = emlPath.replace(/\.eml$/i, '.md');
+  await fsp.writeFile(mdPath, markdown, 'utf8');
+}
+
+// Main processing function
 async function main() {
-    try {
-        const authorData = await loadAuthorData();
-
-        // mk archive directory
-        await fsp.mkdir('./docs/archive', { recursive: true });
-        await fsp.mkdir('./docs/blog', { recursive: true });
-        const archiveFilesFiles = await fsp.glob('./source/{archive,blog}/**/*.{md,eml}');
-        // const archiveEmailFiles = await fsp.glob('./source/archive/**/*.eml');
-
-        let archivePostsMetadata = [];
-        const authorSet = new Set();
-
-        // Process email files
-        for await (const file of archiveFilesFiles) {
-            logger.info(`Processing file: ${file}`);
-            // if eml file, process it
-            let markdown_body;
-            if (file.endsWith('.eml')) {
-                markdown_body = await processEMLFile(file).then(res => res.markdown_body);
-            } else if (file.endsWith('.md')) {
-                markdown_body = await fsp.readFile(file, 'utf-8');
-            }
-            let { attributes, html } = markdownToHtml(markdown_body);
-            if (attributes.hidden) {
-                logger.info(`Skipping hidden post: ${attributes.title}`);
-                continue;
-            }
-            html = archivePostTemplate({ attributes, content: html, title: attributes.title });
-
-            authorSet.add(attributes['author-slug']);
-
-            let newUrl;
-            if (attributes.date && attributes.date.toISOString) {
-                newUrl = path.join(
-                    attributes.date.toISOString().split('T')[0].replaceAll('-', '/'),
-                    attributes.slug
-                );
-            }
-            else {
-                logger.warn(`Invalid date format in file ${file}`);
-                newUrl = path.join(
-                    new Date(0).toISOString().split('T')[0].replaceAll('-', '/'),
-                    attributes.slug
-                );
-            }
-
-            let newFilePath;
-
-            if (file.includes('source/archive')) {
-                attributes['post-type'] = 'archive';
-                newFilePath = path.join('./docs/archive', newUrl, 'index.html');
-            } else if (file.includes('source/blog')) {
-                attributes['post-type'] = 'blog';
-                newFilePath = path.join('./docs/blog', newUrl, 'index.html');
-            } else {
-                logger.warn(`File ${file} is not in the archive or blog directory`);
-                continue;
-            }
-
-            await fsp.mkdir(path.dirname(newFilePath), { recursive: true });
-            await fsp.writeFile(newFilePath, html);
-
-            archivePostsMetadata.push(attributes);
-        }
-
-        // Generate author pages
-        const archiveAuthors = [...new Set(authorData.values())];
-        await fsp.mkdir('./docs/authors/', { recursive: true });
-
-        for (const author of archiveAuthors) {
-            // console.log(`Checking author ${author.name} with slugs ${author.slugs.join(', ')}`);
-            const authorPosts = archivePostsMetadata.filter(post => author.slugs.includes(post['author-slug']));
-            // console.log(`Author ${author.name} has ${authorPosts.length} posts`);
-            if (authorPosts.length === 0) {
-                continue;
-            }
-
-            const authorInfoContent = author.bio ? author.bio : '';
-            let html = marked(authorInfoContent);
-            html = authorTemplate({ posts: authorPosts, authorInfoContent: html, author });
-
-            await fsp.mkdir(`./docs/authors/${author.slugs[0]}`, { recursive: true });
-            await fsp.writeFile(`./docs/authors/${author.slugs[0]}/index.html`, html);
-
-            // create redirects for other slugs
-            for (const slug of author.slugs.slice(1)) {
-                const html = `<meta http-equiv="refresh" content="0; url=/authors/${author.slugs[0]}">`;
-                await fsp.mkdir(`./docs/authors/${slug}`, { recursive: true });
-                await fsp.writeFile(`./docs/authors/${slug}/index.html`, html);
-            }
-        }
-
-        archivePostsMetadata.sort((a, b) => {
-            if (a.date && b.date) {
-                return (new Date(a.date) > new Date(b.date)) ? -1 : 1;
-            } else if (a.date) {
-                return -1;
-            } else if (b.date) {
-                return 1;
-            } else {
-                return 0;
-            }
-        });
-
-        // Generate archive index page
-        const archiveIndexContent = archiveIndexTemplate({ posts: archivePostsMetadata.filter(post => post['post-type'] === 'archive') });
-        await fsp.writeFile('./docs/archive/index.html', archiveIndexContent);
-
-        // Generate blog index page
-        const blogIndexContent = archiveIndexTemplate({ posts: archivePostsMetadata.filter(post => post['post-type'] === 'blog') });
-        await fsp.writeFile('./docs/blog/index.html', blogIndexContent);
-
-        logger.info('Processing completed successfully.');
-    } catch (error) {
-        logger.error('An unexpected error occurred:', error);
+  const forceRebuild = process.argv.includes('--force') || process.argv.includes('-f');
+  
+  logger.info('Starting archive and blog processing...');
+  if (forceRebuild) {
+    logger.info('Force rebuild mode enabled - ignoring cache');
+  }
+  
+  try {
+    const cache = forceRebuild ? { fileHashes: {}, lastBuild: null } : await loadCache();
+    const settings = await loadSettings();
+    logger.info(`Loaded settings with ${settings.personalIdentifiers.length} personal identifiers`);
+    
+    let emlProcessedCount = 0;
+    let emlSkippedCount = 0;
+    let mdProcessedCount = 0;
+    let mdSkippedCount = 0;
+    
+    // Process EML files
+    const emlFiles = [
+      ...(await findEMLFiles(BLOG_DIR)),
+      ...(await findEMLFiles(ARCHIVE_DIR))
+    ];
+    
+    logger.info(`Found ${emlFiles.length} EML files to process`);
+    
+    const permalinkTracker = new Map();
+    
+    for (const emlFile of emlFiles) {
+      const result = await processEMLFile(emlFile, settings.personalIdentifiers || [], permalinkTracker, cache, forceRebuild);
+      if (result) {
+        await saveMarkdown(emlFile, result.markdown_body);
+        emlProcessedCount++;
+        logger.success(`Processed EML: ${emlFile}`);
+      } else {
+        emlSkippedCount++;
+      }
     }
+    
+    // Process existing markdown files for hash tracking
+    const mdFiles = [
+      ...(await findAllMarkdownFiles(BLOG_DIR)),
+      ...(await findAllMarkdownFiles(ARCHIVE_DIR))
+    ];
+    
+    // Filter out EML-generated markdown files to avoid double processing
+    const emlGeneratedPaths = new Set(emlFiles.map(f => f.replace(/\.eml$/i, '.md')));
+    const existingMdFiles = mdFiles.filter(f => !emlGeneratedPaths.has(f));
+    
+    logger.info(`Found ${existingMdFiles.length} existing markdown files to track`);
+    
+    for (const mdFile of existingMdFiles) {
+      const wasUpdated = await processMarkdownFile(mdFile, cache, forceRebuild);
+      if (wasUpdated) {
+        mdProcessedCount++;
+        logger.debug(`Tracked changes in MD: ${mdFile}`);
+      } else {
+        mdSkippedCount++;
+      }
+    }
+    
+    // Save cache
+    cache.lastBuild = new Date().toISOString();
+    await saveCache(cache);
+    
+    logger.success(`Processing completed successfully`);
+    logger.info(`EML files: ${emlProcessedCount} processed, ${emlSkippedCount} skipped`);
+    logger.info(`MD files: ${mdProcessedCount} processed, ${mdSkippedCount} skipped (cached)`);
+    
+  } catch (error) {
+    logger.error(`Processing failed: ${error.message}`);
+    process.exit(1);
+  }
 }
 
-// Run the script
-main();
-
-function markdownToHtml(markdown) {
-    const { attributes, body } = parse(markdown);
-    const html = marked(body);
-    return { attributes, html };
-}
-
-async function loadAuthorData() {
-    const authorDataFile = JSON.parse(await fsp.readFile(AUTHOR_DATA_FILE, 'utf-8'));
-    // is a list of objects with keys: name, slugs, bio, website
-    // create a map of slugs to author objects
-    const authorData = new Map();
-    authorDataFile.forEach(author => {
-        author.slugs.forEach(slug => {
-            authorData.set(slug, author);
-        });
-    });
-    return authorData;
+// Run if called directly
+if (import.meta.url === `file://${process.argv[1]}`) {
+  await main();
 }

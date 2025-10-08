@@ -1,9 +1,12 @@
 ---
 slug: aut-students-applaud-teaching-excellence
-title: "AUT students applaud teaching excellence"
-date: 2011-11-29
-source-url: https://www.scoop.co.nz/stories/ED1111/S00197/aut-students-applaud-teaching-excellence.htm
+title: AUT students applaud teaching excellence
+date: 2011-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00197/aut-students-applaud-teaching-excellence.htm
 author: aut-university
+permalink: /archive/2011/11/29/aut-students-applaud-teaching-excellence/index.html
+layout: layout.njk
 ---
 AUT students applaud teaching excellence
 ========================================

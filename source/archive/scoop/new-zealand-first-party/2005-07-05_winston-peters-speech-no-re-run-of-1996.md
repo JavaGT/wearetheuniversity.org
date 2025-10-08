@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-no-re-run-of-1996
-title: "Winston Peters Speech - No Re-Run Of 1996"
-date: 2005-07-05
-source-url: https://www.scoop.co.nz/stories/PA0507/S00107/winston-peters-speech-no-re-run-of-1996.htm
+title: Winston Peters Speech - No Re-Run Of 1996
+date: 2005-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00107/winston-peters-speech-no-re-run-of-1996.htm
 author: new-zealand-first-party
+permalink: /archive/2005/07/05/winston-peters-speech-no-re-run-of-1996/index.html
+layout: layout.njk
 ---
 Winston Peters Speech - No Re-Run Of 1996
 =========================================

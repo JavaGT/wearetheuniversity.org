@@ -1,9 +1,13 @@
 ---
 slug: otago-scientist-gains-grant-for-innovative-gout-research
-title: "Otago scientist gains grant for innovative gout research"
-date: 2015-04-13
-source-url: https://www.scoop.co.nz/stories/SC1504/S00031/otago-scientist-gains-grant-for-innovative-gout-research.htm
+title: Otago scientist gains grant for innovative gout research
+date: 2015-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00031/otago-scientist-gains-grant-for-innovative-gout-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/04/13/otago-scientist-gains-grant-for-innovative-gout-research/index.html
+layout: layout.njk
 ---
 Otago scientist gains grant for innovative gout research
 ========================================================

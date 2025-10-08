@@ -1,9 +1,12 @@
 ---
 slug: invaluable-recipes-for-todays-health-needs
-title: "Invaluable recipes for today’s health needs"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/SC1504/S00064/invaluable-recipes-for-todays-health-needs.htm
+title: Invaluable recipes for today’s health needs
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00064/invaluable-recipes-for-todays-health-needs.htm
 author: university-of-canterbury
+permalink: /archive/2015/04/22/invaluable-recipes-for-todays-health-needs/index.html
+layout: layout.njk
 ---
 Invaluable recipes for today’s health needs
 ===========================================

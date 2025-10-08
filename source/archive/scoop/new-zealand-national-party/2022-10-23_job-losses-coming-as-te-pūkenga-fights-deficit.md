@@ -1,9 +1,12 @@
 ---
 slug: job-losses-coming-as-te-pūkenga-fights-deficit
-title: "Job Losses Coming As Te Pūkenga Fights Deficit"
-date: 2022-10-23
-source-url: https://www.scoop.co.nz/stories/PA2210/S00168/job-losses-coming-as-te-pukenga-fights-deficit.htm
+title: Job Losses Coming As Te Pūkenga Fights Deficit
+date: 2022-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00168/job-losses-coming-as-te-pukenga-fights-deficit.htm
 author: new-zealand-national-party
+permalink: /archive/2022/10/23/job-losses-coming-as-te-p/index.html
+layout: layout.njk
 ---
 Job Losses Coming As Te Pūkenga Fights Deficit
 ==============================================

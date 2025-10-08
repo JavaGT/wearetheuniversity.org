@@ -1,9 +1,13 @@
 ---
 slug: nzs-reputation-regarding-discrimination-is-contradictory
-title: "NZ’s Reputation Regarding Discrimination Is Contradictory"
-date: 2013-03-20
-source-url: https://www.scoop.co.nz/stories/ED1303/S00139/nzs-reputation-regarding-discrimination-is-contradictory.htm
+title: NZ’s Reputation Regarding Discrimination Is Contradictory
+date: 2013-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00139/nzs-reputation-regarding-discrimination-is-contradictory.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/20/nzs-reputation-regarding-discrimination-is-contradictory/index.html
+layout: layout.njk
 ---
 NZ’s Reputation Regarding Discrimination Is Contradictory
 =========================================================

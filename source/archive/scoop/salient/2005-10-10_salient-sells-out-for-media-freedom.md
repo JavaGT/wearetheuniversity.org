@@ -1,9 +1,12 @@
 ---
 slug: salient-sells-out-for-media-freedom
-title: "Salient Sells Out for Media Freedom"
-date: 2005-10-10
-source-url: https://www.scoop.co.nz/stories/ED0510/S00031/salient-sells-out-for-media-freedom.htm
+title: Salient Sells Out for Media Freedom
+date: 2005-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00031/salient-sells-out-for-media-freedom.htm
 author: salient
+permalink: /archive/2005/10/10/salient-sells-out-for-media-freedom/index.html
+layout: layout.njk
 ---
 Salient Sells Out for Media Freedom
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: the-letter-all-changed-all-the-same
-title: "The Letter - All changed, all the same"
-date: 2014-07-01
-source-url: https://www.scoop.co.nz/stories/PO1407/S00001/the-letter-all-changed-all-the-same.htm
+title: The Letter - All changed, all the same
+date: 2014-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00001/the-letter-all-changed-all-the-same.htm
 author: act-new-zealand
+permalink: /archive/2014/07/01/the-letter-all-changed-all-the-same/index.html
+layout: layout.njk
 ---
 The Letter - All changed, all the same
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: turia-speech-to-aste-annual-conference
-title: "Turia: Speech to ASTE Annual Conference"
-date: 2004-09-30
-source-url: https://www.scoop.co.nz/stories/PA0409/S00595/turia-speech-to-aste-annual-conference.htm
+title: 'Turia: Speech to ASTE Annual Conference'
+date: 2004-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00595/turia-speech-to-aste-annual-conference.htm
 author: te-pati-maori
+permalink: /archive/2004/09/30/turia-speech-to-aste-annual-conference/index.html
+layout: layout.njk
 ---
 Turia: Speech to ASTE Annual Conference
 =======================================

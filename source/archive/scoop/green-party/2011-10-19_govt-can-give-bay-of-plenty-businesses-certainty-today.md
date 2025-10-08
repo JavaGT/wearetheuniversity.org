@@ -1,9 +1,13 @@
 ---
 slug: govt-can-give-bay-of-plenty-businesses-certainty-today
-title: "Govt. can give Bay of Plenty businesses certainty today"
-date: 2011-10-19
-source-url: https://www.scoop.co.nz/stories/PA1110/S00322/govt-can-give-bay-of-plenty-businesses-certainty-today.htm
+title: Govt. can give Bay of Plenty businesses certainty today
+date: 2011-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00322/govt-can-give-bay-of-plenty-businesses-certainty-today.htm
 author: green-party
+permalink: >-
+  /archive/2011/10/19/govt-can-give-bay-of-plenty-businesses-certainty-today/index.html
+layout: layout.njk
 ---
 Govt. can give Bay of Plenty businesses certainty today
 =======================================================

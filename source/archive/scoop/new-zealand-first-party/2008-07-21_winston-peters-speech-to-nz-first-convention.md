@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-to-nz-first-convention
-title: "Winston Peters Speech to NZ First Convention"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/PA0807/S00355/winston-peters-speech-to-nz-first-convention.htm
+title: Winston Peters Speech to NZ First Convention
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00355/winston-peters-speech-to-nz-first-convention.htm
 author: new-zealand-first-party
+permalink: /archive/2008/07/21/winston-peters-speech-to-nz-first-convention/index.html
+layout: layout.njk
 ---
 Winston Peters Speech to NZ First Convention
 ============================================

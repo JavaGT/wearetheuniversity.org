@@ -1,9 +1,12 @@
 ---
 slug: minister-pulls-teeth-from-clean-water-rules
-title: "Minister pulls teeth from clean water rules"
-date: 2011-05-10
-source-url: https://www.scoop.co.nz/stories/PA1105/S00178/minister-pulls-teeth-from-clean-water-rules.htm
+title: Minister pulls teeth from clean water rules
+date: 2011-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00178/minister-pulls-teeth-from-clean-water-rules.htm
 author: green-party
+permalink: /archive/2011/05/10/minister-pulls-teeth-from-clean-water-rules/index.html
+layout: layout.njk
 ---
 Minister pulls teeth from clean water rules
 ===========================================

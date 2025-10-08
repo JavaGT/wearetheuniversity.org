@@ -1,9 +1,13 @@
 ---
 slug: motiti-island-decision-troubling-for-recreational-fishing
-title: "Motiti Island decision troubling for recreational fishing"
-date: 2019-11-06
-source-url: https://www.scoop.co.nz/stories/PA1911/S00037/motiti-island-decision-troubling-for-recreational-fishing.htm
+title: Motiti Island decision troubling for recreational fishing
+date: 2019-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00037/motiti-island-decision-troubling-for-recreational-fishing.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/11/06/motiti-island-decision-troubling-for-recreational-fishing/index.html
+layout: layout.njk
 ---
 Motiti Island decision troubling for recreational fishing
 =========================================================

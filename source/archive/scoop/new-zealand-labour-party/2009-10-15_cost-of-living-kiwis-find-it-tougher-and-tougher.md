@@ -1,9 +1,13 @@
 ---
 slug: cost-of-living-kiwis-find-it-tougher-and-tougher
-title: "Cost of living: Kiwis find it tougher and tougher"
-date: 2009-10-15
-source-url: https://www.scoop.co.nz/stories/PA0910/S00191/cost-of-living-kiwis-find-it-tougher-and-tougher.htm
+title: 'Cost of living: Kiwis find it tougher and tougher'
+date: 2009-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00191/cost-of-living-kiwis-find-it-tougher-and-tougher.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/10/15/cost-of-living-kiwis-find-it-tougher-and-tougher/index.html
+layout: layout.njk
 ---
 Cost of living: Kiwis find it tougher and tougher
 =================================================

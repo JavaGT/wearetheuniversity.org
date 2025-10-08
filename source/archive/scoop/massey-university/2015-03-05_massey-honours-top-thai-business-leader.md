@@ -1,9 +1,12 @@
 ---
 slug: massey-honours-top-thai-business-leader
-title: "Massey honours top Thai business leader"
-date: 2015-03-05
-source-url: https://www.scoop.co.nz/stories/AK1503/S00125/massey-honours-top-thai-business-leader.htm
+title: Massey honours top Thai business leader
+date: 2015-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00125/massey-honours-top-thai-business-leader.htm
 author: massey-university
+permalink: /archive/2015/03/05/massey-honours-top-thai-business-leader/index.html
+layout: layout.njk
 ---
 Massey honours top Thai business leader
 =======================================

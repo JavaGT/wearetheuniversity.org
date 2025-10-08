@@ -1,9 +1,12 @@
 ---
 slug: robotics-world-cup-draws-crowds-in-the-cloud
-title: "Robotics World Cup draws crowds in the Cloud"
-date: 2011-10-12
-source-url: https://www.scoop.co.nz/stories/CU1110/S00177/robotics-world-cup-draws-crowds-in-the-cloud.htm
+title: Robotics World Cup draws crowds in the Cloud
+date: 2011-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1110/S00177/robotics-world-cup-draws-crowds-in-the-cloud.htm
 author: massey-university
+permalink: /archive/2011/10/12/robotics-world-cup-draws-crowds-in-the-cloud/index.html
+layout: layout.njk
 ---
 Robotics World Cup draws crowds in the Cloud
 ============================================

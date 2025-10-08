@@ -1,9 +1,12 @@
 ---
 slug: labour-borrowing-$5-7m-hr-seymour-challenges-leaders-to-show-debt-plans
-title: "Labour Borrowing $5.7m/hr, Seymour Challenges Leaders To Show Debt Plans"
-date: 2020-09-11
-source-url: https://www.scoop.co.nz/stories/PA2009/S00091/labour-borrowing-57mhr-seymour-challenges-leaders-to-show-debt-plans.htm
+title: Labour Borrowing $5.7m/hr, Seymour Challenges Leaders To Show Debt Plans
+date: 2020-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00091/labour-borrowing-57mhr-seymour-challenges-leaders-to-show-debt-plans.htm
 author: act-new-zealand
+permalink: /archive/2020/09/11/labour-borrowing-/index.html
+layout: layout.njk
 ---
 Labour Borrowing $5.7m/hr, Seymour Challenges Leaders To Show Debt Plans
 ========================================================================

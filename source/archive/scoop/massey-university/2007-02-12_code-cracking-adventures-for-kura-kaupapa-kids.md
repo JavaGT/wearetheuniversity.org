@@ -1,9 +1,12 @@
 ---
 slug: code-cracking-adventures-for-kura-kaupapa-kids
-title: "Code-cracking adventures for kura kaupapa kids"
-date: 2007-02-12
-source-url: https://www.scoop.co.nz/stories/ED0702/S00033/code-cracking-adventures-for-kura-kaupapa-kids.htm
+title: Code-cracking adventures for kura kaupapa kids
+date: 2007-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00033/code-cracking-adventures-for-kura-kaupapa-kids.htm
 author: massey-university
+permalink: /archive/2007/02/12/code-cracking-adventures-for-kura-kaupapa-kids/index.html
+layout: layout.njk
 ---
 Code-cracking adventures for kura kaupapa kids
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: staff-and-students-protest-at-proposed-cuts
-title: "Staff and students protest at proposed cuts"
-date: 2008-05-26
-source-url: https://www.scoop.co.nz/stories/ED0805/S00108/staff-and-students-protest-at-proposed-cuts.htm
+title: Staff and students protest at proposed cuts
+date: 2008-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00108/staff-and-students-protest-at-proposed-cuts.htm
 author: association-of-university-staff
+permalink: /archive/2008/05/26/staff-and-students-protest-at-proposed-cuts/index.html
+layout: layout.njk
 ---
 Staff and students protest at proposed cuts
 ===========================================

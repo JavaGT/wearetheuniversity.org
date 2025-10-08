@@ -1,9 +1,12 @@
 ---
 slug: love-humanities-day-gets-massey-support
-title: "‘Love humanities’ day gets Massey support"
-date: 2017-02-21
-source-url: https://www.scoop.co.nz/stories/ED1702/S00061/love-humanities-day-gets-massey-support.htm
+title: ‘Love humanities’ day gets Massey support
+date: 2017-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00061/love-humanities-day-gets-massey-support.htm
 author: massey-university
+permalink: /archive/2017/02/21/love-humanities-day-gets-massey-support/index.html
+layout: layout.njk
 ---
 ‘Love humanities’ day gets Massey support
 =========================================

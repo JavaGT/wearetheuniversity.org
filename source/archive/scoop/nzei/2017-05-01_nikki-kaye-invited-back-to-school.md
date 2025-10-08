@@ -1,9 +1,12 @@
 ---
 slug: nikki-kaye-invited-back-to-school
-title: "Nikki Kaye invited back to school"
-date: 2017-05-01
-source-url: https://www.scoop.co.nz/stories/ED1705/S00004/nikki-kaye-invited-back-to-school.htm
+title: Nikki Kaye invited back to school
+date: 2017-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00004/nikki-kaye-invited-back-to-school.htm
 author: nzei
+permalink: /archive/2017/05/01/nikki-kaye-invited-back-to-school/index.html
+layout: layout.njk
 ---
 Nikki Kaye invited back to school
 =================================

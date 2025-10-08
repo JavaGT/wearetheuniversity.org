@@ -1,9 +1,12 @@
 ---
 slug: act-auckland-regional-conference
-title: "ACT Auckland Regional Conference"
-date: 2003-10-20
-source-url: https://www.scoop.co.nz/stories/PA0310/S00440/act-auckland-regional-conference.htm
+title: ACT Auckland Regional Conference
+date: 2003-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00440/act-auckland-regional-conference.htm
 author: act-new-zealand
+permalink: /archive/2003/10/20/act-auckland-regional-conference/index.html
+layout: layout.njk
 ---
 ACT Auckland Regional Conference
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: link-between-energy-and-health-important
-title: "Link between energy and health important"
-date: 2006-11-07
-source-url: https://www.scoop.co.nz/stories/PA0611/S00123/link-between-energy-and-health-important.htm
+title: Link between energy and health important
+date: 2006-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00123/link-between-energy-and-health-important.htm
 author: green-party
+permalink: /archive/2006/11/07/link-between-energy-and-health-important/index.html
+layout: layout.njk
 ---
 Link between energy and health important
 ========================================

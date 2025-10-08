@@ -1,9 +1,12 @@
 ---
 slug: petition-launched-for-inquiry-into-safe-rates
-title: "Petition launched for inquiry into safe rates"
-date: 2010-07-23
-source-url: https://www.scoop.co.nz/stories/PA1007/S00368/petition-launched-for-inquiry-into-safe-rates.htm
+title: Petition launched for inquiry into safe rates
+date: 2010-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00368/petition-launched-for-inquiry-into-safe-rates.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/23/petition-launched-for-inquiry-into-safe-rates/index.html
+layout: layout.njk
 ---
 Petition launched for inquiry into safe rates
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: auckland-university-helps-explain-the-nz-economy
-title: "Auckland University helps explain the NZ economy"
-date: 2011-10-06
-source-url: https://www.scoop.co.nz/stories/ED1110/S00028/auckland-university-helps-explain-the-nz-economy.htm
+title: Auckland University helps explain the NZ economy
+date: 2011-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00028/auckland-university-helps-explain-the-nz-economy.htm
 author: auckland-university
+permalink: >-
+  /archive/2011/10/06/auckland-university-helps-explain-the-nz-economy/index.html
+layout: layout.njk
 ---
 Auckland University helps explain the NZ economy
 ================================================

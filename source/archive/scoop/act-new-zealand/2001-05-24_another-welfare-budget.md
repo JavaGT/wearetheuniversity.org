@@ -1,9 +1,11 @@
 ---
 slug: another-welfare-budget
-title: "Another Welfare Budget"
-date: 2001-05-24
+title: Another Welfare Budget
+date: 2001-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0105/S00540/another-welfare-budget.htm
 author: act-new-zealand
+permalink: /archive/2001/05/24/another-welfare-budget/index.html
+layout: layout.njk
 ---
 Another Welfare Budget
 ======================

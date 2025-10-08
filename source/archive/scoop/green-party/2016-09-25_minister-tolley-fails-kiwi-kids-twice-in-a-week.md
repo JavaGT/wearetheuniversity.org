@@ -1,9 +1,12 @@
 ---
 slug: minister-tolley-fails-kiwi-kids-twice-in-a-week
-title: "Minister Tolley fails Kiwi kids twice in a week"
-date: 2016-09-25
-source-url: https://www.scoop.co.nz/stories/PA1609/S00450/minister-tolley-fails-kiwi-kids-twice-in-a-week.htm
+title: Minister Tolley fails Kiwi kids twice in a week
+date: 2016-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00450/minister-tolley-fails-kiwi-kids-twice-in-a-week.htm
 author: green-party
+permalink: /archive/2016/09/25/minister-tolley-fails-kiwi-kids-twice-in-a-week/index.html
+layout: layout.njk
 ---
 Minister Tolley fails Kiwi kids twice in a week
 ===============================================

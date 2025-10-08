@@ -1,9 +1,13 @@
 ---
 slug: kids-in-motels-a-statistical-inconvenience-to-labour
-title: "Kids In Motels A Statistical Inconvenience To Labour"
-date: 2022-10-20
-source-url: https://www.scoop.co.nz/stories/PA2210/S00143/kids-in-motels-a-statistical-inconvenience-to-labour.htm
+title: Kids In Motels A Statistical Inconvenience To Labour
+date: 2022-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00143/kids-in-motels-a-statistical-inconvenience-to-labour.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/10/20/kids-in-motels-a-statistical-inconvenience-to-labour/index.html
+layout: layout.njk
 ---
 Kids In Motels A Statistical Inconvenience To Labour
 ====================================================

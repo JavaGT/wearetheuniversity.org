@@ -1,9 +1,12 @@
 ---
 slug: enforce-immigration-rules-ryall
-title: "Enforce immigration rules - Ryall"
-date: 2006-07-16
-source-url: https://www.scoop.co.nz/stories/PA0607/S00219/enforce-immigration-rules-ryall.htm
+title: Enforce immigration rules - Ryall
+date: 2006-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00219/enforce-immigration-rules-ryall.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/16/enforce-immigration-rules-ryall/index.html
+layout: layout.njk
 ---
 Enforce immigration rules - Ryall
 =================================

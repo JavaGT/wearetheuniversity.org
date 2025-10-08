@@ -1,9 +1,13 @@
 ---
 slug: student-leaders-urge-universities-to-support-climate-strikes
-title: "Student leaders urge universities to support climate strikes"
-date: 2019-08-29
-source-url: https://www.scoop.co.nz/stories/PO1908/S00395/student-leaders-urge-universities-to-support-climate-strikes.htm
+title: Student leaders urge universities to support climate strikes
+date: 2019-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00395/student-leaders-urge-universities-to-support-climate-strikes.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2019/08/29/student-leaders-urge-universities-to-support-climate-strikes/index.html
+layout: layout.njk
 ---
 Student leaders urge universities to support climate strikes
 ============================================================

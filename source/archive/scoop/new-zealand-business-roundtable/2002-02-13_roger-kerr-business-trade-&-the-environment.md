@@ -1,9 +1,12 @@
 ---
 slug: roger-kerr-business-trade-&-the-environment
-title: "Roger Kerr: Business Trade & The Environment"
-date: 2002-02-13
-source-url: https://www.scoop.co.nz/stories/BU0202/S00099/roger-kerr-business-trade-the-environment.htm
+title: 'Roger Kerr: Business Trade & The Environment'
+date: 2002-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0202/S00099/roger-kerr-business-trade-the-environment.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2002/02/13/roger-kerr-business-trade-/index.html
+layout: layout.njk
 ---
 Roger Kerr: Business Trade & The Environment
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: from-the-old-world-to-the-new
-title: "From the Old World to the New"
-date: 2012-07-24
-source-url: https://www.scoop.co.nz/stories/CU1207/S00378/from-the-old-world-to-the-new.htm
+title: From the Old World to the New
+date: 2012-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00378/from-the-old-world-to-the-new.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/07/24/from-the-old-world-to-the-new/index.html
+layout: layout.njk
 ---
 From the Old World to the New
 =============================

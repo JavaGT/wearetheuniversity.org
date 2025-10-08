@@ -1,9 +1,12 @@
 ---
 slug: masseys-10%-fee-rise-outrageous
-title: "Massey’s 10% fee rise outrageous"
-date: 2005-09-02
-source-url: https://www.scoop.co.nz/stories/ED0509/S00009/masseys-10-fee-rise-outrageous.htm
+title: Massey’s 10% fee rise outrageous
+date: 2005-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00009/masseys-10-fee-rise-outrageous.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/09/02/masseys-10/index.html
+layout: layout.njk
 ---
 Massey’s 10% fee rise outrageous
 ================================

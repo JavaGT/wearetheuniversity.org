@@ -1,9 +1,13 @@
 ---
 slug: leaked-briefing-shows-co-government-for-education
-title: "Leaked Briefing Shows Co-government For Education"
-date: 2022-12-08
-source-url: https://www.scoop.co.nz/stories/PA2212/S00078/leaked-briefing-shows-co-government-for-education.htm
+title: Leaked Briefing Shows Co-government For Education
+date: 2022-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00078/leaked-briefing-shows-co-government-for-education.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/12/08/leaked-briefing-shows-co-government-for-education/index.html
+layout: layout.njk
 ---
 Leaked Briefing Shows Co-government For Education
 =================================================

@@ -1,9 +1,11 @@
 ---
 slug: students-urged-to-enrol
-title: "Students Urged to Enrol"
-date: 1999-09-27
+title: Students Urged to Enrol
+date: 1999-09-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED9909/S00045/students-urged-to-enrol.htm
 author: victoria-university-students-association
+permalink: /archive/1999/09/27/students-urged-to-enrol/index.html
+layout: layout.njk
 ---
 Students Urged to Enrol
 =======================

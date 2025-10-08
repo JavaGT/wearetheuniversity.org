@@ -1,9 +1,12 @@
 ---
 slug: gollum-at-risk-of-extinction-in-the-nevis-river
-title: "Gollum at risk of extinction in the Nevis River"
-date: 2010-10-26
-source-url: https://www.scoop.co.nz/stories/PA1010/S00428/gollum-at-risk-of-extinction-in-the-nevis-river.htm
+title: Gollum at risk of extinction in the Nevis River
+date: 2010-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00428/gollum-at-risk-of-extinction-in-the-nevis-river.htm
 author: green-party
+permalink: /archive/2010/10/26/gollum-at-risk-of-extinction-in-the-nevis-river/index.html
+layout: layout.njk
 ---
 Gollum at risk of extinction in the Nevis River
 ===============================================

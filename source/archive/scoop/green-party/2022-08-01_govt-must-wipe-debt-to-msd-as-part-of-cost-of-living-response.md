@@ -1,9 +1,13 @@
 ---
 slug: govt-must-wipe-debt-to-msd-as-part-of-cost-of-living-response
-title: "Govt Must Wipe Debt To MSD As Part Of 'Cost Of Living’ Response"
-date: 2022-08-01
-source-url: https://www.scoop.co.nz/stories/PO2208/S00001/govt-must-wipe-debt-to-msd-as-part-of-cost-of-living-response.htm
+title: Govt Must Wipe Debt To MSD As Part Of 'Cost Of Living’ Response
+date: 2022-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2208/S00001/govt-must-wipe-debt-to-msd-as-part-of-cost-of-living-response.htm
 author: green-party
+permalink: >-
+  /archive/2022/08/01/govt-must-wipe-debt-to-msd-as-part-of-cost-of-living-response/index.html
+layout: layout.njk
 ---
 Govt Must Wipe Debt To MSD As Part Of 'Cost Of Living’ Response
 ===============================================================

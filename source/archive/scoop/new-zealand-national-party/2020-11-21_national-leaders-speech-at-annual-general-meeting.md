@@ -1,9 +1,13 @@
 ---
 slug: national-leaders-speech-at-annual-general-meeting
-title: "National Leader’s Speech At Annual General Meeting"
-date: 2020-11-21
-source-url: https://www.scoop.co.nz/stories/PA2011/S00070/national-leaders-speech-at-annual-general-meeting.htm
+title: National Leader’s Speech At Annual General Meeting
+date: 2020-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2011/S00070/national-leaders-speech-at-annual-general-meeting.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/11/21/national-leaders-speech-at-annual-general-meeting/index.html
+layout: layout.njk
 ---
 National Leader’s Speech At Annual General Meeting
 ==================================================

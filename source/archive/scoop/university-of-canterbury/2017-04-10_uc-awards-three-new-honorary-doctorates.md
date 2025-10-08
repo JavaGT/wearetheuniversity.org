@@ -1,9 +1,12 @@
 ---
 slug: uc-awards-three-new-honorary-doctorates
-title: "UC awards three new honorary doctorates"
-date: 2017-04-10
-source-url: https://www.scoop.co.nz/stories/ED1704/S00034/uc-awards-three-new-honorary-doctorates.htm
+title: UC awards three new honorary doctorates
+date: 2017-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00034/uc-awards-three-new-honorary-doctorates.htm
 author: university-of-canterbury
+permalink: /archive/2017/04/10/uc-awards-three-new-honorary-doctorates/index.html
+layout: layout.njk
 ---
 UC awards three new honorary doctorates
 =======================================

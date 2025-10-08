@@ -1,9 +1,12 @@
 ---
 slug: government-must-untangle-novopay-tax-web
-title: "Government Must Untangle Novopay Tax Web"
-date: 2013-04-05
-source-url: https://www.scoop.co.nz/stories/PA1304/S00077/government-must-untangle-novopay-tax-web.htm
+title: Government Must Untangle Novopay Tax Web
+date: 2013-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00077/government-must-untangle-novopay-tax-web.htm
 author: new-zealand-first-party
+permalink: /archive/2013/04/05/government-must-untangle-novopay-tax-web/index.html
+layout: layout.njk
 ---
 Government Must Untangle Novopay Tax Web
 ========================================

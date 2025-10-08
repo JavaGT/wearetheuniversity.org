@@ -1,9 +1,13 @@
 ---
 slug: govt-must-act-urgently-to-eradicate-invasive-clams
-title: "Govt Must Act Urgently To Eradicate Invasive Clams"
-date: 2023-06-08
-source-url: https://www.scoop.co.nz/stories/PA2306/S00047/govt-must-act-urgently-to-eradicate-invasive-clams.htm
+title: Govt Must Act Urgently To Eradicate Invasive Clams
+date: 2023-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00047/govt-must-act-urgently-to-eradicate-invasive-clams.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/06/08/govt-must-act-urgently-to-eradicate-invasive-clams/index.html
+layout: layout.njk
 ---
 Govt Must Act Urgently To Eradicate Invasive Clams
 ==================================================

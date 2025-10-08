@@ -1,9 +1,12 @@
 ---
 slug: flavell-international-finance-amendment-bill
-title: "Flavell: International Finance Amendment Bill"
-date: 2007-09-12
-source-url: https://www.scoop.co.nz/stories/PA0709/S00187/flavell-international-finance-amendment-bill.htm
+title: 'Flavell: International Finance Amendment Bill'
+date: 2007-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00187/flavell-international-finance-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/09/12/flavell-international-finance-amendment-bill/index.html
+layout: layout.njk
 ---
 Flavell: International Finance Amendment Bill
 =============================================

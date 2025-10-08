@@ -1,9 +1,12 @@
 ---
 slug: public-private-investment-framework-aus
-title: "Public Private Investment Framework - AUS"
-date: 2003-09-26
-source-url: https://www.scoop.co.nz/stories/ED0309/S00127/public-private-investment-framework-aus.htm
+title: Public Private Investment Framework - AUS
+date: 2003-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00127/public-private-investment-framework-aus.htm
 author: association-of-university-staff
+permalink: /archive/2003/09/26/public-private-investment-framework-aus/index.html
+layout: layout.njk
 ---
 Public Private Investment Framework - AUS
 =========================================

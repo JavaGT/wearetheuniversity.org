@@ -1,9 +1,12 @@
 ---
 slug: the-global-refugee-crisis-and-new-zealands-role
-title: "The global refugee crisis and New Zealand’s role"
-date: 2016-03-15
-source-url: https://www.scoop.co.nz/stories/AK1603/S00358/the-global-refugee-crisis-and-new-zealands-role.htm
+title: The global refugee crisis and New Zealand’s role
+date: 2016-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1603/S00358/the-global-refugee-crisis-and-new-zealands-role.htm
 author: university-of-canterbury
+permalink: /archive/2016/03/15/the-global-refugee-crisis-and-new-zealands-role/index.html
+layout: layout.njk
 ---
 The global refugee crisis and New Zealand’s role
 ================================================

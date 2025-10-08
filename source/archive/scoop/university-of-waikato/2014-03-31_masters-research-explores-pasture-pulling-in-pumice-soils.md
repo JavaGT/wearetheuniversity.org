@@ -1,9 +1,13 @@
 ---
 slug: masters-research-explores-pasture-pulling-in-pumice-soils
-title: "Masters research explores pasture pulling in pumice soils"
-date: 2014-03-31
-source-url: https://www.scoop.co.nz/stories/ED1403/S00180/masters-research-explores-pasture-pulling-in-pumice-soils.htm
+title: Masters research explores pasture pulling in pumice soils
+date: 2014-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00180/masters-research-explores-pasture-pulling-in-pumice-soils.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/31/masters-research-explores-pasture-pulling-in-pumice-soils/index.html
+layout: layout.njk
 ---
 Masters research explores pasture pulling in pumice soils
 =========================================================

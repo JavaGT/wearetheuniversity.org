@@ -1,9 +1,12 @@
 ---
 slug: study-to-help-minimise-road-deaths-in-pacific
-title: "Study to help minimise road deaths in Pacific"
-date: 2004-06-21
-source-url: https://www.scoop.co.nz/stories/ED0406/S00072/study-to-help-minimise-road-deaths-in-pacific.htm
+title: Study to help minimise road deaths in Pacific
+date: 2004-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00072/study-to-help-minimise-road-deaths-in-pacific.htm
 author: auckland-university
+permalink: /archive/2004/06/21/study-to-help-minimise-road-deaths-in-pacific/index.html
+layout: layout.njk
 ---
 Study to help minimise road deaths in Pacific
 =============================================

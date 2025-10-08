@@ -1,9 +1,12 @@
 ---
 slug: awatere-huata-seeks-urgent-debate-on-ncea
-title: "Awatere Huata Seeks Urgent Debate On NCEA"
-date: 2002-08-27
-source-url: https://www.scoop.co.nz/stories/PA0208/S00230/awatere-huata-seeks-urgent-debate-on-ncea.htm
+title: Awatere Huata Seeks Urgent Debate On NCEA
+date: 2002-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00230/awatere-huata-seeks-urgent-debate-on-ncea.htm
 author: act-new-zealand
+permalink: /archive/2002/08/27/awatere-huata-seeks-urgent-debate-on-ncea/index.html
+layout: layout.njk
 ---
 Awatere Huata Seeks Urgent Debate On NCEA
 =========================================

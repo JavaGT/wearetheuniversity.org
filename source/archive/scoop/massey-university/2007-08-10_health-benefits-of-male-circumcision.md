@@ -1,9 +1,12 @@
 ---
 slug: health-benefits-of-male-circumcision
-title: "Health benefits of male circumcision"
-date: 2007-08-10
-source-url: https://www.scoop.co.nz/stories/GE0708/S00050/health-benefits-of-male-circumcision.htm
+title: Health benefits of male circumcision
+date: 2007-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0708/S00050/health-benefits-of-male-circumcision.htm
 author: massey-university
+permalink: /archive/2007/08/10/health-benefits-of-male-circumcision/index.html
+layout: layout.njk
 ---
 Health benefits of male circumcision
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: sector-calls-for-major-changes-to-acc-operations
-title: "Sector Calls For Major Changes To ACC Operations"
-date: 2021-10-27
-source-url: https://www.scoop.co.nz/stories/PA2110/S00274/sector-calls-for-major-changes-to-acc-operations.htm
+title: Sector Calls For Major Changes To ACC Operations
+date: 2021-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00274/sector-calls-for-major-changes-to-acc-operations.htm
 author: green-party
+permalink: >-
+  /archive/2021/10/27/sector-calls-for-major-changes-to-acc-operations/index.html
+layout: layout.njk
 ---
 Sector Calls For Major Changes To ACC Operations
 ================================================

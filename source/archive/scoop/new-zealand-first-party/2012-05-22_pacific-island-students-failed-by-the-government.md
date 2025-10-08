@@ -1,9 +1,13 @@
 ---
 slug: pacific-island-students-failed-by-the-government
-title: "Pacific Island Students Failed By The Government"
-date: 2012-05-22
-source-url: https://www.scoop.co.nz/stories/PA1205/S00343/pacific-island-students-failed-by-the-government.htm
+title: Pacific Island Students Failed By The Government
+date: 2012-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00343/pacific-island-students-failed-by-the-government.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/05/22/pacific-island-students-failed-by-the-government/index.html
+layout: layout.njk
 ---
 Pacific Island Students Failed By The Government
 ================================================

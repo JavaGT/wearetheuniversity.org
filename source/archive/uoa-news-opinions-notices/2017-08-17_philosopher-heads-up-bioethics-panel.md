@@ -1,8 +1,11 @@
 ---
 slug: philosopher-heads-up-bioethics-panel
-title: "Philosopher heads up bioethics panel"
-date: 2017-08-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/philosopher-heads-up-bioethics-panel.html
+title: Philosopher heads up bioethics panel
+date: 2017-08-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/philosopher-heads-up-bioethics-panel.html
+permalink: /archive/2017/08/17/philosopher-heads-up-bioethics-panel/index.html
+layout: layout.njk
 ---
 Philosopher heads up bioethics panel
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: vic-uni-sustainable-architecture-award-winners
-title: "Vic Uni sustainable architecture award winners"
-date: 2009-09-16
-source-url: https://www.scoop.co.nz/stories/ED0909/S00058/vic-uni-sustainable-architecture-award-winners.htm
+title: Vic Uni sustainable architecture award winners
+date: 2009-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00058/vic-uni-sustainable-architecture-award-winners.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/09/16/vic-uni-sustainable-architecture-award-winners/index.html
+layout: layout.njk
 ---
 Vic Uni sustainable architecture award winners
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: drip-feed-approach-is-too-slow
-title: "Drip feed approach is too slow"
-date: 2009-02-12
-source-url: https://www.scoop.co.nz/stories/PA0902/S00184/drip-feed-approach-is-too-slow.htm
+title: Drip feed approach is too slow
+date: 2009-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00184/drip-feed-approach-is-too-slow.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/12/drip-feed-approach-is-too-slow/index.html
+layout: layout.njk
 ---
 Drip feed approach is too slow 
 ===============================

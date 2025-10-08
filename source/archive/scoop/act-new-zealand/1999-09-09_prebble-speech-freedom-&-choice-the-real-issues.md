@@ -1,9 +1,12 @@
 ---
 slug: prebble-speech-freedom-&-choice-the-real-issues
-title: "Prebble Speech: Freedom & Choice - The Real Issues"
-date: 1999-09-09
-source-url: https://www.scoop.co.nz/stories/PA9909/S00203/prebble-speech-freedom-choice-the-real-issues.htm
+title: 'Prebble Speech: Freedom & Choice - The Real Issues'
+date: 1999-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00203/prebble-speech-freedom-choice-the-real-issues.htm
 author: act-new-zealand
+permalink: /archive/1999/09/09/prebble-speech-freedom-/index.html
+layout: layout.njk
 ---
 Prebble Speech: Freedom & Choice - The Real Issues
 ==================================================

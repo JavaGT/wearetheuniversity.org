@@ -1,9 +1,13 @@
 ---
 slug: new-mou-between-university-of-otago-and-otago-museum
-title: "New MoU between University of Otago and Otago Museum"
-date: 2016-12-15
-source-url: https://www.scoop.co.nz/stories/ED1612/S00055/new-mou-between-university-of-otago-and-otago-museum.htm
+title: New MoU between University of Otago and Otago Museum
+date: 2016-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00055/new-mou-between-university-of-otago-and-otago-museum.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/12/15/new-mou-between-university-of-otago-and-otago-museum/index.html
+layout: layout.njk
 ---
 New MoU between University of Otago and Otago Museum
 ====================================================

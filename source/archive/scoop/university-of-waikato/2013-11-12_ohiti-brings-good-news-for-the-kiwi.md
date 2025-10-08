@@ -1,9 +1,12 @@
 ---
 slug: ohiti-brings-good-news-for-the-kiwi
-title: "Ohiti brings good news for the kiwi"
-date: 2013-11-12
-source-url: https://www.scoop.co.nz/stories/ED1311/S00084/ohiti-brings-good-news-for-the-kiwi.htm
+title: Ohiti brings good news for the kiwi
+date: 2013-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00084/ohiti-brings-good-news-for-the-kiwi.htm
 author: university-of-waikato
+permalink: /archive/2013/11/12/ohiti-brings-good-news-for-the-kiwi/index.html
+layout: layout.njk
 ---
 Ohiti brings good news for the kiwi
 ===================================

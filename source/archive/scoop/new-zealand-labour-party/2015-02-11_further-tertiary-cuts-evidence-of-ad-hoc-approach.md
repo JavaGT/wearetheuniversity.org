@@ -1,9 +1,13 @@
 ---
 slug: further-tertiary-cuts-evidence-of-ad-hoc-approach
-title: "Further tertiary cuts evidence of ad hoc approach"
-date: 2015-02-11
-source-url: https://www.scoop.co.nz/stories/ED1502/S00032/further-tertiary-cuts-evidence-of-ad-hoc-approach.htm
+title: Further tertiary cuts evidence of ad hoc approach
+date: 2015-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00032/further-tertiary-cuts-evidence-of-ad-hoc-approach.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/02/11/further-tertiary-cuts-evidence-of-ad-hoc-approach/index.html
+layout: layout.njk
 ---
 Further tertiary cuts evidence of ad hoc approach
 =================================================

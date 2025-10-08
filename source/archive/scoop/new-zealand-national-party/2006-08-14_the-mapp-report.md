@@ -1,9 +1,11 @@
 ---
 slug: the-mapp-report
-title: "The Mapp Report"
-date: 2006-08-14
+title: The Mapp Report
+date: 2006-08-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0608/S00208/the-mapp-report.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/14/the-mapp-report/index.html
+layout: layout.njk
 ---
 The Mapp Report
 ===============

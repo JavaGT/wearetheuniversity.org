@@ -1,9 +1,13 @@
 ---
 slug: pm-and-minister-of-finance-need-to-help-resolve-strikes
-title: "PM and Minister of Finance need to help resolve strikes"
-date: 2019-05-20
-source-url: https://www.scoop.co.nz/stories/PA1905/S00196/pm-and-minister-of-finance-need-to-help-resolve-strikes.htm
+title: PM and Minister of Finance need to help resolve strikes
+date: 2019-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00196/pm-and-minister-of-finance-need-to-help-resolve-strikes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/05/20/pm-and-minister-of-finance-need-to-help-resolve-strikes/index.html
+layout: layout.njk
 ---
 PM and Minister of Finance need to help resolve strikes
 =======================================================

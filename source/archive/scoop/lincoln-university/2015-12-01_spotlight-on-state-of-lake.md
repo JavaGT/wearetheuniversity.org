@@ -1,9 +1,11 @@
 ---
 slug: spotlight-on-state-of-lake
-title: "Spotlight on state of lake"
-date: 2015-12-01
+title: Spotlight on state of lake
+date: 2015-12-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1512/S00018/spotlight-on-state-of-lake.htm
 author: lincoln-university
+permalink: /archive/2015/12/01/spotlight-on-state-of-lake/index.html
+layout: layout.njk
 ---
 Spotlight on state of lake
 ==========================

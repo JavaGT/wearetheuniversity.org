@@ -1,9 +1,12 @@
 ---
 slug: 6%-of-2003-university-graduates-located-oseas
-title: "6% Of 2003 University Graduates Located O'seas"
-date: 2004-12-10
-source-url: https://www.scoop.co.nz/stories/ED0412/S00038/6-of-2003-university-graduates-located-oseas.htm
+title: 6% Of 2003 University Graduates Located O'seas
+date: 2004-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00038/6-of-2003-university-graduates-located-oseas.htm
 author: vice-chancellors-committee
+permalink: /archive/2004/12/10/6/index.html
+layout: layout.njk
 ---
 6% Of 2003 University Graduates Located O'seas
 ==============================================

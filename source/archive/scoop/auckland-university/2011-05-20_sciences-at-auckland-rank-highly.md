@@ -1,9 +1,12 @@
 ---
 slug: sciences-at-auckland-rank-highly
-title: "Sciences At Auckland Rank Highly"
-date: 2011-05-20
-source-url: https://www.scoop.co.nz/stories/ED1105/S00082/sciences-at-auckland-rank-highly.htm
+title: Sciences At Auckland Rank Highly
+date: 2011-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00082/sciences-at-auckland-rank-highly.htm
 author: auckland-university
+permalink: /archive/2011/05/20/sciences-at-auckland-rank-highly/index.html
+layout: layout.njk
 ---
 Sciences At Auckland Rank Highly
 ================================

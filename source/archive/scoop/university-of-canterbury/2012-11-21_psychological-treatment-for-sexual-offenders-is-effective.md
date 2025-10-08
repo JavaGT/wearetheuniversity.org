@@ -1,9 +1,13 @@
 ---
 slug: psychological-treatment-for-sexual-offenders-is-effective
-title: "Psychological treatment for sexual offenders is effective"
-date: 2012-11-21
-source-url: https://www.scoop.co.nz/stories/GE1211/S00080/psychological-treatment-for-sexual-offenders-is-effective.htm
+title: Psychological treatment for sexual offenders is effective
+date: 2012-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1211/S00080/psychological-treatment-for-sexual-offenders-is-effective.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/21/psychological-treatment-for-sexual-offenders-is-effective/index.html
+layout: layout.njk
 ---
 Psychological treatment for sexual offenders is effective
 =========================================================

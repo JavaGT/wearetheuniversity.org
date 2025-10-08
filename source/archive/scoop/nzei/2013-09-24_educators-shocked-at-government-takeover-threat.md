@@ -1,9 +1,12 @@
 ---
 slug: educators-shocked-at-government-takeover-threat
-title: "Educators shocked at Government takeover threat"
-date: 2013-09-24
-source-url: https://www.scoop.co.nz/stories/ED1309/S00139/educators-shocked-at-government-takeover-threat.htm
+title: Educators shocked at Government takeover threat
+date: 2013-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00139/educators-shocked-at-government-takeover-threat.htm
 author: nzei
+permalink: /archive/2013/09/24/educators-shocked-at-government-takeover-threat/index.html
+layout: layout.njk
 ---
 Educators shocked at Government takeover threat
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: encouraging-more-smes-to-take-their-big-oe
-title: "Encouraging More SMEs To Take Their Big OE"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/ED0309/S00100/encouraging-more-smes-to-take-their-big-oe.htm
+title: Encouraging More SMEs To Take Their Big OE
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00100/encouraging-more-smes-to-take-their-big-oe.htm
 author: auckland-university
+permalink: /archive/2003/09/22/encouraging-more-smes-to-take-their-big-oe/index.html
+layout: layout.njk
 ---
 Encouraging More SMEs To Take Their Big OE
 ==========================================

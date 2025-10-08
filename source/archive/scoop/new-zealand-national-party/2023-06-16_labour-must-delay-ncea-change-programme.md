@@ -1,9 +1,12 @@
 ---
 slug: labour-must-delay-ncea-change-programme
-title: "Labour Must Delay NCEA Change Programme"
-date: 2023-06-16
-source-url: https://www.scoop.co.nz/stories/PA2306/S00105/labour-must-delay-ncea-change-programme.htm
+title: Labour Must Delay NCEA Change Programme
+date: 2023-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00105/labour-must-delay-ncea-change-programme.htm
 author: new-zealand-national-party
+permalink: /archive/2023/06/16/labour-must-delay-ncea-change-programme/index.html
+layout: layout.njk
 ---
 Labour Must Delay NCEA Change Programme
 =======================================

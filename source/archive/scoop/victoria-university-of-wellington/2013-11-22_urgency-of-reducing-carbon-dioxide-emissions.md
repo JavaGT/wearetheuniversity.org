@@ -1,9 +1,12 @@
 ---
 slug: urgency-of-reducing-carbon-dioxide-emissions
-title: "Urgency of reducing carbon dioxide emissions"
-date: 2013-11-22
-source-url: https://www.scoop.co.nz/stories/SC1311/S00077/urgency-of-reducing-carbon-dioxide-emissions.htm
+title: Urgency of reducing carbon dioxide emissions
+date: 2013-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00077/urgency-of-reducing-carbon-dioxide-emissions.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/22/urgency-of-reducing-carbon-dioxide-emissions/index.html
+layout: layout.njk
 ---
 Urgency of reducing carbon dioxide emissions
 ============================================

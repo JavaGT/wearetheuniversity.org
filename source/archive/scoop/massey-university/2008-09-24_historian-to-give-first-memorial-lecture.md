@@ -1,9 +1,12 @@
 ---
 slug: historian-to-give-first-memorial-lecture
-title: "Historian to give first memorial lecture"
-date: 2008-09-24
-source-url: https://www.scoop.co.nz/stories/ED0809/S00079/historian-to-give-first-memorial-lecture.htm
+title: Historian to give first memorial lecture
+date: 2008-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00079/historian-to-give-first-memorial-lecture.htm
 author: massey-university
+permalink: /archive/2008/09/24/historian-to-give-first-memorial-lecture/index.html
+layout: layout.njk
 ---
 Historian to give first memorial lecture
 ========================================

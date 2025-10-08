@@ -1,9 +1,13 @@
 ---
 slug: three-amigo-animators-win-international-challenge
-title: "Three amigo animators win international challenge"
-date: 2011-02-21
-source-url: https://www.scoop.co.nz/stories/ED1102/S00062/three-amigo-animators-win-international-challenge.htm
+title: Three amigo animators win international challenge
+date: 2011-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00062/three-amigo-animators-win-international-challenge.htm
 author: massey-university
+permalink: >-
+  /archive/2011/02/21/three-amigo-animators-win-international-challenge/index.html
+layout: layout.njk
 ---
 Three amigo animators win international challenge
 =================================================

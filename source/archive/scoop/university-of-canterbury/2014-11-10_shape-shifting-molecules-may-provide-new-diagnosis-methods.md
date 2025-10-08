@@ -1,9 +1,13 @@
 ---
 slug: shape-shifting-molecules-may-provide-new-diagnosis-methods
-title: "Shape-shifting molecules may provide new diagnosis methods"
-date: 2014-11-10
-source-url: https://www.scoop.co.nz/stories/SC1411/S00023/shape-shifting-molecules-may-provide-new-diagnosis-methods.htm
+title: Shape-shifting molecules may provide new diagnosis methods
+date: 2014-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00023/shape-shifting-molecules-may-provide-new-diagnosis-methods.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/10/shape-shifting-molecules-may-provide-new-diagnosis-methods/index.html
+layout: layout.njk
 ---
 Shape-shifting molecules may provide new diagnosis methods
 ==========================================================

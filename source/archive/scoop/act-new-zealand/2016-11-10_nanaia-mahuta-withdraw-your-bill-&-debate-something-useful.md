@@ -1,9 +1,12 @@
 ---
 slug: nanaia-mahuta-withdraw-your-bill-&-debate-something-useful
-title: "Nanaia Mahuta, withdraw your bill & debate something useful"
-date: 2016-11-10
-source-url: https://www.scoop.co.nz/stories/PA1611/S00222/nanaia-mahuta-withdraw-your-bill-debate-something-useful.htm
+title: Nanaia Mahuta, withdraw your bill & debate something useful
+date: 2016-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00222/nanaia-mahuta-withdraw-your-bill-debate-something-useful.htm
 author: act-new-zealand
+permalink: /archive/2016/11/10/nanaia-mahuta-withdraw-your-bill-/index.html
+layout: layout.njk
 ---
 Nanaia Mahuta, withdraw your bill & debate something useful
 ===========================================================

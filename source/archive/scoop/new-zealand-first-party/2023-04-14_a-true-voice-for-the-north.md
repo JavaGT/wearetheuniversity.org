@@ -1,9 +1,11 @@
 ---
 slug: a-true-voice-for-the-north
-title: "‘A True Voice For The North’"
-date: 2023-04-14
+title: ‘A True Voice For The North’
+date: 2023-04-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2304/S00089/a-true-voice-for-the-north.htm
 author: new-zealand-first-party
+permalink: /archive/2023/04/14/a-true-voice-for-the-north/index.html
+layout: layout.njk
 ---
 ‘A True Voice For The North’
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: labour-selects-ilam-candidate
-title: "Labour Selects Ilam Candidate"
-date: 2007-12-17
-source-url: https://www.scoop.co.nz/stories/PO0712/S00201/labour-selects-ilam-candidate.htm
+title: Labour Selects Ilam Candidate
+date: 2007-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0712/S00201/labour-selects-ilam-candidate.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/12/17/labour-selects-ilam-candidate/index.html
+layout: layout.njk
 ---
 Labour Selects Ilam Candidate
 =============================

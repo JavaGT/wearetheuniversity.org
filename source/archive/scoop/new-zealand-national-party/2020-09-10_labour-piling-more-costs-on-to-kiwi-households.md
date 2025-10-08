@@ -1,9 +1,12 @@
 ---
 slug: labour-piling-more-costs-on-to-kiwi-households
-title: "Labour Piling More Costs On To Kiwi Households"
-date: 2020-09-10
-source-url: https://www.scoop.co.nz/stories/PA2009/S00089/labour-piling-more-costs-on-to-kiwi-households.htm
+title: Labour Piling More Costs On To Kiwi Households
+date: 2020-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00089/labour-piling-more-costs-on-to-kiwi-households.htm
 author: new-zealand-national-party
+permalink: /archive/2020/09/10/labour-piling-more-costs-on-to-kiwi-households/index.html
+layout: layout.njk
 ---
 Labour Piling More Costs On To Kiwi Households
 ==============================================

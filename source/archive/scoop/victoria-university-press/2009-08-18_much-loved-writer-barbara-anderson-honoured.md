@@ -1,9 +1,12 @@
 ---
 slug: much-loved-writer-barbara-anderson-honoured
-title: "Much-Loved Writer Barbara Anderson Honoured"
-date: 2009-08-18
-source-url: https://www.scoop.co.nz/stories/ED0908/S00058/much-loved-writer-barbara-anderson-honoured.htm
+title: Much-Loved Writer Barbara Anderson Honoured
+date: 2009-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00058/much-loved-writer-barbara-anderson-honoured.htm
 author: victoria-university-press
+permalink: /archive/2009/08/18/much-loved-writer-barbara-anderson-honoured/index.html
+layout: layout.njk
 ---
 Much-Loved Writer Barbara Anderson Honoured
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-joins-the-top-of-the-class
-title: "Labour joins the top of the class"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/ED0810/S00039/labour-joins-the-top-of-the-class.htm
+title: Labour joins the top of the class
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00039/labour-joins-the-top-of-the-class.htm
 author: auckland-university-students-association
+permalink: /archive/2008/10/13/labour-joins-the-top-of-the-class/index.html
+layout: layout.njk
 ---
 Labour joins the top of the class
 =================================

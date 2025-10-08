@@ -1,9 +1,12 @@
 ---
 slug: change-of-government-and-direction
-title: "Change Of Government AND Direction"
-date: 2008-07-07
-source-url: https://www.scoop.co.nz/stories/PA0807/S00140/change-of-government-and-direction.htm
+title: Change Of Government AND Direction
+date: 2008-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00140/change-of-government-and-direction.htm
 author: act-new-zealand
+permalink: /archive/2008/07/07/change-of-government-and-direction/index.html
+layout: layout.njk
 ---
 Change Of Government AND Direction
 ==================================

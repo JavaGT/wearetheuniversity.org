@@ -1,9 +1,12 @@
 ---
 slug: uc-hosts-women-in-finance-panel-discussion
-title: "UC hosts Women in Finance panel discussion"
-date: 2018-04-27
-source-url: https://www.scoop.co.nz/stories/ED1804/S00062/uc-hosts-women-in-finance-panel-discussion.htm
+title: UC hosts Women in Finance panel discussion
+date: 2018-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00062/uc-hosts-women-in-finance-panel-discussion.htm
 author: university-of-canterbury
+permalink: /archive/2018/04/27/uc-hosts-women-in-finance-panel-discussion/index.html
+layout: layout.njk
 ---
 UC hosts Women in Finance panel discussion
 ==========================================

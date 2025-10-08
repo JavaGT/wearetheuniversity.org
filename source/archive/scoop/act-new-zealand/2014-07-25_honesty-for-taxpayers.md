@@ -1,9 +1,11 @@
 ---
 slug: honesty-for-taxpayers
-title: "Honesty for Taxpayers"
-date: 2014-07-25
+title: Honesty for Taxpayers
+date: 2014-07-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1407/S00404/honesty-for-taxpayers.htm
 author: act-new-zealand
+permalink: /archive/2014/07/25/honesty-for-taxpayers/index.html
+layout: layout.njk
 ---
 Honesty for Taxpayers
 =====================

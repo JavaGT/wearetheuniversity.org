@@ -1,9 +1,12 @@
 ---
 slug: government-letting-trade-trump-human-rights
-title: "Government  letting trade trump human rights"
-date: 2014-05-18
-source-url: https://www.scoop.co.nz/stories/PA1405/S00341/government-letting-trade-trump-human-rights.htm
+title: Government  letting trade trump human rights
+date: 2014-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00341/government-letting-trade-trump-human-rights.htm
 author: green-party
+permalink: /archive/2014/05/18/government-letting-trade-trump-human-rights/index.html
+layout: layout.njk
 ---
 Government letting trade trump human rights
 ===========================================

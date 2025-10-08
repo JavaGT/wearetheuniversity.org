@@ -1,9 +1,13 @@
 ---
 slug: government-rushing-full-speed-ahead-on-charter-schools
-title: "Government rushing full speed ahead on charter schools"
-date: 2011-12-22
-source-url: https://www.scoop.co.nz/stories/PO1112/S00275/government-rushing-full-speed-ahead-on-charter-schools.htm
+title: Government rushing full speed ahead on charter schools
+date: 2011-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1112/S00275/government-rushing-full-speed-ahead-on-charter-schools.htm
 author: nzei
+permalink: >-
+  /archive/2011/12/22/government-rushing-full-speed-ahead-on-charter-schools/index.html
+layout: layout.njk
 ---
 Government rushing full speed ahead on charter schools
 ======================================================

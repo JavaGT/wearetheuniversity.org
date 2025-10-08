@@ -1,9 +1,12 @@
 ---
 slug: labour-leader-chris-hipkins-bloomberg-address
-title: "Labour Leader Chris Hipkins’ Bloomberg Address"
-date: 2023-09-06
-source-url: https://www.scoop.co.nz/stories/PA2309/S00034/labour-leader-chris-hipkins-bloomberg-address.htm
+title: Labour Leader Chris Hipkins’ Bloomberg Address
+date: 2023-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00034/labour-leader-chris-hipkins-bloomberg-address.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/09/06/labour-leader-chris-hipkins-bloomberg-address/index.html
+layout: layout.njk
 ---
 Labour Leader Chris Hipkins’ Bloomberg Address
 ==============================================

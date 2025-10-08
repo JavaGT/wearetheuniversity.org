@@ -1,9 +1,13 @@
 ---
 slug: labour-will-provide-a-million-dollars-for-maniototo-hospital
-title: "Labour will provide a million dollars for Maniototo Hospital"
-date: 2017-07-14
-source-url: https://www.scoop.co.nz/stories/PA1707/S00211/labour-will-provide-a-million-dollars-for-maniototo-hospital.htm
+title: Labour will provide a million dollars for Maniototo Hospital
+date: 2017-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00211/labour-will-provide-a-million-dollars-for-maniototo-hospital.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/07/14/labour-will-provide-a-million-dollars-for-maniototo-hospital/index.html
+layout: layout.njk
 ---
 Labour will provide a million dollars for Maniototo Hospital
 ============================================================

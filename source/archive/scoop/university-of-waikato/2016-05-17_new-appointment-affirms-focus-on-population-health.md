@@ -1,9 +1,13 @@
 ---
 slug: new-appointment-affirms-focus-on-population-health
-title: "New appointment affirms focus on population health"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/ED1605/S00071/new-appointment-affirms-focus-on-population-health.htm
+title: New appointment affirms focus on population health
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00071/new-appointment-affirms-focus-on-population-health.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/05/17/new-appointment-affirms-focus-on-population-health/index.html
+layout: layout.njk
 ---
 New appointment affirms focus on population health
 ==================================================

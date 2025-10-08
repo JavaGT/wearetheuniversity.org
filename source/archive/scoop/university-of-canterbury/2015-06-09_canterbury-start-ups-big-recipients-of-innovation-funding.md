@@ -1,9 +1,13 @@
 ---
 slug: canterbury-start-ups-big-recipients-of-innovation-funding
-title: "Canterbury start-ups big recipients of innovation funding"
-date: 2015-06-09
-source-url: https://www.scoop.co.nz/stories/SC1506/S00043/canterbury-start-ups-big-recipients-of-innovation-funding.htm
+title: Canterbury start-ups big recipients of innovation funding
+date: 2015-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00043/canterbury-start-ups-big-recipients-of-innovation-funding.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/06/09/canterbury-start-ups-big-recipients-of-innovation-funding/index.html
+layout: layout.njk
 ---
 Canterbury start-ups big recipients of innovation funding
 =========================================================

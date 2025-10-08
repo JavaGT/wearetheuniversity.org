@@ -1,9 +1,12 @@
 ---
 slug: helen-kelly-speech-notes-labour-party-congress
-title: "Helen Kelly – Speech Notes Labour Party Congress"
-date: 2011-05-23
-source-url: https://www.scoop.co.nz/stories/PO1105/S00375/helen-kelly-speech-notes-labour-party-congress.htm
+title: Helen Kelly – Speech Notes Labour Party Congress
+date: 2011-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00375/helen-kelly-speech-notes-labour-party-congress.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/05/23/helen-kelly-speech-notes-labour-party-congress/index.html
+layout: layout.njk
 ---
 Helen Kelly – Speech Notes Labour Party Congress
 ================================================

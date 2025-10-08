@@ -1,9 +1,12 @@
 ---
 slug: answer-the-questions-dr-cullen
-title: "Answer the questions Dr Cullen..."
-date: 2002-07-23
-source-url: https://www.scoop.co.nz/stories/PA0207/S00616/answer-the-questions-dr-cullen.htm
+title: Answer the questions Dr Cullen...
+date: 2002-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00616/answer-the-questions-dr-cullen.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/23/answer-the-questions-dr-cullen/index.html
+layout: layout.njk
 ---
 Answer the questions Dr Cullen...
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: unemployment-figure-reporting-masks-real-issues
-title: "Unemployment figure reporting masks real issues"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/BU0907/S00518/unemployment-figure-reporting-masks-real-issues.htm
+title: Unemployment figure reporting masks real issues
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00518/unemployment-figure-reporting-masks-real-issues.htm
 author: aut-university
+permalink: /archive/2009/07/20/unemployment-figure-reporting-masks-real-issues/index.html
+layout: layout.njk
 ---
 Unemployment figure reporting masks real issues
 ===============================================

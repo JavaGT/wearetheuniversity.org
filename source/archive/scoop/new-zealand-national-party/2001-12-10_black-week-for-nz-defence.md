@@ -1,9 +1,11 @@
 ---
 slug: black-week-for-nz-defence
-title: "Black Week For NZ Defence"
-date: 2001-12-10
+title: Black Week For NZ Defence
+date: 2001-12-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0112/S00161/black-week-for-nz-defence.htm
 author: new-zealand-national-party
+permalink: /archive/2001/12/10/black-week-for-nz-defence/index.html
+layout: layout.njk
 ---
 Black Week For NZ Defence
 =========================

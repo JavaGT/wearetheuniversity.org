@@ -1,9 +1,12 @@
 ---
 slug: ncea-maharey-doesnt-want-responsibility
-title: "NCEA: Maharey doesn't want responsibility"
-date: 2005-11-02
-source-url: https://www.scoop.co.nz/stories/PA0511/S00031/ncea-maharey-doesnt-want-responsibility.htm
+title: 'NCEA: Maharey doesn''t want responsibility'
+date: 2005-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00031/ncea-maharey-doesnt-want-responsibility.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/02/ncea-maharey-doesnt-want-responsibility/index.html
+layout: layout.njk
 ---
 NCEA: Maharey doesn't want responsibility
 =========================================

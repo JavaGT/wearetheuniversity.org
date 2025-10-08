@@ -1,9 +1,13 @@
 ---
 slug: national-announces-boost-for-build-to-rent-housing
-title: "National Announces Boost For Build-to-Rent Housing"
-date: 2023-03-09
-source-url: https://www.scoop.co.nz/stories/PA2303/S00073/national-announces-boost-for-build-to-rent-housing.htm
+title: National Announces Boost For Build-to-Rent Housing
+date: 2023-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00073/national-announces-boost-for-build-to-rent-housing.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/09/national-announces-boost-for-build-to-rent-housing/index.html
+layout: layout.njk
 ---
 National Announces Boost For Build-to-Rent Housing
 ==================================================

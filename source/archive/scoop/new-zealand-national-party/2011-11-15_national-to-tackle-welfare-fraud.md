@@ -1,9 +1,12 @@
 ---
 slug: national-to-tackle-welfare-fraud
-title: "National to tackle welfare fraud"
-date: 2011-11-15
-source-url: https://www.scoop.co.nz/stories/PA1111/S00293/national-to-tackle-welfare-fraud.htm
+title: National to tackle welfare fraud
+date: 2011-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00293/national-to-tackle-welfare-fraud.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/15/national-to-tackle-welfare-fraud/index.html
+layout: layout.njk
 ---
 National to tackle welfare fraud
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: false-memories-and-end-of-life-treatment-decisions
-title: "False memories and end-of-life treatment decisions"
-date: 2008-04-30
-source-url: https://www.scoop.co.nz/stories/PO0804/S00451/false-memories-and-end-of-life-treatment-decisions.htm
+title: False memories and end-of-life treatment decisions
+date: 2008-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00451/false-memories-and-end-of-life-treatment-decisions.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2008/04/30/false-memories-and-end-of-life-treatment-decisions/index.html
+layout: layout.njk
 ---
 False memories and end-of-life treatment decisions
 ==================================================

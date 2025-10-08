@@ -1,9 +1,12 @@
 ---
 slug: myanmar-community-&-unions-join-for-auckland-may-day-rally
-title: "Myanmar Community & Unions Join For Auckland May Day Rally"
-date: 2021-04-30
-source-url: https://www.scoop.co.nz/stories/AK2104/S00520/myanmar-community-unions-join-for-auckland-may-day-rally.htm
+title: Myanmar Community & Unions Join For Auckland May Day Rally
+date: 2021-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2104/S00520/myanmar-community-unions-join-for-auckland-may-day-rally.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2021/04/30/myanmar-community-/index.html
+layout: layout.njk
 ---
 Myanmar Community & Unions Join For Auckland May Day Rally
 ==========================================================

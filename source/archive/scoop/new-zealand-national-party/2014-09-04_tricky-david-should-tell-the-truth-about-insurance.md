@@ -1,9 +1,13 @@
 ---
 slug: tricky-david-should-tell-the-truth-about-insurance
-title: "Tricky David should tell the truth about insurance"
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/PO1409/S00099/tricky-david-should-tell-the-truth-about-insurance.htm
+title: Tricky David should tell the truth about insurance
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00099/tricky-david-should-tell-the-truth-about-insurance.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/09/04/tricky-david-should-tell-the-truth-about-insurance/index.html
+layout: layout.njk
 ---
 Tricky David should tell the truth about insurance
 ==================================================

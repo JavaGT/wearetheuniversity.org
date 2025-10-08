@@ -1,9 +1,13 @@
 ---
 slug: international-report-national-standaid-concerns-valid
-title: "International report: National Standaid concerns valid"
-date: 2012-02-23
-source-url: https://www.scoop.co.nz/stories/ED1202/S00101/international-report-national-standaid-concerns-valid.htm
+title: 'International report: National Standaid concerns valid'
+date: 2012-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00101/international-report-national-standaid-concerns-valid.htm
 author: nzei
+permalink: >-
+  /archive/2012/02/23/international-report-national-standaid-concerns-valid/index.html
+layout: layout.njk
 ---
 International report: National Standaid concerns valid
 ======================================================

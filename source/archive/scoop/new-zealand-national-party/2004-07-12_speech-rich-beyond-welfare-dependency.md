@@ -1,9 +1,12 @@
 ---
 slug: speech-rich-beyond-welfare-dependency
-title: "Speech: Rich - Beyond welfare dependency"
-date: 2004-07-12
-source-url: https://www.scoop.co.nz/stories/PA0407/S00177/speech-rich-beyond-welfare-dependency.htm
+title: 'Speech: Rich - Beyond welfare dependency'
+date: 2004-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00177/speech-rich-beyond-welfare-dependency.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/12/speech-rich-beyond-welfare-dependency/index.html
+layout: layout.njk
 ---
 Speech: Rich - Beyond welfare dependency
 ========================================

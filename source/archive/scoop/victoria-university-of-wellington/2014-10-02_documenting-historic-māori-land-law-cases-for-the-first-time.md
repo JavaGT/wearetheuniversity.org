@@ -1,9 +1,12 @@
 ---
 slug: documenting-historic-māori-land-law-cases-for-the-first-time
-title: "Documenting historic Māori land law cases for the first time"
-date: 2014-10-02
-source-url: https://www.scoop.co.nz/stories/PO1410/S00020/documenting-historic-maori-land-law-cases-for-the-first-time.htm
+title: Documenting historic Māori land law cases for the first time
+date: 2014-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00020/documenting-historic-maori-land-law-cases-for-the-first-time.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/02/documenting-historic-m/index.html
+layout: layout.njk
 ---
 Documenting historic Māori land law cases for the first time
 ============================================================

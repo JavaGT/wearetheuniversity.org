@@ -1,9 +1,13 @@
 ---
 slug: gas-and-petroleum-decision-is-economic-vandalism
-title: "Gas and petroleum decision is economic vandalism"
-date: 2018-04-12
-source-url: https://www.scoop.co.nz/stories/PA1804/S00135/gas-and-petroleum-decision-is-economic-vandalism.htm
+title: Gas and petroleum decision is economic vandalism
+date: 2018-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00135/gas-and-petroleum-decision-is-economic-vandalism.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/04/12/gas-and-petroleum-decision-is-economic-vandalism/index.html
+layout: layout.njk
 ---
 Gas and petroleum decision is economic vandalism
 ================================================

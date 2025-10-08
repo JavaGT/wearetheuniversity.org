@@ -1,9 +1,12 @@
 ---
 slug: motel-bill-blows-out-as-nats-fail-to-deliver
-title: "Motel bill blows out as Nats fail to deliver"
-date: 2017-06-08
-source-url: https://www.scoop.co.nz/stories/PA1706/S00150/motel-bill-blows-out-as-nats-fail-to-deliver.htm
+title: Motel bill blows out as Nats fail to deliver
+date: 2017-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00150/motel-bill-blows-out-as-nats-fail-to-deliver.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/06/08/motel-bill-blows-out-as-nats-fail-to-deliver/index.html
+layout: layout.njk
 ---
 Motel bill blows out as Nats fail to deliver
 ============================================

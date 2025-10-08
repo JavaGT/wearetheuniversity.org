@@ -1,9 +1,13 @@
 ---
 slug: cowboy-capitalism-european-myths-american-reality
-title: "Cowboy Capitalism: European Myths-American Reality"
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/BU0507/S00244/cowboy-capitalism-european-myths-american-reality.htm
+title: 'Cowboy Capitalism: European Myths-American Reality'
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0507/S00244/cowboy-capitalism-european-myths-american-reality.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2005/07/18/cowboy-capitalism-european-myths-american-reality/index.html
+layout: layout.njk
 ---
 Cowboy Capitalism: European Myths-American Reality
 ==================================================

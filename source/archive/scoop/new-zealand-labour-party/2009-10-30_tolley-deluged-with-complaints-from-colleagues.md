@@ -1,9 +1,12 @@
 ---
 slug: tolley-deluged-with-complaints-from-colleagues
-title: "Tolley deluged with complaints from colleagues?"
-date: 2009-10-30
-source-url: https://www.scoop.co.nz/stories/PA0910/S00485/tolley-deluged-with-complaints-from-colleagues.htm
+title: Tolley deluged with complaints from colleagues?
+date: 2009-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00485/tolley-deluged-with-complaints-from-colleagues.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/30/tolley-deluged-with-complaints-from-colleagues/index.html
+layout: layout.njk
 ---
 Tolley deluged with complaints from colleagues?
 ===============================================

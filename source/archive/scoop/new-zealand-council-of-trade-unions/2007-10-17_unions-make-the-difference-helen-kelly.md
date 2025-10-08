@@ -1,9 +1,12 @@
 ---
 slug: unions-make-the-difference-helen-kelly
-title: "Unions Make The Difference - Helen Kelly"
-date: 2007-10-17
-source-url: https://www.scoop.co.nz/stories/PO0710/S00250/unions-make-the-difference-helen-kelly.htm
+title: Unions Make The Difference - Helen Kelly
+date: 2007-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0710/S00250/unions-make-the-difference-helen-kelly.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/10/17/unions-make-the-difference-helen-kelly/index.html
+layout: layout.njk
 ---
 Unions Make The Difference - Helen Kelly
 ========================================

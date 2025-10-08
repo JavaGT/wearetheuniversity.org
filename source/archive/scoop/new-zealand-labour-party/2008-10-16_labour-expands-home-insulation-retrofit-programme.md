@@ -1,9 +1,13 @@
 ---
 slug: labour-expands-home-insulation-retrofit-programme
-title: "Labour expands home insulation retrofit programme"
-date: 2008-10-16
-source-url: https://www.scoop.co.nz/stories/PA0810/S00371/labour-expands-home-insulation-retrofit-programme.htm
+title: Labour expands home insulation retrofit programme
+date: 2008-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00371/labour-expands-home-insulation-retrofit-programme.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2008/10/16/labour-expands-home-insulation-retrofit-programme/index.html
+layout: layout.njk
 ---
 Labour expands home insulation retrofit programme
 =================================================

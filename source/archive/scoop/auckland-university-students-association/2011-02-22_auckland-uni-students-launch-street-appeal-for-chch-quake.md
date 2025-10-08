@@ -1,9 +1,13 @@
 ---
 slug: auckland-uni-students-launch-street-appeal-for-chch-quake
-title: "Auckland Uni students launch street appeal for Chch Quake"
-date: 2011-02-22
-source-url: https://www.scoop.co.nz/stories/AK1102/S00762/auckland-uni-students-launch-street-appeal-for-chch-quake.htm
+title: Auckland Uni students launch street appeal for Chch Quake
+date: 2011-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S00762/auckland-uni-students-launch-street-appeal-for-chch-quake.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2011/02/22/auckland-uni-students-launch-street-appeal-for-chch-quake/index.html
+layout: layout.njk
 ---
 Auckland Uni students launch street appeal for Chch Quake
 =========================================================

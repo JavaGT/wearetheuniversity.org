@@ -1,9 +1,12 @@
 ---
 slug: nz-facing-serious-biosecurity-threat
-title: "NZ facing serious biosecurity threat"
-date: 2000-11-13
-source-url: https://www.scoop.co.nz/stories/PA0011/S00207/nz-facing-serious-biosecurity-threat.htm
+title: NZ facing serious biosecurity threat
+date: 2000-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00207/nz-facing-serious-biosecurity-threat.htm
 author: green-party
+permalink: /archive/2000/11/13/nz-facing-serious-biosecurity-threat/index.html
+layout: layout.njk
 ---
 NZ facing serious biosecurity threat
 ====================================

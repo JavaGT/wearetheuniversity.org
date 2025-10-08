@@ -1,9 +1,13 @@
 ---
 slug: country-saved-from-nationals-loony-animal-manure-imports
-title: "Country Saved From National’s Loony Animal Manure Imports"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/PA1708/S00215/country-saved-from-nationals-loony-animal-manure-imports.htm
+title: Country Saved From National’s Loony Animal Manure Imports
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00215/country-saved-from-nationals-loony-animal-manure-imports.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/10/country-saved-from-nationals-loony-animal-manure-imports/index.html
+layout: layout.njk
 ---
 Country Saved From National’s Loony Animal Manure Imports
 =========================================================

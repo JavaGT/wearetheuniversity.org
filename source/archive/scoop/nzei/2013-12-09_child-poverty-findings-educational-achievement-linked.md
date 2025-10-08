@@ -1,9 +1,13 @@
 ---
 slug: child-poverty-findings-educational-achievement-linked
-title: "Child poverty findings, educational achievement linked"
-date: 2013-12-09
-source-url: https://www.scoop.co.nz/stories/ED1312/S00058/child-poverty-findings-educational-achievement-linked.htm
+title: Child poverty findings, educational achievement linked
+date: 2013-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00058/child-poverty-findings-educational-achievement-linked.htm
 author: nzei
+permalink: >-
+  /archive/2013/12/09/child-poverty-findings-educational-achievement-linked/index.html
+layout: layout.njk
 ---
 Child poverty findings, educational achievement linked
 ======================================================

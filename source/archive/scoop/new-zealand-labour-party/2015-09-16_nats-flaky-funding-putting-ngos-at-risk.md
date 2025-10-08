@@ -1,9 +1,12 @@
 ---
 slug: nats-flaky-funding-putting-ngos-at-risk
-title: "Nats flaky funding putting NGOs at risk"
-date: 2015-09-16
-source-url: https://www.scoop.co.nz/stories/PA1509/S00277/nats-flaky-funding-putting-ngos-at-risk.htm
+title: Nats flaky funding putting NGOs at risk
+date: 2015-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00277/nats-flaky-funding-putting-ngos-at-risk.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/16/nats-flaky-funding-putting-ngos-at-risk/index.html
+layout: layout.njk
 ---
 Nats flaky funding putting NGOs at risk
 =======================================

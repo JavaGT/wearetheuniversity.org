@@ -1,9 +1,12 @@
 ---
 slug: peters-address-to-grey-power-meeting-hapai-club
-title: "Peters - Address to Grey Power Meeting Hapai Club"
-date: 2005-03-16
-source-url: https://www.scoop.co.nz/stories/PA0503/S00344/peters-address-to-grey-power-meeting-hapai-club.htm
+title: Peters - Address to Grey Power Meeting Hapai Club
+date: 2005-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00344/peters-address-to-grey-power-meeting-hapai-club.htm
 author: new-zealand-first-party
+permalink: /archive/2005/03/16/peters-address-to-grey-power-meeting-hapai-club/index.html
+layout: layout.njk
 ---
 Peters - Address to Grey Power Meeting Hapai Club
 =================================================

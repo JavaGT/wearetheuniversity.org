@@ -1,9 +1,12 @@
 ---
 slug: prisoners-compensation-insult-to-armed-forces
-title: "Prisoners' Compensation Insult To Armed Forces"
-date: 2004-09-21
-source-url: https://www.scoop.co.nz/stories/PA0409/S00444/prisoners-compensation-insult-to-armed-forces.htm
+title: Prisoners' Compensation Insult To Armed Forces
+date: 2004-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00444/prisoners-compensation-insult-to-armed-forces.htm
 author: act-new-zealand
+permalink: /archive/2004/09/21/prisoners-compensation-insult-to-armed-forces/index.html
+layout: layout.njk
 ---
 Prisoners' Compensation Insult To Armed Forces
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: state-sanctioned-plunder-of-fisheries
-title: "State sanctioned plunder of fisheries"
-date: 2004-03-09
-source-url: https://www.scoop.co.nz/stories/PA0403/S00201/state-sanctioned-plunder-of-fisheries.htm
+title: State sanctioned plunder of fisheries
+date: 2004-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00201/state-sanctioned-plunder-of-fisheries.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/09/state-sanctioned-plunder-of-fisheries/index.html
+layout: layout.njk
 ---
 State sanctioned plunder of fisheries
 =====================================

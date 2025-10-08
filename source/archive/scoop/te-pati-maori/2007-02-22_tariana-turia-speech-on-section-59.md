@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-speech-on-section-59
-title: "Tariana Turia Speech On Section 59"
-date: 2007-02-22
-source-url: https://www.scoop.co.nz/stories/PA0702/S00403/tariana-turia-speech-on-section-59.htm
+title: Tariana Turia Speech On Section 59
+date: 2007-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00403/tariana-turia-speech-on-section-59.htm
 author: te-pati-maori
+permalink: /archive/2007/02/22/tariana-turia-speech-on-section-59/index.html
+layout: layout.njk
 ---
 Tariana Turia Speech On Section 59
 ==================================

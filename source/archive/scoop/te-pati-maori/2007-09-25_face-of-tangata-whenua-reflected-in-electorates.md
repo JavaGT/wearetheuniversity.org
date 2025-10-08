@@ -1,9 +1,12 @@
 ---
 slug: face-of-tangata-whenua-reflected-in-electorates
-title: "Face of Tangata Whenua reflected in Electorates"
-date: 2007-09-25
-source-url: https://www.scoop.co.nz/stories/PA0709/S00449/face-of-tangata-whenua-reflected-in-electorates.htm
+title: Face of Tangata Whenua reflected in Electorates
+date: 2007-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00449/face-of-tangata-whenua-reflected-in-electorates.htm
 author: te-pati-maori
+permalink: /archive/2007/09/25/face-of-tangata-whenua-reflected-in-electorates/index.html
+layout: layout.njk
 ---
 Face of Tangata Whenua reflected in Electorates
 ===============================================

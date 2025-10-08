@@ -1,9 +1,12 @@
 ---
 slug: new-treatments-for-neurological-disorders
-title: "New treatments for neurological disorders"
-date: 2005-11-01
-source-url: https://www.scoop.co.nz/stories/ED0511/S00005/new-treatments-for-neurological-disorders.htm
+title: New treatments for neurological disorders
+date: 2005-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00005/new-treatments-for-neurological-disorders.htm
 author: university-of-otago
+permalink: /archive/2005/11/01/new-treatments-for-neurological-disorders/index.html
+layout: layout.njk
 ---
 New treatments for neurological disorders
 =========================================

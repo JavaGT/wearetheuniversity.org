@@ -1,9 +1,11 @@
 ---
 slug: island-tourism
-title: "Island Tourism."
-date: 2004-12-22
+title: Island Tourism.
+date: 2004-12-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0412/S00356/island-tourism.htm
 author: aut-university
+permalink: /archive/2004/12/22/island-tourism/index.html
+layout: layout.njk
 ---
 Island Tourism.
 ===============

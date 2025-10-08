@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-press-finalists-at-nz-post-book-awards
-title: "Victoria University Press finalists at NZ Post Book Awards"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/CU1407/S00359/victoria-university-press-finalists-at-nz-post-book-awards.htm
+title: Victoria University Press finalists at NZ Post Book Awards
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00359/victoria-university-press-finalists-at-nz-post-book-awards.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/07/23/victoria-university-press-finalists-at-nz-post-book-awards/index.html
+layout: layout.njk
 ---
 Victoria University Press finalists at NZ Post Book Awards
 ==========================================================

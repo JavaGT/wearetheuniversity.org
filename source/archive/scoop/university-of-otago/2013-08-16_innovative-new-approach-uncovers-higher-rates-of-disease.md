@@ -1,9 +1,13 @@
 ---
 slug: innovative-new-approach-uncovers-higher-rates-of-disease
-title: "Innovative new approach uncovers higher rates of disease"
-date: 2013-08-16
-source-url: https://www.scoop.co.nz/stories/SC1308/S00037/innovative-new-approach-uncovers-higher-rates-of-disease.htm
+title: Innovative new approach uncovers higher rates of disease
+date: 2013-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00037/innovative-new-approach-uncovers-higher-rates-of-disease.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/08/16/innovative-new-approach-uncovers-higher-rates-of-disease/index.html
+layout: layout.njk
 ---
 Innovative new approach uncovers higher rates of disease
 ========================================================

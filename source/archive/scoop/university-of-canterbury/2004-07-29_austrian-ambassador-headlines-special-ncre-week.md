@@ -1,9 +1,12 @@
 ---
 slug: austrian-ambassador-headlines-special-ncre-week
-title: "Austrian Ambassador Headlines Special NCRE Week"
-date: 2004-07-29
-source-url: https://www.scoop.co.nz/stories/ED0407/S00080/austrian-ambassador-headlines-special-ncre-week.htm
+title: Austrian Ambassador Headlines Special NCRE Week
+date: 2004-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00080/austrian-ambassador-headlines-special-ncre-week.htm
 author: university-of-canterbury
+permalink: /archive/2004/07/29/austrian-ambassador-headlines-special-ncre-week/index.html
+layout: layout.njk
 ---
 Austrian Ambassador Headlines Special NCRE Week
 ===============================================

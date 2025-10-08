@@ -1,9 +1,13 @@
 ---
 slug: asian-disaster-specialists-to-learn-from-christchurch-quakes
-title: "Asian disaster specialists to learn from Christchurch quakes"
-date: 2014-03-12
-source-url: https://www.scoop.co.nz/stories/AK1403/S00308/asian-disaster-specialists-to-learn-from-christchurch-quakes.htm
+title: Asian disaster specialists to learn from Christchurch quakes
+date: 2014-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00308/asian-disaster-specialists-to-learn-from-christchurch-quakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/12/asian-disaster-specialists-to-learn-from-christchurch-quakes/index.html
+layout: layout.njk
 ---
 Asian disaster specialists to learn from Christchurch quakes
 ============================================================

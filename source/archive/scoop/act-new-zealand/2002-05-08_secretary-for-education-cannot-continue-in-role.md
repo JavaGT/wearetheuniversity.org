@@ -1,9 +1,12 @@
 ---
 slug: secretary-for-education-cannot-continue-in-role
-title: "Secretary For Education Cannot Continue In Role"
-date: 2002-05-08
-source-url: https://www.scoop.co.nz/stories/PA0205/S00171/secretary-for-education-cannot-continue-in-role.htm
+title: Secretary For Education Cannot Continue In Role
+date: 2002-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00171/secretary-for-education-cannot-continue-in-role.htm
 author: act-new-zealand
+permalink: /archive/2002/05/08/secretary-for-education-cannot-continue-in-role/index.html
+layout: layout.njk
 ---
 Secretary For Education Cannot Continue In Role
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-$500000-dioxin-budget-initiative
-title: "Greens Welcome $500,000 Dioxin Budget Initiative"
-date: 2001-12-12
-source-url: https://www.scoop.co.nz/stories/PA0112/S00227/greens-welcome-500000-dioxin-budget-initiative.htm
+title: Greens Welcome $500,000 Dioxin Budget Initiative
+date: 2001-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00227/greens-welcome-500000-dioxin-budget-initiative.htm
 author: green-party
+permalink: /archive/2001/12/12/greens-welcome-/index.html
+layout: layout.njk
 ---
 Greens Welcome $500,000 Dioxin Budget Initiative
 ================================================

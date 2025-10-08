@@ -1,9 +1,12 @@
 ---
 slug: bigger-student-loans-driving-graduates-overseas
-title: "Bigger Student Loans Driving  Graduates Overseas"
-date: 2002-12-10
-source-url: https://www.scoop.co.nz/stories/ED0212/S00021/bigger-student-loans-driving-graduates-overseas.htm
+title: Bigger Student Loans Driving  Graduates Overseas
+date: 2002-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00021/bigger-student-loans-driving-graduates-overseas.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/12/10/bigger-student-loans-driving-graduates-overseas/index.html
+layout: layout.njk
 ---
 Bigger Student Loans Driving Graduates Overseas
 ===============================================

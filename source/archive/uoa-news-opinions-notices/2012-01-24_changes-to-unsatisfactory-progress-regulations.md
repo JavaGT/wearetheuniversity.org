@@ -1,8 +1,11 @@
 ---
 slug: changes-to-unsatisfactory-progress-regulations
-title: "Changes to Unsatisfactory Progress Regulations"
-date: 2012-01-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/01/24/Changes-to-Unsatisfactory-Progress-Regulations.html
+title: Changes to Unsatisfactory Progress Regulations
+date: 2012-01-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/01/24/Changes-to-Unsatisfactory-Progress-Regulations.html
+permalink: /archive/2012/01/24/changes-to-unsatisfactory-progress-regulations/index.html
+layout: layout.njk
 ---
 Changes to Unsatisfactory Progress Regulations
 ==============================================

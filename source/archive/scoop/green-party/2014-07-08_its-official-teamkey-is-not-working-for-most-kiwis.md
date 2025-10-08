@@ -1,9 +1,13 @@
 ---
 slug: its-official-teamkey-is-not-working-for-most-kiwis
-title: "Its official - Teamkey is not working for most kiwis"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/PA1407/S00163/its-official-teamkey-is-not-working-for-most-kiwis.htm
+title: Its official - Teamkey is not working for most kiwis
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00163/its-official-teamkey-is-not-working-for-most-kiwis.htm
 author: green-party
+permalink: >-
+  /archive/2014/07/08/its-official-teamkey-is-not-working-for-most-kiwis/index.html
+layout: layout.njk
 ---
 Its official - Teamkey is not working for most kiwis
 ====================================================

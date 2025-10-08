@@ -1,9 +1,12 @@
 ---
 slug: the-burden-on-students-brian-easton-debt-summit
-title: "The Burden On Students - Brian Easton Debt Summit"
-date: 2002-07-23
-source-url: https://www.scoop.co.nz/stories/ED0207/S00058/the-burden-on-students-brian-easton-debt-summit.htm
+title: The Burden On Students - Brian Easton Debt Summit
+date: 2002-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00058/the-burden-on-students-brian-easton-debt-summit.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/23/the-burden-on-students-brian-easton-debt-summit/index.html
+layout: layout.njk
 ---
 The Burden On Students - Brian Easton Debt Summit
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: debate-urged-on-govts-heartless-tariff-plan
-title: "Debate urged on Govt's 'heartless' tariff plan"
-date: 2003-10-06
-source-url: https://www.scoop.co.nz/stories/PA0310/S00083/debate-urged-on-govts-heartless-tariff-plan.htm
+title: Debate urged on Govt's 'heartless' tariff plan
+date: 2003-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00083/debate-urged-on-govts-heartless-tariff-plan.htm
 author: green-party
+permalink: /archive/2003/10/06/debate-urged-on-govts-heartless-tariff-plan/index.html
+layout: layout.njk
 ---
 Debate urged on Govt's 'heartless' tariff plan
 ==============================================

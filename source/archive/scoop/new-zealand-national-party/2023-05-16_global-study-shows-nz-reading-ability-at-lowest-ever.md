@@ -1,9 +1,13 @@
 ---
 slug: global-study-shows-nz-reading-ability-at-lowest-ever
-title: "Global Study Shows NZ Reading Ability At Lowest Ever"
-date: 2023-05-16
-source-url: https://www.scoop.co.nz/stories/PA2305/S00106/global-study-shows-nz-reading-ability-at-lowest-ever.htm
+title: Global Study Shows NZ Reading Ability At Lowest Ever
+date: 2023-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00106/global-study-shows-nz-reading-ability-at-lowest-ever.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/05/16/global-study-shows-nz-reading-ability-at-lowest-ever/index.html
+layout: layout.njk
 ---
 Global Study Shows NZ Reading Ability At Lowest Ever
 ====================================================

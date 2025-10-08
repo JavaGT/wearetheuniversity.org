@@ -1,9 +1,13 @@
 ---
 slug: victoria-returns-seat-in-major-win-for-student-democracy
-title: "Victoria returns seat in major win for student democracy"
-date: 2013-12-03
-source-url: https://www.scoop.co.nz/stories/ED1312/S00016/victoria-returns-seat-in-major-win-for-student-democracy.htm
+title: Victoria returns seat in major win for student democracy
+date: 2013-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00016/victoria-returns-seat-in-major-win-for-student-democracy.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2013/12/03/victoria-returns-seat-in-major-win-for-student-democracy/index.html
+layout: layout.njk
 ---
 Victoria returns seat in major win for student democracy
 ========================================================

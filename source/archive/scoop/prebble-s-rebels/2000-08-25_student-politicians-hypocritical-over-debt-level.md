@@ -1,9 +1,13 @@
 ---
 slug: student-politicians-hypocritical-over-debt-level
-title: "Student Politicians Hypocritical Over Debt Level"
-date: 2000-08-25
-source-url: https://www.scoop.co.nz/stories/ED0008/S00047/student-politicians-hypocritical-over-debt-level.htm
+title: Student Politicians Hypocritical Over Debt Level
+date: 2000-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00047/student-politicians-hypocritical-over-debt-level.htm
 author: prebble-s-rebels
+permalink: >-
+  /archive/2000/08/25/student-politicians-hypocritical-over-debt-level/index.html
+layout: layout.njk
 ---
 Student Politicians Hypocritical Over Debt Level
 ================================================

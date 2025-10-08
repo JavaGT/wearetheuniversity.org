@@ -1,9 +1,13 @@
 ---
 slug: book-investigates-why-some-humans-want-to-kill-themselves
-title: "Book investigates why some humans want to kill themselves"
-date: 2018-09-21
-source-url: https://www.scoop.co.nz/stories/GE1809/S00075/book-investigates-why-some-humans-want-to-kill-themselves.htm
+title: Book investigates why some humans want to kill themselves
+date: 2018-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00075/book-investigates-why-some-humans-want-to-kill-themselves.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/21/book-investigates-why-some-humans-want-to-kill-themselves/index.html
+layout: layout.njk
 ---
 Book investigates why some humans want to kill themselves
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: maternity-diabetes-and-mental-health-boost-in-nationals-plan
-title: "Maternity, Diabetes And Mental Health Boost In National’s Plan"
-date: 2023-10-03
-source-url: https://www.scoop.co.nz/stories/PA2310/S00019/maternity-diabetes-and-mental-health-boost-in-nationals-plan.htm
+title: Maternity, Diabetes And Mental Health Boost In National’s Plan
+date: 2023-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00019/maternity-diabetes-and-mental-health-boost-in-nationals-plan.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/10/03/maternity-diabetes-and-mental-health-boost-in-nationals-plan/index.html
+layout: layout.njk
 ---
 Maternity, Diabetes And Mental Health Boost In National’s Plan
 ==============================================================

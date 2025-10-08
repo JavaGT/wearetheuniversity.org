@@ -1,9 +1,12 @@
 ---
 slug: complaints-over-resthome-care-raise-concerns
-title: "Complaints Over Resthome Care Raise Concerns"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/PA1402/S00254/complaints-over-resthome-care-raise-concerns.htm
+title: Complaints Over Resthome Care Raise Concerns
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00254/complaints-over-resthome-care-raise-concerns.htm
 author: new-zealand-first-party
+permalink: /archive/2014/02/20/complaints-over-resthome-care-raise-concerns/index.html
+layout: layout.njk
 ---
 Complaints Over Resthome Care Raise Concerns
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: press-release-a-fair-deal-for-everyone
-title: "Press Release: A Fair Deal for Everyone"
-date: 2011-01-25
-source-url: https://www.scoop.co.nz/stories/PA1101/S00081/press-release-a-fair-deal-for-everyone.htm
+title: 'Press Release: A Fair Deal for Everyone'
+date: 2011-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00081/press-release-a-fair-deal-for-everyone.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/25/press-release-a-fair-deal-for-everyone/index.html
+layout: layout.njk
 ---
 Press Release: A Fair Deal for Everyone
 =======================================

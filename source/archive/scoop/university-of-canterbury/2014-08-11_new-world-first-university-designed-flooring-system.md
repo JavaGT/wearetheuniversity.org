@@ -1,9 +1,13 @@
 ---
 slug: new-world-first-university-designed-flooring-system
-title: "New world first university-designed flooring system"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/ED1408/S00055/new-world-first-university-designed-flooring-system.htm
+title: New world first university-designed flooring system
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00055/new-world-first-university-designed-flooring-system.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/11/new-world-first-university-designed-flooring-system/index.html
+layout: layout.njk
 ---
 New world first university-designed flooring system
 ===================================================

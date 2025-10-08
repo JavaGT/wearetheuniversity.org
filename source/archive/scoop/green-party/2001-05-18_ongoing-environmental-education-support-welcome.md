@@ -1,9 +1,12 @@
 ---
 slug: ongoing-environmental-education-support-welcome
-title: "Ongoing  Environmental Education Support Welcome"
-date: 2001-05-18
-source-url: https://www.scoop.co.nz/stories/PA0105/S00374/ongoing-environmental-education-support-welcome.htm
+title: Ongoing  Environmental Education Support Welcome
+date: 2001-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00374/ongoing-environmental-education-support-welcome.htm
 author: green-party
+permalink: /archive/2001/05/18/ongoing-environmental-education-support-welcome/index.html
+layout: layout.njk
 ---
 Ongoing Environmental Education Support Welcome
 ===============================================

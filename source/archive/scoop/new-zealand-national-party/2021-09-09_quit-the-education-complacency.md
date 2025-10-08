@@ -1,9 +1,12 @@
 ---
 slug: quit-the-education-complacency
-title: "Quit the education complacency"
-date: 2021-09-09
-source-url: https://www.scoop.co.nz/stories/PA2109/S00090/quit-the-education-complacency.htm
+title: Quit the education complacency
+date: 2021-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00090/quit-the-education-complacency.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/09/quit-the-education-complacency/index.html
+layout: layout.njk
 ---
 Quit the education complacency
 ==============================

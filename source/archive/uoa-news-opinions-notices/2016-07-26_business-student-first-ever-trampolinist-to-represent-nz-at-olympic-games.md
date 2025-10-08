@@ -1,8 +1,12 @@
 ---
 slug: business-student-first-ever-trampolinist-to-represent-nz-at-olympic-games
-title: "Business student first ever trampolinist to represent NZ at Olympic Games"
-date: 2016-07-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/business-student-trampolinist-represent-nz-olympic-games.html
+title: Business student first ever trampolinist to represent NZ at Olympic Games
+date: 2016-07-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/business-student-trampolinist-represent-nz-olympic-games.html
+permalink: >-
+  /archive/2016/07/26/business-student-first-ever-trampolinist-to-represent-nz-at-olympic-games/index.html
+layout: layout.njk
 ---
 Business student first ever trampolinist to represent NZ at Olympic Games
 =========================================================================

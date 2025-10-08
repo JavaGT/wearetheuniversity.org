@@ -1,9 +1,11 @@
 ---
 slug: what-of-the-real-culprits
-title: "\"What of the real culprits\""
-date: 2011-08-17
+title: '"What of the real culprits"'
+date: 2011-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1108/S00234/what-of-the-real-culprits.htm
 author: new-zealand-first-party
+permalink: /archive/2011/08/17/what-of-the-real-culprits/index.html
+layout: layout.njk
 ---
 “What of the real culprits”
 ===========================

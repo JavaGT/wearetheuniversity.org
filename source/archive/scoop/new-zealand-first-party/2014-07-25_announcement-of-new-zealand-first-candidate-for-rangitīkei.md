@@ -1,9 +1,13 @@
 ---
 slug: announcement-of-new-zealand-first-candidate-for-rangitīkei
-title: "Announcement of New Zealand First Candidate for Rangitīkei"
-date: 2014-07-25
-source-url: https://www.scoop.co.nz/stories/PO1407/S00427/announcement-of-new-zealand-first-candidate-for-rangitikei.htm
+title: Announcement of New Zealand First Candidate for Rangitīkei
+date: 2014-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00427/announcement-of-new-zealand-first-candidate-for-rangitikei.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/07/25/announcement-of-new-zealand-first-candidate-for-rangit/index.html
+layout: layout.njk
 ---
 Announcement of New Zealand First Candidate for Rangitīkei
 ==========================================================

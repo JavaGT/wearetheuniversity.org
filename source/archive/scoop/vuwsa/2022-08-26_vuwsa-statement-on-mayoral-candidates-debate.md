@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-statement-on-mayoral-candidates-debate
-title: "VUWSA Statement On Mayoral Candidates’ Debate"
-date: 2022-08-26
-source-url: https://www.scoop.co.nz/stories/AK2208/S00522/vuwsa-statement-on-mayoral-candidates-debate.htm
+title: VUWSA Statement On Mayoral Candidates’ Debate
+date: 2022-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2208/S00522/vuwsa-statement-on-mayoral-candidates-debate.htm
 author: vuwsa
+permalink: /archive/2022/08/26/vuwsa-statement-on-mayoral-candidates-debate/index.html
+layout: layout.njk
 ---
 VUWSA Statement On Mayoral Candidates’ Debate
 =============================================

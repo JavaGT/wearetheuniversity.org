@@ -1,9 +1,12 @@
 ---
 slug: anxiety-overwork-and-credit-cards
-title: "Anxiety, overwork and credit cards"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/ED1508/S00055/anxiety-overwork-and-credit-cards.htm
+title: Anxiety, overwork and credit cards
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00055/anxiety-overwork-and-credit-cards.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/08/13/anxiety-overwork-and-credit-cards/index.html
+layout: layout.njk
 ---
 Anxiety, overwork and credit cards
 ==================================

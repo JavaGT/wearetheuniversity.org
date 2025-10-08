@@ -1,9 +1,11 @@
 ---
 slug: nzusa-supports-mmp
-title: "NZUSA supports MMP"
-date: 2011-11-15
+title: NZUSA supports MMP
+date: 2011-11-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1111/S00095/nzusa-supports-mmp.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/11/15/nzusa-supports-mmp/index.html
+layout: layout.njk
 ---
 NZUSA supports MMP
 ==================

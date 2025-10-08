@@ -1,9 +1,13 @@
 ---
 slug: hodgson-makes-pointless-threat-to-power-generators
-title: "Hodgson makes pointless threat to power generators"
-date: 2003-03-31
-source-url: https://www.scoop.co.nz/stories/PA0303/S00576/hodgson-makes-pointless-threat-to-power-generators.htm
+title: Hodgson makes pointless threat to power generators
+date: 2003-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00576/hodgson-makes-pointless-threat-to-power-generators.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/03/31/hodgson-makes-pointless-threat-to-power-generators/index.html
+layout: layout.njk
 ---
 Hodgson makes pointless threat to power generators
 ==================================================

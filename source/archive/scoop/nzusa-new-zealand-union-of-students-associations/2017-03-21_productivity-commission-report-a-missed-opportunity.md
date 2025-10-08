@@ -1,9 +1,13 @@
 ---
 slug: productivity-commission-report-a-missed-opportunity
-title: "Productivity Commission Report a Missed Opportunity"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/ED1703/S00079/productivity-commission-report-a-missed-opportunity.htm
+title: Productivity Commission Report a Missed Opportunity
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00079/productivity-commission-report-a-missed-opportunity.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/03/21/productivity-commission-report-a-missed-opportunity/index.html
+layout: layout.njk
 ---
 Productivity Commission Report a Missed Opportunity
 ===================================================

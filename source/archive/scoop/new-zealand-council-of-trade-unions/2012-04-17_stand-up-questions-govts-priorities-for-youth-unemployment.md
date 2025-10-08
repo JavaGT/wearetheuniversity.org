@@ -1,9 +1,13 @@
 ---
 slug: stand-up-questions-govts-priorities-for-youth-unemployment
-title: "Stand Up questions govt’s priorities for youth unemployment"
-date: 2012-04-17
-source-url: https://www.scoop.co.nz/stories/PO1204/S00189/stand-up-questions-govts-priorities-for-youth-unemployment.htm
+title: Stand Up questions govt’s priorities for youth unemployment
+date: 2012-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1204/S00189/stand-up-questions-govts-priorities-for-youth-unemployment.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2012/04/17/stand-up-questions-govts-priorities-for-youth-unemployment/index.html
+layout: layout.njk
 ---
 Stand Up questions govt’s priorities for youth unemployment
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: cowards-punch-petition-accepted-at-parliament
-title: "Coward's punch petition accepted at Parliament"
-date: 2018-12-19
-source-url: https://www.scoop.co.nz/stories/PA1812/S00250/cowards-punch-petition-accepted-at-parliament.htm
+title: Coward's punch petition accepted at Parliament
+date: 2018-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00250/cowards-punch-petition-accepted-at-parliament.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/19/cowards-punch-petition-accepted-at-parliament/index.html
+layout: layout.njk
 ---
 Coward's punch petition accepted at Parliament
 ==============================================

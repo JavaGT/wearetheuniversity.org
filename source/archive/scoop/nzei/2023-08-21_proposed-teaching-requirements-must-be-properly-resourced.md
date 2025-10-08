@@ -1,9 +1,13 @@
 ---
 slug: proposed-teaching-requirements-must-be-properly-resourced
-title: "Proposed Teaching Requirements Must Be Properly Resourced"
-date: 2023-08-21
-source-url: https://www.scoop.co.nz/stories/ED2308/S00037/proposed-teaching-requirements-must-be-properly-resourced.htm
+title: Proposed Teaching Requirements Must Be Properly Resourced
+date: 2023-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00037/proposed-teaching-requirements-must-be-properly-resourced.htm
 author: nzei
+permalink: >-
+  /archive/2023/08/21/proposed-teaching-requirements-must-be-properly-resourced/index.html
+layout: layout.njk
 ---
 Proposed Teaching Requirements Must Be Properly Resourced
 =========================================================

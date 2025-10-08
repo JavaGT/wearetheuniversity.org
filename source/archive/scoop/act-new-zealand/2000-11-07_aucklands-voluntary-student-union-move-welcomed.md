@@ -1,9 +1,12 @@
 ---
 slug: aucklands-voluntary-student-union-move-welcomed
-title: "Auckland's Voluntary Student Union Move Welcomed"
-date: 2000-11-07
-source-url: https://www.scoop.co.nz/stories/PA0011/S00133/aucklands-voluntary-student-union-move-welcomed.htm
+title: Auckland's Voluntary Student Union Move Welcomed
+date: 2000-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00133/aucklands-voluntary-student-union-move-welcomed.htm
 author: act-new-zealand
+permalink: /archive/2000/11/07/aucklands-voluntary-student-union-move-welcomed/index.html
+layout: layout.njk
 ---
 Auckland's Voluntary Student Union Move Welcomed
 ================================================

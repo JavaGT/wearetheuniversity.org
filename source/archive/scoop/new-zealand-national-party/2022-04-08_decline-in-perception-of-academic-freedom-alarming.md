@@ -1,9 +1,13 @@
 ---
 slug: decline-in-perception-of-academic-freedom-alarming
-title: "Decline In Perception Of Academic Freedom Alarming"
-date: 2022-04-08
-source-url: https://www.scoop.co.nz/stories/PA2204/S00071/decline-in-perception-of-academic-freedom-alarming.htm
+title: Decline In Perception Of Academic Freedom Alarming
+date: 2022-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00071/decline-in-perception-of-academic-freedom-alarming.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/04/08/decline-in-perception-of-academic-freedom-alarming/index.html
+layout: layout.njk
 ---
 Decline In Perception Of Academic Freedom Alarming
 ==================================================

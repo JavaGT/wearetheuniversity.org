@@ -1,9 +1,12 @@
 ---
 slug: candidates-forum-on-youth-issues-tonight-4-oct
-title: "Candidates Forum On Youth Issues Tonight, 4 Oct"
-date: 2007-10-04
-source-url: https://www.scoop.co.nz/stories/AK0710/S00061/candidates-forum-on-youth-issues-tonight-4-oct.htm
+title: Candidates Forum On Youth Issues Tonight, 4 Oct
+date: 2007-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0710/S00061/candidates-forum-on-youth-issues-tonight-4-oct.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2007/10/04/candidates-forum-on-youth-issues-tonight-4-oct/index.html
+layout: layout.njk
 ---
 Candidates Forum On Youth Issues Tonight, 4 Oct
 ===============================================

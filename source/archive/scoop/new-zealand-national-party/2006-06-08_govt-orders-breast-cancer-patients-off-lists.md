@@ -1,9 +1,12 @@
 ---
 slug: govt-orders-breast-cancer-patients-off-lists
-title: "Govt orders breast cancer patients off lists"
-date: 2006-06-08
-source-url: https://www.scoop.co.nz/stories/PA0606/S00099/govt-orders-breast-cancer-patients-off-lists.htm
+title: Govt orders breast cancer patients off lists
+date: 2006-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00099/govt-orders-breast-cancer-patients-off-lists.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/08/govt-orders-breast-cancer-patients-off-lists/index.html
+layout: layout.njk
 ---
 Govt orders breast cancer patients off lists
 ============================================

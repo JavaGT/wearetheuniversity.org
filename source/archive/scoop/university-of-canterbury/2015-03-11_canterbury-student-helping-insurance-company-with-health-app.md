@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-helping-insurance-company-with-health-app
-title: "Canterbury student helping insurance company with health app"
-date: 2015-03-11
-source-url: https://www.scoop.co.nz/stories/ED1503/S00043/canterbury-student-helping-insurance-company-with-health-app.htm
+title: Canterbury student helping insurance company with health app
+date: 2015-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00043/canterbury-student-helping-insurance-company-with-health-app.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/11/canterbury-student-helping-insurance-company-with-health-app/index.html
+layout: layout.njk
 ---
 Canterbury student helping insurance company with health app
 ============================================================

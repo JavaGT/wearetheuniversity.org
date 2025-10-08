@@ -1,9 +1,11 @@
 ---
 slug: the-change-will-come-from-us
-title: "The Change will Come from Us"
-date: 2008-01-30
+title: The Change will Come from Us
+date: 2008-01-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0801/S00274/the-change-will-come-from-us.htm
 author: te-pati-maori
+permalink: /archive/2008/01/30/the-change-will-come-from-us/index.html
+layout: layout.njk
 ---
 The Change will Come from Us
 ============================

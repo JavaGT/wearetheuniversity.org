@@ -1,9 +1,13 @@
 ---
 slug: government-anti-local-government-and-anti-democracy
-title: "Government anti-local government and anti-democracy"
-date: 2012-10-29
-source-url: https://www.scoop.co.nz/stories/PA1210/S00483/government-anti-local-government-and-anti-democracy.htm
+title: Government anti-local government and anti-democracy
+date: 2012-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00483/government-anti-local-government-and-anti-democracy.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/29/government-anti-local-government-and-anti-democracy/index.html
+layout: layout.njk
 ---
 Government anti-local government and anti-democracy
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: ge-debate-dangerously-polarised-says-vic-lecturer
-title: "GE debate dangerously polarised, says Vic lecturer"
-date: 2002-11-11
-source-url: https://www.scoop.co.nz/stories/ED0211/S00024/ge-debate-dangerously-polarised-says-vic-lecturer.htm
+title: GE debate dangerously polarised, says Vic lecturer
+date: 2002-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00024/ge-debate-dangerously-polarised-says-vic-lecturer.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2002/11/11/ge-debate-dangerously-polarised-says-vic-lecturer/index.html
+layout: layout.njk
 ---
 GE debate dangerously polarised, says Vic lecturer
 ==================================================

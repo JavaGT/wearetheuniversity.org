@@ -1,9 +1,11 @@
 ---
 slug: no-to-youth-rates
-title: "No to Youth Rates"
-date: 2011-06-17
+title: No to Youth Rates
+date: 2011-06-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1106/S00200/no-to-youth-rates.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/06/17/no-to-youth-rates/index.html
+layout: layout.njk
 ---
 No to Youth Rates
 =================

@@ -1,9 +1,13 @@
 ---
 slug: national-selects-maggie-barry-as-north-shore-candidate
-title: "National Selects Maggie Barry as North Shore Candidate"
-date: 2011-05-12
-source-url: https://www.scoop.co.nz/stories/PO1105/S00154/national-selects-maggie-barry-as-north-shore-candidate.htm
+title: National Selects Maggie Barry as North Shore Candidate
+date: 2011-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00154/national-selects-maggie-barry-as-north-shore-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/05/12/national-selects-maggie-barry-as-north-shore-candidate/index.html
+layout: layout.njk
 ---
 National Selects Maggie Barry as North Shore Candidate
 ======================================================

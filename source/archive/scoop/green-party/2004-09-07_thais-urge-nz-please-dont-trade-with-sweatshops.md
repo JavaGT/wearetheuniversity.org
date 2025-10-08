@@ -1,9 +1,12 @@
 ---
 slug: thais-urge-nz-please-dont-trade-with-sweatshops
-title: "Thais urge NZ: please don’t trade with sweatshops"
-date: 2004-09-07
-source-url: https://www.scoop.co.nz/stories/PA0409/S00128/thais-urge-nz-please-dont-trade-with-sweatshops.htm
+title: 'Thais urge NZ: please don’t trade with sweatshops'
+date: 2004-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00128/thais-urge-nz-please-dont-trade-with-sweatshops.htm
 author: green-party
+permalink: /archive/2004/09/07/thais-urge-nz-please-dont-trade-with-sweatshops/index.html
+layout: layout.njk
 ---
 Thais urge NZ: please don’t trade with sweatshops
 =================================================

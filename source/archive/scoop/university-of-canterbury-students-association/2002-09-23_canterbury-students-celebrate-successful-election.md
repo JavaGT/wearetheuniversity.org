@@ -1,9 +1,13 @@
 ---
 slug: canterbury-students-celebrate-successful-election
-title: "Canterbury students celebrate successful election"
-date: 2002-09-23
-source-url: https://www.scoop.co.nz/stories/ED0209/S00043/canterbury-students-celebrate-successful-election.htm
+title: Canterbury students celebrate successful election
+date: 2002-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00043/canterbury-students-celebrate-successful-election.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2002/09/23/canterbury-students-celebrate-successful-election/index.html
+layout: layout.njk
 ---
 Canterbury students celebrate successful election
 =================================================

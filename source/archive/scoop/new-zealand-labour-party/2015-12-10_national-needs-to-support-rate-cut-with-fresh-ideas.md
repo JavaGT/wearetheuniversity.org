@@ -1,9 +1,13 @@
 ---
 slug: national-needs-to-support-rate-cut-with-fresh-ideas
-title: "National needs to support rate cut with fresh ideas"
-date: 2015-12-10
-source-url: https://www.scoop.co.nz/stories/PA1512/S00238/national-needs-to-support-rate-cut-with-fresh-ideas.htm
+title: National needs to support rate cut with fresh ideas
+date: 2015-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00238/national-needs-to-support-rate-cut-with-fresh-ideas.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/12/10/national-needs-to-support-rate-cut-with-fresh-ideas/index.html
+layout: layout.njk
 ---
 National needs to support rate cut with fresh ideas
 ===================================================

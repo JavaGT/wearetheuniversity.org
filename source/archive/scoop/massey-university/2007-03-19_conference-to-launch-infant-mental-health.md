@@ -1,9 +1,12 @@
 ---
 slug: conference-to-launch-infant-mental-health
-title: "Conference to launch infant mental health"
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/GE0703/S00058/conference-to-launch-infant-mental-health.htm
+title: Conference to launch infant mental health
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0703/S00058/conference-to-launch-infant-mental-health.htm
 author: massey-university
+permalink: /archive/2007/03/19/conference-to-launch-infant-mental-health/index.html
+layout: layout.njk
 ---
 Conference to launch infant mental health
 =========================================

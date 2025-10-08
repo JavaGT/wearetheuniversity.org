@@ -1,9 +1,13 @@
 ---
 slug: diets-flying-out-of-the-window-and-drinking-increasing
-title: "Diets flying out of the window and drinking increasing"
-date: 2012-11-07
-source-url: https://www.scoop.co.nz/stories/CU1211/S00126/diets-flying-out-of-the-window-and-drinking-increasing.htm
+title: Diets flying out of the window and drinking increasing
+date: 2012-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00126/diets-flying-out-of-the-window-and-drinking-increasing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/07/diets-flying-out-of-the-window-and-drinking-increasing/index.html
+layout: layout.njk
 ---
 Diets flying out of the window and drinking increasing
 ======================================================

@@ -1,9 +1,11 @@
 ---
 slug: ctu-wants-tax-change-now
-title: "CTU wants tax change now"
-date: 2005-12-13
+title: CTU wants tax change now
+date: 2005-12-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00193/ctu-wants-tax-change-now.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/13/ctu-wants-tax-change-now/index.html
+layout: layout.njk
 ---
 CTU wants tax change now
 ========================

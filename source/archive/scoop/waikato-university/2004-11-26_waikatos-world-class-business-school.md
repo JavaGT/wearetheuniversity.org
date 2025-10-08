@@ -1,9 +1,12 @@
 ---
 slug: waikatos-world-class-business-school
-title: "Waikato’s world-class business school"
-date: 2004-11-26
-source-url: https://www.scoop.co.nz/stories/BU0411/S00358/waikatos-world-class-business-school.htm
+title: Waikato’s world-class business school
+date: 2004-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0411/S00358/waikatos-world-class-business-school.htm
 author: waikato-university
+permalink: /archive/2004/11/26/waikatos-world-class-business-school/index.html
+layout: layout.njk
 ---
 Waikato’s world-class business school
 =====================================

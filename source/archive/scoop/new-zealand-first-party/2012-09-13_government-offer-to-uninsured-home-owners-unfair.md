@@ -1,9 +1,13 @@
 ---
 slug: government-offer-to-uninsured-home-owners-unfair
-title: "Government Offer to Uninsured Home Owners Unfair"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/PA1209/S00218/government-offer-to-uninsured-home-owners-unfair.htm
+title: Government Offer to Uninsured Home Owners Unfair
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00218/government-offer-to-uninsured-home-owners-unfair.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/09/13/government-offer-to-uninsured-home-owners-unfair/index.html
+layout: layout.njk
 ---
 Government Offer to Uninsured Home Owners Unfair
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: brash-speech-address-in-reply
-title: "Brash - Speech: Address-In-Reply"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/PA0502/S00021/brash-speech-address-in-reply.htm
+title: 'Brash - Speech: Address-In-Reply'
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00021/brash-speech-address-in-reply.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/01/brash-speech-address-in-reply/index.html
+layout: layout.njk
 ---
 Brash - Speech: Address-In-Reply
 ================================

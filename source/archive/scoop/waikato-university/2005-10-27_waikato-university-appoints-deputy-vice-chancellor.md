@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-appoints-deputy-vice-chancellor
-title: "Waikato University Appoints Deputy Vice-Chancellor"
-date: 2005-10-27
-source-url: https://www.scoop.co.nz/stories/ED0510/S00078/waikato-university-appoints-deputy-vice-chancellor.htm
+title: Waikato University Appoints Deputy Vice-Chancellor
+date: 2005-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00078/waikato-university-appoints-deputy-vice-chancellor.htm
 author: waikato-university
+permalink: >-
+  /archive/2005/10/27/waikato-university-appoints-deputy-vice-chancellor/index.html
+layout: layout.njk
 ---
 Waikato University Appoints Deputy Vice-Chancellor
 ==================================================

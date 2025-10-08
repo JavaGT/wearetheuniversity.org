@@ -1,9 +1,13 @@
 ---
 slug: world-premiere-of-voices-of-the-land-in-wellington
-title: "World premiere of Voices of the Land in Wellington"
-date: 2014-07-15
-source-url: https://www.scoop.co.nz/stories/CU1407/S00200/world-premiere-of-voices-of-the-land-in-wellington.htm
+title: World premiere of Voices of the Land in Wellington
+date: 2014-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00200/world-premiere-of-voices-of-the-land-in-wellington.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/07/15/world-premiere-of-voices-of-the-land-in-wellington/index.html
+layout: layout.njk
 ---
 World premiere of Voices of the Land in Wellington
 ==================================================

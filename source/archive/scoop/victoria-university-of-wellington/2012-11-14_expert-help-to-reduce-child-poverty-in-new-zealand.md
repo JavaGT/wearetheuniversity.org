@@ -1,9 +1,13 @@
 ---
 slug: expert-help-to-reduce-child-poverty-in-new-zealand
-title: "Expert help to reduce child poverty in New Zealand"
-date: 2012-11-14
-source-url: https://www.scoop.co.nz/stories/PO1211/S00204/expert-help-to-reduce-child-poverty-in-new-zealand.htm
+title: Expert help to reduce child poverty in New Zealand
+date: 2012-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00204/expert-help-to-reduce-child-poverty-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/11/14/expert-help-to-reduce-child-poverty-in-new-zealand/index.html
+layout: layout.njk
 ---
 Expert help to reduce child poverty in New Zealand
 ==================================================

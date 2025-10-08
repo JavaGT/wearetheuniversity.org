@@ -1,9 +1,12 @@
 ---
 slug: education-ministry-database-breaks-down
-title: "Education Ministry Database Breaks Down"
-date: 2001-10-16
-source-url: https://www.scoop.co.nz/stories/PA0110/S00301/education-ministry-database-breaks-down.htm
+title: Education Ministry Database Breaks Down
+date: 2001-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00301/education-ministry-database-breaks-down.htm
 author: act-new-zealand
+permalink: /archive/2001/10/16/education-ministry-database-breaks-down/index.html
+layout: layout.njk
 ---
 Education Ministry Database Breaks Down
 =======================================

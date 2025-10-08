@@ -1,9 +1,12 @@
 ---
 slug: franks-add-dale-rape-case-to-ellis-inquiry
-title: "Franks: Add Dale Rape Case to Ellis Inquiry"
-date: 2000-04-29
-source-url: https://www.scoop.co.nz/stories/PA0004/S00378/franks-add-dale-rape-case-to-ellis-inquiry.htm
+title: 'Franks: Add Dale Rape Case to Ellis Inquiry'
+date: 2000-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00378/franks-add-dale-rape-case-to-ellis-inquiry.htm
 author: act-new-zealand
+permalink: /archive/2000/04/29/franks-add-dale-rape-case-to-ellis-inquiry/index.html
+layout: layout.njk
 ---
 Franks: Add Dale Rape Case to Ellis Inquiry
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: act-newsletter-the-week-that-was
-title: "ACT Newsletter - The Week That Was"
-date: 2012-08-04
-source-url: https://www.scoop.co.nz/stories/PO1208/S00066/act-newsletter-the-week-that-was.htm
+title: ACT Newsletter - The Week That Was
+date: 2012-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00066/act-newsletter-the-week-that-was.htm
 author: act-new-zealand
+permalink: /archive/2012/08/04/act-newsletter-the-week-that-was/index.html
+layout: layout.njk
 ---
 ACT Newsletter - The Week That Was
 ==================================

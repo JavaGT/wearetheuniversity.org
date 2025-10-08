@@ -1,9 +1,13 @@
 ---
 slug: conference-to-unearth-nzs-constitutional-traditions
-title: "Conference to unearth NZ’s constitutional traditions"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/ED1308/S00127/conference-to-unearth-nzs-constitutional-traditions.htm
+title: Conference to unearth NZ’s constitutional traditions
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00127/conference-to-unearth-nzs-constitutional-traditions.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/26/conference-to-unearth-nzs-constitutional-traditions/index.html
+layout: layout.njk
 ---
 Conference to unearth NZ’s constitutional traditions
 ====================================================

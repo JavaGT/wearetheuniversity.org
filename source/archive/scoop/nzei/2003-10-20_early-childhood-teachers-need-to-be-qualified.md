@@ -1,9 +1,12 @@
 ---
 slug: early-childhood-teachers-need-to-be-qualified
-title: "Early Childhood Teachers Need To Be Qualified"
-date: 2003-10-20
-source-url: https://www.scoop.co.nz/stories/ED0310/S00080/early-childhood-teachers-need-to-be-qualified.htm
+title: Early Childhood Teachers Need To Be Qualified
+date: 2003-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00080/early-childhood-teachers-need-to-be-qualified.htm
 author: nzei
+permalink: /archive/2003/10/20/early-childhood-teachers-need-to-be-qualified/index.html
+layout: layout.njk
 ---
 Early Childhood Teachers Need To Be Qualified
 =============================================

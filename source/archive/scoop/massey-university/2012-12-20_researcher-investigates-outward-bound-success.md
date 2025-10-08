@@ -1,9 +1,12 @@
 ---
 slug: researcher-investigates-outward-bound-success
-title: "Researcher investigates Outward Bound success"
-date: 2012-12-20
-source-url: https://www.scoop.co.nz/stories/ED1212/S00130/researcher-investigates-outward-bound-success.htm
+title: Researcher investigates Outward Bound success
+date: 2012-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00130/researcher-investigates-outward-bound-success.htm
 author: massey-university
+permalink: /archive/2012/12/20/researcher-investigates-outward-bound-success/index.html
+layout: layout.njk
 ---
 Researcher investigates Outward Bound success
 =============================================

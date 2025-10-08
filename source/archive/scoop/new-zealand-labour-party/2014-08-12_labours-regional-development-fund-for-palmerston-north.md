@@ -1,9 +1,13 @@
 ---
 slug: labours-regional-development-fund-for-palmerston-north
-title: "Labour’s regional development fund for Palmerston North"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/PA1408/S00196/labours-regional-development-fund-for-palmerston-north.htm
+title: Labour’s regional development fund for Palmerston North
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00196/labours-regional-development-fund-for-palmerston-north.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/12/labours-regional-development-fund-for-palmerston-north/index.html
+layout: layout.njk
 ---
 Labour’s regional development fund for Palmerston North
 =======================================================

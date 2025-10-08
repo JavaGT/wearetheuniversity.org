@@ -1,9 +1,13 @@
 ---
 slug: government-cuts-driving-increased-education-costs
-title: "Government cuts driving increased education costs"
-date: 2015-01-23
-source-url: https://www.scoop.co.nz/stories/PA1501/S00107/government-cuts-driving-increased-education-costs.htm
+title: Government cuts driving increased education costs
+date: 2015-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00107/government-cuts-driving-increased-education-costs.htm
 author: green-party
+permalink: >-
+  /archive/2015/01/23/government-cuts-driving-increased-education-costs/index.html
+layout: layout.njk
 ---
 Government cuts driving increased education costs
 =================================================

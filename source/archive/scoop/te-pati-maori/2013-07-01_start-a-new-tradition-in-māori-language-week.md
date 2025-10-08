@@ -1,9 +1,12 @@
 ---
 slug: start-a-new-tradition-in-māori-language-week
-title: "Start a new tradition in Māori Language Week"
-date: 2013-07-01
-source-url: https://www.scoop.co.nz/stories/PA1307/S00004/start-a-new-tradition-in-maori-language-week.htm
+title: Start a new tradition in Māori Language Week
+date: 2013-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00004/start-a-new-tradition-in-maori-language-week.htm
 author: te-pati-maori
+permalink: /archive/2013/07/01/start-a-new-tradition-in-m/index.html
+layout: layout.njk
 ---
 Start a new tradition in Māori Language Week
 ============================================

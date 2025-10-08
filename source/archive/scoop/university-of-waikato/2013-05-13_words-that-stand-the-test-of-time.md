@@ -1,9 +1,12 @@
 ---
 slug: words-that-stand-the-test-of-time
-title: "Words That Stand the Test of Time"
-date: 2013-05-13
-source-url: https://www.scoop.co.nz/stories/ED1305/S00073/words-that-stand-the-test-of-time.htm
+title: Words That Stand the Test of Time
+date: 2013-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00073/words-that-stand-the-test-of-time.htm
 author: university-of-waikato
+permalink: /archive/2013/05/13/words-that-stand-the-test-of-time/index.html
+layout: layout.njk
 ---
 Words That Stand the Test of Time
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: understanding-genes-key-to-eliminating-deaths-from-anorexia
-title: "Understanding genes key to eliminating deaths from anorexia"
-date: 2016-03-22
-source-url: https://www.scoop.co.nz/stories/SC1603/S00052/understanding-genes-key-to-eliminating-deaths-from-anorexia.htm
+title: Understanding genes key to eliminating deaths from anorexia
+date: 2016-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00052/understanding-genes-key-to-eliminating-deaths-from-anorexia.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/03/22/understanding-genes-key-to-eliminating-deaths-from-anorexia/index.html
+layout: layout.njk
 ---
 Understanding genes key to eliminating deaths from anorexia
 ===========================================================

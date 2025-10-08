@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-248
-title: "Maxim Institute - real issues - No 248"
-date: 2007-04-13
-source-url: https://www.scoop.co.nz/stories/PO0704/S00159/maxim-institute-real-issues-no-248.htm
+title: Maxim Institute - real issues - No 248
+date: 2007-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00159/maxim-institute-real-issues-no-248.htm
 author: maxim-institute
+permalink: /archive/2007/04/13/maxim-institute-real-issues-no-248/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No 248
 ======================================

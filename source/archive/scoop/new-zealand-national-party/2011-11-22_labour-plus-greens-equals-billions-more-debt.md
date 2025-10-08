@@ -1,9 +1,12 @@
 ---
 slug: labour-plus-greens-equals-billions-more-debt
-title: "Labour plus Greens equals billions more debt"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/PA1111/S00443/labour-plus-greens-equals-billions-more-debt.htm
+title: Labour plus Greens equals billions more debt
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00443/labour-plus-greens-equals-billions-more-debt.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/22/labour-plus-greens-equals-billions-more-debt/index.html
+layout: layout.njk
 ---
 Labour plus Greens equals billions more debt
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: national-to-fund-fertility-treatment
-title: "National To Fund Fertility Treatment"
-date: 2002-06-10
-source-url: https://www.scoop.co.nz/stories/PA0206/S00110/national-to-fund-fertility-treatment.htm
+title: National To Fund Fertility Treatment
+date: 2002-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00110/national-to-fund-fertility-treatment.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/10/national-to-fund-fertility-treatment/index.html
+layout: layout.njk
 ---
 National To Fund Fertility Treatment
 ====================================

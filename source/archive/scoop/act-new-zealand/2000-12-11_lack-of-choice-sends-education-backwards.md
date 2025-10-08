@@ -1,9 +1,12 @@
 ---
 slug: lack-of-choice-sends-education-backwards
-title: "Lack Of Choice Sends Education Backwards"
-date: 2000-12-11
-source-url: https://www.scoop.co.nz/stories/PA0012/S00154/lack-of-choice-sends-education-backwards.htm
+title: Lack Of Choice Sends Education Backwards
+date: 2000-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00154/lack-of-choice-sends-education-backwards.htm
 author: act-new-zealand
+permalink: /archive/2000/12/11/lack-of-choice-sends-education-backwards/index.html
+layout: layout.njk
 ---
 Lack Of Choice Sends Education Backwards
 ========================================

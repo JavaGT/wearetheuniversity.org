@@ -1,9 +1,13 @@
 ---
 slug: tinkering-around-the-edges-wont-cut-it-for-families-struggling-to-survive
-title: "Tinkering Around The Edges Won’t Cut It For Families Struggling To Survive"
-date: 2021-04-20
-source-url: https://www.scoop.co.nz/stories/PA2104/S00132/tinkering-around-the-edges-wont-cut-it-for-families-struggling-to-survive.htm
+title: Tinkering Around The Edges Won’t Cut It For Families Struggling To Survive
+date: 2021-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00132/tinkering-around-the-edges-wont-cut-it-for-families-struggling-to-survive.htm
 author: green-party
+permalink: >-
+  /archive/2021/04/20/tinkering-around-the-edges-wont-cut-it-for-families-struggling-to-survive/index.html
+layout: layout.njk
 ---
 Tinkering Around The Edges Won’t Cut It For Families Struggling To Survive
 ==========================================================================

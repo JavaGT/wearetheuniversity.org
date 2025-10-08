@@ -1,9 +1,12 @@
 ---
 slug: too-late-to-fix-the-governments-problems
-title: "Too late to fix the Government's problems"
-date: 2000-05-23
-source-url: https://www.scoop.co.nz/stories/PA0005/S00503/too-late-to-fix-the-governments-problems.htm
+title: Too late to fix the Government's problems
+date: 2000-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00503/too-late-to-fix-the-governments-problems.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/23/too-late-to-fix-the-governments-problems/index.html
+layout: layout.njk
 ---
 Too late to fix the Government's problems
 =========================================

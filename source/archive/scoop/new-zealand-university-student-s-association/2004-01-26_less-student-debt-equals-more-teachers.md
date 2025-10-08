@@ -1,9 +1,12 @@
 ---
 slug: less-student-debt-equals-more-teachers
-title: "Less Student Debt Equals More Teachers"
-date: 2004-01-26
-source-url: https://www.scoop.co.nz/stories/ED0401/S00030/less-student-debt-equals-more-teachers.htm
+title: Less Student Debt Equals More Teachers
+date: 2004-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00030/less-student-debt-equals-more-teachers.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/01/26/less-student-debt-equals-more-teachers/index.html
+layout: layout.njk
 ---
 Less Student Debt Equals More Teachers
 ======================================

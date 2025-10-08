@@ -1,9 +1,12 @@
 ---
 slug: the-right-talk-hawkins-must-go
-title: "The Right Talk  - Hawkins Must Go"
-date: 2002-11-22
-source-url: https://www.scoop.co.nz/stories/PA0211/S00543/the-right-talk-hawkins-must-go.htm
+title: The Right Talk  - Hawkins Must Go
+date: 2002-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00543/the-right-talk-hawkins-must-go.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/22/the-right-talk-hawkins-must-go/index.html
+layout: layout.njk
 ---
 The Right Talk - Hawkins Must Go
 ================================

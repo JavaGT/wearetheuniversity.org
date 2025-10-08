@@ -1,9 +1,13 @@
 ---
 slug: no-cost-of-living-support-no-vision-in-first-100-days
-title: "No Cost Of Living Support, No Vision In First 100 Days"
-date: 2024-03-08
-source-url: https://www.scoop.co.nz/stories/PA2403/S00040/no-cost-of-living-support-no-vision-in-first-100-days.htm
+title: No Cost Of Living Support, No Vision In First 100 Days
+date: 2024-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00040/no-cost-of-living-support-no-vision-in-first-100-days.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/03/08/no-cost-of-living-support-no-vision-in-first-100-days/index.html
+layout: layout.njk
 ---
 No Cost Of Living Support, No Vision In First 100 Days
 ======================================================

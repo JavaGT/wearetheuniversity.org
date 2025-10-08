@@ -1,9 +1,13 @@
 ---
 slug: pasifika-educators-criticise-government-direction
-title: "Pasifika educators criticise Government direction"
-date: 2013-08-19
-source-url: https://www.scoop.co.nz/stories/ED1308/S00093/pasifika-educators-criticise-government-direction.htm
+title: Pasifika educators criticise Government direction
+date: 2013-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00093/pasifika-educators-criticise-government-direction.htm
 author: nzei
+permalink: >-
+  /archive/2013/08/19/pasifika-educators-criticise-government-direction/index.html
+layout: layout.njk
 ---
 Pasifika educators criticise Government direction
 =================================================

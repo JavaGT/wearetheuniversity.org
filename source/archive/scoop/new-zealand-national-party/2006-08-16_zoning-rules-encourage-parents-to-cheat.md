@@ -1,9 +1,12 @@
 ---
 slug: zoning-rules-encourage-parents-to-cheat
-title: "Zoning rules encourage parents to cheat"
-date: 2006-08-16
-source-url: https://www.scoop.co.nz/stories/PA0608/S00281/zoning-rules-encourage-parents-to-cheat.htm
+title: Zoning rules encourage parents to cheat
+date: 2006-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00281/zoning-rules-encourage-parents-to-cheat.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/16/zoning-rules-encourage-parents-to-cheat/index.html
+layout: layout.njk
 ---
 Zoning rules encourage parents to cheat
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: canterbury-graduate-at-stanford-university
-title: "Canterbury graduate at Stanford University"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/SC1406/S00001/canterbury-graduate-at-stanford-university.htm
+title: Canterbury graduate at Stanford University
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00001/canterbury-graduate-at-stanford-university.htm
 author: university-of-canterbury
+permalink: /archive/2014/06/03/canterbury-graduate-at-stanford-university/index.html
+layout: layout.njk
 ---
 Canterbury graduate at Stanford University
 ==========================================

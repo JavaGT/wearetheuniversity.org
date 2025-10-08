@@ -1,9 +1,12 @@
 ---
 slug: new-professor-of-public-health-in-wellington
-title: "New Professor of Public Health in Wellington"
-date: 2009-08-14
-source-url: https://www.scoop.co.nz/stories/GE0908/S00068/new-professor-of-public-health-in-wellington.htm
+title: New Professor of Public Health in Wellington
+date: 2009-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0908/S00068/new-professor-of-public-health-in-wellington.htm
 author: university-of-otago
+permalink: /archive/2009/08/14/new-professor-of-public-health-in-wellington/index.html
+layout: layout.njk
 ---
 New Professor of Public Health in Wellington
 ============================================

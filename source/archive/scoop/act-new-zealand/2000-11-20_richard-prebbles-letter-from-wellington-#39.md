@@ -1,9 +1,12 @@
 ---
 slug: richard-prebbles-letter-from-wellington-#39
-title: "Richard Prebble's Letter From Wellington #39"
-date: 2000-11-20
-source-url: https://www.scoop.co.nz/stories/PA0011/S00342/richard-prebbles-letter-from-wellington-39.htm
+title: 'Richard Prebble''s Letter From Wellington #39'
+date: 2000-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00342/richard-prebbles-letter-from-wellington-39.htm
 author: act-new-zealand
+permalink: /archive/2000/11/20/richard-prebbles-letter-from-wellington-/index.html
+layout: layout.njk
 ---
 Richard Prebble's Letter From Wellington #39
 ============================================

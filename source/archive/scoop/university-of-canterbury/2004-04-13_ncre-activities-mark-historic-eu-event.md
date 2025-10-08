@@ -1,9 +1,12 @@
 ---
 slug: ncre-activities-mark-historic-eu-event
-title: "NCRE Activities Mark Historic EU Event"
-date: 2004-04-13
-source-url: https://www.scoop.co.nz/stories/WO0404/S00101/ncre-activities-mark-historic-eu-event.htm
+title: NCRE Activities Mark Historic EU Event
+date: 2004-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0404/S00101/ncre-activities-mark-historic-eu-event.htm
 author: university-of-canterbury
+permalink: /archive/2004/04/13/ncre-activities-mark-historic-eu-event/index.html
+layout: layout.njk
 ---
 NCRE Activities Mark Historic EU Event
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-listen-to-clayton-cosgrove-on-voluntary-membership
-title: "Labour – listen to Clayton Cosgrove on voluntary membership"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/PO1105/S00143/labour-listen-to-clayton-cosgrove-on-voluntary-membership.htm
+title: Labour – listen to Clayton Cosgrove on voluntary membership
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00143/labour-listen-to-clayton-cosgrove-on-voluntary-membership.htm
 author: student-choice
+permalink: >-
+  /archive/2011/05/11/labour-listen-to-clayton-cosgrove-on-voluntary-membership/index.html
+layout: layout.njk
 ---
 Labour – listen to Clayton Cosgrove on voluntary membership
 ===========================================================

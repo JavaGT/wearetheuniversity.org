@@ -1,9 +1,13 @@
 ---
 slug: auck-university-philharmonia-launch-joint-venture
-title: "Auck University Philharmonia launch joint venture"
-date: 2002-11-01
-source-url: https://www.scoop.co.nz/stories/CU0211/S00003/auck-university-philharmonia-launch-joint-venture.htm
+title: Auck University Philharmonia launch joint venture
+date: 2002-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0211/S00003/auck-university-philharmonia-launch-joint-venture.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/11/01/auck-university-philharmonia-launch-joint-venture/index.html
+layout: layout.njk
 ---
 Auck University Philharmonia launch joint venture
 =================================================

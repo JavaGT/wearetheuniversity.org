@@ -1,9 +1,12 @@
 ---
 slug: madama-butterfly-to-showcase-otago-graduates
-title: "Madama Butterfly To Showcase Otago Graduates"
-date: 2002-06-11
-source-url: https://www.scoop.co.nz/stories/CU0206/S00017/madama-butterfly-to-showcase-otago-graduates.htm
+title: Madama Butterfly To Showcase Otago Graduates
+date: 2002-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0206/S00017/madama-butterfly-to-showcase-otago-graduates.htm
 author: university-of-otago
+permalink: /archive/2002/06/11/madama-butterfly-to-showcase-otago-graduates/index.html
+layout: layout.njk
 ---
 Madama Butterfly To Showcase Otago Graduates
 ============================================

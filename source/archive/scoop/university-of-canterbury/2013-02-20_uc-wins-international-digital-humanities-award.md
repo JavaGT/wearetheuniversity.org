@@ -1,9 +1,12 @@
 ---
 slug: uc-wins-international-digital-humanities-award
-title: "UC wins international digital humanities award"
-date: 2013-02-20
-source-url: https://www.scoop.co.nz/stories/ED1302/S00107/uc-wins-international-digital-humanities-award.htm
+title: UC wins international digital humanities award
+date: 2013-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00107/uc-wins-international-digital-humanities-award.htm
 author: university-of-canterbury
+permalink: /archive/2013/02/20/uc-wins-international-digital-humanities-award/index.html
+layout: layout.njk
 ---
 UC wins international digital humanities award
 ==============================================

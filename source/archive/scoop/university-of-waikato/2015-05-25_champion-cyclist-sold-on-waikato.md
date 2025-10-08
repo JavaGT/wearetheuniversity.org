@@ -1,9 +1,12 @@
 ---
 slug: champion-cyclist-sold-on-waikato
-title: "Champion cyclist sold on Waikato"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/ED1505/S00091/champion-cyclist-sold-on-waikato.htm
+title: Champion cyclist sold on Waikato
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00091/champion-cyclist-sold-on-waikato.htm
 author: university-of-waikato
+permalink: /archive/2015/05/25/champion-cyclist-sold-on-waikato/index.html
+layout: layout.njk
 ---
 Champion cyclist sold on Waikato
 ================================

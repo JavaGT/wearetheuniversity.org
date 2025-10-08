@@ -1,9 +1,13 @@
 ---
 slug: trade-deal-threatens-health-if-climate-change-not-addressed
-title: "Trade deal threatens health if climate change not addressed"
-date: 2018-03-09
-source-url: https://www.scoop.co.nz/stories/PO1803/S00144/trade-deal-threatens-health-if-climate-change-not-addressed.htm
+title: Trade deal threatens health if climate change not addressed
+date: 2018-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1803/S00144/trade-deal-threatens-health-if-climate-change-not-addressed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/09/trade-deal-threatens-health-if-climate-change-not-addressed/index.html
+layout: layout.njk
 ---
 Trade deal threatens health if climate change not addressed
 ===========================================================

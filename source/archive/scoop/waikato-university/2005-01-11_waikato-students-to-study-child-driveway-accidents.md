@@ -1,9 +1,13 @@
 ---
 slug: waikato-students-to-study-child-driveway-accidents
-title: "Waikato students to study child driveway accidents"
-date: 2005-01-11
-source-url: https://www.scoop.co.nz/stories/ED0501/S00017/waikato-students-to-study-child-driveway-accidents.htm
+title: Waikato students to study child driveway accidents
+date: 2005-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00017/waikato-students-to-study-child-driveway-accidents.htm
 author: waikato-university
+permalink: >-
+  /archive/2005/01/11/waikato-students-to-study-child-driveway-accidents/index.html
+layout: layout.njk
 ---
 Waikato students to study child driveway accidents
 ==================================================

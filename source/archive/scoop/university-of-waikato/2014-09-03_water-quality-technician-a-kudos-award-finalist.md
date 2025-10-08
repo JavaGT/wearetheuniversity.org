@@ -1,9 +1,12 @@
 ---
 slug: water-quality-technician-a-kudos-award-finalist
-title: "Water quality technician a KuDos Award finalist"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/ED1409/S00019/water-quality-technician-a-kudos-award-finalist.htm
+title: Water quality technician a KuDos Award finalist
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00019/water-quality-technician-a-kudos-award-finalist.htm
 author: university-of-waikato
+permalink: /archive/2014/09/03/water-quality-technician-a-kudos-award-finalist/index.html
+layout: layout.njk
 ---
 Water quality technician a KuDos Award finalist
 ===============================================

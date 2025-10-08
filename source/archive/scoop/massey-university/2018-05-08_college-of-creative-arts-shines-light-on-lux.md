@@ -1,9 +1,12 @@
 ---
 slug: college-of-creative-arts-shines-light-on-lux
-title: "College of Creative Arts shines light on LUX"
-date: 2018-05-08
-source-url: https://www.scoop.co.nz/stories/AK1805/S00157/college-of-creative-arts-shines-light-on-lux.htm
+title: College of Creative Arts shines light on LUX
+date: 2018-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1805/S00157/college-of-creative-arts-shines-light-on-lux.htm
 author: massey-university
+permalink: /archive/2018/05/08/college-of-creative-arts-shines-light-on-lux/index.html
+layout: layout.njk
 ---
 College of Creative Arts shines light on LUX
 ============================================

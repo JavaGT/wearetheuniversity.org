@@ -1,9 +1,12 @@
 ---
 slug: leader-of-the-oppositions-budget-2021-speech
-title: "Leader Of The Opposition’s Budget 2021 Speech"
-date: 2021-05-20
-source-url: https://www.scoop.co.nz/stories/PA2105/S00197/leader-of-the-oppositions-budget-2021-speech.htm
+title: Leader Of The Opposition’s Budget 2021 Speech
+date: 2021-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00197/leader-of-the-oppositions-budget-2021-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/20/leader-of-the-oppositions-budget-2021-speech/index.html
+layout: layout.njk
 ---
 Leader Of The Opposition’s Budget 2021 Speech
 =============================================

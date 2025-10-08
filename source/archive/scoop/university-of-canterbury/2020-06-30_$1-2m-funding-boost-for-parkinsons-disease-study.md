@@ -1,9 +1,12 @@
 ---
 slug: $1-2m-funding-boost-for-parkinsons-disease-study
-title: "$1.2m Funding Boost For Parkinson's Disease Study"
-date: 2020-06-30
-source-url: https://www.scoop.co.nz/stories/SC2006/S00063/12m-funding-boost-for-parkinsons-disease-study.htm
+title: $1.2m Funding Boost For Parkinson's Disease Study
+date: 2020-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2006/S00063/12m-funding-boost-for-parkinsons-disease-study.htm
 author: university-of-canterbury
+permalink: /archive/2020/06/30//index.html
+layout: layout.njk
 ---
 $1.2m Funding Boost For Parkinson's Disease Study
 =================================================

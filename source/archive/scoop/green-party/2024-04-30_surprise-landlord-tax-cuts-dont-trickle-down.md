@@ -1,9 +1,12 @@
 ---
 slug: surprise-landlord-tax-cuts-dont-trickle-down
-title: "Surprise: Landlord Tax Cuts Don’t Trickle Down"
-date: 2024-04-30
-source-url: https://www.scoop.co.nz/stories/PA2404/S00175/surprise-landlord-tax-cuts-dont-trickle-down.htm
+title: 'Surprise: Landlord Tax Cuts Don’t Trickle Down'
+date: 2024-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2404/S00175/surprise-landlord-tax-cuts-dont-trickle-down.htm
 author: green-party
+permalink: /archive/2024/04/30/surprise-landlord-tax-cuts-dont-trickle-down/index.html
+layout: layout.njk
 ---
 Surprise: Landlord Tax Cuts Don’t Trickle Down
 ==============================================

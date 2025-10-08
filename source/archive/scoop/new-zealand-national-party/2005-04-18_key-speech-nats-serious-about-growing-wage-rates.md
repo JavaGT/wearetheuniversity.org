@@ -1,9 +1,13 @@
 ---
 slug: key-speech-nats-serious-about-growing-wage-rates
-title: "Key speech: Nats serious about growing wage rates"
-date: 2005-04-18
-source-url: https://www.scoop.co.nz/stories/PA0504/S00363/key-speech-nats-serious-about-growing-wage-rates.htm
+title: 'Key speech: Nats serious about growing wage rates'
+date: 2005-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00363/key-speech-nats-serious-about-growing-wage-rates.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/04/18/key-speech-nats-serious-about-growing-wage-rates/index.html
+layout: layout.njk
 ---
 Key speech: Nats serious about growing wage rates
 =================================================

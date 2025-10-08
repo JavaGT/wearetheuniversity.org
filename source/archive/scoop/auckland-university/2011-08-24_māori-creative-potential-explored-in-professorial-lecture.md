@@ -1,9 +1,12 @@
 ---
 slug: māori-creative-potential-explored-in-professorial-lecture
-title: "Māori creative potential explored in Professorial Lecture"
-date: 2011-08-24
-source-url: https://www.scoop.co.nz/stories/CU1108/S00390/maori-creative-potential-explored-in-professorial-lecture.htm
+title: Māori creative potential explored in Professorial Lecture
+date: 2011-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00390/maori-creative-potential-explored-in-professorial-lecture.htm
 author: auckland-university
+permalink: /archive/2011/08/24/m/index.html
+layout: layout.njk
 ---
 Māori creative potential explored in Professorial Lecture
 =========================================================

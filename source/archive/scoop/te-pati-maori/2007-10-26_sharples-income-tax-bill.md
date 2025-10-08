@@ -1,9 +1,11 @@
 ---
 slug: sharples-income-tax-bill
-title: "Sharples - Income Tax Bill"
-date: 2007-10-26
+title: Sharples - Income Tax Bill
+date: 2007-10-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0710/S00488/sharples-income-tax-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/10/26/sharples-income-tax-bill/index.html
+layout: layout.njk
 ---
 Sharples - Income Tax Bill
 ==========================

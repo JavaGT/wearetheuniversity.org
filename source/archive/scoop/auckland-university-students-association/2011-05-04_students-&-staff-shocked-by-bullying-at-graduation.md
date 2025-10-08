@@ -1,9 +1,12 @@
 ---
 slug: students-&-staff-shocked-by-bullying-at-graduation
-title: "Students & staff shocked by bullying at graduation"
-date: 2011-05-04
-source-url: https://www.scoop.co.nz/stories/AK1105/S00121/students-staff-shocked-by-bullying-at-graduation.htm
+title: Students & staff shocked by bullying at graduation
+date: 2011-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1105/S00121/students-staff-shocked-by-bullying-at-graduation.htm
 author: auckland-university-students-association
+permalink: /archive/2011/05/04/students-/index.html
+layout: layout.njk
 ---
 Students & staff shocked by bullying at graduation
 ==================================================

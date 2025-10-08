@@ -1,9 +1,11 @@
 ---
 slug: noisy-quilts-wanted
-title: "Noisy quilts wanted"
-date: 2006-05-19
+title: Noisy quilts wanted
+date: 2006-05-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0605/S00181/noisy-quilts-wanted.htm
 author: waikato-university
+permalink: /archive/2006/05/19/noisy-quilts-wanted/index.html
+layout: layout.njk
 ---
 Noisy quilts wanted
 ===================

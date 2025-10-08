@@ -1,9 +1,12 @@
 ---
 slug: supermarket-staff-win-pay-victory
-title: "Supermarket Staff Win Pay Victory"
-date: 2005-06-13
-source-url: https://www.scoop.co.nz/stories/PA0506/S00258/supermarket-staff-win-pay-victory.htm
+title: Supermarket Staff Win Pay Victory
+date: 2005-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00258/supermarket-staff-win-pay-victory.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/06/13/supermarket-staff-win-pay-victory/index.html
+layout: layout.njk
 ---
 Supermarket Staff Win Pay Victory
 =================================

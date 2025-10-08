@@ -1,9 +1,12 @@
 ---
 slug: auckland-gains-a-new-law-school
-title: "Auckland gains a new law school"
-date: 2008-12-05
-source-url: https://www.scoop.co.nz/stories/ED0812/S00018/auckland-gains-a-new-law-school.htm
+title: Auckland gains a new law school
+date: 2008-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00018/auckland-gains-a-new-law-school.htm
 author: aut-university
+permalink: /archive/2008/12/05/auckland-gains-a-new-law-school/index.html
+layout: layout.njk
 ---
 Auckland gains a new law school
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: urgent-action-needed-to-retain-doctors
-title: "Urgent Action Needed To Retain Doctors"
-date: 2007-07-20
-source-url: https://www.scoop.co.nz/stories/PA0707/S00339/urgent-action-needed-to-retain-doctors.htm
+title: Urgent Action Needed To Retain Doctors
+date: 2007-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00339/urgent-action-needed-to-retain-doctors.htm
 author: new-zealand-first-party
+permalink: /archive/2007/07/20/urgent-action-needed-to-retain-doctors/index.html
+layout: layout.njk
 ---
 Urgent Action Needed To Retain Doctors
 ======================================

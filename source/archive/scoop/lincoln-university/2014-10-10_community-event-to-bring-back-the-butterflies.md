@@ -1,9 +1,12 @@
 ---
 slug: community-event-to-bring-back-the-butterflies
-title: "Community event to bring back the butterflies"
-date: 2014-10-10
-source-url: https://www.scoop.co.nz/stories/SC1410/S00033/community-event-to-bring-back-the-butterflies.htm
+title: Community event to bring back the butterflies
+date: 2014-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00033/community-event-to-bring-back-the-butterflies.htm
 author: lincoln-university
+permalink: /archive/2014/10/10/community-event-to-bring-back-the-butterflies/index.html
+layout: layout.njk
 ---
 Community event to bring back the butterflies
 =============================================

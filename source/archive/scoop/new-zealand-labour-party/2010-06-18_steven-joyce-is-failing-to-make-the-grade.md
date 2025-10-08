@@ -1,9 +1,12 @@
 ---
 slug: steven-joyce-is-failing-to-make-the-grade
-title: "Steven Joyce is failing to make the grade"
-date: 2010-06-18
-source-url: https://www.scoop.co.nz/stories/PA1006/S00299/steven-joyce-is-failing-to-make-the-grade.htm
+title: Steven Joyce is failing to make the grade
+date: 2010-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00299/steven-joyce-is-failing-to-make-the-grade.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/18/steven-joyce-is-failing-to-make-the-grade/index.html
+layout: layout.njk
 ---
 Steven Joyce is failing to make the grade
 =========================================

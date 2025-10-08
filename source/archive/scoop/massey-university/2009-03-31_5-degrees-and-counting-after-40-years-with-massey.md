@@ -1,9 +1,13 @@
 ---
 slug: 5-degrees-and-counting-after-40-years-with-massey
-title: "5 degrees and counting after 40 years with Massey"
-date: 2009-03-31
-source-url: https://www.scoop.co.nz/stories/ED0903/S00101/5-degrees-and-counting-after-40-years-with-massey.htm
+title: 5 degrees and counting after 40 years with Massey
+date: 2009-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00101/5-degrees-and-counting-after-40-years-with-massey.htm
 author: massey-university
+permalink: >-
+  /archive/2009/03/31/5-degrees-and-counting-after-40-years-with-massey/index.html
+layout: layout.njk
 ---
 5 degrees and counting after 40 years with Massey
 =================================================

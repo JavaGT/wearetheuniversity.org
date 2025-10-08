@@ -1,9 +1,12 @@
 ---
 slug: gdp-result-no-reason-for-complacency
-title: "GDP result no reason for complacency"
-date: 2012-06-21
-source-url: https://www.scoop.co.nz/stories/PO1206/S00294/gdp-result-no-reason-for-complacency.htm
+title: GDP result no reason for complacency
+date: 2012-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00294/gdp-result-no-reason-for-complacency.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/06/21/gdp-result-no-reason-for-complacency/index.html
+layout: layout.njk
 ---
 GDP result no reason for complacency
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: overseas-aid-misallocated-prebble-says
-title: "Overseas Aid Misallocated, Prebble Says"
-date: 2002-05-15
-source-url: https://www.scoop.co.nz/stories/PA0205/S00301/overseas-aid-misallocated-prebble-says.htm
+title: Overseas Aid Misallocated, Prebble Says
+date: 2002-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00301/overseas-aid-misallocated-prebble-says.htm
 author: act-new-zealand
+permalink: /archive/2002/05/15/overseas-aid-misallocated-prebble-says/index.html
+layout: layout.njk
 ---
 Overseas Aid Misallocated, Prebble Says
 =======================================

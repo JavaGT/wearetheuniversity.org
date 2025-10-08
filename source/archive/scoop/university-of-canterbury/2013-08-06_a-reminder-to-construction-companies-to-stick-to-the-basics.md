@@ -1,9 +1,13 @@
 ---
 slug: a-reminder-to-construction-companies-to-stick-to-the-basics
-title: "A reminder to construction companies to stick to the basics"
-date: 2013-08-06
-source-url: https://www.scoop.co.nz/stories/BU1308/S00194/a-reminder-to-construction-companies-to-stick-to-the-basics.htm
+title: A reminder to construction companies to stick to the basics
+date: 2013-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1308/S00194/a-reminder-to-construction-companies-to-stick-to-the-basics.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/06/a-reminder-to-construction-companies-to-stick-to-the-basics/index.html
+layout: layout.njk
 ---
 A reminder to construction companies to stick to the basics
 ===========================================================

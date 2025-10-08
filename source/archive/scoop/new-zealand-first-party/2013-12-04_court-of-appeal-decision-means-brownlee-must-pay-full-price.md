@@ -1,9 +1,13 @@
 ---
 slug: court-of-appeal-decision-means-brownlee-must-pay-full-price
-title: "Court of Appeal Decision Means Brownlee Must Pay Full Price"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/PA1312/S00072/court-of-appeal-decision-means-brownlee-must-pay-full-price.htm
+title: Court of Appeal Decision Means Brownlee Must Pay Full Price
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00072/court-of-appeal-decision-means-brownlee-must-pay-full-price.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/12/04/court-of-appeal-decision-means-brownlee-must-pay-full-price/index.html
+layout: layout.njk
 ---
 Court of Appeal Decision Means Brownlee Must Pay Full Price
 ===========================================================

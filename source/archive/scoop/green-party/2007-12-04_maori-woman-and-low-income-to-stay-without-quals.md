@@ -1,9 +1,13 @@
 ---
 slug: maori-woman-and-low-income-to-stay-without-quals
-title: "Maori woman and low-income to stay without quals"
-date: 2007-12-04
-source-url: https://www.scoop.co.nz/stories/PA0712/S00033/maori-woman-and-low-income-to-stay-without-quals.htm
+title: Maori woman and low-income to stay without quals
+date: 2007-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00033/maori-woman-and-low-income-to-stay-without-quals.htm
 author: green-party
+permalink: >-
+  /archive/2007/12/04/maori-woman-and-low-income-to-stay-without-quals/index.html
+layout: layout.njk
 ---
 Maori woman and low-income to stay without quals
 ================================================

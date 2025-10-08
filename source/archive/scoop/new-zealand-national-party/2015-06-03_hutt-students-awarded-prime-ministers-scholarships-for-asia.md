@@ -1,9 +1,13 @@
 ---
 slug: hutt-students-awarded-prime-ministers-scholarships-for-asia
-title: "Hutt students awarded Prime Minister’s Scholarships for Asia"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/PA1506/S00033/hutt-students-awarded-prime-ministers-scholarships-for-asia.htm
+title: Hutt students awarded Prime Minister’s Scholarships for Asia
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00033/hutt-students-awarded-prime-ministers-scholarships-for-asia.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/06/03/hutt-students-awarded-prime-ministers-scholarships-for-asia/index.html
+layout: layout.njk
 ---
 Hutt students awarded Prime Minister’s Scholarships for Asia
 ============================================================

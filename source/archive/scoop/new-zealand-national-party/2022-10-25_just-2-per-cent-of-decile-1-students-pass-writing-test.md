@@ -1,9 +1,13 @@
 ---
 slug: just-2-per-cent-of-decile-1-students-pass-writing-test
-title: "Just 2 Per Cent Of Decile 1 Students Pass Writing Test"
-date: 2022-10-25
-source-url: https://www.scoop.co.nz/stories/PA2210/S00176/just-2-per-cent-of-decile-1-students-pass-writing-test.htm
+title: Just 2 Per Cent Of Decile 1 Students Pass Writing Test
+date: 2022-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00176/just-2-per-cent-of-decile-1-students-pass-writing-test.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/10/25/just-2-per-cent-of-decile-1-students-pass-writing-test/index.html
+layout: layout.njk
 ---
 Just 2 Per Cent Of Decile 1 Students Pass Writing Test
 ======================================================

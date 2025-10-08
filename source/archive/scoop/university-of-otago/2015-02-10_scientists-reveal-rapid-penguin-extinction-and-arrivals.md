@@ -1,9 +1,13 @@
 ---
 slug: scientists-reveal-rapid-penguin-extinction-and-arrivals
-title: "Scientists reveal rapid penguin extinction and arrivals"
-date: 2015-02-10
-source-url: https://www.scoop.co.nz/stories/SC1502/S00016/scientists-reveal-rapid-penguin-extinction-and-arrivals.htm
+title: Scientists reveal rapid penguin extinction and arrivals
+date: 2015-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1502/S00016/scientists-reveal-rapid-penguin-extinction-and-arrivals.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/02/10/scientists-reveal-rapid-penguin-extinction-and-arrivals/index.html
+layout: layout.njk
 ---
 Scientists reveal rapid penguin extinction and arrivals
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: vuwsa-calls-for-peaceful-action-to-reclaim-campus-support-staff-and-students
-title: "VUWSA Calls For Peaceful Action To Reclaim Campus, Support Staff And Students"
-date: 2022-02-22
-source-url: https://www.scoop.co.nz/stories/PO2202/S00181/vuwsa-calls-for-peaceful-action-to-reclaim-campus-support-staff-and-students.htm
+title: VUWSA Calls For Peaceful Action To Reclaim Campus, Support Staff And Students
+date: 2022-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2202/S00181/vuwsa-calls-for-peaceful-action-to-reclaim-campus-support-staff-and-students.htm
 author: vuwsa
+permalink: >-
+  /archive/2022/02/22/vuwsa-calls-for-peaceful-action-to-reclaim-campus-support-staff-and-students/index.html
+layout: layout.njk
 ---
 VUWSA Calls For Peaceful Action To Reclaim Campus, Support Staff And Students
 =============================================================================

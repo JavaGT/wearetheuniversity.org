@@ -1,9 +1,12 @@
 ---
 slug: welfare-now-a-lifestyle-choice
-title: "Welfare Now A Lifestyle Choice"
-date: 2022-04-01
-source-url: https://www.scoop.co.nz/stories/PA2204/S00001/welfare-now-a-lifestyle-choice.htm
+title: Welfare Now A Lifestyle Choice
+date: 2022-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00001/welfare-now-a-lifestyle-choice.htm
 author: act-new-zealand
+permalink: /archive/2022/04/01/welfare-now-a-lifestyle-choice/index.html
+layout: layout.njk
 ---
 Welfare Now A Lifestyle Choice
 ==============================

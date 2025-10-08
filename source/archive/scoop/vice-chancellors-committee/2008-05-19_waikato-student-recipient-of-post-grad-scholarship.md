@@ -1,9 +1,13 @@
 ---
 slug: waikato-student-recipient-of-post-grad-scholarship
-title: "Waikato Student Recipient of Post-Grad Scholarship"
-date: 2008-05-19
-source-url: https://www.scoop.co.nz/stories/ED0805/S00063/waikato-student-recipient-of-post-grad-scholarship.htm
+title: Waikato Student Recipient of Post-Grad Scholarship
+date: 2008-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00063/waikato-student-recipient-of-post-grad-scholarship.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2008/05/19/waikato-student-recipient-of-post-grad-scholarship/index.html
+layout: layout.njk
 ---
 Waikato Student Recipient of Post-Grad Scholarship
 ==================================================

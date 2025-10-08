@@ -1,9 +1,12 @@
 ---
 slug: labour-finally-acts-on-early-exemptions
-title: "Labour finally acts on early exemptions"
-date: 2007-05-22
-source-url: https://www.scoop.co.nz/stories/PA0705/S00576/labour-finally-acts-on-early-exemptions.htm
+title: Labour finally acts on early exemptions
+date: 2007-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00576/labour-finally-acts-on-early-exemptions.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/22/labour-finally-acts-on-early-exemptions/index.html
+layout: layout.njk
 ---
 Labour finally acts on early exemptions
 =======================================

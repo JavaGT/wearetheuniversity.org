@@ -1,9 +1,11 @@
 ---
 slug: collins-comments-22-10-10
-title: "Collins Comments 22.10.10"
-date: 2010-10-22
+title: Collins Comments 22.10.10
+date: 2010-10-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1010/S00398/collins-comments-221010.htm
 author: new-zealand-national-party
+permalink: /archive/2010/10/22/collins-comments-22-10-10/index.html
+layout: layout.njk
 ---
 Collins Comments 22.10.10
 =========================

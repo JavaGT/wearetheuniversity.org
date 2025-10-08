@@ -1,9 +1,12 @@
 ---
 slug: masseys-online-open-days-a-first
-title: "Massey’s Online Open Days a first"
-date: 2012-11-21
-source-url: https://www.scoop.co.nz/stories/ED1211/S00152/masseys-online-open-days-a-first.htm
+title: Massey’s Online Open Days a first
+date: 2012-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00152/masseys-online-open-days-a-first.htm
 author: massey-university
+permalink: /archive/2012/11/21/masseys-online-open-days-a-first/index.html
+layout: layout.njk
 ---
 Massey’s Online Open Days a first
 =================================

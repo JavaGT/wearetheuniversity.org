@@ -1,9 +1,13 @@
 ---
 slug: share-a-night-with-valerie-adams-at-the-blues-awards
-title: "Share a night with Valerie Adams at the Blues Awards"
-date: 2012-09-20
-source-url: https://www.scoop.co.nz/stories/AK1209/S00438/share-a-night-with-valerie-adams-at-the-blues-awards.htm
+title: Share a night with Valerie Adams at the Blues Awards
+date: 2012-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1209/S00438/share-a-night-with-valerie-adams-at-the-blues-awards.htm
 author: massey-university
+permalink: >-
+  /archive/2012/09/20/share-a-night-with-valerie-adams-at-the-blues-awards/index.html
+layout: layout.njk
 ---
 Share a night with Valerie Adams at the Blues Awards
 ====================================================

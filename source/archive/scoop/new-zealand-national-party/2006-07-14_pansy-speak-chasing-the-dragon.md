@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-chasing-the-dragon
-title: "Pansy Speak: Chasing the Dragon"
-date: 2006-07-14
-source-url: https://www.scoop.co.nz/stories/PA0607/S00203/pansy-speak-chasing-the-dragon.htm
+title: 'Pansy Speak: Chasing the Dragon'
+date: 2006-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00203/pansy-speak-chasing-the-dragon.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/14/pansy-speak-chasing-the-dragon/index.html
+layout: layout.njk
 ---
 Pansy Speak: Chasing the Dragon
 ===============================

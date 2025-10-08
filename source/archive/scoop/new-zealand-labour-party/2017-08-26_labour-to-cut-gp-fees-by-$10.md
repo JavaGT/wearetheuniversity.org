@@ -1,9 +1,11 @@
 ---
 slug: labour-to-cut-gp-fees-by-$10
-title: "Labour to cut GP fees by $10"
-date: 2017-08-26
+title: Labour to cut GP fees by $10
+date: 2017-08-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1708/S00480/labour-to-cut-gp-fees-by-10.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/26/labour-to-cut-gp-fees-by-/index.html
+layout: layout.njk
 ---
 Labour to cut GP fees by $10
 ============================

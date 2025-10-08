@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-address-to-electoral-finance-bill
-title: "Hone Harawira Address To Electoral Finance Bill"
-date: 2007-11-25
-source-url: https://www.scoop.co.nz/stories/PA0711/S00487/hone-harawira-address-to-electoral-finance-bill.htm
+title: Hone Harawira Address To Electoral Finance Bill
+date: 2007-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00487/hone-harawira-address-to-electoral-finance-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/11/25/hone-harawira-address-to-electoral-finance-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira Address To Electoral Finance Bill
 ===============================================

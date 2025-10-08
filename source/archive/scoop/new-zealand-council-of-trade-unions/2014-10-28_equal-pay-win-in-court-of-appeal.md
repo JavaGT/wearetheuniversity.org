@@ -1,9 +1,12 @@
 ---
 slug: equal-pay-win-in-court-of-appeal
-title: "Equal pay win in Court of Appeal"
-date: 2014-10-28
-source-url: https://www.scoop.co.nz/stories/BU1410/S00967/equal-pay-win-in-court-of-appeal.htm
+title: Equal pay win in Court of Appeal
+date: 2014-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1410/S00967/equal-pay-win-in-court-of-appeal.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/10/28/equal-pay-win-in-court-of-appeal/index.html
+layout: layout.njk
 ---
 Equal pay win in Court of Appeal
 ================================

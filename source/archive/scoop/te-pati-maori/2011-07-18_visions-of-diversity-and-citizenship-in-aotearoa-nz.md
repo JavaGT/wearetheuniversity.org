@@ -1,9 +1,13 @@
 ---
 slug: visions-of-diversity-and-citizenship-in-aotearoa-nz
-title: "Visions of diversity and citizenship in Aotearoa NZ"
-date: 2011-07-18
-source-url: https://www.scoop.co.nz/stories/PA1107/S00311/visions-of-diversity-and-citizenship-in-aotearoa-nz.htm
+title: Visions of diversity and citizenship in Aotearoa NZ
+date: 2011-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00311/visions-of-diversity-and-citizenship-in-aotearoa-nz.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/07/18/visions-of-diversity-and-citizenship-in-aotearoa-nz/index.html
+layout: layout.njk
 ---
 Visions of diversity and citizenship in Aotearoa NZ
 ===================================================

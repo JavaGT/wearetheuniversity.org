@@ -1,9 +1,12 @@
 ---
 slug: labour-exacerbates-student-loan-crisis
-title: "Labour Exacerbates Student Loan Crisis"
-date: 2001-06-29
-source-url: https://www.scoop.co.nz/stories/PA0106/S00450/labour-exacerbates-student-loan-crisis.htm
+title: Labour Exacerbates Student Loan Crisis
+date: 2001-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00450/labour-exacerbates-student-loan-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2001/06/29/labour-exacerbates-student-loan-crisis/index.html
+layout: layout.njk
 ---
 Labour Exacerbates Student Loan Crisis
 ======================================

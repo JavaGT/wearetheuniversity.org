@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-to-present-brain-research-in-italy
-title: "Canterbury student to present brain research in Italy"
-date: 2015-08-19
-source-url: https://www.scoop.co.nz/stories/ED1508/S00093/canterbury-student-to-present-brain-research-in-italy.htm
+title: Canterbury student to present brain research in Italy
+date: 2015-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00093/canterbury-student-to-present-brain-research-in-italy.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/08/19/canterbury-student-to-present-brain-research-in-italy/index.html
+layout: layout.njk
 ---
 Canterbury student to present brain research in Italy
 =====================================================

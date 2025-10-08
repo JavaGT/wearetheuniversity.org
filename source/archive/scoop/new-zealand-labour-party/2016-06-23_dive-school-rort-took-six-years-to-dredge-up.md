@@ -1,9 +1,12 @@
 ---
 slug: dive-school-rort-took-six-years-to-dredge-up
-title: "Dive school rort took six years to dredge up"
-date: 2016-06-23
-source-url: https://www.scoop.co.nz/stories/PA1606/S00410/dive-school-rort-took-six-years-to-dredge-up.htm
+title: Dive school rort took six years to dredge up
+date: 2016-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00410/dive-school-rort-took-six-years-to-dredge-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/23/dive-school-rort-took-six-years-to-dredge-up/index.html
+layout: layout.njk
 ---
 Dive school rort took six years to dredge up
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: new-qualification-aims-for-better-governance-of-organisation
-title: "New qualification aims for better governance of organisation"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/ED1507/S00025/new-qualification-aims-for-better-governance-of-organisation.htm
+title: New qualification aims for better governance of organisation
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00025/new-qualification-aims-for-better-governance-of-organisation.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/07/02/new-qualification-aims-for-better-governance-of-organisation/index.html
+layout: layout.njk
 ---
 New qualification aims for better governance of organisation
 ============================================================

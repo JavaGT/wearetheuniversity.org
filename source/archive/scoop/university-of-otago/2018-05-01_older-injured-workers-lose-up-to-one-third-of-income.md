@@ -1,9 +1,13 @@
 ---
 slug: older-injured-workers-lose-up-to-one-third-of-income
-title: "Older, injured workers lose up to one-third of income"
-date: 2018-05-01
-source-url: https://www.scoop.co.nz/stories/PO1805/S00002/older-injured-workers-lose-up-to-one-third-of-income.htm
+title: Older, injured workers lose up to one-third of income
+date: 2018-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00002/older-injured-workers-lose-up-to-one-third-of-income.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/01/older-injured-workers-lose-up-to-one-third-of-income/index.html
+layout: layout.njk
 ---
 Older, injured workers lose up to one-third of income
 =====================================================

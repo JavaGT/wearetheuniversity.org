@@ -1,9 +1,12 @@
 ---
 slug: john-keys-legacy-more-problem-gambling
-title: "John Key’s legacy – more problem gambling"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/PA1307/S00210/john-keys-legacy-more-problem-gambling.htm
+title: John Key’s legacy – more problem gambling
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00210/john-keys-legacy-more-problem-gambling.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/11/john-keys-legacy-more-problem-gambling/index.html
+layout: layout.njk
 ---
 John Key’s legacy – more problem gambling
 =========================================

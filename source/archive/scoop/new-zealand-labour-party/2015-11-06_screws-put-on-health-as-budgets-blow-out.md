@@ -1,9 +1,12 @@
 ---
 slug: screws-put-on-health-as-budgets-blow-out
-title: "Screws put on health as budgets blow out"
-date: 2015-11-06
-source-url: https://www.scoop.co.nz/stories/PA1511/S00109/screws-put-on-health-as-budgets-blow-out.htm
+title: Screws put on health as budgets blow out
+date: 2015-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00109/screws-put-on-health-as-budgets-blow-out.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/06/screws-put-on-health-as-budgets-blow-out/index.html
+layout: layout.njk
 ---
 Screws put on health as budgets blow out
 ========================================

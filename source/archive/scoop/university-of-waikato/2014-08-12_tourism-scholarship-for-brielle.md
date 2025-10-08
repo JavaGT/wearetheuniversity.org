@@ -1,9 +1,12 @@
 ---
 slug: tourism-scholarship-for-brielle
-title: "Tourism scholarship for Brielle"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/ED1408/S00059/tourism-scholarship-for-brielle.htm
+title: Tourism scholarship for Brielle
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00059/tourism-scholarship-for-brielle.htm
 author: university-of-waikato
+permalink: /archive/2014/08/12/tourism-scholarship-for-brielle/index.html
+layout: layout.njk
 ---
 Tourism scholarship for Brielle
 ===============================

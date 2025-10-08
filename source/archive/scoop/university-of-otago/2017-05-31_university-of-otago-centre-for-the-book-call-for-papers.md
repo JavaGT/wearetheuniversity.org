@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-centre-for-the-book-call-for-papers
-title: "University of Otago Centre for the Book Call for Papers"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/ED1705/S00121/university-of-otago-centre-for-the-book-call-for-papers.htm
+title: University of Otago Centre for the Book Call for Papers
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00121/university-of-otago-centre-for-the-book-call-for-papers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/05/31/university-of-otago-centre-for-the-book-call-for-papers/index.html
+layout: layout.njk
 ---
 University of Otago Centre for the Book Call for Papers
 =======================================================

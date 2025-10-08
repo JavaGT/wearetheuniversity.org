@@ -1,9 +1,13 @@
 ---
 slug: canterbury-phd-student-designs-olympic-racing-suits
-title: "Canterbury PhD student designs Olympic racing suits"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/ED1208/S00091/canterbury-phd-student-designs-olympic-racing-suits.htm
+title: Canterbury PhD student designs Olympic racing suits
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00091/canterbury-phd-student-designs-olympic-racing-suits.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/16/canterbury-phd-student-designs-olympic-racing-suits/index.html
+layout: layout.njk
 ---
 Canterbury PhD student designs Olympic racing suits
 ===================================================

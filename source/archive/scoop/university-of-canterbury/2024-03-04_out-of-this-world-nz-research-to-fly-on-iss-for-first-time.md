@@ -1,9 +1,13 @@
 ---
 slug: out-of-this-world-nz-research-to-fly-on-iss-for-first-time
-title: "Out Of This World: NZ Research To Fly On ISS For First Time"
-date: 2024-03-04
-source-url: https://www.scoop.co.nz/stories/SC2403/S00002/out-of-this-world-nz-research-to-fly-on-iss-for-first-time.htm
+title: 'Out Of This World: NZ Research To Fly On ISS For First Time'
+date: 2024-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2403/S00002/out-of-this-world-nz-research-to-fly-on-iss-for-first-time.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/03/04/out-of-this-world-nz-research-to-fly-on-iss-for-first-time/index.html
+layout: layout.njk
 ---
 Out Of This World: NZ Research To Fly On ISS For First Time
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: making-sanitary-products-accessible-to-students
-title: "Making Sanitary Products Accessible to Students"
-date: 2016-07-29
-source-url: https://www.scoop.co.nz/stories/PO1607/S00328/making-sanitary-products-accessible-to-students.htm
+title: Making Sanitary Products Accessible to Students
+date: 2016-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00328/making-sanitary-products-accessible-to-students.htm
 author: young-labour
+permalink: /archive/2016/07/29/making-sanitary-products-accessible-to-students/index.html
+layout: layout.njk
 ---
 Making Sanitary Products Accessible to Students
 ===============================================

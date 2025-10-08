@@ -1,9 +1,12 @@
 ---
 slug: rebels-announce-another-youth-candidate
-title: "Rebels announce another youth candidate"
-date: 1999-09-16
-source-url: https://www.scoop.co.nz/stories/ED9909/S00017/rebels-announce-another-youth-candidate.htm
+title: Rebels announce another youth candidate
+date: 1999-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00017/rebels-announce-another-youth-candidate.htm
 author: prebble-s-rebels
+permalink: /archive/1999/09/16/rebels-announce-another-youth-candidate/index.html
+layout: layout.njk
 ---
 Rebels announce another youth candidate
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: debate-on-prime-ministers-statement
-title: "Debate on Prime Minister's Statement"
-date: 2015-02-11
-source-url: https://www.scoop.co.nz/stories/PA1502/S00108/debate-on-prime-ministers-statement.htm
+title: Debate on Prime Minister's Statement
+date: 2015-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00108/debate-on-prime-ministers-statement.htm
 author: act-new-zealand
+permalink: /archive/2015/02/11/debate-on-prime-ministers-statement/index.html
+layout: layout.njk
 ---
 Debate on Prime Minister's Statement
 ====================================

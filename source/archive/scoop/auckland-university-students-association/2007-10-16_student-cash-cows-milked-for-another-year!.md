@@ -1,9 +1,12 @@
 ---
 slug: student-cash-cows-milked-for-another-year!
-title: "Student ‘cash cows’ - milked for another year!"
-date: 2007-10-16
-source-url: https://www.scoop.co.nz/stories/ED0710/S00049/student-cash-cows-milked-for-another-year.htm
+title: Student ‘cash cows’ - milked for another year!
+date: 2007-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00049/student-cash-cows-milked-for-another-year.htm
 author: auckland-university-students-association
+permalink: /archive/2007/10/16/student-cash-cows-milked-for-another-year/index.html
+layout: layout.njk
 ---
 Student ‘cash cows’ - milked for another year!
 ==============================================

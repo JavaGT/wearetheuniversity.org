@@ -1,9 +1,12 @@
 ---
 slug: 2016-defining-excellence-awards
-title: "2016 Defining Excellence Awards"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/ED1602/S00043/2016-defining-excellence-awards.htm
+title: 2016 Defining Excellence Awards
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00043/2016-defining-excellence-awards.htm
 author: massey-university
+permalink: /archive/2016/02/11/2016-defining-excellence-awards/index.html
+layout: layout.njk
 ---
 2016 Defining Excellence Awards
 ===============================

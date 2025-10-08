@@ -1,9 +1,13 @@
 ---
 slug: new-gateway-for-te-herenga-waka-maraes-25th-anniversary
-title: "New gateway for Te Herenga Waka Marae’s 25th anniversary"
-date: 2011-12-02
-source-url: https://www.scoop.co.nz/stories/ED1112/S00012/new-gateway-for-te-herenga-waka-maraes-25th-anniversary.htm
+title: New gateway for Te Herenga Waka Marae’s 25th anniversary
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00012/new-gateway-for-te-herenga-waka-maraes-25th-anniversary.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/12/02/new-gateway-for-te-herenga-waka-maraes-25th-anniversary/index.html
+layout: layout.njk
 ---
 New gateway for Te Herenga Waka Marae’s 25th anniversary
 ========================================================

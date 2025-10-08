@@ -1,9 +1,13 @@
 ---
 slug: collins-fudges-the-truth-as-police-feel-threatened
-title: "Collins fudges the truth as police feel threatened"
-date: 2010-11-11
-source-url: https://www.scoop.co.nz/stories/PA1011/S00232/collins-fudges-the-truth-as-police-feel-threatened.htm
+title: Collins fudges the truth as police feel threatened
+date: 2010-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00232/collins-fudges-the-truth-as-police-feel-threatened.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/11/11/collins-fudges-the-truth-as-police-feel-threatened/index.html
+layout: layout.njk
 ---
 Collins fudges the truth as police feel threatened
 ==================================================

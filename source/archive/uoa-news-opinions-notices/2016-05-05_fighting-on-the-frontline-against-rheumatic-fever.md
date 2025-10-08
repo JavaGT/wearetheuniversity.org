@@ -1,8 +1,12 @@
 ---
 slug: fighting-on-the-frontline-against-rheumatic-fever
-title: "Fighting on the frontline against rheumatic fever"
-date: 2016-05-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/fighting-on-the-frontline-against-rheumatic-fever.html
+title: Fighting on the frontline against rheumatic fever
+date: 2016-05-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/fighting-on-the-frontline-against-rheumatic-fever.html
+permalink: >-
+  /archive/2016/05/05/fighting-on-the-frontline-against-rheumatic-fever/index.html
+layout: layout.njk
 ---
 Fighting on the frontline against rheumatic fever
 =================================================

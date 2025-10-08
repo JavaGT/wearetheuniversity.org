@@ -1,9 +1,13 @@
 ---
 slug: school-leavers-toolkit-to-equip-young-people-for-adult-life
-title: "School Leavers’ Toolkit to Equip Young People for Adult Life"
-date: 2017-08-14
-source-url: https://www.scoop.co.nz/stories/PA1708/S00265/school-leavers-toolkit-to-equip-young-people-for-adult-life.htm
+title: School Leavers’ Toolkit to Equip Young People for Adult Life
+date: 2017-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00265/school-leavers-toolkit-to-equip-young-people-for-adult-life.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/08/14/school-leavers-toolkit-to-equip-young-people-for-adult-life/index.html
+layout: layout.njk
 ---
 School Leavers’ Toolkit to Equip Young People for Adult Life
 ============================================================

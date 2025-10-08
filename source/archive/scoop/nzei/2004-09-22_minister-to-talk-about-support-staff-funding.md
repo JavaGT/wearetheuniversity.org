@@ -1,9 +1,12 @@
 ---
 slug: minister-to-talk-about-support-staff-funding
-title: "Minister To Talk About Support Staff Funding"
-date: 2004-09-22
-source-url: https://www.scoop.co.nz/stories/ED0409/S00102/minister-to-talk-about-support-staff-funding.htm
+title: Minister To Talk About Support Staff Funding
+date: 2004-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00102/minister-to-talk-about-support-staff-funding.htm
 author: nzei
+permalink: /archive/2004/09/22/minister-to-talk-about-support-staff-funding/index.html
+layout: layout.njk
 ---
 Minister To Talk About Support Staff Funding
 ============================================

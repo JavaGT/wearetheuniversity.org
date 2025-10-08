@@ -1,9 +1,13 @@
 ---
 slug: sir-paul-reeves-reappointed-to-university-council
-title: "Sir Paul Reeves Reappointed To University Council"
-date: 2008-12-09
-source-url: https://www.scoop.co.nz/stories/BU0812/S00200/sir-paul-reeves-reappointed-to-university-council.htm
+title: Sir Paul Reeves Reappointed To University Council
+date: 2008-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0812/S00200/sir-paul-reeves-reappointed-to-university-council.htm
 author: aut-university
+permalink: >-
+  /archive/2008/12/09/sir-paul-reeves-reappointed-to-university-council/index.html
+layout: layout.njk
 ---
 Sir Paul Reeves Reappointed To University Council
 =================================================

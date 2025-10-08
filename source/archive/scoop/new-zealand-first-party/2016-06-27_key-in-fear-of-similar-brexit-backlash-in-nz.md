@@ -1,9 +1,12 @@
 ---
 slug: key-in-fear-of-similar-brexit-backlash-in-nz
-title: "Key in Fear of Similar Brexit Backlash in NZ"
-date: 2016-06-27
-source-url: https://www.scoop.co.nz/stories/PA1606/S00438/key-in-fear-of-similar-brexit-backlash-in-nz.htm
+title: Key in Fear of Similar Brexit Backlash in NZ
+date: 2016-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00438/key-in-fear-of-similar-brexit-backlash-in-nz.htm
 author: new-zealand-first-party
+permalink: /archive/2016/06/27/key-in-fear-of-similar-brexit-backlash-in-nz/index.html
+layout: layout.njk
 ---
 Key in Fear of Similar Brexit Backlash in NZ
 ============================================

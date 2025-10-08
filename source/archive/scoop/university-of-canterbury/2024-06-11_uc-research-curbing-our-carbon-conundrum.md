@@ -1,9 +1,12 @@
 ---
 slug: uc-research-curbing-our-carbon-conundrum
-title: "UC Research Curbing Our Carbon Conundrum"
-date: 2024-06-11
-source-url: https://www.scoop.co.nz/stories/SC2406/S00037/uc-research-curbing-our-carbon-conundrum.htm
+title: UC Research Curbing Our Carbon Conundrum
+date: 2024-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2406/S00037/uc-research-curbing-our-carbon-conundrum.htm
 author: university-of-canterbury
+permalink: /archive/2024/06/11/uc-research-curbing-our-carbon-conundrum/index.html
+layout: layout.njk
 ---
 UC Research Curbing Our Carbon Conundrum
 ========================================

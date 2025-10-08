@@ -1,9 +1,12 @@
 ---
 slug: act-nz-central-divisional-conference-prebble
-title: "ACT NZ Central Divisional Conference - Prebble"
-date: 2000-08-07
-source-url: https://www.scoop.co.nz/stories/PA0008/S00110/act-nz-central-divisional-conference-prebble.htm
+title: ACT NZ Central Divisional Conference - Prebble
+date: 2000-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00110/act-nz-central-divisional-conference-prebble.htm
 author: act-new-zealand
+permalink: /archive/2000/08/07/act-nz-central-divisional-conference-prebble/index.html
+layout: layout.njk
 ---
 ACT NZ Central Divisional Conference - Prebble
 ==============================================

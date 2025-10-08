@@ -1,9 +1,13 @@
 ---
 slug: duo-developing-social-science-success-at-victoria
-title: "Duo developing social science success at Victoria"
-date: 2015-01-13
-source-url: https://www.scoop.co.nz/stories/ED1501/S00021/duo-developing-social-science-success-at-victoria.htm
+title: Duo developing social science success at Victoria
+date: 2015-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00021/duo-developing-social-science-success-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/01/13/duo-developing-social-science-success-at-victoria/index.html
+layout: layout.njk
 ---
 Duo developing social science success at Victoria
 =================================================

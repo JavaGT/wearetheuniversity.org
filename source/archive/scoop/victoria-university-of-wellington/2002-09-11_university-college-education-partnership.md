@@ -1,9 +1,12 @@
 ---
 slug: university-college-education-partnership
-title: "University-College education partnership"
-date: 2002-09-11
-source-url: https://www.scoop.co.nz/stories/ED0209/S00018/university-college-education-partnership.htm
+title: University-College education partnership
+date: 2002-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00018/university-college-education-partnership.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/09/11/university-college-education-partnership/index.html
+layout: layout.njk
 ---
 University-College education partnership
 ========================================

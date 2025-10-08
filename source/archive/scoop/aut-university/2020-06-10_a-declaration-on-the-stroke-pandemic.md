@@ -1,9 +1,12 @@
 ---
 slug: a-declaration-on-the-stroke-pandemic
-title: "A Declaration On The Stroke ‘pandemic’"
-date: 2020-06-10
-source-url: https://www.scoop.co.nz/stories/GE2006/S00048/a-declaration-on-the-stroke-pandemic.htm
+title: A Declaration On The Stroke ‘pandemic’
+date: 2020-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2006/S00048/a-declaration-on-the-stroke-pandemic.htm
 author: aut-university
+permalink: /archive/2020/06/10/a-declaration-on-the-stroke-pandemic/index.html
+layout: layout.njk
 ---
 A Declaration On The Stroke ‘pandemic’
 ======================================

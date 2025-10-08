@@ -1,9 +1,12 @@
 ---
 slug: new-type-of-damage-causing-heart-disease
-title: "New type of damage causing heart disease"
-date: 2003-10-08
-source-url: https://www.scoop.co.nz/stories/GE0310/S00020/new-type-of-damage-causing-heart-disease.htm
+title: New type of damage causing heart disease
+date: 2003-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0310/S00020/new-type-of-damage-causing-heart-disease.htm
 author: university-of-canterbury
+permalink: /archive/2003/10/08/new-type-of-damage-causing-heart-disease/index.html
+layout: layout.njk
 ---
 New type of damage causing heart disease
 ========================================

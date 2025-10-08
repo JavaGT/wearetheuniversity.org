@@ -1,9 +1,12 @@
 ---
 slug: operational-funding-review-a-waste-of-time
-title: "Operational funding review a waste of time"
-date: 2006-12-19
-source-url: https://www.scoop.co.nz/stories/PA0612/S00398/operational-funding-review-a-waste-of-time.htm
+title: Operational funding review a waste of time
+date: 2006-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00398/operational-funding-review-a-waste-of-time.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/19/operational-funding-review-a-waste-of-time/index.html
+layout: layout.njk
 ---
 Operational funding review a waste of time
 ==========================================

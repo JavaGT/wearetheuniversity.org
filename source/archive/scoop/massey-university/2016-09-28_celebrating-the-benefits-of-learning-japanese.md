@@ -1,9 +1,12 @@
 ---
 slug: celebrating-the-benefits-of-learning-japanese
-title: "Celebrating the benefits of learning Japanese"
-date: 2016-09-28
-source-url: https://www.scoop.co.nz/stories/ED1609/S00148/celebrating-the-benefits-of-learning-japanese.htm
+title: Celebrating the benefits of learning Japanese
+date: 2016-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00148/celebrating-the-benefits-of-learning-japanese.htm
 author: massey-university
+permalink: /archive/2016/09/28/celebrating-the-benefits-of-learning-japanese/index.html
+layout: layout.njk
 ---
 Celebrating the benefits of learning Japanese
 =============================================

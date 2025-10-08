@@ -1,9 +1,12 @@
 ---
 slug: stop-the-slow-drip-feed-and-come-up-with-a-plan
-title: "Stop The Slow Drip Feed And Come Up With A Plan"
-date: 2020-09-03
-source-url: https://www.scoop.co.nz/stories/PA2009/S00022/stop-the-slow-drip-feed-and-come-up-with-a-plan.htm
+title: Stop The Slow Drip Feed And Come Up With A Plan
+date: 2020-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00022/stop-the-slow-drip-feed-and-come-up-with-a-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2020/09/03/stop-the-slow-drip-feed-and-come-up-with-a-plan/index.html
+layout: layout.njk
 ---
 Stop The Slow Drip Feed And Come Up With A Plan
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: school-age-entrepreneurs-compete-for-scholarships
-title: "School-age entrepreneurs compete for scholarships"
-date: 2007-07-02
-source-url: https://www.scoop.co.nz/stories/ED0707/S00009/school-age-entrepreneurs-compete-for-scholarships.htm
+title: School-age entrepreneurs compete for scholarships
+date: 2007-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00009/school-age-entrepreneurs-compete-for-scholarships.htm
 author: massey-university
+permalink: >-
+  /archive/2007/07/02/school-age-entrepreneurs-compete-for-scholarships/index.html
+layout: layout.njk
 ---
 School-age entrepreneurs compete for scholarships
 =================================================

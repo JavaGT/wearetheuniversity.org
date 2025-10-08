@@ -1,9 +1,12 @@
 ---
 slug: enron-lessons-unheeded-in-new-zealand
-title: "Enron lessons unheeded in New Zealand"
-date: 2007-12-11
-source-url: https://www.scoop.co.nz/stories/BU0712/S00194/enron-lessons-unheeded-in-new-zealand.htm
+title: Enron lessons unheeded in New Zealand
+date: 2007-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0712/S00194/enron-lessons-unheeded-in-new-zealand.htm
 author: massey-university
+permalink: /archive/2007/12/11/enron-lessons-unheeded-in-new-zealand/index.html
+layout: layout.njk
 ---
 Enron lessons unheeded in New Zealand
 =====================================

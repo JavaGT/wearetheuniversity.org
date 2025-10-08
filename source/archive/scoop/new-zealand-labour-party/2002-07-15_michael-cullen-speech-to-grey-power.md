@@ -1,9 +1,12 @@
 ---
 slug: michael-cullen-speech-to-grey-power
-title: "Michael Cullen Speech to Grey Power"
-date: 2002-07-15
-source-url: https://www.scoop.co.nz/stories/PA0207/S00386/michael-cullen-speech-to-grey-power.htm
+title: Michael Cullen Speech to Grey Power
+date: 2002-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00386/michael-cullen-speech-to-grey-power.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/15/michael-cullen-speech-to-grey-power/index.html
+layout: layout.njk
 ---
 Michael Cullen Speech to Grey Power
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: students-urged-to-combat-cybercrime
-title: "Students urged to combat cybercrime"
-date: 2017-03-30
-source-url: https://www.scoop.co.nz/stories/ED1703/S00124/students-urged-to-combat-cybercrime.htm
+title: Students urged to combat cybercrime
+date: 2017-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00124/students-urged-to-combat-cybercrime.htm
 author: university-of-waikato
+permalink: /archive/2017/03/30/students-urged-to-combat-cybercrime/index.html
+layout: layout.njk
 ---
 Students urged to combat cybercrime
 ===================================

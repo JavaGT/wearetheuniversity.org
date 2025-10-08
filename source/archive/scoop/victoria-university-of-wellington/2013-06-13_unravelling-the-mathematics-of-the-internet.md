@@ -1,9 +1,12 @@
 ---
 slug: unravelling-the-mathematics-of-the-internet
-title: "Unravelling the mathematics of the internet"
-date: 2013-06-13
-source-url: https://www.scoop.co.nz/stories/ED1306/S00073/unravelling-the-mathematics-of-the-internet.htm
+title: Unravelling the mathematics of the internet
+date: 2013-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00073/unravelling-the-mathematics-of-the-internet.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/06/13/unravelling-the-mathematics-of-the-internet/index.html
+layout: layout.njk
 ---
 Unravelling the mathematics of the internet
 ===========================================

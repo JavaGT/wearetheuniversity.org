@@ -1,9 +1,13 @@
 ---
 slug: young-workers-will-be-hit-hard-by-new-labour-laws
-title: "Young workers will be hit hard by new labour laws"
-date: 2011-04-01
-source-url: https://www.scoop.co.nz/stories/PO1104/S00021/young-workers-will-be-hit-hard-by-new-labour-laws.htm
+title: Young workers will be hit hard by new labour laws
+date: 2011-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00021/young-workers-will-be-hit-hard-by-new-labour-laws.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/04/01/young-workers-will-be-hit-hard-by-new-labour-laws/index.html
+layout: layout.njk
 ---
 Young workers will be hit hard by new labour laws
 =================================================

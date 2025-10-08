@@ -1,9 +1,13 @@
 ---
 slug: peters-promise-to-upgrade-rail-everywhere-except-northland
-title: "Peters' promise to upgrade rail everywhere except Northland"
-date: 2015-03-12
-source-url: https://www.scoop.co.nz/stories/PO1503/S00139/peters-promise-to-upgrade-rail-everywhere-except-northland.htm
+title: Peters' promise to upgrade rail everywhere except Northland
+date: 2015-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1503/S00139/peters-promise-to-upgrade-rail-everywhere-except-northland.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2015/03/12/peters-promise-to-upgrade-rail-everywhere-except-northland/index.html
+layout: layout.njk
 ---
 Peters' promise to upgrade rail everywhere except Northland
 ===========================================================

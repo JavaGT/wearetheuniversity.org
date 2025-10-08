@@ -1,9 +1,12 @@
 ---
 slug: kiwi-workers-dont-realise-they-are-burnt-out
-title: "Kiwi Workers Don’t Realise They Are Burnt Out"
-date: 2022-04-11
-source-url: https://www.scoop.co.nz/stories/GE2204/S00031/kiwi-workers-dont-realise-they-are-burnt-out.htm
+title: Kiwi Workers Don’t Realise They Are Burnt Out
+date: 2022-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2204/S00031/kiwi-workers-dont-realise-they-are-burnt-out.htm
 author: aut-university
+permalink: /archive/2022/04/11/kiwi-workers-dont-realise-they-are-burnt-out/index.html
+layout: layout.njk
 ---
 Kiwi Workers Don’t Realise They Are Burnt Out
 =============================================

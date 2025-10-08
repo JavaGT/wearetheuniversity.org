@@ -1,9 +1,12 @@
 ---
 slug: melanie-morten-is-off-to-yale
-title: "Melanie Morten is off to Yale"
-date: 2007-06-11
-source-url: https://www.scoop.co.nz/stories/ED0706/S00037/melanie-morten-is-off-to-yale.htm
+title: Melanie Morten is off to Yale
+date: 2007-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00037/melanie-morten-is-off-to-yale.htm
 author: motu
+permalink: /archive/2007/06/11/melanie-morten-is-off-to-yale/index.html
+layout: layout.njk
 ---
 Melanie Morten is off to Yale
 =============================

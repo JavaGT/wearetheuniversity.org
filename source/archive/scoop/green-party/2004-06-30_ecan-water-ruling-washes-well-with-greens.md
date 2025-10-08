@@ -1,9 +1,12 @@
 ---
 slug: ecan-water-ruling-washes-well-with-greens
-title: "Ecan water ruling washes well with Greens"
-date: 2004-06-30
-source-url: https://www.scoop.co.nz/stories/PA0406/S00498/ecan-water-ruling-washes-well-with-greens.htm
+title: Ecan water ruling washes well with Greens
+date: 2004-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00498/ecan-water-ruling-washes-well-with-greens.htm
 author: green-party
+permalink: /archive/2004/06/30/ecan-water-ruling-washes-well-with-greens/index.html
+layout: layout.njk
 ---
 Ecan water ruling washes well with Greens
 =========================================

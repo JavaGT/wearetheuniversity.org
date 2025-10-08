@@ -1,9 +1,12 @@
 ---
 slug: labour-failing-māori-in-education
-title: "Labour Failing Māori In Education"
-date: 2023-06-20
-source-url: https://www.scoop.co.nz/stories/PA2306/S00128/labour-failing-maori-in-education.htm
+title: Labour Failing Māori In Education
+date: 2023-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00128/labour-failing-maori-in-education.htm
 author: new-zealand-national-party
+permalink: /archive/2023/06/20/labour-failing-m/index.html
+layout: layout.njk
 ---
 Labour Failing Māori In Education
 =================================

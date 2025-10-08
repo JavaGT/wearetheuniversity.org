@@ -1,9 +1,12 @@
 ---
 slug: focus-on-fees-for-long-term-kiwisaver-benefit
-title: "Focus on fees for long-term KiwiSaver benefit"
-date: 2017-09-05
-source-url: https://www.scoop.co.nz/stories/BU1709/S00137/focus-on-fees-for-long-term-kiwisaver-benefit.htm
+title: Focus on fees for long-term KiwiSaver benefit
+date: 2017-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1709/S00137/focus-on-fees-for-long-term-kiwisaver-benefit.htm
 author: aut-university
+permalink: /archive/2017/09/05/focus-on-fees-for-long-term-kiwisaver-benefit/index.html
+layout: layout.njk
 ---
 Focus on fees for long-term KiwiSaver benefit
 =============================================

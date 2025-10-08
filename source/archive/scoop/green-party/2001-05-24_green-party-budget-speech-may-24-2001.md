@@ -1,9 +1,12 @@
 ---
 slug: green-party-budget-speech-may-24-2001
-title: "Green Party Budget Speech - May 24 2001"
-date: 2001-05-24
-source-url: https://www.scoop.co.nz/stories/PA0105/S00539/green-party-budget-speech-may-24-2001.htm
+title: Green Party Budget Speech - May 24 2001
+date: 2001-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00539/green-party-budget-speech-may-24-2001.htm
 author: green-party
+permalink: /archive/2001/05/24/green-party-budget-speech-may-24-2001/index.html
+layout: layout.njk
 ---
 Green Party Budget Speech - May 24 2001
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: real-issues-philanthropy-dominion-day
-title: "Real Issues: Philanthropy, Dominion Day"
-date: 2007-09-28
-source-url: https://www.scoop.co.nz/stories/PO0709/S00380/real-issues-philanthropy-dominion-day.htm
+title: 'Real Issues: Philanthropy, Dominion Day'
+date: 2007-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0709/S00380/real-issues-philanthropy-dominion-day.htm
 author: maxim-institute
+permalink: /archive/2007/09/28/real-issues-philanthropy-dominion-day/index.html
+layout: layout.njk
 ---
 Real Issues: Philanthropy, Dominion Day
 =======================================

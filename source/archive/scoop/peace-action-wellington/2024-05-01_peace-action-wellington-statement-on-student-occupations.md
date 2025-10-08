@@ -1,9 +1,13 @@
 ---
 slug: peace-action-wellington-statement-on-student-occupations
-title: "Peace Action Wellington Statement On Student Occupations"
-date: 2024-05-01
-source-url: https://www.scoop.co.nz/stories/ED2405/S00004/peace-action-wellington-statement-on-student-occupations.htm
+title: Peace Action Wellington Statement On Student Occupations
+date: 2024-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00004/peace-action-wellington-statement-on-student-occupations.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2024/05/01/peace-action-wellington-statement-on-student-occupations/index.html
+layout: layout.njk
 ---
 Peace Action Wellington Statement On Student Occupations
 ========================================================

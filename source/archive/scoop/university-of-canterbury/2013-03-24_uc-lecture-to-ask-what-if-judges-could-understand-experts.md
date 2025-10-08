@@ -1,9 +1,13 @@
 ---
 slug: uc-lecture-to-ask-what-if-judges-could-understand-experts
-title: "UC lecture to ask what if judges could understand experts?"
-date: 2013-03-24
-source-url: https://www.scoop.co.nz/stories/ED1303/S00165/uc-lecture-to-ask-what-if-judges-could-understand-experts.htm
+title: UC lecture to ask what if judges could understand experts?
+date: 2013-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00165/uc-lecture-to-ask-what-if-judges-could-understand-experts.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/24/uc-lecture-to-ask-what-if-judges-could-understand-experts/index.html
+layout: layout.njk
 ---
 UC lecture to ask what if judges could understand experts?
 ==========================================================

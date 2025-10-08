@@ -1,9 +1,12 @@
 ---
 slug: tolley-doesnt-care-about-aorangi-closure
-title: "Tolley doesn’t care about Aorangi closure"
-date: 2009-11-25
-source-url: https://www.scoop.co.nz/stories/PA0911/S00382/tolley-doesnt-care-about-aorangi-closure.htm
+title: Tolley doesn’t care about Aorangi closure
+date: 2009-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00382/tolley-doesnt-care-about-aorangi-closure.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/25/tolley-doesnt-care-about-aorangi-closure/index.html
+layout: layout.njk
 ---
 Tolley doesn’t care about Aorangi closure
 =========================================

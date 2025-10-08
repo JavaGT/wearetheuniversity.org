@@ -1,9 +1,12 @@
 ---
 slug: invest-in-state-of-the-art-public-transport
-title: "Invest In State Of The Art Public Transport"
-date: 2002-07-23
-source-url: https://www.scoop.co.nz/stories/PA0207/S00625/invest-in-state-of-the-art-public-transport.htm
+title: Invest In State Of The Art Public Transport
+date: 2002-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00625/invest-in-state-of-the-art-public-transport.htm
 author: green-party
+permalink: /archive/2002/07/23/invest-in-state-of-the-art-public-transport/index.html
+layout: layout.njk
 ---
 Invest In State Of The Art Public Transport
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: speech-rugby-world-cup-urgent-debate-te-ururoa-flavell
-title: "Speech: Rugby World Cup urgent debate - Te Ururoa Flavell"
-date: 2011-09-16
-source-url: https://www.scoop.co.nz/stories/PA1109/S00344/speech-rugby-world-cup-urgent-debate-te-ururoa-flavell.htm
+title: 'Speech: Rugby World Cup urgent debate - Te Ururoa Flavell'
+date: 2011-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00344/speech-rugby-world-cup-urgent-debate-te-ururoa-flavell.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/09/16/speech-rugby-world-cup-urgent-debate-te-ururoa-flavell/index.html
+layout: layout.njk
 ---
 Speech: Rugby World Cup urgent debate - Te Ururoa Flavell
 =========================================================

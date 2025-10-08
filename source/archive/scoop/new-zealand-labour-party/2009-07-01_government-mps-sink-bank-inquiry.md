@@ -1,9 +1,12 @@
 ---
 slug: government-mps-sink-bank-inquiry
-title: "Government MPs sink bank inquiry"
-date: 2009-07-01
-source-url: https://www.scoop.co.nz/stories/PA0907/S00020/government-mps-sink-bank-inquiry.htm
+title: Government MPs sink bank inquiry
+date: 2009-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00020/government-mps-sink-bank-inquiry.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/01/government-mps-sink-bank-inquiry/index.html
+layout: layout.njk
 ---
 Government MPs sink bank inquiry
 ================================

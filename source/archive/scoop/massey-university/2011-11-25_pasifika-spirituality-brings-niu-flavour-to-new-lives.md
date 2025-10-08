@@ -1,9 +1,13 @@
 ---
 slug: pasifika-spirituality-brings-niu-flavour-to-new-lives
-title: "Pasifika spirituality brings ‘niu’ flavour to new lives"
-date: 2011-11-25
-source-url: https://www.scoop.co.nz/stories/ED1111/S00189/pasifika-spirituality-brings-niu-flavour-to-new-lives.htm
+title: Pasifika spirituality brings ‘niu’ flavour to new lives
+date: 2011-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00189/pasifika-spirituality-brings-niu-flavour-to-new-lives.htm
 author: massey-university
+permalink: >-
+  /archive/2011/11/25/pasifika-spirituality-brings-niu-flavour-to-new-lives/index.html
+layout: layout.njk
 ---
 Pasifika spirituality brings ‘niu’ flavour to new lives
 =======================================================

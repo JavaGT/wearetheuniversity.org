@@ -1,9 +1,12 @@
 ---
 slug: measuring-wellbeing-through-shared-prosperity
-title: "Measuring wellbeing through shared prosperity"
-date: 2019-04-29
-source-url: https://www.scoop.co.nz/stories/PO1904/S00273/measuring-wellbeing-through-shared-prosperity.htm
+title: Measuring wellbeing through shared prosperity
+date: 2019-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1904/S00273/measuring-wellbeing-through-shared-prosperity.htm
 author: massey-university
+permalink: /archive/2019/04/29/measuring-wellbeing-through-shared-prosperity/index.html
+layout: layout.njk
 ---
 Measuring wellbeing through shared prosperity
 =============================================

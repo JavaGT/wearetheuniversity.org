@@ -1,13 +1,15 @@
 ---
+permalink: "/tools/index.html"
 slug: 'tools'
 title: 'Tools'
+layout: 'layout.njk'
 ---
 
 # Open Athens Bookmarklet (University of Auckland)
 #### [UoA 🔑](javascript:(()=>{location=`https://go.openathens.net/redirector/auckland.ac.nz?url=${encodeURI(location.href)}`})())
 Drag this link to your bookmarks bar and click that bookmark to access texts via the University of Auckland library. This will redirect you to the University of Auckland's Open Athens login page, where you can log in with your student or staff credentials to access the text.
 
-# EzProxy Bokmetlet (Victoria University of Wellington)
+# EzProxy Bookmarklet (Victoria University of Wellington)
 #### [VUW 🔑](javascript:(()=>{location=`https://login.helicon.vuw.ac.nz/login?url=${encodeURI(location.href)}`})())
 Drag this link to your bookmarks bar and click that bookmark to access texts via Victoria University of Wellington library. This will redirect you to the VUW library's EzProxy login page, where you can log in with your student or staff credentials to access the text.
 

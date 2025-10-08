@@ -1,9 +1,13 @@
 ---
 slug: nzei-joins-fight-against-misuse-of-national-standards-data
-title: "NZEI joins fight against misuse of \"National Standards\" data"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/ED1109/S00104/nzei-joins-fight-against-misuse-of-national-standards-data.htm
+title: NZEI joins fight against misuse of "National Standards" data
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00104/nzei-joins-fight-against-misuse-of-national-standards-data.htm
 author: nzei
+permalink: >-
+  /archive/2011/09/23/nzei-joins-fight-against-misuse-of-national-standards-data/index.html
+layout: layout.njk
 ---
 NZEI joins fight against misuse of “National Standards" data
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: mahareys-gift-a-cruel-joke-on-students
-title: "Maharey's 'gift' a cruel joke on students"
-date: 2003-12-17
-source-url: https://www.scoop.co.nz/stories/PA0312/S00403/mahareys-gift-a-cruel-joke-on-students.htm
+title: Maharey's 'gift' a cruel joke on students
+date: 2003-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00403/mahareys-gift-a-cruel-joke-on-students.htm
 author: green-party
+permalink: /archive/2003/12/17/mahareys-gift-a-cruel-joke-on-students/index.html
+layout: layout.njk
 ---
 Maharey's 'gift' a cruel joke on students
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: earth-and-computer-sciences-collaboration-a-success
-title: "Earth and computer sciences collaboration a success"
-date: 2014-04-03
-source-url: https://www.scoop.co.nz/stories/ED1404/S00022/earth-and-computer-sciences-collaboration-a-success.htm
+title: Earth and computer sciences collaboration a success
+date: 2014-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00022/earth-and-computer-sciences-collaboration-a-success.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/04/03/earth-and-computer-sciences-collaboration-a-success/index.html
+layout: layout.njk
 ---
 Earth and computer sciences collaboration a success
 ===================================================

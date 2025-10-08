@@ -1,9 +1,12 @@
 ---
 slug: government-denies-students-allowances
-title: "Government denies students allowances"
-date: 2001-11-01
-source-url: https://www.scoop.co.nz/stories/ED0111/S00002/government-denies-students-allowances.htm
+title: Government denies students allowances
+date: 2001-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00002/government-denies-students-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/11/01/government-denies-students-allowances/index.html
+layout: layout.njk
 ---
 Government denies students allowances
 =====================================

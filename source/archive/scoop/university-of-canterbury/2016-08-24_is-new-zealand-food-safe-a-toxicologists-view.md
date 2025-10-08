@@ -1,9 +1,12 @@
 ---
 slug: is-new-zealand-food-safe-a-toxicologists-view
-title: "Is New Zealand food safe? A toxicologist’s view"
-date: 2016-08-24
-source-url: https://www.scoop.co.nz/stories/ED1608/S00087/is-new-zealand-food-safe-a-toxicologists-view.htm
+title: Is New Zealand food safe? A toxicologist’s view
+date: 2016-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00087/is-new-zealand-food-safe-a-toxicologists-view.htm
 author: university-of-canterbury
+permalink: /archive/2016/08/24/is-new-zealand-food-safe-a-toxicologists-view/index.html
+layout: layout.njk
 ---
 Is New Zealand food safe? A toxicologist’s view
 ===============================================

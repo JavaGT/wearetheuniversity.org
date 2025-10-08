@@ -1,9 +1,12 @@
 ---
 slug: aut-leads-the-way-in-online-counselling
-title: "AUT leads the way in online counselling"
-date: 2005-08-26
-source-url: https://www.scoop.co.nz/stories/ED0508/S00108/aut-leads-the-way-in-online-counselling.htm
+title: AUT leads the way in online counselling
+date: 2005-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00108/aut-leads-the-way-in-online-counselling.htm
 author: aut-university
+permalink: /archive/2005/08/26/aut-leads-the-way-in-online-counselling/index.html
+layout: layout.njk
 ---
 AUT leads the way in online counselling
 =======================================

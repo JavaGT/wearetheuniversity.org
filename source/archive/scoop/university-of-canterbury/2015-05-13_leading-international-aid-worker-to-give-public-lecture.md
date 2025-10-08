@@ -1,9 +1,13 @@
 ---
 slug: leading-international-aid-worker-to-give-public-lecture
-title: "Leading international aid worker to give public lecture"
-date: 2015-05-13
-source-url: https://www.scoop.co.nz/stories/ED1505/S00061/leading-international-aid-worker-to-give-public-lecture.htm
+title: Leading international aid worker to give public lecture
+date: 2015-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00061/leading-international-aid-worker-to-give-public-lecture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/13/leading-international-aid-worker-to-give-public-lecture/index.html
+layout: layout.njk
 ---
 Leading international aid worker to give public lecture
 =======================================================

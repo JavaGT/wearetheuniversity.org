@@ -1,9 +1,12 @@
 ---
 slug: roadmap-launched-to-grow-nzs-robotics-industry
-title: "Roadmap Launched To Grow NZ’s Robotics Industry"
-date: 2021-12-10
-source-url: https://www.scoop.co.nz/stories/BU2112/S00282/roadmap-launched-to-grow-nzs-robotics-industry.htm
+title: Roadmap Launched To Grow NZ’s Robotics Industry
+date: 2021-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2112/S00282/roadmap-launched-to-grow-nzs-robotics-industry.htm
 author: university-of-waikato
+permalink: /archive/2021/12/10/roadmap-launched-to-grow-nzs-robotics-industry/index.html
+layout: layout.njk
 ---
 Roadmap Launched To Grow NZ’s Robotics Industry
 ===============================================

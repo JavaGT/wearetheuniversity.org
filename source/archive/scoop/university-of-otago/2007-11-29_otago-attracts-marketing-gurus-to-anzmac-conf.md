@@ -1,9 +1,12 @@
 ---
 slug: otago-attracts-marketing-gurus-to-anzmac-conf
-title: "Otago Attracts Marketing Gurus to ANZMAC Conf."
-date: 2007-11-29
-source-url: https://www.scoop.co.nz/stories/ED0711/S00124/otago-attracts-marketing-gurus-to-anzmac-conf.htm
+title: Otago Attracts Marketing Gurus to ANZMAC Conf.
+date: 2007-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00124/otago-attracts-marketing-gurus-to-anzmac-conf.htm
 author: university-of-otago
+permalink: /archive/2007/11/29/otago-attracts-marketing-gurus-to-anzmac-conf/index.html
+layout: layout.njk
 ---
 Otago Attracts Marketing Gurus to ANZMAC Conf.
 ==============================================

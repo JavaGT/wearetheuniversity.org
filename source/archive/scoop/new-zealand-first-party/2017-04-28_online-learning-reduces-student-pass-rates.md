@@ -1,9 +1,12 @@
 ---
 slug: online-learning-reduces-student-pass-rates
-title: "Online Learning Reduces Student Pass Rates"
-date: 2017-04-28
-source-url: https://www.scoop.co.nz/stories/PA1704/S00354/online-learning-reduces-student-pass-rates.htm
+title: Online Learning Reduces Student Pass Rates
+date: 2017-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00354/online-learning-reduces-student-pass-rates.htm
 author: new-zealand-first-party
+permalink: /archive/2017/04/28/online-learning-reduces-student-pass-rates/index.html
+layout: layout.njk
 ---
 Online Learning Reduces Student Pass Rates
 ==========================================

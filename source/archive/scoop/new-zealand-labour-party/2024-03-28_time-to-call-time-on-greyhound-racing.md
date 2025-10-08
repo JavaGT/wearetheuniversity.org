@@ -1,9 +1,12 @@
 ---
 slug: time-to-call-time-on-greyhound-racing
-title: "Time To Call Time On Greyhound Racing"
-date: 2024-03-28
-source-url: https://www.scoop.co.nz/stories/PA2403/S00171/time-to-call-time-on-greyhound-racing.htm
+title: Time To Call Time On Greyhound Racing
+date: 2024-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00171/time-to-call-time-on-greyhound-racing.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/03/28/time-to-call-time-on-greyhound-racing/index.html
+layout: layout.njk
 ---
 Time To Call Time On Greyhound Racing
 =====================================

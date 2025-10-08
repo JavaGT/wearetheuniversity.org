@@ -1,9 +1,13 @@
 ---
 slug: arresting-street-photography-wins-simon-devitt-prize
-title: "Arresting street photography wins Simon Devitt Prize"
-date: 2015-05-28
-source-url: https://www.scoop.co.nz/stories/CU1505/S00524/arresting-street-photography-wins-simon-devitt-prize.htm
+title: Arresting street photography wins Simon Devitt Prize
+date: 2015-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00524/arresting-street-photography-wins-simon-devitt-prize.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/05/28/arresting-street-photography-wins-simon-devitt-prize/index.html
+layout: layout.njk
 ---
 Arresting street photography wins Simon Devitt Prize
 ====================================================

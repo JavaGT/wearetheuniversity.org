@@ -1,9 +1,12 @@
 ---
 slug: farmers-protest-exposes-double-standard
-title: "Farmers protest exposes double standard"
-date: 2003-09-05
-source-url: https://www.scoop.co.nz/stories/PO0309/S00037/farmers-protest-exposes-double-standard.htm
+title: Farmers protest exposes double standard
+date: 2003-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0309/S00037/farmers-protest-exposes-double-standard.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/09/05/farmers-protest-exposes-double-standard/index.html
+layout: layout.njk
 ---
 Farmers protest exposes double standard
 =======================================

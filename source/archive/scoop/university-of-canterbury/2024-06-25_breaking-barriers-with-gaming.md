@@ -1,9 +1,12 @@
 ---
 slug: breaking-barriers-with-gaming
-title: "Breaking Barriers With Gaming"
-date: 2024-06-25
-source-url: https://www.scoop.co.nz/stories/SC2406/S00076/breaking-barriers-with-gaming.htm
+title: Breaking Barriers With Gaming
+date: 2024-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2406/S00076/breaking-barriers-with-gaming.htm
 author: university-of-canterbury
+permalink: /archive/2024/06/25/breaking-barriers-with-gaming/index.html
+layout: layout.njk
 ---
 Breaking Barriers With Gaming
 =============================

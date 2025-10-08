@@ -1,9 +1,13 @@
 ---
 slug: christchurch-education-plan-will-have-far-reaching-impact
-title: "Christchurch education plan will have far-reaching impact"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/ED1209/S00102/christchurch-education-plan-will-have-far-reaching-impact.htm
+title: Christchurch education plan will have far-reaching impact
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00102/christchurch-education-plan-will-have-far-reaching-impact.htm
 author: nzei
+permalink: >-
+  /archive/2012/09/13/christchurch-education-plan-will-have-far-reaching-impact/index.html
+layout: layout.njk
 ---
 Christchurch education plan will have far-reaching impact
 =========================================================

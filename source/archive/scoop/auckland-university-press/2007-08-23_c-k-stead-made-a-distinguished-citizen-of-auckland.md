@@ -1,9 +1,13 @@
 ---
 slug: c-k-stead-made-a-distinguished-citizen-of-auckland
-title: "C K Stead Made A Distinguished Citizen Of Auckland"
-date: 2007-08-23
-source-url: https://www.scoop.co.nz/stories/CU0708/S00282/c-k-stead-made-a-distinguished-citizen-of-auckland.htm
+title: C K Stead Made A Distinguished Citizen Of Auckland
+date: 2007-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0708/S00282/c-k-stead-made-a-distinguished-citizen-of-auckland.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2007/08/23/c-k-stead-made-a-distinguished-citizen-of-auckland/index.html
+layout: layout.njk
 ---
 C K Stead Made A Distinguished Citizen Of Auckland
 ==================================================

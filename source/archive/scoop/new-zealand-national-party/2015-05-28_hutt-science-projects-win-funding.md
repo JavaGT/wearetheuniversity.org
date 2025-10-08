@@ -1,9 +1,12 @@
 ---
 slug: hutt-science-projects-win-funding
-title: "Hutt science projects win funding"
-date: 2015-05-28
-source-url: https://www.scoop.co.nz/stories/PA1505/S00562/hutt-science-projects-win-funding.htm
+title: Hutt science projects win funding
+date: 2015-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00562/hutt-science-projects-win-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2015/05/28/hutt-science-projects-win-funding/index.html
+layout: layout.njk
 ---
 Hutt science projects win funding
 =================================

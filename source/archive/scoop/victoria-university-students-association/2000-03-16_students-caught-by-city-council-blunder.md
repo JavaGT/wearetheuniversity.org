@@ -1,9 +1,12 @@
 ---
 slug: students-caught-by-city-council-blunder
-title: "Students Caught By City Council Blunder"
-date: 2000-03-16
-source-url: https://www.scoop.co.nz/stories/ED0003/S00027/students-caught-by-city-council-blunder.htm
+title: Students Caught By City Council Blunder
+date: 2000-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00027/students-caught-by-city-council-blunder.htm
 author: victoria-university-students-association
+permalink: /archive/2000/03/16/students-caught-by-city-council-blunder/index.html
+layout: layout.njk
 ---
 Students Caught By City Council Blunder
 =======================================

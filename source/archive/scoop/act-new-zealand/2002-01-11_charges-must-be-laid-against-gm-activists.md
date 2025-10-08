@@ -1,9 +1,12 @@
 ---
 slug: charges-must-be-laid-against-gm-activists
-title: "Charges Must Be Laid Against GM Activists"
-date: 2002-01-11
-source-url: https://www.scoop.co.nz/stories/PA0201/S00029/charges-must-be-laid-against-gm-activists.htm
+title: Charges Must Be Laid Against GM Activists
+date: 2002-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00029/charges-must-be-laid-against-gm-activists.htm
 author: act-new-zealand
+permalink: /archive/2002/01/11/charges-must-be-laid-against-gm-activists/index.html
+layout: layout.njk
 ---
 Charges Must Be Laid Against GM Activists
 =========================================

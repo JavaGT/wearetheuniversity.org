@@ -1,9 +1,11 @@
 ---
 slug: free-press-november-2nd
-title: "Free Press - November 2nd"
-date: 2015-11-03
+title: Free Press - November 2nd
+date: 2015-11-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1511/S00027/free-press-november-2nd.htm
 author: act-new-zealand
+permalink: /archive/2015/11/03/free-press-november-2nd/index.html
+layout: layout.njk
 ---
 Free Press - November 2nd
 =========================

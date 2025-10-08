@@ -1,9 +1,12 @@
 ---
 slug: provinces-being-hit-hard-by-government-policies
-title: "Provinces being hit hard by government policies"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/PA1406/S00251/provinces-being-hit-hard-by-government-policies.htm
+title: Provinces being hit hard by government policies
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00251/provinces-being-hit-hard-by-government-policies.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/18/provinces-being-hit-hard-by-government-policies/index.html
+layout: layout.njk
 ---
 Provinces being hit hard by government policies
 ===============================================

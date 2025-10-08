@@ -1,9 +1,13 @@
 ---
 slug: ilam-apartments-provide-a-haven-for-red-zone-family
-title: "Ilam Apartments provide a haven for red-zone family"
-date: 2011-11-09
-source-url: https://www.scoop.co.nz/stories/AK1111/S00236/ilam-apartments-provide-a-haven-for-red-zone-family.htm
+title: Ilam Apartments provide a haven for red-zone family
+date: 2011-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1111/S00236/ilam-apartments-provide-a-haven-for-red-zone-family.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/11/09/ilam-apartments-provide-a-haven-for-red-zone-family/index.html
+layout: layout.njk
 ---
 Ilam Apartments provide a haven for red-zone family
 ===================================================

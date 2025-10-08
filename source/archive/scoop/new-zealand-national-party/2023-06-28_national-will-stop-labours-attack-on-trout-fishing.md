@@ -1,9 +1,13 @@
 ---
 slug: national-will-stop-labours-attack-on-trout-fishing
-title: "National Will Stop Labour’s Attack On Trout Fishing"
-date: 2023-06-28
-source-url: https://www.scoop.co.nz/stories/PA2306/S00189/national-will-stop-labours-attack-on-trout-fishing.htm
+title: National Will Stop Labour’s Attack On Trout Fishing
+date: 2023-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00189/national-will-stop-labours-attack-on-trout-fishing.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/06/28/national-will-stop-labours-attack-on-trout-fishing/index.html
+layout: layout.njk
 ---
 National Will Stop Labour’s Attack On Trout Fishing
 ===================================================

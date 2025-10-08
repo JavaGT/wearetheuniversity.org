@@ -1,9 +1,13 @@
 ---
 slug: concerns-about-financial-viability-of-charter-schools
-title: "Concerns About Financial Viability Of Charter Schools"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/ED1302/S00063/concerns-about-financial-viability-of-charter-schools.htm
+title: Concerns About Financial Viability Of Charter Schools
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00063/concerns-about-financial-viability-of-charter-schools.htm
 author: nzei
+permalink: >-
+  /archive/2013/02/13/concerns-about-financial-viability-of-charter-schools/index.html
+layout: layout.njk
 ---
 Concerns About Financial Viability Of Charter Schools
 =====================================================

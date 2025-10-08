@@ -1,9 +1,12 @@
 ---
 slug: welfare-reform-vital-for-nation-to-stop-slide
-title: "Welfare Reform - Vital for Nation to Stop Slide"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00013/welfare-reform-vital-for-nation-to-stop-slide.htm
+title: Welfare Reform - Vital for Nation to Stop Slide
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00013/welfare-reform-vital-for-nation-to-stop-slide.htm
 author: act-new-zealand
+permalink: /archive/2002/12/02/welfare-reform-vital-for-nation-to-stop-slide/index.html
+layout: layout.njk
 ---
 Welfare Reform - Vital for Nation to Stop Slide
 ===============================================

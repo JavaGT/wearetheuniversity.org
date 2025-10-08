@@ -1,9 +1,13 @@
 ---
 slug: common-sense-the-first-casualty-of-sticker-crusade
-title: "Common-sense the first casualty of sticker crusade"
-date: 2000-04-04
-source-url: https://www.scoop.co.nz/stories/PA0004/S00031/common-sense-the-first-casualty-of-sticker-crusade.htm
+title: Common-sense the first casualty of sticker crusade
+date: 2000-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00031/common-sense-the-first-casualty-of-sticker-crusade.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2000/04/04/common-sense-the-first-casualty-of-sticker-crusade/index.html
+layout: layout.njk
 ---
 Common-sense the first casualty of sticker crusade
 ==================================================

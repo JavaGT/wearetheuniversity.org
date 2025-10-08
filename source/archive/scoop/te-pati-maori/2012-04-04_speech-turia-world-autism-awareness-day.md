@@ -1,9 +1,12 @@
 ---
 slug: speech-turia-world-autism-awareness-day
-title: "Speech: Turia - World Autism Awareness Day"
-date: 2012-04-04
-source-url: https://www.scoop.co.nz/stories/PA1204/S00040/speech-turia-world-autism-awareness-day.htm
+title: 'Speech: Turia - World Autism Awareness Day'
+date: 2012-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00040/speech-turia-world-autism-awareness-day.htm
 author: te-pati-maori
+permalink: /archive/2012/04/04/speech-turia-world-autism-awareness-day/index.html
+layout: layout.njk
 ---
 Speech: Turia - World Autism Awareness Day
 ==========================================

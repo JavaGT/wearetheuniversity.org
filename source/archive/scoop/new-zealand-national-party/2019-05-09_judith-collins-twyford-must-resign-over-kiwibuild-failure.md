@@ -1,9 +1,13 @@
 ---
 slug: judith-collins-twyford-must-resign-over-kiwibuild-failure
-title: "Judith Collins: Twyford must resign over KiwiBuild failure"
-date: 2019-05-09
-source-url: https://www.scoop.co.nz/stories/PA1905/S00092/judith-collins-twyford-must-resign-over-kiwibuild-failure.htm
+title: 'Judith Collins: Twyford must resign over KiwiBuild failure'
+date: 2019-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00092/judith-collins-twyford-must-resign-over-kiwibuild-failure.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/05/09/judith-collins-twyford-must-resign-over-kiwibuild-failure/index.html
+layout: layout.njk
 ---
 Judith Collins: Twyford must resign over KiwiBuild failure
 ==========================================================

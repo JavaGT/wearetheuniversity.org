@@ -1,9 +1,12 @@
 ---
 slug: design-boosts-the-new-zealand-economy-by-$10-1-billion
-title: "Design boosts the New Zealand economy by $10.1 billion"
-date: 2017-07-27
-source-url: https://www.scoop.co.nz/stories/BU1707/S00709/design-boosts-the-new-zealand-economy-by-101-billion.htm
+title: Design boosts the New Zealand economy by $10.1 billion
+date: 2017-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1707/S00709/design-boosts-the-new-zealand-economy-by-101-billion.htm
 author: massey-university
+permalink: /archive/2017/07/27/design-boosts-the-new-zealand-economy-by-/index.html
+layout: layout.njk
 ---
 Design boosts the New Zealand economy by $10.1 billion
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: $12-min-wage-needed-sooner-rather-than-later
-title: "$12 min wage needed sooner rather than later"
-date: 2006-01-25
-source-url: https://www.scoop.co.nz/stories/PO0601/S00067/12-min-wage-needed-sooner-rather-than-later.htm
+title: $12 min wage needed sooner rather than later
+date: 2006-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0601/S00067/12-min-wage-needed-sooner-rather-than-later.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/01/25/12-min-wage-needed-sooner-rather-than-later/index.html
+layout: layout.njk
 ---
 $12 min wage needed sooner rather than later
 ============================================

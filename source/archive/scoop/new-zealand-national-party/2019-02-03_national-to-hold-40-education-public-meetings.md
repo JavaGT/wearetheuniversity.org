@@ -1,9 +1,12 @@
 ---
 slug: national-to-hold-40-education-public-meetings
-title: "National to hold 40 education public meetings"
-date: 2019-02-03
-source-url: https://www.scoop.co.nz/stories/PA1902/S00022/national-to-hold-40-education-public-meetings.htm
+title: National to hold 40 education public meetings
+date: 2019-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00022/national-to-hold-40-education-public-meetings.htm
 author: new-zealand-national-party
+permalink: /archive/2019/02/03/national-to-hold-40-education-public-meetings/index.html
+layout: layout.njk
 ---
 National to hold 40 education public meetings
 =============================================

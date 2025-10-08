@@ -1,8 +1,12 @@
 ---
 slug: forgotten-genius-whose-discoveries-gave-us-mobile-phones-and-internet
-title: "Forgotten genius whose discoveries gave us mobile phones and internet"
-date: 2016-08-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/forgotten-genius-who-gave-us-mobile-phones-internet.html
+title: Forgotten genius whose discoveries gave us mobile phones and internet
+date: 2016-08-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/forgotten-genius-who-gave-us-mobile-phones-internet.html
+permalink: >-
+  /archive/2016/08/02/forgotten-genius-whose-discoveries-gave-us-mobile-phones-and-internet/index.html
+layout: layout.njk
 ---
 Forgotten genius whose discoveries gave us mobile phones and internet
 =====================================================================

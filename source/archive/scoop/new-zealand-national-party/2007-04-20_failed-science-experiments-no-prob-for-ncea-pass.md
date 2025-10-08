@@ -1,9 +1,13 @@
 ---
 slug: failed-science-experiments-no-prob-for-ncea-pass
-title: "Failed science experiments? No prob for NCEA pass"
-date: 2007-04-20
-source-url: https://www.scoop.co.nz/stories/PA0704/S00346/failed-science-experiments-no-prob-for-ncea-pass.htm
+title: Failed science experiments? No prob for NCEA pass
+date: 2007-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00346/failed-science-experiments-no-prob-for-ncea-pass.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/04/20/failed-science-experiments-no-prob-for-ncea-pass/index.html
+layout: layout.njk
 ---
 Failed science experiments? No prob for NCEA pass
 =================================================

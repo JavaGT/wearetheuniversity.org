@@ -1,9 +1,13 @@
 ---
 slug: lets-back-kiwi-scientists-in-fight-against-covid-19
-title: "Let’s Back Kiwi Scientists In Fight Against Covid-19"
-date: 2020-04-26
-source-url: https://www.scoop.co.nz/stories/PA2004/S00153/lets-back-kiwi-scientists-in-fight-against-covid-19.htm
+title: Let’s Back Kiwi Scientists In Fight Against Covid-19
+date: 2020-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00153/lets-back-kiwi-scientists-in-fight-against-covid-19.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/04/26/lets-back-kiwi-scientists-in-fight-against-covid-19/index.html
+layout: layout.njk
 ---
 Let’s Back Kiwi Scientists In Fight Against Covid-19
 ====================================================

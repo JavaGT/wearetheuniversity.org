@@ -1,9 +1,12 @@
 ---
 slug: exploring-new-zealands-legal-identity
-title: "Exploring New Zealand’s legal identity"
-date: 2011-05-30
-source-url: https://www.scoop.co.nz/stories/ED1105/S00128/exploring-new-zealands-legal-identity.htm
+title: Exploring New Zealand’s legal identity
+date: 2011-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00128/exploring-new-zealands-legal-identity.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/05/30/exploring-new-zealands-legal-identity/index.html
+layout: layout.njk
 ---
 Exploring New Zealand’s legal identity
 ======================================

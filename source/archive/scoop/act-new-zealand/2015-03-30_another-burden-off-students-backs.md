@@ -1,9 +1,12 @@
 ---
 slug: another-burden-off-students-backs
-title: "Another burden off students’ backs"
-date: 2015-03-30
-source-url: https://www.scoop.co.nz/stories/PA1503/S00438/another-burden-off-students-backs.htm
+title: Another burden off students’ backs
+date: 2015-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00438/another-burden-off-students-backs.htm
 author: act-new-zealand
+permalink: /archive/2015/03/30/another-burden-off-students-backs/index.html
+layout: layout.njk
 ---
 Another burden off students’ backs
 ==================================

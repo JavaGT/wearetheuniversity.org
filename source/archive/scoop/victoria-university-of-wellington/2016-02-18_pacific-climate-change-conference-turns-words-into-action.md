@@ -1,9 +1,13 @@
 ---
 slug: pacific-climate-change-conference-turns-words-into-action
-title: "Pacific Climate Change Conference Turns Words into Action"
-date: 2016-02-18
-source-url: https://www.scoop.co.nz/stories/ED1602/S00060/pacific-climate-change-conference-turns-words-into-action.htm
+title: Pacific Climate Change Conference Turns Words into Action
+date: 2016-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00060/pacific-climate-change-conference-turns-words-into-action.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/02/18/pacific-climate-change-conference-turns-words-into-action/index.html
+layout: layout.njk
 ---
 Pacific Climate Change Conference Turns Words into Action
 =========================================================

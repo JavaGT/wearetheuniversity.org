@@ -1,9 +1,12 @@
 ---
 slug: tourism-industry-whacked-with-retrospective-tax
-title: "Tourism Industry Whacked With Retrospective Tax"
-date: 2001-09-13
-source-url: https://www.scoop.co.nz/stories/PA0109/S00188/tourism-industry-whacked-with-retrospective-tax.htm
+title: Tourism Industry Whacked With Retrospective Tax
+date: 2001-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00188/tourism-industry-whacked-with-retrospective-tax.htm
 author: act-new-zealand
+permalink: /archive/2001/09/13/tourism-industry-whacked-with-retrospective-tax/index.html
+layout: layout.njk
 ---
 Tourism Industry Whacked With Retrospective Tax
 ===============================================

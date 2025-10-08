@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-honours-chemistry-research-leader
-title: "University of Otago honours Chemistry research leader"
-date: 2015-07-23
-source-url: https://www.scoop.co.nz/stories/SC1507/S00065/university-of-otago-honours-chemistry-research-leader.htm
+title: University of Otago honours Chemistry research leader
+date: 2015-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00065/university-of-otago-honours-chemistry-research-leader.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/07/23/university-of-otago-honours-chemistry-research-leader/index.html
+layout: layout.njk
 ---
 University of Otago honours Chemistry research leader
 =====================================================

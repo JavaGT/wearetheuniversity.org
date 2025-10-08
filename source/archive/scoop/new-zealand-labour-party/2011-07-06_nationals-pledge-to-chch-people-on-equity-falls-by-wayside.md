@@ -1,9 +1,13 @@
 ---
 slug: nationals-pledge-to-chch-people-on-equity-falls-by-wayside
-title: "National’s pledge to Chch people on equity falls by wayside"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/PA1107/S00103/nationals-pledge-to-chch-people-on-equity-falls-by-wayside.htm
+title: National’s pledge to Chch people on equity falls by wayside
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00103/nationals-pledge-to-chch-people-on-equity-falls-by-wayside.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/07/06/nationals-pledge-to-chch-people-on-equity-falls-by-wayside/index.html
+layout: layout.njk
 ---
 National’s pledge to Chch people on equity falls by wayside
 ===========================================================

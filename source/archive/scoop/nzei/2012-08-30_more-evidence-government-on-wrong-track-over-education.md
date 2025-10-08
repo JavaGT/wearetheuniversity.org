@@ -1,9 +1,13 @@
 ---
 slug: more-evidence-government-on-wrong-track-over-education
-title: "More evidence Government on wrong track over education"
-date: 2012-08-30
-source-url: https://www.scoop.co.nz/stories/ED1208/S00175/more-evidence-government-on-wrong-track-over-education.htm
+title: More evidence Government on wrong track over education
+date: 2012-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00175/more-evidence-government-on-wrong-track-over-education.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/30/more-evidence-government-on-wrong-track-over-education/index.html
+layout: layout.njk
 ---
 More evidence Government on wrong track over education
 ======================================================

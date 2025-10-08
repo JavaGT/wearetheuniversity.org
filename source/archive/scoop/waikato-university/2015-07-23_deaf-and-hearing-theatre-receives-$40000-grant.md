@@ -1,9 +1,12 @@
 ---
 slug: deaf-and-hearing-theatre-receives-$40000-grant
-title: "Deaf and Hearing Theatre Receives $40,000 Grant"
-date: 2015-07-23
-source-url: https://www.scoop.co.nz/stories/ED1507/S00104/deaf-and-hearing-theatre-receives-40000-grant.htm
+title: Deaf and Hearing Theatre Receives $40,000 Grant
+date: 2015-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00104/deaf-and-hearing-theatre-receives-40000-grant.htm
 author: waikato-university
+permalink: /archive/2015/07/23/deaf-and-hearing-theatre-receives-/index.html
+layout: layout.njk
 ---
 Deaf and Hearing Theatre Receives $40,000 Grant
 ===============================================

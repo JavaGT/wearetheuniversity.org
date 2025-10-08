@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-race-relations-what-has-changed
-title: "Peters Speech: Race Relations -- What Has Changed?"
-date: 2002-04-19
-source-url: https://www.scoop.co.nz/stories/PA0204/S00274/peters-speech-race-relations-what-has-changed.htm
+title: 'Peters Speech: Race Relations -- What Has Changed?'
+date: 2002-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00274/peters-speech-race-relations-what-has-changed.htm
 author: new-zealand-first-party
+permalink: /archive/2002/04/19/peters-speech-race-relations-what-has-changed/index.html
+layout: layout.njk
 ---
 Peters Speech: Race Relations -- What Has Changed?
 ==================================================

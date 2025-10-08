@@ -1,9 +1,12 @@
 ---
 slug: have-lego-toys-become-more-violent
-title: "Have LEGO toys become more violent?"
-date: 2016-05-23
-source-url: https://www.scoop.co.nz/stories/ED1605/S00091/have-lego-toys-become-more-violent.htm
+title: Have LEGO toys become more violent?
+date: 2016-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00091/have-lego-toys-become-more-violent.htm
 author: university-of-canterbury
+permalink: /archive/2016/05/23/have-lego-toys-become-more-violent/index.html
+layout: layout.njk
 ---
 Have LEGO toys become more violent?
 ===================================

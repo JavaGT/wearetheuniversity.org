@@ -1,9 +1,12 @@
 ---
 slug: gp-crisis-not-confined-to-rural-localities
-title: "GP Crisis Not Confined To Rural Localities"
-date: 2002-05-30
-source-url: https://www.scoop.co.nz/stories/PA0205/S00678/gp-crisis-not-confined-to-rural-localities.htm
+title: GP Crisis Not Confined To Rural Localities
+date: 2002-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00678/gp-crisis-not-confined-to-rural-localities.htm
 author: act-new-zealand
+permalink: /archive/2002/05/30/gp-crisis-not-confined-to-rural-localities/index.html
+layout: layout.njk
 ---
 GP Crisis Not Confined To Rural Localities
 ==========================================

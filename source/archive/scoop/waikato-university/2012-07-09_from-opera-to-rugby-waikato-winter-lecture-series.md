@@ -1,9 +1,13 @@
 ---
 slug: from-opera-to-rugby-waikato-winter-lecture-series
-title: "From opera to rugby – Waikato Winter Lecture Series"
-date: 2012-07-09
-source-url: https://www.scoop.co.nz/stories/ED1207/S00029/from-opera-to-rugby-waikato-winter-lecture-series.htm
+title: From opera to rugby – Waikato Winter Lecture Series
+date: 2012-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00029/from-opera-to-rugby-waikato-winter-lecture-series.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/07/09/from-opera-to-rugby-waikato-winter-lecture-series/index.html
+layout: layout.njk
 ---
 From opera to rugby – Waikato Winter Lecture Series
 ===================================================

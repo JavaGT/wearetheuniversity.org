@@ -1,9 +1,12 @@
 ---
 slug: don-brash-address-to-anzac-day-dawn-service
-title: "Don Brash - Address to Anzac Day Dawn Service"
-date: 2005-04-26
-source-url: https://www.scoop.co.nz/stories/PA0504/S00517/don-brash-address-to-anzac-day-dawn-service.htm
+title: Don Brash - Address to Anzac Day Dawn Service
+date: 2005-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00517/don-brash-address-to-anzac-day-dawn-service.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/26/don-brash-address-to-anzac-day-dawn-service/index.html
+layout: layout.njk
 ---
 Don Brash - Address to Anzac Day Dawn Service
 =============================================

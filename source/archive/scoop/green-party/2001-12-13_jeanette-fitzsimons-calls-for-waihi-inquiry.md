@@ -1,9 +1,12 @@
 ---
 slug: jeanette-fitzsimons-calls-for-waihi-inquiry
-title: "Jeanette Fitzsimons Calls For Waihi Inquiry"
-date: 2001-12-13
-source-url: https://www.scoop.co.nz/stories/PA0112/S00239/jeanette-fitzsimons-calls-for-waihi-inquiry.htm
+title: Jeanette Fitzsimons Calls For Waihi Inquiry
+date: 2001-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00239/jeanette-fitzsimons-calls-for-waihi-inquiry.htm
 author: green-party
+permalink: /archive/2001/12/13/jeanette-fitzsimons-calls-for-waihi-inquiry/index.html
+layout: layout.njk
 ---
 Jeanette Fitzsimons Calls For Waihi Inquiry
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: three-design-students-in-pasifika-fashion-finals
-title: "Three Design students in Pasifika fashion finals"
-date: 2008-09-09
-source-url: https://www.scoop.co.nz/stories/ED0809/S00025/three-design-students-in-pasifika-fashion-finals.htm
+title: Three Design students in Pasifika fashion finals
+date: 2008-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00025/three-design-students-in-pasifika-fashion-finals.htm
 author: massey-university
+permalink: >-
+  /archive/2008/09/09/three-design-students-in-pasifika-fashion-finals/index.html
+layout: layout.njk
 ---
 Three Design students in Pasifika fashion finals
 ================================================

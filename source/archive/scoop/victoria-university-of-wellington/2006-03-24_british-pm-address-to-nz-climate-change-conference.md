@@ -1,9 +1,13 @@
 ---
 slug: british-pm-address-to-nz-climate-change-conference
-title: "British PM Address to NZ Climate Change Conference"
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/SC0603/S00053/british-pm-address-to-nz-climate-change-conference.htm
+title: British PM Address to NZ Climate Change Conference
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0603/S00053/british-pm-address-to-nz-climate-change-conference.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/03/24/british-pm-address-to-nz-climate-change-conference/index.html
+layout: layout.njk
 ---
 British PM Address to NZ Climate Change Conference
 ==================================================

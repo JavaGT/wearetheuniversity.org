@@ -1,9 +1,12 @@
 ---
 slug: united-future-mp-advocates-lawbreaking
-title: "United Future MP Advocates Lawbreaking"
-date: 2004-07-07
-source-url: https://www.scoop.co.nz/stories/PA0407/S00129/united-future-mp-advocates-lawbreaking.htm
+title: United Future MP Advocates Lawbreaking
+date: 2004-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00129/united-future-mp-advocates-lawbreaking.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/07/united-future-mp-advocates-lawbreaking/index.html
+layout: layout.njk
 ---
 United Future MP Advocates Lawbreaking
 ======================================

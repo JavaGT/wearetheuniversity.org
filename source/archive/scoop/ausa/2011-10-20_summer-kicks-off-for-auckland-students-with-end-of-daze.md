@@ -1,9 +1,13 @@
 ---
 slug: summer-kicks-off-for-auckland-students-with-end-of-daze
-title: "Summer kicks off for Auckland students with End of Daze"
-date: 2011-10-20
-source-url: https://www.scoop.co.nz/stories/ED1110/S00090/summer-kicks-off-for-auckland-students-with-end-of-daze.htm
+title: Summer kicks off for Auckland students with End of Daze
+date: 2011-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00090/summer-kicks-off-for-auckland-students-with-end-of-daze.htm
 author: ausa
+permalink: >-
+  /archive/2011/10/20/summer-kicks-off-for-auckland-students-with-end-of-daze/index.html
+layout: layout.njk
 ---
 Summer kicks off for Auckland students with End of Daze
 =======================================================

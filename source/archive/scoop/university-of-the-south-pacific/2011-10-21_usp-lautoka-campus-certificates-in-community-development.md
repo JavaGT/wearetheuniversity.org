@@ -1,9 +1,13 @@
 ---
 slug: usp-lautoka-campus-certificates-in-community-development
-title: "USP Lautoka Campus Certificates in Community Development"
-date: 2011-10-21
-source-url: https://www.scoop.co.nz/stories/ED1110/S00093/usp-lautoka-campus-certificates-in-community-development.htm
+title: USP Lautoka Campus Certificates in Community Development
+date: 2011-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00093/usp-lautoka-campus-certificates-in-community-development.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2011/10/21/usp-lautoka-campus-certificates-in-community-development/index.html
+layout: layout.njk
 ---
 USP Lautoka Campus Certificates in Community Development
 ========================================================

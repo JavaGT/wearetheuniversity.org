@@ -1,9 +1,12 @@
 ---
 slug: employment-driven-only-by-earthquake-rebuild
-title: "Employment driven only by earthquake rebuild"
-date: 2013-11-06
-source-url: https://www.scoop.co.nz/stories/PA1311/S00080/employment-driven-only-by-earthquake-rebuild.htm
+title: Employment driven only by earthquake rebuild
+date: 2013-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00080/employment-driven-only-by-earthquake-rebuild.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/06/employment-driven-only-by-earthquake-rebuild/index.html
+layout: layout.njk
 ---
 Employment driven only by earthquake rebuild
 ============================================

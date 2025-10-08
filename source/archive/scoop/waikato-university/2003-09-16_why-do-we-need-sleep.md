@@ -1,9 +1,11 @@
 ---
 slug: why-do-we-need-sleep
-title: "Why Do We Need Sleep?"
-date: 2003-09-16
+title: Why Do We Need Sleep?
+date: 2003-09-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00064/why-do-we-need-sleep.htm
 author: waikato-university
+permalink: /archive/2003/09/16/why-do-we-need-sleep/index.html
+layout: layout.njk
 ---
 Why Do We Need Sleep?
 =====================

@@ -1,9 +1,12 @@
 ---
 slug: chris-carter-confirms-$95000-state-house-income
-title: "Chris Carter confirms $95,000 state house income"
-date: 2006-03-27
-source-url: https://www.scoop.co.nz/stories/PA0603/S00450/chris-carter-confirms-95000-state-house-income.htm
+title: Chris Carter confirms $95,000 state house income
+date: 2006-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00450/chris-carter-confirms-95000-state-house-income.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/27/chris-carter-confirms-/index.html
+layout: layout.njk
 ---
 Chris Carter confirms $95,000 state house income
 ================================================

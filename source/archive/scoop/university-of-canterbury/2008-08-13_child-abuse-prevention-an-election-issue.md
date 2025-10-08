@@ -1,9 +1,12 @@
 ---
 slug: child-abuse-prevention-an-election-issue
-title: "Child abuse prevention an election issue"
-date: 2008-08-13
-source-url: https://www.scoop.co.nz/stories/PO0808/S00165/child-abuse-prevention-an-election-issue.htm
+title: Child abuse prevention an election issue
+date: 2008-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00165/child-abuse-prevention-an-election-issue.htm
 author: university-of-canterbury
+permalink: /archive/2008/08/13/child-abuse-prevention-an-election-issue/index.html
+layout: layout.njk
 ---
 Child abuse prevention an election issue
 ========================================

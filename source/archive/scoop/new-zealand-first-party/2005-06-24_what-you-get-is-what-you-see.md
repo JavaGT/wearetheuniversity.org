@@ -1,9 +1,11 @@
 ---
 slug: what-you-get-is-what-you-see
-title: "What You Get Is What You See"
-date: 2005-06-24
+title: What You Get Is What You See
+date: 2005-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0506/S00597/what-you-get-is-what-you-see.htm
 author: new-zealand-first-party
+permalink: /archive/2005/06/24/what-you-get-is-what-you-see/index.html
+layout: layout.njk
 ---
 What You Get Is What You See
 ============================

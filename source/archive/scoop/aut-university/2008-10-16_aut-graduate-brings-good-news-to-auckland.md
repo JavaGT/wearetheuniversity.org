@@ -1,9 +1,12 @@
 ---
 slug: aut-graduate-brings-good-news-to-auckland
-title: "AUT graduate brings good news to Auckland"
-date: 2008-10-16
-source-url: https://www.scoop.co.nz/stories/ED0810/S00070/aut-graduate-brings-good-news-to-auckland.htm
+title: AUT graduate brings good news to Auckland
+date: 2008-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00070/aut-graduate-brings-good-news-to-auckland.htm
 author: aut-university
+permalink: /archive/2008/10/16/aut-graduate-brings-good-news-to-auckland/index.html
+layout: layout.njk
 ---
 AUT graduate brings good news to Auckland
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: foreign-policy-conference-forced-migrations-and-borders
-title: "Foreign Policy conference: Forced migrations and borders"
-date: 2017-05-05
-source-url: https://www.scoop.co.nz/stories/PO1705/S00072/foreign-policy-conference-forced-migrations-and-borders.htm
+title: 'Foreign Policy conference: Forced migrations and borders'
+date: 2017-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00072/foreign-policy-conference-forced-migrations-and-borders.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/05/05/foreign-policy-conference-forced-migrations-and-borders/index.html
+layout: layout.njk
 ---
 Foreign Policy conference: Forced migrations and borders
 ========================================================

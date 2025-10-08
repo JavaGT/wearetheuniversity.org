@@ -1,9 +1,12 @@
 ---
 slug: devil-in-detail-in-nats-new-industrial-approach
-title: "Devil In Detail In Nats’ New Industrial Approach"
-date: 2006-12-11
-source-url: https://www.scoop.co.nz/stories/PO0612/S00137/devil-in-detail-in-nats-new-industrial-approach.htm
+title: Devil In Detail In Nats’ New Industrial Approach
+date: 2006-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0612/S00137/devil-in-detail-in-nats-new-industrial-approach.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/12/11/devil-in-detail-in-nats-new-industrial-approach/index.html
+layout: layout.njk
 ---
 Devil In Detail In Nats’ New Industrial Approach
 ================================================

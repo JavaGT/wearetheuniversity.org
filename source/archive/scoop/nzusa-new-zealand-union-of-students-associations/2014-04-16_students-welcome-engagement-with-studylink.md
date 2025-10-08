@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-engagement-with-studylink
-title: "Students Welcome Engagement with StudyLink"
-date: 2014-04-16
-source-url: https://www.scoop.co.nz/stories/PO1404/S00270/students-welcome-engagement-with-studylink.htm
+title: Students Welcome Engagement with StudyLink
+date: 2014-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00270/students-welcome-engagement-with-studylink.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/04/16/students-welcome-engagement-with-studylink/index.html
+layout: layout.njk
 ---
 Students Welcome Engagement with StudyLink
 ==========================================

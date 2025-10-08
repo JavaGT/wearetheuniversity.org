@@ -1,9 +1,13 @@
 ---
 slug: greens-would-go-further-and-faster-for-kauri-protection
-title: "Greens Would Go Further And Faster For Kauri Protection"
-date: 2020-10-09
-source-url: https://www.scoop.co.nz/stories/PA2010/S00067/greens-would-go-further-and-faster-for-kauri-protection.htm
+title: Greens Would Go Further And Faster For Kauri Protection
+date: 2020-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00067/greens-would-go-further-and-faster-for-kauri-protection.htm
 author: green-party
+permalink: >-
+  /archive/2020/10/09/greens-would-go-further-and-faster-for-kauri-protection/index.html
+layout: layout.njk
 ---
 Greens Would Go Further And Faster For Kauri Protection
 =======================================================

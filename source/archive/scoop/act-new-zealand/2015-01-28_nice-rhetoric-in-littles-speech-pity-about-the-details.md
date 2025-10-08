@@ -1,9 +1,13 @@
 ---
 slug: nice-rhetoric-in-littles-speech-pity-about-the-details
-title: "Nice rhetoric in Little's speech – pity about the details"
-date: 2015-01-28
-source-url: https://www.scoop.co.nz/stories/PA1501/S00134/nice-rhetoric-in-littles-speech-pity-about-the-details.htm
+title: Nice rhetoric in Little's speech – pity about the details
+date: 2015-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00134/nice-rhetoric-in-littles-speech-pity-about-the-details.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2015/01/28/nice-rhetoric-in-littles-speech-pity-about-the-details/index.html
+layout: layout.njk
 ---
 Nice rhetoric in Little's speech – pity about the details
 =========================================================

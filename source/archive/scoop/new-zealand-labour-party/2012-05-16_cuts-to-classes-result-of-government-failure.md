@@ -1,9 +1,12 @@
 ---
 slug: cuts-to-classes-result-of-government-failure
-title: "Cuts to classes result of government failure"
-date: 2012-05-16
-source-url: https://www.scoop.co.nz/stories/PA1205/S00272/cuts-to-classes-result-of-government-failure.htm
+title: Cuts to classes result of government failure
+date: 2012-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00272/cuts-to-classes-result-of-government-failure.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/16/cuts-to-classes-result-of-government-failure/index.html
+layout: layout.njk
 ---
 Cuts to classes result of government failure
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: rt-hon-winston-peters-speech-for-the-north-back-your-future
-title: "Rt Hon Winston Peters Speech: For The North - Back Your Future"
-date: 2020-10-16
-source-url: https://www.scoop.co.nz/stories/PA2010/S00106/rt-hon-winston-peters-speech-for-the-north-back-your-future.htm
+title: 'Rt Hon Winston Peters Speech: For The North - Back Your Future'
+date: 2020-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00106/rt-hon-winston-peters-speech-for-the-north-back-your-future.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/10/16/rt-hon-winston-peters-speech-for-the-north-back-your-future/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters Speech: For The North - Back Your Future
 ==============================================================

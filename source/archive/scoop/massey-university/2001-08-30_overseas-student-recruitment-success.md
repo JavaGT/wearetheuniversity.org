@@ -1,9 +1,12 @@
 ---
 slug: overseas-student-recruitment-success
-title: "Overseas Student Recruitment Success"
-date: 2001-08-30
-source-url: https://www.scoop.co.nz/stories/ED0108/S00069/overseas-student-recruitment-success.htm
+title: Overseas Student Recruitment Success
+date: 2001-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00069/overseas-student-recruitment-success.htm
 author: massey-university
+permalink: /archive/2001/08/30/overseas-student-recruitment-success/index.html
+layout: layout.njk
 ---
 Overseas Student Recruitment Success
 ====================================

@@ -1,9 +1,11 @@
 ---
 slug: collins-comments-8-july-2005
-title: "Collins Comments: 8 July 2005"
-date: 2005-07-08
+title: 'Collins Comments: 8 July 2005'
+date: 2005-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00201/collins-comments-8-july-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/08/collins-comments-8-july-2005/index.html
+layout: layout.njk
 ---
 Collins Comments: 8 July 2005
 =============================

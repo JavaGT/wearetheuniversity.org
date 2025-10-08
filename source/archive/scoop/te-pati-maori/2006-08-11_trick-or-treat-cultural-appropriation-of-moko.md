@@ -1,9 +1,12 @@
 ---
 slug: trick-or-treat-cultural-appropriation-of-moko
-title: "Trick or Treat?  Cultural Appropriation of Moko"
-date: 2006-08-11
-source-url: https://www.scoop.co.nz/stories/PA0608/S00191/trick-or-treat-cultural-appropriation-of-moko.htm
+title: Trick or Treat?  Cultural Appropriation of Moko
+date: 2006-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00191/trick-or-treat-cultural-appropriation-of-moko.htm
 author: te-pati-maori
+permalink: /archive/2006/08/11/trick-or-treat-cultural-appropriation-of-moko/index.html
+layout: layout.njk
 ---
 Trick or Treat? Cultural Appropriation of Moko
 ==============================================

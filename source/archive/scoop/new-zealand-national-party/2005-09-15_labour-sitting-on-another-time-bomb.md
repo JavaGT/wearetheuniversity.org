@@ -1,9 +1,12 @@
 ---
 slug: labour-sitting-on-another-time-bomb
-title: "Labour sitting on another time bomb"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/PA0509/S00409/labour-sitting-on-another-time-bomb.htm
+title: Labour sitting on another time bomb
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00409/labour-sitting-on-another-time-bomb.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/15/labour-sitting-on-another-time-bomb/index.html
+layout: layout.njk
 ---
 Labour sitting on another time bomb
 ===================================

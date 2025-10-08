@@ -1,9 +1,12 @@
 ---
 slug: multi-media-french-artist-takes-up-residency
-title: "Multi-media French artist takes up residency"
-date: 2018-02-21
-source-url: https://www.scoop.co.nz/stories/ED1802/S00048/multi-media-french-artist-takes-up-residency.htm
+title: Multi-media French artist takes up residency
+date: 2018-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1802/S00048/multi-media-french-artist-takes-up-residency.htm
 author: massey-university
+permalink: /archive/2018/02/21/multi-media-french-artist-takes-up-residency/index.html
+layout: layout.njk
 ---
 Multi-media French artist takes up residency
 ============================================

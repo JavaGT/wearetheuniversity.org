@@ -1,9 +1,12 @@
 ---
 slug: 46-years-of-violence-in-james-bond-movies
-title: "46 years of violence in James Bond movies"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/CU1212/S00155/46-years-of-violence-in-james-bond-movies.htm
+title: 46 years of violence in James Bond movies
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1212/S00155/46-years-of-violence-in-james-bond-movies.htm
 author: university-of-otago
+permalink: /archive/2012/12/11/46-years-of-violence-in-james-bond-movies/index.html
+layout: layout.njk
 ---
 46 years of violence in James Bond movies
 =========================================

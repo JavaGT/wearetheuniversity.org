@@ -1,9 +1,12 @@
 ---
 slug: new-documents-confirm-eqc-inquiry-needed
-title: "New Documents Confirm EQC Inquiry Needed"
-date: 2017-06-26
-source-url: https://www.scoop.co.nz/stories/PO1706/S00349/new-documents-confirm-eqc-inquiry-needed.htm
+title: New Documents Confirm EQC Inquiry Needed
+date: 2017-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00349/new-documents-confirm-eqc-inquiry-needed.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/06/26/new-documents-confirm-eqc-inquiry-needed/index.html
+layout: layout.njk
 ---
 New Documents Confirm EQC Inquiry Needed
 ========================================

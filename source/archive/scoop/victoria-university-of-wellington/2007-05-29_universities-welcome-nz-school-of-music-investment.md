@@ -1,9 +1,13 @@
 ---
 slug: universities-welcome-nz-school-of-music-investment
-title: "Universities welcome NZ School of Music investment"
-date: 2007-05-29
-source-url: https://www.scoop.co.nz/stories/ED0705/S00111/universities-welcome-nz-school-of-music-investment.htm
+title: Universities welcome NZ School of Music investment
+date: 2007-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00111/universities-welcome-nz-school-of-music-investment.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/05/29/universities-welcome-nz-school-of-music-investment/index.html
+layout: layout.njk
 ---
 Universities welcome NZ School of Music investment
 ==================================================

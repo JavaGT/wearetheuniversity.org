@@ -1,9 +1,13 @@
 ---
 slug: study-shows-change-is-needed-to-help-pacific-children-succeed
-title: "Study Shows Change Is Needed To Help Pacific Children Succeed"
-date: 2020-11-04
-source-url: https://www.scoop.co.nz/stories/ED2011/S00007/study-shows-change-is-needed-to-help-pacific-children-succeed.htm
+title: Study Shows Change Is Needed To Help Pacific Children Succeed
+date: 2020-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00007/study-shows-change-is-needed-to-help-pacific-children-succeed.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/04/study-shows-change-is-needed-to-help-pacific-children-succeed/index.html
+layout: layout.njk
 ---
 Study Shows Change Is Needed To Help Pacific Children Succeed
 =============================================================

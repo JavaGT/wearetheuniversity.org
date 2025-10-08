@@ -1,9 +1,11 @@
 ---
 slug: us-signs-arms-trade-treaty
-title: "US signs Arms Trade Treaty"
-date: 2013-09-27
+title: US signs Arms Trade Treaty
+date: 2013-09-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1309/S00510/us-signs-arms-trade-treaty.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/27/us-signs-arms-trade-treaty/index.html
+layout: layout.njk
 ---
 US signs Arms Trade Treaty
 ==========================

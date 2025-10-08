@@ -1,9 +1,13 @@
 ---
 slug: the-old-parties-are-forgetting-seniors-but-we-arent
-title: "The Old parties Are Forgetting Seniors - But We Aren't"
-date: 2017-08-31
-source-url: https://www.scoop.co.nz/stories/PA1708/S00554/the-old-parties-are-forgetting-seniors-but-we-arent.htm
+title: The Old parties Are Forgetting Seniors - But We Aren't
+date: 2017-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00554/the-old-parties-are-forgetting-seniors-but-we-arent.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/31/the-old-parties-are-forgetting-seniors-but-we-arent/index.html
+layout: layout.njk
 ---
 The Old parties Are Forgetting Seniors - But We Aren't
 ======================================================

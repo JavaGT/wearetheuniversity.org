@@ -1,9 +1,12 @@
 ---
 slug: its-official-anything-goes-for-ncea
-title: "It's official - anything goes for NCEA"
-date: 2004-08-17
-source-url: https://www.scoop.co.nz/stories/PA0408/S00300/its-official-anything-goes-for-ncea.htm
+title: It's official - anything goes for NCEA
+date: 2004-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00300/its-official-anything-goes-for-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/17/its-official-anything-goes-for-ncea/index.html
+layout: layout.njk
 ---
 It's official - anything goes for NCEA
 ======================================

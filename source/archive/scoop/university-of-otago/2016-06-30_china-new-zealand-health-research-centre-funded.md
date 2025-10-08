@@ -1,9 +1,12 @@
 ---
 slug: china-new-zealand-health-research-centre-funded
-title: "China-New Zealand health research centre funded"
-date: 2016-06-30
-source-url: https://www.scoop.co.nz/stories/SC1606/S00065/china-new-zealand-health-research-centre-funded.htm
+title: China-New Zealand health research centre funded
+date: 2016-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00065/china-new-zealand-health-research-centre-funded.htm
 author: university-of-otago
+permalink: /archive/2016/06/30/china-new-zealand-health-research-centre-funded/index.html
+layout: layout.njk
 ---
 China-New Zealand health research centre funded
 ===============================================

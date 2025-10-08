@@ -1,9 +1,12 @@
 ---
 slug: canterbury-inquiry-must-be-thorough
-title: "Canterbury Inquiry Must Be Thorough"
-date: 2007-12-21
-source-url: https://www.scoop.co.nz/stories/PA0712/S00495/canterbury-inquiry-must-be-thorough.htm
+title: Canterbury Inquiry Must Be Thorough
+date: 2007-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00495/canterbury-inquiry-must-be-thorough.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/21/canterbury-inquiry-must-be-thorough/index.html
+layout: layout.njk
 ---
 Canterbury Inquiry Must Be Thorough
 ===================================

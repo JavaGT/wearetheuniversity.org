@@ -1,9 +1,13 @@
 ---
 slug: obesity-should-be-treated-like-other-life-long-diseases
-title: "Obesity should be treated like other life-long diseases"
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/GE1307/S00121/obesity-should-be-treated-like-other-life-long-diseases.htm
+title: Obesity should be treated like other life-long diseases
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00121/obesity-should-be-treated-like-other-life-long-diseases.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/31/obesity-should-be-treated-like-other-life-long-diseases/index.html
+layout: layout.njk
 ---
 Obesity should be treated like other life-long diseases
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-to-hold-loan-debt-summit
-title: "Students To Hold Loan Debt Summit"
-date: 2002-07-19
-source-url: https://www.scoop.co.nz/stories/ED0207/S00049/students-to-hold-loan-debt-summit.htm
+title: Students To Hold Loan Debt Summit
+date: 2002-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00049/students-to-hold-loan-debt-summit.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/19/students-to-hold-loan-debt-summit/index.html
+layout: layout.njk
 ---
 Students To Hold Loan Debt Summit
 =================================

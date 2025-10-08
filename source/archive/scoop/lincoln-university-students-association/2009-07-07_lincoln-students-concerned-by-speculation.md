@@ -1,9 +1,12 @@
 ---
 slug: lincoln-students-concerned-by-speculation
-title: "Lincoln Students concerned by speculation"
-date: 2009-07-07
-source-url: https://www.scoop.co.nz/stories/ED0907/S00032/lincoln-students-concerned-by-speculation.htm
+title: Lincoln Students concerned by speculation
+date: 2009-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00032/lincoln-students-concerned-by-speculation.htm
 author: lincoln-university-students-association
+permalink: /archive/2009/07/07/lincoln-students-concerned-by-speculation/index.html
+layout: layout.njk
 ---
 Lincoln Students concerned by speculation
 =========================================

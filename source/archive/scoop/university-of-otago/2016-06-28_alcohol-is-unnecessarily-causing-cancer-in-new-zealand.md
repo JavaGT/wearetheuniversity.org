@@ -1,9 +1,13 @@
 ---
 slug: alcohol-is-unnecessarily-causing-cancer-in-new-zealand
-title: "Alcohol is unnecessarily causing cancer in New Zealand"
-date: 2016-06-28
-source-url: https://www.scoop.co.nz/stories/GE1606/S00101/alcohol-is-unnecessarily-causing-cancer-in-new-zealand.htm
+title: Alcohol is unnecessarily causing cancer in New Zealand
+date: 2016-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1606/S00101/alcohol-is-unnecessarily-causing-cancer-in-new-zealand.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/06/28/alcohol-is-unnecessarily-causing-cancer-in-new-zealand/index.html
+layout: layout.njk
 ---
 Alcohol is unnecessarily causing cancer in New Zealand
 ======================================================

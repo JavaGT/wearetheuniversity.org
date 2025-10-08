@@ -1,9 +1,12 @@
 ---
 slug: fire-at-will-could-put-super-city-under-hammer
-title: "\"Fire At Will\" Could Put Super City Under Hammer"
-date: 2010-07-20
-source-url: https://www.scoop.co.nz/stories/PA1007/S00309/fire-at-will-could-put-super-city-under-hammer.htm
+title: '"Fire At Will" Could Put Super City Under Hammer'
+date: 2010-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00309/fire-at-will-could-put-super-city-under-hammer.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/20/fire-at-will-could-put-super-city-under-hammer/index.html
+layout: layout.njk
 ---
 “Fire At Will” Could Put Super City Under Hammer
 ================================================

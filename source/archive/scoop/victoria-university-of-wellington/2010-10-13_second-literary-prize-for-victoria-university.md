@@ -1,9 +1,12 @@
 ---
 slug: second-literary-prize-for-victoria-university
-title: "Second Literary Prize For Victoria University"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/CU1010/S00178/second-literary-prize-for-victoria-university.htm
+title: Second Literary Prize For Victoria University
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1010/S00178/second-literary-prize-for-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/10/13/second-literary-prize-for-victoria-university/index.html
+layout: layout.njk
 ---
 Second Literary Prize For Victoria University
 =============================================

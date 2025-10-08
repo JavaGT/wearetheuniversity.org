@@ -1,9 +1,12 @@
 ---
 slug: hard-slog-for-chinese-seeking-good-life-in-nz
-title: "Hard slog for Chinese seeking good life in NZ"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/ED1003/S00105/hard-slog-for-chinese-seeking-good-life-in-nz.htm
+title: Hard slog for Chinese seeking good life in NZ
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00105/hard-slog-for-chinese-seeking-good-life-in-nz.htm
 author: massey-university
+permalink: /archive/2010/03/24/hard-slog-for-chinese-seeking-good-life-in-nz/index.html
+layout: layout.njk
 ---
 Hard slog for Chinese seeking good life in NZ
 =============================================

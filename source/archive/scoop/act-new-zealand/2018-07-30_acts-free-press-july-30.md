@@ -1,9 +1,11 @@
 ---
 slug: acts-free-press-july-30
-title: "ACT’s Free Press July 30"
-date: 2018-07-30
+title: ACT’s Free Press July 30
+date: 2018-07-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1807/S00353/acts-free-press-july-30.htm
 author: act-new-zealand
+permalink: /archive/2018/07/30/acts-free-press-july-30/index.html
+layout: layout.njk
 ---
 ACT’s Free Press July 30
 ========================

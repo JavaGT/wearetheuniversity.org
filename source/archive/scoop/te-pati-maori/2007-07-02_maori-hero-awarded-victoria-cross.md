@@ -1,9 +1,12 @@
 ---
 slug: maori-hero-awarded-victoria-cross
-title: "Maori hero awarded Victoria Cross"
-date: 2007-07-02
-source-url: https://www.scoop.co.nz/stories/PA0707/S00028/maori-hero-awarded-victoria-cross.htm
+title: Maori hero awarded Victoria Cross
+date: 2007-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00028/maori-hero-awarded-victoria-cross.htm
 author: te-pati-maori
+permalink: /archive/2007/07/02/maori-hero-awarded-victoria-cross/index.html
+layout: layout.njk
 ---
 Maori hero awarded Victoria Cross
 =================================

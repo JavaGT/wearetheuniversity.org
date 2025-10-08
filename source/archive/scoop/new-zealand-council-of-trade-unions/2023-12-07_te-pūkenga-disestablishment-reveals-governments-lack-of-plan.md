@@ -1,9 +1,12 @@
 ---
 slug: te-pūkenga-disestablishment-reveals-governments-lack-of-plan
-title: "Te Pūkenga Disestablishment Reveals Government’s Lack Of Plan"
-date: 2023-12-07
-source-url: https://www.scoop.co.nz/stories/ED2312/S00015/te-pukenga-disestablishment-reveals-governments-lack-of-plan.htm
+title: Te Pūkenga Disestablishment Reveals Government’s Lack Of Plan
+date: 2023-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2312/S00015/te-pukenga-disestablishment-reveals-governments-lack-of-plan.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2023/12/07/te-p/index.html
+layout: layout.njk
 ---
 Te Pūkenga Disestablishment Reveals Government’s Lack Of Plan
 =============================================================

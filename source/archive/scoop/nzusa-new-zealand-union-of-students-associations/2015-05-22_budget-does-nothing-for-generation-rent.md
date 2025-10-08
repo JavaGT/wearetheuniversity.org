@@ -1,9 +1,12 @@
 ---
 slug: budget-does-nothing-for-generation-rent
-title: "Budget does nothing for Generation Rent"
-date: 2015-05-22
-source-url: https://www.scoop.co.nz/stories/PO1505/S00301/budget-does-nothing-for-generation-rent.htm
+title: Budget does nothing for Generation Rent
+date: 2015-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00301/budget-does-nothing-for-generation-rent.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/05/22/budget-does-nothing-for-generation-rent/index.html
+layout: layout.njk
 ---
 Budget does nothing for Generation Rent
 =======================================

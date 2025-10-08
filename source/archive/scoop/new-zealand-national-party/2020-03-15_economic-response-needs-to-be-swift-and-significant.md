@@ -1,9 +1,13 @@
 ---
 slug: economic-response-needs-to-be-swift-and-significant
-title: "Economic Response Needs To Be Swift And Significant"
-date: 2020-03-15
-source-url: https://www.scoop.co.nz/stories/PA2003/S00109/economic-response-needs-to-be-swift-and-significant.htm
+title: Economic Response Needs To Be Swift And Significant
+date: 2020-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00109/economic-response-needs-to-be-swift-and-significant.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/03/15/economic-response-needs-to-be-swift-and-significant/index.html
+layout: layout.njk
 ---
 Economic Response Needs To Be Swift And Significant
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: distinguished-biotechnologist-returns-to-victoria
-title: "Distinguished biotechnologist returns to Victoria"
-date: 2005-12-05
-source-url: https://www.scoop.co.nz/stories/ED0512/S00014/distinguished-biotechnologist-returns-to-victoria.htm
+title: Distinguished biotechnologist returns to Victoria
+date: 2005-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00014/distinguished-biotechnologist-returns-to-victoria.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2005/12/05/distinguished-biotechnologist-returns-to-victoria/index.html
+layout: layout.njk
 ---
 Distinguished biotechnologist returns to Victoria
 =================================================

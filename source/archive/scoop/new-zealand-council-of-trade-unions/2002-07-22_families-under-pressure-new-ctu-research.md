@@ -1,9 +1,12 @@
 ---
 slug: families-under-pressure-new-ctu-research
-title: "Families under pressure: New CTU research"
-date: 2002-07-22
-source-url: https://www.scoop.co.nz/stories/BU0207/S00132/families-under-pressure-new-ctu-research.htm
+title: 'Families under pressure: New CTU research'
+date: 2002-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0207/S00132/families-under-pressure-new-ctu-research.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/07/22/families-under-pressure-new-ctu-research/index.html
+layout: layout.njk
 ---
 Families under pressure: New CTU research
 =========================================

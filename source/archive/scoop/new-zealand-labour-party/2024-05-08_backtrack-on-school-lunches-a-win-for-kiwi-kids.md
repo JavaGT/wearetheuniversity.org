@@ -1,9 +1,12 @@
 ---
 slug: backtrack-on-school-lunches-a-win-for-kiwi-kids
-title: "Backtrack On School Lunches A Win For Kiwi Kids"
-date: 2024-05-08
-source-url: https://www.scoop.co.nz/stories/PA2405/S00056/backtrack-on-school-lunches-a-win-for-kiwi-kids.htm
+title: Backtrack On School Lunches A Win For Kiwi Kids
+date: 2024-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00056/backtrack-on-school-lunches-a-win-for-kiwi-kids.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/05/08/backtrack-on-school-lunches-a-win-for-kiwi-kids/index.html
+layout: layout.njk
 ---
 Backtrack On School Lunches A Win For Kiwi Kids
 ===============================================

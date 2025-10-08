@@ -1,9 +1,12 @@
 ---
 slug: labours-economic-plan-for-a-secure-future
-title: "Labour’s economic plan for a secure future"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PA0810/S00260/labours-economic-plan-for-a-secure-future.htm
+title: Labour’s economic plan for a secure future
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00260/labours-economic-plan-for-a-secure-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/13/labours-economic-plan-for-a-secure-future/index.html
+layout: layout.njk
 ---
 Labour’s economic plan for a secure future
 ==========================================

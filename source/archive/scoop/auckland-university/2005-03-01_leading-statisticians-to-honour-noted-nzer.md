@@ -1,9 +1,12 @@
 ---
 slug: leading-statisticians-to-honour-noted-nzer
-title: "Leading statisticians to honour noted NZ'er"
-date: 2005-03-01
-source-url: https://www.scoop.co.nz/stories/ED0503/S00002/leading-statisticians-to-honour-noted-nzer.htm
+title: Leading statisticians to honour noted NZ'er
+date: 2005-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00002/leading-statisticians-to-honour-noted-nzer.htm
 author: auckland-university
+permalink: /archive/2005/03/01/leading-statisticians-to-honour-noted-nzer/index.html
+layout: layout.njk
 ---
 Leading statisticians to honour noted NZ'er
 ===========================================

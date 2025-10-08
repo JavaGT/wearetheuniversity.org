@@ -1,9 +1,13 @@
 ---
 slug: speech-curran-television-new-zealand-amendment-bill
-title: "Speech: Curran - Television New Zealand Amendment Bill"
-date: 2011-05-06
-source-url: https://www.scoop.co.nz/stories/PA1105/S00137/speech-curran-television-new-zealand-amendment-bill.htm
+title: 'Speech: Curran - Television New Zealand Amendment Bill'
+date: 2011-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00137/speech-curran-television-new-zealand-amendment-bill.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/06/speech-curran-television-new-zealand-amendment-bill/index.html
+layout: layout.njk
 ---
 Speech: Curran - Television New Zealand Amendment Bill
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: increase-kiwisaver-rates-but-not-this-way-academic
-title: "Increase KiwiSaver rates, but not this way – academic"
-date: 2014-04-30
-source-url: https://www.scoop.co.nz/stories/PO1404/S00436/increase-kiwisaver-rates-but-not-this-way-academic.htm
+title: Increase KiwiSaver rates, but not this way – academic
+date: 2014-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00436/increase-kiwisaver-rates-but-not-this-way-academic.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/30/increase-kiwisaver-rates-but-not-this-way-academic/index.html
+layout: layout.njk
 ---
 Increase KiwiSaver rates, but not this way – academic
 =====================================================

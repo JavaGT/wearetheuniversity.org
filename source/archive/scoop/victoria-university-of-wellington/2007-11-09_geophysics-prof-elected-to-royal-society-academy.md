@@ -1,9 +1,13 @@
 ---
 slug: geophysics-prof-elected-to-royal-society-academy
-title: "Geophysics Prof. elected to Royal Society Academy"
-date: 2007-11-09
-source-url: https://www.scoop.co.nz/stories/ED0711/S00055/geophysics-prof-elected-to-royal-society-academy.htm
+title: Geophysics Prof. elected to Royal Society Academy
+date: 2007-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00055/geophysics-prof-elected-to-royal-society-academy.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/11/09/geophysics-prof-elected-to-royal-society-academy/index.html
+layout: layout.njk
 ---
 Geophysics Prof. elected to Royal Society Academy
 =================================================

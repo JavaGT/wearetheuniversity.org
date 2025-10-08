@@ -1,9 +1,13 @@
 ---
 slug: new-partnership-formed-to-empower-pasifika-student-voice
-title: "New partnership formed to empower Pasifika student voice"
-date: 2018-10-09
-source-url: https://www.scoop.co.nz/stories/PO1810/S00122/new-partnership-formed-to-empower-pasifika-student-voice.htm
+title: New partnership formed to empower Pasifika student voice
+date: 2018-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00122/new-partnership-formed-to-empower-pasifika-student-voice.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2018/10/09/new-partnership-formed-to-empower-pasifika-student-voice/index.html
+layout: layout.njk
 ---
 New partnership formed to empower Pasifika student voice
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: count-human-health-in-your-climate-calculations
-title: "‘Count human health in your climate calculations’"
-date: 2015-05-28
-source-url: https://www.scoop.co.nz/stories/PO1505/S00389/count-human-health-in-your-climate-calculations.htm
+title: ‘Count human health in your climate calculations’
+date: 2015-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00389/count-human-health-in-your-climate-calculations.htm
 author: auckland-university
+permalink: /archive/2015/05/28/count-human-health-in-your-climate-calculations/index.html
+layout: layout.njk
 ---
 ‘Count human health in your climate calculations’
 =================================================

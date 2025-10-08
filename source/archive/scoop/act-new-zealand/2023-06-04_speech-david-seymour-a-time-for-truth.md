@@ -1,9 +1,12 @@
 ---
 slug: speech-david-seymour-a-time-for-truth
-title: "Speech: David Seymour, A Time For Truth"
-date: 2023-06-04
-source-url: https://www.scoop.co.nz/stories/PO2306/S00028/speech-david-seymour-a-time-for-truth.htm
+title: 'Speech: David Seymour, A Time For Truth'
+date: 2023-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00028/speech-david-seymour-a-time-for-truth.htm
 author: act-new-zealand
+permalink: /archive/2023/06/04/speech-david-seymour-a-time-for-truth/index.html
+layout: layout.njk
 ---
 Speech: David Seymour, A Time For Truth
 =======================================

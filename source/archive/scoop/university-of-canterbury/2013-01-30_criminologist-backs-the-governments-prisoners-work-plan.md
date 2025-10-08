@@ -1,9 +1,13 @@
 ---
 slug: criminologist-backs-the-governments-prisoners-work-plan
-title: "Criminologist backs the government’s prisoners work plan"
-date: 2013-01-30
-source-url: https://www.scoop.co.nz/stories/PO1301/S00136/criminologist-backs-the-governments-prisoners-work-plan.htm
+title: Criminologist backs the government’s prisoners work plan
+date: 2013-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1301/S00136/criminologist-backs-the-governments-prisoners-work-plan.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/30/criminologist-backs-the-governments-prisoners-work-plan/index.html
+layout: layout.njk
 ---
 Criminologist backs the government’s prisoners work plan
 ========================================================

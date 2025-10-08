@@ -1,9 +1,12 @@
 ---
 slug: aucklands-future-at-stake-prebble-speech
-title: "Auckland's future at stake - Prebble Speech"
-date: 1999-09-02
-source-url: https://www.scoop.co.nz/stories/PA9909/S00066/aucklands-future-at-stake-prebble-speech.htm
+title: Auckland's future at stake - Prebble Speech
+date: 1999-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00066/aucklands-future-at-stake-prebble-speech.htm
 author: act-new-zealand
+permalink: /archive/1999/09/02/aucklands-future-at-stake-prebble-speech/index.html
+layout: layout.njk
 ---
 Auckland's future at stake - Prebble Speech
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: unitec-trades-teachers-among-vulnerable-workers
-title: "Unitec Trades Teachers Among \"Vulnerable Workers\""
-date: 2008-05-30
-source-url: https://www.scoop.co.nz/stories/ED0805/S00134/unitec-trades-teachers-among-vulnerable-workers.htm
+title: Unitec Trades Teachers Among "Vulnerable Workers"
+date: 2008-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00134/unitec-trades-teachers-among-vulnerable-workers.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2008/05/30/unitec-trades-teachers-among-vulnerable-workers/index.html
+layout: layout.njk
 ---
 Unitec Trades Teachers Among “Vulnerable Workers”
 =================================================

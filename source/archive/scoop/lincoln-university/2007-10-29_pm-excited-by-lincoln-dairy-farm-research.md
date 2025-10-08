@@ -1,9 +1,12 @@
 ---
 slug: pm-excited-by-lincoln-dairy-farm-research
-title: "PM excited by Lincoln  dairy farm research"
-date: 2007-10-29
-source-url: https://www.scoop.co.nz/stories/SC0710/S00053/pm-excited-by-lincoln-dairy-farm-research.htm
+title: PM excited by Lincoln  dairy farm research
+date: 2007-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0710/S00053/pm-excited-by-lincoln-dairy-farm-research.htm
 author: lincoln-university
+permalink: /archive/2007/10/29/pm-excited-by-lincoln-dairy-farm-research/index.html
+layout: layout.njk
 ---
 PM excited by Lincoln dairy farm research
 =========================================

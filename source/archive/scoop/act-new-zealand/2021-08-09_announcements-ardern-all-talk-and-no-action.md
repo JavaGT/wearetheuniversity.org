@@ -1,9 +1,12 @@
 ---
 slug: announcements-ardern-all-talk-and-no-action
-title: "‘Announcements’ Ardern All Talk And No Action"
-date: 2021-08-09
-source-url: https://www.scoop.co.nz/stories/PA2108/S00087/announcements-ardern-all-talk-and-no-action.htm
+title: ‘Announcements’ Ardern All Talk And No Action
+date: 2021-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00087/announcements-ardern-all-talk-and-no-action.htm
 author: act-new-zealand
+permalink: /archive/2021/08/09/announcements-ardern-all-talk-and-no-action/index.html
+layout: layout.njk
 ---
 ‘Announcements’ Ardern All Talk And No Action
 =============================================

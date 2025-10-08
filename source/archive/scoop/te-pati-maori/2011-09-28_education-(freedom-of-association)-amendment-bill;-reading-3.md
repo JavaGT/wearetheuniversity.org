@@ -1,9 +1,12 @@
 ---
 slug: education-(freedom-of-association)-amendment-bill;-reading-3
-title: "Education (Freedom of Association) Amendment Bill; reading 3"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PA1109/S00557/education-freedom-of-association-amendment-bill-reading-3.htm
+title: Education (Freedom of Association) Amendment Bill; reading 3
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00557/education-freedom-of-association-amendment-bill-reading-3.htm
 author: te-pati-maori
+permalink: /archive/2011/09/28/education-/index.html
+layout: layout.njk
 ---
 Education (Freedom of Association) Amendment Bill; reading 3
 ============================================================

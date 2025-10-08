@@ -1,9 +1,13 @@
 ---
 slug: second-place-still-winner-for-nz-food-if-branded
-title: "Second-place still winner for NZ food if branded"
-date: 2018-06-14
-source-url: https://www.scoop.co.nz/stories/BU1806/S00321/second-place-still-winner-for-nz-food-if-branded.htm
+title: Second-place still winner for NZ food if branded
+date: 2018-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1806/S00321/second-place-still-winner-for-nz-food-if-branded.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/06/14/second-place-still-winner-for-nz-food-if-branded/index.html
+layout: layout.njk
 ---
 Second-place still winner for NZ food if branded
 ================================================

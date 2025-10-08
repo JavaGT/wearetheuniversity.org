@@ -1,9 +1,12 @@
 ---
 slug: lecturers-support-new-minimum-wage-legislation
-title: "Lecturers support new minimum wage legislation"
-date: 2006-02-07
-source-url: https://www.scoop.co.nz/stories/PO0602/S00033/lecturers-support-new-minimum-wage-legislation.htm
+title: Lecturers support new minimum wage legislation
+date: 2006-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0602/S00033/lecturers-support-new-minimum-wage-legislation.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2006/02/07/lecturers-support-new-minimum-wage-legislation/index.html
+layout: layout.njk
 ---
 Lecturers support new minimum wage legislation
 ==============================================

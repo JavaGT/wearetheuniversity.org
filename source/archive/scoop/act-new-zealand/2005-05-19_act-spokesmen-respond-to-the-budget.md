@@ -1,9 +1,12 @@
 ---
 slug: act-spokesmen-respond-to-the-budget
-title: "ACT spokesmen respond to the Budget"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/PA0505/S00530/act-spokesmen-respond-to-the-budget.htm
+title: ACT spokesmen respond to the Budget
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00530/act-spokesmen-respond-to-the-budget.htm
 author: act-new-zealand
+permalink: /archive/2005/05/19/act-spokesmen-respond-to-the-budget/index.html
+layout: layout.njk
 ---
 ACT spokesmen respond to the Budget
 ===================================

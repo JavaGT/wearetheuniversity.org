@@ -1,9 +1,12 @@
 ---
 slug: who-passed-the-test-at-apec-prebble
-title: "Who passed the test at APEC? - Prebble"
-date: 1999-09-14
-source-url: https://www.scoop.co.nz/stories/PA9909/S00297/who-passed-the-test-at-apec-prebble.htm
+title: Who passed the test at APEC? - Prebble
+date: 1999-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00297/who-passed-the-test-at-apec-prebble.htm
 author: act-new-zealand
+permalink: /archive/1999/09/14/who-passed-the-test-at-apec-prebble/index.html
+layout: layout.njk
 ---
 Who passed the test at APEC? - Prebble
 ======================================

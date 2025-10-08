@@ -1,9 +1,12 @@
 ---
 slug: budget-must-deliver-for-middle-new-zealand
-title: "Budget must deliver for middle New Zealand"
-date: 2016-05-23
-source-url: https://www.scoop.co.nz/stories/PA1605/S00404/budget-must-deliver-for-middle-new-zealand.htm
+title: Budget must deliver for middle New Zealand
+date: 2016-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00404/budget-must-deliver-for-middle-new-zealand.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/23/budget-must-deliver-for-middle-new-zealand/index.html
+layout: layout.njk
 ---
 Budget must deliver for middle New Zealand
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: schools-bullied-into-compliance-on-national-standards
-title: "Schools bullied into compliance on National Standards"
-date: 2011-07-01
-source-url: https://www.scoop.co.nz/stories/ED1107/S00002/schools-bullied-into-compliance-on-national-standards.htm
+title: Schools bullied into compliance on National Standards
+date: 2011-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00002/schools-bullied-into-compliance-on-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2011/07/01/schools-bullied-into-compliance-on-national-standards/index.html
+layout: layout.njk
 ---
 Schools bullied into compliance on National Standards
 =====================================================

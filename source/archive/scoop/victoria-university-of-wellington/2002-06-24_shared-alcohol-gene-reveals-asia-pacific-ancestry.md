@@ -1,9 +1,13 @@
 ---
 slug: shared-alcohol-gene-reveals-asia-pacific-ancestry
-title: "Shared Alcohol Gene Reveals Asia/Pacific Ancestry"
-date: 2002-06-24
-source-url: https://www.scoop.co.nz/stories/SC0206/S00038/shared-alcohol-gene-reveals-asiapacific-ancestry.htm
+title: Shared Alcohol Gene Reveals Asia/Pacific Ancestry
+date: 2002-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0206/S00038/shared-alcohol-gene-reveals-asiapacific-ancestry.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2002/06/24/shared-alcohol-gene-reveals-asia-pacific-ancestry/index.html
+layout: layout.njk
 ---
 Shared Alcohol Gene Reveals Asia/Pacific Ancestry
 =================================================

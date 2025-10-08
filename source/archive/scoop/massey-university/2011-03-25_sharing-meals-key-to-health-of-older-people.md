@@ -1,9 +1,12 @@
 ---
 slug: sharing-meals-key-to-health-of-older-people
-title: "Sharing meals key to health of older people"
-date: 2011-03-25
-source-url: https://www.scoop.co.nz/stories/GE1103/S00097/sharing-meals-key-to-health-of-older-people.htm
+title: Sharing meals key to health of older people
+date: 2011-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1103/S00097/sharing-meals-key-to-health-of-older-people.htm
 author: massey-university
+permalink: /archive/2011/03/25/sharing-meals-key-to-health-of-older-people/index.html
+layout: layout.njk
 ---
 Sharing meals key to health of older people
 ===========================================

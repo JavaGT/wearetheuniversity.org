@@ -1,9 +1,12 @@
 ---
 slug: wherere-the-checks-on-tax-funded-pilots
-title: "Where're the checks on tax-funded pilots?"
-date: 2006-10-02
-source-url: https://www.scoop.co.nz/stories/PA0610/S00017/wherere-the-checks-on-tax-funded-pilots.htm
+title: Where're the checks on tax-funded pilots?
+date: 2006-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00017/wherere-the-checks-on-tax-funded-pilots.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/02/wherere-the-checks-on-tax-funded-pilots/index.html
+layout: layout.njk
 ---
 Where're the checks on tax-funded pilots?
 =========================================

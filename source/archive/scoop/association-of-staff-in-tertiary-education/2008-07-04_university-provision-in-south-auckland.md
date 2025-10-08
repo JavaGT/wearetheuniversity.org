@@ -1,9 +1,12 @@
 ---
 slug: university-provision-in-south-auckland
-title: "University Provision in South Auckland"
-date: 2008-07-04
-source-url: https://www.scoop.co.nz/stories/ED0807/S00015/university-provision-in-south-auckland.htm
+title: University Provision in South Auckland
+date: 2008-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00015/university-provision-in-south-auckland.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2008/07/04/university-provision-in-south-auckland/index.html
+layout: layout.njk
 ---
 University Provision in South Auckland
 ======================================

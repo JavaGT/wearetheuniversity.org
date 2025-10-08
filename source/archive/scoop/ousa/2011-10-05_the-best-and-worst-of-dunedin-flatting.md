@@ -1,9 +1,12 @@
 ---
 slug: the-best-and-worst-of-dunedin-flatting
-title: "The best and worst of Dunedin Flatting"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/BU1110/S00089/the-best-and-worst-of-dunedin-flatting.htm
+title: The best and worst of Dunedin Flatting
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1110/S00089/the-best-and-worst-of-dunedin-flatting.htm
 author: ousa
+permalink: /archive/2011/10/05/the-best-and-worst-of-dunedin-flatting/index.html
+layout: layout.njk
 ---
 The best and worst of Dunedin Flatting
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: tec-turnover-tops-25%-on-the-brink-of-change
-title: "TEC turnover tops 25% on the brink of change"
-date: 2008-03-19
-source-url: https://www.scoop.co.nz/stories/PA0803/S00333/tec-turnover-tops-25-on-the-brink-of-change.htm
+title: TEC turnover tops 25% on the brink of change
+date: 2008-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00333/tec-turnover-tops-25-on-the-brink-of-change.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/19/tec-turnover-tops-25/index.html
+layout: layout.njk
 ---
 TEC turnover tops 25% on the brink of change
 ============================================

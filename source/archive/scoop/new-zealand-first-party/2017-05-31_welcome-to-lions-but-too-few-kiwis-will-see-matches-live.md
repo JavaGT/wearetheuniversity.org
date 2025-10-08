@@ -1,9 +1,13 @@
 ---
 slug: welcome-to-lions-but-too-few-kiwis-will-see-matches-live
-title: "Welcome to Lions But Too Few Kiwis Will See Matches Live"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/PA1705/S00668/welcome-to-lions-but-too-few-kiwis-will-see-matches-live.htm
+title: Welcome to Lions But Too Few Kiwis Will See Matches Live
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00668/welcome-to-lions-but-too-few-kiwis-will-see-matches-live.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/31/welcome-to-lions-but-too-few-kiwis-will-see-matches-live/index.html
+layout: layout.njk
 ---
 Welcome to Lions But Too Few Kiwis Will See Matches Live
 ========================================================

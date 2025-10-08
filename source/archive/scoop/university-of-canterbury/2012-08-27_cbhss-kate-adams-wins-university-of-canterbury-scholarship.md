@@ -1,9 +1,13 @@
 ---
 slug: cbhss-kate-adams-wins-university-of-canterbury-scholarship
-title: "CBHS’s Kate Adams wins University of Canterbury scholarship"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/ED1208/S00144/cbhss-kate-adams-wins-university-of-canterbury-scholarship.htm
+title: CBHS’s Kate Adams wins University of Canterbury scholarship
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00144/cbhss-kate-adams-wins-university-of-canterbury-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/27/cbhss-kate-adams-wins-university-of-canterbury-scholarship/index.html
+layout: layout.njk
 ---
 CBHS’s Kate Adams wins University of Canterbury scholarship
 ===========================================================

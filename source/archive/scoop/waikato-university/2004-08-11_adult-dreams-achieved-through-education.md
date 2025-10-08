@@ -1,9 +1,12 @@
 ---
 slug: adult-dreams-achieved-through-education
-title: "Adult Dreams Achieved Through Education"
-date: 2004-08-11
-source-url: https://www.scoop.co.nz/stories/ED0408/S00045/adult-dreams-achieved-through-education.htm
+title: Adult Dreams Achieved Through Education
+date: 2004-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00045/adult-dreams-achieved-through-education.htm
 author: waikato-university
+permalink: /archive/2004/08/11/adult-dreams-achieved-through-education/index.html
+layout: layout.njk
 ---
 Adult Dreams Achieved Through Education
 =======================================

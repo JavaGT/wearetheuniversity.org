@@ -1,9 +1,13 @@
 ---
 slug: college-of-education-and-uni-councils-seek-merger
-title: "College of Education and Uni Councils seek merger"
-date: 2004-05-26
-source-url: https://www.scoop.co.nz/stories/ED0405/S00096/college-of-education-and-uni-councils-seek-merger.htm
+title: College of Education and Uni Councils seek merger
+date: 2004-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00096/college-of-education-and-uni-councils-seek-merger.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/05/26/college-of-education-and-uni-councils-seek-merger/index.html
+layout: layout.njk
 ---
 College of Education and Uni Councils seek merger
 =================================================

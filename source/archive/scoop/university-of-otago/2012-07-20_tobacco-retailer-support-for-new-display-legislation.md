@@ -1,9 +1,13 @@
 ---
 slug: tobacco-retailer-support-for-new-display-legislation
-title: "Tobacco retailer support for new display legislation"
-date: 2012-07-20
-source-url: https://www.scoop.co.nz/stories/BU1207/S00695/tobacco-retailer-support-for-new-display-legislation.htm
+title: Tobacco retailer support for new display legislation
+date: 2012-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1207/S00695/tobacco-retailer-support-for-new-display-legislation.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/07/20/tobacco-retailer-support-for-new-display-legislation/index.html
+layout: layout.njk
 ---
 Tobacco retailer support for new display legislation
 ====================================================

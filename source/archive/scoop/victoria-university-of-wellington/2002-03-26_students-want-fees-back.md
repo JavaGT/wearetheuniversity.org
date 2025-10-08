@@ -1,9 +1,11 @@
 ---
 slug: students-want-fees-back
-title: "Students Want Fees Back"
-date: 2002-03-26
+title: Students Want Fees Back
+date: 2002-03-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0203/S00050/students-want-fees-back.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/03/26/students-want-fees-back/index.html
+layout: layout.njk
 ---
 Students Want Fees Back
 =======================

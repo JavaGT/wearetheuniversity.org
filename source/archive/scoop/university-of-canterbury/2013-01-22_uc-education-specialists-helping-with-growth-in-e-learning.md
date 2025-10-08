@@ -1,9 +1,13 @@
 ---
 slug: uc-education-specialists-helping-with-growth-in-e-learning
-title: "UC education specialists helping  with growth in e-learning"
-date: 2013-01-22
-source-url: https://www.scoop.co.nz/stories/ED1301/S00041/uc-education-specialists-helping-with-growth-in-e-learning.htm
+title: UC education specialists helping  with growth in e-learning
+date: 2013-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00041/uc-education-specialists-helping-with-growth-in-e-learning.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/22/uc-education-specialists-helping-with-growth-in-e-learning/index.html
+layout: layout.njk
 ---
 UC education specialists helping with growth in e-learning
 ==========================================================

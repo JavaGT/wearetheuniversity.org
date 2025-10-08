@@ -1,9 +1,12 @@
 ---
 slug: educators-will-fight-for-public-education
-title: "Educators will fight for public education"
-date: 2017-10-01
-source-url: https://www.scoop.co.nz/stories/PO1710/S00004/educators-will-fight-for-public-education.htm
+title: Educators will fight for public education
+date: 2017-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1710/S00004/educators-will-fight-for-public-education.htm
 author: nzei
+permalink: /archive/2017/10/01/educators-will-fight-for-public-education/index.html
+layout: layout.njk
 ---
 Educators will fight for public education
 =========================================

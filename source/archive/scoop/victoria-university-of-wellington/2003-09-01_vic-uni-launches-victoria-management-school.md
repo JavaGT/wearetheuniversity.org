@@ -1,9 +1,12 @@
 ---
 slug: vic-uni-launches-victoria-management-school
-title: "Vic Uni launches Victoria Management School"
-date: 2003-09-01
-source-url: https://www.scoop.co.nz/stories/BU0309/S00005/vic-uni-launches-victoria-management-school.htm
+title: Vic Uni launches Victoria Management School
+date: 2003-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0309/S00005/vic-uni-launches-victoria-management-school.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/09/01/vic-uni-launches-victoria-management-school/index.html
+layout: layout.njk
 ---
 Vic Uni launches Victoria Management School
 ===========================================

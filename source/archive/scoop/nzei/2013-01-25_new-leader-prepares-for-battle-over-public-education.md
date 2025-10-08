@@ -1,9 +1,13 @@
 ---
 slug: new-leader-prepares-for-battle-over-public-education
-title: "New leader prepares for battle over public education"
-date: 2013-01-25
-source-url: https://www.scoop.co.nz/stories/ED1301/S00083/new-leader-prepares-for-battle-over-public-education.htm
+title: New leader prepares for battle over public education
+date: 2013-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00083/new-leader-prepares-for-battle-over-public-education.htm
 author: nzei
+permalink: >-
+  /archive/2013/01/25/new-leader-prepares-for-battle-over-public-education/index.html
+layout: layout.njk
 ---
 New leader prepares for battle over public education
 ====================================================

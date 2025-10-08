@@ -1,9 +1,13 @@
 ---
 slug: strong-finish-for-waikato-formula-sae-team-in-melbourne
-title: "Strong finish for Waikato Formula SAE team in Melbourne"
-date: 2013-12-18
-source-url: https://www.scoop.co.nz/stories/ED1312/S00113/strong-finish-for-waikato-formula-sae-team-in-melbourne.htm
+title: Strong finish for Waikato Formula SAE team in Melbourne
+date: 2013-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00113/strong-finish-for-waikato-formula-sae-team-in-melbourne.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/12/18/strong-finish-for-waikato-formula-sae-team-in-melbourne/index.html
+layout: layout.njk
 ---
 Strong finish for Waikato Formula SAE team in Melbourne
 =======================================================

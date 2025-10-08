@@ -1,9 +1,12 @@
 ---
 slug: clean-rivers-dont-cost-$18-a-cabbage
-title: "Clean rivers don’t cost $18 a cabbage"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/PA1708/S00216/clean-rivers-dont-cost-18-a-cabbage.htm
+title: Clean rivers don’t cost $18 a cabbage
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00216/clean-rivers-dont-cost-18-a-cabbage.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/10/clean-rivers-dont-cost-/index.html
+layout: layout.njk
 ---
 Clean rivers don’t cost $18 a cabbage
 =====================================

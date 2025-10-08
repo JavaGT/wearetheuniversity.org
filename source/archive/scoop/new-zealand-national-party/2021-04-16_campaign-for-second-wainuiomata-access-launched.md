@@ -1,9 +1,12 @@
 ---
 slug: campaign-for-second-wainuiomata-access-launched
-title: "Campaign For Second Wainuiomata Access Launched"
-date: 2021-04-16
-source-url: https://www.scoop.co.nz/stories/PA2104/S00112/campaign-for-second-wainuiomata-access-launched.htm
+title: Campaign For Second Wainuiomata Access Launched
+date: 2021-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00112/campaign-for-second-wainuiomata-access-launched.htm
 author: new-zealand-national-party
+permalink: /archive/2021/04/16/campaign-for-second-wainuiomata-access-launched/index.html
+layout: layout.njk
 ---
 Campaign For Second Wainuiomata Access Launched
 ===============================================

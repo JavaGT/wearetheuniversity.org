@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-the-treaty-and-nzs-constitution
-title: "Tariana Turia: The Treaty And NZ's Constitution"
-date: 2005-02-04
-source-url: https://www.scoop.co.nz/stories/PA0502/S00091/tariana-turia-the-treaty-and-nzs-constitution.htm
+title: 'Tariana Turia: The Treaty And NZ''s Constitution'
+date: 2005-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00091/tariana-turia-the-treaty-and-nzs-constitution.htm
 author: te-pati-maori
+permalink: /archive/2005/02/04/tariana-turia-the-treaty-and-nzs-constitution/index.html
+layout: layout.njk
 ---
 Tariana Turia: The Treaty And NZ's Constitution
 ===============================================

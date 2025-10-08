@@ -1,9 +1,12 @@
 ---
 slug: school-leavers-concerned-about-large-debts
-title: "School Leavers Concerned About Large Debts"
-date: 2001-04-24
-source-url: https://www.scoop.co.nz/stories/ED0104/S00020/school-leavers-concerned-about-large-debts.htm
+title: School Leavers Concerned About Large Debts
+date: 2001-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0104/S00020/school-leavers-concerned-about-large-debts.htm
 author: victoria-university-students-association
+permalink: /archive/2001/04/24/school-leavers-concerned-about-large-debts/index.html
+layout: layout.njk
 ---
 School Leavers Concerned About Large Debts
 ==========================================

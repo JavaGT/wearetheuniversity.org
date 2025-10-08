@@ -1,9 +1,13 @@
 ---
 slug: anne-tolley-to-retire-from-politics-at-2020-election
-title: "Anne Tolley To Retire From Politics At 2020 Election"
-date: 2020-06-27
-source-url: https://www.scoop.co.nz/stories/PA2006/S00264/anne-tolley-to-retire-from-politics-at-2020-election.htm
+title: Anne Tolley To Retire From Politics At 2020 Election
+date: 2020-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00264/anne-tolley-to-retire-from-politics-at-2020-election.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/27/anne-tolley-to-retire-from-politics-at-2020-election/index.html
+layout: layout.njk
 ---
 Anne Tolley To Retire From Politics At 2020 Election
 ====================================================

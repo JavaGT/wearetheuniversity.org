@@ -1,9 +1,12 @@
 ---
 slug: joyce-needs-to-explain-fewer-university-places
-title: "Joyce needs to explain fewer university places"
-date: 2010-12-16
-source-url: https://www.scoop.co.nz/stories/PA1012/S00317/joyce-needs-to-explain-fewer-university-places.htm
+title: Joyce needs to explain fewer university places
+date: 2010-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00317/joyce-needs-to-explain-fewer-university-places.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/16/joyce-needs-to-explain-fewer-university-places/index.html
+layout: layout.njk
 ---
 Joyce needs to explain fewer university places
 ==============================================

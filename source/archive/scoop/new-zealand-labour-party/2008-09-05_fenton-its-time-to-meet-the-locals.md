@@ -1,9 +1,12 @@
 ---
 slug: fenton-its-time-to-meet-the-locals
-title: "Fenton: It’s Time to Meet the Locals"
-date: 2008-09-05
-source-url: https://www.scoop.co.nz/stories/AK0809/S00066/fenton-its-time-to-meet-the-locals.htm
+title: 'Fenton: It’s Time to Meet the Locals'
+date: 2008-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0809/S00066/fenton-its-time-to-meet-the-locals.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/09/05/fenton-its-time-to-meet-the-locals/index.html
+layout: layout.njk
 ---
 Fenton: It’s Time to Meet the Locals
 ====================================

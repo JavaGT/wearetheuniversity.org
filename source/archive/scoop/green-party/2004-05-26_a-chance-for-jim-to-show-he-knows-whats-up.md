@@ -1,9 +1,12 @@
 ---
 slug: a-chance-for-jim-to-show-he-knows-whats-up
-title: "A chance for Jim to show he knows What's Up?"
-date: 2004-05-26
-source-url: https://www.scoop.co.nz/stories/PA0405/S00543/a-chance-for-jim-to-show-he-knows-whats-up.htm
+title: A chance for Jim to show he knows What's Up?
+date: 2004-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00543/a-chance-for-jim-to-show-he-knows-whats-up.htm
 author: green-party
+permalink: /archive/2004/05/26/a-chance-for-jim-to-show-he-knows-whats-up/index.html
+layout: layout.njk
 ---
 A chance for Jim to show he knows What's Up?
 ============================================

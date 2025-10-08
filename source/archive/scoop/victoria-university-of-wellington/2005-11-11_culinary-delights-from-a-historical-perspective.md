@@ -1,9 +1,12 @@
 ---
 slug: culinary-delights-from-a-historical-perspective
-title: "Culinary delights - From a historical perspective"
-date: 2005-11-11
-source-url: https://www.scoop.co.nz/stories/ED0511/S00052/culinary-delights-from-a-historical-perspective.htm
+title: Culinary delights - From a historical perspective
+date: 2005-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00052/culinary-delights-from-a-historical-perspective.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/11/11/culinary-delights-from-a-historical-perspective/index.html
+layout: layout.njk
 ---
 Culinary delights - From a historical perspective
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: arctic-melts-while-labour-drags-chain
-title: "Arctic melts while Labour drags chain"
-date: 2008-05-28
-source-url: https://www.scoop.co.nz/stories/PA0805/S00591/arctic-melts-while-labour-drags-chain.htm
+title: Arctic melts while Labour drags chain
+date: 2008-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00591/arctic-melts-while-labour-drags-chain.htm
 author: green-party
+permalink: /archive/2008/05/28/arctic-melts-while-labour-drags-chain/index.html
+layout: layout.njk
 ---
 Arctic melts while Labour drags chain
 =====================================

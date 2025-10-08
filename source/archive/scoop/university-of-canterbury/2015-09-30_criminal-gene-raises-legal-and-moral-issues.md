@@ -1,9 +1,12 @@
 ---
 slug: criminal-gene-raises-legal-and-moral-issues
-title: "‘Criminal gene’ raises legal and moral issues"
-date: 2015-09-30
-source-url: https://www.scoop.co.nz/stories/ED1509/S00179/criminal-gene-raises-legal-and-moral-issues.htm
+title: ‘Criminal gene’ raises legal and moral issues
+date: 2015-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00179/criminal-gene-raises-legal-and-moral-issues.htm
 author: university-of-canterbury
+permalink: /archive/2015/09/30/criminal-gene-raises-legal-and-moral-issues/index.html
+layout: layout.njk
 ---
 ‘Criminal gene’ raises legal and moral issues
 =============================================

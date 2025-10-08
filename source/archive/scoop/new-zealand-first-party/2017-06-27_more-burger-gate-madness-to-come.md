@@ -1,9 +1,12 @@
 ---
 slug: more-burger-gate-madness-to-come
-title: "More Burger-Gate Madness to Come"
-date: 2017-06-27
-source-url: https://www.scoop.co.nz/stories/PA1706/S00433/more-burger-gate-madness-to-come.htm
+title: More Burger-Gate Madness to Come
+date: 2017-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00433/more-burger-gate-madness-to-come.htm
 author: new-zealand-first-party
+permalink: /archive/2017/06/27/more-burger-gate-madness-to-come/index.html
+layout: layout.njk
 ---
 More Burger-Gate Madness to Come
 ================================

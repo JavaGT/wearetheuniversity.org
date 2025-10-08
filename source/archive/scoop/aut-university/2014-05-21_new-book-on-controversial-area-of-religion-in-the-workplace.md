@@ -1,9 +1,13 @@
 ---
 slug: new-book-on-controversial-area-of-religion-in-the-workplace
-title: "New Book on Controversial Area of Religion in the Workplace"
-date: 2014-05-21
-source-url: https://www.scoop.co.nz/stories/CU1405/S00318/new-book-on-controversial-area-of-religion-in-the-workplace.htm
+title: New Book on Controversial Area of Religion in the Workplace
+date: 2014-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1405/S00318/new-book-on-controversial-area-of-religion-in-the-workplace.htm
 author: aut-university
+permalink: >-
+  /archive/2014/05/21/new-book-on-controversial-area-of-religion-in-the-workplace/index.html
+layout: layout.njk
 ---
 New Book on Controversial Area of Religion in the Workplace
 ===========================================================

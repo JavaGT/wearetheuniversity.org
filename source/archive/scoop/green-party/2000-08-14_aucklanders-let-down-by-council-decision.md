@@ -1,9 +1,12 @@
 ---
 slug: aucklanders-let-down-by-council-decision
-title: "Aucklanders let down by council decision"
-date: 2000-08-14
-source-url: https://www.scoop.co.nz/stories/PA0008/S00225/aucklanders-let-down-by-council-decision.htm
+title: Aucklanders let down by council decision
+date: 2000-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00225/aucklanders-let-down-by-council-decision.htm
 author: green-party
+permalink: /archive/2000/08/14/aucklanders-let-down-by-council-decision/index.html
+layout: layout.njk
 ---
 Aucklanders let down by council decision
 ========================================

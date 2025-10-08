@@ -1,9 +1,12 @@
 ---
 slug: voters-urged-to-consider-the-bigger-picture
-title: "Voters urged to consider the bigger picture"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/PO1111/S00549/voters-urged-to-consider-the-bigger-picture.htm
+title: Voters urged to consider the bigger picture
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00549/voters-urged-to-consider-the-bigger-picture.htm
 author: aut-university
+permalink: /archive/2011/11/21/voters-urged-to-consider-the-bigger-picture/index.html
+layout: layout.njk
 ---
 Voters urged to consider the bigger picture
 ===========================================

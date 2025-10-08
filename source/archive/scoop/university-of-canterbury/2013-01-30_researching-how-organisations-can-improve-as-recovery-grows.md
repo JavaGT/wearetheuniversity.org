@@ -1,9 +1,13 @@
 ---
 slug: researching-how-organisations-can-improve-as-recovery-grows
-title: "Researching How Organisations Can Improve As Recovery Grows"
-date: 2013-01-30
-source-url: https://www.scoop.co.nz/stories/AK1301/S00569/researching-how-organisations-can-improve-as-recovery-grows.htm
+title: Researching How Organisations Can Improve As Recovery Grows
+date: 2013-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1301/S00569/researching-how-organisations-can-improve-as-recovery-grows.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/30/researching-how-organisations-can-improve-as-recovery-grows/index.html
+layout: layout.njk
 ---
 Researching How Organisations Can Improve As Recovery Grows
 ===========================================================

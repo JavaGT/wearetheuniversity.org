@@ -1,9 +1,12 @@
 ---
 slug: politician-and-community-stalwart-honoured
-title: "Politician and community stalwart honoured"
-date: 2004-02-04
-source-url: https://www.scoop.co.nz/stories/ED0402/S00003/politician-and-community-stalwart-honoured.htm
+title: Politician and community stalwart honoured
+date: 2004-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00003/politician-and-community-stalwart-honoured.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/02/04/politician-and-community-stalwart-honoured/index.html
+layout: layout.njk
 ---
 Politician and community stalwart honoured
 ==========================================

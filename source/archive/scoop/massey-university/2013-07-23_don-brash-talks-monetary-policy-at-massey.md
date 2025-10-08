@@ -1,9 +1,12 @@
 ---
 slug: don-brash-talks-monetary-policy-at-massey
-title: "Don Brash talks monetary policy at Massey"
-date: 2013-07-23
-source-url: https://www.scoop.co.nz/stories/BU1307/S00835/don-brash-talks-monetary-policy-at-massey.htm
+title: Don Brash talks monetary policy at Massey
+date: 2013-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1307/S00835/don-brash-talks-monetary-policy-at-massey.htm
 author: massey-university
+permalink: /archive/2013/07/23/don-brash-talks-monetary-policy-at-massey/index.html
+layout: layout.njk
 ---
 Don Brash talks monetary policy at Massey
 =========================================

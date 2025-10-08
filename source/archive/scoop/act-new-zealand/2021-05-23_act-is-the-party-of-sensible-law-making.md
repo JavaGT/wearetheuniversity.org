@@ -1,9 +1,12 @@
 ---
 slug: act-is-the-party-of-sensible-law-making
-title: "ACT Is The Party Of Sensible Law Making"
-date: 2021-05-23
-source-url: https://www.scoop.co.nz/stories/PA2105/S00204/act-is-the-party-of-sensible-law-making.htm
+title: ACT Is The Party Of Sensible Law Making
+date: 2021-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00204/act-is-the-party-of-sensible-law-making.htm
 author: act-new-zealand
+permalink: /archive/2021/05/23/act-is-the-party-of-sensible-law-making/index.html
+layout: layout.njk
 ---
 ACT Is The Party Of Sensible Law Making
 =======================================

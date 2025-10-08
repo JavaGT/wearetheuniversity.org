@@ -1,9 +1,12 @@
 ---
 slug: kedgley-calls-for-cross-party-no-bullying-pact
-title: "Kedgley calls for cross-party no-bullying pact"
-date: 2002-11-14
-source-url: https://www.scoop.co.nz/stories/PA0211/S00333/kedgley-calls-for-cross-party-no-bullying-pact.htm
+title: Kedgley calls for cross-party no-bullying pact
+date: 2002-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00333/kedgley-calls-for-cross-party-no-bullying-pact.htm
 author: green-party
+permalink: /archive/2002/11/14/kedgley-calls-for-cross-party-no-bullying-pact/index.html
+layout: layout.njk
 ---
 Kedgley calls for cross-party no-bullying pact
 ==============================================

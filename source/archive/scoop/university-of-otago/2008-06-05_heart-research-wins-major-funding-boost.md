@@ -1,9 +1,12 @@
 ---
 slug: heart-research-wins-major-funding-boost
-title: "Heart research wins major funding boost"
-date: 2008-06-05
-source-url: https://www.scoop.co.nz/stories/GE0806/S00018/heart-research-wins-major-funding-boost.htm
+title: Heart research wins major funding boost
+date: 2008-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0806/S00018/heart-research-wins-major-funding-boost.htm
 author: university-of-otago
+permalink: /archive/2008/06/05/heart-research-wins-major-funding-boost/index.html
+layout: layout.njk
 ---
 Heart research wins major funding boost
 =======================================

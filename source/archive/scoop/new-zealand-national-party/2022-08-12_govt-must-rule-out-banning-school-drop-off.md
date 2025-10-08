@@ -1,9 +1,12 @@
 ---
 slug: govt-must-rule-out-banning-school-drop-off
-title: "Govt Must Rule Out Banning School Drop-off"
-date: 2022-08-12
-source-url: https://www.scoop.co.nz/stories/PA2208/S00121/govt-must-rule-out-banning-school-drop-off.htm
+title: Govt Must Rule Out Banning School Drop-off
+date: 2022-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00121/govt-must-rule-out-banning-school-drop-off.htm
 author: new-zealand-national-party
+permalink: /archive/2022/08/12/govt-must-rule-out-banning-school-drop-off/index.html
+layout: layout.njk
 ---
 Govt Must Rule Out Banning School Drop-off
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: minor-parties-provide-positive-tertiary-policy-choices
-title: "Minor parties provide positive tertiary policy choices"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/ED1111/S00165/minor-parties-provide-positive-tertiary-policy-choices.htm
+title: Minor parties provide positive tertiary policy choices
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00165/minor-parties-provide-positive-tertiary-policy-choices.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/11/23/minor-parties-provide-positive-tertiary-policy-choices/index.html
+layout: layout.njk
 ---
 Minor parties provide positive tertiary policy choices
 ======================================================

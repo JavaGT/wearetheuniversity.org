@@ -1,9 +1,12 @@
 ---
 slug: quit-the-ideological-warfare-minister
-title: "Quit The Ideological Warfare, Minister"
-date: 2021-06-21
-source-url: https://www.scoop.co.nz/stories/PA2106/S00158/quit-the-ideological-warfare-minister.htm
+title: Quit The Ideological Warfare, Minister
+date: 2021-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00158/quit-the-ideological-warfare-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2021/06/21/quit-the-ideological-warfare-minister/index.html
+layout: layout.njk
 ---
 Quit The Ideological Warfare, Minister
 ======================================

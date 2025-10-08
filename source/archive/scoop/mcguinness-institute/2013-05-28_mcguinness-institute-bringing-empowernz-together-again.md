@@ -1,9 +1,13 @@
 ---
 slug: mcguinness-institute-bringing-empowernz-together-again
-title: "McGuinness Institute bringing EmpowerNZ together again"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/PO1305/S00413/mcguinness-institute-bringing-empowernz-together-again.htm
+title: McGuinness Institute bringing EmpowerNZ together again
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00413/mcguinness-institute-bringing-empowernz-together-again.htm
 author: mcguinness-institute
+permalink: >-
+  /archive/2013/05/28/mcguinness-institute-bringing-empowernz-together-again/index.html
+layout: layout.njk
 ---
 McGuinness Institute bringing EmpowerNZ together again
 ======================================================

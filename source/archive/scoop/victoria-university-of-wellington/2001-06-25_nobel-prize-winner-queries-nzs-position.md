@@ -1,9 +1,12 @@
 ---
 slug: nobel-prize-winner-queries-nzs-position
-title: "Nobel Prize winner queries NZ's position"
-date: 2001-06-25
-source-url: https://www.scoop.co.nz/stories/SC0106/S00054/nobel-prize-winner-queries-nzs-position.htm
+title: Nobel Prize winner queries NZ's position
+date: 2001-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0106/S00054/nobel-prize-winner-queries-nzs-position.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/06/25/nobel-prize-winner-queries-nzs-position/index.html
+layout: layout.njk
 ---
 Nobel Prize winner queries NZ's position
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: don-brash-responds-to-his-critics-speech
-title: "Don Brash Responds To His Critics - Speech"
-date: 2004-03-05
-source-url: https://www.scoop.co.nz/stories/PA0403/S00139/don-brash-responds-to-his-critics-speech.htm
+title: Don Brash Responds To His Critics - Speech
+date: 2004-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00139/don-brash-responds-to-his-critics-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/05/don-brash-responds-to-his-critics-speech/index.html
+layout: layout.njk
 ---
 Don Brash Responds To His Critics - Speech
 ==========================================

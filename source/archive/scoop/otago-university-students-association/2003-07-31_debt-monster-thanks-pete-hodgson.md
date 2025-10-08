@@ -1,9 +1,12 @@
 ---
 slug: debt-monster-thanks-pete-hodgson
-title: "Debt Monster Thanks Pete Hodgson"
-date: 2003-07-31
-source-url: https://www.scoop.co.nz/stories/ED0307/S00080/debt-monster-thanks-pete-hodgson.htm
+title: Debt Monster Thanks Pete Hodgson
+date: 2003-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00080/debt-monster-thanks-pete-hodgson.htm
 author: otago-university-students-association
+permalink: /archive/2003/07/31/debt-monster-thanks-pete-hodgson/index.html
+layout: layout.njk
 ---
 Debt Monster Thanks Pete Hodgson
 ================================

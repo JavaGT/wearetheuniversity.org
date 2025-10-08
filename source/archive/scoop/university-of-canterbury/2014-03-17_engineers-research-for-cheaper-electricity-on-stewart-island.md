@@ -1,9 +1,13 @@
 ---
 slug: engineers-research-for-cheaper-electricity-on-stewart-island
-title: "Engineers research for cheaper electricity on Stewart Island"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/SC1403/S00042/engineers-research-for-cheaper-electricity-on-stewart-island.htm
+title: Engineers research for cheaper electricity on Stewart Island
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00042/engineers-research-for-cheaper-electricity-on-stewart-island.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/17/engineers-research-for-cheaper-electricity-on-stewart-island/index.html
+layout: layout.njk
 ---
 Engineers research for cheaper electricity on Stewart Island
 ============================================================

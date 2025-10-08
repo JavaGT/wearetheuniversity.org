@@ -1,9 +1,13 @@
 ---
 slug: research-shows-spirituality-important-in-healthcare
-title: "Research shows spirituality important in healthcare"
-date: 2011-11-14
-source-url: https://www.scoop.co.nz/stories/ED1111/S00092/research-shows-spirituality-important-in-healthcare.htm
+title: Research shows spirituality important in healthcare
+date: 2011-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00092/research-shows-spirituality-important-in-healthcare.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/11/14/research-shows-spirituality-important-in-healthcare/index.html
+layout: layout.njk
 ---
 Research shows spirituality important in healthcare
 ===================================================

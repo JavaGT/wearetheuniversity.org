@@ -1,9 +1,12 @@
 ---
 slug: nanaia-mahuta-responds-to-media-speculation
-title: "Nanaia Mahuta Responds to Media Speculation"
-date: 2015-08-29
-source-url: https://www.scoop.co.nz/stories/PA1508/S00509/nanaia-mahuta-responds-to-media-speculation.htm
+title: Nanaia Mahuta Responds to Media Speculation
+date: 2015-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00509/nanaia-mahuta-responds-to-media-speculation.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/29/nanaia-mahuta-responds-to-media-speculation/index.html
+layout: layout.njk
 ---
 Nanaia Mahuta Responds to Media Speculation
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: why-does-most-of-the-universe-have-nothing-in-it
-title: "Why does most of the universe have nothing in it?"
-date: 2011-10-14
-source-url: https://www.scoop.co.nz/stories/SC1110/S00038/why-does-most-of-the-universe-have-nothing-in-it.htm
+title: Why does most of the universe have nothing in it?
+date: 2011-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00038/why-does-most-of-the-universe-have-nothing-in-it.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/10/14/why-does-most-of-the-universe-have-nothing-in-it/index.html
+layout: layout.njk
 ---
 Why does most of the universe have nothing in it?
 =================================================

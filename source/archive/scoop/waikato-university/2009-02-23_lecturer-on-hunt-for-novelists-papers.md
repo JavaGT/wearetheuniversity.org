@@ -1,9 +1,12 @@
 ---
 slug: lecturer-on-hunt-for-novelists-papers
-title: "Lecturer on hunt for novelist’s papers"
-date: 2009-02-23
-source-url: https://www.scoop.co.nz/stories/ED0902/S00073/lecturer-on-hunt-for-novelists-papers.htm
+title: Lecturer on hunt for novelist’s papers
+date: 2009-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00073/lecturer-on-hunt-for-novelists-papers.htm
 author: waikato-university
+permalink: /archive/2009/02/23/lecturer-on-hunt-for-novelists-papers/index.html
+layout: layout.njk
 ---
 Lecturer on hunt for novelist’s papers
 ======================================

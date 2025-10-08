@@ -1,9 +1,12 @@
 ---
 slug: top-r-&-d-award-for-lincoln-ravensdown-partnership
-title: "Top R & D award for Lincoln-Ravensdown partnership"
-date: 2005-06-24
-source-url: https://www.scoop.co.nz/stories/ED0506/S00068/top-r-d-award-for-lincoln-ravensdown-partnership.htm
+title: Top R & D award for Lincoln-Ravensdown partnership
+date: 2005-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00068/top-r-d-award-for-lincoln-ravensdown-partnership.htm
 author: lincoln-university
+permalink: /archive/2005/06/24/top-r-/index.html
+layout: layout.njk
 ---
 Top R & D award for Lincoln-Ravensdown partnership
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: international-award-for-online-food-safety-resource
-title: "International award for online food safety resource"
-date: 2012-03-09
-source-url: https://www.scoop.co.nz/stories/ED1203/S00040/international-award-for-online-food-safety-resource.htm
+title: International award for online food safety resource
+date: 2012-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00040/international-award-for-online-food-safety-resource.htm
 author: massey-university
+permalink: >-
+  /archive/2012/03/09/international-award-for-online-food-safety-resource/index.html
+layout: layout.njk
 ---
 International award for online food safety resource
 ===================================================

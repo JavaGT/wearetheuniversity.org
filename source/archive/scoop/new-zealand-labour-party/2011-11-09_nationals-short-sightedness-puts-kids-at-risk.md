@@ -1,9 +1,12 @@
 ---
 slug: nationals-short-sightedness-puts-kids-at-risk
-title: "National’s short-sightedness puts kids at risk"
-date: 2011-11-09
-source-url: https://www.scoop.co.nz/stories/PA1111/S00176/nationals-short-sightedness-puts-kids-at-risk.htm
+title: National’s short-sightedness puts kids at risk
+date: 2011-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00176/nationals-short-sightedness-puts-kids-at-risk.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/09/nationals-short-sightedness-puts-kids-at-risk/index.html
+layout: layout.njk
 ---
 National’s short-sightedness puts kids at risk
 ==============================================

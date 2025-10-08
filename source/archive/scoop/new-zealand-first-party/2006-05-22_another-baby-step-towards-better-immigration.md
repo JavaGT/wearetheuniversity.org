@@ -1,9 +1,12 @@
 ---
 slug: another-baby-step-towards-better-immigration
-title: "Another Baby Step Towards Better Immigration"
-date: 2006-05-22
-source-url: https://www.scoop.co.nz/stories/PA0605/S00515/another-baby-step-towards-better-immigration.htm
+title: Another Baby Step Towards Better Immigration
+date: 2006-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00515/another-baby-step-towards-better-immigration.htm
 author: new-zealand-first-party
+permalink: /archive/2006/05/22/another-baby-step-towards-better-immigration/index.html
+layout: layout.njk
 ---
 Another Baby Step Towards Better Immigration
 ============================================

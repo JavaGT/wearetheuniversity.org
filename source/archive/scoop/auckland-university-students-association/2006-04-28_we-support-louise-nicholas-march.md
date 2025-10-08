@@ -1,9 +1,12 @@
 ---
 slug: we-support-louise-nicholas-march
-title: "We Support Louise Nicholas March"
-date: 2006-04-28
-source-url: https://www.scoop.co.nz/stories/PO0604/S00232/we-support-louise-nicholas-march.htm
+title: We Support Louise Nicholas March
+date: 2006-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0604/S00232/we-support-louise-nicholas-march.htm
 author: auckland-university-students-association
+permalink: /archive/2006/04/28/we-support-louise-nicholas-march/index.html
+layout: layout.njk
 ---
 We Support Louise Nicholas March
 ================================

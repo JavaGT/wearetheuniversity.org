@@ -1,9 +1,12 @@
 ---
 slug: diarrhoea-and-vomiting-outbreak-at-waikato
-title: "Diarrhoea And Vomiting Outbreak At Waikato"
-date: 2007-09-10
-source-url: https://www.scoop.co.nz/stories/GE0709/S00041/diarrhoea-and-vomiting-outbreak-at-waikato.htm
+title: Diarrhoea And Vomiting Outbreak At Waikato
+date: 2007-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0709/S00041/diarrhoea-and-vomiting-outbreak-at-waikato.htm
 author: waikato-university
+permalink: /archive/2007/09/10/diarrhoea-and-vomiting-outbreak-at-waikato/index.html
+layout: layout.njk
 ---
 Diarrhoea And Vomiting Outbreak At Waikato
 ==========================================

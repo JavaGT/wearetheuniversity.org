@@ -1,9 +1,13 @@
 ---
 slug: report-finds-new-zealand-academic-salaries-still-lagging
-title: "Report finds New Zealand academic salaries still lagging"
-date: 2012-05-03
-source-url: https://www.scoop.co.nz/stories/BU1205/S00100/report-finds-new-zealand-academic-salaries-still-lagging.htm
+title: Report finds New Zealand academic salaries still lagging
+date: 2012-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1205/S00100/report-finds-new-zealand-academic-salaries-still-lagging.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2012/05/03/report-finds-new-zealand-academic-salaries-still-lagging/index.html
+layout: layout.njk
 ---
 Report finds New Zealand academic salaries still lagging
 ========================================================

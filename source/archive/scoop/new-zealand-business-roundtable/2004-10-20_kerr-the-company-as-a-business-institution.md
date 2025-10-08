@@ -1,9 +1,12 @@
 ---
 slug: kerr-the-company-as-a-business-institution
-title: "Kerr: The Company As A Business Institution"
-date: 2004-10-20
-source-url: https://www.scoop.co.nz/stories/BU0410/S00260/kerr-the-company-as-a-business-institution.htm
+title: 'Kerr: The Company As A Business Institution'
+date: 2004-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0410/S00260/kerr-the-company-as-a-business-institution.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/10/20/kerr-the-company-as-a-business-institution/index.html
+layout: layout.njk
 ---
 Kerr: The Company As A Business Institution
 ===========================================

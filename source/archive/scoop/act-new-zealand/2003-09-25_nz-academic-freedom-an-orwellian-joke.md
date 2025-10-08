@@ -1,9 +1,12 @@
 ---
 slug: nz-academic-freedom-an-orwellian-joke
-title: "NZ Academic Freedom An Orwellian Joke"
-date: 2003-09-25
-source-url: https://www.scoop.co.nz/stories/PA0309/S00540/nz-academic-freedom-an-orwellian-joke.htm
+title: NZ Academic Freedom An Orwellian Joke
+date: 2003-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00540/nz-academic-freedom-an-orwellian-joke.htm
 author: act-new-zealand
+permalink: /archive/2003/09/25/nz-academic-freedom-an-orwellian-joke/index.html
+layout: layout.njk
 ---
 NZ Academic Freedom An Orwellian Joke
 =====================================

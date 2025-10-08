@@ -1,9 +1,13 @@
 ---
 slug: dont-shut-the-door-on-for-profit-partnership-schools
-title: "Don’t Shut the Door on for-Profit Partnership Schools"
-date: 2013-03-14
-source-url: https://www.scoop.co.nz/stories/ED1303/S00098/dont-shut-the-door-on-for-profit-partnership-schools.htm
+title: Don’t Shut the Door on for-Profit Partnership Schools
+date: 2013-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00098/dont-shut-the-door-on-for-profit-partnership-schools.htm
 author: maxim-institute
+permalink: >-
+  /archive/2013/03/14/dont-shut-the-door-on-for-profit-partnership-schools/index.html
+layout: layout.njk
 ---
 Don’t Shut the Door on for-Profit Partnership Schools
 =====================================================

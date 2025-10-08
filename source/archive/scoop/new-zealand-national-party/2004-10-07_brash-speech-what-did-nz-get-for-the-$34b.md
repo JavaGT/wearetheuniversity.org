@@ -1,9 +1,12 @@
 ---
 slug: brash-speech-what-did-nz-get-for-the-$34b
-title: "Brash Speech: What did NZ get for the $34b?"
-date: 2004-10-07
-source-url: https://www.scoop.co.nz/stories/PA0410/S00110/brash-speech-what-did-nz-get-for-the-34b.htm
+title: 'Brash Speech: What did NZ get for the $34b?'
+date: 2004-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00110/brash-speech-what-did-nz-get-for-the-34b.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/07/brash-speech-what-did-nz-get-for-the-/index.html
+layout: layout.njk
 ---
 Brash Speech: What did NZ get for the $34b?
 ===========================================

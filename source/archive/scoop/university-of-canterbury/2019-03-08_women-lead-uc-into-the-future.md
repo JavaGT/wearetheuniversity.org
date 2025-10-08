@@ -1,9 +1,12 @@
 ---
 slug: women-lead-uc-into-the-future
-title: "Women lead UC into the future"
-date: 2019-03-08
-source-url: https://www.scoop.co.nz/stories/ED1903/S00021/women-lead-uc-into-the-future.htm
+title: Women lead UC into the future
+date: 2019-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1903/S00021/women-lead-uc-into-the-future.htm
 author: university-of-canterbury
+permalink: /archive/2019/03/08/women-lead-uc-into-the-future/index.html
+layout: layout.njk
 ---
 Women lead UC into the future
 =============================

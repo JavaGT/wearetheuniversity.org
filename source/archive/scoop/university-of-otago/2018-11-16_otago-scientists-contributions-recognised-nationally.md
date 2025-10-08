@@ -1,9 +1,13 @@
 ---
 slug: otago-scientists-contributions-recognised-nationally
-title: "Otago scientists’ contributions recognised nationally"
-date: 2018-11-16
-source-url: https://www.scoop.co.nz/stories/SC1811/S00052/otago-scientists-contributions-recognised-nationally.htm
+title: Otago scientists’ contributions recognised nationally
+date: 2018-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1811/S00052/otago-scientists-contributions-recognised-nationally.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/11/16/otago-scientists-contributions-recognised-nationally/index.html
+layout: layout.njk
 ---
 Otago scientists’ contributions recognised nationally
 =====================================================

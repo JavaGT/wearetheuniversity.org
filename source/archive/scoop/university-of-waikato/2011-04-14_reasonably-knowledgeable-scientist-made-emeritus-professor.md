@@ -1,9 +1,13 @@
 ---
 slug: reasonably-knowledgeable-scientist-made-emeritus-professor
-title: "\"Reasonably knowledgeable\" scientist made emeritus professor"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/ED1104/S00051/reasonably-knowledgeable-scientist-made-emeritus-professor.htm
+title: '"Reasonably knowledgeable" scientist made emeritus professor'
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00051/reasonably-knowledgeable-scientist-made-emeritus-professor.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/04/14/reasonably-knowledgeable-scientist-made-emeritus-professor/index.html
+layout: layout.njk
 ---
 “Reasonably knowledgeable” scientist made emeritus professor
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: formal-merger-discussions-between-uc-and-cce
-title: "Formal merger discussions between UC and CCE"
-date: 2005-02-28
-source-url: https://www.scoop.co.nz/stories/ED0502/S00094/formal-merger-discussions-between-uc-and-cce.htm
+title: Formal merger discussions between UC and CCE
+date: 2005-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00094/formal-merger-discussions-between-uc-and-cce.htm
 author: university-of-canterbury
+permalink: /archive/2005/02/28/formal-merger-discussions-between-uc-and-cce/index.html
+layout: layout.njk
 ---
 Formal merger discussions between UC and CCE
 ============================================

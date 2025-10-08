@@ -1,9 +1,13 @@
 ---
 slug: phos-support-strategy-problems-with-implementation
-title: "PHOs support strategy problems with implementation"
-date: 2003-12-02
-source-url: https://www.scoop.co.nz/stories/ED0312/S00005/phos-support-strategy-problems-with-implementation.htm
+title: PHOs support strategy problems with implementation
+date: 2003-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00005/phos-support-strategy-problems-with-implementation.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/12/02/phos-support-strategy-problems-with-implementation/index.html
+layout: layout.njk
 ---
 PHOs support strategy problems with implementation
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: dont-ask-dont-tell-on-illegal-school-fees
-title: "Don’t ask, don’t tell on illegal school fees"
-date: 2016-03-03
-source-url: https://www.scoop.co.nz/stories/PA1603/S00068/dont-ask-dont-tell-on-illegal-school-fees.htm
+title: Don’t ask, don’t tell on illegal school fees
+date: 2016-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00068/dont-ask-dont-tell-on-illegal-school-fees.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/03/dont-ask-dont-tell-on-illegal-school-fees/index.html
+layout: layout.njk
 ---
 Don’t ask, don’t tell on illegal school fees
 ============================================

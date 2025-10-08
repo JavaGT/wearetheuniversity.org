@@ -1,9 +1,12 @@
 ---
 slug: address-to-foreshore-&-seabed-legislation-mahuta
-title: "Address To Foreshore & Seabed Legislation - Mahuta"
-date: 2004-05-06
-source-url: https://www.scoop.co.nz/stories/PA0405/S00113/address-to-foreshore-seabed-legislation-mahuta.htm
+title: Address To Foreshore & Seabed Legislation - Mahuta
+date: 2004-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00113/address-to-foreshore-seabed-legislation-mahuta.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/05/06/address-to-foreshore-/index.html
+layout: layout.njk
 ---
 Address To Foreshore & Seabed Legislation - Mahuta
 ==================================================

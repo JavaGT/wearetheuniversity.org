@@ -1,9 +1,12 @@
 ---
 slug: kiwi-workers-standing-up-for-their-aussie-mates
-title: "Kiwi Workers Standing Up For Their Aussie Mates"
-date: 2006-11-30
-source-url: https://www.scoop.co.nz/stories/PO0611/S00446/kiwi-workers-standing-up-for-their-aussie-mates.htm
+title: Kiwi Workers Standing Up For Their Aussie Mates
+date: 2006-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0611/S00446/kiwi-workers-standing-up-for-their-aussie-mates.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/11/30/kiwi-workers-standing-up-for-their-aussie-mates/index.html
+layout: layout.njk
 ---
 Kiwi Workers Standing Up For Their Aussie Mates
 ===============================================

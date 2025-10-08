@@ -1,9 +1,13 @@
 ---
 slug: free-fares-nz-calls-on-government-to-abandon-fare-hikes
-title: "Free Fares NZ Calls On Government To Abandon Fare Hikes"
-date: 2024-11-28
-source-url: https://www.scoop.co.nz/stories/AK2411/S00778/free-fares-nz-calls-on-government-to-abandon-fare-hikes.htm
+title: Free Fares NZ Calls On Government To Abandon Fare Hikes
+date: 2024-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2411/S00778/free-fares-nz-calls-on-government-to-abandon-fare-hikes.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2024/11/28/free-fares-nz-calls-on-government-to-abandon-fare-hikes/index.html
+layout: layout.njk
 ---
 Free Fares NZ Calls On Government To Abandon Fare Hikes
 =======================================================

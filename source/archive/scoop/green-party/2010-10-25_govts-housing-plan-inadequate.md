@@ -1,9 +1,12 @@
 ---
 slug: govts-housing-plan-inadequate
-title: "Govt's housing plan inadequate"
-date: 2010-10-25
-source-url: https://www.scoop.co.nz/stories/PA1010/S00413/govts-housing-plan-inadequate.htm
+title: Govt's housing plan inadequate
+date: 2010-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00413/govts-housing-plan-inadequate.htm
 author: green-party
+permalink: /archive/2010/10/25/govts-housing-plan-inadequate/index.html
+layout: layout.njk
 ---
 Govt's housing plan inadequate
 ==============================

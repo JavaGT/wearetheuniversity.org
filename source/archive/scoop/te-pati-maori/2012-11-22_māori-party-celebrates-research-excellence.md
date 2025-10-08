@@ -1,9 +1,12 @@
 ---
 slug: māori-party-celebrates-research-excellence
-title: "Māori Party Celebrates Research Excellence"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/PA1211/S00384/maori-party-celebrates-research-excellence.htm
+title: Māori Party Celebrates Research Excellence
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00384/maori-party-celebrates-research-excellence.htm
 author: te-pati-maori
+permalink: /archive/2012/11/22/m/index.html
+layout: layout.njk
 ---
 Māori Party Celebrates Research Excellence
 ==========================================

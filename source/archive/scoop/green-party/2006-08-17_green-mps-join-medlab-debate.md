@@ -1,9 +1,11 @@
 ---
 slug: green-mps-join-medlab-debate
-title: "Green MPs join Medlab debate"
-date: 2006-08-17
+title: Green MPs join Medlab debate
+date: 2006-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0608/S00295/green-mps-join-medlab-debate.htm
 author: green-party
+permalink: /archive/2006/08/17/green-mps-join-medlab-debate/index.html
+layout: layout.njk
 ---
 Green MPs join Medlab debate
 ============================

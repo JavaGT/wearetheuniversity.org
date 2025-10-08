@@ -1,9 +1,11 @@
 ---
 slug: london-calling-kiwis
-title: "London calling Kiwis"
-date: 2005-03-08
+title: London calling Kiwis
+date: 2005-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0503/S00018/london-calling-kiwis.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/03/08/london-calling-kiwis/index.html
+layout: layout.njk
 ---
 London calling Kiwis
 ====================

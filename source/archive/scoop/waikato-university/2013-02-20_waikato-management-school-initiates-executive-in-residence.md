@@ -1,9 +1,13 @@
 ---
 slug: waikato-management-school-initiates-executive-in-residence
-title: "Waikato Management School initiates Executive in Residence"
-date: 2013-02-20
-source-url: https://www.scoop.co.nz/stories/ED1302/S00110/waikato-management-school-initiates-executive-in-residence.htm
+title: Waikato Management School initiates Executive in Residence
+date: 2013-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00110/waikato-management-school-initiates-executive-in-residence.htm
 author: waikato-university
+permalink: >-
+  /archive/2013/02/20/waikato-management-school-initiates-executive-in-residence/index.html
+layout: layout.njk
 ---
 Waikato Management School initiates Executive in Residence
 ==========================================================

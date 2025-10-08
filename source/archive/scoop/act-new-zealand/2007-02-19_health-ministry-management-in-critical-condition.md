@@ -1,9 +1,13 @@
 ---
 slug: health-ministry-management-in-critical-condition
-title: "Health Ministry Management In Critical Condition"
-date: 2007-02-19
-source-url: https://www.scoop.co.nz/stories/PA0702/S00347/health-ministry-management-in-critical-condition.htm
+title: Health Ministry Management In Critical Condition
+date: 2007-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00347/health-ministry-management-in-critical-condition.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2007/02/19/health-ministry-management-in-critical-condition/index.html
+layout: layout.njk
 ---
 Health Ministry Management In Critical Condition
 ================================================

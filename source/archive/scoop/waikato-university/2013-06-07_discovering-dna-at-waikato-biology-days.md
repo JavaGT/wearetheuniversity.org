@@ -1,9 +1,12 @@
 ---
 slug: discovering-dna-at-waikato-biology-days
-title: "Discovering DNA at Waikato Biology Days"
-date: 2013-06-07
-source-url: https://www.scoop.co.nz/stories/SC1306/S00021/discovering-dna-at-waikato-biology-days.htm
+title: Discovering DNA at Waikato Biology Days
+date: 2013-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00021/discovering-dna-at-waikato-biology-days.htm
 author: waikato-university
+permalink: /archive/2013/06/07/discovering-dna-at-waikato-biology-days/index.html
+layout: layout.njk
 ---
 Discovering DNA at Waikato Biology Days
 =======================================

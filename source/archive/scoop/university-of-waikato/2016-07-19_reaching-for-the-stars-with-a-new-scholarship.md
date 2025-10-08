@@ -1,9 +1,12 @@
 ---
 slug: reaching-for-the-stars-with-a-new-scholarship
-title: "Reaching for the stars with a new scholarship"
-date: 2016-07-19
-source-url: https://www.scoop.co.nz/stories/ED1607/S00072/reaching-for-the-stars-with-a-new-scholarship.htm
+title: Reaching for the stars with a new scholarship
+date: 2016-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00072/reaching-for-the-stars-with-a-new-scholarship.htm
 author: university-of-waikato
+permalink: /archive/2016/07/19/reaching-for-the-stars-with-a-new-scholarship/index.html
+layout: layout.njk
 ---
 Reaching for the stars with a new scholarship
 =============================================

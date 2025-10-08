@@ -1,9 +1,13 @@
 ---
 slug: screening-for-abdominal-aortic-aneurysms-indicated
-title: "Screening for abdominal aortic aneurysms indicated"
-date: 2012-02-24
-source-url: https://www.scoop.co.nz/stories/GE1202/S00094/screening-for-abdominal-aortic-aneurysms-indicated.htm
+title: Screening for abdominal aortic aneurysms indicated
+date: 2012-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1202/S00094/screening-for-abdominal-aortic-aneurysms-indicated.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/02/24/screening-for-abdominal-aortic-aneurysms-indicated/index.html
+layout: layout.njk
 ---
 Screening for abdominal aortic aneurysms indicated
 ==================================================

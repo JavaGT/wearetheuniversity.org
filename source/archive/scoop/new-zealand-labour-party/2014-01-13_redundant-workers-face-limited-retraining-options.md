@@ -1,9 +1,13 @@
 ---
 slug: redundant-workers-face-limited-retraining-options
-title: "Redundant workers face limited retraining options"
-date: 2014-01-13
-source-url: https://www.scoop.co.nz/stories/PA1401/S00026/redundant-workers-face-limited-retraining-options.htm
+title: Redundant workers face limited retraining options
+date: 2014-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00026/redundant-workers-face-limited-retraining-options.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/01/13/redundant-workers-face-limited-retraining-options/index.html
+layout: layout.njk
 ---
 Redundant workers face limited retraining options
 =================================================

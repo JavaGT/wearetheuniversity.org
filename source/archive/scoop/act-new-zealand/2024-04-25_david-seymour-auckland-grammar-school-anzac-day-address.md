@@ -1,9 +1,13 @@
 ---
 slug: david-seymour-auckland-grammar-school-anzac-day-address
-title: "David Seymour: Auckland Grammar School ANZAC Day Address"
-date: 2024-04-25
-source-url: https://www.scoop.co.nz/stories/PO2404/S00155/david-seymour-auckland-grammar-school-anzac-day-address.htm
+title: 'David Seymour: Auckland Grammar School ANZAC Day Address'
+date: 2024-04-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2404/S00155/david-seymour-auckland-grammar-school-anzac-day-address.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/04/25/david-seymour-auckland-grammar-school-anzac-day-address/index.html
+layout: layout.njk
 ---
 David Seymour: Auckland Grammar School ANZAC Day Address
 ========================================================

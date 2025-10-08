@@ -1,9 +1,12 @@
 ---
 slug: national-ensures-a-prosperous-building-sector
-title: "National ensures a prosperous building sector"
-date: 2011-11-08
-source-url: https://www.scoop.co.nz/stories/PA1111/S00157/national-ensures-a-prosperous-building-sector.htm
+title: National ensures a prosperous building sector
+date: 2011-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00157/national-ensures-a-prosperous-building-sector.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/08/national-ensures-a-prosperous-building-sector/index.html
+layout: layout.njk
 ---
 National ensures a prosperous building sector
 =============================================

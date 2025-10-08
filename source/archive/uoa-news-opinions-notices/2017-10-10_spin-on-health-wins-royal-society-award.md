@@ -1,8 +1,11 @@
 ---
 slug: spin-on-health-wins-royal-society-award
-title: "Spin on health wins Royal Society award"
-date: 2017-10-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/spin-on-health-wins-royal-society-award.html
+title: Spin on health wins Royal Society award
+date: 2017-10-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/spin-on-health-wins-royal-society-award.html
+permalink: /archive/2017/10/10/spin-on-health-wins-royal-society-award/index.html
+layout: layout.njk
 ---
 Spin on health wins Royal Society award
 =======================================

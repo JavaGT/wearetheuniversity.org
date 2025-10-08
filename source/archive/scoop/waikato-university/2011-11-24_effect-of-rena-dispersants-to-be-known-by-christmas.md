@@ -1,9 +1,13 @@
 ---
 slug: effect-of-rena-dispersants-to-be-known-by-christmas
-title: "Effect of Rena dispersants to be known by Christmas"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/ED1111/S00175/effect-of-rena-dispersants-to-be-known-by-christmas.htm
+title: Effect of Rena dispersants to be known by Christmas
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00175/effect-of-rena-dispersants-to-be-known-by-christmas.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/24/effect-of-rena-dispersants-to-be-known-by-christmas/index.html
+layout: layout.njk
 ---
 Effect of Rena dispersants to be known by Christmas
 ===================================================

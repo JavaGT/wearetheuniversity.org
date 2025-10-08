@@ -1,9 +1,13 @@
 ---
 slug: findings-from-otago-study-into-nz-justice-system
-title: "Findings from Otago study into NZ justice system"
-date: 2017-11-27
-source-url: https://www.scoop.co.nz/stories/PO1711/S00310/findings-from-otago-study-into-nz-justice-system.htm
+title: Findings from Otago study into NZ justice system
+date: 2017-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1711/S00310/findings-from-otago-study-into-nz-justice-system.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/11/27/findings-from-otago-study-into-nz-justice-system/index.html
+layout: layout.njk
 ---
 Findings from Otago study into NZ justice system
 ================================================

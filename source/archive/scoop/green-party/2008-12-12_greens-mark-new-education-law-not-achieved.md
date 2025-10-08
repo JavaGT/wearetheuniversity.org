@@ -1,9 +1,12 @@
 ---
 slug: greens-mark-new-education-law-not-achieved
-title: "Greens mark new education law 'not achieved'"
-date: 2008-12-12
-source-url: https://www.scoop.co.nz/stories/PA0812/S00136/greens-mark-new-education-law-not-achieved.htm
+title: Greens mark new education law 'not achieved'
+date: 2008-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00136/greens-mark-new-education-law-not-achieved.htm
 author: green-party
+permalink: /archive/2008/12/12/greens-mark-new-education-law-not-achieved/index.html
+layout: layout.njk
 ---
 Greens mark new education law 'not achieved'
 ============================================

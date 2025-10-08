@@ -1,9 +1,12 @@
 ---
 slug: craccum-named-best-student-publication-for-2007
-title: "Craccum Named Best Student Publication For 2007"
-date: 2007-10-12
-source-url: https://www.scoop.co.nz/stories/CU0710/S00155/craccum-named-best-student-publication-for-2007.htm
+title: Craccum Named Best Student Publication For 2007
+date: 2007-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0710/S00155/craccum-named-best-student-publication-for-2007.htm
 author: aotearoa-student-press-association
+permalink: /archive/2007/10/12/craccum-named-best-student-publication-for-2007/index.html
+layout: layout.njk
 ---
 Craccum Named Best Student Publication For 2007
 ===============================================

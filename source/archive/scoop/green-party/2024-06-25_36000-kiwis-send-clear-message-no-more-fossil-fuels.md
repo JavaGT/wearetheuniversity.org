@@ -1,9 +1,13 @@
 ---
 slug: 36000-kiwis-send-clear-message-no-more-fossil-fuels
-title: "36,000 Kiwis Send Clear Message: No More Fossil Fuels"
-date: 2024-06-25
-source-url: https://www.scoop.co.nz/stories/PO2406/S00166/36000-kiwis-send-clear-message-no-more-fossil-fuels.htm
+title: '36,000 Kiwis Send Clear Message: No More Fossil Fuels'
+date: 2024-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2406/S00166/36000-kiwis-send-clear-message-no-more-fossil-fuels.htm
 author: green-party
+permalink: >-
+  /archive/2024/06/25/36000-kiwis-send-clear-message-no-more-fossil-fuels/index.html
+layout: layout.njk
 ---
 36,000 Kiwis Send Clear Message: No More Fossil Fuels
 =====================================================

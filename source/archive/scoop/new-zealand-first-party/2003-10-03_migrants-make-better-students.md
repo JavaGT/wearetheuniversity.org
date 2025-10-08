@@ -1,9 +1,12 @@
 ---
 slug: migrants-make-better-students
-title: "Migrants ‘Make Better Students’"
-date: 2003-10-03
-source-url: https://www.scoop.co.nz/stories/PA0310/S00049/migrants-make-better-students.htm
+title: Migrants ‘Make Better Students’
+date: 2003-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00049/migrants-make-better-students.htm
 author: new-zealand-first-party
+permalink: /archive/2003/10/03/migrants-make-better-students/index.html
+layout: layout.njk
 ---
 Migrants ‘Make Better Students’
 ===============================

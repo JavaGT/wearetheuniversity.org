@@ -1,9 +1,12 @@
 ---
 slug: government-changes-tune-on-regional-development
-title: "Government changes tune on regional development"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/PA0810/S00398/government-changes-tune-on-regional-development.htm
+title: Government changes tune on regional development
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00398/government-changes-tune-on-regional-development.htm
 author: te-pati-maori
+permalink: /archive/2008/10/17/government-changes-tune-on-regional-development/index.html
+layout: layout.njk
 ---
 Government changes tune on regional development
 ===============================================

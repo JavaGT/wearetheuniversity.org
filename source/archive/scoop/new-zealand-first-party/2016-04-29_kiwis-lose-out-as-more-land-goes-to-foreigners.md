@@ -1,9 +1,12 @@
 ---
 slug: kiwis-lose-out-as-more-land-goes-to-foreigners
-title: "Kiwis Lose Out as More Land Goes to Foreigners"
-date: 2016-04-29
-source-url: https://www.scoop.co.nz/stories/PO1604/S00399/kiwis-lose-out-as-more-land-goes-to-foreigners.htm
+title: Kiwis Lose Out as More Land Goes to Foreigners
+date: 2016-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00399/kiwis-lose-out-as-more-land-goes-to-foreigners.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/29/kiwis-lose-out-as-more-land-goes-to-foreigners/index.html
+layout: layout.njk
 ---
 Kiwis Lose Out as More Land Goes to Foreigners
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: child-support-debt-doubles-under-labour
-title: "Child support debt doubles under Labour"
-date: 2003-01-06
-source-url: https://www.scoop.co.nz/stories/PA0301/S00011/child-support-debt-doubles-under-labour.htm
+title: Child support debt doubles under Labour
+date: 2003-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00011/child-support-debt-doubles-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/06/child-support-debt-doubles-under-labour/index.html
+layout: layout.njk
 ---
 Child support debt doubles under Labour
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: terrorism-suppression-bill-hone-harawira
-title: "Terrorism Suppression Bill - Hone Harawira"
-date: 2007-11-14
-source-url: https://www.scoop.co.nz/stories/PA0711/S00257/terrorism-suppression-bill-hone-harawira.htm
+title: Terrorism Suppression Bill - Hone Harawira
+date: 2007-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00257/terrorism-suppression-bill-hone-harawira.htm
 author: te-pati-maori
+permalink: /archive/2007/11/14/terrorism-suppression-bill-hone-harawira/index.html
+layout: layout.njk
 ---
 Terrorism Suppression Bill - Hone Harawira
 ==========================================

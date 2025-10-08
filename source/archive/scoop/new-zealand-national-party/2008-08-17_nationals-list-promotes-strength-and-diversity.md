@@ -1,9 +1,12 @@
 ---
 slug: nationals-list-promotes-strength-and-diversity
-title: "National's list promotes strength and diversity"
-date: 2008-08-17
-source-url: https://www.scoop.co.nz/stories/PO0808/S00205/nationals-list-promotes-strength-and-diversity.htm
+title: National's list promotes strength and diversity
+date: 2008-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00205/nationals-list-promotes-strength-and-diversity.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/17/nationals-list-promotes-strength-and-diversity/index.html
+layout: layout.njk
 ---
 National's list promotes strength and diversity
 ===============================================

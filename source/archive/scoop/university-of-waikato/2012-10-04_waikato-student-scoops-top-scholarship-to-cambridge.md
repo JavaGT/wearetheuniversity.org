@@ -1,9 +1,13 @@
 ---
 slug: waikato-student-scoops-top-scholarship-to-cambridge
-title: "Waikato Student Scoops Top Scholarship To Cambridge"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/ED1210/S00030/waikato-student-scoops-top-scholarship-to-cambridge.htm
+title: Waikato Student Scoops Top Scholarship To Cambridge
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00030/waikato-student-scoops-top-scholarship-to-cambridge.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/10/04/waikato-student-scoops-top-scholarship-to-cambridge/index.html
+layout: layout.njk
 ---
 Waikato Student Scoops Top Scholarship To Cambridge
 ===================================================

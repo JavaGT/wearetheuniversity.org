@@ -1,9 +1,12 @@
 ---
 slug: new-fund-benefits-auckland-medical-researchers
-title: "New Fund Benefits Auckland Medical Researchers"
-date: 2005-02-08
-source-url: https://www.scoop.co.nz/stories/GE0502/S00030/new-fund-benefits-auckland-medical-researchers.htm
+title: New Fund Benefits Auckland Medical Researchers
+date: 2005-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0502/S00030/new-fund-benefits-auckland-medical-researchers.htm
 author: auckland-university
+permalink: /archive/2005/02/08/new-fund-benefits-auckland-medical-researchers/index.html
+layout: layout.njk
 ---
 New Fund Benefits Auckland Medical Researchers
 ==============================================

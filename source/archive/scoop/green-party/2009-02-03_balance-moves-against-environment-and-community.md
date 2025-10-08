@@ -1,9 +1,12 @@
 ---
 slug: balance-moves-against-environment-and-community
-title: "Balance moves against environment and community"
-date: 2009-02-03
-source-url: https://www.scoop.co.nz/stories/PA0902/S00033/balance-moves-against-environment-and-community.htm
+title: Balance moves against environment and community
+date: 2009-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00033/balance-moves-against-environment-and-community.htm
 author: green-party
+permalink: /archive/2009/02/03/balance-moves-against-environment-and-community/index.html
+layout: layout.njk
 ---
 Balance moves against environment and community
 ===============================================

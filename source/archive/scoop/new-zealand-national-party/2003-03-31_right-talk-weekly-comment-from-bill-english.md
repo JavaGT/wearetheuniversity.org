@@ -1,9 +1,12 @@
 ---
 slug: right-talk-weekly-comment-from-bill-english
-title: "Right Talk - Weekly Comment from Bill English"
-date: 2003-03-31
-source-url: https://www.scoop.co.nz/stories/PA0303/S00575/right-talk-weekly-comment-from-bill-english.htm
+title: Right Talk - Weekly Comment from Bill English
+date: 2003-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00575/right-talk-weekly-comment-from-bill-english.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/31/right-talk-weekly-comment-from-bill-english/index.html
+layout: layout.njk
 ---
 Right Talk - Weekly Comment from Bill English
 =============================================

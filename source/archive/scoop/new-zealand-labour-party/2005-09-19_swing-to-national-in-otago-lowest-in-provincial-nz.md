@@ -1,9 +1,13 @@
 ---
 slug: swing-to-national-in-otago-lowest-in-provincial-nz
-title: "Swing to National in Otago lowest in Provincial NZ"
-date: 2005-09-19
-source-url: https://www.scoop.co.nz/stories/PO0509/S00220/swing-to-national-in-otago-lowest-in-provincial-nz.htm
+title: Swing to National in Otago lowest in Provincial NZ
+date: 2005-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0509/S00220/swing-to-national-in-otago-lowest-in-provincial-nz.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/09/19/swing-to-national-in-otago-lowest-in-provincial-nz/index.html
+layout: layout.njk
 ---
 Swing to National in Otago lowest in Provincial NZ
 ==================================================

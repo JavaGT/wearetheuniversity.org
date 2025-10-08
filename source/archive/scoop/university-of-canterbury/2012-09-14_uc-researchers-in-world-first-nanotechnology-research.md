@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-in-world-first-nanotechnology-research
-title: "UC researchers in world-first nanotechnology research"
-date: 2012-09-14
-source-url: https://www.scoop.co.nz/stories/SC1209/S00025/uc-researchers-in-world-first-nanotechnology-research.htm
+title: UC researchers in world-first nanotechnology research
+date: 2012-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00025/uc-researchers-in-world-first-nanotechnology-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/14/uc-researchers-in-world-first-nanotechnology-research/index.html
+layout: layout.njk
 ---
 UC researchers in world-first nanotechnology research
 =====================================================

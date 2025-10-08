@@ -1,9 +1,12 @@
 ---
 slug: effectiveness-of-post-disaster-aid-examined
-title: "Effectiveness of post-disaster aid examined"
-date: 2008-01-30
-source-url: https://www.scoop.co.nz/stories/ED0801/S00042/effectiveness-of-post-disaster-aid-examined.htm
+title: Effectiveness of post-disaster aid examined
+date: 2008-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00042/effectiveness-of-post-disaster-aid-examined.htm
 author: massey-university
+permalink: /archive/2008/01/30/effectiveness-of-post-disaster-aid-examined/index.html
+layout: layout.njk
 ---
 Effectiveness of post-disaster aid examined
 ===========================================

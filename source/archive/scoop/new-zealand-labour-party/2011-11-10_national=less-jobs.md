@@ -1,9 +1,11 @@
 ---
 slug: national=less-jobs
-title: "National=less jobs"
-date: 2011-11-10
+title: National=less jobs
+date: 2011-11-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00209/nationalless-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/10/national/index.html
+layout: layout.njk
 ---
 National=less jobs
 ==================

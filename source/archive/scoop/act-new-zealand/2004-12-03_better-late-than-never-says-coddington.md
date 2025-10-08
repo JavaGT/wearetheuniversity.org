@@ -1,9 +1,12 @@
 ---
 slug: better-late-than-never-says-coddington
-title: "Better late than never, says Coddington"
-date: 2004-12-03
-source-url: https://www.scoop.co.nz/stories/PA0412/S00089/better-late-than-never-says-coddington.htm
+title: Better late than never, says Coddington
+date: 2004-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00089/better-late-than-never-says-coddington.htm
 author: act-new-zealand
+permalink: /archive/2004/12/03/better-late-than-never-says-coddington/index.html
+layout: layout.njk
 ---
 Better late than never, says Coddington
 =======================================

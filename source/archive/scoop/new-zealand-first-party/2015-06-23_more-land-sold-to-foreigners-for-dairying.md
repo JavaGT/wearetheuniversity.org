@@ -1,9 +1,12 @@
 ---
 slug: more-land-sold-to-foreigners-for-dairying
-title: "More Land Sold to Foreigners for Dairying"
-date: 2015-06-23
-source-url: https://www.scoop.co.nz/stories/PA1506/S00413/more-land-sold-to-foreigners-for-dairying.htm
+title: More Land Sold to Foreigners for Dairying
+date: 2015-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00413/more-land-sold-to-foreigners-for-dairying.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/23/more-land-sold-to-foreigners-for-dairying/index.html
+layout: layout.njk
 ---
 More Land Sold to Foreigners for Dairying
 =========================================

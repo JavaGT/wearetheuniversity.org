@@ -1,9 +1,12 @@
 ---
 slug: biosecurity-rethink-a-long-time-coming
-title: "Biosecurity rethink a long time coming"
-date: 2015-04-17
-source-url: https://www.scoop.co.nz/stories/PA1504/S00223/biosecurity-rethink-a-long-time-coming.htm
+title: Biosecurity rethink a long time coming
+date: 2015-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00223/biosecurity-rethink-a-long-time-coming.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/04/17/biosecurity-rethink-a-long-time-coming/index.html
+layout: layout.njk
 ---
 Biosecurity rethink a long time coming
 ======================================

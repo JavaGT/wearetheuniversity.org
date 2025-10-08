@@ -1,9 +1,13 @@
 ---
 slug: nz-first-to-seek-urgent-debate-on-philip-smith-debacle
-title: "NZ First to Seek Urgent Debate on Philip Smith Debacle"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/PA1411/S00369/nz-first-to-seek-urgent-debate-on-philip-smith-debacle.htm
+title: NZ First to Seek Urgent Debate on Philip Smith Debacle
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00369/nz-first-to-seek-urgent-debate-on-philip-smith-debacle.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/11/27/nz-first-to-seek-urgent-debate-on-philip-smith-debacle/index.html
+layout: layout.njk
 ---
 NZ First to Seek Urgent Debate on Philip Smith Debacle
 ======================================================

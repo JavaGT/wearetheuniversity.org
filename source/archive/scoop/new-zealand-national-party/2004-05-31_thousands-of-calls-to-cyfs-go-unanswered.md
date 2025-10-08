@@ -1,9 +1,12 @@
 ---
 slug: thousands-of-calls-to-cyfs-go-unanswered
-title: "Thousands of calls to CYFS go unanswered"
-date: 2004-05-31
-source-url: https://www.scoop.co.nz/stories/PA0405/S00669/thousands-of-calls-to-cyfs-go-unanswered.htm
+title: Thousands of calls to CYFS go unanswered
+date: 2004-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00669/thousands-of-calls-to-cyfs-go-unanswered.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/31/thousands-of-calls-to-cyfs-go-unanswered/index.html
+layout: layout.njk
 ---
 Thousands of calls to CYFS go unanswered
 ========================================

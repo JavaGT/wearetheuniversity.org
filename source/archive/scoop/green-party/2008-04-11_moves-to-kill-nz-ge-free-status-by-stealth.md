@@ -1,9 +1,12 @@
 ---
 slug: moves-to-kill-nz-ge-free-status-by-stealth
-title: "Moves to kill NZ GE-free status by stealth"
-date: 2008-04-11
-source-url: https://www.scoop.co.nz/stories/PA0804/S00300/moves-to-kill-nz-ge-free-status-by-stealth.htm
+title: Moves to kill NZ GE-free status by stealth
+date: 2008-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00300/moves-to-kill-nz-ge-free-status-by-stealth.htm
 author: green-party
+permalink: /archive/2008/04/11/moves-to-kill-nz-ge-free-status-by-stealth/index.html
+layout: layout.njk
 ---
 Moves to kill NZ GE-free status by stealth
 ==========================================

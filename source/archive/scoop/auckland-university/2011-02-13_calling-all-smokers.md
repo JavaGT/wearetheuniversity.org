@@ -1,9 +1,11 @@
 ---
 slug: calling-all-smokers
-title: "Calling all smokers"
-date: 2011-02-13
+title: Calling all smokers
+date: 2011-02-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1102/S00053/calling-all-smokers.htm
 author: auckland-university
+permalink: /archive/2011/02/13/calling-all-smokers/index.html
+layout: layout.njk
 ---
 Calling all smokers
 ===================

@@ -1,9 +1,12 @@
 ---
 slug: exhibition-marks-10-years-of-wellington-campus
-title: "Exhibition marks 10 years of Wellington campus"
-date: 2009-06-30
-source-url: https://www.scoop.co.nz/stories/ED0906/S00085/exhibition-marks-10-years-of-wellington-campus.htm
+title: Exhibition marks 10 years of Wellington campus
+date: 2009-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00085/exhibition-marks-10-years-of-wellington-campus.htm
 author: massey-university
+permalink: /archive/2009/06/30/exhibition-marks-10-years-of-wellington-campus/index.html
+layout: layout.njk
 ---
 Exhibition marks 10 years of Wellington campus
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: government-makes-shambles-of-prisoner-voting-law
-title: "Government Makes Shambles Of Prisoner Voting Law"
-date: 2020-06-25
-source-url: https://www.scoop.co.nz/stories/PA2006/S00244/government-makes-shambles-of-prisoner-voting-law.htm
+title: Government Makes Shambles Of Prisoner Voting Law
+date: 2020-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00244/government-makes-shambles-of-prisoner-voting-law.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/25/government-makes-shambles-of-prisoner-voting-law/index.html
+layout: layout.njk
 ---
 Government Makes Shambles Of Prisoner Voting Law
 ================================================

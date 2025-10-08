@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-8-december-2006
-title: "Heather Roy's Diary - 8 December 2006"
-date: 2006-12-08
-source-url: https://www.scoop.co.nz/stories/PA0612/S00182/heather-roys-diary-8-december-2006.htm
+title: Heather Roy's Diary - 8 December 2006
+date: 2006-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00182/heather-roys-diary-8-december-2006.htm
 author: act-new-zealand
+permalink: /archive/2006/12/08/heather-roys-diary-8-december-2006/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - 8 December 2006
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: more-land-goes-into-foreign-hands-for-dairying
-title: "More Land Goes into Foreign Hands for Dairying"
-date: 2015-08-31
-source-url: https://www.scoop.co.nz/stories/PA1508/S00528/more-land-goes-into-foreign-hands-for-dairying.htm
+title: More Land Goes into Foreign Hands for Dairying
+date: 2015-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00528/more-land-goes-into-foreign-hands-for-dairying.htm
 author: new-zealand-first-party
+permalink: /archive/2015/08/31/more-land-goes-into-foreign-hands-for-dairying/index.html
+layout: layout.njk
 ---
 More Land Goes into Foreign Hands for Dairying
 ==============================================

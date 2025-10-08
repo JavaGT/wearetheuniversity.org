@@ -1,9 +1,11 @@
 ---
 slug: power-to-the-people
-title: "Power to the people"
-date: 2016-12-15
+title: Power to the people
+date: 2016-12-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1612/S00040/power-to-the-people.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/12/15/power-to-the-people/index.html
+layout: layout.njk
 ---
 Power to the people
 ===================

@@ -1,9 +1,13 @@
 ---
 slug: loneliness-and-isolation-pushing-elderly-into-aged-care
-title: "Loneliness and isolation pushing elderly into aged care"
-date: 2019-05-15
-source-url: https://www.scoop.co.nz/stories/GE1905/S00063/loneliness-and-isolation-pushing-elderly-into-aged-care.htm
+title: Loneliness and isolation pushing elderly into aged care
+date: 2019-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1905/S00063/loneliness-and-isolation-pushing-elderly-into-aged-care.htm
 author: university-of-otago
+permalink: >-
+  /archive/2019/05/15/loneliness-and-isolation-pushing-elderly-into-aged-care/index.html
+layout: layout.njk
 ---
 Loneliness and isolation pushing elderly into aged care
 =======================================================

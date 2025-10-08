@@ -1,9 +1,12 @@
 ---
 slug: regional-polytechs-stripped-of-decision-making
-title: "Regional polytechs stripped of decision making"
-date: 2019-06-28
-source-url: https://www.scoop.co.nz/stories/PA1906/S00266/regional-polytechs-stripped-of-decision-making.htm
+title: Regional polytechs stripped of decision making
+date: 2019-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00266/regional-polytechs-stripped-of-decision-making.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/28/regional-polytechs-stripped-of-decision-making/index.html
+layout: layout.njk
 ---
 Regional polytechs stripped of decision making
 ==============================================

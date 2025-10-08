@@ -1,9 +1,12 @@
 ---
 slug: uc-approves-190-summer-research-scholarships
-title: "UC approves 190 summer research scholarships"
-date: 2012-08-30
-source-url: https://www.scoop.co.nz/stories/ED1208/S00167/uc-approves-190-summer-research-scholarships.htm
+title: UC approves 190 summer research scholarships
+date: 2012-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00167/uc-approves-190-summer-research-scholarships.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/30/uc-approves-190-summer-research-scholarships/index.html
+layout: layout.njk
 ---
 UC approves 190 summer research scholarships
 ============================================

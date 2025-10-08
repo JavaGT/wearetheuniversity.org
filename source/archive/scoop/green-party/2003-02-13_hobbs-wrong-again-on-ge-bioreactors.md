@@ -1,9 +1,12 @@
 ---
 slug: hobbs-wrong-again-on-ge-bioreactors
-title: "Hobbs wrong again on GE bioreactors"
-date: 2003-02-13
-source-url: https://www.scoop.co.nz/stories/PA0302/S00235/hobbs-wrong-again-on-ge-bioreactors.htm
+title: Hobbs wrong again on GE bioreactors
+date: 2003-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00235/hobbs-wrong-again-on-ge-bioreactors.htm
 author: green-party
+permalink: /archive/2003/02/13/hobbs-wrong-again-on-ge-bioreactors/index.html
+layout: layout.njk
 ---
 Hobbs wrong again on GE bioreactors
 ===================================

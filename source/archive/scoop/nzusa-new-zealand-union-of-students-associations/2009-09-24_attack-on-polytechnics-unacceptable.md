@@ -1,9 +1,12 @@
 ---
 slug: attack-on-polytechnics-unacceptable
-title: "Attack on Polytechnics unacceptable"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/ED0909/S00095/attack-on-polytechnics-unacceptable.htm
+title: Attack on Polytechnics unacceptable
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00095/attack-on-polytechnics-unacceptable.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/09/24/attack-on-polytechnics-unacceptable/index.html
+layout: layout.njk
 ---
 Attack on Polytechnics unacceptable
 ===================================

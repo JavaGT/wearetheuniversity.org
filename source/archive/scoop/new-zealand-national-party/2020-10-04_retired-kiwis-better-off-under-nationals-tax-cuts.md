@@ -1,9 +1,13 @@
 ---
 slug: retired-kiwis-better-off-under-nationals-tax-cuts
-title: "Retired Kiwis Better Off Under National’s Tax Cuts"
-date: 2020-10-04
-source-url: https://www.scoop.co.nz/stories/PO2010/S00040/retired-kiwis-better-off-under-nationals-tax-cuts.htm
+title: Retired Kiwis Better Off Under National’s Tax Cuts
+date: 2020-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00040/retired-kiwis-better-off-under-nationals-tax-cuts.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/10/04/retired-kiwis-better-off-under-nationals-tax-cuts/index.html
+layout: layout.njk
 ---
 Retired Kiwis Better Off Under National’s Tax Cuts
 ==================================================

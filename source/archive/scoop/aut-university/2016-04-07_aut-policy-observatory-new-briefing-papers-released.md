@@ -1,9 +1,13 @@
 ---
 slug: aut-policy-observatory-new-briefing-papers-released
-title: "AUT Policy Observatory: New briefing papers released"
-date: 2016-04-07
-source-url: https://www.scoop.co.nz/stories/ED1604/S00020/aut-policy-observatory-new-briefing-papers-released.htm
+title: 'AUT Policy Observatory: New briefing papers released'
+date: 2016-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00020/aut-policy-observatory-new-briefing-papers-released.htm
 author: aut-university
+permalink: >-
+  /archive/2016/04/07/aut-policy-observatory-new-briefing-papers-released/index.html
+layout: layout.njk
 ---
 AUT Policy Observatory: New briefing papers released
 ====================================================

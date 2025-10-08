@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-announces-new-postgraduate-scholarships
-title: "Waikato University announces new postgraduate scholarships"
-date: 2012-03-05
-source-url: https://www.scoop.co.nz/stories/ED1203/S00010/waikato-university-announces-new-postgraduate-scholarships.htm
+title: Waikato University announces new postgraduate scholarships
+date: 2012-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00010/waikato-university-announces-new-postgraduate-scholarships.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/03/05/waikato-university-announces-new-postgraduate-scholarships/index.html
+layout: layout.njk
 ---
 Waikato University announces new postgraduate scholarships
 ==========================================================

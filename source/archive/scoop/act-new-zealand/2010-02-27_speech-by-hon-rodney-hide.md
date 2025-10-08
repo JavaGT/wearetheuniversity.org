@@ -1,9 +1,11 @@
 ---
 slug: speech-by-hon-rodney-hide
-title: "Speech By Hon Rodney Hide"
-date: 2010-02-27
+title: Speech By Hon Rodney Hide
+date: 2010-02-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1002/S00398/speech-by-hon-rodney-hide.htm
 author: act-new-zealand
+permalink: /archive/2010/02/27/speech-by-hon-rodney-hide/index.html
+layout: layout.njk
 ---
 Speech By Hon Rodney Hide
 =========================

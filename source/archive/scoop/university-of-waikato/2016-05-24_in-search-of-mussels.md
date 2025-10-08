@@ -1,9 +1,11 @@
 ---
 slug: in-search-of-mussels
-title: "In search of mussels"
-date: 2016-05-24
+title: In search of mussels
+date: 2016-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1605/S00056/in-search-of-mussels.htm
 author: university-of-waikato
+permalink: /archive/2016/05/24/in-search-of-mussels/index.html
+layout: layout.njk
 ---
 In search of mussels
 ====================

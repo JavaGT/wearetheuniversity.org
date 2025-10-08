@@ -1,9 +1,13 @@
 ---
 slug: ban-will-be-a-fizzer-if-diet-drinks-not-included
-title: "Ban will be a fizzer if diet drinks not included"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/PA0609/S00061/ban-will-be-a-fizzer-if-diet-drinks-not-included.htm
+title: Ban will be a fizzer if diet drinks not included
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00061/ban-will-be-a-fizzer-if-diet-drinks-not-included.htm
 author: green-party
+permalink: >-
+  /archive/2006/09/04/ban-will-be-a-fizzer-if-diet-drinks-not-included/index.html
+layout: layout.njk
 ---
 Ban will be a fizzer if diet drinks not included
 ================================================

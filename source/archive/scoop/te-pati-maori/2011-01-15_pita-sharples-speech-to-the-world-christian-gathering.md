@@ -1,9 +1,13 @@
 ---
 slug: pita-sharples-speech-to-the-world-christian-gathering
-title: "Pita Sharples speech to the World Christian Gathering"
-date: 2011-01-15
-source-url: https://www.scoop.co.nz/stories/PA1101/S00036/pita-sharples-speech-to-the-world-christian-gathering.htm
+title: Pita Sharples speech to the World Christian Gathering
+date: 2011-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00036/pita-sharples-speech-to-the-world-christian-gathering.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/01/15/pita-sharples-speech-to-the-world-christian-gathering/index.html
+layout: layout.njk
 ---
 Pita Sharples speech to the World Christian Gathering
 =====================================================

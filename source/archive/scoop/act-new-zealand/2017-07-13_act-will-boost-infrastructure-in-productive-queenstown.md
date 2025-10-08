@@ -1,9 +1,13 @@
 ---
 slug: act-will-boost-infrastructure-in-productive-queenstown
-title: "ACT will boost infrastructure in productive Queenstown"
-date: 2017-07-13
-source-url: https://www.scoop.co.nz/stories/PA1707/S00210/act-will-boost-infrastructure-in-productive-queenstown.htm
+title: ACT will boost infrastructure in productive Queenstown
+date: 2017-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00210/act-will-boost-infrastructure-in-productive-queenstown.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/07/13/act-will-boost-infrastructure-in-productive-queenstown/index.html
+layout: layout.njk
 ---
 ACT will boost infrastructure in productive Queenstown
 ======================================================

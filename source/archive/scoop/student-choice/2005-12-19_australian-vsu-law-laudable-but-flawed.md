@@ -1,9 +1,12 @@
 ---
 slug: australian-vsu-law-laudable-but-flawed
-title: "Australian VSU law laudable but flawed"
-date: 2005-12-19
-source-url: https://www.scoop.co.nz/stories/ED0512/S00076/australian-vsu-law-laudable-but-flawed.htm
+title: Australian VSU law laudable but flawed
+date: 2005-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00076/australian-vsu-law-laudable-but-flawed.htm
 author: student-choice
+permalink: /archive/2005/12/19/australian-vsu-law-laudable-but-flawed/index.html
+layout: layout.njk
 ---
 Australian VSU law laudable but flawed
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: developing-new-zealand-norms-to-assess-health-outcomes
-title: "Developing New Zealand norms to assess health outcomes"
-date: 2016-07-20
-source-url: https://www.scoop.co.nz/stories/GE1607/S00061/developing-new-zealand-norms-to-assess-health-outcomes.htm
+title: Developing New Zealand norms to assess health outcomes
+date: 2016-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1607/S00061/developing-new-zealand-norms-to-assess-health-outcomes.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/07/20/developing-new-zealand-norms-to-assess-health-outcomes/index.html
+layout: layout.njk
 ---
 Developing New Zealand norms to assess health outcomes
 ======================================================

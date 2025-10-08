@@ -1,9 +1,11 @@
 ---
 slug: aut-offers-unique-mba
-title: "AUT Offers Unique MBA"
-date: 2003-10-08
+title: AUT Offers Unique MBA
+date: 2003-10-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0310/S00024/aut-offers-unique-mba.htm
 author: aut-university
+permalink: /archive/2003/10/08/aut-offers-unique-mba/index.html
+layout: layout.njk
 ---
 AUT Offers Unique MBA
 =====================

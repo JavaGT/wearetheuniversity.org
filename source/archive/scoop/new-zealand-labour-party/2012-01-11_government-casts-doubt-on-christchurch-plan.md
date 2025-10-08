@@ -1,9 +1,12 @@
 ---
 slug: government-casts-doubt-on-christchurch-plan
-title: "Government casts doubt on Christchurch plan"
-date: 2012-01-11
-source-url: https://www.scoop.co.nz/stories/PA1201/S00021/government-casts-doubt-on-christchurch-plan.htm
+title: Government casts doubt on Christchurch plan
+date: 2012-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1201/S00021/government-casts-doubt-on-christchurch-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/01/11/government-casts-doubt-on-christchurch-plan/index.html
+layout: layout.njk
 ---
 Government casts doubt on Christchurch plan
 ===========================================

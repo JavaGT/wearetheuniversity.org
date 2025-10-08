@@ -1,9 +1,12 @@
 ---
 slug: uc-student-wins-scholarship-to-cambridge
-title: "UC student wins scholarship to Cambridge"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/ED1609/S00069/uc-student-wins-scholarship-to-cambridge.htm
+title: UC student wins scholarship to Cambridge
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00069/uc-student-wins-scholarship-to-cambridge.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/14/uc-student-wins-scholarship-to-cambridge/index.html
+layout: layout.njk
 ---
 UC student wins scholarship to Cambridge
 ========================================

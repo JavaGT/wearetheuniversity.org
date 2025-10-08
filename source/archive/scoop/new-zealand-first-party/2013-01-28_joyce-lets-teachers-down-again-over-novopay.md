@@ -1,9 +1,12 @@
 ---
 slug: joyce-lets-teachers-down-again-over-novopay
-title: "Joyce Lets Teachers Down Again Over Novopay"
-date: 2013-01-28
-source-url: https://www.scoop.co.nz/stories/PA1301/S00132/joyce-lets-teachers-down-again-over-novopay.htm
+title: Joyce Lets Teachers Down Again Over Novopay
+date: 2013-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00132/joyce-lets-teachers-down-again-over-novopay.htm
 author: new-zealand-first-party
+permalink: /archive/2013/01/28/joyce-lets-teachers-down-again-over-novopay/index.html
+layout: layout.njk
 ---
 Joyce Lets Teachers Down Again Over Novopay
 ===========================================

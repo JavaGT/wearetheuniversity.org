@@ -1,9 +1,12 @@
 ---
 slug: race-relations-commissioner-must-go-sharples
-title: "Race Relations Commissioner Must Go - Sharples"
-date: 2006-04-13
-source-url: https://www.scoop.co.nz/stories/PA0604/S00254/race-relations-commissioner-must-go-sharples.htm
+title: Race Relations Commissioner Must Go - Sharples
+date: 2006-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00254/race-relations-commissioner-must-go-sharples.htm
 author: te-pati-maori
+permalink: /archive/2006/04/13/race-relations-commissioner-must-go-sharples/index.html
+layout: layout.njk
 ---
 Race Relations Commissioner Must Go - Sharples
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: otago-research-seeks-energy-efficiency-in-transport-sector
-title: "Otago research seeks energy efficiency in transport sector"
-date: 2012-08-23
-source-url: https://www.scoop.co.nz/stories/ED1208/S00128/otago-research-seeks-energy-efficiency-in-transport-sector.htm
+title: Otago research seeks energy efficiency in transport sector
+date: 2012-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00128/otago-research-seeks-energy-efficiency-in-transport-sector.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/08/23/otago-research-seeks-energy-efficiency-in-transport-sector/index.html
+layout: layout.njk
 ---
 Otago research seeks energy efficiency in transport sector
 ==========================================================

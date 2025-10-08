@@ -1,9 +1,12 @@
 ---
 slug: notice-of-motion-re-drownings-maori-party
-title: "Notice of Motion Re Drownings: Maori Party"
-date: 2008-04-16
-source-url: https://www.scoop.co.nz/stories/PA0804/S00411/notice-of-motion-re-drownings-maori-party.htm
+title: 'Notice of Motion Re Drownings: Maori Party'
+date: 2008-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00411/notice-of-motion-re-drownings-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2008/04/16/notice-of-motion-re-drownings-maori-party/index.html
+layout: layout.njk
 ---
 Notice of Motion Re Drownings: Maori Party
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: green-candidates-to-campaign-for-the-kiwi-oe-vote
-title: "Green candidates to campaign for the Kiwi OE vote"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/PA0506/S00178/green-candidates-to-campaign-for-the-kiwi-oe-vote.htm
+title: Green candidates to campaign for the Kiwi OE vote
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00178/green-candidates-to-campaign-for-the-kiwi-oe-vote.htm
 author: green-party
+permalink: >-
+  /archive/2005/06/09/green-candidates-to-campaign-for-the-kiwi-oe-vote/index.html
+layout: layout.njk
 ---
 Green candidates to campaign for the Kiwi OE vote
 =================================================

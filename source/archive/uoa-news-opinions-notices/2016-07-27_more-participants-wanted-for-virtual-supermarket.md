@@ -1,8 +1,12 @@
 ---
 slug: more-participants-wanted-for-virtual-supermarket
-title: "More participants wanted for virtual supermarket"
-date: 2016-07-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/more-participants-wanted-for-virtual-supermarket-.html
+title: More participants wanted for virtual supermarket
+date: 2016-07-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/more-participants-wanted-for-virtual-supermarket-.html
+permalink: >-
+  /archive/2016/07/27/more-participants-wanted-for-virtual-supermarket/index.html
+layout: layout.njk
 ---
 More participants wanted for virtual supermarket
 ================================================

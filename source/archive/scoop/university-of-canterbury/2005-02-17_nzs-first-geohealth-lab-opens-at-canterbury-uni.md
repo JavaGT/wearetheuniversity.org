@@ -1,9 +1,12 @@
 ---
 slug: nzs-first-geohealth-lab-opens-at-canterbury-uni
-title: "NZ’s first GeoHealth lab opens at Canterbury Uni."
-date: 2005-02-17
-source-url: https://www.scoop.co.nz/stories/SC0502/S00059/nzs-first-geohealth-lab-opens-at-canterbury-uni.htm
+title: NZ’s first GeoHealth lab opens at Canterbury Uni.
+date: 2005-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0502/S00059/nzs-first-geohealth-lab-opens-at-canterbury-uni.htm
 author: university-of-canterbury
+permalink: /archive/2005/02/17/nzs-first-geohealth-lab-opens-at-canterbury-uni/index.html
+layout: layout.njk
 ---
 NZ’s first GeoHealth lab opens at Canterbury Uni.
 =================================================

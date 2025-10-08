@@ -1,8 +1,11 @@
 ---
 slug: dome-brings-to-life-rich-world-of-sound
-title: "Dome brings to life rich world of sound"
-date: 2016-07-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/dome-brings-to-life-rich-world-of-sound--.html
+title: Dome brings to life rich world of sound
+date: 2016-07-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/dome-brings-to-life-rich-world-of-sound--.html
+permalink: /archive/2016/07/08/dome-brings-to-life-rich-world-of-sound/index.html
+layout: layout.njk
 ---
 Dome brings to life rich world of sound
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: certificate-in-professional-program-development
-title: "Certificate in Professional Program Development"
-date: 2008-06-17
-source-url: https://www.scoop.co.nz/stories/BU0806/S00297/certificate-in-professional-program-development.htm
+title: Certificate in Professional Program Development
+date: 2008-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0806/S00297/certificate-in-professional-program-development.htm
 author: university-of-otago
+permalink: /archive/2008/06/17/certificate-in-professional-program-development/index.html
+layout: layout.njk
 ---
 Certificate in Professional Program Development
 ===============================================

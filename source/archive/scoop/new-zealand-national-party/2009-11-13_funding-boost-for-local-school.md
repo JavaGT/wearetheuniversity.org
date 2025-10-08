@@ -1,9 +1,12 @@
 ---
 slug: funding-boost-for-local-school
-title: "Funding Boost for Local School"
-date: 2009-11-13
-source-url: https://www.scoop.co.nz/stories/PA0911/S00156/funding-boost-for-local-school.htm
+title: Funding Boost for Local School
+date: 2009-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00156/funding-boost-for-local-school.htm
 author: new-zealand-national-party
+permalink: /archive/2009/11/13/funding-boost-for-local-school/index.html
+layout: layout.njk
 ---
 Funding Boost for Local School
 ==============================

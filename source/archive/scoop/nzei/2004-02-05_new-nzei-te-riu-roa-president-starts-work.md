@@ -1,9 +1,12 @@
 ---
 slug: new-nzei-te-riu-roa-president-starts-work
-title: "New NZEI Te Riu Roa President Starts Work"
-date: 2004-02-05
-source-url: https://www.scoop.co.nz/stories/ED0402/S00008/new-nzei-te-riu-roa-president-starts-work.htm
+title: New NZEI Te Riu Roa President Starts Work
+date: 2004-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00008/new-nzei-te-riu-roa-president-starts-work.htm
 author: nzei
+permalink: /archive/2004/02/05/new-nzei-te-riu-roa-president-starts-work/index.html
+layout: layout.njk
 ---
 New NZEI Te Riu Roa President Starts Work
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-employers-take-note-the-great-resignation-is-happening-here
-title: "NZ Employers Take Note: The \"Great Resignation\" Is Happening Here"
-date: 2021-10-14
-source-url: https://www.scoop.co.nz/stories/BU2110/S00344/nz-employers-take-note-the-great-resignation-is-happening-here.htm
+title: 'NZ Employers Take Note: The "Great Resignation" Is Happening Here'
+date: 2021-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2110/S00344/nz-employers-take-note-the-great-resignation-is-happening-here.htm
 author: aut-university
+permalink: >-
+  /archive/2021/10/14/nz-employers-take-note-the-great-resignation-is-happening-here/index.html
+layout: layout.njk
 ---
 NZ Employers Take Note: The “Great Resignation” Is Happening Here
 =================================================================

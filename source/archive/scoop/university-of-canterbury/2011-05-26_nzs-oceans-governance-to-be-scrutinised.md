@@ -1,9 +1,12 @@
 ---
 slug: nzs-oceans-governance-to-be-scrutinised
-title: "NZ’s oceans governance to be scrutinised"
-date: 2011-05-26
-source-url: https://www.scoop.co.nz/stories/ED1105/S00108/nzs-oceans-governance-to-be-scrutinised.htm
+title: NZ’s oceans governance to be scrutinised
+date: 2011-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00108/nzs-oceans-governance-to-be-scrutinised.htm
 author: university-of-canterbury
+permalink: /archive/2011/05/26/nzs-oceans-governance-to-be-scrutinised/index.html
+layout: layout.njk
 ---
 NZ’s oceans governance to be scrutinised
 ========================================

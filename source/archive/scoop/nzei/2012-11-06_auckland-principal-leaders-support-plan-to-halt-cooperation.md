@@ -1,9 +1,13 @@
 ---
 slug: auckland-principal-leaders-support-plan-to-halt-cooperation
-title: "Auckland Principal Leaders Support Plan To Halt Cooperation"
-date: 2012-11-06
-source-url: https://www.scoop.co.nz/stories/ED1211/S00044/auckland-principal-leaders-support-plan-to-halt-cooperation.htm
+title: Auckland Principal Leaders Support Plan To Halt Cooperation
+date: 2012-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00044/auckland-principal-leaders-support-plan-to-halt-cooperation.htm
 author: nzei
+permalink: >-
+  /archive/2012/11/06/auckland-principal-leaders-support-plan-to-halt-cooperation/index.html
+layout: layout.njk
 ---
 Auckland Principal Leaders Support Plan To Halt Cooperation
 ===========================================================

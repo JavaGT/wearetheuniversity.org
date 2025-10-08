@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-to-take-debt-message-to-hobbs
-title: "Victoria Students To Take Debt Message To Hobbs"
-date: 2004-05-18
-source-url: https://www.scoop.co.nz/stories/ED0405/S00064/victoria-students-to-take-debt-message-to-hobbs.htm
+title: Victoria Students To Take Debt Message To Hobbs
+date: 2004-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00064/victoria-students-to-take-debt-message-to-hobbs.htm
 author: victoria-university-students-association
+permalink: /archive/2004/05/18/victoria-students-to-take-debt-message-to-hobbs/index.html
+layout: layout.njk
 ---
 Victoria Students To Take Debt Message To Hobbs
 ===============================================

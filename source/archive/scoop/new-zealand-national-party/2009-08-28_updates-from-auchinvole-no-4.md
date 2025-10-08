@@ -1,9 +1,11 @@
 ---
 slug: updates-from-auchinvole-no-4
-title: "Updates from Auchinvole No.4"
-date: 2009-08-28
+title: Updates from Auchinvole No.4
+date: 2009-08-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0908/S00429/updates-from-auchinvole-no4.htm
 author: new-zealand-national-party
+permalink: /archive/2009/08/28/updates-from-auchinvole-no-4/index.html
+layout: layout.njk
 ---
 Updates from Auchinvole No.4
 ============================

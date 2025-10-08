@@ -1,9 +1,12 @@
 ---
 slug: being-seen-in-the-woods-and-the-trees
-title: "Being Seen In The Woods And The Trees"
-date: 2003-10-16
-source-url: https://www.scoop.co.nz/stories/ED0310/S00068/being-seen-in-the-woods-and-the-trees.htm
+title: Being Seen In The Woods And The Trees
+date: 2003-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00068/being-seen-in-the-woods-and-the-trees.htm
 author: waikato-university
+permalink: /archive/2003/10/16/being-seen-in-the-woods-and-the-trees/index.html
+layout: layout.njk
 ---
 Being Seen In The Woods And The Trees
 =====================================

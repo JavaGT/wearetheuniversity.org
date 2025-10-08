@@ -1,9 +1,13 @@
 ---
 slug: rt-hon-winston-peters-speech-the-gathering-storm-clouds-ihumatao
-title: "Rt Hon Winston Peters Speech: The Gathering Storm Clouds: Ihumatao"
-date: 2020-09-25
-source-url: https://www.scoop.co.nz/stories/PA2009/S00204/rt-hon-winston-peters-speech-the-gathering-storm-clouds-ihumatao.htm
+title: 'Rt Hon Winston Peters Speech: The Gathering Storm Clouds: Ihumatao'
+date: 2020-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00204/rt-hon-winston-peters-speech-the-gathering-storm-clouds-ihumatao.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/09/25/rt-hon-winston-peters-speech-the-gathering-storm-clouds-ihumatao/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters Speech: The Gathering Storm Clouds: Ihumatao
 ==================================================================

@@ -1,9 +1,13 @@
 ---
 slug: disaster-risk-management-in-world-y20-summit-declaration
-title: "Disaster risk management in world Y20 summit declaration"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/ED1407/S00099/disaster-risk-management-in-world-y20-summit-declaration.htm
+title: Disaster risk management in world Y20 summit declaration
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00099/disaster-risk-management-in-world-y20-summit-declaration.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/22/disaster-risk-management-in-world-y20-summit-declaration/index.html
+layout: layout.njk
 ---
 Disaster risk management in world Y20 summit declaration
 ========================================================

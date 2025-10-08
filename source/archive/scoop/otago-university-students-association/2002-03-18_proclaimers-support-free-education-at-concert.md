@@ -1,9 +1,12 @@
 ---
 slug: proclaimers-support-free-education-at-concert
-title: "Proclaimers support Free Education at Concert"
-date: 2002-03-18
-source-url: https://www.scoop.co.nz/stories/ED0203/S00037/proclaimers-support-free-education-at-concert.htm
+title: Proclaimers support Free Education at Concert
+date: 2002-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00037/proclaimers-support-free-education-at-concert.htm
 author: otago-university-students-association
+permalink: /archive/2002/03/18/proclaimers-support-free-education-at-concert/index.html
+layout: layout.njk
 ---
 Proclaimers support Free Education at Concert
 =============================================

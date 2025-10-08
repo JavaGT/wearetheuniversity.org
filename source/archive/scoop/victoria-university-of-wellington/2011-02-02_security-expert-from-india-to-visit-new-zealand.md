@@ -1,9 +1,12 @@
 ---
 slug: security-expert-from-india-to-visit-new-zealand
-title: "Security expert from India to visit New Zealand"
-date: 2011-02-02
-source-url: https://www.scoop.co.nz/stories/AK1102/S00054/security-expert-from-india-to-visit-new-zealand.htm
+title: Security expert from India to visit New Zealand
+date: 2011-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S00054/security-expert-from-india-to-visit-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/02/02/security-expert-from-india-to-visit-new-zealand/index.html
+layout: layout.njk
 ---
 Security expert from India to visit New Zealand
 ===============================================

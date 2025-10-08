@@ -1,9 +1,12 @@
 ---
 slug: review-a-chance-to-show-humanitarian-colours
-title: "Review a chance to show humanitarian colours"
-date: 2005-05-24
-source-url: https://www.scoop.co.nz/stories/PA0505/S00627/review-a-chance-to-show-humanitarian-colours.htm
+title: Review a chance to show humanitarian colours
+date: 2005-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00627/review-a-chance-to-show-humanitarian-colours.htm
 author: green-party
+permalink: /archive/2005/05/24/review-a-chance-to-show-humanitarian-colours/index.html
+layout: layout.njk
 ---
 Review a chance to show humanitarian colours
 ============================================

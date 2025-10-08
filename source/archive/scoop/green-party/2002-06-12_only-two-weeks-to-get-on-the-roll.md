@@ -1,9 +1,12 @@
 ---
 slug: only-two-weeks-to-get-on-the-roll
-title: "Only Two Weeks To Get On The Roll..."
-date: 2002-06-12
-source-url: https://www.scoop.co.nz/stories/PA0206/S00186/only-two-weeks-to-get-on-the-roll.htm
+title: Only Two Weeks To Get On The Roll...
+date: 2002-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00186/only-two-weeks-to-get-on-the-roll.htm
 author: green-party
+permalink: /archive/2002/06/12/only-two-weeks-to-get-on-the-roll/index.html
+layout: layout.njk
 ---
 Only Two Weeks To Get On The Roll...
 ====================================

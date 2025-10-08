@@ -1,9 +1,12 @@
 ---
 slug: uc-quake-centre-launched-at-the-westpac-hub
-title: "UC Quake Centre launched at the Westpac Hub"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/SC1303/S00035/uc-quake-centre-launched-at-the-westpac-hub.htm
+title: UC Quake Centre launched at the Westpac Hub
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1303/S00035/uc-quake-centre-launched-at-the-westpac-hub.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/22/uc-quake-centre-launched-at-the-westpac-hub/index.html
+layout: layout.njk
 ---
 UC Quake Centre launched at the Westpac Hub
 ===========================================

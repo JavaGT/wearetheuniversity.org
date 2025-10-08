@@ -1,8 +1,12 @@
 ---
 slug: university-of-auckland-celebrates-return-of-shield
-title: "University of Auckland celebrates return of Shield"
-date: 2016-09-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/University-celebrates-return-of-shield.html
+title: University of Auckland celebrates return of Shield
+date: 2016-09-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/University-celebrates-return-of-shield.html
+permalink: >-
+  /archive/2016/09/30/university-of-auckland-celebrates-return-of-shield/index.html
+layout: layout.njk
 ---
 University of Auckland celebrates return of Shield
 ==================================================

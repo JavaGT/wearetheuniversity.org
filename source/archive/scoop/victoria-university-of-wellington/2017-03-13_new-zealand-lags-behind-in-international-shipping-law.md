@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-lags-behind-in-international-shipping-law
-title: "New Zealand lags behind in international shipping law"
-date: 2017-03-13
-source-url: https://www.scoop.co.nz/stories/SC1703/S00029/new-zealand-lags-behind-in-international-shipping-law.htm
+title: New Zealand lags behind in international shipping law
+date: 2017-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00029/new-zealand-lags-behind-in-international-shipping-law.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/03/13/new-zealand-lags-behind-in-international-shipping-law/index.html
+layout: layout.njk
 ---
 New Zealand lags behind in international shipping law
 =====================================================

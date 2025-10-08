@@ -1,9 +1,13 @@
 ---
 slug: new-centre-for-child-and-adolescent-mental-health
-title: "New Centre for Child and Adolescent Mental Health"
-date: 2003-03-14
-source-url: https://www.scoop.co.nz/stories/ED0303/S00024/new-centre-for-child-and-adolescent-mental-health.htm
+title: New Centre for Child and Adolescent Mental Health
+date: 2003-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00024/new-centre-for-child-and-adolescent-mental-health.htm
 author: auckland-university
+permalink: >-
+  /archive/2003/03/14/new-centre-for-child-and-adolescent-mental-health/index.html
+layout: layout.njk
 ---
 New Centre for Child and Adolescent Mental Health
 =================================================

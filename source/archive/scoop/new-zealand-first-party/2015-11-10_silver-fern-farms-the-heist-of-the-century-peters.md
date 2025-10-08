@@ -1,9 +1,13 @@
 ---
 slug: silver-fern-farms-the-heist-of-the-century-peters
-title: "Silver Fern Farms the Heist of the Century - Peters"
-date: 2015-11-10
-source-url: https://www.scoop.co.nz/stories/PA1511/S00155/silver-fern-farms-the-heist-of-the-century-peters.htm
+title: Silver Fern Farms the Heist of the Century - Peters
+date: 2015-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00155/silver-fern-farms-the-heist-of-the-century-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/11/10/silver-fern-farms-the-heist-of-the-century-peters/index.html
+layout: layout.njk
 ---
 Silver Fern Farms the Heist of the Century - Peters
 ===================================================

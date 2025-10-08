@@ -1,9 +1,13 @@
 ---
 slug: skyhawks-scrapping-step-towards-more-independence
-title: "Skyhawks Scrapping Step Towards More Independence"
-date: 2001-05-08
-source-url: https://www.scoop.co.nz/stories/PA0105/S00166/skyhawks-scrapping-step-towards-more-independence.htm
+title: Skyhawks Scrapping Step Towards More Independence
+date: 2001-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00166/skyhawks-scrapping-step-towards-more-independence.htm
 author: green-party
+permalink: >-
+  /archive/2001/05/08/skyhawks-scrapping-step-towards-more-independence/index.html
+layout: layout.njk
 ---
 Skyhawks Scrapping Step Towards More Independence
 =================================================

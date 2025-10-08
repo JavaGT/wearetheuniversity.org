@@ -1,9 +1,12 @@
 ---
 slug: primary-teachers-prepare-for-classroom-release
-title: "Primary Teachers Prepare For Classroom Release"
-date: 2005-06-13
-source-url: https://www.scoop.co.nz/stories/ED0506/S00031/primary-teachers-prepare-for-classroom-release.htm
+title: Primary Teachers Prepare For Classroom Release
+date: 2005-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00031/primary-teachers-prepare-for-classroom-release.htm
 author: nzei
+permalink: /archive/2005/06/13/primary-teachers-prepare-for-classroom-release/index.html
+layout: layout.njk
 ---
 Primary Teachers Prepare For Classroom Release
 ==============================================

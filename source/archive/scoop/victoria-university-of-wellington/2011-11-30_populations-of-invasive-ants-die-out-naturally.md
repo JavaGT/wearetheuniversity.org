@@ -1,9 +1,12 @@
 ---
 slug: populations-of-invasive-ants-die-out-naturally
-title: "Populations of invasive ants die out naturally"
-date: 2011-11-30
-source-url: https://www.scoop.co.nz/stories/SC1111/S00064/populations-of-invasive-ants-die-out-naturally.htm
+title: Populations of invasive ants die out naturally
+date: 2011-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1111/S00064/populations-of-invasive-ants-die-out-naturally.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/11/30/populations-of-invasive-ants-die-out-naturally/index.html
+layout: layout.njk
 ---
 Populations of invasive ants die out naturally
 ==============================================

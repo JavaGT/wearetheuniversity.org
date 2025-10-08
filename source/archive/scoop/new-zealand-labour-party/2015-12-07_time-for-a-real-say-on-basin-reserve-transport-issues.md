@@ -1,9 +1,13 @@
 ---
 slug: time-for-a-real-say-on-basin-reserve-transport-issues
-title: "Time for a real say on Basin Reserve transport issues"
-date: 2015-12-07
-source-url: https://www.scoop.co.nz/stories/PA1512/S00136/time-for-a-real-say-on-basin-reserve-transport-issues.htm
+title: Time for a real say on Basin Reserve transport issues
+date: 2015-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00136/time-for-a-real-say-on-basin-reserve-transport-issues.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/12/07/time-for-a-real-say-on-basin-reserve-transport-issues/index.html
+layout: layout.njk
 ---
 Time for a real say on Basin Reserve transport issues
 =====================================================

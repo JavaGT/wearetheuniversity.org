@@ -1,9 +1,13 @@
 ---
 slug: rates-release-helps-centres-plan-for-20-free-hours
-title: "Rates Release Helps Centres Plan for 20 Free Hours"
-date: 2006-12-21
-source-url: https://www.scoop.co.nz/stories/ED0612/S00071/rates-release-helps-centres-plan-for-20-free-hours.htm
+title: Rates Release Helps Centres Plan for 20 Free Hours
+date: 2006-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00071/rates-release-helps-centres-plan-for-20-free-hours.htm
 author: nzei
+permalink: >-
+  /archive/2006/12/21/rates-release-helps-centres-plan-for-20-free-hours/index.html
+layout: layout.njk
 ---
 Rates Release Helps Centres Plan for 20 Free Hours
 ==================================================

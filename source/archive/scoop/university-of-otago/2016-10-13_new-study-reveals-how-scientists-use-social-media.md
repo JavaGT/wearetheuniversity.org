@@ -1,9 +1,13 @@
 ---
 slug: new-study-reveals-how-scientists-use-social-media
-title: "New study reveals how scientists use social media"
-date: 2016-10-13
-source-url: https://www.scoop.co.nz/stories/ED1610/S00032/new-study-reveals-how-scientists-use-social-media.htm
+title: New study reveals how scientists use social media
+date: 2016-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00032/new-study-reveals-how-scientists-use-social-media.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/10/13/new-study-reveals-how-scientists-use-social-media/index.html
+layout: layout.njk
 ---
 New study reveals how scientists use social media
 =================================================

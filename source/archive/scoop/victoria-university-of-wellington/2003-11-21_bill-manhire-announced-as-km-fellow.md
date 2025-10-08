@@ -1,9 +1,12 @@
 ---
 slug: bill-manhire-announced-as-km-fellow
-title: "Bill Manhire announced as KM Fellow"
-date: 2003-11-21
-source-url: https://www.scoop.co.nz/stories/ED0311/S00070/bill-manhire-announced-as-km-fellow.htm
+title: Bill Manhire announced as KM Fellow
+date: 2003-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00070/bill-manhire-announced-as-km-fellow.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/11/21/bill-manhire-announced-as-km-fellow/index.html
+layout: layout.njk
 ---
 Bill Manhire announced as KM Fellow
 ===================================

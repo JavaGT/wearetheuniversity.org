@@ -1,9 +1,12 @@
 ---
 slug: first-light-house-continues-to-shine
-title: "First Light house continues to shine"
-date: 2013-05-27
-source-url: https://www.scoop.co.nz/stories/ED1305/S00170/first-light-house-continues-to-shine.htm
+title: First Light house continues to shine
+date: 2013-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00170/first-light-house-continues-to-shine.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/27/first-light-house-continues-to-shine/index.html
+layout: layout.njk
 ---
 First Light house continues to shine
 ====================================

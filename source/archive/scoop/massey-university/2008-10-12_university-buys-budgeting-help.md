@@ -1,9 +1,12 @@
 ---
 slug: university-buys-budgeting-help
-title: "University buys budgeting help"
-date: 2008-10-12
-source-url: https://www.scoop.co.nz/stories/BU0810/S00241/university-buys-budgeting-help.htm
+title: University buys budgeting help
+date: 2008-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0810/S00241/university-buys-budgeting-help.htm
 author: massey-university
+permalink: /archive/2008/10/12/university-buys-budgeting-help/index.html
+layout: layout.njk
 ---
 University buys budgeting help
 ==============================

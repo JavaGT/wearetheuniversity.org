@@ -1,9 +1,12 @@
 ---
 slug: greens-join-call-to-save-our-services
-title: "Greens join call to save our services"
-date: 2010-03-04
-source-url: https://www.scoop.co.nz/stories/PA1003/S00067/greens-join-call-to-save-our-services.htm
+title: Greens join call to save our services
+date: 2010-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00067/greens-join-call-to-save-our-services.htm
 author: green-party
+permalink: /archive/2010/03/04/greens-join-call-to-save-our-services/index.html
+layout: layout.njk
 ---
 Greens join call to save our services
 =====================================

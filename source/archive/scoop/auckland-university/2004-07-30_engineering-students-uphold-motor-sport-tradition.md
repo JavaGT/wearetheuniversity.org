@@ -1,9 +1,13 @@
 ---
 slug: engineering-students-uphold-motor-sport-tradition
-title: "Engineering Students Uphold Motor Sport Tradition"
-date: 2004-07-30
-source-url: https://www.scoop.co.nz/stories/ED0407/S00086/engineering-students-uphold-motor-sport-tradition.htm
+title: Engineering Students Uphold Motor Sport Tradition
+date: 2004-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00086/engineering-students-uphold-motor-sport-tradition.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/07/30/engineering-students-uphold-motor-sport-tradition/index.html
+layout: layout.njk
 ---
 Engineering Students Uphold Motor Sport Tradition
 =================================================

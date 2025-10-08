@@ -1,9 +1,12 @@
 ---
 slug: ptes-should-campaign-against-the-government
-title: "PTEs Should Campaign Against the Government"
-date: 2002-06-14
-source-url: https://www.scoop.co.nz/stories/PA0206/S00245/ptes-should-campaign-against-the-government.htm
+title: PTEs Should Campaign Against the Government
+date: 2002-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00245/ptes-should-campaign-against-the-government.htm
 author: act-new-zealand
+permalink: /archive/2002/06/14/ptes-should-campaign-against-the-government/index.html
+layout: layout.njk
 ---
 PTEs Should Campaign Against the Government
 ===========================================

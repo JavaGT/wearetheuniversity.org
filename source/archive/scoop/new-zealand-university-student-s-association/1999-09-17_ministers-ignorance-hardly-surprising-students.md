@@ -1,9 +1,12 @@
 ---
 slug: ministers-ignorance-hardly-surprising-students
-title: "Minister's Ignorance Hardly Surprising - Students"
-date: 1999-09-17
-source-url: https://www.scoop.co.nz/stories/ED9909/S00018/ministers-ignorance-hardly-surprising-students.htm
+title: Minister's Ignorance Hardly Surprising - Students
+date: 1999-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00018/ministers-ignorance-hardly-surprising-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/09/17/ministers-ignorance-hardly-surprising-students/index.html
+layout: layout.njk
 ---
 Minister's Ignorance Hardly Surprising - Students
 =================================================

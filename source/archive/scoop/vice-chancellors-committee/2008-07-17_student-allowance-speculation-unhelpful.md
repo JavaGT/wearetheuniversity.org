@@ -1,9 +1,12 @@
 ---
 slug: student-allowance-speculation-unhelpful
-title: "Student Allowance Speculation Unhelpful"
-date: 2008-07-17
-source-url: https://www.scoop.co.nz/stories/ED0807/S00053/student-allowance-speculation-unhelpful.htm
+title: Student Allowance Speculation Unhelpful
+date: 2008-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00053/student-allowance-speculation-unhelpful.htm
 author: vice-chancellors-committee
+permalink: /archive/2008/07/17/student-allowance-speculation-unhelpful/index.html
+layout: layout.njk
 ---
 Student Allowance Speculation Unhelpful
 =======================================

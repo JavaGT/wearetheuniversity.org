@@ -1,9 +1,12 @@
 ---
 slug: sam-uffindell-rejoins-national-caucus
-title: "Sam Uffindell Rejoins National Caucus"
-date: 2022-09-19
-source-url: https://www.scoop.co.nz/stories/PA2209/S00098/sam-uffindell-rejoins-national-caucus.htm
+title: Sam Uffindell Rejoins National Caucus
+date: 2022-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00098/sam-uffindell-rejoins-national-caucus.htm
 author: new-zealand-national-party
+permalink: /archive/2022/09/19/sam-uffindell-rejoins-national-caucus/index.html
+layout: layout.njk
 ---
 Sam Uffindell Rejoins National Caucus
 =====================================

@@ -1,9 +1,11 @@
 ---
 slug: lets-have-reasoned-debate
-title: "Let's have reasoned debate"
-date: 2004-02-09
+title: Let's have reasoned debate
+date: 2004-02-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0402/S00117/lets-have-reasoned-debate.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/09/lets-have-reasoned-debate/index.html
+layout: layout.njk
 ---
 Let's have reasoned debate
 ==========================

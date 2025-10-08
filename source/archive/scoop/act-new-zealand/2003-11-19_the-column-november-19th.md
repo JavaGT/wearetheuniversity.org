@@ -1,9 +1,11 @@
 ---
 slug: the-column-november-19th
-title: "The Column November 19th"
-date: 2003-11-19
+title: The Column November 19th
+date: 2003-11-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0311/S00407/the-column-november-19th.htm
 author: act-new-zealand
+permalink: /archive/2003/11/19/the-column-november-19th/index.html
+layout: layout.njk
 ---
 The Column November 19th
 ========================

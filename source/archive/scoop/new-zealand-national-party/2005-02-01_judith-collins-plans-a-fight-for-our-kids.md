@@ -1,9 +1,12 @@
 ---
 slug: judith-collins-plans-a-fight-for-our-kids
-title: "Judith Collins plans a fight for our kids"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/PA0502/S00007/judith-collins-plans-a-fight-for-our-kids.htm
+title: Judith Collins plans a fight for our kids
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00007/judith-collins-plans-a-fight-for-our-kids.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/01/judith-collins-plans-a-fight-for-our-kids/index.html
+layout: layout.njk
 ---
 Judith Collins plans a fight for our kids
 =========================================

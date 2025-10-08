@@ -1,9 +1,12 @@
 ---
 slug: medical-students-support-patient-safe-rosters
-title: "Medical students support patient safe rosters"
-date: 2016-08-18
-source-url: https://www.scoop.co.nz/stories/GE1608/S00076/medical-students-support-patient-safe-rosters.htm
+title: Medical students support patient safe rosters
+date: 2016-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00076/medical-students-support-patient-safe-rosters.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: /archive/2016/08/18/medical-students-support-patient-safe-rosters/index.html
+layout: layout.njk
 ---
 Medical students support patient safe rosters
 =============================================

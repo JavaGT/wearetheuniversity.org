@@ -1,9 +1,12 @@
 ---
 slug: the-abusers-have-to-be-outed-says-turia
-title: "\"The Abusers have to be Outed\" says Turia"
-date: 2007-10-24
-source-url: https://www.scoop.co.nz/stories/PA0710/S00442/the-abusers-have-to-be-outed-says-turia.htm
+title: '"The Abusers have to be Outed" says Turia'
+date: 2007-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00442/the-abusers-have-to-be-outed-says-turia.htm
 author: te-pati-maori
+permalink: /archive/2007/10/24/the-abusers-have-to-be-outed-says-turia/index.html
+layout: layout.njk
 ---
 "The Abusers have to be Outed" says Turia
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: competition-success-for-aut-alumni
-title: "Competition Success For AUT Alumni"
-date: 2003-06-27
-source-url: https://www.scoop.co.nz/stories/ED0306/S00060/competition-success-for-aut-alumni.htm
+title: Competition Success For AUT Alumni
+date: 2003-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00060/competition-success-for-aut-alumni.htm
 author: aut-university
+permalink: /archive/2003/06/27/competition-success-for-aut-alumni/index.html
+layout: layout.njk
 ---
 Competition Success For AUT Alumni
 ==================================

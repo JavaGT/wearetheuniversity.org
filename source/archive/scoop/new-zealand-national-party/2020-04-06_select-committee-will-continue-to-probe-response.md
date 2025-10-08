@@ -1,9 +1,13 @@
 ---
 slug: select-committee-will-continue-to-probe-response
-title: "Select Committee Will Continue To Probe Response"
-date: 2020-04-06
-source-url: https://www.scoop.co.nz/stories/PA2004/S00027/select-committee-will-continue-to-probe-response.htm
+title: Select Committee Will Continue To Probe Response
+date: 2020-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00027/select-committee-will-continue-to-probe-response.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/04/06/select-committee-will-continue-to-probe-response/index.html
+layout: layout.njk
 ---
 Select Committee Will Continue To Probe Response
 ================================================

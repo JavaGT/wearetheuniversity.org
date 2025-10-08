@@ -1,9 +1,13 @@
 ---
 slug: national-will-build-christchurch-to-ashburton-expressway
-title: "National Will Build Christchurch To Ashburton Expressway"
-date: 2020-07-08
-source-url: https://www.scoop.co.nz/stories/PA2007/S00089/national-will-build-christchurch-to-ashburton-expressway.htm
+title: National Will Build Christchurch To Ashburton Expressway
+date: 2020-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00089/national-will-build-christchurch-to-ashburton-expressway.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/08/national-will-build-christchurch-to-ashburton-expressway/index.html
+layout: layout.njk
 ---
 National Will Build Christchurch To Ashburton Expressway
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-expert-on-how-economics-helps-cricket-teams
-title: "UC expert  on how economics helps cricket teams"
-date: 2013-04-28
-source-url: https://www.scoop.co.nz/stories/ED1304/S00152/uc-expert-on-how-economics-helps-cricket-teams.htm
+title: UC expert  on how economics helps cricket teams
+date: 2013-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00152/uc-expert-on-how-economics-helps-cricket-teams.htm
 author: university-of-canterbury
+permalink: /archive/2013/04/28/uc-expert-on-how-economics-helps-cricket-teams/index.html
+layout: layout.njk
 ---
 UC expert on how economics helps cricket teams
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: fulbright-science-and-innovation-graduate-awards-winners
-title: "Fulbright Science and Innovation Graduate Awards winners"
-date: 2016-06-28
-source-url: https://www.scoop.co.nz/stories/ED1606/S00101/fulbright-science-and-innovation-graduate-awards-winners.htm
+title: Fulbright Science and Innovation Graduate Awards winners
+date: 2016-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00101/fulbright-science-and-innovation-graduate-awards-winners.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/28/fulbright-science-and-innovation-graduate-awards-winners/index.html
+layout: layout.njk
 ---
 Fulbright Science and Innovation Graduate Awards winners
 ========================================================

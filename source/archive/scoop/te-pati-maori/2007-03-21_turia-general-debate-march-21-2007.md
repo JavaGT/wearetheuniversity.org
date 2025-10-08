@@ -1,9 +1,12 @@
 ---
 slug: turia-general-debate-march-21-2007
-title: "Turia - General Debate March 21 2007"
-date: 2007-03-21
-source-url: https://www.scoop.co.nz/stories/PA0703/S00428/turia-general-debate-march-21-2007.htm
+title: Turia - General Debate March 21 2007
+date: 2007-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00428/turia-general-debate-march-21-2007.htm
 author: te-pati-maori
+permalink: /archive/2007/03/21/turia-general-debate-march-21-2007/index.html
+layout: layout.njk
 ---
 Turia - General Debate March 21 2007
 ====================================

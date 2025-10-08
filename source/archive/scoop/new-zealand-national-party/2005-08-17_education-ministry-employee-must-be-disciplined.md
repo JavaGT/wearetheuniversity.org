@@ -1,9 +1,12 @@
 ---
 slug: education-ministry-employee-must-be-disciplined
-title: "Education Ministry employee must be disciplined"
-date: 2005-08-17
-source-url: https://www.scoop.co.nz/stories/PA0508/S00426/education-ministry-employee-must-be-disciplined.htm
+title: Education Ministry employee must be disciplined
+date: 2005-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00426/education-ministry-employee-must-be-disciplined.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/17/education-ministry-employee-must-be-disciplined/index.html
+layout: layout.njk
 ---
 Education Ministry employee must be disciplined
 ===============================================

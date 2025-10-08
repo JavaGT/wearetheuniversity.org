@@ -1,9 +1,13 @@
 ---
 slug: student-support-failing-to-keep-up-with-rising-housing-costs
-title: "Student support failing to keep up with rising housing costs"
-date: 2017-04-06
-source-url: https://www.scoop.co.nz/stories/ED1704/S00015/student-support-failing-to-keep-up-with-rising-housing-costs.htm
+title: Student support failing to keep up with rising housing costs
+date: 2017-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00015/student-support-failing-to-keep-up-with-rising-housing-costs.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/04/06/student-support-failing-to-keep-up-with-rising-housing-costs/index.html
+layout: layout.njk
 ---
 Student support failing to keep up with rising housing costs
 ============================================================

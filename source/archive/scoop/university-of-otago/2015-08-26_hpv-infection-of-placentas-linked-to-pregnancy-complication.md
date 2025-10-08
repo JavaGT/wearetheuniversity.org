@@ -1,9 +1,13 @@
 ---
 slug: hpv-infection-of-placentas-linked-to-pregnancy-complication
-title: "HPV infection of placentas linked to pregnancy complication"
-date: 2015-08-26
-source-url: https://www.scoop.co.nz/stories/SC1508/S00049/hpv-infection-of-placentas-linked-to-pregnancy-complication.htm
+title: HPV infection of placentas linked to pregnancy complication
+date: 2015-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1508/S00049/hpv-infection-of-placentas-linked-to-pregnancy-complication.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/08/26/hpv-infection-of-placentas-linked-to-pregnancy-complication/index.html
+layout: layout.njk
 ---
 HPV infection of placentas linked to pregnancy complication
 ===========================================================

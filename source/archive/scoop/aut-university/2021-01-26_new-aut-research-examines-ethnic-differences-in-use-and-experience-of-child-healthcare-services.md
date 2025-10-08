@@ -1,9 +1,16 @@
 ---
-slug: new-aut-research-examines-ethnic-differences-in-use-and-experience-of-child-healthcare-services
-title: "New AUT Research Examines Ethnic Differences In Use And Experience Of Child Healthcare Services"
-date: 2021-01-26
-source-url: https://www.scoop.co.nz/stories/GE2101/S00053/new-aut-research-examines-ethnic-differences-in-use-and-experience-of-child-healthcare-services.htm
+slug: >-
+  new-aut-research-examines-ethnic-differences-in-use-and-experience-of-child-healthcare-services
+title: >-
+  New AUT Research Examines Ethnic Differences In Use And Experience Of Child
+  Healthcare Services
+date: 2021-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2101/S00053/new-aut-research-examines-ethnic-differences-in-use-and-experience-of-child-healthcare-services.htm
 author: aut-university
+permalink: >-
+  /archive/2021/01/26/new-aut-research-examines-ethnic-differences-in-use-and-experience-of-child-healthcare-services/index.html
+layout: layout.njk
 ---
 New AUT Research Examines Ethnic Differences In Use And Experience Of Child Healthcare Services
 ===============================================================================================

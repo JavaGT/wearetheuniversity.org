@@ -1,9 +1,13 @@
 ---
 slug: nz-joins-the-global-conversation-on-alcohol-related-harm
-title: "NZ joins the global conversation on alcohol-related harm"
-date: 2015-10-08
-source-url: https://www.scoop.co.nz/stories/PO1510/S00146/nz-joins-the-global-conversation-on-alcohol-related-harm.htm
+title: NZ joins the global conversation on alcohol-related harm
+date: 2015-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00146/nz-joins-the-global-conversation-on-alcohol-related-harm.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/08/nz-joins-the-global-conversation-on-alcohol-related-harm/index.html
+layout: layout.njk
 ---
 NZ joins the global conversation on alcohol-related harm
 ========================================================

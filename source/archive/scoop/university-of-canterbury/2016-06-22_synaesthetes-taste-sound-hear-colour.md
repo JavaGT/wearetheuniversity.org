@@ -1,9 +1,12 @@
 ---
 slug: synaesthetes-taste-sound-hear-colour
-title: "Synaesthetes taste sound, hear colour"
-date: 2016-06-22
-source-url: https://www.scoop.co.nz/stories/SC1606/S00046/synaesthetes-taste-sound-hear-colour.htm
+title: Synaesthetes taste sound, hear colour
+date: 2016-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00046/synaesthetes-taste-sound-hear-colour.htm
 author: university-of-canterbury
+permalink: /archive/2016/06/22/synaesthetes-taste-sound-hear-colour/index.html
+layout: layout.njk
 ---
 Synaesthetes taste sound, hear colour
 =====================================

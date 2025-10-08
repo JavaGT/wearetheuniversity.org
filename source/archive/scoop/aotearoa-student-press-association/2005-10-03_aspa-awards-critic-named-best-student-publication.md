@@ -1,9 +1,13 @@
 ---
 slug: aspa-awards-critic-named-best-student-publication
-title: "ASPA Awards: Critic named Best Student Publication"
-date: 2005-10-03
-source-url: https://www.scoop.co.nz/stories/ED0510/S00004/aspa-awards-critic-named-best-student-publication.htm
+title: 'ASPA Awards: Critic named Best Student Publication'
+date: 2005-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00004/aspa-awards-critic-named-best-student-publication.htm
 author: aotearoa-student-press-association
+permalink: >-
+  /archive/2005/10/03/aspa-awards-critic-named-best-student-publication/index.html
+layout: layout.njk
 ---
 ASPA Awards: Critic named Best Student Publication
 ==================================================

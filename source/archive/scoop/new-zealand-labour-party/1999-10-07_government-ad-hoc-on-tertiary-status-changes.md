@@ -1,9 +1,12 @@
 ---
 slug: government-ad-hoc-on-tertiary-status-changes
-title: "Government ad-hoc on tertiary status changes"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PA9910/S00131/government-ad-hoc-on-tertiary-status-changes.htm
+title: Government ad-hoc on tertiary status changes
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00131/government-ad-hoc-on-tertiary-status-changes.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/07/government-ad-hoc-on-tertiary-status-changes/index.html
+layout: layout.njk
 ---
 Government ad-hoc on tertiary status changes
 ============================================

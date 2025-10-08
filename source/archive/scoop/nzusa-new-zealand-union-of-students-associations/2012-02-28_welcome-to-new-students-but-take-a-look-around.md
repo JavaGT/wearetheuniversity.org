@@ -1,9 +1,12 @@
 ---
 slug: welcome-to-new-students-but-take-a-look-around
-title: "Welcome to New Students – But Take a Look Around"
-date: 2012-02-28
-source-url: https://www.scoop.co.nz/stories/ED1202/S00124/welcome-to-new-students-but-take-a-look-around.htm
+title: Welcome to New Students – But Take a Look Around
+date: 2012-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00124/welcome-to-new-students-but-take-a-look-around.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/02/28/welcome-to-new-students-but-take-a-look-around/index.html
+layout: layout.njk
 ---
 Welcome to New Students – But Take a Look Around
 ================================================

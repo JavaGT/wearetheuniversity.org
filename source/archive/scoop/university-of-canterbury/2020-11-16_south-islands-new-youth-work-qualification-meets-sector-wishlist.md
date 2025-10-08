@@ -1,9 +1,13 @@
 ---
 slug: south-islands-new-youth-work-qualification-meets-sector-wishlist
-title: "South Island’s New Youth Work Qualification Meets Sector Wishlist"
-date: 2020-11-16
-source-url: https://www.scoop.co.nz/stories/ED2011/S00032/south-islands-new-youth-work-qualification-meets-sector-wishlist.htm
+title: South Island’s New Youth Work Qualification Meets Sector Wishlist
+date: 2020-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00032/south-islands-new-youth-work-qualification-meets-sector-wishlist.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/16/south-islands-new-youth-work-qualification-meets-sector-wishlist/index.html
+layout: layout.njk
 ---
 South Island’s New Youth Work Qualification Meets Sector Wishlist
 =================================================================

@@ -1,9 +1,12 @@
 ---
 slug: cmon-mallard-get-your-act-together
-title: "C'mon Mallard, Get Your Act Together"
-date: 2003-09-11
-source-url: https://www.scoop.co.nz/stories/PA0309/S00226/cmon-mallard-get-your-act-together.htm
+title: C'mon Mallard, Get Your Act Together
+date: 2003-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00226/cmon-mallard-get-your-act-together.htm
 author: act-new-zealand
+permalink: /archive/2003/09/11/cmon-mallard-get-your-act-together/index.html
+layout: layout.njk
 ---
 C'mon Mallard, Get Your Act Together
 ====================================

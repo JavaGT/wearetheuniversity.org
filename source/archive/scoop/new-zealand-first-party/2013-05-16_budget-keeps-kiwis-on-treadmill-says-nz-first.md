@@ -1,9 +1,12 @@
 ---
 slug: budget-keeps-kiwis-on-treadmill-says-nz-first
-title: "Budget Keeps Kiwis on Treadmill Says NZ First"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/PA1305/S00332/budget-keeps-kiwis-on-treadmill-says-nz-first.htm
+title: Budget Keeps Kiwis on Treadmill Says NZ First
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00332/budget-keeps-kiwis-on-treadmill-says-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/16/budget-keeps-kiwis-on-treadmill-says-nz-first/index.html
+layout: layout.njk
 ---
 Budget Keeps Kiwis on Treadmill Says NZ First
 =============================================

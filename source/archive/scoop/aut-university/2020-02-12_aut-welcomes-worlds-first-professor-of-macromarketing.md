@@ -1,9 +1,13 @@
 ---
 slug: aut-welcomes-worlds-first-professor-of-macromarketing
-title: "AUT Welcomes World’s First Professor Of Macromarketing"
-date: 2020-02-12
-source-url: https://www.scoop.co.nz/stories/ED2002/S00020/aut-welcomes-worlds-first-professor-of-macromarketing.htm
+title: AUT Welcomes World’s First Professor Of Macromarketing
+date: 2020-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2002/S00020/aut-welcomes-worlds-first-professor-of-macromarketing.htm
 author: aut-university
+permalink: >-
+  /archive/2020/02/12/aut-welcomes-worlds-first-professor-of-macromarketing/index.html
+layout: layout.njk
 ---
 AUT Welcomes World’s First Professor Of Macromarketing
 ======================================================

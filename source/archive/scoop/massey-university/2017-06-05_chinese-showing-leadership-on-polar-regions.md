@@ -1,9 +1,12 @@
 ---
 slug: chinese-showing-leadership-on-polar-regions
-title: "Chinese showing leadership on Polar regions"
-date: 2017-06-05
-source-url: https://www.scoop.co.nz/stories/PO1706/S00052/chinese-showing-leadership-on-polar-regions.htm
+title: Chinese showing leadership on Polar regions
+date: 2017-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00052/chinese-showing-leadership-on-polar-regions.htm
 author: massey-university
+permalink: /archive/2017/06/05/chinese-showing-leadership-on-polar-regions/index.html
+layout: layout.njk
 ---
 Chinese showing leadership on Polar regions
 ===========================================

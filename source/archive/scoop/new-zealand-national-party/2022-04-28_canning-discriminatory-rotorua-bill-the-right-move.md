@@ -1,9 +1,13 @@
 ---
 slug: canning-discriminatory-rotorua-bill-the-right-move
-title: "Canning Discriminatory Rotorua Bill The Right Move"
-date: 2022-04-28
-source-url: https://www.scoop.co.nz/stories/PA2204/S00204/canning-discriminatory-rotorua-bill-the-right-move.htm
+title: Canning Discriminatory Rotorua Bill The Right Move
+date: 2022-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00204/canning-discriminatory-rotorua-bill-the-right-move.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/04/28/canning-discriminatory-rotorua-bill-the-right-move/index.html
+layout: layout.njk
 ---
 Canning Discriminatory Rotorua Bill The Right Move
 ==================================================

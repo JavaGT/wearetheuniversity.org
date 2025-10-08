@@ -1,9 +1,11 @@
 ---
 slug: chancellor-re-elected
-title: "Chancellor re-elected"
-date: 2003-12-02
+title: Chancellor re-elected
+date: 2003-12-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0312/S00008/chancellor-re-elected.htm
 author: lincoln-university
+permalink: /archive/2003/12/02/chancellor-re-elected/index.html
+layout: layout.njk
 ---
 Chancellor re-elected
 =====================

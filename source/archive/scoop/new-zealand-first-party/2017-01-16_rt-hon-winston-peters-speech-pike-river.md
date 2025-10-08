@@ -1,9 +1,12 @@
 ---
 slug: rt-hon-winston-peters-speech-pike-river
-title: "Rt Hon Winston Peters speech: Pike River"
-date: 2017-01-16
-source-url: https://www.scoop.co.nz/stories/PA1701/S00040/rt-hon-winston-peters-speech-pike-river.htm
+title: 'Rt Hon Winston Peters speech: Pike River'
+date: 2017-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00040/rt-hon-winston-peters-speech-pike-river.htm
 author: new-zealand-first-party
+permalink: /archive/2017/01/16/rt-hon-winston-peters-speech-pike-river/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters speech: Pike River
 ========================================

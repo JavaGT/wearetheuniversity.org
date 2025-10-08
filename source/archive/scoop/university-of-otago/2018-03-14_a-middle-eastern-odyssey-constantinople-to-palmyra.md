@@ -1,9 +1,13 @@
 ---
 slug: a-middle-eastern-odyssey-constantinople-to-palmyra
-title: "A Middle Eastern Odyssey: Constantinople to Palmyra"
-date: 2018-03-14
-source-url: https://www.scoop.co.nz/stories/CU1803/S00231/a-middle-eastern-odyssey-constantinople-to-palmyra.htm
+title: 'A Middle Eastern Odyssey: Constantinople to Palmyra'
+date: 2018-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1803/S00231/a-middle-eastern-odyssey-constantinople-to-palmyra.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/14/a-middle-eastern-odyssey-constantinople-to-palmyra/index.html
+layout: layout.njk
 ---
 A Middle Eastern Odyssey: Constantinople to Palmyra
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: monte-ohia-candidate-for-te-tai-tonga
-title: "Monte Ohia Candidate for Te Tai Tonga"
-date: 2008-02-17
-source-url: https://www.scoop.co.nz/stories/PO0802/S00186/monte-ohia-candidate-for-te-tai-tonga.htm
+title: Monte Ohia Candidate for Te Tai Tonga
+date: 2008-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0802/S00186/monte-ohia-candidate-for-te-tai-tonga.htm
 author: te-pati-maori
+permalink: /archive/2008/02/17/monte-ohia-candidate-for-te-tai-tonga/index.html
+layout: layout.njk
 ---
 Monte Ohia Candidate for Te Tai Tonga
 =====================================

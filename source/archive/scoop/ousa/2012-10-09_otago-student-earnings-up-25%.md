@@ -1,9 +1,11 @@
 ---
 slug: otago-student-earnings-up-25%
-title: "Otago Student Earnings up 25%"
-date: 2012-10-09
+title: Otago Student Earnings up 25%
+date: 2012-10-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1210/S00057/otago-student-earnings-up-25.htm
 author: ousa
+permalink: /archive/2012/10/09/otago-student-earnings-up-25/index.html
+layout: layout.njk
 ---
 Otago Student Earnings up 25%
 =============================

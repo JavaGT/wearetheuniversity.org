@@ -1,9 +1,12 @@
 ---
 slug: school-holidays-a-business-opportunity-for-some
-title: "School holidays a business opportunity for some"
-date: 2009-07-03
-source-url: https://www.scoop.co.nz/stories/BU0907/S00086/school-holidays-a-business-opportunity-for-some.htm
+title: School holidays a business opportunity for some
+date: 2009-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00086/school-holidays-a-business-opportunity-for-some.htm
 author: massey-university
+permalink: /archive/2009/07/03/school-holidays-a-business-opportunity-for-some/index.html
+layout: layout.njk
 ---
 School holidays a business opportunity for some
 ===============================================

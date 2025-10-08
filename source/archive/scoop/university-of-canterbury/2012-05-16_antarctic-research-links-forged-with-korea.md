@@ -1,9 +1,12 @@
 ---
 slug: antarctic-research-links-forged-with-korea
-title: "Antarctic research links forged with Korea"
-date: 2012-05-16
-source-url: https://www.scoop.co.nz/stories/SC1205/S00035/antarctic-research-links-forged-with-korea.htm
+title: Antarctic research links forged with Korea
+date: 2012-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00035/antarctic-research-links-forged-with-korea.htm
 author: university-of-canterbury
+permalink: /archive/2012/05/16/antarctic-research-links-forged-with-korea/index.html
+layout: layout.njk
 ---
 Antarctic research links forged with Korea
 ==========================================

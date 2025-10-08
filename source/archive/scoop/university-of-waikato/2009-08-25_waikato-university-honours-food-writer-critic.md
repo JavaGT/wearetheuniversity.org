@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-honours-food-writer-critic
-title: "Waikato University honours food writer, critic"
-date: 2009-08-25
-source-url: https://www.scoop.co.nz/stories/ED0908/S00087/waikato-university-honours-food-writer-critic.htm
+title: Waikato University honours food writer, critic
+date: 2009-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00087/waikato-university-honours-food-writer-critic.htm
 author: university-of-waikato
+permalink: /archive/2009/08/25/waikato-university-honours-food-writer-critic/index.html
+layout: layout.njk
 ---
 Waikato University honours food writer, critic
 ==============================================

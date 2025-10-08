@@ -1,9 +1,13 @@
 ---
 slug: reducing-water-consumption-in-commercial-office-buildings
-title: "Reducing water consumption in commercial office buildings"
-date: 2012-12-12
-source-url: https://www.scoop.co.nz/stories/BU1212/S00436/reducing-water-consumption-in-commercial-office-buildings.htm
+title: Reducing water consumption in commercial office buildings
+date: 2012-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1212/S00436/reducing-water-consumption-in-commercial-office-buildings.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/12/12/reducing-water-consumption-in-commercial-office-buildings/index.html
+layout: layout.njk
 ---
 Reducing water consumption in commercial office buildings
 =========================================================

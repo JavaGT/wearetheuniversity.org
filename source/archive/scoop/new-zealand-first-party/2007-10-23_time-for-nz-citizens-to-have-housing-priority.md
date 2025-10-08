@@ -1,9 +1,12 @@
 ---
 slug: time-for-nz-citizens-to-have-housing-priority
-title: "Time For NZ Citizens To Have Housing Priority"
-date: 2007-10-23
-source-url: https://www.scoop.co.nz/stories/PA0710/S00406/time-for-nz-citizens-to-have-housing-priority.htm
+title: Time For NZ Citizens To Have Housing Priority
+date: 2007-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00406/time-for-nz-citizens-to-have-housing-priority.htm
 author: new-zealand-first-party
+permalink: /archive/2007/10/23/time-for-nz-citizens-to-have-housing-priority/index.html
+layout: layout.njk
 ---
 Time For NZ Citizens To Have Housing Priority
 =============================================

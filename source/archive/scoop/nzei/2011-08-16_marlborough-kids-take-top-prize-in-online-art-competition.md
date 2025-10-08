@@ -1,9 +1,13 @@
 ---
 slug: marlborough-kids-take-top-prize-in-online-art-competition
-title: "Marlborough kids take top prize in online art competition"
-date: 2011-08-16
-source-url: https://www.scoop.co.nz/stories/AK1108/S00448/marlborough-kids-take-top-prize-in-online-art-competition.htm
+title: Marlborough kids take top prize in online art competition
+date: 2011-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1108/S00448/marlborough-kids-take-top-prize-in-online-art-competition.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/16/marlborough-kids-take-top-prize-in-online-art-competition/index.html
+layout: layout.njk
 ---
 Marlborough kids take top prize in online art competition
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: katherine-rich-preparing-students-for-life
-title: "Katherine Rich: Preparing Students for Life"
-date: 2007-08-04
-source-url: https://www.scoop.co.nz/stories/PA0708/S00074/katherine-rich-preparing-students-for-life.htm
+title: 'Katherine Rich: Preparing Students for Life'
+date: 2007-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00074/katherine-rich-preparing-students-for-life.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/04/katherine-rich-preparing-students-for-life/index.html
+layout: layout.njk
 ---
 Katherine Rich: Preparing Students for Life
 ===========================================

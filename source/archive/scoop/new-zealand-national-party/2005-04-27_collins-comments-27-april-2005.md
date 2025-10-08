@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-27-april-2005
-title: "Collins Comments - 27 April 2005"
-date: 2005-04-27
-source-url: https://www.scoop.co.nz/stories/PA0504/S00547/collins-comments-27-april-2005.htm
+title: Collins Comments - 27 April 2005
+date: 2005-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00547/collins-comments-27-april-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/27/collins-comments-27-april-2005/index.html
+layout: layout.njk
 ---
 Collins Comments - 27 April 2005
 ================================

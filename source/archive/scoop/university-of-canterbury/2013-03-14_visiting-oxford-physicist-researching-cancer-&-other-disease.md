@@ -1,9 +1,12 @@
 ---
 slug: visiting-oxford-physicist-researching-cancer-&-other-disease
-title: "Visiting Oxford Physicist Researching Cancer & Other Disease"
-date: 2013-03-14
-source-url: https://www.scoop.co.nz/stories/ED1303/S00100/visiting-oxford-physicist-researching-cancer-other-disease.htm
+title: Visiting Oxford Physicist Researching Cancer & Other Disease
+date: 2013-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00100/visiting-oxford-physicist-researching-cancer-other-disease.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/14/visiting-oxford-physicist-researching-cancer-/index.html
+layout: layout.njk
 ---
 Visiting Oxford Physicist Researching Cancer & Other Disease
 ============================================================

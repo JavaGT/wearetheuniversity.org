@@ -1,9 +1,12 @@
 ---
 slug: christine-rankin-in-hot-water-again-act
-title: "Christine Rankin In Hot Water Again - ACT"
-date: 2000-02-09
-source-url: https://www.scoop.co.nz/stories/PA0002/S00091/christine-rankin-in-hot-water-again-act.htm
+title: Christine Rankin In Hot Water Again - ACT
+date: 2000-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00091/christine-rankin-in-hot-water-again-act.htm
 author: act-new-zealand
+permalink: /archive/2000/02/09/christine-rankin-in-hot-water-again-act/index.html
+layout: layout.njk
 ---
 Christine Rankin In Hot Water Again - ACT
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: green-governance-coming-soon-to-a-town-near-you!
-title: "Green Governance - Coming Soon To A Town Near You!"
-date: 2001-12-03
-source-url: https://www.scoop.co.nz/stories/PA0112/S00013/green-governance-coming-soon-to-a-town-near-you.htm
+title: Green Governance - Coming Soon To A Town Near You!
+date: 2001-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00013/green-governance-coming-soon-to-a-town-near-you.htm
 author: green-party
+permalink: /archive/2001/12/03/green-governance-coming-soon-to-a-town-near-you/index.html
+layout: layout.njk
 ---
 Green Governance - Coming Soon To A Town Near You!
 ==================================================

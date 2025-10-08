@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-to-develop-education-centre
-title: "University of Otago to develop Education Centre"
-date: 2018-10-05
-source-url: https://www.scoop.co.nz/stories/SC1810/S00031/university-of-otago-to-develop-education-centre.htm
+title: University of Otago to develop Education Centre
+date: 2018-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00031/university-of-otago-to-develop-education-centre.htm
 author: university-of-otago
+permalink: /archive/2018/10/05/university-of-otago-to-develop-education-centre/index.html
+layout: layout.njk
 ---
 University of Otago to develop Education Centre
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-congratulates-dr-kim-workman
-title: "Māori Party congratulates Dr Kim Workman"
-date: 2016-05-20
-source-url: https://www.scoop.co.nz/stories/PA1605/S00376/maori-party-congratulates-dr-kim-workman.htm
+title: Māori Party congratulates Dr Kim Workman
+date: 2016-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00376/maori-party-congratulates-dr-kim-workman.htm
 author: te-pati-maori
+permalink: /archive/2016/05/20/m/index.html
+layout: layout.njk
 ---
 Māori Party congratulates Dr Kim Workman
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-hobbit-movies-saved
-title: "The Mapp Report - Hobbit Movies Saved"
-date: 2010-10-30
-source-url: https://www.scoop.co.nz/stories/PA1010/S00532/the-mapp-report-hobbit-movies-saved.htm
+title: The Mapp Report - Hobbit Movies Saved
+date: 2010-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00532/the-mapp-report-hobbit-movies-saved.htm
 author: new-zealand-national-party
+permalink: /archive/2010/10/30/the-mapp-report-hobbit-movies-saved/index.html
+layout: layout.njk
 ---
 The Mapp Report - Hobbit Movies Saved
 =====================================

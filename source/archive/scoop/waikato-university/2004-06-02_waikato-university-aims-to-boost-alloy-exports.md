@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-aims-to-boost-alloy-exports
-title: "Waikato University aims to boost alloy exports"
-date: 2004-06-02
-source-url: https://www.scoop.co.nz/stories/ED0406/S00006/waikato-university-aims-to-boost-alloy-exports.htm
+title: Waikato University aims to boost alloy exports
+date: 2004-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00006/waikato-university-aims-to-boost-alloy-exports.htm
 author: waikato-university
+permalink: /archive/2004/06/02/waikato-university-aims-to-boost-alloy-exports/index.html
+layout: layout.njk
 ---
 Waikato University aims to boost alloy exports
 ==============================================

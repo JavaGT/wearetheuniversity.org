@@ -1,9 +1,12 @@
 ---
 slug: keeping-the-local-in-local-government
-title: "Keeping the Local in Local Government"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/PA1409/S00148/keeping-the-local-in-local-government.htm
+title: Keeping the Local in Local Government
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00148/keeping-the-local-in-local-government.htm
 author: new-zealand-first-party
+permalink: /archive/2014/09/10/keeping-the-local-in-local-government/index.html
+layout: layout.njk
 ---
 Keeping the Local in Local Government
 =====================================

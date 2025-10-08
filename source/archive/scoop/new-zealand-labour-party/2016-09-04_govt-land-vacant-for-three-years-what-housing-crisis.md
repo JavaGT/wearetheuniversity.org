@@ -1,9 +1,13 @@
 ---
 slug: govt-land-vacant-for-three-years-what-housing-crisis
-title: "Govt land vacant for three years. What housing crisis?"
-date: 2016-09-04
-source-url: https://www.scoop.co.nz/stories/PA1609/S00050/govt-land-vacant-for-three-years-what-housing-crisis.htm
+title: Govt land vacant for three years. What housing crisis?
+date: 2016-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00050/govt-land-vacant-for-three-years-what-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/09/04/govt-land-vacant-for-three-years-what-housing-crisis/index.html
+layout: layout.njk
 ---
 Govt land vacant for three years. What housing crisis?
 ======================================================

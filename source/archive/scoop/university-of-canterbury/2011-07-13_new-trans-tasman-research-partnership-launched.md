@@ -1,9 +1,12 @@
 ---
 slug: new-trans-tasman-research-partnership-launched
-title: "New trans-Tasman research partnership launched"
-date: 2011-07-13
-source-url: https://www.scoop.co.nz/stories/ED1107/S00052/new-trans-tasman-research-partnership-launched.htm
+title: New trans-Tasman research partnership launched
+date: 2011-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00052/new-trans-tasman-research-partnership-launched.htm
 author: university-of-canterbury
+permalink: /archive/2011/07/13/new-trans-tasman-research-partnership-launched/index.html
+layout: layout.njk
 ---
 New trans-Tasman research partnership launched
 ==============================================

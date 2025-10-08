@@ -1,9 +1,12 @@
 ---
 slug: bridge-building-judgement-day-at-uc-postponed
-title: "Bridge building judgement day at UC postponed"
-date: 2012-10-08
-source-url: https://www.scoop.co.nz/stories/ED1210/S00052/bridge-building-judgement-day-at-uc-postponed.htm
+title: Bridge building judgement day at UC postponed
+date: 2012-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00052/bridge-building-judgement-day-at-uc-postponed.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/08/bridge-building-judgement-day-at-uc-postponed/index.html
+layout: layout.njk
 ---
 Bridge building judgement day at UC postponed
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: peters-rmtu-annual-delegates-conference
-title: "Peters: RMTU Annual Delegates Conference"
-date: 2012-10-23
-source-url: https://www.scoop.co.nz/stories/PA1210/S00378/peters-rmtu-annual-delegates-conference.htm
+title: 'Peters: RMTU Annual Delegates Conference'
+date: 2012-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00378/peters-rmtu-annual-delegates-conference.htm
 author: new-zealand-first-party
+permalink: /archive/2012/10/23/peters-rmtu-annual-delegates-conference/index.html
+layout: layout.njk
 ---
 Peters: RMTU Annual Delegates Conference
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: more-plant-diversity-means-less-pesticide
-title: "More Plant Diversity Means Less Pesticide"
-date: 2020-11-10
-source-url: https://www.scoop.co.nz/stories/SC2011/S00014/more-plant-diversity-means-less-pesticide.htm
+title: More Plant Diversity Means Less Pesticide
+date: 2020-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00014/more-plant-diversity-means-less-pesticide.htm
 author: university-of-waikato
+permalink: /archive/2020/11/10/more-plant-diversity-means-less-pesticide/index.html
+layout: layout.njk
 ---
 More Plant Diversity Means Less Pesticide
 =========================================

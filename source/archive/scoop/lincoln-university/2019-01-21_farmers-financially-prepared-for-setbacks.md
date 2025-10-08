@@ -1,9 +1,12 @@
 ---
 slug: farmers-financially-prepared-for-setbacks
-title: "Farmers financially prepared for setbacks"
-date: 2019-01-21
-source-url: https://www.scoop.co.nz/stories/BU1901/S00260/farmers-financially-prepared-for-setbacks.htm
+title: Farmers financially prepared for setbacks
+date: 2019-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1901/S00260/farmers-financially-prepared-for-setbacks.htm
 author: lincoln-university
+permalink: /archive/2019/01/21/farmers-financially-prepared-for-setbacks/index.html
+layout: layout.njk
 ---
 Farmers financially prepared for setbacks
 =========================================

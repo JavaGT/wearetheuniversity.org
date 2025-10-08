@@ -1,9 +1,12 @@
 ---
 slug: judith-collins-child-abuse-reports-soar
-title: "Judith Collins: Child Abuse Reports Soar"
-date: 2004-07-19
-source-url: https://www.scoop.co.nz/stories/PA0407/S00309/judith-collins-child-abuse-reports-soar.htm
+title: 'Judith Collins: Child Abuse Reports Soar'
+date: 2004-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00309/judith-collins-child-abuse-reports-soar.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/19/judith-collins-child-abuse-reports-soar/index.html
+layout: layout.njk
 ---
 Judith Collins: Child Abuse Reports Soar
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: hawaiian-educators-visit-victoria-university
-title: "Hawaiian educators visit Victoria University"
-date: 2003-02-05
-source-url: https://www.scoop.co.nz/stories/ED0302/S00010/hawaiian-educators-visit-victoria-university.htm
+title: Hawaiian educators visit Victoria University
+date: 2003-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00010/hawaiian-educators-visit-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/02/05/hawaiian-educators-visit-victoria-university/index.html
+layout: layout.njk
 ---
 Hawaiian educators visit Victoria University
 ============================================

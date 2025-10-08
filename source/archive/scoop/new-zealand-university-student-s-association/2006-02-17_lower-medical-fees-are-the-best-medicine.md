@@ -1,9 +1,12 @@
 ---
 slug: lower-medical-fees-are-the-best-medicine
-title: "Lower medical fees are the best medicine"
-date: 2006-02-17
-source-url: https://www.scoop.co.nz/stories/ED0602/S00044/lower-medical-fees-are-the-best-medicine.htm
+title: Lower medical fees are the best medicine
+date: 2006-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00044/lower-medical-fees-are-the-best-medicine.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/02/17/lower-medical-fees-are-the-best-medicine/index.html
+layout: layout.njk
 ---
 Lower medical fees are the best medicine
 ========================================

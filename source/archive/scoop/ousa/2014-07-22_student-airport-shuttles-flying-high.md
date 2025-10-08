@@ -1,9 +1,12 @@
 ---
 slug: student-airport-shuttles-flying-high
-title: "Student Airport Shuttles Flying High"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/AK1407/S00423/student-airport-shuttles-flying-high.htm
+title: Student Airport Shuttles Flying High
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1407/S00423/student-airport-shuttles-flying-high.htm
 author: ousa
+permalink: /archive/2014/07/22/student-airport-shuttles-flying-high/index.html
+layout: layout.njk
 ---
 Student Airport Shuttles Flying High
 ====================================

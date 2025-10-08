@@ -1,9 +1,13 @@
 ---
 slug: why-is-hipkins-hiding-the-final-charter-schools-report
-title: "Why is Hipkins Hiding the Final Charter Schools Report?"
-date: 2018-03-16
-source-url: https://www.scoop.co.nz/stories/PA1803/S00172/why-is-hipkins-hiding-the-final-charter-schools-report.htm
+title: Why is Hipkins Hiding the Final Charter Schools Report?
+date: 2018-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00172/why-is-hipkins-hiding-the-final-charter-schools-report.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/03/16/why-is-hipkins-hiding-the-final-charter-schools-report/index.html
+layout: layout.njk
 ---
 Why is Hipkins Hiding the Final Charter Schools Report?
 =======================================================

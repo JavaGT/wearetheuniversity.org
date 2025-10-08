@@ -1,9 +1,12 @@
 ---
 slug: vic-athlete-wins-gold-with-broken-foot
-title: "Vic athlete wins gold with broken foot"
-date: 2009-05-04
-source-url: https://www.scoop.co.nz/stories/AK0905/S00029/vic-athlete-wins-gold-with-broken-foot.htm
+title: Vic athlete wins gold with broken foot
+date: 2009-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0905/S00029/vic-athlete-wins-gold-with-broken-foot.htm
 author: salient
+permalink: /archive/2009/05/04/vic-athlete-wins-gold-with-broken-foot/index.html
+layout: layout.njk
 ---
 Vic athlete wins gold with broken foot
 ======================================

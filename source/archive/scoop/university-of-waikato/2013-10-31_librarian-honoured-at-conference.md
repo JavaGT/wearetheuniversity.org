@@ -1,9 +1,12 @@
 ---
 slug: librarian-honoured-at-conference
-title: "Librarian honoured at conference"
-date: 2013-10-31
-source-url: https://www.scoop.co.nz/stories/CU1310/S00639/librarian-honoured-at-conference.htm
+title: Librarian honoured at conference
+date: 2013-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00639/librarian-honoured-at-conference.htm
 author: university-of-waikato
+permalink: /archive/2013/10/31/librarian-honoured-at-conference/index.html
+layout: layout.njk
 ---
 Librarian honoured at conference
 ================================

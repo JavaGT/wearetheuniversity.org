@@ -1,9 +1,13 @@
 ---
 slug: commemoration-to-mark-99-years-since-chunuk-bair
-title: "Commemoration to mark 99 years since Chunuk Bair"
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/ED1407/S00150/commemoration-to-mark-99-years-since-chunuk-bair.htm
+title: Commemoration to mark 99 years since Chunuk Bair
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00150/commemoration-to-mark-99-years-since-chunuk-bair.htm
 author: massey-university
+permalink: >-
+  /archive/2014/07/30/commemoration-to-mark-99-years-since-chunuk-bair/index.html
+layout: layout.njk
 ---
 Commemoration to mark 99 years since Chunuk Bair
 ================================================

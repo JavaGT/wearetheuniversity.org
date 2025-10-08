@@ -1,9 +1,13 @@
 ---
 slug: human-robot-interaction-conference-in-christchurch
-title: "Human-Robot Interaction Conference in Christchurch"
-date: 2016-03-04
-source-url: https://www.scoop.co.nz/stories/AK1603/S00126/human-robot-interaction-conference-in-christchurch.htm
+title: Human-Robot Interaction Conference in Christchurch
+date: 2016-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1603/S00126/human-robot-interaction-conference-in-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/04/human-robot-interaction-conference-in-christchurch/index.html
+layout: layout.njk
 ---
 Human-Robot Interaction Conference in Christchurch
 ==================================================

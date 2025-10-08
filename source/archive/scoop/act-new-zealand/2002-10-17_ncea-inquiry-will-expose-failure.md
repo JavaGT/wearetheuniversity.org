@@ -1,9 +1,12 @@
 ---
 slug: ncea-inquiry-will-expose-failure
-title: "NCEA Inquiry Will Expose Failure"
-date: 2002-10-17
-source-url: https://www.scoop.co.nz/stories/PA0210/S00347/ncea-inquiry-will-expose-failure.htm
+title: NCEA Inquiry Will Expose Failure
+date: 2002-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00347/ncea-inquiry-will-expose-failure.htm
 author: act-new-zealand
+permalink: /archive/2002/10/17/ncea-inquiry-will-expose-failure/index.html
+layout: layout.njk
 ---
 NCEA Inquiry Will Expose Failure
 ================================

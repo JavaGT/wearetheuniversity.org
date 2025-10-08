@@ -1,9 +1,12 @@
 ---
 slug: too-much-work-not-enough-study
-title: "Too much work, not enough study"
-date: 2005-02-25
-source-url: https://www.scoop.co.nz/stories/PA0502/S00558/too-much-work-not-enough-study.htm
+title: Too much work, not enough study
+date: 2005-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00558/too-much-work-not-enough-study.htm
 author: green-party
+permalink: /archive/2005/02/25/too-much-work-not-enough-study/index.html
+layout: layout.njk
 ---
 Too much work, not enough study
 ===============================

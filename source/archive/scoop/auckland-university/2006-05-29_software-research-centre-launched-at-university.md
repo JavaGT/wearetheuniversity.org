@@ -1,9 +1,12 @@
 ---
 slug: software-research-centre-launched-at-university
-title: "Software Research Centre launched at University"
-date: 2006-05-29
-source-url: https://www.scoop.co.nz/stories/ED0605/S00109/software-research-centre-launched-at-university.htm
+title: Software Research Centre launched at University
+date: 2006-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00109/software-research-centre-launched-at-university.htm
 author: auckland-university
+permalink: /archive/2006/05/29/software-research-centre-launched-at-university/index.html
+layout: layout.njk
 ---
 Software Research Centre launched at University
 ===============================================

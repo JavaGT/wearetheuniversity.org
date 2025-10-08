@@ -1,9 +1,13 @@
 ---
 slug: students-asked-to-express-themselves-through-poetry
-title: "Students asked to express themselves through poetry"
-date: 2011-03-07
-source-url: https://www.scoop.co.nz/stories/CU1103/S00144/students-asked-to-express-themselves-through-poetry.htm
+title: Students asked to express themselves through poetry
+date: 2011-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1103/S00144/students-asked-to-express-themselves-through-poetry.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/03/07/students-asked-to-express-themselves-through-poetry/index.html
+layout: layout.njk
 ---
 Students asked to express themselves through poetry
 ===================================================

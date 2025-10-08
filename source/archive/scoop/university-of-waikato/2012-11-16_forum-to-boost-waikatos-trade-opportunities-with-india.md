@@ -1,9 +1,13 @@
 ---
 slug: forum-to-boost-waikatos-trade-opportunities-with-india
-title: "Forum to boost Waikato’s trade opportunities with India"
-date: 2012-11-16
-source-url: https://www.scoop.co.nz/stories/BU1211/S00656/forum-to-boost-waikatos-trade-opportunities-with-india.htm
+title: Forum to boost Waikato’s trade opportunities with India
+date: 2012-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1211/S00656/forum-to-boost-waikatos-trade-opportunities-with-india.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/11/16/forum-to-boost-waikatos-trade-opportunities-with-india/index.html
+layout: layout.njk
 ---
 Forum to boost Waikato’s trade opportunities with India
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: quick-fix-solution-not-good-enough
-title: "Quick-Fix Solution Not Good Enough"
-date: 2001-03-20
-source-url: https://www.scoop.co.nz/stories/PA0103/S00325/quick-fix-solution-not-good-enough.htm
+title: Quick-Fix Solution Not Good Enough
+date: 2001-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00325/quick-fix-solution-not-good-enough.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/20/quick-fix-solution-not-good-enough/index.html
+layout: layout.njk
 ---
 Quick-Fix Solution Not Good Enough
 ==================================

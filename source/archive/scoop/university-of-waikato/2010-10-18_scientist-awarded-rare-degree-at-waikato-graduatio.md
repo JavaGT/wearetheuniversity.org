@@ -1,9 +1,13 @@
 ---
 slug: scientist-awarded-rare-degree-at-waikato-graduatio
-title: "Scientist awarded rare degree at Waikato graduatio"
-date: 2010-10-18
-source-url: https://www.scoop.co.nz/stories/ED1010/S00058/scientist-awarded-rare-degree-at-waikato-graduatio.htm
+title: Scientist awarded rare degree at Waikato graduatio
+date: 2010-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00058/scientist-awarded-rare-degree-at-waikato-graduatio.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/10/18/scientist-awarded-rare-degree-at-waikato-graduatio/index.html
+layout: layout.njk
 ---
 Scientist awarded rare degree at Waikato graduatio
 ==================================================

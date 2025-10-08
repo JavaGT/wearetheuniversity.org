@@ -1,9 +1,12 @@
 ---
 slug: ncea-ministry-gave-no-advice-on-changes
-title: "NCEA: Ministry gave no advice on changes"
-date: 2005-12-16
-source-url: https://www.scoop.co.nz/stories/PA0512/S00260/ncea-ministry-gave-no-advice-on-changes.htm
+title: 'NCEA: Ministry gave no advice on changes'
+date: 2005-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00260/ncea-ministry-gave-no-advice-on-changes.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/16/ncea-ministry-gave-no-advice-on-changes/index.html
+layout: layout.njk
 ---
 NCEA: Ministry gave no advice on changes
 ========================================

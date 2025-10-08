@@ -1,9 +1,13 @@
 ---
 slug: broken-windows-zero-tolerance-to-crime-in-action
-title: "'Broken Windows' Zero Tolerance To Crime In Action"
-date: 2005-03-11
-source-url: https://www.scoop.co.nz/stories/PA0503/S00262/broken-windows-zero-tolerance-to-crime-in-action.htm
+title: '''Broken Windows'' Zero Tolerance To Crime In Action'
+date: 2005-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00262/broken-windows-zero-tolerance-to-crime-in-action.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/03/11/broken-windows-zero-tolerance-to-crime-in-action/index.html
+layout: layout.njk
 ---
 'Broken Windows' Zero Tolerance To Crime In Action
 ==================================================

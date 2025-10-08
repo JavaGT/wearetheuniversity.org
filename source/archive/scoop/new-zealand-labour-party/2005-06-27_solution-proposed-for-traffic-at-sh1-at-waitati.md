@@ -1,9 +1,12 @@
 ---
 slug: solution-proposed-for-traffic-at-sh1-at-waitati
-title: "Solution proposed for traffic at SH1 at Waitati"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00642/solution-proposed-for-traffic-at-sh1-at-waitati.htm
+title: Solution proposed for traffic at SH1 at Waitati
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00642/solution-proposed-for-traffic-at-sh1-at-waitati.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/06/27/solution-proposed-for-traffic-at-sh1-at-waitati/index.html
+layout: layout.njk
 ---
 Solution proposed for traffic at SH1 at Waitati
 ===============================================

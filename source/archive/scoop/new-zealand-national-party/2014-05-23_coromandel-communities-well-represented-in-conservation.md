@@ -1,9 +1,13 @@
 ---
 slug: coromandel-communities-well-represented-in-conservation
-title: "Coromandel Communities Well Represented in Conservation"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/PA1405/S00460/coromandel-communities-well-represented-in-conservation.htm
+title: Coromandel Communities Well Represented in Conservation
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00460/coromandel-communities-well-represented-in-conservation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/05/23/coromandel-communities-well-represented-in-conservation/index.html
+layout: layout.njk
 ---
 Coromandel Communities Well Represented in Conservation
 =======================================================

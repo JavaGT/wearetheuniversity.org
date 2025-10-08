@@ -1,9 +1,12 @@
 ---
 slug: wairarapa-labour-candidate-denise-mackenzie
-title: "Wairarapa Labour Candidate -  Denise MacKenzie"
-date: 2004-10-20
-source-url: https://www.scoop.co.nz/stories/PO0410/S00192/wairarapa-labour-candidate-denise-mackenzie.htm
+title: Wairarapa Labour Candidate -  Denise MacKenzie
+date: 2004-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0410/S00192/wairarapa-labour-candidate-denise-mackenzie.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/10/20/wairarapa-labour-candidate-denise-mackenzie/index.html
+layout: layout.njk
 ---
 Wairarapa Labour Candidate - Denise MacKenzie
 =============================================

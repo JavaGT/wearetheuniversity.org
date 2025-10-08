@@ -1,9 +1,12 @@
 ---
 slug: legal-aid-for-czechs-a-joke-mark
-title: "Legal Aid For Czechs A Joke - Mark"
-date: 2004-01-30
-source-url: https://www.scoop.co.nz/stories/PA0401/S00305/legal-aid-for-czechs-a-joke-mark.htm
+title: Legal Aid For Czechs A Joke - Mark
+date: 2004-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00305/legal-aid-for-czechs-a-joke-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2004/01/30/legal-aid-for-czechs-a-joke-mark/index.html
+layout: layout.njk
 ---
 Legal Aid For Czechs A Joke - Mark
 ==================================

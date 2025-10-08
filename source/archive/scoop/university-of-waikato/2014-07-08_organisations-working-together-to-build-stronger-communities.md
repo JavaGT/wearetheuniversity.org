@@ -1,9 +1,13 @@
 ---
 slug: organisations-working-together-to-build-stronger-communities
-title: "Organisations working together to build stronger communities"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/ED1407/S00056/organisations-working-together-to-build-stronger-communities.htm
+title: Organisations working together to build stronger communities
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00056/organisations-working-together-to-build-stronger-communities.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/07/08/organisations-working-together-to-build-stronger-communities/index.html
+layout: layout.njk
 ---
 Organisations working together to build stronger communities
 ============================================================

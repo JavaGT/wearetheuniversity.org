@@ -1,9 +1,12 @@
 ---
 slug: steven-joyce-tries-to-silence-critics
-title: "Steven Joyce tries to silence critics"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/PA1403/S00269/steven-joyce-tries-to-silence-critics.htm
+title: Steven Joyce tries to silence critics
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00269/steven-joyce-tries-to-silence-critics.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/14/steven-joyce-tries-to-silence-critics/index.html
+layout: layout.njk
 ---
 Steven Joyce tries to silence critics
 =====================================

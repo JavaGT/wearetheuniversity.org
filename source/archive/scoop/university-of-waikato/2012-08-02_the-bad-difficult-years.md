@@ -1,9 +1,11 @@
 ---
 slug: the-bad-difficult-years
-title: "The Bad Difficult Years"
-date: 2012-08-02
+title: The Bad Difficult Years
+date: 2012-08-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1208/S00020/the-bad-difficult-years.htm
 author: university-of-waikato
+permalink: /archive/2012/08/02/the-bad-difficult-years/index.html
+layout: layout.njk
 ---
 The Bad Difficult Years
 =======================

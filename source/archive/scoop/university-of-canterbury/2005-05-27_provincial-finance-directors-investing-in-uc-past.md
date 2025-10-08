@@ -1,9 +1,13 @@
 ---
 slug: provincial-finance-directors-investing-in-uc-past
-title: "Provincial Finance directors investing in  UC past"
-date: 2005-05-27
-source-url: https://www.scoop.co.nz/stories/ED0505/S00124/provincial-finance-directors-investing-in-uc-past.htm
+title: Provincial Finance directors investing in  UC past
+date: 2005-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00124/provincial-finance-directors-investing-in-uc-past.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2005/05/27/provincial-finance-directors-investing-in-uc-past/index.html
+layout: layout.njk
 ---
 Provincial Finance directors investing in UC past
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: twyford-mia-while-canterbury-exporters-suffer
-title: "Twyford MIA while Canterbury exporters suffer"
-date: 2018-03-20
-source-url: https://www.scoop.co.nz/stories/PA1803/S00213/twyford-mia-while-canterbury-exporters-suffer.htm
+title: Twyford MIA while Canterbury exporters suffer
+date: 2018-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00213/twyford-mia-while-canterbury-exporters-suffer.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/20/twyford-mia-while-canterbury-exporters-suffer/index.html
+layout: layout.njk
 ---
 Twyford MIA while Canterbury exporters suffer
 =============================================

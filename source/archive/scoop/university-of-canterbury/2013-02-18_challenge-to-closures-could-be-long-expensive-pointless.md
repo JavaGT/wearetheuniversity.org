@@ -1,9 +1,13 @@
 ---
 slug: challenge-to-closures-could-be-long-expensive-pointless
-title: "Challenge to closures could be long, expensive, pointless"
-date: 2013-02-18
-source-url: https://www.scoop.co.nz/stories/ED1302/S00092/challenge-to-closures-could-be-long-expensive-pointless.htm
+title: Challenge to closures could be long, expensive, pointless
+date: 2013-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00092/challenge-to-closures-could-be-long-expensive-pointless.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/18/challenge-to-closures-could-be-long-expensive-pointless/index.html
+layout: layout.njk
 ---
 Challenge to closures could be long, expensive, pointless
 =========================================================

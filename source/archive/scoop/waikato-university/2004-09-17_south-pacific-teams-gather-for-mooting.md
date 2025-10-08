@@ -1,9 +1,12 @@
 ---
 slug: south-pacific-teams-gather-for-mooting
-title: "South Pacific Teams Gather For Mooting"
-date: 2004-09-17
-source-url: https://www.scoop.co.nz/stories/ED0409/S00077/south-pacific-teams-gather-for-mooting.htm
+title: South Pacific Teams Gather For Mooting
+date: 2004-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00077/south-pacific-teams-gather-for-mooting.htm
 author: waikato-university
+permalink: /archive/2004/09/17/south-pacific-teams-gather-for-mooting/index.html
+layout: layout.njk
 ---
 South Pacific Teams Gather For Mooting
 ======================================

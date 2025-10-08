@@ -1,9 +1,13 @@
 ---
 slug: experts-caution-on-advice-purporting-to-show-fat-is-good
-title: "Experts caution on advice purporting to show fat is good"
-date: 2013-10-30
-source-url: https://www.scoop.co.nz/stories/GE1310/S00164/experts-caution-on-advice-purporting-to-show-fat-is-good.htm
+title: Experts caution on advice purporting to show fat is good
+date: 2013-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1310/S00164/experts-caution-on-advice-purporting-to-show-fat-is-good.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/10/30/experts-caution-on-advice-purporting-to-show-fat-is-good/index.html
+layout: layout.njk
 ---
 Experts caution on advice purporting to show fat is good
 ========================================================

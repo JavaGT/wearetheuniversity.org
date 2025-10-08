@@ -1,9 +1,12 @@
 ---
 slug: footage-captures-kiwi-destroying-robin-nest
-title: "Footage captures kiwi destroying robin nest"
-date: 2015-12-04
-source-url: https://www.scoop.co.nz/stories/SC1512/S00026/footage-captures-kiwi-destroying-robin-nest.htm
+title: Footage captures kiwi destroying robin nest
+date: 2015-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00026/footage-captures-kiwi-destroying-robin-nest.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/12/04/footage-captures-kiwi-destroying-robin-nest/index.html
+layout: layout.njk
 ---
 Footage captures kiwi destroying robin nest
 ===========================================

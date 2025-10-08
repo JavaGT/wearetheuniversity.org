@@ -1,9 +1,13 @@
 ---
 slug: govt-moratorium-on-number-of-universities-welcome
-title: "Govt. Moratorium On Number Of Universities Welcome"
-date: 2000-05-16
-source-url: https://www.scoop.co.nz/stories/ED0005/S00024/govt-moratorium-on-number-of-universities-welcome.htm
+title: Govt. Moratorium On Number Of Universities Welcome
+date: 2000-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00024/govt-moratorium-on-number-of-universities-welcome.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2000/05/16/govt-moratorium-on-number-of-universities-welcome/index.html
+layout: layout.njk
 ---
 Govt. Moratorium On Number Of Universities Welcome
 ==================================================

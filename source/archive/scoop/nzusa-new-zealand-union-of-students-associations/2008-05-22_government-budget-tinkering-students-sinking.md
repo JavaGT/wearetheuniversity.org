@@ -1,9 +1,12 @@
 ---
 slug: government-budget-tinkering-students-sinking
-title: "Government Budget tinkering, students sinking"
-date: 2008-05-22
-source-url: https://www.scoop.co.nz/stories/PO0805/S00354/government-budget-tinkering-students-sinking.htm
+title: Government Budget tinkering, students sinking
+date: 2008-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0805/S00354/government-budget-tinkering-students-sinking.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/05/22/government-budget-tinkering-students-sinking/index.html
+layout: layout.njk
 ---
 Government Budget tinkering, students sinking
 =============================================

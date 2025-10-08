@@ -1,9 +1,13 @@
 ---
 slug: has-the-criminal-justice-system-been-compromised
-title: "Has the criminal justice system been compromised?"
-date: 2016-08-24
-source-url: https://www.scoop.co.nz/stories/PO1608/S00268/has-the-criminal-justice-system-been-compromised.htm
+title: Has the criminal justice system been compromised?
+date: 2016-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1608/S00268/has-the-criminal-justice-system-been-compromised.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/08/24/has-the-criminal-justice-system-been-compromised/index.html
+layout: layout.njk
 ---
 Has the criminal justice system been compromised?
 =================================================

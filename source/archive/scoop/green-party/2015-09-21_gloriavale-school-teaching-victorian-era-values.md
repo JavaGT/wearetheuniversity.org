@@ -1,9 +1,12 @@
 ---
 slug: gloriavale-school-teaching-victorian-era-values
-title: "Gloriavale School teaching Victorian-era values"
-date: 2015-09-21
-source-url: https://www.scoop.co.nz/stories/PA1509/S00347/gloriavale-school-teaching-victorian-era-values.htm
+title: Gloriavale School teaching Victorian-era values
+date: 2015-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00347/gloriavale-school-teaching-victorian-era-values.htm
 author: green-party
+permalink: /archive/2015/09/21/gloriavale-school-teaching-victorian-era-values/index.html
+layout: layout.njk
 ---
 Gloriavale School teaching Victorian-era values
 ===============================================

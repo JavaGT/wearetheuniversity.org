@@ -1,9 +1,12 @@
 ---
 slug: dont-rob-your-student-neighbour!
 title: \"Don't Rob Your Student Neighbour!\""
-date: 2000-08-28
-source-url: https://www.scoop.co.nz/stories/PO0008/S00166/dont-rob-your-student-neighbour.htm
+date: 2000-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0008/S00166/dont-rob-your-student-neighbour.htm
 author: fightback
+permalink: /archive/2000/08/28/dont-rob-your-student-neighbour/index.html
+layout: layout.njk
 ---
 Don't Rob Your Student Neighbour!"
 ==================================

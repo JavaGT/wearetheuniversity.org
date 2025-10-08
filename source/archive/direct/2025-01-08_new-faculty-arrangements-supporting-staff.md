@@ -1,9 +1,12 @@
 ---
-slug: "new-faculty-arrangements-supporting-staff"
-date: 2025-05-15
-source: "University of Auckland"
-source-url: https://www.auckland.ac.nz/en/intranet/stay-informed/improvement-projects-programmes/transition-new-faculty/new-faculty-arrangements-supporting-staff.html
-title: "New faculty arrangements: Supporting staff through change"
+slug: new-faculty-arrangements-supporting-staff
+date: 2025-05-15T00:00:00.000Z
+source: University of Auckland
+source-url: >-
+  https://www.auckland.ac.nz/en/intranet/stay-informed/improvement-projects-programmes/transition-new-faculty/new-faculty-arrangements-supporting-staff.html
+title: 'New faculty arrangements: Supporting staff through change'
+permalink: /archive/2025/05/15/new-faculty-arrangements-supporting-staff/index.html
+layout: layout.njk
 ---
 
 # New faculty arrangements: Supporting staff through change

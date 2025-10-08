@@ -1,9 +1,13 @@
 ---
 slug: census-puts-numbers-on-nats-callous-indifference-to-housing
-title: "Census puts numbers on Nats’ callous indifference to housing"
-date: 2015-07-08
-source-url: https://www.scoop.co.nz/stories/PA1507/S00150/census-puts-numbers-on-nats-callous-indifference-to-housing.htm
+title: Census puts numbers on Nats’ callous indifference to housing
+date: 2015-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00150/census-puts-numbers-on-nats-callous-indifference-to-housing.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/07/08/census-puts-numbers-on-nats-callous-indifference-to-housing/index.html
+layout: layout.njk
 ---
 Census puts numbers on Nats’ callous indifference to housing
 ============================================================

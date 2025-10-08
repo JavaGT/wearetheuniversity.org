@@ -1,9 +1,12 @@
 ---
 slug: massey-ranked-top-five-in-nz-employers
-title: "Massey Ranked Top Five in NZ Employers"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/BU1303/S00820/massey-ranked-top-five-in-nz-employers.htm
+title: Massey Ranked Top Five in NZ Employers
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1303/S00820/massey-ranked-top-five-in-nz-employers.htm
 author: massey-university
+permalink: /archive/2013/03/22/massey-ranked-top-five-in-nz-employers/index.html
+layout: layout.njk
 ---
 Massey Ranked Top Five in NZ Employers
 ======================================

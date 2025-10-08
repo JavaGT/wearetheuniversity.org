@@ -1,9 +1,13 @@
 ---
 slug: new-waikato-university-vice-chancellor-announced
-title: "New Waikato University Vice-Chancellor Announced"
-date: 2004-05-06
-source-url: https://www.scoop.co.nz/stories/ED0405/S00026/new-waikato-university-vice-chancellor-announced.htm
+title: New Waikato University Vice-Chancellor Announced
+date: 2004-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00026/new-waikato-university-vice-chancellor-announced.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/05/06/new-waikato-university-vice-chancellor-announced/index.html
+layout: layout.njk
 ---
 New Waikato University Vice-Chancellor Announced
 ================================================

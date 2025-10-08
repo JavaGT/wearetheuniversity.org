@@ -1,9 +1,12 @@
 ---
 slug: waikato-leads-the-way-with-online-advertising
-title: "Waikato leads the way with online advertising"
-date: 2009-03-12
-source-url: https://www.scoop.co.nz/stories/ED0903/S00040/waikato-leads-the-way-with-online-advertising.htm
+title: Waikato leads the way with online advertising
+date: 2009-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00040/waikato-leads-the-way-with-online-advertising.htm
 author: university-of-waikato
+permalink: /archive/2009/03/12/waikato-leads-the-way-with-online-advertising/index.html
+layout: layout.njk
 ---
 Waikato leads the way with online advertising
 =============================================

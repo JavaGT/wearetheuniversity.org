@@ -1,9 +1,13 @@
 ---
 slug: france-and-usp-sign-agreement-on-renewable-energy-projects
-title: "France and USP sign agreement on Renewable Energy Projects"
-date: 2011-06-23
-source-url: https://www.scoop.co.nz/stories/WO1106/S00537/france-and-usp-sign-agreement-on-renewable-energy-projects.htm
+title: France and USP sign agreement on Renewable Energy Projects
+date: 2011-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1106/S00537/france-and-usp-sign-agreement-on-renewable-energy-projects.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2011/06/23/france-and-usp-sign-agreement-on-renewable-energy-projects/index.html
+layout: layout.njk
 ---
 France and USP sign agreement on Renewable Energy Projects
 ==========================================================

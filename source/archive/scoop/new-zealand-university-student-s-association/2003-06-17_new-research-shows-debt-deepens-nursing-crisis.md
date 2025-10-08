@@ -1,9 +1,12 @@
 ---
 slug: new-research-shows-debt-deepens-nursing-crisis
-title: "New research shows debt  deepens nursing crisis"
-date: 2003-06-17
-source-url: https://www.scoop.co.nz/stories/ED0306/S00033/new-research-shows-debt-deepens-nursing-crisis.htm
+title: New research shows debt  deepens nursing crisis
+date: 2003-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00033/new-research-shows-debt-deepens-nursing-crisis.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/06/17/new-research-shows-debt-deepens-nursing-crisis/index.html
+layout: layout.njk
 ---
 New research shows debt deepens nursing crisis
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: university-of-auckland-votes-for-fee-hikes-yet-again
-title: "University of Auckland votes for fee hikes, yet again"
-date: 2014-10-21
-source-url: https://www.scoop.co.nz/stories/AK1410/S00539/university-of-auckland-votes-for-fee-hikes-yet-again.htm
+title: University of Auckland votes for fee hikes, yet again
+date: 2014-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1410/S00539/university-of-auckland-votes-for-fee-hikes-yet-again.htm
 author: ausa
+permalink: >-
+  /archive/2014/10/21/university-of-auckland-votes-for-fee-hikes-yet-again/index.html
+layout: layout.njk
 ---
 University of Auckland votes for fee hikes, yet again
 =====================================================

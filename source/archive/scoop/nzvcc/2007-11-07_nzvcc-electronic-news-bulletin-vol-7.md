@@ -1,9 +1,12 @@
 ---
 slug: nzvcc-electronic-news-bulletin-vol-7
-title: "NZVCC Electronic News Bulletin - Vol. 7"
-date: 2007-11-07
-source-url: https://www.scoop.co.nz/stories/ED0711/S00039/nzvcc-electronic-news-bulletin-vol-7.htm
+title: NZVCC Electronic News Bulletin - Vol. 7
+date: 2007-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00039/nzvcc-electronic-news-bulletin-vol-7.htm
 author: nzvcc
+permalink: /archive/2007/11/07/nzvcc-electronic-news-bulletin-vol-7/index.html
+layout: layout.njk
 ---
 NZVCC Electronic News Bulletin - Vol. 7
 =======================================

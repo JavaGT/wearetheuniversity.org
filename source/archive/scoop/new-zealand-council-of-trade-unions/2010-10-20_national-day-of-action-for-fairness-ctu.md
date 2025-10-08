@@ -1,9 +1,12 @@
 ---
 slug: national-day-of-action-for-fairness-ctu
-title: "National Day of Action for Fairness – CTU"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PO1010/S00203/national-day-of-action-for-fairness-ctu.htm
+title: National Day of Action for Fairness – CTU
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00203/national-day-of-action-for-fairness-ctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/10/20/national-day-of-action-for-fairness-ctu/index.html
+layout: layout.njk
 ---
 National Day of Action for Fairness – CTU
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: ryall-can-save-christchurch-youth-health-service
-title: "Ryall can save Christchurch youth health service"
-date: 2010-03-10
-source-url: https://www.scoop.co.nz/stories/PA1003/S00139/ryall-can-save-christchurch-youth-health-service.htm
+title: Ryall can save Christchurch youth health service
+date: 2010-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00139/ryall-can-save-christchurch-youth-health-service.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/03/10/ryall-can-save-christchurch-youth-health-service/index.html
+layout: layout.njk
 ---
 Ryall can save Christchurch youth health service
 ================================================

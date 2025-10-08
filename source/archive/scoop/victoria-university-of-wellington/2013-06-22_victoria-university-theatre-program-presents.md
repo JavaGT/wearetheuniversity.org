@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-theatre-program-presents
-title: "Victoria University Theatre Program presents"
-date: 2013-06-22
-source-url: https://www.scoop.co.nz/stories/CU1306/S00311/victoria-university-theatre-program-presents.htm
+title: Victoria University Theatre Program presents
+date: 2013-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1306/S00311/victoria-university-theatre-program-presents.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/06/22/victoria-university-theatre-program-presents/index.html
+layout: layout.njk
 ---
 Victoria University Theatre Program presents
 ============================================

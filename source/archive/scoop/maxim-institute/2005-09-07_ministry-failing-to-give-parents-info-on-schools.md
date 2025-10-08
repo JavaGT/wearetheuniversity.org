@@ -1,9 +1,13 @@
 ---
 slug: ministry-failing-to-give-parents-info-on-schools
-title: "Ministry failing to give parents info on schools"
-date: 2005-09-07
-source-url: https://www.scoop.co.nz/stories/ED0509/S00015/ministry-failing-to-give-parents-info-on-schools.htm
+title: Ministry failing to give parents info on schools
+date: 2005-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00015/ministry-failing-to-give-parents-info-on-schools.htm
 author: maxim-institute
+permalink: >-
+  /archive/2005/09/07/ministry-failing-to-give-parents-info-on-schools/index.html
+layout: layout.njk
 ---
 Ministry failing to give parents info on schools
 ================================================

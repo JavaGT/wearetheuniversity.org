@@ -1,9 +1,13 @@
 ---
 slug: writer-tracey-hill-awarded-glenn-schaeffer-award
-title: "Writer Tracey Hill awarded Glenn Schaeffer Award"
-date: 2004-02-10
-source-url: https://www.scoop.co.nz/stories/ED0402/S00015/writer-tracey-hill-awarded-glenn-schaeffer-award.htm
+title: Writer Tracey Hill awarded Glenn Schaeffer Award
+date: 2004-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00015/writer-tracey-hill-awarded-glenn-schaeffer-award.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/02/10/writer-tracey-hill-awarded-glenn-schaeffer-award/index.html
+layout: layout.njk
 ---
 Writer Tracey Hill awarded Glenn Schaeffer Award
 ================================================

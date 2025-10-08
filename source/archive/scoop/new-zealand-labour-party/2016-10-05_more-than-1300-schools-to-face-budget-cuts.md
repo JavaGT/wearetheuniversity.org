@@ -1,9 +1,12 @@
 ---
 slug: more-than-1300-schools-to-face-budget-cuts
-title: "More than 1,300 schools to face budget cuts"
-date: 2016-10-05
-source-url: https://www.scoop.co.nz/stories/PA1610/S00050/more-than-1300-schools-to-face-budget-cuts.htm
+title: More than 1,300 schools to face budget cuts
+date: 2016-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00050/more-than-1300-schools-to-face-budget-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/10/05/more-than-1300-schools-to-face-budget-cuts/index.html
+layout: layout.njk
 ---
 More than 1,300 schools to face budget cuts
 ===========================================

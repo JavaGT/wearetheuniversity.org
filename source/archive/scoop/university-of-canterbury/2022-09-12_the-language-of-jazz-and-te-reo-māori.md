@@ -1,9 +1,12 @@
 ---
 slug: the-language-of-jazz-and-te-reo-māori
-title: "The Language Of Jazz And Te Reo Māori"
-date: 2022-09-12
-source-url: https://www.scoop.co.nz/stories/CU2209/S00088/the-language-of-jazz-and-te-reo-maori.htm
+title: The Language Of Jazz And Te Reo Māori
+date: 2022-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2209/S00088/the-language-of-jazz-and-te-reo-maori.htm
 author: university-of-canterbury
+permalink: /archive/2022/09/12/the-language-of-jazz-and-te-reo-m/index.html
+layout: layout.njk
 ---
 The Language Of Jazz And Te Reo Māori
 =====================================

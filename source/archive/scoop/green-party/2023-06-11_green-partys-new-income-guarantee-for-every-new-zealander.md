@@ -1,9 +1,13 @@
 ---
 slug: green-partys-new-income-guarantee-for-every-new-zealander
-title: "Green Party’s new Income Guarantee for every New Zealander"
-date: 2023-06-11
-source-url: https://www.scoop.co.nz/stories/PO2306/S00080/green-partys-new-income-guarantee-for-every-new-zealander.htm
+title: Green Party’s new Income Guarantee for every New Zealander
+date: 2023-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00080/green-partys-new-income-guarantee-for-every-new-zealander.htm
 author: green-party
+permalink: >-
+  /archive/2023/06/11/green-partys-new-income-guarantee-for-every-new-zealander/index.html
+layout: layout.njk
 ---
 Green Party’s new Income Guarantee for every New Zealander
 ==========================================================

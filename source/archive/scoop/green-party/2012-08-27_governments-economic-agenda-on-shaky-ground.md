@@ -1,9 +1,12 @@
 ---
 slug: governments-economic-agenda-on-shaky-ground
-title: "Government’s economic agenda on shaky ground"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/PA1208/S00388/governments-economic-agenda-on-shaky-ground.htm
+title: Government’s economic agenda on shaky ground
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00388/governments-economic-agenda-on-shaky-ground.htm
 author: green-party
+permalink: /archive/2012/08/27/governments-economic-agenda-on-shaky-ground/index.html
+layout: layout.njk
 ---
 Government’s economic agenda on shaky ground
 ============================================

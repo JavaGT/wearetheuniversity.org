@@ -1,9 +1,12 @@
 ---
 slug: free-press-14-may-the-teachers-mega-strike
-title: "Free Press, 14 May - The Teachers' Mega-Strike"
-date: 2019-05-14
-source-url: https://www.scoop.co.nz/stories/PO1905/S00192/free-press-14-may-the-teachers-mega-strike.htm
+title: Free Press, 14 May - The Teachers' Mega-Strike
+date: 2019-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1905/S00192/free-press-14-may-the-teachers-mega-strike.htm
 author: act-new-zealand
+permalink: /archive/2019/05/14/free-press-14-may-the-teachers-mega-strike/index.html
+layout: layout.njk
 ---
 Free Press, 14 May - The Teachers' Mega-Strike
 ==============================================

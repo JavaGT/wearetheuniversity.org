@@ -1,9 +1,12 @@
 ---
 slug: joyce-must-step-in-to-avoid-perfect-storm
-title: "Joyce must step in to avoid  perfect storm"
-date: 2010-08-10
-source-url: https://www.scoop.co.nz/stories/PA1008/S00156/joyce-must-step-in-to-avoid-perfect-storm.htm
+title: Joyce must step in to avoid  perfect storm
+date: 2010-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00156/joyce-must-step-in-to-avoid-perfect-storm.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/10/joyce-must-step-in-to-avoid-perfect-storm/index.html
+layout: layout.njk
 ---
 Joyce must step in to avoid perfect storm
 =========================================

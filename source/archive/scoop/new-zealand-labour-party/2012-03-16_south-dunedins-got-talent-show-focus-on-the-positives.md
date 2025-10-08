@@ -1,9 +1,13 @@
 ---
 slug: south-dunedins-got-talent-show-focus-on-the-positives
-title: "South Dunedin’s Got Talent Show focus on the positives"
-date: 2012-03-16
-source-url: https://www.scoop.co.nz/stories/PA1203/S00228/south-dunedins-got-talent-show-focus-on-the-positives.htm
+title: South Dunedin’s Got Talent Show focus on the positives
+date: 2012-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00228/south-dunedins-got-talent-show-focus-on-the-positives.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/03/16/south-dunedins-got-talent-show-focus-on-the-positives/index.html
+layout: layout.njk
 ---
 South Dunedin’s Got Talent Show focus on the positives
 ======================================================

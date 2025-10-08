@@ -1,9 +1,11 @@
 ---
 slug: māori-party-announces-list
-title: "Māori Party Announces List"
-date: 2017-08-30
+title: Māori Party Announces List
+date: 2017-08-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1708/S00609/maori-party-announces-list.htm
 author: te-pati-maori
+permalink: /archive/2017/08/30/m/index.html
+layout: layout.njk
 ---
 Māori Party Announces List
 ==========================

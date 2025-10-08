@@ -1,9 +1,12 @@
 ---
 slug: cunliffe-offers-more-of-the-same
-title: "Cunliffe offers more of the same"
-date: 2007-11-06
-source-url: https://www.scoop.co.nz/stories/PA0711/S00085/cunliffe-offers-more-of-the-same.htm
+title: Cunliffe offers more of the same
+date: 2007-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00085/cunliffe-offers-more-of-the-same.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/06/cunliffe-offers-more-of-the-same/index.html
+layout: layout.njk
 ---
 Cunliffe offers more of the same
 ================================

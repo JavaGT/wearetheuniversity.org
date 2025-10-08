@@ -1,9 +1,12 @@
 ---
 slug: continued-cuts-in-acc-compensation-payments
-title: "Continued cuts in ACC compensation payments"
-date: 2010-05-07
-source-url: https://www.scoop.co.nz/stories/BU1005/S00211/continued-cuts-in-acc-compensation-payments.htm
+title: Continued cuts in ACC compensation payments
+date: 2010-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1005/S00211/continued-cuts-in-acc-compensation-payments.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/05/07/continued-cuts-in-acc-compensation-payments/index.html
+layout: layout.njk
 ---
 Continued cuts in ACC compensation payments
 ===========================================

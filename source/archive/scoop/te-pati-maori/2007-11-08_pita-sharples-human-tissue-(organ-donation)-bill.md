@@ -1,9 +1,12 @@
 ---
 slug: pita-sharples-human-tissue-(organ-donation)-bill
-title: "Pita Sharples - Human Tissue (Organ Donation) Bill"
-date: 2007-11-08
-source-url: https://www.scoop.co.nz/stories/PA0711/S00127/pita-sharples-human-tissue-organ-donation-bill.htm
+title: Pita Sharples - Human Tissue (Organ Donation) Bill
+date: 2007-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00127/pita-sharples-human-tissue-organ-donation-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/11/08/pita-sharples-human-tissue-/index.html
+layout: layout.njk
 ---
 Pita Sharples - Human Tissue (Organ Donation) Bill
 ==================================================

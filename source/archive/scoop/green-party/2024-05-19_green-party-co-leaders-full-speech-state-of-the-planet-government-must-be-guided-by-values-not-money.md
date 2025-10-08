@@ -1,9 +1,16 @@
 ---
-slug: green-party-co-leaders-full-speech-state-of-the-planet-government-must-be-guided-by-values-not-money
-title: "Green Party Co-Leaders Full Speech: State Of The Planet: Government Must Be Guided By Values Not Money"
-date: 2024-05-19
-source-url: https://www.scoop.co.nz/stories/PA2405/S00134/green-party-co-leaders-full-speech-state-of-the-planet-government-must-be-guided-by-values-not-money.htm
+slug: >-
+  green-party-co-leaders-full-speech-state-of-the-planet-government-must-be-guided-by-values-not-money
+title: >-
+  Green Party Co-Leaders Full Speech: State Of The Planet: Government Must Be
+  Guided By Values Not Money
+date: 2024-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00134/green-party-co-leaders-full-speech-state-of-the-planet-government-must-be-guided-by-values-not-money.htm
 author: green-party
+permalink: >-
+  /archive/2024/05/19/green-party-co-leaders-full-speech-state-of-the-planet-government-must-be-guided-by-values-not-money/index.html
+layout: layout.njk
 ---
 Green Party Co-Leaders Full Speech: State Of The Planet: Government Must Be Guided By Values Not Money
 ======================================================================================================

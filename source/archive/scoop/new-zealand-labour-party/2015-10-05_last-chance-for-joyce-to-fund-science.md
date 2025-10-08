@@ -1,9 +1,12 @@
 ---
 slug: last-chance-for-joyce-to-fund-science
-title: "Last chance for Joyce to fund science"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/PA1510/S00041/last-chance-for-joyce-to-fund-science.htm
+title: Last chance for Joyce to fund science
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00041/last-chance-for-joyce-to-fund-science.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/05/last-chance-for-joyce-to-fund-science/index.html
+layout: layout.njk
 ---
 Last chance for Joyce to fund science
 =====================================

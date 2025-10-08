@@ -1,9 +1,12 @@
 ---
 slug: meridian-commended-for-water-deal
-title: "Meridian Commended For Water Deal"
-date: 2004-12-02
-source-url: https://www.scoop.co.nz/stories/PA0412/S00076/meridian-commended-for-water-deal.htm
+title: Meridian Commended For Water Deal
+date: 2004-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00076/meridian-commended-for-water-deal.htm
 author: new-zealand-first-party
+permalink: /archive/2004/12/02/meridian-commended-for-water-deal/index.html
+layout: layout.njk
 ---
 Meridian Commended For Water Deal
 =================================

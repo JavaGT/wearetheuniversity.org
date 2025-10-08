@@ -1,9 +1,13 @@
 ---
 slug: high-tea-to-celebrate-albany-scholarship-winners
-title: "High tea to celebrate Albany scholarship winners"
-date: 2014-07-02
-source-url: https://www.scoop.co.nz/stories/ED1407/S00021/high-tea-to-celebrate-albany-scholarship-winners.htm
+title: High tea to celebrate Albany scholarship winners
+date: 2014-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00021/high-tea-to-celebrate-albany-scholarship-winners.htm
 author: massey-university
+permalink: >-
+  /archive/2014/07/02/high-tea-to-celebrate-albany-scholarship-winners/index.html
+layout: layout.njk
 ---
 High tea to celebrate Albany scholarship winners
 ================================================

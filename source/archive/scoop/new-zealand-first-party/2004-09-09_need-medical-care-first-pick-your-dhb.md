@@ -1,9 +1,12 @@
 ---
 slug: need-medical-care-first-pick-your-dhb
-title: "Need Medical Care?  First Pick Your DHB"
-date: 2004-09-09
-source-url: https://www.scoop.co.nz/stories/PA0409/S00188/need-medical-care-first-pick-your-dhb.htm
+title: Need Medical Care?  First Pick Your DHB
+date: 2004-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00188/need-medical-care-first-pick-your-dhb.htm
 author: new-zealand-first-party
+permalink: /archive/2004/09/09/need-medical-care-first-pick-your-dhb/index.html
+layout: layout.njk
 ---
 Need Medical Care? First Pick Your DHB
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: back-down-on-student-loans-a-victory-for-common-sense
-title: "Back Down on Student Loans a Victory for Common Sense"
-date: 2015-12-02
-source-url: https://www.scoop.co.nz/stories/PA1512/S00033/back-down-on-student-loans-a-victory-for-common-sense.htm
+title: Back Down on Student Loans a Victory for Common Sense
+date: 2015-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00033/back-down-on-student-loans-a-victory-for-common-sense.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/12/02/back-down-on-student-loans-a-victory-for-common-sense/index.html
+layout: layout.njk
 ---
 Back Down on Student Loans a Victory for Common Sense
 =====================================================

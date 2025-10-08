@@ -1,9 +1,12 @@
 ---
 slug: healthy-writing-on-the-menu-at-massey
-title: "Healthy writing on the menu at Massey"
-date: 2014-01-21
-source-url: https://www.scoop.co.nz/stories/SC1401/S00043/healthy-writing-on-the-menu-at-massey.htm
+title: Healthy writing on the menu at Massey
+date: 2014-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00043/healthy-writing-on-the-menu-at-massey.htm
 author: massey-university
+permalink: /archive/2014/01/21/healthy-writing-on-the-menu-at-massey/index.html
+layout: layout.njk
 ---
 Healthy writing on the menu at Massey
 =====================================

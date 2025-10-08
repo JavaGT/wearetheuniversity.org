@@ -1,9 +1,12 @@
 ---
 slug: election-of-first-maori-president
-title: "Election of first Maori President"
-date: 2006-10-06
-source-url: https://www.scoop.co.nz/stories/ED0610/S00020/election-of-first-maori-president.htm
+title: Election of first Maori President
+date: 2006-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00020/election-of-first-maori-president.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2006/10/06/election-of-first-maori-president/index.html
+layout: layout.njk
 ---
 Election of first Maori President
 =================================

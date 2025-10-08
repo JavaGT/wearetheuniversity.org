@@ -1,9 +1,12 @@
 ---
 slug: nats-object-to-doc-engaging-ad-agency
-title: "Nats object to DOC engaging ad agency"
-date: 2008-08-14
-source-url: https://www.scoop.co.nz/stories/PA0808/S00228/nats-object-to-doc-engaging-ad-agency.htm
+title: Nats object to DOC engaging ad agency
+date: 2008-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00228/nats-object-to-doc-engaging-ad-agency.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/14/nats-object-to-doc-engaging-ad-agency/index.html
+layout: layout.njk
 ---
 Nats object to DOC engaging ad agency
 =====================================

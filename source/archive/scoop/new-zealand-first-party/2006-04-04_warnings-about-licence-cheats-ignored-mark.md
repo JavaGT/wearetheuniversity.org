@@ -1,9 +1,12 @@
 ---
 slug: warnings-about-licence-cheats-ignored-mark
-title: "Warnings About Licence Cheats Ignored - Mark"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/PA0604/S00041/warnings-about-licence-cheats-ignored-mark.htm
+title: Warnings About Licence Cheats Ignored - Mark
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00041/warnings-about-licence-cheats-ignored-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2006/04/04/warnings-about-licence-cheats-ignored-mark/index.html
+layout: layout.njk
 ---
 Warnings About Licence Cheats Ignored - Mark
 ============================================

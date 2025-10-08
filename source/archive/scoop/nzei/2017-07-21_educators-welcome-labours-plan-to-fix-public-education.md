@@ -1,9 +1,13 @@
 ---
 slug: educators-welcome-labours-plan-to-fix-public-education
-title: "Educators welcome Labour's plan to fix public education"
-date: 2017-07-21
-source-url: https://www.scoop.co.nz/stories/PO1707/S00304/educators-welcome-labours-plan-to-fix-public-education.htm
+title: Educators welcome Labour's plan to fix public education
+date: 2017-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00304/educators-welcome-labours-plan-to-fix-public-education.htm
 author: nzei
+permalink: >-
+  /archive/2017/07/21/educators-welcome-labours-plan-to-fix-public-education/index.html
+layout: layout.njk
 ---
 Educators welcome Labour's plan to fix public education
 =======================================================

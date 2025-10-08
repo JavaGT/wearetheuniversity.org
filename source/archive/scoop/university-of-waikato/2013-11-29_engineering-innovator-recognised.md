@@ -1,9 +1,12 @@
 ---
 slug: engineering-innovator-recognised
-title: "Engineering innovator recognised"
-date: 2013-11-29
-source-url: https://www.scoop.co.nz/stories/ED1311/S00207/engineering-innovator-recognised.htm
+title: Engineering innovator recognised
+date: 2013-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00207/engineering-innovator-recognised.htm
 author: university-of-waikato
+permalink: /archive/2013/11/29/engineering-innovator-recognised/index.html
+layout: layout.njk
 ---
 Engineering innovator recognised
 ================================

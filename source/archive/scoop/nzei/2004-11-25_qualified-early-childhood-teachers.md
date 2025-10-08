@@ -1,9 +1,12 @@
 ---
 slug: qualified-early-childhood-teachers
-title: "Qualified Early Childhood Teachers"
-date: 2004-11-25
-source-url: https://www.scoop.co.nz/stories/ED0411/S00080/qualified-early-childhood-teachers.htm
+title: Qualified Early Childhood Teachers
+date: 2004-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00080/qualified-early-childhood-teachers.htm
 author: nzei
+permalink: /archive/2004/11/25/qualified-early-childhood-teachers/index.html
+layout: layout.njk
 ---
 Qualified Early Childhood Teachers
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: serious-consequences-for-nz-if-war-in-korea-breaks-out
-title: "Serious Consequences For NZ If War In Korea Breaks Out"
-date: 2013-04-17
-source-url: https://www.scoop.co.nz/stories/ED1304/S00107/serious-consequences-for-nz-if-war-in-korea-breaks-out.htm
+title: Serious Consequences For NZ If War In Korea Breaks Out
+date: 2013-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00107/serious-consequences-for-nz-if-war-in-korea-breaks-out.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/17/serious-consequences-for-nz-if-war-in-korea-breaks-out/index.html
+layout: layout.njk
 ---
 Serious Consequences For NZ If War In Korea Breaks Out
 ======================================================

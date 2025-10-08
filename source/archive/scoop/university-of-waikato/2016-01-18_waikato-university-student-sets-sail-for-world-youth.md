@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-student-sets-sail-for-world-youth
-title: "Waikato University Student Sets Sail for World Youth"
-date: 2016-01-18
-source-url: https://www.scoop.co.nz/stories/ED1601/S00018/waikato-university-student-sets-sail-for-world-youth.htm
+title: Waikato University Student Sets Sail for World Youth
+date: 2016-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00018/waikato-university-student-sets-sail-for-world-youth.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/01/18/waikato-university-student-sets-sail-for-world-youth/index.html
+layout: layout.njk
 ---
 Waikato University Student Sets Sail for World Youth
 ====================================================

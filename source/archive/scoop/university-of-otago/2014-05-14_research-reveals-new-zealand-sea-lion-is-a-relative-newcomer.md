@@ -1,9 +1,13 @@
 ---
 slug: research-reveals-new-zealand-sea-lion-is-a-relative-newcomer
-title: "Research reveals New Zealand sea lion is a relative newcomer"
-date: 2014-05-14
-source-url: https://www.scoop.co.nz/stories/SC1405/S00036/research-reveals-new-zealand-sea-lion-is-a-relative-newcomer.htm
+title: Research reveals New Zealand sea lion is a relative newcomer
+date: 2014-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1405/S00036/research-reveals-new-zealand-sea-lion-is-a-relative-newcomer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/05/14/research-reveals-new-zealand-sea-lion-is-a-relative-newcomer/index.html
+layout: layout.njk
 ---
 Research reveals New Zealand sea lion is a relative newcomer
 ============================================================

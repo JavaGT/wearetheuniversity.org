@@ -1,9 +1,13 @@
 ---
 slug: redcliffs-school-announcement-good-news-for-community
-title: "Redcliffs School announcement good news for community"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/PA1607/S00122/redcliffs-school-announcement-good-news-for-community.htm
+title: Redcliffs School announcement good news for community
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00122/redcliffs-school-announcement-good-news-for-community.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/07/07/redcliffs-school-announcement-good-news-for-community/index.html
+layout: layout.njk
 ---
 Redcliffs School announcement good news for community
 =====================================================

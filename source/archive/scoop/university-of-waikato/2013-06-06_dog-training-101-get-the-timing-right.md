@@ -1,9 +1,12 @@
 ---
 slug: dog-training-101-get-the-timing-right
-title: "Dog Training 101: Get the Timing Right"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/ED1306/S00028/dog-training-101-get-the-timing-right.htm
+title: 'Dog Training 101: Get the Timing Right'
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00028/dog-training-101-get-the-timing-right.htm
 author: university-of-waikato
+permalink: /archive/2013/06/06/dog-training-101-get-the-timing-right/index.html
+layout: layout.njk
 ---
 Dog Training 101: Get the Timing Right
 ======================================

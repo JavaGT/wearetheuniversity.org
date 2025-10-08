@@ -1,9 +1,12 @@
 ---
 slug: labour-will-fund-aucklands-skypath
-title: "Labour will fund Auckland’s Skypath"
-date: 2017-08-25
-source-url: https://www.scoop.co.nz/stories/PA1708/S00470/labour-will-fund-aucklands-skypath.htm
+title: Labour will fund Auckland’s Skypath
+date: 2017-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00470/labour-will-fund-aucklands-skypath.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/25/labour-will-fund-aucklands-skypath/index.html
+layout: layout.njk
 ---
 Labour will fund Auckland’s Skypath
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: message-to-the-incoming-government
-title: "Message to the Incoming Government"
-date: 2005-09-26
-source-url: https://www.scoop.co.nz/stories/ED0509/S00079/message-to-the-incoming-government.htm
+title: Message to the Incoming Government
+date: 2005-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00079/message-to-the-incoming-government.htm
 author: nzei
+permalink: /archive/2005/09/26/message-to-the-incoming-government/index.html
+layout: layout.njk
 ---
 Message to the Incoming Government
 ==================================

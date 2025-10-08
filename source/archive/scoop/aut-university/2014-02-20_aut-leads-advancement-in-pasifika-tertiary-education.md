@@ -1,9 +1,13 @@
 ---
 slug: aut-leads-advancement-in-pasifika-tertiary-education
-title: "AUT leads advancement in Pasifika tertiary education"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/ED1402/S00088/aut-leads-advancement-in-pasifika-tertiary-education.htm
+title: AUT leads advancement in Pasifika tertiary education
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00088/aut-leads-advancement-in-pasifika-tertiary-education.htm
 author: aut-university
+permalink: >-
+  /archive/2014/02/20/aut-leads-advancement-in-pasifika-tertiary-education/index.html
+layout: layout.njk
 ---
 AUT leads advancement in Pasifika tertiary education
 ====================================================

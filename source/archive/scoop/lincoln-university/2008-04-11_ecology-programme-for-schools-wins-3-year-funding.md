@@ -1,9 +1,13 @@
 ---
 slug: ecology-programme-for-schools-wins-3-year-funding
-title: "Ecology Programme for Schools Wins 3-Year Funding"
-date: 2008-04-11
-source-url: https://www.scoop.co.nz/stories/ED0804/S00034/ecology-programme-for-schools-wins-3-year-funding.htm
+title: Ecology Programme for Schools Wins 3-Year Funding
+date: 2008-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00034/ecology-programme-for-schools-wins-3-year-funding.htm
 author: lincoln-university
+permalink: >-
+  /archive/2008/04/11/ecology-programme-for-schools-wins-3-year-funding/index.html
+layout: layout.njk
 ---
 Ecology Programme for Schools Wins 3-Year Funding
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: iconic-vote-for-me-billboard-goes-viral
-title: "Iconic 'Vote For Me' Billboard goes viral"
-date: 2008-11-01
-source-url: https://www.scoop.co.nz/stories/PO0811/S00001/iconic-vote-for-me-billboard-goes-viral.htm
+title: Iconic 'Vote For Me' Billboard goes viral
+date: 2008-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00001/iconic-vote-for-me-billboard-goes-viral.htm
 author: green-party
+permalink: /archive/2008/11/01/iconic-vote-for-me-billboard-goes-viral/index.html
+layout: layout.njk
 ---
 Iconic 'Vote For Me' Billboard goes viral
 =========================================

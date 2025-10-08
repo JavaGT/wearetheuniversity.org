@@ -1,9 +1,13 @@
 ---
 slug: are-antibacterial-products-doing-more-harm-than-good
-title: "Are antibacterial products doing more harm than good?"
-date: 2015-11-10
-source-url: https://www.scoop.co.nz/stories/SC1511/S00036/are-antibacterial-products-doing-more-harm-than-good.htm
+title: Are antibacterial products doing more harm than good?
+date: 2015-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00036/are-antibacterial-products-doing-more-harm-than-good.htm
 author: massey-university
+permalink: >-
+  /archive/2015/11/10/are-antibacterial-products-doing-more-harm-than-good/index.html
+layout: layout.njk
 ---
 Are antibacterial products doing more harm than good?
 =====================================================

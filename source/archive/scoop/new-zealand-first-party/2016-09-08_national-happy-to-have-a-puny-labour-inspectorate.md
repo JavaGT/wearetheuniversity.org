@@ -1,9 +1,13 @@
 ---
 slug: national-happy-to-have-a-puny-labour-inspectorate
-title: "National Happy to Have a Puny Labour Inspectorate"
-date: 2016-09-08
-source-url: https://www.scoop.co.nz/stories/PA1609/S00152/national-happy-to-have-a-puny-labour-inspectorate.htm
+title: National Happy to Have a Puny Labour Inspectorate
+date: 2016-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00152/national-happy-to-have-a-puny-labour-inspectorate.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/09/08/national-happy-to-have-a-puny-labour-inspectorate/index.html
+layout: layout.njk
 ---
 National Happy to Have a Puny Labour Inspectorate
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: auckland-and-christchurch-drivers-exposed-to-poor-air
-title: "Auckland and Christchurch drivers exposed to poor air"
-date: 2013-07-29
-source-url: https://www.scoop.co.nz/stories/AK1307/S00727/auckland-and-christchurch-drivers-exposed-to-poor-air.htm
+title: Auckland and Christchurch drivers exposed to poor air
+date: 2013-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00727/auckland-and-christchurch-drivers-exposed-to-poor-air.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/29/auckland-and-christchurch-drivers-exposed-to-poor-air/index.html
+layout: layout.njk
 ---
 Auckland and Christchurch drivers exposed to poor air
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-stories-show-studylink-stinks
-title: "Students’ stories show StudyLink stinks"
-date: 2013-05-06
-source-url: https://www.scoop.co.nz/stories/PA1305/S00057/students-stories-show-studylink-stinks.htm
+title: Students’ stories show StudyLink stinks
+date: 2013-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00057/students-stories-show-studylink-stinks.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/06/students-stories-show-studylink-stinks/index.html
+layout: layout.njk
 ---
 Students’ stories show StudyLink stinks
 =======================================

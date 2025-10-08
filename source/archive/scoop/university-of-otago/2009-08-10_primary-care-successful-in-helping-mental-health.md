@@ -1,9 +1,13 @@
 ---
 slug: primary-care-successful-in-helping-mental-health
-title: "Primary Care successful in helping mental health"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/GE0908/S00047/primary-care-successful-in-helping-mental-health.htm
+title: Primary Care successful in helping mental health
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0908/S00047/primary-care-successful-in-helping-mental-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/08/10/primary-care-successful-in-helping-mental-health/index.html
+layout: layout.njk
 ---
 Primary Care successful in helping mental health
 ================================================

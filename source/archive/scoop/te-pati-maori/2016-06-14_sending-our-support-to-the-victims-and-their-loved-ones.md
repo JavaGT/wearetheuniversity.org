@@ -1,9 +1,13 @@
 ---
 slug: sending-our-support-to-the-victims-and-their-loved-ones
-title: "Sending our support to the victims and their loved ones"
-date: 2016-06-14
-source-url: https://www.scoop.co.nz/stories/PA1606/S00236/sending-our-support-to-the-victims-and-their-loved-ones.htm
+title: Sending our support to the victims and their loved ones
+date: 2016-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00236/sending-our-support-to-the-victims-and-their-loved-ones.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2016/06/14/sending-our-support-to-the-victims-and-their-loved-ones/index.html
+layout: layout.njk
 ---
 Sending our support to the victims and their loved ones
 =======================================================

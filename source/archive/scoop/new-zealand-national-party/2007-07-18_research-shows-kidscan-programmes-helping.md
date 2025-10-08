@@ -1,9 +1,12 @@
 ---
 slug: research-shows-kidscan-programmes-helping
-title: "Research shows KidsCan programmes helping"
-date: 2007-07-18
-source-url: https://www.scoop.co.nz/stories/PA0707/S00274/research-shows-kidscan-programmes-helping.htm
+title: Research shows KidsCan programmes helping
+date: 2007-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00274/research-shows-kidscan-programmes-helping.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/18/research-shows-kidscan-programmes-helping/index.html
+layout: layout.njk
 ---
 Research shows KidsCan programmes helping
 =========================================

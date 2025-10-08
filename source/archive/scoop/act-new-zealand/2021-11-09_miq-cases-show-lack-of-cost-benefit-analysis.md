@@ -1,9 +1,12 @@
 ---
 slug: miq-cases-show-lack-of-cost-benefit-analysis
-title: "MIQ Cases Show Lack Of Cost Benefit Analysis"
-date: 2021-11-09
-source-url: https://www.scoop.co.nz/stories/PA2111/S00099/miq-cases-show-lack-of-cost-benefit-analysis.htm
+title: MIQ Cases Show Lack Of Cost Benefit Analysis
+date: 2021-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00099/miq-cases-show-lack-of-cost-benefit-analysis.htm
 author: act-new-zealand
+permalink: /archive/2021/11/09/miq-cases-show-lack-of-cost-benefit-analysis/index.html
+layout: layout.njk
 ---
 MIQ Cases Show Lack Of Cost Benefit Analysis
 ============================================

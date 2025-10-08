@@ -1,9 +1,12 @@
 ---
 slug: artist-sets-sights-on-new-zealand-glacier
-title: "Artist sets sights on New Zealand glacier"
-date: 2015-02-20
-source-url: https://www.scoop.co.nz/stories/CU1502/S00439/artist-sets-sights-on-new-zealand-glacier.htm
+title: Artist sets sights on New Zealand glacier
+date: 2015-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00439/artist-sets-sights-on-new-zealand-glacier.htm
 author: massey-university
+permalink: /archive/2015/02/20/artist-sets-sights-on-new-zealand-glacier/index.html
+layout: layout.njk
 ---
 Artist sets sights on New Zealand glacier
 =========================================

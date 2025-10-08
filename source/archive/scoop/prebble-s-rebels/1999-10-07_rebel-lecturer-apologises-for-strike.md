@@ -1,9 +1,12 @@
 ---
 slug: rebel-lecturer-apologises-for-strike
-title: "Rebel Lecturer Apologises For Strike"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PO9910/S00027/rebel-lecturer-apologises-for-strike.htm
+title: Rebel Lecturer Apologises For Strike
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9910/S00027/rebel-lecturer-apologises-for-strike.htm
 author: prebble-s-rebels
+permalink: /archive/1999/10/07/rebel-lecturer-apologises-for-strike/index.html
+layout: layout.njk
 ---
 Rebel Lecturer Apologises For Strike
 ====================================

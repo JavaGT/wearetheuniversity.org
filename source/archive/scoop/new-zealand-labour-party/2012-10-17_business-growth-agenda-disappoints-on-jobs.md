@@ -1,9 +1,12 @@
 ---
 slug: business-growth-agenda-disappoints-on-jobs
-title: "Business Growth Agenda disappoints on jobs"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/PA1210/S00289/business-growth-agenda-disappoints-on-jobs.htm
+title: Business Growth Agenda disappoints on jobs
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00289/business-growth-agenda-disappoints-on-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/17/business-growth-agenda-disappoints-on-jobs/index.html
+layout: layout.njk
 ---
 Business Growth Agenda disappoints on jobs
 ==========================================

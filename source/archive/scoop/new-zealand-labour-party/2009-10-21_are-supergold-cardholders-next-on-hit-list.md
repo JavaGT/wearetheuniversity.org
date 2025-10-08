@@ -1,9 +1,12 @@
 ---
 slug: are-supergold-cardholders-next-on-hit-list
-title: "Are SuperGold cardholders next on hit list?"
-date: 2009-10-21
-source-url: https://www.scoop.co.nz/stories/PA0910/S00308/are-supergold-cardholders-next-on-hit-list.htm
+title: Are SuperGold cardholders next on hit list?
+date: 2009-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00308/are-supergold-cardholders-next-on-hit-list.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/21/are-supergold-cardholders-next-on-hit-list/index.html
+layout: layout.njk
 ---
 Are SuperGold cardholders next on hit list?
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: pay-or-delay-smith-tells-govt-on-ncea
-title: "Pay or Delay, Smith tells Govt on NCEA"
-date: 2001-11-23
-source-url: https://www.scoop.co.nz/stories/PA0111/S00410/pay-or-delay-smith-tells-govt-on-ncea.htm
+title: Pay or Delay, Smith tells Govt on NCEA
+date: 2001-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00410/pay-or-delay-smith-tells-govt-on-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/23/pay-or-delay-smith-tells-govt-on-ncea/index.html
+layout: layout.njk
 ---
 Pay or Delay, Smith tells Govt on NCEA
 ======================================

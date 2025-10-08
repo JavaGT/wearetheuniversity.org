@@ -1,9 +1,11 @@
 ---
 slug: taewa-harvest-underway
-title: "Taewa harvest underway"
-date: 2008-04-10
+title: Taewa harvest underway
+date: 2008-04-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0804/S00031/taewa-harvest-underway.htm
 author: massey-university
+permalink: /archive/2008/04/10/taewa-harvest-underway/index.html
+layout: layout.njk
 ---
 Taewa harvest underway
 ======================

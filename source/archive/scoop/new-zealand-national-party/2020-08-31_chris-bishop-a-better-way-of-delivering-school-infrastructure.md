@@ -1,9 +1,13 @@
 ---
 slug: chris-bishop-a-better-way-of-delivering-school-infrastructure
-title: "Chris Bishop - A Better Way Of Delivering School Infrastructure"
-date: 2020-08-31
-source-url: https://www.scoop.co.nz/stories/PA2008/S00241/chris-bishop-a-better-way-of-delivering-school-infrastructure.htm
+title: Chris Bishop - A Better Way Of Delivering School Infrastructure
+date: 2020-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00241/chris-bishop-a-better-way-of-delivering-school-infrastructure.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/31/chris-bishop-a-better-way-of-delivering-school-infrastructure/index.html
+layout: layout.njk
 ---
 Chris Bishop - A Better Way Of Delivering School Infrastructure
 ===============================================================

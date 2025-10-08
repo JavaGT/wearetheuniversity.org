@@ -1,9 +1,12 @@
 ---
 slug: world-recession-how-is-new-zealand-faring
-title: "World Recession: How is New Zealand Faring?"
-date: 2010-08-28
-source-url: https://www.scoop.co.nz/stories/PA1008/S00454/world-recession-how-is-new-zealand-faring.htm
+title: 'World Recession: How is New Zealand Faring?'
+date: 2010-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00454/world-recession-how-is-new-zealand-faring.htm
 author: act-new-zealand
+permalink: /archive/2010/08/28/world-recession-how-is-new-zealand-faring/index.html
+layout: layout.njk
 ---
 World Recession: How is New Zealand Faring?
 ===========================================

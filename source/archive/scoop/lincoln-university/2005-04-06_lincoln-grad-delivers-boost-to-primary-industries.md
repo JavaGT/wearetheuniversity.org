@@ -1,9 +1,13 @@
 ---
 slug: lincoln-grad-delivers-boost-to-primary-industries
-title: "Lincoln grad delivers boost to primary industries"
-date: 2005-04-06
-source-url: https://www.scoop.co.nz/stories/ED0504/S00012/lincoln-grad-delivers-boost-to-primary-industries.htm
+title: Lincoln grad delivers boost to primary industries
+date: 2005-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00012/lincoln-grad-delivers-boost-to-primary-industries.htm
 author: lincoln-university
+permalink: >-
+  /archive/2005/04/06/lincoln-grad-delivers-boost-to-primary-industries/index.html
+layout: layout.njk
 ---
 Lincoln grad delivers boost to primary industries
 =================================================

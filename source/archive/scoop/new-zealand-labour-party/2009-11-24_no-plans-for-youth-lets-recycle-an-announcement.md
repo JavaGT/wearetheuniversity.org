@@ -1,9 +1,12 @@
 ---
 slug: no-plans-for-youth-lets-recycle-an-announcement
-title: "No plans for youth? Let’s recycle an announcement"
-date: 2009-11-24
-source-url: https://www.scoop.co.nz/stories/PA0911/S00348/no-plans-for-youth-lets-recycle-an-announcement.htm
+title: No plans for youth? Let’s recycle an announcement
+date: 2009-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00348/no-plans-for-youth-lets-recycle-an-announcement.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/24/no-plans-for-youth-lets-recycle-an-announcement/index.html
+layout: layout.njk
 ---
 No plans for youth? Let’s recycle an announcement
 =================================================

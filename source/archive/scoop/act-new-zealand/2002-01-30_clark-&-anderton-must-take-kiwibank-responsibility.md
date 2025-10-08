@@ -1,9 +1,12 @@
 ---
 slug: clark-&-anderton-must-take-kiwibank-responsibility
-title: "Clark & Anderton Must Take Kiwibank Responsibility"
-date: 2002-01-30
-source-url: https://www.scoop.co.nz/stories/PA0201/S00230/clark-anderton-must-take-kiwibank-responsibility.htm
+title: Clark & Anderton Must Take Kiwibank Responsibility
+date: 2002-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00230/clark-anderton-must-take-kiwibank-responsibility.htm
 author: act-new-zealand
+permalink: /archive/2002/01/30/clark-/index.html
+layout: layout.njk
 ---
 Clark & Anderton Must Take Kiwibank Responsibility
 ==================================================

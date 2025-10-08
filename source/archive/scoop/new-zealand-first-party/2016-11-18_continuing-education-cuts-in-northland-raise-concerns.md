@@ -1,9 +1,13 @@
 ---
 slug: continuing-education-cuts-in-northland-raise-concerns
-title: "Continuing Education Cuts in Northland Raise Concerns"
-date: 2016-11-18
-source-url: https://www.scoop.co.nz/stories/PA1611/S00346/continuing-education-cuts-in-northland-raise-concerns.htm
+title: Continuing Education Cuts in Northland Raise Concerns
+date: 2016-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00346/continuing-education-cuts-in-northland-raise-concerns.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/18/continuing-education-cuts-in-northland-raise-concerns/index.html
+layout: layout.njk
 ---
 Continuing Education Cuts in Northland Raise Concerns
 =====================================================

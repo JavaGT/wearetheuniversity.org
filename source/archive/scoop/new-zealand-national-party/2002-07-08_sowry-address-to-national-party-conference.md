@@ -1,9 +1,12 @@
 ---
 slug: sowry-address-to-national-party-conference
-title: "Sowry Address to National Party Conference"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/PA0207/S00207/sowry-address-to-national-party-conference.htm
+title: Sowry Address to National Party Conference
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00207/sowry-address-to-national-party-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/08/sowry-address-to-national-party-conference/index.html
+layout: layout.njk
 ---
 Sowry Address to National Party Conference
 ==========================================

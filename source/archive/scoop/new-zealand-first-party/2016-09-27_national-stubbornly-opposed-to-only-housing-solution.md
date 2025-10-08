@@ -1,9 +1,13 @@
 ---
 slug: national-stubbornly-opposed-to-only-housing-solution
-title: "National Stubbornly Opposed to Only Housing Solution"
-date: 2016-09-27
-source-url: https://www.scoop.co.nz/stories/PA1609/S00468/national-stubbornly-opposed-to-only-housing-solution.htm
+title: National Stubbornly Opposed to Only Housing Solution
+date: 2016-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00468/national-stubbornly-opposed-to-only-housing-solution.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/09/27/national-stubbornly-opposed-to-only-housing-solution/index.html
+layout: layout.njk
 ---
 National Stubbornly Opposed to Only Housing Solution
 ====================================================

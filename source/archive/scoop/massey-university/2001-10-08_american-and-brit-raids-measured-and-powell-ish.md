@@ -1,9 +1,12 @@
 ---
 slug: american-and-brit-raids-measured-and-powell-ish
-title: "American and Brit. Raids \"Measured and Powell-ish\""
-date: 2001-10-08
-source-url: https://www.scoop.co.nz/stories/WO0110/S00033/american-and-brit-raids-measured-and-powell-ish.htm
+title: American and Brit. Raids "Measured and Powell-ish"
+date: 2001-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0110/S00033/american-and-brit-raids-measured-and-powell-ish.htm
 author: massey-university
+permalink: /archive/2001/10/08/american-and-brit-raids-measured-and-powell-ish/index.html
+layout: layout.njk
 ---
 American and Brit. Raids \"Measured and Powell-ish"
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: lincoln-unis-rural-leaders-programme-a-family-tradition
-title: "Lincoln Uni’s rural leaders programme a family tradition"
-date: 2013-05-31
-source-url: https://www.scoop.co.nz/stories/ED1305/S00204/lincoln-unis-rural-leaders-programme-a-family-tradition.htm
+title: Lincoln Uni’s rural leaders programme a family tradition
+date: 2013-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00204/lincoln-unis-rural-leaders-programme-a-family-tradition.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/05/31/lincoln-unis-rural-leaders-programme-a-family-tradition/index.html
+layout: layout.njk
 ---
 Lincoln Uni’s rural leaders programme a family tradition
 ========================================================

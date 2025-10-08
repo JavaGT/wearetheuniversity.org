@@ -1,9 +1,12 @@
 ---
 slug: govt-aspiring-to-mine-another-national-park
-title: "Govt aspiring to mine another National Park"
-date: 2009-11-30
-source-url: https://www.scoop.co.nz/stories/PA0911/S00472/govt-aspiring-to-mine-another-national-park.htm
+title: Govt aspiring to mine another National Park
+date: 2009-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00472/govt-aspiring-to-mine-another-national-park.htm
 author: green-party
+permalink: /archive/2009/11/30/govt-aspiring-to-mine-another-national-park/index.html
+layout: layout.njk
 ---
 Govt aspiring to mine another National Park
 ===========================================

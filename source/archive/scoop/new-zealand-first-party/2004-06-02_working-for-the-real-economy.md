@@ -1,9 +1,11 @@
 ---
 slug: working-for-the-real-economy
-title: "Working For The Real Economy"
-date: 2004-06-02
+title: Working For The Real Economy
+date: 2004-06-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0406/S00043/working-for-the-real-economy.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/02/working-for-the-real-economy/index.html
+layout: layout.njk
 ---
 Working For The Real Economy
 ============================

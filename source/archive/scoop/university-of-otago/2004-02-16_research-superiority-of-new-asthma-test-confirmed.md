@@ -1,9 +1,13 @@
 ---
 slug: research-superiority-of-new-asthma-test-confirmed
-title: "Research: Superiority Of New Asthma Test Confirmed"
-date: 2004-02-16
-source-url: https://www.scoop.co.nz/stories/GE0402/S00043/research-superiority-of-new-asthma-test-confirmed.htm
+title: 'Research: Superiority Of New Asthma Test Confirmed'
+date: 2004-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0402/S00043/research-superiority-of-new-asthma-test-confirmed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/02/16/research-superiority-of-new-asthma-test-confirmed/index.html
+layout: layout.njk
 ---
 Research: Superiority Of New Asthma Test Confirmed
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: first-post-tensioned-timber-building-opens-in-christchurch
-title: "First post-tensioned timber building opens in Christchurch"
-date: 2014-03-10
-source-url: https://www.scoop.co.nz/stories/AK1403/S00230/first-post-tensioned-timber-building-opens-in-christchurch.htm
+title: First post-tensioned timber building opens in Christchurch
+date: 2014-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00230/first-post-tensioned-timber-building-opens-in-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/10/first-post-tensioned-timber-building-opens-in-christchurch/index.html
+layout: layout.njk
 ---
 First post-tensioned timber building opens in Christchurch
 ==========================================================

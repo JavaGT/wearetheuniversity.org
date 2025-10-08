@@ -1,9 +1,13 @@
 ---
 slug: revolutionising-the-construction-industry-one-panel-at-a-time
-title: "Revolutionising The Construction Industry One Panel At A Time"
-date: 2022-05-10
-source-url: https://www.scoop.co.nz/stories/SC2205/S00015/revolutionising-the-construction-industry-one-panel-at-a-time.htm
+title: Revolutionising The Construction Industry One Panel At A Time
+date: 2022-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2205/S00015/revolutionising-the-construction-industry-one-panel-at-a-time.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/10/revolutionising-the-construction-industry-one-panel-at-a-time/index.html
+layout: layout.njk
 ---
 Revolutionising The Construction Industry One Panel At A Time
 =============================================================

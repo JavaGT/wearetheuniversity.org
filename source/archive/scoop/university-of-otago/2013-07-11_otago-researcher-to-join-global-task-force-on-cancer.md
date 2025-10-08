@@ -1,9 +1,13 @@
 ---
 slug: otago-researcher-to-join-global-task-force-on-cancer
-title: "Otago researcher to join global task force on cancer"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/SC1307/S00030/otago-researcher-to-join-global-task-force-on-cancer.htm
+title: Otago researcher to join global task force on cancer
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00030/otago-researcher-to-join-global-task-force-on-cancer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/11/otago-researcher-to-join-global-task-force-on-cancer/index.html
+layout: layout.njk
 ---
 Otago researcher to join global task force on cancer
 ====================================================

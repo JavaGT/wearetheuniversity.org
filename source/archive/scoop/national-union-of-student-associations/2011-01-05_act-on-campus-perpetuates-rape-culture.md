@@ -1,9 +1,12 @@
 ---
 slug: act-on-campus-perpetuates-rape-culture
-title: "ACT on Campus perpetuates rape culture"
-date: 2011-01-05
-source-url: https://www.scoop.co.nz/stories/PO1101/S00007/act-on-campus-perpetuates-rape-culture.htm
+title: ACT on Campus perpetuates rape culture
+date: 2011-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1101/S00007/act-on-campus-perpetuates-rape-culture.htm
 author: national-union-of-student-associations
+permalink: /archive/2011/01/05/act-on-campus-perpetuates-rape-culture/index.html
+layout: layout.njk
 ---
 ACT on Campus perpetuates rape culture
 ======================================

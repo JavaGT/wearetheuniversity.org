@@ -1,9 +1,11 @@
 ---
 slug: acts-the-letter-is-posted
-title: "ACT's The Letter is Posted"
-date: 2005-03-01
+title: ACT's The Letter is Posted
+date: 2005-03-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0503/S00006/acts-the-letter-is-posted.htm
 author: act-new-zealand
+permalink: /archive/2005/03/01/acts-the-letter-is-posted/index.html
+layout: layout.njk
 ---
 ACT's The Letter is Posted
 ==========================

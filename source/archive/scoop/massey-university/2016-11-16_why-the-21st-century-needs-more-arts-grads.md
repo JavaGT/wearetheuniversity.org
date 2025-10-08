@@ -1,9 +1,12 @@
 ---
 slug: why-the-21st-century-needs-more-arts-grads
-title: "Why the 21st century needs more arts grads"
-date: 2016-11-16
-source-url: https://www.scoop.co.nz/stories/ED1611/S00068/why-the-21st-century-needs-more-arts-grads.htm
+title: Why the 21st century needs more arts grads
+date: 2016-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00068/why-the-21st-century-needs-more-arts-grads.htm
 author: massey-university
+permalink: /archive/2016/11/16/why-the-21st-century-needs-more-arts-grads/index.html
+layout: layout.njk
 ---
 Why the 21st century needs more arts grads
 ==========================================

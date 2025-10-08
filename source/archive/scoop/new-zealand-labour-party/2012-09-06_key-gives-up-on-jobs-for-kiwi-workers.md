@@ -1,9 +1,12 @@
 ---
 slug: key-gives-up-on-jobs-for-kiwi-workers
-title: "Key gives up on jobs for Kiwi workers"
-date: 2012-09-06
-source-url: https://www.scoop.co.nz/stories/PA1209/S00083/key-gives-up-on-jobs-for-kiwi-workers.htm
+title: Key gives up on jobs for Kiwi workers
+date: 2012-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00083/key-gives-up-on-jobs-for-kiwi-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/06/key-gives-up-on-jobs-for-kiwi-workers/index.html
+layout: layout.njk
 ---
 Key gives up on jobs for Kiwi workers
 =====================================

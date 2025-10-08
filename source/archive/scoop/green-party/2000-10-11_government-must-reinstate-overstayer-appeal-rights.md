@@ -1,9 +1,13 @@
 ---
 slug: government-must-reinstate-overstayer-appeal-rights
-title: "Government must reinstate overstayer appeal rights"
-date: 2000-10-11
-source-url: https://www.scoop.co.nz/stories/PA0010/S00244/government-must-reinstate-overstayer-appeal-rights.htm
+title: Government must reinstate overstayer appeal rights
+date: 2000-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00244/government-must-reinstate-overstayer-appeal-rights.htm
 author: green-party
+permalink: >-
+  /archive/2000/10/11/government-must-reinstate-overstayer-appeal-rights/index.html
+layout: layout.njk
 ---
 Government must reinstate overstayer appeal rights
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-commits-to-gender-pay-parity-research-and-action
-title: "UC Commits To Gender Pay Parity Research And Action"
-date: 2020-03-05
-source-url: https://www.scoop.co.nz/stories/PO2003/S00051/uc-commits-to-gender-pay-parity-research-and-action.htm
+title: UC Commits To Gender Pay Parity Research And Action
+date: 2020-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2003/S00051/uc-commits-to-gender-pay-parity-research-and-action.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/03/05/uc-commits-to-gender-pay-parity-research-and-action/index.html
+layout: layout.njk
 ---
 UC Commits To Gender Pay Parity Research And Action
 ===================================================

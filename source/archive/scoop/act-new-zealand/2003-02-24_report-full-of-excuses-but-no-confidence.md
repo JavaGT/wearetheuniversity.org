@@ -1,9 +1,12 @@
 ---
 slug: report-full-of-excuses-but-no-confidence
-title: "Report Full Of Excuses, But No Confidence"
-date: 2003-02-24
-source-url: https://www.scoop.co.nz/stories/PA0302/S00409/report-full-of-excuses-but-no-confidence.htm
+title: Report Full Of Excuses, But No Confidence
+date: 2003-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00409/report-full-of-excuses-but-no-confidence.htm
 author: act-new-zealand
+permalink: /archive/2003/02/24/report-full-of-excuses-but-no-confidence/index.html
+layout: layout.njk
 ---
 Report Full Of Excuses, But No Confidence
 =========================================

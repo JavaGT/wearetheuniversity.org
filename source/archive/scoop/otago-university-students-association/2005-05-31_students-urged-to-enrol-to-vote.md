@@ -1,9 +1,12 @@
 ---
 slug: students-urged-to-enrol-to-vote
-title: "Students Urged to Enrol to Vote"
-date: 2005-05-31
-source-url: https://www.scoop.co.nz/stories/ED0505/S00134/students-urged-to-enrol-to-vote.htm
+title: Students Urged to Enrol to Vote
+date: 2005-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00134/students-urged-to-enrol-to-vote.htm
 author: otago-university-students-association
+permalink: /archive/2005/05/31/students-urged-to-enrol-to-vote/index.html
+layout: layout.njk
 ---
 Students Urged to Enrol to Vote
 ===============================

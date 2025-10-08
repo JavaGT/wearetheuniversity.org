@@ -1,9 +1,13 @@
 ---
 slug: govt-boasts-of-taxpayer-subsidies-for-water-polluters
-title: "Govt boasts of taxpayer subsidies for water polluters"
-date: 2011-08-22
-source-url: https://www.scoop.co.nz/stories/PA1108/S00448/govt-boasts-of-taxpayer-subsidies-for-water-polluters.htm
+title: Govt boasts of taxpayer subsidies for water polluters
+date: 2011-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00448/govt-boasts-of-taxpayer-subsidies-for-water-polluters.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/22/govt-boasts-of-taxpayer-subsidies-for-water-polluters/index.html
+layout: layout.njk
 ---
 Govt boasts of taxpayer subsidies for water polluters
 =====================================================

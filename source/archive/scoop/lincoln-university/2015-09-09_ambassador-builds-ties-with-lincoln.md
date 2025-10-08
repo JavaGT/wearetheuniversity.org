@@ -1,9 +1,12 @@
 ---
 slug: ambassador-builds-ties-with-lincoln
-title: "Ambassador builds ties with Lincoln"
-date: 2015-09-09
-source-url: https://www.scoop.co.nz/stories/ED1509/S00051/ambassador-builds-ties-with-lincoln.htm
+title: Ambassador builds ties with Lincoln
+date: 2015-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00051/ambassador-builds-ties-with-lincoln.htm
 author: lincoln-university
+permalink: /archive/2015/09/09/ambassador-builds-ties-with-lincoln/index.html
+layout: layout.njk
 ---
 Ambassador builds ties with Lincoln
 ===================================

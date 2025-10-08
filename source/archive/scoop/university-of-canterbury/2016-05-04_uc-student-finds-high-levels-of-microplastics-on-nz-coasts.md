@@ -1,9 +1,13 @@
 ---
 slug: uc-student-finds-high-levels-of-microplastics-on-nz-coasts
-title: "UC student finds high levels of microplastics on NZ coasts"
-date: 2016-05-04
-source-url: https://www.scoop.co.nz/stories/SC1605/S00006/uc-student-finds-high-levels-of-microplastics-on-nz-coasts.htm
+title: UC student finds high levels of microplastics on NZ coasts
+date: 2016-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00006/uc-student-finds-high-levels-of-microplastics-on-nz-coasts.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/04/uc-student-finds-high-levels-of-microplastics-on-nz-coasts/index.html
+layout: layout.njk
 ---
 UC student finds high levels of microplastics on NZ coasts
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: congratulations-bill-english-so-whats-new
-title: "Congratulations Bill English: so what’s new?"
-date: 2016-12-12
-source-url: https://www.scoop.co.nz/stories/PA1612/S00190/congratulations-bill-english-so-whats-new.htm
+title: 'Congratulations Bill English: so what’s new?'
+date: 2016-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00190/congratulations-bill-english-so-whats-new.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/12/12/congratulations-bill-english-so-whats-new/index.html
+layout: layout.njk
 ---
 Congratulations Bill English: so what’s new?
 ============================================

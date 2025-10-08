@@ -1,9 +1,12 @@
 ---
 slug: media-advisory-public-lecture-by-jane-kelsey
-title: "Media Advisory - Public lecture by Jane Kelsey"
-date: 2004-04-06
-source-url: https://www.scoop.co.nz/stories/PO0404/S00037/media-advisory-public-lecture-by-jane-kelsey.htm
+title: Media Advisory - Public lecture by Jane Kelsey
+date: 2004-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0404/S00037/media-advisory-public-lecture-by-jane-kelsey.htm
 author: university-of-the-south-pacific
+permalink: /archive/2004/04/06/media-advisory-public-lecture-by-jane-kelsey/index.html
+layout: layout.njk
 ---
 Media Advisory - Public lecture by Jane Kelsey
 ==============================================

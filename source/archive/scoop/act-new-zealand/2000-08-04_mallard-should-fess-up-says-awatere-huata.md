@@ -1,9 +1,12 @@
 ---
 slug: mallard-should-fess-up-says-awatere-huata
-title: "Mallard Should \"Fess Up\" Says Awatere Huata"
-date: 2000-08-04
-source-url: https://www.scoop.co.nz/stories/PA0008/S00095/mallard-should-fess-up-says-awatere-huata.htm
+title: Mallard Should "Fess Up" Says Awatere Huata
+date: 2000-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00095/mallard-should-fess-up-says-awatere-huata.htm
 author: act-new-zealand
+permalink: /archive/2000/08/04/mallard-should-fess-up-says-awatere-huata/index.html
+layout: layout.njk
 ---
 Mallard Should “Fess Up” Says Awatere Huata
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-motorsport-race-cars-impress-at-international-contest
-title: "UC Motorsport race cars impress at international contest"
-date: 2018-12-10
-source-url: https://www.scoop.co.nz/stories/ED1812/S00027/uc-motorsport-race-cars-impress-at-international-contest.htm
+title: UC Motorsport race cars impress at international contest
+date: 2018-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1812/S00027/uc-motorsport-race-cars-impress-at-international-contest.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/12/10/uc-motorsport-race-cars-impress-at-international-contest/index.html
+layout: layout.njk
 ---
 UC Motorsport race cars impress at international contest
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: turia-supports-call-of-hastings-kaumatua
-title: "Turia Supports Call of Hastings Kaumatua"
-date: 2010-01-22
-source-url: https://www.scoop.co.nz/stories/PA1001/S00088/turia-supports-call-of-hastings-kaumatua.htm
+title: Turia Supports Call of Hastings Kaumatua
+date: 2010-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00088/turia-supports-call-of-hastings-kaumatua.htm
 author: te-pati-maori
+permalink: /archive/2010/01/22/turia-supports-call-of-hastings-kaumatua/index.html
+layout: layout.njk
 ---
 Turia Supports Call of Hastings Kaumatua
 ========================================

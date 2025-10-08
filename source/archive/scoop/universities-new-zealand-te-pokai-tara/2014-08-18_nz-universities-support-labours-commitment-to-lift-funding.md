@@ -1,9 +1,13 @@
 ---
 slug: nz-universities-support-labours-commitment-to-lift-funding
-title: "NZ universities support Labour’s commitment to lift funding"
-date: 2014-08-18
-source-url: https://www.scoop.co.nz/stories/ED1408/S00091/nz-universities-support-labours-commitment-to-lift-funding.htm
+title: NZ universities support Labour’s commitment to lift funding
+date: 2014-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00091/nz-universities-support-labours-commitment-to-lift-funding.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2014/08/18/nz-universities-support-labours-commitment-to-lift-funding/index.html
+layout: layout.njk
 ---
 NZ universities support Labour’s commitment to lift funding
 ===========================================================

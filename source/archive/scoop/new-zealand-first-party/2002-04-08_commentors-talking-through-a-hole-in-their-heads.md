@@ -1,9 +1,13 @@
 ---
 slug: commentors-talking-through-a-hole-in-their-heads
-title: "Commentors Talking Through A Hole In Their Heads"
-date: 2002-04-08
-source-url: https://www.scoop.co.nz/stories/PA0204/S00085/commentors-talking-through-a-hole-in-their-heads.htm
+title: Commentors Talking Through A Hole In Their Heads
+date: 2002-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00085/commentors-talking-through-a-hole-in-their-heads.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2002/04/08/commentors-talking-through-a-hole-in-their-heads/index.html
+layout: layout.njk
 ---
 Commentors Talking Through A Hole In Their Heads
 ================================================

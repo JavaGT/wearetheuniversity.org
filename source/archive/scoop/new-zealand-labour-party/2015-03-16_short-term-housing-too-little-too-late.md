@@ -1,9 +1,12 @@
 ---
 slug: short-term-housing-too-little-too-late
-title: "Short term housing too little, too late"
-date: 2015-03-16
-source-url: https://www.scoop.co.nz/stories/PA1503/S00220/short-term-housing-too-little-too-late.htm
+title: Short term housing too little, too late
+date: 2015-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00220/short-term-housing-too-little-too-late.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/16/short-term-housing-too-little-too-late/index.html
+layout: layout.njk
 ---
 Short term housing too little, too late
 =======================================

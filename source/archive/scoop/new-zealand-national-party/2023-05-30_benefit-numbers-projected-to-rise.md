@@ -1,9 +1,12 @@
 ---
 slug: benefit-numbers-projected-to-rise
-title: "Benefit Numbers Projected To Rise"
-date: 2023-05-30
-source-url: https://www.scoop.co.nz/stories/PA2305/S00221/benefit-numbers-projected-to-rise.htm
+title: Benefit Numbers Projected To Rise
+date: 2023-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00221/benefit-numbers-projected-to-rise.htm
 author: new-zealand-national-party
+permalink: /archive/2023/05/30/benefit-numbers-projected-to-rise/index.html
+layout: layout.njk
 ---
 Benefit Numbers Projected To Rise
 =================================

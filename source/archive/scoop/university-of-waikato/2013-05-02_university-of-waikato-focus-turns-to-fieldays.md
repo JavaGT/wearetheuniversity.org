@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-focus-turns-to-fieldays
-title: "University of Waikato Focus Turns to Fieldays"
-date: 2013-05-02
-source-url: https://www.scoop.co.nz/stories/BU1305/S00071/university-of-waikato-focus-turns-to-fieldays.htm
+title: University of Waikato Focus Turns to Fieldays
+date: 2013-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1305/S00071/university-of-waikato-focus-turns-to-fieldays.htm
 author: university-of-waikato
+permalink: /archive/2013/05/02/university-of-waikato-focus-turns-to-fieldays/index.html
+layout: layout.njk
 ---
 University of Waikato Focus Turns to Fieldays
 =============================================

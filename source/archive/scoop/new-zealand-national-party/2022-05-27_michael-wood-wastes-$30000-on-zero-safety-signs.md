@@ -1,9 +1,12 @@
 ---
 slug: michael-wood-wastes-$30000-on-zero-safety-signs
-title: "Michael Wood Wastes $30,000 On Zero Safety Signs"
-date: 2022-05-27
-source-url: https://www.scoop.co.nz/stories/PA2205/S00275/michael-wood-wastes-30000-on-zero-safety-signs.htm
+title: Michael Wood Wastes $30,000 On Zero Safety Signs
+date: 2022-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00275/michael-wood-wastes-30000-on-zero-safety-signs.htm
 author: new-zealand-national-party
+permalink: /archive/2022/05/27/michael-wood-wastes-/index.html
+layout: layout.njk
 ---
 Michael Wood Wastes $30,000 On Zero Safety Signs
 ================================================

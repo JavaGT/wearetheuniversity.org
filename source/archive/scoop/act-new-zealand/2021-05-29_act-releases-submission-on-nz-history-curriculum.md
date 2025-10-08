@@ -1,9 +1,13 @@
 ---
 slug: act-releases-submission-on-nz-history-curriculum
-title: "ACT Releases Submission On NZ History Curriculum"
-date: 2021-05-29
-source-url: https://www.scoop.co.nz/stories/PA2105/S00251/act-releases-submission-on-nz-history-curriculum.htm
+title: ACT Releases Submission On NZ History Curriculum
+date: 2021-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00251/act-releases-submission-on-nz-history-curriculum.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/05/29/act-releases-submission-on-nz-history-curriculum/index.html
+layout: layout.njk
 ---
 ACT Releases Submission On NZ History Curriculum
 ================================================

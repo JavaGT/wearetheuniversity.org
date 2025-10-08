@@ -1,9 +1,12 @@
 ---
 slug: change-nothing-and-nothing-changes
-title: "Change nothing --- and nothing changes"
-date: 2011-10-02
-source-url: https://www.scoop.co.nz/stories/PA1110/S00007/change-nothing-and-nothing-changes.htm
+title: Change nothing --- and nothing changes
+date: 2011-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00007/change-nothing-and-nothing-changes.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/02/change-nothing-and-nothing-changes/index.html
+layout: layout.njk
 ---
 Change nothing --- and nothing changes
 ======================================

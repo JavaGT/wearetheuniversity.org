@@ -1,9 +1,12 @@
 ---
 slug: symposium-on-violence-prevention
-title: "Symposium on Violence Prevention"
-date: 2009-04-03
-source-url: https://www.scoop.co.nz/stories/PA0904/S00065/symposium-on-violence-prevention.htm
+title: Symposium on Violence Prevention
+date: 2009-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00065/symposium-on-violence-prevention.htm
 author: te-pati-maori
+permalink: /archive/2009/04/03/symposium-on-violence-prevention/index.html
+layout: layout.njk
 ---
 Symposium on Violence Prevention
 ================================

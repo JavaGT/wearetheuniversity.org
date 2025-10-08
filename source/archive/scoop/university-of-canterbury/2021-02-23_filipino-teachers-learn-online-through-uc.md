@@ -1,9 +1,12 @@
 ---
 slug: filipino-teachers-learn-online-through-uc
-title: "Filipino Teachers Learn Online Through UC"
-date: 2021-02-23
-source-url: https://www.scoop.co.nz/stories/ED2102/S00033/filipino-teachers-learn-online-through-uc.htm
+title: Filipino Teachers Learn Online Through UC
+date: 2021-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2102/S00033/filipino-teachers-learn-online-through-uc.htm
 author: university-of-canterbury
+permalink: /archive/2021/02/23/filipino-teachers-learn-online-through-uc/index.html
+layout: layout.njk
 ---
 Filipino Teachers Learn Online Through UC
 =========================================

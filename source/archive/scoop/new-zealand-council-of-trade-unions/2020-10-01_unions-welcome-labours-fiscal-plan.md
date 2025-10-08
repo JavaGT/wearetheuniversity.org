@@ -1,9 +1,12 @@
 ---
 slug: unions-welcome-labours-fiscal-plan
-title: "Unions Welcome Labour's Fiscal Plan"
-date: 2020-10-01
-source-url: https://www.scoop.co.nz/stories/PO2010/S00011/unions-welcome-labours-fiscal-plan.htm
+title: Unions Welcome Labour's Fiscal Plan
+date: 2020-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00011/unions-welcome-labours-fiscal-plan.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2020/10/01/unions-welcome-labours-fiscal-plan/index.html
+layout: layout.njk
 ---
 Unions Welcome Labour's Fiscal Plan
 ===================================

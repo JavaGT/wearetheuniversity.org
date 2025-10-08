@@ -1,9 +1,12 @@
 ---
 slug: brownlee-busted-with-facts-that-dont-stack-up
-title: "Brownlee busted with facts that don’t stack up"
-date: 2012-10-19
-source-url: https://www.scoop.co.nz/stories/PA1210/S00349/brownlee-busted-with-facts-that-dont-stack-up.htm
+title: Brownlee busted with facts that don’t stack up
+date: 2012-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00349/brownlee-busted-with-facts-that-dont-stack-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/19/brownlee-busted-with-facts-that-dont-stack-up/index.html
+layout: layout.njk
 ---
 Brownlee busted with facts that don’t stack up
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: interest-free-student-loans-policy-passed-into-law
-title: "Interest Free Student Loans Policy Passed Into Law"
-date: 2000-12-14
-source-url: https://www.scoop.co.nz/stories/ED0012/S00011/interest-free-student-loans-policy-passed-into-law.htm
+title: Interest Free Student Loans Policy Passed Into Law
+date: 2000-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0012/S00011/interest-free-student-loans-policy-passed-into-law.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2000/12/14/interest-free-student-loans-policy-passed-into-law/index.html
+layout: layout.njk
 ---
 Interest Free Student Loans Policy Passed Into Law
 ==================================================

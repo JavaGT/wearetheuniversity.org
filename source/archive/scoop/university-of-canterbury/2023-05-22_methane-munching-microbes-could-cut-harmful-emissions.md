@@ -1,9 +1,13 @@
 ---
 slug: methane-munching-microbes-could-cut-harmful-emissions
-title: "Methane-munching Microbes Could Cut Harmful Emissions"
-date: 2023-05-22
-source-url: https://www.scoop.co.nz/stories/SC2305/S00029/methane-munching-microbes-could-cut-harmful-emissions.htm
+title: Methane-munching Microbes Could Cut Harmful Emissions
+date: 2023-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2305/S00029/methane-munching-microbes-could-cut-harmful-emissions.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/05/22/methane-munching-microbes-could-cut-harmful-emissions/index.html
+layout: layout.njk
 ---
 Methane-munching Microbes Could Cut Harmful Emissions
 =====================================================

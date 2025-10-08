@@ -1,9 +1,12 @@
 ---
 slug: realism-required-in-health-priorities
-title: "Realism Required In Health Priorities"
-date: 2006-04-20
-source-url: https://www.scoop.co.nz/stories/PA0604/S00311/realism-required-in-health-priorities.htm
+title: Realism Required In Health Priorities
+date: 2006-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00311/realism-required-in-health-priorities.htm
 author: new-zealand-first-party
+permalink: /archive/2006/04/20/realism-required-in-health-priorities/index.html
+layout: layout.njk
 ---
 Realism Required In Health Priorities
 =====================================

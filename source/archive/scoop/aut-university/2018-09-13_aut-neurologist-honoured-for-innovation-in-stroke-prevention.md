@@ -1,9 +1,13 @@
 ---
 slug: aut-neurologist-honoured-for-innovation-in-stroke-prevention
-title: "AUT neurologist honoured for innovation in stroke prevention"
-date: 2018-09-13
-source-url: https://www.scoop.co.nz/stories/GE1809/S00040/aut-neurologist-honoured-for-innovation-in-stroke-prevention.htm
+title: AUT neurologist honoured for innovation in stroke prevention
+date: 2018-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00040/aut-neurologist-honoured-for-innovation-in-stroke-prevention.htm
 author: aut-university
+permalink: >-
+  /archive/2018/09/13/aut-neurologist-honoured-for-innovation-in-stroke-prevention/index.html
+layout: layout.njk
 ---
 AUT neurologist honoured for innovation in stroke prevention
 ============================================================

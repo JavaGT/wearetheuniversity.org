@@ -1,9 +1,13 @@
 ---
 slug: working-people-back-new-trade-agenda-for-21st-century
-title: "Working People Back New Trade Agenda for 21st Century"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/PO1708/S00204/working-people-back-new-trade-agenda-for-21st-century.htm
+title: Working People Back New Trade Agenda for 21st Century
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00204/working-people-back-new-trade-agenda-for-21st-century.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2017/08/10/working-people-back-new-trade-agenda-for-21st-century/index.html
+layout: layout.njk
 ---
 Working People Back New Trade Agenda for 21st Century
 =====================================================

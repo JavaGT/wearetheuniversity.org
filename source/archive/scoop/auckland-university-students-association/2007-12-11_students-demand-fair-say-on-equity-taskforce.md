@@ -1,9 +1,12 @@
 ---
 slug: students-demand-fair-say-on-equity-taskforce
-title: "Students demand fair say on equity taskforce"
-date: 2007-12-11
-source-url: https://www.scoop.co.nz/stories/ED0712/S00042/students-demand-fair-say-on-equity-taskforce.htm
+title: Students demand fair say on equity taskforce
+date: 2007-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00042/students-demand-fair-say-on-equity-taskforce.htm
 author: auckland-university-students-association
+permalink: /archive/2007/12/11/students-demand-fair-say-on-equity-taskforce/index.html
+layout: layout.njk
 ---
 Students demand fair say on equity taskforce
 ============================================

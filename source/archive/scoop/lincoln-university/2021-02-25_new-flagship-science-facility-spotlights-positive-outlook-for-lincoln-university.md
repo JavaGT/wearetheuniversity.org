@@ -1,9 +1,16 @@
 ---
-slug: new-flagship-science-facility-spotlights-positive-outlook-for-lincoln-university
-title: "New Flagship Science Facility Spotlights Positive Outlook For Lincoln University"
-date: 2021-02-25
-source-url: https://www.scoop.co.nz/stories/ED2102/S00037/new-flagship-science-facility-spotlights-positive-outlook-for-lincoln-university.htm
+slug: >-
+  new-flagship-science-facility-spotlights-positive-outlook-for-lincoln-university
+title: >-
+  New Flagship Science Facility Spotlights Positive Outlook For Lincoln
+  University
+date: 2021-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2102/S00037/new-flagship-science-facility-spotlights-positive-outlook-for-lincoln-university.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/02/25/new-flagship-science-facility-spotlights-positive-outlook-for-lincoln-university/index.html
+layout: layout.njk
 ---
 New Flagship Science Facility Spotlights Positive Outlook For Lincoln University
 ================================================================================

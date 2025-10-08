@@ -1,9 +1,13 @@
 ---
 slug: te-iti-me-te-rahi-seashells-to-sealords-rahui-katene
-title: "'Te iti me te rahi - Seashells to Sealords' - Rahui Katene"
-date: 2011-05-24
-source-url: https://www.scoop.co.nz/stories/PA1105/S00540/te-iti-me-te-rahi-seashells-to-sealords-rahui-katene.htm
+title: '''Te iti me te rahi - Seashells to Sealords'' - Rahui Katene'
+date: 2011-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00540/te-iti-me-te-rahi-seashells-to-sealords-rahui-katene.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/05/24/te-iti-me-te-rahi-seashells-to-sealords-rahui-katene/index.html
+layout: layout.njk
 ---
 'Te iti me te rahi - Seashells to Sealords' - Rahui Katene
 ==========================================================

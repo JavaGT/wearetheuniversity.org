@@ -1,9 +1,12 @@
 ---
 slug: declining-rates-for-maori-cause-concern
-title: "Declining rates for Maori cause concern"
-date: 2007-03-17
-source-url: https://www.scoop.co.nz/stories/PA0703/S00341/declining-rates-for-maori-cause-concern.htm
+title: Declining rates for Maori cause concern
+date: 2007-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00341/declining-rates-for-maori-cause-concern.htm
 author: te-pati-maori
+permalink: /archive/2007/03/17/declining-rates-for-maori-cause-concern/index.html
+layout: layout.njk
 ---
 'Declining rates for Maori cause concern"
 =========================================

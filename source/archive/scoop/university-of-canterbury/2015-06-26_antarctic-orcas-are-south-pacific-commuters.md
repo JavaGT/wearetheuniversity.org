@@ -1,9 +1,12 @@
 ---
 slug: antarctic-orcas-are-south-pacific-commuters
-title: "Antarctic orcas are South Pacific commuters"
-date: 2015-06-26
-source-url: https://www.scoop.co.nz/stories/SC1506/S00111/antarctic-orcas-are-south-pacific-commuters.htm
+title: Antarctic orcas are South Pacific commuters
+date: 2015-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00111/antarctic-orcas-are-south-pacific-commuters.htm
 author: university-of-canterbury
+permalink: /archive/2015/06/26/antarctic-orcas-are-south-pacific-commuters/index.html
+layout: layout.njk
 ---
 Antarctic orcas are South Pacific commuters
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-immigration-policy-in-chaos
-title: "Labour's immigration policy in chaos"
-date: 2004-03-09
-source-url: https://www.scoop.co.nz/stories/PA0403/S00193/labours-immigration-policy-in-chaos.htm
+title: Labour's immigration policy in chaos
+date: 2004-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00193/labours-immigration-policy-in-chaos.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/09/labours-immigration-policy-in-chaos/index.html
+layout: layout.njk
 ---
 Labour's immigration policy in chaos
 ====================================

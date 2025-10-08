@@ -1,9 +1,12 @@
 ---
 slug: ground-broken-on-new-ucsa-building-haere-roa
-title: "Ground broken on new UCSA building Haere-roa"
-date: 2017-07-21
-source-url: https://www.scoop.co.nz/stories/ED1707/S00074/ground-broken-on-new-ucsa-building-haere-roa.htm
+title: Ground broken on new UCSA building Haere-roa
+date: 2017-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00074/ground-broken-on-new-ucsa-building-haere-roa.htm
 author: university-of-canterbury
+permalink: /archive/2017/07/21/ground-broken-on-new-ucsa-building-haere-roa/index.html
+layout: layout.njk
 ---
 Ground broken on new UCSA building Haere-roa
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: acc-roads-schools-hospitals-where-does-it-end
-title: "ACC, roads, schools, hospitals: where does it end?"
-date: 2008-08-25
-source-url: https://www.scoop.co.nz/stories/PO0808/S00306/acc-roads-schools-hospitals-where-does-it-end.htm
+title: 'ACC, roads, schools, hospitals: where does it end?'
+date: 2008-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00306/acc-roads-schools-hospitals-where-does-it-end.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/08/25/acc-roads-schools-hospitals-where-does-it-end/index.html
+layout: layout.njk
 ---
 ACC, roads, schools, hospitals: where does it end?
 ==================================================

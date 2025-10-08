@@ -1,9 +1,13 @@
 ---
 slug: nation-wide-teacher-meetings-postponed-as-mark-of-respect
-title: "Nation-wide teacher meetings postponed as mark of respect"
-date: 2019-03-17
-source-url: https://www.scoop.co.nz/stories/PO1903/S00182/nation-wide-teacher-meetings-postponed-as-mark-of-respect.htm
+title: Nation-wide teacher meetings postponed as mark of respect
+date: 2019-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1903/S00182/nation-wide-teacher-meetings-postponed-as-mark-of-respect.htm
 author: nzei
+permalink: >-
+  /archive/2019/03/17/nation-wide-teacher-meetings-postponed-as-mark-of-respect/index.html
+layout: layout.njk
 ---
 Nation-wide teacher meetings postponed as mark of respect
 =========================================================

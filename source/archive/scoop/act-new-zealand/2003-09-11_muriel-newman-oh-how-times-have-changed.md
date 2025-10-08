@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-oh-how-times-have-changed
-title: "Muriel Newman: Oh, How Times Have Changed"
-date: 2003-09-11
-source-url: https://www.scoop.co.nz/stories/PA0309/S00228/muriel-newman-oh-how-times-have-changed.htm
+title: 'Muriel Newman: Oh, How Times Have Changed'
+date: 2003-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00228/muriel-newman-oh-how-times-have-changed.htm
 author: act-new-zealand
+permalink: /archive/2003/09/11/muriel-newman-oh-how-times-have-changed/index.html
+layout: layout.njk
 ---
 Muriel Newman: Oh, How Times Have Changed
 =========================================

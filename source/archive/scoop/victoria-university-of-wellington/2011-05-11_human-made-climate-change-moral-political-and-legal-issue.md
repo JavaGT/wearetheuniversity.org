@@ -1,9 +1,13 @@
 ---
 slug: human-made-climate-change-moral-political-and-legal-issue
-title: "Human-Made Climate Change:  Moral, Political and Legal Issue"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/CU1105/S00191/human-made-climate-change-moral-political-and-legal-issue.htm
+title: 'Human-Made Climate Change:  Moral, Political and Legal Issue'
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1105/S00191/human-made-climate-change-moral-political-and-legal-issue.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/05/11/human-made-climate-change-moral-political-and-legal-issue/index.html
+layout: layout.njk
 ---
 Human-Made Climate Change: Moral, Political and Legal Issue
 ===========================================================

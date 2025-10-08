@@ -1,9 +1,13 @@
 ---
 slug: popular-new-zealand-food-awards-now-an-annual-event
-title: "Popular New Zealand Food Awards now an annual event"
-date: 2011-04-15
-source-url: https://www.scoop.co.nz/stories/CU1104/S00256/popular-new-zealand-food-awards-now-an-annual-event.htm
+title: Popular New Zealand Food Awards now an annual event
+date: 2011-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1104/S00256/popular-new-zealand-food-awards-now-an-annual-event.htm
 author: massey-university
+permalink: >-
+  /archive/2011/04/15/popular-new-zealand-food-awards-now-an-annual-event/index.html
+layout: layout.njk
 ---
 Popular New Zealand Food Awards now an annual event
 ===================================================

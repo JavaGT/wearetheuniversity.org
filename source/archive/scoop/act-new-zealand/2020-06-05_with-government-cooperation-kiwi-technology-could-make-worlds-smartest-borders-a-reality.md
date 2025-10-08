@@ -1,9 +1,16 @@
 ---
-slug: with-government-cooperation-kiwi-technology-could-make-worlds-smartest-borders-a-reality
-title: "With Government Cooperation, Kiwi Technology Could Make ‘World’s Smartest Borders’ A Reality"
-date: 2020-06-05
-source-url: https://www.scoop.co.nz/stories/PA2006/S00048/with-government-cooperation-kiwi-technology-could-make-worlds-smartest-borders-a-reality.htm
+slug: >-
+  with-government-cooperation-kiwi-technology-could-make-worlds-smartest-borders-a-reality
+title: >-
+  With Government Cooperation, Kiwi Technology Could Make ‘World’s Smartest
+  Borders’ A Reality
+date: 2020-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00048/with-government-cooperation-kiwi-technology-could-make-worlds-smartest-borders-a-reality.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/05/with-government-cooperation-kiwi-technology-could-make-worlds-smartest-borders-a-reality/index.html
+layout: layout.njk
 ---
 With Government Cooperation, Kiwi Technology Could Make ‘World’s Smartest Borders’ A Reality
 ============================================================================================

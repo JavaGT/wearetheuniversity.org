@@ -1,9 +1,12 @@
 ---
 slug: proud-day-with-new-māori-ministers
-title: "Proud day with new Māori Ministers"
-date: 2017-10-25
-source-url: https://www.scoop.co.nz/stories/PA1710/S00067/proud-day-with-new-maori-ministers.htm
+title: Proud day with new Māori Ministers
+date: 2017-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1710/S00067/proud-day-with-new-maori-ministers.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/10/25/proud-day-with-new-m/index.html
+layout: layout.njk
 ---
 Proud day with new Māori Ministers
 ==================================

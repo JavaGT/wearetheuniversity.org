@@ -1,9 +1,12 @@
 ---
 slug: jacinda-ardern-2019-labour-party-conference
-title: "Jacinda Ardern: 2019 Labour Party Conference"
-date: 2019-12-02
-source-url: https://www.scoop.co.nz/stories/PA1912/S00007/jacinda-ardern-2019-labour-party-conference.htm
+title: 'Jacinda Ardern: 2019 Labour Party Conference'
+date: 2019-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00007/jacinda-ardern-2019-labour-party-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/2019/12/02/jacinda-ardern-2019-labour-party-conference/index.html
+layout: layout.njk
 ---
 Jacinda Ardern: 2019 Labour Party Conference
 ============================================

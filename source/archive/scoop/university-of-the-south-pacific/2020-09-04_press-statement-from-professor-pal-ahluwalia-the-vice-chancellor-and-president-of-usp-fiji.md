@@ -1,9 +1,16 @@
 ---
-slug: press-statement-from-professor-pal-ahluwalia-the-vice-chancellor-and-president-of-usp-fiji
-title: "Press Statement From Professor Pal Ahluwalia, The Vice-Chancellor And President of USP, Fiji"
-date: 2020-09-04
-source-url: https://www.scoop.co.nz/stories/WO2009/S00035/press-statement-from-professor-pal-ahluwalia-the-vice-chancellor-and-president-of-usp-fiji.htm
+slug: >-
+  press-statement-from-professor-pal-ahluwalia-the-vice-chancellor-and-president-of-usp-fiji
+title: >-
+  Press Statement From Professor Pal Ahluwalia, The Vice-Chancellor And
+  President of USP, Fiji
+date: 2020-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2009/S00035/press-statement-from-professor-pal-ahluwalia-the-vice-chancellor-and-president-of-usp-fiji.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2020/09/04/press-statement-from-professor-pal-ahluwalia-the-vice-chancellor-and-president-of-usp-fiji/index.html
+layout: layout.njk
 ---
 Press Statement From Professor Pal Ahluwalia, The Vice-Chancellor And President of USP, Fiji
 ============================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: te-ururoa-flavell-speech-vote-internal-affairs-debate
-title: "Te Ururoa Flavell speech: Vote Internal Affairs Debate"
-date: 2011-08-11
-source-url: https://www.scoop.co.nz/stories/PA1108/S00211/te-ururoa-flavell-speech-vote-internal-affairs-debate.htm
+title: 'Te Ururoa Flavell speech: Vote Internal Affairs Debate'
+date: 2011-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00211/te-ururoa-flavell-speech-vote-internal-affairs-debate.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/08/11/te-ururoa-flavell-speech-vote-internal-affairs-debate/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell speech: Vote Internal Affairs Debate
 ======================================================

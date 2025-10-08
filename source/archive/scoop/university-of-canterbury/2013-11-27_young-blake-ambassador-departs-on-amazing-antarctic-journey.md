@@ -1,9 +1,13 @@
 ---
 slug: young-blake-ambassador-departs-on-amazing-antarctic-journey
-title: "Young Blake Ambassador departs on amazing Antarctic journey"
-date: 2013-11-27
-source-url: https://www.scoop.co.nz/stories/CU1311/S00536/young-blake-ambassador-departs-on-amazing-antarctic-journey.htm
+title: Young Blake Ambassador departs on amazing Antarctic journey
+date: 2013-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1311/S00536/young-blake-ambassador-departs-on-amazing-antarctic-journey.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/27/young-blake-ambassador-departs-on-amazing-antarctic-journey/index.html
+layout: layout.njk
 ---
 Young Blake Ambassador departs on amazing Antarctic journey
 ===========================================================

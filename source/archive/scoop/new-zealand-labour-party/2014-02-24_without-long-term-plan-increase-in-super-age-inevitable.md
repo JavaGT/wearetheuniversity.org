@@ -1,9 +1,13 @@
 ---
 slug: without-long-term-plan-increase-in-super-age-inevitable
-title: "Without long term plan increase in super age inevitable"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/PA1402/S00329/without-long-term-plan-increase-in-super-age-inevitable.htm
+title: Without long term plan increase in super age inevitable
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00329/without-long-term-plan-increase-in-super-age-inevitable.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/02/24/without-long-term-plan-increase-in-super-age-inevitable/index.html
+layout: layout.njk
 ---
 Without long term plan increase in super age inevitable
 =======================================================

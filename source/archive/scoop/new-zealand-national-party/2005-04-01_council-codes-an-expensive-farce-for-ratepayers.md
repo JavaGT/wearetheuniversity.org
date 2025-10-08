@@ -1,9 +1,12 @@
 ---
 slug: council-codes-an-expensive-farce-for-ratepayers
-title: "Council codes an expensive farce for ratepayers"
-date: 2005-04-01
-source-url: https://www.scoop.co.nz/stories/PA0504/S00024/council-codes-an-expensive-farce-for-ratepayers.htm
+title: Council codes an expensive farce for ratepayers
+date: 2005-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00024/council-codes-an-expensive-farce-for-ratepayers.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/01/council-codes-an-expensive-farce-for-ratepayers/index.html
+layout: layout.njk
 ---
 Council codes an expensive farce for ratepayers
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: financial-result-leaves-no-room-for-complacency
-title: "Financial result leaves ‘no room for complacency’"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/ED0606/S00066/financial-result-leaves-no-room-for-complacency.htm
+title: Financial result leaves ‘no room for complacency’
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00066/financial-result-leaves-no-room-for-complacency.htm
 author: lincoln-university
+permalink: /archive/2006/06/28/financial-result-leaves-no-room-for-complacency/index.html
+layout: layout.njk
 ---
 Financial result leaves ‘no room for complacency’
 =================================================

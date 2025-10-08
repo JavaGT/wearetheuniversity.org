@@ -1,9 +1,13 @@
 ---
 slug: rents-on-the-rise-as-govt-hurts-low-income-families
-title: "Rents on the rise as Govt hurts low-income families"
-date: 2018-11-19
-source-url: https://www.scoop.co.nz/stories/PA1811/S00191/rents-on-the-rise-as-govt-hurts-low-income-families.htm
+title: Rents on the rise as Govt hurts low-income families
+date: 2018-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00191/rents-on-the-rise-as-govt-hurts-low-income-families.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/11/19/rents-on-the-rise-as-govt-hurts-low-income-families/index.html
+layout: layout.njk
 ---
 Rents on the rise as Govt hurts low-income families
 ===================================================

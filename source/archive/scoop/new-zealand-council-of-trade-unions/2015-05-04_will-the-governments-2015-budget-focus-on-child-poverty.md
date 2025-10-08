@@ -1,9 +1,13 @@
 ---
 slug: will-the-governments-2015-budget-focus-on-child-poverty
-title: "Will the Government’s 2015 budget focus on child poverty?"
-date: 2015-05-04
-source-url: https://www.scoop.co.nz/stories/PO1505/S00033/will-the-governments-2015-budget-focus-on-child-poverty.htm
+title: Will the Government’s 2015 budget focus on child poverty?
+date: 2015-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00033/will-the-governments-2015-budget-focus-on-child-poverty.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2015/05/04/will-the-governments-2015-budget-focus-on-child-poverty/index.html
+layout: layout.njk
 ---
 Will the Government’s 2015 budget focus on child poverty?
 =========================================================

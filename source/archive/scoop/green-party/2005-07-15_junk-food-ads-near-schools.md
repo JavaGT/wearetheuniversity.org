@@ -1,9 +1,11 @@
 ---
 slug: junk-food-ads-near-schools
-title: "Junk food ads near schools"
-date: 2005-07-15
+title: Junk food ads near schools
+date: 2005-07-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00316/junk-food-ads-near-schools.htm
 author: green-party
+permalink: /archive/2005/07/15/junk-food-ads-near-schools/index.html
+layout: layout.njk
 ---
 Junk food ads near schools
 ==========================

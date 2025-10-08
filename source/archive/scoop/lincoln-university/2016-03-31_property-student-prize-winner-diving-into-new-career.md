@@ -1,9 +1,13 @@
 ---
 slug: property-student-prize-winner-diving-into-new-career
-title: "Property student prize winner diving into new career"
-date: 2016-03-31
-source-url: https://www.scoop.co.nz/stories/ED1603/S00097/property-student-prize-winner-diving-into-new-career.htm
+title: Property student prize winner diving into new career
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00097/property-student-prize-winner-diving-into-new-career.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/03/31/property-student-prize-winner-diving-into-new-career/index.html
+layout: layout.njk
 ---
 Property student prize winner diving into new career
 ====================================================

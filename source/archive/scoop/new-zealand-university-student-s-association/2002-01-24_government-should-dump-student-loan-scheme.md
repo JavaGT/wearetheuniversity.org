@@ -1,9 +1,12 @@
 ---
 slug: government-should-dump-student-loan-scheme
-title: "Government Should Dump Student Loan Scheme"
-date: 2002-01-24
-source-url: https://www.scoop.co.nz/stories/ED0201/S00007/government-should-dump-student-loan-scheme.htm
+title: Government Should Dump Student Loan Scheme
+date: 2002-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0201/S00007/government-should-dump-student-loan-scheme.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/01/24/government-should-dump-student-loan-scheme/index.html
+layout: layout.njk
 ---
 Government Should Dump Student Loan Scheme
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: flavell-electoral-finance-bill-committee-stage
-title: "Flavell: Electoral Finance Bill: Committee Stage"
-date: 2007-12-06
-source-url: https://www.scoop.co.nz/stories/PA0712/S00127/flavell-electoral-finance-bill-committee-stage.htm
+title: 'Flavell: Electoral Finance Bill: Committee Stage'
+date: 2007-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00127/flavell-electoral-finance-bill-committee-stage.htm
 author: te-pati-maori
+permalink: /archive/2007/12/06/flavell-electoral-finance-bill-committee-stage/index.html
+layout: layout.njk
 ---
 Flavell: Electoral Finance Bill: Committee Stage
 ================================================

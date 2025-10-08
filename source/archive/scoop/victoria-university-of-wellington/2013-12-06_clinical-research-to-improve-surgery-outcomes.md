@@ -1,9 +1,12 @@
 ---
 slug: clinical-research-to-improve-surgery-outcomes
-title: "Clinical research to improve surgery outcomes"
-date: 2013-12-06
-source-url: https://www.scoop.co.nz/stories/SC1312/S00029/clinical-research-to-improve-surgery-outcomes.htm
+title: Clinical research to improve surgery outcomes
+date: 2013-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00029/clinical-research-to-improve-surgery-outcomes.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/12/06/clinical-research-to-improve-surgery-outcomes/index.html
+layout: layout.njk
 ---
 Clinical research to improve surgery outcomes
 =============================================

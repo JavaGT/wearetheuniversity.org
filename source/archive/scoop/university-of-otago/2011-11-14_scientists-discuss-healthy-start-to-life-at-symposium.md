@@ -1,9 +1,13 @@
 ---
 slug: scientists-discuss-healthy-start-to-life-at-symposium
-title: "Scientists discuss healthy start to life at symposium"
-date: 2011-11-14
-source-url: https://www.scoop.co.nz/stories/GE1111/S00096/scientists-discuss-healthy-start-to-life-at-symposium.htm
+title: Scientists discuss healthy start to life at symposium
+date: 2011-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1111/S00096/scientists-discuss-healthy-start-to-life-at-symposium.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/11/14/scientists-discuss-healthy-start-to-life-at-symposium/index.html
+layout: layout.njk
 ---
 Scientists discuss healthy start to life at symposium
 =====================================================

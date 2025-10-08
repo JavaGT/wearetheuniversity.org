@@ -1,9 +1,13 @@
 ---
 slug: reducing-run-off-secures-fieldays-scholarship-for-student
-title: "Reducing Run-Off Secures Fieldays Scholarship For Student"
-date: 2013-04-17
-source-url: https://www.scoop.co.nz/stories/ED1304/S00103/reducing-run-off-secures-fieldays-scholarship-for-student.htm
+title: Reducing Run-Off Secures Fieldays Scholarship For Student
+date: 2013-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00103/reducing-run-off-secures-fieldays-scholarship-for-student.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/04/17/reducing-run-off-secures-fieldays-scholarship-for-student/index.html
+layout: layout.njk
 ---
 Reducing Run-Off Secures Fieldays Scholarship For Student
 =========================================================

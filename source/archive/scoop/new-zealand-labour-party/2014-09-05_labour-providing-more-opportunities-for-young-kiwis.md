@@ -1,9 +1,13 @@
 ---
 slug: labour-providing-more-opportunities-for-young-kiwis
-title: "Labour: Providing more opportunities for young Kiwis"
-date: 2014-09-05
-source-url: https://www.scoop.co.nz/stories/PA1409/S00086/labour-providing-more-opportunities-for-young-kiwis.htm
+title: 'Labour: Providing more opportunities for young Kiwis'
+date: 2014-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00086/labour-providing-more-opportunities-for-young-kiwis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/09/05/labour-providing-more-opportunities-for-young-kiwis/index.html
+layout: layout.njk
 ---
 Labour: Providing more opportunities for young Kiwis
 ====================================================

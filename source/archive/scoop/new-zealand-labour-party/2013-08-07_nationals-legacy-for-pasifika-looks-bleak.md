@@ -1,9 +1,12 @@
 ---
 slug: nationals-legacy-for-pasifika-looks-bleak
-title: "National’s legacy for Pasifika looks bleak"
-date: 2013-08-07
-source-url: https://www.scoop.co.nz/stories/PA1308/S00113/nationals-legacy-for-pasifika-looks-bleak.htm
+title: National’s legacy for Pasifika looks bleak
+date: 2013-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00113/nationals-legacy-for-pasifika-looks-bleak.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/07/nationals-legacy-for-pasifika-looks-bleak/index.html
+layout: layout.njk
 ---
 National’s legacy for Pasifika looks bleak
 ==========================================

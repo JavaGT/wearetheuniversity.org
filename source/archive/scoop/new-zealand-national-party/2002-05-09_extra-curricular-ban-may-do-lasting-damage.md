@@ -1,9 +1,12 @@
 ---
 slug: extra-curricular-ban-may-do-lasting-damage
-title: "Extra-Curricular Ban May Do Lasting Damage"
-date: 2002-05-09
-source-url: https://www.scoop.co.nz/stories/PA0205/S00200/extra-curricular-ban-may-do-lasting-damage.htm
+title: Extra-Curricular Ban May Do Lasting Damage
+date: 2002-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00200/extra-curricular-ban-may-do-lasting-damage.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/09/extra-curricular-ban-may-do-lasting-damage/index.html
+layout: layout.njk
 ---
 Extra-Curricular Ban May Do Lasting Damage
 ==========================================

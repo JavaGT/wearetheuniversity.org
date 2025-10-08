@@ -1,9 +1,13 @@
 ---
 slug: key-admits-national-standards-slogan-is-bad-policy
-title: "Key admits ‘National Standards’ slogan is bad policy"
-date: 2011-02-16
-source-url: https://www.scoop.co.nz/stories/PA1102/S00234/key-admits-national-standards-slogan-is-bad-policy.htm
+title: Key admits ‘National Standards’ slogan is bad policy
+date: 2011-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00234/key-admits-national-standards-slogan-is-bad-policy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/02/16/key-admits-national-standards-slogan-is-bad-policy/index.html
+layout: layout.njk
 ---
 Key admits ‘National Standards’ slogan is bad policy
 ====================================================

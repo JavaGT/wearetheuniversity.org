@@ -1,9 +1,13 @@
 ---
 slug: candidates-for-prize-in-modern-letters-announced
-title: "Candidates for Prize in Modern Letters announced"
-date: 2007-11-09
-source-url: https://www.scoop.co.nz/stories/CU0711/S00123/candidates-for-prize-in-modern-letters-announced.htm
+title: Candidates for Prize in Modern Letters announced
+date: 2007-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0711/S00123/candidates-for-prize-in-modern-letters-announced.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/11/09/candidates-for-prize-in-modern-letters-announced/index.html
+layout: layout.njk
 ---
 Candidates for Prize in Modern Letters announced
 ================================================

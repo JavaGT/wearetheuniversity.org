@@ -1,9 +1,13 @@
 ---
 slug: better-nutrition-for-nz-kids-more-than-tuck-shops
-title: "Better nutrition for NZ kids more than tuck shops"
-date: 2010-07-30
-source-url: https://www.scoop.co.nz/stories/GE1007/S00129/better-nutrition-for-nz-kids-more-than-tuck-shops.htm
+title: Better nutrition for NZ kids more than tuck shops
+date: 2010-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1007/S00129/better-nutrition-for-nz-kids-more-than-tuck-shops.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/07/30/better-nutrition-for-nz-kids-more-than-tuck-shops/index.html
+layout: layout.njk
 ---
 Better nutrition for NZ kids more than tuck shops
 =================================================

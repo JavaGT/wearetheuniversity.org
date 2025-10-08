@@ -1,9 +1,13 @@
 ---
 slug: industry-and-diversity-important-in-commerce-education
-title: "Industry and diversity important in commerce education"
-date: 2015-08-14
-source-url: https://www.scoop.co.nz/stories/ED1508/S00070/industry-and-diversity-important-in-commerce-education.htm
+title: Industry and diversity important in commerce education
+date: 2015-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00070/industry-and-diversity-important-in-commerce-education.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/08/14/industry-and-diversity-important-in-commerce-education/index.html
+layout: layout.njk
 ---
 Industry and diversity important in commerce education
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: pm-irresponsible-encouraging-tourists-off-tour-buses
-title: "PM Irresponsible Encouraging Tourists Off Tour Buses"
-date: 2017-03-29
-source-url: https://www.scoop.co.nz/stories/PA1703/S00493/pm-irresponsible-encouraging-tourists-off-tour-buses.htm
+title: PM Irresponsible Encouraging Tourists Off Tour Buses
+date: 2017-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00493/pm-irresponsible-encouraging-tourists-off-tour-buses.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/03/29/pm-irresponsible-encouraging-tourists-off-tour-buses/index.html
+layout: layout.njk
 ---
 PM Irresponsible Encouraging Tourists Off Tour Buses
 ====================================================

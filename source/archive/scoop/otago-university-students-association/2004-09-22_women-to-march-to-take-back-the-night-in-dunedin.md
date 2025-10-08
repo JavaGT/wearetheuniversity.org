@@ -1,9 +1,13 @@
 ---
 slug: women-to-march-to-take-back-the-night-in-dunedin
-title: "Women to march to take back the night in Dunedin"
-date: 2004-09-22
-source-url: https://www.scoop.co.nz/stories/ED0409/S00104/women-to-march-to-take-back-the-night-in-dunedin.htm
+title: Women to march to take back the night in Dunedin
+date: 2004-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00104/women-to-march-to-take-back-the-night-in-dunedin.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2004/09/22/women-to-march-to-take-back-the-night-in-dunedin/index.html
+layout: layout.njk
 ---
 Women to march to take back the night in Dunedin
 ================================================

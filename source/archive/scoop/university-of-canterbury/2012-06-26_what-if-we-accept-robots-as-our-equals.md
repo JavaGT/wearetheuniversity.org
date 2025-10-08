@@ -1,9 +1,12 @@
 ---
 slug: what-if-we-accept-robots-as-our-equals
-title: "What if we accept robots as our equals?"
-date: 2012-06-26
-source-url: https://www.scoop.co.nz/stories/SC1206/S00055/what-if-we-accept-robots-as-our-equals.htm
+title: What if we accept robots as our equals?
+date: 2012-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1206/S00055/what-if-we-accept-robots-as-our-equals.htm
 author: university-of-canterbury
+permalink: /archive/2012/06/26/what-if-we-accept-robots-as-our-equals/index.html
+layout: layout.njk
 ---
 What if we accept robots as our equals?
 =======================================

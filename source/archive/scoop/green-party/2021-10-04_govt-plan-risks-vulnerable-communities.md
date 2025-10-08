@@ -1,9 +1,12 @@
 ---
 slug: govt-plan-risks-vulnerable-communities
-title: "Govt Plan Risks Vulnerable Communities"
-date: 2021-10-04
-source-url: https://www.scoop.co.nz/stories/PA2110/S00037/govt-plan-risks-vulnerable-communities.htm
+title: Govt Plan Risks Vulnerable Communities
+date: 2021-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00037/govt-plan-risks-vulnerable-communities.htm
 author: green-party
+permalink: /archive/2021/10/04/govt-plan-risks-vulnerable-communities/index.html
+layout: layout.njk
 ---
 Govt Plan Risks Vulnerable Communities
 ======================================

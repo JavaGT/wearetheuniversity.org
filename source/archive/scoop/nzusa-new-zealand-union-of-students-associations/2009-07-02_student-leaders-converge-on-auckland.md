@@ -1,9 +1,12 @@
 ---
 slug: student-leaders-converge-on-auckland
-title: "Student leaders converge on Auckland"
-date: 2009-07-02
-source-url: https://www.scoop.co.nz/stories/ED0907/S00008/student-leaders-converge-on-auckland.htm
+title: Student leaders converge on Auckland
+date: 2009-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00008/student-leaders-converge-on-auckland.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/07/02/student-leaders-converge-on-auckland/index.html
+layout: layout.njk
 ---
 Student leaders converge on Auckland
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: downing-of-mh17-shows-the-ukraine-crisis-is-a-global-issue
-title: "Downing of MH17 shows the Ukraine crisis is a global issue"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/PO1407/S00327/downing-of-mh17-shows-the-ukraine-crisis-is-a-global-issue.htm
+title: Downing of MH17 shows the Ukraine crisis is a global issue
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00327/downing-of-mh17-shows-the-ukraine-crisis-is-a-global-issue.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/21/downing-of-mh17-shows-the-ukraine-crisis-is-a-global-issue/index.html
+layout: layout.njk
 ---
 Downing of MH17 shows the Ukraine crisis is a global issue
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: case-centre-offers-a-new-business-resource
-title: "Case Centre Offers A New Business Resource"
-date: 2003-10-06
-source-url: https://www.scoop.co.nz/stories/ED0310/S00015/case-centre-offers-a-new-business-resource.htm
+title: Case Centre Offers A New Business Resource
+date: 2003-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00015/case-centre-offers-a-new-business-resource.htm
 author: auckland-university
+permalink: /archive/2003/10/06/case-centre-offers-a-new-business-resource/index.html
+layout: layout.njk
 ---
 Case Centre Offers A New Business Resource
 ==========================================

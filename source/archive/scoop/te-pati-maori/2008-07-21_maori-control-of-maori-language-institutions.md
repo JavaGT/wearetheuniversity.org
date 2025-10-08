@@ -1,9 +1,12 @@
 ---
 slug: maori-control-of-maori-language-institutions
-title: "Maori control of Maori language institutions"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/PA0807/S00366/maori-control-of-maori-language-institutions.htm
+title: Maori control of Maori language institutions
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00366/maori-control-of-maori-language-institutions.htm
 author: te-pati-maori
+permalink: /archive/2008/07/21/maori-control-of-maori-language-institutions/index.html
+layout: layout.njk
 ---
 Maori control of Maori language institutions
 ============================================

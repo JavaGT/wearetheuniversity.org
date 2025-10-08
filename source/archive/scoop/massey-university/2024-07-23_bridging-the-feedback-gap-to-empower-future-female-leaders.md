@@ -1,9 +1,13 @@
 ---
 slug: bridging-the-feedback-gap-to-empower-future-female-leaders
-title: "Bridging The Feedback Gap To Empower Future Female Leaders"
-date: 2024-07-23
-source-url: https://www.scoop.co.nz/stories/BU2407/S00381/bridging-the-feedback-gap-to-empower-future-female-leaders.htm
+title: Bridging The Feedback Gap To Empower Future Female Leaders
+date: 2024-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2407/S00381/bridging-the-feedback-gap-to-empower-future-female-leaders.htm
 author: massey-university
+permalink: >-
+  /archive/2024/07/23/bridging-the-feedback-gap-to-empower-future-female-leaders/index.html
+layout: layout.njk
 ---
 Bridging The Feedback Gap To Empower Future Female Leaders
 ==========================================================

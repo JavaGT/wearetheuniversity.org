@@ -1,9 +1,13 @@
 ---
 slug: auts-research-performance-has-more-than-doubled-yet-again!
-title: "AUT’s Research Performance Has More Than Doubled Yet Again!"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00067/auts-research-performance-has-more-than-doubled-yet-again.htm
+title: AUT’s Research Performance Has More Than Doubled Yet Again!
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00067/auts-research-performance-has-more-than-doubled-yet-again.htm
 author: aut-university
+permalink: >-
+  /archive/2013/04/11/auts-research-performance-has-more-than-doubled-yet-again/index.html
+layout: layout.njk
 ---
 AUT’s Research Performance Has More Than Doubled Yet Again!
 ===========================================================

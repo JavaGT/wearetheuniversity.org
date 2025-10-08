@@ -1,9 +1,12 @@
 ---
 slug: app-to-take-science-learning-to-next-level
-title: "App to take Science Learning to next level"
-date: 2011-09-21
-source-url: https://www.scoop.co.nz/stories/ED1109/S00093/app-to-take-science-learning-to-next-level.htm
+title: App to take Science Learning to next level
+date: 2011-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00093/app-to-take-science-learning-to-next-level.htm
 author: waikato-university
+permalink: /archive/2011/09/21/app-to-take-science-learning-to-next-level/index.html
+layout: layout.njk
 ---
 App to take Science Learning to next level
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-historian-to-take-up-leading-role-at-oxford-university
-title: "NZ historian to take up leading role at Oxford University"
-date: 2011-05-09
-source-url: https://www.scoop.co.nz/stories/ED1105/S00032/nz-historian-to-take-up-leading-role-at-oxford-university.htm
+title: NZ historian to take up leading role at Oxford University
+date: 2011-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00032/nz-historian-to-take-up-leading-role-at-oxford-university.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/05/09/nz-historian-to-take-up-leading-role-at-oxford-university/index.html
+layout: layout.njk
 ---
 NZ historian to take up leading role at Oxford University
 =========================================================

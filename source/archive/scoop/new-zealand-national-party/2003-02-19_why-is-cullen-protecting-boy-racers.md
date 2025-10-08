@@ -1,9 +1,12 @@
 ---
 slug: why-is-cullen-protecting-boy-racers
-title: "Why is Cullen protecting boy racers?"
-date: 2003-02-19
-source-url: https://www.scoop.co.nz/stories/PA0302/S00335/why-is-cullen-protecting-boy-racers.htm
+title: Why is Cullen protecting boy racers?
+date: 2003-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00335/why-is-cullen-protecting-boy-racers.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/19/why-is-cullen-protecting-boy-racers/index.html
+layout: layout.njk
 ---
 Why is Cullen protecting boy racers?
 ====================================

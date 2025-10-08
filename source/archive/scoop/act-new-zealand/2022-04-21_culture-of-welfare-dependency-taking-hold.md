@@ -1,9 +1,12 @@
 ---
 slug: culture-of-welfare-dependency-taking-hold
-title: "Culture Of Welfare Dependency Taking Hold"
-date: 2022-04-21
-source-url: https://www.scoop.co.nz/stories/PA2204/S00153/culture-of-welfare-dependency-taking-hold.htm
+title: Culture Of Welfare Dependency Taking Hold
+date: 2022-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00153/culture-of-welfare-dependency-taking-hold.htm
 author: act-new-zealand
+permalink: /archive/2022/04/21/culture-of-welfare-dependency-taking-hold/index.html
+layout: layout.njk
 ---
 Culture Of Welfare Dependency Taking Hold
 =========================================

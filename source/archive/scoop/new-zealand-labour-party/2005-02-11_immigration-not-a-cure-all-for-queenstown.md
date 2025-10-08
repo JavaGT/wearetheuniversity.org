@@ -1,9 +1,12 @@
 ---
 slug: immigration-not-a-cure-all-for-queenstown
-title: "Immigration not a cure-all for Queenstown"
-date: 2005-02-11
-source-url: https://www.scoop.co.nz/stories/PA0502/S00253/immigration-not-a-cure-all-for-queenstown.htm
+title: Immigration not a cure-all for Queenstown
+date: 2005-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00253/immigration-not-a-cure-all-for-queenstown.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/02/11/immigration-not-a-cure-all-for-queenstown/index.html
+layout: layout.njk
 ---
 Immigration not a cure-all for Queenstown
 =========================================

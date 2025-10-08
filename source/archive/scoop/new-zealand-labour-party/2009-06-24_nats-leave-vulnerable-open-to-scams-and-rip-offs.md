@@ -1,9 +1,13 @@
 ---
 slug: nats-leave-vulnerable-open-to-scams-and-rip-offs
-title: "Nats leave vulnerable open to scams and rip-offs"
-date: 2009-06-24
-source-url: https://www.scoop.co.nz/stories/PA0906/S00333/nats-leave-vulnerable-open-to-scams-and-rip-offs.htm
+title: Nats leave vulnerable open to scams and rip-offs
+date: 2009-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00333/nats-leave-vulnerable-open-to-scams-and-rip-offs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/06/24/nats-leave-vulnerable-open-to-scams-and-rip-offs/index.html
+layout: layout.njk
 ---
 Nats leave vulnerable open to scams and rip-offs
 ================================================

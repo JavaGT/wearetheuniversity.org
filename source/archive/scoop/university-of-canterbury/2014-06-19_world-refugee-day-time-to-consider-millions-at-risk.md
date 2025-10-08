@@ -1,9 +1,13 @@
 ---
 slug: world-refugee-day-time-to-consider-millions-at-risk
-title: "World Refugee Day time to consider millions at risk"
-date: 2014-06-19
-source-url: https://www.scoop.co.nz/stories/PO1406/S00290/world-refugee-day-time-to-consider-millions-at-risk.htm
+title: World Refugee Day time to consider millions at risk
+date: 2014-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00290/world-refugee-day-time-to-consider-millions-at-risk.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/19/world-refugee-day-time-to-consider-millions-at-risk/index.html
+layout: layout.njk
 ---
 World Refugee Day time to consider millions at risk
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: the-challenge-of-new-zealands-ageing-population
-title: "The challenge of New Zealand’s ageing population"
-date: 2010-07-21
-source-url: https://www.scoop.co.nz/stories/PO1007/S00254/the-challenge-of-new-zealands-ageing-population.htm
+title: The challenge of New Zealand’s ageing population
+date: 2010-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1007/S00254/the-challenge-of-new-zealands-ageing-population.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/07/21/the-challenge-of-new-zealands-ageing-population/index.html
+layout: layout.njk
 ---
 The challenge of New Zealand’s ageing population
 ================================================

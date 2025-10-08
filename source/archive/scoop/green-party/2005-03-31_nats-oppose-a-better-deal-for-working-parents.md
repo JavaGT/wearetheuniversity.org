@@ -1,9 +1,12 @@
 ---
 slug: nats-oppose-a-better-deal-for-working-parents
-title: "Nats oppose a better deal for working parents"
-date: 2005-03-31
-source-url: https://www.scoop.co.nz/stories/PA0503/S00606/nats-oppose-a-better-deal-for-working-parents.htm
+title: Nats oppose a better deal for working parents
+date: 2005-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00606/nats-oppose-a-better-deal-for-working-parents.htm
 author: green-party
+permalink: /archive/2005/03/31/nats-oppose-a-better-deal-for-working-parents/index.html
+layout: layout.njk
 ---
 Nats oppose a better deal for working parents
 =============================================

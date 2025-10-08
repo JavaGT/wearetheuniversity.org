@@ -1,9 +1,13 @@
 ---
 slug: young-japanese-sportsmen-visit-waikato-university
-title: "Young Japanese sportsmen visit Waikato University"
-date: 2015-07-22
-source-url: https://www.scoop.co.nz/stories/ED1507/S00099/young-japanese-sportsmen-visit-waikato-university.htm
+title: Young Japanese sportsmen visit Waikato University
+date: 2015-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00099/young-japanese-sportsmen-visit-waikato-university.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/07/22/young-japanese-sportsmen-visit-waikato-university/index.html
+layout: layout.njk
 ---
 Young Japanese sportsmen visit Waikato University
 =================================================

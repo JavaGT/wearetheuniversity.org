@@ -1,9 +1,12 @@
 ---
 slug: nationals-more-affordable-homes-for-hobbits
-title: "National’s \"more affordable\" homes for hobbits"
-date: 2012-11-29
-source-url: https://www.scoop.co.nz/stories/PA1211/S00497/nationals-more-affordable-homes-for-hobbits.htm
+title: National’s "more affordable" homes for hobbits
+date: 2012-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00497/nationals-more-affordable-homes-for-hobbits.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/29/nationals-more-affordable-homes-for-hobbits/index.html
+layout: layout.njk
 ---
 National’s “more affordable” homes for hobbits
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: its-time-for-men-to-be-men-and-not-bullies
-title: "It’s Time For Men To Be Men And Not Bullies"
-date: 2004-11-26
-source-url: https://www.scoop.co.nz/stories/PA0411/S00575/its-time-for-men-to-be-men-and-not-bullies.htm
+title: It’s Time For Men To Be Men And Not Bullies
+date: 2004-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00575/its-time-for-men-to-be-men-and-not-bullies.htm
 author: new-zealand-first-party
+permalink: /archive/2004/11/26/its-time-for-men-to-be-men-and-not-bullies/index.html
+layout: layout.njk
 ---
 It’s Time For Men To Be Men And Not Bullies
 ===========================================

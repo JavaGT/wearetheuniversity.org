@@ -1,9 +1,12 @@
 ---
 slug: councils-urged-to-shut-roads-as-fire-risk-grows
-title: "Councils Urged To Shut Roads As Fire Risk Grows"
-date: 2003-12-22
-source-url: https://www.scoop.co.nz/stories/PA0312/S00522/councils-urged-to-shut-roads-as-fire-risk-grows.htm
+title: Councils Urged To Shut Roads As Fire Risk Grows
+date: 2003-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00522/councils-urged-to-shut-roads-as-fire-risk-grows.htm
 author: act-new-zealand
+permalink: /archive/2003/12/22/councils-urged-to-shut-roads-as-fire-risk-grows/index.html
+layout: layout.njk
 ---
 Councils Urged To Shut Roads As Fire Risk Grows
 ===============================================

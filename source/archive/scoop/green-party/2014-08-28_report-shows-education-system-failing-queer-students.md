@@ -1,9 +1,13 @@
 ---
 slug: report-shows-education-system-failing-queer-students
-title: "Report shows education system failing queer students"
-date: 2014-08-28
-source-url: https://www.scoop.co.nz/stories/PA1408/S00440/report-shows-education-system-failing-queer-students.htm
+title: Report shows education system failing queer students
+date: 2014-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00440/report-shows-education-system-failing-queer-students.htm
 author: green-party
+permalink: >-
+  /archive/2014/08/28/report-shows-education-system-failing-queer-students/index.html
+layout: layout.njk
 ---
 Report shows education system failing queer students
 ====================================================

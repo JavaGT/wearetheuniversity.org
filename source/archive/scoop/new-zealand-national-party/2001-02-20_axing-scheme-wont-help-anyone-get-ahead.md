@@ -1,9 +1,12 @@
 ---
 slug: axing-scheme-wont-help-anyone-get-ahead
-title: "Axing scheme won't help anyone get ahead"
-date: 2001-02-20
-source-url: https://www.scoop.co.nz/stories/PA0102/S00298/axing-scheme-wont-help-anyone-get-ahead.htm
+title: Axing scheme won't help anyone get ahead
+date: 2001-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00298/axing-scheme-wont-help-anyone-get-ahead.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/20/axing-scheme-wont-help-anyone-get-ahead/index.html
+layout: layout.njk
 ---
 Axing scheme won't help anyone get ahead
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: pms-outbursts-threaten-public-service
-title: "PM's Outbursts Threaten Public Service"
-date: 2002-10-01
-source-url: https://www.scoop.co.nz/stories/PA0210/S00019/pms-outbursts-threaten-public-service.htm
+title: PM's Outbursts Threaten Public Service
+date: 2002-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00019/pms-outbursts-threaten-public-service.htm
 author: act-new-zealand
+permalink: /archive/2002/10/01/pms-outbursts-threaten-public-service/index.html
+layout: layout.njk
 ---
 PM's Outbursts Threaten Public Service
 ======================================

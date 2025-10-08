@@ -1,9 +1,12 @@
 ---
 slug: science-graduates-urged-to-make-a-difference
-title: "Science graduates urged to make a difference"
-date: 2010-05-11
-source-url: https://www.scoop.co.nz/stories/ED1005/S00039/science-graduates-urged-to-make-a-difference.htm
+title: Science graduates urged to make a difference
+date: 2010-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00039/science-graduates-urged-to-make-a-difference.htm
 author: massey-university
+permalink: /archive/2010/05/11/science-graduates-urged-to-make-a-difference/index.html
+layout: layout.njk
 ---
 Science graduates urged to make a difference
 ============================================

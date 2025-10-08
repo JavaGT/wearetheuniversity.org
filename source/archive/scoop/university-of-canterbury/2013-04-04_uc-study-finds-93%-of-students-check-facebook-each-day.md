@@ -1,9 +1,12 @@
 ---
 slug: uc-study-finds-93%-of-students-check-facebook-each-day
-title: "UC study finds 93% of students check Facebook each day"
-date: 2013-04-04
-source-url: https://www.scoop.co.nz/stories/ED1304/S00011/uc-study-finds-93-of-students-check-facebook-each-day.htm
+title: UC study finds 93% of students check Facebook each day
+date: 2013-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00011/uc-study-finds-93-of-students-check-facebook-each-day.htm
 author: university-of-canterbury
+permalink: /archive/2013/04/04/uc-study-finds-93/index.html
+layout: layout.njk
 ---
 UC study finds 93% of students check Facebook each day
 ======================================================

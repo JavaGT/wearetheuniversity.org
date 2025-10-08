@@ -1,9 +1,12 @@
 ---
 slug: skilled-migrant-wages-plummeting-under-national
-title: "Skilled migrant wages plummeting under National"
-date: 2016-11-30
-source-url: https://www.scoop.co.nz/stories/PA1611/S00583/skilled-migrant-wages-plummeting-under-national.htm
+title: Skilled migrant wages plummeting under National
+date: 2016-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00583/skilled-migrant-wages-plummeting-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/30/skilled-migrant-wages-plummeting-under-national/index.html
+layout: layout.njk
 ---
 Skilled migrant wages plummeting under National
 ===============================================

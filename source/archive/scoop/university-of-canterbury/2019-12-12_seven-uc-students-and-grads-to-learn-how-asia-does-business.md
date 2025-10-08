@@ -1,9 +1,13 @@
 ---
 slug: seven-uc-students-and-grads-to-learn-how-asia-does-business
-title: "Seven UC students and grads to learn how Asia does business"
-date: 2019-12-12
-source-url: https://www.scoop.co.nz/stories/ED1912/S00036/seven-uc-students-and-grads-to-learn-how-asia-does-business.htm
+title: Seven UC students and grads to learn how Asia does business
+date: 2019-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00036/seven-uc-students-and-grads-to-learn-how-asia-does-business.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/12/12/seven-uc-students-and-grads-to-learn-how-asia-does-business/index.html
+layout: layout.njk
 ---
 Seven UC students and grads to learn how Asia does business
 ===========================================================

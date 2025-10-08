@@ -1,9 +1,12 @@
 ---
 slug: rethinking-pacific-education-symposium
-title: "Rethinking Pacific Education Symposium"
-date: 2011-12-16
-source-url: https://www.scoop.co.nz/stories/WO1112/S00543/rethinking-pacific-education-symposium.htm
+title: Rethinking Pacific Education Symposium
+date: 2011-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1112/S00543/rethinking-pacific-education-symposium.htm
 author: university-of-the-south-pacific
+permalink: /archive/2011/12/16/rethinking-pacific-education-symposium/index.html
+layout: layout.njk
 ---
 Rethinking Pacific Education Symposium
 ======================================

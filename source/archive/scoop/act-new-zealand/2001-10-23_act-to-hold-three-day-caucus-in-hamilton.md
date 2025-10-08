@@ -1,9 +1,12 @@
 ---
 slug: act-to-hold-three-day-caucus-in-hamilton
-title: "ACT to Hold Three-Day Caucus in Hamilton"
-date: 2001-10-23
-source-url: https://www.scoop.co.nz/stories/PA0110/S00409/act-to-hold-three-day-caucus-in-hamilton.htm
+title: ACT to Hold Three-Day Caucus in Hamilton
+date: 2001-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00409/act-to-hold-three-day-caucus-in-hamilton.htm
 author: act-new-zealand
+permalink: /archive/2001/10/23/act-to-hold-three-day-caucus-in-hamilton/index.html
+layout: layout.njk
 ---
 ACT to Hold Three-Day Caucus in Hamilton
 ========================================

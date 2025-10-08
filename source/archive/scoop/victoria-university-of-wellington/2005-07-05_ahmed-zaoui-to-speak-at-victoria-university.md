@@ -1,9 +1,12 @@
 ---
 slug: ahmed-zaoui-to-speak-at-victoria-university
-title: "Ahmed Zaoui to speak at Victoria University"
-date: 2005-07-05
-source-url: https://www.scoop.co.nz/stories/ED0507/S00014/ahmed-zaoui-to-speak-at-victoria-university.htm
+title: Ahmed Zaoui to speak at Victoria University
+date: 2005-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00014/ahmed-zaoui-to-speak-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/07/05/ahmed-zaoui-to-speak-at-victoria-university/index.html
+layout: layout.njk
 ---
 Ahmed Zaoui to speak at Victoria University
 ===========================================

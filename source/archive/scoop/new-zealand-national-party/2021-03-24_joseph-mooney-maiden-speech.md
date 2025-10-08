@@ -1,9 +1,11 @@
 ---
 slug: joseph-mooney-maiden-speech
-title: "Joseph Mooney – Maiden Speech"
-date: 2021-03-24
+title: Joseph Mooney – Maiden Speech
+date: 2021-03-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2103/S00189/joseph-mooney-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/24/joseph-mooney-maiden-speech/index.html
+layout: layout.njk
 ---
 Joseph Mooney – Maiden Speech
 =============================

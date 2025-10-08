@@ -1,9 +1,12 @@
 ---
 slug: new-spin-on-kiwi-woolshed-at-exhibition
-title: "New spin on Kiwi woolshed at exhibition"
-date: 2011-02-04
-source-url: https://www.scoop.co.nz/stories/CU1102/S00045/new-spin-on-kiwi-woolshed-at-exhibition.htm
+title: New spin on Kiwi woolshed at exhibition
+date: 2011-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1102/S00045/new-spin-on-kiwi-woolshed-at-exhibition.htm
 author: massey-university
+permalink: /archive/2011/02/04/new-spin-on-kiwi-woolshed-at-exhibition/index.html
+layout: layout.njk
 ---
 New spin on Kiwi woolshed at exhibition
 =======================================

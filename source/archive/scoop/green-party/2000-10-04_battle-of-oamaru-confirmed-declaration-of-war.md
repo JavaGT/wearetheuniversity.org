@@ -1,9 +1,12 @@
 ---
 slug: battle-of-oamaru-confirmed-declaration-of-war
-title: "Battle Of Oamaru Confirmed, Declaration Of War"
-date: 2000-10-04
-source-url: https://www.scoop.co.nz/stories/PA0010/S00072/battle-of-oamaru-confirmed-declaration-of-war.htm
+title: Battle Of Oamaru Confirmed, Declaration Of War
+date: 2000-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00072/battle-of-oamaru-confirmed-declaration-of-war.htm
 author: green-party
+permalink: /archive/2000/10/04/battle-of-oamaru-confirmed-declaration-of-war/index.html
+layout: layout.njk
 ---
 Battle Of Oamaru Confirmed, Declaration Of War
 ==============================================

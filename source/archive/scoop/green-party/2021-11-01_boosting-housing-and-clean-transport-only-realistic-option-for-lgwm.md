@@ -1,9 +1,13 @@
 ---
 slug: boosting-housing-and-clean-transport-only-realistic-option-for-lgwm
-title: "Boosting Housing And Clean Transport Only Realistic Option For LGWM"
-date: 2021-11-01
-source-url: https://www.scoop.co.nz/stories/PA2111/S00007/boosting-housing-and-clean-transport-only-realistic-option-for-lgwm.htm
+title: Boosting Housing And Clean Transport Only Realistic Option For LGWM
+date: 2021-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00007/boosting-housing-and-clean-transport-only-realistic-option-for-lgwm.htm
 author: green-party
+permalink: >-
+  /archive/2021/11/01/boosting-housing-and-clean-transport-only-realistic-option-for-lgwm/index.html
+layout: layout.njk
 ---
 Boosting Housing And Clean Transport Only Realistic Option For LGWM
 ===================================================================

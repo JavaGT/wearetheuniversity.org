@@ -1,9 +1,13 @@
 ---
 slug: first-the-state-schools-then-the-catholic-schools
-title: "First the State Schools, then the Catholic Schools"
-date: 2003-12-05
-source-url: https://www.scoop.co.nz/stories/PA0312/S00140/first-the-state-schools-then-the-catholic-schools.htm
+title: First the State Schools, then the Catholic Schools
+date: 2003-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00140/first-the-state-schools-then-the-catholic-schools.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2003/12/05/first-the-state-schools-then-the-catholic-schools/index.html
+layout: layout.njk
 ---
 First the State Schools, then the Catholic Schools
 ==================================================

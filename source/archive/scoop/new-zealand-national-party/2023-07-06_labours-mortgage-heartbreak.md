@@ -1,9 +1,11 @@
 ---
 slug: labours-mortgage-heartbreak
-title: "Labour’s Mortgage Heartbreak"
-date: 2023-07-06
+title: Labour’s Mortgage Heartbreak
+date: 2023-07-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2307/S00026/labours-mortgage-heartbreak.htm
 author: new-zealand-national-party
+permalink: /archive/2023/07/06/labours-mortgage-heartbreak/index.html
+layout: layout.njk
 ---
 Labour’s Mortgage Heartbreak
 ============================

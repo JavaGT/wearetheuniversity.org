@@ -1,9 +1,13 @@
 ---
 slug: govt-delivering-fewer-social-houses-than-national
-title: "Govt delivering fewer social houses than National"
-date: 2018-05-18
-source-url: https://www.scoop.co.nz/stories/PA1805/S00268/govt-delivering-fewer-social-houses-than-national.htm
+title: Govt delivering fewer social houses than National
+date: 2018-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00268/govt-delivering-fewer-social-houses-than-national.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/05/18/govt-delivering-fewer-social-houses-than-national/index.html
+layout: layout.njk
 ---
 Govt delivering fewer social houses than National
 =================================================

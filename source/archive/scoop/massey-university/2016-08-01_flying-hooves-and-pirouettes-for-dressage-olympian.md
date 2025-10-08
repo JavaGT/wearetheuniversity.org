@@ -1,9 +1,13 @@
 ---
 slug: flying-hooves-and-pirouettes-for-dressage-olympian
-title: "Flying hooves and pirouettes for dressage Olympian"
-date: 2016-08-01
-source-url: https://www.scoop.co.nz/stories/CU1608/S00025/flying-hooves-and-pirouettes-for-dressage-olympian.htm
+title: Flying hooves and pirouettes for dressage Olympian
+date: 2016-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1608/S00025/flying-hooves-and-pirouettes-for-dressage-olympian.htm
 author: massey-university
+permalink: >-
+  /archive/2016/08/01/flying-hooves-and-pirouettes-for-dressage-olympian/index.html
+layout: layout.njk
 ---
 Flying hooves and pirouettes for dressage Olympian
 ==================================================

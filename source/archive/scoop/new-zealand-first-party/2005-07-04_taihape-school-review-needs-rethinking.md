@@ -1,9 +1,12 @@
 ---
 slug: taihape-school-review-needs-rethinking
-title: "Taihape School Review Needs Rethinking"
-date: 2005-07-04
-source-url: https://www.scoop.co.nz/stories/PA0507/S00063/taihape-school-review-needs-rethinking.htm
+title: Taihape School Review Needs Rethinking
+date: 2005-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00063/taihape-school-review-needs-rethinking.htm
 author: new-zealand-first-party
+permalink: /archive/2005/07/04/taihape-school-review-needs-rethinking/index.html
+layout: layout.njk
 ---
 Taihape School Review Needs Rethinking
 ======================================

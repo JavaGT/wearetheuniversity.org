@@ -1,9 +1,13 @@
 ---
 slug: nz-government-must-protect-most-vulnerable-workers-during-covid-19
-title: "NZ Government Must Protect Most Vulnerable Workers During COVID-19"
-date: 2020-05-08
-source-url: https://www.scoop.co.nz/stories/PO2005/S00105/nz-government-must-protect-most-vulnerable-workers-during-covid-19.htm
+title: NZ Government Must Protect Most Vulnerable Workers During COVID-19
+date: 2020-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00105/nz-government-must-protect-most-vulnerable-workers-during-covid-19.htm
 author: aut-university
+permalink: >-
+  /archive/2020/05/08/nz-government-must-protect-most-vulnerable-workers-during-covid-19/index.html
+layout: layout.njk
 ---
 NZ Government Must Protect Most Vulnerable Workers During COVID-19
 ==================================================================

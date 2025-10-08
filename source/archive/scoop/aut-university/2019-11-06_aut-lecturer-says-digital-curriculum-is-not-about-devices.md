@@ -1,9 +1,13 @@
 ---
 slug: aut-lecturer-says-digital-curriculum-is-not-about-devices
-title: "AUT Lecturer Says Digital Curriculum is Not About Devices"
-date: 2019-11-06
-source-url: https://www.scoop.co.nz/stories/ED1911/S00017/aut-lecturer-says-digital-curriculum-is-not-about-devices.htm
+title: AUT Lecturer Says Digital Curriculum is Not About Devices
+date: 2019-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00017/aut-lecturer-says-digital-curriculum-is-not-about-devices.htm
 author: aut-university
+permalink: >-
+  /archive/2019/11/06/aut-lecturer-says-digital-curriculum-is-not-about-devices/index.html
+layout: layout.njk
 ---
 AUT Lecturer Says Digital Curriculum is Not About Devices
 =========================================================

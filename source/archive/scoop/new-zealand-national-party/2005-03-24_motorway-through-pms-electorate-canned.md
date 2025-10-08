@@ -1,9 +1,12 @@
 ---
 slug: motorway-through-pms-electorate-canned
-title: "Motorway through PM’s electorate canned"
-date: 2005-03-24
-source-url: https://www.scoop.co.nz/stories/PA0503/S00505/motorway-through-pms-electorate-canned.htm
+title: Motorway through PM’s electorate canned
+date: 2005-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00505/motorway-through-pms-electorate-canned.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/24/motorway-through-pms-electorate-canned/index.html
+layout: layout.njk
 ---
 Motorway through PM’s electorate canned
 =======================================

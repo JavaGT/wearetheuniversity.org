@@ -1,9 +1,11 @@
 ---
 slug: we-need-to-talk-about-debt
-title: "We need to talk about debt"
-date: 2016-03-01
+title: We need to talk about debt
+date: 2016-03-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1603/S00016/we-need-to-talk-about-debt.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2016/03/01/we-need-to-talk-about-debt/index.html
+layout: layout.njk
 ---
 We need to talk about debt
 ==========================

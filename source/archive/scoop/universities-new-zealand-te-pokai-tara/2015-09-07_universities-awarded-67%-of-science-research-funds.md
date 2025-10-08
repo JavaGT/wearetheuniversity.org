@@ -1,9 +1,12 @@
 ---
 slug: universities-awarded-67%-of-science-research-funds
-title: "Universities awarded 67% of science research funds"
-date: 2015-09-07
-source-url: https://www.scoop.co.nz/stories/ED1509/S00031/universities-awarded-67-of-science-research-funds.htm
+title: Universities awarded 67% of science research funds
+date: 2015-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00031/universities-awarded-67-of-science-research-funds.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2015/09/07/universities-awarded-67/index.html
+layout: layout.njk
 ---
 Universities awarded 67% of science research funds
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: scientists-explore-new-frontiers-of-gene-behaviour
-title: "Scientists explore new frontiers of gene behaviour"
-date: 2009-05-18
-source-url: https://www.scoop.co.nz/stories/ED0905/S00076/scientists-explore-new-frontiers-of-gene-behaviour.htm
+title: Scientists explore new frontiers of gene behaviour
+date: 2009-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00076/scientists-explore-new-frontiers-of-gene-behaviour.htm
 author: massey-university
+permalink: >-
+  /archive/2009/05/18/scientists-explore-new-frontiers-of-gene-behaviour/index.html
+layout: layout.njk
 ---
 Scientists explore new frontiers of gene behaviour
 ==================================================

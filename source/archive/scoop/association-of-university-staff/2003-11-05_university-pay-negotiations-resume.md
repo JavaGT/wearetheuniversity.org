@@ -1,9 +1,12 @@
 ---
 slug: university-pay-negotiations-resume
-title: "University pay negotiations resume"
-date: 2003-11-05
-source-url: https://www.scoop.co.nz/stories/ED0311/S00010/university-pay-negotiations-resume.htm
+title: University pay negotiations resume
+date: 2003-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00010/university-pay-negotiations-resume.htm
 author: association-of-university-staff
+permalink: /archive/2003/11/05/university-pay-negotiations-resume/index.html
+layout: layout.njk
 ---
 University pay negotiations resume
 ==================================

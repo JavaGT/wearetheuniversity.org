@@ -1,9 +1,13 @@
 ---
 slug: give-us-a-break-1000s-join-nationwide-tea-break-event
-title: "Give Us A Break – 1000's join nationwide tea break event"
-date: 2013-10-30
-source-url: https://www.scoop.co.nz/stories/PO1310/S00283/give-us-a-break-1000s-join-nationwide-tea-break-event.htm
+title: Give Us A Break – 1000's join nationwide tea break event
+date: 2013-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1310/S00283/give-us-a-break-1000s-join-nationwide-tea-break-event.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/10/30/give-us-a-break-1000s-join-nationwide-tea-break-event/index.html
+layout: layout.njk
 ---
 Give Us A Break – 1000's join nationwide tea break event
 ========================================================

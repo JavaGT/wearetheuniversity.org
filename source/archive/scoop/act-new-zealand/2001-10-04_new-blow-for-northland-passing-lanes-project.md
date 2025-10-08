@@ -1,9 +1,12 @@
 ---
 slug: new-blow-for-northland-passing-lanes-project
-title: "New Blow for Northland Passing Lanes Project"
-date: 2001-10-04
-source-url: https://www.scoop.co.nz/stories/PA0110/S00101/new-blow-for-northland-passing-lanes-project.htm
+title: New Blow for Northland Passing Lanes Project
+date: 2001-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00101/new-blow-for-northland-passing-lanes-project.htm
 author: act-new-zealand
+permalink: /archive/2001/10/04/new-blow-for-northland-passing-lanes-project/index.html
+layout: layout.njk
 ---
 New Blow for Northland Passing Lanes Project
 ============================================

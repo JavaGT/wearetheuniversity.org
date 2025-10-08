@@ -1,9 +1,12 @@
 ---
 slug: big-bill-for-cera-spin-doctors
-title: "Big bill for CERA spin doctors"
-date: 2016-02-10
-source-url: https://www.scoop.co.nz/stories/PA1602/S00105/big-bill-for-cera-spin-doctors.htm
+title: Big bill for CERA spin doctors
+date: 2016-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00105/big-bill-for-cera-spin-doctors.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/10/big-bill-for-cera-spin-doctors/index.html
+layout: layout.njk
 ---
 Big bill for CERA spin doctors
 ==============================

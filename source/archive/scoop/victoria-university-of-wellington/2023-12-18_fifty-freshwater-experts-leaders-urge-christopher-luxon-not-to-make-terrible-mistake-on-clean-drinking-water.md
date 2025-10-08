@@ -1,9 +1,16 @@
 ---
-slug: fifty-freshwater-experts-leaders-urge-christopher-luxon-not-to-make-terrible-mistake-on-clean-drinking-water
-title: "Fifty Freshwater Experts, Leaders Urge Christopher Luxon Not To Make \"Terrible Mistake\" On Clean Drinking Water"
-date: 2023-12-18
-source-url: https://www.scoop.co.nz/stories/AK2312/S00388/fifty-freshwater-experts-leaders-urge-christopher-luxon-not-to-make-terrible-mistake-on-clean-drinking-water.htm
+slug: >-
+  fifty-freshwater-experts-leaders-urge-christopher-luxon-not-to-make-terrible-mistake-on-clean-drinking-water
+title: >-
+  Fifty Freshwater Experts, Leaders Urge Christopher Luxon Not To Make "Terrible
+  Mistake" On Clean Drinking Water
+date: 2023-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2312/S00388/fifty-freshwater-experts-leaders-urge-christopher-luxon-not-to-make-terrible-mistake-on-clean-drinking-water.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2023/12/18/fifty-freshwater-experts-leaders-urge-christopher-luxon-not-to-make-terrible-mistake-on-clean-drinking-water/index.html
+layout: layout.njk
 ---
 Fifty Freshwater Experts, Leaders Urge Christopher Luxon Not To Make “Terrible Mistake” On Clean Drinking Water
 ===============================================================================================================

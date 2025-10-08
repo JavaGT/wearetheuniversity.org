@@ -1,9 +1,12 @@
 ---
 slug: rod-donald-lets-get-new-zealand-working-again
-title: "Rod Donald: \"Let's get New Zealand working again\""
-date: 1999-07-13
-source-url: https://www.scoop.co.nz/stories/PA9907/S00179/rod-donald-lets-get-new-zealand-working-again.htm
+title: 'Rod Donald: "Let''s get New Zealand working again"'
+date: 1999-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00179/rod-donald-lets-get-new-zealand-working-again.htm
 author: green-party
+permalink: /archive/1999/07/13/rod-donald-lets-get-new-zealand-working-again/index.html
+layout: layout.njk
 ---
 Rod Donald: \"Let's get New Zealand working again"
 =================================================

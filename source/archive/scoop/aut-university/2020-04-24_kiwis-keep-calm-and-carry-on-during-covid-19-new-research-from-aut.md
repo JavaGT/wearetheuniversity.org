@@ -1,9 +1,13 @@
 ---
 slug: kiwis-keep-calm-and-carry-on-during-covid-19-new-research-from-aut
-title: "Kiwis Keep Calm And Carry On During Covid-19 - New Research From AUT"
-date: 2020-04-24
-source-url: https://www.scoop.co.nz/stories/AK2004/S00568/kiwis-keep-calm-and-carry-on-during-covid-19-new-research-from-aut.htm
+title: Kiwis Keep Calm And Carry On During Covid-19 - New Research From AUT
+date: 2020-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2004/S00568/kiwis-keep-calm-and-carry-on-during-covid-19-new-research-from-aut.htm
 author: aut-university
+permalink: >-
+  /archive/2020/04/24/kiwis-keep-calm-and-carry-on-during-covid-19-new-research-from-aut/index.html
+layout: layout.njk
 ---
 Kiwis Keep Calm And Carry On During Covid-19 - New Research From AUT
 ====================================================================

@@ -1,9 +1,12 @@
 ---
 slug: schooling-by-skype-to-help-struggling-readers
-title: "Schooling by Skype to help struggling readers"
-date: 2009-09-02
-source-url: https://www.scoop.co.nz/stories/ED0909/S00008/schooling-by-skype-to-help-struggling-readers.htm
+title: Schooling by Skype to help struggling readers
+date: 2009-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00008/schooling-by-skype-to-help-struggling-readers.htm
 author: massey-university
+permalink: /archive/2009/09/02/schooling-by-skype-to-help-struggling-readers/index.html
+layout: layout.njk
 ---
 Schooling by Skype to help struggling readers
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: what-are-republics-exactly-its-a-good-time-to-learn
-title: "What Are Republics, Exactly? It’s A Good Time To Learn"
-date: 2024-11-24
-source-url: https://www.scoop.co.nz/stories/WO2411/S00227/what-are-republics-exactly-its-a-good-time-to-learn.htm
+title: What Are Republics, Exactly? It’s A Good Time To Learn
+date: 2024-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2411/S00227/what-are-republics-exactly-its-a-good-time-to-learn.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/11/24/what-are-republics-exactly-its-a-good-time-to-learn/index.html
+layout: layout.njk
 ---
 What Are Republics, Exactly? It’s A Good Time To Learn
 ======================================================

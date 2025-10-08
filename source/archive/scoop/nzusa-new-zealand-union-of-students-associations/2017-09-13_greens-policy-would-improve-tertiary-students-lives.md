@@ -1,9 +1,13 @@
 ---
 slug: greens-policy-would-improve-tertiary-students-lives
-title: "Greens’ policy would improve tertiary students’ lives"
-date: 2017-09-13
-source-url: https://www.scoop.co.nz/stories/PO1709/S00232/greens-policy-would-improve-tertiary-students-lives.htm
+title: Greens’ policy would improve tertiary students’ lives
+date: 2017-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00232/greens-policy-would-improve-tertiary-students-lives.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/09/13/greens-policy-would-improve-tertiary-students-lives/index.html
+layout: layout.njk
 ---
 Greens’ policy would improve tertiary students’ lives
 =====================================================

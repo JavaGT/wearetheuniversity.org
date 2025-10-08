@@ -1,9 +1,12 @@
 ---
 slug: new-dairy-research-farm-at-lincoln-university
-title: "New Dairy Research Farm at Lincoln University"
-date: 2009-02-19
-source-url: https://www.scoop.co.nz/stories/SC0902/S00043/new-dairy-research-farm-at-lincoln-university.htm
+title: New Dairy Research Farm at Lincoln University
+date: 2009-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0902/S00043/new-dairy-research-farm-at-lincoln-university.htm
 author: lincoln-university
+permalink: /archive/2009/02/19/new-dairy-research-farm-at-lincoln-university/index.html
+layout: layout.njk
 ---
 New Dairy Research Farm at Lincoln University
 =============================================

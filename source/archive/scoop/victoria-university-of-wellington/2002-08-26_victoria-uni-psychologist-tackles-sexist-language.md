@@ -1,9 +1,13 @@
 ---
 slug: victoria-uni-psychologist-tackles-sexist-language
-title: "Victoria Uni psychologist tackles sexist language"
-date: 2002-08-26
-source-url: https://www.scoop.co.nz/stories/ED0208/S00036/victoria-uni-psychologist-tackles-sexist-language.htm
+title: Victoria Uni psychologist tackles sexist language
+date: 2002-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00036/victoria-uni-psychologist-tackles-sexist-language.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2002/08/26/victoria-uni-psychologist-tackles-sexist-language/index.html
+layout: layout.njk
 ---
 Victoria Uni psychologist tackles sexist language
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-focus-for-new-biosecurity-network
-title: "Māori focus for new biosecurity network"
-date: 2015-04-20
-source-url: https://www.scoop.co.nz/stories/SC1504/S00056/maori-focus-for-new-biosecurity-network.htm
+title: Māori focus for new biosecurity network
+date: 2015-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00056/maori-focus-for-new-biosecurity-network.htm
 author: lincoln-university
+permalink: /archive/2015/04/20/m/index.html
+layout: layout.njk
 ---
 Māori focus for new biosecurity network
 =======================================

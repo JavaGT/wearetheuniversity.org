@@ -1,9 +1,13 @@
 ---
 slug: rt-hon-winston-peters-speech-keeping-promises-matters
-title: "Rt Hon Winston Peters Speech: Keeping Promises Matters"
-date: 2020-10-14
-source-url: https://www.scoop.co.nz/stories/PA2010/S00096/rt-hon-winston-peters-speech-keeping-promises-matters.htm
+title: 'Rt Hon Winston Peters Speech: Keeping Promises Matters'
+date: 2020-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00096/rt-hon-winston-peters-speech-keeping-promises-matters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/10/14/rt-hon-winston-peters-speech-keeping-promises-matters/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters Speech: Keeping Promises Matters
 ======================================================

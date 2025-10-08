@@ -1,9 +1,13 @@
 ---
 slug: sandra-lees-decision-an-outrageous-abuse-of-power
-title: "Sandra Lee’s Decision An Outrageous Abuse Of Power"
-date: 2001-05-16
-source-url: https://www.scoop.co.nz/stories/PA0105/S00316/sandra-lees-decision-an-outrageous-abuse-of-power.htm
+title: Sandra Lee’s Decision An Outrageous Abuse Of Power
+date: 2001-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00316/sandra-lees-decision-an-outrageous-abuse-of-power.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/05/16/sandra-lees-decision-an-outrageous-abuse-of-power/index.html
+layout: layout.njk
 ---
 Sandra Lee’s Decision An Outrageous Abuse Of Power
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: home-owners-must-be-protected-from-future-leaky-buildings
-title: "Home-owners must be protected from future leaky buildings"
-date: 2011-04-15
-source-url: https://www.scoop.co.nz/stories/PA1104/S00351/home-owners-must-be-protected-from-future-leaky-buildings.htm
+title: Home-owners must be protected from future leaky buildings
+date: 2011-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00351/home-owners-must-be-protected-from-future-leaky-buildings.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/15/home-owners-must-be-protected-from-future-leaky-buildings/index.html
+layout: layout.njk
 ---
 Home-owners must be protected from future leaky buildings
 =========================================================

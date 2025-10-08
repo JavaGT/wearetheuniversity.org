@@ -1,9 +1,12 @@
 ---
 slug: education-must-provide-real-world-skills
-title: "Education must provide real world skills"
-date: 2015-08-20
-source-url: https://www.scoop.co.nz/stories/PA1508/S00338/education-must-provide-real-world-skills.htm
+title: Education must provide real world skills
+date: 2015-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00338/education-must-provide-real-world-skills.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/20/education-must-provide-real-world-skills/index.html
+layout: layout.njk
 ---
 Education must provide real world skills
 ========================================

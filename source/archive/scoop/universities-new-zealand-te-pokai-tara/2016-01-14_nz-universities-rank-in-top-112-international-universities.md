@@ -1,9 +1,13 @@
 ---
 slug: nz-universities-rank-in-top-112-international-universities
-title: "NZ universities rank in top 112 international universities"
-date: 2016-01-14
-source-url: https://www.scoop.co.nz/stories/ED1601/S00014/nz-universities-rank-in-top-112-international-universities.htm
+title: NZ universities rank in top 112 international universities
+date: 2016-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00014/nz-universities-rank-in-top-112-international-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/01/14/nz-universities-rank-in-top-112-international-universities/index.html
+layout: layout.njk
 ---
 NZ universities rank in top 112 international universities
 ==========================================================

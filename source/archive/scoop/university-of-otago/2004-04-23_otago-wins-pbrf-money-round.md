@@ -1,9 +1,11 @@
 ---
 slug: otago-wins-pbrf-money-round
-title: "Otago Wins PBRF Money Round"
-date: 2004-04-23
+title: Otago Wins PBRF Money Round
+date: 2004-04-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0404/S00087/otago-wins-pbrf-money-round.htm
 author: university-of-otago
+permalink: /archive/2004/04/23/otago-wins-pbrf-money-round/index.html
+layout: layout.njk
 ---
 Otago Wins PBRF Money Round
 ===========================

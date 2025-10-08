@@ -1,9 +1,12 @@
 ---
 slug: chimps-benefit-from-research-findings
-title: "Chimps Benefit From Research Findings"
-date: 2001-08-16
-source-url: https://www.scoop.co.nz/stories/ED0108/S00045/chimps-benefit-from-research-findings.htm
+title: Chimps Benefit From Research Findings
+date: 2001-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00045/chimps-benefit-from-research-findings.htm
 author: waikato-university
+permalink: /archive/2001/08/16/chimps-benefit-from-research-findings/index.html
+layout: layout.njk
 ---
 Chimps Benefit From Research Findings
 =====================================

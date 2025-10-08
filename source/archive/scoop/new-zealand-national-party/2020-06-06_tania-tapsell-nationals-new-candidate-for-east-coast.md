@@ -1,9 +1,13 @@
 ---
 slug: tania-tapsell-nationals-new-candidate-for-east-coast
-title: "Tania Tapsell National’s New Candidate For East Coast"
-date: 2020-06-06
-source-url: https://www.scoop.co.nz/stories/PA2006/S00060/tania-tapsell-nationals-new-candidate-for-east-coast.htm
+title: Tania Tapsell National’s New Candidate For East Coast
+date: 2020-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00060/tania-tapsell-nationals-new-candidate-for-east-coast.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/06/tania-tapsell-nationals-new-candidate-for-east-coast/index.html
+layout: layout.njk
 ---
 Tania Tapsell National’s New Candidate For East Coast
 =====================================================

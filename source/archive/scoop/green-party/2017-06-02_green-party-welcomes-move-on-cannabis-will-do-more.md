@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcomes-move-on-cannabis-will-do-more
-title: "Green Party welcomes move on cannabis, will do more"
-date: 2017-06-02
-source-url: https://www.scoop.co.nz/stories/PA1706/S00043/green-party-welcomes-move-on-cannabis-will-do-more.htm
+title: Green Party welcomes move on cannabis, will do more
+date: 2017-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00043/green-party-welcomes-move-on-cannabis-will-do-more.htm
 author: green-party
+permalink: >-
+  /archive/2017/06/02/green-party-welcomes-move-on-cannabis-will-do-more/index.html
+layout: layout.njk
 ---
 Green Party welcomes move on cannabis, will do more
 ===================================================

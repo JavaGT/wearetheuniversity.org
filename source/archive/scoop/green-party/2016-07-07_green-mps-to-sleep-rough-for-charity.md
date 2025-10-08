@@ -1,9 +1,12 @@
 ---
 slug: green-mps-to-sleep-rough-for-charity
-title: "Green MPs to sleep rough for charity"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/PA1607/S00113/green-mps-to-sleep-rough-for-charity.htm
+title: Green MPs to sleep rough for charity
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00113/green-mps-to-sleep-rough-for-charity.htm
 author: green-party
+permalink: /archive/2016/07/07/green-mps-to-sleep-rough-for-charity/index.html
+layout: layout.njk
 ---
 Green MPs to sleep rough for charity
 ====================================

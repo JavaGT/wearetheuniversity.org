@@ -1,9 +1,12 @@
 ---
 slug: victoria-congratulates-staff-on-pbrf-success
-title: "Victoria congratulates staff on PBRF success"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/ED0404/S00086/victoria-congratulates-staff-on-pbrf-success.htm
+title: Victoria congratulates staff on PBRF success
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00086/victoria-congratulates-staff-on-pbrf-success.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/04/23/victoria-congratulates-staff-on-pbrf-success/index.html
+layout: layout.njk
 ---
 Victoria congratulates staff on PBRF success
 ============================================

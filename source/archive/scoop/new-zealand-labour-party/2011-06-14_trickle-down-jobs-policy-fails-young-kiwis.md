@@ -1,9 +1,12 @@
 ---
 slug: trickle-down-jobs-policy-fails-young-kiwis
-title: "Trickle down jobs ‘policy’ fails young Kiwis"
-date: 2011-06-14
-source-url: https://www.scoop.co.nz/stories/PA1106/S00218/trickle-down-jobs-policy-fails-young-kiwis.htm
+title: Trickle down jobs ‘policy’ fails young Kiwis
+date: 2011-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00218/trickle-down-jobs-policy-fails-young-kiwis.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/14/trickle-down-jobs-policy-fails-young-kiwis/index.html
+layout: layout.njk
 ---
 Trickle down jobs ‘policy’ fails young Kiwis
 ============================================

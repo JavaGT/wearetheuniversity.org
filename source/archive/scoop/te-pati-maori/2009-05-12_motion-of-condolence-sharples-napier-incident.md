@@ -1,9 +1,12 @@
 ---
 slug: motion-of-condolence-sharples-napier-incident
-title: "Motion of Condolence: Sharples - Napier Incident"
-date: 2009-05-12
-source-url: https://www.scoop.co.nz/stories/PA0905/S00212/motion-of-condolence-sharples-napier-incident.htm
+title: 'Motion of Condolence: Sharples - Napier Incident'
+date: 2009-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00212/motion-of-condolence-sharples-napier-incident.htm
 author: te-pati-maori
+permalink: /archive/2009/05/12/motion-of-condolence-sharples-napier-incident/index.html
+layout: layout.njk
 ---
 Motion of Condolence: Sharples - Napier Incident
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: explanation-sought-for-animal-experiments
-title: "Explanation sought for animal experiments"
-date: 2005-08-18
-source-url: https://www.scoop.co.nz/stories/PA0508/S00488/explanation-sought-for-animal-experiments.htm
+title: Explanation sought for animal experiments
+date: 2005-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00488/explanation-sought-for-animal-experiments.htm
 author: green-party
+permalink: /archive/2005/08/18/explanation-sought-for-animal-experiments/index.html
+layout: layout.njk
 ---
 Explanation sought for animal experiments
 =========================================

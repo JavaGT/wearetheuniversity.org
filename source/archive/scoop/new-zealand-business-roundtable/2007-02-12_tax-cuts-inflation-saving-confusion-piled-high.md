@@ -1,9 +1,12 @@
 ---
 slug: tax-cuts-inflation-saving-confusion-piled-high
-title: "Tax Cuts, Inflation, Saving: Confusion Piled High"
-date: 2007-02-12
-source-url: https://www.scoop.co.nz/stories/BU0702/S00138/tax-cuts-inflation-saving-confusion-piled-high.htm
+title: 'Tax Cuts, Inflation, Saving: Confusion Piled High'
+date: 2007-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0702/S00138/tax-cuts-inflation-saving-confusion-piled-high.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/02/12/tax-cuts-inflation-saving-confusion-piled-high/index.html
+layout: layout.njk
 ---
 Tax Cuts, Inflation, Saving: Confusion Piled High
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: bill-englishs-speech-children-the-top-priority
-title: "Bill English's Speech: Children – the top priority"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00621/bill-englishs-speech-children-the-top-priority.htm
+title: 'Bill English''s Speech: Children – the top priority'
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00621/bill-englishs-speech-children-the-top-priority.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/27/bill-englishs-speech-children-the-top-priority/index.html
+layout: layout.njk
 ---
 Bill English's Speech: Children – the top priority
 ==================================================

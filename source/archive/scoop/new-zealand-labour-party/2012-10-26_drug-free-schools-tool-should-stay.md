@@ -1,9 +1,12 @@
 ---
 slug: drug-free-schools-tool-should-stay
-title: "Drug-free schools tool should stay"
-date: 2012-10-26
-source-url: https://www.scoop.co.nz/stories/ED1210/S00161/drug-free-schools-tool-should-stay.htm
+title: Drug-free schools tool should stay
+date: 2012-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00161/drug-free-schools-tool-should-stay.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/26/drug-free-schools-tool-should-stay/index.html
+layout: layout.njk
 ---
 Drug-free schools tool should stay
 ==================================

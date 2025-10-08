@@ -1,9 +1,13 @@
 ---
 slug: uc-produces-small-rover-robot-to-inspect-piles-under-houses
-title: "UC Produces Small Rover Robot To Inspect Piles Under Houses"
-date: 2013-02-04
-source-url: https://www.scoop.co.nz/stories/SC1302/S00009/uc-produces-small-rover-robot-to-inspect-piles-under-houses.htm
+title: UC Produces Small Rover Robot To Inspect Piles Under Houses
+date: 2013-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1302/S00009/uc-produces-small-rover-robot-to-inspect-piles-under-houses.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/04/uc-produces-small-rover-robot-to-inspect-piles-under-houses/index.html
+layout: layout.njk
 ---
 UC Produces Small Rover Robot To Inspect Piles Under Houses
 ===========================================================

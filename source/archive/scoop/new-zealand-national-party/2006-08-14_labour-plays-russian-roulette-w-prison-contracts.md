@@ -1,9 +1,13 @@
 ---
 slug: labour-plays-russian-roulette-w-prison-contracts
-title: "Labour plays Russian roulette w prison contracts"
-date: 2006-08-14
-source-url: https://www.scoop.co.nz/stories/PA0608/S00222/labour-plays-russian-roulette-w-prison-contracts.htm
+title: Labour plays Russian roulette w prison contracts
+date: 2006-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00222/labour-plays-russian-roulette-w-prison-contracts.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/08/14/labour-plays-russian-roulette-w-prison-contracts/index.html
+layout: layout.njk
 ---
 Labour plays Russian roulette w prison contracts
 ================================================

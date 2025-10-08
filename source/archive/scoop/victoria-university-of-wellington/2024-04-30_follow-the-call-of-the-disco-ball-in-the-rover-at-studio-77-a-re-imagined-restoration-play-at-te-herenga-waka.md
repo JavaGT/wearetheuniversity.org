@@ -1,9 +1,16 @@
 ---
-slug: follow-the-call-of-the-disco-ball-in-the-rover-at-studio-77-a-re-imagined-restoration-play-at-te-herenga-waka
-title: "Follow The Call Of The Disco Ball In The Rover At Studio 77 - A Re-imagined Restoration Play At Te Herenga Waka"
-date: 2024-04-30
-source-url: https://www.scoop.co.nz/stories/CU2404/S00291/follow-the-call-of-the-disco-ball-in-the-rover-at-studio-77-a-re-imagined-restoration-play-at-te-herenga-waka.htm
+slug: >-
+  follow-the-call-of-the-disco-ball-in-the-rover-at-studio-77-a-re-imagined-restoration-play-at-te-herenga-waka
+title: >-
+  Follow The Call Of The Disco Ball In The Rover At Studio 77 - A Re-imagined
+  Restoration Play At Te Herenga Waka
+date: 2024-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2404/S00291/follow-the-call-of-the-disco-ball-in-the-rover-at-studio-77-a-re-imagined-restoration-play-at-te-herenga-waka.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/04/30/follow-the-call-of-the-disco-ball-in-the-rover-at-studio-77-a-re-imagined-restoration-play-at-te-herenga-waka/index.html
+layout: layout.njk
 ---
 Follow The Call Of The Disco Ball In The Rover At Studio 77 - A Re-imagined Restoration Play At Te Herenga Waka
 ===============================================================================================================

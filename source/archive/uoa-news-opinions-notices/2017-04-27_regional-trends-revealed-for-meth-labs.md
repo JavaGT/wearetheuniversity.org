@@ -1,8 +1,11 @@
 ---
 slug: regional-trends-revealed-for-meth-labs
-title: "Regional trends revealed for meth labs"
-date: 2017-04-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/regional-trends-revealed-for-meth-labs.html
+title: Regional trends revealed for meth labs
+date: 2017-04-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/regional-trends-revealed-for-meth-labs.html
+permalink: /archive/2017/04/27/regional-trends-revealed-for-meth-labs/index.html
+layout: layout.njk
 ---
 Regional trends revealed for meth labs
 ======================================

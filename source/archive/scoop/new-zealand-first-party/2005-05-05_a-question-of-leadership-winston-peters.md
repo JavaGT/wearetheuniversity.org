@@ -1,9 +1,12 @@
 ---
 slug: a-question-of-leadership-winston-peters
-title: "A Question Of Leadership - Winston Peters"
-date: 2005-05-05
-source-url: https://www.scoop.co.nz/stories/PA0505/S00097/a-question-of-leadership-winston-peters.htm
+title: A Question Of Leadership - Winston Peters
+date: 2005-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00097/a-question-of-leadership-winston-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/05/a-question-of-leadership-winston-peters/index.html
+layout: layout.njk
 ---
 A Question Of Leadership - Winston Peters
 =========================================

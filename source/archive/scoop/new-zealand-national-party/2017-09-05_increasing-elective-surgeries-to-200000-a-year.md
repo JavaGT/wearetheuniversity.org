@@ -1,9 +1,12 @@
 ---
 slug: increasing-elective-surgeries-to-200000-a-year
-title: "Increasing elective surgeries to 200,000 a year"
-date: 2017-09-05
-source-url: https://www.scoop.co.nz/stories/PA1709/S00038/increasing-elective-surgeries-to-200000-a-year.htm
+title: Increasing elective surgeries to 200,000 a year
+date: 2017-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00038/increasing-elective-surgeries-to-200000-a-year.htm
 author: new-zealand-national-party
+permalink: /archive/2017/09/05/increasing-elective-surgeries-to-200000-a-year/index.html
+layout: layout.njk
 ---
 Increasing elective surgeries to 200,000 a year
 ===============================================

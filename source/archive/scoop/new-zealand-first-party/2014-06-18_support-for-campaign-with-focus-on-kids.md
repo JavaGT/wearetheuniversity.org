@@ -1,9 +1,12 @@
 ---
 slug: support-for-campaign-with-focus-on-kids
-title: "Support for Campaign with Focus on Kids"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/PA1406/S00250/support-for-campaign-with-focus-on-kids.htm
+title: Support for Campaign with Focus on Kids
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00250/support-for-campaign-with-focus-on-kids.htm
 author: new-zealand-first-party
+permalink: /archive/2014/06/18/support-for-campaign-with-focus-on-kids/index.html
+layout: layout.njk
 ---
 Support for Campaign with Focus on Kids
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-misleads-on-allowances
-title: "Helen Clark misleads on allowances"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/PA0508/S00581/helen-clark-misleads-on-allowances.htm
+title: Helen Clark misleads on allowances
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00581/helen-clark-misleads-on-allowances.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/23/helen-clark-misleads-on-allowances/index.html
+layout: layout.njk
 ---
 Helen Clark misleads on allowances
 ==================================

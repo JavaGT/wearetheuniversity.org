@@ -1,9 +1,12 @@
 ---
 slug: post-iraq-the-state-of-international-law
-title: "Post-Iraq: The State Of International Law"
-date: 2003-06-30
-source-url: https://www.scoop.co.nz/stories/ED0306/S00067/post-iraq-the-state-of-international-law.htm
+title: 'Post-Iraq: The State Of International Law'
+date: 2003-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00067/post-iraq-the-state-of-international-law.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/30/post-iraq-the-state-of-international-law/index.html
+layout: layout.njk
 ---
 Post-Iraq: The State Of International Law
 =========================================

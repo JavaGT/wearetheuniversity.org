@@ -1,9 +1,13 @@
 ---
 slug: genomic-research-to-investigate-rare-childrens-di
-title: "Genomic research to investigate rare children's di"
-date: 2007-07-30
-source-url: https://www.scoop.co.nz/stories/SC0707/S00068/genomic-research-to-investigate-rare-childrens-di.htm
+title: Genomic research to investigate rare children's di
+date: 2007-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0707/S00068/genomic-research-to-investigate-rare-childrens-di.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/07/30/genomic-research-to-investigate-rare-childrens-di/index.html
+layout: layout.njk
 ---
 Genomic research to investigate rare children's di
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: make-sure-you-are-immunized-against-measles
-title: "Make Sure You Are Immunized Against Measles"
-date: 2014-06-24
-source-url: https://www.scoop.co.nz/stories/PA1406/S00361/make-sure-you-are-immunized-against-measles.htm
+title: Make Sure You Are Immunized Against Measles
+date: 2014-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00361/make-sure-you-are-immunized-against-measles.htm
 author: new-zealand-national-party
+permalink: /archive/2014/06/24/make-sure-you-are-immunized-against-measles/index.html
+layout: layout.njk
 ---
 Make Sure You Are Immunized Against Measles
 ===========================================

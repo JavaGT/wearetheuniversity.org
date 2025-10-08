@@ -1,9 +1,12 @@
 ---
 slug: pansy-wong-things-that-bind-us
-title: "Pansy Wong: Things that bind us"
-date: 2007-10-05
-source-url: https://www.scoop.co.nz/stories/PA0710/S00088/pansy-wong-things-that-bind-us.htm
+title: 'Pansy Wong: Things that bind us'
+date: 2007-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00088/pansy-wong-things-that-bind-us.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/05/pansy-wong-things-that-bind-us/index.html
+layout: layout.njk
 ---
 Pansy Wong: Things that bind us
 ===============================

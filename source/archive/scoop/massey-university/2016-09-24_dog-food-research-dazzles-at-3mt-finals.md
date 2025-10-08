@@ -1,9 +1,12 @@
 ---
 slug: dog-food-research-dazzles-at-3mt-finals
-title: "Dog food research dazzles at 3MT finals"
-date: 2016-09-24
-source-url: https://www.scoop.co.nz/stories/SC1609/S00064/dog-food-research-dazzles-at-3mt-finals.htm
+title: Dog food research dazzles at 3MT finals
+date: 2016-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00064/dog-food-research-dazzles-at-3mt-finals.htm
 author: massey-university
+permalink: /archive/2016/09/24/dog-food-research-dazzles-at-3mt-finals/index.html
+layout: layout.njk
 ---
 Dog food research dazzles at 3MT finals
 =======================================

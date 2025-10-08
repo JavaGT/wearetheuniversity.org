@@ -1,9 +1,12 @@
 ---
 slug: youth-driving-package-not-bold-enough
-title: "Youth driving package not bold enough"
-date: 2010-04-15
-source-url: https://www.scoop.co.nz/stories/PO1004/S00146/youth-driving-package-not-bold-enough.htm
+title: Youth driving package not bold enough
+date: 2010-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1004/S00146/youth-driving-package-not-bold-enough.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/04/15/youth-driving-package-not-bold-enough/index.html
+layout: layout.njk
 ---
 Youth driving package not bold enough
 =====================================

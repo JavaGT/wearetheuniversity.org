@@ -1,9 +1,12 @@
 ---
 slug: immigration-fraud-the-norm-says-peters
-title: "Immigration Fraud The Norm Says Peters"
-date: 2003-02-17
-source-url: https://www.scoop.co.nz/stories/PA0302/S00271/immigration-fraud-the-norm-says-peters.htm
+title: Immigration Fraud The Norm Says Peters
+date: 2003-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00271/immigration-fraud-the-norm-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2003/02/17/immigration-fraud-the-norm-says-peters/index.html
+layout: layout.njk
 ---
 Immigration Fraud The Norm Says Peters
 ======================================

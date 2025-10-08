@@ -1,9 +1,13 @@
 ---
 slug: study-shows-how-dads-involvement-in-childcare-impacts-their-kids
-title: "Study Shows How Dads' Involvement In Childcare Impacts Their Kids"
-date: 2022-10-30
-source-url: https://www.scoop.co.nz/stories/GE2210/S00072/study-shows-how-dads-involvement-in-childcare-impacts-their-kids.htm
+title: Study Shows How Dads' Involvement In Childcare Impacts Their Kids
+date: 2022-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2210/S00072/study-shows-how-dads-involvement-in-childcare-impacts-their-kids.htm
 author: aut-university
+permalink: >-
+  /archive/2022/10/30/study-shows-how-dads-involvement-in-childcare-impacts-their-kids/index.html
+layout: layout.njk
 ---
 Study Shows How Dads' Involvement In Childcare Impacts Their Kids
 =================================================================

@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-makes-cost-saving-decisions
-title: "Lincoln University Makes Cost-Saving Decisions"
-date: 2002-08-07
-source-url: https://www.scoop.co.nz/stories/ED0208/S00006/lincoln-university-makes-cost-saving-decisions.htm
+title: Lincoln University Makes Cost-Saving Decisions
+date: 2002-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00006/lincoln-university-makes-cost-saving-decisions.htm
 author: lincoln-university
+permalink: /archive/2002/08/07/lincoln-university-makes-cost-saving-decisions/index.html
+layout: layout.njk
 ---
 Lincoln University Makes Cost-Saving Decisions
 ==============================================

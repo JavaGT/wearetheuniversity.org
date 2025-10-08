@@ -1,9 +1,13 @@
 ---
 slug: cheaper-gib-board-not-the-solution-to-the-housing-crisis
-title: "Cheaper Gib board not the solution to the housing crisis"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/PA1405/S00297/cheaper-gib-board-not-the-solution-to-the-housing-crisis.htm
+title: Cheaper Gib board not the solution to the housing crisis
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00297/cheaper-gib-board-not-the-solution-to-the-housing-crisis.htm
 author: green-party
+permalink: >-
+  /archive/2014/05/15/cheaper-gib-board-not-the-solution-to-the-housing-crisis/index.html
+layout: layout.njk
 ---
 Cheaper Gib board not the solution to the housing crisis
 ========================================================

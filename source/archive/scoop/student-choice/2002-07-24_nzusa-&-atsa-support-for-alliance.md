@@ -1,9 +1,12 @@
 ---
 slug: nzusa-&-atsa-support-for-alliance
-title: "NZUSA & ATSA support for Alliance"
-date: 2002-07-24
-source-url: https://www.scoop.co.nz/stories/ED0207/S00060/nzusa-atsa-support-for-alliance.htm
+title: NZUSA & ATSA support for Alliance
+date: 2002-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00060/nzusa-atsa-support-for-alliance.htm
 author: student-choice
+permalink: /archive/2002/07/24/nzusa-/index.html
+layout: layout.njk
 ---
 NZUSA & ATSA support for Alliance
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: first-ever-pacific-literature-conference-in-new-zealand
-title: "First ever Pacific literature conference in New Zealand"
-date: 2011-06-22
-source-url: https://www.scoop.co.nz/stories/AK1106/S00580/first-ever-pacific-literature-conference-in-new-zealand.htm
+title: First ever Pacific literature conference in New Zealand
+date: 2011-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1106/S00580/first-ever-pacific-literature-conference-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/06/22/first-ever-pacific-literature-conference-in-new-zealand/index.html
+layout: layout.njk
 ---
 First ever Pacific literature conference in New Zealand
 =======================================================

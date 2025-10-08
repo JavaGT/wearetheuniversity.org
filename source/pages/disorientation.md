@@ -1,4 +1,4 @@
----
+permalink: "/disorientation/index.html"
 slug: disorientation
 title: Disorientation
 ---

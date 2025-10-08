@@ -1,9 +1,13 @@
 ---
 slug: major-prostate-cancer-trial-boosted-by-new-funding
-title: "Major prostate cancer trial boosted by new funding"
-date: 2010-05-31
-source-url: https://www.scoop.co.nz/stories/GE1005/S00172/major-prostate-cancer-trial-boosted-by-new-funding.htm
+title: Major prostate cancer trial boosted by new funding
+date: 2010-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1005/S00172/major-prostate-cancer-trial-boosted-by-new-funding.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/05/31/major-prostate-cancer-trial-boosted-by-new-funding/index.html
+layout: layout.njk
 ---
 Major prostate cancer trial boosted by new funding
 ==================================================

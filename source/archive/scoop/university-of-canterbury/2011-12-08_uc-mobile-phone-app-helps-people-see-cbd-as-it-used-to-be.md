@@ -1,9 +1,13 @@
 ---
 slug: uc-mobile-phone-app-helps-people-see-cbd-as-it-used-to-be
-title: "UC mobile phone app helps people see CBD as it used to be"
-date: 2011-12-08
-source-url: https://www.scoop.co.nz/stories/ED1112/S00045/uc-mobile-phone-app-helps-people-see-cbd-as-it-used-to-be.htm
+title: UC mobile phone app helps people see CBD as it used to be
+date: 2011-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00045/uc-mobile-phone-app-helps-people-see-cbd-as-it-used-to-be.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/12/08/uc-mobile-phone-app-helps-people-see-cbd-as-it-used-to-be/index.html
+layout: layout.njk
 ---
 UC mobile phone app helps people see CBD as it used to be
 =========================================================

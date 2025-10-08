@@ -1,9 +1,12 @@
 ---
 slug: free-press-acts-regular-bulletin
-title: "Free Press: ACT’s regular bulletin"
-date: 2016-10-03
-source-url: https://www.scoop.co.nz/stories/PA1610/S00021/free-press-acts-regular-bulletin.htm
+title: 'Free Press: ACT’s regular bulletin'
+date: 2016-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00021/free-press-acts-regular-bulletin.htm
 author: act-new-zealand
+permalink: /archive/2016/10/03/free-press-acts-regular-bulletin/index.html
+layout: layout.njk
 ---
 Free Press: ACT’s regular bulletin
 ==================================

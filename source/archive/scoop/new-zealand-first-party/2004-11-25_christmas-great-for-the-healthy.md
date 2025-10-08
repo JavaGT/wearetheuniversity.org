@@ -1,9 +1,12 @@
 ---
 slug: christmas-great-for-the-healthy
-title: "Christmas Great For The Healthy"
-date: 2004-11-25
-source-url: https://www.scoop.co.nz/stories/PA0411/S00547/christmas-great-for-the-healthy.htm
+title: Christmas Great For The Healthy
+date: 2004-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00547/christmas-great-for-the-healthy.htm
 author: new-zealand-first-party
+permalink: /archive/2004/11/25/christmas-great-for-the-healthy/index.html
+layout: layout.njk
 ---
 Christmas Great For The Healthy
 ===============================

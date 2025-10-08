@@ -1,9 +1,12 @@
 ---
 slug: southern-hemisphere-science-goes-on-show
-title: "Southern hemisphere science goes on show"
-date: 2015-08-21
-source-url: https://www.scoop.co.nz/stories/SC1508/S00040/southern-hemisphere-science-goes-on-show.htm
+title: Southern hemisphere science goes on show
+date: 2015-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1508/S00040/southern-hemisphere-science-goes-on-show.htm
 author: aut-university
+permalink: /archive/2015/08/21/southern-hemisphere-science-goes-on-show/index.html
+layout: layout.njk
 ---
 Southern hemisphere science goes on show
 ========================================

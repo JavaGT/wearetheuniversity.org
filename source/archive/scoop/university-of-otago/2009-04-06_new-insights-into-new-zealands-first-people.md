@@ -1,9 +1,12 @@
 ---
 slug: new-insights-into-new-zealands-first-people
-title: "New insights into New Zealand’s first people"
-date: 2009-04-06
-source-url: https://www.scoop.co.nz/stories/SC0904/S00009/new-insights-into-new-zealands-first-people.htm
+title: New insights into New Zealand’s first people
+date: 2009-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00009/new-insights-into-new-zealands-first-people.htm
 author: university-of-otago
+permalink: /archive/2009/04/06/new-insights-into-new-zealands-first-people/index.html
+layout: layout.njk
 ---
 New insights into New Zealand’s first people
 ============================================

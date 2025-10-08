@@ -1,9 +1,12 @@
 ---
 slug: more-work-needed-on-energy-policy
-title: "More work needed on energy policy"
-date: 2013-02-15
-source-url: https://www.scoop.co.nz/stories/ED1302/S00077/more-work-needed-on-energy-policy.htm
+title: More work needed on energy policy
+date: 2013-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00077/more-work-needed-on-energy-policy.htm
 author: university-of-waikato
+permalink: /archive/2013/02/15/more-work-needed-on-energy-policy/index.html
+layout: layout.njk
 ---
 More work needed on energy policy
 =================================

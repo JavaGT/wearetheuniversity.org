@@ -1,9 +1,12 @@
 ---
 slug: times-higher-education-100-under-50-ranking
-title: "Times Higher Education 100 under 50 Ranking"
-date: 2013-06-20
-source-url: https://www.scoop.co.nz/stories/ED1306/S00105/times-higher-education-100-under-50-ranking.htm
+title: Times Higher Education 100 under 50 Ranking
+date: 2013-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00105/times-higher-education-100-under-50-ranking.htm
 author: the-times-higher-education
+permalink: /archive/2013/06/20/times-higher-education-100-under-50-ranking/index.html
+layout: layout.njk
 ---
 Times Higher Education 100 under 50 Ranking
 ===========================================

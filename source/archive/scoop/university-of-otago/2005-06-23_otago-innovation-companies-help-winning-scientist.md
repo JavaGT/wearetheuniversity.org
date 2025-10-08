@@ -1,9 +1,13 @@
 ---
 slug: otago-innovation-companies-help-winning-scientist
-title: "Otago Innovation companies help winning scientist"
-date: 2005-06-23
-source-url: https://www.scoop.co.nz/stories/SC0506/S00048/otago-innovation-companies-help-winning-scientist.htm
+title: Otago Innovation companies help winning scientist
+date: 2005-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0506/S00048/otago-innovation-companies-help-winning-scientist.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/06/23/otago-innovation-companies-help-winning-scientist/index.html
+layout: layout.njk
 ---
 Otago Innovation companies help winning scientist
 =================================================

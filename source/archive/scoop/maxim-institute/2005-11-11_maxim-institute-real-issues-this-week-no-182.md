@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-this-week-no-182
-title: "Maxim Institute: Real issues.this week: No. 182,"
-date: 2005-11-11
-source-url: https://www.scoop.co.nz/stories/PO0511/S00097/maxim-institute-real-issuesthis-week-no-182.htm
+title: 'Maxim Institute: Real issues.this week: No. 182,'
+date: 2005-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0511/S00097/maxim-institute-real-issuesthis-week-no-182.htm
 author: maxim-institute
+permalink: /archive/2005/11/11/maxim-institute-real-issues-this-week-no-182/index.html
+layout: layout.njk
 ---
 Maxim Institute: Real issues.this week: No. 182,
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: urgent-debate-insider-trading-dr-pita-sharples
-title: "Urgent Debate: Insider Trading Dr Pita Sharples"
-date: 2007-06-19
-source-url: https://www.scoop.co.nz/stories/PA0706/S00365/urgent-debate-insider-trading-dr-pita-sharples.htm
+title: 'Urgent Debate: Insider Trading Dr Pita Sharples'
+date: 2007-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00365/urgent-debate-insider-trading-dr-pita-sharples.htm
 author: te-pati-maori
+permalink: /archive/2007/06/19/urgent-debate-insider-trading-dr-pita-sharples/index.html
+layout: layout.njk
 ---
 Urgent Debate: Insider Trading Dr Pita Sharples
 ===============================================

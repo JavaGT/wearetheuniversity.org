@@ -1,9 +1,12 @@
 ---
 slug: nzs-biggest-student-union-backs-40%-target
-title: "NZ's biggest student union backs 40% target"
-date: 2009-08-12
-source-url: https://www.scoop.co.nz/stories/PO0908/S00124/nzs-biggest-student-union-backs-40-target.htm
+title: NZ's biggest student union backs 40% target
+date: 2009-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00124/nzs-biggest-student-union-backs-40-target.htm
 author: ausa
+permalink: /archive/2009/08/12/nzs-biggest-student-union-backs-40/index.html
+layout: layout.njk
 ---
 NZ's biggest student union backs 40% target
 ===========================================

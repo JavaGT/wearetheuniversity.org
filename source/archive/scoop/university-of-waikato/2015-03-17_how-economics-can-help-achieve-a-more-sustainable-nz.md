@@ -1,9 +1,13 @@
 ---
 slug: how-economics-can-help-achieve-a-more-sustainable-nz
-title: "How economics can help achieve a more sustainable NZ"
-date: 2015-03-17
-source-url: https://www.scoop.co.nz/stories/PO1503/S00188/how-economics-can-help-achieve-a-more-sustainable-nz.htm
+title: How economics can help achieve a more sustainable NZ
+date: 2015-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1503/S00188/how-economics-can-help-achieve-a-more-sustainable-nz.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/03/17/how-economics-can-help-achieve-a-more-sustainable-nz/index.html
+layout: layout.njk
 ---
 How economics can help achieve a more sustainable NZ
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: teaching-excellence-recognised
-title: "Teaching excellence recognised"
-date: 2012-05-10
-source-url: https://www.scoop.co.nz/stories/ED1205/S00046/teaching-excellence-recognised.htm
+title: Teaching excellence recognised
+date: 2012-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00046/teaching-excellence-recognised.htm
 author: university-of-canterbury
+permalink: /archive/2012/05/10/teaching-excellence-recognised/index.html
+layout: layout.njk
 ---
 Teaching excellence recognised
 ==============================

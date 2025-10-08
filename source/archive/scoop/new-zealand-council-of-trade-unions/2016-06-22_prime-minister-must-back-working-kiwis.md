@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-must-back-working-kiwis
-title: "Prime Minister must back working Kiwis"
-date: 2016-06-22
-source-url: https://www.scoop.co.nz/stories/PO1606/S00260/prime-minister-must-back-working-kiwis.htm
+title: Prime Minister must back working Kiwis
+date: 2016-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00260/prime-minister-must-back-working-kiwis.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2016/06/22/prime-minister-must-back-working-kiwis/index.html
+layout: layout.njk
 ---
 Prime Minister must back working Kiwis
 ======================================

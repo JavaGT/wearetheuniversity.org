@@ -1,9 +1,12 @@
 ---
 slug: safe-buildings-a-goal-in-sight
-title: "Safe buildings a goal in sight"
-date: 2012-12-07
-source-url: https://www.scoop.co.nz/stories/PA1212/S00138/safe-buildings-a-goal-in-sight.htm
+title: Safe buildings a goal in sight
+date: 2012-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00138/safe-buildings-a-goal-in-sight.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/07/safe-buildings-a-goal-in-sight/index.html
+layout: layout.njk
 ---
 Safe buildings a goal in sight
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: northlands-youth-mp-announced
-title: "Northland's Youth MP Announced"
-date: 2015-11-05
-source-url: https://www.scoop.co.nz/stories/PA1511/S00090/northlands-youth-mp-announced.htm
+title: Northland's Youth MP Announced
+date: 2015-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00090/northlands-youth-mp-announced.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/05/northlands-youth-mp-announced/index.html
+layout: layout.njk
 ---
 Northland's Youth MP Announced
 ==============================

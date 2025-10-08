@@ -1,9 +1,12 @@
 ---
 slug: labour-forgets-there-is-life-beyond-city-limits
-title: "Labour forgets there is life beyond city limits"
-date: 2020-01-30
-source-url: https://www.scoop.co.nz/stories/PA2001/S00131/labour-forgets-there-is-life-beyond-city-limits.htm
+title: Labour forgets there is life beyond city limits
+date: 2020-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00131/labour-forgets-there-is-life-beyond-city-limits.htm
 author: new-zealand-national-party
+permalink: /archive/2020/01/30/labour-forgets-there-is-life-beyond-city-limits/index.html
+layout: layout.njk
 ---
 Labour forgets there is life beyond city limits
 ===============================================

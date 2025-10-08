@@ -1,9 +1,12 @@
 ---
 slug: working-women-recognised-today
-title: "Working Women Recognised Today"
-date: 2006-03-08
-source-url: https://www.scoop.co.nz/stories/BU0603/S00120/working-women-recognised-today.htm
+title: Working Women Recognised Today
+date: 2006-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0603/S00120/working-women-recognised-today.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/03/08/working-women-recognised-today/index.html
+layout: layout.njk
 ---
 Working Women Recognised Today
 ==============================

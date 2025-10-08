@@ -1,9 +1,12 @@
 ---
 slug: take-some-of-the-blame-labour
-title: "Take Some Of The Blame Labour"
-date: 2022-06-29
-source-url: https://www.scoop.co.nz/stories/PA2206/S00230/take-some-of-the-blame-labour.htm
+title: Take Some Of The Blame Labour
+date: 2022-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00230/take-some-of-the-blame-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2022/06/29/take-some-of-the-blame-labour/index.html
+layout: layout.njk
 ---
 Take Some Of The Blame Labour
 =============================

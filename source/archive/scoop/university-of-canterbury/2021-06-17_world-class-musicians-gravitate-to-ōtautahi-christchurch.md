@@ -1,9 +1,12 @@
 ---
 slug: world-class-musicians-gravitate-to-ōtautahi-christchurch
-title: "World-class Musicians Gravitate To Ōtautahi Christchurch"
-date: 2021-06-17
-source-url: https://www.scoop.co.nz/stories/CU2106/S00126/world-class-musicians-gravitate-to-otautahi-christchurch.htm
+title: World-class Musicians Gravitate To Ōtautahi Christchurch
+date: 2021-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2106/S00126/world-class-musicians-gravitate-to-otautahi-christchurch.htm
 author: university-of-canterbury
+permalink: /archive/2021/06/17/world-class-musicians-gravitate-to-/index.html
+layout: layout.njk
 ---
 World-class Musicians Gravitate To Ōtautahi Christchurch
 ========================================================

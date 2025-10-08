@@ -1,9 +1,13 @@
 ---
 slug: research-could-help-save-tuatara-from-extinction
-title: "Research Could Help Save Tuatara From Extinction"
-date: 2009-06-22
-source-url: https://www.scoop.co.nz/stories/SC0906/S00025/research-could-help-save-tuatara-from-extinction.htm
+title: Research Could Help Save Tuatara From Extinction
+date: 2009-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0906/S00025/research-could-help-save-tuatara-from-extinction.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/06/22/research-could-help-save-tuatara-from-extinction/index.html
+layout: layout.njk
 ---
 Research Could Help Save Tuatara From Extinction
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: students-ramp-up-their-efforts-against-sexual-violence
-title: "Students ramp up their efforts against sexual violence"
-date: 2018-08-23
-source-url: https://www.scoop.co.nz/stories/AK1808/S00529/students-ramp-up-their-efforts-against-sexual-violence.htm
+title: Students ramp up their efforts against sexual violence
+date: 2018-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1808/S00529/students-ramp-up-their-efforts-against-sexual-violence.htm
 author: vuwsa
+permalink: >-
+  /archive/2018/08/23/students-ramp-up-their-efforts-against-sexual-violence/index.html
+layout: layout.njk
 ---
 Students ramp up their efforts against sexual violence
 ======================================================

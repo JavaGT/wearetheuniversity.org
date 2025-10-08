@@ -1,9 +1,12 @@
 ---
 slug: celebrating-the-humans-of-ōtautahi
-title: "Celebrating The Humans Of Ōtautahi"
-date: 2021-07-07
-source-url: https://www.scoop.co.nz/stories/CU2107/S00046/celebrating-the-humans-of-otautahi.htm
+title: Celebrating The Humans Of Ōtautahi
+date: 2021-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2107/S00046/celebrating-the-humans-of-otautahi.htm
 author: university-of-canterbury
+permalink: /archive/2021/07/07/celebrating-the-humans-of-/index.html
+layout: layout.njk
 ---
 Celebrating The Humans Of Ōtautahi
 ==================================

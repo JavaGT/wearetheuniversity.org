@@ -1,9 +1,12 @@
 ---
 slug: nz-student-president-speaking-to-global-summit
-title: "NZ Student President Speaking To Global Summit"
-date: 2012-09-19
-source-url: https://www.scoop.co.nz/stories/ED1209/S00140/nz-student-president-speaking-to-global-summit.htm
+title: NZ Student President Speaking To Global Summit
+date: 2012-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00140/nz-student-president-speaking-to-global-summit.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/09/19/nz-student-president-speaking-to-global-summit/index.html
+layout: layout.njk
 ---
 NZ Student President Speaking To Global Summit
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: mythbusters-universal-student-allowance-edition
-title: "Mythbusters: Universal Student Allowance Edition"
-date: 2008-10-15
-source-url: https://www.scoop.co.nz/stories/PO0810/S00238/mythbusters-universal-student-allowance-edition.htm
+title: 'Mythbusters: Universal Student Allowance Edition'
+date: 2008-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00238/mythbusters-universal-student-allowance-edition.htm
 author: ausa
+permalink: /archive/2008/10/15/mythbusters-universal-student-allowance-edition/index.html
+layout: layout.njk
 ---
 Mythbusters: Universal Student Allowance Edition
 ================================================

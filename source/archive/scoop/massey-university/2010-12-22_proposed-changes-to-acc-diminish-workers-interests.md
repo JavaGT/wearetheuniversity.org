@@ -1,9 +1,13 @@
 ---
 slug: proposed-changes-to-acc-diminish-workers-interests
-title: "Proposed changes to ACC diminish workers interests"
-date: 2010-12-22
-source-url: https://www.scoop.co.nz/stories/PO1012/S00233/proposed-changes-to-acc-diminish-workers-interests.htm
+title: Proposed changes to ACC diminish workers interests
+date: 2010-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00233/proposed-changes-to-acc-diminish-workers-interests.htm
 author: massey-university
+permalink: >-
+  /archive/2010/12/22/proposed-changes-to-acc-diminish-workers-interests/index.html
+layout: layout.njk
 ---
 Proposed changes to ACC diminish workers interests
 ==================================================

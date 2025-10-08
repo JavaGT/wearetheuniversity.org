@@ -1,9 +1,12 @@
 ---
 slug: greens-propose-debt-write-off-tertiary-policy
-title: "Greens Propose Debt Write Off Tertiary Policy"
-date: 1999-10-14
-source-url: https://www.scoop.co.nz/stories/PA9910/S00301/greens-propose-debt-write-off-tertiary-policy.htm
+title: Greens Propose Debt Write Off Tertiary Policy
+date: 1999-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00301/greens-propose-debt-write-off-tertiary-policy.htm
 author: green-party
+permalink: /archive/1999/10/14/greens-propose-debt-write-off-tertiary-policy/index.html
+layout: layout.njk
 ---
 Greens Propose Debt Write Off Tertiary Policy
 =============================================

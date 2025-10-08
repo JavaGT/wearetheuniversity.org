@@ -1,9 +1,12 @@
 ---
 slug: august-year-new-record-for-professional-exodus
-title: "August Year New Record For Professional Exodus"
-date: 2000-09-21
-source-url: https://www.scoop.co.nz/stories/PA0009/S00360/august-year-new-record-for-professional-exodus.htm
+title: August Year New Record For Professional Exodus
+date: 2000-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00360/august-year-new-record-for-professional-exodus.htm
 author: act-new-zealand
+permalink: /archive/2000/09/21/august-year-new-record-for-professional-exodus/index.html
+layout: layout.njk
 ---
 August Year New Record For Professional Exodus
 ==============================================

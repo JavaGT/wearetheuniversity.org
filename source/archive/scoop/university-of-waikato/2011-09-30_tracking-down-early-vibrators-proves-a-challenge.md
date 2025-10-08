@@ -1,9 +1,13 @@
 ---
 slug: tracking-down-early-vibrators-proves-a-challenge
-title: "Tracking down early vibrators proves a challenge"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/ED1109/S00144/tracking-down-early-vibrators-proves-a-challenge.htm
+title: Tracking down early vibrators proves a challenge
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00144/tracking-down-early-vibrators-proves-a-challenge.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/09/30/tracking-down-early-vibrators-proves-a-challenge/index.html
+layout: layout.njk
 ---
 Tracking down early vibrators proves a challenge
 ================================================

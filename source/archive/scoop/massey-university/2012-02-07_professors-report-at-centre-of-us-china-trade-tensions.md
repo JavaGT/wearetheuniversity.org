@@ -1,9 +1,13 @@
 ---
 slug: professors-report-at-centre-of-us-china-trade-tensions
-title: "Professor’s report at centre of US-China trade tensions"
-date: 2012-02-07
-source-url: https://www.scoop.co.nz/stories/ED1202/S00028/professors-report-at-centre-of-us-china-trade-tensions.htm
+title: Professor’s report at centre of US-China trade tensions
+date: 2012-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00028/professors-report-at-centre-of-us-china-trade-tensions.htm
 author: massey-university
+permalink: >-
+  /archive/2012/02/07/professors-report-at-centre-of-us-china-trade-tensions/index.html
+layout: layout.njk
 ---
 Professor’s report at centre of US-China trade tensions
 =======================================================

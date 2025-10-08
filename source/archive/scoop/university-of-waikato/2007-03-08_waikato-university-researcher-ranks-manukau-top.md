@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-researcher-ranks-manukau-top
-title: "Waikato University researcher ranks Manukau top"
-date: 2007-03-08
-source-url: https://www.scoop.co.nz/stories/ED0703/S00023/waikato-university-researcher-ranks-manukau-top.htm
+title: Waikato University researcher ranks Manukau top
+date: 2007-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00023/waikato-university-researcher-ranks-manukau-top.htm
 author: university-of-waikato
+permalink: /archive/2007/03/08/waikato-university-researcher-ranks-manukau-top/index.html
+layout: layout.njk
 ---
 Waikato University researcher ranks Manukau top
 ===============================================

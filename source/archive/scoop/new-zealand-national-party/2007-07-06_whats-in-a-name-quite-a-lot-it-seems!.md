@@ -1,9 +1,12 @@
 ---
 slug: whats-in-a-name-quite-a-lot-it-seems!
-title: "What’s in a name? Quite a lot it seems!"
-date: 2007-07-06
-source-url: https://www.scoop.co.nz/stories/PA0707/S00106/whats-in-a-name-quite-a-lot-it-seems.htm
+title: What’s in a name? Quite a lot it seems!
+date: 2007-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00106/whats-in-a-name-quite-a-lot-it-seems.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/06/whats-in-a-name-quite-a-lot-it-seems/index.html
+layout: layout.njk
 ---
 What’s in a name? Quite a lot it seems!
 =======================================

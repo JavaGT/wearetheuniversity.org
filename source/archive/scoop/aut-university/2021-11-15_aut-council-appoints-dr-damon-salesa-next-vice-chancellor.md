@@ -1,9 +1,13 @@
 ---
 slug: aut-council-appoints-dr-damon-salesa-next-vice-chancellor
-title: "AUT Council Appoints Dr Damon Salesa Next Vice-Chancellor"
-date: 2021-11-15
-source-url: https://www.scoop.co.nz/stories/ED2111/S00034/aut-council-appoints-dr-damon-salesa-next-vice-chancellor.htm
+title: AUT Council Appoints Dr Damon Salesa Next Vice-Chancellor
+date: 2021-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2111/S00034/aut-council-appoints-dr-damon-salesa-next-vice-chancellor.htm
 author: aut-university
+permalink: >-
+  /archive/2021/11/15/aut-council-appoints-dr-damon-salesa-next-vice-chancellor/index.html
+layout: layout.njk
 ---
 AUT Council Appoints Dr Damon Salesa Next Vice-Chancellor
 =========================================================

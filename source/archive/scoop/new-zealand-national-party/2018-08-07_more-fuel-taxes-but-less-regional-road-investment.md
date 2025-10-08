@@ -1,9 +1,13 @@
 ---
 slug: more-fuel-taxes-but-less-regional-road-investment
-title: "More fuel taxes but less regional road investment"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/PA1808/S00075/more-fuel-taxes-but-less-regional-road-investment.htm
+title: More fuel taxes but less regional road investment
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00075/more-fuel-taxes-but-less-regional-road-investment.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/08/07/more-fuel-taxes-but-less-regional-road-investment/index.html
+layout: layout.njk
 ---
 More fuel taxes but less regional road investment
 =================================================

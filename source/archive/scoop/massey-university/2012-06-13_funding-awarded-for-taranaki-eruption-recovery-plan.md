@@ -1,9 +1,13 @@
 ---
 slug: funding-awarded-for-taranaki-eruption-recovery-plan
-title: "Funding awarded for Taranaki eruption recovery plan"
-date: 2012-06-13
-source-url: https://www.scoop.co.nz/stories/SC1206/S00028/funding-awarded-for-taranaki-eruption-recovery-plan.htm
+title: Funding awarded for Taranaki eruption recovery plan
+date: 2012-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1206/S00028/funding-awarded-for-taranaki-eruption-recovery-plan.htm
 author: massey-university
+permalink: >-
+  /archive/2012/06/13/funding-awarded-for-taranaki-eruption-recovery-plan/index.html
+layout: layout.njk
 ---
 Funding awarded for Taranaki eruption recovery plan
 ===================================================

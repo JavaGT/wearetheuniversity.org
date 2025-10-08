@@ -1,9 +1,12 @@
 ---
 slug: judy-kirk-speech-national-party-president
-title: "Judy Kirk Speech National Party President"
-date: 2004-05-10
-source-url: https://www.scoop.co.nz/stories/PA0405/S00150/judy-kirk-speech-national-party-president.htm
+title: Judy Kirk Speech National Party President
+date: 2004-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00150/judy-kirk-speech-national-party-president.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/10/judy-kirk-speech-national-party-president/index.html
+layout: layout.njk
 ---
 Judy Kirk Speech National Party President
 =========================================

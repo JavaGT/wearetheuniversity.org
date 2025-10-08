@@ -1,9 +1,12 @@
 ---
 slug: bia-cant-see-the-forest-for-the-trees
-title: "BIA Can't See The Forest For The Trees"
-date: 2003-06-16
-source-url: https://www.scoop.co.nz/stories/PA0306/S00273/bia-cant-see-the-forest-for-the-trees.htm
+title: BIA Can't See The Forest For The Trees
+date: 2003-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00273/bia-cant-see-the-forest-for-the-trees.htm
 author: act-new-zealand
+permalink: /archive/2003/06/16/bia-cant-see-the-forest-for-the-trees/index.html
+layout: layout.njk
 ---
 BIA Can't See The Forest For The Trees
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: new-appointment-for-lake-and-freshwater-science
-title: "New appointment for lake and freshwater science"
-date: 2017-11-13
-source-url: https://www.scoop.co.nz/stories/ED1711/S00050/new-appointment-for-lake-and-freshwater-science.htm
+title: New appointment for lake and freshwater science
+date: 2017-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00050/new-appointment-for-lake-and-freshwater-science.htm
 author: university-of-waikato
+permalink: /archive/2017/11/13/new-appointment-for-lake-and-freshwater-science/index.html
+layout: layout.njk
 ---
 New appointment for lake and freshwater science
 ===============================================

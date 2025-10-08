@@ -1,9 +1,13 @@
 ---
 slug: more-schools-should-copy-waikato-and-reject-ncea
-title: "More Schools Should Copy Waikato and Reject NCEA"
-date: 2001-06-12
-source-url: https://www.scoop.co.nz/stories/PA0106/S00155/more-schools-should-copy-waikato-and-reject-ncea.htm
+title: More Schools Should Copy Waikato and Reject NCEA
+date: 2001-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00155/more-schools-should-copy-waikato-and-reject-ncea.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/06/12/more-schools-should-copy-waikato-and-reject-ncea/index.html
+layout: layout.njk
 ---
 More Schools Should Copy Waikato and Reject NCEA
 ================================================

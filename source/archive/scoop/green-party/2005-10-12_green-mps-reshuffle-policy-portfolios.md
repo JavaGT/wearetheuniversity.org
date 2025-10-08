@@ -1,9 +1,12 @@
 ---
 slug: green-mps-reshuffle-policy-portfolios
-title: "Green MPs reshuffle policy portfolios"
-date: 2005-10-12
-source-url: https://www.scoop.co.nz/stories/PA0510/S00056/green-mps-reshuffle-policy-portfolios.htm
+title: Green MPs reshuffle policy portfolios
+date: 2005-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00056/green-mps-reshuffle-policy-portfolios.htm
 author: green-party
+permalink: /archive/2005/10/12/green-mps-reshuffle-policy-portfolios/index.html
+layout: layout.njk
 ---
 Green MPs reshuffle policy portfolios
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: jobs-the-key-for-pacific-peoples
-title: "Jobs the key for Pacific peoples"
-date: 2005-09-02
-source-url: https://www.scoop.co.nz/stories/PA0509/S00051/jobs-the-key-for-pacific-peoples.htm
+title: Jobs the key for Pacific peoples
+date: 2005-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00051/jobs-the-key-for-pacific-peoples.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/02/jobs-the-key-for-pacific-peoples/index.html
+layout: layout.njk
 ---
 Jobs the key for Pacific peoples
 ================================

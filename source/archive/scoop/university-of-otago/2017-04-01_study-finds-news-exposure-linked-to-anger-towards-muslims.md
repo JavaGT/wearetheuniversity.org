@@ -1,9 +1,13 @@
 ---
 slug: study-finds-news-exposure-linked-to-anger-towards-muslims
-title: "Study finds news exposure linked to anger towards Muslims"
-date: 2017-04-01
-source-url: https://www.scoop.co.nz/stories/PO1704/S00004/study-finds-news-exposure-linked-to-anger-towards-muslims.htm
+title: Study finds news exposure linked to anger towards Muslims
+date: 2017-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00004/study-finds-news-exposure-linked-to-anger-towards-muslims.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/04/01/study-finds-news-exposure-linked-to-anger-towards-muslims/index.html
+layout: layout.njk
 ---
 Study finds news exposure linked to anger towards Muslims
 =========================================================

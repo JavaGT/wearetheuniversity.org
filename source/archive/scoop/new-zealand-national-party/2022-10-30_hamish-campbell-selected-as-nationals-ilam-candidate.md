@@ -1,9 +1,13 @@
 ---
 slug: hamish-campbell-selected-as-nationals-ilam-candidate
-title: "Hamish Campbell Selected As National’s Ilam Candidate"
-date: 2022-10-30
-source-url: https://www.scoop.co.nz/stories/PA2210/S00229/hamish-campbell-selected-as-nationals-ilam-candidate.htm
+title: Hamish Campbell Selected As National’s Ilam Candidate
+date: 2022-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00229/hamish-campbell-selected-as-nationals-ilam-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/10/30/hamish-campbell-selected-as-nationals-ilam-candidate/index.html
+layout: layout.njk
 ---
 Hamish Campbell Selected As National’s Ilam Candidate
 =====================================================

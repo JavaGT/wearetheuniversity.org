@@ -1,9 +1,12 @@
 ---
 slug: aut-university-dons-sustainability-gown
-title: "AUT University dons sustainability gown"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/ED1309/S00026/aut-university-dons-sustainability-gown.htm
+title: AUT University dons sustainability gown
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00026/aut-university-dons-sustainability-gown.htm
 author: aut-university
+permalink: /archive/2013/09/04/aut-university-dons-sustainability-gown/index.html
+layout: layout.njk
 ---
 AUT University dons sustainability gown
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: university-ties-with-business
-title: "University ties with business"
-date: 2006-12-05
-source-url: https://www.scoop.co.nz/stories/ED0612/S00011/university-ties-with-business.htm
+title: University ties with business
+date: 2006-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00011/university-ties-with-business.htm
 author: massey-university
+permalink: /archive/2006/12/05/university-ties-with-business/index.html
+layout: layout.njk
 ---
 University ties with business
 =============================

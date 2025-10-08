@@ -1,9 +1,13 @@
 ---
 slug: sustainability-divide-emerges-in-wake-of-recession
-title: "Sustainability divide emerges in wake of recession"
-date: 2010-08-31
-source-url: https://www.scoop.co.nz/stories/BU1008/S00955/sustainability-divide-emerges-in-wake-of-recession.htm
+title: Sustainability divide emerges in wake of recession
+date: 2010-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1008/S00955/sustainability-divide-emerges-in-wake-of-recession.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/08/31/sustainability-divide-emerges-in-wake-of-recession/index.html
+layout: layout.njk
 ---
 Sustainability divide emerges in wake of recession
 ==================================================

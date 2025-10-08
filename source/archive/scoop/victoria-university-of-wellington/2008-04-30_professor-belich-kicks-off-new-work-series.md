@@ -1,9 +1,12 @@
 ---
 slug: professor-belich-kicks-off-new-work-series
-title: "Professor Belich kicks off ‘New Work, series"
-date: 2008-04-30
-source-url: https://www.scoop.co.nz/stories/ED0804/S00086/professor-belich-kicks-off-new-work-series.htm
+title: Professor Belich kicks off ‘New Work, series
+date: 2008-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00086/professor-belich-kicks-off-new-work-series.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/04/30/professor-belich-kicks-off-new-work-series/index.html
+layout: layout.njk
 ---
 Professor Belich kicks off ‘New Work, series
 ============================================

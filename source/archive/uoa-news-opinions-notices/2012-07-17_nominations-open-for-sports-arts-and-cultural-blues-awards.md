@@ -1,8 +1,12 @@
 ---
 slug: nominations-open-for-sports-arts-and-cultural-blues-awards
-title: "Nominations open for sports, arts and cultural blues awards"
-date: 2012-07-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/07/17/Nominations-open-for-sports-arts-and-cultural-blues-awards.html
+title: Nominations open for sports, arts and cultural blues awards
+date: 2012-07-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/07/17/Nominations-open-for-sports-arts-and-cultural-blues-awards.html
+permalink: >-
+  /archive/2012/07/17/nominations-open-for-sports-arts-and-cultural-blues-awards/index.html
+layout: layout.njk
 ---
 Nominations open for sports, arts and cultural blues awards
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: marsden-fund-grants-uc-researchers-over-$4-million
-title: "Marsden Fund grants UC researchers over $4 million"
-date: 2015-11-06
-source-url: https://www.scoop.co.nz/stories/SC1511/S00021/marsden-fund-grants-uc-researchers-over-4-million.htm
+title: Marsden Fund grants UC researchers over $4 million
+date: 2015-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00021/marsden-fund-grants-uc-researchers-over-4-million.htm
 author: university-of-canterbury
+permalink: /archive/2015/11/06/marsden-fund-grants-uc-researchers-over-/index.html
+layout: layout.njk
 ---
 Marsden Fund grants UC researchers over $4 million
 ==================================================

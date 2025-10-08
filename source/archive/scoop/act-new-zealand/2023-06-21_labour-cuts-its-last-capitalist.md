@@ -1,9 +1,12 @@
 ---
 slug: labour-cuts-its-last-capitalist
-title: "Labour Cuts Its Last Capitalist"
-date: 2023-06-21
-source-url: https://www.scoop.co.nz/stories/PA2306/S00142/labour-cuts-its-last-capitalist.htm
+title: Labour Cuts Its Last Capitalist
+date: 2023-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00142/labour-cuts-its-last-capitalist.htm
 author: act-new-zealand
+permalink: /archive/2023/06/21/labour-cuts-its-last-capitalist/index.html
+layout: layout.njk
 ---
 Labour Cuts Its Last Capitalist
 ===============================

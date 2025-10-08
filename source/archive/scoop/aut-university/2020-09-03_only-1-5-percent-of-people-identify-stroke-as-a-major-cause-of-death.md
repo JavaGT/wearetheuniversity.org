@@ -1,9 +1,13 @@
 ---
 slug: only-1-5-percent-of-people-identify-stroke-as-a-major-cause-of-death
-title: "Only 1.5 Percent Of People Identify Stroke As A Major Cause Of Death"
-date: 2020-09-03
-source-url: https://www.scoop.co.nz/stories/GE2009/S00011/only-15-percent-of-people-identify-stroke-as-a-major-cause-of-death.htm
+title: Only 1.5 Percent Of People Identify Stroke As A Major Cause Of Death
+date: 2020-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2009/S00011/only-15-percent-of-people-identify-stroke-as-a-major-cause-of-death.htm
 author: aut-university
+permalink: >-
+  /archive/2020/09/03/only-1-5-percent-of-people-identify-stroke-as-a-major-cause-of-death/index.html
+layout: layout.njk
 ---
 Only 1.5 Percent Of People Identify Stroke As A Major Cause Of Death
 ====================================================================

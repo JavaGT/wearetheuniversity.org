@@ -1,9 +1,12 @@
 ---
 slug: women-dominate-māori-journalism-awards
-title: "Women dominate Māori Journalism Awards"
-date: 2017-10-29
-source-url: https://www.scoop.co.nz/stories/CU1710/S00529/women-dominate-maori-journalism-awards.htm
+title: Women dominate Māori Journalism Awards
+date: 2017-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1710/S00529/women-dominate-maori-journalism-awards.htm
 author: massey-university
+permalink: /archive/2017/10/29/women-dominate-m/index.html
+layout: layout.njk
 ---
 Women dominate Māori Journalism Awards
 ======================================

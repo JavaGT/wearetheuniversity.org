@@ -1,9 +1,12 @@
 ---
 slug: nat-mp-supports-action-on-teen-pregnancy
-title: "Nat MP supports action on teen pregnancy"
-date: 2006-07-27
-source-url: https://www.scoop.co.nz/stories/PA0607/S00469/nat-mp-supports-action-on-teen-pregnancy.htm
+title: Nat MP supports action on teen pregnancy
+date: 2006-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00469/nat-mp-supports-action-on-teen-pregnancy.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/27/nat-mp-supports-action-on-teen-pregnancy/index.html
+layout: layout.njk
 ---
 Nat MP supports action on teen pregnancy
 ========================================

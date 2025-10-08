@@ -1,9 +1,13 @@
 ---
 slug: steve-maharey-to-address-massey-staff-and-students
-title: "Steve Maharey to address Massey staff and students"
-date: 2000-05-04
-source-url: https://www.scoop.co.nz/stories/ED0005/S00007/steve-maharey-to-address-massey-staff-and-students.htm
+title: Steve Maharey to address Massey staff and students
+date: 2000-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00007/steve-maharey-to-address-massey-staff-and-students.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2000/05/04/steve-maharey-to-address-massey-staff-and-students/index.html
+layout: layout.njk
 ---
 Steve Maharey to address Massey staff and students
 ==================================================

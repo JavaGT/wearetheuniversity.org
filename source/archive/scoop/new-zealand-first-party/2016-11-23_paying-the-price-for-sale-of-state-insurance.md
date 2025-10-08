@@ -1,9 +1,12 @@
 ---
 slug: paying-the-price-for-sale-of-state-insurance
-title: "Paying the Price for Sale of State Insurance"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/PA1611/S00426/paying-the-price-for-sale-of-state-insurance.htm
+title: Paying the Price for Sale of State Insurance
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00426/paying-the-price-for-sale-of-state-insurance.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/23/paying-the-price-for-sale-of-state-insurance/index.html
+layout: layout.njk
 ---
 Paying the Price for Sale of State Insurance
 ============================================

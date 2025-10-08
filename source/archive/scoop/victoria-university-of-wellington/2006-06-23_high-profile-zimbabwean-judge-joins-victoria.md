@@ -1,9 +1,12 @@
 ---
 slug: high-profile-zimbabwean-judge-joins-victoria
-title: "High profile Zimbabwean judge joins Victoria"
-date: 2006-06-23
-source-url: https://www.scoop.co.nz/stories/ED0606/S00058/high-profile-zimbabwean-judge-joins-victoria.htm
+title: High profile Zimbabwean judge joins Victoria
+date: 2006-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00058/high-profile-zimbabwean-judge-joins-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/06/23/high-profile-zimbabwean-judge-joins-victoria/index.html
+layout: layout.njk
 ---
 High profile Zimbabwean judge joins Victoria
 ============================================

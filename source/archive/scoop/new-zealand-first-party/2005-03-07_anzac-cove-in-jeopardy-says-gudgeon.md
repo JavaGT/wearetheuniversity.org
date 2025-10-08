@@ -1,9 +1,12 @@
 ---
 slug: anzac-cove-in-jeopardy-says-gudgeon
-title: "ANZAC Cove In Jeopardy Says Gudgeon"
-date: 2005-03-07
-source-url: https://www.scoop.co.nz/stories/PA0503/S00134/anzac-cove-in-jeopardy-says-gudgeon.htm
+title: ANZAC Cove In Jeopardy Says Gudgeon
+date: 2005-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00134/anzac-cove-in-jeopardy-says-gudgeon.htm
 author: new-zealand-first-party
+permalink: /archive/2005/03/07/anzac-cove-in-jeopardy-says-gudgeon/index.html
+layout: layout.njk
 ---
 ANZAC Cove In Jeopardy Says Gudgeon
 ===================================

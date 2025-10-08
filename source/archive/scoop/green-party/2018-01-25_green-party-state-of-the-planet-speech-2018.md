@@ -1,9 +1,12 @@
 ---
 slug: green-party-state-of-the-planet-speech-2018
-title: "Green Party State of the Planet speech 2018"
-date: 2018-01-25
-source-url: https://www.scoop.co.nz/stories/PA1801/S00065/green-party-state-of-the-planet-speech-2018.htm
+title: Green Party State of the Planet speech 2018
+date: 2018-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00065/green-party-state-of-the-planet-speech-2018.htm
 author: green-party
+permalink: /archive/2018/01/25/green-party-state-of-the-planet-speech-2018/index.html
+layout: layout.njk
 ---
 Green Party State of the Planet speech 2018
 ===========================================

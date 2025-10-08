@@ -1,9 +1,13 @@
 ---
 slug: caucasian-president-commits-to-liberal-propaganda
-title: "Caucasian president commits to liberal propaganda"
-date: 2008-04-03
-source-url: https://www.scoop.co.nz/stories/ED0804/S00008/caucasian-president-commits-to-liberal-propaganda.htm
+title: Caucasian president commits to liberal propaganda
+date: 2008-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00008/caucasian-president-commits-to-liberal-propaganda.htm
 author: aotearoa-student-press-association
+permalink: >-
+  /archive/2008/04/03/caucasian-president-commits-to-liberal-propaganda/index.html
+layout: layout.njk
 ---
 Caucasian president commits to liberal propaganda
 =================================================

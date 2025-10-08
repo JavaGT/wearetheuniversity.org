@@ -1,9 +1,13 @@
 ---
 slug: smokefree-nz-researcher-receives-2022-critic-and-conscience-of-society-award
-title: "Smokefree NZ Researcher Receives 2022 Critic And Conscience Of Society Award"
-date: 2022-06-09
-source-url: https://www.scoop.co.nz/stories/ED2206/S00020/smokefree-nz-researcher-receives-2022-critic-and-conscience-of-society-award.htm
+title: Smokefree NZ Researcher Receives 2022 Critic And Conscience Of Society Award
+date: 2022-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2206/S00020/smokefree-nz-researcher-receives-2022-critic-and-conscience-of-society-award.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/06/09/smokefree-nz-researcher-receives-2022-critic-and-conscience-of-society-award/index.html
+layout: layout.njk
 ---
 Smokefree NZ Researcher Receives 2022 Critic And Conscience Of Society Award
 ============================================================================

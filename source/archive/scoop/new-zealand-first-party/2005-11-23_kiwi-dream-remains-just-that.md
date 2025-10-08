@@ -1,9 +1,11 @@
 ---
 slug: kiwi-dream-remains-just-that
-title: "Kiwi Dream Remains Just That"
-date: 2005-11-23
+title: Kiwi Dream Remains Just That
+date: 2005-11-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00341/kiwi-dream-remains-just-that.htm
 author: new-zealand-first-party
+permalink: /archive/2005/11/23/kiwi-dream-remains-just-that/index.html
+layout: layout.njk
 ---
 Kiwi Dream Remains Just That
 ============================

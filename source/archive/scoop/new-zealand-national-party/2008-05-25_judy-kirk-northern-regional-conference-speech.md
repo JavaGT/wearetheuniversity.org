@@ -1,9 +1,12 @@
 ---
 slug: judy-kirk-northern-regional-conference-speech
-title: "Judy Kirk - Northern Regional Conference Speech"
-date: 2008-05-25
-source-url: https://www.scoop.co.nz/stories/PA0805/S00494/judy-kirk-northern-regional-conference-speech.htm
+title: Judy Kirk - Northern Regional Conference Speech
+date: 2008-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00494/judy-kirk-northern-regional-conference-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/25/judy-kirk-northern-regional-conference-speech/index.html
+layout: layout.njk
 ---
 Judy Kirk - Northern Regional Conference Speech
 ===============================================

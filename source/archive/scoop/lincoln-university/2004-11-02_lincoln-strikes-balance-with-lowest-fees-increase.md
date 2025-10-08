@@ -1,9 +1,13 @@
 ---
 slug: lincoln-strikes-balance-with-lowest-fees-increase
-title: "Lincoln strikes balance with lowest fees increase"
-date: 2004-11-02
-source-url: https://www.scoop.co.nz/stories/ED0411/S00005/lincoln-strikes-balance-with-lowest-fees-increase.htm
+title: Lincoln strikes balance with lowest fees increase
+date: 2004-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00005/lincoln-strikes-balance-with-lowest-fees-increase.htm
 author: lincoln-university
+permalink: >-
+  /archive/2004/11/02/lincoln-strikes-balance-with-lowest-fees-increase/index.html
+layout: layout.njk
 ---
 Lincoln strikes balance with lowest fees increase
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-compete-in-power-struggle
-title: "Students compete in power struggle"
-date: 2015-07-22
-source-url: https://www.scoop.co.nz/stories/ED1507/S00095/students-compete-in-power-struggle.htm
+title: Students compete in power struggle
+date: 2015-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00095/students-compete-in-power-struggle.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/07/22/students-compete-in-power-struggle/index.html
+layout: layout.njk
 ---
 Students compete in power struggle
 ==================================

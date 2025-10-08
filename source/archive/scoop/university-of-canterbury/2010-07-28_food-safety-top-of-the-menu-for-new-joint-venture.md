@@ -1,9 +1,13 @@
 ---
 slug: food-safety-top-of-the-menu-for-new-joint-venture
-title: "Food safety top of the menu for new joint venture"
-date: 2010-07-28
-source-url: https://www.scoop.co.nz/stories/ED1007/S00099/food-safety-top-of-the-menu-for-new-joint-venture.htm
+title: Food safety top of the menu for new joint venture
+date: 2010-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00099/food-safety-top-of-the-menu-for-new-joint-venture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2010/07/28/food-safety-top-of-the-menu-for-new-joint-venture/index.html
+layout: layout.njk
 ---
 Food safety top of the menu for new joint venture
 =================================================

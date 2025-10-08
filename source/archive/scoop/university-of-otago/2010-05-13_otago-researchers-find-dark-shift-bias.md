@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-find-dark-shift-bias
-title: "Otago researchers find \"dark shift\" bias"
-date: 2010-05-13
-source-url: https://www.scoop.co.nz/stories/GE1005/S00066/otago-researchers-find-dark-shift-bias.htm
+title: Otago researchers find "dark shift" bias
+date: 2010-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1005/S00066/otago-researchers-find-dark-shift-bias.htm
 author: university-of-otago
+permalink: /archive/2010/05/13/otago-researchers-find-dark-shift-bias/index.html
+layout: layout.njk
 ---
 Otago researchers find “dark shift” bias
 ========================================

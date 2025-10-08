@@ -1,9 +1,12 @@
 ---
 slug: give-auckland-a-chance-to-breathe
-title: "Give Auckland a Chance to Breathe"
-date: 2013-04-29
-source-url: https://www.scoop.co.nz/stories/PA1304/S00535/give-auckland-a-chance-to-breathe.htm
+title: Give Auckland a Chance to Breathe
+date: 2013-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00535/give-auckland-a-chance-to-breathe.htm
 author: new-zealand-first-party
+permalink: /archive/2013/04/29/give-auckland-a-chance-to-breathe/index.html
+layout: layout.njk
 ---
 Give Auckland a Chance to Breathe
 =================================

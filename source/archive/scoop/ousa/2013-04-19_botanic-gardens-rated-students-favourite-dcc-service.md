@@ -1,9 +1,13 @@
 ---
 slug: botanic-gardens-rated-students-favourite-dcc-service
-title: "Botanic Gardens rated students’ favourite DCC service"
-date: 2013-04-19
-source-url: https://www.scoop.co.nz/stories/ED1304/S00130/botanic-gardens-rated-students-favourite-dcc-service.htm
+title: Botanic Gardens rated students’ favourite DCC service
+date: 2013-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00130/botanic-gardens-rated-students-favourite-dcc-service.htm
 author: ousa
+permalink: >-
+  /archive/2013/04/19/botanic-gardens-rated-students-favourite-dcc-service/index.html
+layout: layout.njk
 ---
 Botanic Gardens rated students’ favourite DCC service
 =====================================================

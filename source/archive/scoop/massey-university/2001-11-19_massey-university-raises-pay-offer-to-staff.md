@@ -1,9 +1,12 @@
 ---
 slug: massey-university-raises-pay-offer-to-staff
-title: "Massey University raises pay offer to staff"
-date: 2001-11-19
-source-url: https://www.scoop.co.nz/stories/ED0111/S00035/massey-university-raises-pay-offer-to-staff.htm
+title: Massey University raises pay offer to staff
+date: 2001-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00035/massey-university-raises-pay-offer-to-staff.htm
 author: massey-university
+permalink: /archive/2001/11/19/massey-university-raises-pay-offer-to-staff/index.html
+layout: layout.njk
 ---
 Massey University raises pay offer to staff
 ===========================================

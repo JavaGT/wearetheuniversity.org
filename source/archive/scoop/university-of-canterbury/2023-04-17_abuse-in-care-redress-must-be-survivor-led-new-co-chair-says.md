@@ -1,9 +1,13 @@
 ---
 slug: abuse-in-care-redress-must-be-survivor-led-new-co-chair-says
-title: "Abuse In Care Redress Must Be Survivor-led, New Co-chair Says"
-date: 2023-04-17
-source-url: https://www.scoop.co.nz/stories/PO2304/S00096/abuse-in-care-redress-must-be-survivor-led-new-co-chair-says.htm
+title: Abuse In Care Redress Must Be Survivor-led, New Co-chair Says
+date: 2023-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2304/S00096/abuse-in-care-redress-must-be-survivor-led-new-co-chair-says.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/04/17/abuse-in-care-redress-must-be-survivor-led-new-co-chair-says/index.html
+layout: layout.njk
 ---
 Abuse In Care Redress Must Be Survivor-led, New Co-chair Says
 =============================================================

@@ -1,9 +1,12 @@
 ---
 slug: scholarship-to-attract-māori-and-pasifika-young-leaders
-title: "Scholarship to attract Māori and Pasifika young leaders"
-date: 2017-12-18
-source-url: https://www.scoop.co.nz/stories/ED1712/S00068/scholarship-to-attract-maori-and-pasifika-young-leaders.htm
+title: Scholarship to attract Māori and Pasifika young leaders
+date: 2017-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00068/scholarship-to-attract-maori-and-pasifika-young-leaders.htm
 author: lincoln-university
+permalink: /archive/2017/12/18/scholarship-to-attract-m/index.html
+layout: layout.njk
 ---
 Scholarship to attract Māori and Pasifika young leaders
 =======================================================

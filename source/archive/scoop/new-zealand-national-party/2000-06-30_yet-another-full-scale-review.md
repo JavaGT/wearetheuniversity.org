@@ -1,9 +1,12 @@
 ---
 slug: yet-another-full-scale-review
-title: "Yet Another Full-Scale Review"
-date: 2000-06-30
-source-url: https://www.scoop.co.nz/stories/PA0006/S00668/yet-another-full-scale-review.htm
+title: Yet Another Full-Scale Review
+date: 2000-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00668/yet-another-full-scale-review.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/30/yet-another-full-scale-review/index.html
+layout: layout.njk
 ---
 Yet Another Full-Scale Review
 =============================

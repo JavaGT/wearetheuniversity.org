@@ -1,9 +1,11 @@
 ---
 slug: aussie-banks-robbing-staff
-title: "Aussie Banks Robbing Staff"
-date: 2005-04-07
+title: Aussie Banks Robbing Staff
+date: 2005-04-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0504/S00159/aussie-banks-robbing-staff.htm
 author: new-zealand-first-party
+permalink: /archive/2005/04/07/aussie-banks-robbing-staff/index.html
+layout: layout.njk
 ---
 Aussie Banks Robbing Staff
 ==========================

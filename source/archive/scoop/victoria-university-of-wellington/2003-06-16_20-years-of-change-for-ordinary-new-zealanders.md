@@ -1,9 +1,12 @@
 ---
 slug: 20-years-of-change-for-ordinary-new-zealanders
-title: "20 years of change for ‘ordinary New Zealanders’"
-date: 2003-06-16
-source-url: https://www.scoop.co.nz/stories/ED0306/S00030/20-years-of-change-for-ordinary-new-zealanders.htm
+title: 20 years of change for ‘ordinary New Zealanders’
+date: 2003-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00030/20-years-of-change-for-ordinary-new-zealanders.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/16/20-years-of-change-for-ordinary-new-zealanders/index.html
+layout: layout.njk
 ---
 20 years of change for ‘ordinary New Zealanders’
 ================================================

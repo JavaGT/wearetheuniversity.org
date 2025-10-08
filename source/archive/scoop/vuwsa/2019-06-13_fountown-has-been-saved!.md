@@ -1,9 +1,11 @@
 ---
 slug: fountown-has-been-saved!
-title: "Fountown has been saved!"
-date: 2019-06-13
+title: Fountown has been saved!
+date: 2019-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1906/S00292/fountown-has-been-saved.htm
 author: vuwsa
+permalink: /archive/2019/06/13/fountown-has-been-saved/index.html
+layout: layout.njk
 ---
 Fountown has been saved!
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-1-4-of-nzs-brightest-are-gone
-title: "Don Brash Writes: 1/4 Of NZ's Brightest Are Gone"
-date: 2005-03-16
-source-url: https://www.scoop.co.nz/stories/PA0503/S00342/don-brash-writes-14-of-nzs-brightest-are-gone.htm
+title: 'Don Brash Writes: 1/4 Of NZ''s Brightest Are Gone'
+date: 2005-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00342/don-brash-writes-14-of-nzs-brightest-are-gone.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/16/don-brash-writes-1-4-of-nzs-brightest-are-gone/index.html
+layout: layout.njk
 ---
 Don Brash Writes: 1/4 Of NZ's Brightest Are Gone
 ================================================

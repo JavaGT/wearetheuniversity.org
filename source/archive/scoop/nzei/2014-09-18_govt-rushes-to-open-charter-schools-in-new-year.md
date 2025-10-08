@@ -1,9 +1,12 @@
 ---
 slug: govt-rushes-to-open-charter-schools-in-new-year
-title: "Govt rushes to open charter schools in New Year"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/PO1409/S00430/govt-rushes-to-open-charter-schools-in-new-year.htm
+title: Govt rushes to open charter schools in New Year
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00430/govt-rushes-to-open-charter-schools-in-new-year.htm
 author: nzei
+permalink: /archive/2014/09/18/govt-rushes-to-open-charter-schools-in-new-year/index.html
+layout: layout.njk
 ---
 Govt rushes to open charter schools in New Year
 ===============================================

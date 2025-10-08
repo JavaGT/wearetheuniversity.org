@@ -1,9 +1,12 @@
 ---
 slug: universities-should-stop-posturing
-title: "Universities should stop posturing"
-date: 2001-06-14
-source-url: https://www.scoop.co.nz/stories/ED0106/S00011/universities-should-stop-posturing.htm
+title: Universities should stop posturing
+date: 2001-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0106/S00011/universities-should-stop-posturing.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/06/14/universities-should-stop-posturing/index.html
+layout: layout.njk
 ---
 Universities should stop posturing
 ==================================

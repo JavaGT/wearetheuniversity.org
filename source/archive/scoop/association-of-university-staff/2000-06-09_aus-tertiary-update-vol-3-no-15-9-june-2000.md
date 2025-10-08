@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-15-9-june-2000
-title: "AUS Tertiary Update Vol. 3 No. 15, 9 June 2000"
-date: 2000-06-09
-source-url: https://www.scoop.co.nz/stories/ED0006/S00012/aus-tertiary-update-vol-3-no-15-9-june-2000.htm
+title: AUS Tertiary Update Vol. 3 No. 15, 9 June 2000
+date: 2000-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00012/aus-tertiary-update-vol-3-no-15-9-june-2000.htm
 author: association-of-university-staff
+permalink: /archive/2000/06/09/aus-tertiary-update-vol-3-no-15-9-june-2000/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 3 No. 15, 9 June 2000
 ==============================================

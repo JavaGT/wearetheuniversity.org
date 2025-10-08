@@ -1,9 +1,13 @@
 ---
 slug: national-trying-to-fix-their-mistakes-in-education
-title: "National Trying to Fix Their Mistakes in Education"
-date: 2017-05-04
-source-url: https://www.scoop.co.nz/stories/PA1705/S00102/national-trying-to-fix-their-mistakes-in-education.htm
+title: National Trying to Fix Their Mistakes in Education
+date: 2017-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00102/national-trying-to-fix-their-mistakes-in-education.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/04/national-trying-to-fix-their-mistakes-in-education/index.html
+layout: layout.njk
 ---
 National Trying to Fix Their Mistakes in Education
 ==================================================

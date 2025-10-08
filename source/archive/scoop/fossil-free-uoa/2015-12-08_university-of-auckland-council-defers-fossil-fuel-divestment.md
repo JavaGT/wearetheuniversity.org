@@ -1,9 +1,13 @@
 ---
 slug: university-of-auckland-council-defers-fossil-fuel-divestment
-title: "University of Auckland Council defers fossil fuel divestment"
-date: 2015-12-08
-source-url: https://www.scoop.co.nz/stories/PO1512/S00086/university-of-auckland-council-defers-fossil-fuel-divestment.htm
+title: University of Auckland Council defers fossil fuel divestment
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1512/S00086/university-of-auckland-council-defers-fossil-fuel-divestment.htm
 author: fossil-free-uoa
+permalink: >-
+  /archive/2015/12/08/university-of-auckland-council-defers-fossil-fuel-divestment/index.html
+layout: layout.njk
 ---
 University of Auckland Council defers fossil fuel divestment
 ============================================================

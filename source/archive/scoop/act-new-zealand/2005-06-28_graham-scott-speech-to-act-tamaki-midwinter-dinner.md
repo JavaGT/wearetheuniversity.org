@@ -1,9 +1,13 @@
 ---
 slug: graham-scott-speech-to-act-tamaki-midwinter-dinner
-title: "Graham Scott Speech to ACT Tamaki Midwinter Dinner"
-date: 2005-06-28
-source-url: https://www.scoop.co.nz/stories/PO0506/S00294/graham-scott-speech-to-act-tamaki-midwinter-dinner.htm
+title: Graham Scott Speech to ACT Tamaki Midwinter Dinner
+date: 2005-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0506/S00294/graham-scott-speech-to-act-tamaki-midwinter-dinner.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/06/28/graham-scott-speech-to-act-tamaki-midwinter-dinner/index.html
+layout: layout.njk
 ---
 Graham Scott Speech to ACT Tamaki Midwinter Dinner
 ==================================================

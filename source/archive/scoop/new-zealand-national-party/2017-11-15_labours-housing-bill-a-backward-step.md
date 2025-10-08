@@ -1,9 +1,12 @@
 ---
 slug: labours-housing-bill-a-backward-step
-title: "Labour’s housing bill a backward step"
-date: 2017-11-15
-source-url: https://www.scoop.co.nz/stories/PA1711/S00105/labours-housing-bill-a-backward-step.htm
+title: Labour’s housing bill a backward step
+date: 2017-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00105/labours-housing-bill-a-backward-step.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/15/labours-housing-bill-a-backward-step/index.html
+layout: layout.njk
 ---
 Labour’s housing bill a backward step
 =====================================

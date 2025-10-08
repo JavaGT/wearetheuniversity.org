@@ -1,9 +1,13 @@
 ---
 slug: flood-of-migrants-makes-it-tough-for-kiwi-job-seekers
-title: "Flood of Migrants Makes It Tough for Kiwi Job Seekers"
-date: 2016-04-20
-source-url: https://www.scoop.co.nz/stories/PA1604/S00333/flood-of-migrants-makes-it-tough-for-kiwi-job-seekers.htm
+title: Flood of Migrants Makes It Tough for Kiwi Job Seekers
+date: 2016-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00333/flood-of-migrants-makes-it-tough-for-kiwi-job-seekers.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/04/20/flood-of-migrants-makes-it-tough-for-kiwi-job-seekers/index.html
+layout: layout.njk
 ---
 Flood of Migrants Makes It Tough for Kiwi Job Seekers
 =====================================================

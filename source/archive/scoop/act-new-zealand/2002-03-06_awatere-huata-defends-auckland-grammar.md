@@ -1,9 +1,12 @@
 ---
 slug: awatere-huata-defends-auckland-grammar
-title: "Awatere Huata Defends Auckland Grammar"
-date: 2002-03-06
-source-url: https://www.scoop.co.nz/stories/PA0203/S00099/awatere-huata-defends-auckland-grammar.htm
+title: Awatere Huata Defends Auckland Grammar
+date: 2002-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00099/awatere-huata-defends-auckland-grammar.htm
 author: act-new-zealand
+permalink: /archive/2002/03/06/awatere-huata-defends-auckland-grammar/index.html
+layout: layout.njk
 ---
 Awatere Huata Defends Auckland Grammar
 ======================================

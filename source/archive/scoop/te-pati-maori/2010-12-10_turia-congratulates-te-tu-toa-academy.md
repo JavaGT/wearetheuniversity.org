@@ -1,9 +1,12 @@
 ---
 slug: turia-congratulates-te-tu-toa-academy
-title: "Turia congratulates Te Tu Toa Academy"
-date: 2010-12-10
-source-url: https://www.scoop.co.nz/stories/PA1012/S00177/turia-congratulates-te-tu-toa-academy.htm
+title: Turia congratulates Te Tu Toa Academy
+date: 2010-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00177/turia-congratulates-te-tu-toa-academy.htm
 author: te-pati-maori
+permalink: /archive/2010/12/10/turia-congratulates-te-tu-toa-academy/index.html
+layout: layout.njk
 ---
 Turia congratulates Te Tu Toa Academy
 =====================================

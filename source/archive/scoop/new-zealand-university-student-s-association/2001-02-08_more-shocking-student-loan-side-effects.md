@@ -1,9 +1,12 @@
 ---
 slug: more-shocking-student-loan-side-effects
-title: "More shocking student loan side effects"
-date: 2001-02-08
-source-url: https://www.scoop.co.nz/stories/ED0102/S00010/more-shocking-student-loan-side-effects.htm
+title: More shocking student loan side effects
+date: 2001-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0102/S00010/more-shocking-student-loan-side-effects.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/02/08/more-shocking-student-loan-side-effects/index.html
+layout: layout.njk
 ---
 More shocking student loan side effects
 =======================================

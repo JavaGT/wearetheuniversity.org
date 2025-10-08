@@ -1,9 +1,12 @@
 ---
 slug: labour-desperate-student-union-foolish
-title: "Labour desperate, student union foolish"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/PO0507/S00287/labour-desperate-student-union-foolish.htm
+title: Labour desperate, student union foolish
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0507/S00287/labour-desperate-student-union-foolish.htm
 author: new-zealand-young-nationals
+permalink: /archive/2005/07/26/labour-desperate-student-union-foolish/index.html
+layout: layout.njk
 ---
 Labour desperate, student union foolish
 =======================================

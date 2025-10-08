@@ -1,9 +1,12 @@
 ---
 slug: noted-educator-seeks-new-focus
-title: "Noted Educator Seeks New Focus"
-date: 2006-12-19
-source-url: https://www.scoop.co.nz/stories/ED0612/S00061/noted-educator-seeks-new-focus.htm
+title: Noted Educator Seeks New Focus
+date: 2006-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00061/noted-educator-seeks-new-focus.htm
 author: university-of-waikato
+permalink: /archive/2006/12/19/noted-educator-seeks-new-focus/index.html
+layout: layout.njk
 ---
 Noted Educator Seeks New Focus
 ==============================

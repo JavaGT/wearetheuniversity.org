@@ -1,9 +1,13 @@
 ---
 slug: extra-money-needed-for-big-decile-funding-losers
-title: "Extra Money Needed For Big Decile Funding Losers"
-date: 2007-10-12
-source-url: https://www.scoop.co.nz/stories/ED0710/S00040/extra-money-needed-for-big-decile-funding-losers.htm
+title: Extra Money Needed For Big Decile Funding Losers
+date: 2007-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00040/extra-money-needed-for-big-decile-funding-losers.htm
 author: nzei
+permalink: >-
+  /archive/2007/10/12/extra-money-needed-for-big-decile-funding-losers/index.html
+layout: layout.njk
 ---
 Extra Money Needed For Big Decile Funding Losers
 ================================================

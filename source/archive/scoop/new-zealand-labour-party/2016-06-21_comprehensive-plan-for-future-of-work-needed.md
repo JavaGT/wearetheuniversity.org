@@ -1,9 +1,12 @@
 ---
 slug: comprehensive-plan-for-future-of-work-needed
-title: "Comprehensive plan for future of work needed"
-date: 2016-06-21
-source-url: https://www.scoop.co.nz/stories/PA1606/S00356/comprehensive-plan-for-future-of-work-needed.htm
+title: Comprehensive plan for future of work needed
+date: 2016-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00356/comprehensive-plan-for-future-of-work-needed.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/21/comprehensive-plan-for-future-of-work-needed/index.html
+layout: layout.njk
 ---
 Comprehensive plan for future of work needed
 ============================================

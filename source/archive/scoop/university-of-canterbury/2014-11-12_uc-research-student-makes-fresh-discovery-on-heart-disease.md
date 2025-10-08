@@ -1,9 +1,13 @@
 ---
 slug: uc-research-student-makes-fresh-discovery-on-heart-disease
-title: "UC research student makes fresh discovery on heart disease"
-date: 2014-11-12
-source-url: https://www.scoop.co.nz/stories/ED1411/S00075/uc-research-student-makes-fresh-discovery-on-heart-disease.htm
+title: UC research student makes fresh discovery on heart disease
+date: 2014-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00075/uc-research-student-makes-fresh-discovery-on-heart-disease.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/12/uc-research-student-makes-fresh-discovery-on-heart-disease/index.html
+layout: layout.njk
 ---
 UC research student makes fresh discovery on heart disease
 ==========================================================

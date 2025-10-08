@@ -1,9 +1,13 @@
 ---
 slug: rebels-storm-otago-university-students-association
-title: "Rebels Storm Otago University Students Association"
-date: 1999-08-25
-source-url: https://www.scoop.co.nz/stories/PO9908/S00087/rebels-storm-otago-university-students-association.htm
+title: Rebels Storm Otago University Students Association
+date: 1999-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9908/S00087/rebels-storm-otago-university-students-association.htm
 author: prebble-s-rebels
+permalink: >-
+  /archive/1999/08/25/rebels-storm-otago-university-students-association/index.html
+layout: layout.njk
 ---
 Rebels Storm Otago University Students Association
 ==================================================

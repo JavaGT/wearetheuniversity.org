@@ -1,9 +1,12 @@
 ---
 slug: local-communities-critical-to-civil-defence
-title: "Local communities critical to Civil Defence"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/PA1409/S00034/local-communities-critical-to-civil-defence.htm
+title: Local communities critical to Civil Defence
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00034/local-communities-critical-to-civil-defence.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/09/02/local-communities-critical-to-civil-defence/index.html
+layout: layout.njk
 ---
 Local communities critical to Civil Defence
 ===========================================

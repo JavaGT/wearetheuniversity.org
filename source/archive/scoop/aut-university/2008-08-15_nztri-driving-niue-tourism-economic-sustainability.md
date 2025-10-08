@@ -1,9 +1,13 @@
 ---
 slug: nztri-driving-niue-tourism-economic-sustainability
-title: "NZTRI driving Niue Tourism economic sustainability"
-date: 2008-08-15
-source-url: https://www.scoop.co.nz/stories/ED0808/S00034/nztri-driving-niue-tourism-economic-sustainability.htm
+title: NZTRI driving Niue Tourism economic sustainability
+date: 2008-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00034/nztri-driving-niue-tourism-economic-sustainability.htm
 author: aut-university
+permalink: >-
+  /archive/2008/08/15/nztri-driving-niue-tourism-economic-sustainability/index.html
+layout: layout.njk
 ---
 NZTRI driving Niue Tourism economic sustainability
 ==================================================

@@ -1,9 +1,11 @@
 ---
 slug: ausa-remains-in-nzusa
-title: "AUSA remains in NZUSA"
-date: 2017-07-11
+title: AUSA remains in NZUSA
+date: 2017-07-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1707/S00156/ausa-remains-in-nzusa.htm
 author: auckland-university-students-association
+permalink: /archive/2017/07/11/ausa-remains-in-nzusa/index.html
+layout: layout.njk
 ---
 AUSA remains in NZUSA
 =====================

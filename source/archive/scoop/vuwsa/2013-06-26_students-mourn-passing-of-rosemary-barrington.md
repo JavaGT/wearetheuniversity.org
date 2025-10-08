@@ -1,9 +1,12 @@
 ---
 slug: students-mourn-passing-of-rosemary-barrington
-title: "Students mourn passing of Rosemary Barrington"
-date: 2013-06-26
-source-url: https://www.scoop.co.nz/stories/AK1306/S00659/students-mourn-passing-of-rosemary-barrington.htm
+title: Students mourn passing of Rosemary Barrington
+date: 2013-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1306/S00659/students-mourn-passing-of-rosemary-barrington.htm
 author: vuwsa
+permalink: /archive/2013/06/26/students-mourn-passing-of-rosemary-barrington/index.html
+layout: layout.njk
 ---
 Students mourn passing of Rosemary Barrington
 =============================================

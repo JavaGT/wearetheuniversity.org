@@ -1,9 +1,11 @@
 ---
 slug: education-reform-or-retard
-title: "Education: Reform or Retard"
-date: 1999-11-18
+title: 'Education: Reform or Retard'
+date: 1999-11-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9911/S00434/education-reform-or-retard.htm
 author: act-new-zealand
+permalink: /archive/1999/11/18/education-reform-or-retard/index.html
+layout: layout.njk
 ---
 Education: Reform or Retard
 ===========================

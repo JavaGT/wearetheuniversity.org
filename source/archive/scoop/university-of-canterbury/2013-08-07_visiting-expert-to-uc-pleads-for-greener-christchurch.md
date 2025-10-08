@@ -1,9 +1,13 @@
 ---
 slug: visiting-expert-to-uc-pleads-for-greener-christchurch
-title: "Visiting expert to UC pleads for greener Christchurch"
-date: 2013-08-07
-source-url: https://www.scoop.co.nz/stories/AK1308/S00159/visiting-expert-to-uc-pleads-for-greener-christchurch.htm
+title: Visiting expert to UC pleads for greener Christchurch
+date: 2013-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00159/visiting-expert-to-uc-pleads-for-greener-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/07/visiting-expert-to-uc-pleads-for-greener-christchurch/index.html
+layout: layout.njk
 ---
 Visiting expert to UC pleads for greener Christchurch
 =====================================================

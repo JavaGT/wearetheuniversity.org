@@ -1,9 +1,12 @@
 ---
 slug: new-lincoln-university-chancellor
-title: "New Lincoln University Chancellor"
-date: 2004-12-07
-source-url: https://www.scoop.co.nz/stories/BU0412/S00110/new-lincoln-university-chancellor.htm
+title: New Lincoln University Chancellor
+date: 2004-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0412/S00110/new-lincoln-university-chancellor.htm
 author: lincoln-university
+permalink: /archive/2004/12/07/new-lincoln-university-chancellor/index.html
+layout: layout.njk
 ---
 New Lincoln University Chancellor
 =================================

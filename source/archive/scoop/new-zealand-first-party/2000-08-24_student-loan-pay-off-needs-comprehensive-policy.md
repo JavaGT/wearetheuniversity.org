@@ -1,9 +1,12 @@
 ---
 slug: student-loan-pay-off-needs-comprehensive-policy
-title: "Student Loan Pay Off Needs Comprehensive Policy"
-date: 2000-08-24
-source-url: https://www.scoop.co.nz/stories/PA0008/S00466/student-loan-pay-off-needs-comprehensive-policy.htm
+title: Student Loan Pay Off Needs Comprehensive Policy
+date: 2000-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00466/student-loan-pay-off-needs-comprehensive-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2000/08/24/student-loan-pay-off-needs-comprehensive-policy/index.html
+layout: layout.njk
 ---
 Student Loan Pay Off Needs Comprehensive Policy
 ===============================================

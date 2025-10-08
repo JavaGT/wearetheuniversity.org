@@ -1,9 +1,12 @@
 ---
 slug: power-of-the-people-on-full-display-as-hīkoi-approaches-parliament
-title: "Power Of The People On Full Display As Hīkoi Approaches Parliament"
-date: 2024-11-19
-source-url: https://www.scoop.co.nz/stories/PA2411/S00132/power-of-the-people-on-full-display-as-hikoi-approaches-parliament.htm
+title: Power Of The People On Full Display As Hīkoi Approaches Parliament
+date: 2024-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00132/power-of-the-people-on-full-display-as-hikoi-approaches-parliament.htm
 author: green-party
+permalink: /archive/2024/11/19/power-of-the-people-on-full-display-as-h/index.html
+layout: layout.njk
 ---
 Power Of The People On Full Display As Hīkoi Approaches Parliament
 ==================================================================

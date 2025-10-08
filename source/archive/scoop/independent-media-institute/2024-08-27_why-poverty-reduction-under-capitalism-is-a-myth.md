@@ -1,9 +1,13 @@
 ---
 slug: why-poverty-reduction-under-capitalism-is-a-myth
-title: "Why Poverty Reduction Under Capitalism Is A Myth"
-date: 2024-08-27
-source-url: https://www.scoop.co.nz/stories/WO2408/S00243/why-poverty-reduction-under-capitalism-is-a-myth.htm
+title: Why Poverty Reduction Under Capitalism Is A Myth
+date: 2024-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2408/S00243/why-poverty-reduction-under-capitalism-is-a-myth.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/08/27/why-poverty-reduction-under-capitalism-is-a-myth/index.html
+layout: layout.njk
 ---
 Why Poverty Reduction Under Capitalism Is A Myth
 ================================================

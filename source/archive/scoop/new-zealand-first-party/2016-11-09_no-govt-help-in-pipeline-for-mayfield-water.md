@@ -1,9 +1,12 @@
 ---
 slug: no-govt-help-in-pipeline-for-mayfield-water
-title: "No Govt Help in Pipeline for Mayfield Water"
-date: 2016-11-09
-source-url: https://www.scoop.co.nz/stories/PA1611/S00166/no-govt-help-in-pipeline-for-mayfield-water.htm
+title: No Govt Help in Pipeline for Mayfield Water
+date: 2016-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00166/no-govt-help-in-pipeline-for-mayfield-water.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/09/no-govt-help-in-pipeline-for-mayfield-water/index.html
+layout: layout.njk
 ---
 No Govt Help in Pipeline for Mayfield Water
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-launches-psychology-clinic
-title: "Victoria launches psychology clinic"
-date: 2004-09-13
-source-url: https://www.scoop.co.nz/stories/ED0409/S00047/victoria-launches-psychology-clinic.htm
+title: Victoria launches psychology clinic
+date: 2004-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00047/victoria-launches-psychology-clinic.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/13/victoria-launches-psychology-clinic/index.html
+layout: layout.njk
 ---
 Victoria launches psychology clinic
 ===================================

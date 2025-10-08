@@ -1,9 +1,12 @@
 ---
 slug: problems-in-ncea-levels-2-and-3
-title: "Problems in NCEA levels 2 and 3"
-date: 2005-02-14
-source-url: https://www.scoop.co.nz/stories/PA0502/S00296/problems-in-ncea-levels-2-and-3.htm
+title: Problems in NCEA levels 2 and 3
+date: 2005-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00296/problems-in-ncea-levels-2-and-3.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/14/problems-in-ncea-levels-2-and-3/index.html
+layout: layout.njk
 ---
 Problems in NCEA levels 2 and 3
 ===============================

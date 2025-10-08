@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-in-deepest-recession-in-living-memory
-title: "New Zealand In Deepest Recession In Living Memory"
-date: 2020-09-17
-source-url: https://www.scoop.co.nz/stories/PA2009/S00152/new-zealand-in-deepest-recession-in-living-memory.htm
+title: New Zealand In Deepest Recession In Living Memory
+date: 2020-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00152/new-zealand-in-deepest-recession-in-living-memory.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/09/17/new-zealand-in-deepest-recession-in-living-memory/index.html
+layout: layout.njk
 ---
 New Zealand In Deepest Recession In Living Memory
 =================================================

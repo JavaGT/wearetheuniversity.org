@@ -1,9 +1,12 @@
 ---
 slug: winz-blunder-a-bad-omen-for-students
-title: "WINZ blunder a bad omen for students"
-date: 2000-02-09
-source-url: https://www.scoop.co.nz/stories/PO0002/S00029/winz-blunder-a-bad-omen-for-students.htm
+title: WINZ blunder a bad omen for students
+date: 2000-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0002/S00029/winz-blunder-a-bad-omen-for-students.htm
 author: green-party
+permalink: /archive/2000/02/09/winz-blunder-a-bad-omen-for-students/index.html
+layout: layout.njk
 ---
 WINZ blunder a bad omen for students
 ====================================

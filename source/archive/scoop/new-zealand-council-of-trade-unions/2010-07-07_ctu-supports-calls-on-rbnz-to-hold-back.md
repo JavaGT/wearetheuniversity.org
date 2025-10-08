@@ -1,9 +1,12 @@
 ---
 slug: ctu-supports-calls-on-rbnz-to-hold-back
-title: "CTU supports calls on RBNZ to hold back"
-date: 2010-07-07
-source-url: https://www.scoop.co.nz/stories/BU1007/S00189/ctu-supports-calls-on-rbnz-to-hold-back.htm
+title: CTU supports calls on RBNZ to hold back
+date: 2010-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1007/S00189/ctu-supports-calls-on-rbnz-to-hold-back.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/07/07/ctu-supports-calls-on-rbnz-to-hold-back/index.html
+layout: layout.njk
 ---
 CTU supports calls on RBNZ to hold back
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-lecturer-researching-unsung-heroes-of-ch-ch-earthquakes
-title: "UC lecturer researching unsung heroes of Ch-ch earthquakes"
-date: 2012-09-25
-source-url: https://www.scoop.co.nz/stories/AK1209/S00530/uc-lecturer-researching-unsung-heroes-of-ch-ch-earthquakes.htm
+title: UC lecturer researching unsung heroes of Ch-ch earthquakes
+date: 2012-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1209/S00530/uc-lecturer-researching-unsung-heroes-of-ch-ch-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/25/uc-lecturer-researching-unsung-heroes-of-ch-ch-earthquakes/index.html
+layout: layout.njk
 ---
 UC lecturer researching unsung heroes of Ch-ch earthquakes
 ==========================================================

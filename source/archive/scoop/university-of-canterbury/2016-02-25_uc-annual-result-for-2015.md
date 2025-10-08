@@ -1,9 +1,11 @@
 ---
 slug: uc-annual-result-for-2015
-title: "UC annual result for 2015"
-date: 2016-02-25
+title: UC annual result for 2015
+date: 2016-02-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1602/S00822/uc-annual-result-for-2015.htm
 author: university-of-canterbury
+permalink: /archive/2016/02/25/uc-annual-result-for-2015/index.html
+layout: layout.njk
 ---
 UC annual result for 2015
 =========================

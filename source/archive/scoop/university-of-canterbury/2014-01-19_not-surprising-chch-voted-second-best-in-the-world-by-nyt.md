@@ -1,9 +1,13 @@
 ---
 slug: not-surprising-chch-voted-second-best-in-the-world-by-nyt
-title: "Not surprising Chch voted second best in the world by NYT"
-date: 2014-01-19
-source-url: https://www.scoop.co.nz/stories/AK1401/S00403/not-surprising-chch-voted-second-best-in-the-world-by-nyt.htm
+title: Not surprising Chch voted second best in the world by NYT
+date: 2014-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1401/S00403/not-surprising-chch-voted-second-best-in-the-world-by-nyt.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/19/not-surprising-chch-voted-second-best-in-the-world-by-nyt/index.html
+layout: layout.njk
 ---
 Not surprising Chch voted second best in the world by NYT
 =========================================================

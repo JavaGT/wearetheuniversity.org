@@ -1,9 +1,12 @@
 ---
 slug: govt-eyes-$17-7b-more-tax-as-economy-slows
-title: "Govt eyes $17.7B more tax as economy slows"
-date: 2018-12-13
-source-url: https://www.scoop.co.nz/stories/PA1812/S00169/govt-eyes-177b-more-tax-as-economy-slows.htm
+title: Govt eyes $17.7B more tax as economy slows
+date: 2018-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00169/govt-eyes-177b-more-tax-as-economy-slows.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/13/govt-eyes-/index.html
+layout: layout.njk
 ---
 Govt eyes $17.7B more tax as economy slows
 ==========================================

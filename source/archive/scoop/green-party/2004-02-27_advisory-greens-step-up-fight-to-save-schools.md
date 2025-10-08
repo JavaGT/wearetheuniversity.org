@@ -1,9 +1,12 @@
 ---
 slug: advisory-greens-step-up-fight-to-save-schools
-title: "Advisory: Greens step up fight to save schools"
-date: 2004-02-27
-source-url: https://www.scoop.co.nz/stories/PA0402/S00501/advisory-greens-step-up-fight-to-save-schools.htm
+title: 'Advisory: Greens step up fight to save schools'
+date: 2004-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00501/advisory-greens-step-up-fight-to-save-schools.htm
 author: green-party
+permalink: /archive/2004/02/27/advisory-greens-step-up-fight-to-save-schools/index.html
+layout: layout.njk
 ---
 Advisory: Greens step up fight to save schools
 ==============================================

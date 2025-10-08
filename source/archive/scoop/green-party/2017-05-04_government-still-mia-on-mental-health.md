@@ -1,9 +1,12 @@
 ---
 slug: government-still-mia-on-mental-health
-title: "Government still MIA on mental health"
-date: 2017-05-04
-source-url: https://www.scoop.co.nz/stories/PA1705/S00069/government-still-mia-on-mental-health.htm
+title: Government still MIA on mental health
+date: 2017-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00069/government-still-mia-on-mental-health.htm
 author: green-party
+permalink: /archive/2017/05/04/government-still-mia-on-mental-health/index.html
+layout: layout.njk
 ---
 Government still MIA on mental health
 =====================================

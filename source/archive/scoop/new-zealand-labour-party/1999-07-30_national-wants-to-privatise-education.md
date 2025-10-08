@@ -1,9 +1,12 @@
 ---
 slug: national-wants-to-privatise-education
-title: "National wants to privatise education"
-date: 1999-07-30
-source-url: https://www.scoop.co.nz/stories/PA9907/S00602/national-wants-to-privatise-education.htm
+title: National wants to privatise education
+date: 1999-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00602/national-wants-to-privatise-education.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/30/national-wants-to-privatise-education/index.html
+layout: layout.njk
 ---
 National wants to privatise education
 =====================================

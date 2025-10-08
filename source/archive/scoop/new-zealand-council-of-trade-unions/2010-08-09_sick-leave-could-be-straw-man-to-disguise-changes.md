@@ -1,9 +1,13 @@
 ---
 slug: sick-leave-could-be-straw-man-to-disguise-changes
-title: "Sick leave could be straw man to disguise changes"
-date: 2010-08-09
-source-url: https://www.scoop.co.nz/stories/PO1008/S00107/sick-leave-could-be-straw-man-to-disguise-changes.htm
+title: Sick leave could be straw man to disguise changes
+date: 2010-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00107/sick-leave-could-be-straw-man-to-disguise-changes.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2010/08/09/sick-leave-could-be-straw-man-to-disguise-changes/index.html
+layout: layout.njk
 ---
 Sick leave could be straw man to disguise changes
 =================================================

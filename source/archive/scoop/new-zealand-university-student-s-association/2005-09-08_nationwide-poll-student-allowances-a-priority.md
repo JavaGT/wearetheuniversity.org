@@ -1,9 +1,12 @@
 ---
 slug: nationwide-poll-student-allowances-a-priority
-title: "Nationwide poll: student allowances a priority"
-date: 2005-09-08
-source-url: https://www.scoop.co.nz/stories/ED0509/S00021/nationwide-poll-student-allowances-a-priority.htm
+title: 'Nationwide poll: student allowances a priority'
+date: 2005-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00021/nationwide-poll-student-allowances-a-priority.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/09/08/nationwide-poll-student-allowances-a-priority/index.html
+layout: layout.njk
 ---
 Nationwide poll: student allowances a priority
 ==============================================

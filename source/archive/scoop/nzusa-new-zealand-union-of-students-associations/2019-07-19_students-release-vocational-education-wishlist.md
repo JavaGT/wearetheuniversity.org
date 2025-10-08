@@ -1,9 +1,12 @@
 ---
 slug: students-release-vocational-education-wishlist
-title: "Students release Vocational Education Wishlist"
-date: 2019-07-19
-source-url: https://www.scoop.co.nz/stories/ED1907/S00034/students-release-vocational-education-wishlist.htm
+title: Students release Vocational Education Wishlist
+date: 2019-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1907/S00034/students-release-vocational-education-wishlist.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2019/07/19/students-release-vocational-education-wishlist/index.html
+layout: layout.njk
 ---
 Students release Vocational Education Wishlist
 ==============================================

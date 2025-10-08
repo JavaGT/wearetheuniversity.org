@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-opens-doors-to-all
-title: "Waikato University opens doors to all"
-date: 2011-04-29
-source-url: https://www.scoop.co.nz/stories/ED1104/S00084/waikato-university-opens-doors-to-all.htm
+title: Waikato University opens doors to all
+date: 2011-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00084/waikato-university-opens-doors-to-all.htm
 author: waikato-university
+permalink: /archive/2011/04/29/waikato-university-opens-doors-to-all/index.html
+layout: layout.njk
 ---
 Waikato University opens doors to all
 =====================================

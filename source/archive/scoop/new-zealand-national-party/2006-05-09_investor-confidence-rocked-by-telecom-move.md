@@ -1,9 +1,12 @@
 ---
 slug: investor-confidence-rocked-by-telecom-move
-title: "Investor confidence rocked by Telecom move"
-date: 2006-05-09
-source-url: https://www.scoop.co.nz/stories/PA0605/S00198/investor-confidence-rocked-by-telecom-move.htm
+title: Investor confidence rocked by Telecom move
+date: 2006-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00198/investor-confidence-rocked-by-telecom-move.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/09/investor-confidence-rocked-by-telecom-move/index.html
+layout: layout.njk
 ---
 Investor confidence rocked by Telecom move
 ==========================================

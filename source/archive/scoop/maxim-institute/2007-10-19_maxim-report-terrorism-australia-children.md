@@ -1,9 +1,12 @@
 ---
 slug: maxim-report-terrorism-australia-children
-title: "Maxim Report: Terrorism, Australia, Children"
-date: 2007-10-19
-source-url: https://www.scoop.co.nz/stories/PO0710/S00285/maxim-report-terrorism-australia-children.htm
+title: 'Maxim Report: Terrorism, Australia, Children'
+date: 2007-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0710/S00285/maxim-report-terrorism-australia-children.htm
 author: maxim-institute
+permalink: /archive/2007/10/19/maxim-report-terrorism-australia-children/index.html
+layout: layout.njk
 ---
 Maxim Report: Terrorism, Australia, Children
 ============================================

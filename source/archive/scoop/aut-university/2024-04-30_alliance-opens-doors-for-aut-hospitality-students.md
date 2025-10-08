@@ -1,9 +1,13 @@
 ---
 slug: alliance-opens-doors-for-aut-hospitality-students
-title: "Alliance Opens Doors For AUT Hospitality Students"
-date: 2024-04-30
-source-url: https://www.scoop.co.nz/stories/ED2404/S00050/alliance-opens-doors-for-aut-hospitality-students.htm
+title: Alliance Opens Doors For AUT Hospitality Students
+date: 2024-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2404/S00050/alliance-opens-doors-for-aut-hospitality-students.htm
 author: aut-university
+permalink: >-
+  /archive/2024/04/30/alliance-opens-doors-for-aut-hospitality-students/index.html
+layout: layout.njk
 ---
 Alliance Opens Doors For AUT Hospitality Students
 =================================================

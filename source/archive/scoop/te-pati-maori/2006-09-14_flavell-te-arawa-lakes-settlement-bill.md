@@ -1,9 +1,12 @@
 ---
 slug: flavell-te-arawa-lakes-settlement-bill
-title: "Flavell: Te Arawa Lakes Settlement Bill"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/PA0609/S00356/flavell-te-arawa-lakes-settlement-bill.htm
+title: 'Flavell: Te Arawa Lakes Settlement Bill'
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00356/flavell-te-arawa-lakes-settlement-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/09/14/flavell-te-arawa-lakes-settlement-bill/index.html
+layout: layout.njk
 ---
 Flavell: Te Arawa Lakes Settlement Bill
 =======================================

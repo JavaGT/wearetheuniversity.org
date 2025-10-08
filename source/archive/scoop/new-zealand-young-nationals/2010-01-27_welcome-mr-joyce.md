@@ -1,9 +1,11 @@
 ---
 slug: welcome-mr-joyce
-title: "Welcome Mr Joyce"
-date: 2010-01-27
+title: Welcome Mr Joyce
+date: 2010-01-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1001/S00098/welcome-mr-joyce.htm
 author: new-zealand-young-nationals
+permalink: /archive/2010/01/27/welcome-mr-joyce/index.html
+layout: layout.njk
 ---
 Welcome Mr Joyce
 ================

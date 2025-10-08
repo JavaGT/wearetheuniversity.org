@@ -1,9 +1,11 @@
 ---
 slug: aus-tertiary-update
-title: "AUS Tertiary Update"
-date: 2008-06-26
+title: AUS Tertiary Update
+date: 2008-06-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0806/S00076/aus-tertiary-update.htm
 author: association-of-university-staff
+permalink: /archive/2008/06/26/aus-tertiary-update/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update
 ===================

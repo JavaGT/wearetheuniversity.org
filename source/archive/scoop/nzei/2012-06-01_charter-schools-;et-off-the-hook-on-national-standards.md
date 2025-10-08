@@ -1,9 +1,12 @@
 ---
 slug: charter-schools-;et-off-the-hook-on-national-standards
-title: "Charter Schools ;et off the hook on National Standards"
-date: 2012-06-01
-source-url: https://www.scoop.co.nz/stories/ED1206/S00004/charter-schools-et-off-the-hook-on-national-standards.htm
+title: Charter Schools ;et off the hook on National Standards
+date: 2012-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00004/charter-schools-et-off-the-hook-on-national-standards.htm
 author: nzei
+permalink: /archive/2012/06/01/charter-schools-/index.html
+layout: layout.njk
 ---
 Charter Schools ;et off the hook on National Standards
 ======================================================

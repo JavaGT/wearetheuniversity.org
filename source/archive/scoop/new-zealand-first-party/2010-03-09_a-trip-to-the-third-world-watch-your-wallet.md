@@ -1,9 +1,12 @@
 ---
 slug: a-trip-to-the-third-world-watch-your-wallet
-title: "A Trip to the Third World – Watch Your Wallet"
-date: 2010-03-09
-source-url: https://www.scoop.co.nz/stories/PO1003/S00131/a-trip-to-the-third-world-watch-your-wallet.htm
+title: A Trip to the Third World – Watch Your Wallet
+date: 2010-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00131/a-trip-to-the-third-world-watch-your-wallet.htm
 author: new-zealand-first-party
+permalink: /archive/2010/03/09/a-trip-to-the-third-world-watch-your-wallet/index.html
+layout: layout.njk
 ---
 A Trip to the Third World – Watch Your Wallet
 =============================================

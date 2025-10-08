@@ -1,9 +1,12 @@
 ---
 slug: top-engineering-student-returns-from-france
-title: "Top engineering student returns from France"
-date: 2010-09-02
-source-url: https://www.scoop.co.nz/stories/ED1009/S00008/top-engineering-student-returns-from-france.htm
+title: Top engineering student returns from France
+date: 2010-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00008/top-engineering-student-returns-from-france.htm
 author: university-of-waikato
+permalink: /archive/2010/09/02/top-engineering-student-returns-from-france/index.html
+layout: layout.njk
 ---
 Top engineering student returns from France
 ===========================================

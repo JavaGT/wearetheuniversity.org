@@ -1,9 +1,12 @@
 ---
 slug: world-expert-on-drug-policy-and-public-health
-title: "World Expert On Drug Policy And Public Health"
-date: 2005-02-03
-source-url: https://www.scoop.co.nz/stories/ED0502/S00018/world-expert-on-drug-policy-and-public-health.htm
+title: World Expert On Drug Policy And Public Health
+date: 2005-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00018/world-expert-on-drug-policy-and-public-health.htm
 author: auckland-university
+permalink: /archive/2005/02/03/world-expert-on-drug-policy-and-public-health/index.html
+layout: layout.njk
 ---
 World Expert On Drug Policy And Public Health
 =============================================

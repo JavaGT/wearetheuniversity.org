@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-the-thames-hospital-contract-mystery
-title: "Fitzsimons - The Thames Hospital Contract Mystery"
-date: 1999-07-21
-source-url: https://www.scoop.co.nz/stories/PA9907/S00372/fitzsimons-the-thames-hospital-contract-mystery.htm
+title: Fitzsimons - The Thames Hospital Contract Mystery
+date: 1999-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00372/fitzsimons-the-thames-hospital-contract-mystery.htm
 author: green-party
+permalink: /archive/1999/07/21/fitzsimons-the-thames-hospital-contract-mystery/index.html
+layout: layout.njk
 ---
 Fitzsimons - The Thames Hospital Contract Mystery
 =================================================

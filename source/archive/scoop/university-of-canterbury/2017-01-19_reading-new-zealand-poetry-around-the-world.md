@@ -1,9 +1,12 @@
 ---
 slug: reading-new-zealand-poetry-around-the-world
-title: "Reading New Zealand Poetry around the world"
-date: 2017-01-19
-source-url: https://www.scoop.co.nz/stories/CU1701/S00161/reading-new-zealand-poetry-around-the-world.htm
+title: Reading New Zealand Poetry around the world
+date: 2017-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1701/S00161/reading-new-zealand-poetry-around-the-world.htm
 author: university-of-canterbury
+permalink: /archive/2017/01/19/reading-new-zealand-poetry-around-the-world/index.html
+layout: layout.njk
 ---
 Reading New Zealand Poetry around the world
 ===========================================

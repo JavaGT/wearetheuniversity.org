@@ -1,9 +1,13 @@
 ---
 slug: time-to-find-a-fairer-alternative-to-acts-vsm-bill
-title: "Time to find a fairer alternative to Act’s VSM Bill"
-date: 2011-06-19
-source-url: https://www.scoop.co.nz/stories/PO1106/S00220/time-to-find-a-fairer-alternative-to-acts-vsm-bill.htm
+title: Time to find a fairer alternative to Act’s VSM Bill
+date: 2011-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00220/time-to-find-a-fairer-alternative-to-acts-vsm-bill.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/06/19/time-to-find-a-fairer-alternative-to-acts-vsm-bill/index.html
+layout: layout.njk
 ---
 Time to find a fairer alternative to Act’s VSM Bill
 ===================================================

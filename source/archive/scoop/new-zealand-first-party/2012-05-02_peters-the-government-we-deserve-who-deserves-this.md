@@ -1,9 +1,13 @@
 ---
 slug: peters-the-government-we-deserve-who-deserves-this
-title: "Peters -  The Government We Deserve – Who Deserves This?"
-date: 2012-05-02
-source-url: https://www.scoop.co.nz/stories/PA1205/S00054/peters-the-government-we-deserve-who-deserves-this.htm
+title: Peters -  The Government We Deserve – Who Deserves This?
+date: 2012-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00054/peters-the-government-we-deserve-who-deserves-this.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/05/02/peters-the-government-we-deserve-who-deserves-this/index.html
+layout: layout.njk
 ---
 Peters - The Government We Deserve – Who Deserves This?
 =======================================================

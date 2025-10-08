@@ -1,9 +1,12 @@
 ---
 slug: debate-reveals-selective-dislike-of-democracy
-title: "Debate Reveals Selective Dislike of Democracy"
-date: 2003-03-10
-source-url: https://www.scoop.co.nz/stories/PA0303/S00150/debate-reveals-selective-dislike-of-democracy.htm
+title: Debate Reveals Selective Dislike of Democracy
+date: 2003-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00150/debate-reveals-selective-dislike-of-democracy.htm
 author: act-new-zealand
+permalink: /archive/2003/03/10/debate-reveals-selective-dislike-of-democracy/index.html
+layout: layout.njk
 ---
 Debate Reveals Selective Dislike of Democracy
 =============================================

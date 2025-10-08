@@ -1,9 +1,12 @@
 ---
 slug: adoption-law-review-politically-correct-agenda
-title: "Adoption Law Review \"Politically Correct Agenda\""
-date: 2000-09-29
-source-url: https://www.scoop.co.nz/stories/PA0009/S00477/adoption-law-review-politically-correct-agenda.htm
+title: Adoption Law Review "Politically Correct Agenda"
+date: 2000-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00477/adoption-law-review-politically-correct-agenda.htm
 author: act-new-zealand
+permalink: /archive/2000/09/29/adoption-law-review-politically-correct-agenda/index.html
+layout: layout.njk
 ---
 Adoption Law Review \"Politically Correct Agenda"
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-bill-proposes-major-health-system-benefits
-title: "New Zealand First Bill Proposes Major Health System Benefits"
-date: 2015-12-02
-source-url: https://www.scoop.co.nz/stories/PA1512/S00044/new-zealand-first-bill-proposes-major-health-system-benefits.htm
+title: New Zealand First Bill Proposes Major Health System Benefits
+date: 2015-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00044/new-zealand-first-bill-proposes-major-health-system-benefits.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/12/02/new-zealand-first-bill-proposes-major-health-system-benefits/index.html
+layout: layout.njk
 ---
 New Zealand First Bill Proposes Major Health System Benefits
 ============================================================

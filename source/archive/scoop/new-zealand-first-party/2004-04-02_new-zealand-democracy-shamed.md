@@ -1,9 +1,11 @@
 ---
 slug: new-zealand-democracy-shamed
-title: "New Zealand Democracy Shamed"
-date: 2004-04-02
+title: New Zealand Democracy Shamed
+date: 2004-04-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0404/S00055/new-zealand-democracy-shamed.htm
 author: new-zealand-first-party
+permalink: /archive/2004/04/02/new-zealand-democracy-shamed/index.html
+layout: layout.njk
 ---
 New Zealand Democracy Shamed
 ============================

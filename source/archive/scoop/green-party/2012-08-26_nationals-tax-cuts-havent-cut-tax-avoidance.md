@@ -1,9 +1,12 @@
 ---
 slug: nationals-tax-cuts-havent-cut-tax-avoidance
-title: "National’s tax cuts haven’t cut tax avoidance"
-date: 2012-08-26
-source-url: https://www.scoop.co.nz/stories/PA1208/S00385/nationals-tax-cuts-havent-cut-tax-avoidance.htm
+title: National’s tax cuts haven’t cut tax avoidance
+date: 2012-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00385/nationals-tax-cuts-havent-cut-tax-avoidance.htm
 author: green-party
+permalink: /archive/2012/08/26/nationals-tax-cuts-havent-cut-tax-avoidance/index.html
+layout: layout.njk
 ---
 National’s tax cuts haven’t cut tax avoidance
 =============================================

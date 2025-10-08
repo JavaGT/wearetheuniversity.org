@@ -1,9 +1,12 @@
 ---
 slug: students-will-demand-allowances-from-coalition
-title: "Students will demand Allowances from Coalition."
-date: 2002-07-30
-source-url: https://www.scoop.co.nz/stories/ED0207/S00072/students-will-demand-allowances-from-coalition.htm
+title: Students will demand Allowances from Coalition.
+date: 2002-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00072/students-will-demand-allowances-from-coalition.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2002/07/30/students-will-demand-allowances-from-coalition/index.html
+layout: layout.njk
 ---
 Students will demand Allowances from Coalition.
 ===============================================

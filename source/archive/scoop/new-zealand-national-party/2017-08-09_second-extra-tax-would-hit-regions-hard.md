@@ -1,9 +1,12 @@
 ---
 slug: second-extra-tax-would-hit-regions-hard
-title: "Second extra tax would hit regions hard"
-date: 2017-08-09
-source-url: https://www.scoop.co.nz/stories/PA1708/S00177/second-extra-tax-would-hit-regions-hard.htm
+title: Second extra tax would hit regions hard
+date: 2017-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00177/second-extra-tax-would-hit-regions-hard.htm
 author: new-zealand-national-party
+permalink: /archive/2017/08/09/second-extra-tax-would-hit-regions-hard/index.html
+layout: layout.njk
 ---
 Second extra tax would hit regions hard
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: otago-students-say-we-told-you-so
-title: "Otago Students Say \"We Told You So\""
-date: 2000-06-27
-source-url: https://www.scoop.co.nz/stories/ED0006/S00040/otago-students-say-we-told-you-so.htm
+title: Otago Students Say "We Told You So"
+date: 2000-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00040/otago-students-say-we-told-you-so.htm
 author: otago-university-students-association
+permalink: /archive/2000/06/27/otago-students-say-we-told-you-so/index.html
+layout: layout.njk
 ---
 Otago Students Say “We Told You So”
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: music-therapist-wins-goal-setter-award
-title: "Music therapist wins Goal Setter award"
-date: 2006-06-29
-source-url: https://www.scoop.co.nz/stories/ED0606/S00082/music-therapist-wins-goal-setter-award.htm
+title: Music therapist wins Goal Setter award
+date: 2006-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00082/music-therapist-wins-goal-setter-award.htm
 author: massey-university
+permalink: /archive/2006/06/29/music-therapist-wins-goal-setter-award/index.html
+layout: layout.njk
 ---
 Music therapist wins Goal Setter award
 ======================================

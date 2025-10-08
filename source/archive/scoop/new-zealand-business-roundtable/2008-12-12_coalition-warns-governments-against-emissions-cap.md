@@ -1,9 +1,13 @@
 ---
 slug: coalition-warns-governments-against-emissions-cap
-title: "Coalition Warns Governments Against Emissions Cap"
-date: 2008-12-12
-source-url: https://www.scoop.co.nz/stories/BU0812/S00286/coalition-warns-governments-against-emissions-cap.htm
+title: Coalition Warns Governments Against Emissions Cap
+date: 2008-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0812/S00286/coalition-warns-governments-against-emissions-cap.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2008/12/12/coalition-warns-governments-against-emissions-cap/index.html
+layout: layout.njk
 ---
 Coalition Warns Governments Against Emissions Cap
 =================================================

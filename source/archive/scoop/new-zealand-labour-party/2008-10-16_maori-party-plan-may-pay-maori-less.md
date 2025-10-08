@@ -1,9 +1,12 @@
 ---
 slug: maori-party-plan-may-pay-maori-less
-title: "Maori Party Plan May Pay Maori Less"
-date: 2008-10-16
-source-url: https://www.scoop.co.nz/stories/PO0810/S00266/maori-party-plan-may-pay-maori-less.htm
+title: Maori Party Plan May Pay Maori Less
+date: 2008-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00266/maori-party-plan-may-pay-maori-less.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/16/maori-party-plan-may-pay-maori-less/index.html
+layout: layout.njk
 ---
 Maori Party Plan May Pay Maori Less
 ===================================

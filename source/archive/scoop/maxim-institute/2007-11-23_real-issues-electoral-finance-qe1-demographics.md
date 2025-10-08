@@ -1,9 +1,12 @@
 ---
 slug: real-issues-electoral-finance-qe1-demographics
-title: "Real Issues: Electoral Finance, QE1, Demographics"
-date: 2007-11-23
-source-url: https://www.scoop.co.nz/stories/PO0711/S00397/real-issues-electoral-finance-qe1-demographics.htm
+title: 'Real Issues: Electoral Finance, QE1, Demographics'
+date: 2007-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0711/S00397/real-issues-electoral-finance-qe1-demographics.htm
 author: maxim-institute
+permalink: /archive/2007/11/23/real-issues-electoral-finance-qe1-demographics/index.html
+layout: layout.njk
 ---
 Real Issues: Electoral Finance, QE1, Demographics
 =================================================

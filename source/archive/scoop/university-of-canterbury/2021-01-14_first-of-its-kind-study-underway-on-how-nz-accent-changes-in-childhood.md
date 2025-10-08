@@ -1,9 +1,13 @@
 ---
 slug: first-of-its-kind-study-underway-on-how-nz-accent-changes-in-childhood
-title: "First Of Its Kind Study Underway On How NZ Accent Changes In Childhood"
-date: 2021-01-14
-source-url: https://www.scoop.co.nz/stories/SC2101/S00012/first-of-its-kind-study-underway-on-how-nz-accent-changes-in-childhood.htm
+title: First Of Its Kind Study Underway On How NZ Accent Changes In Childhood
+date: 2021-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2101/S00012/first-of-its-kind-study-underway-on-how-nz-accent-changes-in-childhood.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/01/14/first-of-its-kind-study-underway-on-how-nz-accent-changes-in-childhood/index.html
+layout: layout.njk
 ---
 First Of Its Kind Study Underway On How NZ Accent Changes In Childhood
 ======================================================================

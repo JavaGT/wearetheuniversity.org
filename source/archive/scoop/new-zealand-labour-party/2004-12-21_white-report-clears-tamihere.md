@@ -1,9 +1,11 @@
 ---
 slug: white-report-clears-tamihere
-title: "White Report Clears Tamihere"
-date: 2004-12-21
+title: White Report Clears Tamihere
+date: 2004-12-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0412/S00523/white-report-clears-tamihere.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/12/21/white-report-clears-tamihere/index.html
+layout: layout.njk
 ---
 White Report Clears Tamihere
 ============================

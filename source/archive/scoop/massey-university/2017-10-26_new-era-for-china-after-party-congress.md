@@ -1,9 +1,12 @@
 ---
 slug: new-era-for-china-after-party-congress
-title: "New Era For China After Party Congress"
-date: 2017-10-26
-source-url: https://www.scoop.co.nz/stories/WO1710/S00251/new-era-for-china-after-party-congress.htm
+title: New Era For China After Party Congress
+date: 2017-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1710/S00251/new-era-for-china-after-party-congress.htm
 author: massey-university
+permalink: /archive/2017/10/26/new-era-for-china-after-party-congress/index.html
+layout: layout.njk
 ---
 New Era For China After Party Congress
 ======================================

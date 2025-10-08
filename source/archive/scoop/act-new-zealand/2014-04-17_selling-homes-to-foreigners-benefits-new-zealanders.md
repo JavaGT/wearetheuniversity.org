@@ -1,9 +1,13 @@
 ---
 slug: selling-homes-to-foreigners-benefits-new-zealanders
-title: "Selling homes to foreigners benefits New Zealanders"
-date: 2014-04-17
-source-url: https://www.scoop.co.nz/stories/PO1404/S00275/selling-homes-to-foreigners-benefits-new-zealanders.htm
+title: Selling homes to foreigners benefits New Zealanders
+date: 2014-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00275/selling-homes-to-foreigners-benefits-new-zealanders.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/04/17/selling-homes-to-foreigners-benefits-new-zealanders/index.html
+layout: layout.njk
 ---
 Selling homes to foreigners benefits New Zealanders
 ===================================================

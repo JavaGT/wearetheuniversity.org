@@ -1,9 +1,12 @@
 ---
 slug: expert-to-grade-assessment-tool
-title: "Expert to grade assessment tool"
-date: 2013-08-23
-source-url: https://www.scoop.co.nz/stories/ED1308/S00110/expert-to-grade-assessment-tool.htm
+title: Expert to grade assessment tool
+date: 2013-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00110/expert-to-grade-assessment-tool.htm
 author: nzei
+permalink: /archive/2013/08/23/expert-to-grade-assessment-tool/index.html
+layout: layout.njk
 ---
 Expert to grade assessment tool
 ===============================

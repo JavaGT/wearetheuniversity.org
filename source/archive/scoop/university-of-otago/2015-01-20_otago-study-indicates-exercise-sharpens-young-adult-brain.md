@@ -1,9 +1,13 @@
 ---
 slug: otago-study-indicates-exercise-sharpens-young-adult-brain
-title: "Otago study indicates exercise sharpens young adult brain"
-date: 2015-01-20
-source-url: https://www.scoop.co.nz/stories/GE1501/S00049/otago-study-indicates-exercise-sharpens-young-adult-brain.htm
+title: Otago study indicates exercise sharpens young adult brain
+date: 2015-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1501/S00049/otago-study-indicates-exercise-sharpens-young-adult-brain.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/01/20/otago-study-indicates-exercise-sharpens-young-adult-brain/index.html
+layout: layout.njk
 ---
 Otago study indicates exercise sharpens young adult brain
 =========================================================

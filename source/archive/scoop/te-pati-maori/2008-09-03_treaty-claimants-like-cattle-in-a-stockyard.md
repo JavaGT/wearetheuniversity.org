@@ -1,9 +1,12 @@
 ---
 slug: treaty-claimants-like-cattle-in-a-stockyard
-title: "Treaty claimants like cattle in a stockyard"
-date: 2008-09-03
-source-url: https://www.scoop.co.nz/stories/PA0809/S00047/treaty-claimants-like-cattle-in-a-stockyard.htm
+title: Treaty claimants like cattle in a stockyard
+date: 2008-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00047/treaty-claimants-like-cattle-in-a-stockyard.htm
 author: te-pati-maori
+permalink: /archive/2008/09/03/treaty-claimants-like-cattle-in-a-stockyard/index.html
+layout: layout.njk
 ---
 Treaty claimants like cattle in a stockyard
 ===========================================

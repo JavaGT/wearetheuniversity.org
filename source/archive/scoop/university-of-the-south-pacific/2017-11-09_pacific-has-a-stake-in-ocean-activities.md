@@ -1,9 +1,12 @@
 ---
 slug: pacific-has-a-stake-in-ocean-activities
-title: "Pacific Has a Stake in Ocean Activities"
-date: 2017-11-09
-source-url: https://www.scoop.co.nz/stories/WO1711/S00105/pacific-has-a-stake-in-ocean-activities.htm
+title: Pacific Has a Stake in Ocean Activities
+date: 2017-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1711/S00105/pacific-has-a-stake-in-ocean-activities.htm
 author: university-of-the-south-pacific
+permalink: /archive/2017/11/09/pacific-has-a-stake-in-ocean-activities/index.html
+layout: layout.njk
 ---
 Pacific Has a Stake in Ocean Activities
 =======================================

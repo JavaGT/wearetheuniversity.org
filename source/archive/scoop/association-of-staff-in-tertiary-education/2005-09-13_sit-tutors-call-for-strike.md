@@ -1,9 +1,11 @@
 ---
 slug: sit-tutors-call-for-strike
-title: "SIT Tutors Call for Strike"
-date: 2005-09-13
+title: SIT Tutors Call for Strike
+date: 2005-09-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0509/S00044/sit-tutors-call-for-strike.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/09/13/sit-tutors-call-for-strike/index.html
+layout: layout.njk
 ---
 SIT Tutors Call for Strike
 ==========================

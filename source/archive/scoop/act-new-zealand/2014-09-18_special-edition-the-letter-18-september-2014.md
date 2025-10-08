@@ -1,9 +1,12 @@
 ---
 slug: special-edition-the-letter-18-september-2014
-title: "Special Edition : The letter 18 September 2014"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/PO1409/S00414/special-edition-the-letter-18-september-2014.htm
+title: 'Special Edition : The letter 18 September 2014'
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00414/special-edition-the-letter-18-september-2014.htm
 author: act-new-zealand
+permalink: /archive/2014/09/18/special-edition-the-letter-18-september-2014/index.html
+layout: layout.njk
 ---
 Special Edition : The letter 18 September 2014
 ==============================================

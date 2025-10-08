@@ -1,9 +1,13 @@
 ---
 slug: canterbury-graduate-a-new-zealand-hi-tech-finalist
-title: "Canterbury graduate a New Zealand Hi-Tech finalist"
-date: 2015-04-01
-source-url: https://www.scoop.co.nz/stories/ED1504/S00003/canterbury-graduate-a-new-zealand-hi-tech-finalist.htm
+title: Canterbury graduate a New Zealand Hi-Tech finalist
+date: 2015-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00003/canterbury-graduate-a-new-zealand-hi-tech-finalist.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/01/canterbury-graduate-a-new-zealand-hi-tech-finalist/index.html
+layout: layout.njk
 ---
 Canterbury graduate a New Zealand Hi-Tech finalist
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: pm-to-launch-vics-school-of-government
-title: "PM to launch Vic's School of Government"
-date: 2002-09-09
-source-url: https://www.scoop.co.nz/stories/ED0209/S00014/pm-to-launch-vics-school-of-government.htm
+title: PM to launch Vic's School of Government
+date: 2002-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00014/pm-to-launch-vics-school-of-government.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/09/09/pm-to-launch-vics-school-of-government/index.html
+layout: layout.njk
 ---
 PM to launch Vic's School of Government
 =======================================

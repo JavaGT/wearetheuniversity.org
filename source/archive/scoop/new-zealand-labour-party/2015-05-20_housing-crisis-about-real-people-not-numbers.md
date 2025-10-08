@@ -1,9 +1,12 @@
 ---
 slug: housing-crisis-about-real-people-not-numbers
-title: "Housing crisis about real people not numbers"
-date: 2015-05-20
-source-url: https://www.scoop.co.nz/stories/PA1505/S00285/housing-crisis-about-real-people-not-numbers.htm
+title: Housing crisis about real people not numbers
+date: 2015-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00285/housing-crisis-about-real-people-not-numbers.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/20/housing-crisis-about-real-people-not-numbers/index.html
+layout: layout.njk
 ---
 Housing crisis about real people not numbers
 ============================================

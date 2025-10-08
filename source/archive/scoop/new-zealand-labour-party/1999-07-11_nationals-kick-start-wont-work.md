@@ -1,9 +1,12 @@
 ---
 slug: nationals-kick-start-wont-work
-title: "National's kick-start won't work"
-date: 1999-07-11
-source-url: https://www.scoop.co.nz/stories/PA9907/S00158/nationals-kick-start-wont-work.htm
+title: National's kick-start won't work
+date: 1999-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00158/nationals-kick-start-wont-work.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/11/nationals-kick-start-wont-work/index.html
+layout: layout.njk
 ---
 National's kick-start won't work
 ================================

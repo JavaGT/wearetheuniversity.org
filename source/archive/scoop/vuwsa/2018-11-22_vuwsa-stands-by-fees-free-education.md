@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-stands-by-fees-free-education
-title: "VUWSA stands by Fees Free education"
-date: 2018-11-22
-source-url: https://www.scoop.co.nz/stories/PO1811/S00239/vuwsa-stands-by-fees-free-education.htm
+title: VUWSA stands by Fees Free education
+date: 2018-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1811/S00239/vuwsa-stands-by-fees-free-education.htm
 author: vuwsa
+permalink: /archive/2018/11/22/vuwsa-stands-by-fees-free-education/index.html
+layout: layout.njk
 ---
 VUWSA stands by Fees Free education
 ===================================

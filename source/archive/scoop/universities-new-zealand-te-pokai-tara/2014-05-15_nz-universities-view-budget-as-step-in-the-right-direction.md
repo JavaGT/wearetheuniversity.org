@@ -1,9 +1,13 @@
 ---
 slug: nz-universities-view-budget-as-step-in-the-right-direction
-title: "NZ universities view budget as step in the right direction"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/ED1405/S00083/nz-universities-view-budget-as-step-in-the-right-direction.htm
+title: NZ universities view budget as step in the right direction
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00083/nz-universities-view-budget-as-step-in-the-right-direction.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2014/05/15/nz-universities-view-budget-as-step-in-the-right-direction/index.html
+layout: layout.njk
 ---
 NZ universities view budget as step in the right direction
 ==========================================================

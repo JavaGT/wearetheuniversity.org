@@ -1,9 +1,13 @@
 ---
 slug: govt-should-temporarily-make-redundancy-payments-tax-free
-title: "Govt Should Temporarily Make Redundancy Payments Tax-free"
-date: 2020-06-03
-source-url: https://www.scoop.co.nz/stories/PA2006/S00029/govt-should-temporarily-make-redundancy-payments-tax-free.htm
+title: Govt Should Temporarily Make Redundancy Payments Tax-free
+date: 2020-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00029/govt-should-temporarily-make-redundancy-payments-tax-free.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/03/govt-should-temporarily-make-redundancy-payments-tax-free/index.html
+layout: layout.njk
 ---
 Govt Should Temporarily Make Redundancy Payments Tax-free
 =========================================================

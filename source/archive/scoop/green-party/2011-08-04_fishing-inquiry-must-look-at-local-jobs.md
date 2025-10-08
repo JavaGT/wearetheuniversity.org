@@ -1,9 +1,12 @@
 ---
 slug: fishing-inquiry-must-look-at-local-jobs
-title: "Fishing inquiry must look at local jobs"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/PA1108/S00111/fishing-inquiry-must-look-at-local-jobs.htm
+title: Fishing inquiry must look at local jobs
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00111/fishing-inquiry-must-look-at-local-jobs.htm
 author: green-party
+permalink: /archive/2011/08/04/fishing-inquiry-must-look-at-local-jobs/index.html
+layout: layout.njk
 ---
 Fishing inquiry must look at local jobs
 =======================================

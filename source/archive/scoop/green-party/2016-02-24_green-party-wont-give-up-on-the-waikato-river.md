@@ -1,9 +1,12 @@
 ---
 slug: green-party-wont-give-up-on-the-waikato-river
-title: "Green Party won’t give up on the Waikato River"
-date: 2016-02-24
-source-url: https://www.scoop.co.nz/stories/PA1602/S00358/green-party-wont-give-up-on-the-waikato-river.htm
+title: Green Party won’t give up on the Waikato River
+date: 2016-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00358/green-party-wont-give-up-on-the-waikato-river.htm
 author: green-party
+permalink: /archive/2016/02/24/green-party-wont-give-up-on-the-waikato-river/index.html
+layout: layout.njk
 ---
 Green Party won’t give up on the Waikato River
 ==============================================

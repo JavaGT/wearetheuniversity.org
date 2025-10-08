@@ -1,9 +1,13 @@
 ---
 slug: 25-uc-students-work-on-entrepreneurial-projects-over-summer
-title: "25 UC students work on entrepreneurial projects over summer"
-date: 2014-01-06
-source-url: https://www.scoop.co.nz/stories/ED1401/S00004/25-uc-students-work-on-entrepreneurial-projects-over-summer.htm
+title: 25 UC students work on entrepreneurial projects over summer
+date: 2014-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00004/25-uc-students-work-on-entrepreneurial-projects-over-summer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/06/25-uc-students-work-on-entrepreneurial-projects-over-summer/index.html
+layout: layout.njk
 ---
 25 UC students work on entrepreneurial projects over summer
 ===========================================================

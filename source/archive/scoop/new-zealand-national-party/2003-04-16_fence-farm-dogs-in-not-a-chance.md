@@ -1,9 +1,12 @@
 ---
 slug: fence-farm-dogs-in-not-a-chance
-title: "Fence farm dogs in .... not a chance"
-date: 2003-04-16
-source-url: https://www.scoop.co.nz/stories/PA0304/S00353/fence-farm-dogs-in-not-a-chance.htm
+title: Fence farm dogs in .... not a chance
+date: 2003-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00353/fence-farm-dogs-in-not-a-chance.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/16/fence-farm-dogs-in-not-a-chance/index.html
+layout: layout.njk
 ---
 Fence farm dogs in .... not a chance
 ====================================

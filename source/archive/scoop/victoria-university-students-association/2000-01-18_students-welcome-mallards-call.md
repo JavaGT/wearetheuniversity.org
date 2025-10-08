@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-mallards-call
-title: "Students Welcome Mallard's Call"
-date: 2000-01-18
-source-url: https://www.scoop.co.nz/stories/ED0001/S00004/students-welcome-mallards-call.htm
+title: Students Welcome Mallard's Call
+date: 2000-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0001/S00004/students-welcome-mallards-call.htm
 author: victoria-university-students-association
+permalink: /archive/2000/01/18/students-welcome-mallards-call/index.html
+layout: layout.njk
 ---
 Students Welcome Mallard's Call
 ===============================

@@ -1,9 +1,11 @@
 ---
 slug: whose-water-is-it-anyway
-title: "Whose Water Is It Anyway?"
-date: 2020-06-30
+title: Whose Water Is It Anyway?
+date: 2020-06-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2006/S00280/whose-water-is-it-anyway.htm
 author: act-new-zealand
+permalink: /archive/2020/06/30/whose-water-is-it-anyway/index.html
+layout: layout.njk
 ---
 Whose Water Is It Anyway?
 =========================

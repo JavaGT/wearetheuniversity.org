@@ -1,9 +1,13 @@
 ---
 slug: ignore-winstons-paranoia-over-silver-fern-farms-sale
-title: "Ignore Winston’s paranoia over Silver Fern Farms sale"
-date: 2016-09-20
-source-url: https://www.scoop.co.nz/stories/PA1609/S00360/ignore-winstons-paranoia-over-silver-fern-farms-sale.htm
+title: Ignore Winston’s paranoia over Silver Fern Farms sale
+date: 2016-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00360/ignore-winstons-paranoia-over-silver-fern-farms-sale.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/09/20/ignore-winstons-paranoia-over-silver-fern-farms-sale/index.html
+layout: layout.njk
 ---
 Ignore Winston’s paranoia over Silver Fern Farms sale
 =====================================================

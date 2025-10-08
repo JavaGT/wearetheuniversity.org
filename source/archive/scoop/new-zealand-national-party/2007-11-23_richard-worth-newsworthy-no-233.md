@@ -1,9 +1,12 @@
 ---
 slug: richard-worth-newsworthy-no-233
-title: "Richard Worth - NewsWorthy  - No. 233"
-date: 2007-11-23
-source-url: https://www.scoop.co.nz/stories/PA0711/S00466/richard-worth-newsworthy-no-233.htm
+title: Richard Worth - NewsWorthy  - No. 233
+date: 2007-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00466/richard-worth-newsworthy-no-233.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/23/richard-worth-newsworthy-no-233/index.html
+layout: layout.njk
 ---
 Richard Worth - NewsWorthy - No. 233
 ====================================

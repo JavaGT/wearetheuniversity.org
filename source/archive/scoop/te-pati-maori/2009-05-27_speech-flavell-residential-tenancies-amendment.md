@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-residential-tenancies-amendment
-title: "Speech: Flavell - Residential Tenancies Amendment"
-date: 2009-05-27
-source-url: https://www.scoop.co.nz/stories/PA0905/S00459/speech-flavell-residential-tenancies-amendment.htm
+title: 'Speech: Flavell - Residential Tenancies Amendment'
+date: 2009-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00459/speech-flavell-residential-tenancies-amendment.htm
 author: te-pati-maori
+permalink: /archive/2009/05/27/speech-flavell-residential-tenancies-amendment/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Residential Tenancies Amendment
 =================================================

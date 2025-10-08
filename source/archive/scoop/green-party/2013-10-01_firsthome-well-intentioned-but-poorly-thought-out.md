@@ -1,9 +1,13 @@
 ---
 slug: firsthome-well-intentioned-but-poorly-thought-out
-title: "FirstHome well-intentioned but poorly thought-out"
-date: 2013-10-01
-source-url: https://www.scoop.co.nz/stories/PA1310/S00024/firsthome-well-intentioned-but-poorly-thought-out.htm
+title: FirstHome well-intentioned but poorly thought-out
+date: 2013-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00024/firsthome-well-intentioned-but-poorly-thought-out.htm
 author: green-party
+permalink: >-
+  /archive/2013/10/01/firsthome-well-intentioned-but-poorly-thought-out/index.html
+layout: layout.njk
 ---
 FirstHome well-intentioned but poorly thought-out
 =================================================

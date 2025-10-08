@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-launches-50th-anniversary-celebrations
-title: "University of Waikato launches 50th anniversary celebrations"
-date: 2014-02-10
-source-url: https://www.scoop.co.nz/stories/ED1402/S00023/university-of-waikato-launches-50th-anniversary-celebrations.htm
+title: University of Waikato launches 50th anniversary celebrations
+date: 2014-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00023/university-of-waikato-launches-50th-anniversary-celebrations.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/02/10/university-of-waikato-launches-50th-anniversary-celebrations/index.html
+layout: layout.njk
 ---
 University of Waikato launches 50th anniversary celebrations
 ============================================================

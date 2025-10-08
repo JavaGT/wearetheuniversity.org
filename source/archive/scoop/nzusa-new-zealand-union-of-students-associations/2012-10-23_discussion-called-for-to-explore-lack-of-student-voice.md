@@ -1,9 +1,13 @@
 ---
 slug: discussion-called-for-to-explore-lack-of-student-voice
-title: "Discussion called for to explore lack of student voice"
-date: 2012-10-23
-source-url: https://www.scoop.co.nz/stories/ED1210/S00129/discussion-called-for-to-explore-lack-of-student-voice.htm
+title: Discussion called for to explore lack of student voice
+date: 2012-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00129/discussion-called-for-to-explore-lack-of-student-voice.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/10/23/discussion-called-for-to-explore-lack-of-student-voice/index.html
+layout: layout.njk
 ---
 Discussion called for to explore lack of student voice
 ======================================================

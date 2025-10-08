@@ -1,9 +1,13 @@
 ---
 slug: powerful-boost-to-ucs-high-tech-computing-facilities
-title: "Powerful boost to UC's high-tech computing facilities"
-date: 2011-06-02
-source-url: https://www.scoop.co.nz/stories/ED1106/S00016/powerful-boost-to-ucs-high-tech-computing-facilities.htm
+title: Powerful boost to UC's high-tech computing facilities
+date: 2011-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00016/powerful-boost-to-ucs-high-tech-computing-facilities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/06/02/powerful-boost-to-ucs-high-tech-computing-facilities/index.html
+layout: layout.njk
 ---
 Powerful boost to UC's high-tech computing facilities
 =====================================================

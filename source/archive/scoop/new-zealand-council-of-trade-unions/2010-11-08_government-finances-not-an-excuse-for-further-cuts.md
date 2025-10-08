@@ -1,9 +1,13 @@
 ---
 slug: government-finances-not-an-excuse-for-further-cuts
-title: "Government finances not an excuse for further cuts"
-date: 2010-11-08
-source-url: https://www.scoop.co.nz/stories/PO1011/S00112/government-finances-not-an-excuse-for-further-cuts.htm
+title: Government finances not an excuse for further cuts
+date: 2010-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00112/government-finances-not-an-excuse-for-further-cuts.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2010/11/08/government-finances-not-an-excuse-for-further-cuts/index.html
+layout: layout.njk
 ---
 Government finances not an excuse for further cuts
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: kedgley-urges-precautionary-approach-to-vcjd-scare
-title: "Kedgley urges precautionary approach to vCJD scare"
-date: 2003-08-08
-source-url: https://www.scoop.co.nz/stories/PA0308/S00160/kedgley-urges-precautionary-approach-to-vcjd-scare.htm
+title: Kedgley urges precautionary approach to vCJD scare
+date: 2003-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00160/kedgley-urges-precautionary-approach-to-vcjd-scare.htm
 author: green-party
+permalink: >-
+  /archive/2003/08/08/kedgley-urges-precautionary-approach-to-vcjd-scare/index.html
+layout: layout.njk
 ---
 Kedgley urges precautionary approach to vCJD scare
 ==================================================

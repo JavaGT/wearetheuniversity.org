@@ -1,9 +1,12 @@
 ---
 slug: no-cost-of-living-increase-for-health-workers
-title: "No cost of living increase for health workers"
-date: 2009-06-02
-source-url: https://www.scoop.co.nz/stories/PA0906/S00021/no-cost-of-living-increase-for-health-workers.htm
+title: No cost of living increase for health workers
+date: 2009-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00021/no-cost-of-living-increase-for-health-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/02/no-cost-of-living-increase-for-health-workers/index.html
+layout: layout.njk
 ---
 No cost of living increase for health workers
 =============================================

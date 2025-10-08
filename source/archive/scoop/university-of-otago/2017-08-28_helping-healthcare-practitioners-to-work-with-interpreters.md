@@ -1,9 +1,13 @@
 ---
 slug: helping-healthcare-practitioners-to-work-with-interpreters
-title: "Helping Healthcare Practitioners to Work with Interpreters"
-date: 2017-08-28
-source-url: https://www.scoop.co.nz/stories/GE1708/S00123/helping-healthcare-practitioners-to-work-with-interpreters.htm
+title: Helping Healthcare Practitioners to Work with Interpreters
+date: 2017-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1708/S00123/helping-healthcare-practitioners-to-work-with-interpreters.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/08/28/helping-healthcare-practitioners-to-work-with-interpreters/index.html
+layout: layout.njk
 ---
 Helping Healthcare Practitioners to Work with Interpreters
 ==========================================================

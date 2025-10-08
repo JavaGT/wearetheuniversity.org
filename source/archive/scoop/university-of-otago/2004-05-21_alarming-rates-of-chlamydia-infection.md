@@ -1,9 +1,12 @@
 ---
 slug: alarming-rates-of-chlamydia-infection
-title: "Alarming rates of chlamydia infection"
-date: 2004-05-21
-source-url: https://www.scoop.co.nz/stories/GE0405/S00089/alarming-rates-of-chlamydia-infection.htm
+title: Alarming rates of chlamydia infection
+date: 2004-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0405/S00089/alarming-rates-of-chlamydia-infection.htm
 author: university-of-otago
+permalink: /archive/2004/05/21/alarming-rates-of-chlamydia-infection/index.html
+layout: layout.njk
 ---
 Alarming rates of chlamydia infection
 =====================================

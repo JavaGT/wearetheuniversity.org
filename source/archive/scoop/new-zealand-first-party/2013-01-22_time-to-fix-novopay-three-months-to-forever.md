@@ -1,9 +1,12 @@
 ---
 slug: time-to-fix-novopay-three-months-to-forever
-title: "Time To Fix Novopay – Three Months To Forever"
-date: 2013-01-22
-source-url: https://www.scoop.co.nz/stories/PA1301/S00068/time-to-fix-novopay-three-months-to-forever.htm
+title: Time To Fix Novopay – Three Months To Forever
+date: 2013-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00068/time-to-fix-novopay-three-months-to-forever.htm
 author: new-zealand-first-party
+permalink: /archive/2013/01/22/time-to-fix-novopay-three-months-to-forever/index.html
+layout: layout.njk
 ---
 Time To Fix Novopay – Three Months To Forever
 =============================================

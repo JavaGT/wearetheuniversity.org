@@ -1,9 +1,12 @@
 ---
 slug: tertiary-funding-squeeze-hits-polytechnics
-title: "Tertiary funding squeeze hits Polytechnics"
-date: 2010-08-31
-source-url: https://www.scoop.co.nz/stories/PA1008/S00482/tertiary-funding-squeeze-hits-polytechnics.htm
+title: Tertiary funding squeeze hits Polytechnics
+date: 2010-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00482/tertiary-funding-squeeze-hits-polytechnics.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/31/tertiary-funding-squeeze-hits-polytechnics/index.html
+layout: layout.njk
 ---
 Tertiary funding squeeze hits Polytechnics
 ==========================================

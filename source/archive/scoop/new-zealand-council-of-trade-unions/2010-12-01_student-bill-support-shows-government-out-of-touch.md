@@ -1,9 +1,13 @@
 ---
 slug: student-bill-support-shows-government-out-of-touch
-title: "Student Bill support shows Government out of touch"
-date: 2010-12-01
-source-url: https://www.scoop.co.nz/stories/PO1012/S00014/student-bill-support-shows-government-out-of-touch.htm
+title: Student Bill support shows Government out of touch
+date: 2010-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00014/student-bill-support-shows-government-out-of-touch.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2010/12/01/student-bill-support-shows-government-out-of-touch/index.html
+layout: layout.njk
 ---
 Student Bill support shows Government out of touch
 ==================================================

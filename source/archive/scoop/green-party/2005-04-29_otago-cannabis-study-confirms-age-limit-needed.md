@@ -1,9 +1,12 @@
 ---
 slug: otago-cannabis-study-confirms-age-limit-needed
-title: "Otago cannabis study confirms age limit needed"
-date: 2005-04-29
-source-url: https://www.scoop.co.nz/stories/PA0504/S00607/otago-cannabis-study-confirms-age-limit-needed.htm
+title: Otago cannabis study confirms age limit needed
+date: 2005-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00607/otago-cannabis-study-confirms-age-limit-needed.htm
 author: green-party
+permalink: /archive/2005/04/29/otago-cannabis-study-confirms-age-limit-needed/index.html
+layout: layout.njk
 ---
 Otago cannabis study confirms age limit needed
 ==============================================

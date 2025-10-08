@@ -1,9 +1,12 @@
 ---
 slug: leukaemia-girl-wins-inaugural-uni-scholarship
-title: "Leukaemia girl wins inaugural uni scholarship"
-date: 2009-02-19
-source-url: https://www.scoop.co.nz/stories/ED0902/S00064/leukaemia-girl-wins-inaugural-uni-scholarship.htm
+title: Leukaemia girl wins inaugural uni scholarship
+date: 2009-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00064/leukaemia-girl-wins-inaugural-uni-scholarship.htm
 author: university-of-waikato
+permalink: /archive/2009/02/19/leukaemia-girl-wins-inaugural-uni-scholarship/index.html
+layout: layout.njk
 ---
 Leukaemia girl wins inaugural uni scholarship
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: student-welfare-must-be-top-govt-priority
-title: "Student Welfare Must Be Top Govt Priority"
-date: 2001-02-27
-source-url: https://www.scoop.co.nz/stories/ED0102/S00033/student-welfare-must-be-top-govt-priority.htm
+title: Student Welfare Must Be Top Govt Priority
+date: 2001-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0102/S00033/student-welfare-must-be-top-govt-priority.htm
 author: victoria-university-students-association
+permalink: /archive/2001/02/27/student-welfare-must-be-top-govt-priority/index.html
+layout: layout.njk
 ---
 Student Welfare Must Be Top Govt Priority
 =========================================

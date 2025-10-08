@@ -1,9 +1,12 @@
 ---
 slug: firearms-buyback-risks-failure
-title: "Firearms buyback risks failure"
-date: 2019-09-07
-source-url: https://www.scoop.co.nz/stories/PA1909/S00054/firearms-buyback-risks-failure.htm
+title: Firearms buyback risks failure
+date: 2019-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00054/firearms-buyback-risks-failure.htm
 author: new-zealand-national-party
+permalink: /archive/2019/09/07/firearms-buyback-risks-failure/index.html
+layout: layout.njk
 ---
 Firearms buyback risks failure
 ==============================

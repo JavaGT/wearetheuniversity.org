@@ -1,9 +1,13 @@
 ---
 slug: refugee-education-conference-chance-to-celebrate-success
-title: "Refugee education conference chance to celebrate success"
-date: 2015-09-29
-source-url: https://www.scoop.co.nz/stories/ED1509/S00161/refugee-education-conference-chance-to-celebrate-success.htm
+title: Refugee education conference chance to celebrate success
+date: 2015-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00161/refugee-education-conference-chance-to-celebrate-success.htm
 author: aut-university
+permalink: >-
+  /archive/2015/09/29/refugee-education-conference-chance-to-celebrate-success/index.html
+layout: layout.njk
 ---
 Refugee education conference chance to celebrate success
 ========================================================

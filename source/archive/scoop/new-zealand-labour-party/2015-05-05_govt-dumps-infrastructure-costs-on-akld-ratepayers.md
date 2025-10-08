@@ -1,9 +1,13 @@
 ---
 slug: govt-dumps-infrastructure-costs-on-akld-ratepayers
-title: "Govt dumps infrastructure costs on Akld ratepayers"
-date: 2015-05-05
-source-url: https://www.scoop.co.nz/stories/PA1505/S00051/govt-dumps-infrastructure-costs-on-akld-ratepayers.htm
+title: Govt dumps infrastructure costs on Akld ratepayers
+date: 2015-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00051/govt-dumps-infrastructure-costs-on-akld-ratepayers.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/05/05/govt-dumps-infrastructure-costs-on-akld-ratepayers/index.html
+layout: layout.njk
 ---
 Govt dumps infrastructure costs on Akld ratepayers
 ==================================================

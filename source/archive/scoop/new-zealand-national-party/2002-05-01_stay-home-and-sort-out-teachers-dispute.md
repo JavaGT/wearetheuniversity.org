@@ -1,9 +1,12 @@
 ---
 slug: stay-home-and-sort-out-teachers-dispute
-title: "Stay Home And Sort Out Teachers' Dispute"
-date: 2002-05-01
-source-url: https://www.scoop.co.nz/stories/PA0205/S00028/stay-home-and-sort-out-teachers-dispute.htm
+title: Stay Home And Sort Out Teachers' Dispute
+date: 2002-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00028/stay-home-and-sort-out-teachers-dispute.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/01/stay-home-and-sort-out-teachers-dispute/index.html
+layout: layout.njk
 ---
 Stay Home And Sort Out Teachers' Dispute
 ========================================

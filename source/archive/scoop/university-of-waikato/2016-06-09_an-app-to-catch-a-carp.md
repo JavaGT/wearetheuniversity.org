@@ -1,9 +1,11 @@
 ---
 slug: an-app-to-catch-a-carp
-title: "An app to catch a carp"
-date: 2016-06-09
+title: An app to catch a carp
+date: 2016-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1606/S00082/an-app-to-catch-a-carp.htm
 author: university-of-waikato
+permalink: /archive/2016/06/09/an-app-to-catch-a-carp/index.html
+layout: layout.njk
 ---
 An app to catch a carp
 ======================

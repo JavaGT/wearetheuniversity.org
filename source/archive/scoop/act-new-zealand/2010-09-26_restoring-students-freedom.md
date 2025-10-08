@@ -1,9 +1,11 @@
 ---
 slug: restoring-students-freedom
-title: "Restoring Students’ Freedom"
-date: 2010-09-26
+title: Restoring Students’ Freedom
+date: 2010-09-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1009/S00382/restoring-students-freedom.htm
 author: act-new-zealand
+permalink: /archive/2010/09/26/restoring-students-freedom/index.html
+layout: layout.njk
 ---
 Restoring Students’ Freedom
 ===========================

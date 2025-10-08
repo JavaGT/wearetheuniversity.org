@@ -1,9 +1,13 @@
 ---
 slug: widely-used-medicicines-increase-risk-of-rare-kidney-disease
-title: "Widely used medicicines increase risk of rare kidney disease"
-date: 2014-03-24
-source-url: https://www.scoop.co.nz/stories/SC1403/S00056/widely-used-medicicines-increase-risk-of-rare-kidney-disease.htm
+title: Widely used medicicines increase risk of rare kidney disease
+date: 2014-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00056/widely-used-medicicines-increase-risk-of-rare-kidney-disease.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/03/24/widely-used-medicicines-increase-risk-of-rare-kidney-disease/index.html
+layout: layout.njk
 ---
 Widely used medicicines increase risk of rare kidney disease
 ============================================================

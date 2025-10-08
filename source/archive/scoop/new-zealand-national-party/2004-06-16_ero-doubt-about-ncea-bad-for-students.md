@@ -1,9 +1,12 @@
 ---
 slug: ero-doubt-about-ncea-bad-for-students
-title: "ERO doubt about NCEA bad for students"
-date: 2004-06-16
-source-url: https://www.scoop.co.nz/stories/PA0406/S00236/ero-doubt-about-ncea-bad-for-students.htm
+title: ERO doubt about NCEA bad for students
+date: 2004-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00236/ero-doubt-about-ncea-bad-for-students.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/16/ero-doubt-about-ncea-bad-for-students/index.html
+layout: layout.njk
 ---
 ERO doubt about NCEA bad for students
 =====================================

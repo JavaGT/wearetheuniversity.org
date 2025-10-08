@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-expert-to-discuss-religious-problems
-title: "University of Waikato expert to discuss religious problems"
-date: 2012-05-03
-source-url: https://www.scoop.co.nz/stories/ED1205/S00015/university-of-waikato-expert-to-discuss-religious-problems.htm
+title: University of Waikato expert to discuss religious problems
+date: 2012-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00015/university-of-waikato-expert-to-discuss-religious-problems.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/05/03/university-of-waikato-expert-to-discuss-religious-problems/index.html
+layout: layout.njk
 ---
 University of Waikato expert to discuss religious problems
 ==========================================================

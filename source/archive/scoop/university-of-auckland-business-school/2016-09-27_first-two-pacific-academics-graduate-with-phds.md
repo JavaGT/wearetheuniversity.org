@@ -1,9 +1,12 @@
 ---
 slug: first-two-pacific-academics-graduate-with-phds
-title: "First two Pacific academics graduate with PhDs"
-date: 2016-09-27
-source-url: https://www.scoop.co.nz/stories/ED1609/S00134/first-two-pacific-academics-graduate-with-phds.htm
+title: First two Pacific academics graduate with PhDs
+date: 2016-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00134/first-two-pacific-academics-graduate-with-phds.htm
 author: university-of-auckland-business-school
+permalink: /archive/2016/09/27/first-two-pacific-academics-graduate-with-phds/index.html
+layout: layout.njk
 ---
 First two Pacific academics graduate with PhDs
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: important-archive-finds-new-home
-title: "Important archive finds new home"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/CU1406/S00226/important-archive-finds-new-home.htm
+title: Important archive finds new home
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00226/important-archive-finds-new-home.htm
 author: waikato-university
+permalink: /archive/2014/06/18/important-archive-finds-new-home/index.html
+layout: layout.njk
 ---
 Important archive finds new home
 ================================

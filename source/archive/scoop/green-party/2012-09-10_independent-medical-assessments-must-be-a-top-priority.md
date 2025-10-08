@@ -1,9 +1,13 @@
 ---
 slug: independent-medical-assessments-must-be-a-top-priority
-title: "Independent medical assessments must be a top priority"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/PA1209/S00112/independent-medical-assessments-must-be-a-top-priority.htm
+title: Independent medical assessments must be a top priority
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00112/independent-medical-assessments-must-be-a-top-priority.htm
 author: green-party
+permalink: >-
+  /archive/2012/09/10/independent-medical-assessments-must-be-a-top-priority/index.html
+layout: layout.njk
 ---
 Independent medical assessments must be a top priority
 ======================================================

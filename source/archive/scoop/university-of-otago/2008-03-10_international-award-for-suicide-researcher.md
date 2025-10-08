@@ -1,9 +1,12 @@
 ---
 slug: international-award-for-suicide-researcher
-title: "International award for suicide researcher"
-date: 2008-03-10
-source-url: https://www.scoop.co.nz/stories/ED0803/S00019/international-award-for-suicide-researcher.htm
+title: International award for suicide researcher
+date: 2008-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00019/international-award-for-suicide-researcher.htm
 author: university-of-otago
+permalink: /archive/2008/03/10/international-award-for-suicide-researcher/index.html
+layout: layout.njk
 ---
 International award for suicide researcher
 ==========================================

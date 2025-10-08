@@ -1,9 +1,12 @@
 ---
 slug: hipkins-needs-to-do-his-homework
-title: "Hipkins needs to do his homework"
-date: 2017-12-20
-source-url: https://www.scoop.co.nz/stories/PA1712/S00222/hipkins-needs-to-do-his-homework.htm
+title: Hipkins needs to do his homework
+date: 2017-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00222/hipkins-needs-to-do-his-homework.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/20/hipkins-needs-to-do-his-homework/index.html
+layout: layout.njk
 ---
 Hipkins needs to do his homework
 ================================

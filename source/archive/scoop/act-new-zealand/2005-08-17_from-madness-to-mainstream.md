@@ -1,9 +1,11 @@
 ---
 slug: from-madness-to-mainstream
-title: "From madness to mainstream"
-date: 2005-08-17
+title: From madness to mainstream
+date: 2005-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00429/from-madness-to-mainstream.htm
 author: act-new-zealand
+permalink: /archive/2005/08/17/from-madness-to-mainstream/index.html
+layout: layout.njk
 ---
 From madness to mainstream
 ==========================

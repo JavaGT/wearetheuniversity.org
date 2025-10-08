@@ -1,9 +1,12 @@
 ---
 slug: flavell-endangered-languages-conference
-title: "Flavell: Endangered Languages Conference"
-date: 2012-09-12
-source-url: https://www.scoop.co.nz/stories/PA1209/S00181/flavell-endangered-languages-conference.htm
+title: 'Flavell: Endangered Languages Conference'
+date: 2012-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00181/flavell-endangered-languages-conference.htm
 author: te-pati-maori
+permalink: /archive/2012/09/12/flavell-endangered-languages-conference/index.html
+layout: layout.njk
 ---
 Flavell: Endangered Languages Conference
 ========================================

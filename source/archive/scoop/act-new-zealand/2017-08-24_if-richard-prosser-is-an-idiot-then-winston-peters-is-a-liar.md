@@ -1,9 +1,13 @@
 ---
 slug: if-richard-prosser-is-an-idiot-then-winston-peters-is-a-liar
-title: "If Richard Prosser is an idiot then Winston Peters is a Liar"
-date: 2017-08-24
-source-url: https://www.scoop.co.nz/stories/PA1708/S00438/if-richard-prosser-is-an-idiot-then-winston-peters-is-a-liar.htm
+title: If Richard Prosser is an idiot then Winston Peters is a Liar
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00438/if-richard-prosser-is-an-idiot-then-winston-peters-is-a-liar.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/08/24/if-richard-prosser-is-an-idiot-then-winston-peters-is-a-liar/index.html
+layout: layout.njk
 ---
 If Richard Prosser is an idiot then Winston Peters is a Liar
 ============================================================

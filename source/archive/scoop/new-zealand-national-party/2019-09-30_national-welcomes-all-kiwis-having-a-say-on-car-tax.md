@@ -1,9 +1,13 @@
 ---
 slug: national-welcomes-all-kiwis-having-a-say-on-car-tax
-title: "National welcomes all Kiwis having a say on car tax"
-date: 2019-09-30
-source-url: https://www.scoop.co.nz/stories/PA1909/S00277/national-welcomes-all-kiwis-having-a-say-on-car-tax.htm
+title: National welcomes all Kiwis having a say on car tax
+date: 2019-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00277/national-welcomes-all-kiwis-having-a-say-on-car-tax.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/09/30/national-welcomes-all-kiwis-having-a-say-on-car-tax/index.html
+layout: layout.njk
 ---
 National welcomes all Kiwis having a say on car tax
 ===================================================

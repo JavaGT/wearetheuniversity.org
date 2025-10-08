@@ -1,9 +1,12 @@
 ---
 slug: pacific-people-spread-from-taiwan
-title: "Pacific people spread from Taiwan"
-date: 2009-01-23
-source-url: https://www.scoop.co.nz/stories/SC0901/S00030/pacific-people-spread-from-taiwan.htm
+title: Pacific people spread from Taiwan
+date: 2009-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0901/S00030/pacific-people-spread-from-taiwan.htm
 author: auckland-university
+permalink: /archive/2009/01/23/pacific-people-spread-from-taiwan/index.html
+layout: layout.njk
 ---
 Pacific people spread from Taiwan
 =================================

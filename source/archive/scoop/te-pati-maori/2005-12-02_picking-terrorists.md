@@ -1,9 +1,11 @@
 ---
 slug: picking-terrorists
-title: "Picking terrorists"
-date: 2005-12-02
+title: Picking terrorists
+date: 2005-12-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00033/picking-terrorists.htm
 author: te-pati-maori
+permalink: /archive/2005/12/02/picking-terrorists/index.html
+layout: layout.njk
 ---
 Picking terrorists
 ==================

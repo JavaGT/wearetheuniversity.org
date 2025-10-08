@@ -1,9 +1,13 @@
 ---
 slug: ministry-resorts-to-emergency-miq-to-get-teachers-in
-title: "Ministry Resorts To Emergency MIQ To Get Teachers In"
-date: 2022-02-02
-source-url: https://www.scoop.co.nz/stories/PA2202/S00024/ministry-resorts-to-emergency-miq-to-get-teachers-in.htm
+title: Ministry Resorts To Emergency MIQ To Get Teachers In
+date: 2022-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00024/ministry-resorts-to-emergency-miq-to-get-teachers-in.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/02/02/ministry-resorts-to-emergency-miq-to-get-teachers-in/index.html
+layout: layout.njk
 ---
 Ministry Resorts To Emergency MIQ To Get Teachers In
 ====================================================

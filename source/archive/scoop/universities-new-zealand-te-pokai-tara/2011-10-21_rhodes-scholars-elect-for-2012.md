@@ -1,9 +1,12 @@
 ---
 slug: rhodes-scholars-elect-for-2012
-title: "Rhodes Scholars Elect for 2012"
-date: 2011-10-21
-source-url: https://www.scoop.co.nz/stories/ED1110/S00101/rhodes-scholars-elect-for-2012.htm
+title: Rhodes Scholars Elect for 2012
+date: 2011-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00101/rhodes-scholars-elect-for-2012.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2011/10/21/rhodes-scholars-elect-for-2012/index.html
+layout: layout.njk
 ---
 Rhodes Scholars Elect for 2012
 ==============================

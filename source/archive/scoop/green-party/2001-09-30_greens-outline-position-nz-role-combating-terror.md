@@ -1,9 +1,13 @@
 ---
 slug: greens-outline-position-nz-role-combating-terror
-title: "Greens outline position - NZ role combating terror"
-date: 2001-09-30
-source-url: https://www.scoop.co.nz/stories/PA0109/S00490/greens-outline-position-nz-role-combating-terror.htm
+title: Greens outline position - NZ role combating terror
+date: 2001-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00490/greens-outline-position-nz-role-combating-terror.htm
 author: green-party
+permalink: >-
+  /archive/2001/09/30/greens-outline-position-nz-role-combating-terror/index.html
+layout: layout.njk
 ---
 Greens outline position - NZ role combating terror
 ==================================================

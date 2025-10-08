@@ -1,9 +1,13 @@
 ---
 slug: students-happy-with-death-of-no-work-rights-bill
-title: "Students happy with death of no work rights bill"
-date: 2006-08-23
-source-url: https://www.scoop.co.nz/stories/ED0608/S00071/students-happy-with-death-of-no-work-rights-bill.htm
+title: Students happy with death of no work rights bill
+date: 2006-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00071/students-happy-with-death-of-no-work-rights-bill.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2006/08/23/students-happy-with-death-of-no-work-rights-bill/index.html
+layout: layout.njk
 ---
 Students happy with death of no work rights bill
 ================================================

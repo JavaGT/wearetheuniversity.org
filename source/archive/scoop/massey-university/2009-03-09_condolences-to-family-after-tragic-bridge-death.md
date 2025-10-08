@@ -1,9 +1,12 @@
 ---
 slug: condolences-to-family-after-tragic-bridge-death
-title: "Condolences to family after tragic bridge death"
-date: 2009-03-09
-source-url: https://www.scoop.co.nz/stories/ED0903/S00022/condolences-to-family-after-tragic-bridge-death.htm
+title: Condolences to family after tragic bridge death
+date: 2009-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00022/condolences-to-family-after-tragic-bridge-death.htm
 author: massey-university
+permalink: /archive/2009/03/09/condolences-to-family-after-tragic-bridge-death/index.html
+layout: layout.njk
 ---
 Condolences to family after tragic bridge death
 ===============================================

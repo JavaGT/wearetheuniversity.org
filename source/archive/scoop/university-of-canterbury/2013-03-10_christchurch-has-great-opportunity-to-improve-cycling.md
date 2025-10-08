@@ -1,9 +1,13 @@
 ---
 slug: christchurch-has-great-opportunity-to-improve-cycling
-title: "Christchurch has great opportunity to improve cycling"
-date: 2013-03-10
-source-url: https://www.scoop.co.nz/stories/ED1303/S00062/christchurch-has-great-opportunity-to-improve-cycling.htm
+title: Christchurch has great opportunity to improve cycling
+date: 2013-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00062/christchurch-has-great-opportunity-to-improve-cycling.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/10/christchurch-has-great-opportunity-to-improve-cycling/index.html
+layout: layout.njk
 ---
 Christchurch has great opportunity to improve cycling
 =====================================================

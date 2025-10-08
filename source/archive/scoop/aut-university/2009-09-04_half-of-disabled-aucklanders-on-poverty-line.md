@@ -1,9 +1,12 @@
 ---
 slug: half-of-disabled-aucklanders-on-poverty-line
-title: "Half of disabled Aucklanders on poverty line"
-date: 2009-09-04
-source-url: https://www.scoop.co.nz/stories/GE0909/S00030/half-of-disabled-aucklanders-on-poverty-line.htm
+title: Half of disabled Aucklanders on poverty line
+date: 2009-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0909/S00030/half-of-disabled-aucklanders-on-poverty-line.htm
 author: aut-university
+permalink: /archive/2009/09/04/half-of-disabled-aucklanders-on-poverty-line/index.html
+layout: layout.njk
 ---
 Half of disabled Aucklanders on poverty line
 ============================================

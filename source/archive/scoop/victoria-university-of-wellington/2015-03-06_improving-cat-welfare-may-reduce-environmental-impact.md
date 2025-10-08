@@ -1,9 +1,13 @@
 ---
 slug: improving-cat-welfare-may-reduce-environmental-impact
-title: "Improving cat welfare may reduce environmental impact"
-date: 2015-03-06
-source-url: https://www.scoop.co.nz/stories/ED1503/S00027/improving-cat-welfare-may-reduce-environmental-impact.htm
+title: Improving cat welfare may reduce environmental impact
+date: 2015-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00027/improving-cat-welfare-may-reduce-environmental-impact.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/03/06/improving-cat-welfare-may-reduce-environmental-impact/index.html
+layout: layout.njk
 ---
 Improving cat welfare may reduce environmental impact
 =====================================================

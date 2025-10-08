@@ -1,9 +1,12 @@
 ---
 slug: who-will-crew-the-navys-new-ships
-title: "Who will crew the Navy’s new ships?"
-date: 2007-06-12
-source-url: https://www.scoop.co.nz/stories/PA0706/S00204/who-will-crew-the-navys-new-ships.htm
+title: Who will crew the Navy’s new ships?
+date: 2007-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00204/who-will-crew-the-navys-new-ships.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/12/who-will-crew-the-navys-new-ships/index.html
+layout: layout.njk
 ---
 Who will crew the Navy’s new ships?
 ===================================

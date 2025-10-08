@@ -1,9 +1,12 @@
 ---
 slug: winz-blunders-on-and-on-and-on-labour
-title: "WINZ blunders on, and on, and on: Labour"
-date: 1999-06-17
-source-url: https://www.scoop.co.nz/stories/PA9906/S00114/winz-blunders-on-and-on-and-on-labour.htm
+title: 'WINZ blunders on, and on, and on: Labour'
+date: 1999-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00114/winz-blunders-on-and-on-and-on-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/06/17/winz-blunders-on-and-on-and-on-labour/index.html
+layout: layout.njk
 ---
 WINZ blunders on, and on, and on: Labour
 ========================================

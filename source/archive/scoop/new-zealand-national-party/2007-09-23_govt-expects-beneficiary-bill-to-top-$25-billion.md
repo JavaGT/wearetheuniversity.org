@@ -1,9 +1,12 @@
 ---
 slug: govt-expects-beneficiary-bill-to-top-$25-billion
-title: "Govt expects beneficiary bill to top $25 billion"
-date: 2007-09-23
-source-url: https://www.scoop.co.nz/stories/PA0709/S00404/govt-expects-beneficiary-bill-to-top-25-billion.htm
+title: Govt expects beneficiary bill to top $25 billion
+date: 2007-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00404/govt-expects-beneficiary-bill-to-top-25-billion.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/23/govt-expects-beneficiary-bill-to-top-/index.html
+layout: layout.njk
 ---
 Govt expects beneficiary bill to top $25 billion
 ================================================

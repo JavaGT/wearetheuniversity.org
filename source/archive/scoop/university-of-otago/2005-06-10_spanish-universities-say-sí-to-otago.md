@@ -1,9 +1,12 @@
 ---
 slug: spanish-universities-say-sí-to-otago
-title: "Spanish Universities say \"Sí\" to Otago"
-date: 2005-06-10
-source-url: https://www.scoop.co.nz/stories/ED0506/S00022/spanish-universities-say-si-to-otago.htm
+title: Spanish Universities say "Sí" to Otago
+date: 2005-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00022/spanish-universities-say-si-to-otago.htm
 author: university-of-otago
+permalink: /archive/2005/06/10/spanish-universities-say-s/index.html
+layout: layout.njk
 ---
 Spanish Universities say “Sí” to Otago
 ======================================

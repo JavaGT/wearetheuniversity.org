@@ -1,9 +1,13 @@
 ---
 slug: new-report-shows-farmers-swinging-behind-organics
-title: "New Report Shows Farmers Swinging Behind Organics"
-date: 2001-08-23
-source-url: https://www.scoop.co.nz/stories/PA0108/S00457/new-report-shows-farmers-swinging-behind-organics.htm
+title: New Report Shows Farmers Swinging Behind Organics
+date: 2001-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00457/new-report-shows-farmers-swinging-behind-organics.htm
 author: green-party
+permalink: >-
+  /archive/2001/08/23/new-report-shows-farmers-swinging-behind-organics/index.html
+layout: layout.njk
 ---
 New Report Shows Farmers Swinging Behind Organics
 =================================================

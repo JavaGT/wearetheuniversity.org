@@ -1,9 +1,13 @@
 ---
 slug: chinese-officials-should-respect-new-zealand-law
-title: "Chinese officials should respect New Zealand law"
-date: 2019-08-05
-source-url: https://www.scoop.co.nz/stories/PA1908/S00051/chinese-officials-should-respect-new-zealand-law.htm
+title: Chinese officials should respect New Zealand law
+date: 2019-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00051/chinese-officials-should-respect-new-zealand-law.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/08/05/chinese-officials-should-respect-new-zealand-law/index.html
+layout: layout.njk
 ---
 Chinese officials should respect New Zealand law
 ================================================

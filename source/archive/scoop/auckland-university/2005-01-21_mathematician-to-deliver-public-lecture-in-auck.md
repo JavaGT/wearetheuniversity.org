@@ -1,9 +1,12 @@
 ---
 slug: mathematician-to-deliver-public-lecture-in-auck
-title: "Mathematician to deliver public lecture in Auck"
-date: 2005-01-21
-source-url: https://www.scoop.co.nz/stories/ED0501/S00039/mathematician-to-deliver-public-lecture-in-auck.htm
+title: Mathematician to deliver public lecture in Auck
+date: 2005-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00039/mathematician-to-deliver-public-lecture-in-auck.htm
 author: auckland-university
+permalink: /archive/2005/01/21/mathematician-to-deliver-public-lecture-in-auck/index.html
+layout: layout.njk
 ---
 Mathematician to deliver public lecture in Auck
 ===============================================

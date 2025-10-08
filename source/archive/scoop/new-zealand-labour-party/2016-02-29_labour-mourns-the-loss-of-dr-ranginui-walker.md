@@ -1,9 +1,12 @@
 ---
 slug: labour-mourns-the-loss-of-dr-ranginui-walker
-title: "Labour mourns the loss of Dr Ranginui Walker"
-date: 2016-02-29
-source-url: https://www.scoop.co.nz/stories/PA1602/S00428/labour-mourns-the-loss-of-dr-ranginui-walker.htm
+title: Labour mourns the loss of Dr Ranginui Walker
+date: 2016-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00428/labour-mourns-the-loss-of-dr-ranginui-walker.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/29/labour-mourns-the-loss-of-dr-ranginui-walker/index.html
+layout: layout.njk
 ---
 Labour mourns the loss of Dr Ranginui Walker
 ============================================

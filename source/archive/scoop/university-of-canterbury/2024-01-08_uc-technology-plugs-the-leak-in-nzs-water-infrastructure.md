@@ -1,9 +1,13 @@
 ---
 slug: uc-technology-plugs-the-leak-in-nzs-water-infrastructure
-title: "UC Technology Plugs The Leak In NZ’s Water Infrastructure"
-date: 2024-01-08
-source-url: https://www.scoop.co.nz/stories/SC2401/S00003/uc-technology-plugs-the-leak-in-nzs-water-infrastructure.htm
+title: UC Technology Plugs The Leak In NZ’s Water Infrastructure
+date: 2024-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2401/S00003/uc-technology-plugs-the-leak-in-nzs-water-infrastructure.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/01/08/uc-technology-plugs-the-leak-in-nzs-water-infrastructure/index.html
+layout: layout.njk
 ---
 UC Technology Plugs The Leak In NZ’s Water Infrastructure
 =========================================================

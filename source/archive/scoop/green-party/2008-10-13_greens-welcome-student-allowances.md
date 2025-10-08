@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-student-allowances
-title: "Greens welcome student allowances"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PA0810/S00286/greens-welcome-student-allowances.htm
+title: Greens welcome student allowances
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00286/greens-welcome-student-allowances.htm
 author: green-party
+permalink: /archive/2008/10/13/greens-welcome-student-allowances/index.html
+layout: layout.njk
 ---
 Greens welcome student allowances
 =================================

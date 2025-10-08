@@ -1,9 +1,13 @@
 ---
 slug: murder-mystery-and-secrets-laid-bare-in-writers-on-mondays
-title: "Murder, mystery and secrets laid bare in Writers on Mondays"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/CU1307/S00158/murder-mystery-and-secrets-laid-bare-in-writers-on-mondays.htm
+title: Murder, mystery and secrets laid bare in Writers on Mondays
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00158/murder-mystery-and-secrets-laid-bare-in-writers-on-mondays.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/07/09/murder-mystery-and-secrets-laid-bare-in-writers-on-mondays/index.html
+layout: layout.njk
 ---
 Murder, mystery and secrets laid bare in Writers on Mondays
 ===========================================================

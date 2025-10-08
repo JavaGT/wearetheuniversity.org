@@ -1,9 +1,13 @@
 ---
 slug: victoria-environmental-expert-to-advise-government
-title: "Victoria environmental expert to advise Government"
-date: 2008-04-04
-source-url: https://www.scoop.co.nz/stories/SC0804/S00013/victoria-environmental-expert-to-advise-government.htm
+title: Victoria environmental expert to advise Government
+date: 2008-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0804/S00013/victoria-environmental-expert-to-advise-government.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2008/04/04/victoria-environmental-expert-to-advise-government/index.html
+layout: layout.njk
 ---
 Victoria environmental expert to advise Government
 ==================================================

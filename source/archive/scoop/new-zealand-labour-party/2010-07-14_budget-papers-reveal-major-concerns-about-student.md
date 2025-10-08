@@ -1,9 +1,13 @@
 ---
 slug: budget-papers-reveal-major-concerns-about-student
-title: "Budget papers reveal major concerns about student"
-date: 2010-07-14
-source-url: https://www.scoop.co.nz/stories/PA1007/S00213/budget-papers-reveal-major-concerns-about-student.htm
+title: Budget papers reveal major concerns about student
+date: 2010-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00213/budget-papers-reveal-major-concerns-about-student.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/07/14/budget-papers-reveal-major-concerns-about-student/index.html
+layout: layout.njk
 ---
 Budget papers reveal major concerns about student
 =================================================

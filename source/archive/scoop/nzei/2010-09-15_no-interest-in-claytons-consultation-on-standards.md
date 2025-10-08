@@ -1,9 +1,13 @@
 ---
 slug: no-interest-in-claytons-consultation-on-standards
-title: "No Interest in Clayton’s Consultation on Standards"
-date: 2010-09-15
-source-url: https://www.scoop.co.nz/stories/ED1009/S00075/no-interest-in-claytons-consultation-on-standards.htm
+title: No Interest in Clayton’s Consultation on Standards
+date: 2010-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00075/no-interest-in-claytons-consultation-on-standards.htm
 author: nzei
+permalink: >-
+  /archive/2010/09/15/no-interest-in-claytons-consultation-on-standards/index.html
+layout: layout.njk
 ---
 No Interest in Clayton’s Consultation on Standards
 ==================================================

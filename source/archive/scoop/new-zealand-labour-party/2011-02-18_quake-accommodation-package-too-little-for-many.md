@@ -1,9 +1,12 @@
 ---
 slug: quake-accommodation-package-too-little-for-many
-title: "Quake accommodation package too little for many"
-date: 2011-02-18
-source-url: https://www.scoop.co.nz/stories/PA1102/S00290/quake-accommodation-package-too-little-for-many.htm
+title: Quake accommodation package too little for many
+date: 2011-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00290/quake-accommodation-package-too-little-for-many.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/02/18/quake-accommodation-package-too-little-for-many/index.html
+layout: layout.njk
 ---
 Quake accommodation package too little for many
 ===============================================

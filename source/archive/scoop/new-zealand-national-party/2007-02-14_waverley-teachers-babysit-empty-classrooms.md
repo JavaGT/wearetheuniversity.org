@@ -1,9 +1,12 @@
 ---
 slug: waverley-teachers-babysit-empty-classrooms
-title: "Waverley teachers babysit empty classrooms"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/PA0702/S00238/waverley-teachers-babysit-empty-classrooms.htm
+title: Waverley teachers babysit empty classrooms
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00238/waverley-teachers-babysit-empty-classrooms.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/14/waverley-teachers-babysit-empty-classrooms/index.html
+layout: layout.njk
 ---
 Waverley teachers babysit empty classrooms
 ==========================================

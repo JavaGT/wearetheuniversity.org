@@ -1,9 +1,12 @@
 ---
 slug: uncertainty-still-surrounds-kyoto
-title: "Uncertainty still surrounds Kyoto"
-date: 2002-10-18
-source-url: https://www.scoop.co.nz/stories/PA0210/S00408/uncertainty-still-surrounds-kyoto.htm
+title: Uncertainty still surrounds Kyoto
+date: 2002-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00408/uncertainty-still-surrounds-kyoto.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/18/uncertainty-still-surrounds-kyoto/index.html
+layout: layout.njk
 ---
 Uncertainty still surrounds Kyoto
 =================================

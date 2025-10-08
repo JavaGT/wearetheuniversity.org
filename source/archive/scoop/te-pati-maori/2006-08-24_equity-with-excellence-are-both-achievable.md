@@ -1,9 +1,12 @@
 ---
 slug: equity-with-excellence-are-both-achievable
-title: "Equity with Excellence: Are both Achievable?"
-date: 2006-08-24
-source-url: https://www.scoop.co.nz/stories/PA0608/S00406/equity-with-excellence-are-both-achievable.htm
+title: 'Equity with Excellence: Are both Achievable?'
+date: 2006-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00406/equity-with-excellence-are-both-achievable.htm
 author: te-pati-maori
+permalink: /archive/2006/08/24/equity-with-excellence-are-both-achievable/index.html
+layout: layout.njk
 ---
 Equity with Excellence: Are both Achievable?
 ============================================

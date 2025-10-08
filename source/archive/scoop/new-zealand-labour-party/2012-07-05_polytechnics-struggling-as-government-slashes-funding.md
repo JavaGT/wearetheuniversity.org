@@ -1,9 +1,13 @@
 ---
 slug: polytechnics-struggling-as-government-slashes-funding
-title: "Polytechnics struggling as government slashes funding"
-date: 2012-07-05
-source-url: https://www.scoop.co.nz/stories/PA1207/S00059/polytechnics-struggling-as-government-slashes-funding.htm
+title: Polytechnics struggling as government slashes funding
+date: 2012-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00059/polytechnics-struggling-as-government-slashes-funding.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/07/05/polytechnics-struggling-as-government-slashes-funding/index.html
+layout: layout.njk
 ---
 Polytechnics struggling as government slashes funding
 =====================================================

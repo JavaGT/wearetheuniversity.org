@@ -1,9 +1,12 @@
 ---
 slug: nzusa-&-atsa-accept-student-loan-money
-title: "NZUSA & ATSA Accept Student Loan Money"
-date: 2002-07-25
-source-url: https://www.scoop.co.nz/stories/ED0207/S00063/nzusa-atsa-accept-student-loan-money.htm
+title: NZUSA & ATSA Accept Student Loan Money
+date: 2002-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00063/nzusa-atsa-accept-student-loan-money.htm
 author: student-choice
+permalink: /archive/2002/07/25/nzusa-/index.html
+layout: layout.njk
 ---
 NZUSA & ATSA Accept Student Loan Money
 ======================================

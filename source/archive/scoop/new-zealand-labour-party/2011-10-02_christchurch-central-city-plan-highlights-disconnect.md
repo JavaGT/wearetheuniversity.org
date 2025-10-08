@@ -1,9 +1,13 @@
 ---
 slug: christchurch-central-city-plan-highlights-disconnect
-title: "Christchurch: Central city plan highlights ‘disconnect’"
-date: 2011-10-02
-source-url: https://www.scoop.co.nz/stories/PA1110/S00008/christchurch-central-city-plan-highlights-disconnect.htm
+title: 'Christchurch: Central city plan highlights ‘disconnect’'
+date: 2011-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00008/christchurch-central-city-plan-highlights-disconnect.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/10/02/christchurch-central-city-plan-highlights-disconnect/index.html
+layout: layout.njk
 ---
 Christchurch: Central city plan highlights ‘disconnect’
 =======================================================

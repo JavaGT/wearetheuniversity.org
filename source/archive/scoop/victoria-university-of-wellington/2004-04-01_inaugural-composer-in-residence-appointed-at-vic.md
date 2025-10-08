@@ -1,9 +1,13 @@
 ---
 slug: inaugural-composer-in-residence-appointed-at-vic
-title: "Inaugural composer in residence appointed at Vic"
-date: 2004-04-01
-source-url: https://www.scoop.co.nz/stories/ED0404/S00004/inaugural-composer-in-residence-appointed-at-vic.htm
+title: Inaugural composer in residence appointed at Vic
+date: 2004-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00004/inaugural-composer-in-residence-appointed-at-vic.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/04/01/inaugural-composer-in-residence-appointed-at-vic/index.html
+layout: layout.njk
 ---
 Inaugural composer in residence appointed at Vic
 ================================================

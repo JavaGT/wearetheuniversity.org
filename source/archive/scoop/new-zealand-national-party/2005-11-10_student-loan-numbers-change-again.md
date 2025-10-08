@@ -1,9 +1,12 @@
 ---
 slug: student-loan-numbers-change-again
-title: "Student loan numbers change again"
-date: 2005-11-10
-source-url: https://www.scoop.co.nz/stories/PA0511/S00133/student-loan-numbers-change-again.htm
+title: Student loan numbers change again
+date: 2005-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00133/student-loan-numbers-change-again.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/10/student-loan-numbers-change-again/index.html
+layout: layout.njk
 ---
 Student loan numbers change again
 =================================

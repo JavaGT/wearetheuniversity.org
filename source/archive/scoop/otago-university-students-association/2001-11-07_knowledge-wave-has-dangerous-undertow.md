@@ -1,9 +1,12 @@
 ---
 slug: knowledge-wave-has-dangerous-undertow
-title: "Knowledge Wave has Dangerous Undertow"
-date: 2001-11-07
-source-url: https://www.scoop.co.nz/stories/ED0111/S00020/knowledge-wave-has-dangerous-undertow.htm
+title: Knowledge Wave has Dangerous Undertow
+date: 2001-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00020/knowledge-wave-has-dangerous-undertow.htm
 author: otago-university-students-association
+permalink: /archive/2001/11/07/knowledge-wave-has-dangerous-undertow/index.html
+layout: layout.njk
 ---
 Knowledge Wave has Dangerous Undertow
 =====================================

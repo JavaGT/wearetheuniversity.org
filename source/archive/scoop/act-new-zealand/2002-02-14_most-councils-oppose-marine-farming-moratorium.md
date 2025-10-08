@@ -1,9 +1,12 @@
 ---
 slug: most-councils-oppose-marine-farming-moratorium
-title: "Most Councils Oppose Marine Farming Moratorium"
-date: 2002-02-14
-source-url: https://www.scoop.co.nz/stories/PA0202/S00175/most-councils-oppose-marine-farming-moratorium.htm
+title: Most Councils Oppose Marine Farming Moratorium
+date: 2002-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00175/most-councils-oppose-marine-farming-moratorium.htm
 author: act-new-zealand
+permalink: /archive/2002/02/14/most-councils-oppose-marine-farming-moratorium/index.html
+layout: layout.njk
 ---
 Most Councils Oppose Marine Farming Moratorium
 ==============================================

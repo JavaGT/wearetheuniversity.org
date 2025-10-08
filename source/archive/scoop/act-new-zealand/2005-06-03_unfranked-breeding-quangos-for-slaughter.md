@@ -1,9 +1,12 @@
 ---
 slug: unfranked-breeding-quangos-for-slaughter
-title: "Unfranked: Breeding quangos for slaughter"
-date: 2005-06-03
-source-url: https://www.scoop.co.nz/stories/PA0506/S00086/unfranked-breeding-quangos-for-slaughter.htm
+title: 'Unfranked: Breeding quangos for slaughter'
+date: 2005-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00086/unfranked-breeding-quangos-for-slaughter.htm
 author: act-new-zealand
+permalink: /archive/2005/06/03/unfranked-breeding-quangos-for-slaughter/index.html
+layout: layout.njk
 ---
 Unfranked: Breeding quangos for slaughter
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: sure-to-rise-the-recipe-behind-an-iconic-kiwi-brand
-title: "Sure To Rise: The Recipe Behind An Iconic Kiwi Brand"
-date: 2023-05-09
-source-url: https://www.scoop.co.nz/stories/CU2305/S00061/sure-to-rise-the-recipe-behind-an-iconic-kiwi-brand.htm
+title: 'Sure To Rise: The Recipe Behind An Iconic Kiwi Brand'
+date: 2023-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2305/S00061/sure-to-rise-the-recipe-behind-an-iconic-kiwi-brand.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/05/09/sure-to-rise-the-recipe-behind-an-iconic-kiwi-brand/index.html
+layout: layout.njk
 ---
 Sure To Rise: The Recipe Behind An Iconic Kiwi Brand
 ====================================================

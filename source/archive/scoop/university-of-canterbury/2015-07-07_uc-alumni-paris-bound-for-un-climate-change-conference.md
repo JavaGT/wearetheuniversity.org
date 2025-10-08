@@ -1,9 +1,13 @@
 ---
 slug: uc-alumni-paris-bound-for-un-climate-change-conference
-title: "UC alumni Paris bound for UN climate change conference"
-date: 2015-07-07
-source-url: https://www.scoop.co.nz/stories/ED1507/S00039/uc-alumni-paris-bound-for-un-climate-change-conference.htm
+title: UC alumni Paris bound for UN climate change conference
+date: 2015-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00039/uc-alumni-paris-bound-for-un-climate-change-conference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/07/07/uc-alumni-paris-bound-for-un-climate-change-conference/index.html
+layout: layout.njk
 ---
 UC alumni Paris bound for UN climate change conference
 ======================================================

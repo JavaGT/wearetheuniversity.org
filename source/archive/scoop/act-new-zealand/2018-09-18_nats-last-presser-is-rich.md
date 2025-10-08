@@ -1,9 +1,11 @@
 ---
 slug: nats-last-presser-is-rich
-title: "Nats' Last Presser is rich"
-date: 2018-09-18
+title: Nats' Last Presser is rich
+date: 2018-09-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1809/S00223/nats-last-presser-is-rich.htm
 author: act-new-zealand
+permalink: /archive/2018/09/18/nats-last-presser-is-rich/index.html
+layout: layout.njk
 ---
 Nats' Last Presser is rich
 ==========================

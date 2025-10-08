@@ -1,9 +1,13 @@
 ---
 slug: greens-launch-billion-dollar-plan-to-reduce-child-poverty
-title: "Greens launch billion dollar plan to reduce child poverty"
-date: 2014-08-17
-source-url: https://www.scoop.co.nz/stories/PA1408/S00264/greens-launch-billion-dollar-plan-to-reduce-child-poverty.htm
+title: Greens launch billion dollar plan to reduce child poverty
+date: 2014-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00264/greens-launch-billion-dollar-plan-to-reduce-child-poverty.htm
 author: green-party
+permalink: >-
+  /archive/2014/08/17/greens-launch-billion-dollar-plan-to-reduce-child-poverty/index.html
+layout: layout.njk
 ---
 Greens launch billion dollar plan to reduce child poverty
 =========================================================

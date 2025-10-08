@@ -1,9 +1,12 @@
 ---
 slug: maori-&-pacific-islanders-dominate-poorest-schools
-title: "Maori & Pacific Islanders Dominate Poorest Schools"
-date: 2001-05-08
-source-url: https://www.scoop.co.nz/stories/PA0105/S00150/maori-pacific-islanders-dominate-poorest-schools.htm
+title: Maori & Pacific Islanders Dominate Poorest Schools
+date: 2001-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00150/maori-pacific-islanders-dominate-poorest-schools.htm
 author: act-new-zealand
+permalink: /archive/2001/05/08/maori-/index.html
+layout: layout.njk
 ---
 Maori & Pacific Islanders Dominate Poorest Schools
 ==================================================

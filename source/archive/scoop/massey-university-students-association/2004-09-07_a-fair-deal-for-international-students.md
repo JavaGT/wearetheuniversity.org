@@ -1,9 +1,12 @@
 ---
 slug: a-fair-deal-for-international-students
-title: "A fair deal for international students"
-date: 2004-09-07
-source-url: https://www.scoop.co.nz/stories/ED0409/S00025/a-fair-deal-for-international-students.htm
+title: A fair deal for international students
+date: 2004-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00025/a-fair-deal-for-international-students.htm
 author: massey-university-students-association
+permalink: /archive/2004/09/07/a-fair-deal-for-international-students/index.html
+layout: layout.njk
 ---
 A fair deal for international students
 ======================================

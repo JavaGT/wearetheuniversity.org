@@ -1,9 +1,13 @@
 ---
 slug: brain-drain-statistic-backs-need-for-loan-review
-title: "Brain drain statistic backs need for loan review"
-date: 1999-08-11
-source-url: https://www.scoop.co.nz/stories/ED9908/S00004/brain-drain-statistic-backs-need-for-loan-review.htm
+title: Brain drain statistic backs need for loan review
+date: 1999-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9908/S00004/brain-drain-statistic-backs-need-for-loan-review.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/1999/08/11/brain-drain-statistic-backs-need-for-loan-review/index.html
+layout: layout.njk
 ---
 Brain drain statistic backs need for loan review
 ================================================

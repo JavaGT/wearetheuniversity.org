@@ -1,9 +1,12 @@
 ---
 slug: speaker-on-rise-of-the-health-bots
-title: "Speaker on rise of the health bots"
-date: 2014-10-13
-source-url: https://www.scoop.co.nz/stories/GE1410/S00090/speaker-on-rise-of-the-health-bots.htm
+title: Speaker on rise of the health bots
+date: 2014-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1410/S00090/speaker-on-rise-of-the-health-bots.htm
 author: auckland-university
+permalink: /archive/2014/10/13/speaker-on-rise-of-the-health-bots/index.html
+layout: layout.njk
 ---
 Speaker on rise of the health bots
 ==================================

@@ -1,9 +1,16 @@
 ---
-slug: hon-dr-megan-woods-opens-new-agricultural-sciences-facility-for-lincoln-university
-title: "Hon Dr Megan Woods Opens New Agricultural Sciences Facility for Lincoln University"
-date: 2021-07-14
-source-url: https://www.scoop.co.nz/stories/ED2107/S00023/hon-dr-megan-woods-opens-new-agricultural-sciences-facility-for-lincoln-university.htm
+slug: >-
+  hon-dr-megan-woods-opens-new-agricultural-sciences-facility-for-lincoln-university
+title: >-
+  Hon Dr Megan Woods Opens New Agricultural Sciences Facility for Lincoln
+  University
+date: 2021-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2107/S00023/hon-dr-megan-woods-opens-new-agricultural-sciences-facility-for-lincoln-university.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/07/14/hon-dr-megan-woods-opens-new-agricultural-sciences-facility-for-lincoln-university/index.html
+layout: layout.njk
 ---
 Hon Dr Megan Woods Opens New Agricultural Sciences Facility for Lincoln University
 ==================================================================================

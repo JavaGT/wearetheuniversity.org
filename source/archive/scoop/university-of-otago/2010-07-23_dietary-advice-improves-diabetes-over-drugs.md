@@ -1,9 +1,12 @@
 ---
 slug: dietary-advice-improves-diabetes-over-drugs
-title: "Dietary advice improves diabetes over drugs"
-date: 2010-07-23
-source-url: https://www.scoop.co.nz/stories/GE1007/S00094/dietary-advice-improves-diabetes-over-drugs.htm
+title: Dietary advice improves diabetes over drugs
+date: 2010-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1007/S00094/dietary-advice-improves-diabetes-over-drugs.htm
 author: university-of-otago
+permalink: /archive/2010/07/23/dietary-advice-improves-diabetes-over-drugs/index.html
+layout: layout.njk
 ---
 Dietary advice improves diabetes over drugs
 ===========================================

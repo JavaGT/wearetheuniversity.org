@@ -1,9 +1,13 @@
 ---
 slug: building-smarter-to-help-cut-nzs-carbon-emissions
-title: "Building Smarter To Help Cut NZ’s Carbon Emissions"
-date: 2023-03-21
-source-url: https://www.scoop.co.nz/stories/SC2303/S00032/building-smarter-to-help-cut-nzs-carbon-emissions.htm
+title: Building Smarter To Help Cut NZ’s Carbon Emissions
+date: 2023-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2303/S00032/building-smarter-to-help-cut-nzs-carbon-emissions.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/03/21/building-smarter-to-help-cut-nzs-carbon-emissions/index.html
+layout: layout.njk
 ---
 Building Smarter To Help Cut NZ’s Carbon Emissions
 ==================================================

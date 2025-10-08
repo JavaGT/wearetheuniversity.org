@@ -1,9 +1,13 @@
 ---
 slug: nz-fossil-fuel-industry-admits-days-are-numbered
-title: "NZ fossil fuel industry admits days are numbered"
-date: 2014-09-24
-source-url: https://www.scoop.co.nz/stories/PA1409/S00301/nz-fossil-fuel-industry-admits-days-are-numbered.htm
+title: NZ fossil fuel industry admits days are numbered
+date: 2014-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00301/nz-fossil-fuel-industry-admits-days-are-numbered.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/24/nz-fossil-fuel-industry-admits-days-are-numbered/index.html
+layout: layout.njk
 ---
 NZ fossil fuel industry admits days are numbered
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: turia-whanganui-school-of-design-graduation
-title: "Turia: Whanganui School of Design Graduation"
-date: 2007-11-27
-source-url: https://www.scoop.co.nz/stories/PA0711/S00525/turia-whanganui-school-of-design-graduation.htm
+title: 'Turia: Whanganui School of Design Graduation'
+date: 2007-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00525/turia-whanganui-school-of-design-graduation.htm
 author: te-pati-maori
+permalink: /archive/2007/11/27/turia-whanganui-school-of-design-graduation/index.html
+layout: layout.njk
 ---
 Turia: Whanganui School of Design Graduation
 ============================================

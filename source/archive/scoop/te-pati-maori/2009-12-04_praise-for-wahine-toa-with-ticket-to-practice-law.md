@@ -1,9 +1,13 @@
 ---
 slug: praise-for-wahine-toa-with-ticket-to-practice-law
-title: "Praise for wahine toa with ticket to practice law"
-date: 2009-12-04
-source-url: https://www.scoop.co.nz/stories/PA0912/S00062/praise-for-wahine-toa-with-ticket-to-practice-law.htm
+title: Praise for wahine toa with ticket to practice law
+date: 2009-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00062/praise-for-wahine-toa-with-ticket-to-practice-law.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2009/12/04/praise-for-wahine-toa-with-ticket-to-practice-law/index.html
+layout: layout.njk
 ---
 Praise for wahine toa with ticket to practice law
 =================================================

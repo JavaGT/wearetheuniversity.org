@@ -1,9 +1,13 @@
 ---
 slug: pacific-geopolitics-under-spotlight-at-foreign-policy-school
-title: "Pacific Geopolitics Under Spotlight At Foreign Policy School"
-date: 2013-03-26
-source-url: https://www.scoop.co.nz/stories/ED1303/S00181/pacific-geopolitics-under-spotlight-at-foreign-policy-school.htm
+title: Pacific Geopolitics Under Spotlight At Foreign Policy School
+date: 2013-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00181/pacific-geopolitics-under-spotlight-at-foreign-policy-school.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/03/26/pacific-geopolitics-under-spotlight-at-foreign-policy-school/index.html
+layout: layout.njk
 ---
 Pacific Geopolitics Under Spotlight At Foreign Policy School
 ============================================================

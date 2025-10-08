@@ -1,9 +1,12 @@
 ---
 slug: government-misleading-on-teachers-offers
-title: "Government misleading on teachers’ offers"
-date: 2019-05-28
-source-url: https://www.scoop.co.nz/stories/PA1905/S00270/government-misleading-on-teachers-offers.htm
+title: Government misleading on teachers’ offers
+date: 2019-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00270/government-misleading-on-teachers-offers.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/28/government-misleading-on-teachers-offers/index.html
+layout: layout.njk
 ---
 Government misleading on teachers’ offers
 =========================================

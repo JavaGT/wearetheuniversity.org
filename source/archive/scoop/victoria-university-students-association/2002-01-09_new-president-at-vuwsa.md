@@ -1,9 +1,11 @@
 ---
 slug: new-president-at-vuwsa
-title: "New President At VUWSA"
-date: 2002-01-09
+title: New President At VUWSA
+date: 2002-01-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0201/S00002/new-president-at-vuwsa.htm
 author: victoria-university-students-association
+permalink: /archive/2002/01/09/new-president-at-vuwsa/index.html
+layout: layout.njk
 ---
 New President At VUWSA
 ======================

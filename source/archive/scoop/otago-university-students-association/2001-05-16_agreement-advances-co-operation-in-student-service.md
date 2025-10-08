@@ -1,9 +1,13 @@
 ---
 slug: agreement-advances-co-operation-in-student-service
-title: "Agreement Advances Co-operation in Student Service"
-date: 2001-05-16
-source-url: https://www.scoop.co.nz/stories/ED0105/S00028/agreement-advances-co-operation-in-student-service.htm
+title: Agreement Advances Co-operation in Student Service
+date: 2001-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00028/agreement-advances-co-operation-in-student-service.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2001/05/16/agreement-advances-co-operation-in-student-service/index.html
+layout: layout.njk
 ---
 Agreement Advances Co-operation in Student Service
 ==================================================

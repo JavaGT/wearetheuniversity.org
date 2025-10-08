@@ -1,9 +1,12 @@
 ---
 slug: parents-must-face-responsibility-for-truancy
-title: "Parents must face responsibility for truancy"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/PA1709/S00134/parents-must-face-responsibility-for-truancy.htm
+title: Parents must face responsibility for truancy
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00134/parents-must-face-responsibility-for-truancy.htm
 author: act-new-zealand
+permalink: /archive/2017/09/12/parents-must-face-responsibility-for-truancy/index.html
+layout: layout.njk
 ---
 Parents must face responsibility for truancy
 ============================================

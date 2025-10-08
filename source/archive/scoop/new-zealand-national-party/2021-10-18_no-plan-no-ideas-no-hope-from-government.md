@@ -1,9 +1,12 @@
 ---
 slug: no-plan-no-ideas-no-hope-from-government
-title: "No Plan, No Ideas, No Hope From Government"
-date: 2021-10-18
-source-url: https://www.scoop.co.nz/stories/PA2110/S00170/no-plan-no-ideas-no-hope-from-government.htm
+title: No Plan, No Ideas, No Hope From Government
+date: 2021-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00170/no-plan-no-ideas-no-hope-from-government.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/18/no-plan-no-ideas-no-hope-from-government/index.html
+layout: layout.njk
 ---
 No Plan, No Ideas, No Hope From Government
 ==========================================

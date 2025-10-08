@@ -1,9 +1,12 @@
 ---
 slug: ctu-welcomes-minimum-wage-change
-title: "CTU Welcomes Minimum Wage Change"
-date: 2022-02-11
-source-url: https://www.scoop.co.nz/stories/PO2202/S00085/ctu-welcomes-minimum-wage-change.htm
+title: CTU Welcomes Minimum Wage Change
+date: 2022-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2202/S00085/ctu-welcomes-minimum-wage-change.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2022/02/11/ctu-welcomes-minimum-wage-change/index.html
+layout: layout.njk
 ---
 CTU Welcomes Minimum Wage Change
 ================================

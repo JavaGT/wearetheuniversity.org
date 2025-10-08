@@ -1,9 +1,12 @@
 ---
 slug: fieldays-site-showcases-new-thinking
-title: "Fieldays site showcases new thinking"
-date: 2009-06-10
-source-url: https://www.scoop.co.nz/stories/SC0906/S00014/fieldays-site-showcases-new-thinking.htm
+title: Fieldays site showcases new thinking
+date: 2009-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0906/S00014/fieldays-site-showcases-new-thinking.htm
 author: massey-university
+permalink: /archive/2009/06/10/fieldays-site-showcases-new-thinking/index.html
+layout: layout.njk
 ---
 Fieldays site showcases new thinking
 ====================================

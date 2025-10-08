@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-launches-2012-uc-guarantee
-title: "University of Canterbury launches 2012 UC Guarantee"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/ED1109/S00143/university-of-canterbury-launches-2012-uc-guarantee.htm
+title: University of Canterbury launches 2012 UC Guarantee
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00143/university-of-canterbury-launches-2012-uc-guarantee.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/09/30/university-of-canterbury-launches-2012-uc-guarantee/index.html
+layout: layout.njk
 ---
 University of Canterbury launches 2012 UC Guarantee
 ===================================================

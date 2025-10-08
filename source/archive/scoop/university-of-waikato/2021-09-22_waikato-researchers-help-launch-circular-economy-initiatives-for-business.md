@@ -1,9 +1,13 @@
 ---
 slug: waikato-researchers-help-launch-circular-economy-initiatives-for-business
-title: "Waikato Researchers Help Launch Circular Economy Initiatives For Business"
-date: 2021-09-22
-source-url: https://www.scoop.co.nz/stories/BU2109/S00511/waikato-researchers-help-launch-circular-economy-initiatives-for-business.htm
+title: Waikato Researchers Help Launch Circular Economy Initiatives For Business
+date: 2021-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2109/S00511/waikato-researchers-help-launch-circular-economy-initiatives-for-business.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/09/22/waikato-researchers-help-launch-circular-economy-initiatives-for-business/index.html
+layout: layout.njk
 ---
 Waikato Researchers Help Launch Circular Economy Initiatives For Business
 =========================================================================

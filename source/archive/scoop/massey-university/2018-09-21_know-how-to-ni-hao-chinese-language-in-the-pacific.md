@@ -1,9 +1,13 @@
 ---
 slug: know-how-to-ni-hao-chinese-language-in-the-pacific
-title: "Know how to ‘ni hao’ - Chinese language in the Pacific"
-date: 2018-09-21
-source-url: https://www.scoop.co.nz/stories/ED1809/S00063/know-how-to-ni-hao-chinese-language-in-the-pacific.htm
+title: Know how to ‘ni hao’ - Chinese language in the Pacific
+date: 2018-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00063/know-how-to-ni-hao-chinese-language-in-the-pacific.htm
 author: massey-university
+permalink: >-
+  /archive/2018/09/21/know-how-to-ni-hao-chinese-language-in-the-pacific/index.html
+layout: layout.njk
 ---
 Know how to ‘ni hao’ - Chinese language in the Pacific
 ======================================================

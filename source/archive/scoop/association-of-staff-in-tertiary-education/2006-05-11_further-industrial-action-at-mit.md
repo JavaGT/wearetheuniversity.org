@@ -1,9 +1,12 @@
 ---
 slug: further-industrial-action-at-mit
-title: "Further Industrial action at MIT"
-date: 2006-05-11
-source-url: https://www.scoop.co.nz/stories/ED0605/S00042/further-industrial-action-at-mit.htm
+title: Further Industrial action at MIT
+date: 2006-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00042/further-industrial-action-at-mit.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2006/05/11/further-industrial-action-at-mit/index.html
+layout: layout.njk
 ---
 Further Industrial action at MIT
 ================================

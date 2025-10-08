@@ -1,9 +1,12 @@
 ---
 slug: celebration-of-nzers-dna-discovery-contribution
-title: "Celebration of NZer's DNA Discovery Contribution"
-date: 2003-02-04
-source-url: https://www.scoop.co.nz/stories/GE0302/S00004/celebration-of-nzers-dna-discovery-contribution.htm
+title: Celebration of NZer's DNA Discovery Contribution
+date: 2003-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0302/S00004/celebration-of-nzers-dna-discovery-contribution.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/02/04/celebration-of-nzers-dna-discovery-contribution/index.html
+layout: layout.njk
 ---
 Celebration of NZer's DNA Discovery Contribution
 ================================================

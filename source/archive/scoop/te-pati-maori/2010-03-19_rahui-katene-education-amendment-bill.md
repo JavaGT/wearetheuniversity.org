@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-education-amendment-bill
-title: "Rahui Katene - Education Amendment Bill"
-date: 2010-03-19
-source-url: https://www.scoop.co.nz/stories/PA1003/S00282/rahui-katene-education-amendment-bill.htm
+title: Rahui Katene - Education Amendment Bill
+date: 2010-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00282/rahui-katene-education-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/03/19/rahui-katene-education-amendment-bill/index.html
+layout: layout.njk
 ---
 Rahui Katene - Education Amendment Bill
 =======================================

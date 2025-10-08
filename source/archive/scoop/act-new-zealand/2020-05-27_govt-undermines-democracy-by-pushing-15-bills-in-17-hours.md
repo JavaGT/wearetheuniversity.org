@@ -1,9 +1,13 @@
 ---
 slug: govt-undermines-democracy-by-pushing-15-bills-in-17-hours
-title: "Govt Undermines Democracy By Pushing 15 Bills In 17 Hours"
-date: 2020-05-27
-source-url: https://www.scoop.co.nz/stories/PO2005/S00356/govt-undermines-democracy-by-pushing-15-bills-in-17-hours.htm
+title: Govt Undermines Democracy By Pushing 15 Bills In 17 Hours
+date: 2020-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00356/govt-undermines-democracy-by-pushing-15-bills-in-17-hours.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/05/27/govt-undermines-democracy-by-pushing-15-bills-in-17-hours/index.html
+layout: layout.njk
 ---
 Govt Undermines Democracy By Pushing 15 Bills In 17 Hours
 =========================================================

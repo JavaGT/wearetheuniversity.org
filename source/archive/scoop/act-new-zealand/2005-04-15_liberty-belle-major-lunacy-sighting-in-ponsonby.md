@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-major-lunacy-sighting-in-ponsonby
-title: "Liberty Belle: Major Lunacy Sighting In Ponsonby"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/PA0504/S00354/liberty-belle-major-lunacy-sighting-in-ponsonby.htm
+title: 'Liberty Belle: Major Lunacy Sighting In Ponsonby'
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00354/liberty-belle-major-lunacy-sighting-in-ponsonby.htm
 author: act-new-zealand
+permalink: /archive/2005/04/15/liberty-belle-major-lunacy-sighting-in-ponsonby/index.html
+layout: layout.njk
 ---
 Liberty Belle: Major Lunacy Sighting In Ponsonby
 ================================================

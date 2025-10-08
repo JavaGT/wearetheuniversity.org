@@ -1,9 +1,12 @@
 ---
 slug: uc-using-maths-to-predict-cancer-cell-behaviour
-title: "UC using maths to predict cancer cell behaviour"
-date: 2012-12-04
-source-url: https://www.scoop.co.nz/stories/SC1212/S00002/uc-using-maths-to-predict-cancer-cell-behaviour.htm
+title: UC using maths to predict cancer cell behaviour
+date: 2012-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00002/uc-using-maths-to-predict-cancer-cell-behaviour.htm
 author: university-of-canterbury
+permalink: /archive/2012/12/04/uc-using-maths-to-predict-cancer-cell-behaviour/index.html
+layout: layout.njk
 ---
 UC using maths to predict cancer cell behaviour
 ===============================================

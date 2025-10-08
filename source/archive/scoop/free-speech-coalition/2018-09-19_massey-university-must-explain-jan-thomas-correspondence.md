@@ -1,9 +1,13 @@
 ---
 slug: massey-university-must-explain-jan-thomas-correspondence
-title: "Massey University must explain Jan Thomas correspondence"
-date: 2018-09-19
-source-url: https://www.scoop.co.nz/stories/PO1809/S00206/massey-university-must-explain-jan-thomas-correspondence.htm
+title: Massey University must explain Jan Thomas correspondence
+date: 2018-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1809/S00206/massey-university-must-explain-jan-thomas-correspondence.htm
 author: free-speech-coalition
+permalink: >-
+  /archive/2018/09/19/massey-university-must-explain-jan-thomas-correspondence/index.html
+layout: layout.njk
 ---
 Massey University must explain Jan Thomas correspondence
 ========================================================

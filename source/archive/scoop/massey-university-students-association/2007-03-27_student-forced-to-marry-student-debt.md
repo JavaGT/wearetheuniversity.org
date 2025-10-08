@@ -1,9 +1,12 @@
 ---
 slug: student-forced-to-marry-student-debt
-title: "Student Forced to Marry Student Debt"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/ED0703/S00102/student-forced-to-marry-student-debt.htm
+title: Student Forced to Marry Student Debt
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00102/student-forced-to-marry-student-debt.htm
 author: massey-university-students-association
+permalink: /archive/2007/03/27/student-forced-to-marry-student-debt/index.html
+layout: layout.njk
 ---
 Student Forced to Marry Student Debt
 ====================================

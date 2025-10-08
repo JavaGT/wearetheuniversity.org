@@ -1,9 +1,12 @@
 ---
 slug: government-sell-off-agenda-behind-job-losses
-title: "Government sell-off agenda behind job losses"
-date: 2012-09-25
-source-url: https://www.scoop.co.nz/stories/PA1209/S00373/government-sell-off-agenda-behind-job-losses.htm
+title: Government sell-off agenda behind job losses
+date: 2012-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00373/government-sell-off-agenda-behind-job-losses.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/25/government-sell-off-agenda-behind-job-losses/index.html
+layout: layout.njk
 ---
 Government sell-off agenda behind job losses
 ============================================

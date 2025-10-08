@@ -1,9 +1,12 @@
 ---
 slug: govt-must-act-following-another-death-on-sh2
-title: "Govt must act following another death on SH2"
-date: 2005-02-15
-source-url: https://www.scoop.co.nz/stories/PA0502/S00326/govt-must-act-following-another-death-on-sh2.htm
+title: Govt must act following another death on SH2
+date: 2005-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00326/govt-must-act-following-another-death-on-sh2.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/15/govt-must-act-following-another-death-on-sh2/index.html
+layout: layout.njk
 ---
 Govt must act following another death on SH2
 ============================================

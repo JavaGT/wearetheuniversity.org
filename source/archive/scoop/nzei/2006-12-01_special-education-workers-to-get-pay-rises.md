@@ -1,9 +1,12 @@
 ---
 slug: special-education-workers-to-get-pay-rises
-title: "Special Education Workers To Get Pay Rises"
-date: 2006-12-01
-source-url: https://www.scoop.co.nz/stories/ED0612/S00001/special-education-workers-to-get-pay-rises.htm
+title: Special Education Workers To Get Pay Rises
+date: 2006-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00001/special-education-workers-to-get-pay-rises.htm
 author: nzei
+permalink: /archive/2006/12/01/special-education-workers-to-get-pay-rises/index.html
+layout: layout.njk
 ---
 Special Education Workers To Get Pay Rises
 ==========================================

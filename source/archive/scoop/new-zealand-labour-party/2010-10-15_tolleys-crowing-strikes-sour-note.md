@@ -1,9 +1,12 @@
 ---
 slug: tolleys-crowing-strikes-sour-note
-title: "Tolley’s crowing strikes sour note"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/PA1010/S00270/tolleys-crowing-strikes-sour-note.htm
+title: Tolley’s crowing strikes sour note
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00270/tolleys-crowing-strikes-sour-note.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/15/tolleys-crowing-strikes-sour-note/index.html
+layout: layout.njk
 ---
 Tolley’s crowing strikes sour note
 ==================================

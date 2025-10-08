@@ -1,9 +1,12 @@
 ---
 slug: nzusa-works-with-govt-to-fix-studylink
-title: "NZUSA works with Govt to fix StudyLink"
-date: 2015-08-10
-source-url: https://www.scoop.co.nz/stories/PO1508/S00106/nzusa-works-with-govt-to-fix-studylink.htm
+title: NZUSA works with Govt to fix StudyLink
+date: 2015-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1508/S00106/nzusa-works-with-govt-to-fix-studylink.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/08/10/nzusa-works-with-govt-to-fix-studylink/index.html
+layout: layout.njk
 ---
 NZUSA works with Govt to fix StudyLink
 ======================================

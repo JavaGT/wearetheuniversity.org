@@ -1,9 +1,12 @@
 ---
 slug: partnership-school-debate-welcomed
-title: "Partnership School debate welcomed"
-date: 2016-04-07
-source-url: https://www.scoop.co.nz/stories/PA1604/S00108/partnership-school-debate-welcomed.htm
+title: Partnership School debate welcomed
+date: 2016-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00108/partnership-school-debate-welcomed.htm
 author: act-new-zealand
+permalink: /archive/2016/04/07/partnership-school-debate-welcomed/index.html
+layout: layout.njk
 ---
 Partnership School debate welcomed
 ==================================

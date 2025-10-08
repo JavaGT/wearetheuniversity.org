@@ -1,9 +1,12 @@
 ---
 slug: otago-study-finds-māori-miss-out-on-medicines
-title: "Otago Study finds Māori miss out on medicines"
-date: 2011-07-28
-source-url: https://www.scoop.co.nz/stories/SC1107/S00059/otago-study-finds-maori-miss-out-on-medicines.htm
+title: Otago Study finds Māori miss out on medicines
+date: 2011-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00059/otago-study-finds-maori-miss-out-on-medicines.htm
 author: university-of-otago
+permalink: /archive/2011/07/28/otago-study-finds-m/index.html
+layout: layout.njk
 ---
 Otago Study finds Māori miss out on medicines
 =============================================

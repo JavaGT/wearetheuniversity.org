@@ -1,9 +1,12 @@
 ---
 slug: flavell-major-events-management-bill
-title: "Flavell: Major Events Management Bill"
-date: 2007-08-23
-source-url: https://www.scoop.co.nz/stories/PA0708/S00413/flavell-major-events-management-bill.htm
+title: 'Flavell: Major Events Management Bill'
+date: 2007-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00413/flavell-major-events-management-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/08/23/flavell-major-events-management-bill/index.html
+layout: layout.njk
 ---
 Flavell: Major Events Management Bill
 =====================================

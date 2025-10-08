@@ -1,9 +1,12 @@
 ---
 slug: garden-city-image-put-under-the-spotlight
-title: "\"Garden City\" image put under the spotlight"
-date: 2009-04-01
-source-url: https://www.scoop.co.nz/stories/AK0904/S00014/garden-city-image-put-under-the-spotlight.htm
+title: '"Garden City" image put under the spotlight'
+date: 2009-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0904/S00014/garden-city-image-put-under-the-spotlight.htm
 author: university-of-canterbury
+permalink: /archive/2009/04/01/garden-city-image-put-under-the-spotlight/index.html
+layout: layout.njk
 ---
 "Garden City’ image put under the spotlight
 ===========================================

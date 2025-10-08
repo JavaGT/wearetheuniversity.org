@@ -1,9 +1,13 @@
 ---
 slug: exhibitionlecture-to-celebrate-design-graduation
-title: "Exhibition,lecture to celebrate design graduation"
-date: 2007-05-15
-source-url: https://www.scoop.co.nz/stories/ED0705/S00062/exhibitionlecture-to-celebrate-design-graduation.htm
+title: Exhibition,lecture to celebrate design graduation
+date: 2007-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00062/exhibitionlecture-to-celebrate-design-graduation.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/05/15/exhibitionlecture-to-celebrate-design-graduation/index.html
+layout: layout.njk
 ---
 Exhibition,lecture to celebrate design graduation
 =================================================

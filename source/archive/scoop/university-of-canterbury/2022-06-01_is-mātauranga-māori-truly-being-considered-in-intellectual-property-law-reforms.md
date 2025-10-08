@@ -1,9 +1,15 @@
 ---
-slug: is-mātauranga-māori-truly-being-considered-in-intellectual-property-law-reforms
-title: "Is Mātauranga Māori Truly Being Considered In Intellectual Property Law Reforms?"
-date: 2022-06-01
-source-url: https://www.scoop.co.nz/stories/PO2206/S00003/is-matauranga-maori-truly-being-considered-in-intellectual-property-law-reforms.htm
+slug: >-
+  is-mātauranga-māori-truly-being-considered-in-intellectual-property-law-reforms
+title: >-
+  Is Mātauranga Māori Truly Being Considered In Intellectual Property Law
+  Reforms?
+date: 2022-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2206/S00003/is-matauranga-maori-truly-being-considered-in-intellectual-property-law-reforms.htm
 author: university-of-canterbury
+permalink: /archive/2022/06/01/is-m/index.html
+layout: layout.njk
 ---
 Is Mātauranga Māori Truly Being Considered In Intellectual Property Law Reforms?
 ================================================================================

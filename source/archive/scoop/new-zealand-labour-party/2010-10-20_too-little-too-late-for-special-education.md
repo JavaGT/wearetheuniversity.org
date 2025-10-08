@@ -1,9 +1,12 @@
 ---
 slug: too-little-too-late-for-special-education
-title: "Too little too late for Special Education"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PA1010/S00357/too-little-too-late-for-special-education.htm
+title: Too little too late for Special Education
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00357/too-little-too-late-for-special-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/20/too-little-too-late-for-special-education/index.html
+layout: layout.njk
 ---
 Too little too late for Special Education
 =========================================

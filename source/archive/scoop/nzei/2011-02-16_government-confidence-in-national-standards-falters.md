@@ -1,9 +1,13 @@
 ---
 slug: government-confidence-in-national-standards-falters
-title: "Government Confidence in National Standards Falters"
-date: 2011-02-16
-source-url: https://www.scoop.co.nz/stories/PO1102/S00133/government-confidence-in-national-standards-falters.htm
+title: Government Confidence in National Standards Falters
+date: 2011-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00133/government-confidence-in-national-standards-falters.htm
 author: nzei
+permalink: >-
+  /archive/2011/02/16/government-confidence-in-national-standards-falters/index.html
+layout: layout.njk
 ---
 Government Confidence in National Standards Falters
 ===================================================

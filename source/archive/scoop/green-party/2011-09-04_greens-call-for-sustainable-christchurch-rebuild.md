@@ -1,9 +1,13 @@
 ---
 slug: greens-call-for-sustainable-christchurch-rebuild
-title: "Greens call for sustainable Christchurch rebuild"
-date: 2011-09-04
-source-url: https://www.scoop.co.nz/stories/PA1109/S00064/greens-call-for-sustainable-christchurch-rebuild.htm
+title: Greens call for sustainable Christchurch rebuild
+date: 2011-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00064/greens-call-for-sustainable-christchurch-rebuild.htm
 author: green-party
+permalink: >-
+  /archive/2011/09/04/greens-call-for-sustainable-christchurch-rebuild/index.html
+layout: layout.njk
 ---
 Greens call for sustainable Christchurch rebuild
 ================================================

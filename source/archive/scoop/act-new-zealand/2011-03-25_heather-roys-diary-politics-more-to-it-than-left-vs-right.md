@@ -1,9 +1,13 @@
 ---
 slug: heather-roys-diary-politics-more-to-it-than-left-vs-right
-title: "Heather Roy's Diary: Politics: More To It Than Left Vs Right"
-date: 2011-03-25
-source-url: https://www.scoop.co.nz/stories/PA1103/S00436/heather-roys-diary-politics-more-to-it-than-left-vs-right.htm
+title: 'Heather Roy''s Diary: Politics: More To It Than Left Vs Right'
+date: 2011-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00436/heather-roys-diary-politics-more-to-it-than-left-vs-right.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/03/25/heather-roys-diary-politics-more-to-it-than-left-vs-right/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Politics: More To It Than Left Vs Right
 ============================================================

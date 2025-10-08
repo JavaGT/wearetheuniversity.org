@@ -1,9 +1,13 @@
 ---
 slug: hon-barbara-edmonds-speech-to-labour-party-conference-2024
-title: "Hon Barbara Edmonds' Speech to Labour Party Conference 2024"
-date: 2024-11-30
-source-url: https://www.scoop.co.nz/stories/PA2411/S00248/hon-barbara-edmonds-speech-to-labour-party-conference-2024.htm
+title: Hon Barbara Edmonds' Speech to Labour Party Conference 2024
+date: 2024-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00248/hon-barbara-edmonds-speech-to-labour-party-conference-2024.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/11/30/hon-barbara-edmonds-speech-to-labour-party-conference-2024/index.html
+layout: layout.njk
 ---
 Hon Barbara Edmonds' Speech to Labour Party Conference 2024
 ===========================================================

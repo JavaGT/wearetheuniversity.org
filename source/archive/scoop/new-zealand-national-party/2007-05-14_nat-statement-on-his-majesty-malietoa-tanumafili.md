@@ -1,9 +1,13 @@
 ---
 slug: nat-statement-on-his-majesty-malietoa-tanumafili
-title: "Nat Statement on his Majesty Malietoa Tanumafili"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/PA0705/S00315/nat-statement-on-his-majesty-malietoa-tanumafili.htm
+title: Nat Statement on his Majesty Malietoa Tanumafili
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00315/nat-statement-on-his-majesty-malietoa-tanumafili.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/05/14/nat-statement-on-his-majesty-malietoa-tanumafili/index.html
+layout: layout.njk
 ---
 Nat Statement on his Majesty Malietoa Tanumafili
 ================================================

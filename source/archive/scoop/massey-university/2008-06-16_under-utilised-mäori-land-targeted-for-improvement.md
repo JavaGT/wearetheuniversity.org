@@ -1,9 +1,12 @@
 ---
 slug: under-utilised-mäori-land-targeted-for-improvement
-title: "Under-utilised Mäori land targeted for improvement"
-date: 2008-06-16
-source-url: https://www.scoop.co.nz/stories/ED0806/S00047/under-utilised-maori-land-targeted-for-improvement.htm
+title: Under-utilised Mäori land targeted for improvement
+date: 2008-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00047/under-utilised-maori-land-targeted-for-improvement.htm
 author: massey-university
+permalink: /archive/2008/06/16/under-utilised-m/index.html
+layout: layout.njk
 ---
 Under-utilised Mäori land targeted for improvement
 ==================================================

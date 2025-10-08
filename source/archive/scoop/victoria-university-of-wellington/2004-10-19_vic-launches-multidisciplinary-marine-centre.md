@@ -1,9 +1,12 @@
 ---
 slug: vic-launches-multidisciplinary-marine-centre
-title: "Vic launches multidisciplinary marine centre"
-date: 2004-10-19
-source-url: https://www.scoop.co.nz/stories/ED0410/S00074/vic-launches-multidisciplinary-marine-centre.htm
+title: Vic launches multidisciplinary marine centre
+date: 2004-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00074/vic-launches-multidisciplinary-marine-centre.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/10/19/vic-launches-multidisciplinary-marine-centre/index.html
+layout: layout.njk
 ---
 Vic launches multidisciplinary marine centre
 ============================================

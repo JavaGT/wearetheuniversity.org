@@ -1,9 +1,12 @@
 ---
 slug: did-school-pass-kids-for-picking-up-trash
-title: "Did School Pass Kids For Picking Up Trash?"
-date: 2003-07-04
-source-url: https://www.scoop.co.nz/stories/PA0307/S00100/did-school-pass-kids-for-picking-up-trash.htm
+title: Did School Pass Kids For Picking Up Trash?
+date: 2003-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00100/did-school-pass-kids-for-picking-up-trash.htm
 author: act-new-zealand
+permalink: /archive/2003/07/04/did-school-pass-kids-for-picking-up-trash/index.html
+layout: layout.njk
 ---
 Did School Pass Kids For Picking Up Trash?
 ==========================================

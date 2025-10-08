@@ -1,9 +1,12 @@
 ---
 slug: government-failing-sexual-violence-victims
-title: "Government failing sexual violence victims"
-date: 2015-03-20
-source-url: https://www.scoop.co.nz/stories/PA1503/S00312/government-failing-sexual-violence-victims.htm
+title: Government failing sexual violence victims
+date: 2015-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00312/government-failing-sexual-violence-victims.htm
 author: green-party
+permalink: /archive/2015/03/20/government-failing-sexual-violence-victims/index.html
+layout: layout.njk
 ---
 Government failing sexual violence victims
 ==========================================

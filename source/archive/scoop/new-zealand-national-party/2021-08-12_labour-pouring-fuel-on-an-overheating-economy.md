@@ -1,9 +1,12 @@
 ---
 slug: labour-pouring-fuel-on-an-overheating-economy
-title: "Labour Pouring Fuel On An Overheating Economy"
-date: 2021-08-12
-source-url: https://www.scoop.co.nz/stories/PA2108/S00125/labour-pouring-fuel-on-an-overheating-economy.htm
+title: Labour Pouring Fuel On An Overheating Economy
+date: 2021-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00125/labour-pouring-fuel-on-an-overheating-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2021/08/12/labour-pouring-fuel-on-an-overheating-economy/index.html
+layout: layout.njk
 ---
 Labour Pouring Fuel On An Overheating Economy
 =============================================

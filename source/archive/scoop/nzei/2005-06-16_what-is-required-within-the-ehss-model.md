@@ -1,9 +1,12 @@
 ---
 slug: what-is-required-within-the-ehss-model
-title: "What Is Required Within The EHSS Model"
-date: 2005-06-16
-source-url: https://www.scoop.co.nz/stories/ED0506/S00048/what-is-required-within-the-ehss-model.htm
+title: What Is Required Within The EHSS Model
+date: 2005-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00048/what-is-required-within-the-ehss-model.htm
 author: nzei
+permalink: /archive/2005/06/16/what-is-required-within-the-ehss-model/index.html
+layout: layout.njk
 ---
 What Is Required Within The EHSS Model
 ======================================

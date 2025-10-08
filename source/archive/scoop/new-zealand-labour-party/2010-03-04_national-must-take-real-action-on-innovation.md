@@ -1,9 +1,12 @@
 ---
 slug: national-must-take-real-action-on-innovation
-title: "National must take real action on innovation"
-date: 2010-03-04
-source-url: https://www.scoop.co.nz/stories/PA1003/S00069/national-must-take-real-action-on-innovation.htm
+title: National must take real action on innovation
+date: 2010-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00069/national-must-take-real-action-on-innovation.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/04/national-must-take-real-action-on-innovation/index.html
+layout: layout.njk
 ---
 National must take real action on innovation
 ============================================

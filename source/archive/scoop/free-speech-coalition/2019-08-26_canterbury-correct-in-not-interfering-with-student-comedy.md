@@ -1,9 +1,13 @@
 ---
 slug: canterbury-correct-in-not-interfering-with-student-comedy
-title: "Canterbury Correct In Not Interfering with Student Comedy"
-date: 2019-08-26
-source-url: https://www.scoop.co.nz/stories/PO1908/S00353/canterbury-correct-in-not-interfering-with-student-comedy.htm
+title: Canterbury Correct In Not Interfering with Student Comedy
+date: 2019-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00353/canterbury-correct-in-not-interfering-with-student-comedy.htm
 author: free-speech-coalition
+permalink: >-
+  /archive/2019/08/26/canterbury-correct-in-not-interfering-with-student-comedy/index.html
+layout: layout.njk
 ---
 Canterbury Correct In Not Interfering with Student Comedy
 =========================================================

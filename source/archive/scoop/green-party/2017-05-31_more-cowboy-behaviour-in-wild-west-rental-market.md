@@ -1,9 +1,13 @@
 ---
 slug: more-cowboy-behaviour-in-wild-west-rental-market
-title: "More cowboy behaviour in Wild West rental market"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/PA1705/S00641/more-cowboy-behaviour-in-wild-west-rental-market.htm
+title: More cowboy behaviour in Wild West rental market
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00641/more-cowboy-behaviour-in-wild-west-rental-market.htm
 author: green-party
+permalink: >-
+  /archive/2017/05/31/more-cowboy-behaviour-in-wild-west-rental-market/index.html
+layout: layout.njk
 ---
 More cowboy behaviour in Wild West rental market
 ================================================

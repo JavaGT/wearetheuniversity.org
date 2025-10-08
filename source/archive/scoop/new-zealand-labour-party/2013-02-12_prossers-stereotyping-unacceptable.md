@@ -1,9 +1,12 @@
 ---
 slug: prossers-stereotyping-unacceptable
-title: "Prosser’s stereotyping unacceptable"
-date: 2013-02-12
-source-url: https://www.scoop.co.nz/stories/PA1302/S00131/prossers-stereotyping-unacceptable.htm
+title: Prosser’s stereotyping unacceptable
+date: 2013-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00131/prossers-stereotyping-unacceptable.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/12/prossers-stereotyping-unacceptable/index.html
+layout: layout.njk
 ---
 Prosser’s stereotyping unacceptable
 ===================================

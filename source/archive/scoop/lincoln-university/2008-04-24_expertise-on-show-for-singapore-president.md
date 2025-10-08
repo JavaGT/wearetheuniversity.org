@@ -1,9 +1,12 @@
 ---
 slug: expertise-on-show-for-singapore-president
-title: "Expertise on show for Singapore President"
-date: 2008-04-24
-source-url: https://www.scoop.co.nz/stories/ED0804/S00076/expertise-on-show-for-singapore-president.htm
+title: Expertise on show for Singapore President
+date: 2008-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00076/expertise-on-show-for-singapore-president.htm
 author: lincoln-university
+permalink: /archive/2008/04/24/expertise-on-show-for-singapore-president/index.html
+layout: layout.njk
 ---
 Expertise on show for Singapore President
 =========================================

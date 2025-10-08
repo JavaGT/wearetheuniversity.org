@@ -1,9 +1,12 @@
 ---
 slug: teachers-celebrate-axing-of-interest-on-loans
-title: "Teachers Celebrate Axing Of Interest On Loans"
-date: 2006-03-31
-source-url: https://www.scoop.co.nz/stories/ED0603/S00092/teachers-celebrate-axing-of-interest-on-loans.htm
+title: Teachers Celebrate Axing Of Interest On Loans
+date: 2006-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00092/teachers-celebrate-axing-of-interest-on-loans.htm
 author: nzei
+permalink: /archive/2006/03/31/teachers-celebrate-axing-of-interest-on-loans/index.html
+layout: layout.njk
 ---
 Teachers Celebrate Axing Of Interest On Loans
 =============================================

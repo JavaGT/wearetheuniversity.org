@@ -1,9 +1,12 @@
 ---
 slug: leading-philanthropist-honoured
-title: "Leading philanthropist honoured"
-date: 2004-11-17
-source-url: https://www.scoop.co.nz/stories/ED0411/S00059/leading-philanthropist-honoured.htm
+title: Leading philanthropist honoured
+date: 2004-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00059/leading-philanthropist-honoured.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/11/17/leading-philanthropist-honoured/index.html
+layout: layout.njk
 ---
 Leading philanthropist honoured
 ===============================

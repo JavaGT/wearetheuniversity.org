@@ -1,9 +1,13 @@
 ---
 slug: erosion-of-support-for-higher-education-raises-concerns
-title: "Erosion of support for higher education raises concerns"
-date: 2013-01-21
-source-url: https://www.scoop.co.nz/stories/ED1301/S00039/erosion-of-support-for-higher-education-raises-concerns.htm
+title: Erosion of support for higher education raises concerns
+date: 2013-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00039/erosion-of-support-for-higher-education-raises-concerns.htm
 author: ausa
+permalink: >-
+  /archive/2013/01/21/erosion-of-support-for-higher-education-raises-concerns/index.html
+layout: layout.njk
 ---
 Erosion of support for higher education raises concerns
 =======================================================

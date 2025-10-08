@@ -1,9 +1,12 @@
 ---
 slug: new-research-dispels-shopping-myths
-title: "New Research Dispels Shopping Myths"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/ED0503/S00066/new-research-dispels-shopping-myths.htm
+title: New Research Dispels Shopping Myths
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00066/new-research-dispels-shopping-myths.htm
 author: lincoln-university
+permalink: /archive/2005/03/21/new-research-dispels-shopping-myths/index.html
+layout: layout.njk
 ---
 New Research Dispels Shopping Myths
 ===================================

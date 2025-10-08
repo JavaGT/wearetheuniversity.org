@@ -1,9 +1,13 @@
 ---
 slug: study-calls-for-urgent-regulation-of-unhealthy-home-deliveries
-title: "Study Calls For Urgent Regulation Of Unhealthy Home Deliveries"
-date: 2022-04-07
-source-url: https://www.scoop.co.nz/stories/GE2204/S00021/study-calls-for-urgent-regulation-of-unhealthy-home-deliveries.htm
+title: Study Calls For Urgent Regulation Of Unhealthy Home Deliveries
+date: 2022-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2204/S00021/study-calls-for-urgent-regulation-of-unhealthy-home-deliveries.htm
 author: university-of-otago
+permalink: >-
+  /archive/2022/04/07/study-calls-for-urgent-regulation-of-unhealthy-home-deliveries/index.html
+layout: layout.njk
 ---
 Study Calls For Urgent Regulation Of Unhealthy Home Deliveries
 ==============================================================

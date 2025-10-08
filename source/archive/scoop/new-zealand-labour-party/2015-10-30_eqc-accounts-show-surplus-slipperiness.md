@@ -1,9 +1,12 @@
 ---
 slug: eqc-accounts-show-surplus-slipperiness
-title: "EQC accounts show surplus slipperiness"
-date: 2015-10-30
-source-url: https://www.scoop.co.nz/stories/PA1510/S00520/eqc-accounts-show-surplus-slipperiness.htm
+title: EQC accounts show surplus slipperiness
+date: 2015-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00520/eqc-accounts-show-surplus-slipperiness.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/30/eqc-accounts-show-surplus-slipperiness/index.html
+layout: layout.njk
 ---
 EQC accounts show surplus slipperiness
 ======================================

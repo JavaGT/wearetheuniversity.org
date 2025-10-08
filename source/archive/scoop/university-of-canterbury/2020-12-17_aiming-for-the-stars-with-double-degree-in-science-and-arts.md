@@ -1,9 +1,13 @@
 ---
 slug: aiming-for-the-stars-with-double-degree-in-science-and-arts
-title: "Aiming For The Stars With Double Degree In Science And Arts"
-date: 2020-12-17
-source-url: https://www.scoop.co.nz/stories/ED2012/S00039/aiming-for-the-stars-with-double-degree-in-science-and-arts.htm
+title: Aiming For The Stars With Double Degree In Science And Arts
+date: 2020-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00039/aiming-for-the-stars-with-double-degree-in-science-and-arts.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/12/17/aiming-for-the-stars-with-double-degree-in-science-and-arts/index.html
+layout: layout.njk
 ---
 Aiming For The Stars With Double Degree In Science And Arts
 ===========================================================

@@ -1,8 +1,11 @@
 ---
 slug: tackling-the-big-questions
-title: "Tackling the big questions"
-date: 2017-10-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/tackling-the-big-questions.html
+title: Tackling the big questions
+date: 2017-10-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/tackling-the-big-questions.html
+permalink: /archive/2017/10/30/tackling-the-big-questions/index.html
+layout: layout.njk
 ---
 Tackling the big questions
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: thats-not-what-you-promised-trevor
-title: "That’s not what you promised Trevor"
-date: 2008-05-12
-source-url: https://www.scoop.co.nz/stories/PA0805/S00185/thats-not-what-you-promised-trevor.htm
+title: That’s not what you promised Trevor
+date: 2008-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00185/thats-not-what-you-promised-trevor.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/12/thats-not-what-you-promised-trevor/index.html
+layout: layout.njk
 ---
 That’s not what you promised Trevor
 ===================================

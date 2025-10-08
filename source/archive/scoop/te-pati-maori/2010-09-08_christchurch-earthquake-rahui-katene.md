@@ -1,9 +1,12 @@
 ---
 slug: christchurch-earthquake-rahui-katene
-title: "Christchurch Earthquake - Rahui Katene"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/PA1009/S00125/christchurch-earthquake-rahui-katene.htm
+title: Christchurch Earthquake - Rahui Katene
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00125/christchurch-earthquake-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2010/09/08/christchurch-earthquake-rahui-katene/index.html
+layout: layout.njk
 ---
 Christchurch Earthquake - Rahui Katene
 ======================================

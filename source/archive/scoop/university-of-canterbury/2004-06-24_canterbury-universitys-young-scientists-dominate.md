@@ -1,9 +1,13 @@
 ---
 slug: canterbury-universitys-young-scientists-dominate
-title: "Canterbury University's young scientists dominate"
-date: 2004-06-24
-source-url: https://www.scoop.co.nz/stories/ED0406/S00087/canterbury-universitys-young-scientists-dominate.htm
+title: Canterbury University's young scientists dominate
+date: 2004-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00087/canterbury-universitys-young-scientists-dominate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/06/24/canterbury-universitys-young-scientists-dominate/index.html
+layout: layout.njk
 ---
 Canterbury University's young scientists dominate
 =================================================

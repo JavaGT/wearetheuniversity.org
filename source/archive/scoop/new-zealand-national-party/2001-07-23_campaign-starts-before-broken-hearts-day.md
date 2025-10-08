@@ -1,9 +1,12 @@
 ---
 slug: campaign-starts-before-broken-hearts-day
-title: "Campaign Starts Before 'Broken Hearts Day'"
-date: 2001-07-23
-source-url: https://www.scoop.co.nz/stories/PA0107/S00350/campaign-starts-before-broken-hearts-day.htm
+title: Campaign Starts Before 'Broken Hearts Day'
+date: 2001-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00350/campaign-starts-before-broken-hearts-day.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/23/campaign-starts-before-broken-hearts-day/index.html
+layout: layout.njk
 ---
 Campaign Starts Before 'Broken Hearts Day'
 ==========================================

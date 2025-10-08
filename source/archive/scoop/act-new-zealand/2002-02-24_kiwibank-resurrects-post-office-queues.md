@@ -1,9 +1,12 @@
 ---
 slug: kiwibank-resurrects-post-office-queues
-title: "Kiwibank Resurrects Post Office Queues"
-date: 2002-02-24
-source-url: https://www.scoop.co.nz/stories/PA0202/S00353/kiwibank-resurrects-post-office-queues.htm
+title: Kiwibank Resurrects Post Office Queues
+date: 2002-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00353/kiwibank-resurrects-post-office-queues.htm
 author: act-new-zealand
+permalink: /archive/2002/02/24/kiwibank-resurrects-post-office-queues/index.html
+layout: layout.njk
 ---
 Kiwibank Resurrects Post Office Queues
 ======================================

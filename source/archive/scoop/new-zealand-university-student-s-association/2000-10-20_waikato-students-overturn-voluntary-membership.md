@@ -1,9 +1,12 @@
 ---
 slug: waikato-students-overturn-voluntary-membership
-title: "Waikato Students Overturn Voluntary Membership"
-date: 2000-10-20
-source-url: https://www.scoop.co.nz/stories/ED0010/S00031/waikato-students-overturn-voluntary-membership.htm
+title: Waikato Students Overturn Voluntary Membership
+date: 2000-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00031/waikato-students-overturn-voluntary-membership.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/10/20/waikato-students-overturn-voluntary-membership/index.html
+layout: layout.njk
 ---
 Waikato Students Overturn Voluntary Membership
 ==============================================

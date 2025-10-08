@@ -1,9 +1,12 @@
 ---
 slug: reserve-bank-walks-the-post-covid-tightrope
-title: "Reserve Bank Walks The Post-COVID Tightrope"
-date: 2020-06-29
-source-url: https://www.scoop.co.nz/stories/BU2006/S00509/reserve-bank-walks-the-post-covid-tightrope.htm
+title: Reserve Bank Walks The Post-COVID Tightrope
+date: 2020-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2006/S00509/reserve-bank-walks-the-post-covid-tightrope.htm
 author: university-of-canterbury
+permalink: /archive/2020/06/29/reserve-bank-walks-the-post-covid-tightrope/index.html
+layout: layout.njk
 ---
 Reserve Bank Walks The Post-COVID Tightrope
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: nzs-role-in-tax-avoidance-shameful-says-academic
-title: "NZ’s role in tax avoidance ‘shameful’, says academic"
-date: 2016-04-04
-source-url: https://www.scoop.co.nz/stories/PO1604/S00037/nzs-role-in-tax-avoidance-shameful-says-academic.htm
+title: NZ’s role in tax avoidance ‘shameful’, says academic
+date: 2016-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00037/nzs-role-in-tax-avoidance-shameful-says-academic.htm
 author: massey-university
+permalink: >-
+  /archive/2016/04/04/nzs-role-in-tax-avoidance-shameful-says-academic/index.html
+layout: layout.njk
 ---
 NZ’s role in tax avoidance ‘shameful’, says academic
 ====================================================

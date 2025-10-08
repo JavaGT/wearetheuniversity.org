@@ -1,9 +1,12 @@
 ---
 slug: the-cost-of-living-domino-effect
-title: "The Cost Of Living Domino Effect"
-date: 2022-03-14
-source-url: https://www.scoop.co.nz/stories/PA2203/S00103/the-cost-of-living-domino-effect.htm
+title: The Cost Of Living Domino Effect
+date: 2022-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00103/the-cost-of-living-domino-effect.htm
 author: act-new-zealand
+permalink: /archive/2022/03/14/the-cost-of-living-domino-effect/index.html
+layout: layout.njk
 ---
 The Cost Of Living Domino Effect
 ================================

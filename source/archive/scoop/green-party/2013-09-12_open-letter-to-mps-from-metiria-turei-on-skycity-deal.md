@@ -1,9 +1,13 @@
 ---
 slug: open-letter-to-mps-from-metiria-turei-on-skycity-deal
-title: "Open letter to MPs from Metiria Turei on SkyCity deal"
-date: 2013-09-12
-source-url: https://www.scoop.co.nz/stories/PA1309/S00228/open-letter-to-mps-from-metiria-turei-on-skycity-deal.htm
+title: Open letter to MPs from Metiria Turei on SkyCity deal
+date: 2013-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00228/open-letter-to-mps-from-metiria-turei-on-skycity-deal.htm
 author: green-party
+permalink: >-
+  /archive/2013/09/12/open-letter-to-mps-from-metiria-turei-on-skycity-deal/index.html
+layout: layout.njk
 ---
 Open letter to MPs from Metiria Turei on SkyCity deal
 =====================================================

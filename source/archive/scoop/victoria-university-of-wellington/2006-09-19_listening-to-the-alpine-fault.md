@@ -1,9 +1,12 @@
 ---
 slug: listening-to-the-alpine-fault
-title: "Listening to the Alpine Fault"
-date: 2006-09-19
-source-url: https://www.scoop.co.nz/stories/SC0609/S00034/listening-to-the-alpine-fault.htm
+title: Listening to the Alpine Fault
+date: 2006-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0609/S00034/listening-to-the-alpine-fault.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/19/listening-to-the-alpine-fault/index.html
+layout: layout.njk
 ---
 Listening to the Alpine Fault
 =============================

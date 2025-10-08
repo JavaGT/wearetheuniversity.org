@@ -1,9 +1,12 @@
 ---
 slug: celebrating-15-years-of-velocity
-title: "Celebrating 15 years of Velocity"
-date: 2018-12-11
-source-url: https://www.scoop.co.nz/stories/AK1812/S00258/celebrating-15-years-of-velocity.htm
+title: Celebrating 15 years of Velocity
+date: 2018-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1812/S00258/celebrating-15-years-of-velocity.htm
 author: victoria-university-of-wellington
+permalink: /archive/2018/12/11/celebrating-15-years-of-velocity/index.html
+layout: layout.njk
 ---
 Celebrating 15 years of Velocity
 ================================

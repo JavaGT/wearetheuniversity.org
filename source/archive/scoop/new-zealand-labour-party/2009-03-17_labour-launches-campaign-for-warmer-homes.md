@@ -1,9 +1,12 @@
 ---
 slug: labour-launches-campaign-for-warmer-homes
-title: "Labour launches campaign for warmer homes"
-date: 2009-03-17
-source-url: https://www.scoop.co.nz/stories/PA0903/S00254/labour-launches-campaign-for-warmer-homes.htm
+title: Labour launches campaign for warmer homes
+date: 2009-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00254/labour-launches-campaign-for-warmer-homes.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/17/labour-launches-campaign-for-warmer-homes/index.html
+layout: layout.njk
 ---
 Labour launches campaign for warmer homes
 =========================================

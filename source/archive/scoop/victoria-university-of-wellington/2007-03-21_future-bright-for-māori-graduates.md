@@ -1,9 +1,12 @@
 ---
 slug: future-bright-for-māori-graduates
-title: "Future bright for Māori graduates"
-date: 2007-03-21
-source-url: https://www.scoop.co.nz/stories/ED0703/S00074/future-bright-for-maori-graduates.htm
+title: Future bright for Māori graduates
+date: 2007-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00074/future-bright-for-maori-graduates.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/03/21/future-bright-for-m/index.html
+layout: layout.njk
 ---
 Future bright for Māori graduates
 =================================

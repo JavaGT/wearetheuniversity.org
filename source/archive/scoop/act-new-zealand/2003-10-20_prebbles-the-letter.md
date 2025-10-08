@@ -1,9 +1,11 @@
 ---
 slug: prebbles-the-letter
-title: "Prebble’s The Letter"
-date: 2003-10-20
+title: Prebble’s The Letter
+date: 2003-10-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00458/prebbles-the-letter.htm
 author: act-new-zealand
+permalink: /archive/2003/10/20/prebbles-the-letter/index.html
+layout: layout.njk
 ---
 Prebble’s The Letter
 ====================

@@ -1,9 +1,11 @@
 ---
 slug: nzusa-gets-it-wrong…-again
-title: "NZUSA gets it wrong… again"
-date: 2005-03-09
+title: NZUSA gets it wrong… again
+date: 2005-03-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0503/S00024/nzusa-gets-it-wrong-again.htm
 author: act-new-zealand
+permalink: /archive/2005/03/09/nzusa-gets-it-wrong/index.html
+layout: layout.njk
 ---
 NZUSA gets it wrong… again
 ==========================

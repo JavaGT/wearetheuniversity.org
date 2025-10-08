@@ -1,9 +1,12 @@
 ---
 slug: urgent-need-for-more-food-support
-title: "Urgent Need For More Food Support"
-date: 2022-09-13
-source-url: https://www.scoop.co.nz/stories/PA2209/S00067/urgent-need-for-more-food-support.htm
+title: Urgent Need For More Food Support
+date: 2022-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00067/urgent-need-for-more-food-support.htm
 author: green-party
+permalink: /archive/2022/09/13/urgent-need-for-more-food-support/index.html
+layout: layout.njk
 ---
 Urgent Need For More Food Support
 =================================

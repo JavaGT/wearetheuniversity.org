@@ -1,9 +1,13 @@
 ---
 slug: uc-mathematics-expert-appointed-distinguished-professor
-title: "UC Mathematics expert appointed distinguished professor"
-date: 2014-11-30
-source-url: https://www.scoop.co.nz/stories/ED1411/S00188/uc-mathematics-expert-appointed-distinguished-professor.htm
+title: UC Mathematics expert appointed distinguished professor
+date: 2014-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00188/uc-mathematics-expert-appointed-distinguished-professor.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/30/uc-mathematics-expert-appointed-distinguished-professor/index.html
+layout: layout.njk
 ---
 UC Mathematics expert appointed distinguished professor
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: tertiary-students-voice-ideas-on-constitutional-change
-title: "Tertiary Students Voice Ideas On Constitutional Change"
-date: 2013-03-08
-source-url: https://www.scoop.co.nz/stories/ED1303/S00054/tertiary-students-voice-ideas-on-constitutional-change.htm
+title: Tertiary Students Voice Ideas On Constitutional Change
+date: 2013-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00054/tertiary-students-voice-ideas-on-constitutional-change.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/03/08/tertiary-students-voice-ideas-on-constitutional-change/index.html
+layout: layout.njk
 ---
 Tertiary Students Voice Ideas On Constitutional Change
 ======================================================

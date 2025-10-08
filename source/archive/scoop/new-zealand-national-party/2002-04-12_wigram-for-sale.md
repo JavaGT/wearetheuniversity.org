@@ -1,9 +1,11 @@
 ---
 slug: wigram-for-sale
-title: "'Wigram For Sale'"
-date: 2002-04-12
+title: '''Wigram For Sale'''
+date: 2002-04-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0204/S00168/wigram-for-sale.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/12/wigram-for-sale/index.html
+layout: layout.njk
 ---
 'Wigram For Sale'
 =================

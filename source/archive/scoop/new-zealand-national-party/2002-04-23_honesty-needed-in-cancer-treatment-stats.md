@@ -1,9 +1,12 @@
 ---
 slug: honesty-needed-in-cancer-treatment-stats
-title: "Honesty Needed In Cancer Treatment Stats"
-date: 2002-04-23
-source-url: https://www.scoop.co.nz/stories/PA0204/S00346/honesty-needed-in-cancer-treatment-stats.htm
+title: Honesty Needed In Cancer Treatment Stats
+date: 2002-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00346/honesty-needed-in-cancer-treatment-stats.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/23/honesty-needed-in-cancer-treatment-stats/index.html
+layout: layout.njk
 ---
 Honesty Needed In Cancer Treatment Stats
 ========================================

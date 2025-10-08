@@ -1,9 +1,11 @@
 ---
 slug: act-to-get-young-vote-out
-title: "ACT to get young vote out"
-date: 2017-05-04
+title: ACT to get young vote out
+date: 2017-05-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1705/S00083/act-to-get-young-vote-out.htm
 author: act-new-zealand
+permalink: /archive/2017/05/04/act-to-get-young-vote-out/index.html
+layout: layout.njk
 ---
 ACT to get young vote out
 =========================

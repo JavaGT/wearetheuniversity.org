@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-team-wins-prime-ministers-science-prize
-title: "Victoria University team wins Prime Minister’s Science Prize"
-date: 2010-11-26
-source-url: https://www.scoop.co.nz/stories/ED1011/S00112/victoria-university-team-wins-prime-ministers-science-prize.htm
+title: Victoria University team wins Prime Minister’s Science Prize
+date: 2010-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00112/victoria-university-team-wins-prime-ministers-science-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/11/26/victoria-university-team-wins-prime-ministers-science-prize/index.html
+layout: layout.njk
 ---
 Victoria University team wins Prime Minister’s Science Prize
 ============================================================

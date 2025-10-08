@@ -1,9 +1,13 @@
 ---
 slug: engineering-students-mix-creativity-and-complexity
-title: "Engineering students mix creativity and complexity"
-date: 2009-11-10
-source-url: https://www.scoop.co.nz/stories/ED0911/S00040/engineering-students-mix-creativity-and-complexity.htm
+title: Engineering students mix creativity and complexity
+date: 2009-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00040/engineering-students-mix-creativity-and-complexity.htm
 author: massey-university
+permalink: >-
+  /archive/2009/11/10/engineering-students-mix-creativity-and-complexity/index.html
+layout: layout.njk
 ---
 Engineering students mix creativity and complexity
 ==================================================

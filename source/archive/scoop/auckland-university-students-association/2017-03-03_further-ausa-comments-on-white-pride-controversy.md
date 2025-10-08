@@ -1,9 +1,13 @@
 ---
 slug: further-ausa-comments-on-white-pride-controversy
-title: "Further AUSA comments on ‘white pride’ controversy"
-date: 2017-03-03
-source-url: https://www.scoop.co.nz/stories/ED1703/S00019/further-ausa-comments-on-white-pride-controversy.htm
+title: Further AUSA comments on ‘white pride’ controversy
+date: 2017-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00019/further-ausa-comments-on-white-pride-controversy.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2017/03/03/further-ausa-comments-on-white-pride-controversy/index.html
+layout: layout.njk
 ---
 Further AUSA comments on ‘white pride’ controversy
 ==================================================

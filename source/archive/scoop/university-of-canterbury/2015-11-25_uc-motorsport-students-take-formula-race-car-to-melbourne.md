@@ -1,9 +1,13 @@
 ---
 slug: uc-motorsport-students-take-formula-race-car-to-melbourne
-title: "UC Motorsport students take Formula race car to Melbourne"
-date: 2015-11-25
-source-url: https://www.scoop.co.nz/stories/CU1511/S00370/uc-motorsport-students-take-formula-race-car-to-melbourne.htm
+title: UC Motorsport students take Formula race car to Melbourne
+date: 2015-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1511/S00370/uc-motorsport-students-take-formula-race-car-to-melbourne.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/11/25/uc-motorsport-students-take-formula-race-car-to-melbourne/index.html
+layout: layout.njk
 ---
 UC Motorsport students take Formula race car to Melbourne
 =========================================================

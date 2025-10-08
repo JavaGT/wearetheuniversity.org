@@ -1,9 +1,12 @@
 ---
 slug: family-tax-relief-q-and-a-scenarios
-title: "Family Tax Relief: Q and A, Scenarios"
-date: 2005-08-18
-source-url: https://www.scoop.co.nz/stories/PA0508/S00477/family-tax-relief-q-and-a-scenarios.htm
+title: 'Family Tax Relief: Q and A, Scenarios'
+date: 2005-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00477/family-tax-relief-q-and-a-scenarios.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/18/family-tax-relief-q-and-a-scenarios/index.html
+layout: layout.njk
 ---
 Family Tax Relief: Q and A, Scenarios
 =====================================

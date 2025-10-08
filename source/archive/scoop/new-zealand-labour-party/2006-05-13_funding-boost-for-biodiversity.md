@@ -1,9 +1,12 @@
 ---
 slug: funding-boost-for-biodiversity
-title: "Funding boost for biodiversity"
-date: 2006-05-13
-source-url: https://www.scoop.co.nz/stories/PA0605/S00308/funding-boost-for-biodiversity.htm
+title: Funding boost for biodiversity
+date: 2006-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00308/funding-boost-for-biodiversity.htm
 author: new-zealand-labour-party
+permalink: /archive/2006/05/13/funding-boost-for-biodiversity/index.html
+layout: layout.njk
 ---
 Funding boost for biodiversity
 ==============================

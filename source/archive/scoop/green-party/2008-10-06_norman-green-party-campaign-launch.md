@@ -1,9 +1,12 @@
 ---
 slug: norman-green-party-campaign-launch
-title: "Norman: Green Party Campaign Launch"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/PA0810/S00103/norman-green-party-campaign-launch.htm
+title: 'Norman: Green Party Campaign Launch'
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00103/norman-green-party-campaign-launch.htm
 author: green-party
+permalink: /archive/2008/10/06/norman-green-party-campaign-launch/index.html
+layout: layout.njk
 ---
 Norman: Green Party Campaign Launch
 ===================================

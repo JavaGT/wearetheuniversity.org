@@ -1,9 +1,13 @@
 ---
 slug: govt-must-ensure-extra-uni-funding-reaches-staff
-title: "Govt must ensure extra Uni funding reaches staff"
-date: 2005-07-20
-source-url: https://www.scoop.co.nz/stories/PA0507/S00437/govt-must-ensure-extra-uni-funding-reaches-staff.htm
+title: Govt must ensure extra Uni funding reaches staff
+date: 2005-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00437/govt-must-ensure-extra-uni-funding-reaches-staff.htm
 author: green-party
+permalink: >-
+  /archive/2005/07/20/govt-must-ensure-extra-uni-funding-reaches-staff/index.html
+layout: layout.njk
 ---
 Govt must ensure extra Uni funding reaches staff
 ================================================

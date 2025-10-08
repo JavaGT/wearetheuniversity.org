@@ -1,9 +1,13 @@
 ---
 slug: renewal-and-resilience-uc-earthquake-research-forum
-title: "Renewal and Resilience – UC Earthquake Research Forum"
-date: 2012-05-31
-source-url: https://www.scoop.co.nz/stories/ED1205/S00171/renewal-and-resilience-uc-earthquake-research-forum.htm
+title: Renewal and Resilience – UC Earthquake Research Forum
+date: 2012-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00171/renewal-and-resilience-uc-earthquake-research-forum.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/05/31/renewal-and-resilience-uc-earthquake-research-forum/index.html
+layout: layout.njk
 ---
 Renewal and Resilience – UC Earthquake Research Forum
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: the-way-reading-is-taught-in-new-zealand-must-change-nz-initiative-report
-title: "The Way Reading Is Taught In New Zealand Must Change - NZ Initiative Report"
-date: 2021-11-26
-source-url: https://www.scoop.co.nz/stories/ED2111/S00054/the-way-reading-is-taught-in-new-zealand-must-change-nz-initiative-report.htm
+title: The Way Reading Is Taught In New Zealand Must Change - NZ Initiative Report
+date: 2021-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2111/S00054/the-way-reading-is-taught-in-new-zealand-must-change-nz-initiative-report.htm
 author: new-zealand-initiative
+permalink: >-
+  /archive/2021/11/26/the-way-reading-is-taught-in-new-zealand-must-change-nz-initiative-report/index.html
+layout: layout.njk
 ---
 The Way Reading Is Taught In New Zealand Must Change - NZ Initiative Report
 ===========================================================================

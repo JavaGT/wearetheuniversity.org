@@ -1,9 +1,11 @@
 ---
 slug: world-changing-kids
-title: "World changing kids"
-date: 2006-08-07
+title: World changing kids
+date: 2006-08-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0608/S00021/world-changing-kids.htm
 author: waikato-university
+permalink: /archive/2006/08/07/world-changing-kids/index.html
+layout: layout.njk
 ---
 World changing kids
 ===================

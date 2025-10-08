@@ -1,9 +1,12 @@
 ---
 slug: rural-nz-rejecting-more-regulation-from-labour
-title: "Rural NZ rejecting more regulation from Labour"
-date: 2021-09-08
-source-url: https://www.scoop.co.nz/stories/PA2109/S00064/rural-nz-rejecting-more-regulation-from-labour.htm
+title: Rural NZ rejecting more regulation from Labour
+date: 2021-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00064/rural-nz-rejecting-more-regulation-from-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/08/rural-nz-rejecting-more-regulation-from-labour/index.html
+layout: layout.njk
 ---
 Rural NZ rejecting more regulation from Labour
 ==============================================

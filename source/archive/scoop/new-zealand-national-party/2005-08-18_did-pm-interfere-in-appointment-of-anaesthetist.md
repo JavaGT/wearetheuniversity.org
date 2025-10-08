@@ -1,9 +1,12 @@
 ---
 slug: did-pm-interfere-in-appointment-of-anaesthetist
-title: "Did PM interfere in appointment of anaesthetist?"
-date: 2005-08-18
-source-url: https://www.scoop.co.nz/stories/PA0508/S00489/did-pm-interfere-in-appointment-of-anaesthetist.htm
+title: Did PM interfere in appointment of anaesthetist?
+date: 2005-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00489/did-pm-interfere-in-appointment-of-anaesthetist.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/18/did-pm-interfere-in-appointment-of-anaesthetist/index.html
+layout: layout.njk
 ---
 Did PM interfere in appointment of anaesthetist?
 ================================================

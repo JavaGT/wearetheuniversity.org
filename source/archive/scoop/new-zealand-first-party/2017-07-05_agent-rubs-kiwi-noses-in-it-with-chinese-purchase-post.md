@@ -1,9 +1,13 @@
 ---
 slug: agent-rubs-kiwi-noses-in-it-with-chinese-purchase-post
-title: "Agent Rubs Kiwi Noses in It with Chinese Purchase Post"
-date: 2017-07-05
-source-url: https://www.scoop.co.nz/stories/PA1707/S00073/agent-rubs-kiwi-noses-in-it-with-chinese-purchase-post.htm
+title: Agent Rubs Kiwi Noses in It with Chinese Purchase Post
+date: 2017-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00073/agent-rubs-kiwi-noses-in-it-with-chinese-purchase-post.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/07/05/agent-rubs-kiwi-noses-in-it-with-chinese-purchase-post/index.html
+layout: layout.njk
 ---
 Agent Rubs Kiwi Noses in It with Chinese Purchase Post
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: smart-otago-science-supported-in-research-investment-round
-title: "‘Smart’ Otago science supported in research investment round"
-date: 2013-08-28
-source-url: https://www.scoop.co.nz/stories/ED1308/S00150/smart-otago-science-supported-in-research-investment-round.htm
+title: ‘Smart’ Otago science supported in research investment round
+date: 2013-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00150/smart-otago-science-supported-in-research-investment-round.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/08/28/smart-otago-science-supported-in-research-investment-round/index.html
+layout: layout.njk
 ---
 ‘Smart’ Otago science supported in research investment round
 ============================================================

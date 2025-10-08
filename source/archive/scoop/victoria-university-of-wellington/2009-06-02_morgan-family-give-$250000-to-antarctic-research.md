@@ -1,9 +1,12 @@
 ---
 slug: morgan-family-give-$250000-to-antarctic-research
-title: "Morgan family give $250,000 to Antarctic Research"
-date: 2009-06-02
-source-url: https://www.scoop.co.nz/stories/SC0906/S00001/morgan-family-give-250000-to-antarctic-research.htm
+title: Morgan family give $250,000 to Antarctic Research
+date: 2009-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0906/S00001/morgan-family-give-250000-to-antarctic-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/06/02/morgan-family-give-/index.html
+layout: layout.njk
 ---
 Morgan family give $250,000 to Antarctic Research
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: a-class-analysis-of-the-trump-biden-rerun
-title: "A Class Analysis Of The Trump-Biden Rerun"
-date: 2024-04-12
-source-url: https://www.scoop.co.nz/stories/WO2404/S00072/a-class-analysis-of-the-trump-biden-rerun.htm
+title: A Class Analysis Of The Trump-Biden Rerun
+date: 2024-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2404/S00072/a-class-analysis-of-the-trump-biden-rerun.htm
 author: independent-media-institute
+permalink: /archive/2024/04/12/a-class-analysis-of-the-trump-biden-rerun/index.html
+layout: layout.njk
 ---
 A Class Analysis Of The Trump-Biden Rerun
 =========================================

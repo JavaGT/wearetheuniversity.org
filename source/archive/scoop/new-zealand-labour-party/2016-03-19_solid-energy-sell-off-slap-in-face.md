@@ -1,9 +1,12 @@
 ---
 slug: solid-energy-sell-off-slap-in-face
-title: "Solid Energy sell-off slap in face"
-date: 2016-03-19
-source-url: https://www.scoop.co.nz/stories/PO1603/S00311/solid-energy-sell-off-slap-in-face.htm
+title: Solid Energy sell-off slap in face
+date: 2016-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00311/solid-energy-sell-off-slap-in-face.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/19/solid-energy-sell-off-slap-in-face/index.html
+layout: layout.njk
 ---
 Solid Energy sell-off slap in face
 ==================================

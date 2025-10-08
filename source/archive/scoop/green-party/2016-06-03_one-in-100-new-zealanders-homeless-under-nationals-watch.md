@@ -1,9 +1,13 @@
 ---
 slug: one-in-100-new-zealanders-homeless-under-nationals-watch
-title: "One in 100 New Zealanders homeless under National’s watch"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/PA1606/S00075/one-in-100-new-zealanders-homeless-under-nationals-watch.htm
+title: One in 100 New Zealanders homeless under National’s watch
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00075/one-in-100-new-zealanders-homeless-under-nationals-watch.htm
 author: green-party
+permalink: >-
+  /archive/2016/06/03/one-in-100-new-zealanders-homeless-under-nationals-watch/index.html
+layout: layout.njk
 ---
 One in 100 New Zealanders homeless under National’s watch
 =========================================================

@@ -1,8 +1,11 @@
 ---
 slug: $24000-in-prizes-for-innovative-solutions
-title: "$24,000 in prizes for innovative solutions"
-date: 2017-09-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/24000-prizes-for-innovative-solutions.html
+title: $24,000 in prizes for innovative solutions
+date: 2017-09-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/24000-prizes-for-innovative-solutions.html
+permalink: /archive/2017/09/17/24-000-in-prizes-for-innovative-solutions/index.html
+layout: layout.njk
 ---
 $24,000 in prizes for innovative solutions
 ==========================================

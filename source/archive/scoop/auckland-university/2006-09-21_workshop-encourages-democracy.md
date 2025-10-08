@@ -1,9 +1,12 @@
 ---
 slug: workshop-encourages-democracy
-title: "Workshop encourages democracy"
-date: 2006-09-21
-source-url: https://www.scoop.co.nz/stories/ED0609/S00085/workshop-encourages-democracy.htm
+title: Workshop encourages democracy
+date: 2006-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00085/workshop-encourages-democracy.htm
 author: auckland-university
+permalink: /archive/2006/09/21/workshop-encourages-democracy/index.html
+layout: layout.njk
 ---
 Workshop encourages democracy
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-346-private-education
-title: "Real Issues No. 346 - Private education"
-date: 2009-07-31
-source-url: https://www.scoop.co.nz/stories/PO0907/S00364/real-issues-no-346-private-education.htm
+title: Real Issues No. 346 - Private education
+date: 2009-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0907/S00364/real-issues-no-346-private-education.htm
 author: maxim-institute
+permalink: /archive/2009/07/31/real-issues-no-346-private-education/index.html
+layout: layout.njk
 ---
 Real Issues No. 346 - Private education
 =======================================

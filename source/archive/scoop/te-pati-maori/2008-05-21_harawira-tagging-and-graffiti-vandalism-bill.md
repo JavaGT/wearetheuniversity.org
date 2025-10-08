@@ -1,9 +1,12 @@
 ---
 slug: harawira-tagging-and-graffiti-vandalism-bill
-title: "Harawira: Tagging and Graffiti Vandalism Bill"
-date: 2008-05-21
-source-url: https://www.scoop.co.nz/stories/PA0805/S00360/harawira-tagging-and-graffiti-vandalism-bill.htm
+title: 'Harawira: Tagging and Graffiti Vandalism Bill'
+date: 2008-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00360/harawira-tagging-and-graffiti-vandalism-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/05/21/harawira-tagging-and-graffiti-vandalism-bill/index.html
+layout: layout.njk
 ---
 Harawira: Tagging and Graffiti Vandalism Bill
 =============================================

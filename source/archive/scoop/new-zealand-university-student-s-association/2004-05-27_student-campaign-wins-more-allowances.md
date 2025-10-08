@@ -1,9 +1,12 @@
 ---
 slug: student-campaign-wins-more-allowances
-title: "Student campaign wins more allowances"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/ED0405/S00102/student-campaign-wins-more-allowances.htm
+title: Student campaign wins more allowances
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00102/student-campaign-wins-more-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/05/27/student-campaign-wins-more-allowances/index.html
+layout: layout.njk
 ---
 Student campaign wins more allowances
 =====================================

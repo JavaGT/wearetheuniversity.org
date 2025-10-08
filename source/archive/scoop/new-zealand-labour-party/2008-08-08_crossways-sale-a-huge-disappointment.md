@@ -1,9 +1,12 @@
 ---
 slug: crossways-sale-a-huge-disappointment
-title: "Crossways Sale A Huge Disappointment"
-date: 2008-08-08
-source-url: https://www.scoop.co.nz/stories/PO0808/S00114/crossways-sale-a-huge-disappointment.htm
+title: Crossways Sale A Huge Disappointment
+date: 2008-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00114/crossways-sale-a-huge-disappointment.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/08/08/crossways-sale-a-huge-disappointment/index.html
+layout: layout.njk
 ---
 Crossways Sale A Huge Disappointment
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: study-finds-problems-with-incorrect-ethnicity
-title: "Study finds problems with incorrect ethnicity"
-date: 2010-06-15
-source-url: https://www.scoop.co.nz/stories/GE1006/S00062/study-finds-problems-with-incorrect-ethnicity.htm
+title: Study finds problems with incorrect ethnicity
+date: 2010-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1006/S00062/study-finds-problems-with-incorrect-ethnicity.htm
 author: university-of-otago
+permalink: /archive/2010/06/15/study-finds-problems-with-incorrect-ethnicity/index.html
+layout: layout.njk
 ---
 Study finds problems with incorrect ethnicity
 =============================================

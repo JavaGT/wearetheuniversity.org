@@ -1,9 +1,13 @@
 ---
 slug: labour-selects-afnan-al-rubayee-as-lambton-ward-candidate
-title: "Labour Selects Afnan Al-Rubayee As Lambton Ward Candidate"
-date: 2022-04-04
-source-url: https://www.scoop.co.nz/stories/PO2204/S00012/labour-selects-afnan-al-rubayee-as-lambton-ward-candidate.htm
+title: Labour Selects Afnan Al-Rubayee As Lambton Ward Candidate
+date: 2022-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2204/S00012/labour-selects-afnan-al-rubayee-as-lambton-ward-candidate.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2022/04/04/labour-selects-afnan-al-rubayee-as-lambton-ward-candidate/index.html
+layout: layout.njk
 ---
 Labour Selects Afnan Al-Rubayee As Lambton Ward Candidate
 =========================================================

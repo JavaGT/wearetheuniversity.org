@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-experts-on-tourism-and-water
-title: "Lincoln University experts on tourism and water"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/PO1303/S00271/lincoln-university-experts-on-tourism-and-water.htm
+title: Lincoln University experts on tourism and water
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00271/lincoln-university-experts-on-tourism-and-water.htm
 author: lincoln-university
+permalink: /archive/2013/03/22/lincoln-university-experts-on-tourism-and-water/index.html
+layout: layout.njk
 ---
 Lincoln University experts on tourism and water
 ===============================================

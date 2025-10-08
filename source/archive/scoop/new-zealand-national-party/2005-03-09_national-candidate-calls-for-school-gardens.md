@@ -1,9 +1,12 @@
 ---
 slug: national-candidate-calls-for-school-gardens
-title: "National Candidate calls for 'School Gardens'"
-date: 2005-03-09
-source-url: https://www.scoop.co.nz/stories/PO0503/S00080/national-candidate-calls-for-school-gardens.htm
+title: National Candidate calls for 'School Gardens'
+date: 2005-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0503/S00080/national-candidate-calls-for-school-gardens.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/09/national-candidate-calls-for-school-gardens/index.html
+layout: layout.njk
 ---
 National Candidate calls for 'School Gardens'
 =============================================

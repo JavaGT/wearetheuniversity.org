@@ -1,9 +1,12 @@
 ---
 slug: union-leader-warns-of-more-industrial-action
-title: "Union Leader Warns of More Industrial Action"
-date: 2005-04-08
-source-url: https://www.scoop.co.nz/stories/PO0504/S00115/union-leader-warns-of-more-industrial-action.htm
+title: Union Leader Warns of More Industrial Action
+date: 2005-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00115/union-leader-warns-of-more-industrial-action.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/04/08/union-leader-warns-of-more-industrial-action/index.html
+layout: layout.njk
 ---
 Union Leader Warns of More Industrial Action
 ============================================

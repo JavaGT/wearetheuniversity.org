@@ -1,9 +1,13 @@
 ---
 slug: astronomers-from-uc-to-study-the-universe-through-alma
-title: "Astronomers from UC to study the universe through ALMA"
-date: 2013-01-17
-source-url: https://www.scoop.co.nz/stories/SC1301/S00027/astronomers-from-uc-to-study-the-universe-through-alma.htm
+title: Astronomers from UC to study the universe through ALMA
+date: 2013-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1301/S00027/astronomers-from-uc-to-study-the-universe-through-alma.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/17/astronomers-from-uc-to-study-the-universe-through-alma/index.html
+layout: layout.njk
 ---
 Astronomers from UC to study the universe through ALMA
 ======================================================

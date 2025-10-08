@@ -1,9 +1,13 @@
 ---
 slug: role-of-cancer-bubbles-in-deadly-clotting-uncovered
-title: "Role of \"cancer bubbles\" in deadly clotting uncovered"
-date: 2016-11-30
-source-url: https://www.scoop.co.nz/stories/GE1611/S00159/role-of-cancer-bubbles-in-deadly-clotting-uncovered.htm
+title: Role of "cancer bubbles" in deadly clotting uncovered
+date: 2016-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1611/S00159/role-of-cancer-bubbles-in-deadly-clotting-uncovered.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/11/30/role-of-cancer-bubbles-in-deadly-clotting-uncovered/index.html
+layout: layout.njk
 ---
 Role of “cancer bubbles” in deadly clotting uncovered
 =====================================================

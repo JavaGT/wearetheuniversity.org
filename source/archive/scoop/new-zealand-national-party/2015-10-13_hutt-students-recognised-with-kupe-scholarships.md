@@ -1,9 +1,12 @@
 ---
 slug: hutt-students-recognised-with-kupe-scholarships
-title: "Hutt students recognised with Kupe scholarships"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/PA1510/S00193/hutt-students-recognised-with-kupe-scholarships.htm
+title: Hutt students recognised with Kupe scholarships
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00193/hutt-students-recognised-with-kupe-scholarships.htm
 author: new-zealand-national-party
+permalink: /archive/2015/10/13/hutt-students-recognised-with-kupe-scholarships/index.html
+layout: layout.njk
 ---
 Hutt students recognised with Kupe scholarships
 ===============================================

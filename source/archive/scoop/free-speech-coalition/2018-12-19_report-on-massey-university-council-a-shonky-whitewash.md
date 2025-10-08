@@ -1,9 +1,13 @@
 ---
 slug: report-on-massey-university-council-a-shonky-whitewash
-title: "Report on Massey University Council a \"shonky whitewash\""
-date: 2018-12-19
-source-url: https://www.scoop.co.nz/stories/PO1812/S00253/report-on-massey-university-council-a-shonky-whitewash.htm
+title: Report on Massey University Council a "shonky whitewash"
+date: 2018-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1812/S00253/report-on-massey-university-council-a-shonky-whitewash.htm
 author: free-speech-coalition
+permalink: >-
+  /archive/2018/12/19/report-on-massey-university-council-a-shonky-whitewash/index.html
+layout: layout.njk
 ---
 Report on Massey University Council a “shonky whitewash”
 ========================================================

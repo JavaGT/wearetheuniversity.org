@@ -1,9 +1,12 @@
 ---
 slug: minister-canes-school-principals-donnelly
-title: "Minister Canes School Principals - Donnelly"
-date: 2001-12-10
-source-url: https://www.scoop.co.nz/stories/PA0112/S00167/minister-canes-school-principals-donnelly.htm
+title: Minister Canes School Principals - Donnelly
+date: 2001-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00167/minister-canes-school-principals-donnelly.htm
 author: new-zealand-first-party
+permalink: /archive/2001/12/10/minister-canes-school-principals-donnelly/index.html
+layout: layout.njk
 ---
 Minister Canes School Principals - Donnelly
 ===========================================

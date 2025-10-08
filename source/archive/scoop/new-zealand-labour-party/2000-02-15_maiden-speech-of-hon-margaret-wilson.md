@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-of-hon-margaret-wilson
-title: "Maiden Speech Of Hon Margaret Wilson"
-date: 2000-02-15
-source-url: https://www.scoop.co.nz/stories/PA0002/S00186/maiden-speech-of-hon-margaret-wilson.htm
+title: Maiden Speech Of Hon Margaret Wilson
+date: 2000-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00186/maiden-speech-of-hon-margaret-wilson.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/02/15/maiden-speech-of-hon-margaret-wilson/index.html
+layout: layout.njk
 ---
 Maiden Speech Of Hon Margaret Wilson
 ====================================

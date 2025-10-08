@@ -1,9 +1,12 @@
 ---
 slug: nga-manu-korero-exceptional-standard-of-debate
-title: "Nga Manu Korero \"Exceptional Standard of Debate\""
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/PA0609/S00333/nga-manu-korero-exceptional-standard-of-debate.htm
+title: Nga Manu Korero "Exceptional Standard of Debate"
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00333/nga-manu-korero-exceptional-standard-of-debate.htm
 author: te-pati-maori
+permalink: /archive/2006/09/14/nga-manu-korero-exceptional-standard-of-debate/index.html
+layout: layout.njk
 ---
 Nga Manu Korero \"Exceptional Standard of Debate"
 ================================================

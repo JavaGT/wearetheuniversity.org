@@ -1,9 +1,11 @@
 ---
 slug: the-letter-monday-3-may-2004
-title: "The Letter Monday 3 May 2004"
-date: 2004-05-03
+title: The Letter Monday 3 May 2004
+date: 2004-05-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00019/the-letter-monday-3-may-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/05/03/the-letter-monday-3-may-2004/index.html
+layout: layout.njk
 ---
 The Letter Monday 3 May 2004
 ============================

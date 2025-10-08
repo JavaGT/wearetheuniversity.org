@@ -1,9 +1,13 @@
 ---
 slug: disability-studies-conference-a-first-for-new-zealand
-title: "Disability Studies conference a first for New Zealand"
-date: 2011-10-31
-source-url: https://www.scoop.co.nz/stories/ED1110/S00141/disability-studies-conference-a-first-for-new-zealand.htm
+title: Disability Studies conference a first for New Zealand
+date: 2011-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00141/disability-studies-conference-a-first-for-new-zealand.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/10/31/disability-studies-conference-a-first-for-new-zealand/index.html
+layout: layout.njk
 ---
 Disability Studies conference a first for New Zealand
 =====================================================

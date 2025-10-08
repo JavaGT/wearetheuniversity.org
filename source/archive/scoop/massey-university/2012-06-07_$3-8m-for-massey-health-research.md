@@ -1,9 +1,12 @@
 ---
 slug: $3-8m-for-massey-health-research
-title: "$3.8m for Massey health research"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/SC1206/S00018/38m-for-massey-health-research.htm
+title: $3.8m for Massey health research
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1206/S00018/38m-for-massey-health-research.htm
 author: massey-university
+permalink: /archive/2012/06/07/3-8m-for-massey-health-research/index.html
+layout: layout.njk
 ---
 $3.8m for Massey health research
 ================================

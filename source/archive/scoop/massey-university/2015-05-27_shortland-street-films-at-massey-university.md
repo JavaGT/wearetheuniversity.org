@@ -1,9 +1,12 @@
 ---
 slug: shortland-street-films-at-massey-university
-title: "Shortland Street films at Massey University"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/CU1505/S00502/shortland-street-films-at-massey-university.htm
+title: Shortland Street films at Massey University
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00502/shortland-street-films-at-massey-university.htm
 author: massey-university
+permalink: /archive/2015/05/27/shortland-street-films-at-massey-university/index.html
+layout: layout.njk
 ---
 Shortland Street films at Massey University
 ===========================================

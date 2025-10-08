@@ -1,9 +1,12 @@
 ---
 slug: irish-learn-from-kiwi-dairy-dilemmas
-title: "Irish learn from Kiwi dairy dilemmas"
-date: 2015-12-08
-source-url: https://www.scoop.co.nz/stories/BU1512/S00295/irish-learn-from-kiwi-dairy-dilemmas.htm
+title: Irish learn from Kiwi dairy dilemmas
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1512/S00295/irish-learn-from-kiwi-dairy-dilemmas.htm
 author: lincoln-university
+permalink: /archive/2015/12/08/irish-learn-from-kiwi-dairy-dilemmas/index.html
+layout: layout.njk
 ---
 Irish learn from Kiwi dairy dilemmas
 ====================================

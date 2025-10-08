@@ -1,9 +1,12 @@
 ---
 slug: they-key-to-happy-employees-hybrid-working
-title: "They Key To Happy Employees? Hybrid Working"
-date: 2022-02-21
-source-url: https://www.scoop.co.nz/stories/BU2202/S00420/they-key-to-happy-employees-hybrid-working.htm
+title: They Key To Happy Employees? Hybrid Working
+date: 2022-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2202/S00420/they-key-to-happy-employees-hybrid-working.htm
 author: aut-university
+permalink: /archive/2022/02/21/they-key-to-happy-employees-hybrid-working/index.html
+layout: layout.njk
 ---
 They Key To Happy Employees? Hybrid Working
 ===========================================

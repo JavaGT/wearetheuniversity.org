@@ -1,9 +1,12 @@
 ---
 slug: look-for-savage-father-of-all-budgets-in-2010
-title: "Look for savage ‘father of all budgets’ in 2010"
-date: 2009-11-26
-source-url: https://www.scoop.co.nz/stories/PA0911/S00410/look-for-savage-father-of-all-budgets-in-2010.htm
+title: Look for savage ‘father of all budgets’ in 2010
+date: 2009-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00410/look-for-savage-father-of-all-budgets-in-2010.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/26/look-for-savage-father-of-all-budgets-in-2010/index.html
+layout: layout.njk
 ---
 Look for savage ‘father of all budgets’ in 2010
 ===============================================

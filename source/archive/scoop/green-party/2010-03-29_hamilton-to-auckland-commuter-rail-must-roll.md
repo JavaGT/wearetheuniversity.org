@@ -1,9 +1,12 @@
 ---
 slug: hamilton-to-auckland-commuter-rail-must-roll
-title: "Hamilton to Auckland commuter rail must roll"
-date: 2010-03-29
-source-url: https://www.scoop.co.nz/stories/PA1003/S00444/hamilton-to-auckland-commuter-rail-must-roll.htm
+title: Hamilton to Auckland commuter rail must roll
+date: 2010-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00444/hamilton-to-auckland-commuter-rail-must-roll.htm
 author: green-party
+permalink: /archive/2010/03/29/hamilton-to-auckland-commuter-rail-must-roll/index.html
+layout: layout.njk
 ---
 Hamilton to Auckland commuter rail must roll
 ============================================

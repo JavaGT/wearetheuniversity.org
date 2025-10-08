@@ -1,9 +1,13 @@
 ---
 slug: looming-teacher-shortage-wake-up-call-for-government
-title: "Looming teacher shortage – wake up call for Government"
-date: 2012-09-11
-source-url: https://www.scoop.co.nz/stories/ED1209/S00083/looming-teacher-shortage-wake-up-call-for-government.htm
+title: Looming teacher shortage – wake up call for Government
+date: 2012-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00083/looming-teacher-shortage-wake-up-call-for-government.htm
 author: nzei
+permalink: >-
+  /archive/2012/09/11/looming-teacher-shortage-wake-up-call-for-government/index.html
+layout: layout.njk
 ---
 Looming teacher shortage – wake up call for Government
 ======================================================

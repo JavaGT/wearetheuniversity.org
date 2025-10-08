@@ -1,9 +1,12 @@
 ---
 slug: ousa-celebrates-new-brand-and-logo
-title: "OUSA Celebrates New Brand And Logo"
-date: 2007-07-12
-source-url: https://www.scoop.co.nz/stories/ED0707/S00046/ousa-celebrates-new-brand-and-logo.htm
+title: OUSA Celebrates New Brand And Logo
+date: 2007-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00046/ousa-celebrates-new-brand-and-logo.htm
 author: otago-university-students-association
+permalink: /archive/2007/07/12/ousa-celebrates-new-brand-and-logo/index.html
+layout: layout.njk
 ---
 OUSA Celebrates New Brand And Logo
 ==================================

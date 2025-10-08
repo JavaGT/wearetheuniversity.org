@@ -1,9 +1,12 @@
 ---
 slug: child-abuse-reports-despicable
-title: "Child Abuse Reports Despicable"
-date: 2007-01-23
-source-url: https://www.scoop.co.nz/stories/PA0701/S00115/child-abuse-reports-despicable.htm
+title: Child Abuse Reports Despicable
+date: 2007-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00115/child-abuse-reports-despicable.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/23/child-abuse-reports-despicable/index.html
+layout: layout.njk
 ---
 Child Abuse Reports Despicable
 ==============================

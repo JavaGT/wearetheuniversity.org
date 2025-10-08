@@ -1,9 +1,12 @@
 ---
 slug: housing-new-zealand-is-failing-tenants
-title: "Housing New Zealand is failing tenants"
-date: 2003-11-26
-source-url: https://www.scoop.co.nz/stories/PA0311/S00521/housing-new-zealand-is-failing-tenants.htm
+title: Housing New Zealand is failing tenants
+date: 2003-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00521/housing-new-zealand-is-failing-tenants.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/26/housing-new-zealand-is-failing-tenants/index.html
+layout: layout.njk
 ---
 Housing New Zealand is failing tenants
 ======================================

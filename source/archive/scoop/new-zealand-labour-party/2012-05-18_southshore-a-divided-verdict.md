@@ -1,9 +1,11 @@
 ---
 slug: southshore-a-divided-verdict
-title: "Southshore: A Divided Verdict"
-date: 2012-05-18
+title: 'Southshore: A Divided Verdict'
+date: 2012-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1205/S00313/southshore-a-divided-verdict.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/18/southshore-a-divided-verdict/index.html
+layout: layout.njk
 ---
 Southshore: A Divided Verdict
 =============================

@@ -1,9 +1,11 @@
 ---
 slug: city-of-campuses
-title: "City of Campuses"
-date: 2003-09-03
+title: City of Campuses
+date: 2003-09-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00009/city-of-campuses.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/09/03/city-of-campuses/index.html
+layout: layout.njk
 ---
 City of Campuses
 ================

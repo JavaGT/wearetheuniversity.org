@@ -1,9 +1,11 @@
 ---
 slug: prebs-rebs-following-mad-dog
-title: "Prebs Rebs - following Mad Dog"
-date: 2000-01-25
+title: Prebs Rebs - following Mad Dog
+date: 2000-01-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0001/S00034/prebs-rebs-following-mad-dog.htm
 author: young-labour
+permalink: /archive/2000/01/25/prebs-rebs-following-mad-dog/index.html
+layout: layout.njk
 ---
 Prebs Rebs - following Mad Dog
 ==============================

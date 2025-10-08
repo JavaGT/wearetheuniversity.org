@@ -1,9 +1,12 @@
 ---
 slug: national-takes-its-tax-calculator-shopping
-title: "National takes its tax calculator shopping"
-date: 2005-08-26
-source-url: https://www.scoop.co.nz/stories/PA0508/S00712/national-takes-its-tax-calculator-shopping.htm
+title: National takes its tax calculator shopping
+date: 2005-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00712/national-takes-its-tax-calculator-shopping.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/26/national-takes-its-tax-calculator-shopping/index.html
+layout: layout.njk
 ---
 National takes its tax calculator shopping
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: new-international-aviation-law-course-on-offer
-title: "New International Aviation Law Course on offer"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/ED1406/S00121/new-international-aviation-law-course-on-offer.htm
+title: New International Aviation Law Course on offer
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00121/new-international-aviation-law-course-on-offer.htm
 author: auckland-university
+permalink: /archive/2014/06/23/new-international-aviation-law-course-on-offer/index.html
+layout: layout.njk
 ---
 New International Aviation Law Course on offer
 ==============================================

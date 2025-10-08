@@ -1,9 +1,11 @@
 ---
 slug: focus-on-the-basics
-title: "Focus on the basics"
-date: 2001-09-28
+title: Focus on the basics
+date: 2001-09-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0109/S00482/focus-on-the-basics.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/28/focus-on-the-basics/index.html
+layout: layout.njk
 ---
 Focus on the basics
 ===================

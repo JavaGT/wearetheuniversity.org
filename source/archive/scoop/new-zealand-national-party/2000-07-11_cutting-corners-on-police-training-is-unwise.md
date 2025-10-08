@@ -1,9 +1,12 @@
 ---
 slug: cutting-corners-on-police-training-is-unwise
-title: "Cutting corners on police training is unwise"
-date: 2000-07-11
-source-url: https://www.scoop.co.nz/stories/PA0007/S00150/cutting-corners-on-police-training-is-unwise.htm
+title: Cutting corners on police training is unwise
+date: 2000-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00150/cutting-corners-on-police-training-is-unwise.htm
 author: new-zealand-national-party
+permalink: /archive/2000/07/11/cutting-corners-on-police-training-is-unwise/index.html
+layout: layout.njk
 ---
 Cutting corners on police training is unwise
 ============================================

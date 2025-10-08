@@ -1,9 +1,13 @@
 ---
 slug: uc-student-seeking-to-break-the-two-minute-barrier
-title: "UC student seeking to break the two minute barrier"
-date: 2013-12-23
-source-url: https://www.scoop.co.nz/stories/CU1312/S00427/uc-student-seeking-to-break-the-two-minute-barrier.htm
+title: UC student seeking to break the two minute barrier
+date: 2013-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00427/uc-student-seeking-to-break-the-two-minute-barrier.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/23/uc-student-seeking-to-break-the-two-minute-barrier/index.html
+layout: layout.njk
 ---
 UC student seeking to break the two minute barrier
 ==================================================

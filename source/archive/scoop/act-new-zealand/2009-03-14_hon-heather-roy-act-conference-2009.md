@@ -1,9 +1,12 @@
 ---
 slug: hon-heather-roy-act-conference-2009
-title: "Hon Heather Roy - Act  Conference 2009"
-date: 2009-03-14
-source-url: https://www.scoop.co.nz/stories/PA0903/S00222/hon-heather-roy-act-conference-2009.htm
+title: Hon Heather Roy - Act  Conference 2009
+date: 2009-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00222/hon-heather-roy-act-conference-2009.htm
 author: act-new-zealand
+permalink: /archive/2009/03/14/hon-heather-roy-act-conference-2009/index.html
+layout: layout.njk
 ---
 Hon Heather Roy - Act Conference 2009
 =====================================

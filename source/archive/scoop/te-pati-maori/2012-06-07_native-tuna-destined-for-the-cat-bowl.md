@@ -1,9 +1,12 @@
 ---
 slug: native-tuna-destined-for-the-cat-bowl
-title: "Native Tuna Destined for the Cat-bowl"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/PA1206/S00087/native-tuna-destined-for-the-cat-bowl.htm
+title: Native Tuna Destined for the Cat-bowl
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00087/native-tuna-destined-for-the-cat-bowl.htm
 author: te-pati-maori
+permalink: /archive/2012/06/07/native-tuna-destined-for-the-cat-bowl/index.html
+layout: layout.njk
 ---
 Native Tuna Destined for the Cat-bowl
 =====================================

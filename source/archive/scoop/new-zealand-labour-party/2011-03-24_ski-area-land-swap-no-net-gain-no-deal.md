@@ -1,9 +1,12 @@
 ---
 slug: ski-area-land-swap-no-net-gain-no-deal
-title: "Ski Area Land Swap: No net gain? No deal."
-date: 2011-03-24
-source-url: https://www.scoop.co.nz/stories/PA1103/S00410/ski-area-land-swap-no-net-gain-no-deal.htm
+title: 'Ski Area Land Swap: No net gain? No deal.'
+date: 2011-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00410/ski-area-land-swap-no-net-gain-no-deal.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/03/24/ski-area-land-swap-no-net-gain-no-deal/index.html
+layout: layout.njk
 ---
 Ski Area Land Swap: No net gain? No deal.
 =========================================

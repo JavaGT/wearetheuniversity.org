@@ -1,9 +1,12 @@
 ---
 slug: theories-supporting-phonics-fail-further-tests
-title: "Theories supporting phonics fail further tests"
-date: 2013-09-12
-source-url: https://www.scoop.co.nz/stories/ED1309/S00069/theories-supporting-phonics-fail-further-tests.htm
+title: Theories supporting phonics fail further tests
+date: 2013-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00069/theories-supporting-phonics-fail-further-tests.htm
 author: university-of-otago
+permalink: /archive/2013/09/12/theories-supporting-phonics-fail-further-tests/index.html
+layout: layout.njk
 ---
 Theories supporting phonics fail further tests
 ==============================================

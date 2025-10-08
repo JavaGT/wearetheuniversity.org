@@ -1,9 +1,12 @@
 ---
 slug: union-welcomes-itps-skills-strategy
-title: "Union welcomes ITPs’ Skills Strategy"
-date: 2008-08-13
-source-url: https://www.scoop.co.nz/stories/ED0808/S00028/union-welcomes-itps-skills-strategy.htm
+title: Union welcomes ITPs’ Skills Strategy
+date: 2008-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00028/union-welcomes-itps-skills-strategy.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2008/08/13/union-welcomes-itps-skills-strategy/index.html
+layout: layout.njk
 ---
 Union welcomes ITPs’ Skills Strategy
 ====================================

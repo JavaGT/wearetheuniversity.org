@@ -1,9 +1,11 @@
 ---
 slug: novopay-pin-may-need-pulling
-title: "Novopay pin may need pulling"
-date: 2013-01-27
+title: Novopay pin may need pulling
+date: 2013-01-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1301/S00116/novopay-pin-may-need-pulling.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/27/novopay-pin-may-need-pulling/index.html
+layout: layout.njk
 ---
 Novopay pin may need pulling
 ============================

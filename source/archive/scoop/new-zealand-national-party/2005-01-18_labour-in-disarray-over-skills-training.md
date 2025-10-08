@@ -1,9 +1,12 @@
 ---
 slug: labour-in-disarray-over-skills-training
-title: "Labour In Disarray Over Skills Training"
-date: 2005-01-18
-source-url: https://www.scoop.co.nz/stories/PA0501/S00128/labour-in-disarray-over-skills-training.htm
+title: Labour In Disarray Over Skills Training
+date: 2005-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00128/labour-in-disarray-over-skills-training.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/18/labour-in-disarray-over-skills-training/index.html
+layout: layout.njk
 ---
 Labour In Disarray Over Skills Training
 =======================================

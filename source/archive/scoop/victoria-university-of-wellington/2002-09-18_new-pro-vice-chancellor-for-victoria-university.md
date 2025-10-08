@@ -1,9 +1,12 @@
 ---
 slug: new-pro-vice-chancellor-for-victoria-university
-title: "New Pro Vice-Chancellor for Victoria University"
-date: 2002-09-18
-source-url: https://www.scoop.co.nz/stories/ED0209/S00029/new-pro-vice-chancellor-for-victoria-university.htm
+title: New Pro Vice-Chancellor for Victoria University
+date: 2002-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00029/new-pro-vice-chancellor-for-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/09/18/new-pro-vice-chancellor-for-victoria-university/index.html
+layout: layout.njk
 ---
 New Pro Vice-Chancellor for Victoria University
 ===============================================

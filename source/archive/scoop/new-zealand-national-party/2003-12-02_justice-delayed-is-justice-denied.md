@@ -1,9 +1,12 @@
 ---
 slug: justice-delayed-is-justice-denied
-title: "Justice delayed is justice denied"
-date: 2003-12-02
-source-url: https://www.scoop.co.nz/stories/PA0312/S00034/justice-delayed-is-justice-denied.htm
+title: Justice delayed is justice denied
+date: 2003-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00034/justice-delayed-is-justice-denied.htm
 author: new-zealand-national-party
+permalink: /archive/2003/12/02/justice-delayed-is-justice-denied/index.html
+layout: layout.njk
 ---
 Justice delayed is justice denied
 =================================

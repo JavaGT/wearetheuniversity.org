@@ -1,9 +1,12 @@
 ---
 slug: the-rains-research-on-national-standards
-title: "The RAINS research on National Standards"
-date: 2013-11-28
-source-url: https://www.scoop.co.nz/stories/ED1311/S00190/the-rains-research-on-national-standards.htm
+title: The RAINS research on National Standards
+date: 2013-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00190/the-rains-research-on-national-standards.htm
 author: university-of-waikato
+permalink: /archive/2013/11/28/the-rains-research-on-national-standards/index.html
+layout: layout.njk
 ---
 The RAINS research on National Standards
 ========================================

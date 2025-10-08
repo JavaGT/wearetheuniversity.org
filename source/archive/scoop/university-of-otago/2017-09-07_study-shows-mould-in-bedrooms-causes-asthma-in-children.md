@@ -1,9 +1,13 @@
 ---
 slug: study-shows-mould-in-bedrooms-causes-asthma-in-children
-title: "Study shows mould in bedrooms causes asthma in children"
-date: 2017-09-07
-source-url: https://www.scoop.co.nz/stories/GE1709/S00039/study-shows-mould-in-bedrooms-causes-asthma-in-children.htm
+title: Study shows mould in bedrooms causes asthma in children
+date: 2017-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1709/S00039/study-shows-mould-in-bedrooms-causes-asthma-in-children.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/09/07/study-shows-mould-in-bedrooms-causes-asthma-in-children/index.html
+layout: layout.njk
 ---
 Study shows mould in bedrooms causes asthma in children
 =======================================================

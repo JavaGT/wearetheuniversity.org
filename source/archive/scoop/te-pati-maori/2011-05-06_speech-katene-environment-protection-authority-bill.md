@@ -1,9 +1,13 @@
 ---
 slug: speech-katene-environment-protection-authority-bill
-title: "Speech: Katene - Environment Protection Authority Bill"
-date: 2011-05-06
-source-url: https://www.scoop.co.nz/stories/PA1105/S00139/speech-katene-environment-protection-authority-bill.htm
+title: 'Speech: Katene - Environment Protection Authority Bill'
+date: 2011-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00139/speech-katene-environment-protection-authority-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/05/06/speech-katene-environment-protection-authority-bill/index.html
+layout: layout.njk
 ---
 Speech: Katene - Environment Protection Authority Bill
 ======================================================

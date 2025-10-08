@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-29-3-5-the-sky-is-falling
-title: "ACT’s The Letter 29/3/5: The Sky Is Falling"
-date: 2005-03-29
-source-url: https://www.scoop.co.nz/stories/PA0503/S00537/acts-the-letter-2935-the-sky-is-falling.htm
+title: 'ACT’s The Letter 29/3/5: The Sky Is Falling'
+date: 2005-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00537/acts-the-letter-2935-the-sky-is-falling.htm
 author: act-new-zealand
+permalink: /archive/2005/03/29/acts-the-letter-29-3-5-the-sky-is-falling/index.html
+layout: layout.njk
 ---
 ACT’s The Letter 29/3/5: The Sky Is Falling
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-approaches-to-māori-health-issues-are-required
-title: "Māori approaches to Māori health issues are required"
-date: 2015-03-10
-source-url: https://www.scoop.co.nz/stories/GE1503/S00040/maori-approaches-to-maori-health-issues-are-required.htm
+title: Māori approaches to Māori health issues are required
+date: 2015-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1503/S00040/maori-approaches-to-maori-health-issues-are-required.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/10/m/index.html
+layout: layout.njk
 ---
 Māori approaches to Māori health issues are required
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: cosgrove-congratulates-police-on-improved-response
-title: "Cosgrove Congratulates Police On Improved Response"
-date: 2000-07-28
-source-url: https://www.scoop.co.nz/stories/PA0007/S00467/cosgrove-congratulates-police-on-improved-response.htm
+title: Cosgrove Congratulates Police On Improved Response
+date: 2000-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00467/cosgrove-congratulates-police-on-improved-response.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2000/07/28/cosgrove-congratulates-police-on-improved-response/index.html
+layout: layout.njk
 ---
 Cosgrove Congratulates Police On Improved Response
 ==================================================

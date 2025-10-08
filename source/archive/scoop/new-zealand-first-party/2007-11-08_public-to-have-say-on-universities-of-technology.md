@@ -1,9 +1,13 @@
 ---
 slug: public-to-have-say-on-universities-of-technology
-title: "Public To Have Say On Universities Of Technology"
-date: 2007-11-08
-source-url: https://www.scoop.co.nz/stories/PA0711/S00136/public-to-have-say-on-universities-of-technology.htm
+title: Public To Have Say On Universities Of Technology
+date: 2007-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00136/public-to-have-say-on-universities-of-technology.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2007/11/08/public-to-have-say-on-universities-of-technology/index.html
+layout: layout.njk
 ---
 Public To Have Say On Universities Of Technology
 ================================================

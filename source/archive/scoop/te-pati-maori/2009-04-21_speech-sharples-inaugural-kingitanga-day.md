@@ -1,9 +1,12 @@
 ---
 slug: speech-sharples-inaugural-kingitanga-day
-title: "Speech: Sharples - Inaugural Kingitanga Day"
-date: 2009-04-21
-source-url: https://www.scoop.co.nz/stories/PA0904/S00249/speech-sharples-inaugural-kingitanga-day.htm
+title: 'Speech: Sharples - Inaugural Kingitanga Day'
+date: 2009-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00249/speech-sharples-inaugural-kingitanga-day.htm
 author: te-pati-maori
+permalink: /archive/2009/04/21/speech-sharples-inaugural-kingitanga-day/index.html
+layout: layout.njk
 ---
 Speech: Sharples - Inaugural Kingitanga Day
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: new-head-of-uc-school-of-māori-and-indigenous-studies
-title: "New head of UC School of Māori and Indigenous Studies"
-date: 2015-06-18
-source-url: https://www.scoop.co.nz/stories/ED1506/S00087/new-head-of-uc-school-of-maori-and-indigenous-studies.htm
+title: New head of UC School of Māori and Indigenous Studies
+date: 2015-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00087/new-head-of-uc-school-of-maori-and-indigenous-studies.htm
 author: university-of-canterbury
+permalink: /archive/2015/06/18/new-head-of-uc-school-of-m/index.html
+layout: layout.njk
 ---
 New head of UC School of Māori and Indigenous Studies
 =====================================================

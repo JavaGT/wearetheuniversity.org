@@ -1,9 +1,13 @@
 ---
 slug: govt-must-take-responsibility-for-dioxin-exposure
-title: "Govt Must Take Responsibility For Dioxin Exposure"
-date: 2001-02-21
-source-url: https://www.scoop.co.nz/stories/PA0102/S00328/govt-must-take-responsibility-for-dioxin-exposure.htm
+title: Govt Must Take Responsibility For Dioxin Exposure
+date: 2001-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00328/govt-must-take-responsibility-for-dioxin-exposure.htm
 author: green-party
+permalink: >-
+  /archive/2001/02/21/govt-must-take-responsibility-for-dioxin-exposure/index.html
+layout: layout.njk
 ---
 Govt Must Take Responsibility For Dioxin Exposure
 =================================================

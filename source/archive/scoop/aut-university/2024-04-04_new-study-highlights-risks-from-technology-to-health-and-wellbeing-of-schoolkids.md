@@ -1,9 +1,16 @@
 ---
-slug: new-study-highlights-risks-from-technology-to-health-and-wellbeing-of-schoolkids
-title: "New Study Highlights Risks From Technology To Health And Wellbeing Of Schoolkids"
-date: 2024-04-04
-source-url: https://www.scoop.co.nz/stories/SC2404/S00005/new-study-highlights-risks-from-technology-to-health-and-wellbeing-of-schoolkids.htm
+slug: >-
+  new-study-highlights-risks-from-technology-to-health-and-wellbeing-of-schoolkids
+title: >-
+  New Study Highlights Risks From Technology To Health And Wellbeing Of
+  Schoolkids
+date: 2024-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2404/S00005/new-study-highlights-risks-from-technology-to-health-and-wellbeing-of-schoolkids.htm
 author: aut-university
+permalink: >-
+  /archive/2024/04/04/new-study-highlights-risks-from-technology-to-health-and-wellbeing-of-schoolkids/index.html
+layout: layout.njk
 ---
 New Study Highlights Risks From Technology To Health And Wellbeing Of Schoolkids
 ================================================================================

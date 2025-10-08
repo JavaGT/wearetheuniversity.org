@@ -1,9 +1,13 @@
 ---
 slug: scholars-with-fresh-perspectives-garner-research-awards
-title: "Scholars with fresh perspectives garner research awards"
-date: 2011-02-28
-source-url: https://www.scoop.co.nz/stories/ED1102/S00083/scholars-with-fresh-perspectives-garner-research-awards.htm
+title: Scholars with fresh perspectives garner research awards
+date: 2011-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00083/scholars-with-fresh-perspectives-garner-research-awards.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/02/28/scholars-with-fresh-perspectives-garner-research-awards/index.html
+layout: layout.njk
 ---
 Scholars with fresh perspectives garner research awards
 =======================================================

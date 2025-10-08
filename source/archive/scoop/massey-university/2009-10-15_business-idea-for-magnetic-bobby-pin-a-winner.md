@@ -1,9 +1,12 @@
 ---
 slug: business-idea-for-magnetic-bobby-pin-a-winner
-title: "Business idea for magnetic bobby pin a winner"
-date: 2009-10-15
-source-url: https://www.scoop.co.nz/stories/BU0910/S00348/business-idea-for-magnetic-bobby-pin-a-winner.htm
+title: Business idea for magnetic bobby pin a winner
+date: 2009-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0910/S00348/business-idea-for-magnetic-bobby-pin-a-winner.htm
 author: massey-university
+permalink: /archive/2009/10/15/business-idea-for-magnetic-bobby-pin-a-winner/index.html
+layout: layout.njk
 ---
 Business idea for magnetic bobby pin a winner
 =============================================

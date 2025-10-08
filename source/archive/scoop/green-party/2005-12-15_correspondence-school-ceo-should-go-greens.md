@@ -1,9 +1,12 @@
 ---
 slug: correspondence-school-ceo-should-go-greens
-title: "Correspondence School CEO should go - Greens"
-date: 2005-12-15
-source-url: https://www.scoop.co.nz/stories/PA0512/S00227/correspondence-school-ceo-should-go-greens.htm
+title: Correspondence School CEO should go - Greens
+date: 2005-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00227/correspondence-school-ceo-should-go-greens.htm
 author: green-party
+permalink: /archive/2005/12/15/correspondence-school-ceo-should-go-greens/index.html
+layout: layout.njk
 ---
 Correspondence School CEO should go - Greens
 ============================================

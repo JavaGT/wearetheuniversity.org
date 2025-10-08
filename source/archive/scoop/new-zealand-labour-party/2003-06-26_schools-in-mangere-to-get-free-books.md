@@ -1,9 +1,12 @@
 ---
 slug: schools-in-mangere-to-get-free-books
-title: "Schools in Mangere to get free books"
-date: 2003-06-26
-source-url: https://www.scoop.co.nz/stories/PA0306/S00502/schools-in-mangere-to-get-free-books.htm
+title: Schools in Mangere to get free books
+date: 2003-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00502/schools-in-mangere-to-get-free-books.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/06/26/schools-in-mangere-to-get-free-books/index.html
+layout: layout.njk
 ---
 Schools in Mangere to get free books
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: no-further-action-on-age-and-gender-bias-claim
-title: "No further action on age and gender bias claim"
-date: 2004-09-30
-source-url: https://www.scoop.co.nz/stories/ED0409/S00143/no-further-action-on-age-and-gender-bias-claim.htm
+title: No further action on age and gender bias claim
+date: 2004-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00143/no-further-action-on-age-and-gender-bias-claim.htm
 author: university-of-canterbury
+permalink: /archive/2004/09/30/no-further-action-on-age-and-gender-bias-claim/index.html
+layout: layout.njk
 ---
 No further action on age and gender bias claim
 ==============================================

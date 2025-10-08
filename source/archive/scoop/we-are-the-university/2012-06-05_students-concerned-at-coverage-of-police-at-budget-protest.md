@@ -1,9 +1,13 @@
 ---
 slug: students-concerned-at-coverage-of-police-at-budget-protest
-title: "Students concerned at coverage of police at Budget protest"
-date: 2012-06-05
-source-url: https://www.scoop.co.nz/stories/PO1206/S00033/students-concerned-at-coverage-of-police-at-budget-protest.htm
+title: Students concerned at coverage of police at Budget protest
+date: 2012-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00033/students-concerned-at-coverage-of-police-at-budget-protest.htm
 author: we-are-the-university
+permalink: >-
+  /archive/2012/06/05/students-concerned-at-coverage-of-police-at-budget-protest/index.html
+layout: layout.njk
 ---
 Students concerned at coverage of police at Budget protest
 ==========================================================

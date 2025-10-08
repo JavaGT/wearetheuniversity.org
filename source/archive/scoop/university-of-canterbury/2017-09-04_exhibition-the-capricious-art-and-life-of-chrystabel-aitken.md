@@ -1,9 +1,13 @@
 ---
 slug: exhibition-the-capricious-art-and-life-of-chrystabel-aitken
-title: "Exhibition: the capricious art and life of Chrystabel Aitken"
-date: 2017-09-04
-source-url: https://www.scoop.co.nz/stories/CU1709/S00067/exhibition-the-capricious-art-and-life-of-chrystabel-aitken.htm
+title: 'Exhibition: the capricious art and life of Chrystabel Aitken'
+date: 2017-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1709/S00067/exhibition-the-capricious-art-and-life-of-chrystabel-aitken.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/09/04/exhibition-the-capricious-art-and-life-of-chrystabel-aitken/index.html
+layout: layout.njk
 ---
 Exhibition: the capricious art and life of Chrystabel Aitken
 ============================================================

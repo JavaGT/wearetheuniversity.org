@@ -1,9 +1,12 @@
 ---
 slug: real-change-for-good-teachers
-title: "Real Change For Good Teachers"
-date: 2022-05-09
-source-url: https://www.scoop.co.nz/stories/PA2205/S00068/real-change-for-good-teachers.htm
+title: Real Change For Good Teachers
+date: 2022-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00068/real-change-for-good-teachers.htm
 author: act-new-zealand
+permalink: /archive/2022/05/09/real-change-for-good-teachers/index.html
+layout: layout.njk
 ---
 Real Change For Good Teachers
 =============================

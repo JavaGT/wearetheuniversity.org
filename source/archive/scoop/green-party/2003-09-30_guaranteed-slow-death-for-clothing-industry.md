@@ -1,9 +1,12 @@
 ---
 slug: guaranteed-slow-death-for-clothing-industry
-title: "Guaranteed slow death for clothing industry"
-date: 2003-09-30
-source-url: https://www.scoop.co.nz/stories/PA0309/S00610/guaranteed-slow-death-for-clothing-industry.htm
+title: Guaranteed slow death for clothing industry
+date: 2003-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00610/guaranteed-slow-death-for-clothing-industry.htm
 author: green-party
+permalink: /archive/2003/09/30/guaranteed-slow-death-for-clothing-industry/index.html
+layout: layout.njk
 ---
 Guaranteed slow death for clothing industry
 ===========================================

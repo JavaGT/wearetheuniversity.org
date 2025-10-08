@@ -1,9 +1,11 @@
 ---
 slug: uc-stamps-its-mark
-title: "UC stamps its mark"
-date: 2007-06-05
+title: UC stamps its mark
+date: 2007-06-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0706/S00016/uc-stamps-its-mark.htm
 author: university-of-canterbury
+permalink: /archive/2007/06/05/uc-stamps-its-mark/index.html
+layout: layout.njk
 ---
 UC stamps its mark
 ==================

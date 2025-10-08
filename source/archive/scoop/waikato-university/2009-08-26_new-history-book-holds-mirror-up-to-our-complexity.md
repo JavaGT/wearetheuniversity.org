@@ -1,9 +1,13 @@
 ---
 slug: new-history-book-holds-mirror-up-to-our-complexity
-title: "New history book holds mirror up to our complexity"
-date: 2009-08-26
-source-url: https://www.scoop.co.nz/stories/ED0908/S00093/new-history-book-holds-mirror-up-to-our-complexity.htm
+title: New history book holds mirror up to our complexity
+date: 2009-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00093/new-history-book-holds-mirror-up-to-our-complexity.htm
 author: waikato-university
+permalink: >-
+  /archive/2009/08/26/new-history-book-holds-mirror-up-to-our-complexity/index.html
+layout: layout.njk
 ---
 New history book holds mirror up to our complexity
 ==================================================

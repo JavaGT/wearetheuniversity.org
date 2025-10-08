@@ -1,9 +1,12 @@
 ---
 slug: auckland-students-slam-vice-chancellors-remarks
-title: "Auckland students slam Vice-Chancellor’s remarks"
-date: 2008-07-20
-source-url: https://www.scoop.co.nz/stories/ED0807/S00063/auckland-students-slam-vice-chancellors-remarks.htm
+title: Auckland students slam Vice-Chancellor’s remarks
+date: 2008-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00063/auckland-students-slam-vice-chancellors-remarks.htm
 author: ausa
+permalink: /archive/2008/07/20/auckland-students-slam-vice-chancellors-remarks/index.html
+layout: layout.njk
 ---
 Auckland students slam Vice-Chancellor’s remarks
 ================================================

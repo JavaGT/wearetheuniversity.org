@@ -1,9 +1,13 @@
 ---
 slug: greens-offer-suite-of-measures-to-address-high-kiwi-dollar
-title: "Greens offer suite of measures to address high kiwi dollar"
-date: 2012-10-07
-source-url: https://www.scoop.co.nz/stories/PA1210/S00117/greens-offer-suite-of-measures-to-address-high-kiwi-dollar.htm
+title: Greens offer suite of measures to address high kiwi dollar
+date: 2012-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00117/greens-offer-suite-of-measures-to-address-high-kiwi-dollar.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/07/greens-offer-suite-of-measures-to-address-high-kiwi-dollar/index.html
+layout: layout.njk
 ---
 Greens offer suite of measures to address high kiwi dollar
 ==========================================================

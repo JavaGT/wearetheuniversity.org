@@ -1,9 +1,13 @@
 ---
 slug: report-on-tackling-homophobia-in-nz-sport-released
-title: "Report on tackling homophobia in NZ sport released"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/PO1610/S00365/report-on-tackling-homophobia-in-nz-sport-released.htm
+title: Report on tackling homophobia in NZ sport released
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00365/report-on-tackling-homophobia-in-nz-sport-released.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/10/26/report-on-tackling-homophobia-in-nz-sport-released/index.html
+layout: layout.njk
 ---
 Report on tackling homophobia in NZ sport released
 ==================================================

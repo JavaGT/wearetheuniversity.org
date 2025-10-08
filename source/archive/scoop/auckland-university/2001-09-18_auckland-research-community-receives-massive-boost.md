@@ -1,9 +1,13 @@
 ---
 slug: auckland-research-community-receives-massive-boost
-title: "Auckland Research Community Receives Massive Boost"
-date: 2001-09-18
-source-url: https://www.scoop.co.nz/stories/ED0109/S00005/auckland-research-community-receives-massive-boost.htm
+title: Auckland Research Community Receives Massive Boost
+date: 2001-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0109/S00005/auckland-research-community-receives-massive-boost.htm
 author: auckland-university
+permalink: >-
+  /archive/2001/09/18/auckland-research-community-receives-massive-boost/index.html
+layout: layout.njk
 ---
 Auckland Research Community Receives Massive Boost
 ==================================================

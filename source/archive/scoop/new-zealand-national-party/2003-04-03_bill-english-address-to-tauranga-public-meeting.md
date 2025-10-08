@@ -1,9 +1,12 @@
 ---
 slug: bill-english-address-to-tauranga-public-meeting
-title: "Bill English Address to Tauranga Public Meeting"
-date: 2003-04-03
-source-url: https://www.scoop.co.nz/stories/PA0304/S00075/bill-english-address-to-tauranga-public-meeting.htm
+title: Bill English Address to Tauranga Public Meeting
+date: 2003-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00075/bill-english-address-to-tauranga-public-meeting.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/03/bill-english-address-to-tauranga-public-meeting/index.html
+layout: layout.njk
 ---
 Bill English Address to Tauranga Public Meeting
 ===============================================

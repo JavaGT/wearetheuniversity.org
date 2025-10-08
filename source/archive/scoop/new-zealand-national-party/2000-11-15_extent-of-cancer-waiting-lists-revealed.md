@@ -1,9 +1,12 @@
 ---
 slug: extent-of-cancer-waiting-lists-revealed
-title: "Extent of cancer waiting lists revealed"
-date: 2000-11-15
-source-url: https://www.scoop.co.nz/stories/PA0011/S00270/extent-of-cancer-waiting-lists-revealed.htm
+title: Extent of cancer waiting lists revealed
+date: 2000-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00270/extent-of-cancer-waiting-lists-revealed.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/15/extent-of-cancer-waiting-lists-revealed/index.html
+layout: layout.njk
 ---
 Extent of cancer waiting lists revealed
 =======================================

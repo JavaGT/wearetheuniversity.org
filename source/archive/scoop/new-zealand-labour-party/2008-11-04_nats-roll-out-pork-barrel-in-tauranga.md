@@ -1,9 +1,12 @@
 ---
 slug: nats-roll-out-pork-barrel-in-tauranga
-title: "Nats roll out 'pork barrel' in Tauranga"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/PA0811/S00064/nats-roll-out-pork-barrel-in-tauranga.htm
+title: Nats roll out 'pork barrel' in Tauranga
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00064/nats-roll-out-pork-barrel-in-tauranga.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/11/04/nats-roll-out-pork-barrel-in-tauranga/index.html
+layout: layout.njk
 ---
 Nats roll out 'pork barrel' in Tauranga
 =======================================

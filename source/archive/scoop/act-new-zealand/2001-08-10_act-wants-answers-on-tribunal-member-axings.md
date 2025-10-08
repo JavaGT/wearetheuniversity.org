@@ -1,9 +1,12 @@
 ---
 slug: act-wants-answers-on-tribunal-member-axings
-title: "ACT Wants Answers On Tribunal Member Axings"
-date: 2001-08-10
-source-url: https://www.scoop.co.nz/stories/PA0108/S00234/act-wants-answers-on-tribunal-member-axings.htm
+title: ACT Wants Answers On Tribunal Member Axings
+date: 2001-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00234/act-wants-answers-on-tribunal-member-axings.htm
 author: act-new-zealand
+permalink: /archive/2001/08/10/act-wants-answers-on-tribunal-member-axings/index.html
+layout: layout.njk
 ---
 ACT Wants Answers On Tribunal Member Axings
 ===========================================

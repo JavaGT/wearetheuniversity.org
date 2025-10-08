@@ -1,9 +1,12 @@
 ---
 slug: providing-real-choice-in-education
-title: "Providing Real Choice In Education"
-date: 2023-09-25
-source-url: https://www.scoop.co.nz/stories/PO2309/S00206/providing-real-choice-in-education.htm
+title: Providing Real Choice In Education
+date: 2023-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00206/providing-real-choice-in-education.htm
 author: act-new-zealand
+permalink: /archive/2023/09/25/providing-real-choice-in-education/index.html
+layout: layout.njk
 ---
 Providing Real Choice In Education
 ==================================

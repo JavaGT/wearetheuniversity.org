@@ -1,9 +1,12 @@
 ---
 slug: head-rolls-at-leaky-homes-service
-title: "Head rolls at leaky homes service"
-date: 2005-07-06
-source-url: https://www.scoop.co.nz/stories/PA0507/S00138/head-rolls-at-leaky-homes-service.htm
+title: Head rolls at leaky homes service
+date: 2005-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00138/head-rolls-at-leaky-homes-service.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/06/head-rolls-at-leaky-homes-service/index.html
+layout: layout.njk
 ---
 Head rolls at leaky homes service
 =================================

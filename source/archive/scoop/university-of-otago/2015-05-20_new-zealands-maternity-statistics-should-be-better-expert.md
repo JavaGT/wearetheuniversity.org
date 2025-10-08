@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-maternity-statistics-should-be-better-expert
-title: "New Zealand’s maternity statistics should be better – expert"
-date: 2015-05-20
-source-url: https://www.scoop.co.nz/stories/GE1505/S00086/new-zealands-maternity-statistics-should-be-better-expert.htm
+title: New Zealand’s maternity statistics should be better – expert
+date: 2015-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1505/S00086/new-zealands-maternity-statistics-should-be-better-expert.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/05/20/new-zealands-maternity-statistics-should-be-better-expert/index.html
+layout: layout.njk
 ---
 New Zealand’s maternity statistics should be better – expert
 ============================================================

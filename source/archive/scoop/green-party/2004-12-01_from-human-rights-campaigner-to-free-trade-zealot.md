@@ -1,9 +1,13 @@
 ---
 slug: from-human-rights-campaigner-to-free-trade-zealot
-title: "From human rights campaigner to free trade zealot"
-date: 2004-12-01
-source-url: https://www.scoop.co.nz/stories/PA0412/S00024/from-human-rights-campaigner-to-free-trade-zealot.htm
+title: From human rights campaigner to free trade zealot
+date: 2004-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00024/from-human-rights-campaigner-to-free-trade-zealot.htm
 author: green-party
+permalink: >-
+  /archive/2004/12/01/from-human-rights-campaigner-to-free-trade-zealot/index.html
+layout: layout.njk
 ---
 From human rights campaigner to free trade zealot
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: who-cares-about-your-memoir-who-cares-about-anything-else
-title: "Who cares about your memoir? Who cares about anything else?"
-date: 2018-09-03
-source-url: https://www.scoop.co.nz/stories/ED1809/S00001/who-cares-about-your-memoir-who-cares-about-anything-else.htm
+title: Who cares about your memoir? Who cares about anything else?
+date: 2018-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00001/who-cares-about-your-memoir-who-cares-about-anything-else.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2018/09/03/who-cares-about-your-memoir-who-cares-about-anything-else/index.html
+layout: layout.njk
 ---
 Who cares about your memoir? Who cares about anything else?
 ===========================================================

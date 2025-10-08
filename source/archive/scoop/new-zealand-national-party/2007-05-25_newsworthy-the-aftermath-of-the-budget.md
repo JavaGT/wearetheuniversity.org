@@ -1,9 +1,12 @@
 ---
 slug: newsworthy-the-aftermath-of-the-budget
-title: "NewsWorthy:  The aftermath of the budget"
-date: 2007-05-25
-source-url: https://www.scoop.co.nz/stories/PA0705/S00679/newsworthy-the-aftermath-of-the-budget.htm
+title: 'NewsWorthy:  The aftermath of the budget'
+date: 2007-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00679/newsworthy-the-aftermath-of-the-budget.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/25/newsworthy-the-aftermath-of-the-budget/index.html
+layout: layout.njk
 ---
 NewsWorthy: The aftermath of the budget
 =======================================

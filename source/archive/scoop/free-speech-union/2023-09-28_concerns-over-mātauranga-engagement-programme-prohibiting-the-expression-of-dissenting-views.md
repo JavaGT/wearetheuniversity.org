@@ -1,9 +1,15 @@
 ---
-slug: concerns-over-mātauranga-engagement-programme-prohibiting-the-expression-of-dissenting-views
-title: "Concerns Over Mātauranga Engagement Programme Prohibiting The Expression Of Dissenting Views"
-date: 2023-09-28
-source-url: https://www.scoop.co.nz/stories/ED2309/S00049/concerns-over-matauranga-engagement-programme-prohibiting-the-expression-of-dissenting-views.htm
+slug: >-
+  concerns-over-mātauranga-engagement-programme-prohibiting-the-expression-of-dissenting-views
+title: >-
+  Concerns Over Mātauranga Engagement Programme Prohibiting The Expression Of
+  Dissenting Views
+date: 2023-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2309/S00049/concerns-over-matauranga-engagement-programme-prohibiting-the-expression-of-dissenting-views.htm
 author: free-speech-union
+permalink: /archive/2023/09/28/concerns-over-m/index.html
+layout: layout.njk
 ---
 Concerns Over Mātauranga Engagement Programme Prohibiting The Expression Of Dissenting Views
 ============================================================================================

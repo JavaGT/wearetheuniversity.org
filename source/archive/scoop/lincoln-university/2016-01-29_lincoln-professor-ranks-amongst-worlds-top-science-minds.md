@@ -1,9 +1,13 @@
 ---
 slug: lincoln-professor-ranks-amongst-worlds-top-science-minds
-title: "Lincoln professor ranks amongst world's top science minds"
-date: 2016-01-29
-source-url: https://www.scoop.co.nz/stories/SC1601/S00067/lincoln-professor-ranks-amongst-worlds-top-science-minds.htm
+title: Lincoln professor ranks amongst world's top science minds
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1601/S00067/lincoln-professor-ranks-amongst-worlds-top-science-minds.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/01/29/lincoln-professor-ranks-amongst-worlds-top-science-minds/index.html
+layout: layout.njk
 ---
 Lincoln professor ranks amongst world's top science minds
 =========================================================

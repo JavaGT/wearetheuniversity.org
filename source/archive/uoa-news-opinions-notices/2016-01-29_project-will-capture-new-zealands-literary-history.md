@@ -1,8 +1,12 @@
 ---
 slug: project-will-capture-new-zealands-literary-history
-title: "Project will capture New Zealand’s literary history"
-date: 2016-01-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/project-will-capture-new-zealands-literary-history.html
+title: Project will capture New Zealand’s literary history
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/project-will-capture-new-zealands-literary-history.html
+permalink: >-
+  /archive/2016/01/29/project-will-capture-new-zealands-literary-history/index.html
+layout: layout.njk
 ---
 Project will capture New Zealand’s literary history
 ===================================================

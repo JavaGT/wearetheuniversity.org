@@ -1,9 +1,11 @@
 ---
 slug: real-issues-no-207
-title: "Real issues - No 207"
-date: 2006-06-02
+title: Real issues - No 207
+date: 2006-06-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0606/S00031/real-issues-no-207.htm
 author: maxim-institute
+permalink: /archive/2006/06/02/real-issues-no-207/index.html
+layout: layout.njk
 ---
 Real issues - No 207
 ====================

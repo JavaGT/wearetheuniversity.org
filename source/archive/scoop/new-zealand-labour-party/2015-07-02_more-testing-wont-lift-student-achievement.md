@@ -1,9 +1,12 @@
 ---
 slug: more-testing-wont-lift-student-achievement
-title: "More testing won’t lift student achievement"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/PA1507/S00035/more-testing-wont-lift-student-achievement.htm
+title: More testing won’t lift student achievement
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00035/more-testing-wont-lift-student-achievement.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/02/more-testing-wont-lift-student-achievement/index.html
+layout: layout.njk
 ---
 More testing won’t lift student achievement
 ===========================================

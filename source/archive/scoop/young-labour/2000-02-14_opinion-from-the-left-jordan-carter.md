@@ -1,9 +1,12 @@
 ---
 slug: opinion-from-the-left-jordan-carter
-title: "Opinion: From The Left - Jordan Carter"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/PO0002/S00046/opinion-from-the-left-jordan-carter.htm
+title: 'Opinion: From The Left - Jordan Carter'
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0002/S00046/opinion-from-the-left-jordan-carter.htm
 author: young-labour
+permalink: /archive/2000/02/14/opinion-from-the-left-jordan-carter/index.html
+layout: layout.njk
 ---
 Opinion: From The Left - Jordan Carter
 ======================================

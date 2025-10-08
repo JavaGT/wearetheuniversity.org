@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-rises-in-latest-world-rankings
-title: "Waikato University Rises In Latest World Rankings"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/ED1210/S00032/waikato-university-rises-in-latest-world-rankings.htm
+title: Waikato University Rises In Latest World Rankings
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00032/waikato-university-rises-in-latest-world-rankings.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/10/04/waikato-university-rises-in-latest-world-rankings/index.html
+layout: layout.njk
 ---
 Waikato University Rises In Latest World Rankings
 =================================================

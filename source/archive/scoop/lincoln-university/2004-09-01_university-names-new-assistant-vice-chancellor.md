@@ -1,9 +1,12 @@
 ---
 slug: university-names-new-assistant-vice-chancellor
-title: "University names new  Assistant Vice-Chancellor"
-date: 2004-09-01
-source-url: https://www.scoop.co.nz/stories/ED0409/S00008/university-names-new-assistant-vice-chancellor.htm
+title: University names new  Assistant Vice-Chancellor
+date: 2004-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00008/university-names-new-assistant-vice-chancellor.htm
 author: lincoln-university
+permalink: /archive/2004/09/01/university-names-new-assistant-vice-chancellor/index.html
+layout: layout.njk
 ---
 University names new Assistant Vice-Chancellor
 ==============================================

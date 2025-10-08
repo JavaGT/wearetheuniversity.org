@@ -1,9 +1,12 @@
 ---
 slug: university-to-host-titanium-conference
-title: "University to host Titanium Conference"
-date: 2013-11-13
-source-url: https://www.scoop.co.nz/stories/SC1311/S00043/university-to-host-titanium-conference.htm
+title: University to host Titanium Conference
+date: 2013-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00043/university-to-host-titanium-conference.htm
 author: university-of-waikato
+permalink: /archive/2013/11/13/university-to-host-titanium-conference/index.html
+layout: layout.njk
 ---
 University to host Titanium Conference
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: otago-honours-ocean-research-groups-achievements
-title: "Otago Honours Ocean Research Group’s Achievements"
-date: 2012-05-22
-source-url: https://www.scoop.co.nz/stories/SC1205/S00047/otago-honours-ocean-research-groups-achievements.htm
+title: Otago Honours Ocean Research Group’s Achievements
+date: 2012-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00047/otago-honours-ocean-research-groups-achievements.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/05/22/otago-honours-ocean-research-groups-achievements/index.html
+layout: layout.njk
 ---
 Otago Honours Ocean Research Group’s Achievements
 =================================================

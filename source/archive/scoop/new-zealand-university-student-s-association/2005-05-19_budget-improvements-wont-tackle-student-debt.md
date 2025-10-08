@@ -1,9 +1,12 @@
 ---
 slug: budget-improvements-wont-tackle-student-debt
-title: "Budget improvements won’t tackle student debt"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/ED0505/S00084/budget-improvements-wont-tackle-student-debt.htm
+title: Budget improvements won’t tackle student debt
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00084/budget-improvements-wont-tackle-student-debt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/05/19/budget-improvements-wont-tackle-student-debt/index.html
+layout: layout.njk
 ---
 Budget improvements won’t tackle student debt
 =============================================

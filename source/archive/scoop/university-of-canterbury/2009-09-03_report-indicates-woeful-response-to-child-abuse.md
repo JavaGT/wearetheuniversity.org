@@ -1,9 +1,12 @@
 ---
 slug: report-indicates-woeful-response-to-child-abuse
-title: "Report indicates woeful response to child abuse"
-date: 2009-09-03
-source-url: https://www.scoop.co.nz/stories/PO0909/S00044/report-indicates-woeful-response-to-child-abuse.htm
+title: Report indicates woeful response to child abuse
+date: 2009-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0909/S00044/report-indicates-woeful-response-to-child-abuse.htm
 author: university-of-canterbury
+permalink: /archive/2009/09/03/report-indicates-woeful-response-to-child-abuse/index.html
+layout: layout.njk
 ---
 Report indicates woeful response to child abuse
 ===============================================

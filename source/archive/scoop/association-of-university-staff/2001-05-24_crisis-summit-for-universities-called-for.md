@@ -1,9 +1,12 @@
 ---
 slug: crisis-summit-for-universities-called-for
-title: "Crisis Summit for Universities Called For"
-date: 2001-05-24
-source-url: https://www.scoop.co.nz/stories/ED0105/S00054/crisis-summit-for-universities-called-for.htm
+title: Crisis Summit for Universities Called For
+date: 2001-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00054/crisis-summit-for-universities-called-for.htm
 author: association-of-university-staff
+permalink: /archive/2001/05/24/crisis-summit-for-universities-called-for/index.html
+layout: layout.njk
 ---
 Crisis Summit for Universities Called For
 =========================================

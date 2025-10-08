@@ -1,9 +1,13 @@
 ---
 slug: writing-award-for-resilience-and-work-life-balance-research
-title: "Writing Award for Resilience And Work-Life Balance Research"
-date: 2013-06-18
-source-url: https://www.scoop.co.nz/stories/ED1306/S00096/writing-award-for-resilience-and-work-life-balance-research.htm
+title: Writing Award for Resilience And Work-Life Balance Research
+date: 2013-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00096/writing-award-for-resilience-and-work-life-balance-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/06/18/writing-award-for-resilience-and-work-life-balance-research/index.html
+layout: layout.njk
 ---
 Writing Award for Resilience And Work-Life Balance Research
 ===========================================================

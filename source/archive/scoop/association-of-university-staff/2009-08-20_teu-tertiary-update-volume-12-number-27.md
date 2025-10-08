@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-volume-12-number-27
-title: "TEU Tertiary Update, volume 12, number 27"
-date: 2009-08-20
-source-url: https://www.scoop.co.nz/stories/ED0908/S00067/teu-tertiary-update-volume-12-number-27.htm
+title: TEU Tertiary Update, volume 12, number 27
+date: 2009-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00067/teu-tertiary-update-volume-12-number-27.htm
 author: association-of-university-staff
+permalink: /archive/2009/08/20/teu-tertiary-update-volume-12-number-27/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update, volume 12, number 27
 =========================================

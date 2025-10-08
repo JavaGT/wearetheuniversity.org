@@ -1,9 +1,13 @@
 ---
 slug: fpa-repeal-contravenes-eu-free-trade-agreement-says-nzctu
-title: "FPA Repeal Contravenes EU Free Trade Agreement, Says NZCTU"
-date: 2023-12-12
-source-url: https://www.scoop.co.nz/stories/PO2312/S00094/fpa-repeal-contravenes-eu-free-trade-agreement-says-nzctu.htm
+title: FPA Repeal Contravenes EU Free Trade Agreement, Says NZCTU
+date: 2023-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2312/S00094/fpa-repeal-contravenes-eu-free-trade-agreement-says-nzctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2023/12/12/fpa-repeal-contravenes-eu-free-trade-agreement-says-nzctu/index.html
+layout: layout.njk
 ---
 FPA Repeal Contravenes EU Free Trade Agreement, Says NZCTU
 ==========================================================

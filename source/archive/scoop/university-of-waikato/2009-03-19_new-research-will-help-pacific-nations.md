@@ -1,9 +1,12 @@
 ---
 slug: new-research-will-help-pacific-nations
-title: "New research will help Pacific nations"
-date: 2009-03-19
-source-url: https://www.scoop.co.nz/stories/WO0903/S00361/new-research-will-help-pacific-nations.htm
+title: New research will help Pacific nations
+date: 2009-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0903/S00361/new-research-will-help-pacific-nations.htm
 author: university-of-waikato
+permalink: /archive/2009/03/19/new-research-will-help-pacific-nations/index.html
+layout: layout.njk
 ---
 New research will help Pacific nations
 ======================================

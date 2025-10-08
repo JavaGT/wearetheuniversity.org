@@ -1,9 +1,13 @@
 ---
 slug: firing-of-council-outrageous-affront-to-democracy
-title: "Firing of council outrageous affront to democracy"
-date: 2010-03-30
-source-url: https://www.scoop.co.nz/stories/PA1003/S00467/firing-of-council-outrageous-affront-to-democracy.htm
+title: Firing of council outrageous affront to democracy
+date: 2010-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00467/firing-of-council-outrageous-affront-to-democracy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/03/30/firing-of-council-outrageous-affront-to-democracy/index.html
+layout: layout.njk
 ---
 Firing of council outrageous affront to democracy
 =================================================

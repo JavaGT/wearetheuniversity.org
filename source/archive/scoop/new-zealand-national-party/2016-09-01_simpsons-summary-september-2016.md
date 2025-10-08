@@ -1,9 +1,12 @@
 ---
 slug: simpsons-summary-september-2016
-title: "Simpson’s Summary: September 2016"
-date: 2016-09-01
-source-url: https://www.scoop.co.nz/stories/PA1609/S00009/simpsons-summary-september-2016.htm
+title: 'Simpson’s Summary: September 2016'
+date: 2016-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00009/simpsons-summary-september-2016.htm
 author: new-zealand-national-party
+permalink: /archive/2016/09/01/simpsons-summary-september-2016/index.html
+layout: layout.njk
 ---
 Simpson’s Summary: September 2016
 =================================

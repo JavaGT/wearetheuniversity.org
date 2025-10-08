@@ -1,9 +1,12 @@
 ---
 slug: national-take-ideological-stance-over-acc
-title: "National take ideological stance over ACC"
-date: 2008-07-17
-source-url: https://www.scoop.co.nz/stories/PO0807/S00220/national-take-ideological-stance-over-acc.htm
+title: National take ideological stance over ACC
+date: 2008-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00220/national-take-ideological-stance-over-acc.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/07/17/national-take-ideological-stance-over-acc/index.html
+layout: layout.njk
 ---
 National take ideological stance over ACC
 =========================================

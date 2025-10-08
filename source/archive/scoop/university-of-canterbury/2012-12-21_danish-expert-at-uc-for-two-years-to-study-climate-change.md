@@ -1,9 +1,13 @@
 ---
 slug: danish-expert-at-uc-for-two-years-to-study-climate-change
-title: "Danish expert at UC for two years to study climate change"
-date: 2012-12-21
-source-url: https://www.scoop.co.nz/stories/ED1212/S00138/danish-expert-at-uc-for-two-years-to-study-climate-change.htm
+title: Danish expert at UC for two years to study climate change
+date: 2012-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00138/danish-expert-at-uc-for-two-years-to-study-climate-change.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/21/danish-expert-at-uc-for-two-years-to-study-climate-change/index.html
+layout: layout.njk
 ---
 Danish expert at UC for two years to study climate change
 =========================================================

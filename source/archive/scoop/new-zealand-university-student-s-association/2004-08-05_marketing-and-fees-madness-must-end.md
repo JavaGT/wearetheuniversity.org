@@ -1,9 +1,12 @@
 ---
 slug: marketing-and-fees-madness-must-end
-title: "Marketing and fees madness must end"
-date: 2004-08-05
-source-url: https://www.scoop.co.nz/stories/ED0408/S00014/marketing-and-fees-madness-must-end.htm
+title: Marketing and fees madness must end
+date: 2004-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00014/marketing-and-fees-madness-must-end.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/08/05/marketing-and-fees-madness-must-end/index.html
+layout: layout.njk
 ---
 Marketing and fees madness must end
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: report-confirms-families-are-not-better-off
-title: "Report confirms families are not better off"
-date: 2006-11-26
-source-url: https://www.scoop.co.nz/stories/PA0611/S00503/report-confirms-families-are-not-better-off.htm
+title: Report confirms families are not better off
+date: 2006-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00503/report-confirms-families-are-not-better-off.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/26/report-confirms-families-are-not-better-off/index.html
+layout: layout.njk
 ---
 Report confirms families are not better off
 ===========================================

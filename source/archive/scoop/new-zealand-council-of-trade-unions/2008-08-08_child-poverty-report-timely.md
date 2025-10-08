@@ -1,9 +1,11 @@
 ---
 slug: child-poverty-report-timely
-title: "Child Poverty Report Timely"
-date: 2008-08-08
+title: Child Poverty Report Timely
+date: 2008-08-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0808/S00102/child-poverty-report-timely.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/08/08/child-poverty-report-timely/index.html
+layout: layout.njk
 ---
 Child Poverty Report Timely
 ===========================

@@ -1,9 +1,13 @@
 ---
 slug: nothing-to-celebrate-for-education-in-governments-budget
-title: "Nothing to Celebrate for Education in Government’s Budget"
-date: 2015-05-22
-source-url: https://www.scoop.co.nz/stories/PA1505/S00400/nothing-to-celebrate-for-education-in-governments-budget.htm
+title: Nothing to Celebrate for Education in Government’s Budget
+date: 2015-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00400/nothing-to-celebrate-for-education-in-governments-budget.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/05/22/nothing-to-celebrate-for-education-in-governments-budget/index.html
+layout: layout.njk
 ---
 Nothing to Celebrate for Education in Government’s Budget
 =========================================================

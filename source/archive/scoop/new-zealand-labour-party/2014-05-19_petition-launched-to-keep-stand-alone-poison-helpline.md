@@ -1,9 +1,13 @@
 ---
 slug: petition-launched-to-keep-stand-alone-poison-helpline
-title: "Petition launched to keep stand-alone poison helpline"
-date: 2014-05-19
-source-url: https://www.scoop.co.nz/stories/PA1405/S00355/petition-launched-to-keep-stand-alone-poison-helpline.htm
+title: Petition launched to keep stand-alone poison helpline
+date: 2014-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00355/petition-launched-to-keep-stand-alone-poison-helpline.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/05/19/petition-launched-to-keep-stand-alone-poison-helpline/index.html
+layout: layout.njk
 ---
 Petition launched to keep stand-alone poison helpline
 =====================================================

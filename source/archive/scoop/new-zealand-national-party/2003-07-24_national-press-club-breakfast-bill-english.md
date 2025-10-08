@@ -1,9 +1,12 @@
 ---
 slug: national-press-club-breakfast-bill-english
-title: "National Press Club Breakfast - Bill English"
-date: 2003-07-24
-source-url: https://www.scoop.co.nz/stories/PA0307/S00424/national-press-club-breakfast-bill-english.htm
+title: National Press Club Breakfast - Bill English
+date: 2003-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00424/national-press-club-breakfast-bill-english.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/24/national-press-club-breakfast-bill-english/index.html
+layout: layout.njk
 ---
 National Press Club Breakfast - Bill English
 ============================================

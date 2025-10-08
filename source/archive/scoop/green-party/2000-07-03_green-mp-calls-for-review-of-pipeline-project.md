@@ -1,9 +1,12 @@
 ---
 slug: green-mp-calls-for-review-of-pipeline-project
-title: "Green MP Calls For Review Of Pipeline Project"
-date: 2000-07-03
-source-url: https://www.scoop.co.nz/stories/PA0007/S00013/green-mp-calls-for-review-of-pipeline-project.htm
+title: Green MP Calls For Review Of Pipeline Project
+date: 2000-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00013/green-mp-calls-for-review-of-pipeline-project.htm
 author: green-party
+permalink: /archive/2000/07/03/green-mp-calls-for-review-of-pipeline-project/index.html
+layout: layout.njk
 ---
 Green MP Calls For Review Of Pipeline Project
 =============================================

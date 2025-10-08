@@ -1,9 +1,12 @@
 ---
 slug: community-psychology-promotes-prevention
-title: "Community Psychology Promotes Prevention"
-date: 2004-07-01
-source-url: https://www.scoop.co.nz/stories/GE0407/S00006/community-psychology-promotes-prevention.htm
+title: Community Psychology Promotes Prevention
+date: 2004-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0407/S00006/community-psychology-promotes-prevention.htm
 author: waikato-university
+permalink: /archive/2004/07/01/community-psychology-promotes-prevention/index.html
+layout: layout.njk
 ---
 Community Psychology Promotes Prevention
 ========================================

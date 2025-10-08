@@ -1,9 +1,13 @@
 ---
 slug: making-nz-smoke-free-will-reduce-ethnic-death-rate
-title: "Making NZ smoke-free will reduce ethnic death rate"
-date: 2006-06-09
-source-url: https://www.scoop.co.nz/stories/GE0606/S00037/making-nz-smoke-free-will-reduce-ethnic-death-rate.htm
+title: Making NZ smoke-free will reduce ethnic death rate
+date: 2006-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0606/S00037/making-nz-smoke-free-will-reduce-ethnic-death-rate.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/06/09/making-nz-smoke-free-will-reduce-ethnic-death-rate/index.html
+layout: layout.njk
 ---
 Making NZ smoke-free will reduce ethnic death rate
 ==================================================

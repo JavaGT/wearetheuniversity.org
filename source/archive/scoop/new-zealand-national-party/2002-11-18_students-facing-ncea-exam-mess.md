@@ -1,9 +1,12 @@
 ---
 slug: students-facing-ncea-exam-mess
-title: "Students facing NCEA exam mess"
-date: 2002-11-18
-source-url: https://www.scoop.co.nz/stories/PA0211/S00386/students-facing-ncea-exam-mess.htm
+title: Students facing NCEA exam mess
+date: 2002-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00386/students-facing-ncea-exam-mess.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/18/students-facing-ncea-exam-mess/index.html
+layout: layout.njk
 ---
 Students facing NCEA exam mess
 ==============================

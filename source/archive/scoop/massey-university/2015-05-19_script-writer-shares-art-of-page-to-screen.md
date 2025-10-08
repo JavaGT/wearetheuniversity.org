@@ -1,9 +1,12 @@
 ---
 slug: script-writer-shares-art-of-page-to-screen
-title: "Script writer shares art of page-to-screen"
-date: 2015-05-19
-source-url: https://www.scoop.co.nz/stories/CU1505/S00322/script-writer-shares-art-of-page-to-screen.htm
+title: Script writer shares art of page-to-screen
+date: 2015-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00322/script-writer-shares-art-of-page-to-screen.htm
 author: massey-university
+permalink: /archive/2015/05/19/script-writer-shares-art-of-page-to-screen/index.html
+layout: layout.njk
 ---
 Script writer shares art of page-to-screen
 ==========================================

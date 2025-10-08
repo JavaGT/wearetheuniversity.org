@@ -1,9 +1,11 @@
 ---
 slug: the-mapp-report-3-march-2006
-title: "The Mapp Report - 3 March 2006"
-date: 2006-03-03
+title: The Mapp Report - 3 March 2006
+date: 2006-03-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0603/S00071/the-mapp-report-3-march-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/03/the-mapp-report-3-march-2006/index.html
+layout: layout.njk
 ---
 The Mapp Report - 3 March 2006
 ==============================

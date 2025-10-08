@@ -1,9 +1,11 @@
 ---
 slug: nest-invaders-under-scrutiny
-title: "Nest invaders under scrutiny"
-date: 2006-08-24
+title: Nest invaders under scrutiny
+date: 2006-08-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0608/S00051/nest-invaders-under-scrutiny.htm
 author: massey-university
+permalink: /archive/2006/08/24/nest-invaders-under-scrutiny/index.html
+layout: layout.njk
 ---
 Nest invaders under scrutiny
 ============================

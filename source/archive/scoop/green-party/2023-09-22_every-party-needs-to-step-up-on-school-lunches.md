@@ -1,9 +1,12 @@
 ---
 slug: every-party-needs-to-step-up-on-school-lunches
-title: "Every Party Needs To Step Up On School Lunches"
-date: 2023-09-22
-source-url: https://www.scoop.co.nz/stories/PA2309/S00123/every-party-needs-to-step-up-on-school-lunches.htm
+title: Every Party Needs To Step Up On School Lunches
+date: 2023-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00123/every-party-needs-to-step-up-on-school-lunches.htm
 author: green-party
+permalink: /archive/2023/09/22/every-party-needs-to-step-up-on-school-lunches/index.html
+layout: layout.njk
 ---
 Every Party Needs To Step Up On School Lunches
 ==============================================

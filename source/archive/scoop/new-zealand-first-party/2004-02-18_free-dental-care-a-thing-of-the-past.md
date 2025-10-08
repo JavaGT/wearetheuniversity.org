@@ -1,9 +1,12 @@
 ---
 slug: free-dental-care-a-thing-of-the-past
-title: "Free Dental Care A Thing Of The Past"
-date: 2004-02-18
-source-url: https://www.scoop.co.nz/stories/PA0402/S00284/free-dental-care-a-thing-of-the-past.htm
+title: Free Dental Care A Thing Of The Past
+date: 2004-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00284/free-dental-care-a-thing-of-the-past.htm
 author: new-zealand-first-party
+permalink: /archive/2004/02/18/free-dental-care-a-thing-of-the-past/index.html
+layout: layout.njk
 ---
 Free Dental Care A Thing Of The Past
 ====================================

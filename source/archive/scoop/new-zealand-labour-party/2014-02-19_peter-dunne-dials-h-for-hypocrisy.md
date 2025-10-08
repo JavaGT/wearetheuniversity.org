@@ -1,9 +1,12 @@
 ---
 slug: peter-dunne-dials-h-for-hypocrisy
-title: "Peter Dunne dials H for Hypocrisy"
-date: 2014-02-19
-source-url: https://www.scoop.co.nz/stories/PA1402/S00241/peter-dunne-dials-h-for-hypocrisy.htm
+title: Peter Dunne dials H for Hypocrisy
+date: 2014-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00241/peter-dunne-dials-h-for-hypocrisy.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/19/peter-dunne-dials-h-for-hypocrisy/index.html
+layout: layout.njk
 ---
 Peter Dunne dials H for Hypocrisy
 =================================

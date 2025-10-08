@@ -1,9 +1,12 @@
 ---
 slug: more-disruption-for-thousands-of-patients
-title: "More disruption for thousands of patients"
-date: 2006-11-10
-source-url: https://www.scoop.co.nz/stories/PA0611/S00195/more-disruption-for-thousands-of-patients.htm
+title: More disruption for thousands of patients
+date: 2006-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00195/more-disruption-for-thousands-of-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/10/more-disruption-for-thousands-of-patients/index.html
+layout: layout.njk
 ---
 More disruption for thousands of patients
 =========================================

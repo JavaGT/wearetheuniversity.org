@@ -1,9 +1,13 @@
 ---
 slug: psychology-professor-recognised-for-outstanding-contribution
-title: "Psychology Professor recognised for outstanding contribution"
-date: 2014-08-14
-source-url: https://www.scoop.co.nz/stories/ED1408/S00073/psychology-professor-recognised-for-outstanding-contribution.htm
+title: Psychology Professor recognised for outstanding contribution
+date: 2014-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00073/psychology-professor-recognised-for-outstanding-contribution.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/14/psychology-professor-recognised-for-outstanding-contribution/index.html
+layout: layout.njk
 ---
 Psychology Professor recognised for outstanding contribution
 ============================================================

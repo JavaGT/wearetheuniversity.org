@@ -1,9 +1,13 @@
 ---
 slug: chinese-history-expert-to-receive-honorary-doctorate
-title: "Chinese history expert to receive honorary doctorate"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/ED1412/S00019/chinese-history-expert-to-receive-honorary-doctorate.htm
+title: Chinese history expert to receive honorary doctorate
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00019/chinese-history-expert-to-receive-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/03/chinese-history-expert-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Chinese history expert to receive honorary doctorate
 ====================================================

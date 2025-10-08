@@ -1,9 +1,13 @@
 ---
 slug: town-hall-decision-a-victory-for-christchurch-and-democracy
-title: "Town Hall decision a victory for Christchurch and democracy"
-date: 2015-06-11
-source-url: https://www.scoop.co.nz/stories/PA1506/S00203/town-hall-decision-a-victory-for-christchurch-and-democracy.htm
+title: Town Hall decision a victory for Christchurch and democracy
+date: 2015-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00203/town-hall-decision-a-victory-for-christchurch-and-democracy.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/11/town-hall-decision-a-victory-for-christchurch-and-democracy/index.html
+layout: layout.njk
 ---
 Town Hall decision a victory for Christchurch and democracy
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: academic-returns-to-aut-with-global-knowledge
-title: "Academic returns to AUT with global knowledge"
-date: 2008-06-12
-source-url: https://www.scoop.co.nz/stories/ED0806/S00036/academic-returns-to-aut-with-global-knowledge.htm
+title: Academic returns to AUT with global knowledge
+date: 2008-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00036/academic-returns-to-aut-with-global-knowledge.htm
 author: aut-university
+permalink: /archive/2008/06/12/academic-returns-to-aut-with-global-knowledge/index.html
+layout: layout.njk
 ---
 Academic returns to AUT with global knowledge
 =============================================

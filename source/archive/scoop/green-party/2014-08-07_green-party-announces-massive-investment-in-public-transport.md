@@ -1,9 +1,13 @@
 ---
 slug: green-party-announces-massive-investment-in-public-transport
-title: "Green Party announces massive investment in public transport"
-date: 2014-08-07
-source-url: https://www.scoop.co.nz/stories/PA1408/S00112/green-party-announces-massive-investment-in-public-transport.htm
+title: Green Party announces massive investment in public transport
+date: 2014-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00112/green-party-announces-massive-investment-in-public-transport.htm
 author: green-party
+permalink: >-
+  /archive/2014/08/07/green-party-announces-massive-investment-in-public-transport/index.html
+layout: layout.njk
 ---
 Green Party announces massive investment in public transport
 ============================================================

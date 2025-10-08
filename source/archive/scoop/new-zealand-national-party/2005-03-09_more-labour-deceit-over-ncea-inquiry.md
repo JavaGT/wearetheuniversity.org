@@ -1,9 +1,12 @@
 ---
 slug: more-labour-deceit-over-ncea-inquiry
-title: "More Labour deceit over NCEA inquiry"
-date: 2005-03-09
-source-url: https://www.scoop.co.nz/stories/PA0503/S00173/more-labour-deceit-over-ncea-inquiry.htm
+title: More Labour deceit over NCEA inquiry
+date: 2005-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00173/more-labour-deceit-over-ncea-inquiry.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/09/more-labour-deceit-over-ncea-inquiry/index.html
+layout: layout.njk
 ---
 More Labour deceit over NCEA inquiry
 ====================================

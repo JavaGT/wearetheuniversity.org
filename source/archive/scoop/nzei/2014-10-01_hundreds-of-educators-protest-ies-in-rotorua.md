@@ -1,9 +1,12 @@
 ---
 slug: hundreds-of-educators-protest-ies-in-rotorua
-title: "Hundreds of educators protest IES in Rotorua"
-date: 2014-10-01
-source-url: https://www.scoop.co.nz/stories/PO1410/S00007/hundreds-of-educators-protest-ies-in-rotorua.htm
+title: Hundreds of educators protest IES in Rotorua
+date: 2014-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00007/hundreds-of-educators-protest-ies-in-rotorua.htm
 author: nzei
+permalink: /archive/2014/10/01/hundreds-of-educators-protest-ies-in-rotorua/index.html
+layout: layout.njk
 ---
 Hundreds of educators protest IES in Rotorua
 ============================================

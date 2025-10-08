@@ -1,9 +1,12 @@
 ---
 slug: peters-look-out-2005-here-we-come!
-title: "Peters: \"Look out 2005, here we come!\""
-date: 2004-08-27
-source-url: https://www.scoop.co.nz/stories/PA0408/S00503/peters-look-out-2005-here-we-come.htm
+title: 'Peters: "Look out 2005, here we come!"'
+date: 2004-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00503/peters-look-out-2005-here-we-come.htm
 author: new-zealand-first-party
+permalink: /archive/2004/08/27/peters-look-out-2005-here-we-come/index.html
+layout: layout.njk
 ---
 Peters: “Look out 2005, here we come!”
 ======================================

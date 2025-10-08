@@ -1,9 +1,12 @@
 ---
 slug: address-to-thetelecommunication-summit
-title: "Address to theTelecommunication Summit"
-date: 2009-06-23
-source-url: https://www.scoop.co.nz/stories/SP0906/S00001/address-to-thetelecommunication-summit.htm
+title: Address to theTelecommunication Summit
+date: 2009-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP0906/S00001/address-to-thetelecommunication-summit.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/23/address-to-thetelecommunication-summit/index.html
+layout: layout.njk
 ---
 Address to theTelecommunication Summit
 ======================================

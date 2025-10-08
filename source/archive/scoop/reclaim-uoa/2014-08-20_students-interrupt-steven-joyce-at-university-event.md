@@ -1,9 +1,13 @@
 ---
 slug: students-interrupt-steven-joyce-at-university-event
-title: "Students Interrupt Steven Joyce at University Event"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/PO1408/S00321/students-interrupt-steven-joyce-at-university-event.htm
+title: Students Interrupt Steven Joyce at University Event
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00321/students-interrupt-steven-joyce-at-university-event.htm
 author: reclaim-uoa
+permalink: >-
+  /archive/2014/08/20/students-interrupt-steven-joyce-at-university-event/index.html
+layout: layout.njk
 ---
 Students Interrupt Steven Joyce at University Event
 ===================================================

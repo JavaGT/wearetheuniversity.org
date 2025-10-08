@@ -1,9 +1,12 @@
 ---
 slug: nz-first-to-put-wool-carpets-back-on-the-floors
-title: "NZ First to Put Wool Carpets Back on the Floors"
-date: 2017-07-10
-source-url: https://www.scoop.co.nz/stories/PA1707/S00148/nz-first-to-put-wool-carpets-back-on-the-floors.htm
+title: NZ First to Put Wool Carpets Back on the Floors
+date: 2017-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00148/nz-first-to-put-wool-carpets-back-on-the-floors.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/10/nz-first-to-put-wool-carpets-back-on-the-floors/index.html
+layout: layout.njk
 ---
 NZ First to Put Wool Carpets Back on the Floors
 ===============================================

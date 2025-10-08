@@ -1,9 +1,12 @@
 ---
 slug: otago-appoints-professor-of-global-health
-title: "Otago Appoints Professor of Global Health"
-date: 2011-07-20
-source-url: https://www.scoop.co.nz/stories/ED1107/S00086/otago-appoints-professor-of-global-health.htm
+title: Otago Appoints Professor of Global Health
+date: 2011-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00086/otago-appoints-professor-of-global-health.htm
 author: university-of-otago
+permalink: /archive/2011/07/20/otago-appoints-professor-of-global-health/index.html
+layout: layout.njk
 ---
 Otago Appoints Professor of Global Health
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwis-flocking-to-free*-postgraduate-courses
-title: "Kiwis Flocking To Free* Postgraduate Courses"
-date: 2020-08-06
-source-url: https://www.scoop.co.nz/stories/ED2008/S00007/kiwis-flocking-to-free-postgraduate-courses.htm
+title: Kiwis Flocking To Free* Postgraduate Courses
+date: 2020-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2008/S00007/kiwis-flocking-to-free-postgraduate-courses.htm
 author: lincoln-university
+permalink: /archive/2020/08/06/kiwis-flocking-to-free/index.html
+layout: layout.njk
 ---
 Kiwis Flocking To Free\* Postgraduate Courses
 =============================================

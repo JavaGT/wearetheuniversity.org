@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-85
-title: "Maxim Institute - real issues - No. 85"
-date: 2003-10-17
-source-url: https://www.scoop.co.nz/stories/PO0310/S00142/maxim-institute-real-issues-no-85.htm
+title: Maxim Institute - real issues - No. 85
+date: 2003-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0310/S00142/maxim-institute-real-issues-no-85.htm
 author: maxim-institute
+permalink: /archive/2003/10/17/maxim-institute-real-issues-no-85/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 85
 ======================================

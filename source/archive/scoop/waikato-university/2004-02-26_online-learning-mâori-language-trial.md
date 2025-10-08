@@ -1,9 +1,12 @@
 ---
 slug: online-learning-mâori-language-trial
-title: "Online learning Mâori language trial"
-date: 2004-02-26
-source-url: https://www.scoop.co.nz/stories/ED0402/S00084/online-learning-maori-language-trial.htm
+title: Online learning Mâori language trial
+date: 2004-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00084/online-learning-maori-language-trial.htm
 author: waikato-university
+permalink: /archive/2004/02/26/online-learning-m/index.html
+layout: layout.njk
 ---
 Online learning Mâori language trial
 ====================================

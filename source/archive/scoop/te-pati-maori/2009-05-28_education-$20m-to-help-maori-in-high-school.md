@@ -1,9 +1,12 @@
 ---
 slug: education-$20m-to-help-maori-in-high-school
-title: "EDUCATION: $20m to help Maori in high school"
-date: 2009-05-28
-source-url: https://www.scoop.co.nz/stories/PA0905/S00531/education-20m-to-help-maori-in-high-school.htm
+title: 'EDUCATION: $20m to help Maori in high school'
+date: 2009-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00531/education-20m-to-help-maori-in-high-school.htm
 author: te-pati-maori
+permalink: /archive/2009/05/28/education-/index.html
+layout: layout.njk
 ---
 EDUCATION: $20m to help Maori in high school
 ============================================

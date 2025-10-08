@@ -1,9 +1,13 @@
 ---
 slug: nz-black-fern-and-uc-student-line-up-in-annual-uc-tower-race
-title: "NZ Black Fern and UC student line up in annual UC Tower Race"
-date: 2014-03-04
-source-url: https://www.scoop.co.nz/stories/ED1403/S00014/nz-black-fern-and-uc-student-line-up-in-annual-uc-tower-race.htm
+title: NZ Black Fern and UC student line up in annual UC Tower Race
+date: 2014-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00014/nz-black-fern-and-uc-student-line-up-in-annual-uc-tower-race.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/04/nz-black-fern-and-uc-student-line-up-in-annual-uc-tower-race/index.html
+layout: layout.njk
 ---
 NZ Black Fern and UC student line up in annual UC Tower Race
 ============================================================

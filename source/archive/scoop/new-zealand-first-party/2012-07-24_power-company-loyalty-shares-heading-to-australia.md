@@ -1,9 +1,13 @@
 ---
 slug: power-company-loyalty-shares-heading-to-australia
-title: "Power Company Loyalty Shares Heading to Australia"
-date: 2012-07-24
-source-url: https://www.scoop.co.nz/stories/PA1207/S00314/power-company-loyalty-shares-heading-to-australia.htm
+title: Power Company Loyalty Shares Heading to Australia
+date: 2012-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00314/power-company-loyalty-shares-heading-to-australia.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/07/24/power-company-loyalty-shares-heading-to-australia/index.html
+layout: layout.njk
 ---
 Power Company Loyalty Shares Heading to Australia
 =================================================

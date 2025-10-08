@@ -1,9 +1,12 @@
 ---
 slug: victoria-managing-swine-flu-cases
-title: "Victoria managing swine flu cases"
-date: 2009-07-27
-source-url: https://www.scoop.co.nz/stories/ED0907/S00093/victoria-managing-swine-flu-cases.htm
+title: Victoria managing swine flu cases
+date: 2009-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00093/victoria-managing-swine-flu-cases.htm
 author: salient
+permalink: /archive/2009/07/27/victoria-managing-swine-flu-cases/index.html
+layout: layout.njk
 ---
 Victoria managing swine flu cases
 =================================

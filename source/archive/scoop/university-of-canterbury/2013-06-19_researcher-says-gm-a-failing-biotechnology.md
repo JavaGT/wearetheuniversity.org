@@ -1,9 +1,12 @@
 ---
 slug: researcher-says-gm-a-failing-biotechnology
-title: "Researcher says GM a failing biotechnology"
-date: 2013-06-19
-source-url: https://www.scoop.co.nz/stories/SC1306/S00049/researcher-says-gm-a-failing-biotechnology.htm
+title: Researcher says GM a failing biotechnology
+date: 2013-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00049/researcher-says-gm-a-failing-biotechnology.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/19/researcher-says-gm-a-failing-biotechnology/index.html
+layout: layout.njk
 ---
 Researcher says GM a failing biotechnology
 ==========================================

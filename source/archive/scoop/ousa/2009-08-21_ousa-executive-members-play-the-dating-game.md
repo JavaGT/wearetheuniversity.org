@@ -1,9 +1,12 @@
 ---
 slug: ousa-executive-members-play-the-dating-game
-title: "OUSA Executive Members Play the Dating Game"
-date: 2009-08-21
-source-url: https://www.scoop.co.nz/stories/CU0908/S00336/ousa-executive-members-play-the-dating-game.htm
+title: OUSA Executive Members Play the Dating Game
+date: 2009-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0908/S00336/ousa-executive-members-play-the-dating-game.htm
 author: ousa
+permalink: /archive/2009/08/21/ousa-executive-members-play-the-dating-game/index.html
+layout: layout.njk
 ---
 OUSA Executive Members Play the Dating Game
 ===========================================

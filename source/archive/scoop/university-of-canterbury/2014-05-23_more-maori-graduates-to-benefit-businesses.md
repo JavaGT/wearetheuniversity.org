@@ -1,9 +1,12 @@
 ---
 slug: more-maori-graduates-to-benefit-businesses
-title: "More Maori graduates to benefit businesses"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/ED1405/S00113/more-maori-graduates-to-benefit-businesses.htm
+title: More Maori graduates to benefit businesses
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00113/more-maori-graduates-to-benefit-businesses.htm
 author: university-of-canterbury
+permalink: /archive/2014/05/23/more-maori-graduates-to-benefit-businesses/index.html
+layout: layout.njk
 ---
 More Maori graduates to benefit businesses
 ==========================================

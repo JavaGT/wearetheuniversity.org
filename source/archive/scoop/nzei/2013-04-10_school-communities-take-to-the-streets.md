@@ -1,9 +1,12 @@
 ---
 slug: school-communities-take-to-the-streets
-title: "School communities take to the streets"
-date: 2013-04-10
-source-url: https://www.scoop.co.nz/stories/PO1304/S00101/school-communities-take-to-the-streets.htm
+title: School communities take to the streets
+date: 2013-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1304/S00101/school-communities-take-to-the-streets.htm
 author: nzei
+permalink: /archive/2013/04/10/school-communities-take-to-the-streets/index.html
+layout: layout.njk
 ---
 School communities take to the streets
 ======================================

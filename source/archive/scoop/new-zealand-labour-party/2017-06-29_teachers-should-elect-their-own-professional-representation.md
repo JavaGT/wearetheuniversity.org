@@ -1,9 +1,13 @@
 ---
 slug: teachers-should-elect-their-own-professional-representation
-title: "Teachers should elect their own professional representation"
-date: 2017-06-29
-source-url: https://www.scoop.co.nz/stories/PA1706/S00517/teachers-should-elect-their-own-professional-representation.htm
+title: Teachers should elect their own professional representation
+date: 2017-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00517/teachers-should-elect-their-own-professional-representation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/06/29/teachers-should-elect-their-own-professional-representation/index.html
+layout: layout.njk
 ---
 Teachers should elect their own professional representation
 ===========================================================

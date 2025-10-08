@@ -1,9 +1,13 @@
 ---
 slug: national-sidesteps-education-funding-crisis-again
-title: "National Sidesteps Education Funding Crisis - Again"
-date: 2017-08-11
-source-url: https://www.scoop.co.nz/stories/PA1708/S00237/national-sidesteps-education-funding-crisis-again.htm
+title: National Sidesteps Education Funding Crisis - Again
+date: 2017-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00237/national-sidesteps-education-funding-crisis-again.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/11/national-sidesteps-education-funding-crisis-again/index.html
+layout: layout.njk
 ---
 National Sidesteps Education Funding Crisis - Again
 ===================================================

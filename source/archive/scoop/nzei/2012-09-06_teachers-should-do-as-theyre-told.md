@@ -1,9 +1,12 @@
 ---
 slug: teachers-should-do-as-theyre-told
-title: "\"Teachers Should Do As They’re Told\""
-date: 2012-09-06
-source-url: https://www.scoop.co.nz/stories/ED1209/S00038/teachers-should-do-as-theyre-told.htm
+title: '"Teachers Should Do As They’re Told"'
+date: 2012-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00038/teachers-should-do-as-theyre-told.htm
 author: nzei
+permalink: /archive/2012/09/06/teachers-should-do-as-theyre-told/index.html
+layout: layout.njk
 ---
 “Teachers Should Do As They’re Told”
 ====================================

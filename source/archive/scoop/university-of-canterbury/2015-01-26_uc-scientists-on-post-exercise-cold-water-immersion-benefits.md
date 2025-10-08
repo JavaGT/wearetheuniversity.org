@@ -1,9 +1,13 @@
 ---
 slug: uc-scientists-on-post-exercise-cold-water-immersion-benefits
-title: "UC scientists on post-exercise cold water immersion benefits"
-date: 2015-01-26
-source-url: https://www.scoop.co.nz/stories/ED1501/S00072/uc-scientists-on-post-exercise-cold-water-immersion-benefits.htm
+title: UC scientists on post-exercise cold water immersion benefits
+date: 2015-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00072/uc-scientists-on-post-exercise-cold-water-immersion-benefits.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/26/uc-scientists-on-post-exercise-cold-water-immersion-benefits/index.html
+layout: layout.njk
 ---
 UC scientists on post-exercise cold water immersion benefits
 ============================================================

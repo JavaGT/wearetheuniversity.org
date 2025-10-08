@@ -1,9 +1,13 @@
 ---
 slug: too-many-different-types-of-eco-labels-says-uc-researcher
-title: "Too many different types of eco-labels says UC researcher"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/PO1210/S00102/too-many-different-types-of-eco-labels-says-uc-researcher.htm
+title: Too many different types of eco-labels says UC researcher
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00102/too-many-different-types-of-eco-labels-says-uc-researcher.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/09/too-many-different-types-of-eco-labels-says-uc-researcher/index.html
+layout: layout.njk
 ---
 Too many different types of eco-labels says UC researcher
 =========================================================

@@ -1,8 +1,12 @@
 ---
 slug: student-success-in-international-mediation-advocacy-competition
-title: "Student success in international mediation advocacy competition"
-date: 2017-02-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/student-success-in-international-mediation-advocacy-competition.html
+title: Student success in international mediation advocacy competition
+date: 2017-02-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/student-success-in-international-mediation-advocacy-competition.html
+permalink: >-
+  /archive/2017/02/24/student-success-in-international-mediation-advocacy-competition/index.html
+layout: layout.njk
 ---
 Student success in international mediation advocacy competition
 ===============================================================

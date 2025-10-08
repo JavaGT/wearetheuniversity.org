@@ -1,9 +1,13 @@
 ---
 slug: agricultural-science-to-suffer-without-investment
-title: "Agricultural science to suffer without investment"
-date: 2009-03-11
-source-url: https://www.scoop.co.nz/stories/PA0903/S00160/agricultural-science-to-suffer-without-investment.htm
+title: Agricultural science to suffer without investment
+date: 2009-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00160/agricultural-science-to-suffer-without-investment.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/03/11/agricultural-science-to-suffer-without-investment/index.html
+layout: layout.njk
 ---
 Agricultural science to suffer without investment
 =================================================

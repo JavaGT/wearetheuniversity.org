@@ -1,8 +1,15 @@
 ---
-slug: national-science-challenge-tackles-childhood-obesity-learning-and-mental-health
-title: "National Science Challenge tackles childhood obesity, learning and mental health"
-date: 2016-02-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/national-science-challenge-childhood-obesity-learning-mental-health.html
+slug: >-
+  national-science-challenge-tackles-childhood-obesity-learning-and-mental-health
+title: >-
+  National Science Challenge tackles childhood obesity, learning and mental
+  health
+date: 2016-02-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/national-science-challenge-childhood-obesity-learning-mental-health.html
+permalink: >-
+  /archive/2016/02/19/national-science-challenge-tackles-childhood-obesity-learning-and-mental-health/index.html
+layout: layout.njk
 ---
 National Science Challenge tackles childhood obesity, learning and mental health
 ================================================================================

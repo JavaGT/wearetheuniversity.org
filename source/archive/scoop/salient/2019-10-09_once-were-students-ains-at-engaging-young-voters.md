@@ -1,9 +1,13 @@
 ---
 slug: once-were-students-ains-at-engaging-young-voters
-title: "\"Once Were Students\" ains at engaging young voters"
-date: 2019-10-09
-source-url: https://www.scoop.co.nz/stories/PO1910/S00105/once-were-students-ains-at-engaging-young-voters.htm
+title: '"Once Were Students" ains at engaging young voters'
+date: 2019-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1910/S00105/once-were-students-ains-at-engaging-young-voters.htm
 author: salient
+permalink: >-
+  /archive/2019/10/09/once-were-students-ains-at-engaging-young-voters/index.html
+layout: layout.njk
 ---
 “Once Were Students” ains at engaging young voters
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: government-should-listen-to-nzei
-title: "Government should listen to NZEI"
-date: 2004-09-22
-source-url: https://www.scoop.co.nz/stories/ED0409/S00103/government-should-listen-to-nzei.htm
+title: Government should listen to NZEI
+date: 2004-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00103/government-should-listen-to-nzei.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/09/22/government-should-listen-to-nzei/index.html
+layout: layout.njk
 ---
 Government should listen to NZEI
 ================================

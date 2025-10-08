@@ -1,9 +1,12 @@
 ---
 slug: earthquake-affected-students-welcome-at-otago
-title: "Earthquake Affected Students Welcome at Otago"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/ED1103/S00021/earthquake-affected-students-welcome-at-otago.htm
+title: Earthquake Affected Students Welcome at Otago
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00021/earthquake-affected-students-welcome-at-otago.htm
 author: university-of-otago
+permalink: /archive/2011/03/03/earthquake-affected-students-welcome-at-otago/index.html
+layout: layout.njk
 ---
 Earthquake Affected Students Welcome at Otago
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: speech-peters-recession
-title: "Speech: Peters - Recession"
-date: 2011-03-21
+title: 'Speech: Peters - Recession'
+date: 2011-03-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1103/S00196/speech-peters-recession.htm
 author: new-zealand-first-party
+permalink: /archive/2011/03/21/speech-peters-recession/index.html
+layout: layout.njk
 ---
 Speech: Peters - Recession
 ==========================

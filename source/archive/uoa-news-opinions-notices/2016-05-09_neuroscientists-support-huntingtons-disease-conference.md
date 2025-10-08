@@ -1,8 +1,12 @@
 ---
 slug: neuroscientists-support-huntingtons-disease-conference
-title: "Neuroscientists support Huntington’s disease conference"
-date: 2016-05-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/neuroscientists-support-huntingtons-disease-conference.html
+title: Neuroscientists support Huntington’s disease conference
+date: 2016-05-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/neuroscientists-support-huntingtons-disease-conference.html
+permalink: >-
+  /archive/2016/05/09/neuroscientists-support-huntingtons-disease-conference/index.html
+layout: layout.njk
 ---
 Neuroscientists support Huntington’s disease conference
 =======================================================

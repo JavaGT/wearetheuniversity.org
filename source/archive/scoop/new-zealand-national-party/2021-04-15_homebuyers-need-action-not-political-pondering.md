@@ -1,9 +1,12 @@
 ---
 slug: homebuyers-need-action-not-political-pondering
-title: "Homebuyers Need Action, Not Political Pondering"
-date: 2021-04-15
-source-url: https://www.scoop.co.nz/stories/PA2104/S00103/homebuyers-need-action-not-political-pondering.htm
+title: Homebuyers Need Action, Not Political Pondering
+date: 2021-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00103/homebuyers-need-action-not-political-pondering.htm
 author: new-zealand-national-party
+permalink: /archive/2021/04/15/homebuyers-need-action-not-political-pondering/index.html
+layout: layout.njk
 ---
 Homebuyers Need Action, Not Political Pondering
 ===============================================

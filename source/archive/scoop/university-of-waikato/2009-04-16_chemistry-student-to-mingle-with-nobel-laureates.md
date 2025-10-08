@@ -1,9 +1,13 @@
 ---
 slug: chemistry-student-to-mingle-with-nobel-laureates
-title: "Chemistry student to mingle with Nobel laureates"
-date: 2009-04-16
-source-url: https://www.scoop.co.nz/stories/SC0904/S00024/chemistry-student-to-mingle-with-nobel-laureates.htm
+title: Chemistry student to mingle with Nobel laureates
+date: 2009-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00024/chemistry-student-to-mingle-with-nobel-laureates.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/04/16/chemistry-student-to-mingle-with-nobel-laureates/index.html
+layout: layout.njk
 ---
 Chemistry student to mingle with Nobel laureates
 ================================================

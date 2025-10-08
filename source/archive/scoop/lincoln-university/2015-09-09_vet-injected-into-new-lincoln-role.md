@@ -1,9 +1,12 @@
 ---
 slug: vet-injected-into-new-lincoln-role
-title: "Vet injected into new Lincoln role"
-date: 2015-09-09
-source-url: https://www.scoop.co.nz/stories/ED1509/S00057/vet-injected-into-new-lincoln-role.htm
+title: Vet injected into new Lincoln role
+date: 2015-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00057/vet-injected-into-new-lincoln-role.htm
 author: lincoln-university
+permalink: /archive/2015/09/09/vet-injected-into-new-lincoln-role/index.html
+layout: layout.njk
 ---
 Vet injected into new Lincoln role
 ==================================

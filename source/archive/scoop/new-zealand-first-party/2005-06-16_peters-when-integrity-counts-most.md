@@ -1,9 +1,12 @@
 ---
 slug: peters-when-integrity-counts-most
-title: "Peters - When Integrity Counts Most"
-date: 2005-06-16
-source-url: https://www.scoop.co.nz/stories/PA0506/S00349/peters-when-integrity-counts-most.htm
+title: Peters - When Integrity Counts Most
+date: 2005-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00349/peters-when-integrity-counts-most.htm
 author: new-zealand-first-party
+permalink: /archive/2005/06/16/peters-when-integrity-counts-most/index.html
+layout: layout.njk
 ---
 Peters - When Integrity Counts Most
 ===================================

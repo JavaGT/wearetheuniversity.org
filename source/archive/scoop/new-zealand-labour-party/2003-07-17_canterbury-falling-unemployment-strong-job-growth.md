@@ -1,9 +1,13 @@
 ---
 slug: canterbury-falling-unemployment-strong-job-growth
-title: "Canterbury Falling unemployment strong job growth"
-date: 2003-07-17
-source-url: https://www.scoop.co.nz/stories/PA0307/S00324/canterbury-falling-unemployment-strong-job-growth.htm
+title: Canterbury Falling unemployment strong job growth
+date: 2003-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00324/canterbury-falling-unemployment-strong-job-growth.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2003/07/17/canterbury-falling-unemployment-strong-job-growth/index.html
+layout: layout.njk
 ---
 Canterbury Falling unemployment strong job growth
 =================================================

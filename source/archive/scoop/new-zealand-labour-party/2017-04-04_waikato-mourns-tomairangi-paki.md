@@ -1,9 +1,12 @@
 ---
 slug: waikato-mourns-tomairangi-paki
-title: "Waikato Mourns Tomairangi Paki"
-date: 2017-04-04
-source-url: https://www.scoop.co.nz/stories/PA1704/S00022/waikato-mourns-tomairangi-paki.htm
+title: Waikato Mourns Tomairangi Paki
+date: 2017-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00022/waikato-mourns-tomairangi-paki.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/04/04/waikato-mourns-tomairangi-paki/index.html
+layout: layout.njk
 ---
 Waikato Mourns Tomairangi Paki
 ==============================

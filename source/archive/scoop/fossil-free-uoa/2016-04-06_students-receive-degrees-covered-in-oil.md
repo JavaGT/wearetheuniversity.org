@@ -1,9 +1,12 @@
 ---
 slug: students-receive-degrees-covered-in-oil
-title: "Students receive degrees covered in oil"
-date: 2016-04-06
-source-url: https://www.scoop.co.nz/stories/ED1604/S00015/students-receive-degrees-covered-in-oil.htm
+title: Students receive degrees covered in oil
+date: 2016-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00015/students-receive-degrees-covered-in-oil.htm
 author: fossil-free-uoa
+permalink: /archive/2016/04/06/students-receive-degrees-covered-in-oil/index.html
+layout: layout.njk
 ---
 Students receive degrees covered in oil
 =======================================

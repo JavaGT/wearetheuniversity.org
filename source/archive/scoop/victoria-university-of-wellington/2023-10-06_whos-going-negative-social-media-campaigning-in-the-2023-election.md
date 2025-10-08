@@ -1,9 +1,13 @@
 ---
 slug: whos-going-negative-social-media-campaigning-in-the-2023-election
-title: "Who’s Going Negative? Social Media Campaigning In The 2023 Election"
-date: 2023-10-06
-source-url: https://www.scoop.co.nz/stories/PO2310/S00065/whos-going-negative-social-media-campaigning-in-the-2023-election.htm
+title: Who’s Going Negative? Social Media Campaigning In The 2023 Election
+date: 2023-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2310/S00065/whos-going-negative-social-media-campaigning-in-the-2023-election.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2023/10/06/whos-going-negative-social-media-campaigning-in-the-2023-election/index.html
+layout: layout.njk
 ---
 Who’s Going Negative? Social Media Campaigning In The 2023 Election
 ===================================================================

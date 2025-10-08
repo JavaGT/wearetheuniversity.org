@@ -1,9 +1,12 @@
 ---
 slug: blowout-highlights-need-for-ppps
-title: "Blowout highlights need for PPPs"
-date: 2006-01-19
-source-url: https://www.scoop.co.nz/stories/PA0601/S00069/blowout-highlights-need-for-ppps.htm
+title: Blowout highlights need for PPPs
+date: 2006-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00069/blowout-highlights-need-for-ppps.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/19/blowout-highlights-need-for-ppps/index.html
+layout: layout.njk
 ---
 Blowout highlights need for PPPs
 ================================

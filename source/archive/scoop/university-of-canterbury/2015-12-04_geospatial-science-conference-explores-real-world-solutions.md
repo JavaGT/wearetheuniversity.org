@@ -1,9 +1,13 @@
 ---
 slug: geospatial-science-conference-explores-real-world-solutions
-title: "Geospatial Science Conference explores real-world solutions"
-date: 2015-12-04
-source-url: https://www.scoop.co.nz/stories/SC1512/S00028/geospatial-science-conference-explores-real-world-solutions.htm
+title: Geospatial Science Conference explores real-world solutions
+date: 2015-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00028/geospatial-science-conference-explores-real-world-solutions.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/12/04/geospatial-science-conference-explores-real-world-solutions/index.html
+layout: layout.njk
 ---
 Geospatial Science Conference explores real-world solutions
 ===========================================================

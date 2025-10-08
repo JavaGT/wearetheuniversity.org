@@ -1,9 +1,12 @@
 ---
 slug: understanding-gay-a-public-lecture
-title: "Understanding gay – a public lecture"
-date: 2018-10-15
-source-url: https://www.scoop.co.nz/stories/PO1810/S00204/understanding-gay-a-public-lecture.htm
+title: Understanding gay – a public lecture
+date: 2018-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00204/understanding-gay-a-public-lecture.htm
 author: massey-university
+permalink: /archive/2018/10/15/understanding-gay-a-public-lecture/index.html
+layout: layout.njk
 ---
 Understanding gay – a public lecture
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: government-exposed-over-timber-issue
-title: "Government exposed over timber issue"
-date: 2007-09-11
-source-url: https://www.scoop.co.nz/stories/PA0709/S00178/government-exposed-over-timber-issue.htm
+title: Government exposed over timber issue
+date: 2007-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00178/government-exposed-over-timber-issue.htm
 author: green-party
+permalink: /archive/2007/09/11/government-exposed-over-timber-issue/index.html
+layout: layout.njk
 ---
 Government exposed over timber issue
 ====================================

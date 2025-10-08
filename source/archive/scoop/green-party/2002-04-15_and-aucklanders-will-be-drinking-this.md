@@ -1,9 +1,12 @@
 ---
 slug: and-aucklanders-will-be-drinking-this
-title: "And Aucklanders Will Be Drinking This?"
-date: 2002-04-15
-source-url: https://www.scoop.co.nz/stories/PA0204/S00202/and-aucklanders-will-be-drinking-this.htm
+title: And Aucklanders Will Be Drinking This?
+date: 2002-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00202/and-aucklanders-will-be-drinking-this.htm
 author: green-party
+permalink: /archive/2002/04/15/and-aucklanders-will-be-drinking-this/index.html
+layout: layout.njk
 ---
 And Aucklanders Will Be Drinking This?
 ======================================

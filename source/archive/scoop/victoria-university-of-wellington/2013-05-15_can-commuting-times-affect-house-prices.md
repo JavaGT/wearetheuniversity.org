@@ -1,9 +1,12 @@
 ---
 slug: can-commuting-times-affect-house-prices
-title: "Can Commuting Times Affect House Prices?"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/BU1305/S00581/can-commuting-times-affect-house-prices.htm
+title: Can Commuting Times Affect House Prices?
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1305/S00581/can-commuting-times-affect-house-prices.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/15/can-commuting-times-affect-house-prices/index.html
+layout: layout.njk
 ---
 Can Commuting Times Affect House Prices?
 ========================================

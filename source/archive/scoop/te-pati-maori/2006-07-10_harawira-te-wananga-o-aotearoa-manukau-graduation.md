@@ -1,9 +1,13 @@
 ---
 slug: harawira-te-wananga-o-aotearoa-manukau-graduation
-title: "Harawira: Te Wananga o Aotearoa Manukau Graduation"
-date: 2006-07-10
-source-url: https://www.scoop.co.nz/stories/PA0607/S00118/harawira-te-wananga-o-aotearoa-manukau-graduation.htm
+title: 'Harawira: Te Wananga o Aotearoa Manukau Graduation'
+date: 2006-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00118/harawira-te-wananga-o-aotearoa-manukau-graduation.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/07/10/harawira-te-wananga-o-aotearoa-manukau-graduation/index.html
+layout: layout.njk
 ---
 Harawira: Te Wananga o Aotearoa Manukau Graduation
 ==================================================

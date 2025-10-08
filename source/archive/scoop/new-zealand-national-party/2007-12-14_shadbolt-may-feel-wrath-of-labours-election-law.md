@@ -1,9 +1,12 @@
 ---
 slug: shadbolt-may-feel-wrath-of-labours-election-law
-title: "Shadbolt may feel wrath of Labour's election law"
-date: 2007-12-14
-source-url: https://www.scoop.co.nz/stories/PA0712/S00343/shadbolt-may-feel-wrath-of-labours-election-law.htm
+title: Shadbolt may feel wrath of Labour's election law
+date: 2007-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00343/shadbolt-may-feel-wrath-of-labours-election-law.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/14/shadbolt-may-feel-wrath-of-labours-election-law/index.html
+layout: layout.njk
 ---
 Shadbolt may feel wrath of Labour's election law
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: media-commentator-calls-for-civil-service-to-be-reined-in
-title: "Media Commentator Calls for Civil Service to be Reined In"
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/PO1307/S00398/media-commentator-calls-for-civil-service-to-be-reined-in.htm
+title: Media Commentator Calls for Civil Service to be Reined In
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00398/media-commentator-calls-for-civil-service-to-be-reined-in.htm
 author: massey-university
+permalink: >-
+  /archive/2013/07/31/media-commentator-calls-for-civil-service-to-be-reined-in/index.html
+layout: layout.njk
 ---
 Media Commentator Calls for Civil Service to be Reined In
 =========================================================

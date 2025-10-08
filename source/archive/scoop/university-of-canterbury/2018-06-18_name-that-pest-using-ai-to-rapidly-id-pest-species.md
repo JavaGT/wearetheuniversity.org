@@ -1,9 +1,13 @@
 ---
 slug: name-that-pest-using-ai-to-rapidly-id-pest-species
-title: "Name that pest – Using AI to rapidly ID pest species"
-date: 2018-06-18
-source-url: https://www.scoop.co.nz/stories/SC1806/S00047/name-that-pest-using-ai-to-rapidly-id-pest-species.htm
+title: Name that pest – Using AI to rapidly ID pest species
+date: 2018-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00047/name-that-pest-using-ai-to-rapidly-id-pest-species.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/18/name-that-pest-using-ai-to-rapidly-id-pest-species/index.html
+layout: layout.njk
 ---
 Name that pest – Using AI to rapidly ID pest species
 ====================================================

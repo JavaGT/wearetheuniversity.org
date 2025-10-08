@@ -1,9 +1,12 @@
 ---
 slug: wellington-will-march-against-war
-title: "Wellington will march against war"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/PO1505/S00115/wellington-will-march-against-war.htm
+title: Wellington will march against war
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00115/wellington-will-march-against-war.htm
 author: peace-action-wellington
+permalink: /archive/2015/05/11/wellington-will-march-against-war/index.html
+layout: layout.njk
 ---
 Wellington will march against war
 =================================

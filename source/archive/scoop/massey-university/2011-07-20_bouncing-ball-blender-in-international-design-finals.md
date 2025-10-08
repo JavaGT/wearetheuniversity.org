@@ -1,9 +1,13 @@
 ---
 slug: bouncing-ball-blender-in-international-design-finals
-title: "Bouncing ball blender in international design finals"
-date: 2011-07-20
-source-url: https://www.scoop.co.nz/stories/ED1107/S00082/bouncing-ball-blender-in-international-design-finals.htm
+title: Bouncing ball blender in international design finals
+date: 2011-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00082/bouncing-ball-blender-in-international-design-finals.htm
 author: massey-university
+permalink: >-
+  /archive/2011/07/20/bouncing-ball-blender-in-international-design-finals/index.html
+layout: layout.njk
 ---
 Bouncing ball blender in international design finals
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: events-in-paris-a-serious-matter-for-new-zealand
-title: "Events in Paris, a Serious Matter for New Zealand"
-date: 2015-11-15
-source-url: https://www.scoop.co.nz/stories/PA1511/S00276/events-in-paris-a-serious-matter-for-new-zealand.htm
+title: Events in Paris, a Serious Matter for New Zealand
+date: 2015-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00276/events-in-paris-a-serious-matter-for-new-zealand.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/11/15/events-in-paris-a-serious-matter-for-new-zealand/index.html
+layout: layout.njk
 ---
 Events in Paris, a Serious Matter for New Zealand
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: one-of-two-additional-rotorua-miq-hotels-quarantine-facility
-title: "One Of Two Additional Rotorua MIQ Hotels, Quarantine Facility"
-date: 2021-09-21
-source-url: https://www.scoop.co.nz/stories/PA2109/S00179/one-of-two-additional-rotorua-miq-hotels-quarantine-facility.htm
+title: One Of Two Additional Rotorua MIQ Hotels, Quarantine Facility
+date: 2021-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00179/one-of-two-additional-rotorua-miq-hotels-quarantine-facility.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2021/09/21/one-of-two-additional-rotorua-miq-hotels-quarantine-facility/index.html
+layout: layout.njk
 ---
 One Of Two Additional Rotorua MIQ Hotels, Quarantine Facility
 =============================================================

@@ -1,9 +1,12 @@
 ---
 slug: in-remembrance-of-sir-frank-holmes
-title: "In remembrance of Sir Frank Holmes"
-date: 2011-10-23
-source-url: https://www.scoop.co.nz/stories/ED1110/S00103/in-remembrance-of-sir-frank-holmes.htm
+title: In remembrance of Sir Frank Holmes
+date: 2011-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00103/in-remembrance-of-sir-frank-holmes.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/10/23/in-remembrance-of-sir-frank-holmes/index.html
+layout: layout.njk
 ---
 In remembrance of Sir Frank Holmes
 ==================================

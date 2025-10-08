@@ -1,9 +1,13 @@
 ---
 slug: international-researchers-visit-nz-to-study-earthquakes
-title: "International researchers visit NZ to study earthquakes"
-date: 2019-05-09
-source-url: https://www.scoop.co.nz/stories/ED1905/S00028/international-researchers-visit-nz-to-study-earthquakes.htm
+title: International researchers visit NZ to study earthquakes
+date: 2019-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00028/international-researchers-visit-nz-to-study-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/05/09/international-researchers-visit-nz-to-study-earthquakes/index.html
+layout: layout.njk
 ---
 International researchers visit NZ to study earthquakes
 =======================================================

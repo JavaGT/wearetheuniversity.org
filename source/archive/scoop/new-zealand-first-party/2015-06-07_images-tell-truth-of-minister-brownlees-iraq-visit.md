@@ -1,9 +1,13 @@
 ---
 slug: images-tell-truth-of-minister-brownlees-iraq-visit
-title: "Images Tell Truth of Minister Brownlee’s Iraq Visit"
-date: 2015-06-07
-source-url: https://www.scoop.co.nz/stories/PA1506/S00117/images-tell-truth-of-minister-brownlees-iraq-visit.htm
+title: Images Tell Truth of Minister Brownlee’s Iraq Visit
+date: 2015-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00117/images-tell-truth-of-minister-brownlees-iraq-visit.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/06/07/images-tell-truth-of-minister-brownlees-iraq-visit/index.html
+layout: layout.njk
 ---
 Images Tell Truth of Minister Brownlee’s Iraq Visit
 ===================================================

@@ -1,9 +1,11 @@
 ---
 slug: quality-for-kiwi-kids-at-ece
-title: "Quality for Kiwi kids at ECE"
-date: 2017-07-14
+title: Quality for Kiwi kids at ECE
+date: 2017-07-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1707/S00220/quality-for-kiwi-kids-at-ece.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/14/quality-for-kiwi-kids-at-ece/index.html
+layout: layout.njk
 ---
 Quality for Kiwi kids at ECE
 ============================

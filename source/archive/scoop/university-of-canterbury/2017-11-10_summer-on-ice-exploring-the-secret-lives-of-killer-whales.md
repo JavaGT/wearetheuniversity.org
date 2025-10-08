@@ -1,9 +1,13 @@
 ---
 slug: summer-on-ice-exploring-the-secret-lives-of-killer-whales
-title: "Summer on Ice Exploring the Secret Lives of Killer Whales"
-date: 2017-11-10
-source-url: https://www.scoop.co.nz/stories/ED1711/S00046/summer-on-ice-exploring-the-secret-lives-of-killer-whales.htm
+title: Summer on Ice Exploring the Secret Lives of Killer Whales
+date: 2017-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00046/summer-on-ice-exploring-the-secret-lives-of-killer-whales.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/10/summer-on-ice-exploring-the-secret-lives-of-killer-whales/index.html
+layout: layout.njk
 ---
 Summer on Ice Exploring the Secret Lives of Killer Whales
 =========================================================

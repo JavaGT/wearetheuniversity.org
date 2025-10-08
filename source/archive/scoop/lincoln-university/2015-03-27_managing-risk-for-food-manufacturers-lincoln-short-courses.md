@@ -1,9 +1,13 @@
 ---
 slug: managing-risk-for-food-manufacturers-lincoln-short-courses
-title: "Managing risk for food manufacturers: Lincoln short courses"
-date: 2015-03-27
-source-url: https://www.scoop.co.nz/stories/ED1503/S00122/managing-risk-for-food-manufacturers-lincoln-short-courses.htm
+title: 'Managing risk for food manufacturers: Lincoln short courses'
+date: 2015-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00122/managing-risk-for-food-manufacturers-lincoln-short-courses.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/03/27/managing-risk-for-food-manufacturers-lincoln-short-courses/index.html
+layout: layout.njk
 ---
 Managing risk for food manufacturers: Lincoln short courses
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-wrong-about-small-schools
-title: "Labour wrong about small schools"
-date: 2004-04-06
-source-url: https://www.scoop.co.nz/stories/PA0404/S00106/labour-wrong-about-small-schools.htm
+title: Labour wrong about small schools
+date: 2004-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00106/labour-wrong-about-small-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/06/labour-wrong-about-small-schools/index.html
+layout: layout.njk
 ---
 Labour wrong about small schools
 ================================

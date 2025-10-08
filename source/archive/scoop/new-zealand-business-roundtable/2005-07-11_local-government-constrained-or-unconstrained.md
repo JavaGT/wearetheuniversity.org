@@ -1,9 +1,12 @@
 ---
 slug: local-government-constrained-or-unconstrained
-title: "Local Government: Constrained Or Unconstrained?"
-date: 2005-07-11
-source-url: https://www.scoop.co.nz/stories/BU0507/S00137/local-government-constrained-or-unconstrained.htm
+title: 'Local Government: Constrained Or Unconstrained?'
+date: 2005-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0507/S00137/local-government-constrained-or-unconstrained.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/07/11/local-government-constrained-or-unconstrained/index.html
+layout: layout.njk
 ---
 Local Government: Constrained Or Unconstrained?
 ===============================================

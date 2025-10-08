@@ -1,9 +1,13 @@
 ---
 slug: nzei-hopes-to-forge-working-relationship-with-new-minister
-title: "NZEI hopes to forge working relationship with new minister"
-date: 2011-12-12
-source-url: https://www.scoop.co.nz/stories/PO1112/S00145/nzei-hopes-to-forge-working-relationship-with-new-minister.htm
+title: NZEI hopes to forge working relationship with new minister
+date: 2011-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1112/S00145/nzei-hopes-to-forge-working-relationship-with-new-minister.htm
 author: nzei
+permalink: >-
+  /archive/2011/12/12/nzei-hopes-to-forge-working-relationship-with-new-minister/index.html
+layout: layout.njk
 ---
 NZEI hopes to forge working relationship with new minister
 ==========================================================

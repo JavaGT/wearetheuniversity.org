@@ -1,9 +1,12 @@
 ---
 slug: café-scientifique-to-discuss-how-to-protect-kiwifruit
-title: "Café Scientifique to discuss how to protect kiwifruit"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/ED1407/S00094/cafe-scientifique-to-discuss-how-to-protect-kiwifruit.htm
+title: Café Scientifique to discuss how to protect kiwifruit
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00094/cafe-scientifique-to-discuss-how-to-protect-kiwifruit.htm
 author: university-of-waikato
+permalink: /archive/2014/07/21/caf/index.html
+layout: layout.njk
 ---
 Café Scientifique to discuss how to protect kiwifruit
 =====================================================

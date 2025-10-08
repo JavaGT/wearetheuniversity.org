@@ -1,9 +1,12 @@
 ---
 slug: ryalls-water-moratorium-comes-at-cost-to-health
-title: "Ryall’s water moratorium comes at cost to health"
-date: 2009-12-03
-source-url: https://www.scoop.co.nz/stories/PA0912/S00041/ryalls-water-moratorium-comes-at-cost-to-health.htm
+title: Ryall’s water moratorium comes at cost to health
+date: 2009-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00041/ryalls-water-moratorium-comes-at-cost-to-health.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/03/ryalls-water-moratorium-comes-at-cost-to-health/index.html
+layout: layout.njk
 ---
 Ryall’s water moratorium comes at cost to health
 ================================================

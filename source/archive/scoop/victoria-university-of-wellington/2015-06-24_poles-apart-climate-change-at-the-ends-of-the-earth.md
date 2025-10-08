@@ -1,9 +1,13 @@
 ---
 slug: poles-apart-climate-change-at-the-ends-of-the-earth
-title: "Poles apart: Climate change at the ends of the earth"
-date: 2015-06-24
-source-url: https://www.scoop.co.nz/stories/SC1506/S00094/poles-apart-climate-change-at-the-ends-of-the-earth.htm
+title: 'Poles apart: Climate change at the ends of the earth'
+date: 2015-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00094/poles-apart-climate-change-at-the-ends-of-the-earth.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/06/24/poles-apart-climate-change-at-the-ends-of-the-earth/index.html
+layout: layout.njk
 ---
 Poles apart: Climate change at the ends of the earth
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-honorary-doctorate-for-analytical-testing-mainstay
-title: "Waikato honorary doctorate for analytical testing mainstay"
-date: 2012-10-08
-source-url: https://www.scoop.co.nz/stories/ED1210/S00051/waikato-honorary-doctorate-for-analytical-testing-mainstay.htm
+title: Waikato honorary doctorate for analytical testing mainstay
+date: 2012-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00051/waikato-honorary-doctorate-for-analytical-testing-mainstay.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/10/08/waikato-honorary-doctorate-for-analytical-testing-mainstay/index.html
+layout: layout.njk
 ---
 Waikato honorary doctorate for analytical testing mainstay
 ==========================================================

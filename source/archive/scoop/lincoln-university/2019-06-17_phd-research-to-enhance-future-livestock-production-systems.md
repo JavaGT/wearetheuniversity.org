@@ -1,9 +1,13 @@
 ---
 slug: phd-research-to-enhance-future-livestock-production-systems
-title: "PhD research to enhance future livestock production systems"
-date: 2019-06-17
-source-url: https://www.scoop.co.nz/stories/ED1906/S00034/phd-research-to-enhance-future-livestock-production-systems.htm
+title: PhD research to enhance future livestock production systems
+date: 2019-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1906/S00034/phd-research-to-enhance-future-livestock-production-systems.htm
 author: lincoln-university
+permalink: >-
+  /archive/2019/06/17/phd-research-to-enhance-future-livestock-production-systems/index.html
+layout: layout.njk
 ---
 PhD research to enhance future livestock production systems
 ===========================================================

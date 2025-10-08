@@ -1,9 +1,12 @@
 ---
 slug: tolley-should-listen-to-kids-over-enviroschools
-title: "Tolley should listen to kids over enviroschools"
-date: 2009-08-19
-source-url: https://www.scoop.co.nz/stories/PA0908/S00253/tolley-should-listen-to-kids-over-enviroschools.htm
+title: Tolley should listen to kids over enviroschools
+date: 2009-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00253/tolley-should-listen-to-kids-over-enviroschools.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/19/tolley-should-listen-to-kids-over-enviroschools/index.html
+layout: layout.njk
 ---
 Tolley should listen to kids over enviroschools
 ===============================================

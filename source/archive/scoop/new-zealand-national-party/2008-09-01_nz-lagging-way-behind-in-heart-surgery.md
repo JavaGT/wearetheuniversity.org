@@ -1,9 +1,12 @@
 ---
 slug: nz-lagging-way-behind-in-heart-surgery
-title: "NZ lagging way behind in heart surgery"
-date: 2008-09-01
-source-url: https://www.scoop.co.nz/stories/PA0809/S00006/nz-lagging-way-behind-in-heart-surgery.htm
+title: NZ lagging way behind in heart surgery
+date: 2008-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00006/nz-lagging-way-behind-in-heart-surgery.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/01/nz-lagging-way-behind-in-heart-surgery/index.html
+layout: layout.njk
 ---
 NZ lagging way behind in heart surgery
 ======================================

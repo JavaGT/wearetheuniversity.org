@@ -1,9 +1,12 @@
 ---
 slug: over-15000-sign-labours-open-letter-to-luxon
-title: "Over 15,000 Sign Labour’s Open Letter To Luxon"
-date: 2024-11-14
-source-url: https://www.scoop.co.nz/stories/PA2411/S00102/over-15000-sign-labours-open-letter-to-luxon.htm
+title: Over 15,000 Sign Labour’s Open Letter To Luxon
+date: 2024-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00102/over-15000-sign-labours-open-letter-to-luxon.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/11/14/over-15000-sign-labours-open-letter-to-luxon/index.html
+layout: layout.njk
 ---
 Over 15,000 Sign Labour’s Open Letter To Luxon
 ==============================================

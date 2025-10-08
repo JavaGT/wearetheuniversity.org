@@ -1,9 +1,12 @@
 ---
 slug: wave-of-interest-in-new-cancer-therapy
-title: "Wave of interest in new cancer therapy"
-date: 2011-10-31
-source-url: https://www.scoop.co.nz/stories/ED1110/S00140/wave-of-interest-in-new-cancer-therapy.htm
+title: Wave of interest in new cancer therapy
+date: 2011-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00140/wave-of-interest-in-new-cancer-therapy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/10/31/wave-of-interest-in-new-cancer-therapy/index.html
+layout: layout.njk
 ---
 Wave of interest in new cancer therapy
 ======================================

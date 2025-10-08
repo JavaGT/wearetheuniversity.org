@@ -1,9 +1,12 @@
 ---
 slug: australian-first-recipient-of-new-lincoln-medal
-title: "Australian first recipient of new Lincoln medal"
-date: 2003-10-20
-source-url: https://www.scoop.co.nz/stories/ED0310/S00078/australian-first-recipient-of-new-lincoln-medal.htm
+title: Australian first recipient of new Lincoln medal
+date: 2003-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00078/australian-first-recipient-of-new-lincoln-medal.htm
 author: lincoln-university
+permalink: /archive/2003/10/20/australian-first-recipient-of-new-lincoln-medal/index.html
+layout: layout.njk
 ---
 Australian first recipient of new Lincoln medal
 ===============================================

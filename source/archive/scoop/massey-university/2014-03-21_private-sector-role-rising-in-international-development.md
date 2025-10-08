@@ -1,9 +1,13 @@
 ---
 slug: private-sector-role-rising-in-international-development
-title: "Private sector role rising in international development"
-date: 2014-03-21
-source-url: https://www.scoop.co.nz/stories/ED1403/S00130/private-sector-role-rising-in-international-development.htm
+title: Private sector role rising in international development
+date: 2014-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00130/private-sector-role-rising-in-international-development.htm
 author: massey-university
+permalink: >-
+  /archive/2014/03/21/private-sector-role-rising-in-international-development/index.html
+layout: layout.njk
 ---
 Private sector role rising in international development
 =======================================================

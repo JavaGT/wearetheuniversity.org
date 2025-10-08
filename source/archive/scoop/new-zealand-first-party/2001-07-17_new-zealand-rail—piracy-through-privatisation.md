@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-rail—piracy-through-privatisation
-title: "New Zealand Rail—Piracy Through Privatisation"
-date: 2001-07-17
-source-url: https://www.scoop.co.nz/stories/PA0107/S00263/new-zealand-rail-piracy-through-privatisation.htm
+title: New Zealand Rail—Piracy Through Privatisation
+date: 2001-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00263/new-zealand-rail-piracy-through-privatisation.htm
 author: new-zealand-first-party
+permalink: /archive/2001/07/17/new-zealand-rail/index.html
+layout: layout.njk
 ---
 New Zealand Rail—Piracy Through Privatisation
 =============================================

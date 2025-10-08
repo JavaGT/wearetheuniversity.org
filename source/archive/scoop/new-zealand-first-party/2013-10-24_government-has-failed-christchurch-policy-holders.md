@@ -1,9 +1,13 @@
 ---
 slug: government-has-failed-christchurch-policy-holders
-title: "Government Has Failed Christchurch Policy Holders"
-date: 2013-10-24
-source-url: https://www.scoop.co.nz/stories/PA1310/S00394/government-has-failed-christchurch-policy-holders.htm
+title: Government Has Failed Christchurch Policy Holders
+date: 2013-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00394/government-has-failed-christchurch-policy-holders.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/10/24/government-has-failed-christchurch-policy-holders/index.html
+layout: layout.njk
 ---
 Government Has Failed Christchurch Policy Holders
 =================================================

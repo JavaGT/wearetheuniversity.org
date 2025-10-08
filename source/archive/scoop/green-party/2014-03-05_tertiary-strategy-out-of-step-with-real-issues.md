@@ -1,9 +1,12 @@
 ---
 slug: tertiary-strategy-out-of-step-with-real-issues
-title: "Tertiary strategy out of step with real issues"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/PA1403/S00070/tertiary-strategy-out-of-step-with-real-issues.htm
+title: Tertiary strategy out of step with real issues
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00070/tertiary-strategy-out-of-step-with-real-issues.htm
 author: green-party
+permalink: /archive/2014/03/05/tertiary-strategy-out-of-step-with-real-issues/index.html
+layout: layout.njk
 ---
 Tertiary strategy out of step with real issues
 ==============================================

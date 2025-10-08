@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-calling-out-the-greens
-title: "Speech: Peters -  Calling Out the Greens"
-date: 2017-07-09
-source-url: https://www.scoop.co.nz/stories/PA1707/S00139/speech-peters-calling-out-the-greens.htm
+title: 'Speech: Peters -  Calling Out the Greens'
+date: 2017-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00139/speech-peters-calling-out-the-greens.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/09/speech-peters-calling-out-the-greens/index.html
+layout: layout.njk
 ---
 Speech: Peters - Calling Out the Greens
 =======================================

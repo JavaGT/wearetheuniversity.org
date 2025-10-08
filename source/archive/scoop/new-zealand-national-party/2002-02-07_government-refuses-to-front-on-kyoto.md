@@ -1,9 +1,12 @@
 ---
 slug: government-refuses-to-front-on-kyoto
-title: "Government Refuses To Front On Kyoto"
-date: 2002-02-07
-source-url: https://www.scoop.co.nz/stories/PA0202/S00047/government-refuses-to-front-on-kyoto.htm
+title: Government Refuses To Front On Kyoto
+date: 2002-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00047/government-refuses-to-front-on-kyoto.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/07/government-refuses-to-front-on-kyoto/index.html
+layout: layout.njk
 ---
 Government Refuses To Front On Kyoto
 ====================================

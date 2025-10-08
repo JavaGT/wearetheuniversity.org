@@ -1,9 +1,12 @@
 ---
 slug: government-must-stand-by-commitment
-title: "Government must stand by commitment"
-date: 2011-06-23
-source-url: https://www.scoop.co.nz/stories/PA1106/S00414/government-must-stand-by-commitment.htm
+title: Government must stand by commitment
+date: 2011-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00414/government-must-stand-by-commitment.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/23/government-must-stand-by-commitment/index.html
+layout: layout.njk
 ---
 Government must stand by commitment
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: staff-shortages-threaten-future-opportunities
-title: "Staff Shortages Threaten Future Opportunities"
-date: 2011-02-01
-source-url: https://www.scoop.co.nz/stories/ED1102/S00001/staff-shortages-threaten-future-opportunities.htm
+title: Staff Shortages Threaten Future Opportunities
+date: 2011-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00001/staff-shortages-threaten-future-opportunities.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/02/01/staff-shortages-threaten-future-opportunities/index.html
+layout: layout.njk
 ---
 Staff Shortages Threaten Future Opportunities
 =============================================

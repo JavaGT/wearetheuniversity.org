@@ -1,9 +1,12 @@
 ---
 slug: unique-international-conference-in-wellington
-title: "Unique international conference in Wellington"
-date: 2010-12-08
-source-url: https://www.scoop.co.nz/stories/PO1012/S00075/unique-international-conference-in-wellington.htm
+title: Unique international conference in Wellington
+date: 2010-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00075/unique-international-conference-in-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/12/08/unique-international-conference-in-wellington/index.html
+layout: layout.njk
 ---
 Unique international conference in Wellington
 =============================================

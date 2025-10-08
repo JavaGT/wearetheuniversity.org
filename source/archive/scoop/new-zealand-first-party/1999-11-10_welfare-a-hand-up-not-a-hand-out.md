@@ -1,9 +1,12 @@
 ---
 slug: welfare-a-hand-up-not-a-hand-out
-title: "Welfare - A Hand-Up, Not A Hand-Out"
-date: 1999-11-10
-source-url: https://www.scoop.co.nz/stories/PA9911/S00249/welfare-a-hand-up-not-a-hand-out.htm
+title: Welfare - A Hand-Up, Not A Hand-Out
+date: 1999-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00249/welfare-a-hand-up-not-a-hand-out.htm
 author: new-zealand-first-party
+permalink: /archive/1999/11/10/welfare-a-hand-up-not-a-hand-out/index.html
+layout: layout.njk
 ---
 Welfare - A Hand-Up, Not A Hand-Out
 ===================================

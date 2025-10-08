@@ -1,9 +1,12 @@
 ---
 slug: key-must-put-an-end-to-boundary-nonsense-now
-title: "Key must put an end to boundary nonsense now"
-date: 2009-09-14
-source-url: https://www.scoop.co.nz/stories/PA0909/S00184/key-must-put-an-end-to-boundary-nonsense-now.htm
+title: Key must put an end to boundary nonsense now
+date: 2009-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00184/key-must-put-an-end-to-boundary-nonsense-now.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/14/key-must-put-an-end-to-boundary-nonsense-now/index.html
+layout: layout.njk
 ---
 Key must put an end to boundary nonsense now
 ============================================

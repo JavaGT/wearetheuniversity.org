@@ -1,9 +1,11 @@
 ---
 slug: acts-the-letter-13-june-2005
-title: "ACT’s The Letter 13 June 2005"
-date: 2005-06-13
+title: ACT’s The Letter 13 June 2005
+date: 2005-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0506/S00256/acts-the-letter-13-june-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/06/13/acts-the-letter-13-june-2005/index.html
+layout: layout.njk
 ---
 ACT’s The Letter 13 June 2005
 =============================

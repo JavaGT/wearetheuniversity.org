@@ -1,9 +1,12 @@
 ---
 slug: transplant-tourism-and-organ-trafficking
-title: "Transplant tourism and organ trafficking"
-date: 2012-10-26
-source-url: https://www.scoop.co.nz/stories/PO1210/S00411/transplant-tourism-and-organ-trafficking.htm
+title: Transplant tourism and organ trafficking
+date: 2012-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00411/transplant-tourism-and-organ-trafficking.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/26/transplant-tourism-and-organ-trafficking/index.html
+layout: layout.njk
 ---
 Transplant tourism and organ trafficking
 ========================================

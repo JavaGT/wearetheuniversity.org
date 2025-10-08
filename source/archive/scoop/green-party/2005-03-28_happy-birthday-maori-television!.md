@@ -1,9 +1,12 @@
 ---
 slug: happy-birthday-maori-television!
-title: "Happy birthday Maori Television!"
-date: 2005-03-28
-source-url: https://www.scoop.co.nz/stories/PA0503/S00520/happy-birthday-maori-television.htm
+title: Happy birthday Maori Television!
+date: 2005-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00520/happy-birthday-maori-television.htm
 author: green-party
+permalink: /archive/2005/03/28/happy-birthday-maori-television/index.html
+layout: layout.njk
 ---
 Happy birthday Maori Television!
 ================================

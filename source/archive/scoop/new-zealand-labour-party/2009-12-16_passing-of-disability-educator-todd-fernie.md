@@ -1,9 +1,12 @@
 ---
 slug: passing-of-disability-educator-todd-fernie
-title: "Passing of disability educator Todd Fernie"
-date: 2009-12-16
-source-url: https://www.scoop.co.nz/stories/PA0912/S00292/passing-of-disability-educator-todd-fernie.htm
+title: Passing of disability educator Todd Fernie
+date: 2009-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00292/passing-of-disability-educator-todd-fernie.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/16/passing-of-disability-educator-todd-fernie/index.html
+layout: layout.njk
 ---
 Passing of disability educator Todd Fernie
 ==========================================

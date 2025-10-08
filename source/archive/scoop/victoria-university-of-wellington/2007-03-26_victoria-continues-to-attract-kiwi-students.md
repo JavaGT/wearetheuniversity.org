@@ -1,9 +1,12 @@
 ---
 slug: victoria-continues-to-attract-kiwi-students
-title: "Victoria continues to attract Kiwi students"
-date: 2007-03-26
-source-url: https://www.scoop.co.nz/stories/ED0703/S00086/victoria-continues-to-attract-kiwi-students.htm
+title: Victoria continues to attract Kiwi students
+date: 2007-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00086/victoria-continues-to-attract-kiwi-students.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/03/26/victoria-continues-to-attract-kiwi-students/index.html
+layout: layout.njk
 ---
 Victoria continues to attract Kiwi students
 ===========================================

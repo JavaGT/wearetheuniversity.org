@@ -1,9 +1,13 @@
 ---
 slug: omega-3-key-in-reducing-diabetes-and-heart-disease
-title: "Omega-3 key in reducing diabetes and heart disease"
-date: 2011-11-01
-source-url: https://www.scoop.co.nz/stories/ED1111/S00006/omega-3-key-in-reducing-diabetes-and-heart-disease.htm
+title: Omega-3 key in reducing diabetes and heart disease
+date: 2011-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00006/omega-3-key-in-reducing-diabetes-and-heart-disease.htm
 author: massey-university
+permalink: >-
+  /archive/2011/11/01/omega-3-key-in-reducing-diabetes-and-heart-disease/index.html
+layout: layout.njk
 ---
 Omega-3 key in reducing diabetes and heart disease
 ==================================================

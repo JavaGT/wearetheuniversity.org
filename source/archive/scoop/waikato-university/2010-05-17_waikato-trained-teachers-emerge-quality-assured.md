@@ -1,9 +1,12 @@
 ---
 slug: waikato-trained-teachers-emerge-quality-assured
-title: "Waikato Trained Teachers Emerge Quality-Assured"
-date: 2010-05-17
-source-url: https://www.scoop.co.nz/stories/ED1005/S00065/waikato-trained-teachers-emerge-quality-assured.htm
+title: Waikato Trained Teachers Emerge Quality-Assured
+date: 2010-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00065/waikato-trained-teachers-emerge-quality-assured.htm
 author: waikato-university
+permalink: /archive/2010/05/17/waikato-trained-teachers-emerge-quality-assured/index.html
+layout: layout.njk
 ---
 Waikato Trained Teachers Emerge Quality-Assured
 ===============================================

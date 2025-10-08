@@ -1,9 +1,12 @@
 ---
 slug: child-welfare-social-workers-lack-consistency
-title: "Child welfare social workers lack consistency"
-date: 2018-04-05
-source-url: https://www.scoop.co.nz/stories/PO1804/S00052/child-welfare-social-workers-lack-consistency.htm
+title: Child welfare social workers lack consistency
+date: 2018-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1804/S00052/child-welfare-social-workers-lack-consistency.htm
 author: university-of-otago
+permalink: /archive/2018/04/05/child-welfare-social-workers-lack-consistency/index.html
+layout: layout.njk
 ---
 Child welfare social workers lack consistency
 =============================================

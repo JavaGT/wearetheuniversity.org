@@ -1,9 +1,13 @@
 ---
 slug: official-launch-for-first-of-new-training-aircraft
-title: "Official launch for first of new training aircraft"
-date: 2009-07-03
-source-url: https://www.scoop.co.nz/stories/ED0907/S00015/official-launch-for-first-of-new-training-aircraft.htm
+title: Official launch for first of new training aircraft
+date: 2009-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00015/official-launch-for-first-of-new-training-aircraft.htm
 author: massey-university
+permalink: >-
+  /archive/2009/07/03/official-launch-for-first-of-new-training-aircraft/index.html
+layout: layout.njk
 ---
 Official launch for first of new training aircraft
 ==================================================

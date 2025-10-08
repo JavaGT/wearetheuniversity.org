@@ -1,9 +1,12 @@
 ---
 slug: another-day-another-health-crisis-unfolds
-title: "Another day, another health crisis unfolds"
-date: 2008-03-07
-source-url: https://www.scoop.co.nz/stories/PA0803/S00132/another-day-another-health-crisis-unfolds.htm
+title: Another day, another health crisis unfolds
+date: 2008-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00132/another-day-another-health-crisis-unfolds.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/07/another-day-another-health-crisis-unfolds/index.html
+layout: layout.njk
 ---
 Another day, another health crisis unfolds
 ==========================================

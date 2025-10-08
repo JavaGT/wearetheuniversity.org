@@ -1,9 +1,12 @@
 ---
 slug: primary-teachers-take-up-secondary-teaching
-title: "Primary Teachers take up Secondary Teaching"
-date: 2002-12-13
-source-url: https://www.scoop.co.nz/stories/ED0212/S00026/primary-teachers-take-up-secondary-teaching.htm
+title: Primary Teachers take up Secondary Teaching
+date: 2002-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00026/primary-teachers-take-up-secondary-teaching.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/12/13/primary-teachers-take-up-secondary-teaching/index.html
+layout: layout.njk
 ---
 Primary Teachers take up Secondary Teaching
 ===========================================

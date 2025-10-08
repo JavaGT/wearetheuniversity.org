@@ -1,9 +1,13 @@
 ---
 slug: our-health-not-optional-students-tell-reluctant-landlords
-title: "Our health not optional, students tell reluctant landlords"
-date: 2015-04-15
-source-url: https://www.scoop.co.nz/stories/PO1504/S00130/our-health-not-optional-students-tell-reluctant-landlords.htm
+title: Our health not optional, students tell reluctant landlords
+date: 2015-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1504/S00130/our-health-not-optional-students-tell-reluctant-landlords.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/04/15/our-health-not-optional-students-tell-reluctant-landlords/index.html
+layout: layout.njk
 ---
 Our health not optional, students tell reluctant landlords
 ==========================================================

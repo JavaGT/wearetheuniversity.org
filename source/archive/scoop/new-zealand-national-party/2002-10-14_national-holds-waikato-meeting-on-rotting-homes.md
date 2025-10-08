@@ -1,9 +1,12 @@
 ---
 slug: national-holds-waikato-meeting-on-rotting-homes
-title: "National holds Waikato meeting on rotting homes"
-date: 2002-10-14
-source-url: https://www.scoop.co.nz/stories/PA0210/S00263/national-holds-waikato-meeting-on-rotting-homes.htm
+title: National holds Waikato meeting on rotting homes
+date: 2002-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00263/national-holds-waikato-meeting-on-rotting-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/14/national-holds-waikato-meeting-on-rotting-homes/index.html
+layout: layout.njk
 ---
 National holds Waikato meeting on rotting homes
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: labour-fudging-more-numbers
-title: "Labour Fudging More Numbers"
-date: 2020-10-10
+title: Labour Fudging More Numbers
+date: 2020-10-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2010/S00073/labour-fudging-more-numbers.htm
 author: new-zealand-national-party
+permalink: /archive/2020/10/10/labour-fudging-more-numbers/index.html
+layout: layout.njk
 ---
 Labour Fudging More Numbers
 ===========================

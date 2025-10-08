@@ -1,9 +1,13 @@
 ---
 slug: film-maker-selected-to-attend-exclusive-venice-college
-title: "Film maker selected to attend exclusive Venice college"
-date: 2015-09-07
-source-url: https://www.scoop.co.nz/stories/ED1509/S00037/film-maker-selected-to-attend-exclusive-venice-college.htm
+title: Film maker selected to attend exclusive Venice college
+date: 2015-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00037/film-maker-selected-to-attend-exclusive-venice-college.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/09/07/film-maker-selected-to-attend-exclusive-venice-college/index.html
+layout: layout.njk
 ---
 Film maker selected to attend exclusive Venice college
 ======================================================

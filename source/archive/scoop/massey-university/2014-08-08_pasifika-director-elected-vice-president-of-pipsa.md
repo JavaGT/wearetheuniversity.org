@@ -1,9 +1,13 @@
 ---
 slug: pasifika-director-elected-vice-president-of-pipsa
-title: "Pasifika director elected vice-president of PIPSA"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/ED1408/S00045/pasifika-director-elected-vice-president-of-pipsa.htm
+title: Pasifika director elected vice-president of PIPSA
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00045/pasifika-director-elected-vice-president-of-pipsa.htm
 author: massey-university
+permalink: >-
+  /archive/2014/08/08/pasifika-director-elected-vice-president-of-pipsa/index.html
+layout: layout.njk
 ---
 Pasifika director elected vice-president of PIPSA
 =================================================

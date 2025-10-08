@@ -1,9 +1,12 @@
 ---
 slug: crowd-urges-mallard-to-re-think-school-closures
-title: "Crowd Urges Mallard To Re-think School Closures"
-date: 2004-02-24
-source-url: https://www.scoop.co.nz/stories/PA0402/S00419/crowd-urges-mallard-to-re-think-school-closures.htm
+title: Crowd Urges Mallard To Re-think School Closures
+date: 2004-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00419/crowd-urges-mallard-to-re-think-school-closures.htm
 author: act-new-zealand
+permalink: /archive/2004/02/24/crowd-urges-mallard-to-re-think-school-closures/index.html
+layout: layout.njk
 ---
 Crowd Urges Mallard To Re-think School Closures
 ===============================================

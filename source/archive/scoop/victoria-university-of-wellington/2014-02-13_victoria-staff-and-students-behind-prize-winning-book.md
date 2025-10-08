@@ -1,9 +1,13 @@
 ---
 slug: victoria-staff-and-students-behind-prize-winning-book
-title: "Victoria staff and students behind prize-winning book"
-date: 2014-02-13
-source-url: https://www.scoop.co.nz/stories/ED1402/S00047/victoria-staff-and-students-behind-prize-winning-book.htm
+title: Victoria staff and students behind prize-winning book
+date: 2014-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00047/victoria-staff-and-students-behind-prize-winning-book.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/02/13/victoria-staff-and-students-behind-prize-winning-book/index.html
+layout: layout.njk
 ---
 Victoria staff and students behind prize-winning book
 =====================================================

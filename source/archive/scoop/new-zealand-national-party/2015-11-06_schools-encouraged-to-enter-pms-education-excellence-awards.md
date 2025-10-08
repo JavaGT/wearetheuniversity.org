@@ -1,9 +1,13 @@
 ---
 slug: schools-encouraged-to-enter-pms-education-excellence-awards
-title: "Schools encouraged to enter PM’s Education Excellence Awards"
-date: 2015-11-06
-source-url: https://www.scoop.co.nz/stories/PA1511/S00116/schools-encouraged-to-enter-pms-education-excellence-awards.htm
+title: Schools encouraged to enter PM’s Education Excellence Awards
+date: 2015-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00116/schools-encouraged-to-enter-pms-education-excellence-awards.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/11/06/schools-encouraged-to-enter-pms-education-excellence-awards/index.html
+layout: layout.njk
 ---
 Schools encouraged to enter PM’s Education Excellence Awards
 ============================================================

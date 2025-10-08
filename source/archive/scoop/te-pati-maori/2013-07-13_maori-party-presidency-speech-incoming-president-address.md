@@ -1,9 +1,13 @@
 ---
 slug: maori-party-presidency-speech-incoming-president-address
-title: "Maori Party Presidency Speech - Incoming President Address"
-date: 2013-07-13
-source-url: https://www.scoop.co.nz/stories/PO1307/S00156/maori-party-presidency-speech-incoming-president-address.htm
+title: Maori Party Presidency Speech - Incoming President Address
+date: 2013-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00156/maori-party-presidency-speech-incoming-president-address.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/07/13/maori-party-presidency-speech-incoming-president-address/index.html
+layout: layout.njk
 ---
 Maori Party Presidency Speech - Incoming President Address
 ==========================================================

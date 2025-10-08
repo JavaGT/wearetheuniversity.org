@@ -1,9 +1,11 @@
 ---
 slug: tertiary-update
-title: "Tertiary Update"
-date: 2010-09-30
+title: Tertiary Update
+date: 2010-09-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1009/S00150/tertiary-update.htm
 author: association-of-university-staff
+permalink: /archive/2010/09/30/tertiary-update/index.html
+layout: layout.njk
 ---
 Tertiary Update
 ===============

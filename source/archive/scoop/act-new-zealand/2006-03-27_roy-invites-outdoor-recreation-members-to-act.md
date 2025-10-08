@@ -1,9 +1,12 @@
 ---
 slug: roy-invites-outdoor-recreation-members-to-act
-title: "Roy Invites Outdoor Recreation Members To ACT"
-date: 2006-03-27
-source-url: https://www.scoop.co.nz/stories/PA0603/S00459/roy-invites-outdoor-recreation-members-to-act.htm
+title: Roy Invites Outdoor Recreation Members To ACT
+date: 2006-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00459/roy-invites-outdoor-recreation-members-to-act.htm
 author: act-new-zealand
+permalink: /archive/2006/03/27/roy-invites-outdoor-recreation-members-to-act/index.html
+layout: layout.njk
 ---
 Roy Invites Outdoor Recreation Members To ACT
 =============================================

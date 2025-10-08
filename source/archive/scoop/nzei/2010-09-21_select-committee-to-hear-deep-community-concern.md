@@ -1,9 +1,12 @@
 ---
 slug: select-committee-to-hear-deep-community-concern
-title: "Select Committee to Hear Deep Community Concern"
-date: 2010-09-21
-source-url: https://www.scoop.co.nz/stories/ED1009/S00095/select-committee-to-hear-deep-community-concern.htm
+title: Select Committee to Hear Deep Community Concern
+date: 2010-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00095/select-committee-to-hear-deep-community-concern.htm
 author: nzei
+permalink: /archive/2010/09/21/select-committee-to-hear-deep-community-concern/index.html
+layout: layout.njk
 ---
 Select Committee to Hear Deep Community Concern
 ===============================================

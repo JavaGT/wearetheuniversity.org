@@ -1,9 +1,13 @@
 ---
 slug: university-staff-union-concerned-at-otago-fee-rise
-title: "University staff union concerned at Otago fee rise"
-date: 2005-11-10
-source-url: https://www.scoop.co.nz/stories/ED0511/S00042/university-staff-union-concerned-at-otago-fee-rise.htm
+title: University staff union concerned at Otago fee rise
+date: 2005-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00042/university-staff-union-concerned-at-otago-fee-rise.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2005/11/10/university-staff-union-concerned-at-otago-fee-rise/index.html
+layout: layout.njk
 ---
 University staff union concerned at Otago fee rise
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: diwali-and-cultural-festival-at-albany-campus
-title: "Diwali and Cultural Festival at Albany campus"
-date: 2013-09-26
-source-url: https://www.scoop.co.nz/stories/AK1309/S00900/diwali-and-cultural-festival-at-albany-campus.htm
+title: Diwali and Cultural Festival at Albany campus
+date: 2013-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00900/diwali-and-cultural-festival-at-albany-campus.htm
 author: massey-university
+permalink: /archive/2013/09/26/diwali-and-cultural-festival-at-albany-campus/index.html
+layout: layout.njk
 ---
 Diwali and Cultural Festival at Albany campus
 =============================================

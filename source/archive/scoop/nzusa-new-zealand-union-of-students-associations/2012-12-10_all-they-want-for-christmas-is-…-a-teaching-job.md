@@ -1,9 +1,12 @@
 ---
 slug: all-they-want-for-christmas-is-…-a-teaching-job
-title: "All They Want For Christmas Is …  A Teaching Job"
-date: 2012-12-10
-source-url: https://www.scoop.co.nz/stories/ED1212/S00059/all-they-want-for-christmas-is-a-teaching-job.htm
+title: All They Want For Christmas Is …  A Teaching Job
+date: 2012-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00059/all-they-want-for-christmas-is-a-teaching-job.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/12/10/all-they-want-for-christmas-is-/index.html
+layout: layout.njk
 ---
 All They Want For Christmas Is … A Teaching Job
 ===============================================

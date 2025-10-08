@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-local-govt-auckland-council-bill
-title: "Speech: Katene - Local Govt Auckland Council Bill"
-date: 2009-09-17
-source-url: https://www.scoop.co.nz/stories/PA0909/S00240/speech-katene-local-govt-auckland-council-bill.htm
+title: 'Speech: Katene - Local Govt Auckland Council Bill'
+date: 2009-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00240/speech-katene-local-govt-auckland-council-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/09/17/speech-katene-local-govt-auckland-council-bill/index.html
+layout: layout.njk
 ---
 Speech: Katene - Local Govt Auckland Council Bill
 =================================================

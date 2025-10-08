@@ -1,9 +1,12 @@
 ---
 slug: fees-freeze-and-so-do-student-allowances
-title: "Fees Freeze and So Do Student Allowances"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/ED0205/S00049/fees-freeze-and-so-do-student-allowances.htm
+title: Fees Freeze and So Do Student Allowances
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00049/fees-freeze-and-so-do-student-allowances.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2002/05/23/fees-freeze-and-so-do-student-allowances/index.html
+layout: layout.njk
 ---
 Fees Freeze and So Do Student Allowances
 ========================================

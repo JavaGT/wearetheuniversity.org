@@ -1,9 +1,12 @@
 ---
 slug: minister-urged-to-save-museum
-title: "Minister urged to save museum"
-date: 2007-04-13
-source-url: https://www.scoop.co.nz/stories/PA0704/S00222/minister-urged-to-save-museum.htm
+title: Minister urged to save museum
+date: 2007-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00222/minister-urged-to-save-museum.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/13/minister-urged-to-save-museum/index.html
+layout: layout.njk
 ---
 Minister urged to save museum
 =============================

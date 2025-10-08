@@ -1,9 +1,13 @@
 ---
 slug: nz-schoolchildren-not-disadvantaged-by-part-time-work
-title: "NZ schoolchildren not disadvantaged by part-time work"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/ED1407/S00118/nz-schoolchildren-not-disadvantaged-by-part-time-work.htm
+title: NZ schoolchildren not disadvantaged by part-time work
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00118/nz-schoolchildren-not-disadvantaged-by-part-time-work.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/07/24/nz-schoolchildren-not-disadvantaged-by-part-time-work/index.html
+layout: layout.njk
 ---
 NZ schoolchildren not disadvantaged by part-time work
 =====================================================

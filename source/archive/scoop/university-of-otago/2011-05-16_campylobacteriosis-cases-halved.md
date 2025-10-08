@@ -1,9 +1,12 @@
 ---
 slug: campylobacteriosis-cases-halved
-title: "Campylobacteriosis cases halved"
-date: 2011-05-16
-source-url: https://www.scoop.co.nz/stories/GE1105/S00090/campylobacteriosis-cases-halved.htm
+title: Campylobacteriosis cases halved
+date: 2011-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1105/S00090/campylobacteriosis-cases-halved.htm
 author: university-of-otago
+permalink: /archive/2011/05/16/campylobacteriosis-cases-halved/index.html
+layout: layout.njk
 ---
 Campylobacteriosis cases halved
 ===============================

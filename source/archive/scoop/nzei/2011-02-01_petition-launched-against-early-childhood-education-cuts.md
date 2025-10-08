@@ -1,9 +1,13 @@
 ---
 slug: petition-launched-against-early-childhood-education-cuts
-title: "Petition Launched Against Early Childhood Education Cuts"
-date: 2011-02-01
-source-url: https://www.scoop.co.nz/stories/ED1102/S00005/petition-launched-against-early-childhood-education-cuts.htm
+title: Petition Launched Against Early Childhood Education Cuts
+date: 2011-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00005/petition-launched-against-early-childhood-education-cuts.htm
 author: nzei
+permalink: >-
+  /archive/2011/02/01/petition-launched-against-early-childhood-education-cuts/index.html
+layout: layout.njk
 ---
 Petition Launched Against Early Childhood Education Cuts
 ========================================================

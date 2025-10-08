@@ -1,9 +1,12 @@
 ---
 slug: fast-track-list-reveals-govts-backroom-deals
-title: "Fast Track List Reveals Govt’s Backroom Deals"
-date: 2024-10-06
-source-url: https://www.scoop.co.nz/stories/PA2410/S00046/fast-track-list-reveals-govts-backroom-deals.htm
+title: Fast Track List Reveals Govt’s Backroom Deals
+date: 2024-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00046/fast-track-list-reveals-govts-backroom-deals.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/10/06/fast-track-list-reveals-govts-backroom-deals/index.html
+layout: layout.njk
 ---
 Fast Track List Reveals Govt’s Backroom Deals
 =============================================

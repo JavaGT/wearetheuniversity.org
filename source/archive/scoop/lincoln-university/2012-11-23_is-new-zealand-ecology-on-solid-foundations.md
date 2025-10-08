@@ -1,9 +1,12 @@
 ---
 slug: is-new-zealand-ecology-on-solid-foundations
-title: "Is New Zealand ecology on solid foundations?"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/SC1211/S00070/is-new-zealand-ecology-on-solid-foundations.htm
+title: Is New Zealand ecology on solid foundations?
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00070/is-new-zealand-ecology-on-solid-foundations.htm
 author: lincoln-university
+permalink: /archive/2012/11/23/is-new-zealand-ecology-on-solid-foundations/index.html
+layout: layout.njk
 ---
 Is New Zealand ecology on solid foundations?
 ============================================

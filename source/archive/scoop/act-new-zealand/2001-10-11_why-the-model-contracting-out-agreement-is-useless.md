@@ -1,9 +1,13 @@
 ---
 slug: why-the-model-contracting-out-agreement-is-useless
-title: "Why the model contracting out agreement is useless"
-date: 2001-10-11
-source-url: https://www.scoop.co.nz/stories/PA0110/S00252/why-the-model-contracting-out-agreement-is-useless.htm
+title: Why the model contracting out agreement is useless
+date: 2001-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00252/why-the-model-contracting-out-agreement-is-useless.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/10/11/why-the-model-contracting-out-agreement-is-useless/index.html
+layout: layout.njk
 ---
 Why the model contracting out agreement is useless
 ==================================================

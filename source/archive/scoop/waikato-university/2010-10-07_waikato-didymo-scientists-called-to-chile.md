@@ -1,9 +1,12 @@
 ---
 slug: waikato-didymo-scientists-called-to-chile
-title: "Waikato didymo scientists called to Chile"
-date: 2010-10-07
-source-url: https://www.scoop.co.nz/stories/ED1010/S00023/waikato-didymo-scientists-called-to-chile.htm
+title: Waikato didymo scientists called to Chile
+date: 2010-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00023/waikato-didymo-scientists-called-to-chile.htm
 author: waikato-university
+permalink: /archive/2010/10/07/waikato-didymo-scientists-called-to-chile/index.html
+layout: layout.njk
 ---
 Waikato didymo scientists called to Chile
 =========================================

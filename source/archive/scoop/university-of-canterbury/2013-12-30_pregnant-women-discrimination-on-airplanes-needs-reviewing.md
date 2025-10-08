@@ -1,9 +1,13 @@
 ---
 slug: pregnant-women-discrimination-on-airplanes-needs-reviewing
-title: "Pregnant women discrimination on airplanes needs reviewing"
-date: 2013-12-30
-source-url: https://www.scoop.co.nz/stories/WO1312/S00489/pregnant-women-discrimination-on-airplanes-needs-reviewing.htm
+title: Pregnant women discrimination on airplanes needs reviewing
+date: 2013-12-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1312/S00489/pregnant-women-discrimination-on-airplanes-needs-reviewing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/30/pregnant-women-discrimination-on-airplanes-needs-reviewing/index.html
+layout: layout.njk
 ---
 Pregnant women discrimination on airplanes needs reviewing
 ==========================================================

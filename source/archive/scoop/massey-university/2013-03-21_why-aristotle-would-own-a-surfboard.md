@@ -1,9 +1,12 @@
 ---
 slug: why-aristotle-would-own-a-surfboard
-title: "Why Aristotle would own a surfboard"
-date: 2013-03-21
-source-url: https://www.scoop.co.nz/stories/ED1303/S00149/why-aristotle-would-own-a-surfboard.htm
+title: Why Aristotle would own a surfboard
+date: 2013-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00149/why-aristotle-would-own-a-surfboard.htm
 author: massey-university
+permalink: /archive/2013/03/21/why-aristotle-would-own-a-surfboard/index.html
+layout: layout.njk
 ---
 Why Aristotle would own a surfboard
 ===================================

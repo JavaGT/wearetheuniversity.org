@@ -1,9 +1,13 @@
 ---
 slug: urgent-action-to-address-teacher-shortage-crisis
-title: "Urgent Action To Address Teacher Shortage Crisis"
-date: 2007-09-18
-source-url: https://www.scoop.co.nz/stories/BU0709/S00328/urgent-action-to-address-teacher-shortage-crisis.htm
+title: Urgent Action To Address Teacher Shortage Crisis
+date: 2007-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0709/S00328/urgent-action-to-address-teacher-shortage-crisis.htm
 author: nzei
+permalink: >-
+  /archive/2007/09/18/urgent-action-to-address-teacher-shortage-crisis/index.html
+layout: layout.njk
 ---
 Urgent Action To Address Teacher Shortage Crisis
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-on-line-art-draws-global-contributions
-title: "Students' on-line art draws global contributions"
-date: 2002-09-09
-source-url: https://www.scoop.co.nz/stories/CU0209/S00027/students-on-line-art-draws-global-contributions.htm
+title: Students' on-line art draws global contributions
+date: 2002-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0209/S00027/students-on-line-art-draws-global-contributions.htm
 author: auckland-university
+permalink: /archive/2002/09/09/students-on-line-art-draws-global-contributions/index.html
+layout: layout.njk
 ---
 Students' on-line art draws global contributions
 ================================================

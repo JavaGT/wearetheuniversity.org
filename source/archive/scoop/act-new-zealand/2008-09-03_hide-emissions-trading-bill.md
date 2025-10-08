@@ -1,9 +1,11 @@
 ---
 slug: hide-emissions-trading-bill
-title: "Hide: Emissions Trading Bill"
-date: 2008-09-03
+title: 'Hide: Emissions Trading Bill'
+date: 2008-09-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0809/S00042/hide-emissions-trading-bill.htm
 author: act-new-zealand
+permalink: /archive/2008/09/03/hide-emissions-trading-bill/index.html
+layout: layout.njk
 ---
 Hide: Emissions Trading Bill
 ============================

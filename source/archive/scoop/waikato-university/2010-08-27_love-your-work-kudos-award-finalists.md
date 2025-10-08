@@ -1,9 +1,12 @@
 ---
 slug: love-your-work-kudos-award-finalists
-title: "Love your work – Kudos Award finalists"
-date: 2010-08-27
-source-url: https://www.scoop.co.nz/stories/SC1008/S00064/love-your-work-kudos-award-finalists.htm
+title: Love your work – Kudos Award finalists
+date: 2010-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1008/S00064/love-your-work-kudos-award-finalists.htm
 author: waikato-university
+permalink: /archive/2010/08/27/love-your-work-kudos-award-finalists/index.html
+layout: layout.njk
 ---
 Love your work – Kudos Award finalists
 ======================================

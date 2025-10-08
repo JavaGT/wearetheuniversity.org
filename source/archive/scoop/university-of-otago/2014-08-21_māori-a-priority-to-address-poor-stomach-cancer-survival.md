@@ -1,9 +1,12 @@
 ---
 slug: māori-a-priority-to-address-poor-stomach-cancer-survival
-title: "Māori a priority to address poor stomach cancer  survival"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/GE1408/S00097/maori-a-priority-to-address-poor-stomach-cancer-survival.htm
+title: Māori a priority to address poor stomach cancer  survival
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1408/S00097/maori-a-priority-to-address-poor-stomach-cancer-survival.htm
 author: university-of-otago
+permalink: /archive/2014/08/21/m/index.html
+layout: layout.njk
 ---
 Māori a priority to address poor stomach cancer survival
 ========================================================

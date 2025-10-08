@@ -1,9 +1,12 @@
 ---
 slug: kodak-&-canterbury-uni-working-on-healthcare
-title: "Kodak & Canterbury Uni working on healthcare"
-date: 2004-05-07
-source-url: https://www.scoop.co.nz/stories/ED0405/S00031/kodak-canterbury-uni-working-on-healthcare.htm
+title: Kodak & Canterbury Uni working on healthcare
+date: 2004-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00031/kodak-canterbury-uni-working-on-healthcare.htm
 author: university-of-canterbury
+permalink: /archive/2004/05/07/kodak-/index.html
+layout: layout.njk
 ---
 Kodak & Canterbury Uni working on healthcare
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: lose-lose-funding-for-special-education-attacked
-title: "'Lose-Lose' Funding For Special Education Attacked"
-date: 2001-12-18
-source-url: https://www.scoop.co.nz/stories/PA0112/S00319/lose-lose-funding-for-special-education-attacked.htm
+title: '''Lose-Lose'' Funding For Special Education Attacked'
+date: 2001-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00319/lose-lose-funding-for-special-education-attacked.htm
 author: green-party
+permalink: >-
+  /archive/2001/12/18/lose-lose-funding-for-special-education-attacked/index.html
+layout: layout.njk
 ---
 'Lose-Lose' Funding For Special Education Attacked
 ==================================================

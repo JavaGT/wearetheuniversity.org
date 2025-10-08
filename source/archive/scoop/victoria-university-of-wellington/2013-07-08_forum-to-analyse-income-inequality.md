@@ -1,9 +1,12 @@
 ---
 slug: forum-to-analyse-income-inequality
-title: "Forum to analyse income inequality"
-date: 2013-07-08
-source-url: https://www.scoop.co.nz/stories/ED1307/S00034/forum-to-analyse-income-inequality.htm
+title: Forum to analyse income inequality
+date: 2013-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00034/forum-to-analyse-income-inequality.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/08/forum-to-analyse-income-inequality/index.html
+layout: layout.njk
 ---
 Forum to analyse income inequality
 ==================================

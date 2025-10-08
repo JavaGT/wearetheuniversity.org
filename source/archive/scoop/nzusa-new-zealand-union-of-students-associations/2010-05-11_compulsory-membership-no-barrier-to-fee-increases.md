@@ -1,9 +1,13 @@
 ---
 slug: compulsory-membership-no-barrier-to-fee-increases
-title: "Compulsory membership no barrier to fee increases"
-date: 2010-05-11
-source-url: https://www.scoop.co.nz/stories/PO1005/S00089/compulsory-membership-no-barrier-to-fee-increases.htm
+title: Compulsory membership no barrier to fee increases
+date: 2010-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1005/S00089/compulsory-membership-no-barrier-to-fee-increases.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2010/05/11/compulsory-membership-no-barrier-to-fee-increases/index.html
+layout: layout.njk
 ---
 Compulsory membership no barrier to fee increases
 =================================================

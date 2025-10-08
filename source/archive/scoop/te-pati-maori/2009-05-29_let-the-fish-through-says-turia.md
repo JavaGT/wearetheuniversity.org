@@ -1,9 +1,12 @@
 ---
 slug: let-the-fish-through-says-turia
-title: "Let the fish through says Turia"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/PA0905/S00569/let-the-fish-through-says-turia.htm
+title: Let the fish through says Turia
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00569/let-the-fish-through-says-turia.htm
 author: te-pati-maori
+permalink: /archive/2009/05/29/let-the-fish-through-says-turia/index.html
+layout: layout.njk
 ---
 Let the fish through says Turia
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: margaret-mutu-must-be-challenged
-title: "Margaret Mutu Must Be Challenged"
-date: 2004-08-26
-source-url: https://www.scoop.co.nz/stories/PA0408/S00450/margaret-mutu-must-be-challenged.htm
+title: Margaret Mutu Must Be Challenged
+date: 2004-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00450/margaret-mutu-must-be-challenged.htm
 author: act-new-zealand
+permalink: /archive/2004/08/26/margaret-mutu-must-be-challenged/index.html
+layout: layout.njk
 ---
 Margaret Mutu Must Be Challenged
 ================================

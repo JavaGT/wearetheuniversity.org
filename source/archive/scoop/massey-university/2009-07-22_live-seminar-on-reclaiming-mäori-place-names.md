@@ -1,9 +1,12 @@
 ---
 slug: live-seminar-on-reclaiming-mäori-place-names
-title: "Live seminar on reclaiming Mäori place names"
-date: 2009-07-22
-source-url: https://www.scoop.co.nz/stories/CU0907/S00296/live-seminar-on-reclaiming-maori-place-names.htm
+title: Live seminar on reclaiming Mäori place names
+date: 2009-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00296/live-seminar-on-reclaiming-maori-place-names.htm
 author: massey-university
+permalink: /archive/2009/07/22/live-seminar-on-reclaiming-m/index.html
+layout: layout.njk
 ---
 Live seminar on reclaiming Mäori place names
 ============================================

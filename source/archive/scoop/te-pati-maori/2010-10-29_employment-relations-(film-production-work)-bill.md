@@ -1,9 +1,12 @@
 ---
 slug: employment-relations-(film-production-work)-bill
-title: "Employment Relations (Film Production Work) Bill"
-date: 2010-10-29
-source-url: https://www.scoop.co.nz/stories/PA1010/S00522/employment-relations-film-production-work-bill.htm
+title: Employment Relations (Film Production Work) Bill
+date: 2010-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00522/employment-relations-film-production-work-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/10/29/employment-relations-/index.html
+layout: layout.njk
 ---
 Employment Relations (Film Production Work) Bill
 ================================================

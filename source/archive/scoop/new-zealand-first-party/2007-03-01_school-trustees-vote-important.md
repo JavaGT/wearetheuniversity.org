@@ -1,9 +1,12 @@
 ---
 slug: school-trustees-vote-important
-title: "School Trustees Vote Important"
-date: 2007-03-01
-source-url: https://www.scoop.co.nz/stories/PA0703/S00035/school-trustees-vote-important.htm
+title: School Trustees Vote Important
+date: 2007-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00035/school-trustees-vote-important.htm
 author: new-zealand-first-party
+permalink: /archive/2007/03/01/school-trustees-vote-important/index.html
+layout: layout.njk
 ---
 School Trustees Vote Important
 ==============================

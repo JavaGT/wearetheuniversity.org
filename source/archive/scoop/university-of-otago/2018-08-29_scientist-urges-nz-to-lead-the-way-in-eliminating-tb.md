@@ -1,9 +1,13 @@
 ---
 slug: scientist-urges-nz-to-lead-the-way-in-eliminating-tb
-title: "Scientist urges NZ to lead the way in eliminating TB"
-date: 2018-08-29
-source-url: https://www.scoop.co.nz/stories/SC1808/S00047/scientist-urges-nz-to-lead-the-way-in-eliminating-tb.htm
+title: Scientist urges NZ to lead the way in eliminating TB
+date: 2018-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1808/S00047/scientist-urges-nz-to-lead-the-way-in-eliminating-tb.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/29/scientist-urges-nz-to-lead-the-way-in-eliminating-tb/index.html
+layout: layout.njk
 ---
 Scientist urges NZ to lead the way in eliminating TB
 ====================================================

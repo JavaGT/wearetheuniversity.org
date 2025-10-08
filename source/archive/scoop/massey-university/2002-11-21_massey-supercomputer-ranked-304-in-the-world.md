@@ -1,9 +1,12 @@
 ---
 slug: massey-supercomputer-ranked-304-in-the-world
-title: "Massey supercomputer ranked 304 in the world"
-date: 2002-11-21
-source-url: https://www.scoop.co.nz/stories/ED0211/S00053/massey-supercomputer-ranked-304-in-the-world.htm
+title: Massey supercomputer ranked 304 in the world
+date: 2002-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00053/massey-supercomputer-ranked-304-in-the-world.htm
 author: massey-university
+permalink: /archive/2002/11/21/massey-supercomputer-ranked-304-in-the-world/index.html
+layout: layout.njk
 ---
 Massey supercomputer ranked 304 in the world
 ============================================

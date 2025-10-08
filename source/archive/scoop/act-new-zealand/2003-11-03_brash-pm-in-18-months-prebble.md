@@ -1,9 +1,12 @@
 ---
 slug: brash-pm-in-18-months-prebble
-title: "Brash PM in 18 Months - Prebble"
-date: 2003-11-03
-source-url: https://www.scoop.co.nz/stories/PA0311/S00005/brash-pm-in-18-months-prebble.htm
+title: Brash PM in 18 Months - Prebble
+date: 2003-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00005/brash-pm-in-18-months-prebble.htm
 author: act-new-zealand
+permalink: /archive/2003/11/03/brash-pm-in-18-months-prebble/index.html
+layout: layout.njk
 ---
 Brash PM in 18 Months - Prebble
 ===============================

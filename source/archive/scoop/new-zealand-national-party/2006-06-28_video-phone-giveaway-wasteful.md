@@ -1,9 +1,12 @@
 ---
 slug: video-phone-giveaway-wasteful
-title: "Video phone giveaway wasteful"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/PA0606/S00560/video-phone-giveaway-wasteful.htm
+title: Video phone giveaway wasteful
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00560/video-phone-giveaway-wasteful.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/28/video-phone-giveaway-wasteful/index.html
+layout: layout.njk
 ---
 Video phone giveaway wasteful
 =============================

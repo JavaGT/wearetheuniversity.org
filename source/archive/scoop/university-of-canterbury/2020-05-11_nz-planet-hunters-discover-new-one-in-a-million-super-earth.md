@@ -1,9 +1,13 @@
 ---
 slug: nz-planet-hunters-discover-new-one-in-a-million-super-earth
-title: "NZ Planet-hunters Discover New ‘one In A Million’ Super-Earth"
-date: 2020-05-11
-source-url: https://www.scoop.co.nz/stories/SC2005/S00023/nz-planet-hunters-discover-new-one-in-a-million-super-earth.htm
+title: NZ Planet-hunters Discover New ‘one In A Million’ Super-Earth
+date: 2020-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2005/S00023/nz-planet-hunters-discover-new-one-in-a-million-super-earth.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/11/nz-planet-hunters-discover-new-one-in-a-million-super-earth/index.html
+layout: layout.njk
 ---
 NZ Planet-hunters Discover New ‘one In A Million’ Super-Earth
 =============================================================

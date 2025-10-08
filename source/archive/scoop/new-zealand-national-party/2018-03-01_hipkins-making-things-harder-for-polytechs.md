@@ -1,9 +1,12 @@
 ---
 slug: hipkins-making-things-harder-for-polytechs
-title: "Hipkins making things harder for polytechs"
-date: 2018-03-01
-source-url: https://www.scoop.co.nz/stories/PA1803/S00012/hipkins-making-things-harder-for-polytechs.htm
+title: Hipkins making things harder for polytechs
+date: 2018-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00012/hipkins-making-things-harder-for-polytechs.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/01/hipkins-making-things-harder-for-polytechs/index.html
+layout: layout.njk
 ---
 Hipkins making things harder for polytechs
 ==========================================

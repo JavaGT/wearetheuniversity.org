@@ -1,9 +1,12 @@
 ---
 slug: up-&-coming-sport-&-future-leader-scholars-welcome-on-campus
-title: "Up & coming sport & future leader scholars welcome on campus"
-date: 2012-02-20
-source-url: https://www.scoop.co.nz/stories/ED1202/S00087/up-coming-sport-future-leader-scholars-welcome-on-campus.htm
+title: Up & coming sport & future leader scholars welcome on campus
+date: 2012-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00087/up-coming-sport-future-leader-scholars-welcome-on-campus.htm
 author: lincoln-university
+permalink: /archive/2012/02/20/up-/index.html
+layout: layout.njk
 ---
 Up & coming sport & future leader scholars welcome on campus
 ============================================================

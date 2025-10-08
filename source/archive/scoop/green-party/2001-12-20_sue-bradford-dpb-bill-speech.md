@@ -1,9 +1,11 @@
 ---
 slug: sue-bradford-dpb-bill-speech
-title: "Sue Bradford DPB Bill Speech"
-date: 2001-12-20
+title: Sue Bradford DPB Bill Speech
+date: 2001-12-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0112/S00399/sue-bradford-dpb-bill-speech.htm
 author: green-party
+permalink: /archive/2001/12/20/sue-bradford-dpb-bill-speech/index.html
+layout: layout.njk
 ---
 Sue Bradford DPB Bill Speech
 ============================

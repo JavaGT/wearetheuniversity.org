@@ -1,9 +1,13 @@
 ---
 slug: ousa-teaching-awards-best-teacher-best-inclusive
-title: "OUSA Teaching Awards: Best Teacher, Best Inclusive"
-date: 2010-10-18
-source-url: https://www.scoop.co.nz/stories/ED1010/S00060/ousa-teaching-awards-best-teacher-best-inclusive.htm
+title: 'OUSA Teaching Awards: Best Teacher, Best Inclusive'
+date: 2010-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00060/ousa-teaching-awards-best-teacher-best-inclusive.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2010/10/18/ousa-teaching-awards-best-teacher-best-inclusive/index.html
+layout: layout.njk
 ---
 OUSA Teaching Awards: Best Teacher, Best Inclusive
 ==================================================

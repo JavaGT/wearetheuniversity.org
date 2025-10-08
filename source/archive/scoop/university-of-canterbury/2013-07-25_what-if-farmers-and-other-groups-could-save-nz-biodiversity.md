@@ -1,9 +1,13 @@
 ---
 slug: what-if-farmers-and-other-groups-could-save-nz-biodiversity
-title: "What if farmers and other groups could save NZ biodiversity?"
-date: 2013-07-25
-source-url: https://www.scoop.co.nz/stories/ED1307/S00132/what-if-farmers-and-other-groups-could-save-nz-biodiversity.htm
+title: What if farmers and other groups could save NZ biodiversity?
+date: 2013-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00132/what-if-farmers-and-other-groups-could-save-nz-biodiversity.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/25/what-if-farmers-and-other-groups-could-save-nz-biodiversity/index.html
+layout: layout.njk
 ---
 What if farmers and other groups could save NZ biodiversity?
 ============================================================

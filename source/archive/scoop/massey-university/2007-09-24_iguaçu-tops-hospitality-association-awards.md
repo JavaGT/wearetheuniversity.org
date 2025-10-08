@@ -1,9 +1,12 @@
 ---
 slug: iguaçu-tops-hospitality-association-awards
-title: "Iguaçu tops Hospitality Association Awards"
-date: 2007-09-24
-source-url: https://www.scoop.co.nz/stories/ED0709/S00076/iguacu-tops-hospitality-association-awards.htm
+title: Iguaçu tops Hospitality Association Awards
+date: 2007-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00076/iguacu-tops-hospitality-association-awards.htm
 author: massey-university
+permalink: /archive/2007/09/24/igua/index.html
+layout: layout.njk
 ---
 Iguaçu tops Hospitality Association Awards
 ==========================================

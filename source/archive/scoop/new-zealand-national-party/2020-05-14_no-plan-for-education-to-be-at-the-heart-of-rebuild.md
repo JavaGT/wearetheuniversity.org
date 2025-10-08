@@ -1,9 +1,13 @@
 ---
 slug: no-plan-for-education-to-be-at-the-heart-of-rebuild
-title: "No Plan For Education To Be At The Heart Of Rebuild"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/PA2005/S00136/no-plan-for-education-to-be-at-the-heart-of-rebuild.htm
+title: No Plan For Education To Be At The Heart Of Rebuild
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00136/no-plan-for-education-to-be-at-the-heart-of-rebuild.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/05/14/no-plan-for-education-to-be-at-the-heart-of-rebuild/index.html
+layout: layout.njk
 ---
 No Plan For Education To Be At The Heart Of Rebuild
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-35-26-september
-title: "AUS Tertiary Update Vol. 5  No. 35,  26 September"
-date: 2002-09-26
-source-url: https://www.scoop.co.nz/stories/ED0209/S00051/aus-tertiary-update-vol-5-no-35-26-september.htm
+title: AUS Tertiary Update Vol. 5  No. 35,  26 September
+date: 2002-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00051/aus-tertiary-update-vol-5-no-35-26-september.htm
 author: association-of-university-staff
+permalink: /archive/2002/09/26/aus-tertiary-update-vol-5-no-35-26-september/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No. 35, 26 September
 ===============================================

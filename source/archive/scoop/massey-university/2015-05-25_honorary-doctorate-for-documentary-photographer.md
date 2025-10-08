@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-documentary-photographer
-title: "Honorary doctorate for documentary photographer"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/CU1505/S00457/honorary-doctorate-for-documentary-photographer.htm
+title: Honorary doctorate for documentary photographer
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00457/honorary-doctorate-for-documentary-photographer.htm
 author: massey-university
+permalink: /archive/2015/05/25/honorary-doctorate-for-documentary-photographer/index.html
+layout: layout.njk
 ---
 Honorary doctorate for documentary photographer
 ===============================================

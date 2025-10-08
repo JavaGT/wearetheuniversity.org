@@ -1,9 +1,12 @@
 ---
 slug: study-unlocks-the-health-benefits-of-a-cuppa
-title: "Study unlocks the health benefits of a cuppa"
-date: 2008-03-20
-source-url: https://www.scoop.co.nz/stories/SC0803/S00045/study-unlocks-the-health-benefits-of-a-cuppa.htm
+title: Study unlocks the health benefits of a cuppa
+date: 2008-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0803/S00045/study-unlocks-the-health-benefits-of-a-cuppa.htm
 author: massey-university
+permalink: /archive/2008/03/20/study-unlocks-the-health-benefits-of-a-cuppa/index.html
+layout: layout.njk
 ---
 Study unlocks the health benefits of a cuppa
 ============================================

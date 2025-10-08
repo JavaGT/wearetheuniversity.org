@@ -1,9 +1,12 @@
 ---
 slug: aussie-takeover-not-the-way-to-treat-elderly
-title: "Aussie Takeover Not The Way To Treat Elderly"
-date: 2005-07-12
-source-url: https://www.scoop.co.nz/stories/PA0507/S00257/aussie-takeover-not-the-way-to-treat-elderly.htm
+title: Aussie Takeover Not The Way To Treat Elderly
+date: 2005-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00257/aussie-takeover-not-the-way-to-treat-elderly.htm
 author: new-zealand-first-party
+permalink: /archive/2005/07/12/aussie-takeover-not-the-way-to-treat-elderly/index.html
+layout: layout.njk
 ---
 Aussie Takeover Not The Way To Treat Elderly
 ============================================

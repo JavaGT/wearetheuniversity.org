@@ -1,9 +1,12 @@
 ---
 slug: whos-telling-the-truth-on-mandatory-te-reo-māori-for-teachers
-title: "Who’s Telling The Truth On Mandatory Te Reo Māori For Teachers?"
-date: 2022-08-22
-source-url: https://www.scoop.co.nz/stories/PA2208/S00189/whos-telling-the-truth-on-mandatory-te-reo-maori-for-teachers.htm
+title: Who’s Telling The Truth On Mandatory Te Reo Māori For Teachers?
+date: 2022-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00189/whos-telling-the-truth-on-mandatory-te-reo-maori-for-teachers.htm
 author: act-new-zealand
+permalink: /archive/2022/08/22/whos-telling-the-truth-on-mandatory-te-reo-m/index.html
+layout: layout.njk
 ---
 Who’s Telling The Truth On Mandatory Te Reo Māori For Teachers?
 ===============================================================

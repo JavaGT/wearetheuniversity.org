@@ -1,9 +1,12 @@
 ---
 slug: computer-science-leads-to-childs-te-reo-play
-title: "Computer science leads to child’s te reo play"
-date: 2017-05-09
-source-url: https://www.scoop.co.nz/stories/ED1705/S00045/computer-science-leads-to-childs-te-reo-play.htm
+title: Computer science leads to child’s te reo play
+date: 2017-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00045/computer-science-leads-to-childs-te-reo-play.htm
 author: massey-university
+permalink: /archive/2017/05/09/computer-science-leads-to-childs-te-reo-play/index.html
+layout: layout.njk
 ---
 Computer science leads to child’s te reo play
 =============================================

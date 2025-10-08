@@ -1,9 +1,13 @@
 ---
 slug: rahui-katene-speech-national-network-of-stopping-violence
-title: "Rahui Katene Speech: National Network of Stopping Violence"
-date: 2011-06-09
-source-url: https://www.scoop.co.nz/stories/PA1106/S00141/rahui-katene-speech-national-network-of-stopping-violence.htm
+title: 'Rahui Katene Speech: National Network of Stopping Violence'
+date: 2011-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00141/rahui-katene-speech-national-network-of-stopping-violence.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/06/09/rahui-katene-speech-national-network-of-stopping-violence/index.html
+layout: layout.njk
 ---
 Rahui Katene Speech: National Network of Stopping Violence
 ==========================================================

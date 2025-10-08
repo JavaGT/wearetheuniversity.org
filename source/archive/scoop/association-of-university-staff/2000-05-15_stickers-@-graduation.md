@@ -1,9 +1,11 @@
 ---
 slug: stickers-@-graduation
-title: "Stickers @ Graduation"
-date: 2000-05-15
+title: Stickers @ Graduation
+date: 2000-05-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0005/S00021/stickers-graduation.htm
 author: association-of-university-staff
+permalink: /archive/2000/05/15/stickers-/index.html
+layout: layout.njk
 ---
 Stickers @ Graduation
 =====================

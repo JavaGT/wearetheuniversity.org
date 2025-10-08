@@ -1,9 +1,12 @@
 ---
 slug: dedicated-stroke-units-to-save-lives
-title: "Dedicated stroke units to save lives"
-date: 2011-11-11
-source-url: https://www.scoop.co.nz/stories/PA1111/S00214/dedicated-stroke-units-to-save-lives.htm
+title: Dedicated stroke units to save lives
+date: 2011-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00214/dedicated-stroke-units-to-save-lives.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/11/dedicated-stroke-units-to-save-lives/index.html
+layout: layout.njk
 ---
 Dedicated stroke units to save lives
 ====================================

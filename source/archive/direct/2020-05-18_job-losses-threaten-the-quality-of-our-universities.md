@@ -1,11 +1,14 @@
 ---
-title: "Job losses threaten the quality of our universities"
+title: Job losses threaten the quality of our universities
 slug: job-losses-threaten-the-quality-of-our-universities
-date: 2020-05-18
+date: 2020-05-18T00:00:00.000Z
 source: http://www.teaga.co.nz/press-releases/
 source-name: TEAGA
 author: Luke Oldfield
 author-slug: luke-oldfield
+permalink: >-
+  /archive/2020/05/18/job-losses-threaten-the-quality-of-our-universities/index.html
+layout: layout.njk
 ---
 
 **Luke Oldfield**

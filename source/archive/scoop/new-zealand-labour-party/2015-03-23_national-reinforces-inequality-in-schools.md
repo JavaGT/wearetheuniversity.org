@@ -1,9 +1,12 @@
 ---
 slug: national-reinforces-inequality-in-schools
-title: "National reinforces inequality in schools"
-date: 2015-03-23
-source-url: https://www.scoop.co.nz/stories/PA1503/S00333/national-reinforces-inequality-in-schools.htm
+title: National reinforces inequality in schools
+date: 2015-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00333/national-reinforces-inequality-in-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/23/national-reinforces-inequality-in-schools/index.html
+layout: layout.njk
 ---
 National reinforces inequality in schools
 =========================================

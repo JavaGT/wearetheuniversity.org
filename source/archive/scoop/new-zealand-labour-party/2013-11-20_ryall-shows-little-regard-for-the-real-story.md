@@ -1,9 +1,12 @@
 ---
 slug: ryall-shows-little-regard-for-the-real-story
-title: "Ryall shows little regard for the ‘real’ story"
-date: 2013-11-20
-source-url: https://www.scoop.co.nz/stories/PA1311/S00375/ryall-shows-little-regard-for-the-real-story.htm
+title: Ryall shows little regard for the ‘real’ story
+date: 2013-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00375/ryall-shows-little-regard-for-the-real-story.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/20/ryall-shows-little-regard-for-the-real-story/index.html
+layout: layout.njk
 ---
 Ryall shows little regard for the ‘real’ story
 ==============================================

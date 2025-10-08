@@ -1,9 +1,11 @@
 ---
 slug: labour-reshuffle
-title: "Labour reshuffle"
-date: 2010-06-15
+title: Labour reshuffle
+date: 2010-06-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1006/S00215/labour-reshuffle.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/15/labour-reshuffle/index.html
+layout: layout.njk
 ---
 Labour reshuffle
 ================

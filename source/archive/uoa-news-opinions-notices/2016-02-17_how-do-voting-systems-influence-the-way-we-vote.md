@@ -1,8 +1,11 @@
 ---
 slug: how-do-voting-systems-influence-the-way-we-vote
-title: "How do voting systems influence the way we vote?"
-date: 2016-02-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/how-do-voting-systems-influence-the-way-we-vote.html
+title: How do voting systems influence the way we vote?
+date: 2016-02-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/how-do-voting-systems-influence-the-way-we-vote.html
+permalink: /archive/2016/02/17/how-do-voting-systems-influence-the-way-we-vote/index.html
+layout: layout.njk
 ---
 How do voting systems influence the way we vote?
 ================================================

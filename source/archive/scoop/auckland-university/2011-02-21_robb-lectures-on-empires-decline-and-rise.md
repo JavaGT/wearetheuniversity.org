@@ -1,9 +1,12 @@
 ---
 slug: robb-lectures-on-empires-decline-and-rise
-title: "Robb Lectures On Empires’ Decline And Rise"
-date: 2011-02-21
-source-url: https://www.scoop.co.nz/stories/ED1102/S00063/robb-lectures-on-empires-decline-and-rise.htm
+title: Robb Lectures On Empires’ Decline And Rise
+date: 2011-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00063/robb-lectures-on-empires-decline-and-rise.htm
 author: auckland-university
+permalink: /archive/2011/02/21/robb-lectures-on-empires-decline-and-rise/index.html
+layout: layout.njk
 ---
 Robb Lectures On Empires’ Decline And Rise
 ==========================================

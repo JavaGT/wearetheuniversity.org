@@ -1,9 +1,12 @@
 ---
 slug: fewer-pacific-and-māori-babies-survive-with-heart-condition
-title: "Fewer Pacific And Māori Babies Survive with Heart Condition"
-date: 2018-03-26
-source-url: https://www.scoop.co.nz/stories/GE1803/S00073/fewer-pacific-and-maori-babies-survive-with-heart-condition.htm
+title: Fewer Pacific And Māori Babies Survive with Heart Condition
+date: 2018-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1803/S00073/fewer-pacific-and-maori-babies-survive-with-heart-condition.htm
 author: auckland-university
+permalink: /archive/2018/03/26/fewer-pacific-and-m/index.html
+layout: layout.njk
 ---
 Fewer Pacific And Māori Babies Survive with Heart Condition
 ===========================================================

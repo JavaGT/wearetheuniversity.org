@@ -1,9 +1,13 @@
 ---
 slug: schools-facing-large-bills-for-teacher-settlement
-title: "Schools facing large bills for teacher settlement"
-date: 2019-07-25
-source-url: https://www.scoop.co.nz/stories/PA1907/S00198/schools-facing-large-bills-for-teacher-settlement.htm
+title: Schools facing large bills for teacher settlement
+date: 2019-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00198/schools-facing-large-bills-for-teacher-settlement.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/07/25/schools-facing-large-bills-for-teacher-settlement/index.html
+layout: layout.njk
 ---
 Schools facing large bills for teacher settlement
 =================================================

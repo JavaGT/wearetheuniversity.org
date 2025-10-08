@@ -1,9 +1,12 @@
 ---
 slug: benefits-of-university-education-for-māori-and-pacific
-title: "Benefits of university education for Māori and Pacific"
-date: 2017-07-05
-source-url: https://www.scoop.co.nz/stories/ED1707/S00013/benefits-of-university-education-for-maori-and-pacific.htm
+title: Benefits of university education for Māori and Pacific
+date: 2017-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00013/benefits-of-university-education-for-maori-and-pacific.htm
 author: university-of-otago
+permalink: /archive/2017/07/05/benefits-of-university-education-for-m/index.html
+layout: layout.njk
 ---
 Benefits of university education for Māori and Pacific
 ======================================================

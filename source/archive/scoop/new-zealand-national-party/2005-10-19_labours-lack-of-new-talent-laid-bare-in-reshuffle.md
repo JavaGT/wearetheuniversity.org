@@ -1,9 +1,13 @@
 ---
 slug: labours-lack-of-new-talent-laid-bare-in-reshuffle
-title: "Labour’s lack of new talent laid bare in reshuffle"
-date: 2005-10-19
-source-url: https://www.scoop.co.nz/stories/PA0510/S00103/labours-lack-of-new-talent-laid-bare-in-reshuffle.htm
+title: Labour’s lack of new talent laid bare in reshuffle
+date: 2005-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00103/labours-lack-of-new-talent-laid-bare-in-reshuffle.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/10/19/labours-lack-of-new-talent-laid-bare-in-reshuffle/index.html
+layout: layout.njk
 ---
 Labour’s lack of new talent laid bare in reshuffle
 ==================================================

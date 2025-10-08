@@ -1,9 +1,12 @@
 ---
 slug: our-elderly-how-do-we-treat-them
-title: "Our Elderly: How Do We Treat Them?"
-date: 2004-05-12
-source-url: https://www.scoop.co.nz/stories/PA0405/S00219/our-elderly-how-do-we-treat-them.htm
+title: 'Our Elderly: How Do We Treat Them?'
+date: 2004-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00219/our-elderly-how-do-we-treat-them.htm
 author: new-zealand-first-party
+permalink: /archive/2004/05/12/our-elderly-how-do-we-treat-them/index.html
+layout: layout.njk
 ---
 Our Elderly: How Do We Treat Them?
 ==================================

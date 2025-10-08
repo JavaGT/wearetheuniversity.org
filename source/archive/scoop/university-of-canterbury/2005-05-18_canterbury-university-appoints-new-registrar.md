@@ -1,9 +1,12 @@
 ---
 slug: canterbury-university-appoints-new-registrar
-title: "Canterbury University appoints new Registrar"
-date: 2005-05-18
-source-url: https://www.scoop.co.nz/stories/ED0505/S00076/canterbury-university-appoints-new-registrar.htm
+title: Canterbury University appoints new Registrar
+date: 2005-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00076/canterbury-university-appoints-new-registrar.htm
 author: university-of-canterbury
+permalink: /archive/2005/05/18/canterbury-university-appoints-new-registrar/index.html
+layout: layout.njk
 ---
 Canterbury University appoints new Registrar
 ============================================

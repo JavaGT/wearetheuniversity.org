@@ -1,9 +1,13 @@
 ---
 slug: bringing-back-90-day-trials-a-good-start-but-act-will-bring-real-change
-title: "Bringing Back 90-day Trials A Good Start, But ACT Will Bring Real Change"
-date: 2023-08-29
-source-url: https://www.scoop.co.nz/stories/PO2308/S00280/bringing-back-90-day-trials-a-good-start-but-act-will-bring-real-change.htm
+title: Bringing Back 90-day Trials A Good Start, But ACT Will Bring Real Change
+date: 2023-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00280/bringing-back-90-day-trials-a-good-start-but-act-will-bring-real-change.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/08/29/bringing-back-90-day-trials-a-good-start-but-act-will-bring-real-change/index.html
+layout: layout.njk
 ---
 Bringing Back 90-day Trials A Good Start, But ACT Will Bring Real Change
 ========================================================================

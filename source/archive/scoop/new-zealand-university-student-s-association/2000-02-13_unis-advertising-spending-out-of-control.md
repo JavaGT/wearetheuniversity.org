@@ -1,9 +1,12 @@
 ---
 slug: unis-advertising-spending-out-of-control
-title: "Unis' Advertising Spending Out Of Control"
-date: 2000-02-13
-source-url: https://www.scoop.co.nz/stories/ED0002/S00009/unis-advertising-spending-out-of-control.htm
+title: Unis' Advertising Spending Out Of Control
+date: 2000-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00009/unis-advertising-spending-out-of-control.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/02/13/unis-advertising-spending-out-of-control/index.html
+layout: layout.njk
 ---
 Unis' Advertising Spending Out Of Control
 =========================================

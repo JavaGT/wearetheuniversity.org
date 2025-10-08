@@ -1,9 +1,12 @@
 ---
 slug: student-debt-the-best-contraceptive-say-report
-title: "Student debt the best contraceptive say report"
-date: 2004-07-26
-source-url: https://www.scoop.co.nz/stories/ED0407/S00072/student-debt-the-best-contraceptive-say-report.htm
+title: Student debt the best contraceptive say report
+date: 2004-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00072/student-debt-the-best-contraceptive-say-report.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/07/26/student-debt-the-best-contraceptive-say-report/index.html
+layout: layout.njk
 ---
 Student debt the best contraceptive say report
 ==============================================

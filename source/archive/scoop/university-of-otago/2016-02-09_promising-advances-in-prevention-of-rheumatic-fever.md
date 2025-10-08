@@ -1,9 +1,13 @@
 ---
 slug: promising-advances-in-prevention-of-rheumatic-fever
-title: "Promising advances in prevention of rheumatic fever"
-date: 2016-02-09
-source-url: https://www.scoop.co.nz/stories/SC1602/S00024/promising-advances-in-prevention-of-rheumatic-fever.htm
+title: Promising advances in prevention of rheumatic fever
+date: 2016-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00024/promising-advances-in-prevention-of-rheumatic-fever.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/02/09/promising-advances-in-prevention-of-rheumatic-fever/index.html
+layout: layout.njk
 ---
 Promising advances in prevention of rheumatic fever
 ===================================================

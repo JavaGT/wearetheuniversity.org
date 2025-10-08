@@ -1,9 +1,13 @@
 ---
 slug: labours-lax-approach-to-benefit-fraud-investigations
-title: "Labour’s Lax Approach To Benefit Fraud Investigations"
-date: 2021-06-16
-source-url: https://www.scoop.co.nz/stories/PA2106/S00121/labours-lax-approach-to-benefit-fraud-investigations.htm
+title: Labour’s Lax Approach To Benefit Fraud Investigations
+date: 2021-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00121/labours-lax-approach-to-benefit-fraud-investigations.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/06/16/labours-lax-approach-to-benefit-fraud-investigations/index.html
+layout: layout.njk
 ---
 Labour’s Lax Approach To Benefit Fraud Investigations
 =====================================================

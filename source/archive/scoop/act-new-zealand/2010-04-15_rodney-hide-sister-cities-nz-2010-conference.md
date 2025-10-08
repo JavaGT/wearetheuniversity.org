@@ -1,9 +1,12 @@
 ---
 slug: rodney-hide-sister-cities-nz-2010-conference
-title: "Rodney Hide: Sister Cities NZ 2010 Conference"
-date: 2010-04-15
-source-url: https://www.scoop.co.nz/stories/PA1004/S00154/rodney-hide-sister-cities-nz-2010-conference.htm
+title: 'Rodney Hide: Sister Cities NZ 2010 Conference'
+date: 2010-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00154/rodney-hide-sister-cities-nz-2010-conference.htm
 author: act-new-zealand
+permalink: /archive/2010/04/15/rodney-hide-sister-cities-nz-2010-conference/index.html
+layout: layout.njk
 ---
 Rodney Hide: Sister Cities NZ 2010 Conference
 =============================================

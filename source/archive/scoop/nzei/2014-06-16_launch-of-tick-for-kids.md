@@ -1,9 +1,11 @@
 ---
 slug: launch-of-tick-for-kids
-title: "Launch of Tick for Kids"
-date: 2014-06-16
+title: Launch of Tick for Kids
+date: 2014-06-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1406/S00217/launch-of-tick-for-kids.htm
 author: nzei
+permalink: /archive/2014/06/16/launch-of-tick-for-kids/index.html
+layout: layout.njk
 ---
 Launch of Tick for Kids
 =======================

@@ -1,9 +1,12 @@
 ---
 slug: govt-opens-door-to-free-trade-in-tertiary-ed
-title: "Govt Opens Door to Free Trade In Tertiary Ed."
-date: 2002-06-19
-source-url: https://www.scoop.co.nz/stories/ED0206/S00046/govt-opens-door-to-free-trade-in-tertiary-ed.htm
+title: Govt Opens Door to Free Trade In Tertiary Ed.
+date: 2002-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00046/govt-opens-door-to-free-trade-in-tertiary-ed.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/06/19/govt-opens-door-to-free-trade-in-tertiary-ed/index.html
+layout: layout.njk
 ---
 Govt Opens Door to Free Trade In Tertiary Ed.
 =============================================

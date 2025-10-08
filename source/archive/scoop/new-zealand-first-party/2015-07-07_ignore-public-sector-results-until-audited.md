@@ -1,9 +1,12 @@
 ---
 slug: ignore-public-sector-results-until-audited
-title: "Ignore Public Sector Results until Audited"
-date: 2015-07-07
-source-url: https://www.scoop.co.nz/stories/PA1507/S00131/ignore-public-sector-results-until-audited.htm
+title: Ignore Public Sector Results until Audited
+date: 2015-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00131/ignore-public-sector-results-until-audited.htm
 author: new-zealand-first-party
+permalink: /archive/2015/07/07/ignore-public-sector-results-until-audited/index.html
+layout: layout.njk
 ---
 Ignore Public Sector Results until Audited
 ==========================================

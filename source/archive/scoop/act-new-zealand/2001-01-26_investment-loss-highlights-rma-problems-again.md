@@ -1,9 +1,12 @@
 ---
 slug: investment-loss-highlights-rma-problems-again
-title: "Investment Loss Highlights RMA Problems Again"
-date: 2001-01-26
-source-url: https://www.scoop.co.nz/stories/PA0101/S00118/investment-loss-highlights-rma-problems-again.htm
+title: Investment Loss Highlights RMA Problems Again
+date: 2001-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00118/investment-loss-highlights-rma-problems-again.htm
 author: act-new-zealand
+permalink: /archive/2001/01/26/investment-loss-highlights-rma-problems-again/index.html
+layout: layout.njk
 ---
 Investment Loss Highlights RMA Problems Again
 =============================================

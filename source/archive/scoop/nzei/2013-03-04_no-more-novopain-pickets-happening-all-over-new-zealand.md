@@ -1,9 +1,13 @@
 ---
 slug: no-more-novopain-pickets-happening-all-over-new-zealand
-title: "No More Novopain pickets happening all over New Zealand"
-date: 2013-03-04
-source-url: https://www.scoop.co.nz/stories/PO1303/S00039/no-more-novopain-pickets-happening-all-over-new-zealand.htm
+title: No More Novopain pickets happening all over New Zealand
+date: 2013-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00039/no-more-novopain-pickets-happening-all-over-new-zealand.htm
 author: nzei
+permalink: >-
+  /archive/2013/03/04/no-more-novopain-pickets-happening-all-over-new-zealand/index.html
+layout: layout.njk
 ---
 No More Novopain pickets happening all over New Zealand
 =======================================================

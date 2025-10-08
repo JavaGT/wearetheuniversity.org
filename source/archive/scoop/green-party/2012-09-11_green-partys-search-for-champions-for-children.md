@@ -1,9 +1,12 @@
 ---
 slug: green-partys-search-for-champions-for-children
-title: "Green Party’s search for Champions for Children"
-date: 2012-09-11
-source-url: https://www.scoop.co.nz/stories/PA1209/S00137/green-partys-search-for-champions-for-children.htm
+title: Green Party’s search for Champions for Children
+date: 2012-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00137/green-partys-search-for-champions-for-children.htm
 author: green-party
+permalink: /archive/2012/09/11/green-partys-search-for-champions-for-children/index.html
+layout: layout.njk
 ---
 Green Party’s search for Champions for Children
 ===============================================

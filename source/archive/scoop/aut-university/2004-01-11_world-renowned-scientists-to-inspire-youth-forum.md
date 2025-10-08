@@ -1,9 +1,13 @@
 ---
 slug: world-renowned-scientists-to-inspire-youth-forum
-title: "World-renowned scientists to inspire youth forum"
-date: 2004-01-11
-source-url: https://www.scoop.co.nz/stories/ED0401/S00008/world-renowned-scientists-to-inspire-youth-forum.htm
+title: World-renowned scientists to inspire youth forum
+date: 2004-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00008/world-renowned-scientists-to-inspire-youth-forum.htm
 author: aut-university
+permalink: >-
+  /archive/2004/01/11/world-renowned-scientists-to-inspire-youth-forum/index.html
+layout: layout.njk
 ---
 World-renowned scientists to inspire youth forum
 ================================================

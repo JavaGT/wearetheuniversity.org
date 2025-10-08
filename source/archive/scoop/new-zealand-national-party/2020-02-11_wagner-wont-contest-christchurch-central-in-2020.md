@@ -1,9 +1,13 @@
 ---
 slug: wagner-wont-contest-christchurch-central-in-2020
-title: "Wagner Won’t Contest Christchurch Central In 2020"
-date: 2020-02-11
-source-url: https://www.scoop.co.nz/stories/PA2002/S00061/wagner-wont-contest-christchurch-central-in-2020.htm
+title: Wagner Won’t Contest Christchurch Central In 2020
+date: 2020-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00061/wagner-wont-contest-christchurch-central-in-2020.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/02/11/wagner-wont-contest-christchurch-central-in-2020/index.html
+layout: layout.njk
 ---
 Wagner Won’t Contest Christchurch Central In 2020
 =================================================

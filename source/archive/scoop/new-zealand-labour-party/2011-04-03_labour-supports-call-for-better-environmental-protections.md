@@ -1,9 +1,13 @@
 ---
 slug: labour-supports-call-for-better-environmental-protections
-title: "Labour supports call for better environmental protections"
-date: 2011-04-03
-source-url: https://www.scoop.co.nz/stories/PA1104/S00038/labour-supports-call-for-better-environmental-protections.htm
+title: Labour supports call for better environmental protections
+date: 2011-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00038/labour-supports-call-for-better-environmental-protections.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/03/labour-supports-call-for-better-environmental-protections/index.html
+layout: layout.njk
 ---
 Labour supports call for better environmental protections
 =========================================================

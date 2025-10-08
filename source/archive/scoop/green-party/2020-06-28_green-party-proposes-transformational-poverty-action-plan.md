@@ -1,9 +1,13 @@
 ---
 slug: green-party-proposes-transformational-poverty-action-plan
-title: "Green Party Proposes Transformational Poverty Action Plan"
-date: 2020-06-28
-source-url: https://www.scoop.co.nz/stories/PA2006/S00268/green-party-proposes-transformational-poverty-action-plan.htm
+title: Green Party Proposes Transformational Poverty Action Plan
+date: 2020-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00268/green-party-proposes-transformational-poverty-action-plan.htm
 author: green-party
+permalink: >-
+  /archive/2020/06/28/green-party-proposes-transformational-poverty-action-plan/index.html
+layout: layout.njk
 ---
 Green Party Proposes Transformational Poverty Action Plan
 =========================================================

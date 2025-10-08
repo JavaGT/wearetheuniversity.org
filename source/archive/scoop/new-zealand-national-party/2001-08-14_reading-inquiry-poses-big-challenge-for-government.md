@@ -1,9 +1,13 @@
 ---
 slug: reading-inquiry-poses-big-challenge-for-government
-title: "Reading Inquiry Poses Big Challenge For Government"
-date: 2001-08-14
-source-url: https://www.scoop.co.nz/stories/PA0108/S00272/reading-inquiry-poses-big-challenge-for-government.htm
+title: Reading Inquiry Poses Big Challenge For Government
+date: 2001-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00272/reading-inquiry-poses-big-challenge-for-government.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/08/14/reading-inquiry-poses-big-challenge-for-government/index.html
+layout: layout.njk
 ---
 Reading Inquiry Poses Big Challenge For Government
 ==================================================

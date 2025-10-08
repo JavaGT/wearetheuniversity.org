@@ -1,9 +1,13 @@
 ---
 slug: clover-species-a-solution-for-drought-prone-areas
-title: "Clover species a solution for drought-prone areas?"
-date: 2009-02-20
-source-url: https://www.scoop.co.nz/stories/SC0902/S00044/clover-species-a-solution-for-drought-prone-areas.htm
+title: Clover species a solution for drought-prone areas?
+date: 2009-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0902/S00044/clover-species-a-solution-for-drought-prone-areas.htm
 author: lincoln-university
+permalink: >-
+  /archive/2009/02/20/clover-species-a-solution-for-drought-prone-areas/index.html
+layout: layout.njk
 ---
 Clover species a solution for drought-prone areas?
 ==================================================

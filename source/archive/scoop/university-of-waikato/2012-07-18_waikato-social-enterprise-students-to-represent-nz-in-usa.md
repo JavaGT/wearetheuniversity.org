@@ -1,9 +1,13 @@
 ---
 slug: waikato-social-enterprise-students-to-represent-nz-in-usa
-title: "Waikato social enterprise students to represent NZ in USA"
-date: 2012-07-18
-source-url: https://www.scoop.co.nz/stories/ED1207/S00073/waikato-social-enterprise-students-to-represent-nz-in-usa.htm
+title: Waikato social enterprise students to represent NZ in USA
+date: 2012-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00073/waikato-social-enterprise-students-to-represent-nz-in-usa.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/07/18/waikato-social-enterprise-students-to-represent-nz-in-usa/index.html
+layout: layout.njk
 ---
 Waikato social enterprise students to represent NZ in USA
 =========================================================

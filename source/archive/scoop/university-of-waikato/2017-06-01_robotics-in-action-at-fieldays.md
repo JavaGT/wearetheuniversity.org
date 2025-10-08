@@ -1,9 +1,12 @@
 ---
 slug: robotics-in-action-at-fieldays
-title: "Robotics in action at Fieldays"
-date: 2017-06-01
-source-url: https://www.scoop.co.nz/stories/ED1706/S00004/robotics-in-action-at-fieldays.htm
+title: Robotics in action at Fieldays
+date: 2017-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00004/robotics-in-action-at-fieldays.htm
 author: university-of-waikato
+permalink: /archive/2017/06/01/robotics-in-action-at-fieldays/index.html
+layout: layout.njk
 ---
 Robotics in action at Fieldays
 ==============================

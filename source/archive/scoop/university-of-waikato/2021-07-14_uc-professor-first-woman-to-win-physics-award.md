@@ -1,9 +1,12 @@
 ---
 slug: uc-professor-first-woman-to-win-physics-award
-title: "UC Professor First Woman To Win Physics Award"
-date: 2021-07-14
-source-url: https://www.scoop.co.nz/stories/SC2107/S00035/uc-professor-first-woman-to-win-physics-award.htm
+title: UC Professor First Woman To Win Physics Award
+date: 2021-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00035/uc-professor-first-woman-to-win-physics-award.htm
 author: university-of-waikato
+permalink: /archive/2021/07/14/uc-professor-first-woman-to-win-physics-award/index.html
+layout: layout.njk
 ---
 UC Professor First Woman To Win Physics Award
 =============================================

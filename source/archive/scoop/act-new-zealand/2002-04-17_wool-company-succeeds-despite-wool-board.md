@@ -1,9 +1,12 @@
 ---
 slug: wool-company-succeeds-despite-wool-board
-title: "Wool Company Succeeds Despite Wool Board"
-date: 2002-04-17
-source-url: https://www.scoop.co.nz/stories/PA0204/S00235/wool-company-succeeds-despite-wool-board.htm
+title: Wool Company Succeeds Despite Wool Board
+date: 2002-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00235/wool-company-succeeds-despite-wool-board.htm
 author: act-new-zealand
+permalink: /archive/2002/04/17/wool-company-succeeds-despite-wool-board/index.html
+layout: layout.njk
 ---
 Wool Company Succeeds Despite Wool Board
 ========================================

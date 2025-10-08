@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-on-the-budgets-oil-price-projections
-title: "Fitzsimons On The Budget's Oil Price Projections"
-date: 2004-08-24
-source-url: https://www.scoop.co.nz/stories/PA0408/S00407/fitzsimons-on-the-budgets-oil-price-projections.htm
+title: Fitzsimons On The Budget's Oil Price Projections
+date: 2004-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00407/fitzsimons-on-the-budgets-oil-price-projections.htm
 author: green-party
+permalink: /archive/2004/08/24/fitzsimons-on-the-budgets-oil-price-projections/index.html
+layout: layout.njk
 ---
 Fitzsimons On The Budget's Oil Price Projections
 ================================================

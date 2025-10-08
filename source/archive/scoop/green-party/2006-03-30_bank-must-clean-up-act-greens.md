@@ -1,9 +1,12 @@
 ---
 slug: bank-must-clean-up-act-greens
-title: "Bank must clean up act - Greens"
-date: 2006-03-30
-source-url: https://www.scoop.co.nz/stories/PA0603/S00548/bank-must-clean-up-act-greens.htm
+title: Bank must clean up act - Greens
+date: 2006-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00548/bank-must-clean-up-act-greens.htm
 author: green-party
+permalink: /archive/2006/03/30/bank-must-clean-up-act-greens/index.html
+layout: layout.njk
 ---
 Bank must clean up act - Greens
 ===============================

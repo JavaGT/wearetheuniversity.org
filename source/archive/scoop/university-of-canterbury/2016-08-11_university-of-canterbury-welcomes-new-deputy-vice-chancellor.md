@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-welcomes-new-deputy-vice-chancellor
-title: "University of Canterbury welcomes new Deputy Vice-Chancellor"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/ED1608/S00021/university-of-canterbury-welcomes-new-deputy-vice-chancellor.htm
+title: University of Canterbury welcomes new Deputy Vice-Chancellor
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00021/university-of-canterbury-welcomes-new-deputy-vice-chancellor.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/08/11/university-of-canterbury-welcomes-new-deputy-vice-chancellor/index.html
+layout: layout.njk
 ---
 University of Canterbury welcomes new Deputy Vice-Chancellor
 ============================================================

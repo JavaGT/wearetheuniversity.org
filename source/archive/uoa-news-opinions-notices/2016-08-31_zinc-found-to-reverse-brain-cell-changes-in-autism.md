@@ -1,8 +1,12 @@
 ---
 slug: zinc-found-to-reverse-brain-cell-changes-in-autism
-title: "Zinc found to reverse brain cell changes in autism"
-date: 2016-08-31
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/zinc-found-to-reverse-brain-cell-changes-in-autism.html
+title: Zinc found to reverse brain cell changes in autism
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/zinc-found-to-reverse-brain-cell-changes-in-autism.html
+permalink: >-
+  /archive/2016/08/31/zinc-found-to-reverse-brain-cell-changes-in-autism/index.html
+layout: layout.njk
 ---
 Zinc found to reverse brain cell changes in autism
 ==================================================

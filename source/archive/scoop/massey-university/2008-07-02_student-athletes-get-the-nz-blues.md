@@ -1,9 +1,12 @@
 ---
 slug: student-athletes-get-the-nz-blues
-title: "Student athletes get the NZ Blues"
-date: 2008-07-02
-source-url: https://www.scoop.co.nz/stories/CU0807/S00013/student-athletes-get-the-nz-blues.htm
+title: Student athletes get the NZ Blues
+date: 2008-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0807/S00013/student-athletes-get-the-nz-blues.htm
 author: massey-university
+permalink: /archive/2008/07/02/student-athletes-get-the-nz-blues/index.html
+layout: layout.njk
 ---
 Student athletes get the NZ Blues
 =================================

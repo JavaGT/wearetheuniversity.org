@@ -1,9 +1,12 @@
 ---
 slug: vic-student-wins-young-scientist-of-the-year
-title: "Vic student wins Young Scientist of the Year"
-date: 2009-09-07
-source-url: https://www.scoop.co.nz/stories/HL0909/S00039/vic-student-wins-young-scientist-of-the-year.htm
+title: Vic student wins Young Scientist of the Year
+date: 2009-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0909/S00039/vic-student-wins-young-scientist-of-the-year.htm
 author: salient
+permalink: /archive/2009/09/07/vic-student-wins-young-scientist-of-the-year/index.html
+layout: layout.njk
 ---
 Vic student wins Young Scientist of the Year
 ============================================

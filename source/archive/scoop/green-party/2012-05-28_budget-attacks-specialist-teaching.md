@@ -1,9 +1,12 @@
 ---
 slug: budget-attacks-specialist-teaching
-title: "Budget attacks specialist teaching"
-date: 2012-05-28
-source-url: https://www.scoop.co.nz/stories/PA1205/S00494/budget-attacks-specialist-teaching.htm
+title: Budget attacks specialist teaching
+date: 2012-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00494/budget-attacks-specialist-teaching.htm
 author: green-party
+permalink: /archive/2012/05/28/budget-attacks-specialist-teaching/index.html
+layout: layout.njk
 ---
 Budget attacks specialist teaching
 ==================================

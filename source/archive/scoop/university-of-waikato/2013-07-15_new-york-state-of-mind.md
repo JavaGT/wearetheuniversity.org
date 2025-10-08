@@ -1,9 +1,11 @@
 ---
 slug: new-york-state-of-mind
-title: "New York state of mind"
-date: 2013-07-15
+title: New York state of mind
+date: 2013-07-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1307/S00079/new-york-state-of-mind.htm
 author: university-of-waikato
+permalink: /archive/2013/07/15/new-york-state-of-mind/index.html
+layout: layout.njk
 ---
 New York state of mind
 ======================

@@ -1,9 +1,13 @@
 ---
 slug: labours-biggest-fails-students-cant-do-the-basics
-title: "Labour’s Biggest Fails: Students Can’t Do The Basics"
-date: 2022-10-31
-source-url: https://www.scoop.co.nz/stories/PA2210/S00234/labours-biggest-fails-students-cant-do-the-basics.htm
+title: 'Labour’s Biggest Fails: Students Can’t Do The Basics'
+date: 2022-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00234/labours-biggest-fails-students-cant-do-the-basics.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/10/31/labours-biggest-fails-students-cant-do-the-basics/index.html
+layout: layout.njk
 ---
 Labour’s Biggest Fails: Students Can’t Do The Basics
 ====================================================

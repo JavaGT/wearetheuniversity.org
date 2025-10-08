@@ -1,9 +1,12 @@
 ---
 slug: budget-2012-burden-not-being-shared-out-fairly
-title: "Budget 2012: Burden not being shared out fairly"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/PA1205/S00443/budget-2012-burden-not-being-shared-out-fairly.htm
+title: 'Budget 2012: Burden not being shared out fairly'
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00443/budget-2012-burden-not-being-shared-out-fairly.htm
 author: green-party
+permalink: /archive/2012/05/24/budget-2012-burden-not-being-shared-out-fairly/index.html
+layout: layout.njk
 ---
 Budget 2012: Burden not being shared out fairly
 ===============================================

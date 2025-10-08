@@ -1,9 +1,12 @@
 ---
 slug: kiwi-meets-kangaroo-the-single-market-challenge
-title: "Kiwi meets Kangaroo - the single market challenge"
-date: 2006-06-23
-source-url: https://www.scoop.co.nz/stories/PA0606/S00482/kiwi-meets-kangaroo-the-single-market-challenge.htm
+title: Kiwi meets Kangaroo - the single market challenge
+date: 2006-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00482/kiwi-meets-kangaroo-the-single-market-challenge.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/23/kiwi-meets-kangaroo-the-single-market-challenge/index.html
+layout: layout.njk
 ---
 Kiwi meets Kangaroo - the single market challenge
 =================================================

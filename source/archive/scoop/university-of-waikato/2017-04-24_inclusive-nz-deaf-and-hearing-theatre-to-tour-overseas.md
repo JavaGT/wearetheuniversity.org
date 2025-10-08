@@ -1,9 +1,13 @@
 ---
 slug: inclusive-nz-deaf-and-hearing-theatre-to-tour-overseas
-title: "Inclusive NZ Deaf and hearing theatre to tour overseas"
-date: 2017-04-24
-source-url: https://www.scoop.co.nz/stories/CU1704/S00357/inclusive-nz-deaf-and-hearing-theatre-to-tour-overseas.htm
+title: Inclusive NZ Deaf and hearing theatre to tour overseas
+date: 2017-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1704/S00357/inclusive-nz-deaf-and-hearing-theatre-to-tour-overseas.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/04/24/inclusive-nz-deaf-and-hearing-theatre-to-tour-overseas/index.html
+layout: layout.njk
 ---
 Inclusive NZ Deaf and hearing theatre to tour overseas
 ======================================================

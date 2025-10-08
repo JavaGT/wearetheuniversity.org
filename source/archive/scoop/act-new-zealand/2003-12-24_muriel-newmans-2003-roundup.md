@@ -1,9 +1,11 @@
 ---
 slug: muriel-newmans-2003-roundup
-title: "Muriel Newman’s 2003 Roundup"
-date: 2003-12-24
+title: Muriel Newman’s 2003 Roundup
+date: 2003-12-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0312/S00553/muriel-newmans-2003-roundup.htm
 author: act-new-zealand
+permalink: /archive/2003/12/24/muriel-newmans-2003-roundup/index.html
+layout: layout.njk
 ---
 Muriel Newman’s 2003 Roundup
 ============================

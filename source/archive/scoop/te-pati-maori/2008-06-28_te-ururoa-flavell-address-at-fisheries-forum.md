@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-address-at-fisheries-forum
-title: "Te Ururoa Flavell: Address At Fisheries Forum"
-date: 2008-06-28
-source-url: https://www.scoop.co.nz/stories/PA0806/S00479/te-ururoa-flavell-address-at-fisheries-forum.htm
+title: 'Te Ururoa Flavell: Address At Fisheries Forum'
+date: 2008-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00479/te-ururoa-flavell-address-at-fisheries-forum.htm
 author: te-pati-maori
+permalink: /archive/2008/06/28/te-ururoa-flavell-address-at-fisheries-forum/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell: Address At Fisheries Forum
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: large-scale-emergencies-deserve-urgent-legislative-attention
-title: "Large-Scale Emergencies Deserve Urgent Legislative Attention"
-date: 2016-11-16
-source-url: https://www.scoop.co.nz/stories/PA1611/S00288/large-scale-emergencies-deserve-urgent-legislative-attention.htm
+title: Large-Scale Emergencies Deserve Urgent Legislative Attention
+date: 2016-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00288/large-scale-emergencies-deserve-urgent-legislative-attention.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/16/large-scale-emergencies-deserve-urgent-legislative-attention/index.html
+layout: layout.njk
 ---
 Large-Scale Emergencies Deserve Urgent Legislative Attention
 ============================================================

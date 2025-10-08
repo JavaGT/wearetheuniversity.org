@@ -1,8 +1,12 @@
 ---
 slug: student-services-online-gets-new-look-and-becomes-mobile-compatible
-title: "Student Services Online gets new look and becomes mobile compatible"
-date: 2017-07-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/08/student-services-online-upgrade.html
+title: Student Services Online gets new look and becomes mobile compatible
+date: 2017-07-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/08/student-services-online-upgrade.html
+permalink: >-
+  /archive/2017/07/07/student-services-online-gets-new-look-and-becomes-mobile-compatible/index.html
+layout: layout.njk
 ---
 Student Services Online gets new look and becomes mobile compatible
 ===================================================================

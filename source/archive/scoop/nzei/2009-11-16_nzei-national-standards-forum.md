@@ -1,9 +1,12 @@
 ---
 slug: nzei-national-standards-forum
-title: "NZEI National Standards Forum"
-date: 2009-11-16
-source-url: https://www.scoop.co.nz/stories/ED0911/S00064/nzei-national-standards-forum.htm
+title: NZEI National Standards Forum
+date: 2009-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00064/nzei-national-standards-forum.htm
 author: nzei
+permalink: /archive/2009/11/16/nzei-national-standards-forum/index.html
+layout: layout.njk
 ---
 NZEI National Standards Forum
 =============================

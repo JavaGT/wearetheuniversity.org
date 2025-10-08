@@ -1,9 +1,12 @@
 ---
 slug: honours-for-world-class-uc-researcher
-title: "Honours for World class UC researcher"
-date: 2004-12-03
-source-url: https://www.scoop.co.nz/stories/ED0412/S00015/honours-for-world-class-uc-researcher.htm
+title: Honours for World class UC researcher
+date: 2004-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00015/honours-for-world-class-uc-researcher.htm
 author: university-of-canterbury
+permalink: /archive/2004/12/03/honours-for-world-class-uc-researcher/index.html
+layout: layout.njk
 ---
 Honours for World class UC researcher
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: macdiarmid-an-inspiration-to-young-scientists
-title: "MacDiarmid an inspiration to young scientists"
-date: 2007-02-08
-source-url: https://www.scoop.co.nz/stories/ED0702/S00021/macdiarmid-an-inspiration-to-young-scientists.htm
+title: MacDiarmid an inspiration to young scientists
+date: 2007-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00021/macdiarmid-an-inspiration-to-young-scientists.htm
 author: massey-university
+permalink: /archive/2007/02/08/macdiarmid-an-inspiration-to-young-scientists/index.html
+layout: layout.njk
 ---
 MacDiarmid an inspiration to young scientists
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: farmer-survey-to-study-needs-of-small-herders
-title: "Farmer survey to study needs of small-herders"
-date: 2014-10-15
-source-url: https://www.scoop.co.nz/stories/BU1410/S00536/farmer-survey-to-study-needs-of-small-herders.htm
+title: Farmer survey to study needs of small-herders
+date: 2014-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1410/S00536/farmer-survey-to-study-needs-of-small-herders.htm
 author: lincoln-university
+permalink: /archive/2014/10/15/farmer-survey-to-study-needs-of-small-herders/index.html
+layout: layout.njk
 ---
 Farmer survey to study needs of small-herders
 =============================================

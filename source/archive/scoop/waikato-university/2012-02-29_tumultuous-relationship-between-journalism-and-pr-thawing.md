@@ -1,9 +1,13 @@
 ---
 slug: tumultuous-relationship-between-journalism-and-pr-thawing
-title: "Tumultuous relationship between Journalism and PR thawing"
-date: 2012-02-29
-source-url: https://www.scoop.co.nz/stories/ED1202/S00134/tumultuous-relationship-between-journalism-and-pr-thawing.htm
+title: Tumultuous relationship between Journalism and PR thawing
+date: 2012-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00134/tumultuous-relationship-between-journalism-and-pr-thawing.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/02/29/tumultuous-relationship-between-journalism-and-pr-thawing/index.html
+layout: layout.njk
 ---
 Tumultuous relationship between Journalism and PR thawing
 =========================================================

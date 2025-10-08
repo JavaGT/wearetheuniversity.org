@@ -1,9 +1,12 @@
 ---
 slug: trans-tasman-political-influence-runs-deep
-title: "Trans-Tasman political influence runs deep"
-date: 2007-01-30
-source-url: https://www.scoop.co.nz/stories/PO0701/S00158/trans-tasman-political-influence-runs-deep.htm
+title: Trans-Tasman political influence runs deep
+date: 2007-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0701/S00158/trans-tasman-political-influence-runs-deep.htm
 author: aut-university
+permalink: /archive/2007/01/30/trans-tasman-political-influence-runs-deep/index.html
+layout: layout.njk
 ---
 Trans-Tasman political influence runs deep
 ==========================================

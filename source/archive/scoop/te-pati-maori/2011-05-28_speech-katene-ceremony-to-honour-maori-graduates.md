@@ -1,9 +1,13 @@
 ---
 slug: speech-katene-ceremony-to-honour-maori-graduates
-title: "Speech: Katene - Ceremony to Honour Maori Graduates"
-date: 2011-05-28
-source-url: https://www.scoop.co.nz/stories/PA1105/S00600/speech-katene-ceremony-to-honour-maori-graduates.htm
+title: 'Speech: Katene - Ceremony to Honour Maori Graduates'
+date: 2011-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00600/speech-katene-ceremony-to-honour-maori-graduates.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/05/28/speech-katene-ceremony-to-honour-maori-graduates/index.html
+layout: layout.njk
 ---
 Speech: Katene - Ceremony to Honour Maori Graduates
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: loans-deception-calculated-and-deliberate
-title: "Loans deception calculated and deliberate"
-date: 2005-09-14
-source-url: https://www.scoop.co.nz/stories/PA0509/S00388/loans-deception-calculated-and-deliberate.htm
+title: Loans deception calculated and deliberate
+date: 2005-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00388/loans-deception-calculated-and-deliberate.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/14/loans-deception-calculated-and-deliberate/index.html
+layout: layout.njk
 ---
 Loans deception calculated and deliberate
 =========================================

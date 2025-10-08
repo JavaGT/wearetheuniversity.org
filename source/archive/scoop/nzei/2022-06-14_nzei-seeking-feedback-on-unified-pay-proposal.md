@@ -1,9 +1,12 @@
 ---
 slug: nzei-seeking-feedback-on-unified-pay-proposal
-title: "NZEI Seeking Feedback On Unified Pay Proposal"
-date: 2022-06-14
-source-url: https://www.scoop.co.nz/stories/ED2206/S00022/nzei-seeking-feedback-on-unified-pay-proposal.htm
+title: NZEI Seeking Feedback On Unified Pay Proposal
+date: 2022-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2206/S00022/nzei-seeking-feedback-on-unified-pay-proposal.htm
 author: nzei
+permalink: /archive/2022/06/14/nzei-seeking-feedback-on-unified-pay-proposal/index.html
+layout: layout.njk
 ---
 NZEI Seeking Feedback On Unified Pay Proposal
 =============================================

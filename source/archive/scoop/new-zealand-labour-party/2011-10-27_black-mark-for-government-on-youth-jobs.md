@@ -1,9 +1,12 @@
 ---
 slug: black-mark-for-government-on-youth-jobs
-title: "Black mark for Government on youth jobs"
-date: 2011-10-27
-source-url: https://www.scoop.co.nz/stories/PA1110/S00407/black-mark-for-government-on-youth-jobs.htm
+title: Black mark for Government on youth jobs
+date: 2011-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00407/black-mark-for-government-on-youth-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/27/black-mark-for-government-on-youth-jobs/index.html
+layout: layout.njk
 ---
 Black mark for Government on youth jobs
 =======================================

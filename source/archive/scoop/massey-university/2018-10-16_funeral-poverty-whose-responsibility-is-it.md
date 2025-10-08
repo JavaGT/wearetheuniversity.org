@@ -1,9 +1,12 @@
 ---
 slug: funeral-poverty-whose-responsibility-is-it
-title: "Funeral poverty – whose responsibility is it?"
-date: 2018-10-16
-source-url: https://www.scoop.co.nz/stories/AK1810/S00380/funeral-poverty-whose-responsibility-is-it.htm
+title: Funeral poverty – whose responsibility is it?
+date: 2018-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1810/S00380/funeral-poverty-whose-responsibility-is-it.htm
 author: massey-university
+permalink: /archive/2018/10/16/funeral-poverty-whose-responsibility-is-it/index.html
+layout: layout.njk
 ---
 Funeral poverty – whose responsibility is it?
 =============================================

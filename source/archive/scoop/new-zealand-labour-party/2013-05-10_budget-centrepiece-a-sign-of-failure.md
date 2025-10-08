@@ -1,9 +1,12 @@
 ---
 slug: budget-centrepiece-a-sign-of-failure
-title: "Budget centrepiece a sign of failure"
-date: 2013-05-10
-source-url: https://www.scoop.co.nz/stories/PA1305/S00174/budget-centrepiece-a-sign-of-failure.htm
+title: Budget centrepiece a sign of failure
+date: 2013-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00174/budget-centrepiece-a-sign-of-failure.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/10/budget-centrepiece-a-sign-of-failure/index.html
+layout: layout.njk
 ---
 Budget centrepiece a sign of failure
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: research-on-climate-change-aims-to-give-voice-to-pacific-people
-title: "Research On Climate Change Aims To Give Voice To Pacific People"
-date: 2020-02-24
-source-url: https://www.scoop.co.nz/stories/SC2002/S00055/research-on-climate-change-aims-to-give-voice-to-pacific-people.htm
+title: Research On Climate Change Aims To Give Voice To Pacific People
+date: 2020-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2002/S00055/research-on-climate-change-aims-to-give-voice-to-pacific-people.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/02/24/research-on-climate-change-aims-to-give-voice-to-pacific-people/index.html
+layout: layout.njk
 ---
 Research On Climate Change Aims To Give Voice To Pacific People
 ===============================================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-16
-title: "AUS Tertiary Update  Vol.4 No.16"
-date: 2001-05-24
-source-url: https://www.scoop.co.nz/stories/ED0105/S00046/aus-tertiary-update-vol4-no16.htm
+title: AUS Tertiary Update  Vol.4 No.16
+date: 2001-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00046/aus-tertiary-update-vol4-no16.htm
 author: association-of-university-staff
+permalink: /archive/2001/05/24/aus-tertiary-update-vol-4-no-16/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.4 No.16
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: suez-canal-expansion-opens-door-to-mediterranean-invasions
-title: "Suez Canal expansion opens door to Mediterranean invasions"
-date: 2015-08-06
-source-url: https://www.scoop.co.nz/stories/ED1508/S00019/suez-canal-expansion-opens-door-to-mediterranean-invasions.htm
+title: Suez Canal expansion opens door to Mediterranean invasions
+date: 2015-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00019/suez-canal-expansion-opens-door-to-mediterranean-invasions.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/08/06/suez-canal-expansion-opens-door-to-mediterranean-invasions/index.html
+layout: layout.njk
 ---
 Suez Canal expansion opens door to Mediterranean invasions
 ==========================================================

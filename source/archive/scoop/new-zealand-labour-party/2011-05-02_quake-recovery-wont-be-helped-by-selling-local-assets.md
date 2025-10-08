@@ -1,9 +1,13 @@
 ---
 slug: quake-recovery-wont-be-helped-by-selling-local-assets
-title: "Quake recovery won’t be helped by selling local assets"
-date: 2011-05-02
-source-url: https://www.scoop.co.nz/stories/PA1105/S00013/quake-recovery-wont-be-helped-by-selling-local-assets.htm
+title: Quake recovery won’t be helped by selling local assets
+date: 2011-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00013/quake-recovery-wont-be-helped-by-selling-local-assets.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/02/quake-recovery-wont-be-helped-by-selling-local-assets/index.html
+layout: layout.njk
 ---
 Quake recovery won’t be helped by selling local assets
 ======================================================

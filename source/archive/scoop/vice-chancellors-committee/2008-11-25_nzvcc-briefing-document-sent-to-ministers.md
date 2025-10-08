@@ -1,9 +1,12 @@
 ---
 slug: nzvcc-briefing-document-sent-to-ministers
-title: "NZVCC briefing document sent to ministers"
-date: 2008-11-25
-source-url: https://www.scoop.co.nz/stories/ED0811/S00068/nzvcc-briefing-document-sent-to-ministers.htm
+title: NZVCC briefing document sent to ministers
+date: 2008-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00068/nzvcc-briefing-document-sent-to-ministers.htm
 author: vice-chancellors-committee
+permalink: /archive/2008/11/25/nzvcc-briefing-document-sent-to-ministers/index.html
+layout: layout.njk
 ---
 NZVCC briefing document sent to ministers
 =========================================

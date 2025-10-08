@@ -1,9 +1,13 @@
 ---
 slug: coral-devouring-seastar-thrives-in-warming-ocean
-title: "Coral-devouring seastar thrives in warming ocean"
-date: 2015-02-13
-source-url: https://www.scoop.co.nz/stories/SC1502/S00022/coral-devouring-seastar-thrives-in-warming-ocean.htm
+title: Coral-devouring seastar thrives in warming ocean
+date: 2015-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1502/S00022/coral-devouring-seastar-thrives-in-warming-ocean.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/02/13/coral-devouring-seastar-thrives-in-warming-ocean/index.html
+layout: layout.njk
 ---
 Coral-devouring seastar thrives in warming ocean
 ================================================

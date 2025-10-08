@@ -1,9 +1,13 @@
 ---
 slug: government-should-scrap-loans-for-student-unions
-title: "Government should scrap loans for student unions"
-date: 2010-02-24
-source-url: https://www.scoop.co.nz/stories/PO1002/S00259/government-should-scrap-loans-for-student-unions.htm
+title: Government should scrap loans for student unions
+date: 2010-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1002/S00259/government-should-scrap-loans-for-student-unions.htm
 author: student-choice
+permalink: >-
+  /archive/2010/02/24/government-should-scrap-loans-for-student-unions/index.html
+layout: layout.njk
 ---
 Government should scrap loans for student unions
 ================================================

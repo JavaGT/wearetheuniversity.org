@@ -1,9 +1,13 @@
 ---
 slug: national-selects-scott-simpson-as-coromandel-candidate
-title: "National Selects Scott Simpson as Coromandel Candidate"
-date: 2011-04-20
-source-url: https://www.scoop.co.nz/stories/PO1104/S00255/national-selects-scott-simpson-as-coromandel-candidate.htm
+title: National Selects Scott Simpson as Coromandel Candidate
+date: 2011-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00255/national-selects-scott-simpson-as-coromandel-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/04/20/national-selects-scott-simpson-as-coromandel-candidate/index.html
+layout: layout.njk
 ---
 National Selects Scott Simpson as Coromandel Candidate
 ======================================================

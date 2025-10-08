@@ -1,9 +1,12 @@
 ---
 slug: waikato-research-has-international-impact
-title: "Waikato Research Has International Impact"
-date: 2006-03-31
-source-url: https://www.scoop.co.nz/stories/ED0603/S00094/waikato-research-has-international-impact.htm
+title: Waikato Research Has International Impact
+date: 2006-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00094/waikato-research-has-international-impact.htm
 author: waikato-university
+permalink: /archive/2006/03/31/waikato-research-has-international-impact/index.html
+layout: layout.njk
 ---
 Waikato Research Has International Impact
 =========================================

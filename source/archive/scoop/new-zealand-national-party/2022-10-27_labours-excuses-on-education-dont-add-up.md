@@ -1,9 +1,12 @@
 ---
 slug: labours-excuses-on-education-dont-add-up
-title: "Labour’s Excuses On Education Don’t Add Up"
-date: 2022-10-27
-source-url: https://www.scoop.co.nz/stories/PA2210/S00207/labours-excuses-on-education-dont-add-up.htm
+title: Labour’s Excuses On Education Don’t Add Up
+date: 2022-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00207/labours-excuses-on-education-dont-add-up.htm
 author: new-zealand-national-party
+permalink: /archive/2022/10/27/labours-excuses-on-education-dont-add-up/index.html
+layout: layout.njk
 ---
 Labour’s Excuses On Education Don’t Add Up
 ==========================================

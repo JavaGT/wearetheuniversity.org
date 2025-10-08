@@ -1,9 +1,13 @@
 ---
 slug: clark-anderton-must-take-responsibility-for-bank
-title: "Clark,  Anderton Must Take Responsibility For Bank"
-date: 2002-01-31
-source-url: https://www.scoop.co.nz/stories/PA0201/S00234/clark-anderton-must-take-responsibility-for-bank.htm
+title: Clark,  Anderton Must Take Responsibility For Bank
+date: 2002-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00234/clark-anderton-must-take-responsibility-for-bank.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/01/31/clark-anderton-must-take-responsibility-for-bank/index.html
+layout: layout.njk
 ---
 Clark, Anderton Must Take Responsibility For Bank
 =================================================

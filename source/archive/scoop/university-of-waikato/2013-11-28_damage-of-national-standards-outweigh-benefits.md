@@ -1,9 +1,12 @@
 ---
 slug: damage-of-national-standards-outweigh-benefits
-title: "Damage of National Standards outweigh benefits"
-date: 2013-11-28
-source-url: https://www.scoop.co.nz/stories/ED1311/S00194/damage-of-national-standards-outweigh-benefits.htm
+title: Damage of National Standards outweigh benefits
+date: 2013-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00194/damage-of-national-standards-outweigh-benefits.htm
 author: university-of-waikato
+permalink: /archive/2013/11/28/damage-of-national-standards-outweigh-benefits/index.html
+layout: layout.njk
 ---
 Damage of National Standards outweigh benefits
 ==============================================

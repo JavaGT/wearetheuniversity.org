@@ -1,9 +1,12 @@
 ---
 slug: secrecy-over-scholarship-failure-must-end
-title: "Secrecy over scholarship failure must end"
-date: 2005-04-29
-source-url: https://www.scoop.co.nz/stories/PA0504/S00600/secrecy-over-scholarship-failure-must-end.htm
+title: Secrecy over scholarship failure must end
+date: 2005-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00600/secrecy-over-scholarship-failure-must-end.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/29/secrecy-over-scholarship-failure-must-end/index.html
+layout: layout.njk
 ---
 Secrecy over scholarship failure must end
 =========================================

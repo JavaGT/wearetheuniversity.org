@@ -1,9 +1,13 @@
 ---
 slug: young-people-forced-to-wait-for-mental-health-help
-title: "Young people forced to wait for mental health help"
-date: 2016-10-23
-source-url: https://www.scoop.co.nz/stories/PA1610/S00367/young-people-forced-to-wait-for-mental-health-help.htm
+title: Young people forced to wait for mental health help
+date: 2016-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00367/young-people-forced-to-wait-for-mental-health-help.htm
 author: green-party
+permalink: >-
+  /archive/2016/10/23/young-people-forced-to-wait-for-mental-health-help/index.html
+layout: layout.njk
 ---
 Young people forced to wait for mental health help
 ==================================================

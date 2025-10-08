@@ -1,9 +1,13 @@
 ---
 slug: half-of-students-still-not-attending-school-regularly
-title: "Half Of Students Still Not Attending School Regularly"
-date: 2023-04-27
-source-url: https://www.scoop.co.nz/stories/PA2304/S00176/half-of-students-still-not-attending-school-regularly.htm
+title: Half Of Students Still Not Attending School Regularly
+date: 2023-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00176/half-of-students-still-not-attending-school-regularly.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/04/27/half-of-students-still-not-attending-school-regularly/index.html
+layout: layout.njk
 ---
 Half Of Students Still Not Attending School Regularly
 =====================================================

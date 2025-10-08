@@ -1,9 +1,12 @@
 ---
 slug: lost-tribe-set-to-multiply-under-labour
-title: "‘Lost tribe’ set to multiply under Labour"
-date: 2008-03-06
-source-url: https://www.scoop.co.nz/stories/PA0803/S00117/lost-tribe-set-to-multiply-under-labour.htm
+title: ‘Lost tribe’ set to multiply under Labour
+date: 2008-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00117/lost-tribe-set-to-multiply-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/06/lost-tribe-set-to-multiply-under-labour/index.html
+layout: layout.njk
 ---
 ‘Lost tribe’ set to multiply under Labour
 =========================================

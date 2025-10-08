@@ -1,9 +1,13 @@
 ---
 slug: top-students-to-begin-studies-at-worlds-best-universities
-title: "Top students to begin studies at world’s best universities"
-date: 2012-09-06
-source-url: https://www.scoop.co.nz/stories/ED1209/S00029/top-students-to-begin-studies-at-worlds-best-universities.htm
+title: Top students to begin studies at world’s best universities
+date: 2012-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00029/top-students-to-begin-studies-at-worlds-best-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2012/09/06/top-students-to-begin-studies-at-worlds-best-universities/index.html
+layout: layout.njk
 ---
 Top students to begin studies at world’s best universities
 ==========================================================

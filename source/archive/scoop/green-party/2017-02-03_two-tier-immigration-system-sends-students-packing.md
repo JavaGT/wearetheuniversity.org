@@ -1,9 +1,13 @@
 ---
 slug: two-tier-immigration-system-sends-students-packing
-title: "Two-tier immigration system sends students packing"
-date: 2017-02-03
-source-url: https://www.scoop.co.nz/stories/PA1702/S00046/two-tier-immigration-system-sends-students-packing.htm
+title: Two-tier immigration system sends students packing
+date: 2017-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00046/two-tier-immigration-system-sends-students-packing.htm
 author: green-party
+permalink: >-
+  /archive/2017/02/03/two-tier-immigration-system-sends-students-packing/index.html
+layout: layout.njk
 ---
 Two-tier immigration system sends students packing
 ==================================================

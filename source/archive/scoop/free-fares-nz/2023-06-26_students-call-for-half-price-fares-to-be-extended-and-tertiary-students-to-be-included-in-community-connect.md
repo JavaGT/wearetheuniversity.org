@@ -1,9 +1,16 @@
 ---
-slug: students-call-for-half-price-fares-to-be-extended-and-tertiary-students-to-be-included-in-community-connect
-title: "Students Call For Half-price Fares To Be Extended And Tertiary Students To Be Included In Community Connect"
-date: 2023-06-26
-source-url: https://www.scoop.co.nz/stories/PO2306/S00228/students-call-for-half-price-fares-to-be-extended-and-tertiary-students-to-be-included-in-community-connect.htm
+slug: >-
+  students-call-for-half-price-fares-to-be-extended-and-tertiary-students-to-be-included-in-community-connect
+title: >-
+  Students Call For Half-price Fares To Be Extended And Tertiary Students To Be
+  Included In Community Connect
+date: 2023-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00228/students-call-for-half-price-fares-to-be-extended-and-tertiary-students-to-be-included-in-community-connect.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2023/06/26/students-call-for-half-price-fares-to-be-extended-and-tertiary-students-to-be-included-in-community-connect/index.html
+layout: layout.njk
 ---
 Students Call For Half-price Fares To Be Extended And Tertiary Students To Be Included In Community Connect
 ===========================================================================================================

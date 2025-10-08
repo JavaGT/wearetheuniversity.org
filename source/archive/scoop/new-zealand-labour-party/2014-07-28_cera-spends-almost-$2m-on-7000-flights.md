@@ -1,9 +1,12 @@
 ---
 slug: cera-spends-almost-$2m-on-7000-flights
-title: "CERA spends almost $2m on 7000 flights"
-date: 2014-07-28
-source-url: https://www.scoop.co.nz/stories/PA1407/S00531/cera-spends-almost-2m-on-7000-flights.htm
+title: CERA spends almost $2m on 7000 flights
+date: 2014-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00531/cera-spends-almost-2m-on-7000-flights.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/28/cera-spends-almost-/index.html
+layout: layout.njk
 ---
 CERA spends almost $2m on 7000 flights
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: media-advisory-orientation-tour-gets-green-light
-title: "Media Advisory Orientation tour gets green light"
-date: 2003-02-21
-source-url: https://www.scoop.co.nz/stories/PA0302/S00398/media-advisory-orientation-tour-gets-green-light.htm
+title: Media Advisory Orientation tour gets green light
+date: 2003-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00398/media-advisory-orientation-tour-gets-green-light.htm
 author: green-party
+permalink: >-
+  /archive/2003/02/21/media-advisory-orientation-tour-gets-green-light/index.html
+layout: layout.njk
 ---
 Media Advisory Orientation tour gets green light
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: meeting-to-discuss-impact-of-police-changes
-title: "Meeting to discuss impact of police changes"
-date: 2010-11-16
-source-url: https://www.scoop.co.nz/stories/PA1011/S00304/meeting-to-discuss-impact-of-police-changes.htm
+title: Meeting to discuss impact of police changes
+date: 2010-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00304/meeting-to-discuss-impact-of-police-changes.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/16/meeting-to-discuss-impact-of-police-changes/index.html
+layout: layout.njk
 ---
 Meeting to discuss impact of police changes
 ===========================================

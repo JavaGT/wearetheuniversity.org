@@ -1,9 +1,11 @@
 ---
 slug: the-coming-election
-title: "The Coming Election"
-date: 2004-09-06
+title: The Coming Election
+date: 2004-09-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0409/S00100/the-coming-election.htm
 author: act-new-zealand
+permalink: /archive/2004/09/06/the-coming-election/index.html
+layout: layout.njk
 ---
 The Coming Election
 ===================

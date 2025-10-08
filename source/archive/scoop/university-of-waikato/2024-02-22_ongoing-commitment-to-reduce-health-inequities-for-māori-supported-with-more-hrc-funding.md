@@ -1,9 +1,16 @@
 ---
-slug: ongoing-commitment-to-reduce-health-inequities-for-māori-supported-with-more-hrc-funding
-title: "Ongoing Commitment To Reduce Health Inequities For Māori Supported With More HRC Funding"
-date: 2024-02-22
-source-url: https://www.scoop.co.nz/stories/GE2402/S00041/ongoing-commitment-to-reduce-health-inequities-for-maori-supported-with-more-hrc-funding.htm
+slug: >-
+  ongoing-commitment-to-reduce-health-inequities-for-māori-supported-with-more-hrc-funding
+title: >-
+  Ongoing Commitment To Reduce Health Inequities For Māori Supported With More
+  HRC Funding
+date: 2024-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2402/S00041/ongoing-commitment-to-reduce-health-inequities-for-maori-supported-with-more-hrc-funding.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2024/02/22/ongoing-commitment-to-reduce-health-inequities-for-m/index.html
+layout: layout.njk
 ---
 Ongoing Commitment To Reduce Health Inequities For Māori Supported With More HRC Funding
 ========================================================================================

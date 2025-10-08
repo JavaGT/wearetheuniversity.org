@@ -1,9 +1,13 @@
 ---
 slug: national-standards-approach-could-publicly-identify-students
-title: "National Standards approach could publicly identify students"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/PO1208/S00135/national-standards-approach-could-publicly-identify-students.htm
+title: National Standards approach could publicly identify students
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00135/national-standards-approach-could-publicly-identify-students.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/09/national-standards-approach-could-publicly-identify-students/index.html
+layout: layout.njk
 ---
 National Standards approach could publicly identify students
 ============================================================

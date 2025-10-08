@@ -1,9 +1,12 @@
 ---
 slug: fuel-tax-costs-kiwis-$1bn-more-yet-regions-miss-out
-title: "Fuel tax costs Kiwis $1bn more yet regions miss out"
-date: 2018-07-24
-source-url: https://www.scoop.co.nz/stories/PA1807/S00202/fuel-tax-costs-kiwis-1bn-more-yet-regions-miss-out.htm
+title: Fuel tax costs Kiwis $1bn more yet regions miss out
+date: 2018-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00202/fuel-tax-costs-kiwis-1bn-more-yet-regions-miss-out.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/24/fuel-tax-costs-kiwis-/index.html
+layout: layout.njk
 ---
 Fuel tax costs Kiwis $1bn more yet regions miss out
 ===================================================

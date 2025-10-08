@@ -1,9 +1,12 @@
 ---
 slug: milking-international-students
-title: "Milking international students"
-date: 2020-01-10
-source-url: https://www.scoop.co.nz/stories/ED2001/S00002/milking-international-students.htm
+title: Milking international students
+date: 2020-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2001/S00002/milking-international-students.htm
 author: new-zealand-international-students-association
+permalink: /archive/2020/01/10/milking-international-students/index.html
+layout: layout.njk
 ---
 Milking international students
 ==============================

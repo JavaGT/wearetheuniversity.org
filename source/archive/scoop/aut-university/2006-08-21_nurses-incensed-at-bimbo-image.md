@@ -1,9 +1,12 @@
 ---
 slug: nurses-incensed-at-bimbo-image
-title: "Nurses Incensed At \"Bimbo\" Image"
-date: 2006-08-21
-source-url: https://www.scoop.co.nz/stories/PO0608/S00240/nurses-incensed-at-bimbo-image.htm
+title: Nurses Incensed At "Bimbo" Image
+date: 2006-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0608/S00240/nurses-incensed-at-bimbo-image.htm
 author: aut-university
+permalink: /archive/2006/08/21/nurses-incensed-at-bimbo-image/index.html
+layout: layout.njk
 ---
 Nurses Incensed At "Bimbo" Image
 ================================

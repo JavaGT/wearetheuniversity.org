@@ -1,9 +1,13 @@
 ---
 slug: research-suggests-people-should-be-paid-for-donating-organs
-title: "Research suggests people should be paid for donating organs"
-date: 2015-01-21
-source-url: https://www.scoop.co.nz/stories/GE1501/S00056/research-suggests-people-should-be-paid-for-donating-organs.htm
+title: Research suggests people should be paid for donating organs
+date: 2015-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1501/S00056/research-suggests-people-should-be-paid-for-donating-organs.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/21/research-suggests-people-should-be-paid-for-donating-organs/index.html
+layout: layout.njk
 ---
 Research suggests people should be paid for donating organs
 ===========================================================

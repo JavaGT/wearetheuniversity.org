@@ -1,9 +1,12 @@
 ---
 slug: minister-has-got-it-wrong-on-dolphin-deaths
-title: "Minister has got it wrong on Dolphin deaths"
-date: 2008-03-19
-source-url: https://www.scoop.co.nz/stories/PA0803/S00332/minister-has-got-it-wrong-on-dolphin-deaths.htm
+title: Minister has got it wrong on Dolphin deaths
+date: 2008-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00332/minister-has-got-it-wrong-on-dolphin-deaths.htm
 author: green-party
+permalink: /archive/2008/03/19/minister-has-got-it-wrong-on-dolphin-deaths/index.html
+layout: layout.njk
 ---
 Minister has got it wrong on Dolphin deaths
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: attendance-officers-are-back-but-is-it-too-little-too-late
-title: "Attendance Officers Are Back - But Is It Too Little, Too Late?"
-date: 2023-02-27
-source-url: https://www.scoop.co.nz/stories/ED2302/S00029/attendance-officers-are-back-but-is-it-too-little-too-late.htm
+title: Attendance Officers Are Back - But Is It Too Little, Too Late?
+date: 2023-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2302/S00029/attendance-officers-are-back-but-is-it-too-little-too-late.htm
 author: maxim-institute
+permalink: >-
+  /archive/2023/02/27/attendance-officers-are-back-but-is-it-too-little-too-late/index.html
+layout: layout.njk
 ---
 Attendance Officers Are Back - But Is It Too Little, Too Late?
 ==============================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-promotes-racial-inequities-again
-title: "Labour Promotes Racial Inequities? Again"
-date: 2004-01-16
-source-url: https://www.scoop.co.nz/stories/PA0401/S00089/labour-promotes-racial-inequities-again.htm
+title: Labour Promotes Racial Inequities? Again
+date: 2004-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00089/labour-promotes-racial-inequities-again.htm
 author: act-new-zealand
+permalink: /archive/2004/01/16/labour-promotes-racial-inequities-again/index.html
+layout: layout.njk
 ---
 Labour Promotes Racial Inequities? Again
 ========================================

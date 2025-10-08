@@ -1,9 +1,13 @@
 ---
 slug: productivity-commission-report-another-blow-for-education
-title: "Productivity Commission Report Another Blow for Education"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/PA1703/S00334/productivity-commission-report-another-blow-for-education.htm
+title: Productivity Commission Report Another Blow for Education
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00334/productivity-commission-report-another-blow-for-education.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/03/21/productivity-commission-report-another-blow-for-education/index.html
+layout: layout.njk
 ---
 Productivity Commission Report Another Blow for Education
 =========================================================

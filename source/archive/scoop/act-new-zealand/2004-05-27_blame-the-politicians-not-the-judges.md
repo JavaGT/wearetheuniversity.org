@@ -1,9 +1,12 @@
 ---
 slug: blame-the-politicians-not-the-judges
-title: "Blame The Politicians, Not The Judges"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/PA0405/S00570/blame-the-politicians-not-the-judges.htm
+title: Blame The Politicians, Not The Judges
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00570/blame-the-politicians-not-the-judges.htm
 author: act-new-zealand
+permalink: /archive/2004/05/27/blame-the-politicians-not-the-judges/index.html
+layout: layout.njk
 ---
 Blame The Politicians, Not The Judges
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-must-tackle-overbridge-danger
-title: "Govt must tackle overbridge danger"
-date: 2006-06-13
-source-url: https://www.scoop.co.nz/stories/PA0606/S00202/govt-must-tackle-overbridge-danger.htm
+title: Govt must tackle overbridge danger
+date: 2006-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00202/govt-must-tackle-overbridge-danger.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/13/govt-must-tackle-overbridge-danger/index.html
+layout: layout.njk
 ---
 Govt must tackle overbridge danger
 ==================================

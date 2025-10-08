@@ -1,9 +1,12 @@
 ---
 slug: spare-a-thought-today-for-those-at-work-ctu
-title: "Spare A Thought Today For Those At Work -- CTU"
-date: 2007-12-25
-source-url: https://www.scoop.co.nz/stories/PO0712/S00323/spare-a-thought-today-for-those-at-work-ctu.htm
+title: Spare A Thought Today For Those At Work -- CTU
+date: 2007-12-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0712/S00323/spare-a-thought-today-for-those-at-work-ctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/12/25/spare-a-thought-today-for-those-at-work-ctu/index.html
+layout: layout.njk
 ---
 Spare A Thought Today For Those At Work -- CTU
 ==============================================

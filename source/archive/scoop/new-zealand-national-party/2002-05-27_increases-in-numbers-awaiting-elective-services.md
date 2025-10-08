@@ -1,9 +1,12 @@
 ---
 slug: increases-in-numbers-awaiting-elective-services
-title: "Increases In Numbers Awaiting Elective Services"
-date: 2002-05-27
-source-url: https://www.scoop.co.nz/stories/PA0205/S00622/increases-in-numbers-awaiting-elective-services.htm
+title: Increases In Numbers Awaiting Elective Services
+date: 2002-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00622/increases-in-numbers-awaiting-elective-services.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/27/increases-in-numbers-awaiting-elective-services/index.html
+layout: layout.njk
 ---
 Increases In Numbers Awaiting Elective Services
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: claudelands-the-answer-for-the-growing-number-of-graduands
-title: "Claudelands the answer for the growing number of graduands?"
-date: 2012-07-19
-source-url: https://www.scoop.co.nz/stories/AK1207/S00362/claudelands-the-answer-for-the-growing-number-of-graduands.htm
+title: Claudelands the answer for the growing number of graduands?
+date: 2012-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1207/S00362/claudelands-the-answer-for-the-growing-number-of-graduands.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/07/19/claudelands-the-answer-for-the-growing-number-of-graduands/index.html
+layout: layout.njk
 ---
 Claudelands the answer for the growing number of graduands?
 ===========================================================

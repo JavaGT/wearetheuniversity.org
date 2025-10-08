@@ -1,9 +1,12 @@
 ---
 slug: lincoln-scholars-set-to-tackle-the-big-issues
-title: "Lincoln scholars set to tackle the big issues"
-date: 2015-02-23
-source-url: https://www.scoop.co.nz/stories/ED1502/S00082/lincoln-scholars-set-to-tackle-the-big-issues.htm
+title: Lincoln scholars set to tackle the big issues
+date: 2015-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00082/lincoln-scholars-set-to-tackle-the-big-issues.htm
 author: lincoln-university
+permalink: /archive/2015/02/23/lincoln-scholars-set-to-tackle-the-big-issues/index.html
+layout: layout.njk
 ---
 Lincoln scholars set to tackle the big issues
 =============================================

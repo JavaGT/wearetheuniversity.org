@@ -1,9 +1,12 @@
 ---
 slug: it-all-depends-on-the-brew-lincoln-university
-title: "It all depends on the brew - Lincoln University"
-date: 2013-10-04
-source-url: https://www.scoop.co.nz/stories/SC1310/S00008/it-all-depends-on-the-brew-lincoln-university.htm
+title: It all depends on the brew - Lincoln University
+date: 2013-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00008/it-all-depends-on-the-brew-lincoln-university.htm
 author: lincoln-university
+permalink: /archive/2013/10/04/it-all-depends-on-the-brew-lincoln-university/index.html
+layout: layout.njk
 ---
 It all depends on the brew - Lincoln University
 ===============================================

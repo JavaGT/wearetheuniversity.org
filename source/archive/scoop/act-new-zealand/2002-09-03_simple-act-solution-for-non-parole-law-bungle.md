@@ -1,9 +1,12 @@
 ---
 slug: simple-act-solution-for-non-parole-law-bungle
-title: "Simple ACT Solution For Non-Parole Law Bungle"
-date: 2002-09-03
-source-url: https://www.scoop.co.nz/stories/PA0209/S00035/simple-act-solution-for-non-parole-law-bungle.htm
+title: Simple ACT Solution For Non-Parole Law Bungle
+date: 2002-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00035/simple-act-solution-for-non-parole-law-bungle.htm
 author: act-new-zealand
+permalink: /archive/2002/09/03/simple-act-solution-for-non-parole-law-bungle/index.html
+layout: layout.njk
 ---
 Simple ACT Solution For Non-Parole Law Bungle
 =============================================

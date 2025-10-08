@@ -1,9 +1,13 @@
 ---
 slug: students-association-helps-to-feed-future-generation-of-christchurch-students
-title: "Students’ Association Helps To Feed Future Generation Of Christchurch Students"
-date: 2020-12-10
-source-url: https://www.scoop.co.nz/stories/ED2012/S00020/students-association-helps-to-feed-future-generation-of-christchurch-students.htm
+title: Students’ Association Helps To Feed Future Generation Of Christchurch Students
+date: 2020-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00020/students-association-helps-to-feed-future-generation-of-christchurch-students.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2020/12/10/students-association-helps-to-feed-future-generation-of-christchurch-students/index.html
+layout: layout.njk
 ---
 Students’ Association Helps To Feed Future Generation Of Christchurch Students
 ==============================================================================

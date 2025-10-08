@@ -1,9 +1,12 @@
 ---
 slug: knee-jerk-response-to-crisis-increases-danger
-title: "'Knee-jerk' response to crisis increases danger"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/ED0810/S00073/knee-jerk-response-to-crisis-increases-danger.htm
+title: '''Knee-jerk'' response to crisis increases danger'
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00073/knee-jerk-response-to-crisis-increases-danger.htm
 author: massey-university
+permalink: /archive/2008/10/17/knee-jerk-response-to-crisis-increases-danger/index.html
+layout: layout.njk
 ---
 'Knee-jerk' response to crisis increases danger
 ===============================================

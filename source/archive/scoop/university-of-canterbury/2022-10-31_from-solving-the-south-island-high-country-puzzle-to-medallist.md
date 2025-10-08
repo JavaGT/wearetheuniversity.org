@@ -1,9 +1,13 @@
 ---
 slug: from-solving-the-south-island-high-country-puzzle-to-medallist
-title: "From Solving The South Island High Country Puzzle To Medallist"
-date: 2022-10-31
-source-url: https://www.scoop.co.nz/stories/ED2210/S00045/from-solving-the-south-island-high-country-puzzle-to-medallist.htm
+title: From Solving The South Island High Country Puzzle To Medallist
+date: 2022-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2210/S00045/from-solving-the-south-island-high-country-puzzle-to-medallist.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/10/31/from-solving-the-south-island-high-country-puzzle-to-medallist/index.html
+layout: layout.njk
 ---
 From Solving The South Island High Country Puzzle To Medallist
 ==============================================================

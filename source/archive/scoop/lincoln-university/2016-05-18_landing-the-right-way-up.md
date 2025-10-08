@@ -1,9 +1,11 @@
 ---
 slug: landing-the-right-way-up
-title: "Landing the right way up"
-date: 2016-05-18
+title: Landing the right way up
+date: 2016-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1605/S00074/landing-the-right-way-up.htm
 author: lincoln-university
+permalink: /archive/2016/05/18/landing-the-right-way-up/index.html
+layout: layout.njk
 ---
 Landing the right way up
 ========================

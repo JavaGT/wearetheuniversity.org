@@ -1,9 +1,12 @@
 ---
 slug: study-tour-explores-paris-provence-and-painters
-title: "Study tour explores Paris, Provence and painters"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/CU1305/S00458/study-tour-explores-paris-provence-and-painters.htm
+title: Study tour explores Paris, Provence and painters
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1305/S00458/study-tour-explores-paris-provence-and-painters.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/28/study-tour-explores-paris-provence-and-painters/index.html
+layout: layout.njk
 ---
 Study tour explores Paris, Provence and painters
 ================================================

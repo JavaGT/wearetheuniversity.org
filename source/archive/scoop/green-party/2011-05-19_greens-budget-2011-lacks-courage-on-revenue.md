@@ -1,9 +1,12 @@
 ---
 slug: greens-budget-2011-lacks-courage-on-revenue
-title: "Greens: Budget 2011 lacks courage on revenue"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PA1105/S00407/greens-budget-2011-lacks-courage-on-revenue.htm
+title: 'Greens: Budget 2011 lacks courage on revenue'
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00407/greens-budget-2011-lacks-courage-on-revenue.htm
 author: green-party
+permalink: /archive/2011/05/19/greens-budget-2011-lacks-courage-on-revenue/index.html
+layout: layout.njk
 ---
 Greens: Budget 2011 lacks courage on revenue
 ============================================

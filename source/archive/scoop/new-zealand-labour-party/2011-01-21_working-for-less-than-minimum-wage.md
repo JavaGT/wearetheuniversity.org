@@ -1,9 +1,12 @@
 ---
 slug: working-for-less-than-minimum-wage
-title: "Working for less than minimum wage"
-date: 2011-01-21
-source-url: https://www.scoop.co.nz/stories/PA1101/S00069/working-for-less-than-minimum-wage.htm
+title: Working for less than minimum wage
+date: 2011-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00069/working-for-less-than-minimum-wage.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/21/working-for-less-than-minimum-wage/index.html
+layout: layout.njk
 ---
 Working for less than minimum wage
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-childrens-rights-education
-title: "Maxim Institute:  Children's rights, Education"
-date: 2008-02-22
-source-url: https://www.scoop.co.nz/stories/PO0802/S00274/maxim-institute-childrens-rights-education.htm
+title: 'Maxim Institute:  Children''s rights, Education'
+date: 2008-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0802/S00274/maxim-institute-childrens-rights-education.htm
 author: maxim-institute
+permalink: /archive/2008/02/22/maxim-institute-childrens-rights-education/index.html
+layout: layout.njk
 ---
 Maxim Institute: Children's rights, Education
 =============================================

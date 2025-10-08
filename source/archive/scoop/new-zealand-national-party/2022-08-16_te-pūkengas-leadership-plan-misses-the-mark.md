@@ -1,9 +1,12 @@
 ---
 slug: te-pūkengas-leadership-plan-misses-the-mark
-title: "Te Pūkenga’s Leadership Plan Misses The Mark"
-date: 2022-08-16
-source-url: https://www.scoop.co.nz/stories/PA2208/S00148/te-pukengas-leadership-plan-misses-the-mark.htm
+title: Te Pūkenga’s Leadership Plan Misses The Mark
+date: 2022-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00148/te-pukengas-leadership-plan-misses-the-mark.htm
 author: new-zealand-national-party
+permalink: /archive/2022/08/16/te-p/index.html
+layout: layout.njk
 ---
 Te Pūkenga’s Leadership Plan Misses The Mark
 ============================================

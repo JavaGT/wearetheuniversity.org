@@ -1,9 +1,11 @@
 ---
 slug: the-fee-freeze-is-on!
-title: "The fee freeze is on!"
-date: 2000-07-11
+title: The fee freeze is on!
+date: 2000-07-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0007/S00009/the-fee-freeze-is-on.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/07/11/the-fee-freeze-is-on/index.html
+layout: layout.njk
 ---
 The fee freeze is on!
 =====================

@@ -1,9 +1,12 @@
 ---
 slug: labour-catches-up-with-acts-covid-response
-title: "Labour Catches Up With ACT’s Covid Response"
-date: 2020-10-06
-source-url: https://www.scoop.co.nz/stories/PA2010/S00043/labour-catches-up-with-acts-covid-response.htm
+title: Labour Catches Up With ACT’s Covid Response
+date: 2020-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00043/labour-catches-up-with-acts-covid-response.htm
 author: act-new-zealand
+permalink: /archive/2020/10/06/labour-catches-up-with-acts-covid-response/index.html
+layout: layout.njk
 ---
 Labour Catches Up With ACT’s Covid Response
 ===========================================

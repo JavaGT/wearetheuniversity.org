@@ -1,9 +1,13 @@
 ---
 slug: calls-on-auckland-university-to-divest-from-fossil-fuels
-title: "Calls on Auckland University to divest from fossil fuels"
-date: 2015-08-19
-source-url: https://www.scoop.co.nz/stories/ED1508/S00092/calls-on-auckland-university-to-divest-from-fossil-fuels.htm
+title: Calls on Auckland University to divest from fossil fuels
+date: 2015-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00092/calls-on-auckland-university-to-divest-from-fossil-fuels.htm
 author: fossil-free-auckland
+permalink: >-
+  /archive/2015/08/19/calls-on-auckland-university-to-divest-from-fossil-fuels/index.html
+layout: layout.njk
 ---
 Calls on Auckland University to divest from fossil fuels
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: brash-speech-nationals-first-ten-tasks
-title: "Brash Speech: National's First Ten Tasks"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/PA0509/S00415/brash-speech-nationals-first-ten-tasks.htm
+title: 'Brash Speech: National''s First Ten Tasks'
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00415/brash-speech-nationals-first-ten-tasks.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/15/brash-speech-nationals-first-ten-tasks/index.html
+layout: layout.njk
 ---
 Brash Speech: National's First Ten Tasks
 ========================================

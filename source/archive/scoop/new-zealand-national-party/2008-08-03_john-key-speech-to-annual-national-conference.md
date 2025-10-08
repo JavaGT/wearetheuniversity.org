@@ -1,9 +1,12 @@
 ---
 slug: john-key-speech-to-annual-national-conference
-title: "John Key Speech To Annual National Conference"
-date: 2008-08-03
-source-url: https://www.scoop.co.nz/stories/PA0808/S00023/john-key-speech-to-annual-national-conference.htm
+title: John Key Speech To Annual National Conference
+date: 2008-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00023/john-key-speech-to-annual-national-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/03/john-key-speech-to-annual-national-conference/index.html
+layout: layout.njk
 ---
 John Key Speech To Annual National Conference
 =============================================

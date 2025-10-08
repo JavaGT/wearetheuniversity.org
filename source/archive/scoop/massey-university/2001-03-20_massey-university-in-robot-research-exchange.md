@@ -1,9 +1,12 @@
 ---
 slug: massey-university-in-robot-research-exchange
-title: "Massey University In Robot Research Exchange"
-date: 2001-03-20
-source-url: https://www.scoop.co.nz/stories/SC0103/S00069/massey-university-in-robot-research-exchange.htm
+title: Massey University In Robot Research Exchange
+date: 2001-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0103/S00069/massey-university-in-robot-research-exchange.htm
 author: massey-university
+permalink: /archive/2001/03/20/massey-university-in-robot-research-exchange/index.html
+layout: layout.njk
 ---
 Massey University In Robot Research Exchange
 ============================================

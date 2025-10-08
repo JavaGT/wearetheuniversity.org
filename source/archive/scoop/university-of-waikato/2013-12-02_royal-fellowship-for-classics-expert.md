@@ -1,9 +1,12 @@
 ---
 slug: royal-fellowship-for-classics-expert
-title: "Royal Fellowship for classics expert"
-date: 2013-12-02
-source-url: https://www.scoop.co.nz/stories/CU1312/S00006/royal-fellowship-for-classics-expert.htm
+title: Royal Fellowship for classics expert
+date: 2013-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00006/royal-fellowship-for-classics-expert.htm
 author: university-of-waikato
+permalink: /archive/2013/12/02/royal-fellowship-for-classics-expert/index.html
+layout: layout.njk
 ---
 Royal Fellowship for classics expert
 ====================================

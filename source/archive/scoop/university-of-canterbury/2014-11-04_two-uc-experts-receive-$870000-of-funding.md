@@ -1,9 +1,12 @@
 ---
 slug: two-uc-experts-receive-$870000-of-funding
-title: "Two UC experts receive $870,000 of funding"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/ED1411/S00013/two-uc-experts-receive-870000-of-funding.htm
+title: Two UC experts receive $870,000 of funding
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00013/two-uc-experts-receive-870000-of-funding.htm
 author: university-of-canterbury
+permalink: /archive/2014/11/04/two-uc-experts-receive-/index.html
+layout: layout.njk
 ---
 Two UC experts receive $870,000 of funding
 ==========================================

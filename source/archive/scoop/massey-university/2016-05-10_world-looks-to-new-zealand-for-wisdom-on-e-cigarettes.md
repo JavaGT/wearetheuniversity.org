@@ -1,9 +1,13 @@
 ---
 slug: world-looks-to-new-zealand-for-wisdom-on-e-cigarettes
-title: "World looks to New Zealand for wisdom on e-cigarettes"
-date: 2016-05-10
-source-url: https://www.scoop.co.nz/stories/GE1605/S00049/world-looks-to-new-zealand-for-wisdom-on-e-cigarettes.htm
+title: World looks to New Zealand for wisdom on e-cigarettes
+date: 2016-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00049/world-looks-to-new-zealand-for-wisdom-on-e-cigarettes.htm
 author: massey-university
+permalink: >-
+  /archive/2016/05/10/world-looks-to-new-zealand-for-wisdom-on-e-cigarettes/index.html
+layout: layout.njk
 ---
 World looks to New Zealand for wisdom on e-cigarettes
 =====================================================

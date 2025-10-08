@@ -1,9 +1,12 @@
 ---
 slug: rodney-hide-forward-thinking-for-new-zealand
-title: "Rodney Hide - Forward Thinking for New Zealand"
-date: 2006-02-02
-source-url: https://www.scoop.co.nz/stories/PA0602/S00027/rodney-hide-forward-thinking-for-new-zealand.htm
+title: Rodney Hide - Forward Thinking for New Zealand
+date: 2006-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00027/rodney-hide-forward-thinking-for-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2006/02/02/rodney-hide-forward-thinking-for-new-zealand/index.html
+layout: layout.njk
 ---
 Rodney Hide - Forward Thinking for New Zealand
 ==============================================

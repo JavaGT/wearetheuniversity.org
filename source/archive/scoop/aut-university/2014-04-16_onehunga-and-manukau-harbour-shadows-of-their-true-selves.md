@@ -1,9 +1,13 @@
 ---
 slug: onehunga-and-manukau-harbour-shadows-of-their-true-selves
-title: "Onehunga and Manukau Harbour \"shadows of their true selves\""
-date: 2014-04-16
-source-url: https://www.scoop.co.nz/stories/AK1404/S00359/onehunga-and-manukau-harbour-shadows-of-their-true-selves.htm
+title: Onehunga and Manukau Harbour "shadows of their true selves"
+date: 2014-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1404/S00359/onehunga-and-manukau-harbour-shadows-of-their-true-selves.htm
 author: aut-university
+permalink: >-
+  /archive/2014/04/16/onehunga-and-manukau-harbour-shadows-of-their-true-selves/index.html
+layout: layout.njk
 ---
 Onehunga and Manukau Harbour \"shadows of their true selves"
 ===========================================================

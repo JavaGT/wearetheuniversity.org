@@ -1,9 +1,12 @@
 ---
 slug: top-10-government-spending-blowouts
-title: "Top 10 Government Spending Blowouts"
-date: 2020-09-15
-source-url: https://www.scoop.co.nz/stories/PA2009/S00134/top-10-government-spending-blowouts.htm
+title: Top 10 Government Spending Blowouts
+date: 2020-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00134/top-10-government-spending-blowouts.htm
 author: act-new-zealand
+permalink: /archive/2020/09/15/top-10-government-spending-blowouts/index.html
+layout: layout.njk
 ---
 Top 10 Government Spending Blowouts
 ===================================

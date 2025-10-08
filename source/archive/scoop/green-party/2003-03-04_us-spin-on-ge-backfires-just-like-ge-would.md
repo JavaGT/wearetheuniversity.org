@@ -1,9 +1,12 @@
 ---
 slug: us-spin-on-ge-backfires-just-like-ge-would
-title: "US spin on GE backfires - just like GE would"
-date: 2003-03-04
-source-url: https://www.scoop.co.nz/stories/PA0303/S00036/us-spin-on-ge-backfires-just-like-ge-would.htm
+title: US spin on GE backfires - just like GE would
+date: 2003-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00036/us-spin-on-ge-backfires-just-like-ge-would.htm
 author: green-party
+permalink: /archive/2003/03/04/us-spin-on-ge-backfires-just-like-ge-would/index.html
+layout: layout.njk
 ---
 US spin on GE backfires - just like GE would
 ============================================

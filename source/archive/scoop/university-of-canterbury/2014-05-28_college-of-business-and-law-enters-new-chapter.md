@@ -1,9 +1,12 @@
 ---
 slug: college-of-business-and-law-enters-new-chapter
-title: "College of Business and Law enters new chapter"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/ED1405/S00137/college-of-business-and-law-enters-new-chapter.htm
+title: College of Business and Law enters new chapter
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00137/college-of-business-and-law-enters-new-chapter.htm
 author: university-of-canterbury
+permalink: /archive/2014/05/28/college-of-business-and-law-enters-new-chapter/index.html
+layout: layout.njk
 ---
 College of Business and Law enters new chapter
 ==============================================

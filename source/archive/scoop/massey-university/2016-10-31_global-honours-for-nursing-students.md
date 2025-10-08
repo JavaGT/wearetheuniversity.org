@@ -1,9 +1,12 @@
 ---
 slug: global-honours-for-nursing-students
-title: "Global honours for nursing students"
-date: 2016-10-31
-source-url: https://www.scoop.co.nz/stories/ED1610/S00108/global-honours-for-nursing-students.htm
+title: Global honours for nursing students
+date: 2016-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00108/global-honours-for-nursing-students.htm
 author: massey-university
+permalink: /archive/2016/10/31/global-honours-for-nursing-students/index.html
+layout: layout.njk
 ---
 Global honours for nursing students
 ===================================

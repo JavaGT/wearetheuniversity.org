@@ -1,9 +1,12 @@
 ---
 slug: student-foodbanks-to-continue-under-labour
-title: "Student foodbanks to continue under Labour"
-date: 1999-12-23
-source-url: https://www.scoop.co.nz/stories/ED9912/S00015/student-foodbanks-to-continue-under-labour.htm
+title: Student foodbanks to continue under Labour
+date: 1999-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00015/student-foodbanks-to-continue-under-labour.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/12/23/student-foodbanks-to-continue-under-labour/index.html
+layout: layout.njk
 ---
 Student foodbanks to continue under Labour
 ==========================================

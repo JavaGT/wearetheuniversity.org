@@ -1,9 +1,12 @@
 ---
 slug: speech-turei-mending-the-safety-net
-title: "Speech: Turei - Mending the Safety Net"
-date: 2017-07-16
-source-url: https://www.scoop.co.nz/stories/PA1707/S00237/speech-turei-mending-the-safety-net.htm
+title: 'Speech: Turei - Mending the Safety Net'
+date: 2017-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00237/speech-turei-mending-the-safety-net.htm
 author: green-party
+permalink: /archive/2017/07/16/speech-turei-mending-the-safety-net/index.html
+layout: layout.njk
 ---
 Speech: Turei - Mending the Safety Net
 ======================================

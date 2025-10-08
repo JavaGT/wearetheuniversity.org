@@ -1,9 +1,12 @@
 ---
 slug: wonders-of-wool-on-the-world-stage
-title: "Wonders of wool on the world stage"
-date: 2011-02-18
-source-url: https://www.scoop.co.nz/stories/SC1102/S00055/wonders-of-wool-on-the-world-stage.htm
+title: Wonders of wool on the world stage
+date: 2011-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1102/S00055/wonders-of-wool-on-the-world-stage.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/02/18/wonders-of-wool-on-the-world-stage/index.html
+layout: layout.njk
 ---
 Wonders of wool on the world stage
 ==================================

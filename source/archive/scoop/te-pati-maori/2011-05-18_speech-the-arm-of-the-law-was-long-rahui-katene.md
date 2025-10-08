@@ -1,9 +1,12 @@
 ---
 slug: speech-the-arm-of-the-law-was-long-rahui-katene
-title: "Speech: 'The arm of the law was long' : Rahui Katene"
-date: 2011-05-18
-source-url: https://www.scoop.co.nz/stories/PA1105/S00380/speech-the-arm-of-the-law-was-long-rahui-katene.htm
+title: 'Speech: ''The arm of the law was long'' : Rahui Katene'
+date: 2011-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00380/speech-the-arm-of-the-law-was-long-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2011/05/18/speech-the-arm-of-the-law-was-long-rahui-katene/index.html
+layout: layout.njk
 ---
 Speech: 'The arm of the law was long' : Rahui Katene
 ====================================================

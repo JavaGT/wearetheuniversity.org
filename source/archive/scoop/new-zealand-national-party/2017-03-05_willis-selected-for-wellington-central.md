@@ -1,9 +1,12 @@
 ---
 slug: willis-selected-for-wellington-central
-title: "Willis selected for Wellington Central"
-date: 2017-03-05
-source-url: https://www.scoop.co.nz/stories/PO1703/S00052/willis-selected-for-wellington-central.htm
+title: Willis selected for Wellington Central
+date: 2017-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00052/willis-selected-for-wellington-central.htm
 author: new-zealand-national-party
+permalink: /archive/2017/03/05/willis-selected-for-wellington-central/index.html
+layout: layout.njk
 ---
 Willis selected for Wellington Central
 ======================================

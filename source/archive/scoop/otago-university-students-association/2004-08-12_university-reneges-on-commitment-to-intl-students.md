@@ -1,9 +1,13 @@
 ---
 slug: university-reneges-on-commitment-to-intl-students
-title: "University Reneges on Commitment to Int'l Students"
-date: 2004-08-12
-source-url: https://www.scoop.co.nz/stories/ED0408/S00052/university-reneges-on-commitment-to-intl-students.htm
+title: University Reneges on Commitment to Int'l Students
+date: 2004-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00052/university-reneges-on-commitment-to-intl-students.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2004/08/12/university-reneges-on-commitment-to-intl-students/index.html
+layout: layout.njk
 ---
 University Reneges on Commitment to Int'l Students
 ==================================================

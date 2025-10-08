@@ -1,9 +1,12 @@
 ---
 slug: growing-support-in-usa-&-canada-for-smokefree-laws
-title: "Growing Support in USA & Canada for smokefree laws"
-date: 2015-09-16
-source-url: https://www.scoop.co.nz/stories/PO1509/S00188/growing-support-in-usa-canada-for-smokefree-laws.htm
+title: Growing Support in USA & Canada for smokefree laws
+date: 2015-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1509/S00188/growing-support-in-usa-canada-for-smokefree-laws.htm
 author: university-of-otago
+permalink: /archive/2015/09/16/growing-support-in-usa-/index.html
+layout: layout.njk
 ---
 Growing Support in USA & Canada for smokefree laws
 ==================================================

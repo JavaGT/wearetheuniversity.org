@@ -1,9 +1,13 @@
 ---
 slug: labour-turnover-unnecessarily-high-in-new-zealand
-title: "Labour Turnover Unnecessarily High In New Zealand"
-date: 2001-10-15
-source-url: https://www.scoop.co.nz/stories/BU0110/S00082/labour-turnover-unnecessarily-high-in-new-zealand.htm
+title: Labour Turnover Unnecessarily High In New Zealand
+date: 2001-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0110/S00082/labour-turnover-unnecessarily-high-in-new-zealand.htm
 author: auckland-university
+permalink: >-
+  /archive/2001/10/15/labour-turnover-unnecessarily-high-in-new-zealand/index.html
+layout: layout.njk
 ---
 Labour Turnover Unnecessarily High In New Zealand
 =================================================

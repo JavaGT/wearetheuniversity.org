@@ -1,9 +1,12 @@
 ---
 slug: nzs-oldest-school-of-journalism-turns-40
-title: "NZ’s oldest School of Journalism turns 40"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/ED0603/S00047/nzs-oldest-school-of-journalism-turns-40.htm
+title: NZ’s oldest School of Journalism turns 40
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00047/nzs-oldest-school-of-journalism-turns-40.htm
 author: massey-university
+permalink: /archive/2006/03/20/nzs-oldest-school-of-journalism-turns-40/index.html
+layout: layout.njk
 ---
 NZ’s oldest School of Journalism turns 40
 =========================================

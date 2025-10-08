@@ -1,9 +1,13 @@
 ---
 slug: tauranga-to-hamilton-expressway-extension-at-risk
-title: "Tauranga to Hamilton expressway extension at risk"
-date: 2018-01-10
-source-url: https://www.scoop.co.nz/stories/PA1801/S00013/tauranga-to-hamilton-expressway-extension-at-risk.htm
+title: Tauranga to Hamilton expressway extension at risk
+date: 2018-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00013/tauranga-to-hamilton-expressway-extension-at-risk.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/01/10/tauranga-to-hamilton-expressway-extension-at-risk/index.html
+layout: layout.njk
 ---
 Tauranga to Hamilton expressway extension at risk
 =================================================

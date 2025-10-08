@@ -1,9 +1,12 @@
 ---
 slug: ken-shirley-speech-back-to-the-future-for-rma
-title: "Ken Shirley Speech: Back To The Future For RMA"
-date: 2004-09-06
-source-url: https://www.scoop.co.nz/stories/PA0409/S00096/ken-shirley-speech-back-to-the-future-for-rma.htm
+title: 'Ken Shirley Speech: Back To The Future For RMA'
+date: 2004-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00096/ken-shirley-speech-back-to-the-future-for-rma.htm
 author: act-new-zealand
+permalink: /archive/2004/09/06/ken-shirley-speech-back-to-the-future-for-rma/index.html
+layout: layout.njk
 ---
 Ken Shirley Speech: Back To The Future For RMA
 ==============================================

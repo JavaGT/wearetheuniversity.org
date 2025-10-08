@@ -1,9 +1,13 @@
 ---
 slug: firearms-tranche-two-not-focusing-on-the-right-people
-title: "Firearms Tranche Two not focusing on the right people"
-date: 2019-07-22
-source-url: https://www.scoop.co.nz/stories/PA1907/S00167/firearms-tranche-two-not-focusing-on-the-right-people.htm
+title: Firearms Tranche Two not focusing on the right people
+date: 2019-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00167/firearms-tranche-two-not-focusing-on-the-right-people.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/07/22/firearms-tranche-two-not-focusing-on-the-right-people/index.html
+layout: layout.njk
 ---
 Firearms Tranche Two not focusing on the right people
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: surprise-surprise-fees-could-soar-under-nats
-title: "Surprise, surprise - fees could soar under Nats"
-date: 2007-10-02
-source-url: https://www.scoop.co.nz/stories/PA0710/S00043/surprise-surprise-fees-could-soar-under-nats.htm
+title: Surprise, surprise - fees could soar under Nats
+date: 2007-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00043/surprise-surprise-fees-could-soar-under-nats.htm
 author: green-party
+permalink: /archive/2007/10/02/surprise-surprise-fees-could-soar-under-nats/index.html
+layout: layout.njk
 ---
 Surprise, surprise - fees could soar under Nats
 ===============================================

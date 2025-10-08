@@ -1,9 +1,11 @@
 ---
 slug: heather-roys-diary
-title: "Heather Roy's Diary"
-date: 2005-11-04
+title: Heather Roy's Diary
+date: 2005-11-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00060/heather-roys-diary.htm
 author: act-new-zealand
+permalink: /archive/2005/11/04/heather-roys-diary/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary
 ===================

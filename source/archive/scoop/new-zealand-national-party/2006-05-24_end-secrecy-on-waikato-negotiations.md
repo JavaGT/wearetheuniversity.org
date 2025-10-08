@@ -1,9 +1,12 @@
 ---
 slug: end-secrecy-on-waikato-negotiations
-title: "End secrecy on Waikato negotiations"
-date: 2006-05-24
-source-url: https://www.scoop.co.nz/stories/PA0605/S00588/end-secrecy-on-waikato-negotiations.htm
+title: End secrecy on Waikato negotiations
+date: 2006-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00588/end-secrecy-on-waikato-negotiations.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/24/end-secrecy-on-waikato-negotiations/index.html
+layout: layout.njk
 ---
 End secrecy on Waikato negotiations
 ===================================

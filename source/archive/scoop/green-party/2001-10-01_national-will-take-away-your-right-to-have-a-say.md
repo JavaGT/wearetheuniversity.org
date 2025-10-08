@@ -1,9 +1,13 @@
 ---
 slug: national-will-take-away-your-right-to-have-a-say
-title: "National Will Take Away Your Right To Have A Say"
-date: 2001-10-01
-source-url: https://www.scoop.co.nz/stories/PA0110/S00012/national-will-take-away-your-right-to-have-a-say.htm
+title: National Will Take Away Your Right To Have A Say
+date: 2001-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00012/national-will-take-away-your-right-to-have-a-say.htm
 author: green-party
+permalink: >-
+  /archive/2001/10/01/national-will-take-away-your-right-to-have-a-say/index.html
+layout: layout.njk
 ---
 National Will Take Away Your Right To Have A Say
 ================================================

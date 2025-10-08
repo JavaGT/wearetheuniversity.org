@@ -1,9 +1,12 @@
 ---
 slug: national-standards-rollout-in-a-shambles
-title: "National Standards Rollout in a Shambles"
-date: 2010-03-12
-source-url: https://www.scoop.co.nz/stories/ED1003/S00057/national-standards-rollout-in-a-shambles.htm
+title: National Standards Rollout in a Shambles
+date: 2010-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00057/national-standards-rollout-in-a-shambles.htm
 author: nzei
+permalink: /archive/2010/03/12/national-standards-rollout-in-a-shambles/index.html
+layout: layout.njk
 ---
 National Standards Rollout in a Shambles
 ========================================

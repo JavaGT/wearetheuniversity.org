@@ -1,9 +1,12 @@
 ---
 slug: exciting-research-projects-get-$6-3m-funding
-title: "‘Exciting’ research projects get $6.3m funding"
-date: 2006-09-08
-source-url: https://www.scoop.co.nz/stories/ED0609/S00030/exciting-research-projects-get-63m-funding.htm
+title: ‘Exciting’ research projects get $6.3m funding
+date: 2006-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00030/exciting-research-projects-get-63m-funding.htm
 author: massey-university
+permalink: /archive/2006/09/08/exciting-research-projects-get-/index.html
+layout: layout.njk
 ---
 ‘Exciting’ research projects get $6.3m funding
 ==============================================

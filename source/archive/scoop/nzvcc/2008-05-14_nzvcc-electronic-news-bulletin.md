@@ -1,9 +1,12 @@
 ---
 slug: nzvcc-electronic-news-bulletin
-title: "NZVCC Electronic News Bulletin"
-date: 2008-05-14
-source-url: https://www.scoop.co.nz/stories/ED0805/S00043/nzvcc-electronic-news-bulletin.htm
+title: NZVCC Electronic News Bulletin
+date: 2008-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00043/nzvcc-electronic-news-bulletin.htm
 author: nzvcc
+permalink: /archive/2008/05/14/nzvcc-electronic-news-bulletin/index.html
+layout: layout.njk
 ---
 NZVCC Electronic News Bulletin
 ==============================

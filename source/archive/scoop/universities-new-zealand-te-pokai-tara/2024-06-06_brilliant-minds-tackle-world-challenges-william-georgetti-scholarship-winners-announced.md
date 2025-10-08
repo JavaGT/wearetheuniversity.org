@@ -1,9 +1,16 @@
 ---
-slug: brilliant-minds-tackle-world-challenges-william-georgetti-scholarship-winners-announced
-title: "Brilliant Minds Tackle World Challenges – William Georgetti Scholarship Winners Announced"
-date: 2024-06-06
-source-url: https://www.scoop.co.nz/stories/ED2406/S00012/brilliant-minds-tackle-world-challenges-william-georgetti-scholarship-winners-announced.htm
+slug: >-
+  brilliant-minds-tackle-world-challenges-william-georgetti-scholarship-winners-announced
+title: >-
+  Brilliant Minds Tackle World Challenges – William Georgetti Scholarship
+  Winners Announced
+date: 2024-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00012/brilliant-minds-tackle-world-challenges-william-georgetti-scholarship-winners-announced.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2024/06/06/brilliant-minds-tackle-world-challenges-william-georgetti-scholarship-winners-announced/index.html
+layout: layout.njk
 ---
 Brilliant Minds Tackle World Challenges – William Georgetti Scholarship Winners Announced
 =========================================================================================

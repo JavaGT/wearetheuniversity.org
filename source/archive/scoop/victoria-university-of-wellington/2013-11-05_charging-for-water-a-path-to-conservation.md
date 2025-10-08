@@ -1,9 +1,12 @@
 ---
 slug: charging-for-water-a-path-to-conservation
-title: "Charging for water a path to conservation"
-date: 2013-11-05
-source-url: https://www.scoop.co.nz/stories/AK1311/S00138/charging-for-water-a-path-to-conservation.htm
+title: Charging for water a path to conservation
+date: 2013-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00138/charging-for-water-a-path-to-conservation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/05/charging-for-water-a-path-to-conservation/index.html
+layout: layout.njk
 ---
 Charging for water a path to conservation
 =========================================

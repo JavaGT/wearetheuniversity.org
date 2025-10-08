@@ -1,9 +1,12 @@
 ---
 slug: speech-climate-change-ariana-emery-youth-mp
-title: "Speech: Climate Change - Ariana Emery Youth MP"
-date: 2007-07-11
-source-url: https://www.scoop.co.nz/stories/PO0707/S00119/speech-climate-change-ariana-emery-youth-mp.htm
+title: 'Speech: Climate Change - Ariana Emery Youth MP'
+date: 2007-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0707/S00119/speech-climate-change-ariana-emery-youth-mp.htm
 author: te-pati-maori
+permalink: /archive/2007/07/11/speech-climate-change-ariana-emery-youth-mp/index.html
+layout: layout.njk
 ---
 Speech: Climate Change - Ariana Emery Youth MP
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: students-say-treasury-briefing-is-a-time-warp
-title: "Students say Treasury Briefing is a time warp"
-date: 2009-02-05
-source-url: https://www.scoop.co.nz/stories/ED0902/S00018/students-say-treasury-briefing-is-a-time-warp.htm
+title: Students say Treasury Briefing is a time warp
+date: 2009-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00018/students-say-treasury-briefing-is-a-time-warp.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/02/05/students-say-treasury-briefing-is-a-time-warp/index.html
+layout: layout.njk
 ---
 Students say Treasury Briefing is a time warp
 =============================================

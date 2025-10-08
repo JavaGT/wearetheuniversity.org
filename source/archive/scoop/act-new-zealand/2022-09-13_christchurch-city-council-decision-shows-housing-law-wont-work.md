@@ -1,9 +1,13 @@
 ---
 slug: christchurch-city-council-decision-shows-housing-law-wont-work
-title: "Christchurch City Council Decision Shows Housing Law Won’t Work"
-date: 2022-09-13
-source-url: https://www.scoop.co.nz/stories/PA2209/S00069/christchurch-city-council-decision-shows-housing-law-wont-work.htm
+title: Christchurch City Council Decision Shows Housing Law Won’t Work
+date: 2022-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00069/christchurch-city-council-decision-shows-housing-law-wont-work.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/09/13/christchurch-city-council-decision-shows-housing-law-wont-work/index.html
+layout: layout.njk
 ---
 Christchurch City Council Decision Shows Housing Law Won’t Work
 ===============================================================

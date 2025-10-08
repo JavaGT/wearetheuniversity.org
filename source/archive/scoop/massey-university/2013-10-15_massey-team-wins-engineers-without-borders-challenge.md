@@ -1,9 +1,13 @@
 ---
 slug: massey-team-wins-engineers-without-borders-challenge
-title: "Massey team wins Engineers Without Borders challenge"
-date: 2013-10-15
-source-url: https://www.scoop.co.nz/stories/ED1310/S00099/massey-team-wins-engineers-without-borders-challenge.htm
+title: Massey team wins Engineers Without Borders challenge
+date: 2013-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00099/massey-team-wins-engineers-without-borders-challenge.htm
 author: massey-university
+permalink: >-
+  /archive/2013/10/15/massey-team-wins-engineers-without-borders-challenge/index.html
+layout: layout.njk
 ---
 Massey team wins Engineers Without Borders challenge
 ====================================================

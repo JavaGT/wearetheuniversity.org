@@ -1,9 +1,11 @@
 ---
 slug: academics-prove-pm-wrong
-title: "Academics prove PM wrong"
-date: 2004-09-06
+title: Academics prove PM wrong
+date: 2004-09-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0409/S00116/academics-prove-pm-wrong.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/06/academics-prove-pm-wrong/index.html
+layout: layout.njk
 ---
 Academics prove PM wrong
 ========================

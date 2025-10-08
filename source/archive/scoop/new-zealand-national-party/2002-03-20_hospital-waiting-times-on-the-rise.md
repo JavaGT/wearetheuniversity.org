@@ -1,9 +1,12 @@
 ---
 slug: hospital-waiting-times-on-the-rise
-title: "Hospital Waiting Times On The Rise"
-date: 2002-03-20
-source-url: https://www.scoop.co.nz/stories/PA0203/S00338/hospital-waiting-times-on-the-rise.htm
+title: Hospital Waiting Times On The Rise
+date: 2002-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00338/hospital-waiting-times-on-the-rise.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/20/hospital-waiting-times-on-the-rise/index.html
+layout: layout.njk
 ---
 Hospital Waiting Times On The Rise
 ==================================

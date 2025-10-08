@@ -1,9 +1,13 @@
 ---
 slug: national-hopeless-on-immigration-time-for-change
-title: "National Hopeless on Immigration, Time for Change"
-date: 2017-05-19
-source-url: https://www.scoop.co.nz/stories/PA1705/S00415/national-hopeless-on-immigration-time-for-change.htm
+title: National Hopeless on Immigration, Time for Change
+date: 2017-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00415/national-hopeless-on-immigration-time-for-change.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/19/national-hopeless-on-immigration-time-for-change/index.html
+layout: layout.njk
 ---
 National Hopeless on Immigration, Time for Change
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: urban-bird-feeding-makes-life-tough-for-tiny-national-bird
-title: "Urban bird-feeding makes life tough for tiny national bird"
-date: 2015-05-05
-source-url: https://www.scoop.co.nz/stories/SC1505/S00012/urban-bird-feeding-makes-life-tough-for-tiny-national-bird.htm
+title: Urban bird-feeding makes life tough for tiny national bird
+date: 2015-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00012/urban-bird-feeding-makes-life-tough-for-tiny-national-bird.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/05/05/urban-bird-feeding-makes-life-tough-for-tiny-national-bird/index.html
+layout: layout.njk
 ---
 Urban bird-feeding makes life tough for tiny national bird
 ==========================================================

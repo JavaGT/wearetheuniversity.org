@@ -1,9 +1,11 @@
 ---
 slug: scrap-ncea
-title: "Scrap NCEA"
-date: 2002-07-15
+title: Scrap NCEA
+date: 2002-07-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00390/scrap-ncea.htm
 author: act-new-zealand
+permalink: /archive/2002/07/15/scrap-ncea/index.html
+layout: layout.njk
 ---
 Scrap NCEA
 ==========

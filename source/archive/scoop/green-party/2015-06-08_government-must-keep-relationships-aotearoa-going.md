@@ -1,9 +1,13 @@
 ---
 slug: government-must-keep-relationships-aotearoa-going
-title: "Government must keep Relationships Aotearoa going"
-date: 2015-06-08
-source-url: https://www.scoop.co.nz/stories/PA1506/S00122/government-must-keep-relationships-aotearoa-going.htm
+title: Government must keep Relationships Aotearoa going
+date: 2015-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00122/government-must-keep-relationships-aotearoa-going.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/08/government-must-keep-relationships-aotearoa-going/index.html
+layout: layout.njk
 ---
 Government must keep Relationships Aotearoa going
 =================================================

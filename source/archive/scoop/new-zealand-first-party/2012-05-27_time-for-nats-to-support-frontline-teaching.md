@@ -1,9 +1,12 @@
 ---
 slug: time-for-nats-to-support-frontline-teaching
-title: "Time for Nats to Support Frontline Teaching"
-date: 2012-05-27
-source-url: https://www.scoop.co.nz/stories/PA1205/S00483/time-for-nats-to-support-frontline-teaching.htm
+title: Time for Nats to Support Frontline Teaching
+date: 2012-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00483/time-for-nats-to-support-frontline-teaching.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/27/time-for-nats-to-support-frontline-teaching/index.html
+layout: layout.njk
 ---
 Time for Nats to Support Frontline Teaching
 ===========================================

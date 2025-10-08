@@ -1,9 +1,12 @@
 ---
 slug: no-lifting-of-industrial-action-say-otago-staff
-title: "No lifting of industrial action say Otago staff"
-date: 2002-09-04
-source-url: https://www.scoop.co.nz/stories/ED0209/S00010/no-lifting-of-industrial-action-say-otago-staff.htm
+title: No lifting of industrial action say Otago staff
+date: 2002-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00010/no-lifting-of-industrial-action-say-otago-staff.htm
 author: association-of-university-staff
+permalink: /archive/2002/09/04/no-lifting-of-industrial-action-say-otago-staff/index.html
+layout: layout.njk
 ---
 No lifting of industrial action say Otago staff
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-267
-title: "Maxim Institute - real issues - No. 267"
-date: 2007-08-23
-source-url: https://www.scoop.co.nz/stories/PO0708/S00317/maxim-institute-real-issues-no-267.htm
+title: Maxim Institute - real issues - No. 267
+date: 2007-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0708/S00317/maxim-institute-real-issues-no-267.htm
 author: maxim-institute
+permalink: /archive/2007/08/23/maxim-institute-real-issues-no-267/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 267
 =======================================

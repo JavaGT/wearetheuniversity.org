@@ -1,9 +1,12 @@
 ---
 slug: government-abandons-southern-war-vets
-title: "Government Abandons Southern War Vets"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/PA0505/S00605/government-abandons-southern-war-vets.htm
+title: Government Abandons Southern War Vets
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00605/government-abandons-southern-war-vets.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/23/government-abandons-southern-war-vets/index.html
+layout: layout.njk
 ---
 Government Abandons Southern War Vets
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: pacific-kids-at-risk-of-rheumatic-fever
-title: "Pacific kids at risk of rheumatic fever"
-date: 2016-11-09
-source-url: https://www.scoop.co.nz/stories/PA1611/S00174/pacific-kids-at-risk-of-rheumatic-fever.htm
+title: Pacific kids at risk of rheumatic fever
+date: 2016-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00174/pacific-kids-at-risk-of-rheumatic-fever.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/09/pacific-kids-at-risk-of-rheumatic-fever/index.html
+layout: layout.njk
 ---
 Pacific kids at risk of rheumatic fever
 =======================================

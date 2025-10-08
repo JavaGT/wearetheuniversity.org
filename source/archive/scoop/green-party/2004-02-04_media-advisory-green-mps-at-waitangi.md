@@ -1,9 +1,12 @@
 ---
 slug: media-advisory-green-mps-at-waitangi
-title: "Media advisory - Green MPs at Waitangi"
-date: 2004-02-04
-source-url: https://www.scoop.co.nz/stories/PA0402/S00064/media-advisory-green-mps-at-waitangi.htm
+title: Media advisory - Green MPs at Waitangi
+date: 2004-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00064/media-advisory-green-mps-at-waitangi.htm
 author: green-party
+permalink: /archive/2004/02/04/media-advisory-green-mps-at-waitangi/index.html
+layout: layout.njk
 ---
 Media advisory - Green MPs at Waitangi
 ======================================

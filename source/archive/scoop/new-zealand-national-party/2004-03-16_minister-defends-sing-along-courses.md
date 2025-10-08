@@ -1,9 +1,12 @@
 ---
 slug: minister-defends-sing-along-courses
-title: "Minister defends sing-along courses"
-date: 2004-03-16
-source-url: https://www.scoop.co.nz/stories/PA0403/S00312/minister-defends-sing-along-courses.htm
+title: Minister defends sing-along courses
+date: 2004-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00312/minister-defends-sing-along-courses.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/16/minister-defends-sing-along-courses/index.html
+layout: layout.njk
 ---
 Minister defends sing-along courses
 ===================================

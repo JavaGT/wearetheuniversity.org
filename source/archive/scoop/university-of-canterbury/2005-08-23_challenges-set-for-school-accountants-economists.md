@@ -1,9 +1,13 @@
 ---
 slug: challenges-set-for-school-accountants-economists
-title: "Challenges set for school accountants, economists"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/ED0508/S00098/challenges-set-for-school-accountants-economists.htm
+title: Challenges set for school accountants, economists
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00098/challenges-set-for-school-accountants-economists.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2005/08/23/challenges-set-for-school-accountants-economists/index.html
+layout: layout.njk
 ---
 Challenges set for school accountants, economists
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: canterbury-electricity-market-in-chaos
-title: "Canterbury Electricity Market In Chaos"
-date: 2002-02-20
-source-url: https://www.scoop.co.nz/stories/PA0202/S00287/canterbury-electricity-market-in-chaos.htm
+title: Canterbury Electricity Market In Chaos
+date: 2002-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00287/canterbury-electricity-market-in-chaos.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/20/canterbury-electricity-market-in-chaos/index.html
+layout: layout.njk
 ---
 Canterbury Electricity Market In Chaos
 ======================================

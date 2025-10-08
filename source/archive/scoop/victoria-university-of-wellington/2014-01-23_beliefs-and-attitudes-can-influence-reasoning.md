@@ -1,9 +1,12 @@
 ---
 slug: beliefs-and-attitudes-can-influence-reasoning
-title: "Beliefs and attitudes can influence reasoning"
-date: 2014-01-23
-source-url: https://www.scoop.co.nz/stories/CU1401/S00393/beliefs-and-attitudes-can-influence-reasoning.htm
+title: Beliefs and attitudes can influence reasoning
+date: 2014-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1401/S00393/beliefs-and-attitudes-can-influence-reasoning.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/01/23/beliefs-and-attitudes-can-influence-reasoning/index.html
+layout: layout.njk
 ---
 Beliefs and attitudes can influence reasoning
 =============================================

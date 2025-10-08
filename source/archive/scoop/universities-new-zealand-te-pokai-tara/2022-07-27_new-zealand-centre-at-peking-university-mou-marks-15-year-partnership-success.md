@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-centre-at-peking-university-mou-marks-15-year-partnership-success
-title: "New Zealand Centre At Peking University MOU Marks 15-year Partnership Success"
-date: 2022-07-27
-source-url: https://www.scoop.co.nz/stories/ED2207/S00035/new-zealand-centre-at-peking-university-mou-marks-15-year-partnership-success.htm
+title: New Zealand Centre At Peking University MOU Marks 15-year Partnership Success
+date: 2022-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2207/S00035/new-zealand-centre-at-peking-university-mou-marks-15-year-partnership-success.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/07/27/new-zealand-centre-at-peking-university-mou-marks-15-year-partnership-success/index.html
+layout: layout.njk
 ---
 New Zealand Centre At Peking University MOU Marks 15-year Partnership Success
 =============================================================================

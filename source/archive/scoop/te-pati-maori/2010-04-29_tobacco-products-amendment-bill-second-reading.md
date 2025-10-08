@@ -1,9 +1,12 @@
 ---
 slug: tobacco-products-amendment-bill-second-reading
-title: "Tobacco Products Amendment Bill – Second Reading"
-date: 2010-04-29
-source-url: https://www.scoop.co.nz/stories/PA1004/S00392/tobacco-products-amendment-bill-second-reading.htm
+title: Tobacco Products Amendment Bill – Second Reading
+date: 2010-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00392/tobacco-products-amendment-bill-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2010/04/29/tobacco-products-amendment-bill-second-reading/index.html
+layout: layout.njk
 ---
 Tobacco Products Amendment Bill – Second Reading
 ================================================

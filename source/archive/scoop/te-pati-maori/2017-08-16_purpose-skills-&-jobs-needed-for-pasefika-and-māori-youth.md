@@ -1,9 +1,12 @@
 ---
 slug: purpose-skills-&-jobs-needed-for-pasefika-and-māori-youth
-title: "Purpose, Skills & Jobs Needed for Pasefika and Māori Youth"
-date: 2017-08-16
-source-url: https://www.scoop.co.nz/stories/PO1708/S00320/purpose-skills-jobs-needed-for-pasefika-and-maori-youth.htm
+title: Purpose, Skills & Jobs Needed for Pasefika and Māori Youth
+date: 2017-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00320/purpose-skills-jobs-needed-for-pasefika-and-maori-youth.htm
 author: te-pati-maori
+permalink: /archive/2017/08/16/purpose-skills-/index.html
+layout: layout.njk
 ---
 Purpose, Skills & Jobs Needed for Pasefika and Māori Youth
 ==========================================================

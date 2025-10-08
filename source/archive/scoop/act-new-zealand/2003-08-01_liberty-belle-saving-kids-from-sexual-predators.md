@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-saving-kids-from-sexual-predators
-title: "Liberty Belle: Saving Kids From Sexual Predators"
-date: 2003-08-01
-source-url: https://www.scoop.co.nz/stories/PA0308/S00012/liberty-belle-saving-kids-from-sexual-predators.htm
+title: 'Liberty Belle: Saving Kids From Sexual Predators'
+date: 2003-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00012/liberty-belle-saving-kids-from-sexual-predators.htm
 author: act-new-zealand
+permalink: /archive/2003/08/01/liberty-belle-saving-kids-from-sexual-predators/index.html
+layout: layout.njk
 ---
 Liberty Belle: Saving Kids From Sexual Predators
 ================================================

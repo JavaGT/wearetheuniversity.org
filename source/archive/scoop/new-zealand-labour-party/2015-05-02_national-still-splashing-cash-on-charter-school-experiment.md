@@ -1,9 +1,13 @@
 ---
 slug: national-still-splashing-cash-on-charter-school-experiment
-title: "National still splashing cash on charter school experiment"
-date: 2015-05-02
-source-url: https://www.scoop.co.nz/stories/PA1505/S00022/national-still-splashing-cash-on-charter-school-experiment.htm
+title: National still splashing cash on charter school experiment
+date: 2015-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00022/national-still-splashing-cash-on-charter-school-experiment.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/05/02/national-still-splashing-cash-on-charter-school-experiment/index.html
+layout: layout.njk
 ---
 National still splashing cash on charter school experiment
 ==========================================================

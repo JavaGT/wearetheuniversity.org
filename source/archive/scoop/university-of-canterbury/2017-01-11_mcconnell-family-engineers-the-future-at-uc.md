@@ -1,9 +1,12 @@
 ---
 slug: mcconnell-family-engineers-the-future-at-uc
-title: "McConnell family engineers the future at UC"
-date: 2017-01-11
-source-url: https://www.scoop.co.nz/stories/ED1701/S00003/mcconnell-family-engineers-the-future-at-uc.htm
+title: McConnell family engineers the future at UC
+date: 2017-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00003/mcconnell-family-engineers-the-future-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2017/01/11/mcconnell-family-engineers-the-future-at-uc/index.html
+layout: layout.njk
 ---
 McConnell family engineers the future at UC
 ===========================================

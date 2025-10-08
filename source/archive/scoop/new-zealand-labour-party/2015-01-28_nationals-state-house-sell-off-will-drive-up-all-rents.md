@@ -1,9 +1,13 @@
 ---
 slug: nationals-state-house-sell-off-will-drive-up-all-rents
-title: "National’s state house sell-off will drive up all rents"
-date: 2015-01-28
-source-url: https://www.scoop.co.nz/stories/PA1501/S00131/nationals-state-house-sell-off-will-drive-up-all-rents.htm
+title: National’s state house sell-off will drive up all rents
+date: 2015-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00131/nationals-state-house-sell-off-will-drive-up-all-rents.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/01/28/nationals-state-house-sell-off-will-drive-up-all-rents/index.html
+layout: layout.njk
 ---
 National’s state house sell-off will drive up all rents
 =======================================================

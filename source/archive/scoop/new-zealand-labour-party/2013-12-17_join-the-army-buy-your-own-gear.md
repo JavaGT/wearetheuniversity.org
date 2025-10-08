@@ -1,9 +1,12 @@
 ---
 slug: join-the-army-buy-your-own-gear
-title: "Join the Army, buy your own gear"
-date: 2013-12-17
-source-url: https://www.scoop.co.nz/stories/PA1312/S00351/join-the-army-buy-your-own-gear.htm
+title: Join the Army, buy your own gear
+date: 2013-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00351/join-the-army-buy-your-own-gear.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/12/17/join-the-army-buy-your-own-gear/index.html
+layout: layout.njk
 ---
 Join the Army, buy your own gear
 ================================

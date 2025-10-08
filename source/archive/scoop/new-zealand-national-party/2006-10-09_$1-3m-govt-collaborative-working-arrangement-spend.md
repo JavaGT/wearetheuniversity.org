@@ -1,9 +1,13 @@
 ---
 slug: $1-3m-govt-collaborative-working-arrangement-spend
-title: "$1.3m Govt Collaborative Working Arrangement Spend"
-date: 2006-10-09
-source-url: https://www.scoop.co.nz/stories/PA0610/S00124/13m-govt-collaborative-working-arrangement-spend.htm
+title: $1.3m Govt Collaborative Working Arrangement Spend
+date: 2006-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00124/13m-govt-collaborative-working-arrangement-spend.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/10/09/1-3m-govt-collaborative-working-arrangement-spend/index.html
+layout: layout.njk
 ---
 $1.3m Govt Collaborative Working Arrangement Spend
 ==================================================

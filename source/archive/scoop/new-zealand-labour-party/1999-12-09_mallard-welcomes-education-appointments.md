@@ -1,9 +1,12 @@
 ---
 slug: mallard-welcomes-education-appointments
-title: "Mallard welcomes education appointments"
-date: 1999-12-09
-source-url: https://www.scoop.co.nz/stories/PA9912/S00037/mallard-welcomes-education-appointments.htm
+title: Mallard welcomes education appointments
+date: 1999-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00037/mallard-welcomes-education-appointments.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/12/09/mallard-welcomes-education-appointments/index.html
+layout: layout.njk
 ---
 Mallard welcomes education appointments
 =======================================

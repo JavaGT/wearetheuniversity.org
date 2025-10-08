@@ -1,8 +1,12 @@
 ---
 slug: compelling-piano-performance-wins-graduation-gala
-title: "Compelling piano performance wins Graduation Gala"
-date: 2017-05-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/compelling-piano-performance-wins-graduation-gala.html
+title: Compelling piano performance wins Graduation Gala
+date: 2017-05-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/compelling-piano-performance-wins-graduation-gala.html
+permalink: >-
+  /archive/2017/05/05/compelling-piano-performance-wins-graduation-gala/index.html
+layout: layout.njk
 ---
 Compelling piano performance wins Graduation Gala
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-students-and-staff-to-march
-title: "Victoria University Students and Staff to March"
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/ED0505/S00065/victoria-university-students-and-staff-to-march.htm
+title: Victoria University Students and Staff to March
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00065/victoria-university-students-and-staff-to-march.htm
 author: victoria-university-students-association
+permalink: /archive/2005/05/17/victoria-university-students-and-staff-to-march/index.html
+layout: layout.njk
 ---
 Victoria University Students and Staff to March
 ===============================================

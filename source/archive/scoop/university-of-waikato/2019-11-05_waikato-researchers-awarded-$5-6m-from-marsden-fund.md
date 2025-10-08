@@ -1,9 +1,12 @@
 ---
 slug: waikato-researchers-awarded-$5-6m-from-marsden-fund
-title: "Waikato researchers awarded $5.6m from Marsden Fund"
-date: 2019-11-05
-source-url: https://www.scoop.co.nz/stories/ED1911/S00012/waikato-researchers-awarded-56m-from-marsden-fund.htm
+title: Waikato researchers awarded $5.6m from Marsden Fund
+date: 2019-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00012/waikato-researchers-awarded-56m-from-marsden-fund.htm
 author: university-of-waikato
+permalink: /archive/2019/11/05/waikato-researchers-awarded-/index.html
+layout: layout.njk
 ---
 Waikato researchers awarded $5.6m from Marsden Fund
 ===================================================

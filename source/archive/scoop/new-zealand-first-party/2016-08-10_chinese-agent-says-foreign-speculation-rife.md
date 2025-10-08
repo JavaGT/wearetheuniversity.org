@@ -1,9 +1,12 @@
 ---
 slug: chinese-agent-says-foreign-speculation-rife
-title: "Chinese Agent Says Foreign Speculation Rife"
-date: 2016-08-10
-source-url: https://www.scoop.co.nz/stories/PA1608/S00146/chinese-agent-says-foreign-speculation-rife.htm
+title: Chinese Agent Says Foreign Speculation Rife
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00146/chinese-agent-says-foreign-speculation-rife.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/10/chinese-agent-says-foreign-speculation-rife/index.html
+layout: layout.njk
 ---
 Chinese Agent Says Foreign Speculation Rife
 ===========================================

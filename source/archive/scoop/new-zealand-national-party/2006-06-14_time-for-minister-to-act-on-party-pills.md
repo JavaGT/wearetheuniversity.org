@@ -1,9 +1,12 @@
 ---
 slug: time-for-minister-to-act-on-party-pills
-title: "Time for Minister to act on party pills"
-date: 2006-06-14
-source-url: https://www.scoop.co.nz/stories/PA0606/S00228/time-for-minister-to-act-on-party-pills.htm
+title: Time for Minister to act on party pills
+date: 2006-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00228/time-for-minister-to-act-on-party-pills.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/14/time-for-minister-to-act-on-party-pills/index.html
+layout: layout.njk
 ---
 Time for Minister to act on party pills
 =======================================

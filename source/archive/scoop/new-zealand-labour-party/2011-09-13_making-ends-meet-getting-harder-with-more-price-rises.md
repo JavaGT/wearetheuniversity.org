@@ -1,9 +1,13 @@
 ---
 slug: making-ends-meet-getting-harder-with-more-price-rises
-title: "Making ends meet getting harder with more price rises"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/PA1109/S00244/making-ends-meet-getting-harder-with-more-price-rises.htm
+title: Making ends meet getting harder with more price rises
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00244/making-ends-meet-getting-harder-with-more-price-rises.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/13/making-ends-meet-getting-harder-with-more-price-rises/index.html
+layout: layout.njk
 ---
 Making ends meet getting harder with more price rises
 =====================================================

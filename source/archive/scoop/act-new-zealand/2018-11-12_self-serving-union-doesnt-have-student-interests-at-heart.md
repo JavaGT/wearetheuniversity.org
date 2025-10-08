@@ -1,9 +1,13 @@
 ---
 slug: self-serving-union-doesnt-have-student-interests-at-heart
-title: "Self-serving union doesn’t have student interests at heart"
-date: 2018-11-12
-source-url: https://www.scoop.co.nz/stories/PA1811/S00122/self-serving-union-doesnt-have-student-interests-at-heart.htm
+title: Self-serving union doesn’t have student interests at heart
+date: 2018-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00122/self-serving-union-doesnt-have-student-interests-at-heart.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/11/12/self-serving-union-doesnt-have-student-interests-at-heart/index.html
+layout: layout.njk
 ---
 Self-serving union doesn’t have student interests at heart
 ==========================================================

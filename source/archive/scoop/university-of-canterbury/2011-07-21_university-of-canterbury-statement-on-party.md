@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-statement-on-party
-title: "University of Canterbury Statement On Party"
-date: 2011-07-21
-source-url: https://www.scoop.co.nz/stories/ED1107/S00097/university-of-canterbury-statement-on-party.htm
+title: University of Canterbury Statement On Party
+date: 2011-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00097/university-of-canterbury-statement-on-party.htm
 author: university-of-canterbury
+permalink: /archive/2011/07/21/university-of-canterbury-statement-on-party/index.html
+layout: layout.njk
 ---
 University of Canterbury Statement On Party
 ===========================================

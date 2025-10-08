@@ -1,9 +1,16 @@
 ---
-slug: labour-offers-stability-and-certainty-remarks-prepared-for-mood-of-the-boardroom
-title: "Labour Offers Stability And Certainty - Remarks Prepared For Mood Of The Boardroom"
-date: 2020-09-28
-source-url: https://www.scoop.co.nz/stories/PA2009/S00213/labour-offers-stability-and-certainty-remarks-prepared-for-mood-of-the-boardroom.htm
+slug: >-
+  labour-offers-stability-and-certainty-remarks-prepared-for-mood-of-the-boardroom
+title: >-
+  Labour Offers Stability And Certainty - Remarks Prepared For Mood Of The
+  Boardroom
+date: 2020-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00213/labour-offers-stability-and-certainty-remarks-prepared-for-mood-of-the-boardroom.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2020/09/28/labour-offers-stability-and-certainty-remarks-prepared-for-mood-of-the-boardroom/index.html
+layout: layout.njk
 ---
 Labour Offers Stability And Certainty - Remarks Prepared For Mood Of The Boardroom
 ==================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: robotic-accuracy-tested-in-kick-off-against-all-black
-title: "Robotic accuracy tested in kick-off against All Black"
-date: 2011-09-14
-source-url: https://www.scoop.co.nz/stories/ED1109/S00055/robotic-accuracy-tested-in-kick-off-against-all-black.htm
+title: Robotic accuracy tested in kick-off against All Black
+date: 2011-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00055/robotic-accuracy-tested-in-kick-off-against-all-black.htm
 author: massey-university
+permalink: >-
+  /archive/2011/09/14/robotic-accuracy-tested-in-kick-off-against-all-black/index.html
+layout: layout.njk
 ---
 Robotic accuracy tested in kick-off against All Black
 =====================================================

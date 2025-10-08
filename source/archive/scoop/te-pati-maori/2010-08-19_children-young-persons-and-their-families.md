@@ -1,9 +1,12 @@
 ---
 slug: children-young-persons-and-their-families
-title: "Children, Young Persons, and Their Families"
-date: 2010-08-19
-source-url: https://www.scoop.co.nz/stories/PA1008/S00281/children-young-persons-and-their-families.htm
+title: Children, Young Persons, and Their Families
+date: 2010-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00281/children-young-persons-and-their-families.htm
 author: te-pati-maori
+permalink: /archive/2010/08/19/children-young-persons-and-their-families/index.html
+layout: layout.njk
 ---
 Children, Young Persons, and Their Families
 ===========================================

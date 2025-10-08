@@ -1,9 +1,12 @@
 ---
 slug: brain-drain-no-drag-on-development
-title: "\"Brain drain\" no drag on development"
-date: 2011-04-18
-source-url: https://www.scoop.co.nz/stories/BU1104/S00534/brain-drain-no-drag-on-development.htm
+title: '"Brain drain" no drag on development'
+date: 2011-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1104/S00534/brain-drain-no-drag-on-development.htm
 author: university-of-waikato
+permalink: /archive/2011/04/18/brain-drain-no-drag-on-development/index.html
+layout: layout.njk
 ---
 “Brain drain” no drag on development
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: graduation-a-celebration-of-achievement
-title: "Graduation a celebration of achievement"
-date: 2019-04-29
-source-url: https://www.scoop.co.nz/stories/ED1904/S00047/graduation-a-celebration-of-achievement.htm
+title: Graduation a celebration of achievement
+date: 2019-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1904/S00047/graduation-a-celebration-of-achievement.htm
 author: lincoln-university
+permalink: /archive/2019/04/29/graduation-a-celebration-of-achievement/index.html
+layout: layout.njk
 ---
 Graduation a celebration of achievement
 =======================================

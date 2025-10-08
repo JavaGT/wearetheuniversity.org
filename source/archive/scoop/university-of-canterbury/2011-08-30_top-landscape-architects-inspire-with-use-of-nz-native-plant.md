@@ -1,9 +1,13 @@
 ---
 slug: top-landscape-architects-inspire-with-use-of-nz-native-plant
-title: "Top landscape architects inspire with use of NZ native plant"
-date: 2011-08-30
-source-url: https://www.scoop.co.nz/stories/CU1108/S00523/top-landscape-architects-inspire-with-use-of-nz-native-plant.htm
+title: Top landscape architects inspire with use of NZ native plant
+date: 2011-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00523/top-landscape-architects-inspire-with-use-of-nz-native-plant.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/08/30/top-landscape-architects-inspire-with-use-of-nz-native-plant/index.html
+layout: layout.njk
 ---
 Top landscape architects inspire with use of NZ native plant
 ============================================================

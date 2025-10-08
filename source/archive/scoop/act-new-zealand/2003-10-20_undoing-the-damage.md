@@ -1,9 +1,11 @@
 ---
 slug: undoing-the-damage
-title: "Undoing The Damage"
-date: 2003-10-20
+title: Undoing The Damage
+date: 2003-10-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00441/undoing-the-damage.htm
 author: act-new-zealand
+permalink: /archive/2003/10/20/undoing-the-damage/index.html
+layout: layout.njk
 ---
 Undoing The Damage
 ==================

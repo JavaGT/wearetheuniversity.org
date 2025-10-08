@@ -1,9 +1,13 @@
 ---
 slug: crunch-time-for-government-looming-over-students
-title: "Crunch time for Government looming over students"
-date: 2000-11-17
-source-url: https://www.scoop.co.nz/stories/PA0011/S00311/crunch-time-for-government-looming-over-students.htm
+title: Crunch time for Government looming over students
+date: 2000-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00311/crunch-time-for-government-looming-over-students.htm
 author: green-party
+permalink: >-
+  /archive/2000/11/17/crunch-time-for-government-looming-over-students/index.html
+layout: layout.njk
 ---
 Crunch time for Government looming over students
 ================================================

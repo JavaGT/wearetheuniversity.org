@@ -1,9 +1,12 @@
 ---
 slug: young-nats-call-on-nzusa-to-stop-scaremongering
-title: "Young Nats call on NZUSA to stop scaremongering"
-date: 2010-09-29
-source-url: https://www.scoop.co.nz/stories/ED1009/S00134/young-nats-call-on-nzusa-to-stop-scaremongering.htm
+title: Young Nats call on NZUSA to stop scaremongering
+date: 2010-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00134/young-nats-call-on-nzusa-to-stop-scaremongering.htm
 author: new-zealand-young-nationals
+permalink: /archive/2010/09/29/young-nats-call-on-nzusa-to-stop-scaremongering/index.html
+layout: layout.njk
 ---
 Young Nats call on NZUSA to stop scaremongering
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: research-led-to-breakthrough-for-recovery
-title: "Research led to breakthrough for recovery"
-date: 2017-05-11
-source-url: https://www.scoop.co.nz/stories/GE1705/S00075/research-led-to-breakthrough-for-recovery.htm
+title: Research led to breakthrough for recovery
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00075/research-led-to-breakthrough-for-recovery.htm
 author: university-of-canterbury
+permalink: /archive/2017/05/11/research-led-to-breakthrough-for-recovery/index.html
+layout: layout.njk
 ---
 Research led to breakthrough for recovery
 =========================================

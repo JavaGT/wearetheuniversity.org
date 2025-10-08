@@ -1,9 +1,12 @@
 ---
 slug: hipkins-approach-to-online-learning-archaic
-title: "Hipkins’ approach to online learning archaic"
-date: 2018-03-28
-source-url: https://www.scoop.co.nz/stories/PA1803/S00322/hipkins-approach-to-online-learning-archaic.htm
+title: Hipkins’ approach to online learning archaic
+date: 2018-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00322/hipkins-approach-to-online-learning-archaic.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/28/hipkins-approach-to-online-learning-archaic/index.html
+layout: layout.njk
 ---
 Hipkins’ approach to online learning archaic
 ============================================

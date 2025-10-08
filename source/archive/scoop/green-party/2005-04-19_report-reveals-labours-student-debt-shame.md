@@ -1,9 +1,12 @@
 ---
 slug: report-reveals-labours-student-debt-shame
-title: "Report reveals Labour's student debt shame"
-date: 2005-04-19
-source-url: https://www.scoop.co.nz/stories/PA0504/S00416/report-reveals-labours-student-debt-shame.htm
+title: Report reveals Labour's student debt shame
+date: 2005-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00416/report-reveals-labours-student-debt-shame.htm
 author: green-party
+permalink: /archive/2005/04/19/report-reveals-labours-student-debt-shame/index.html
+layout: layout.njk
 ---
 Report reveals Labour's student debt shame
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: high-performance-squad-selection-for-nicole
-title: "High performance squad selection for Nicole"
-date: 2014-11-21
-source-url: https://www.scoop.co.nz/stories/ED1411/S00136/high-performance-squad-selection-for-nicole.htm
+title: High performance squad selection for Nicole
+date: 2014-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00136/high-performance-squad-selection-for-nicole.htm
 author: university-of-waikato
+permalink: /archive/2014/11/21/high-performance-squad-selection-for-nicole/index.html
+layout: layout.njk
 ---
 High performance squad selection for Nicole
 ===========================================

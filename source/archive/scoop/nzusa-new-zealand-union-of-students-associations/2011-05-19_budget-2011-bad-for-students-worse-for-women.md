@@ -1,9 +1,12 @@
 ---
 slug: budget-2011-bad-for-students-worse-for-women
-title: "Budget 2011- bad for students, worse for women"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PO1105/S00303/budget-2011-bad-for-students-worse-for-women.htm
+title: Budget 2011- bad for students, worse for women
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00303/budget-2011-bad-for-students-worse-for-women.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/05/19/budget-2011-bad-for-students-worse-for-women/index.html
+layout: layout.njk
 ---
 Budget 2011- bad for students, worse for women
 ==============================================

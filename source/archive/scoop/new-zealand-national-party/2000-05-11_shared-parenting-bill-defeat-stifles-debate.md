@@ -1,9 +1,12 @@
 ---
 slug: shared-parenting-bill-defeat-stifles-debate
-title: "Shared Parenting Bill Defeat Stifles Debate"
-date: 2000-05-11
-source-url: https://www.scoop.co.nz/stories/PA0005/S00235/shared-parenting-bill-defeat-stifles-debate.htm
+title: Shared Parenting Bill Defeat Stifles Debate
+date: 2000-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00235/shared-parenting-bill-defeat-stifles-debate.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/11/shared-parenting-bill-defeat-stifles-debate/index.html
+layout: layout.njk
 ---
 Shared Parenting Bill Defeat Stifles Debate
 ===========================================

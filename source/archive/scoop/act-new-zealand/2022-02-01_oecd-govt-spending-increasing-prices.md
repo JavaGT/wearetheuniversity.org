@@ -1,9 +1,12 @@
 ---
 slug: oecd-govt-spending-increasing-prices
-title: "OECD: Govt Spending Increasing Prices"
-date: 2022-02-01
-source-url: https://www.scoop.co.nz/stories/PA2202/S00005/oecd-govt-spending-increasing-prices.htm
+title: 'OECD: Govt Spending Increasing Prices'
+date: 2022-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00005/oecd-govt-spending-increasing-prices.htm
 author: act-new-zealand
+permalink: /archive/2022/02/01/oecd-govt-spending-increasing-prices/index.html
+layout: layout.njk
 ---
 OECD: Govt Spending Increasing Prices
 =====================================

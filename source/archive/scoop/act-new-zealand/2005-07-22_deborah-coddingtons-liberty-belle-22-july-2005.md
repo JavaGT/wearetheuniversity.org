@@ -1,9 +1,12 @@
 ---
 slug: deborah-coddingtons-liberty-belle-22-july-2005
-title: "Deborah Coddington's Liberty Belle 22 July 2005"
-date: 2005-07-22
-source-url: https://www.scoop.co.nz/stories/PA0507/S00474/deborah-coddingtons-liberty-belle-22-july-2005.htm
+title: Deborah Coddington's Liberty Belle 22 July 2005
+date: 2005-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00474/deborah-coddingtons-liberty-belle-22-july-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/07/22/deborah-coddingtons-liberty-belle-22-july-2005/index.html
+layout: layout.njk
 ---
 Deborah Coddington's Liberty Belle 22 July 2005
 ===============================================

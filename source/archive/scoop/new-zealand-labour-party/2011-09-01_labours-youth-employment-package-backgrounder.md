@@ -1,9 +1,12 @@
 ---
 slug: labours-youth-employment-package-backgrounder
-title: "Labour's Youth Employment Package: Backgrounder"
-date: 2011-09-01
-source-url: https://www.scoop.co.nz/stories/PA1109/S00018/labours-youth-employment-package-backgrounder.htm
+title: 'Labour''s Youth Employment Package: Backgrounder'
+date: 2011-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00018/labours-youth-employment-package-backgrounder.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/01/labours-youth-employment-package-backgrounder/index.html
+layout: layout.njk
 ---
 Labour's Youth Employment Package: Backgrounder
 ===============================================

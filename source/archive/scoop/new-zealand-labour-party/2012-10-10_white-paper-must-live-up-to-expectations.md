@@ -1,9 +1,12 @@
 ---
 slug: white-paper-must-live-up-to-expectations
-title: "White Paper Must Live Up To Expectations"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/PA1210/S00183/white-paper-must-live-up-to-expectations.htm
+title: White Paper Must Live Up To Expectations
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00183/white-paper-must-live-up-to-expectations.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/10/white-paper-must-live-up-to-expectations/index.html
+layout: layout.njk
 ---
 White Paper Must Live Up To Expectations
 ========================================

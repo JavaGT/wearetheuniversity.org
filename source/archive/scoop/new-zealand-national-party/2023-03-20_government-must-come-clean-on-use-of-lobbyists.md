@@ -1,9 +1,12 @@
 ---
 slug: government-must-come-clean-on-use-of-lobbyists
-title: "Government Must Come Clean On Use Of Lobbyists"
-date: 2023-03-20
-source-url: https://www.scoop.co.nz/stories/PA2303/S00169/government-must-come-clean-on-use-of-lobbyists.htm
+title: Government Must Come Clean On Use Of Lobbyists
+date: 2023-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00169/government-must-come-clean-on-use-of-lobbyists.htm
 author: new-zealand-national-party
+permalink: /archive/2023/03/20/government-must-come-clean-on-use-of-lobbyists/index.html
+layout: layout.njk
 ---
 Government Must Come Clean On Use Of Lobbyists
 ==============================================

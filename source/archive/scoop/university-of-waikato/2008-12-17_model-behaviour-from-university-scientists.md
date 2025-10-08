@@ -1,9 +1,12 @@
 ---
 slug: model-behaviour-from-university-scientists
-title: "Model behaviour from university scientists"
-date: 2008-12-17
-source-url: https://www.scoop.co.nz/stories/ED0812/S00071/model-behaviour-from-university-scientists.htm
+title: Model behaviour from university scientists
+date: 2008-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00071/model-behaviour-from-university-scientists.htm
 author: university-of-waikato
+permalink: /archive/2008/12/17/model-behaviour-from-university-scientists/index.html
+layout: layout.njk
 ---
 Model behaviour from university scientists
 ==========================================

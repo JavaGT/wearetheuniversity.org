@@ -1,9 +1,12 @@
 ---
 slug: oecd-dropout-numbers-increasing
-title: "OECD – dropout numbers increasing"
-date: 2007-09-20
-source-url: https://www.scoop.co.nz/stories/PA0709/S00336/oecd-dropout-numbers-increasing.htm
+title: OECD – dropout numbers increasing
+date: 2007-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00336/oecd-dropout-numbers-increasing.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/20/oecd-dropout-numbers-increasing/index.html
+layout: layout.njk
 ---
 OECD – dropout numbers increasing
 =================================

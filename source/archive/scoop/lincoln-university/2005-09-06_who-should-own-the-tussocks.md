@@ -1,9 +1,11 @@
 ---
 slug: who-should-own-the-tussocks
-title: "Who Should Own The Tussocks?"
-date: 2005-09-06
+title: Who Should Own The Tussocks?
+date: 2005-09-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0509/S00060/who-should-own-the-tussocks.htm
 author: lincoln-university
+permalink: /archive/2005/09/06/who-should-own-the-tussocks/index.html
+layout: layout.njk
 ---
 Who Should Own The Tussocks?
 ============================

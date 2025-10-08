@@ -1,9 +1,12 @@
 ---
 slug: jeanette-fitzsimons-speech-to-campaign-launch
-title: "Jeanette Fitzsimons Speech to Campaign launch"
-date: 2002-07-07
-source-url: https://www.scoop.co.nz/stories/PA0207/S00200/jeanette-fitzsimons-speech-to-campaign-launch.htm
+title: Jeanette Fitzsimons Speech to Campaign launch
+date: 2002-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00200/jeanette-fitzsimons-speech-to-campaign-launch.htm
 author: green-party
+permalink: /archive/2002/07/07/jeanette-fitzsimons-speech-to-campaign-launch/index.html
+layout: layout.njk
 ---
 Jeanette Fitzsimons Speech to Campaign launch
 =============================================

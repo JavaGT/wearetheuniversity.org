@@ -1,9 +1,13 @@
 ---
 slug: project-looking-at-harnessing-methane-from-tannery-waste
-title: "Project looking at harnessing methane from tannery waste"
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/ED1409/S00020/project-looking-at-harnessing-methane-from-tannery-waste.htm
+title: Project looking at harnessing methane from tannery waste
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00020/project-looking-at-harnessing-methane-from-tannery-waste.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/04/project-looking-at-harnessing-methane-from-tannery-waste/index.html
+layout: layout.njk
 ---
 Project looking at harnessing methane from tannery waste
 ========================================================

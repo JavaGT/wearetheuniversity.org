@@ -1,9 +1,12 @@
 ---
 slug: canterbury-spin-out-company-wins-an-auggie
-title: "Canterbury spin out company wins an Auggie"
-date: 2014-07-02
-source-url: https://www.scoop.co.nz/stories/SC1407/S00005/canterbury-spin-out-company-wins-an-auggie.htm
+title: Canterbury spin out company wins an Auggie
+date: 2014-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00005/canterbury-spin-out-company-wins-an-auggie.htm
 author: university-of-canterbury
+permalink: /archive/2014/07/02/canterbury-spin-out-company-wins-an-auggie/index.html
+layout: layout.njk
 ---
 Canterbury spin out company wins an Auggie
 ==========================================

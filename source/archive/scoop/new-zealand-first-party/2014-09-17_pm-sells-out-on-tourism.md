@@ -1,9 +1,11 @@
 ---
 slug: pm-sells-out-on-tourism
-title: "PM Sells Out on Tourism"
-date: 2014-09-17
+title: PM Sells Out on Tourism
+date: 2014-09-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1409/S00257/pm-sells-out-on-tourism.htm
 author: new-zealand-first-party
+permalink: /archive/2014/09/17/pm-sells-out-on-tourism/index.html
+layout: layout.njk
 ---
 PM Sells Out on Tourism
 =======================

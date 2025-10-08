@@ -1,9 +1,12 @@
 ---
 slug: could-an-autonomous-vehicle-harm-you
-title: "Could An Autonomous Vehicle Harm You?"
-date: 2020-10-01
-source-url: https://www.scoop.co.nz/stories/ED2010/S00003/could-an-autonomous-vehicle-harm-you.htm
+title: Could An Autonomous Vehicle Harm You?
+date: 2020-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00003/could-an-autonomous-vehicle-harm-you.htm
 author: university-of-canterbury
+permalink: /archive/2020/10/01/could-an-autonomous-vehicle-harm-you/index.html
+layout: layout.njk
 ---
 Could An Autonomous Vehicle Harm You?
 =====================================

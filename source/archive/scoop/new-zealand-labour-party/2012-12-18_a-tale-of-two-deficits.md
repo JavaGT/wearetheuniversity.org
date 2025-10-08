@@ -1,9 +1,11 @@
 ---
 slug: a-tale-of-two-deficits
-title: "A tale of two deficits"
-date: 2012-12-18
+title: A tale of two deficits
+date: 2012-12-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1212/S00329/a-tale-of-two-deficits.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/18/a-tale-of-two-deficits/index.html
+layout: layout.njk
 ---
 A tale of two deficits
 ======================

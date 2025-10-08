@@ -1,9 +1,12 @@
 ---
 slug: mallard-cant-make-up-his-mind
-title: "Mallard can’t make up his mind"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/PA0508/S00799/mallard-cant-make-up-his-mind.htm
+title: Mallard can’t make up his mind
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00799/mallard-cant-make-up-his-mind.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/30/mallard-cant-make-up-his-mind/index.html
+layout: layout.njk
 ---
 Mallard can’t make up his mind
 ==============================

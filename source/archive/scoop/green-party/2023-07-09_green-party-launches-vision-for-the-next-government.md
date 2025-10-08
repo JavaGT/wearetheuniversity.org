@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-vision-for-the-next-government
-title: "Green Party Launches Vision For The Next Government"
-date: 2023-07-09
-source-url: https://www.scoop.co.nz/stories/PO2307/S00045/green-party-launches-vision-for-the-next-government.htm
+title: Green Party Launches Vision For The Next Government
+date: 2023-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00045/green-party-launches-vision-for-the-next-government.htm
 author: green-party
+permalink: >-
+  /archive/2023/07/09/green-party-launches-vision-for-the-next-government/index.html
+layout: layout.njk
 ---
 Green Party Launches Vision For The Next Government
 ===================================================

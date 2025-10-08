@@ -1,9 +1,13 @@
 ---
 slug: nz-cant-afford-not-to-wipe-student-loan-interest
-title: "NZ can’t afford not to wipe student loan interest"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/ED0509/S00053/nz-cant-afford-not-to-wipe-student-loan-interest.htm
+title: NZ can’t afford not to wipe student loan interest
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00053/nz-cant-afford-not-to-wipe-student-loan-interest.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/09/15/nz-cant-afford-not-to-wipe-student-loan-interest/index.html
+layout: layout.njk
 ---
 NZ can’t afford not to wipe student loan interest
 =================================================

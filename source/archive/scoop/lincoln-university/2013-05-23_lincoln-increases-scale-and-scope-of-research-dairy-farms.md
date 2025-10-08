@@ -1,9 +1,13 @@
 ---
 slug: lincoln-increases-scale-and-scope-of-research-dairy-farms
-title: "Lincoln Increases Scale and Scope of Research Dairy Farms"
-date: 2013-05-23
-source-url: https://www.scoop.co.nz/stories/ED1305/S00155/lincoln-increases-scale-and-scope-of-research-dairy-farms.htm
+title: Lincoln Increases Scale and Scope of Research Dairy Farms
+date: 2013-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00155/lincoln-increases-scale-and-scope-of-research-dairy-farms.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/05/23/lincoln-increases-scale-and-scope-of-research-dairy-farms/index.html
+layout: layout.njk
 ---
 Lincoln Increases Scale and Scope of Research Dairy Farms
 =========================================================

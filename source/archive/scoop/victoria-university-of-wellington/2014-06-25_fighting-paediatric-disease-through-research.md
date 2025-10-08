@@ -1,9 +1,12 @@
 ---
 slug: fighting-paediatric-disease-through-research
-title: "Fighting paediatric disease through research"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/SC1406/S00063/fighting-paediatric-disease-through-research.htm
+title: Fighting paediatric disease through research
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00063/fighting-paediatric-disease-through-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/25/fighting-paediatric-disease-through-research/index.html
+layout: layout.njk
 ---
 Fighting paediatric disease through research
 ============================================

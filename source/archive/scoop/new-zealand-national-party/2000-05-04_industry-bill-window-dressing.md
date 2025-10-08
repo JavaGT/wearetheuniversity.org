@@ -1,9 +1,12 @@
 ---
 slug: industry-bill-window-dressing
-title: "Industry Bill Window-Dressing"
-date: 2000-05-04
-source-url: https://www.scoop.co.nz/stories/PA0005/S00117/industry-bill-window-dressing.htm
+title: Industry Bill Window-Dressing
+date: 2000-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00117/industry-bill-window-dressing.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/04/industry-bill-window-dressing/index.html
+layout: layout.njk
 ---
 Industry Bill Window-Dressing
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: marilyn-waring-appointed-to-position-at-aut
-title: "Marilyn Waring appointed to position at AUT"
-date: 2006-05-31
-source-url: https://www.scoop.co.nz/stories/ED0605/S00115/marilyn-waring-appointed-to-position-at-aut.htm
+title: Marilyn Waring appointed to position at AUT
+date: 2006-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00115/marilyn-waring-appointed-to-position-at-aut.htm
 author: aut-university
+permalink: /archive/2006/05/31/marilyn-waring-appointed-to-position-at-aut/index.html
+layout: layout.njk
 ---
 Marilyn Waring appointed to position at AUT
 ===========================================

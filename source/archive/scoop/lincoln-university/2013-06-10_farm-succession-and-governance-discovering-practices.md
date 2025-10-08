@@ -1,9 +1,13 @@
 ---
 slug: farm-succession-and-governance-discovering-practices
-title: "Farm succession and governance – discovering practices"
-date: 2013-06-10
-source-url: https://www.scoop.co.nz/stories/ED1306/S00050/farm-succession-and-governance-discovering-practices.htm
+title: Farm succession and governance – discovering practices
+date: 2013-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00050/farm-succession-and-governance-discovering-practices.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/06/10/farm-succession-and-governance-discovering-practices/index.html
+layout: layout.njk
 ---
 Farm succession and governance – discovering practices
 ======================================================

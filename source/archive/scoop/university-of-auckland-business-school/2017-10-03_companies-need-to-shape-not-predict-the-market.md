@@ -1,9 +1,12 @@
 ---
 slug: companies-need-to-shape-not-predict-the-market
-title: "Companies need to shape, not predict, the market"
-date: 2017-10-03
-source-url: https://www.scoop.co.nz/stories/BU1710/S00066/companies-need-to-shape-not-predict-the-market.htm
+title: Companies need to shape, not predict, the market
+date: 2017-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1710/S00066/companies-need-to-shape-not-predict-the-market.htm
 author: university-of-auckland-business-school
+permalink: /archive/2017/10/03/companies-need-to-shape-not-predict-the-market/index.html
+layout: layout.njk
 ---
 Companies need to shape, not predict, the market
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: race-relations-cover-up-or-compromise
-title: "Race Relations - Cover Up or Compromise"
-date: 2013-06-24
-source-url: https://www.scoop.co.nz/stories/PA1306/S00368/race-relations-cover-up-or-compromise.htm
+title: Race Relations - Cover Up or Compromise
+date: 2013-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00368/race-relations-cover-up-or-compromise.htm
 author: new-zealand-first-party
+permalink: /archive/2013/06/24/race-relations-cover-up-or-compromise/index.html
+layout: layout.njk
 ---
 Race Relations - Cover Up or Compromise
 =======================================

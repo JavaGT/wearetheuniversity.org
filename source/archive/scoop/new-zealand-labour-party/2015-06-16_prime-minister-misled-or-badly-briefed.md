@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-misled-or-badly-briefed
-title: "Prime Minister misled or badly briefed"
-date: 2015-06-16
-source-url: https://www.scoop.co.nz/stories/PA1506/S00246/prime-minister-misled-or-badly-briefed.htm
+title: Prime Minister misled or badly briefed
+date: 2015-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00246/prime-minister-misled-or-badly-briefed.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/16/prime-minister-misled-or-badly-briefed/index.html
+layout: layout.njk
 ---
 Prime Minister misled or badly briefed
 ======================================

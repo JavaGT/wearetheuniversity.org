@@ -1,9 +1,12 @@
 ---
 slug: call-to-focus-tertiary-expenditure-on-quality
-title: "Call to focus tertiary expenditure on quality"
-date: 2008-10-15
-source-url: https://www.scoop.co.nz/stories/ED0810/S00062/call-to-focus-tertiary-expenditure-on-quality.htm
+title: Call to focus tertiary expenditure on quality
+date: 2008-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00062/call-to-focus-tertiary-expenditure-on-quality.htm
 author: vice-chancellors-committee
+permalink: /archive/2008/10/15/call-to-focus-tertiary-expenditure-on-quality/index.html
+layout: layout.njk
 ---
 Call to focus tertiary expenditure on quality
 =============================================

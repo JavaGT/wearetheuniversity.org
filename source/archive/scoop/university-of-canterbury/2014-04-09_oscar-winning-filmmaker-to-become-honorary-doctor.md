@@ -1,9 +1,13 @@
 ---
 slug: oscar-winning-filmmaker-to-become-honorary-doctor
-title: "Oscar-winning filmmaker to become honorary doctor"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/CU1404/S00135/oscar-winning-filmmaker-to-become-honorary-doctor.htm
+title: Oscar-winning filmmaker to become honorary doctor
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00135/oscar-winning-filmmaker-to-become-honorary-doctor.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/09/oscar-winning-filmmaker-to-become-honorary-doctor/index.html
+layout: layout.njk
 ---
 Oscar-winning filmmaker to become honorary doctor
 =================================================

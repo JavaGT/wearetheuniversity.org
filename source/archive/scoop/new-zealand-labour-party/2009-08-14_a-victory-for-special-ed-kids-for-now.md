@@ -1,9 +1,12 @@
 ---
 slug: a-victory-for-special-ed-kids-for-now
-title: "A victory for Special Ed kids, for now"
-date: 2009-08-14
-source-url: https://www.scoop.co.nz/stories/PA0908/S00198/a-victory-for-special-ed-kids-for-now.htm
+title: A victory for Special Ed kids, for now
+date: 2009-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00198/a-victory-for-special-ed-kids-for-now.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/14/a-victory-for-special-ed-kids-for-now/index.html
+layout: layout.njk
 ---
 A victory for Special Ed kids, for now
 ======================================

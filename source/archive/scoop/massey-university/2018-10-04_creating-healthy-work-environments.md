@@ -1,9 +1,12 @@
 ---
 slug: creating-healthy-work-environments
-title: "Creating healthy work environments"
-date: 2018-10-04
-source-url: https://www.scoop.co.nz/stories/BU1810/S00140/creating-healthy-work-environments.htm
+title: Creating healthy work environments
+date: 2018-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1810/S00140/creating-healthy-work-environments.htm
 author: massey-university
+permalink: /archive/2018/10/04/creating-healthy-work-environments/index.html
+layout: layout.njk
 ---
 Creating healthy work environments
 ==================================

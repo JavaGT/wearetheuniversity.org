@@ -1,9 +1,12 @@
 ---
 slug: labours-school-cash-squeeze-forces-court-case
-title: "Labour’s school cash squeeze forces court case"
-date: 2005-04-01
-source-url: https://www.scoop.co.nz/stories/PA0504/S00020/labours-school-cash-squeeze-forces-court-case.htm
+title: Labour’s school cash squeeze forces court case
+date: 2005-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00020/labours-school-cash-squeeze-forces-court-case.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/01/labours-school-cash-squeeze-forces-court-case/index.html
+layout: layout.njk
 ---
 Labour’s school cash squeeze forces court case
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: debt-casebook-highlights-need-for-a-change
-title: "Debt casebook highlights need for a change"
-date: 1999-07-28
-source-url: https://www.scoop.co.nz/stories/PA9907/S00543/debt-casebook-highlights-need-for-a-change.htm
+title: Debt casebook highlights need for a change
+date: 1999-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00543/debt-casebook-highlights-need-for-a-change.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/28/debt-casebook-highlights-need-for-a-change/index.html
+layout: layout.njk
 ---
 Debt casebook highlights need for a change
 ==========================================

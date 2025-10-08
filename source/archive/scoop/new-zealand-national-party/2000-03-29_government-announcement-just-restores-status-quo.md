@@ -1,9 +1,13 @@
 ---
 slug: government-announcement-just-restores-status-quo
-title: "Government \"announcement\" just restores status quo"
-date: 2000-03-29
-source-url: https://www.scoop.co.nz/stories/PA0003/S00496/government-announcement-just-restores-status-quo.htm
+title: Government "announcement" just restores status quo
+date: 2000-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00496/government-announcement-just-restores-status-quo.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/03/29/government-announcement-just-restores-status-quo/index.html
+layout: layout.njk
 ---
 Government “announcement” just restores status quo
 ==================================================

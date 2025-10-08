@@ -1,9 +1,12 @@
 ---
 slug: opera-talent-wins-prestigious-award
-title: "Opera talent wins prestigious award"
-date: 2013-08-14
-source-url: https://www.scoop.co.nz/stories/CU1308/S00205/opera-talent-wins-prestigious-award.htm
+title: Opera talent wins prestigious award
+date: 2013-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1308/S00205/opera-talent-wins-prestigious-award.htm
 author: university-of-waikato
+permalink: /archive/2013/08/14/opera-talent-wins-prestigious-award/index.html
+layout: layout.njk
 ---
 Opera talent wins prestigious award
 ===================================

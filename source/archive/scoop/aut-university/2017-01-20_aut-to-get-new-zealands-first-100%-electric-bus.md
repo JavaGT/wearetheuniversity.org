@@ -1,9 +1,12 @@
 ---
 slug: aut-to-get-new-zealands-first-100%-electric-bus
-title: "AUT to get New Zealand’s first 100% electric bus"
-date: 2017-01-20
-source-url: https://www.scoop.co.nz/stories/AK1701/S00402/aut-to-get-new-zealands-first-100-electric-bus.htm
+title: AUT to get New Zealand’s first 100% electric bus
+date: 2017-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1701/S00402/aut-to-get-new-zealands-first-100-electric-bus.htm
 author: aut-university
+permalink: /archive/2017/01/20/aut-to-get-new-zealands-first-100/index.html
+layout: layout.njk
 ---
 AUT to get New Zealand’s first 100% electric bus
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: education-marketing-spend-rises-by-two-thirds
-title: "Education marketing spend rises by two thirds"
-date: 2003-03-28
-source-url: https://www.scoop.co.nz/stories/ED0303/S00051/education-marketing-spend-rises-by-two-thirds.htm
+title: Education marketing spend rises by two thirds
+date: 2003-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00051/education-marketing-spend-rises-by-two-thirds.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/03/28/education-marketing-spend-rises-by-two-thirds/index.html
+layout: layout.njk
 ---
 Education marketing spend rises by two thirds
 =============================================

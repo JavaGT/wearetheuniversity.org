@@ -1,9 +1,13 @@
 ---
 slug: research-aimed-at-discovering-why-some-dont-re-offend
-title: "Research aimed at discovering why some don’t re-offend"
-date: 2018-01-17
-source-url: https://www.scoop.co.nz/stories/GE1801/S00023/research-aimed-at-discovering-why-some-dont-re-offend.htm
+title: Research aimed at discovering why some don’t re-offend
+date: 2018-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1801/S00023/research-aimed-at-discovering-why-some-dont-re-offend.htm
 author: auckland-university
+permalink: >-
+  /archive/2018/01/17/research-aimed-at-discovering-why-some-dont-re-offend/index.html
+layout: layout.njk
 ---
 Research aimed at discovering why some don’t re-offend
 ======================================================

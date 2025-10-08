@@ -1,9 +1,13 @@
 ---
 slug: norfolk-islands-endangered-green-parrot-numbers-on-the-rise
-title: "Norfolk Island’s Endangered Green Parrot Numbers on the Rise"
-date: 2014-09-23
-source-url: https://www.scoop.co.nz/stories/SC1409/S00092/norfolk-islands-endangered-green-parrot-numbers-on-the-rise.htm
+title: Norfolk Island’s Endangered Green Parrot Numbers on the Rise
+date: 2014-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00092/norfolk-islands-endangered-green-parrot-numbers-on-the-rise.htm
 author: massey-university
+permalink: >-
+  /archive/2014/09/23/norfolk-islands-endangered-green-parrot-numbers-on-the-rise/index.html
+layout: layout.njk
 ---
 Norfolk Island’s Endangered Green Parrot Numbers on the Rise
 ============================================================

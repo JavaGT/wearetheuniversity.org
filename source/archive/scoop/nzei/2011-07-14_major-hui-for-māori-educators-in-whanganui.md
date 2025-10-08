@@ -1,9 +1,12 @@
 ---
 slug: major-hui-for-māori-educators-in-whanganui
-title: "Major Hui for Māori Educators in Whanganui"
-date: 2011-07-14
-source-url: https://www.scoop.co.nz/stories/ED1107/S00058/major-hui-for-maori-educators-in-whanganui.htm
+title: Major Hui for Māori Educators in Whanganui
+date: 2011-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00058/major-hui-for-maori-educators-in-whanganui.htm
 author: nzei
+permalink: /archive/2011/07/14/major-hui-for-m/index.html
+layout: layout.njk
 ---
 Major Hui for Māori Educators in Whanganui
 ==========================================

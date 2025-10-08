@@ -1,9 +1,12 @@
 ---
 slug: government-cuts-corners-on-school-bus-funding
-title: "Government cuts corners on school bus funding"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/PA1505/S00500/government-cuts-corners-on-school-bus-funding.htm
+title: Government cuts corners on school bus funding
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00500/government-cuts-corners-on-school-bus-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/27/government-cuts-corners-on-school-bus-funding/index.html
+layout: layout.njk
 ---
 Government cuts corners on school bus funding
 =============================================

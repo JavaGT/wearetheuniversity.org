@@ -1,9 +1,12 @@
 ---
 slug: national-must-answer-serious-questions-on-scf
-title: "National must answer serious questions on SCF"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/PA1009/S00129/national-must-answer-serious-questions-on-scf.htm
+title: National must answer serious questions on SCF
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00129/national-must-answer-serious-questions-on-scf.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/08/national-must-answer-serious-questions-on-scf/index.html
+layout: layout.njk
 ---
 National must answer serious questions on SCF
 =============================================

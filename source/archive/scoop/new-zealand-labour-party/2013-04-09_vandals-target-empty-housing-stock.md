@@ -1,9 +1,12 @@
 ---
 slug: vandals-target-empty-housing-stock
-title: "Vandals target empty housing stock"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/PA1304/S00106/vandals-target-empty-housing-stock.htm
+title: Vandals target empty housing stock
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00106/vandals-target-empty-housing-stock.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/09/vandals-target-empty-housing-stock/index.html
+layout: layout.njk
 ---
 Vandals target empty housing stock
 ==================================

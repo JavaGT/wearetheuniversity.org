@@ -1,9 +1,13 @@
 ---
 slug: health-by-design-new-public-lecture-series-at-massey
-title: "Health by Design: new public lecture series at Massey"
-date: 2019-03-06
-source-url: https://www.scoop.co.nz/stories/GE1903/S00018/health-by-design-new-public-lecture-series-at-massey.htm
+title: 'Health by Design: new public lecture series at Massey'
+date: 2019-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1903/S00018/health-by-design-new-public-lecture-series-at-massey.htm
 author: massey-university
+permalink: >-
+  /archive/2019/03/06/health-by-design-new-public-lecture-series-at-massey/index.html
+layout: layout.njk
 ---
 Health by Design: new public lecture series at Massey
 =====================================================

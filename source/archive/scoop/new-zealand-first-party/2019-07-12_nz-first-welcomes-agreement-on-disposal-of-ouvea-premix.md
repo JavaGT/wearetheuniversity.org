@@ -1,9 +1,13 @@
 ---
 slug: nz-first-welcomes-agreement-on-disposal-of-ouvea-premix
-title: "NZ First Welcomes Agreement on Disposal of Ouvea Premix"
-date: 2019-07-12
-source-url: https://www.scoop.co.nz/stories/PA1907/S00092/nz-first-welcomes-agreement-on-disposal-of-ouvea-premix.htm
+title: NZ First Welcomes Agreement on Disposal of Ouvea Premix
+date: 2019-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00092/nz-first-welcomes-agreement-on-disposal-of-ouvea-premix.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2019/07/12/nz-first-welcomes-agreement-on-disposal-of-ouvea-premix/index.html
+layout: layout.njk
 ---
 NZ First Welcomes Agreement on Disposal of Ouvea Premix
 =======================================================

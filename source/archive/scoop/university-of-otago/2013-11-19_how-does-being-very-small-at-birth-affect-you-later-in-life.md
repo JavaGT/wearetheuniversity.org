@@ -1,9 +1,13 @@
 ---
 slug: how-does-being-very-small-at-birth-affect-you-later-in-life
-title: "How does being very small at birth affect you later in life?"
-date: 2013-11-19
-source-url: https://www.scoop.co.nz/stories/GE1311/S00098/how-does-being-very-small-at-birth-affect-you-later-in-life.htm
+title: How does being very small at birth affect you later in life?
+date: 2013-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1311/S00098/how-does-being-very-small-at-birth-affect-you-later-in-life.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/11/19/how-does-being-very-small-at-birth-affect-you-later-in-life/index.html
+layout: layout.njk
 ---
 How does being very small at birth affect you later in life?
 ============================================================

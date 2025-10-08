@@ -1,9 +1,12 @@
 ---
 slug: a-tilt-in-the-right-direction
-title: "A tilt in the right direction"
-date: 2016-02-05
-source-url: https://www.scoop.co.nz/stories/SC1602/S00020/a-tilt-in-the-right-direction.htm
+title: A tilt in the right direction
+date: 2016-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00020/a-tilt-in-the-right-direction.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/02/05/a-tilt-in-the-right-direction/index.html
+layout: layout.njk
 ---
 A tilt in the right direction
 =============================

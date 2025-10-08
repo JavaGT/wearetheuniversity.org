@@ -1,9 +1,13 @@
 ---
 slug: anti-racists-outnumber-white-supremacists-in-chch
-title: "Anti-racists outnumber white supremacists in CHCH"
-date: 2014-03-24
-source-url: https://www.scoop.co.nz/stories/HL1403/S00169/anti-racists-outnumber-white-supremacists-in-chch.htm
+title: Anti-racists outnumber white supremacists in CHCH
+date: 2014-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1403/S00169/anti-racists-outnumber-white-supremacists-in-chch.htm
 author: fightback
+permalink: >-
+  /archive/2014/03/24/anti-racists-outnumber-white-supremacists-in-chch/index.html
+layout: layout.njk
 ---
 Anti-racists outnumber white supremacists in CHCH
 =================================================

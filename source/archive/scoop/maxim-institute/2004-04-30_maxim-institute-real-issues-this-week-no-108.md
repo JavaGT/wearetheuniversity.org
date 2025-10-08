@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-this-week-no-108
-title: "Maxim Institute real issues. this week: No. 108"
-date: 2004-04-30
-source-url: https://www.scoop.co.nz/stories/PO0404/S00210/maxim-institute-real-issues-this-week-no-108.htm
+title: 'Maxim Institute real issues. this week: No. 108'
+date: 2004-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0404/S00210/maxim-institute-real-issues-this-week-no-108.htm
 author: maxim-institute
+permalink: /archive/2004/04/30/maxim-institute-real-issues-this-week-no-108/index.html
+layout: layout.njk
 ---
 Maxim Institute real issues. this week: No. 108
 ===============================================

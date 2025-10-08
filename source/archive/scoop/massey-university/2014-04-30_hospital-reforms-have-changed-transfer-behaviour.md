@@ -1,9 +1,13 @@
 ---
 slug: hospital-reforms-have-changed-transfer-behaviour
-title: "Hospital reforms have changed transfer behaviour"
-date: 2014-04-30
-source-url: https://www.scoop.co.nz/stories/ED1404/S00091/hospital-reforms-have-changed-transfer-behaviour.htm
+title: Hospital reforms have changed transfer behaviour
+date: 2014-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00091/hospital-reforms-have-changed-transfer-behaviour.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/30/hospital-reforms-have-changed-transfer-behaviour/index.html
+layout: layout.njk
 ---
 Hospital reforms have changed transfer behaviour
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: truth-in-sentencing-speech-to-parliament
-title: "\"Truth In Sentencing\" - Speech To Parliament"
-date: 2000-09-06
-source-url: https://www.scoop.co.nz/stories/PA0009/S00077/truth-in-sentencing-speech-to-parliament.htm
+title: '"Truth In Sentencing" - Speech To Parliament'
+date: 2000-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00077/truth-in-sentencing-speech-to-parliament.htm
 author: act-new-zealand
+permalink: /archive/2000/09/06/truth-in-sentencing-speech-to-parliament/index.html
+layout: layout.njk
 ---
 "Truth In Sentencing" - Speech To Parliament
 ============================================

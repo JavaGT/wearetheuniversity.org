@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-code-of-practice-for-students
-title: "Students welcome Code of Practice for students"
-date: 2004-11-25
-source-url: https://www.scoop.co.nz/stories/ED0411/S00078/students-welcome-code-of-practice-for-students.htm
+title: Students welcome Code of Practice for students
+date: 2004-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00078/students-welcome-code-of-practice-for-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/11/25/students-welcome-code-of-practice-for-students/index.html
+layout: layout.njk
 ---
 Students welcome Code of Practice for students
 ==============================================

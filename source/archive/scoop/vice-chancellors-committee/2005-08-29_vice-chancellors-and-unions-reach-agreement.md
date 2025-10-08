@@ -1,9 +1,12 @@
 ---
 slug: vice-chancellors-and-unions-reach-agreement
-title: "Vice-Chancellors And Unions Reach Agreement"
-date: 2005-08-29
-source-url: https://www.scoop.co.nz/stories/ED0508/S00111/vice-chancellors-and-unions-reach-agreement.htm
+title: Vice-Chancellors And Unions Reach Agreement
+date: 2005-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00111/vice-chancellors-and-unions-reach-agreement.htm
 author: vice-chancellors-committee
+permalink: /archive/2005/08/29/vice-chancellors-and-unions-reach-agreement/index.html
+layout: layout.njk
 ---
 Vice-Chancellors And Unions Reach Agreement
 ===========================================

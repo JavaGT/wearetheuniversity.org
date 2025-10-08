@@ -1,9 +1,13 @@
 ---
 slug: chris-hipkins-apology-statement-to-state-and-faith-based-care-survivors
-title: "Chris Hipkins’ Apology Statement To State And Faith-based Care Survivors"
-date: 2024-11-12
-source-url: https://www.scoop.co.nz/stories/PA2411/S00083/chris-hipkins-apology-statement-to-state-and-faith-based-care-survivors.htm
+title: Chris Hipkins’ Apology Statement To State And Faith-based Care Survivors
+date: 2024-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00083/chris-hipkins-apology-statement-to-state-and-faith-based-care-survivors.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/11/12/chris-hipkins-apology-statement-to-state-and-faith-based-care-survivors/index.html
+layout: layout.njk
 ---
 Chris Hipkins’ Apology Statement To State And Faith-based Care Survivors
 ========================================================================

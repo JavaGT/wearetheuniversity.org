@@ -1,9 +1,13 @@
 ---
 slug: thumb-sucking-and-nail-biting-children-show-fewer-allergies
-title: "Thumb-sucking and nail-biting children show fewer allergies"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/SC1607/S00031/thumb-sucking-and-nail-biting-children-show-fewer-allergies.htm
+title: Thumb-sucking and nail-biting children show fewer allergies
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00031/thumb-sucking-and-nail-biting-children-show-fewer-allergies.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/11/thumb-sucking-and-nail-biting-children-show-fewer-allergies/index.html
+layout: layout.njk
 ---
 Thumb-sucking and nail-biting children show fewer allergies
 ===========================================================

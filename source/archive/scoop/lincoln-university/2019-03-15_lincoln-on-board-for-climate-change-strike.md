@@ -1,9 +1,12 @@
 ---
 slug: lincoln-on-board-for-climate-change-strike
-title: "Lincoln on board for climate change strike"
-date: 2019-03-15
-source-url: https://www.scoop.co.nz/stories/PO1903/S00160/lincoln-on-board-for-climate-change-strike.htm
+title: Lincoln on board for climate change strike
+date: 2019-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1903/S00160/lincoln-on-board-for-climate-change-strike.htm
 author: lincoln-university
+permalink: /archive/2019/03/15/lincoln-on-board-for-climate-change-strike/index.html
+layout: layout.njk
 ---
 Lincoln on board for climate change strike
 ==========================================

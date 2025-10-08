@@ -1,9 +1,13 @@
 ---
 slug: desperate-euthanasia-opponents-are-dishonest-or-innumerate
-title: "Desperate euthanasia opponents are dishonest or innumerate"
-date: 2017-01-13
-source-url: https://www.scoop.co.nz/stories/PA1701/S00030/desperate-euthanasia-opponents-are-dishonest-or-innumerate.htm
+title: Desperate euthanasia opponents are dishonest or innumerate
+date: 2017-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00030/desperate-euthanasia-opponents-are-dishonest-or-innumerate.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/01/13/desperate-euthanasia-opponents-are-dishonest-or-innumerate/index.html
+layout: layout.njk
 ---
 Desperate euthanasia opponents are dishonest or innumerate
 ==========================================================

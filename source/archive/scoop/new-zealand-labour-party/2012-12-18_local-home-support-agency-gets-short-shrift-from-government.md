@@ -1,9 +1,13 @@
 ---
 slug: local-home-support-agency-gets-short-shrift-from-government
-title: "Local home support agency gets short shrift from Government"
-date: 2012-12-18
-source-url: https://www.scoop.co.nz/stories/PA1212/S00339/local-home-support-agency-gets-short-shrift-from-government.htm
+title: Local home support agency gets short shrift from Government
+date: 2012-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00339/local-home-support-agency-gets-short-shrift-from-government.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/12/18/local-home-support-agency-gets-short-shrift-from-government/index.html
+layout: layout.njk
 ---
 Local home support agency gets short shrift from Government
 ===========================================================

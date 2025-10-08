@@ -1,9 +1,12 @@
 ---
 slug: technology-music-and-art-on-the-way-out
-title: "Technology music and art on the way out"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/ED1205/S00106/technology-music-and-art-on-the-way-out.htm
+title: Technology music and art on the way out
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00106/technology-music-and-art-on-the-way-out.htm
 author: nzei
+permalink: /archive/2012/05/24/technology-music-and-art-on-the-way-out/index.html
+layout: layout.njk
 ---
 Technology music and art on the way out
 =======================================

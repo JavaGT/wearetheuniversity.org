@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-ki-a-denis-wilmott-hansen-qsm
-title: "Poroporoaki ki a Denis Wilmott Hansen QSM"
-date: 2013-09-06
-source-url: https://www.scoop.co.nz/stories/PA1309/S00135/poroporoaki-ki-a-denis-wilmott-hansen-qsm.htm
+title: Poroporoaki ki a Denis Wilmott Hansen QSM
+date: 2013-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00135/poroporoaki-ki-a-denis-wilmott-hansen-qsm.htm
 author: te-pati-maori
+permalink: /archive/2013/09/06/poroporoaki-ki-a-denis-wilmott-hansen-qsm/index.html
+layout: layout.njk
 ---
 Poroporoaki ki a Denis Wilmott Hansen QSM
 =========================================

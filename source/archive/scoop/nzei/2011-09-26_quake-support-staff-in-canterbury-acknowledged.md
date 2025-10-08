@@ -1,9 +1,12 @@
 ---
 slug: quake-support-staff-in-canterbury-acknowledged
-title: "Quake Support Staff in Canterbury acknowledged"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/ED1109/S00116/quake-support-staff-in-canterbury-acknowledged.htm
+title: Quake Support Staff in Canterbury acknowledged
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00116/quake-support-staff-in-canterbury-acknowledged.htm
 author: nzei
+permalink: /archive/2011/09/26/quake-support-staff-in-canterbury-acknowledged/index.html
+layout: layout.njk
 ---
 Quake Support Staff in Canterbury acknowledged
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: low-maori-incomes-are-no-surprise-paraone
-title: "Low Maori Incomes Are No Surprise - Paraone"
-date: 2008-02-15
-source-url: https://www.scoop.co.nz/stories/PA0802/S00241/low-maori-incomes-are-no-surprise-paraone.htm
+title: Low Maori Incomes Are No Surprise - Paraone
+date: 2008-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00241/low-maori-incomes-are-no-surprise-paraone.htm
 author: new-zealand-first-party
+permalink: /archive/2008/02/15/low-maori-incomes-are-no-surprise-paraone/index.html
+layout: layout.njk
 ---
 Low Maori Incomes Are No Surprise - Paraone
 ===========================================

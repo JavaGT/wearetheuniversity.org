@@ -1,9 +1,12 @@
 ---
 slug: killer-plagues-not-just-a-hollywood-scenario
-title: "Killer plagues not just a Hollywood scenario"
-date: 2011-11-11
-source-url: https://www.scoop.co.nz/stories/ED1111/S00085/killer-plagues-not-just-a-hollywood-scenario.htm
+title: Killer plagues not just a Hollywood scenario
+date: 2011-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00085/killer-plagues-not-just-a-hollywood-scenario.htm
 author: massey-university
+permalink: /archive/2011/11/11/killer-plagues-not-just-a-hollywood-scenario/index.html
+layout: layout.njk
 ---
 Killer plagues not just a Hollywood scenario
 ============================================

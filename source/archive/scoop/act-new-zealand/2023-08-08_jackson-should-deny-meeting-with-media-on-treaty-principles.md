@@ -1,9 +1,13 @@
 ---
 slug: jackson-should-deny-meeting-with-media-on-treaty-principles
-title: "Jackson Should Deny Meeting With Media On Treaty Principles"
-date: 2023-08-08
-source-url: https://www.scoop.co.nz/stories/PA2308/S00052/jackson-should-deny-meeting-with-media-on-treaty-principles.htm
+title: Jackson Should Deny Meeting With Media On Treaty Principles
+date: 2023-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00052/jackson-should-deny-meeting-with-media-on-treaty-principles.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/08/08/jackson-should-deny-meeting-with-media-on-treaty-principles/index.html
+layout: layout.njk
 ---
 Jackson Should Deny Meeting With Media On Treaty Principles
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: time-ecolab-let-striking-workers-join-collective
-title: "Time EcoLab let striking workers join collective"
-date: 2008-04-24
-source-url: https://www.scoop.co.nz/stories/PA0804/S00567/time-ecolab-let-striking-workers-join-collective.htm
+title: Time EcoLab let striking workers join collective
+date: 2008-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00567/time-ecolab-let-striking-workers-join-collective.htm
 author: green-party
+permalink: >-
+  /archive/2008/04/24/time-ecolab-let-striking-workers-join-collective/index.html
+layout: layout.njk
 ---
 Time EcoLab let striking workers join collective
 ================================================

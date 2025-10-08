@@ -1,9 +1,13 @@
 ---
 slug: leaf-litter-research-boosted-with-shirtcliffe-fellowship
-title: "Leaf litter research boosted with Shirtcliffe Fellowship"
-date: 2014-10-22
-source-url: https://www.scoop.co.nz/stories/ED1410/S00122/leaf-litter-research-boosted-with-shirtcliffe-fellowship.htm
+title: Leaf litter research boosted with Shirtcliffe Fellowship
+date: 2014-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00122/leaf-litter-research-boosted-with-shirtcliffe-fellowship.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/10/22/leaf-litter-research-boosted-with-shirtcliffe-fellowship/index.html
+layout: layout.njk
 ---
 Leaf litter research boosted with Shirtcliffe Fellowship
 ========================================================

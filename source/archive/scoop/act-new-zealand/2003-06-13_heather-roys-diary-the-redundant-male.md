@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-the-redundant-male
-title: "Heather Roy's Diary: The Redundant Male"
-date: 2003-06-13
-source-url: https://www.scoop.co.nz/stories/PA0306/S00238/heather-roys-diary-the-redundant-male.htm
+title: 'Heather Roy''s Diary: The Redundant Male'
+date: 2003-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00238/heather-roys-diary-the-redundant-male.htm
 author: act-new-zealand
+permalink: /archive/2003/06/13/heather-roys-diary-the-redundant-male/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: The Redundant Male
 =======================================

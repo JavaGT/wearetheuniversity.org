@@ -1,9 +1,11 @@
 ---
 slug: smart-future-or-dumb-future
-title: "Smart Future or Dumb Future"
-date: 2008-10-22
+title: Smart Future or Dumb Future
+date: 2008-10-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0810/S00508/smart-future-or-dumb-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/22/smart-future-or-dumb-future/index.html
+layout: layout.njk
 ---
 Smart Future or Dumb Future
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: university-physicist-on-world-particle-team
-title: "University physicist on world particle team"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/SC0809/S00043/university-physicist-on-world-particle-team.htm
+title: University physicist on world particle team
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0809/S00043/university-physicist-on-world-particle-team.htm
 author: massey-university
+permalink: /archive/2008/09/12/university-physicist-on-world-particle-team/index.html
+layout: layout.njk
 ---
 University physicist on world particle team
 ===========================================

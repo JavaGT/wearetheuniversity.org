@@ -1,9 +1,13 @@
 ---
 slug: planning-needed-now-to-protect-gps-in-next-pandemic
-title: "Planning Needed Now To Protect GPs In Next Pandemic"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/GE0508/S00128/planning-needed-now-to-protect-gps-in-next-pandemic.htm
+title: Planning Needed Now To Protect GPs In Next Pandemic
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0508/S00128/planning-needed-now-to-protect-gps-in-next-pandemic.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/08/30/planning-needed-now-to-protect-gps-in-next-pandemic/index.html
+layout: layout.njk
 ---
 Planning Needed Now To Protect GPs In Next Pandemic
 ===================================================

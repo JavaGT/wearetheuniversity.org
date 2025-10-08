@@ -1,9 +1,12 @@
 ---
 slug: a-revolution-in-education-is-whats-needed
-title: "A Revolution In Education Is What's Needed"
-date: 2004-08-23
-source-url: https://www.scoop.co.nz/stories/PA0408/S00381/a-revolution-in-education-is-whats-needed.htm
+title: A Revolution In Education Is What's Needed
+date: 2004-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00381/a-revolution-in-education-is-whats-needed.htm
 author: act-new-zealand
+permalink: /archive/2004/08/23/a-revolution-in-education-is-whats-needed/index.html
+layout: layout.njk
 ---
 A Revolution In Education Is What's Needed
 ==========================================

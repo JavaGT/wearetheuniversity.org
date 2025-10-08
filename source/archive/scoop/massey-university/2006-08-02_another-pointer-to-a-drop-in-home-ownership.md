@@ -1,9 +1,12 @@
 ---
 slug: another-pointer-to-a-drop-in-home-ownership
-title: "Another pointer to a drop in home ownership"
-date: 2006-08-02
-source-url: https://www.scoop.co.nz/stories/ED0608/S00007/another-pointer-to-a-drop-in-home-ownership.htm
+title: Another pointer to a drop in home ownership
+date: 2006-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00007/another-pointer-to-a-drop-in-home-ownership.htm
 author: massey-university
+permalink: /archive/2006/08/02/another-pointer-to-a-drop-in-home-ownership/index.html
+layout: layout.njk
 ---
 Another pointer to a drop in home ownership
 ===========================================

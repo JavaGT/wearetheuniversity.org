@@ -1,9 +1,12 @@
 ---
 slug: research-measures-sustainability-of-organics
-title: "Research measures sustainability of organics"
-date: 2009-05-12
-source-url: https://www.scoop.co.nz/stories/SC0905/S00017/research-measures-sustainability-of-organics.htm
+title: Research measures sustainability of organics
+date: 2009-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0905/S00017/research-measures-sustainability-of-organics.htm
 author: massey-university
+permalink: /archive/2009/05/12/research-measures-sustainability-of-organics/index.html
+layout: layout.njk
 ---
 Research measures sustainability of organics
 ============================================

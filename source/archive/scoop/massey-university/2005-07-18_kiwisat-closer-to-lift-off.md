@@ -1,9 +1,11 @@
 ---
 slug: kiwisat-closer-to-lift-off
-title: "KiwiSat closer to lift-off"
-date: 2005-07-18
+title: KiwiSat closer to lift-off
+date: 2005-07-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0507/S00058/kiwisat-closer-to-lift-off.htm
 author: massey-university
+permalink: /archive/2005/07/18/kiwisat-closer-to-lift-off/index.html
+layout: layout.njk
 ---
 KiwiSat closer to lift-off
 ==========================

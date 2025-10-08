@@ -1,9 +1,12 @@
 ---
 slug: masseys-global-voice-on-marine-plastic-waste
-title: "Massey’s global voice on marine plastic waste"
-date: 2018-08-27
-source-url: https://www.scoop.co.nz/stories/ED1808/S00073/masseys-global-voice-on-marine-plastic-waste.htm
+title: Massey’s global voice on marine plastic waste
+date: 2018-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00073/masseys-global-voice-on-marine-plastic-waste.htm
 author: massey-university
+permalink: /archive/2018/08/27/masseys-global-voice-on-marine-plastic-waste/index.html
+layout: layout.njk
 ---
 Massey’s global voice on marine plastic waste
 =============================================

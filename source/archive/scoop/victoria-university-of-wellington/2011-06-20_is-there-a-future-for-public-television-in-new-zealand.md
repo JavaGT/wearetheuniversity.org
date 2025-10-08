@@ -1,9 +1,13 @@
 ---
 slug: is-there-a-future-for-public-television-in-new-zealand
-title: "Is there a future for public television in New Zealand?"
-date: 2011-06-20
-source-url: https://www.scoop.co.nz/stories/PO1106/S00230/is-there-a-future-for-public-television-in-new-zealand.htm
+title: Is there a future for public television in New Zealand?
+date: 2011-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00230/is-there-a-future-for-public-television-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/06/20/is-there-a-future-for-public-television-in-new-zealand/index.html
+layout: layout.njk
 ---
 Is there a future for public television in New Zealand?
 =======================================================

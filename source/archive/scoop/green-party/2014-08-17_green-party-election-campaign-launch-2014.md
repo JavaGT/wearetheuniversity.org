@@ -1,9 +1,12 @@
 ---
 slug: green-party-election-campaign-launch-2014
-title: "Green Party Election Campaign Launch 2014"
-date: 2014-08-17
-source-url: https://www.scoop.co.nz/stories/PA1408/S00263/green-party-election-campaign-launch-2014.htm
+title: Green Party Election Campaign Launch 2014
+date: 2014-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00263/green-party-election-campaign-launch-2014.htm
 author: green-party
+permalink: /archive/2014/08/17/green-party-election-campaign-launch-2014/index.html
+layout: layout.njk
 ---
 Green Party Election Campaign Launch 2014
 =========================================

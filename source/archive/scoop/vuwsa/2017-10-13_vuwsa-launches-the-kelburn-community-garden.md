@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-launches-the-kelburn-community-garden
-title: "VUWSA Launches the Kelburn Community Garden"
-date: 2017-10-13
-source-url: https://www.scoop.co.nz/stories/AK1710/S00277/vuwsa-launches-the-kelburn-community-garden.htm
+title: VUWSA Launches the Kelburn Community Garden
+date: 2017-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1710/S00277/vuwsa-launches-the-kelburn-community-garden.htm
 author: vuwsa
+permalink: /archive/2017/10/13/vuwsa-launches-the-kelburn-community-garden/index.html
+layout: layout.njk
 ---
 VUWSA Launches the Kelburn Community Garden
 ===========================================

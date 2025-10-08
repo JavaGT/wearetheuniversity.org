@@ -1,9 +1,16 @@
 ---
-slug: university-of-waikato-academic-shortlisted-in-international-short-story-competition
-title: "University Of Waikato Academic Shortlisted In International Short Story Competition"
-date: 2020-04-23
-source-url: https://www.scoop.co.nz/stories/CU2004/S00117/university-of-waikato-academic-shortlisted-in-international-short-story-competition.htm
+slug: >-
+  university-of-waikato-academic-shortlisted-in-international-short-story-competition
+title: >-
+  University Of Waikato Academic Shortlisted In International Short Story
+  Competition
+date: 2020-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2004/S00117/university-of-waikato-academic-shortlisted-in-international-short-story-competition.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/04/23/university-of-waikato-academic-shortlisted-in-international-short-story-competition/index.html
+layout: layout.njk
 ---
 University Of Waikato Academic Shortlisted In International Short Story Competition
 ===================================================================================

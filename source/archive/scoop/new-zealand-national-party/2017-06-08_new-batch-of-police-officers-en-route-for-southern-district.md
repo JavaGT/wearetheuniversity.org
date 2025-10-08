@@ -1,9 +1,13 @@
 ---
 slug: new-batch-of-police-officers-en-route-for-southern-district
-title: "New batch of police officers en route for Southern District"
-date: 2017-06-08
-source-url: https://www.scoop.co.nz/stories/PA1706/S00146/new-batch-of-police-officers-en-route-for-southern-district.htm
+title: New batch of police officers en route for Southern District
+date: 2017-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00146/new-batch-of-police-officers-en-route-for-southern-district.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/06/08/new-batch-of-police-officers-en-route-for-southern-district/index.html
+layout: layout.njk
 ---
 New batch of police officers en route for Southern District
 ===========================================================

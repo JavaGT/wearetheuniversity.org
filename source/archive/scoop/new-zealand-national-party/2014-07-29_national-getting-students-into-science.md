@@ -1,9 +1,12 @@
 ---
 slug: national-getting-students-into-science
-title: "National getting students into science"
-date: 2014-07-29
-source-url: https://www.scoop.co.nz/stories/PO1407/S00471/national-getting-students-into-science.htm
+title: National getting students into science
+date: 2014-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00471/national-getting-students-into-science.htm
 author: new-zealand-national-party
+permalink: /archive/2014/07/29/national-getting-students-into-science/index.html
+layout: layout.njk
 ---
 National getting students into science
 ======================================

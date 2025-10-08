@@ -1,9 +1,11 @@
 ---
 slug: local-boy-goes-to-vietnam
-title: "Local boy goes to Vietnam"
-date: 2016-08-01
+title: Local boy goes to Vietnam
+date: 2016-08-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1608/S00002/local-boy-goes-to-vietnam.htm
 author: university-of-waikato
+permalink: /archive/2016/08/01/local-boy-goes-to-vietnam/index.html
+layout: layout.njk
 ---
 Local boy goes to Vietnam
 =========================

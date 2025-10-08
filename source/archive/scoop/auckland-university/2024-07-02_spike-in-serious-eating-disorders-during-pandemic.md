@@ -1,9 +1,13 @@
 ---
 slug: spike-in-serious-eating-disorders-during-pandemic
-title: "Spike In Serious Eating Disorders During Pandemic"
-date: 2024-07-02
-source-url: https://www.scoop.co.nz/stories/GE2407/S00009/spike-in-serious-eating-disorders-during-pandemic.htm
+title: Spike In Serious Eating Disorders During Pandemic
+date: 2024-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2407/S00009/spike-in-serious-eating-disorders-during-pandemic.htm
 author: auckland-university
+permalink: >-
+  /archive/2024/07/02/spike-in-serious-eating-disorders-during-pandemic/index.html
+layout: layout.njk
 ---
 Spike In Serious Eating Disorders During Pandemic
 =================================================

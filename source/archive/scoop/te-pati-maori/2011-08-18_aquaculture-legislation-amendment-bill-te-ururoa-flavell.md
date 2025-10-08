@@ -1,9 +1,13 @@
 ---
 slug: aquaculture-legislation-amendment-bill-te-ururoa-flavell
-title: "Aquaculture Legislation Amendment Bill - Te Ururoa Flavell"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/PA1108/S00406/aquaculture-legislation-amendment-bill-te-ururoa-flavell.htm
+title: Aquaculture Legislation Amendment Bill - Te Ururoa Flavell
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00406/aquaculture-legislation-amendment-bill-te-ururoa-flavell.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/08/18/aquaculture-legislation-amendment-bill-te-ururoa-flavell/index.html
+layout: layout.njk
 ---
 Aquaculture Legislation Amendment Bill - Te Ururoa Flavell
 ==========================================================

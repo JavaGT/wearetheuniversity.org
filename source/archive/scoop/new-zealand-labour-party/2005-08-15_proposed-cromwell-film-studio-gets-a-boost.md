@@ -1,9 +1,12 @@
 ---
 slug: proposed-cromwell-film-studio-gets-a-boost
-title: "Proposed Cromwell Film Studio gets a boost"
-date: 2005-08-15
-source-url: https://www.scoop.co.nz/stories/PA0508/S00378/proposed-cromwell-film-studio-gets-a-boost.htm
+title: Proposed Cromwell Film Studio gets a boost
+date: 2005-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00378/proposed-cromwell-film-studio-gets-a-boost.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/15/proposed-cromwell-film-studio-gets-a-boost/index.html
+layout: layout.njk
 ---
 Proposed Cromwell Film Studio gets a boost
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: despite-the-spin-our-universities-slide
-title: "Despite the spin our universities slide"
-date: 2015-10-01
-source-url: https://www.scoop.co.nz/stories/PA1510/S00013/despite-the-spin-our-universities-slide.htm
+title: Despite the spin our universities slide
+date: 2015-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00013/despite-the-spin-our-universities-slide.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/01/despite-the-spin-our-universities-slide/index.html
+layout: layout.njk
 ---
 Despite the spin our universities slide
 =======================================

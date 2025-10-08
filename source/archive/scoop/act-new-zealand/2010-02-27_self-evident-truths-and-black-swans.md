@@ -1,9 +1,12 @@
 ---
 slug: self-evident-truths-and-black-swans
-title: "Self-Evident Truths And Black Swans"
-date: 2010-02-27
-source-url: https://www.scoop.co.nz/stories/PA1002/S00397/self-evident-truths-and-black-swans.htm
+title: Self-Evident Truths And Black Swans
+date: 2010-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00397/self-evident-truths-and-black-swans.htm
 author: act-new-zealand
+permalink: /archive/2010/02/27/self-evident-truths-and-black-swans/index.html
+layout: layout.njk
 ---
 Self-Evident Truths And Black Swans
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: ncea-systemic-failure-in-education-system
-title: "NCEA: Systemic failure in education system"
-date: 2006-09-07
-source-url: https://www.scoop.co.nz/stories/PA0609/S00168/ncea-systemic-failure-in-education-system.htm
+title: 'NCEA: Systemic failure in education system'
+date: 2006-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00168/ncea-systemic-failure-in-education-system.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/07/ncea-systemic-failure-in-education-system/index.html
+layout: layout.njk
 ---
 NCEA: Systemic failure in education system
 ==========================================

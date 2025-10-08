@@ -1,9 +1,12 @@
 ---
 slug: astronomers-involved-in-planet-discovery
-title: "Astronomers involved in planet discovery"
-date: 2006-01-26
-source-url: https://www.scoop.co.nz/stories/SC0601/S00032/astronomers-involved-in-planet-discovery.htm
+title: Astronomers involved in planet discovery
+date: 2006-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0601/S00032/astronomers-involved-in-planet-discovery.htm
 author: university-of-canterbury
+permalink: /archive/2006/01/26/astronomers-involved-in-planet-discovery/index.html
+layout: layout.njk
 ---
 Astronomers involved in planet discovery
 ========================================

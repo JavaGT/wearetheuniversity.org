@@ -1,9 +1,12 @@
 ---
 slug: first-new-zealand-online-alcohol-&-drug-study-underway
-title: "First New Zealand Online Alcohol & Drug Study Underway"
-date: 2017-10-30
-source-url: https://www.scoop.co.nz/stories/GE1710/S00123/first-new-zealand-online-alcohol-drug-study-underway.htm
+title: First New Zealand Online Alcohol & Drug Study Underway
+date: 2017-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1710/S00123/first-new-zealand-online-alcohol-drug-study-underway.htm
 author: massey-university
+permalink: /archive/2017/10/30/first-new-zealand-online-alcohol-/index.html
+layout: layout.njk
 ---
 First New Zealand Online Alcohol & Drug Study Underway
 ======================================================

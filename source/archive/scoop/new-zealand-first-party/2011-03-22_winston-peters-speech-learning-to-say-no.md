@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-learning-to-say-no
-title: "Winston Peters Speech: Learning To Say 'No'"
-date: 2011-03-22
-source-url: https://www.scoop.co.nz/stories/PO1103/S00205/winston-peters-speech-learning-to-say-no.htm
+title: 'Winston Peters Speech: Learning To Say ''No'''
+date: 2011-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1103/S00205/winston-peters-speech-learning-to-say-no.htm
 author: new-zealand-first-party
+permalink: /archive/2011/03/22/winston-peters-speech-learning-to-say-no/index.html
+layout: layout.njk
 ---
 Winston Peters Speech: Learning To Say 'No'
 ===========================================

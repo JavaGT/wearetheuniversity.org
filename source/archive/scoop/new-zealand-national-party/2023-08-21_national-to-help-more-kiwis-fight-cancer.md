@@ -1,9 +1,12 @@
 ---
 slug: national-to-help-more-kiwis-fight-cancer
-title: "National To Help More Kiwis Fight Cancer"
-date: 2023-08-21
-source-url: https://www.scoop.co.nz/stories/PA2308/S00135/national-to-help-more-kiwis-fight-cancer.htm
+title: National To Help More Kiwis Fight Cancer
+date: 2023-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00135/national-to-help-more-kiwis-fight-cancer.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/21/national-to-help-more-kiwis-fight-cancer/index.html
+layout: layout.njk
 ---
 National To Help More Kiwis Fight Cancer
 ========================================

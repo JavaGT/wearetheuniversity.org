@@ -1,9 +1,13 @@
 ---
 slug: cantabrians-working-towards-new-anti-inflammatory-drugs
-title: "Cantabrians working towards new anti-inflammatory drugs"
-date: 2011-10-27
-source-url: https://www.scoop.co.nz/stories/ED1110/S00119/cantabrians-working-towards-new-anti-inflammatory-drugs.htm
+title: Cantabrians working towards new anti-inflammatory drugs
+date: 2011-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00119/cantabrians-working-towards-new-anti-inflammatory-drugs.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/10/27/cantabrians-working-towards-new-anti-inflammatory-drugs/index.html
+layout: layout.njk
 ---
 Cantabrians working towards new anti-inflammatory drugs
 =======================================================

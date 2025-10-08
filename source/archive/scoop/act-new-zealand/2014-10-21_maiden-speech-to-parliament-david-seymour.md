@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-to-parliament-david-seymour
-title: "Maiden Speech to Parliament - David Seymour"
-date: 2014-10-21
-source-url: https://www.scoop.co.nz/stories/PA1410/S00117/maiden-speech-to-parliament-david-seymour.htm
+title: Maiden Speech to Parliament - David Seymour
+date: 2014-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00117/maiden-speech-to-parliament-david-seymour.htm
 author: act-new-zealand
+permalink: /archive/2014/10/21/maiden-speech-to-parliament-david-seymour/index.html
+layout: layout.njk
 ---
 Maiden Speech to Parliament - David Seymour
 ===========================================

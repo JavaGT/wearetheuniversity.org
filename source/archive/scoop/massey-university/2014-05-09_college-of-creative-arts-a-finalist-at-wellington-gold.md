@@ -1,9 +1,13 @@
 ---
 slug: college-of-creative-arts-a-finalist-at-wellington-gold
-title: "College of Creative Arts a finalist at Wellington Gold"
-date: 2014-05-09
-source-url: https://www.scoop.co.nz/stories/ED1405/S00055/college-of-creative-arts-a-finalist-at-wellington-gold.htm
+title: College of Creative Arts a finalist at Wellington Gold
+date: 2014-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00055/college-of-creative-arts-a-finalist-at-wellington-gold.htm
 author: massey-university
+permalink: >-
+  /archive/2014/05/09/college-of-creative-arts-a-finalist-at-wellington-gold/index.html
+layout: layout.njk
 ---
 College of Creative Arts a finalist at Wellington Gold
 ======================================================

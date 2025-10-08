@@ -1,9 +1,12 @@
 ---
 slug: survey-shows-parents-want-smaller-class-sizes
-title: "Survey shows parents want smaller class sizes"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/PA1407/S00157/survey-shows-parents-want-smaller-class-sizes.htm
+title: Survey shows parents want smaller class sizes
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00157/survey-shows-parents-want-smaller-class-sizes.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/08/survey-shows-parents-want-smaller-class-sizes/index.html
+layout: layout.njk
 ---
 Survey shows parents want smaller class sizes
 =============================================

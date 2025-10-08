@@ -1,9 +1,13 @@
 ---
 slug: pasifika-law-and-culture-experts-lift-lid-on-hard-issues
-title: "Pasifika law and culture experts lift lid on hard issues"
-date: 2016-07-01
-source-url: https://www.scoop.co.nz/stories/AK1607/S00041/pasifika-law-and-culture-experts-lift-lid-on-hard-issues.htm
+title: Pasifika law and culture experts lift lid on hard issues
+date: 2016-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1607/S00041/pasifika-law-and-culture-experts-lift-lid-on-hard-issues.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/07/01/pasifika-law-and-culture-experts-lift-lid-on-hard-issues/index.html
+layout: layout.njk
 ---
 Pasifika law and culture experts lift lid on hard issues
 ========================================================

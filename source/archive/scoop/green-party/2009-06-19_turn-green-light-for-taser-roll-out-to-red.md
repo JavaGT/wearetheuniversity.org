@@ -1,9 +1,12 @@
 ---
 slug: turn-green-light-for-taser-roll-out-to-red
-title: "Turn green light for taser roll-out to red"
-date: 2009-06-19
-source-url: https://www.scoop.co.nz/stories/PA0906/S00270/turn-green-light-for-taser-roll-out-to-red.htm
+title: Turn green light for taser roll-out to red
+date: 2009-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00270/turn-green-light-for-taser-roll-out-to-red.htm
 author: green-party
+permalink: /archive/2009/06/19/turn-green-light-for-taser-roll-out-to-red/index.html
+layout: layout.njk
 ---
 Turn green light for taser roll-out to red
 ==========================================

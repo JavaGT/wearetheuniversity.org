@@ -1,9 +1,12 @@
 ---
 slug: medical-students-access-to-scholarships-slashed
-title: "Medical students access to scholarships slashed"
-date: 2009-06-22
-source-url: https://www.scoop.co.nz/stories/PA0906/S00283/medical-students-access-to-scholarships-slashed.htm
+title: Medical students access to scholarships slashed
+date: 2009-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00283/medical-students-access-to-scholarships-slashed.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/22/medical-students-access-to-scholarships-slashed/index.html
+layout: layout.njk
 ---
 Medical students access to scholarships slashed
 ===============================================

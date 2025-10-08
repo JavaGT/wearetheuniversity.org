@@ -1,9 +1,13 @@
 ---
 slug: allow-aussie-travel-for-christmas-prime-minister
-title: "Allow Aussie Travel For Christmas, Prime Minister"
-date: 2021-11-23
-source-url: https://www.scoop.co.nz/stories/PA2111/S00244/allow-aussie-travel-for-christmas-prime-minister.htm
+title: Allow Aussie Travel For Christmas, Prime Minister
+date: 2021-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00244/allow-aussie-travel-for-christmas-prime-minister.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/23/allow-aussie-travel-for-christmas-prime-minister/index.html
+layout: layout.njk
 ---
 Allow Aussie Travel For Christmas, Prime Minister
 =================================================

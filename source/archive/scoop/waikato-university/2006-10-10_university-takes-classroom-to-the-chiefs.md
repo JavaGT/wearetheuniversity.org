@@ -1,9 +1,12 @@
 ---
 slug: university-takes-classroom-to-the-chiefs
-title: "University takes classroom to the Chiefs"
-date: 2006-10-10
-source-url: https://www.scoop.co.nz/stories/ED0610/S00038/university-takes-classroom-to-the-chiefs.htm
+title: University takes classroom to the Chiefs
+date: 2006-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00038/university-takes-classroom-to-the-chiefs.htm
 author: waikato-university
+permalink: /archive/2006/10/10/university-takes-classroom-to-the-chiefs/index.html
+layout: layout.njk
 ---
 University takes classroom to the Chiefs
 ========================================

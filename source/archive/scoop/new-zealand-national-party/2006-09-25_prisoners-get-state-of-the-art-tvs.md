@@ -1,9 +1,12 @@
 ---
 slug: prisoners-get-state-of-the-art-tvs
-title: "Prisoners get state-of-the-art TVs"
-date: 2006-09-25
-source-url: https://www.scoop.co.nz/stories/PA0609/S00521/prisoners-get-state-of-the-art-tvs.htm
+title: Prisoners get state-of-the-art TVs
+date: 2006-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00521/prisoners-get-state-of-the-art-tvs.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/25/prisoners-get-state-of-the-art-tvs/index.html
+layout: layout.njk
 ---
 Prisoners get state-of-the-art TVs
 ==================================

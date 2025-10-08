@@ -1,9 +1,12 @@
 ---
 slug: minister-must-go-for-fresh-start-in-education
-title: "Minister must go for fresh start in Education"
-date: 2012-12-19
-source-url: https://www.scoop.co.nz/stories/PA1212/S00362/minister-must-go-for-fresh-start-in-education.htm
+title: Minister must go for fresh start in Education
+date: 2012-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00362/minister-must-go-for-fresh-start-in-education.htm
 author: green-party
+permalink: /archive/2012/12/19/minister-must-go-for-fresh-start-in-education/index.html
+layout: layout.njk
 ---
 Minister must go for fresh start in Education
 =============================================

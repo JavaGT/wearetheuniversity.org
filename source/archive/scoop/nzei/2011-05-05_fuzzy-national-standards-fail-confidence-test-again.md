@@ -1,9 +1,13 @@
 ---
 slug: fuzzy-national-standards-fail-confidence-test-again
-title: "Fuzzy National Standards Fail Confidence Test Again"
-date: 2011-05-05
-source-url: https://www.scoop.co.nz/stories/PO1105/S00050/fuzzy-national-standards-fail-confidence-test-again.htm
+title: Fuzzy National Standards Fail Confidence Test Again
+date: 2011-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00050/fuzzy-national-standards-fail-confidence-test-again.htm
 author: nzei
+permalink: >-
+  /archive/2011/05/05/fuzzy-national-standards-fail-confidence-test-again/index.html
+layout: layout.njk
 ---
 Fuzzy National Standards Fail Confidence Test Again
 ===================================================

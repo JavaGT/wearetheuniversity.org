@@ -1,9 +1,11 @@
 ---
 slug: whats-the-score-mallard
-title: "What's The Score, Mallard?"
-date: 2003-09-10
+title: What's The Score, Mallard?
+date: 2003-09-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0309/S00191/whats-the-score-mallard.htm
 author: act-new-zealand
+permalink: /archive/2003/09/10/whats-the-score-mallard/index.html
+layout: layout.njk
 ---
 What's The Score, Mallard?
 ==========================

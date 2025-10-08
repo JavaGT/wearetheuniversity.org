@@ -1,9 +1,11 @@
 ---
 slug: ceismic-launches-website
-title: "CEISMIC launches website"
-date: 2011-10-27
+title: CEISMIC launches website
+date: 2011-10-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1110/S00679/ceismic-launches-website.htm
 author: university-of-canterbury
+permalink: /archive/2011/10/27/ceismic-launches-website/index.html
+layout: layout.njk
 ---
 CEISMIC launches website
 ========================

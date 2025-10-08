@@ -1,9 +1,12 @@
 ---
 slug: leader-of-the-oppositions-te-puna-speech
-title: "Leader Of The Opposition’s Te Puna Speech"
-date: 2020-06-14
-source-url: https://www.scoop.co.nz/stories/PA2006/S00118/leader-of-the-oppositions-te-puna-speech.htm
+title: Leader Of The Opposition’s Te Puna Speech
+date: 2020-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00118/leader-of-the-oppositions-te-puna-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/14/leader-of-the-oppositions-te-puna-speech/index.html
+layout: layout.njk
 ---
 Leader Of The Opposition’s Te Puna Speech
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: investor-confidence-drops-as-govt-adds-to-risk
-title: "Investor confidence drops as Govt adds to risk"
-date: 2019-02-11
-source-url: https://www.scoop.co.nz/stories/PA1902/S00078/investor-confidence-drops-as-govt-adds-to-risk.htm
+title: Investor confidence drops as Govt adds to risk
+date: 2019-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00078/investor-confidence-drops-as-govt-adds-to-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2019/02/11/investor-confidence-drops-as-govt-adds-to-risk/index.html
+layout: layout.njk
 ---
 Investor confidence drops as Govt adds to risk
 ==============================================

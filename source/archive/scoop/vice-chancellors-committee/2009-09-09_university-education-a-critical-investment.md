@@ -1,9 +1,12 @@
 ---
 slug: university-education-a-critical-investment
-title: "University Education A Critical Investment"
-date: 2009-09-09
-source-url: https://www.scoop.co.nz/stories/ED0909/S00030/university-education-a-critical-investment.htm
+title: University Education A Critical Investment
+date: 2009-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00030/university-education-a-critical-investment.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/09/09/university-education-a-critical-investment/index.html
+layout: layout.njk
 ---
 University Education A Critical Investment
 ==========================================

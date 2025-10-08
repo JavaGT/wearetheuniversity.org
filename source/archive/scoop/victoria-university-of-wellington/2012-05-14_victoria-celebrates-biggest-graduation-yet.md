@@ -1,9 +1,12 @@
 ---
 slug: victoria-celebrates-biggest-graduation-yet
-title: "Victoria celebrates biggest graduation yet"
-date: 2012-05-14
-source-url: https://www.scoop.co.nz/stories/ED1205/S00054/victoria-celebrates-biggest-graduation-yet.htm
+title: Victoria celebrates biggest graduation yet
+date: 2012-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00054/victoria-celebrates-biggest-graduation-yet.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/05/14/victoria-celebrates-biggest-graduation-yet/index.html
+layout: layout.njk
 ---
 Victoria celebrates biggest graduation yet
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: roof-collected-rainwater-fails-health-test
-title: "Roof-Collected Rainwater Fails Health Test"
-date: 2007-01-23
-source-url: https://www.scoop.co.nz/stories/GE0701/S00043/roof-collected-rainwater-fails-health-test.htm
+title: Roof-Collected Rainwater Fails Health Test
+date: 2007-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0701/S00043/roof-collected-rainwater-fails-health-test.htm
 author: massey-university
+permalink: /archive/2007/01/23/roof-collected-rainwater-fails-health-test/index.html
+layout: layout.njk
 ---
 Roof-Collected Rainwater Fails Health Test
 ==========================================

@@ -1,9 +1,11 @@
 ---
 slug: joyce-railroads-with-merger
-title: "Joyce railroads with merger"
-date: 2015-12-09
+title: Joyce railroads with merger
+date: 2015-12-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1512/S00123/joyce-railroads-with-merger.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/12/09/joyce-railroads-with-merger/index.html
+layout: layout.njk
 ---
 Joyce railroads with merger
 ===========================

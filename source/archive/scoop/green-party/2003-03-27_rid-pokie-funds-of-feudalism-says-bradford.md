@@ -1,9 +1,12 @@
 ---
 slug: rid-pokie-funds-of-feudalism-says-bradford
-title: "Rid pokie funds of feudalism, says Bradford"
-date: 2003-03-27
-source-url: https://www.scoop.co.nz/stories/PA0303/S00519/rid-pokie-funds-of-feudalism-says-bradford.htm
+title: Rid pokie funds of feudalism, says Bradford
+date: 2003-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00519/rid-pokie-funds-of-feudalism-says-bradford.htm
 author: green-party
+permalink: /archive/2003/03/27/rid-pokie-funds-of-feudalism-says-bradford/index.html
+layout: layout.njk
 ---
 Rid pokie funds of feudalism, says Bradford
 ===========================================

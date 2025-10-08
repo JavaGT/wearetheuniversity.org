@@ -1,9 +1,13 @@
 ---
 slug: act-welcomes-cross-party-support-for-partnership-schools
-title: "ACT welcomes cross-party support for Partnership Schools"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/PA1605/S00362/act-welcomes-cross-party-support-for-partnership-schools.htm
+title: ACT welcomes cross-party support for Partnership Schools
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00362/act-welcomes-cross-party-support-for-partnership-schools.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/05/19/act-welcomes-cross-party-support-for-partnership-schools/index.html
+layout: layout.njk
 ---
 ACT welcomes cross-party support for Partnership Schools
 ========================================================

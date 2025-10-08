@@ -1,9 +1,12 @@
 ---
 slug: small-earthquake-patterns-point-to-the-big-one
-title: "Small earthquake patterns point to the ‘big one’"
-date: 2003-08-13
-source-url: https://www.scoop.co.nz/stories/ED0308/S00042/small-earthquake-patterns-point-to-the-big-one.htm
+title: Small earthquake patterns point to the ‘big one’
+date: 2003-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00042/small-earthquake-patterns-point-to-the-big-one.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/08/13/small-earthquake-patterns-point-to-the-big-one/index.html
+layout: layout.njk
 ---
 Small earthquake patterns point to the ‘big one’
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: medical-mistakes-surge-as-system-under-funding-continues
-title: "Medical mistakes surge as system under-funding continues"
-date: 2015-12-07
-source-url: https://www.scoop.co.nz/stories/PA1512/S00143/medical-mistakes-surge-as-system-under-funding-continues.htm
+title: Medical mistakes surge as system under-funding continues
+date: 2015-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00143/medical-mistakes-surge-as-system-under-funding-continues.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/12/07/medical-mistakes-surge-as-system-under-funding-continues/index.html
+layout: layout.njk
 ---
 Medical mistakes surge as system under-funding continues
 ========================================================

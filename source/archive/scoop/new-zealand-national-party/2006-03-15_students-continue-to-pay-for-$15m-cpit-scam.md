@@ -1,9 +1,12 @@
 ---
 slug: students-continue-to-pay-for-$15m-cpit-scam
-title: "Students continue to pay for $15m CPIT scam"
-date: 2006-03-15
-source-url: https://www.scoop.co.nz/stories/PA0603/S00245/students-continue-to-pay-for-15m-cpit-scam.htm
+title: Students continue to pay for $15m CPIT scam
+date: 2006-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00245/students-continue-to-pay-for-15m-cpit-scam.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/15/students-continue-to-pay-for-/index.html
+layout: layout.njk
 ---
 Students continue to pay for $15m CPIT scam
 ===========================================

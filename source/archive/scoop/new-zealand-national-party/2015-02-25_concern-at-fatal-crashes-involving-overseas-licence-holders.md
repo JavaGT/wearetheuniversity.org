@@ -1,9 +1,13 @@
 ---
 slug: concern-at-fatal-crashes-involving-overseas-licence-holders
-title: "Concern at fatal crashes involving overseas licence holders"
-date: 2015-02-25
-source-url: https://www.scoop.co.nz/stories/PA1502/S00323/concern-at-fatal-crashes-involving-overseas-licence-holders.htm
+title: Concern at fatal crashes involving overseas licence holders
+date: 2015-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00323/concern-at-fatal-crashes-involving-overseas-licence-holders.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/02/25/concern-at-fatal-crashes-involving-overseas-licence-holders/index.html
+layout: layout.njk
 ---
 Concern at fatal crashes involving overseas licence holders
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: victims-of-sexual-offending-dont-benefit-from-long-sentence
-title: "Victims of Sexual Offending Don’t Benefit from Long Sentence"
-date: 2011-04-19
-source-url: https://www.scoop.co.nz/stories/ED1104/S00065/victims-of-sexual-offending-dont-benefit-from-long-sentence.htm
+title: Victims of Sexual Offending Don’t Benefit from Long Sentence
+date: 2011-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00065/victims-of-sexual-offending-dont-benefit-from-long-sentence.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/04/19/victims-of-sexual-offending-dont-benefit-from-long-sentence/index.html
+layout: layout.njk
 ---
 Victims of Sexual Offending Don’t Benefit from Long Sentence
 ============================================================

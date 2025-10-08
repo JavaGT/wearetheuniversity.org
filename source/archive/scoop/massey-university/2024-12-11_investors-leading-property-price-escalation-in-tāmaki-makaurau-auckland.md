@@ -1,9 +1,13 @@
 ---
 slug: investors-leading-property-price-escalation-in-tāmaki-makaurau-auckland
-title: "Investors Leading Property Price Escalation In Tāmaki Makaurau Auckland"
-date: 2024-12-11
-source-url: https://www.scoop.co.nz/stories/BU2412/S00203/investors-leading-property-price-escalation-in-tamaki-makaurau-auckland.htm
+title: Investors Leading Property Price Escalation In Tāmaki Makaurau Auckland
+date: 2024-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2412/S00203/investors-leading-property-price-escalation-in-tamaki-makaurau-auckland.htm
 author: massey-university
+permalink: >-
+  /archive/2024/12/11/investors-leading-property-price-escalation-in-t/index.html
+layout: layout.njk
 ---
 Investors Leading Property Price Escalation In Tāmaki Makaurau Auckland
 =======================================================================
@@ -22,14 +26,7 @@ Using the relatively new field of behavioural economics, Dr White identfied that
 “Behavioural economics proposes that when making decisions, we sometimes take ‘shortcuts’ in our analysis, such as relying on biases and heuristics rather than objective analysis, and this can lead to under or over pricing. There was strong evidence for biases and heuristics in investor decision making in Auckland and these all had an effect of an upside bias in pricing and thereby contributed to house price escalation.”
 
 > Dr White says the result was unsurprising in that it matched the widely-held view that investors were causing house prices to escalate. However, there was another surprising finding.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “My research uncovered that there was a ‘social good’ aspect to investor motivations. Many participants reflected on the important role of investors in providing homes of good quality and in providing certainty of lease term for occupiers. This contrasted with the image sometimes portrayed of housing investors having a ‘profits over people’ attitude.”
+“My research uncovered that there was a ‘social good’ aspect to investor motivations. Many participants reflected on the important role of investors in providing homes of good quality and in providing certainty of lease term for occupiers. This contrasted with the image sometimes portrayed of housing investors having a ‘profits over people’ attitude.”
 
 As for advice for current buyers, Dr White recommends buyers be aware that house price escalation is cyclical and be cautious in 'getting on the bandwagon'.
 

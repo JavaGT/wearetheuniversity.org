@@ -1,9 +1,12 @@
 ---
 slug: innovative-new-methods-for-assessing-concussion
-title: "Innovative New Methods for Assessing Concussion"
-date: 2005-10-10
-source-url: https://www.scoop.co.nz/stories/GE0510/S00021/innovative-new-methods-for-assessing-concussion.htm
+title: Innovative New Methods for Assessing Concussion
+date: 2005-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0510/S00021/innovative-new-methods-for-assessing-concussion.htm
 author: university-of-otago
+permalink: /archive/2005/10/10/innovative-new-methods-for-assessing-concussion/index.html
+layout: layout.njk
 ---
 Innovative New Methods for Assessing Concussion
 ===============================================

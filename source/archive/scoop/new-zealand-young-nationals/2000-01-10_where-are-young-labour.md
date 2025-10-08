@@ -1,9 +1,11 @@
 ---
 slug: where-are-young-labour
-title: "Where Are Young Labour?"
-date: 2000-01-10
+title: Where Are Young Labour?
+date: 2000-01-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0001/S00004/where-are-young-labour.htm
 author: new-zealand-young-nationals
+permalink: /archive/2000/01/10/where-are-young-labour/index.html
+layout: layout.njk
 ---
 Where Are Young Labour?
 =======================

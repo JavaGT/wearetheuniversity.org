@@ -1,9 +1,12 @@
 ---
 slug: miracle-material-under-the-microscope
-title: "Miracle material under the microscope"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/SC1210/S00024/miracle-material-under-the-microscope.htm
+title: Miracle material under the microscope
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00024/miracle-material-under-the-microscope.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/10/11/miracle-material-under-the-microscope/index.html
+layout: layout.njk
 ---
 Miracle material under the microscope
 =====================================

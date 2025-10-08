@@ -1,9 +1,13 @@
 ---
 slug: childrens-social-health-monitor-cause-for-concern
-title: "Children’s Social Health Monitor cause for concern"
-date: 2011-08-29
-source-url: https://www.scoop.co.nz/stories/PA1108/S00550/childrens-social-health-monitor-cause-for-concern.htm
+title: Children’s Social Health Monitor cause for concern
+date: 2011-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00550/childrens-social-health-monitor-cause-for-concern.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/29/childrens-social-health-monitor-cause-for-concern/index.html
+layout: layout.njk
 ---
 Children’s Social Health Monitor cause for concern
 ==================================================

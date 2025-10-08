@@ -1,9 +1,12 @@
 ---
 slug: 80000-auckland-patients-not-seen-on-time
-title: "80,000 Auckland patients not seen on time"
-date: 2013-06-11
-source-url: https://www.scoop.co.nz/stories/PA1306/S00175/80000-auckland-patients-not-seen-on-time.htm
+title: 80,000 Auckland patients not seen on time
+date: 2013-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00175/80000-auckland-patients-not-seen-on-time.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/11/80000-auckland-patients-not-seen-on-time/index.html
+layout: layout.njk
 ---
 80,000 Auckland patients not seen on time
 =========================================

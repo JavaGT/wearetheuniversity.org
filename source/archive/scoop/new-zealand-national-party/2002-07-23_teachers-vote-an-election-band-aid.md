@@ -1,9 +1,12 @@
 ---
 slug: teachers-vote-an-election-band-aid
-title: "Teachers' Vote An Election Band-Aid"
-date: 2002-07-23
-source-url: https://www.scoop.co.nz/stories/PA0207/S00635/teachers-vote-an-election-band-aid.htm
+title: Teachers' Vote An Election Band-Aid
+date: 2002-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00635/teachers-vote-an-election-band-aid.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/23/teachers-vote-an-election-band-aid/index.html
+layout: layout.njk
 ---
 Teachers' Vote An Election Band-Aid
 ===================================

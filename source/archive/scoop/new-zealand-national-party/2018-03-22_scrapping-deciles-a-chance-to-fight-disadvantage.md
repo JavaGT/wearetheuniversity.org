@@ -1,9 +1,13 @@
 ---
 slug: scrapping-deciles-a-chance-to-fight-disadvantage
-title: "Scrapping deciles a chance to fight disadvantage"
-date: 2018-03-22
-source-url: https://www.scoop.co.nz/stories/PA1803/S00243/scrapping-deciles-a-chance-to-fight-disadvantage.htm
+title: Scrapping deciles a chance to fight disadvantage
+date: 2018-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00243/scrapping-deciles-a-chance-to-fight-disadvantage.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/03/22/scrapping-deciles-a-chance-to-fight-disadvantage/index.html
+layout: layout.njk
 ---
 Scrapping deciles a chance to fight disadvantage
 ================================================

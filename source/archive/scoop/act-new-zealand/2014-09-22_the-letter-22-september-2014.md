@@ -1,9 +1,11 @@
 ---
 slug: the-letter-22-september-2014
-title: "The Letter - 22 September 2014"
-date: 2014-09-22
+title: The Letter - 22 September 2014
+date: 2014-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1409/S00481/the-letter-22-september-2014.htm
 author: act-new-zealand
+permalink: /archive/2014/09/22/the-letter-22-september-2014/index.html
+layout: layout.njk
 ---
 The Letter - 22 September 2014
 ==============================

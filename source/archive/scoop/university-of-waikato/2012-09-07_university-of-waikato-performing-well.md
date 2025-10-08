@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-performing-well
-title: "University of Waikato performing well"
-date: 2012-09-07
-source-url: https://www.scoop.co.nz/stories/ED1209/S00046/university-of-waikato-performing-well.htm
+title: University of Waikato performing well
+date: 2012-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00046/university-of-waikato-performing-well.htm
 author: university-of-waikato
+permalink: /archive/2012/09/07/university-of-waikato-performing-well/index.html
+layout: layout.njk
 ---
 University of Waikato performing well
 =====================================

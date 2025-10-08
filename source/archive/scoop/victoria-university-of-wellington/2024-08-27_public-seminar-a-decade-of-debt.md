@@ -1,9 +1,12 @@
 ---
 slug: public-seminar-a-decade-of-debt
-title: "Public Seminar: A Decade Of Debt"
-date: 2024-08-27
-source-url: https://www.scoop.co.nz/stories/ED2408/S00057/public-seminar-a-decade-of-debt.htm
+title: 'Public Seminar: A Decade Of Debt'
+date: 2024-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00057/public-seminar-a-decade-of-debt.htm
 author: victoria-university-of-wellington
+permalink: /archive/2024/08/27/public-seminar-a-decade-of-debt/index.html
+layout: layout.njk
 ---
 Public Seminar: A Decade Of Debt
 ================================

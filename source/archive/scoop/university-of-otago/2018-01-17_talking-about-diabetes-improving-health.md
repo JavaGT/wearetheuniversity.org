@@ -1,9 +1,12 @@
 ---
 slug: talking-about-diabetes-improving-health
-title: "Talking about diabetes – improving health"
-date: 2018-01-17
-source-url: https://www.scoop.co.nz/stories/GE1801/S00025/talking-about-diabetes-improving-health.htm
+title: Talking about diabetes – improving health
+date: 2018-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1801/S00025/talking-about-diabetes-improving-health.htm
 author: university-of-otago
+permalink: /archive/2018/01/17/talking-about-diabetes-improving-health/index.html
+layout: layout.njk
 ---
 Talking about diabetes – improving health
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: police-vetting-measures-questioned
-title: "Police Vetting Measures Questioned"
-date: 2008-09-10
-source-url: https://www.scoop.co.nz/stories/ED0809/S00026/police-vetting-measures-questioned.htm
+title: Police Vetting Measures Questioned
+date: 2008-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00026/police-vetting-measures-questioned.htm
 author: nzei
+permalink: /archive/2008/09/10/police-vetting-measures-questioned/index.html
+layout: layout.njk
 ---
 Police Vetting Measures Questioned
 ==================================

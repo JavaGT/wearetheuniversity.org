@@ -1,9 +1,12 @@
 ---
 slug: pms-hands-off-approach-on-quarries-sickening
-title: "PM’S Hands-Off Approach on Quarries Sickening"
-date: 2015-06-09
-source-url: https://www.scoop.co.nz/stories/PA1506/S00132/pms-hands-off-approach-on-quarries-sickening.htm
+title: PM’S Hands-Off Approach on Quarries Sickening
+date: 2015-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00132/pms-hands-off-approach-on-quarries-sickening.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/09/pms-hands-off-approach-on-quarries-sickening/index.html
+layout: layout.njk
 ---
 PM’S Hands-Off Approach on Quarries Sickening
 =============================================

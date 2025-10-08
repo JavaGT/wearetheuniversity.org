@@ -1,9 +1,13 @@
 ---
 slug: health-promotion-and-policy-research-unit-launched
-title: "Health Promotion and Policy Research Unit launched"
-date: 2007-11-01
-source-url: https://www.scoop.co.nz/stories/GE0711/S00007/health-promotion-and-policy-research-unit-launched.htm
+title: Health Promotion and Policy Research Unit launched
+date: 2007-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0711/S00007/health-promotion-and-policy-research-unit-launched.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/11/01/health-promotion-and-policy-research-unit-launched/index.html
+layout: layout.njk
 ---
 Health Promotion and Policy Research Unit launched
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: otago-study-reveals-persistent-deprivation-for-nz-children
-title: "Otago study reveals persistent deprivation for NZ children"
-date: 2012-09-21
-source-url: https://www.scoop.co.nz/stories/ED1209/S00157/otago-study-reveals-persistent-deprivation-for-nz-children.htm
+title: Otago study reveals persistent deprivation for NZ children
+date: 2012-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00157/otago-study-reveals-persistent-deprivation-for-nz-children.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/09/21/otago-study-reveals-persistent-deprivation-for-nz-children/index.html
+layout: layout.njk
 ---
 Otago study reveals persistent deprivation for NZ children
 ==========================================================

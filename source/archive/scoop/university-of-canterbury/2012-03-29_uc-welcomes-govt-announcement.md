@@ -1,9 +1,12 @@
 ---
 slug: uc-welcomes-govt-announcement
-title: "UC Welcomes Govt. Announcement"
-date: 2012-03-29
-source-url: https://www.scoop.co.nz/stories/ED1203/S00154/uc-welcomes-govt-announcement.htm
+title: UC Welcomes Govt. Announcement
+date: 2012-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00154/uc-welcomes-govt-announcement.htm
 author: university-of-canterbury
+permalink: /archive/2012/03/29/uc-welcomes-govt-announcement/index.html
+layout: layout.njk
 ---
 UC Welcomes Govt. Announcement
 ==============================

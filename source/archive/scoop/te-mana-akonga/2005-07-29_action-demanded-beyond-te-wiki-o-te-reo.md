@@ -1,9 +1,12 @@
 ---
 slug: action-demanded-beyond-te-wiki-o-te-reo
-title: "Action demanded beyond Te Wiki o te Reo"
-date: 2005-07-29
-source-url: https://www.scoop.co.nz/stories/ED0507/S00131/action-demanded-beyond-te-wiki-o-te-reo.htm
+title: Action demanded beyond Te Wiki o te Reo
+date: 2005-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00131/action-demanded-beyond-te-wiki-o-te-reo.htm
 author: te-mana-akonga
+permalink: /archive/2005/07/29/action-demanded-beyond-te-wiki-o-te-reo/index.html
+layout: layout.njk
 ---
 Action demanded beyond Te Wiki o te Reo
 =======================================

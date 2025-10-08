@@ -1,9 +1,13 @@
 ---
 slug: nationals-flagship-education-policy-dead-in-the-water
-title: "National’s flagship education policy dead in the water"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/PA1408/S00333/nationals-flagship-education-policy-dead-in-the-water.htm
+title: National’s flagship education policy dead in the water
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00333/nationals-flagship-education-policy-dead-in-the-water.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/21/nationals-flagship-education-policy-dead-in-the-water/index.html
+layout: layout.njk
 ---
 National’s flagship education policy dead in the water
 ======================================================

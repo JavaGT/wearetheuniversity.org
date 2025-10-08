@@ -1,9 +1,12 @@
 ---
 slug: tree-mount-design-stands-tall-at-dyson-awards
-title: "Tree Mount design stands tall at Dyson Awards"
-date: 2015-08-05
-source-url: https://www.scoop.co.nz/stories/ED1508/S00009/tree-mount-design-stands-tall-at-dyson-awards.htm
+title: Tree Mount design stands tall at Dyson Awards
+date: 2015-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00009/tree-mount-design-stands-tall-at-dyson-awards.htm
 author: massey-university
+permalink: /archive/2015/08/05/tree-mount-design-stands-tall-at-dyson-awards/index.html
+layout: layout.njk
 ---
 Tree Mount design stands tall at Dyson Awards
 =============================================

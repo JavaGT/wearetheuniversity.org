@@ -1,9 +1,13 @@
 ---
 slug: hope-commissioners-will-understand-central-otago-needs
-title: "Hope commissioners will understand Central Otago needs"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/PA1506/S00282/hope-commissioners-will-understand-central-otago-needs.htm
+title: Hope commissioners will understand Central Otago needs
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00282/hope-commissioners-will-understand-central-otago-needs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/06/17/hope-commissioners-will-understand-central-otago-needs/index.html
+layout: layout.njk
 ---
 Hope commissioners will understand Central Otago needs
 ======================================================

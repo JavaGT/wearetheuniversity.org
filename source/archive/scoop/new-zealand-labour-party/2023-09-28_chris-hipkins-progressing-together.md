@@ -1,9 +1,12 @@
 ---
 slug: chris-hipkins-progressing-together
-title: "Chris Hipkins: Progressing Together"
-date: 2023-09-28
-source-url: https://www.scoop.co.nz/stories/PA2309/S00154/chris-hipkins-progressing-together.htm
+title: 'Chris Hipkins: Progressing Together'
+date: 2023-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00154/chris-hipkins-progressing-together.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/09/28/chris-hipkins-progressing-together/index.html
+layout: layout.njk
 ---
 Chris Hipkins: Progressing Together
 ===================================

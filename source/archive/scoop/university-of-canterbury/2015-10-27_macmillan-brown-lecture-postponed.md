@@ -1,9 +1,12 @@
 ---
 slug: macmillan-brown-lecture-postponed
-title: "Macmillan Brown Lecture postponed"
-date: 2015-10-27
-source-url: https://www.scoop.co.nz/stories/ED1510/S00127/macmillan-brown-lecture-postponed.htm
+title: Macmillan Brown Lecture postponed
+date: 2015-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00127/macmillan-brown-lecture-postponed.htm
 author: university-of-canterbury
+permalink: /archive/2015/10/27/macmillan-brown-lecture-postponed/index.html
+layout: layout.njk
 ---
 Macmillan Brown Lecture postponed
 =================================

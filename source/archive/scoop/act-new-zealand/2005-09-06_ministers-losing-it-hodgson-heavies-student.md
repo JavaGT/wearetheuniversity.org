@@ -1,9 +1,12 @@
 ---
 slug: ministers-losing-it-hodgson-heavies-student
-title: "Ministers losing it  - Hodgson heavies student"
-date: 2005-09-06
-source-url: https://www.scoop.co.nz/stories/PA0509/S00164/ministers-losing-it-hodgson-heavies-student.htm
+title: Ministers losing it  - Hodgson heavies student
+date: 2005-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00164/ministers-losing-it-hodgson-heavies-student.htm
 author: act-new-zealand
+permalink: /archive/2005/09/06/ministers-losing-it-hodgson-heavies-student/index.html
+layout: layout.njk
 ---
 Ministers losing it - Hodgson heavies student
 =============================================

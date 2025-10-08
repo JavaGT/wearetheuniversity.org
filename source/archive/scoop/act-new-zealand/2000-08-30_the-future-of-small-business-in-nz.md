@@ -1,9 +1,12 @@
 ---
 slug: the-future-of-small-business-in-nz
-title: "The Future Of Small Business In NZ"
-date: 2000-08-30
-source-url: https://www.scoop.co.nz/stories/PA0008/S00572/the-future-of-small-business-in-nz.htm
+title: The Future Of Small Business In NZ
+date: 2000-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00572/the-future-of-small-business-in-nz.htm
 author: act-new-zealand
+permalink: /archive/2000/08/30/the-future-of-small-business-in-nz/index.html
+layout: layout.njk
 ---
 The Future Of Small Business In NZ
 ==================================

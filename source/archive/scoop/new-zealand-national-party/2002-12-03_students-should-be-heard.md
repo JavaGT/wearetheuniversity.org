@@ -1,9 +1,11 @@
 ---
 slug: students-should-be-heard
-title: "Students should be heard"
-date: 2002-12-03
+title: Students should be heard
+date: 2002-12-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0212/S00083/students-should-be-heard.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/03/students-should-be-heard/index.html
+layout: layout.njk
 ---
 Students should be heard
 ========================

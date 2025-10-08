@@ -1,9 +1,12 @@
 ---
 slug: tino-rangatiratanga-whats-it-got-to-do-with-pākehā
-title: "Tino Rangatiratanga: What’s it got to do with Pākehā?"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/PO1404/S00148/tino-rangatiratanga-whats-it-got-to-do-with-pakeha.htm
+title: 'Tino Rangatiratanga: What’s it got to do with Pākehā?'
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00148/tino-rangatiratanga-whats-it-got-to-do-with-pakeha.htm
 author: fightback
+permalink: /archive/2014/04/09/tino-rangatiratanga-whats-it-got-to-do-with-p/index.html
+layout: layout.njk
 ---
 Tino Rangatiratanga: What’s it got to do with Pākehā?
 =====================================================

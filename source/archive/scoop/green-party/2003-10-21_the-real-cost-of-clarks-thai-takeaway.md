@@ -1,9 +1,12 @@
 ---
 slug: the-real-cost-of-clarks-thai-takeaway
-title: "The real cost of Clark's Thai takeaway"
-date: 2003-10-21
-source-url: https://www.scoop.co.nz/stories/PA0310/S00469/the-real-cost-of-clarks-thai-takeaway.htm
+title: The real cost of Clark's Thai takeaway
+date: 2003-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00469/the-real-cost-of-clarks-thai-takeaway.htm
 author: green-party
+permalink: /archive/2003/10/21/the-real-cost-of-clarks-thai-takeaway/index.html
+layout: layout.njk
 ---
 The real cost of Clark's Thai takeaway
 ======================================

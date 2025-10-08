@@ -1,9 +1,13 @@
 ---
 slug: waikato-student-wins-freyberg-scholarship-to-study-defence
-title: "Waikato student wins Freyberg scholarship to study defence"
-date: 2011-02-09
-source-url: https://www.scoop.co.nz/stories/ED1102/S00028/waikato-student-wins-freyberg-scholarship-to-study-defence.htm
+title: Waikato student wins Freyberg scholarship to study defence
+date: 2011-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00028/waikato-student-wins-freyberg-scholarship-to-study-defence.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/02/09/waikato-student-wins-freyberg-scholarship-to-study-defence/index.html
+layout: layout.njk
 ---
 Waikato student wins Freyberg scholarship to study defence
 ==========================================================

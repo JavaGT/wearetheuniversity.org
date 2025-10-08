@@ -1,9 +1,13 @@
 ---
 slug: waikato-uni-forms-links-with-top-chinese-universities
-title: "Waikato Uni Forms links with top Chinese universities"
-date: 2010-11-24
-source-url: https://www.scoop.co.nz/stories/ED1011/S00097/waikato-uni-forms-links-with-top-chinese-universities.htm
+title: Waikato Uni Forms links with top Chinese universities
+date: 2010-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00097/waikato-uni-forms-links-with-top-chinese-universities.htm
 author: waikato-university
+permalink: >-
+  /archive/2010/11/24/waikato-uni-forms-links-with-top-chinese-universities/index.html
+layout: layout.njk
 ---
 Waikato Uni Forms links with top Chinese universities
 =====================================================

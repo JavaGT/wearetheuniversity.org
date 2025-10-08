@@ -1,9 +1,12 @@
 ---
 slug: other-things-the-govt-should-cancel
-title: "Other Things The Govt Should Cancel"
-date: 2021-10-03
-source-url: https://www.scoop.co.nz/stories/PA2110/S00020/other-things-the-govt-should-cancel.htm
+title: Other Things The Govt Should Cancel
+date: 2021-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00020/other-things-the-govt-should-cancel.htm
 author: act-new-zealand
+permalink: /archive/2021/10/03/other-things-the-govt-should-cancel/index.html
+layout: layout.njk
 ---
 Other Things The Govt Should Cancel
 ===================================

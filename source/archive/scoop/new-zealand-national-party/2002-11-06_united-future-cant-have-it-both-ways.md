@@ -1,9 +1,12 @@
 ---
 slug: united-future-cant-have-it-both-ways
-title: "United Future can’t have it both ways"
-date: 2002-11-06
-source-url: https://www.scoop.co.nz/stories/PA0211/S00090/united-future-cant-have-it-both-ways.htm
+title: United Future can’t have it both ways
+date: 2002-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00090/united-future-cant-have-it-both-ways.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/06/united-future-cant-have-it-both-ways/index.html
+layout: layout.njk
 ---
 United Future can’t have it both ways
 =====================================

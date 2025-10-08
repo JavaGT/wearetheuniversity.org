@@ -1,9 +1,12 @@
 ---
 slug: not-there-yet-for-primary-industry-education
-title: "‘Not there yet’ for primary industry education"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/ED1412/S00022/not-there-yet-for-primary-industry-education.htm
+title: ‘Not there yet’ for primary industry education
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00022/not-there-yet-for-primary-industry-education.htm
 author: lincoln-university
+permalink: /archive/2014/12/03/not-there-yet-for-primary-industry-education/index.html
+layout: layout.njk
 ---
 ‘Not there yet’ for primary industry education
 ==============================================

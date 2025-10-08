@@ -1,9 +1,12 @@
 ---
 slug: a-mans-best-friend-in-antarctica
-title: "A Man’s Best Friend in Antarctica"
-date: 2014-10-02
-source-url: https://www.scoop.co.nz/stories/ED1410/S00018/a-mans-best-friend-in-antarctica.htm
+title: A Man’s Best Friend in Antarctica
+date: 2014-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00018/a-mans-best-friend-in-antarctica.htm
 author: university-of-canterbury
+permalink: /archive/2014/10/02/a-mans-best-friend-in-antarctica/index.html
+layout: layout.njk
 ---
 A Man’s Best Friend in Antarctica
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: mp-congratulates-the-riddet-institute
-title: "MP congratulates The Riddet Institute"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/PA1505/S00118/mp-congratulates-the-riddet-institute.htm
+title: MP congratulates The Riddet Institute
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00118/mp-congratulates-the-riddet-institute.htm
 author: new-zealand-national-party
+permalink: /archive/2015/05/07/mp-congratulates-the-riddet-institute/index.html
+layout: layout.njk
 ---
 MP congratulates The Riddet Institute
 =====================================

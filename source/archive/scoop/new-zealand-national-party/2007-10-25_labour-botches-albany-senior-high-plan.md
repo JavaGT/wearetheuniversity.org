@@ -1,9 +1,12 @@
 ---
 slug: labour-botches-albany-senior-high-plan
-title: "Labour botches Albany Senior High plan"
-date: 2007-10-25
-source-url: https://www.scoop.co.nz/stories/PA0710/S00471/labour-botches-albany-senior-high-plan.htm
+title: Labour botches Albany Senior High plan
+date: 2007-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00471/labour-botches-albany-senior-high-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/25/labour-botches-albany-senior-high-plan/index.html
+layout: layout.njk
 ---
 Labour botches Albany Senior High plan
 ======================================

@@ -1,9 +1,16 @@
 ---
-slug: university-of-auckland-senate-rightly-rejects-flawed-academic-freedom-policy-after-lengthy-four-year-development-process
-title: "University of Auckland Senate rightly rejects flawed academic freedom policy after lengthy four-year development process"
-date: 2024-10-05
-source-url: https://www.scoop.co.nz/stories/ED2410/S00010/university-of-auckland-senate-rightly-rejects-flawed-academic-freedom-policy-after-lengthy-four-year-development-process.htm
+slug: >-
+  university-of-auckland-senate-rightly-rejects-flawed-academic-freedom-policy-after-lengthy-four-year-development-process
+title: >-
+  University of Auckland Senate rightly rejects flawed academic freedom policy
+  after lengthy four-year development process
+date: 2024-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00010/university-of-auckland-senate-rightly-rejects-flawed-academic-freedom-policy-after-lengthy-four-year-development-process.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/10/05/university-of-auckland-senate-rightly-rejects-flawed-academic-freedom-policy-after-lengthy-four-year-development-process/index.html
+layout: layout.njk
 ---
 University of Auckland Senate rightly rejects flawed academic freedom policy after lengthy four-year development process
 ========================================================================================================================

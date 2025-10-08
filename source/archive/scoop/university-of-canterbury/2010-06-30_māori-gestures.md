@@ -1,9 +1,11 @@
 ---
 slug: māori-gestures
-title: "Māori Gestures"
-date: 2010-06-30
+title: Māori Gestures
+date: 2010-06-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1006/S00112/maori-gestures.htm
 author: university-of-canterbury
+permalink: /archive/2010/06/30/m/index.html
+layout: layout.njk
 ---
 Māori Gestures
 ==============

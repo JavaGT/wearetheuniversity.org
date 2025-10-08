@@ -1,9 +1,12 @@
 ---
 slug: annual-event-garden-party-tomorrow
-title: "Annual event ‘Garden Party’ tomorrow"
-date: 2004-10-07
-source-url: https://www.scoop.co.nz/stories/ED0410/S00029/annual-event-garden-party-tomorrow.htm
+title: Annual event ‘Garden Party’ tomorrow
+date: 2004-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00029/annual-event-garden-party-tomorrow.htm
 author: lincoln-university-students-association
+permalink: /archive/2004/10/07/annual-event-garden-party-tomorrow/index.html
+layout: layout.njk
 ---
 Annual event ‘Garden Party’ tomorrow
 ====================================

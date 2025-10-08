@@ -1,9 +1,12 @@
 ---
 slug: protest-to-be-held-against-vuw-repression
-title: "Protest to be held against VUW repression:"
-date: 2009-10-21
-source-url: https://www.scoop.co.nz/stories/PO0910/S00308/protest-to-be-held-against-vuw-repression.htm
+title: 'Protest to be held against VUW repression:'
+date: 2009-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00308/protest-to-be-held-against-vuw-repression.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2009/10/21/protest-to-be-held-against-vuw-repression/index.html
+layout: layout.njk
 ---
 Protest to be held against VUW repression:
 ==========================================

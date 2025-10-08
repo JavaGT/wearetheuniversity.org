@@ -1,9 +1,12 @@
 ---
 slug: government-fails-to-sort-out-mess
-title: "Government fails to sort out mess"
-date: 2010-08-31
-source-url: https://www.scoop.co.nz/stories/PA1008/S00491/government-fails-to-sort-out-mess.htm
+title: Government fails to sort out mess
+date: 2010-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00491/government-fails-to-sort-out-mess.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/31/government-fails-to-sort-out-mess/index.html
+layout: layout.njk
 ---
 Government fails to sort out mess
 =================================

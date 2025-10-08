@@ -1,9 +1,12 @@
 ---
 slug: scholarships-make-phd-possible
-title: "Scholarships make PhD possible"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/ED1407/S00093/scholarships-make-phd-possible.htm
+title: Scholarships make PhD possible
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00093/scholarships-make-phd-possible.htm
 author: university-of-waikato
+permalink: /archive/2014/07/21/scholarships-make-phd-possible/index.html
+layout: layout.njk
 ---
 Scholarships make PhD possible
 ==============================

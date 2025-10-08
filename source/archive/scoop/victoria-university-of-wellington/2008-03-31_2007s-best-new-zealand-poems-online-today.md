@@ -1,9 +1,12 @@
 ---
 slug: 2007s-best-new-zealand-poems-online-today
-title: "2007’s Best New Zealand Poems online today"
-date: 2008-03-31
-source-url: https://www.scoop.co.nz/stories/CU0803/S00270/2007s-best-new-zealand-poems-online-today.htm
+title: 2007’s Best New Zealand Poems online today
+date: 2008-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0803/S00270/2007s-best-new-zealand-poems-online-today.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/03/31/2007s-best-new-zealand-poems-online-today/index.html
+layout: layout.njk
 ---
 2007’s Best New Zealand Poems online today
 ==========================================

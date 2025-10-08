@@ -1,9 +1,12 @@
 ---
 slug: employing-migrant-workers-in-the-primary-sector
-title: "Employing migrant workers in the primary sector"
-date: 2013-08-23
-source-url: https://www.scoop.co.nz/stories/ED1308/S00115/employing-migrant-workers-in-the-primary-sector.htm
+title: Employing migrant workers in the primary sector
+date: 2013-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00115/employing-migrant-workers-in-the-primary-sector.htm
 author: lincoln-university
+permalink: /archive/2013/08/23/employing-migrant-workers-in-the-primary-sector/index.html
+layout: layout.njk
 ---
 Employing migrant workers in the primary sector
 ===============================================

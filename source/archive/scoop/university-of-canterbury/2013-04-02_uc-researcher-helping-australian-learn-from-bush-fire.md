@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-helping-australian-learn-from-bush-fire
-title: "UC Researcher Helping Australian Learn From Bush Fire"
-date: 2013-04-02
-source-url: https://www.scoop.co.nz/stories/ED1304/S00001/uc-researcher-helping-australian-learn-from-bush-fire.htm
+title: UC Researcher Helping Australian Learn From Bush Fire
+date: 2013-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00001/uc-researcher-helping-australian-learn-from-bush-fire.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/02/uc-researcher-helping-australian-learn-from-bush-fire/index.html
+layout: layout.njk
 ---
 UC Researcher Helping Australian Learn From Bush Fire
 =====================================================

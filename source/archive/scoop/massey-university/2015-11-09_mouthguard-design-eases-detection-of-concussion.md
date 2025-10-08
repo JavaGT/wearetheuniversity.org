@@ -1,9 +1,12 @@
 ---
 slug: mouthguard-design-eases-detection-of-concussion
-title: "Mouthguard design eases detection of concussion"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/SC1511/S00027/mouthguard-design-eases-detection-of-concussion.htm
+title: Mouthguard design eases detection of concussion
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00027/mouthguard-design-eases-detection-of-concussion.htm
 author: massey-university
+permalink: /archive/2015/11/09/mouthguard-design-eases-detection-of-concussion/index.html
+layout: layout.njk
 ---
 Mouthguard design eases detection of concussion
 ===============================================

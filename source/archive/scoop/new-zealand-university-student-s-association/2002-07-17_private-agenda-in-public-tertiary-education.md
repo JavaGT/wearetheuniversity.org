@@ -1,9 +1,12 @@
 ---
 slug: private-agenda-in-public-tertiary-education
-title: "Private Agenda in Public Tertiary Education"
-date: 2002-07-17
-source-url: https://www.scoop.co.nz/stories/ED0207/S00037/private-agenda-in-public-tertiary-education.htm
+title: Private Agenda in Public Tertiary Education
+date: 2002-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00037/private-agenda-in-public-tertiary-education.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/17/private-agenda-in-public-tertiary-education/index.html
+layout: layout.njk
 ---
 Private Agenda in Public Tertiary Education
 ===========================================

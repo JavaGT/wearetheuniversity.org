@@ -1,9 +1,12 @@
 ---
 slug: waikato-meeting-on-rotting-homes
-title: "Waikato meeting on rotting homes"
-date: 2002-10-11
-source-url: https://www.scoop.co.nz/stories/PA0210/S00221/waikato-meeting-on-rotting-homes.htm
+title: Waikato meeting on rotting homes
+date: 2002-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00221/waikato-meeting-on-rotting-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/11/waikato-meeting-on-rotting-homes/index.html
+layout: layout.njk
 ---
 Waikato meeting on rotting homes
 ================================

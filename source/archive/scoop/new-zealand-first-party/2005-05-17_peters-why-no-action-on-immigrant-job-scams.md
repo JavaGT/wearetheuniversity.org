@@ -1,9 +1,12 @@
 ---
 slug: peters-why-no-action-on-immigrant-job-scams
-title: "Peters: Why No Action On Immigrant Job Scams?"
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/PA0505/S00389/peters-why-no-action-on-immigrant-job-scams.htm
+title: 'Peters: Why No Action On Immigrant Job Scams?'
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00389/peters-why-no-action-on-immigrant-job-scams.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/17/peters-why-no-action-on-immigrant-job-scams/index.html
+layout: layout.njk
 ---
 Peters: Why No Action On Immigrant Job Scams?
 =============================================

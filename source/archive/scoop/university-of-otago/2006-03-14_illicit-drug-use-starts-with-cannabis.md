@@ -1,9 +1,12 @@
 ---
 slug: illicit-drug-use-starts-with-cannabis
-title: "Illicit Drug Use Starts With Cannabis"
-date: 2006-03-14
-source-url: https://www.scoop.co.nz/stories/GE0603/S00045/illicit-drug-use-starts-with-cannabis.htm
+title: Illicit Drug Use Starts With Cannabis
+date: 2006-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0603/S00045/illicit-drug-use-starts-with-cannabis.htm
 author: university-of-otago
+permalink: /archive/2006/03/14/illicit-drug-use-starts-with-cannabis/index.html
+layout: layout.njk
 ---
 Illicit Drug Use Starts With Cannabis
 =====================================

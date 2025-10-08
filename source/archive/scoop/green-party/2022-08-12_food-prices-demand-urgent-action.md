@@ -1,9 +1,12 @@
 ---
 slug: food-prices-demand-urgent-action
-title: "Food Prices Demand Urgent Action"
-date: 2022-08-12
-source-url: https://www.scoop.co.nz/stories/PA2208/S00126/food-prices-demand-urgent-action.htm
+title: Food Prices Demand Urgent Action
+date: 2022-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00126/food-prices-demand-urgent-action.htm
 author: green-party
+permalink: /archive/2022/08/12/food-prices-demand-urgent-action/index.html
+layout: layout.njk
 ---
 Food Prices Demand Urgent Action
 ================================

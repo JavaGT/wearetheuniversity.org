@@ -1,9 +1,13 @@
 ---
 slug: prime-minister-announces-new-child-health-measures
-title: "Prime Minister announces new child health measures"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/PA0508/S00586/prime-minister-announces-new-child-health-measures.htm
+title: Prime Minister announces new child health measures
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00586/prime-minister-announces-new-child-health-measures.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/08/23/prime-minister-announces-new-child-health-measures/index.html
+layout: layout.njk
 ---
 Prime Minister announces new child health measures
 ==================================================

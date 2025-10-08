@@ -1,9 +1,12 @@
 ---
 slug: world-ranking-success-for-design-school
-title: "World ranking success for design school"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/ED1408/S00141/world-ranking-success-for-design-school.htm
+title: World ranking success for design school
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00141/world-ranking-success-for-design-school.htm
 author: massey-university
+permalink: /archive/2014/08/26/world-ranking-success-for-design-school/index.html
+layout: layout.njk
 ---
 World ranking success for design school
 =======================================

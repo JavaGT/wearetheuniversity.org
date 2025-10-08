@@ -1,9 +1,13 @@
 ---
 slug: second-volume-of-nz-biodiversity-inventory-published
-title: "Second volume of NZ biodiversity inventory published"
-date: 2011-01-20
-source-url: https://www.scoop.co.nz/stories/SC1101/S00042/second-volume-of-nz-biodiversity-inventory-published.htm
+title: Second volume of NZ biodiversity inventory published
+date: 2011-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1101/S00042/second-volume-of-nz-biodiversity-inventory-published.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/01/20/second-volume-of-nz-biodiversity-inventory-published/index.html
+layout: layout.njk
 ---
 Second volume of NZ biodiversity inventory published
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: waikato-enlightening-work-for-recent-grads
-title: "Waikato: Enlightening Work for Recent Grads"
-date: 2014-10-14
-source-url: https://www.scoop.co.nz/stories/ED1410/S00085/waikato-enlightening-work-for-recent-grads.htm
+title: 'Waikato: Enlightening Work for Recent Grads'
+date: 2014-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00085/waikato-enlightening-work-for-recent-grads.htm
 author: waikato-university
+permalink: /archive/2014/10/14/waikato-enlightening-work-for-recent-grads/index.html
+layout: layout.njk
 ---
 Waikato: Enlightening Work for Recent Grads
 ===========================================

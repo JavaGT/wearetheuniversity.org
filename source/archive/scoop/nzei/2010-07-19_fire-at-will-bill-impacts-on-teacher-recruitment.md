@@ -1,9 +1,13 @@
 ---
 slug: fire-at-will-bill-impacts-on-teacher-recruitment
-title: "Fire at Will Bill Impacts on Teacher Recruitment"
-date: 2010-07-19
-source-url: https://www.scoop.co.nz/stories/ED1007/S00065/fire-at-will-bill-impacts-on-teacher-recruitment.htm
+title: Fire at Will Bill Impacts on Teacher Recruitment
+date: 2010-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00065/fire-at-will-bill-impacts-on-teacher-recruitment.htm
 author: nzei
+permalink: >-
+  /archive/2010/07/19/fire-at-will-bill-impacts-on-teacher-recruitment/index.html
+layout: layout.njk
 ---
 Fire at Will Bill Impacts on Teacher Recruitment
 ================================================

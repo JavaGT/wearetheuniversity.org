@@ -1,9 +1,13 @@
 ---
 slug: nearly-1400-students-graduating-from-canterbury-university
-title: "Nearly 1400 students graduating from Canterbury University"
-date: 2014-12-17
-source-url: https://www.scoop.co.nz/stories/ED1412/S00114/nearly-1400-students-graduating-from-canterbury-university.htm
+title: Nearly 1400 students graduating from Canterbury University
+date: 2014-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00114/nearly-1400-students-graduating-from-canterbury-university.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/17/nearly-1400-students-graduating-from-canterbury-university/index.html
+layout: layout.njk
 ---
 Nearly 1400 students graduating from Canterbury University
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-(uc)-announces-half-year-result
-title: "University of Canterbury (UC) announces half-year result"
-date: 2015-08-26
-source-url: https://www.scoop.co.nz/stories/BU1508/S00923/university-of-canterbury-uc-announces-half-year-result.htm
+title: University of Canterbury (UC) announces half-year result
+date: 2015-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1508/S00923/university-of-canterbury-uc-announces-half-year-result.htm
 author: university-of-canterbury
+permalink: /archive/2015/08/26/university-of-canterbury-/index.html
+layout: layout.njk
 ---
 University of Canterbury (UC) announces half-year result
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: special-education-staff-negotiate-10-9%-pay-rise
-title: "Special Education Staff Negotiate 10.9% Pay Rise"
-date: 2005-09-16
-source-url: https://www.scoop.co.nz/stories/ED0509/S00063/special-education-staff-negotiate-109-pay-rise.htm
+title: Special Education Staff Negotiate 10.9% Pay Rise
+date: 2005-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00063/special-education-staff-negotiate-109-pay-rise.htm
 author: nzei
+permalink: /archive/2005/09/16/special-education-staff-negotiate-10-9/index.html
+layout: layout.njk
 ---
 Special Education Staff Negotiate 10.9% Pay Rise
 ================================================

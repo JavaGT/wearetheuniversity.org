@@ -1,9 +1,13 @@
 ---
 slug: parliament-kept-in-dark-over-international-treaties
-title: "Parliament Kept in Dark Over International Treaties"
-date: 2017-06-08
-source-url: https://www.scoop.co.nz/stories/PA1706/S00131/parliament-kept-in-dark-over-international-treaties.htm
+title: Parliament Kept in Dark Over International Treaties
+date: 2017-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00131/parliament-kept-in-dark-over-international-treaties.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/06/08/parliament-kept-in-dark-over-international-treaties/index.html
+layout: layout.njk
 ---
 Parliament Kept in Dark Over International Treaties
 ===================================================

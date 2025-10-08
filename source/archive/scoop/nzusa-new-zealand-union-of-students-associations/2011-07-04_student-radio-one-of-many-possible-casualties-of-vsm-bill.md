@@ -1,9 +1,13 @@
 ---
 slug: student-radio-one-of-many-possible-casualties-of-vsm-bill
-title: "Student Radio One of Many Possible Casualties of VSM Bill"
-date: 2011-07-04
-source-url: https://www.scoop.co.nz/stories/ED1107/S00013/student-radio-one-of-many-possible-casualties-of-vsm-bill.htm
+title: Student Radio One of Many Possible Casualties of VSM Bill
+date: 2011-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00013/student-radio-one-of-many-possible-casualties-of-vsm-bill.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/07/04/student-radio-one-of-many-possible-casualties-of-vsm-bill/index.html
+layout: layout.njk
 ---
 Student Radio One of Many Possible Casualties of VSM Bill
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: croatian-ambassador-kicks-off-diplomatic-seminars
-title: "Croatian Ambassador Kicks Off Diplomatic Seminars"
-date: 2004-09-29
-source-url: https://www.scoop.co.nz/stories/ED0409/S00133/croatian-ambassador-kicks-off-diplomatic-seminars.htm
+title: Croatian Ambassador Kicks Off Diplomatic Seminars
+date: 2004-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00133/croatian-ambassador-kicks-off-diplomatic-seminars.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/09/29/croatian-ambassador-kicks-off-diplomatic-seminars/index.html
+layout: layout.njk
 ---
 Croatian Ambassador Kicks Off Diplomatic Seminars
 =================================================

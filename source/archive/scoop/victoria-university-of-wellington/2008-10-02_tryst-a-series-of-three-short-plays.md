@@ -1,9 +1,12 @@
 ---
 slug: tryst-a-series-of-three-short-plays
-title: "Tryst: a series of three short plays"
-date: 2008-10-02
-source-url: https://www.scoop.co.nz/stories/CU0810/S00015/tryst-a-series-of-three-short-plays.htm
+title: 'Tryst: a series of three short plays'
+date: 2008-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0810/S00015/tryst-a-series-of-three-short-plays.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/10/02/tryst-a-series-of-three-short-plays/index.html
+layout: layout.njk
 ---
 Tryst: a series of three short plays
 ====================================

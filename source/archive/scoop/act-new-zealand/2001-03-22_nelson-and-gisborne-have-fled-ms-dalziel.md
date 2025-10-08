@@ -1,9 +1,12 @@
 ---
 slug: nelson-and-gisborne-have-fled-ms-dalziel
-title: "Nelson And Gisborne Have Fled, Ms Dalziel"
-date: 2001-03-22
-source-url: https://www.scoop.co.nz/stories/PA0103/S00372/nelson-and-gisborne-have-fled-ms-dalziel.htm
+title: Nelson And Gisborne Have Fled, Ms Dalziel
+date: 2001-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00372/nelson-and-gisborne-have-fled-ms-dalziel.htm
 author: act-new-zealand
+permalink: /archive/2001/03/22/nelson-and-gisborne-have-fled-ms-dalziel/index.html
+layout: layout.njk
 ---
 Nelson And Gisborne Have Fled, Ms Dalziel
 =========================================

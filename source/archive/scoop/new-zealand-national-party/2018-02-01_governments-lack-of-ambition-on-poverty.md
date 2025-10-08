@@ -1,9 +1,12 @@
 ---
 slug: governments-lack-of-ambition-on-poverty
-title: "Government’s lack of ambition on poverty"
-date: 2018-02-01
-source-url: https://www.scoop.co.nz/stories/PA1802/S00019/governments-lack-of-ambition-on-poverty.htm
+title: Government’s lack of ambition on poverty
+date: 2018-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00019/governments-lack-of-ambition-on-poverty.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/01/governments-lack-of-ambition-on-poverty/index.html
+layout: layout.njk
 ---
 Government’s lack of ambition on poverty
 ========================================

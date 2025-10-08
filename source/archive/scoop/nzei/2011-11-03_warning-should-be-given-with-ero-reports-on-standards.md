@@ -1,9 +1,13 @@
 ---
 slug: warning-should-be-given-with-ero-reports-on-standards
-title: "Warning should be given with ERO reports on \"Standards\""
-date: 2011-11-03
-source-url: https://www.scoop.co.nz/stories/ED1111/S00023/warning-should-be-given-with-ero-reports-on-standards.htm
+title: Warning should be given with ERO reports on "Standards"
+date: 2011-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00023/warning-should-be-given-with-ero-reports-on-standards.htm
 author: nzei
+permalink: >-
+  /archive/2011/11/03/warning-should-be-given-with-ero-reports-on-standards/index.html
+layout: layout.njk
 ---
 Warning should be given with ERO reports on “Standards"
 =======================================================

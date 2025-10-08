@@ -1,9 +1,13 @@
 ---
 slug: yann-perreau-why-is-prehistory-inspiring-so-many-artists
-title: "Yann Perreau: Why Is Prehistory Inspiring So Many Artists?"
-date: 2024-10-26
-source-url: https://www.scoop.co.nz/stories/WO2410/S00306/yann-perreau-why-is-prehistory-inspiring-so-many-artists.htm
+title: 'Yann Perreau: Why Is Prehistory Inspiring So Many Artists?'
+date: 2024-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00306/yann-perreau-why-is-prehistory-inspiring-so-many-artists.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/10/26/yann-perreau-why-is-prehistory-inspiring-so-many-artists/index.html
+layout: layout.njk
 ---
 Yann Perreau: Why Is Prehistory Inspiring So Many Artists?
 ==========================================================

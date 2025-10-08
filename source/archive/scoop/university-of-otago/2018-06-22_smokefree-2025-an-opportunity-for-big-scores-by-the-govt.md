@@ -1,9 +1,13 @@
 ---
 slug: smokefree-2025-an-opportunity-for-big-scores-by-the-govt
-title: "Smokefree 2025: An opportunity for big scores by the Govt"
-date: 2018-06-22
-source-url: https://www.scoop.co.nz/stories/PO1806/S00242/smokefree-2025-an-opportunity-for-big-scores-by-the-govt.htm
+title: 'Smokefree 2025: An opportunity for big scores by the Govt'
+date: 2018-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1806/S00242/smokefree-2025-an-opportunity-for-big-scores-by-the-govt.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/22/smokefree-2025-an-opportunity-for-big-scores-by-the-govt/index.html
+layout: layout.njk
 ---
 Smokefree 2025: An opportunity for big scores by the Govt
 =========================================================

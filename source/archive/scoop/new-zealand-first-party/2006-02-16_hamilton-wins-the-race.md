@@ -1,9 +1,11 @@
 ---
 slug: hamilton-wins-the-race
-title: "Hamilton Wins The Race"
-date: 2006-02-16
+title: Hamilton Wins The Race
+date: 2006-02-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0602/S00212/hamilton-wins-the-race.htm
 author: new-zealand-first-party
+permalink: /archive/2006/02/16/hamilton-wins-the-race/index.html
+layout: layout.njk
 ---
 Hamilton Wins The Race
 ======================

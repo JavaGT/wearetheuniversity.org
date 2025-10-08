@@ -1,9 +1,12 @@
 ---
 slug: thousands-more-to-lose-home-help
-title: "Thousands more to lose home-help"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/PA1110/S00099/thousands-more-to-lose-home-help.htm
+title: Thousands more to lose home-help
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00099/thousands-more-to-lose-home-help.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/05/thousands-more-to-lose-home-help/index.html
+layout: layout.njk
 ---
 Thousands more to lose home-help
 ================================

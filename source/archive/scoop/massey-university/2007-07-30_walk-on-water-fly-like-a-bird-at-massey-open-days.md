@@ -1,9 +1,13 @@
 ---
 slug: walk-on-water-fly-like-a-bird-at-massey-open-days
-title: "Walk On Water, Fly Like A Bird At Massey Open Days"
-date: 2007-07-30
-source-url: https://www.scoop.co.nz/stories/ED0707/S00094/walk-on-water-fly-like-a-bird-at-massey-open-days.htm
+title: Walk On Water, Fly Like A Bird At Massey Open Days
+date: 2007-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00094/walk-on-water-fly-like-a-bird-at-massey-open-days.htm
 author: massey-university
+permalink: >-
+  /archive/2007/07/30/walk-on-water-fly-like-a-bird-at-massey-open-days/index.html
+layout: layout.njk
 ---
 Walk On Water, Fly Like A Bird At Massey Open Days
 ==================================================

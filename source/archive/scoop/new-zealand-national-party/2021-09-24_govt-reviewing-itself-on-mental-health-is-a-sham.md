@@ -1,9 +1,13 @@
 ---
 slug: govt-reviewing-itself-on-mental-health-is-a-sham
-title: "Govt Reviewing Itself On Mental Health Is A Sham"
-date: 2021-09-24
-source-url: https://www.scoop.co.nz/stories/PA2109/S00219/govt-reviewing-itself-on-mental-health-is-a-sham.htm
+title: Govt Reviewing Itself On Mental Health Is A Sham
+date: 2021-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00219/govt-reviewing-itself-on-mental-health-is-a-sham.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/24/govt-reviewing-itself-on-mental-health-is-a-sham/index.html
+layout: layout.njk
 ---
 Govt Reviewing Itself On Mental Health Is A Sham
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: kiwi-music-scholarship-recipients-shine-despite-covid-19-impact-on-performing
-title: "Kiwi Music Scholarship Recipients Shine Despite Covid-19 Impact On Performing"
-date: 2021-12-22
-source-url: https://www.scoop.co.nz/stories/ED2112/S00038/kiwi-music-scholarship-recipients-shine-despite-covid-19-impact-on-performing.htm
+title: Kiwi Music Scholarship Recipients Shine Despite Covid-19 Impact On Performing
+date: 2021-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2112/S00038/kiwi-music-scholarship-recipients-shine-despite-covid-19-impact-on-performing.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2021/12/22/kiwi-music-scholarship-recipients-shine-despite-covid-19-impact-on-performing/index.html
+layout: layout.njk
 ---
 Kiwi Music Scholarship Recipients Shine Despite Covid-19 Impact On Performing
 =============================================================================

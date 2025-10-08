@@ -1,9 +1,13 @@
 ---
 slug: short-term-household-income-change-and-impacts-on-health
-title: "Short term household income change and impacts on health"
-date: 2012-05-16
-source-url: https://www.scoop.co.nz/stories/GE1205/S00066/short-term-household-income-change-and-impacts-on-health.htm
+title: Short term household income change and impacts on health
+date: 2012-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1205/S00066/short-term-household-income-change-and-impacts-on-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/05/16/short-term-household-income-change-and-impacts-on-health/index.html
+layout: layout.njk
 ---
 Short term household income change and impacts on health
 ========================================================

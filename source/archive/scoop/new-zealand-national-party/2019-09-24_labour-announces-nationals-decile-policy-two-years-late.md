@@ -1,9 +1,13 @@
 ---
 slug: labour-announces-nationals-decile-policy-two-years-late
-title: "Labour announces National’s decile policy two years late"
-date: 2019-09-24
-source-url: https://www.scoop.co.nz/stories/PA1909/S00203/labour-announces-nationals-decile-policy-two-years-late.htm
+title: Labour announces National’s decile policy two years late
+date: 2019-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00203/labour-announces-nationals-decile-policy-two-years-late.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/09/24/labour-announces-nationals-decile-policy-two-years-late/index.html
+layout: layout.njk
 ---
 Labour announces National’s decile policy two years late
 ========================================================

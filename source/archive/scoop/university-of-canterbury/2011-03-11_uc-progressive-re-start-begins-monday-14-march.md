@@ -1,9 +1,12 @@
 ---
 slug: uc-progressive-re-start-begins-monday-14-march
-title: "UC progressive re-start begins Monday 14 March"
-date: 2011-03-11
-source-url: https://www.scoop.co.nz/stories/ED1103/S00056/uc-progressive-re-start-begins-monday-14-march.htm
+title: UC progressive re-start begins Monday 14 March
+date: 2011-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00056/uc-progressive-re-start-begins-monday-14-march.htm
 author: university-of-canterbury
+permalink: /archive/2011/03/11/uc-progressive-re-start-begins-monday-14-march/index.html
+layout: layout.njk
 ---
 UC progressive re-start begins Monday 14 March
 ==============================================

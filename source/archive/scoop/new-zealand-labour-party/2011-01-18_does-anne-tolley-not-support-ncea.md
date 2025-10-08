@@ -1,9 +1,12 @@
 ---
 slug: does-anne-tolley-not-support-ncea
-title: "Does Anne Tolley not support NCEA?"
-date: 2011-01-18
-source-url: https://www.scoop.co.nz/stories/PA1101/S00042/does-anne-tolley-not-support-ncea.htm
+title: Does Anne Tolley not support NCEA?
+date: 2011-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00042/does-anne-tolley-not-support-ncea.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/18/does-anne-tolley-not-support-ncea/index.html
+layout: layout.njk
 ---
 Does Anne Tolley not support NCEA?
 ==================================

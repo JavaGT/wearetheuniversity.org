@@ -1,9 +1,12 @@
 ---
 slug: forty-thousand-wait-to-join-waiting-list
-title: "Forty Thousand Wait To Join Waiting List"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/PA0205/S00473/forty-thousand-wait-to-join-waiting-list.htm
+title: Forty Thousand Wait To Join Waiting List
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00473/forty-thousand-wait-to-join-waiting-list.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/23/forty-thousand-wait-to-join-waiting-list/index.html
+layout: layout.njk
 ---
 Forty Thousand Wait To Join Waiting List
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-out-of-touch-w-what-parents-want-in-education
-title: "Govt out of touch w what parents want in education"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/PO0505/S00299/govt-out-of-touch-w-what-parents-want-in-education.htm
+title: Govt out of touch w what parents want in education
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0505/S00299/govt-out-of-touch-w-what-parents-want-in-education.htm
 author: maxim-institute
+permalink: >-
+  /archive/2005/05/30/govt-out-of-touch-w-what-parents-want-in-education/index.html
+layout: layout.njk
 ---
 Govt out of touch w what parents want in education
 ==================================================

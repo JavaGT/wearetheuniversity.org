@@ -1,9 +1,12 @@
 ---
 slug: keep-taking-our-ideas-says-nz-first
-title: "Keep Taking Our Ideas Says NZ First"
-date: 2008-05-27
-source-url: https://www.scoop.co.nz/stories/PA0805/S00522/keep-taking-our-ideas-says-nz-first.htm
+title: Keep Taking Our Ideas Says NZ First
+date: 2008-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00522/keep-taking-our-ideas-says-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2008/05/27/keep-taking-our-ideas-says-nz-first/index.html
+layout: layout.njk
 ---
 Keep Taking Our Ideas Says NZ First
 ===================================

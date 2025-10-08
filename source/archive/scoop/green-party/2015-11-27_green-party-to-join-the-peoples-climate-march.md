@@ -1,9 +1,12 @@
 ---
 slug: green-party-to-join-the-peoples-climate-march
-title: "Green Party to join the People’s Climate March"
-date: 2015-11-27
-source-url: https://www.scoop.co.nz/stories/PA1511/S00530/green-party-to-join-the-peoples-climate-march.htm
+title: Green Party to join the People’s Climate March
+date: 2015-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00530/green-party-to-join-the-peoples-climate-march.htm
 author: green-party
+permalink: /archive/2015/11/27/green-party-to-join-the-peoples-climate-march/index.html
+layout: layout.njk
 ---
 Green Party to join the People’s Climate March
 ==============================================

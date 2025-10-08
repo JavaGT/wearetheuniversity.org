@@ -1,9 +1,16 @@
 ---
-slug: over-2000-submissions-in-just-24-hours-urge-royal-commissions-covid-19-inquiry-to-examine-speech-rights
-title: "Over 2,000 Submissions In Just 24 Hours Urge Royal Commission’s COVID-19 Inquiry To Examine Speech Rights"
-date: 2024-03-21
-source-url: https://www.scoop.co.nz/stories/PO2403/S00172/over-2000-submissions-in-just-24-hours-urge-royal-commissions-covid-19-inquiry-to-examine-speech-rights.htm
+slug: >-
+  over-2000-submissions-in-just-24-hours-urge-royal-commissions-covid-19-inquiry-to-examine-speech-rights
+title: >-
+  Over 2,000 Submissions In Just 24 Hours Urge Royal Commission’s COVID-19
+  Inquiry To Examine Speech Rights
+date: 2024-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2403/S00172/over-2000-submissions-in-just-24-hours-urge-royal-commissions-covid-19-inquiry-to-examine-speech-rights.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/03/21/over-2000-submissions-in-just-24-hours-urge-royal-commissions-covid-19-inquiry-to-examine-speech-rights/index.html
+layout: layout.njk
 ---
 Over 2,000 Submissions In Just 24 Hours Urge Royal Commission’s COVID-19 Inquiry To Examine Speech Rights
 =========================================================================================================

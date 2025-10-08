@@ -1,9 +1,12 @@
 ---
 slug: government-allows-reckless-massey-fee-hike
-title: "Government Allows Reckless Massey Fee Hike"
-date: 2006-12-11
-source-url: https://www.scoop.co.nz/stories/ED0612/S00026/government-allows-reckless-massey-fee-hike.htm
+title: Government Allows Reckless Massey Fee Hike
+date: 2006-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00026/government-allows-reckless-massey-fee-hike.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/12/11/government-allows-reckless-massey-fee-hike/index.html
+layout: layout.njk
 ---
 Government Allows Reckless Massey Fee Hike
 ==========================================

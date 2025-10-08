@@ -1,9 +1,13 @@
 ---
 slug: not-much-to-celebrate-on-te-huias-first-birthday
-title: "Not Much To Celebrate On Te Huia’s First Birthday"
-date: 2022-04-06
-source-url: https://www.scoop.co.nz/stories/PA2204/S00043/not-much-to-celebrate-on-te-huias-first-birthday.htm
+title: Not Much To Celebrate On Te Huia’s First Birthday
+date: 2022-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00043/not-much-to-celebrate-on-te-huias-first-birthday.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/04/06/not-much-to-celebrate-on-te-huias-first-birthday/index.html
+layout: layout.njk
 ---
 Not Much To Celebrate On Te Huia’s First Birthday
 =================================================

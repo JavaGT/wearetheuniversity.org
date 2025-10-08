@@ -1,9 +1,12 @@
 ---
 slug: massey-celebrating-50-years-as-a-university
-title: "Massey celebrating 50 years as a university"
-date: 2013-08-13
-source-url: https://www.scoop.co.nz/stories/ED1308/S00058/massey-celebrating-50-years-as-a-university.htm
+title: Massey celebrating 50 years as a university
+date: 2013-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00058/massey-celebrating-50-years-as-a-university.htm
 author: massey-university
+permalink: /archive/2013/08/13/massey-celebrating-50-years-as-a-university/index.html
+layout: layout.njk
 ---
 Massey celebrating 50 years as a university
 ===========================================

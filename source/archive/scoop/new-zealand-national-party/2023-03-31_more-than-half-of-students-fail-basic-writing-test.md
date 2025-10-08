@@ -1,9 +1,13 @@
 ---
 slug: more-than-half-of-students-fail-basic-writing-test
-title: "More Than Half Of Students Fail Basic Writing Test"
-date: 2023-03-31
-source-url: https://www.scoop.co.nz/stories/PA2303/S00275/more-than-half-of-students-fail-basic-writing-test.htm
+title: More Than Half Of Students Fail Basic Writing Test
+date: 2023-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00275/more-than-half-of-students-fail-basic-writing-test.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/31/more-than-half-of-students-fail-basic-writing-test/index.html
+layout: layout.njk
 ---
 More Than Half Of Students Fail Basic Writing Test
 ==================================================

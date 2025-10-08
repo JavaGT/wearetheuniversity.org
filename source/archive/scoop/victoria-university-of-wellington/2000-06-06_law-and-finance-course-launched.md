@@ -1,9 +1,12 @@
 ---
 slug: law-and-finance-course-launched
-title: "Law and finance course launched"
-date: 2000-06-06
-source-url: https://www.scoop.co.nz/stories/BU0006/S00029/law-and-finance-course-launched.htm
+title: Law and finance course launched
+date: 2000-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0006/S00029/law-and-finance-course-launched.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/06/06/law-and-finance-course-launched/index.html
+layout: layout.njk
 ---
 Law and finance course launched
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: rare-material-key-to-computer-advances
-title: "Rare material key to computer advances"
-date: 2014-06-19
-source-url: https://www.scoop.co.nz/stories/SC1406/S00052/rare-material-key-to-computer-advances.htm
+title: Rare material key to computer advances
+date: 2014-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00052/rare-material-key-to-computer-advances.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/19/rare-material-key-to-computer-advances/index.html
+layout: layout.njk
 ---
 Rare material key to computer advances
 ======================================

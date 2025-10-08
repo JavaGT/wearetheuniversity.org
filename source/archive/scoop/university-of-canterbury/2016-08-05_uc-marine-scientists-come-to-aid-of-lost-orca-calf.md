@@ -1,9 +1,13 @@
 ---
 slug: uc-marine-scientists-come-to-aid-of-lost-orca-calf
-title: "UC marine scientists come to aid of lost Orca calf"
-date: 2016-08-05
-source-url: https://www.scoop.co.nz/stories/AK1608/S00158/uc-marine-scientists-come-to-aid-of-lost-orca-calf.htm
+title: UC marine scientists come to aid of lost Orca calf
+date: 2016-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1608/S00158/uc-marine-scientists-come-to-aid-of-lost-orca-calf.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/08/05/uc-marine-scientists-come-to-aid-of-lost-orca-calf/index.html
+layout: layout.njk
 ---
 UC marine scientists come to aid of lost Orca calf
 ==================================================

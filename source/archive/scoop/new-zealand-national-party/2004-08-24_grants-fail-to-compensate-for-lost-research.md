@@ -1,9 +1,12 @@
 ---
 slug: grants-fail-to-compensate-for-lost-research
-title: "Grants fail to compensate for lost research"
-date: 2004-08-24
-source-url: https://www.scoop.co.nz/stories/PA0408/S00404/grants-fail-to-compensate-for-lost-research.htm
+title: Grants fail to compensate for lost research
+date: 2004-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00404/grants-fail-to-compensate-for-lost-research.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/24/grants-fail-to-compensate-for-lost-research/index.html
+layout: layout.njk
 ---
 Grants fail to compensate for lost research
 ===========================================

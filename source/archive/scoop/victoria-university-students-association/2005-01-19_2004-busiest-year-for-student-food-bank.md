@@ -1,9 +1,12 @@
 ---
 slug: 2004-busiest-year-for-student-food-bank
-title: "2004 Busiest Year for Student Food Bank"
-date: 2005-01-19
-source-url: https://www.scoop.co.nz/stories/ED0501/S00032/2004-busiest-year-for-student-food-bank.htm
+title: 2004 Busiest Year for Student Food Bank
+date: 2005-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00032/2004-busiest-year-for-student-food-bank.htm
 author: victoria-university-students-association
+permalink: /archive/2005/01/19/2004-busiest-year-for-student-food-bank/index.html
+layout: layout.njk
 ---
 2004 Busiest Year for Student Food Bank
 =======================================

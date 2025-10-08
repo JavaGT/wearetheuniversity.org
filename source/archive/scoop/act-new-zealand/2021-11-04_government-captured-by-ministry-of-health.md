@@ -1,9 +1,12 @@
 ---
 slug: government-captured-by-ministry-of-health
-title: "Government Captured By Ministry Of Health"
-date: 2021-11-04
-source-url: https://www.scoop.co.nz/stories/PA2111/S00049/government-captured-by-ministry-of-health.htm
+title: Government Captured By Ministry Of Health
+date: 2021-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00049/government-captured-by-ministry-of-health.htm
 author: act-new-zealand
+permalink: /archive/2021/11/04/government-captured-by-ministry-of-health/index.html
+layout: layout.njk
 ---
 Government Captured By Ministry Of Health
 =========================================

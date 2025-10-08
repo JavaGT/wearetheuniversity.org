@@ -1,9 +1,13 @@
 ---
 slug: biology-students-swarm-waikato-campus-for-web-days
-title: "Biology students swarm Waikato campus for WEB Days"
-date: 2004-06-02
-source-url: https://www.scoop.co.nz/stories/ED0406/S00007/biology-students-swarm-waikato-campus-for-web-days.htm
+title: Biology students swarm Waikato campus for WEB Days
+date: 2004-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00007/biology-students-swarm-waikato-campus-for-web-days.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/06/02/biology-students-swarm-waikato-campus-for-web-days/index.html
+layout: layout.njk
 ---
 Biology students swarm Waikato campus for WEB Days
 ==================================================

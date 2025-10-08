@@ -1,9 +1,12 @@
 ---
 slug: primary-school-principals-pay
-title: "Primary School Principals Pay"
-date: 2003-07-30
-source-url: https://www.scoop.co.nz/stories/ED0307/S00076/primary-school-principals-pay.htm
+title: Primary School Principals Pay
+date: 2003-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00076/primary-school-principals-pay.htm
 author: nzei
+permalink: /archive/2003/07/30/primary-school-principals-pay/index.html
+layout: layout.njk
 ---
 Primary School Principals Pay
 =============================

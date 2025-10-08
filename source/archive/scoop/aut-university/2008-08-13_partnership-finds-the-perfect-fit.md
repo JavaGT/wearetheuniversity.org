@@ -1,9 +1,12 @@
 ---
 slug: partnership-finds-the-perfect-fit
-title: "Partnership finds the perfect fit"
-date: 2008-08-13
-source-url: https://www.scoop.co.nz/stories/ED0808/S00027/partnership-finds-the-perfect-fit.htm
+title: Partnership finds the perfect fit
+date: 2008-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00027/partnership-finds-the-perfect-fit.htm
 author: aut-university
+permalink: /archive/2008/08/13/partnership-finds-the-perfect-fit/index.html
+layout: layout.njk
 ---
 Partnership finds the perfect fit
 =================================

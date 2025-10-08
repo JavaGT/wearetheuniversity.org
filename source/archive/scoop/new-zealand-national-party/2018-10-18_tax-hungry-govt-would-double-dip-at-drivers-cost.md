@@ -1,9 +1,13 @@
 ---
 slug: tax-hungry-govt-would-double-dip-at-drivers-cost
-title: "Tax-hungry Govt would double-dip at drivers’ cost"
-date: 2018-10-18
-source-url: https://www.scoop.co.nz/stories/PA1810/S00171/tax-hungry-govt-would-double-dip-at-drivers-cost.htm
+title: Tax-hungry Govt would double-dip at drivers’ cost
+date: 2018-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00171/tax-hungry-govt-would-double-dip-at-drivers-cost.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/10/18/tax-hungry-govt-would-double-dip-at-drivers-cost/index.html
+layout: layout.njk
 ---
 Tax-hungry Govt would double-dip at drivers’ cost
 =================================================

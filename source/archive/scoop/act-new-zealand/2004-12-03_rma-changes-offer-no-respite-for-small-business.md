@@ -1,9 +1,12 @@
 ---
 slug: rma-changes-offer-no-respite-for-small-business
-title: "RMA changes offer no respite for small business"
-date: 2004-12-03
-source-url: https://www.scoop.co.nz/stories/PA0412/S00088/rma-changes-offer-no-respite-for-small-business.htm
+title: RMA changes offer no respite for small business
+date: 2004-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00088/rma-changes-offer-no-respite-for-small-business.htm
 author: act-new-zealand
+permalink: /archive/2004/12/03/rma-changes-offer-no-respite-for-small-business/index.html
+layout: layout.njk
 ---
 RMA changes offer no respite for small business
 ===============================================

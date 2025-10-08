@@ -1,9 +1,12 @@
 ---
 slug: flexible-learning-with-a-hobbiton-flavour
-title: "Flexible Learning with a Hobbiton flavour"
-date: 2016-01-29
-source-url: https://www.scoop.co.nz/stories/ED1601/S00052/flexible-learning-with-a-hobbiton-flavour.htm
+title: Flexible Learning with a Hobbiton flavour
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00052/flexible-learning-with-a-hobbiton-flavour.htm
 author: university-of-waikato
+permalink: /archive/2016/01/29/flexible-learning-with-a-hobbiton-flavour/index.html
+layout: layout.njk
 ---
 Flexible Learning with a Hobbiton flavour
 =========================================

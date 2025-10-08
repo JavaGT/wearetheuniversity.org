@@ -1,9 +1,12 @@
 ---
 slug: uoa-council-to-vote-on-fossil-fuel-divestment
-title: "UOA Council to vote on fossil fuel divestment"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/ED1606/S00010/uoa-council-to-vote-on-fossil-fuel-divestment.htm
+title: UOA Council to vote on fossil fuel divestment
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00010/uoa-council-to-vote-on-fossil-fuel-divestment.htm
 author: auckland-university-students-association
+permalink: /archive/2016/06/03/uoa-council-to-vote-on-fossil-fuel-divestment/index.html
+layout: layout.njk
 ---
 UOA Council to vote on fossil fuel divestment
 =============================================

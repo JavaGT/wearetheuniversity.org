@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-27-june-2005
-title: "ACT's The Letter - Monday, 27 June 2005"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00646/acts-the-letter-monday-27-june-2005.htm
+title: ACT's The Letter - Monday, 27 June 2005
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00646/acts-the-letter-monday-27-june-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/06/27/acts-the-letter-monday-27-june-2005/index.html
+layout: layout.njk
 ---
 ACT's The Letter - Monday, 27 June 2005
 =======================================

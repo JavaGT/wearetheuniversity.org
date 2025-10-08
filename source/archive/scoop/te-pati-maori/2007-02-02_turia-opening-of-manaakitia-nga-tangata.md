@@ -1,9 +1,12 @@
 ---
 slug: turia-opening-of-manaakitia-nga-tangata
-title: "Turia: Opening of Manaakitia Nga Tangata"
-date: 2007-02-02
-source-url: https://www.scoop.co.nz/stories/PA0702/S00046/turia-opening-of-manaakitia-nga-tangata.htm
+title: 'Turia: Opening of Manaakitia Nga Tangata'
+date: 2007-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00046/turia-opening-of-manaakitia-nga-tangata.htm
 author: te-pati-maori
+permalink: /archive/2007/02/02/turia-opening-of-manaakitia-nga-tangata/index.html
+layout: layout.njk
 ---
 Turia: Opening of Manaakitia Nga Tangata
 ========================================

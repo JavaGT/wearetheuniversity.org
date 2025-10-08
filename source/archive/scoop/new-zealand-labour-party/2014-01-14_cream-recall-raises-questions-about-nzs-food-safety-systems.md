@@ -1,9 +1,13 @@
 ---
 slug: cream-recall-raises-questions-about-nzs-food-safety-systems
-title: "Cream recall raises questions about NZ’s food safety systems"
-date: 2014-01-14
-source-url: https://www.scoop.co.nz/stories/PA1401/S00030/cream-recall-raises-questions-about-nzs-food-safety-systems.htm
+title: Cream recall raises questions about NZ’s food safety systems
+date: 2014-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00030/cream-recall-raises-questions-about-nzs-food-safety-systems.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/01/14/cream-recall-raises-questions-about-nzs-food-safety-systems/index.html
+layout: layout.njk
 ---
 Cream recall raises questions about NZ’s food safety systems
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: shes-not-alright-for-young-new-zealanders
-title: "She’s Not Alright For Young New Zealanders"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/PA1302/S00143/shes-not-alright-for-young-new-zealanders.htm
+title: She’s Not Alright For Young New Zealanders
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00143/shes-not-alright-for-young-new-zealanders.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/13/shes-not-alright-for-young-new-zealanders/index.html
+layout: layout.njk
 ---
 She’s Not Alright For Young New Zealanders
 ==========================================

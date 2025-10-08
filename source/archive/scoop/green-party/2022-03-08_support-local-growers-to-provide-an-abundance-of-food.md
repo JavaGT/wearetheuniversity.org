@@ -1,9 +1,13 @@
 ---
 slug: support-local-growers-to-provide-an-abundance-of-food
-title: "Support Local Growers To Provide An Abundance Of Food"
-date: 2022-03-08
-source-url: https://www.scoop.co.nz/stories/PA2203/S00050/support-local-growers-to-provide-an-abundance-of-food.htm
+title: Support Local Growers To Provide An Abundance Of Food
+date: 2022-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00050/support-local-growers-to-provide-an-abundance-of-food.htm
 author: green-party
+permalink: >-
+  /archive/2022/03/08/support-local-growers-to-provide-an-abundance-of-food/index.html
+layout: layout.njk
 ---
 Support Local Growers To Provide An Abundance Of Food
 =====================================================

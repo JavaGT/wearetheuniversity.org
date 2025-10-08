@@ -1,9 +1,13 @@
 ---
 slug: skyrocketing-wellington-rents-pile-on-the-pressure
-title: "Skyrocketing Wellington rents pile on the pressure"
-date: 2017-02-08
-source-url: https://www.scoop.co.nz/stories/PA1702/S00116/skyrocketing-wellington-rents-pile-on-the-pressure.htm
+title: Skyrocketing Wellington rents pile on the pressure
+date: 2017-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00116/skyrocketing-wellington-rents-pile-on-the-pressure.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/02/08/skyrocketing-wellington-rents-pile-on-the-pressure/index.html
+layout: layout.njk
 ---
 Skyrocketing Wellington rents pile on the pressure
 ==================================================

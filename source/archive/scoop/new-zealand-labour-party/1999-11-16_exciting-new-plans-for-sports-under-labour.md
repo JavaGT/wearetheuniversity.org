@@ -1,9 +1,12 @@
 ---
 slug: exciting-new-plans-for-sports-under-labour
-title: "Exciting new plans for sports under Labour"
-date: 1999-11-16
-source-url: https://www.scoop.co.nz/stories/PA9911/S00373/exciting-new-plans-for-sports-under-labour.htm
+title: Exciting new plans for sports under Labour
+date: 1999-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00373/exciting-new-plans-for-sports-under-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/16/exciting-new-plans-for-sports-under-labour/index.html
+layout: layout.njk
 ---
 Exciting new plans for sports under Labour
 ==========================================

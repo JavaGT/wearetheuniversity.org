@@ -1,9 +1,13 @@
 ---
 slug: electoral-bill-conflicts-with-parliamentary-privilege-act
-title: "Electoral Bill conflicts with Parliamentary Privilege Act"
-date: 2018-04-04
-source-url: https://www.scoop.co.nz/stories/PA1804/S00033/electoral-bill-conflicts-with-parliamentary-privilege-act.htm
+title: Electoral Bill conflicts with Parliamentary Privilege Act
+date: 2018-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00033/electoral-bill-conflicts-with-parliamentary-privilege-act.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/04/04/electoral-bill-conflicts-with-parliamentary-privilege-act/index.html
+layout: layout.njk
 ---
 Electoral Bill conflicts with Parliamentary Privilege Act
 =========================================================

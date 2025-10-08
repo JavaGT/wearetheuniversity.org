@@ -1,9 +1,12 @@
 ---
 slug: ministers-hands-off-approach-to-strike-reckless
-title: "Minister’s hands-off approach to strike reckless"
-date: 2018-08-14
-source-url: https://www.scoop.co.nz/stories/PA1808/S00156/ministers-hands-off-approach-to-strike-reckless.htm
+title: Minister’s hands-off approach to strike reckless
+date: 2018-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00156/ministers-hands-off-approach-to-strike-reckless.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/14/ministers-hands-off-approach-to-strike-reckless/index.html
+layout: layout.njk
 ---
 Minister’s hands-off approach to strike reckless
 ================================================

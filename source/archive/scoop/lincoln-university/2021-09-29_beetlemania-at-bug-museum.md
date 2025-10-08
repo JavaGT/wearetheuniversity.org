@@ -1,9 +1,11 @@
 ---
 slug: beetlemania-at-bug-museum
-title: "Beetlemania At Bug Museum"
-date: 2021-09-29
+title: Beetlemania At Bug Museum
+date: 2021-09-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED2109/S00047/beetlemania-at-bug-museum.htm
 author: lincoln-university
+permalink: /archive/2021/09/29/beetlemania-at-bug-museum/index.html
+layout: layout.njk
 ---
 Beetlemania At Bug Museum
 =========================

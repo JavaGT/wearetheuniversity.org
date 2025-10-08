@@ -1,9 +1,13 @@
 ---
 slug: new-music-festival-celebrates-inspirations-and-challenges-of-lockdown
-title: "New Music Festival Celebrates Inspirations And Challenges Of Lockdown"
-date: 2020-11-30
-source-url: https://www.scoop.co.nz/stories/CU2011/S00255/new-music-festival-celebrates-inspirations-and-challenges-of-lockdown.htm
+title: New Music Festival Celebrates Inspirations And Challenges Of Lockdown
+date: 2020-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2011/S00255/new-music-festival-celebrates-inspirations-and-challenges-of-lockdown.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/30/new-music-festival-celebrates-inspirations-and-challenges-of-lockdown/index.html
+layout: layout.njk
 ---
 New Music Festival Celebrates Inspirations And Challenges Of Lockdown
 =====================================================================

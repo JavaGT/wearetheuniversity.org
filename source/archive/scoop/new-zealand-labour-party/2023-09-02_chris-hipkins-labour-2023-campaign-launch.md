@@ -1,9 +1,12 @@
 ---
 slug: chris-hipkins-labour-2023-campaign-launch
-title: "Chris Hipkins: Labour 2023 Campaign Launch"
-date: 2023-09-02
-source-url: https://www.scoop.co.nz/stories/PA2309/S00011/chris-hipkins-labour-2023-campaign-launch.htm
+title: 'Chris Hipkins: Labour 2023 Campaign Launch'
+date: 2023-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00011/chris-hipkins-labour-2023-campaign-launch.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/09/02/chris-hipkins-labour-2023-campaign-launch/index.html
+layout: layout.njk
 ---
 Chris Hipkins: Labour 2023 Campaign Launch
 ==========================================

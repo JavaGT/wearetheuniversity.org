@@ -1,9 +1,12 @@
 ---
 slug: labours-day-of-shame-workers-day-of-sadness
-title: "Labour’s Day of Shame - Workers’ Day of Sadness"
-date: 2000-03-06
-source-url: https://www.scoop.co.nz/stories/PA0003/S00071/labours-day-of-shame-workers-day-of-sadness.htm
+title: Labour’s Day of Shame - Workers’ Day of Sadness
+date: 2000-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00071/labours-day-of-shame-workers-day-of-sadness.htm
 author: act-new-zealand
+permalink: /archive/2000/03/06/labours-day-of-shame-workers-day-of-sadness/index.html
+layout: layout.njk
 ---
 Labour’s Day of Shame - Workers’ Day of Sadness
 ===============================================

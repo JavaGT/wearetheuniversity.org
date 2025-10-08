@@ -1,9 +1,12 @@
 ---
 slug: more-artificial-pitches-urgently-needed
-title: "More artificial pitches urgently needed"
-date: 2010-08-18
-source-url: https://www.scoop.co.nz/stories/PA1008/S00274/more-artificial-pitches-urgently-needed.htm
+title: More artificial pitches urgently needed
+date: 2010-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00274/more-artificial-pitches-urgently-needed.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/18/more-artificial-pitches-urgently-needed/index.html
+layout: layout.njk
 ---
 More artificial pitches urgently needed
 =======================================

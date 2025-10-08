@@ -1,9 +1,16 @@
 ---
-slug: government-funding-backs-lincoln-universitys-goal-to-be-fossil-fuel-free-by-2024
-title: "Government Funding Backs Lincoln University’s Goal To Be Fossil Fuel-free By 2024"
-date: 2020-10-06
-source-url: https://www.scoop.co.nz/stories/AK2010/S00113/government-funding-backs-lincoln-universitys-goal-to-be-fossil-fuel-free-by-2024.htm
+slug: >-
+  government-funding-backs-lincoln-universitys-goal-to-be-fossil-fuel-free-by-2024
+title: >-
+  Government Funding Backs Lincoln University’s Goal To Be Fossil Fuel-free By
+  2024
+date: 2020-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2010/S00113/government-funding-backs-lincoln-universitys-goal-to-be-fossil-fuel-free-by-2024.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/10/06/government-funding-backs-lincoln-universitys-goal-to-be-fossil-fuel-free-by-2024/index.html
+layout: layout.njk
 ---
 Government Funding Backs Lincoln University’s Goal To Be Fossil Fuel-free By 2024
 =================================================================================

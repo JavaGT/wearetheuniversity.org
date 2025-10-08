@@ -1,9 +1,13 @@
 ---
 slug: uc-chemistry-student-selected-to-attend-prestigious-event
-title: "UC Chemistry Student Selected to Attend Prestigious Event"
-date: 2013-05-21
-source-url: https://www.scoop.co.nz/stories/SC1305/S00066/uc-chemistry-student-selected-to-attend-prestigious-event.htm
+title: UC Chemistry Student Selected to Attend Prestigious Event
+date: 2013-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00066/uc-chemistry-student-selected-to-attend-prestigious-event.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/21/uc-chemistry-student-selected-to-attend-prestigious-event/index.html
+layout: layout.njk
 ---
 UC Chemistry Student Selected to Attend Prestigious Event
 =========================================================

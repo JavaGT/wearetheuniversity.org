@@ -1,9 +1,13 @@
 ---
 slug: wellington-principal-re-elected-as-nzei-president
-title: "Wellington Principal Re-Elected As NZEI President"
-date: 2004-09-22
-source-url: https://www.scoop.co.nz/stories/ED0409/S00106/wellington-principal-re-elected-as-nzei-president.htm
+title: Wellington Principal Re-Elected As NZEI President
+date: 2004-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00106/wellington-principal-re-elected-as-nzei-president.htm
 author: nzei
+permalink: >-
+  /archive/2004/09/22/wellington-principal-re-elected-as-nzei-president/index.html
+layout: layout.njk
 ---
 Wellington Principal Re-Elected As NZEI President
 =================================================

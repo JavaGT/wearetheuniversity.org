@@ -1,9 +1,13 @@
 ---
 slug: perth-phd-students-utilise-waikato-university-equipment
-title: "Perth PhD students utilise Waikato University equipment"
-date: 2012-08-14
-source-url: https://www.scoop.co.nz/stories/ED1208/S00083/perth-phd-students-utilise-waikato-university-equipment.htm
+title: Perth PhD students utilise Waikato University equipment
+date: 2012-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00083/perth-phd-students-utilise-waikato-university-equipment.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/08/14/perth-phd-students-utilise-waikato-university-equipment/index.html
+layout: layout.njk
 ---
 Perth PhD students utilise Waikato University equipment
 =======================================================

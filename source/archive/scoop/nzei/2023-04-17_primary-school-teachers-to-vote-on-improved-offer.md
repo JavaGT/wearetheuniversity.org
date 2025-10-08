@@ -1,9 +1,13 @@
 ---
 slug: primary-school-teachers-to-vote-on-improved-offer
-title: "Primary School Teachers To Vote On Improved Offer"
-date: 2023-04-17
-source-url: https://www.scoop.co.nz/stories/PO2304/S00098/primary-school-teachers-to-vote-on-improved-offer.htm
+title: Primary School Teachers To Vote On Improved Offer
+date: 2023-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2304/S00098/primary-school-teachers-to-vote-on-improved-offer.htm
 author: nzei
+permalink: >-
+  /archive/2023/04/17/primary-school-teachers-to-vote-on-improved-offer/index.html
+layout: layout.njk
 ---
 Primary School Teachers To Vote On Improved Offer
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: rose-centre-to-be-officially-opened-this-week
-title: "Rose Centre to be officially opened this week"
-date: 2015-04-07
-source-url: https://www.scoop.co.nz/stories/GE1504/S00020/rose-centre-to-be-officially-opened-this-week.htm
+title: Rose Centre to be officially opened this week
+date: 2015-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1504/S00020/rose-centre-to-be-officially-opened-this-week.htm
 author: university-of-canterbury
+permalink: /archive/2015/04/07/rose-centre-to-be-officially-opened-this-week/index.html
+layout: layout.njk
 ---
 Rose Centre to be officially opened this week
 =============================================

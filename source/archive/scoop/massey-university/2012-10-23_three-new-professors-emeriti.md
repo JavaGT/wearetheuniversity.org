@@ -1,9 +1,11 @@
 ---
 slug: three-new-professors-emeriti
-title: "Three new professors emeriti"
-date: 2012-10-23
+title: Three new professors emeriti
+date: 2012-10-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1210/S00120/three-new-professors-emeriti.htm
 author: massey-university
+permalink: /archive/2012/10/23/three-new-professors-emeriti/index.html
+layout: layout.njk
 ---
 Three new professors emeriti
 ============================

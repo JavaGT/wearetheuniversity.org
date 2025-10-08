@@ -1,9 +1,12 @@
 ---
 slug: nz-involved-in-global-anorexia-study
-title: "NZ involved in global anorexia study"
-date: 2019-07-16
-source-url: https://www.scoop.co.nz/stories/ED1907/S00027/nz-involved-in-global-anorexia-study.htm
+title: NZ involved in global anorexia study
+date: 2019-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1907/S00027/nz-involved-in-global-anorexia-study.htm
 author: university-of-otago
+permalink: /archive/2019/07/16/nz-involved-in-global-anorexia-study/index.html
+layout: layout.njk
 ---
 NZ involved in global anorexia study
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: micronutrient-powder-effective-in-combating-anaemia
-title: "Micronutrient powder effective in combating anaemia"
-date: 2012-07-18
-source-url: https://www.scoop.co.nz/stories/ED1207/S00075/micronutrient-powder-effective-in-combating-anaemia.htm
+title: Micronutrient powder effective in combating anaemia
+date: 2012-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00075/micronutrient-powder-effective-in-combating-anaemia.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/07/18/micronutrient-powder-effective-in-combating-anaemia/index.html
+layout: layout.njk
 ---
 Micronutrient powder effective in combating anaemia
 ===================================================

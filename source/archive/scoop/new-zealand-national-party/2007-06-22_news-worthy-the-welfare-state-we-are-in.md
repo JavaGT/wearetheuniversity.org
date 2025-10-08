@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-the-welfare-state-we-are-in
-title: "News Worthy - The welfare state we are in"
-date: 2007-06-22
-source-url: https://www.scoop.co.nz/stories/PA0706/S00453/news-worthy-the-welfare-state-we-are-in.htm
+title: News Worthy - The welfare state we are in
+date: 2007-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00453/news-worthy-the-welfare-state-we-are-in.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/22/news-worthy-the-welfare-state-we-are-in/index.html
+layout: layout.njk
 ---
 News Worthy - The welfare state we are in
 =========================================

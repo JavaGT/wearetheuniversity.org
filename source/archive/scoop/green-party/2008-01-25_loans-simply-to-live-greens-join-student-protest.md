@@ -1,9 +1,13 @@
 ---
 slug: loans-simply-to-live-greens-join-student-protest
-title: "Loans simply to live: Greens join student protest"
-date: 2008-01-25
-source-url: https://www.scoop.co.nz/stories/PA0801/S00188/loans-simply-to-live-greens-join-student-protest.htm
+title: 'Loans simply to live: Greens join student protest'
+date: 2008-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00188/loans-simply-to-live-greens-join-student-protest.htm
 author: green-party
+permalink: >-
+  /archive/2008/01/25/loans-simply-to-live-greens-join-student-protest/index.html
+layout: layout.njk
 ---
 Loans simply to live: Greens join student protest
 =================================================

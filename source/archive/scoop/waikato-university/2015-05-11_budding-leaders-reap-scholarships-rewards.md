@@ -1,9 +1,12 @@
 ---
 slug: budding-leaders-reap-scholarships-rewards
-title: "Budding leaders reap scholarship’s rewards"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/ED1505/S00051/budding-leaders-reap-scholarships-rewards.htm
+title: Budding leaders reap scholarship’s rewards
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00051/budding-leaders-reap-scholarships-rewards.htm
 author: waikato-university
+permalink: /archive/2015/05/11/budding-leaders-reap-scholarships-rewards/index.html
+layout: layout.njk
 ---
 Budding leaders reap scholarship’s rewards
 ==========================================

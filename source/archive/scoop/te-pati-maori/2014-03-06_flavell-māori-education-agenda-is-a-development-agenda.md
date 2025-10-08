@@ -1,9 +1,12 @@
 ---
 slug: flavell-māori-education-agenda-is-a-development-agenda
-title: "Flavell: Māori Education Agenda is a Development Agenda"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/PA1403/S00114/flavell-maori-education-agenda-is-a-development-agenda.htm
+title: 'Flavell: Māori Education Agenda is a Development Agenda'
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00114/flavell-maori-education-agenda-is-a-development-agenda.htm
 author: te-pati-maori
+permalink: /archive/2014/03/06/flavell-m/index.html
+layout: layout.njk
 ---
 Flavell: Māori Education Agenda is a Development Agenda
 =======================================================

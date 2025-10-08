@@ -1,9 +1,12 @@
 ---
 slug: mallard-labelled-a-coward-by-students
-title: "Mallard Labelled A Coward By Students"
-date: 2004-10-14
-source-url: https://www.scoop.co.nz/stories/ED0410/S00054/mallard-labelled-a-coward-by-students.htm
+title: Mallard Labelled A Coward By Students
+date: 2004-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00054/mallard-labelled-a-coward-by-students.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/10/14/mallard-labelled-a-coward-by-students/index.html
+layout: layout.njk
 ---
 Mallard Labelled A Coward By Students
 =====================================

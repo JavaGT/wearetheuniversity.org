@@ -1,9 +1,13 @@
 ---
 slug: corruption-free-status-as-vital-as-all-blacks-success
-title: "Corruption-free status as vital as All Blacks success"
-date: 2014-07-17
-source-url: https://www.scoop.co.nz/stories/PO1407/S00271/corruption-free-status-as-vital-as-all-blacks-success.htm
+title: Corruption-free status as vital as All Blacks success
+date: 2014-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00271/corruption-free-status-as-vital-as-all-blacks-success.htm
 author: massey-university
+permalink: >-
+  /archive/2014/07/17/corruption-free-status-as-vital-as-all-blacks-success/index.html
+layout: layout.njk
 ---
 Corruption-free status as vital as All Blacks success
 =====================================================

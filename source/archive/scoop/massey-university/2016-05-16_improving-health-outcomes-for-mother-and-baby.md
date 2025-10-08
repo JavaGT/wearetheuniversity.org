@@ -1,9 +1,12 @@
 ---
 slug: improving-health-outcomes-for-mother-and-baby
-title: "Improving health outcomes for mother and baby"
-date: 2016-05-16
-source-url: https://www.scoop.co.nz/stories/GE1605/S00077/improving-health-outcomes-for-mother-and-baby.htm
+title: Improving health outcomes for mother and baby
+date: 2016-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00077/improving-health-outcomes-for-mother-and-baby.htm
 author: massey-university
+permalink: /archive/2016/05/16/improving-health-outcomes-for-mother-and-baby/index.html
+layout: layout.njk
 ---
 Improving health outcomes for mother and baby
 =============================================

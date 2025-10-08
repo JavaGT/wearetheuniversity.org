@@ -1,9 +1,12 @@
 ---
 slug: national-decision-on-ship-visits-issue
-title: "National decision on ship visits issue"
-date: 2004-06-22
-source-url: https://www.scoop.co.nz/stories/PA0406/S00336/national-decision-on-ship-visits-issue.htm
+title: National decision on ship visits issue
+date: 2004-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00336/national-decision-on-ship-visits-issue.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/22/national-decision-on-ship-visits-issue/index.html
+layout: layout.njk
 ---
 National decision on ship visits issue
 ======================================

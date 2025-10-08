@@ -1,9 +1,13 @@
 ---
 slug: lecture-series-on-sustainability-by-nandor-tanczos
-title: "Lecture Series on Sustainability by Nandor Tanczos"
-date: 2008-08-08
-source-url: https://www.scoop.co.nz/stories/PO0808/S00092/lecture-series-on-sustainability-by-nandor-tanczos.htm
+title: Lecture Series on Sustainability by Nandor Tanczos
+date: 2008-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00092/lecture-series-on-sustainability-by-nandor-tanczos.htm
 author: green-party
+permalink: >-
+  /archive/2008/08/08/lecture-series-on-sustainability-by-nandor-tanczos/index.html
+layout: layout.njk
 ---
 Lecture Series on Sustainability by Nandor Tanczos
 ==================================================

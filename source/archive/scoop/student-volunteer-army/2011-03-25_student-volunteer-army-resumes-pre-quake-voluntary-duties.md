@@ -1,9 +1,13 @@
 ---
 slug: student-volunteer-army-resumes-pre-quake-voluntary-duties
-title: "Student Volunteer Army resumes pre-quake voluntary duties"
-date: 2011-03-25
-source-url: https://www.scoop.co.nz/stories/AK1103/S00914/student-volunteer-army-resumes-pre-quake-voluntary-duties.htm
+title: Student Volunteer Army resumes pre-quake voluntary duties
+date: 2011-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00914/student-volunteer-army-resumes-pre-quake-voluntary-duties.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2011/03/25/student-volunteer-army-resumes-pre-quake-voluntary-duties/index.html
+layout: layout.njk
 ---
 Student Volunteer Army resumes pre-quake voluntary duties
 =========================================================

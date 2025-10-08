@@ -1,9 +1,12 @@
 ---
 slug: hot-topics-to-come-under-scrutiny-at-fieldays
-title: "Hot topics to come under scrutiny at Fieldays"
-date: 2012-06-11
-source-url: https://www.scoop.co.nz/stories/AK1206/S00246/hot-topics-to-come-under-scrutiny-at-fieldays.htm
+title: Hot topics to come under scrutiny at Fieldays
+date: 2012-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1206/S00246/hot-topics-to-come-under-scrutiny-at-fieldays.htm
 author: university-of-waikato
+permalink: /archive/2012/06/11/hot-topics-to-come-under-scrutiny-at-fieldays/index.html
+layout: layout.njk
 ---
 Hot topics to come under scrutiny at Fieldays
 =============================================

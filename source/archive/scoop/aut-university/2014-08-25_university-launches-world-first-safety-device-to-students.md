@@ -1,9 +1,13 @@
 ---
 slug: university-launches-world-first-safety-device-to-students
-title: "University launches world first safety device to students"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/ED1408/S00129/university-launches-world-first-safety-device-to-students.htm
+title: University launches world first safety device to students
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00129/university-launches-world-first-safety-device-to-students.htm
 author: aut-university
+permalink: >-
+  /archive/2014/08/25/university-launches-world-first-safety-device-to-students/index.html
+layout: layout.njk
 ---
 University launches world first safety device to students
 =========================================================

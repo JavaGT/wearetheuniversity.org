@@ -1,9 +1,12 @@
 ---
 slug: broken-promise-leaves-schools-chasing-truants
-title: "Broken promise leaves schools chasing truants"
-date: 2015-11-19
-source-url: https://www.scoop.co.nz/stories/PA1511/S00372/broken-promise-leaves-schools-chasing-truants.htm
+title: Broken promise leaves schools chasing truants
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00372/broken-promise-leaves-schools-chasing-truants.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/19/broken-promise-leaves-schools-chasing-truants/index.html
+layout: layout.njk
 ---
 Broken promise leaves schools chasing truants
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: nats-want-inquiry-into-medicine-bungle
-title: "Nats want inquiry into medicine bungle"
-date: 2008-05-13
-source-url: https://www.scoop.co.nz/stories/PA0805/S00216/nats-want-inquiry-into-medicine-bungle.htm
+title: Nats want inquiry into medicine bungle
+date: 2008-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00216/nats-want-inquiry-into-medicine-bungle.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/13/nats-want-inquiry-into-medicine-bungle/index.html
+layout: layout.njk
 ---
 Nats want inquiry into medicine bungle
 ======================================

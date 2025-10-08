@@ -1,9 +1,12 @@
 ---
 slug: brash-report-no-21-26-november-2003
-title: "Brash-Report - No. 21, 26 November 2003"
-date: 2003-11-26
-source-url: https://www.scoop.co.nz/stories/PA0311/S00516/brash-report-no-21-26-november-2003.htm
+title: Brash-Report - No. 21, 26 November 2003
+date: 2003-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00516/brash-report-no-21-26-november-2003.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/26/brash-report-no-21-26-november-2003/index.html
+layout: layout.njk
 ---
 Brash-Report - No. 21, 26 November 2003
 =======================================

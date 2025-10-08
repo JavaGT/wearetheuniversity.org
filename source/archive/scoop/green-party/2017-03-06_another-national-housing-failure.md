@@ -1,9 +1,12 @@
 ---
 slug: another-national-housing-failure
-title: "Another National housing failure"
-date: 2017-03-06
-source-url: https://www.scoop.co.nz/stories/PA1703/S00074/another-national-housing-failure.htm
+title: Another National housing failure
+date: 2017-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00074/another-national-housing-failure.htm
 author: green-party
+permalink: /archive/2017/03/06/another-national-housing-failure/index.html
+layout: layout.njk
 ---
 Another National housing failure
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: pita-sharples-the-treaty-you-never-know-it
-title: "Pita Sharples 'The Treaty - you never know it'"
-date: 2008-10-07
-source-url: https://www.scoop.co.nz/stories/PA0810/S00157/pita-sharples-the-treaty-you-never-know-it.htm
+title: Pita Sharples 'The Treaty - you never know it'
+date: 2008-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00157/pita-sharples-the-treaty-you-never-know-it.htm
 author: te-pati-maori
+permalink: /archive/2008/10/07/pita-sharples-the-treaty-you-never-know-it/index.html
+layout: layout.njk
 ---
 Pita Sharples 'The Treaty - you never know it'
 ==============================================

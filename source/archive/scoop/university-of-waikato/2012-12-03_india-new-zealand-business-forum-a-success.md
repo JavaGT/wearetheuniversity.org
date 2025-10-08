@@ -1,9 +1,12 @@
 ---
 slug: india-new-zealand-business-forum-a-success
-title: "India-New Zealand business forum a success"
-date: 2012-12-03
-source-url: https://www.scoop.co.nz/stories/BU1212/S00019/india-new-zealand-business-forum-a-success.htm
+title: India-New Zealand business forum a success
+date: 2012-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1212/S00019/india-new-zealand-business-forum-a-success.htm
 author: university-of-waikato
+permalink: /archive/2012/12/03/india-new-zealand-business-forum-a-success/index.html
+layout: layout.njk
 ---
 India-New Zealand business forum a success
 ==========================================

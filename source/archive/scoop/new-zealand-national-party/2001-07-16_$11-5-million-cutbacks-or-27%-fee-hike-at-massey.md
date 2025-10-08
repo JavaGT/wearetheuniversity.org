@@ -1,9 +1,12 @@
 ---
 slug: $11-5-million-cutbacks-or-27%-fee-hike-at-massey
-title: "$11.5 Million Cutbacks Or 27% Fee Hike At Massey"
-date: 2001-07-16
-source-url: https://www.scoop.co.nz/stories/PA0107/S00249/115-million-cutbacks-or-27-fee-hike-at-massey.htm
+title: $11.5 Million Cutbacks Or 27% Fee Hike At Massey
+date: 2001-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00249/115-million-cutbacks-or-27-fee-hike-at-massey.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/16/11-5-million-cutbacks-or-27-fee-hike-at-massey/index.html
+layout: layout.njk
 ---
 $11.5 Million Cutbacks Or 27% Fee Hike At Massey
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-recognised-in-tertiary-teaching-awards
-title: "Victoria recognised in tertiary teaching awards"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/ED0606/S00067/victoria-recognised-in-tertiary-teaching-awards.htm
+title: Victoria recognised in tertiary teaching awards
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00067/victoria-recognised-in-tertiary-teaching-awards.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/06/28/victoria-recognised-in-tertiary-teaching-awards/index.html
+layout: layout.njk
 ---
 Victoria recognised in tertiary teaching awards
 ===============================================

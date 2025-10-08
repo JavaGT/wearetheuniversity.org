@@ -1,9 +1,11 @@
 ---
 slug: real-issues-no-316
-title: "Real Issues No. 316"
-date: 2008-08-29
+title: Real Issues No. 316
+date: 2008-08-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00485/real-issues-no-316.htm
 author: maxim-institute
+permalink: /archive/2008/08/29/real-issues-no-316/index.html
+layout: layout.njk
 ---
 Real Issues No. 316
 ===================

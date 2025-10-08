@@ -1,9 +1,13 @@
 ---
 slug: chinese-property-market-study-provides-nz-insights
-title: "Chinese property market study provides NZ insights"
-date: 2015-09-08
-source-url: https://www.scoop.co.nz/stories/BU1509/S00278/chinese-property-market-study-provides-nz-insights.htm
+title: Chinese property market study provides NZ insights
+date: 2015-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1509/S00278/chinese-property-market-study-provides-nz-insights.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/09/08/chinese-property-market-study-provides-nz-insights/index.html
+layout: layout.njk
 ---
 Chinese property market study provides NZ insights
 ==================================================

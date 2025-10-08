@@ -1,9 +1,12 @@
 ---
 slug: free-school-lunches-paid-for-with-a-wealth-tax
-title: "Free School Lunches Paid For With A Wealth Tax"
-date: 2023-09-19
-source-url: https://www.scoop.co.nz/stories/PA2309/S00104/free-school-lunches-paid-for-with-a-wealth-tax.htm
+title: Free School Lunches Paid For With A Wealth Tax
+date: 2023-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00104/free-school-lunches-paid-for-with-a-wealth-tax.htm
 author: green-party
+permalink: /archive/2023/09/19/free-school-lunches-paid-for-with-a-wealth-tax/index.html
+layout: layout.njk
 ---
 Free School Lunches Paid For With A Wealth Tax
 ==============================================

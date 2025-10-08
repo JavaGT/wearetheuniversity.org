@@ -1,9 +1,12 @@
 ---
 slug: kids-pay-the-price-for-paratas-bad-decision
-title: "Kids pay the price for Parata’s bad decision"
-date: 2015-02-19
-source-url: https://www.scoop.co.nz/stories/PA1502/S00208/kids-pay-the-price-for-paratas-bad-decision.htm
+title: Kids pay the price for Parata’s bad decision
+date: 2015-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00208/kids-pay-the-price-for-paratas-bad-decision.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/02/19/kids-pay-the-price-for-paratas-bad-decision/index.html
+layout: layout.njk
 ---
 Kids pay the price for Parata’s bad decision
 ============================================

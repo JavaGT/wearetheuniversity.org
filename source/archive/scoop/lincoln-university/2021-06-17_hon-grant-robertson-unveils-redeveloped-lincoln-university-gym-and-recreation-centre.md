@@ -1,9 +1,16 @@
 ---
-slug: hon-grant-robertson-unveils-redeveloped-lincoln-university-gym-and-recreation-centre
-title: "Hon Grant Robertson Unveils Redeveloped Lincoln University Gym And Recreation Centre"
-date: 2021-06-17
-source-url: https://www.scoop.co.nz/stories/ED2106/S00032/hon-grant-robertson-unveils-redeveloped-lincoln-university-gym-and-recreation-centre.htm
+slug: >-
+  hon-grant-robertson-unveils-redeveloped-lincoln-university-gym-and-recreation-centre
+title: >-
+  Hon Grant Robertson Unveils Redeveloped Lincoln University Gym And Recreation
+  Centre
+date: 2021-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00032/hon-grant-robertson-unveils-redeveloped-lincoln-university-gym-and-recreation-centre.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/06/17/hon-grant-robertson-unveils-redeveloped-lincoln-university-gym-and-recreation-centre/index.html
+layout: layout.njk
 ---
 Hon Grant Robertson Unveils Redeveloped Lincoln University Gym And Recreation Centre
 ====================================================================================

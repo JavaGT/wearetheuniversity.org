@@ -1,9 +1,12 @@
 ---
 slug: turia-speech-abortion-supervisory-committee
-title: "Turia Speech: Abortion Supervisory Committee"
-date: 2011-04-08
-source-url: https://www.scoop.co.nz/stories/PA1104/S00169/turia-speech-abortion-supervisory-committee.htm
+title: 'Turia Speech: Abortion Supervisory Committee'
+date: 2011-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00169/turia-speech-abortion-supervisory-committee.htm
 author: te-pati-maori
+permalink: /archive/2011/04/08/turia-speech-abortion-supervisory-committee/index.html
+layout: layout.njk
 ---
 Turia Speech: Abortion Supervisory Committee
 ============================================

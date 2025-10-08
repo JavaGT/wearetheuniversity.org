@@ -1,9 +1,12 @@
 ---
 slug: clark-release-of-labours-maori-policy
-title: "Clark: release of Labour’s Maori Policy"
-date: 2005-08-26
-source-url: https://www.scoop.co.nz/stories/PA0508/S00702/clark-release-of-labours-maori-policy.htm
+title: 'Clark: release of Labour’s Maori Policy'
+date: 2005-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00702/clark-release-of-labours-maori-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/26/clark-release-of-labours-maori-policy/index.html
+layout: layout.njk
 ---
 Clark: release of Labour’s Maori Policy
 =======================================

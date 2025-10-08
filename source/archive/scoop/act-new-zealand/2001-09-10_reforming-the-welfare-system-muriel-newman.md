@@ -1,9 +1,12 @@
 ---
 slug: reforming-the-welfare-system-muriel-newman
-title: "Reforming The Welfare System - Muriel Newman"
-date: 2001-09-10
-source-url: https://www.scoop.co.nz/stories/PA0109/S00121/reforming-the-welfare-system-muriel-newman.htm
+title: Reforming The Welfare System - Muriel Newman
+date: 2001-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00121/reforming-the-welfare-system-muriel-newman.htm
 author: act-new-zealand
+permalink: /archive/2001/09/10/reforming-the-welfare-system-muriel-newman/index.html
+layout: layout.njk
 ---
 Reforming The Welfare System - Muriel Newman
 ============================================

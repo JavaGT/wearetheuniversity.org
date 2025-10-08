@@ -1,9 +1,13 @@
 ---
 slug: victoria-scores-well-in-international-ranking-system
-title: "Victoria scores well in international ranking system"
-date: 2013-05-08
-source-url: https://www.scoop.co.nz/stories/ED1305/S00043/victoria-scores-well-in-international-ranking-system.htm
+title: Victoria scores well in international ranking system
+date: 2013-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00043/victoria-scores-well-in-international-ranking-system.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/05/08/victoria-scores-well-in-international-ranking-system/index.html
+layout: layout.njk
 ---
 Victoria scores well in international ranking system
 ====================================================

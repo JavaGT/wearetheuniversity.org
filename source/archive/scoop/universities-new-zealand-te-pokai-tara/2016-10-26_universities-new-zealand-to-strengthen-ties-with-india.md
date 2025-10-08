@@ -1,9 +1,13 @@
 ---
 slug: universities-new-zealand-to-strengthen-ties-with-india
-title: "Universities New Zealand to strengthen ties with India"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/ED1610/S00089/universities-new-zealand-to-strengthen-ties-with-india.htm
+title: Universities New Zealand to strengthen ties with India
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00089/universities-new-zealand-to-strengthen-ties-with-india.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/10/26/universities-new-zealand-to-strengthen-ties-with-india/index.html
+layout: layout.njk
 ---
 Universities New Zealand to strengthen ties with India
 ======================================================

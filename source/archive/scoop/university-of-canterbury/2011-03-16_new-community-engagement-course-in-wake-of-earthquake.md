@@ -1,9 +1,13 @@
 ---
 slug: new-community-engagement-course-in-wake-of-earthquake
-title: "New Community Engagement course in wake of  earthquake"
-date: 2011-03-16
-source-url: https://www.scoop.co.nz/stories/ED1103/S00068/new-community-engagement-course-in-wake-of-earthquake.htm
+title: New Community Engagement course in wake of  earthquake
+date: 2011-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00068/new-community-engagement-course-in-wake-of-earthquake.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/03/16/new-community-engagement-course-in-wake-of-earthquake/index.html
+layout: layout.njk
 ---
 New Community Engagement course in wake of earthquake
 =====================================================

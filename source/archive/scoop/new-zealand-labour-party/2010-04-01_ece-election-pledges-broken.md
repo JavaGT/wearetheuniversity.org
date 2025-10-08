@@ -1,9 +1,11 @@
 ---
 slug: ece-election-pledges-broken
-title: "ECE Election Pledges Broken"
-date: 2010-04-01
+title: ECE Election Pledges Broken
+date: 2010-04-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1004/S00018/ece-election-pledges-broken.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/01/ece-election-pledges-broken/index.html
+layout: layout.njk
 ---
 ECE Election Pledges Broken
 ===========================

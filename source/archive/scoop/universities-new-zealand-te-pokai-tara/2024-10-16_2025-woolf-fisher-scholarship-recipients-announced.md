@@ -1,9 +1,13 @@
 ---
 slug: 2025-woolf-fisher-scholarship-recipients-announced
-title: "2025 Woolf Fisher Scholarship Recipients Announced"
-date: 2024-10-16
-source-url: https://www.scoop.co.nz/stories/ED2410/S00019/2025-woolf-fisher-scholarship-recipients-announced.htm
+title: 2025 Woolf Fisher Scholarship Recipients Announced
+date: 2024-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00019/2025-woolf-fisher-scholarship-recipients-announced.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2024/10/16/2025-woolf-fisher-scholarship-recipients-announced/index.html
+layout: layout.njk
 ---
 2025 Woolf Fisher Scholarship Recipients Announced
 ==================================================
@@ -26,14 +30,7 @@ These brilliant young scholars not only demonstrate academic excellence but also
 Sophia plans to investigate how the platelet activation pathway impairs immune response and the possible positive effects of aspirin in cancer patients post treatment. This research will explore fundamental cancer-immune interactions and could lead to more effective, accessible cancer treatments.
 
 Long-term, one of Sophia’s goals is to establish a fundamental cancer research group in New Zealand, with a specific focus on improving cancer prevention and treatment while addressing healthcare inequities, particularly for Māori and Pasifika populations.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> She says, “Having access to more resourcing in the UK means that I will gain useful skills and knowledge that I can bring back home to Aotearoa. One of my goals would be to improve research practices in New Zealand by introducing new models, more cost-effective technologies and cutting-edge laboratory techniques which will have a broad impact across a variety of disciplines.”
+She says, “Having access to more resourcing in the UK means that I will gain useful skills and knowledge that I can bring back home to Aotearoa. One of my goals would be to improve research practices in New Zealand by introducing new models, more cost-effective technologies and cutting-edge laboratory techniques which will have a broad impact across a variety of disciplines.”
 
 **Petra Fisher** is a recent University of Otago graduate with a Bachelor of Science in Physics and Computer Science and is currently completing an Honours in Physics. She is looking forward to pursuing a PhD at the University of Cambridge. Her research will focus on Astrophysical Fluid Dynamics, examining the formation and dynamics of galaxies and accretion discs.
 

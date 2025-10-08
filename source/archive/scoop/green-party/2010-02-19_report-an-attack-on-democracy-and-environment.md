@@ -1,9 +1,12 @@
 ---
 slug: report-an-attack-on-democracy-and-environment
-title: "Report an Attack on Democracy And Environment"
-date: 2010-02-19
-source-url: https://www.scoop.co.nz/stories/PA1002/S00290/report-an-attack-on-democracy-and-environment.htm
+title: Report an Attack on Democracy And Environment
+date: 2010-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00290/report-an-attack-on-democracy-and-environment.htm
 author: green-party
+permalink: /archive/2010/02/19/report-an-attack-on-democracy-and-environment/index.html
+layout: layout.njk
 ---
 Report an Attack on Democracy And Environment
 =============================================

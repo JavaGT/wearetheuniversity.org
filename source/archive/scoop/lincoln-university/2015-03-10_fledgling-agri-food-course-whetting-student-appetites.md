@@ -1,9 +1,13 @@
 ---
 slug: fledgling-agri-food-course-whetting-student-appetites
-title: "Fledgling agri-food course whetting student appetites"
-date: 2015-03-10
-source-url: https://www.scoop.co.nz/stories/BU1503/S00326/fledgling-agri-food-course-whetting-student-appetites.htm
+title: Fledgling agri-food course whetting student appetites
+date: 2015-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1503/S00326/fledgling-agri-food-course-whetting-student-appetites.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/03/10/fledgling-agri-food-course-whetting-student-appetites/index.html
+layout: layout.njk
 ---
 Fledgling agri-food course whetting student appetites
 =====================================================

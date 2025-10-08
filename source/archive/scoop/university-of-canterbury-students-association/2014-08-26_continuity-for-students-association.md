@@ -1,9 +1,12 @@
 ---
 slug: continuity-for-students-association
-title: "Continuity for Students’ Association"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/ED1408/S00137/continuity-for-students-association.htm
+title: Continuity for Students’ Association
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00137/continuity-for-students-association.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2014/08/26/continuity-for-students-association/index.html
+layout: layout.njk
 ---
 Continuity for Students’ Association
 ====================================

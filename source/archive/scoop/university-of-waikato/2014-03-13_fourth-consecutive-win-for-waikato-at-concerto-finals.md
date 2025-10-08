@@ -1,9 +1,13 @@
 ---
 slug: fourth-consecutive-win-for-waikato-at-concerto-finals
-title: "Fourth consecutive win for Waikato at Concerto finals"
-date: 2014-03-13
-source-url: https://www.scoop.co.nz/stories/ED1403/S00078/fourth-consecutive-win-for-waikato-at-concerto-finals.htm
+title: Fourth consecutive win for Waikato at Concerto finals
+date: 2014-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00078/fourth-consecutive-win-for-waikato-at-concerto-finals.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/13/fourth-consecutive-win-for-waikato-at-concerto-finals/index.html
+layout: layout.njk
 ---
 Fourth consecutive win for Waikato at Concerto finals
 =====================================================

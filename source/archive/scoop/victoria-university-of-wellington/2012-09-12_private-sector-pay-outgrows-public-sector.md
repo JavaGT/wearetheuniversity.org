@@ -1,9 +1,12 @@
 ---
 slug: private-sector-pay-outgrows-public-sector
-title: "Private sector pay outgrows public sector"
-date: 2012-09-12
-source-url: https://www.scoop.co.nz/stories/PA1209/S00168/private-sector-pay-outgrows-public-sector.htm
+title: Private sector pay outgrows public sector
+date: 2012-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00168/private-sector-pay-outgrows-public-sector.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/09/12/private-sector-pay-outgrows-public-sector/index.html
+layout: layout.njk
 ---
 Private sector pay outgrows public sector
 =========================================

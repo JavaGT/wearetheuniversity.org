@@ -1,9 +1,13 @@
 ---
 slug: job-stresses-put-pressure-on-aged-care-workforce
-title: "Job stresses put pressure on aged care workforce"
-date: 2017-05-17
-source-url: https://www.scoop.co.nz/stories/GE1705/S00110/job-stresses-put-pressure-on-aged-care-workforce.htm
+title: Job stresses put pressure on aged care workforce
+date: 2017-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00110/job-stresses-put-pressure-on-aged-care-workforce.htm
 author: aut-university
+permalink: >-
+  /archive/2017/05/17/job-stresses-put-pressure-on-aged-care-workforce/index.html
+layout: layout.njk
 ---
 Job stresses put pressure on aged care workforce
 ================================================

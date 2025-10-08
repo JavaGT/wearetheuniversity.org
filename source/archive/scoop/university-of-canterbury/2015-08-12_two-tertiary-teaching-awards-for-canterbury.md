@@ -1,9 +1,12 @@
 ---
 slug: two-tertiary-teaching-awards-for-canterbury
-title: "Two tertiary teaching awards for Canterbury"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/ED1508/S00049/two-tertiary-teaching-awards-for-canterbury.htm
+title: Two tertiary teaching awards for Canterbury
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00049/two-tertiary-teaching-awards-for-canterbury.htm
 author: university-of-canterbury
+permalink: /archive/2015/08/12/two-tertiary-teaching-awards-for-canterbury/index.html
+layout: layout.njk
 ---
 Two tertiary teaching awards for Canterbury
 ===========================================

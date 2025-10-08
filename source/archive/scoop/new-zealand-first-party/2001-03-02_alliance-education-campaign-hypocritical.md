@@ -1,9 +1,12 @@
 ---
 slug: alliance-education-campaign-hypocritical
-title: "Alliance Education Campaign Hypocritical"
-date: 2001-03-02
-source-url: https://www.scoop.co.nz/stories/PA0103/S00043/alliance-education-campaign-hypocritical.htm
+title: Alliance Education Campaign Hypocritical
+date: 2001-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00043/alliance-education-campaign-hypocritical.htm
 author: new-zealand-first-party
+permalink: /archive/2001/03/02/alliance-education-campaign-hypocritical/index.html
+layout: layout.njk
 ---
 Alliance Education Campaign Hypocritical
 ========================================

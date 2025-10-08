@@ -1,9 +1,12 @@
 ---
 slug: mapp-speech-productivity-and-the-workplace
-title: "Mapp Speech: Productivity and the Workplace"
-date: 2005-05-06
-source-url: https://www.scoop.co.nz/stories/PA0505/S00133/mapp-speech-productivity-and-the-workplace.htm
+title: 'Mapp Speech: Productivity and the Workplace'
+date: 2005-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00133/mapp-speech-productivity-and-the-workplace.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/06/mapp-speech-productivity-and-the-workplace/index.html
+layout: layout.njk
 ---
 Mapp Speech: Productivity and the Workplace
 ===========================================

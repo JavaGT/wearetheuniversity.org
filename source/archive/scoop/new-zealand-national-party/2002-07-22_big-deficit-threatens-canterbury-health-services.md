@@ -1,9 +1,13 @@
 ---
 slug: big-deficit-threatens-canterbury-health-services
-title: "Big Deficit Threatens Canterbury Health Services"
-date: 2002-07-22
-source-url: https://www.scoop.co.nz/stories/PA0207/S00599/big-deficit-threatens-canterbury-health-services.htm
+title: Big Deficit Threatens Canterbury Health Services
+date: 2002-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00599/big-deficit-threatens-canterbury-health-services.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/07/22/big-deficit-threatens-canterbury-health-services/index.html
+layout: layout.njk
 ---
 Big Deficit Threatens Canterbury Health Services
 ================================================

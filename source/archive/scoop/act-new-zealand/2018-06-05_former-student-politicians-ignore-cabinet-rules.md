@@ -1,9 +1,12 @@
 ---
 slug: former-student-politicians-ignore-cabinet-rules
-title: "Former student politicians ignore Cabinet rules"
-date: 2018-06-05
-source-url: https://www.scoop.co.nz/stories/PA1806/S00037/former-student-politicians-ignore-cabinet-rules.htm
+title: Former student politicians ignore Cabinet rules
+date: 2018-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00037/former-student-politicians-ignore-cabinet-rules.htm
 author: act-new-zealand
+permalink: /archive/2018/06/05/former-student-politicians-ignore-cabinet-rules/index.html
+layout: layout.njk
 ---
 Former student politicians ignore Cabinet rules
 ===============================================

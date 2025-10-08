@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-22-september-2003
-title: "ACT's The Letter  - Monday, 22 September 2003"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/PA0309/S00478/acts-the-letter-monday-22-september-2003.htm
+title: ACT's The Letter  - Monday, 22 September 2003
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00478/acts-the-letter-monday-22-september-2003.htm
 author: act-new-zealand
+permalink: /archive/2003/09/22/acts-the-letter-monday-22-september-2003/index.html
+layout: layout.njk
 ---
 ACT's The Letter - Monday, 22 September 2003
 ============================================

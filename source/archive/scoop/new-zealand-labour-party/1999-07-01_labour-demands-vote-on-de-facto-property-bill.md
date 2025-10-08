@@ -1,9 +1,12 @@
 ---
 slug: labour-demands-vote-on-de-facto-property-bill
-title: "Labour demands vote on de facto property bill"
-date: 1999-07-01
-source-url: https://www.scoop.co.nz/stories/PA9907/S00021/labour-demands-vote-on-de-facto-property-bill.htm
+title: Labour demands vote on de facto property bill
+date: 1999-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00021/labour-demands-vote-on-de-facto-property-bill.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/01/labour-demands-vote-on-de-facto-property-bill/index.html
+layout: layout.njk
 ---
 Labour demands vote on de facto property bill
 =============================================

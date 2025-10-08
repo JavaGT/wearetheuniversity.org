@@ -1,9 +1,12 @@
 ---
 slug: major-events-insurance-fund-proposed-by-act
-title: "Major Events Insurance Fund Proposed By ACT"
-date: 2021-08-24
-source-url: https://www.scoop.co.nz/stories/PA2108/S00207/major-events-insurance-fund-proposed-by-act.htm
+title: Major Events Insurance Fund Proposed By ACT
+date: 2021-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00207/major-events-insurance-fund-proposed-by-act.htm
 author: act-new-zealand
+permalink: /archive/2021/08/24/major-events-insurance-fund-proposed-by-act/index.html
+layout: layout.njk
 ---
 Major Events Insurance Fund Proposed By ACT
 ===========================================

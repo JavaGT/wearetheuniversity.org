@@ -1,9 +1,12 @@
 ---
 slug: decision-on-loan-repayments-welcomed
-title: "Decision on loan repayments welcomed"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/ED0002/S00013/decision-on-loan-repayments-welcomed.htm
+title: Decision on loan repayments welcomed
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00013/decision-on-loan-repayments-welcomed.htm
 author: association-of-university-staff
+permalink: /archive/2000/02/14/decision-on-loan-repayments-welcomed/index.html
+layout: layout.njk
 ---
 Decision on loan repayments welcomed
 ====================================

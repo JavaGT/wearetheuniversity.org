@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-decision-on-paris-agreement-welcomed
-title: "New Zealand decision on Paris agreement welcomed"
-date: 2016-08-17
-source-url: https://www.scoop.co.nz/stories/SC1608/S00060/new-zealand-decision-on-paris-agreement-welcomed.htm
+title: New Zealand decision on Paris agreement welcomed
+date: 2016-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1608/S00060/new-zealand-decision-on-paris-agreement-welcomed.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/08/17/new-zealand-decision-on-paris-agreement-welcomed/index.html
+layout: layout.njk
 ---
 New Zealand decision on Paris agreement welcomed
 ================================================

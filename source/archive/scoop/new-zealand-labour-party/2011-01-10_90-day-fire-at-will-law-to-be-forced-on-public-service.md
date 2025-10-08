@@ -1,9 +1,13 @@
 ---
 slug: 90-day-fire-at-will-law-to-be-forced-on-public-service
-title: "90-day fire at will law to be forced on public service"
-date: 2011-01-10
-source-url: https://www.scoop.co.nz/stories/PA1101/S00015/90-day-fire-at-will-law-to-be-forced-on-public-service.htm
+title: 90-day fire at will law to be forced on public service
+date: 2011-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00015/90-day-fire-at-will-law-to-be-forced-on-public-service.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/01/10/90-day-fire-at-will-law-to-be-forced-on-public-service/index.html
+layout: layout.njk
 ---
 90-day fire at will law to be forced on public service
 ======================================================

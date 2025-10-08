@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-lower-media-freedom-ranking-alarming
-title: "New Zealand’s lower media freedom ranking \"alarming\""
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/PO1705/S00031/new-zealands-lower-media-freedom-ranking-alarming.htm
+title: New Zealand’s lower media freedom ranking "alarming"
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00031/new-zealands-lower-media-freedom-ranking-alarming.htm
 author: massey-university
+permalink: >-
+  /archive/2017/05/02/new-zealands-lower-media-freedom-ranking-alarming/index.html
+layout: layout.njk
 ---
 New Zealand’s lower media freedom ranking “alarming”
 ====================================================

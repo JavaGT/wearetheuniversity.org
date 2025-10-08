@@ -1,9 +1,16 @@
 ---
-slug: university-of-waikato-improves-sustainability-ranking-remains-among-the-worlds-best
-title: "University Of Waikato Improves Sustainability Ranking, Remains Among The World’s Best"
-date: 2024-12-11
-source-url: https://www.scoop.co.nz/stories/ED2412/S00036/university-of-waikato-improves-sustainability-ranking-remains-among-the-worlds-best.htm
+slug: >-
+  university-of-waikato-improves-sustainability-ranking-remains-among-the-worlds-best
+title: >-
+  University Of Waikato Improves Sustainability Ranking, Remains Among The
+  World’s Best
+date: 2024-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2412/S00036/university-of-waikato-improves-sustainability-ranking-remains-among-the-worlds-best.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2024/12/11/university-of-waikato-improves-sustainability-ranking-remains-among-the-worlds-best/index.html
+layout: layout.njk
 ---
 University Of Waikato Improves Sustainability Ranking, Remains Among The World’s Best
 =====================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: kiwi-bushrangers-multiple-murders-brought-to-light
-title: "Kiwi bushrangers’ multiple murders brought to light"
-date: 2016-06-21
-source-url: https://www.scoop.co.nz/stories/ED1606/S00076/kiwi-bushrangers-multiple-murders-brought-to-light.htm
+title: Kiwi bushrangers’ multiple murders brought to light
+date: 2016-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00076/kiwi-bushrangers-multiple-murders-brought-to-light.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/21/kiwi-bushrangers-multiple-murders-brought-to-light/index.html
+layout: layout.njk
 ---
 Kiwi bushrangers’ multiple murders brought to light
 ===================================================

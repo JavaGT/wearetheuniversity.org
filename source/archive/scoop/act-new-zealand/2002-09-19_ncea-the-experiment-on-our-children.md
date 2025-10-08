@@ -1,9 +1,12 @@
 ---
 slug: ncea-the-experiment-on-our-children
-title: "NCEA: The Experiment on Our Children"
-date: 2002-09-19
-source-url: https://www.scoop.co.nz/stories/PA0209/S00333/ncea-the-experiment-on-our-children.htm
+title: 'NCEA: The Experiment on Our Children'
+date: 2002-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00333/ncea-the-experiment-on-our-children.htm
 author: act-new-zealand
+permalink: /archive/2002/09/19/ncea-the-experiment-on-our-children/index.html
+layout: layout.njk
 ---
 NCEA: The Experiment on Our Children
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: ecentre-helps-kiwi-firms-ride-latest-tech-wave
-title: "ecentre helps Kiwi firms ride latest tech wave"
-date: 2013-11-13
-source-url: https://www.scoop.co.nz/stories/AK1311/S00359/ecentre-helps-kiwi-firms-ride-latest-tech-wave.htm
+title: ecentre helps Kiwi firms ride latest tech wave
+date: 2013-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00359/ecentre-helps-kiwi-firms-ride-latest-tech-wave.htm
 author: massey-university
+permalink: /archive/2013/11/13/ecentre-helps-kiwi-firms-ride-latest-tech-wave/index.html
+layout: layout.njk
 ---
 ecentre helps Kiwi firms ride latest tech wave
 ==============================================

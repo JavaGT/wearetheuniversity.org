@@ -1,9 +1,12 @@
 ---
 slug: govt-could-resuscitate-mataura-mill
-title: "Gov't Could Resuscitate Mataura Mill"
-date: 2000-07-13
-source-url: https://www.scoop.co.nz/stories/PA0007/S00213/govt-could-resuscitate-mataura-mill.htm
+title: Gov't Could Resuscitate Mataura Mill
+date: 2000-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00213/govt-could-resuscitate-mataura-mill.htm
 author: green-party
+permalink: /archive/2000/07/13/govt-could-resuscitate-mataura-mill/index.html
+layout: layout.njk
 ---
 Gov't Could Resuscitate Mataura Mill
 ====================================

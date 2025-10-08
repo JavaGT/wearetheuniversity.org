@@ -1,9 +1,12 @@
 ---
 slug: world-premier-of-six-science-films
-title: "World Premier of six science films"
-date: 2010-11-11
-source-url: https://www.scoop.co.nz/stories/SC1011/S00036/world-premier-of-six-science-films.htm
+title: World Premier of six science films
+date: 2010-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1011/S00036/world-premier-of-six-science-films.htm
 author: university-of-otago
+permalink: /archive/2010/11/11/world-premier-of-six-science-films/index.html
+layout: layout.njk
 ---
 World Premier of six science films
 ==================================

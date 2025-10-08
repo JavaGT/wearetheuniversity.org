@@ -1,9 +1,13 @@
 ---
 slug: john-key-address-to-the-2014-nz-post-election-conference
-title: "John Key: Address to the 2014 NZ Post-Election Conference"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/PA1412/S00054/john-key-address-to-the-2014-nz-post-election-conference.htm
+title: 'John Key: Address to the 2014 NZ Post-Election Conference'
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00054/john-key-address-to-the-2014-nz-post-election-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/12/03/john-key-address-to-the-2014-nz-post-election-conference/index.html
+layout: layout.njk
 ---
 John Key: Address to the 2014 NZ Post-Election Conference
 =========================================================

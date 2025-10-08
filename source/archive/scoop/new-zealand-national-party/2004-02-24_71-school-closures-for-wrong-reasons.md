@@ -1,9 +1,12 @@
 ---
 slug: 71-school-closures-for-wrong-reasons
-title: "71 School closures for wrong reasons"
-date: 2004-02-24
-source-url: https://www.scoop.co.nz/stories/PA0402/S00426/71-school-closures-for-wrong-reasons.htm
+title: 71 School closures for wrong reasons
+date: 2004-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00426/71-school-closures-for-wrong-reasons.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/24/71-school-closures-for-wrong-reasons/index.html
+layout: layout.njk
 ---
 71 School closures for wrong reasons
 ====================================

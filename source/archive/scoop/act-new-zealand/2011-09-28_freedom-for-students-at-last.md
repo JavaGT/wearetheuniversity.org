@@ -1,9 +1,11 @@
 ---
 slug: freedom-for-students-at-last
-title: "Freedom For Students At Last"
-date: 2011-09-28
+title: Freedom For Students At Last
+date: 2011-09-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1109/S00558/freedom-for-students-at-last.htm
 author: act-new-zealand
+permalink: /archive/2011/09/28/freedom-for-students-at-last/index.html
+layout: layout.njk
 ---
 Freedom For Students At Last
 ============================

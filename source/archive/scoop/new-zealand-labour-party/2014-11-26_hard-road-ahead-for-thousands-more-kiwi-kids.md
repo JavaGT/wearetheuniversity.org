@@ -1,9 +1,12 @@
 ---
 slug: hard-road-ahead-for-thousands-more-kiwi-kids
-title: "Hard road ahead for thousands more Kiwi kids"
-date: 2014-11-26
-source-url: https://www.scoop.co.nz/stories/PA1411/S00331/hard-road-ahead-for-thousands-more-kiwi-kids.htm
+title: Hard road ahead for thousands more Kiwi kids
+date: 2014-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00331/hard-road-ahead-for-thousands-more-kiwi-kids.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/26/hard-road-ahead-for-thousands-more-kiwi-kids/index.html
+layout: layout.njk
 ---
 Hard road ahead for thousands more Kiwi kids
 ============================================

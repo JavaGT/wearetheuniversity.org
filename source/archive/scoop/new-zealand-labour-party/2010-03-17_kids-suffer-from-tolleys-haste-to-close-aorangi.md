@@ -1,9 +1,12 @@
 ---
 slug: kids-suffer-from-tolleys-haste-to-close-aorangi
-title: "Kids suffer from Tolley’s haste to close Aorangi"
-date: 2010-03-17
-source-url: https://www.scoop.co.nz/stories/PA1003/S00242/kids-suffer-from-tolleys-haste-to-close-aorangi.htm
+title: Kids suffer from Tolley’s haste to close Aorangi
+date: 2010-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00242/kids-suffer-from-tolleys-haste-to-close-aorangi.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/17/kids-suffer-from-tolleys-haste-to-close-aorangi/index.html
+layout: layout.njk
 ---
 Kids suffer from Tolley’s haste to close Aorangi
 ================================================

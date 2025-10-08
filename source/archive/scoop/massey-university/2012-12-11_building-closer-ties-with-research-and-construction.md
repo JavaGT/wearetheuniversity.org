@@ -1,9 +1,13 @@
 ---
 slug: building-closer-ties-with-research-and-construction
-title: "Building closer ties with research and construction"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/ED1212/S00067/building-closer-ties-with-research-and-construction.htm
+title: Building closer ties with research and construction
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00067/building-closer-ties-with-research-and-construction.htm
 author: massey-university
+permalink: >-
+  /archive/2012/12/11/building-closer-ties-with-research-and-construction/index.html
+layout: layout.njk
 ---
 Building closer ties with research and construction
 ===================================================

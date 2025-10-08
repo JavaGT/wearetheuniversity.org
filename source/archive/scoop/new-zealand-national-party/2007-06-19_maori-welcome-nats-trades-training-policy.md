@@ -1,9 +1,12 @@
 ---
 slug: maori-welcome-nats-trades-training-policy
-title: "Maori welcome Nats trades training policy"
-date: 2007-06-19
-source-url: https://www.scoop.co.nz/stories/PA0706/S00358/maori-welcome-nats-trades-training-policy.htm
+title: Maori welcome Nats trades training policy
+date: 2007-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00358/maori-welcome-nats-trades-training-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/19/maori-welcome-nats-trades-training-policy/index.html
+layout: layout.njk
 ---
 Maori welcome Nats trades training policy
 =========================================

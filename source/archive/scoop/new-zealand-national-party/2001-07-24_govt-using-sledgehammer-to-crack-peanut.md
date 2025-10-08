@@ -1,9 +1,12 @@
 ---
 slug: govt-using-sledgehammer-to-crack-peanut
-title: "Govt Using Sledgehammer To Crack Peanut"
-date: 2001-07-24
-source-url: https://www.scoop.co.nz/stories/PA0107/S00400/govt-using-sledgehammer-to-crack-peanut.htm
+title: Govt Using Sledgehammer To Crack Peanut
+date: 2001-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00400/govt-using-sledgehammer-to-crack-peanut.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/24/govt-using-sledgehammer-to-crack-peanut/index.html
+layout: layout.njk
 ---
 Govt Using Sledgehammer To Crack Peanut
 =======================================

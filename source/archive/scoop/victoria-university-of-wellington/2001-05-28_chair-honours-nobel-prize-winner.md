@@ -1,9 +1,12 @@
 ---
 slug: chair-honours-nobel-prize-winner
-title: "Chair honours Nobel Prize Winner"
-date: 2001-05-28
-source-url: https://www.scoop.co.nz/stories/SC0105/S00082/chair-honours-nobel-prize-winner.htm
+title: Chair honours Nobel Prize Winner
+date: 2001-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0105/S00082/chair-honours-nobel-prize-winner.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/05/28/chair-honours-nobel-prize-winner/index.html
+layout: layout.njk
 ---
 Chair honours Nobel Prize Winner
 ================================

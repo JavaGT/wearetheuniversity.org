@@ -1,9 +1,13 @@
 ---
 slug: ministers-words-ring-hollow-in-wake-of-latest-earthquakes
-title: "Minister’s words ring hollow in wake of latest earthquakes"
-date: 2011-12-28
-source-url: https://www.scoop.co.nz/stories/PA1112/S00194/ministers-words-ring-hollow-in-wake-of-latest-earthquakes.htm
+title: Minister’s words ring hollow in wake of latest earthquakes
+date: 2011-12-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00194/ministers-words-ring-hollow-in-wake-of-latest-earthquakes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/12/28/ministers-words-ring-hollow-in-wake-of-latest-earthquakes/index.html
+layout: layout.njk
 ---
 Minister’s words ring hollow in wake of latest earthquakes
 ==========================================================

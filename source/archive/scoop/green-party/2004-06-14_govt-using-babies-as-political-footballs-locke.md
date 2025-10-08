@@ -1,9 +1,12 @@
 ---
 slug: govt-using-babies-as-political-footballs-locke
-title: "Govt using babies as political footballs: Locke"
-date: 2004-06-14
-source-url: https://www.scoop.co.nz/stories/PA0406/S00190/govt-using-babies-as-political-footballs-locke.htm
+title: 'Govt using babies as political footballs: Locke'
+date: 2004-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00190/govt-using-babies-as-political-footballs-locke.htm
 author: green-party
+permalink: /archive/2004/06/14/govt-using-babies-as-political-footballs-locke/index.html
+layout: layout.njk
 ---
 Govt using babies as political footballs: Locke
 ===============================================

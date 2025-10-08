@@ -1,9 +1,11 @@
 ---
 slug: waiting-for-equal-pay
-title: "Waiting for equal pay"
-date: 2018-03-08
+title: Waiting for equal pay
+date: 2018-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1803/S00134/waiting-for-equal-pay.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2018/03/08/waiting-for-equal-pay/index.html
+layout: layout.njk
 ---
 Waiting for equal pay
 =====================

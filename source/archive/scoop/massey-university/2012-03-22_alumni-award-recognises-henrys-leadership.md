@@ -1,9 +1,12 @@
 ---
 slug: alumni-award-recognises-henrys-leadership
-title: "Alumni award recognises Henry's leadership"
-date: 2012-03-22
-source-url: https://www.scoop.co.nz/stories/ED1203/S00101/alumni-award-recognises-henrys-leadership.htm
+title: Alumni award recognises Henry's leadership
+date: 2012-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00101/alumni-award-recognises-henrys-leadership.htm
 author: massey-university
+permalink: /archive/2012/03/22/alumni-award-recognises-henrys-leadership/index.html
+layout: layout.njk
 ---
 Alumni award recognises Henry's leadership
 ==========================================

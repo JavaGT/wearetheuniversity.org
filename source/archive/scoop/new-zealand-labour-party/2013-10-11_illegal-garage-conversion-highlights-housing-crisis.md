@@ -1,9 +1,13 @@
 ---
 slug: illegal-garage-conversion-highlights-housing-crisis
-title: "Illegal garage conversion highlights housing crisis"
-date: 2013-10-11
-source-url: https://www.scoop.co.nz/stories/PA1310/S00189/illegal-garage-conversion-highlights-housing-crisis.htm
+title: Illegal garage conversion highlights housing crisis
+date: 2013-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00189/illegal-garage-conversion-highlights-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/10/11/illegal-garage-conversion-highlights-housing-crisis/index.html
+layout: layout.njk
 ---
 Illegal garage conversion highlights housing crisis
 ===================================================

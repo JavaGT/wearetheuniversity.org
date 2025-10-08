@@ -1,9 +1,13 @@
 ---
 slug: government-relying-on-something-that-doesnt-exist-for-energy-shortages
-title: "Government Relying On Something That Doesn’t Exist For Energy Shortages"
-date: 2021-08-10
-source-url: https://www.scoop.co.nz/stories/PA2108/S00095/government-relying-on-something-that-doesnt-exist-for-energy-shortages.htm
+title: Government Relying On Something That Doesn’t Exist For Energy Shortages
+date: 2021-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00095/government-relying-on-something-that-doesnt-exist-for-energy-shortages.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/08/10/government-relying-on-something-that-doesnt-exist-for-energy-shortages/index.html
+layout: layout.njk
 ---
 Government Relying On Something That Doesn’t Exist For Energy Shortages
 =======================================================================

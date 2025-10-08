@@ -1,8 +1,11 @@
 ---
 slug: scores-‘incredible-originality-wins-composers-prize
-title: "Score’s ‘incredible originality’ wins composer’s prize"
-date: 2015-12-16
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/score_s-_incredible-originality-wins-composers-prize.html
+title: Score’s ‘incredible originality’ wins composer’s prize
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/score_s-_incredible-originality-wins-composers-prize.html
+permalink: /archive/2015/12/16/scores-/index.html
+layout: layout.njk
 ---
 Score’s ‘incredible originality’ wins composer’s prize
 ======================================================

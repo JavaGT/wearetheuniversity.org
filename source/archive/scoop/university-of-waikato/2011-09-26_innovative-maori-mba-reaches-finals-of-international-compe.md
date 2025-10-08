@@ -1,9 +1,13 @@
 ---
 slug: innovative-maori-mba-reaches-finals-of-international-compe
-title: "Innovative ‘Maori MBA’ reaches finals of international compe"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/CU1109/S00377/innovative-maori-mba-reaches-finals-of-international-compe.htm
+title: Innovative ‘Maori MBA’ reaches finals of international compe
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1109/S00377/innovative-maori-mba-reaches-finals-of-international-compe.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/09/26/innovative-maori-mba-reaches-finals-of-international-compe/index.html
+layout: layout.njk
 ---
 Innovative ‘Maori MBA’ reaches finals of international compe
 ============================================================

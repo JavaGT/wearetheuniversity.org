@@ -1,9 +1,13 @@
 ---
 slug: sailing-and-study-challenges-for-massey-olympian
-title: "Sailing and study challenges for Massey Olympian"
-date: 2016-07-26
-source-url: https://www.scoop.co.nz/stories/CU1607/S00317/sailing-and-study-challenges-for-massey-olympian.htm
+title: Sailing and study challenges for Massey Olympian
+date: 2016-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1607/S00317/sailing-and-study-challenges-for-massey-olympian.htm
 author: massey-university
+permalink: >-
+  /archive/2016/07/26/sailing-and-study-challenges-for-massey-olympian/index.html
+layout: layout.njk
 ---
 Sailing and study challenges for Massey Olympian
 ================================================

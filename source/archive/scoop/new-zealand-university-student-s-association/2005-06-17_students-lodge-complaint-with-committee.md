@@ -1,9 +1,12 @@
 ---
 slug: students-lodge-complaint-with-committee
-title: "Students lodge complaint with Committee"
-date: 2005-06-17
-source-url: https://www.scoop.co.nz/stories/ED0506/S00049/students-lodge-complaint-with-committee.htm
+title: Students lodge complaint with Committee
+date: 2005-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00049/students-lodge-complaint-with-committee.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/06/17/students-lodge-complaint-with-committee/index.html
+layout: layout.njk
 ---
 Students lodge complaint with Committee
 =======================================

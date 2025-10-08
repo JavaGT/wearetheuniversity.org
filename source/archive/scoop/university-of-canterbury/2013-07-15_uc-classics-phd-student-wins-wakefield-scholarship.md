@@ -1,9 +1,13 @@
 ---
 slug: uc-classics-phd-student-wins-wakefield-scholarship
-title: "UC classics PhD student wins Wakefield Scholarship"
-date: 2013-07-15
-source-url: https://www.scoop.co.nz/stories/ED1307/S00081/uc-classics-phd-student-wins-wakefield-scholarship.htm
+title: UC classics PhD student wins Wakefield Scholarship
+date: 2013-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00081/uc-classics-phd-student-wins-wakefield-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/15/uc-classics-phd-student-wins-wakefield-scholarship/index.html
+layout: layout.njk
 ---
 UC classics PhD student wins Wakefield Scholarship
 ==================================================

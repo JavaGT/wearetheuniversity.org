@@ -1,9 +1,12 @@
 ---
 slug: nz-first-seeks-to-steal-maori-land
-title: "NZ First seeks to steal Maori land"
-date: 2005-06-21
-source-url: https://www.scoop.co.nz/stories/PA0506/S00473/nz-first-seeks-to-steal-maori-land.htm
+title: NZ First seeks to steal Maori land
+date: 2005-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00473/nz-first-seeks-to-steal-maori-land.htm
 author: green-party
+permalink: /archive/2005/06/21/nz-first-seeks-to-steal-maori-land/index.html
+layout: layout.njk
 ---
 NZ First seeks to steal Maori land
 ==================================

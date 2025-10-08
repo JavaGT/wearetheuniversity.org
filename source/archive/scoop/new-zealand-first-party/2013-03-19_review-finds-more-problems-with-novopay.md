@@ -1,9 +1,12 @@
 ---
 slug: review-finds-more-problems-with-novopay
-title: "Review Finds More Problems with Novopay"
-date: 2013-03-19
-source-url: https://www.scoop.co.nz/stories/PA1303/S00322/review-finds-more-problems-with-novopay.htm
+title: Review Finds More Problems with Novopay
+date: 2013-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00322/review-finds-more-problems-with-novopay.htm
 author: new-zealand-first-party
+permalink: /archive/2013/03/19/review-finds-more-problems-with-novopay/index.html
+layout: layout.njk
 ---
 Review Finds More Problems with Novopay
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: study-shows-links-between-dust-and-breast-milk
-title: "Study shows links between dust and breast milk"
-date: 2013-08-14
-source-url: https://www.scoop.co.nz/stories/GE1308/S00075/study-shows-links-between-dust-and-breast-milk.htm
+title: Study shows links between dust and breast milk
+date: 2013-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1308/S00075/study-shows-links-between-dust-and-breast-milk.htm
 author: massey-university
+permalink: /archive/2013/08/14/study-shows-links-between-dust-and-breast-milk/index.html
+layout: layout.njk
 ---
 Study shows links between dust and breast milk
 ==============================================

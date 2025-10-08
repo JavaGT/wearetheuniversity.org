@@ -1,9 +1,13 @@
 ---
 slug: former-waikato-uni-student-receives-top-rugby-award
-title: "Former Waikato Uni student receives top rugby award"
-date: 2014-10-21
-source-url: https://www.scoop.co.nz/stories/ED1410/S00118/former-waikato-uni-student-receives-top-rugby-award.htm
+title: Former Waikato Uni student receives top rugby award
+date: 2014-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00118/former-waikato-uni-student-receives-top-rugby-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/10/21/former-waikato-uni-student-receives-top-rugby-award/index.html
+layout: layout.njk
 ---
 Former Waikato Uni student receives top rugby award
 ===================================================

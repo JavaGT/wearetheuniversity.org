@@ -1,9 +1,13 @@
 ---
 slug: uc-research-to-help-with-intensive-cardiovascular-problems
-title: "UC research to help with intensive cardiovascular problems"
-date: 2014-01-02
-source-url: https://www.scoop.co.nz/stories/GE1401/S00003/uc-research-to-help-with-intensive-cardiovascular-problems.htm
+title: UC research to help with intensive cardiovascular problems
+date: 2014-01-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1401/S00003/uc-research-to-help-with-intensive-cardiovascular-problems.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/02/uc-research-to-help-with-intensive-cardiovascular-problems/index.html
+layout: layout.njk
 ---
 UC research to help with intensive cardiovascular problems
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: cosgrove-to-visit-youth-justice-centre
-title: "Cosgrove to visit youth Justice Centre"
-date: 2001-04-18
-source-url: https://www.scoop.co.nz/stories/PA0104/S00239/cosgrove-to-visit-youth-justice-centre.htm
+title: Cosgrove to visit youth Justice Centre
+date: 2001-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00239/cosgrove-to-visit-youth-justice-centre.htm
 author: new-zealand-labour-party
+permalink: /archive/2001/04/18/cosgrove-to-visit-youth-justice-centre/index.html
+layout: layout.njk
 ---
 Cosgrove to visit youth Justice Centre
 ======================================

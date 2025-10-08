@@ -1,9 +1,12 @@
 ---
 slug: the-cuts-which-keep-on-hurting
-title: "The cuts which keep on hurting"
-date: 2010-05-06
-source-url: https://www.scoop.co.nz/stories/PA1005/S00099/the-cuts-which-keep-on-hurting.htm
+title: The cuts which keep on hurting
+date: 2010-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00099/the-cuts-which-keep-on-hurting.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/06/the-cuts-which-keep-on-hurting/index.html
+layout: layout.njk
 ---
 The cuts which keep on hurting
 ==============================

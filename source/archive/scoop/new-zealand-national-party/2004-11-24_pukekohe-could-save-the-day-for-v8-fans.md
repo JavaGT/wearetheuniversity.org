@@ -1,9 +1,12 @@
 ---
 slug: pukekohe-could-save-the-day-for-v8-fans
-title: "Pukekohe could save the day for V8 fans"
-date: 2004-11-24
-source-url: https://www.scoop.co.nz/stories/PA0411/S00518/pukekohe-could-save-the-day-for-v8-fans.htm
+title: Pukekohe could save the day for V8 fans
+date: 2004-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00518/pukekohe-could-save-the-day-for-v8-fans.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/24/pukekohe-could-save-the-day-for-v8-fans/index.html
+layout: layout.njk
 ---
 Pukekohe could save the day for V8 fans
 =======================================

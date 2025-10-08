@@ -1,8 +1,12 @@
 ---
 slug: li-family-grants-boost-cancer-biomarker-research
-title: "Li family grants boost cancer biomarker research"
-date: 2016-04-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/li-family-grants-boost-cancer-biomarker-research-.html
+title: Li family grants boost cancer biomarker research
+date: 2016-04-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/li-family-grants-boost-cancer-biomarker-research-.html
+permalink: >-
+  /archive/2016/04/07/li-family-grants-boost-cancer-biomarker-research/index.html
+layout: layout.njk
 ---
 Li family grants boost cancer biomarker research
 ================================================

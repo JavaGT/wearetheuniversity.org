@@ -1,9 +1,13 @@
 ---
 slug: kiwi-academics-honoured-at-global-doctoral-awards
-title: "Kiwi academics honoured at global doctoral awards"
-date: 2006-08-09
-source-url: https://www.scoop.co.nz/stories/ED0608/S00030/kiwi-academics-honoured-at-global-doctoral-awards.htm
+title: Kiwi academics honoured at global doctoral awards
+date: 2006-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00030/kiwi-academics-honoured-at-global-doctoral-awards.htm
 author: aut-university
+permalink: >-
+  /archive/2006/08/09/kiwi-academics-honoured-at-global-doctoral-awards/index.html
+layout: layout.njk
 ---
 Kiwi academics honoured at global doctoral awards
 =================================================

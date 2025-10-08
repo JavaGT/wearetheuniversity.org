@@ -1,9 +1,12 @@
 ---
 slug: employers-must-adapt-to-older-workers-needs
-title: "Employers must adapt to older workers’ needs"
-date: 2015-07-22
-source-url: https://www.scoop.co.nz/stories/BU1507/S00671/employers-must-adapt-to-older-workers-needs.htm
+title: Employers must adapt to older workers’ needs
+date: 2015-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1507/S00671/employers-must-adapt-to-older-workers-needs.htm
 author: massey-university
+permalink: /archive/2015/07/22/employers-must-adapt-to-older-workers-needs/index.html
+layout: layout.njk
 ---
 Employers must adapt to older workers’ needs
 ============================================

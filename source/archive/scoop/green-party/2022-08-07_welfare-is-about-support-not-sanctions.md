@@ -1,9 +1,12 @@
 ---
 slug: welfare-is-about-support-not-sanctions
-title: "Welfare Is About Support, Not Sanctions"
-date: 2022-08-07
-source-url: https://www.scoop.co.nz/stories/PO2208/S00060/welfare-is-about-support-not-sanctions.htm
+title: Welfare Is About Support, Not Sanctions
+date: 2022-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2208/S00060/welfare-is-about-support-not-sanctions.htm
 author: green-party
+permalink: /archive/2022/08/07/welfare-is-about-support-not-sanctions/index.html
+layout: layout.njk
 ---
 Welfare Is About Support, Not Sanctions
 =======================================

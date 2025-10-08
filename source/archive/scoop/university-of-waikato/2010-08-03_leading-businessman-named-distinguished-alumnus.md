@@ -1,9 +1,12 @@
 ---
 slug: leading-businessman-named-distinguished-alumnus
-title: "Leading businessman named Distinguished Alumnus"
-date: 2010-08-03
-source-url: https://www.scoop.co.nz/stories/ED1008/S00007/leading-businessman-named-distinguished-alumnus.htm
+title: Leading businessman named Distinguished Alumnus
+date: 2010-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00007/leading-businessman-named-distinguished-alumnus.htm
 author: university-of-waikato
+permalink: /archive/2010/08/03/leading-businessman-named-distinguished-alumnus/index.html
+layout: layout.njk
 ---
 Leading businessman named Distinguished Alumnus
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: nanocamp-2012-the-future-of-science
-title: "NanoCamp 2012 – the future of science"
-date: 2012-01-20
-source-url: https://www.scoop.co.nz/stories/SC1201/S00018/nanocamp-2012-the-future-of-science.htm
+title: NanoCamp 2012 – the future of science
+date: 2012-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1201/S00018/nanocamp-2012-the-future-of-science.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/01/20/nanocamp-2012-the-future-of-science/index.html
+layout: layout.njk
 ---
 NanoCamp 2012 – the future of science
 =====================================

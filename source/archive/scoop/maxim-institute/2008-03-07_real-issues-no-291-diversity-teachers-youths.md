@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-291-diversity-teachers-youths
-title: "Real Issues No. 291 – Diversity, Teachers, Youths"
-date: 2008-03-07
-source-url: https://www.scoop.co.nz/stories/PO0803/S00069/real-issues-no-291-diversity-teachers-youths.htm
+title: Real Issues No. 291 – Diversity, Teachers, Youths
+date: 2008-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0803/S00069/real-issues-no-291-diversity-teachers-youths.htm
 author: maxim-institute
+permalink: /archive/2008/03/07/real-issues-no-291-diversity-teachers-youths/index.html
+layout: layout.njk
 ---
 Real Issues No. 291 – Diversity, Teachers, Youths
 =================================================

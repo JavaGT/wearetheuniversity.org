@@ -1,8 +1,12 @@
 ---
 slug: lack-of-food-contributing-to-students-poor-health-and-absenteeism
-title: "Lack of food contributing to students’ poor health and absenteeism"
-date: 2017-11-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/lack-of-food-contributing-to-students-poor-health-and-absenteeis.html
+title: Lack of food contributing to students’ poor health and absenteeism
+date: 2017-11-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/lack-of-food-contributing-to-students-poor-health-and-absenteeis.html
+permalink: >-
+  /archive/2017/11/23/lack-of-food-contributing-to-students-poor-health-and-absenteeism/index.html
+layout: layout.njk
 ---
 Lack of food contributing to students’ poor health and absenteeism
 ==================================================================

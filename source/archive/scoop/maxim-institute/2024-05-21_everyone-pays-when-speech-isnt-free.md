@@ -1,9 +1,12 @@
 ---
 slug: everyone-pays-when-speech-isnt-free
-title: "Everyone Pays When Speech Isn’t Free"
-date: 2024-05-21
-source-url: https://www.scoop.co.nz/stories/ED2405/S00072/everyone-pays-when-speech-isnt-free.htm
+title: Everyone Pays When Speech Isn’t Free
+date: 2024-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00072/everyone-pays-when-speech-isnt-free.htm
 author: maxim-institute
+permalink: /archive/2024/05/21/everyone-pays-when-speech-isnt-free/index.html
+layout: layout.njk
 ---
 Everyone Pays When Speech Isn’t Free
 ====================================

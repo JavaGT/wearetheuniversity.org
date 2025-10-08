@@ -1,9 +1,12 @@
 ---
 slug: aut-graduation-becomes-a-family-affair
-title: "AUT Graduation becomes a family affair"
-date: 2016-12-16
-source-url: https://www.scoop.co.nz/stories/ED1612/S00064/aut-graduation-becomes-a-family-affair.htm
+title: AUT Graduation becomes a family affair
+date: 2016-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00064/aut-graduation-becomes-a-family-affair.htm
 author: aut-university
+permalink: /archive/2016/12/16/aut-graduation-becomes-a-family-affair/index.html
+layout: layout.njk
 ---
 AUT Graduation becomes a family affair
 ======================================

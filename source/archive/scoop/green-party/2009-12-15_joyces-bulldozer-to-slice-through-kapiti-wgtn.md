@@ -1,9 +1,12 @@
 ---
 slug: joyces-bulldozer-to-slice-through-kapiti-wgtn
-title: "Joyce’s bulldozer to slice through Kapiti, Wgtn"
-date: 2009-12-15
-source-url: https://www.scoop.co.nz/stories/PA0912/S00246/joyces-bulldozer-to-slice-through-kapiti-wgtn.htm
+title: Joyce’s bulldozer to slice through Kapiti, Wgtn
+date: 2009-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00246/joyces-bulldozer-to-slice-through-kapiti-wgtn.htm
 author: green-party
+permalink: /archive/2009/12/15/joyces-bulldozer-to-slice-through-kapiti-wgtn/index.html
+layout: layout.njk
 ---
 Joyce’s bulldozer to slice through Kapiti, Wgtn
 ===============================================

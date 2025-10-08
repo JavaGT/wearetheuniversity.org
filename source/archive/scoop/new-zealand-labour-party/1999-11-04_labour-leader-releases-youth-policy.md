@@ -1,9 +1,12 @@
 ---
 slug: labour-leader-releases-youth-policy
-title: "Labour Leader releases youth policy"
-date: 1999-11-04
-source-url: https://www.scoop.co.nz/stories/PO9911/S00026/labour-leader-releases-youth-policy.htm
+title: Labour Leader releases youth policy
+date: 1999-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00026/labour-leader-releases-youth-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/04/labour-leader-releases-youth-policy/index.html
+layout: layout.njk
 ---
 Labour Leader releases youth policy
 ===================================

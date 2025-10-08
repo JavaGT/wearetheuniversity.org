@@ -1,9 +1,12 @@
 ---
 slug: aut-in-perfect-position-to-freeze-student-fees
-title: "AUT In Perfect Position To Freeze Student Fees"
-date: 2001-05-28
-source-url: https://www.scoop.co.nz/stories/ED0105/S00062/aut-in-perfect-position-to-freeze-student-fees.htm
+title: AUT In Perfect Position To Freeze Student Fees
+date: 2001-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00062/aut-in-perfect-position-to-freeze-student-fees.htm
 author: aut-student-association
+permalink: /archive/2001/05/28/aut-in-perfect-position-to-freeze-student-fees/index.html
+layout: layout.njk
 ---
 AUT In Perfect Position To Freeze Student Fees
 ==============================================

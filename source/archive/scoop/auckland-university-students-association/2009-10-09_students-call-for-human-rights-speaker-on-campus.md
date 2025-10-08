@@ -1,9 +1,13 @@
 ---
 slug: students-call-for-human-rights-speaker-on-campus
-title: "Students call for  human rights speaker on campus"
-date: 2009-10-09
-source-url: https://www.scoop.co.nz/stories/PO0910/S00138/students-call-for-human-rights-speaker-on-campus.htm
+title: Students call for  human rights speaker on campus
+date: 2009-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00138/students-call-for-human-rights-speaker-on-campus.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2009/10/09/students-call-for-human-rights-speaker-on-campus/index.html
+layout: layout.njk
 ---
 Students call for human rights speaker on campus
 ================================================

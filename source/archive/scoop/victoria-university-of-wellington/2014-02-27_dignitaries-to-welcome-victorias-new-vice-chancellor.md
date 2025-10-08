@@ -1,9 +1,13 @@
 ---
 slug: dignitaries-to-welcome-victorias-new-vice-chancellor
-title: "Dignitaries to welcome Victoria’s new Vice-Chancellor"
-date: 2014-02-27
-source-url: https://www.scoop.co.nz/stories/ED1402/S00121/dignitaries-to-welcome-victorias-new-vice-chancellor.htm
+title: Dignitaries to welcome Victoria’s new Vice-Chancellor
+date: 2014-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00121/dignitaries-to-welcome-victorias-new-vice-chancellor.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/02/27/dignitaries-to-welcome-victorias-new-vice-chancellor/index.html
+layout: layout.njk
 ---
 Dignitaries to welcome Victoria’s new Vice-Chancellor
 =====================================================

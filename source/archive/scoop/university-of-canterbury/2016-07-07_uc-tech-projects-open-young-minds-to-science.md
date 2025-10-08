@@ -1,9 +1,12 @@
 ---
 slug: uc-tech-projects-open-young-minds-to-science
-title: "UC tech projects open young minds to science"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/ED1607/S00028/uc-tech-projects-open-young-minds-to-science.htm
+title: UC tech projects open young minds to science
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00028/uc-tech-projects-open-young-minds-to-science.htm
 author: university-of-canterbury
+permalink: /archive/2016/07/07/uc-tech-projects-open-young-minds-to-science/index.html
+layout: layout.njk
 ---
 UC tech projects open young minds to science
 ============================================

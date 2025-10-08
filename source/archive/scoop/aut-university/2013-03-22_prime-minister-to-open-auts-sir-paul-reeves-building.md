@@ -1,9 +1,13 @@
 ---
 slug: prime-minister-to-open-auts-sir-paul-reeves-building
-title: "Prime Minister to open AUT’s Sir Paul Reeves Building"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/ED1303/S00158/prime-minister-to-open-auts-sir-paul-reeves-building.htm
+title: Prime Minister to open AUT’s Sir Paul Reeves Building
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00158/prime-minister-to-open-auts-sir-paul-reeves-building.htm
 author: aut-university
+permalink: >-
+  /archive/2013/03/22/prime-minister-to-open-auts-sir-paul-reeves-building/index.html
+layout: layout.njk
 ---
 Prime Minister to open AUT’s Sir Paul Reeves Building
 =====================================================

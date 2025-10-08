@@ -1,9 +1,12 @@
 ---
 slug: number-getting-student-allowances-has-dropped
-title: "Number getting student allowances has dropped"
-date: 2006-04-12
-source-url: https://www.scoop.co.nz/stories/ED0604/S00041/number-getting-student-allowances-has-dropped.htm
+title: Number getting student allowances has dropped
+date: 2006-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00041/number-getting-student-allowances-has-dropped.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/04/12/number-getting-student-allowances-has-dropped/index.html
+layout: layout.njk
 ---
 Number getting student allowances has dropped
 =============================================

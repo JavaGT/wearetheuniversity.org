@@ -1,9 +1,13 @@
 ---
 slug: national-building-high-tech-experience-in-the-hutt
-title: "National building high-tech experience in the Hutt"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/PO1408/S00406/national-building-high-tech-experience-in-the-hutt.htm
+title: National building high-tech experience in the Hutt
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00406/national-building-high-tech-experience-in-the-hutt.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/08/25/national-building-high-tech-experience-in-the-hutt/index.html
+layout: layout.njk
 ---
 National building high-tech experience in the Hutt
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-promotes-green-credentials
-title: "Māori Party Promotes Green Credentials"
-date: 2017-08-23
-source-url: https://www.scoop.co.nz/stories/PO1708/S00484/maori-party-promotes-green-credentials.htm
+title: Māori Party Promotes Green Credentials
+date: 2017-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00484/maori-party-promotes-green-credentials.htm
 author: te-pati-maori
+permalink: /archive/2017/08/23/m/index.html
+layout: layout.njk
 ---
 Māori Party Promotes Green Credentials
 ======================================

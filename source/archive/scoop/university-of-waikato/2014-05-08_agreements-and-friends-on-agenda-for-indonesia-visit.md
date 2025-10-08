@@ -1,9 +1,13 @@
 ---
 slug: agreements-and-friends-on-agenda-for-indonesia-visit
-title: "Agreements and friends on agenda for Indonesia visit"
-date: 2014-05-08
-source-url: https://www.scoop.co.nz/stories/CU1405/S00134/agreements-and-friends-on-agenda-for-indonesia-visit.htm
+title: Agreements and friends on agenda for Indonesia visit
+date: 2014-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1405/S00134/agreements-and-friends-on-agenda-for-indonesia-visit.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/05/08/agreements-and-friends-on-agenda-for-indonesia-visit/index.html
+layout: layout.njk
 ---
 Agreements and friends on agenda for Indonesia visit
 ====================================================

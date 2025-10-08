@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-prostate-awareness-support-society
-title: "Speech: Peters -Prostate Awareness Support Society"
-date: 1999-06-14
-source-url: https://www.scoop.co.nz/stories/PA9906/S00025/speech-peters-prostate-awareness-support-society.htm
+title: 'Speech: Peters -Prostate Awareness Support Society'
+date: 1999-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00025/speech-peters-prostate-awareness-support-society.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/1999/06/14/speech-peters-prostate-awareness-support-society/index.html
+layout: layout.njk
 ---
 Speech: Peters -Prostate Awareness Support Society
 ==================================================

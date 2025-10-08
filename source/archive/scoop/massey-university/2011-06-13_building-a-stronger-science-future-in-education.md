@@ -1,9 +1,12 @@
 ---
 slug: building-a-stronger-science-future-in-education
-title: "Building a Stronger Science Future in Education"
-date: 2011-06-13
-source-url: https://www.scoop.co.nz/stories/ED1106/S00051/building-a-stronger-science-future-in-education.htm
+title: Building a Stronger Science Future in Education
+date: 2011-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00051/building-a-stronger-science-future-in-education.htm
 author: massey-university
+permalink: /archive/2011/06/13/building-a-stronger-science-future-in-education/index.html
+layout: layout.njk
 ---
 Building a Stronger Science Future in Education
 ===============================================

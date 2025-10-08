@@ -1,9 +1,12 @@
 ---
 slug: woods-education-stunt-fails-at-simple-math
-title: "Wood’s education stunt fails at simple math"
-date: 2016-11-17
-source-url: https://www.scoop.co.nz/stories/PO1611/S00229/woods-education-stunt-fails-at-simple-math.htm
+title: Wood’s education stunt fails at simple math
+date: 2016-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1611/S00229/woods-education-stunt-fails-at-simple-math.htm
 author: new-zealand-national-party
+permalink: /archive/2016/11/17/woods-education-stunt-fails-at-simple-math/index.html
+layout: layout.njk
 ---
 Wood’s education stunt fails at simple math
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: nat-education-policy-unfunded-un-costed-and-reheated
-title: "Nat education policy unfunded, un-costed and reheated"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/PA1111/S00426/nat-education-policy-unfunded-un-costed-and-reheated.htm
+title: Nat education policy unfunded, un-costed and reheated
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00426/nat-education-policy-unfunded-un-costed-and-reheated.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/11/21/nat-education-policy-unfunded-un-costed-and-reheated/index.html
+layout: layout.njk
 ---
 Nat education policy unfunded, un-costed and reheated
 =====================================================

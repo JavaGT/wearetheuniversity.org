@@ -1,9 +1,12 @@
 ---
 slug: building-the-foundations-for-education-success
-title: "Building The Foundations For Education Success"
-date: 2023-09-20
-source-url: https://www.scoop.co.nz/stories/PA2309/S00112/building-the-foundations-for-education-success.htm
+title: Building The Foundations For Education Success
+date: 2023-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00112/building-the-foundations-for-education-success.htm
 author: act-new-zealand
+permalink: /archive/2023/09/20/building-the-foundations-for-education-success/index.html
+layout: layout.njk
 ---
 Building The Foundations For Education Success
 ==============================================

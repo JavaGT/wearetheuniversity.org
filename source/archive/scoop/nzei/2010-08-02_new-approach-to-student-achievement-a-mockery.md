@@ -1,9 +1,12 @@
 ---
 slug: new-approach-to-student-achievement-a-mockery
-title: "New Approach To Student Achievement A Mockery"
-date: 2010-08-02
-source-url: https://www.scoop.co.nz/stories/ED1008/S00004/new-approach-to-student-achievement-a-mockery.htm
+title: New Approach To Student Achievement A Mockery
+date: 2010-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00004/new-approach-to-student-achievement-a-mockery.htm
 author: nzei
+permalink: /archive/2010/08/02/new-approach-to-student-achievement-a-mockery/index.html
+layout: layout.njk
 ---
 New Approach To Student Achievement A Mockery
 =============================================

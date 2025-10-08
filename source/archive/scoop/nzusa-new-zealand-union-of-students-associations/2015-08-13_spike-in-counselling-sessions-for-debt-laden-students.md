@@ -1,9 +1,13 @@
 ---
 slug: spike-in-counselling-sessions-for-debt-laden-students
-title: "Spike in counselling sessions for debt-laden students"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/ED1508/S00054/spike-in-counselling-sessions-for-debt-laden-students.htm
+title: Spike in counselling sessions for debt-laden students
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00054/spike-in-counselling-sessions-for-debt-laden-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/08/13/spike-in-counselling-sessions-for-debt-laden-students/index.html
+layout: layout.njk
 ---
 Spike in counselling sessions for debt-laden students
 =====================================================

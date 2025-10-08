@@ -1,9 +1,13 @@
 ---
 slug: expert-appointed-to-canadian-stem-cell-committee
-title: "Expert Appointed To Canadian Stem Cell Committee"
-date: 2003-11-17
-source-url: https://www.scoop.co.nz/stories/SC0311/S00060/expert-appointed-to-canadian-stem-cell-committee.htm
+title: Expert Appointed To Canadian Stem Cell Committee
+date: 2003-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0311/S00060/expert-appointed-to-canadian-stem-cell-committee.htm
 author: university-of-otago
+permalink: >-
+  /archive/2003/11/17/expert-appointed-to-canadian-stem-cell-committee/index.html
+layout: layout.njk
 ---
 Expert Appointed To Canadian Stem Cell Committee
 ================================================

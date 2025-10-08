@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-343-the-maxim-institute
-title: "Real Issues No. 343 The Maxim Institute"
-date: 2009-06-11
-source-url: https://www.scoop.co.nz/stories/PO0906/S00131/real-issues-no-343-the-maxim-institute.htm
+title: Real Issues No. 343 The Maxim Institute
+date: 2009-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00131/real-issues-no-343-the-maxim-institute.htm
 author: maxim-institute
+permalink: /archive/2009/06/11/real-issues-no-343-the-maxim-institute/index.html
+layout: layout.njk
 ---
 Real Issues No. 343 The Maxim Institute
 =======================================

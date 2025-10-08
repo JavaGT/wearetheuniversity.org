@@ -1,9 +1,12 @@
 ---
 slug: more-boards-to-take-action-over-standards
-title: "More Boards To Take Action Over Standards"
-date: 2010-11-03
-source-url: https://www.scoop.co.nz/stories/PO1011/S00031/more-boards-to-take-action-over-standards.htm
+title: More Boards To Take Action Over Standards
+date: 2010-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00031/more-boards-to-take-action-over-standards.htm
 author: nzei
+permalink: /archive/2010/11/03/more-boards-to-take-action-over-standards/index.html
+layout: layout.njk
 ---
 More Boards To Take Action Over Standards
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: parents-to-express-views-on-schooling-strategy
-title: "Parents To Express Views On Schooling Strategy"
-date: 2005-01-04
-source-url: https://www.scoop.co.nz/stories/ED0501/S00002/parents-to-express-views-on-schooling-strategy.htm
+title: Parents To Express Views On Schooling Strategy
+date: 2005-01-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00002/parents-to-express-views-on-schooling-strategy.htm
 author: nzei
+permalink: /archive/2005/01/04/parents-to-express-views-on-schooling-strategy/index.html
+layout: layout.njk
 ---
 Parents To Express Views On Schooling Strategy
 ==============================================

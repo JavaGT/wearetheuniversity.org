@@ -1,9 +1,12 @@
 ---
 slug: vulnerable-students-are-nationals-latest-target
-title: "Vulnerable Students Are National’s Latest Target"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/PA1211/S00019/vulnerable-students-are-nationals-latest-target.htm
+title: Vulnerable Students Are National’s Latest Target
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00019/vulnerable-students-are-nationals-latest-target.htm
 author: new-zealand-first-party
+permalink: /archive/2012/11/01/vulnerable-students-are-nationals-latest-target/index.html
+layout: layout.njk
 ---
 Vulnerable Students Are National’s Latest Target
 ================================================

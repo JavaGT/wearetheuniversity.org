@@ -1,9 +1,12 @@
 ---
 slug: success-for-canterbury-journalism-graduate
-title: "Success for Canterbury journalism graduate"
-date: 2011-01-18
-source-url: https://www.scoop.co.nz/stories/ED1101/S00022/success-for-canterbury-journalism-graduate.htm
+title: Success for Canterbury journalism graduate
+date: 2011-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00022/success-for-canterbury-journalism-graduate.htm
 author: university-of-canterbury
+permalink: /archive/2011/01/18/success-for-canterbury-journalism-graduate/index.html
+layout: layout.njk
 ---
 Success for Canterbury journalism graduate
 ==========================================

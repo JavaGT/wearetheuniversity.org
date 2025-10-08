@@ -1,9 +1,11 @@
 ---
 slug: mallard-passes-the-buck
-title: "Mallard Passes The Buck"
-date: 2003-11-25
+title: Mallard Passes The Buck
+date: 2003-11-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0311/S00496/mallard-passes-the-buck.htm
 author: act-new-zealand
+permalink: /archive/2003/11/25/mallard-passes-the-buck/index.html
+layout: layout.njk
 ---
 Mallard Passes The Buck
 =======================

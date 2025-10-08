@@ -1,9 +1,13 @@
 ---
 slug: emigrating-together-can-be-harder-than-going-alone
-title: "Emigrating together can be harder than going alone"
-date: 2012-01-31
-source-url: https://www.scoop.co.nz/stories/CU1201/S00359/emigrating-together-can-be-harder-than-going-alone.htm
+title: Emigrating together can be harder than going alone
+date: 2012-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1201/S00359/emigrating-together-can-be-harder-than-going-alone.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/01/31/emigrating-together-can-be-harder-than-going-alone/index.html
+layout: layout.njk
 ---
 Emigrating together can be harder than going alone
 ==================================================

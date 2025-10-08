@@ -1,9 +1,11 @@
 ---
 slug: free-fees-success
-title: "Free Fees Success"
-date: 2001-01-23
+title: Free Fees Success
+date: 2001-01-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0101/S00008/free-fees-success.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/01/23/free-fees-success/index.html
+layout: layout.njk
 ---
 Free Fees Success
 =================

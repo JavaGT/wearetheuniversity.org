@@ -1,9 +1,12 @@
 ---
 slug: students-furious-about-secret-fee-rise
-title: "Students furious about secret fee rise"
-date: 2004-09-10
-source-url: https://www.scoop.co.nz/stories/ED0409/S00040/students-furious-about-secret-fee-rise.htm
+title: Students furious about secret fee rise
+date: 2004-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00040/students-furious-about-secret-fee-rise.htm
 author: victoria-university-students-association
+permalink: /archive/2004/09/10/students-furious-about-secret-fee-rise/index.html
+layout: layout.njk
 ---
 Students furious about secret fee rise
 ======================================

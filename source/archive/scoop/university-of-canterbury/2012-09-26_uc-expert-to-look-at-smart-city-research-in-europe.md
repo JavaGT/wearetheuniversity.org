@@ -1,9 +1,13 @@
 ---
 slug: uc-expert-to-look-at-smart-city-research-in-europe
-title: "UC expert to look at smart city research in Europe"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/PO1209/S00348/uc-expert-to-look-at-smart-city-research-in-europe.htm
+title: UC expert to look at smart city research in Europe
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00348/uc-expert-to-look-at-smart-city-research-in-europe.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/26/uc-expert-to-look-at-smart-city-research-in-europe/index.html
+layout: layout.njk
 ---
 UC expert to look at smart city research in Europe
 ==================================================

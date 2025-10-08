@@ -1,9 +1,11 @@
 ---
 slug: international-migrants-day
-title: "International Migrants’ Day"
-date: 2002-12-18
+title: International Migrants’ Day
+date: 2002-12-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0212/S00165/international-migrants-day.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/12/18/international-migrants-day/index.html
+layout: layout.njk
 ---
 International Migrants’ Day
 ===========================

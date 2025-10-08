@@ -1,9 +1,12 @@
 ---
 slug: economics-challenge-attracts-record-numbers
-title: "Economics challenge attracts record numbers"
-date: 2013-08-27
-source-url: https://www.scoop.co.nz/stories/ED1308/S00130/economics-challenge-attracts-record-numbers.htm
+title: Economics challenge attracts record numbers
+date: 2013-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00130/economics-challenge-attracts-record-numbers.htm
 author: massey-university
+permalink: /archive/2013/08/27/economics-challenge-attracts-record-numbers/index.html
+layout: layout.njk
 ---
 Economics challenge attracts record numbers
 ===========================================

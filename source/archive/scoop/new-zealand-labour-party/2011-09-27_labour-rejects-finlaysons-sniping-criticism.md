@@ -1,9 +1,12 @@
 ---
 slug: labour-rejects-finlaysons-sniping-criticism
-title: "Labour rejects Finlayson’s sniping criticism"
-date: 2011-09-27
-source-url: https://www.scoop.co.nz/stories/PA1109/S00505/labour-rejects-finlaysons-sniping-criticism.htm
+title: Labour rejects Finlayson’s sniping criticism
+date: 2011-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00505/labour-rejects-finlaysons-sniping-criticism.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/27/labour-rejects-finlaysons-sniping-criticism/index.html
+layout: layout.njk
 ---
 Labour rejects Finlayson’s sniping criticism
 ============================================

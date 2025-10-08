@@ -1,9 +1,12 @@
 ---
 slug: canary-in-a-coalmine-warning-on-rivers
-title: "‘Canary in a coalmine’ warning on rivers"
-date: 2008-09-15
-source-url: https://www.scoop.co.nz/stories/ED0809/S00044/canary-in-a-coalmine-warning-on-rivers.htm
+title: ‘Canary in a coalmine’ warning on rivers
+date: 2008-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00044/canary-in-a-coalmine-warning-on-rivers.htm
 author: massey-university
+permalink: /archive/2008/09/15/canary-in-a-coalmine-warning-on-rivers/index.html
+layout: layout.njk
 ---
 ‘Canary in a coalmine’ warning on rivers
 ========================================

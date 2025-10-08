@@ -1,9 +1,12 @@
 ---
 slug: bathroom-garden-design-wins-top-award
-title: "Bathroom garden design wins top award"
-date: 2002-06-20
-source-url: https://www.scoop.co.nz/stories/CU0206/S00039/bathroom-garden-design-wins-top-award.htm
+title: Bathroom garden design wins top award
+date: 2002-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0206/S00039/bathroom-garden-design-wins-top-award.htm
 author: auckland-university
+permalink: /archive/2002/06/20/bathroom-garden-design-wins-top-award/index.html
+layout: layout.njk
 ---
 Bathroom garden design wins top award
 =====================================

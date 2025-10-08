@@ -1,9 +1,13 @@
 ---
 slug: ausa-challenges-new-government-to-keep-promises-to-students
-title: "AUSA Challenges New Government to Keep Promises to Students"
-date: 2017-10-20
-source-url: https://www.scoop.co.nz/stories/ED1710/S00056/ausa-challenges-new-government-to-keep-promises-to-students.htm
+title: AUSA Challenges New Government to Keep Promises to Students
+date: 2017-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00056/ausa-challenges-new-government-to-keep-promises-to-students.htm
 author: ausa
+permalink: >-
+  /archive/2017/10/20/ausa-challenges-new-government-to-keep-promises-to-students/index.html
+layout: layout.njk
 ---
 AUSA Challenges New Government to Keep Promises to Students
 ===========================================================

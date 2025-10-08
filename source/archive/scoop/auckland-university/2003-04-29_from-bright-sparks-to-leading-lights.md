@@ -1,9 +1,12 @@
 ---
 slug: from-bright-sparks-to-leading-lights
-title: "From Bright Sparks To Leading Lights"
-date: 2003-04-29
-source-url: https://www.scoop.co.nz/stories/ED0304/S00053/from-bright-sparks-to-leading-lights.htm
+title: From Bright Sparks To Leading Lights
+date: 2003-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00053/from-bright-sparks-to-leading-lights.htm
 author: auckland-university
+permalink: /archive/2003/04/29/from-bright-sparks-to-leading-lights/index.html
+layout: layout.njk
 ---
 From Bright Sparks To Leading Lights
 ====================================

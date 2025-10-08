@@ -1,9 +1,12 @@
 ---
 slug: childrens-rights-under-microscope
-title: "Children’s Rights under Microscope"
-date: 2006-02-08
-source-url: https://www.scoop.co.nz/stories/ED0602/S00014/childrens-rights-under-microscope.htm
+title: Children’s Rights under Microscope
+date: 2006-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00014/childrens-rights-under-microscope.htm
 author: university-of-otago
+permalink: /archive/2006/02/08/childrens-rights-under-microscope/index.html
+layout: layout.njk
 ---
 Children’s Rights under Microscope
 ==================================

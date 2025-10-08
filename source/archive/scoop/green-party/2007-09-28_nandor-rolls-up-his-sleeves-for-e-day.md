@@ -1,9 +1,12 @@
 ---
 slug: nandor-rolls-up-his-sleeves-for-e-day
-title: "Nandor rolls up his sleeves for E-Day"
-date: 2007-09-28
-source-url: https://www.scoop.co.nz/stories/PA0709/S00510/nandor-rolls-up-his-sleeves-for-e-day.htm
+title: Nandor rolls up his sleeves for E-Day
+date: 2007-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00510/nandor-rolls-up-his-sleeves-for-e-day.htm
 author: green-party
+permalink: /archive/2007/09/28/nandor-rolls-up-his-sleeves-for-e-day/index.html
+layout: layout.njk
 ---
 Nandor rolls up his sleeves for E-Day
 =====================================

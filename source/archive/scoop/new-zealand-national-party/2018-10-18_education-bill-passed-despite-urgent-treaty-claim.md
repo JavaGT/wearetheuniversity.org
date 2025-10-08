@@ -1,9 +1,13 @@
 ---
 slug: education-bill-passed-despite-urgent-treaty-claim
-title: "Education Bill passed despite urgent treaty claim"
-date: 2018-10-18
-source-url: https://www.scoop.co.nz/stories/PA1810/S00181/education-bill-passed-despite-urgent-treaty-claim.htm
+title: Education Bill passed despite urgent treaty claim
+date: 2018-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00181/education-bill-passed-despite-urgent-treaty-claim.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/10/18/education-bill-passed-despite-urgent-treaty-claim/index.html
+layout: layout.njk
 ---
 Education Bill passed despite urgent treaty claim
 =================================================

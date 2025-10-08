@@ -1,9 +1,13 @@
 ---
 slug: society-at-a-loss-to-explain-binge-drinking-problems
-title: "Society at a loss to explain binge drinking problems"
-date: 2012-11-14
-source-url: https://www.scoop.co.nz/stories/PO1211/S00197/society-at-a-loss-to-explain-binge-drinking-problems.htm
+title: Society at a loss to explain binge drinking problems
+date: 2012-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00197/society-at-a-loss-to-explain-binge-drinking-problems.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/14/society-at-a-loss-to-explain-binge-drinking-problems/index.html
+layout: layout.njk
 ---
 Society at a loss to explain binge drinking problems
 ====================================================

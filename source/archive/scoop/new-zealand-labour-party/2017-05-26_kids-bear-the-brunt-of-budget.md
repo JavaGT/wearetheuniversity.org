@@ -1,9 +1,12 @@
 ---
 slug: kids-bear-the-brunt-of-budget
-title: "Kids bear the brunt of Budget"
-date: 2017-05-26
-source-url: https://www.scoop.co.nz/stories/PA1705/S00562/kids-bear-the-brunt-of-budget.htm
+title: Kids bear the brunt of Budget
+date: 2017-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00562/kids-bear-the-brunt-of-budget.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/26/kids-bear-the-brunt-of-budget/index.html
+layout: layout.njk
 ---
 Kids bear the brunt of Budget
 =============================

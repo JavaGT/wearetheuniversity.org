@@ -1,9 +1,12 @@
 ---
 slug: national;-saying-one-thing-doing-another
-title: "National; saying one thing, doing another"
-date: 2012-04-19
-source-url: https://www.scoop.co.nz/stories/PA1204/S00248/national-saying-one-thing-doing-another.htm
+title: National; saying one thing, doing another
+date: 2012-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00248/national-saying-one-thing-doing-another.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/19/national/index.html
+layout: layout.njk
 ---
 National; saying one thing, doing another
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: can-we-rehabilitate-canterburys-problem-waterways
-title: "Can we rehabilitate Canterbury’s problem waterways?"
-date: 2016-06-22
-source-url: https://www.scoop.co.nz/stories/SC1606/S00047/can-we-rehabilitate-canterburys-problem-waterways.htm
+title: Can we rehabilitate Canterbury’s problem waterways?
+date: 2016-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00047/can-we-rehabilitate-canterburys-problem-waterways.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/22/can-we-rehabilitate-canterburys-problem-waterways/index.html
+layout: layout.njk
 ---
 Can we rehabilitate Canterbury’s problem waterways?
 ===================================================

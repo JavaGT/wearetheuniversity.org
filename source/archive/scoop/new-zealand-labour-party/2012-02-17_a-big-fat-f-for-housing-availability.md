@@ -1,9 +1,12 @@
 ---
 slug: a-big-fat-f-for-housing-availability
-title: "A big fat F - for housing availability"
-date: 2012-02-17
-source-url: https://www.scoop.co.nz/stories/PA1202/S00220/a-big-fat-f-for-housing-availability.htm
+title: A big fat F - for housing availability
+date: 2012-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00220/a-big-fat-f-for-housing-availability.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/17/a-big-fat-f-for-housing-availability/index.html
+layout: layout.njk
 ---
 A big fat F - for housing availability
 ======================================

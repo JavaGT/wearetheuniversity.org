@@ -1,9 +1,12 @@
 ---
 slug: spate-of-good-weather-tipped-to-lift-spirits
-title: "Spate of good weather tipped to lift spirits"
-date: 2007-01-04
-source-url: https://www.scoop.co.nz/stories/ED0701/S00001/spate-of-good-weather-tipped-to-lift-spirits.htm
+title: Spate of good weather tipped to lift spirits
+date: 2007-01-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00001/spate-of-good-weather-tipped-to-lift-spirits.htm
 author: massey-university
+permalink: /archive/2007/01/04/spate-of-good-weather-tipped-to-lift-spirits/index.html
+layout: layout.njk
 ---
 Spate of good weather tipped to lift spirits
 ============================================

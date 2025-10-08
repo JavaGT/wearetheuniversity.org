@@ -1,9 +1,12 @@
 ---
 slug: artificial-intelligence-alive-and-well
-title: "Artificial intelligence alive and well"
-date: 2005-01-19
-source-url: https://www.scoop.co.nz/stories/SC0501/S00029/artificial-intelligence-alive-and-well.htm
+title: Artificial intelligence alive and well
+date: 2005-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0501/S00029/artificial-intelligence-alive-and-well.htm
 author: auckland-university
+permalink: /archive/2005/01/19/artificial-intelligence-alive-and-well/index.html
+layout: layout.njk
 ---
 Artificial intelligence alive and well
 ======================================

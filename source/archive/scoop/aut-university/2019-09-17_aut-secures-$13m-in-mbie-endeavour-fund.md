@@ -1,9 +1,12 @@
 ---
 slug: aut-secures-$13m-in-mbie-endeavour-fund
-title: "AUT Secures $13m in MBIE Endeavour Fund"
-date: 2019-09-17
-source-url: https://www.scoop.co.nz/stories/ED1909/S00048/aut-secures-13m-in-mbie-endeavour-fund.htm
+title: AUT Secures $13m in MBIE Endeavour Fund
+date: 2019-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00048/aut-secures-13m-in-mbie-endeavour-fund.htm
 author: aut-university
+permalink: /archive/2019/09/17/aut-secures-/index.html
+layout: layout.njk
 ---
 AUT Secures $13m in MBIE Endeavour Fund
 =======================================

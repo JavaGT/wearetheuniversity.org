@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-urges-auckland-university-to-ensure-speech-rights-are-upheld-at-pro-palestinian-rally
-title: "Free Speech Union Urges Auckland University To Ensure Speech Rights Are Upheld At Pro-Palestinian Rally"
-date: 2024-05-01
-source-url: https://www.scoop.co.nz/stories/AK2405/S00026/free-speech-union-urges-auckland-university-to-ensure-speech-rights-are-upheld-at-pro-palestinian-rally.htm
+slug: >-
+  free-speech-union-urges-auckland-university-to-ensure-speech-rights-are-upheld-at-pro-palestinian-rally
+title: >-
+  Free Speech Union Urges Auckland University To Ensure Speech Rights Are Upheld
+  At Pro-Palestinian Rally
+date: 2024-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2405/S00026/free-speech-union-urges-auckland-university-to-ensure-speech-rights-are-upheld-at-pro-palestinian-rally.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/05/01/free-speech-union-urges-auckland-university-to-ensure-speech-rights-are-upheld-at-pro-palestinian-rally/index.html
+layout: layout.njk
 ---
 Free Speech Union Urges Auckland University To Ensure Speech Rights Are Upheld At Pro-Palestinian Rally
 =======================================================================================================

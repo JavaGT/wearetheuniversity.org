@@ -1,9 +1,11 @@
 ---
 slug: the-dark-side-of-paradise
-title: "The Dark Side of Paradise"
-date: 2005-07-01
+title: The Dark Side of Paradise
+date: 2005-07-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0507/S00001/the-dark-side-of-paradise.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/07/01/the-dark-side-of-paradise/index.html
+layout: layout.njk
 ---
 The Dark Side of Paradise
 =========================

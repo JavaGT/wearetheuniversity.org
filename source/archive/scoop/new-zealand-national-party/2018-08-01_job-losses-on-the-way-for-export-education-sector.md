@@ -1,9 +1,13 @@
 ---
 slug: job-losses-on-the-way-for-export-education-sector
-title: "Job losses on the way for export education sector"
-date: 2018-08-01
-source-url: https://www.scoop.co.nz/stories/PA1808/S00014/job-losses-on-the-way-for-export-education-sector.htm
+title: Job losses on the way for export education sector
+date: 2018-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00014/job-losses-on-the-way-for-export-education-sector.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/08/01/job-losses-on-the-way-for-export-education-sector/index.html
+layout: layout.njk
 ---
 Job losses on the way for export education sector
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: fair-modern-employment-insurance-for-a-post-covid-19-world
-title: "Fair, Modern Employment Insurance For A Post-Covid-19 World"
-date: 2020-07-12
-source-url: https://www.scoop.co.nz/stories/PO2007/S00163/fair-modern-employment-insurance-for-a-post-covid-19-world.htm
+title: Fair, Modern Employment Insurance For A Post-Covid-19 World
+date: 2020-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2007/S00163/fair-modern-employment-insurance-for-a-post-covid-19-world.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/07/12/fair-modern-employment-insurance-for-a-post-covid-19-world/index.html
+layout: layout.njk
 ---
 Fair, Modern Employment Insurance For A Post-Covid-19 World
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: early-results-show-potential-for-new-way-to-quit
-title: "Early results show potential for new way to quit"
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/GE1307/S00124/early-results-show-potential-for-new-way-to-quit.htm
+title: Early results show potential for new way to quit
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00124/early-results-show-potential-for-new-way-to-quit.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/31/early-results-show-potential-for-new-way-to-quit/index.html
+layout: layout.njk
 ---
 Early results show potential for new way to quit
 ================================================

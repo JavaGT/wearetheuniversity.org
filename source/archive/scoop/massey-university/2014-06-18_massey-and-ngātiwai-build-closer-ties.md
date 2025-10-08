@@ -1,9 +1,12 @@
 ---
 slug: massey-and-ngātiwai-build-closer-ties
-title: "Massey and Ngātiwai build closer ties"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/ED1406/S00096/massey-and-ngatiwai-build-closer-ties.htm
+title: Massey and Ngātiwai build closer ties
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00096/massey-and-ngatiwai-build-closer-ties.htm
 author: massey-university
+permalink: /archive/2014/06/18/massey-and-ng/index.html
+layout: layout.njk
 ---
 Massey and Ngātiwai build closer ties
 =====================================

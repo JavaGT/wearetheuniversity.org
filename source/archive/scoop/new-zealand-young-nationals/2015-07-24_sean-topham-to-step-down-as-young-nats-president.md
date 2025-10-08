@@ -1,9 +1,13 @@
 ---
 slug: sean-topham-to-step-down-as-young-nats-president
-title: "Sean Topham to step down as Young Nats President"
-date: 2015-07-24
-source-url: https://www.scoop.co.nz/stories/PO1507/S00222/sean-topham-to-step-down-as-young-nats-president.htm
+title: Sean Topham to step down as Young Nats President
+date: 2015-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1507/S00222/sean-topham-to-step-down-as-young-nats-president.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2015/07/24/sean-topham-to-step-down-as-young-nats-president/index.html
+layout: layout.njk
 ---
 Sean Topham to step down as Young Nats President
 ================================================

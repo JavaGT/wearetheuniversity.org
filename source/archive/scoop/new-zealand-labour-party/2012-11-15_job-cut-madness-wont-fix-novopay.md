@@ -1,9 +1,12 @@
 ---
 slug: job-cut-madness-wont-fix-novopay
-title: "Job cut madness won’t fix Novopay"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/PA1211/S00296/job-cut-madness-wont-fix-novopay.htm
+title: Job cut madness won’t fix Novopay
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00296/job-cut-madness-wont-fix-novopay.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/15/job-cut-madness-wont-fix-novopay/index.html
+layout: layout.njk
 ---
 Job cut madness won’t fix Novopay
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: can-the-minister-of-defence-be-anymore-hopeless
-title: "Can the ‘Minister of Defence’ Be Anymore Hopeless?"
-date: 2015-04-20
-source-url: https://www.scoop.co.nz/stories/PA1504/S00230/can-the-minister-of-defence-be-anymore-hopeless.htm
+title: Can the ‘Minister of Defence’ Be Anymore Hopeless?
+date: 2015-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00230/can-the-minister-of-defence-be-anymore-hopeless.htm
 author: new-zealand-first-party
+permalink: /archive/2015/04/20/can-the-minister-of-defence-be-anymore-hopeless/index.html
+layout: layout.njk
 ---
 Can the ‘Minister of Defence’ Be Anymore Hopeless?
 ==================================================

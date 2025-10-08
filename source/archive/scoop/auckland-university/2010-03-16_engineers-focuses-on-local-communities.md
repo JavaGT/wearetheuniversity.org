@@ -1,9 +1,12 @@
 ---
 slug: engineers-focuses-on-local-communities
-title: "Engineers focuses on local communities"
-date: 2010-03-16
-source-url: https://www.scoop.co.nz/stories/ED1003/S00075/engineers-focuses-on-local-communities.htm
+title: Engineers focuses on local communities
+date: 2010-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00075/engineers-focuses-on-local-communities.htm
 author: auckland-university
+permalink: /archive/2010/03/16/engineers-focuses-on-local-communities/index.html
+layout: layout.njk
 ---
 Engineers focuses on local communities
 ======================================

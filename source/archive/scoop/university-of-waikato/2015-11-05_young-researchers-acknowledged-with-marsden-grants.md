@@ -1,9 +1,13 @@
 ---
 slug: young-researchers-acknowledged-with-marsden-grants
-title: "Young researchers acknowledged with Marsden grants"
-date: 2015-11-05
-source-url: https://www.scoop.co.nz/stories/ED1511/S00026/young-researchers-acknowledged-with-marsden-grants.htm
+title: Young researchers acknowledged with Marsden grants
+date: 2015-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00026/young-researchers-acknowledged-with-marsden-grants.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/11/05/young-researchers-acknowledged-with-marsden-grants/index.html
+layout: layout.njk
 ---
 Young researchers acknowledged with Marsden grants
 ==================================================

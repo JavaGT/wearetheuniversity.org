@@ -1,9 +1,12 @@
 ---
 slug: job-losses-and-service-reductions-at-msd
-title: "Job losses and service reductions at MSD"
-date: 2009-05-12
-source-url: https://www.scoop.co.nz/stories/PA0905/S00209/job-losses-and-service-reductions-at-msd.htm
+title: Job losses and service reductions at MSD
+date: 2009-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00209/job-losses-and-service-reductions-at-msd.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/12/job-losses-and-service-reductions-at-msd/index.html
+layout: layout.njk
 ---
 Job losses and service reductions at MSD
 ========================================

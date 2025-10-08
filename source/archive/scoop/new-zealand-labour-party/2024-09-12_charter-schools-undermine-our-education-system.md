@@ -1,9 +1,12 @@
 ---
 slug: charter-schools-undermine-our-education-system
-title: "Charter Schools Undermine Our Education System"
-date: 2024-09-12
-source-url: https://www.scoop.co.nz/stories/PA2409/S00010/charter-schools-undermine-our-education-system.htm
+title: Charter Schools Undermine Our Education System
+date: 2024-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00010/charter-schools-undermine-our-education-system.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/09/12/charter-schools-undermine-our-education-system/index.html
+layout: layout.njk
 ---
 Charter Schools Undermine Our Education System
 ==============================================

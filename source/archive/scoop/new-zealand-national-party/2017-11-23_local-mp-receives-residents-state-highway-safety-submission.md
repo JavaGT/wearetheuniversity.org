@@ -1,9 +1,13 @@
 ---
 slug: local-mp-receives-residents-state-highway-safety-submission
-title: "Local MP Receives Residents’ State Highway Safety Submission"
-date: 2017-11-23
-source-url: https://www.scoop.co.nz/stories/PA1711/S00141/local-mp-receives-residents-state-highway-safety-submission.htm
+title: Local MP Receives Residents’ State Highway Safety Submission
+date: 2017-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00141/local-mp-receives-residents-state-highway-safety-submission.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/11/23/local-mp-receives-residents-state-highway-safety-submission/index.html
+layout: layout.njk
 ---
 Local MP Receives Residents’ State Highway Safety Submission
 ============================================================

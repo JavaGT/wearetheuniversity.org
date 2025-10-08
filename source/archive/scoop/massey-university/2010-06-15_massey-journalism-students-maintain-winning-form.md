@@ -1,9 +1,13 @@
 ---
 slug: massey-journalism-students-maintain-winning-form
-title: "Massey journalism students maintain winning form"
-date: 2010-06-15
-source-url: https://www.scoop.co.nz/stories/ED1006/S00053/massey-journalism-students-maintain-winning-form.htm
+title: Massey journalism students maintain winning form
+date: 2010-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00053/massey-journalism-students-maintain-winning-form.htm
 author: massey-university
+permalink: >-
+  /archive/2010/06/15/massey-journalism-students-maintain-winning-form/index.html
+layout: layout.njk
 ---
 Massey journalism students maintain winning form
 ================================================

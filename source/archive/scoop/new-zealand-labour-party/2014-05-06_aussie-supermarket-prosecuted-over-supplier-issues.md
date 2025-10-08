@@ -1,9 +1,13 @@
 ---
 slug: aussie-supermarket-prosecuted-over-supplier-issues
-title: "Aussie supermarket prosecuted over supplier issues"
-date: 2014-05-06
-source-url: https://www.scoop.co.nz/stories/PA1405/S00075/aussie-supermarket-prosecuted-over-supplier-issues.htm
+title: Aussie supermarket prosecuted over supplier issues
+date: 2014-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00075/aussie-supermarket-prosecuted-over-supplier-issues.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/05/06/aussie-supermarket-prosecuted-over-supplier-issues/index.html
+layout: layout.njk
 ---
 Aussie supermarket prosecuted over supplier issues
 ==================================================

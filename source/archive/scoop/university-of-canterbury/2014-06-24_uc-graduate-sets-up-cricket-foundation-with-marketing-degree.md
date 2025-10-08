@@ -1,9 +1,13 @@
 ---
 slug: uc-graduate-sets-up-cricket-foundation-with-marketing-degree
-title: "UC graduate sets up cricket foundation with marketing degree"
-date: 2014-06-24
-source-url: https://www.scoop.co.nz/stories/SP1406/S00001/uc-graduate-sets-up-cricket-foundation-with-marketing-degree.htm
+title: UC graduate sets up cricket foundation with marketing degree
+date: 2014-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP1406/S00001/uc-graduate-sets-up-cricket-foundation-with-marketing-degree.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/24/uc-graduate-sets-up-cricket-foundation-with-marketing-degree/index.html
+layout: layout.njk
 ---
 UC graduate sets up cricket foundation with marketing degree
 ============================================================

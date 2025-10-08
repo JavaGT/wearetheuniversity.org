@@ -1,9 +1,12 @@
 ---
 slug: otago-will-be-tight-david-parker
-title: "Otago will be tight: David Parker"
-date: 2005-09-07
-source-url: https://www.scoop.co.nz/stories/PA0509/S00190/otago-will-be-tight-david-parker.htm
+title: 'Otago will be tight: David Parker'
+date: 2005-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00190/otago-will-be-tight-david-parker.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/07/otago-will-be-tight-david-parker/index.html
+layout: layout.njk
 ---
 Otago will be tight: David Parker
 =================================

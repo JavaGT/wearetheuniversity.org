@@ -1,9 +1,12 @@
 ---
 slug: top-honours-from-victoria-university
-title: "Top honours from Victoria University"
-date: 2009-02-27
-source-url: https://www.scoop.co.nz/stories/CU0902/S00464/top-honours-from-victoria-university.htm
+title: Top honours from Victoria University
+date: 2009-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0902/S00464/top-honours-from-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/02/27/top-honours-from-victoria-university/index.html
+layout: layout.njk
 ---
 Top honours from Victoria University
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: physical-activity-important-in-christchurch-rebuild
-title: "Physical Activity Important In Christchurch Rebuild"
-date: 2012-12-03
-source-url: https://www.scoop.co.nz/stories/AK1212/S00013/physical-activity-important-in-christchurch-rebuild.htm
+title: Physical Activity Important In Christchurch Rebuild
+date: 2012-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1212/S00013/physical-activity-important-in-christchurch-rebuild.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/03/physical-activity-important-in-christchurch-rebuild/index.html
+layout: layout.njk
 ---
 Physical Activity Important In Christchurch Rebuild
 ===================================================

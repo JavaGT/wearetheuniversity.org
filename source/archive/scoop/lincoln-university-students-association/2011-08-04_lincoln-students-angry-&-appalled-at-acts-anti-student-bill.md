@@ -1,9 +1,12 @@
 ---
 slug: lincoln-students-angry-&-appalled-at-acts-anti-student-bill
-title: "Lincoln Students Angry & Appalled at Act’s Anti-Student Bill"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/PO1108/S00068/lincoln-students-angry-appalled-at-acts-anti-student-bill.htm
+title: Lincoln Students Angry & Appalled at Act’s Anti-Student Bill
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00068/lincoln-students-angry-appalled-at-acts-anti-student-bill.htm
 author: lincoln-university-students-association
+permalink: /archive/2011/08/04/lincoln-students-angry-/index.html
+layout: layout.njk
 ---
 Lincoln Students Angry & Appalled at Act’s Anti-Student Bill
 ============================================================

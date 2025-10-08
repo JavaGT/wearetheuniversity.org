@@ -1,9 +1,12 @@
 ---
 slug: on-the-right-if-it-aint-broke
-title: "On The Right  -  If It Ain't Broke..."
-date: 2000-03-13
-source-url: https://www.scoop.co.nz/stories/PO0003/S00062/on-the-right-if-it-aint-broke.htm
+title: On The Right  -  If It Ain't Broke...
+date: 2000-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00062/on-the-right-if-it-aint-broke.htm
 author: new-zealand-young-nationals
+permalink: /archive/2000/03/13/on-the-right-if-it-aint-broke/index.html
+layout: layout.njk
 ---
 On The Right - If It Ain't Broke...
 ===================================

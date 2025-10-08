@@ -1,9 +1,12 @@
 ---
 slug: more-spin-than-substance-in-loan-costings
-title: "More spin than substance in loan costings"
-date: 2005-12-19
-source-url: https://www.scoop.co.nz/stories/PA0512/S00285/more-spin-than-substance-in-loan-costings.htm
+title: More spin than substance in loan costings
+date: 2005-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00285/more-spin-than-substance-in-loan-costings.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/19/more-spin-than-substance-in-loan-costings/index.html
+layout: layout.njk
 ---
 More spin than substance in loan costings
 =========================================

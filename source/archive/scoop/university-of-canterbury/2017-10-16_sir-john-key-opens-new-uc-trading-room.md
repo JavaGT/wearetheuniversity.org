@@ -1,9 +1,12 @@
 ---
 slug: sir-john-key-opens-new-uc-trading-room
-title: "Sir John Key opens new UC Trading Room"
-date: 2017-10-16
-source-url: https://www.scoop.co.nz/stories/BU1710/S00465/sir-john-key-opens-new-uc-trading-room.htm
+title: Sir John Key opens new UC Trading Room
+date: 2017-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1710/S00465/sir-john-key-opens-new-uc-trading-room.htm
 author: university-of-canterbury
+permalink: /archive/2017/10/16/sir-john-key-opens-new-uc-trading-room/index.html
+layout: layout.njk
 ---
 Sir John Key opens new UC Trading Room
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: lifting-our-sights-act-party-on-the-ets
-title: "Lifting Our Sights: ACT Party on the ETS"
-date: 2011-09-21
-source-url: https://www.scoop.co.nz/stories/PA1109/S00407/lifting-our-sights-act-party-on-the-ets.htm
+title: 'Lifting Our Sights: ACT Party on the ETS'
+date: 2011-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00407/lifting-our-sights-act-party-on-the-ets.htm
 author: act-new-zealand
+permalink: /archive/2011/09/21/lifting-our-sights-act-party-on-the-ets/index.html
+layout: layout.njk
 ---
 Lifting Our Sights: ACT Party on the ETS
 ========================================

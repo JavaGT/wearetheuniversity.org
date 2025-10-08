@@ -1,9 +1,12 @@
 ---
 slug: becoming-a-soldier-phd-among-manawatū-graduates
-title: "Becoming a soldier PhD among Manawatū graduates"
-date: 2016-11-22
-source-url: https://www.scoop.co.nz/stories/ED1611/S00101/becoming-a-soldier-phd-among-manawatu-graduates.htm
+title: Becoming a soldier PhD among Manawatū graduates
+date: 2016-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00101/becoming-a-soldier-phd-among-manawatu-graduates.htm
 author: massey-university
+permalink: /archive/2016/11/22/becoming-a-soldier-phd-among-manawat/index.html
+layout: layout.njk
 ---
 Becoming a soldier PhD among Manawatū graduates
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: $5-1m-in-marsden-grants-for-massey-researchers
-title: "$5.1m in Marsden grants for Massey researchers"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/ED1411/S00019/51m-in-marsden-grants-for-massey-researchers.htm
+title: $5.1m in Marsden grants for Massey researchers
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00019/51m-in-marsden-grants-for-massey-researchers.htm
 author: massey-university
+permalink: /archive/2014/11/04/5-1m-in-marsden-grants-for-massey-researchers/index.html
+layout: layout.njk
 ---
 $5.1m in Marsden grants for Massey researchers
 ==============================================

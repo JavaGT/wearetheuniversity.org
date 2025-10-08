@@ -1,9 +1,13 @@
 ---
 slug: nzei-supports-moves-to-lift-pay-for-thousands-of-women
-title: "NZEI supports moves to lift pay for thousands of women"
-date: 2015-10-20
-source-url: https://www.scoop.co.nz/stories/PO1510/S00332/nzei-supports-moves-to-lift-pay-for-thousands-of-women.htm
+title: NZEI supports moves to lift pay for thousands of women
+date: 2015-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00332/nzei-supports-moves-to-lift-pay-for-thousands-of-women.htm
 author: nzei
+permalink: >-
+  /archive/2015/10/20/nzei-supports-moves-to-lift-pay-for-thousands-of-women/index.html
+layout: layout.njk
 ---
 NZEI supports moves to lift pay for thousands of women
 ======================================================

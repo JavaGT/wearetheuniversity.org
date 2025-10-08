@@ -1,9 +1,13 @@
 ---
 slug: government-takes-a-knife-to-youth-income-in-youth-week
-title: "Government Takes A Knife To Youth Income In Youth Week"
-date: 2012-05-25
-source-url: https://www.scoop.co.nz/stories/PO1205/S00432/government-takes-a-knife-to-youth-income-in-youth-week.htm
+title: Government Takes A Knife To Youth Income In Youth Week
+date: 2012-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00432/government-takes-a-knife-to-youth-income-in-youth-week.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2012/05/25/government-takes-a-knife-to-youth-income-in-youth-week/index.html
+layout: layout.njk
 ---
 Government Takes A Knife To Youth Income In Youth Week
 ======================================================

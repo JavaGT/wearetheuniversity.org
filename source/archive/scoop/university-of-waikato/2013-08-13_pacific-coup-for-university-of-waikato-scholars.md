@@ -1,9 +1,12 @@
 ---
 slug: pacific-coup-for-university-of-waikato-scholars
-title: "Pacific coup for University of Waikato scholars"
-date: 2013-08-13
-source-url: https://www.scoop.co.nz/stories/ED1308/S00057/pacific-coup-for-university-of-waikato-scholars.htm
+title: Pacific coup for University of Waikato scholars
+date: 2013-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00057/pacific-coup-for-university-of-waikato-scholars.htm
 author: university-of-waikato
+permalink: /archive/2013/08/13/pacific-coup-for-university-of-waikato-scholars/index.html
+layout: layout.njk
 ---
 Pacific coup for University of Waikato scholars
 ===============================================

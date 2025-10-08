@@ -1,9 +1,13 @@
 ---
 slug: education-minister-to-open-award-winning-new-uc-building
-title: "Education Minister to open award-winning new UC building"
-date: 2019-06-24
-source-url: https://www.scoop.co.nz/stories/ED1906/S00055/education-minister-to-open-award-winning-new-uc-building.htm
+title: Education Minister to open award-winning new UC building
+date: 2019-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1906/S00055/education-minister-to-open-award-winning-new-uc-building.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/06/24/education-minister-to-open-award-winning-new-uc-building/index.html
+layout: layout.njk
 ---
 Education Minister to open award-winning new UC building
 ========================================================

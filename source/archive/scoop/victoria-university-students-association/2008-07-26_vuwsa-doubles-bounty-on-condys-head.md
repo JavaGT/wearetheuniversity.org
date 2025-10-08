@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-doubles-bounty-on-condys-head
-title: "VUWSA doubles bounty on Condy's head"
-date: 2008-07-26
-source-url: https://www.scoop.co.nz/stories/PO0807/S00325/vuwsa-doubles-bounty-on-condys-head.htm
+title: VUWSA doubles bounty on Condy's head
+date: 2008-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00325/vuwsa-doubles-bounty-on-condys-head.htm
 author: victoria-university-students-association
+permalink: /archive/2008/07/26/vuwsa-doubles-bounty-on-condys-head/index.html
+layout: layout.njk
 ---
 VUWSA doubles bounty on Condy's head
 ====================================

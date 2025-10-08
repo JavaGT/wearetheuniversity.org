@@ -1,9 +1,13 @@
 ---
 slug: uc-connect-lecture-rob-fyfe-dare-to-be-different
-title: "UC Connect lecture: Rob Fyfe - Dare to be Different"
-date: 2016-09-22
-source-url: https://www.scoop.co.nz/stories/CU1609/S00359/uc-connect-lecture-rob-fyfe-dare-to-be-different.htm
+title: 'UC Connect lecture: Rob Fyfe - Dare to be Different'
+date: 2016-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1609/S00359/uc-connect-lecture-rob-fyfe-dare-to-be-different.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/09/22/uc-connect-lecture-rob-fyfe-dare-to-be-different/index.html
+layout: layout.njk
 ---
 UC Connect lecture: Rob Fyfe - Dare to be Different
 ===================================================

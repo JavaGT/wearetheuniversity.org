@@ -1,9 +1,13 @@
 ---
 slug: national-focused-on-labelling-not-lifting-achievement
-title: "National focused on labelling – not lifting achievement"
-date: 2013-07-16
-source-url: https://www.scoop.co.nz/stories/PA1307/S00266/national-focused-on-labelling-not-lifting-achievement.htm
+title: National focused on labelling – not lifting achievement
+date: 2013-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00266/national-focused-on-labelling-not-lifting-achievement.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/07/16/national-focused-on-labelling-not-lifting-achievement/index.html
+layout: layout.njk
 ---
 National focused on labelling – not lifting achievement
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: 10-finalists-named-in-ucs-annual-$75000-entre-awards
-title: "10 finalists named in UC’s annual $75,000 Entre Awards"
-date: 2012-10-02
-source-url: https://www.scoop.co.nz/stories/ED1210/S00011/10-finalists-named-in-ucs-annual-75000-entre-awards.htm
+title: 10 finalists named in UC’s annual $75,000 Entre Awards
+date: 2012-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00011/10-finalists-named-in-ucs-annual-75000-entre-awards.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/02/10-finalists-named-in-ucs-annual-/index.html
+layout: layout.njk
 ---
 10 finalists named in UC’s annual $75,000 Entre Awards
 ======================================================

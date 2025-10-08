@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-37
-title: "AUS Tertiary Update  Vol.3 No.37"
-date: 2000-11-09
-source-url: https://www.scoop.co.nz/stories/ED0011/S00020/aus-tertiary-update-vol3-no37.htm
+title: AUS Tertiary Update  Vol.3 No.37
+date: 2000-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00020/aus-tertiary-update-vol3-no37.htm
 author: association-of-university-staff
+permalink: /archive/2000/11/09/aus-tertiary-update-vol-3-no-37/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.37
 ===============================

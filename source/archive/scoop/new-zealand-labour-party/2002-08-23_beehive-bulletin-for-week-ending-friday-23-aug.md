@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-for-week-ending-friday-23-aug
-title: "Beehive Bulletin For Week Ending - Friday 23 Aug"
-date: 2002-08-23
-source-url: https://www.scoop.co.nz/stories/PA0208/S00201/beehive-bulletin-for-week-ending-friday-23-aug.htm
+title: Beehive Bulletin For Week Ending - Friday 23 Aug
+date: 2002-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00201/beehive-bulletin-for-week-ending-friday-23-aug.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/08/23/beehive-bulletin-for-week-ending-friday-23-aug/index.html
+layout: layout.njk
 ---
 Beehive Bulletin For Week Ending - Friday 23 Aug
 ================================================

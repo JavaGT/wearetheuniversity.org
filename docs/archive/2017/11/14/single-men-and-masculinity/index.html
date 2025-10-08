@@ -1,4 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Single men and masculinity – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>Single men and masculinity</h2><h3><span></span></h3><p>Tue Nov 14 2017 13:00:00 GMT+1300 (New Zealand Daylight Time)</p><p><h1>Single men and masculinity</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Single men and masculinity</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Single men and masculinity</h1>
 <p>14 November 2017</p>
 <p>What is it really like being a single man in 21st Century New Zealand today? With online dating apps and television dating shows, single straight men have many opportunities to seek a partner but what if they want a partner but don’t find someone? And what if they are happy being single?</p>
 <p>Researchers at the School of Psychology at the University of Auckland aim to find out what single men have to say for themselves about being single and want to talk to men in centres like Auckland and other parts of New Zealand.</p>
@@ -13,7 +37,32 @@
 <p>The research, designed by Ms Pickens and Professor of Psychology Virginia Braun, who specialises in gender and sexuality, offers men the opportunity to share their experiences in an individual interview, or a small group discussion with other single men.</p>
 <p>For men who are interested in finding out more, please email: <a href="mailto:cpic011@aucklanduni.ac.nz">cpic011@aucklanduni.ac.nz</a></p>
 <h3>Media contact</h3>
-<p>Anne Beston<br>Media Relations Adviser<br>Communications<br>University of Auckland</p>
-<p>Email: <a href="mailto:a.beston@auckland.ac.nz">a.beston@auckland.ac.nz  
-</a>Tel: +64 9 923 3258<br>Mobile: + 64 (0) 21 970 089</p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+<p>Anne Beston<br>
+Media Relations Adviser<br>
+Communications<br>
+University of Auckland</p>
+<p>Email: <a href="mailto:a.beston@auckland.ac.nz">a.beston@auckland.ac.nz<br>
+</a>Tel: +64 9 923 3258<br>
+Mobile: + 64 (0) 21 970 089</p>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

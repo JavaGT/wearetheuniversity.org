@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-gain-control-over-single-atoms
-title: "Otago researchers gain control over single atoms"
-date: 2017-03-08
-source-url: https://www.scoop.co.nz/stories/SC1703/S00022/otago-researchers-gain-control-over-single-atoms.htm
+title: Otago researchers gain control over single atoms
+date: 2017-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00022/otago-researchers-gain-control-over-single-atoms.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/08/otago-researchers-gain-control-over-single-atoms/index.html
+layout: layout.njk
 ---
 Otago researchers gain control over single atoms
 ================================================

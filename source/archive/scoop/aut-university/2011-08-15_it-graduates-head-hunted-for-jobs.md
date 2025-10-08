@@ -1,9 +1,12 @@
 ---
 slug: it-graduates-head-hunted-for-jobs
-title: "IT graduates head-hunted for jobs"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/ED1108/S00084/it-graduates-head-hunted-for-jobs.htm
+title: IT graduates head-hunted for jobs
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00084/it-graduates-head-hunted-for-jobs.htm
 author: aut-university
+permalink: /archive/2011/08/15/it-graduates-head-hunted-for-jobs/index.html
+layout: layout.njk
 ---
 IT graduates head-hunted for jobs
 =================================

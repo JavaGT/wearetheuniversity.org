@@ -1,9 +1,13 @@
 ---
 slug: household-rebates-for-energy-efficient-homes-under-labour
-title: "Household Rebates For Energy Efficient Homes Under Labour"
-date: 2023-09-08
-source-url: https://www.scoop.co.nz/stories/PO2309/S00057/household-rebates-for-energy-efficient-homes-under-labour.htm
+title: Household Rebates For Energy Efficient Homes Under Labour
+date: 2023-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00057/household-rebates-for-energy-efficient-homes-under-labour.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2023/09/08/household-rebates-for-energy-efficient-homes-under-labour/index.html
+layout: layout.njk
 ---
 Household Rebates For Energy Efficient Homes Under Labour
 =========================================================

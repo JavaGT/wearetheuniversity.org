@@ -1,9 +1,12 @@
 ---
 slug: discrimination-leads-to-dunedin-diversity-hui
-title: "Discrimination Leads to Dunedin Diversity Hui"
-date: 2013-11-13
-source-url: https://www.scoop.co.nz/stories/AK1311/S00364/discrimination-leads-to-dunedin-diversity-hui.htm
+title: Discrimination Leads to Dunedin Diversity Hui
+date: 2013-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00364/discrimination-leads-to-dunedin-diversity-hui.htm
 author: ousa
+permalink: /archive/2013/11/13/discrimination-leads-to-dunedin-diversity-hui/index.html
+layout: layout.njk
 ---
 Discrimination Leads to Dunedin Diversity Hui
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: feature-film-to-highlight-antarctic-climate-change
-title: "Feature film to highlight Antarctic climate change"
-date: 2007-06-11
-source-url: https://www.scoop.co.nz/stories/SC0706/S00034/feature-film-to-highlight-antarctic-climate-change.htm
+title: Feature film to highlight Antarctic climate change
+date: 2007-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0706/S00034/feature-film-to-highlight-antarctic-climate-change.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/06/11/feature-film-to-highlight-antarctic-climate-change/index.html
+layout: layout.njk
 ---
 Feature film to highlight Antarctic climate change
 ==================================================

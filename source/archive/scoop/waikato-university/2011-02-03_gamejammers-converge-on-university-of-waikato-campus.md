@@ -1,9 +1,13 @@
 ---
 slug: gamejammers-converge-on-university-of-waikato-campus
-title: "GameJammers converge on University of Waikato campus"
-date: 2011-02-03
-source-url: https://www.scoop.co.nz/stories/AK1102/S00104/gamejammers-converge-on-university-of-waikato-campus.htm
+title: GameJammers converge on University of Waikato campus
+date: 2011-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S00104/gamejammers-converge-on-university-of-waikato-campus.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/02/03/gamejammers-converge-on-university-of-waikato-campus/index.html
+layout: layout.njk
 ---
 GameJammers converge on University of Waikato campus
 ====================================================

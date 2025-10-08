@@ -1,9 +1,13 @@
 ---
 slug: auckland-house-prices-double-since-national-took-office
-title: "Auckland house prices double since National took office"
-date: 2016-08-02
-source-url: https://www.scoop.co.nz/stories/PA1608/S00039/auckland-house-prices-double-since-national-took-office.htm
+title: Auckland house prices double since National took office
+date: 2016-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00039/auckland-house-prices-double-since-national-took-office.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/02/auckland-house-prices-double-since-national-took-office/index.html
+layout: layout.njk
 ---
 Auckland house prices double since National took office
 =======================================================

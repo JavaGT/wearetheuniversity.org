@@ -1,9 +1,13 @@
 ---
 slug: wine-industry-to-benefit-from-dryer-warmer-weather
-title: "Wine industry to benefit from dryer warmer weather"
-date: 2013-04-14
-source-url: https://www.scoop.co.nz/stories/AK1304/S00323/wine-industry-to-benefit-from-dryer-warmer-weather.htm
+title: Wine industry to benefit from dryer warmer weather
+date: 2013-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1304/S00323/wine-industry-to-benefit-from-dryer-warmer-weather.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/14/wine-industry-to-benefit-from-dryer-warmer-weather/index.html
+layout: layout.njk
 ---
 Wine industry to benefit from dryer warmer weather
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: sharn-riggs-appointed-as-teus-national-secretary
-title: "Sharn Riggs appointed as TEU’s national secretary"
-date: 2008-12-19
-source-url: https://www.scoop.co.nz/stories/BU0812/S00410/sharn-riggs-appointed-as-teus-national-secretary.htm
+title: Sharn Riggs appointed as TEU’s national secretary
+date: 2008-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0812/S00410/sharn-riggs-appointed-as-teus-national-secretary.htm
 author: association-of-staff-in-tertiary-education
+permalink: >-
+  /archive/2008/12/19/sharn-riggs-appointed-as-teus-national-secretary/index.html
+layout: layout.njk
 ---
 Sharn Riggs appointed as TEU’s national secretary
 =================================================

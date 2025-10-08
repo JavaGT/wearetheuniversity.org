@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-to-host-deanz-2016-conference
-title: "University of Waikato to host DEANZ 2016 conference"
-date: 2015-07-31
-source-url: https://www.scoop.co.nz/stories/ED1507/S00134/university-of-waikato-to-host-deanz-2016-conference.htm
+title: University of Waikato to host DEANZ 2016 conference
+date: 2015-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00134/university-of-waikato-to-host-deanz-2016-conference.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/07/31/university-of-waikato-to-host-deanz-2016-conference/index.html
+layout: layout.njk
 ---
 University of Waikato to host DEANZ 2016 conference
 ===================================================

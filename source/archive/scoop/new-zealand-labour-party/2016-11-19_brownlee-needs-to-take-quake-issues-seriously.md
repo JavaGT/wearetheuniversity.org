@@ -1,9 +1,12 @@
 ---
 slug: brownlee-needs-to-take-quake-issues-seriously
-title: "Brownlee needs to take quake issues seriously"
-date: 2016-11-19
-source-url: https://www.scoop.co.nz/stories/PA1611/S00352/brownlee-needs-to-take-quake-issues-seriously.htm
+title: Brownlee needs to take quake issues seriously
+date: 2016-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00352/brownlee-needs-to-take-quake-issues-seriously.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/19/brownlee-needs-to-take-quake-issues-seriously/index.html
+layout: layout.njk
 ---
 Brownlee needs to take quake issues seriously
 =============================================

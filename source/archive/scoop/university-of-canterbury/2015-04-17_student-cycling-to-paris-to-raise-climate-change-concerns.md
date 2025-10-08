@@ -1,9 +1,13 @@
 ---
 slug: student-cycling-to-paris-to-raise-climate-change-concerns
-title: "Student Cycling to Paris to Raise Climate Change Concerns"
-date: 2015-04-17
-source-url: https://www.scoop.co.nz/stories/CU1504/S00294/student-cycling-to-paris-to-raise-climate-change-concerns.htm
+title: Student Cycling to Paris to Raise Climate Change Concerns
+date: 2015-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00294/student-cycling-to-paris-to-raise-climate-change-concerns.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/17/student-cycling-to-paris-to-raise-climate-change-concerns/index.html
+layout: layout.njk
 ---
 Student Cycling to Paris to Raise Climate Change Concerns
 =========================================================

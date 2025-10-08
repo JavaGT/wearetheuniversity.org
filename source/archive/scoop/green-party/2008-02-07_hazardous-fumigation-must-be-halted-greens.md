@@ -1,9 +1,12 @@
 ---
 slug: hazardous-fumigation-must-be-halted-greens
-title: "Hazardous fumigation must be halted - Greens"
-date: 2008-02-07
-source-url: https://www.scoop.co.nz/stories/PA0802/S00065/hazardous-fumigation-must-be-halted-greens.htm
+title: Hazardous fumigation must be halted - Greens
+date: 2008-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00065/hazardous-fumigation-must-be-halted-greens.htm
 author: green-party
+permalink: /archive/2008/02/07/hazardous-fumigation-must-be-halted-greens/index.html
+layout: layout.njk
 ---
 Hazardous fumigation must be halted - Greens
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: what-does-arming-israel-cost-us
-title: "What Does Arming Israel Cost Us?"
-date: 2024-08-04
-source-url: https://www.scoop.co.nz/stories/WO2408/S00027/what-does-arming-israel-cost-us.htm
+title: What Does Arming Israel Cost Us?
+date: 2024-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2408/S00027/what-does-arming-israel-cost-us.htm
 author: independent-media-institute
+permalink: /archive/2024/08/04/what-does-arming-israel-cost-us/index.html
+layout: layout.njk
 ---
 What Does Arming Israel Cost Us?
 ================================

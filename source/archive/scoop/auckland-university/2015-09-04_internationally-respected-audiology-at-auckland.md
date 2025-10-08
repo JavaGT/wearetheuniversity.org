@@ -1,9 +1,12 @@
 ---
 slug: internationally-respected-audiology-at-auckland
-title: "Internationally respected audiology at Auckland"
-date: 2015-09-04
-source-url: https://www.scoop.co.nz/stories/SC1509/S00016/internationally-respected-audiology-at-auckland.htm
+title: Internationally respected audiology at Auckland
+date: 2015-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1509/S00016/internationally-respected-audiology-at-auckland.htm
 author: auckland-university
+permalink: /archive/2015/09/04/internationally-respected-audiology-at-auckland/index.html
+layout: layout.njk
 ---
 Internationally respected audiology at Auckland
 ===============================================

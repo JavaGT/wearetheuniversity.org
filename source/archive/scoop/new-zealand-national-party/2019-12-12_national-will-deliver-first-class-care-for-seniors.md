@@ -1,9 +1,13 @@
 ---
 slug: national-will-deliver-first-class-care-for-seniors
-title: "National will deliver first-class care for seniors"
-date: 2019-12-12
-source-url: https://www.scoop.co.nz/stories/PA1912/S00106/national-will-deliver-first-class-care-for-seniors.htm
+title: National will deliver first-class care for seniors
+date: 2019-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00106/national-will-deliver-first-class-care-for-seniors.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/12/12/national-will-deliver-first-class-care-for-seniors/index.html
+layout: layout.njk
 ---
 National will deliver first-class care for seniors
 ==================================================

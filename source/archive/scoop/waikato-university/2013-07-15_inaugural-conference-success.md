@@ -1,9 +1,11 @@
 ---
 slug: inaugural-conference-success
-title: "Inaugural conference success"
-date: 2013-07-15
+title: Inaugural conference success
+date: 2013-07-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1307/S00082/inaugural-conference-success.htm
 author: waikato-university
+permalink: /archive/2013/07/15/inaugural-conference-success/index.html
+layout: layout.njk
 ---
 Inaugural conference success
 ============================

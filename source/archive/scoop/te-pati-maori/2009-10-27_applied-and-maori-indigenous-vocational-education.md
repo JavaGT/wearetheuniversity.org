@@ -1,9 +1,13 @@
 ---
 slug: applied-and-maori-indigenous-vocational-education
-title: "Applied and Maori Indigenous Vocational Education"
-date: 2009-10-27
-source-url: https://www.scoop.co.nz/stories/PA0910/S00388/applied-and-maori-indigenous-vocational-education.htm
+title: Applied and Maori Indigenous Vocational Education
+date: 2009-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00388/applied-and-maori-indigenous-vocational-education.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2009/10/27/applied-and-maori-indigenous-vocational-education/index.html
+layout: layout.njk
 ---
 Applied and Maori Indigenous Vocational Education
 =================================================

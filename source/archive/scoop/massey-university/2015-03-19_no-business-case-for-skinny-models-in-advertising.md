@@ -1,9 +1,13 @@
 ---
 slug: no-business-case-for-skinny-models-in-advertising
-title: "No business case for skinny models in advertising"
-date: 2015-03-19
-source-url: https://www.scoop.co.nz/stories/ED1503/S00086/no-business-case-for-skinny-models-in-advertising.htm
+title: No business case for skinny models in advertising
+date: 2015-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00086/no-business-case-for-skinny-models-in-advertising.htm
 author: massey-university
+permalink: >-
+  /archive/2015/03/19/no-business-case-for-skinny-models-in-advertising/index.html
+layout: layout.njk
 ---
 No business case for skinny models in advertising
 =================================================

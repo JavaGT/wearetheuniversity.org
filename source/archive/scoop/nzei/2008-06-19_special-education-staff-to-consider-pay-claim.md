@@ -1,9 +1,12 @@
 ---
 slug: special-education-staff-to-consider-pay-claim
-title: "Special Education Staff To Consider Pay Claim"
-date: 2008-06-19
-source-url: https://www.scoop.co.nz/stories/ED0806/S00058/special-education-staff-to-consider-pay-claim.htm
+title: Special Education Staff To Consider Pay Claim
+date: 2008-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00058/special-education-staff-to-consider-pay-claim.htm
 author: nzei
+permalink: /archive/2008/06/19/special-education-staff-to-consider-pay-claim/index.html
+layout: layout.njk
 ---
 Special Education Staff To Consider Pay Claim
 =============================================

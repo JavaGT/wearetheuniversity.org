@@ -1,9 +1,11 @@
 ---
 slug: ian-wedde-selected-poems
-title: "Ian Wedde Selected Poems"
-date: 2017-03-16
+title: Ian Wedde Selected Poems
+date: 2017-03-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1703/S00310/ian-wedde-selected-poems.htm
 author: auckland-university-press
+permalink: /archive/2017/03/16/ian-wedde-selected-poems/index.html
+layout: layout.njk
 ---
 Ian Wedde Selected Poems
 ========================

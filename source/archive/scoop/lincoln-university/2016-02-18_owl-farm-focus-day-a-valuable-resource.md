@@ -1,9 +1,12 @@
 ---
 slug: owl-farm-focus-day-a-valuable-resource
-title: "Owl Farm focus day a valuable resource"
-date: 2016-02-18
-source-url: https://www.scoop.co.nz/stories/BU1602/S00588/owl-farm-focus-day-a-valuable-resource.htm
+title: Owl Farm focus day a valuable resource
+date: 2016-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1602/S00588/owl-farm-focus-day-a-valuable-resource.htm
 author: lincoln-university
+permalink: /archive/2016/02/18/owl-farm-focus-day-a-valuable-resource/index.html
+layout: layout.njk
 ---
 Owl Farm focus day a valuable resource
 ======================================

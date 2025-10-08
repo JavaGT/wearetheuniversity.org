@@ -1,9 +1,12 @@
 ---
 slug: lack-of-solarium-regulations-raise-cancer-risks
-title: "Lack of solarium regulations raise cancer risks"
-date: 2007-10-15
-source-url: https://www.scoop.co.nz/stories/PA0710/S00282/lack-of-solarium-regulations-raise-cancer-risks.htm
+title: Lack of solarium regulations raise cancer risks
+date: 2007-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00282/lack-of-solarium-regulations-raise-cancer-risks.htm
 author: green-party
+permalink: /archive/2007/10/15/lack-of-solarium-regulations-raise-cancer-risks/index.html
+layout: layout.njk
 ---
 Lack of solarium regulations raise cancer risks
 ===============================================

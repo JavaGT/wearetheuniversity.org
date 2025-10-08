@@ -1,9 +1,12 @@
 ---
 slug: national-opposes-implementation-of-ncea
-title: "National opposes implementation of NCEA"
-date: 2001-02-12
-source-url: https://www.scoop.co.nz/stories/PA0102/S00147/national-opposes-implementation-of-ncea.htm
+title: National opposes implementation of NCEA
+date: 2001-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00147/national-opposes-implementation-of-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/12/national-opposes-implementation-of-ncea/index.html
+layout: layout.njk
 ---
 National opposes implementation of NCEA
 =======================================

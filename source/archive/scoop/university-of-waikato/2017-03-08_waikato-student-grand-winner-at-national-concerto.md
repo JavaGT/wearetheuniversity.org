@@ -1,9 +1,13 @@
 ---
 slug: waikato-student-grand-winner-at-national-concerto
-title: "Waikato student grand winner at National Concerto"
-date: 2017-03-08
-source-url: https://www.scoop.co.nz/stories/ED1703/S00036/waikato-student-grand-winner-at-national-concerto.htm
+title: Waikato student grand winner at National Concerto
+date: 2017-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00036/waikato-student-grand-winner-at-national-concerto.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/03/08/waikato-student-grand-winner-at-national-concerto/index.html
+layout: layout.njk
 ---
 Waikato student grand winner at National Concerto
 =================================================

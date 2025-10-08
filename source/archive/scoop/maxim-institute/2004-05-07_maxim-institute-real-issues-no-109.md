@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-109
-title: "Maxim Institute - real issues - No. 109"
-date: 2004-05-07
-source-url: https://www.scoop.co.nz/stories/PO0405/S00061/maxim-institute-real-issues-no-109.htm
+title: Maxim Institute - real issues - No. 109
+date: 2004-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00061/maxim-institute-real-issues-no-109.htm
 author: maxim-institute
+permalink: /archive/2004/05/07/maxim-institute-real-issues-no-109/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 109
 =======================================

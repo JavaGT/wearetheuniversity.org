@@ -1,9 +1,12 @@
 ---
 slug: simon-bridges-speech-to-rutherford-college
-title: "Simon Bridges:  Speech to Rutherford College"
-date: 2018-04-12
-source-url: https://www.scoop.co.nz/stories/PA1804/S00140/simon-bridges-speech-to-rutherford-college.htm
+title: 'Simon Bridges:  Speech to Rutherford College'
+date: 2018-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00140/simon-bridges-speech-to-rutherford-college.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/12/simon-bridges-speech-to-rutherford-college/index.html
+layout: layout.njk
 ---
 Simon Bridges: Speech to Rutherford College
 ===========================================

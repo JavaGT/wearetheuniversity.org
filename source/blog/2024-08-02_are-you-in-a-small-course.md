@@ -1,12 +1,22 @@
 ---
+layout: layout.njk
 title: Are you in a small course?
 slug: are-you-in-a-small-course
-date: 2024-08-02
-source: https://www.reddit.com/r/universityofauckland/comments/1ei17pq/are_you_in_a_small_course_course_cuts_are_being/
-mirrored: 2024-08-24
+date: 2024-08-02T00:00:00.000Z
+source: >-
+  https://www.reddit.com/r/universityofauckland/comments/1ei17pq/are_you_in_a_small_course_course_cuts_are_being/
+mirrored: 2024-08-24T00:00:00.000Z
 author: /u/Squashy_ending
 author-url: https://www.reddit.com/user/Squashy_ending
 author-slug: squashy-ending
+permalink: /blog/2024/08/02/are-you-in-a-small-course/index.html
+excerpt: >-
+  Are you in a small course? Course cuts are being proposed under the UoA's
+  curriculum transformation CFT project. The deadline for feedback is Tuesday
+  06/08/24. UPDATE 17/08/24 FOR ALL FUTURE UPDATES AND TO FIND OUT HOW TO GIVE
+  YOUR FEEDBACK, PLEASES GO TO OUR WEBSITE
+  https://burnit.github.io/Disorientation/smallclasses/ +++++++++++++++++ UPDATE
+  12/08/24 Thank...
 ---
 Are you in a small course? Course cuts are being proposed under the UoA's curriculum transformation (CFT) project. The deadline for feedback is Tuesday (06/08/24).
 UPDATE (17/08/24) FOR ALL FUTURE UPDATES AND TO FIND OUT HOW TO GIVE YOUR FEEDBACK, PLEASES GO TO OUR WEBSITE https://burn-it.github.io/Disorientation/small-classes/

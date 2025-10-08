@@ -1,9 +1,12 @@
 ---
 slug: debating-new-zealands-economic-future
-title: "Debating New Zealand’s economic future"
-date: 2010-02-18
-source-url: https://www.scoop.co.nz/stories/PO1002/S00214/debating-new-zealands-economic-future.htm
+title: Debating New Zealand’s economic future
+date: 2010-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1002/S00214/debating-new-zealands-economic-future.htm
 author: aut-university
+permalink: /archive/2010/02/18/debating-new-zealands-economic-future/index.html
+layout: layout.njk
 ---
 Debating New Zealand’s economic future
 ======================================

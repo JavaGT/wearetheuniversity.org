@@ -1,9 +1,13 @@
 ---
 slug: research-to-help-teachers-support-gifted-students
-title: "Research to help teachers support gifted students"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/ED1405/S00029/research-to-help-teachers-support-gifted-students.htm
+title: Research to help teachers support gifted students
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00029/research-to-help-teachers-support-gifted-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/07/research-to-help-teachers-support-gifted-students/index.html
+layout: layout.njk
 ---
 Research to help teachers support gifted students
 =================================================

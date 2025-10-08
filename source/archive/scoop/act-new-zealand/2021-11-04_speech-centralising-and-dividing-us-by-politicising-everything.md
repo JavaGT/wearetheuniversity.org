@@ -1,9 +1,13 @@
 ---
 slug: speech-centralising-and-dividing-us-by-politicising-everything
-title: "Speech: Centralising And Dividing Us By Politicising Everything"
-date: 2021-11-04
-source-url: https://www.scoop.co.nz/stories/PA2111/S00056/speech-centralising-and-dividing-us-by-politicising-everything.htm
+title: 'Speech: Centralising And Dividing Us By Politicising Everything'
+date: 2021-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00056/speech-centralising-and-dividing-us-by-politicising-everything.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/11/04/speech-centralising-and-dividing-us-by-politicising-everything/index.html
+layout: layout.njk
 ---
 Speech: Centralising And Dividing Us By Politicising Everything
 ===============================================================

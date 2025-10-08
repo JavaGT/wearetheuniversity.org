@@ -1,9 +1,12 @@
 ---
 slug: greens-pay-tribute-to-lady-raiha-mahuta
-title: "Greens pay tribute to Lady Raiha Mahuta"
-date: 2010-03-23
-source-url: https://www.scoop.co.nz/stories/PA1003/S00323/greens-pay-tribute-to-lady-raiha-mahuta.htm
+title: Greens pay tribute to Lady Raiha Mahuta
+date: 2010-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00323/greens-pay-tribute-to-lady-raiha-mahuta.htm
 author: green-party
+permalink: /archive/2010/03/23/greens-pay-tribute-to-lady-raiha-mahuta/index.html
+layout: layout.njk
 ---
 Greens pay tribute to Lady Raiha Mahuta
 =======================================

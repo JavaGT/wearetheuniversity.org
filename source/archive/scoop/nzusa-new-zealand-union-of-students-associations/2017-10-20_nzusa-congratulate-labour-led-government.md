@@ -1,9 +1,12 @@
 ---
 slug: nzusa-congratulate-labour-led-government
-title: "NZUSA Congratulate Labour-Led Government"
-date: 2017-10-20
-source-url: https://www.scoop.co.nz/stories/PO1710/S00153/nzusa-congratulate-labour-led-government.htm
+title: NZUSA Congratulate Labour-Led Government
+date: 2017-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1710/S00153/nzusa-congratulate-labour-led-government.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2017/10/20/nzusa-congratulate-labour-led-government/index.html
+layout: layout.njk
 ---
 NZUSA Congratulate Labour-Led Government
 ========================================

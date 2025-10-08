@@ -1,9 +1,12 @@
 ---
 slug: can-seeing-a-face-change-the-way-we-speak
-title: "Can seeing a face change the way we speak?"
-date: 2013-02-06
-source-url: https://www.scoop.co.nz/stories/SC1302/S00023/can-seeing-a-face-change-the-way-we-speak.htm
+title: Can seeing a face change the way we speak?
+date: 2013-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1302/S00023/can-seeing-a-face-change-the-way-we-speak.htm
 author: university-of-canterbury
+permalink: /archive/2013/02/06/can-seeing-a-face-change-the-way-we-speak/index.html
+layout: layout.njk
 ---
 Can seeing a face change the way we speak?
 ==========================================

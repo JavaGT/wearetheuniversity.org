@@ -1,9 +1,15 @@
 ---
-slug: māori-party-calls-on-government-to-address-teachers-concerns-with-new-education-rules
-title: "Māori Party Calls On Government To Address Teachers’ Concerns With New Education Rules"
-date: 2020-04-17
-source-url: https://www.scoop.co.nz/stories/PO2004/S00153/maori-party-calls-on-government-to-address-teachers-concerns-with-new-education-rules.htm
+slug: >-
+  māori-party-calls-on-government-to-address-teachers-concerns-with-new-education-rules
+title: >-
+  Māori Party Calls On Government To Address Teachers’ Concerns With New
+  Education Rules
+date: 2020-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2004/S00153/maori-party-calls-on-government-to-address-teachers-concerns-with-new-education-rules.htm
 author: te-pati-maori
+permalink: /archive/2020/04/17/m/index.html
+layout: layout.njk
 ---
 Māori Party Calls On Government To Address Teachers’ Concerns With New Education Rules
 ======================================================================================

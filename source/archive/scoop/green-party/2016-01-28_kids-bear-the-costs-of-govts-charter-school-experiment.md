@@ -1,9 +1,13 @@
 ---
 slug: kids-bear-the-costs-of-govts-charter-school-experiment
-title: "Kids bear the costs of Govt’s charter school experiment"
-date: 2016-01-28
-source-url: https://www.scoop.co.nz/stories/PA1601/S00146/kids-bear-the-costs-of-govts-charter-school-experiment.htm
+title: Kids bear the costs of Govt’s charter school experiment
+date: 2016-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00146/kids-bear-the-costs-of-govts-charter-school-experiment.htm
 author: green-party
+permalink: >-
+  /archive/2016/01/28/kids-bear-the-costs-of-govts-charter-school-experiment/index.html
+layout: layout.njk
 ---
 Kids bear the costs of Govt’s charter school experiment
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: action-needed-on-building-crisis-and-now
-title: "Action needed on building crisis – and now"
-date: 2002-09-23
-source-url: https://www.scoop.co.nz/stories/PA0209/S00375/action-needed-on-building-crisis-and-now.htm
+title: Action needed on building crisis – and now
+date: 2002-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00375/action-needed-on-building-crisis-and-now.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/23/action-needed-on-building-crisis-and-now/index.html
+layout: layout.njk
 ---
 Action needed on building crisis – and now
 ==========================================

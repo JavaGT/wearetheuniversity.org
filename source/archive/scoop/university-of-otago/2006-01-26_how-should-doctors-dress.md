@@ -1,9 +1,11 @@
 ---
 slug: how-should-doctors-dress
-title: "How Should Doctors Dress?"
-date: 2006-01-26
+title: How Should Doctors Dress?
+date: 2006-01-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0601/S00044/how-should-doctors-dress.htm
 author: university-of-otago
+permalink: /archive/2006/01/26/how-should-doctors-dress/index.html
+layout: layout.njk
 ---
 How Should Doctors Dress?
 =========================

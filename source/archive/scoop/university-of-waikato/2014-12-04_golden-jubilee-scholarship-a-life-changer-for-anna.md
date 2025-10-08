@@ -1,9 +1,13 @@
 ---
 slug: golden-jubilee-scholarship-a-life-changer-for-anna
-title: "Golden Jubilee Scholarship a life-changer for Anna"
-date: 2014-12-04
-source-url: https://www.scoop.co.nz/stories/ED1412/S00032/golden-jubilee-scholarship-a-life-changer-for-anna.htm
+title: Golden Jubilee Scholarship a life-changer for Anna
+date: 2014-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00032/golden-jubilee-scholarship-a-life-changer-for-anna.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/12/04/golden-jubilee-scholarship-a-life-changer-for-anna/index.html
+layout: layout.njk
 ---
 Golden Jubilee Scholarship a life-changer for Anna
 ==================================================

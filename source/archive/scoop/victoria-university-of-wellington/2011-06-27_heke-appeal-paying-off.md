@@ -1,9 +1,11 @@
 ---
 slug: heke-appeal-paying-off
-title: "HEKE appeal paying off"
-date: 2011-06-27
+title: HEKE appeal paying off
+date: 2011-06-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1106/S00104/heke-appeal-paying-off.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/06/27/heke-appeal-paying-off/index.html
+layout: layout.njk
 ---
 HEKE appeal paying off
 ======================

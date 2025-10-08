@@ -1,9 +1,12 @@
 ---
 slug: delays-to-christchurch-rebuild-biggest-concern
-title: "Delays to Christchurch rebuild biggest concern"
-date: 2012-08-24
-source-url: https://www.scoop.co.nz/stories/AK1208/S00552/delays-to-christchurch-rebuild-biggest-concern.htm
+title: Delays to Christchurch rebuild biggest concern
+date: 2012-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1208/S00552/delays-to-christchurch-rebuild-biggest-concern.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/24/delays-to-christchurch-rebuild-biggest-concern/index.html
+layout: layout.njk
 ---
 Delays to Christchurch rebuild biggest concern
 ==============================================

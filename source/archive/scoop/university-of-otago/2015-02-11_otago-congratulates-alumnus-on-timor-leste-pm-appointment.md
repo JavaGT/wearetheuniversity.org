@@ -1,9 +1,13 @@
 ---
 slug: otago-congratulates-alumnus-on-timor-leste-pm-appointment
-title: "Otago congratulates alumnus on Timor-Leste PM appointment"
-date: 2015-02-11
-source-url: https://www.scoop.co.nz/stories/ED1502/S00035/otago-congratulates-alumnus-on-timor-leste-pm-appointment.htm
+title: Otago congratulates alumnus on Timor-Leste PM appointment
+date: 2015-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00035/otago-congratulates-alumnus-on-timor-leste-pm-appointment.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/02/11/otago-congratulates-alumnus-on-timor-leste-pm-appointment/index.html
+layout: layout.njk
 ---
 Otago congratulates alumnus on Timor-Leste PM appointment
 =========================================================

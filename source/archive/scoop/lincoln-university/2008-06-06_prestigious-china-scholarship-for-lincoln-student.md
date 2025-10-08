@@ -1,9 +1,13 @@
 ---
 slug: prestigious-china-scholarship-for-lincoln-student
-title: "Prestigious China Scholarship for Lincoln Student"
-date: 2008-06-06
-source-url: https://www.scoop.co.nz/stories/ED0806/S00019/prestigious-china-scholarship-for-lincoln-student.htm
+title: Prestigious China Scholarship for Lincoln Student
+date: 2008-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00019/prestigious-china-scholarship-for-lincoln-student.htm
 author: lincoln-university
+permalink: >-
+  /archive/2008/06/06/prestigious-china-scholarship-for-lincoln-student/index.html
+layout: layout.njk
 ---
 Prestigious China Scholarship for Lincoln Student
 =================================================

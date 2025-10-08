@@ -1,9 +1,12 @@
 ---
 slug: peters-budget-in-reply-speech
-title: "Peters: Budget in Reply Speech"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/PA1405/S00295/peters-budget-in-reply-speech.htm
+title: 'Peters: Budget in Reply Speech'
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00295/peters-budget-in-reply-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2014/05/15/peters-budget-in-reply-speech/index.html
+layout: layout.njk
 ---
 Peters: Budget in Reply Speech
 ==============================

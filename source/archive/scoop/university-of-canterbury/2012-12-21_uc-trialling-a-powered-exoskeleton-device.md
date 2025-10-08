@@ -1,9 +1,12 @@
 ---
 slug: uc-trialling-a-powered-exoskeleton-device
-title: "UC trialling a powered exoskeleton device"
-date: 2012-12-21
-source-url: https://www.scoop.co.nz/stories/ED1212/S00139/uc-trialling-a-powered-exoskeleton-device.htm
+title: UC trialling a powered exoskeleton device
+date: 2012-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00139/uc-trialling-a-powered-exoskeleton-device.htm
 author: university-of-canterbury
+permalink: /archive/2012/12/21/uc-trialling-a-powered-exoskeleton-device/index.html
+layout: layout.njk
 ---
 UC trialling a powered exoskeleton device
 =========================================

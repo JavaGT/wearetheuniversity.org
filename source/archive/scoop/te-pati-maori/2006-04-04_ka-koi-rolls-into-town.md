@@ -1,9 +1,11 @@
 ---
 slug: ka-koi-rolls-into-town
-title: "Ka Koi Rolls into Town"
-date: 2006-04-04
+title: Ka Koi Rolls into Town
+date: 2006-04-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0604/S00044/ka-koi-rolls-into-town.htm
 author: te-pati-maori
+permalink: /archive/2006/04/04/ka-koi-rolls-into-town/index.html
+layout: layout.njk
 ---
 Ka Koi Rolls into Town
 ======================

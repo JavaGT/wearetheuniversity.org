@@ -1,9 +1,12 @@
 ---
 slug: wellington-peace-march-11am-march-22-civic-sq
-title: "Wellington Peace March – 11am March 22 Civic Sq."
-date: 2003-03-17
-source-url: https://www.scoop.co.nz/stories/PO0303/S00131/wellington-peace-march-11am-march-22-civic-sq.htm
+title: Wellington Peace March – 11am March 22 Civic Sq.
+date: 2003-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0303/S00131/wellington-peace-march-11am-march-22-civic-sq.htm
 author: peace-action-wellington
+permalink: /archive/2003/03/17/wellington-peace-march-11am-march-22-civic-sq/index.html
+layout: layout.njk
 ---
 Wellington Peace March – 11am March 22 Civic Sq.
 ================================================

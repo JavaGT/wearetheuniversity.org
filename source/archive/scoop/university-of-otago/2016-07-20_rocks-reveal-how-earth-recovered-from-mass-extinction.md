@@ -1,9 +1,13 @@
 ---
 slug: rocks-reveal-how-earth-recovered-from-mass-extinction
-title: "Rocks reveal how Earth recovered from mass extinction"
-date: 2016-07-20
-source-url: https://www.scoop.co.nz/stories/SC1607/S00047/rocks-reveal-how-earth-recovered-from-mass-extinction.htm
+title: Rocks reveal how Earth recovered from mass extinction
+date: 2016-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00047/rocks-reveal-how-earth-recovered-from-mass-extinction.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/20/rocks-reveal-how-earth-recovered-from-mass-extinction/index.html
+layout: layout.njk
 ---
 Rocks reveal how Earth recovered from mass extinction
 =====================================================

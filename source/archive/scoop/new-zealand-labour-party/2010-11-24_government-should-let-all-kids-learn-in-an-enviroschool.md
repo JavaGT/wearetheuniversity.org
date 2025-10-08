@@ -1,9 +1,13 @@
 ---
 slug: government-should-let-all-kids-learn-in-an-enviroschool
-title: "Government should let all kids learn in an Enviroschool"
-date: 2010-11-24
-source-url: https://www.scoop.co.nz/stories/PA1011/S00504/government-should-let-all-kids-learn-in-an-enviroschool.htm
+title: Government should let all kids learn in an Enviroschool
+date: 2010-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00504/government-should-let-all-kids-learn-in-an-enviroschool.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/11/24/government-should-let-all-kids-learn-in-an-enviroschool/index.html
+layout: layout.njk
 ---
 Government should let all kids learn in an Enviroschool
 =======================================================

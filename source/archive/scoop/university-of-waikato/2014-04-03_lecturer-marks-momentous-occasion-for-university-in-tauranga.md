@@ -1,9 +1,13 @@
 ---
 slug: lecturer-marks-momentous-occasion-for-university-in-tauranga
-title: "Lecturer marks momentous occasion for University in Tauranga"
-date: 2014-04-03
-source-url: https://www.scoop.co.nz/stories/ED1404/S00019/lecturer-marks-momentous-occasion-for-university-in-tauranga.htm
+title: Lecturer marks momentous occasion for University in Tauranga
+date: 2014-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00019/lecturer-marks-momentous-occasion-for-university-in-tauranga.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/04/03/lecturer-marks-momentous-occasion-for-university-in-tauranga/index.html
+layout: layout.njk
 ---
 Lecturer marks momentous occasion for University in Tauranga
 ============================================================

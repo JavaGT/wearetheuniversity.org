@@ -1,9 +1,11 @@
 ---
 slug: close-the-gates!
-title: "Close The Gates!"
-date: 2001-03-09
+title: Close The Gates!
+date: 2001-03-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0103/S00142/close-the-gates.htm
 author: act-new-zealand
+permalink: /archive/2001/03/09/close-the-gates/index.html
+layout: layout.njk
 ---
 Close The Gates!
 ================

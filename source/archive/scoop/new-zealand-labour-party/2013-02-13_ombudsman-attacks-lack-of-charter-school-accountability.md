@@ -1,9 +1,13 @@
 ---
 slug: ombudsman-attacks-lack-of-charter-school-accountability
-title: "Ombudsman attacks lack of Charter School accountability"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/PA1302/S00155/ombudsman-attacks-lack-of-charter-school-accountability.htm
+title: Ombudsman attacks lack of Charter School accountability
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00155/ombudsman-attacks-lack-of-charter-school-accountability.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/02/13/ombudsman-attacks-lack-of-charter-school-accountability/index.html
+layout: layout.njk
 ---
 Ombudsman attacks lack of Charter School accountability
 =======================================================

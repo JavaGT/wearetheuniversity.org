@@ -1,9 +1,12 @@
 ---
 slug: greens-finally-discover-education
-title: "Greens Finally Discover Education"
-date: 2002-07-23
-source-url: https://www.scoop.co.nz/stories/PA0207/S00608/greens-finally-discover-education.htm
+title: Greens Finally Discover Education
+date: 2002-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00608/greens-finally-discover-education.htm
 author: act-new-zealand
+permalink: /archive/2002/07/23/greens-finally-discover-education/index.html
+layout: layout.njk
 ---
 Greens Finally Discover Education
 =================================

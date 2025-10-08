@@ -1,9 +1,12 @@
 ---
 slug: no-exemption-for-education-in-fire-at-will-bill
-title: "No Exemption For Education In Fire At Will Bill"
-date: 2008-12-11
-source-url: https://www.scoop.co.nz/stories/ED0812/S00046/no-exemption-for-education-in-fire-at-will-bill.htm
+title: No Exemption For Education In Fire At Will Bill
+date: 2008-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00046/no-exemption-for-education-in-fire-at-will-bill.htm
 author: nzei
+permalink: /archive/2008/12/11/no-exemption-for-education-in-fire-at-will-bill/index.html
+layout: layout.njk
 ---
 No Exemption For Education In Fire At Will Bill
 ===============================================

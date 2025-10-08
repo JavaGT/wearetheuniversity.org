@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-rereamoamo-monte-ohia
-title: "Poroporoaki: Rereamoamo Monte Ohia"
-date: 2008-06-12
-source-url: https://www.scoop.co.nz/stories/PA0806/S00173/poroporoaki-rereamoamo-monte-ohia.htm
+title: 'Poroporoaki: Rereamoamo Monte Ohia'
+date: 2008-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00173/poroporoaki-rereamoamo-monte-ohia.htm
 author: te-pati-maori
+permalink: /archive/2008/06/12/poroporoaki-rereamoamo-monte-ohia/index.html
+layout: layout.njk
 ---
 Poroporoaki: Rereamoamo Monte Ohia
 ==================================

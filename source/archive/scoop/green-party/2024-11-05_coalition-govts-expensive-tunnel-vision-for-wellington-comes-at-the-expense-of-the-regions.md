@@ -1,9 +1,16 @@
 ---
-slug: coalition-govts-expensive-tunnel-vision-for-wellington-comes-at-the-expense-of-the-regions
-title: "Coalition Govt’s Expensive Tunnel Vision For Wellington Comes At The Expense Of The Regions"
-date: 2024-11-05
-source-url: https://www.scoop.co.nz/stories/PA2411/S00030/coalition-govts-expensive-tunnel-vision-for-wellington-comes-at-the-expense-of-the-regions.htm
+slug: >-
+  coalition-govts-expensive-tunnel-vision-for-wellington-comes-at-the-expense-of-the-regions
+title: >-
+  Coalition Govt’s Expensive Tunnel Vision For Wellington Comes At The Expense
+  Of The Regions
+date: 2024-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00030/coalition-govts-expensive-tunnel-vision-for-wellington-comes-at-the-expense-of-the-regions.htm
 author: green-party
+permalink: >-
+  /archive/2024/11/05/coalition-govts-expensive-tunnel-vision-for-wellington-comes-at-the-expense-of-the-regions/index.html
+layout: layout.njk
 ---
 Coalition Govt’s Expensive Tunnel Vision For Wellington Comes At The Expense Of The Regions
 ===========================================================================================

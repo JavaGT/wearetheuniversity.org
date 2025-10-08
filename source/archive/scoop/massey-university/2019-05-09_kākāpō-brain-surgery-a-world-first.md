@@ -1,9 +1,12 @@
 ---
 slug: kākāpō-brain-surgery-a-world-first
-title: "Kākāpō brain surgery a world-first"
-date: 2019-05-09
-source-url: https://www.scoop.co.nz/stories/SC1905/S00016/kakapo-brain-surgery-a-world-first.htm
+title: Kākāpō brain surgery a world-first
+date: 2019-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1905/S00016/kakapo-brain-surgery-a-world-first.htm
 author: massey-university
+permalink: /archive/2019/05/09/k/index.html
+layout: layout.njk
 ---
 Kākāpō brain surgery a world-first
 ==================================

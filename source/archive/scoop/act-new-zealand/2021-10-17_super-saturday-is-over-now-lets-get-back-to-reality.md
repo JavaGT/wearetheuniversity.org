@@ -1,9 +1,13 @@
 ---
 slug: super-saturday-is-over-now-lets-get-back-to-reality
-title: "Super Saturday Is Over, Now Let’s Get Back To Reality"
-date: 2021-10-17
-source-url: https://www.scoop.co.nz/stories/PA2110/S00157/super-saturday-is-over-now-lets-get-back-to-reality.htm
+title: Super Saturday Is Over, Now Let’s Get Back To Reality
+date: 2021-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00157/super-saturday-is-over-now-lets-get-back-to-reality.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/10/17/super-saturday-is-over-now-lets-get-back-to-reality/index.html
+layout: layout.njk
 ---
 Super Saturday Is Over, Now Let’s Get Back To Reality
 =====================================================

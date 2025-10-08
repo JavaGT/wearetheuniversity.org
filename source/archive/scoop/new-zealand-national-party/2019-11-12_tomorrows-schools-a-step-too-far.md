@@ -1,9 +1,12 @@
 ---
 slug: tomorrows-schools-a-step-too-far
-title: "Tomorrow’s Schools a step too far"
-date: 2019-11-12
-source-url: https://www.scoop.co.nz/stories/PA1911/S00084/tomorrows-schools-a-step-too-far.htm
+title: Tomorrow’s Schools a step too far
+date: 2019-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00084/tomorrows-schools-a-step-too-far.htm
 author: new-zealand-national-party
+permalink: /archive/2019/11/12/tomorrows-schools-a-step-too-far/index.html
+layout: layout.njk
 ---
 Tomorrow’s Schools a step too far
 =================================

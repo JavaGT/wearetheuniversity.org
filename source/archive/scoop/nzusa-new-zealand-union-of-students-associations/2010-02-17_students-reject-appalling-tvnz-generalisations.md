@@ -1,9 +1,12 @@
 ---
 slug: students-reject-appalling-tvnz-generalisations
-title: "Students reject appalling TVNZ generalisations"
-date: 2010-02-17
-source-url: https://www.scoop.co.nz/stories/ED1002/S00065/students-reject-appalling-tvnz-generalisations.htm
+title: Students reject appalling TVNZ generalisations
+date: 2010-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00065/students-reject-appalling-tvnz-generalisations.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/02/17/students-reject-appalling-tvnz-generalisations/index.html
+layout: layout.njk
 ---
 Students reject appalling TVNZ generalisations
 ==============================================

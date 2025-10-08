@@ -1,9 +1,12 @@
 ---
 slug: big-win-for-hamilton-electrical-firm-at-ecanz
-title: "Big win for Hamilton electrical firm at ECANZ"
-date: 2013-09-03
-source-url: https://www.scoop.co.nz/stories/BU1309/S00101/big-win-for-hamilton-electrical-firm-at-ecanz.htm
+title: Big win for Hamilton electrical firm at ECANZ
+date: 2013-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1309/S00101/big-win-for-hamilton-electrical-firm-at-ecanz.htm
 author: university-of-waikato
+permalink: /archive/2013/09/03/big-win-for-hamilton-electrical-firm-at-ecanz/index.html
+layout: layout.njk
 ---
 Big win for Hamilton electrical firm at ECANZ
 =============================================

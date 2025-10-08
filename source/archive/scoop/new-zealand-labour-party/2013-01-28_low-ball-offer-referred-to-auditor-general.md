@@ -1,9 +1,12 @@
 ---
 slug: low-ball-offer-referred-to-auditor-general
-title: "Low-Ball Offer Referred To Auditor-General"
-date: 2013-01-28
-source-url: https://www.scoop.co.nz/stories/PA1301/S00123/low-ball-offer-referred-to-auditor-general.htm
+title: Low-Ball Offer Referred To Auditor-General
+date: 2013-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00123/low-ball-offer-referred-to-auditor-general.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/28/low-ball-offer-referred-to-auditor-general/index.html
+layout: layout.njk
 ---
 Low-Ball Offer Referred To Auditor-General
 ==========================================

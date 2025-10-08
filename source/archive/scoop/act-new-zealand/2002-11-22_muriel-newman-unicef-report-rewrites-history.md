@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-unicef-report-rewrites-history
-title: "Muriel Newman: UNICEF Report Rewrites History"
-date: 2002-11-22
-source-url: https://www.scoop.co.nz/stories/PA0211/S00531/muriel-newman-unicef-report-rewrites-history.htm
+title: 'Muriel Newman: UNICEF Report Rewrites History'
+date: 2002-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00531/muriel-newman-unicef-report-rewrites-history.htm
 author: act-new-zealand
+permalink: /archive/2002/11/22/muriel-newman-unicef-report-rewrites-history/index.html
+layout: layout.njk
 ---
 Muriel Newman: UNICEF Report Rewrites History
 =============================================

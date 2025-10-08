@@ -1,9 +1,12 @@
 ---
 slug: minister-doesnt-understand-scale-of-the-problem
-title: "Minister Doesn’t Understand Scale Of The Problem"
-date: 2022-09-01
-source-url: https://www.scoop.co.nz/stories/PA2209/S00007/minister-doesnt-understand-scale-of-the-problem.htm
+title: Minister Doesn’t Understand Scale Of The Problem
+date: 2022-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00007/minister-doesnt-understand-scale-of-the-problem.htm
 author: act-new-zealand
+permalink: /archive/2022/09/01/minister-doesnt-understand-scale-of-the-problem/index.html
+layout: layout.njk
 ---
 Minister Doesn’t Understand Scale Of The Problem
 ================================================

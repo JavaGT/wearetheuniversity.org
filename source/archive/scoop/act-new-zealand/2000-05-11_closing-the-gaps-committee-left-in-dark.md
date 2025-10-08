@@ -1,9 +1,12 @@
 ---
 slug: closing-the-gaps-committee-left-in-dark
-title: "Closing The Gaps Committee Left in Dark"
-date: 2000-05-11
-source-url: https://www.scoop.co.nz/stories/PA0005/S00245/closing-the-gaps-committee-left-in-dark.htm
+title: Closing The Gaps Committee Left in Dark
+date: 2000-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00245/closing-the-gaps-committee-left-in-dark.htm
 author: act-new-zealand
+permalink: /archive/2000/05/11/closing-the-gaps-committee-left-in-dark/index.html
+layout: layout.njk
 ---
 Closing The Gaps Committee Left in Dark
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-14-no-31
-title: "TEU Tertiary Update Vol 14 No 31"
-date: 2011-08-25
-source-url: https://www.scoop.co.nz/stories/ED1108/S00126/teu-tertiary-update-vol-14-no-31.htm
+title: TEU Tertiary Update Vol 14 No 31
+date: 2011-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00126/teu-tertiary-update-vol-14-no-31.htm
 author: association-of-university-staff
+permalink: /archive/2011/08/25/teu-tertiary-update-vol-14-no-31/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 14 No 31
 ================================

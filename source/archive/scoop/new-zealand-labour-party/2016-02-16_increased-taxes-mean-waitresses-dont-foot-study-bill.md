@@ -1,9 +1,13 @@
 ---
 slug: increased-taxes-mean-waitresses-dont-foot-study-bill
-title: "Increased taxes mean ‘waitresses’ don’t foot study bill"
-date: 2016-02-16
-source-url: https://www.scoop.co.nz/stories/PA1602/S00192/increased-taxes-mean-waitresses-dont-foot-study-bill.htm
+title: Increased taxes mean ‘waitresses’ don’t foot study bill
+date: 2016-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00192/increased-taxes-mean-waitresses-dont-foot-study-bill.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/02/16/increased-taxes-mean-waitresses-dont-foot-study-bill/index.html
+layout: layout.njk
 ---
 Increased taxes mean ‘waitresses’ don’t foot study bill
 =======================================================

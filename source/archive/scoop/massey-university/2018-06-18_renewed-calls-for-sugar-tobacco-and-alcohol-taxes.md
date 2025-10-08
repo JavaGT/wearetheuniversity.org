@@ -1,9 +1,13 @@
 ---
 slug: renewed-calls-for-sugar-tobacco-and-alcohol-taxes
-title: "Renewed calls for sugar, tobacco and alcohol taxes"
-date: 2018-06-18
-source-url: https://www.scoop.co.nz/stories/PO1806/S00193/renewed-calls-for-sugar-tobacco-and-alcohol-taxes.htm
+title: Renewed calls for sugar, tobacco and alcohol taxes
+date: 2018-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1806/S00193/renewed-calls-for-sugar-tobacco-and-alcohol-taxes.htm
 author: massey-university
+permalink: >-
+  /archive/2018/06/18/renewed-calls-for-sugar-tobacco-and-alcohol-taxes/index.html
+layout: layout.njk
 ---
 Renewed calls for sugar, tobacco and alcohol taxes
 ==================================================

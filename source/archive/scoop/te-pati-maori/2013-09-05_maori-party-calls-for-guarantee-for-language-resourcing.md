@@ -1,9 +1,13 @@
 ---
 slug: maori-party-calls-for-guarantee-for-language-resourcing
-title: "Maori Party calls for guarantee for language resourcing"
-date: 2013-09-05
-source-url: https://www.scoop.co.nz/stories/PA1309/S00131/maori-party-calls-for-guarantee-for-language-resourcing.htm
+title: Maori Party calls for guarantee for language resourcing
+date: 2013-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00131/maori-party-calls-for-guarantee-for-language-resourcing.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/09/05/maori-party-calls-for-guarantee-for-language-resourcing/index.html
+layout: layout.njk
 ---
 Maori Party calls for guarantee for language resourcing
 =======================================================

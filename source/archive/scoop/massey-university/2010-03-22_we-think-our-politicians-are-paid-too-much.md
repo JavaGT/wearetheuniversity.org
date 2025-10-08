@@ -1,9 +1,12 @@
 ---
 slug: we-think-our-politicians-are-paid-too-much
-title: "We think our politicians are paid too much"
-date: 2010-03-22
-source-url: https://www.scoop.co.nz/stories/PO1003/S00314/we-think-our-politicians-are-paid-too-much.htm
+title: We think our politicians are paid too much
+date: 2010-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00314/we-think-our-politicians-are-paid-too-much.htm
 author: massey-university
+permalink: /archive/2010/03/22/we-think-our-politicians-are-paid-too-much/index.html
+layout: layout.njk
 ---
 We think our politicians are paid too much
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: march-8-international-womens-day
-title: "March 8 International Women’s Day"
-date: 2015-03-06
-source-url: https://www.scoop.co.nz/stories/PO1503/S00077/march-8-international-womens-day.htm
+title: March 8 International Women’s Day
+date: 2015-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1503/S00077/march-8-international-womens-day.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2015/03/06/march-8-international-womens-day/index.html
+layout: layout.njk
 ---
 March 8 International Women’s Day
 =================================

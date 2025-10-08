@@ -1,9 +1,12 @@
 ---
 slug: government-failing-earthquake-victims
-title: "Government failing earthquake victims"
-date: 2011-01-27
-source-url: https://www.scoop.co.nz/stories/PA1101/S00109/government-failing-earthquake-victims.htm
+title: Government failing earthquake victims
+date: 2011-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00109/government-failing-earthquake-victims.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/27/government-failing-earthquake-victims/index.html
+layout: layout.njk
 ---
 Government failing earthquake victims
 =====================================

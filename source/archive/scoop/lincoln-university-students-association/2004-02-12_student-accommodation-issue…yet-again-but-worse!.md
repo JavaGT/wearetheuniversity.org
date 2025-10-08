@@ -1,9 +1,12 @@
 ---
 slug: student-accommodation-issue…yet-again-but-worse!
-title: "Student Accommodation Issue…yet again, but worse!"
-date: 2004-02-12
-source-url: https://www.scoop.co.nz/stories/ED0402/S00025/student-accommodation-issueyet-again-but-worse.htm
+title: Student Accommodation Issue…yet again, but worse!
+date: 2004-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00025/student-accommodation-issueyet-again-but-worse.htm
 author: lincoln-university-students-association
+permalink: /archive/2004/02/12/student-accommodation-issue/index.html
+layout: layout.njk
 ---
 Student Accommodation Issue…yet again, but worse!
 =================================================

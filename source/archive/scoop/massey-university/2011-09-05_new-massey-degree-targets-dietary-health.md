@@ -1,9 +1,12 @@
 ---
 slug: new-massey-degree-targets-dietary-health
-title: "New Massey degree targets dietary health"
-date: 2011-09-05
-source-url: https://www.scoop.co.nz/stories/ED1109/S00014/new-massey-degree-targets-dietary-health.htm
+title: New Massey degree targets dietary health
+date: 2011-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00014/new-massey-degree-targets-dietary-health.htm
 author: massey-university
+permalink: /archive/2011/09/05/new-massey-degree-targets-dietary-health/index.html
+layout: layout.njk
 ---
 New Massey degree targets dietary health
 ========================================

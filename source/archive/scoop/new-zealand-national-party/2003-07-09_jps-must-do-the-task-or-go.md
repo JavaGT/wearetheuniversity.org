@@ -1,9 +1,11 @@
 ---
 slug: jps-must-do-the-task-or-go
-title: "JPs must do the task - or go"
-date: 2003-07-09
+title: JPs must do the task - or go
+date: 2003-07-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0307/S00193/jps-must-do-the-task-or-go.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/09/jps-must-do-the-task-or-go/index.html
+layout: layout.njk
 ---
 JPs must do the task - or go
 ============================

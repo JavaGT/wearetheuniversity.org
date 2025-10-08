@@ -1,9 +1,12 @@
 ---
 slug: universities-to-face-industrial-disruption
-title: "Universities to face industrial disruption"
-date: 2005-06-10
-source-url: https://www.scoop.co.nz/stories/ED0506/S00025/universities-to-face-industrial-disruption.htm
+title: Universities to face industrial disruption
+date: 2005-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00025/universities-to-face-industrial-disruption.htm
 author: association-of-university-staff
+permalink: /archive/2005/06/10/universities-to-face-industrial-disruption/index.html
+layout: layout.njk
 ---
 Universities to face industrial disruption
 ==========================================

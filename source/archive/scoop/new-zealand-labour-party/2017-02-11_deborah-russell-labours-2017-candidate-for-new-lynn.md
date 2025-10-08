@@ -1,9 +1,13 @@
 ---
 slug: deborah-russell-labours-2017-candidate-for-new-lynn
-title: "Deborah Russell  Labour’s 2017 candidate for New Lynn"
-date: 2017-02-11
-source-url: https://www.scoop.co.nz/stories/PO1702/S00108/deborah-russell-labours-2017-candidate-for-new-lynn.htm
+title: Deborah Russell  Labour’s 2017 candidate for New Lynn
+date: 2017-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1702/S00108/deborah-russell-labours-2017-candidate-for-new-lynn.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/02/11/deborah-russell-labours-2017-candidate-for-new-lynn/index.html
+layout: layout.njk
 ---
 Deborah Russell Labour’s 2017 candidate for New Lynn
 ====================================================

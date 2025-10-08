@@ -1,9 +1,13 @@
 ---
 slug: our-most-precious-wilderness-not-safe-from-mining
-title: "Our most precious wilderness not safe from mining"
-date: 2013-03-28
-source-url: https://www.scoop.co.nz/stories/PA1303/S00489/our-most-precious-wilderness-not-safe-from-mining.htm
+title: Our most precious wilderness not safe from mining
+date: 2013-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00489/our-most-precious-wilderness-not-safe-from-mining.htm
 author: green-party
+permalink: >-
+  /archive/2013/03/28/our-most-precious-wilderness-not-safe-from-mining/index.html
+layout: layout.njk
 ---
 Our most precious wilderness not safe from mining
 =================================================

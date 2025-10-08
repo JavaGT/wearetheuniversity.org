@@ -1,9 +1,12 @@
 ---
 slug: domestic-abuse-barrier-to-women-in-workplace
-title: "Domestic abuse barrier to women in workplace"
-date: 2005-03-09
-source-url: https://www.scoop.co.nz/stories/ED0503/S00026/domestic-abuse-barrier-to-women-in-workplace.htm
+title: Domestic abuse barrier to women in workplace
+date: 2005-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00026/domestic-abuse-barrier-to-women-in-workplace.htm
 author: aut-university
+permalink: /archive/2005/03/09/domestic-abuse-barrier-to-women-in-workplace/index.html
+layout: layout.njk
 ---
 Domestic abuse barrier to women in workplace
 ============================================

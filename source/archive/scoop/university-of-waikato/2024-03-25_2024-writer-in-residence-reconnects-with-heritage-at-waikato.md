@@ -1,9 +1,13 @@
 ---
 slug: 2024-writer-in-residence-reconnects-with-heritage-at-waikato
-title: "2024 Writer In Residence Reconnects With Heritage At Waikato"
-date: 2024-03-25
-source-url: https://www.scoop.co.nz/stories/CU2403/S00226/2024-writer-in-residence-reconnects-with-heritage-at-waikato.htm
+title: 2024 Writer In Residence Reconnects With Heritage At Waikato
+date: 2024-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2403/S00226/2024-writer-in-residence-reconnects-with-heritage-at-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2024/03/25/2024-writer-in-residence-reconnects-with-heritage-at-waikato/index.html
+layout: layout.njk
 ---
 2024 Writer In Residence Reconnects With Heritage At Waikato
 ============================================================

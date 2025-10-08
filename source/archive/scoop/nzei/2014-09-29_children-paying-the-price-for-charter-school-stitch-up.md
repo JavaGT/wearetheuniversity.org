@@ -1,9 +1,13 @@
 ---
 slug: children-paying-the-price-for-charter-school-stitch-up
-title: "Children paying the price for charter school stitch up"
-date: 2014-09-29
-source-url: https://www.scoop.co.nz/stories/PO1409/S00553/children-paying-the-price-for-charter-school-stitch-up.htm
+title: Children paying the price for charter school stitch up
+date: 2014-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00553/children-paying-the-price-for-charter-school-stitch-up.htm
 author: nzei
+permalink: >-
+  /archive/2014/09/29/children-paying-the-price-for-charter-school-stitch-up/index.html
+layout: layout.njk
 ---
 Children paying the price for charter school stitch up
 ======================================================

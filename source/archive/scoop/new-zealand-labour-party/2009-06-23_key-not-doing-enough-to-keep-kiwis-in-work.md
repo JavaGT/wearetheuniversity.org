@@ -1,9 +1,12 @@
 ---
 slug: key-not-doing-enough-to-keep-kiwis-in-work
-title: "Key not doing enough to keep Kiwis in work"
-date: 2009-06-23
-source-url: https://www.scoop.co.nz/stories/PA0906/S00307/key-not-doing-enough-to-keep-kiwis-in-work.htm
+title: Key not doing enough to keep Kiwis in work
+date: 2009-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00307/key-not-doing-enough-to-keep-kiwis-in-work.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/23/key-not-doing-enough-to-keep-kiwis-in-work/index.html
+layout: layout.njk
 ---
 Key not doing enough to keep Kiwis in work
 ==========================================

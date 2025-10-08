@@ -1,9 +1,12 @@
 ---
 slug: uc-economists-to-give-public-talk-on-money
-title: "UC economists to give public talk on money"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/ED1309/S00024/uc-economists-to-give-public-talk-on-money.htm
+title: UC economists to give public talk on money
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00024/uc-economists-to-give-public-talk-on-money.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/04/uc-economists-to-give-public-talk-on-money/index.html
+layout: layout.njk
 ---
 UC economists to give public talk on money
 ==========================================

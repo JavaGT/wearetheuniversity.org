@@ -1,9 +1,13 @@
 ---
 slug: endangered-albatrosses-under-threat-from-commercial-fishing
-title: "Endangered albatrosses under threat from commercial fishing"
-date: 2012-11-07
-source-url: https://www.scoop.co.nz/stories/SC1211/S00027/endangered-albatrosses-under-threat-from-commercial-fishing.htm
+title: Endangered albatrosses under threat from commercial fishing
+date: 2012-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00027/endangered-albatrosses-under-threat-from-commercial-fishing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/07/endangered-albatrosses-under-threat-from-commercial-fishing/index.html
+layout: layout.njk
 ---
 Endangered albatrosses under threat from commercial fishing
 ===========================================================

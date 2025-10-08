@@ -1,9 +1,13 @@
 ---
 slug: new-rules-needed-to-support-workplace-whistleblowers
-title: "New rules needed to support workplace whistleblowers"
-date: 2016-05-03
-source-url: https://www.scoop.co.nz/stories/PO1605/S00023/new-rules-needed-to-support-workplace-whistleblowers.htm
+title: New rules needed to support workplace whistleblowers
+date: 2016-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00023/new-rules-needed-to-support-workplace-whistleblowers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/05/03/new-rules-needed-to-support-workplace-whistleblowers/index.html
+layout: layout.njk
 ---
 New rules needed to support workplace whistleblowers
 ====================================================

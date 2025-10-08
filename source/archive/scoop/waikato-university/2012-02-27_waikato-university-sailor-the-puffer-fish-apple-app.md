@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-sailor-the-puffer-fish-apple-app
-title: "Waikato University: Sailor the Puffer fish Apple app"
-date: 2012-02-27
-source-url: https://www.scoop.co.nz/stories/ED1202/S00117/waikato-university-sailor-the-puffer-fish-apple-app.htm
+title: 'Waikato University: Sailor the Puffer fish Apple app'
+date: 2012-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00117/waikato-university-sailor-the-puffer-fish-apple-app.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/02/27/waikato-university-sailor-the-puffer-fish-apple-app/index.html
+layout: layout.njk
 ---
 Waikato University: Sailor the Puffer fish Apple app
 ====================================================

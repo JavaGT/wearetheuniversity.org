@@ -1,9 +1,12 @@
 ---
 slug: increase-public-funding-of-tertiary-sector
-title: "Increase public funding of tertiary sector"
-date: 2006-03-09
-source-url: https://www.scoop.co.nz/stories/ED0603/S00032/increase-public-funding-of-tertiary-sector.htm
+title: Increase public funding of tertiary sector
+date: 2006-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00032/increase-public-funding-of-tertiary-sector.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/03/09/increase-public-funding-of-tertiary-sector/index.html
+layout: layout.njk
 ---
 Increase public funding of tertiary sector
 ==========================================

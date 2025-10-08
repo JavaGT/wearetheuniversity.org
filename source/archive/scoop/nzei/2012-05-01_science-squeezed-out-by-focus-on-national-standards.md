@@ -1,9 +1,13 @@
 ---
 slug: science-squeezed-out-by-focus-on-national-standards
-title: "Science squeezed out by focus on national standards"
-date: 2012-05-01
-source-url: https://www.scoop.co.nz/stories/ED1205/S00006/science-squeezed-out-by-focus-on-national-standards.htm
+title: Science squeezed out by focus on national standards
+date: 2012-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00006/science-squeezed-out-by-focus-on-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2012/05/01/science-squeezed-out-by-focus-on-national-standards/index.html
+layout: layout.njk
 ---
 Science squeezed out by focus on national standards
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-a-finalist-in-australasian-sustainability-awards
-title: "University a finalist in Australasian sustainability awards"
-date: 2014-09-25
-source-url: https://www.scoop.co.nz/stories/ED1409/S00149/university-a-finalist-in-australasian-sustainability-awards.htm
+title: University a finalist in Australasian sustainability awards
+date: 2014-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00149/university-a-finalist-in-australasian-sustainability-awards.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/09/25/university-a-finalist-in-australasian-sustainability-awards/index.html
+layout: layout.njk
 ---
 University a finalist in Australasian sustainability awards
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-admits-record-of-failure-on-child-support
-title: "Labour admits record of failure on child support"
-date: 2008-04-08
-source-url: https://www.scoop.co.nz/stories/PA0804/S00217/labour-admits-record-of-failure-on-child-support.htm
+title: Labour admits record of failure on child support
+date: 2008-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00217/labour-admits-record-of-failure-on-child-support.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/04/08/labour-admits-record-of-failure-on-child-support/index.html
+layout: layout.njk
 ---
 Labour admits record of failure on child support
 ================================================

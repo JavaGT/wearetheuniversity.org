@@ -1,9 +1,11 @@
 ---
 slug: turia-hui-whare-wananga
-title: "Turia: Hui Whare Wananga"
-date: 2006-06-13
+title: 'Turia: Hui Whare Wananga'
+date: 2006-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0606/S00186/turia-hui-whare-wananga.htm
 author: te-pati-maori
+permalink: /archive/2006/06/13/turia-hui-whare-wananga/index.html
+layout: layout.njk
 ---
 Turia: Hui Whare Wananga
 ========================

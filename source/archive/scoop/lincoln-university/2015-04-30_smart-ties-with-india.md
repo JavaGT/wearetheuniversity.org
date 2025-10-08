@@ -1,9 +1,11 @@
 ---
 slug: smart-ties-with-india
-title: "Smart ties with India"
-date: 2015-04-30
+title: Smart ties with India
+date: 2015-04-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1504/S00084/smart-ties-with-india.htm
 author: lincoln-university
+permalink: /archive/2015/04/30/smart-ties-with-india/index.html
+layout: layout.njk
 ---
 Smart ties with India
 =====================

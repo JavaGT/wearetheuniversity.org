@@ -1,9 +1,12 @@
 ---
 slug: outstanding-initiatives-by-ausa
-title: "Outstanding initiatives by AUSA"
-date: 2013-08-29
-source-url: https://www.scoop.co.nz/stories/AK1308/S00855/outstanding-initiatives-by-ausa.htm
+title: Outstanding initiatives by AUSA
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00855/outstanding-initiatives-by-ausa.htm
 author: ausa
+permalink: /archive/2013/08/29/outstanding-initiatives-by-ausa/index.html
+layout: layout.njk
 ---
 Outstanding initiatives by AUSA
 ===============================

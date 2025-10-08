@@ -1,9 +1,13 @@
 ---
 slug: another-industrial-giant-goes-into-strategic-review
-title: "Another Industrial Giant Goes Into Strategic Review"
-date: 2020-07-18
-source-url: https://www.scoop.co.nz/stories/PA2007/S00169/another-industrial-giant-goes-into-strategic-review.htm
+title: Another Industrial Giant Goes Into Strategic Review
+date: 2020-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00169/another-industrial-giant-goes-into-strategic-review.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/18/another-industrial-giant-goes-into-strategic-review/index.html
+layout: layout.njk
 ---
 Another Industrial Giant Goes Into Strategic Review
 ===================================================

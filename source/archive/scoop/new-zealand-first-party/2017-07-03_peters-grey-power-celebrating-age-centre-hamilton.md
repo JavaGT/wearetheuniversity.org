@@ -1,9 +1,13 @@
 ---
 slug: peters-grey-power-celebrating-age-centre-hamilton
-title: "Peters: Grey Power Celebrating Age Centre, Hamilton"
-date: 2017-07-03
-source-url: https://www.scoop.co.nz/stories/PA1707/S00021/peters-grey-power-celebrating-age-centre-hamilton.htm
+title: 'Peters: Grey Power Celebrating Age Centre, Hamilton'
+date: 2017-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00021/peters-grey-power-celebrating-age-centre-hamilton.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/07/03/peters-grey-power-celebrating-age-centre-hamilton/index.html
+layout: layout.njk
 ---
 Peters: Grey Power Celebrating Age Centre, Hamilton
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-gun-reforms-must-not-be-rushed
-title: "New gun reforms must not be rushed"
-date: 2019-07-22
-source-url: https://www.scoop.co.nz/stories/PA1907/S00165/new-gun-reforms-must-not-be-rushed.htm
+title: New gun reforms must not be rushed
+date: 2019-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00165/new-gun-reforms-must-not-be-rushed.htm
 author: act-new-zealand
+permalink: /archive/2019/07/22/new-gun-reforms-must-not-be-rushed/index.html
+layout: layout.njk
 ---
 New gun reforms must not be rushed
 ==================================

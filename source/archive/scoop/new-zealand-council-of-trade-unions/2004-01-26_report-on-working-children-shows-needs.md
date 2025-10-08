@@ -1,9 +1,12 @@
 ---
 slug: report-on-working-children-shows-needs
-title: "Report on Working Children Shows Needs"
-date: 2004-01-26
-source-url: https://www.scoop.co.nz/stories/PO0401/S00062/report-on-working-children-shows-needs.htm
+title: Report on Working Children Shows Needs
+date: 2004-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0401/S00062/report-on-working-children-shows-needs.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/01/26/report-on-working-children-shows-needs/index.html
+layout: layout.njk
 ---
 Report on Working Children Shows Needs
 ======================================

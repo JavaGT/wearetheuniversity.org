@@ -1,9 +1,13 @@
 ---
 slug: high-achievers-heading-to-university-of-canterbury-in-2012
-title: "High achievers heading to University of Canterbury in 2012"
-date: 2011-12-07
-source-url: https://www.scoop.co.nz/stories/ED1112/S00034/high-achievers-heading-to-university-of-canterbury-in-2012.htm
+title: High achievers heading to University of Canterbury in 2012
+date: 2011-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00034/high-achievers-heading-to-university-of-canterbury-in-2012.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/12/07/high-achievers-heading-to-university-of-canterbury-in-2012/index.html
+layout: layout.njk
 ---
 High achievers heading to University of Canterbury in 2012
 ==========================================================

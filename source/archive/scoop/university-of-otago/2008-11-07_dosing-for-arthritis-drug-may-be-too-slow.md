@@ -1,9 +1,12 @@
 ---
 slug: dosing-for-arthritis-drug-may-be-too-slow
-title: "Dosing for arthritis drug may be too slow"
-date: 2008-11-07
-source-url: https://www.scoop.co.nz/stories/GE0811/S00020/dosing-for-arthritis-drug-may-be-too-slow.htm
+title: Dosing for arthritis drug may be too slow
+date: 2008-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0811/S00020/dosing-for-arthritis-drug-may-be-too-slow.htm
 author: university-of-otago
+permalink: /archive/2008/11/07/dosing-for-arthritis-drug-may-be-too-slow/index.html
+layout: layout.njk
 ---
 Dosing for arthritis drug may be too slow
 =========================================

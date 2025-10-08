@@ -1,9 +1,16 @@
 ---
-slug: university-of-aucklands-free-speech-policy-more-likely-to-stifle-conversation-free-speech-union-submits-feedback
-title: "University Of Auckland’s Free Speech Policy More Likely To Stifle Conversation: Free Speech Union Submits Feedback"
-date: 2024-06-28
-source-url: https://www.scoop.co.nz/stories/ED2406/S00076/university-of-aucklands-free-speech-policy-more-likely-to-stifle-conversation-free-speech-union-submits-feedback.htm
+slug: >-
+  university-of-aucklands-free-speech-policy-more-likely-to-stifle-conversation-free-speech-union-submits-feedback
+title: >-
+  University Of Auckland’s Free Speech Policy More Likely To Stifle
+  Conversation: Free Speech Union Submits Feedback
+date: 2024-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00076/university-of-aucklands-free-speech-policy-more-likely-to-stifle-conversation-free-speech-union-submits-feedback.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/06/28/university-of-aucklands-free-speech-policy-more-likely-to-stifle-conversation-free-speech-union-submits-feedback/index.html
+layout: layout.njk
 ---
 University Of Auckland’s Free Speech Policy More Likely To Stifle Conversation: Free Speech Union Submits Feedback
 ==================================================================================================================

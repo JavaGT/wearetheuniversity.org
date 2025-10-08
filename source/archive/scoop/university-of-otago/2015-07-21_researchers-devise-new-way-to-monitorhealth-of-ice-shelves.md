@@ -1,9 +1,13 @@
 ---
 slug: researchers-devise-new-way-to-monitorhealth-of-ice-shelves
-title: "Researchers devise new way to monitor‘health of ice shelves"
-date: 2015-07-21
-source-url: https://www.scoop.co.nz/stories/SC1507/S00058/researchers-devise-new-way-to-monitorhealth-of-ice-shelves.htm
+title: Researchers devise new way to monitor‘health of ice shelves
+date: 2015-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00058/researchers-devise-new-way-to-monitorhealth-of-ice-shelves.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/07/21/researchers-devise-new-way-to-monitorhealth-of-ice-shelves/index.html
+layout: layout.njk
 ---
 Researchers devise new way to monitor‘health of ice shelves
 ===========================================================

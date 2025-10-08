@@ -1,9 +1,12 @@
 ---
 slug: smiths-bill-unprincipled-says-eckhoff
-title: "Smith's Bill Unprincipled, Says Eckhoff"
-date: 2004-08-05
-source-url: https://www.scoop.co.nz/stories/PA0408/S00107/smiths-bill-unprincipled-says-eckhoff.htm
+title: Smith's Bill Unprincipled, Says Eckhoff
+date: 2004-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00107/smiths-bill-unprincipled-says-eckhoff.htm
 author: act-new-zealand
+permalink: /archive/2004/08/05/smiths-bill-unprincipled-says-eckhoff/index.html
+layout: layout.njk
 ---
 Smith's Bill Unprincipled, Says Eckhoff
 =======================================

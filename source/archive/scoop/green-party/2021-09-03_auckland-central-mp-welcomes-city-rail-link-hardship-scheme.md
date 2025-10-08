@@ -1,9 +1,13 @@
 ---
 slug: auckland-central-mp-welcomes-city-rail-link-hardship-scheme
-title: "Auckland Central MP welcomes City Rail Link hardship scheme"
-date: 2021-09-03
-source-url: https://www.scoop.co.nz/stories/PA2109/S00021/auckland-central-mp-welcomes-city-rail-link-hardship-scheme.htm
+title: Auckland Central MP welcomes City Rail Link hardship scheme
+date: 2021-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00021/auckland-central-mp-welcomes-city-rail-link-hardship-scheme.htm
 author: green-party
+permalink: >-
+  /archive/2021/09/03/auckland-central-mp-welcomes-city-rail-link-hardship-scheme/index.html
+layout: layout.njk
 ---
 Auckland Central MP welcomes City Rail Link hardship scheme
 ===========================================================

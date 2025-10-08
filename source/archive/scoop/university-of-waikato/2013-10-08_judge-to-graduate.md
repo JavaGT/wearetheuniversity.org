@@ -1,9 +1,11 @@
 ---
 slug: judge-to-graduate
-title: "Judge to graduate"
-date: 2013-10-08
+title: Judge to graduate
+date: 2013-10-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1310/S00061/judge-to-graduate.htm
 author: university-of-waikato
+permalink: /archive/2013/10/08/judge-to-graduate/index.html
+layout: layout.njk
 ---
 Judge to graduate
 =================

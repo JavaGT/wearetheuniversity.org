@@ -1,9 +1,13 @@
 ---
 slug: massey-joins-forces-with-singapore-institute-of-technology
-title: "Massey joins forces with Singapore Institute of Technology"
-date: 2016-04-05
-source-url: https://www.scoop.co.nz/stories/ED1604/S00012/massey-joins-forces-with-singapore-institute-of-technology.htm
+title: Massey joins forces with Singapore Institute of Technology
+date: 2016-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00012/massey-joins-forces-with-singapore-institute-of-technology.htm
 author: massey-university
+permalink: >-
+  /archive/2016/04/05/massey-joins-forces-with-singapore-institute-of-technology/index.html
+layout: layout.njk
 ---
 Massey joins forces with Singapore Institute of Technology
 ==========================================================

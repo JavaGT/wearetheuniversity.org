@@ -1,9 +1,12 @@
 ---
 slug: schools-$5-3m-redevelopment-underway
-title: "School’s $5.3m redevelopment underway"
-date: 2015-09-25
-source-url: https://www.scoop.co.nz/stories/PA1509/S00447/schools-53m-redevelopment-underway.htm
+title: School’s $5.3m redevelopment underway
+date: 2015-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00447/schools-53m-redevelopment-underway.htm
 author: new-zealand-national-party
+permalink: /archive/2015/09/25/schools-/index.html
+layout: layout.njk
 ---
 School’s $5.3m redevelopment underway
 =====================================

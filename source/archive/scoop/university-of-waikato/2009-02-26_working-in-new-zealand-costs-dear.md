@@ -1,9 +1,12 @@
 ---
 slug: working-in-new-zealand-costs-dear
-title: "Working In New Zealand Costs Dear"
-date: 2009-02-26
-source-url: https://www.scoop.co.nz/stories/BU0902/S00517/working-in-new-zealand-costs-dear.htm
+title: Working In New Zealand Costs Dear
+date: 2009-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0902/S00517/working-in-new-zealand-costs-dear.htm
 author: university-of-waikato
+permalink: /archive/2009/02/26/working-in-new-zealand-costs-dear/index.html
+layout: layout.njk
 ---
 Working In New Zealand Costs Dear
 =================================

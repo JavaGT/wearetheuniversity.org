@@ -1,9 +1,11 @@
 ---
 slug: real-issues-no-215
-title: "Real issues - No 215"
-date: 2006-07-28
+title: Real issues - No 215
+date: 2006-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0607/S00332/real-issues-no-215.htm
 author: maxim-institute
+permalink: /archive/2006/07/28/real-issues-no-215/index.html
+layout: layout.njk
 ---
 Real issues - No 215
 ====================

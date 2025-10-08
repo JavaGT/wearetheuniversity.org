@@ -1,9 +1,13 @@
 ---
 slug: number-of-homeless-working-people-a-national-shame
-title: "Number of homeless working people a national shame"
-date: 2016-08-24
-source-url: https://www.scoop.co.nz/stories/PA1608/S00440/number-of-homeless-working-people-a-national-shame.htm
+title: Number of homeless working people a national shame
+date: 2016-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00440/number-of-homeless-working-people-a-national-shame.htm
 author: green-party
+permalink: >-
+  /archive/2016/08/24/number-of-homeless-working-people-a-national-shame/index.html
+layout: layout.njk
 ---
 Number of homeless working people a national shame
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: piecemeal-dental-strategy-will-waste-funding
-title: "Piecemeal Dental Strategy Will Waste Funding"
-date: 2007-03-02
-source-url: https://www.scoop.co.nz/stories/PA0703/S00040/piecemeal-dental-strategy-will-waste-funding.htm
+title: Piecemeal Dental Strategy Will Waste Funding
+date: 2007-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00040/piecemeal-dental-strategy-will-waste-funding.htm
 author: new-zealand-first-party
+permalink: /archive/2007/03/02/piecemeal-dental-strategy-will-waste-funding/index.html
+layout: layout.njk
 ---
 Piecemeal Dental Strategy Will Waste Funding
 ============================================

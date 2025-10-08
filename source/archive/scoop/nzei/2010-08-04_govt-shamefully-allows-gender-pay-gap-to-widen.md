@@ -1,9 +1,12 @@
 ---
 slug: govt-shamefully-allows-gender-pay-gap-to-widen
-title: "Govt Shamefully Allows Gender Pay Gap to Widen"
-date: 2010-08-04
-source-url: https://www.scoop.co.nz/stories/PO1008/S00030/govt-shamefully-allows-gender-pay-gap-to-widen.htm
+title: Govt Shamefully Allows Gender Pay Gap to Widen
+date: 2010-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00030/govt-shamefully-allows-gender-pay-gap-to-widen.htm
 author: nzei
+permalink: /archive/2010/08/04/govt-shamefully-allows-gender-pay-gap-to-widen/index.html
+layout: layout.njk
 ---
 Govt Shamefully Allows Gender Pay Gap to Widen
 ==============================================

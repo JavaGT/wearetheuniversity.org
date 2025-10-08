@@ -1,9 +1,12 @@
 ---
 slug: waikato-scientists-put-on-ice-for-summer
-title: "Waikato scientists put on ice for summer"
-date: 2008-12-16
-source-url: https://www.scoop.co.nz/stories/SC0812/S00041/waikato-scientists-put-on-ice-for-summer.htm
+title: Waikato scientists put on ice for summer
+date: 2008-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0812/S00041/waikato-scientists-put-on-ice-for-summer.htm
 author: university-of-waikato
+permalink: /archive/2008/12/16/waikato-scientists-put-on-ice-for-summer/index.html
+layout: layout.njk
 ---
 Waikato scientists put on ice for summer
 ========================================

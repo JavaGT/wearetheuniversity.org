@@ -1,9 +1,13 @@
 ---
 slug: apirana-and-act-real-solutions-to-maori-problems
-title: "Apirana And ACT: Real Solutions To Maori Problems"
-date: 2011-07-19
-source-url: https://www.scoop.co.nz/stories/PA1107/S00321/apirana-and-act-real-solutions-to-maori-problems.htm
+title: 'Apirana And ACT: Real Solutions To Maori Problems'
+date: 2011-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00321/apirana-and-act-real-solutions-to-maori-problems.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/07/19/apirana-and-act-real-solutions-to-maori-problems/index.html
+layout: layout.njk
 ---
 Apirana And ACT: Real Solutions To Maori Problems
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: traffic-improvements-are-just-window-dressing
-title: "Traffic 'Improvements' Are Just Window Dressing"
-date: 2002-02-07
-source-url: https://www.scoop.co.nz/stories/PA0202/S00058/traffic-improvements-are-just-window-dressing.htm
+title: Traffic 'Improvements' Are Just Window Dressing
+date: 2002-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00058/traffic-improvements-are-just-window-dressing.htm
 author: act-new-zealand
+permalink: /archive/2002/02/07/traffic-improvements-are-just-window-dressing/index.html
+layout: layout.njk
 ---
 Traffic 'Improvements' Are Just Window Dressing
 ===============================================

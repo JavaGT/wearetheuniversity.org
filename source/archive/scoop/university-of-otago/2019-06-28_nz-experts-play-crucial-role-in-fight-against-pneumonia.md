@@ -1,9 +1,13 @@
 ---
 slug: nz-experts-play-crucial-role-in-fight-against-pneumonia
-title: "NZ experts play crucial role in fight against pneumonia"
-date: 2019-06-28
-source-url: https://www.scoop.co.nz/stories/GE1906/S00081/nz-experts-play-crucial-role-in-fight-against-pneumonia.htm
+title: NZ experts play crucial role in fight against pneumonia
+date: 2019-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1906/S00081/nz-experts-play-crucial-role-in-fight-against-pneumonia.htm
 author: university-of-otago
+permalink: >-
+  /archive/2019/06/28/nz-experts-play-crucial-role-in-fight-against-pneumonia/index.html
+layout: layout.njk
 ---
 NZ experts play crucial role in fight against pneumonia
 =======================================================

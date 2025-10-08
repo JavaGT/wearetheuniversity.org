@@ -1,9 +1,12 @@
 ---
 slug: passport-delays-causing-holiday-headaches
-title: "Passport Delays Causing Holiday Headaches"
-date: 2022-07-08
-source-url: https://www.scoop.co.nz/stories/PA2207/S00055/passport-delays-causing-holiday-headaches.htm
+title: Passport Delays Causing Holiday Headaches
+date: 2022-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00055/passport-delays-causing-holiday-headaches.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/08/passport-delays-causing-holiday-headaches/index.html
+layout: layout.njk
 ---
 Passport Delays Causing Holiday Headaches
 =========================================

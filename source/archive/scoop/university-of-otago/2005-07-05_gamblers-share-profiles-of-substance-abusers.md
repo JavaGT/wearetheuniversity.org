@@ -1,9 +1,12 @@
 ---
 slug: gamblers-share-profiles-of-substance-abusers
-title: "Gamblers Share Profiles of Substance Abusers"
-date: 2005-07-05
-source-url: https://www.scoop.co.nz/stories/GE0507/S00020/gamblers-share-profiles-of-substance-abusers.htm
+title: Gamblers Share Profiles of Substance Abusers
+date: 2005-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0507/S00020/gamblers-share-profiles-of-substance-abusers.htm
 author: university-of-otago
+permalink: /archive/2005/07/05/gamblers-share-profiles-of-substance-abusers/index.html
+layout: layout.njk
 ---
 Gamblers Share Profiles of Substance Abusers
 ============================================

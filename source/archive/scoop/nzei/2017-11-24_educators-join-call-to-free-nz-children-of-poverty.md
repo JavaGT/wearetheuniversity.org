@@ -1,9 +1,13 @@
 ---
 slug: educators-join-call-to-free-nz-children-of-poverty
-title: "Educators join call to free NZ children of poverty"
-date: 2017-11-24
-source-url: https://www.scoop.co.nz/stories/PO1711/S00280/educators-join-call-to-free-nz-children-of-poverty.htm
+title: Educators join call to free NZ children of poverty
+date: 2017-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1711/S00280/educators-join-call-to-free-nz-children-of-poverty.htm
 author: nzei
+permalink: >-
+  /archive/2017/11/24/educators-join-call-to-free-nz-children-of-poverty/index.html
+layout: layout.njk
 ---
 Educators join call to free NZ children of poverty
 ==================================================

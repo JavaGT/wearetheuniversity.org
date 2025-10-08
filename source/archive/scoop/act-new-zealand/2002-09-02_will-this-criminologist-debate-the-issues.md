@@ -1,9 +1,12 @@
 ---
 slug: will-this-criminologist-debate-the-issues
-title: "Will this Criminologist Debate the Issues?"
-date: 2002-09-02
-source-url: https://www.scoop.co.nz/stories/PA0209/S00021/will-this-criminologist-debate-the-issues.htm
+title: Will this Criminologist Debate the Issues?
+date: 2002-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00021/will-this-criminologist-debate-the-issues.htm
 author: act-new-zealand
+permalink: /archive/2002/09/02/will-this-criminologist-debate-the-issues/index.html
+layout: layout.njk
 ---
 Will this Criminologist Debate the Issues?
 ==========================================

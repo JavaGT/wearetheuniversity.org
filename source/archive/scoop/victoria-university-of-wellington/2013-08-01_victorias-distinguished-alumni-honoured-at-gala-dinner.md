@@ -1,9 +1,13 @@
 ---
 slug: victorias-distinguished-alumni-honoured-at-gala-dinner
-title: "Victoria’s distinguished alumni honoured at gala dinner"
-date: 2013-08-01
-source-url: https://www.scoop.co.nz/stories/ED1308/S00003/victorias-distinguished-alumni-honoured-at-gala-dinner.htm
+title: Victoria’s distinguished alumni honoured at gala dinner
+date: 2013-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00003/victorias-distinguished-alumni-honoured-at-gala-dinner.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/01/victorias-distinguished-alumni-honoured-at-gala-dinner/index.html
+layout: layout.njk
 ---
 Victoria’s distinguished alumni honoured at gala dinner
 =======================================================

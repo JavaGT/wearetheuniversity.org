@@ -1,9 +1,12 @@
 ---
 slug: labour-charade-on-student-allowances-exposed
-title: "Labour charade on student allowances exposed"
-date: 2005-05-02
-source-url: https://www.scoop.co.nz/stories/PA0505/S00025/labour-charade-on-student-allowances-exposed.htm
+title: Labour charade on student allowances exposed
+date: 2005-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00025/labour-charade-on-student-allowances-exposed.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/02/labour-charade-on-student-allowances-exposed/index.html
+layout: layout.njk
 ---
 Labour charade on student allowances exposed
 ============================================

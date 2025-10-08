@@ -1,9 +1,12 @@
 ---
 slug: govt-defence-of-housing-scheme-plain-ridiculous
-title: "Govt Defence Of Housing Scheme Plain Ridiculous"
-date: 2021-02-24
-source-url: https://www.scoop.co.nz/stories/PA2102/S00136/govt-defence-of-housing-scheme-plain-ridiculous.htm
+title: Govt Defence Of Housing Scheme Plain Ridiculous
+date: 2021-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00136/govt-defence-of-housing-scheme-plain-ridiculous.htm
 author: new-zealand-national-party
+permalink: /archive/2021/02/24/govt-defence-of-housing-scheme-plain-ridiculous/index.html
+layout: layout.njk
 ---
 Govt Defence Of Housing Scheme Plain Ridiculous
 ===============================================

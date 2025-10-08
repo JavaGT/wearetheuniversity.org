@@ -1,9 +1,11 @@
 ---
 slug: who-owns-the-water
-title: "Who owns the water?"
-date: 2007-03-22
+title: Who owns the water?
+date: 2007-03-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0703/S00461/who-owns-the-water.htm
 author: te-pati-maori
+permalink: /archive/2007/03/22/who-owns-the-water/index.html
+layout: layout.njk
 ---
 Who owns the water?
 ===================

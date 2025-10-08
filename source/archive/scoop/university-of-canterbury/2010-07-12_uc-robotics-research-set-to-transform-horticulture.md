@@ -1,9 +1,13 @@
 ---
 slug: uc-robotics-research-set-to-transform-horticulture
-title: "UC robotics research set to transform horticulture"
-date: 2010-07-12
-source-url: https://www.scoop.co.nz/stories/SC1007/S00021/uc-robotics-research-set-to-transform-horticulture.htm
+title: UC robotics research set to transform horticulture
+date: 2010-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1007/S00021/uc-robotics-research-set-to-transform-horticulture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2010/07/12/uc-robotics-research-set-to-transform-horticulture/index.html
+layout: layout.njk
 ---
 UC robotics research set to transform horticulture
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwibuild-in-crisis-with-ceos-resignation
-title: "KiwiBuild in crisis with CEO’s resignation"
-date: 2019-01-18
-source-url: https://www.scoop.co.nz/stories/PA1901/S00040/kiwibuild-in-crisis-with-ceos-resignation.htm
+title: KiwiBuild in crisis with CEO’s resignation
+date: 2019-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00040/kiwibuild-in-crisis-with-ceos-resignation.htm
 author: act-new-zealand
+permalink: /archive/2019/01/18/kiwibuild-in-crisis-with-ceos-resignation/index.html
+layout: layout.njk
 ---
 KiwiBuild in crisis with CEO’s resignation
 ==========================================

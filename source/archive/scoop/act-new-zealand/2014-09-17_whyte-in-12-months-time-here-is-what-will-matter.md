@@ -1,9 +1,13 @@
 ---
 slug: whyte-in-12-months-time-here-is-what-will-matter
-title: "Whyte: In 12 months’ time, here is what will matter"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/PO1409/S00401/whyte-in-12-months-time-here-is-what-will-matter.htm
+title: 'Whyte: In 12 months’ time, here is what will matter'
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00401/whyte-in-12-months-time-here-is-what-will-matter.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/09/17/whyte-in-12-months-time-here-is-what-will-matter/index.html
+layout: layout.njk
 ---
 Whyte: In 12 months’ time, here is what will matter
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: its-a-sad-solution-but-we-did-warn-you
-title: "It's A Sad Solution But We Did Warn You"
-date: 2006-08-30
-source-url: https://www.scoop.co.nz/stories/PA0608/S00529/its-a-sad-solution-but-we-did-warn-you.htm
+title: It's A Sad Solution But We Did Warn You
+date: 2006-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00529/its-a-sad-solution-but-we-did-warn-you.htm
 author: new-zealand-first-party
+permalink: /archive/2006/08/30/its-a-sad-solution-but-we-did-warn-you/index.html
+layout: layout.njk
 ---
 It's A Sad Solution But We Did Warn You
 =======================================

@@ -1,9 +1,11 @@
 ---
 slug: the-buck-stops-here
-title: "The Buck Stops Here"
-date: 2001-05-07
+title: The Buck Stops Here
+date: 2001-05-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0105/S00006/the-buck-stops-here.htm
 author: otago-university-students-association
+permalink: /archive/2001/05/07/the-buck-stops-here/index.html
+layout: layout.njk
 ---
 The Buck Stops Here
 ===================

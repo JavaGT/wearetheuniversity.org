@@ -1,9 +1,13 @@
 ---
 slug: universities-and-schools-realising-advantages-of-cell-phones
-title: "Universities and schools realising advantages of cell phones"
-date: 2015-04-30
-source-url: https://www.scoop.co.nz/stories/ED1504/S00081/universities-and-schools-realising-advantages-of-cell-phones.htm
+title: Universities and schools realising advantages of cell phones
+date: 2015-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00081/universities-and-schools-realising-advantages-of-cell-phones.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/30/universities-and-schools-realising-advantages-of-cell-phones/index.html
+layout: layout.njk
 ---
 Universities and schools realising advantages of cell phones
 ============================================================

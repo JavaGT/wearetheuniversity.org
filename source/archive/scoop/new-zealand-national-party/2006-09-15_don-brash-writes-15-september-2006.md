@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-15-september-2006
-title: "Don Brash Writes - 15 September 2006"
-date: 2006-09-15
-source-url: https://www.scoop.co.nz/stories/PA0609/S00377/don-brash-writes-15-september-2006.htm
+title: Don Brash Writes - 15 September 2006
+date: 2006-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00377/don-brash-writes-15-september-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/15/don-brash-writes-15-september-2006/index.html
+layout: layout.njk
 ---
 Don Brash Writes - 15 September 2006
 ====================================

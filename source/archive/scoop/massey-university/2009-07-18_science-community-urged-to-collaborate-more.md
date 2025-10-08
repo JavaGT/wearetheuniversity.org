@@ -1,9 +1,12 @@
 ---
 slug: science-community-urged-to-collaborate-more
-title: "Science community urged to collaborate more"
-date: 2009-07-18
-source-url: https://www.scoop.co.nz/stories/SC0907/S00035/science-community-urged-to-collaborate-more.htm
+title: Science community urged to collaborate more
+date: 2009-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0907/S00035/science-community-urged-to-collaborate-more.htm
 author: massey-university
+permalink: /archive/2009/07/18/science-community-urged-to-collaborate-more/index.html
+layout: layout.njk
 ---
 Science community urged to collaborate more
 ===========================================

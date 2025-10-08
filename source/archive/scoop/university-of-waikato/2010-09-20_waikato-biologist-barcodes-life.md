@@ -1,9 +1,12 @@
 ---
 slug: waikato-biologist-barcodes-life
-title: "Waikato biologist barcodes life"
-date: 2010-09-20
-source-url: https://www.scoop.co.nz/stories/SC1009/S00027/waikato-biologist-barcodes-life.htm
+title: Waikato biologist barcodes life
+date: 2010-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1009/S00027/waikato-biologist-barcodes-life.htm
 author: university-of-waikato
+permalink: /archive/2010/09/20/waikato-biologist-barcodes-life/index.html
+layout: layout.njk
 ---
 Waikato biologist barcodes life
 ===============================

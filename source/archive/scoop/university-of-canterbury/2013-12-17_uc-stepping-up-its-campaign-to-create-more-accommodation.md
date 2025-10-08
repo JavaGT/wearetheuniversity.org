@@ -1,9 +1,13 @@
 ---
 slug: uc-stepping-up-its-campaign-to-create-more-accommodation
-title: "UC stepping up its campaign to create more accommodation"
-date: 2013-12-17
-source-url: https://www.scoop.co.nz/stories/ED1312/S00109/uc-stepping-up-its-campaign-to-create-more-accommodation.htm
+title: UC stepping up its campaign to create more accommodation
+date: 2013-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00109/uc-stepping-up-its-campaign-to-create-more-accommodation.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/17/uc-stepping-up-its-campaign-to-create-more-accommodation/index.html
+layout: layout.njk
 ---
 UC stepping up its campaign to create more accommodation
 ========================================================

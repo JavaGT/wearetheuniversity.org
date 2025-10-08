@@ -1,9 +1,12 @@
 ---
 slug: flight-potential-the-a-league-season-so-far
-title: "Flight Potential: The A-League Season So Far"
-date: 2009-09-21
-source-url: https://www.scoop.co.nz/stories/CU0909/S00289/flight-potential-the-a-league-season-so-far.htm
+title: 'Flight Potential: The A-League Season So Far'
+date: 2009-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00289/flight-potential-the-a-league-season-so-far.htm
 author: salient
+permalink: /archive/2009/09/21/flight-potential-the-a-league-season-so-far/index.html
+layout: layout.njk
 ---
 Flight Potential: The A-League Season So Far
 ============================================

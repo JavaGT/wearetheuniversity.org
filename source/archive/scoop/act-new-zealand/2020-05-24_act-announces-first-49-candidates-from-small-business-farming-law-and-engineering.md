@@ -1,9 +1,16 @@
 ---
-slug: act-announces-first-49-candidates-from-small-business-farming-law-and-engineering
-title: "ACT Announces First 49 Candidates From Small Business, Farming, Law And Engineering"
-date: 2020-05-24
-source-url: https://www.scoop.co.nz/stories/PA2005/S00203/act-announces-first-49-candidates-from-small-business-farming-law-and-engineering.htm
+slug: >-
+  act-announces-first-49-candidates-from-small-business-farming-law-and-engineering
+title: >-
+  ACT Announces First 49 Candidates From Small Business, Farming, Law And
+  Engineering
+date: 2020-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00203/act-announces-first-49-candidates-from-small-business-farming-law-and-engineering.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/05/24/act-announces-first-49-candidates-from-small-business-farming-law-and-engineering/index.html
+layout: layout.njk
 ---
 ACT Announces First 49 Candidates From Small Business, Farming, Law And Engineering
 ===================================================================================

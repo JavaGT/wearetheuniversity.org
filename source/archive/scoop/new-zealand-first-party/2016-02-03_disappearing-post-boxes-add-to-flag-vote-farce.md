@@ -1,9 +1,12 @@
 ---
 slug: disappearing-post-boxes-add-to-flag-vote-farce
-title: "Disappearing Post Boxes Add to Flag Vote Farce"
-date: 2016-02-03
-source-url: https://www.scoop.co.nz/stories/PA1602/S00041/disappearing-post-boxes-add-to-flag-vote-farce.htm
+title: Disappearing Post Boxes Add to Flag Vote Farce
+date: 2016-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00041/disappearing-post-boxes-add-to-flag-vote-farce.htm
 author: new-zealand-first-party
+permalink: /archive/2016/02/03/disappearing-post-boxes-add-to-flag-vote-farce/index.html
+layout: layout.njk
 ---
 Disappearing Post Boxes Add to Flag Vote Farce
 ==============================================

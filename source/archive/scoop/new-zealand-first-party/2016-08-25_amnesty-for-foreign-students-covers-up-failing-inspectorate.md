@@ -1,9 +1,13 @@
 ---
 slug: amnesty-for-foreign-students-covers-up-failing-inspectorate
-title: "Amnesty for Foreign Students Covers up Failing Inspectorate"
-date: 2016-08-25
-source-url: https://www.scoop.co.nz/stories/PA1608/S00475/amnesty-for-foreign-students-covers-up-failing-inspectorate.htm
+title: Amnesty for Foreign Students Covers up Failing Inspectorate
+date: 2016-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00475/amnesty-for-foreign-students-covers-up-failing-inspectorate.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/25/amnesty-for-foreign-students-covers-up-failing-inspectorate/index.html
+layout: layout.njk
 ---
 Amnesty for Foreign Students Covers up Failing Inspectorate
 ===========================================================

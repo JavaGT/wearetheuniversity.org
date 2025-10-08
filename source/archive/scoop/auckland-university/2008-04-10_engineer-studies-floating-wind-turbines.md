@@ -1,9 +1,12 @@
 ---
 slug: engineer-studies-floating-wind-turbines
-title: "Engineer studies floating wind turbines"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/ED0804/S00028/engineer-studies-floating-wind-turbines.htm
+title: Engineer studies floating wind turbines
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00028/engineer-studies-floating-wind-turbines.htm
 author: auckland-university
+permalink: /archive/2008/04/10/engineer-studies-floating-wind-turbines/index.html
+layout: layout.njk
 ---
 Engineer studies floating wind turbines
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: minimum-wage-order-amendment-lets-down-low-paid-workers
-title: "Minimum Wage Order amendment lets down low paid workers"
-date: 2014-05-29
-source-url: https://www.scoop.co.nz/stories/PO1405/S00475/minimum-wage-order-amendment-lets-down-low-paid-workers.htm
+title: Minimum Wage Order amendment lets down low paid workers
+date: 2014-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00475/minimum-wage-order-amendment-lets-down-low-paid-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2014/05/29/minimum-wage-order-amendment-lets-down-low-paid-workers/index.html
+layout: layout.njk
 ---
 Minimum Wage Order amendment lets down low paid workers
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-party-commends-contribution-to-economy
-title: "Maori Party Commends Contribution To Economy"
-date: 2010-07-30
-source-url: https://www.scoop.co.nz/stories/PA1007/S00498/maori-party-commends-contribution-to-economy.htm
+title: Maori Party Commends Contribution To Economy
+date: 2010-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00498/maori-party-commends-contribution-to-economy.htm
 author: te-pati-maori
+permalink: /archive/2010/07/30/maori-party-commends-contribution-to-economy/index.html
+layout: layout.njk
 ---
 Maori Party Commends Contribution To Economy
 ============================================

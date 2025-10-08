@@ -1,9 +1,13 @@
 ---
 slug: humanoid-robots-can-be-controlled-by-body-gesture
-title: "Humanoid robots can be controlled by body gesture"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/SC1211/S00060/humanoid-robots-can-be-controlled-by-body-gesture.htm
+title: Humanoid robots can be controlled by body gesture
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00060/humanoid-robots-can-be-controlled-by-body-gesture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/22/humanoid-robots-can-be-controlled-by-body-gesture/index.html
+layout: layout.njk
 ---
 Humanoid robots can be controlled by body gesture
 =================================================

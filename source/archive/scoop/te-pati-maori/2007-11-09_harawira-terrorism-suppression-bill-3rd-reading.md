@@ -1,9 +1,12 @@
 ---
 slug: harawira-terrorism-suppression-bill-3rd-reading
-title: "Harawira - Terrorism Suppression Bill 3rd Reading"
-date: 2007-11-09
-source-url: https://www.scoop.co.nz/stories/PA0711/S00174/harawira-terrorism-suppression-bill-3rd-reading.htm
+title: Harawira - Terrorism Suppression Bill 3rd Reading
+date: 2007-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00174/harawira-terrorism-suppression-bill-3rd-reading.htm
 author: te-pati-maori
+permalink: /archive/2007/11/09/harawira-terrorism-suppression-bill-3rd-reading/index.html
+layout: layout.njk
 ---
 Harawira - Terrorism Suppression Bill 3rd Reading
 =================================================

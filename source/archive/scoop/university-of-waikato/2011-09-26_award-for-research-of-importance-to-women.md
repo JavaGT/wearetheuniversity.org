@@ -1,9 +1,12 @@
 ---
 slug: award-for-research-of-importance-to-women
-title: "Award for research of importance to women"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/CU1109/S00383/award-for-research-of-importance-to-women.htm
+title: Award for research of importance to women
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1109/S00383/award-for-research-of-importance-to-women.htm
 author: university-of-waikato
+permalink: /archive/2011/09/26/award-for-research-of-importance-to-women/index.html
+layout: layout.njk
 ---
 Award for research of importance to women
 =========================================

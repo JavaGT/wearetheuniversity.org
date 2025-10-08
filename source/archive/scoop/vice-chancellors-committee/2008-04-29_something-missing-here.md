@@ -1,9 +1,11 @@
 ---
 slug: something-missing-here
-title: "Something missing here?"
-date: 2008-04-29
+title: Something missing here?
+date: 2008-04-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0804/S00083/something-missing-here.htm
 author: vice-chancellors-committee
+permalink: /archive/2008/04/29/something-missing-here/index.html
+layout: layout.njk
 ---
 Something missing here?
 =======================

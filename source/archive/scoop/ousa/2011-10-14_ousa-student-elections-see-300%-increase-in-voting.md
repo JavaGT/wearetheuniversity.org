@@ -1,9 +1,12 @@
 ---
 slug: ousa-student-elections-see-300%-increase-in-voting
-title: "OUSA Student Elections see 300% increase in Voting"
-date: 2011-10-14
-source-url: https://www.scoop.co.nz/stories/ED1110/S00062/ousa-student-elections-see-300-increase-in-voting.htm
+title: OUSA Student Elections see 300% increase in Voting
+date: 2011-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00062/ousa-student-elections-see-300-increase-in-voting.htm
 author: ousa
+permalink: /archive/2011/10/14/ousa-student-elections-see-300/index.html
+layout: layout.njk
 ---
 OUSA Student Elections see 300% increase in Voting
 ==================================================

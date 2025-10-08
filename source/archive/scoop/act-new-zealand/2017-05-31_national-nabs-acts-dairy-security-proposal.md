@@ -1,9 +1,12 @@
 ---
 slug: national-nabs-acts-dairy-security-proposal
-title: "National nabs ACT’s dairy security proposal"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/PA1705/S00670/national-nabs-acts-dairy-security-proposal.htm
+title: National nabs ACT’s dairy security proposal
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00670/national-nabs-acts-dairy-security-proposal.htm
 author: act-new-zealand
+permalink: /archive/2017/05/31/national-nabs-acts-dairy-security-proposal/index.html
+layout: layout.njk
 ---
 National nabs ACT’s dairy security proposal
 ===========================================

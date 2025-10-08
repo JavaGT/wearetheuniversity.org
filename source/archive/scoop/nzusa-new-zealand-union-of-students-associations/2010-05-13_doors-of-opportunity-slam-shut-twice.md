@@ -1,9 +1,12 @@
 ---
 slug: doors-of-opportunity-slam-shut-twice
-title: "Doors of opportunity slam shut twice"
-date: 2010-05-13
-source-url: https://www.scoop.co.nz/stories/ED1005/S00047/doors-of-opportunity-slam-shut-twice.htm
+title: Doors of opportunity slam shut twice
+date: 2010-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00047/doors-of-opportunity-slam-shut-twice.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/05/13/doors-of-opportunity-slam-shut-twice/index.html
+layout: layout.njk
 ---
 Doors of opportunity slam shut twice
 ====================================

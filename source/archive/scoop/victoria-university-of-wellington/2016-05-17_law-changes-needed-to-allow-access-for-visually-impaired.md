@@ -1,9 +1,13 @@
 ---
 slug: law-changes-needed-to-allow-access-for-visually-impaired
-title: "Law changes needed to allow access for visually impaired"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/PO1605/S00212/law-changes-needed-to-allow-access-for-visually-impaired.htm
+title: Law changes needed to allow access for visually impaired
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00212/law-changes-needed-to-allow-access-for-visually-impaired.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/05/17/law-changes-needed-to-allow-access-for-visually-impaired/index.html
+layout: layout.njk
 ---
 Law changes needed to allow access for visually impaired
 ========================================================

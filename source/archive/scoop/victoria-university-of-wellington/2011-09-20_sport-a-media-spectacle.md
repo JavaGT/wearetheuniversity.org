@@ -1,9 +1,11 @@
 ---
 slug: sport-a-media-spectacle
-title: "Sport a media spectacle"
-date: 2011-09-20
+title: Sport a media spectacle
+date: 2011-09-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1109/S00300/sport-a-media-spectacle.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/20/sport-a-media-spectacle/index.html
+layout: layout.njk
 ---
 Sport a media spectacle
 =======================

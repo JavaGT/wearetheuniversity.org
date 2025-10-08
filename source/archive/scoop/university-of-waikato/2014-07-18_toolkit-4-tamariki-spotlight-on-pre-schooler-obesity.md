@@ -1,9 +1,13 @@
 ---
 slug: toolkit-4-tamariki-spotlight-on-pre-schooler-obesity
-title: "Toolkit 4 Tamariki: Spotlight on pre-schooler obesity"
-date: 2014-07-18
-source-url: https://www.scoop.co.nz/stories/SC1407/S00047/toolkit-4-tamariki-spotlight-on-pre-schooler-obesity.htm
+title: 'Toolkit 4 Tamariki: Spotlight on pre-schooler obesity'
+date: 2014-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00047/toolkit-4-tamariki-spotlight-on-pre-schooler-obesity.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/07/18/toolkit-4-tamariki-spotlight-on-pre-schooler-obesity/index.html
+layout: layout.njk
 ---
 Toolkit 4 Tamariki: Spotlight on pre-schooler obesity
 =====================================================

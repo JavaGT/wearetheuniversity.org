@@ -1,9 +1,12 @@
 ---
 slug: civil-unions-recognising-difference
-title: "Civil Unions: Recognising Difference?"
-date: 2004-11-02
-source-url: https://www.scoop.co.nz/stories/ED0411/S00003/civil-unions-recognising-difference.htm
+title: 'Civil Unions: Recognising Difference?'
+date: 2004-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00003/civil-unions-recognising-difference.htm
 author: waikato-university
+permalink: /archive/2004/11/02/civil-unions-recognising-difference/index.html
+layout: layout.njk
 ---
 Civil Unions: Recognising Difference?
 =====================================

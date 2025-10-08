@@ -1,9 +1,11 @@
 ---
 slug: moving-your-mood-with-music
-title: "Moving your mood with music"
-date: 2017-06-27
+title: Moving your mood with music
+date: 2017-06-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1706/S00106/moving-your-mood-with-music.htm
 author: massey-university
+permalink: /archive/2017/06/27/moving-your-mood-with-music/index.html
+layout: layout.njk
 ---
 Moving your mood with music
 ===========================

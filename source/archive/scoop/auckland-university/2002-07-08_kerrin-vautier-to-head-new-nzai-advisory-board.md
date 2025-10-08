@@ -1,9 +1,12 @@
 ---
 slug: kerrin-vautier-to-head-new-nzai-advisory-board
-title: "Kerrin Vautier To Head New NZAI Advisory Board"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/ED0207/S00012/kerrin-vautier-to-head-new-nzai-advisory-board.htm
+title: Kerrin Vautier To Head New NZAI Advisory Board
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00012/kerrin-vautier-to-head-new-nzai-advisory-board.htm
 author: auckland-university
+permalink: /archive/2002/07/08/kerrin-vautier-to-head-new-nzai-advisory-board/index.html
+layout: layout.njk
 ---
 Kerrin Vautier To Head New NZAI Advisory Board
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: website-puts-your-questions-to-mayoral-candidates
-title: "Website Puts Your Questions to Mayoral Candidates"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/PO1309/S00210/website-puts-your-questions-to-mayoral-candidates.htm
+title: Website Puts Your Questions to Mayoral Candidates
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00210/website-puts-your-questions-to-mayoral-candidates.htm
 author: massey-university
+permalink: >-
+  /archive/2013/09/19/website-puts-your-questions-to-mayoral-candidates/index.html
+layout: layout.njk
 ---
 Website Puts Your Questions to Mayoral Candidates
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: key-just-doesnt-get-it-on-jobs
-title: "Key just doesn’t get it on jobs"
-date: 2011-08-01
-source-url: https://www.scoop.co.nz/stories/PA1108/S00008/key-just-doesnt-get-it-on-jobs.htm
+title: Key just doesn’t get it on jobs
+date: 2011-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00008/key-just-doesnt-get-it-on-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/01/key-just-doesnt-get-it-on-jobs/index.html
+layout: layout.njk
 ---
 Key just doesn’t get it on jobs
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: victoria-graduate-helps-ensure-survival-of-rarest-kiwi
-title: "Victoria graduate helps ensure survival of rarest kiwi"
-date: 2014-12-16
-source-url: https://www.scoop.co.nz/stories/SC1412/S00047/victoria-graduate-helps-ensure-survival-of-rarest-kiwi.htm
+title: Victoria graduate helps ensure survival of rarest kiwi
+date: 2014-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00047/victoria-graduate-helps-ensure-survival-of-rarest-kiwi.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/16/victoria-graduate-helps-ensure-survival-of-rarest-kiwi/index.html
+layout: layout.njk
 ---
 Victoria graduate helps ensure survival of rarest kiwi
 ======================================================

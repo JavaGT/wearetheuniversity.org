@@ -1,9 +1,12 @@
 ---
 slug: occupation-wave-hits-auckland!
-title: "Occupation Wave Hits Auckland!"
-date: 2000-03-29
-source-url: https://www.scoop.co.nz/stories/ED0003/S00059/occupation-wave-hits-auckland.htm
+title: Occupation Wave Hits Auckland!
+date: 2000-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00059/occupation-wave-hits-auckland.htm
 author: fightback
+permalink: /archive/2000/03/29/occupation-wave-hits-auckland/index.html
+layout: layout.njk
 ---
 Occupation Wave Hits Auckland!
 ==============================

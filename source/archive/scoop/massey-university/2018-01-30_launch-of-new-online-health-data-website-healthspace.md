@@ -1,9 +1,13 @@
 ---
 slug: launch-of-new-online-health-data-website-healthspace
-title: "Launch of new online health data website - healthspace"
-date: 2018-01-30
-source-url: https://www.scoop.co.nz/stories/GE1801/S00063/launch-of-new-online-health-data-website-healthspace.htm
+title: Launch of new online health data website - healthspace
+date: 2018-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1801/S00063/launch-of-new-online-health-data-website-healthspace.htm
 author: massey-university
+permalink: >-
+  /archive/2018/01/30/launch-of-new-online-health-data-website-healthspace/index.html
+layout: layout.njk
 ---
 Launch of new online health data website - healthspace
 ======================================================

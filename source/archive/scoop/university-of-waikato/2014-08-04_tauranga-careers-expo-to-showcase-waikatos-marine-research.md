@@ -1,9 +1,13 @@
 ---
 slug: tauranga-careers-expo-to-showcase-waikatos-marine-research
-title: "Tauranga Careers Expo to showcase Waikato’s marine research"
-date: 2014-08-04
-source-url: https://www.scoop.co.nz/stories/SC1408/S00008/tauranga-careers-expo-to-showcase-waikatos-marine-research.htm
+title: Tauranga Careers Expo to showcase Waikato’s marine research
+date: 2014-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00008/tauranga-careers-expo-to-showcase-waikatos-marine-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/04/tauranga-careers-expo-to-showcase-waikatos-marine-research/index.html
+layout: layout.njk
 ---
 Tauranga Careers Expo to showcase Waikato’s marine research
 ===========================================================

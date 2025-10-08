@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-where-is-the-wealth
-title: "The Mapp Report:  Where Is The Wealth?"
-date: 2005-11-11
-source-url: https://www.scoop.co.nz/stories/PA0511/S00148/the-mapp-report-where-is-the-wealth.htm
+title: 'The Mapp Report:  Where Is The Wealth?'
+date: 2005-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00148/the-mapp-report-where-is-the-wealth.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/11/the-mapp-report-where-is-the-wealth/index.html
+layout: layout.njk
 ---
 The Mapp Report: Where Is The Wealth?
 =====================================

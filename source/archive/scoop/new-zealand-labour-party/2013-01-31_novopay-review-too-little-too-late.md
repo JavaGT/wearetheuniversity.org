@@ -1,9 +1,12 @@
 ---
 slug: novopay-review-too-little-too-late
-title: "Novopay review too little, too late"
-date: 2013-01-31
-source-url: https://www.scoop.co.nz/stories/PA1301/S00201/novopay-review-too-little-too-late.htm
+title: Novopay review too little, too late
+date: 2013-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00201/novopay-review-too-little-too-late.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/31/novopay-review-too-little-too-late/index.html
+layout: layout.njk
 ---
 Novopay review too little, too late
 ===================================

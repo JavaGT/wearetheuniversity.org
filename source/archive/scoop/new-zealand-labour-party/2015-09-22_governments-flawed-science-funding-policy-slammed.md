@@ -1,9 +1,13 @@
 ---
 slug: governments-flawed-science-funding-policy-slammed
-title: "Government’s flawed science funding policy slammed"
-date: 2015-09-22
-source-url: https://www.scoop.co.nz/stories/PA1509/S00377/governments-flawed-science-funding-policy-slammed.htm
+title: Government’s flawed science funding policy slammed
+date: 2015-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00377/governments-flawed-science-funding-policy-slammed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/09/22/governments-flawed-science-funding-policy-slammed/index.html
+layout: layout.njk
 ---
 Government’s flawed science funding policy slammed
 ==================================================

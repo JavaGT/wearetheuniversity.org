@@ -1,9 +1,11 @@
 ---
 slug: yo-yo-lockdown-disappointing
-title: "Yo-yo Lockdown Disappointing"
-date: 2021-02-28
+title: Yo-yo Lockdown Disappointing
+date: 2021-02-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2102/S00168/yo-yo-lockdown-disappointing.htm
 author: new-zealand-national-party
+permalink: /archive/2021/02/28/yo-yo-lockdown-disappointing/index.html
+layout: layout.njk
 ---
 Yo-yo Lockdown Disappointing
 ============================

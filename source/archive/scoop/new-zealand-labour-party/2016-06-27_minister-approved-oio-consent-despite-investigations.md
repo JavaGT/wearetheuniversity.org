@@ -1,9 +1,13 @@
 ---
 slug: minister-approved-oio-consent-despite-investigations
-title: "Minister approved OIO consent despite investigations"
-date: 2016-06-27
-source-url: https://www.scoop.co.nz/stories/PA1606/S00431/minister-approved-oio-consent-despite-investigations.htm
+title: Minister approved OIO consent despite investigations
+date: 2016-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00431/minister-approved-oio-consent-despite-investigations.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/06/27/minister-approved-oio-consent-despite-investigations/index.html
+layout: layout.njk
 ---
 Minister approved OIO consent despite investigations
 ====================================================

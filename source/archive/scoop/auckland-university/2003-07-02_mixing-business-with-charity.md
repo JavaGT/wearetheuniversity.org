@@ -1,9 +1,11 @@
 ---
 slug: mixing-business-with-charity
-title: "Mixing Business With Charity"
-date: 2003-07-02
+title: Mixing Business With Charity
+date: 2003-07-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0307/S00006/mixing-business-with-charity.htm
 author: auckland-university
+permalink: /archive/2003/07/02/mixing-business-with-charity/index.html
+layout: layout.njk
 ---
 Mixing Business With Charity
 ============================

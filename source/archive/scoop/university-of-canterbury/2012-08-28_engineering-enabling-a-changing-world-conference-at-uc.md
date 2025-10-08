@@ -1,9 +1,13 @@
 ---
 slug: engineering-enabling-a-changing-world-conference-at-uc
-title: "Engineering enabling a changing world – conference at UC"
-date: 2012-08-28
-source-url: https://www.scoop.co.nz/stories/BU1208/S01007/engineering-enabling-a-changing-world-conference-at-uc.htm
+title: Engineering enabling a changing world – conference at UC
+date: 2012-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1208/S01007/engineering-enabling-a-changing-world-conference-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/28/engineering-enabling-a-changing-world-conference-at-uc/index.html
+layout: layout.njk
 ---
 Engineering enabling a changing world – conference at UC
 ========================================================

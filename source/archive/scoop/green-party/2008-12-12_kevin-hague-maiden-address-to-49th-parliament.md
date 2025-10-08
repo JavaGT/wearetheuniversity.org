@@ -1,9 +1,12 @@
 ---
 slug: kevin-hague-maiden-address-to-49th-parliament
-title: "Kevin Hague - Maiden Address to 49th Parliament"
-date: 2008-12-12
-source-url: https://www.scoop.co.nz/stories/PA0812/S00133/kevin-hague-maiden-address-to-49th-parliament.htm
+title: Kevin Hague - Maiden Address to 49th Parliament
+date: 2008-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00133/kevin-hague-maiden-address-to-49th-parliament.htm
 author: green-party
+permalink: /archive/2008/12/12/kevin-hague-maiden-address-to-49th-parliament/index.html
+layout: layout.njk
 ---
 Kevin Hague - Maiden Address to 49th Parliament
 ===============================================

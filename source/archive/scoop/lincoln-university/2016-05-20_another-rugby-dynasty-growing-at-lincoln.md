@@ -1,9 +1,12 @@
 ---
 slug: another-rugby-dynasty-growing-at-lincoln
-title: "Another rugby dynasty growing at Lincoln"
-date: 2016-05-20
-source-url: https://www.scoop.co.nz/stories/CU1605/S00267/another-rugby-dynasty-growing-at-lincoln.htm
+title: Another rugby dynasty growing at Lincoln
+date: 2016-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1605/S00267/another-rugby-dynasty-growing-at-lincoln.htm
 author: lincoln-university
+permalink: /archive/2016/05/20/another-rugby-dynasty-growing-at-lincoln/index.html
+layout: layout.njk
 ---
 Another rugby dynasty growing at Lincoln
 ========================================

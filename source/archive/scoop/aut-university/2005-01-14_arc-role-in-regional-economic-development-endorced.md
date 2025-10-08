@@ -1,9 +1,13 @@
 ---
 slug: arc-role-in-regional-economic-development-endorced
-title: "ARC Role in Regional Economic Development Endorced"
-date: 2005-01-14
-source-url: https://www.scoop.co.nz/stories/ED0501/S00022/arc-role-in-regional-economic-development-endorced.htm
+title: ARC Role in Regional Economic Development Endorced
+date: 2005-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00022/arc-role-in-regional-economic-development-endorced.htm
 author: aut-university
+permalink: >-
+  /archive/2005/01/14/arc-role-in-regional-economic-development-endorced/index.html
+layout: layout.njk
 ---
 ARC Role in Regional Economic Development Endorced
 ==================================================

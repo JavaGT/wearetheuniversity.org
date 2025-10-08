@@ -1,9 +1,12 @@
 ---
 slug: ousa-presents-dunedins-next-top-flat
-title: "OUSA presents: Dunedin’s Next Top Flat"
-date: 2010-09-23
-source-url: https://www.scoop.co.nz/stories/CU1009/S00252/ousa-presents-dunedins-next-top-flat.htm
+title: 'OUSA presents: Dunedin’s Next Top Flat'
+date: 2010-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1009/S00252/ousa-presents-dunedins-next-top-flat.htm
 author: ousa
+permalink: /archive/2010/09/23/ousa-presents-dunedins-next-top-flat/index.html
+layout: layout.njk
 ---
 OUSA presents: Dunedin’s Next Top Flat
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-34-19-september
-title: "AUS Tertiary Update Vol. 5  No. 34,  19 September"
-date: 2002-09-19
-source-url: https://www.scoop.co.nz/stories/ED0209/S00033/aus-tertiary-update-vol-5-no-34-19-september.htm
+title: AUS Tertiary Update Vol. 5  No. 34,  19 September
+date: 2002-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00033/aus-tertiary-update-vol-5-no-34-19-september.htm
 author: association-of-university-staff
+permalink: /archive/2002/09/19/aus-tertiary-update-vol-5-no-34-19-september/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No. 34, 19 September
 ===============================================

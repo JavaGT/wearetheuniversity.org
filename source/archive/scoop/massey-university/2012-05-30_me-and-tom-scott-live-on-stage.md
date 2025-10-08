@@ -1,9 +1,12 @@
 ---
 slug: me-and-tom-scott-live-on-stage
-title: "Me and Tom Scott: live on stage"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/ED1205/S00150/me-and-tom-scott-live-on-stage.htm
+title: 'Me and Tom Scott: live on stage'
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00150/me-and-tom-scott-live-on-stage.htm
 author: massey-university
+permalink: /archive/2012/05/30/me-and-tom-scott-live-on-stage/index.html
+layout: layout.njk
 ---
 Me and Tom Scott: live on stage
 ===============================

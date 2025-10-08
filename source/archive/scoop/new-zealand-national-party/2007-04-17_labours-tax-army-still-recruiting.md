@@ -1,9 +1,12 @@
 ---
 slug: labours-tax-army-still-recruiting
-title: "Labour’s tax army still recruiting"
-date: 2007-04-17
-source-url: https://www.scoop.co.nz/stories/PA0704/S00285/labours-tax-army-still-recruiting.htm
+title: Labour’s tax army still recruiting
+date: 2007-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00285/labours-tax-army-still-recruiting.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/17/labours-tax-army-still-recruiting/index.html
+layout: layout.njk
 ---
 Labour’s tax army still recruiting
 ==================================

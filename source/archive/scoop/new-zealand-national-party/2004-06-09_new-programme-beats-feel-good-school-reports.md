@@ -1,9 +1,12 @@
 ---
 slug: new-programme-beats-feel-good-school-reports
-title: "New programme beats feel-good school reports"
-date: 2004-06-09
-source-url: https://www.scoop.co.nz/stories/PA0406/S00139/new-programme-beats-feel-good-school-reports.htm
+title: New programme beats feel-good school reports
+date: 2004-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00139/new-programme-beats-feel-good-school-reports.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/09/new-programme-beats-feel-good-school-reports/index.html
+layout: layout.njk
 ---
 New programme beats feel-good school reports
 ============================================

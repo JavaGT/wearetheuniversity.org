@@ -1,9 +1,11 @@
 ---
 slug: the-energy-revolution
-title: "The energy revolution"
-date: 2015-07-06
+title: The energy revolution
+date: 2015-07-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1507/S00036/the-energy-revolution.htm
 author: waikato-university
+permalink: /archive/2015/07/06/the-energy-revolution/index.html
+layout: layout.njk
 ---
 The energy revolution
 =====================

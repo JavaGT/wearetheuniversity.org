@@ -1,9 +1,13 @@
 ---
 slug: country-needs-to-work-together-and-clean-up-its-act
-title: "Country needs to work together and clean up its act"
-date: 2013-08-13
-source-url: https://www.scoop.co.nz/stories/PO1308/S00189/country-needs-to-work-together-and-clean-up-its-act.htm
+title: Country needs to work together and clean up its act
+date: 2013-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00189/country-needs-to-work-together-and-clean-up-its-act.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/08/13/country-needs-to-work-together-and-clean-up-its-act/index.html
+layout: layout.njk
 ---
 Country needs to work together and clean up its act
 ===================================================

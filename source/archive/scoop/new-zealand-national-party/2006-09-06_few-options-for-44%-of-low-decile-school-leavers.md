@@ -1,9 +1,12 @@
 ---
 slug: few-options-for-44%-of-low-decile-school-leavers
-title: "Few options for 44% of low-decile school leavers"
-date: 2006-09-06
-source-url: https://www.scoop.co.nz/stories/PA0609/S00142/few-options-for-44-of-low-decile-school-leavers.htm
+title: Few options for 44% of low-decile school leavers
+date: 2006-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00142/few-options-for-44-of-low-decile-school-leavers.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/06/few-options-for-44/index.html
+layout: layout.njk
 ---
 Few options for 44% of low-decile school leavers
 ================================================

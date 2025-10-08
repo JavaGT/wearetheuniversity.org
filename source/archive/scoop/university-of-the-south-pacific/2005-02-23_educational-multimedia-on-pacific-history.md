@@ -1,9 +1,12 @@
 ---
 slug: educational-multimedia-on-pacific-history
-title: "Educational Multimedia on Pacific History"
-date: 2005-02-23
-source-url: https://www.scoop.co.nz/stories/WO0502/S00602/educational-multimedia-on-pacific-history.htm
+title: Educational Multimedia on Pacific History
+date: 2005-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0502/S00602/educational-multimedia-on-pacific-history.htm
 author: university-of-the-south-pacific
+permalink: /archive/2005/02/23/educational-multimedia-on-pacific-history/index.html
+layout: layout.njk
 ---
 Educational Multimedia on Pacific History
 =========================================

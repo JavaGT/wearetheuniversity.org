@@ -1,9 +1,12 @@
 ---
 slug: mp-wants-inquiry-into-$1-7-billion-industry
-title: "MP wants inquiry into $1.7 billion industry"
-date: 2003-12-23
-source-url: https://www.scoop.co.nz/stories/PA0312/S00542/mp-wants-inquiry-into-17-billion-industry.htm
+title: MP wants inquiry into $1.7 billion industry
+date: 2003-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00542/mp-wants-inquiry-into-17-billion-industry.htm
 author: new-zealand-national-party
+permalink: /archive/2003/12/23/mp-wants-inquiry-into-/index.html
+layout: layout.njk
 ---
 MP wants inquiry into $1.7 billion industry
 ===========================================

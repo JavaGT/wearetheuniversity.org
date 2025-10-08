@@ -1,9 +1,12 @@
 ---
 slug: hunting-the-elusive-neutrino-in-antarctica
-title: "Hunting the elusive neutrino in Antarctica"
-date: 2016-10-12
-source-url: https://www.scoop.co.nz/stories/SC1610/S00028/hunting-the-elusive-neutrino-in-antarctica.htm
+title: Hunting the elusive neutrino in Antarctica
+date: 2016-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00028/hunting-the-elusive-neutrino-in-antarctica.htm
 author: university-of-canterbury
+permalink: /archive/2016/10/12/hunting-the-elusive-neutrino-in-antarctica/index.html
+layout: layout.njk
 ---
 Hunting the elusive neutrino in Antarctica
 ==========================================

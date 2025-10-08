@@ -1,9 +1,12 @@
 ---
 slug: an-election-about-vision-leadership-and-trust
-title: "An election about vision, leadership and trust"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/PO0809/S00189/an-election-about-vision-leadership-and-trust.htm
+title: An election about vision, leadership and trust
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00189/an-election-about-vision-leadership-and-trust.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/09/12/an-election-about-vision-leadership-and-trust/index.html
+layout: layout.njk
 ---
 An election about vision, leadership and trust
 ==============================================

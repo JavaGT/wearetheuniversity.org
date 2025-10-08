@@ -1,9 +1,11 @@
 ---
 slug: law-students-win-online
-title: "Law students win online"
-date: 2004-06-09
+title: Law students win online
+date: 2004-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0406/S00043/law-students-win-online.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/06/09/law-students-win-online/index.html
+layout: layout.njk
 ---
 Law students win online
 =======================

@@ -1,9 +1,13 @@
 ---
 slug: special-recognition-for-uc-academic-appointed-kings-counsel
-title: "Special Recognition For UC Academic Appointed King’s Counsel"
-date: 2024-07-03
-source-url: https://www.scoop.co.nz/stories/ED2407/S00006/special-recognition-for-uc-academic-appointed-kings-counsel.htm
+title: Special Recognition For UC Academic Appointed King’s Counsel
+date: 2024-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2407/S00006/special-recognition-for-uc-academic-appointed-kings-counsel.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/07/03/special-recognition-for-uc-academic-appointed-kings-counsel/index.html
+layout: layout.njk
 ---
 Special Recognition For UC Academic Appointed King’s Counsel
 ============================================================

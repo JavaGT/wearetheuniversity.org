@@ -1,9 +1,12 @@
 ---
 slug: national-selects-bala-beeram-in-kelston
-title: "National selects Bala Beeram in Kelston"
-date: 2017-04-28
-source-url: https://www.scoop.co.nz/stories/PO1704/S00314/national-selects-bala-beeram-in-kelston.htm
+title: National selects Bala Beeram in Kelston
+date: 2017-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00314/national-selects-bala-beeram-in-kelston.htm
 author: new-zealand-national-party
+permalink: /archive/2017/04/28/national-selects-bala-beeram-in-kelston/index.html
+layout: layout.njk
 ---
 National selects Bala Beeram in Kelston
 =======================================

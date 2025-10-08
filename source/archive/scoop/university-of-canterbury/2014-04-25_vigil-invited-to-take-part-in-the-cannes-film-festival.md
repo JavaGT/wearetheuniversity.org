@@ -1,9 +1,13 @@
 ---
 slug: vigil-invited-to-take-part-in-the-cannes-film-festival
-title: "Vigil invited to take part in the Cannes film festival"
-date: 2014-04-25
-source-url: https://www.scoop.co.nz/stories/CU1404/S00381/vigil-invited-to-take-part-in-the-cannes-film-festival.htm
+title: Vigil invited to take part in the Cannes film festival
+date: 2014-04-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00381/vigil-invited-to-take-part-in-the-cannes-film-festival.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/25/vigil-invited-to-take-part-in-the-cannes-film-festival/index.html
+layout: layout.njk
 ---
 Vigil invited to take part in the Cannes film festival
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-make-it-easy-to-be-green
-title: "Students make it easy to be green"
-date: 2007-05-08
-source-url: https://www.scoop.co.nz/stories/ED0705/S00036/students-make-it-easy-to-be-green.htm
+title: Students make it easy to be green
+date: 2007-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00036/students-make-it-easy-to-be-green.htm
 author: auckland-university-students-association
+permalink: /archive/2007/05/08/students-make-it-easy-to-be-green/index.html
+layout: layout.njk
 ---
 Students make it easy to be green
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: house-building-far-below-whats-needed
-title: "House building far below what’s needed"
-date: 2017-03-03
-source-url: https://www.scoop.co.nz/stories/PA1703/S00045/house-building-far-below-whats-needed.htm
+title: House building far below what’s needed
+date: 2017-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00045/house-building-far-below-whats-needed.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/03/house-building-far-below-whats-needed/index.html
+layout: layout.njk
 ---
 House building far below what’s needed
 ======================================

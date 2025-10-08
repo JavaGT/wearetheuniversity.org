@@ -1,9 +1,12 @@
 ---
 slug: investigating-critical-thickness-of-sea-ice
-title: "Investigating critical thickness of sea ice"
-date: 2014-04-01
-source-url: https://www.scoop.co.nz/stories/SC1404/S00006/investigating-critical-thickness-of-sea-ice.htm
+title: Investigating critical thickness of sea ice
+date: 2014-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00006/investigating-critical-thickness-of-sea-ice.htm
 author: university-of-canterbury
+permalink: /archive/2014/04/01/investigating-critical-thickness-of-sea-ice/index.html
+layout: layout.njk
 ---
 Investigating critical thickness of sea ice
 ===========================================

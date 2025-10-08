@@ -1,9 +1,16 @@
 ---
-slug: four-influential-young-kiwis-to-represent-new-zealand-on-the-world-stage-at-apec-voices-of-the-future-2021
-title: "Four Influential Young Kiwis To Represent New Zealand On The World Stage At APEC Voices Of The Future 2021"
-date: 2021-10-05
-source-url: https://www.scoop.co.nz/stories/WO2110/S00041/four-influential-young-kiwis-to-represent-new-zealand-on-the-world-stage-at-apec-voices-of-the-future-2021.htm
+slug: >-
+  four-influential-young-kiwis-to-represent-new-zealand-on-the-world-stage-at-apec-voices-of-the-future-2021
+title: >-
+  Four Influential Young Kiwis To Represent New Zealand On The World Stage At
+  APEC Voices Of The Future 2021
+date: 2021-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2110/S00041/four-influential-young-kiwis-to-represent-new-zealand-on-the-world-stage-at-apec-voices-of-the-future-2021.htm
 author: aut-university
+permalink: >-
+  /archive/2021/10/05/four-influential-young-kiwis-to-represent-new-zealand-on-the-world-stage-at-apec-voices-of-the-future-2021/index.html
+layout: layout.njk
 ---
 Four Influential Young Kiwis To Represent New Zealand On The World Stage At APEC Voices Of The Future 2021
 ==========================================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-supports-schools-stance
-title: "Labour supports schools' stance"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/PA9910/S00435/labour-supports-schools-stance.htm
+title: Labour supports schools' stance
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00435/labour-supports-schools-stance.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/20/labour-supports-schools-stance/index.html
+layout: layout.njk
 ---
 Labour supports schools' stance
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: dont-know-dont-care-minister-should-be-sacked
-title: "\"Don't know, don't care\" Minister should be sacked"
-date: 1999-07-29
-source-url: https://www.scoop.co.nz/stories/PA9907/S00584/dont-know-dont-care-minister-should-be-sacked.htm
+title: '"Don''t know, don''t care" Minister should be sacked'
+date: 1999-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00584/dont-know-dont-care-minister-should-be-sacked.htm
 author: green-party
+permalink: /archive/1999/07/29/dont-know-dont-care-minister-should-be-sacked/index.html
+layout: layout.njk
 ---
 "Don't know, don't care" Minister should be sacked
 ==================================================

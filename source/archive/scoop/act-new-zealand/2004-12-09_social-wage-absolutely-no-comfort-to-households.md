@@ -1,9 +1,12 @@
 ---
 slug: social-wage-absolutely-no-comfort-to-households
-title: "Social wage absolutely no comfort to households"
-date: 2004-12-09
-source-url: https://www.scoop.co.nz/stories/PA0412/S00235/social-wage-absolutely-no-comfort-to-households.htm
+title: Social wage absolutely no comfort to households
+date: 2004-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00235/social-wage-absolutely-no-comfort-to-households.htm
 author: act-new-zealand
+permalink: /archive/2004/12/09/social-wage-absolutely-no-comfort-to-households/index.html
+layout: layout.njk
 ---
 Social wage absolutely no comfort to households
 ===============================================

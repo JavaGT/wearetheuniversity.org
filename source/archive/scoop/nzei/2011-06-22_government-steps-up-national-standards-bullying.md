@@ -1,9 +1,12 @@
 ---
 slug: government-steps-up-national-standards-bullying
-title: "Government steps up National Standards bullying"
-date: 2011-06-22
-source-url: https://www.scoop.co.nz/stories/PO1106/S00271/government-steps-up-national-standards-bullying.htm
+title: Government steps up National Standards bullying
+date: 2011-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00271/government-steps-up-national-standards-bullying.htm
 author: nzei
+permalink: /archive/2011/06/22/government-steps-up-national-standards-bullying/index.html
+layout: layout.njk
 ---
 Government steps up National Standards bullying
 ===============================================

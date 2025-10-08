@@ -1,9 +1,13 @@
 ---
 slug: compound-could-protect-from-post-heart-attack-tissue-damage
-title: "Compound Could Protect from Post-heart Attack Tissue Damage"
-date: 2013-05-27
-source-url: https://www.scoop.co.nz/stories/SC1305/S00081/compound-could-protect-from-post-heart-attack-tissue-damage.htm
+title: Compound Could Protect from Post-heart Attack Tissue Damage
+date: 2013-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00081/compound-could-protect-from-post-heart-attack-tissue-damage.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/05/27/compound-could-protect-from-post-heart-attack-tissue-damage/index.html
+layout: layout.njk
 ---
 Compound Could Protect from Post-heart Attack Tissue Damage
 ===========================================================

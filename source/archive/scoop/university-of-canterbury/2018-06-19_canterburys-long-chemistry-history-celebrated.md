@@ -1,9 +1,12 @@
 ---
 slug: canterburys-long-chemistry-history-celebrated
-title: "Canterbury’s long Chemistry history celebrated"
-date: 2018-06-19
-source-url: https://www.scoop.co.nz/stories/ED1806/S00059/canterburys-long-chemistry-history-celebrated.htm
+title: Canterbury’s long Chemistry history celebrated
+date: 2018-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00059/canterburys-long-chemistry-history-celebrated.htm
 author: university-of-canterbury
+permalink: /archive/2018/06/19/canterburys-long-chemistry-history-celebrated/index.html
+layout: layout.njk
 ---
 Canterbury’s long Chemistry history celebrated
 ==============================================

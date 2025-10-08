@@ -1,9 +1,12 @@
 ---
 slug: soft-on-crime-govt-fast-to-talk-slow-to-act
-title: "Soft On Crime Govt Fast To Talk, Slow To Act"
-date: 2022-03-12
-source-url: https://www.scoop.co.nz/stories/PA2203/S00096/soft-on-crime-govt-fast-to-talk-slow-to-act.htm
+title: Soft On Crime Govt Fast To Talk, Slow To Act
+date: 2022-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00096/soft-on-crime-govt-fast-to-talk-slow-to-act.htm
 author: new-zealand-national-party
+permalink: /archive/2022/03/12/soft-on-crime-govt-fast-to-talk-slow-to-act/index.html
+layout: layout.njk
 ---
 Soft On Crime Govt Fast To Talk, Slow To Act
 ============================================

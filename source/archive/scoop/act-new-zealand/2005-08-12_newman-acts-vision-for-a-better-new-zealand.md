@@ -1,9 +1,12 @@
 ---
 slug: newman-acts-vision-for-a-better-new-zealand
-title: "Newman: ACT's vision for a better New Zealand"
-date: 2005-08-12
-source-url: https://www.scoop.co.nz/stories/PA0508/S00347/newman-acts-vision-for-a-better-new-zealand.htm
+title: 'Newman: ACT''s vision for a better New Zealand'
+date: 2005-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00347/newman-acts-vision-for-a-better-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2005/08/12/newman-acts-vision-for-a-better-new-zealand/index.html
+layout: layout.njk
 ---
 Newman: ACT's vision for a better New Zealand
 =============================================

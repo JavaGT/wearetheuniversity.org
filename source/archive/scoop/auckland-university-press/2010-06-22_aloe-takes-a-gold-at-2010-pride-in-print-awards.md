@@ -1,9 +1,12 @@
 ---
 slug: aloe-takes-a-gold-at-2010-pride-in-print-awards
-title: "Aloe Takes A Gold At 2010 Pride In Print Awards"
-date: 2010-06-22
-source-url: https://www.scoop.co.nz/stories/CU1006/S00271/aloe-takes-a-gold-at-2010-pride-in-print-awards.htm
+title: Aloe Takes A Gold At 2010 Pride In Print Awards
+date: 2010-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1006/S00271/aloe-takes-a-gold-at-2010-pride-in-print-awards.htm
 author: auckland-university-press
+permalink: /archive/2010/06/22/aloe-takes-a-gold-at-2010-pride-in-print-awards/index.html
+layout: layout.njk
 ---
 Aloe Takes A Gold At 2010 Pride In Print Awards
 ===============================================

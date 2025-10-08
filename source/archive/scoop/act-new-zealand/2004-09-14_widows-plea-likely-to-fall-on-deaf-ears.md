@@ -1,9 +1,12 @@
 ---
 slug: widows-plea-likely-to-fall-on-deaf-ears
-title: "Widow's Plea Likely To Fall On Deaf Ears"
-date: 2004-09-14
-source-url: https://www.scoop.co.nz/stories/PA0409/S00278/widows-plea-likely-to-fall-on-deaf-ears.htm
+title: Widow's Plea Likely To Fall On Deaf Ears
+date: 2004-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00278/widows-plea-likely-to-fall-on-deaf-ears.htm
 author: act-new-zealand
+permalink: /archive/2004/09/14/widows-plea-likely-to-fall-on-deaf-ears/index.html
+layout: layout.njk
 ---
 Widow's Plea Likely To Fall On Deaf Ears
 ========================================

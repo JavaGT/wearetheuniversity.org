@@ -1,9 +1,12 @@
 ---
 slug: panic-and-back-flips-cant-hide-twin-deficits
-title: "Panic and back-flips can’t hide twin deficits"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PA1505/S00363/panic-and-back-flips-cant-hide-twin-deficits.htm
+title: Panic and back-flips can’t hide twin deficits
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00363/panic-and-back-flips-cant-hide-twin-deficits.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/21/panic-and-back-flips-cant-hide-twin-deficits/index.html
+layout: layout.njk
 ---
 Panic and back-flips can’t hide twin deficits
 =============================================

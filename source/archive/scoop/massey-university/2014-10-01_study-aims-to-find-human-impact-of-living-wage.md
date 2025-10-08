@@ -1,9 +1,12 @@
 ---
 slug: study-aims-to-find-human-impact-of-living-wage
-title: "Study aims to find human impact of living wage"
-date: 2014-10-01
-source-url: https://www.scoop.co.nz/stories/ED1410/S00011/study-aims-to-find-human-impact-of-living-wage.htm
+title: Study aims to find human impact of living wage
+date: 2014-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00011/study-aims-to-find-human-impact-of-living-wage.htm
 author: massey-university
+permalink: /archive/2014/10/01/study-aims-to-find-human-impact-of-living-wage/index.html
+layout: layout.njk
 ---
 Study aims to find human impact of living wage
 ==============================================

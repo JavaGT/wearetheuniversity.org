@@ -1,9 +1,12 @@
 ---
 slug: major-new-dryland-farming-research-project
-title: "Major new dryland farming research project"
-date: 2007-10-17
-source-url: https://www.scoop.co.nz/stories/SC0710/S00036/major-new-dryland-farming-research-project.htm
+title: Major new dryland farming research project
+date: 2007-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0710/S00036/major-new-dryland-farming-research-project.htm
 author: lincoln-university
+permalink: /archive/2007/10/17/major-new-dryland-farming-research-project/index.html
+layout: layout.njk
 ---
 Major new dryland farming research project
 ==========================================

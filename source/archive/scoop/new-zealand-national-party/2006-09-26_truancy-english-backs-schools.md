@@ -1,9 +1,12 @@
 ---
 slug: truancy-english-backs-schools
-title: "Truancy: English backs schools"
-date: 2006-09-26
-source-url: https://www.scoop.co.nz/stories/PA0609/S00539/truancy-english-backs-schools.htm
+title: 'Truancy: English backs schools'
+date: 2006-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00539/truancy-english-backs-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/26/truancy-english-backs-schools/index.html
+layout: layout.njk
 ---
 Truancy: English backs schools
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: stamping-out-competition-in-nursing-education
-title: "Stamping Out Competition In Nursing Education"
-date: 2000-12-21
-source-url: https://www.scoop.co.nz/stories/PA0012/S00367/stamping-out-competition-in-nursing-education.htm
+title: Stamping Out Competition In Nursing Education
+date: 2000-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00367/stamping-out-competition-in-nursing-education.htm
 author: act-new-zealand
+permalink: /archive/2000/12/21/stamping-out-competition-in-nursing-education/index.html
+layout: layout.njk
 ---
 Stamping Out Competition In Nursing Education
 =============================================

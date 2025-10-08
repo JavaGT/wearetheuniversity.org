@@ -1,9 +1,12 @@
 ---
 slug: otago-gains-health-research-funding
-title: "Otago Gains Health Research Funding"
-date: 2005-05-25
-source-url: https://www.scoop.co.nz/stories/ED0505/S00114/otago-gains-health-research-funding.htm
+title: Otago Gains Health Research Funding
+date: 2005-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00114/otago-gains-health-research-funding.htm
 author: university-of-otago
+permalink: /archive/2005/05/25/otago-gains-health-research-funding/index.html
+layout: layout.njk
 ---
 Otago Gains Health Research Funding
 ===================================

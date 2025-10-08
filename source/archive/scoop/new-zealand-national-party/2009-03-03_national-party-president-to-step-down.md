@@ -1,9 +1,12 @@
 ---
 slug: national-party-president-to-step-down
-title: "National Party President to Step Down"
-date: 2009-03-03
-source-url: https://www.scoop.co.nz/stories/PO0903/S00018/national-party-president-to-step-down.htm
+title: National Party President to Step Down
+date: 2009-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0903/S00018/national-party-president-to-step-down.htm
 author: new-zealand-national-party
+permalink: /archive/2009/03/03/national-party-president-to-step-down/index.html
+layout: layout.njk
 ---
 National Party President to Step Down
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-welcomes-puāwaitanga-scholarships
-title: "Māori Party Welcomes Puāwaitanga Scholarships"
-date: 2012-12-04
-source-url: https://www.scoop.co.nz/stories/PA1212/S00037/maori-party-welcomes-puawaitanga-scholarships.htm
+title: Māori Party Welcomes Puāwaitanga Scholarships
+date: 2012-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00037/maori-party-welcomes-puawaitanga-scholarships.htm
 author: te-pati-maori
+permalink: /archive/2012/12/04/m/index.html
+layout: layout.njk
 ---
 Māori Party Welcomes Puāwaitanga Scholarships
 =============================================

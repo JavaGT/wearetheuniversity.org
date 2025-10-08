@@ -1,9 +1,12 @@
 ---
 slug: nats-tinker-with-student-loans
-title: "Nats tinker with student loans"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/PA9910/S00441/nats-tinker-with-student-loans.htm
+title: Nats tinker with student loans
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00441/nats-tinker-with-student-loans.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/20/nats-tinker-with-student-loans/index.html
+layout: layout.njk
 ---
 Nats tinker with student loans
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: professor-thomas-story-simply-does-not-add-up
-title: "Professor Thomas' story simply does not add up"
-date: 2018-09-19
-source-url: https://www.scoop.co.nz/stories/PO1809/S00218/professor-thomas-story-simply-does-not-add-up.htm
+title: Professor Thomas' story simply does not add up
+date: 2018-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1809/S00218/professor-thomas-story-simply-does-not-add-up.htm
 author: free-speech-coalition
+permalink: /archive/2018/09/19/professor-thomas-story-simply-does-not-add-up/index.html
+layout: layout.njk
 ---
 Professor Thomas' story simply does not add up
 ==============================================

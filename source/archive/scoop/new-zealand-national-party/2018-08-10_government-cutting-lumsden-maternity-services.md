@@ -1,9 +1,12 @@
 ---
 slug: government-cutting-lumsden-maternity-services
-title: "Government cutting Lumsden maternity services"
-date: 2018-08-10
-source-url: https://www.scoop.co.nz/stories/PA1808/S00126/government-cutting-lumsden-maternity-services.htm
+title: Government cutting Lumsden maternity services
+date: 2018-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00126/government-cutting-lumsden-maternity-services.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/10/government-cutting-lumsden-maternity-services/index.html
+layout: layout.njk
 ---
 Government cutting Lumsden maternity services
 =============================================

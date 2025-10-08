@@ -1,9 +1,12 @@
 ---
 slug: farmer-feedback-shows-ge-moratorium-should-stay
-title: "Farmer feedback shows GE moratorium should stay"
-date: 2003-05-19
-source-url: https://www.scoop.co.nz/stories/PA0305/S00495/farmer-feedback-shows-ge-moratorium-should-stay.htm
+title: Farmer feedback shows GE moratorium should stay
+date: 2003-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00495/farmer-feedback-shows-ge-moratorium-should-stay.htm
 author: green-party
+permalink: /archive/2003/05/19/farmer-feedback-shows-ge-moratorium-should-stay/index.html
+layout: layout.njk
 ---
 Farmer feedback shows GE moratorium should stay
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: agri-event-to-strengthen-links-between-research-and-industry
-title: "Agri-event to strengthen links between research and industry"
-date: 2015-05-28
-source-url: https://www.scoop.co.nz/stories/BU1505/S00904/agri-event-to-strengthen-links-between-research-and-industry.htm
+title: Agri-event to strengthen links between research and industry
+date: 2015-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1505/S00904/agri-event-to-strengthen-links-between-research-and-industry.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/05/28/agri-event-to-strengthen-links-between-research-and-industry/index.html
+layout: layout.njk
 ---
 Agri-event to strengthen links between research and industry
 ============================================================

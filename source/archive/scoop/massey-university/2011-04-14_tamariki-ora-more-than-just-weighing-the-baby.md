@@ -1,9 +1,12 @@
 ---
 slug: tamariki-ora-more-than-just-weighing-the-baby
-title: "Tamariki ora more than just weighing the baby"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/ED1104/S00054/tamariki-ora-more-than-just-weighing-the-baby.htm
+title: Tamariki ora more than just weighing the baby
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00054/tamariki-ora-more-than-just-weighing-the-baby.htm
 author: massey-university
+permalink: /archive/2011/04/14/tamariki-ora-more-than-just-weighing-the-baby/index.html
+layout: layout.njk
 ---
 Tamariki ora more than just weighing the baby
 =============================================

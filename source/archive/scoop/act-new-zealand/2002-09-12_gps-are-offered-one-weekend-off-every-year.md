@@ -1,9 +1,12 @@
 ---
 slug: gps-are-offered-one-weekend-off-every-year
-title: "GPs are Offered One Weekend Off Every Year"
-date: 2002-09-12
-source-url: https://www.scoop.co.nz/stories/PA0209/S00206/gps-are-offered-one-weekend-off-every-year.htm
+title: GPs are Offered One Weekend Off Every Year
+date: 2002-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00206/gps-are-offered-one-weekend-off-every-year.htm
 author: act-new-zealand
+permalink: /archive/2002/09/12/gps-are-offered-one-weekend-off-every-year/index.html
+layout: layout.njk
 ---
 GPs are Offered One Weekend Off Every Year
 ==========================================

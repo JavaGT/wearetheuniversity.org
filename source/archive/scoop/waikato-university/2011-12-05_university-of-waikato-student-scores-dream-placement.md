@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-student-scores-dream-placement
-title: "University of Waikato student scores dream placement"
-date: 2011-12-05
-source-url: https://www.scoop.co.nz/stories/ED1112/S00024/university-of-waikato-student-scores-dream-placement.htm
+title: University of Waikato student scores dream placement
+date: 2011-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00024/university-of-waikato-student-scores-dream-placement.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/12/05/university-of-waikato-student-scores-dream-placement/index.html
+layout: layout.njk
 ---
 University of Waikato student scores dream placement
 ====================================================

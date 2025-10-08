@@ -1,9 +1,13 @@
 ---
 slug: university-and-students-unite-in-opposition-to-vsm
-title: "University and Students Unite in Opposition to VSM"
-date: 2010-10-21
-source-url: https://www.scoop.co.nz/stories/PO1010/S00221/university-and-students-unite-in-opposition-to-vsm.htm
+title: University and Students Unite in Opposition to VSM
+date: 2010-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00221/university-and-students-unite-in-opposition-to-vsm.htm
 author: vuwsa
+permalink: >-
+  /archive/2010/10/21/university-and-students-unite-in-opposition-to-vsm/index.html
+layout: layout.njk
 ---
 University and Students Unite in Opposition to VSM
 ==================================================

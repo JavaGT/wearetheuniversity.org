@@ -1,9 +1,13 @@
 ---
 slug: unique-child-family-psychology-training-celebrates-20-years
-title: "Unique Child/Family Psychology Training Celebrates 20 Years"
-date: 2022-09-30
-source-url: https://www.scoop.co.nz/stories/ED2209/S00048/unique-childfamily-psychology-training-celebrates-20-years.htm
+title: Unique Child/Family Psychology Training Celebrates 20 Years
+date: 2022-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2209/S00048/unique-childfamily-psychology-training-celebrates-20-years.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/09/30/unique-child-family-psychology-training-celebrates-20-years/index.html
+layout: layout.njk
 ---
 Unique Child/Family Psychology Training Celebrates 20 Years
 ===========================================================

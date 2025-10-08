@@ -1,9 +1,12 @@
 ---
 slug: donna-awatere-huata-starts-reading-revolution
-title: "Donna Awatere Huata Starts Reading Revolution"
-date: 2002-07-19
-source-url: https://www.scoop.co.nz/stories/PA0207/S00544/donna-awatere-huata-starts-reading-revolution.htm
+title: Donna Awatere Huata Starts Reading Revolution
+date: 2002-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00544/donna-awatere-huata-starts-reading-revolution.htm
 author: act-new-zealand
+permalink: /archive/2002/07/19/donna-awatere-huata-starts-reading-revolution/index.html
+layout: layout.njk
 ---
 Donna Awatere Huata Starts Reading Revolution
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: students-locked-out-of-tertiary-decision-making
-title: "Students Locked Out Of Tertiary Decision Making"
-date: 2002-06-11
-source-url: https://www.scoop.co.nz/stories/ED0206/S00016/students-locked-out-of-tertiary-decision-making.htm
+title: Students Locked Out Of Tertiary Decision Making
+date: 2002-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00016/students-locked-out-of-tertiary-decision-making.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/06/11/students-locked-out-of-tertiary-decision-making/index.html
+layout: layout.njk
 ---
 Students Locked Out Of Tertiary Decision Making
 ===============================================

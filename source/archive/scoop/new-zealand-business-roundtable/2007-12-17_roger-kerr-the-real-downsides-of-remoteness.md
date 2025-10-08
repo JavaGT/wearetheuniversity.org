@@ -1,9 +1,12 @@
 ---
 slug: roger-kerr-the-real-downsides-of-remoteness
-title: "Roger Kerr: The Real Downsides of Remoteness"
-date: 2007-12-17
-source-url: https://www.scoop.co.nz/stories/HL0712/S00222/roger-kerr-the-real-downsides-of-remoteness.htm
+title: 'Roger Kerr: The Real Downsides of Remoteness'
+date: 2007-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0712/S00222/roger-kerr-the-real-downsides-of-remoteness.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/12/17/roger-kerr-the-real-downsides-of-remoteness/index.html
+layout: layout.njk
 ---
 Roger Kerr: The Real Downsides of Remoteness
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: hep-a-berries-must-be-recalled-and-products-named
-title: "Hep A berries must be recalled and products named"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/PA1512/S00008/hep-a-berries-must-be-recalled-and-products-named.htm
+title: Hep A berries must be recalled and products named
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00008/hep-a-berries-must-be-recalled-and-products-named.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/12/01/hep-a-berries-must-be-recalled-and-products-named/index.html
+layout: layout.njk
 ---
 Hep A berries must be recalled and products named
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: act-pays-tribute-to-roger-kerr
-title: "ACT Pays Tribute To Roger Kerr"
-date: 2011-10-29
-source-url: https://www.scoop.co.nz/stories/PA1110/S00467/act-pays-tribute-to-roger-kerr.htm
+title: ACT Pays Tribute To Roger Kerr
+date: 2011-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00467/act-pays-tribute-to-roger-kerr.htm
 author: act-new-zealand
+permalink: /archive/2011/10/29/act-pays-tribute-to-roger-kerr/index.html
+layout: layout.njk
 ---
 ACT Pays Tribute To Roger Kerr
 ==============================

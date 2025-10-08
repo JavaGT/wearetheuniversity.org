@@ -1,9 +1,12 @@
 ---
 slug: victoria-marks-maori-queens-death
-title: "Victoria marks Maori Queen's death"
-date: 2006-08-16
-source-url: https://www.scoop.co.nz/stories/ED0608/S00054/victoria-marks-maori-queens-death.htm
+title: Victoria marks Maori Queen's death
+date: 2006-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00054/victoria-marks-maori-queens-death.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/16/victoria-marks-maori-queens-death/index.html
+layout: layout.njk
 ---
 Victoria marks Maori Queen's death
 ==================================

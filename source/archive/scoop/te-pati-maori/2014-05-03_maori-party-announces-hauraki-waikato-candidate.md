@@ -1,9 +1,12 @@
 ---
 slug: maori-party-announces-hauraki-waikato-candidate
-title: "Maori Party announces Hauraki Waikato candidate"
-date: 2014-05-03
-source-url: https://www.scoop.co.nz/stories/PO1405/S00043/maori-party-announces-hauraki-waikato-candidate.htm
+title: Maori Party announces Hauraki Waikato candidate
+date: 2014-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00043/maori-party-announces-hauraki-waikato-candidate.htm
 author: te-pati-maori
+permalink: /archive/2014/05/03/maori-party-announces-hauraki-waikato-candidate/index.html
+layout: layout.njk
 ---
 Maori Party announces Hauraki Waikato candidate
 ===============================================

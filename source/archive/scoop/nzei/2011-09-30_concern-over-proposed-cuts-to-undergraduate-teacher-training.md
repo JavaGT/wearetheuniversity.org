@@ -1,9 +1,13 @@
 ---
 slug: concern-over-proposed-cuts-to-undergraduate-teacher-training
-title: "Concern over proposed cuts to undergraduate teacher training"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/ED1109/S00149/concern-over-proposed-cuts-to-undergraduate-teacher-training.htm
+title: Concern over proposed cuts to undergraduate teacher training
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00149/concern-over-proposed-cuts-to-undergraduate-teacher-training.htm
 author: nzei
+permalink: >-
+  /archive/2011/09/30/concern-over-proposed-cuts-to-undergraduate-teacher-training/index.html
+layout: layout.njk
 ---
 Concern over proposed cuts to undergraduate teacher training
 ============================================================

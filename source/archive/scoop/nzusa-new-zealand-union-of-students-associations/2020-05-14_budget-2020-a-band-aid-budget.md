@@ -1,9 +1,12 @@
 ---
 slug: budget-2020-a-band-aid-budget
-title: "Budget 2020: A Band-Aid Budget"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/PO2005/S00203/budget-2020-a-band-aid-budget.htm
+title: 'Budget 2020: A Band-Aid Budget'
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00203/budget-2020-a-band-aid-budget.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2020/05/14/budget-2020-a-band-aid-budget/index.html
+layout: layout.njk
 ---
 Budget 2020: A Band-Aid Budget
 ==============================

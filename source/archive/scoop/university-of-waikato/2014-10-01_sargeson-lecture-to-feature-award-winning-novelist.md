@@ -1,9 +1,13 @@
 ---
 slug: sargeson-lecture-to-feature-award-winning-novelist
-title: "Sargeson Lecture to Feature Award-Winning Novelist"
-date: 2014-10-01
-source-url: https://www.scoop.co.nz/stories/ED1410/S00006/sargeson-lecture-to-feature-award-winning-novelist.htm
+title: Sargeson Lecture to Feature Award-Winning Novelist
+date: 2014-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00006/sargeson-lecture-to-feature-award-winning-novelist.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/10/01/sargeson-lecture-to-feature-award-winning-novelist/index.html
+layout: layout.njk
 ---
 Sargeson Lecture to Feature Award-Winning Novelist
 ==================================================

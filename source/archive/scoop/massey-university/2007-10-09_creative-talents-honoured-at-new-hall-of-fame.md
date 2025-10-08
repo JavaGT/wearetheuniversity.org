@@ -1,9 +1,12 @@
 ---
 slug: creative-talents-honoured-at-new-hall-of-fame
-title: "Creative talents honoured at new Hall of Fame"
-date: 2007-10-09
-source-url: https://www.scoop.co.nz/stories/CU0710/S00105/creative-talents-honoured-at-new-hall-of-fame.htm
+title: Creative talents honoured at new Hall of Fame
+date: 2007-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0710/S00105/creative-talents-honoured-at-new-hall-of-fame.htm
 author: massey-university
+permalink: /archive/2007/10/09/creative-talents-honoured-at-new-hall-of-fame/index.html
+layout: layout.njk
 ---
 Creative talents honoured at new Hall of Fame
 =============================================

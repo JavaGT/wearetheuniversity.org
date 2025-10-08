@@ -1,9 +1,12 @@
 ---
 slug: brownlee-dismisses-poll-as-rogue
-title: "Brownlee Dismisses Poll As ‘Rogue’"
-date: 2020-07-26
-source-url: https://www.scoop.co.nz/stories/PA2007/S00256/brownlee-dismisses-poll-as-rogue.htm
+title: Brownlee Dismisses Poll As ‘Rogue’
+date: 2020-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00256/brownlee-dismisses-poll-as-rogue.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/26/brownlee-dismisses-poll-as-rogue/index.html
+layout: layout.njk
 ---
 Brownlee Dismisses Poll As ‘Rogue’
 ==================================

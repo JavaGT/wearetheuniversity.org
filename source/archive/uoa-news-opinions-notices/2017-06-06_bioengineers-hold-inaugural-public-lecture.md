@@ -1,8 +1,11 @@
 ---
 slug: bioengineers-hold-inaugural-public-lecture
-title: "Bioengineers hold inaugural public lecture"
-date: 2017-06-06
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/bioengineers-hold-inaugural-public-lecture.html
+title: Bioengineers hold inaugural public lecture
+date: 2017-06-06T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/bioengineers-hold-inaugural-public-lecture.html
+permalink: /archive/2017/06/06/bioengineers-hold-inaugural-public-lecture/index.html
+layout: layout.njk
 ---
 Bioengineers hold inaugural public lecture
 ==========================================

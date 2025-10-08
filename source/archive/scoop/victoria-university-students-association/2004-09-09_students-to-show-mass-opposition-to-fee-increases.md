@@ -1,9 +1,13 @@
 ---
 slug: students-to-show-mass-opposition-to-fee-increases
-title: "Students To Show Mass Opposition To Fee Increases"
-date: 2004-09-09
-source-url: https://www.scoop.co.nz/stories/ED0409/S00031/students-to-show-mass-opposition-to-fee-increases.htm
+title: Students To Show Mass Opposition To Fee Increases
+date: 2004-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00031/students-to-show-mass-opposition-to-fee-increases.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2004/09/09/students-to-show-mass-opposition-to-fee-increases/index.html
+layout: layout.njk
 ---
 Students To Show Mass Opposition To Fee Increases
 =================================================

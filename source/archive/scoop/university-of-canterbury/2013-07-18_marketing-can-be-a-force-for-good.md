@@ -1,9 +1,12 @@
 ---
 slug: marketing-can-be-a-force-for-good
-title: "Marketing can be a force for good"
-date: 2013-07-18
-source-url: https://www.scoop.co.nz/stories/BU1307/S00690/marketing-can-be-a-force-for-good.htm
+title: Marketing can be a force for good
+date: 2013-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1307/S00690/marketing-can-be-a-force-for-good.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/18/marketing-can-be-a-force-for-good/index.html
+layout: layout.njk
 ---
 Marketing can be a force for good
 =================================

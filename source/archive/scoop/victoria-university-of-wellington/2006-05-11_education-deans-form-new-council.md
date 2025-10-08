@@ -1,9 +1,12 @@
 ---
 slug: education-deans-form-new-council
-title: "Education deans form new council"
-date: 2006-05-11
-source-url: https://www.scoop.co.nz/stories/ED0605/S00044/education-deans-form-new-council.htm
+title: Education deans form new council
+date: 2006-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00044/education-deans-form-new-council.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/05/11/education-deans-form-new-council/index.html
+layout: layout.njk
 ---
 Education deans form new council
 ================================

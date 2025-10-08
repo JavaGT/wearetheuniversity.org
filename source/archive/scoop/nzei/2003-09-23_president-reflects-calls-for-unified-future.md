@@ -1,9 +1,12 @@
 ---
 slug: president-reflects-calls-for-unified-future
-title: "President Reflects, Calls For Unified Future"
-date: 2003-09-23
-source-url: https://www.scoop.co.nz/stories/ED0309/S00110/president-reflects-calls-for-unified-future.htm
+title: President Reflects, Calls For Unified Future
+date: 2003-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00110/president-reflects-calls-for-unified-future.htm
 author: nzei
+permalink: /archive/2003/09/23/president-reflects-calls-for-unified-future/index.html
+layout: layout.njk
 ---
 President Reflects, Calls For Unified Future
 ============================================

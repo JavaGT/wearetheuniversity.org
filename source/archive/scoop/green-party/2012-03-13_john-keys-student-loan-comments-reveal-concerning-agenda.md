@@ -1,9 +1,13 @@
 ---
 slug: john-keys-student-loan-comments-reveal-concerning-agenda
-title: "John Key’s student loan comments reveal concerning agenda"
-date: 2012-03-13
-source-url: https://www.scoop.co.nz/stories/PA1203/S00171/john-keys-student-loan-comments-reveal-concerning-agenda.htm
+title: John Key’s student loan comments reveal concerning agenda
+date: 2012-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00171/john-keys-student-loan-comments-reveal-concerning-agenda.htm
 author: green-party
+permalink: >-
+  /archive/2012/03/13/john-keys-student-loan-comments-reveal-concerning-agenda/index.html
+layout: layout.njk
 ---
 John Key’s student loan comments reveal concerning agenda
 =========================================================

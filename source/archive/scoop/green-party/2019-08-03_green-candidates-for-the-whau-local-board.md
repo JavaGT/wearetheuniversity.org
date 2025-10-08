@@ -1,9 +1,12 @@
 ---
 slug: green-candidates-for-the-whau-local-board
-title: "Green candidates for the Whau Local Board"
-date: 2019-08-03
-source-url: https://www.scoop.co.nz/stories/AK1908/S00075/green-candidates-for-the-whau-local-board.htm
+title: Green candidates for the Whau Local Board
+date: 2019-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1908/S00075/green-candidates-for-the-whau-local-board.htm
 author: green-party
+permalink: /archive/2019/08/03/green-candidates-for-the-whau-local-board/index.html
+layout: layout.njk
 ---
 Green candidates for the Whau Local Board
 =========================================

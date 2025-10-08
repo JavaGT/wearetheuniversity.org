@@ -1,9 +1,13 @@
 ---
 slug: principals-and-teachers-are-stressed-and-losing-morale
-title: "Principals and teachers are \"stressed and losing morale\""
-date: 2014-05-05
-source-url: https://www.scoop.co.nz/stories/PO1405/S00067/principals-and-teachers-are-stressed-and-losing-morale.htm
+title: Principals and teachers are "stressed and losing morale"
+date: 2014-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00067/principals-and-teachers-are-stressed-and-losing-morale.htm
 author: nzei
+permalink: >-
+  /archive/2014/05/05/principals-and-teachers-are-stressed-and-losing-morale/index.html
+layout: layout.njk
 ---
 Principals and teachers are \"stressed and losing morale"
 ========================================================

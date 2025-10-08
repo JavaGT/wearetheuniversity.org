@@ -1,9 +1,12 @@
 ---
 slug: $50-million-hole-in-keys-apprenticeship-plan
-title: "$50-million hole in Key’s apprenticeship plan"
-date: 2013-01-30
-source-url: https://www.scoop.co.nz/stories/PA1301/S00170/50-million-hole-in-keys-apprenticeship-plan.htm
+title: $50-million hole in Key’s apprenticeship plan
+date: 2013-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00170/50-million-hole-in-keys-apprenticeship-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/30/50-million-hole-in-key-s-apprenticeship-plan/index.html
+layout: layout.njk
 ---
 $50-million hole in Key’s apprenticeship plan
 =============================================

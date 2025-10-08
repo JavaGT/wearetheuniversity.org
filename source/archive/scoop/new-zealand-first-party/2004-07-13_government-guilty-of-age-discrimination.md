@@ -1,9 +1,12 @@
 ---
 slug: government-guilty-of-age-discrimination
-title: "Government Guilty Of Age Discrimination"
-date: 2004-07-13
-source-url: https://www.scoop.co.nz/stories/PA0407/S00208/government-guilty-of-age-discrimination.htm
+title: Government Guilty Of Age Discrimination
+date: 2004-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00208/government-guilty-of-age-discrimination.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/13/government-guilty-of-age-discrimination/index.html
+layout: layout.njk
 ---
 Government Guilty Of Age Discrimination
 =======================================

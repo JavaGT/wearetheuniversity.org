@@ -1,9 +1,12 @@
 ---
 slug: green-party-congratulates-kingi-tūheitia
-title: "Green Party congratulates Kingi Tūheitia"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/PA1608/S00352/green-party-congratulates-kingi-tuheitia.htm
+title: Green Party congratulates Kingi Tūheitia
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00352/green-party-congratulates-kingi-tuheitia.htm
 author: green-party
+permalink: /archive/2016/08/19/green-party-congratulates-kingi-t/index.html
+layout: layout.njk
 ---
 Green Party congratulates Kingi Tūheitia
 ========================================

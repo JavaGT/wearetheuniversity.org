@@ -1,9 +1,13 @@
 ---
 slug: language-fluency-protects-pacific-mothers-from-postpartum-mental-disorders
-title: "Language Fluency Protects Pacific Mothers From Postpartum Mental Disorders"
-date: 2020-10-28
-source-url: https://www.scoop.co.nz/stories/GE2010/S00144/language-fluency-protects-pacific-mothers-from-postpartum-mental-disorders.htm
+title: Language Fluency Protects Pacific Mothers From Postpartum Mental Disorders
+date: 2020-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2010/S00144/language-fluency-protects-pacific-mothers-from-postpartum-mental-disorders.htm
 author: aut-university
+permalink: >-
+  /archive/2020/10/28/language-fluency-protects-pacific-mothers-from-postpartum-mental-disorders/index.html
+layout: layout.njk
 ---
 Language Fluency Protects Pacific Mothers From Postpartum Mental Disorders
 ==========================================================================

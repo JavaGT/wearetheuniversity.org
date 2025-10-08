@@ -1,9 +1,13 @@
 ---
 slug: workload-mentoring-pay-new-educators-call-for-action
-title: "Workload, mentoring, pay: new educators call for action"
-date: 2018-02-19
-source-url: https://www.scoop.co.nz/stories/PO1802/S00208/workload-mentoring-pay-new-educators-call-for-action.htm
+title: 'Workload, mentoring, pay: new educators call for action'
+date: 2018-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1802/S00208/workload-mentoring-pay-new-educators-call-for-action.htm
 author: nzei
+permalink: >-
+  /archive/2018/02/19/workload-mentoring-pay-new-educators-call-for-action/index.html
+layout: layout.njk
 ---
 Workload, mentoring, pay: new educators call for action
 =======================================================

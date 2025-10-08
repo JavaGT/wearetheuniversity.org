@@ -1,9 +1,12 @@
 ---
 slug: media-backgrounder-population-health-complex
-title: "Media Backgrounder: Population Health Complex"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/ED0406/S00037/media-backgrounder-population-health-complex.htm
+title: 'Media Backgrounder: Population Health Complex'
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00037/media-backgrounder-population-health-complex.htm
 author: auckland-university
+permalink: /archive/2004/06/08/media-backgrounder-population-health-complex/index.html
+layout: layout.njk
 ---
 Media Backgrounder: Population Health Complex
 =============================================

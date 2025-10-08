@@ -1,9 +1,12 @@
 ---
 slug: speech-english-national-party-campaign-launch
-title: "Speech: English - National Party Campaign Launch"
-date: 2017-08-27
-source-url: https://www.scoop.co.nz/stories/PA1708/S00491/speech-english-national-party-campaign-launch.htm
+title: 'Speech: English - National Party Campaign Launch'
+date: 2017-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00491/speech-english-national-party-campaign-launch.htm
 author: new-zealand-national-party
+permalink: /archive/2017/08/27/speech-english-national-party-campaign-launch/index.html
+layout: layout.njk
 ---
 Speech: English - National Party Campaign Launch
 ================================================

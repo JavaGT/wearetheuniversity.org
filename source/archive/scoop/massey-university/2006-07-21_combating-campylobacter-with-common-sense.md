@@ -1,9 +1,12 @@
 ---
 slug: combating-campylobacter-with-common-sense
-title: "Combating Campylobacter with common sense"
-date: 2006-07-21
-source-url: https://www.scoop.co.nz/stories/GE0607/S00090/combating-campylobacter-with-common-sense.htm
+title: Combating Campylobacter with common sense
+date: 2006-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0607/S00090/combating-campylobacter-with-common-sense.htm
 author: massey-university
+permalink: /archive/2006/07/21/combating-campylobacter-with-common-sense/index.html
+layout: layout.njk
 ---
 Combating Campylobacter with common sense
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-slack-on-court-no-shows
-title: "Labour slack on court no-shows"
-date: 2007-12-19
-source-url: https://www.scoop.co.nz/stories/PA0712/S00440/labour-slack-on-court-no-shows.htm
+title: Labour slack on court no-shows
+date: 2007-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00440/labour-slack-on-court-no-shows.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/19/labour-slack-on-court-no-shows/index.html
+layout: layout.njk
 ---
 Labour slack on court no-shows
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: ctu-urges-reserve-bank-not-to-raise-interest-rates
-title: "CTU Urges Reserve Bank Not to Raise Interest Rates"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/PO1407/S00335/ctu-urges-reserve-bank-not-to-raise-interest-rates.htm
+title: CTU Urges Reserve Bank Not to Raise Interest Rates
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00335/ctu-urges-reserve-bank-not-to-raise-interest-rates.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2014/07/22/ctu-urges-reserve-bank-not-to-raise-interest-rates/index.html
+layout: layout.njk
 ---
 CTU Urges Reserve Bank Not to Raise Interest Rates
 ==================================================

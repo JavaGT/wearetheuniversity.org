@@ -1,9 +1,12 @@
 ---
 slug: compulsory-membership-behind-$203k-m@wsa-fraud
-title: "Compulsory Membership Behind $203k M@Wsa Fraud"
-date: 2003-11-13
-source-url: https://www.scoop.co.nz/stories/ED0311/S00050/compulsory-membership-behind-203k-mwsa-fraud.htm
+title: Compulsory Membership Behind $203k M@Wsa Fraud
+date: 2003-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00050/compulsory-membership-behind-203k-mwsa-fraud.htm
 author: student-choice
+permalink: /archive/2003/11/13/compulsory-membership-behind-/index.html
+layout: layout.njk
 ---
 Compulsory Membership Behind $203k M@Wsa Fraud
 ==============================================

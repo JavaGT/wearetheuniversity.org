@@ -1,9 +1,13 @@
 ---
 slug: mark-meets-with-matt-over-corrections-corruption
-title: "Mark Meets With Matt Over Corrections Corruption"
-date: 2001-06-13
-source-url: https://www.scoop.co.nz/stories/PA0106/S00164/mark-meets-with-matt-over-corrections-corruption.htm
+title: Mark Meets With Matt Over Corrections Corruption
+date: 2001-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00164/mark-meets-with-matt-over-corrections-corruption.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2001/06/13/mark-meets-with-matt-over-corrections-corruption/index.html
+layout: layout.njk
 ---
 Mark Meets With Matt Over Corrections Corruption
 ================================================

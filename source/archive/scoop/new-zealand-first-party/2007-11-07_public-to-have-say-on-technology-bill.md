@@ -1,9 +1,12 @@
 ---
 slug: public-to-have-say-on-technology-bill
-title: "Public To Have Say On Technology Bill"
-date: 2007-11-07
-source-url: https://www.scoop.co.nz/stories/PA0711/S00124/public-to-have-say-on-technology-bill.htm
+title: Public To Have Say On Technology Bill
+date: 2007-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00124/public-to-have-say-on-technology-bill.htm
 author: new-zealand-first-party
+permalink: /archive/2007/11/07/public-to-have-say-on-technology-bill/index.html
+layout: layout.njk
 ---
 Public To Have Say On Technology Bill
 =====================================

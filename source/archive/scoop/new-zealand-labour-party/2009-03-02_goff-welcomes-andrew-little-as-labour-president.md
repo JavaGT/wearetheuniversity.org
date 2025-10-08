@@ -1,9 +1,12 @@
 ---
 slug: goff-welcomes-andrew-little-as-labour-president
-title: "Goff welcomes Andrew Little as Labour President"
-date: 2009-03-02
-source-url: https://www.scoop.co.nz/stories/PA0903/S00008/goff-welcomes-andrew-little-as-labour-president.htm
+title: Goff welcomes Andrew Little as Labour President
+date: 2009-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00008/goff-welcomes-andrew-little-as-labour-president.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/02/goff-welcomes-andrew-little-as-labour-president/index.html
+layout: layout.njk
 ---
 Goff welcomes Andrew Little as Labour President
 ===============================================

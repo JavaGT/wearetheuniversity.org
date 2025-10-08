@@ -1,9 +1,13 @@
 ---
 slug: return-to-universal-student-association-membership
-title: "Return To Universal Student Association Membership"
-date: 2000-10-24
-source-url: https://www.scoop.co.nz/stories/PA0010/S00444/return-to-universal-student-association-membership.htm
+title: Return To Universal Student Association Membership
+date: 2000-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00444/return-to-universal-student-association-membership.htm
 author: green-party
+permalink: >-
+  /archive/2000/10/24/return-to-universal-student-association-membership/index.html
+layout: layout.njk
 ---
 Return To Universal Student Association Membership
 ==================================================

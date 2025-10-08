@@ -1,9 +1,12 @@
 ---
 slug: turia-napier-pilot-city-trust-unity-lecture
-title: "Turia: Napier Pilot City Trust Unity Lecture"
-date: 2007-04-24
-source-url: https://www.scoop.co.nz/stories/PA0704/S00410/turia-napier-pilot-city-trust-unity-lecture.htm
+title: 'Turia: Napier Pilot City Trust Unity Lecture'
+date: 2007-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00410/turia-napier-pilot-city-trust-unity-lecture.htm
 author: te-pati-maori
+permalink: /archive/2007/04/24/turia-napier-pilot-city-trust-unity-lecture/index.html
+layout: layout.njk
 ---
 Turia: Napier Pilot City Trust Unity Lecture
 ============================================

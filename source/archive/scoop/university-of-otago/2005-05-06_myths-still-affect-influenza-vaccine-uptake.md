@@ -1,9 +1,12 @@
 ---
 slug: myths-still-affect-influenza-vaccine-uptake
-title: "Myths Still Affect Influenza Vaccine Uptake"
-date: 2005-05-06
-source-url: https://www.scoop.co.nz/stories/ED0505/S00019/myths-still-affect-influenza-vaccine-uptake.htm
+title: Myths Still Affect Influenza Vaccine Uptake
+date: 2005-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00019/myths-still-affect-influenza-vaccine-uptake.htm
 author: university-of-otago
+permalink: /archive/2005/05/06/myths-still-affect-influenza-vaccine-uptake/index.html
+layout: layout.njk
 ---
 Myths Still Affect Influenza Vaccine Uptake
 ===========================================

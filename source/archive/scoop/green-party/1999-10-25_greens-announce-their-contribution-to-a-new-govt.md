@@ -1,9 +1,13 @@
 ---
 slug: greens-announce-their-contribution-to-a-new-govt
-title: "Greens announce their contribution to a new govt"
-date: 1999-10-25
-source-url: https://www.scoop.co.nz/stories/PA9910/S00580/greens-announce-their-contribution-to-a-new-govt.htm
+title: Greens announce their contribution to a new govt
+date: 1999-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00580/greens-announce-their-contribution-to-a-new-govt.htm
 author: green-party
+permalink: >-
+  /archive/1999/10/25/greens-announce-their-contribution-to-a-new-govt/index.html
+layout: layout.njk
 ---
 Greens announce their contribution to a new govt
 ================================================

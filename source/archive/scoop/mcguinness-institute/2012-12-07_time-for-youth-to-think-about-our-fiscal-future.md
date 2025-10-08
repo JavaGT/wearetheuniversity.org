@@ -1,9 +1,12 @@
 ---
 slug: time-for-youth-to-think-about-our-fiscal-future
-title: "Time for youth to think about our fiscal future"
-date: 2012-12-07
-source-url: https://www.scoop.co.nz/stories/BU1212/S00287/time-for-youth-to-think-about-our-fiscal-future.htm
+title: Time for youth to think about our fiscal future
+date: 2012-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1212/S00287/time-for-youth-to-think-about-our-fiscal-future.htm
 author: mcguinness-institute
+permalink: /archive/2012/12/07/time-for-youth-to-think-about-our-fiscal-future/index.html
+layout: layout.njk
 ---
 Time for youth to think about our fiscal future
 ===============================================

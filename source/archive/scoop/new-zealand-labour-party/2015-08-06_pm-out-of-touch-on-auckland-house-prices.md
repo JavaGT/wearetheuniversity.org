@@ -1,9 +1,12 @@
 ---
 slug: pm-out-of-touch-on-auckland-house-prices
-title: "PM out of touch on Auckland house prices"
-date: 2015-08-06
-source-url: https://www.scoop.co.nz/stories/PA1508/S00090/pm-out-of-touch-on-auckland-house-prices.htm
+title: PM out of touch on Auckland house prices
+date: 2015-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00090/pm-out-of-touch-on-auckland-house-prices.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/06/pm-out-of-touch-on-auckland-house-prices/index.html
+layout: layout.njk
 ---
 PM out of touch on Auckland house prices
 ========================================

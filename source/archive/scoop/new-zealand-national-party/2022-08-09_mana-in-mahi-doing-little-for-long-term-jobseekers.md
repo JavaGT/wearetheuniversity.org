@@ -1,9 +1,13 @@
 ---
 slug: mana-in-mahi-doing-little-for-long-term-jobseekers
-title: "Mana In Mahi Doing Little For Long-term Jobseekers"
-date: 2022-08-09
-source-url: https://www.scoop.co.nz/stories/PA2208/S00089/mana-in-mahi-doing-little-for-long-term-jobseekers.htm
+title: Mana In Mahi Doing Little For Long-term Jobseekers
+date: 2022-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00089/mana-in-mahi-doing-little-for-long-term-jobseekers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/08/09/mana-in-mahi-doing-little-for-long-term-jobseekers/index.html
+layout: layout.njk
 ---
 Mana In Mahi Doing Little For Long-term Jobseekers
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: mallards-negligence-ruins-start-of-school-year
-title: "Mallard's Negligence Ruins Start Of School Year"
-date: 2002-02-11
-source-url: https://www.scoop.co.nz/stories/PA0202/S00108/mallards-negligence-ruins-start-of-school-year.htm
+title: Mallard's Negligence Ruins Start Of School Year
+date: 2002-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00108/mallards-negligence-ruins-start-of-school-year.htm
 author: act-new-zealand
+permalink: /archive/2002/02/11/mallards-negligence-ruins-start-of-school-year/index.html
+layout: layout.njk
 ---
 Mallard's Negligence Ruins Start Of School Year
 ===============================================

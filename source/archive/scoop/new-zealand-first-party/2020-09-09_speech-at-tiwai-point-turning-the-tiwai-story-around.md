@@ -1,9 +1,13 @@
 ---
 slug: speech-at-tiwai-point-turning-the-tiwai-story-around
-title: "SPEECH At Tiwai Point: Turning The Tiwai Story Around"
-date: 2020-09-09
-source-url: https://www.scoop.co.nz/stories/PA2009/S00067/speech-at-tiwai-point-turning-the-tiwai-story-around.htm
+title: 'SPEECH At Tiwai Point: Turning The Tiwai Story Around'
+date: 2020-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00067/speech-at-tiwai-point-turning-the-tiwai-story-around.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/09/09/speech-at-tiwai-point-turning-the-tiwai-story-around/index.html
+layout: layout.njk
 ---
 SPEECH At Tiwai Point: Turning The Tiwai Story Around
 =====================================================

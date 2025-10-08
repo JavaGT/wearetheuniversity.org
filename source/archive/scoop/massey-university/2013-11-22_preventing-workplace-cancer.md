@@ -1,9 +1,11 @@
 ---
 slug: preventing-workplace-cancer
-title: "Preventing workplace cancer"
-date: 2013-11-22
+title: Preventing workplace cancer
+date: 2013-11-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1311/S00120/preventing-workplace-cancer.htm
 author: massey-university
+permalink: /archive/2013/11/22/preventing-workplace-cancer/index.html
+layout: layout.njk
 ---
 Preventing workplace cancer
 ===========================

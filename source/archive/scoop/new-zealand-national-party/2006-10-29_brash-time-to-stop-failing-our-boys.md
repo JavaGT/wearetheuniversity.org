@@ -1,9 +1,12 @@
 ---
 slug: brash-time-to-stop-failing-our-boys
-title: "Brash: Time to Stop Failing our Boys"
-date: 2006-10-29
-source-url: https://www.scoop.co.nz/stories/PA0610/S00545/brash-time-to-stop-failing-our-boys.htm
+title: 'Brash: Time to Stop Failing our Boys'
+date: 2006-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00545/brash-time-to-stop-failing-our-boys.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/29/brash-time-to-stop-failing-our-boys/index.html
+layout: layout.njk
 ---
 Brash: Time to Stop Failing our Boys
 ====================================

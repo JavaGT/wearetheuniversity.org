@@ -1,9 +1,13 @@
 ---
 slug: research-on-earthquake-engineering-resilient-infrastructure
-title: "Research on earthquake engineering, resilient infrastructure"
-date: 2015-02-12
-source-url: https://www.scoop.co.nz/stories/ED1502/S00041/research-on-earthquake-engineering-resilient-infrastructure.htm
+title: Research on earthquake engineering, resilient infrastructure
+date: 2015-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00041/research-on-earthquake-engineering-resilient-infrastructure.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/12/research-on-earthquake-engineering-resilient-infrastructure/index.html
+layout: layout.njk
 ---
 Research on earthquake engineering, resilient infrastructure
 ============================================================

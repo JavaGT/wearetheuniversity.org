@@ -1,9 +1,12 @@
 ---
 slug: green-mp-joins-students-in-protest
-title: "Green MP joins students in protest"
-date: 2008-07-04
-source-url: https://www.scoop.co.nz/stories/PA0807/S00118/green-mp-joins-students-in-protest.htm
+title: Green MP joins students in protest
+date: 2008-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00118/green-mp-joins-students-in-protest.htm
 author: green-party
+permalink: /archive/2008/07/04/green-mp-joins-students-in-protest/index.html
+layout: layout.njk
 ---
 Green MP joins students in protest
 ==================================

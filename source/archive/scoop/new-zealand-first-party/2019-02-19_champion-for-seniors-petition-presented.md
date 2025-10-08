@@ -1,9 +1,12 @@
 ---
 slug: champion-for-seniors-petition-presented
-title: "Champion for Seniors Petition Presented"
-date: 2019-02-19
-source-url: https://www.scoop.co.nz/stories/PA1902/S00152/champion-for-seniors-petition-presented.htm
+title: Champion for Seniors Petition Presented
+date: 2019-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00152/champion-for-seniors-petition-presented.htm
 author: new-zealand-first-party
+permalink: /archive/2019/02/19/champion-for-seniors-petition-presented/index.html
+layout: layout.njk
 ---
 Champion for Seniors Petition Presented
 =======================================

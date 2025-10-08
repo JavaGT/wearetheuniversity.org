@@ -1,9 +1,13 @@
 ---
 slug: uc-earthquake-researcher-to-receive-innovation-prize-in-us
-title: "UC earthquake researcher to receive innovation prize in US"
-date: 2016-03-24
-source-url: https://www.scoop.co.nz/stories/SC1603/S00060/uc-earthquake-researcher-to-receive-innovation-prize-in-us.htm
+title: UC earthquake researcher to receive innovation prize in US
+date: 2016-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00060/uc-earthquake-researcher-to-receive-innovation-prize-in-us.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/24/uc-earthquake-researcher-to-receive-innovation-prize-in-us/index.html
+layout: layout.njk
 ---
 UC earthquake researcher to receive innovation prize in US
 ==========================================================

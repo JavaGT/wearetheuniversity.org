@@ -1,9 +1,13 @@
 ---
 slug: the-bitter-trend-audio-and-visual-experience-at-flux-space
-title: "The Bitter Trend audio and visual experience at FLUX Space"
-date: 2017-09-21
-source-url: https://www.scoop.co.nz/stories/ED1709/S00081/the-bitter-trend-audio-and-visual-experience-at-flux-space.htm
+title: The Bitter Trend audio and visual experience at FLUX Space
+date: 2017-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00081/the-bitter-trend-audio-and-visual-experience-at-flux-space.htm
 author: massey-university
+permalink: >-
+  /archive/2017/09/21/the-bitter-trend-audio-and-visual-experience-at-flux-space/index.html
+layout: layout.njk
 ---
 The Bitter Trend audio and visual experience at FLUX Space
 ==========================================================

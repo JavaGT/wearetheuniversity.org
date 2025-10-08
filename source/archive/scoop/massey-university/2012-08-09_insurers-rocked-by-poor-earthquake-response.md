@@ -1,9 +1,12 @@
 ---
 slug: insurers-rocked-by-poor-earthquake-response
-title: "Insurers rocked by poor earthquake response"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/BU1208/S00321/insurers-rocked-by-poor-earthquake-response.htm
+title: Insurers rocked by poor earthquake response
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1208/S00321/insurers-rocked-by-poor-earthquake-response.htm
 author: massey-university
+permalink: /archive/2012/08/09/insurers-rocked-by-poor-earthquake-response/index.html
+layout: layout.njk
 ---
 Insurers rocked by poor earthquake response
 ===========================================

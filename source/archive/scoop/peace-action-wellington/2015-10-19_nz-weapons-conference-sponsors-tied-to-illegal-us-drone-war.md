@@ -1,9 +1,13 @@
 ---
 slug: nz-weapons-conference-sponsors-tied-to-illegal-us-drone-war
-title: "NZ Weapons Conference sponsors tied to illegal US drone war"
-date: 2015-10-19
-source-url: https://www.scoop.co.nz/stories/PO1510/S00293/nz-weapons-conference-sponsors-tied-to-illegal-us-drone-war.htm
+title: NZ Weapons Conference sponsors tied to illegal US drone war
+date: 2015-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00293/nz-weapons-conference-sponsors-tied-to-illegal-us-drone-war.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2015/10/19/nz-weapons-conference-sponsors-tied-to-illegal-us-drone-war/index.html
+layout: layout.njk
 ---
 NZ Weapons Conference sponsors tied to illegal US drone war
 ===========================================================

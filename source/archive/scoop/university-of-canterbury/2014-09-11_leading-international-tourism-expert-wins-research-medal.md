@@ -1,9 +1,13 @@
 ---
 slug: leading-international-tourism-expert-wins-research-medal
-title: "Leading international tourism expert wins research medal"
-date: 2014-09-11
-source-url: https://www.scoop.co.nz/stories/ED1409/S00067/leading-international-tourism-expert-wins-research-medal.htm
+title: Leading international tourism expert wins research medal
+date: 2014-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00067/leading-international-tourism-expert-wins-research-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/11/leading-international-tourism-expert-wins-research-medal/index.html
+layout: layout.njk
 ---
 Leading international tourism expert wins research medal
 ========================================================

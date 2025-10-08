@@ -1,9 +1,12 @@
 ---
 slug: uc-professor-wins-science-communicator-award
-title: "UC Professor wins Science Communicator award"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/SC1511/S00082/uc-professor-wins-science-communicator-award.htm
+title: UC Professor wins Science Communicator award
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00082/uc-professor-wins-science-communicator-award.htm
 author: university-of-canterbury
+permalink: /archive/2015/11/20/uc-professor-wins-science-communicator-award/index.html
+layout: layout.njk
 ---
 UC Professor wins Science Communicator award
 ============================================

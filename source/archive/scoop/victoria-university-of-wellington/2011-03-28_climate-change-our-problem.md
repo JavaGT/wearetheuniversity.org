@@ -1,9 +1,11 @@
 ---
 slug: climate-change-our-problem
-title: "Climate change our problem"
-date: 2011-03-28
+title: Climate change our problem
+date: 2011-03-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1103/S00088/climate-change-our-problem.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/03/28/climate-change-our-problem/index.html
+layout: layout.njk
 ---
 Climate change our problem
 ==========================

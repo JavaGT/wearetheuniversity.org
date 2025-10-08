@@ -1,9 +1,12 @@
 ---
 slug: act-mp-publishes-suppressed-ncea-report
-title: "ACT MP Publishes Suppressed NCEA Report"
-date: 2002-12-13
-source-url: https://www.scoop.co.nz/stories/PA0212/S00336/act-mp-publishes-suppressed-ncea-report.htm
+title: ACT MP Publishes Suppressed NCEA Report
+date: 2002-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00336/act-mp-publishes-suppressed-ncea-report.htm
 author: act-new-zealand
+permalink: /archive/2002/12/13/act-mp-publishes-suppressed-ncea-report/index.html
+layout: layout.njk
 ---
 ACT MP Publishes Suppressed NCEA Report
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: strong-support-for-school-lunches-with-over-16000-signatures-in-24-hours
-title: "Strong Support For School Lunches With Over 16,000 Signatures In 24 Hours"
-date: 2024-03-07
-source-url: https://www.scoop.co.nz/stories/PA2403/S00033/strong-support-for-school-lunches-with-over-16000-signatures-in-24-hours.htm
+title: Strong Support For School Lunches With Over 16,000 Signatures In 24 Hours
+date: 2024-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00033/strong-support-for-school-lunches-with-over-16000-signatures-in-24-hours.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/03/07/strong-support-for-school-lunches-with-over-16000-signatures-in-24-hours/index.html
+layout: layout.njk
 ---
 Strong Support For School Lunches With Over 16,000 Signatures In 24 Hours
 =========================================================================

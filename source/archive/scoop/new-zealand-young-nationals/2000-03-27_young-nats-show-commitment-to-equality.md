@@ -1,9 +1,12 @@
 ---
 slug: young-nats-show-commitment-to-equality
-title: "Young Nats Show Commitment To Equality"
-date: 2000-03-27
-source-url: https://www.scoop.co.nz/stories/PO0003/S00111/young-nats-show-commitment-to-equality.htm
+title: Young Nats Show Commitment To Equality
+date: 2000-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00111/young-nats-show-commitment-to-equality.htm
 author: new-zealand-young-nationals
+permalink: /archive/2000/03/27/young-nats-show-commitment-to-equality/index.html
+layout: layout.njk
 ---
 Young Nats Show Commitment To Equality
 ======================================

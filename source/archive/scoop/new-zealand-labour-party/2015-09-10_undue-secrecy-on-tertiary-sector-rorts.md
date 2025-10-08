@@ -1,9 +1,12 @@
 ---
 slug: undue-secrecy-on-tertiary-sector-rorts
-title: "Undue secrecy on tertiary sector rorts"
-date: 2015-09-10
-source-url: https://www.scoop.co.nz/stories/PA1509/S00174/undue-secrecy-on-tertiary-sector-rorts.htm
+title: Undue secrecy on tertiary sector rorts
+date: 2015-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00174/undue-secrecy-on-tertiary-sector-rorts.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/10/undue-secrecy-on-tertiary-sector-rorts/index.html
+layout: layout.njk
 ---
 Undue secrecy on tertiary sector rorts
 ======================================

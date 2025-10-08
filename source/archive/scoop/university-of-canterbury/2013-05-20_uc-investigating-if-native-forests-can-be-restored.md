@@ -1,9 +1,13 @@
 ---
 slug: uc-investigating-if-native-forests-can-be-restored
-title: "UC Investigating If Native Forests Can Be Restored"
-date: 2013-05-20
-source-url: https://www.scoop.co.nz/stories/SC1305/S00063/uc-investigating-if-native-forests-can-be-restored.htm
+title: UC Investigating If Native Forests Can Be Restored
+date: 2013-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00063/uc-investigating-if-native-forests-can-be-restored.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/20/uc-investigating-if-native-forests-can-be-restored/index.html
+layout: layout.njk
 ---
 UC Investigating If Native Forests Can Be Restored
 ==================================================

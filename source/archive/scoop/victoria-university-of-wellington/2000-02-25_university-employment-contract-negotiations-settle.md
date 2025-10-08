@@ -1,9 +1,13 @@
 ---
 slug: university-employment-contract-negotiations-settle
-title: "University employment contract negotiations settle"
-date: 2000-02-25
-source-url: https://www.scoop.co.nz/stories/ED0002/S00038/university-employment-contract-negotiations-settle.htm
+title: University employment contract negotiations settle
+date: 2000-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00038/university-employment-contract-negotiations-settle.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/02/25/university-employment-contract-negotiations-settle/index.html
+layout: layout.njk
 ---
 University employment contract negotiations settle
 ==================================================

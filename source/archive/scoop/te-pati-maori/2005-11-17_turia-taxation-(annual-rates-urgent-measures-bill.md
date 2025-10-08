@@ -1,9 +1,12 @@
 ---
 slug: turia-taxation-(annual-rates-urgent-measures-bill
-title: "Turia: Taxation (Annual Rates Urgent Measures Bill"
-date: 2005-11-17
-source-url: https://www.scoop.co.nz/stories/PA0511/S00223/turia-taxation-annual-rates-urgent-measures-bill.htm
+title: 'Turia: Taxation (Annual Rates Urgent Measures Bill'
+date: 2005-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00223/turia-taxation-annual-rates-urgent-measures-bill.htm
 author: te-pati-maori
+permalink: /archive/2005/11/17/turia-taxation-/index.html
+layout: layout.njk
 ---
 Turia: Taxation (Annual Rates Urgent Measures Bill
 ==================================================

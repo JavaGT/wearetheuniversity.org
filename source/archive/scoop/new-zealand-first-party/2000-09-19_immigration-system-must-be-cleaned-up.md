@@ -1,9 +1,12 @@
 ---
 slug: immigration-system-must-be-cleaned-up
-title: "Immigration System Must Be Cleaned Up"
-date: 2000-09-19
-source-url: https://www.scoop.co.nz/stories/PA0009/S00302/immigration-system-must-be-cleaned-up.htm
+title: Immigration System Must Be Cleaned Up
+date: 2000-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00302/immigration-system-must-be-cleaned-up.htm
 author: new-zealand-first-party
+permalink: /archive/2000/09/19/immigration-system-must-be-cleaned-up/index.html
+layout: layout.njk
 ---
 Immigration System Must Be Cleaned Up
 =====================================

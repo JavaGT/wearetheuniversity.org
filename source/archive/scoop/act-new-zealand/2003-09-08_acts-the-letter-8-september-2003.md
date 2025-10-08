@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-8-september-2003
-title: "ACT's The Letter: 8 September 2003"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/PA0309/S00143/acts-the-letter-8-september-2003.htm
+title: 'ACT''s The Letter: 8 September 2003'
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00143/acts-the-letter-8-september-2003.htm
 author: act-new-zealand
+permalink: /archive/2003/09/08/acts-the-letter-8-september-2003/index.html
+layout: layout.njk
 ---
 ACT's The Letter: 8 September 2003
 ==================================

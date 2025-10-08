@@ -1,11 +1,14 @@
 ---
-title: "A Role for Science and Scientists in Economic Stimulus"
-date: 2020-04-09
+title: A Role for Science and Scientists in Economic Stimulus
+date: 2020-04-09T00:00:00.000Z
 slug: a-role-for-science-and-scientists-in-economic-stimulus
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: >-
+  /archive/2020/04/09/a-role-for-science-and-scientists-in-economic-stimulus/index.html
+layout: layout.njk
 ---
 
 9-April-2020

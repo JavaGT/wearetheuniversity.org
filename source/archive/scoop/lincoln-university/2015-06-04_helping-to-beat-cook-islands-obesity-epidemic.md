@@ -1,9 +1,12 @@
 ---
 slug: helping-to-beat-cook-islands-obesity-epidemic
-title: "Helping to beat Cook Islands obesity epidemic"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/GE1506/S00023/helping-to-beat-cook-islands-obesity-epidemic.htm
+title: Helping to beat Cook Islands obesity epidemic
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1506/S00023/helping-to-beat-cook-islands-obesity-epidemic.htm
 author: lincoln-university
+permalink: /archive/2015/06/04/helping-to-beat-cook-islands-obesity-epidemic/index.html
+layout: layout.njk
 ---
 Helping to beat Cook Islands obesity epidemic
 =============================================

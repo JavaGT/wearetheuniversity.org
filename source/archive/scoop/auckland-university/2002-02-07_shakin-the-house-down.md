@@ -1,9 +1,11 @@
 ---
 slug: shakin-the-house-down
-title: "Shakin' The House Down"
-date: 2002-02-07
+title: Shakin' The House Down
+date: 2002-02-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0202/S00005/shakin-the-house-down.htm
 author: auckland-university
+permalink: /archive/2002/02/07/shakin-the-house-down/index.html
+layout: layout.njk
 ---
 Shakin' The House Down
 ======================

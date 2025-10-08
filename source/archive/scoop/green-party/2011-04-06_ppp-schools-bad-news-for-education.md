@@ -1,9 +1,12 @@
 ---
 slug: ppp-schools-bad-news-for-education
-title: "PPP schools bad news for education"
-date: 2011-04-06
-source-url: https://www.scoop.co.nz/stories/PA1104/S00114/ppp-schools-bad-news-for-education.htm
+title: PPP schools bad news for education
+date: 2011-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00114/ppp-schools-bad-news-for-education.htm
 author: green-party
+permalink: /archive/2011/04/06/ppp-schools-bad-news-for-education/index.html
+layout: layout.njk
 ---
 PPP schools bad news for education
 ==================================

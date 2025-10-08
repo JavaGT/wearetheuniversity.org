@@ -1,9 +1,13 @@
 ---
 slug: minister-must-come-clean-on-implications-of-settlement
-title: "Minister must come clean on implications of settlement"
-date: 2016-04-28
-source-url: https://www.scoop.co.nz/stories/PA1604/S00443/minister-must-come-clean-on-implications-of-settlement.htm
+title: Minister must come clean on implications of settlement
+date: 2016-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00443/minister-must-come-clean-on-implications-of-settlement.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/04/28/minister-must-come-clean-on-implications-of-settlement/index.html
+layout: layout.njk
 ---
 Minister must come clean on implications of settlement
 ======================================================

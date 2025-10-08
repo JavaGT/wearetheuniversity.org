@@ -1,9 +1,12 @@
 ---
 slug: huge-health-funding-blowout-of-$215m
-title: "Huge health funding blowout of $215m"
-date: 2001-08-07
-source-url: https://www.scoop.co.nz/stories/PA0108/S00142/huge-health-funding-blowout-of-215m.htm
+title: Huge health funding blowout of $215m
+date: 2001-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00142/huge-health-funding-blowout-of-215m.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/07/huge-health-funding-blowout-of-/index.html
+layout: layout.njk
 ---
 Huge health funding blowout of $215m
 ====================================

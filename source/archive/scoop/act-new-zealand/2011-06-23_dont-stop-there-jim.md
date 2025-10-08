@@ -1,9 +1,11 @@
 ---
 slug: dont-stop-there-jim
-title: "Don’t Stop There Jim"
-date: 2011-06-23
+title: Don’t Stop There Jim
+date: 2011-06-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1106/S00403/dont-stop-there-jim.htm
 author: act-new-zealand
+permalink: /archive/2011/06/23/dont-stop-there-jim/index.html
+layout: layout.njk
 ---
 Don’t Stop There Jim
 ====================

@@ -1,9 +1,12 @@
 ---
 slug: time-to-ban-asthma-causing-heaters
-title: "Time To Ban Asthma-Causing Heaters"
-date: 2008-10-07
-source-url: https://www.scoop.co.nz/stories/PA0810/S00144/time-to-ban-asthma-causing-heaters.htm
+title: Time To Ban Asthma-Causing Heaters
+date: 2008-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00144/time-to-ban-asthma-causing-heaters.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/07/time-to-ban-asthma-causing-heaters/index.html
+layout: layout.njk
 ---
 Time To Ban Asthma-Causing Heaters
 ==================================

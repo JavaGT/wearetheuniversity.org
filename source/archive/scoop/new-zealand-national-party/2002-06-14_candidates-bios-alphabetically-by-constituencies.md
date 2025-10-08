@@ -1,9 +1,13 @@
 ---
 slug: candidates-bios-alphabetically-by-constituencies
-title: "Candidates’ Bios, Alphabetically By Constituencies"
-date: 2002-06-14
-source-url: https://www.scoop.co.nz/stories/PA0206/S00247/candidates-bios-alphabetically-by-constituencies.htm
+title: Candidates’ Bios, Alphabetically By Constituencies
+date: 2002-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00247/candidates-bios-alphabetically-by-constituencies.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/06/14/candidates-bios-alphabetically-by-constituencies/index.html
+layout: layout.njk
 ---
 Candidates’ Bios, Alphabetically By Constituencies
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: vic-unis-billion-dollar-debt-threat-to-students
-title: "Vic Uni’s Billion Dollar Debt Threat To Students"
-date: 2001-05-22
-source-url: https://www.scoop.co.nz/stories/ED0105/S00039/vic-unis-billion-dollar-debt-threat-to-students.htm
+title: Vic Uni’s Billion Dollar Debt Threat To Students
+date: 2001-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00039/vic-unis-billion-dollar-debt-threat-to-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/05/22/vic-unis-billion-dollar-debt-threat-to-students/index.html
+layout: layout.njk
 ---
 Vic Uni’s Billion Dollar Debt Threat To Students
 ================================================

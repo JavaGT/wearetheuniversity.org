@@ -1,9 +1,12 @@
 ---
 slug: online-news-no-death-knell-for-newspapers
-title: "Online news no death knell for newspapers"
-date: 2015-12-17
-source-url: https://www.scoop.co.nz/stories/ED1512/S00080/online-news-no-death-knell-for-newspapers.htm
+title: Online news no death knell for newspapers
+date: 2015-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00080/online-news-no-death-knell-for-newspapers.htm
 author: massey-university
+permalink: /archive/2015/12/17/online-news-no-death-knell-for-newspapers/index.html
+layout: layout.njk
 ---
 Online news no death knell for newspapers
 =========================================

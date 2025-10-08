@@ -1,9 +1,12 @@
 ---
 slug: polytech-reforms-grab-community-cash
-title: "Polytech reforms grab community cash"
-date: 2019-08-06
-source-url: https://www.scoop.co.nz/stories/PA1908/S00067/polytech-reforms-grab-community-cash.htm
+title: Polytech reforms grab community cash
+date: 2019-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00067/polytech-reforms-grab-community-cash.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/06/polytech-reforms-grab-community-cash/index.html
+layout: layout.njk
 ---
 Polytech reforms grab community cash
 ====================================

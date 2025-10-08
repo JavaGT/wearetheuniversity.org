@@ -1,9 +1,16 @@
 ---
-slug: debbie-ngarewa-packer-calls-on-government-to-introduce-targeted-māori-housing-package
-title: "Debbie Ngarewa-Packer Calls On Government To Introduce Targeted Māori Housing Package"
-date: 2021-04-07
-source-url: https://www.scoop.co.nz/stories/PA2104/S00036/debbie-ngarewa-packer-calls-on-government-to-introduce-targeted-maori-housing-package.htm
+slug: >-
+  debbie-ngarewa-packer-calls-on-government-to-introduce-targeted-māori-housing-package
+title: >-
+  Debbie Ngarewa-Packer Calls On Government To Introduce Targeted Māori Housing
+  Package
+date: 2021-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00036/debbie-ngarewa-packer-calls-on-government-to-introduce-targeted-maori-housing-package.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2021/04/07/debbie-ngarewa-packer-calls-on-government-to-introduce-targeted-m/index.html
+layout: layout.njk
 ---
 Debbie Ngarewa-Packer Calls On Government To Introduce Targeted Māori Housing Package
 =====================================================================================

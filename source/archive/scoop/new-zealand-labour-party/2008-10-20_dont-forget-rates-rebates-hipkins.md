@@ -1,9 +1,12 @@
 ---
 slug: dont-forget-rates-rebates-hipkins
-title: "Don’t forget Rates Rebates - Hipkins"
-date: 2008-10-20
-source-url: https://www.scoop.co.nz/stories/AK0810/S00222/dont-forget-rates-rebates-hipkins.htm
+title: Don’t forget Rates Rebates - Hipkins
+date: 2008-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0810/S00222/dont-forget-rates-rebates-hipkins.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/20/dont-forget-rates-rebates-hipkins/index.html
+layout: layout.njk
 ---
 Don’t forget Rates Rebates - Hipkins
 ====================================

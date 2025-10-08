@@ -1,9 +1,12 @@
 ---
 slug: students-settle-in-for-the-night
-title: "Students Settle in for the Night"
-date: 1999-10-06
-source-url: https://www.scoop.co.nz/stories/ED9910/S00014/students-settle-in-for-the-night.htm
+title: Students Settle in for the Night
+date: 1999-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00014/students-settle-in-for-the-night.htm
 author: victoria-university-students-association
+permalink: /archive/1999/10/06/students-settle-in-for-the-night/index.html
+layout: layout.njk
 ---
 Students Settle in for the Night
 ================================

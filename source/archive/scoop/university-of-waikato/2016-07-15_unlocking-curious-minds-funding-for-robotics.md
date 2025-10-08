@@ -1,9 +1,12 @@
 ---
 slug: unlocking-curious-minds-funding-for-robotics
-title: "Unlocking Curious Minds’ funding for robotics"
-date: 2016-07-15
-source-url: https://www.scoop.co.nz/stories/ED1607/S00064/unlocking-curious-minds-funding-for-robotics.htm
+title: Unlocking Curious Minds’ funding for robotics
+date: 2016-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00064/unlocking-curious-minds-funding-for-robotics.htm
 author: university-of-waikato
+permalink: /archive/2016/07/15/unlocking-curious-minds-funding-for-robotics/index.html
+layout: layout.njk
 ---
 Unlocking Curious Minds’ funding for robotics
 =============================================

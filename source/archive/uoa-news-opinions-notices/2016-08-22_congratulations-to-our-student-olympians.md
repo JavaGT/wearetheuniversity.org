@@ -1,8 +1,11 @@
 ---
 slug: congratulations-to-our-student-olympians
-title: "Congratulations to our student Olympians"
-date: 2016-08-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/congratulations-to-our-student-olympians.html
+title: Congratulations to our student Olympians
+date: 2016-08-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/congratulations-to-our-student-olympians.html
+permalink: /archive/2016/08/22/congratulations-to-our-student-olympians/index.html
+layout: layout.njk
 ---
 Congratulations to our student Olympians
 ========================================

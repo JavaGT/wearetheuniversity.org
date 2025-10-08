@@ -1,9 +1,12 @@
 ---
 slug: studying-ancient-landforms-using-new-technology
-title: "Studying ancient landforms using new technology"
-date: 2014-10-06
-source-url: https://www.scoop.co.nz/stories/SC1410/S00019/studying-ancient-landforms-using-new-technology.htm
+title: Studying ancient landforms using new technology
+date: 2014-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00019/studying-ancient-landforms-using-new-technology.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/06/studying-ancient-landforms-using-new-technology/index.html
+layout: layout.njk
 ---
 Studying ancient landforms using new technology
 ===============================================

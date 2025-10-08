@@ -1,9 +1,13 @@
 ---
 slug: sport-and-arts-winners-announced-at-university-blues-awards
-title: "Sport and arts winners announced at University Blues Awards"
-date: 2014-10-06
-source-url: https://www.scoop.co.nz/stories/ED1410/S00035/sport-and-arts-winners-announced-at-university-blues-awards.htm
+title: Sport and arts winners announced at University Blues Awards
+date: 2014-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00035/sport-and-arts-winners-announced-at-university-blues-awards.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/10/06/sport-and-arts-winners-announced-at-university-blues-awards/index.html
+layout: layout.njk
 ---
 Sport and arts winners announced at University Blues Awards
 ===========================================================

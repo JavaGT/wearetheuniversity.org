@@ -1,9 +1,12 @@
 ---
 slug: the-relentless-positivity-of-plastic-free-july
-title: "The Relentless Positivity Of Plastic Free July"
-date: 2022-07-13
-source-url: https://www.scoop.co.nz/stories/ED2207/S00019/the-relentless-positivity-of-plastic-free-july.htm
+title: The Relentless Positivity Of Plastic Free July
+date: 2022-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2207/S00019/the-relentless-positivity-of-plastic-free-july.htm
 author: university-of-canterbury
+permalink: /archive/2022/07/13/the-relentless-positivity-of-plastic-free-july/index.html
+layout: layout.njk
 ---
 The Relentless Positivity Of Plastic Free July
 ==============================================

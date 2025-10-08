@@ -1,9 +1,13 @@
 ---
 slug: benefit-stats-show-urgent-need-to-wipe-work-and-income-debt
-title: "Benefit Stats Show Urgent Need To Wipe Work And Income Debt"
-date: 2022-10-20
-source-url: https://www.scoop.co.nz/stories/PA2210/S00147/benefit-stats-show-urgent-need-to-wipe-work-and-income-debt.htm
+title: Benefit Stats Show Urgent Need To Wipe Work And Income Debt
+date: 2022-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00147/benefit-stats-show-urgent-need-to-wipe-work-and-income-debt.htm
 author: green-party
+permalink: >-
+  /archive/2022/10/20/benefit-stats-show-urgent-need-to-wipe-work-and-income-debt/index.html
+layout: layout.njk
 ---
 Benefit Stats Show Urgent Need To Wipe Work And Income Debt
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-will-boost-rural-connectivity
-title: "Labour Will Boost Rural Connectivity"
-date: 2020-10-10
-source-url: https://www.scoop.co.nz/stories/PA2010/S00074/labour-will-boost-rural-connectivity.htm
+title: Labour Will Boost Rural Connectivity
+date: 2020-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00074/labour-will-boost-rural-connectivity.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/10/10/labour-will-boost-rural-connectivity/index.html
+layout: layout.njk
 ---
 Labour Will Boost Rural Connectivity
 ====================================

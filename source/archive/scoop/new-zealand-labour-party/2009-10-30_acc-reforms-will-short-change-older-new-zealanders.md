@@ -1,9 +1,13 @@
 ---
 slug: acc-reforms-will-short-change-older-new-zealanders
-title: "ACC reforms will short-change older New Zealanders"
-date: 2009-10-30
-source-url: https://www.scoop.co.nz/stories/PA0910/S00486/acc-reforms-will-short-change-older-new-zealanders.htm
+title: ACC reforms will short-change older New Zealanders
+date: 2009-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00486/acc-reforms-will-short-change-older-new-zealanders.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/10/30/acc-reforms-will-short-change-older-new-zealanders/index.html
+layout: layout.njk
 ---
 ACC reforms will short-change older New Zealanders
 ==================================================

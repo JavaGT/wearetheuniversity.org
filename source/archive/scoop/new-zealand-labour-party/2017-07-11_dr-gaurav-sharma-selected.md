@@ -1,9 +1,11 @@
 ---
 slug: dr-gaurav-sharma-selected
-title: "Dr Gaurav Sharma selected"
-date: 2017-07-11
+title: Dr Gaurav Sharma selected
+date: 2017-07-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1707/S00147/dr-gaurav-sharma-selected.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/11/dr-gaurav-sharma-selected/index.html
+layout: layout.njk
 ---
 Dr Gaurav Sharma selected
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: solidarity-for-strikers-at-oamaru-hospital
-title: "Solidarity For Strikers at Oamaru Hospital"
-date: 2003-10-23
-source-url: https://www.scoop.co.nz/stories/PO0310/S00194/solidarity-for-strikers-at-oamaru-hospital.htm
+title: Solidarity For Strikers at Oamaru Hospital
+date: 2003-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0310/S00194/solidarity-for-strikers-at-oamaru-hospital.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/10/23/solidarity-for-strikers-at-oamaru-hospital/index.html
+layout: layout.njk
 ---
 Solidarity For Strikers at Oamaru Hospital
 ==========================================

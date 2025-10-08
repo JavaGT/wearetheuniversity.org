@@ -1,9 +1,12 @@
 ---
 slug: reinforcing-faith-in-new-zealand-society
-title: "Reinforcing Faith In New Zealand Society"
-date: 2009-05-17
-source-url: https://www.scoop.co.nz/stories/PA0905/S00306/reinforcing-faith-in-new-zealand-society.htm
+title: Reinforcing Faith In New Zealand Society
+date: 2009-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00306/reinforcing-faith-in-new-zealand-society.htm
 author: act-new-zealand
+permalink: /archive/2009/05/17/reinforcing-faith-in-new-zealand-society/index.html
+layout: layout.njk
 ---
 Reinforcing Faith In New Zealand Society
 ========================================

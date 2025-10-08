@@ -1,9 +1,12 @@
 ---
 slug: nats-offer-pale-imitation-for-maternity
-title: "Nats offer pale imitation for maternity"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/PA0810/S00304/nats-offer-pale-imitation-for-maternity.htm
+title: Nats offer pale imitation for maternity
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00304/nats-offer-pale-imitation-for-maternity.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/14/nats-offer-pale-imitation-for-maternity/index.html
+layout: layout.njk
 ---
 Nats offer pale imitation for maternity
 =======================================

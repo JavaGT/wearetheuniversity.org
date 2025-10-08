@@ -1,9 +1,13 @@
 ---
 slug: neuroscientists-reveal-mechanism-crucial-to-male-brains
-title: "Neuroscientists reveal mechanism crucial to male brains"
-date: 2014-11-12
-source-url: https://www.scoop.co.nz/stories/SC1411/S00031/neuroscientists-reveal-mechanism-crucial-to-male-brains.htm
+title: Neuroscientists reveal mechanism crucial to male brains
+date: 2014-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00031/neuroscientists-reveal-mechanism-crucial-to-male-brains.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/12/neuroscientists-reveal-mechanism-crucial-to-male-brains/index.html
+layout: layout.njk
 ---
 Neuroscientists reveal mechanism crucial to male brains
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: wai-262-insights-and-perspectives
-title: "WAI 262 - Insights and Perspectives"
-date: 2011-10-10
-source-url: https://www.scoop.co.nz/stories/PA1110/S00203/wai-262-insights-and-perspectives.htm
+title: WAI 262 - Insights and Perspectives
+date: 2011-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00203/wai-262-insights-and-perspectives.htm
 author: te-pati-maori
+permalink: /archive/2011/10/10/wai-262-insights-and-perspectives/index.html
+layout: layout.njk
 ---
 WAI 262 - Insights and Perspectives
 ===================================

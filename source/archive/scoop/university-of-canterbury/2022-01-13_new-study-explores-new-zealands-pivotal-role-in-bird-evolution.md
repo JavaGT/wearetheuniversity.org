@@ -1,9 +1,13 @@
 ---
 slug: new-study-explores-new-zealands-pivotal-role-in-bird-evolution
-title: "New Study Explores New Zealand’s Pivotal Role In Bird Evolution"
-date: 2022-01-13
-source-url: https://www.scoop.co.nz/stories/SC2201/S00012/new-study-explores-new-zealands-pivotal-role-in-bird-evolution.htm
+title: New Study Explores New Zealand’s Pivotal Role In Bird Evolution
+date: 2022-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2201/S00012/new-study-explores-new-zealands-pivotal-role-in-bird-evolution.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/01/13/new-study-explores-new-zealands-pivotal-role-in-bird-evolution/index.html
+layout: layout.njk
 ---
 New Study Explores New Zealand’s Pivotal Role In Bird Evolution
 ===============================================================

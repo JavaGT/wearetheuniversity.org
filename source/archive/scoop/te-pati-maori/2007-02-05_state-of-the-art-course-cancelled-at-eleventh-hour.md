@@ -1,9 +1,13 @@
 ---
 slug: state-of-the-art-course-cancelled-at-eleventh-hour
-title: "State of the Art Course Cancelled at Eleventh Hour"
-date: 2007-02-05
-source-url: https://www.scoop.co.nz/stories/PA0702/S00068/state-of-the-art-course-cancelled-at-eleventh-hour.htm
+title: State of the Art Course Cancelled at Eleventh Hour
+date: 2007-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00068/state-of-the-art-course-cancelled-at-eleventh-hour.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/02/05/state-of-the-art-course-cancelled-at-eleventh-hour/index.html
+layout: layout.njk
 ---
 State of the Art Course Cancelled at Eleventh Hour
 ==================================================

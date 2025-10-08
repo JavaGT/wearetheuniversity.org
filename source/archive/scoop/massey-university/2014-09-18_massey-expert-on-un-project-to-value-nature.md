@@ -1,9 +1,12 @@
 ---
 slug: massey-expert-on-un-project-to-value-nature
-title: "Massey Expert on UN Project to Value Nature"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/ED1409/S00114/massey-expert-on-un-project-to-value-nature.htm
+title: Massey Expert on UN Project to Value Nature
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00114/massey-expert-on-un-project-to-value-nature.htm
 author: massey-university
+permalink: /archive/2014/09/18/massey-expert-on-un-project-to-value-nature/index.html
+layout: layout.njk
 ---
 Massey Expert on UN Project to Value Nature
 ===========================================

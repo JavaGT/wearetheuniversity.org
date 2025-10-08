@@ -1,9 +1,12 @@
 ---
 slug: kahui-case-highlights-child-abuse-investment
-title: "Kahui Case Highlights Child Abuse Investment"
-date: 2008-10-01
-source-url: https://www.scoop.co.nz/stories/PO0810/S00005/kahui-case-highlights-child-abuse-investment.htm
+title: Kahui Case Highlights Child Abuse Investment
+date: 2008-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00005/kahui-case-highlights-child-abuse-investment.htm
 author: university-of-canterbury
+permalink: /archive/2008/10/01/kahui-case-highlights-child-abuse-investment/index.html
+layout: layout.njk
 ---
 Kahui Case Highlights Child Abuse Investment
 ============================================

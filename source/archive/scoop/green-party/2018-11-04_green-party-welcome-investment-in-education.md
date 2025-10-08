@@ -1,9 +1,12 @@
 ---
 slug: green-party-welcome-investment-in-education
-title: "Green Party welcome investment in education"
-date: 2018-11-04
-source-url: https://www.scoop.co.nz/stories/PA1811/S00033/green-party-welcome-investment-in-education.htm
+title: Green Party welcome investment in education
+date: 2018-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00033/green-party-welcome-investment-in-education.htm
 author: green-party
+permalink: /archive/2018/11/04/green-party-welcome-investment-in-education/index.html
+layout: layout.njk
 ---
 Green Party welcome investment in education
 ===========================================

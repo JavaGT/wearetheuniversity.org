@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-must-have-no-part-in-massacre
-title: "New Zealand Must Have No Part In Massacre"
-date: 2001-11-22
-source-url: https://www.scoop.co.nz/stories/PA0111/S00384/new-zealand-must-have-no-part-in-massacre.htm
+title: New Zealand Must Have No Part In Massacre
+date: 2001-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00384/new-zealand-must-have-no-part-in-massacre.htm
 author: green-party
+permalink: /archive/2001/11/22/new-zealand-must-have-no-part-in-massacre/index.html
+layout: layout.njk
 ---
 New Zealand Must Have No Part In Massacre
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: lecture-explores-trust-in-an-age-of-political-discontent
-title: "Lecture explores trust in an age of political discontent"
-date: 2017-05-23
-source-url: https://www.scoop.co.nz/stories/PO1705/S00303/lecture-explores-trust-in-an-age-of-political-discontent.htm
+title: Lecture explores trust in an age of political discontent
+date: 2017-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00303/lecture-explores-trust-in-an-age-of-political-discontent.htm
 author: massey-university
+permalink: >-
+  /archive/2017/05/23/lecture-explores-trust-in-an-age-of-political-discontent/index.html
+layout: layout.njk
 ---
 Lecture explores trust in an age of political discontent
 ========================================================

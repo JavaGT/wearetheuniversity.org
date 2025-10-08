@@ -1,9 +1,13 @@
 ---
 slug: benefits-of-charter-schools-for-pasifika-kids-questioned
-title: "Benefits of charter schools for Pasifika kids questioned"
-date: 2014-06-29
-source-url: https://www.scoop.co.nz/stories/ED1406/S00155/benefits-of-charter-schools-for-pasifika-kids-questioned.htm
+title: Benefits of charter schools for Pasifika kids questioned
+date: 2014-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00155/benefits-of-charter-schools-for-pasifika-kids-questioned.htm
 author: nzei
+permalink: >-
+  /archive/2014/06/29/benefits-of-charter-schools-for-pasifika-kids-questioned/index.html
+layout: layout.njk
 ---
 Benefits of charter schools for Pasifika kids questioned
 ========================================================

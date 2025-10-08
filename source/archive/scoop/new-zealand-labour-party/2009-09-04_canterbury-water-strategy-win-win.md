@@ -1,9 +1,12 @@
 ---
 slug: canterbury-water-strategy-win-win
-title: "Canterbury water strategy win/win"
-date: 2009-09-04
-source-url: https://www.scoop.co.nz/stories/PA0909/S00050/canterbury-water-strategy-winwin.htm
+title: Canterbury water strategy win/win
+date: 2009-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00050/canterbury-water-strategy-winwin.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/04/canterbury-water-strategy-win-win/index.html
+layout: layout.njk
 ---
 Canterbury water strategy win/win
 =================================

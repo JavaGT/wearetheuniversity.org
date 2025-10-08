@@ -1,9 +1,13 @@
 ---
 slug: maori-party-supports-hikurangi-christian-youth-grp
-title: "Maori Party supports Hikurangi Christian Youth Grp"
-date: 2005-05-18
-source-url: https://www.scoop.co.nz/stories/PO0505/S00179/maori-party-supports-hikurangi-christian-youth-grp.htm
+title: Maori Party supports Hikurangi Christian Youth Grp
+date: 2005-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0505/S00179/maori-party-supports-hikurangi-christian-youth-grp.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2005/05/18/maori-party-supports-hikurangi-christian-youth-grp/index.html
+layout: layout.njk
 ---
 Maori Party supports Hikurangi Christian Youth Grp
 ==================================================

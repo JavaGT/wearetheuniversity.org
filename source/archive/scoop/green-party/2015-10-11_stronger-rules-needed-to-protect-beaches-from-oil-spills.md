@@ -1,9 +1,13 @@
 ---
 slug: stronger-rules-needed-to-protect-beaches-from-oil-spills
-title: "Stronger rules needed to protect beaches from oil spills"
-date: 2015-10-11
-source-url: https://www.scoop.co.nz/stories/PA1510/S00150/stronger-rules-needed-to-protect-beaches-from-oil-spills.htm
+title: Stronger rules needed to protect beaches from oil spills
+date: 2015-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00150/stronger-rules-needed-to-protect-beaches-from-oil-spills.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/11/stronger-rules-needed-to-protect-beaches-from-oil-spills/index.html
+layout: layout.njk
 ---
 Stronger rules needed to protect beaches from oil spills
 ========================================================

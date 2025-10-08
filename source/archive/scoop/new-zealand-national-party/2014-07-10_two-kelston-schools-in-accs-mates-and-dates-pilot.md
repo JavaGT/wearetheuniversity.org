@@ -1,9 +1,13 @@
 ---
 slug: two-kelston-schools-in-accs-mates-and-dates-pilot
-title: "Two Kelston schools in ACC’s  Mates and Dates pilot"
-date: 2014-07-10
-source-url: https://www.scoop.co.nz/stories/PA1407/S00215/two-kelston-schools-in-accs-mates-and-dates-pilot.htm
+title: Two Kelston schools in ACC’s  Mates and Dates pilot
+date: 2014-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00215/two-kelston-schools-in-accs-mates-and-dates-pilot.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/07/10/two-kelston-schools-in-accs-mates-and-dates-pilot/index.html
+layout: layout.njk
 ---
 Two Kelston schools in ACC’s Mates and Dates pilot
 ==================================================

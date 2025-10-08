@@ -1,9 +1,13 @@
 ---
 slug: two-uc-composers-win-douglas-lilburn-tribute-competition
-title: "Two UC composers win Douglas Lilburn tribute competition"
-date: 2015-09-28
-source-url: https://www.scoop.co.nz/stories/ED1509/S00155/two-uc-composers-win-douglas-lilburn-tribute-competition.htm
+title: Two UC composers win Douglas Lilburn tribute competition
+date: 2015-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00155/two-uc-composers-win-douglas-lilburn-tribute-competition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/09/28/two-uc-composers-win-douglas-lilburn-tribute-competition/index.html
+layout: layout.njk
 ---
 Two UC composers win Douglas Lilburn tribute competition
 ========================================================

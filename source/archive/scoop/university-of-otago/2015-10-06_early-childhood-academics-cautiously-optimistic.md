@@ -1,9 +1,12 @@
 ---
 slug: early-childhood-academics-cautiously-optimistic
-title: "Early childhood academics cautiously optimistic"
-date: 2015-10-06
-source-url: https://www.scoop.co.nz/stories/ED1510/S00033/early-childhood-academics-cautiously-optimistic.htm
+title: Early childhood academics cautiously optimistic
+date: 2015-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00033/early-childhood-academics-cautiously-optimistic.htm
 author: university-of-otago
+permalink: /archive/2015/10/06/early-childhood-academics-cautiously-optimistic/index.html
+layout: layout.njk
 ---
 Early childhood academics cautiously optimistic
 ===============================================

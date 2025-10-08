@@ -1,9 +1,12 @@
 ---
 slug: call-for-entries-from-local-wearable-art-event
-title: "Call for Entries From Local Wearable Art Event"
-date: 2011-07-28
-source-url: https://www.scoop.co.nz/stories/AK1107/S00734/call-for-entries-from-local-wearable-art-event.htm
+title: Call for Entries From Local Wearable Art Event
+date: 2011-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1107/S00734/call-for-entries-from-local-wearable-art-event.htm
 author: waikato-university
+permalink: /archive/2011/07/28/call-for-entries-from-local-wearable-art-event/index.html
+layout: layout.njk
 ---
 Call for Entries From Local Wearable Art Event
 ==============================================

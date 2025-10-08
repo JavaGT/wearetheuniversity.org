@@ -1,9 +1,12 @@
 ---
 slug: opening-exhibition-of-te-huringa-turning-points
-title: "Opening Exhibition of Te Huringa /Turning Points"
-date: 2006-09-17
-source-url: https://www.scoop.co.nz/stories/PA0609/S00391/opening-exhibition-of-te-huringa-turning-points.htm
+title: Opening Exhibition of Te Huringa /Turning Points
+date: 2006-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00391/opening-exhibition-of-te-huringa-turning-points.htm
 author: te-pati-maori
+permalink: /archive/2006/09/17/opening-exhibition-of-te-huringa-turning-points/index.html
+layout: layout.njk
 ---
 Opening Exhibition of Te Huringa /Turning Points
 ================================================

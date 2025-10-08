@@ -1,9 +1,12 @@
 ---
 slug: university-women-still-face-barriers
-title: "University women still face barriers"
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/ED0505/S00072/university-women-still-face-barriers.htm
+title: University women still face barriers
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00072/university-women-still-face-barriers.htm
 author: association-of-university-staff
+permalink: /archive/2005/05/17/university-women-still-face-barriers/index.html
+layout: layout.njk
 ---
 University women still face barriers
 ====================================

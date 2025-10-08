@@ -1,9 +1,12 @@
 ---
 slug: new-mps-in-for-emotional-rollercoaster
-title: "New MPs in for emotional rollercoaster"
-date: 2008-12-04
-source-url: https://www.scoop.co.nz/stories/ED0812/S00011/new-mps-in-for-emotional-rollercoaster.htm
+title: New MPs in for emotional rollercoaster
+date: 2008-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00011/new-mps-in-for-emotional-rollercoaster.htm
 author: massey-university
+permalink: /archive/2008/12/04/new-mps-in-for-emotional-rollercoaster/index.html
+layout: layout.njk
 ---
 New MPs in for emotional rollercoaster
 ======================================

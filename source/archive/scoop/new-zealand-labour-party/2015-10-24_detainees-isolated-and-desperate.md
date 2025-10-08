@@ -1,9 +1,12 @@
 ---
 slug: detainees-isolated-and-desperate
-title: "Detainees isolated and desperate"
-date: 2015-10-24
-source-url: https://www.scoop.co.nz/stories/PA1510/S00452/detainees-isolated-and-desperate.htm
+title: Detainees isolated and desperate
+date: 2015-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00452/detainees-isolated-and-desperate.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/24/detainees-isolated-and-desperate/index.html
+layout: layout.njk
 ---
 Detainees isolated and desperate
 ================================

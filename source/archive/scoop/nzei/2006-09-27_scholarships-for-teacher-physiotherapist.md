@@ -1,9 +1,12 @@
 ---
 slug: scholarships-for-teacher-physiotherapist
-title: "Scholarships for Teacher, Physiotherapist"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/ED0609/S00110/scholarships-for-teacher-physiotherapist.htm
+title: Scholarships for Teacher, Physiotherapist
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00110/scholarships-for-teacher-physiotherapist.htm
 author: nzei
+permalink: /archive/2006/09/27/scholarships-for-teacher-physiotherapist/index.html
+layout: layout.njk
 ---
 Scholarships for Teacher, Physiotherapist
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: exhibition-points-to-future-success-of-golden-bay
-title: "Exhibition points to future success of Golden Bay"
-date: 1999-09-05
-source-url: https://www.scoop.co.nz/stories/PA9909/S00110/exhibition-points-to-future-success-of-golden-bay.htm
+title: Exhibition points to future success of Golden Bay
+date: 1999-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00110/exhibition-points-to-future-success-of-golden-bay.htm
 author: green-party
+permalink: >-
+  /archive/1999/09/05/exhibition-points-to-future-success-of-golden-bay/index.html
+layout: layout.njk
 ---
 Exhibition points to future success of Golden Bay
 =================================================

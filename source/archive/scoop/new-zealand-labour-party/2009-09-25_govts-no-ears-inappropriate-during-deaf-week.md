@@ -1,9 +1,12 @@
 ---
 slug: govts-no-ears-inappropriate-during-deaf-week
-title: "Govt's 'no ears' inappropriate during Deaf Week"
-date: 2009-09-25
-source-url: https://www.scoop.co.nz/stories/PA0909/S00378/govts-no-ears-inappropriate-during-deaf-week.htm
+title: Govt's 'no ears' inappropriate during Deaf Week
+date: 2009-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00378/govts-no-ears-inappropriate-during-deaf-week.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/25/govts-no-ears-inappropriate-during-deaf-week/index.html
+layout: layout.njk
 ---
 Govt's 'no ears' inappropriate during Deaf Week
 ===============================================

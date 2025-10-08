@@ -1,9 +1,13 @@
 ---
 slug: growing-tech-sector-part-of-economy-rebuild-plan
-title: "Growing Tech Sector Part Of Economy Rebuild Plan"
-date: 2023-09-15
-source-url: https://www.scoop.co.nz/stories/PA2309/S00083/growing-tech-sector-part-of-economy-rebuild-plan.htm
+title: Growing Tech Sector Part Of Economy Rebuild Plan
+date: 2023-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00083/growing-tech-sector-part-of-economy-rebuild-plan.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/09/15/growing-tech-sector-part-of-economy-rebuild-plan/index.html
+layout: layout.njk
 ---
 Growing Tech Sector Part Of Economy Rebuild Plan
 ================================================

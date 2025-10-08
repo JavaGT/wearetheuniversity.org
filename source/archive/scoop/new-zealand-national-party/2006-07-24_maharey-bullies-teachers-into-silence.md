@@ -1,9 +1,12 @@
 ---
 slug: maharey-bullies-teachers-into-silence
-title: "Maharey bullies teachers into silence"
-date: 2006-07-24
-source-url: https://www.scoop.co.nz/stories/PA0607/S00382/maharey-bullies-teachers-into-silence.htm
+title: Maharey bullies teachers into silence
+date: 2006-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00382/maharey-bullies-teachers-into-silence.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/24/maharey-bullies-teachers-into-silence/index.html
+layout: layout.njk
 ---
 Maharey bullies teachers into silence
 =====================================

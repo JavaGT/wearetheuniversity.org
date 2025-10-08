@@ -1,9 +1,12 @@
 ---
 slug: humans-not-always-to-blame-for-rarity
-title: "Humans not always to blame for rarity"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/SC1104/S00032/humans-not-always-to-blame-for-rarity.htm
+title: Humans not always to blame for rarity
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1104/S00032/humans-not-always-to-blame-for-rarity.htm
 author: massey-university
+permalink: /archive/2011/04/14/humans-not-always-to-blame-for-rarity/index.html
+layout: layout.njk
 ---
 Humans not always to blame for rarity
 =====================================

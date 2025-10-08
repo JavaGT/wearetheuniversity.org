@@ -1,9 +1,13 @@
 ---
 slug: scientists-search-for-unique-new-zealand-bacteria
-title: "Scientists Search For Unique New Zealand Bacteria"
-date: 2002-01-29
-source-url: https://www.scoop.co.nz/stories/SC0201/S00017/scientists-search-for-unique-new-zealand-bacteria.htm
+title: Scientists Search For Unique New Zealand Bacteria
+date: 2002-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0201/S00017/scientists-search-for-unique-new-zealand-bacteria.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/01/29/scientists-search-for-unique-new-zealand-bacteria/index.html
+layout: layout.njk
 ---
 Scientists Search For Unique New Zealand Bacteria
 =================================================

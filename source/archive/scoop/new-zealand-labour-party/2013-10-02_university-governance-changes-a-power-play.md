@@ -1,9 +1,12 @@
 ---
 slug: university-governance-changes-a-power-play
-title: "University governance changes a power play"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/PA1310/S00048/university-governance-changes-a-power-play.htm
+title: University governance changes a power play
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00048/university-governance-changes-a-power-play.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/02/university-governance-changes-a-power-play/index.html
+layout: layout.njk
 ---
 University governance changes a power play
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: nuclear-terrorism-within-america-a-certainty
-title: "Nuclear Terrorism Within America a Certainty"
-date: 2004-06-01
-source-url: https://www.scoop.co.nz/stories/ED0406/S00003/nuclear-terrorism-within-america-a-certainty.htm
+title: Nuclear Terrorism Within America a Certainty
+date: 2004-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00003/nuclear-terrorism-within-america-a-certainty.htm
 author: university-of-canterbury
+permalink: /archive/2004/06/01/nuclear-terrorism-within-america-a-certainty/index.html
+layout: layout.njk
 ---
 Nuclear Terrorism Within America a Certainty
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: southern-dhb-must-ditch-private-meal-supplier
-title: "Southern DHB Must Ditch Private Meal Supplier"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/PA1606/S00491/southern-dhb-must-ditch-private-meal-supplier.htm
+title: Southern DHB Must Ditch Private Meal Supplier
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00491/southern-dhb-must-ditch-private-meal-supplier.htm
 author: new-zealand-first-party
+permalink: /archive/2016/06/29/southern-dhb-must-ditch-private-meal-supplier/index.html
+layout: layout.njk
 ---
 Southern DHB Must Ditch Private Meal Supplier
 =============================================

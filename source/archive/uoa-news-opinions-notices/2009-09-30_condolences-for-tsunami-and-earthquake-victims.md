@@ -1,8 +1,11 @@
 ---
 slug: condolences-for-tsunami-and-earthquake-victims
-title: "Condolences for tsunami and earthquake victims"
-date: 2009-09-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/09/30/Condolences-for-tsunami-and-earthquake-victims.html
+title: Condolences for tsunami and earthquake victims
+date: 2009-09-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/09/30/Condolences-for-tsunami-and-earthquake-victims.html
+permalink: /archive/2009/09/30/condolences-for-tsunami-and-earthquake-victims/index.html
+layout: layout.njk
 ---
 Condolences for tsunami and earthquake victims
 ==============================================

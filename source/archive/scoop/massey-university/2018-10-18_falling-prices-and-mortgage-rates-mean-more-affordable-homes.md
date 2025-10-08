@@ -1,9 +1,13 @@
 ---
 slug: falling-prices-and-mortgage-rates-mean-more-affordable-homes
-title: "Falling prices and mortgage rates mean more affordable homes"
-date: 2018-10-18
-source-url: https://www.scoop.co.nz/stories/PO1810/S00265/falling-prices-and-mortgage-rates-mean-more-affordable-homes.htm
+title: Falling prices and mortgage rates mean more affordable homes
+date: 2018-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00265/falling-prices-and-mortgage-rates-mean-more-affordable-homes.htm
 author: massey-university
+permalink: >-
+  /archive/2018/10/18/falling-prices-and-mortgage-rates-mean-more-affordable-homes/index.html
+layout: layout.njk
 ---
 Falling prices and mortgage rates mean more affordable homes
 ============================================================

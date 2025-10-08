@@ -1,9 +1,12 @@
 ---
 slug: young-athletes-descend-on-wellington-for-games
-title: "Young athletes descend on Wellington for Games"
-date: 2006-04-18
-source-url: https://www.scoop.co.nz/stories/GE0604/S00067/young-athletes-descend-on-wellington-for-games.htm
+title: Young athletes descend on Wellington for Games
+date: 2006-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0604/S00067/young-athletes-descend-on-wellington-for-games.htm
 author: nz-university-games
+permalink: /archive/2006/04/18/young-athletes-descend-on-wellington-for-games/index.html
+layout: layout.njk
 ---
 Young athletes descend on Wellington for Games
 ==============================================

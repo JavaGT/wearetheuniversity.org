@@ -1,9 +1,12 @@
 ---
 slug: govt-fails-to-help-universities-and-researchers
-title: "Govt Fails To Help Universities And Researchers"
-date: 2002-05-17
-source-url: https://www.scoop.co.nz/stories/PA0205/S00361/govt-fails-to-help-universities-and-researchers.htm
+title: Govt Fails To Help Universities And Researchers
+date: 2002-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00361/govt-fails-to-help-universities-and-researchers.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/17/govt-fails-to-help-universities-and-researchers/index.html
+layout: layout.njk
 ---
 Govt Fails To Help Universities And Researchers
 ===============================================

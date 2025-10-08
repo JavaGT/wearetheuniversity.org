@@ -1,9 +1,12 @@
 ---
 slug: lessons-from-nzs-bubbles-for-the-world
-title: "Lessons From NZ’s Bubbles For The World"
-date: 2020-06-02
-source-url: https://www.scoop.co.nz/stories/ED2006/S00004/lessons-from-nzs-bubbles-for-the-world.htm
+title: Lessons From NZ’s Bubbles For The World
+date: 2020-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00004/lessons-from-nzs-bubbles-for-the-world.htm
 author: aut-university
+permalink: /archive/2020/06/02/lessons-from-nzs-bubbles-for-the-world/index.html
+layout: layout.njk
 ---
 Lessons From NZ’s Bubbles For The World
 =======================================

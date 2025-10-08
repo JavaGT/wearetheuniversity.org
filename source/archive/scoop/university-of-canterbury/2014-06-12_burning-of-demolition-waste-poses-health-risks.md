@@ -1,9 +1,12 @@
 ---
 slug: burning-of-demolition-waste-poses-health-risks
-title: "Burning of demolition waste poses health risks"
-date: 2014-06-12
-source-url: https://www.scoop.co.nz/stories/ED1406/S00067/burning-of-demolition-waste-poses-health-risks.htm
+title: Burning of demolition waste poses health risks
+date: 2014-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00067/burning-of-demolition-waste-poses-health-risks.htm
 author: university-of-canterbury
+permalink: /archive/2014/06/12/burning-of-demolition-waste-poses-health-risks/index.html
+layout: layout.njk
 ---
 Burning of demolition waste poses health risks
 ==============================================

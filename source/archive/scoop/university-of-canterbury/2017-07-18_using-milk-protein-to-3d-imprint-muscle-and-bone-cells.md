@@ -1,9 +1,13 @@
 ---
 slug: using-milk-protein-to-3d-imprint-muscle-and-bone-cells
-title: "Using milk protein to 3D-imprint muscle and bone cells"
-date: 2017-07-18
-source-url: https://www.scoop.co.nz/stories/SC1707/S00031/using-milk-protein-to-3d-imprint-muscle-and-bone-cells.htm
+title: Using milk protein to 3D-imprint muscle and bone cells
+date: 2017-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1707/S00031/using-milk-protein-to-3d-imprint-muscle-and-bone-cells.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/07/18/using-milk-protein-to-3d-imprint-muscle-and-bone-cells/index.html
+layout: layout.njk
 ---
 Using milk protein to 3D-imprint muscle and bone cells
 ======================================================

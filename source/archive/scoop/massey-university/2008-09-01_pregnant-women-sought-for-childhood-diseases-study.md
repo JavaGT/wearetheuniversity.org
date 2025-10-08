@@ -1,9 +1,13 @@
 ---
 slug: pregnant-women-sought-for-childhood-diseases-study
-title: "Pregnant women sought for childhood diseases study"
-date: 2008-09-01
-source-url: https://www.scoop.co.nz/stories/GE0809/S00004/pregnant-women-sought-for-childhood-diseases-study.htm
+title: Pregnant women sought for childhood diseases study
+date: 2008-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0809/S00004/pregnant-women-sought-for-childhood-diseases-study.htm
 author: massey-university
+permalink: >-
+  /archive/2008/09/01/pregnant-women-sought-for-childhood-diseases-study/index.html
+layout: layout.njk
 ---
 Pregnant women sought for childhood diseases study
 ==================================================

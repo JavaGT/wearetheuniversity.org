@@ -1,9 +1,12 @@
 ---
 slug: professor-of-economics-appointed
-title: "Professor of Economics appointed"
-date: 2005-06-14
-source-url: https://www.scoop.co.nz/stories/ED0506/S00035/professor-of-economics-appointed.htm
+title: Professor of Economics appointed
+date: 2005-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00035/professor-of-economics-appointed.htm
 author: university-of-otago
+permalink: /archive/2005/06/14/professor-of-economics-appointed/index.html
+layout: layout.njk
 ---
 Professor of Economics appointed
 ================================

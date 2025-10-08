@@ -1,9 +1,16 @@
 ---
-slug: uc-discovery-could-help-monitor-inflammation-in-heart-disease-and-sars-like-diseases
-title: "UC Discovery Could Help Monitor Inflammation In Heart Disease And SARS-like Diseases"
-date: 2020-05-04
-source-url: https://www.scoop.co.nz/stories/GE2005/S00014/uc-discovery-could-help-monitor-inflammation-in-heart-disease-and-sars-like-diseases.htm
+slug: >-
+  uc-discovery-could-help-monitor-inflammation-in-heart-disease-and-sars-like-diseases
+title: >-
+  UC Discovery Could Help Monitor Inflammation In Heart Disease And SARS-like
+  Diseases
+date: 2020-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2005/S00014/uc-discovery-could-help-monitor-inflammation-in-heart-disease-and-sars-like-diseases.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/04/uc-discovery-could-help-monitor-inflammation-in-heart-disease-and-sars-like-diseases/index.html
+layout: layout.njk
 ---
 UC Discovery Could Help Monitor Inflammation In Heart Disease And SARS-like Diseases
 ====================================================================================

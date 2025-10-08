@@ -1,9 +1,13 @@
 ---
 slug: the-tobacco-report-a-kaupapa-to-save-5000-lives-a-year
-title: "The tobacco report: A kaupapa to save 5000 lives a year"
-date: 2010-11-26
-source-url: https://www.scoop.co.nz/stories/GE1011/S00153/the-tobacco-report-a-kaupapa-to-save-5000-lives-a-year.htm
+title: 'The tobacco report: A kaupapa to save 5000 lives a year'
+date: 2010-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1011/S00153/the-tobacco-report-a-kaupapa-to-save-5000-lives-a-year.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/11/26/the-tobacco-report-a-kaupapa-to-save-5000-lives-a-year/index.html
+layout: layout.njk
 ---
 The tobacco report: A kaupapa to save 5000 lives a year
 =======================================================

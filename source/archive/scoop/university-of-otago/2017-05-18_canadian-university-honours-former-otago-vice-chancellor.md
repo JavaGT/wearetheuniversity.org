@@ -1,9 +1,13 @@
 ---
 slug: canadian-university-honours-former-otago-vice-chancellor
-title: "Canadian university honours former Otago Vice-Chancellor"
-date: 2017-05-18
-source-url: https://www.scoop.co.nz/stories/ED1705/S00077/canadian-university-honours-former-otago-vice-chancellor.htm
+title: Canadian university honours former Otago Vice-Chancellor
+date: 2017-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00077/canadian-university-honours-former-otago-vice-chancellor.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/05/18/canadian-university-honours-former-otago-vice-chancellor/index.html
+layout: layout.njk
 ---
 Canadian university honours former Otago Vice-Chancellor
 ========================================================

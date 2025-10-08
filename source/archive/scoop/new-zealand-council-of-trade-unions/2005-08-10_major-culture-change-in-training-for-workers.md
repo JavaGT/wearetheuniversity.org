@@ -1,9 +1,12 @@
 ---
 slug: major-culture-change-in-training-for-workers
-title: "Major Culture Change in Training for Workers"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/BU0508/S00180/major-culture-change-in-training-for-workers.htm
+title: Major Culture Change in Training for Workers
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0508/S00180/major-culture-change-in-training-for-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/08/10/major-culture-change-in-training-for-workers/index.html
+layout: layout.njk
 ---
 Major Culture Change in Training for Workers
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: physiotherapy-circuit-decreases-waiting-times
-title: "Physiotherapy circuit decreases waiting times"
-date: 2007-10-02
-source-url: https://www.scoop.co.nz/stories/GE0710/S00014/physiotherapy-circuit-decreases-waiting-times.htm
+title: Physiotherapy circuit decreases waiting times
+date: 2007-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0710/S00014/physiotherapy-circuit-decreases-waiting-times.htm
 author: university-of-otago
+permalink: /archive/2007/10/02/physiotherapy-circuit-decreases-waiting-times/index.html
+layout: layout.njk
 ---
 Physiotherapy circuit decreases waiting times
 =============================================

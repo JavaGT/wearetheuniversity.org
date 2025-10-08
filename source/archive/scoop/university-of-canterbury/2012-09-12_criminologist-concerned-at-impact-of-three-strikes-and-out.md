@@ -1,9 +1,13 @@
 ---
 slug: criminologist-concerned-at-impact-of-three-strikes-and-out
-title: "Criminologist concerned at impact of three strikes and out"
-date: 2012-09-12
-source-url: https://www.scoop.co.nz/stories/PO1209/S00148/criminologist-concerned-at-impact-of-three-strikes-and-out.htm
+title: Criminologist concerned at impact of three strikes and out
+date: 2012-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00148/criminologist-concerned-at-impact-of-three-strikes-and-out.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/12/criminologist-concerned-at-impact-of-three-strikes-and-out/index.html
+layout: layout.njk
 ---
 Criminologist concerned at impact of three strikes and out
 ==========================================================

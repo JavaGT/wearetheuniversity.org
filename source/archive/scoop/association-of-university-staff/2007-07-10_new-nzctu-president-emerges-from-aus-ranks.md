@@ -1,9 +1,12 @@
 ---
 slug: new-nzctu-president-emerges-from-aus-ranks
-title: "New NZCTU President emerges from AUS ranks"
-date: 2007-07-10
-source-url: https://www.scoop.co.nz/stories/PO0707/S00087/new-nzctu-president-emerges-from-aus-ranks.htm
+title: New NZCTU President emerges from AUS ranks
+date: 2007-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0707/S00087/new-nzctu-president-emerges-from-aus-ranks.htm
 author: association-of-university-staff
+permalink: /archive/2007/07/10/new-nzctu-president-emerges-from-aus-ranks/index.html
+layout: layout.njk
 ---
 New NZCTU President emerges from AUS ranks
 ==========================================

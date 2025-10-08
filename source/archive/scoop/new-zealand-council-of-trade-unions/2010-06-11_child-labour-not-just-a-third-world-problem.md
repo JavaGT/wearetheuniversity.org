@@ -1,9 +1,12 @@
 ---
 slug: child-labour-not-just-a-third-world-problem
-title: "Child labour not just a third world problem"
-date: 2010-06-11
-source-url: https://www.scoop.co.nz/stories/PO1006/S00127/child-labour-not-just-a-third-world-problem.htm
+title: Child labour not just a third world problem
+date: 2010-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1006/S00127/child-labour-not-just-a-third-world-problem.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/06/11/child-labour-not-just-a-third-world-problem/index.html
+layout: layout.njk
 ---
 Child labour not just a third world problem
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: pharmacy-to-add-to-waikatos-health-offering
-title: "Pharmacy To Add To Waikato’s Health Offering"
-date: 2023-09-02
-source-url: https://www.scoop.co.nz/stories/ED2309/S00002/pharmacy-to-add-to-waikatos-health-offering.htm
+title: Pharmacy To Add To Waikato’s Health Offering
+date: 2023-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2309/S00002/pharmacy-to-add-to-waikatos-health-offering.htm
 author: university-of-waikato
+permalink: /archive/2023/09/02/pharmacy-to-add-to-waikatos-health-offering/index.html
+layout: layout.njk
 ---
 Pharmacy To Add To Waikato’s Health Offering
 ============================================

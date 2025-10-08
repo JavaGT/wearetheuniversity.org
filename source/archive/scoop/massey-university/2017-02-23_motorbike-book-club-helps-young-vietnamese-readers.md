@@ -1,9 +1,13 @@
 ---
 slug: motorbike-book-club-helps-young-vietnamese-readers
-title: "Motorbike Book Club helps young Vietnamese readers"
-date: 2017-02-23
-source-url: https://www.scoop.co.nz/stories/CU1702/S00429/motorbike-book-club-helps-young-vietnamese-readers.htm
+title: Motorbike Book Club helps young Vietnamese readers
+date: 2017-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1702/S00429/motorbike-book-club-helps-young-vietnamese-readers.htm
 author: massey-university
+permalink: >-
+  /archive/2017/02/23/motorbike-book-club-helps-young-vietnamese-readers/index.html
+layout: layout.njk
 ---
 Motorbike Book Club helps young Vietnamese readers
 ==================================================

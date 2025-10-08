@@ -1,9 +1,12 @@
 ---
 slug: mixing-new-arrivals-an-insane-policy
-title: "Mixing New Arrivals An Insane Policy"
-date: 2020-06-20
-source-url: https://www.scoop.co.nz/stories/PA2006/S00193/mixing-new-arrivals-an-insane-policy.htm
+title: Mixing New Arrivals An Insane Policy
+date: 2020-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00193/mixing-new-arrivals-an-insane-policy.htm
 author: act-new-zealand
+permalink: /archive/2020/06/20/mixing-new-arrivals-an-insane-policy/index.html
+layout: layout.njk
 ---
 Mixing New Arrivals An Insane Policy
 ====================================

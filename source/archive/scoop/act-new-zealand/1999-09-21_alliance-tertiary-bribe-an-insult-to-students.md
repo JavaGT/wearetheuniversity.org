@@ -1,9 +1,12 @@
 ---
 slug: alliance-tertiary-bribe-an-insult-to-students
-title: "Alliance 'Tertiary Bribe' An Insult To Students"
-date: 1999-09-21
-source-url: https://www.scoop.co.nz/stories/PA9909/S00423/alliance-tertiary-bribe-an-insult-to-students.htm
+title: Alliance 'Tertiary Bribe' An Insult To Students
+date: 1999-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00423/alliance-tertiary-bribe-an-insult-to-students.htm
 author: act-new-zealand
+permalink: /archive/1999/09/21/alliance-tertiary-bribe-an-insult-to-students/index.html
+layout: layout.njk
 ---
 Alliance 'Tertiary Bribe' An Insult To Students
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: 100-days-of-backdowns-and-working-groups
-title: "100 days of backdowns and working groups"
-date: 2018-02-02
-source-url: https://www.scoop.co.nz/stories/PA1802/S00024/100-days-of-backdowns-and-working-groups.htm
+title: 100 days of backdowns and working groups
+date: 2018-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00024/100-days-of-backdowns-and-working-groups.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/02/100-days-of-backdowns-and-working-groups/index.html
+layout: layout.njk
 ---
 100 days of backdowns and working groups
 ========================================

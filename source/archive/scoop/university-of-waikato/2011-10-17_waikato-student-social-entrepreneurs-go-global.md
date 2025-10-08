@@ -1,9 +1,12 @@
 ---
 slug: waikato-student-social-entrepreneurs-go-global
-title: "Waikato student social entrepreneurs go global"
-date: 2011-10-17
-source-url: https://www.scoop.co.nz/stories/ED1110/S00070/waikato-student-social-entrepreneurs-go-global.htm
+title: Waikato student social entrepreneurs go global
+date: 2011-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00070/waikato-student-social-entrepreneurs-go-global.htm
 author: university-of-waikato
+permalink: /archive/2011/10/17/waikato-student-social-entrepreneurs-go-global/index.html
+layout: layout.njk
 ---
 Waikato student social entrepreneurs go global
 ==============================================

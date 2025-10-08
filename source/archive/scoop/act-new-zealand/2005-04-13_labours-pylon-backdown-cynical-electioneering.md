@@ -1,9 +1,12 @@
 ---
 slug: labours-pylon-backdown-cynical-electioneering
-title: "Labour's pylon backdown cynical electioneering"
-date: 2005-04-13
-source-url: https://www.scoop.co.nz/stories/PA0504/S00295/labours-pylon-backdown-cynical-electioneering.htm
+title: Labour's pylon backdown cynical electioneering
+date: 2005-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00295/labours-pylon-backdown-cynical-electioneering.htm
 author: act-new-zealand
+permalink: /archive/2005/04/13/labours-pylon-backdown-cynical-electioneering/index.html
+layout: layout.njk
 ---
 Labour's pylon backdown cynical electioneering
 ==============================================

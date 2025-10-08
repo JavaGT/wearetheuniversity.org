@@ -1,9 +1,13 @@
 ---
 slug: nga-potiki-and-tauranga-city-council-collaboration-praised
-title: "Nga Potiki and Tauranga City Council Collaboration praised"
-date: 2012-06-14
-source-url: https://www.scoop.co.nz/stories/PA1206/S00179/nga-potiki-and-tauranga-city-council-collaboration-praised.htm
+title: Nga Potiki and Tauranga City Council Collaboration praised
+date: 2012-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00179/nga-potiki-and-tauranga-city-council-collaboration-praised.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/06/14/nga-potiki-and-tauranga-city-council-collaboration-praised/index.html
+layout: layout.njk
 ---
 Nga Potiki and Tauranga City Council Collaboration praised
 ==========================================================

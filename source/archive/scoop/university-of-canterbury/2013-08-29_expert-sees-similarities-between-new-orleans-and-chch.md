@@ -1,9 +1,13 @@
 ---
 slug: expert-sees-similarities-between-new-orleans-and-chch
-title: "Expert sees similarities between New Orleans and Chch"
-date: 2013-08-29
-source-url: https://www.scoop.co.nz/stories/AK1308/S00839/expert-sees-similarities-between-new-orleans-and-chch.htm
+title: Expert sees similarities between New Orleans and Chch
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00839/expert-sees-similarities-between-new-orleans-and-chch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/29/expert-sees-similarities-between-new-orleans-and-chch/index.html
+layout: layout.njk
 ---
 Expert sees similarities between New Orleans and Chch
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: research-may-boost-ivf-success-rate
-title: "Research may boost IVF success rate"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/GE0705/S00098/research-may-boost-ivf-success-rate.htm
+title: Research may boost IVF success rate
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0705/S00098/research-may-boost-ivf-success-rate.htm
 author: massey-university
+permalink: /archive/2007/05/14/research-may-boost-ivf-success-rate/index.html
+layout: layout.njk
 ---
 Research may boost IVF success rate
 ===================================

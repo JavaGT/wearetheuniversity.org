@@ -1,9 +1,12 @@
 ---
 slug: hekia-parata-fails-to-answer-basic-questions
-title: "Hekia Parata fails to answer basic questions"
-date: 2014-04-08
-source-url: https://www.scoop.co.nz/stories/ED1404/S00039/hekia-parata-fails-to-answer-basic-questions.htm
+title: Hekia Parata fails to answer basic questions
+date: 2014-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00039/hekia-parata-fails-to-answer-basic-questions.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/08/hekia-parata-fails-to-answer-basic-questions/index.html
+layout: layout.njk
 ---
 Hekia Parata fails to answer basic questions
 ============================================

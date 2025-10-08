@@ -1,9 +1,11 @@
 ---
 slug: our-immigrant-nation
-title: "Our Immigrant Nation"
-date: 2003-01-27
+title: Our Immigrant Nation
+date: 2003-01-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0301/S00210/our-immigrant-nation.htm
 author: act-new-zealand
+permalink: /archive/2003/01/27/our-immigrant-nation/index.html
+layout: layout.njk
 ---
 Our Immigrant Nation
 ====================

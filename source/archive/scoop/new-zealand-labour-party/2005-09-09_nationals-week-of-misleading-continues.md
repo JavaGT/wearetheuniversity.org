@@ -1,9 +1,12 @@
 ---
 slug: nationals-week-of-misleading-continues
-title: "National's week of misleading continues"
-date: 2005-09-09
-source-url: https://www.scoop.co.nz/stories/PA0509/S00236/nationals-week-of-misleading-continues.htm
+title: National's week of misleading continues
+date: 2005-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00236/nationals-week-of-misleading-continues.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/09/nationals-week-of-misleading-continues/index.html
+layout: layout.njk
 ---
 National's week of misleading continues
 =======================================

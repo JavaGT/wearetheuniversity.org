@@ -1,9 +1,12 @@
 ---
 slug: what-did-the-teachers-union-teach-our-kids
-title: "What Did the Teachers' Union Teach Our Kids?"
-date: 2003-04-06
-source-url: https://www.scoop.co.nz/stories/PA0304/S00109/what-did-the-teachers-union-teach-our-kids.htm
+title: What Did the Teachers' Union Teach Our Kids?
+date: 2003-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00109/what-did-the-teachers-union-teach-our-kids.htm
 author: act-new-zealand
+permalink: /archive/2003/04/06/what-did-the-teachers-union-teach-our-kids/index.html
+layout: layout.njk
 ---
 What Did the Teachers' Union Teach Our Kids?
 ============================================

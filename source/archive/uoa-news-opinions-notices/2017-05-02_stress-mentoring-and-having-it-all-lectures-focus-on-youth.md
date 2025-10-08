@@ -1,8 +1,12 @@
 ---
 slug: stress-mentoring-and-having-it-all-lectures-focus-on-youth
-title: "Stress, mentoring and having it all: lectures focus on youth"
-date: 2017-05-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/stress--mentoring-and-having-it-all--lectures-focus-on-youth.html
+title: 'Stress, mentoring and having it all: lectures focus on youth'
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/stress--mentoring-and-having-it-all--lectures-focus-on-youth.html
+permalink: >-
+  /archive/2017/05/02/stress-mentoring-and-having-it-all-lectures-focus-on-youth/index.html
+layout: layout.njk
 ---
 Stress, mentoring and having it all: lectures focus on youth
 ============================================================

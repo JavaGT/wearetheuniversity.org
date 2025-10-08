@@ -1,9 +1,13 @@
 ---
 slug: law-abiding-new-zealanders-will-again-be-the-victim-of-firearms-regulations
-title: "Law Abiding New Zealanders Will Again Be The Victim Of Firearms Regulations"
-date: 2022-03-25
-source-url: https://www.scoop.co.nz/stories/PA2203/S00206/law-abiding-new-zealanders-will-again-be-the-victim-of-firearms-regulations.htm
+title: Law Abiding New Zealanders Will Again Be The Victim Of Firearms Regulations
+date: 2022-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00206/law-abiding-new-zealanders-will-again-be-the-victim-of-firearms-regulations.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/03/25/law-abiding-new-zealanders-will-again-be-the-victim-of-firearms-regulations/index.html
+layout: layout.njk
 ---
 Law Abiding New Zealanders Will Again Be The Victim Of Firearms Regulations
 ===========================================================================

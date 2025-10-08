@@ -1,9 +1,12 @@
 ---
 slug: a-meagre-budget-for-universities
-title: "A Meagre Budget For Universities"
-date: 2008-05-22
-source-url: https://www.scoop.co.nz/stories/PO0805/S00340/a-meagre-budget-for-universities.htm
+title: A Meagre Budget For Universities
+date: 2008-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0805/S00340/a-meagre-budget-for-universities.htm
 author: vice-chancellors-committee
+permalink: /archive/2008/05/22/a-meagre-budget-for-universities/index.html
+layout: layout.njk
 ---
 A Meagre Budget For Universities
 ================================

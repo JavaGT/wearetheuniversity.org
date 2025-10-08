@@ -1,9 +1,12 @@
 ---
 slug: simon-cunliffe-to-be-labour-media-director
-title: "Simon Cunliffe to be Labour Media Director"
-date: 2013-11-18
-source-url: https://www.scoop.co.nz/stories/PA1311/S00314/simon-cunliffe-to-be-labour-media-director.htm
+title: Simon Cunliffe to be Labour Media Director
+date: 2013-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00314/simon-cunliffe-to-be-labour-media-director.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/18/simon-cunliffe-to-be-labour-media-director/index.html
+layout: layout.njk
 ---
 Simon Cunliffe to be Labour Media Director
 ==========================================

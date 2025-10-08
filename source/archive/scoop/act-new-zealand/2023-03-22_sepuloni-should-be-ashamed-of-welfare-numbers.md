@@ -1,9 +1,12 @@
 ---
 slug: sepuloni-should-be-ashamed-of-welfare-numbers
-title: "Sepuloni Should Be Ashamed Of Welfare Numbers"
-date: 2023-03-22
-source-url: https://www.scoop.co.nz/stories/PA2303/S00184/sepuloni-should-be-ashamed-of-welfare-numbers.htm
+title: Sepuloni Should Be Ashamed Of Welfare Numbers
+date: 2023-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00184/sepuloni-should-be-ashamed-of-welfare-numbers.htm
 author: act-new-zealand
+permalink: /archive/2023/03/22/sepuloni-should-be-ashamed-of-welfare-numbers/index.html
+layout: layout.njk
 ---
 Sepuloni Should Be Ashamed Of Welfare Numbers
 =============================================

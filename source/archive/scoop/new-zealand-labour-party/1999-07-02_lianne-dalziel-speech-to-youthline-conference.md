@@ -1,9 +1,12 @@
 ---
 slug: lianne-dalziel-speech-to-youthline-conference
-title: "Lianne Dalziel speech to Youthline Conference"
-date: 1999-07-02
-source-url: https://www.scoop.co.nz/stories/PA9907/S00041/lianne-dalziel-speech-to-youthline-conference.htm
+title: Lianne Dalziel speech to Youthline Conference
+date: 1999-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00041/lianne-dalziel-speech-to-youthline-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/02/lianne-dalziel-speech-to-youthline-conference/index.html
+layout: layout.njk
 ---
 Lianne Dalziel speech to Youthline Conference
 =============================================

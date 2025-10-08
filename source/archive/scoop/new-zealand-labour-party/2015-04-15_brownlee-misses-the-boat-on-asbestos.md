@@ -1,9 +1,12 @@
 ---
 slug: brownlee-misses-the-boat-on-asbestos
-title: "Brownlee misses the boat on asbestos"
-date: 2015-04-15
-source-url: https://www.scoop.co.nz/stories/PA1504/S00170/brownlee-misses-the-boat-on-asbestos.htm
+title: Brownlee misses the boat on asbestos
+date: 2015-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00170/brownlee-misses-the-boat-on-asbestos.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/04/15/brownlee-misses-the-boat-on-asbestos/index.html
+layout: layout.njk
 ---
 Brownlee misses the boat on asbestos
 ====================================

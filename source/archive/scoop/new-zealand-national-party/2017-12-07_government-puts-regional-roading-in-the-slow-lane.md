@@ -1,9 +1,13 @@
 ---
 slug: government-puts-regional-roading-in-the-slow-lane
-title: "Government puts regional roading in the slow lane"
-date: 2017-12-07
-source-url: https://www.scoop.co.nz/stories/PA1712/S00075/government-puts-regional-roading-in-the-slow-lane.htm
+title: Government puts regional roading in the slow lane
+date: 2017-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00075/government-puts-regional-roading-in-the-slow-lane.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/12/07/government-puts-regional-roading-in-the-slow-lane/index.html
+layout: layout.njk
 ---
 Government puts regional roading in the slow lane
 =================================================

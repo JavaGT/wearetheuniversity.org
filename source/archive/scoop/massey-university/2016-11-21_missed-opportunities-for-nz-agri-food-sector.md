@@ -1,9 +1,12 @@
 ---
 slug: missed-opportunities-for-nz-agri-food-sector
-title: "Missed opportunities for NZ agri-food sector"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/ED1611/S00089/missed-opportunities-for-nz-agri-food-sector.htm
+title: Missed opportunities for NZ agri-food sector
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00089/missed-opportunities-for-nz-agri-food-sector.htm
 author: massey-university
+permalink: /archive/2016/11/21/missed-opportunities-for-nz-agri-food-sector/index.html
+layout: layout.njk
 ---
 Missed opportunities for NZ agri-food sector
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: university-leaders-award-well-deserved-lincoln-chancellor
-title: "University leader’s award well-deserved - Lincoln Chancellor"
-date: 2012-12-31
-source-url: https://www.scoop.co.nz/stories/ED1212/S00142/university-leaders-award-well-deserved-lincoln-chancellor.htm
+title: University leader’s award well-deserved - Lincoln Chancellor
+date: 2012-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00142/university-leaders-award-well-deserved-lincoln-chancellor.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/12/31/university-leaders-award-well-deserved-lincoln-chancellor/index.html
+layout: layout.njk
 ---
 University leader’s award well-deserved - Lincoln Chancellor
 ============================================================

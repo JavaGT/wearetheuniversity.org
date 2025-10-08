@@ -1,9 +1,13 @@
 ---
 slug: outstanding-early-career-researcher-wins-carl-smith-medal
-title: "Outstanding early-career researcher wins Carl Smith Medal"
-date: 2012-06-05
-source-url: https://www.scoop.co.nz/stories/ED1206/S00008/outstanding-early-career-researcher-wins-carl-smith-medal.htm
+title: Outstanding early-career researcher wins Carl Smith Medal
+date: 2012-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00008/outstanding-early-career-researcher-wins-carl-smith-medal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/06/05/outstanding-early-career-researcher-wins-carl-smith-medal/index.html
+layout: layout.njk
 ---
 Outstanding early-career researcher wins Carl Smith Medal
 =========================================================

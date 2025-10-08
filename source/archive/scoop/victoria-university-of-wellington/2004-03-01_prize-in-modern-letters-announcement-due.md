@@ -1,9 +1,12 @@
 ---
 slug: prize-in-modern-letters-announcement-due
-title: "Prize in Modern Letters announcement due"
-date: 2004-03-01
-source-url: https://www.scoop.co.nz/stories/ED0403/S00005/prize-in-modern-letters-announcement-due.htm
+title: Prize in Modern Letters announcement due
+date: 2004-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00005/prize-in-modern-letters-announcement-due.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/01/prize-in-modern-letters-announcement-due/index.html
+layout: layout.njk
 ---
 Prize in Modern Letters announcement due
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-should-apologise-for-schools-stuff-up
-title: "Labour should apologise for schools stuff-up"
-date: 2007-11-13
-source-url: https://www.scoop.co.nz/stories/PA0711/S00242/labour-should-apologise-for-schools-stuff-up.htm
+title: Labour should apologise for schools stuff-up
+date: 2007-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00242/labour-should-apologise-for-schools-stuff-up.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/13/labour-should-apologise-for-schools-stuff-up/index.html
+layout: layout.njk
 ---
 Labour should apologise for schools stuff-up
 ============================================

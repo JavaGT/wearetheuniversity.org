@@ -1,9 +1,12 @@
 ---
 slug: online-voting-wont-engage-more-youth
-title: "Online voting won’t engage more youth"
-date: 2019-10-09
-source-url: https://www.scoop.co.nz/stories/PO1910/S00090/online-voting-wont-engage-more-youth.htm
+title: Online voting won’t engage more youth
+date: 2019-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1910/S00090/online-voting-wont-engage-more-youth.htm
 author: aut-university
+permalink: /archive/2019/10/09/online-voting-wont-engage-more-youth/index.html
+layout: layout.njk
 ---
 Online voting won’t engage more youth
 =====================================

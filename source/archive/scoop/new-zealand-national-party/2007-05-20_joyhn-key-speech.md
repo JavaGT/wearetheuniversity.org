@@ -1,9 +1,11 @@
 ---
 slug: joyhn-key-speech
-title: "Joyhn Key: speech"
-date: 2007-05-20
+title: 'Joyhn Key: speech'
+date: 2007-05-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00543/joyhn-key-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/20/joyhn-key-speech/index.html
+layout: layout.njk
 ---
 Joyhn Key: speech
 =================

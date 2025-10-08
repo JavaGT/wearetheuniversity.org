@@ -1,9 +1,12 @@
 ---
 slug: class-size-policy-slip-sliding-away
-title: "Class size policy - slip sliding away"
-date: 2007-06-19
-source-url: https://www.scoop.co.nz/stories/PA0706/S00372/class-size-policy-slip-sliding-away.htm
+title: Class size policy - slip sliding away
+date: 2007-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00372/class-size-policy-slip-sliding-away.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/19/class-size-policy-slip-sliding-away/index.html
+layout: layout.njk
 ---
 Class size policy - slip sliding away
 =====================================

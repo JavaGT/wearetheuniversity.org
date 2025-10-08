@@ -1,9 +1,12 @@
 ---
 slug: $450000-investment-in-synchotron
-title: "$450,000 investment in Synchotron"
-date: 2004-09-07
-source-url: https://www.scoop.co.nz/stories/SC0409/S00022/450000-investment-in-synchotron.htm
+title: $450,000 investment in Synchotron
+date: 2004-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0409/S00022/450000-investment-in-synchotron.htm
 author: massey-university
+permalink: /archive/2004/09/07/450-000-investment-in-synchotron/index.html
+layout: layout.njk
 ---
 $450,000 investment in Synchotron
 =================================

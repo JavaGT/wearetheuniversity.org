@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-puts-forward-the-salisbury-solution
-title: "New Zealand First puts forward the Salisbury Solution"
-date: 2016-08-10
-source-url: https://www.scoop.co.nz/stories/PA1608/S00139/new-zealand-first-puts-forward-the-salisbury-solution.htm
+title: New Zealand First puts forward the Salisbury Solution
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00139/new-zealand-first-puts-forward-the-salisbury-solution.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/10/new-zealand-first-puts-forward-the-salisbury-solution/index.html
+layout: layout.njk
 ---
 New Zealand First puts forward the Salisbury Solution
 =====================================================

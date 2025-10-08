@@ -1,9 +1,13 @@
 ---
 slug: sixth-annual-national-treaties-1-11-gathering-2010
-title: "Sixth Annual National Treaties 1-11 Gathering 2010"
-date: 2010-10-18
-source-url: https://www.scoop.co.nz/stories/PA1010/S00280/sixth-annual-national-treaties-1-11-gathering-2010.htm
+title: Sixth Annual National Treaties 1-11 Gathering 2010
+date: 2010-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00280/sixth-annual-national-treaties-1-11-gathering-2010.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/10/18/sixth-annual-national-treaties-1-11-gathering-2010/index.html
+layout: layout.njk
 ---
 Sixth Annual National Treaties 1-11 Gathering 2010
 ==================================================

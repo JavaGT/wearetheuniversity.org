@@ -1,9 +1,12 @@
 ---
 slug: pacific-success-vital-for-new-zealands-success
-title: "Pacific Success Vital For New Zealand's Success"
-date: 2005-09-06
-source-url: https://www.scoop.co.nz/stories/AK0509/S00033/pacific-success-vital-for-new-zealands-success.htm
+title: Pacific Success Vital For New Zealand's Success
+date: 2005-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0509/S00033/pacific-success-vital-for-new-zealands-success.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/06/pacific-success-vital-for-new-zealands-success/index.html
+layout: layout.njk
 ---
 Pacific Success Vital For New Zealand's Success
 ===============================================

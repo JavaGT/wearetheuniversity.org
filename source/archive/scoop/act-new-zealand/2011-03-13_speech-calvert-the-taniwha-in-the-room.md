@@ -1,9 +1,12 @@
 ---
 slug: speech-calvert-the-taniwha-in-the-room
-title: "Speech: Calvert - The Taniwha In The Room"
-date: 2011-03-13
-source-url: https://www.scoop.co.nz/stories/PA1103/S00192/speech-calvert-the-taniwha-in-the-room.htm
+title: 'Speech: Calvert - The Taniwha In The Room'
+date: 2011-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00192/speech-calvert-the-taniwha-in-the-room.htm
 author: act-new-zealand
+permalink: /archive/2011/03/13/speech-calvert-the-taniwha-in-the-room/index.html
+layout: layout.njk
 ---
 Speech: Calvert - The Taniwha In The Room
 =========================================

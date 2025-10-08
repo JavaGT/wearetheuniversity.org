@@ -1,9 +1,13 @@
 ---
 slug: nick-smiths-building-boom-just-alternative-facts
-title: "Nick Smith’s ‘building boom’ just ‘alternative facts’"
-date: 2017-02-15
-source-url: https://www.scoop.co.nz/stories/PA1702/S00206/nick-smiths-building-boom-just-alternative-facts.htm
+title: Nick Smith’s ‘building boom’ just ‘alternative facts’
+date: 2017-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00206/nick-smiths-building-boom-just-alternative-facts.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/02/15/nick-smiths-building-boom-just-alternative-facts/index.html
+layout: layout.njk
 ---
 Nick Smith’s ‘building boom’ just ‘alternative facts’
 =====================================================

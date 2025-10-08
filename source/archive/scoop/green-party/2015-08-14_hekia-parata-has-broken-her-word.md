@@ -1,9 +1,12 @@
 ---
 slug: hekia-parata-has-broken-her-word
-title: "Hekia Parata has broken her word"
-date: 2015-08-14
-source-url: https://www.scoop.co.nz/stories/PA1508/S00246/hekia-parata-has-broken-her-word.htm
+title: Hekia Parata has broken her word
+date: 2015-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00246/hekia-parata-has-broken-her-word.htm
 author: green-party
+permalink: /archive/2015/08/14/hekia-parata-has-broken-her-word/index.html
+layout: layout.njk
 ---
 Hekia Parata has broken her word
 ================================

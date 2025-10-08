@@ -1,9 +1,13 @@
 ---
 slug: school-lunches-essential-but-reinvest-any-savings-into-education
-title: "School Lunches Essential But Reinvest Any Savings Into Education"
-date: 2024-02-02
-source-url: https://www.scoop.co.nz/stories/ED2402/S00002/school-lunches-essential-but-reinvest-any-savings-into-education.htm
+title: School Lunches Essential But Reinvest Any Savings Into Education
+date: 2024-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2402/S00002/school-lunches-essential-but-reinvest-any-savings-into-education.htm
 author: nzei
+permalink: >-
+  /archive/2024/02/02/school-lunches-essential-but-reinvest-any-savings-into-education/index.html
+layout: layout.njk
 ---
 School Lunches Essential But Reinvest Any Savings Into Education
 ================================================================

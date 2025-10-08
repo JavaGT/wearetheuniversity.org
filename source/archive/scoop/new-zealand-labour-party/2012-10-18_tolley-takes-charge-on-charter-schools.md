@@ -1,9 +1,12 @@
 ---
 slug: tolley-takes-charge-on-charter-schools
-title: "Tolley takes charge on charter schools"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/PA1210/S00339/tolley-takes-charge-on-charter-schools.htm
+title: Tolley takes charge on charter schools
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00339/tolley-takes-charge-on-charter-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/18/tolley-takes-charge-on-charter-schools/index.html
+layout: layout.njk
 ---
 Tolley takes charge on charter schools
 ======================================

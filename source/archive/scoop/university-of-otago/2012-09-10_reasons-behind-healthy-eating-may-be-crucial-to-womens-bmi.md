@@ -1,9 +1,13 @@
 ---
 slug: reasons-behind-healthy-eating-may-be-crucial-to-womens-bmi
-title: "Reasons behind healthy eating may be crucial to women’s BMI"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/GE1209/S00041/reasons-behind-healthy-eating-may-be-crucial-to-womens-bmi.htm
+title: Reasons behind healthy eating may be crucial to women’s BMI
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1209/S00041/reasons-behind-healthy-eating-may-be-crucial-to-womens-bmi.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/09/10/reasons-behind-healthy-eating-may-be-crucial-to-womens-bmi/index.html
+layout: layout.njk
 ---
 Reasons behind healthy eating may be crucial to women’s BMI
 ===========================================================

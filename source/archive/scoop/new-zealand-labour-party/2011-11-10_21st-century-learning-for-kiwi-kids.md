@@ -1,9 +1,12 @@
 ---
 slug: 21st-century-learning-for-kiwi-kids
-title: "21st Century learning for Kiwi kids"
-date: 2011-11-10
-source-url: https://www.scoop.co.nz/stories/PA1111/S00202/21st-century-learning-for-kiwi-kids.htm
+title: 21st Century learning for Kiwi kids
+date: 2011-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00202/21st-century-learning-for-kiwi-kids.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/10/21st-century-learning-for-kiwi-kids/index.html
+layout: layout.njk
 ---
 21st Century learning for Kiwi kids
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-version-of-know-nothingism
-title: "New Zealand’s Version of ‘Know Nothingism’"
-date: 2023-05-28
-source-url: https://www.scoop.co.nz/stories/PO2305/S00201/new-zealands-version-of-know-nothingism.htm
+title: New Zealand’s Version of ‘Know Nothingism’
+date: 2023-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2305/S00201/new-zealands-version-of-know-nothingism.htm
 author: new-zealand-first-party
+permalink: /archive/2023/05/28/new-zealands-version-of-know-nothingism/index.html
+layout: layout.njk
 ---
 New Zealand’s Version of ‘Know Nothingism’
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: 30-reasonable-amendments-to-vsm-voted-down-by-national
-title: "30 reasonable amendments to VSM voted down by National"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PO1109/S00426/30-reasonable-amendments-to-vsm-voted-down-by-national.htm
+title: 30 reasonable amendments to VSM voted down by National
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00426/30-reasonable-amendments-to-vsm-voted-down-by-national.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/09/28/30-reasonable-amendments-to-vsm-voted-down-by-national/index.html
+layout: layout.njk
 ---
 30 reasonable amendments to VSM voted down by National
 ======================================================

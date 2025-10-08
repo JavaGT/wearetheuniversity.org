@@ -1,9 +1,12 @@
 ---
 slug: instant-kiwis-supported-for-life
-title: "Instant Kiwis Supported For Life"
-date: 2003-09-05
-source-url: https://www.scoop.co.nz/stories/PA0309/S00110/instant-kiwis-supported-for-life.htm
+title: Instant Kiwis Supported For Life
+date: 2003-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00110/instant-kiwis-supported-for-life.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/05/instant-kiwis-supported-for-life/index.html
+layout: layout.njk
 ---
 Instant Kiwis Supported For Life
 ================================

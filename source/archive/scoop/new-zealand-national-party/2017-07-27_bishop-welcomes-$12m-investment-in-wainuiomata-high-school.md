@@ -1,9 +1,12 @@
 ---
 slug: bishop-welcomes-$12m-investment-in-wainuiomata-high-school
-title: "Bishop welcomes $12m investment in Wainuiomata High School"
-date: 2017-07-27
-source-url: https://www.scoop.co.nz/stories/PA1707/S00410/bishop-welcomes-12m-investment-in-wainuiomata-high-school.htm
+title: Bishop welcomes $12m investment in Wainuiomata High School
+date: 2017-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00410/bishop-welcomes-12m-investment-in-wainuiomata-high-school.htm
 author: new-zealand-national-party
+permalink: /archive/2017/07/27/bishop-welcomes-/index.html
+layout: layout.njk
 ---
 Bishop welcomes $12m investment in Wainuiomata High School
 ==========================================================

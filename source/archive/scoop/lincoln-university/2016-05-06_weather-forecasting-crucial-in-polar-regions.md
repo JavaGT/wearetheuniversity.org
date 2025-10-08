@@ -1,9 +1,12 @@
 ---
 slug: weather-forecasting-crucial-in-polar-regions
-title: "Weather forecasting crucial in Polar Regions"
-date: 2016-05-06
-source-url: https://www.scoop.co.nz/stories/SC1605/S00014/weather-forecasting-crucial-in-polar-regions.htm
+title: Weather forecasting crucial in Polar Regions
+date: 2016-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00014/weather-forecasting-crucial-in-polar-regions.htm
 author: lincoln-university
+permalink: /archive/2016/05/06/weather-forecasting-crucial-in-polar-regions/index.html
+layout: layout.njk
 ---
 Weather forecasting crucial in Polar Regions
 ============================================

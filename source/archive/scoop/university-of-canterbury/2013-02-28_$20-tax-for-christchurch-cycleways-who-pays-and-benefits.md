@@ -1,9 +1,13 @@
 ---
 slug: $20-tax-for-christchurch-cycleways-who-pays-and-benefits
-title: "$20 Tax For Christchurch Cycleways – Who Pays And Benefits?"
-date: 2013-02-28
-source-url: https://www.scoop.co.nz/stories/CU1302/S00706/20-tax-for-christchurch-cycleways-who-pays-and-benefits.htm
+title: $20 Tax For Christchurch Cycleways – Who Pays And Benefits?
+date: 2013-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1302/S00706/20-tax-for-christchurch-cycleways-who-pays-and-benefits.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/28/20-tax-for-christchurch-cycleways-who-pays-and-benefits/index.html
+layout: layout.njk
 ---
 $20 Tax For Christchurch Cycleways – Who Pays And Benefits?
 ===========================================================

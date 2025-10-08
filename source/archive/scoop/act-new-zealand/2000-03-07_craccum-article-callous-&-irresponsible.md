@@ -1,9 +1,12 @@
 ---
 slug: craccum-article-callous-&-irresponsible
-title: "Craccum Article Callous & Irresponsible"
-date: 2000-03-07
-source-url: https://www.scoop.co.nz/stories/PA0003/S00092/craccum-article-callous-irresponsible.htm
+title: Craccum Article Callous & Irresponsible
+date: 2000-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00092/craccum-article-callous-irresponsible.htm
 author: act-new-zealand
+permalink: /archive/2000/03/07/craccum-article-callous-/index.html
+layout: layout.njk
 ---
 Craccum Article Callous & Irresponsible
 =======================================

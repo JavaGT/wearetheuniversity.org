@@ -1,9 +1,13 @@
 ---
 slug: winston-peters-declares-war-on-mathematics-and-common-sense
-title: "Winston Peters declares war on mathematics and common sense"
-date: 2017-05-18
-source-url: https://www.scoop.co.nz/stories/PA1705/S00397/winston-peters-declares-war-on-mathematics-and-common-sense.htm
+title: Winston Peters declares war on mathematics and common sense
+date: 2017-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00397/winston-peters-declares-war-on-mathematics-and-common-sense.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/05/18/winston-peters-declares-war-on-mathematics-and-common-sense/index.html
+layout: layout.njk
 ---
 Winston Peters declares war on mathematics and common sense
 ===========================================================

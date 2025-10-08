@@ -1,9 +1,13 @@
 ---
 slug: ganges-river-dolphin-distant-cousin-of-ancient-nz-one
-title: "Ganges river dolphin distant cousin of ancient NZ one"
-date: 2015-06-02
-source-url: https://www.scoop.co.nz/stories/SC1506/S00007/ganges-river-dolphin-distant-cousin-of-ancient-nz-one.htm
+title: Ganges river dolphin distant cousin of ancient NZ one
+date: 2015-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00007/ganges-river-dolphin-distant-cousin-of-ancient-nz-one.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/06/02/ganges-river-dolphin-distant-cousin-of-ancient-nz-one/index.html
+layout: layout.njk
 ---
 Ganges river dolphin distant cousin of ancient NZ one
 =====================================================

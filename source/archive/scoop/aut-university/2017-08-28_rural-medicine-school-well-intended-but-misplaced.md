@@ -1,9 +1,13 @@
 ---
 slug: rural-medicine-school-well-intended-but-misplaced
-title: "Rural medicine school well intended but misplaced"
-date: 2017-08-28
-source-url: https://www.scoop.co.nz/stories/PO1708/S00564/rural-medicine-school-well-intended-but-misplaced.htm
+title: Rural medicine school well intended but misplaced
+date: 2017-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00564/rural-medicine-school-well-intended-but-misplaced.htm
 author: aut-university
+permalink: >-
+  /archive/2017/08/28/rural-medicine-school-well-intended-but-misplaced/index.html
+layout: layout.njk
 ---
 Rural medicine school well intended but misplaced
 =================================================

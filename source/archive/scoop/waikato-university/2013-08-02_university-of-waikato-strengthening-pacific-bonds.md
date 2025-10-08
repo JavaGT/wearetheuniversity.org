@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-strengthening-pacific-bonds
-title: "University of Waikato strengthening Pacific bonds"
-date: 2013-08-02
-source-url: https://www.scoop.co.nz/stories/ED1308/S00012/university-of-waikato-strengthening-pacific-bonds.htm
+title: University of Waikato strengthening Pacific bonds
+date: 2013-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00012/university-of-waikato-strengthening-pacific-bonds.htm
 author: waikato-university
+permalink: >-
+  /archive/2013/08/02/university-of-waikato-strengthening-pacific-bonds/index.html
+layout: layout.njk
 ---
 University of Waikato strengthening Pacific bonds
 =================================================

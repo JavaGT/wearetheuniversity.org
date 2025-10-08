@@ -1,9 +1,11 @@
 ---
 slug: cullen-doesnt-have-the-cash
-title: "Cullen doesn't have the cash"
-date: 2001-05-28
+title: Cullen doesn't have the cash
+date: 2001-05-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0105/S00591/cullen-doesnt-have-the-cash.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/28/cullen-doesnt-have-the-cash/index.html
+layout: layout.njk
 ---
 Cullen doesn't have the cash
 ============================

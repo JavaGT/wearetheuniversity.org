@@ -1,9 +1,12 @@
 ---
 slug: govt-urged-to-release-report-on-skycity-deal
-title: "Govt urged to release report on SkyCity deal"
-date: 2013-05-14
-source-url: https://www.scoop.co.nz/stories/PO1305/S00189/govt-urged-to-release-report-on-skycity-deal.htm
+title: Govt urged to release report on SkyCity deal
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00189/govt-urged-to-release-report-on-skycity-deal.htm
 author: aut-university
+permalink: /archive/2013/05/14/govt-urged-to-release-report-on-skycity-deal/index.html
+layout: layout.njk
 ---
 Govt urged to release report on SkyCity deal
 ============================================

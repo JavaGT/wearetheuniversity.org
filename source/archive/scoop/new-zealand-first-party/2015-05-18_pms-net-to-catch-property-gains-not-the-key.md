@@ -1,9 +1,12 @@
 ---
 slug: pms-net-to-catch-property-gains-not-the-key
-title: "PM’s Net to Catch Property Gains Not the Key"
-date: 2015-05-18
-source-url: https://www.scoop.co.nz/stories/PA1505/S00263/pms-net-to-catch-property-gains-not-the-key.htm
+title: PM’s Net to Catch Property Gains Not the Key
+date: 2015-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00263/pms-net-to-catch-property-gains-not-the-key.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/18/pms-net-to-catch-property-gains-not-the-key/index.html
+layout: layout.njk
 ---
 PM’s Net to Catch Property Gains Not the Key
 ============================================

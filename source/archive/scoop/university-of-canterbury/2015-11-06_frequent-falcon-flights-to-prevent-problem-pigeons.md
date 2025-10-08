@@ -1,9 +1,13 @@
 ---
 slug: frequent-falcon-flights-to-prevent-problem-pigeons
-title: "Frequent falcon flights to prevent problem pigeons"
-date: 2015-11-06
-source-url: https://www.scoop.co.nz/stories/AK1511/S00150/frequent-falcon-flights-to-prevent-problem-pigeons.htm
+title: Frequent falcon flights to prevent problem pigeons
+date: 2015-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1511/S00150/frequent-falcon-flights-to-prevent-problem-pigeons.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/11/06/frequent-falcon-flights-to-prevent-problem-pigeons/index.html
+layout: layout.njk
 ---
 Frequent falcon flights to prevent problem pigeons
 ==================================================

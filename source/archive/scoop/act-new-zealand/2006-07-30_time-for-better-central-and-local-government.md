@@ -1,9 +1,12 @@
 ---
 slug: time-for-better-central-and-local-government
-title: "Time For Better Central And Local Government"
-date: 2006-07-30
-source-url: https://www.scoop.co.nz/stories/PA0607/S00532/time-for-better-central-and-local-government.htm
+title: Time For Better Central And Local Government
+date: 2006-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00532/time-for-better-central-and-local-government.htm
 author: act-new-zealand
+permalink: /archive/2006/07/30/time-for-better-central-and-local-government/index.html
+layout: layout.njk
 ---
 Time For Better Central And Local Government
 ============================================

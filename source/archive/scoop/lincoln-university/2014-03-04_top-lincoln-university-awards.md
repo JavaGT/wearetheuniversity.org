@@ -1,9 +1,12 @@
 ---
 slug: top-lincoln-university-awards
-title: "Top Lincoln University awards"
-date: 2014-03-04
-source-url: https://www.scoop.co.nz/stories/CU1403/S00058/top-lincoln-university-awards.htm
+title: Top Lincoln University awards
+date: 2014-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1403/S00058/top-lincoln-university-awards.htm
 author: lincoln-university
+permalink: /archive/2014/03/04/top-lincoln-university-awards/index.html
+layout: layout.njk
 ---
 Top Lincoln University awards
 =============================

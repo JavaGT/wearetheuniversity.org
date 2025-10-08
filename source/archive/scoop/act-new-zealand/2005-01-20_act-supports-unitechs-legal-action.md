@@ -1,9 +1,12 @@
 ---
 slug: act-supports-unitechs-legal-action
-title: "ACT supports Unitech's legal action"
-date: 2005-01-20
-source-url: https://www.scoop.co.nz/stories/PA0501/S00162/act-supports-unitechs-legal-action.htm
+title: ACT supports Unitech's legal action
+date: 2005-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00162/act-supports-unitechs-legal-action.htm
 author: act-new-zealand
+permalink: /archive/2005/01/20/act-supports-unitechs-legal-action/index.html
+layout: layout.njk
 ---
 ACT supports Unitech's legal action
 ===================================

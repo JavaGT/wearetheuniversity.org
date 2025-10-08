@@ -1,9 +1,13 @@
 ---
 slug: educating-children-of-the-information-age-cafe-scientifique
-title: "Educating children of the information age: Cafe Scientifique"
-date: 2011-09-21
-source-url: https://www.scoop.co.nz/stories/ED1109/S00089/educating-children-of-the-information-age-cafe-scientifique.htm
+title: 'Educating children of the information age: Cafe Scientifique'
+date: 2011-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00089/educating-children-of-the-information-age-cafe-scientifique.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/09/21/educating-children-of-the-information-age-cafe-scientifique/index.html
+layout: layout.njk
 ---
 Educating children of the information age: Cafe Scientifique
 ============================================================

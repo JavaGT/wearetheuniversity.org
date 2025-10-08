@@ -1,9 +1,11 @@
 ---
 slug: kerr-maori-and-business
-title: "Kerr:  Maori And Business"
-date: 2004-10-28
+title: 'Kerr:  Maori And Business'
+date: 2004-10-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0410/S00354/kerr-maori-and-business.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/10/28/kerr-maori-and-business/index.html
+layout: layout.njk
 ---
 Kerr: Maori And Business
 ========================

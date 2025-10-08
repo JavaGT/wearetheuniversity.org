@@ -1,9 +1,13 @@
 ---
 slug: nz-authorities-ignoring-the-experts-on-health-risk-report
-title: "NZ authorities ignoring the experts on health risk - report"
-date: 2017-07-27
-source-url: https://www.scoop.co.nz/stories/PA1707/S00420/nz-authorities-ignoring-the-experts-on-health-risk-report.htm
+title: NZ authorities ignoring the experts on health risk - report
+date: 2017-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00420/nz-authorities-ignoring-the-experts-on-health-risk-report.htm
 author: green-party
+permalink: >-
+  /archive/2017/07/27/nz-authorities-ignoring-the-experts-on-health-risk-report/index.html
+layout: layout.njk
 ---
 NZ authorities ignoring the experts on health risk - report
 ===========================================================

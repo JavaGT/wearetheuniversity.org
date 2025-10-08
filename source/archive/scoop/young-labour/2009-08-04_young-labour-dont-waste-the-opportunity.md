@@ -1,9 +1,12 @@
 ---
 slug: young-labour-dont-waste-the-opportunity
-title: "Young Labour: Don’t Waste the Opportunity"
-date: 2009-08-04
-source-url: https://www.scoop.co.nz/stories/PO0908/S00038/young-labour-dont-waste-the-opportunity.htm
+title: 'Young Labour: Don’t Waste the Opportunity'
+date: 2009-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00038/young-labour-dont-waste-the-opportunity.htm
 author: young-labour
+permalink: /archive/2009/08/04/young-labour-dont-waste-the-opportunity/index.html
+layout: layout.njk
 ---
 Young Labour: Don’t Waste the Opportunity
 =========================================

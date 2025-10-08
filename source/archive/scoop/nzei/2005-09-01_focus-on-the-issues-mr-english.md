@@ -1,9 +1,12 @@
 ---
 slug: focus-on-the-issues-mr-english
-title: "Focus On The Issues Mr English"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/ED0509/S00005/focus-on-the-issues-mr-english.htm
+title: Focus On The Issues Mr English
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00005/focus-on-the-issues-mr-english.htm
 author: nzei
+permalink: /archive/2005/09/01/focus-on-the-issues-mr-english/index.html
+layout: layout.njk
 ---
 Focus On The Issues Mr English
 ==============================

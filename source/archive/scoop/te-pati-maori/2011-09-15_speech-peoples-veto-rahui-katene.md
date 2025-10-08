@@ -1,9 +1,12 @@
 ---
 slug: speech-peoples-veto-rahui-katene
-title: "Speech: People's veto- Rahui Katene"
-date: 2011-09-15
-source-url: https://www.scoop.co.nz/stories/PA1109/S00293/speech-peoples-veto-rahui-katene.htm
+title: 'Speech: People''s veto- Rahui Katene'
+date: 2011-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00293/speech-peoples-veto-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2011/09/15/speech-peoples-veto-rahui-katene/index.html
+layout: layout.njk
 ---
 Speech: People's veto- Rahui Katene
 ===================================

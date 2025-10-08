@@ -1,9 +1,12 @@
 ---
 slug: statutes-containing-principles-of-the-treaty
-title: "Statutes Containing \"Principles\" of the Treaty"
-date: 2005-08-29
-source-url: https://www.scoop.co.nz/stories/PA0508/S00744/statutes-containing-principles-of-the-treaty.htm
+title: Statutes Containing "Principles" of the Treaty
+date: 2005-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00744/statutes-containing-principles-of-the-treaty.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/29/statutes-containing-principles-of-the-treaty/index.html
+layout: layout.njk
 ---
 Statutes Containing “Principles” of the Treaty
 ==============================================

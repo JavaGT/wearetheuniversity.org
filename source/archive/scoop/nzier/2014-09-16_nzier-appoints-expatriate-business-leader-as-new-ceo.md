@@ -1,9 +1,13 @@
 ---
 slug: nzier-appoints-expatriate-business-leader-as-new-ceo
-title: "NZIER appoints expatriate business leader as new CEO"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/BU1409/S00551/nzier-appoints-expatriate-business-leader-as-new-ceo.htm
+title: NZIER appoints expatriate business leader as new CEO
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1409/S00551/nzier-appoints-expatriate-business-leader-as-new-ceo.htm
 author: nzier
+permalink: >-
+  /archive/2014/09/16/nzier-appoints-expatriate-business-leader-as-new-ceo/index.html
+layout: layout.njk
 ---
 NZIER appoints expatriate business leader as new CEO
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: geraldine-student-replaces-green-mp
-title: "Geraldine student replaces Green MP"
-date: 2004-06-18
-source-url: https://www.scoop.co.nz/stories/PA0406/S00279/geraldine-student-replaces-green-mp.htm
+title: Geraldine student replaces Green MP
+date: 2004-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00279/geraldine-student-replaces-green-mp.htm
 author: green-party
+permalink: /archive/2004/06/18/geraldine-student-replaces-green-mp/index.html
+layout: layout.njk
 ---
 Geraldine student replaces Green MP
 ===================================

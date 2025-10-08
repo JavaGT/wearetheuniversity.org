@@ -1,9 +1,12 @@
 ---
 slug: oil-and-gas-ban-clearly-short-sighted
-title: "Oil And Gas Ban Clearly Short-sighted"
-date: 2021-01-22
-source-url: https://www.scoop.co.nz/stories/PA2101/S00059/oil-and-gas-ban-clearly-short-sighted.htm
+title: Oil And Gas Ban Clearly Short-sighted
+date: 2021-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00059/oil-and-gas-ban-clearly-short-sighted.htm
 author: new-zealand-national-party
+permalink: /archive/2021/01/22/oil-and-gas-ban-clearly-short-sighted/index.html
+layout: layout.njk
 ---
 Oil And Gas Ban Clearly Short-sighted
 =====================================

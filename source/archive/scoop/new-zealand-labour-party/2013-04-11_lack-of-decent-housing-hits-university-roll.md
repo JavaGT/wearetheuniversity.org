@@ -1,9 +1,12 @@
 ---
 slug: lack-of-decent-housing-hits-university-roll
-title: "Lack Of Decent Housing Hits University Roll"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/PA1304/S00188/lack-of-decent-housing-hits-university-roll.htm
+title: Lack Of Decent Housing Hits University Roll
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00188/lack-of-decent-housing-hits-university-roll.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/11/lack-of-decent-housing-hits-university-roll/index.html
+layout: layout.njk
 ---
 Lack Of Decent Housing Hits University Roll
 ===========================================

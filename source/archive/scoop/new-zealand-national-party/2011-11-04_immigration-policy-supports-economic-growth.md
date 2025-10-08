@@ -1,9 +1,12 @@
 ---
 slug: immigration-policy-supports-economic-growth
-title: "Immigration policy supports economic growth"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/PA1111/S00088/immigration-policy-supports-economic-growth.htm
+title: Immigration policy supports economic growth
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00088/immigration-policy-supports-economic-growth.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/04/immigration-policy-supports-economic-growth/index.html
+layout: layout.njk
 ---
 Immigration policy supports economic growth
 ===========================================

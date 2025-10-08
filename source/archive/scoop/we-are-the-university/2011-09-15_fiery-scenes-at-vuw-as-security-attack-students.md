@@ -1,9 +1,12 @@
 ---
 slug: fiery-scenes-at-vuw-as-security-attack-students
-title: "Fiery Scenes at VUW as Security Attack Students"
-date: 2011-09-15
-source-url: https://www.scoop.co.nz/stories/ED1109/S00057/fiery-scenes-at-vuw-as-security-attack-students.htm
+title: Fiery Scenes at VUW as Security Attack Students
+date: 2011-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00057/fiery-scenes-at-vuw-as-security-attack-students.htm
 author: we-are-the-university
+permalink: /archive/2011/09/15/fiery-scenes-at-vuw-as-security-attack-students/index.html
+layout: layout.njk
 ---
 Fiery Scenes at VUW as Security Attack Students
 ===============================================

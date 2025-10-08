@@ -1,9 +1,11 @@
 ---
 slug: unemployment-still-too-high
-title: "Unemployment still too high"
-date: 2012-02-09
+title: Unemployment still too high
+date: 2012-02-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1202/S00083/unemployment-still-too-high.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/02/09/unemployment-still-too-high/index.html
+layout: layout.njk
 ---
 Unemployment still too high
 ===========================

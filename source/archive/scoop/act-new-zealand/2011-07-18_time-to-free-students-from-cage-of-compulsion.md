@@ -1,9 +1,12 @@
 ---
 slug: time-to-free-students-from-cage-of-compulsion
-title: "Time to Free Students from Cage of Compulsion"
-date: 2011-07-18
-source-url: https://www.scoop.co.nz/stories/PA1107/S00308/time-to-free-students-from-cage-of-compulsion.htm
+title: Time to Free Students from Cage of Compulsion
+date: 2011-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00308/time-to-free-students-from-cage-of-compulsion.htm
 author: act-new-zealand
+permalink: /archive/2011/07/18/time-to-free-students-from-cage-of-compulsion/index.html
+layout: layout.njk
 ---
 Time to Free Students from Cage of Compulsion
 =============================================

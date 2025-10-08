@@ -1,9 +1,12 @@
 ---
 slug: understanding-life-on-the-ice
-title: "Understanding life on the ice"
-date: 2011-07-01
-source-url: https://www.scoop.co.nz/stories/SC1107/S00001/understanding-life-on-the-ice.htm
+title: Understanding life on the ice
+date: 2011-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00001/understanding-life-on-the-ice.htm
 author: university-of-waikato
+permalink: /archive/2011/07/01/understanding-life-on-the-ice/index.html
+layout: layout.njk
 ---
 Understanding life on the ice
 =============================

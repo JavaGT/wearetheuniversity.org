@@ -1,9 +1,12 @@
 ---
 slug: condolences-for-family-of-slain-officer
-title: "Condolences for family of slain officer"
-date: 2010-05-17
-source-url: https://www.scoop.co.nz/stories/PA1005/S00229/condolences-for-family-of-slain-officer.htm
+title: Condolences for family of slain officer
+date: 2010-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00229/condolences-for-family-of-slain-officer.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/17/condolences-for-family-of-slain-officer/index.html
+layout: layout.njk
 ---
 Condolences for family of slain officer
 =======================================

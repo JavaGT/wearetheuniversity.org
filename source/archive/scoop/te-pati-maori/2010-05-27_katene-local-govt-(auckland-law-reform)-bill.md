@@ -1,9 +1,12 @@
 ---
 slug: katene-local-govt-(auckland-law-reform)-bill
-title: "Katene: Local Govt (Auckland Law Reform) Bill"
-date: 2010-05-27
-source-url: https://www.scoop.co.nz/stories/PA1005/S00473/katene-local-govt-auckland-law-reform-bill.htm
+title: 'Katene: Local Govt (Auckland Law Reform) Bill'
+date: 2010-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00473/katene-local-govt-auckland-law-reform-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/05/27/katene-local-govt-/index.html
+layout: layout.njk
 ---
 Katene: Local Govt (Auckland Law Reform) Bill
 =============================================

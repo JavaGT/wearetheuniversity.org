@@ -1,9 +1,12 @@
 ---
 slug: parents-lose-their-voice-at-schools
-title: "Parents Lose Their Voice at Schools"
-date: 2016-08-24
-source-url: https://www.scoop.co.nz/stories/PA1608/S00433/parents-lose-their-voice-at-schools.htm
+title: Parents Lose Their Voice at Schools
+date: 2016-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00433/parents-lose-their-voice-at-schools.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/24/parents-lose-their-voice-at-schools/index.html
+layout: layout.njk
 ---
 Parents Lose Their Voice at Schools
 ===================================

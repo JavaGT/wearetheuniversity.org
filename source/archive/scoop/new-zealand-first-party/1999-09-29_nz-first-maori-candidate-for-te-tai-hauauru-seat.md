@@ -1,9 +1,13 @@
 ---
 slug: nz-first-maori-candidate-for-te-tai-hauauru-seat
-title: "NZ First Maori Candidate For Te Tai Hauauru Seat"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/PA9909/S00609/nz-first-maori-candidate-for-te-tai-hauauru-seat.htm
+title: NZ First Maori Candidate For Te Tai Hauauru Seat
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00609/nz-first-maori-candidate-for-te-tai-hauauru-seat.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/1999/09/29/nz-first-maori-candidate-for-te-tai-hauauru-seat/index.html
+layout: layout.njk
 ---
 NZ First Maori Candidate For Te Tai Hauauru Seat
 ================================================

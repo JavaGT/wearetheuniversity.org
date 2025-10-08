@@ -1,9 +1,13 @@
 ---
 slug: confronting-child-abuse-too-hard-for-benson-pope
-title: "Confronting child abuse 'too hard' for Benson-Pope"
-date: 2006-02-21
-source-url: https://www.scoop.co.nz/stories/PA0602/S00305/confronting-child-abuse-too-hard-for-benson-pope.htm
+title: Confronting child abuse 'too hard' for Benson-Pope
+date: 2006-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00305/confronting-child-abuse-too-hard-for-benson-pope.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/02/21/confronting-child-abuse-too-hard-for-benson-pope/index.html
+layout: layout.njk
 ---
 Confronting child abuse 'too hard' for Benson-Pope
 ==================================================

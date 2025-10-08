@@ -1,9 +1,12 @@
 ---
 slug: shiny-new-system-leads-to-record-truancy
-title: "Shiny new system leads to record truancy"
-date: 2015-08-21
-source-url: https://www.scoop.co.nz/stories/PA1508/S00363/shiny-new-system-leads-to-record-truancy.htm
+title: Shiny new system leads to record truancy
+date: 2015-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00363/shiny-new-system-leads-to-record-truancy.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/21/shiny-new-system-leads-to-record-truancy/index.html
+layout: layout.njk
 ---
 Shiny new system leads to record truancy
 ========================================

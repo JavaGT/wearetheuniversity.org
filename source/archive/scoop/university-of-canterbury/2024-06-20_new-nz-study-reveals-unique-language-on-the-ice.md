@@ -1,9 +1,12 @@
 ---
 slug: new-nz-study-reveals-unique-language-on-the-ice
-title: "New NZ Study Reveals Unique Language On The Ice"
-date: 2024-06-20
-source-url: https://www.scoop.co.nz/stories/ED2406/S00050/new-nz-study-reveals-unique-language-on-the-ice.htm
+title: New NZ Study Reveals Unique Language On The Ice
+date: 2024-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00050/new-nz-study-reveals-unique-language-on-the-ice.htm
 author: university-of-canterbury
+permalink: /archive/2024/06/20/new-nz-study-reveals-unique-language-on-the-ice/index.html
+layout: layout.njk
 ---
 New NZ Study Reveals Unique Language On The Ice
 ===============================================

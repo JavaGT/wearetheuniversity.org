@@ -1,9 +1,13 @@
 ---
 slug: advert-highlights-indian-student-rip-off-commonplace
-title: "Advert Highlights Indian Student Rip Off Commonplace"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/PA1610/S00403/advert-highlights-indian-student-rip-off-commonplace.htm
+title: Advert Highlights Indian Student Rip Off Commonplace
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00403/advert-highlights-indian-student-rip-off-commonplace.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/10/26/advert-highlights-indian-student-rip-off-commonplace/index.html
+layout: layout.njk
 ---
 Advert Highlights Indian Student Rip Off Commonplace
 ====================================================

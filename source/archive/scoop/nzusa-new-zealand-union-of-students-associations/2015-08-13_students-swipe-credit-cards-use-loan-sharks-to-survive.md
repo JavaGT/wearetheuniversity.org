@@ -1,9 +1,13 @@
 ---
 slug: students-swipe-credit-cards-use-loan-sharks-to-survive
-title: "Students swipe credit cards, use loan sharks to survive"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/ED1508/S00053/students-swipe-credit-cards-use-loan-sharks-to-survive.htm
+title: Students swipe credit cards, use loan sharks to survive
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00053/students-swipe-credit-cards-use-loan-sharks-to-survive.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/08/13/students-swipe-credit-cards-use-loan-sharks-to-survive/index.html
+layout: layout.njk
 ---
 Students swipe credit cards, use loan sharks to survive
 =======================================================

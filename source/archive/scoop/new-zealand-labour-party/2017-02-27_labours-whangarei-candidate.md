@@ -1,9 +1,11 @@
 ---
 slug: labours-whangarei-candidate
-title: "Labour’s Whangarei Candidate"
-date: 2017-02-27
+title: Labour’s Whangarei Candidate
+date: 2017-02-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1702/S00301/labours-whangarei-candidate.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/27/labours-whangarei-candidate/index.html
+layout: layout.njk
 ---
 Labour’s Whangarei Candidate
 ============================

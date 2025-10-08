@@ -1,9 +1,12 @@
 ---
 slug: plodder¡¦s-budget-on-the-road-to-nowhere
-title: "Plodder¡¦s Budget : On the Road to Nowhere"
-date: 2001-05-22
-source-url: https://www.scoop.co.nz/stories/PA0105/S00451/plodders-budget-on-the-road-to-nowhere.htm
+title: 'Plodder¡¦s Budget : On the Road to Nowhere'
+date: 2001-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00451/plodders-budget-on-the-road-to-nowhere.htm
 author: act-new-zealand
+permalink: /archive/2001/05/22/plodder/index.html
+layout: layout.njk
 ---
 Plodder¡¦s Budget : On the Road to Nowhere
 ==========================================

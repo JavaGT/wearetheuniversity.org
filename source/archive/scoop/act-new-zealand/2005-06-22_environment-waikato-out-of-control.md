@@ -1,9 +1,12 @@
 ---
 slug: environment-waikato-out-of-control
-title: "Environment Waikato out of control"
-date: 2005-06-22
-source-url: https://www.scoop.co.nz/stories/PA0506/S00523/environment-waikato-out-of-control.htm
+title: Environment Waikato out of control
+date: 2005-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00523/environment-waikato-out-of-control.htm
 author: act-new-zealand
+permalink: /archive/2005/06/22/environment-waikato-out-of-control/index.html
+layout: layout.njk
 ---
 Environment Waikato out of control
 ==================================

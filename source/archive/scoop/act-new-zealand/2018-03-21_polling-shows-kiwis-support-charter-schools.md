@@ -1,9 +1,12 @@
 ---
 slug: polling-shows-kiwis-support-charter-schools
-title: "Polling shows Kiwis support charter schools"
-date: 2018-03-21
-source-url: https://www.scoop.co.nz/stories/PA1803/S00224/polling-shows-kiwis-support-charter-schools.htm
+title: Polling shows Kiwis support charter schools
+date: 2018-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00224/polling-shows-kiwis-support-charter-schools.htm
 author: act-new-zealand
+permalink: /archive/2018/03/21/polling-shows-kiwis-support-charter-schools/index.html
+layout: layout.njk
 ---
 Polling shows Kiwis support charter schools
 ===========================================

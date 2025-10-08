@@ -1,9 +1,12 @@
 ---
 slug: day-of-shame-for-nelson-says-maori-party
-title: "Day of shame for Nelson says Maori Party"
-date: 2009-12-11
-source-url: https://www.scoop.co.nz/stories/PA0912/S00205/day-of-shame-for-nelson-says-maori-party.htm
+title: Day of shame for Nelson says Maori Party
+date: 2009-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00205/day-of-shame-for-nelson-says-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2009/12/11/day-of-shame-for-nelson-says-maori-party/index.html
+layout: layout.njk
 ---
 Day of shame for Nelson says Maori Party
 ========================================

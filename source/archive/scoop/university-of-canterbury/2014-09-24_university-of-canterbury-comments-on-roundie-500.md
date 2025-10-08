@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-comments-on-roundie-500
-title: "University of Canterbury comments on Roundie 500"
-date: 2014-09-24
-source-url: https://www.scoop.co.nz/stories/AK1409/S00555/university-of-canterbury-comments-on-roundie-500.htm
+title: University of Canterbury comments on Roundie 500
+date: 2014-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1409/S00555/university-of-canterbury-comments-on-roundie-500.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/24/university-of-canterbury-comments-on-roundie-500/index.html
+layout: layout.njk
 ---
 University of Canterbury comments on Roundie 500
 ================================================

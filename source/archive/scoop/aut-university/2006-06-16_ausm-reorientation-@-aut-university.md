@@ -1,9 +1,12 @@
 ---
 slug: ausm-reorientation-@-aut-university
-title: "AUsM Reorientation @ Aut University"
-date: 2006-06-16
-source-url: https://www.scoop.co.nz/stories/AK0606/S00179/ausm-reorientation-aut-university.htm
+title: AUsM Reorientation @ Aut University
+date: 2006-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0606/S00179/ausm-reorientation-aut-university.htm
 author: aut-university
+permalink: /archive/2006/06/16/ausm-reorientation-/index.html
+layout: layout.njk
 ---
 AUsM Reorientation @ Aut University
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: perspectives-no-476-july-2011
-title: "Perspectives: No. 476, July 2011"
-date: 2011-07-27
-source-url: https://www.scoop.co.nz/stories/BU1107/S00826/perspectives-no-476-july-2011.htm
+title: 'Perspectives: No. 476, July 2011'
+date: 2011-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1107/S00826/perspectives-no-476-july-2011.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/07/27/perspectives-no-476-july-2011/index.html
+layout: layout.njk
 ---
 Perspectives: No. 476, July 2011
 ================================

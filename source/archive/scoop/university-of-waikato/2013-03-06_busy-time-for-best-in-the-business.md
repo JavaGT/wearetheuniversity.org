@@ -1,9 +1,12 @@
 ---
 slug: busy-time-for-best-in-the-business
-title: "Busy time for best in the business"
-date: 2013-03-06
-source-url: https://www.scoop.co.nz/stories/CU1303/S00117/busy-time-for-best-in-the-business.htm
+title: Busy time for best in the business
+date: 2013-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1303/S00117/busy-time-for-best-in-the-business.htm
 author: university-of-waikato
+permalink: /archive/2013/03/06/busy-time-for-best-in-the-business/index.html
+layout: layout.njk
 ---
 Busy time for best in the business
 ==================================

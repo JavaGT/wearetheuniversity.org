@@ -1,9 +1,11 @@
 ---
 slug: foreshore-and-seabed-bill
-title: "Foreshore and Seabed Bill"
-date: 2004-05-06
+title: Foreshore and Seabed Bill
+date: 2004-05-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00111/foreshore-and-seabed-bill.htm
 author: green-party
+permalink: /archive/2004/05/06/foreshore-and-seabed-bill/index.html
+layout: layout.njk
 ---
 Foreshore and Seabed Bill
 =========================

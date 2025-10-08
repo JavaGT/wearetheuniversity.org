@@ -1,9 +1,12 @@
 ---
 slug: ousa-can-dish-it-out-but-they-cant-take-it
-title: "OUSA can dish it out but they can't take it"
-date: 1999-09-19
-source-url: https://www.scoop.co.nz/stories/PO9909/S00085/ousa-can-dish-it-out-but-they-cant-take-it.htm
+title: OUSA can dish it out but they can't take it
+date: 1999-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00085/ousa-can-dish-it-out-but-they-cant-take-it.htm
 author: prebble-s-rebels
+permalink: /archive/1999/09/19/ousa-can-dish-it-out-but-they-cant-take-it/index.html
+layout: layout.njk
 ---
 OUSA can dish it out but they can't take it
 ===========================================

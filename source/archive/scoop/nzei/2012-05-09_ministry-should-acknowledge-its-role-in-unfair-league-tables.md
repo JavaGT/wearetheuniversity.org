@@ -1,9 +1,13 @@
 ---
 slug: ministry-should-acknowledge-its-role-in-unfair-league-tables
-title: "Ministry should acknowledge its role in unfair League Tables"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/ED1205/S00037/ministry-should-acknowledge-its-role-in-unfair-league-tables.htm
+title: Ministry should acknowledge its role in unfair League Tables
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00037/ministry-should-acknowledge-its-role-in-unfair-league-tables.htm
 author: nzei
+permalink: >-
+  /archive/2012/05/09/ministry-should-acknowledge-its-role-in-unfair-league-tables/index.html
+layout: layout.njk
 ---
 Ministry should acknowledge its role in unfair League Tables
 ============================================================

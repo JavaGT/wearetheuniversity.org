@@ -1,8 +1,11 @@
 ---
 slug: art-student-wins-photography-award-using-iphone
-title: "Art student wins photography award using iphone"
-date: 2016-05-25
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/art-student-wins-photography-award-using-iphone.html
+title: Art student wins photography award using iphone
+date: 2016-05-25T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/art-student-wins-photography-award-using-iphone.html
+permalink: /archive/2016/05/25/art-student-wins-photography-award-using-iphone/index.html
+layout: layout.njk
 ---
 Art student wins photography award using iphone
 ===============================================

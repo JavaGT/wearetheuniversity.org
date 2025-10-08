@@ -1,9 +1,13 @@
 ---
 slug: rugby-sevens-must-use-olympics-inclusion-to-grow-the-game
-title: "Rugby Sevens Must Use Olympics Inclusion to Grow the Game"
-date: 2013-01-31
-source-url: https://www.scoop.co.nz/stories/PA1301/S00193/rugby-sevens-must-use-olympics-inclusion-to-grow-the-game.htm
+title: Rugby Sevens Must Use Olympics Inclusion to Grow the Game
+date: 2013-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00193/rugby-sevens-must-use-olympics-inclusion-to-grow-the-game.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/01/31/rugby-sevens-must-use-olympics-inclusion-to-grow-the-game/index.html
+layout: layout.njk
 ---
 Rugby Sevens Must Use Olympics Inclusion to Grow the Game
 =========================================================

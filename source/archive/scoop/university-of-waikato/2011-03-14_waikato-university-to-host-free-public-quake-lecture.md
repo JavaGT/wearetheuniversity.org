@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-to-host-free-public-quake-lecture
-title: "Waikato University to Host Free Public Quake Lecture"
-date: 2011-03-14
-source-url: https://www.scoop.co.nz/stories/ED1103/S00062/waikato-university-to-host-free-public-quake-lecture.htm
+title: Waikato University to Host Free Public Quake Lecture
+date: 2011-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00062/waikato-university-to-host-free-public-quake-lecture.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/03/14/waikato-university-to-host-free-public-quake-lecture/index.html
+layout: layout.njk
 ---
 Waikato University to Host Free Public Quake Lecture
 ====================================================

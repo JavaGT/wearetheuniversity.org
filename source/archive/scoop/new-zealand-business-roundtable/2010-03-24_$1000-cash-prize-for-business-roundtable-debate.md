@@ -1,9 +1,12 @@
 ---
 slug: $1000-cash-prize-for-business-roundtable-debate
-title: "$1000 cash prize for Business Roundtable debate"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/BU1003/S00663/1000-cash-prize-for-business-roundtable-debate.htm
+title: $1000 cash prize for Business Roundtable debate
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1003/S00663/1000-cash-prize-for-business-roundtable-debate.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/03/24/1000-cash-prize-for-business-roundtable-debate/index.html
+layout: layout.njk
 ---
 $1000 cash prize for Business Roundtable debate
 ===============================================

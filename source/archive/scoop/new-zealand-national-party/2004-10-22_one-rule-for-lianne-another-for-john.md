@@ -1,9 +1,12 @@
 ---
 slug: one-rule-for-lianne-another-for-john
-title: "One rule for Lianne another for John"
-date: 2004-10-22
-source-url: https://www.scoop.co.nz/stories/PA0410/S00397/one-rule-for-lianne-another-for-john.htm
+title: One rule for Lianne another for John
+date: 2004-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00397/one-rule-for-lianne-another-for-john.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/22/one-rule-for-lianne-another-for-john/index.html
+layout: layout.njk
 ---
 One rule for Lianne another for John
 ====================================

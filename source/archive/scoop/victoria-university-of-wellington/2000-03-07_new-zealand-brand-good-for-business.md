@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-brand-good-for-business
-title: "New Zealand Brand Good For Business"
-date: 2000-03-07
-source-url: https://www.scoop.co.nz/stories/ED0003/S00009/new-zealand-brand-good-for-business.htm
+title: New Zealand Brand Good For Business
+date: 2000-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00009/new-zealand-brand-good-for-business.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/03/07/new-zealand-brand-good-for-business/index.html
+layout: layout.njk
 ---
 New Zealand Brand Good For Business
 ===================================

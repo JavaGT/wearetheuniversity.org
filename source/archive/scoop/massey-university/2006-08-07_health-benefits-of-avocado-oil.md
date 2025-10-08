@@ -1,9 +1,12 @@
 ---
 slug: health-benefits-of-avocado-oil
-title: "Health benefits of avocado oil"
-date: 2006-08-07
-source-url: https://www.scoop.co.nz/stories/GE0608/S00018/health-benefits-of-avocado-oil.htm
+title: Health benefits of avocado oil
+date: 2006-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0608/S00018/health-benefits-of-avocado-oil.htm
 author: massey-university
+permalink: /archive/2006/08/07/health-benefits-of-avocado-oil/index.html
+layout: layout.njk
 ---
 Health benefits of avocado oil
 ==============================

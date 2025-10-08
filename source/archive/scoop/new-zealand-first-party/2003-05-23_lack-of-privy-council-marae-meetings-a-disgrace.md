@@ -1,9 +1,12 @@
 ---
 slug: lack-of-privy-council-marae-meetings-a-disgrace
-title: "Lack Of Privy Council Marae Meetings A Disgrace"
-date: 2003-05-23
-source-url: https://www.scoop.co.nz/stories/PA0305/S00602/lack-of-privy-council-marae-meetings-a-disgrace.htm
+title: Lack Of Privy Council Marae Meetings A Disgrace
+date: 2003-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00602/lack-of-privy-council-marae-meetings-a-disgrace.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/23/lack-of-privy-council-marae-meetings-a-disgrace/index.html
+layout: layout.njk
 ---
 Lack Of Privy Council Marae Meetings A Disgrace
 ===============================================

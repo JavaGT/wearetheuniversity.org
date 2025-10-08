@@ -1,9 +1,12 @@
 ---
 slug: alcohol-arrests-welcomed-by-labour
-title: "Alcohol arrests welcomed by Labour"
-date: 2014-01-14
-source-url: https://www.scoop.co.nz/stories/PA1401/S00040/alcohol-arrests-welcomed-by-labour.htm
+title: Alcohol arrests welcomed by Labour
+date: 2014-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00040/alcohol-arrests-welcomed-by-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/01/14/alcohol-arrests-welcomed-by-labour/index.html
+layout: layout.njk
 ---
 Alcohol arrests welcomed by Labour
 ==================================

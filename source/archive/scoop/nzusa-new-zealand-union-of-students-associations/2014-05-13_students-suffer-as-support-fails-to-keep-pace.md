@@ -1,9 +1,12 @@
 ---
 slug: students-suffer-as-support-fails-to-keep-pace
-title: "Students Suffer As Support Fails to Keep Pace"
-date: 2014-05-13
-source-url: https://www.scoop.co.nz/stories/PO1405/S00199/students-suffer-as-support-fails-to-keep-pace.htm
+title: Students Suffer As Support Fails to Keep Pace
+date: 2014-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00199/students-suffer-as-support-fails-to-keep-pace.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/05/13/students-suffer-as-support-fails-to-keep-pace/index.html
+layout: layout.njk
 ---
 Students Suffer As Support Fails to Keep Pace
 =============================================

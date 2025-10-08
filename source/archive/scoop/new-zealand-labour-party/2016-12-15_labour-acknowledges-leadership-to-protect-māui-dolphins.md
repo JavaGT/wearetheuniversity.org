@@ -1,9 +1,12 @@
 ---
 slug: labour-acknowledges-leadership-to-protect-māui-dolphins
-title: "Labour acknowledges leadership to protect Māui dolphins"
-date: 2016-12-15
-source-url: https://www.scoop.co.nz/stories/PA1612/S00254/labour-acknowledges-leadership-to-protect-maui-dolphins.htm
+title: Labour acknowledges leadership to protect Māui dolphins
+date: 2016-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00254/labour-acknowledges-leadership-to-protect-maui-dolphins.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/12/15/labour-acknowledges-leadership-to-protect-m/index.html
+layout: layout.njk
 ---
 Labour acknowledges leadership to protect Māui dolphins
 =======================================================

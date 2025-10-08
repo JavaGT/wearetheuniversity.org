@@ -1,9 +1,12 @@
 ---
 slug: otago-secures-$1-75m-to-develop-protein-technology
-title: "Otago secures $1.75m to develop protein technology"
-date: 2007-11-26
-source-url: https://www.scoop.co.nz/stories/SC0711/S00073/otago-secures-175m-to-develop-protein-technology.htm
+title: Otago secures $1.75m to develop protein technology
+date: 2007-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0711/S00073/otago-secures-175m-to-develop-protein-technology.htm
 author: university-of-otago
+permalink: /archive/2007/11/26/otago-secures-/index.html
+layout: layout.njk
 ---
 Otago secures $1.75m to develop protein technology
 ==================================================

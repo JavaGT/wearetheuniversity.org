@@ -1,9 +1,12 @@
 ---
 slug: bloodsuckers-with-feelings-the-new-vampire
-title: "Bloodsuckers with feelings - the new vampire"
-date: 2010-06-30
-source-url: https://www.scoop.co.nz/stories/ED1006/S00118/bloodsuckers-with-feelings-the-new-vampire.htm
+title: Bloodsuckers with feelings - the new vampire
+date: 2010-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00118/bloodsuckers-with-feelings-the-new-vampire.htm
 author: massey-university
+permalink: /archive/2010/06/30/bloodsuckers-with-feelings-the-new-vampire/index.html
+layout: layout.njk
 ---
 Bloodsuckers with feelings - the new vampire
 ============================================

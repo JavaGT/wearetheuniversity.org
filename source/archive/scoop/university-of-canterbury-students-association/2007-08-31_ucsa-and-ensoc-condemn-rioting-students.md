@@ -1,9 +1,12 @@
 ---
 slug: ucsa-and-ensoc-condemn-rioting-students
-title: "UCSA and ENSOC Condemn Rioting Students"
-date: 2007-08-31
-source-url: https://www.scoop.co.nz/stories/ED0708/S00105/ucsa-and-ensoc-condemn-rioting-students.htm
+title: UCSA and ENSOC Condemn Rioting Students
+date: 2007-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00105/ucsa-and-ensoc-condemn-rioting-students.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2007/08/31/ucsa-and-ensoc-condemn-rioting-students/index.html
+layout: layout.njk
 ---
 UCSA and ENSOC Condemn Rioting Students
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: men-of-different-ethnicities-needed-for-weight-loss-study
-title: "Men of different ethnicities needed for weight loss study"
-date: 2017-06-29
-source-url: https://www.scoop.co.nz/stories/SC1706/S00056/men-of-different-ethnicities-needed-for-weight-loss-study.htm
+title: Men of different ethnicities needed for weight loss study
+date: 2017-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1706/S00056/men-of-different-ethnicities-needed-for-weight-loss-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/29/men-of-different-ethnicities-needed-for-weight-loss-study/index.html
+layout: layout.njk
 ---
 Men of different ethnicities needed for weight loss study
 =========================================================

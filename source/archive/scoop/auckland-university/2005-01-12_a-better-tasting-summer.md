@@ -1,9 +1,11 @@
 ---
 slug: a-better-tasting-summer
-title: "A better tasting summer"
-date: 2005-01-12
+title: A better tasting summer
+date: 2005-01-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0501/S00014/a-better-tasting-summer.htm
 author: auckland-university
+permalink: /archive/2005/01/12/a-better-tasting-summer/index.html
+layout: layout.njk
 ---
 A better tasting summer
 =======================

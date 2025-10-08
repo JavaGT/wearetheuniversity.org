@@ -1,9 +1,12 @@
 ---
 slug: time-to-give-zaoui-his-freedom
-title: "Time to give Zaoui his freedom"
-date: 2004-10-14
-source-url: https://www.scoop.co.nz/stories/PO0410/S00150/time-to-give-zaoui-his-freedom.htm
+title: Time to give Zaoui his freedom
+date: 2004-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0410/S00150/time-to-give-zaoui-his-freedom.htm
 author: association-of-university-staff
+permalink: /archive/2004/10/14/time-to-give-zaoui-his-freedom/index.html
+layout: layout.njk
 ---
 Time to give Zaoui his freedom
 ==============================

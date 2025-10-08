@@ -1,9 +1,12 @@
 ---
 slug: more-needs-to-be-done-to-protect-otago-jobs
-title: "More needs to be done to protect Otago jobs"
-date: 2009-05-22
-source-url: https://www.scoop.co.nz/stories/PA0905/S00392/more-needs-to-be-done-to-protect-otago-jobs.htm
+title: More needs to be done to protect Otago jobs
+date: 2009-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00392/more-needs-to-be-done-to-protect-otago-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/22/more-needs-to-be-done-to-protect-otago-jobs/index.html
+layout: layout.njk
 ---
 More needs to be done to protect Otago jobs
 ===========================================

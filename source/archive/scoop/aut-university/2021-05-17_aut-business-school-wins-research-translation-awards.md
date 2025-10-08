@@ -1,9 +1,13 @@
 ---
 slug: aut-business-school-wins-research-translation-awards
-title: "AUT Business School Wins Research Translation Awards"
-date: 2021-05-17
-source-url: https://www.scoop.co.nz/stories/ED2105/S00034/aut-business-school-wins-research-translation-awards.htm
+title: AUT Business School Wins Research Translation Awards
+date: 2021-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00034/aut-business-school-wins-research-translation-awards.htm
 author: aut-university
+permalink: >-
+  /archive/2021/05/17/aut-business-school-wins-research-translation-awards/index.html
+layout: layout.njk
 ---
 AUT Business School Wins Research Translation Awards
 ====================================================

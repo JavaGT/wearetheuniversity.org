@@ -1,9 +1,12 @@
 ---
 slug: another-day-another-tax-hike-from-labour
-title: "Another day, another tax hike from Labour"
-date: 2018-11-21
-source-url: https://www.scoop.co.nz/stories/PA1811/S00217/another-day-another-tax-hike-from-labour.htm
+title: Another day, another tax hike from Labour
+date: 2018-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00217/another-day-another-tax-hike-from-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/21/another-day-another-tax-hike-from-labour/index.html
+layout: layout.njk
 ---
 Another day, another tax hike from Labour
 =========================================

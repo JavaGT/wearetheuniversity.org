@@ -1,9 +1,12 @@
 ---
 slug: bigger-better-biomechanics-day
-title: "Bigger, better Biomechanics Day"
-date: 2018-04-05
-source-url: https://www.scoop.co.nz/stories/ED1804/S00011/bigger-better-biomechanics-day.htm
+title: Bigger, better Biomechanics Day
+date: 2018-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00011/bigger-better-biomechanics-day.htm
 author: massey-university
+permalink: /archive/2018/04/05/bigger-better-biomechanics-day/index.html
+layout: layout.njk
 ---
 Bigger, better Biomechanics Day
 ===============================

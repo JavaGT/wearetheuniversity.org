@@ -1,9 +1,13 @@
 ---
 slug: words-and-gardens-combine-in-writers-homecoming-project
-title: "Words And Gardens Combine In Writer’s ‘Homecoming’ Project"
-date: 2024-12-15
-source-url: https://www.scoop.co.nz/stories/CU2412/S00151/words-and-gardens-combine-in-writers-homecoming-project.htm
+title: Words And Gardens Combine In Writer’s ‘Homecoming’ Project
+date: 2024-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2412/S00151/words-and-gardens-combine-in-writers-homecoming-project.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/12/15/words-and-gardens-combine-in-writers-homecoming-project/index.html
+layout: layout.njk
 ---
 Words And Gardens Combine In Writer’s ‘Homecoming’ Project
 ==========================================================

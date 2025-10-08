@@ -1,9 +1,11 @@
 ---
 slug: the-student-job-market-slump
-title: "The Student Job Market Slump"
-date: 2013-03-08
+title: The Student Job Market Slump
+date: 2013-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1303/S00333/the-student-job-market-slump.htm
 author: ousa
+permalink: /archive/2013/03/08/the-student-job-market-slump/index.html
+layout: layout.njk
 ---
 The Student Job Market Slump
 ============================

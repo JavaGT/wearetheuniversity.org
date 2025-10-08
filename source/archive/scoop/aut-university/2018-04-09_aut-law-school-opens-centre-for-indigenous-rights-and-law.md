@@ -1,9 +1,13 @@
 ---
 slug: aut-law-school-opens-centre-for-indigenous-rights-and-law
-title: "AUT Law School opens Centre for Indigenous Rights and Law"
-date: 2018-04-09
-source-url: https://www.scoop.co.nz/stories/ED1804/S00021/aut-law-school-opens-centre-for-indigenous-rights-and-law.htm
+title: AUT Law School opens Centre for Indigenous Rights and Law
+date: 2018-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00021/aut-law-school-opens-centre-for-indigenous-rights-and-law.htm
 author: aut-university
+permalink: >-
+  /archive/2018/04/09/aut-law-school-opens-centre-for-indigenous-rights-and-law/index.html
+layout: layout.njk
 ---
 AUT Law School opens Centre for Indigenous Rights and Law
 =========================================================

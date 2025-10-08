@@ -1,9 +1,13 @@
 ---
 slug: creative-computer-scientist-wins-uc-innovation-medal
-title: "Creative computer scientist wins UC Innovation Medal"
-date: 2012-08-22
-source-url: https://www.scoop.co.nz/stories/SC1208/S00052/creative-computer-scientist-wins-uc-innovation-medal.htm
+title: Creative computer scientist wins UC Innovation Medal
+date: 2012-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00052/creative-computer-scientist-wins-uc-innovation-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/22/creative-computer-scientist-wins-uc-innovation-medal/index.html
+layout: layout.njk
 ---
 Creative computer scientist wins UC Innovation Medal
 ====================================================

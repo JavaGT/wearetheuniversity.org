@@ -1,9 +1,12 @@
 ---
 slug: nature-proves-it-has-its-own-economic-clout
-title: "Nature proves it has its own economic clout"
-date: 2006-06-06
-source-url: https://www.scoop.co.nz/stories/PA0606/S00064/nature-proves-it-has-its-own-economic-clout.htm
+title: Nature proves it has its own economic clout
+date: 2006-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00064/nature-proves-it-has-its-own-economic-clout.htm
 author: green-party
+permalink: /archive/2006/06/06/nature-proves-it-has-its-own-economic-clout/index.html
+layout: layout.njk
 ---
 Nature proves it has its own economic clout
 ===========================================

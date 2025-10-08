@@ -1,9 +1,12 @@
 ---
 slug: $2m-of-stab-resistant-vests-may-never-be-used
-title: "$2m of stab-resistant vests may never be used"
-date: 2007-09-02
-source-url: https://www.scoop.co.nz/stories/PA0709/S00007/2m-of-stab-resistant-vests-may-never-be-used.htm
+title: $2m of stab-resistant vests may never be used
+date: 2007-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00007/2m-of-stab-resistant-vests-may-never-be-used.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/02/2m-of-stab-resistant-vests-may-never-be-used/index.html
+layout: layout.njk
 ---
 $2m of stab-resistant vests may never be used
 =============================================

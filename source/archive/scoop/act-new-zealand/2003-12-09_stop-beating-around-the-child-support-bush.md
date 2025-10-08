@@ -1,9 +1,12 @@
 ---
 slug: stop-beating-around-the-child-support-bush
-title: "Stop Beating Around The Child Support Bush"
-date: 2003-12-09
-source-url: https://www.scoop.co.nz/stories/PA0312/S00180/stop-beating-around-the-child-support-bush.htm
+title: Stop Beating Around The Child Support Bush
+date: 2003-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00180/stop-beating-around-the-child-support-bush.htm
 author: act-new-zealand
+permalink: /archive/2003/12/09/stop-beating-around-the-child-support-bush/index.html
+layout: layout.njk
 ---
 Stop Beating Around The Child Support Bush
 ==========================================

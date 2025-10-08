@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-14-november-2005
-title: "ACT's The Letter 14 November 2005"
-date: 2005-11-14
-source-url: https://www.scoop.co.nz/stories/PA0511/S00169/acts-the-letter-14-november-2005.htm
+title: ACT's The Letter 14 November 2005
+date: 2005-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00169/acts-the-letter-14-november-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/11/14/acts-the-letter-14-november-2005/index.html
+layout: layout.njk
 ---
 ACT's The Letter 14 November 2005
 =================================

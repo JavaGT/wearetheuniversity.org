@@ -1,9 +1,12 @@
 ---
 slug: streaming-students—the-silver-bullet-fallacy
-title: "Streaming Students—the Silver Bullet Fallacy"
-date: 2022-10-10
-source-url: https://www.scoop.co.nz/stories/ED2210/S00014/streaming-students-the-silver-bullet-fallacy.htm
+title: Streaming Students—the Silver Bullet Fallacy
+date: 2022-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2210/S00014/streaming-students-the-silver-bullet-fallacy.htm
 author: maxim-institute
+permalink: /archive/2022/10/10/streaming-students/index.html
+layout: layout.njk
 ---
 Streaming Students—the Silver Bullet Fallacy
 ============================================

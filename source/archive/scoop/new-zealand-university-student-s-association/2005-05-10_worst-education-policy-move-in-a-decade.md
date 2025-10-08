@@ -1,9 +1,12 @@
 ---
 slug: worst-education-policy-move-in-a-decade
-title: "Worst education policy move in a decade"
-date: 2005-05-10
-source-url: https://www.scoop.co.nz/stories/ED0505/S00040/worst-education-policy-move-in-a-decade.htm
+title: Worst education policy move in a decade
+date: 2005-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00040/worst-education-policy-move-in-a-decade.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/05/10/worst-education-policy-move-in-a-decade/index.html
+layout: layout.njk
 ---
 Worst education policy move in a decade
 =======================================

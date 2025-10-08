@@ -1,9 +1,12 @@
 ---
 slug: project-aqua-decision-rma-process-fair
-title: "Project Aqua decision: RMA process fair"
-date: 2004-03-30
-source-url: https://www.scoop.co.nz/stories/PA0403/S00651/project-aqua-decision-rma-process-fair.htm
+title: 'Project Aqua decision: RMA process fair'
+date: 2004-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00651/project-aqua-decision-rma-process-fair.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/03/30/project-aqua-decision-rma-process-fair/index.html
+layout: layout.njk
 ---
 Project Aqua decision: RMA process fair
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: students-still-keen-for-extra-work
-title: "Students Still Keen for Extra Work"
-date: 2012-05-04
-source-url: https://www.scoop.co.nz/stories/BU1205/S00154/students-still-keen-for-extra-work.htm
+title: Students Still Keen for Extra Work
+date: 2012-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1205/S00154/students-still-keen-for-extra-work.htm
 author: ousa
+permalink: /archive/2012/05/04/students-still-keen-for-extra-work/index.html
+layout: layout.njk
 ---
 Students Still Keen for Extra Work
 ==================================

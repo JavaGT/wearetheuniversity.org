@@ -1,9 +1,13 @@
 ---
 slug: home-affordability-heads-for-uncharted-territory
-title: "Home affordability heads for uncharted territory"
-date: 2015-01-29
-source-url: https://www.scoop.co.nz/stories/ED1501/S00086/home-affordability-heads-for-uncharted-territory.htm
+title: Home affordability heads for uncharted territory
+date: 2015-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00086/home-affordability-heads-for-uncharted-territory.htm
 author: massey-university
+permalink: >-
+  /archive/2015/01/29/home-affordability-heads-for-uncharted-territory/index.html
+layout: layout.njk
 ---
 Home affordability heads for uncharted territory
 ================================================

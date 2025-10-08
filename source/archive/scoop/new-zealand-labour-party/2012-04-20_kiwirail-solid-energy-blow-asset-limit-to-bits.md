@@ -1,9 +1,12 @@
 ---
 slug: kiwirail-solid-energy-blow-asset-limit-to-bits
-title: "KiwiRail, Solid Energy blow asset limit to bits"
-date: 2012-04-20
-source-url: https://www.scoop.co.nz/stories/PA1204/S00257/kiwirail-solid-energy-blow-asset-limit-to-bits.htm
+title: KiwiRail, Solid Energy blow asset limit to bits
+date: 2012-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00257/kiwirail-solid-energy-blow-asset-limit-to-bits.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/20/kiwirail-solid-energy-blow-asset-limit-to-bits/index.html
+layout: layout.njk
 ---
 KiwiRail, Solid Energy blow asset limit to bits
 ===============================================

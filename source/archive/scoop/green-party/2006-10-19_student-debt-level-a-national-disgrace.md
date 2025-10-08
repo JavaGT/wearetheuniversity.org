@@ -1,9 +1,12 @@
 ---
 slug: student-debt-level-a-national-disgrace
-title: "Student debt level a national disgrace"
-date: 2006-10-19
-source-url: https://www.scoop.co.nz/stories/PA0610/S00390/student-debt-level-a-national-disgrace.htm
+title: Student debt level a national disgrace
+date: 2006-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00390/student-debt-level-a-national-disgrace.htm
 author: green-party
+permalink: /archive/2006/10/19/student-debt-level-a-national-disgrace/index.html
+layout: layout.njk
 ---
 Student debt level a national disgrace
 ======================================

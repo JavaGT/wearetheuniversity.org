@@ -1,9 +1,12 @@
 ---
 slug: business-roles-link-massey-with-key-regions
-title: "Business roles link Massey with key regions"
-date: 2013-02-18
-source-url: https://www.scoop.co.nz/stories/ED1302/S00087/business-roles-link-massey-with-key-regions.htm
+title: Business roles link Massey with key regions
+date: 2013-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00087/business-roles-link-massey-with-key-regions.htm
 author: massey-university
+permalink: /archive/2013/02/18/business-roles-link-massey-with-key-regions/index.html
+layout: layout.njk
 ---
 Business roles link Massey with key regions
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: mbie-funds-$13m-uc-research-to-future-proof-nz-electrical-grid
-title: "MBIE Funds $13m UC Research To Future-proof NZ Electrical Grid"
-date: 2020-09-16
-source-url: https://www.scoop.co.nz/stories/SC2009/S00025/mbie-funds-13m-uc-research-to-future-proof-nz-electrical-grid.htm
+title: MBIE Funds $13m UC Research To Future-proof NZ Electrical Grid
+date: 2020-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2009/S00025/mbie-funds-13m-uc-research-to-future-proof-nz-electrical-grid.htm
 author: university-of-canterbury
+permalink: /archive/2020/09/16/mbie-funds-/index.html
+layout: layout.njk
 ---
 MBIE Funds $13m UC Research To Future-proof NZ Electrical Grid
 ==============================================================

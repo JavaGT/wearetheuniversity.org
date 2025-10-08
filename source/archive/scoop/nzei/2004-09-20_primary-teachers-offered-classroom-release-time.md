@@ -1,9 +1,12 @@
 ---
 slug: primary-teachers-offered-classroom-release-time
-title: "Primary Teachers Offered Classroom Release Time"
-date: 2004-09-20
-source-url: https://www.scoop.co.nz/stories/ED0409/S00085/primary-teachers-offered-classroom-release-time.htm
+title: Primary Teachers Offered Classroom Release Time
+date: 2004-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00085/primary-teachers-offered-classroom-release-time.htm
 author: nzei
+permalink: /archive/2004/09/20/primary-teachers-offered-classroom-release-time/index.html
+layout: layout.njk
 ---
 Primary Teachers Offered Classroom Release Time
 ===============================================

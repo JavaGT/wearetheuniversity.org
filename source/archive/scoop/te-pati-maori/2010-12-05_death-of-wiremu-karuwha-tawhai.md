@@ -1,9 +1,12 @@
 ---
 slug: death-of-wiremu-karuwha-tawhai
-title: "Death of Wiremu Karuwha Tawhai"
-date: 2010-12-05
-source-url: https://www.scoop.co.nz/stories/PA1012/S00047/death-of-wiremu-karuwha-tawhai.htm
+title: Death of Wiremu Karuwha Tawhai
+date: 2010-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00047/death-of-wiremu-karuwha-tawhai.htm
 author: te-pati-maori
+permalink: /archive/2010/12/05/death-of-wiremu-karuwha-tawhai/index.html
+layout: layout.njk
 ---
 Death of Wiremu Karuwha Tawhai
 ==============================

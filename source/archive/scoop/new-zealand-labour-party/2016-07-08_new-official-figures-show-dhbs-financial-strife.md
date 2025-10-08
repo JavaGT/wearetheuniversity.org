@@ -1,9 +1,12 @@
 ---
 slug: new-official-figures-show-dhbs-financial-strife
-title: "New official figures show DHB’s financial strife"
-date: 2016-07-08
-source-url: https://www.scoop.co.nz/stories/PA1607/S00140/new-official-figures-show-dhbs-financial-strife.htm
+title: New official figures show DHB’s financial strife
+date: 2016-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00140/new-official-figures-show-dhbs-financial-strife.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/08/new-official-figures-show-dhbs-financial-strife/index.html
+layout: layout.njk
 ---
 New official figures show DHB’s financial strife
 ================================================

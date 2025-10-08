@@ -1,9 +1,12 @@
 ---
 slug: fees-show-costs-blow-out-without-democratic-say
-title: "Fees show costs blow out without democratic say"
-date: 2009-06-10
-source-url: https://www.scoop.co.nz/stories/PO0906/S00100/fees-show-costs-blow-out-without-democratic-say.htm
+title: Fees show costs blow out without democratic say
+date: 2009-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00100/fees-show-costs-blow-out-without-democratic-say.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/10/fees-show-costs-blow-out-without-democratic-say/index.html
+layout: layout.njk
 ---
 Fees show costs blow out without democratic say
 ===============================================

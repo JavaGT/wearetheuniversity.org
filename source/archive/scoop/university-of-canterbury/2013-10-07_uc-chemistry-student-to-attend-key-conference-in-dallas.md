@@ -1,9 +1,13 @@
 ---
 slug: uc-chemistry-student-to-attend-key-conference-in-dallas
-title: "UC chemistry student to attend key conference in Dallas"
-date: 2013-10-07
-source-url: https://www.scoop.co.nz/stories/SC1310/S00012/uc-chemistry-student-to-attend-key-conference-in-dallas.htm
+title: UC chemistry student to attend key conference in Dallas
+date: 2013-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00012/uc-chemistry-student-to-attend-key-conference-in-dallas.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/07/uc-chemistry-student-to-attend-key-conference-in-dallas/index.html
+layout: layout.njk
 ---
 UC chemistry student to attend key conference in Dallas
 =======================================================

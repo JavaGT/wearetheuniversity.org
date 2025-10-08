@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-in-danger-of-going-backwards-on-gender
-title: "New Zealand in danger of going backwards on gender"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/PA1010/S00207/new-zealand-in-danger-of-going-backwards-on-gender.htm
+title: New Zealand in danger of going backwards on gender
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00207/new-zealand-in-danger-of-going-backwards-on-gender.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/10/13/new-zealand-in-danger-of-going-backwards-on-gender/index.html
+layout: layout.njk
 ---
 New Zealand in danger of going backwards on gender
 ==================================================

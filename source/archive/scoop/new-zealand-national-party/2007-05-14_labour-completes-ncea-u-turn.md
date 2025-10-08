@@ -1,9 +1,11 @@
 ---
 slug: labour-completes-ncea-u-turn
-title: "Labour completes NCEA u-turn"
-date: 2007-05-14
+title: Labour completes NCEA u-turn
+date: 2007-05-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00316/labour-completes-ncea-u-turn.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/14/labour-completes-ncea-u-turn/index.html
+layout: layout.njk
 ---
 Labour completes NCEA u-turn
 ============================

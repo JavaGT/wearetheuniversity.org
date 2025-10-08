@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-lags-behind-australia-for-hpv-vaccination
-title: "New Zealand lags behind Australia for HPV vaccination"
-date: 2015-10-30
-source-url: https://www.scoop.co.nz/stories/GE1510/S00120/new-zealand-lags-behind-australia-for-hpv-vaccination.htm
+title: New Zealand lags behind Australia for HPV vaccination
+date: 2015-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1510/S00120/new-zealand-lags-behind-australia-for-hpv-vaccination.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/30/new-zealand-lags-behind-australia-for-hpv-vaccination/index.html
+layout: layout.njk
 ---
 New Zealand lags behind Australia for HPV vaccination
 =====================================================

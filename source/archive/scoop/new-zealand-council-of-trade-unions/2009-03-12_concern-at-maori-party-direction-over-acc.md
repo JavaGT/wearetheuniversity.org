@@ -1,9 +1,12 @@
 ---
 slug: concern-at-maori-party-direction-over-acc
-title: "Concern at Maori Party Direction Over ACC"
-date: 2009-03-12
-source-url: https://www.scoop.co.nz/stories/PO0903/S00138/concern-at-maori-party-direction-over-acc.htm
+title: Concern at Maori Party Direction Over ACC
+date: 2009-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0903/S00138/concern-at-maori-party-direction-over-acc.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/03/12/concern-at-maori-party-direction-over-acc/index.html
+layout: layout.njk
 ---
 Concern at Maori Party Direction Over ACC
 =========================================

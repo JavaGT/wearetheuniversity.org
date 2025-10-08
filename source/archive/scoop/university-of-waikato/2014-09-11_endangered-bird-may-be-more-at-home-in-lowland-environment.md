@@ -1,9 +1,13 @@
 ---
 slug: endangered-bird-may-be-more-at-home-in-lowland-environment
-title: "Endangered bird may be more at home in lowland environment"
-date: 2014-09-11
-source-url: https://www.scoop.co.nz/stories/SC1409/S00040/endangered-bird-may-be-more-at-home-in-lowland-environment.htm
+title: Endangered bird may be more at home in lowland environment
+date: 2014-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00040/endangered-bird-may-be-more-at-home-in-lowland-environment.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/09/11/endangered-bird-may-be-more-at-home-in-lowland-environment/index.html
+layout: layout.njk
 ---
 Endangered bird may be more at home in lowland environment
 ==========================================================

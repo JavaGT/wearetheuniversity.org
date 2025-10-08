@@ -1,9 +1,12 @@
 ---
 slug: uc-connect-earthquakes-+-innovation-=-resilience
-title: "UC Connect: Earthquakes + Innovation = Resilience"
-date: 2020-08-10
-source-url: https://www.scoop.co.nz/stories/SC2008/S00016/uc-connect-earthquakes-innovation-resilience.htm
+title: 'UC Connect: Earthquakes + Innovation = Resilience'
+date: 2020-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2008/S00016/uc-connect-earthquakes-innovation-resilience.htm
 author: university-of-canterbury
+permalink: /archive/2020/08/10/uc-connect-earthquakes-/index.html
+layout: layout.njk
 ---
 UC Connect: Earthquakes + Innovation = Resilience
 =================================================

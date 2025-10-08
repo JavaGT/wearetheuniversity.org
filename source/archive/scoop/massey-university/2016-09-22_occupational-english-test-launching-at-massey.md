@@ -1,9 +1,12 @@
 ---
 slug: occupational-english-test-launching-at-massey
-title: "Occupational English Test launching at Massey"
-date: 2016-09-22
-source-url: https://www.scoop.co.nz/stories/ED1609/S00108/occupational-english-test-launching-at-massey.htm
+title: Occupational English Test launching at Massey
+date: 2016-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00108/occupational-english-test-launching-at-massey.htm
 author: massey-university
+permalink: /archive/2016/09/22/occupational-english-test-launching-at-massey/index.html
+layout: layout.njk
 ---
 Occupational English Test launching at Massey
 =============================================

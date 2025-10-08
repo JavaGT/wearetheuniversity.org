@@ -1,9 +1,12 @@
 ---
 slug: funding-boost-for-victorias-researchers
-title: "Funding boost for Victoria’s researchers"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/ED0509/S00037/funding-boost-for-victorias-researchers.htm
+title: Funding boost for Victoria’s researchers
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00037/funding-boost-for-victorias-researchers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/09/12/funding-boost-for-victorias-researchers/index.html
+layout: layout.njk
 ---
 Funding boost for Victoria’s researchers
 ========================================

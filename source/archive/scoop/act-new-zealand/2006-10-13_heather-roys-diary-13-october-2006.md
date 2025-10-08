@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-13-october-2006
-title: "Heather Roy's Diary - 13 October 2006"
-date: 2006-10-13
-source-url: https://www.scoop.co.nz/stories/PA0610/S00236/heather-roys-diary-13-october-2006.htm
+title: Heather Roy's Diary - 13 October 2006
+date: 2006-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00236/heather-roys-diary-13-october-2006.htm
 author: act-new-zealand
+permalink: /archive/2006/10/13/heather-roys-diary-13-october-2006/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - 13 October 2006
 =====================================

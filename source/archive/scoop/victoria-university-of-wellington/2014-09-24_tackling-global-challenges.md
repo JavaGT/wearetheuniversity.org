@@ -1,9 +1,11 @@
 ---
 slug: tackling-global-challenges
-title: "Tackling global challenges"
-date: 2014-09-24
+title: Tackling global challenges
+date: 2014-09-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1409/S00139/tackling-global-challenges.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/24/tackling-global-challenges/index.html
+layout: layout.njk
 ---
 Tackling global challenges
 ==========================

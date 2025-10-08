@@ -1,9 +1,12 @@
 ---
 slug: campaign-closes-on-a-positive-note
-title: "Campaign closes on a positive note"
-date: 2005-09-16
-source-url: https://www.scoop.co.nz/stories/PA0509/S00432/campaign-closes-on-a-positive-note.htm
+title: Campaign closes on a positive note
+date: 2005-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00432/campaign-closes-on-a-positive-note.htm
 author: green-party
+permalink: /archive/2005/09/16/campaign-closes-on-a-positive-note/index.html
+layout: layout.njk
 ---
 Campaign closes on a positive note
 ==================================

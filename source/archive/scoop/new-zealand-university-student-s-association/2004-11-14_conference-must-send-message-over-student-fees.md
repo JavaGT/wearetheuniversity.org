@@ -1,9 +1,12 @@
 ---
 slug: conference-must-send-message-over-student-fees
-title: "Conference must send message over student fees"
-date: 2004-11-14
-source-url: https://www.scoop.co.nz/stories/ED0411/S00040/conference-must-send-message-over-student-fees.htm
+title: Conference must send message over student fees
+date: 2004-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00040/conference-must-send-message-over-student-fees.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/11/14/conference-must-send-message-over-student-fees/index.html
+layout: layout.njk
 ---
 Conference must send message over student fees
 ==============================================

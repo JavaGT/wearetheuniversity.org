@@ -1,9 +1,13 @@
 ---
 slug: design-student-donates-carving-to-kuratini-marae
-title: "Design student donates carving to Kuratini marae"
-date: 2008-07-14
-source-url: https://www.scoop.co.nz/stories/ED0807/S00036/design-student-donates-carving-to-kuratini-marae.htm
+title: Design student donates carving to Kuratini marae
+date: 2008-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00036/design-student-donates-carving-to-kuratini-marae.htm
 author: massey-university
+permalink: >-
+  /archive/2008/07/14/design-student-donates-carving-to-kuratini-marae/index.html
+layout: layout.njk
 ---
 Design student donates carving to Kuratini marae
 ================================================

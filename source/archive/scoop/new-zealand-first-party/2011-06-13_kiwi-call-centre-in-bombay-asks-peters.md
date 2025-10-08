@@ -1,9 +1,12 @@
 ---
 slug: kiwi-call-centre-in-bombay-asks-peters
-title: "Kiwi Call Centre In Bombay? Asks Peters"
-date: 2011-06-13
-source-url: https://www.scoop.co.nz/stories/PO1106/S00147/kiwi-call-centre-in-bombay-asks-peters.htm
+title: Kiwi Call Centre In Bombay? Asks Peters
+date: 2011-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00147/kiwi-call-centre-in-bombay-asks-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2011/06/13/kiwi-call-centre-in-bombay-asks-peters/index.html
+layout: layout.njk
 ---
 Kiwi Call Centre In Bombay? Asks Peters
 =======================================

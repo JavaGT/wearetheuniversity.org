@@ -1,9 +1,12 @@
 ---
 slug: brownlees-attack-on-council-unwarranted
-title: "Brownlee’s attack on council unwarranted"
-date: 2011-07-01
-source-url: https://www.scoop.co.nz/stories/PA1107/S00004/brownlees-attack-on-council-unwarranted.htm
+title: Brownlee’s attack on council unwarranted
+date: 2011-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00004/brownlees-attack-on-council-unwarranted.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/01/brownlees-attack-on-council-unwarranted/index.html
+layout: layout.njk
 ---
 Brownlee’s attack on council unwarranted
 ========================================

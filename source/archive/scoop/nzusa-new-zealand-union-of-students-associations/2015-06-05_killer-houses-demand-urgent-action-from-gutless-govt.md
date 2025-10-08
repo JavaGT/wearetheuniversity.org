@@ -1,9 +1,13 @@
 ---
 slug: killer-houses-demand-urgent-action-from-gutless-govt
-title: "Killer houses demand urgent action from gutless Govt"
-date: 2015-06-05
-source-url: https://www.scoop.co.nz/stories/PO1506/S00046/killer-houses-demand-urgent-action-from-gutless-govt.htm
+title: Killer houses demand urgent action from gutless Govt
+date: 2015-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1506/S00046/killer-houses-demand-urgent-action-from-gutless-govt.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/06/05/killer-houses-demand-urgent-action-from-gutless-govt/index.html
+layout: layout.njk
 ---
 Killer houses demand urgent action from gutless Govt
 ====================================================

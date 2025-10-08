@@ -1,9 +1,12 @@
 ---
 slug: lecture-explores-future-of-photography
-title: "Lecture explores future of photography"
-date: 2013-08-09
-source-url: https://www.scoop.co.nz/stories/ED1308/S00042/lecture-explores-future-of-photography.htm
+title: Lecture explores future of photography
+date: 2013-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00042/lecture-explores-future-of-photography.htm
 author: massey-university
+permalink: /archive/2013/08/09/lecture-explores-future-of-photography/index.html
+layout: layout.njk
 ---
 Lecture explores future of photography
 ======================================

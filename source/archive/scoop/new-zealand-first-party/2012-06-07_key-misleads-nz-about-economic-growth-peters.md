@@ -1,9 +1,12 @@
 ---
 slug: key-misleads-nz-about-economic-growth-peters
-title: "Key Misleads NZ about Economic Growth – Peters"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/PA1206/S00067/key-misleads-nz-about-economic-growth-peters.htm
+title: Key Misleads NZ about Economic Growth – Peters
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00067/key-misleads-nz-about-economic-growth-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2012/06/07/key-misleads-nz-about-economic-growth-peters/index.html
+layout: layout.njk
 ---
 Key Misleads NZ about Economic Growth – Peters
 ==============================================

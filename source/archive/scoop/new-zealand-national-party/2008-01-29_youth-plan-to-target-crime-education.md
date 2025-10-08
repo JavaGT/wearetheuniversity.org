@@ -1,9 +1,12 @@
 ---
 slug: youth-plan-to-target-crime-education
-title: "Youth Plan to target crime, education"
-date: 2008-01-29
-source-url: https://www.scoop.co.nz/stories/PA0801/S00214/youth-plan-to-target-crime-education.htm
+title: Youth Plan to target crime, education
+date: 2008-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00214/youth-plan-to-target-crime-education.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/29/youth-plan-to-target-crime-education/index.html
+layout: layout.njk
 ---
 Youth Plan to target crime, education
 =====================================

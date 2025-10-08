@@ -1,9 +1,12 @@
 ---
 slug: waste-action-globally-refilling-bottles-locally
-title: "Waste action globally, refilling bottles locally"
-date: 2004-09-01
-source-url: https://www.scoop.co.nz/stories/PA0409/S00008/waste-action-globally-refilling-bottles-locally.htm
+title: Waste action globally, refilling bottles locally
+date: 2004-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00008/waste-action-globally-refilling-bottles-locally.htm
 author: green-party
+permalink: /archive/2004/09/01/waste-action-globally-refilling-bottles-locally/index.html
+layout: layout.njk
 ---
 Waste action globally, refilling bottles locally
 ================================================

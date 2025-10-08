@@ -1,9 +1,12 @@
 ---
 slug: concern-over-education-ministers-disinterest
-title: "Concern over Education Minister’s disinterest"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/ED1505/S00036/concern-over-education-ministers-disinterest.htm
+title: Concern over Education Minister’s disinterest
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00036/concern-over-education-ministers-disinterest.htm
 author: nzei
+permalink: /archive/2015/05/07/concern-over-education-ministers-disinterest/index.html
+layout: layout.njk
 ---
 Concern over Education Minister’s disinterest
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: mapp-report-honouring-the-fallen
-title: "Mapp Report - Honouring the Fallen"
-date: 2009-11-20
-source-url: https://www.scoop.co.nz/stories/PA0911/S00303/mapp-report-honouring-the-fallen.htm
+title: Mapp Report - Honouring the Fallen
+date: 2009-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00303/mapp-report-honouring-the-fallen.htm
 author: new-zealand-national-party
+permalink: /archive/2009/11/20/mapp-report-honouring-the-fallen/index.html
+layout: layout.njk
 ---
 Mapp Report - Honouring the Fallen
 ==================================

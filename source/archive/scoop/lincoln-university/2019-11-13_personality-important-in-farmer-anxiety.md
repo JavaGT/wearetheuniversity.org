@@ -1,9 +1,12 @@
 ---
 slug: personality-important-in-farmer-anxiety
-title: "Personality important in farmer anxiety"
-date: 2019-11-13
-source-url: https://www.scoop.co.nz/stories/GE1911/S00049/personality-important-in-farmer-anxiety.htm
+title: Personality important in farmer anxiety
+date: 2019-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1911/S00049/personality-important-in-farmer-anxiety.htm
 author: lincoln-university
+permalink: /archive/2019/11/13/personality-important-in-farmer-anxiety/index.html
+layout: layout.njk
 ---
 Personality important in farmer anxiety
 =======================================

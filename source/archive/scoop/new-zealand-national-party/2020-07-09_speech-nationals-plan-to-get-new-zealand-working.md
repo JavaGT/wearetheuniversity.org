@@ -1,9 +1,13 @@
 ---
 slug: speech-nationals-plan-to-get-new-zealand-working
-title: "Speech: National’s Plan To Get New Zealand Working"
-date: 2020-07-09
-source-url: https://www.scoop.co.nz/stories/PA2007/S00099/speech-nationals-plan-to-get-new-zealand-working.htm
+title: 'Speech: National’s Plan To Get New Zealand Working'
+date: 2020-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00099/speech-nationals-plan-to-get-new-zealand-working.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/09/speech-nationals-plan-to-get-new-zealand-working/index.html
+layout: layout.njk
 ---
 Speech: National’s Plan To Get New Zealand Working
 ==================================================

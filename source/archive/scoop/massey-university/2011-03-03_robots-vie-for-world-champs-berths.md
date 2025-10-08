@@ -1,9 +1,12 @@
 ---
 slug: robots-vie-for-world-champs-berths
-title: "Robots vie for world champs berths"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/ED1103/S00019/robots-vie-for-world-champs-berths.htm
+title: Robots vie for world champs berths
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00019/robots-vie-for-world-champs-berths.htm
 author: massey-university
+permalink: /archive/2011/03/03/robots-vie-for-world-champs-berths/index.html
+layout: layout.njk
 ---
 Robots vie for world champs berths
 ==================================

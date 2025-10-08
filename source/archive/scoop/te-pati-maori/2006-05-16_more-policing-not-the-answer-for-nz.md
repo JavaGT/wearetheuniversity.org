@@ -1,9 +1,12 @@
 ---
 slug: more-policing-not-the-answer-for-nz
-title: "More Policing - not the answer for NZ"
-date: 2006-05-16
-source-url: https://www.scoop.co.nz/stories/PA0605/S00353/more-policing-not-the-answer-for-nz.htm
+title: More Policing - not the answer for NZ
+date: 2006-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00353/more-policing-not-the-answer-for-nz.htm
 author: te-pati-maori
+permalink: /archive/2006/05/16/more-policing-not-the-answer-for-nz/index.html
+layout: layout.njk
 ---
 More Policing - not the answer for NZ
 =====================================

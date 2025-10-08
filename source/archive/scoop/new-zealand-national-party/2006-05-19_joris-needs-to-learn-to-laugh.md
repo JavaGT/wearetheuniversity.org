@@ -1,9 +1,12 @@
 ---
 slug: joris-needs-to-learn-to-laugh
-title: "Joris needs to learn to laugh"
-date: 2006-05-19
-source-url: https://www.scoop.co.nz/stories/PA0605/S00478/joris-needs-to-learn-to-laugh.htm
+title: Joris needs to learn to laugh
+date: 2006-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00478/joris-needs-to-learn-to-laugh.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/19/joris-needs-to-learn-to-laugh/index.html
+layout: layout.njk
 ---
 Joris needs to learn to laugh
 =============================

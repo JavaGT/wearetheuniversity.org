@@ -1,9 +1,12 @@
 ---
 slug: marketing-for-a-stronger-community
-title: "Marketing for a stronger community"
-date: 2019-11-07
-source-url: https://www.scoop.co.nz/stories/CU1911/S00089/marketing-for-a-stronger-community.htm
+title: Marketing for a stronger community
+date: 2019-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1911/S00089/marketing-for-a-stronger-community.htm
 author: university-of-canterbury
+permalink: /archive/2019/11/07/marketing-for-a-stronger-community/index.html
+layout: layout.njk
 ---
 Marketing for a stronger community
 ==================================

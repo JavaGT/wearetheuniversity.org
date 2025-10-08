@@ -1,9 +1,12 @@
 ---
 slug: investors-should-remember-caveat-emptor
-title: "Investors Should Remember Caveat Emptor"
-date: 2010-12-17
-source-url: https://www.scoop.co.nz/stories/BU1012/S00632/investors-should-remember-caveat-emptor.htm
+title: Investors Should Remember Caveat Emptor
+date: 2010-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1012/S00632/investors-should-remember-caveat-emptor.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/12/17/investors-should-remember-caveat-emptor/index.html
+layout: layout.njk
 ---
 Investors Should Remember Caveat Emptor
 =======================================

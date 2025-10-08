@@ -1,9 +1,12 @@
 ---
 slug: project-sets-direction-for-wine-haze-research
-title: "Project Sets Direction for Wine Haze Research"
-date: 2007-02-22
-source-url: https://www.scoop.co.nz/stories/ED0702/S00083/project-sets-direction-for-wine-haze-research.htm
+title: Project Sets Direction for Wine Haze Research
+date: 2007-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00083/project-sets-direction-for-wine-haze-research.htm
 author: lincoln-university
+permalink: /archive/2007/02/22/project-sets-direction-for-wine-haze-research/index.html
+layout: layout.njk
 ---
 Project Sets Direction for Wine Haze Research
 =============================================

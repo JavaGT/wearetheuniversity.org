@@ -1,9 +1,12 @@
 ---
 slug: harawira-changing-the-nature-of-leadership
-title: "Harawira: Changing the Nature of Leadership"
-date: 2006-05-04
-source-url: https://www.scoop.co.nz/stories/PA0605/S00092/harawira-changing-the-nature-of-leadership.htm
+title: 'Harawira: Changing the Nature of Leadership'
+date: 2006-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00092/harawira-changing-the-nature-of-leadership.htm
 author: te-pati-maori
+permalink: /archive/2006/05/04/harawira-changing-the-nature-of-leadership/index.html
+layout: layout.njk
 ---
 Harawira: Changing the Nature of Leadership
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: advancements-in-solar-energy
-title: "Advancements in Solar Energy"
-date: 2009-06-30
+title: Advancements in Solar Energy
+date: 2009-06-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0906/S00040/advancements-in-solar-energy.htm
 author: aut-university
+permalink: /archive/2009/06/30/advancements-in-solar-energy/index.html
+layout: layout.njk
 ---
 Advancements in Solar Energy
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: real-issues-charity-hospital-apec-conservatives
-title: "Real Issues: Charity Hospital, APEC, Conservatives"
-date: 2007-09-07
-source-url: https://www.scoop.co.nz/stories/PO0709/S00113/real-issues-charity-hospital-apec-conservatives.htm
+title: 'Real Issues: Charity Hospital, APEC, Conservatives'
+date: 2007-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0709/S00113/real-issues-charity-hospital-apec-conservatives.htm
 author: maxim-institute
+permalink: /archive/2007/09/07/real-issues-charity-hospital-apec-conservatives/index.html
+layout: layout.njk
 ---
 Real Issues: Charity Hospital, APEC, Conservatives
 ==================================================

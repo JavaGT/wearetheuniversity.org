@@ -1,9 +1,12 @@
 ---
 slug: waikato-students-bring-it-all-back!
-title: "Waikato Students - Bring it all Back!"
-date: 2000-10-16
-source-url: https://www.scoop.co.nz/stories/ED0010/S00018/waikato-students-bring-it-all-back.htm
+title: Waikato Students - Bring it all Back!
+date: 2000-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00018/waikato-students-bring-it-all-back.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/10/16/waikato-students-bring-it-all-back/index.html
+layout: layout.njk
 ---
 Waikato Students - Bring it all Back!
 =====================================

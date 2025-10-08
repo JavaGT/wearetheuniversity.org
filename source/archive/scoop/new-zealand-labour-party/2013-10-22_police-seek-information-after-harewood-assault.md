@@ -1,9 +1,12 @@
 ---
 slug: police-seek-information-after-harewood-assault
-title: "Police seek information after Harewood assault"
-date: 2013-10-22
-source-url: https://www.scoop.co.nz/stories/AK1310/S00814/police-seek-information-after-harewood-assault.htm
+title: Police seek information after Harewood assault
+date: 2013-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00814/police-seek-information-after-harewood-assault.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/22/police-seek-information-after-harewood-assault/index.html
+layout: layout.njk
 ---
 Police seek information after Harewood assault
 ==============================================

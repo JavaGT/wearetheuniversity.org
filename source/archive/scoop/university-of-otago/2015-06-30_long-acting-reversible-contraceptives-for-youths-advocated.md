@@ -1,9 +1,13 @@
 ---
 slug: long-acting-reversible-contraceptives-for-youths-advocated
-title: "Long-acting reversible contraceptives for youths advocated"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/GE1506/S00169/long-acting-reversible-contraceptives-for-youths-advocated.htm
+title: Long-acting reversible contraceptives for youths advocated
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1506/S00169/long-acting-reversible-contraceptives-for-youths-advocated.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/06/30/long-acting-reversible-contraceptives-for-youths-advocated/index.html
+layout: layout.njk
 ---
 Long-acting reversible contraceptives for youths advocated
 ==========================================================

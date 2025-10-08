@@ -1,9 +1,13 @@
 ---
 slug: canadian-high-commissioner-to-launch-waikato-university-unit
-title: "Canadian High Commissioner to launch Waikato University unit"
-date: 2012-03-22
-source-url: https://www.scoop.co.nz/stories/ED1203/S00106/canadian-high-commissioner-to-launch-waikato-university-unit.htm
+title: Canadian High Commissioner to launch Waikato University unit
+date: 2012-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00106/canadian-high-commissioner-to-launch-waikato-university-unit.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/03/22/canadian-high-commissioner-to-launch-waikato-university-unit/index.html
+layout: layout.njk
 ---
 Canadian High Commissioner to launch Waikato University unit
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: vegfed-goes-down-wrong-track-on-ge-potatoes
-title: "VegFed goes down wrong track on GE potatoes"
-date: 1999-11-15
-source-url: https://www.scoop.co.nz/stories/PO9911/S00081/vegfed-goes-down-wrong-track-on-ge-potatoes.htm
+title: VegFed goes down wrong track on GE potatoes
+date: 1999-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00081/vegfed-goes-down-wrong-track-on-ge-potatoes.htm
 author: green-party
+permalink: /archive/1999/11/15/vegfed-goes-down-wrong-track-on-ge-potatoes/index.html
+layout: layout.njk
 ---
 VegFed goes down wrong track on GE potatoes
 ===========================================

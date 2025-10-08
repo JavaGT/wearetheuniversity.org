@@ -1,9 +1,12 @@
 ---
 slug: nelson-city-council-votes-to-sanction-israel
-title: "Nelson City Council Votes To Sanction Israel"
-date: 2024-12-05
-source-url: https://www.scoop.co.nz/stories/AK2412/S00179/nelson-city-council-votes-to-sanction-israel.htm
+title: Nelson City Council Votes To Sanction Israel
+date: 2024-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2412/S00179/nelson-city-council-votes-to-sanction-israel.htm
 author: palestine-solidarity-network-aotearoa
+permalink: /archive/2024/12/05/nelson-city-council-votes-to-sanction-israel/index.html
+layout: layout.njk
 ---
 Nelson City Council Votes To Sanction Israel
 ============================================

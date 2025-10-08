@@ -1,9 +1,11 @@
 ---
 slug: university-talks-founder
-title: "University talks founder"
-date: 2003-12-18
+title: University talks founder
+date: 2003-12-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0312/S00071/university-talks-founder.htm
 author: association-of-university-staff
+permalink: /archive/2003/12/18/university-talks-founder/index.html
+layout: layout.njk
 ---
 University talks founder
 ========================

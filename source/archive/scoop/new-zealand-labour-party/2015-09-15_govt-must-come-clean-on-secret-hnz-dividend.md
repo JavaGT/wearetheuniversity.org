@@ -1,9 +1,12 @@
 ---
 slug: govt-must-come-clean-on-secret-hnz-dividend
-title: "Govt must come clean on secret HNZ dividend"
-date: 2015-09-15
-source-url: https://www.scoop.co.nz/stories/PA1509/S00249/govt-must-come-clean-on-secret-hnz-dividend.htm
+title: Govt must come clean on secret HNZ dividend
+date: 2015-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00249/govt-must-come-clean-on-secret-hnz-dividend.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/15/govt-must-come-clean-on-secret-hnz-dividend/index.html
+layout: layout.njk
 ---
 Govt must come clean on secret HNZ dividend
 ===========================================

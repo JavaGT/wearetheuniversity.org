@@ -1,9 +1,12 @@
 ---
 slug: immigration-minister-has-only-one-stamp
-title: "Immigration Minister Has Only One Stamp"
-date: 2002-07-17
-source-url: https://www.scoop.co.nz/stories/PA0207/S00467/immigration-minister-has-only-one-stamp.htm
+title: Immigration Minister Has Only One Stamp
+date: 2002-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00467/immigration-minister-has-only-one-stamp.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/17/immigration-minister-has-only-one-stamp/index.html
+layout: layout.njk
 ---
 Immigration Minister Has Only One Stamp
 =======================================

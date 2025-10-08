@@ -1,9 +1,12 @@
 ---
 slug: nz-students-warn-uk-govt-against-fees-disaster
-title: "NZ students warn UK Govt against fees disaster"
-date: 2004-04-01
-source-url: https://www.scoop.co.nz/stories/ED0404/S00002/nz-students-warn-uk-govt-against-fees-disaster.htm
+title: NZ students warn UK Govt against fees disaster
+date: 2004-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00002/nz-students-warn-uk-govt-against-fees-disaster.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/04/01/nz-students-warn-uk-govt-against-fees-disaster/index.html
+layout: layout.njk
 ---
 NZ students warn UK Govt against fees disaster
 ==============================================

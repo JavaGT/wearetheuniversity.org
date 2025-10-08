@@ -1,9 +1,12 @@
 ---
 slug: nash-comes-clean(ish)-on-dodgy-cop-counting
-title: "Nash comes clean(ish) on dodgy cop counting"
-date: 2018-05-09
-source-url: https://www.scoop.co.nz/stories/PA1805/S00113/nash-comes-cleanish-on-dodgy-cop-counting.htm
+title: Nash comes clean(ish) on dodgy cop counting
+date: 2018-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00113/nash-comes-cleanish-on-dodgy-cop-counting.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/09/nash-comes-clean/index.html
+layout: layout.njk
 ---
 Nash comes clean(ish) on dodgy cop counting
 ===========================================

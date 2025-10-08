@@ -1,9 +1,13 @@
 ---
 slug: lack-of-accommodation-a-major-constraint-to-the-rebuild
-title: "Lack Of Accommodation A Major Constraint To The Rebuild"
-date: 2013-04-10
-source-url: https://www.scoop.co.nz/stories/ED1304/S00043/lack-of-accommodation-a-major-constraint-to-the-rebuild.htm
+title: Lack Of Accommodation A Major Constraint To The Rebuild
+date: 2013-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00043/lack-of-accommodation-a-major-constraint-to-the-rebuild.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/10/lack-of-accommodation-a-major-constraint-to-the-rebuild/index.html
+layout: layout.njk
 ---
 Lack Of Accommodation A Major Constraint To The Rebuild
 =======================================================

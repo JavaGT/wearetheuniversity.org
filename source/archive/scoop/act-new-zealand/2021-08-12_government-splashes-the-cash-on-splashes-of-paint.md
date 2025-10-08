@@ -1,9 +1,13 @@
 ---
 slug: government-splashes-the-cash-on-splashes-of-paint
-title: "Government Splashes The Cash On Splashes Of Paint"
-date: 2021-08-12
-source-url: https://www.scoop.co.nz/stories/PA2108/S00112/government-splashes-the-cash-on-splashes-of-paint.htm
+title: Government Splashes The Cash On Splashes Of Paint
+date: 2021-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00112/government-splashes-the-cash-on-splashes-of-paint.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/08/12/government-splashes-the-cash-on-splashes-of-paint/index.html
+layout: layout.njk
 ---
 Government Splashes The Cash On Splashes Of Paint
 =================================================

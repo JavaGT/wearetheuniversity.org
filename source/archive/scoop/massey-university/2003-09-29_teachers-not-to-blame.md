@@ -1,9 +1,11 @@
 ---
 slug: teachers-not-to-blame
-title: "Teachers Not To Blame"
-date: 2003-09-29
+title: Teachers Not To Blame
+date: 2003-09-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00130/teachers-not-to-blame.htm
 author: massey-university
+permalink: /archive/2003/09/29/teachers-not-to-blame/index.html
+layout: layout.njk
 ---
 Teachers Not To Blame
 =====================

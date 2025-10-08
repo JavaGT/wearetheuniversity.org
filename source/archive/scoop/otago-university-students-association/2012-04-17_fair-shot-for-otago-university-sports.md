@@ -1,9 +1,12 @@
 ---
 slug: fair-shot-for-otago-university-sports
-title: "Fair Shot for Otago University Sports"
-date: 2012-04-17
-source-url: https://www.scoop.co.nz/stories/AK1204/S00404/fair-shot-for-otago-university-sports.htm
+title: Fair Shot for Otago University Sports
+date: 2012-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1204/S00404/fair-shot-for-otago-university-sports.htm
 author: otago-university-students-association
+permalink: /archive/2012/04/17/fair-shot-for-otago-university-sports/index.html
+layout: layout.njk
 ---
 Fair Shot for Otago University Sports
 =====================================

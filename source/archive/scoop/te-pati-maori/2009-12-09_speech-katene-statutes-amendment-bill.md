@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-statutes-amendment-bill
-title: "Speech: Katene - Statutes Amendment Bill"
-date: 2009-12-09
-source-url: https://www.scoop.co.nz/stories/PA0912/S00129/speech-katene-statutes-amendment-bill.htm
+title: 'Speech: Katene - Statutes Amendment Bill'
+date: 2009-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00129/speech-katene-statutes-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/12/09/speech-katene-statutes-amendment-bill/index.html
+layout: layout.njk
 ---
 Speech: Katene - Statutes Amendment Bill
 ========================================

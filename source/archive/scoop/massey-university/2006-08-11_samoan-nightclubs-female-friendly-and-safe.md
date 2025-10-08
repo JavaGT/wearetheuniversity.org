@@ -1,9 +1,12 @@
 ---
 slug: samoan-nightclubs-female-friendly-and-safe
-title: "Samoan nightclubs female-friendly and safe"
-date: 2006-08-11
-source-url: https://www.scoop.co.nz/stories/CU0608/S00117/samoan-nightclubs-female-friendly-and-safe.htm
+title: Samoan nightclubs female-friendly and safe
+date: 2006-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0608/S00117/samoan-nightclubs-female-friendly-and-safe.htm
 author: massey-university
+permalink: /archive/2006/08/11/samoan-nightclubs-female-friendly-and-safe/index.html
+layout: layout.njk
 ---
 Samoan nightclubs female-friendly and safe
 ==========================================

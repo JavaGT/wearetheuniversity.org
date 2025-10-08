@@ -1,9 +1,13 @@
 ---
 slug: seeking-investment-in-nz-heres-the-secret-to-success
-title: "Seeking investment in NZ? Here’s the secret to success"
-date: 2017-03-13
-source-url: https://www.scoop.co.nz/stories/BU1703/S00404/seeking-investment-in-nz-heres-the-secret-to-success.htm
+title: Seeking investment in NZ? Here’s the secret to success
+date: 2017-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1703/S00404/seeking-investment-in-nz-heres-the-secret-to-success.htm
 author: massey-university
+permalink: >-
+  /archive/2017/03/13/seeking-investment-in-nz-heres-the-secret-to-success/index.html
+layout: layout.njk
 ---
 Seeking investment in NZ? Here’s the secret to success
 ======================================================

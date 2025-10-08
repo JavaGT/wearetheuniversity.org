@@ -1,9 +1,13 @@
 ---
 slug: horticulture-professor-says-psa-outbreak-avoidable
-title: "Horticulture professor says PSA outbreak avoidable"
-date: 2012-07-05
-source-url: https://www.scoop.co.nz/stories/ED1207/S00021/horticulture-professor-says-psa-outbreak-avoidable.htm
+title: Horticulture professor says PSA outbreak avoidable
+date: 2012-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00021/horticulture-professor-says-psa-outbreak-avoidable.htm
 author: massey-university
+permalink: >-
+  /archive/2012/07/05/horticulture-professor-says-psa-outbreak-avoidable/index.html
+layout: layout.njk
 ---
 Horticulture professor says PSA outbreak avoidable
 ==================================================

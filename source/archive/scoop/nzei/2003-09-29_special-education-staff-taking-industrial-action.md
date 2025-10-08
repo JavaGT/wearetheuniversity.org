@@ -1,9 +1,13 @@
 ---
 slug: special-education-staff-taking-industrial-action
-title: "Special Education Staff Taking Industrial Action"
-date: 2003-09-29
-source-url: https://www.scoop.co.nz/stories/ED0309/S00133/special-education-staff-taking-industrial-action.htm
+title: Special Education Staff Taking Industrial Action
+date: 2003-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00133/special-education-staff-taking-industrial-action.htm
 author: nzei
+permalink: >-
+  /archive/2003/09/29/special-education-staff-taking-industrial-action/index.html
+layout: layout.njk
 ---
 Special Education Staff Taking Industrial Action
 ================================================

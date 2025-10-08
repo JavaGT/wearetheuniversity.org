@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-initiative-more-like-new-zealand-submissive
-title: "New Zealand Initiative More like New Zealand Submissive"
-date: 2014-04-30
-source-url: https://www.scoop.co.nz/stories/PA1404/S00450/new-zealand-initiative-more-like-new-zealand-submissive.htm
+title: New Zealand Initiative More like New Zealand Submissive
+date: 2014-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00450/new-zealand-initiative-more-like-new-zealand-submissive.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/04/30/new-zealand-initiative-more-like-new-zealand-submissive/index.html
+layout: layout.njk
 ---
 New Zealand Initiative More like New Zealand Submissive
 =======================================================

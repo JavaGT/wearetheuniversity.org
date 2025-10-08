@@ -1,9 +1,12 @@
 ---
 slug: green-amendment-will-save-ratepayers-money
-title: "Green Amendment Will Save Ratepayers Money"
-date: 2002-03-27
-source-url: https://www.scoop.co.nz/stories/PA0203/S00503/green-amendment-will-save-ratepayers-money.htm
+title: Green Amendment Will Save Ratepayers Money
+date: 2002-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00503/green-amendment-will-save-ratepayers-money.htm
 author: green-party
+permalink: /archive/2002/03/27/green-amendment-will-save-ratepayers-money/index.html
+layout: layout.njk
 ---
 Green Amendment Will Save Ratepayers Money
 ==========================================

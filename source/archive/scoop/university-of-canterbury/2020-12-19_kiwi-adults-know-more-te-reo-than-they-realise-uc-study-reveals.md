@@ -1,9 +1,13 @@
 ---
 slug: kiwi-adults-know-more-te-reo-than-they-realise-uc-study-reveals
-title: "Kiwi Adults Know More Te Reo Than They Realise, UC Study Reveals"
-date: 2020-12-19
-source-url: https://www.scoop.co.nz/stories/ED2012/S00048/kiwi-adults-know-more-te-reo-than-they-realise-uc-study-reveals.htm
+title: Kiwi Adults Know More Te Reo Than They Realise, UC Study Reveals
+date: 2020-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00048/kiwi-adults-know-more-te-reo-than-they-realise-uc-study-reveals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/12/19/kiwi-adults-know-more-te-reo-than-they-realise-uc-study-reveals/index.html
+layout: layout.njk
 ---
 Kiwi Adults Know More Te Reo Than They Realise, UC Study Reveals
 ================================================================

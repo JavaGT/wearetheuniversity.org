@@ -1,9 +1,13 @@
 ---
 slug: canterbury-academic-historian-to-explain-hollywood
-title: "Canterbury academic historian to explain Hollywood"
-date: 2014-05-08
-source-url: https://www.scoop.co.nz/stories/ED1405/S00042/canterbury-academic-historian-to-explain-hollywood.htm
+title: Canterbury academic historian to explain Hollywood
+date: 2014-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00042/canterbury-academic-historian-to-explain-hollywood.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/08/canterbury-academic-historian-to-explain-hollywood/index.html
+layout: layout.njk
 ---
 Canterbury academic historian to explain Hollywood
 ==================================================

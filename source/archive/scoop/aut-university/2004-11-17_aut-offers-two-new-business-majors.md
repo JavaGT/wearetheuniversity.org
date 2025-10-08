@@ -1,9 +1,12 @@
 ---
 slug: aut-offers-two-new-business-majors
-title: "AUT Offers Two New Business Majors"
-date: 2004-11-17
-source-url: https://www.scoop.co.nz/stories/ED0411/S00060/aut-offers-two-new-business-majors.htm
+title: AUT Offers Two New Business Majors
+date: 2004-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00060/aut-offers-two-new-business-majors.htm
 author: aut-university
+permalink: /archive/2004/11/17/aut-offers-two-new-business-majors/index.html
+layout: layout.njk
 ---
 AUT Offers Two New Business Majors
 ==================================

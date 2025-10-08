@@ -1,9 +1,12 @@
 ---
 slug: research-investigates-musicians-hearing-loss
-title: "Research investigates musicians’ hearing loss"
-date: 2012-12-10
-source-url: https://www.scoop.co.nz/stories/ED1212/S00055/research-investigates-musicians-hearing-loss.htm
+title: Research investigates musicians’ hearing loss
+date: 2012-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00055/research-investigates-musicians-hearing-loss.htm
 author: massey-university
+permalink: /archive/2012/12/10/research-investigates-musicians-hearing-loss/index.html
+layout: layout.njk
 ---
 Research investigates musicians’ hearing loss
 =============================================

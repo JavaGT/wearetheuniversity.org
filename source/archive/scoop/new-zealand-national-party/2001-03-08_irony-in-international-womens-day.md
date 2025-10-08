@@ -1,9 +1,12 @@
 ---
 slug: irony-in-international-womens-day
-title: "Irony In International Women's Day"
-date: 2001-03-08
-source-url: https://www.scoop.co.nz/stories/PA0103/S00105/irony-in-international-womens-day.htm
+title: Irony In International Women's Day
+date: 2001-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00105/irony-in-international-womens-day.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/08/irony-in-international-womens-day/index.html
+layout: layout.njk
 ---
 Irony In International Women's Day
 ==================================

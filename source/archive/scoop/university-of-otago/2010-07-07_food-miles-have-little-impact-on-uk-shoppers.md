@@ -1,9 +1,12 @@
 ---
 slug: food-miles-have-little-impact-on-uk-shoppers
-title: "\"Food miles\" have little impact on UK shoppers"
-date: 2010-07-07
-source-url: https://www.scoop.co.nz/stories/ED1007/S00031/food-miles-have-little-impact-on-uk-shoppers.htm
+title: '"Food miles" have little impact on UK shoppers'
+date: 2010-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00031/food-miles-have-little-impact-on-uk-shoppers.htm
 author: university-of-otago
+permalink: /archive/2010/07/07/food-miles-have-little-impact-on-uk-shoppers/index.html
+layout: layout.njk
 ---
 “Food miles” have little impact on UK shoppers
 ==============================================

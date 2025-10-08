@@ -1,9 +1,13 @@
 ---
 slug: ucsa-launches-advisory-group-for-amplifying-diverse-voices
-title: "UCSA launches Advisory Group for amplifying diverse voices"
-date: 2015-03-13
-source-url: https://www.scoop.co.nz/stories/ED1503/S00059/ucsa-launches-advisory-group-for-amplifying-diverse-voices.htm
+title: UCSA launches Advisory Group for amplifying diverse voices
+date: 2015-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00059/ucsa-launches-advisory-group-for-amplifying-diverse-voices.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2015/03/13/ucsa-launches-advisory-group-for-amplifying-diverse-voices/index.html
+layout: layout.njk
 ---
 UCSA launches Advisory Group for amplifying diverse voices
 ==========================================================

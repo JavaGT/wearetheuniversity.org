@@ -1,9 +1,13 @@
 ---
 slug: state-of-the-art-power-supply-and-solar-testing-facility
-title: "State of the art power supply and solar testing facility"
-date: 2015-01-20
-source-url: https://www.scoop.co.nz/stories/SC1501/S00036/state-of-the-art-power-supply-and-solar-testing-facility.htm
+title: State of the art power supply and solar testing facility
+date: 2015-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1501/S00036/state-of-the-art-power-supply-and-solar-testing-facility.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/20/state-of-the-art-power-supply-and-solar-testing-facility/index.html
+layout: layout.njk
 ---
 State of the art power supply and solar testing facility
 ========================================================

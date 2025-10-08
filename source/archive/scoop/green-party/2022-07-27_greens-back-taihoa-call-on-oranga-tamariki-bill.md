@@ -1,9 +1,12 @@
 ---
 slug: greens-back-taihoa-call-on-oranga-tamariki-bill
-title: "Greens Back Taihoa Call On Oranga Tamariki Bill"
-date: 2022-07-27
-source-url: https://www.scoop.co.nz/stories/PA2207/S00181/greens-back-taihoa-call-on-oranga-tamariki-bill.htm
+title: Greens Back Taihoa Call On Oranga Tamariki Bill
+date: 2022-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00181/greens-back-taihoa-call-on-oranga-tamariki-bill.htm
 author: green-party
+permalink: /archive/2022/07/27/greens-back-taihoa-call-on-oranga-tamariki-bill/index.html
+layout: layout.njk
 ---
 Greens Back Taihoa Call On Oranga Tamariki Bill
 ===============================================

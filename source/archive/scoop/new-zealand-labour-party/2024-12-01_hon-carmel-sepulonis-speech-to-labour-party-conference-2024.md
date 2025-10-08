@@ -1,9 +1,13 @@
 ---
 slug: hon-carmel-sepulonis-speech-to-labour-party-conference-2024
-title: "Hon Carmel Sepuloni's Speech To Labour Party Conference 2024"
-date: 2024-12-01
-source-url: https://www.scoop.co.nz/stories/PA2412/S00005/hon-carmel-sepulonis-speech-to-labour-party-conference-2024.htm
+title: Hon Carmel Sepuloni's Speech To Labour Party Conference 2024
+date: 2024-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00005/hon-carmel-sepulonis-speech-to-labour-party-conference-2024.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/12/01/hon-carmel-sepulonis-speech-to-labour-party-conference-2024/index.html
+layout: layout.njk
 ---
 Hon Carmel Sepuloni's Speech To Labour Party Conference 2024
 ============================================================

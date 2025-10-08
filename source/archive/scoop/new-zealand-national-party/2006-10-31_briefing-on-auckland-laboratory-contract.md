@@ -1,9 +1,12 @@
 ---
 slug: briefing-on-auckland-laboratory-contract
-title: "Briefing on Auckland laboratory contract"
-date: 2006-10-31
-source-url: https://www.scoop.co.nz/stories/PA0610/S00576/briefing-on-auckland-laboratory-contract.htm
+title: Briefing on Auckland laboratory contract
+date: 2006-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00576/briefing-on-auckland-laboratory-contract.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/31/briefing-on-auckland-laboratory-contract/index.html
+layout: layout.njk
 ---
 Briefing on Auckland laboratory contract
 ========================================

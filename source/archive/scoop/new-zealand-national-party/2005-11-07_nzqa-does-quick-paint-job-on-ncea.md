@@ -1,9 +1,12 @@
 ---
 slug: nzqa-does-quick-paint-job-on-ncea
-title: "NZQA does quick paint job on NCEA"
-date: 2005-11-07
-source-url: https://www.scoop.co.nz/stories/PA0511/S00083/nzqa-does-quick-paint-job-on-ncea.htm
+title: NZQA does quick paint job on NCEA
+date: 2005-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00083/nzqa-does-quick-paint-job-on-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/07/nzqa-does-quick-paint-job-on-ncea/index.html
+layout: layout.njk
 ---
 NZQA does quick paint job on NCEA
 =================================

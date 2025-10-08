@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-privileges-committee-&-winston-peters
-title: "News Worthy: Privileges Committee & Winston Peters"
-date: 2008-08-08
-source-url: https://www.scoop.co.nz/stories/PA0808/S00142/news-worthy-privileges-committee-winston-peters.htm
+title: 'News Worthy: Privileges Committee & Winston Peters'
+date: 2008-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00142/news-worthy-privileges-committee-winston-peters.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/08/news-worthy-privileges-committee-/index.html
+layout: layout.njk
 ---
 News Worthy: Privileges Committee & Winston Peters
 ==================================================

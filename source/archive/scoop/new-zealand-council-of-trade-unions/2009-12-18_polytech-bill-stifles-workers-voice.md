@@ -1,9 +1,12 @@
 ---
 slug: polytech-bill-stifles-workers-voice
-title: "Polytech Bill stifles workers’ voice"
-date: 2009-12-18
-source-url: https://www.scoop.co.nz/stories/BU0912/S00475/polytech-bill-stifles-workers-voice.htm
+title: Polytech Bill stifles workers’ voice
+date: 2009-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0912/S00475/polytech-bill-stifles-workers-voice.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/12/18/polytech-bill-stifles-workers-voice/index.html
+layout: layout.njk
 ---
 Polytech Bill stifles workers’ voice
 ====================================

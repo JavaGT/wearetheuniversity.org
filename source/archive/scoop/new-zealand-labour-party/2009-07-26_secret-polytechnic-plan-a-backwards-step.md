@@ -1,9 +1,12 @@
 ---
 slug: secret-polytechnic-plan-a-backwards-step
-title: "Secret polytechnic plan a backwards step"
-date: 2009-07-26
-source-url: https://www.scoop.co.nz/stories/PA0907/S00303/secret-polytechnic-plan-a-backwards-step.htm
+title: Secret polytechnic plan a backwards step
+date: 2009-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00303/secret-polytechnic-plan-a-backwards-step.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/26/secret-polytechnic-plan-a-backwards-step/index.html
+layout: layout.njk
 ---
 Secret polytechnic plan a backwards step
 ========================================

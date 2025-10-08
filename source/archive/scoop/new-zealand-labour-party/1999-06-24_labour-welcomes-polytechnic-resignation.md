@@ -1,9 +1,12 @@
 ---
 slug: labour-welcomes-polytechnic-resignation
-title: "Labour welcomes polytechnic resignation"
-date: 1999-06-24
-source-url: https://www.scoop.co.nz/stories/PO9906/S00034/labour-welcomes-polytechnic-resignation.htm
+title: Labour welcomes polytechnic resignation
+date: 1999-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9906/S00034/labour-welcomes-polytechnic-resignation.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/06/24/labour-welcomes-polytechnic-resignation/index.html
+layout: layout.njk
 ---
 Labour welcomes polytechnic resignation
 =======================================

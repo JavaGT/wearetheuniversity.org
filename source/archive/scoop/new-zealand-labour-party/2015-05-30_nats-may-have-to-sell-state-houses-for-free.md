@@ -1,9 +1,12 @@
 ---
 slug: nats-may-have-to-sell-state-houses-for-free
-title: "Nats may have to sell state houses for free"
-date: 2015-05-30
-source-url: https://www.scoop.co.nz/stories/PA1505/S00594/nats-may-have-to-sell-state-houses-for-free.htm
+title: Nats may have to sell state houses for free
+date: 2015-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00594/nats-may-have-to-sell-state-houses-for-free.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/30/nats-may-have-to-sell-state-houses-for-free/index.html
+layout: layout.njk
 ---
 Nats may have to sell state houses for free
 ===========================================

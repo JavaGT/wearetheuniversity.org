@@ -1,9 +1,13 @@
 ---
 slug: native-spider-named-after-university-of-canterbury-academic
-title: "Native Spider Named after University of Canterbury Academic"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/SC1708/S00021/native-spider-named-after-university-of-canterbury-academic.htm
+title: Native Spider Named after University of Canterbury Academic
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1708/S00021/native-spider-named-after-university-of-canterbury-academic.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/08/10/native-spider-named-after-university-of-canterbury-academic/index.html
+layout: layout.njk
 ---
 Native Spider Named after University of Canterbury Academic
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: adult-crime-deserves-adult-time-says-mark
-title: "Adult Crime Deserves Adult Time Says Mark"
-date: 2004-04-01
-source-url: https://www.scoop.co.nz/stories/PA0404/S00025/adult-crime-deserves-adult-time-says-mark.htm
+title: Adult Crime Deserves Adult Time Says Mark
+date: 2004-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00025/adult-crime-deserves-adult-time-says-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2004/04/01/adult-crime-deserves-adult-time-says-mark/index.html
+layout: layout.njk
 ---
 Adult Crime Deserves Adult Time Says Mark
 =========================================

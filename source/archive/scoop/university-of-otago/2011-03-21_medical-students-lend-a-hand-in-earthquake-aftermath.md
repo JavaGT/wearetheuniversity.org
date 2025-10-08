@@ -1,9 +1,13 @@
 ---
 slug: medical-students-lend-a-hand-in-earthquake-aftermath
-title: "Medical students lend a hand in earthquake aftermath"
-date: 2011-03-21
-source-url: https://www.scoop.co.nz/stories/AK1103/S00764/medical-students-lend-a-hand-in-earthquake-aftermath.htm
+title: Medical students lend a hand in earthquake aftermath
+date: 2011-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00764/medical-students-lend-a-hand-in-earthquake-aftermath.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/03/21/medical-students-lend-a-hand-in-earthquake-aftermath/index.html
+layout: layout.njk
 ---
 Medical students lend a hand in earthquake aftermath
 ====================================================

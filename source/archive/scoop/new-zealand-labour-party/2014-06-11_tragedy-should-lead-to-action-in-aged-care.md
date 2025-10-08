@@ -1,9 +1,12 @@
 ---
 slug: tragedy-should-lead-to-action-in-aged-care
-title: "Tragedy should lead to action in aged care"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/PA1406/S00130/tragedy-should-lead-to-action-in-aged-care.htm
+title: Tragedy should lead to action in aged care
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00130/tragedy-should-lead-to-action-in-aged-care.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/11/tragedy-should-lead-to-action-in-aged-care/index.html
+layout: layout.njk
 ---
 Tragedy should lead to action in aged care
 ==========================================

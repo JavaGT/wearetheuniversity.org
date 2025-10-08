@@ -1,9 +1,12 @@
 ---
 slug: king-to-receive-a-waikato-alumni-award
-title: "King to receive a Waikato alumni award"
-date: 2018-07-12
-source-url: https://www.scoop.co.nz/stories/PO1807/S00154/king-to-receive-a-waikato-alumni-award.htm
+title: King to receive a Waikato alumni award
+date: 2018-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00154/king-to-receive-a-waikato-alumni-award.htm
 author: university-of-waikato
+permalink: /archive/2018/07/12/king-to-receive-a-waikato-alumni-award/index.html
+layout: layout.njk
 ---
 King to receive a Waikato alumni award
 ======================================

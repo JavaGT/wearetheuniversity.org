@@ -1,9 +1,12 @@
 ---
 slug: nz-school-children-revealing-the-power-of-mānuka
-title: "NZ school children revealing the power of mānuka"
-date: 2018-05-11
-source-url: https://www.scoop.co.nz/stories/SC1805/S00032/nz-school-children-revealing-the-power-of-manuka.htm
+title: NZ school children revealing the power of mānuka
+date: 2018-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00032/nz-school-children-revealing-the-power-of-manuka.htm
 author: university-of-otago
+permalink: /archive/2018/05/11/nz-school-children-revealing-the-power-of-m/index.html
+layout: layout.njk
 ---
 NZ school children revealing the power of mānuka
 ================================================

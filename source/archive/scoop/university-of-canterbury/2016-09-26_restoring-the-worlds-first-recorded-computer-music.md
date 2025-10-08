@@ -1,9 +1,13 @@
 ---
 slug: restoring-the-worlds-first-recorded-computer-music
-title: "Restoring the world’s first recorded computer music"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/SC1609/S00068/restoring-the-worlds-first-recorded-computer-music.htm
+title: Restoring the world’s first recorded computer music
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00068/restoring-the-worlds-first-recorded-computer-music.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/09/26/restoring-the-worlds-first-recorded-computer-music/index.html
+layout: layout.njk
 ---
 Restoring the world’s first recorded computer music
 ===================================================

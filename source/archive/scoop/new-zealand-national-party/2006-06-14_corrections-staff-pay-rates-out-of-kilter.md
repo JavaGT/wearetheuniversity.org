@@ -1,9 +1,12 @@
 ---
 slug: corrections-staff-pay-rates-out-of-kilter
-title: "Corrections staff pay rates out of kilter"
-date: 2006-06-14
-source-url: https://www.scoop.co.nz/stories/PA0606/S00223/corrections-staff-pay-rates-out-of-kilter.htm
+title: Corrections staff pay rates out of kilter
+date: 2006-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00223/corrections-staff-pay-rates-out-of-kilter.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/14/corrections-staff-pay-rates-out-of-kilter/index.html
+layout: layout.njk
 ---
 Corrections staff pay rates out of kilter
 =========================================

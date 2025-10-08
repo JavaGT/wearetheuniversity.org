@@ -1,9 +1,12 @@
 ---
 slug: banks-still-big-overseas-borrowers
-title: "Banks still big overseas borrowers"
-date: 2010-12-22
-source-url: https://www.scoop.co.nz/stories/BU1012/S00757/banks-still-big-overseas-borrowers.htm
+title: Banks still big overseas borrowers
+date: 2010-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1012/S00757/banks-still-big-overseas-borrowers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/12/22/banks-still-big-overseas-borrowers/index.html
+layout: layout.njk
 ---
 Banks still big overseas borrowers
 ==================================

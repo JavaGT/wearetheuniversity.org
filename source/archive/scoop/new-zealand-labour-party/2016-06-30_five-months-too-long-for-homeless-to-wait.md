@@ -1,9 +1,12 @@
 ---
 slug: five-months-too-long-for-homeless-to-wait
-title: "Five months too long for homeless to wait"
-date: 2016-06-30
-source-url: https://www.scoop.co.nz/stories/PA1606/S00505/five-months-too-long-for-homeless-to-wait.htm
+title: Five months too long for homeless to wait
+date: 2016-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00505/five-months-too-long-for-homeless-to-wait.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/30/five-months-too-long-for-homeless-to-wait/index.html
+layout: layout.njk
 ---
 Five months too long for homeless to wait
 =========================================

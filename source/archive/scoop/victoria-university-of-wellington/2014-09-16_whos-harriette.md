@@ -1,9 +1,11 @@
 ---
 slug: whos-harriette
-title: "Who’s Harriette?"
-date: 2014-09-16
+title: Who’s Harriette?
+date: 2014-09-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1409/S00289/whos-harriette.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/16/whos-harriette/index.html
+layout: layout.njk
 ---
 Who’s Harriette?
 ================

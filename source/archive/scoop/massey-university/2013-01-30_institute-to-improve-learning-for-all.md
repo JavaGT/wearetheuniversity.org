@@ -1,9 +1,12 @@
 ---
 slug: institute-to-improve-learning-for-all
-title: "Institute To Improve Learning For All"
-date: 2013-01-30
-source-url: https://www.scoop.co.nz/stories/ED1301/S00103/institute-to-improve-learning-for-all.htm
+title: Institute To Improve Learning For All
+date: 2013-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00103/institute-to-improve-learning-for-all.htm
 author: massey-university
+permalink: /archive/2013/01/30/institute-to-improve-learning-for-all/index.html
+layout: layout.njk
 ---
 Institute To Improve Learning For All
 =====================================

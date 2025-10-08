@@ -1,9 +1,12 @@
 ---
 slug: new-allowance-recognises-expertise
-title: "New allowance recognises expertise"
-date: 2013-06-21
-source-url: https://www.scoop.co.nz/stories/ED1306/S00122/new-allowance-recognises-expertise.htm
+title: New allowance recognises expertise
+date: 2013-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00122/new-allowance-recognises-expertise.htm
 author: nzei
+permalink: /archive/2013/06/21/new-allowance-recognises-expertise/index.html
+layout: layout.njk
 ---
 New allowance recognises expertise
 ==================================

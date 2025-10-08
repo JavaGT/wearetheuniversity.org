@@ -1,9 +1,13 @@
 ---
 slug: study-seeks-pregnant-women-to-test-asthma-theory
-title: "Study seeks pregnant women to test asthma theory"
-date: 2006-10-13
-source-url: https://www.scoop.co.nz/stories/SC0610/S00024/study-seeks-pregnant-women-to-test-asthma-theory.htm
+title: Study seeks pregnant women to test asthma theory
+date: 2006-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0610/S00024/study-seeks-pregnant-women-to-test-asthma-theory.htm
 author: massey-university
+permalink: >-
+  /archive/2006/10/13/study-seeks-pregnant-women-to-test-asthma-theory/index.html
+layout: layout.njk
 ---
 Study seeks pregnant women to test asthma theory
 ================================================

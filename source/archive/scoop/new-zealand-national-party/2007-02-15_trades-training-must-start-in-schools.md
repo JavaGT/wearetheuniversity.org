@@ -1,9 +1,12 @@
 ---
 slug: trades-training-must-start-in-schools
-title: "Trades training must start in schools"
-date: 2007-02-15
-source-url: https://www.scoop.co.nz/stories/PA0702/S00271/trades-training-must-start-in-schools.htm
+title: Trades training must start in schools
+date: 2007-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00271/trades-training-must-start-in-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/15/trades-training-must-start-in-schools/index.html
+layout: layout.njk
 ---
 Trades training must start in schools
 =====================================

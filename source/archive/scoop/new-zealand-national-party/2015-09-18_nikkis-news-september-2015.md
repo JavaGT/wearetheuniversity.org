@@ -1,9 +1,11 @@
 ---
 slug: nikkis-news-september-2015
-title: "Nikki's News: September 2015"
-date: 2015-09-18
+title: 'Nikki''s News: September 2015'
+date: 2015-09-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1509/S00331/nikkis-news-september-2015.htm
 author: new-zealand-national-party
+permalink: /archive/2015/09/18/nikkis-news-september-2015/index.html
+layout: layout.njk
 ---
 Nikki's News: September 2015
 ============================

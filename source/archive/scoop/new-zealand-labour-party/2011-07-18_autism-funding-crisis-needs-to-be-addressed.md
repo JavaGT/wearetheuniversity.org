@@ -1,9 +1,12 @@
 ---
 slug: autism-funding-crisis-needs-to-be-addressed
-title: "Autism funding crisis needs to be addressed"
-date: 2011-07-18
-source-url: https://www.scoop.co.nz/stories/PA1107/S00305/autism-funding-crisis-needs-to-be-addressed.htm
+title: Autism funding crisis needs to be addressed
+date: 2011-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00305/autism-funding-crisis-needs-to-be-addressed.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/18/autism-funding-crisis-needs-to-be-addressed/index.html
+layout: layout.njk
 ---
 Autism funding crisis needs to be addressed
 ===========================================

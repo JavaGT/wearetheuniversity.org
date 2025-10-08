@@ -1,9 +1,12 @@
 ---
 slug: time-to-dismiss-welfare-working-group-report
-title: "Time to dismiss Welfare Working Group report"
-date: 2011-03-07
-source-url: https://www.scoop.co.nz/stories/PA1103/S00066/time-to-dismiss-welfare-working-group-report.htm
+title: Time to dismiss Welfare Working Group report
+date: 2011-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00066/time-to-dismiss-welfare-working-group-report.htm
 author: green-party
+permalink: /archive/2011/03/07/time-to-dismiss-welfare-working-group-report/index.html
+layout: layout.njk
 ---
 Time to dismiss Welfare Working Group report
 ============================================

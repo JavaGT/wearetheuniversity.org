@@ -1,9 +1,12 @@
 ---
 slug: state-of-the-nation-address-te-ururoa-flavell
-title: "State of the Nation Address Te Ururoa Flavell"
-date: 2006-02-21
-source-url: https://www.scoop.co.nz/stories/PA0602/S00309/state-of-the-nation-address-te-ururoa-flavell.htm
+title: State of the Nation Address Te Ururoa Flavell
+date: 2006-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00309/state-of-the-nation-address-te-ururoa-flavell.htm
 author: te-pati-maori
+permalink: /archive/2006/02/21/state-of-the-nation-address-te-ururoa-flavell/index.html
+layout: layout.njk
 ---
 State of the Nation Address Te Ururoa Flavell
 =============================================

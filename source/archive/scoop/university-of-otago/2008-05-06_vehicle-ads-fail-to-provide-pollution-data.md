@@ -1,9 +1,12 @@
 ---
 slug: vehicle-ads-fail-to-provide-pollution-data
-title: "Vehicle ads fail to provide pollution data"
-date: 2008-05-06
-source-url: https://www.scoop.co.nz/stories/ED0805/S00016/vehicle-ads-fail-to-provide-pollution-data.htm
+title: Vehicle ads fail to provide pollution data
+date: 2008-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00016/vehicle-ads-fail-to-provide-pollution-data.htm
 author: university-of-otago
+permalink: /archive/2008/05/06/vehicle-ads-fail-to-provide-pollution-data/index.html
+layout: layout.njk
 ---
 Vehicle ads fail to provide pollution data
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: brash-a-responsible-middle-course
-title: "Brash: A responsible middle course"
-date: 2005-08-09
-source-url: https://www.scoop.co.nz/stories/PA0508/S00229/brash-a-responsible-middle-course.htm
+title: 'Brash: A responsible middle course'
+date: 2005-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00229/brash-a-responsible-middle-course.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/09/brash-a-responsible-middle-course/index.html
+layout: layout.njk
 ---
 Brash: A responsible middle course
 ==================================

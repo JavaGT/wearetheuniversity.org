@@ -1,9 +1,13 @@
 ---
 slug: victoria-joins-prestigious-online-course-provider
-title: "Victoria joins prestigious online course provider"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/ED1609/S00065/victoria-joins-prestigious-online-course-provider.htm
+title: Victoria joins prestigious online course provider
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00065/victoria-joins-prestigious-online-course-provider.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/09/14/victoria-joins-prestigious-online-course-provider/index.html
+layout: layout.njk
 ---
 Victoria joins prestigious online course provider
 =================================================

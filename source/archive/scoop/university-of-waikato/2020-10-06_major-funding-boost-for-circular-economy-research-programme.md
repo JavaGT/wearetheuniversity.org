@@ -1,9 +1,13 @@
 ---
 slug: major-funding-boost-for-circular-economy-research-programme
-title: "Major Funding Boost For Circular Economy Research Programme"
-date: 2020-10-06
-source-url: https://www.scoop.co.nz/stories/PO2010/S00076/major-funding-boost-for-circular-economy-research-programme.htm
+title: Major Funding Boost For Circular Economy Research Programme
+date: 2020-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00076/major-funding-boost-for-circular-economy-research-programme.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/10/06/major-funding-boost-for-circular-economy-research-programme/index.html
+layout: layout.njk
 ---
 Major Funding Boost For Circular Economy Research Programme
 ===========================================================

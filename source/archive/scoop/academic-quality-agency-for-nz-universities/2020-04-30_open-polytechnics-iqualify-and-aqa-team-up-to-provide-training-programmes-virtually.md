@@ -1,9 +1,16 @@
 ---
-slug: open-polytechnics-iqualify-and-aqa-team-up-to-provide-training-programmes-virtually
-title: "Open Polytechnic’s IQualify And AQA Team Up To Provide Training Programmes Virtually"
-date: 2020-04-30
-source-url: https://www.scoop.co.nz/stories/ED2004/S00065/open-polytechnics-iqualify-and-aqa-team-up-to-provide-training-programmes-virtually.htm
+slug: >-
+  open-polytechnics-iqualify-and-aqa-team-up-to-provide-training-programmes-virtually
+title: >-
+  Open Polytechnic’s IQualify And AQA Team Up To Provide Training Programmes
+  Virtually
+date: 2020-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2004/S00065/open-polytechnics-iqualify-and-aqa-team-up-to-provide-training-programmes-virtually.htm
 author: academic-quality-agency-for-nz-universities
+permalink: >-
+  /archive/2020/04/30/open-polytechnics-iqualify-and-aqa-team-up-to-provide-training-programmes-virtually/index.html
+layout: layout.njk
 ---
 Open Polytechnic’s IQualify And AQA Team Up To Provide Training Programmes Virtually
 ====================================================================================

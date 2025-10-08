@@ -1,9 +1,13 @@
 ---
 slug: palmer-warts-and-all-account-of-tireless-reformer
-title: "Palmer: warts-and-all account of tireless reformer"
-date: 2010-11-17
-source-url: https://www.scoop.co.nz/stories/PO1011/S00224/palmer-warts-and-all-account-of-tireless-reformer.htm
+title: 'Palmer: warts-and-all account of tireless reformer'
+date: 2010-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00224/palmer-warts-and-all-account-of-tireless-reformer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2010/11/17/palmer-warts-and-all-account-of-tireless-reformer/index.html
+layout: layout.njk
 ---
 Palmer: warts-and-all account of tireless reformer
 ==================================================

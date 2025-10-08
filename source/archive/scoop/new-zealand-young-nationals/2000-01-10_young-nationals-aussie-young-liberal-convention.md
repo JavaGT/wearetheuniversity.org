@@ -1,9 +1,12 @@
 ---
 slug: young-nationals-aussie-young-liberal-convention
-title: "Young Nationals - Aussie Young Liberal Convention"
-date: 2000-01-10
-source-url: https://www.scoop.co.nz/stories/PO0001/S00003/young-nationals-aussie-young-liberal-convention.htm
+title: Young Nationals - Aussie Young Liberal Convention
+date: 2000-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0001/S00003/young-nationals-aussie-young-liberal-convention.htm
 author: new-zealand-young-nationals
+permalink: /archive/2000/01/10/young-nationals-aussie-young-liberal-convention/index.html
+layout: layout.njk
 ---
 Young Nationals - Aussie Young Liberal Convention
 =================================================

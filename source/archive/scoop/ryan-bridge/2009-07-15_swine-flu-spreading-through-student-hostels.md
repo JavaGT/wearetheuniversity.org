@@ -1,9 +1,12 @@
 ---
 slug: swine-flu-spreading-through-student-hostels
-title: "Swine Flu Spreading Through Student Hostels"
-date: 2009-07-15
-source-url: https://www.scoop.co.nz/stories/GE0907/S00077/swine-flu-spreading-through-student-hostels.htm
+title: Swine Flu Spreading Through Student Hostels
+date: 2009-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0907/S00077/swine-flu-spreading-through-student-hostels.htm
 author: ryan-bridge
+permalink: /archive/2009/07/15/swine-flu-spreading-through-student-hostels/index.html
+layout: layout.njk
 ---
 Swine Flu Spreading Through Student Hostels
 ===========================================

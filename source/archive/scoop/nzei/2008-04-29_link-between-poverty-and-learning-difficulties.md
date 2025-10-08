@@ -1,9 +1,12 @@
 ---
 slug: link-between-poverty-and-learning-difficulties
-title: "Link Between Poverty And Learning Difficulties"
-date: 2008-04-29
-source-url: https://www.scoop.co.nz/stories/ED0804/S00081/link-between-poverty-and-learning-difficulties.htm
+title: Link Between Poverty And Learning Difficulties
+date: 2008-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00081/link-between-poverty-and-learning-difficulties.htm
 author: nzei
+permalink: /archive/2008/04/29/link-between-poverty-and-learning-difficulties/index.html
+layout: layout.njk
 ---
 Link Between Poverty And Learning Difficulties
 ==============================================

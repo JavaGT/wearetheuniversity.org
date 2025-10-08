@@ -1,9 +1,12 @@
 ---
 slug: rutherford-medal-for-university-biophysicist
-title: "Rutherford Medal for University biophysicist"
-date: 2008-11-12
-source-url: https://www.scoop.co.nz/stories/SC0811/S00018/rutherford-medal-for-university-biophysicist.htm
+title: Rutherford Medal for University biophysicist
+date: 2008-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0811/S00018/rutherford-medal-for-university-biophysicist.htm
 author: massey-university
+permalink: /archive/2008/11/12/rutherford-medal-for-university-biophysicist/index.html
+layout: layout.njk
 ---
 Rutherford Medal for University biophysicist
 ============================================

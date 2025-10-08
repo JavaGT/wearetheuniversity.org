@@ -1,9 +1,13 @@
 ---
 slug: students-staying-engaged-at-maungakiekie-schools
-title: "Students staying engaged at Maungakiekie schools"
-date: 2015-07-01
-source-url: https://www.scoop.co.nz/stories/ED1507/S00011/students-staying-engaged-at-maungakiekie-schools.htm
+title: Students staying engaged at Maungakiekie schools
+date: 2015-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00011/students-staying-engaged-at-maungakiekie-schools.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/07/01/students-staying-engaged-at-maungakiekie-schools/index.html
+layout: layout.njk
 ---
 Students staying engaged at Maungakiekie schools
 ================================================

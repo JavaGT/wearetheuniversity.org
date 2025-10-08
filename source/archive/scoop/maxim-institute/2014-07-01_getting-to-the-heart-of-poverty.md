@@ -1,9 +1,12 @@
 ---
 slug: getting-to-the-heart-of-poverty
-title: "Getting To the Heart of Poverty"
-date: 2014-07-01
-source-url: https://www.scoop.co.nz/stories/PO1407/S00009/getting-to-the-heart-of-poverty.htm
+title: Getting To the Heart of Poverty
+date: 2014-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00009/getting-to-the-heart-of-poverty.htm
 author: maxim-institute
+permalink: /archive/2014/07/01/getting-to-the-heart-of-poverty/index.html
+layout: layout.njk
 ---
 Getting To the Heart of Poverty
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: can-greener-forms-of-economic-growth-be-sustainable
-title: "Can greener forms of economic growth be sustainable?"
-date: 2012-10-16
-source-url: https://www.scoop.co.nz/stories/BU1210/S00643/can-greener-forms-of-economic-growth-be-sustainable.htm
+title: Can greener forms of economic growth be sustainable?
+date: 2012-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1210/S00643/can-greener-forms-of-economic-growth-be-sustainable.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/10/16/can-greener-forms-of-economic-growth-be-sustainable/index.html
+layout: layout.njk
 ---
 Can greener forms of economic growth be sustainable?
 ====================================================

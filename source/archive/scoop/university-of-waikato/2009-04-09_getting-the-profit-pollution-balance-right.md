@@ -1,9 +1,12 @@
 ---
 slug: getting-the-profit-pollution-balance-right
-title: "Getting the profit pollution balance right"
-date: 2009-04-09
-source-url: https://www.scoop.co.nz/stories/PO0904/S00091/getting-the-profit-pollution-balance-right.htm
+title: Getting the profit pollution balance right
+date: 2009-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0904/S00091/getting-the-profit-pollution-balance-right.htm
 author: university-of-waikato
+permalink: /archive/2009/04/09/getting-the-profit-pollution-balance-right/index.html
+layout: layout.njk
 ---
 Getting the profit pollution balance right
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-has-no-police-plan-to-tackle-truancy
-title: "Labour has no police plan to tackle truancy"
-date: 2006-06-16
-source-url: https://www.scoop.co.nz/stories/PA0606/S00337/labour-has-no-police-plan-to-tackle-truancy.htm
+title: Labour has no police plan to tackle truancy
+date: 2006-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00337/labour-has-no-police-plan-to-tackle-truancy.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/16/labour-has-no-police-plan-to-tackle-truancy/index.html
+layout: layout.njk
 ---
 Labour has no police plan to tackle truancy
 ===========================================

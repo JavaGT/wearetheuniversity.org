@@ -1,9 +1,12 @@
 ---
 slug: academics-and-unionists-support-paul-hopkinson
-title: "Academics and Unionists support Paul Hopkinson"
-date: 2008-10-30
-source-url: https://www.scoop.co.nz/stories/PO0810/S00501/academics-and-unionists-support-paul-hopkinson.htm
+title: Academics and Unionists support Paul Hopkinson
+date: 2008-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00501/academics-and-unionists-support-paul-hopkinson.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2008/10/30/academics-and-unionists-support-paul-hopkinson/index.html
+layout: layout.njk
 ---
 Academics and Unionists support Paul Hopkinson
 ==============================================

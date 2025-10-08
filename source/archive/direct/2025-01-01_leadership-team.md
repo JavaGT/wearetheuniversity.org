@@ -1,11 +1,14 @@
 ---
-title: "Leadership team"
-slug: "leadership-team"
-date: 2025-01-01
-source: "University of Auckland"
-source-url: https://www.auckland.ac.nz/en/intranet/faculty-group-spaces/arts-education/about-us/leadership-team.html
+title: Leadership team
+slug: leadership-team
+date: 2025-01-01T00:00:00.000Z
+source: University of Auckland
+source-url: >-
+  https://www.auckland.ac.nz/en/intranet/faculty-group-spaces/arts-education/about-us/leadership-team.html
 author: University of Auckland
 author-slug: university-of-auckland
+permalink: /archive/2025/01/01/leadership-team/index.html
+layout: layout.njk
 ---
 
 # Leadership team

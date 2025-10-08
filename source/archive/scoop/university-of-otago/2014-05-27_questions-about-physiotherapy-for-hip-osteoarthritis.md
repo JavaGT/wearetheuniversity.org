@@ -1,9 +1,13 @@
 ---
 slug: questions-about-physiotherapy-for-hip-osteoarthritis
-title: "Questions about physiotherapy for hip osteoarthritis"
-date: 2014-05-27
-source-url: https://www.scoop.co.nz/stories/GE1405/S00151/questions-about-physiotherapy-for-hip-osteoarthritis.htm
+title: Questions about physiotherapy for hip osteoarthritis
+date: 2014-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00151/questions-about-physiotherapy-for-hip-osteoarthritis.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/05/27/questions-about-physiotherapy-for-hip-osteoarthritis/index.html
+layout: layout.njk
 ---
 Questions about physiotherapy for hip osteoarthritis
 ====================================================

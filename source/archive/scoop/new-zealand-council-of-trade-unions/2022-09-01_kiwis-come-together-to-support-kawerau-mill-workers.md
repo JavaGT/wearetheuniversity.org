@@ -1,9 +1,13 @@
 ---
 slug: kiwis-come-together-to-support-kawerau-mill-workers
-title: "Kiwis Come Together To Support Kawerau Mill Workers"
-date: 2022-09-01
-source-url: https://www.scoop.co.nz/stories/PO2209/S00013/kiwis-come-together-to-support-kawerau-mill-workers.htm
+title: Kiwis Come Together To Support Kawerau Mill Workers
+date: 2022-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2209/S00013/kiwis-come-together-to-support-kawerau-mill-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2022/09/01/kiwis-come-together-to-support-kawerau-mill-workers/index.html
+layout: layout.njk
 ---
 Kiwis Come Together To Support Kawerau Mill Workers
 ===================================================

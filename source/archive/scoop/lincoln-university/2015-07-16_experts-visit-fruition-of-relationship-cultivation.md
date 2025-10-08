@@ -1,9 +1,13 @@
 ---
 slug: experts-visit-fruition-of-relationship-cultivation
-title: "Expert’s visit fruition of relationship cultivation"
-date: 2015-07-16
-source-url: https://www.scoop.co.nz/stories/BU1507/S00526/experts-visit-fruition-of-relationship-cultivation.htm
+title: Expert’s visit fruition of relationship cultivation
+date: 2015-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1507/S00526/experts-visit-fruition-of-relationship-cultivation.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/07/16/experts-visit-fruition-of-relationship-cultivation/index.html
+layout: layout.njk
 ---
 Expert’s visit fruition of relationship cultivation
 ===================================================

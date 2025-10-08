@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-stuart-panapa-qsm
-title: "Poroporoaki: Stuart Panapa QSM"
-date: 2015-08-19
-source-url: https://www.scoop.co.nz/stories/PA1508/S00312/poroporoaki-stuart-panapa-qsm.htm
+title: 'Poroporoaki: Stuart Panapa QSM'
+date: 2015-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00312/poroporoaki-stuart-panapa-qsm.htm
 author: te-pati-maori
+permalink: /archive/2015/08/19/poroporoaki-stuart-panapa-qsm/index.html
+layout: layout.njk
 ---
 Poroporoaki: Stuart Panapa QSM
 ==============================

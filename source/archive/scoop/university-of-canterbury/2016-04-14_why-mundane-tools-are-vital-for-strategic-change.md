@@ -1,9 +1,13 @@
 ---
 slug: why-mundane-tools-are-vital-for-strategic-change
-title: "Why 'mundane' tools are vital for strategic change"
-date: 2016-04-14
-source-url: https://www.scoop.co.nz/stories/BU1604/S00492/why-mundane-tools-are-vital-for-strategic-change.htm
+title: Why 'mundane' tools are vital for strategic change
+date: 2016-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1604/S00492/why-mundane-tools-are-vital-for-strategic-change.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/14/why-mundane-tools-are-vital-for-strategic-change/index.html
+layout: layout.njk
 ---
 Why 'mundane' tools are vital for strategic change
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: pm-wrong-no-education-spend-cuts-under-national
-title: "PM wrong – No education spend cuts under National"
-date: 2008-08-05
-source-url: https://www.scoop.co.nz/stories/PA0808/S00055/pm-wrong-no-education-spend-cuts-under-national.htm
+title: PM wrong – No education spend cuts under National
+date: 2008-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00055/pm-wrong-no-education-spend-cuts-under-national.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/05/pm-wrong-no-education-spend-cuts-under-national/index.html
+layout: layout.njk
 ---
 PM wrong – No education spend cuts under National
 =================================================

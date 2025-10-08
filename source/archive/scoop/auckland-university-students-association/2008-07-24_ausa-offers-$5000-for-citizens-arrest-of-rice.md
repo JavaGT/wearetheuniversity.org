@@ -1,9 +1,12 @@
 ---
 slug: ausa-offers-$5000-for-citizens-arrest-of-rice
-title: "AUSA offers $5000 for citizen's arrest of Rice"
-date: 2008-07-24
-source-url: https://www.scoop.co.nz/stories/PO0807/S00295/ausa-offers-5000-for-citizens-arrest-of-rice.htm
+title: AUSA offers $5000 for citizen's arrest of Rice
+date: 2008-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00295/ausa-offers-5000-for-citizens-arrest-of-rice.htm
 author: auckland-university-students-association
+permalink: /archive/2008/07/24/ausa-offers-/index.html
+layout: layout.njk
 ---
 AUSA offers $5000 for citizen's arrest of Rice
 ==============================================

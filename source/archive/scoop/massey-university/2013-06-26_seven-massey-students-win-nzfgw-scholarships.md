@@ -1,9 +1,12 @@
 ---
 slug: seven-massey-students-win-nzfgw-scholarships
-title: "Seven Massey students win NZFGW scholarships"
-date: 2013-06-26
-source-url: https://www.scoop.co.nz/stories/ED1306/S00142/seven-massey-students-win-nzfgw-scholarships.htm
+title: Seven Massey students win NZFGW scholarships
+date: 2013-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00142/seven-massey-students-win-nzfgw-scholarships.htm
 author: massey-university
+permalink: /archive/2013/06/26/seven-massey-students-win-nzfgw-scholarships/index.html
+layout: layout.njk
 ---
 Seven Massey students win NZFGW scholarships
 ============================================

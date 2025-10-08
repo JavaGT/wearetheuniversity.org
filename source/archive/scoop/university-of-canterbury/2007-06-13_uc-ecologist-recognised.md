@@ -1,9 +1,11 @@
 ---
 slug: uc-ecologist-recognised
-title: "UC ecologist recognised"
-date: 2007-06-13
+title: UC ecologist recognised
+date: 2007-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0706/S00054/uc-ecologist-recognised.htm
 author: university-of-canterbury
+permalink: /archive/2007/06/13/uc-ecologist-recognised/index.html
+layout: layout.njk
 ---
 UC ecologist recognised
 =======================

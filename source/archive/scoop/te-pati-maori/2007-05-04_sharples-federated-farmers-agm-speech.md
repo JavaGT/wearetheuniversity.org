@@ -1,9 +1,12 @@
 ---
 slug: sharples-federated-farmers-agm-speech
-title: "Sharples - Federated Farmers AGM Speech"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/PA0705/S00134/sharples-federated-farmers-agm-speech.htm
+title: Sharples - Federated Farmers AGM Speech
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00134/sharples-federated-farmers-agm-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/05/04/sharples-federated-farmers-agm-speech/index.html
+layout: layout.njk
 ---
 Sharples - Federated Farmers AGM Speech
 =======================================

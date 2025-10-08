@@ -1,9 +1,13 @@
 ---
 slug: uc-research-looks-at-peoples-responses-to-generous-actions
-title: "UC Research Looks At Peoples’ Responses To Generous Actions"
-date: 2013-04-08
-source-url: https://www.scoop.co.nz/stories/ED1304/S00027/uc-research-looks-at-peoples-responses-to-generous-actions.htm
+title: UC Research Looks At Peoples’ Responses To Generous Actions
+date: 2013-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00027/uc-research-looks-at-peoples-responses-to-generous-actions.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/08/uc-research-looks-at-peoples-responses-to-generous-actions/index.html
+layout: layout.njk
 ---
 UC Research Looks At Peoples’ Responses To Generous Actions
 ===========================================================

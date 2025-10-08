@@ -1,9 +1,13 @@
 ---
 slug: aut-university-te-reo-digital-learning-app-introduced
-title: "AUT University: Te reo digital learning app introduced"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/ED1405/S00035/aut-university-te-reo-digital-learning-app-introduced.htm
+title: 'AUT University: Te reo digital learning app introduced'
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00035/aut-university-te-reo-digital-learning-app-introduced.htm
 author: aut-university
+permalink: >-
+  /archive/2014/05/07/aut-university-te-reo-digital-learning-app-introduced/index.html
+layout: layout.njk
 ---
 AUT University: Te reo digital learning app introduced
 ======================================================

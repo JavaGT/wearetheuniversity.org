@@ -1,9 +1,12 @@
 ---
 slug: whos-right-mallard-or-the-nzei
-title: "Who's right, Mallard or the NZEI?"
-date: 2005-02-03
-source-url: https://www.scoop.co.nz/stories/PA0502/S00085/whos-right-mallard-or-the-nzei.htm
+title: Who's right, Mallard or the NZEI?
+date: 2005-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00085/whos-right-mallard-or-the-nzei.htm
 author: act-new-zealand
+permalink: /archive/2005/02/03/whos-right-mallard-or-the-nzei/index.html
+layout: layout.njk
 ---
 Who's right, Mallard or the NZEI?
 =================================

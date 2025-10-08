@@ -1,9 +1,13 @@
 ---
 slug: university-welcomes-govt-boost-for-international-education
-title: "University welcomes Govt boost for international education"
-date: 2012-03-30
-source-url: https://www.scoop.co.nz/stories/ED1203/S00162/university-welcomes-govt-boost-for-international-education.htm
+title: University welcomes Govt boost for international education
+date: 2012-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00162/university-welcomes-govt-boost-for-international-education.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/03/30/university-welcomes-govt-boost-for-international-education/index.html
+layout: layout.njk
 ---
 University welcomes Govt boost for international education
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: we-speak-too-little-and-fail-to-do-much
-title: "We Speak Too Little And Fail To Do Much"
-date: 2000-10-05
-source-url: https://www.scoop.co.nz/stories/PA0010/S00101/we-speak-too-little-and-fail-to-do-much.htm
+title: We Speak Too Little And Fail To Do Much
+date: 2000-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00101/we-speak-too-little-and-fail-to-do-much.htm
 author: act-new-zealand
+permalink: /archive/2000/10/05/we-speak-too-little-and-fail-to-do-much/index.html
+layout: layout.njk
 ---
 We Speak Too Little And Fail To Do Much
 =======================================

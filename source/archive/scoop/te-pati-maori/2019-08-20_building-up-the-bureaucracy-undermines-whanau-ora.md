@@ -1,9 +1,13 @@
 ---
 slug: building-up-the-bureaucracy-undermines-whanau-ora
-title: "Building up the Bureaucracy undermines Whanau Ora"
-date: 2019-08-20
-source-url: https://www.scoop.co.nz/stories/PO1908/S00255/building-up-the-bureaucracy-undermines-whanau-ora.htm
+title: Building up the Bureaucracy undermines Whanau Ora
+date: 2019-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00255/building-up-the-bureaucracy-undermines-whanau-ora.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2019/08/20/building-up-the-bureaucracy-undermines-whanau-ora/index.html
+layout: layout.njk
 ---
 Building up the Bureaucracy undermines Whanau Ora
 =================================================

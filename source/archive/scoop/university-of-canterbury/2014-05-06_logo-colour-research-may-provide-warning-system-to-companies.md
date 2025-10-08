@@ -1,9 +1,13 @@
 ---
 slug: logo-colour-research-may-provide-warning-system-to-companies
-title: "Logo colour research may provide warning system to companies"
-date: 2014-05-06
-source-url: https://www.scoop.co.nz/stories/ED1405/S00025/logo-colour-research-may-provide-warning-system-to-companies.htm
+title: Logo colour research may provide warning system to companies
+date: 2014-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00025/logo-colour-research-may-provide-warning-system-to-companies.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/06/logo-colour-research-may-provide-warning-system-to-companies/index.html
+layout: layout.njk
 ---
 Logo colour research may provide warning system to companies
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: govts-cost-cutting-hits-nz-kids-learning
-title: "Govt’s cost cutting hits NZ kids learning"
-date: 2012-05-16
-source-url: https://www.scoop.co.nz/stories/PA1205/S00269/govts-cost-cutting-hits-nz-kids-learning.htm
+title: Govt’s cost cutting hits NZ kids learning
+date: 2012-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00269/govts-cost-cutting-hits-nz-kids-learning.htm
 author: green-party
+permalink: /archive/2012/05/16/govts-cost-cutting-hits-nz-kids-learning/index.html
+layout: layout.njk
 ---
 Govt’s cost cutting hits NZ kids learning
 =========================================

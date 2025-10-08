@@ -1,9 +1,12 @@
 ---
 slug: loose-lips-sink-ships-says-young-labour
-title: "Loose lips sink ships says Young Labour"
-date: 2008-08-06
-source-url: https://www.scoop.co.nz/stories/PO0808/S00061/loose-lips-sink-ships-says-young-labour.htm
+title: Loose lips sink ships says Young Labour
+date: 2008-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00061/loose-lips-sink-ships-says-young-labour.htm
 author: young-labour
+permalink: /archive/2008/08/06/loose-lips-sink-ships-says-young-labour/index.html
+layout: layout.njk
 ---
 Loose lips sink ships says Young Labour
 =======================================

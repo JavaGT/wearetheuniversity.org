@@ -1,9 +1,12 @@
 ---
 slug: fewer-books-leading-to-vocabulary-decline
-title: "Fewer books leading to vocabulary decline"
-date: 2010-09-20
-source-url: https://www.scoop.co.nz/stories/ED1009/S00088/fewer-books-leading-to-vocabulary-decline.htm
+title: Fewer books leading to vocabulary decline
+date: 2010-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00088/fewer-books-leading-to-vocabulary-decline.htm
 author: massey-university
+permalink: /archive/2010/09/20/fewer-books-leading-to-vocabulary-decline/index.html
+layout: layout.njk
 ---
 Fewer books leading to vocabulary decline
 =========================================

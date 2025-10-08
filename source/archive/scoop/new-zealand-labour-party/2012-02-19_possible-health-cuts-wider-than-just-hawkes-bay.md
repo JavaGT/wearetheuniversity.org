@@ -1,9 +1,12 @@
 ---
 slug: possible-health-cuts-wider-than-just-hawkes-bay
-title: "Possible health cuts wider than just Hawke’s Bay"
-date: 2012-02-19
-source-url: https://www.scoop.co.nz/stories/PA1202/S00227/possible-health-cuts-wider-than-just-hawkes-bay.htm
+title: Possible health cuts wider than just Hawke’s Bay
+date: 2012-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00227/possible-health-cuts-wider-than-just-hawkes-bay.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/19/possible-health-cuts-wider-than-just-hawkes-bay/index.html
+layout: layout.njk
 ---
 Possible health cuts wider than just Hawke’s Bay
 ================================================

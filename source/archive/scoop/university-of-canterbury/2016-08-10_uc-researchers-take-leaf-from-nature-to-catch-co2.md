@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-take-leaf-from-nature-to-catch-co2
-title: "UC researchers take leaf from nature to catch CO2"
-date: 2016-08-10
-source-url: https://www.scoop.co.nz/stories/SC1608/S00034/uc-researchers-take-leaf-from-nature-to-catch-co2.htm
+title: UC researchers take leaf from nature to catch CO2
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1608/S00034/uc-researchers-take-leaf-from-nature-to-catch-co2.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/08/10/uc-researchers-take-leaf-from-nature-to-catch-co2/index.html
+layout: layout.njk
 ---
 UC researchers take leaf from nature to catch CO2
 =================================================

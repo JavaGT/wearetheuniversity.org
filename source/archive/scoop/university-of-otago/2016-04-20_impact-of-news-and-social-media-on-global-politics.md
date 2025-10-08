@@ -1,9 +1,13 @@
 ---
 slug: impact-of-news-and-social-media-on-global-politics
-title: "Impact of news and social media on global politics"
-date: 2016-04-20
-source-url: https://www.scoop.co.nz/stories/PO1604/S00266/impact-of-news-and-social-media-on-global-politics.htm
+title: Impact of news and social media on global politics
+date: 2016-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00266/impact-of-news-and-social-media-on-global-politics.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/20/impact-of-news-and-social-media-on-global-politics/index.html
+layout: layout.njk
 ---
 Impact of news and social media on global politics
 ==================================================

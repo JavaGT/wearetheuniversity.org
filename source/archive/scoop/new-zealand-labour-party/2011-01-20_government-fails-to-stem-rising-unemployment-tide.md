@@ -1,9 +1,13 @@
 ---
 slug: government-fails-to-stem-rising-unemployment-tide
-title: "Government fails to stem rising unemployment tide"
-date: 2011-01-20
-source-url: https://www.scoop.co.nz/stories/PA1101/S00054/government-fails-to-stem-rising-unemployment-tide.htm
+title: Government fails to stem rising unemployment tide
+date: 2011-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00054/government-fails-to-stem-rising-unemployment-tide.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/01/20/government-fails-to-stem-rising-unemployment-tide/index.html
+layout: layout.njk
 ---
 Government fails to stem rising unemployment tide
 =================================================

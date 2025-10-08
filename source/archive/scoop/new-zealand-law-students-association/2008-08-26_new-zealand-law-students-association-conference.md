@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-law-students-association-conference
-title: "New Zealand Law Students’ Association Conference"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/BU0808/S00469/new-zealand-law-students-association-conference.htm
+title: New Zealand Law Students’ Association Conference
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0808/S00469/new-zealand-law-students-association-conference.htm
 author: new-zealand-law-students-association
+permalink: /archive/2008/08/26/new-zealand-law-students-association-conference/index.html
+layout: layout.njk
 ---
 New Zealand Law Students’ Association Conference
 ================================================

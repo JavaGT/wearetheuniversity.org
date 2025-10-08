@@ -1,9 +1,12 @@
 ---
 slug: national-to-reintroduce-market-rents
-title: "National to reintroduce market rents"
-date: 2005-09-05
-source-url: https://www.scoop.co.nz/stories/PA0509/S00114/national-to-reintroduce-market-rents.htm
+title: National to reintroduce market rents
+date: 2005-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00114/national-to-reintroduce-market-rents.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/05/national-to-reintroduce-market-rents/index.html
+layout: layout.njk
 ---
 National to reintroduce market rents
 ====================================

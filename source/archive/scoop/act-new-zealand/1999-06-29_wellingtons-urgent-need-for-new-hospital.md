@@ -1,9 +1,12 @@
 ---
 slug: wellingtons-urgent-need-for-new-hospital
-title: "Wellington's urgent need for new hospital"
-date: 1999-06-29
-source-url: https://www.scoop.co.nz/stories/PA9906/S00299/wellingtons-urgent-need-for-new-hospital.htm
+title: Wellington's urgent need for new hospital
+date: 1999-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00299/wellingtons-urgent-need-for-new-hospital.htm
 author: act-new-zealand
+permalink: /archive/1999/06/29/wellingtons-urgent-need-for-new-hospital/index.html
+layout: layout.njk
 ---
 Wellington's urgent need for new hospital
 =========================================

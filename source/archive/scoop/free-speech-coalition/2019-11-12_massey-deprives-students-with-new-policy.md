@@ -1,9 +1,12 @@
 ---
 slug: massey-deprives-students-with-new-policy
-title: "Massey deprives students with new policy"
-date: 2019-11-12
-source-url: https://www.scoop.co.nz/stories/PO1911/S00148/massey-deprives-students-with-new-policy.htm
+title: Massey deprives students with new policy
+date: 2019-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1911/S00148/massey-deprives-students-with-new-policy.htm
 author: free-speech-coalition
+permalink: /archive/2019/11/12/massey-deprives-students-with-new-policy/index.html
+layout: layout.njk
 ---
 Massey deprives students with new policy
 ========================================

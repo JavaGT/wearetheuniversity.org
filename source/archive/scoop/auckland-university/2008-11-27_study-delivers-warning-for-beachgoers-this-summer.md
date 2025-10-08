@@ -1,9 +1,13 @@
 ---
 slug: study-delivers-warning-for-beachgoers-this-summer
-title: "Study delivers warning for beachgoers this summer"
-date: 2008-11-27
-source-url: https://www.scoop.co.nz/stories/CU0811/S00288/study-delivers-warning-for-beachgoers-this-summer.htm
+title: Study delivers warning for beachgoers this summer
+date: 2008-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0811/S00288/study-delivers-warning-for-beachgoers-this-summer.htm
 author: auckland-university
+permalink: >-
+  /archive/2008/11/27/study-delivers-warning-for-beachgoers-this-summer/index.html
+layout: layout.njk
 ---
 Study delivers warning for beachgoers this summer
 =================================================

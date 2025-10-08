@@ -1,9 +1,12 @@
 ---
 slug: building-better-housing-under-national
-title: "Building better housing under National"
-date: 2011-11-05
-source-url: https://www.scoop.co.nz/stories/PA1111/S00097/building-better-housing-under-national.htm
+title: Building better housing under National
+date: 2011-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00097/building-better-housing-under-national.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/05/building-better-housing-under-national/index.html
+layout: layout.njk
 ---
 Building better housing under National
 ======================================

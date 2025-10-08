@@ -1,9 +1,12 @@
 ---
 slug: maori-families-will-be-among-hardest-hit-by-ets
-title: "Maori families will be among hardest hit by ETS"
-date: 2009-11-19
-source-url: https://www.scoop.co.nz/stories/PA0911/S00274/maori-families-will-be-among-hardest-hit-by-ets.htm
+title: Maori families will be among hardest hit by ETS
+date: 2009-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00274/maori-families-will-be-among-hardest-hit-by-ets.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/19/maori-families-will-be-among-hardest-hit-by-ets/index.html
+layout: layout.njk
 ---
 Maori families will be among hardest hit by ETS
 ===============================================

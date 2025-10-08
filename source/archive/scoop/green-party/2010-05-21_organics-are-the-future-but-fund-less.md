@@ -1,9 +1,12 @@
 ---
 slug: organics-are-the-future-but-fund-less
-title: "Organics are the future, but fund-less"
-date: 2010-05-21
-source-url: https://www.scoop.co.nz/stories/PA1005/S00348/organics-are-the-future-but-fund-less.htm
+title: Organics are the future, but fund-less
+date: 2010-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00348/organics-are-the-future-but-fund-less.htm
 author: green-party
+permalink: /archive/2010/05/21/organics-are-the-future-but-fund-less/index.html
+layout: layout.njk
 ---
 Organics are the future, but fund-less
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: collins-and-english-split-over-police-funding
-title: "Collins and English split over police funding"
-date: 2016-12-07
-source-url: https://www.scoop.co.nz/stories/PA1612/S00110/collins-and-english-split-over-police-funding.htm
+title: Collins and English split over police funding
+date: 2016-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00110/collins-and-english-split-over-police-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/12/07/collins-and-english-split-over-police-funding/index.html
+layout: layout.njk
 ---
 Collins and English split over police funding
 =============================================

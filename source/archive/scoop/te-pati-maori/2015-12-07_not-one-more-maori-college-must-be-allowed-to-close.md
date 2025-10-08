@@ -1,9 +1,13 @@
 ---
 slug: not-one-more-maori-college-must-be-allowed-to-close
-title: "Not one more Maori college must be allowed to close"
-date: 2015-12-07
-source-url: https://www.scoop.co.nz/stories/ED1512/S00027/not-one-more-maori-college-must-be-allowed-to-close.htm
+title: Not one more Maori college must be allowed to close
+date: 2015-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00027/not-one-more-maori-college-must-be-allowed-to-close.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2015/12/07/not-one-more-maori-college-must-be-allowed-to-close/index.html
+layout: layout.njk
 ---
 Not one more Maori college must be allowed to close
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: lincoln-named-for-leadership-of-new-cre
-title: "Lincoln named for leadership of new CRE"
-date: 2002-11-20
-source-url: https://www.scoop.co.nz/stories/ED0211/S00049/lincoln-named-for-leadership-of-new-cre.htm
+title: Lincoln named for leadership of new CRE
+date: 2002-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00049/lincoln-named-for-leadership-of-new-cre.htm
 author: lincoln-university
+permalink: /archive/2002/11/20/lincoln-named-for-leadership-of-new-cre/index.html
+layout: layout.njk
 ---
 Lincoln named for leadership of new CRE
 =======================================

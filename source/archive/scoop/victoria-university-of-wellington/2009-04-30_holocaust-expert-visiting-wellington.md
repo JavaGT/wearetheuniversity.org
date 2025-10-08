@@ -1,9 +1,12 @@
 ---
 slug: holocaust-expert-visiting-wellington
-title: "Holocaust expert visiting Wellington"
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/ED0904/S00075/holocaust-expert-visiting-wellington.htm
+title: Holocaust expert visiting Wellington
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00075/holocaust-expert-visiting-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/04/30/holocaust-expert-visiting-wellington/index.html
+layout: layout.njk
 ---
 Holocaust expert visiting Wellington
 ====================================

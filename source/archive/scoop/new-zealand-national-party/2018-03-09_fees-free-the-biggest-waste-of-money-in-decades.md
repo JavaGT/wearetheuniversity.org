@@ -1,9 +1,12 @@
 ---
 slug: fees-free-the-biggest-waste-of-money-in-decades
-title: "Fees-free the biggest waste of money in decades"
-date: 2018-03-09
-source-url: https://www.scoop.co.nz/stories/PA1803/S00096/fees-free-the-biggest-waste-of-money-in-decades.htm
+title: Fees-free the biggest waste of money in decades
+date: 2018-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00096/fees-free-the-biggest-waste-of-money-in-decades.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/09/fees-free-the-biggest-waste-of-money-in-decades/index.html
+layout: layout.njk
 ---
 Fees-free the biggest waste of money in decades
 ===============================================

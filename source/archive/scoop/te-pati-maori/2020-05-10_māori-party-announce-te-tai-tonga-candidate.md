@@ -1,9 +1,12 @@
 ---
 slug: māori-party-announce-te-tai-tonga-candidate
-title: "Māori Party Announce Te Tai Tonga Candidate"
-date: 2020-05-10
-source-url: https://www.scoop.co.nz/stories/PO2005/S00116/maori-party-announce-te-tai-tonga-candidate.htm
+title: Māori Party Announce Te Tai Tonga Candidate
+date: 2020-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00116/maori-party-announce-te-tai-tonga-candidate.htm
 author: te-pati-maori
+permalink: /archive/2020/05/10/m/index.html
+layout: layout.njk
 ---
 Māori Party Announce Te Tai Tonga Candidate
 ===========================================

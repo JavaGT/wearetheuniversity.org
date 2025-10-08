@@ -1,9 +1,13 @@
 ---
 slug: freedom-of-expression-on-campus-bill-needed-more-than-ever
-title: "Freedom Of Expression On Campus Bill Needed More Than Ever"
-date: 2022-04-08
-source-url: https://www.scoop.co.nz/stories/PA2204/S00072/freedom-of-expression-on-campus-bill-needed-more-than-ever.htm
+title: Freedom Of Expression On Campus Bill Needed More Than Ever
+date: 2022-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00072/freedom-of-expression-on-campus-bill-needed-more-than-ever.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/04/08/freedom-of-expression-on-campus-bill-needed-more-than-ever/index.html
+layout: layout.njk
 ---
 Freedom Of Expression On Campus Bill Needed More Than Ever
 ==========================================================

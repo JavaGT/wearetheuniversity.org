@@ -1,9 +1,12 @@
 ---
 slug: greens-saddened-by-death-of-parihaka-leader
-title: "Greens saddened by death of Parihaka leader"
-date: 2010-08-18
-source-url: https://www.scoop.co.nz/stories/PA1008/S00264/greens-saddened-by-death-of-parihaka-leader.htm
+title: Greens saddened by death of Parihaka leader
+date: 2010-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00264/greens-saddened-by-death-of-parihaka-leader.htm
 author: green-party
+permalink: /archive/2010/08/18/greens-saddened-by-death-of-parihaka-leader/index.html
+layout: layout.njk
 ---
 Greens saddened by death of Parihaka leader
 ===========================================

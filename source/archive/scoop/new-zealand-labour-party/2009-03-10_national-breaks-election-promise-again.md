@@ -1,9 +1,12 @@
 ---
 slug: national-breaks-election-promise-again
-title: "National breaks election promise again"
-date: 2009-03-10
-source-url: https://www.scoop.co.nz/stories/PA0903/S00144/national-breaks-election-promise-again.htm
+title: National breaks election promise again
+date: 2009-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00144/national-breaks-election-promise-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/10/national-breaks-election-promise-again/index.html
+layout: layout.njk
 ---
 National breaks election promise again
 ======================================

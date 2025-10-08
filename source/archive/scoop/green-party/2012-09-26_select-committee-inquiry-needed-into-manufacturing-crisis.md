@@ -1,9 +1,13 @@
 ---
 slug: select-committee-inquiry-needed-into-manufacturing-crisis
-title: "Select Committee inquiry needed into manufacturing crisis"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/PA1209/S00390/select-committee-inquiry-needed-into-manufacturing-crisis.htm
+title: Select Committee inquiry needed into manufacturing crisis
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00390/select-committee-inquiry-needed-into-manufacturing-crisis.htm
 author: green-party
+permalink: >-
+  /archive/2012/09/26/select-committee-inquiry-needed-into-manufacturing-crisis/index.html
+layout: layout.njk
 ---
 Select Committee inquiry needed into manufacturing crisis
 =========================================================

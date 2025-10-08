@@ -1,9 +1,12 @@
 ---
 slug: its-about-nzers-mr-english-not-politicians
-title: "It’s about NZers, Mr English, not politicians"
-date: 2009-07-22
-source-url: https://www.scoop.co.nz/stories/PA0907/S00245/its-about-nzers-mr-english-not-politicians.htm
+title: It’s about NZers, Mr English, not politicians
+date: 2009-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00245/its-about-nzers-mr-english-not-politicians.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/22/its-about-nzers-mr-english-not-politicians/index.html
+layout: layout.njk
 ---
 It’s about NZers, Mr English, not politicians
 =============================================

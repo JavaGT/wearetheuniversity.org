@@ -1,9 +1,13 @@
 ---
 slug: computer-science-scholarship-entrants-outstanding
-title: "Computer Science Scholarship Entrants Outstanding"
-date: 2004-11-14
-source-url: https://www.scoop.co.nz/stories/ED0411/S00042/computer-science-scholarship-entrants-outstanding.htm
+title: Computer Science Scholarship Entrants Outstanding
+date: 2004-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00042/computer-science-scholarship-entrants-outstanding.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/11/14/computer-science-scholarship-entrants-outstanding/index.html
+layout: layout.njk
 ---
 Computer Science Scholarship Entrants Outstanding
 =================================================

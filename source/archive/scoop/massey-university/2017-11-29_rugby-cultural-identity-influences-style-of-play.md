@@ -1,9 +1,13 @@
 ---
 slug: rugby-cultural-identity-influences-style-of-play
-title: "Rugby: Cultural Identity Influences Style of Play"
-date: 2017-11-29
-source-url: https://www.scoop.co.nz/stories/CU1711/S00519/rugby-cultural-identity-influences-style-of-play.htm
+title: 'Rugby: Cultural Identity Influences Style of Play'
+date: 2017-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1711/S00519/rugby-cultural-identity-influences-style-of-play.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/29/rugby-cultural-identity-influences-style-of-play/index.html
+layout: layout.njk
 ---
 Rugby: Cultural Identity Influences Style of Play
 =================================================

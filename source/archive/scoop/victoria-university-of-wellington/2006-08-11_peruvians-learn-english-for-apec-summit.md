@@ -1,9 +1,12 @@
 ---
 slug: peruvians-learn-english-for-apec-summit
-title: "Peruvians learn English for APEC Summit"
-date: 2006-08-11
-source-url: https://www.scoop.co.nz/stories/ED0608/S00042/peruvians-learn-english-for-apec-summit.htm
+title: Peruvians learn English for APEC Summit
+date: 2006-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00042/peruvians-learn-english-for-apec-summit.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/11/peruvians-learn-english-for-apec-summit/index.html
+layout: layout.njk
 ---
 Peruvians learn English for APEC Summit
 =======================================

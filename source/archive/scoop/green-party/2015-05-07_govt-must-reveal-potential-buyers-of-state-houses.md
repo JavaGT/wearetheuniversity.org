@@ -1,9 +1,13 @@
 ---
 slug: govt-must-reveal-potential-buyers-of-state-houses
-title: "Govt must reveal potential buyers of state houses"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/PA1505/S00109/govt-must-reveal-potential-buyers-of-state-houses.htm
+title: Govt must reveal potential buyers of state houses
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00109/govt-must-reveal-potential-buyers-of-state-houses.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/07/govt-must-reveal-potential-buyers-of-state-houses/index.html
+layout: layout.njk
 ---
 Govt must reveal potential buyers of state houses
 =================================================

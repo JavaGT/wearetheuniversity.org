@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-5-may-2006-(#245)
-title: "www.mccully.co.nz 5 May 2006 (#245)"
-date: 2006-05-05
-source-url: https://www.scoop.co.nz/stories/PA0605/S00145/wwwmccullyconz-5-may-2006-245.htm
+title: www.mccully.co.nz 5 May 2006 (#245)
+date: 2006-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00145/wwwmccullyconz-5-may-2006-245.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/05/www-mccully-co-nz-5-may-2006-/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz 5 May 2006 (#245)
 ===================================

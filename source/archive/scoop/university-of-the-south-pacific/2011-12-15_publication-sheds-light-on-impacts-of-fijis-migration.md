@@ -1,9 +1,13 @@
 ---
 slug: publication-sheds-light-on-impacts-of-fijis-migration
-title: "Publication Sheds Light On Impacts Of Fiji’s Migration"
-date: 2011-12-15
-source-url: https://www.scoop.co.nz/stories/WO1112/S00477/publication-sheds-light-on-impacts-of-fijis-migration.htm
+title: Publication Sheds Light On Impacts Of Fiji’s Migration
+date: 2011-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1112/S00477/publication-sheds-light-on-impacts-of-fijis-migration.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2011/12/15/publication-sheds-light-on-impacts-of-fijis-migration/index.html
+layout: layout.njk
 ---
 Publication Sheds Light On Impacts Of Fiji’s Migration
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: has-nz-first-done-its-powerlines-homework
-title: "Has NZ First done its powerlines homework?"
-date: 2005-02-16
-source-url: https://www.scoop.co.nz/stories/PA0502/S00361/has-nz-first-done-its-powerlines-homework.htm
+title: Has NZ First done its powerlines homework?
+date: 2005-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00361/has-nz-first-done-its-powerlines-homework.htm
 author: green-party
+permalink: /archive/2005/02/16/has-nz-first-done-its-powerlines-homework/index.html
+layout: layout.njk
 ---
 Has NZ First done its powerlines homework?
 ==========================================

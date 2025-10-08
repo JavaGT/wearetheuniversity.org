@@ -1,9 +1,12 @@
 ---
 slug: govt-report-justifies-universal-allowance-call
-title: "Govt report justifies universal allowance call"
-date: 2008-07-30
-source-url: https://www.scoop.co.nz/stories/ED0807/S00094/govt-report-justifies-universal-allowance-call.htm
+title: Govt report justifies universal allowance call
+date: 2008-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00094/govt-report-justifies-universal-allowance-call.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/07/30/govt-report-justifies-universal-allowance-call/index.html
+layout: layout.njk
 ---
 Govt report justifies universal allowance call
 ==============================================

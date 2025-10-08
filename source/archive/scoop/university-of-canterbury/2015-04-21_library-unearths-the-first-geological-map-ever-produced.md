@@ -1,9 +1,13 @@
 ---
 slug: library-unearths-the-first-geological-map-ever-produced
-title: "Library unearths the first geological map ever produced"
-date: 2015-04-21
-source-url: https://www.scoop.co.nz/stories/SC1504/S00057/library-unearths-the-first-geological-map-ever-produced.htm
+title: Library unearths the first geological map ever produced
+date: 2015-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00057/library-unearths-the-first-geological-map-ever-produced.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/21/library-unearths-the-first-geological-map-ever-produced/index.html
+layout: layout.njk
 ---
 Library unearths the first geological map ever produced
 =======================================================

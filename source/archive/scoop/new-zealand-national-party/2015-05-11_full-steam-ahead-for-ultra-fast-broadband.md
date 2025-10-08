@@ -1,9 +1,12 @@
 ---
 slug: full-steam-ahead-for-ultra-fast-broadband
-title: "Full steam ahead for Ultra-Fast Broadband"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/PA1505/S00174/full-steam-ahead-for-ultra-fast-broadband.htm
+title: Full steam ahead for Ultra-Fast Broadband
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00174/full-steam-ahead-for-ultra-fast-broadband.htm
 author: new-zealand-national-party
+permalink: /archive/2015/05/11/full-steam-ahead-for-ultra-fast-broadband/index.html
+layout: layout.njk
 ---
 Full steam ahead for Ultra-Fast Broadband
 =========================================

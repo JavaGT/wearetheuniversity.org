@@ -1,9 +1,13 @@
 ---
 slug: study-into-didymos-impact-on-55-south-island-waterways
-title: "Study into Didymo’s impact on 55 South Island waterways"
-date: 2014-08-10
-source-url: https://www.scoop.co.nz/stories/SC1408/S00030/study-into-didymos-impact-on-55-south-island-waterways.htm
+title: Study into Didymo’s impact on 55 South Island waterways
+date: 2014-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00030/study-into-didymos-impact-on-55-south-island-waterways.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/10/study-into-didymos-impact-on-55-south-island-waterways/index.html
+layout: layout.njk
 ---
 Study into Didymo’s impact on 55 South Island waterways
 =======================================================

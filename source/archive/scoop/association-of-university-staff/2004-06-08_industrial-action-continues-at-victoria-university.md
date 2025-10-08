@@ -1,9 +1,13 @@
 ---
 slug: industrial-action-continues-at-victoria-university
-title: "Industrial action continues at Victoria University"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/ED0406/S00030/industrial-action-continues-at-victoria-university.htm
+title: Industrial action continues at Victoria University
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00030/industrial-action-continues-at-victoria-university.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2004/06/08/industrial-action-continues-at-victoria-university/index.html
+layout: layout.njk
 ---
 Industrial action continues at Victoria University
 ==================================================

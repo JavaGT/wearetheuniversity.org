@@ -1,9 +1,12 @@
 ---
 slug: labour-celebrates-young-kiwis
-title: "Labour celebrates young Kiwis"
-date: 2005-08-29
-source-url: https://www.scoop.co.nz/stories/PA0508/S00730/labour-celebrates-young-kiwis.htm
+title: Labour celebrates young Kiwis
+date: 2005-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00730/labour-celebrates-young-kiwis.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/29/labour-celebrates-young-kiwis/index.html
+layout: layout.njk
 ---
 Labour celebrates young Kiwis
 =============================

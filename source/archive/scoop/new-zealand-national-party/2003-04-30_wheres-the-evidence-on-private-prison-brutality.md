@@ -1,9 +1,12 @@
 ---
 slug: wheres-the-evidence-on-private-prison-brutality
-title: "Where's the evidence on private prison brutality?"
-date: 2003-04-30
-source-url: https://www.scoop.co.nz/stories/PA0304/S00576/wheres-the-evidence-on-private-prison-brutality.htm
+title: Where's the evidence on private prison brutality?
+date: 2003-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00576/wheres-the-evidence-on-private-prison-brutality.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/30/wheres-the-evidence-on-private-prison-brutality/index.html
+layout: layout.njk
 ---
 Where's the evidence on private prison brutality?
 =================================================

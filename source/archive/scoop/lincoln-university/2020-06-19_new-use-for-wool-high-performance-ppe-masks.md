@@ -1,9 +1,12 @@
 ---
 slug: new-use-for-wool-high-performance-ppe-masks
-title: "New use for wool – high-performance PPE masks"
-date: 2020-06-19
-source-url: https://www.scoop.co.nz/stories/SC2006/S00041/new-use-for-wool-high-performance-ppe-masks.htm
+title: New use for wool – high-performance PPE masks
+date: 2020-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2006/S00041/new-use-for-wool-high-performance-ppe-masks.htm
 author: lincoln-university
+permalink: /archive/2020/06/19/new-use-for-wool-high-performance-ppe-masks/index.html
+layout: layout.njk
 ---
 New use for wool – high-performance PPE masks
 =============================================

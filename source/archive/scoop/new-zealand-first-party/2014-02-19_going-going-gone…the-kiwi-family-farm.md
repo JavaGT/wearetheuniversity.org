@@ -1,9 +1,12 @@
 ---
 slug: going-going-gone…the-kiwi-family-farm
-title: "Going Going Gone…The Kiwi Family Farm"
-date: 2014-02-19
-source-url: https://www.scoop.co.nz/stories/PA1402/S00244/going-going-gonethe-kiwi-family-farm.htm
+title: Going Going Gone…The Kiwi Family Farm
+date: 2014-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00244/going-going-gonethe-kiwi-family-farm.htm
 author: new-zealand-first-party
+permalink: /archive/2014/02/19/going-going-gone/index.html
+layout: layout.njk
 ---
 Going Going Gone…The Kiwi Family Farm
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: universities-responding-to-christchurch-students-(update)
-title: "Universities responding to Christchurch students’ (update)"
-date: 2011-03-04
-source-url: https://www.scoop.co.nz/stories/ED1103/S00038/universities-responding-to-christchurch-students-update.htm
+title: Universities responding to Christchurch students’ (update)
+date: 2011-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00038/universities-responding-to-christchurch-students-update.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2011/03/04/universities-responding-to-christchurch-students-/index.html
+layout: layout.njk
 ---
 Universities responding to Christchurch students’ (update)
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: inaugural-critic-and-conscience-award
-title: "Inaugural Critic and Conscience Award"
-date: 2017-09-13
-source-url: https://www.scoop.co.nz/stories/PO1709/S00231/inaugural-critic-and-conscience-award.htm
+title: Inaugural Critic and Conscience Award
+date: 2017-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00231/inaugural-critic-and-conscience-award.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2017/09/13/inaugural-critic-and-conscience-award/index.html
+layout: layout.njk
 ---
 Inaugural Critic and Conscience Award
 =====================================

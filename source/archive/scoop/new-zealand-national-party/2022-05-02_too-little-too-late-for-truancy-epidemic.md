@@ -1,9 +1,12 @@
 ---
 slug: too-little-too-late-for-truancy-epidemic
-title: "Too Little, Too Late For Truancy Epidemic"
-date: 2022-05-02
-source-url: https://www.scoop.co.nz/stories/PA2205/S00007/too-little-too-late-for-truancy-epidemic.htm
+title: Too Little, Too Late For Truancy Epidemic
+date: 2022-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00007/too-little-too-late-for-truancy-epidemic.htm
 author: new-zealand-national-party
+permalink: /archive/2022/05/02/too-little-too-late-for-truancy-epidemic/index.html
+layout: layout.njk
 ---
 Too Little, Too Late For Truancy Epidemic
 =========================================

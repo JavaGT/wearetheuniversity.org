@@ -1,9 +1,12 @@
 ---
 slug: value-of-university-research-underlined
-title: "VALUE OF UNIVERSITY RESEARCH UNDERLINED"
-date: 2009-10-08
-source-url: https://www.scoop.co.nz/stories/ED0910/S00036/value-of-university-research-underlined.htm
+title: VALUE OF UNIVERSITY RESEARCH UNDERLINED
+date: 2009-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00036/value-of-university-research-underlined.htm
 author: nzvcc
+permalink: /archive/2009/10/08/value-of-university-research-underlined/index.html
+layout: layout.njk
 ---
 VALUE OF UNIVERSITY RESEARCH UNDERLINED
 =======================================

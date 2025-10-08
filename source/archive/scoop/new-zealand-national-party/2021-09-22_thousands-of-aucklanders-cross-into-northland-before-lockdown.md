@@ -1,9 +1,13 @@
 ---
 slug: thousands-of-aucklanders-cross-into-northland-before-lockdown
-title: "Thousands Of Aucklanders Cross Into Northland Before Lockdown"
-date: 2021-09-22
-source-url: https://www.scoop.co.nz/stories/PA2109/S00185/thousands-of-aucklanders-cross-into-northland-before-lockdown.htm
+title: Thousands Of Aucklanders Cross Into Northland Before Lockdown
+date: 2021-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00185/thousands-of-aucklanders-cross-into-northland-before-lockdown.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/22/thousands-of-aucklanders-cross-into-northland-before-lockdown/index.html
+layout: layout.njk
 ---
 Thousands Of Aucklanders Cross Into Northland Before Lockdown
 =============================================================

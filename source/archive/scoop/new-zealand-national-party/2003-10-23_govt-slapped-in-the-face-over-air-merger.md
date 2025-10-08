@@ -1,9 +1,12 @@
 ---
 slug: govt-slapped-in-the-face-over-air-merger
-title: "Govt slapped in the face over air merger"
-date: 2003-10-23
-source-url: https://www.scoop.co.nz/stories/PA0310/S00563/govt-slapped-in-the-face-over-air-merger.htm
+title: Govt slapped in the face over air merger
+date: 2003-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00563/govt-slapped-in-the-face-over-air-merger.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/23/govt-slapped-in-the-face-over-air-merger/index.html
+layout: layout.njk
 ---
 Govt slapped in the face over air merger
 ========================================

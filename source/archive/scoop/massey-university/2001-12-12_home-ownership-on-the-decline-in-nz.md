@@ -1,9 +1,12 @@
 ---
 slug: home-ownership-on-the-decline-in-nz
-title: "Home Ownership On The Decline In NZ"
-date: 2001-12-12
-source-url: https://www.scoop.co.nz/stories/BU0112/S00076/home-ownership-on-the-decline-in-nz.htm
+title: Home Ownership On The Decline In NZ
+date: 2001-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0112/S00076/home-ownership-on-the-decline-in-nz.htm
 author: massey-university
+permalink: /archive/2001/12/12/home-ownership-on-the-decline-in-nz/index.html
+layout: layout.njk
 ---
 Home Ownership On The Decline In NZ
 ===================================

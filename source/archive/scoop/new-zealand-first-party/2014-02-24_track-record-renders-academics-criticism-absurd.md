@@ -1,9 +1,12 @@
 ---
 slug: track-record-renders-academics-criticism-absurd
-title: "Track Record Renders Academic’s Criticism Absurd"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/PA1402/S00330/track-record-renders-academics-criticism-absurd.htm
+title: Track Record Renders Academic’s Criticism Absurd
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00330/track-record-renders-academics-criticism-absurd.htm
 author: new-zealand-first-party
+permalink: /archive/2014/02/24/track-record-renders-academics-criticism-absurd/index.html
+layout: layout.njk
 ---
 Track Record Renders Academic’s Criticism Absurd
 ================================================

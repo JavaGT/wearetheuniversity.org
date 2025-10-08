@@ -1,9 +1,12 @@
 ---
 slug: labour-has-wrecked-confidence-in-police
-title: "Labour Has Wrecked Confidence In Police"
-date: 2005-04-22
-source-url: https://www.scoop.co.nz/stories/PA0504/S00478/labour-has-wrecked-confidence-in-police.htm
+title: Labour Has Wrecked Confidence In Police
+date: 2005-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00478/labour-has-wrecked-confidence-in-police.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/22/labour-has-wrecked-confidence-in-police/index.html
+layout: layout.njk
 ---
 Labour Has Wrecked Confidence In Police
 =======================================

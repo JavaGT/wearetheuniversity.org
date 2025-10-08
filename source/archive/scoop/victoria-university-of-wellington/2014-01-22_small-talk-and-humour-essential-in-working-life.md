@@ -1,9 +1,12 @@
 ---
 slug: small-talk-and-humour-essential-in-working-life
-title: "Small talk and humour essential in working life"
-date: 2014-01-22
-source-url: https://www.scoop.co.nz/stories/CU1401/S00371/small-talk-and-humour-essential-in-working-life.htm
+title: Small talk and humour essential in working life
+date: 2014-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1401/S00371/small-talk-and-humour-essential-in-working-life.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/01/22/small-talk-and-humour-essential-in-working-life/index.html
+layout: layout.njk
 ---
 Small talk and humour essential in working life
 ===============================================

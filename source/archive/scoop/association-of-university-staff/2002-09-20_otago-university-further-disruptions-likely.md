@@ -1,9 +1,12 @@
 ---
 slug: otago-university-further-disruptions-likely
-title: "Otago University: further disruptions likely"
-date: 2002-09-20
-source-url: https://www.scoop.co.nz/stories/ED0209/S00038/otago-university-further-disruptions-likely.htm
+title: 'Otago University: further disruptions likely'
+date: 2002-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00038/otago-university-further-disruptions-likely.htm
 author: association-of-university-staff
+permalink: /archive/2002/09/20/otago-university-further-disruptions-likely/index.html
+layout: layout.njk
 ---
 Otago University: further disruptions likely
 ============================================

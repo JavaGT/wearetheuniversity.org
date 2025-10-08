@@ -1,9 +1,12 @@
 ---
 slug: hearing-impairment-and-quality-of-life
-title: "Hearing Impairment and Quality of Life"
-date: 2013-04-03
-source-url: https://www.scoop.co.nz/stories/SC1304/S00005/hearing-impairment-and-quality-of-life.htm
+title: Hearing Impairment and Quality of Life
+date: 2013-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00005/hearing-impairment-and-quality-of-life.htm
 author: university-of-canterbury
+permalink: /archive/2013/04/03/hearing-impairment-and-quality-of-life/index.html
+layout: layout.njk
 ---
 Hearing Impairment and Quality of Life
 ======================================

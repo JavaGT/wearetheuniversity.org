@@ -1,9 +1,13 @@
 ---
 slug: scare-may-provide-toehold-for-chinese-dairy-industry
-title: "Scare may provide toehold for Chinese dairy industry"
-date: 2013-08-07
-source-url: https://www.scoop.co.nz/stories/ED1308/S00024/scare-may-provide-toehold-for-chinese-dairy-industry.htm
+title: Scare may provide toehold for Chinese dairy industry
+date: 2013-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00024/scare-may-provide-toehold-for-chinese-dairy-industry.htm
 author: massey-university
+permalink: >-
+  /archive/2013/08/07/scare-may-provide-toehold-for-chinese-dairy-industry/index.html
+layout: layout.njk
 ---
 Scare may provide toehold for Chinese dairy industry
 ====================================================

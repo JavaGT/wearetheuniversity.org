@@ -1,9 +1,13 @@
 ---
 slug: students-association-against-proposed-changes-to-library
-title: "Students’ Association against proposed changes to library"
-date: 2018-04-24
-source-url: https://www.scoop.co.nz/stories/ED1804/S00059/students-association-against-proposed-changes-to-library.htm
+title: Students’ Association against proposed changes to library
+date: 2018-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00059/students-association-against-proposed-changes-to-library.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2018/04/24/students-association-against-proposed-changes-to-library/index.html
+layout: layout.njk
 ---
 Students’ Association against proposed changes to library
 =========================================================

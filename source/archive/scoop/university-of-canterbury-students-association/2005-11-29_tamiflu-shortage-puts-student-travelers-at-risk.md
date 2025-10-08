@@ -1,9 +1,12 @@
 ---
 slug: tamiflu-shortage-puts-student-travelers-at-risk
-title: "TamiFlu Shortage Puts Student Travelers at RIsk"
-date: 2005-11-29
-source-url: https://www.scoop.co.nz/stories/ED0511/S00097/tamiflu-shortage-puts-student-travelers-at-risk.htm
+title: TamiFlu Shortage Puts Student Travelers at RIsk
+date: 2005-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00097/tamiflu-shortage-puts-student-travelers-at-risk.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2005/11/29/tamiflu-shortage-puts-student-travelers-at-risk/index.html
+layout: layout.njk
 ---
 TamiFlu Shortage Puts Student Travelers at RIsk
 ===============================================

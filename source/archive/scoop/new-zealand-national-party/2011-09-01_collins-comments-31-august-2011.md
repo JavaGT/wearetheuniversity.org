@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-31-august-2011
-title: "Collins Comments 31 August 2011"
-date: 2011-09-01
-source-url: https://www.scoop.co.nz/stories/PA1109/S00015/collins-comments-31-august-2011.htm
+title: Collins Comments 31 August 2011
+date: 2011-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00015/collins-comments-31-august-2011.htm
 author: new-zealand-national-party
+permalink: /archive/2011/09/01/collins-comments-31-august-2011/index.html
+layout: layout.njk
 ---
 Collins Comments 31 August 2011
 ===============================

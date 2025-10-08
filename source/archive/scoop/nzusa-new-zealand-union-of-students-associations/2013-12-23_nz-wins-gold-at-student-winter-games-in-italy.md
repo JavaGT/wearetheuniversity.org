@@ -1,9 +1,12 @@
 ---
 slug: nz-wins-gold-at-student-winter-games-in-italy
-title: "NZ wins Gold at Student Winter Games in Italy"
-date: 2013-12-23
-source-url: https://www.scoop.co.nz/stories/CU1312/S00432/nz-wins-gold-at-student-winter-games-in-italy.htm
+title: NZ wins Gold at Student Winter Games in Italy
+date: 2013-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00432/nz-wins-gold-at-student-winter-games-in-italy.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/12/23/nz-wins-gold-at-student-winter-games-in-italy/index.html
+layout: layout.njk
 ---
 NZ wins Gold at Student Winter Games in Italy
 =============================================

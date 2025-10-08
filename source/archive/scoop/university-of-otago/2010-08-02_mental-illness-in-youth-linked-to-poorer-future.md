@@ -1,9 +1,12 @@
 ---
 slug: mental-illness-in-youth-linked-to-poorer-future
-title: "Mental illness in youth linked to poorer future"
-date: 2010-08-02
-source-url: https://www.scoop.co.nz/stories/GE1008/S00004/mental-illness-in-youth-linked-to-poorer-future.htm
+title: Mental illness in youth linked to poorer future
+date: 2010-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1008/S00004/mental-illness-in-youth-linked-to-poorer-future.htm
 author: university-of-otago
+permalink: /archive/2010/08/02/mental-illness-in-youth-linked-to-poorer-future/index.html
+layout: layout.njk
 ---
 Mental illness in youth linked to poorer future
 ===============================================

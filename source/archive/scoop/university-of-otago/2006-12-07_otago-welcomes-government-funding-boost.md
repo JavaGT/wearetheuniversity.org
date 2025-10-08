@@ -1,9 +1,12 @@
 ---
 slug: otago-welcomes-government-funding-boost
-title: "Otago welcomes government funding boost"
-date: 2006-12-07
-source-url: https://www.scoop.co.nz/stories/ED0612/S00018/otago-welcomes-government-funding-boost.htm
+title: Otago welcomes government funding boost
+date: 2006-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00018/otago-welcomes-government-funding-boost.htm
 author: university-of-otago
+permalink: /archive/2006/12/07/otago-welcomes-government-funding-boost/index.html
+layout: layout.njk
 ---
 Otago welcomes government funding boost
 =======================================

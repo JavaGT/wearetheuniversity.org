@@ -1,9 +1,12 @@
 ---
 slug: geoscientists-conference-focuses-on-our-planet
-title: "Geoscientists Conference focuses on our planet"
-date: 2006-12-04
-source-url: https://www.scoop.co.nz/stories/SC0612/S00008/geoscientists-conference-focuses-on-our-planet.htm
+title: Geoscientists Conference focuses on our planet
+date: 2006-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0612/S00008/geoscientists-conference-focuses-on-our-planet.htm
 author: massey-university
+permalink: /archive/2006/12/04/geoscientists-conference-focuses-on-our-planet/index.html
+layout: layout.njk
 ---
 Geoscientists Conference focuses on our planet
 ==============================================

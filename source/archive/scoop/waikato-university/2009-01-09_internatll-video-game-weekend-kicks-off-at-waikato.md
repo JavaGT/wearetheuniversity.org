@@ -1,9 +1,13 @@
 ---
 slug: internatll-video-game-weekend-kicks-off-at-waikato
-title: "Internatll video game weekend kicks off at Waikato"
-date: 2009-01-09
-source-url: https://www.scoop.co.nz/stories/ED0901/S00007/internatll-video-game-weekend-kicks-off-at-waikato.htm
+title: Internatll video game weekend kicks off at Waikato
+date: 2009-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00007/internatll-video-game-weekend-kicks-off-at-waikato.htm
 author: waikato-university
+permalink: >-
+  /archive/2009/01/09/internatll-video-game-weekend-kicks-off-at-waikato/index.html
+layout: layout.njk
 ---
 Internatll video game weekend kicks off at Waikato
 ==================================================

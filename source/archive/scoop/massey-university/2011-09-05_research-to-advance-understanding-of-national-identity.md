@@ -1,9 +1,13 @@
 ---
 slug: research-to-advance-understanding-of-national-identity
-title: "Research To Advance Understanding Of National Identity"
-date: 2011-09-05
-source-url: https://www.scoop.co.nz/stories/CU1109/S00051/research-to-advance-understanding-of-national-identity.htm
+title: Research To Advance Understanding Of National Identity
+date: 2011-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1109/S00051/research-to-advance-understanding-of-national-identity.htm
 author: massey-university
+permalink: >-
+  /archive/2011/09/05/research-to-advance-understanding-of-national-identity/index.html
+layout: layout.njk
 ---
 Research To Advance Understanding Of National Identity
 ======================================================

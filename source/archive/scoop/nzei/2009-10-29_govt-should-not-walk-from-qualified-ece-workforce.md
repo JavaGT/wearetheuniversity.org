@@ -1,9 +1,13 @@
 ---
 slug: govt-should-not-walk-from-qualified-ece-workforce
-title: "Govt Should Not Walk From Qualified ECE Workforce"
-date: 2009-10-29
-source-url: https://www.scoop.co.nz/stories/ED0910/S00122/govt-should-not-walk-from-qualified-ece-workforce.htm
+title: Govt Should Not Walk From Qualified ECE Workforce
+date: 2009-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00122/govt-should-not-walk-from-qualified-ece-workforce.htm
 author: nzei
+permalink: >-
+  /archive/2009/10/29/govt-should-not-walk-from-qualified-ece-workforce/index.html
+layout: layout.njk
 ---
 Govt Should Not Walk From Qualified ECE Workforce
 =================================================

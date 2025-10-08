@@ -1,9 +1,13 @@
 ---
 slug: hardship-history-and-home-feature-in-writers-on-mondays
-title: "Hardship, history and home feature in Writers on Mondays"
-date: 2012-06-25
-source-url: https://www.scoop.co.nz/stories/ED1206/S00113/hardship-history-and-home-feature-in-writers-on-mondays.htm
+title: Hardship, history and home feature in Writers on Mondays
+date: 2012-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00113/hardship-history-and-home-feature-in-writers-on-mondays.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/06/25/hardship-history-and-home-feature-in-writers-on-mondays/index.html
+layout: layout.njk
 ---
 Hardship, history and home feature in Writers on Mondays
 ========================================================

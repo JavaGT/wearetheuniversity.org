@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-council-raises-student-fees
-title: "Victoria University Council raises student fees"
-date: 2004-09-10
-source-url: https://www.scoop.co.nz/stories/ED0409/S00041/victoria-university-council-raises-student-fees.htm
+title: Victoria University Council raises student fees
+date: 2004-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00041/victoria-university-council-raises-student-fees.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/10/victoria-university-council-raises-student-fees/index.html
+layout: layout.njk
 ---
 Victoria University Council raises student fees
 ===============================================

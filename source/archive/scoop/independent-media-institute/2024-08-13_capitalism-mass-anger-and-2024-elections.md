@@ -1,9 +1,12 @@
 ---
 slug: capitalism-mass-anger-and-2024-elections
-title: "Capitalism, Mass Anger, And 2024 Elections"
-date: 2024-08-13
-source-url: https://www.scoop.co.nz/stories/WO2408/S00118/capitalism-mass-anger-and-2024-elections.htm
+title: Capitalism, Mass Anger, And 2024 Elections
+date: 2024-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2408/S00118/capitalism-mass-anger-and-2024-elections.htm
 author: independent-media-institute
+permalink: /archive/2024/08/13/capitalism-mass-anger-and-2024-elections/index.html
+layout: layout.njk
 ---
 Capitalism, Mass Anger, And 2024 Elections
 ==========================================

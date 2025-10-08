@@ -1,9 +1,12 @@
 ---
 slug: forum-tackles-migrant-mental-health-issues
-title: "Forum tackles migrant mental health issues"
-date: 2005-04-29
-source-url: https://www.scoop.co.nz/stories/GE0504/S00109/forum-tackles-migrant-mental-health-issues.htm
+title: Forum tackles migrant mental health issues
+date: 2005-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0504/S00109/forum-tackles-migrant-mental-health-issues.htm
 author: aut-university
+permalink: /archive/2005/04/29/forum-tackles-migrant-mental-health-issues/index.html
+layout: layout.njk
 ---
 Forum tackles migrant mental health issues
 ==========================================

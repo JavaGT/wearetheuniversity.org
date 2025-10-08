@@ -1,9 +1,12 @@
 ---
 slug: low-paid-do-bulk-of-the-work-for-gst-worse-off
-title: "Low-paid do bulk of the work for GST, worse off"
-date: 2010-09-30
-source-url: https://www.scoop.co.nz/stories/PA1009/S00447/low-paid-do-bulk-of-the-work-for-gst-worse-off.htm
+title: Low-paid do bulk of the work for GST, worse off
+date: 2010-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00447/low-paid-do-bulk-of-the-work-for-gst-worse-off.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/30/low-paid-do-bulk-of-the-work-for-gst-worse-off/index.html
+layout: layout.njk
 ---
 Low-paid do bulk of the work for GST, worse off
 ===============================================

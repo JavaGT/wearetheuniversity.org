@@ -1,9 +1,12 @@
 ---
 slug: capacity-building-workshop-for-researchers
-title: "Capacity Building Workshop For Researchers"
-date: 2011-11-11
-source-url: https://www.scoop.co.nz/stories/WO1111/S00327/capacity-building-workshop-for-researchers.htm
+title: Capacity Building Workshop For Researchers
+date: 2011-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1111/S00327/capacity-building-workshop-for-researchers.htm
 author: university-of-the-south-pacific
+permalink: /archive/2011/11/11/capacity-building-workshop-for-researchers/index.html
+layout: layout.njk
 ---
 Capacity Building Workshop For Researchers
 ==========================================

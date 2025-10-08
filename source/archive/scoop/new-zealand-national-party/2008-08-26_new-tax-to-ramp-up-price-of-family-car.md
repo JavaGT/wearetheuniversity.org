@@ -1,9 +1,12 @@
 ---
 slug: new-tax-to-ramp-up-price-of-family-car
-title: "New tax to ramp up price of family car"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/PA0808/S00384/new-tax-to-ramp-up-price-of-family-car.htm
+title: New tax to ramp up price of family car
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00384/new-tax-to-ramp-up-price-of-family-car.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/26/new-tax-to-ramp-up-price-of-family-car/index.html
+layout: layout.njk
 ---
 New tax to ramp up price of family car
 ======================================

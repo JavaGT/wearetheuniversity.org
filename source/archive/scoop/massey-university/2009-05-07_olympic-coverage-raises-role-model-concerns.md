@@ -1,9 +1,12 @@
 ---
 slug: olympic-coverage-raises-role-model-concerns
-title: "Olympic coverage raises role model concerns"
-date: 2009-05-07
-source-url: https://www.scoop.co.nz/stories/CU0905/S00081/olympic-coverage-raises-role-model-concerns.htm
+title: Olympic coverage raises role model concerns
+date: 2009-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00081/olympic-coverage-raises-role-model-concerns.htm
 author: massey-university
+permalink: /archive/2009/05/07/olympic-coverage-raises-role-model-concerns/index.html
+layout: layout.njk
 ---
 Olympic coverage raises role model concerns
 ===========================================

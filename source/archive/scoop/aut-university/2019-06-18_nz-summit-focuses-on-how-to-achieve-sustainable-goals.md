@@ -1,9 +1,13 @@
 ---
 slug: nz-summit-focuses-on-how-to-achieve-sustainable-goals
-title: "NZ summit focuses on how to achieve Sustainable Goals"
-date: 2019-06-18
-source-url: https://www.scoop.co.nz/stories/ED1906/S00039/nz-summit-focuses-on-how-to-achieve-sustainable-goals.htm
+title: NZ summit focuses on how to achieve Sustainable Goals
+date: 2019-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1906/S00039/nz-summit-focuses-on-how-to-achieve-sustainable-goals.htm
 author: aut-university
+permalink: >-
+  /archive/2019/06/18/nz-summit-focuses-on-how-to-achieve-sustainable-goals/index.html
+layout: layout.njk
 ---
 NZ summit focuses on how to achieve Sustainable Goals
 =====================================================

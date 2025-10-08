@@ -1,9 +1,12 @@
 ---
 slug: scientists-secure-almost-$1-6-million-for-heart-research
-title: "Scientists secure almost $1.6 million for heart research"
-date: 2018-09-17
-source-url: https://www.scoop.co.nz/stories/SC1809/S00023/scientists-secure-almost-16-million-for-heart-research.htm
+title: Scientists secure almost $1.6 million for heart research
+date: 2018-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1809/S00023/scientists-secure-almost-16-million-for-heart-research.htm
 author: university-of-otago
+permalink: /archive/2018/09/17/scientists-secure-almost-/index.html
+layout: layout.njk
 ---
 Scientists secure almost $1.6 million for heart research
 ========================================================

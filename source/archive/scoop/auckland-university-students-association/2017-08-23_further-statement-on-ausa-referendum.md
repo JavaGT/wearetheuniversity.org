@@ -1,9 +1,12 @@
 ---
 slug: further-statement-on-ausa-referendum
-title: "Further Statement on AUSA Referendum"
-date: 2017-08-23
-source-url: https://www.scoop.co.nz/stories/ED1708/S00082/further-statement-on-ausa-referendum.htm
+title: Further Statement on AUSA Referendum
+date: 2017-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00082/further-statement-on-ausa-referendum.htm
 author: auckland-university-students-association
+permalink: /archive/2017/08/23/further-statement-on-ausa-referendum/index.html
+layout: layout.njk
 ---
 Further Statement on AUSA Referendum
 ====================================

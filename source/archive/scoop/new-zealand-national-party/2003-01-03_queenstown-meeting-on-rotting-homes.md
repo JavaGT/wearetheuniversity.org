@@ -1,9 +1,12 @@
 ---
 slug: queenstown-meeting-on-rotting-homes
-title: "Queenstown meeting on rotting homes"
-date: 2003-01-03
-source-url: https://www.scoop.co.nz/stories/PA0301/S00010/queenstown-meeting-on-rotting-homes.htm
+title: Queenstown meeting on rotting homes
+date: 2003-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00010/queenstown-meeting-on-rotting-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/03/queenstown-meeting-on-rotting-homes/index.html
+layout: layout.njk
 ---
 Queenstown meeting on rotting homes
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: eez-act-fix-must-not-weaken-environmental-protections
-title: "EEZ Act fix must not weaken environmental protections"
-date: 2015-02-17
-source-url: https://www.scoop.co.nz/stories/PA1502/S00180/eez-act-fix-must-not-weaken-environmental-protections.htm
+title: EEZ Act fix must not weaken environmental protections
+date: 2015-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00180/eez-act-fix-must-not-weaken-environmental-protections.htm
 author: green-party
+permalink: >-
+  /archive/2015/02/17/eez-act-fix-must-not-weaken-environmental-protections/index.html
+layout: layout.njk
 ---
 EEZ Act fix must not weaken environmental protections
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: act-leaders-reply-to-the-pms-statement-on-covid-19
-title: "ACT Leader's Reply To The PM's Statement On COVID-19"
-date: 2020-04-28
-source-url: https://www.scoop.co.nz/stories/PA2004/S00164/act-leaders-reply-to-the-pms-statement-on-covid-19.htm
+title: ACT Leader's Reply To The PM's Statement On COVID-19
+date: 2020-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00164/act-leaders-reply-to-the-pms-statement-on-covid-19.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/04/28/act-leaders-reply-to-the-pms-statement-on-covid-19/index.html
+layout: layout.njk
 ---
 ACT Leader's Reply To The PM's Statement On COVID-19
 ====================================================

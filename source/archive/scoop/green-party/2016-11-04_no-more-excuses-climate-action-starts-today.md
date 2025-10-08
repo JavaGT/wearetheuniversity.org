@@ -1,9 +1,12 @@
 ---
 slug: no-more-excuses-climate-action-starts-today
-title: "No more excuses – climate action starts today"
-date: 2016-11-04
-source-url: https://www.scoop.co.nz/stories/PA1611/S00094/no-more-excuses-climate-action-starts-today.htm
+title: No more excuses – climate action starts today
+date: 2016-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00094/no-more-excuses-climate-action-starts-today.htm
 author: green-party
+permalink: /archive/2016/11/04/no-more-excuses-climate-action-starts-today/index.html
+layout: layout.njk
 ---
 No more excuses – climate action starts today
 =============================================

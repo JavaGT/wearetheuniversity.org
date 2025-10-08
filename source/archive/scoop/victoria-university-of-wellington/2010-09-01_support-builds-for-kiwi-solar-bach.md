@@ -1,9 +1,12 @@
 ---
 slug: support-builds-for-kiwi-solar-bach
-title: "Support builds for Kiwi solar bach"
-date: 2010-09-01
-source-url: https://www.scoop.co.nz/stories/ED1009/S00001/support-builds-for-kiwi-solar-bach.htm
+title: Support builds for Kiwi solar bach
+date: 2010-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00001/support-builds-for-kiwi-solar-bach.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/09/01/support-builds-for-kiwi-solar-bach/index.html
+layout: layout.njk
 ---
 Support builds for Kiwi solar bach
 ==================================

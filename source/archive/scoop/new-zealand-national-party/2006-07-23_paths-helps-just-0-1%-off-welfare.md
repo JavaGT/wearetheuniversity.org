@@ -1,9 +1,12 @@
 ---
 slug: paths-helps-just-0-1%-off-welfare
-title: "PATHS helps just 0.1% off welfare"
-date: 2006-07-23
-source-url: https://www.scoop.co.nz/stories/PA0607/S00367/paths-helps-just-01-off-welfare.htm
+title: PATHS helps just 0.1% off welfare
+date: 2006-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00367/paths-helps-just-01-off-welfare.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/23/paths-helps-just-0-1/index.html
+layout: layout.njk
 ---
 PATHS helps just 0.1% off welfare
 =================================

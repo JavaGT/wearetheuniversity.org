@@ -1,9 +1,13 @@
 ---
 slug: a-good-night-for-labours-local-government-candidates
-title: "A good night for Labour’s local government candidates"
-date: 2016-10-09
-source-url: https://www.scoop.co.nz/stories/PO1610/S00117/a-good-night-for-labours-local-government-candidates.htm
+title: A good night for Labour’s local government candidates
+date: 2016-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00117/a-good-night-for-labours-local-government-candidates.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/10/09/a-good-night-for-labours-local-government-candidates/index.html
+layout: layout.njk
 ---
 A good night for Labour’s local government candidates
 =====================================================

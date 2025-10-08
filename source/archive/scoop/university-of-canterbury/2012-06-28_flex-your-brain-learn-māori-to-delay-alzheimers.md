@@ -1,9 +1,12 @@
 ---
 slug: flex-your-brain-learn-māori-to-delay-alzheimers
-title: "Flex your brain – learn Māori to delay Alzheimer’s"
-date: 2012-06-28
-source-url: https://www.scoop.co.nz/stories/SC1206/S00064/flex-your-brain-learn-maori-to-delay-alzheimers.htm
+title: Flex your brain – learn Māori to delay Alzheimer’s
+date: 2012-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1206/S00064/flex-your-brain-learn-maori-to-delay-alzheimers.htm
 author: university-of-canterbury
+permalink: /archive/2012/06/28/flex-your-brain-learn-m/index.html
+layout: layout.njk
 ---
 Flex your brain – learn Māori to delay Alzheimer’s
 ==================================================

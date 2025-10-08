@@ -1,9 +1,12 @@
 ---
 slug: aut-oral-health-students-tackle-dental-decay
-title: "AUT oral health students tackle dental decay"
-date: 2006-08-25
-source-url: https://www.scoop.co.nz/stories/GE0608/S00097/aut-oral-health-students-tackle-dental-decay.htm
+title: AUT oral health students tackle dental decay
+date: 2006-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0608/S00097/aut-oral-health-students-tackle-dental-decay.htm
 author: aut-university
+permalink: /archive/2006/08/25/aut-oral-health-students-tackle-dental-decay/index.html
+layout: layout.njk
 ---
 AUT oral health students tackle dental decay
 ============================================

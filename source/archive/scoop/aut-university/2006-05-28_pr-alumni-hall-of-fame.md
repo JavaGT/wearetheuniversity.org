@@ -1,9 +1,11 @@
 ---
 slug: pr-alumni-hall-of-fame
-title: "PR alumni Hall of Fame"
-date: 2006-05-28
+title: PR alumni Hall of Fame
+date: 2006-05-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0605/S00600/pr-alumni-hall-of-fame.htm
 author: aut-university
+permalink: /archive/2006/05/28/pr-alumni-hall-of-fame/index.html
+layout: layout.njk
 ---
 PR alumni Hall of Fame
 ======================

@@ -1,9 +1,12 @@
 ---
 slug: labour-will-hold-govt-to-account-over-hubbard
-title: "Labour will hold Govt to account over Hubbard"
-date: 2010-08-28
-source-url: https://www.scoop.co.nz/stories/PA1008/S00453/labour-will-hold-govt-to-account-over-hubbard.htm
+title: Labour will hold Govt to account over Hubbard
+date: 2010-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00453/labour-will-hold-govt-to-account-over-hubbard.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/28/labour-will-hold-govt-to-account-over-hubbard/index.html
+layout: layout.njk
 ---
 Labour will hold Govt to account over Hubbard
 =============================================

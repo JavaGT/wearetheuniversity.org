@@ -1,9 +1,12 @@
 ---
 slug: children-from-active-homes-more-active-teens
-title: "Children from active homes, more active teens"
-date: 2009-03-09
-source-url: https://www.scoop.co.nz/stories/ED0903/S00025/children-from-active-homes-more-active-teens.htm
+title: Children from active homes, more active teens
+date: 2009-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00025/children-from-active-homes-more-active-teens.htm
 author: university-of-otago
+permalink: /archive/2009/03/09/children-from-active-homes-more-active-teens/index.html
+layout: layout.njk
 ---
 Children from active homes, more active teens
 =============================================

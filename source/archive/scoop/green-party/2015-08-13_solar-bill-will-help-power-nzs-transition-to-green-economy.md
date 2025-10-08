@@ -1,9 +1,13 @@
 ---
 slug: solar-bill-will-help-power-nzs-transition-to-green-economy
-title: "Solar bill will help power NZ’s transition to green economy"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/PA1508/S00212/solar-bill-will-help-power-nzs-transition-to-green-economy.htm
+title: Solar bill will help power NZ’s transition to green economy
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00212/solar-bill-will-help-power-nzs-transition-to-green-economy.htm
 author: green-party
+permalink: >-
+  /archive/2015/08/13/solar-bill-will-help-power-nzs-transition-to-green-economy/index.html
+layout: layout.njk
 ---
 Solar bill will help power NZ’s transition to green economy
 ===========================================================

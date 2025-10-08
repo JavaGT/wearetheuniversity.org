@@ -1,9 +1,12 @@
 ---
 slug: maori-party-aiming-for-all-seven-seats
-title: "Maori Party Aiming for All Seven Seats"
-date: 2014-07-14
-source-url: https://www.scoop.co.nz/stories/PO1407/S00229/maori-party-aiming-for-all-seven-seats.htm
+title: Maori Party Aiming for All Seven Seats
+date: 2014-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00229/maori-party-aiming-for-all-seven-seats.htm
 author: te-pati-maori
+permalink: /archive/2014/07/14/maori-party-aiming-for-all-seven-seats/index.html
+layout: layout.njk
 ---
 Maori Party Aiming for All Seven Seats
 ======================================

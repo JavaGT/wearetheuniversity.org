@@ -1,9 +1,12 @@
 ---
 slug: more-than-40-new-volcanoes-discovered-near-nz
-title: "More Than 40 New Volcanoes Discovered Near NZ"
-date: 2003-09-03
-source-url: https://www.scoop.co.nz/stories/ED0309/S00006/more-than-40-new-volcanoes-discovered-near-nz.htm
+title: More Than 40 New Volcanoes Discovered Near NZ
+date: 2003-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00006/more-than-40-new-volcanoes-discovered-near-nz.htm
 author: waikato-university
+permalink: /archive/2003/09/03/more-than-40-new-volcanoes-discovered-near-nz/index.html
+layout: layout.njk
 ---
 More Than 40 New Volcanoes Discovered Near NZ
 =============================================

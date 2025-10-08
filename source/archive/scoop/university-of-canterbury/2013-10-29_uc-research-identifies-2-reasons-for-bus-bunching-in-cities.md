@@ -1,9 +1,13 @@
 ---
 slug: uc-research-identifies-2-reasons-for-bus-bunching-in-cities
-title: "UC research identifies 2 reasons for bus bunching in cities"
-date: 2013-10-29
-source-url: https://www.scoop.co.nz/stories/SC1310/S00075/uc-research-identifies-2-reasons-for-bus-bunching-in-cities.htm
+title: UC research identifies 2 reasons for bus bunching in cities
+date: 2013-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00075/uc-research-identifies-2-reasons-for-bus-bunching-in-cities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/29/uc-research-identifies-2-reasons-for-bus-bunching-in-cities/index.html
+layout: layout.njk
 ---
 UC research identifies 2 reasons for bus bunching in cities
 ===========================================================

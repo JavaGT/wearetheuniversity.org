@@ -1,9 +1,12 @@
 ---
 slug: i-am-the-river-and-the-river-is-me
-title: "I am the River, and the River is me"
-date: 2016-06-05
-source-url: https://www.scoop.co.nz/stories/PA1606/S00096/i-am-the-river-and-the-river-is-me.htm
+title: I am the River, and the River is me
+date: 2016-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00096/i-am-the-river-and-the-river-is-me.htm
 author: green-party
+permalink: /archive/2016/06/05/i-am-the-river-and-the-river-is-me/index.html
+layout: layout.njk
 ---
 I am the River, and the River is me
 ===================================

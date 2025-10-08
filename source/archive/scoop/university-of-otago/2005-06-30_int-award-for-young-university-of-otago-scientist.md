@@ -1,9 +1,13 @@
 ---
 slug: int-award-for-young-university-of-otago-scientist
-title: "Int. Award for Young University of Otago Scientist"
-date: 2005-06-30
-source-url: https://www.scoop.co.nz/stories/ED0506/S00082/int-award-for-young-university-of-otago-scientist.htm
+title: Int. Award for Young University of Otago Scientist
+date: 2005-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00082/int-award-for-young-university-of-otago-scientist.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/06/30/int-award-for-young-university-of-otago-scientist/index.html
+layout: layout.njk
 ---
 Int. Award for Young University of Otago Scientist
 ==================================================

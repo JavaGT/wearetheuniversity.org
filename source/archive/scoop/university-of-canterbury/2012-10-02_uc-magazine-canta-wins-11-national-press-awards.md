@@ -1,9 +1,12 @@
 ---
 slug: uc-magazine-canta-wins-11-national-press-awards
-title: "UC magazine Canta wins 11 national press awards"
-date: 2012-10-02
-source-url: https://www.scoop.co.nz/stories/ED1210/S00015/uc-magazine-canta-wins-11-national-press-awards.htm
+title: UC magazine Canta wins 11 national press awards
+date: 2012-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00015/uc-magazine-canta-wins-11-national-press-awards.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/02/uc-magazine-canta-wins-11-national-press-awards/index.html
+layout: layout.njk
 ---
 UC magazine Canta wins 11 national press awards
 ===============================================

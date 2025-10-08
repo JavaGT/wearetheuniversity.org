@@ -1,9 +1,11 @@
 ---
 slug: maori-party-supports-nzusa
-title: "Maori Party Supports NZUSA"
-date: 2005-09-14
+title: Maori Party Supports NZUSA
+date: 2005-09-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0509/S00165/maori-party-supports-nzusa.htm
 author: te-pati-maori
+permalink: /archive/2005/09/14/maori-party-supports-nzusa/index.html
+layout: layout.njk
 ---
 Maori Party Supports NZUSA
 ==========================

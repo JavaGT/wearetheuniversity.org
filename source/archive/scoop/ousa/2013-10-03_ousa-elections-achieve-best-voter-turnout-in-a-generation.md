@@ -1,9 +1,13 @@
 ---
 slug: ousa-elections-achieve-best-voter-turnout-in-a-generation
-title: "OUSA Elections Achieve \"Best Voter Turnout in a Generation\""
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/AK1310/S00152/ousa-elections-achieve-best-voter-turnout-in-a-generation.htm
+title: OUSA Elections Achieve "Best Voter Turnout in a Generation"
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00152/ousa-elections-achieve-best-voter-turnout-in-a-generation.htm
 author: ousa
+permalink: >-
+  /archive/2013/10/03/ousa-elections-achieve-best-voter-turnout-in-a-generation/index.html
+layout: layout.njk
 ---
 OUSA Elections Achieve “Best Voter Turnout in a Generation”
 ===========================================================

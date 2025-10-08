@@ -1,9 +1,11 @@
 ---
 slug: wills-bill-second-reading
-title: "Wills Bill: Second Reading"
-date: 2007-05-09
+title: 'Wills Bill: Second Reading'
+date: 2007-05-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00214/wills-bill-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2007/05/09/wills-bill-second-reading/index.html
+layout: layout.njk
 ---
 Wills Bill: Second Reading
 ==========================

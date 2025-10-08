@@ -1,9 +1,12 @@
 ---
 slug: itp-roadmap-the-opportunity-of-a-lifetime
-title: "ITP Roadmap the Opportunity of a Lifetime"
-date: 2019-02-08
-source-url: https://www.scoop.co.nz/stories/ED1902/S00017/itp-roadmap-the-opportunity-of-a-lifetime.htm
+title: ITP Roadmap the Opportunity of a Lifetime
+date: 2019-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1902/S00017/itp-roadmap-the-opportunity-of-a-lifetime.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2019/02/08/itp-roadmap-the-opportunity-of-a-lifetime/index.html
+layout: layout.njk
 ---
 ITP Roadmap the Opportunity of a Lifetime
 =========================================

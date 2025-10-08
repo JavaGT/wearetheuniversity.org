@@ -1,9 +1,12 @@
 ---
 slug: successful-release-of-seabirds-at-foxton
-title: "Successful release of seabirds at Foxton"
-date: 2011-07-15
-source-url: https://www.scoop.co.nz/stories/SC1107/S00039/successful-release-of-seabirds-at-foxton.htm
+title: Successful release of seabirds at Foxton
+date: 2011-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00039/successful-release-of-seabirds-at-foxton.htm
 author: massey-university
+permalink: /archive/2011/07/15/successful-release-of-seabirds-at-foxton/index.html
+layout: layout.njk
 ---
 Successful release of seabirds at Foxton
 ========================================

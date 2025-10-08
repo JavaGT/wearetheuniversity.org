@@ -1,9 +1,13 @@
 ---
 slug: disparities-in-insulin-pump-use-by-new-zealanders
-title: "Disparities in insulin pump use by New Zealanders"
-date: 2016-09-23
-source-url: https://www.scoop.co.nz/stories/GE1609/S00134/disparities-in-insulin-pump-use-by-new-zealanders.htm
+title: Disparities in insulin pump use by New Zealanders
+date: 2016-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1609/S00134/disparities-in-insulin-pump-use-by-new-zealanders.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/09/23/disparities-in-insulin-pump-use-by-new-zealanders/index.html
+layout: layout.njk
 ---
 Disparities in insulin pump use by New Zealanders
 =================================================

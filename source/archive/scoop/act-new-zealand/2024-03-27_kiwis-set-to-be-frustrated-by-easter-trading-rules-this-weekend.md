@@ -1,9 +1,13 @@
 ---
 slug: kiwis-set-to-be-frustrated-by-easter-trading-rules-this-weekend
-title: "Kiwis Set To Be Frustrated By Easter Trading Rules This Weekend"
-date: 2024-03-27
-source-url: https://www.scoop.co.nz/stories/PA2403/S00159/kiwis-set-to-be-frustrated-by-easter-trading-rules-this-weekend.htm
+title: Kiwis Set To Be Frustrated By Easter Trading Rules This Weekend
+date: 2024-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00159/kiwis-set-to-be-frustrated-by-easter-trading-rules-this-weekend.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/03/27/kiwis-set-to-be-frustrated-by-easter-trading-rules-this-weekend/index.html
+layout: layout.njk
 ---
 Kiwis Set To Be Frustrated By Easter Trading Rules This Weekend
 ===============================================================

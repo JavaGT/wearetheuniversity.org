@@ -1,9 +1,13 @@
 ---
 slug: students-achieve-national-recognition-at-ipenz-awards
-title: "Students achieve national recognition at IPENZ awards"
-date: 2011-03-22
-source-url: https://www.scoop.co.nz/stories/ED1103/S00089/students-achieve-national-recognition-at-ipenz-awards.htm
+title: Students achieve national recognition at IPENZ awards
+date: 2011-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00089/students-achieve-national-recognition-at-ipenz-awards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/03/22/students-achieve-national-recognition-at-ipenz-awards/index.html
+layout: layout.njk
 ---
 Students achieve national recognition at IPENZ awards
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-phd-student-granted-$50000-of-eqc-research-funding
-title: "UC PhD student granted $50,000 of EQC research funding"
-date: 2013-09-05
-source-url: https://www.scoop.co.nz/stories/AK1309/S00158/uc-phd-student-granted-50000-of-eqc-research-funding.htm
+title: UC PhD student granted $50,000 of EQC research funding
+date: 2013-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00158/uc-phd-student-granted-50000-of-eqc-research-funding.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/05/uc-phd-student-granted-/index.html
+layout: layout.njk
 ---
 UC PhD student granted $50,000 of EQC research funding
 ======================================================

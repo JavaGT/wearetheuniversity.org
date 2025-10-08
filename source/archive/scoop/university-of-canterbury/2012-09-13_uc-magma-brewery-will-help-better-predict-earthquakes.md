@@ -1,9 +1,13 @@
 ---
 slug: uc-magma-brewery-will-help-better-predict-earthquakes
-title: "UC Magma Brewery will help better predict earthquakes"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/SC1209/S00018/uc-magma-brewery-will-help-better-predict-earthquakes.htm
+title: UC Magma Brewery will help better predict earthquakes
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00018/uc-magma-brewery-will-help-better-predict-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/13/uc-magma-brewery-will-help-better-predict-earthquakes/index.html
+layout: layout.njk
 ---
 UC Magma Brewery will help better predict earthquakes
 =====================================================

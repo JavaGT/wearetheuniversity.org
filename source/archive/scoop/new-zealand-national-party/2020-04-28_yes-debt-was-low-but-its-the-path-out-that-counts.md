@@ -1,9 +1,13 @@
 ---
 slug: yes-debt-was-low-but-its-the-path-out-that-counts
-title: "Yes Debt Was Low, But It’s The Path Out That Counts"
-date: 2020-04-28
-source-url: https://www.scoop.co.nz/stories/PA2004/S00161/yes-debt-was-low-but-its-the-path-out-that-counts.htm
+title: Yes Debt Was Low, But It’s The Path Out That Counts
+date: 2020-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00161/yes-debt-was-low-but-its-the-path-out-that-counts.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/04/28/yes-debt-was-low-but-its-the-path-out-that-counts/index.html
+layout: layout.njk
 ---
 Yes Debt Was Low, But It’s The Path Out That Counts
 ===================================================

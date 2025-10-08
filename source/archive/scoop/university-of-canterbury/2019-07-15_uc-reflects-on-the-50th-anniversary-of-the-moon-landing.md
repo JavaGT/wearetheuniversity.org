@@ -1,9 +1,13 @@
 ---
 slug: uc-reflects-on-the-50th-anniversary-of-the-moon-landing
-title: "UC reflects on the 50th anniversary of the Moon landing"
-date: 2019-07-15
-source-url: https://www.scoop.co.nz/stories/ED1907/S00023/uc-reflects-on-the-50th-anniversary-of-the-moon-landing.htm
+title: UC reflects on the 50th anniversary of the Moon landing
+date: 2019-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1907/S00023/uc-reflects-on-the-50th-anniversary-of-the-moon-landing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/07/15/uc-reflects-on-the-50th-anniversary-of-the-moon-landing/index.html
+layout: layout.njk
 ---
 UC reflects on the 50th anniversary of the Moon landing
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: innovative-mechanical-engineer-wins-2017-research-medal
-title: "Innovative mechanical engineer wins 2017 research medal"
-date: 2017-08-08
-source-url: https://www.scoop.co.nz/stories/SC1708/S00018/innovative-mechanical-engineer-wins-2017-research-medal.htm
+title: Innovative mechanical engineer wins 2017 research medal
+date: 2017-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1708/S00018/innovative-mechanical-engineer-wins-2017-research-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/08/08/innovative-mechanical-engineer-wins-2017-research-medal/index.html
+layout: layout.njk
 ---
 Innovative mechanical engineer wins 2017 research medal
 =======================================================

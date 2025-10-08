@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-nz-first-campaign-launch
-title: "Speech: Peters - NZ First campaign launch"
-date: 2017-06-25
-source-url: https://www.scoop.co.nz/stories/PA1706/S00420/speech-peters-nz-first-campaign-launch.htm
+title: 'Speech: Peters - NZ First campaign launch'
+date: 2017-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00420/speech-peters-nz-first-campaign-launch.htm
 author: new-zealand-first-party
+permalink: /archive/2017/06/25/speech-peters-nz-first-campaign-launch/index.html
+layout: layout.njk
 ---
 Speech: Peters - NZ First campaign launch
 =========================================

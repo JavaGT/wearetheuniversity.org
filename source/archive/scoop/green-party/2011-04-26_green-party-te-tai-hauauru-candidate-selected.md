@@ -1,9 +1,12 @@
 ---
 slug: green-party-te-tai-hauauru-candidate-selected
-title: "Green Party Te Tai Hauauru Candidate Selected"
-date: 2011-04-26
-source-url: https://www.scoop.co.nz/stories/PA1104/S00478/green-party-te-tai-hauauru-candidate-selected.htm
+title: Green Party Te Tai Hauauru Candidate Selected
+date: 2011-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00478/green-party-te-tai-hauauru-candidate-selected.htm
 author: green-party
+permalink: /archive/2011/04/26/green-party-te-tai-hauauru-candidate-selected/index.html
+layout: layout.njk
 ---
 Green Party Te Tai Hauauru Candidate Selected
 =============================================

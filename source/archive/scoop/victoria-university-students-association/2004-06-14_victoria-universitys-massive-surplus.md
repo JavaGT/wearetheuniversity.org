@@ -1,9 +1,12 @@
 ---
 slug: victoria-universitys-massive-surplus
-title: "Victoria University’s massive surplus"
-date: 2004-06-14
-source-url: https://www.scoop.co.nz/stories/ED0406/S00056/victoria-universitys-massive-surplus.htm
+title: Victoria University’s massive surplus
+date: 2004-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00056/victoria-universitys-massive-surplus.htm
 author: victoria-university-students-association
+permalink: /archive/2004/06/14/victoria-universitys-massive-surplus/index.html
+layout: layout.njk
 ---
 Victoria University’s massive surplus
 =====================================

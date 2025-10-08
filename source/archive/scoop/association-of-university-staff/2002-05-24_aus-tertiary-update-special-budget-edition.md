@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-special-budget-edition
-title: "AUS Tertiary Update Special Budget edition"
-date: 2002-05-24
-source-url: https://www.scoop.co.nz/stories/ED0205/S00057/aus-tertiary-update-special-budget-edition.htm
+title: AUS Tertiary Update Special Budget edition
+date: 2002-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00057/aus-tertiary-update-special-budget-edition.htm
 author: association-of-university-staff
+permalink: /archive/2002/05/24/aus-tertiary-update-special-budget-edition/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Special Budget edition
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: research-supports-extended-care-paramedic-model-in-kapiti
-title: "Research supports extended care paramedic model in Kapiti"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/GE1210/S00121/research-supports-extended-care-paramedic-model-in-kapiti.htm
+title: Research supports extended care paramedic model in Kapiti
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1210/S00121/research-supports-extended-care-paramedic-model-in-kapiti.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/10/31/research-supports-extended-care-paramedic-model-in-kapiti/index.html
+layout: layout.njk
 ---
 Research supports extended care paramedic model in Kapiti
 =========================================================

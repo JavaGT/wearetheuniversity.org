@@ -1,9 +1,13 @@
 ---
 slug: gps-forced-to-do-specialist-work-as-budget-cuts-bite
-title: "GPs forced to do specialist work as budget cuts bite"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/PA1508/S00195/gps-forced-to-do-specialist-work-as-budget-cuts-bite.htm
+title: GPs forced to do specialist work as budget cuts bite
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00195/gps-forced-to-do-specialist-work-as-budget-cuts-bite.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/08/13/gps-forced-to-do-specialist-work-as-budget-cuts-bite/index.html
+layout: layout.njk
 ---
 GPs forced to do specialist work as budget cuts bite
 ====================================================

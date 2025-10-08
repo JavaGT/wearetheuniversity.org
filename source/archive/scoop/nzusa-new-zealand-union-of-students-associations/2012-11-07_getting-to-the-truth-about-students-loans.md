@@ -1,9 +1,12 @@
 ---
 slug: getting-to-the-truth-about-students-loans
-title: "Getting to the truth about Students Loans"
-date: 2012-11-07
-source-url: https://www.scoop.co.nz/stories/ED1211/S00054/getting-to-the-truth-about-students-loans.htm
+title: Getting to the truth about Students Loans
+date: 2012-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00054/getting-to-the-truth-about-students-loans.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/11/07/getting-to-the-truth-about-students-loans/index.html
+layout: layout.njk
 ---
 Getting to the truth about Students Loans
 =========================================

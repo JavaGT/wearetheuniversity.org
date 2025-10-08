@@ -1,9 +1,13 @@
 ---
 slug: national-making-life-a-little-easier-for-kiwis-with-cancer
-title: "National Making Life A Little Easier For Kiwis With Cancer"
-date: 2021-08-05
-source-url: https://www.scoop.co.nz/stories/PA2108/S00051/national-making-life-a-little-easier-for-kiwis-with-cancer.htm
+title: National Making Life A Little Easier For Kiwis With Cancer
+date: 2021-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00051/national-making-life-a-little-easier-for-kiwis-with-cancer.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/08/05/national-making-life-a-little-easier-for-kiwis-with-cancer/index.html
+layout: layout.njk
 ---
 National Making Life A Little Easier For Kiwis With Cancer
 ==========================================================

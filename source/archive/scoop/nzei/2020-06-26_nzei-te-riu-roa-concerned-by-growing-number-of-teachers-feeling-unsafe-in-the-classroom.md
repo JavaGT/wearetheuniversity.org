@@ -1,9 +1,16 @@
 ---
-slug: nzei-te-riu-roa-concerned-by-growing-number-of-teachers-feeling-unsafe-in-the-classroom
-title: "NZEI Te Riu Roa Concerned By Growing Number Of Teachers Feeling Unsafe In The Classroom"
-date: 2020-06-26
-source-url: https://www.scoop.co.nz/stories/ED2006/S00034/nzei-te-riu-roa-concerned-by-growing-number-of-teachers-feeling-unsafe-in-the-classroom.htm
+slug: >-
+  nzei-te-riu-roa-concerned-by-growing-number-of-teachers-feeling-unsafe-in-the-classroom
+title: >-
+  NZEI Te Riu Roa Concerned By Growing Number Of Teachers Feeling Unsafe In The
+  Classroom
+date: 2020-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00034/nzei-te-riu-roa-concerned-by-growing-number-of-teachers-feeling-unsafe-in-the-classroom.htm
 author: nzei
+permalink: >-
+  /archive/2020/06/26/nzei-te-riu-roa-concerned-by-growing-number-of-teachers-feeling-unsafe-in-the-classroom/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Concerned By Growing Number Of Teachers Feeling Unsafe In The Classroom
 =======================================================================================

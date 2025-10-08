@@ -1,9 +1,13 @@
 ---
 slug: ethel-benjamin-scholarship-for-outstanding-women-lawyers
-title: "Ethel Benjamin scholarship for outstanding women lawyers"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/ED1605/S00067/ethel-benjamin-scholarship-for-outstanding-women-lawyers.htm
+title: Ethel Benjamin scholarship for outstanding women lawyers
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00067/ethel-benjamin-scholarship-for-outstanding-women-lawyers.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/05/17/ethel-benjamin-scholarship-for-outstanding-women-lawyers/index.html
+layout: layout.njk
 ---
 Ethel Benjamin scholarship for outstanding women lawyers
 ========================================================

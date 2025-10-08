@@ -1,9 +1,12 @@
 ---
 slug: students-at-canterbury-breath-a-sigh-of-relief
-title: "Students at Canterbury breath a sigh of relief"
-date: 2002-10-07
-source-url: https://www.scoop.co.nz/stories/ED0210/S00015/students-at-canterbury-breath-a-sigh-of-relief.htm
+title: Students at Canterbury breath a sigh of relief
+date: 2002-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00015/students-at-canterbury-breath-a-sigh-of-relief.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2002/10/07/students-at-canterbury-breath-a-sigh-of-relief/index.html
+layout: layout.njk
 ---
 Students at Canterbury breath a sigh of relief
 ==============================================

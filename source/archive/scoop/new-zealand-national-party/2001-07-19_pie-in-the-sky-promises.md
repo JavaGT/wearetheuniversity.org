@@ -1,9 +1,11 @@
 ---
 slug: pie-in-the-sky-promises
-title: "Pie in the sky promises"
-date: 2001-07-19
+title: Pie in the sky promises
+date: 2001-07-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0107/S00312/pie-in-the-sky-promises.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/19/pie-in-the-sky-promises/index.html
+layout: layout.njk
 ---
 Pie in the sky promises
 =======================

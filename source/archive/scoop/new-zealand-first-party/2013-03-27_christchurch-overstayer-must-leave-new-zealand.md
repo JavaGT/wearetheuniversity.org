@@ -1,9 +1,12 @@
 ---
 slug: christchurch-overstayer-must-leave-new-zealand
-title: "Christchurch Overstayer Must Leave New Zealand"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/PA1303/S00468/christchurch-overstayer-must-leave-new-zealand.htm
+title: Christchurch Overstayer Must Leave New Zealand
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00468/christchurch-overstayer-must-leave-new-zealand.htm
 author: new-zealand-first-party
+permalink: /archive/2013/03/27/christchurch-overstayer-must-leave-new-zealand/index.html
+layout: layout.njk
 ---
 Christchurch Overstayer Must Leave New Zealand
 ==============================================

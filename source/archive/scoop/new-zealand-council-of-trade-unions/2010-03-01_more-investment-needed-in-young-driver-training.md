@@ -1,9 +1,12 @@
 ---
 slug: more-investment-needed-in-young-driver-training
-title: "More investment needed in young driver training"
-date: 2010-03-01
-source-url: https://www.scoop.co.nz/stories/PO1003/S00006/more-investment-needed-in-young-driver-training.htm
+title: More investment needed in young driver training
+date: 2010-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00006/more-investment-needed-in-young-driver-training.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/03/01/more-investment-needed-in-young-driver-training/index.html
+layout: layout.njk
 ---
 More investment needed in young driver training
 ===============================================

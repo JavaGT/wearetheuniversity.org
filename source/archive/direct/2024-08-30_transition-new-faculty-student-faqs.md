@@ -1,9 +1,12 @@
 ---
-slug: "transition-new-faculty-student-faqs"
-date: 2024-08-30
-source: "University of Auckland"
-source-url: https://www.auckland.ac.nz/en/news/notices/2024/new-faculty-arrangements/student-faqs.html
-title: "Transition to new faculty arrangements - Student FAQs"
+slug: transition-new-faculty-student-faqs
+date: 2024-08-30T00:00:00.000Z
+source: University of Auckland
+source-url: >-
+  https://www.auckland.ac.nz/en/news/notices/2024/new-faculty-arrangements/student-faqs.html
+title: Transition to new faculty arrangements - Student FAQs
+permalink: /archive/2024/08/30/transition-new-faculty-student-faqs/index.html
+layout: layout.njk
 ---
 
 # Student FAQs

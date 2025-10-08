@@ -1,9 +1,12 @@
 ---
 slug: new-tppa-study-at-odds-with-govt-report
-title: "New TPPA study at odds with Govt report"
-date: 2016-01-28
-source-url: https://www.scoop.co.nz/stories/PA1601/S00138/new-tppa-study-at-odds-with-govt-report.htm
+title: New TPPA study at odds with Govt report
+date: 2016-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00138/new-tppa-study-at-odds-with-govt-report.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/01/28/new-tppa-study-at-odds-with-govt-report/index.html
+layout: layout.njk
 ---
 New TPPA study at odds with Govt report
 =======================================

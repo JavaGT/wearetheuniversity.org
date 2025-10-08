@@ -1,9 +1,13 @@
 ---
 slug: school-kids-should-not-be-pushed-into-political-activity
-title: "School Kids Should Not Be Pushed Into Political Activity"
-date: 2024-11-15
-source-url: https://www.scoop.co.nz/stories/PA2411/S00114/school-kids-should-not-be-pushed-into-political-activity.htm
+title: School Kids Should Not Be Pushed Into Political Activity
+date: 2024-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00114/school-kids-should-not-be-pushed-into-political-activity.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/11/15/school-kids-should-not-be-pushed-into-political-activity/index.html
+layout: layout.njk
 ---
 School Kids Should Not Be Pushed Into Political Activity
 ========================================================

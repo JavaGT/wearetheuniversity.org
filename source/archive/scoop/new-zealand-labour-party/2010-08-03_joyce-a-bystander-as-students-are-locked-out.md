@@ -1,9 +1,12 @@
 ---
 slug: joyce-a-bystander-as-students-are-locked-out
-title: "Joyce a bystander as students are locked out"
-date: 2010-08-03
-source-url: https://www.scoop.co.nz/stories/PA1008/S00042/joyce-a-bystander-as-students-are-locked-out.htm
+title: Joyce a bystander as students are locked out
+date: 2010-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00042/joyce-a-bystander-as-students-are-locked-out.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/03/joyce-a-bystander-as-students-are-locked-out/index.html
+layout: layout.njk
 ---
 Joyce a bystander as students are locked out
 ============================================

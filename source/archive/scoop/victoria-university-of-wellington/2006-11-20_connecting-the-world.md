@@ -1,9 +1,11 @@
 ---
 slug: connecting-the-world
-title: "Connecting the world"
-date: 2006-11-20
+title: Connecting the world
+date: 2006-11-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0611/S00078/connecting-the-world.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/20/connecting-the-world/index.html
+layout: layout.njk
 ---
 Connecting the world
 ====================

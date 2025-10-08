@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-the-power-of-three
-title: "Tariana Turia: The Power Of Three"
-date: 2006-12-07
-source-url: https://www.scoop.co.nz/stories/PA0612/S00134/tariana-turia-the-power-of-three.htm
+title: 'Tariana Turia: The Power Of Three'
+date: 2006-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00134/tariana-turia-the-power-of-three.htm
 author: te-pati-maori
+permalink: /archive/2006/12/07/tariana-turia-the-power-of-three/index.html
+layout: layout.njk
 ---
 Tariana Turia: The Power Of Three
 =================================

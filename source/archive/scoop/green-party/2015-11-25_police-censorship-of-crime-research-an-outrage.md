@@ -1,9 +1,12 @@
 ---
 slug: police-censorship-of-crime-research-an-outrage
-title: "Police censorship of crime research \"an outrage\""
-date: 2015-11-25
-source-url: https://www.scoop.co.nz/stories/PA1511/S00478/police-censorship-of-crime-research-an-outrage.htm
+title: Police censorship of crime research "an outrage"
+date: 2015-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00478/police-censorship-of-crime-research-an-outrage.htm
 author: green-party
+permalink: /archive/2015/11/25/police-censorship-of-crime-research-an-outrage/index.html
+layout: layout.njk
 ---
 Police censorship of crime research “an outrage”
 ================================================

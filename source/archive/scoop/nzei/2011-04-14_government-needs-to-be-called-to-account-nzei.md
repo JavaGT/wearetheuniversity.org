@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-be-called-to-account-nzei
-title: "Government needs to be called to account - NZEI"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/ED1104/S00048/government-needs-to-be-called-to-account-nzei.htm
+title: Government needs to be called to account - NZEI
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00048/government-needs-to-be-called-to-account-nzei.htm
 author: nzei
+permalink: /archive/2011/04/14/government-needs-to-be-called-to-account-nzei/index.html
+layout: layout.njk
 ---
 Government needs to be called to account - NZEI
 ===============================================

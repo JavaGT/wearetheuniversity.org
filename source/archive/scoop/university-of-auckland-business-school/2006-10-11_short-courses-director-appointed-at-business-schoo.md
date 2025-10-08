@@ -1,9 +1,13 @@
 ---
 slug: short-courses-director-appointed-at-business-schoo
-title: "Short Courses Director appointed at Business Schoo"
-date: 2006-10-11
-source-url: https://www.scoop.co.nz/stories/ED0610/S00048/short-courses-director-appointed-at-business-schoo.htm
+title: Short Courses Director appointed at Business Schoo
+date: 2006-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00048/short-courses-director-appointed-at-business-schoo.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2006/10/11/short-courses-director-appointed-at-business-schoo/index.html
+layout: layout.njk
 ---
 Short Courses Director appointed at Business Schoo
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: i-wont-do-what-you-tell-me-to-do
-title: "I Won't Do What You Tell Me To Do"
-date: 2000-03-29
-source-url: https://www.scoop.co.nz/stories/PO0003/S00124/i-wont-do-what-you-tell-me-to-do.htm
+title: I Won't Do What You Tell Me To Do
+date: 2000-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00124/i-wont-do-what-you-tell-me-to-do.htm
 author: young-labour
+permalink: /archive/2000/03/29/i-wont-do-what-you-tell-me-to-do/index.html
+layout: layout.njk
 ---
 \`I Won't Do What You Tell Me To Do
 ===================================

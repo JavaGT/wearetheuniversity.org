@@ -1,9 +1,12 @@
 ---
 slug: government-can-support-māori-language-month
-title: "Government can support Māori Language Month"
-date: 2015-08-03
-source-url: https://www.scoop.co.nz/stories/PA1508/S00020/government-can-support-maori-language-month.htm
+title: Government can support Māori Language Month
+date: 2015-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00020/government-can-support-maori-language-month.htm
 author: green-party
+permalink: /archive/2015/08/03/government-can-support-m/index.html
+layout: layout.njk
 ---
 Government can support Māori Language Month
 ===========================================

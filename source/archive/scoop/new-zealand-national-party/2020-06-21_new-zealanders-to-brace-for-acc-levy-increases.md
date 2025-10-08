@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-to-brace-for-acc-levy-increases
-title: "New Zealanders To Brace For ACC Levy Increases"
-date: 2020-06-21
-source-url: https://www.scoop.co.nz/stories/PA2006/S00203/new-zealanders-to-brace-for-acc-levy-increases.htm
+title: New Zealanders To Brace For ACC Levy Increases
+date: 2020-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00203/new-zealanders-to-brace-for-acc-levy-increases.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/21/new-zealanders-to-brace-for-acc-levy-increases/index.html
+layout: layout.njk
 ---
 New Zealanders To Brace For ACC Levy Increases
 ==============================================

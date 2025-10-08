@@ -1,9 +1,12 @@
 ---
 slug: ombudsman-leaves-minister-with-nowhere-to-hide
-title: "Ombudsman leaves Minister with nowhere to hide"
-date: 2019-08-05
-source-url: https://www.scoop.co.nz/stories/PA1908/S00055/ombudsman-leaves-minister-with-nowhere-to-hide.htm
+title: Ombudsman leaves Minister with nowhere to hide
+date: 2019-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00055/ombudsman-leaves-minister-with-nowhere-to-hide.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/05/ombudsman-leaves-minister-with-nowhere-to-hide/index.html
+layout: layout.njk
 ---
 Ombudsman leaves Minister with nowhere to hide
 ==============================================

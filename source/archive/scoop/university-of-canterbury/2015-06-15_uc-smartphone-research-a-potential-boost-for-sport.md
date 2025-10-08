@@ -1,9 +1,13 @@
 ---
 slug: uc-smartphone-research-a-potential-boost-for-sport
-title: "UC smartphone research a potential boost for sport"
-date: 2015-06-15
-source-url: https://www.scoop.co.nz/stories/ED1506/S00072/uc-smartphone-research-a-potential-boost-for-sport.htm
+title: UC smartphone research a potential boost for sport
+date: 2015-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00072/uc-smartphone-research-a-potential-boost-for-sport.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/06/15/uc-smartphone-research-a-potential-boost-for-sport/index.html
+layout: layout.njk
 ---
 UC smartphone research a potential boost for sport
 ==================================================

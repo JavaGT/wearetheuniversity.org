@@ -1,9 +1,12 @@
 ---
 slug: the-right-talk-the-leaders-view-16-september
-title: "The Right Talk, The Leader's View - 16 September"
-date: 2003-09-16
-source-url: https://www.scoop.co.nz/stories/PA0309/S00356/the-right-talk-the-leaders-view-16-september.htm
+title: The Right Talk, The Leader's View - 16 September
+date: 2003-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00356/the-right-talk-the-leaders-view-16-september.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/16/the-right-talk-the-leaders-view-16-september/index.html
+layout: layout.njk
 ---
 The Right Talk, The Leader's View - 16 September
 ================================================

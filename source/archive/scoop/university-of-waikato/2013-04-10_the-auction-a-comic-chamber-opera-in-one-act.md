@@ -1,9 +1,12 @@
 ---
 slug: the-auction-a-comic-chamber-opera-in-one-act
-title: "The Auction: A Comic Chamber Opera In One Act"
-date: 2013-04-10
-source-url: https://www.scoop.co.nz/stories/CU1304/S00190/the-auction-a-comic-chamber-opera-in-one-act.htm
+title: 'The Auction: A Comic Chamber Opera In One Act'
+date: 2013-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1304/S00190/the-auction-a-comic-chamber-opera-in-one-act.htm
 author: university-of-waikato
+permalink: /archive/2013/04/10/the-auction-a-comic-chamber-opera-in-one-act/index.html
+layout: layout.njk
 ---
 The Auction: A Comic Chamber Opera In One Act
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: fight-looms-over-fees-warns-nandor
-title: "Fight looms over fees, warns Nandor"
-date: 2003-05-14
-source-url: https://www.scoop.co.nz/stories/PA0305/S00326/fight-looms-over-fees-warns-nandor.htm
+title: Fight looms over fees, warns Nandor
+date: 2003-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00326/fight-looms-over-fees-warns-nandor.htm
 author: green-party
+permalink: /archive/2003/05/14/fight-looms-over-fees-warns-nandor/index.html
+layout: layout.njk
 ---
 Fight looms over fees, warns Nandor
 ===================================

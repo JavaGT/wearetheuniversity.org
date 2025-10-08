@@ -1,9 +1,13 @@
 ---
 slug: feral-conference-explores-how-humans-frame-nature
-title: "‘Feral’ conference explores how humans frame nature"
-date: 2018-11-12
-source-url: https://www.scoop.co.nz/stories/SC1811/S00032/feral-conference-explores-how-humans-frame-nature.htm
+title: ‘Feral’ conference explores how humans frame nature
+date: 2018-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1811/S00032/feral-conference-explores-how-humans-frame-nature.htm
 author: massey-university
+permalink: >-
+  /archive/2018/11/12/feral-conference-explores-how-humans-frame-nature/index.html
+layout: layout.njk
 ---
 ‘Feral’ conference explores how humans frame nature
 ===================================================

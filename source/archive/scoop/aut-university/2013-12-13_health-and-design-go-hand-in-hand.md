@@ -1,9 +1,12 @@
 ---
 slug: health-and-design-go-hand-in-hand
-title: "Health and Design go hand-in-hand"
-date: 2013-12-13
-source-url: https://www.scoop.co.nz/stories/ED1312/S00089/health-and-design-go-hand-in-hand.htm
+title: Health and Design go hand-in-hand
+date: 2013-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00089/health-and-design-go-hand-in-hand.htm
 author: aut-university
+permalink: /archive/2013/12/13/health-and-design-go-hand-in-hand/index.html
+layout: layout.njk
 ---
 Health and Design go hand-in-hand
 =================================

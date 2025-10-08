@@ -1,9 +1,12 @@
 ---
 slug: students-commended-for-strike-action
-title: "Students commended for 'strike' action"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/PA0603/S00321/students-commended-for-strike-action.htm
+title: Students commended for 'strike' action
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00321/students-commended-for-strike-action.htm
 author: green-party
+permalink: /archive/2006/03/20/students-commended-for-strike-action/index.html
+layout: layout.njk
 ---
 Students commended for 'strike' action
 ======================================

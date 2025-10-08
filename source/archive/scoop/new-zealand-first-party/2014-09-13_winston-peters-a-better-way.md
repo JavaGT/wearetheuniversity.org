@@ -1,9 +1,11 @@
 ---
 slug: winston-peters-a-better-way
-title: "Winston Peters: A Better Way"
-date: 2014-09-13
+title: 'Winston Peters: A Better Way'
+date: 2014-09-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1409/S00197/winston-peters-a-better-way.htm
 author: new-zealand-first-party
+permalink: /archive/2014/09/13/winston-peters-a-better-way/index.html
+layout: layout.njk
 ---
 Winston Peters: A Better Way
 ============================

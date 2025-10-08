@@ -1,9 +1,12 @@
 ---
 slug: act-pays-tribute-to-national-mp-allan-peachey
-title: "ACT Pays Tribute To National MP Allan Peachey"
-date: 2011-11-07
-source-url: https://www.scoop.co.nz/stories/PA1111/S00126/act-pays-tribute-to-national-mp-allan-peachey.htm
+title: ACT Pays Tribute To National MP Allan Peachey
+date: 2011-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00126/act-pays-tribute-to-national-mp-allan-peachey.htm
 author: act-new-zealand
+permalink: /archive/2011/11/07/act-pays-tribute-to-national-mp-allan-peachey/index.html
+layout: layout.njk
 ---
 ACT Pays Tribute To National MP Allan Peachey
 =============================================

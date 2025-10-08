@@ -1,9 +1,12 @@
 ---
 slug: students-called-upon-unite-for-hīkoi
-title: "Students called upon: Unite for Hīkoi"
-date: 2009-05-15
-source-url: https://www.scoop.co.nz/stories/PO0905/S00213/students-called-upon-unite-for-hikoi.htm
+title: 'Students called upon: Unite for Hīkoi'
+date: 2009-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00213/students-called-upon-unite-for-hikoi.htm
 author: aut-maori-students-association
+permalink: /archive/2009/05/15/students-called-upon-unite-for-h/index.html
+layout: layout.njk
 ---
 Students called upon: Unite for Hīkoi
 =====================================

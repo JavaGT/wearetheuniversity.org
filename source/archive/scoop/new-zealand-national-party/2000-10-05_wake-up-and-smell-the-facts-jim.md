@@ -1,9 +1,12 @@
 ---
 slug: wake-up-and-smell-the-facts-jim
-title: "Wake Up And Smell The Facts Jim"
-date: 2000-10-05
-source-url: https://www.scoop.co.nz/stories/PA0010/S00100/wake-up-and-smell-the-facts-jim.htm
+title: Wake Up And Smell The Facts Jim
+date: 2000-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00100/wake-up-and-smell-the-facts-jim.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/05/wake-up-and-smell-the-facts-jim/index.html
+layout: layout.njk
 ---
 Wake Up And Smell The Facts Jim
 ===============================

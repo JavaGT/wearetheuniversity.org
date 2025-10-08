@@ -1,9 +1,12 @@
 ---
 slug: rebels-welcome-prebble-speech
-title: "Rebels Welcome Prebble Speech"
-date: 1999-09-12
-source-url: https://www.scoop.co.nz/stories/PO9909/S00064/rebels-welcome-prebble-speech.htm
+title: Rebels Welcome Prebble Speech
+date: 1999-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00064/rebels-welcome-prebble-speech.htm
 author: prebble-s-rebels
+permalink: /archive/1999/09/12/rebels-welcome-prebble-speech/index.html
+layout: layout.njk
 ---
 Rebels Welcome Prebble Speech
 =============================

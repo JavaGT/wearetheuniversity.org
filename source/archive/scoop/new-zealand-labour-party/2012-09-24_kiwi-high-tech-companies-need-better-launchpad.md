@@ -1,9 +1,12 @@
 ---
 slug: kiwi-high-tech-companies-need-better-launchpad
-title: "Kiwi high-tech companies need better launchpad"
-date: 2012-09-24
-source-url: https://www.scoop.co.nz/stories/PA1209/S00360/kiwi-high-tech-companies-need-better-launchpad.htm
+title: Kiwi high-tech companies need better launchpad
+date: 2012-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00360/kiwi-high-tech-companies-need-better-launchpad.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/24/kiwi-high-tech-companies-need-better-launchpad/index.html
+layout: layout.njk
 ---
 Kiwi high-tech companies need better launchpad
 ==============================================

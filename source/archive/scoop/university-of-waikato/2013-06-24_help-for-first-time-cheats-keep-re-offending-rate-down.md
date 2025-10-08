@@ -1,9 +1,13 @@
 ---
 slug: help-for-first-time-cheats-keep-re-offending-rate-down
-title: "Help for first time cheats keep re-offending rate down"
-date: 2013-06-24
-source-url: https://www.scoop.co.nz/stories/ED1306/S00129/help-for-first-time-cheats-keep-re-offending-rate-down.htm
+title: Help for first time cheats keep re-offending rate down
+date: 2013-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00129/help-for-first-time-cheats-keep-re-offending-rate-down.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/06/24/help-for-first-time-cheats-keep-re-offending-rate-down/index.html
+layout: layout.njk
 ---
 Help for first time cheats keep re-offending rate down
 ======================================================

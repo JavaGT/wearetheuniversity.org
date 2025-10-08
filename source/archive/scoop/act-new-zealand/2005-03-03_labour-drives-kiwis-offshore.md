@@ -1,9 +1,11 @@
 ---
 slug: labour-drives-kiwis-offshore
-title: "Labour drives Kiwis offshore"
-date: 2005-03-03
+title: Labour drives Kiwis offshore
+date: 2005-03-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0503/S00083/labour-drives-kiwis-offshore.htm
 author: act-new-zealand
+permalink: /archive/2005/03/03/labour-drives-kiwis-offshore/index.html
+layout: layout.njk
 ---
 Labour drives Kiwis offshore
 ============================

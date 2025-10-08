@@ -1,9 +1,13 @@
 ---
 slug: turbine-14-highlights-new-and-established-literary-talent
-title: "Turbine 14 highlights new and established literary talent"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/CU1412/S00211/turbine-14i-highlights-new-and-established-literary-talent.htm
+title: Turbine 14 highlights new and established literary talent
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00211/turbine-14i-highlights-new-and-established-literary-talent.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/09/turbine-14-highlights-new-and-established-literary-talent/index.html
+layout: layout.njk
 ---
 Turbine 14 highlights new and established literary talent
 =========================================================

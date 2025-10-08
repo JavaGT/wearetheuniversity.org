@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-to-honour-hymn-writer
-title: "University of Otago to honour hymn writer"
-date: 2009-12-01
-source-url: https://www.scoop.co.nz/stories/CU0912/S00006/university-of-otago-to-honour-hymn-writer.htm
+title: University of Otago to honour hymn writer
+date: 2009-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0912/S00006/university-of-otago-to-honour-hymn-writer.htm
 author: university-of-otago
+permalink: /archive/2009/12/01/university-of-otago-to-honour-hymn-writer/index.html
+layout: layout.njk
 ---
 University of Otago to honour hymn writer
 =========================================

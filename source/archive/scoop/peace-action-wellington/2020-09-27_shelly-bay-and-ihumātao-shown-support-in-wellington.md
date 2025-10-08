@@ -1,9 +1,12 @@
 ---
 slug: shelly-bay-and-ihumātao-shown-support-in-wellington
-title: "Shelly Bay And Ihumātao Shown Support In Wellington"
-date: 2020-09-27
-source-url: https://www.scoop.co.nz/stories/PO2009/S00395/shelly-bay-and-ihumatao-shown-support-in-wellington.htm
+title: Shelly Bay And Ihumātao Shown Support In Wellington
+date: 2020-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00395/shelly-bay-and-ihumatao-shown-support-in-wellington.htm
 author: peace-action-wellington
+permalink: /archive/2020/09/27/shelly-bay-and-ihum/index.html
+layout: layout.njk
 ---
 Shelly Bay And Ihumātao Shown Support In Wellington
 ===================================================

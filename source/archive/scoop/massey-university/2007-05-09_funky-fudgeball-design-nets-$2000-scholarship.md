@@ -1,9 +1,12 @@
 ---
 slug: funky-fudgeball-design-nets-$2000-scholarship
-title: "Funky \"FudgeBall\" design nets $2000 scholarship"
-date: 2007-05-09
-source-url: https://www.scoop.co.nz/stories/ED0705/S00042/funky-fudgeball-design-nets-2000-scholarship.htm
+title: Funky "FudgeBall" design nets $2000 scholarship
+date: 2007-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00042/funky-fudgeball-design-nets-2000-scholarship.htm
 author: massey-university
+permalink: /archive/2007/05/09/funky-fudgeball-design-nets-/index.html
+layout: layout.njk
 ---
 Funky “FudgeBall” design nets $2000 scholarship
 ===============================================

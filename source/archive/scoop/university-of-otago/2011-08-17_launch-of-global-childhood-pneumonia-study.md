@@ -1,9 +1,12 @@
 ---
 slug: launch-of-global-childhood-pneumonia-study
-title: "Launch of global childhood pneumonia study"
-date: 2011-08-17
-source-url: https://www.scoop.co.nz/stories/GE1108/S00066/launch-of-global-childhood-pneumonia-study.htm
+title: Launch of global childhood pneumonia study
+date: 2011-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1108/S00066/launch-of-global-childhood-pneumonia-study.htm
 author: university-of-otago
+permalink: /archive/2011/08/17/launch-of-global-childhood-pneumonia-study/index.html
+layout: layout.njk
 ---
 Launch of global childhood pneumonia study
 ==========================================

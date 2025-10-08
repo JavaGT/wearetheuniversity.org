@@ -1,9 +1,12 @@
 ---
 slug: australia-opens-up-as-nz-remains-a-fortress
-title: "Australia Opens Up As NZ Remains A Fortress"
-date: 2021-11-15
-source-url: https://www.scoop.co.nz/stories/PA2111/S00169/australia-opens-up-as-nz-remains-a-fortress.htm
+title: Australia Opens Up As NZ Remains A Fortress
+date: 2021-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00169/australia-opens-up-as-nz-remains-a-fortress.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/15/australia-opens-up-as-nz-remains-a-fortress/index.html
+layout: layout.njk
 ---
 Australia Opens Up As NZ Remains A Fortress
 ===========================================

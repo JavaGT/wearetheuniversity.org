@@ -1,9 +1,12 @@
 ---
 slug: canterbury-the-pathway-to-prosperity
-title: "Canterbury - the Pathway to Prosperity"
-date: 2003-08-21
-source-url: https://www.scoop.co.nz/stories/ED0308/S00082/canterbury-the-pathway-to-prosperity.htm
+title: Canterbury - the Pathway to Prosperity
+date: 2003-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00082/canterbury-the-pathway-to-prosperity.htm
 author: university-of-canterbury
+permalink: /archive/2003/08/21/canterbury-the-pathway-to-prosperity/index.html
+layout: layout.njk
 ---
 Canterbury - the Pathway to Prosperity
 ======================================

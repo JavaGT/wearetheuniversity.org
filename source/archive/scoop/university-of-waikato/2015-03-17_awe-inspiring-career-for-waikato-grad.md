@@ -1,9 +1,12 @@
 ---
 slug: awe-inspiring-career-for-waikato-grad
-title: "Awe inspiring career for Waikato grad"
-date: 2015-03-17
-source-url: https://www.scoop.co.nz/stories/AK1503/S00472/awe-inspiring-career-for-waikato-grad.htm
+title: Awe inspiring career for Waikato grad
+date: 2015-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00472/awe-inspiring-career-for-waikato-grad.htm
 author: university-of-waikato
+permalink: /archive/2015/03/17/awe-inspiring-career-for-waikato-grad/index.html
+layout: layout.njk
 ---
 Awe inspiring career for Waikato grad
 =====================================

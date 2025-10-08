@@ -1,9 +1,13 @@
 ---
 slug: study-reveals-the-sad-secret-world-of-child-prostitution
-title: "Study reveals the sad secret world of child prostitution"
-date: 2015-06-19
-source-url: https://www.scoop.co.nz/stories/ED1506/S00095/study-reveals-the-sad-secret-world-of-child-prostitution.htm
+title: Study reveals the sad secret world of child prostitution
+date: 2015-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00095/study-reveals-the-sad-secret-world-of-child-prostitution.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/06/19/study-reveals-the-sad-secret-world-of-child-prostitution/index.html
+layout: layout.njk
 ---
 Study reveals the sad secret world of child prostitution
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-first-week-in-parliament-2007
-title: "The Mapp Report: First week in Parliament 2007"
-date: 2007-02-19
-source-url: https://www.scoop.co.nz/stories/PA0702/S00335/the-mapp-report-first-week-in-parliament-2007.htm
+title: 'The Mapp Report: First week in Parliament 2007'
+date: 2007-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00335/the-mapp-report-first-week-in-parliament-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/19/the-mapp-report-first-week-in-parliament-2007/index.html
+layout: layout.njk
 ---
 The Mapp Report: First week in Parliament 2007
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: understanding-of-women-childless-by-circumstance-needed
-title: "Understanding of women childless by circumstance needed"
-date: 2015-01-16
-source-url: https://www.scoop.co.nz/stories/CU1501/S00139/understanding-of-women-childless-by-circumstance-needed.htm
+title: Understanding of women childless by circumstance needed
+date: 2015-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1501/S00139/understanding-of-women-childless-by-circumstance-needed.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/16/understanding-of-women-childless-by-circumstance-needed/index.html
+layout: layout.njk
 ---
 Understanding of women childless by circumstance needed
 =======================================================

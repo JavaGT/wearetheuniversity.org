@@ -1,9 +1,13 @@
 ---
 slug: students-anticipate-passing-of-interest-free-loans
-title: "Students anticipate passing of interest free loans"
-date: 2005-12-13
-source-url: https://www.scoop.co.nz/stories/ED0512/S00053/students-anticipate-passing-of-interest-free-loans.htm
+title: Students anticipate passing of interest free loans
+date: 2005-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00053/students-anticipate-passing-of-interest-free-loans.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/12/13/students-anticipate-passing-of-interest-free-loans/index.html
+layout: layout.njk
 ---
 Students anticipate passing of interest free loans
 ==================================================

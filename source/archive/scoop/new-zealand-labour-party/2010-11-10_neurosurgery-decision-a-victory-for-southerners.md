@@ -1,9 +1,12 @@
 ---
 slug: neurosurgery-decision-a-victory-for-southerners
-title: "Neurosurgery decision a victory for Southerners"
-date: 2010-11-10
-source-url: https://www.scoop.co.nz/stories/PA1011/S00182/neurosurgery-decision-a-victory-for-southerners.htm
+title: Neurosurgery decision a victory for Southerners
+date: 2010-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00182/neurosurgery-decision-a-victory-for-southerners.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/10/neurosurgery-decision-a-victory-for-southerners/index.html
+layout: layout.njk
 ---
 Neurosurgery decision a victory for Southerners
 ===============================================

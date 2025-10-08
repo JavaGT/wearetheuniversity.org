@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-vice-chancellors-2012-cricket-challenge
-title: "Waikato University Vice-Chancellor’s 2012 Cricket Challenge"
-date: 2012-03-16
-source-url: https://www.scoop.co.nz/stories/CU1203/S00256/waikato-university-vice-chancellors-2012-cricket-challenge.htm
+title: Waikato University Vice-Chancellor’s 2012 Cricket Challenge
+date: 2012-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1203/S00256/waikato-university-vice-chancellors-2012-cricket-challenge.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/03/16/waikato-university-vice-chancellors-2012-cricket-challenge/index.html
+layout: layout.njk
 ---
 Waikato University Vice-Chancellor’s 2012 Cricket Challenge
 ===========================================================

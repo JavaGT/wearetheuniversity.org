@@ -1,9 +1,12 @@
 ---
 slug: the-peoples-choice-common-sense-plan
-title: "The People’s Choice Common Sense Plan"
-date: 2015-04-21
-source-url: https://www.scoop.co.nz/stories/PO1504/S00192/the-peoples-choice-common-sense-plan.htm
+title: The People’s Choice Common Sense Plan
+date: 2015-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1504/S00192/the-peoples-choice-common-sense-plan.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2015/04/21/the-peoples-choice-common-sense-plan/index.html
+layout: layout.njk
 ---
 The People’s Choice Common Sense Plan
 =====================================

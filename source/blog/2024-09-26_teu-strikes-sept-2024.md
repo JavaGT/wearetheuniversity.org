@@ -1,10 +1,17 @@
 ---
+layout: layout.njk
 title: Great Showing at Tertiary Education Strikes in Auckland
 subtitle: Students show up in force to support striking staff
 slug: teu-strikes-sept-2024
-date: 2024-09-26
+date: 2024-09-26T00:00:00.000Z
 author: We Are The University
 author-slug: we-are-the-university
+permalink: /blog/2024/09/26/teu-strikes-sept-2024/index.html
+excerpt: >-
+  Strike/media/strike.jpg Today's strike was awesome. We had a great turnout of
+  students and staff, and we were able to show the university management that we
+  are united in our opposition to their attacks on our working conditions and
+  their way of doing things. The functions of the university rest on...
 ---
 
 ![Strike!](/media/strike.jpg)

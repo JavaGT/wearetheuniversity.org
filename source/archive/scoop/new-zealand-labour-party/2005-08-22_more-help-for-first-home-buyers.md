@@ -1,9 +1,12 @@
 ---
 slug: more-help-for-first-home-buyers
-title: "More help for first-home buyers"
-date: 2005-08-22
-source-url: https://www.scoop.co.nz/stories/PA0508/S00535/more-help-for-first-home-buyers.htm
+title: More help for first-home buyers
+date: 2005-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00535/more-help-for-first-home-buyers.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/22/more-help-for-first-home-buyers/index.html
+layout: layout.njk
 ---
 More help for first-home buyers
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: labour-supports-homegrown-talent
-title: "Labour supports homegrown talent"
-date: 2011-11-02
-source-url: https://www.scoop.co.nz/stories/PA1111/S00040/labour-supports-homegrown-talent.htm
+title: Labour supports homegrown talent
+date: 2011-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00040/labour-supports-homegrown-talent.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/02/labour-supports-homegrown-talent/index.html
+layout: layout.njk
 ---
 Labour supports homegrown talent
 ================================

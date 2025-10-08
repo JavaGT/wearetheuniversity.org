@@ -1,9 +1,12 @@
 ---
 slug: bnz-chair-in-business-in-asia
-title: "BNZ Chair in Business in Asia"
-date: 2013-11-29
-source-url: https://www.scoop.co.nz/stories/BU1311/S01053/bnz-chair-in-business-in-asia.htm
+title: BNZ Chair in Business in Asia
+date: 2013-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1311/S01053/bnz-chair-in-business-in-asia.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/29/bnz-chair-in-business-in-asia/index.html
+layout: layout.njk
 ---
 BNZ Chair in Business in Asia
 =============================

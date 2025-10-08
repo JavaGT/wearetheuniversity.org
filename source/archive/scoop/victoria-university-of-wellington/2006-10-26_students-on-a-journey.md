@@ -1,9 +1,11 @@
 ---
 slug: students-on-a-journey
-title: "Students on a journey"
-date: 2006-10-26
+title: Students on a journey
+date: 2006-10-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0610/S00095/students-on-a-journey.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/10/26/students-on-a-journey/index.html
+layout: layout.njk
 ---
 Students on a journey
 =====================

@@ -1,9 +1,12 @@
 ---
 slug: student-workers-need-increase-to-minimum-wage
-title: "Student workers need increase to minimum wage"
-date: 2009-02-07
-source-url: https://www.scoop.co.nz/stories/PO0902/S00068/student-workers-need-increase-to-minimum-wage.htm
+title: Student workers need increase to minimum wage
+date: 2009-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0902/S00068/student-workers-need-increase-to-minimum-wage.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/02/07/student-workers-need-increase-to-minimum-wage/index.html
+layout: layout.njk
 ---
 Student workers need increase to minimum wage
 =============================================

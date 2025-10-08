@@ -1,9 +1,13 @@
 ---
 slug: more-european-opportunities-for-victoria-students
-title: "More European opportunities for Victoria students"
-date: 2007-10-18
-source-url: https://www.scoop.co.nz/stories/ED0710/S00057/more-european-opportunities-for-victoria-students.htm
+title: More European opportunities for Victoria students
+date: 2007-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00057/more-european-opportunities-for-victoria-students.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/10/18/more-european-opportunities-for-victoria-students/index.html
+layout: layout.njk
 ---
 More European opportunities for Victoria students
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwis-have-become-more-frugal-in-wake-of-gfc
-title: "Kiwis have become more frugal in wake of GFC"
-date: 2015-08-26
-source-url: https://www.scoop.co.nz/stories/CU1508/S00361/kiwis-have-become-more-frugal-in-wake-of-gfc.htm
+title: Kiwis have become more frugal in wake of GFC
+date: 2015-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00361/kiwis-have-become-more-frugal-in-wake-of-gfc.htm
 author: university-of-otago
+permalink: /archive/2015/08/26/kiwis-have-become-more-frugal-in-wake-of-gfc/index.html
+layout: layout.njk
 ---
 Kiwis have become more frugal in wake of GFC
 ============================================

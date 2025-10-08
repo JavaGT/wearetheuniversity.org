@@ -1,9 +1,12 @@
 ---
 slug: awards-winner-keeps-exports-on-track
-title: "Awards winner keeps exports on track"
-date: 2017-10-09
-source-url: https://www.scoop.co.nz/stories/BU1710/S00260/awards-winner-keeps-exports-on-track.htm
+title: Awards winner keeps exports on track
+date: 2017-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1710/S00260/awards-winner-keeps-exports-on-track.htm
 author: aut-university
+permalink: /archive/2017/10/09/awards-winner-keeps-exports-on-track/index.html
+layout: layout.njk
 ---
 Awards winner keeps exports on track
 ====================================

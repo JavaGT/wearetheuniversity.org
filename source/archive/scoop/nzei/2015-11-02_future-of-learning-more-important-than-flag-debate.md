@@ -1,9 +1,13 @@
 ---
 slug: future-of-learning-more-important-than-flag-debate
-title: "Future of learning  more important than flag debate"
-date: 2015-11-02
-source-url: https://www.scoop.co.nz/stories/ED1511/S00003/future-of-learning-more-important-than-flag-debate.htm
+title: Future of learning  more important than flag debate
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00003/future-of-learning-more-important-than-flag-debate.htm
 author: nzei
+permalink: >-
+  /archive/2015/11/02/future-of-learning-more-important-than-flag-debate/index.html
+layout: layout.njk
 ---
 Future of learning more important than flag debate
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: dr-pita-sharples-waitangi-day-address
-title: "DR Pita Sharples: Waitangi Day Address"
-date: 2009-02-07
-source-url: https://www.scoop.co.nz/stories/PA0902/S00083/dr-pita-sharples-waitangi-day-address.htm
+title: 'DR Pita Sharples: Waitangi Day Address'
+date: 2009-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00083/dr-pita-sharples-waitangi-day-address.htm
 author: te-pati-maori
+permalink: /archive/2009/02/07/dr-pita-sharples-waitangi-day-address/index.html
+layout: layout.njk
 ---
 DR Pita Sharples: Waitangi Day Address
 ======================================

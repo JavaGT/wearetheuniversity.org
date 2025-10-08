@@ -1,9 +1,12 @@
 ---
 slug: school-choice-the-only-choice
-title: "School Choice, The Only Choice"
-date: 2003-07-15
-source-url: https://www.scoop.co.nz/stories/PA0307/S00278/school-choice-the-only-choice.htm
+title: School Choice, The Only Choice
+date: 2003-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00278/school-choice-the-only-choice.htm
 author: act-new-zealand
+permalink: /archive/2003/07/15/school-choice-the-only-choice/index.html
+layout: layout.njk
 ---
 School Choice, The Only Choice
 ==============================

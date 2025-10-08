@@ -1,9 +1,12 @@
 ---
 slug: transit-still-in-denial-over-killer-road
-title: "Transit still in denial over ‘killer road’"
-date: 2005-11-07
-source-url: https://www.scoop.co.nz/stories/PA0511/S00077/transit-still-in-denial-over-killer-road.htm
+title: Transit still in denial over ‘killer road’
+date: 2005-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00077/transit-still-in-denial-over-killer-road.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/07/transit-still-in-denial-over-killer-road/index.html
+layout: layout.njk
 ---
 Transit still in denial over ‘killer road’
 ==========================================

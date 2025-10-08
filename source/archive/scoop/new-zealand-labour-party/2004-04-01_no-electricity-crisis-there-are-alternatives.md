@@ -1,9 +1,12 @@
 ---
 slug: no-electricity-crisis-there-are-alternatives
-title: "No electricity crisis: there are alternatives"
-date: 2004-04-01
-source-url: https://www.scoop.co.nz/stories/PA0404/S00002/no-electricity-crisis-there-are-alternatives.htm
+title: 'No electricity crisis: there are alternatives'
+date: 2004-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00002/no-electricity-crisis-there-are-alternatives.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/04/01/no-electricity-crisis-there-are-alternatives/index.html
+layout: layout.njk
 ---
 No electricity crisis: there are alternatives
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: not-enough-pigs-to-go-around
-title: "Not Enough Pigs To Go Around"
-date: 2010-02-09
+title: Not Enough Pigs To Go Around
+date: 2010-02-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1002/S00037/not-enough-pigs-to-go-around.htm
 author: lincoln-university
+permalink: /archive/2010/02/09/not-enough-pigs-to-go-around/index.html
+layout: layout.njk
 ---
 Not Enough Pigs To Go Around
 ============================

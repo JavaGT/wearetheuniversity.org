@@ -1,9 +1,12 @@
 ---
 slug: te-reo-o-te-tai-tokerau-mapp-bill
-title: "Te Reo o Te Tai Tokerau: Mapp Bill"
-date: 2006-08-29
-source-url: https://www.scoop.co.nz/stories/PA0608/S00509/te-reo-o-te-tai-tokerau-mapp-bill.htm
+title: 'Te Reo o Te Tai Tokerau: Mapp Bill'
+date: 2006-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00509/te-reo-o-te-tai-tokerau-mapp-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/08/29/te-reo-o-te-tai-tokerau-mapp-bill/index.html
+layout: layout.njk
 ---
 Te Reo o Te Tai Tokerau: Mapp Bill
 ==================================

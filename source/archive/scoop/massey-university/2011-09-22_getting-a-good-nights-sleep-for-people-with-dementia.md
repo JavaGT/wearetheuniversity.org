@@ -1,9 +1,13 @@
 ---
 slug: getting-a-good-nights-sleep-for-people-with-dementia
-title: "Getting a good night’s sleep for people with dementia"
-date: 2011-09-22
-source-url: https://www.scoop.co.nz/stories/SC1109/S00053/getting-a-good-nights-sleep-for-people-with-dementia.htm
+title: Getting a good night’s sleep for people with dementia
+date: 2011-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1109/S00053/getting-a-good-nights-sleep-for-people-with-dementia.htm
 author: massey-university
+permalink: >-
+  /archive/2011/09/22/getting-a-good-nights-sleep-for-people-with-dementia/index.html
+layout: layout.njk
 ---
 Getting a good night’s sleep for people with dementia
 =====================================================

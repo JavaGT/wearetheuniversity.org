@@ -1,9 +1,11 @@
 ---
 slug: green-party-list
-title: "Green Party List"
-date: 2002-06-26
+title: Green Party List
+date: 2002-06-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00467/green-party-list.htm
 author: green-party
+permalink: /archive/2002/06/26/green-party-list/index.html
+layout: layout.njk
 ---
 Green Party List
 ================

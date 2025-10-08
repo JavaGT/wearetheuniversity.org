@@ -1,9 +1,12 @@
 ---
 slug: corrections-failure-lets-$1m-of-p-onto-streets
-title: "Corrections failure lets $1m of 'P' onto streets"
-date: 2007-08-17
-source-url: https://www.scoop.co.nz/stories/PA0708/S00301/corrections-failure-lets-1m-of-p-onto-streets.htm
+title: Corrections failure lets $1m of 'P' onto streets
+date: 2007-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00301/corrections-failure-lets-1m-of-p-onto-streets.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/17/corrections-failure-lets-/index.html
+layout: layout.njk
 ---
 Corrections failure lets $1m of 'P' onto streets
 ================================================

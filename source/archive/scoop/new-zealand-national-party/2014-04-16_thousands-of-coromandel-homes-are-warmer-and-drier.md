@@ -1,9 +1,13 @@
 ---
 slug: thousands-of-coromandel-homes-are-warmer-and-drier
-title: "Thousands of Coromandel homes are warmer and drier"
-date: 2014-04-16
-source-url: https://www.scoop.co.nz/stories/PA1404/S00280/thousands-of-coromandel-homes-are-warmer-and-drier.htm
+title: Thousands of Coromandel homes are warmer and drier
+date: 2014-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00280/thousands-of-coromandel-homes-are-warmer-and-drier.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/04/16/thousands-of-coromandel-homes-are-warmer-and-drier/index.html
+layout: layout.njk
 ---
 Thousands of Coromandel homes are warmer and drier
 ==================================================

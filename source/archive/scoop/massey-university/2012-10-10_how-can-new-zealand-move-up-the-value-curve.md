@@ -1,9 +1,12 @@
 ---
 slug: how-can-new-zealand-move-up-the-value-curve
-title: "How can New Zealand move up the value curve?"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/BU1210/S00410/how-can-new-zealand-move-up-the-value-curve.htm
+title: How can New Zealand move up the value curve?
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1210/S00410/how-can-new-zealand-move-up-the-value-curve.htm
 author: massey-university
+permalink: /archive/2012/10/10/how-can-new-zealand-move-up-the-value-curve/index.html
+layout: layout.njk
 ---
 How can New Zealand move up the value curve?
 ============================================

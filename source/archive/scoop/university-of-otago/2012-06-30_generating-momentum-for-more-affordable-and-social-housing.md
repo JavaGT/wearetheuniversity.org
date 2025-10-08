@@ -1,9 +1,13 @@
 ---
 slug: generating-momentum-for-more-affordable-and-social-housing
-title: "Generating momentum for more affordable and social housing"
-date: 2012-06-30
-source-url: https://www.scoop.co.nz/stories/PO1206/S00422/generating-momentum-for-more-affordable-and-social-housing.htm
+title: Generating momentum for more affordable and social housing
+date: 2012-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00422/generating-momentum-for-more-affordable-and-social-housing.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/06/30/generating-momentum-for-more-affordable-and-social-housing/index.html
+layout: layout.njk
 ---
 Generating momentum for more affordable and social housing
 ==========================================================

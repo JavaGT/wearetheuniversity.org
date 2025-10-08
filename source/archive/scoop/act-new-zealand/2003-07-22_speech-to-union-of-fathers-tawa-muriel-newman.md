@@ -1,9 +1,12 @@
 ---
 slug: speech-to-union-of-fathers-tawa-muriel-newman
-title: "Speech To Union Of Fathers, Tawa -- Muriel Newman"
-date: 2003-07-22
-source-url: https://www.scoop.co.nz/stories/PA0307/S00383/speech-to-union-of-fathers-tawa-muriel-newman.htm
+title: Speech To Union Of Fathers, Tawa -- Muriel Newman
+date: 2003-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00383/speech-to-union-of-fathers-tawa-muriel-newman.htm
 author: act-new-zealand
+permalink: /archive/2003/07/22/speech-to-union-of-fathers-tawa-muriel-newman/index.html
+layout: layout.njk
 ---
 Speech To Union Of Fathers, Tawa -- Muriel Newman
 =================================================

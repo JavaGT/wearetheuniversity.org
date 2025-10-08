@@ -1,9 +1,12 @@
 ---
 slug: leading-us-education-innovator-to-visit-nz
-title: "Leading US Education Innovator To Visit NZ"
-date: 2001-11-08
-source-url: https://www.scoop.co.nz/stories/ED0111/S00027/leading-us-education-innovator-to-visit-nz.htm
+title: Leading US Education Innovator To Visit NZ
+date: 2001-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00027/leading-us-education-innovator-to-visit-nz.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2001/11/08/leading-us-education-innovator-to-visit-nz/index.html
+layout: layout.njk
 ---
 Leading US Education Innovator To Visit NZ
 ==========================================

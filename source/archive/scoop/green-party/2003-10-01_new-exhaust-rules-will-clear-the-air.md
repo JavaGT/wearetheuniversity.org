@@ -1,9 +1,12 @@
 ---
 slug: new-exhaust-rules-will-clear-the-air
-title: "New exhaust rules will clear the air"
-date: 2003-10-01
-source-url: https://www.scoop.co.nz/stories/PA0310/S00002/new-exhaust-rules-will-clear-the-air.htm
+title: New exhaust rules will clear the air
+date: 2003-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00002/new-exhaust-rules-will-clear-the-air.htm
 author: green-party
+permalink: /archive/2003/10/01/new-exhaust-rules-will-clear-the-air/index.html
+layout: layout.njk
 ---
 New exhaust rules will clear the air
 ====================================

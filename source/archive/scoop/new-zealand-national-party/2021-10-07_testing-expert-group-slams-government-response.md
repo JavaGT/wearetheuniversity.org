@@ -1,9 +1,12 @@
 ---
 slug: testing-expert-group-slams-government-response
-title: "Testing Expert Group Slams Government Response"
-date: 2021-10-07
-source-url: https://www.scoop.co.nz/stories/PA2110/S00078/testing-expert-group-slams-government-response.htm
+title: Testing Expert Group Slams Government Response
+date: 2021-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00078/testing-expert-group-slams-government-response.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/07/testing-expert-group-slams-government-response/index.html
+layout: layout.njk
 ---
 Testing Expert Group Slams Government Response
 ==============================================

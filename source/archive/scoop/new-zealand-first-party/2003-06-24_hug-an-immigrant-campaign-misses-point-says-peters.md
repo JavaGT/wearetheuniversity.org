@@ -1,9 +1,13 @@
 ---
 slug: hug-an-immigrant-campaign-misses-point-says-peters
-title: "Hug An Immigrant Campaign Misses Point Says Peters"
-date: 2003-06-24
-source-url: https://www.scoop.co.nz/stories/PA0306/S00428/hug-an-immigrant-campaign-misses-point-says-peters.htm
+title: Hug An Immigrant Campaign Misses Point Says Peters
+date: 2003-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00428/hug-an-immigrant-campaign-misses-point-says-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2003/06/24/hug-an-immigrant-campaign-misses-point-says-peters/index.html
+layout: layout.njk
 ---
 Hug An Immigrant Campaign Misses Point Says Peters
 ==================================================

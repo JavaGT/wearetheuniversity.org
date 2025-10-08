@@ -1,9 +1,12 @@
 ---
 slug: auditor-general-should-probe-col-payments
-title: "Auditor-General Should Probe COL Payments"
-date: 2022-08-02
-source-url: https://www.scoop.co.nz/stories/PA2208/S00013/auditor-general-should-probe-col-payments.htm
+title: Auditor-General Should Probe COL Payments
+date: 2022-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00013/auditor-general-should-probe-col-payments.htm
 author: new-zealand-national-party
+permalink: /archive/2022/08/02/auditor-general-should-probe-col-payments/index.html
+layout: layout.njk
 ---
 Auditor-General Should Probe COL Payments
 =========================================

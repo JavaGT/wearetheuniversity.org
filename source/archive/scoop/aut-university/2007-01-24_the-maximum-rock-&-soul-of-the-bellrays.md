@@ -1,9 +1,12 @@
 ---
 slug: the-maximum-rock-&-soul-of-the-bellrays
-title: "The Maximum Rock & Soul Of The Bellrays"
-date: 2007-01-24
-source-url: https://www.scoop.co.nz/stories/CU0701/S00128/the-maximum-rock-soul-of-the-bellrays.htm
+title: The Maximum Rock & Soul Of The Bellrays
+date: 2007-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0701/S00128/the-maximum-rock-soul-of-the-bellrays.htm
 author: aut-university
+permalink: /archive/2007/01/24/the-maximum-rock-/index.html
+layout: layout.njk
 ---
 The Maximum Rock & Soul Of The Bellrays
 =======================================

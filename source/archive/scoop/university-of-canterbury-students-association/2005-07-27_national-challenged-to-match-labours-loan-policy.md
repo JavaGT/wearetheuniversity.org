@@ -1,9 +1,13 @@
 ---
 slug: national-challenged-to-match-labours-loan-policy
-title: "National Challenged To Match Labour’s Loan Policy"
-date: 2005-07-27
-source-url: https://www.scoop.co.nz/stories/ED0507/S00108/national-challenged-to-match-labours-loan-policy.htm
+title: National Challenged To Match Labour’s Loan Policy
+date: 2005-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00108/national-challenged-to-match-labours-loan-policy.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2005/07/27/national-challenged-to-match-labours-loan-policy/index.html
+layout: layout.njk
 ---
 National Challenged To Match Labour’s Loan Policy
 =================================================

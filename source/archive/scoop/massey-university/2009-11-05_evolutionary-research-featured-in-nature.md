@@ -1,9 +1,12 @@
 ---
 slug: evolutionary-research-featured-in-nature
-title: "Evolutionary research featured in Nature"
-date: 2009-11-05
-source-url: https://www.scoop.co.nz/stories/SC0911/S00008/evolutionary-research-featured-in-nature.htm
+title: Evolutionary research featured in Nature
+date: 2009-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0911/S00008/evolutionary-research-featured-in-nature.htm
 author: massey-university
+permalink: /archive/2009/11/05/evolutionary-research-featured-in-nature/index.html
+layout: layout.njk
 ---
 Evolutionary research featured in Nature
 ========================================

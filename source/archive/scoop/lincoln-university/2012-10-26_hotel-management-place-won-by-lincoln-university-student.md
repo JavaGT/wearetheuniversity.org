@@ -1,9 +1,13 @@
 ---
 slug: hotel-management-place-won-by-lincoln-university-student
-title: "Hotel management place won by Lincoln University student"
-date: 2012-10-26
-source-url: https://www.scoop.co.nz/stories/ED1210/S00162/hotel-management-place-won-by-lincoln-university-student.htm
+title: Hotel management place won by Lincoln University student
+date: 2012-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00162/hotel-management-place-won-by-lincoln-university-student.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/10/26/hotel-management-place-won-by-lincoln-university-student/index.html
+layout: layout.njk
 ---
 Hotel management place won by Lincoln University student
 ========================================================

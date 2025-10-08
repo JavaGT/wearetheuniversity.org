@@ -1,9 +1,12 @@
 ---
 slug: parents-want-to-know-how-their-childs-doing
-title: "Parents want to know how their child’s doing"
-date: 2007-04-03
-source-url: https://www.scoop.co.nz/stories/PA0704/S00053/parents-want-to-know-how-their-childs-doing.htm
+title: Parents want to know how their child’s doing
+date: 2007-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00053/parents-want-to-know-how-their-childs-doing.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/03/parents-want-to-know-how-their-childs-doing/index.html
+layout: layout.njk
 ---
 Parents want to know how their child’s doing
 ============================================

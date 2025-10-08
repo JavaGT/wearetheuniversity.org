@@ -1,9 +1,11 @@
 ---
 slug: keys-faith-in-tolley-falters
-title: "Key’s faith in Tolley falters"
-date: 2010-11-04
+title: Key’s faith in Tolley falters
+date: 2010-11-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1011/S00076/keys-faith-in-tolley-falters.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/04/keys-faith-in-tolley-falters/index.html
+layout: layout.njk
 ---
 Key’s faith in Tolley falters
 =============================

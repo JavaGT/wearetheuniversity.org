@@ -1,9 +1,13 @@
 ---
 slug: national-party-labour-rail-announcement-unrealistic
-title: "National Party - Labour Rail Announcement Unrealistic"
-date: 2017-08-21
-source-url: https://www.scoop.co.nz/stories/PO1708/S00407/national-party-labour-rail-announcement-unrealistic.htm
+title: National Party - Labour Rail Announcement Unrealistic
+date: 2017-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00407/national-party-labour-rail-announcement-unrealistic.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/08/21/national-party-labour-rail-announcement-unrealistic/index.html
+layout: layout.njk
 ---
 National Party - Labour Rail Announcement Unrealistic
 =====================================================

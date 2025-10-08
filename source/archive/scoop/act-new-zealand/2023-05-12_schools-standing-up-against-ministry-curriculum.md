@@ -1,9 +1,12 @@
 ---
 slug: schools-standing-up-against-ministry-curriculum
-title: "Schools Standing Up Against Ministry Curriculum"
-date: 2023-05-12
-source-url: https://www.scoop.co.nz/stories/PA2305/S00082/schools-standing-up-against-ministry-curriculum.htm
+title: Schools Standing Up Against Ministry Curriculum
+date: 2023-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00082/schools-standing-up-against-ministry-curriculum.htm
 author: act-new-zealand
+permalink: /archive/2023/05/12/schools-standing-up-against-ministry-curriculum/index.html
+layout: layout.njk
 ---
 Schools Standing Up Against Ministry Curriculum
 ===============================================

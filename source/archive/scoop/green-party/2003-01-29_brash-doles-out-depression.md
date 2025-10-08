@@ -1,9 +1,11 @@
 ---
 slug: brash-doles-out-depression
-title: "Brash doles out depression"
-date: 2003-01-29
+title: Brash doles out depression
+date: 2003-01-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0301/S00254/brash-doles-out-depression.htm
 author: green-party
+permalink: /archive/2003/01/29/brash-doles-out-depression/index.html
+layout: layout.njk
 ---
 Brash doles out depression
 ==========================

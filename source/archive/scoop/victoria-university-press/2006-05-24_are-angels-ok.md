@@ -1,9 +1,11 @@
 ---
 slug: are-angels-ok
-title: "Are Angels OK?"
-date: 2006-05-24
+title: Are Angels OK?
+date: 2006-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0605/S00226/are-angels-ok.htm
 author: victoria-university-press
+permalink: /archive/2006/05/24/are-angels-ok/index.html
+layout: layout.njk
 ---
 Are Angels OK?
 ==============

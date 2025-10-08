@@ -1,9 +1,12 @@
 ---
 slug: research-to-reduce-the-cost-of-traffic
-title: "Research to reduce the cost of traffic"
-date: 2015-06-12
-source-url: https://www.scoop.co.nz/stories/PO1506/S00132/research-to-reduce-the-cost-of-traffic.htm
+title: Research to reduce the cost of traffic
+date: 2015-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1506/S00132/research-to-reduce-the-cost-of-traffic.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/06/12/research-to-reduce-the-cost-of-traffic/index.html
+layout: layout.njk
 ---
 Research to reduce the cost of traffic
 ======================================

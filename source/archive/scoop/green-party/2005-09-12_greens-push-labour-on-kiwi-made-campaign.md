@@ -1,9 +1,12 @@
 ---
 slug: greens-push-labour-on-kiwi-made-campaign
-title: "Greens push Labour on Kiwi-made campaign"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/PA0509/S00300/greens-push-labour-on-kiwi-made-campaign.htm
+title: Greens push Labour on Kiwi-made campaign
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00300/greens-push-labour-on-kiwi-made-campaign.htm
 author: green-party
+permalink: /archive/2005/09/12/greens-push-labour-on-kiwi-made-campaign/index.html
+layout: layout.njk
 ---
 Greens push Labour on Kiwi-made campaign
 ========================================

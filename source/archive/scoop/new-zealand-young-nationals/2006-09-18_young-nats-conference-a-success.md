@@ -1,9 +1,12 @@
 ---
 slug: young-nats-conference-a-success
-title: "Young Nats Conference a success"
-date: 2006-09-18
-source-url: https://www.scoop.co.nz/stories/PO0609/S00205/young-nats-conference-a-success.htm
+title: Young Nats Conference a success
+date: 2006-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0609/S00205/young-nats-conference-a-success.htm
 author: new-zealand-young-nationals
+permalink: /archive/2006/09/18/young-nats-conference-a-success/index.html
+layout: layout.njk
 ---
 Young Nats Conference a success
 ===============================

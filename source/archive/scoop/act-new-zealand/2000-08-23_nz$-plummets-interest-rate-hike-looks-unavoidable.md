@@ -1,9 +1,12 @@
 ---
 slug: nz$-plummets-interest-rate-hike-looks-unavoidable
-title: "NZ$ Plummets, Interest Rate Hike Looks Unavoidable"
-date: 2000-08-23
-source-url: https://www.scoop.co.nz/stories/PA0008/S00429/nz-plummets-interest-rate-hike-looks-unavoidable.htm
+title: NZ$ Plummets, Interest Rate Hike Looks Unavoidable
+date: 2000-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00429/nz-plummets-interest-rate-hike-looks-unavoidable.htm
 author: act-new-zealand
+permalink: /archive/2000/08/23/nz/index.html
+layout: layout.njk
 ---
 NZ$ Plummets, Interest Rate Hike Looks Unavoidable
 ==================================================

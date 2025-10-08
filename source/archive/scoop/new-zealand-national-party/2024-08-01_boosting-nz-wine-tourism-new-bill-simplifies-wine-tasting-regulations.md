@@ -1,9 +1,13 @@
 ---
 slug: boosting-nz-wine-tourism-new-bill-simplifies-wine-tasting-regulations
-title: "Boosting NZ Wine Tourism: New Bill Simplifies Wine Tasting Regulations"
-date: 2024-08-01
-source-url: https://www.scoop.co.nz/stories/PA2408/S00008/boosting-nz-wine-tourism-new-bill-simplifies-wine-tasting-regulations.htm
+title: 'Boosting NZ Wine Tourism: New Bill Simplifies Wine Tasting Regulations'
+date: 2024-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00008/boosting-nz-wine-tourism-new-bill-simplifies-wine-tasting-regulations.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2024/08/01/boosting-nz-wine-tourism-new-bill-simplifies-wine-tasting-regulations/index.html
+layout: layout.njk
 ---
 Boosting NZ Wine Tourism: New Bill Simplifies Wine Tasting Regulations
 ======================================================================

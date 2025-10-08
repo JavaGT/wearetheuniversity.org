@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-and-nzusa-on-same-page-on-scholarships
-title: "New Zealand First And NZUSA on Same Page on Scholarships"
-date: 2014-07-31
-source-url: https://www.scoop.co.nz/stories/PA1407/S00622/new-zealand-first-and-nzusa-on-same-page-on-scholarships.htm
+title: New Zealand First And NZUSA on Same Page on Scholarships
+date: 2014-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00622/new-zealand-first-and-nzusa-on-same-page-on-scholarships.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/07/31/new-zealand-first-and-nzusa-on-same-page-on-scholarships/index.html
+layout: layout.njk
 ---
 New Zealand First And NZUSA on Same Page on Scholarships
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: wage-gap-with-australia-no-surprise
-title: "Wage Gap With Australia No Surprise"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/PA1007/S00453/wage-gap-with-australia-no-surprise.htm
+title: Wage Gap With Australia No Surprise
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00453/wage-gap-with-australia-no-surprise.htm
 author: act-new-zealand
+permalink: /archive/2010/07/29/wage-gap-with-australia-no-surprise/index.html
+layout: layout.njk
 ---
 Wage Gap With Australia No Surprise
 ===================================

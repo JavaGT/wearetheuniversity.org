@@ -1,9 +1,12 @@
 ---
 slug: controlling-cancer-in-the-pacific
-title: "Controlling Cancer in the Pacific"
-date: 2017-11-15
-source-url: https://www.scoop.co.nz/stories/GE1711/S00062/controlling-cancer-in-the-pacific.htm
+title: Controlling Cancer in the Pacific
+date: 2017-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1711/S00062/controlling-cancer-in-the-pacific.htm
 author: massey-university
+permalink: /archive/2017/11/15/controlling-cancer-in-the-pacific/index.html
+layout: layout.njk
 ---
 Controlling Cancer in the Pacific
 =================================

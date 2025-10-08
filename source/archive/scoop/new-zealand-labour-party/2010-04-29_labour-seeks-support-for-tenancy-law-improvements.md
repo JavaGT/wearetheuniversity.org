@@ -1,9 +1,13 @@
 ---
 slug: labour-seeks-support-for-tenancy-law-improvements
-title: "Labour seeks support for tenancy law improvements"
-date: 2010-04-29
-source-url: https://www.scoop.co.nz/stories/PA1004/S00401/labour-seeks-support-for-tenancy-law-improvements.htm
+title: Labour seeks support for tenancy law improvements
+date: 2010-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00401/labour-seeks-support-for-tenancy-law-improvements.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/04/29/labour-seeks-support-for-tenancy-law-improvements/index.html
+layout: layout.njk
 ---
 Labour seeks support for tenancy law improvements
 =================================================

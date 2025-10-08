@@ -1,9 +1,12 @@
 ---
 slug: damp-free-homes-a-right-for-tenants
-title: "Damp-free homes a right for tenants"
-date: 2015-04-16
-source-url: https://www.scoop.co.nz/stories/PA1504/S00203/damp-free-homes-a-right-for-tenants.htm
+title: Damp-free homes a right for tenants
+date: 2015-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00203/damp-free-homes-a-right-for-tenants.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/04/16/damp-free-homes-a-right-for-tenants/index.html
+layout: layout.njk
 ---
 Damp-free homes a right for tenants
 ===================================

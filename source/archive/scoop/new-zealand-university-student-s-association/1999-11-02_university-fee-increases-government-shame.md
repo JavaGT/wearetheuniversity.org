@@ -1,9 +1,12 @@
 ---
 slug: university-fee-increases-government-shame
-title: "University Fee Increases - Government Shame"
-date: 1999-11-02
-source-url: https://www.scoop.co.nz/stories/ED9911/S00005/university-fee-increases-government-shame.htm
+title: University Fee Increases - Government Shame
+date: 1999-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9911/S00005/university-fee-increases-government-shame.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/11/02/university-fee-increases-government-shame/index.html
+layout: layout.njk
 ---
 University Fee Increases - Government Shame
 ===========================================

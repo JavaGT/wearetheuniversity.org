@@ -1,9 +1,11 @@
 ---
 slug: katene-praises-angel-efforts
-title: "Katene praises \"angel\" efforts"
-date: 2011-05-11
+title: Katene praises "angel" efforts
+date: 2011-05-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1105/S00217/katene-praises-angel-efforts.htm
 author: te-pati-maori
+permalink: /archive/2011/05/11/katene-praises-angel-efforts/index.html
+layout: layout.njk
 ---
 Katene praises "angel" efforts
 ==============================

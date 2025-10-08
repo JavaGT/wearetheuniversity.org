@@ -1,9 +1,13 @@
 ---
 slug: green-plan-to-bring-100000-children-out-of-poverty
-title: "Green plan to bring 100,000 children out of poverty"
-date: 2011-08-03
-source-url: https://www.scoop.co.nz/stories/PA1108/S00049/green-plan-to-bring-100000-children-out-of-poverty.htm
+title: Green plan to bring 100,000 children out of poverty
+date: 2011-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00049/green-plan-to-bring-100000-children-out-of-poverty.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/03/green-plan-to-bring-100000-children-out-of-poverty/index.html
+layout: layout.njk
 ---
 Green plan to bring 100,000 children out of poverty
 ===================================================

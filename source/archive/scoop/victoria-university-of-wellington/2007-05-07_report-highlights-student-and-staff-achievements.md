@@ -1,9 +1,13 @@
 ---
 slug: report-highlights-student-and-staff-achievements
-title: "Report highlights student and staff achievements"
-date: 2007-05-07
-source-url: https://www.scoop.co.nz/stories/ED0705/S00029/report-highlights-student-and-staff-achievements.htm
+title: Report highlights student and staff achievements
+date: 2007-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00029/report-highlights-student-and-staff-achievements.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/05/07/report-highlights-student-and-staff-achievements/index.html
+layout: layout.njk
 ---
 Report highlights student and staff achievements
 ================================================

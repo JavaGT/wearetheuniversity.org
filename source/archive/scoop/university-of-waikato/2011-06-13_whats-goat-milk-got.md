@@ -1,9 +1,11 @@
 ---
 slug: whats-goat-milk-got
-title: "What’s goat milk got?"
-date: 2011-06-13
+title: What’s goat milk got?
+date: 2011-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1106/S00045/whats-goat-milk-got.htm
 author: university-of-waikato
+permalink: /archive/2011/06/13/whats-goat-milk-got/index.html
+layout: layout.njk
 ---
 What’s goat milk got?
 =====================

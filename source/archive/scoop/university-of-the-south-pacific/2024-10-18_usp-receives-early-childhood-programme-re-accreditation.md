@@ -1,9 +1,13 @@
 ---
 slug: usp-receives-early-childhood-programme-re-accreditation
-title: "USP Receives Early Childhood Programme Re-accreditation"
-date: 2024-10-18
-source-url: https://www.scoop.co.nz/stories/ED2410/S00026/usp-receives-early-childhood-programme-re-accreditation.htm
+title: USP Receives Early Childhood Programme Re-accreditation
+date: 2024-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00026/usp-receives-early-childhood-programme-re-accreditation.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2024/10/18/usp-receives-early-childhood-programme-re-accreditation/index.html
+layout: layout.njk
 ---
 USP Receives Early Childhood Programme Re-accreditation
 =======================================================

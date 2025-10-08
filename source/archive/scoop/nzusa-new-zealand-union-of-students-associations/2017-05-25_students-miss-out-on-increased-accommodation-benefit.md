@@ -1,9 +1,13 @@
 ---
 slug: students-miss-out-on-increased-accommodation-benefit
-title: "Students miss out on increased accommodation benefit"
-date: 2017-05-25
-source-url: https://www.scoop.co.nz/stories/PO1705/S00374/students-miss-out-on-increased-accommodation-benefit.htm
+title: Students miss out on increased accommodation benefit
+date: 2017-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00374/students-miss-out-on-increased-accommodation-benefit.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/05/25/students-miss-out-on-increased-accommodation-benefit/index.html
+layout: layout.njk
 ---
 Students miss out on increased accommodation benefit
 ====================================================

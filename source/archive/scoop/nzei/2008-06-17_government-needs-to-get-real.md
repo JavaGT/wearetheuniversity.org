@@ -1,9 +1,11 @@
 ---
 slug: government-needs-to-get-real
-title: "Government Needs To Get Real"
-date: 2008-06-17
+title: Government Needs To Get Real
+date: 2008-06-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0806/S00051/government-needs-to-get-real.htm
 author: nzei
+permalink: /archive/2008/06/17/government-needs-to-get-real/index.html
+layout: layout.njk
 ---
 Government Needs To Get Real
 ============================

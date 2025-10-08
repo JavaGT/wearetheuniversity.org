@@ -1,9 +1,12 @@
 ---
 slug: stopping-the-slide-ending-truancy
-title: "Stopping The Slide – Ending Truancy"
-date: 2023-08-14
-source-url: https://www.scoop.co.nz/stories/PA2308/S00080/stopping-the-slide-ending-truancy.htm
+title: Stopping The Slide – Ending Truancy
+date: 2023-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00080/stopping-the-slide-ending-truancy.htm
 author: act-new-zealand
+permalink: /archive/2023/08/14/stopping-the-slide-ending-truancy/index.html
+layout: layout.njk
 ---
 Stopping The Slide – Ending Truancy
 ===================================

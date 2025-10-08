@@ -1,9 +1,12 @@
 ---
 slug: government-must-clamp-down-on-dodgy-ptes
-title: "Government must clamp down on dodgy PTEs"
-date: 2016-05-03
-source-url: https://www.scoop.co.nz/stories/PA1605/S00046/government-must-clamp-down-on-dodgy-ptes.htm
+title: Government must clamp down on dodgy PTEs
+date: 2016-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00046/government-must-clamp-down-on-dodgy-ptes.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/03/government-must-clamp-down-on-dodgy-ptes/index.html
+layout: layout.njk
 ---
 Government must clamp down on dodgy PTEs
 ========================================

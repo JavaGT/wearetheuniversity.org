@@ -1,9 +1,12 @@
 ---
 slug: flash-hawaii-job-for-waikato-science-graduate
-title: "Flash Hawaii job for Waikato science graduate"
-date: 2014-01-22
-source-url: https://www.scoop.co.nz/stories/ED1401/S00025/flash-hawaii-job-for-waikato-science-graduate.htm
+title: Flash Hawaii job for Waikato science graduate
+date: 2014-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00025/flash-hawaii-job-for-waikato-science-graduate.htm
 author: university-of-waikato
+permalink: /archive/2014/01/22/flash-hawaii-job-for-waikato-science-graduate/index.html
+layout: layout.njk
 ---
 Flash Hawaii job for Waikato science graduate
 =============================================

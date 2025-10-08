@@ -1,9 +1,13 @@
 ---
 slug: wellington-council-finally-sees-the-light-on-student-fares
-title: "Wellington: Council finally sees the light on student fares"
-date: 2017-08-05
-source-url: https://www.scoop.co.nz/stories/AK1708/S00105/wellington-council-finally-sees-the-light-on-student-fares.htm
+title: 'Wellington: Council finally sees the light on student fares'
+date: 2017-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1708/S00105/wellington-council-finally-sees-the-light-on-student-fares.htm
 author: vuwsa
+permalink: >-
+  /archive/2017/08/05/wellington-council-finally-sees-the-light-on-student-fares/index.html
+layout: layout.njk
 ---
 Wellington: Council finally sees the light on student fares
 ===========================================================

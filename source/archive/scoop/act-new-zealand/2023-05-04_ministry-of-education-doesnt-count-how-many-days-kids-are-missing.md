@@ -1,9 +1,13 @@
 ---
 slug: ministry-of-education-doesnt-count-how-many-days-kids-are-missing
-title: "Ministry Of Education Doesn’t Count How Many Days Kids Are Missing"
-date: 2023-05-04
-source-url: https://www.scoop.co.nz/stories/PA2305/S00029/ministry-of-education-doesnt-count-how-many-days-kids-are-missing.htm
+title: Ministry Of Education Doesn’t Count How Many Days Kids Are Missing
+date: 2023-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00029/ministry-of-education-doesnt-count-how-many-days-kids-are-missing.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/05/04/ministry-of-education-doesnt-count-how-many-days-kids-are-missing/index.html
+layout: layout.njk
 ---
 Ministry Of Education Doesn’t Count How Many Days Kids Are Missing
 ==================================================================

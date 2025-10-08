@@ -1,9 +1,12 @@
 ---
 slug: northland-polytech-staff-one-day-is-not-enough
-title: "Northland Polytech Staff - One day is not enough"
-date: 2003-11-12
-source-url: https://www.scoop.co.nz/stories/ED0311/S00045/northland-polytech-staff-one-day-is-not-enough.htm
+title: Northland Polytech Staff - One day is not enough
+date: 2003-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00045/northland-polytech-staff-one-day-is-not-enough.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2003/11/12/northland-polytech-staff-one-day-is-not-enough/index.html
+layout: layout.njk
 ---
 Northland Polytech Staff - One day is not enough
 ================================================

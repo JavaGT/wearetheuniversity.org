@@ -1,9 +1,12 @@
 ---
 slug: new-tool-sharpens-treatment-for-mäori
-title: "New tool sharpens treatment for Mäori"
-date: 2010-11-15
-source-url: https://www.scoop.co.nz/stories/GE1011/S00059/new-tool-sharpens-treatment-for-maori.htm
+title: New tool sharpens treatment for Mäori
+date: 2010-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1011/S00059/new-tool-sharpens-treatment-for-maori.htm
 author: massey-university
+permalink: /archive/2010/11/15/new-tool-sharpens-treatment-for-m/index.html
+layout: layout.njk
 ---
 New tool sharpens treatment for Mäori
 =====================================

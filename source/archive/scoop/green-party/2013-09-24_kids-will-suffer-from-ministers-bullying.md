@@ -1,9 +1,12 @@
 ---
 slug: kids-will-suffer-from-ministers-bullying
-title: "Kids will suffer from Minister’s bullying"
-date: 2013-09-24
-source-url: https://www.scoop.co.nz/stories/PA1309/S00419/kids-will-suffer-from-ministers-bullying.htm
+title: Kids will suffer from Minister’s bullying
+date: 2013-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00419/kids-will-suffer-from-ministers-bullying.htm
 author: green-party
+permalink: /archive/2013/09/24/kids-will-suffer-from-ministers-bullying/index.html
+layout: layout.njk
 ---
 Kids will suffer from Minister’s bullying
 =========================================

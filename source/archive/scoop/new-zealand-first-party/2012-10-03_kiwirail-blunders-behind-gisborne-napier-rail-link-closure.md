@@ -1,9 +1,13 @@
 ---
 slug: kiwirail-blunders-behind-gisborne-napier-rail-link-closure
-title: "Kiwirail Blunders Behind Gisborne - Napier Rail Link Closure"
-date: 2012-10-03
-source-url: https://www.scoop.co.nz/stories/PA1210/S00048/kiwirail-blunders-behind-gisborne-napier-rail-link-closure.htm
+title: Kiwirail Blunders Behind Gisborne - Napier Rail Link Closure
+date: 2012-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00048/kiwirail-blunders-behind-gisborne-napier-rail-link-closure.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/10/03/kiwirail-blunders-behind-gisborne-napier-rail-link-closure/index.html
+layout: layout.njk
 ---
 Kiwirail Blunders Behind Gisborne - Napier Rail Link Closure
 ============================================================

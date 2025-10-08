@@ -1,8 +1,11 @@
 ---
 slug: chance-encounters-lead-to-mobility-dogs-study
-title: "Chance encounters lead to Mobility Dogs study"
-date: 2015-10-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/chance-encounters-lead-to-mobility-dogs-study.html
+title: Chance encounters lead to Mobility Dogs study
+date: 2015-10-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/chance-encounters-lead-to-mobility-dogs-study.html
+permalink: /archive/2015/10/07/chance-encounters-lead-to-mobility-dogs-study/index.html
+layout: layout.njk
 ---
 Chance encounters lead to Mobility Dogs study
 =============================================

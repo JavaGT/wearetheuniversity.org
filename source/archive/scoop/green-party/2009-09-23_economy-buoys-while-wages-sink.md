@@ -1,9 +1,12 @@
 ---
 slug: economy-buoys-while-wages-sink
-title: "Economy buoys while wages sink"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/PA0909/S00318/economy-buoys-while-wages-sink.htm
+title: Economy buoys while wages sink
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00318/economy-buoys-while-wages-sink.htm
 author: green-party
+permalink: /archive/2009/09/23/economy-buoys-while-wages-sink/index.html
+layout: layout.njk
 ---
 Economy buoys while wages sink
 ==============================

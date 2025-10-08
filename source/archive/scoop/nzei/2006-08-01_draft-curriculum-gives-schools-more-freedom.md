@@ -1,9 +1,12 @@
 ---
 slug: draft-curriculum-gives-schools-more-freedom
-title: "Draft Curriculum Gives Schools More Freedom"
-date: 2006-08-01
-source-url: https://www.scoop.co.nz/stories/ED0608/S00001/draft-curriculum-gives-schools-more-freedom.htm
+title: Draft Curriculum Gives Schools More Freedom
+date: 2006-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00001/draft-curriculum-gives-schools-more-freedom.htm
 author: nzei
+permalink: /archive/2006/08/01/draft-curriculum-gives-schools-more-freedom/index.html
+layout: layout.njk
 ---
 Draft Curriculum Gives Schools More Freedom
 ===========================================

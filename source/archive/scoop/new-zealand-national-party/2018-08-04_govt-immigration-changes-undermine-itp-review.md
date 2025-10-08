@@ -1,9 +1,12 @@
 ---
 slug: govt-immigration-changes-undermine-itp-review
-title: "Govt immigration changes undermine ITP review"
-date: 2018-08-04
-source-url: https://www.scoop.co.nz/stories/PA1808/S00049/govt-immigration-changes-undermine-itp-review.htm
+title: Govt immigration changes undermine ITP review
+date: 2018-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00049/govt-immigration-changes-undermine-itp-review.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/04/govt-immigration-changes-undermine-itp-review/index.html
+layout: layout.njk
 ---
 Govt immigration changes undermine ITP review
 =============================================

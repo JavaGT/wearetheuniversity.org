@@ -1,8 +1,12 @@
 ---
 slug: poi-study-points-to-health-benefits-for-over-60s
-title: "Poi study points to health benefits for over 60s"
-date: 2017-07-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/poi-study-points-to-health-benefits-for-over-60s-.html
+title: Poi study points to health benefits for over 60s
+date: 2017-07-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/poi-study-points-to-health-benefits-for-over-60s-.html
+permalink: >-
+  /archive/2017/07/24/poi-study-points-to-health-benefits-for-over-60s/index.html
+layout: layout.njk
 ---
 Poi study points to health benefits for over 60s
 ================================================

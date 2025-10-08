@@ -1,9 +1,12 @@
 ---
 slug: surgeons-letter-a-damning-indictment
-title: "Surgeons’ letter a damning indictment"
-date: 2016-11-24
-source-url: https://www.scoop.co.nz/stories/PA1611/S00465/surgeons-letter-a-damning-indictment.htm
+title: Surgeons’ letter a damning indictment
+date: 2016-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00465/surgeons-letter-a-damning-indictment.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/24/surgeons-letter-a-damning-indictment/index.html
+layout: layout.njk
 ---
 Surgeons’ letter a damning indictment
 =====================================

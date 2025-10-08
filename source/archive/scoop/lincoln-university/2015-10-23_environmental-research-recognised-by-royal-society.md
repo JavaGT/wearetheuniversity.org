@@ -1,9 +1,13 @@
 ---
 slug: environmental-research-recognised-by-royal-society
-title: "Environmental research recognised by Royal Society"
-date: 2015-10-23
-source-url: https://www.scoop.co.nz/stories/SC1510/S00068/environmental-research-recognised-by-royal-society.htm
+title: Environmental research recognised by Royal Society
+date: 2015-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00068/environmental-research-recognised-by-royal-society.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/10/23/environmental-research-recognised-by-royal-society/index.html
+layout: layout.njk
 ---
 Environmental research recognised by Royal Society
 ==================================================

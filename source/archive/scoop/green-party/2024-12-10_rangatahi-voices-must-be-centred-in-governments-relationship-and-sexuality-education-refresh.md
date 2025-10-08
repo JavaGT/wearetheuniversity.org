@@ -1,9 +1,16 @@
 ---
-slug: rangatahi-voices-must-be-centred-in-governments-relationship-and-sexuality-education-refresh
-title: "Rangatahi Voices Must Be Centred In Government’s Relationship And Sexuality Education Refresh"
-date: 2024-12-10
-source-url: https://www.scoop.co.nz/stories/PA2412/S00088/rangatahi-voices-must-be-centred-in-governments-relationship-and-sexuality-education-refresh.htm
+slug: >-
+  rangatahi-voices-must-be-centred-in-governments-relationship-and-sexuality-education-refresh
+title: >-
+  Rangatahi Voices Must Be Centred In Government’s Relationship And Sexuality
+  Education Refresh
+date: 2024-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00088/rangatahi-voices-must-be-centred-in-governments-relationship-and-sexuality-education-refresh.htm
 author: green-party
+permalink: >-
+  /archive/2024/12/10/rangatahi-voices-must-be-centred-in-governments-relationship-and-sexuality-education-refresh/index.html
+layout: layout.njk
 ---
 Rangatahi Voices Must Be Centred In Government’s Relationship And Sexuality Education Refresh
 =============================================================================================

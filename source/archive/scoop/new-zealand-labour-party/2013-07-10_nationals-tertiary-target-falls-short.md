@@ -1,9 +1,12 @@
 ---
 slug: nationals-tertiary-target-falls-short
-title: "National’s tertiary target falls short"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/PA1307/S00181/nationals-tertiary-target-falls-short.htm
+title: National’s tertiary target falls short
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00181/nationals-tertiary-target-falls-short.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/10/nationals-tertiary-target-falls-short/index.html
+layout: layout.njk
 ---
 National’s tertiary target falls short
 ======================================

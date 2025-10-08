@@ -1,9 +1,13 @@
 ---
 slug: more-help-needed-to-protect-students-from-coronavirus
-title: "More help needed to protect students from coronavirus"
-date: 2020-01-30
-source-url: https://www.scoop.co.nz/stories/PA2001/S00130/more-help-needed-to-protect-students-from-coronavirus.htm
+title: More help needed to protect students from coronavirus
+date: 2020-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00130/more-help-needed-to-protect-students-from-coronavirus.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/01/30/more-help-needed-to-protect-students-from-coronavirus/index.html
+layout: layout.njk
 ---
 More help needed to protect students from coronavirus
 =====================================================

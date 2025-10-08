@@ -1,9 +1,12 @@
 ---
 slug: church-support-crucial-for-korean-migrants
-title: "Church support crucial for Korean migrants"
-date: 2010-08-09
-source-url: https://www.scoop.co.nz/stories/CU1008/S00094/church-support-crucial-for-korean-migrants.htm
+title: Church support crucial for Korean migrants
+date: 2010-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1008/S00094/church-support-crucial-for-korean-migrants.htm
 author: massey-university
+permalink: /archive/2010/08/09/church-support-crucial-for-korean-migrants/index.html
+layout: layout.njk
 ---
 Church support crucial for Korean migrants
 ==========================================

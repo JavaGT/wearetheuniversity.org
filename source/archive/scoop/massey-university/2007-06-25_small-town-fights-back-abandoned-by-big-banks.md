@@ -1,9 +1,12 @@
 ---
 slug: small-town-fights-back-abandoned-by-big-banks
-title: "Small town fights back, abandoned by big banks"
-date: 2007-06-25
-source-url: https://www.scoop.co.nz/stories/ED0706/S00096/small-town-fights-back-abandoned-by-big-banks.htm
+title: Small town fights back, abandoned by big banks
+date: 2007-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00096/small-town-fights-back-abandoned-by-big-banks.htm
 author: massey-university
+permalink: /archive/2007/06/25/small-town-fights-back-abandoned-by-big-banks/index.html
+layout: layout.njk
 ---
 Small town fights back, abandoned by big banks
 ==============================================

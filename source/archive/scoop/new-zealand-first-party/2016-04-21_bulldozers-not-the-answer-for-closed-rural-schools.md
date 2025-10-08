@@ -1,9 +1,13 @@
 ---
 slug: bulldozers-not-the-answer-for-closed-rural-schools
-title: "Bulldozers Not the Answer for Closed Rural Schools"
-date: 2016-04-21
-source-url: https://www.scoop.co.nz/stories/PA1604/S00363/bulldozers-not-the-answer-for-closed-rural-schools.htm
+title: Bulldozers Not the Answer for Closed Rural Schools
+date: 2016-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00363/bulldozers-not-the-answer-for-closed-rural-schools.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/04/21/bulldozers-not-the-answer-for-closed-rural-schools/index.html
+layout: layout.njk
 ---
 Bulldozers Not the Answer for Closed Rural Schools
 ==================================================

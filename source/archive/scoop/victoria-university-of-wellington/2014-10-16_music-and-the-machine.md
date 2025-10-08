@@ -1,9 +1,11 @@
 ---
 slug: music-and-the-machine
-title: "Music And the Machine"
-date: 2014-10-16
+title: Music And the Machine
+date: 2014-10-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1410/S00098/music-and-the-machine.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/16/music-and-the-machine/index.html
+layout: layout.njk
 ---
 Music And the Machine
 =====================

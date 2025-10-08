@@ -1,9 +1,13 @@
 ---
 slug: labour-losing-control-over-public-sector-spending
-title: "Labour losing control over public sector spending"
-date: 2006-04-21
-source-url: https://www.scoop.co.nz/stories/PA0604/S00328/labour-losing-control-over-public-sector-spending.htm
+title: Labour losing control over public sector spending
+date: 2006-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00328/labour-losing-control-over-public-sector-spending.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/04/21/labour-losing-control-over-public-sector-spending/index.html
+layout: layout.njk
 ---
 Labour losing control over public sector spending
 =================================================

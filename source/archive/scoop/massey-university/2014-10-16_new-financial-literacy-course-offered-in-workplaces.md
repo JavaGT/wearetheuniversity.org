@@ -1,9 +1,13 @@
 ---
 slug: new-financial-literacy-course-offered-in-workplaces
-title: "New financial literacy course offered in workplaces"
-date: 2014-10-16
-source-url: https://www.scoop.co.nz/stories/BU1410/S00553/new-financial-literacy-course-offered-in-workplaces.htm
+title: New financial literacy course offered in workplaces
+date: 2014-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1410/S00553/new-financial-literacy-course-offered-in-workplaces.htm
 author: massey-university
+permalink: >-
+  /archive/2014/10/16/new-financial-literacy-course-offered-in-workplaces/index.html
+layout: layout.njk
 ---
 New financial literacy course offered in workplaces
 ===================================================

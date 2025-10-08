@@ -1,9 +1,12 @@
 ---
 slug: outcry-at-victoria-lesson-to-other-institutions
-title: "Outcry at Victoria lesson to other institutions"
-date: 2005-10-06
-source-url: https://www.scoop.co.nz/stories/ED0510/S00016/outcry-at-victoria-lesson-to-other-institutions.htm
+title: Outcry at Victoria lesson to other institutions
+date: 2005-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00016/outcry-at-victoria-lesson-to-other-institutions.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/10/06/outcry-at-victoria-lesson-to-other-institutions/index.html
+layout: layout.njk
 ---
 Outcry at Victoria lesson to other institutions
 ===============================================

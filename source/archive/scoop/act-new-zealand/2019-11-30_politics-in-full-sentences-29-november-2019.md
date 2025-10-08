@@ -1,9 +1,12 @@
 ---
 slug: politics-in-full-sentences-29-november-2019
-title: "Politics in Full Sentences, 29 November 2019"
-date: 2019-11-30
-source-url: https://www.scoop.co.nz/stories/PO1911/S00403/politics-in-full-sentences-29-november-2019.htm
+title: Politics in Full Sentences, 29 November 2019
+date: 2019-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1911/S00403/politics-in-full-sentences-29-november-2019.htm
 author: act-new-zealand
+permalink: /archive/2019/11/30/politics-in-full-sentences-29-november-2019/index.html
+layout: layout.njk
 ---
 Politics in Full Sentences, 29 November 2019
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: courts-condemn-give-it-a-go-culture
-title: "Courts condemn 'give-it-a-go' culture"
-date: 2003-08-29
-source-url: https://www.scoop.co.nz/stories/PA0308/S00579/courts-condemn-give-it-a-go-culture.htm
+title: Courts condemn 'give-it-a-go' culture
+date: 2003-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00579/courts-condemn-give-it-a-go-culture.htm
 author: green-party
+permalink: /archive/2003/08/29/courts-condemn-give-it-a-go-culture/index.html
+layout: layout.njk
 ---
 Courts condemn 'give-it-a-go' culture
 =====================================

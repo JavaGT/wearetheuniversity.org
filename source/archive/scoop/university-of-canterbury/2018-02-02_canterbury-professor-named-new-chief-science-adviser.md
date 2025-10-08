@@ -1,9 +1,13 @@
 ---
 slug: canterbury-professor-named-new-chief-science-adviser
-title: "Canterbury Professor named new Chief Science Adviser"
-date: 2018-02-02
-source-url: https://www.scoop.co.nz/stories/SC1802/S00007/canterbury-professor-named-new-chief-science-adviser.htm
+title: Canterbury Professor named new Chief Science Adviser
+date: 2018-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00007/canterbury-professor-named-new-chief-science-adviser.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/02/02/canterbury-professor-named-new-chief-science-adviser/index.html
+layout: layout.njk
 ---
 Canterbury Professor named new Chief Science Adviser
 ====================================================

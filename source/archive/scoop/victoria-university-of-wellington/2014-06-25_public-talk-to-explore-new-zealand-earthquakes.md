@@ -1,9 +1,12 @@
 ---
 slug: public-talk-to-explore-new-zealand-earthquakes
-title: "Public talk to explore New Zealand earthquakes"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/SC1406/S00065/public-talk-to-explore-new-zealand-earthquakes.htm
+title: Public talk to explore New Zealand earthquakes
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00065/public-talk-to-explore-new-zealand-earthquakes.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/25/public-talk-to-explore-new-zealand-earthquakes/index.html
+layout: layout.njk
 ---
 Public talk to explore New Zealand earthquakes
 ==============================================

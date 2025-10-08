@@ -1,9 +1,13 @@
 ---
 slug: national-makes-literacy-guarantee-for-young-readers
-title: "National Makes Literacy Guarantee For Young Readers"
-date: 2023-09-08
-source-url: https://www.scoop.co.nz/stories/PA2309/S00047/national-makes-literacy-guarantee-for-young-readers.htm
+title: National Makes Literacy Guarantee For Young Readers
+date: 2023-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00047/national-makes-literacy-guarantee-for-young-readers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/09/08/national-makes-literacy-guarantee-for-young-readers/index.html
+layout: layout.njk
 ---
 National Makes Literacy Guarantee For Young Readers
 ===================================================

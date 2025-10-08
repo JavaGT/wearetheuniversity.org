@@ -1,9 +1,13 @@
 ---
 slug: private-funding-of-aranui-school-may-mean-loss-to-community
-title: "Private funding of Aranui school may mean loss to community"
-date: 2013-06-11
-source-url: https://www.scoop.co.nz/stories/ED1306/S00062/private-funding-of-aranui-school-may-mean-loss-to-community.htm
+title: Private funding of Aranui school may mean loss to community
+date: 2013-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00062/private-funding-of-aranui-school-may-mean-loss-to-community.htm
 author: nzei
+permalink: >-
+  /archive/2013/06/11/private-funding-of-aranui-school-may-mean-loss-to-community/index.html
+layout: layout.njk
 ---
 Private funding of Aranui school may mean loss to community
 ===========================================================

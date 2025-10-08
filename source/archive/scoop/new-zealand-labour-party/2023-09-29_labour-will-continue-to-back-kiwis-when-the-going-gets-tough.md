@@ -1,9 +1,13 @@
 ---
 slug: labour-will-continue-to-back-kiwis-when-the-going-gets-tough
-title: "Labour Will Continue To Back Kiwis When The Going Gets Tough"
-date: 2023-09-29
-source-url: https://www.scoop.co.nz/stories/PA2309/S00159/labour-will-continue-to-back-kiwis-when-the-going-gets-tough.htm
+title: Labour Will Continue To Back Kiwis When The Going Gets Tough
+date: 2023-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00159/labour-will-continue-to-back-kiwis-when-the-going-gets-tough.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2023/09/29/labour-will-continue-to-back-kiwis-when-the-going-gets-tough/index.html
+layout: layout.njk
 ---
 Labour Will Continue To Back Kiwis When The Going Gets Tough
 ============================================================

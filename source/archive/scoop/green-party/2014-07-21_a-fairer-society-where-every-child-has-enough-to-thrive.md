@@ -1,9 +1,13 @@
 ---
 slug: a-fairer-society-where-every-child-has-enough-to-thrive
-title: "A fairer society where every child has enough to thrive"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/PA1407/S00364/a-fairer-society-where-every-child-has-enough-to-thrive.htm
+title: A fairer society where every child has enough to thrive
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00364/a-fairer-society-where-every-child-has-enough-to-thrive.htm
 author: green-party
+permalink: >-
+  /archive/2014/07/21/a-fairer-society-where-every-child-has-enough-to-thrive/index.html
+layout: layout.njk
 ---
 A fairer society where every child has enough to thrive
 =======================================================

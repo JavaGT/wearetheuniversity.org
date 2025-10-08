@@ -1,9 +1,12 @@
 ---
 slug: more-support-for-amending-immigration-test
-title: "More Support for Amending Immigration Test"
-date: 2002-12-17
-source-url: https://www.scoop.co.nz/stories/PA0212/S00428/more-support-for-amending-immigration-test.htm
+title: More Support for Amending Immigration Test
+date: 2002-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00428/more-support-for-amending-immigration-test.htm
 author: act-new-zealand
+permalink: /archive/2002/12/17/more-support-for-amending-immigration-test/index.html
+layout: layout.njk
 ---
 More Support for Amending Immigration Test
 ==========================================

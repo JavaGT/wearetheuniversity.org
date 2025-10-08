@@ -1,9 +1,12 @@
 ---
 slug: speech-litttle-state-of-the-nation
-title: "Speech: Litttle - State of the Nation"
-date: 2017-01-29
-source-url: https://www.scoop.co.nz/stories/PA1701/S00131/speech-litttle-state-of-the-nation.htm
+title: 'Speech: Litttle - State of the Nation'
+date: 2017-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00131/speech-litttle-state-of-the-nation.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/01/29/speech-litttle-state-of-the-nation/index.html
+layout: layout.njk
 ---
 Speech: Litttle - State of the Nation
 =====================================

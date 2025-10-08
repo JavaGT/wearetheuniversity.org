@@ -1,9 +1,12 @@
 ---
 slug: increasing-state-control-over-education
-title: "Increasing State Control Over Education"
-date: 2003-03-24
-source-url: https://www.scoop.co.nz/stories/PO0303/S00195/increasing-state-control-over-education.htm
+title: Increasing State Control Over Education
+date: 2003-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0303/S00195/increasing-state-control-over-education.htm
 author: maxim-institute
+permalink: /archive/2003/03/24/increasing-state-control-over-education/index.html
+layout: layout.njk
 ---
 Increasing State Control Over Education
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: maharey-reheats-another-announcement
-title: "Maharey reheats another announcement"
-date: 2007-02-16
-source-url: https://www.scoop.co.nz/stories/PA0702/S00320/maharey-reheats-another-announcement.htm
+title: Maharey reheats another announcement
+date: 2007-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00320/maharey-reheats-another-announcement.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/16/maharey-reheats-another-announcement/index.html
+layout: layout.njk
 ---
 Maharey reheats another announcement
 ====================================

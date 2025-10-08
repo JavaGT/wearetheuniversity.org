@@ -1,9 +1,11 @@
 ---
 slug: lifting-our-game-rodney-hide
-title: "Lifting Our Game - Rodney Hide"
-date: 2009-02-21
+title: Lifting Our Game - Rodney Hide
+date: 2009-02-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0902/S00322/lifting-our-game-rodney-hide.htm
 author: act-new-zealand
+permalink: /archive/2009/02/21/lifting-our-game-rodney-hide/index.html
+layout: layout.njk
 ---
 Lifting Our Game - Rodney Hide
 ==============================

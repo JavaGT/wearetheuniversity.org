@@ -1,9 +1,12 @@
 ---
 slug: students-check-out-uni-options-at-windermere
-title: "Students check out uni options at Windermere"
-date: 2010-06-11
-source-url: https://www.scoop.co.nz/stories/ED1006/S00039/students-check-out-uni-options-at-windermere.htm
+title: Students check out uni options at Windermere
+date: 2010-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00039/students-check-out-uni-options-at-windermere.htm
 author: university-of-waikato
+permalink: /archive/2010/06/11/students-check-out-uni-options-at-windermere/index.html
+layout: layout.njk
 ---
 Students check out uni options at Windermere
 ============================================

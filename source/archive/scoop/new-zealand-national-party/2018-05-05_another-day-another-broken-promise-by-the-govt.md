@@ -1,9 +1,12 @@
 ---
 slug: another-day-another-broken-promise-by-the-govt
-title: "Another day, another broken promise by the Govt"
-date: 2018-05-05
-source-url: https://www.scoop.co.nz/stories/PA1805/S00064/another-day-another-broken-promise-by-the-govt.htm
+title: Another day, another broken promise by the Govt
+date: 2018-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00064/another-day-another-broken-promise-by-the-govt.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/05/another-day-another-broken-promise-by-the-govt/index.html
+layout: layout.njk
 ---
 Another day, another broken promise by the Govt
 ===============================================

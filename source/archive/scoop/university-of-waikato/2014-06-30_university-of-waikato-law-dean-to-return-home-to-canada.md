@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-law-dean-to-return-home-to-canada
-title: "University of Waikato Law Dean to return home to Canada"
-date: 2014-06-30
-source-url: https://www.scoop.co.nz/stories/ED1406/S00158/university-of-waikato-law-dean-to-return-home-to-canada.htm
+title: University of Waikato Law Dean to return home to Canada
+date: 2014-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00158/university-of-waikato-law-dean-to-return-home-to-canada.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/30/university-of-waikato-law-dean-to-return-home-to-canada/index.html
+layout: layout.njk
 ---
 University of Waikato Law Dean to return home to Canada
 =======================================================

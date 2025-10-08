@@ -1,9 +1,12 @@
 ---
 slug: te-maiea-o-te-rangi;-the-sun-rises-on-a-new-opportunity-for-te-reo
-title: "Te Maiea O Te Rangi; The Sun Rises On A New Opportunity For Te Reo"
-date: 2022-11-10
-source-url: https://www.scoop.co.nz/stories/ED2211/S00030/te-maiea-o-te-rangi-the-sun-rises-on-a-new-opportunity-for-te-reo.htm
+title: Te Maiea O Te Rangi; The Sun Rises On A New Opportunity For Te Reo
+date: 2022-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2211/S00030/te-maiea-o-te-rangi-the-sun-rises-on-a-new-opportunity-for-te-reo.htm
 author: university-of-waikato
+permalink: /archive/2022/11/10/te-maiea-o-te-rangi/index.html
+layout: layout.njk
 ---
 Te Maiea O Te Rangi; The Sun Rises On A New Opportunity For Te Reo
 ==================================================================

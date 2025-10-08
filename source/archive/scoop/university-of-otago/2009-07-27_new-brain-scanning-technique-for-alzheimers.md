@@ -1,9 +1,12 @@
 ---
 slug: new-brain-scanning-technique-for-alzheimers
-title: "New brain scanning technique for Alzheimer's"
-date: 2009-07-27
-source-url: https://www.scoop.co.nz/stories/SC0907/S00046/new-brain-scanning-technique-for-alzheimers.htm
+title: New brain scanning technique for Alzheimer's
+date: 2009-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0907/S00046/new-brain-scanning-technique-for-alzheimers.htm
 author: university-of-otago
+permalink: /archive/2009/07/27/new-brain-scanning-technique-for-alzheimers/index.html
+layout: layout.njk
 ---
 New brain scanning technique for Alzheimer's
 ============================================

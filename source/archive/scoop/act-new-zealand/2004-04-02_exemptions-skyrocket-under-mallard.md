@@ -1,9 +1,12 @@
 ---
 slug: exemptions-skyrocket-under-mallard
-title: "Exemptions Skyrocket Under Mallard"
-date: 2004-04-02
-source-url: https://www.scoop.co.nz/stories/PA0404/S00056/exemptions-skyrocket-under-mallard.htm
+title: Exemptions Skyrocket Under Mallard
+date: 2004-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00056/exemptions-skyrocket-under-mallard.htm
 author: act-new-zealand
+permalink: /archive/2004/04/02/exemptions-skyrocket-under-mallard/index.html
+layout: layout.njk
 ---
 Exemptions Skyrocket Under Mallard
 ==================================

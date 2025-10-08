@@ -1,9 +1,12 @@
 ---
 slug: promises-on-housing-looking-empty
-title: "Promises on housing looking empty"
-date: 2008-02-15
-source-url: https://www.scoop.co.nz/stories/PA0802/S00235/promises-on-housing-looking-empty.htm
+title: Promises on housing looking empty
+date: 2008-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00235/promises-on-housing-looking-empty.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/15/promises-on-housing-looking-empty/index.html
+layout: layout.njk
 ---
 Promises on housing looking empty
 =================================

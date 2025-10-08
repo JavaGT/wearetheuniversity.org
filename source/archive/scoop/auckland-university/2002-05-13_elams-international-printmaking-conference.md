@@ -1,9 +1,12 @@
 ---
 slug: elams-international-printmaking-conference
-title: "Elam’s International Printmaking Conference"
-date: 2002-05-13
-source-url: https://www.scoop.co.nz/stories/CU0205/S00016/elams-international-printmaking-conference.htm
+title: Elam’s International Printmaking Conference
+date: 2002-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0205/S00016/elams-international-printmaking-conference.htm
 author: auckland-university
+permalink: /archive/2002/05/13/elams-international-printmaking-conference/index.html
+layout: layout.njk
 ---
 Elam’s International Printmaking Conference
 ===========================================

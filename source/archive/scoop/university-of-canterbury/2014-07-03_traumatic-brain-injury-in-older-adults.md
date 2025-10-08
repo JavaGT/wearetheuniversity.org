@@ -1,9 +1,12 @@
 ---
 slug: traumatic-brain-injury-in-older-adults
-title: "Traumatic brain injury in older adults"
-date: 2014-07-03
-source-url: https://www.scoop.co.nz/stories/SC1407/S00009/traumatic-brain-injury-in-older-adults.htm
+title: Traumatic brain injury in older adults
+date: 2014-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00009/traumatic-brain-injury-in-older-adults.htm
 author: university-of-canterbury
+permalink: /archive/2014/07/03/traumatic-brain-injury-in-older-adults/index.html
+layout: layout.njk
 ---
 Traumatic brain injury in older adults
 ======================================

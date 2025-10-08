@@ -1,9 +1,12 @@
 ---
 slug: green-party-co-leader-chlöe-swarbricks-second-agm-speech
-title: "Green Party Co-Leader Chlöe Swarbrick's Second AGM Speech"
-date: 2024-07-29
-source-url: https://www.scoop.co.nz/stories/PO2407/S00172/green-party-co-leader-chloe-swarbricks-second-agm-speech.htm
+title: Green Party Co-Leader Chlöe Swarbrick's Second AGM Speech
+date: 2024-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2407/S00172/green-party-co-leader-chloe-swarbricks-second-agm-speech.htm
 author: green-party
+permalink: /archive/2024/07/29/green-party-co-leader-chl/index.html
+layout: layout.njk
 ---
 Green Party Co-Leader Chlöe Swarbrick's Second AGM Speech
 =========================================================

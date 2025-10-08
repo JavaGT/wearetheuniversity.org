@@ -1,9 +1,13 @@
 ---
 slug: national-launches-campaign-to-retain-bulk-funding
-title: "National launches campaign to retain bulk funding"
-date: 2000-05-04
-source-url: https://www.scoop.co.nz/stories/PA0005/S00113/national-launches-campaign-to-retain-bulk-funding.htm
+title: National launches campaign to retain bulk funding
+date: 2000-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00113/national-launches-campaign-to-retain-bulk-funding.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/05/04/national-launches-campaign-to-retain-bulk-funding/index.html
+layout: layout.njk
 ---
 National launches campaign to retain bulk funding
 =================================================

@@ -1,9 +1,11 @@
 ---
 slug: arts-@-massey-newsletter-6-3-12
-title: "Arts @ Massey Newsletter 6/3/12"
-date: 2012-03-06
+title: Arts @ Massey Newsletter 6/3/12
+date: 2012-03-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1203/S00022/arts-massey-newsletter-6312.htm
 author: massey-university
+permalink: /archive/2012/03/06/arts-/index.html
+layout: layout.njk
 ---
 Arts @ Massey Newsletter 6/3/12
 ===============================

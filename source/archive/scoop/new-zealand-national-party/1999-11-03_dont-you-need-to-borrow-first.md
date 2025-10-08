@@ -1,9 +1,12 @@
 ---
 slug: dont-you-need-to-borrow-first
-title: "Don't You Need to Borrow First?"
-date: 1999-11-03
-source-url: https://www.scoop.co.nz/stories/PO9911/S00016/dont-you-need-to-borrow-first.htm
+title: Don't You Need to Borrow First?
+date: 1999-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00016/dont-you-need-to-borrow-first.htm
 author: new-zealand-national-party
+permalink: /archive/1999/11/03/dont-you-need-to-borrow-first/index.html
+layout: layout.njk
 ---
 Don't You Need to Borrow First?
 ===============================

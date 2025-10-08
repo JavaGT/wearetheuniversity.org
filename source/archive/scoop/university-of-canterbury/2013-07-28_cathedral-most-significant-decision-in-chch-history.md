@@ -1,9 +1,13 @@
 ---
 slug: cathedral-most-significant-decision-in-chch-history
-title: "Cathedral most significant decision in Chch history"
-date: 2013-07-28
-source-url: https://www.scoop.co.nz/stories/AK1307/S00720/cathedral-most-significant-decision-in-chch-history.htm
+title: Cathedral most significant decision in Chch history
+date: 2013-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00720/cathedral-most-significant-decision-in-chch-history.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/28/cathedral-most-significant-decision-in-chch-history/index.html
+layout: layout.njk
 ---
 Cathedral most significant decision in Chch history
 ===================================================

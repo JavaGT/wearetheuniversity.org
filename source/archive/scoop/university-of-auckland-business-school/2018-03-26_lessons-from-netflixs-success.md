@@ -1,9 +1,12 @@
 ---
 slug: lessons-from-netflixs-success
-title: "Lessons from Netflix’s success"
-date: 2018-03-26
-source-url: https://www.scoop.co.nz/stories/BU1803/S00756/lessons-from-netflixs-success.htm
+title: Lessons from Netflix’s success
+date: 2018-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1803/S00756/lessons-from-netflixs-success.htm
 author: university-of-auckland-business-school
+permalink: /archive/2018/03/26/lessons-from-netflixs-success/index.html
+layout: layout.njk
 ---
 Lessons from Netflix’s success
 ==============================

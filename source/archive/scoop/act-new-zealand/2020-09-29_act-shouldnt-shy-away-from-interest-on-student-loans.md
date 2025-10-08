@@ -1,9 +1,13 @@
 ---
 slug: act-shouldnt-shy-away-from-interest-on-student-loans
-title: "ACT Shouldn’t Shy Away From Interest On Student Loans"
-date: 2020-09-29
-source-url: https://www.scoop.co.nz/stories/PA2009/S00224/act-shouldnt-shy-away-from-interest-on-student-loans.htm
+title: ACT Shouldn’t Shy Away From Interest On Student Loans
+date: 2020-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00224/act-shouldnt-shy-away-from-interest-on-student-loans.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/09/29/act-shouldnt-shy-away-from-interest-on-student-loans/index.html
+layout: layout.njk
 ---
 ACT Shouldn’t Shy Away From Interest On Student Loans
 =====================================================

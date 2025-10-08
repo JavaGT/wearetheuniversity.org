@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-to-pass-co-leadership-torch-in-june
-title: "Fitzsimons to Pass Co-leadership Torch in June"
-date: 2009-02-23
-source-url: https://www.scoop.co.nz/stories/PA0902/S00335/fitzsimons-to-pass-co-leadership-torch-in-june.htm
+title: Fitzsimons to Pass Co-leadership Torch in June
+date: 2009-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00335/fitzsimons-to-pass-co-leadership-torch-in-june.htm
 author: green-party
+permalink: /archive/2009/02/23/fitzsimons-to-pass-co-leadership-torch-in-june/index.html
+layout: layout.njk
 ---
 Fitzsimons to Pass Co-leadership Torch in June
 ==============================================

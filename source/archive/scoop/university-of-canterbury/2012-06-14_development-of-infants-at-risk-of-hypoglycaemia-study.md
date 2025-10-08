@@ -1,9 +1,13 @@
 ---
 slug: development-of-infants-at-risk-of-hypoglycaemia-study
-title: "Development of infants at risk of hypoglycaemia - study"
-date: 2012-06-14
-source-url: https://www.scoop.co.nz/stories/GE1206/S00055/development-of-infants-at-risk-of-hypoglycaemia-study.htm
+title: Development of infants at risk of hypoglycaemia - study
+date: 2012-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1206/S00055/development-of-infants-at-risk-of-hypoglycaemia-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/06/14/development-of-infants-at-risk-of-hypoglycaemia-study/index.html
+layout: layout.njk
 ---
 Development of infants at risk of hypoglycaemia - study
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: government-set-to-retain-colleges-of-education
-title: "Government Set To Retain Colleges Of Education"
-date: 2001-01-23
-source-url: https://www.scoop.co.nz/stories/ED0101/S00010/government-set-to-retain-colleges-of-education.htm
+title: Government Set To Retain Colleges Of Education
+date: 2001-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0101/S00010/government-set-to-retain-colleges-of-education.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/01/23/government-set-to-retain-colleges-of-education/index.html
+layout: layout.njk
 ---
 Government Set To Retain Colleges Of Education
 ==============================================

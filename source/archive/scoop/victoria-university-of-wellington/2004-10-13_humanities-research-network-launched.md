@@ -1,9 +1,12 @@
 ---
 slug: humanities-research-network-launched
-title: "Humanities Research Network launched"
-date: 2004-10-13
-source-url: https://www.scoop.co.nz/stories/ED0410/S00050/humanities-research-network-launched.htm
+title: Humanities Research Network launched
+date: 2004-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00050/humanities-research-network-launched.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/10/13/humanities-research-network-launched/index.html
+layout: layout.njk
 ---
 Humanities Research Network launched
 ====================================

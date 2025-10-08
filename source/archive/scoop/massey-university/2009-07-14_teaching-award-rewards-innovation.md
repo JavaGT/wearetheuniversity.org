@@ -1,9 +1,12 @@
 ---
 slug: teaching-award-rewards-innovation
-title: "Teaching award rewards innovation"
-date: 2009-07-14
-source-url: https://www.scoop.co.nz/stories/ED0907/S00059/teaching-award-rewards-innovation.htm
+title: Teaching award rewards innovation
+date: 2009-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00059/teaching-award-rewards-innovation.htm
 author: massey-university
+permalink: /archive/2009/07/14/teaching-award-rewards-innovation/index.html
+layout: layout.njk
 ---
 Teaching award rewards innovation
 =================================

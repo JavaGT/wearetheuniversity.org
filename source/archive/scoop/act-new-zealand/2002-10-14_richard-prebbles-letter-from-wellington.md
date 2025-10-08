@@ -1,9 +1,12 @@
 ---
 slug: richard-prebbles-letter-from-wellington
-title: "Richard Prebble's Letter From Wellington"
-date: 2002-10-14
-source-url: https://www.scoop.co.nz/stories/PA0210/S00285/richard-prebbles-letter-from-wellington.htm
+title: Richard Prebble's Letter From Wellington
+date: 2002-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00285/richard-prebbles-letter-from-wellington.htm
 author: act-new-zealand
+permalink: /archive/2002/10/14/richard-prebbles-letter-from-wellington/index.html
+layout: layout.njk
 ---
 Richard Prebble's Letter From Wellington
 ========================================

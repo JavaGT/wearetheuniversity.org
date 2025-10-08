@@ -1,9 +1,13 @@
 ---
 slug: mp-calls-on-hunters-to-positively-identify-targets
-title: "MP Calls on Hunters to Positively Identify Targets"
-date: 2010-10-26
-source-url: https://www.scoop.co.nz/stories/PA1010/S00417/mp-calls-on-hunters-to-positively-identify-targets.htm
+title: MP Calls on Hunters to Positively Identify Targets
+date: 2010-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00417/mp-calls-on-hunters-to-positively-identify-targets.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2010/10/26/mp-calls-on-hunters-to-positively-identify-targets/index.html
+layout: layout.njk
 ---
 MP Calls on Hunters to Positively Identify Targets
 ==================================================

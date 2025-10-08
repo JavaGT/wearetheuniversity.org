@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-for-contractors-passes-2nd-reading
-title: "Minimum Wage for Contractors passes 2nd reading"
-date: 2008-05-22
-source-url: https://www.scoop.co.nz/stories/PA0805/S00392/minimum-wage-for-contractors-passes-2nd-reading.htm
+title: Minimum Wage for Contractors passes 2nd reading
+date: 2008-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00392/minimum-wage-for-contractors-passes-2nd-reading.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/05/22/minimum-wage-for-contractors-passes-2nd-reading/index.html
+layout: layout.njk
 ---
 Minimum Wage for Contractors passes 2nd reading
 ===============================================

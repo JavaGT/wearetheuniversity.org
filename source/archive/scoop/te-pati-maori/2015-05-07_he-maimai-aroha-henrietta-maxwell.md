@@ -1,9 +1,12 @@
 ---
 slug: he-maimai-aroha-henrietta-maxwell
-title: "He maimai aroha – Henrietta Maxwell"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/PA1505/S00101/he-maimai-aroha-henrietta-maxwell.htm
+title: He maimai aroha – Henrietta Maxwell
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00101/he-maimai-aroha-henrietta-maxwell.htm
 author: te-pati-maori
+permalink: /archive/2015/05/07/he-maimai-aroha-henrietta-maxwell/index.html
+layout: layout.njk
 ---
 He maimai aroha – Henrietta Maxwell
 ===================================

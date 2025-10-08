@@ -1,9 +1,12 @@
 ---
 slug: how-ecopreneurs-are-driving-sustainability
-title: "How ‘ecopreneurs’ are driving sustainability"
-date: 2011-03-29
-source-url: https://www.scoop.co.nz/stories/BU1103/S00879/how-ecopreneurs-are-driving-sustainability.htm
+title: How ‘ecopreneurs’ are driving sustainability
+date: 2011-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1103/S00879/how-ecopreneurs-are-driving-sustainability.htm
 author: university-of-waikato
+permalink: /archive/2011/03/29/how-ecopreneurs-are-driving-sustainability/index.html
+layout: layout.njk
 ---
 How ‘ecopreneurs’ are driving sustainability
 ============================================

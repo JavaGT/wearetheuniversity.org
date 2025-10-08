@@ -1,9 +1,12 @@
 ---
 slug: noise-also-a-danger-for-children-in-tunnels
-title: "Noise also a danger for children in tunnels"
-date: 2006-06-02
-source-url: https://www.scoop.co.nz/stories/GE0606/S00011/noise-also-a-danger-for-children-in-tunnels.htm
+title: Noise also a danger for children in tunnels
+date: 2006-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0606/S00011/noise-also-a-danger-for-children-in-tunnels.htm
 author: massey-university
+permalink: /archive/2006/06/02/noise-also-a-danger-for-children-in-tunnels/index.html
+layout: layout.njk
 ---
 Noise also a danger for children in tunnels
 ===========================================

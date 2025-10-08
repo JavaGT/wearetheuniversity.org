@@ -1,9 +1,12 @@
 ---
 slug: govt-policy-out-of-step-with-students-and-party
-title: "Govt. policy out of step with students, and party"
-date: 2000-11-20
-source-url: https://www.scoop.co.nz/stories/ED0011/S00026/govt-policy-out-of-step-with-students-and-party.htm
+title: Govt. policy out of step with students, and party
+date: 2000-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00026/govt-policy-out-of-step-with-students-and-party.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/11/20/govt-policy-out-of-step-with-students-and-party/index.html
+layout: layout.njk
 ---
 Govt. policy out of step with students, and party
 =================================================

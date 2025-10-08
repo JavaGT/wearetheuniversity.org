@@ -1,9 +1,12 @@
 ---
 slug: tackling-a-decline-of-pharmaceutical-success
-title: "Tackling a decline of pharmaceutical success"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/BU1409/S00627/tackling-a-decline-of-pharmaceutical-success.htm
+title: Tackling a decline of pharmaceutical success
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1409/S00627/tackling-a-decline-of-pharmaceutical-success.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/17/tackling-a-decline-of-pharmaceutical-success/index.html
+layout: layout.njk
 ---
 Tackling a decline of pharmaceutical success
 ============================================

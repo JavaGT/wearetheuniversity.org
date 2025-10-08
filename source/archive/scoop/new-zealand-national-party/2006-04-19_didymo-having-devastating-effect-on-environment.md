@@ -1,9 +1,12 @@
 ---
 slug: didymo-having-devastating-effect-on-environment
-title: "Didymo having devastating effect on environment"
-date: 2006-04-19
-source-url: https://www.scoop.co.nz/stories/PA0604/S00301/didymo-having-devastating-effect-on-environment.htm
+title: Didymo having devastating effect on environment
+date: 2006-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00301/didymo-having-devastating-effect-on-environment.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/19/didymo-having-devastating-effect-on-environment/index.html
+layout: layout.njk
 ---
 Didymo having devastating effect on environment
 ===============================================

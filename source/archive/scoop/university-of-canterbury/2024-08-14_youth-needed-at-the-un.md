@@ -1,9 +1,11 @@
 ---
 slug: youth-needed-at-the-un
-title: "\"Youth Needed At The UN\""
-date: 2024-08-14
+title: '"Youth Needed At The UN"'
+date: 2024-08-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED2408/S00026/youth-needed-at-the-un.htm
 author: university-of-canterbury
+permalink: /archive/2024/08/14/youth-needed-at-the-un/index.html
+layout: layout.njk
 ---
 “Youth Needed At The UN”
 ========================
@@ -26,14 +28,7 @@ Chosen from 6000 applicants, he was the only Kiwi amongst the 500 youth delegate
 “I do feel as if people don't realise the potential of this because we're at the edge of the world. But we are not actually that removed, we have seats at important UN Councils which can bring actual change internationally and domestically.”
 
 New Zealand’s chair at ECOSOC extends to next year - one of only 54 UN member states to have a chair – and Bolstad doesn’t want us to miss out on this valuable opportunity. “Youth participants will benefit from the experience of attending and networking with other youth leaders. And New Zealand would benefit from setting a national agenda and priorities for the forum by discussing the issues most important to youth at a national level first.”
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> Having attended the National Model United Nations in Germany last year - as part of a Japanese team after a friend alerted him to the opportunity - Bolstad was well prepared for ECOSOC and made the most of his time at the UN. He attended the plenary discussions and side events, including one about organising youth delegations at the EU delegation, and soaked up the atmosphere of the UN.
+Having attended the National Model United Nations in Germany last year - as part of a Japanese team after a friend alerted him to the opportunity - Bolstad was well prepared for ECOSOC and made the most of his time at the UN. He attended the plenary discussions and side events, including one about organising youth delegations at the EU delegation, and soaked up the atmosphere of the UN.
 
 “Just across the hall, there were discussions at the Security Council about important global conflicts, and I was able to talk to some of those delegates as well.”
 

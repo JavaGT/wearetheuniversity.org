@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-named-the-uk-new-zealander-of-the-year
-title: "Canterbury student named the UK New Zealander of the year"
-date: 2015-02-09
-source-url: https://www.scoop.co.nz/stories/CU1502/S00185/canterbury-student-named-the-uk-new-zealander-of-the-year.htm
+title: Canterbury student named the UK New Zealander of the year
+date: 2015-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00185/canterbury-student-named-the-uk-new-zealander-of-the-year.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/09/canterbury-student-named-the-uk-new-zealander-of-the-year/index.html
+layout: layout.njk
 ---
 Canterbury student named the UK New Zealander of the year
 =========================================================

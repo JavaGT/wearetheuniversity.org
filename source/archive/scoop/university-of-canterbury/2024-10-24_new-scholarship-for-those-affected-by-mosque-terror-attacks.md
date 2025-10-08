@@ -1,9 +1,13 @@
 ---
 slug: new-scholarship-for-those-affected-by-mosque-terror-attacks
-title: "New Scholarship For Those Affected By Mosque Terror Attacks"
-date: 2024-10-24
-source-url: https://www.scoop.co.nz/stories/ED2410/S00037/new-scholarship-for-those-affected-by-mosque-terror-attacks.htm
+title: New Scholarship For Those Affected By Mosque Terror Attacks
+date: 2024-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00037/new-scholarship-for-those-affected-by-mosque-terror-attacks.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/10/24/new-scholarship-for-those-affected-by-mosque-terror-attacks/index.html
+layout: layout.njk
 ---
 New Scholarship For Those Affected By Mosque Terror Attacks
 ===========================================================

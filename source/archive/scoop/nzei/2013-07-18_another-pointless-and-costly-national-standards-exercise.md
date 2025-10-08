@@ -1,9 +1,13 @@
 ---
 slug: another-pointless-and-costly-national-standards-exercise
-title: "Another pointless and costly National Standards exercise"
-date: 2013-07-18
-source-url: https://www.scoop.co.nz/stories/ED1307/S00110/another-pointless-and-costly-national-standards-exercise.htm
+title: Another pointless and costly National Standards exercise
+date: 2013-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00110/another-pointless-and-costly-national-standards-exercise.htm
 author: nzei
+permalink: >-
+  /archive/2013/07/18/another-pointless-and-costly-national-standards-exercise/index.html
+layout: layout.njk
 ---
 Another pointless and costly National Standards exercise
 ========================================================

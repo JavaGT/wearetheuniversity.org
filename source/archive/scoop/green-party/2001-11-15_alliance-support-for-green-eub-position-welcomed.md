@@ -1,9 +1,13 @@
 ---
 slug: alliance-support-for-green-eub-position-welcomed
-title: "Alliance support for Green EUB position welcomed"
-date: 2001-11-15
-source-url: https://www.scoop.co.nz/stories/PA0111/S00300/alliance-support-for-green-eub-position-welcomed.htm
+title: Alliance support for Green EUB position welcomed
+date: 2001-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00300/alliance-support-for-green-eub-position-welcomed.htm
 author: green-party
+permalink: >-
+  /archive/2001/11/15/alliance-support-for-green-eub-position-welcomed/index.html
+layout: layout.njk
 ---
 Alliance support for Green EUB position welcomed
 ================================================

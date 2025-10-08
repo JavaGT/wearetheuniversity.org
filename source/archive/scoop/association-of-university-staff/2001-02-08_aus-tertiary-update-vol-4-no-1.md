@@ -1,9 +1,11 @@
 ---
 slug: aus-tertiary-update-vol-4-no-1
-title: "AUS Tertiary Update  Vol.4 No.1"
-date: 2001-02-08
+title: AUS Tertiary Update  Vol.4 No.1
+date: 2001-02-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0102/S00007/aus-tertiary-update-vol4-no1.htm
 author: association-of-university-staff
+permalink: /archive/2001/02/08/aus-tertiary-update-vol-4-no-1/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.4 No.1
 ==============================

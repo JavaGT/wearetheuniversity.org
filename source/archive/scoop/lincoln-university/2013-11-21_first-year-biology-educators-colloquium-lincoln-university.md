@@ -1,9 +1,13 @@
 ---
 slug: first-year-biology-educators-colloquium-lincoln-university
-title: "First Year Biology Educators Colloquium - Lincoln University"
-date: 2013-11-21
-source-url: https://www.scoop.co.nz/stories/ED1311/S00144/first-year-biology-educators-colloquium-lincoln-university.htm
+title: First Year Biology Educators Colloquium - Lincoln University
+date: 2013-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00144/first-year-biology-educators-colloquium-lincoln-university.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/11/21/first-year-biology-educators-colloquium-lincoln-university/index.html
+layout: layout.njk
 ---
 First Year Biology Educators Colloquium - Lincoln University
 ============================================================

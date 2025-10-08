@@ -1,9 +1,16 @@
 ---
-slug: new-provost-to-lead-strategic-direction-in-education-and-research-at-lincoln-university
-title: "New Provost To Lead Strategic Direction In Education And Research At Lincoln University"
-date: 2022-06-14
-source-url: https://www.scoop.co.nz/stories/ED2206/S00021/new-provost-to-lead-strategic-direction-in-education-and-research-at-lincoln-university.htm
+slug: >-
+  new-provost-to-lead-strategic-direction-in-education-and-research-at-lincoln-university
+title: >-
+  New Provost To Lead Strategic Direction In Education And Research At Lincoln
+  University
+date: 2022-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2206/S00021/new-provost-to-lead-strategic-direction-in-education-and-research-at-lincoln-university.htm
 author: lincoln-university
+permalink: >-
+  /archive/2022/06/14/new-provost-to-lead-strategic-direction-in-education-and-research-at-lincoln-university/index.html
+layout: layout.njk
 ---
 New Provost To Lead Strategic Direction In Education And Research At Lincoln University
 =======================================================================================

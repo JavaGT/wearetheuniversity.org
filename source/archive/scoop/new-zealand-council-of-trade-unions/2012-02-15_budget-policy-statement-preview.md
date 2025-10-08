@@ -1,9 +1,12 @@
 ---
 slug: budget-policy-statement-preview
-title: "Budget Policy Statement Preview"
-date: 2012-02-15
-source-url: https://www.scoop.co.nz/stories/PO1202/S00151/budget-policy-statement-preview.htm
+title: Budget Policy Statement Preview
+date: 2012-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1202/S00151/budget-policy-statement-preview.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/02/15/budget-policy-statement-preview/index.html
+layout: layout.njk
 ---
 Budget Policy Statement Preview
 ===============================

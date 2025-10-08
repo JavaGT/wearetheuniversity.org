@@ -1,9 +1,12 @@
 ---
 slug: valedictory-speech-rt-hon-helen-clark
-title: "Valedictory Speech Rt Hon Helen Clark"
-date: 2009-04-09
-source-url: https://www.scoop.co.nz/stories/PA0904/S00130/valedictory-speech-rt-hon-helen-clark.htm
+title: Valedictory Speech Rt Hon Helen Clark
+date: 2009-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00130/valedictory-speech-rt-hon-helen-clark.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/09/valedictory-speech-rt-hon-helen-clark/index.html
+layout: layout.njk
 ---
 Valedictory Speech Rt Hon Helen Clark
 =====================================

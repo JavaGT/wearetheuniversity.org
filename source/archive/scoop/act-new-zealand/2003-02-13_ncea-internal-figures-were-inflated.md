@@ -1,9 +1,12 @@
 ---
 slug: ncea-internal-figures-were-inflated
-title: "NCEA Internal Figures Were Inflated"
-date: 2003-02-13
-source-url: https://www.scoop.co.nz/stories/PA0302/S00214/ncea-internal-figures-were-inflated.htm
+title: NCEA Internal Figures Were Inflated
+date: 2003-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00214/ncea-internal-figures-were-inflated.htm
 author: act-new-zealand
+permalink: /archive/2003/02/13/ncea-internal-figures-were-inflated/index.html
+layout: layout.njk
 ---
 NCEA Internal Figures Were Inflated
 ===================================

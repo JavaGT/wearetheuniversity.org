@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-hosts-free-climate-change-lecture
-title: "Waikato Uni hosts free climate change lecture"
-date: 2009-04-07
-source-url: https://www.scoop.co.nz/stories/ED0904/S00016/waikato-uni-hosts-free-climate-change-lecture.htm
+title: Waikato Uni hosts free climate change lecture
+date: 2009-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00016/waikato-uni-hosts-free-climate-change-lecture.htm
 author: university-of-waikato
+permalink: /archive/2009/04/07/waikato-uni-hosts-free-climate-change-lecture/index.html
+layout: layout.njk
 ---
 Waikato Uni hosts free climate change lecture
 =============================================

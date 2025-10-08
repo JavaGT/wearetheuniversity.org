@@ -1,9 +1,12 @@
 ---
 slug: holidays-bill-must-change-sowry
-title: "Holidays Bill must change - Sowry"
-date: 2003-02-25
-source-url: https://www.scoop.co.nz/stories/PA0302/S00456/holidays-bill-must-change-sowry.htm
+title: Holidays Bill must change - Sowry
+date: 2003-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00456/holidays-bill-must-change-sowry.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/25/holidays-bill-must-change-sowry/index.html
+layout: layout.njk
 ---
 Holidays Bill must change - Sowry
 =================================

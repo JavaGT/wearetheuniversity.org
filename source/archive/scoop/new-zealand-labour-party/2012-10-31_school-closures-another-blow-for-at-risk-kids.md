@@ -1,9 +1,12 @@
 ---
 slug: school-closures-another-blow-for-at-risk-kids
-title: "School closures another blow for at-risk kids"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/PA1210/S00545/school-closures-another-blow-for-at-risk-kids.htm
+title: School closures another blow for at-risk kids
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00545/school-closures-another-blow-for-at-risk-kids.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/31/school-closures-another-blow-for-at-risk-kids/index.html
+layout: layout.njk
 ---
 School closures another blow for at-risk kids
 =============================================

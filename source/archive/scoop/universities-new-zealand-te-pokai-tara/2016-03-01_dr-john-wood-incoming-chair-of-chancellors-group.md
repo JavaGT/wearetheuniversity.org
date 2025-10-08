@@ -1,9 +1,13 @@
 ---
 slug: dr-john-wood-incoming-chair-of-chancellors-group
-title: "Dr John Wood incoming Chair of Chancellors’ Group"
-date: 2016-03-01
-source-url: https://www.scoop.co.nz/stories/ED1603/S00002/dr-john-wood-incoming-chair-of-chancellors-group.htm
+title: Dr John Wood incoming Chair of Chancellors’ Group
+date: 2016-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00002/dr-john-wood-incoming-chair-of-chancellors-group.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/03/01/dr-john-wood-incoming-chair-of-chancellors-group/index.html
+layout: layout.njk
 ---
 Dr John Wood incoming Chair of Chancellors’ Group
 =================================================

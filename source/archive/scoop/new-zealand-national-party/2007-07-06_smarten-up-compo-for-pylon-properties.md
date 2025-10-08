@@ -1,9 +1,12 @@
 ---
 slug: smarten-up-compo-for-pylon-properties
-title: "Smarten up compo for pylon properties"
-date: 2007-07-06
-source-url: https://www.scoop.co.nz/stories/PA0707/S00113/smarten-up-compo-for-pylon-properties.htm
+title: Smarten up compo for pylon properties
+date: 2007-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00113/smarten-up-compo-for-pylon-properties.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/06/smarten-up-compo-for-pylon-properties/index.html
+layout: layout.njk
 ---
 Smarten up compo for pylon properties
 =====================================

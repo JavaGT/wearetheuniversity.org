@@ -1,9 +1,12 @@
 ---
 slug: peters-will-soon-need-migrant-workers
-title: "Peters Will Soon Need Migrant Workers"
-date: 2020-07-20
-source-url: https://www.scoop.co.nz/stories/PA2007/S00174/peters-will-soon-need-migrant-workers.htm
+title: Peters Will Soon Need Migrant Workers
+date: 2020-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00174/peters-will-soon-need-migrant-workers.htm
 author: act-new-zealand
+permalink: /archive/2020/07/20/peters-will-soon-need-migrant-workers/index.html
+layout: layout.njk
 ---
 Peters Will Soon Need Migrant Workers
 =====================================

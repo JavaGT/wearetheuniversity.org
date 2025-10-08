@@ -1,9 +1,12 @@
 ---
 slug: government-must-respond-to-cash-for-jobs-scam
-title: "Government must respond to cash-for-jobs scam"
-date: 2016-09-15
-source-url: https://www.scoop.co.nz/stories/PA1609/S00285/government-must-respond-to-cash-for-jobs-scam.htm
+title: Government must respond to cash-for-jobs scam
+date: 2016-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00285/government-must-respond-to-cash-for-jobs-scam.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/15/government-must-respond-to-cash-for-jobs-scam/index.html
+layout: layout.njk
 ---
 Government must respond to cash-for-jobs scam
 =============================================

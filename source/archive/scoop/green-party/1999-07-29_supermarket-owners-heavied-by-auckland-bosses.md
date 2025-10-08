@@ -1,9 +1,12 @@
 ---
 slug: supermarket-owners-heavied-by-auckland-bosses
-title: "Supermarket Owners Heavied By Auckland Bosses"
-date: 1999-07-29
-source-url: https://www.scoop.co.nz/stories/PA9907/S00571/supermarket-owners-heavied-by-auckland-bosses.htm
+title: Supermarket Owners Heavied By Auckland Bosses
+date: 1999-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00571/supermarket-owners-heavied-by-auckland-bosses.htm
 author: green-party
+permalink: /archive/1999/07/29/supermarket-owners-heavied-by-auckland-bosses/index.html
+layout: layout.njk
 ---
 Supermarket Owners Heavied By Auckland Bosses
 =============================================

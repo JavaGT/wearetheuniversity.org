@@ -1,9 +1,13 @@
 ---
 slug: hawkins-must-shoulder-blame-for-recruit-shortage
-title: "Hawkins must shoulder blame for recruit shortage"
-date: 2005-08-29
-source-url: https://www.scoop.co.nz/stories/PA0508/S00735/hawkins-must-shoulder-blame-for-recruit-shortage.htm
+title: Hawkins must shoulder blame for recruit shortage
+date: 2005-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00735/hawkins-must-shoulder-blame-for-recruit-shortage.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/08/29/hawkins-must-shoulder-blame-for-recruit-shortage/index.html
+layout: layout.njk
 ---
 Hawkins must shoulder blame for recruit shortage
 ================================================

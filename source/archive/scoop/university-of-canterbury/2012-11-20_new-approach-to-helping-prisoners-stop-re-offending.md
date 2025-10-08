@@ -1,9 +1,13 @@
 ---
 slug: new-approach-to-helping-prisoners-stop-re-offending
-title: "New Approach To Helping Prisoners Stop Re-Offending"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/ED1211/S00130/new-approach-to-helping-prisoners-stop-re-offending.htm
+title: New Approach To Helping Prisoners Stop Re-Offending
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00130/new-approach-to-helping-prisoners-stop-re-offending.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/20/new-approach-to-helping-prisoners-stop-re-offending/index.html
+layout: layout.njk
 ---
 New Approach To Helping Prisoners Stop Re-Offending
 ===================================================

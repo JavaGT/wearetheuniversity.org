@@ -1,9 +1,13 @@
 ---
 slug: national-commits-to-extending-waikato-expressway
-title: "National Commits To Extending Waikato Expressway"
-date: 2020-07-03
-source-url: https://www.scoop.co.nz/stories/PA2007/S00044/national-commits-to-extending-waikato-expressway.htm
+title: National Commits To Extending Waikato Expressway
+date: 2020-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00044/national-commits-to-extending-waikato-expressway.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/03/national-commits-to-extending-waikato-expressway/index.html
+layout: layout.njk
 ---
 National Commits To Extending Waikato Expressway
 ================================================

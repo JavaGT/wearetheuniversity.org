@@ -1,9 +1,13 @@
 ---
 slug: new-research-finds-herbicides-cause-antibiotic-resistance
-title: "New research finds herbicides cause antibiotic resistance"
-date: 2017-11-20
-source-url: https://www.scoop.co.nz/stories/SC1711/S00045/new-research-finds-herbicides-cause-antibiotic-resistance.htm
+title: New research finds herbicides cause antibiotic resistance
+date: 2017-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1711/S00045/new-research-finds-herbicides-cause-antibiotic-resistance.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/20/new-research-finds-herbicides-cause-antibiotic-resistance/index.html
+layout: layout.njk
 ---
 New research finds herbicides cause antibiotic resistance
 =========================================================

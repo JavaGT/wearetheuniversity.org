@@ -1,9 +1,12 @@
 ---
 slug: massey-study-links-dementia-to-head-injuries
-title: "Massey study links dementia to head injuries"
-date: 2016-03-22
-source-url: https://www.scoop.co.nz/stories/ED1603/S00082/massey-study-links-dementia-to-head-injuries.htm
+title: Massey study links dementia to head injuries
+date: 2016-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00082/massey-study-links-dementia-to-head-injuries.htm
 author: massey-university
+permalink: /archive/2016/03/22/massey-study-links-dementia-to-head-injuries/index.html
+layout: layout.njk
 ---
 Massey study links dementia to head injuries
 ============================================

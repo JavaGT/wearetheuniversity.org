@@ -1,9 +1,12 @@
 ---
 slug: long-term-options-for-affording-our-future
-title: "Long-term options for affording our future"
-date: 2013-07-30
-source-url: https://www.scoop.co.nz/stories/PO1307/S00380/long-term-options-for-affording-our-future.htm
+title: Long-term options for affording our future
+date: 2013-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00380/long-term-options-for-affording-our-future.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/07/30/long-term-options-for-affording-our-future/index.html
+layout: layout.njk
 ---
 Long-term options for affording our future
 ==========================================

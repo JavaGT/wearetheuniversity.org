@@ -1,9 +1,13 @@
 ---
 slug: cannabis-linked-to-higher-stroke-risk-in-young-adults
-title: "Cannabis Linked To Higher Stroke Risk In Young Adults"
-date: 2013-02-05
-source-url: https://www.scoop.co.nz/stories/ED1302/S00017/cannabis-linked-to-higher-stroke-risk-in-young-adults.htm
+title: Cannabis Linked To Higher Stroke Risk In Young Adults
+date: 2013-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00017/cannabis-linked-to-higher-stroke-risk-in-young-adults.htm
 author: auckland-university
+permalink: >-
+  /archive/2013/02/05/cannabis-linked-to-higher-stroke-risk-in-young-adults/index.html
+layout: layout.njk
 ---
 Cannabis Linked To Higher Stroke Risk In Young Adults
 =====================================================

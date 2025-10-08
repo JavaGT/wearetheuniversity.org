@@ -1,9 +1,13 @@
 ---
 slug: 1905-murder-of-chinese-gold-prospector-inspires-poet
-title: "1905 Murder of Chinese Gold Prospector Inspires Poet"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/CU1407/S00102/1905-murder-of-chinese-gold-prospector-inspires-poet.htm
+title: 1905 Murder of Chinese Gold Prospector Inspires Poet
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00102/1905-murder-of-chinese-gold-prospector-inspires-poet.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2014/07/07/1905-murder-of-chinese-gold-prospector-inspires-poet/index.html
+layout: layout.njk
 ---
 1905 Murder of Chinese Gold Prospector Inspires Poet
 ====================================================

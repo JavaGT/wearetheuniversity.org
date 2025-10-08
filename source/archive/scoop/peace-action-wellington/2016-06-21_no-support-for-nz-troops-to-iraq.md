@@ -1,9 +1,12 @@
 ---
 slug: no-support-for-nz-troops-to-iraq
-title: "No support for NZ troops to Iraq"
-date: 2016-06-21
-source-url: https://www.scoop.co.nz/stories/PO1606/S00241/no-support-for-nz-troops-to-iraq.htm
+title: No support for NZ troops to Iraq
+date: 2016-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00241/no-support-for-nz-troops-to-iraq.htm
 author: peace-action-wellington
+permalink: /archive/2016/06/21/no-support-for-nz-troops-to-iraq/index.html
+layout: layout.njk
 ---
 No support for NZ troops to Iraq
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-staff-choose-bikes-saving-over-six-tonnes-of-carbon-in-one-month
-title: "UC Staff Choose Bikes, Saving Over Six Tonnes Of Carbon In One Month"
-date: 2023-03-03
-source-url: https://www.scoop.co.nz/stories/AK2303/S00073/uc-staff-choose-bikes-saving-over-six-tonnes-of-carbon-in-one-month.htm
+title: UC Staff Choose Bikes, Saving Over Six Tonnes Of Carbon In One Month
+date: 2023-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2303/S00073/uc-staff-choose-bikes-saving-over-six-tonnes-of-carbon-in-one-month.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/03/03/uc-staff-choose-bikes-saving-over-six-tonnes-of-carbon-in-one-month/index.html
+layout: layout.njk
 ---
 UC Staff Choose Bikes, Saving Over Six Tonnes Of Carbon In One Month
 ====================================================================

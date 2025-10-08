@@ -1,9 +1,11 @@
 ---
 slug: peace-through-dialogue
-title: "Peace through dialogue"
-date: 2007-08-03
+title: Peace through dialogue
+date: 2007-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0708/S00054/peace-through-dialogue.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/03/peace-through-dialogue/index.html
+layout: layout.njk
 ---
 Peace through dialogue
 ======================

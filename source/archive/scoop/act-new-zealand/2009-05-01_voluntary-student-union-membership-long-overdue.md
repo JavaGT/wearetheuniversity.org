@@ -1,9 +1,12 @@
 ---
 slug: voluntary-student-union-membership-long-overdue
-title: "Voluntary Student Union Membership long overdue"
-date: 2009-05-01
-source-url: https://www.scoop.co.nz/stories/PA0905/S00032/voluntary-student-union-membership-long-overdue.htm
+title: Voluntary Student Union Membership long overdue
+date: 2009-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00032/voluntary-student-union-membership-long-overdue.htm
 author: act-new-zealand
+permalink: /archive/2009/05/01/voluntary-student-union-membership-long-overdue/index.html
+layout: layout.njk
 ---
 Voluntary Student Union Membership long overdue
 ===============================================

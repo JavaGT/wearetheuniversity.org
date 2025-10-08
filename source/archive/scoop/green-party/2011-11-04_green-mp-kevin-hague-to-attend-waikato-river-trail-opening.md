@@ -1,9 +1,13 @@
 ---
 slug: green-mp-kevin-hague-to-attend-waikato-river-trail-opening
-title: "Green MP Kevin Hague to attend Waikato River Trail opening"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/PA1111/S00075/green-mp-kevin-hague-to-attend-waikato-river-trail-opening.htm
+title: Green MP Kevin Hague to attend Waikato River Trail opening
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00075/green-mp-kevin-hague-to-attend-waikato-river-trail-opening.htm
 author: green-party
+permalink: >-
+  /archive/2011/11/04/green-mp-kevin-hague-to-attend-waikato-river-trail-opening/index.html
+layout: layout.njk
 ---
 Green MP Kevin Hague to attend Waikato River Trail opening
 ==========================================================

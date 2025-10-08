@@ -1,9 +1,12 @@
 ---
 slug: global-instability-reveals-weak-nz-economy
-title: "Global instability reveals weak NZ economy"
-date: 2012-06-05
-source-url: https://www.scoop.co.nz/stories/PA1206/S00038/global-instability-reveals-weak-nz-economy.htm
+title: Global instability reveals weak NZ economy
+date: 2012-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00038/global-instability-reveals-weak-nz-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/06/05/global-instability-reveals-weak-nz-economy/index.html
+layout: layout.njk
 ---
 Global instability reveals weak NZ economy
 ==========================================

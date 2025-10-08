@@ -1,9 +1,12 @@
 ---
 slug: labour-cares-little-for-liberal-democracy
-title: "Labour Cares Little For Liberal Democracy"
-date: 2022-08-03
-source-url: https://www.scoop.co.nz/stories/PA2208/S00038/labour-cares-little-for-liberal-democracy.htm
+title: Labour Cares Little For Liberal Democracy
+date: 2022-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00038/labour-cares-little-for-liberal-democracy.htm
 author: act-new-zealand
+permalink: /archive/2022/08/03/labour-cares-little-for-liberal-democracy/index.html
+layout: layout.njk
 ---
 Labour Cares Little For Liberal Democracy
 =========================================

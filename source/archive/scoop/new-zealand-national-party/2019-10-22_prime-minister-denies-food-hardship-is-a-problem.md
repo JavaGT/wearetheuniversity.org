@@ -1,9 +1,13 @@
 ---
 slug: prime-minister-denies-food-hardship-is-a-problem
-title: "Prime Minister denies food hardship is a problem"
-date: 2019-10-22
-source-url: https://www.scoop.co.nz/stories/PA1910/S00176/prime-minister-denies-food-hardship-is-a-problem.htm
+title: Prime Minister denies food hardship is a problem
+date: 2019-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00176/prime-minister-denies-food-hardship-is-a-problem.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/10/22/prime-minister-denies-food-hardship-is-a-problem/index.html
+layout: layout.njk
 ---
 Prime Minister denies food hardship is a problem
 ================================================

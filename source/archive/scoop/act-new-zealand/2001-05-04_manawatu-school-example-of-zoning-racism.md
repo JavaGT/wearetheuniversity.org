@@ -1,9 +1,12 @@
 ---
 slug: manawatu-school-example-of-zoning-racism
-title: "Manawatu School Example Of Zoning Racism"
-date: 2001-05-04
-source-url: https://www.scoop.co.nz/stories/PA0105/S00096/manawatu-school-example-of-zoning-racism.htm
+title: Manawatu School Example Of Zoning Racism
+date: 2001-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00096/manawatu-school-example-of-zoning-racism.htm
 author: act-new-zealand
+permalink: /archive/2001/05/04/manawatu-school-example-of-zoning-racism/index.html
+layout: layout.njk
 ---
 Manawatu School Example Of Zoning Racism
 ========================================

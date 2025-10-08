@@ -1,9 +1,13 @@
 ---
 slug: wasp-co-creator-on-odds-of-mccullums-triple-test-century
-title: "WASP co-creator on odds of McCullum’s triple test century"
-date: 2014-02-18
-source-url: https://www.scoop.co.nz/stories/ED1402/S00068/wasp-co-creator-on-odds-of-mccullums-triple-test-century.htm
+title: WASP co-creator on odds of McCullum’s triple test century
+date: 2014-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00068/wasp-co-creator-on-odds-of-mccullums-triple-test-century.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/18/wasp-co-creator-on-odds-of-mccullums-triple-test-century/index.html
+layout: layout.njk
 ---
 WASP co-creator on odds of McCullum’s triple test century
 =========================================================

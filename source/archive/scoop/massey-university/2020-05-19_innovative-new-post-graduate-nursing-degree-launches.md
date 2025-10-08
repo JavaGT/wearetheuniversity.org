@@ -1,9 +1,13 @@
 ---
 slug: innovative-new-post-graduate-nursing-degree-launches
-title: "Innovative New Post-graduate Nursing Degree Launches"
-date: 2020-05-19
-source-url: https://www.scoop.co.nz/stories/ED2005/S00048/innovative-new-post-graduate-nursing-degree-launches.htm
+title: Innovative New Post-graduate Nursing Degree Launches
+date: 2020-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00048/innovative-new-post-graduate-nursing-degree-launches.htm
 author: massey-university
+permalink: >-
+  /archive/2020/05/19/innovative-new-post-graduate-nursing-degree-launches/index.html
+layout: layout.njk
 ---
 Innovative New Post-graduate Nursing Degree Launches
 ====================================================

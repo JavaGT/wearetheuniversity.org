@@ -1,9 +1,12 @@
 ---
 slug: zero-tariffs-equal-zero-workers-warn-greens
-title: "Zero Tariffs Equal Zero Workers, Warn Greens"
-date: 2003-08-15
-source-url: https://www.scoop.co.nz/stories/PA0308/S00333/zero-tariffs-equal-zero-workers-warn-greens.htm
+title: Zero Tariffs Equal Zero Workers, Warn Greens
+date: 2003-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00333/zero-tariffs-equal-zero-workers-warn-greens.htm
 author: green-party
+permalink: /archive/2003/08/15/zero-tariffs-equal-zero-workers-warn-greens/index.html
+layout: layout.njk
 ---
 Zero Tariffs Equal Zero Workers, Warn Greens
 ============================================

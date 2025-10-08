@@ -1,9 +1,12 @@
 ---
 slug: canterbury-waiting-times-appalling
-title: "Canterbury waiting times appalling"
-date: 2003-01-16
-source-url: https://www.scoop.co.nz/stories/PA0301/S00091/canterbury-waiting-times-appalling.htm
+title: Canterbury waiting times appalling
+date: 2003-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00091/canterbury-waiting-times-appalling.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/16/canterbury-waiting-times-appalling/index.html
+layout: layout.njk
 ---
 Canterbury waiting times appalling
 ==================================

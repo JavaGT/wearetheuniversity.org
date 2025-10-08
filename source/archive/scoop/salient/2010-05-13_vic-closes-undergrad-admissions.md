@@ -1,9 +1,12 @@
 ---
 slug: vic-closes-undergrad-admissions
-title: "Vic closes undergrad admissions"
-date: 2010-05-13
-source-url: https://www.scoop.co.nz/stories/ED1005/S00048/vic-closes-undergrad-admissions.htm
+title: Vic closes undergrad admissions
+date: 2010-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00048/vic-closes-undergrad-admissions.htm
 author: salient
+permalink: /archive/2010/05/13/vic-closes-undergrad-admissions/index.html
+layout: layout.njk
 ---
 Vic closes undergrad admissions
 ===============================

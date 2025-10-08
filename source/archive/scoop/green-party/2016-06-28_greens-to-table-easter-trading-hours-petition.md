@@ -1,9 +1,12 @@
 ---
 slug: greens-to-table-easter-trading-hours-petition
-title: "Greens to table Easter trading hours petition"
-date: 2016-06-28
-source-url: https://www.scoop.co.nz/stories/PA1606/S00454/greens-to-table-easter-trading-hours-petition.htm
+title: Greens to table Easter trading hours petition
+date: 2016-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00454/greens-to-table-easter-trading-hours-petition.htm
 author: green-party
+permalink: /archive/2016/06/28/greens-to-table-easter-trading-hours-petition/index.html
+layout: layout.njk
 ---
 Greens to table Easter trading hours petition
 =============================================

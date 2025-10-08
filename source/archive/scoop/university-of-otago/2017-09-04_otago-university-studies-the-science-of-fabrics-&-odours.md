@@ -1,9 +1,13 @@
 ---
 slug: otago-university-studies-the-science-of-fabrics-&-odours
-title: "Otago University Studies the Science of Fabrics & Odours"
-date: 2017-09-04
-source-url: https://www.scoop.co.nz/stories/ED1709/S00012/otago-university-studies-the-science-of-fabrics-odours.htm
+title: Otago University Studies the Science of Fabrics & Odours
+date: 2017-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00012/otago-university-studies-the-science-of-fabrics-odours.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/09/04/otago-university-studies-the-science-of-fabrics-/index.html
+layout: layout.njk
 ---
 Otago University Studies the Science of Fabrics & Odours
 ========================================================

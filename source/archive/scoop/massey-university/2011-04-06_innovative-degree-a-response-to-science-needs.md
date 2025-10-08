@@ -1,9 +1,12 @@
 ---
 slug: innovative-degree-a-response-to-science-needs
-title: "Innovative degree a response to science needs"
-date: 2011-04-06
-source-url: https://www.scoop.co.nz/stories/ED1104/S00025/innovative-degree-a-response-to-science-needs.htm
+title: Innovative degree a response to science needs
+date: 2011-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00025/innovative-degree-a-response-to-science-needs.htm
 author: massey-university
+permalink: /archive/2011/04/06/innovative-degree-a-response-to-science-needs/index.html
+layout: layout.njk
 ---
 Innovative degree a response to science needs
 =============================================

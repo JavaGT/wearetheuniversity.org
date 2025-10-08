@@ -1,9 +1,12 @@
 ---
 slug: foster-bell-to-become-new-national-mp
-title: "Foster-Bell to Become New National MP"
-date: 2013-04-24
-source-url: https://www.scoop.co.nz/stories/PA1304/S00468/foster-bell-to-become-new-national-mp.htm
+title: Foster-Bell to Become New National MP
+date: 2013-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00468/foster-bell-to-become-new-national-mp.htm
 author: new-zealand-national-party
+permalink: /archive/2013/04/24/foster-bell-to-become-new-national-mp/index.html
+layout: layout.njk
 ---
 Foster-Bell to Become New National MP
 =====================================

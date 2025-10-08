@@ -1,9 +1,11 @@
 ---
 slug: turia-the-maraeroa-way
-title: "Turia: The Maraeroa Way"
-date: 2008-05-23
+title: 'Turia: The Maraeroa Way'
+date: 2008-05-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0805/S00478/turia-the-maraeroa-way.htm
 author: te-pati-maori
+permalink: /archive/2008/05/23/turia-the-maraeroa-way/index.html
+layout: layout.njk
 ---
 Turia: The Maraeroa Way
 =======================

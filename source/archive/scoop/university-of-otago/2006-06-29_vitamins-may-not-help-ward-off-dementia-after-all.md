@@ -1,9 +1,13 @@
 ---
 slug: vitamins-may-not-help-ward-off-dementia-after-all
-title: "Vitamins May Not Help Ward Off Dementia After All:"
-date: 2006-06-29
-source-url: https://www.scoop.co.nz/stories/GE0606/S00134/vitamins-may-not-help-ward-off-dementia-after-all.htm
+title: 'Vitamins May Not Help Ward Off Dementia After All:'
+date: 2006-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0606/S00134/vitamins-may-not-help-ward-off-dementia-after-all.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/06/29/vitamins-may-not-help-ward-off-dementia-after-all/index.html
+layout: layout.njk
 ---
 Vitamins May Not Help Ward Off Dementia After All:
 ==================================================

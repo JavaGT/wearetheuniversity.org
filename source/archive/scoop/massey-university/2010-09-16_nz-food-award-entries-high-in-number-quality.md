@@ -1,9 +1,12 @@
 ---
 slug: nz-food-award-entries-high-in-number-quality
-title: "NZ Food Award entries high in number, quality"
-date: 2010-09-16
-source-url: https://www.scoop.co.nz/stories/CU1009/S00182/nz-food-award-entries-high-in-number-quality.htm
+title: NZ Food Award entries high in number, quality
+date: 2010-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1009/S00182/nz-food-award-entries-high-in-number-quality.htm
 author: massey-university
+permalink: /archive/2010/09/16/nz-food-award-entries-high-in-number-quality/index.html
+layout: layout.njk
 ---
 NZ Food Award entries high in number, quality
 =============================================

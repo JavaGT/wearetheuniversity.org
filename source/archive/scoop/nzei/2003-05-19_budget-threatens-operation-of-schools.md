@@ -1,9 +1,12 @@
 ---
 slug: budget-threatens-operation-of-schools
-title: "Budget Threatens Operation Of Schools"
-date: 2003-05-19
-source-url: https://www.scoop.co.nz/stories/ED0305/S00061/budget-threatens-operation-of-schools.htm
+title: Budget Threatens Operation Of Schools
+date: 2003-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00061/budget-threatens-operation-of-schools.htm
 author: nzei
+permalink: /archive/2003/05/19/budget-threatens-operation-of-schools/index.html
+layout: layout.njk
 ---
 Budget Threatens Operation Of Schools
 =====================================

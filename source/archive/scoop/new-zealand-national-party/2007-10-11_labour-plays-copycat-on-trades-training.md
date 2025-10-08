@@ -1,9 +1,12 @@
 ---
 slug: labour-plays-copycat-on-trades-training
-title: "Labour plays copycat on trades training"
-date: 2007-10-11
-source-url: https://www.scoop.co.nz/stories/PA0710/S00209/labour-plays-copycat-on-trades-training.htm
+title: Labour plays copycat on trades training
+date: 2007-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00209/labour-plays-copycat-on-trades-training.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/11/labour-plays-copycat-on-trades-training/index.html
+layout: layout.njk
 ---
 Labour plays copycat on trades training
 =======================================

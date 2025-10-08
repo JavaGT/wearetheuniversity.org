@@ -1,9 +1,13 @@
 ---
 slug: uc-chemistry-student-selected-to-attend-nobel-laureate-event
-title: "UC Chemistry Student Selected To Attend Nobel Laureate Event"
-date: 2013-04-19
-source-url: https://www.scoop.co.nz/stories/ED1304/S00126/uc-chemistry-student-selected-to-attend-nobel-laureate-event.htm
+title: UC Chemistry Student Selected To Attend Nobel Laureate Event
+date: 2013-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00126/uc-chemistry-student-selected-to-attend-nobel-laureate-event.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/19/uc-chemistry-student-selected-to-attend-nobel-laureate-event/index.html
+layout: layout.njk
 ---
 UC Chemistry Student Selected To Attend Nobel Laureate Event
 ============================================================

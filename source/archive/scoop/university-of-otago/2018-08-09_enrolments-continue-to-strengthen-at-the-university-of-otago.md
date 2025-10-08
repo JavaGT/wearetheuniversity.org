@@ -1,9 +1,13 @@
 ---
 slug: enrolments-continue-to-strengthen-at-the-university-of-otago
-title: "Enrolments Continue to Strengthen at the University of Otago"
-date: 2018-08-09
-source-url: https://www.scoop.co.nz/stories/ED1808/S00024/enrolments-continue-to-strengthen-at-the-university-of-otago.htm
+title: Enrolments Continue to Strengthen at the University of Otago
+date: 2018-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00024/enrolments-continue-to-strengthen-at-the-university-of-otago.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/09/enrolments-continue-to-strengthen-at-the-university-of-otago/index.html
+layout: layout.njk
 ---
 Enrolments Continue to Strengthen at the University of Otago
 ============================================================

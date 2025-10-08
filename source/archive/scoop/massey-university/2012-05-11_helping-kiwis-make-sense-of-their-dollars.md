@@ -1,9 +1,12 @@
 ---
 slug: helping-kiwis-make-sense-of-their-dollars
-title: "Helping Kiwis make sense of their dollars"
-date: 2012-05-11
-source-url: https://www.scoop.co.nz/stories/PO1205/S00180/helping-kiwis-make-sense-of-their-dollars.htm
+title: Helping Kiwis make sense of their dollars
+date: 2012-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00180/helping-kiwis-make-sense-of-their-dollars.htm
 author: massey-university
+permalink: /archive/2012/05/11/helping-kiwis-make-sense-of-their-dollars/index.html
+layout: layout.njk
 ---
 Helping Kiwis make sense of their dollars
 =========================================

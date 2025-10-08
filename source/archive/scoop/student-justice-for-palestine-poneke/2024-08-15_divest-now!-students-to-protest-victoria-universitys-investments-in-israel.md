@@ -1,9 +1,12 @@
 ---
 slug: divest-now!-students-to-protest-victoria-universitys-investments-in-israel
-title: "\"Divest Now!\": Students To Protest Victoria University’s Investments In Israel"
-date: 2024-08-15
-source-url: https://www.scoop.co.nz/stories/ED2408/S00031/divest-now-students-to-protest-victoria-universitys-investments-in-israel.htm
+title: '"Divest Now!": Students To Protest Victoria University’s Investments In Israel'
+date: 2024-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00031/divest-now-students-to-protest-victoria-universitys-investments-in-israel.htm
 author: student-justice-for-palestine-poneke
+permalink: /archive/2024/08/15/divest-now/index.html
+layout: layout.njk
 ---
 “Divest Now!”: Students To Protest Victoria University’s Investments In Israel
 ==============================================================================

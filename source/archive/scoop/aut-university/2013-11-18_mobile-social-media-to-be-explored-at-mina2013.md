@@ -1,9 +1,12 @@
 ---
 slug: mobile-social-media-to-be-explored-at-mina2013
-title: "Mobile social media to be explored at MINA2013"
-date: 2013-11-18
-source-url: https://www.scoop.co.nz/stories/ED1311/S00122/mobile-social-media-to-be-explored-at-mina2013.htm
+title: Mobile social media to be explored at MINA2013
+date: 2013-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00122/mobile-social-media-to-be-explored-at-mina2013.htm
 author: aut-university
+permalink: /archive/2013/11/18/mobile-social-media-to-be-explored-at-mina2013/index.html
+layout: layout.njk
 ---
 Mobile social media to be explored at MINA2013
 ==============================================

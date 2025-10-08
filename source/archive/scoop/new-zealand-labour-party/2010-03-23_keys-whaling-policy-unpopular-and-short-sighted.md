@@ -1,9 +1,12 @@
 ---
 slug: keys-whaling-policy-unpopular-and-short-sighted
-title: "Key’s whaling policy unpopular and short-sighted"
-date: 2010-03-23
-source-url: https://www.scoop.co.nz/stories/PA1003/S00336/keys-whaling-policy-unpopular-and-short-sighted.htm
+title: Key’s whaling policy unpopular and short-sighted
+date: 2010-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00336/keys-whaling-policy-unpopular-and-short-sighted.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/23/keys-whaling-policy-unpopular-and-short-sighted/index.html
+layout: layout.njk
 ---
 Key’s whaling policy unpopular and short-sighted
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: university-wins-funding-for-exporting-education
-title: "University Wins Funding for Exporting Education"
-date: 2006-11-08
-source-url: https://www.scoop.co.nz/stories/ED0611/S00029/university-wins-funding-for-exporting-education.htm
+title: University Wins Funding for Exporting Education
+date: 2006-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00029/university-wins-funding-for-exporting-education.htm
 author: university-of-otago
+permalink: /archive/2006/11/08/university-wins-funding-for-exporting-education/index.html
+layout: layout.njk
 ---
 University Wins Funding for Exporting Education
 ===============================================

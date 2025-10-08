@@ -1,9 +1,12 @@
 ---
 slug: 2013-nz-food-awards-open-for-entries
-title: "2013 NZ Food Awards open for entries"
-date: 2013-06-24
-source-url: https://www.scoop.co.nz/stories/CU1306/S00340/2013-nz-food-awards-open-for-entries.htm
+title: 2013 NZ Food Awards open for entries
+date: 2013-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1306/S00340/2013-nz-food-awards-open-for-entries.htm
 author: massey-university
+permalink: /archive/2013/06/24/2013-nz-food-awards-open-for-entries/index.html
+layout: layout.njk
 ---
 2013 NZ Food Awards open for entries
 ====================================

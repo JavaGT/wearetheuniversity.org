@@ -1,9 +1,12 @@
 ---
 slug: labour-not-listening-democracy-is-dead
-title: "Labour not listening democracy is dead"
-date: 2004-05-18
-source-url: https://www.scoop.co.nz/stories/PO0405/S00185/labour-not-listening-democracy-is-dead.htm
+title: Labour not listening democracy is dead
+date: 2004-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00185/labour-not-listening-democracy-is-dead.htm
 author: auckland-student-movement
+permalink: /archive/2004/05/18/labour-not-listening-democracy-is-dead/index.html
+layout: layout.njk
 ---
 Labour not listening democracy is dead
 ======================================

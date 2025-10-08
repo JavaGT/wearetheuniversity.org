@@ -1,8 +1,15 @@
 ---
-slug: memorandum-of-understanding-strengthens-new-zealand-centre-at-peking-university
-title: "Memorandum of Understanding strengthens New Zealand Centre at Peking University"
-date: 2016-04-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/mou-strengthens-nz-centre-at-peking-university.html
+slug: >-
+  memorandum-of-understanding-strengthens-new-zealand-centre-at-peking-university
+title: >-
+  Memorandum of Understanding strengthens New Zealand Centre at Peking
+  University
+date: 2016-04-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/mou-strengthens-nz-centre-at-peking-university.html
+permalink: >-
+  /archive/2016/04/19/memorandum-of-understanding-strengthens-new-zealand-centre-at-peking-university/index.html
+layout: layout.njk
 ---
 
 Memorandum of Understanding strengthens New Zealand Centre at Peking University

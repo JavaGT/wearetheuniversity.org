@@ -1,9 +1,12 @@
 ---
 slug: new-position-at-vuw-positive-for-maori
-title: "New Position at VUW Positive for Maori"
-date: 2000-05-29
-source-url: https://www.scoop.co.nz/stories/ED0005/S00043/new-position-at-vuw-positive-for-maori.htm
+title: New Position at VUW Positive for Maori
+date: 2000-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00043/new-position-at-vuw-positive-for-maori.htm
 author: te-mana-akonga
+permalink: /archive/2000/05/29/new-position-at-vuw-positive-for-maori/index.html
+layout: layout.njk
 ---
 New Position at VUW Positive for Maori
 ======================================

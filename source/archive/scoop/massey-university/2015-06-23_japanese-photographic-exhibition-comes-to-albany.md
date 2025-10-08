@@ -1,9 +1,13 @@
 ---
 slug: japanese-photographic-exhibition-comes-to-albany
-title: "Japanese photographic exhibition comes to Albany"
-date: 2015-06-23
-source-url: https://www.scoop.co.nz/stories/CU1506/S00451/japanese-photographic-exhibition-comes-to-albany.htm
+title: Japanese photographic exhibition comes to Albany
+date: 2015-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1506/S00451/japanese-photographic-exhibition-comes-to-albany.htm
 author: massey-university
+permalink: >-
+  /archive/2015/06/23/japanese-photographic-exhibition-comes-to-albany/index.html
+layout: layout.njk
 ---
 Japanese photographic exhibition comes to Albany
 ================================================

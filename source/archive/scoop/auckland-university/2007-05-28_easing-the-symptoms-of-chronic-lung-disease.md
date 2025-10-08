@@ -1,9 +1,12 @@
 ---
 slug: easing-the-symptoms-of-chronic-lung-disease
-title: "Easing the symptoms of chronic lung disease"
-date: 2007-05-28
-source-url: https://www.scoop.co.nz/stories/GE0705/S00151/easing-the-symptoms-of-chronic-lung-disease.htm
+title: Easing the symptoms of chronic lung disease
+date: 2007-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0705/S00151/easing-the-symptoms-of-chronic-lung-disease.htm
 author: auckland-university
+permalink: /archive/2007/05/28/easing-the-symptoms-of-chronic-lung-disease/index.html
+layout: layout.njk
 ---
 Easing the symptoms of chronic lung disease
 ===========================================

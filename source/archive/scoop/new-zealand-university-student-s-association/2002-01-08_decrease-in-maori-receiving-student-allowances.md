@@ -1,9 +1,12 @@
 ---
 slug: decrease-in-maori-receiving-student-allowances
-title: "Decrease In Maori Receiving Student Allowances"
-date: 2002-01-08
-source-url: https://www.scoop.co.nz/stories/ED0201/S00001/decrease-in-maori-receiving-student-allowances.htm
+title: Decrease In Maori Receiving Student Allowances
+date: 2002-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0201/S00001/decrease-in-maori-receiving-student-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/01/08/decrease-in-maori-receiving-student-allowances/index.html
+layout: layout.njk
 ---
 Decrease In Maori Receiving Student Allowances
 ==============================================

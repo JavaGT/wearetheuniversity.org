@@ -1,9 +1,12 @@
 ---
 slug: twelve-new-professors-appointed-at-auckland-uni
-title: "Twelve New Professors Appointed At Auckland Uni"
-date: 2011-02-10
-source-url: https://www.scoop.co.nz/stories/ED1102/S00035/twelve-new-professors-appointed-at-auckland-uni.htm
+title: Twelve New Professors Appointed At Auckland Uni
+date: 2011-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00035/twelve-new-professors-appointed-at-auckland-uni.htm
 author: auckland-university
+permalink: /archive/2011/02/10/twelve-new-professors-appointed-at-auckland-uni/index.html
+layout: layout.njk
 ---
 Twelve New Professors Appointed At Auckland Uni
 ===============================================

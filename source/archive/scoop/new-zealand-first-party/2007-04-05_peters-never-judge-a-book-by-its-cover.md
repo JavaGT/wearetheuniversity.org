@@ -1,9 +1,12 @@
 ---
 slug: peters-never-judge-a-book-by-its-cover
-title: "Peters - Never Judge A Book By Its Cover"
-date: 2007-04-05
-source-url: https://www.scoop.co.nz/stories/PA0704/S00120/peters-never-judge-a-book-by-its-cover.htm
+title: Peters - Never Judge A Book By Its Cover
+date: 2007-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00120/peters-never-judge-a-book-by-its-cover.htm
 author: new-zealand-first-party
+permalink: /archive/2007/04/05/peters-never-judge-a-book-by-its-cover/index.html
+layout: layout.njk
 ---
 Peters - Never Judge A Book By Its Cover
 ========================================

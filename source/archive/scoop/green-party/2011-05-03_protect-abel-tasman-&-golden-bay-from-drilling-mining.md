@@ -1,9 +1,12 @@
 ---
 slug: protect-abel-tasman-&-golden-bay-from-drilling-mining
-title: "Protect Abel Tasman & Golden Bay from Drilling, Mining"
-date: 2011-05-03
-source-url: https://www.scoop.co.nz/stories/PA1105/S00040/protect-abel-tasman-golden-bay-from-drilling-mining.htm
+title: Protect Abel Tasman & Golden Bay from Drilling, Mining
+date: 2011-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00040/protect-abel-tasman-golden-bay-from-drilling-mining.htm
 author: green-party
+permalink: /archive/2011/05/03/protect-abel-tasman-/index.html
+layout: layout.njk
 ---
 Protect Abel Tasman & Golden Bay from Drilling, Mining
 ======================================================

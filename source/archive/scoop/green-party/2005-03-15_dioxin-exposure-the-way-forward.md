@@ -1,9 +1,12 @@
 ---
 slug: dioxin-exposure-the-way-forward
-title: "Dioxin Exposure: The Way Forward"
-date: 2005-03-15
-source-url: https://www.scoop.co.nz/stories/PA0503/S00298/dioxin-exposure-the-way-forward.htm
+title: 'Dioxin Exposure: The Way Forward'
+date: 2005-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00298/dioxin-exposure-the-way-forward.htm
 author: green-party
+permalink: /archive/2005/03/15/dioxin-exposure-the-way-forward/index.html
+layout: layout.njk
 ---
 Dioxin Exposure: The Way Forward
 ================================

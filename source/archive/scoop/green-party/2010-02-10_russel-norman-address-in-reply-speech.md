@@ -1,9 +1,12 @@
 ---
 slug: russel-norman-address-in-reply-speech
-title: "Russel Norman: Address in Reply Speech"
-date: 2010-02-10
-source-url: https://www.scoop.co.nz/stories/PA1002/S00105/russel-norman-address-in-reply-speech.htm
+title: 'Russel Norman: Address in Reply Speech'
+date: 2010-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00105/russel-norman-address-in-reply-speech.htm
 author: green-party
+permalink: /archive/2010/02/10/russel-norman-address-in-reply-speech/index.html
+layout: layout.njk
 ---
 Russel Norman: Address in Reply Speech
 ======================================

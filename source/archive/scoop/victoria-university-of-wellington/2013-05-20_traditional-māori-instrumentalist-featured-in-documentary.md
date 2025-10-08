@@ -1,9 +1,12 @@
 ---
 slug: traditional-māori-instrumentalist-featured-in-documentary
-title: "Traditional Māori Instrumentalist Featured In Documentary"
-date: 2013-05-20
-source-url: https://www.scoop.co.nz/stories/CU1305/S00322/traditional-maori-instrumentalist-featured-in-documentary.htm
+title: Traditional Māori Instrumentalist Featured In Documentary
+date: 2013-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1305/S00322/traditional-maori-instrumentalist-featured-in-documentary.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/20/traditional-m/index.html
+layout: layout.njk
 ---
 Traditional Māori Instrumentalist Featured In Documentary
 =========================================================

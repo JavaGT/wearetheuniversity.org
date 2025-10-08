@@ -1,9 +1,12 @@
 ---
 slug: goods-and-services-tax-(exemption-of-healthy-food)
-title: "Goods and Services Tax (Exemption of Healthy Food)"
-date: 2010-09-09
-source-url: https://www.scoop.co.nz/stories/PA1009/S00143/goods-and-services-tax-exemption-of-healthy-food.htm
+title: Goods and Services Tax (Exemption of Healthy Food)
+date: 2010-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00143/goods-and-services-tax-exemption-of-healthy-food.htm
 author: te-pati-maori
+permalink: /archive/2010/09/09/goods-and-services-tax-/index.html
+layout: layout.njk
 ---
 Goods and Services Tax (Exemption of Healthy Food)
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-therapy-can-reduce-stage-fright
-title: "New therapy can reduce stage fright"
-date: 2006-12-18
-source-url: https://www.scoop.co.nz/stories/SC0612/S00046/new-therapy-can-reduce-stage-fright.htm
+title: New therapy can reduce stage fright
+date: 2006-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0612/S00046/new-therapy-can-reduce-stage-fright.htm
 author: massey-university
+permalink: /archive/2006/12/18/new-therapy-can-reduce-stage-fright/index.html
+layout: layout.njk
 ---
 New therapy can reduce stage fright
 ===================================

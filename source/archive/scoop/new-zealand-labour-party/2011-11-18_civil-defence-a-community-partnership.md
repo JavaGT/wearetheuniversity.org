@@ -1,9 +1,12 @@
 ---
 slug: civil-defence-a-community-partnership
-title: "Civil Defence a community partnership"
-date: 2011-11-18
-source-url: https://www.scoop.co.nz/stories/PA1111/S00362/civil-defence-a-community-partnership.htm
+title: Civil Defence a community partnership
+date: 2011-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00362/civil-defence-a-community-partnership.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/18/civil-defence-a-community-partnership/index.html
+layout: layout.njk
 ---
 Civil Defence a community partnership
 =====================================

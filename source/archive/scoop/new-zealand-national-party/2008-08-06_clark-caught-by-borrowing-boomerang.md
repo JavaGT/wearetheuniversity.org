@@ -1,9 +1,12 @@
 ---
 slug: clark-caught-by-borrowing-boomerang
-title: "Clark caught by borrowing boomerang"
-date: 2008-08-06
-source-url: https://www.scoop.co.nz/stories/PA0808/S00076/clark-caught-by-borrowing-boomerang.htm
+title: Clark caught by borrowing boomerang
+date: 2008-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00076/clark-caught-by-borrowing-boomerang.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/06/clark-caught-by-borrowing-boomerang/index.html
+layout: layout.njk
 ---
 Clark caught by borrowing boomerang
 ===================================

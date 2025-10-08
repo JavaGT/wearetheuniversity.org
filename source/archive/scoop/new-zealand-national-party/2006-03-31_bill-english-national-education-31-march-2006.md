@@ -1,9 +1,12 @@
 ---
 slug: bill-english-national-education-31-march-2006
-title: "Bill English - National Education 31 March 2006"
-date: 2006-03-31
-source-url: https://www.scoop.co.nz/stories/PA0603/S00599/bill-english-national-education-31-march-2006.htm
+title: Bill English - National Education 31 March 2006
+date: 2006-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00599/bill-english-national-education-31-march-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/31/bill-english-national-education-31-march-2006/index.html
+layout: layout.njk
 ---
 Bill English - National Education 31 March 2006
 ===============================================

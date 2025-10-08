@@ -1,9 +1,12 @@
 ---
 slug: pacific-education-needs-more-support
-title: "Pacific Education Needs More Support"
-date: 2015-03-02
-source-url: https://www.scoop.co.nz/stories/PA1503/S00008/pacific-education-needs-more-support.htm
+title: Pacific Education Needs More Support
+date: 2015-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00008/pacific-education-needs-more-support.htm
 author: new-zealand-first-party
+permalink: /archive/2015/03/02/pacific-education-needs-more-support/index.html
+layout: layout.njk
 ---
 Pacific Education Needs More Support
 ====================================

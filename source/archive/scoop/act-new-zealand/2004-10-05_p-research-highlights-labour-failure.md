@@ -1,9 +1,12 @@
 ---
 slug: p-research-highlights-labour-failure
-title: "'P' Research Highlights Labour Failure"
-date: 2004-10-05
-source-url: https://www.scoop.co.nz/stories/PA0410/S00071/p-research-highlights-labour-failure.htm
+title: '''P'' Research Highlights Labour Failure'
+date: 2004-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00071/p-research-highlights-labour-failure.htm
 author: act-new-zealand
+permalink: /archive/2004/10/05/p-research-highlights-labour-failure/index.html
+layout: layout.njk
 ---
 'P' Research Highlights Labour Failure
 ======================================

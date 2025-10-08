@@ -1,9 +1,12 @@
 ---
 slug: aut-professors-awarded-$240k-for-research
-title: "AUT professors awarded $240K for research"
-date: 2009-02-18
-source-url: https://www.scoop.co.nz/stories/ED0902/S00062/aut-professors-awarded-240k-for-research.htm
+title: AUT professors awarded $240K for research
+date: 2009-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00062/aut-professors-awarded-240k-for-research.htm
 author: aut-university
+permalink: /archive/2009/02/18/aut-professors-awarded-/index.html
+layout: layout.njk
 ---
 AUT professors awarded $240K for research
 =========================================

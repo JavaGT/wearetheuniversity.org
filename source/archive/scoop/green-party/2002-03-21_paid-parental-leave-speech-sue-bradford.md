@@ -1,9 +1,12 @@
 ---
 slug: paid-parental-leave-speech-sue-bradford
-title: "Paid Parental Leave Speech - Sue Bradford"
-date: 2002-03-21
-source-url: https://www.scoop.co.nz/stories/PA0203/S00394/paid-parental-leave-speech-sue-bradford.htm
+title: Paid Parental Leave Speech - Sue Bradford
+date: 2002-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00394/paid-parental-leave-speech-sue-bradford.htm
 author: green-party
+permalink: /archive/2002/03/21/paid-parental-leave-speech-sue-bradford/index.html
+layout: layout.njk
 ---
 Paid Parental Leave Speech - Sue Bradford
 =========================================

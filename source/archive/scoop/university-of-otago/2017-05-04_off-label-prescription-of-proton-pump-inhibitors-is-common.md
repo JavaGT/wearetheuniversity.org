@@ -1,9 +1,13 @@
 ---
 slug: off-label-prescription-of-proton-pump-inhibitors-is-common
-title: "Off-label prescription of proton pump inhibitors is common"
-date: 2017-05-04
-source-url: https://www.scoop.co.nz/stories/SC1705/S00011/off-label-prescription-of-proton-pump-inhibitors-is-common.htm
+title: Off-label prescription of proton pump inhibitors is common
+date: 2017-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1705/S00011/off-label-prescription-of-proton-pump-inhibitors-is-common.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/05/04/off-label-prescription-of-proton-pump-inhibitors-is-common/index.html
+layout: layout.njk
 ---
 Off-label prescription of proton pump inhibitors is common
 ==========================================================

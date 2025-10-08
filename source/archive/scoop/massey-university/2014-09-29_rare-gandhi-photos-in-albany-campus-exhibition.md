@@ -1,9 +1,12 @@
 ---
 slug: rare-gandhi-photos-in-albany-campus-exhibition
-title: "Rare Gandhi photos in Albany campus exhibition"
-date: 2014-09-29
-source-url: https://www.scoop.co.nz/stories/CU1409/S00550/rare-gandhi-photos-in-albany-campus-exhibition.htm
+title: Rare Gandhi photos in Albany campus exhibition
+date: 2014-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1409/S00550/rare-gandhi-photos-in-albany-campus-exhibition.htm
 author: massey-university
+permalink: /archive/2014/09/29/rare-gandhi-photos-in-albany-campus-exhibition/index.html
+layout: layout.njk
 ---
 Rare Gandhi photos in Albany campus exhibition
 ==============================================

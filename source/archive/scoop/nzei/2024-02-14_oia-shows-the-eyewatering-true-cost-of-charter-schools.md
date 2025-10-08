@@ -1,9 +1,13 @@
 ---
 slug: oia-shows-the-eyewatering-true-cost-of-charter-schools
-title: "OIA Shows The Eyewatering True Cost Of Charter Schools"
-date: 2024-02-14
-source-url: https://www.scoop.co.nz/stories/ED2402/S00015/oia-shows-the-eyewatering-true-cost-of-charter-schools.htm
+title: OIA Shows The Eyewatering True Cost Of Charter Schools
+date: 2024-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2402/S00015/oia-shows-the-eyewatering-true-cost-of-charter-schools.htm
 author: nzei
+permalink: >-
+  /archive/2024/02/14/oia-shows-the-eyewatering-true-cost-of-charter-schools/index.html
+layout: layout.njk
 ---
 OIA Shows The Eyewatering True Cost Of Charter Schools
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: bulk-deployment-ends-of-student-volunteer-army
-title: "Bulk deployment ends of Student Volunteer Army"
-date: 2011-03-05
-source-url: https://www.scoop.co.nz/stories/AK1103/S00271/bulk-deployment-ends-of-student-volunteer-army.htm
+title: Bulk deployment ends of Student Volunteer Army
+date: 2011-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00271/bulk-deployment-ends-of-student-volunteer-army.htm
 author: student-volunteer-army
+permalink: /archive/2011/03/05/bulk-deployment-ends-of-student-volunteer-army/index.html
+layout: layout.njk
 ---
 Bulk deployment ends of Student Volunteer Army
 ==============================================

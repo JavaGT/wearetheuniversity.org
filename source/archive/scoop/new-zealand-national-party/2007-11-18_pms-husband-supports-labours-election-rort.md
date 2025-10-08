@@ -1,9 +1,12 @@
 ---
 slug: pms-husband-supports-labours-election-rort
-title: "PM’s husband supports Labour’s election rort"
-date: 2007-11-18
-source-url: https://www.scoop.co.nz/stories/PA0711/S00337/pms-husband-supports-labours-election-rort.htm
+title: PM’s husband supports Labour’s election rort
+date: 2007-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00337/pms-husband-supports-labours-election-rort.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/18/pms-husband-supports-labours-election-rort/index.html
+layout: layout.njk
 ---
 PM’s husband supports Labour’s election rort
 ============================================

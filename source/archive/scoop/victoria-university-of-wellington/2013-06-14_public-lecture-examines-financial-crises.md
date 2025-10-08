@@ -1,9 +1,12 @@
 ---
 slug: public-lecture-examines-financial-crises
-title: "Public lecture examines financial crises"
-date: 2013-06-14
-source-url: https://www.scoop.co.nz/stories/ED1306/S00082/public-lecture-examines-financial-crises.htm
+title: Public lecture examines financial crises
+date: 2013-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00082/public-lecture-examines-financial-crises.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/06/14/public-lecture-examines-financial-crises/index.html
+layout: layout.njk
 ---
 Public lecture examines financial crises
 ========================================

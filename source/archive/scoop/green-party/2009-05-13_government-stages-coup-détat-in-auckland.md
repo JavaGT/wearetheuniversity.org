@@ -1,9 +1,12 @@
 ---
 slug: government-stages-coup-détat-in-auckland
-title: "Government stages coup d'état in Auckland"
-date: 2009-05-13
-source-url: https://www.scoop.co.nz/stories/PA0905/S00225/government-stages-coup-detat-in-auckland.htm
+title: Government stages coup d'état in Auckland
+date: 2009-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00225/government-stages-coup-detat-in-auckland.htm
 author: green-party
+permalink: /archive/2009/05/13/government-stages-coup-d/index.html
+layout: layout.njk
 ---
 Government stages coup d'état in Auckland
 =========================================

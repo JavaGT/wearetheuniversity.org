@@ -1,9 +1,13 @@
 ---
 slug: put-meth-cooks-on-bad-tenant-register-to-warn-landlords
-title: "Put Meth ‘Cooks’ on Bad Tenant Register to Warn Landlords"
-date: 2016-06-07
-source-url: https://www.scoop.co.nz/stories/PA1606/S00123/put-meth-cooks-on-bad-tenant-register-to-warn-landlords.htm
+title: Put Meth ‘Cooks’ on Bad Tenant Register to Warn Landlords
+date: 2016-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00123/put-meth-cooks-on-bad-tenant-register-to-warn-landlords.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/07/put-meth-cooks-on-bad-tenant-register-to-warn-landlords/index.html
+layout: layout.njk
 ---
 Put Meth ‘Cooks’ on Bad Tenant Register to Warn Landlords
 =========================================================

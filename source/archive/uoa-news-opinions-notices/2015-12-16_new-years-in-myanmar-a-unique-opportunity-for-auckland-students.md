@@ -1,8 +1,12 @@
 ---
 slug: new-years-in-myanmar-a-unique-opportunity-for-auckland-students
-title: "New Years in Myanmar a unique opportunity for Auckland students"
-date: 2015-12-16
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/myanmar-a-unique-opportunity-for-auckland-students.html
+title: New Years in Myanmar a unique opportunity for Auckland students
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/myanmar-a-unique-opportunity-for-auckland-students.html
+permalink: >-
+  /archive/2015/12/16/new-years-in-myanmar-a-unique-opportunity-for-auckland-students/index.html
+layout: layout.njk
 ---
 New Years in Myanmar a unique opportunity for Auckland students
 ===============================================================

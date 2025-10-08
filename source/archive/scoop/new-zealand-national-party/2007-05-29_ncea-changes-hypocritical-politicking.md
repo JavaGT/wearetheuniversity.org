@@ -1,9 +1,12 @@
 ---
 slug: ncea-changes-hypocritical-politicking
-title: "NCEA changes hypocritical politicking"
-date: 2007-05-29
-source-url: https://www.scoop.co.nz/stories/PA0705/S00749/ncea-changes-hypocritical-politicking.htm
+title: NCEA changes hypocritical politicking
+date: 2007-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00749/ncea-changes-hypocritical-politicking.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/29/ncea-changes-hypocritical-politicking/index.html
+layout: layout.njk
 ---
 NCEA changes hypocritical politicking
 =====================================

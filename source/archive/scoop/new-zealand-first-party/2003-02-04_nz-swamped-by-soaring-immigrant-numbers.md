@@ -1,9 +1,12 @@
 ---
 slug: nz-swamped-by-soaring-immigrant-numbers
-title: "NZ Swamped By Soaring Immigrant Numbers"
-date: 2003-02-04
-source-url: https://www.scoop.co.nz/stories/PA0302/S00029/nz-swamped-by-soaring-immigrant-numbers.htm
+title: NZ Swamped By Soaring Immigrant Numbers
+date: 2003-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00029/nz-swamped-by-soaring-immigrant-numbers.htm
 author: new-zealand-first-party
+permalink: /archive/2003/02/04/nz-swamped-by-soaring-immigrant-numbers/index.html
+layout: layout.njk
 ---
 NZ Swamped By Soaring Immigrant Numbers
 =======================================

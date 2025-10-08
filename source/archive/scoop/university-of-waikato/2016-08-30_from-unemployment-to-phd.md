@@ -1,9 +1,11 @@
 ---
 slug: from-unemployment-to-phd
-title: "From unemployment to PhD"
-date: 2016-08-30
+title: From unemployment to PhD
+date: 2016-08-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1608/S00117/from-unemployment-to-phd.htm
 author: university-of-waikato
+permalink: /archive/2016/08/30/from-unemployment-to-phd/index.html
+layout: layout.njk
 ---
 From unemployment to PhD
 ========================

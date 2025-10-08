@@ -1,9 +1,12 @@
 ---
 slug: charter-schools-now-in-hands-of-union-man
-title: "Charter schools now in hands of union man"
-date: 2018-05-09
-source-url: https://www.scoop.co.nz/stories/PA1805/S00111/charter-schools-now-in-hands-of-union-man.htm
+title: Charter schools now in hands of union man
+date: 2018-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00111/charter-schools-now-in-hands-of-union-man.htm
 author: act-new-zealand
+permalink: /archive/2018/05/09/charter-schools-now-in-hands-of-union-man/index.html
+layout: layout.njk
 ---
 Charter schools now in hands of union man
 =========================================

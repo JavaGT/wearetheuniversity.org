@@ -1,9 +1,11 @@
 ---
 slug: mallard-plays-truant-again
-title: "Mallard Plays Truant - Again"
-date: 2003-07-14
+title: Mallard Plays Truant - Again
+date: 2003-07-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0307/S00256/mallard-plays-truant-again.htm
 author: act-new-zealand
+permalink: /archive/2003/07/14/mallard-plays-truant-again/index.html
+layout: layout.njk
 ---
 Mallard Plays Truant - Again
 ============================

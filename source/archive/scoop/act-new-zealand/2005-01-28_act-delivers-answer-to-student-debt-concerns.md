@@ -1,9 +1,12 @@
 ---
 slug: act-delivers-answer-to-student-debt-concerns
-title: "ACT delivers answer to student debt concerns"
-date: 2005-01-28
-source-url: https://www.scoop.co.nz/stories/PA0501/S00285/act-delivers-answer-to-student-debt-concerns.htm
+title: ACT delivers answer to student debt concerns
+date: 2005-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00285/act-delivers-answer-to-student-debt-concerns.htm
 author: act-new-zealand
+permalink: /archive/2005/01/28/act-delivers-answer-to-student-debt-concerns/index.html
+layout: layout.njk
 ---
 ACT delivers answer to student debt concerns
 ============================================

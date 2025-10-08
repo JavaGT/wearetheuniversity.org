@@ -1,9 +1,13 @@
 ---
 slug: green-plan-would-help-restore-hutt-river-te-awakairangi
-title: "Green plan would help restore Hutt River / Te Awakairangi"
-date: 2011-08-22
-source-url: https://www.scoop.co.nz/stories/PA1108/S00460/green-plan-would-help-restore-hutt-river-te-awakairangi.htm
+title: Green plan would help restore Hutt River / Te Awakairangi
+date: 2011-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00460/green-plan-would-help-restore-hutt-river-te-awakairangi.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/22/green-plan-would-help-restore-hutt-river-te-awakairangi/index.html
+layout: layout.njk
 ---
 Green plan would help restore Hutt River / Te Awakairangi
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: inaugural-lecture-to-explore-nzs-coastal-urban-place
-title: "Inaugural lecture to explore NZ's coastal urban place"
-date: 2012-04-11
-source-url: https://www.scoop.co.nz/stories/ED1204/S00039/inaugural-lecture-to-explore-nzs-coastal-urban-place.htm
+title: Inaugural lecture to explore NZ's coastal urban place
+date: 2012-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00039/inaugural-lecture-to-explore-nzs-coastal-urban-place.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/04/11/inaugural-lecture-to-explore-nzs-coastal-urban-place/index.html
+layout: layout.njk
 ---
 Inaugural lecture to explore NZ's coastal urban place
 =====================================================

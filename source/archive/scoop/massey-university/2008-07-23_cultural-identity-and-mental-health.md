@@ -1,9 +1,12 @@
 ---
 slug: cultural-identity-and-mental-health
-title: "Cultural identity and mental health"
-date: 2008-07-23
-source-url: https://www.scoop.co.nz/stories/GE0807/S00117/cultural-identity-and-mental-health.htm
+title: Cultural identity and mental health
+date: 2008-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0807/S00117/cultural-identity-and-mental-health.htm
 author: massey-university
+permalink: /archive/2008/07/23/cultural-identity-and-mental-health/index.html
+layout: layout.njk
 ---
 Cultural identity and mental health
 ===================================

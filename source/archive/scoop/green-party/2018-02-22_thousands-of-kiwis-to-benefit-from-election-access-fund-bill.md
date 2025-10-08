@@ -1,9 +1,13 @@
 ---
 slug: thousands-of-kiwis-to-benefit-from-election-access-fund-bill
-title: "Thousands of Kiwis to benefit from Election Access Fund Bill"
-date: 2018-02-22
-source-url: https://www.scoop.co.nz/stories/PA1802/S00206/thousands-of-kiwis-to-benefit-from-election-access-fund-bill.htm
+title: Thousands of Kiwis to benefit from Election Access Fund Bill
+date: 2018-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00206/thousands-of-kiwis-to-benefit-from-election-access-fund-bill.htm
 author: green-party
+permalink: >-
+  /archive/2018/02/22/thousands-of-kiwis-to-benefit-from-election-access-fund-bill/index.html
+layout: layout.njk
 ---
 Thousands of Kiwis to benefit from Election Access Fund Bill
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: school-support-staff-to-demand-fair-pay-in-week-of-action
-title: "School support staff to demand fair pay in week of action"
-date: 2019-11-10
-source-url: https://www.scoop.co.nz/stories/ED1911/S00024/school-support-staff-to-demand-fair-pay-in-week-of-action.htm
+title: School support staff to demand fair pay in week of action
+date: 2019-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00024/school-support-staff-to-demand-fair-pay-in-week-of-action.htm
 author: nzei
+permalink: >-
+  /archive/2019/11/10/school-support-staff-to-demand-fair-pay-in-week-of-action/index.html
+layout: layout.njk
 ---
 School support staff to demand fair pay in week of action
 =========================================================

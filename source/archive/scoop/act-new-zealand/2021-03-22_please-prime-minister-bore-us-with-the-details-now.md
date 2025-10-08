@@ -1,9 +1,13 @@
 ---
 slug: please-prime-minister-bore-us-with-the-details-now
-title: "Please Prime Minister, Bore Us With The Details Now"
-date: 2021-03-22
-source-url: https://www.scoop.co.nz/stories/PA2103/S00166/please-prime-minister-bore-us-with-the-details-now.htm
+title: Please Prime Minister, Bore Us With The Details Now
+date: 2021-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00166/please-prime-minister-bore-us-with-the-details-now.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/03/22/please-prime-minister-bore-us-with-the-details-now/index.html
+layout: layout.njk
 ---
 Please Prime Minister, Bore Us With The Details Now
 ===================================================

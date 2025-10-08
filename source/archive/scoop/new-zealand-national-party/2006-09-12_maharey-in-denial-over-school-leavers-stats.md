@@ -1,9 +1,12 @@
 ---
 slug: maharey-in-denial-over-school-leavers-stats
-title: "Maharey in denial over school leavers' stats"
-date: 2006-09-12
-source-url: https://www.scoop.co.nz/stories/PA0609/S00281/maharey-in-denial-over-school-leavers-stats.htm
+title: Maharey in denial over school leavers' stats
+date: 2006-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00281/maharey-in-denial-over-school-leavers-stats.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/12/maharey-in-denial-over-school-leavers-stats/index.html
+layout: layout.njk
 ---
 Maharey in denial over school leavers' stats
 ============================================

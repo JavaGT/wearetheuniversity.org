@@ -1,9 +1,12 @@
 ---
 slug: national-backs-businesses-with-$10k-jobstart
-title: "National Backs Businesses With $10k JobStart"
-date: 2020-05-29
-source-url: https://www.scoop.co.nz/stories/PA2005/S00243/national-backs-businesses-with-10k-jobstart.htm
+title: National Backs Businesses With $10k JobStart
+date: 2020-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00243/national-backs-businesses-with-10k-jobstart.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/29/national-backs-businesses-with-/index.html
+layout: layout.njk
 ---
 National Backs Businesses With $10k JobStart
 ============================================

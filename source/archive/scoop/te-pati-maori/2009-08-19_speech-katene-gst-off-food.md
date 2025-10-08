@@ -1,9 +1,11 @@
 ---
 slug: speech-katene-gst-off-food
-title: "Speech: Katene - GST Off Food"
-date: 2009-08-19
+title: 'Speech: Katene - GST Off Food'
+date: 2009-08-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0908/S00265/speech-katene-gst-off-food.htm
 author: te-pati-maori
+permalink: /archive/2009/08/19/speech-katene-gst-off-food/index.html
+layout: layout.njk
 ---
 Speech: Katene - GST Off Food
 =============================

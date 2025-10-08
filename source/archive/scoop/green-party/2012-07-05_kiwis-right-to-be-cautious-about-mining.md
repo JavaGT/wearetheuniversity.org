@@ -1,9 +1,12 @@
 ---
 slug: kiwis-right-to-be-cautious-about-mining
-title: "Kiwis right to be cautious about mining"
-date: 2012-07-05
-source-url: https://www.scoop.co.nz/stories/PA1207/S00052/kiwis-right-to-be-cautious-about-mining.htm
+title: Kiwis right to be cautious about mining
+date: 2012-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00052/kiwis-right-to-be-cautious-about-mining.htm
 author: green-party
+permalink: /archive/2012/07/05/kiwis-right-to-be-cautious-about-mining/index.html
+layout: layout.njk
 ---
 Kiwis right to be cautious about mining
 =======================================

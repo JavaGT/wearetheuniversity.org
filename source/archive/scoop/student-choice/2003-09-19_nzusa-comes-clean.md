@@ -1,9 +1,11 @@
 ---
 slug: nzusa-comes-clean
-title: "NZUSA comes clean"
-date: 2003-09-19
+title: NZUSA comes clean
+date: 2003-09-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00081/nzusa-comes-clean.htm
 author: student-choice
+permalink: /archive/2003/09/19/nzusa-comes-clean/index.html
+layout: layout.njk
 ---
 NZUSA comes clean
 =================

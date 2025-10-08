@@ -1,9 +1,13 @@
 ---
 slug: young-nats-call-on-student-union-leaders-to-be-honest
-title: "Young Nats call on student union leaders to be honest"
-date: 2011-09-27
-source-url: https://www.scoop.co.nz/stories/PO1109/S00392/young-nats-call-on-student-union-leaders-to-be-honest.htm
+title: Young Nats call on student union leaders to be honest
+date: 2011-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00392/young-nats-call-on-student-union-leaders-to-be-honest.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2011/09/27/young-nats-call-on-student-union-leaders-to-be-honest/index.html
+layout: layout.njk
 ---
 Young Nats call on student union leaders to be honest
 =====================================================

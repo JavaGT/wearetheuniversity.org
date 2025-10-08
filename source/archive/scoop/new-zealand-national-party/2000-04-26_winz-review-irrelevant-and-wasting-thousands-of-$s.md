@@ -1,9 +1,13 @@
 ---
 slug: winz-review-irrelevant-and-wasting-thousands-of-$s
-title: "WINZ review irrelevant and wasting thousands of $s"
-date: 2000-04-26
-source-url: https://www.scoop.co.nz/stories/PA0004/S00317/winz-review-irrelevant-and-wasting-thousands-of-s.htm
+title: WINZ review irrelevant and wasting thousands of $s
+date: 2000-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00317/winz-review-irrelevant-and-wasting-thousands-of-s.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/04/26/winz-review-irrelevant-and-wasting-thousands-of-/index.html
+layout: layout.njk
 ---
 WINZ review irrelevant and wasting thousands of $s
 ==================================================

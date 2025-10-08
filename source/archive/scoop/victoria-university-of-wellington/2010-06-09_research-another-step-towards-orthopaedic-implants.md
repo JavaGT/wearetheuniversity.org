@@ -1,9 +1,13 @@
 ---
 slug: research-another-step-towards-orthopaedic-implants
-title: "Research another step towards orthopaedic implants"
-date: 2010-06-09
-source-url: https://www.scoop.co.nz/stories/GE1006/S00038/research-another-step-towards-orthopaedic-implants.htm
+title: Research another step towards orthopaedic implants
+date: 2010-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1006/S00038/research-another-step-towards-orthopaedic-implants.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/06/09/research-another-step-towards-orthopaedic-implants/index.html
+layout: layout.njk
 ---
 Research another step towards orthopaedic implants
 ==================================================

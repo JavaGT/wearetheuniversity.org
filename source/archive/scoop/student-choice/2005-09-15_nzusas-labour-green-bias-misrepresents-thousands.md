@@ -1,9 +1,13 @@
 ---
 slug: nzusas-labour-green-bias-misrepresents-thousands
-title: "NZUSA's Labour-Green bias misrepresents thousands"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/ED0509/S00054/nzusas-labour-green-bias-misrepresents-thousands.htm
+title: NZUSA's Labour-Green bias misrepresents thousands
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00054/nzusas-labour-green-bias-misrepresents-thousands.htm
 author: student-choice
+permalink: >-
+  /archive/2005/09/15/nzusas-labour-green-bias-misrepresents-thousands/index.html
+layout: layout.njk
 ---
 NZUSA's Labour-Green bias misrepresents thousands
 =================================================

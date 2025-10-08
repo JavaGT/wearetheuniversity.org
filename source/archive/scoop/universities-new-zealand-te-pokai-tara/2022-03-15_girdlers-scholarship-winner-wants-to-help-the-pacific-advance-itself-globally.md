@@ -1,9 +1,13 @@
 ---
 slug: girdlers-scholarship-winner-wants-to-help-the-pacific-advance-itself-globally
-title: "Girdlers’ Scholarship Winner Wants To Help The Pacific Advance Itself Globally"
-date: 2022-03-15
-source-url: https://www.scoop.co.nz/stories/ED2203/S00021/girdlers-scholarship-winner-wants-to-help-the-pacific-advance-itself-globally.htm
+title: Girdlers’ Scholarship Winner Wants To Help The Pacific Advance Itself Globally
+date: 2022-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00021/girdlers-scholarship-winner-wants-to-help-the-pacific-advance-itself-globally.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/03/15/girdlers-scholarship-winner-wants-to-help-the-pacific-advance-itself-globally/index.html
+layout: layout.njk
 ---
 Girdlers’ Scholarship Winner Wants To Help The Pacific Advance Itself Globally
 ==============================================================================

@@ -1,9 +1,13 @@
 ---
 slug: otago-takes-precautions-to-control-meningococcal-c
-title: "Otago Takes Precautions To Control Meningococcal C"
-date: 2003-08-25
-source-url: https://www.scoop.co.nz/stories/GE0308/S00071/otago-takes-precautions-to-control-meningococcal-c.htm
+title: Otago Takes Precautions To Control Meningococcal C
+date: 2003-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0308/S00071/otago-takes-precautions-to-control-meningococcal-c.htm
 author: university-of-otago
+permalink: >-
+  /archive/2003/08/25/otago-takes-precautions-to-control-meningococcal-c/index.html
+layout: layout.njk
 ---
 Otago Takes Precautions To Control Meningococcal C
 ==================================================

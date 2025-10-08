@@ -1,9 +1,13 @@
 ---
 slug: minister-must-step-up-and-support-canterbury-university
-title: "Minister must step up and support Canterbury University"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/PA1304/S00218/minister-must-step-up-and-support-canterbury-university.htm
+title: Minister must step up and support Canterbury University
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00218/minister-must-step-up-and-support-canterbury-university.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/04/11/minister-must-step-up-and-support-canterbury-university/index.html
+layout: layout.njk
 ---
 Minister must step up and support Canterbury University
 =======================================================

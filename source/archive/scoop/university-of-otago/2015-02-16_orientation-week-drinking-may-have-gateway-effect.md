@@ -1,9 +1,13 @@
 ---
 slug: orientation-week-drinking-may-have-gateway-effect
-title: "Orientation week drinking may have gateway effect"
-date: 2015-02-16
-source-url: https://www.scoop.co.nz/stories/GE1502/S00046/orientation-week-drinking-may-have-gateway-effect.htm
+title: Orientation week drinking may have gateway effect
+date: 2015-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1502/S00046/orientation-week-drinking-may-have-gateway-effect.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/02/16/orientation-week-drinking-may-have-gateway-effect/index.html
+layout: layout.njk
 ---
 Orientation week drinking may have gateway effect
 =================================================

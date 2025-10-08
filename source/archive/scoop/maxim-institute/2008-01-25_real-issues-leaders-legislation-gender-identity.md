@@ -1,9 +1,12 @@
 ---
 slug: real-issues-leaders-legislation-gender-identity
-title: "Real Issues: Leaders, Legislation, Gender Identity"
-date: 2008-01-25
-source-url: https://www.scoop.co.nz/stories/PO0801/S00170/real-issues-leaders-legislation-gender-identity.htm
+title: 'Real Issues: Leaders, Legislation, Gender Identity'
+date: 2008-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0801/S00170/real-issues-leaders-legislation-gender-identity.htm
 author: maxim-institute
+permalink: /archive/2008/01/25/real-issues-leaders-legislation-gender-identity/index.html
+layout: layout.njk
 ---
 Real Issues: Leaders, Legislation, Gender Identity
 ==================================================

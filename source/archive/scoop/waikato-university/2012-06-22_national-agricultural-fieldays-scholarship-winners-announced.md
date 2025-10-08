@@ -1,9 +1,13 @@
 ---
 slug: national-agricultural-fieldays-scholarship-winners-announced
-title: "National Agricultural Fieldays Scholarship winners announced"
-date: 2012-06-22
-source-url: https://www.scoop.co.nz/stories/ED1206/S00107/national-agricultural-fieldays-scholarship-winners-announced.htm
+title: National Agricultural Fieldays Scholarship winners announced
+date: 2012-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00107/national-agricultural-fieldays-scholarship-winners-announced.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/06/22/national-agricultural-fieldays-scholarship-winners-announced/index.html
+layout: layout.njk
 ---
 National Agricultural Fieldays Scholarship winners announced
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: todd-muller-thanks-outgoing-mp-paula-bennett
-title: "Todd Muller Thanks Outgoing MP Paula Bennett"
-date: 2020-06-29
-source-url: https://www.scoop.co.nz/stories/PA2006/S00273/todd-muller-thanks-outgoing-mp-paula-bennett.htm
+title: Todd Muller Thanks Outgoing MP Paula Bennett
+date: 2020-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00273/todd-muller-thanks-outgoing-mp-paula-bennett.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/29/todd-muller-thanks-outgoing-mp-paula-bennett/index.html
+layout: layout.njk
 ---
 Todd Muller Thanks Outgoing MP Paula Bennett
 ============================================

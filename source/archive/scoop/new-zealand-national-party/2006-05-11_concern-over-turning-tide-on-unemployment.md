@@ -1,9 +1,12 @@
 ---
 slug: concern-over-turning-tide-on-unemployment
-title: "Concern over turning tide on unemployment"
-date: 2006-05-11
-source-url: https://www.scoop.co.nz/stories/PA0605/S00269/concern-over-turning-tide-on-unemployment.htm
+title: Concern over turning tide on unemployment
+date: 2006-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00269/concern-over-turning-tide-on-unemployment.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/11/concern-over-turning-tide-on-unemployment/index.html
+layout: layout.njk
 ---
 Concern over turning tide on unemployment
 =========================================

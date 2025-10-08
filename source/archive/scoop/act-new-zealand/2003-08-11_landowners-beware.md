@@ -1,9 +1,11 @@
 ---
 slug: landowners-beware
-title: "Landowners Beware"
-date: 2003-08-11
+title: Landowners Beware
+date: 2003-08-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0308/S00215/landowners-beware.htm
 author: act-new-zealand
+permalink: /archive/2003/08/11/landowners-beware/index.html
+layout: layout.njk
 ---
 Landowners Beware
 =================

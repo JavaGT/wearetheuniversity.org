@@ -1,9 +1,12 @@
 ---
 slug: speech-and-language-therapy-degree-accredited
-title: "Speech and Language Therapy Degree Accredited"
-date: 2004-02-09
-source-url: https://www.scoop.co.nz/stories/ED0402/S00013/speech-and-language-therapy-degree-accredited.htm
+title: Speech and Language Therapy Degree Accredited
+date: 2004-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00013/speech-and-language-therapy-degree-accredited.htm
 author: university-of-canterbury
+permalink: /archive/2004/02/09/speech-and-language-therapy-degree-accredited/index.html
+layout: layout.njk
 ---
 Speech and Language Therapy Degree Accredited
 =============================================

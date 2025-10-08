@@ -1,9 +1,13 @@
 ---
 slug: university-staff-mourn-loss-of-green-party-leader
-title: "University Staff Mourn Loss of Green Party Leader"
-date: 2005-11-06
-source-url: https://www.scoop.co.nz/stories/PO0511/S00037/university-staff-mourn-loss-of-green-party-leader.htm
+title: University Staff Mourn Loss of Green Party Leader
+date: 2005-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0511/S00037/university-staff-mourn-loss-of-green-party-leader.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2005/11/06/university-staff-mourn-loss-of-green-party-leader/index.html
+layout: layout.njk
 ---
 University Staff Mourn Loss of Green Party Leader
 =================================================

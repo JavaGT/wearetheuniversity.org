@@ -1,9 +1,11 @@
 ---
 slug: halt-the-march-of-black-foot!
-title: "Halt The March Of Black Foot!"
-date: 2012-08-31
+title: Halt The March Of Black Foot!
+date: 2012-08-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1208/S00088/halt-the-march-of-black-foot.htm
 author: lincoln-university
+permalink: /archive/2012/08/31/halt-the-march-of-black-foot/index.html
+layout: layout.njk
 ---
 Halt The March Of Black Foot!
 =============================

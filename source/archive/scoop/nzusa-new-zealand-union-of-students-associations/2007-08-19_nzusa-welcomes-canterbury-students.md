@@ -1,9 +1,12 @@
 ---
 slug: nzusa-welcomes-canterbury-students
-title: "NZUSA welcomes Canterbury students"
-date: 2007-08-19
-source-url: https://www.scoop.co.nz/stories/PO0708/S00259/nzusa-welcomes-canterbury-students.htm
+title: NZUSA welcomes Canterbury students
+date: 2007-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0708/S00259/nzusa-welcomes-canterbury-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2007/08/19/nzusa-welcomes-canterbury-students/index.html
+layout: layout.njk
 ---
 NZUSA welcomes Canterbury students
 ==================================

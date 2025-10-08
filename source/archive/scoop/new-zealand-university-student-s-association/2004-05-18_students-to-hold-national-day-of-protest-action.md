@@ -1,9 +1,12 @@
 ---
 slug: students-to-hold-national-day-of-protest-action
-title: "Students to hold national day of protest action"
-date: 2004-05-18
-source-url: https://www.scoop.co.nz/stories/ED0405/S00065/students-to-hold-national-day-of-protest-action.htm
+title: Students to hold national day of protest action
+date: 2004-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00065/students-to-hold-national-day-of-protest-action.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/05/18/students-to-hold-national-day-of-protest-action/index.html
+layout: layout.njk
 ---
 Students to hold national day of protest action
 ===============================================

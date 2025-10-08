@@ -1,9 +1,12 @@
 ---
 slug: act-backs-routine-dna-sampling-of-criminals
-title: "ACT Backs Routine DNA Sampling Of Criminals"
-date: 2002-02-27
-source-url: https://www.scoop.co.nz/stories/PA0202/S00414/act-backs-routine-dna-sampling-of-criminals.htm
+title: ACT Backs Routine DNA Sampling Of Criminals
+date: 2002-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00414/act-backs-routine-dna-sampling-of-criminals.htm
 author: act-new-zealand
+permalink: /archive/2002/02/27/act-backs-routine-dna-sampling-of-criminals/index.html
+layout: layout.njk
 ---
 ACT Backs Routine DNA Sampling Of Criminals
 ===========================================

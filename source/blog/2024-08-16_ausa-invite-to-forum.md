@@ -1,11 +1,19 @@
 ---
+layout: layout.njk
 title: AUSA Invite To Forum
 slug: ausa-invite-to-forum
-date: 2024-08-16
+date: 2024-08-16T00:00:00.000Z
 source: https://burn-it.github.io/Disorientation/small-classes/resources/
 author: We Are The University (formerly Concerned Students)
 author-url: https://burn-it.github.io/Disorientation/small-classes/
 author-slug: we-are-the-university
+permalink: /blog/2024/08/16/ausa-invite-to-forum/index.html
+excerpt: >-
+  16 August 2024 Auckland University Student Association Attention: President,
+  Alan Shaker 4 Alfred Street Auckland CBD, Auckland 1010 Subject: Course
+  cutting student forum, 22nd August 2:30 pm, HSB B201 Foyer Tēnā koe Alan, Many
+  students at Waipapa Taumata Rau – University of Auckland have concerns
+  regarding central University’s ‘accelerated “optimisation”...
 ---
 16 August 2024
 Auckland University Student Association

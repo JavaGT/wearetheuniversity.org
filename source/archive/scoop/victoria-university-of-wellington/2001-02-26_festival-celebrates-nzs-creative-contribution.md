@@ -1,9 +1,12 @@
 ---
 slug: festival-celebrates-nzs-creative-contribution
-title: "Festival celebrates NZ's creative contribution"
-date: 2001-02-26
-source-url: https://www.scoop.co.nz/stories/CU0102/S00058/festival-celebrates-nzs-creative-contribution.htm
+title: Festival celebrates NZ's creative contribution
+date: 2001-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0102/S00058/festival-celebrates-nzs-creative-contribution.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/02/26/festival-celebrates-nzs-creative-contribution/index.html
+layout: layout.njk
 ---
 Festival celebrates NZ's creative contribution
 ==============================================

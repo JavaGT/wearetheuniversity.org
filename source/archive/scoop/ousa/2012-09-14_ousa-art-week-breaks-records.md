@@ -1,9 +1,11 @@
 ---
 slug: ousa-art-week-breaks-records
-title: "OUSA Art Week breaks records"
-date: 2012-09-14
+title: OUSA Art Week breaks records
+date: 2012-09-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1209/S00285/ousa-art-week-breaks-records.htm
 author: ousa
+permalink: /archive/2012/09/14/ousa-art-week-breaks-records/index.html
+layout: layout.njk
 ---
 OUSA Art Week breaks records
 ============================

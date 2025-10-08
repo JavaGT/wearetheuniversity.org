@@ -1,9 +1,12 @@
 ---
 slug: pm-guarantees-interest-free-loans-will-stay
-title: "PM guarantees interest free loans will stay"
-date: 2009-05-12
-source-url: https://www.scoop.co.nz/stories/ED0905/S00045/pm-guarantees-interest-free-loans-will-stay.htm
+title: PM guarantees interest free loans will stay
+date: 2009-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00045/pm-guarantees-interest-free-loans-will-stay.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/05/12/pm-guarantees-interest-free-loans-will-stay/index.html
+layout: layout.njk
 ---
 PM guarantees interest free loans will stay
 ===========================================

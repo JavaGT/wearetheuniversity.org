@@ -1,9 +1,12 @@
 ---
 slug: public-lecture-series-targets-boys-learning
-title: "Public Lecture Series Targets Boys’ Learning"
-date: 2009-02-12
-source-url: https://www.scoop.co.nz/stories/ED0902/S00039/public-lecture-series-targets-boys-learning.htm
+title: Public Lecture Series Targets Boys’ Learning
+date: 2009-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00039/public-lecture-series-targets-boys-learning.htm
 author: university-of-waikato
+permalink: /archive/2009/02/12/public-lecture-series-targets-boys-learning/index.html
+layout: layout.njk
 ---
 Public Lecture Series Targets Boys’ Learning
 ============================================

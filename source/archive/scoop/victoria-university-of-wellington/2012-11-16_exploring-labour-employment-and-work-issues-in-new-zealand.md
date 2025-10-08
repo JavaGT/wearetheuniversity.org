@@ -1,9 +1,13 @@
 ---
 slug: exploring-labour-employment-and-work-issues-in-new-zealand
-title: "Exploring labour, employment and work issues in New Zealand"
-date: 2012-11-16
-source-url: https://www.scoop.co.nz/stories/PO1211/S00247/exploring-labour-employment-and-work-issues-in-new-zealand.htm
+title: Exploring labour, employment and work issues in New Zealand
+date: 2012-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00247/exploring-labour-employment-and-work-issues-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/11/16/exploring-labour-employment-and-work-issues-in-new-zealand/index.html
+layout: layout.njk
 ---
 Exploring labour, employment and work issues in New Zealand
 ===========================================================

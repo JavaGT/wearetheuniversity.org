@@ -1,9 +1,12 @@
 ---
 slug: peter-schwerdtfeger-awarded-rutherford-medal
-title: "Peter Schwerdtfeger awarded Rutherford Medal"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/SC1411/S00076/peter-schwerdtfeger-awarded-rutherford-medal.htm
+title: Peter Schwerdtfeger awarded Rutherford Medal
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00076/peter-schwerdtfeger-awarded-rutherford-medal.htm
 author: massey-university
+permalink: /archive/2014/11/27/peter-schwerdtfeger-awarded-rutherford-medal/index.html
+layout: layout.njk
 ---
 Peter Schwerdtfeger awarded Rutherford Medal
 ============================================

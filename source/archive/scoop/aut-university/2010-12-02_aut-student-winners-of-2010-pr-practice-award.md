@@ -1,9 +1,12 @@
 ---
 slug: aut-student-winners-of-2010-pr-practice-award
-title: "AUT student winners of 2010 PR Practice Award"
-date: 2010-12-02
-source-url: https://www.scoop.co.nz/stories/ED1012/S00013/aut-student-winners-of-2010-pr-practice-award.htm
+title: AUT student winners of 2010 PR Practice Award
+date: 2010-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00013/aut-student-winners-of-2010-pr-practice-award.htm
 author: aut-university
+permalink: /archive/2010/12/02/aut-student-winners-of-2010-pr-practice-award/index.html
+layout: layout.njk
 ---
 AUT student winners of 2010 PR Practice Award
 =============================================

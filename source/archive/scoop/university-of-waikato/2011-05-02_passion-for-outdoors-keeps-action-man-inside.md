@@ -1,9 +1,12 @@
 ---
 slug: passion-for-outdoors-keeps-action-man-inside
-title: "Passion for outdoors keeps action man inside"
-date: 2011-05-02
-source-url: https://www.scoop.co.nz/stories/ED1105/S00002/passion-for-outdoors-keeps-action-man-inside.htm
+title: Passion for outdoors keeps action man inside
+date: 2011-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00002/passion-for-outdoors-keeps-action-man-inside.htm
 author: university-of-waikato
+permalink: /archive/2011/05/02/passion-for-outdoors-keeps-action-man-inside/index.html
+layout: layout.njk
 ---
 Passion for outdoors keeps action man inside
 ============================================

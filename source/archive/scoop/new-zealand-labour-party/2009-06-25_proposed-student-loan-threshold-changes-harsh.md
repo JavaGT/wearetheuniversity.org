@@ -1,9 +1,12 @@
 ---
 slug: proposed-student-loan-threshold-changes-harsh
-title: "Proposed student loan threshold changes harsh"
-date: 2009-06-25
-source-url: https://www.scoop.co.nz/stories/PA0906/S00341/proposed-student-loan-threshold-changes-harsh.htm
+title: Proposed student loan threshold changes harsh
+date: 2009-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00341/proposed-student-loan-threshold-changes-harsh.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/25/proposed-student-loan-threshold-changes-harsh/index.html
+layout: layout.njk
 ---
 Proposed student loan threshold changes harsh
 =============================================

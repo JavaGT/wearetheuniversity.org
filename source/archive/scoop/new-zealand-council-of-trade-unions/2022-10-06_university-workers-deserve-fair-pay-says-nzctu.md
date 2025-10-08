@@ -1,9 +1,12 @@
 ---
 slug: university-workers-deserve-fair-pay-says-nzctu
-title: "University Workers Deserve Fair Pay Says NZCTU"
-date: 2022-10-06
-source-url: https://www.scoop.co.nz/stories/PO2210/S00036/university-workers-deserve-fair-pay-says-nzctu.htm
+title: University Workers Deserve Fair Pay Says NZCTU
+date: 2022-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2210/S00036/university-workers-deserve-fair-pay-says-nzctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2022/10/06/university-workers-deserve-fair-pay-says-nzctu/index.html
+layout: layout.njk
 ---
 University Workers Deserve Fair Pay Says NZCTU
 ==============================================

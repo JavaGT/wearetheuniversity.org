@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-congratulates-new-governor-general
-title: "Victoria University congratulates new Governor-General"
-date: 2016-03-22
-source-url: https://www.scoop.co.nz/stories/PO1603/S00368/victoria-university-congratulates-new-governor-general.htm
+title: Victoria University congratulates new Governor-General
+date: 2016-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00368/victoria-university-congratulates-new-governor-general.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/03/22/victoria-university-congratulates-new-governor-general/index.html
+layout: layout.njk
 ---
 Victoria University congratulates new Governor-General
 ======================================================

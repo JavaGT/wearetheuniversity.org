@@ -1,9 +1,12 @@
 ---
 slug: mild-brain-injuries-may-have-widespread-impact
-title: "Mild brain injuries may have widespread impact"
-date: 2019-04-17
-source-url: https://www.scoop.co.nz/stories/GE1904/S00054/mild-brain-injuries-may-have-widespread-impact.htm
+title: Mild brain injuries may have widespread impact
+date: 2019-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1904/S00054/mild-brain-injuries-may-have-widespread-impact.htm
 author: aut-university
+permalink: /archive/2019/04/17/mild-brain-injuries-may-have-widespread-impact/index.html
+layout: layout.njk
 ---
 Mild brain injuries may have widespread impact
 ==============================================

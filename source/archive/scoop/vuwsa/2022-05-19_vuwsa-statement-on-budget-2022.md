@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-statement-on-budget-2022
-title: "VUWSA Statement On Budget 2022"
-date: 2022-05-19
-source-url: https://www.scoop.co.nz/stories/PO2205/S00185/vuwsa-statement-on-budget-2022.htm
+title: VUWSA Statement On Budget 2022
+date: 2022-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2205/S00185/vuwsa-statement-on-budget-2022.htm
 author: vuwsa
+permalink: /archive/2022/05/19/vuwsa-statement-on-budget-2022/index.html
+layout: layout.njk
 ---
 VUWSA Statement On Budget 2022
 ==============================

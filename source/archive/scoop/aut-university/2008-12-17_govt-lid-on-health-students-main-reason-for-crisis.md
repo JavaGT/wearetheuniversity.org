@@ -1,9 +1,13 @@
 ---
 slug: govt-lid-on-health-students-main-reason-for-crisis
-title: "Govt lid on health students main reason for crisis"
-date: 2008-12-17
-source-url: https://www.scoop.co.nz/stories/ED0812/S00070/govt-lid-on-health-students-main-reason-for-crisis.htm
+title: Govt lid on health students main reason for crisis
+date: 2008-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00070/govt-lid-on-health-students-main-reason-for-crisis.htm
 author: aut-university
+permalink: >-
+  /archive/2008/12/17/govt-lid-on-health-students-main-reason-for-crisis/index.html
+layout: layout.njk
 ---
 Govt lid on health students main reason for crisis
 ==================================================

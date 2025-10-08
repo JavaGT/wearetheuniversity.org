@@ -1,9 +1,12 @@
 ---
 slug: nick-smith-hides-shameful-vacant-house-numbers
-title: "Nick Smith hides shameful vacant house numbers"
-date: 2014-07-31
-source-url: https://www.scoop.co.nz/stories/PA1407/S00649/nick-smith-hides-shameful-vacant-house-numbers.htm
+title: Nick Smith hides shameful vacant house numbers
+date: 2014-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00649/nick-smith-hides-shameful-vacant-house-numbers.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/31/nick-smith-hides-shameful-vacant-house-numbers/index.html
+layout: layout.njk
 ---
 Nick Smith hides shameful vacant house numbers
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-legacy-of-mortgage-misery
-title: "Labour’s Legacy Of Mortgage Misery"
-date: 2023-10-03
-source-url: https://www.scoop.co.nz/stories/PA2310/S00021/labours-legacy-of-mortgage-misery.htm
+title: Labour’s Legacy Of Mortgage Misery
+date: 2023-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00021/labours-legacy-of-mortgage-misery.htm
 author: new-zealand-national-party
+permalink: /archive/2023/10/03/labours-legacy-of-mortgage-misery/index.html
+layout: layout.njk
 ---
 Labour’s Legacy Of Mortgage Misery
 ==================================

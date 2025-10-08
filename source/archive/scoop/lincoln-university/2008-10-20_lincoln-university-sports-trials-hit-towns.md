@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-sports-trials-hit-towns
-title: "Lincoln University Sports Trials Hit Towns"
-date: 2008-10-20
-source-url: https://www.scoop.co.nz/stories/ED0810/S00081/lincoln-university-sports-trials-hit-towns.htm
+title: Lincoln University Sports Trials Hit Towns
+date: 2008-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00081/lincoln-university-sports-trials-hit-towns.htm
 author: lincoln-university
+permalink: /archive/2008/10/20/lincoln-university-sports-trials-hit-towns/index.html
+layout: layout.njk
 ---
 Lincoln University Sports Trials Hit Towns
 ==========================================

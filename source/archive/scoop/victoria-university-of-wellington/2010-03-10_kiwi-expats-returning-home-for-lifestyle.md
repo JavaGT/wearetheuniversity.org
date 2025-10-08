@@ -1,9 +1,12 @@
 ---
 slug: kiwi-expats-returning-home-for-lifestyle
-title: "Kiwi expats returning home for lifestyle"
-date: 2010-03-10
-source-url: https://www.scoop.co.nz/stories/ED1003/S00044/kiwi-expats-returning-home-for-lifestyle.htm
+title: Kiwi expats returning home for lifestyle
+date: 2010-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00044/kiwi-expats-returning-home-for-lifestyle.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/03/10/kiwi-expats-returning-home-for-lifestyle/index.html
+layout: layout.njk
 ---
 Kiwi expats returning home for lifestyle
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: national-must-guarantee-state-homes-cant-be-flicked-off
-title: "National must guarantee state homes can’t be flicked off"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/PA1506/S00537/national-must-guarantee-state-homes-cant-be-flicked-off.htm
+title: National must guarantee state homes can’t be flicked off
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00537/national-must-guarantee-state-homes-cant-be-flicked-off.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/30/national-must-guarantee-state-homes-cant-be-flicked-off/index.html
+layout: layout.njk
 ---
 National must guarantee state homes can’t be flicked off
 ========================================================

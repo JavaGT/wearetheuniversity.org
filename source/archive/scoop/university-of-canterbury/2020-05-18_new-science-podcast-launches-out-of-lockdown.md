@@ -1,9 +1,12 @@
 ---
 slug: new-science-podcast-launches-out-of-lockdown
-title: "New Science Podcast Launches Out Of Lockdown"
-date: 2020-05-18
-source-url: https://www.scoop.co.nz/stories/CU2005/S00108/new-science-podcast-launches-out-of-lockdown.htm
+title: New Science Podcast Launches Out Of Lockdown
+date: 2020-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2005/S00108/new-science-podcast-launches-out-of-lockdown.htm
 author: university-of-canterbury
+permalink: /archive/2020/05/18/new-science-podcast-launches-out-of-lockdown/index.html
+layout: layout.njk
 ---
 New Science Podcast Launches Out Of Lockdown
 ============================================

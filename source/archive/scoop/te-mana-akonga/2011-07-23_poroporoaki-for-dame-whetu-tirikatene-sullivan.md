@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-for-dame-whetu-tirikatene-sullivan
-title: "Poroporoaki for Dame Whetu Tirikatene-Sullivan"
-date: 2011-07-23
-source-url: https://www.scoop.co.nz/stories/PO1107/S00264/poroporoaki-for-dame-whetu-tirikatene-sullivan.htm
+title: Poroporoaki for Dame Whetu Tirikatene-Sullivan
+date: 2011-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00264/poroporoaki-for-dame-whetu-tirikatene-sullivan.htm
 author: te-mana-akonga
+permalink: /archive/2011/07/23/poroporoaki-for-dame-whetu-tirikatene-sullivan/index.html
+layout: layout.njk
 ---
 Poroporoaki for Dame Whetu Tirikatene-Sullivan
 ==============================================

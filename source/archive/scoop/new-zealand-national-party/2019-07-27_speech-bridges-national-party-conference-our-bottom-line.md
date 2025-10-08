@@ -1,9 +1,13 @@
 ---
 slug: speech-bridges-national-party-conference-our-bottom-line
-title: "Speech: Bridges - National Party Conference. Our bottom line"
-date: 2019-07-27
-source-url: https://www.scoop.co.nz/stories/PA1907/S00222/speech-bridges-national-party-conference-our-bottom-line.htm
+title: 'Speech: Bridges - National Party Conference. Our bottom line'
+date: 2019-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00222/speech-bridges-national-party-conference-our-bottom-line.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/07/27/speech-bridges-national-party-conference-our-bottom-line/index.html
+layout: layout.njk
 ---
 Speech: Bridges - National Party Conference. Our bottom line
 ============================================================

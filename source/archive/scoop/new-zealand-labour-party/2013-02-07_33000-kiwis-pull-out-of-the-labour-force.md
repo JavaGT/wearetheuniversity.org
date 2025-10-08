@@ -1,9 +1,12 @@
 ---
 slug: 33000-kiwis-pull-out-of-the-labour-force
-title: "33,000 Kiwis pull out of the labour force"
-date: 2013-02-07
-source-url: https://www.scoop.co.nz/stories/PA1302/S00066/33000-kiwis-pull-out-of-the-labour-force.htm
+title: 33,000 Kiwis pull out of the labour force
+date: 2013-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00066/33000-kiwis-pull-out-of-the-labour-force.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/07/33000-kiwis-pull-out-of-the-labour-force/index.html
+layout: layout.njk
 ---
 33,000 Kiwis pull out of the labour force
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: corporate-braindrain-under-national
-title: "Corporate braindrain under National"
-date: 1999-11-04
-source-url: https://www.scoop.co.nz/stories/PA9911/S00110/corporate-braindrain-under-national.htm
+title: Corporate braindrain under National
+date: 1999-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00110/corporate-braindrain-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/04/corporate-braindrain-under-national/index.html
+layout: layout.njk
 ---
 Corporate braindrain under National
 ===================================

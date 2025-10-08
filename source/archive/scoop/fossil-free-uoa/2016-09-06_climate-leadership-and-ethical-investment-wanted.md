@@ -1,9 +1,13 @@
 ---
 slug: climate-leadership-and-ethical-investment-wanted
-title: "Climate Leadership and Ethical Investment wanted"
-date: 2016-09-06
-source-url: https://www.scoop.co.nz/stories/ED1609/S00035/climate-leadership-and-ethical-investment-wanted.htm
+title: Climate Leadership and Ethical Investment wanted
+date: 2016-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00035/climate-leadership-and-ethical-investment-wanted.htm
 author: fossil-free-uoa
+permalink: >-
+  /archive/2016/09/06/climate-leadership-and-ethical-investment-wanted/index.html
+layout: layout.njk
 ---
 Climate Leadership and Ethical Investment wanted
 ================================================

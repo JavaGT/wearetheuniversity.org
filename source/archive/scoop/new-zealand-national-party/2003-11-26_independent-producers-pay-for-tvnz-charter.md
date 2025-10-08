@@ -1,9 +1,12 @@
 ---
 slug: independent-producers-pay-for-tvnz-charter
-title: "Independent Producers Pay For TVNZ Charter"
-date: 2003-11-26
-source-url: https://www.scoop.co.nz/stories/PA0311/S00529/independent-producers-pay-for-tvnz-charter.htm
+title: Independent Producers Pay For TVNZ Charter
+date: 2003-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00529/independent-producers-pay-for-tvnz-charter.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/26/independent-producers-pay-for-tvnz-charter/index.html
+layout: layout.njk
 ---
 Independent Producers Pay For TVNZ Charter
 ==========================================

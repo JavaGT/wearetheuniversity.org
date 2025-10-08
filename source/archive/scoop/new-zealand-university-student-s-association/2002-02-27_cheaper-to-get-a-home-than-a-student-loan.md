@@ -1,9 +1,12 @@
 ---
 slug: cheaper-to-get-a-home-than-a-student-loan
-title: "Cheaper To Get A Home Than A Student Loan"
-date: 2002-02-27
-source-url: https://www.scoop.co.nz/stories/ED0202/S00034/cheaper-to-get-a-home-than-a-student-loan.htm
+title: Cheaper To Get A Home Than A Student Loan
+date: 2002-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00034/cheaper-to-get-a-home-than-a-student-loan.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/02/27/cheaper-to-get-a-home-than-a-student-loan/index.html
+layout: layout.njk
 ---
 Cheaper To Get A Home Than A Student Loan
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: time-to-fire-up-whirinaki-says-national
-title: "Time to fire up Whirinaki, says National"
-date: 2006-03-02
-source-url: https://www.scoop.co.nz/stories/PA0603/S00054/time-to-fire-up-whirinaki-says-national.htm
+title: Time to fire up Whirinaki, says National
+date: 2006-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00054/time-to-fire-up-whirinaki-says-national.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/02/time-to-fire-up-whirinaki-says-national/index.html
+layout: layout.njk
 ---
 Time to fire up Whirinaki, says National
 ========================================

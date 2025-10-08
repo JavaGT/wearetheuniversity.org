@@ -1,9 +1,12 @@
 ---
 slug: dean-prepares-to-present-party-pills-petition
-title: "Dean Prepares to Present Party Pills Petition"
-date: 2006-03-13
-source-url: https://www.scoop.co.nz/stories/PA0603/S00202/dean-prepares-to-present-party-pills-petition.htm
+title: Dean Prepares to Present Party Pills Petition
+date: 2006-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00202/dean-prepares-to-present-party-pills-petition.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/13/dean-prepares-to-present-party-pills-petition/index.html
+layout: layout.njk
 ---
 Dean Prepares to Present Party Pills Petition
 =============================================

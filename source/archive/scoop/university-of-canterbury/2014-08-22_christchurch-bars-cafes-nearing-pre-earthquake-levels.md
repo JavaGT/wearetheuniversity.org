@@ -1,9 +1,13 @@
 ---
 slug: christchurch-bars-cafes-nearing-pre-earthquake-levels
-title: "Christchurch bars, cafes nearing pre-earthquake levels"
-date: 2014-08-22
-source-url: https://www.scoop.co.nz/stories/AK1408/S00439/christchurch-bars-cafes-nearing-pre-earthquake-levels.htm
+title: Christchurch bars, cafes nearing pre-earthquake levels
+date: 2014-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00439/christchurch-bars-cafes-nearing-pre-earthquake-levels.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/22/christchurch-bars-cafes-nearing-pre-earthquake-levels/index.html
+layout: layout.njk
 ---
 Christchurch bars, cafes nearing pre-earthquake levels
 ======================================================

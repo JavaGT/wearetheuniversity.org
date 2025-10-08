@@ -1,9 +1,13 @@
 ---
 slug: national-selects-joanne-hayes-as-dunedin-south-candidate
-title: "National Selects Joanne Hayes as Dunedin South Candidate"
-date: 2011-05-16
-source-url: https://www.scoop.co.nz/stories/PO1105/S00219/national-selects-joanne-hayes-as-dunedin-south-candidate.htm
+title: National Selects Joanne Hayes as Dunedin South Candidate
+date: 2011-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00219/national-selects-joanne-hayes-as-dunedin-south-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/05/16/national-selects-joanne-hayes-as-dunedin-south-candidate/index.html
+layout: layout.njk
 ---
 National Selects Joanne Hayes as Dunedin South Candidate
 ========================================================

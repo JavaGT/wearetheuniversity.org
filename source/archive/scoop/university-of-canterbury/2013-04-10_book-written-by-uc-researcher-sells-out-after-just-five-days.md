@@ -1,9 +1,13 @@
 ---
 slug: book-written-by-uc-researcher-sells-out-after-just-five-days
-title: "Book Written By UC Researcher Sells Out After Just Five Days"
-date: 2013-04-10
-source-url: https://www.scoop.co.nz/stories/ED1304/S00044/book-written-by-uc-researcher-sells-out-after-just-five-days.htm
+title: Book Written By UC Researcher Sells Out After Just Five Days
+date: 2013-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00044/book-written-by-uc-researcher-sells-out-after-just-five-days.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/10/book-written-by-uc-researcher-sells-out-after-just-five-days/index.html
+layout: layout.njk
 ---
 Book Written By UC Researcher Sells Out After Just Five Days
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-welcomes-direction-of-school-system-reforms
-title: "NZEI Te Riu Roa welcomes direction of school system reforms"
-date: 2019-11-12
-source-url: https://www.scoop.co.nz/stories/ED1911/S00030/nzei-te-riu-roa-welcomes-direction-of-school-system-reforms.htm
+title: NZEI Te Riu Roa welcomes direction of school system reforms
+date: 2019-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00030/nzei-te-riu-roa-welcomes-direction-of-school-system-reforms.htm
 author: nzei
+permalink: >-
+  /archive/2019/11/12/nzei-te-riu-roa-welcomes-direction-of-school-system-reforms/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa welcomes direction of school system reforms
 ===========================================================

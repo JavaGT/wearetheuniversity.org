@@ -1,9 +1,13 @@
 ---
 slug: national-halves-transport-spending-to-fund-tax-cut
-title: "National halves transport spending to fund tax cut"
-date: 2005-08-22
-source-url: https://www.scoop.co.nz/stories/PA0508/S00569/national-halves-transport-spending-to-fund-tax-cut.htm
+title: National halves transport spending to fund tax cut
+date: 2005-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00569/national-halves-transport-spending-to-fund-tax-cut.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/08/22/national-halves-transport-spending-to-fund-tax-cut/index.html
+layout: layout.njk
 ---
 National halves transport spending to fund tax cut
 ==================================================

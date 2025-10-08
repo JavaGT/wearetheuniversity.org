@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-announces-its-candidates
-title: "New Zealand First announces its candidates"
-date: 2017-08-18
-source-url: https://www.scoop.co.nz/stories/PO1708/S00382/new-zealand-first-announces-its-candidates.htm
+title: New Zealand First announces its candidates
+date: 2017-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00382/new-zealand-first-announces-its-candidates.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/18/new-zealand-first-announces-its-candidates/index.html
+layout: layout.njk
 ---
 New Zealand First announces its candidates
 ==========================================

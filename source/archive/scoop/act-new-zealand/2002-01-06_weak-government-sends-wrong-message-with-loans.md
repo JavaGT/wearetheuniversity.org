@@ -1,9 +1,12 @@
 ---
 slug: weak-government-sends-wrong-message-with-loans
-title: "Weak Government Sends Wrong Message With Loans"
-date: 2002-01-06
-source-url: https://www.scoop.co.nz/stories/PA0201/S00007/weak-government-sends-wrong-message-with-loans.htm
+title: Weak Government Sends Wrong Message With Loans
+date: 2002-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00007/weak-government-sends-wrong-message-with-loans.htm
 author: act-new-zealand
+permalink: /archive/2002/01/06/weak-government-sends-wrong-message-with-loans/index.html
+layout: layout.njk
 ---
 Weak Government Sends Wrong Message With Loans
 ==============================================

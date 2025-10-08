@@ -1,9 +1,12 @@
 ---
 slug: business-and-aut-create-nzs-first-sales-major
-title: "Business and AUT create NZ's first sales major"
-date: 2006-10-26
-source-url: https://www.scoop.co.nz/stories/ED0610/S00094/business-and-aut-create-nzs-first-sales-major.htm
+title: Business and AUT create NZ's first sales major
+date: 2006-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00094/business-and-aut-create-nzs-first-sales-major.htm
 author: aut-university
+permalink: /archive/2006/10/26/business-and-aut-create-nzs-first-sales-major/index.html
+layout: layout.njk
 ---
 Business and AUT create NZ's first sales major
 ==============================================

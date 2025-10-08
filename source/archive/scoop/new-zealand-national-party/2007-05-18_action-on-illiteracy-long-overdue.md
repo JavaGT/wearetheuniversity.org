@@ -1,9 +1,12 @@
 ---
 slug: action-on-illiteracy-long-overdue
-title: "Action on illiteracy long overdue"
-date: 2007-05-18
-source-url: https://www.scoop.co.nz/stories/PA0705/S00526/action-on-illiteracy-long-overdue.htm
+title: Action on illiteracy long overdue
+date: 2007-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00526/action-on-illiteracy-long-overdue.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/18/action-on-illiteracy-long-overdue/index.html
+layout: layout.njk
 ---
 Action on illiteracy long overdue
 =================================

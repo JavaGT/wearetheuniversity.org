@@ -1,9 +1,12 @@
 ---
 slug: the-brash-report-no-24-25-february-2004
-title: "The Brash-Report - No. 24, 25 February 2004"
-date: 2004-02-25
-source-url: https://www.scoop.co.nz/stories/PA0402/S00446/the-brash-report-no-24-25-february-2004.htm
+title: The Brash-Report - No. 24, 25 February 2004
+date: 2004-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00446/the-brash-report-no-24-25-february-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/25/the-brash-report-no-24-25-february-2004/index.html
+layout: layout.njk
 ---
 The Brash-Report - No. 24, 25 February 2004
 ===========================================

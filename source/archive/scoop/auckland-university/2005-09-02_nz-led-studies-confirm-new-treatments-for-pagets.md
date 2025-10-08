@@ -1,9 +1,13 @@
 ---
 slug: nz-led-studies-confirm-new-treatments-for-pagets
-title: "NZ led studies confirm new treatments for Paget's"
-date: 2005-09-02
-source-url: https://www.scoop.co.nz/stories/GE0509/S00010/nz-led-studies-confirm-new-treatments-for-pagets.htm
+title: NZ led studies confirm new treatments for Paget's
+date: 2005-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0509/S00010/nz-led-studies-confirm-new-treatments-for-pagets.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/09/02/nz-led-studies-confirm-new-treatments-for-pagets/index.html
+layout: layout.njk
 ---
 NZ led studies confirm new treatments for Paget's
 =================================================

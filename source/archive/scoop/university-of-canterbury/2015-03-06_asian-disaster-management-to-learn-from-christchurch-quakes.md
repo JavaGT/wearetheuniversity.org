@@ -1,9 +1,13 @@
 ---
 slug: asian-disaster-management-to-learn-from-christchurch-quakes
-title: "Asian disaster management to learn from Christchurch quakes"
-date: 2015-03-06
-source-url: https://www.scoop.co.nz/stories/AK1503/S00137/asian-disaster-management-to-learn-from-christchurch-quakes.htm
+title: Asian disaster management to learn from Christchurch quakes
+date: 2015-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00137/asian-disaster-management-to-learn-from-christchurch-quakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/06/asian-disaster-management-to-learn-from-christchurch-quakes/index.html
+layout: layout.njk
 ---
 Asian disaster management to learn from Christchurch quakes
 ===========================================================

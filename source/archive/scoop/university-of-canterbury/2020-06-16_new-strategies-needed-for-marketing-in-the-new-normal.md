@@ -1,9 +1,13 @@
 ---
 slug: new-strategies-needed-for-marketing-in-the-new-normal
-title: "New Strategies Needed For Marketing In The New Normal"
-date: 2020-06-16
-source-url: https://www.scoop.co.nz/stories/BU2006/S00283/new-strategies-needed-for-marketing-in-the-new-normal.htm
+title: New Strategies Needed For Marketing In The New Normal
+date: 2020-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2006/S00283/new-strategies-needed-for-marketing-in-the-new-normal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/06/16/new-strategies-needed-for-marketing-in-the-new-normal/index.html
+layout: layout.njk
 ---
 New Strategies Needed For Marketing In The New Normal
 =====================================================

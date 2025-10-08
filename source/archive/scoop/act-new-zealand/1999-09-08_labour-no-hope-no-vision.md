@@ -1,9 +1,11 @@
 ---
 slug: labour-no-hope-no-vision
-title: "Labour: No Hope, No Vision"
-date: 1999-09-08
+title: 'Labour: No Hope, No Vision'
+date: 1999-09-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9909/S00181/labour-no-hope-no-vision.htm
 author: act-new-zealand
+permalink: /archive/1999/09/08/labour-no-hope-no-vision/index.html
+layout: layout.njk
 ---
 Labour: No Hope, No Vision
 ==========================

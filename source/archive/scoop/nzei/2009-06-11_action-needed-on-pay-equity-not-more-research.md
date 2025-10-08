@@ -1,9 +1,12 @@
 ---
 slug: action-needed-on-pay-equity-not-more-research
-title: "Action Needed On Pay Equity – Not More Research"
-date: 2009-06-11
-source-url: https://www.scoop.co.nz/stories/PO0906/S00124/action-needed-on-pay-equity-not-more-research.htm
+title: Action Needed On Pay Equity – Not More Research
+date: 2009-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00124/action-needed-on-pay-equity-not-more-research.htm
 author: nzei
+permalink: /archive/2009/06/11/action-needed-on-pay-equity-not-more-research/index.html
+layout: layout.njk
 ---
 Action Needed On Pay Equity – Not More Research
 ===============================================

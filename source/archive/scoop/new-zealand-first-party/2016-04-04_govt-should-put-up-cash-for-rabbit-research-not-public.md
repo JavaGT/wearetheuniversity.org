@@ -1,9 +1,13 @@
 ---
 slug: govt-should-put-up-cash-for-rabbit-research-not-public
-title: "Govt Should Put up Cash for Rabbit Research,  Not Public"
-date: 2016-04-04
-source-url: https://www.scoop.co.nz/stories/PA1604/S00028/govt-should-put-up-cash-for-rabbit-research-not-public.htm
+title: Govt Should Put up Cash for Rabbit Research,  Not Public
+date: 2016-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00028/govt-should-put-up-cash-for-rabbit-research-not-public.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/04/04/govt-should-put-up-cash-for-rabbit-research-not-public/index.html
+layout: layout.njk
 ---
 Govt Should Put up Cash for Rabbit Research, Not Public
 =======================================================

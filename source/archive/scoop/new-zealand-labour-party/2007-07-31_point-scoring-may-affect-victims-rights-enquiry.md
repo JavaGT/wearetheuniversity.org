@@ -1,9 +1,12 @@
 ---
 slug: point-scoring-may-affect-victims-rights-enquiry
-title: "Point Scoring May Affect Victims' Rights Enquiry"
-date: 2007-07-31
-source-url: https://www.scoop.co.nz/stories/PA0707/S00518/point-scoring-may-affect-victims-rights-enquiry.htm
+title: Point Scoring May Affect Victims' Rights Enquiry
+date: 2007-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00518/point-scoring-may-affect-victims-rights-enquiry.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/07/31/point-scoring-may-affect-victims-rights-enquiry/index.html
+layout: layout.njk
 ---
 Point Scoring May Affect Victims' Rights Enquiry
 ================================================

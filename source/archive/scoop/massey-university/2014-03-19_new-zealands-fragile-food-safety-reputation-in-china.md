@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-fragile-food-safety-reputation-in-china
-title: "New Zealand’s fragile food safety reputation in China"
-date: 2014-03-19
-source-url: https://www.scoop.co.nz/stories/ED1403/S00103/new-zealands-fragile-food-safety-reputation-in-china.htm
+title: New Zealand’s fragile food safety reputation in China
+date: 2014-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00103/new-zealands-fragile-food-safety-reputation-in-china.htm
 author: massey-university
+permalink: >-
+  /archive/2014/03/19/new-zealands-fragile-food-safety-reputation-in-china/index.html
+layout: layout.njk
 ---
 New Zealand’s fragile food safety reputation in China
 =====================================================

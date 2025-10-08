@@ -1,9 +1,12 @@
 ---
 slug: national-to-build-a-better-education-system
-title: "National to build a better education system"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/PA1111/S00418/national-to-build-a-better-education-system.htm
+title: National to build a better education system
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00418/national-to-build-a-better-education-system.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/21/national-to-build-a-better-education-system/index.html
+layout: layout.njk
 ---
 National to build a better education system
 ===========================================

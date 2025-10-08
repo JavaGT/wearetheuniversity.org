@@ -1,9 +1,12 @@
 ---
 slug: industry-training-plan-builds-skill-base
-title: "Industry Training Plan Builds Skill Base"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/BU0507/S00383/industry-training-plan-builds-skill-base.htm
+title: Industry Training Plan Builds Skill Base
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0507/S00383/industry-training-plan-builds-skill-base.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/07/28/industry-training-plan-builds-skill-base/index.html
+layout: layout.njk
 ---
 Industry Training Plan Builds Skill Base
 ========================================

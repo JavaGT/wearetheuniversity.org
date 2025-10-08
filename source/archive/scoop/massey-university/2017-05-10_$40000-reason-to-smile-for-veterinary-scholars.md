@@ -1,9 +1,12 @@
 ---
 slug: $40000-reason-to-smile-for-veterinary-scholars
-title: "$40,000 reason to smile for veterinary scholars"
-date: 2017-05-10
-source-url: https://www.scoop.co.nz/stories/ED1705/S00051/40000-reason-to-smile-for-veterinary-scholars.htm
+title: $40,000 reason to smile for veterinary scholars
+date: 2017-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00051/40000-reason-to-smile-for-veterinary-scholars.htm
 author: massey-university
+permalink: /archive/2017/05/10/40-000-reason-to-smile-for-veterinary-scholars/index.html
+layout: layout.njk
 ---
 $40,000 reason to smile for veterinary scholars
 ===============================================

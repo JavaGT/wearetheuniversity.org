@@ -1,9 +1,13 @@
 ---
 slug: state-of-the-art-marine-lab-opens-on-wgtns-coast
-title: "State-of-the-art marine lab opens on Wgtn’s coast"
-date: 2009-03-13
-source-url: https://www.scoop.co.nz/stories/SC0903/S00028/state-of-the-art-marine-lab-opens-on-wgtns-coast.htm
+title: State-of-the-art marine lab opens on Wgtn’s coast
+date: 2009-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0903/S00028/state-of-the-art-marine-lab-opens-on-wgtns-coast.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/03/13/state-of-the-art-marine-lab-opens-on-wgtns-coast/index.html
+layout: layout.njk
 ---
 State-of-the-art marine lab opens on Wgtn’s coast
 =================================================

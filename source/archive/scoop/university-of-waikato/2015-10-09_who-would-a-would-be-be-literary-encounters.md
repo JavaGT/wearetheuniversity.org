@@ -1,9 +1,12 @@
 ---
 slug: who-would-a-would-be-be-literary-encounters
-title: "Who Would a Would-Be Be: Literary Encounters"
-date: 2015-10-09
-source-url: https://www.scoop.co.nz/stories/ED1510/S00049/who-would-a-would-be-be-literary-encounters.htm
+title: 'Who Would a Would-Be Be: Literary Encounters'
+date: 2015-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00049/who-would-a-would-be-be-literary-encounters.htm
 author: university-of-waikato
+permalink: /archive/2015/10/09/who-would-a-would-be-be-literary-encounters/index.html
+layout: layout.njk
 ---
 Who Would a Would-Be Be: Literary Encounters
 ============================================

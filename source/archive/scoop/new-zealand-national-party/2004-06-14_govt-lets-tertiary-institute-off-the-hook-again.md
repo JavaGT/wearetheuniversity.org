@@ -1,9 +1,12 @@
 ---
 slug: govt-lets-tertiary-institute-off-the-hook-again
-title: "Govt lets tertiary institute off the hook - again"
-date: 2004-06-14
-source-url: https://www.scoop.co.nz/stories/PA0406/S00188/govt-lets-tertiary-institute-off-the-hook-again.htm
+title: Govt lets tertiary institute off the hook - again
+date: 2004-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00188/govt-lets-tertiary-institute-off-the-hook-again.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/14/govt-lets-tertiary-institute-off-the-hook-again/index.html
+layout: layout.njk
 ---
 Govt lets tertiary institute off the hook - again
 =================================================

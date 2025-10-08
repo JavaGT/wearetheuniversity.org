@@ -1,9 +1,12 @@
 ---
 slug: wananga-inquiry-doesnt-go-far-enough
-title: "Wananga inquiry doesn't go far enough"
-date: 2005-03-18
-source-url: https://www.scoop.co.nz/stories/PA0503/S00406/wananga-inquiry-doesnt-go-far-enough.htm
+title: Wananga inquiry doesn't go far enough
+date: 2005-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00406/wananga-inquiry-doesnt-go-far-enough.htm
 author: act-new-zealand
+permalink: /archive/2005/03/18/wananga-inquiry-doesnt-go-far-enough/index.html
+layout: layout.njk
 ---
 Wananga inquiry doesn't go far enough
 =====================================

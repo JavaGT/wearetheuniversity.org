@@ -1,9 +1,12 @@
 ---
 slug: patient-satisfaction-survey-needs-improving
-title: "Patient Satisfaction Survey Needs Improving"
-date: 2006-05-02
-source-url: https://www.scoop.co.nz/stories/GE0605/S00013/patient-satisfaction-survey-needs-improving.htm
+title: Patient Satisfaction Survey Needs Improving
+date: 2006-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0605/S00013/patient-satisfaction-survey-needs-improving.htm
 author: university-of-otago
+permalink: /archive/2006/05/02/patient-satisfaction-survey-needs-improving/index.html
+layout: layout.njk
 ---
 Patient Satisfaction Survey Needs Improving
 ===========================================

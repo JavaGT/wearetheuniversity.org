@@ -1,9 +1,12 @@
 ---
 slug: a-checklist-for-economic-reform
-title: "A Checklist For Economic Reform"
-date: 2020-02-17
-source-url: https://www.scoop.co.nz/stories/PA2002/S00090/a-checklist-for-economic-reform.htm
+title: A Checklist For Economic Reform
+date: 2020-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00090/a-checklist-for-economic-reform.htm
 author: act-new-zealand
+permalink: /archive/2020/02/17/a-checklist-for-economic-reform/index.html
+layout: layout.njk
 ---
 A Checklist For Economic Reform
 ===============================

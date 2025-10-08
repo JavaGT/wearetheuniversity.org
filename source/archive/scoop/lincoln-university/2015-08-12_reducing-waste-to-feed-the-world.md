@@ -1,9 +1,12 @@
 ---
 slug: reducing-waste-to-feed-the-world
-title: "Reducing waste to feed the world"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/PO1508/S00123/reducing-waste-to-feed-the-world.htm
+title: Reducing waste to feed the world
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1508/S00123/reducing-waste-to-feed-the-world.htm
 author: lincoln-university
+permalink: /archive/2015/08/12/reducing-waste-to-feed-the-world/index.html
+layout: layout.njk
 ---
 Reducing waste to feed the world
 ================================

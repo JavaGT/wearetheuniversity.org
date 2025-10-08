@@ -1,9 +1,13 @@
 ---
 slug: canterbury-academic-receives-critic-and-conscience-award
-title: "Canterbury academic receives Critic and Conscience Award"
-date: 2018-05-15
-source-url: https://www.scoop.co.nz/stories/PO1805/S00197/canterbury-academic-receives-critic-and-conscience-award.htm
+title: Canterbury academic receives Critic and Conscience Award
+date: 2018-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00197/canterbury-academic-receives-critic-and-conscience-award.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2018/05/15/canterbury-academic-receives-critic-and-conscience-award/index.html
+layout: layout.njk
 ---
 Canterbury academic receives Critic and Conscience Award
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: three-minute-thesis-winner-off-to-trans-tasman-competition
-title: "Three Minute Thesis winner off to Trans-Tasman competition"
-date: 2015-09-24
-source-url: https://www.scoop.co.nz/stories/ED1509/S00146/three-minute-thesis-winner-off-to-trans-tasman-competition.htm
+title: Three Minute Thesis winner off to Trans-Tasman competition
+date: 2015-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00146/three-minute-thesis-winner-off-to-trans-tasman-competition.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/09/24/three-minute-thesis-winner-off-to-trans-tasman-competition/index.html
+layout: layout.njk
 ---
 Three Minute Thesis winner off to Trans-Tasman competition
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: super-fund-will-dictate-tax-and-spending-decisions
-title: "Super Fund Will Dictate Tax And Spending Decisions"
-date: 2000-10-02
-source-url: https://www.scoop.co.nz/stories/PA0010/S00024/super-fund-will-dictate-tax-and-spending-decisions.htm
+title: Super Fund Will Dictate Tax And Spending Decisions
+date: 2000-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00024/super-fund-will-dictate-tax-and-spending-decisions.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/10/02/super-fund-will-dictate-tax-and-spending-decisions/index.html
+layout: layout.njk
 ---
 Super Fund Will Dictate Tax And Spending Decisions
 ==================================================

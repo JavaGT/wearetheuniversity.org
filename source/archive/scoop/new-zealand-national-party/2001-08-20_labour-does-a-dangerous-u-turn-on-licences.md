@@ -1,9 +1,12 @@
 ---
 slug: labour-does-a-dangerous-u-turn-on-licences
-title: "Labour Does A Dangerous U-Turn On Licences"
-date: 2001-08-20
-source-url: https://www.scoop.co.nz/stories/PA0108/S00376/labour-does-a-dangerous-u-turn-on-licences.htm
+title: Labour Does A Dangerous U-Turn On Licences
+date: 2001-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00376/labour-does-a-dangerous-u-turn-on-licences.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/20/labour-does-a-dangerous-u-turn-on-licences/index.html
+layout: layout.njk
 ---
 Labour Does A Dangerous U-Turn On Licences
 ==========================================

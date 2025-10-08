@@ -1,9 +1,11 @@
 ---
 slug: maiden-speech-brian-connell
-title: "Maiden Speech - Brian Connell"
-date: 2002-09-04
+title: Maiden Speech - Brian Connell
+date: 2002-09-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0209/S00041/maiden-speech-brian-connell.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/04/maiden-speech-brian-connell/index.html
+layout: layout.njk
 ---
 Maiden Speech - Brian Connell
 =============================

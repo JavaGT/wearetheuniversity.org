@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-reforms-long-overdue
-title: "Tertiary Education Reforms Long Overdue"
-date: 2010-03-06
-source-url: https://www.scoop.co.nz/stories/PA1003/S00099/tertiary-education-reforms-long-overdue.htm
+title: Tertiary Education Reforms Long Overdue
+date: 2010-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00099/tertiary-education-reforms-long-overdue.htm
 author: act-new-zealand
+permalink: /archive/2010/03/06/tertiary-education-reforms-long-overdue/index.html
+layout: layout.njk
 ---
 Tertiary Education Reforms Long Overdue
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-30-november-2006
-title: "Maxim Institute - real issues - 30 November 2006"
-date: 2006-12-01
-source-url: https://www.scoop.co.nz/stories/PO0612/S00004/maxim-institute-real-issues-30-november-2006.htm
+title: Maxim Institute - real issues - 30 November 2006
+date: 2006-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0612/S00004/maxim-institute-real-issues-30-november-2006.htm
 author: maxim-institute
+permalink: /archive/2006/12/01/maxim-institute-real-issues-30-november-2006/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - 30 November 2006
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-committed-to-local-growth
-title: "National committed to local growth"
-date: 2011-11-17
-source-url: https://www.scoop.co.nz/stories/PA1111/S00350/national-committed-to-local-growth.htm
+title: National committed to local growth
+date: 2011-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00350/national-committed-to-local-growth.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/17/national-committed-to-local-growth/index.html
+layout: layout.njk
 ---
 National committed to local growth
 ==================================

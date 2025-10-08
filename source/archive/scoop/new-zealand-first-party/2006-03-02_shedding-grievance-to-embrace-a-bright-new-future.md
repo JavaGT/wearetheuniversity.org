@@ -1,9 +1,13 @@
 ---
 slug: shedding-grievance-to-embrace-a-bright-new-future
-title: "Shedding Grievance To Embrace A Bright New Future"
-date: 2006-03-02
-source-url: https://www.scoop.co.nz/stories/PA0603/S00049/shedding-grievance-to-embrace-a-bright-new-future.htm
+title: Shedding Grievance To Embrace A Bright New Future
+date: 2006-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00049/shedding-grievance-to-embrace-a-bright-new-future.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2006/03/02/shedding-grievance-to-embrace-a-bright-new-future/index.html
+layout: layout.njk
 ---
 Shedding Grievance To Embrace A Bright New Future
 =================================================

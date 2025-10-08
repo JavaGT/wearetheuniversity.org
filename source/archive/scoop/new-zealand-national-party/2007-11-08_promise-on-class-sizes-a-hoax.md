@@ -1,9 +1,12 @@
 ---
 slug: promise-on-class-sizes-a-hoax
-title: "Promise on class sizes a hoax"
-date: 2007-11-08
-source-url: https://www.scoop.co.nz/stories/PA0711/S00162/promise-on-class-sizes-a-hoax.htm
+title: Promise on class sizes a hoax
+date: 2007-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00162/promise-on-class-sizes-a-hoax.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/08/promise-on-class-sizes-a-hoax/index.html
+layout: layout.njk
 ---
 Promise on class sizes a hoax
 =============================

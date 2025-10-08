@@ -1,9 +1,12 @@
 ---
 slug: insane-primary-care-policy-must-be-stopped
-title: "Insane primary care policy must be stopped"
-date: 2003-04-02
-source-url: https://www.scoop.co.nz/stories/PA0304/S00044/insane-primary-care-policy-must-be-stopped.htm
+title: Insane primary care policy must be stopped
+date: 2003-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00044/insane-primary-care-policy-must-be-stopped.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/02/insane-primary-care-policy-must-be-stopped/index.html
+layout: layout.njk
 ---
 Insane primary care policy must be stopped
 ==========================================

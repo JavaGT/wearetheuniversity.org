@@ -1,9 +1,13 @@
 ---
 slug: changes-to-therapeutic-products-bill-a-huge-win-for-māori
-title: "Changes To Therapeutic Products Bill A Huge Win For Māori"
-date: 2023-06-13
-source-url: https://www.scoop.co.nz/stories/PA2306/S00067/changes-to-therapeutic-products-bill-a-huge-win-for-maori.htm
+title: Changes To Therapeutic Products Bill A Huge Win For Māori
+date: 2023-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00067/changes-to-therapeutic-products-bill-a-huge-win-for-maori.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2023/06/13/changes-to-therapeutic-products-bill-a-huge-win-for-m/index.html
+layout: layout.njk
 ---
 Changes To Therapeutic Products Bill A Huge Win For Māori
 =========================================================

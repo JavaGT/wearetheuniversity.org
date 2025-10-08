@@ -1,9 +1,12 @@
 ---
 slug: volcano-in-manawatū-due-to-erupt-at-lunchtime-tomorrow
-title: "Volcano in Manawatū due to erupt at lunchtime tomorrow"
-date: 2014-03-10
-source-url: https://www.scoop.co.nz/stories/SC1403/S00022/volcano-in-manawatu-due-to-erupt-at-lunchtime-tomorrow.htm
+title: Volcano in Manawatū due to erupt at lunchtime tomorrow
+date: 2014-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00022/volcano-in-manawatu-due-to-erupt-at-lunchtime-tomorrow.htm
 author: massey-university
+permalink: /archive/2014/03/10/volcano-in-manawat/index.html
+layout: layout.njk
 ---
 Volcano in Manawatū due to erupt at lunchtime tomorrow
 ======================================================

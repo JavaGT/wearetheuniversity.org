@@ -1,9 +1,12 @@
 ---
 slug: english-urges-school-leavers-to-choose-wisely
-title: "English urges school leavers to choose wisely"
-date: 2005-01-10
-source-url: https://www.scoop.co.nz/stories/PA0501/S00040/english-urges-school-leavers-to-choose-wisely.htm
+title: English urges school leavers to choose wisely
+date: 2005-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00040/english-urges-school-leavers-to-choose-wisely.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/10/english-urges-school-leavers-to-choose-wisely/index.html
+layout: layout.njk
 ---
 English urges school leavers to choose wisely
 =============================================

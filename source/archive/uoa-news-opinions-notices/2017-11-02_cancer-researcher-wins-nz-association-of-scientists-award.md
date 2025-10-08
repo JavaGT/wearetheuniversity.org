@@ -1,8 +1,12 @@
 ---
 slug: cancer-researcher-wins-nz-association-of-scientists-award
-title: "Cancer researcher wins NZ Association of Scientists award"
-date: 2017-11-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/cancer-researcher-wins-nz-association-of-scientists-award.html
+title: Cancer researcher wins NZ Association of Scientists award
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/cancer-researcher-wins-nz-association-of-scientists-award.html
+permalink: >-
+  /archive/2017/11/02/cancer-researcher-wins-nz-association-of-scientists-award/index.html
+layout: layout.njk
 ---
 Cancer researcher wins NZ Association of Scientists award
 =========================================================

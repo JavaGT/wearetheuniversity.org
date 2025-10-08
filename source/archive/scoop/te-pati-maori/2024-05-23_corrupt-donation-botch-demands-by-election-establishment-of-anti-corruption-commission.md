@@ -1,9 +1,16 @@
 ---
-slug: corrupt-donation-botch-demands-by-election-establishment-of-anti-corruption-commission
-title: "Corrupt Donation Botch Demands By-election, Establishment Of Anti-Corruption Commission"
-date: 2024-05-23
-source-url: https://www.scoop.co.nz/stories/PA2405/S00155/corrupt-donation-botch-demands-by-election-establishment-of-anti-corruption-commission.htm
+slug: >-
+  corrupt-donation-botch-demands-by-election-establishment-of-anti-corruption-commission
+title: >-
+  Corrupt Donation Botch Demands By-election, Establishment Of Anti-Corruption
+  Commission
+date: 2024-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00155/corrupt-donation-botch-demands-by-election-establishment-of-anti-corruption-commission.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2024/05/23/corrupt-donation-botch-demands-by-election-establishment-of-anti-corruption-commission/index.html
+layout: layout.njk
 ---
 Corrupt Donation Botch Demands By-election, Establishment Of Anti-Corruption Commission
 =======================================================================================

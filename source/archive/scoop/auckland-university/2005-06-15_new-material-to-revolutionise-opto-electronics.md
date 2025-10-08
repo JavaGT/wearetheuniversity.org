@@ -1,9 +1,12 @@
 ---
 slug: new-material-to-revolutionise-opto-electronics
-title: "New material to revolutionise opto-electronics"
-date: 2005-06-15
-source-url: https://www.scoop.co.nz/stories/SC0506/S00034/new-material-to-revolutionise-opto-electronics.htm
+title: New material to revolutionise opto-electronics
+date: 2005-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0506/S00034/new-material-to-revolutionise-opto-electronics.htm
 author: auckland-university
+permalink: /archive/2005/06/15/new-material-to-revolutionise-opto-electronics/index.html
+layout: layout.njk
 ---
 New material to revolutionise opto-electronics
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: $1-6-million-for-biotechnology-productivity-study
-title: "$1.6 million for biotechnology productivity study"
-date: 2007-05-16
-source-url: https://www.scoop.co.nz/stories/ED0705/S00066/16-million-for-biotechnology-productivity-study.htm
+title: $1.6 million for biotechnology productivity study
+date: 2007-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00066/16-million-for-biotechnology-productivity-study.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/05/16/1-6-million-for-biotechnology-productivity-study/index.html
+layout: layout.njk
 ---
 $1.6 million for biotechnology productivity study
 =================================================

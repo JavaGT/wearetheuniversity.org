@@ -1,9 +1,11 @@
 ---
 slug: legacy-of-futurism-explored
-title: "Legacy of Futurism explored"
-date: 2015-05-11
+title: Legacy of Futurism explored
+date: 2015-05-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1505/S00187/legacy-of-futurism-explored.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/05/11/legacy-of-futurism-explored/index.html
+layout: layout.njk
 ---
 Legacy of Futurism explored
 ===========================

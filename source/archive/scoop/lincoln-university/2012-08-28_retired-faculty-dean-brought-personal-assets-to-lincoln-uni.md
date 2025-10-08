@@ -1,9 +1,13 @@
 ---
 slug: retired-faculty-dean-brought-personal-assets-to-lincoln-uni
-title: "Retired faculty dean brought personal assets to Lincoln Uni"
-date: 2012-08-28
-source-url: https://www.scoop.co.nz/stories/ED1208/S00150/retired-faculty-dean-brought-personal-assets-to-lincoln-uni.htm
+title: Retired faculty dean brought personal assets to Lincoln Uni
+date: 2012-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00150/retired-faculty-dean-brought-personal-assets-to-lincoln-uni.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/08/28/retired-faculty-dean-brought-personal-assets-to-lincoln-uni/index.html
+layout: layout.njk
 ---
 Retired faculty dean brought personal assets to Lincoln Uni
 ===========================================================

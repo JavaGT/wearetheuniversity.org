@@ -1,8 +1,12 @@
 ---
 slug: $1-million-given-for-new-rhodes-style-scholarships
-title: "$1 million given for new Rhodes-style scholarships"
-date: 2017-10-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/1-million-given-for-new-rhodes-style-scholarships-.html
+title: $1 million given for new Rhodes-style scholarships
+date: 2017-10-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/1-million-given-for-new-rhodes-style-scholarships-.html
+permalink: >-
+  /archive/2017/10/02/1-million-given-for-new-rhodes-style-scholarships/index.html
+layout: layout.njk
 ---
 $1 million given for new Rhodes-style scholarships
 ==================================================

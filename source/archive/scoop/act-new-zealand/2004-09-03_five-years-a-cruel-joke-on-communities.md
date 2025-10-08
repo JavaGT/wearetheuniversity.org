@@ -1,9 +1,12 @@
 ---
 slug: five-years-a-cruel-joke-on-communities
-title: "Five Years A Cruel Joke On Communities"
-date: 2004-09-03
-source-url: https://www.scoop.co.nz/stories/PA0409/S00084/five-years-a-cruel-joke-on-communities.htm
+title: Five Years A Cruel Joke On Communities
+date: 2004-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00084/five-years-a-cruel-joke-on-communities.htm
 author: act-new-zealand
+permalink: /archive/2004/09/03/five-years-a-cruel-joke-on-communities/index.html
+layout: layout.njk
 ---
 Five Years A Cruel Joke On Communities
 ======================================

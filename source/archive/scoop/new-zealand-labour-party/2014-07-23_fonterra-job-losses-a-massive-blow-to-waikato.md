@@ -1,9 +1,12 @@
 ---
 slug: fonterra-job-losses-a-massive-blow-to-waikato
-title: "Fonterra job losses a massive blow to Waikato"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/PA1407/S00424/fonterra-job-losses-a-massive-blow-to-waikato.htm
+title: Fonterra job losses a massive blow to Waikato
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00424/fonterra-job-losses-a-massive-blow-to-waikato.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/23/fonterra-job-losses-a-massive-blow-to-waikato/index.html
+layout: layout.njk
 ---
 Fonterra job losses a massive blow to Waikato
 =============================================

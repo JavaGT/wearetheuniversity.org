@@ -1,9 +1,13 @@
 ---
 slug: address-to-nz-large-herds-association-conference
-title: "Address to NZ Large Herds Association Conference"
-date: 2007-03-21
-source-url: https://www.scoop.co.nz/stories/PA0703/S00408/address-to-nz-large-herds-association-conference.htm
+title: Address to NZ Large Herds Association Conference
+date: 2007-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00408/address-to-nz-large-herds-association-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/03/21/address-to-nz-large-herds-association-conference/index.html
+layout: layout.njk
 ---
 Address to NZ Large Herds Association Conference
 ================================================

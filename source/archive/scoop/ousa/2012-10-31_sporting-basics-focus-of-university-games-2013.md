@@ -1,9 +1,12 @@
 ---
 slug: sporting-basics-focus-of-university-games-2013
-title: "Sporting basics focus of University Games 2013"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/CU1210/S00632/sporting-basics-focus-of-university-games-2013.htm
+title: Sporting basics focus of University Games 2013
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1210/S00632/sporting-basics-focus-of-university-games-2013.htm
 author: ousa
+permalink: /archive/2012/10/31/sporting-basics-focus-of-university-games-2013/index.html
+layout: layout.njk
 ---
 Sporting basics focus of University Games 2013
 ==============================================

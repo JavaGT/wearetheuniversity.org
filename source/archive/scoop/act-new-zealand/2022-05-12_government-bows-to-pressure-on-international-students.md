@@ -1,9 +1,13 @@
 ---
 slug: government-bows-to-pressure-on-international-students
-title: "Government Bows To Pressure On International Students"
-date: 2022-05-12
-source-url: https://www.scoop.co.nz/stories/PA2205/S00108/government-bows-to-pressure-on-international-students.htm
+title: Government Bows To Pressure On International Students
+date: 2022-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00108/government-bows-to-pressure-on-international-students.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/05/12/government-bows-to-pressure-on-international-students/index.html
+layout: layout.njk
 ---
 Government Bows To Pressure On International Students
 =====================================================

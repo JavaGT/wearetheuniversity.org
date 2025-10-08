@@ -1,9 +1,12 @@
 ---
 slug: the-maori-party-sends-its-condolences
-title: "The Maori Party sends its condolences"
-date: 2008-09-11
-source-url: https://www.scoop.co.nz/stories/PO0809/S00155/the-maori-party-sends-its-condolences.htm
+title: The Maori Party sends its condolences
+date: 2008-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00155/the-maori-party-sends-its-condolences.htm
 author: te-pati-maori
+permalink: /archive/2008/09/11/the-maori-party-sends-its-condolences/index.html
+layout: layout.njk
 ---
 The Maori Party sends its condolences
 =====================================

@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-to-hold-panel-discussion-on-free-speech-if-victoria-university-doesnt
-title: "Free Speech Union To Hold Panel Discussion On Free Speech If Victoria University Doesn’t"
-date: 2024-04-30
-source-url: https://www.scoop.co.nz/stories/ED2404/S00060/free-speech-union-to-hold-panel-discussion-on-free-speech-if-victoria-university-doesnt.htm
+slug: >-
+  free-speech-union-to-hold-panel-discussion-on-free-speech-if-victoria-university-doesnt
+title: >-
+  Free Speech Union To Hold Panel Discussion On Free Speech If Victoria
+  University Doesn’t
+date: 2024-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2404/S00060/free-speech-union-to-hold-panel-discussion-on-free-speech-if-victoria-university-doesnt.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/04/30/free-speech-union-to-hold-panel-discussion-on-free-speech-if-victoria-university-doesnt/index.html
+layout: layout.njk
 ---
 Free Speech Union To Hold Panel Discussion On Free Speech If Victoria University Doesn’t
 ========================================================================================

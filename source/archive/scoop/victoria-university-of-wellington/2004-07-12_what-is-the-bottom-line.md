@@ -1,9 +1,11 @@
 ---
 slug: what-is-the-bottom-line
-title: "What is the bottom line?"
-date: 2004-07-12
+title: What is the bottom line?
+date: 2004-07-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0407/S00037/what-is-the-bottom-line.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/07/12/what-is-the-bottom-line/index.html
+layout: layout.njk
 ---
 What is the bottom line?
 ========================

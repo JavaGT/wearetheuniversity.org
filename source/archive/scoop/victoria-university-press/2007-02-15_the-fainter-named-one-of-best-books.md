@@ -1,9 +1,12 @@
 ---
 slug: the-fainter-named-one-of-best-books
-title: "\"The Fainter\" Named one of Best Books"
-date: 2007-02-15
-source-url: https://www.scoop.co.nz/stories/ED0702/S00057/the-fainter-named-one-of-best-books.htm
+title: '"The Fainter" Named one of Best Books'
+date: 2007-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00057/the-fainter-named-one-of-best-books.htm
 author: victoria-university-press
+permalink: /archive/2007/02/15/the-fainter-named-one-of-best-books/index.html
+layout: layout.njk
 ---
 "The Fainter" Named one of Best Books
 =====================================

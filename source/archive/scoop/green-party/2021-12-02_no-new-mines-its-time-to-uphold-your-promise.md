@@ -1,9 +1,12 @@
 ---
 slug: no-new-mines-its-time-to-uphold-your-promise
-title: "No New Mines: It’s Time To Uphold Your Promise"
-date: 2021-12-02
-source-url: https://www.scoop.co.nz/stories/PA2112/S00019/no-new-mines-its-time-to-uphold-your-promise.htm
+title: 'No New Mines: It’s Time To Uphold Your Promise'
+date: 2021-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00019/no-new-mines-its-time-to-uphold-your-promise.htm
 author: green-party
+permalink: /archive/2021/12/02/no-new-mines-its-time-to-uphold-your-promise/index.html
+layout: layout.njk
 ---
 No New Mines: It’s Time To Uphold Your Promise
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: pigs-at-parliament-this-afternoon
-title: "Pigs At Parliament This Afternoon"
-date: 2001-12-06
-source-url: https://www.scoop.co.nz/stories/PA0112/S00101/pigs-at-parliament-this-afternoon.htm
+title: Pigs At Parliament This Afternoon
+date: 2001-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00101/pigs-at-parliament-this-afternoon.htm
 author: green-party
+permalink: /archive/2001/12/06/pigs-at-parliament-this-afternoon/index.html
+layout: layout.njk
 ---
 Pigs At Parliament This Afternoon
 =================================

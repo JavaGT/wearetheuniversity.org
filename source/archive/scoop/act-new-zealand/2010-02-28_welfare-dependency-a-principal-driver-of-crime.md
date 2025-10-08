@@ -1,9 +1,12 @@
 ---
 slug: welfare-dependency-a-principal-driver-of-crime
-title: "Welfare Dependency: A Principal Driver Of Crime?"
-date: 2010-02-28
-source-url: https://www.scoop.co.nz/stories/PA1002/S00401/welfare-dependency-a-principal-driver-of-crime.htm
+title: 'Welfare Dependency: A Principal Driver Of Crime?'
+date: 2010-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00401/welfare-dependency-a-principal-driver-of-crime.htm
 author: act-new-zealand
+permalink: /archive/2010/02/28/welfare-dependency-a-principal-driver-of-crime/index.html
+layout: layout.njk
 ---
 Welfare Dependency: A Principal Driver Of Crime?
 ================================================

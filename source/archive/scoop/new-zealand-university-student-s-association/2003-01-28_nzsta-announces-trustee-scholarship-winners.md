@@ -1,9 +1,12 @@
 ---
 slug: nzsta-announces-trustee-scholarship-winners
-title: "NZSTA announces trustee scholarship winners"
-date: 2003-01-28
-source-url: https://www.scoop.co.nz/stories/ED0301/S00020/nzsta-announces-trustee-scholarship-winners.htm
+title: NZSTA announces trustee scholarship winners
+date: 2003-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00020/nzsta-announces-trustee-scholarship-winners.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/01/28/nzsta-announces-trustee-scholarship-winners/index.html
+layout: layout.njk
 ---
 NZSTA announces trustee scholarship winners
 ===========================================

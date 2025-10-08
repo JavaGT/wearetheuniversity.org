@@ -1,9 +1,13 @@
 ---
 slug: greens-commit-to-rebuilding-napier-gisborne-rail-line
-title: "Greens Commit to Rebuilding Napier-Gisborne Rail Line"
-date: 2017-09-04
-source-url: https://www.scoop.co.nz/stories/PA1709/S00028/greens-commit-to-rebuilding-napier-gisborne-rail-line.htm
+title: Greens Commit to Rebuilding Napier-Gisborne Rail Line
+date: 2017-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00028/greens-commit-to-rebuilding-napier-gisborne-rail-line.htm
 author: green-party
+permalink: >-
+  /archive/2017/09/04/greens-commit-to-rebuilding-napier-gisborne-rail-line/index.html
+layout: layout.njk
 ---
 Greens Commit to Rebuilding Napier-Gisborne Rail Line
 =====================================================

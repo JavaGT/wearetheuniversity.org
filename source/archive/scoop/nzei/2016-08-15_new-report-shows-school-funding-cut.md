@@ -1,9 +1,12 @@
 ---
 slug: new-report-shows-school-funding-cut
-title: "New report shows school funding cut"
-date: 2016-08-15
-source-url: https://www.scoop.co.nz/stories/PO1608/S00166/new-report-shows-school-funding-cut.htm
+title: New report shows school funding cut
+date: 2016-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1608/S00166/new-report-shows-school-funding-cut.htm
 author: nzei
+permalink: /archive/2016/08/15/new-report-shows-school-funding-cut/index.html
+layout: layout.njk
 ---
 New report shows school funding cut
 ===================================

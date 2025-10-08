@@ -1,9 +1,12 @@
 ---
 slug: maxim-real-issues-no-287-globalisation
-title: "Maxim Real Issues No. 287 - Globalisation"
-date: 2008-02-08
-source-url: https://www.scoop.co.nz/stories/PO0802/S00084/maxim-real-issues-no-287-globalisation.htm
+title: Maxim Real Issues No. 287 - Globalisation
+date: 2008-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0802/S00084/maxim-real-issues-no-287-globalisation.htm
 author: maxim-institute
+permalink: /archive/2008/02/08/maxim-real-issues-no-287-globalisation/index.html
+layout: layout.njk
 ---
 Maxim Real Issues No. 287 - Globalisation
 =========================================

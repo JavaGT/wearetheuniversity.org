@@ -1,9 +1,12 @@
 ---
 slug: students-plan-to-march-on-midland
-title: "Students plan to \"March on Midland\""
-date: 2018-03-13
-source-url: https://www.scoop.co.nz/stories/AK1803/S00347/students-plan-to-march-on-midland.htm
+title: Students plan to "March on Midland"
+date: 2018-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1803/S00347/students-plan-to-march-on-midland.htm
 author: vuwsa
+permalink: /archive/2018/03/13/students-plan-to-march-on-midland/index.html
+layout: layout.njk
 ---
 Students plan to “March on Midland”
 ===================================

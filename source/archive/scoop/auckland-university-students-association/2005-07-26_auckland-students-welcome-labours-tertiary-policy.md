@@ -1,9 +1,13 @@
 ---
 slug: auckland-students-welcome-labours-tertiary-policy
-title: "Auckland Students welcome Labour’s Tertiary Policy"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/ED0507/S00103/auckland-students-welcome-labours-tertiary-policy.htm
+title: Auckland Students welcome Labour’s Tertiary Policy
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00103/auckland-students-welcome-labours-tertiary-policy.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2005/07/26/auckland-students-welcome-labours-tertiary-policy/index.html
+layout: layout.njk
 ---
 Auckland Students welcome Labour’s Tertiary Policy
 ==================================================

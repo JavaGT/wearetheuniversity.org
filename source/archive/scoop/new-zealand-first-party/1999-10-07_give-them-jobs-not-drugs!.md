@@ -1,9 +1,11 @@
 ---
 slug: give-them-jobs-not-drugs!
-title: "Give them jobs not drugs!"
-date: 1999-10-07
+title: Give them jobs not drugs!
+date: 1999-10-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9910/S00135/give-them-jobs-not-drugs.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/07/give-them-jobs-not-drugs/index.html
+layout: layout.njk
 ---
 Give them jobs not drugs!
 =========================

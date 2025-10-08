@@ -1,9 +1,12 @@
 ---
 slug: wheel-clamping-company-runs-money-making-racket
-title: "Wheel clamping company runs money-making racket"
-date: 2013-07-18
-source-url: https://www.scoop.co.nz/stories/PA1307/S00310/wheel-clamping-company-runs-money-making-racket.htm
+title: Wheel clamping company runs money-making racket
+date: 2013-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00310/wheel-clamping-company-runs-money-making-racket.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/18/wheel-clamping-company-runs-money-making-racket/index.html
+layout: layout.njk
 ---
 Wheel clamping company runs money-making racket
 ===============================================

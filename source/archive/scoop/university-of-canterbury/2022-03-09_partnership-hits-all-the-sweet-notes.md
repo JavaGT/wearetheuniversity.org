@@ -1,9 +1,12 @@
 ---
 slug: partnership-hits-all-the-sweet-notes
-title: "Partnership Hits All The Sweet Notes"
-date: 2022-03-09
-source-url: https://www.scoop.co.nz/stories/CU2203/S00075/partnership-hits-all-the-sweet-notes.htm
+title: Partnership Hits All The Sweet Notes
+date: 2022-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2203/S00075/partnership-hits-all-the-sweet-notes.htm
 author: university-of-canterbury
+permalink: /archive/2022/03/09/partnership-hits-all-the-sweet-notes/index.html
+layout: layout.njk
 ---
 Partnership Hits All The Sweet Notes
 ====================================

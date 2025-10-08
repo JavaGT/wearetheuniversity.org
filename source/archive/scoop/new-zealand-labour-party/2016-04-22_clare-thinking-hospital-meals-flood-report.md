@@ -1,9 +1,12 @@
 ---
 slug: clare-thinking-hospital-meals-flood-report
-title: "Clare Thinking: Hospital Meals, Flood Report"
-date: 2016-04-22
-source-url: https://www.scoop.co.nz/stories/PA1604/S00391/clare-thinking-hospital-meals-flood-report.htm
+title: 'Clare Thinking: Hospital Meals, Flood Report'
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00391/clare-thinking-hospital-meals-flood-report.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/04/22/clare-thinking-hospital-meals-flood-report/index.html
+layout: layout.njk
 ---
 Clare Thinking: Hospital Meals, Flood Report
 ============================================

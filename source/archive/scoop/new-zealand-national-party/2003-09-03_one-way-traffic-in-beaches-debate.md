@@ -1,9 +1,12 @@
 ---
 slug: one-way-traffic-in-beaches-debate
-title: "One way traffic in beaches debate"
-date: 2003-09-03
-source-url: https://www.scoop.co.nz/stories/PA0309/S00050/one-way-traffic-in-beaches-debate.htm
+title: One way traffic in beaches debate
+date: 2003-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00050/one-way-traffic-in-beaches-debate.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/03/one-way-traffic-in-beaches-debate/index.html
+layout: layout.njk
 ---
 One way traffic in beaches debate
 =================================

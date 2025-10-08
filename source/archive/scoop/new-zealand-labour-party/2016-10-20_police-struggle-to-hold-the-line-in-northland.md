@@ -1,9 +1,12 @@
 ---
 slug: police-struggle-to-hold-the-line-in-northland
-title: "Police struggle to hold the line in Northland"
-date: 2016-10-20
-source-url: https://www.scoop.co.nz/stories/PA1610/S00312/police-struggle-to-hold-the-line-in-northland.htm
+title: Police struggle to hold the line in Northland
+date: 2016-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00312/police-struggle-to-hold-the-line-in-northland.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/10/20/police-struggle-to-hold-the-line-in-northland/index.html
+layout: layout.njk
 ---
 Police struggle to hold the line in Northland
 =============================================

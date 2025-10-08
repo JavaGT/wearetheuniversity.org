@@ -1,9 +1,13 @@
 ---
 slug: quake-simulator-to-help-overcome-post-traumatic-stress
-title: "Quake simulator to help overcome post-traumatic stress"
-date: 2012-05-31
-source-url: https://www.scoop.co.nz/stories/ED1205/S00158/quake-simulator-to-help-overcome-post-traumatic-stress.htm
+title: Quake simulator to help overcome post-traumatic stress
+date: 2012-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00158/quake-simulator-to-help-overcome-post-traumatic-stress.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/05/31/quake-simulator-to-help-overcome-post-traumatic-stress/index.html
+layout: layout.njk
 ---
 Quake simulator to help overcome post-traumatic stress
 ======================================================

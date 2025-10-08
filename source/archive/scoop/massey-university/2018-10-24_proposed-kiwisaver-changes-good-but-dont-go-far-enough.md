@@ -1,9 +1,13 @@
 ---
 slug: proposed-kiwisaver-changes-good-but-dont-go-far-enough
-title: "Proposed KiwiSaver changes good, but don’t go far enough"
-date: 2018-10-24
-source-url: https://www.scoop.co.nz/stories/BU1810/S00666/proposed-kiwisaver-changes-good-but-dont-go-far-enough.htm
+title: Proposed KiwiSaver changes good, but don’t go far enough
+date: 2018-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1810/S00666/proposed-kiwisaver-changes-good-but-dont-go-far-enough.htm
 author: massey-university
+permalink: >-
+  /archive/2018/10/24/proposed-kiwisaver-changes-good-but-dont-go-far-enough/index.html
+layout: layout.njk
 ---
 Proposed KiwiSaver changes good, but don’t go far enough
 ========================================================

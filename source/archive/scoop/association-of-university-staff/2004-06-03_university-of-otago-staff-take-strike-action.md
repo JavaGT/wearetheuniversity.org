@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-staff-take-strike-action
-title: "University of Otago staff take strike action"
-date: 2004-06-03
-source-url: https://www.scoop.co.nz/stories/ED0406/S00018/university-of-otago-staff-take-strike-action.htm
+title: University of Otago staff take strike action
+date: 2004-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00018/university-of-otago-staff-take-strike-action.htm
 author: association-of-university-staff
+permalink: /archive/2004/06/03/university-of-otago-staff-take-strike-action/index.html
+layout: layout.njk
 ---
 University of Otago staff take strike action
 ============================================

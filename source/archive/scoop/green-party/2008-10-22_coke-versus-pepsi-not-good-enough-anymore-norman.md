@@ -1,9 +1,13 @@
 ---
 slug: coke-versus-pepsi-not-good-enough-anymore-norman
-title: "Coke versus Pepsi not good enough anymore: Norman"
-date: 2008-10-22
-source-url: https://www.scoop.co.nz/stories/PA0810/S00525/coke-versus-pepsi-not-good-enough-anymore-norman.htm
+title: 'Coke versus Pepsi not good enough anymore: Norman'
+date: 2008-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00525/coke-versus-pepsi-not-good-enough-anymore-norman.htm
 author: green-party
+permalink: >-
+  /archive/2008/10/22/coke-versus-pepsi-not-good-enough-anymore-norman/index.html
+layout: layout.njk
 ---
 Coke versus Pepsi not good enough anymore: Norman
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: world-suicide-prevention-day-september-10
-title: "World Suicide Prevention Day: September 10"
-date: 2007-09-10
-source-url: https://www.scoop.co.nz/stories/GE0709/S00034/world-suicide-prevention-day-september-10.htm
+title: 'World Suicide Prevention Day: September 10'
+date: 2007-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0709/S00034/world-suicide-prevention-day-september-10.htm
 author: university-of-otago
+permalink: /archive/2007/09/10/world-suicide-prevention-day-september-10/index.html
+layout: layout.njk
 ---
 World Suicide Prevention Day: September 10
 ==========================================

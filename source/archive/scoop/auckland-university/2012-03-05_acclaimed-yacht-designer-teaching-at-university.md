@@ -1,9 +1,12 @@
 ---
 slug: acclaimed-yacht-designer-teaching-at-university
-title: "Acclaimed yacht designer teaching at University"
-date: 2012-03-05
-source-url: https://www.scoop.co.nz/stories/ED1203/S00016/acclaimed-yacht-designer-teaching-at-university.htm
+title: Acclaimed yacht designer teaching at University
+date: 2012-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00016/acclaimed-yacht-designer-teaching-at-university.htm
 author: auckland-university
+permalink: /archive/2012/03/05/acclaimed-yacht-designer-teaching-at-university/index.html
+layout: layout.njk
 ---
 Acclaimed yacht designer teaching at University
 ===============================================

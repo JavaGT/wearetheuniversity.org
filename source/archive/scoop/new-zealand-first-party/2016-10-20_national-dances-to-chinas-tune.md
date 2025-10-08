@@ -1,9 +1,12 @@
 ---
 slug: national-dances-to-chinas-tune
-title: "National Dances to China’s Tune"
-date: 2016-10-20
-source-url: https://www.scoop.co.nz/stories/PA1610/S00330/national-dances-to-chinas-tune.htm
+title: National Dances to China’s Tune
+date: 2016-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00330/national-dances-to-chinas-tune.htm
 author: new-zealand-first-party
+permalink: /archive/2016/10/20/national-dances-to-chinas-tune/index.html
+layout: layout.njk
 ---
 National Dances to China’s Tune
 ===============================

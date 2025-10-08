@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-investigating-ways-to-help-people-who-stutter
-title: "UC researcher investigating ways to help people who stutter"
-date: 2013-11-07
-source-url: https://www.scoop.co.nz/stories/SC1311/S00019/uc-researcher-investigating-ways-to-help-people-who-stutter.htm
+title: UC researcher investigating ways to help people who stutter
+date: 2013-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00019/uc-researcher-investigating-ways-to-help-people-who-stutter.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/07/uc-researcher-investigating-ways-to-help-people-who-stutter/index.html
+layout: layout.njk
 ---
 UC researcher investigating ways to help people who stutter
 ===========================================================

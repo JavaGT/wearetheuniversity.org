@@ -1,9 +1,12 @@
 ---
 slug: architecture-students-redesign-lower-hutt
-title: "Architecture students redesign Lower Hutt"
-date: 2013-06-11
-source-url: https://www.scoop.co.nz/stories/AK1306/S00190/architecture-students-redesign-lower-hutt.htm
+title: Architecture students redesign Lower Hutt
+date: 2013-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1306/S00190/architecture-students-redesign-lower-hutt.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/06/11/architecture-students-redesign-lower-hutt/index.html
+layout: layout.njk
 ---
 Architecture students redesign Lower Hutt
 =========================================

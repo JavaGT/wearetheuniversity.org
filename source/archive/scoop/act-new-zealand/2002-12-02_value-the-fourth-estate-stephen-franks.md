@@ -1,9 +1,12 @@
 ---
 slug: value-the-fourth-estate-stephen-franks
-title: "Value the Fourth Estate -- Stephen Franks"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00012/value-the-fourth-estate-stephen-franks.htm
+title: Value the Fourth Estate -- Stephen Franks
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00012/value-the-fourth-estate-stephen-franks.htm
 author: act-new-zealand
+permalink: /archive/2002/12/02/value-the-fourth-estate-stephen-franks/index.html
+layout: layout.njk
 ---
 Value the Fourth Estate -- Stephen Franks
 =========================================

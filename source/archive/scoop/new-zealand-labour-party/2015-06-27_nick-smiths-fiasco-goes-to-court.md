@@ -1,9 +1,12 @@
 ---
 slug: nick-smiths-fiasco-goes-to-court
-title: "Nick Smith's Fiasco Goes to Court"
-date: 2015-06-27
-source-url: https://www.scoop.co.nz/stories/PA1506/S00498/nick-smiths-fiasco-goes-to-court.htm
+title: Nick Smith's Fiasco Goes to Court
+date: 2015-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00498/nick-smiths-fiasco-goes-to-court.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/27/nick-smiths-fiasco-goes-to-court/index.html
+layout: layout.njk
 ---
 Nick Smith's Fiasco Goes to Court
 =================================

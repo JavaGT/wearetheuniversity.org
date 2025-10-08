@@ -1,9 +1,12 @@
 ---
 slug: when-a-hobby-becomes-life-changing
-title: "When a hobby becomes life changing"
-date: 2020-01-14
-source-url: https://www.scoop.co.nz/stories/ED2001/S00005/when-a-hobby-becomes-life-changing.htm
+title: When a hobby becomes life changing
+date: 2020-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2001/S00005/when-a-hobby-becomes-life-changing.htm
 author: university-of-canterbury
+permalink: /archive/2020/01/14/when-a-hobby-becomes-life-changing/index.html
+layout: layout.njk
 ---
 When a hobby becomes life changing
 ==================================

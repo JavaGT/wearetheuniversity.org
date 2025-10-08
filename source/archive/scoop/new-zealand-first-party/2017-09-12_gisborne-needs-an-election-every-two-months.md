@@ -1,9 +1,12 @@
 ---
 slug: gisborne-needs-an-election-every-two-months
-title: "Gisborne Needs an Election Every Two Months"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/PA1709/S00133/gisborne-needs-an-election-every-two-months.htm
+title: Gisborne Needs an Election Every Two Months
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00133/gisborne-needs-an-election-every-two-months.htm
 author: new-zealand-first-party
+permalink: /archive/2017/09/12/gisborne-needs-an-election-every-two-months/index.html
+layout: layout.njk
 ---
 Gisborne Needs an Election Every Two Months
 ===========================================

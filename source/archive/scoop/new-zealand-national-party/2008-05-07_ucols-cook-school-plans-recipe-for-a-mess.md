@@ -1,9 +1,12 @@
 ---
 slug: ucols-cook-school-plans-recipe-for-a-mess
-title: "UCOL’s cook school plans recipe for a mess"
-date: 2008-05-07
-source-url: https://www.scoop.co.nz/stories/PA0805/S00108/ucols-cook-school-plans-recipe-for-a-mess.htm
+title: UCOL’s cook school plans recipe for a mess
+date: 2008-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00108/ucols-cook-school-plans-recipe-for-a-mess.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/07/ucols-cook-school-plans-recipe-for-a-mess/index.html
+layout: layout.njk
 ---
 UCOL’s cook school plans recipe for a mess
 ==========================================

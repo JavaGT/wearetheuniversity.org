@@ -1,9 +1,12 @@
 ---
 slug: we-are-holding-you-to-account-jacinda
-title: "We are holding you to account Jacinda"
-date: 2019-08-06
-source-url: https://www.scoop.co.nz/stories/PO1908/S00083/we-are-holding-you-to-account-jacinda.htm
+title: We are holding you to account Jacinda
+date: 2019-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00083/we-are-holding-you-to-account-jacinda.htm
 author: te-pati-maori
+permalink: /archive/2019/08/06/we-are-holding-you-to-account-jacinda/index.html
+layout: layout.njk
 ---
 We are holding you to account Jacinda
 =====================================

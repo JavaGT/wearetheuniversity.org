@@ -1,9 +1,13 @@
 ---
 slug: nz-needs-clean-green-jobs-not-risky-deepwater-drilling
-title: "NZ needs clean green jobs, not risky deepwater drilling"
-date: 2011-08-16
-source-url: https://www.scoop.co.nz/stories/PA1108/S00315/nz-needs-clean-green-jobs-not-risky-deepwater-drilling.htm
+title: NZ needs clean green jobs, not risky deepwater drilling
+date: 2011-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00315/nz-needs-clean-green-jobs-not-risky-deepwater-drilling.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/16/nz-needs-clean-green-jobs-not-risky-deepwater-drilling/index.html
+layout: layout.njk
 ---
 NZ needs clean green jobs, not risky deepwater drilling
 =======================================================

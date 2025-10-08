@@ -1,9 +1,13 @@
 ---
 slug: govt-ministers-contradict-each-other-over-grants
-title: "Govt ministers contradict each other over grants"
-date: 2006-01-26
-source-url: https://www.scoop.co.nz/stories/PA0601/S00132/govt-ministers-contradict-each-other-over-grants.htm
+title: Govt ministers contradict each other over grants
+date: 2006-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00132/govt-ministers-contradict-each-other-over-grants.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/01/26/govt-ministers-contradict-each-other-over-grants/index.html
+layout: layout.njk
 ---
 Govt ministers contradict each other over grants
 ================================================

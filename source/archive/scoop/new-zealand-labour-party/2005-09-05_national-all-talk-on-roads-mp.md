@@ -1,9 +1,12 @@
 ---
 slug: national-all-talk-on-roads-mp
-title: "National 'all talk on roads' - MP"
-date: 2005-09-05
-source-url: https://www.scoop.co.nz/stories/PA0509/S00098/national-all-talk-on-roads-mp.htm
+title: National 'all talk on roads' - MP
+date: 2005-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00098/national-all-talk-on-roads-mp.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/05/national-all-talk-on-roads-mp/index.html
+layout: layout.njk
 ---
 National 'all talk on roads' - MP
 =================================

@@ -1,9 +1,11 @@
 ---
 slug: anne-tolleys-newsletter
-title: "Anne Tolley's Newsletter"
-date: 2008-10-18
+title: Anne Tolley's Newsletter
+date: 2008-10-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0810/S00425/anne-tolleys-newsletter.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/18/anne-tolleys-newsletter/index.html
+layout: layout.njk
 ---
 Anne Tolley's Newsletter
 ========================

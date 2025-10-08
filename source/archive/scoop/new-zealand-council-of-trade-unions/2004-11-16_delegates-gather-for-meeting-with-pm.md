@@ -1,9 +1,12 @@
 ---
 slug: delegates-gather-for-meeting-with-pm
-title: "Delegates Gather For Meeting with PM"
-date: 2004-11-16
-source-url: https://www.scoop.co.nz/stories/PA0411/S00363/delegates-gather-for-meeting-with-pm.htm
+title: Delegates Gather For Meeting with PM
+date: 2004-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00363/delegates-gather-for-meeting-with-pm.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/11/16/delegates-gather-for-meeting-with-pm/index.html
+layout: layout.njk
 ---
 Delegates Gather For Meeting with PM
 ====================================

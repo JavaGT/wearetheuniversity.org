@@ -1,9 +1,12 @@
 ---
 slug: no-water-no-milk;-no-environment-no-economy
-title: "No Water, No Milk; No Environment, No Economy"
-date: 2010-06-06
-source-url: https://www.scoop.co.nz/stories/PA1006/S00125/no-water-no-milk-no-environment-no-economy.htm
+title: No Water, No Milk; No Environment, No Economy
+date: 2010-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00125/no-water-no-milk-no-environment-no-economy.htm
 author: green-party
+permalink: /archive/2010/06/06/no-water-no-milk/index.html
+layout: layout.njk
 ---
 No Water, No Milk; No Environment, No Economy
 =============================================

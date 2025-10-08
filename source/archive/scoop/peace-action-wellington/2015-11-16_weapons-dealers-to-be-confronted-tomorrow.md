@@ -1,9 +1,12 @@
 ---
 slug: weapons-dealers-to-be-confronted-tomorrow
-title: "Weapons dealers to be confronted tomorrow"
-date: 2015-11-16
-source-url: https://www.scoop.co.nz/stories/PO1511/S00239/weapons-dealers-to-be-confronted-tomorrow.htm
+title: Weapons dealers to be confronted tomorrow
+date: 2015-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1511/S00239/weapons-dealers-to-be-confronted-tomorrow.htm
 author: peace-action-wellington
+permalink: /archive/2015/11/16/weapons-dealers-to-be-confronted-tomorrow/index.html
+layout: layout.njk
 ---
 Weapons dealers to be confronted tomorrow
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: canterbury-musician-and-mentor-take-new-music-on-tour
-title: "Canterbury musician and mentor take new music on tour"
-date: 2021-08-16
-source-url: https://www.scoop.co.nz/stories/CU2108/S00136/canterbury-musician-and-mentor-take-new-music-on-tour.htm
+title: Canterbury musician and mentor take new music on tour
+date: 2021-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2108/S00136/canterbury-musician-and-mentor-take-new-music-on-tour.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/08/16/canterbury-musician-and-mentor-take-new-music-on-tour/index.html
+layout: layout.njk
 ---
 Canterbury musician and mentor take new music on tour
 =====================================================

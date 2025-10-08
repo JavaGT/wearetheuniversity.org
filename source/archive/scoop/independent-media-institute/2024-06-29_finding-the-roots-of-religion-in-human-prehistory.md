@@ -1,9 +1,13 @@
 ---
 slug: finding-the-roots-of-religion-in-human-prehistory
-title: "Finding The Roots Of Religion In Human Prehistory"
-date: 2024-06-29
-source-url: https://www.scoop.co.nz/stories/CU2406/S00465/finding-the-roots-of-religion-in-human-prehistory.htm
+title: Finding The Roots Of Religion In Human Prehistory
+date: 2024-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2406/S00465/finding-the-roots-of-religion-in-human-prehistory.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/06/29/finding-the-roots-of-religion-in-human-prehistory/index.html
+layout: layout.njk
 ---
 Finding The Roots Of Religion In Human Prehistory
 =================================================

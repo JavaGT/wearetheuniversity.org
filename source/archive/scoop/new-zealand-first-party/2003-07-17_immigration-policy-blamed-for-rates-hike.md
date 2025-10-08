@@ -1,9 +1,12 @@
 ---
 slug: immigration-policy-blamed-for-rates-hike
-title: "Immigration Policy Blamed For Rates Hike"
-date: 2003-07-17
-source-url: https://www.scoop.co.nz/stories/PA0307/S00312/immigration-policy-blamed-for-rates-hike.htm
+title: Immigration Policy Blamed For Rates Hike
+date: 2003-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00312/immigration-policy-blamed-for-rates-hike.htm
 author: new-zealand-first-party
+permalink: /archive/2003/07/17/immigration-policy-blamed-for-rates-hike/index.html
+layout: layout.njk
 ---
 Immigration Policy Blamed For Rates Hike
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-cancels-duck-hunting-season
-title: "Government Cancels Duck Hunting Season"
-date: 2019-10-15
-source-url: https://www.scoop.co.nz/stories/PA1910/S00106/government-cancels-duck-hunting-season.htm
+title: Government Cancels Duck Hunting Season
+date: 2019-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00106/government-cancels-duck-hunting-season.htm
 author: act-new-zealand
+permalink: /archive/2019/10/15/government-cancels-duck-hunting-season/index.html
+layout: layout.njk
 ---
 Government Cancels Duck Hunting Season
 ======================================

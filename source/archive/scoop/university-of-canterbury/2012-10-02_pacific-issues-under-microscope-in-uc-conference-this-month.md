@@ -1,9 +1,13 @@
 ---
 slug: pacific-issues-under-microscope-in-uc-conference-this-month
-title: "Pacific issues under microscope in UC conference this month"
-date: 2012-10-02
-source-url: https://www.scoop.co.nz/stories/ED1210/S00013/pacific-issues-under-microscope-in-uc-conference-this-month.htm
+title: Pacific issues under microscope in UC conference this month
+date: 2012-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00013/pacific-issues-under-microscope-in-uc-conference-this-month.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/02/pacific-issues-under-microscope-in-uc-conference-this-month/index.html
+layout: layout.njk
 ---
 Pacific issues under microscope in UC conference this month
 ===========================================================

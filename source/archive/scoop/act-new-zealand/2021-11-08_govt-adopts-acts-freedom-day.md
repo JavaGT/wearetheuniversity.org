@@ -1,9 +1,11 @@
 ---
 slug: govt-adopts-acts-freedom-day
-title: "Govt Adopts ACT’s Freedom Day"
-date: 2021-11-08
+title: Govt Adopts ACT’s Freedom Day
+date: 2021-11-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2111/S00087/govt-adopts-acts-freedom-day.htm
 author: act-new-zealand
+permalink: /archive/2021/11/08/govt-adopts-acts-freedom-day/index.html
+layout: layout.njk
 ---
 Govt Adopts ACT’s Freedom Day
 =============================

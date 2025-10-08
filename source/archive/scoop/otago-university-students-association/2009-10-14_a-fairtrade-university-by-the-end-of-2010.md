@@ -1,9 +1,12 @@
 ---
 slug: a-fairtrade-university-by-the-end-of-2010
-title: "A FairTrade University by the end of 2010"
-date: 2009-10-14
-source-url: https://www.scoop.co.nz/stories/ED0910/S00059/a-fairtrade-university-by-the-end-of-2010.htm
+title: A FairTrade University by the end of 2010
+date: 2009-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00059/a-fairtrade-university-by-the-end-of-2010.htm
 author: otago-university-students-association
+permalink: /archive/2009/10/14/a-fairtrade-university-by-the-end-of-2010/index.html
+layout: layout.njk
 ---
 A FairTrade University by the end of 2010
 =========================================

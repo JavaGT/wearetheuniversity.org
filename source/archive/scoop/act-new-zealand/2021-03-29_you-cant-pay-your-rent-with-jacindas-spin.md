@@ -1,9 +1,12 @@
 ---
 slug: you-cant-pay-your-rent-with-jacindas-spin
-title: "You Can’t Pay Your Rent With Jacinda’s Spin"
-date: 2021-03-29
-source-url: https://www.scoop.co.nz/stories/PA2103/S00223/you-cant-pay-your-rent-with-jacindas-spin.htm
+title: You Can’t Pay Your Rent With Jacinda’s Spin
+date: 2021-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00223/you-cant-pay-your-rent-with-jacindas-spin.htm
 author: act-new-zealand
+permalink: /archive/2021/03/29/you-cant-pay-your-rent-with-jacindas-spin/index.html
+layout: layout.njk
 ---
 You Can’t Pay Your Rent With Jacinda’s Spin
 ===========================================

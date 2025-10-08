@@ -1,9 +1,13 @@
 ---
 slug: systemic-problems-and-under-resourcing-in-nz-coronial-system
-title: "Systemic problems and under-resourcing in NZ coronial system"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/ED1407/S00092/systemic-problems-and-under-resourcing-in-nz-coronial-system.htm
+title: Systemic problems and under-resourcing in NZ coronial system
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00092/systemic-problems-and-under-resourcing-in-nz-coronial-system.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/07/21/systemic-problems-and-under-resourcing-in-nz-coronial-system/index.html
+layout: layout.njk
 ---
 Systemic problems and under-resourcing in NZ coronial system
 ============================================================

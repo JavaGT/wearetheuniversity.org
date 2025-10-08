@@ -1,9 +1,12 @@
 ---
 slug: call-to-put-prescription-cost-increase-on-hold
-title: "Call To Put Prescription Cost Increase On Hold"
-date: 2012-11-14
-source-url: https://www.scoop.co.nz/stories/PA1211/S00241/call-to-put-prescription-cost-increase-on-hold.htm
+title: Call To Put Prescription Cost Increase On Hold
+date: 2012-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00241/call-to-put-prescription-cost-increase-on-hold.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/14/call-to-put-prescription-cost-increase-on-hold/index.html
+layout: layout.njk
 ---
 Call To Put Prescription Cost Increase On Hold
 ==============================================

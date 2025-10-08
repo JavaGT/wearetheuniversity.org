@@ -1,9 +1,12 @@
 ---
 slug: research-funded-to-transform-ivf-procedures
-title: "Research funded to transform IVF procedures"
-date: 2003-11-13
-source-url: https://www.scoop.co.nz/stories/GE0311/S00060/research-funded-to-transform-ivf-procedures.htm
+title: Research funded to transform IVF procedures
+date: 2003-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0311/S00060/research-funded-to-transform-ivf-procedures.htm
 author: aut-university
+permalink: /archive/2003/11/13/research-funded-to-transform-ivf-procedures/index.html
+layout: layout.njk
 ---
 Research funded to transform IVF procedures
 ===========================================

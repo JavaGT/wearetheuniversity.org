@@ -1,9 +1,13 @@
 ---
 slug: survey-shows-strong-public-support-for-big-teacher-pay-rise
-title: "Survey shows strong public support for big teacher pay rise"
-date: 2018-04-11
-source-url: https://www.scoop.co.nz/stories/PO1804/S00111/survey-shows-strong-public-support-for-big-teacher-pay-rise.htm
+title: Survey shows strong public support for big teacher pay rise
+date: 2018-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1804/S00111/survey-shows-strong-public-support-for-big-teacher-pay-rise.htm
 author: nzei
+permalink: >-
+  /archive/2018/04/11/survey-shows-strong-public-support-for-big-teacher-pay-rise/index.html
+layout: layout.njk
 ---
 Survey shows strong public support for big teacher pay rise
 ===========================================================

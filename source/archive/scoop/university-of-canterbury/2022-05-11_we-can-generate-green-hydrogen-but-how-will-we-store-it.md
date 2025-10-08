@@ -1,9 +1,13 @@
 ---
 slug: we-can-generate-green-hydrogen-but-how-will-we-store-it
-title: "We Can Generate Green Hydrogen, But How Will We Store It?"
-date: 2022-05-11
-source-url: https://www.scoop.co.nz/stories/SC2205/S00018/we-can-generate-green-hydrogen-but-how-will-we-store-it.htm
+title: We Can Generate Green Hydrogen, But How Will We Store It?
+date: 2022-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2205/S00018/we-can-generate-green-hydrogen-but-how-will-we-store-it.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/11/we-can-generate-green-hydrogen-but-how-will-we-store-it/index.html
+layout: layout.njk
 ---
 We Can Generate Green Hydrogen, But How Will We Store It?
 =========================================================

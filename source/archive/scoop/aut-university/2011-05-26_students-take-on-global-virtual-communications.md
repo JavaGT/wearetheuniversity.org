@@ -1,9 +1,12 @@
 ---
 slug: students-take-on-global-virtual-communications
-title: "Students Take On Global Virtual Communications"
-date: 2011-05-26
-source-url: https://www.scoop.co.nz/stories/ED1105/S00104/students-take-on-global-virtual-communications.htm
+title: Students Take On Global Virtual Communications
+date: 2011-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00104/students-take-on-global-virtual-communications.htm
 author: aut-university
+permalink: /archive/2011/05/26/students-take-on-global-virtual-communications/index.html
+layout: layout.njk
 ---
 Students Take On Global Virtual Communications
 ==============================================

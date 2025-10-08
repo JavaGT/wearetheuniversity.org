@@ -1,9 +1,11 @@
 ---
 slug: water-study-gets-flowing
-title: "Water study gets flowing"
-date: 2013-09-11
+title: Water study gets flowing
+date: 2013-09-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1309/S00022/water-study-gets-flowing.htm
 author: university-of-waikato
+permalink: /archive/2013/09/11/water-study-gets-flowing/index.html
+layout: layout.njk
 ---
 Water study gets flowing
 ========================

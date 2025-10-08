@@ -1,9 +1,13 @@
 ---
 slug: giving-parents-students-control-over-funding-the-right-way
-title: "Giving parents, students control over funding the right way"
-date: 2019-11-13
-source-url: https://www.scoop.co.nz/stories/PA1911/S00098/giving-parents-students-control-over-funding-the-right-way.htm
+title: Giving parents, students control over funding the right way
+date: 2019-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00098/giving-parents-students-control-over-funding-the-right-way.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/11/13/giving-parents-students-control-over-funding-the-right-way/index.html
+layout: layout.njk
 ---
 Giving parents, students control over funding the right way
 ===========================================================

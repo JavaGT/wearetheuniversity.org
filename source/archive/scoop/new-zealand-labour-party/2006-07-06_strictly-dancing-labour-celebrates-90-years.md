@@ -1,9 +1,12 @@
 ---
 slug: strictly-dancing-labour-celebrates-90-years
-title: "Strictly Dancing: Labour celebrates 90 years"
-date: 2006-07-06
-source-url: https://www.scoop.co.nz/stories/PO0607/S00039/strictly-dancing-labour-celebrates-90-years.htm
+title: 'Strictly Dancing: Labour celebrates 90 years'
+date: 2006-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0607/S00039/strictly-dancing-labour-celebrates-90-years.htm
 author: new-zealand-labour-party
+permalink: /archive/2006/07/06/strictly-dancing-labour-celebrates-90-years/index.html
+layout: layout.njk
 ---
 Strictly Dancing: Labour celebrates 90 years
 ============================================

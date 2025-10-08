@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-corrects-students-association
-title: "Lincoln University Corrects Students’ Association"
-date: 2009-07-10
-source-url: https://www.scoop.co.nz/stories/BU0907/S00272/lincoln-university-corrects-students-association.htm
+title: Lincoln University Corrects Students’ Association
+date: 2009-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00272/lincoln-university-corrects-students-association.htm
 author: lincoln-university
+permalink: >-
+  /archive/2009/07/10/lincoln-university-corrects-students-association/index.html
+layout: layout.njk
 ---
 Lincoln University Corrects Students’ Association
 =================================================

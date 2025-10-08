@@ -1,9 +1,13 @@
 ---
 slug: lincoln-leads-the-way-in-ditching-single-use-coffee-cups
-title: "Lincoln leads the way in ditching single-use coffee cups"
-date: 2020-02-04
-source-url: https://www.scoop.co.nz/stories/AK2002/S00048/lincoln-leads-the-way-in-ditching-single-use-coffee-cups.htm
+title: Lincoln leads the way in ditching single-use coffee cups
+date: 2020-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2002/S00048/lincoln-leads-the-way-in-ditching-single-use-coffee-cups.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/02/04/lincoln-leads-the-way-in-ditching-single-use-coffee-cups/index.html
+layout: layout.njk
 ---
 Lincoln leads the way in ditching single-use coffee cups
 ========================================================

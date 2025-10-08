@@ -1,9 +1,13 @@
 ---
 slug: affording-our-future-opens-up-big-picture-issues-for-2013
-title: "‘Affording Our Future’ opens up big picture issues for 2013"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/PO1212/S00182/affording-our-future-opens-up-big-picture-issues-for-2013.htm
+title: ‘Affording Our Future’ opens up big picture issues for 2013
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1212/S00182/affording-our-future-opens-up-big-picture-issues-for-2013.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/12/11/affording-our-future-opens-up-big-picture-issues-for-2013/index.html
+layout: layout.njk
 ---
 ‘Affording Our Future’ opens up big picture issues for 2013
 ===========================================================

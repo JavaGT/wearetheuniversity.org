@@ -1,9 +1,13 @@
 ---
 slug: survey-finds-harrassment-of-queer-students-common
-title: "Survey Finds Harrassment Of Queer Students Common"
-date: 2001-12-18
-source-url: https://www.scoop.co.nz/stories/ED0112/S00021/survey-finds-harrassment-of-queer-students-common.htm
+title: Survey Finds Harrassment Of Queer Students Common
+date: 2001-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0112/S00021/survey-finds-harrassment-of-queer-students-common.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2001/12/18/survey-finds-harrassment-of-queer-students-common/index.html
+layout: layout.njk
 ---
 Survey Finds Harrassment Of Queer Students Common
 =================================================

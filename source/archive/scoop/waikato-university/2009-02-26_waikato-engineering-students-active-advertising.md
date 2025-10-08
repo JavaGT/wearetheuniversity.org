@@ -1,9 +1,12 @@
 ---
 slug: waikato-engineering-students-active-advertising
-title: "Waikato engineering student's 'active advertising'"
-date: 2009-02-26
-source-url: https://www.scoop.co.nz/stories/ED0902/S00099/waikato-engineering-students-active-advertising.htm
+title: Waikato engineering student's 'active advertising'
+date: 2009-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00099/waikato-engineering-students-active-advertising.htm
 author: waikato-university
+permalink: /archive/2009/02/26/waikato-engineering-students-active-advertising/index.html
+layout: layout.njk
 ---
 Waikato engineering student's 'active advertising'
 ==================================================

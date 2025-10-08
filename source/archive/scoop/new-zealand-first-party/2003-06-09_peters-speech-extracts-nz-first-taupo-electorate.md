@@ -1,9 +1,13 @@
 ---
 slug: peters-speech-extracts-nz-first-taupo-electorate
-title: "Peters Speech Extracts NZ First Taupo Electorate"
-date: 2003-06-09
-source-url: https://www.scoop.co.nz/stories/PA0306/S00101/peters-speech-extracts-nz-first-taupo-electorate.htm
+title: Peters Speech Extracts NZ First Taupo Electorate
+date: 2003-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00101/peters-speech-extracts-nz-first-taupo-electorate.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2003/06/09/peters-speech-extracts-nz-first-taupo-electorate/index.html
+layout: layout.njk
 ---
 Peters Speech Extracts NZ First Taupo Electorate
 ================================================

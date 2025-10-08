@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-rose-tinted-glasses-v-reality
-title: "Speech: Peters - Rose -Tinted Glasses v Reality"
-date: 2017-06-24
-source-url: https://www.scoop.co.nz/stories/PA1706/S00411/speech-peters-rose-tinted-glasses-v-reality.htm
+title: 'Speech: Peters - Rose -Tinted Glasses v Reality'
+date: 2017-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00411/speech-peters-rose-tinted-glasses-v-reality.htm
 author: new-zealand-first-party
+permalink: /archive/2017/06/24/speech-peters-rose-tinted-glasses-v-reality/index.html
+layout: layout.njk
 ---
 Speech: Peters - Rose -Tinted Glasses v Reality
 ===============================================

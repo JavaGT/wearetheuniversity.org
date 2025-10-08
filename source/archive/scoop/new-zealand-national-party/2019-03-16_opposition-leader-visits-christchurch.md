@@ -1,9 +1,12 @@
 ---
 slug: opposition-leader-visits-christchurch
-title: "Opposition Leader visits Christchurch"
-date: 2019-03-16
-source-url: https://www.scoop.co.nz/stories/PA1903/S00121/opposition-leader-visits-christchurch.htm
+title: Opposition Leader visits Christchurch
+date: 2019-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1903/S00121/opposition-leader-visits-christchurch.htm
 author: new-zealand-national-party
+permalink: /archive/2019/03/16/opposition-leader-visits-christchurch/index.html
+layout: layout.njk
 ---
 Opposition Leader visits Christchurch
 =====================================

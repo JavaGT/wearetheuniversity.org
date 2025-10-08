@@ -1,9 +1,12 @@
 ---
 slug: sue-bradfords-address-racing-bill-2nd-reading
-title: "Sue Bradford's Address: Racing Bill - 2nd Reading"
-date: 2002-10-11
-source-url: https://www.scoop.co.nz/stories/PA0210/S00229/sue-bradfords-address-racing-bill-2nd-reading.htm
+title: 'Sue Bradford''s Address: Racing Bill - 2nd Reading'
+date: 2002-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00229/sue-bradfords-address-racing-bill-2nd-reading.htm
 author: green-party
+permalink: /archive/2002/10/11/sue-bradfords-address-racing-bill-2nd-reading/index.html
+layout: layout.njk
 ---
 Sue Bradford's Address: Racing Bill - 2nd Reading
 =================================================

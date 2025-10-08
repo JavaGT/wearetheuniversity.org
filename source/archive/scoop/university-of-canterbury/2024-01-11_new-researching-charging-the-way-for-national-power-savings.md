@@ -1,9 +1,13 @@
 ---
 slug: new-researching-charging-the-way-for-national-power-savings
-title: "New Researching Charging The Way For National Power Savings"
-date: 2024-01-11
-source-url: https://www.scoop.co.nz/stories/ED2401/S00003/new-researching-charging-the-way-for-national-power-savings.htm
+title: New Researching Charging The Way For National Power Savings
+date: 2024-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2401/S00003/new-researching-charging-the-way-for-national-power-savings.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/01/11/new-researching-charging-the-way-for-national-power-savings/index.html
+layout: layout.njk
 ---
 New Researching Charging The Way For National Power Savings
 ===========================================================

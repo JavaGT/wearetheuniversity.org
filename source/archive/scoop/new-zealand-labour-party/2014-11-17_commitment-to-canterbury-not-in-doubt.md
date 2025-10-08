@@ -1,9 +1,12 @@
 ---
 slug: commitment-to-canterbury-not-in-doubt
-title: "Commitment to Canterbury not in doubt"
-date: 2014-11-17
-source-url: https://www.scoop.co.nz/stories/PA1411/S00215/commitment-to-canterbury-not-in-doubt.htm
+title: Commitment to Canterbury not in doubt
+date: 2014-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00215/commitment-to-canterbury-not-in-doubt.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/17/commitment-to-canterbury-not-in-doubt/index.html
+layout: layout.njk
 ---
 Commitment to Canterbury not in doubt
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-7-june-2007
-title: "AUS Tertiary Update, 7 June 2007"
-date: 2007-06-08
-source-url: https://www.scoop.co.nz/stories/ED0706/S00030/aus-tertiary-update-7-june-2007.htm
+title: AUS Tertiary Update, 7 June 2007
+date: 2007-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00030/aus-tertiary-update-7-june-2007.htm
 author: association-of-university-staff
+permalink: /archive/2007/06/08/aus-tertiary-update-7-june-2007/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update, 7 June 2007
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-must-take-leadership-role-in-pacific
-title: "New Zealand Must Take Leadership Role in Pacific"
-date: 2004-07-21
-source-url: https://www.scoop.co.nz/stories/ED0407/S00064/new-zealand-must-take-leadership-role-in-pacific.htm
+title: New Zealand Must Take Leadership Role in Pacific
+date: 2004-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00064/new-zealand-must-take-leadership-role-in-pacific.htm
 author: lincoln-university
+permalink: >-
+  /archive/2004/07/21/new-zealand-must-take-leadership-role-in-pacific/index.html
+layout: layout.njk
 ---
 New Zealand Must Take Leadership Role in Pacific
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: greater-transparency-needed-over-major-school-changes
-title: "Greater transparency needed over major school changes"
-date: 2015-07-29
-source-url: https://www.scoop.co.nz/stories/ED1507/S00120/greater-transparency-needed-over-major-school-changes.htm
+title: Greater transparency needed over major school changes
+date: 2015-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00120/greater-transparency-needed-over-major-school-changes.htm
 author: nzei
+permalink: >-
+  /archive/2015/07/29/greater-transparency-needed-over-major-school-changes/index.html
+layout: layout.njk
 ---
 Greater transparency needed over major school changes
 =====================================================

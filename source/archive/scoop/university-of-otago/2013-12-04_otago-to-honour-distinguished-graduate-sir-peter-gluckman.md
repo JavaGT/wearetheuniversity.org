@@ -1,9 +1,13 @@
 ---
 slug: otago-to-honour-distinguished-graduate-sir-peter-gluckman
-title: "Otago to honour distinguished graduate Sir Peter Gluckman"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/SC1312/S00013/otago-to-honour-distinguished-graduate-sir-peter-gluckman.htm
+title: Otago to honour distinguished graduate Sir Peter Gluckman
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00013/otago-to-honour-distinguished-graduate-sir-peter-gluckman.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/12/04/otago-to-honour-distinguished-graduate-sir-peter-gluckman/index.html
+layout: layout.njk
 ---
 Otago to honour distinguished graduate Sir Peter Gluckman
 =========================================================

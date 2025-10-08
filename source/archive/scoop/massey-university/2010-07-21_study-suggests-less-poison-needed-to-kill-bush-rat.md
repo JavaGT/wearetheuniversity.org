@@ -1,9 +1,13 @@
 ---
 slug: study-suggests-less-poison-needed-to-kill-bush-rat
-title: "Study suggests less poison needed to kill bush rat"
-date: 2010-07-21
-source-url: https://www.scoop.co.nz/stories/ED1007/S00069/study-suggests-less-poison-needed-to-kill-bush-rat.htm
+title: Study suggests less poison needed to kill bush rat
+date: 2010-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00069/study-suggests-less-poison-needed-to-kill-bush-rat.htm
 author: massey-university
+permalink: >-
+  /archive/2010/07/21/study-suggests-less-poison-needed-to-kill-bush-rat/index.html
+layout: layout.njk
 ---
 Study suggests less poison needed to kill bush rat
 ==================================================

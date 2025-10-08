@@ -1,9 +1,12 @@
 ---
 slug: dr-russel-norman-budget-speech
-title: "Dr Russel Norman: Budget Speech"
-date: 2010-05-20
-source-url: https://www.scoop.co.nz/stories/PA1005/S00325/dr-russel-norman-budget-speech.htm
+title: 'Dr Russel Norman: Budget Speech'
+date: 2010-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00325/dr-russel-norman-budget-speech.htm
 author: green-party
+permalink: /archive/2010/05/20/dr-russel-norman-budget-speech/index.html
+layout: layout.njk
 ---
 Dr Russel Norman: Budget Speech
 ===============================

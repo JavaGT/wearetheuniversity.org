@@ -1,9 +1,12 @@
 ---
 slug: centre-for-new-zealand-studies-going-going…
-title: "Centre for New Zealand Studies going, going…?"
-date: 2009-10-05
-source-url: https://www.scoop.co.nz/stories/PA0910/S00057/centre-for-new-zealand-studies-going-going.htm
+title: Centre for New Zealand Studies going, going…?
+date: 2009-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00057/centre-for-new-zealand-studies-going-going.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/05/centre-for-new-zealand-studies-going-going/index.html
+layout: layout.njk
 ---
 Centre for New Zealand Studies going, going…?
 =============================================

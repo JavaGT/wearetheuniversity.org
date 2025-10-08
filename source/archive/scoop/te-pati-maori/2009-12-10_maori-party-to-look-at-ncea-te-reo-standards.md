@@ -1,9 +1,12 @@
 ---
 slug: maori-party-to-look-at-ncea-te-reo-standards
-title: "Maori Party to look at NCEA te reo standards"
-date: 2009-12-10
-source-url: https://www.scoop.co.nz/stories/PA0912/S00147/maori-party-to-look-at-ncea-te-reo-standards.htm
+title: Maori Party to look at NCEA te reo standards
+date: 2009-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00147/maori-party-to-look-at-ncea-te-reo-standards.htm
 author: te-pati-maori
+permalink: /archive/2009/12/10/maori-party-to-look-at-ncea-te-reo-standards/index.html
+layout: layout.njk
 ---
 Maori Party to look at NCEA te reo standards
 ============================================

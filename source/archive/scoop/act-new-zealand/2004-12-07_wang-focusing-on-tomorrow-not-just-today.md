@@ -1,9 +1,12 @@
 ---
 slug: wang-focusing-on-tomorrow-not-just-today
-title: "Wang: Focusing on tomorrow, not just today"
-date: 2004-12-07
-source-url: https://www.scoop.co.nz/stories/PA0412/S00178/wang-focusing-on-tomorrow-not-just-today.htm
+title: 'Wang: Focusing on tomorrow, not just today'
+date: 2004-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00178/wang-focusing-on-tomorrow-not-just-today.htm
 author: act-new-zealand
+permalink: /archive/2004/12/07/wang-focusing-on-tomorrow-not-just-today/index.html
+layout: layout.njk
 ---
 Wang: Focusing on tomorrow, not just today
 ==========================================

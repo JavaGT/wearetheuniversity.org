@@ -1,9 +1,12 @@
 ---
 slug: key-launches-literacy-and-numeracy-crusade
-title: "Key launches literacy and numeracy crusade"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PA0810/S00273/key-launches-literacy-and-numeracy-crusade.htm
+title: Key launches literacy and numeracy crusade
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00273/key-launches-literacy-and-numeracy-crusade.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/13/key-launches-literacy-and-numeracy-crusade/index.html
+layout: layout.njk
 ---
 Key launches literacy and numeracy crusade
 ==========================================

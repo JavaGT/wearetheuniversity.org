@@ -1,9 +1,13 @@
 ---
 slug: national-will-nurture-new-zealands-technology-talent
-title: "National Will Nurture New Zealand’s Technology Talent"
-date: 2020-09-21
-source-url: https://www.scoop.co.nz/stories/PA2009/S00176/national-will-nurture-new-zealands-technology-talent.htm
+title: National Will Nurture New Zealand’s Technology Talent
+date: 2020-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00176/national-will-nurture-new-zealands-technology-talent.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/09/21/national-will-nurture-new-zealands-technology-talent/index.html
+layout: layout.njk
 ---
 National Will Nurture New Zealand’s Technology Talent
 =====================================================

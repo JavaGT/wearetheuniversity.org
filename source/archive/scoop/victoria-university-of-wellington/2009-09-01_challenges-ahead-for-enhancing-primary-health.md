@@ -1,9 +1,12 @@
 ---
 slug: challenges-ahead-for-enhancing-primary-health
-title: "Challenges ahead for enhancing primary health"
-date: 2009-09-01
-source-url: https://www.scoop.co.nz/stories/GE0909/S00002/challenges-ahead-for-enhancing-primary-health.htm
+title: Challenges ahead for enhancing primary health
+date: 2009-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0909/S00002/challenges-ahead-for-enhancing-primary-health.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/09/01/challenges-ahead-for-enhancing-primary-health/index.html
+layout: layout.njk
 ---
 Challenges ahead for enhancing primary health
 =============================================

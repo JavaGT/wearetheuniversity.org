@@ -1,9 +1,13 @@
 ---
 slug: insulin-technology-will-provide-better-diabetes-care
-title: "Insulin technology will provide better diabetes care"
-date: 2019-08-06
-source-url: https://www.scoop.co.nz/stories/SC1908/S00017/insulin-technology-will-provide-better-diabetes-care.htm
+title: Insulin technology will provide better diabetes care
+date: 2019-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1908/S00017/insulin-technology-will-provide-better-diabetes-care.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/08/06/insulin-technology-will-provide-better-diabetes-care/index.html
+layout: layout.njk
 ---
 Insulin technology will provide better diabetes care
 ====================================================

@@ -1,4 +1,4 @@
----
+permalink: "/in-the-news/index.html"
 slug: 'in-the-news'
 title: 'In The News'
 ---

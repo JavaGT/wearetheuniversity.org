@@ -1,9 +1,13 @@
 ---
 slug: newman-online-weekly-commentary-by-muriel-newman
-title: "Newman Online Weekly commentary by Muriel Newman"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/PA0508/S00001/newman-online-weekly-commentary-by-muriel-newman.htm
+title: Newman Online Weekly commentary by Muriel Newman
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00001/newman-online-weekly-commentary-by-muriel-newman.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/08/01/newman-online-weekly-commentary-by-muriel-newman/index.html
+layout: layout.njk
 ---
 Newman Online Weekly commentary by Muriel Newman
 ================================================

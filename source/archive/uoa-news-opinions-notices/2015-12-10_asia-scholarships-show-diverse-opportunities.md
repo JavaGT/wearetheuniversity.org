@@ -1,8 +1,11 @@
 ---
 slug: asia-scholarships-show-diverse-opportunities
-title: "Asia scholarships show diverse opportunities"
-date: 2015-12-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/asia-scholarships-show-diverse-opportunities.html
+title: Asia scholarships show diverse opportunities
+date: 2015-12-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/asia-scholarships-show-diverse-opportunities.html
+permalink: /archive/2015/12/10/asia-scholarships-show-diverse-opportunities/index.html
+layout: layout.njk
 ---
 Asia scholarships show diverse opportunities
 ============================================

@@ -1,9 +1,16 @@
 ---
-slug: new-exhibitions-at-adam-art-gallery-help-us-think-about-our-relationship-with-the-built-environment
-title: "New Exhibitions At Adam Art Gallery Help Us Think About Our Relationship With The Built Environment"
-date: 2024-07-04
-source-url: https://www.scoop.co.nz/stories/AK2407/S00148/new-exhibitions-at-adam-art-gallery-help-us-think-about-our-relationship-with-the-built-environment.htm
+slug: >-
+  new-exhibitions-at-adam-art-gallery-help-us-think-about-our-relationship-with-the-built-environment
+title: >-
+  New Exhibitions At Adam Art Gallery Help Us Think About Our Relationship With
+  The Built Environment
+date: 2024-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2407/S00148/new-exhibitions-at-adam-art-gallery-help-us-think-about-our-relationship-with-the-built-environment.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/07/04/new-exhibitions-at-adam-art-gallery-help-us-think-about-our-relationship-with-the-built-environment/index.html
+layout: layout.njk
 ---
 New Exhibitions At Adam Art Gallery Help Us Think About Our Relationship With The Built Environment
 ===================================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: corrections-responsible-for-eru-disaster
-title: "Corrections Responsible For ERU Disaster"
-date: 2004-12-17
-source-url: https://www.scoop.co.nz/stories/PA0412/S00460/corrections-responsible-for-eru-disaster.htm
+title: Corrections Responsible For ERU Disaster
+date: 2004-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00460/corrections-responsible-for-eru-disaster.htm
 author: new-zealand-first-party
+permalink: /archive/2004/12/17/corrections-responsible-for-eru-disaster/index.html
+layout: layout.njk
 ---
 Corrections Responsible For ERU Disaster
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: sam-neils-oamaru-speech
-title: "Sam Neil's Oamaru Speech"
-date: 2005-09-15
+title: Sam Neil's Oamaru Speech
+date: 2005-09-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0509/S00178/sam-neils-oamaru-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/15/sam-neils-oamaru-speech/index.html
+layout: layout.njk
 ---
 Sam Neil's Oamaru Speech
 ========================

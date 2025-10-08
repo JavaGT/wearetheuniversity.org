@@ -1,9 +1,11 @@
 ---
 slug: wheres-the-party-at-john
-title: "Where’s the Party at John?"
-date: 2010-02-19
+title: Where’s the Party at John?
+date: 2010-02-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1002/S00284/wheres-the-party-at-john.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/19/wheres-the-party-at-john/index.html
+layout: layout.njk
 ---
 Where’s the Party at John?
 ==========================

@@ -1,9 +1,13 @@
 ---
 slug: ctu-calls-for-solidarity-for-locked-out-waikato-bus-drivers
-title: "CTU calls for solidarity for locked out Waikato bus drivers"
-date: 2018-11-19
-source-url: https://www.scoop.co.nz/stories/BU1811/S00556/ctu-calls-for-solidarity-for-locked-out-waikato-bus-drivers.htm
+title: CTU calls for solidarity for locked out Waikato bus drivers
+date: 2018-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1811/S00556/ctu-calls-for-solidarity-for-locked-out-waikato-bus-drivers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2018/11/19/ctu-calls-for-solidarity-for-locked-out-waikato-bus-drivers/index.html
+layout: layout.njk
 ---
 CTU calls for solidarity for locked out Waikato bus drivers
 ===========================================================

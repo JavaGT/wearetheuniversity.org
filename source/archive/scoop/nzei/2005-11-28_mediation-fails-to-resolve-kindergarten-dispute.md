@@ -1,9 +1,12 @@
 ---
 slug: mediation-fails-to-resolve-kindergarten-dispute
-title: "Mediation Fails To Resolve Kindergarten Dispute"
-date: 2005-11-28
-source-url: https://www.scoop.co.nz/stories/ED0511/S00089/mediation-fails-to-resolve-kindergarten-dispute.htm
+title: Mediation Fails To Resolve Kindergarten Dispute
+date: 2005-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00089/mediation-fails-to-resolve-kindergarten-dispute.htm
 author: nzei
+permalink: /archive/2005/11/28/mediation-fails-to-resolve-kindergarten-dispute/index.html
+layout: layout.njk
 ---
 Mediation Fails To Resolve Kindergarten Dispute
 ===============================================

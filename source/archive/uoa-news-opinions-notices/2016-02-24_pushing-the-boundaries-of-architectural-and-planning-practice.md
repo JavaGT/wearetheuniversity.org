@@ -1,8 +1,12 @@
 ---
 slug: pushing-the-boundaries-of-architectural-and-planning-practice
-title: "Pushing the boundaries of architectural and planning practice"
-date: 2016-02-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/pushing-the-boundaries-of-architectural-and-planning-practice-.html
+title: Pushing the boundaries of architectural and planning practice
+date: 2016-02-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/pushing-the-boundaries-of-architectural-and-planning-practice-.html
+permalink: >-
+  /archive/2016/02/24/pushing-the-boundaries-of-architectural-and-planning-practice/index.html
+layout: layout.njk
 ---
 Pushing the boundaries of architectural and planning practice
 =============================================================

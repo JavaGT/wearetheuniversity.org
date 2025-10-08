@@ -1,9 +1,12 @@
 ---
 slug: aut-entrepreneurs-take-national-win-to-toronto
-title: "AUT entrepreneurs take national win to Toronto"
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/BU0507/S00231/aut-entrepreneurs-take-national-win-to-toronto.htm
+title: AUT entrepreneurs take national win to Toronto
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0507/S00231/aut-entrepreneurs-take-national-win-to-toronto.htm
 author: aut-university
+permalink: /archive/2005/07/18/aut-entrepreneurs-take-national-win-to-toronto/index.html
+layout: layout.njk
 ---
 AUT entrepreneurs take national win to Toronto
 ==============================================

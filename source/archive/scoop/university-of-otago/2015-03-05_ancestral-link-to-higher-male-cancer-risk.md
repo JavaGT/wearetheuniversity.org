@@ -1,9 +1,12 @@
 ---
 slug: ancestral-link-to-higher-male-cancer-risk
-title: "Ancestral link to higher male cancer risk"
-date: 2015-03-05
-source-url: https://www.scoop.co.nz/stories/SC1503/S00024/ancestral-link-to-higher-male-cancer-risk.htm
+title: Ancestral link to higher male cancer risk
+date: 2015-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00024/ancestral-link-to-higher-male-cancer-risk.htm
 author: university-of-otago
+permalink: /archive/2015/03/05/ancestral-link-to-higher-male-cancer-risk/index.html
+layout: layout.njk
 ---
 Ancestral link to higher male cancer risk
 =========================================

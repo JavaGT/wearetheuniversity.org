@@ -1,9 +1,11 @@
 ---
 slug: brashs-latest-flip-flop
-title: "Brash's latest flip flop"
-date: 2005-09-14
+title: Brash's latest flip flop
+date: 2005-09-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00360/brashs-latest-flip-flop.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/14/brashs-latest-flip-flop/index.html
+layout: layout.njk
 ---
 Brash's latest flip flop
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: bangladesh-catastrophe-must-be-heeded
-title: "Bangladesh catastrophe must be heeded"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/PO1306/S00072/bangladesh-catastrophe-must-be-heeded.htm
+title: Bangladesh catastrophe must be heeded
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1306/S00072/bangladesh-catastrophe-must-be-heeded.htm
 author: ausa
+permalink: /archive/2013/06/06/bangladesh-catastrophe-must-be-heeded/index.html
+layout: layout.njk
 ---
 Bangladesh catastrophe must be heeded
 =====================================

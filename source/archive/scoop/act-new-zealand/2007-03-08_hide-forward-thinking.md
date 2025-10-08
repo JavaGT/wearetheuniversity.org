@@ -1,9 +1,11 @@
 ---
 slug: hide-forward-thinking
-title: "Hide: Forward Thinking"
-date: 2007-03-08
+title: 'Hide: Forward Thinking'
+date: 2007-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0703/S00144/hide-forward-thinking.htm
 author: act-new-zealand
+permalink: /archive/2007/03/08/hide-forward-thinking/index.html
+layout: layout.njk
 ---
 Hide: Forward Thinking
 ======================

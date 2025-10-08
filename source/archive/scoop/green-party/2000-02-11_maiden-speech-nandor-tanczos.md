@@ -1,9 +1,11 @@
 ---
 slug: maiden-speech-nandor-tanczos
-title: "Maiden Speech - Nandor Tanczos"
-date: 2000-02-11
+title: Maiden Speech - Nandor Tanczos
+date: 2000-02-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0002/S00143/maiden-speech-nandor-tanczos.htm
 author: green-party
+permalink: /archive/2000/02/11/maiden-speech-nandor-tanczos/index.html
+layout: layout.njk
 ---
 Maiden Speech - Nandor Tanczos
 ==============================

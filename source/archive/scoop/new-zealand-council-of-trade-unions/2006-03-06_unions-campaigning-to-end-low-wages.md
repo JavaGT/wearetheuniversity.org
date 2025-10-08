@@ -1,9 +1,12 @@
 ---
 slug: unions-campaigning-to-end-low-wages
-title: "Unions Campaigning To End Low Wages"
-date: 2006-03-06
-source-url: https://www.scoop.co.nz/stories/BU0603/S00072/unions-campaigning-to-end-low-wages.htm
+title: Unions Campaigning To End Low Wages
+date: 2006-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0603/S00072/unions-campaigning-to-end-low-wages.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/03/06/unions-campaigning-to-end-low-wages/index.html
+layout: layout.njk
 ---
 Unions Campaigning To End Low Wages
 ===================================

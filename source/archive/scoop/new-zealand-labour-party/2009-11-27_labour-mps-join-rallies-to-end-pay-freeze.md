@@ -1,9 +1,12 @@
 ---
 slug: labour-mps-join-rallies-to-end-pay-freeze
-title: "Labour MPs join rallies to end pay freeze"
-date: 2009-11-27
-source-url: https://www.scoop.co.nz/stories/PA0911/S00445/labour-mps-join-rallies-to-end-pay-freeze.htm
+title: Labour MPs join rallies to end pay freeze
+date: 2009-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00445/labour-mps-join-rallies-to-end-pay-freeze.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/27/labour-mps-join-rallies-to-end-pay-freeze/index.html
+layout: layout.njk
 ---
 Labour MPs join rallies to end pay freeze
 =========================================

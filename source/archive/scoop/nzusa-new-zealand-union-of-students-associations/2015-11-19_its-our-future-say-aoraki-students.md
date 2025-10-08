@@ -1,9 +1,12 @@
 ---
 slug: its-our-future-say-aoraki-students
-title: "‘It’s our future’ say Aoraki students"
-date: 2015-11-19
-source-url: https://www.scoop.co.nz/stories/BU1511/S00672/its-our-future-say-aoraki-students.htm
+title: ‘It’s our future’ say Aoraki students
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1511/S00672/its-our-future-say-aoraki-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/11/19/its-our-future-say-aoraki-students/index.html
+layout: layout.njk
 ---
 ‘It’s our future’ say Aoraki students
 =====================================

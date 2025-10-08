@@ -1,9 +1,12 @@
 ---
 slug: social-democracy-what-it-really-means-for-nz
-title: "Social Democracy: What it really means for NZ"
-date: 2002-10-25
-source-url: https://www.scoop.co.nz/stories/PA0210/S00536/social-democracy-what-it-really-means-for-nz.htm
+title: 'Social Democracy: What it really means for NZ'
+date: 2002-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00536/social-democracy-what-it-really-means-for-nz.htm
 author: act-new-zealand
+permalink: /archive/2002/10/25/social-democracy-what-it-really-means-for-nz/index.html
+layout: layout.njk
 ---
 Social Democracy: What it really means for NZ
 =============================================

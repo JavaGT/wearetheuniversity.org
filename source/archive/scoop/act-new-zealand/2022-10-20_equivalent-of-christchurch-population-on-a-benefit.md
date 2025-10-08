@@ -1,9 +1,13 @@
 ---
 slug: equivalent-of-christchurch-population-on-a-benefit
-title: "Equivalent Of Christchurch Population On A Benefit"
-date: 2022-10-20
-source-url: https://www.scoop.co.nz/stories/PA2210/S00151/equivalent-of-christchurch-population-on-a-benefit.htm
+title: Equivalent Of Christchurch Population On A Benefit
+date: 2022-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00151/equivalent-of-christchurch-population-on-a-benefit.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/10/20/equivalent-of-christchurch-population-on-a-benefit/index.html
+layout: layout.njk
 ---
 Equivalent Of Christchurch Population On A Benefit
 ==================================================

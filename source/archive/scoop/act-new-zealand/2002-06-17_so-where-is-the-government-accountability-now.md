@@ -1,9 +1,12 @@
 ---
 slug: so-where-is-the-government-accountability-now
-title: "So Where Is The Government Accountability Now?"
-date: 2002-06-17
-source-url: https://www.scoop.co.nz/stories/PA0206/S00288/so-where-is-the-government-accountability-now.htm
+title: So Where Is The Government Accountability Now?
+date: 2002-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00288/so-where-is-the-government-accountability-now.htm
 author: act-new-zealand
+permalink: /archive/2002/06/17/so-where-is-the-government-accountability-now/index.html
+layout: layout.njk
 ---
 So Where Is The Government Accountability Now?
 ==============================================

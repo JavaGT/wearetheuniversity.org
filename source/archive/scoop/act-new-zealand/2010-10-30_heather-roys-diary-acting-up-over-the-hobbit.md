@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-acting-up-over-the-hobbit
-title: "Heather Roy's Diary: Acting Up Over 'The Hobbit'"
-date: 2010-10-30
-source-url: https://www.scoop.co.nz/stories/PA1010/S00533/heather-roys-diary-acting-up-over-the-hobbit.htm
+title: 'Heather Roy''s Diary: Acting Up Over ''The Hobbit'''
+date: 2010-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00533/heather-roys-diary-acting-up-over-the-hobbit.htm
 author: act-new-zealand
+permalink: /archive/2010/10/30/heather-roys-diary-acting-up-over-the-hobbit/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Acting Up Over 'The Hobbit'
 ================================================

@@ -1,8 +1,12 @@
 ---
 slug: many-childcare-services-fall-short-of-nutrition-recommendations
-title: "Many childcare services fall short of nutrition recommendations"
-date: 2017-06-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/failed-fisheries-management-system-costing-nz-economy-and-environment-experts-say/many-childcare-services-fall-short-of-nutrition-recommendations.html
+title: Many childcare services fall short of nutrition recommendations
+date: 2017-06-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/failed-fisheries-management-system-costing-nz-economy-and-environment-experts-say/many-childcare-services-fall-short-of-nutrition-recommendations.html
+permalink: >-
+  /archive/2017/06/15/many-childcare-services-fall-short-of-nutrition-recommendations/index.html
+layout: layout.njk
 ---
 Many childcare services fall short of nutrition recommendations
 ===============================================================

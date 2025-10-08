@@ -1,9 +1,11 @@
 ---
 slug: www-mccully-co-nz-11-july-2008
-title: "www.mccully.co.nz - 11 July 2008"
-date: 2008-07-11
+title: www.mccully.co.nz - 11 July 2008
+date: 2008-07-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0807/S00239/wwwmccullyconz-11-july-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/11/www-mccully-co-nz-11-july-2008/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 11 July 2008
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: tec-labours-poster-child-of-bureaucratic-excess
-title: "TEC - Labour's poster child of bureaucratic excess"
-date: 2008-06-25
-source-url: https://www.scoop.co.nz/stories/PA0806/S00410/tec-labours-poster-child-of-bureaucratic-excess.htm
+title: TEC - Labour's poster child of bureaucratic excess
+date: 2008-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00410/tec-labours-poster-child-of-bureaucratic-excess.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/25/tec-labours-poster-child-of-bureaucratic-excess/index.html
+layout: layout.njk
 ---
 TEC - Labour's poster child of bureaucratic excess
 ==================================================

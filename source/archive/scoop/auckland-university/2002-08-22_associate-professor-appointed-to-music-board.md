@@ -1,9 +1,12 @@
 ---
 slug: associate-professor-appointed-to-music-board
-title: "Associate Professor Appointed to Music Board"
-date: 2002-08-22
-source-url: https://www.scoop.co.nz/stories/ED0208/S00031/associate-professor-appointed-to-music-board.htm
+title: Associate Professor Appointed to Music Board
+date: 2002-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00031/associate-professor-appointed-to-music-board.htm
 author: auckland-university
+permalink: /archive/2002/08/22/associate-professor-appointed-to-music-board/index.html
+layout: layout.njk
 ---
 Associate Professor Appointed to Music Board
 ============================================

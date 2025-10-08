@@ -1,9 +1,12 @@
 ---
 slug: labour-confirms-efu-koka-for-otara-by-election
-title: "Labour Confirms Efu Koka For Otara By-Election"
-date: 2008-05-19
-source-url: https://www.scoop.co.nz/stories/AK0805/S00173/labour-confirms-efu-koka-for-otara-by-election.htm
+title: Labour Confirms Efu Koka For Otara By-Election
+date: 2008-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0805/S00173/labour-confirms-efu-koka-for-otara-by-election.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/05/19/labour-confirms-efu-koka-for-otara-by-election/index.html
+layout: layout.njk
 ---
 Labour Confirms Efu Koka For Otara By-Election
 ==============================================

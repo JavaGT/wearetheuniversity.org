@@ -1,9 +1,13 @@
 ---
 slug: inequality-keeps-rising-says-uc-social-research-expert
-title: "Inequality keeps rising, says UC social research expert"
-date: 2013-12-27
-source-url: https://www.scoop.co.nz/stories/PO1312/S00299/inequality-keeps-rising-says-uc-social-research-expert.htm
+title: Inequality keeps rising, says UC social research expert
+date: 2013-12-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1312/S00299/inequality-keeps-rising-says-uc-social-research-expert.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/27/inequality-keeps-rising-says-uc-social-research-expert/index.html
+layout: layout.njk
 ---
 Inequality keeps rising, says UC social research expert
 =======================================================

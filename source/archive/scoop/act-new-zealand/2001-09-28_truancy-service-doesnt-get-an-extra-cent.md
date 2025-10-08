@@ -1,9 +1,12 @@
 ---
 slug: truancy-service-doesnt-get-an-extra-cent
-title: "Truancy Service Doesn't Get An Extra Cent"
-date: 2001-09-28
-source-url: https://www.scoop.co.nz/stories/PA0109/S00485/truancy-service-doesnt-get-an-extra-cent.htm
+title: Truancy Service Doesn't Get An Extra Cent
+date: 2001-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00485/truancy-service-doesnt-get-an-extra-cent.htm
 author: act-new-zealand
+permalink: /archive/2001/09/28/truancy-service-doesnt-get-an-extra-cent/index.html
+layout: layout.njk
 ---
 Truancy Service Doesn't Get An Extra Cent
 =========================================

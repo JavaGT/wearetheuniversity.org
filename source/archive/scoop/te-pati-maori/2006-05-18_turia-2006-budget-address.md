@@ -1,9 +1,11 @@
 ---
 slug: turia-2006-budget-address
-title: "Turia: 2006 Budget Address"
-date: 2006-05-18
+title: 'Turia: 2006 Budget Address'
+date: 2006-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00457/turia-2006-budget-address.htm
 author: te-pati-maori
+permalink: /archive/2006/05/18/turia-2006-budget-address/index.html
+layout: layout.njk
 ---
 Turia: 2006 Budget Address
 ==========================

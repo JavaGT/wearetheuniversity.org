@@ -1,9 +1,12 @@
 ---
 slug: unlawful-student-loan-changes-in-budget
-title: "Unlawful student loan changes in Budget?"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/PA1105/S00330/unlawful-student-loan-changes-in-budget.htm
+title: Unlawful student loan changes in Budget?
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00330/unlawful-student-loan-changes-in-budget.htm
 author: green-party
+permalink: /archive/2011/05/17/unlawful-student-loan-changes-in-budget/index.html
+layout: layout.njk
 ---
 Unlawful student loan changes in Budget?
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: collins-comments-budget-2009
-title: "Collins Comments: Budget 2009"
-date: 2009-05-29
+title: 'Collins Comments: Budget 2009'
+date: 2009-05-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0905/S00548/collins-comments-budget-2009.htm
 author: new-zealand-national-party
+permalink: /archive/2009/05/29/collins-comments-budget-2009/index.html
+layout: layout.njk
 ---
 Collins Comments: Budget 2009
 =============================

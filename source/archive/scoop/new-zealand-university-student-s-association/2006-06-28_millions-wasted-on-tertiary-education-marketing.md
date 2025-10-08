@@ -1,9 +1,12 @@
 ---
 slug: millions-wasted-on-tertiary-education-marketing
-title: "Millions Wasted on Tertiary Education Marketing"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/ED0606/S00075/millions-wasted-on-tertiary-education-marketing.htm
+title: Millions Wasted on Tertiary Education Marketing
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00075/millions-wasted-on-tertiary-education-marketing.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/06/28/millions-wasted-on-tertiary-education-marketing/index.html
+layout: layout.njk
 ---
 Millions Wasted on Tertiary Education Marketing
 ===============================================

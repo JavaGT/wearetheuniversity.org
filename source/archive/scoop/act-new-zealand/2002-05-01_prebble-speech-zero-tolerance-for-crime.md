@@ -1,9 +1,12 @@
 ---
 slug: prebble-speech-zero-tolerance-for-crime
-title: "Prebble Speech: Zero Tolerance For Crime"
-date: 2002-05-01
-source-url: https://www.scoop.co.nz/stories/PA0205/S00011/prebble-speech-zero-tolerance-for-crime.htm
+title: 'Prebble Speech: Zero Tolerance For Crime'
+date: 2002-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00011/prebble-speech-zero-tolerance-for-crime.htm
 author: act-new-zealand
+permalink: /archive/2002/05/01/prebble-speech-zero-tolerance-for-crime/index.html
+layout: layout.njk
 ---
 Prebble Speech: Zero Tolerance For Crime
 ========================================

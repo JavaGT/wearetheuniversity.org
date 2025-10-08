@@ -1,9 +1,12 @@
 ---
 slug: jills-angus-burney-congratulates-national
-title: "Jills Angus Burney congratulates National"
-date: 2008-11-10
-source-url: https://www.scoop.co.nz/stories/PO0811/S00147/jills-angus-burney-congratulates-national.htm
+title: Jills Angus Burney congratulates National
+date: 2008-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00147/jills-angus-burney-congratulates-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/11/10/jills-angus-burney-congratulates-national/index.html
+layout: layout.njk
 ---
 Jills Angus Burney congratulates National
 =========================================

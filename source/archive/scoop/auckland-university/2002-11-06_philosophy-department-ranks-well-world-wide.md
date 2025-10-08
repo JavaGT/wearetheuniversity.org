@@ -1,9 +1,12 @@
 ---
 slug: philosophy-department-ranks-well-world-wide
-title: "Philosophy Department ranks well world wide"
-date: 2002-11-06
-source-url: https://www.scoop.co.nz/stories/ED0211/S00010/philosophy-department-ranks-well-world-wide.htm
+title: Philosophy Department ranks well world wide
+date: 2002-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00010/philosophy-department-ranks-well-world-wide.htm
 author: auckland-university
+permalink: /archive/2002/11/06/philosophy-department-ranks-well-world-wide/index.html
+layout: layout.njk
 ---
 Philosophy Department ranks well world wide
 ===========================================

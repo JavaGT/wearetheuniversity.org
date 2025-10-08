@@ -1,9 +1,12 @@
 ---
 slug: first-symposium-for-gut-health-network
-title: "First symposium for Gut Health Network"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/GE1205/S00142/first-symposium-for-gut-health-network.htm
+title: First symposium for Gut Health Network
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1205/S00142/first-symposium-for-gut-health-network.htm
 author: university-of-otago
+permalink: /archive/2012/05/30/first-symposium-for-gut-health-network/index.html
+layout: layout.njk
 ---
 First symposium for Gut Health Network
 ======================================

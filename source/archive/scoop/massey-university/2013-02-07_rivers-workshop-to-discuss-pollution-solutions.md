@@ -1,9 +1,12 @@
 ---
 slug: rivers-workshop-to-discuss-pollution-solutions
-title: "Rivers workshop to discuss pollution solutions"
-date: 2013-02-07
-source-url: https://www.scoop.co.nz/stories/SC1302/S00025/rivers-workshop-to-discuss-pollution-solutions.htm
+title: Rivers workshop to discuss pollution solutions
+date: 2013-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1302/S00025/rivers-workshop-to-discuss-pollution-solutions.htm
 author: massey-university
+permalink: /archive/2013/02/07/rivers-workshop-to-discuss-pollution-solutions/index.html
+layout: layout.njk
 ---
 Rivers workshop to discuss pollution solutions
 ==============================================

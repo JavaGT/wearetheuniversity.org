@@ -1,9 +1,12 @@
 ---
 slug: drama-of-wwi-exemption-hearings-revealed
-title: "Drama of WWI exemption hearings revealed"
-date: 2015-11-27
-source-url: https://www.scoop.co.nz/stories/CU1511/S00430/drama-of-wwi-exemption-hearings-revealed.htm
+title: Drama of WWI exemption hearings revealed
+date: 2015-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1511/S00430/drama-of-wwi-exemption-hearings-revealed.htm
 author: massey-university
+permalink: /archive/2015/11/27/drama-of-wwi-exemption-hearings-revealed/index.html
+layout: layout.njk
 ---
 Drama of WWI exemption hearings revealed
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: students-will-continue-eub-campaign
-title: "Students will continue EUB campaign"
-date: 2001-04-18
-source-url: https://www.scoop.co.nz/stories/ED0104/S00014/students-will-continue-eub-campaign.htm
+title: Students will continue EUB campaign
+date: 2001-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0104/S00014/students-will-continue-eub-campaign.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/04/18/students-will-continue-eub-campaign/index.html
+layout: layout.njk
 ---
 Students will continue EUB campaign
 ===================================

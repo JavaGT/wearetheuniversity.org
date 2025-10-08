@@ -1,9 +1,12 @@
 ---
 slug: power-to-the-river-say-greens
-title: "Power To The River, Say Greens"
-date: 2003-06-22
-source-url: https://www.scoop.co.nz/stories/PA0306/S00393/power-to-the-river-say-greens.htm
+title: Power To The River, Say Greens
+date: 2003-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00393/power-to-the-river-say-greens.htm
 author: green-party
+permalink: /archive/2003/06/22/power-to-the-river-say-greens/index.html
+layout: layout.njk
 ---
 Power To The River, Say Greens
 ==============================

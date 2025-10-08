@@ -1,9 +1,12 @@
 ---
 slug: transport-under-labour-a-shambles-in-wellington
-title: "Transport Under Labour A Shambles In Wellington"
-date: 2020-09-19
-source-url: https://www.scoop.co.nz/stories/PO2009/S00301/transport-under-labour-a-shambles-in-wellington.htm
+title: Transport Under Labour A Shambles In Wellington
+date: 2020-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00301/transport-under-labour-a-shambles-in-wellington.htm
 author: new-zealand-national-party
+permalink: /archive/2020/09/19/transport-under-labour-a-shambles-in-wellington/index.html
+layout: layout.njk
 ---
 Transport Under Labour A Shambles In Wellington
 ===============================================

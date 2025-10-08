@@ -1,9 +1,12 @@
 ---
 slug: career-support-for-postgraduate-students
-title: "Career support for postgraduate students"
-date: 2004-06-28
-source-url: https://www.scoop.co.nz/stories/ED0406/S00097/career-support-for-postgraduate-students.htm
+title: Career support for postgraduate students
+date: 2004-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00097/career-support-for-postgraduate-students.htm
 author: auckland-university
+permalink: /archive/2004/06/28/career-support-for-postgraduate-students/index.html
+layout: layout.njk
 ---
 Career support for postgraduate students
 ========================================

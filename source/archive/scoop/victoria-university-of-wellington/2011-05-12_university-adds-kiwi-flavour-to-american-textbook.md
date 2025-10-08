@@ -1,9 +1,13 @@
 ---
 slug: university-adds-kiwi-flavour-to-american-textbook
-title: "University adds Kiwi flavour to American textbook"
-date: 2011-05-12
-source-url: https://www.scoop.co.nz/stories/ED1105/S00043/university-adds-kiwi-flavour-to-american-textbook.htm
+title: University adds Kiwi flavour to American textbook
+date: 2011-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00043/university-adds-kiwi-flavour-to-american-textbook.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/05/12/university-adds-kiwi-flavour-to-american-textbook/index.html
+layout: layout.njk
 ---
 University adds Kiwi flavour to American textbook
 =================================================

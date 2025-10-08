@@ -1,8 +1,12 @@
 ---
 slug: sniffing-out-the-enemy-scent-may-be-stoats-achilles-heel
-title: "Sniffing out the enemy: scent may be stoats’ Achilles heel"
-date: 2016-08-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/sniffing-out-the-enemy--scent-may-be-stoats-achilles-heel.html
+title: 'Sniffing out the enemy: scent may be stoats’ Achilles heel'
+date: 2016-08-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/sniffing-out-the-enemy--scent-may-be-stoats-achilles-heel.html
+permalink: >-
+  /archive/2016/08/01/sniffing-out-the-enemy-scent-may-be-stoats-achilles-heel/index.html
+layout: layout.njk
 ---
 Sniffing out the enemy: scent may be stoats’ Achilles heel
 ==========================================================

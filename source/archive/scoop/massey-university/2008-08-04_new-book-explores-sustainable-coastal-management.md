@@ -1,9 +1,13 @@
 ---
 slug: new-book-explores-sustainable-coastal-management
-title: "New book explores sustainable coastal management"
-date: 2008-08-04
-source-url: https://www.scoop.co.nz/stories/ED0808/S00006/new-book-explores-sustainable-coastal-management.htm
+title: New book explores sustainable coastal management
+date: 2008-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00006/new-book-explores-sustainable-coastal-management.htm
 author: massey-university
+permalink: >-
+  /archive/2008/08/04/new-book-explores-sustainable-coastal-management/index.html
+layout: layout.njk
 ---
 New book explores sustainable coastal management
 ================================================

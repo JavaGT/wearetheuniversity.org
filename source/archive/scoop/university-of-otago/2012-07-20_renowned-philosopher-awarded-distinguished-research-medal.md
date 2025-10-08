@@ -1,9 +1,13 @@
 ---
 slug: renowned-philosopher-awarded-distinguished-research-medal
-title: "Renowned philosopher awarded distinguished research medal"
-date: 2012-07-20
-source-url: https://www.scoop.co.nz/stories/CU1207/S00336/renowned-philosopher-awarded-distinguished-research-medal.htm
+title: Renowned philosopher awarded distinguished research medal
+date: 2012-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00336/renowned-philosopher-awarded-distinguished-research-medal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/07/20/renowned-philosopher-awarded-distinguished-research-medal/index.html
+layout: layout.njk
 ---
 Renowned philosopher awarded distinguished research medal
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: national-continues-to-undermine-tertiary-education
-title: "National continues to undermine Tertiary education"
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/PA1004/S00113/national-continues-to-undermine-tertiary-education.htm
+title: National continues to undermine Tertiary education
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00113/national-continues-to-undermine-tertiary-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/04/14/national-continues-to-undermine-tertiary-education/index.html
+layout: layout.njk
 ---
 National continues to undermine Tertiary education
 ==================================================

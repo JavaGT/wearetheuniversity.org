@@ -1,9 +1,12 @@
 ---
 slug: tongan-youth-suicide-prevention
-title: "Tongan youth suicide prevention"
-date: 2017-05-24
-source-url: https://www.scoop.co.nz/stories/GE1705/S00162/tongan-youth-suicide-prevention.htm
+title: Tongan youth suicide prevention
+date: 2017-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00162/tongan-youth-suicide-prevention.htm
 author: aut-university
+permalink: /archive/2017/05/24/tongan-youth-suicide-prevention/index.html
+layout: layout.njk
 ---
 Tongan youth suicide prevention
 ===============================

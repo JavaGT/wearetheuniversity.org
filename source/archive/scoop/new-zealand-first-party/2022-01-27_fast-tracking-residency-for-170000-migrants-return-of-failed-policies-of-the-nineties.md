@@ -1,9 +1,16 @@
 ---
-slug: fast-tracking-residency-for-170000-migrants-return-of-failed-policies-of-the-nineties
-title: "Fast Tracking Residency For 170000 Migrants – Return Of Failed Policies Of The Nineties"
-date: 2022-01-27
-source-url: https://www.scoop.co.nz/stories/PA2201/S00103/fast-tracking-residency-for-170000-migrants-return-of-failed-policies-of-the-nineties.htm
+slug: >-
+  fast-tracking-residency-for-170000-migrants-return-of-failed-policies-of-the-nineties
+title: >-
+  Fast Tracking Residency For 170000 Migrants – Return Of Failed Policies Of The
+  Nineties
+date: 2022-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00103/fast-tracking-residency-for-170000-migrants-return-of-failed-policies-of-the-nineties.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2022/01/27/fast-tracking-residency-for-170000-migrants-return-of-failed-policies-of-the-nineties/index.html
+layout: layout.njk
 ---
 Fast Tracking Residency For 170000 Migrants – Return Of Failed Policies Of The Nineties
 =======================================================================================

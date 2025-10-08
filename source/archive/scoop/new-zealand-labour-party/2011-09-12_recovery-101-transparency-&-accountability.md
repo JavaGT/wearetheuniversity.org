@@ -1,9 +1,12 @@
 ---
 slug: recovery-101-transparency-&-accountability
-title: "Recovery 101: Transparency & Accountability"
-date: 2011-09-12
-source-url: https://www.scoop.co.nz/stories/PA1109/S00223/recovery-101-transparency-accountability.htm
+title: 'Recovery 101: Transparency & Accountability'
+date: 2011-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00223/recovery-101-transparency-accountability.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/12/recovery-101-transparency-/index.html
+layout: layout.njk
 ---
 Recovery 101: Transparency & Accountability
 ===========================================

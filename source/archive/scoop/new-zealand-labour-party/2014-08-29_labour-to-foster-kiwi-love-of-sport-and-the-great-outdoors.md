@@ -1,9 +1,13 @@
 ---
 slug: labour-to-foster-kiwi-love-of-sport-and-the-great-outdoors
-title: "Labour to foster Kiwi love of sport and the great outdoors"
-date: 2014-08-29
-source-url: https://www.scoop.co.nz/stories/PA1408/S00457/labour-to-foster-kiwi-love-of-sport-and-the-great-outdoors.htm
+title: Labour to foster Kiwi love of sport and the great outdoors
+date: 2014-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00457/labour-to-foster-kiwi-love-of-sport-and-the-great-outdoors.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/29/labour-to-foster-kiwi-love-of-sport-and-the-great-outdoors/index.html
+layout: layout.njk
 ---
 Labour to foster Kiwi love of sport and the great outdoors
 ==========================================================

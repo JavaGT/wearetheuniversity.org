@@ -1,9 +1,12 @@
 ---
 slug: rs&t-a-big-loser-in-budget-2009
-title: "RS&T a big loser in Budget 2009"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/PA0905/S00559/rst-a-big-loser-in-budget-2009.htm
+title: RS&T a big loser in Budget 2009
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00559/rst-a-big-loser-in-budget-2009.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/29/rs/index.html
+layout: layout.njk
 ---
 RS&T a big loser in Budget 2009
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: how-will-nz-cope-with-digital-television
-title: "How Will NZ Cope With Digital Television?"
-date: 2001-11-28
-source-url: https://www.scoop.co.nz/stories/BU0111/S00256/how-will-nz-cope-with-digital-television.htm
+title: How Will NZ Cope With Digital Television?
+date: 2001-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0111/S00256/how-will-nz-cope-with-digital-television.htm
 author: auckland-university
+permalink: /archive/2001/11/28/how-will-nz-cope-with-digital-television/index.html
+layout: layout.njk
 ---
 How Will NZ Cope With Digital Television?
 =========================================

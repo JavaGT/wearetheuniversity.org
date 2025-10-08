@@ -1,9 +1,13 @@
 ---
 slug: labour-failure-on-shovel-ready-projects-costing-thousands-of-jobs
-title: "Labour Failure On Shovel-ready Projects Costing Thousands Of Jobs"
-date: 2020-07-22
-source-url: https://www.scoop.co.nz/stories/PA2007/S00202/labour-failure-on-shovel-ready-projects-costing-thousands-of-jobs.htm
+title: Labour Failure On Shovel-ready Projects Costing Thousands Of Jobs
+date: 2020-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00202/labour-failure-on-shovel-ready-projects-costing-thousands-of-jobs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/22/labour-failure-on-shovel-ready-projects-costing-thousands-of-jobs/index.html
+layout: layout.njk
 ---
 Labour Failure On Shovel-ready Projects Costing Thousands Of Jobs
 =================================================================

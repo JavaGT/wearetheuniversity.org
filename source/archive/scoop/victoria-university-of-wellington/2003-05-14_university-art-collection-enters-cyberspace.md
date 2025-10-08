@@ -1,9 +1,12 @@
 ---
 slug: university-art-collection-enters-cyberspace
-title: "University Art Collection Enters Cyberspace"
-date: 2003-05-14
-source-url: https://www.scoop.co.nz/stories/ED0305/S00028/university-art-collection-enters-cyberspace.htm
+title: University Art Collection Enters Cyberspace
+date: 2003-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00028/university-art-collection-enters-cyberspace.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/05/14/university-art-collection-enters-cyberspace/index.html
+layout: layout.njk
 ---
 University Art Collection Enters Cyberspace
 ===========================================

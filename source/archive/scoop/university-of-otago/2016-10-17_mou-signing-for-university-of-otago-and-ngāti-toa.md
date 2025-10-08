@@ -1,9 +1,12 @@
 ---
 slug: mou-signing-for-university-of-otago-and-ngāti-toa
-title: "MoU signing for University of Otago and Ngāti Toa"
-date: 2016-10-17
-source-url: https://www.scoop.co.nz/stories/GE1610/S00086/mou-signing-for-university-of-otago-and-ngati-toa.htm
+title: MoU signing for University of Otago and Ngāti Toa
+date: 2016-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1610/S00086/mou-signing-for-university-of-otago-and-ngati-toa.htm
 author: university-of-otago
+permalink: /archive/2016/10/17/mou-signing-for-university-of-otago-and-ng/index.html
+layout: layout.njk
 ---
 MoU signing for University of Otago and Ngāti Toa
 =================================================

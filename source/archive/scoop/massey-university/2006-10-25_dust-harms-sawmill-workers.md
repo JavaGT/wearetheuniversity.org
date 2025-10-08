@@ -1,9 +1,11 @@
 ---
 slug: dust-harms-sawmill-workers
-title: "Dust harms sawmill workers"
-date: 2006-10-25
+title: Dust harms sawmill workers
+date: 2006-10-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0610/S00092/dust-harms-sawmill-workers.htm
 author: massey-university
+permalink: /archive/2006/10/25/dust-harms-sawmill-workers/index.html
+layout: layout.njk
 ---
 Dust harms sawmill workers
 ==========================

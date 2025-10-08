@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcome-festival-drug-checking-research
-title: "Green Party welcome festival drug checking research"
-date: 2019-12-18
-source-url: https://www.scoop.co.nz/stories/PA1912/S00180/green-party-welcome-festival-drug-checking-research.htm
+title: Green Party welcome festival drug checking research
+date: 2019-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00180/green-party-welcome-festival-drug-checking-research.htm
 author: green-party
+permalink: >-
+  /archive/2019/12/18/green-party-welcome-festival-drug-checking-research/index.html
+layout: layout.njk
 ---
 Green Party welcome festival drug checking research
 ===================================================

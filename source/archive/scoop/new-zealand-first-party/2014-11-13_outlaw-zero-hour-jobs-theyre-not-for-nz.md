@@ -1,9 +1,12 @@
 ---
 slug: outlaw-zero-hour-jobs-theyre-not-for-nz
-title: "Outlaw Zero Hour Jobs, They’re Not for NZ"
-date: 2014-11-13
-source-url: https://www.scoop.co.nz/stories/PA1411/S00179/outlaw-zero-hour-jobs-theyre-not-for-nz.htm
+title: Outlaw Zero Hour Jobs, They’re Not for NZ
+date: 2014-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00179/outlaw-zero-hour-jobs-theyre-not-for-nz.htm
 author: new-zealand-first-party
+permalink: /archive/2014/11/13/outlaw-zero-hour-jobs-theyre-not-for-nz/index.html
+layout: layout.njk
 ---
 Outlaw Zero Hour Jobs, They’re Not for NZ
 =========================================

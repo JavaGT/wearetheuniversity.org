@@ -1,9 +1,13 @@
 ---
 slug: call-for-full-funding-for-quake-hit-schools-nzei
-title: "Call for full funding for quake-hit schools - NZEI"
-date: 2011-08-22
-source-url: https://www.scoop.co.nz/stories/ED1108/S00114/call-for-full-funding-for-quake-hit-schools-nzei.htm
+title: Call for full funding for quake-hit schools - NZEI
+date: 2011-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00114/call-for-full-funding-for-quake-hit-schools-nzei.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/22/call-for-full-funding-for-quake-hit-schools-nzei/index.html
+layout: layout.njk
 ---
 Call for full funding for quake-hit schools - NZEI
 ==================================================

@@ -1,8 +1,12 @@
 ---
 slug: te-arawa-high-achiever-wins-academic-scholarship
-title: "Te Arawa high achiever wins academic scholarship"
-date: 2017-04-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/te-arawa-high-achiever-wins-academic-scholarship.html
+title: Te Arawa high achiever wins academic scholarship
+date: 2017-04-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/te-arawa-high-achiever-wins-academic-scholarship.html
+permalink: >-
+  /archive/2017/04/07/te-arawa-high-achiever-wins-academic-scholarship/index.html
+layout: layout.njk
 ---
 Te Arawa high achiever wins academic scholarship
 ================================================

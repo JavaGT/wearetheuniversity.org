@@ -1,9 +1,12 @@
 ---
 slug: independent-report-shows-need-for-private-loans
-title: "Independent Report Shows Need For Private Loans"
-date: 2000-07-18
-source-url: https://www.scoop.co.nz/stories/ED0007/S00026/independent-report-shows-need-for-private-loans.htm
+title: Independent Report Shows Need For Private Loans
+date: 2000-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00026/independent-report-shows-need-for-private-loans.htm
 author: prebble-s-rebels
+permalink: /archive/2000/07/18/independent-report-shows-need-for-private-loans/index.html
+layout: layout.njk
 ---
 Independent Report Shows Need For Private Loans
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-pump-and-slump-will-hit-hard
-title: "Labour’s Pump And Slump Will Hit Hard"
-date: 2023-06-30
-source-url: https://www.scoop.co.nz/stories/PA2306/S00214/labours-pump-and-slump-will-hit-hard.htm
+title: Labour’s Pump And Slump Will Hit Hard
+date: 2023-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00214/labours-pump-and-slump-will-hit-hard.htm
 author: new-zealand-national-party
+permalink: /archive/2023/06/30/labours-pump-and-slump-will-hit-hard/index.html
+layout: layout.njk
 ---
 Labour’s Pump And Slump Will Hit Hard
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: canterbury-research-helps-improve-technology-in-cycling
-title: "Canterbury research helps improve technology in cycling"
-date: 2015-01-18
-source-url: https://www.scoop.co.nz/stories/ED1501/S00038/canterbury-research-helps-improve-technology-in-cycling.htm
+title: Canterbury research helps improve technology in cycling
+date: 2015-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00038/canterbury-research-helps-improve-technology-in-cycling.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/18/canterbury-research-helps-improve-technology-in-cycling/index.html
+layout: layout.njk
 ---
 Canterbury research helps improve technology in cycling
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: relief-is-on-its-way-the-maori-party
-title: "Relief is on its way – The Maori Party"
-date: 2008-11-05
-source-url: https://www.scoop.co.nz/stories/PO0811/S00062/relief-is-on-its-way-the-maori-party.htm
+title: Relief is on its way – The Maori Party
+date: 2008-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00062/relief-is-on-its-way-the-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2008/11/05/relief-is-on-its-way-the-maori-party/index.html
+layout: layout.njk
 ---
 Relief is on its way – The Maori Party
 ======================================

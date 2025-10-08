@@ -1,9 +1,12 @@
 ---
 slug: back-down-has-joyce-doctoring-loan-policy
-title: "Back-down has Joyce doctoring loan policy"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/PA1512/S00021/back-down-has-joyce-doctoring-loan-policy.htm
+title: Back-down has Joyce doctoring loan policy
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00021/back-down-has-joyce-doctoring-loan-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/01/back-down-has-joyce-doctoring-loan-policy/index.html
+layout: layout.njk
 ---
 Back-down has Joyce doctoring loan policy
 =========================================

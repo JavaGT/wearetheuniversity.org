@@ -1,9 +1,12 @@
 ---
 slug: one-in-four-leave-school-without-ncea-level-one
-title: "One in four leave school without NCEA level one"
-date: 2007-08-01
-source-url: https://www.scoop.co.nz/stories/PA0708/S00006/one-in-four-leave-school-without-ncea-level-one.htm
+title: One in four leave school without NCEA level one
+date: 2007-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00006/one-in-four-leave-school-without-ncea-level-one.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/01/one-in-four-leave-school-without-ncea-level-one/index.html
+layout: layout.njk
 ---
 One in four leave school without NCEA level one
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: language-and-communication-conference
-title: "Language And Communication Conference"
-date: 2008-06-24
-source-url: https://www.scoop.co.nz/stories/ED0806/S00069/language-and-communication-conference.htm
+title: Language And Communication Conference
+date: 2008-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00069/language-and-communication-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/06/24/language-and-communication-conference/index.html
+layout: layout.njk
 ---
 Language And Communication Conference
 =====================================

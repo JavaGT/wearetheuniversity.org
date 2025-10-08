@@ -1,9 +1,12 @@
 ---
 slug: act-party-candidate-for-wairarapa-announced
-title: "ACT Party Candidate for Wairarapa Announced"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/PA1108/S00386/act-party-candidate-for-wairarapa-announced.htm
+title: ACT Party Candidate for Wairarapa Announced
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00386/act-party-candidate-for-wairarapa-announced.htm
 author: act-new-zealand
+permalink: /archive/2011/08/18/act-party-candidate-for-wairarapa-announced/index.html
+layout: layout.njk
 ---
 ACT Party Candidate for Wairarapa Announced
 ===========================================

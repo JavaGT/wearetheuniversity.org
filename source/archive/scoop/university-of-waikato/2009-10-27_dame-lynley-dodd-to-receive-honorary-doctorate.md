@@ -1,9 +1,12 @@
 ---
 slug: dame-lynley-dodd-to-receive-honorary-doctorate
-title: "Dame Lynley Dodd to Receive Honorary Doctorate"
-date: 2009-10-27
-source-url: https://www.scoop.co.nz/stories/CU0910/S00432/dame-lynley-dodd-to-receive-honorary-doctorate.htm
+title: Dame Lynley Dodd to Receive Honorary Doctorate
+date: 2009-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0910/S00432/dame-lynley-dodd-to-receive-honorary-doctorate.htm
 author: university-of-waikato
+permalink: /archive/2009/10/27/dame-lynley-dodd-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Dame Lynley Dodd to Receive Honorary Doctorate
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-rise-for-some-not-others
-title: "Minimum wage rise for some, not others"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/PA1402/S00272/minimum-wage-rise-for-some-not-others.htm
+title: Minimum wage rise for some, not others
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00272/minimum-wage-rise-for-some-not-others.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/20/minimum-wage-rise-for-some-not-others/index.html
+layout: layout.njk
 ---
 Minimum wage rise for some, not others
 ======================================

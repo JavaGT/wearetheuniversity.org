@@ -1,9 +1,12 @@
 ---
 slug: huge-backing-for-higher-drinking-age
-title: "Huge backing for higher drinking age"
-date: 2006-10-20
-source-url: https://www.scoop.co.nz/stories/PO0610/S00232/huge-backing-for-higher-drinking-age.htm
+title: Huge backing for higher drinking age
+date: 2006-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00232/huge-backing-for-higher-drinking-age.htm
 author: massey-university
+permalink: /archive/2006/10/20/huge-backing-for-higher-drinking-age/index.html
+layout: layout.njk
 ---
 Huge backing for higher drinking age
 ====================================

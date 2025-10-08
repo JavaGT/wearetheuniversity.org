@@ -1,9 +1,13 @@
 ---
 slug: artist-playwright-and-poet-to-receive-honorary-doctorate
-title: "Artist, playwright and poet to receive honorary doctorate"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/CU1210/S00081/artist-playwright-and-poet-to-receive-honorary-doctorate.htm
+title: Artist, playwright and poet to receive honorary doctorate
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1210/S00081/artist-playwright-and-poet-to-receive-honorary-doctorate.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/10/04/artist-playwright-and-poet-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Artist, playwright and poet to receive honorary doctorate
 =========================================================

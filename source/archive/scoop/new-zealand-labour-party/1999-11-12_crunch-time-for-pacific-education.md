@@ -1,9 +1,12 @@
 ---
 slug: crunch-time-for-pacific-education
-title: "Crunch time for Pacific education"
-date: 1999-11-12
-source-url: https://www.scoop.co.nz/stories/PA9911/S00305/crunch-time-for-pacific-education.htm
+title: Crunch time for Pacific education
+date: 1999-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00305/crunch-time-for-pacific-education.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/12/crunch-time-for-pacific-education/index.html
+layout: layout.njk
 ---
 Crunch time for Pacific education
 =================================

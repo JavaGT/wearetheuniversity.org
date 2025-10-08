@@ -1,9 +1,12 @@
 ---
 slug: labour-failing-to-deliver-jobs
-title: "Labour Failing To Deliver Jobs"
-date: 2021-07-15
-source-url: https://www.scoop.co.nz/stories/PA2107/S00117/labour-failing-to-deliver-jobs.htm
+title: Labour Failing To Deliver Jobs
+date: 2021-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00117/labour-failing-to-deliver-jobs.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/15/labour-failing-to-deliver-jobs/index.html
+layout: layout.njk
 ---
 Labour Failing To Deliver Jobs
 ==============================

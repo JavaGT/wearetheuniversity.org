@@ -1,9 +1,12 @@
 ---
 slug: nz-military-interference-escalates
-title: "NZ Military Interference Escalates"
-date: 2003-07-17
-source-url: https://www.scoop.co.nz/stories/PO0307/S00091/nz-military-interference-escalates.htm
+title: NZ Military Interference Escalates
+date: 2003-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0307/S00091/nz-military-interference-escalates.htm
 author: peace-action-wellington
+permalink: /archive/2003/07/17/nz-military-interference-escalates/index.html
+layout: layout.njk
 ---
 NZ Military Interference Escalates
 ==================================

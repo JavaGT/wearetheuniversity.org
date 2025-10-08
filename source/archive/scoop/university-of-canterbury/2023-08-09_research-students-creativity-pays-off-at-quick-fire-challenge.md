@@ -1,9 +1,13 @@
 ---
 slug: research-students-creativity-pays-off-at-quick-fire-challenge
-title: "Research Students’ Creativity Pays Off At Quick-fire Challenge"
-date: 2023-08-09
-source-url: https://www.scoop.co.nz/stories/ED2308/S00018/research-students-creativity-pays-off-at-quick-fire-challenge.htm
+title: Research Students’ Creativity Pays Off At Quick-fire Challenge
+date: 2023-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00018/research-students-creativity-pays-off-at-quick-fire-challenge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/08/09/research-students-creativity-pays-off-at-quick-fire-challenge/index.html
+layout: layout.njk
 ---
 Research Students’ Creativity Pays Off At Quick-fire Challenge
 ==============================================================

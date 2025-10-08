@@ -1,9 +1,12 @@
 ---
 slug: dalziel-coalition-of-community-law-centres
-title: "Dalziel: Coalition of Community Law Centres"
-date: 2009-03-10
-source-url: https://www.scoop.co.nz/stories/PA0903/S00137/dalziel-coalition-of-community-law-centres.htm
+title: 'Dalziel: Coalition of Community Law Centres'
+date: 2009-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00137/dalziel-coalition-of-community-law-centres.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/10/dalziel-coalition-of-community-law-centres/index.html
+layout: layout.njk
 ---
 Dalziel: Coalition of Community Law Centres
 ===========================================

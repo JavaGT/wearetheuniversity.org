@@ -1,9 +1,13 @@
 ---
 slug: national-will-push-100s-of-kiwi-kids-into-streets
-title: "National Will Push 100s  Of Kiwi Kids Into Streets"
-date: 2005-09-08
-source-url: https://www.scoop.co.nz/stories/PA0509/S00215/national-will-push-100s-of-kiwi-kids-into-streets.htm
+title: National Will Push 100s  Of Kiwi Kids Into Streets
+date: 2005-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00215/national-will-push-100s-of-kiwi-kids-into-streets.htm
 author: green-party
+permalink: >-
+  /archive/2005/09/08/national-will-push-100s-of-kiwi-kids-into-streets/index.html
+layout: layout.njk
 ---
 National Will Push 100s Of Kiwi Kids Into Streets
 =================================================

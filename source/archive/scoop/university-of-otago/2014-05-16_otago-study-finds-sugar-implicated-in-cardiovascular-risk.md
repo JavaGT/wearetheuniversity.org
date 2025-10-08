@@ -1,9 +1,13 @@
 ---
 slug: otago-study-finds-sugar-implicated-in-cardiovascular-risk
-title: "Otago study finds sugar implicated in cardiovascular risk"
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/GE1405/S00101/otago-study-finds-sugar-implicated-in-cardiovascular-risk.htm
+title: Otago study finds sugar implicated in cardiovascular risk
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00101/otago-study-finds-sugar-implicated-in-cardiovascular-risk.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/05/16/otago-study-finds-sugar-implicated-in-cardiovascular-risk/index.html
+layout: layout.njk
 ---
 Otago study finds sugar implicated in cardiovascular risk
 =========================================================

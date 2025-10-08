@@ -1,9 +1,12 @@
 ---
 slug: govt-should-explain-why-plunket-is-missing-out
-title: "Govt should explain why Plunket is missing out"
-date: 2008-06-17
-source-url: https://www.scoop.co.nz/stories/PA0806/S00244/govt-should-explain-why-plunket-is-missing-out.htm
+title: Govt should explain why Plunket is missing out
+date: 2008-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00244/govt-should-explain-why-plunket-is-missing-out.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/17/govt-should-explain-why-plunket-is-missing-out/index.html
+layout: layout.njk
 ---
 Govt should explain why Plunket is missing out
 ==============================================

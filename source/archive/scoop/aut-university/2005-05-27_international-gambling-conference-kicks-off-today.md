@@ -1,9 +1,13 @@
 ---
 slug: international-gambling-conference-kicks-off-today
-title: "International Gambling Conference Kicks Off Today"
-date: 2005-05-27
-source-url: https://www.scoop.co.nz/stories/ED0505/S00120/international-gambling-conference-kicks-off-today.htm
+title: International Gambling Conference Kicks Off Today
+date: 2005-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00120/international-gambling-conference-kicks-off-today.htm
 author: aut-university
+permalink: >-
+  /archive/2005/05/27/international-gambling-conference-kicks-off-today/index.html
+layout: layout.njk
 ---
 International Gambling Conference Kicks Off Today
 =================================================

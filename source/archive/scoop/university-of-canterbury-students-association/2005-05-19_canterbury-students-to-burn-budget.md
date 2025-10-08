@@ -1,9 +1,12 @@
 ---
 slug: canterbury-students-to-burn-budget
-title: "Canterbury Students to Burn Budget"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/ED0505/S00079/canterbury-students-to-burn-budget.htm
+title: Canterbury Students to Burn Budget
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00079/canterbury-students-to-burn-budget.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2005/05/19/canterbury-students-to-burn-budget/index.html
+layout: layout.njk
 ---
 Canterbury Students to Burn Budget
 ==================================

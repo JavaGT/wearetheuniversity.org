@@ -1,9 +1,12 @@
 ---
 slug: welfare-working-group-cries-crocodile-tears
-title: "Welfare Working Group Cries Crocodile Tears"
-date: 2010-11-15
-source-url: https://www.scoop.co.nz/stories/PA1011/S00277/welfare-working-group-cries-crocodile-tears.htm
+title: Welfare Working Group Cries Crocodile Tears
+date: 2010-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00277/welfare-working-group-cries-crocodile-tears.htm
 author: green-party
+permalink: /archive/2010/11/15/welfare-working-group-cries-crocodile-tears/index.html
+layout: layout.njk
 ---
 Welfare Working Group Cries Crocodile Tears
 ===========================================

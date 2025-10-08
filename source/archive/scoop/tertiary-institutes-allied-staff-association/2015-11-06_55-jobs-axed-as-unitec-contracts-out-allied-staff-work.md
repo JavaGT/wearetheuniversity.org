@@ -1,9 +1,13 @@
 ---
 slug: 55-jobs-axed-as-unitec-contracts-out-allied-staff-work
-title: "55 Jobs Axed as Unitec contracts out Allied Staff work"
-date: 2015-11-06
-source-url: https://www.scoop.co.nz/stories/ED1511/S00041/55-jobs-axed-as-unitec-contracts-out-allied-staff-work.htm
+title: 55 Jobs Axed as Unitec contracts out Allied Staff work
+date: 2015-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00041/55-jobs-axed-as-unitec-contracts-out-allied-staff-work.htm
 author: tertiary-institutes-allied-staff-association
+permalink: >-
+  /archive/2015/11/06/55-jobs-axed-as-unitec-contracts-out-allied-staff-work/index.html
+layout: layout.njk
 ---
 55 Jobs Axed as Unitec contracts out Allied Staff work
 ======================================================

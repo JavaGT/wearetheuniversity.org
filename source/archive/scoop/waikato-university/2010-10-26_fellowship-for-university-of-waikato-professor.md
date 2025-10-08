@@ -1,9 +1,12 @@
 ---
 slug: fellowship-for-university-of-waikato-professor
-title: "Fellowship for University of Waikato professor"
-date: 2010-10-26
-source-url: https://www.scoop.co.nz/stories/ED1010/S00092/fellowship-for-university-of-waikato-professor.htm
+title: Fellowship for University of Waikato professor
+date: 2010-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00092/fellowship-for-university-of-waikato-professor.htm
 author: waikato-university
+permalink: /archive/2010/10/26/fellowship-for-university-of-waikato-professor/index.html
+layout: layout.njk
 ---
 Fellowship for University of Waikato professor
 ==============================================

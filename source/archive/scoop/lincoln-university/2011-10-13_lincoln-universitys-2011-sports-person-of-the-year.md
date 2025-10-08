@@ -1,9 +1,13 @@
 ---
 slug: lincoln-universitys-2011-sports-person-of-the-year
-title: "Lincoln University’s 2011 Sports Person of the Year"
-date: 2011-10-13
-source-url: https://www.scoop.co.nz/stories/CU1110/S00178/lincoln-universitys-2011-sports-person-of-the-year.htm
+title: Lincoln University’s 2011 Sports Person of the Year
+date: 2011-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1110/S00178/lincoln-universitys-2011-sports-person-of-the-year.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/10/13/lincoln-universitys-2011-sports-person-of-the-year/index.html
+layout: layout.njk
 ---
 Lincoln University’s 2011 Sports Person of the Year
 ===================================================

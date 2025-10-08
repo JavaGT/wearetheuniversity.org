@@ -1,9 +1,12 @@
 ---
 slug: paying-polluters-to-stop-a-bad-idea
-title: "Paying polluters to stop a bad idea"
-date: 2008-06-26
-source-url: https://www.scoop.co.nz/stories/PA0806/S00434/paying-polluters-to-stop-a-bad-idea.htm
+title: Paying polluters to stop a bad idea
+date: 2008-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00434/paying-polluters-to-stop-a-bad-idea.htm
 author: green-party
+permalink: /archive/2008/06/26/paying-polluters-to-stop-a-bad-idea/index.html
+layout: layout.njk
 ---
 Paying polluters to stop a bad idea
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: more-momentum-needed-to-achieve-smokefree-2025-goal
-title: "More momentum needed to achieve Smokefree 2025 goal"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/PO1407/S00358/more-momentum-needed-to-achieve-smokefree-2025-goal.htm
+title: More momentum needed to achieve Smokefree 2025 goal
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00358/more-momentum-needed-to-achieve-smokefree-2025-goal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/07/23/more-momentum-needed-to-achieve-smokefree-2025-goal/index.html
+layout: layout.njk
 ---
 More momentum needed to achieve Smokefree 2025 goal
 ===================================================

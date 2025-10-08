@@ -1,9 +1,13 @@
 ---
 slug: christchurchs-sizzle-seller-to-receive-honorary-doctorate
-title: "Christchurch’s sizzle-seller to receive honorary doctorate"
-date: 2014-04-11
-source-url: https://www.scoop.co.nz/stories/AK1404/S00243/christchurchs-sizzle-seller-to-receive-honorary-doctorate.htm
+title: Christchurch’s sizzle-seller to receive honorary doctorate
+date: 2014-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1404/S00243/christchurchs-sizzle-seller-to-receive-honorary-doctorate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/11/christchurchs-sizzle-seller-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Christchurch’s sizzle-seller to receive honorary doctorate
 ==========================================================

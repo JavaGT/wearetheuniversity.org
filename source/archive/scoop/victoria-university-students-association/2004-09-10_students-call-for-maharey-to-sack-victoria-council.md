@@ -1,9 +1,13 @@
 ---
 slug: students-call-for-maharey-to-sack-victoria-council
-title: "Students Call For Maharey To Sack Victoria Council"
-date: 2004-09-10
-source-url: https://www.scoop.co.nz/stories/ED0409/S00046/students-call-for-maharey-to-sack-victoria-council.htm
+title: Students Call For Maharey To Sack Victoria Council
+date: 2004-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00046/students-call-for-maharey-to-sack-victoria-council.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2004/09/10/students-call-for-maharey-to-sack-victoria-council/index.html
+layout: layout.njk
 ---
 Students Call For Maharey To Sack Victoria Council
 ==================================================

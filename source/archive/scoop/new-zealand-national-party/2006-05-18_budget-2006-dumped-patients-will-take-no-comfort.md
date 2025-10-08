@@ -1,9 +1,13 @@
 ---
 slug: budget-2006-dumped-patients-will-take-no-comfort
-title: "Budget 2006: Dumped patients will take no comfort"
-date: 2006-05-18
-source-url: https://www.scoop.co.nz/stories/PA0605/S00463/budget-2006-dumped-patients-will-take-no-comfort.htm
+title: 'Budget 2006: Dumped patients will take no comfort'
+date: 2006-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00463/budget-2006-dumped-patients-will-take-no-comfort.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/05/18/budget-2006-dumped-patients-will-take-no-comfort/index.html
+layout: layout.njk
 ---
 Budget 2006: Dumped patients will take no comfort
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: txting-helps-maori-quit-smoking
-title: "TXTing helps Maori quit smoking"
-date: 2005-06-02
-source-url: https://www.scoop.co.nz/stories/GE0506/S00007/txting-helps-maori-quit-smoking.htm
+title: TXTing helps Maori quit smoking
+date: 2005-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0506/S00007/txting-helps-maori-quit-smoking.htm
 author: auckland-university
+permalink: /archive/2005/06/02/txting-helps-maori-quit-smoking/index.html
+layout: layout.njk
 ---
 TXTing helps Maori quit smoking
 ===============================

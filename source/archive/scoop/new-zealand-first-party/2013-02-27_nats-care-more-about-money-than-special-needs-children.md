@@ -1,9 +1,13 @@
 ---
 slug: nats-care-more-about-money-than-special-needs-children
-title: "Nats Care More About Money Than Special Needs Children"
-date: 2013-02-27
-source-url: https://www.scoop.co.nz/stories/PA1302/S00444/nats-care-more-about-money-than-special-needs-children.htm
+title: Nats Care More About Money Than Special Needs Children
+date: 2013-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00444/nats-care-more-about-money-than-special-needs-children.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/02/27/nats-care-more-about-money-than-special-needs-children/index.html
+layout: layout.njk
 ---
 Nats Care More About Money Than Special Needs Children
 ======================================================

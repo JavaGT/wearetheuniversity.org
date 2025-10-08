@@ -1,9 +1,12 @@
 ---
 slug: who-should-see-our-health-records
-title: "Who should see our health records?"
-date: 2007-06-11
-source-url: https://www.scoop.co.nz/stories/ED0706/S00043/who-should-see-our-health-records.htm
+title: Who should see our health records?
+date: 2007-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00043/who-should-see-our-health-records.htm
 author: massey-university
+permalink: /archive/2007/06/11/who-should-see-our-health-records/index.html
+layout: layout.njk
 ---
 Who should see our health records?
 ==================================

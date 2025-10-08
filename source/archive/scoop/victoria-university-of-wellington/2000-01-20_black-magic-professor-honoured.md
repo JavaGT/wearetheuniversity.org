@@ -1,9 +1,12 @@
 ---
 slug: black-magic-professor-honoured
-title: "‘Black Magic’ Professor honoured’"
-date: 2000-01-20
-source-url: https://www.scoop.co.nz/stories/ED0001/S00011/black-magic-professor-honoured.htm
+title: ‘Black Magic’ Professor honoured’
+date: 2000-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0001/S00011/black-magic-professor-honoured.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/01/20/black-magic-professor-honoured/index.html
+layout: layout.njk
 ---
 ‘Black Magic’ Professor honoured’
 =================================

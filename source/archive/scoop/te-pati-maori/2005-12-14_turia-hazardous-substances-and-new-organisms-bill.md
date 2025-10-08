@@ -1,9 +1,13 @@
 ---
 slug: turia-hazardous-substances-and-new-organisms-bill
-title: "Turia: Hazardous Substances and New Organisms Bill"
-date: 2005-12-14
-source-url: https://www.scoop.co.nz/stories/PA0512/S00208/turia-hazardous-substances-and-new-organisms-bill.htm
+title: 'Turia: Hazardous Substances and New Organisms Bill'
+date: 2005-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00208/turia-hazardous-substances-and-new-organisms-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2005/12/14/turia-hazardous-substances-and-new-organisms-bill/index.html
+layout: layout.njk
 ---
 Turia: Hazardous Substances and New Organisms Bill
 ==================================================

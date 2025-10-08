@@ -1,9 +1,12 @@
 ---
 slug: alexandra-flood-enquiry-stalled-by-government
-title: "Alexandra flood enquiry stalled by Government"
-date: 1999-12-21
-source-url: https://www.scoop.co.nz/stories/PA9912/S00098/alexandra-flood-enquiry-stalled-by-government.htm
+title: Alexandra flood enquiry stalled by Government
+date: 1999-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00098/alexandra-flood-enquiry-stalled-by-government.htm
 author: act-new-zealand
+permalink: /archive/1999/12/21/alexandra-flood-enquiry-stalled-by-government/index.html
+layout: layout.njk
 ---
 Alexandra flood enquiry stalled by Government
 =============================================

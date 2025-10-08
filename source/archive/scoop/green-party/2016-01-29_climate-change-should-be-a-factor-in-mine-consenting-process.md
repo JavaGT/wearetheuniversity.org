@@ -1,9 +1,13 @@
 ---
 slug: climate-change-should-be-a-factor-in-mine-consenting-process
-title: "Climate change should be a factor in mine consenting process"
-date: 2016-01-29
-source-url: https://www.scoop.co.nz/stories/PA1601/S00170/climate-change-should-be-a-factor-in-mine-consenting-process.htm
+title: Climate change should be a factor in mine consenting process
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00170/climate-change-should-be-a-factor-in-mine-consenting-process.htm
 author: green-party
+permalink: >-
+  /archive/2016/01/29/climate-change-should-be-a-factor-in-mine-consenting-process/index.html
+layout: layout.njk
 ---
 Climate change should be a factor in mine consenting process
 ============================================================

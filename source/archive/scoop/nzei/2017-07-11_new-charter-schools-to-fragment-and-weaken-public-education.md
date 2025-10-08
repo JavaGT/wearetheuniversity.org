@@ -1,9 +1,13 @@
 ---
 slug: new-charter-schools-to-fragment-and-weaken-public-education
-title: "New charter schools to fragment and weaken public education"
-date: 2017-07-11
-source-url: https://www.scoop.co.nz/stories/PO1707/S00153/new-charter-schools-to-fragment-and-weaken-public-education.htm
+title: New charter schools to fragment and weaken public education
+date: 2017-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00153/new-charter-schools-to-fragment-and-weaken-public-education.htm
 author: nzei
+permalink: >-
+  /archive/2017/07/11/new-charter-schools-to-fragment-and-weaken-public-education/index.html
+layout: layout.njk
 ---
 New charter schools to fragment and weaken public education
 ===========================================================

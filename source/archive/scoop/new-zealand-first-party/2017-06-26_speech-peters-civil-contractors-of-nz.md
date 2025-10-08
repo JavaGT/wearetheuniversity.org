@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-civil-contractors-of-nz
-title: "Speech: Peters - Civil Contractors of NZ"
-date: 2017-06-26
-source-url: https://www.scoop.co.nz/stories/PA1706/S00430/speech-peters-civil-contractors-of-nz.htm
+title: 'Speech: Peters - Civil Contractors of NZ'
+date: 2017-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00430/speech-peters-civil-contractors-of-nz.htm
 author: new-zealand-first-party
+permalink: /archive/2017/06/26/speech-peters-civil-contractors-of-nz/index.html
+layout: layout.njk
 ---
 Speech: Peters - Civil Contractors of NZ
 ========================================

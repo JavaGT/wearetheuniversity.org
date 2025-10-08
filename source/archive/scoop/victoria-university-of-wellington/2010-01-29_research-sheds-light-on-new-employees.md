@@ -1,9 +1,12 @@
 ---
 slug: research-sheds-light-on-new-employees
-title: "Research sheds light on new employees"
-date: 2010-01-29
-source-url: https://www.scoop.co.nz/stories/CU1001/S00233/research-sheds-light-on-new-employees.htm
+title: Research sheds light on new employees
+date: 2010-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1001/S00233/research-sheds-light-on-new-employees.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/01/29/research-sheds-light-on-new-employees/index.html
+layout: layout.njk
 ---
 Research sheds light on new employees
 =====================================

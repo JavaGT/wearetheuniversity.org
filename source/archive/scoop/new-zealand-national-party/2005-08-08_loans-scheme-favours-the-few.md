@@ -1,9 +1,11 @@
 ---
 slug: loans-scheme-favours-the-few
-title: "Loans scheme favours the few"
-date: 2005-08-08
+title: Loans scheme favours the few
+date: 2005-08-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00190/loans-scheme-favours-the-few.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/08/loans-scheme-favours-the-few/index.html
+layout: layout.njk
 ---
 Loans scheme favours the few
 ============================

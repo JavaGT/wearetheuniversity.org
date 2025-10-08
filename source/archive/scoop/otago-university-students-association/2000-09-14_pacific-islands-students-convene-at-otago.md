@@ -1,9 +1,12 @@
 ---
 slug: pacific-islands-students-convene-at-otago
-title: "Pacific Islands Students Convene At Otago"
-date: 2000-09-14
-source-url: https://www.scoop.co.nz/stories/ED0009/S00031/pacific-islands-students-convene-at-otago.htm
+title: Pacific Islands Students Convene At Otago
+date: 2000-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00031/pacific-islands-students-convene-at-otago.htm
 author: otago-university-students-association
+permalink: /archive/2000/09/14/pacific-islands-students-convene-at-otago/index.html
+layout: layout.njk
 ---
 Pacific Islands Students Convene At Otago
 =========================================

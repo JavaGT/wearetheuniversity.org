@@ -1,9 +1,11 @@
 ---
 slug: blameless-wisdom
-title: "Blameless wisdom"
-date: 2009-08-17
+title: Blameless wisdom
+date: 2009-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0908/S00196/blameless-wisdom.htm
 author: salient
+permalink: /archive/2009/08/17/blameless-wisdom/index.html
+layout: layout.njk
 ---
 Blameless wisdom
 ================

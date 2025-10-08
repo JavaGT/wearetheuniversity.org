@@ -1,9 +1,13 @@
 ---
 slug: police-government-rush-behind-sap-contract-privacy-breach
-title: "Police: Government rush behind SAP contract, privacy breach"
-date: 2019-12-03
-source-url: https://www.scoop.co.nz/stories/PA1912/S00026/police-government-rush-behind-sap-contract-privacy-breach.htm
+title: 'Police: Government rush behind SAP contract, privacy breach'
+date: 2019-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00026/police-government-rush-behind-sap-contract-privacy-breach.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/12/03/police-government-rush-behind-sap-contract-privacy-breach/index.html
+layout: layout.njk
 ---
 Police: Government rush behind SAP contract, privacy breach
 ===========================================================

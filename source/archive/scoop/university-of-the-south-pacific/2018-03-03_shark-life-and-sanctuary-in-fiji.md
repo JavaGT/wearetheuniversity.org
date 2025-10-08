@@ -1,9 +1,12 @@
 ---
 slug: shark-life-and-sanctuary-in-fiji
-title: "Shark Life and Sanctuary in Fiji"
-date: 2018-03-03
-source-url: https://www.scoop.co.nz/stories/WO1803/S00015/shark-life-and-sanctuary-in-fiji.htm
+title: Shark Life and Sanctuary in Fiji
+date: 2018-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1803/S00015/shark-life-and-sanctuary-in-fiji.htm
 author: university-of-the-south-pacific
+permalink: /archive/2018/03/03/shark-life-and-sanctuary-in-fiji/index.html
+layout: layout.njk
 ---
 Shark Life and Sanctuary in Fiji
 ================================

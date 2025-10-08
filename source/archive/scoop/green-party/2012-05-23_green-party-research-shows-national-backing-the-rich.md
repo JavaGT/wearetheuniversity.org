@@ -1,9 +1,13 @@
 ---
 slug: green-party-research-shows-national-backing-the-rich
-title: "Green Party research shows National backing the rich"
-date: 2012-05-23
-source-url: https://www.scoop.co.nz/stories/PA1205/S00394/green-party-research-shows-national-backing-the-rich.htm
+title: Green Party research shows National backing the rich
+date: 2012-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00394/green-party-research-shows-national-backing-the-rich.htm
 author: green-party
+permalink: >-
+  /archive/2012/05/23/green-party-research-shows-national-backing-the-rich/index.html
+layout: layout.njk
 ---
 Green Party research shows National backing the rich
 ====================================================

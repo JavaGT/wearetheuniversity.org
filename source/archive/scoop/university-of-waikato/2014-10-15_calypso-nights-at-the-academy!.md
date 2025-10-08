@@ -1,9 +1,12 @@
 ---
 slug: calypso-nights-at-the-academy!
-title: "\"Calypso Nights\" at the Academy!"
-date: 2014-10-15
-source-url: https://www.scoop.co.nz/stories/CU1410/S00320/calypso-nights-at-the-academy.htm
+title: '"Calypso Nights" at the Academy!'
+date: 2014-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00320/calypso-nights-at-the-academy.htm
 author: university-of-waikato
+permalink: /archive/2014/10/15/calypso-nights-at-the-academy/index.html
+layout: layout.njk
 ---
 “Calypso Nights” at the Academy!
 ================================

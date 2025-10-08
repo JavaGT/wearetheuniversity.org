@@ -1,9 +1,13 @@
 ---
 slug: prime-minister-breaks-promise-for-early-intervention
-title: "Prime Minister Breaks Promise For Early Intervention"
-date: 2020-02-12
-source-url: https://www.scoop.co.nz/stories/PA2002/S00073/prime-minister-breaks-promise-for-early-intervention.htm
+title: Prime Minister Breaks Promise For Early Intervention
+date: 2020-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00073/prime-minister-breaks-promise-for-early-intervention.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/02/12/prime-minister-breaks-promise-for-early-intervention/index.html
+layout: layout.njk
 ---
 Prime Minister Breaks Promise For Early Intervention
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: sue-bradford-to-question-police-tactics
-title: "Sue Bradford To Question Police Tactics"
-date: 2000-03-23
-source-url: https://www.scoop.co.nz/stories/PA0003/S00390/sue-bradford-to-question-police-tactics.htm
+title: Sue Bradford To Question Police Tactics
+date: 2000-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00390/sue-bradford-to-question-police-tactics.htm
 author: green-party
+permalink: /archive/2000/03/23/sue-bradford-to-question-police-tactics/index.html
+layout: layout.njk
 ---
 Sue Bradford To Question Police Tactics
 =======================================

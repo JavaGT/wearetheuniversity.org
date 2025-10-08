@@ -1,9 +1,12 @@
 ---
 slug: educational-leader-overcomes-odds
-title: "Educational Leader Overcomes Odds"
-date: 2005-12-19
-source-url: https://www.scoop.co.nz/stories/ED0512/S00079/educational-leader-overcomes-odds.htm
+title: Educational Leader Overcomes Odds
+date: 2005-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00079/educational-leader-overcomes-odds.htm
 author: waikato-university
+permalink: /archive/2005/12/19/educational-leader-overcomes-odds/index.html
+layout: layout.njk
 ---
 Educational Leader Overcomes Odds
 =================================

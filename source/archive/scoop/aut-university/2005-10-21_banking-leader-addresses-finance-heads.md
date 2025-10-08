@@ -1,9 +1,12 @@
 ---
 slug: banking-leader-addresses-finance-heads
-title: "Banking leader addresses finance heads"
-date: 2005-10-21
-source-url: https://www.scoop.co.nz/stories/ED0510/S00071/banking-leader-addresses-finance-heads.htm
+title: Banking leader addresses finance heads
+date: 2005-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00071/banking-leader-addresses-finance-heads.htm
 author: aut-university
+permalink: /archive/2005/10/21/banking-leader-addresses-finance-heads/index.html
+layout: layout.njk
 ---
 Banking leader addresses finance heads
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: bill-requires-parent-migrants-to-hold-health-insurance
-title: "Bill Requires Parent Migrants to Hold Health Insurance"
-date: 2015-11-11
-source-url: https://www.scoop.co.nz/stories/PA1511/S00199/bill-requires-parent-migrants-to-hold-health-insurance.htm
+title: Bill Requires Parent Migrants to Hold Health Insurance
+date: 2015-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00199/bill-requires-parent-migrants-to-hold-health-insurance.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/11/11/bill-requires-parent-migrants-to-hold-health-insurance/index.html
+layout: layout.njk
 ---
 Bill Requires Parent Migrants to Hold Health Insurance
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: crowdsourced-advert-highlights-kiwis-affco-concerns
-title: "Crowdsourced advert highlights Kiwis’ AFFCO concerns"
-date: 2016-08-22
-source-url: https://www.scoop.co.nz/stories/PO1608/S00224/crowdsourced-advert-highlights-kiwis-affco-concerns.htm
+title: Crowdsourced advert highlights Kiwis’ AFFCO concerns
+date: 2016-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1608/S00224/crowdsourced-advert-highlights-kiwis-affco-concerns.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2016/08/22/crowdsourced-advert-highlights-kiwis-affco-concerns/index.html
+layout: layout.njk
 ---
 Crowdsourced advert highlights Kiwis’ AFFCO concerns
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: substantial-increase-in-research-performance
-title: "Substantial increase in research performance"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/ED0705/S00016/substantial-increase-in-research-performance.htm
+title: Substantial increase in research performance
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00016/substantial-increase-in-research-performance.htm
 author: university-of-waikato
+permalink: /archive/2007/05/04/substantial-increase-in-research-performance/index.html
+layout: layout.njk
 ---
 Substantial increase in research performance
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: ribena-heroes-to-be-youth-parliamentarians
-title: "Ribena heroes to be youth parliamentarians"
-date: 2007-04-30
-source-url: https://www.scoop.co.nz/stories/PA0704/S00488/ribena-heroes-to-be-youth-parliamentarians.htm
+title: Ribena heroes to be youth parliamentarians
+date: 2007-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00488/ribena-heroes-to-be-youth-parliamentarians.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/30/ribena-heroes-to-be-youth-parliamentarians/index.html
+layout: layout.njk
 ---
 Ribena heroes to be youth parliamentarians
 ==========================================

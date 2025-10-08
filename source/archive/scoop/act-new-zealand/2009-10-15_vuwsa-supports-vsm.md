@@ -1,9 +1,11 @@
 ---
 slug: vuwsa-supports-vsm
-title: "VUWSA Supports VSM"
-date: 2009-10-15
+title: VUWSA Supports VSM
+date: 2009-10-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0910/S00171/vuwsa-supports-vsm.htm
 author: act-new-zealand
+permalink: /archive/2009/10/15/vuwsa-supports-vsm/index.html
+layout: layout.njk
 ---
 VUWSA Supports VSM
 ==================

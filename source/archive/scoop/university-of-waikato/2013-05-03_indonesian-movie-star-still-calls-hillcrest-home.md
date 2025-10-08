@@ -1,9 +1,13 @@
 ---
 slug: indonesian-movie-star-still-calls-hillcrest-home
-title: "Indonesian movie star still calls Hillcrest home"
-date: 2013-05-03
-source-url: https://www.scoop.co.nz/stories/ED1305/S00019/indonesian-movie-star-still-calls-hillcrest-home.htm
+title: Indonesian movie star still calls Hillcrest home
+date: 2013-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00019/indonesian-movie-star-still-calls-hillcrest-home.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/05/03/indonesian-movie-star-still-calls-hillcrest-home/index.html
+layout: layout.njk
 ---
 Indonesian movie star still calls Hillcrest home
 ================================================

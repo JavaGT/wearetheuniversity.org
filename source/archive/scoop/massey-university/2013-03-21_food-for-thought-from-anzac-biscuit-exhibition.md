@@ -1,9 +1,12 @@
 ---
 slug: food-for-thought-from-anzac-biscuit-exhibition
-title: "Food for thought from ANZAC biscuit exhibition"
-date: 2013-03-21
-source-url: https://www.scoop.co.nz/stories/CU1303/S00460/food-for-thought-from-anzac-biscuit-exhibition.htm
+title: Food for thought from ANZAC biscuit exhibition
+date: 2013-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1303/S00460/food-for-thought-from-anzac-biscuit-exhibition.htm
 author: massey-university
+permalink: /archive/2013/03/21/food-for-thought-from-anzac-biscuit-exhibition/index.html
+layout: layout.njk
 ---
 Food for thought from ANZAC biscuit exhibition
 ==============================================

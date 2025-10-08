@@ -1,9 +1,13 @@
 ---
 slug: oecd-findings-point-to-major-failure-of-education-policies
-title: "OECD findings point to major failure of education policies"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/ED1312/S00019/oecd-findings-point-to-major-failure-of-education-policies.htm
+title: OECD findings point to major failure of education policies
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00019/oecd-findings-point-to-major-failure-of-education-policies.htm
 author: nzei
+permalink: >-
+  /archive/2013/12/04/oecd-findings-point-to-major-failure-of-education-policies/index.html
+layout: layout.njk
 ---
 OECD findings point to major failure of education policies
 ==========================================================

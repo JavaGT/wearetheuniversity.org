@@ -1,9 +1,13 @@
 ---
 slug: greens-announce-light-rail-for-the-capital-in-a-decade
-title: "Greens announce light rail for the Capital in a decade"
-date: 2017-08-24
-source-url: https://www.scoop.co.nz/stories/PA1708/S00455/greens-announce-light-rail-for-the-capital-in-a-decade.htm
+title: Greens announce light rail for the Capital in a decade
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00455/greens-announce-light-rail-for-the-capital-in-a-decade.htm
 author: green-party
+permalink: >-
+  /archive/2017/08/24/greens-announce-light-rail-for-the-capital-in-a-decade/index.html
+layout: layout.njk
 ---
 Greens announce light rail for the Capital in a decade
 ======================================================

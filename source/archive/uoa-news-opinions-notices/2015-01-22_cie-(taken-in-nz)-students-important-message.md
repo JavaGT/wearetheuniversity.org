@@ -1,8 +1,11 @@
 ---
 slug: cie-(taken-in-nz)-students-important-message
-title: "CIE (taken in NZ) students – important message"
-date: 2015-01-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/cie-students-important-message.html
+title: CIE (taken in NZ) students – important message
+date: 2015-01-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/cie-students-important-message.html
+permalink: /archive/2015/01/22/cie-/index.html
+layout: layout.njk
 ---
 CIE (taken in NZ) students – important message
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: oral-infections-harm-health-prof-greg-seymour
-title: "Oral Infections Harm Health -- Prof. Greg Seymour"
-date: 2007-06-28
-source-url: https://www.scoop.co.nz/stories/GE0706/S00105/oral-infections-harm-health-prof-greg-seymour.htm
+title: Oral Infections Harm Health -- Prof. Greg Seymour
+date: 2007-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0706/S00105/oral-infections-harm-health-prof-greg-seymour.htm
 author: university-of-otago
+permalink: /archive/2007/06/28/oral-infections-harm-health-prof-greg-seymour/index.html
+layout: layout.njk
 ---
 Oral Infections Harm Health -- Prof. Greg Seymour
 =================================================

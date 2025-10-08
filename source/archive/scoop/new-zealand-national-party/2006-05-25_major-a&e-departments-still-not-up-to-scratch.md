@@ -1,9 +1,12 @@
 ---
 slug: major-a&e-departments-still-not-up-to-scratch
-title: "Major A&E departments still not up to scratch"
-date: 2006-05-25
-source-url: https://www.scoop.co.nz/stories/PA0605/S00600/major-ae-departments-still-not-up-to-scratch.htm
+title: Major A&E departments still not up to scratch
+date: 2006-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00600/major-ae-departments-still-not-up-to-scratch.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/25/major-a/index.html
+layout: layout.njk
 ---
 Major A&E departments still not up to scratch
 =============================================

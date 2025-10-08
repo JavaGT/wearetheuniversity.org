@@ -1,9 +1,12 @@
 ---
 slug: tsunami-and-natural-hazards-expert-coming-to-uc
-title: "Tsunami and natural hazards expert coming to UC"
-date: 2013-02-08
-source-url: https://www.scoop.co.nz/stories/SC1302/S00026/tsunami-and-natural-hazards-expert-coming-to-uc.htm
+title: Tsunami and natural hazards expert coming to UC
+date: 2013-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1302/S00026/tsunami-and-natural-hazards-expert-coming-to-uc.htm
 author: university-of-canterbury
+permalink: /archive/2013/02/08/tsunami-and-natural-hazards-expert-coming-to-uc/index.html
+layout: layout.njk
 ---
 Tsunami and natural hazards expert coming to UC
 ===============================================

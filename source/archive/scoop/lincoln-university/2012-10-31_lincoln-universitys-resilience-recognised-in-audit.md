@@ -1,9 +1,13 @@
 ---
 slug: lincoln-universitys-resilience-recognised-in-audit
-title: "Lincoln University’s resilience recognised in audit"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/ED1210/S00178/lincoln-universitys-resilience-recognised-in-audit.htm
+title: Lincoln University’s resilience recognised in audit
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00178/lincoln-universitys-resilience-recognised-in-audit.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/10/31/lincoln-universitys-resilience-recognised-in-audit/index.html
+layout: layout.njk
 ---
 Lincoln University’s resilience recognised in audit
 ===================================================

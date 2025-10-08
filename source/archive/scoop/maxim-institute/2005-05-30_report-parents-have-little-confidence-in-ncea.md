@@ -1,9 +1,12 @@
 ---
 slug: report-parents-have-little-confidence-in-ncea
-title: "Report: parents have little confidence in NCEA"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/PO0505/S00300/report-parents-have-little-confidence-in-ncea.htm
+title: 'Report: parents have little confidence in NCEA'
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0505/S00300/report-parents-have-little-confidence-in-ncea.htm
 author: maxim-institute
+permalink: /archive/2005/05/30/report-parents-have-little-confidence-in-ncea/index.html
+layout: layout.njk
 ---
 Report: parents have little confidence in NCEA
 ==============================================

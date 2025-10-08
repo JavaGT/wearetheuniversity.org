@@ -1,9 +1,12 @@
 ---
 slug: absolutely-positively-for-student-choice
-title: "Absolutely Positively for Student Choice"
-date: 2009-08-21
-source-url: https://www.scoop.co.nz/stories/ED0908/S00070/absolutely-positively-for-student-choice.htm
+title: Absolutely Positively for Student Choice
+date: 2009-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00070/absolutely-positively-for-student-choice.htm
 author: victoria-university-young-nationals
+permalink: /archive/2009/08/21/absolutely-positively-for-student-choice/index.html
+layout: layout.njk
 ---
 Absolutely Positively for Student Choice
 ========================================

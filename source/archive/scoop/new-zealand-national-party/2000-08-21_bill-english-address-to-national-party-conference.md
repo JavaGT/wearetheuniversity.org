@@ -1,9 +1,13 @@
 ---
 slug: bill-english-address-to-national-party-conference
-title: "Bill English Address To National Party Conference"
-date: 2000-08-21
-source-url: https://www.scoop.co.nz/stories/PA0008/S00380/bill-english-address-to-national-party-conference.htm
+title: Bill English Address To National Party Conference
+date: 2000-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00380/bill-english-address-to-national-party-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/08/21/bill-english-address-to-national-party-conference/index.html
+layout: layout.njk
 ---
 Bill English Address To National Party Conference
 =================================================

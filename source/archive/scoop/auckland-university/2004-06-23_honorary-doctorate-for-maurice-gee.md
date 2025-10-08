@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-maurice-gee
-title: "Honorary Doctorate for Maurice Gee"
-date: 2004-06-23
-source-url: https://www.scoop.co.nz/stories/ED0406/S00081/honorary-doctorate-for-maurice-gee.htm
+title: Honorary Doctorate for Maurice Gee
+date: 2004-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00081/honorary-doctorate-for-maurice-gee.htm
 author: auckland-university
+permalink: /archive/2004/06/23/honorary-doctorate-for-maurice-gee/index.html
+layout: layout.njk
 ---
 Honorary Doctorate for Maurice Gee
 ==================================

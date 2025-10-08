@@ -1,9 +1,12 @@
 ---
 slug: new-ways-of-teaching-swimming-survival-skills
-title: "New ways of teaching swimming survival skills"
-date: 2018-01-29
-source-url: https://www.scoop.co.nz/stories/ED1801/S00030/new-ways-of-teaching-swimming-survival-skills.htm
+title: New ways of teaching swimming survival skills
+date: 2018-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1801/S00030/new-ways-of-teaching-swimming-survival-skills.htm
 author: university-of-otago
+permalink: /archive/2018/01/29/new-ways-of-teaching-swimming-survival-skills/index.html
+layout: layout.njk
 ---
 New ways of teaching swimming survival skills
 =============================================

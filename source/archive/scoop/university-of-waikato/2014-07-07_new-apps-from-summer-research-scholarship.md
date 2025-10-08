@@ -1,9 +1,12 @@
 ---
 slug: new-apps-from-summer-research-scholarship
-title: "New apps from Summer Research Scholarship"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/ED1407/S00043/new-apps-from-summer-research-scholarship.htm
+title: New apps from Summer Research Scholarship
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00043/new-apps-from-summer-research-scholarship.htm
 author: university-of-waikato
+permalink: /archive/2014/07/07/new-apps-from-summer-research-scholarship/index.html
+layout: layout.njk
 ---
 New apps from Summer Research Scholarship
 =========================================

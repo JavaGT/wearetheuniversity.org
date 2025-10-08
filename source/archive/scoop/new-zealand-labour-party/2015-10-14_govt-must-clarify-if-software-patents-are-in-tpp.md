@@ -1,9 +1,13 @@
 ---
 slug: govt-must-clarify-if-software-patents-are-in-tpp
-title: "Govt must clarify if software patents are in TPP"
-date: 2015-10-14
-source-url: https://www.scoop.co.nz/stories/PA1510/S00207/govt-must-clarify-if-software-patents-are-in-tpp.htm
+title: Govt must clarify if software patents are in TPP
+date: 2015-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00207/govt-must-clarify-if-software-patents-are-in-tpp.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/10/14/govt-must-clarify-if-software-patents-are-in-tpp/index.html
+layout: layout.njk
 ---
 Govt must clarify if software patents are in TPP
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-114
-title: "Maxim Institute - real issues - No. 114"
-date: 2004-06-11
-source-url: https://www.scoop.co.nz/stories/PO0406/S00107/maxim-institute-real-issues-no-114.htm
+title: Maxim Institute - real issues - No. 114
+date: 2004-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0406/S00107/maxim-institute-real-issues-no-114.htm
 author: maxim-institute
+permalink: /archive/2004/06/11/maxim-institute-real-issues-no-114/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 114
 =======================================

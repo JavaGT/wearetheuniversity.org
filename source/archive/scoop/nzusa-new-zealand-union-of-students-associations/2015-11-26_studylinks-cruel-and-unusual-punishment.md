@@ -1,9 +1,12 @@
 ---
 slug: studylinks-cruel-and-unusual-punishment
-title: "StudyLink’s cruel and unusual punishment"
-date: 2015-11-26
-source-url: https://www.scoop.co.nz/stories/PO1511/S00400/studylinks-cruel-and-unusual-punishment.htm
+title: StudyLink’s cruel and unusual punishment
+date: 2015-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1511/S00400/studylinks-cruel-and-unusual-punishment.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/11/26/studylinks-cruel-and-unusual-punishment/index.html
+layout: layout.njk
 ---
 StudyLink’s cruel and unusual punishment
 ========================================

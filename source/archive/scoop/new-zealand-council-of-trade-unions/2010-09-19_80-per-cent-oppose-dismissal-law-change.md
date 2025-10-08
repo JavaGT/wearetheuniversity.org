@@ -1,9 +1,12 @@
 ---
 slug: 80-per-cent-oppose-dismissal-law-change
-title: "80 Per Cent Oppose Dismissal Law Change"
-date: 2010-09-19
-source-url: https://www.scoop.co.nz/stories/PO1009/S00227/80-per-cent-oppose-dismissal-law-change.htm
+title: 80 Per Cent Oppose Dismissal Law Change
+date: 2010-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00227/80-per-cent-oppose-dismissal-law-change.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/09/19/80-per-cent-oppose-dismissal-law-change/index.html
+layout: layout.njk
 ---
 80 Per Cent Oppose Dismissal Law Change
 =======================================

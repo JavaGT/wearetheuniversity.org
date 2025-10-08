@@ -1,9 +1,13 @@
 ---
 slug: groups-urge-us-president-to-negotiate-arms-trade-treaty
-title: "Groups urge US President to negotiate Arms Trade Treaty"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/PA1205/S00532/groups-urge-us-president-to-negotiate-arms-trade-treaty.htm
+title: Groups urge US President to negotiate Arms Trade Treaty
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00532/groups-urge-us-president-to-negotiate-arms-trade-treaty.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/05/30/groups-urge-us-president-to-negotiate-arms-trade-treaty/index.html
+layout: layout.njk
 ---
 Groups urge US President to negotiate Arms Trade Treaty
 =======================================================

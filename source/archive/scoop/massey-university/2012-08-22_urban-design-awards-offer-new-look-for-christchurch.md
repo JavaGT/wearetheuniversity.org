@@ -1,9 +1,13 @@
 ---
 slug: urban-design-awards-offer-new-look-for-christchurch
-title: "Urban design awards offer new look for Christchurch"
-date: 2012-08-22
-source-url: https://www.scoop.co.nz/stories/ED1208/S00121/urban-design-awards-offer-new-look-for-christchurch.htm
+title: Urban design awards offer new look for Christchurch
+date: 2012-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00121/urban-design-awards-offer-new-look-for-christchurch.htm
 author: massey-university
+permalink: >-
+  /archive/2012/08/22/urban-design-awards-offer-new-look-for-christchurch/index.html
+layout: layout.njk
 ---
 Urban design awards offer new look for Christchurch
 ===================================================

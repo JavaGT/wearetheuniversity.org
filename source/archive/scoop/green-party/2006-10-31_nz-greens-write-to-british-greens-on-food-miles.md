@@ -1,9 +1,12 @@
 ---
 slug: nz-greens-write-to-british-greens-on-food-miles
-title: "NZ Greens write to British Greens on food miles"
-date: 2006-10-31
-source-url: https://www.scoop.co.nz/stories/PA0610/S00597/nz-greens-write-to-british-greens-on-food-miles.htm
+title: NZ Greens write to British Greens on food miles
+date: 2006-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00597/nz-greens-write-to-british-greens-on-food-miles.htm
 author: green-party
+permalink: /archive/2006/10/31/nz-greens-write-to-british-greens-on-food-miles/index.html
+layout: layout.njk
 ---
 NZ Greens write to British Greens on food miles
 ===============================================

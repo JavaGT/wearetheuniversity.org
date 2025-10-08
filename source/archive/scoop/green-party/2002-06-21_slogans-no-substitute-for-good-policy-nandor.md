@@ -1,9 +1,12 @@
 ---
 slug: slogans-no-substitute-for-good-policy-nandor
-title: "Slogans No Substitute For Good Policy - Nandor"
-date: 2002-06-21
-source-url: https://www.scoop.co.nz/stories/PA0206/S00385/slogans-no-substitute-for-good-policy-nandor.htm
+title: Slogans No Substitute For Good Policy - Nandor
+date: 2002-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00385/slogans-no-substitute-for-good-policy-nandor.htm
 author: green-party
+permalink: /archive/2002/06/21/slogans-no-substitute-for-good-policy-nandor/index.html
+layout: layout.njk
 ---
 Slogans No Substitute For Good Policy - Nandor
 ==============================================

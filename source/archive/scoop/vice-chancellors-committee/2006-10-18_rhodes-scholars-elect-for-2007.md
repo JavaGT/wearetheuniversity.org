@@ -1,9 +1,12 @@
 ---
 slug: rhodes-scholars-elect-for-2007
-title: "Rhodes Scholars Elect for 2007"
-date: 2006-10-18
-source-url: https://www.scoop.co.nz/stories/ED0610/S00074/rhodes-scholars-elect-for-2007.htm
+title: Rhodes Scholars Elect for 2007
+date: 2006-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00074/rhodes-scholars-elect-for-2007.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/10/18/rhodes-scholars-elect-for-2007/index.html
+layout: layout.njk
 ---
 Rhodes Scholars Elect for 2007
 ==============================

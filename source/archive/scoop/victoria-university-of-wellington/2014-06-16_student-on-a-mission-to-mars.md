@@ -1,9 +1,11 @@
 ---
 slug: student-on-a-mission-to-mars
-title: "Student on a mission to Mars"
-date: 2014-06-16
+title: Student on a mission to Mars
+date: 2014-06-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1406/S00044/student-on-a-mission-to-mars.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/16/student-on-a-mission-to-mars/index.html
+layout: layout.njk
 ---
 Student on a mission to Mars
 ============================

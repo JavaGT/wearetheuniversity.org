@@ -1,9 +1,11 @@
 ---
 slug: dunne-lets-down-students
-title: "Dunne lets down students"
-date: 2015-12-03
+title: Dunne lets down students
+date: 2015-12-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1512/S00045/dunne-lets-down-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/12/03/dunne-lets-down-students/index.html
+layout: layout.njk
 ---
 Dunne lets down students
 ========================

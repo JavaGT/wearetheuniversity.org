@@ -1,9 +1,13 @@
 ---
 slug: undisclosed-acc-sum-sunk-into-prison-privatisation-gamble
-title: "Undisclosed ACC sum sunk into prison privatisation gamble"
-date: 2012-09-12
-source-url: https://www.scoop.co.nz/stories/PA1209/S00183/undisclosed-acc-sum-sunk-into-prison-privatisation-gamble.htm
+title: Undisclosed ACC sum sunk into prison privatisation gamble
+date: 2012-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00183/undisclosed-acc-sum-sunk-into-prison-privatisation-gamble.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/09/12/undisclosed-acc-sum-sunk-into-prison-privatisation-gamble/index.html
+layout: layout.njk
 ---
 Undisclosed ACC sum sunk into prison privatisation gamble
 =========================================================

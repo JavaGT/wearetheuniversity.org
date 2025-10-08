@@ -1,9 +1,13 @@
 ---
 slug: blacktop-receivership-highlights-construction-margin-issues
-title: "Blacktop receivership highlights construction margin issues"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/BU1309/S00324/blacktop-receivership-highlights-construction-margin-issues.htm
+title: Blacktop receivership highlights construction margin issues
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1309/S00324/blacktop-receivership-highlights-construction-margin-issues.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/10/blacktop-receivership-highlights-construction-margin-issues/index.html
+layout: layout.njk
 ---
 Blacktop receivership highlights construction margin issues
 ===========================================================

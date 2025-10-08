@@ -1,9 +1,12 @@
 ---
 slug: syrian-crisis-and-chemical-weapons
-title: "Syrian crisis and chemical weapons"
-date: 2018-07-30
-source-url: https://www.scoop.co.nz/stories/WO1807/S00115/syrian-crisis-and-chemical-weapons.htm
+title: Syrian crisis and chemical weapons
+date: 2018-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1807/S00115/syrian-crisis-and-chemical-weapons.htm
 author: university-of-canterbury
+permalink: /archive/2018/07/30/syrian-crisis-and-chemical-weapons/index.html
+layout: layout.njk
 ---
 Syrian crisis and chemical weapons
 ==================================

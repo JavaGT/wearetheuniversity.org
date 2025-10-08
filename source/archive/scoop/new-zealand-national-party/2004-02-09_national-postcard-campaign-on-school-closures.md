@@ -1,9 +1,12 @@
 ---
 slug: national-postcard-campaign-on-school-closures
-title: "National postcard campaign on school closures"
-date: 2004-02-09
-source-url: https://www.scoop.co.nz/stories/PA0402/S00104/national-postcard-campaign-on-school-closures.htm
+title: National postcard campaign on school closures
+date: 2004-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00104/national-postcard-campaign-on-school-closures.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/09/national-postcard-campaign-on-school-closures/index.html
+layout: layout.njk
 ---
 National postcard campaign on school closures
 =============================================

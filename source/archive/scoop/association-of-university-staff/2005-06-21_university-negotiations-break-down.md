@@ -1,9 +1,12 @@
 ---
 slug: university-negotiations-break-down
-title: "University negotiations break down"
-date: 2005-06-21
-source-url: https://www.scoop.co.nz/stories/ED0506/S00055/university-negotiations-break-down.htm
+title: University negotiations break down
+date: 2005-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00055/university-negotiations-break-down.htm
 author: association-of-university-staff
+permalink: /archive/2005/06/21/university-negotiations-break-down/index.html
+layout: layout.njk
 ---
 University negotiations break down
 ==================================

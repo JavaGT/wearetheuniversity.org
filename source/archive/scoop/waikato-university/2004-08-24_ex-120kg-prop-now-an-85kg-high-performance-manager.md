@@ -1,9 +1,13 @@
 ---
 slug: ex-120kg-prop-now-an-85kg-high-performance-manager
-title: "Ex-120kg prop now an 85kg high performance manager"
-date: 2004-08-24
-source-url: https://www.scoop.co.nz/stories/ED0408/S00103/ex-120kg-prop-now-an-85kg-high-performance-manager.htm
+title: Ex-120kg prop now an 85kg high performance manager
+date: 2004-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00103/ex-120kg-prop-now-an-85kg-high-performance-manager.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/08/24/ex-120kg-prop-now-an-85kg-high-performance-manager/index.html
+layout: layout.njk
 ---
 Ex-120kg prop now an 85kg high performance manager
 ==================================================

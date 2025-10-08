@@ -1,9 +1,13 @@
 ---
 slug: david-cunliffes-pre-budget-speech-owning-out-future
-title: "David Cunliffe's Pre-Budget Speech - Owning Out Future"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/PA1105/S00333/david-cunliffes-pre-budget-speech-owning-out-future.htm
+title: David Cunliffe's Pre-Budget Speech - Owning Out Future
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00333/david-cunliffes-pre-budget-speech-owning-out-future.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/17/david-cunliffes-pre-budget-speech-owning-out-future/index.html
+layout: layout.njk
 ---
 David Cunliffe's Pre-Budget Speech - Owning Out Future
 ======================================================

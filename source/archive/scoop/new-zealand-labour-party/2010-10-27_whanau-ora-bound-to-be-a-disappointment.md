@@ -1,9 +1,12 @@
 ---
 slug: whanau-ora-bound-to-be-a-disappointment
-title: "Whanau Ora bound to be a disappointment"
-date: 2010-10-27
-source-url: https://www.scoop.co.nz/stories/PA1010/S00438/whanau-ora-bound-to-be-a-disappointment.htm
+title: Whanau Ora bound to be a disappointment
+date: 2010-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00438/whanau-ora-bound-to-be-a-disappointment.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/27/whanau-ora-bound-to-be-a-disappointment/index.html
+layout: layout.njk
 ---
 Whanau Ora bound to be a disappointment
 =======================================

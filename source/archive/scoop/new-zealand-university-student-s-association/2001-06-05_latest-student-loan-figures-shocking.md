@@ -1,9 +1,12 @@
 ---
 slug: latest-student-loan-figures-shocking
-title: "Latest Student Loan Figures Shocking"
-date: 2001-06-05
-source-url: https://www.scoop.co.nz/stories/ED0106/S00001/latest-student-loan-figures-shocking.htm
+title: Latest Student Loan Figures Shocking
+date: 2001-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0106/S00001/latest-student-loan-figures-shocking.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/06/05/latest-student-loan-figures-shocking/index.html
+layout: layout.njk
 ---
 Latest Student Loan Figures Shocking
 ====================================

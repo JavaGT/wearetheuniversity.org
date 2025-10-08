@@ -1,9 +1,13 @@
 ---
 slug: the-pride-and-passion-of-kapa-haka-tariana-turia
-title: "The pride and passion of kapa haka - Tariana Turia"
-date: 2011-07-15
-source-url: https://www.scoop.co.nz/stories/PA1107/S00285/the-pride-and-passion-of-kapa-haka-tariana-turia.htm
+title: The pride and passion of kapa haka - Tariana Turia
+date: 2011-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00285/the-pride-and-passion-of-kapa-haka-tariana-turia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/07/15/the-pride-and-passion-of-kapa-haka-tariana-turia/index.html
+layout: layout.njk
 ---
 The pride and passion of kapa haka - Tariana Turia
 ==================================================

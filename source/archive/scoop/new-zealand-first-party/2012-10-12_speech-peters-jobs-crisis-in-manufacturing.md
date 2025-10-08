@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-jobs-crisis-in-manufacturing
-title: "Speech: Peters - Jobs Crisis in Manufacturing"
-date: 2012-10-12
-source-url: https://www.scoop.co.nz/stories/PA1210/S00218/speech-peters-jobs-crisis-in-manufacturing.htm
+title: 'Speech: Peters - Jobs Crisis in Manufacturing'
+date: 2012-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00218/speech-peters-jobs-crisis-in-manufacturing.htm
 author: new-zealand-first-party
+permalink: /archive/2012/10/12/speech-peters-jobs-crisis-in-manufacturing/index.html
+layout: layout.njk
 ---
 Speech: Peters - Jobs Crisis in Manufacturing
 =============================================

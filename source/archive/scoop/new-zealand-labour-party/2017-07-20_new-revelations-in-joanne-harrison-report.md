@@ -1,9 +1,12 @@
 ---
 slug: new-revelations-in-joanne-harrison-report
-title: "New revelations in Joanne Harrison report"
-date: 2017-07-20
-source-url: https://www.scoop.co.nz/stories/PA1707/S00301/new-revelations-in-joanne-harrison-report.htm
+title: New revelations in Joanne Harrison report
+date: 2017-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00301/new-revelations-in-joanne-harrison-report.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/20/new-revelations-in-joanne-harrison-report/index.html
+layout: layout.njk
 ---
 New revelations in Joanne Harrison report
 =========================================

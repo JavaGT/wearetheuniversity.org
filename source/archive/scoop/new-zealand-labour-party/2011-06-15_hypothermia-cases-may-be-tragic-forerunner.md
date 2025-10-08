@@ -1,9 +1,12 @@
 ---
 slug: hypothermia-cases-may-be-tragic-forerunner
-title: "Hypothermia cases may be tragic forerunner"
-date: 2011-06-15
-source-url: https://www.scoop.co.nz/stories/PA1106/S00241/hypothermia-cases-may-be-tragic-forerunner.htm
+title: Hypothermia cases may be tragic forerunner
+date: 2011-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00241/hypothermia-cases-may-be-tragic-forerunner.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/15/hypothermia-cases-may-be-tragic-forerunner/index.html
+layout: layout.njk
 ---
 Hypothermia cases may be tragic forerunner
 ==========================================

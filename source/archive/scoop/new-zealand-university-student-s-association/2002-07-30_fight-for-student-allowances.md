@@ -1,9 +1,11 @@
 ---
 slug: fight-for-student-allowances
-title: "Fight For Student Allowances"
-date: 2002-07-30
+title: Fight For Student Allowances
+date: 2002-07-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0207/S00071/fight-for-student-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/30/fight-for-student-allowances/index.html
+layout: layout.njk
 ---
 Fight For Student Allowances
 ============================

@@ -1,9 +1,13 @@
 ---
 slug: study-quantifies-effect-of-alcohol-misuse-on-20-somethings
-title: "Study quantifies effect of alcohol misuse on 20-somethings"
-date: 2013-09-03
-source-url: https://www.scoop.co.nz/stories/GE1309/S00010/study-quantifies-effect-of-alcohol-misuse-on-20-somethings.htm
+title: Study quantifies effect of alcohol misuse on 20-somethings
+date: 2013-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1309/S00010/study-quantifies-effect-of-alcohol-misuse-on-20-somethings.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/09/03/study-quantifies-effect-of-alcohol-misuse-on-20-somethings/index.html
+layout: layout.njk
 ---
 Study quantifies effect of alcohol misuse on 20-somethings
 ==========================================================

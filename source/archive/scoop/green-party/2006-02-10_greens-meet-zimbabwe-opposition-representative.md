@@ -1,9 +1,12 @@
 ---
 slug: greens-meet-zimbabwe-opposition-representative
-title: "Greens meet Zimbabwe opposition representative"
-date: 2006-02-10
-source-url: https://www.scoop.co.nz/stories/PA0602/S00132/greens-meet-zimbabwe-opposition-representative.htm
+title: Greens meet Zimbabwe opposition representative
+date: 2006-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00132/greens-meet-zimbabwe-opposition-representative.htm
 author: green-party
+permalink: /archive/2006/02/10/greens-meet-zimbabwe-opposition-representative/index.html
+layout: layout.njk
 ---
 Greens meet Zimbabwe opposition representative
 ==============================================

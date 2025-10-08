@@ -1,9 +1,12 @@
 ---
 slug: mallard-sat-on-hands-over-wananga
-title: "Mallard sat on hands over wananga"
-date: 2005-05-10
-source-url: https://www.scoop.co.nz/stories/PA0505/S00214/mallard-sat-on-hands-over-wananga.htm
+title: Mallard sat on hands over wananga
+date: 2005-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00214/mallard-sat-on-hands-over-wananga.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/10/mallard-sat-on-hands-over-wananga/index.html
+layout: layout.njk
 ---
 Mallard sat on hands over wananga
 =================================

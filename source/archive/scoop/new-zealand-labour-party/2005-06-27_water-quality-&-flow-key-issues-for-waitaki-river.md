@@ -1,9 +1,12 @@
 ---
 slug: water-quality-&-flow-key-issues-for-waitaki-river
-title: "Water quality & flow key issues for Waitaki River"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00655/water-quality-flow-key-issues-for-waitaki-river.htm
+title: Water quality & flow key issues for Waitaki River
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00655/water-quality-flow-key-issues-for-waitaki-river.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/06/27/water-quality-/index.html
+layout: layout.njk
 ---
 Water quality & flow key issues for Waitaki River
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: prominent-nz-art-historian-to-lead-europe-tour
-title: "Prominent NZ art historian to lead Europe tour"
-date: 2009-04-07
-source-url: https://www.scoop.co.nz/stories/CU0904/S00087/prominent-nz-art-historian-to-lead-europe-tour.htm
+title: Prominent NZ art historian to lead Europe tour
+date: 2009-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0904/S00087/prominent-nz-art-historian-to-lead-europe-tour.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/04/07/prominent-nz-art-historian-to-lead-europe-tour/index.html
+layout: layout.njk
 ---
 Prominent NZ art historian to lead Europe tour
 ==============================================

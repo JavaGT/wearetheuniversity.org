@@ -1,9 +1,12 @@
 ---
 slug: council-takes-commuters-for-a-ride
-title: "Council takes commuters for a ride"
-date: 2008-07-01
-source-url: https://www.scoop.co.nz/stories/PA0807/S00016/council-takes-commuters-for-a-ride.htm
+title: Council takes commuters for a ride
+date: 2008-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00016/council-takes-commuters-for-a-ride.htm
 author: green-party
+permalink: /archive/2008/07/01/council-takes-commuters-for-a-ride/index.html
+layout: layout.njk
 ---
 Council takes commuters for a ride
 ==================================

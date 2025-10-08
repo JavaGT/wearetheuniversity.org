@@ -1,9 +1,12 @@
 ---
 slug: oil-and-gas-ban-needs-recalibration
-title: "Oil and gas ban needs ‘recalibration’"
-date: 2019-02-19
-source-url: https://www.scoop.co.nz/stories/PA1902/S00161/oil-and-gas-ban-needs-recalibration.htm
+title: Oil and gas ban needs ‘recalibration’
+date: 2019-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00161/oil-and-gas-ban-needs-recalibration.htm
 author: act-new-zealand
+permalink: /archive/2019/02/19/oil-and-gas-ban-needs-recalibration/index.html
+layout: layout.njk
 ---
 Oil and gas ban needs ‘recalibration’
 =====================================

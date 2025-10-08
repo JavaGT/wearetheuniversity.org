@@ -1,9 +1,12 @@
 ---
 slug: accs-computer-aided-decision-making-questioned
-title: "ACC’s computer-aided decision-making questioned"
-date: 2017-09-22
-source-url: https://www.scoop.co.nz/stories/PO1709/S00412/accs-computer-aided-decision-making-questioned.htm
+title: ACC’s computer-aided decision-making questioned
+date: 2017-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00412/accs-computer-aided-decision-making-questioned.htm
 author: university-of-otago
+permalink: /archive/2017/09/22/accs-computer-aided-decision-making-questioned/index.html
+layout: layout.njk
 ---
 ACC’s computer-aided decision-making questioned
 ===============================================

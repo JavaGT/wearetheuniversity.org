@@ -1,9 +1,11 @@
 ---
 slug: healthline-delay-unnecessary
-title: "Healthline Delay Unnecessary"
-date: 1999-12-23
+title: Healthline Delay Unnecessary
+date: 1999-12-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9912/S00134/healthline-delay-unnecessary.htm
 author: new-zealand-national-party
+permalink: /archive/1999/12/23/healthline-delay-unnecessary/index.html
+layout: layout.njk
 ---
 Healthline Delay Unnecessary
 ============================

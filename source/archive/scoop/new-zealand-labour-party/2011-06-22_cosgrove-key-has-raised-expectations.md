@@ -1,9 +1,12 @@
 ---
 slug: cosgrove-key-has-raised-expectations
-title: "Cosgrove: Key has raised expectations"
-date: 2011-06-22
-source-url: https://www.scoop.co.nz/stories/PA1106/S00369/cosgrove-key-has-raised-expectations.htm
+title: 'Cosgrove: Key has raised expectations'
+date: 2011-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00369/cosgrove-key-has-raised-expectations.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/22/cosgrove-key-has-raised-expectations/index.html
+layout: layout.njk
 ---
 Cosgrove: Key has raised expectations
 =====================================

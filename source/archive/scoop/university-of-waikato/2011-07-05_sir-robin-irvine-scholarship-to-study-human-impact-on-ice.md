@@ -1,9 +1,13 @@
 ---
 slug: sir-robin-irvine-scholarship-to-study-human-impact-on-ice
-title: "Sir Robin Irvine Scholarship to study human impact on ice"
-date: 2011-07-05
-source-url: https://www.scoop.co.nz/stories/SC1107/S00013/sir-robin-irvine-scholarship-to-study-human-impact-on-ice.htm
+title: Sir Robin Irvine Scholarship to study human impact on ice
+date: 2011-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00013/sir-robin-irvine-scholarship-to-study-human-impact-on-ice.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/07/05/sir-robin-irvine-scholarship-to-study-human-impact-on-ice/index.html
+layout: layout.njk
 ---
 Sir Robin Irvine Scholarship to study human impact on ice
 =========================================================

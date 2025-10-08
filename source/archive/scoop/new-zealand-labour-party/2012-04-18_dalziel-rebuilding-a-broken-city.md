@@ -1,9 +1,12 @@
 ---
 slug: dalziel-rebuilding-a-broken-city
-title: "Dalziel: Rebuilding a Broken City"
-date: 2012-04-18
-source-url: https://www.scoop.co.nz/stories/PA1204/S00221/dalziel-rebuilding-a-broken-city.htm
+title: 'Dalziel: Rebuilding a Broken City'
+date: 2012-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00221/dalziel-rebuilding-a-broken-city.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/18/dalziel-rebuilding-a-broken-city/index.html
+layout: layout.njk
 ---
 Dalziel: Rebuilding a Broken City
 =================================

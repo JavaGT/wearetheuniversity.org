@@ -1,9 +1,13 @@
 ---
 slug: what-did-you-think-of-the-movie-hobbit-survey-next-phase
-title: "What Did You Think Of The Movie? Hobbit Survey, Next Phase"
-date: 2013-02-12
-source-url: https://www.scoop.co.nz/stories/ED1302/S00053/what-did-you-think-of-the-movie-hobbit-survey-next-phase.htm
+title: What Did You Think Of The Movie? Hobbit Survey, Next Phase
+date: 2013-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00053/what-did-you-think-of-the-movie-hobbit-survey-next-phase.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/02/12/what-did-you-think-of-the-movie-hobbit-survey-next-phase/index.html
+layout: layout.njk
 ---
 What Did You Think Of The Movie? Hobbit Survey, Next Phase
 ==========================================================

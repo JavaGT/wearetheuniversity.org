@@ -1,9 +1,13 @@
 ---
 slug: new-evidence-of-newspaper-bias-in-election-coverage
-title: "New evidence of newspaper bias in election coverage"
-date: 2012-11-26
-source-url: https://www.scoop.co.nz/stories/PO1211/S00374/new-evidence-of-newspaper-bias-in-election-coverage.htm
+title: New evidence of newspaper bias in election coverage
+date: 2012-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00374/new-evidence-of-newspaper-bias-in-election-coverage.htm
 author: massey-university
+permalink: >-
+  /archive/2012/11/26/new-evidence-of-newspaper-bias-in-election-coverage/index.html
+layout: layout.njk
 ---
 New evidence of newspaper bias in election coverage
 ===================================================

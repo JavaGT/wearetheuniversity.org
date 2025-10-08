@@ -1,9 +1,12 @@
 ---
 slug: nationals-appalling-attack-on-state-servants
-title: "National's appalling attack on state servants"
-date: 2005-09-09
-source-url: https://www.scoop.co.nz/stories/PA0509/S00244/nationals-appalling-attack-on-state-servants.htm
+title: National's appalling attack on state servants
+date: 2005-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00244/nationals-appalling-attack-on-state-servants.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/09/nationals-appalling-attack-on-state-servants/index.html
+layout: layout.njk
 ---
 National's appalling attack on state servants
 =============================================

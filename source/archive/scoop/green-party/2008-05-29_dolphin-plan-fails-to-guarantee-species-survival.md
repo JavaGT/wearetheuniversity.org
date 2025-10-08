@@ -1,9 +1,13 @@
 ---
 slug: dolphin-plan-fails-to-guarantee-species-survival
-title: "Dolphin plan fails to guarantee species' survival"
-date: 2008-05-29
-source-url: https://www.scoop.co.nz/stories/PA0805/S00617/dolphin-plan-fails-to-guarantee-species-survival.htm
+title: Dolphin plan fails to guarantee species' survival
+date: 2008-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00617/dolphin-plan-fails-to-guarantee-species-survival.htm
 author: green-party
+permalink: >-
+  /archive/2008/05/29/dolphin-plan-fails-to-guarantee-species-survival/index.html
+layout: layout.njk
 ---
 Dolphin plan fails to guarantee species' survival
 =================================================

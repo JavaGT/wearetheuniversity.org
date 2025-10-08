@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-home-affordability-worsens
-title: "New Zealand home affordability worsens"
-date: 2014-06-30
-source-url: https://www.scoop.co.nz/stories/PO1406/S00485/new-zealand-home-affordability-worsens.htm
+title: New Zealand home affordability worsens
+date: 2014-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00485/new-zealand-home-affordability-worsens.htm
 author: massey-university
+permalink: /archive/2014/06/30/new-zealand-home-affordability-worsens/index.html
+layout: layout.njk
 ---
 New Zealand home affordability worsens
 ======================================

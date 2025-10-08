@@ -1,9 +1,13 @@
 ---
 slug: uni-doors-closing-signals-end-to-the-smart-economy
-title: "Uni doors closing signals end to the smart economy"
-date: 2010-05-13
-source-url: https://www.scoop.co.nz/stories/PA1005/S00207/uni-doors-closing-signals-end-to-the-smart-economy.htm
+title: Uni doors closing signals end to the smart economy
+date: 2010-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00207/uni-doors-closing-signals-end-to-the-smart-economy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/05/13/uni-doors-closing-signals-end-to-the-smart-economy/index.html
+layout: layout.njk
 ---
 Uni doors closing signals end to the smart economy
 ==================================================

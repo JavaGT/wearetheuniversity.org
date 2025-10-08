@@ -1,9 +1,12 @@
 ---
 slug: internet-access-helping-to-arrest-rural-decline
-title: "Internet access helping to arrest rural decline"
-date: 2011-07-05
-source-url: https://www.scoop.co.nz/stories/BU1107/S00122/internet-access-helping-to-arrest-rural-decline.htm
+title: Internet access helping to arrest rural decline
+date: 2011-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1107/S00122/internet-access-helping-to-arrest-rural-decline.htm
 author: university-of-otago
+permalink: /archive/2011/07/05/internet-access-helping-to-arrest-rural-decline/index.html
+layout: layout.njk
 ---
 Internet access helping to arrest rural decline
 ===============================================

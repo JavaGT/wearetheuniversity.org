@@ -1,9 +1,13 @@
 ---
 slug: nzso-to-perform-promising-teenage-canterbury-composers-work
-title: "NZSO To Perform Promising Teenage Canterbury Composer’s Work"
-date: 2020-11-10
-source-url: https://www.scoop.co.nz/stories/ED2011/S00017/nzso-to-perform-promising-teenage-canterbury-composers-work.htm
+title: NZSO To Perform Promising Teenage Canterbury Composer’s Work
+date: 2020-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00017/nzso-to-perform-promising-teenage-canterbury-composers-work.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/10/nzso-to-perform-promising-teenage-canterbury-composers-work/index.html
+layout: layout.njk
 ---
 NZSO To Perform Promising Teenage Canterbury Composer’s Work
 ============================================================

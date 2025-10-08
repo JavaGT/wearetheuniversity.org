@@ -1,9 +1,12 @@
 ---
 slug: simich-and-tanczos-in-agreement-over-cannabis
-title: "Simich and Tanczos in agreement over Cannabis"
-date: 1999-11-18
-source-url: https://www.scoop.co.nz/stories/PO9911/S00114/simich-and-tanczos-in-agreement-over-cannabis.htm
+title: Simich and Tanczos in agreement over Cannabis
+date: 1999-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00114/simich-and-tanczos-in-agreement-over-cannabis.htm
 author: green-party
+permalink: /archive/1999/11/18/simich-and-tanczos-in-agreement-over-cannabis/index.html
+layout: layout.njk
 ---
 Simich and Tanczos in agreement over Cannabis
 =============================================

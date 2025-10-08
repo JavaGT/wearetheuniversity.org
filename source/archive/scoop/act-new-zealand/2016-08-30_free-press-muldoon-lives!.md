@@ -1,9 +1,11 @@
 ---
 slug: free-press-muldoon-lives!
-title: "Free Press: Muldoon Lives!"
-date: 2016-08-30
+title: 'Free Press: Muldoon Lives!'
+date: 2016-08-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1608/S00333/free-press-muldoon-lives.htm
 author: act-new-zealand
+permalink: /archive/2016/08/30/free-press-muldoon-lives/index.html
+layout: layout.njk
 ---
 Free Press: Muldoon Lives!
 ==========================

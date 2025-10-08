@@ -1,9 +1,12 @@
 ---
 slug: eleanor-catton-wins-top-canadian-literary-prize
-title: "Eleanor Catton wins top Canadian literary prize"
-date: 2013-11-14
-source-url: https://www.scoop.co.nz/stories/CU1311/S00292/eleanor-catton-wins-top-canadian-literary-prize.htm
+title: Eleanor Catton wins top Canadian literary prize
+date: 2013-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1311/S00292/eleanor-catton-wins-top-canadian-literary-prize.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/14/eleanor-catton-wins-top-canadian-literary-prize/index.html
+layout: layout.njk
 ---
 Eleanor Catton wins top Canadian literary prize
 ===============================================

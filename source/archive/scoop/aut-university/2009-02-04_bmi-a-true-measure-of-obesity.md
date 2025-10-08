@@ -1,9 +1,12 @@
 ---
 slug: bmi-a-true-measure-of-obesity
-title: "BMI -  a true measure of obesity?"
-date: 2009-02-04
-source-url: https://www.scoop.co.nz/stories/GE0902/S00012/bmi-a-true-measure-of-obesity.htm
+title: BMI -  a true measure of obesity?
+date: 2009-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0902/S00012/bmi-a-true-measure-of-obesity.htm
 author: aut-university
+permalink: /archive/2009/02/04/bmi-a-true-measure-of-obesity/index.html
+layout: layout.njk
 ---
 BMI - a true measure of obesity?
 ================================

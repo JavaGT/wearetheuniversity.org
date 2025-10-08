@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-science-students-scholarships
-title: "Students welcome science students scholarships"
-date: 2003-08-14
-source-url: https://www.scoop.co.nz/stories/ED0308/S00048/students-welcome-science-students-scholarships.htm
+title: Students welcome science students scholarships
+date: 2003-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00048/students-welcome-science-students-scholarships.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/08/14/students-welcome-science-students-scholarships/index.html
+layout: layout.njk
 ---
 Students welcome science students scholarships
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: iraq-must-judge-saddam-say-greens
-title: "Iraq must judge Saddam, say Greens"
-date: 2003-12-15
-source-url: https://www.scoop.co.nz/stories/PA0312/S00354/iraq-must-judge-saddam-say-greens.htm
+title: Iraq must judge Saddam, say Greens
+date: 2003-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00354/iraq-must-judge-saddam-say-greens.htm
 author: green-party
+permalink: /archive/2003/12/15/iraq-must-judge-saddam-say-greens/index.html
+layout: layout.njk
 ---
 Iraq must judge Saddam, say Greens
 ==================================

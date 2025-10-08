@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-speech-to-employers-federation
-title: "Helen Clark speech to Employers Federation"
-date: 1999-08-25
-source-url: https://www.scoop.co.nz/stories/PA9908/S00419/helen-clark-speech-to-employers-federation.htm
+title: Helen Clark speech to Employers Federation
+date: 1999-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00419/helen-clark-speech-to-employers-federation.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/25/helen-clark-speech-to-employers-federation/index.html
+layout: layout.njk
 ---
 Helen Clark speech to Employers Federation
 ==========================================

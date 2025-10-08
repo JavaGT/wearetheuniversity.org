@@ -1,9 +1,12 @@
 ---
 slug: david-parker-speech-waitaki-girls-high-school
-title: "David Parker Speech Waitaki Girls High School"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/PA0509/S00394/david-parker-speech-waitaki-girls-high-school.htm
+title: David Parker Speech Waitaki Girls High School
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00394/david-parker-speech-waitaki-girls-high-school.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/15/david-parker-speech-waitaki-girls-high-school/index.html
+layout: layout.njk
 ---
 David Parker Speech Waitaki Girls High School
 =============================================

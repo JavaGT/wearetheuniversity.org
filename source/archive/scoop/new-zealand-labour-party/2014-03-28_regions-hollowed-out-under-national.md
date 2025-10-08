@@ -1,9 +1,12 @@
 ---
 slug: regions-hollowed-out-under-national
-title: "Regions hollowed out under National"
-date: 2014-03-28
-source-url: https://www.scoop.co.nz/stories/PA1403/S00557/regions-hollowed-out-under-national.htm
+title: Regions hollowed out under National
+date: 2014-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00557/regions-hollowed-out-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/28/regions-hollowed-out-under-national/index.html
+layout: layout.njk
 ---
 Regions hollowed out under National
 ===================================

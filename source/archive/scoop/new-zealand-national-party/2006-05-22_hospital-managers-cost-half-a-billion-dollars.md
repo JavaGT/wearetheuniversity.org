@@ -1,9 +1,12 @@
 ---
 slug: hospital-managers-cost-half-a-billion-dollars
-title: "Hospital managers cost half a billion dollars"
-date: 2006-05-22
-source-url: https://www.scoop.co.nz/stories/PA0605/S00502/hospital-managers-cost-half-a-billion-dollars.htm
+title: Hospital managers cost half a billion dollars
+date: 2006-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00502/hospital-managers-cost-half-a-billion-dollars.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/22/hospital-managers-cost-half-a-billion-dollars/index.html
+layout: layout.njk
 ---
 Hospital managers cost half a billion dollars
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: talky-poems-win-the-montana-book-award
-title: "‘Talky Poems’ Win the Montana Book Award"
-date: 2009-07-24
-source-url: https://www.scoop.co.nz/stories/CU0907/S00320/talky-poems-win-the-montana-book-award.htm
+title: ‘Talky Poems’ Win the Montana Book Award
+date: 2009-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00320/talky-poems-win-the-montana-book-award.htm
 author: victoria-university-press
+permalink: /archive/2009/07/24/talky-poems-win-the-montana-book-award/index.html
+layout: layout.njk
 ---
 ‘Talky Poems’ Win the Montana Book Award
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-mourning-death-of-nobel-laureate
-title: "Victoria mourning death of Nobel Laureate"
-date: 2007-02-08
-source-url: https://www.scoop.co.nz/stories/PO0702/S00090/victoria-mourning-death-of-nobel-laureate.htm
+title: Victoria mourning death of Nobel Laureate
+date: 2007-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0702/S00090/victoria-mourning-death-of-nobel-laureate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/08/victoria-mourning-death-of-nobel-laureate/index.html
+layout: layout.njk
 ---
 Victoria mourning death of Nobel Laureate
 =========================================

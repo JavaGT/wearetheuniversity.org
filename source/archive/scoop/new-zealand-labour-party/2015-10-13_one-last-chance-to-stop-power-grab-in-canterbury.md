@@ -1,9 +1,13 @@
 ---
 slug: one-last-chance-to-stop-power-grab-in-canterbury
-title: "One last chance to stop power grab in Canterbury"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/PA1510/S00181/one-last-chance-to-stop-power-grab-in-canterbury.htm
+title: One last chance to stop power grab in Canterbury
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00181/one-last-chance-to-stop-power-grab-in-canterbury.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/10/13/one-last-chance-to-stop-power-grab-in-canterbury/index.html
+layout: layout.njk
 ---
 One last chance to stop power grab in Canterbury
 ================================================

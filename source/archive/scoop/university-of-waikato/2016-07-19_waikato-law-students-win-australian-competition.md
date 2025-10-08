@@ -1,9 +1,12 @@
 ---
 slug: waikato-law-students-win-australian-competition
-title: "Waikato law students win Australian competition"
-date: 2016-07-19
-source-url: https://www.scoop.co.nz/stories/ED1607/S00074/waikato-law-students-win-australian-competition.htm
+title: Waikato law students win Australian competition
+date: 2016-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00074/waikato-law-students-win-australian-competition.htm
 author: university-of-waikato
+permalink: /archive/2016/07/19/waikato-law-students-win-australian-competition/index.html
+layout: layout.njk
 ---
 Waikato law students win Australian competition
 ===============================================

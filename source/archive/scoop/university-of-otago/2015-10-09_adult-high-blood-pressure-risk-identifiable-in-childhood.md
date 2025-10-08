@@ -1,9 +1,13 @@
 ---
 slug: adult-high-blood-pressure-risk-identifiable-in-childhood
-title: "Adult high blood pressure risk identifiable in childhood"
-date: 2015-10-09
-source-url: https://www.scoop.co.nz/stories/SC1510/S00023/adult-high-blood-pressure-risk-identifiable-in-childhood.htm
+title: Adult high blood pressure risk identifiable in childhood
+date: 2015-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00023/adult-high-blood-pressure-risk-identifiable-in-childhood.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/10/09/adult-high-blood-pressure-risk-identifiable-in-childhood/index.html
+layout: layout.njk
 ---
 Adult high blood pressure risk identifiable in childhood
 ========================================================

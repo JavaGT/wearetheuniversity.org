@@ -1,9 +1,13 @@
 ---
 slug: law-change-needed-to-strip-citizenship-from-violent-offenders
-title: "Law Change Needed To Strip Citizenship From Violent Offenders"
-date: 2021-09-04
-source-url: https://www.scoop.co.nz/stories/PA2109/S00032/law-change-needed-to-strip-citizenship-from-violent-offenders.htm
+title: Law Change Needed To Strip Citizenship From Violent Offenders
+date: 2021-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00032/law-change-needed-to-strip-citizenship-from-violent-offenders.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/04/law-change-needed-to-strip-citizenship-from-violent-offenders/index.html
+layout: layout.njk
 ---
 Law Change Needed To Strip Citizenship From Violent Offenders
 =============================================================

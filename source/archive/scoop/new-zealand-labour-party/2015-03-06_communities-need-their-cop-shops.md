@@ -1,9 +1,12 @@
 ---
 slug: communities-need-their-cop-shops
-title: "Communities need their cop shops"
-date: 2015-03-06
-source-url: https://www.scoop.co.nz/stories/PA1503/S00074/communities-need-their-cop-shops.htm
+title: Communities need their cop shops
+date: 2015-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00074/communities-need-their-cop-shops.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/06/communities-need-their-cop-shops/index.html
+layout: layout.njk
 ---
 Communities need their cop shops
 ================================

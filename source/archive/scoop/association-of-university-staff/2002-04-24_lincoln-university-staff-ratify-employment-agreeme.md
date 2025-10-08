@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-staff-ratify-employment-agreeme
-title: "Lincoln University staff ratify employment agreeme"
-date: 2002-04-24
-source-url: https://www.scoop.co.nz/stories/ED0204/S00037/lincoln-university-staff-ratify-employment-agreeme.htm
+title: Lincoln University staff ratify employment agreeme
+date: 2002-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00037/lincoln-university-staff-ratify-employment-agreeme.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2002/04/24/lincoln-university-staff-ratify-employment-agreeme/index.html
+layout: layout.njk
 ---
 Lincoln University staff ratify employment agreeme
 ==================================================

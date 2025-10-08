@@ -1,9 +1,12 @@
 ---
 slug: green-mp-to-launch-dunedin-buy-local-campaign
-title: "Green MP to launch Dunedin 'Buy Local' campaign"
-date: 2004-04-16
-source-url: https://www.scoop.co.nz/stories/PA0404/S00258/green-mp-to-launch-dunedin-buy-local-campaign.htm
+title: Green MP to launch Dunedin 'Buy Local' campaign
+date: 2004-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00258/green-mp-to-launch-dunedin-buy-local-campaign.htm
 author: green-party
+permalink: /archive/2004/04/16/green-mp-to-launch-dunedin-buy-local-campaign/index.html
+layout: layout.njk
 ---
 Green MP to launch Dunedin 'Buy Local' campaign
 ===============================================

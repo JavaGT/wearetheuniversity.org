@@ -1,9 +1,12 @@
 ---
 slug: youth-smokers-fired-up-to-quit
-title: "Youth smokers fired up to quit"
-date: 2015-03-24
-source-url: https://www.scoop.co.nz/stories/GE1503/S00099/youth-smokers-fired-up-to-quit.htm
+title: Youth smokers fired up to quit
+date: 2015-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1503/S00099/youth-smokers-fired-up-to-quit.htm
 author: massey-university
+permalink: /archive/2015/03/24/youth-smokers-fired-up-to-quit/index.html
+layout: layout.njk
 ---
 Youth smokers fired up to quit
 ==============================

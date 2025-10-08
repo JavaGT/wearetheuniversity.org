@@ -1,9 +1,12 @@
 ---
 slug: nzusa-on-marketing-like-tango-lessons-from-pope
-title: "NZUSA On Marketing Like Tango Lessons From Pope"
-date: 2004-03-01
-source-url: https://www.scoop.co.nz/stories/ED0403/S00007/nzusa-on-marketing-like-tango-lessons-from-pope.htm
+title: NZUSA On Marketing Like Tango Lessons From Pope
+date: 2004-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00007/nzusa-on-marketing-like-tango-lessons-from-pope.htm
 author: student-choice
+permalink: /archive/2004/03/01/nzusa-on-marketing-like-tango-lessons-from-pope/index.html
+layout: layout.njk
 ---
 NZUSA On Marketing Like Tango Lessons From Pope
 ===============================================

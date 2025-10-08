@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-achieve-more-olympic-success
-title: "New Zealand achieve more Olympic success"
-date: 2005-08-16
-source-url: https://www.scoop.co.nz/stories/ED0508/S00076/new-zealand-achieve-more-olympic-success.htm
+title: New Zealand achieve more Olympic success
+date: 2005-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00076/new-zealand-achieve-more-olympic-success.htm
 author: auckland-university
+permalink: /archive/2005/08/16/new-zealand-achieve-more-olympic-success/index.html
+layout: layout.njk
 ---
 New Zealand achieve more Olympic success
 ========================================

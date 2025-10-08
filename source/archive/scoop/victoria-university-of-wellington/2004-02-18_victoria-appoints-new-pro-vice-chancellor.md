@@ -1,9 +1,12 @@
 ---
 slug: victoria-appoints-new-pro-vice-chancellor
-title: "Victoria appoints new Pro Vice-Chancellor"
-date: 2004-02-18
-source-url: https://www.scoop.co.nz/stories/ED0402/S00041/victoria-appoints-new-pro-vice-chancellor.htm
+title: Victoria appoints new Pro Vice-Chancellor
+date: 2004-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00041/victoria-appoints-new-pro-vice-chancellor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/02/18/victoria-appoints-new-pro-vice-chancellor/index.html
+layout: layout.njk
 ---
 Victoria appoints new Pro Vice-Chancellor
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: national-asks-for-intervention-over-lake-rotoiti
-title: "National Asks For Intervention Over Lake Rotoiti"
-date: 2003-07-21
-source-url: https://www.scoop.co.nz/stories/PA0307/S00352/national-asks-for-intervention-over-lake-rotoiti.htm
+title: National Asks For Intervention Over Lake Rotoiti
+date: 2003-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00352/national-asks-for-intervention-over-lake-rotoiti.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/07/21/national-asks-for-intervention-over-lake-rotoiti/index.html
+layout: layout.njk
 ---
 National Asks For Intervention Over Lake Rotoiti
 ================================================

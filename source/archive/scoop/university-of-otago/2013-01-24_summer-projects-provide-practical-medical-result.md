@@ -1,9 +1,13 @@
 ---
 slug: summer-projects-provide-practical-medical-result
-title: "Summer projects provide practical medical result"
-date: 2013-01-24
-source-url: https://www.scoop.co.nz/stories/ED1301/S00070/summer-projects-provide-practical-medical-result.htm
+title: Summer projects provide practical medical result
+date: 2013-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00070/summer-projects-provide-practical-medical-result.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/01/24/summer-projects-provide-practical-medical-result/index.html
+layout: layout.njk
 ---
 Summer projects provide practical medical result
 ================================================

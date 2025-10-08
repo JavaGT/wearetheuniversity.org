@@ -1,9 +1,13 @@
 ---
 slug: brownlee-has-changed-his-story-on-dunne-at-least-twice
-title: "Brownlee has changed his story on Dunne at least twice"
-date: 2011-03-28
-source-url: https://www.scoop.co.nz/stories/PA1103/S00453/brownlee-has-changed-his-story-on-dunne-at-least-twice.htm
+title: Brownlee has changed his story on Dunne at least twice
+date: 2011-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00453/brownlee-has-changed-his-story-on-dunne-at-least-twice.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/03/28/brownlee-has-changed-his-story-on-dunne-at-least-twice/index.html
+layout: layout.njk
 ---
 Brownlee has changed his story on Dunne at least twice
 ======================================================

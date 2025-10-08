@@ -1,9 +1,13 @@
 ---
 slug: world-teachers-day-celebrations-begin-in-aotearoa
-title: "World Teachers’ Day celebrations begin in Aotearoa"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/ED1310/S00031/world-teachers-day-celebrations-begin-in-aotearoa.htm
+title: World Teachers’ Day celebrations begin in Aotearoa
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00031/world-teachers-day-celebrations-begin-in-aotearoa.htm
 author: nzei
+permalink: >-
+  /archive/2013/10/03/world-teachers-day-celebrations-begin-in-aotearoa/index.html
+layout: layout.njk
 ---
 World Teachers’ Day celebrations begin in Aotearoa
 ==================================================

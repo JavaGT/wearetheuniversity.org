@@ -1,9 +1,13 @@
 ---
 slug: national-league-tables-damaging-and-unfair-for-our-children
-title: "National league tables damaging and unfair for our children"
-date: 2012-06-19
-source-url: https://www.scoop.co.nz/stories/PA1206/S00257/national-league-tables-damaging-and-unfair-for-our-children.htm
+title: National league tables damaging and unfair for our children
+date: 2012-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00257/national-league-tables-damaging-and-unfair-for-our-children.htm
 author: nzei
+permalink: >-
+  /archive/2012/06/19/national-league-tables-damaging-and-unfair-for-our-children/index.html
+layout: layout.njk
 ---
 National league tables damaging and unfair for our children
 ===========================================================

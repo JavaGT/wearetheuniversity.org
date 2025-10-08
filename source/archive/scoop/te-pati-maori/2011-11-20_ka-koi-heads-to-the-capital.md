@@ -1,9 +1,11 @@
 ---
 slug: ka-koi-heads-to-the-capital
-title: "'Ka Koi' heads to the capital"
-date: 2011-11-20
+title: '''Ka Koi'' heads to the capital'
+date: 2011-11-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1111/S00532/ka-koi-heads-to-the-capital.htm
 author: te-pati-maori
+permalink: /archive/2011/11/20/ka-koi-heads-to-the-capital/index.html
+layout: layout.njk
 ---
 'Ka Koi' heads to the capital
 =============================

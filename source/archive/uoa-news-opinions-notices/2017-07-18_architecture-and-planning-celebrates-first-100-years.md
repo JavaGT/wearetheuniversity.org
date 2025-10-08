@@ -1,8 +1,12 @@
 ---
 slug: architecture-and-planning-celebrates-first-100-years
-title: "Architecture and Planning celebrates first 100 years"
-date: 2017-07-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/architecture-and-planning-celebrates-first-100-years.html
+title: Architecture and Planning celebrates first 100 years
+date: 2017-07-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/architecture-and-planning-celebrates-first-100-years.html
+permalink: >-
+  /archive/2017/07/18/architecture-and-planning-celebrates-first-100-years/index.html
+layout: layout.njk
 ---
 Architecture and Planning celebrates first 100 years
 ====================================================

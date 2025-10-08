@@ -1,9 +1,11 @@
 ---
 slug: divide-rule-whitewash
-title: "Divide – Rule - Whitewash"
-date: 2001-09-11
+title: Divide – Rule - Whitewash
+date: 2001-09-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0109/S00141/divide-rule-whitewash.htm
 author: new-zealand-first-party
+permalink: /archive/2001/09/11/divide-rule-whitewash/index.html
+layout: layout.njk
 ---
 Divide – Rule - Whitewash
 =========================

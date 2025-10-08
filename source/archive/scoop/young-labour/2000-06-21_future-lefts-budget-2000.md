@@ -1,9 +1,11 @@
 ---
 slug: future-lefts-`budget-2000
-title: "Future Lefts - `Budget 2000'"
-date: 2000-06-21
+title: Future Lefts - `Budget 2000'
+date: 2000-06-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0006/S00080/future-lefts-budget-2000.htm
 author: young-labour
+permalink: /archive/2000/06/21/future-lefts-/index.html
+layout: layout.njk
 ---
 Future Lefts - \`Budget 2000'
 =============================

@@ -1,9 +1,13 @@
 ---
 slug: more-than-15000-frail-elderly-new-zealanders-are-lonely
-title: "More than 15,000 frail elderly New Zealanders are lonely"
-date: 2017-12-13
-source-url: https://www.scoop.co.nz/stories/GE1712/S00048/more-than-15000-frail-elderly-new-zealanders-are-lonely.htm
+title: More than 15,000 frail elderly New Zealanders are lonely
+date: 2017-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1712/S00048/more-than-15000-frail-elderly-new-zealanders-are-lonely.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/12/13/more-than-15000-frail-elderly-new-zealanders-are-lonely/index.html
+layout: layout.njk
 ---
 More than 15,000 frail elderly New Zealanders are lonely
 ========================================================

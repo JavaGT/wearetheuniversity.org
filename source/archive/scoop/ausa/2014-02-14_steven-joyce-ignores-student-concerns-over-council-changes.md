@@ -1,9 +1,13 @@
 ---
 slug: steven-joyce-ignores-student-concerns-over-council-changes
-title: "Steven Joyce ignores student concerns over council changes"
-date: 2014-02-14
-source-url: https://www.scoop.co.nz/stories/PO1402/S00158/steven-joyce-ignores-student-concerns-over-council-changes.htm
+title: Steven Joyce ignores student concerns over council changes
+date: 2014-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1402/S00158/steven-joyce-ignores-student-concerns-over-council-changes.htm
 author: ausa
+permalink: >-
+  /archive/2014/02/14/steven-joyce-ignores-student-concerns-over-council-changes/index.html
+layout: layout.njk
 ---
 Steven Joyce ignores student concerns over council changes
 ==========================================================

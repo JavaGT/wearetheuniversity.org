@@ -1,9 +1,13 @@
 ---
 slug: usp-holds-successful-high-level-consultations-with-aus-nz
-title: "USP holds successful High Level Consultations with Aus/NZ"
-date: 2018-12-04
-source-url: https://www.scoop.co.nz/stories/WO1812/S00020/usp-holds-successful-high-level-consultations-with-ausnz.htm
+title: USP holds successful High Level Consultations with Aus/NZ
+date: 2018-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1812/S00020/usp-holds-successful-high-level-consultations-with-ausnz.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2018/12/04/usp-holds-successful-high-level-consultations-with-aus-nz/index.html
+layout: layout.njk
 ---
 USP holds successful High Level Consultations with Aus/NZ
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: one-step-away-from-umpiring-international-netball
-title: "One step away from umpiring international netball"
-date: 2011-10-28
-source-url: https://www.scoop.co.nz/stories/ED1110/S00136/one-step-away-from-umpiring-international-netball.htm
+title: One step away from umpiring international netball
+date: 2011-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00136/one-step-away-from-umpiring-international-netball.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/10/28/one-step-away-from-umpiring-international-netball/index.html
+layout: layout.njk
 ---
 One step away from umpiring international netball
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: arrest-sends-chilling-message
-title: "Arrest Sends Chilling Message"
-date: 2016-01-22
-source-url: https://www.scoop.co.nz/stories/PO1601/S00130/arrest-sends-chilling-message.htm
+title: Arrest Sends Chilling Message
+date: 2016-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1601/S00130/arrest-sends-chilling-message.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2016/01/22/arrest-sends-chilling-message/index.html
+layout: layout.njk
 ---
 Arrest Sends Chilling Message
 =============================

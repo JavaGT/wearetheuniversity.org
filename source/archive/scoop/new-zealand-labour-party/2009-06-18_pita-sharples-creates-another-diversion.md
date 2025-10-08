@@ -1,9 +1,12 @@
 ---
 slug: pita-sharples-creates-another-diversion
-title: "Pita Sharples creates another diversion"
-date: 2009-06-18
-source-url: https://www.scoop.co.nz/stories/PA0906/S00250/pita-sharples-creates-another-diversion.htm
+title: Pita Sharples creates another diversion
+date: 2009-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00250/pita-sharples-creates-another-diversion.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/18/pita-sharples-creates-another-diversion/index.html
+layout: layout.njk
 ---
 Pita Sharples creates another diversion
 =======================================

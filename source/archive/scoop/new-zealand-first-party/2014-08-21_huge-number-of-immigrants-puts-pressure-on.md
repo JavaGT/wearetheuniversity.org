@@ -1,9 +1,12 @@
 ---
 slug: huge-number-of-immigrants-puts-pressure-on
-title: "Huge Number of Immigrants Puts Pressure on"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/PA1408/S00328/huge-number-of-immigrants-puts-pressure-on.htm
+title: Huge Number of Immigrants Puts Pressure on
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00328/huge-number-of-immigrants-puts-pressure-on.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/21/huge-number-of-immigrants-puts-pressure-on/index.html
+layout: layout.njk
 ---
 Huge Number of Immigrants Puts Pressure on
 ==========================================

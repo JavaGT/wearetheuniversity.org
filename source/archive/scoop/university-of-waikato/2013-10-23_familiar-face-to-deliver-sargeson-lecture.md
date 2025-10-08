@@ -1,9 +1,12 @@
 ---
 slug: familiar-face-to-deliver-sargeson-lecture
-title: "Familiar face to deliver Sargeson lecture"
-date: 2013-10-23
-source-url: https://www.scoop.co.nz/stories/ED1310/S00149/familiar-face-to-deliver-sargeson-lecture.htm
+title: Familiar face to deliver Sargeson lecture
+date: 2013-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00149/familiar-face-to-deliver-sargeson-lecture.htm
 author: university-of-waikato
+permalink: /archive/2013/10/23/familiar-face-to-deliver-sargeson-lecture/index.html
+layout: layout.njk
 ---
 Familiar face to deliver Sargeson lecture
 =========================================

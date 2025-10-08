@@ -1,9 +1,13 @@
 ---
 slug: study-finds-need-for-education-about-online-privacy
-title: "Study finds need for education about online privacy"
-date: 2015-02-17
-source-url: https://www.scoop.co.nz/stories/ED1502/S00062/study-finds-need-for-education-about-online-privacy.htm
+title: Study finds need for education about online privacy
+date: 2015-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00062/study-finds-need-for-education-about-online-privacy.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/02/17/study-finds-need-for-education-about-online-privacy/index.html
+layout: layout.njk
 ---
 Study finds need for education about online privacy
 ===================================================

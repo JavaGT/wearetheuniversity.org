@@ -1,9 +1,12 @@
 ---
 slug: vic-fee-increases-just-the-beginning
-title: "Vic fee increases just the beginning"
-date: 2005-10-04
-source-url: https://www.scoop.co.nz/stories/PA0510/S00012/vic-fee-increases-just-the-beginning.htm
+title: Vic fee increases just the beginning
+date: 2005-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00012/vic-fee-increases-just-the-beginning.htm
 author: new-zealand-national-party
+permalink: /archive/2005/10/04/vic-fee-increases-just-the-beginning/index.html
+layout: layout.njk
 ---
 Vic fee increases just the beginning
 ====================================

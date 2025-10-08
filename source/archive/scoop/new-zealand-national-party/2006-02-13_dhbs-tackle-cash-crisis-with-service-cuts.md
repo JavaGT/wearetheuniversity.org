@@ -1,9 +1,12 @@
 ---
 slug: dhbs-tackle-cash-crisis-with-service-cuts
-title: "DHBs tackle cash crisis with service cuts"
-date: 2006-02-13
-source-url: https://www.scoop.co.nz/stories/PA0602/S00160/dhbs-tackle-cash-crisis-with-service-cuts.htm
+title: DHBs tackle cash crisis with service cuts
+date: 2006-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00160/dhbs-tackle-cash-crisis-with-service-cuts.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/13/dhbs-tackle-cash-crisis-with-service-cuts/index.html
+layout: layout.njk
 ---
 DHBs tackle cash crisis with service cuts
 =========================================

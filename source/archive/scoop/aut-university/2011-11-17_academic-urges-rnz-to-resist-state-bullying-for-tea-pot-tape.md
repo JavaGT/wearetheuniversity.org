@@ -1,9 +1,13 @@
 ---
 slug: academic-urges-rnz-to-resist-state-bullying-for-tea-pot-tape
-title: "Academic urges RNZ to resist state bullying for tea pot tape"
-date: 2011-11-17
-source-url: https://www.scoop.co.nz/stories/ED1111/S00119/academic-urges-rnz-to-resist-state-bullying-for-tea-pot-tape.htm
+title: Academic urges RNZ to resist state bullying for tea pot tape
+date: 2011-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00119/academic-urges-rnz-to-resist-state-bullying-for-tea-pot-tape.htm
 author: aut-university
+permalink: >-
+  /archive/2011/11/17/academic-urges-rnz-to-resist-state-bullying-for-tea-pot-tape/index.html
+layout: layout.njk
 ---
 Academic urges RNZ to resist state bullying for tea pot tape
 ============================================================

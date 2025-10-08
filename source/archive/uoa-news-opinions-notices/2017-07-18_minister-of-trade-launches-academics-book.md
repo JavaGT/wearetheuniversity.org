@@ -1,8 +1,11 @@
 ---
 slug: minister-of-trade-launches-academics-book
-title: "Minister of Trade launches academic's book"
-date: 2017-07-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/minister-of-trade-launches-academic-s-book.html
+title: Minister of Trade launches academic's book
+date: 2017-07-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/minister-of-trade-launches-academic-s-book.html
+permalink: /archive/2017/07/18/minister-of-trade-launches-academics-book/index.html
+layout: layout.njk
 ---
 Minister of Trade launches academic's book
 ==========================================

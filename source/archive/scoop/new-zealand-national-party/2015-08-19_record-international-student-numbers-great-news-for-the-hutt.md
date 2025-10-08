@@ -1,9 +1,13 @@
 ---
 slug: record-international-student-numbers-great-news-for-the-hutt
-title: "Record international student numbers great news for the Hutt"
-date: 2015-08-19
-source-url: https://www.scoop.co.nz/stories/PA1508/S00322/record-international-student-numbers-great-news-for-the-hutt.htm
+title: Record international student numbers great news for the Hutt
+date: 2015-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00322/record-international-student-numbers-great-news-for-the-hutt.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/08/19/record-international-student-numbers-great-news-for-the-hutt/index.html
+layout: layout.njk
 ---
 Record international student numbers great news for the Hutt
 ============================================================

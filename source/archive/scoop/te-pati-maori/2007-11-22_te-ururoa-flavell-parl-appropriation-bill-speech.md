@@ -1,9 +1,13 @@
 ---
 slug: te-ururoa-flavell-parl-appropriation-bill-speech
-title: "Te Ururoa Flavell Parl. Appropriation Bill Speech"
-date: 2007-11-22
-source-url: https://www.scoop.co.nz/stories/PA0711/S00426/te-ururoa-flavell-parl-appropriation-bill-speech.htm
+title: Te Ururoa Flavell Parl. Appropriation Bill Speech
+date: 2007-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00426/te-ururoa-flavell-parl-appropriation-bill-speech.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/11/22/te-ururoa-flavell-parl-appropriation-bill-speech/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell Parl. Appropriation Bill Speech
 =================================================

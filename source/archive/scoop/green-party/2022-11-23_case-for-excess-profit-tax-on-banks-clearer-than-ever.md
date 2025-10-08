@@ -1,9 +1,13 @@
 ---
 slug: case-for-excess-profit-tax-on-banks-clearer-than-ever
-title: "Case For Excess Profit Tax On Banks Clearer Than Ever"
-date: 2022-11-23
-source-url: https://www.scoop.co.nz/stories/PA2211/S00204/case-for-excess-profit-tax-on-banks-clearer-than-ever.htm
+title: Case For Excess Profit Tax On Banks Clearer Than Ever
+date: 2022-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00204/case-for-excess-profit-tax-on-banks-clearer-than-ever.htm
 author: green-party
+permalink: >-
+  /archive/2022/11/23/case-for-excess-profit-tax-on-banks-clearer-than-ever/index.html
+layout: layout.njk
 ---
 Case For Excess Profit Tax On Banks Clearer Than Ever 
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: call-for-community-to-lead-employment-debate
-title: "Call for community to lead employment debate"
-date: 2012-05-14
-source-url: https://www.scoop.co.nz/stories/PA1205/S00224/call-for-community-to-lead-employment-debate.htm
+title: Call for community to lead employment debate
+date: 2012-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00224/call-for-community-to-lead-employment-debate.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/14/call-for-community-to-lead-employment-debate/index.html
+layout: layout.njk
 ---
 Call for community to lead employment debate
 ============================================

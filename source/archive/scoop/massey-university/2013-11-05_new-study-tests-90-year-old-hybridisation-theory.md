@@ -1,9 +1,13 @@
 ---
 slug: new-study-tests-90-year-old-hybridisation-theory
-title: "New study tests 90-year old hybridisation theory"
-date: 2013-11-05
-source-url: https://www.scoop.co.nz/stories/SC1311/S00012/new-study-tests-90-year-old-hybridisation-theory.htm
+title: New study tests 90-year old hybridisation theory
+date: 2013-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00012/new-study-tests-90-year-old-hybridisation-theory.htm
 author: massey-university
+permalink: >-
+  /archive/2013/11/05/new-study-tests-90-year-old-hybridisation-theory/index.html
+layout: layout.njk
 ---
 New study tests 90-year old hybridisation theory
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-assisted-reproductive-technology
-title: "Speech: Flavell - Assisted Reproductive Technology"
-date: 2009-12-09
-source-url: https://www.scoop.co.nz/stories/PA0912/S00128/speech-flavell-assisted-reproductive-technology.htm
+title: 'Speech: Flavell - Assisted Reproductive Technology'
+date: 2009-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00128/speech-flavell-assisted-reproductive-technology.htm
 author: te-pati-maori
+permalink: /archive/2009/12/09/speech-flavell-assisted-reproductive-technology/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Assisted Reproductive Technology
 ==================================================

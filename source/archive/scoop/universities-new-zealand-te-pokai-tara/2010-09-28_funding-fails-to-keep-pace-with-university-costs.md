@@ -1,9 +1,13 @@
 ---
 slug: funding-fails-to-keep-pace-with-university-costs
-title: "Funding fails to keep pace with university costs"
-date: 2010-09-28
-source-url: https://www.scoop.co.nz/stories/ED1009/S00132/funding-fails-to-keep-pace-with-university-costs.htm
+title: Funding fails to keep pace with university costs
+date: 2010-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00132/funding-fails-to-keep-pace-with-university-costs.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2010/09/28/funding-fails-to-keep-pace-with-university-costs/index.html
+layout: layout.njk
 ---
 Funding fails to keep pace with university costs
 ================================================

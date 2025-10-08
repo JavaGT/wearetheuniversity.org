@@ -1,9 +1,12 @@
 ---
 slug: historian-denounces-museum-exhibition
-title: "Historian denounces museum exhibition"
-date: 2009-12-10
-source-url: https://www.scoop.co.nz/stories/AK0912/S00146/historian-denounces-museum-exhibition.htm
+title: Historian denounces museum exhibition
+date: 2009-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0912/S00146/historian-denounces-museum-exhibition.htm
 author: aut-university
+permalink: /archive/2009/12/10/historian-denounces-museum-exhibition/index.html
+layout: layout.njk
 ---
 Historian denounces museum exhibition
 =====================================

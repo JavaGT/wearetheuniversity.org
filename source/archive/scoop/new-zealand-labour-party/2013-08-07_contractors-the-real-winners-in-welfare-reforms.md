@@ -1,9 +1,12 @@
 ---
 slug: contractors-the-real-winners-in-welfare-reforms
-title: "Contractors the real winners in welfare reforms"
-date: 2013-08-07
-source-url: https://www.scoop.co.nz/stories/PA1308/S00120/contractors-the-real-winners-in-welfare-reforms.htm
+title: Contractors the real winners in welfare reforms
+date: 2013-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00120/contractors-the-real-winners-in-welfare-reforms.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/07/contractors-the-real-winners-in-welfare-reforms/index.html
+layout: layout.njk
 ---
 Contractors the real winners in welfare reforms
 ===============================================

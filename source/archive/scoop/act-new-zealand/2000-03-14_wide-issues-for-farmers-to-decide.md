@@ -1,9 +1,12 @@
 ---
 slug: wide-issues-for-farmers-to-decide
-title: "Wide issues for farmers to decide"
-date: 2000-03-14
-source-url: https://www.scoop.co.nz/stories/PA0003/S00195/wide-issues-for-farmers-to-decide.htm
+title: Wide issues for farmers to decide
+date: 2000-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00195/wide-issues-for-farmers-to-decide.htm
 author: act-new-zealand
+permalink: /archive/2000/03/14/wide-issues-for-farmers-to-decide/index.html
+layout: layout.njk
 ---
 Wide issues for farmers to decide
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: otago-students-referendum-on-love-equality
-title: "Otago Students’ Referendum on Love Equality"
-date: 2012-08-29
-source-url: https://www.scoop.co.nz/stories/ED1208/S00159/otago-students-referendum-on-love-equality.htm
+title: Otago Students’ Referendum on Love Equality
+date: 2012-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00159/otago-students-referendum-on-love-equality.htm
 author: otago-university-students-association
+permalink: /archive/2012/08/29/otago-students-referendum-on-love-equality/index.html
+layout: layout.njk
 ---
 Otago Students’ Referendum on Love Equality
 ===========================================

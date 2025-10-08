@@ -1,9 +1,12 @@
 ---
 slug: now-is-not-the-time-to-bottle-the-wine-industry
-title: "Now is Not the Time to Bottle the Wine Industry"
-date: 2015-01-19
-source-url: https://www.scoop.co.nz/stories/PA1501/S00064/now-is-not-the-time-to-bottle-the-wine-industry.htm
+title: Now is Not the Time to Bottle the Wine Industry
+date: 2015-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00064/now-is-not-the-time-to-bottle-the-wine-industry.htm
 author: new-zealand-first-party
+permalink: /archive/2015/01/19/now-is-not-the-time-to-bottle-the-wine-industry/index.html
+layout: layout.njk
 ---
 Now is Not the Time to Bottle the Wine Industry
 ===============================================

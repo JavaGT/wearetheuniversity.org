@@ -1,9 +1,12 @@
 ---
 slug: kobe-plugs-views-of-kiwi-sport-psychologist
-title: "Kobe plugs views of kiwi sport psychologist"
-date: 2012-07-27
-source-url: https://www.scoop.co.nz/stories/ED1207/S00107/kobe-plugs-views-of-kiwi-sport-psychologist.htm
+title: Kobe plugs views of kiwi sport psychologist
+date: 2012-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00107/kobe-plugs-views-of-kiwi-sport-psychologist.htm
 author: massey-university
+permalink: /archive/2012/07/27/kobe-plugs-views-of-kiwi-sport-psychologist/index.html
+layout: layout.njk
 ---
 Kobe plugs views of kiwi sport psychologist
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: benefits-in-the-centre-for-earthquake-research
-title: "Benefits in the centre for earthquake research"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/SC1505/S00029/benefits-in-the-centre-for-earthquake-research.htm
+title: Benefits in the centre for earthquake research
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00029/benefits-in-the-centre-for-earthquake-research.htm
 author: university-of-canterbury
+permalink: /archive/2015/05/11/benefits-in-the-centre-for-earthquake-research/index.html
+layout: layout.njk
 ---
 Benefits in the centre for earthquake research
 ==============================================

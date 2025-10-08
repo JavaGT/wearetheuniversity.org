@@ -1,9 +1,12 @@
 ---
 slug: police-corruption-claims-must-be-investigated
-title: "Police Corruption Claims Must Be Investigated"
-date: 2002-01-28
-source-url: https://www.scoop.co.nz/stories/PA0201/S00190/police-corruption-claims-must-be-investigated.htm
+title: Police Corruption Claims Must Be Investigated
+date: 2002-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00190/police-corruption-claims-must-be-investigated.htm
 author: act-new-zealand
+permalink: /archive/2002/01/28/police-corruption-claims-must-be-investigated/index.html
+layout: layout.njk
 ---
 Police Corruption Claims Must Be Investigated
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: nzru-employs-brain-power-to-minimise-injuries
-title: "NZRU employs brain-power to minimise injuries"
-date: 2005-03-03
-source-url: https://www.scoop.co.nz/stories/ED0503/S00010/nzru-employs-brain-power-to-minimise-injuries.htm
+title: NZRU employs brain-power to minimise injuries
+date: 2005-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00010/nzru-employs-brain-power-to-minimise-injuries.htm
 author: aut-university
+permalink: /archive/2005/03/03/nzru-employs-brain-power-to-minimise-injuries/index.html
+layout: layout.njk
 ---
 NZRU employs brain-power to minimise injuries
 =============================================

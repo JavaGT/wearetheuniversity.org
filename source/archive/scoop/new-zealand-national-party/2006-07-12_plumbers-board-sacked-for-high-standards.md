@@ -1,9 +1,12 @@
 ---
 slug: plumbers-board-sacked-for-high-standards
-title: "Plumbers board sacked for high standards"
-date: 2006-07-12
-source-url: https://www.scoop.co.nz/stories/PA0607/S00160/plumbers-board-sacked-for-high-standards.htm
+title: Plumbers board sacked for high standards
+date: 2006-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00160/plumbers-board-sacked-for-high-standards.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/12/plumbers-board-sacked-for-high-standards/index.html
+layout: layout.njk
 ---
 Plumbers board sacked for high standards
 ========================================

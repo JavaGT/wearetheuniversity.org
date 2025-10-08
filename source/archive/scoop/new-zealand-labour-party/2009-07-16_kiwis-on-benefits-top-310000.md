@@ -1,9 +1,11 @@
 ---
 slug: kiwis-on-benefits-top-310000
-title: "Kiwis on benefits top 310,000"
-date: 2009-07-16
+title: Kiwis on benefits top 310,000
+date: 2009-07-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0907/S00185/kiwis-on-benefits-top-310000.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/16/kiwis-on-benefits-top-310000/index.html
+layout: layout.njk
 ---
 Kiwis on benefits top 310,000
 =============================

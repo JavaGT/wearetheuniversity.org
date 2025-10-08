@@ -1,9 +1,12 @@
 ---
 slug: schools-significant-ongoing-financial-hardship
-title: "Schools - significant, ongoing financial hardship"
-date: 2006-02-08
-source-url: https://www.scoop.co.nz/stories/PA0602/S00080/schools-significant-ongoing-financial-hardship.htm
+title: Schools - significant, ongoing financial hardship
+date: 2006-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00080/schools-significant-ongoing-financial-hardship.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/08/schools-significant-ongoing-financial-hardship/index.html
+layout: layout.njk
 ---
 Schools - significant, ongoing financial hardship
 =================================================

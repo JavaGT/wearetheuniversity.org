@@ -1,9 +1,12 @@
 ---
 slug: govt-needs-to-clean-up-slum-boarding-houses
-title: "Govt needs to clean up slum boarding houses"
-date: 2015-02-12
-source-url: https://www.scoop.co.nz/stories/PA1502/S00138/govt-needs-to-clean-up-slum-boarding-houses.htm
+title: Govt needs to clean up slum boarding houses
+date: 2015-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00138/govt-needs-to-clean-up-slum-boarding-houses.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/02/12/govt-needs-to-clean-up-slum-boarding-houses/index.html
+layout: layout.njk
 ---
 Govt needs to clean up slum boarding houses
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: what-is-the-minister-trying-to-hide
-title: "What is the Minister Trying to Hide?"
-date: 2011-04-19
-source-url: https://www.scoop.co.nz/stories/PO1104/S00250/what-is-the-minister-trying-to-hide.htm
+title: What is the Minister Trying to Hide?
+date: 2011-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00250/what-is-the-minister-trying-to-hide.htm
 author: nzei
+permalink: /archive/2011/04/19/what-is-the-minister-trying-to-hide/index.html
+layout: layout.njk
 ---
 What is the Minister Trying to Hide?
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-produces-top-research-despite-earthquake-challenges
-title: "UC produces top research despite earthquake challenges"
-date: 2019-04-30
-source-url: https://www.scoop.co.nz/stories/ED1904/S00056/uc-produces-top-research-despite-earthquake-challenges.htm
+title: UC produces top research despite earthquake challenges
+date: 2019-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1904/S00056/uc-produces-top-research-despite-earthquake-challenges.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/04/30/uc-produces-top-research-despite-earthquake-challenges/index.html
+layout: layout.njk
 ---
 UC produces top research despite earthquake challenges
 ======================================================

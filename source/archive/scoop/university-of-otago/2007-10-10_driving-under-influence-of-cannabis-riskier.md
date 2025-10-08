@@ -1,9 +1,12 @@
 ---
 slug: driving-under-influence-of-cannabis-riskier
-title: "Driving under influence of cannabis riskier"
-date: 2007-10-10
-source-url: https://www.scoop.co.nz/stories/PO0710/S00120/driving-under-influence-of-cannabis-riskier.htm
+title: Driving under influence of cannabis riskier
+date: 2007-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0710/S00120/driving-under-influence-of-cannabis-riskier.htm
 author: university-of-otago
+permalink: /archive/2007/10/10/driving-under-influence-of-cannabis-riskier/index.html
+layout: layout.njk
 ---
 Driving under influence of cannabis riskier
 ===========================================

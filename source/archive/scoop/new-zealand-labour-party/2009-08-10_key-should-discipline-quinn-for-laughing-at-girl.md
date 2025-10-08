@@ -1,9 +1,13 @@
 ---
 slug: key-should-discipline-quinn-for-laughing-at-girl
-title: "Key should discipline Quinn for laughing at girl"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/PA0908/S00126/key-should-discipline-quinn-for-laughing-at-girl.htm
+title: Key should discipline Quinn for laughing at girl
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00126/key-should-discipline-quinn-for-laughing-at-girl.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/08/10/key-should-discipline-quinn-for-laughing-at-girl/index.html
+layout: layout.njk
 ---
 Key should discipline Quinn for laughing at girl
 ================================================

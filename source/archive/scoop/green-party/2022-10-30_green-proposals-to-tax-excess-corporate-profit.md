@@ -1,9 +1,12 @@
 ---
 slug: green-proposals-to-tax-excess-corporate-profit
-title: "Green Proposals To Tax Excess Corporate Profit"
-date: 2022-10-30
-source-url: https://www.scoop.co.nz/stories/PO2210/S00178/green-proposals-to-tax-excess-corporate-profit.htm
+title: Green Proposals To Tax Excess Corporate Profit
+date: 2022-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2210/S00178/green-proposals-to-tax-excess-corporate-profit.htm
 author: green-party
+permalink: /archive/2022/10/30/green-proposals-to-tax-excess-corporate-profit/index.html
+layout: layout.njk
 ---
 Green Proposals To Tax Excess Corporate Profit
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-waitangi-as-it-was-and-should-be
-title: "Speech: Peters - Waitangi as it was and should be"
-date: 2017-02-03
-source-url: https://www.scoop.co.nz/stories/PA1702/S00065/speech-peters-waitangi-as-it-was-and-should-be.htm
+title: 'Speech: Peters - Waitangi as it was and should be'
+date: 2017-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00065/speech-peters-waitangi-as-it-was-and-should-be.htm
 author: new-zealand-first-party
+permalink: /archive/2017/02/03/speech-peters-waitangi-as-it-was-and-should-be/index.html
+layout: layout.njk
 ---
 Speech: Peters - Waitangi as it was and should be
 =================================================

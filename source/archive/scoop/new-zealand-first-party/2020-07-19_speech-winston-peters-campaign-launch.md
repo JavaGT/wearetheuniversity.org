@@ -1,9 +1,12 @@
 ---
 slug: speech-winston-peters-campaign-launch
-title: "Speech: Winston Peters Campaign Launch"
-date: 2020-07-19
-source-url: https://www.scoop.co.nz/stories/PA2007/S00172/speech-winston-peters-campaign-launch.htm
+title: 'Speech: Winston Peters Campaign Launch'
+date: 2020-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00172/speech-winston-peters-campaign-launch.htm
 author: new-zealand-first-party
+permalink: /archive/2020/07/19/speech-winston-peters-campaign-launch/index.html
+layout: layout.njk
 ---
 Speech: Winston Peters Campaign Launch
 ======================================

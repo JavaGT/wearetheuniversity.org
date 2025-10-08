@@ -1,9 +1,13 @@
 ---
 slug: shaw-to-have-14-staff-in-glasgow-for-climate-talks
-title: "Shaw To Have 14 Staff In Glasgow For Climate Talks"
-date: 2021-09-20
-source-url: https://www.scoop.co.nz/stories/PA2109/S00171/shaw-to-have-14-staff-in-glasgow-for-climate-talks.htm
+title: Shaw To Have 14 Staff In Glasgow For Climate Talks
+date: 2021-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00171/shaw-to-have-14-staff-in-glasgow-for-climate-talks.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/20/shaw-to-have-14-staff-in-glasgow-for-climate-talks/index.html
+layout: layout.njk
 ---
 Shaw To Have 14 Staff In Glasgow For Climate Talks
 ==================================================

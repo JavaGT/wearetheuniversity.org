@@ -1,9 +1,11 @@
 ---
 slug: match-making-on-mana-island
-title: "Match-making on Mana Island"
-date: 2008-07-09
+title: Match-making on Mana Island
+date: 2008-07-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0807/S00016/match-making-on-mana-island.htm
 author: massey-university
+permalink: /archive/2008/07/09/match-making-on-mana-island/index.html
+layout: layout.njk
 ---
 Match-making on Mana Island
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: council-changes-more-bad-news-for-students
-title: "Council changes more bad news for students"
-date: 2012-05-05
-source-url: https://www.scoop.co.nz/stories/PA1205/S00097/council-changes-more-bad-news-for-students.htm
+title: Council changes more bad news for students
+date: 2012-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00097/council-changes-more-bad-news-for-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/05/council-changes-more-bad-news-for-students/index.html
+layout: layout.njk
 ---
 Council changes more bad news for students
 ==========================================

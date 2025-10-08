@@ -1,9 +1,12 @@
 ---
 slug: lop-deforestation-tax-says-national
-title: "Lop deforestation tax, says National"
-date: 2007-02-23
-source-url: https://www.scoop.co.nz/stories/PA0702/S00444/lop-deforestation-tax-says-national.htm
+title: Lop deforestation tax, says National
+date: 2007-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00444/lop-deforestation-tax-says-national.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/23/lop-deforestation-tax-says-national/index.html
+layout: layout.njk
 ---
 Lop deforestation tax, says National
 ====================================

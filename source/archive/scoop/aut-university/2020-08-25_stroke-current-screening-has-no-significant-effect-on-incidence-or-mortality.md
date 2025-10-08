@@ -1,9 +1,13 @@
 ---
 slug: stroke-current-screening-has-no-significant-effect-on-incidence-or-mortality
-title: "Stroke: Current Screening Has No Significant Effect On Incidence Or Mortality"
-date: 2020-08-25
-source-url: https://www.scoop.co.nz/stories/GE2008/S00144/stroke-current-screening-has-no-significant-effect-on-incidence-or-mortality.htm
+title: 'Stroke: Current Screening Has No Significant Effect On Incidence Or Mortality'
+date: 2020-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2008/S00144/stroke-current-screening-has-no-significant-effect-on-incidence-or-mortality.htm
 author: aut-university
+permalink: >-
+  /archive/2020/08/25/stroke-current-screening-has-no-significant-effect-on-incidence-or-mortality/index.html
+layout: layout.njk
 ---
 Stroke: Current Screening Has No Significant Effect On Incidence Or Mortality
 =============================================================================

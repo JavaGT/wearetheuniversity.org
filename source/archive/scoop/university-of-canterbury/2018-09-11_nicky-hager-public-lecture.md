@@ -1,9 +1,11 @@
 ---
 slug: nicky-hager-public-lecture
-title: "Nicky Hager public lecture"
-date: 2018-09-11
+title: Nicky Hager public lecture
+date: 2018-09-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1809/S00110/nicky-hager-public-lecture.htm
 author: university-of-canterbury
+permalink: /archive/2018/09/11/nicky-hager-public-lecture/index.html
+layout: layout.njk
 ---
 Nicky Hager public lecture
 ==========================

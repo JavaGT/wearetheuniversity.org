@@ -1,9 +1,13 @@
 ---
 slug: scientist-on-international-coastal-sustainability-panel
-title: "Scientist on international coastal sustainability panel"
-date: 2012-07-04
-source-url: https://www.scoop.co.nz/stories/SC1207/S00006/scientist-on-international-coastal-sustainability-panel.htm
+title: Scientist on international coastal sustainability panel
+date: 2012-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1207/S00006/scientist-on-international-coastal-sustainability-panel.htm
 author: massey-university
+permalink: >-
+  /archive/2012/07/04/scientist-on-international-coastal-sustainability-panel/index.html
+layout: layout.njk
 ---
 Scientist on international coastal sustainability panel
 =======================================================

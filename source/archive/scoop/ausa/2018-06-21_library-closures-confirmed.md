@@ -1,9 +1,11 @@
 ---
 slug: library-closures-confirmed
-title: "Library Closures Confirmed"
-date: 2018-06-21
+title: Library Closures Confirmed
+date: 2018-06-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1806/S00519/library-closures-confirmed.htm
 author: ausa
+permalink: /archive/2018/06/21/library-closures-confirmed/index.html
+layout: layout.njk
 ---
 Library Closures Confirmed
 ==========================

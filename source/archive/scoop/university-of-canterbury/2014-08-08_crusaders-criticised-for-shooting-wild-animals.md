@@ -1,9 +1,12 @@
 ---
 slug: crusaders-criticised-for-shooting-wild-animals
-title: "Crusaders criticised for shooting wild animals"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/ED1408/S00041/crusaders-criticised-for-shooting-wild-animals.htm
+title: Crusaders criticised for shooting wild animals
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00041/crusaders-criticised-for-shooting-wild-animals.htm
 author: university-of-canterbury
+permalink: /archive/2014/08/08/crusaders-criticised-for-shooting-wild-animals/index.html
+layout: layout.njk
 ---
 Crusaders criticised for shooting wild animals
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: clayton-cosgrove-maiden-speech
-title: "Clayton Cosgrove Maiden Speech"
-date: 2000-02-15
-source-url: https://www.scoop.co.nz/stories/PA0002/S00190/clayton-cosgrove-maiden-speech.htm
+title: Clayton Cosgrove Maiden Speech
+date: 2000-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00190/clayton-cosgrove-maiden-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/02/15/clayton-cosgrove-maiden-speech/index.html
+layout: layout.njk
 ---
 Clayton Cosgrove Maiden Speech
 ==============================

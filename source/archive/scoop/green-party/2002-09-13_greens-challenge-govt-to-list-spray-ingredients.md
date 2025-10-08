@@ -1,9 +1,12 @@
 ---
 slug: greens-challenge-govt-to-list-spray-ingredients
-title: "Greens Challenge Govt To List Spray Ingredients"
-date: 2002-09-13
-source-url: https://www.scoop.co.nz/stories/PA0209/S00227/greens-challenge-govt-to-list-spray-ingredients.htm
+title: Greens Challenge Govt To List Spray Ingredients
+date: 2002-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00227/greens-challenge-govt-to-list-spray-ingredients.htm
 author: green-party
+permalink: /archive/2002/09/13/greens-challenge-govt-to-list-spray-ingredients/index.html
+layout: layout.njk
 ---
 Greens Challenge Govt To List Spray Ingredients
 ===============================================

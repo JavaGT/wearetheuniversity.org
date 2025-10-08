@@ -1,9 +1,12 @@
 ---
 slug: maths-experts-question-key-ecological-theory
-title: "Maths experts question key ecological theory"
-date: 2012-06-21
-source-url: https://www.scoop.co.nz/stories/SC1206/S00044/maths-experts-question-key-ecological-theory.htm
+title: Maths experts question key ecological theory
+date: 2012-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1206/S00044/maths-experts-question-key-ecological-theory.htm
 author: university-of-canterbury
+permalink: /archive/2012/06/21/maths-experts-question-key-ecological-theory/index.html
+layout: layout.njk
 ---
 Maths experts question key ecological theory
 ============================================

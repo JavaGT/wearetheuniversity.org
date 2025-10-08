@@ -1,9 +1,12 @@
 ---
 slug: we-need-our-can-do-attitude-back
-title: "\"We Need Our ‘Can-Do’ Attitude Back\""
-date: 2023-08-06
-source-url: https://www.scoop.co.nz/stories/PO2308/S00059/we-need-our-can-do-attitude-back.htm
+title: '"We Need Our ‘Can-Do’ Attitude Back"'
+date: 2023-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00059/we-need-our-can-do-attitude-back.htm
 author: new-zealand-first-party
+permalink: /archive/2023/08/06/we-need-our-can-do-attitude-back/index.html
+layout: layout.njk
 ---
 “We Need Our ‘Can-Do’ Attitude Back”
 ====================================

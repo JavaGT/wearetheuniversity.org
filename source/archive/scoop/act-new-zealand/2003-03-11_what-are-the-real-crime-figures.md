@@ -1,9 +1,12 @@
 ---
 slug: what-are-the-real-crime-figures
-title: "What Are The Real Crime Figures?"
-date: 2003-03-11
-source-url: https://www.scoop.co.nz/stories/PA0303/S00178/what-are-the-real-crime-figures.htm
+title: What Are The Real Crime Figures?
+date: 2003-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00178/what-are-the-real-crime-figures.htm
 author: act-new-zealand
+permalink: /archive/2003/03/11/what-are-the-real-crime-figures/index.html
+layout: layout.njk
 ---
 What Are The Real Crime Figures?
 ================================

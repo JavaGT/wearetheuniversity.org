@@ -1,9 +1,13 @@
 ---
 slug: stop-piddling-down-our-backs-and-telling-us-its-raining
-title: "Stop piddling down our backs and telling us it’s raining"
-date: 2014-07-03
-source-url: https://www.scoop.co.nz/stories/PA1407/S00080/stop-piddling-down-our-backs-and-telling-us-its-raining.htm
+title: Stop piddling down our backs and telling us it’s raining
+date: 2014-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00080/stop-piddling-down-our-backs-and-telling-us-its-raining.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/07/03/stop-piddling-down-our-backs-and-telling-us-its-raining/index.html
+layout: layout.njk
 ---
 Stop piddling down our backs and telling us it’s raining
 ========================================================

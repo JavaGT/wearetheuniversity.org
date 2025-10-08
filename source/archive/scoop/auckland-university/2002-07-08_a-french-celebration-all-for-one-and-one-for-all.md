@@ -1,9 +1,13 @@
 ---
 slug: a-french-celebration-all-for-one-and-one-for-all
-title: "A French Celebration: All For One And One For All"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/ED0207/S00011/a-french-celebration-all-for-one-and-one-for-all.htm
+title: 'A French Celebration: All For One And One For All'
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00011/a-french-celebration-all-for-one-and-one-for-all.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/07/08/a-french-celebration-all-for-one-and-one-for-all/index.html
+layout: layout.njk
 ---
 A French Celebration: All For One And One For All
 =================================================

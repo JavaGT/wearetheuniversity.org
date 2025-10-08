@@ -1,9 +1,12 @@
 ---
 slug: johnny-enzed-the-truth-of-war-in-soldiers-words
-title: "Johnny Enzed – the truth of war in soldiers’ words"
-date: 2015-08-02
-source-url: https://www.scoop.co.nz/stories/CU1508/S00006/johnny-enzed-the-truth-of-war-in-soldiers-words.htm
+title: Johnny Enzed – the truth of war in soldiers’ words
+date: 2015-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00006/johnny-enzed-the-truth-of-war-in-soldiers-words.htm
 author: massey-university
+permalink: /archive/2015/08/02/johnny-enzed-the-truth-of-war-in-soldiers-words/index.html
+layout: layout.njk
 ---
 Johnny Enzed – the truth of war in soldiers’ words
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwis-get-richer-students-get-poorer
-title: "Kiwis get richer, students get poorer"
-date: 2003-07-22
-source-url: https://www.scoop.co.nz/stories/ED0307/S00053/kiwis-get-richer-students-get-poorer.htm
+title: Kiwis get richer, students get poorer
+date: 2003-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00053/kiwis-get-richer-students-get-poorer.htm
 author: lincoln-university-students-association
+permalink: /archive/2003/07/22/kiwis-get-richer-students-get-poorer/index.html
+layout: layout.njk
 ---
 Kiwis get richer, students get poorer
 =====================================

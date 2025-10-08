@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-sensational-titles-are-bad
-title: "Future Lefts - Sensational titles are bad"
-date: 2000-04-05
-source-url: https://www.scoop.co.nz/stories/PO0004/S00015/future-lefts-sensational-titles-are-bad.htm
+title: Future Lefts - Sensational titles are bad
+date: 2000-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0004/S00015/future-lefts-sensational-titles-are-bad.htm
 author: young-labour
+permalink: /archive/2000/04/05/future-lefts-sensational-titles-are-bad/index.html
+layout: layout.njk
 ---
 Future Lefts - Sensational titles are bad
 =========================================

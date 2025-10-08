@@ -1,9 +1,12 @@
 ---
 slug: earthquake-affected-students-need-a-fair-go
-title: "Earthquake affected students need a fair go"
-date: 2016-11-16
-source-url: https://www.scoop.co.nz/stories/PA1611/S00285/earthquake-affected-students-need-a-fair-go.htm
+title: Earthquake affected students need a fair go
+date: 2016-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00285/earthquake-affected-students-need-a-fair-go.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/16/earthquake-affected-students-need-a-fair-go/index.html
+layout: layout.njk
 ---
 Earthquake affected students need a fair go
 ===========================================

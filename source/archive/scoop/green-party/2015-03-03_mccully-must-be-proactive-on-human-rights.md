@@ -1,9 +1,12 @@
 ---
 slug: mccully-must-be-proactive-on-human-rights
-title: "McCully must be proactive on human rights"
-date: 2015-03-03
-source-url: https://www.scoop.co.nz/stories/PA1503/S00016/mccully-must-be-proactive-on-human-rights.htm
+title: McCully must be proactive on human rights
+date: 2015-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00016/mccully-must-be-proactive-on-human-rights.htm
 author: green-party
+permalink: /archive/2015/03/03/mccully-must-be-proactive-on-human-rights/index.html
+layout: layout.njk
 ---
 McCully must be proactive on human rights
 =========================================

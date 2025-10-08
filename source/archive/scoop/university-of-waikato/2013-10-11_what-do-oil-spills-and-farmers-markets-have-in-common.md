@@ -1,9 +1,13 @@
 ---
 slug: what-do-oil-spills-and-farmers-markets-have-in-common
-title: "What do oil spills and farmers’ markets have in common?"
-date: 2013-10-11
-source-url: https://www.scoop.co.nz/stories/ED1310/S00089/what-do-oil-spills-and-farmers-markets-have-in-common.htm
+title: What do oil spills and farmers’ markets have in common?
+date: 2013-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00089/what-do-oil-spills-and-farmers-markets-have-in-common.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/10/11/what-do-oil-spills-and-farmers-markets-have-in-common/index.html
+layout: layout.njk
 ---
 What do oil spills and farmers’ markets have in common?
 =======================================================

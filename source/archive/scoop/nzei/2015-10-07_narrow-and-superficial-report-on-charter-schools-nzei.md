@@ -1,9 +1,13 @@
 ---
 slug: narrow-and-superficial-report-on-charter-schools-nzei
-title: "Narrow and superficial report on charter schools - NZEI"
-date: 2015-10-07
-source-url: https://www.scoop.co.nz/stories/ED1510/S00035/narrow-and-superficial-report-on-charter-schools-nzei.htm
+title: Narrow and superficial report on charter schools - NZEI
+date: 2015-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00035/narrow-and-superficial-report-on-charter-schools-nzei.htm
 author: nzei
+permalink: >-
+  /archive/2015/10/07/narrow-and-superficial-report-on-charter-schools-nzei/index.html
+layout: layout.njk
 ---
 Narrow and superficial report on charter schools - NZEI
 =======================================================

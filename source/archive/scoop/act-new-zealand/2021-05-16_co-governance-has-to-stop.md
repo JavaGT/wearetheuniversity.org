@@ -1,9 +1,11 @@
 ---
 slug: co-governance-has-to-stop
-title: "Co-governance Has To Stop"
-date: 2021-05-16
+title: Co-governance Has To Stop
+date: 2021-05-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2105/S00138/co-governance-has-to-stop.htm
 author: act-new-zealand
+permalink: /archive/2021/05/16/co-governance-has-to-stop/index.html
+layout: layout.njk
 ---
 Co-governance Has To Stop
 =========================

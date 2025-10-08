@@ -1,9 +1,13 @@
 ---
 slug: post-primary-teachers-vote-confirms-swift-correction-needed
-title: "Post-primary teachers vote confirms swift correction needed"
-date: 2018-10-02
-source-url: https://www.scoop.co.nz/stories/ED1810/S00007/post-primary-teachers-vote-confirms-swift-correction-needed.htm
+title: Post-primary teachers vote confirms swift correction needed
+date: 2018-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1810/S00007/post-primary-teachers-vote-confirms-swift-correction-needed.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2018/10/02/post-primary-teachers-vote-confirms-swift-correction-needed/index.html
+layout: layout.njk
 ---
 Post-primary teachers vote confirms swift correction needed
 ===========================================================

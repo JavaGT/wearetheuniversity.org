@@ -1,9 +1,12 @@
 ---
 slug: questions-over-spending-on-prison-consultants
-title: "Questions Over Spending On Prison Consultants"
-date: 2002-05-15
-source-url: https://www.scoop.co.nz/stories/PA0205/S00291/questions-over-spending-on-prison-consultants.htm
+title: Questions Over Spending On Prison Consultants
+date: 2002-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00291/questions-over-spending-on-prison-consultants.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/15/questions-over-spending-on-prison-consultants/index.html
+layout: layout.njk
 ---
 Questions Over Spending On Prison Consultants
 =============================================

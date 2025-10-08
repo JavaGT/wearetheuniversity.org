@@ -1,9 +1,12 @@
 ---
 slug: sharples-the-challenges-facing-new-zealand
-title: "Sharples: The Challenges facing New Zealand"
-date: 2006-10-26
-source-url: https://www.scoop.co.nz/stories/PA0610/S00489/sharples-the-challenges-facing-new-zealand.htm
+title: 'Sharples: The Challenges facing New Zealand'
+date: 2006-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00489/sharples-the-challenges-facing-new-zealand.htm
 author: te-pati-maori
+permalink: /archive/2006/10/26/sharples-the-challenges-facing-new-zealand/index.html
+layout: layout.njk
 ---
 Sharples: The Challenges facing New Zealand
 ===========================================

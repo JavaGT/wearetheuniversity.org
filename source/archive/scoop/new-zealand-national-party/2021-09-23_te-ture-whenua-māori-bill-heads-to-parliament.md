@@ -1,9 +1,12 @@
 ---
 slug: te-ture-whenua-māori-bill-heads-to-parliament
-title: "Te Ture Whenua Māori Bill heads to Parliament"
-date: 2021-09-23
-source-url: https://www.scoop.co.nz/stories/PA2109/S00205/te-ture-whenua-maori-bill-heads-to-parliament.htm
+title: Te Ture Whenua Māori Bill heads to Parliament
+date: 2021-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00205/te-ture-whenua-maori-bill-heads-to-parliament.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/23/te-ture-whenua-m/index.html
+layout: layout.njk
 ---
 Te Ture Whenua Māori Bill heads to Parliament
 =============================================

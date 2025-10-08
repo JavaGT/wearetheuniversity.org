@@ -1,9 +1,13 @@
 ---
 slug: uc-expert-says-15-on-14-is-a-blight-on-the-game-of-rugby
-title: "UC expert says 15 on 14 is a blight on the game of rugby"
-date: 2013-09-17
-source-url: https://www.scoop.co.nz/stories/CU1309/S00307/uc-expert-says-15-on-14-is-a-blight-on-the-game-of-rugby.htm
+title: UC expert says 15 on 14 is a blight on the game of rugby
+date: 2013-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1309/S00307/uc-expert-says-15-on-14-is-a-blight-on-the-game-of-rugby.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/17/uc-expert-says-15-on-14-is-a-blight-on-the-game-of-rugby/index.html
+layout: layout.njk
 ---
 UC expert says 15 on 14 is a blight on the game of rugby
 ========================================================

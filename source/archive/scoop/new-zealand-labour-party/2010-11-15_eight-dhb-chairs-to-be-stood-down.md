@@ -1,9 +1,12 @@
 ---
 slug: eight-dhb-chairs-to-be-stood-down
-title: "Eight DHB chairs to be stood down"
-date: 2010-11-15
-source-url: https://www.scoop.co.nz/stories/PA1011/S00278/eight-dhb-chairs-to-be-stood-down.htm
+title: Eight DHB chairs to be stood down
+date: 2010-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00278/eight-dhb-chairs-to-be-stood-down.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/15/eight-dhb-chairs-to-be-stood-down/index.html
+layout: layout.njk
 ---
 Eight DHB chairs to be stood down
 =================================

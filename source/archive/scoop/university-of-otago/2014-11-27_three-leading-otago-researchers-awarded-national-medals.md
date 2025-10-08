@@ -1,9 +1,13 @@
 ---
 slug: three-leading-otago-researchers-awarded-national-medals
-title: "Three leading Otago researchers awarded national medals"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/ED1411/S00171/three-leading-otago-researchers-awarded-national-medals.htm
+title: Three leading Otago researchers awarded national medals
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00171/three-leading-otago-researchers-awarded-national-medals.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/27/three-leading-otago-researchers-awarded-national-medals/index.html
+layout: layout.njk
 ---
 Three leading Otago researchers awarded national medals
 =======================================================

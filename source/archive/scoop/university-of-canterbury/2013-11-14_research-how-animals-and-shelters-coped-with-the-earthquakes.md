@@ -1,9 +1,13 @@
 ---
 slug: research-how-animals-and-shelters-coped-with-the-earthquakes
-title: "Research how animals and shelters coped with the earthquakes"
-date: 2013-11-14
-source-url: https://www.scoop.co.nz/stories/AK1311/S00405/research-how-animals-and-shelters-coped-with-the-earthquakes.htm
+title: Research how animals and shelters coped with the earthquakes
+date: 2013-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00405/research-how-animals-and-shelters-coped-with-the-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/14/research-how-animals-and-shelters-coped-with-the-earthquakes/index.html
+layout: layout.njk
 ---
 Research how animals and shelters coped with the earthquakes
 ============================================================

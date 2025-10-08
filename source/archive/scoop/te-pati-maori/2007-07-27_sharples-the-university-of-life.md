@@ -1,9 +1,12 @@
 ---
 slug: sharples-the-university-of-life
-title: "Sharples: The University of Life"
-date: 2007-07-27
-source-url: https://www.scoop.co.nz/stories/PA0707/S00483/sharples-the-university-of-life.htm
+title: 'Sharples: The University of Life'
+date: 2007-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00483/sharples-the-university-of-life.htm
 author: te-pati-maori
+permalink: /archive/2007/07/27/sharples-the-university-of-life/index.html
+layout: layout.njk
 ---
 Sharples: The University of Life
 ================================

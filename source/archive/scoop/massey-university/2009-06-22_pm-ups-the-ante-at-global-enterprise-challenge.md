@@ -1,9 +1,12 @@
 ---
 slug: pm-ups-the-ante-at-global-enterprise-challenge
-title: "PM ups the ante at Global Enterprise Challenge"
-date: 2009-06-22
-source-url: https://www.scoop.co.nz/stories/ED0906/S00061/pm-ups-the-ante-at-global-enterprise-challenge.htm
+title: PM ups the ante at Global Enterprise Challenge
+date: 2009-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00061/pm-ups-the-ante-at-global-enterprise-challenge.htm
 author: massey-university
+permalink: /archive/2009/06/22/pm-ups-the-ante-at-global-enterprise-challenge/index.html
+layout: layout.njk
 ---
 PM ups the ante at Global Enterprise Challenge
 ==============================================

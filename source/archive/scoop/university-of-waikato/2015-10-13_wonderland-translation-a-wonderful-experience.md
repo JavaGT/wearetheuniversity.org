@@ -1,9 +1,12 @@
 ---
 slug: wonderland-translation-a-wonderful-experience
-title: "Wonderland translation a wonderful experience"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/ED1510/S00066/wonderland-translation-a-wonderful-experience.htm
+title: Wonderland translation a wonderful experience
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00066/wonderland-translation-a-wonderful-experience.htm
 author: university-of-waikato
+permalink: /archive/2015/10/13/wonderland-translation-a-wonderful-experience/index.html
+layout: layout.njk
 ---
 Wonderland translation a wonderful experience
 =============================================

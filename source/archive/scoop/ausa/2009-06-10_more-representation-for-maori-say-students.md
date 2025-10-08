@@ -1,9 +1,12 @@
 ---
 slug: more-representation-for-maori-say-students
-title: "More representation for Maori say students"
-date: 2009-06-10
-source-url: https://www.scoop.co.nz/stories/PO0906/S00108/more-representation-for-maori-say-students.htm
+title: More representation for Maori say students
+date: 2009-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00108/more-representation-for-maori-say-students.htm
 author: ausa
+permalink: /archive/2009/06/10/more-representation-for-maori-say-students/index.html
+layout: layout.njk
 ---
 More representation for Maori say students
 ==========================================

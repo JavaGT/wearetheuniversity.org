@@ -1,9 +1,12 @@
 ---
 slug: uni-celebrates-100-years-of-maori-achievement
-title: "Uni Celebrates 100 years of Maori Achievement"
-date: 2004-08-12
-source-url: https://www.scoop.co.nz/stories/ED0408/S00055/uni-celebrates-100-years-of-maori-achievement.htm
+title: Uni Celebrates 100 years of Maori Achievement
+date: 2004-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00055/uni-celebrates-100-years-of-maori-achievement.htm
 author: university-of-otago
+permalink: /archive/2004/08/12/uni-celebrates-100-years-of-maori-achievement/index.html
+layout: layout.njk
 ---
 Uni Celebrates 100 years of Maori Achievement
 =============================================

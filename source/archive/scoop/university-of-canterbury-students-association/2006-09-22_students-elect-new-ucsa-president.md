@@ -1,9 +1,12 @@
 ---
 slug: students-elect-new-ucsa-president
-title: "Students Elect New UCSA President"
-date: 2006-09-22
-source-url: https://www.scoop.co.nz/stories/ED0609/S00088/students-elect-new-ucsa-president.htm
+title: Students Elect New UCSA President
+date: 2006-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00088/students-elect-new-ucsa-president.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2006/09/22/students-elect-new-ucsa-president/index.html
+layout: layout.njk
 ---
 Students Elect New UCSA President
 =================================

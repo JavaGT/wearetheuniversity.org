@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-must-stand-with-free-democratic-nations
-title: "New Zealand Must Stand With Free, Democratic Nations"
-date: 2020-08-06
-source-url: https://www.scoop.co.nz/stories/PA2008/S00069/new-zealand-must-stand-with-free-democratic-nations.htm
+title: New Zealand Must Stand With Free, Democratic Nations
+date: 2020-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00069/new-zealand-must-stand-with-free-democratic-nations.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/08/06/new-zealand-must-stand-with-free-democratic-nations/index.html
+layout: layout.njk
 ---
 New Zealand Must Stand With Free, Democratic Nations
 ====================================================

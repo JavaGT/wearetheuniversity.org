@@ -1,9 +1,12 @@
 ---
 slug: spare-a-thought-for-those-working-christmas-day
-title: "Spare a thought for those working Christmas Day"
-date: 2005-12-30
-source-url: https://www.scoop.co.nz/stories/BU0512/S00393/spare-a-thought-for-those-working-christmas-day.htm
+title: Spare a thought for those working Christmas Day
+date: 2005-12-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0512/S00393/spare-a-thought-for-those-working-christmas-day.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/12/30/spare-a-thought-for-those-working-christmas-day/index.html
+layout: layout.njk
 ---
 Spare a thought for those working Christmas Day
 ===============================================

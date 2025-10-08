@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-is-having-to-mix-bovril-with-vegemite
-title: "UC researcher is having to mix Bovril with Vegemite"
-date: 2012-10-14
-source-url: https://www.scoop.co.nz/stories/ED1210/S00081/uc-researcher-is-having-to-mix-bovril-with-vegemite.htm
+title: UC researcher is having to mix Bovril with Vegemite
+date: 2012-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00081/uc-researcher-is-having-to-mix-bovril-with-vegemite.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/14/uc-researcher-is-having-to-mix-bovril-with-vegemite/index.html
+layout: layout.njk
 ---
 UC researcher is having to mix Bovril with Vegemite
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: co-governance-is-not-democracy
-title: "‘Co-governance Is Not Democracy’"
-date: 2022-08-21
-source-url: https://www.scoop.co.nz/stories/PA2208/S00183/co-governance-is-not-democracy.htm
+title: ‘Co-governance Is Not Democracy’
+date: 2022-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00183/co-governance-is-not-democracy.htm
 author: new-zealand-first-party
+permalink: /archive/2022/08/21/co-governance-is-not-democracy/index.html
+layout: layout.njk
 ---
 ‘Co-governance Is Not Democracy’
 ================================

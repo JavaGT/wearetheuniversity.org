@@ -1,9 +1,12 @@
 ---
 slug: turia-petition-to-parliament-parihaka-day
-title: "Turia - Petition to Parliament: Parihaka Day"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/PA1105/S00221/turia-petition-to-parliament-parihaka-day.htm
+title: 'Turia - Petition to Parliament: Parihaka Day'
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00221/turia-petition-to-parliament-parihaka-day.htm
 author: te-pati-maori
+permalink: /archive/2011/05/11/turia-petition-to-parliament-parihaka-day/index.html
+layout: layout.njk
 ---
 Turia - Petition to Parliament: Parihaka Day
 ============================================

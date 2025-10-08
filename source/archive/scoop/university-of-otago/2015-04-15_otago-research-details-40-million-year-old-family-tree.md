@@ -1,9 +1,13 @@
 ---
 slug: otago-research-details-40-million-year-old-family-tree
-title: "Otago research details 40 million-year-old family tree"
-date: 2015-04-15
-source-url: https://www.scoop.co.nz/stories/ED1504/S00040/otago-research-details-40-million-year-old-family-tree.htm
+title: Otago research details 40 million-year-old family tree
+date: 2015-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00040/otago-research-details-40-million-year-old-family-tree.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/04/15/otago-research-details-40-million-year-old-family-tree/index.html
+layout: layout.njk
 ---
 Otago research details 40 million-year-old family tree
 ======================================================

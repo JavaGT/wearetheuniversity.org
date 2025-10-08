@@ -1,9 +1,12 @@
 ---
 slug: lively-forum-on-university-education
-title: "Lively Forum on University Education"
-date: 2005-06-21
-source-url: https://www.scoop.co.nz/stories/ED0506/S00054/lively-forum-on-university-education.htm
+title: Lively Forum on University Education
+date: 2005-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00054/lively-forum-on-university-education.htm
 author: association-of-university-staff
+permalink: /archive/2005/06/21/lively-forum-on-university-education/index.html
+layout: layout.njk
 ---
 Lively Forum on University Education
 ====================================

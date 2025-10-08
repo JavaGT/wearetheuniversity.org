@@ -1,9 +1,13 @@
 ---
 slug: acts-common-sense-plan-for-protecting-environment
-title: "ACT's Common-sense Plan For Protecting Environment"
-date: 1999-11-09
-source-url: https://www.scoop.co.nz/stories/PA9911/S00209/acts-common-sense-plan-for-protecting-environment.htm
+title: ACT's Common-sense Plan For Protecting Environment
+date: 1999-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00209/acts-common-sense-plan-for-protecting-environment.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/11/09/acts-common-sense-plan-for-protecting-environment/index.html
+layout: layout.njk
 ---
 ACT's Common-sense Plan For Protecting Environment
 ==================================================

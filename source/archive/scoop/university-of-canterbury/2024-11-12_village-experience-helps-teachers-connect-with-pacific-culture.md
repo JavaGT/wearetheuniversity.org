@@ -1,9 +1,13 @@
 ---
 slug: village-experience-helps-teachers-connect-with-pacific-culture
-title: "Village Experience Helps Teachers Connect With Pacific Culture"
-date: 2024-11-12
-source-url: https://www.scoop.co.nz/stories/ED2411/S00026/village-experience-helps-teachers-connect-with-pacific-culture.htm
+title: Village Experience Helps Teachers Connect With Pacific Culture
+date: 2024-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00026/village-experience-helps-teachers-connect-with-pacific-culture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/11/12/village-experience-helps-teachers-connect-with-pacific-culture/index.html
+layout: layout.njk
 ---
 Village Experience Helps Teachers Connect With Pacific Culture
 ==============================================================

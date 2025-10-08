@@ -1,9 +1,12 @@
 ---
 slug: locke-lends-support-to-paul-buchanan
-title: "Locke lends support to Paul Buchanan"
-date: 2007-08-08
-source-url: https://www.scoop.co.nz/stories/PA0708/S00132/locke-lends-support-to-paul-buchanan.htm
+title: Locke lends support to Paul Buchanan
+date: 2007-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00132/locke-lends-support-to-paul-buchanan.htm
 author: green-party
+permalink: /archive/2007/08/08/locke-lends-support-to-paul-buchanan/index.html
+layout: layout.njk
 ---
 Locke lends support to Paul Buchanan
 ====================================

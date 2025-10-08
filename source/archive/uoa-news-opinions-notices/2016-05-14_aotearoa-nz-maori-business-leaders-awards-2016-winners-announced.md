@@ -1,8 +1,12 @@
 ---
 slug: aotearoa-nz-maori-business-leaders-awards-2016-winners-announced
-title: "Aotearoa NZ Maori Business Leaders Awards 2016 winners announced"
-date: 2016-05-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/aotearoa-nz-maori-business-leaders-awards-2016-winners-announced.html
+title: Aotearoa NZ Maori Business Leaders Awards 2016 winners announced
+date: 2016-05-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/aotearoa-nz-maori-business-leaders-awards-2016-winners-announced.html
+permalink: >-
+  /archive/2016/05/14/aotearoa-nz-maori-business-leaders-awards-2016-winners-announced/index.html
+layout: layout.njk
 ---
 Aotearoa NZ Maori Business Leaders Awards 2016 winners announced
 ================================================================

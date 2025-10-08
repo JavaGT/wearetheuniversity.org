@@ -1,9 +1,12 @@
 ---
 slug: majority-of-hiv-migrants-still-awol
-title: "Majority Of HIV Migrants Still Awol"
-date: 2007-06-11
-source-url: https://www.scoop.co.nz/stories/PA0706/S00183/majority-of-hiv-migrants-still-awol.htm
+title: Majority Of HIV Migrants Still Awol
+date: 2007-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00183/majority-of-hiv-migrants-still-awol.htm
 author: new-zealand-first-party
+permalink: /archive/2007/06/11/majority-of-hiv-migrants-still-awol/index.html
+layout: layout.njk
 ---
 Majority Of HIV Migrants Still Awol
 ===================================

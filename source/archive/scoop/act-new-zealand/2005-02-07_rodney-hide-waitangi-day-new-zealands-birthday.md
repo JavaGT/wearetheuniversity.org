@@ -1,9 +1,12 @@
 ---
 slug: rodney-hide-waitangi-day-new-zealands-birthday
-title: "Rodney Hide: Waitangi Day - New Zealand's Birthday"
-date: 2005-02-07
-source-url: https://www.scoop.co.nz/stories/PA0502/S00126/rodney-hide-waitangi-day-new-zealands-birthday.htm
+title: 'Rodney Hide: Waitangi Day - New Zealand''s Birthday'
+date: 2005-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00126/rodney-hide-waitangi-day-new-zealands-birthday.htm
 author: act-new-zealand
+permalink: /archive/2005/02/07/rodney-hide-waitangi-day-new-zealands-birthday/index.html
+layout: layout.njk
 ---
 Rodney Hide: Waitangi Day - New Zealand's Birthday
 ==================================================

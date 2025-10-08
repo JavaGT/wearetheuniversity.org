@@ -1,9 +1,12 @@
 ---
 slug: sex-changing-hormones-present-in-waikato-river
-title: "Sex Changing Hormones Present In Waikato River"
-date: 2002-04-03
-source-url: https://www.scoop.co.nz/stories/PA0204/S00035/sex-changing-hormones-present-in-waikato-river.htm
+title: Sex Changing Hormones Present In Waikato River
+date: 2002-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00035/sex-changing-hormones-present-in-waikato-river.htm
 author: green-party
+permalink: /archive/2002/04/03/sex-changing-hormones-present-in-waikato-river/index.html
+layout: layout.njk
 ---
 Sex Changing Hormones Present In Waikato River
 ==============================================

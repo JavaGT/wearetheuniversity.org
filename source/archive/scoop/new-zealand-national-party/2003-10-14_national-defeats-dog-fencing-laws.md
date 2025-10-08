@@ -1,9 +1,12 @@
 ---
 slug: national-defeats-dog-fencing-laws
-title: "National defeats dog fencing laws"
-date: 2003-10-14
-source-url: https://www.scoop.co.nz/stories/PA0310/S00296/national-defeats-dog-fencing-laws.htm
+title: National defeats dog fencing laws
+date: 2003-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00296/national-defeats-dog-fencing-laws.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/14/national-defeats-dog-fencing-laws/index.html
+layout: layout.njk
 ---
 National defeats dog fencing laws
 =================================

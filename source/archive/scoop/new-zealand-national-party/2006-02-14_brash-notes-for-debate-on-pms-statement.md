@@ -1,9 +1,12 @@
 ---
 slug: brash-notes-for-debate-on-pms-statement
-title: "Brash: Notes for debate on PM's statement"
-date: 2006-02-14
-source-url: https://www.scoop.co.nz/stories/PA0602/S00176/brash-notes-for-debate-on-pms-statement.htm
+title: 'Brash: Notes for debate on PM''s statement'
+date: 2006-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00176/brash-notes-for-debate-on-pms-statement.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/14/brash-notes-for-debate-on-pms-statement/index.html
+layout: layout.njk
 ---
 Brash: Notes for debate on PM's statement
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: sam-neill-to-open-refurbished-ngaio-marsh-theatre
-title: "Sam Neill To Open Refurbished Ngaio Marsh Theatre"
-date: 2002-04-15
-source-url: https://www.scoop.co.nz/stories/ED0204/S00022/sam-neill-to-open-refurbished-ngaio-marsh-theatre.htm
+title: Sam Neill To Open Refurbished Ngaio Marsh Theatre
+date: 2002-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00022/sam-neill-to-open-refurbished-ngaio-marsh-theatre.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2002/04/15/sam-neill-to-open-refurbished-ngaio-marsh-theatre/index.html
+layout: layout.njk
 ---
 Sam Neill To Open Refurbished Ngaio Marsh Theatre
 =================================================

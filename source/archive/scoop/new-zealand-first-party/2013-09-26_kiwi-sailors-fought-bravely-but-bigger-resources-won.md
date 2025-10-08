@@ -1,9 +1,13 @@
 ---
 slug: kiwi-sailors-fought-bravely-but-bigger-resources-won
-title: "Kiwi Sailors Fought Bravely But Bigger Resources Won"
-date: 2013-09-26
-source-url: https://www.scoop.co.nz/stories/PA1309/S00468/kiwi-sailors-fought-bravely-but-bigger-resources-won.htm
+title: Kiwi Sailors Fought Bravely But Bigger Resources Won
+date: 2013-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00468/kiwi-sailors-fought-bravely-but-bigger-resources-won.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/09/26/kiwi-sailors-fought-bravely-but-bigger-resources-won/index.html
+layout: layout.njk
 ---
 Kiwi Sailors Fought Bravely But Bigger Resources Won
 ====================================================

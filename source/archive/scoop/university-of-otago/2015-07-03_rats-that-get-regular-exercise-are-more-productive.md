@@ -1,9 +1,13 @@
 ---
 slug: rats-that-get-regular-exercise-are-more-productive
-title: "Rats that get regular exercise are more productive"
-date: 2015-07-03
-source-url: https://www.scoop.co.nz/stories/SC1507/S00011/rats-that-get-regular-exercise-are-more-productive.htm
+title: Rats that get regular exercise are more productive
+date: 2015-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00011/rats-that-get-regular-exercise-are-more-productive.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/07/03/rats-that-get-regular-exercise-are-more-productive/index.html
+layout: layout.njk
 ---
 Rats that get regular exercise are more productive
 ==================================================

@@ -1,9 +1,11 @@
 ---
 slug: ausm-orientation-festival-06
-title: "AuSM Orientation Festival 06"
-date: 2006-01-16
+title: AuSM Orientation Festival 06
+date: 2006-01-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0601/S00049/ausm-orientation-festival-06.htm
 author: aut-university
+permalink: /archive/2006/01/16/ausm-orientation-festival-06/index.html
+layout: layout.njk
 ---
 AuSM Orientation Festival 06
 ============================

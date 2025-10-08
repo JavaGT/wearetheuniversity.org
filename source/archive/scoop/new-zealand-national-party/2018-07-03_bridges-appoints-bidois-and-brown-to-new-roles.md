@@ -1,9 +1,12 @@
 ---
 slug: bridges-appoints-bidois-and-brown-to-new-roles
-title: "Bridges appoints Bidois and Brown to new roles"
-date: 2018-07-03
-source-url: https://www.scoop.co.nz/stories/PA1807/S00034/bridges-appoints-bidois-and-brown-to-new-roles.htm
+title: Bridges appoints Bidois and Brown to new roles
+date: 2018-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00034/bridges-appoints-bidois-and-brown-to-new-roles.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/03/bridges-appoints-bidois-and-brown-to-new-roles/index.html
+layout: layout.njk
 ---
 Bridges appoints Bidois and Brown to new roles
 ==============================================

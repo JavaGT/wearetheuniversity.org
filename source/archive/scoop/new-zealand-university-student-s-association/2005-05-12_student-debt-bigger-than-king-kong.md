@@ -1,9 +1,12 @@
 ---
 slug: student-debt-bigger-than-king-kong
-title: "Student debt: Bigger than King Kong"
-date: 2005-05-12
-source-url: https://www.scoop.co.nz/stories/ED0505/S00047/student-debt-bigger-than-king-kong.htm
+title: 'Student debt: Bigger than King Kong'
+date: 2005-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00047/student-debt-bigger-than-king-kong.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/05/12/student-debt-bigger-than-king-kong/index.html
+layout: layout.njk
 ---
 Student debt: Bigger than King Kong
 ===================================

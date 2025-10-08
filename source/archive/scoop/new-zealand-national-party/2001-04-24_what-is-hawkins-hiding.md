@@ -1,9 +1,11 @@
 ---
 slug: what-is-hawkins-hiding
-title: "What is Hawkins hiding?"
-date: 2001-04-24
+title: What is Hawkins hiding?
+date: 2001-04-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0104/S00354/what-is-hawkins-hiding.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/24/what-is-hawkins-hiding/index.html
+layout: layout.njk
 ---
 What is Hawkins hiding?
 =======================

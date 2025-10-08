@@ -1,9 +1,13 @@
 ---
 slug: university-celebrates-major-earthquake-milestones
-title: "University celebrates major earthquake milestones"
-date: 2016-04-12
-source-url: https://www.scoop.co.nz/stories/AK1604/S00210/university-celebrates-major-earthquake-milestones.htm
+title: University celebrates major earthquake milestones
+date: 2016-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1604/S00210/university-celebrates-major-earthquake-milestones.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/12/university-celebrates-major-earthquake-milestones/index.html
+layout: layout.njk
 ---
 University celebrates major earthquake milestones
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: teacher-shortage-reaches-crisis-point
-title: "Teacher Shortage Reaches Crisis Point"
-date: 2002-01-06
-source-url: https://www.scoop.co.nz/stories/PA0201/S00009/teacher-shortage-reaches-crisis-point.htm
+title: Teacher Shortage Reaches Crisis Point
+date: 2002-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00009/teacher-shortage-reaches-crisis-point.htm
 author: act-new-zealand
+permalink: /archive/2002/01/06/teacher-shortage-reaches-crisis-point/index.html
+layout: layout.njk
 ---
 Teacher Shortage Reaches Crisis Point
 =====================================

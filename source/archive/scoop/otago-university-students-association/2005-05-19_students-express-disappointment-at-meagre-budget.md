@@ -1,9 +1,13 @@
 ---
 slug: students-express-disappointment-at-meagre-budget
-title: "Students express disappointment at meagre budget"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/ED0505/S00085/students-express-disappointment-at-meagre-budget.htm
+title: Students express disappointment at meagre budget
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00085/students-express-disappointment-at-meagre-budget.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2005/05/19/students-express-disappointment-at-meagre-budget/index.html
+layout: layout.njk
 ---
 Students express disappointment at meagre budget
 ================================================

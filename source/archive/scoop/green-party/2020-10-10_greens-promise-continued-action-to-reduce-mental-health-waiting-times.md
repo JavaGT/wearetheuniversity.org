@@ -1,9 +1,13 @@
 ---
 slug: greens-promise-continued-action-to-reduce-mental-health-waiting-times
-title: "Greens Promise Continued Action To Reduce Mental Health Waiting Times"
-date: 2020-10-10
-source-url: https://www.scoop.co.nz/stories/PA2010/S00071/greens-promise-continued-action-to-reduce-mental-health-waiting-times.htm
+title: Greens Promise Continued Action To Reduce Mental Health Waiting Times
+date: 2020-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00071/greens-promise-continued-action-to-reduce-mental-health-waiting-times.htm
 author: green-party
+permalink: >-
+  /archive/2020/10/10/greens-promise-continued-action-to-reduce-mental-health-waiting-times/index.html
+layout: layout.njk
 ---
 Greens Promise Continued Action To Reduce Mental Health Waiting Times
 =====================================================================

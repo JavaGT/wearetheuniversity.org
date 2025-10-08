@@ -1,9 +1,12 @@
 ---
 slug: christchurch-researcher-easing-the-pain-of-gout
-title: "Christchurch researcher easing the pain of gout"
-date: 2018-02-16
-source-url: https://www.scoop.co.nz/stories/GE1802/S00053/christchurch-researcher-easing-the-pain-of-gout.htm
+title: Christchurch researcher easing the pain of gout
+date: 2018-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00053/christchurch-researcher-easing-the-pain-of-gout.htm
 author: university-of-otago
+permalink: /archive/2018/02/16/christchurch-researcher-easing-the-pain-of-gout/index.html
+layout: layout.njk
 ---
 Christchurch researcher easing the pain of gout
 ===============================================

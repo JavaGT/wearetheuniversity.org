@@ -1,9 +1,13 @@
 ---
 slug: school-attendance-nowhere-near-where-it-should-be
-title: "School Attendance Nowhere Near Where It Should Be"
-date: 2023-06-30
-source-url: https://www.scoop.co.nz/stories/PA2306/S00216/school-attendance-nowhere-near-where-it-should-be.htm
+title: School Attendance Nowhere Near Where It Should Be
+date: 2023-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00216/school-attendance-nowhere-near-where-it-should-be.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/06/30/school-attendance-nowhere-near-where-it-should-be/index.html
+layout: layout.njk
 ---
 School Attendance Nowhere Near Where It Should Be
 =================================================

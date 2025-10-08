@@ -1,9 +1,12 @@
 ---
 slug: act-sensationalises-youth-unemployment
-title: "ACT Sensationalises Youth Unemployment"
-date: 2000-04-27
-source-url: https://www.scoop.co.nz/stories/PO0004/S00102/act-sensationalises-youth-unemployment.htm
+title: ACT Sensationalises Youth Unemployment
+date: 2000-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0004/S00102/act-sensationalises-youth-unemployment.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/04/27/act-sensationalises-youth-unemployment/index.html
+layout: layout.njk
 ---
 ACT Sensationalises Youth Unemployment
 ======================================

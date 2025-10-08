@@ -1,9 +1,12 @@
 ---
 slug: students-campaign-against-rape-and-violence
-title: "Students campaign against rape and violence"
-date: 2008-07-30
-source-url: https://www.scoop.co.nz/stories/PO0807/S00383/students-campaign-against-rape-and-violence.htm
+title: Students campaign against rape and violence
+date: 2008-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00383/students-campaign-against-rape-and-violence.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/07/30/students-campaign-against-rape-and-violence/index.html
+layout: layout.njk
 ---
 Students campaign against rape and violence
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: loan-repayments-start-too-low-demand-too-much
-title: "Loan Repayments: Start too low, demand too much"
-date: 2012-05-04
-source-url: https://www.scoop.co.nz/stories/PO1205/S00071/loan-repayments-start-too-low-demand-too-much.htm
+title: 'Loan Repayments: Start too low, demand too much'
+date: 2012-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00071/loan-repayments-start-too-low-demand-too-much.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/05/04/loan-repayments-start-too-low-demand-too-much/index.html
+layout: layout.njk
 ---
 Loan Repayments: Start too low, demand too much
 ===============================================

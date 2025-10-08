@@ -1,9 +1,12 @@
 ---
 slug: megan-woods-should-stop-re-announcing-r&d-programmes
-title: "Megan Woods should stop re-announcing R&D programmes"
-date: 2018-03-14
-source-url: https://www.scoop.co.nz/stories/PA1803/S00150/megan-woods-should-stop-re-announcing-rd-programmes.htm
+title: Megan Woods should stop re-announcing R&D programmes
+date: 2018-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00150/megan-woods-should-stop-re-announcing-rd-programmes.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/14/megan-woods-should-stop-re-announcing-r/index.html
+layout: layout.njk
 ---
 Megan Woods should stop re-announcing R&D programmes
 ====================================================

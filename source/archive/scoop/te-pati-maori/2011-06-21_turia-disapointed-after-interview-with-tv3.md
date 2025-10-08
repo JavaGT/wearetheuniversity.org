@@ -1,9 +1,12 @@
 ---
 slug: turia-disapointed-after-interview-with-tv3
-title: "Turia Disapointed After Interview With TV3"
-date: 2011-06-21
-source-url: https://www.scoop.co.nz/stories/PA1106/S00328/turia-disapointed-after-interview-with-tv3.htm
+title: Turia Disapointed After Interview With TV3
+date: 2011-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00328/turia-disapointed-after-interview-with-tv3.htm
 author: te-pati-maori
+permalink: /archive/2011/06/21/turia-disapointed-after-interview-with-tv3/index.html
+layout: layout.njk
 ---
 Turia Disapointed After Interview With TV3
 ==========================================

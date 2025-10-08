@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-council-accepts-government-fee
-title: "Victoria University Council Accepts Government Fee"
-date: 2001-08-31
-source-url: https://www.scoop.co.nz/stories/ED0108/S00070/victoria-university-council-accepts-government-fee.htm
+title: Victoria University Council Accepts Government Fee
+date: 2001-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00070/victoria-university-council-accepts-government-fee.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2001/08/31/victoria-university-council-accepts-government-fee/index.html
+layout: layout.njk
 ---
 Victoria University Council Accepts Government Fee
 ==================================================

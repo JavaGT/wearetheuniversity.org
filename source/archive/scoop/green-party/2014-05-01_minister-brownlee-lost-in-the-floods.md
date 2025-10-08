@@ -1,9 +1,12 @@
 ---
 slug: minister-brownlee-lost-in-the-floods
-title: "Minister Brownlee lost in the floods"
-date: 2014-05-01
-source-url: https://www.scoop.co.nz/stories/PA1405/S00003/minister-brownlee-lost-in-the-floods.htm
+title: Minister Brownlee lost in the floods
+date: 2014-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00003/minister-brownlee-lost-in-the-floods.htm
 author: green-party
+permalink: /archive/2014/05/01/minister-brownlee-lost-in-the-floods/index.html
+layout: layout.njk
 ---
 Minister Brownlee lost in the floods
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-confirms-$2-billion-hit-from-loans-plan
-title: "Labour confirms $2 billion hit from loans plan"
-date: 2005-11-08
-source-url: https://www.scoop.co.nz/stories/PA0511/S00100/labour-confirms-2-billion-hit-from-loans-plan.htm
+title: Labour confirms $2 billion hit from loans plan
+date: 2005-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00100/labour-confirms-2-billion-hit-from-loans-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/08/labour-confirms-/index.html
+layout: layout.njk
 ---
 Labour confirms $2 billion hit from loans plan
 ==============================================

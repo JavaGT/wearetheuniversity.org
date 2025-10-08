@@ -1,9 +1,13 @@
 ---
 slug: paratas-comments-highlight-massive-holes-in-govts-plan
-title: "Parata’s comments highlight massive holes in Govt’s plan"
-date: 2015-10-02
-source-url: https://www.scoop.co.nz/stories/PA1510/S00022/paratas-comments-highlight-massive-holes-in-govts-plan.htm
+title: Parata’s comments highlight massive holes in Govt’s plan
+date: 2015-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00022/paratas-comments-highlight-massive-holes-in-govts-plan.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/02/paratas-comments-highlight-massive-holes-in-govts-plan/index.html
+layout: layout.njk
 ---
 Parata’s comments highlight massive holes in Govt’s plan
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: mbie-science-teaching-leadership-programme
-title: "MBIE Science Teaching Leadership Programme"
-date: 2017-12-06
-source-url: https://www.scoop.co.nz/stories/ED1712/S00020/mbie-science-teaching-leadership-programme.htm
+title: MBIE Science Teaching Leadership Programme
+date: 2017-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00020/mbie-science-teaching-leadership-programme.htm
 author: massey-university
+permalink: /archive/2017/12/06/mbie-science-teaching-leadership-programme/index.html
+layout: layout.njk
 ---
 MBIE Science Teaching Leadership Programme
 ==========================================

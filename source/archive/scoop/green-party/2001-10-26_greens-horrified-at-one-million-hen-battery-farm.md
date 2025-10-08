@@ -1,9 +1,13 @@
 ---
 slug: greens-horrified-at-one-million-hen-battery-farm
-title: "Greens horrified at one million hen battery farm"
-date: 2001-10-26
-source-url: https://www.scoop.co.nz/stories/PA0110/S00470/greens-horrified-at-one-million-hen-battery-farm.htm
+title: Greens horrified at one million hen battery farm
+date: 2001-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00470/greens-horrified-at-one-million-hen-battery-farm.htm
 author: green-party
+permalink: >-
+  /archive/2001/10/26/greens-horrified-at-one-million-hen-battery-farm/index.html
+layout: layout.njk
 ---
 Greens horrified at one million hen battery farm
 ================================================

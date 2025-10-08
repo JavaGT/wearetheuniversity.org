@@ -1,9 +1,12 @@
 ---
 slug: university-staff-to-go-on-strike-4-march
-title: "University staff to go on strike 4 March"
-date: 2002-03-01
-source-url: https://www.scoop.co.nz/stories/ED0203/S00002/university-staff-to-go-on-strike-4-march.htm
+title: University staff to go on strike 4 March
+date: 2002-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00002/university-staff-to-go-on-strike-4-march.htm
 author: association-of-university-staff
+permalink: /archive/2002/03/01/university-staff-to-go-on-strike-4-march/index.html
+layout: layout.njk
 ---
 University staff to go on strike 4 March
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-george-rangitutia
-title: "Poroporoaki - George Rangitutia"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/PA1208/S00117/poroporoaki-george-rangitutia.htm
+title: Poroporoaki - George Rangitutia
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00117/poroporoaki-george-rangitutia.htm
 author: te-pati-maori
+permalink: /archive/2012/08/09/poroporoaki-george-rangitutia/index.html
+layout: layout.njk
 ---
 Poroporoaki - George Rangitutia
 ===============================

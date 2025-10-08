@@ -1,9 +1,13 @@
 ---
 slug: breast-cancer-leading-cause-of-alcohol-attributable-death
-title: "Breast cancer leading cause of alcohol-attributable death"
-date: 2013-07-15
-source-url: https://www.scoop.co.nz/stories/SC1307/S00037/breast-cancer-leading-cause-of-alcohol-attributable-death.htm
+title: Breast cancer leading cause of alcohol-attributable death
+date: 2013-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00037/breast-cancer-leading-cause-of-alcohol-attributable-death.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/15/breast-cancer-leading-cause-of-alcohol-attributable-death/index.html
+layout: layout.njk
 ---
 Breast cancer leading cause of alcohol-attributable death
 =========================================================

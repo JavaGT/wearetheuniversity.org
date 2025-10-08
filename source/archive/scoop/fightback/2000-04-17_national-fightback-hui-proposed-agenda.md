@@ -1,9 +1,12 @@
 ---
 slug: national-fightback-hui-proposed-agenda
-title: "National Fightback Hui - Proposed Agenda"
-date: 2000-04-17
-source-url: https://www.scoop.co.nz/stories/ED0004/S00020/national-fightback-hui-proposed-agenda.htm
+title: National Fightback Hui - Proposed Agenda
+date: 2000-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00020/national-fightback-hui-proposed-agenda.htm
 author: fightback
+permalink: /archive/2000/04/17/national-fightback-hui-proposed-agenda/index.html
+layout: layout.njk
 ---
 National Fightback Hui - Proposed Agenda
 ========================================

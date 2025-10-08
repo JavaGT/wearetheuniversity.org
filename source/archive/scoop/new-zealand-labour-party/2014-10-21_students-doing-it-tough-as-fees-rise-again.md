@@ -1,9 +1,12 @@
 ---
 slug: students-doing-it-tough-as-fees-rise-again
-title: "Students doing it tough as fees rise again"
-date: 2014-10-21
-source-url: https://www.scoop.co.nz/stories/PA1410/S00108/students-doing-it-tough-as-fees-rise-again.htm
+title: Students doing it tough as fees rise again
+date: 2014-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00108/students-doing-it-tough-as-fees-rise-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/21/students-doing-it-tough-as-fees-rise-again/index.html
+layout: layout.njk
 ---
 Students doing it tough as fees rise again
 ==========================================

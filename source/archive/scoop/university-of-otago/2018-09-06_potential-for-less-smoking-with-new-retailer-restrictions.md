@@ -1,9 +1,13 @@
 ---
 slug: potential-for-less-smoking-with-new-retailer-restrictions
-title: "Potential for less smoking with new retailer restrictions"
-date: 2018-09-06
-source-url: https://www.scoop.co.nz/stories/BU1809/S00134/potential-for-less-smoking-with-new-retailer-restrictions.htm
+title: Potential for less smoking with new retailer restrictions
+date: 2018-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1809/S00134/potential-for-less-smoking-with-new-retailer-restrictions.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/06/potential-for-less-smoking-with-new-retailer-restrictions/index.html
+layout: layout.njk
 ---
 Potential for less smoking with new retailer restrictions
 =========================================================

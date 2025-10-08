@@ -1,9 +1,13 @@
 ---
 slug: government-clutches-at-national-standards-straws
-title: "Government Clutches at National Standards Straws"
-date: 2011-03-24
-source-url: https://www.scoop.co.nz/stories/ED1103/S00102/government-clutches-at-national-standards-straws.htm
+title: Government Clutches at National Standards Straws
+date: 2011-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00102/government-clutches-at-national-standards-straws.htm
 author: nzei
+permalink: >-
+  /archive/2011/03/24/government-clutches-at-national-standards-straws/index.html
+layout: layout.njk
 ---
 Government Clutches at National Standards Straws
 ================================================

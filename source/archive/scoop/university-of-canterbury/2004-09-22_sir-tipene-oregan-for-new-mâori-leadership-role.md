@@ -1,9 +1,12 @@
 ---
 slug: sir-tipene-oregan-for-new-mâori-leadership-role
-title: "Sir Tipene O’Regan for new Mâori leadership role"
-date: 2004-09-22
-source-url: https://www.scoop.co.nz/stories/ED0409/S00105/sir-tipene-oregan-for-new-maori-leadership-role.htm
+title: Sir Tipene O’Regan for new Mâori leadership role
+date: 2004-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00105/sir-tipene-oregan-for-new-maori-leadership-role.htm
 author: university-of-canterbury
+permalink: /archive/2004/09/22/sir-tipene-oregan-for-new-m/index.html
+layout: layout.njk
 ---
 Sir Tipene O’Regan for new Mâori leadership role
 ================================================

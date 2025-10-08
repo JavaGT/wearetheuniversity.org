@@ -1,9 +1,12 @@
 ---
 slug: extra-funding-for-inclusive-education-welcomed
-title: "Extra funding for inclusive education welcomed"
-date: 2018-05-13
-source-url: https://www.scoop.co.nz/stories/PO1805/S00153/extra-funding-for-inclusive-education-welcomed.htm
+title: Extra funding for inclusive education welcomed
+date: 2018-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00153/extra-funding-for-inclusive-education-welcomed.htm
 author: nzei
+permalink: /archive/2018/05/13/extra-funding-for-inclusive-education-welcomed/index.html
+layout: layout.njk
 ---
 Extra funding for inclusive education welcomed
 ==============================================

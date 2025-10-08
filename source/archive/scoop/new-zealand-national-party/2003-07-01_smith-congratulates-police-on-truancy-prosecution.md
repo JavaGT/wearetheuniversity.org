@@ -1,9 +1,13 @@
 ---
 slug: smith-congratulates-police-on-truancy-prosecution
-title: "Smith congratulates police on truancy prosecution"
-date: 2003-07-01
-source-url: https://www.scoop.co.nz/stories/PA0307/S00012/smith-congratulates-police-on-truancy-prosecution.htm
+title: Smith congratulates police on truancy prosecution
+date: 2003-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00012/smith-congratulates-police-on-truancy-prosecution.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/07/01/smith-congratulates-police-on-truancy-prosecution/index.html
+layout: layout.njk
 ---
 Smith congratulates police on truancy prosecution
 =================================================

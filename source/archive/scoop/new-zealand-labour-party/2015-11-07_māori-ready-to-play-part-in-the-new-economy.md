@@ -1,9 +1,12 @@
 ---
 slug: māori-ready-to-play-part-in-the-new-economy
-title: "Māori ready to play part in the new economy"
-date: 2015-11-07
-source-url: https://www.scoop.co.nz/stories/PO1511/S00122/maori-ready-to-play-part-in-the-new-economy.htm
+title: Māori ready to play part in the new economy
+date: 2015-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1511/S00122/maori-ready-to-play-part-in-the-new-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/07/m/index.html
+layout: layout.njk
 ---
 Māori ready to play part in the new economy
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-education-expert-named-to-marsden-fund-council
-title: "Māori education expert named to Marsden Fund Council"
-date: 2011-01-11
-source-url: https://www.scoop.co.nz/stories/ED1101/S00005/maori-education-expert-named-to-marsden-fund-council.htm
+title: Māori education expert named to Marsden Fund Council
+date: 2011-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00005/maori-education-expert-named-to-marsden-fund-council.htm
 author: waikato-university
+permalink: /archive/2011/01/11/m/index.html
+layout: layout.njk
 ---
 Māori education expert named to Marsden Fund Council
 ====================================================

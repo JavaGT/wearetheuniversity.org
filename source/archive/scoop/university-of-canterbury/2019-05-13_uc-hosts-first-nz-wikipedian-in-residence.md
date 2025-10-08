@@ -1,9 +1,12 @@
 ---
 slug: uc-hosts-first-nz-wikipedian-in-residence
-title: "UC hosts first NZ Wikipedian in Residence"
-date: 2019-05-13
-source-url: https://www.scoop.co.nz/stories/ED1905/S00035/uc-hosts-first-nz-wikipedian-in-residence.htm
+title: UC hosts first NZ Wikipedian in Residence
+date: 2019-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00035/uc-hosts-first-nz-wikipedian-in-residence.htm
 author: university-of-canterbury
+permalink: /archive/2019/05/13/uc-hosts-first-nz-wikipedian-in-residence/index.html
+layout: layout.njk
 ---
 UC hosts first NZ Wikipedian in Residence
 =========================================

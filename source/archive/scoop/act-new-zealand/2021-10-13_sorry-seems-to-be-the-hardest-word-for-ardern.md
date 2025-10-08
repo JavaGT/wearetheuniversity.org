@@ -1,9 +1,12 @@
 ---
 slug: sorry-seems-to-be-the-hardest-word-for-ardern
-title: "Sorry Seems To Be The Hardest Word For Ardern"
-date: 2021-10-13
-source-url: https://www.scoop.co.nz/stories/PA2110/S00125/sorry-seems-to-be-the-hardest-word-for-ardern.htm
+title: Sorry Seems To Be The Hardest Word For Ardern
+date: 2021-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00125/sorry-seems-to-be-the-hardest-word-for-ardern.htm
 author: act-new-zealand
+permalink: /archive/2021/10/13/sorry-seems-to-be-the-hardest-word-for-ardern/index.html
+layout: layout.njk
 ---
 Sorry Seems To Be The Hardest Word For Ardern
 =============================================

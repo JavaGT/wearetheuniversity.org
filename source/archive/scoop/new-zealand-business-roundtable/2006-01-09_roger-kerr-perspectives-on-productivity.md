@@ -1,9 +1,12 @@
 ---
 slug: roger-kerr-perspectives-on-productivity
-title: "Roger Kerr: Perspectives on Productivity"
-date: 2006-01-09
-source-url: https://www.scoop.co.nz/stories/BU0601/S00029/roger-kerr-perspectives-on-productivity.htm
+title: 'Roger Kerr: Perspectives on Productivity'
+date: 2006-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0601/S00029/roger-kerr-perspectives-on-productivity.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/01/09/roger-kerr-perspectives-on-productivity/index.html
+layout: layout.njk
 ---
 Roger Kerr: Perspectives on Productivity
 ========================================

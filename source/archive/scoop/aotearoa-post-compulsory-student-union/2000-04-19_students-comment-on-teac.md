@@ -1,9 +1,11 @@
 ---
 slug: students-comment-on-teac
-title: "Students Comment On TEAC"
-date: 2000-04-19
+title: Students Comment On TEAC
+date: 2000-04-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0004/S00023/students-comment-on-teac.htm
 author: aotearoa-post-compulsory-student-union
+permalink: /archive/2000/04/19/students-comment-on-teac/index.html
+layout: layout.njk
 ---
 Students Comment On TEAC
 ========================

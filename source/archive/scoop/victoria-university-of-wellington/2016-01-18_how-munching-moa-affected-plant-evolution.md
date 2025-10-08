@@ -1,9 +1,12 @@
 ---
 slug: how-munching-moa-affected-plant-evolution
-title: "How munching Moa affected plant evolution"
-date: 2016-01-18
-source-url: https://www.scoop.co.nz/stories/SC1601/S00032/how-munching-moa-affected-plant-evolution.htm
+title: How munching Moa affected plant evolution
+date: 2016-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1601/S00032/how-munching-moa-affected-plant-evolution.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/01/18/how-munching-moa-affected-plant-evolution/index.html
+layout: layout.njk
 ---
 How munching Moa affected plant evolution
 =========================================

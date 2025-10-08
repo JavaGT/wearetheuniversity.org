@@ -1,9 +1,12 @@
 ---
 slug: link-between-relationships-and-resilience
-title: "Link between relationships and resilience"
-date: 2010-08-10
-source-url: https://www.scoop.co.nz/stories/SC1008/S00015/link-between-relationships-and-resilience.htm
+title: Link between relationships and resilience
+date: 2010-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1008/S00015/link-between-relationships-and-resilience.htm
 author: university-of-waikato
+permalink: /archive/2010/08/10/link-between-relationships-and-resilience/index.html
+layout: layout.njk
 ---
 Link between relationships and resilience
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: petition-launched-to-improve-school-reporting
-title: "Petition launched to improve school reporting"
-date: 2018-03-26
-source-url: https://www.scoop.co.nz/stories/PA1803/S00279/petition-launched-to-improve-school-reporting.htm
+title: Petition launched to improve school reporting
+date: 2018-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00279/petition-launched-to-improve-school-reporting.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/26/petition-launched-to-improve-school-reporting/index.html
+layout: layout.njk
 ---
 Petition launched to improve school reporting
 =============================================

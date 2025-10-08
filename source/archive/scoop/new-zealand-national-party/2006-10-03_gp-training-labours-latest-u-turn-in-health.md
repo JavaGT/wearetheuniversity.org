@@ -1,9 +1,12 @@
 ---
 slug: gp-training-labours-latest-u-turn-in-health
-title: "GP training Labour’s latest U-turn in health"
-date: 2006-10-03
-source-url: https://www.scoop.co.nz/stories/PA0610/S00045/gp-training-labours-latest-u-turn-in-health.htm
+title: GP training Labour’s latest U-turn in health
+date: 2006-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00045/gp-training-labours-latest-u-turn-in-health.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/03/gp-training-labours-latest-u-turn-in-health/index.html
+layout: layout.njk
 ---
 GP training Labour’s latest U-turn in health
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: film-script-character-to-award-prize
-title: "Film script character to award prize"
-date: 2004-12-14
-source-url: https://www.scoop.co.nz/stories/ED0412/S00048/film-script-character-to-award-prize.htm
+title: Film script character to award prize
+date: 2004-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00048/film-script-character-to-award-prize.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/12/14/film-script-character-to-award-prize/index.html
+layout: layout.njk
 ---
 Film script character to award prize
 ====================================

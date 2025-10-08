@@ -1,9 +1,12 @@
 ---
 slug: analysts-could-bolster-council
-title: "Analysts Could Bolster Council"
-date: 2003-03-14
-source-url: https://www.scoop.co.nz/stories/PA0303/S00236/analysts-could-bolster-council.htm
+title: Analysts Could Bolster Council
+date: 2003-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00236/analysts-could-bolster-council.htm
 author: act-new-zealand
+permalink: /archive/2003/03/14/analysts-could-bolster-council/index.html
+layout: layout.njk
 ---
 Analysts Could Bolster Council
 ==============================

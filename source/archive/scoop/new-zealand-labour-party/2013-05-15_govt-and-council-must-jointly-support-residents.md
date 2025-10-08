@@ -1,9 +1,12 @@
 ---
 slug: govt-and-council-must-jointly-support-residents
-title: "Govt and Council must jointly support residents"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/PA1305/S00251/govt-and-council-must-jointly-support-residents.htm
+title: Govt and Council must jointly support residents
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00251/govt-and-council-must-jointly-support-residents.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/15/govt-and-council-must-jointly-support-residents/index.html
+layout: layout.njk
 ---
 Govt and Council must jointly support residents
 ===============================================

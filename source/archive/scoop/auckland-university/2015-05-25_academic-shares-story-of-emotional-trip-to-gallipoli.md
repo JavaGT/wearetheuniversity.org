@@ -1,9 +1,13 @@
 ---
 slug: academic-shares-story-of-emotional-trip-to-gallipoli
-title: "Academic shares story of emotional trip to Gallipoli"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/ED1505/S00093/academic-shares-story-of-emotional-trip-to-gallipoli.htm
+title: Academic shares story of emotional trip to Gallipoli
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00093/academic-shares-story-of-emotional-trip-to-gallipoli.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/05/25/academic-shares-story-of-emotional-trip-to-gallipoli/index.html
+layout: layout.njk
 ---
 Academic shares story of emotional trip to Gallipoli
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: state-school-failure-shows-value-of-partnership-schools
-title: "State school failure shows value of Partnership Schools"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/PA1606/S00479/state-school-failure-shows-value-of-partnership-schools.htm
+title: State school failure shows value of Partnership Schools
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00479/state-school-failure-shows-value-of-partnership-schools.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/06/29/state-school-failure-shows-value-of-partnership-schools/index.html
+layout: layout.njk
 ---
 State school failure shows value of Partnership Schools
 =======================================================

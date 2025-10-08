@@ -1,9 +1,12 @@
 ---
 slug: ausa-cautiously-optimistic-about-funding
-title: "AUSA cautiously optimistic about funding"
-date: 2006-07-28
-source-url: https://www.scoop.co.nz/stories/ED0607/S00092/ausa-cautiously-optimistic-about-funding.htm
+title: AUSA cautiously optimistic about funding
+date: 2006-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00092/ausa-cautiously-optimistic-about-funding.htm
 author: auckland-university-students-association
+permalink: /archive/2006/07/28/ausa-cautiously-optimistic-about-funding/index.html
+layout: layout.njk
 ---
 AUSA cautiously optimistic about funding
 ========================================

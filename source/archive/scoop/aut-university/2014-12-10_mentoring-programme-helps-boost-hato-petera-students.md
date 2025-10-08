@@ -1,9 +1,13 @@
 ---
 slug: mentoring-programme-helps-boost-hato-petera-students
-title: "Mentoring programme helps boost Hato Petera students"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/ED1412/S00071/mentoring-programme-helps-boost-hato-petera-students.htm
+title: Mentoring programme helps boost Hato Petera students
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00071/mentoring-programme-helps-boost-hato-petera-students.htm
 author: aut-university
+permalink: >-
+  /archive/2014/12/10/mentoring-programme-helps-boost-hato-petera-students/index.html
+layout: layout.njk
 ---
 Mentoring programme helps boost Hato Petera students
 ====================================================

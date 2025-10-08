@@ -1,9 +1,13 @@
 ---
 slug: former-waikato-participants-win-intl-award-in-sydney
-title: "Former Waikato participants win int'l award in Sydney"
-date: 2016-11-17
-source-url: https://www.scoop.co.nz/stories/GE1611/S00071/former-waikato-participants-win-intl-award-in-sydney.htm
+title: Former Waikato participants win int'l award in Sydney
+date: 2016-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1611/S00071/former-waikato-participants-win-intl-award-in-sydney.htm
 author: waikato-university
+permalink: >-
+  /archive/2016/11/17/former-waikato-participants-win-intl-award-in-sydney/index.html
+layout: layout.njk
 ---
 Former Waikato participants win int'l award in Sydney
 =====================================================

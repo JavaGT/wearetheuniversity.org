@@ -1,9 +1,12 @@
 ---
 slug: māori-constitutional-law-lies-in-stories-not-statutes
-title: "Māori constitutional law lies in stories not statutes"
-date: 2016-12-20
-source-url: https://www.scoop.co.nz/stories/ED1612/S00073/maori-constitutional-law-lies-in-stories-not-statutes.htm
+title: Māori constitutional law lies in stories not statutes
+date: 2016-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00073/maori-constitutional-law-lies-in-stories-not-statutes.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/12/20/m/index.html
+layout: layout.njk
 ---
 Māori constitutional law lies in stories not statutes
 =====================================================

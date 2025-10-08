@@ -1,9 +1,12 @@
 ---
 slug: what-is-the-government-planning-for-waikato-dhb
-title: "What is the Government planning for Waikato DHB?"
-date: 2018-02-22
-source-url: https://www.scoop.co.nz/stories/PA1802/S00211/what-is-the-government-planning-for-waikato-dhb.htm
+title: What is the Government planning for Waikato DHB?
+date: 2018-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00211/what-is-the-government-planning-for-waikato-dhb.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/22/what-is-the-government-planning-for-waikato-dhb/index.html
+layout: layout.njk
 ---
 What is the Government planning for Waikato DHB?
 ================================================

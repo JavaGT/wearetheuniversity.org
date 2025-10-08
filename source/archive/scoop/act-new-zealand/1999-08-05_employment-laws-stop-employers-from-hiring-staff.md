@@ -1,9 +1,13 @@
 ---
 slug: employment-laws-stop-employers-from-hiring-staff
-title: "Employment Laws Stop Employers From Hiring Staff"
-date: 1999-08-05
-source-url: https://www.scoop.co.nz/stories/PA9908/S00083/employment-laws-stop-employers-from-hiring-staff.htm
+title: Employment Laws Stop Employers From Hiring Staff
+date: 1999-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00083/employment-laws-stop-employers-from-hiring-staff.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/08/05/employment-laws-stop-employers-from-hiring-staff/index.html
+layout: layout.njk
 ---
 Employment Laws Stop Employers From Hiring Staff
 ================================================

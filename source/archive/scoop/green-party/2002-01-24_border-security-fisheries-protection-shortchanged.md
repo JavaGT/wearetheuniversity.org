@@ -1,9 +1,13 @@
 ---
 slug: border-security-fisheries-protection-shortchanged
-title: "Border Security, Fisheries Protection Shortchanged"
-date: 2002-01-24
-source-url: https://www.scoop.co.nz/stories/PA0201/S00128/border-security-fisheries-protection-shortchanged.htm
+title: Border Security, Fisheries Protection Shortchanged
+date: 2002-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00128/border-security-fisheries-protection-shortchanged.htm
 author: green-party
+permalink: >-
+  /archive/2002/01/24/border-security-fisheries-protection-shortchanged/index.html
+layout: layout.njk
 ---
 Border Security, Fisheries Protection Shortchanged
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: problems-remain-with-three-strikes-bill
-title: "Problems Remain With Three Strikes Bill"
-date: 2010-03-26
-source-url: https://www.scoop.co.nz/stories/PO1003/S00445/problems-remain-with-three-strikes-bill.htm
+title: Problems Remain With Three Strikes Bill
+date: 2010-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00445/problems-remain-with-three-strikes-bill.htm
 author: maxim-institute
+permalink: /archive/2010/03/26/problems-remain-with-three-strikes-bill/index.html
+layout: layout.njk
 ---
 Problems Remain With Three Strikes Bill
 =======================================

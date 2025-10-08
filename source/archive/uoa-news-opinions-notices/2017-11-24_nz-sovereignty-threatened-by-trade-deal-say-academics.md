@@ -1,8 +1,12 @@
 ---
 slug: nz-sovereignty-threatened-by-trade-deal-say-academics
-title: "NZ sovereignty threatened by trade deal, say academics"
-date: 2017-11-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/nz-sovereignty-threatened-by-trade-deal--say-academics.html
+title: NZ sovereignty threatened by trade deal, say academics
+date: 2017-11-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/nz-sovereignty-threatened-by-trade-deal--say-academics.html
+permalink: >-
+  /archive/2017/11/24/nz-sovereignty-threatened-by-trade-deal-say-academics/index.html
+layout: layout.njk
 ---
 NZ sovereignty threatened by trade deal, say academics
 ======================================================

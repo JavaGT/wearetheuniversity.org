@@ -1,9 +1,13 @@
 ---
 slug: foreshore-to-be-aired-at-summer-policy-conference
-title: "Foreshore To Be Aired At Summer Policy Conference"
-date: 2003-12-18
-source-url: https://www.scoop.co.nz/stories/PA0312/S00459/foreshore-to-be-aired-at-summer-policy-conference.htm
+title: Foreshore To Be Aired At Summer Policy Conference
+date: 2003-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00459/foreshore-to-be-aired-at-summer-policy-conference.htm
 author: green-party
+permalink: >-
+  /archive/2003/12/18/foreshore-to-be-aired-at-summer-policy-conference/index.html
+layout: layout.njk
 ---
 Foreshore To Be Aired At Summer Policy Conference
 =================================================

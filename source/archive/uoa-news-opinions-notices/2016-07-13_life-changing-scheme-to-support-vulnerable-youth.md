@@ -1,8 +1,12 @@
 ---
 slug: life-changing-scheme-to-support-vulnerable-youth
-title: "Life-changing scheme to support vulnerable youth"
-date: 2016-07-13
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/life-changing-scheme-to-support-vulnerable-youth.html
+title: Life-changing scheme to support vulnerable youth
+date: 2016-07-13T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/life-changing-scheme-to-support-vulnerable-youth.html
+permalink: >-
+  /archive/2016/07/13/life-changing-scheme-to-support-vulnerable-youth/index.html
+layout: layout.njk
 ---
 Life-changing scheme to support vulnerable youth
 ================================================

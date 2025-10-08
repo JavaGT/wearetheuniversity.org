@@ -1,9 +1,11 @@
 ---
 slug: what-happened-to-the-mandate
-title: "What Happened To The Mandate?"
-date: 2000-06-07
+title: What Happened To The Mandate?
+date: 2000-06-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0006/S00118/what-happened-to-the-mandate.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/07/what-happened-to-the-mandate/index.html
+layout: layout.njk
 ---
 What Happened To The Mandate?
 =============================

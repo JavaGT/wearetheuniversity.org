@@ -1,9 +1,12 @@
 ---
 slug: too-many-cyfs-children-moved-around
-title: "Too many CYFS children moved around"
-date: 2003-01-20
-source-url: https://www.scoop.co.nz/stories/PA0301/S00125/too-many-cyfs-children-moved-around.htm
+title: Too many CYFS children moved around
+date: 2003-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00125/too-many-cyfs-children-moved-around.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/20/too-many-cyfs-children-moved-around/index.html
+layout: layout.njk
 ---
 Too many CYFS children moved around
 ===================================

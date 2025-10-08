@@ -1,9 +1,12 @@
 ---
 slug: labour-student-loans-policy-dopey
-title: "Labour Student Loans Policy \"Dopey\""
-date: 1999-08-29
-source-url: https://www.scoop.co.nz/stories/PO9908/S00110/labour-student-loans-policy-dopey.htm
+title: Labour Student Loans Policy "Dopey"
+date: 1999-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9908/S00110/labour-student-loans-policy-dopey.htm
 author: new-zealand-young-nationals
+permalink: /archive/1999/08/29/labour-student-loans-policy-dopey/index.html
+layout: layout.njk
 ---
 Labour Student Loans Policy \"Dopey"
 ===================================

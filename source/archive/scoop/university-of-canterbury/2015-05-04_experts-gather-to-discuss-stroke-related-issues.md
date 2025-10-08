@@ -1,9 +1,12 @@
 ---
 slug: experts-gather-to-discuss-stroke-related-issues
-title: "Experts gather to discuss stroke-related issues"
-date: 2015-05-04
-source-url: https://www.scoop.co.nz/stories/GE1505/S00009/experts-gather-to-discuss-stroke-related-issues.htm
+title: Experts gather to discuss stroke-related issues
+date: 2015-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1505/S00009/experts-gather-to-discuss-stroke-related-issues.htm
 author: university-of-canterbury
+permalink: /archive/2015/05/04/experts-gather-to-discuss-stroke-related-issues/index.html
+layout: layout.njk
 ---
 Experts gather to discuss stroke-related issues
 ===============================================

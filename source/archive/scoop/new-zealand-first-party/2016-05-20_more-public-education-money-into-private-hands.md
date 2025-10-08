@@ -1,9 +1,12 @@
 ---
 slug: more-public-education-money-into-private-hands
-title: "More Public Education Money into Private Hands"
-date: 2016-05-20
-source-url: https://www.scoop.co.nz/stories/PA1605/S00399/more-public-education-money-into-private-hands.htm
+title: More Public Education Money into Private Hands
+date: 2016-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00399/more-public-education-money-into-private-hands.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/20/more-public-education-money-into-private-hands/index.html
+layout: layout.njk
 ---
 More Public Education Money into Private Hands
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: principals-vote-to-accept-agreements
-title: "Principals Vote To Accept Agreements"
-date: 2004-10-29
-source-url: https://www.scoop.co.nz/stories/ED0410/S00099/principals-vote-to-accept-agreements.htm
+title: Principals Vote To Accept Agreements
+date: 2004-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00099/principals-vote-to-accept-agreements.htm
 author: nzei
+permalink: /archive/2004/10/29/principals-vote-to-accept-agreements/index.html
+layout: layout.njk
 ---
 Principals Vote To Accept Agreements
 ====================================

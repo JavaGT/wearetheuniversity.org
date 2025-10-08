@@ -1,9 +1,12 @@
 ---
 slug: universities-new-zealand-te-pōkai-tara-launched
-title: "Universities New Zealand-Te Pōkai Tara launched"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/ED1008/S00032/universities-new-zealand-te-pokai-tara-launched.htm
+title: Universities New Zealand-Te Pōkai Tara launched
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00032/universities-new-zealand-te-pokai-tara-launched.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2010/08/05/universities-new-zealand-te-p/index.html
+layout: layout.njk
 ---
 Universities New Zealand-Te Pōkai Tara launched
 ===============================================

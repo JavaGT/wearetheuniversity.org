@@ -1,9 +1,12 @@
 ---
 slug: stabbed-dog-in-stable-condition
-title: "Stabbed dog in stable condition"
-date: 2006-06-07
-source-url: https://www.scoop.co.nz/stories/PO0606/S00052/stabbed-dog-in-stable-condition.htm
+title: Stabbed dog in stable condition
+date: 2006-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0606/S00052/stabbed-dog-in-stable-condition.htm
 author: massey-university
+permalink: /archive/2006/06/07/stabbed-dog-in-stable-condition/index.html
+layout: layout.njk
 ---
 Stabbed dog in stable condition
 ===============================

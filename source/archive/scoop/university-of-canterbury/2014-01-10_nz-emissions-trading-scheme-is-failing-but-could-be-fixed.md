@@ -1,9 +1,13 @@
 ---
 slug: nz-emissions-trading-scheme-is-failing-but-could-be-fixed
-title: "NZ emissions trading scheme is failing but could be fixed"
-date: 2014-01-10
-source-url: https://www.scoop.co.nz/stories/SC1401/S00015/nz-emissions-trading-scheme-is-failing-but-could-be-fixed.htm
+title: NZ emissions trading scheme is failing but could be fixed
+date: 2014-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00015/nz-emissions-trading-scheme-is-failing-but-could-be-fixed.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/10/nz-emissions-trading-scheme-is-failing-but-could-be-fixed/index.html
+layout: layout.njk
 ---
 NZ emissions trading scheme is failing but could be fixed
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: law-student-awarded-top-danish-scholarship
-title: "Law student awarded top Danish scholarship"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/ED1508/S00057/law-student-awarded-top-danish-scholarship.htm
+title: Law student awarded top Danish scholarship
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00057/law-student-awarded-top-danish-scholarship.htm
 author: waikato-university
+permalink: /archive/2015/08/13/law-student-awarded-top-danish-scholarship/index.html
+layout: layout.njk
 ---
 Law student awarded top Danish scholarship
 ==========================================

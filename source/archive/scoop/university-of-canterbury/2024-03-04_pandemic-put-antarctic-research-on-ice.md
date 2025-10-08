@@ -1,9 +1,12 @@
 ---
 slug: pandemic-put-antarctic-research-on-ice
-title: "Pandemic Put Antarctic Research On Ice"
-date: 2024-03-04
-source-url: https://www.scoop.co.nz/stories/SC2403/S00005/pandemic-put-antarctic-research-on-ice.htm
+title: Pandemic Put Antarctic Research On Ice
+date: 2024-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2403/S00005/pandemic-put-antarctic-research-on-ice.htm
 author: university-of-canterbury
+permalink: /archive/2024/03/04/pandemic-put-antarctic-research-on-ice/index.html
+layout: layout.njk
 ---
 Pandemic Put Antarctic Research On Ice
 ======================================

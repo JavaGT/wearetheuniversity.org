@@ -1,9 +1,12 @@
 ---
 slug: university-honours-master-weavers-life-work
-title: "University honours master weaver's life work"
-date: 2007-10-30
-source-url: https://www.scoop.co.nz/stories/ED0710/S00095/university-honours-master-weavers-life-work.htm
+title: University honours master weaver's life work
+date: 2007-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00095/university-honours-master-weavers-life-work.htm
 author: waikato-university
+permalink: /archive/2007/10/30/university-honours-master-weavers-life-work/index.html
+layout: layout.njk
 ---
 University honours master weaver's life work
 ============================================

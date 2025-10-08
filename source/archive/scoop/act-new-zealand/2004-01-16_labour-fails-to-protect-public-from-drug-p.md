@@ -1,9 +1,12 @@
 ---
 slug: labour-fails-to-protect-public-from-drug-p
-title: "Labour Fails To Protect Public From Drug 'P'"
-date: 2004-01-16
-source-url: https://www.scoop.co.nz/stories/PA0401/S00101/labour-fails-to-protect-public-from-drug-p.htm
+title: Labour Fails To Protect Public From Drug 'P'
+date: 2004-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00101/labour-fails-to-protect-public-from-drug-p.htm
 author: act-new-zealand
+permalink: /archive/2004/01/16/labour-fails-to-protect-public-from-drug-p/index.html
+layout: layout.njk
 ---
 Labour Fails To Protect Public From Drug 'P'
 ============================================

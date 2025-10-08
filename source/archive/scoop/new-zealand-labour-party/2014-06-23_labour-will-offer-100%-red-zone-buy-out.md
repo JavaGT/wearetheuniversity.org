@@ -1,9 +1,12 @@
 ---
 slug: labour-will-offer-100%-red-zone-buy-out
-title: "Labour will offer 100% Red-Zone Buy-Out"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/PA1406/S00343/labour-will-offer-100-red-zone-buy-out.htm
+title: Labour will offer 100% Red-Zone Buy-Out
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00343/labour-will-offer-100-red-zone-buy-out.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/23/labour-will-offer-100/index.html
+layout: layout.njk
 ---
 Labour will offer 100% Red-Zone Buy-Out
 =======================================

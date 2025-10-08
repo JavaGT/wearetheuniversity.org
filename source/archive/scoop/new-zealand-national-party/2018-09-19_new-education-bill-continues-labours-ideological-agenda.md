@@ -1,9 +1,13 @@
 ---
 slug: new-education-bill-continues-labours-ideological-agenda
-title: "New education bill continues Labour’s ideological agenda"
-date: 2018-09-19
-source-url: https://www.scoop.co.nz/stories/PA1809/S00252/new-education-bill-continues-labours-ideological-agenda.htm
+title: New education bill continues Labour’s ideological agenda
+date: 2018-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00252/new-education-bill-continues-labours-ideological-agenda.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/09/19/new-education-bill-continues-labours-ideological-agenda/index.html
+layout: layout.njk
 ---
 New education bill continues Labour’s ideological agenda
 ========================================================

@@ -1,9 +1,11 @@
 ---
 slug: suspension-rate-a-disgrace
-title: "Suspension rate a disgrace"
-date: 2005-04-20
+title: Suspension rate a disgrace
+date: 2005-04-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0504/S00445/suspension-rate-a-disgrace.htm
 author: green-party
+permalink: /archive/2005/04/20/suspension-rate-a-disgrace/index.html
+layout: layout.njk
 ---
 Suspension rate a disgrace
 ==========================

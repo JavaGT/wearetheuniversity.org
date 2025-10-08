@@ -1,9 +1,12 @@
 ---
 slug: the-letter-monday-21-february-2005
-title: "The Letter Monday 21 February 2005"
-date: 2005-02-21
-source-url: https://www.scoop.co.nz/stories/PA0502/S00450/the-letter-monday-21-february-2005.htm
+title: The Letter Monday 21 February 2005
+date: 2005-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00450/the-letter-monday-21-february-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/02/21/the-letter-monday-21-february-2005/index.html
+layout: layout.njk
 ---
 The Letter Monday 21 February 2005
 ==================================

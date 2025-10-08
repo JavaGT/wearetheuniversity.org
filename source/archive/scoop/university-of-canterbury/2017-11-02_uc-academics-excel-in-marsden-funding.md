@@ -1,9 +1,12 @@
 ---
 slug: uc-academics-excel-in-marsden-funding
-title: "UC academics excel in Marsden Funding"
-date: 2017-11-02
-source-url: https://www.scoop.co.nz/stories/ED1711/S00016/uc-academics-excel-in-marsden-funding.htm
+title: UC academics excel in Marsden Funding
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00016/uc-academics-excel-in-marsden-funding.htm
 author: university-of-canterbury
+permalink: /archive/2017/11/02/uc-academics-excel-in-marsden-funding/index.html
+layout: layout.njk
 ---
 UC academics excel in Marsden Funding
 =====================================

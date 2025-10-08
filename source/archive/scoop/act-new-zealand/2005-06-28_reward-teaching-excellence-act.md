@@ -1,9 +1,12 @@
 ---
 slug: reward-teaching-excellence-act
-title: "Reward teaching excellence - ACT"
-date: 2005-06-28
-source-url: https://www.scoop.co.nz/stories/PA0506/S00676/reward-teaching-excellence-act.htm
+title: Reward teaching excellence - ACT
+date: 2005-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00676/reward-teaching-excellence-act.htm
 author: act-new-zealand
+permalink: /archive/2005/06/28/reward-teaching-excellence-act/index.html
+layout: layout.njk
 ---
 Reward teaching excellence - ACT
 ================================

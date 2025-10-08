@@ -1,9 +1,13 @@
 ---
 slug: huo-congratulates-aspiring-kiwi-asian-journalist
-title: "Huo Congratulates Aspiring Kiwi-Asian Journalist"
-date: 2010-02-04
-source-url: https://www.scoop.co.nz/stories/PA1002/S00063/huo-congratulates-aspiring-kiwi-asian-journalist.htm
+title: Huo Congratulates Aspiring Kiwi-Asian Journalist
+date: 2010-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00063/huo-congratulates-aspiring-kiwi-asian-journalist.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/02/04/huo-congratulates-aspiring-kiwi-asian-journalist/index.html
+layout: layout.njk
 ---
 Huo Congratulates Aspiring Kiwi-Asian Journalist
 ================================================

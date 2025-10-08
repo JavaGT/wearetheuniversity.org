@@ -1,9 +1,11 @@
 ---
 slug: what-has-brownlee-been-doing
-title: "What has Brownlee been doing?"
-date: 2014-07-28
+title: What has Brownlee been doing?
+date: 2014-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1407/S00542/what-has-brownlee-been-doing.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/28/what-has-brownlee-been-doing/index.html
+layout: layout.njk
 ---
 What has Brownlee been doing?
 =============================

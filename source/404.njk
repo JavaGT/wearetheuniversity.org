@@ -1,0 +1,102 @@
+---
+permalink: "/404.html"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 - Page Not Found</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+    <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+        <li><a href="/organisations">Organisations</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>404 - Page Not Found</h1>
+    <p>Sorry, we couldn't find that page.</p>
+    <div id="suggestions"></div>
+  </main>
+  <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+    <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+  </footer>
+  <script>
+    // List of known pages (blog, archive, etc.)
+    const pages = [
+      // Blog posts
+      {% for post in collections.blog %}
+  { url: {{ post.url | dump | safe }}, title: {{ post.data.title | dump | safe }}}{% if not loop.last or collections.archive | length > 0 %},{% endif %}
+      {% endfor %}
+      // Archive posts
+      {% for post in collections.archive %}
+  { url: {{ post.url | dump | safe }}, title: {{ post.data.title | dump | safe }}}{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ];
+
+    // Get the requested path
+    const path = window.location.pathname.toLowerCase();
+
+    // Simple fuzzy match: score by substring and Levenshtein distance
+    function levenshtein(a, b) {
+      const an = a.length, bn = b.length;
+      if (an === 0) return bn;
+      if (bn === 0) return an;
+      const matrix = [];
+      for (let i = 0; i <= bn; ++i) matrix[i] = [i];
+      for (let j = 0; j <= an; ++j) matrix[0][j] = j;
+      for (let i = 1; i <= bn; ++i) {
+        for (let j = 1; j <= an; ++j) {
+          if (b.charAt(i - 1) === a.charAt(j - 1)) {
+            matrix[i][j] = matrix[i - 1][j - 1];
+          } else {
+            matrix[i][j] = Math.min(
+              matrix[i - 1][j - 1] + 1,
+              matrix[i][j - 1] + 1,
+              matrix[i - 1][j] + 1
+            );
+          }
+        }
+      }
+      return matrix[bn][an];
+    }
+
+    function getBestMatches(path, pages) {
+      return pages
+        .map(page => {
+          const urlScore = levenshtein(path, page.url.toLowerCase());
+          const titleScore = levenshtein(path, (page.title || '').toLowerCase());
+          return { ...page, score: Math.min(urlScore, titleScore) };
+        })
+        .sort((a, b) => a.score - b.score)
+        .filter(p => p.score < 10)
+        .slice(0, 5);
+    }
+
+    const matches = getBestMatches(path, pages);
+    const suggestions = document.getElementById('suggestions');
+    if (matches.length > 0) {
+      suggestions.innerHTML = '<p>Did you mean:</p><ul>' +
+        matches.map(m => `<li><a href="${m.url}">${m.title}</a></li>`).join('') +
+        '</ul>';
+      // Optionally, auto-redirect if a very close match
+      // if (matches[0].score < 3) {
+      //   window.location.replace(matches[0].url);
+      // }
+    }
+  </script>
+</body>
+</html>

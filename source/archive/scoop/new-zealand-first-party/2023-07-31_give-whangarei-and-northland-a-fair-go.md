@@ -1,9 +1,12 @@
 ---
 slug: give-whangarei-and-northland-a-fair-go
-title: "'Give Whangarei And Northland A Fair Go'"
-date: 2023-07-31
-source-url: https://www.scoop.co.nz/stories/PO2307/S00210/give-whangarei-and-northland-a-fair-go.htm
+title: '''Give Whangarei And Northland A Fair Go'''
+date: 2023-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00210/give-whangarei-and-northland-a-fair-go.htm
 author: new-zealand-first-party
+permalink: /archive/2023/07/31/give-whangarei-and-northland-a-fair-go/index.html
+layout: layout.njk
 ---
 'Give Whangarei And Northland A Fair Go'
 ========================================

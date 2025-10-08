@@ -1,9 +1,12 @@
 ---
 slug: auckland-uni-fundraising-campaign-a-farce
-title: "Auckland Uni fundraising campaign a farce"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/ED1609/S00129/auckland-uni-fundraising-campaign-a-farce.htm
+title: Auckland Uni fundraising campaign a farce
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00129/auckland-uni-fundraising-campaign-a-farce.htm
 author: fossil-free-uoa
+permalink: /archive/2016/09/26/auckland-uni-fundraising-campaign-a-farce/index.html
+layout: layout.njk
 ---
 Auckland Uni fundraising campaign a farce
 =========================================

@@ -1,9 +1,11 @@
 ---
 slug: the-moneys-in-the-honey
-title: "The money’s in the honey"
-date: 2016-05-10
+title: The money’s in the honey
+date: 2016-05-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1605/S00275/the-moneys-in-the-honey.htm
 author: lincoln-university
+permalink: /archive/2016/05/10/the-moneys-in-the-honey/index.html
+layout: layout.njk
 ---
 The money’s in the honey
 ========================

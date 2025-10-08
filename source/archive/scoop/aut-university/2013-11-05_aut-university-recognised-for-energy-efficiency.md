@@ -1,9 +1,12 @@
 ---
 slug: aut-university-recognised-for-energy-efficiency
-title: "AUT University recognised for energy efficiency"
-date: 2013-11-05
-source-url: https://www.scoop.co.nz/stories/ED1311/S00038/aut-university-recognised-for-energy-efficiency.htm
+title: AUT University recognised for energy efficiency
+date: 2013-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00038/aut-university-recognised-for-energy-efficiency.htm
 author: aut-university
+permalink: /archive/2013/11/05/aut-university-recognised-for-energy-efficiency/index.html
+layout: layout.njk
 ---
 AUT University recognised for energy efficiency
 ===============================================

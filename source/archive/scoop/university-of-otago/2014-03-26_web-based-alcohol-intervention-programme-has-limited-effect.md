@@ -1,9 +1,13 @@
 ---
 slug: web-based-alcohol-intervention-programme-has-limited-effect
-title: "Web-based alcohol intervention programme has limited effect"
-date: 2014-03-26
-source-url: https://www.scoop.co.nz/stories/GE1403/S00125/web-based-alcohol-intervention-programme-has-limited-effect.htm
+title: Web-based alcohol intervention programme has limited effect
+date: 2014-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1403/S00125/web-based-alcohol-intervention-programme-has-limited-effect.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/03/26/web-based-alcohol-intervention-programme-has-limited-effect/index.html
+layout: layout.njk
 ---
 Web-based alcohol intervention programme has limited effect
 ===========================================================

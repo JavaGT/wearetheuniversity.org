@@ -1,9 +1,12 @@
 ---
 slug: $1-million-gift-to-young-musicians
-title: "$1 million gift to young musicians"
-date: 2011-03-31
-source-url: https://www.scoop.co.nz/stories/ED1103/S00133/1-million-gift-to-young-musicians.htm
+title: $1 million gift to young musicians
+date: 2011-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00133/1-million-gift-to-young-musicians.htm
 author: university-of-canterbury
+permalink: /archive/2011/03/31/1-million-gift-to-young-musicians/index.html
+layout: layout.njk
 ---
 $1 million gift to young musicians
 ==================================

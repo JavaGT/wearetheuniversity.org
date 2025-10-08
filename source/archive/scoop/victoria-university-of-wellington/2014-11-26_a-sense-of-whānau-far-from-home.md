@@ -1,9 +1,12 @@
 ---
 slug: a-sense-of-whānau-far-from-home
-title: "A sense of whānau far from home"
-date: 2014-11-26
-source-url: https://www.scoop.co.nz/stories/ED1411/S00154/a-sense-of-whanau-far-from-home.htm
+title: A sense of whānau far from home
+date: 2014-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00154/a-sense-of-whanau-far-from-home.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/11/26/a-sense-of-wh/index.html
+layout: layout.njk
 ---
 A sense of whānau far from home
 ===============================

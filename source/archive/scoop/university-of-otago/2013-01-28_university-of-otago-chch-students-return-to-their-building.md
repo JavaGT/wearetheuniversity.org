@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-chch-students-return-to-their-building
-title: "University Of Otago, Chch, Students Return To Their Building"
-date: 2013-01-28
-source-url: https://www.scoop.co.nz/stories/ED1301/S00088/university-of-otago-chch-students-return-to-their-building.htm
+title: University Of Otago, Chch, Students Return To Their Building
+date: 2013-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00088/university-of-otago-chch-students-return-to-their-building.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/01/28/university-of-otago-chch-students-return-to-their-building/index.html
+layout: layout.njk
 ---
 University Of Otago, Chch, Students Return To Their Building
 ============================================================

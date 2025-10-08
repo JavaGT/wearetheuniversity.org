@@ -1,9 +1,13 @@
 ---
 slug: hillary-scholar-wins-charisma-trophy-at-bop-horse-trials
-title: "Hillary scholar wins Charisma Trophy at BoP Horse Trials"
-date: 2012-03-29
-source-url: https://www.scoop.co.nz/stories/ED1203/S00147/hillary-scholar-wins-charisma-trophy-at-bop-horse-trials.htm
+title: Hillary scholar wins Charisma Trophy at BoP Horse Trials
+date: 2012-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00147/hillary-scholar-wins-charisma-trophy-at-bop-horse-trials.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/03/29/hillary-scholar-wins-charisma-trophy-at-bop-horse-trials/index.html
+layout: layout.njk
 ---
 Hillary scholar wins Charisma Trophy at BoP Horse Trials
 ========================================================

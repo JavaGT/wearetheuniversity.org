@@ -1,9 +1,12 @@
 ---
 slug: global-burden-of-disease-brain-summit-at-aut
-title: "Global Burden of Disease Brain Summit at AUT"
-date: 2018-10-28
-source-url: https://www.scoop.co.nz/stories/GE1810/S00115/global-burden-of-disease-brain-summit-at-aut.htm
+title: Global Burden of Disease Brain Summit at AUT
+date: 2018-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00115/global-burden-of-disease-brain-summit-at-aut.htm
 author: aut-university
+permalink: /archive/2018/10/28/global-burden-of-disease-brain-summit-at-aut/index.html
+layout: layout.njk
 ---
 Global Burden of Disease Brain Summit at AUT
 ============================================

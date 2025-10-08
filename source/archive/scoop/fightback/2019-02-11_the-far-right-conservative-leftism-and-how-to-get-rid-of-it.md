@@ -1,9 +1,13 @@
 ---
 slug: the-far-right-conservative-leftism-and-how-to-get-rid-of-it
-title: "The far Right, conservative leftism and how to get rid of it"
-date: 2019-02-11
-source-url: https://www.scoop.co.nz/stories/HL1902/S00033/the-far-right-conservative-leftism-and-how-to-get-rid-of-it.htm
+title: The far Right, conservative leftism and how to get rid of it
+date: 2019-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1902/S00033/the-far-right-conservative-leftism-and-how-to-get-rid-of-it.htm
 author: fightback
+permalink: >-
+  /archive/2019/02/11/the-far-right-conservative-leftism-and-how-to-get-rid-of-it/index.html
+layout: layout.njk
 ---
 The far Right, conservative leftism and how to get rid of it
 ============================================================

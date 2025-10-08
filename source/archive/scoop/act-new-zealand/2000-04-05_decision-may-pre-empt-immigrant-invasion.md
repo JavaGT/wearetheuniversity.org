@@ -1,9 +1,12 @@
 ---
 slug: decision-may-pre-empt-immigrant-invasion
-title: "Decision may pre-empt immigrant invasion"
-date: 2000-04-05
-source-url: https://www.scoop.co.nz/stories/PA0004/S00060/decision-may-pre-empt-immigrant-invasion.htm
+title: Decision may pre-empt immigrant invasion
+date: 2000-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00060/decision-may-pre-empt-immigrant-invasion.htm
 author: act-new-zealand
+permalink: /archive/2000/04/05/decision-may-pre-empt-immigrant-invasion/index.html
+layout: layout.njk
 ---
 Decision may pre-empt immigrant invasion
 ========================================

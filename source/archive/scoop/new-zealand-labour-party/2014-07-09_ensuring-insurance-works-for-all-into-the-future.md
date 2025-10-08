@@ -1,9 +1,13 @@
 ---
 slug: ensuring-insurance-works-for-all-into-the-future
-title: "Ensuring insurance works for all into the future"
-date: 2014-07-09
-source-url: https://www.scoop.co.nz/stories/PA1407/S00183/ensuring-insurance-works-for-all-into-the-future.htm
+title: Ensuring insurance works for all into the future
+date: 2014-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00183/ensuring-insurance-works-for-all-into-the-future.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/07/09/ensuring-insurance-works-for-all-into-the-future/index.html
+layout: layout.njk
 ---
 Ensuring insurance works for all into the future
 ================================================

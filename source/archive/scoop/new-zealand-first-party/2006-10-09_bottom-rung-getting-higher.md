@@ -1,9 +1,11 @@
 ---
 slug: bottom-rung-getting-higher
-title: "Bottom Rung Getting Higher"
-date: 2006-10-09
+title: Bottom Rung Getting Higher
+date: 2006-10-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0610/S00127/bottom-rung-getting-higher.htm
 author: new-zealand-first-party
+permalink: /archive/2006/10/09/bottom-rung-getting-higher/index.html
+layout: layout.njk
 ---
 Bottom Rung Getting Higher
 ==========================

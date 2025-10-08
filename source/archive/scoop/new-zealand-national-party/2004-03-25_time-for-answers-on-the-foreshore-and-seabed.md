@@ -1,9 +1,12 @@
 ---
 slug: time-for-answers-on-the-foreshore-and-seabed
-title: "Time for answers on the foreshore and seabed"
-date: 2004-03-25
-source-url: https://www.scoop.co.nz/stories/PA0403/S00540/time-for-answers-on-the-foreshore-and-seabed.htm
+title: Time for answers on the foreshore and seabed
+date: 2004-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00540/time-for-answers-on-the-foreshore-and-seabed.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/25/time-for-answers-on-the-foreshore-and-seabed/index.html
+layout: layout.njk
 ---
 Time for answers on the foreshore and seabed
 ============================================

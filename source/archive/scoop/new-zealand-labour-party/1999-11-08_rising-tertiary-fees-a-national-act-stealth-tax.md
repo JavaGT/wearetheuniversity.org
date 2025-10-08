@@ -1,9 +1,12 @@
 ---
 slug: rising-tertiary-fees-a-national-act-stealth-tax
-title: "Rising tertiary fees a National-Act stealth tax"
-date: 1999-11-08
-source-url: https://www.scoop.co.nz/stories/PA9911/S00177/rising-tertiary-fees-a-national-act-stealth-tax.htm
+title: Rising tertiary fees a National-Act stealth tax
+date: 1999-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00177/rising-tertiary-fees-a-national-act-stealth-tax.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/08/rising-tertiary-fees-a-national-act-stealth-tax/index.html
+layout: layout.njk
 ---
 Rising tertiary fees a National-Act stealth tax
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: national-should-front-up-to-students-on-loan-changes
-title: "National should front up to students on loan changes"
-date: 2012-03-13
-source-url: https://www.scoop.co.nz/stories/PA1203/S00166/national-should-front-up-to-students-on-loan-changes.htm
+title: National should front up to students on loan changes
+date: 2012-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00166/national-should-front-up-to-students-on-loan-changes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/03/13/national-should-front-up-to-students-on-loan-changes/index.html
+layout: layout.njk
 ---
 National should front up to students on loan changes
 ====================================================

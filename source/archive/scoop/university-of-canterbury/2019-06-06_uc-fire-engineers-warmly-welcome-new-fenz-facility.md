@@ -1,9 +1,13 @@
 ---
 slug: uc-fire-engineers-warmly-welcome-new-fenz-facility
-title: "UC fire engineers warmly welcome new FENZ facility"
-date: 2019-06-06
-source-url: https://www.scoop.co.nz/stories/ED1906/S00010/uc-fire-engineers-warmly-welcome-new-fenz-facility.htm
+title: UC fire engineers warmly welcome new FENZ facility
+date: 2019-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1906/S00010/uc-fire-engineers-warmly-welcome-new-fenz-facility.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/06/06/uc-fire-engineers-warmly-welcome-new-fenz-facility/index.html
+layout: layout.njk
 ---
 UC fire engineers warmly welcome new FENZ facility
 ==================================================

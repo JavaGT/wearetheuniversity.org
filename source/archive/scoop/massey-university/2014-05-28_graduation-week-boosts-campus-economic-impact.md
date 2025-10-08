@@ -1,9 +1,12 @@
 ---
 slug: graduation-week-boosts-campus-economic-impact
-title: "Graduation week boosts campus’ economic impact"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/ED1405/S00138/graduation-week-boosts-campus-economic-impact.htm
+title: Graduation week boosts campus’ economic impact
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00138/graduation-week-boosts-campus-economic-impact.htm
 author: massey-university
+permalink: /archive/2014/05/28/graduation-week-boosts-campus-economic-impact/index.html
+layout: layout.njk
 ---
 Graduation week boosts campus’ economic impact
 ==============================================

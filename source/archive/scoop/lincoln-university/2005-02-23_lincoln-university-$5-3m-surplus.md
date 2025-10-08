@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-$5-3m-surplus
-title: "Lincoln University $5.3m surplus"
-date: 2005-02-23
-source-url: https://www.scoop.co.nz/stories/ED0502/S00075/lincoln-university-53m-surplus.htm
+title: Lincoln University $5.3m surplus
+date: 2005-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00075/lincoln-university-53m-surplus.htm
 author: lincoln-university
+permalink: /archive/2005/02/23/lincoln-university-/index.html
+layout: layout.njk
 ---
 Lincoln University $5.3m surplus
 ================================

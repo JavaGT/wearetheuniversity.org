@@ -1,9 +1,11 @@
 ---
 slug: labour-spins-another-yarn
-title: "Labour Spins Another Yarn"
-date: 2006-09-12
+title: Labour Spins Another Yarn
+date: 2006-09-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0609/S00275/labour-spins-another-yarn.htm
 author: te-pati-maori
+permalink: /archive/2006/09/12/labour-spins-another-yarn/index.html
+layout: layout.njk
 ---
 Labour Spins Another Yarn
 =========================

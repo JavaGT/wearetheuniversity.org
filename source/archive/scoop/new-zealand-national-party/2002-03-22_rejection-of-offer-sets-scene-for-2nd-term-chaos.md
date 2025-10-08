@@ -1,9 +1,13 @@
 ---
 slug: rejection-of-offer-sets-scene-for-2nd-term-chaos
-title: "Rejection Of Offer Sets Scene For 2nd Term Chaos"
-date: 2002-03-22
-source-url: https://www.scoop.co.nz/stories/PA0203/S00428/rejection-of-offer-sets-scene-for-2nd-term-chaos.htm
+title: Rejection Of Offer Sets Scene For 2nd Term Chaos
+date: 2002-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00428/rejection-of-offer-sets-scene-for-2nd-term-chaos.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/03/22/rejection-of-offer-sets-scene-for-2nd-term-chaos/index.html
+layout: layout.njk
 ---
 Rejection Of Offer Sets Scene For 2nd Term Chaos
 ================================================

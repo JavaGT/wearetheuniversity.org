@@ -1,9 +1,12 @@
 ---
 slug: community-leader-will-be-greatly-missed
-title: "Community leader will be greatly missed"
-date: 2014-05-22
-source-url: https://www.scoop.co.nz/stories/PA1405/S00441/community-leader-will-be-greatly-missed.htm
+title: Community leader will be greatly missed
+date: 2014-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00441/community-leader-will-be-greatly-missed.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/22/community-leader-will-be-greatly-missed/index.html
+layout: layout.njk
 ---
 Community leader will be greatly missed
 =======================================

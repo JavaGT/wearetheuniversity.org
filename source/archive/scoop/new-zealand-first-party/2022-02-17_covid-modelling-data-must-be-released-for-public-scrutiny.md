@@ -1,9 +1,13 @@
 ---
 slug: covid-modelling-data-must-be-released-for-public-scrutiny
-title: "Covid Modelling Data Must Be Released For Public Scrutiny"
-date: 2022-02-17
-source-url: https://www.scoop.co.nz/stories/PA2202/S00116/covid-modelling-data-must-be-released-for-public-scrutiny.htm
+title: Covid Modelling Data Must Be Released For Public Scrutiny
+date: 2022-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00116/covid-modelling-data-must-be-released-for-public-scrutiny.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2022/02/17/covid-modelling-data-must-be-released-for-public-scrutiny/index.html
+layout: layout.njk
 ---
 Covid Modelling Data Must Be Released For Public Scrutiny
 =========================================================

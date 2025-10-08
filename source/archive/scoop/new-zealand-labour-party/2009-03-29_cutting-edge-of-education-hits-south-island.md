@@ -1,9 +1,12 @@
 ---
 slug: cutting-edge-of-education-hits-south-island
-title: "Cutting edge of education hits South Island"
-date: 2009-03-29
-source-url: https://www.scoop.co.nz/stories/PA0903/S00418/cutting-edge-of-education-hits-south-island.htm
+title: Cutting edge of education hits South Island
+date: 2009-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00418/cutting-edge-of-education-hits-south-island.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/29/cutting-edge-of-education-hits-south-island/index.html
+layout: layout.njk
 ---
 Cutting edge of education hits South Island
 ===========================================

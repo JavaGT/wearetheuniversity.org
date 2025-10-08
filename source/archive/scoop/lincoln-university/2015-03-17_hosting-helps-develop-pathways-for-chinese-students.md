@@ -1,9 +1,13 @@
 ---
 slug: hosting-helps-develop-pathways-for-chinese-students
-title: "Hosting helps develop pathways for Chinese students"
-date: 2015-03-17
-source-url: https://www.scoop.co.nz/stories/ED1503/S00072/hosting-helps-develop-pathways-for-chinese-students.htm
+title: Hosting helps develop pathways for Chinese students
+date: 2015-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00072/hosting-helps-develop-pathways-for-chinese-students.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/03/17/hosting-helps-develop-pathways-for-chinese-students/index.html
+layout: layout.njk
 ---
 Hosting helps develop pathways for Chinese students
 ===================================================

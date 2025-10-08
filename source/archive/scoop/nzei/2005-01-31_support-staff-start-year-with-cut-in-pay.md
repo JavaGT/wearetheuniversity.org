@@ -1,9 +1,12 @@
 ---
 slug: support-staff-start-year-with-cut-in-pay
-title: "Support Staff Start Year With Cut in Pay"
-date: 2005-01-31
-source-url: https://www.scoop.co.nz/stories/ED0501/S00066/support-staff-start-year-with-cut-in-pay.htm
+title: Support Staff Start Year With Cut in Pay
+date: 2005-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00066/support-staff-start-year-with-cut-in-pay.htm
 author: nzei
+permalink: /archive/2005/01/31/support-staff-start-year-with-cut-in-pay/index.html
+layout: layout.njk
 ---
 Support Staff Start Year With Cut in Pay
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: molecular-evolution-faster-in-the-tropics
-title: "Molecular Evolution Faster in the Tropics"
-date: 2006-05-02
-source-url: https://www.scoop.co.nz/stories/SC0605/S00006/molecular-evolution-faster-in-the-tropics.htm
+title: Molecular Evolution Faster in the Tropics
+date: 2006-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0605/S00006/molecular-evolution-faster-in-the-tropics.htm
 author: aut-university
+permalink: /archive/2006/05/02/molecular-evolution-faster-in-the-tropics/index.html
+layout: layout.njk
 ---
 Molecular Evolution Faster in the Tropics
 =========================================

@@ -1,11 +1,14 @@
 ---
-title: "Responding to New Zealand’s Early Career Researcher Crisis During the Pandemic"
+title: Responding to New Zealand’s Early Career Researcher Crisis During the Pandemic
 slug: responding-to-new-zealands-early-career-researcher-crisis
-date: 2020-09-08
+date: 2020-09-08T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: >-
+  /archive/2020/09/08/responding-to-new-zealands-early-career-researcher-crisis/index.html
+layout: layout.njk
 ---
 
 8 September 2020

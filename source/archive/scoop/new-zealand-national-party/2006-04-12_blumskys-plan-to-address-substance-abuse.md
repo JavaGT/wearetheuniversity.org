@@ -1,9 +1,12 @@
 ---
 slug: blumskys-plan-to-address-substance-abuse
-title: "Blumsky's plan to address substance abuse"
-date: 2006-04-12
-source-url: https://www.scoop.co.nz/stories/PA0604/S00230/blumskys-plan-to-address-substance-abuse.htm
+title: Blumsky's plan to address substance abuse
+date: 2006-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00230/blumskys-plan-to-address-substance-abuse.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/12/blumskys-plan-to-address-substance-abuse/index.html
+layout: layout.njk
 ---
 Blumsky's plan to address substance abuse
 =========================================

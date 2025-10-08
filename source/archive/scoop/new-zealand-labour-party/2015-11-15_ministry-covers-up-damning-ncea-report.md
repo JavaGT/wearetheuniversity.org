@@ -1,9 +1,12 @@
 ---
 slug: ministry-covers-up-damning-ncea-report
-title: "Ministry covers up damning NCEA report"
-date: 2015-11-15
-source-url: https://www.scoop.co.nz/stories/PA1511/S00269/ministry-covers-up-damning-ncea-report.htm
+title: Ministry covers up damning NCEA report
+date: 2015-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00269/ministry-covers-up-damning-ncea-report.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/15/ministry-covers-up-damning-ncea-report/index.html
+layout: layout.njk
 ---
 Ministry covers up damning NCEA report
 ======================================

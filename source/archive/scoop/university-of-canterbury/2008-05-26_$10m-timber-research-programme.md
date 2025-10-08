@@ -1,9 +1,12 @@
 ---
 slug: $10m-timber-research-programme
-title: "$10M Timber Research Programme"
-date: 2008-05-26
-source-url: https://www.scoop.co.nz/stories/ED0805/S00113/10m-timber-research-programme.htm
+title: $10M Timber Research Programme
+date: 2008-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00113/10m-timber-research-programme.htm
 author: university-of-canterbury
+permalink: /archive/2008/05/26/10m-timber-research-programme/index.html
+layout: layout.njk
 ---
 $10M Timber Research Programme
 ==============================

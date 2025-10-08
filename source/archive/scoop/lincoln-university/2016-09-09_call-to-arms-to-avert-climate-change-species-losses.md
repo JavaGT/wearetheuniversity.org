@@ -1,9 +1,13 @@
 ---
 slug: call-to-arms-to-avert-climate-change-species-losses
-title: "Call to arms to avert climate change species losses"
-date: 2016-09-09
-source-url: https://www.scoop.co.nz/stories/SC1609/S00034/call-to-arms-to-avert-climate-change-species-losses.htm
+title: Call to arms to avert climate change species losses
+date: 2016-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00034/call-to-arms-to-avert-climate-change-species-losses.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/09/09/call-to-arms-to-avert-climate-change-species-losses/index.html
+layout: layout.njk
 ---
 Call to arms to avert climate change species losses
 ===================================================

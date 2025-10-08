@@ -1,9 +1,12 @@
 ---
 slug: management-school-joins-un-backed-initiative
-title: "Management School joins UN-backed initiative"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/ED0804/S00020/management-school-joins-un-backed-initiative.htm
+title: Management School joins UN-backed initiative
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00020/management-school-joins-un-backed-initiative.htm
 author: waikato-university
+permalink: /archive/2008/04/09/management-school-joins-un-backed-initiative/index.html
+layout: layout.njk
 ---
 Management School joins UN-backed initiative
 ============================================

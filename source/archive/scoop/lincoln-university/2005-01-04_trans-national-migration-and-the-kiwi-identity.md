@@ -1,9 +1,12 @@
 ---
 slug: trans-national-migration-and-the-kiwi-identity
-title: "Trans-National Migration and the Kiwi Identity"
-date: 2005-01-04
-source-url: https://www.scoop.co.nz/stories/ED0501/S00001/trans-national-migration-and-the-kiwi-identity.htm
+title: Trans-National Migration and the Kiwi Identity
+date: 2005-01-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00001/trans-national-migration-and-the-kiwi-identity.htm
 author: lincoln-university
+permalink: /archive/2005/01/04/trans-national-migration-and-the-kiwi-identity/index.html
+layout: layout.njk
 ---
 Trans-National Migration and the Kiwi Identity
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: women-more-likely-to-defer-health-care-for-financial-reasons
-title: "Women more likely to defer health care for financial reasons"
-date: 2012-07-04
-source-url: https://www.scoop.co.nz/stories/GE1207/S00016/women-more-likely-to-defer-health-care-for-financial-reasons.htm
+title: Women more likely to defer health care for financial reasons
+date: 2012-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1207/S00016/women-more-likely-to-defer-health-care-for-financial-reasons.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/07/04/women-more-likely-to-defer-health-care-for-financial-reasons/index.html
+layout: layout.njk
 ---
 Women more likely to defer health care for financial reasons
 ============================================================

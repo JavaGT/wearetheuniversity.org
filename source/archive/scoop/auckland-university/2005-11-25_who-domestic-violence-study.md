@@ -1,9 +1,11 @@
 ---
 slug: who-domestic-violence-study
-title: "WHO Domestic Violence Study"
-date: 2005-11-25
+title: WHO Domestic Violence Study
+date: 2005-11-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0511/S00084/who-domestic-violence-study.htm
 author: auckland-university
+permalink: /archive/2005/11/25/who-domestic-violence-study/index.html
+layout: layout.njk
 ---
 WHO Domestic Violence Study
 ===========================

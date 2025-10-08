@@ -1,9 +1,12 @@
 ---
 slug: getting-rich-isnt-always-glorious
-title: "Getting rich isn’t always glorious"
-date: 2009-10-28
-source-url: https://www.scoop.co.nz/stories/ED0910/S00118/getting-rich-isnt-always-glorious.htm
+title: Getting rich isn’t always glorious
+date: 2009-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00118/getting-rich-isnt-always-glorious.htm
 author: university-of-waikato
+permalink: /archive/2009/10/28/getting-rich-isnt-always-glorious/index.html
+layout: layout.njk
 ---
 Getting rich isn’t always glorious
 ==================================

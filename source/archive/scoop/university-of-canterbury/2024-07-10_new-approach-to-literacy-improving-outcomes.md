@@ -1,9 +1,12 @@
 ---
 slug: new-approach-to-literacy-improving-outcomes
-title: "New Approach To Literacy Improving Outcomes"
-date: 2024-07-10
-source-url: https://www.scoop.co.nz/stories/ED2407/S00026/new-approach-to-literacy-improving-outcomes.htm
+title: New Approach To Literacy Improving Outcomes
+date: 2024-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2407/S00026/new-approach-to-literacy-improving-outcomes.htm
 author: university-of-canterbury
+permalink: /archive/2024/07/10/new-approach-to-literacy-improving-outcomes/index.html
+layout: layout.njk
 ---
 New Approach To Literacy Improving Outcomes
 ===========================================

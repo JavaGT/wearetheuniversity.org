@@ -1,9 +1,13 @@
 ---
 slug: act-leader-farewells-rural-mps-on-heartland-tour
-title: "ACT Leader farewells rural MPs on Heartland Tour"
-date: 1999-10-06
-source-url: https://www.scoop.co.nz/stories/PA9910/S00091/act-leader-farewells-rural-mps-on-heartland-tour.htm
+title: ACT Leader farewells rural MPs on Heartland Tour
+date: 1999-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00091/act-leader-farewells-rural-mps-on-heartland-tour.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/10/06/act-leader-farewells-rural-mps-on-heartland-tour/index.html
+layout: layout.njk
 ---
 ACT Leader farewells rural MPs on Heartland Tour
 ================================================

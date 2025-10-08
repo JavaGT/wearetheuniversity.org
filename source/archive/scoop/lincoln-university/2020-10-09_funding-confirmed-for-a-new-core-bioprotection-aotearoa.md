@@ -1,9 +1,13 @@
 ---
 slug: funding-confirmed-for-a-new-core-bioprotection-aotearoa
-title: "Funding Confirmed For A New CoRE – Bioprotection Aotearoa"
-date: 2020-10-09
-source-url: https://www.scoop.co.nz/stories/SC2010/S00019/funding-confirmed-for-a-new-core-bioprotection-aotearoa.htm
+title: Funding Confirmed For A New CoRE – Bioprotection Aotearoa
+date: 2020-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2010/S00019/funding-confirmed-for-a-new-core-bioprotection-aotearoa.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/10/09/funding-confirmed-for-a-new-core-bioprotection-aotearoa/index.html
+layout: layout.njk
 ---
 Funding Confirmed For A New CoRE – Bioprotection Aotearoa
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: media-plays-role-in-igniting-price-wars
-title: "Media plays role in igniting price wars"
-date: 2015-09-15
-source-url: https://www.scoop.co.nz/stories/BU1509/S00495/media-plays-role-in-igniting-price-wars.htm
+title: Media plays role in igniting price wars
+date: 2015-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1509/S00495/media-plays-role-in-igniting-price-wars.htm
 author: massey-university
+permalink: /archive/2015/09/15/media-plays-role-in-igniting-price-wars/index.html
+layout: layout.njk
 ---
 Media plays role in igniting price wars
 =======================================

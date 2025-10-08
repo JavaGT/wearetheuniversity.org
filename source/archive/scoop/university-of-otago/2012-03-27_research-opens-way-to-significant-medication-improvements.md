@@ -1,9 +1,13 @@
 ---
 slug: research-opens-way-to-significant-medication-improvements
-title: "Research opens way to significant medication improvements"
-date: 2012-03-27
-source-url: https://www.scoop.co.nz/stories/GE1203/S00131/research-opens-way-to-significant-medication-improvements.htm
+title: Research opens way to significant medication improvements
+date: 2012-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1203/S00131/research-opens-way-to-significant-medication-improvements.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/03/27/research-opens-way-to-significant-medication-improvements/index.html
+layout: layout.njk
 ---
 Research opens way to significant medication improvements
 =========================================================

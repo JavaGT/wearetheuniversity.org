@@ -1,9 +1,13 @@
 ---
 slug: nz-universities-rank-in-worlds-top-100-in-subject-rankings
-title: "NZ universities rank in world’s top 100 in subject rankings"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/ED1504/S00077/nz-universities-rank-in-worlds-top-100-in-subject-rankings.htm
+title: NZ universities rank in world’s top 100 in subject rankings
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00077/nz-universities-rank-in-worlds-top-100-in-subject-rankings.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/04/29/nz-universities-rank-in-worlds-top-100-in-subject-rankings/index.html
+layout: layout.njk
 ---
 NZ universities rank in world’s top 100 in subject rankings
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: strong-support-from-medical-community-for-healthy-homes-bill
-title: "Strong support from medical community for Healthy Homes Bill"
-date: 2017-07-25
-source-url: https://www.scoop.co.nz/stories/PA1707/S00359/strong-support-from-medical-community-for-healthy-homes-bill.htm
+title: Strong support from medical community for Healthy Homes Bill
+date: 2017-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00359/strong-support-from-medical-community-for-healthy-homes-bill.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/07/25/strong-support-from-medical-community-for-healthy-homes-bill/index.html
+layout: layout.njk
 ---
 Strong support from medical community for Healthy Homes Bill
 ============================================================

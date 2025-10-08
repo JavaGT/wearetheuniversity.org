@@ -1,9 +1,11 @@
 ---
 slug: keeping-lawyers-out-of-sport
-title: "Keeping Lawyers Out Of Sport"
-date: 2000-11-10
+title: Keeping Lawyers Out Of Sport
+date: 2000-11-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0011/S00197/keeping-lawyers-out-of-sport.htm
 author: act-new-zealand
+permalink: /archive/2000/11/10/keeping-lawyers-out-of-sport/index.html
+layout: layout.njk
 ---
 Keeping Lawyers Out Of Sport
 ============================

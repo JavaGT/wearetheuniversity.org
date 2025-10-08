@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-winter-ills-ailing-hospital
-title: "Heather Roy's Diary: Winter Ills, Ailing Hospital"
-date: 2006-08-11
-source-url: https://www.scoop.co.nz/stories/PA0608/S00194/heather-roys-diary-winter-ills-ailing-hospital.htm
+title: 'Heather Roy''s Diary: Winter Ills, Ailing Hospital'
+date: 2006-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00194/heather-roys-diary-winter-ills-ailing-hospital.htm
 author: act-new-zealand
+permalink: /archive/2006/08/11/heather-roys-diary-winter-ills-ailing-hospital/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Winter Ills, Ailing Hospital
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: museums-matter-of-discussion-for-lectures
-title: "Museums matter of discussion for Lectures"
-date: 2010-10-29
-source-url: https://www.scoop.co.nz/stories/ED1010/S00103/museums-matter-of-discussion-for-lectures.htm
+title: Museums matter of discussion for Lectures
+date: 2010-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00103/museums-matter-of-discussion-for-lectures.htm
 author: university-of-canterbury
+permalink: /archive/2010/10/29/museums-matter-of-discussion-for-lectures/index.html
+layout: layout.njk
 ---
 Museums matter of discussion for Lectures
 =========================================

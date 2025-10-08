@@ -1,9 +1,11 @@
 ---
 slug: turbine-powers-up-for-2006
-title: "Turbine powers up for 2006"
-date: 2006-08-07
+title: Turbine powers up for 2006
+date: 2006-08-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0608/S00071/turbine-powers-up-for-2006.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/07/turbine-powers-up-for-2006/index.html
+layout: layout.njk
 ---
 Turbine powers up for 2006
 ==========================

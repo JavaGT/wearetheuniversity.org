@@ -1,9 +1,12 @@
 ---
 slug: super-prices-at-supermarkets-need-explaining
-title: "Super prices at supermarkets need explaining"
-date: 2014-03-26
-source-url: https://www.scoop.co.nz/stories/PA1403/S00502/super-prices-at-supermarkets-need-explaining.htm
+title: Super prices at supermarkets need explaining
+date: 2014-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00502/super-prices-at-supermarkets-need-explaining.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/26/super-prices-at-supermarkets-need-explaining/index.html
+layout: layout.njk
 ---
 Super prices at supermarkets need explaining
 ============================================

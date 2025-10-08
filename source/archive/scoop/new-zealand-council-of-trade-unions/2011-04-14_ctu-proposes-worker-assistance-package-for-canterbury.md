@@ -1,9 +1,13 @@
 ---
 slug: ctu-proposes-worker-assistance-package-for-canterbury
-title: "CTU Proposes Worker Assistance Package for Canterbury"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/PO1104/S00189/ctu-proposes-worker-assistance-package-for-canterbury.htm
+title: CTU Proposes Worker Assistance Package for Canterbury
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00189/ctu-proposes-worker-assistance-package-for-canterbury.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/04/14/ctu-proposes-worker-assistance-package-for-canterbury/index.html
+layout: layout.njk
 ---
 CTU Proposes Worker Assistance Package for Canterbury
 =====================================================

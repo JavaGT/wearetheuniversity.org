@@ -1,9 +1,12 @@
 ---
 slug: appointment-of-judge-of-the-high-court
-title: "Appointment of Judge of the High Court"
-date: 2006-06-21
-source-url: https://www.scoop.co.nz/stories/PA0606/S00425/appointment-of-judge-of-the-high-court.htm
+title: Appointment of Judge of the High Court
+date: 2006-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00425/appointment-of-judge-of-the-high-court.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/21/appointment-of-judge-of-the-high-court/index.html
+layout: layout.njk
 ---
 Appointment of Judge of the High Court
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: food-development-facility-opportunity-for-entrepreneurs
-title: "Food development facility opportunity for entrepreneurs"
-date: 2016-03-31
-source-url: https://www.scoop.co.nz/stories/BU1603/S00936/food-development-facility-opportunity-for-entrepreneurs.htm
+title: Food development facility opportunity for entrepreneurs
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1603/S00936/food-development-facility-opportunity-for-entrepreneurs.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/03/31/food-development-facility-opportunity-for-entrepreneurs/index.html
+layout: layout.njk
 ---
 Food development facility opportunity for entrepreneurs
 =======================================================

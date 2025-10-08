@@ -1,9 +1,13 @@
 ---
 slug: newman-signing-to-kyoto-protocol-will-be-madness
-title: "Newman: Signing To Kyoto Protocol Will Be Madness"
-date: 2002-01-25
-source-url: https://www.scoop.co.nz/stories/PA0201/S00161/newman-signing-to-kyoto-protocol-will-be-madness.htm
+title: 'Newman: Signing To Kyoto Protocol Will Be Madness'
+date: 2002-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00161/newman-signing-to-kyoto-protocol-will-be-madness.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/01/25/newman-signing-to-kyoto-protocol-will-be-madness/index.html
+layout: layout.njk
 ---
 Newman: Signing To Kyoto Protocol Will Be Madness
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: eastern-highway-will-never-fly
-title: "Eastern Highway will never fly"
-date: 2004-03-09
-source-url: https://www.scoop.co.nz/stories/PA0403/S00203/eastern-highway-will-never-fly.htm
+title: Eastern Highway will never fly
+date: 2004-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00203/eastern-highway-will-never-fly.htm
 author: green-party
+permalink: /archive/2004/03/09/eastern-highway-will-never-fly/index.html
+layout: layout.njk
 ---
 Eastern Highway will never fly
 ==============================

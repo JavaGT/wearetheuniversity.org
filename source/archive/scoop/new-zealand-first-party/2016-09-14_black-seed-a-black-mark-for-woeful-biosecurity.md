@@ -1,9 +1,12 @@
 ---
 slug: black-seed-a-black-mark-for-woeful-biosecurity
-title: "Black Seed a Black Mark for Woeful Biosecurity"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/PA1609/S00244/black-seed-a-black-mark-for-woeful-biosecurity.htm
+title: Black Seed a Black Mark for Woeful Biosecurity
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00244/black-seed-a-black-mark-for-woeful-biosecurity.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/14/black-seed-a-black-mark-for-woeful-biosecurity/index.html
+layout: layout.njk
 ---
 Black Seed a Black Mark for Woeful Biosecurity
 ==============================================

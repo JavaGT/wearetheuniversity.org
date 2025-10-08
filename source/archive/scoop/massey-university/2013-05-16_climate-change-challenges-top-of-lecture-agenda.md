@@ -1,9 +1,12 @@
 ---
 slug: climate-change-challenges-top-of-lecture-agenda
-title: "Climate change challenges top of lecture agenda"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/SC1305/S00056/climate-change-challenges-top-of-lecture-agenda.htm
+title: Climate change challenges top of lecture agenda
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00056/climate-change-challenges-top-of-lecture-agenda.htm
 author: massey-university
+permalink: /archive/2013/05/16/climate-change-challenges-top-of-lecture-agenda/index.html
+layout: layout.njk
 ---
 Climate change challenges top of lecture agenda
 ===============================================

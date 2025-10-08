@@ -1,9 +1,13 @@
 ---
 slug: amcham-boardroom-hosts-unique-lessons-in-governance
-title: "AmCham boardroom hosts unique lessons in governance"
-date: 2014-08-05
-source-url: https://www.scoop.co.nz/stories/BU1408/S00169/amcham-boardroom-hosts-unique-lessons-in-governance.htm
+title: AmCham boardroom hosts unique lessons in governance
+date: 2014-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1408/S00169/amcham-boardroom-hosts-unique-lessons-in-governance.htm
 author: aut-university
+permalink: >-
+  /archive/2014/08/05/amcham-boardroom-hosts-unique-lessons-in-governance/index.html
+layout: layout.njk
 ---
 AmCham boardroom hosts unique lessons in governance
 ===================================================

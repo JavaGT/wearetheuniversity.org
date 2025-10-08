@@ -1,9 +1,12 @@
 ---
 slug: government-matches-otagos-$25m-research-programme
-title: "Government Matches Otago's $25M Research Programme"
-date: 2003-11-24
-source-url: https://www.scoop.co.nz/stories/ED0311/S00077/government-matches-otagos-25m-research-programme.htm
+title: Government Matches Otago's $25M Research Programme
+date: 2003-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00077/government-matches-otagos-25m-research-programme.htm
 author: university-of-otago
+permalink: /archive/2003/11/24/government-matches-otagos-/index.html
+layout: layout.njk
 ---
 Government Matches Otago's $25M Research Programme
 ==================================================

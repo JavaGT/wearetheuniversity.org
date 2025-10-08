@@ -1,9 +1,12 @@
 ---
 slug: an-honour-for-scientific-study
-title: "An honour for scientific study"
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/ED1004/S00025/an-honour-for-scientific-study.htm
+title: An honour for scientific study
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00025/an-honour-for-scientific-study.htm
 author: university-of-waikato
+permalink: /archive/2010/04/14/an-honour-for-scientific-study/index.html
+layout: layout.njk
 ---
 An honour for scientific study
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: district-council-prosecution-should-not-halt-wider-inquiry
-title: "District Council prosecution should not halt wider inquiry"
-date: 2016-11-18
-source-url: https://www.scoop.co.nz/stories/PA1611/S00343/district-council-prosecution-should-not-halt-wider-inquiry.htm
+title: District Council prosecution should not halt wider inquiry
+date: 2016-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00343/district-council-prosecution-should-not-halt-wider-inquiry.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/11/18/district-council-prosecution-should-not-halt-wider-inquiry/index.html
+layout: layout.njk
 ---
 District Council prosecution should not halt wider inquiry
 ==========================================================

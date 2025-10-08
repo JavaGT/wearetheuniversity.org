@@ -1,9 +1,12 @@
 ---
 slug: alarm-at-speed-of-school-journal-privatisation
-title: "Alarm at speed of School Journal privatisation"
-date: 2013-09-23
-source-url: https://www.scoop.co.nz/stories/ED1309/S00135/alarm-at-speed-of-school-journal-privatisation.htm
+title: Alarm at speed of School Journal privatisation
+date: 2013-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00135/alarm-at-speed-of-school-journal-privatisation.htm
 author: nzei
+permalink: /archive/2013/09/23/alarm-at-speed-of-school-journal-privatisation/index.html
+layout: layout.njk
 ---
 Alarm at speed of School Journal privatisation
 ==============================================

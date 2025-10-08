@@ -1,9 +1,12 @@
 ---
 slug: students-sign-off-on-orientadium
-title: "Students Sign Off on Orientadium"
-date: 2011-12-15
-source-url: https://www.scoop.co.nz/stories/ED1112/S00082/students-sign-off-on-orientadium.htm
+title: Students Sign Off on Orientadium
+date: 2011-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00082/students-sign-off-on-orientadium.htm
 author: ousa
+permalink: /archive/2011/12/15/students-sign-off-on-orientadium/index.html
+layout: layout.njk
 ---
 Students Sign Off on Orientadium
 ================================

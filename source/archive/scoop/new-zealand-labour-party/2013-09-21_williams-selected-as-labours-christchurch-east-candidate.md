@@ -1,9 +1,13 @@
 ---
 slug: williams-selected-as-labours-christchurch-east-candidate
-title: "Williams selected as Labour’s  Christchurch East Candidate"
-date: 2013-09-21
-source-url: https://www.scoop.co.nz/stories/PO1309/S00241/williams-selected-as-labours-christchurch-east-candidate.htm
+title: Williams selected as Labour’s  Christchurch East Candidate
+date: 2013-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00241/williams-selected-as-labours-christchurch-east-candidate.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/09/21/williams-selected-as-labours-christchurch-east-candidate/index.html
+layout: layout.njk
 ---
 Williams selected as Labour’s Christchurch East Candidate
 =========================================================

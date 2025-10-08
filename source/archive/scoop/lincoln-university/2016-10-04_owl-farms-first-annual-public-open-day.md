@@ -1,9 +1,12 @@
 ---
 slug: owl-farms-first-annual-public-open-day
-title: "Owl Farm’s first Annual Public Open Day"
-date: 2016-10-04
-source-url: https://www.scoop.co.nz/stories/BU1610/S00065/owl-farms-first-annual-public-open-day.htm
+title: Owl Farm’s first Annual Public Open Day
+date: 2016-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1610/S00065/owl-farms-first-annual-public-open-day.htm
 author: lincoln-university
+permalink: /archive/2016/10/04/owl-farms-first-annual-public-open-day/index.html
+layout: layout.njk
 ---
 Owl Farm’s first Annual Public Open Day
 =======================================

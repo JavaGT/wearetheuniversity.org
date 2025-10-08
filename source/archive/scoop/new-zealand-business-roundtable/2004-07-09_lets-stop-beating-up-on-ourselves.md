@@ -1,9 +1,12 @@
 ---
 slug: lets-stop-beating-up-on-ourselves
-title: "Let's Stop Beating Up On Ourselves"
-date: 2004-07-09
-source-url: https://www.scoop.co.nz/stories/BU0407/S00097/lets-stop-beating-up-on-ourselves.htm
+title: Let's Stop Beating Up On Ourselves
+date: 2004-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0407/S00097/lets-stop-beating-up-on-ourselves.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/07/09/lets-stop-beating-up-on-ourselves/index.html
+layout: layout.njk
 ---
 Let's Stop Beating Up On Ourselves
 ==================================

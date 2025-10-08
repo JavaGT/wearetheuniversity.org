@@ -1,9 +1,13 @@
 ---
 slug: young-nationals-call-for-end-to-gainsfords-games
-title: "Young Nationals call for End to Gainsford’s Games"
-date: 2010-09-29
-source-url: https://www.scoop.co.nz/stories/PO1009/S00353/young-nationals-call-for-end-to-gainsfords-games.htm
+title: Young Nationals call for End to Gainsford’s Games
+date: 2010-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00353/young-nationals-call-for-end-to-gainsfords-games.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2010/09/29/young-nationals-call-for-end-to-gainsfords-games/index.html
+layout: layout.njk
 ---
 Young Nationals call for End to Gainsford’s Games
 =================================================

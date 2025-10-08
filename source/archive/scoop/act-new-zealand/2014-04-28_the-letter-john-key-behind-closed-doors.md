@@ -1,9 +1,12 @@
 ---
 slug: the-letter-john-key-behind-closed-doors
-title: "The Letter: John Key behind closed doors"
-date: 2014-04-28
-source-url: https://www.scoop.co.nz/stories/PO1404/S00403/the-letter-john-key-behind-closed-doors.htm
+title: 'The Letter: John Key behind closed doors'
+date: 2014-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00403/the-letter-john-key-behind-closed-doors.htm
 author: act-new-zealand
+permalink: /archive/2014/04/28/the-letter-john-key-behind-closed-doors/index.html
+layout: layout.njk
 ---
 The Letter: John Key behind closed doors
 ========================================

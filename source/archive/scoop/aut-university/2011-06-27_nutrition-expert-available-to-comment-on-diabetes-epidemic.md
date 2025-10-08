@@ -1,9 +1,13 @@
 ---
 slug: nutrition-expert-available-to-comment-on-diabetes-epidemic
-title: "Nutrition Expert Available to Comment on Diabetes Epidemic"
-date: 2011-06-27
-source-url: https://www.scoop.co.nz/stories/ED1106/S00107/nutrition-expert-available-to-comment-on-diabetes-epidemic.htm
+title: Nutrition Expert Available to Comment on Diabetes Epidemic
+date: 2011-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00107/nutrition-expert-available-to-comment-on-diabetes-epidemic.htm
 author: aut-university
+permalink: >-
+  /archive/2011/06/27/nutrition-expert-available-to-comment-on-diabetes-epidemic/index.html
+layout: layout.njk
 ---
 Nutrition Expert Available to Comment on Diabetes Epidemic
 ==========================================================

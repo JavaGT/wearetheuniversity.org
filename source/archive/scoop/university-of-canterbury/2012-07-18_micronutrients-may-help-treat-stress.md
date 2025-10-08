@@ -1,9 +1,12 @@
 ---
 slug: micronutrients-may-help-treat-stress
-title: "Micronutrients may help treat stress"
-date: 2012-07-18
-source-url: https://www.scoop.co.nz/stories/SC1207/S00031/micronutrients-may-help-treat-stress.htm
+title: Micronutrients may help treat stress
+date: 2012-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1207/S00031/micronutrients-may-help-treat-stress.htm
 author: university-of-canterbury
+permalink: /archive/2012/07/18/micronutrients-may-help-treat-stress/index.html
+layout: layout.njk
 ---
 Micronutrients may help treat stress
 ====================================

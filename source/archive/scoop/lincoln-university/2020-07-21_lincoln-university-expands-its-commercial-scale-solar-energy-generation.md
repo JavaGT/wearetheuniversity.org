@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-expands-its-commercial-scale-solar-energy-generation
-title: "Lincoln University Expands Its Commercial-scale Solar Energy Generation"
-date: 2020-07-21
-source-url: https://www.scoop.co.nz/stories/ED2007/S00023/lincoln-university-expands-its-commercial-scale-solar-energy-generation.htm
+title: Lincoln University Expands Its Commercial-scale Solar Energy Generation
+date: 2020-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00023/lincoln-university-expands-its-commercial-scale-solar-energy-generation.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/07/21/lincoln-university-expands-its-commercial-scale-solar-energy-generation/index.html
+layout: layout.njk
 ---
 Lincoln University Expands Its Commercial-scale Solar Energy Generation
 =======================================================================

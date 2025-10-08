@@ -1,9 +1,13 @@
 ---
 slug: labour-promises-south-canterbury-finance-inquiry
-title: "Labour promises South Canterbury Finance inquiry"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/PA1111/S00480/labour-promises-south-canterbury-finance-inquiry.htm
+title: Labour promises South Canterbury Finance inquiry
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00480/labour-promises-south-canterbury-finance-inquiry.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/11/24/labour-promises-south-canterbury-finance-inquiry/index.html
+layout: layout.njk
 ---
 Labour promises South Canterbury Finance inquiry
 ================================================

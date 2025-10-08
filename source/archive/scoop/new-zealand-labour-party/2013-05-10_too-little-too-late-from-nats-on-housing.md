@@ -1,9 +1,12 @@
 ---
 slug: too-little-too-late-from-nats-on-housing
-title: "Too little, too late from Nats on housing"
-date: 2013-05-10
-source-url: https://www.scoop.co.nz/stories/PA1305/S00173/too-little-too-late-from-nats-on-housing.htm
+title: Too little, too late from Nats on housing
+date: 2013-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00173/too-little-too-late-from-nats-on-housing.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/10/too-little-too-late-from-nats-on-housing/index.html
+layout: layout.njk
 ---
 Too little, too late from Nats on housing
 =========================================

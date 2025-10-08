@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-83
-title: "Maxim Institute - real issues - No. 83"
-date: 2003-10-03
-source-url: https://www.scoop.co.nz/stories/PO0310/S00017/maxim-institute-real-issues-no-83.htm
+title: Maxim Institute - real issues - No. 83
+date: 2003-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0310/S00017/maxim-institute-real-issues-no-83.htm
 author: maxim-institute
+permalink: /archive/2003/10/03/maxim-institute-real-issues-no-83/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 83
 ======================================

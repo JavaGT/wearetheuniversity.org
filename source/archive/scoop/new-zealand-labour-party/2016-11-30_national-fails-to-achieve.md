@@ -1,9 +1,11 @@
 ---
 slug: national-fails-to-achieve
-title: "National: Fails to achieve"
-date: 2016-11-30
+title: 'National: Fails to achieve'
+date: 2016-11-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1611/S00567/national-fails-to-achieve.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/30/national-fails-to-achieve/index.html
+layout: layout.njk
 ---
 National: Fails to achieve
 ==========================

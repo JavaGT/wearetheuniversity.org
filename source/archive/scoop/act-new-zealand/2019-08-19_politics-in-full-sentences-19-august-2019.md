@@ -1,9 +1,12 @@
 ---
 slug: politics-in-full-sentences-19-august-2019
-title: "Politics in Full Sentences – 19 August 2019"
-date: 2019-08-19
-source-url: https://www.scoop.co.nz/stories/PO1908/S00249/politics-in-full-sentences-19-august-2019.htm
+title: Politics in Full Sentences – 19 August 2019
+date: 2019-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00249/politics-in-full-sentences-19-august-2019.htm
 author: act-new-zealand
+permalink: /archive/2019/08/19/politics-in-full-sentences-19-august-2019/index.html
+layout: layout.njk
 ---
 Politics in Full Sentences – 19 August 2019
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: phil-kawana-returns-to-his-first-love-poetry
-title: "Phil Kawana Returns to His First Love – Poetry"
-date: 2005-11-14
-source-url: https://www.scoop.co.nz/stories/CU0511/S00118/phil-kawana-returns-to-his-first-love-poetry.htm
+title: Phil Kawana Returns to His First Love – Poetry
+date: 2005-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0511/S00118/phil-kawana-returns-to-his-first-love-poetry.htm
 author: auckland-university-press
+permalink: /archive/2005/11/14/phil-kawana-returns-to-his-first-love-poetry/index.html
+layout: layout.njk
 ---
 Phil Kawana Returns to His First Love – Poetry
 ==============================================

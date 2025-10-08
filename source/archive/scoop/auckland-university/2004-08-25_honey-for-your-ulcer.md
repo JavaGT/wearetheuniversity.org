@@ -1,9 +1,11 @@
 ---
 slug: honey-for-your-ulcer
-title: "Honey For Your Ulcer"
-date: 2004-08-25
+title: Honey For Your Ulcer
+date: 2004-08-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0408/S00096/honey-for-your-ulcer.htm
 author: auckland-university
+permalink: /archive/2004/08/25/honey-for-your-ulcer/index.html
+layout: layout.njk
 ---
 Honey For Your Ulcer
 ====================

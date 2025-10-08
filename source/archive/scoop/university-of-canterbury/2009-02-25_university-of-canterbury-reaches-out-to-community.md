@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-reaches-out-to-community
-title: "University of Canterbury reaches out to community"
-date: 2009-02-25
-source-url: https://www.scoop.co.nz/stories/ED0902/S00092/university-of-canterbury-reaches-out-to-community.htm
+title: University of Canterbury reaches out to community
+date: 2009-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00092/university-of-canterbury-reaches-out-to-community.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2009/02/25/university-of-canterbury-reaches-out-to-community/index.html
+layout: layout.njk
 ---
 University of Canterbury reaches out to community
 =================================================

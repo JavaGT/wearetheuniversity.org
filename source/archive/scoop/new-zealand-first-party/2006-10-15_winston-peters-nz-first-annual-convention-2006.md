@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-nz-first-annual-convention-2006
-title: "Winston Peters NZ First Annual Convention 2006"
-date: 2006-10-15
-source-url: https://www.scoop.co.nz/stories/PA0610/S00258/winston-peters-nz-first-annual-convention-2006.htm
+title: Winston Peters NZ First Annual Convention 2006
+date: 2006-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00258/winston-peters-nz-first-annual-convention-2006.htm
 author: new-zealand-first-party
+permalink: /archive/2006/10/15/winston-peters-nz-first-annual-convention-2006/index.html
+layout: layout.njk
 ---
 Winston Peters NZ First Annual Convention 2006
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: housing-new-zealand-needs-to-ensure-natural-justice
-title: "Housing New Zealand Needs to ensure natural justice"
-date: 2011-01-04
-source-url: https://www.scoop.co.nz/stories/PA1101/S00006/housing-new-zealand-needs-to-ensure-natural-justice.htm
+title: Housing New Zealand Needs to ensure natural justice
+date: 2011-01-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00006/housing-new-zealand-needs-to-ensure-natural-justice.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/01/04/housing-new-zealand-needs-to-ensure-natural-justice/index.html
+layout: layout.njk
 ---
 Housing New Zealand Needs to ensure natural justice
 ===================================================

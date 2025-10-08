@@ -1,9 +1,12 @@
 ---
 slug: youth-drug-court-pilot-needs-reviewed
-title: "Youth Drug Court pilot needs reviewed"
-date: 2003-10-02
-source-url: https://www.scoop.co.nz/stories/PA0310/S00028/youth-drug-court-pilot-needs-reviewed.htm
+title: Youth Drug Court pilot needs reviewed
+date: 2003-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00028/youth-drug-court-pilot-needs-reviewed.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/02/youth-drug-court-pilot-needs-reviewed/index.html
+layout: layout.njk
 ---
 Youth Drug Court pilot needs reviewed
 =====================================

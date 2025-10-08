@@ -1,9 +1,12 @@
 ---
 slug: immigration-minister-says-visa-scam-okay
-title: "Immigration Minister Says Visa Scam Okay"
-date: 2015-11-04
-source-url: https://www.scoop.co.nz/stories/PA1511/S00060/immigration-minister-says-visa-scam-okay.htm
+title: Immigration Minister Says Visa Scam Okay
+date: 2015-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00060/immigration-minister-says-visa-scam-okay.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/04/immigration-minister-says-visa-scam-okay/index.html
+layout: layout.njk
 ---
 Immigration Minister Says Visa Scam Okay
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: test-to-stay-and-free-n95-masks-needed-in-schools
-title: "Test To Stay And Free N95 Masks Needed In Schools"
-date: 2022-03-16
-source-url: https://www.scoop.co.nz/stories/PA2203/S00125/test-to-stay-and-free-n95-masks-needed-in-schools.htm
+title: Test To Stay And Free N95 Masks Needed In Schools
+date: 2022-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00125/test-to-stay-and-free-n95-masks-needed-in-schools.htm
 author: green-party
+permalink: >-
+  /archive/2022/03/16/test-to-stay-and-free-n95-masks-needed-in-schools/index.html
+layout: layout.njk
 ---
 Test To Stay And Free N95 Masks Needed In Schools
 =================================================

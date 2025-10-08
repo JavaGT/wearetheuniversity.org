@@ -1,9 +1,13 @@
 ---
 slug: the-future-of-work-labour-leader-andrew-little-speech
-title: "The Future of Work - Labour Leader Andrew Little Speech"
-date: 2014-12-01
-source-url: https://www.scoop.co.nz/stories/PA1412/S00002/the-future-of-work-labour-leader-andrew-little-speech.htm
+title: The Future of Work - Labour Leader Andrew Little Speech
+date: 2014-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00002/the-future-of-work-labour-leader-andrew-little-speech.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/12/01/the-future-of-work-labour-leader-andrew-little-speech/index.html
+layout: layout.njk
 ---
 The Future of Work - Labour Leader Andrew Little Speech
 =======================================================

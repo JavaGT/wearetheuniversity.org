@@ -1,9 +1,12 @@
 ---
 slug: spirituality-on-the-psychology-map
-title: "Spirituality on the psychology map"
-date: 2015-08-28
-source-url: https://www.scoop.co.nz/stories/SC1508/S00053/spirituality-on-the-psychology-map.htm
+title: Spirituality on the psychology map
+date: 2015-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1508/S00053/spirituality-on-the-psychology-map.htm
 author: massey-university
+permalink: /archive/2015/08/28/spirituality-on-the-psychology-map/index.html
+layout: layout.njk
 ---
 Spirituality on the psychology map
 ==================================

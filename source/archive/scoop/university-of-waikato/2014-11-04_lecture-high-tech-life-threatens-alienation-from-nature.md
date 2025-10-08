@@ -1,9 +1,13 @@
 ---
 slug: lecture-high-tech-life-threatens-alienation-from-nature
-title: "Lecture: High-tech life threatens alienation from nature"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/ED1411/S00018/lecture-high-tech-life-threatens-alienation-from-nature.htm
+title: 'Lecture: High-tech life threatens alienation from nature'
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00018/lecture-high-tech-life-threatens-alienation-from-nature.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/11/04/lecture-high-tech-life-threatens-alienation-from-nature/index.html
+layout: layout.njk
 ---
 Lecture: High-tech life threatens alienation from nature
 ========================================================

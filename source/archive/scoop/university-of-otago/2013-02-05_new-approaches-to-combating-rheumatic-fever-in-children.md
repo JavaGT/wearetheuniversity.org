@@ -1,9 +1,13 @@
 ---
 slug: new-approaches-to-combating-rheumatic-fever-in-children
-title: "New approaches to combating rheumatic fever in children"
-date: 2013-02-05
-source-url: https://www.scoop.co.nz/stories/SC1302/S00020/new-approaches-to-combating-rheumatic-fever-in-children.htm
+title: New approaches to combating rheumatic fever in children
+date: 2013-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1302/S00020/new-approaches-to-combating-rheumatic-fever-in-children.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/02/05/new-approaches-to-combating-rheumatic-fever-in-children/index.html
+layout: layout.njk
 ---
 New approaches to combating rheumatic fever in children
 =======================================================

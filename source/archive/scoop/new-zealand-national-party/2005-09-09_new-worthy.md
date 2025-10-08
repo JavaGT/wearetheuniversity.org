@@ -1,9 +1,11 @@
 ---
 slug: new-worthy
-title: "New Worthy"
-date: 2005-09-09
+title: New Worthy
+date: 2005-09-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00235/new-worthy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/09/new-worthy/index.html
+layout: layout.njk
 ---
 New Worthy
 ==========

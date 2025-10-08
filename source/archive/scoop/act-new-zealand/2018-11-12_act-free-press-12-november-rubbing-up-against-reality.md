@@ -1,9 +1,13 @@
 ---
 slug: act-free-press-12-november-rubbing-up-against-reality
-title: "ACT: Free Press, 12 November - Rubbing Up Against Reality"
-date: 2018-11-12
-source-url: https://www.scoop.co.nz/stories/PO1811/S00135/act-free-press-12-november-rubbing-up-against-reality.htm
+title: 'ACT: Free Press, 12 November - Rubbing Up Against Reality'
+date: 2018-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1811/S00135/act-free-press-12-november-rubbing-up-against-reality.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/11/12/act-free-press-12-november-rubbing-up-against-reality/index.html
+layout: layout.njk
 ---
 ACT: Free Press, 12 November - Rubbing Up Against Reality
 =========================================================

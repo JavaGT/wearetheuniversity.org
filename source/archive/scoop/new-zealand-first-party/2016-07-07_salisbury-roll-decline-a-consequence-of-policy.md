@@ -1,9 +1,12 @@
 ---
 slug: salisbury-roll-decline-a-consequence-of-policy
-title: "Salisbury Roll Decline A Consequence Of Policy"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/PA1607/S00132/salisbury-roll-decline-a-consequence-of-policy.htm
+title: Salisbury Roll Decline A Consequence Of Policy
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00132/salisbury-roll-decline-a-consequence-of-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/07/salisbury-roll-decline-a-consequence-of-policy/index.html
+layout: layout.njk
 ---
 Salisbury Roll Decline A Consequence Of Policy
 ==============================================

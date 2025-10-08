@@ -1,9 +1,12 @@
 ---
 slug: principal-māori-academic-appointed
-title: "Principal Māori academic appointed"
-date: 2015-06-19
-source-url: https://www.scoop.co.nz/stories/ED1506/S00097/principal-maori-academic-appointed.htm
+title: Principal Māori academic appointed
+date: 2015-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00097/principal-maori-academic-appointed.htm
 author: lincoln-university
+permalink: /archive/2015/06/19/principal-m/index.html
+layout: layout.njk
 ---
 Principal Māori academic appointed
 ==================================

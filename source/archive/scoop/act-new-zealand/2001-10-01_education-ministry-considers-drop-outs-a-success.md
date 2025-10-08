@@ -1,9 +1,13 @@
 ---
 slug: education-ministry-considers-drop-outs-a-success
-title: "Education Ministry Considers Drop Outs A 'Success'"
-date: 2001-10-01
-source-url: https://www.scoop.co.nz/stories/PA0110/S00011/education-ministry-considers-drop-outs-a-success.htm
+title: Education Ministry Considers Drop Outs A 'Success'
+date: 2001-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00011/education-ministry-considers-drop-outs-a-success.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/10/01/education-ministry-considers-drop-outs-a-success/index.html
+layout: layout.njk
 ---
 Education Ministry Considers Drop Outs A 'Success'
 ==================================================

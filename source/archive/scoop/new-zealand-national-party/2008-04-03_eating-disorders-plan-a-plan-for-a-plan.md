@@ -1,9 +1,12 @@
 ---
 slug: eating-disorders-plan-a-plan-for-a-plan
-title: "Eating Disorders Plan – a plan for a plan"
-date: 2008-04-03
-source-url: https://www.scoop.co.nz/stories/PA0804/S00092/eating-disorders-plan-a-plan-for-a-plan.htm
+title: Eating Disorders Plan – a plan for a plan
+date: 2008-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00092/eating-disorders-plan-a-plan-for-a-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/03/eating-disorders-plan-a-plan-for-a-plan/index.html
+layout: layout.njk
 ---
 Eating Disorders Plan – a plan for a plan
 =========================================

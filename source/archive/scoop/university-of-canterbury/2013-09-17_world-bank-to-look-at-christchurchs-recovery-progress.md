@@ -1,9 +1,13 @@
 ---
 slug: world-bank-to-look-at-christchurchs-recovery-progress
-title: "World Bank to look at Christchurch’s recovery progress"
-date: 2013-09-17
-source-url: https://www.scoop.co.nz/stories/AK1309/S00564/world-bank-to-look-at-christchurchs-recovery-progress.htm
+title: World Bank to look at Christchurch’s recovery progress
+date: 2013-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00564/world-bank-to-look-at-christchurchs-recovery-progress.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/17/world-bank-to-look-at-christchurchs-recovery-progress/index.html
+layout: layout.njk
 ---
 World Bank to look at Christchurch’s recovery progress
 ======================================================

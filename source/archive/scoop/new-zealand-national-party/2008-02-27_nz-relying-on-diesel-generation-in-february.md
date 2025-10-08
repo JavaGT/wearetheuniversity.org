@@ -1,9 +1,12 @@
 ---
 slug: nz-relying-on-diesel-generation-in-february
-title: "NZ relying on diesel generation in February"
-date: 2008-02-27
-source-url: https://www.scoop.co.nz/stories/PA0802/S00438/nz-relying-on-diesel-generation-in-february.htm
+title: NZ relying on diesel generation in February
+date: 2008-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00438/nz-relying-on-diesel-generation-in-february.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/27/nz-relying-on-diesel-generation-in-february/index.html
+layout: layout.njk
 ---
 NZ relying on diesel generation in February
 ===========================================

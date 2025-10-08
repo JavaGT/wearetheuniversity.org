@@ -1,9 +1,12 @@
 ---
 slug: raihania-takes-a-stand-for-maori-learners
-title: "Raihania takes a stand for Maori learners"
-date: 2013-06-27
-source-url: https://www.scoop.co.nz/stories/PO1306/S00358/raihania-takes-a-stand-for-maori-learners.htm
+title: Raihania takes a stand for Maori learners
+date: 2013-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1306/S00358/raihania-takes-a-stand-for-maori-learners.htm
 author: te-pati-maori
+permalink: /archive/2013/06/27/raihania-takes-a-stand-for-maori-learners/index.html
+layout: layout.njk
 ---
 Raihania takes a stand for Maori learners
 =========================================

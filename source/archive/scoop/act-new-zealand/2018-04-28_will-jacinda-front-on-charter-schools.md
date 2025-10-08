@@ -1,9 +1,12 @@
 ---
 slug: will-jacinda-front-on-charter-schools
-title: "Will Jacinda front on charter schools?"
-date: 2018-04-28
-source-url: https://www.scoop.co.nz/stories/PA1804/S00293/will-jacinda-front-on-charter-schools.htm
+title: Will Jacinda front on charter schools?
+date: 2018-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00293/will-jacinda-front-on-charter-schools.htm
 author: act-new-zealand
+permalink: /archive/2018/04/28/will-jacinda-front-on-charter-schools/index.html
+layout: layout.njk
 ---
 Will Jacinda front on charter schools?
 ======================================

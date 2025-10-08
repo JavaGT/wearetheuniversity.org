@@ -1,9 +1,12 @@
 ---
 slug: bleatings-of-a-johnny-come-lately
-title: "Bleatings of a Johnny-come-lately"
-date: 1999-11-19
-source-url: https://www.scoop.co.nz/stories/PA9911/S00473/bleatings-of-a-johnny-come-lately.htm
+title: Bleatings of a Johnny-come-lately
+date: 1999-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00473/bleatings-of-a-johnny-come-lately.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/19/bleatings-of-a-johnny-come-lately/index.html
+layout: layout.njk
 ---
 Bleatings of a Johnny-come-lately
 =================================

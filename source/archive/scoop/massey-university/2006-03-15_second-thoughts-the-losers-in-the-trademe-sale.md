@@ -1,9 +1,12 @@
 ---
 slug: second-thoughts-the-losers-in-the-trademe-sale
-title: "Second thoughts - the losers in the TradeMe sale"
-date: 2006-03-15
-source-url: https://www.scoop.co.nz/stories/BU0603/S00235/second-thoughts-the-losers-in-the-trademe-sale.htm
+title: Second thoughts - the losers in the TradeMe sale
+date: 2006-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0603/S00235/second-thoughts-the-losers-in-the-trademe-sale.htm
 author: massey-university
+permalink: /archive/2006/03/15/second-thoughts-the-losers-in-the-trademe-sale/index.html
+layout: layout.njk
 ---
 Second thoughts - the losers in the TradeMe sale
 ================================================

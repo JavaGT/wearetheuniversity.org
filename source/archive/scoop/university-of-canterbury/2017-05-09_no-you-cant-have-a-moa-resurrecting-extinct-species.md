@@ -1,9 +1,13 @@
 ---
 slug: no-you-cant-have-a-moa-resurrecting-extinct-species
-title: "No, you can’t have a moa - resurrecting extinct species?"
-date: 2017-05-09
-source-url: https://www.scoop.co.nz/stories/SC1705/S00027/no-you-cant-have-a-moa-resurrecting-extinct-species.htm
+title: No, you can’t have a moa - resurrecting extinct species?
+date: 2017-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1705/S00027/no-you-cant-have-a-moa-resurrecting-extinct-species.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/05/09/no-you-cant-have-a-moa-resurrecting-extinct-species/index.html
+layout: layout.njk
 ---
 No, you can’t have a moa - resurrecting extinct species?
 ========================================================

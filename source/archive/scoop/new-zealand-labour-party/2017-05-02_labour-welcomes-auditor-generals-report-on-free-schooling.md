@@ -1,9 +1,13 @@
 ---
 slug: labour-welcomes-auditor-generals-report-on-free-schooling
-title: "Labour welcomes Auditor General’s report on free schooling"
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/PA1705/S00027/labour-welcomes-auditor-generals-report-on-free-schooling.htm
+title: Labour welcomes Auditor General’s report on free schooling
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00027/labour-welcomes-auditor-generals-report-on-free-schooling.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/05/02/labour-welcomes-auditor-generals-report-on-free-schooling/index.html
+layout: layout.njk
 ---
 Labour welcomes Auditor General’s report on free schooling
 ==========================================================

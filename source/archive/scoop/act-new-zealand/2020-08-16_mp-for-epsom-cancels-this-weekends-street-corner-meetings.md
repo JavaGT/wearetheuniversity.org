@@ -1,9 +1,13 @@
 ---
 slug: mp-for-epsom-cancels-this-weekends-street-corner-meetings
-title: "MP For Epsom Cancels This Weekend’s Street Corner Meetings"
-date: 2020-08-16
-source-url: https://www.scoop.co.nz/stories/PO2008/S00196/mp-for-epsom-cancels-this-weekends-street-corner-meetings.htm
+title: MP For Epsom Cancels This Weekend’s Street Corner Meetings
+date: 2020-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00196/mp-for-epsom-cancels-this-weekends-street-corner-meetings.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/08/16/mp-for-epsom-cancels-this-weekends-street-corner-meetings/index.html
+layout: layout.njk
 ---
 MP For Epsom Cancels This Weekend’s Street Corner Meetings
 ==========================================================

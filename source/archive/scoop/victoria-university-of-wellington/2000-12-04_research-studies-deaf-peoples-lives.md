@@ -1,9 +1,12 @@
 ---
 slug: research-studies-deaf-peoples-lives
-title: "Research studies Deaf people's lives"
-date: 2000-12-04
-source-url: https://www.scoop.co.nz/stories/GE0012/S00004/research-studies-deaf-peoples-lives.htm
+title: Research studies Deaf people's lives
+date: 2000-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0012/S00004/research-studies-deaf-peoples-lives.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/12/04/research-studies-deaf-peoples-lives/index.html
+layout: layout.njk
 ---
 Research studies Deaf people's lives
 ====================================

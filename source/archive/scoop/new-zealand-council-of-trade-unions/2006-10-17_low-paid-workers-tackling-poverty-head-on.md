@@ -1,9 +1,12 @@
 ---
 slug: low-paid-workers-tackling-poverty-head-on
-title: "Low Paid Workers Tackling Poverty Head On"
-date: 2006-10-17
-source-url: https://www.scoop.co.nz/stories/PO0610/S00181/low-paid-workers-tackling-poverty-head-on.htm
+title: Low Paid Workers Tackling Poverty Head On
+date: 2006-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00181/low-paid-workers-tackling-poverty-head-on.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/10/17/low-paid-workers-tackling-poverty-head-on/index.html
+layout: layout.njk
 ---
 Low Paid Workers Tackling Poverty Head On
 =========================================

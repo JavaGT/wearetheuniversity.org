@@ -1,10 +1,13 @@
 ---
-title: "Protest Reclaim Victoria University Take Back The Hub"
+title: Protest Reclaim Victoria University Take Back The Hub
 slug: protest-reclaim-victoria-university-take-back-the-hub
-date: 2014-07-24
+date: 2014-07-24T00:00:00.000Z
 source: https://youtube.com/watch?v=5BOsqZFbzNc
 author: Heleyni Pratley
 author-slug: heleyni-pratley
+permalink: >-
+  /archive/2014/07/24/protest-reclaim-victoria-university-take-back-the-hub/index.html
+layout: layout.njk
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5BOsqZFbzNc?si=66Pmory_e1UIUS1a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

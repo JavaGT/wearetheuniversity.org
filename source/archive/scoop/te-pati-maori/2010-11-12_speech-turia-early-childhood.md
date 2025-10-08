@@ -1,9 +1,11 @@
 ---
 slug: speech-turia-early-childhood
-title: "Speech: Turia - Early Childhood"
-date: 2010-11-12
+title: 'Speech: Turia - Early Childhood'
+date: 2010-11-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1011/S00260/speech-turia-early-childhood.htm
 author: te-pati-maori
+permalink: /archive/2010/11/12/speech-turia-early-childhood/index.html
+layout: layout.njk
 ---
 Speech: Turia - Early Childhood
 ===============================

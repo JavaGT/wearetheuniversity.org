@@ -1,9 +1,13 @@
 ---
 slug: from-apricots-to-awards-for-hamilton-businessman
-title: "From Apricots To Awards For Hamilton Businessman"
-date: 2013-04-03
-source-url: https://www.scoop.co.nz/stories/ED1304/S00006/from-apricots-to-awards-for-hamilton-businessman.htm
+title: From Apricots To Awards For Hamilton Businessman
+date: 2013-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00006/from-apricots-to-awards-for-hamilton-businessman.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/04/03/from-apricots-to-awards-for-hamilton-businessman/index.html
+layout: layout.njk
 ---
 From Apricots To Awards For Hamilton Businessman
 ================================================

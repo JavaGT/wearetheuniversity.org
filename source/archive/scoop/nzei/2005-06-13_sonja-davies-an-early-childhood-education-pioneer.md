@@ -1,9 +1,13 @@
 ---
 slug: sonja-davies-an-early-childhood-education-pioneer
-title: "Sonja Davies An Early Childhood Education Pioneer"
-date: 2005-06-13
-source-url: https://www.scoop.co.nz/stories/ED0506/S00030/sonja-davies-an-early-childhood-education-pioneer.htm
+title: Sonja Davies An Early Childhood Education Pioneer
+date: 2005-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00030/sonja-davies-an-early-childhood-education-pioneer.htm
 author: nzei
+permalink: >-
+  /archive/2005/06/13/sonja-davies-an-early-childhood-education-pioneer/index.html
+layout: layout.njk
 ---
 Sonja Davies An Early Childhood Education Pioneer
 =================================================

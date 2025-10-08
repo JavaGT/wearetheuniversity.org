@@ -1,9 +1,12 @@
 ---
 slug: good-sleep-is-a-reachable-dream
-title: "Good sleep is a reachable dream"
-date: 2016-03-16
-source-url: https://www.scoop.co.nz/stories/GE1603/S00053/good-sleep-is-a-reachable-dream.htm
+title: Good sleep is a reachable dream
+date: 2016-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1603/S00053/good-sleep-is-a-reachable-dream.htm
 author: massey-university
+permalink: /archive/2016/03/16/good-sleep-is-a-reachable-dream/index.html
+layout: layout.njk
 ---
 Good sleep is a reachable dream
 ===============================

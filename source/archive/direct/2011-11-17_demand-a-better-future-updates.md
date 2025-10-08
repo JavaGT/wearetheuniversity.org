@@ -1,10 +1,13 @@
 ---
 title: Demand a Better Future Updates
 slug: demand-a-better-future-updates
-date: 2011-11-17
-source: https://web.archive.org/web/20111117004430/http://www.demandabetterfuture.org.nz/updates
+date: 2011-11-17T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20111117004430/http://www.demandabetterfuture.org.nz/updates
 author: NZUSA
 author-slug: nzusa
+permalink: /archive/2011/11/17/demand-a-better-future-updates/index.html
+layout: layout.njk
 ---
 Date refers to the date page was archived by the Wayback Machine. Only one page is available.
 ## Updates

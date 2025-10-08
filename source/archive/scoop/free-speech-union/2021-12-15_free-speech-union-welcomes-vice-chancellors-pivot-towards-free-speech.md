@@ -1,9 +1,13 @@
 ---
 slug: free-speech-union-welcomes-vice-chancellors-pivot-towards-free-speech
-title: "Free Speech Union Welcomes Vice-Chancellor’s Pivot Towards Free Speech"
-date: 2021-12-15
-source-url: https://www.scoop.co.nz/stories/AK2112/S00366/free-speech-union-welcomes-vice-chancellors-pivot-towards-free-speech.htm
+title: Free Speech Union Welcomes Vice-Chancellor’s Pivot Towards Free Speech
+date: 2021-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2112/S00366/free-speech-union-welcomes-vice-chancellors-pivot-towards-free-speech.htm
 author: free-speech-union
+permalink: >-
+  /archive/2021/12/15/free-speech-union-welcomes-vice-chancellors-pivot-towards-free-speech/index.html
+layout: layout.njk
 ---
 Free Speech Union Welcomes Vice-Chancellor’s Pivot Towards Free Speech
 ======================================================================

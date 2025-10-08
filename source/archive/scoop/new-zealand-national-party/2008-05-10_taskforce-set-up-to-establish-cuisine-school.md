@@ -1,9 +1,12 @@
 ---
 slug: taskforce-set-up-to-establish-cuisine-school
-title: "Taskforce set up to establish cuisine school"
-date: 2008-05-10
-source-url: https://www.scoop.co.nz/stories/PA0805/S00174/taskforce-set-up-to-establish-cuisine-school.htm
+title: Taskforce set up to establish cuisine school
+date: 2008-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00174/taskforce-set-up-to-establish-cuisine-school.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/10/taskforce-set-up-to-establish-cuisine-school/index.html
+layout: layout.njk
 ---
 Taskforce set up to establish cuisine school
 ============================================

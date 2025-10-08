@@ -1,9 +1,12 @@
 ---
 slug: right-thinking-the-week-that-was
-title: "Right Thinking - The Week That Was"
-date: 2013-05-31
-source-url: https://www.scoop.co.nz/stories/PO1305/S00471/right-thinking-the-week-that-was.htm
+title: Right Thinking - The Week That Was
+date: 2013-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00471/right-thinking-the-week-that-was.htm
 author: act-new-zealand
+permalink: /archive/2013/05/31/right-thinking-the-week-that-was/index.html
+layout: layout.njk
 ---
 Right Thinking - The Week That Was
 ==================================

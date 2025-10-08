@@ -1,9 +1,12 @@
 ---
 slug: students-give-outgoing-vc-a-pat-on-the-back
-title: "Students give outgoing VC a Pat on the back"
-date: 2013-01-29
-source-url: https://www.scoop.co.nz/stories/ED1301/S00094/students-give-outgoing-vc-a-pat-on-the-back.htm
+title: Students give outgoing VC a Pat on the back
+date: 2013-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00094/students-give-outgoing-vc-a-pat-on-the-back.htm
 author: vuwsa
+permalink: /archive/2013/01/29/students-give-outgoing-vc-a-pat-on-the-back/index.html
+layout: layout.njk
 ---
 Students give outgoing VC a Pat on the back
 ===========================================

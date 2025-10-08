@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-artist-to-launch-book-and-cd-at-usp
-title: "New Zealand artist to launch book and CD at USP"
-date: 2011-10-07
-source-url: https://www.scoop.co.nz/stories/CU1110/S00089/new-zealand-artist-to-launch-book-and-cd-at-usp.htm
+title: New Zealand artist to launch book and CD at USP
+date: 2011-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1110/S00089/new-zealand-artist-to-launch-book-and-cd-at-usp.htm
 author: university-of-the-south-pacific
+permalink: /archive/2011/10/07/new-zealand-artist-to-launch-book-and-cd-at-usp/index.html
+layout: layout.njk
 ---
 New Zealand artist to launch book and CD at USP
 ===============================================

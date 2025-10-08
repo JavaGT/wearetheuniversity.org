@@ -1,9 +1,12 @@
 ---
 slug: howard-is-the-crim-not-anti-war-activists
-title: "Howard is the crim, not anti-war activists"
-date: 2004-02-05
-source-url: https://www.scoop.co.nz/stories/PO0402/S00035/howard-is-the-crim-not-anti-war-activists.htm
+title: Howard is the crim, not anti-war activists
+date: 2004-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0402/S00035/howard-is-the-crim-not-anti-war-activists.htm
 author: peace-action-wellington
+permalink: /archive/2004/02/05/howard-is-the-crim-not-anti-war-activists/index.html
+layout: layout.njk
 ---
 Howard is the crim, not anti-war activists
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwis-deserve-the-debate-on-gangs-and-crime
-title: "Kiwis Deserve The Debate On Gangs And Crime"
-date: 2021-07-18
-source-url: https://www.scoop.co.nz/stories/PA2107/S00138/kiwis-deserve-the-debate-on-gangs-and-crime.htm
+title: Kiwis Deserve The Debate On Gangs And Crime
+date: 2021-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00138/kiwis-deserve-the-debate-on-gangs-and-crime.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/18/kiwis-deserve-the-debate-on-gangs-and-crime/index.html
+layout: layout.njk
 ---
 Kiwis Deserve The Debate On Gangs And Crime
 ===========================================

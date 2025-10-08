@@ -1,9 +1,13 @@
 ---
 slug: green-party-announces-dr-lawrence-xu-nan-as-candidate-for-epsom-electorate
-title: "Green Party Announces Dr Lawrence Xu-Nan As Candidate For Epsom Electorate"
-date: 2023-04-12
-source-url: https://www.scoop.co.nz/stories/PO2304/S00042/green-party-announces-dr-lawrence-xu-nan-as-candidate-for-epsom-electorate.htm
+title: Green Party Announces Dr Lawrence Xu-Nan As Candidate For Epsom Electorate
+date: 2023-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2304/S00042/green-party-announces-dr-lawrence-xu-nan-as-candidate-for-epsom-electorate.htm
 author: green-party
+permalink: >-
+  /archive/2023/04/12/green-party-announces-dr-lawrence-xu-nan-as-candidate-for-epsom-electorate/index.html
+layout: layout.njk
 ---
 Green Party Announces Dr Lawrence Xu-Nan As Candidate For Epsom Electorate
 ==========================================================================

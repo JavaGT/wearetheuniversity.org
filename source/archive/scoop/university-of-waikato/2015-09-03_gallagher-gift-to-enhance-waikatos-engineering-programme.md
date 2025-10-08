@@ -1,9 +1,13 @@
 ---
 slug: gallagher-gift-to-enhance-waikatos-engineering-programme
-title: "Gallagher gift to enhance Waikato's engineering programme"
-date: 2015-09-03
-source-url: https://www.scoop.co.nz/stories/ED1509/S00020/gallagher-gift-to-enhance-waikatos-engineering-programme.htm
+title: Gallagher gift to enhance Waikato's engineering programme
+date: 2015-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00020/gallagher-gift-to-enhance-waikatos-engineering-programme.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/09/03/gallagher-gift-to-enhance-waikatos-engineering-programme/index.html
+layout: layout.njk
 ---
 Gallagher gift to enhance Waikato's engineering programme
 =========================================================

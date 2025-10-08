@@ -1,9 +1,16 @@
 ---
-slug: student-volunteer-army-in-contact-with-civil-defence-and-local-councils-university-clubs-on-standby-as-heavy-rains-hit
-title: "Student Volunteer Army In Contact With Civil Defence And Local Councils, University Clubs On Standby As Heavy Rains Hit"
-date: 2023-05-09
-source-url: https://www.scoop.co.nz/stories/AK2305/S00170/student-volunteer-army-in-contact-with-civil-defence-and-local-councils-university-clubs-on-standby-as-heavy-rains-hit.htm
+slug: >-
+  student-volunteer-army-in-contact-with-civil-defence-and-local-councils-university-clubs-on-standby-as-heavy-rains-hit
+title: >-
+  Student Volunteer Army In Contact With Civil Defence And Local Councils,
+  University Clubs On Standby As Heavy Rains Hit
+date: 2023-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2305/S00170/student-volunteer-army-in-contact-with-civil-defence-and-local-councils-university-clubs-on-standby-as-heavy-rains-hit.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2023/05/09/student-volunteer-army-in-contact-with-civil-defence-and-local-councils-university-clubs-on-standby-as-heavy-rains-hit/index.html
+layout: layout.njk
 ---
 Student Volunteer Army In Contact With Civil Defence And Local Councils, University Clubs On Standby As Heavy Rains Hit
 =======================================================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: mark-crofskey-nationals-candidate-in-rimutaka
-title: "Mark Crofskey National’s candidate in Rimutaka"
-date: 2019-12-04
-source-url: https://www.scoop.co.nz/stories/PO1912/S00058/mark-crofskey-nationals-candidate-in-rimutaka.htm
+title: Mark Crofskey National’s candidate in Rimutaka
+date: 2019-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1912/S00058/mark-crofskey-nationals-candidate-in-rimutaka.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/04/mark-crofskey-nationals-candidate-in-rimutaka/index.html
+layout: layout.njk
 ---
 Mark Crofskey National’s candidate in Rimutaka
 ==============================================

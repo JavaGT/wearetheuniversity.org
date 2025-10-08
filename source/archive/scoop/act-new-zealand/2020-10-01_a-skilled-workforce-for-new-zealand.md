@@ -1,9 +1,12 @@
 ---
 slug: a-skilled-workforce-for-new-zealand
-title: "A Skilled Workforce For New Zealand"
-date: 2020-10-01
-source-url: https://www.scoop.co.nz/stories/PA2010/S00012/a-skilled-workforce-for-new-zealand.htm
+title: A Skilled Workforce For New Zealand
+date: 2020-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00012/a-skilled-workforce-for-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2020/10/01/a-skilled-workforce-for-new-zealand/index.html
+layout: layout.njk
 ---
 A Skilled Workforce For New Zealand
 ===================================

@@ -1,8 +1,12 @@
 ---
 slug: student-safety-university-of-auckland-commitment
-title: "Student safety – University of Auckland commitment"
-date: 2016-03-31
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/student-safety-_-university-of-auckland-commitment.html
+title: Student safety – University of Auckland commitment
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/student-safety-_-university-of-auckland-commitment.html
+permalink: >-
+  /archive/2016/03/31/student-safety-university-of-auckland-commitment/index.html
+layout: layout.njk
 ---
 Student safety – University of Auckland commitment
 ==================================================

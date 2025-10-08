@@ -1,9 +1,12 @@
 ---
 slug: funding-changes-a-big-win-for-med-students
-title: "Funding changes a big win for med students"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/PA1512/S00020/funding-changes-a-big-win-for-med-students.htm
+title: Funding changes a big win for med students
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00020/funding-changes-a-big-win-for-med-students.htm
 author: act-new-zealand
+permalink: /archive/2015/12/01/funding-changes-a-big-win-for-med-students/index.html
+layout: layout.njk
 ---
 Funding changes a big win for med students
 ==========================================

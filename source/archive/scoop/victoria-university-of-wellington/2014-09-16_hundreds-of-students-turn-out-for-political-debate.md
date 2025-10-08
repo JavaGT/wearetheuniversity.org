@@ -1,9 +1,13 @@
 ---
 slug: hundreds-of-students-turn-out-for-political-debate
-title: "Hundreds of Students Turn Out for Political Debate"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/PO1409/S00376/hundreds-of-students-turn-out-for-political-debate.htm
+title: Hundreds of Students Turn Out for Political Debate
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00376/hundreds-of-students-turn-out-for-political-debate.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/09/16/hundreds-of-students-turn-out-for-political-debate/index.html
+layout: layout.njk
 ---
 Hundreds of Students Turn Out for Political Debate
 ==================================================

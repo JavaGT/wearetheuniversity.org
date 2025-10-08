@@ -1,9 +1,13 @@
 ---
 slug: new-research-centre-puts-nz-lives-under-microscope
-title: "New research centre puts NZ lives under microscope"
-date: 2007-11-16
-source-url: https://www.scoop.co.nz/stories/ED0711/S00085/new-research-centre-puts-nz-lives-under-microscope.htm
+title: New research centre puts NZ lives under microscope
+date: 2007-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00085/new-research-centre-puts-nz-lives-under-microscope.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/11/16/new-research-centre-puts-nz-lives-under-microscope/index.html
+layout: layout.njk
 ---
 New research centre puts NZ lives under microscope
 ==================================================

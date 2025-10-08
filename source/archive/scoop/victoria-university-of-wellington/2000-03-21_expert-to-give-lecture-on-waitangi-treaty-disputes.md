@@ -1,9 +1,13 @@
 ---
 slug: expert-to-give-lecture-on-waitangi-treaty-disputes
-title: "Expert to give lecture on Waitangi Treaty disputes"
-date: 2000-03-21
-source-url: https://www.scoop.co.nz/stories/GE0003/S00059/expert-to-give-lecture-on-waitangi-treaty-disputes.htm
+title: Expert to give lecture on Waitangi Treaty disputes
+date: 2000-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0003/S00059/expert-to-give-lecture-on-waitangi-treaty-disputes.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/03/21/expert-to-give-lecture-on-waitangi-treaty-disputes/index.html
+layout: layout.njk
 ---
 Expert to give lecture on Waitangi Treaty disputes
 ==================================================

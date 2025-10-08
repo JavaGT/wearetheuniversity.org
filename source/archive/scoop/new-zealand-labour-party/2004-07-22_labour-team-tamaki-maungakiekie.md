@@ -1,9 +1,12 @@
 ---
 slug: labour-team-tamaki-maungakiekie
-title: "Labour Team Tamaki-Maungakiekie"
-date: 2004-07-22
-source-url: https://www.scoop.co.nz/stories/AK0407/S00174/labour-team-tamaki-maungakiekie.htm
+title: Labour Team Tamaki-Maungakiekie
+date: 2004-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0407/S00174/labour-team-tamaki-maungakiekie.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/07/22/labour-team-tamaki-maungakiekie/index.html
+layout: layout.njk
 ---
 Labour Team Tamaki-Maungakiekie
 ===============================

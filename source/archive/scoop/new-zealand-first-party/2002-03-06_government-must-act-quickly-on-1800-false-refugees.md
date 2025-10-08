@@ -1,9 +1,13 @@
 ---
 slug: government-must-act-quickly-on-1800-false-refugees
-title: "Government Must Act Quickly On 1800 False Refugees"
-date: 2002-03-06
-source-url: https://www.scoop.co.nz/stories/PA0203/S00100/government-must-act-quickly-on-1800-false-refugees.htm
+title: Government Must Act Quickly On 1800 False Refugees
+date: 2002-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00100/government-must-act-quickly-on-1800-false-refugees.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2002/03/06/government-must-act-quickly-on-1800-false-refugees/index.html
+layout: layout.njk
 ---
 Government Must Act Quickly On 1800 False Refugees
 ==================================================

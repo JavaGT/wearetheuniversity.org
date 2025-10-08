@@ -1,9 +1,13 @@
 ---
 slug: taurine-supplements-may-improve-performance-recovery
-title: "Taurine supplements may improve performance recovery"
-date: 2017-11-13
-source-url: https://www.scoop.co.nz/stories/GE1711/S00051/taurine-supplements-may-improve-performance-recovery.htm
+title: Taurine supplements may improve performance recovery
+date: 2017-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1711/S00051/taurine-supplements-may-improve-performance-recovery.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/13/taurine-supplements-may-improve-performance-recovery/index.html
+layout: layout.njk
 ---
 Taurine supplements may improve performance recovery
 ====================================================

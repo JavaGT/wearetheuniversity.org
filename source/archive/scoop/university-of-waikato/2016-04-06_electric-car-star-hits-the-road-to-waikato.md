@@ -1,9 +1,12 @@
 ---
 slug: electric-car-star-hits-the-road-to-waikato
-title: "Electric car star hits the road to Waikato"
-date: 2016-04-06
-source-url: https://www.scoop.co.nz/stories/SC1604/S00007/electric-car-star-hits-the-road-to-waikato.htm
+title: Electric car star hits the road to Waikato
+date: 2016-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00007/electric-car-star-hits-the-road-to-waikato.htm
 author: university-of-waikato
+permalink: /archive/2016/04/06/electric-car-star-hits-the-road-to-waikato/index.html
+layout: layout.njk
 ---
 Electric car star hits the road to Waikato
 ==========================================

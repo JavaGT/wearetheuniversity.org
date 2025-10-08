@@ -1,9 +1,12 @@
 ---
 slug: methyl-bromide-ban-needed-now
-title: "Methyl Bromide Ban Needed Now"
-date: 2010-01-26
-source-url: https://www.scoop.co.nz/stories/SC1001/S00037/methyl-bromide-ban-needed-now.htm
+title: Methyl Bromide Ban Needed Now
+date: 2010-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1001/S00037/methyl-bromide-ban-needed-now.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/01/26/methyl-bromide-ban-needed-now/index.html
+layout: layout.njk
 ---
 Methyl Bromide Ban Needed Now
 =============================

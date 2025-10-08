@@ -1,9 +1,13 @@
 ---
 slug: winning-team-feeds-the-world-with-the-granulator
-title: "Winning Team Feeds The World With The Granulator"
-date: 2009-06-24
-source-url: https://www.scoop.co.nz/stories/ED0906/S00070/winning-team-feeds-the-world-with-the-granulator.htm
+title: Winning Team Feeds The World With The Granulator
+date: 2009-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00070/winning-team-feeds-the-world-with-the-granulator.htm
 author: massey-university
+permalink: >-
+  /archive/2009/06/24/winning-team-feeds-the-world-with-the-granulator/index.html
+layout: layout.njk
 ---
 Winning Team Feeds The World With The Granulator
 ================================================

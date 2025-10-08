@@ -1,9 +1,13 @@
 ---
 slug: minister-acting-in-bad-faith-on-partnership-schools
-title: "Minister acting in bad faith on partnership schools"
-date: 2018-02-08
-source-url: https://www.scoop.co.nz/stories/PA1802/S00068/minister-acting-in-bad-faith-on-partnership-schools.htm
+title: Minister acting in bad faith on partnership schools
+date: 2018-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00068/minister-acting-in-bad-faith-on-partnership-schools.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/02/08/minister-acting-in-bad-faith-on-partnership-schools/index.html
+layout: layout.njk
 ---
 Minister acting in bad faith on partnership schools
 ===================================================

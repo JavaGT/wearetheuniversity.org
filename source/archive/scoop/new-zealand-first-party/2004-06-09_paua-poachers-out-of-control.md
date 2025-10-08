@@ -1,9 +1,11 @@
 ---
 slug: paua-poachers-out-of-control
-title: "Paua Poachers Out Of Control"
-date: 2004-06-09
+title: Paua Poachers Out Of Control
+date: 2004-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0406/S00134/paua-poachers-out-of-control.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/09/paua-poachers-out-of-control/index.html
+layout: layout.njk
 ---
 Paua Poachers Out Of Control
 ============================

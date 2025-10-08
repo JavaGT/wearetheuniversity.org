@@ -1,9 +1,12 @@
 ---
 slug: public-paying-for-squeeze-on-dhbs
-title: "Public paying for squeeze on DHBs"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/PA1305/S00253/public-paying-for-squeeze-on-dhbs.htm
+title: Public paying for squeeze on DHBs
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00253/public-paying-for-squeeze-on-dhbs.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/15/public-paying-for-squeeze-on-dhbs/index.html
+layout: layout.njk
 ---
 Public paying for squeeze on DHBs
 =================================

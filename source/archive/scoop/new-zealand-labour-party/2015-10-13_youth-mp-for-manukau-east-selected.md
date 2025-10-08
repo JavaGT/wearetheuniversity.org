@@ -1,9 +1,12 @@
 ---
 slug: youth-mp-for-manukau-east-selected
-title: "Youth MP for Manukau East selected"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/PA1510/S00192/youth-mp-for-manukau-east-selected.htm
+title: Youth MP for Manukau East selected
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00192/youth-mp-for-manukau-east-selected.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/13/youth-mp-for-manukau-east-selected/index.html
+layout: layout.njk
 ---
 Youth MP for Manukau East selected
 ==================================

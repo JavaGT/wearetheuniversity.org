@@ -1,9 +1,11 @@
 ---
 slug: education-amendment-bill
-title: "Education Amendment Bill"
-date: 2010-07-01
+title: Education Amendment Bill
+date: 2010-07-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1007/S00014/education-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/07/01/education-amendment-bill/index.html
+layout: layout.njk
 ---
 Education Amendment Bill
 ========================

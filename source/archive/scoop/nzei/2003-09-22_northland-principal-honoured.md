@@ -1,9 +1,11 @@
 ---
 slug: northland-principal-honoured
-title: "Northland Principal Honoured"
-date: 2003-09-22
+title: Northland Principal Honoured
+date: 2003-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00087/northland-principal-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/northland-principal-honoured/index.html
+layout: layout.njk
 ---
 Northland Principal Honoured
 ============================

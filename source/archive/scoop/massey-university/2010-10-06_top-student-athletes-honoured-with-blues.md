@@ -1,9 +1,12 @@
 ---
 slug: top-student-athletes-honoured-with-blues
-title: "Top student-athletes honoured with Blues"
-date: 2010-10-06
-source-url: https://www.scoop.co.nz/stories/CU1010/S00082/top-student-athletes-honoured-with-blues.htm
+title: Top student-athletes honoured with Blues
+date: 2010-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1010/S00082/top-student-athletes-honoured-with-blues.htm
 author: massey-university
+permalink: /archive/2010/10/06/top-student-athletes-honoured-with-blues/index.html
+layout: layout.njk
 ---
 Top student-athletes honoured with Blues
 ========================================

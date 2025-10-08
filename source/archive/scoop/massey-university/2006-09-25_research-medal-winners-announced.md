@@ -1,9 +1,12 @@
 ---
 slug: research-medal-winners-announced
-title: "Research Medal winners announced"
-date: 2006-09-25
-source-url: https://www.scoop.co.nz/stories/ED0609/S00090/research-medal-winners-announced.htm
+title: Research Medal winners announced
+date: 2006-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00090/research-medal-winners-announced.htm
 author: massey-university
+permalink: /archive/2006/09/25/research-medal-winners-announced/index.html
+layout: layout.njk
 ---
 Research Medal winners announced
 ================================

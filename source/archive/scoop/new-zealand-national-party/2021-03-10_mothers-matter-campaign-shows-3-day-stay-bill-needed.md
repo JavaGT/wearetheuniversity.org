@@ -1,9 +1,13 @@
 ---
 slug: mothers-matter-campaign-shows-3-day-stay-bill-needed
-title: "Mother’s Matter Campaign Shows 3 Day Stay Bill Needed"
-date: 2021-03-10
-source-url: https://www.scoop.co.nz/stories/PA2103/S00061/mothers-matter-campaign-shows-3-day-stay-bill-needed.htm
+title: Mother’s Matter Campaign Shows 3 Day Stay Bill Needed
+date: 2021-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00061/mothers-matter-campaign-shows-3-day-stay-bill-needed.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/03/10/mothers-matter-campaign-shows-3-day-stay-bill-needed/index.html
+layout: layout.njk
 ---
 Mother’s Matter Campaign Shows 3 Day Stay Bill Needed
 =====================================================

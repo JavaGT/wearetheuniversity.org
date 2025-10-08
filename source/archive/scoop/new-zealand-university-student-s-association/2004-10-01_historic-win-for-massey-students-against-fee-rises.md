@@ -1,9 +1,13 @@
 ---
 slug: historic-win-for-massey-students-against-fee-rises
-title: "Historic win for Massey students against fee rises"
-date: 2004-10-01
-source-url: https://www.scoop.co.nz/stories/ED0410/S00004/historic-win-for-massey-students-against-fee-rises.htm
+title: Historic win for Massey students against fee rises
+date: 2004-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00004/historic-win-for-massey-students-against-fee-rises.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/10/01/historic-win-for-massey-students-against-fee-rises/index.html
+layout: layout.njk
 ---
 Historic win for Massey students against fee rises
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: time-to-stop-the-hunger-games
-title: "Time To Stop The Hunger Games"
-date: 2021-10-20
-source-url: https://www.scoop.co.nz/stories/PA2110/S00195/time-to-stop-the-hunger-games.htm
+title: Time To Stop The Hunger Games
+date: 2021-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00195/time-to-stop-the-hunger-games.htm
 author: act-new-zealand
+permalink: /archive/2021/10/20/time-to-stop-the-hunger-games/index.html
+layout: layout.njk
 ---
 Time To Stop The Hunger Games
 =============================

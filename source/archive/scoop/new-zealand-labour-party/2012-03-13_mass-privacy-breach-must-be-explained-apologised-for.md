@@ -1,9 +1,13 @@
 ---
 slug: mass-privacy-breach-must-be-explained-apologised-for
-title: "Mass privacy breach must be explained, apologised for"
-date: 2012-03-13
-source-url: https://www.scoop.co.nz/stories/PA1203/S00169/mass-privacy-breach-must-be-explained-apologised-for.htm
+title: Mass privacy breach must be explained, apologised for
+date: 2012-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00169/mass-privacy-breach-must-be-explained-apologised-for.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/03/13/mass-privacy-breach-must-be-explained-apologised-for/index.html
+layout: layout.njk
 ---
 Mass privacy breach must be explained, apologised for
 =====================================================

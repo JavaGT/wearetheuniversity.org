@@ -1,9 +1,13 @@
 ---
 slug: support-for-recommendations-in-child-welfare-report
-title: "Support for recommendations in child welfare report"
-date: 2014-06-19
-source-url: https://www.scoop.co.nz/stories/ED1406/S00103/support-for-recommendations-in-child-welfare-report.htm
+title: Support for recommendations in child welfare report
+date: 2014-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00103/support-for-recommendations-in-child-welfare-report.htm
 author: nzei
+permalink: >-
+  /archive/2014/06/19/support-for-recommendations-in-child-welfare-report/index.html
+layout: layout.njk
 ---
 Support for recommendations in child welfare report
 ===================================================

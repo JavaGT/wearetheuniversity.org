@@ -1,9 +1,12 @@
 ---
 slug: new-director-facilities-management-appointed
-title: "New Director, Facilities Management appointed"
-date: 2005-07-07
-source-url: https://www.scoop.co.nz/stories/ED0507/S00028/new-director-facilities-management-appointed.htm
+title: New Director, Facilities Management appointed
+date: 2005-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00028/new-director-facilities-management-appointed.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/07/07/new-director-facilities-management-appointed/index.html
+layout: layout.njk
 ---
 New Director, Facilities Management appointed
 =============================================

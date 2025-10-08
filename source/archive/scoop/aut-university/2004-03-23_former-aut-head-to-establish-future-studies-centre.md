@@ -1,9 +1,13 @@
 ---
 slug: former-aut-head-to-establish-future-studies-centre
-title: "Former AUT Head To Establish Future Studies Centre"
-date: 2004-03-23
-source-url: https://www.scoop.co.nz/stories/ED0403/S00095/former-aut-head-to-establish-future-studies-centre.htm
+title: Former AUT Head To Establish Future Studies Centre
+date: 2004-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00095/former-aut-head-to-establish-future-studies-centre.htm
 author: aut-university
+permalink: >-
+  /archive/2004/03/23/former-aut-head-to-establish-future-studies-centre/index.html
+layout: layout.njk
 ---
 Former AUT Head To Establish Future Studies Centre
 ==================================================

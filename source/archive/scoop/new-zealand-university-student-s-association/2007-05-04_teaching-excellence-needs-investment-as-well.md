@@ -1,9 +1,12 @@
 ---
 slug: teaching-excellence-needs-investment-as-well
-title: "Teaching Excellence Needs Investment As Well"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/ED0705/S00012/teaching-excellence-needs-investment-as-well.htm
+title: Teaching Excellence Needs Investment As Well
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00012/teaching-excellence-needs-investment-as-well.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2007/05/04/teaching-excellence-needs-investment-as-well/index.html
+layout: layout.njk
 ---
 Teaching Excellence Needs Investment As Well
 ============================================

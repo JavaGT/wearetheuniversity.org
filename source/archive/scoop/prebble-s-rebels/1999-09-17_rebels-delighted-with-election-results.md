@@ -1,9 +1,12 @@
 ---
 slug: rebels-delighted-with-election-results
-title: "Rebels delighted with election results"
-date: 1999-09-17
-source-url: https://www.scoop.co.nz/stories/PO9909/S00083/rebels-delighted-with-election-results.htm
+title: Rebels delighted with election results
+date: 1999-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00083/rebels-delighted-with-election-results.htm
 author: prebble-s-rebels
+permalink: /archive/1999/09/17/rebels-delighted-with-election-results/index.html
+layout: layout.njk
 ---
 Rebels delighted with election results
 ======================================

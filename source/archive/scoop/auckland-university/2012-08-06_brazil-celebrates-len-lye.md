@@ -1,9 +1,11 @@
 ---
 slug: brazil-celebrates-len-lye
-title: "Brazil celebrates Len Lye"
-date: 2012-08-06
+title: Brazil celebrates Len Lye
+date: 2012-08-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1208/S00108/brazil-celebrates-len-lye.htm
 author: auckland-university
+permalink: /archive/2012/08/06/brazil-celebrates-len-lye/index.html
+layout: layout.njk
 ---
 Brazil celebrates Len Lye
 =========================

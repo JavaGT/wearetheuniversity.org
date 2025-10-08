@@ -1,9 +1,12 @@
 ---
 slug: ropey-figures-used-to-inform-parents
-title: "Ropey figures used to ‘inform’ parents"
-date: 2012-08-08
-source-url: https://www.scoop.co.nz/stories/PA1208/S00109/ropey-figures-used-to-inform-parents.htm
+title: Ropey figures used to ‘inform’ parents
+date: 2012-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00109/ropey-figures-used-to-inform-parents.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/08/ropey-figures-used-to-inform-parents/index.html
+layout: layout.njk
 ---
 Ropey figures used to ‘inform’ parents
 ======================================

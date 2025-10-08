@@ -1,9 +1,12 @@
 ---
 slug: soil-maps-lead-way-to-better-farming
-title: "Soil maps lead way to better farming"
-date: 2015-07-16
-source-url: https://www.scoop.co.nz/stories/SC1507/S00048/soil-maps-lead-way-to-better-farming.htm
+title: Soil maps lead way to better farming
+date: 2015-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00048/soil-maps-lead-way-to-better-farming.htm
 author: lincoln-university
+permalink: /archive/2015/07/16/soil-maps-lead-way-to-better-farming/index.html
+layout: layout.njk
 ---
 Soil maps lead way to better farming
 ====================================

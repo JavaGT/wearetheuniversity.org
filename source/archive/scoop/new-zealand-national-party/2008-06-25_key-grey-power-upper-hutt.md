@@ -1,9 +1,11 @@
 ---
 slug: key-grey-power-upper-hutt
-title: "Key: Grey Power, Upper Hutt"
-date: 2008-06-25
+title: 'Key: Grey Power, Upper Hutt'
+date: 2008-06-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0806/S00402/key-grey-power-upper-hutt.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/25/key-grey-power-upper-hutt/index.html
+layout: layout.njk
 ---
 Key: Grey Power, Upper Hutt
 ===========================

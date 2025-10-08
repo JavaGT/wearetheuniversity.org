@@ -1,9 +1,13 @@
 ---
 slug: new-book-puts-sustainability-into-peak-performance
-title: "New book puts sustainability into peak performance"
-date: 2010-08-16
-source-url: https://www.scoop.co.nz/stories/ED1008/S00057/new-book-puts-sustainability-into-peak-performance.htm
+title: New book puts sustainability into peak performance
+date: 2010-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00057/new-book-puts-sustainability-into-peak-performance.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/08/16/new-book-puts-sustainability-into-peak-performance/index.html
+layout: layout.njk
 ---
 New book puts sustainability into peak performance
 ==================================================

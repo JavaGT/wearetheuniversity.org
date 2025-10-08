@@ -1,9 +1,13 @@
 ---
 slug: water-quality-in-agricultural-areas-continues-to-decline
-title: "Water quality in agricultural areas continues to decline"
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/PA1307/S00458/water-quality-in-agricultural-areas-continues-to-decline.htm
+title: Water quality in agricultural areas continues to decline
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00458/water-quality-in-agricultural-areas-continues-to-decline.htm
 author: green-party
+permalink: >-
+  /archive/2013/07/31/water-quality-in-agricultural-areas-continues-to-decline/index.html
+layout: layout.njk
 ---
 Water quality in agricultural areas continues to decline
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: strengthened-accountability-measures-long-overdue
-title: "Strengthened Accountability Measures Long Overdue"
-date: 2000-11-06
-source-url: https://www.scoop.co.nz/stories/ED0011/S00013/strengthened-accountability-measures-long-overdue.htm
+title: Strengthened Accountability Measures Long Overdue
+date: 2000-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00013/strengthened-accountability-measures-long-overdue.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2000/11/06/strengthened-accountability-measures-long-overdue/index.html
+layout: layout.njk
 ---
 Strengthened Accountability Measures Long Overdue
 =================================================

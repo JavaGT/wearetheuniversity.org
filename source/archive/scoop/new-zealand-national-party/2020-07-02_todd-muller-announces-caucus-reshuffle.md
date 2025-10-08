@@ -1,9 +1,12 @@
 ---
 slug: todd-muller-announces-caucus-reshuffle
-title: "Todd Muller Announces Caucus Reshuffle"
-date: 2020-07-02
-source-url: https://www.scoop.co.nz/stories/PA2007/S00024/todd-muller-announces-caucus-reshuffle.htm
+title: Todd Muller Announces Caucus Reshuffle
+date: 2020-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00024/todd-muller-announces-caucus-reshuffle.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/02/todd-muller-announces-caucus-reshuffle/index.html
+layout: layout.njk
 ---
 Todd Muller Announces Caucus Reshuffle
 ======================================

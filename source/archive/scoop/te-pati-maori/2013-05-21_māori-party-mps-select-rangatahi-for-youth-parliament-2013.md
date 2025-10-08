@@ -1,9 +1,12 @@
 ---
 slug: māori-party-mps-select-rangatahi-for-youth-parliament-2013
-title: "Māori Party MPs Select Rangatahi For Youth Parliament 2013"
-date: 2013-05-21
-source-url: https://www.scoop.co.nz/stories/PA1305/S00420/maori-party-mps-select-rangatahi-for-youth-parliament-2013.htm
+title: Māori Party MPs Select Rangatahi For Youth Parliament 2013
+date: 2013-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00420/maori-party-mps-select-rangatahi-for-youth-parliament-2013.htm
 author: te-pati-maori
+permalink: /archive/2013/05/21/m/index.html
+layout: layout.njk
 ---
 Māori Party MPs Select Rangatahi For Youth Parliament 2013
 ==========================================================

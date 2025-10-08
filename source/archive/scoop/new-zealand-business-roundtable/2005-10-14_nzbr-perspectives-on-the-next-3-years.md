@@ -1,9 +1,12 @@
 ---
 slug: nzbr-perspectives-on-the-next-3-years
-title: "NZBR Perspectives On The Next 3 Years"
-date: 2005-10-14
-source-url: https://www.scoop.co.nz/stories/BU0510/S00265/nzbr-perspectives-on-the-next-3-years.htm
+title: NZBR Perspectives On The Next 3 Years
+date: 2005-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0510/S00265/nzbr-perspectives-on-the-next-3-years.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/10/14/nzbr-perspectives-on-the-next-3-years/index.html
+layout: layout.njk
 ---
 NZBR Perspectives On The Next 3 Years
 =====================================

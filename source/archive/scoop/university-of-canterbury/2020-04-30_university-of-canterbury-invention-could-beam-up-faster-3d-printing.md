@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-invention-could-beam-up-faster-3d-printing
-title: "University Of Canterbury Invention Could ‘beam Up’ Faster 3D Printing"
-date: 2020-04-30
-source-url: https://www.scoop.co.nz/stories/ED2004/S00064/university-of-canterbury-invention-could-beam-up-faster-3d-printing.htm
+title: University Of Canterbury Invention Could ‘beam Up’ Faster 3D Printing
+date: 2020-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2004/S00064/university-of-canterbury-invention-could-beam-up-faster-3d-printing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/04/30/university-of-canterbury-invention-could-beam-up-faster-3d-printing/index.html
+layout: layout.njk
 ---
 University Of Canterbury Invention Could ‘beam Up’ Faster 3D Printing
 =====================================================================

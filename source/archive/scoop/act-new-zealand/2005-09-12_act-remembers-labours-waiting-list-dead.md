@@ -1,9 +1,12 @@
 ---
 slug: act-remembers-labours-waiting-list-dead
-title: "ACT remembers Labour's waiting list dead"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/PA0509/S00266/act-remembers-labours-waiting-list-dead.htm
+title: ACT remembers Labour's waiting list dead
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00266/act-remembers-labours-waiting-list-dead.htm
 author: act-new-zealand
+permalink: /archive/2005/09/12/act-remembers-labours-waiting-list-dead/index.html
+layout: layout.njk
 ---
 ACT remembers Labour's waiting list dead
 ========================================

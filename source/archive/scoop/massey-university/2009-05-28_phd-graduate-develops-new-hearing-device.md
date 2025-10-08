@@ -1,9 +1,12 @@
 ---
 slug: phd-graduate-develops-new-hearing-device
-title: "PhD graduate develops new hearing device"
-date: 2009-05-28
-source-url: https://www.scoop.co.nz/stories/SC0905/S00041/phd-graduate-develops-new-hearing-device.htm
+title: PhD graduate develops new hearing device
+date: 2009-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0905/S00041/phd-graduate-develops-new-hearing-device.htm
 author: massey-university
+permalink: /archive/2009/05/28/phd-graduate-develops-new-hearing-device/index.html
+layout: layout.njk
 ---
 PhD graduate develops new hearing device
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: dalziel-turning-disaster-into-opportunity
-title: "Dalziel: Turning Disaster into Opportunity"
-date: 2011-11-30
-source-url: https://www.scoop.co.nz/stories/PA1111/S00521/dalziel-turning-disaster-into-opportunity.htm
+title: 'Dalziel: Turning Disaster into Opportunity'
+date: 2011-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00521/dalziel-turning-disaster-into-opportunity.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/30/dalziel-turning-disaster-into-opportunity/index.html
+layout: layout.njk
 ---
 Dalziel: Turning Disaster into Opportunity
 ==========================================

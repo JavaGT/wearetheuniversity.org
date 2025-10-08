@@ -1,9 +1,13 @@
 ---
 slug: 1000-police-and-their-families-rally-in-auckland
-title: "1000 police and their families rally in Auckland"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00014/1000-police-and-their-families-rally-in-auckland.htm
+title: 1000 police and their families rally in Auckland
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00014/1000-police-and-their-families-rally-in-auckland.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/12/02/1000-police-and-their-families-rally-in-auckland/index.html
+layout: layout.njk
 ---
 1000 police and their families rally in Auckland
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: inquiry-needed-into-mafs-moth-inaction
-title: "Inquiry needed into MAF's moth inaction"
-date: 2004-04-20
-source-url: https://www.scoop.co.nz/stories/PA0404/S00300/inquiry-needed-into-mafs-moth-inaction.htm
+title: Inquiry needed into MAF's moth inaction
+date: 2004-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00300/inquiry-needed-into-mafs-moth-inaction.htm
 author: green-party
+permalink: /archive/2004/04/20/inquiry-needed-into-mafs-moth-inaction/index.html
+layout: layout.njk
 ---
 Inquiry needed into MAF's moth inaction
 =======================================

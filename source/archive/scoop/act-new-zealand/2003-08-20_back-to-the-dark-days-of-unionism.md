@@ -1,9 +1,12 @@
 ---
 slug: back-to-the-dark-days-of-unionism
-title: "Back To The Dark Days Of Unionism"
-date: 2003-08-20
-source-url: https://www.scoop.co.nz/stories/PA0308/S00393/back-to-the-dark-days-of-unionism.htm
+title: Back To The Dark Days Of Unionism
+date: 2003-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00393/back-to-the-dark-days-of-unionism.htm
 author: act-new-zealand
+permalink: /archive/2003/08/20/back-to-the-dark-days-of-unionism/index.html
+layout: layout.njk
 ---
 Back To The Dark Days Of Unionism
 =================================

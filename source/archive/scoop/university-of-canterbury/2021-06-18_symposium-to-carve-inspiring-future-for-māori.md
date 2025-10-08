@@ -1,9 +1,12 @@
 ---
 slug: symposium-to-carve-inspiring-future-for-māori
-title: "Symposium To Carve Inspiring Future For Māori"
-date: 2021-06-18
-source-url: https://www.scoop.co.nz/stories/CU2106/S00139/symposium-to-carve-inspiring-future-for-maori.htm
+title: Symposium To Carve Inspiring Future For Māori
+date: 2021-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2106/S00139/symposium-to-carve-inspiring-future-for-maori.htm
 author: university-of-canterbury
+permalink: /archive/2021/06/18/symposium-to-carve-inspiring-future-for-m/index.html
+layout: layout.njk
 ---
 Symposium To Carve Inspiring Future For Māori
 =============================================

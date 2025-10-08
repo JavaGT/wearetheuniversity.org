@@ -1,9 +1,13 @@
 ---
 slug: asbestos-needs-a-ban-and-a-plan-petition-presented
-title: "Asbestos needs a ban and a plan - petition presented"
-date: 2015-04-01
-source-url: https://www.scoop.co.nz/stories/PO1504/S00014/asbestos-needs-a-ban-and-a-plan-petition-presented.htm
+title: Asbestos needs a ban and a plan - petition presented
+date: 2015-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1504/S00014/asbestos-needs-a-ban-and-a-plan-petition-presented.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2015/04/01/asbestos-needs-a-ban-and-a-plan-petition-presented/index.html
+layout: layout.njk
 ---
 Asbestos needs a ban and a plan - petition presented
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: proof-will-be-in-the-cera-pudding
-title: "Proof will be in the CERA pudding"
-date: 2011-05-04
-source-url: https://www.scoop.co.nz/stories/PA1105/S00069/proof-will-be-in-the-cera-pudding.htm
+title: Proof will be in the CERA pudding
+date: 2011-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00069/proof-will-be-in-the-cera-pudding.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/04/proof-will-be-in-the-cera-pudding/index.html
+layout: layout.njk
 ---
 Proof will be in the CERA pudding
 =================================

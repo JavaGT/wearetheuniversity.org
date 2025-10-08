@@ -1,9 +1,12 @@
 ---
 slug: education-for-new-zealanders-first!
-title: "Education For New Zealanders – First!"
-date: 2005-06-02
-source-url: https://www.scoop.co.nz/stories/PA0506/S00053/education-for-new-zealanders-first.htm
+title: Education For New Zealanders – First!
+date: 2005-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00053/education-for-new-zealanders-first.htm
 author: new-zealand-first-party
+permalink: /archive/2005/06/02/education-for-new-zealanders-first/index.html
+layout: layout.njk
 ---
 Education For New Zealanders – First!
 =====================================

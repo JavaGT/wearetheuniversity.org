@@ -1,9 +1,13 @@
 ---
 slug: vital-school-property-in-maungakiekie-given-a-boost
-title: "Vital school property in Maungakiekie given a  boost"
-date: 2011-02-21
-source-url: https://www.scoop.co.nz/stories/PA1102/S00319/vital-school-property-in-maungakiekie-given-a-boost.htm
+title: Vital school property in Maungakiekie given a  boost
+date: 2011-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00319/vital-school-property-in-maungakiekie-given-a-boost.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/02/21/vital-school-property-in-maungakiekie-given-a-boost/index.html
+layout: layout.njk
 ---
 Vital school property in Maungakiekie given a boost
 ===================================================

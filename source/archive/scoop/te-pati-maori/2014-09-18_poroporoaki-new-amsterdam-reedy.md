@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-new-amsterdam-reedy
-title: "POROPOROAKI: New Amsterdam Reedy"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/PA1409/S00277/poroporoaki-new-amsterdam-reedy.htm
+title: 'POROPOROAKI: New Amsterdam Reedy'
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00277/poroporoaki-new-amsterdam-reedy.htm
 author: te-pati-maori
+permalink: /archive/2014/09/18/poroporoaki-new-amsterdam-reedy/index.html
+layout: layout.njk
 ---
 POROPOROAKI: New Amsterdam Reedy
 ================================

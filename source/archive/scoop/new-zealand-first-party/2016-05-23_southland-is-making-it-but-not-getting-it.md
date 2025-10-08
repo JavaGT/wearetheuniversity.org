@@ -1,9 +1,12 @@
 ---
 slug: southland-is-making-it-but-not-getting-it
-title: "Southland is making it but not getting it"
-date: 2016-05-23
-source-url: https://www.scoop.co.nz/stories/PA1605/S00415/southland-is-making-it-but-not-getting-it.htm
+title: Southland is making it but not getting it
+date: 2016-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00415/southland-is-making-it-but-not-getting-it.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/23/southland-is-making-it-but-not-getting-it/index.html
+layout: layout.njk
 ---
 Southland is making it but not getting it
 =========================================

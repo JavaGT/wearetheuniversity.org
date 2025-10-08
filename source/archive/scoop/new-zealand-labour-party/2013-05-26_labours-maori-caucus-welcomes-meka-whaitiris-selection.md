@@ -1,9 +1,13 @@
 ---
 slug: labours-maori-caucus-welcomes-meka-whaitiris-selection
-title: "Labour’s Maori caucus welcomes Meka Whaitiri’s selection"
-date: 2013-05-26
-source-url: https://www.scoop.co.nz/stories/PA1305/S00511/labours-maori-caucus-welcomes-meka-whaitiris-selection.htm
+title: Labour’s Maori caucus welcomes Meka Whaitiri’s selection
+date: 2013-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00511/labours-maori-caucus-welcomes-meka-whaitiris-selection.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/05/26/labours-maori-caucus-welcomes-meka-whaitiris-selection/index.html
+layout: layout.njk
 ---
 Labour’s Maori caucus welcomes Meka Whaitiri’s selection
 ========================================================

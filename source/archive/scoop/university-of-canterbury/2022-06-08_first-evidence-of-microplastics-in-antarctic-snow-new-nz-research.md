@@ -1,9 +1,13 @@
 ---
 slug: first-evidence-of-microplastics-in-antarctic-snow-new-nz-research
-title: "First Evidence Of Microplastics In Antarctic Snow – New NZ Research"
-date: 2022-06-08
-source-url: https://www.scoop.co.nz/stories/SC2206/S00009/first-evidence-of-microplastics-in-antarctic-snow-new-nz-research.htm
+title: First Evidence Of Microplastics In Antarctic Snow – New NZ Research
+date: 2022-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2206/S00009/first-evidence-of-microplastics-in-antarctic-snow-new-nz-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/06/08/first-evidence-of-microplastics-in-antarctic-snow-new-nz-research/index.html
+layout: layout.njk
 ---
 First Evidence Of Microplastics In Antarctic Snow – New NZ Research
 ===================================================================

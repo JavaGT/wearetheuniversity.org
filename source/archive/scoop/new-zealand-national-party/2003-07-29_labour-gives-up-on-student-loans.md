@@ -1,9 +1,12 @@
 ---
 slug: labour-gives-up-on-student-loans
-title: "Labour gives up on student loans"
-date: 2003-07-29
-source-url: https://www.scoop.co.nz/stories/PA0307/S00513/labour-gives-up-on-student-loans.htm
+title: Labour gives up on student loans
+date: 2003-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00513/labour-gives-up-on-student-loans.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/29/labour-gives-up-on-student-loans/index.html
+layout: layout.njk
 ---
 Labour gives up on student loans
 ================================

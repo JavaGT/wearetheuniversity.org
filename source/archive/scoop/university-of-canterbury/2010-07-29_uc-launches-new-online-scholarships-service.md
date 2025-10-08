@@ -1,9 +1,12 @@
 ---
 slug: uc-launches-new-online-scholarships-service
-title: "UC launches new online scholarships service"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/ED1007/S00105/uc-launches-new-online-scholarships-service.htm
+title: UC launches new online scholarships service
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00105/uc-launches-new-online-scholarships-service.htm
 author: university-of-canterbury
+permalink: /archive/2010/07/29/uc-launches-new-online-scholarships-service/index.html
+layout: layout.njk
 ---
 UC launches new online scholarships service
 ===========================================

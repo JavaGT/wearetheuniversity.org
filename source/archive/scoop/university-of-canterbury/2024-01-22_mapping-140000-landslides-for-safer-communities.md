@@ -1,9 +1,12 @@
 ---
 slug: mapping-140000-landslides-for-safer-communities
-title: "Mapping 140,000 Landslides For Safer Communities"
-date: 2024-01-22
-source-url: https://www.scoop.co.nz/stories/SC2401/S00014/mapping-140000-landslides-for-safer-communities.htm
+title: Mapping 140,000 Landslides For Safer Communities
+date: 2024-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2401/S00014/mapping-140000-landslides-for-safer-communities.htm
 author: university-of-canterbury
+permalink: /archive/2024/01/22/mapping-140000-landslides-for-safer-communities/index.html
+layout: layout.njk
 ---
 Mapping 140,000 Landslides For Safer Communities
 ================================================

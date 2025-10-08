@@ -1,9 +1,12 @@
 ---
 slug: minister-fails-to-understand-parent-concerns
-title: "Minister fails to understand parent concerns"
-date: 2007-11-13
-source-url: https://www.scoop.co.nz/stories/PA0711/S00250/minister-fails-to-understand-parent-concerns.htm
+title: Minister fails to understand parent concerns
+date: 2007-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00250/minister-fails-to-understand-parent-concerns.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/13/minister-fails-to-understand-parent-concerns/index.html
+layout: layout.njk
 ---
 Minister fails to understand parent concerns
 ============================================

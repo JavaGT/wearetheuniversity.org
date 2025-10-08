@@ -1,9 +1,13 @@
 ---
 slug: researchers-address-meaning-of-maths-for-new-era
-title: "Researchers address meaning of maths for new era"
-date: 2009-07-03
-source-url: https://www.scoop.co.nz/stories/ED0907/S00016/researchers-address-meaning-of-maths-for-new-era.htm
+title: Researchers address meaning of maths for new era
+date: 2009-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00016/researchers-address-meaning-of-maths-for-new-era.htm
 author: massey-university
+permalink: >-
+  /archive/2009/07/03/researchers-address-meaning-of-maths-for-new-era/index.html
+layout: layout.njk
 ---
 Researchers address meaning of maths for new era
 ================================================

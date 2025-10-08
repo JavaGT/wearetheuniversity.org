@@ -1,9 +1,11 @@
 ---
 slug: sex-trials-in-the-spotlight
-title: "Sex trials in the spotlight"
-date: 2009-08-17
+title: Sex trials in the spotlight
+date: 2009-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL0908/S00129/sex-trials-in-the-spotlight.htm
 author: salient
+permalink: /archive/2009/08/17/sex-trials-in-the-spotlight/index.html
+layout: layout.njk
 ---
 Sex trials in the spotlight
 ===========================

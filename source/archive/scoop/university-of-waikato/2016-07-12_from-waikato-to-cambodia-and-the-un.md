@@ -1,9 +1,12 @@
 ---
 slug: from-waikato-to-cambodia-and-the-un
-title: "From Waikato to Cambodia, and the UN"
-date: 2016-07-12
-source-url: https://www.scoop.co.nz/stories/ED1607/S00056/from-waikato-to-cambodia-and-the-un.htm
+title: From Waikato to Cambodia, and the UN
+date: 2016-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00056/from-waikato-to-cambodia-and-the-un.htm
 author: university-of-waikato
+permalink: /archive/2016/07/12/from-waikato-to-cambodia-and-the-un/index.html
+layout: layout.njk
 ---
 From Waikato to Cambodia, and the UN
 ====================================

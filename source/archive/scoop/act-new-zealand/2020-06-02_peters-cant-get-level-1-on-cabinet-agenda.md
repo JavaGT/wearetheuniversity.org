@@ -1,9 +1,12 @@
 ---
 slug: peters-cant-get-level-1-on-cabinet-agenda
-title: "Peters Can’t Get Level 1 On Cabinet Agenda"
-date: 2020-06-02
-source-url: https://www.scoop.co.nz/stories/PA2006/S00010/peters-cant-get-level-1-on-cabinet-agenda.htm
+title: Peters Can’t Get Level 1 On Cabinet Agenda
+date: 2020-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00010/peters-cant-get-level-1-on-cabinet-agenda.htm
 author: act-new-zealand
+permalink: /archive/2020/06/02/peters-cant-get-level-1-on-cabinet-agenda/index.html
+layout: layout.njk
 ---
 Peters Can’t Get Level 1 On Cabinet Agenda
 ==========================================

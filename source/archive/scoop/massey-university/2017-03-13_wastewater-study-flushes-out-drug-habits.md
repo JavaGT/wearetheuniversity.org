@@ -1,9 +1,12 @@
 ---
 slug: wastewater-study-flushes-out-drug-habits
-title: "Wastewater study flushes out drug habits"
-date: 2017-03-13
-source-url: https://www.scoop.co.nz/stories/SC1703/S00033/wastewater-study-flushes-out-drug-habits.htm
+title: Wastewater study flushes out drug habits
+date: 2017-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00033/wastewater-study-flushes-out-drug-habits.htm
 author: massey-university
+permalink: /archive/2017/03/13/wastewater-study-flushes-out-drug-habits/index.html
+layout: layout.njk
 ---
 Wastewater study flushes out drug habits
 ========================================

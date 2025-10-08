@@ -1,9 +1,12 @@
 ---
 slug: apprenticeships-go-over-8000-under-labour
-title: "Apprenticeships go over 8000 under Labour"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/PA0509/S00292/apprenticeships-go-over-8000-under-labour.htm
+title: Apprenticeships go over 8000 under Labour
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00292/apprenticeships-go-over-8000-under-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/12/apprenticeships-go-over-8000-under-labour/index.html
+layout: layout.njk
 ---
 Apprenticeships go over 8000 under Labour
 =========================================

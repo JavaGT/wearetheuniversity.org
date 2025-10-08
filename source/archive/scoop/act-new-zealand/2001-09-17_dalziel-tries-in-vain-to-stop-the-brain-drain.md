@@ -1,9 +1,12 @@
 ---
 slug: dalziel-tries-in-vain-to-stop-the-brain-drain
-title: "Dalziel Tries In Vain To Stop The Brain Drain"
-date: 2001-09-17
-source-url: https://www.scoop.co.nz/stories/PA0109/S00257/dalziel-tries-in-vain-to-stop-the-brain-drain.htm
+title: Dalziel Tries In Vain To Stop The Brain Drain
+date: 2001-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00257/dalziel-tries-in-vain-to-stop-the-brain-drain.htm
 author: act-new-zealand
+permalink: /archive/2001/09/17/dalziel-tries-in-vain-to-stop-the-brain-drain/index.html
+layout: layout.njk
 ---
 Dalziel Tries In Vain To Stop The Brain Drain
 =============================================

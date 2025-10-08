@@ -1,9 +1,12 @@
 ---
 slug: govt-doesnt-hold-data-on-truancy
-title: "Govt Doesn’t Hold Data On Truancy"
-date: 2022-10-29
-source-url: https://www.scoop.co.nz/stories/PA2210/S00219/govt-doesnt-hold-data-on-truancy.htm
+title: Govt Doesn’t Hold Data On Truancy
+date: 2022-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00219/govt-doesnt-hold-data-on-truancy.htm
 author: act-new-zealand
+permalink: /archive/2022/10/29/govt-doesnt-hold-data-on-truancy/index.html
+layout: layout.njk
 ---
 Govt Doesn’t Hold Data On Truancy
 =================================

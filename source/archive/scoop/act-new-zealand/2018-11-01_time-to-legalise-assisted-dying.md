@@ -1,9 +1,12 @@
 ---
 slug: time-to-legalise-assisted-dying
-title: "Time to legalise assisted dying"
-date: 2018-11-01
-source-url: https://www.scoop.co.nz/stories/PA1811/S00009/time-to-legalise-assisted-dying.htm
+title: Time to legalise assisted dying
+date: 2018-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00009/time-to-legalise-assisted-dying.htm
 author: act-new-zealand
+permalink: /archive/2018/11/01/time-to-legalise-assisted-dying/index.html
+layout: layout.njk
 ---
 Time to legalise assisted dying
 ===============================

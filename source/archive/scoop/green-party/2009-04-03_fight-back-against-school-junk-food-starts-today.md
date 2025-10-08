@@ -1,9 +1,13 @@
 ---
 slug: fight-back-against-school-junk-food-starts-today
-title: "Fight-back against school junk food starts today"
-date: 2009-04-03
-source-url: https://www.scoop.co.nz/stories/PA0904/S00056/fight-back-against-school-junk-food-starts-today.htm
+title: Fight-back against school junk food starts today
+date: 2009-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00056/fight-back-against-school-junk-food-starts-today.htm
 author: green-party
+permalink: >-
+  /archive/2009/04/03/fight-back-against-school-junk-food-starts-today/index.html
+layout: layout.njk
 ---
 Fight-back against school junk food starts today
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: time-for-a-breather-on-immigration
-title: "Time for a breather on immigration"
-date: 2017-06-12
-source-url: https://www.scoop.co.nz/stories/PA1706/S00195/time-for-a-breather-on-immigration.htm
+title: Time for a breather on immigration
+date: 2017-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00195/time-for-a-breather-on-immigration.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/06/12/time-for-a-breather-on-immigration/index.html
+layout: layout.njk
 ---
 Time for a breather on immigration
 ==================================

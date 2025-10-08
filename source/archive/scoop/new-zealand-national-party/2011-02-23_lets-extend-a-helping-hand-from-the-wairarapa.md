@@ -1,9 +1,12 @@
 ---
 slug: lets-extend-a-helping-hand-from-the-wairarapa
-title: "Let’s extend a helping hand from the Wairarapa"
-date: 2011-02-23
-source-url: https://www.scoop.co.nz/stories/PA1102/S00363/lets-extend-a-helping-hand-from-the-wairarapa.htm
+title: Let’s extend a helping hand from the Wairarapa
+date: 2011-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00363/lets-extend-a-helping-hand-from-the-wairarapa.htm
 author: new-zealand-national-party
+permalink: /archive/2011/02/23/lets-extend-a-helping-hand-from-the-wairarapa/index.html
+layout: layout.njk
 ---
 Let’s extend a helping hand from the Wairarapa
 ==============================================

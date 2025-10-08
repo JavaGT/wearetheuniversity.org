@@ -1,9 +1,11 @@
 ---
 slug: research-gets-gold
-title: "Research gets gold"
-date: 2014-03-17
+title: Research gets gold
+date: 2014-03-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1403/S00041/research-gets-gold.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/03/17/research-gets-gold/index.html
+layout: layout.njk
 ---
 Research gets gold
 ==================

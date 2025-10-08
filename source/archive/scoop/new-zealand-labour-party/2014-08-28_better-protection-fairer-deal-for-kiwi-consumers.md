@@ -1,9 +1,13 @@
 ---
 slug: better-protection-fairer-deal-for-kiwi-consumers
-title: "Better protection, fairer deal for Kiwi consumers"
-date: 2014-08-28
-source-url: https://www.scoop.co.nz/stories/PA1408/S00437/better-protection-fairer-deal-for-kiwi-consumers.htm
+title: Better protection, fairer deal for Kiwi consumers
+date: 2014-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00437/better-protection-fairer-deal-for-kiwi-consumers.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/28/better-protection-fairer-deal-for-kiwi-consumers/index.html
+layout: layout.njk
 ---
 Better protection, fairer deal for Kiwi consumers
 =================================================

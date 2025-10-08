@@ -1,9 +1,11 @@
 ---
 slug: peace-week-at-massey
-title: "Peace Week at Massey"
-date: 2016-09-14
+title: Peace Week at Massey
+date: 2016-09-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1609/S00066/peace-week-at-massey.htm
 author: massey-university
+permalink: /archive/2016/09/14/peace-week-at-massey/index.html
+layout: layout.njk
 ---
 Peace Week at Massey
 ====================

@@ -1,8 +1,12 @@
 ---
 slug: lecture-on-monty-pythons-life-of-brian-and-jesus
-title: "Lecture on Monty Python’s Life of Brian and Jesus"
-date: 2016-04-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/lecture-on-monty-pythons-life-of-brian-and-jesus.html
+title: Lecture on Monty Python’s Life of Brian and Jesus
+date: 2016-04-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/lecture-on-monty-pythons-life-of-brian-and-jesus.html
+permalink: >-
+  /archive/2016/04/18/lecture-on-monty-pythons-life-of-brian-and-jesus/index.html
+layout: layout.njk
 ---
 Lecture on Monty Python’s Life of Brian and Jesus
 =================================================

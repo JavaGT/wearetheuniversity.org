@@ -1,9 +1,12 @@
 ---
 slug: labours-mâori-chair-writes-off-mâori-youth
-title: "Labour’s Mâori Chair writes off Mâori youth"
-date: 2006-06-21
-source-url: https://www.scoop.co.nz/stories/ED0606/S00046/labours-maori-chair-writes-off-maori-youth.htm
+title: Labour’s Mâori Chair writes off Mâori youth
+date: 2006-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00046/labours-maori-chair-writes-off-maori-youth.htm
 author: te-mana-akonga
+permalink: /archive/2006/06/21/labours-m/index.html
+layout: layout.njk
 ---
 Labour’s Mâori Chair writes off Mâori youth
 ===========================================

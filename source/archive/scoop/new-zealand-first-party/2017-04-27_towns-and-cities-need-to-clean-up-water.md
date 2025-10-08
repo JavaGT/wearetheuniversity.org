@@ -1,9 +1,12 @@
 ---
 slug: towns-and-cities-need-to-clean-up-water
-title: "Towns And Cities Need to Clean up Water"
-date: 2017-04-27
-source-url: https://www.scoop.co.nz/stories/PA1704/S00333/towns-and-cities-need-to-clean-up-water.htm
+title: Towns And Cities Need to Clean up Water
+date: 2017-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00333/towns-and-cities-need-to-clean-up-water.htm
 author: new-zealand-first-party
+permalink: /archive/2017/04/27/towns-and-cities-need-to-clean-up-water/index.html
+layout: layout.njk
 ---
 Towns And Cities Need to Clean up Water
 =======================================

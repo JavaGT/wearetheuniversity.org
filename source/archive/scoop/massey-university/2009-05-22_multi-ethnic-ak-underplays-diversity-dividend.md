@@ -1,9 +1,12 @@
 ---
 slug: multi-ethnic-ak-underplays-diversity-dividend
-title: "Multi-ethnic Ak underplays ‘diversity dividend'"
-date: 2009-05-22
-source-url: https://www.scoop.co.nz/stories/AK0905/S00306/multi-ethnic-ak-underplays-diversity-dividend.htm
+title: Multi-ethnic Ak underplays ‘diversity dividend'
+date: 2009-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0905/S00306/multi-ethnic-ak-underplays-diversity-dividend.htm
 author: massey-university
+permalink: /archive/2009/05/22/multi-ethnic-ak-underplays-diversity-dividend/index.html
+layout: layout.njk
 ---
 Multi-ethnic Ak underplays ‘diversity dividend'
 ===============================================

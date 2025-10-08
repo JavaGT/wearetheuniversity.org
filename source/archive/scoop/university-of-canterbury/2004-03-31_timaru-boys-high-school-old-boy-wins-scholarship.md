@@ -1,9 +1,13 @@
 ---
 slug: timaru-boys-high-school-old-boy-wins-scholarship
-title: "Timaru Boys’ High School old boy wins scholarship"
-date: 2004-03-31
-source-url: https://www.scoop.co.nz/stories/ED0403/S00132/timaru-boys-high-school-old-boy-wins-scholarship.htm
+title: Timaru Boys’ High School old boy wins scholarship
+date: 2004-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00132/timaru-boys-high-school-old-boy-wins-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/03/31/timaru-boys-high-school-old-boy-wins-scholarship/index.html
+layout: layout.njk
 ---
 Timaru Boys’ High School old boy wins scholarship
 =================================================

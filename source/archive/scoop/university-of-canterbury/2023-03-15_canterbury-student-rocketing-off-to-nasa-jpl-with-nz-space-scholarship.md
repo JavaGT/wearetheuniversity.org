@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-rocketing-off-to-nasa-jpl-with-nz-space-scholarship
-title: "Canterbury Student Rocketing Off To NASA JPL With NZ Space Scholarship"
-date: 2023-03-15
-source-url: https://www.scoop.co.nz/stories/ED2303/S00024/canterbury-student-rocketing-off-to-nasa-jpl-with-nz-space-scholarship.htm
+title: Canterbury Student Rocketing Off To NASA JPL With NZ Space Scholarship
+date: 2023-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00024/canterbury-student-rocketing-off-to-nasa-jpl-with-nz-space-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/03/15/canterbury-student-rocketing-off-to-nasa-jpl-with-nz-space-scholarship/index.html
+layout: layout.njk
 ---
 Canterbury Student Rocketing Off To NASA JPL With NZ Space Scholarship
 ======================================================================

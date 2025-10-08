@@ -1,9 +1,11 @@
 ---
 slug: business-as-usual-at-ccdhb
-title: "Business As Usual At CCDHB"
-date: 2007-12-13
+title: Business As Usual At CCDHB
+date: 2007-12-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0712/S00306/business-as-usual-at-ccdhb.htm
 author: act-new-zealand
+permalink: /archive/2007/12/13/business-as-usual-at-ccdhb/index.html
+layout: layout.njk
 ---
 Business As Usual At CCDHB
 ==========================

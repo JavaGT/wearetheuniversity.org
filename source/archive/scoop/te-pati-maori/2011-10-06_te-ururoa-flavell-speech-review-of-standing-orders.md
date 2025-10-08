@@ -1,9 +1,13 @@
 ---
 slug: te-ururoa-flavell-speech-review-of-standing-orders
-title: "Te Ururoa Flavell Speech: Review of Standing Orders"
-date: 2011-10-06
-source-url: https://www.scoop.co.nz/stories/PA1110/S00125/te-ururoa-flavell-speech-review-of-standing-orders.htm
+title: 'Te Ururoa Flavell Speech: Review of Standing Orders'
+date: 2011-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00125/te-ururoa-flavell-speech-review-of-standing-orders.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/10/06/te-ururoa-flavell-speech-review-of-standing-orders/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell Speech: Review of Standing Orders
 ===================================================

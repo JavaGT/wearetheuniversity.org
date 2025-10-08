@@ -1,9 +1,13 @@
 ---
 slug: micronutrients-used-to-treat-antenatal-depression-in-world-first-study
-title: "Micronutrients Used To Treat Antenatal Depression In World First Study"
-date: 2024-06-05
-source-url: https://www.scoop.co.nz/stories/GE2406/S00010/micronutrients-used-to-treat-antenatal-depression-in-world-first-study.htm
+title: Micronutrients Used To Treat Antenatal Depression In World First Study
+date: 2024-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2406/S00010/micronutrients-used-to-treat-antenatal-depression-in-world-first-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/06/05/micronutrients-used-to-treat-antenatal-depression-in-world-first-study/index.html
+layout: layout.njk
 ---
 Micronutrients Used To Treat Antenatal Depression In World First Study
 ======================================================================

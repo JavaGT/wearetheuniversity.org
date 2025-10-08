@@ -1,9 +1,12 @@
 ---
 slug: programme-proposals-in-lincolns-best-interests
-title: "Programme proposals in Lincoln’s best interests"
-date: 2002-08-14
-source-url: https://www.scoop.co.nz/stories/ED0208/S00015/programme-proposals-in-lincolns-best-interests.htm
+title: Programme proposals in Lincoln’s best interests
+date: 2002-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00015/programme-proposals-in-lincolns-best-interests.htm
 author: lincoln-university
+permalink: /archive/2002/08/14/programme-proposals-in-lincolns-best-interests/index.html
+layout: layout.njk
 ---
 Programme proposals in Lincoln’s best interests
 ===============================================

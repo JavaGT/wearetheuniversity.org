@@ -1,9 +1,13 @@
 ---
 slug: guest-lecture-to-put-modern-photography-in-focus
-title: "Guest lecture to put modern photography in focus"
-date: 2010-03-25
-source-url: https://www.scoop.co.nz/stories/ED1003/S00119/guest-lecture-to-put-modern-photography-in-focus.htm
+title: Guest lecture to put modern photography in focus
+date: 2010-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00119/guest-lecture-to-put-modern-photography-in-focus.htm
 author: massey-university
+permalink: >-
+  /archive/2010/03/25/guest-lecture-to-put-modern-photography-in-focus/index.html
+layout: layout.njk
 ---
 Guest lecture to put modern photography in focus
 ================================================

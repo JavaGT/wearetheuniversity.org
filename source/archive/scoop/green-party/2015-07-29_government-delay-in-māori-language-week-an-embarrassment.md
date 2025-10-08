@@ -1,9 +1,12 @@
 ---
 slug: government-delay-in-māori-language-week-an-embarrassment
-title: "Government delay in Māori Language week an embarrassment"
-date: 2015-07-29
-source-url: https://www.scoop.co.nz/stories/PA1507/S00498/government-delay-in-maori-language-week-an-embarrassment.htm
+title: Government delay in Māori Language week an embarrassment
+date: 2015-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00498/government-delay-in-maori-language-week-an-embarrassment.htm
 author: green-party
+permalink: /archive/2015/07/29/government-delay-in-m/index.html
+layout: layout.njk
 ---
 Government delay in Māori Language week an embarrassment
 ========================================================

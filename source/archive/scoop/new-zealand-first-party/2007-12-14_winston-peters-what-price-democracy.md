@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-what-price-democracy
-title: "Winston Peters - \"What Price Democracy?\""
-date: 2007-12-14
-source-url: https://www.scoop.co.nz/stories/PA0712/S00340/winston-peters-what-price-democracy.htm
+title: Winston Peters - "What Price Democracy?"
+date: 2007-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00340/winston-peters-what-price-democracy.htm
 author: new-zealand-first-party
+permalink: /archive/2007/12/14/winston-peters-what-price-democracy/index.html
+layout: layout.njk
 ---
 Winston Peters - “What Price Democracy?”
 ========================================

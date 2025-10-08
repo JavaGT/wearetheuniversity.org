@@ -1,9 +1,12 @@
 ---
 slug: international-law-making-is-focus-of-conference
-title: "International law-making is focus of conference"
-date: 2015-06-26
-source-url: https://www.scoop.co.nz/stories/ED1506/S00133/international-law-making-is-focus-of-conference.htm
+title: International law-making is focus of conference
+date: 2015-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00133/international-law-making-is-focus-of-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/06/26/international-law-making-is-focus-of-conference/index.html
+layout: layout.njk
 ---
 International law-making is focus of conference
 ===============================================

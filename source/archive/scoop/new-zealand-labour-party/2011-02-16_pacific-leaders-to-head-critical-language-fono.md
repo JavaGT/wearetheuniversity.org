@@ -1,9 +1,12 @@
 ---
 slug: pacific-leaders-to-head-critical-language-fono
-title: "Pacific leaders to head critical language fono"
-date: 2011-02-16
-source-url: https://www.scoop.co.nz/stories/PA1102/S00237/pacific-leaders-to-head-critical-language-fono.htm
+title: Pacific leaders to head critical language fono
+date: 2011-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00237/pacific-leaders-to-head-critical-language-fono.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/02/16/pacific-leaders-to-head-critical-language-fono/index.html
+layout: layout.njk
 ---
 Pacific leaders to head critical language fono
 ==============================================

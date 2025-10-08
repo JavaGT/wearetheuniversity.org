@@ -1,9 +1,12 @@
 ---
 slug: mallards-budget-offering-quantity-not-quality
-title: "Mallard's Budget Offering: Quantity, Not Quality"
-date: 2003-04-30
-source-url: https://www.scoop.co.nz/stories/PA0304/S00550/mallards-budget-offering-quantity-not-quality.htm
+title: 'Mallard''s Budget Offering: Quantity, Not Quality'
+date: 2003-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00550/mallards-budget-offering-quantity-not-quality.htm
 author: act-new-zealand
+permalink: /archive/2003/04/30/mallards-budget-offering-quantity-not-quality/index.html
+layout: layout.njk
 ---
 Mallard's Budget Offering: Quantity, Not Quality
 ================================================

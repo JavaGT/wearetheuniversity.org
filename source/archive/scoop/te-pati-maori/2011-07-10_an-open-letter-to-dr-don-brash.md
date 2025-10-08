@@ -1,9 +1,12 @@
 ---
 slug: an-open-letter-to-dr-don-brash
-title: "An Open Letter to Dr Don Brash"
-date: 2011-07-10
-source-url: https://www.scoop.co.nz/stories/PA1107/S00157/an-open-letter-to-dr-don-brash.htm
+title: An Open Letter to Dr Don Brash
+date: 2011-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00157/an-open-letter-to-dr-don-brash.htm
 author: te-pati-maori
+permalink: /archive/2011/07/10/an-open-letter-to-dr-don-brash/index.html
+layout: layout.njk
 ---
 An Open Letter to Dr Don Brash
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: labour-backdown-on-rent-cut-imminent
-title: "Labour Backdown On Rent Cut Imminent"
-date: 2000-01-19
-source-url: https://www.scoop.co.nz/stories/PO0001/S00015/labour-backdown-on-rent-cut-imminent.htm
+title: Labour Backdown On Rent Cut Imminent
+date: 2000-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0001/S00015/labour-backdown-on-rent-cut-imminent.htm
 author: prebble-s-rebels
+permalink: /archive/2000/01/19/labour-backdown-on-rent-cut-imminent/index.html
+layout: layout.njk
 ---
 Labour Backdown On Rent Cut Imminent
 ====================================

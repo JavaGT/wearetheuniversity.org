@@ -1,9 +1,13 @@
 ---
 slug: government-must-help-christchurch-keep-public-assets
-title: "Government must help Christchurch keep Public Assets"
-date: 2015-04-28
-source-url: https://www.scoop.co.nz/stories/PA1504/S00360/government-must-help-christchurch-keep-public-assets.htm
+title: Government must help Christchurch keep Public Assets
+date: 2015-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00360/government-must-help-christchurch-keep-public-assets.htm
 author: green-party
+permalink: >-
+  /archive/2015/04/28/government-must-help-christchurch-keep-public-assets/index.html
+layout: layout.njk
 ---
 Government must help Christchurch keep Public Assets
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-inaction-risks-threat-of-superbugs-in-our-food
-title: "Govt inaction risks threat of superbugs in our food"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/PA1302/S00146/govt-inaction-risks-threat-of-superbugs-in-our-food.htm
+title: Govt inaction risks threat of superbugs in our food
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00146/govt-inaction-risks-threat-of-superbugs-in-our-food.htm
 author: green-party
+permalink: >-
+  /archive/2013/02/13/govt-inaction-risks-threat-of-superbugs-in-our-food/index.html
+layout: layout.njk
 ---
 Govt inaction risks threat of superbugs in our food
 ===================================================

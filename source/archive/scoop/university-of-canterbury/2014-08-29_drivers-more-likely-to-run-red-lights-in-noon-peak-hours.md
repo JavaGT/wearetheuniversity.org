@@ -1,9 +1,13 @@
 ---
 slug: drivers-more-likely-to-run-red-lights-in-noon-peak-hours
-title: "Drivers more likely to run red lights in noon peak hours"
-date: 2014-08-29
-source-url: https://www.scoop.co.nz/stories/GE1408/S00151/drivers-more-likely-to-run-red-lights-in-noon-peak-hours.htm
+title: Drivers more likely to run red lights in noon peak hours
+date: 2014-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1408/S00151/drivers-more-likely-to-run-red-lights-in-noon-peak-hours.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/29/drivers-more-likely-to-run-red-lights-in-noon-peak-hours/index.html
+layout: layout.njk
 ---
 Drivers more likely to run red lights in noon peak hours
 ========================================================

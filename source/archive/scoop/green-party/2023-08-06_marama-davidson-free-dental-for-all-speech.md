@@ -1,9 +1,12 @@
 ---
 slug: marama-davidson-free-dental-for-all-speech
-title: "Marama Davidson Free Dental For All Speech"
-date: 2023-08-06
-source-url: https://www.scoop.co.nz/stories/PO2308/S00056/marama-davidson-free-dental-for-all-speech.htm
+title: Marama Davidson Free Dental For All Speech
+date: 2023-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00056/marama-davidson-free-dental-for-all-speech.htm
 author: green-party
+permalink: /archive/2023/08/06/marama-davidson-free-dental-for-all-speech/index.html
+layout: layout.njk
 ---
 Marama Davidson Free Dental For All Speech
 ==========================================

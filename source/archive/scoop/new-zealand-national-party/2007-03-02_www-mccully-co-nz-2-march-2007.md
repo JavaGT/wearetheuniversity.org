@@ -1,9 +1,11 @@
 ---
 slug: www-mccully-co-nz-2-march-2007
-title: "www.mccully.co.nz - 2 March 2007"
-date: 2007-03-02
+title: www.mccully.co.nz - 2 March 2007
+date: 2007-03-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0703/S00056/wwwmccullyconz-2-march-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/02/www-mccully-co-nz-2-march-2007/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 2 March 2007
 ================================

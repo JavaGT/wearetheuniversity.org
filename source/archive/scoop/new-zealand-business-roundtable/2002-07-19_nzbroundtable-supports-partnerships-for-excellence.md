@@ -1,9 +1,13 @@
 ---
 slug: nzbroundtable-supports-partnerships-for-excellence
-title: "NZBRoundtable Supports Partnerships for Excellence"
-date: 2002-07-19
-source-url: https://www.scoop.co.nz/stories/BU0207/S00110/nzbroundtable-supports-partnerships-for-excellence.htm
+title: NZBRoundtable Supports Partnerships for Excellence
+date: 2002-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0207/S00110/nzbroundtable-supports-partnerships-for-excellence.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2002/07/19/nzbroundtable-supports-partnerships-for-excellence/index.html
+layout: layout.njk
 ---
 NZBRoundtable Supports Partnerships for Excellence
 ==================================================

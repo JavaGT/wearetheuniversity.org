@@ -1,9 +1,13 @@
 ---
 slug: greens-urge-all-political-parties-to-support-amendment-to-ban-big-pharma-ads
-title: "Greens Urge All Political Parties To Support Amendment To Ban Big Pharma Ads"
-date: 2023-07-18
-source-url: https://www.scoop.co.nz/stories/PA2307/S00086/greens-urge-all-political-parties-to-support-amendment-to-ban-big-pharma-ads.htm
+title: Greens Urge All Political Parties To Support Amendment To Ban Big Pharma Ads
+date: 2023-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00086/greens-urge-all-political-parties-to-support-amendment-to-ban-big-pharma-ads.htm
 author: green-party
+permalink: >-
+  /archive/2023/07/18/greens-urge-all-political-parties-to-support-amendment-to-ban-big-pharma-ads/index.html
+layout: layout.njk
 ---
 Greens Urge All Political Parties To Support Amendment To Ban Big Pharma Ads
 ============================================================================

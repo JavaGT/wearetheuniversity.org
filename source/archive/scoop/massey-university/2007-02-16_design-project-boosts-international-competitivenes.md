@@ -1,9 +1,13 @@
 ---
 slug: design-project-boosts-international-competitivenes
-title: "Design project boosts international competitivenes"
-date: 2007-02-16
-source-url: https://www.scoop.co.nz/stories/ED0702/S00063/design-project-boosts-international-competitivenes.htm
+title: Design project boosts international competitivenes
+date: 2007-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00063/design-project-boosts-international-competitivenes.htm
 author: massey-university
+permalink: >-
+  /archive/2007/02/16/design-project-boosts-international-competitivenes/index.html
+layout: layout.njk
 ---
 Design project boosts international competitivenes
 ==================================================

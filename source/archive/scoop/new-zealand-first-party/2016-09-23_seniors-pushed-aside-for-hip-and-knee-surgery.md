@@ -1,9 +1,12 @@
 ---
 slug: seniors-pushed-aside-for-hip-and-knee-surgery
-title: "Seniors Pushed Aside for Hip And Knee Surgery"
-date: 2016-09-23
-source-url: https://www.scoop.co.nz/stories/PA1609/S00441/seniors-pushed-aside-for-hip-and-knee-surgery.htm
+title: Seniors Pushed Aside for Hip And Knee Surgery
+date: 2016-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00441/seniors-pushed-aside-for-hip-and-knee-surgery.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/23/seniors-pushed-aside-for-hip-and-knee-surgery/index.html
+layout: layout.njk
 ---
 Seniors Pushed Aside for Hip And Knee Surgery
 =============================================

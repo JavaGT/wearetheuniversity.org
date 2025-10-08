@@ -1,9 +1,13 @@
 ---
 slug: waikato-researchers-win-national-science-challenge-funding
-title: "Waikato researchers win National Science Challenge funding"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/ED1608/S00054/waikato-researchers-win-national-science-challenge-funding.htm
+title: Waikato researchers win National Science Challenge funding
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00054/waikato-researchers-win-national-science-challenge-funding.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/08/19/waikato-researchers-win-national-science-challenge-funding/index.html
+layout: layout.njk
 ---
 Waikato researchers win National Science Challenge funding
 ==========================================================

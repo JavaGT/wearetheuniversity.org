@@ -1,9 +1,12 @@
 ---
 slug: students-release-budget-wishlist
-title: "Students release budget wishlist"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PO1505/S00246/students-release-budget-wishlist.htm
+title: Students release budget wishlist
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00246/students-release-budget-wishlist.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/05/21/students-release-budget-wishlist/index.html
+layout: layout.njk
 ---
 Students release budget wishlist
 ================================

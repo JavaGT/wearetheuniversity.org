@@ -1,9 +1,12 @@
 ---
 slug: tongan-king-much-loved-leader
-title: "Tongan king much-loved leader"
-date: 2012-03-19
-source-url: https://www.scoop.co.nz/stories/PA1203/S00235/tongan-king-much-loved-leader.htm
+title: Tongan king much-loved leader
+date: 2012-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00235/tongan-king-much-loved-leader.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/19/tongan-king-much-loved-leader/index.html
+layout: layout.njk
 ---
 Tongan king much-loved leader
 =============================

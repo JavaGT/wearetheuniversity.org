@@ -1,9 +1,11 @@
 ---
 slug: climbing-your-family-tree
-title: "Climbing your family tree"
-date: 2012-08-20
+title: Climbing your family tree
+date: 2012-08-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1208/S00103/climbing-your-family-tree.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/08/20/climbing-your-family-tree/index.html
+layout: layout.njk
 ---
 Climbing your family tree
 =========================

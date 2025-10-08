@@ -1,9 +1,11 @@
 ---
 slug: treaty-religion-unravelling
-title: "Treaty Religion Unravelling"
-date: 2003-05-20
+title: Treaty Religion Unravelling
+date: 2003-05-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0305/S00531/treaty-religion-unravelling.htm
 author: act-new-zealand
+permalink: /archive/2003/05/20/treaty-religion-unravelling/index.html
+layout: layout.njk
 ---
 Treaty Religion Unravelling
 ===========================

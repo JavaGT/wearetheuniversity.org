@@ -1,9 +1,13 @@
 ---
 slug: students-commend-teaching-excellence-award-winners
-title: "Students commend teaching excellence award winners"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/ED1008/S00031/students-commend-teaching-excellence-award-winners.htm
+title: Students commend teaching excellence award winners
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00031/students-commend-teaching-excellence-award-winners.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2010/08/05/students-commend-teaching-excellence-award-winners/index.html
+layout: layout.njk
 ---
 Students commend teaching excellence award winners
 ==================================================

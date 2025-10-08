@@ -1,9 +1,12 @@
 ---
 slug: students-vote-for-unitecs-lecturer-of-the-year
-title: "Students Vote for Unitec's Lecturer of the Year"
-date: 2011-12-06
-source-url: https://www.scoop.co.nz/stories/ED1112/S00031/students-vote-for-unitecs-lecturer-of-the-year.htm
+title: Students Vote for Unitec's Lecturer of the Year
+date: 2011-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00031/students-vote-for-unitecs-lecturer-of-the-year.htm
 author: unitec-student-union
+permalink: /archive/2011/12/06/students-vote-for-unitecs-lecturer-of-the-year/index.html
+layout: layout.njk
 ---
 Students Vote for Unitec's Lecturer of the Year
 ===============================================

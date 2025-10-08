@@ -1,9 +1,13 @@
 ---
 slug: bees-dumb-down-after-ingesting-tiny-doses-of-pesticide
-title: "Bees \"dumb down\" after ingesting tiny doses of pesticide"
-date: 2016-03-02
-source-url: https://www.scoop.co.nz/stories/SC1603/S00004/bees-dumb-down-after-ingesting-tiny-doses-of-pesticide.htm
+title: Bees "dumb down" after ingesting tiny doses of pesticide
+date: 2016-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00004/bees-dumb-down-after-ingesting-tiny-doses-of-pesticide.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/03/02/bees-dumb-down-after-ingesting-tiny-doses-of-pesticide/index.html
+layout: layout.njk
 ---
 Bees “dumb down” after ingesting tiny doses of pesticide
 ========================================================

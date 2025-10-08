@@ -1,9 +1,13 @@
 ---
 slug: flavell-independent-police-conduct-authority-bill
-title: "Flavell: Independent Police Conduct Authority Bill"
-date: 2007-09-07
-source-url: https://www.scoop.co.nz/stories/PA0709/S00107/flavell-independent-police-conduct-authority-bill.htm
+title: 'Flavell: Independent Police Conduct Authority Bill'
+date: 2007-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00107/flavell-independent-police-conduct-authority-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/09/07/flavell-independent-police-conduct-authority-bill/index.html
+layout: layout.njk
 ---
 Flavell: Independent Police Conduct Authority Bill
 ==================================================

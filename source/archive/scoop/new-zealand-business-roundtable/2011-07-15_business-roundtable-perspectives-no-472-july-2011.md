@@ -1,9 +1,13 @@
 ---
 slug: business-roundtable-perspectives-no-472-july-2011
-title: "Business Roundtable Perspectives: No. 472, July 2011"
-date: 2011-07-15
-source-url: https://www.scoop.co.nz/stories/BU1107/S00514/business-roundtable-perspectives-no-472-july-2011.htm
+title: 'Business Roundtable Perspectives: No. 472, July 2011'
+date: 2011-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1107/S00514/business-roundtable-perspectives-no-472-july-2011.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2011/07/15/business-roundtable-perspectives-no-472-july-2011/index.html
+layout: layout.njk
 ---
 Business Roundtable Perspectives: No. 472, July 2011
 ====================================================

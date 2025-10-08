@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-those-nasty-rates-bills
-title: "Pansy Speak: Those nasty rates bills"
-date: 2006-08-14
-source-url: https://www.scoop.co.nz/stories/PA0608/S00224/pansy-speak-those-nasty-rates-bills.htm
+title: 'Pansy Speak: Those nasty rates bills'
+date: 2006-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00224/pansy-speak-those-nasty-rates-bills.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/14/pansy-speak-those-nasty-rates-bills/index.html
+layout: layout.njk
 ---
 Pansy Speak: Those nasty rates bills
 ====================================

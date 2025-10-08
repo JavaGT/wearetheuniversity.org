@@ -1,9 +1,13 @@
 ---
 slug: another-great-success-for-maori-health-providers
-title: "Another Great Success for Maori Health Providers"
-date: 2006-11-06
-source-url: https://www.scoop.co.nz/stories/PA0611/S00091/another-great-success-for-maori-health-providers.htm
+title: Another Great Success for Maori Health Providers
+date: 2006-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00091/another-great-success-for-maori-health-providers.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/11/06/another-great-success-for-maori-health-providers/index.html
+layout: layout.njk
 ---
 Another Great Success for Maori Health Providers
 ================================================

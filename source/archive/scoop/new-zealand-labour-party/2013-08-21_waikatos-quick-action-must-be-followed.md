@@ -1,9 +1,12 @@
 ---
 slug: waikatos-quick-action-must-be-followed
-title: "Waikato’s quick action must be followed"
-date: 2013-08-21
-source-url: https://www.scoop.co.nz/stories/PA1308/S00335/waikatos-quick-action-must-be-followed.htm
+title: Waikato’s quick action must be followed
+date: 2013-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00335/waikatos-quick-action-must-be-followed.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/21/waikatos-quick-action-must-be-followed/index.html
+layout: layout.njk
 ---
 Waikato’s quick action must be followed
 =======================================

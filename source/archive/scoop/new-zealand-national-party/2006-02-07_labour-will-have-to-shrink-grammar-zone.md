@@ -1,9 +1,12 @@
 ---
 slug: labour-will-have-to-shrink-grammar-zone
-title: "Labour will have to shrink Grammar zone"
-date: 2006-02-07
-source-url: https://www.scoop.co.nz/stories/PA0602/S00060/labour-will-have-to-shrink-grammar-zone.htm
+title: Labour will have to shrink Grammar zone
+date: 2006-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00060/labour-will-have-to-shrink-grammar-zone.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/07/labour-will-have-to-shrink-grammar-zone/index.html
+layout: layout.njk
 ---
 Labour will have to shrink Grammar zone
 =======================================

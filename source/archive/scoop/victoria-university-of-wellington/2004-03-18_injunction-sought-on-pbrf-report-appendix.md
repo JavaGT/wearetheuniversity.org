@@ -1,9 +1,12 @@
 ---
 slug: injunction-sought-on-pbrf-report-appendix
-title: "Injunction sought on PBRF report appendix"
-date: 2004-03-18
-source-url: https://www.scoop.co.nz/stories/ED0403/S00077/injunction-sought-on-pbrf-report-appendix.htm
+title: Injunction sought on PBRF report appendix
+date: 2004-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00077/injunction-sought-on-pbrf-report-appendix.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/18/injunction-sought-on-pbrf-report-appendix/index.html
+layout: layout.njk
 ---
 Injunction sought on PBRF report appendix
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: 15-october-new-world-in-the-morning
-title: "\"15 October. New World In The Morning?\""
-date: 2023-07-02
-source-url: https://www.scoop.co.nz/stories/PO2307/S00003/15-october-new-world-in-the-morning.htm
+title: '"15 October. New World In The Morning?"'
+date: 2023-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00003/15-october-new-world-in-the-morning.htm
 author: new-zealand-first-party
+permalink: /archive/2023/07/02/15-october-new-world-in-the-morning/index.html
+layout: layout.njk
 ---
 “15 October. New World In The Morning?”
 =======================================

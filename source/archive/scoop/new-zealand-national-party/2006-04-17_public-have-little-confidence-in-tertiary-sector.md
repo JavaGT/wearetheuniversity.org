@@ -1,9 +1,13 @@
 ---
 slug: public-have-little-confidence-in-tertiary-sector
-title: "Public have little confidence in tertiary sector"
-date: 2006-04-17
-source-url: https://www.scoop.co.nz/stories/PA0604/S00283/public-have-little-confidence-in-tertiary-sector.htm
+title: Public have little confidence in tertiary sector
+date: 2006-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00283/public-have-little-confidence-in-tertiary-sector.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/04/17/public-have-little-confidence-in-tertiary-sector/index.html
+layout: layout.njk
 ---
 Public have little confidence in tertiary sector
 ================================================

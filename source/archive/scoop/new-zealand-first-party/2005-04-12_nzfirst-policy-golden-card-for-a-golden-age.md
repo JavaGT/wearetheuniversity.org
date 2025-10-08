@@ -1,9 +1,12 @@
 ---
 slug: nzfirst-policy-golden-card-for-a-golden-age
-title: "NZFirst Policy: Golden Card For A Golden Age"
-date: 2005-04-12
-source-url: https://www.scoop.co.nz/stories/PA0504/S00226/nzfirst-policy-golden-card-for-a-golden-age.htm
+title: 'NZFirst Policy: Golden Card For A Golden Age'
+date: 2005-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00226/nzfirst-policy-golden-card-for-a-golden-age.htm
 author: new-zealand-first-party
+permalink: /archive/2005/04/12/nzfirst-policy-golden-card-for-a-golden-age/index.html
+layout: layout.njk
 ---
 NZFirst Policy: Golden Card For A Golden Age
 ============================================

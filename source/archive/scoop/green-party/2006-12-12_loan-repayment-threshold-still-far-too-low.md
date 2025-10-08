@@ -1,9 +1,12 @@
 ---
 slug: loan-repayment-threshold-still-far-too-low
-title: "Loan repayment threshold still far too low"
-date: 2006-12-12
-source-url: https://www.scoop.co.nz/stories/PA0612/S00231/loan-repayment-threshold-still-far-too-low.htm
+title: Loan repayment threshold still far too low
+date: 2006-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00231/loan-repayment-threshold-still-far-too-low.htm
 author: green-party
+permalink: /archive/2006/12/12/loan-repayment-threshold-still-far-too-low/index.html
+layout: layout.njk
 ---
 Loan repayment threshold still far too low
 ==========================================

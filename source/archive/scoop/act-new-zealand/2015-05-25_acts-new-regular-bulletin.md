@@ -1,9 +1,11 @@
 ---
 slug: acts-new-regular-bulletin
-title: "ACT’s new regular bulletin"
-date: 2015-05-25
+title: ACT’s new regular bulletin
+date: 2015-05-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1505/S00447/acts-new-regular-bulletin.htm
 author: act-new-zealand
+permalink: /archive/2015/05/25/acts-new-regular-bulletin/index.html
+layout: layout.njk
 ---
 ACT’s new regular bulletin
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: seymour-supports-principals-call
-title: "Seymour supports principals' call"
-date: 2018-07-01
-source-url: https://www.scoop.co.nz/stories/PA1807/S00002/seymour-supports-principals-call.htm
+title: Seymour supports principals' call
+date: 2018-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00002/seymour-supports-principals-call.htm
 author: act-new-zealand
+permalink: /archive/2018/07/01/seymour-supports-principals-call/index.html
+layout: layout.njk
 ---
 Seymour supports principals' call
 =================================

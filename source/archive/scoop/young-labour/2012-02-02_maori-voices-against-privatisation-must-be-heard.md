@@ -1,9 +1,13 @@
 ---
 slug: maori-voices-against-privatisation-must-be-heard
-title: "Maori voices against privatisation must be heard"
-date: 2012-02-02
-source-url: https://www.scoop.co.nz/stories/PO1202/S00024/maori-voices-against-privatisation-must-be-heard.htm
+title: Maori voices against privatisation must be heard
+date: 2012-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1202/S00024/maori-voices-against-privatisation-must-be-heard.htm
 author: young-labour
+permalink: >-
+  /archive/2012/02/02/maori-voices-against-privatisation-must-be-heard/index.html
+layout: layout.njk
 ---
 Maori voices against privatisation must be heard
 ================================================

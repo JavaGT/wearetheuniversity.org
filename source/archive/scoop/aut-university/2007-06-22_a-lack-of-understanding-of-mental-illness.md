@@ -1,9 +1,12 @@
 ---
 slug: a-lack-of-understanding-of-mental-illness
-title: "A lack of understanding of mental illness"
-date: 2007-06-22
-source-url: https://www.scoop.co.nz/stories/ED0706/S00094/a-lack-of-understanding-of-mental-illness.htm
+title: A lack of understanding of mental illness
+date: 2007-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00094/a-lack-of-understanding-of-mental-illness.htm
 author: aut-university
+permalink: /archive/2007/06/22/a-lack-of-understanding-of-mental-illness/index.html
+layout: layout.njk
 ---
 A lack of understanding of mental illness
 =========================================

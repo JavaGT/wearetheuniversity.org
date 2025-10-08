@@ -1,9 +1,12 @@
 ---
 slug: vacancies-clearly-dont-equal-jobs
-title: "Vacancies clearly don’t equal jobs"
-date: 2012-06-20
-source-url: https://www.scoop.co.nz/stories/PA1206/S00288/vacancies-clearly-dont-equal-jobs.htm
+title: Vacancies clearly don’t equal jobs
+date: 2012-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00288/vacancies-clearly-dont-equal-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/06/20/vacancies-clearly-dont-equal-jobs/index.html
+layout: layout.njk
 ---
 Vacancies clearly don’t equal jobs
 ==================================

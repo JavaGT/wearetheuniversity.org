@@ -1,9 +1,12 @@
 ---
 slug: katene-welcomes-ngai-tahus-trade-training-idea
-title: "Katene welcomes Ngai Tahu’s trade training idea"
-date: 2011-03-31
-source-url: https://www.scoop.co.nz/stories/PA1103/S00531/katene-welcomes-ngai-tahus-trade-training-idea.htm
+title: Katene welcomes Ngai Tahu’s trade training idea
+date: 2011-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00531/katene-welcomes-ngai-tahus-trade-training-idea.htm
 author: te-pati-maori
+permalink: /archive/2011/03/31/katene-welcomes-ngai-tahus-trade-training-idea/index.html
+layout: layout.njk
 ---
 Katene welcomes Ngai Tahu’s trade training idea
 ===============================================

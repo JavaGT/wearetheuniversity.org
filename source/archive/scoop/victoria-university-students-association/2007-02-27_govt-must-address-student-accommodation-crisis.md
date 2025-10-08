@@ -1,9 +1,12 @@
 ---
 slug: govt-must-address-student-accommodation-crisis
-title: "Govt must address \"student accommodation crisis\""
-date: 2007-02-27
-source-url: https://www.scoop.co.nz/stories/ED0702/S00097/govt-must-address-student-accommodation-crisis.htm
+title: Govt must address "student accommodation crisis"
+date: 2007-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00097/govt-must-address-student-accommodation-crisis.htm
 author: victoria-university-students-association
+permalink: /archive/2007/02/27/govt-must-address-student-accommodation-crisis/index.html
+layout: layout.njk
 ---
 Govt must address “student accommodation crisis”
 ================================================

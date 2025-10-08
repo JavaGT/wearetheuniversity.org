@@ -1,9 +1,13 @@
 ---
 slug: major-funding-for-university-of-otago-led-sea-ice-research
-title: "Major funding for University of Otago-led sea ice research"
-date: 2015-11-26
-source-url: https://www.scoop.co.nz/stories/SC1511/S00095/major-funding-for-university-of-otago-led-sea-ice-research.htm
+title: Major funding for University of Otago-led sea ice research
+date: 2015-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00095/major-funding-for-university-of-otago-led-sea-ice-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/26/major-funding-for-university-of-otago-led-sea-ice-research/index.html
+layout: layout.njk
 ---
 Major funding for University of Otago-led sea ice research
 ==========================================================

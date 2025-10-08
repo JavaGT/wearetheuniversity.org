@@ -1,9 +1,12 @@
 ---
 slug: parental-alienation-under-scrutiny
-title: "Parental Alienation Under Scrutiny"
-date: 2018-07-11
-source-url: https://www.scoop.co.nz/stories/PO1807/S00128/parental-alienation-under-scrutiny.htm
+title: Parental Alienation Under Scrutiny
+date: 2018-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00128/parental-alienation-under-scrutiny.htm
 author: university-of-otago
+permalink: /archive/2018/07/11/parental-alienation-under-scrutiny/index.html
+layout: layout.njk
 ---
 Parental Alienation Under Scrutiny
 ==================================

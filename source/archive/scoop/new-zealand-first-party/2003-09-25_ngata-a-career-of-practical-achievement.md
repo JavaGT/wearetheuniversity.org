@@ -1,9 +1,12 @@
 ---
 slug: ngata-a-career-of-practical-achievement
-title: "Ngata - A Career Of Practical Achievement"
-date: 2003-09-25
-source-url: https://www.scoop.co.nz/stories/PA0309/S00546/ngata-a-career-of-practical-achievement.htm
+title: Ngata - A Career Of Practical Achievement
+date: 2003-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00546/ngata-a-career-of-practical-achievement.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/25/ngata-a-career-of-practical-achievement/index.html
+layout: layout.njk
 ---
 Ngata - A Career Of Practical Achievement
 =========================================

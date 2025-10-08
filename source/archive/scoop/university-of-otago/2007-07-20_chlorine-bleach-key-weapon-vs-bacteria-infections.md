@@ -1,9 +1,13 @@
 ---
 slug: chlorine-bleach-key-weapon-vs-bacteria-infections
-title: "Chlorine Bleach Key Weapon vs Bacteria Infections"
-date: 2007-07-20
-source-url: https://www.scoop.co.nz/stories/SC0707/S00044/chlorine-bleach-key-weapon-vs-bacteria-infections.htm
+title: Chlorine Bleach Key Weapon vs Bacteria Infections
+date: 2007-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0707/S00044/chlorine-bleach-key-weapon-vs-bacteria-infections.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/07/20/chlorine-bleach-key-weapon-vs-bacteria-infections/index.html
+layout: layout.njk
 ---
 Chlorine Bleach Key Weapon vs Bacteria Infections
 =================================================

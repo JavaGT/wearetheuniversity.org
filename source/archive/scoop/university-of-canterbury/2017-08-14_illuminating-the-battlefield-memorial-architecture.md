@@ -1,9 +1,13 @@
 ---
 slug: illuminating-the-battlefield-memorial-architecture
-title: "Illuminating the Battlefield Memorial Architecture"
-date: 2017-08-14
-source-url: https://www.scoop.co.nz/stories/CU1708/S00194/illuminating-the-battlefield-memorial-architecture.htm
+title: Illuminating the Battlefield Memorial Architecture
+date: 2017-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1708/S00194/illuminating-the-battlefield-memorial-architecture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/08/14/illuminating-the-battlefield-memorial-architecture/index.html
+layout: layout.njk
 ---
 Illuminating the Battlefield Memorial Architecture
 ==================================================

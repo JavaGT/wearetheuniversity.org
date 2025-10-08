@@ -1,9 +1,12 @@
 ---
 slug: sisters-celebrate-graduation-success
-title: "Sisters Celebrate Graduation Success"
-date: 2012-05-15
-source-url: https://www.scoop.co.nz/stories/ED1205/S00059/sisters-celebrate-graduation-success.htm
+title: Sisters Celebrate Graduation Success
+date: 2012-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00059/sisters-celebrate-graduation-success.htm
 author: massey-university
+permalink: /archive/2012/05/15/sisters-celebrate-graduation-success/index.html
+layout: layout.njk
 ---
 Sisters Celebrate Graduation Success
 ====================================

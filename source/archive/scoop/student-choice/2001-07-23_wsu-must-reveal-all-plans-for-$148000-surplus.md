@@ -1,9 +1,12 @@
 ---
 slug: wsu-must-reveal-all-plans-for-$148000-surplus
-title: "WSU must reveal all plans for $148,000 surplus"
-date: 2001-07-23
-source-url: https://www.scoop.co.nz/stories/ED0107/S00034/wsu-must-reveal-all-plans-for-148000-surplus.htm
+title: WSU must reveal all plans for $148,000 surplus
+date: 2001-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0107/S00034/wsu-must-reveal-all-plans-for-148000-surplus.htm
 author: student-choice
+permalink: /archive/2001/07/23/wsu-must-reveal-all-plans-for-/index.html
+layout: layout.njk
 ---
 WSU must reveal all plans for $148,000 surplus
 ==============================================

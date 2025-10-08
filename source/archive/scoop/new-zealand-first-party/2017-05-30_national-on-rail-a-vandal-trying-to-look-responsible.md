@@ -1,9 +1,13 @@
 ---
 slug: national-on-rail-a-vandal-trying-to-look-responsible
-title: "National on Rail – a Vandal Trying to Look Responsible"
-date: 2017-05-30
-source-url: https://www.scoop.co.nz/stories/PA1705/S00631/national-on-rail-a-vandal-trying-to-look-responsible.htm
+title: National on Rail – a Vandal Trying to Look Responsible
+date: 2017-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00631/national-on-rail-a-vandal-trying-to-look-responsible.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/30/national-on-rail-a-vandal-trying-to-look-responsible/index.html
+layout: layout.njk
 ---
 National on Rail – a Vandal Trying to Look Responsible
 ======================================================

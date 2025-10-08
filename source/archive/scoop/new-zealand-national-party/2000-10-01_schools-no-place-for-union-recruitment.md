@@ -1,9 +1,12 @@
 ---
 slug: schools-no-place-for-union-recruitment
-title: "Schools no place for union recruitment"
-date: 2000-10-01
-source-url: https://www.scoop.co.nz/stories/PA0010/S00006/schools-no-place-for-union-recruitment.htm
+title: Schools no place for union recruitment
+date: 2000-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00006/schools-no-place-for-union-recruitment.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/01/schools-no-place-for-union-recruitment/index.html
+layout: layout.njk
 ---
 Schools no place for union recruitment
 ======================================

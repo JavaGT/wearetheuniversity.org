@@ -1,9 +1,13 @@
 ---
 slug: older-consumers-may-be-too-tolerant-for-their-own-good
-title: "Older consumers may be too tolerant for their own good"
-date: 2012-08-20
-source-url: https://www.scoop.co.nz/stories/ED1208/S00100/older-consumers-may-be-too-tolerant-for-their-own-good.htm
+title: Older consumers may be too tolerant for their own good
+date: 2012-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00100/older-consumers-may-be-too-tolerant-for-their-own-good.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/08/20/older-consumers-may-be-too-tolerant-for-their-own-good/index.html
+layout: layout.njk
 ---
 Older consumers may be too tolerant for their own good
 ======================================================

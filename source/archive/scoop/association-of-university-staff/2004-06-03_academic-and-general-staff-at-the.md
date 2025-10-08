@@ -1,9 +1,12 @@
 ---
 slug: academic-and-general-staff-at-the
-title: "Academic and general staff at the"
-date: 2004-06-03
-source-url: https://www.scoop.co.nz/stories/ED0406/S00019/academic-and-general-staff-at-the.htm
+title: Academic and general staff at the
+date: 2004-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00019/academic-and-general-staff-at-the.htm
 author: association-of-university-staff
+permalink: /archive/2004/06/03/academic-and-general-staff-at-the/index.html
+layout: layout.njk
 ---
 Academic and general staff at the
 =================================

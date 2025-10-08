@@ -1,9 +1,12 @@
 ---
 slug: paramedics-status-to-be-recognised
-title: "Paramedics' Status to be Recognised"
-date: 2019-11-05
-source-url: https://www.scoop.co.nz/stories/PA1911/S00023/paramedics-status-to-be-recognised.htm
+title: Paramedics' Status to be Recognised
+date: 2019-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00023/paramedics-status-to-be-recognised.htm
 author: new-zealand-first-party
+permalink: /archive/2019/11/05/paramedics-status-to-be-recognised/index.html
+layout: layout.njk
 ---
 Paramedics' Status to be Recognised
 ===================================

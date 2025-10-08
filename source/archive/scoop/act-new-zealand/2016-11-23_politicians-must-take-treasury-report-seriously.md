@@ -1,9 +1,12 @@
 ---
 slug: politicians-must-take-treasury-report-seriously
-title: "Politicians must take Treasury report seriously"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/PA1611/S00438/politicians-must-take-treasury-report-seriously.htm
+title: Politicians must take Treasury report seriously
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00438/politicians-must-take-treasury-report-seriously.htm
 author: act-new-zealand
+permalink: /archive/2016/11/23/politicians-must-take-treasury-report-seriously/index.html
+layout: layout.njk
 ---
 Politicians must take Treasury report seriously
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: old-rivals-meeting-on-and-off-the-rugby-field
-title: "Old rivals meeting on and off the rugby field"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/AK0608/S00105/old-rivals-meeting-on-and-off-the-rugby-field.htm
+title: Old rivals meeting on and off the rugby field
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0608/S00105/old-rivals-meeting-on-and-off-the-rugby-field.htm
 author: massey-university
+permalink: /archive/2006/08/10/old-rivals-meeting-on-and-off-the-rugby-field/index.html
+layout: layout.njk
 ---
 Old rivals meeting on and off the rugby field
 =============================================

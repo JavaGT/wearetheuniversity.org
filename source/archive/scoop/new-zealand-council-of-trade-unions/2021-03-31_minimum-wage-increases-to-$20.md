@@ -1,9 +1,11 @@
 ---
 slug: minimum-wage-increases-to-$20
-title: "Minimum Wage Increases To $20"
-date: 2021-03-31
+title: Minimum Wage Increases To $20
+date: 2021-03-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2103/S00243/minimum-wage-increases-to-20.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2021/03/31/minimum-wage-increases-to-/index.html
+layout: layout.njk
 ---
 Minimum Wage Increases To $20
 =============================

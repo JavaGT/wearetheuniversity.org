@@ -1,9 +1,12 @@
 ---
 slug: bloated-bureaucracy-needs-reigning-in
-title: "Bloated Bureaucracy Needs Reigning In"
-date: 2021-05-05
-source-url: https://www.scoop.co.nz/stories/PA2105/S00028/bloated-bureaucracy-needs-reigning-in.htm
+title: Bloated Bureaucracy Needs Reigning In
+date: 2021-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00028/bloated-bureaucracy-needs-reigning-in.htm
 author: act-new-zealand
+permalink: /archive/2021/05/05/bloated-bureaucracy-needs-reigning-in/index.html
+layout: layout.njk
 ---
 Bloated Bureaucracy Needs Reigning In
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: radiographer-strike-yet-more-chaos-under-hodgson
-title: "Radiographer strike: yet more chaos under Hodgson"
-date: 2006-09-08
-source-url: https://www.scoop.co.nz/stories/PA0609/S00196/radiographer-strike-yet-more-chaos-under-hodgson.htm
+title: 'Radiographer strike: yet more chaos under Hodgson'
+date: 2006-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00196/radiographer-strike-yet-more-chaos-under-hodgson.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/09/08/radiographer-strike-yet-more-chaos-under-hodgson/index.html
+layout: layout.njk
 ---
 Radiographer strike: yet more chaos under Hodgson
 =================================================

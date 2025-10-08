@@ -1,9 +1,12 @@
 ---
 slug: parker-inflation-is-not-the-only-risk
-title: "Parker: Inflation is not the only risk"
-date: 2012-09-25
-source-url: https://www.scoop.co.nz/stories/PA1209/S00385/parker-inflation-is-not-the-only-risk.htm
+title: 'Parker: Inflation is not the only risk'
+date: 2012-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00385/parker-inflation-is-not-the-only-risk.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/25/parker-inflation-is-not-the-only-risk/index.html
+layout: layout.njk
 ---
 Parker: Inflation is not the only risk
 ======================================

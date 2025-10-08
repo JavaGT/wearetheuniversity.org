@@ -1,9 +1,12 @@
 ---
 slug: changing-weather-heightens-risk-of-stroke
-title: "Changing weather heightens risk of stroke"
-date: 2021-09-08
-source-url: https://www.scoop.co.nz/stories/SC2109/S00014/changing-weather-heightens-risk-of-stroke.htm
+title: Changing weather heightens risk of stroke
+date: 2021-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2109/S00014/changing-weather-heightens-risk-of-stroke.htm
 author: aut-university
+permalink: /archive/2021/09/08/changing-weather-heightens-risk-of-stroke/index.html
+layout: layout.njk
 ---
 Changing weather heightens risk of stroke
 =========================================

@@ -1,9 +1,16 @@
 ---
-slug: nzisa-statement-on-the-tragedy-involving-malaysian-students-at-a-road-accident-near-lake-tekapo
-title: "NZISA Statement On The Tragedy Involving Malaysian Students At A Road Accident Near Lake Tekapo"
-date: 2024-04-02
-source-url: https://www.scoop.co.nz/stories/AK2404/S00007/nzisa-statement-on-the-tragedy-involving-malaysian-students-at-a-road-accident-near-lake-tekapo.htm
+slug: >-
+  nzisa-statement-on-the-tragedy-involving-malaysian-students-at-a-road-accident-near-lake-tekapo
+title: >-
+  NZISA Statement On The Tragedy Involving Malaysian Students At A Road Accident
+  Near Lake Tekapo
+date: 2024-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2404/S00007/nzisa-statement-on-the-tragedy-involving-malaysian-students-at-a-road-accident-near-lake-tekapo.htm
 author: nzisa
+permalink: >-
+  /archive/2024/04/02/nzisa-statement-on-the-tragedy-involving-malaysian-students-at-a-road-accident-near-lake-tekapo/index.html
+layout: layout.njk
 ---
 NZISA Statement On The Tragedy Involving Malaysian Students At A Road Accident Near Lake Tekapo
 ===============================================================================================

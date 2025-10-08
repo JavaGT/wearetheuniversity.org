@@ -1,9 +1,11 @@
 ---
 slug: labour-con-job-on-teachers
-title: "Labour con job on teachers"
-date: 2005-08-26
+title: Labour con job on teachers
+date: 2005-08-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00696/labour-con-job-on-teachers.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/26/labour-con-job-on-teachers/index.html
+layout: layout.njk
 ---
 Labour con job on teachers
 ==========================

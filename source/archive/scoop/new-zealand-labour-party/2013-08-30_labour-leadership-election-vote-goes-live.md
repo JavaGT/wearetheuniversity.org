@@ -1,9 +1,12 @@
 ---
 slug: labour-leadership-election-vote-goes-live
-title: "Labour leadership election vote goes live"
-date: 2013-08-30
-source-url: https://www.scoop.co.nz/stories/PO1308/S00440/labour-leadership-election-vote-goes-live.htm
+title: Labour leadership election vote goes live
+date: 2013-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00440/labour-leadership-election-vote-goes-live.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/30/labour-leadership-election-vote-goes-live/index.html
+layout: layout.njk
 ---
 Labour leadership election vote goes live
 =========================================

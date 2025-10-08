@@ -1,9 +1,11 @@
 ---
 slug: the-trouble-with-food
-title: "The trouble with food"
-date: 2014-04-24
+title: The trouble with food
+date: 2014-04-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1404/S00088/the-trouble-with-food.htm
 author: massey-university
+permalink: /archive/2014/04/24/the-trouble-with-food/index.html
+layout: layout.njk
 ---
 The trouble with food
 =====================

@@ -1,9 +1,11 @@
 ---
 slug: study-of-migrant-sex-workers
-title: "Study of migrant sex workers"
-date: 2018-10-10
+title: Study of migrant sex workers
+date: 2018-10-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1810/S00136/study-of-migrant-sex-workers.htm
 author: university-of-otago
+permalink: /archive/2018/10/10/study-of-migrant-sex-workers/index.html
+layout: layout.njk
 ---
 Study of migrant sex workers
 ============================

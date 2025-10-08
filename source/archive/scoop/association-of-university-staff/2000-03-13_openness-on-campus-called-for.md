@@ -1,9 +1,12 @@
 ---
 slug: openness-on-campus-called-for
-title: "Openness on campus called for"
-date: 2000-03-13
-source-url: https://www.scoop.co.nz/stories/ED0003/S00022/openness-on-campus-called-for.htm
+title: Openness on campus called for
+date: 2000-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00022/openness-on-campus-called-for.htm
 author: association-of-university-staff
+permalink: /archive/2000/03/13/openness-on-campus-called-for/index.html
+layout: layout.njk
 ---
 Openness on campus called for
 =============================

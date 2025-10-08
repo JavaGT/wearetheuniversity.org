@@ -1,9 +1,12 @@
 ---
 slug: government-has-lost-control-and-is-in-denial
-title: "Government Has Lost Control And Is In Denial"
-date: 2021-10-03
-source-url: https://www.scoop.co.nz/stories/PA2110/S00028/government-has-lost-control-and-is-in-denial.htm
+title: Government Has Lost Control And Is In Denial
+date: 2021-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00028/government-has-lost-control-and-is-in-denial.htm
 author: act-new-zealand
+permalink: /archive/2021/10/03/government-has-lost-control-and-is-in-denial/index.html
+layout: layout.njk
 ---
 Government Has Lost Control And Is In Denial
 ============================================

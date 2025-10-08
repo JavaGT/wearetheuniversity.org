@@ -1,9 +1,12 @@
 ---
 slug: victims-rights-bill-full-of-wrongs
-title: "Victims' Rights Bill Full of Wrongs"
-date: 2001-08-23
-source-url: https://www.scoop.co.nz/stories/PA0108/S00467/victims-rights-bill-full-of-wrongs.htm
+title: Victims' Rights Bill Full of Wrongs
+date: 2001-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00467/victims-rights-bill-full-of-wrongs.htm
 author: act-new-zealand
+permalink: /archive/2001/08/23/victims-rights-bill-full-of-wrongs/index.html
+layout: layout.njk
 ---
 Victims' Rights Bill Full of Wrongs
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: warning-that-antarctic-ice-sheet-a-sleeping-giant
-title: "Warning that Antarctic ice sheet a \"sleeping giant\""
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/SC1603/S00025/warning-that-antarctic-ice-sheet-a-sleeping-giant.htm
+title: Warning that Antarctic ice sheet a "sleeping giant"
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00025/warning-that-antarctic-ice-sheet-a-sleeping-giant.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/03/11/warning-that-antarctic-ice-sheet-a-sleeping-giant/index.html
+layout: layout.njk
 ---
 Warning that Antarctic ice sheet a “sleeping giant”
 ===================================================

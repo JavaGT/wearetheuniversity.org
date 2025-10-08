@@ -1,9 +1,12 @@
 ---
 slug: nationals-tough-gang-talk-hot-air-says-mark
-title: "National's Tough Gang Talk Hot Air Says Mark"
-date: 2008-05-12
-source-url: https://www.scoop.co.nz/stories/PA0805/S00181/nationals-tough-gang-talk-hot-air-says-mark.htm
+title: National's Tough Gang Talk Hot Air Says Mark
+date: 2008-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00181/nationals-tough-gang-talk-hot-air-says-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2008/05/12/nationals-tough-gang-talk-hot-air-says-mark/index.html
+layout: layout.njk
 ---
 National's Tough Gang Talk Hot Air Says Mark
 ============================================

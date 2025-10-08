@@ -1,9 +1,13 @@
 ---
 slug: the-sustainability-scam-how-self-interest-ruins-good-ideas
-title: "The Sustainability Scam: How Self-Interest Ruins Good Ideas"
-date: 2024-11-26
-source-url: https://www.scoop.co.nz/stories/WO2411/S00281/the-sustainability-scam-how-self-interest-ruins-good-ideas.htm
+title: 'The Sustainability Scam: How Self-Interest Ruins Good Ideas'
+date: 2024-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2411/S00281/the-sustainability-scam-how-self-interest-ruins-good-ideas.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/11/26/the-sustainability-scam-how-self-interest-ruins-good-ideas/index.html
+layout: layout.njk
 ---
 The Sustainability Scam: How Self-Interest Ruins Good Ideas
 ===========================================================

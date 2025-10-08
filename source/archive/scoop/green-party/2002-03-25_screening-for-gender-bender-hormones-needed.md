@@ -1,9 +1,12 @@
 ---
 slug: screening-for-gender-bender-hormones-needed
-title: "Screening For 'Gender Bender' Hormones Needed"
-date: 2002-03-25
-source-url: https://www.scoop.co.nz/stories/PA0203/S00463/screening-for-gender-bender-hormones-needed.htm
+title: Screening For 'Gender Bender' Hormones Needed
+date: 2002-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00463/screening-for-gender-bender-hormones-needed.htm
 author: green-party
+permalink: /archive/2002/03/25/screening-for-gender-bender-hormones-needed/index.html
+layout: layout.njk
 ---
 Screening For 'Gender Bender' Hormones Needed
 =============================================

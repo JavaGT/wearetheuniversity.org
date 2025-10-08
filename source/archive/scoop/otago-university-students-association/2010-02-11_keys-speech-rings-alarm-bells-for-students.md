@@ -1,9 +1,12 @@
 ---
 slug: keys-speech-rings-alarm-bells-for-students
-title: "Key’s Speech rings Alarm Bells for Students"
-date: 2010-02-11
-source-url: https://www.scoop.co.nz/stories/ED1002/S00036/keys-speech-rings-alarm-bells-for-students.htm
+title: Key’s Speech rings Alarm Bells for Students
+date: 2010-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00036/keys-speech-rings-alarm-bells-for-students.htm
 author: otago-university-students-association
+permalink: /archive/2010/02/11/keys-speech-rings-alarm-bells-for-students/index.html
+layout: layout.njk
 ---
 Key’s Speech rings Alarm Bells for Students
 ===========================================

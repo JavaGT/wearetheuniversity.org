@@ -1,9 +1,12 @@
 ---
 slug: labour-says-maori-dont-matter
-title: "Labour says Maori Don't Matter"
-date: 2006-05-18
-source-url: https://www.scoop.co.nz/stories/PA0605/S00460/labour-says-maori-dont-matter.htm
+title: Labour says Maori Don't Matter
+date: 2006-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00460/labour-says-maori-dont-matter.htm
 author: te-pati-maori
+permalink: /archive/2006/05/18/labour-says-maori-dont-matter/index.html
+layout: layout.njk
 ---
 Labour says Maori Don't Matter
 ==============================

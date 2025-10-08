@@ -1,9 +1,12 @@
 ---
 slug: government-shrugs-off-health-sector-crisis
-title: "Government shrugs off health sector crisis"
-date: 2015-02-26
-source-url: https://www.scoop.co.nz/stories/PA1502/S00353/government-shrugs-off-health-sector-crisis.htm
+title: Government shrugs off health sector crisis
+date: 2015-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00353/government-shrugs-off-health-sector-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/02/26/government-shrugs-off-health-sector-crisis/index.html
+layout: layout.njk
 ---
 Government shrugs off health sector crisis
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: harawira-prime-ministers-debate
-title: "Harawira: Prime Minister’s Debate"
-date: 2007-02-16
-source-url: https://www.scoop.co.nz/stories/PA0702/S00301/harawira-prime-ministers-debate.htm
+title: 'Harawira: Prime Minister’s Debate'
+date: 2007-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00301/harawira-prime-ministers-debate.htm
 author: te-pati-maori
+permalink: /archive/2007/02/16/harawira-prime-ministers-debate/index.html
+layout: layout.njk
 ---
 Harawira: Prime Minister’s Debate
 =================================

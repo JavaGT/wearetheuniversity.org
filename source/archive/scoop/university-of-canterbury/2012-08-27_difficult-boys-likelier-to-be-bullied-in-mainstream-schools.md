@@ -1,9 +1,13 @@
 ---
 slug: difficult-boys-likelier-to-be-bullied-in-mainstream-schools
-title: "Difficult boys likelier to be bullied in mainstream schools"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/PO1208/S00411/difficult-boys-likelier-to-be-bullied-in-mainstream-schools.htm
+title: Difficult boys likelier to be bullied in mainstream schools
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00411/difficult-boys-likelier-to-be-bullied-in-mainstream-schools.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/27/difficult-boys-likelier-to-be-bullied-in-mainstream-schools/index.html
+layout: layout.njk
 ---
 Difficult boys likelier to be bullied in mainstream schools
 ===========================================================

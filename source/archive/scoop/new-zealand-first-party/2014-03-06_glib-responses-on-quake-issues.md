@@ -1,9 +1,12 @@
 ---
 slug: glib-responses-on-quake-issues
-title: "Glib Responses on Quake Issues"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/PA1403/S00109/glib-responses-on-quake-issues.htm
+title: Glib Responses on Quake Issues
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00109/glib-responses-on-quake-issues.htm
 author: new-zealand-first-party
+permalink: /archive/2014/03/06/glib-responses-on-quake-issues/index.html
+layout: layout.njk
 ---
 Glib Responses on Quake Issues
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: you-and-your-10-billion-best-microbial-buddies
-title: "You and your 10 billion best microbial buddies"
-date: 2016-09-09
-source-url: https://www.scoop.co.nz/stories/SC1609/S00032/you-and-your-10-billion-best-microbial-buddies.htm
+title: You and your 10 billion best microbial buddies
+date: 2016-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00032/you-and-your-10-billion-best-microbial-buddies.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/09/09/you-and-your-10-billion-best-microbial-buddies/index.html
+layout: layout.njk
 ---
 You and your 10 billion best microbial buddies
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-launches-world-leading-quakestudies-digital-archive-site
-title: "UC launches world leading QuakeStudies digital archive site"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/AK1209/S00556/uc-launches-world-leading-quakestudies-digital-archive-site.htm
+title: UC launches world leading QuakeStudies digital archive site
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1209/S00556/uc-launches-world-leading-quakestudies-digital-archive-site.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/26/uc-launches-world-leading-quakestudies-digital-archive-site/index.html
+layout: layout.njk
 ---
 UC launches world leading QuakeStudies digital archive site
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: albanys-lecturer-of-the-year-named
-title: "Albany’s Lecturer of the Year named"
-date: 2012-11-29
-source-url: https://www.scoop.co.nz/stories/ED1211/S00216/albanys-lecturer-of-the-year-named.htm
+title: Albany’s Lecturer of the Year named
+date: 2012-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00216/albanys-lecturer-of-the-year-named.htm
 author: massey-university
+permalink: /archive/2012/11/29/albanys-lecturer-of-the-year-named/index.html
+layout: layout.njk
 ---
 Albany’s Lecturer of the Year named
 ===================================

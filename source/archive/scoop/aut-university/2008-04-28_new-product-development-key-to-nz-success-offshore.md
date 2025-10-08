@@ -1,9 +1,13 @@
 ---
 slug: new-product-development-key-to-nz-success-offshore
-title: "New product development key to NZ success offshore"
-date: 2008-04-28
-source-url: https://www.scoop.co.nz/stories/ED0804/S00078/new-product-development-key-to-nz-success-offshore.htm
+title: New product development key to NZ success offshore
+date: 2008-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00078/new-product-development-key-to-nz-success-offshore.htm
 author: aut-university
+permalink: >-
+  /archive/2008/04/28/new-product-development-key-to-nz-success-offshore/index.html
+layout: layout.njk
 ---
 New product development key to NZ success offshore
 ==================================================

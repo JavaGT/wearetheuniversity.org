@@ -1,9 +1,12 @@
 ---
 slug: nzusa-already-misrepresenting-students
-title: "NZUSA already misrepresenting students"
-date: 2003-08-04
-source-url: https://www.scoop.co.nz/stories/ED0308/S00012/nzusa-already-misrepresenting-students.htm
+title: NZUSA already misrepresenting students
+date: 2003-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00012/nzusa-already-misrepresenting-students.htm
 author: student-choice
+permalink: /archive/2003/08/04/nzusa-already-misrepresenting-students/index.html
+layout: layout.njk
 ---
 NZUSA already misrepresenting students
 ======================================

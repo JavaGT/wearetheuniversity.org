@@ -1,9 +1,12 @@
 ---
 slug: serendipitous-quake-unearths-explanation
-title: "Serendipitous quake unearths explanation"
-date: 2016-02-23
-source-url: https://www.scoop.co.nz/stories/SC1602/S00061/serendipitous-quake-unearths-explanation.htm
+title: Serendipitous quake unearths explanation
+date: 2016-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00061/serendipitous-quake-unearths-explanation.htm
 author: lincoln-university
+permalink: /archive/2016/02/23/serendipitous-quake-unearths-explanation/index.html
+layout: layout.njk
 ---
 Serendipitous quake unearths explanation
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-universities-poised-to-become-poor-relations
-title: "NZ UNIVERSITIES POISED TO BECOME POOR RELATIONS"
-date: 2001-06-11
-source-url: https://www.scoop.co.nz/stories/ED0106/S00007/nz-universities-poised-to-become-poor-relations.htm
+title: NZ UNIVERSITIES POISED TO BECOME POOR RELATIONS
+date: 2001-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0106/S00007/nz-universities-poised-to-become-poor-relations.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/06/11/nz-universities-poised-to-become-poor-relations/index.html
+layout: layout.njk
 ---
 NZ UNIVERSITIES POISED TO BECOME POOR RELATIONS
 ===============================================

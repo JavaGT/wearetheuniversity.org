@@ -1,9 +1,13 @@
 ---
 slug: potential-anticancer-discovery-heads-to-developmen
-title: "Potential anticancer discovery heads to developmen"
-date: 2005-05-11
-source-url: https://www.scoop.co.nz/stories/SC0505/S00033/potential-anticancer-discovery-heads-to-developmen.htm
+title: Potential anticancer discovery heads to developmen
+date: 2005-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0505/S00033/potential-anticancer-discovery-heads-to-developmen.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2005/05/11/potential-anticancer-discovery-heads-to-developmen/index.html
+layout: layout.njk
 ---
 Potential anticancer discovery heads to developmen
 ==================================================

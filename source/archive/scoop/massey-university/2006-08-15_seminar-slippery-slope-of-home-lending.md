@@ -1,9 +1,12 @@
 ---
 slug: seminar-slippery-slope-of-home-lending
-title: "Seminar: Slippery slope of home lending"
-date: 2006-08-15
-source-url: https://www.scoop.co.nz/stories/ED0608/S00051/seminar-slippery-slope-of-home-lending.htm
+title: 'Seminar: Slippery slope of home lending'
+date: 2006-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00051/seminar-slippery-slope-of-home-lending.htm
 author: massey-university
+permalink: /archive/2006/08/15/seminar-slippery-slope-of-home-lending/index.html
+layout: layout.njk
 ---
 Seminar: Slippery slope of home lending
 =======================================

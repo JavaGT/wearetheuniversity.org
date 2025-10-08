@@ -1,9 +1,12 @@
 ---
 slug: global-eco-scientists-converge-on-auckland
-title: "Global Eco-Scientists Converge On Auckland"
-date: 2007-02-15
-source-url: https://www.scoop.co.nz/stories/ED0702/S00059/global-eco-scientists-converge-on-auckland.htm
+title: Global Eco-Scientists Converge On Auckland
+date: 2007-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00059/global-eco-scientists-converge-on-auckland.htm
 author: auckland-university
+permalink: /archive/2007/02/15/global-eco-scientists-converge-on-auckland/index.html
+layout: layout.njk
 ---
 Global Eco-Scientists Converge On Auckland
 ==========================================

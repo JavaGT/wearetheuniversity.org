@@ -1,9 +1,12 @@
 ---
 slug: more-student-debt-under-labour
-title: "More Student Debt Under Labour"
-date: 1999-10-31
-source-url: https://www.scoop.co.nz/stories/PA9910/S00721/more-student-debt-under-labour.htm
+title: More Student Debt Under Labour
+date: 1999-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00721/more-student-debt-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/1999/10/31/more-student-debt-under-labour/index.html
+layout: layout.njk
 ---
 More Student Debt Under Labour
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: nzei-teachers-and-principals-present-pay-claims
-title: "NZEI Teachers And Principals Present Pay Claims"
-date: 2004-06-11
-source-url: https://www.scoop.co.nz/stories/ED0406/S00053/nzei-teachers-and-principals-present-pay-claims.htm
+title: NZEI Teachers And Principals Present Pay Claims
+date: 2004-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00053/nzei-teachers-and-principals-present-pay-claims.htm
 author: nzei
+permalink: /archive/2004/06/11/nzei-teachers-and-principals-present-pay-claims/index.html
+layout: layout.njk
 ---
 NZEI Teachers And Principals Present Pay Claims
 ===============================================

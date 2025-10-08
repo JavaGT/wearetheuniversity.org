@@ -1,9 +1,13 @@
 ---
 slug: how-to-tax-speculation-in-the-auckland-property-market
-title: "How to Tax Speculation in the Auckland Property Market"
-date: 2015-05-15
-source-url: https://www.scoop.co.nz/stories/PO1505/S00172/how-to-tax-speculation-in-the-auckland-property-market.htm
+title: How to Tax Speculation in the Auckland Property Market
+date: 2015-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00172/how-to-tax-speculation-in-the-auckland-property-market.htm
 author: massey-university
+permalink: >-
+  /archive/2015/05/15/how-to-tax-speculation-in-the-auckland-property-market/index.html
+layout: layout.njk
 ---
 How to Tax Speculation in the Auckland Property Market
 ======================================================

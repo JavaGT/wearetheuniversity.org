@@ -1,9 +1,12 @@
 ---
 slug: rebuilding-the-eqc-fund-for-the-future
-title: "Rebuilding the EQC Fund for the future"
-date: 2011-11-02
-source-url: https://www.scoop.co.nz/stories/PA1111/S00028/rebuilding-the-eqc-fund-for-the-future.htm
+title: Rebuilding the EQC Fund for the future
+date: 2011-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00028/rebuilding-the-eqc-fund-for-the-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/02/rebuilding-the-eqc-fund-for-the-future/index.html
+layout: layout.njk
 ---
 Rebuilding the EQC Fund for the future
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: flavell-farewell-to-te-atairangikaahu
-title: "Flavell: Farewell to Te Atairangikaahu"
-date: 2006-08-22
-source-url: https://www.scoop.co.nz/stories/PA0608/S00370/flavell-farewell-to-te-atairangikaahu.htm
+title: 'Flavell: Farewell to Te Atairangikaahu'
+date: 2006-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00370/flavell-farewell-to-te-atairangikaahu.htm
 author: te-pati-maori
+permalink: /archive/2006/08/22/flavell-farewell-to-te-atairangikaahu/index.html
+layout: layout.njk
 ---
 Flavell: Farewell to Te Atairangikaahu
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-student-gains-coveted-rhodes-scholarship
-title: "University of Otago student gains coveted Rhodes Scholarship"
-date: 2013-11-08
-source-url: https://www.scoop.co.nz/stories/ED1311/S00064/university-of-otago-student-gains-coveted-rhodes-scholarship.htm
+title: University of Otago student gains coveted Rhodes Scholarship
+date: 2013-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00064/university-of-otago-student-gains-coveted-rhodes-scholarship.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/11/08/university-of-otago-student-gains-coveted-rhodes-scholarship/index.html
+layout: layout.njk
 ---
 University of Otago student gains coveted Rhodes Scholarship
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-has-no-plan-for-retirement
-title: "Govt has no plan for retirement"
-date: 2010-08-20
-source-url: https://www.scoop.co.nz/stories/PA1008/S00307/govt-has-no-plan-for-retirement.htm
+title: Govt has no plan for retirement
+date: 2010-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00307/govt-has-no-plan-for-retirement.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/20/govt-has-no-plan-for-retirement/index.html
+layout: layout.njk
 ---
 Govt has no plan for retirement
 ===============================

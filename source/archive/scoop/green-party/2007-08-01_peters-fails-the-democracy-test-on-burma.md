@@ -1,9 +1,12 @@
 ---
 slug: peters-fails-the-democracy-test-on-burma
-title: "Peters fails the democracy test on Burma"
-date: 2007-08-01
-source-url: https://www.scoop.co.nz/stories/PA0708/S00015/peters-fails-the-democracy-test-on-burma.htm
+title: Peters fails the democracy test on Burma
+date: 2007-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00015/peters-fails-the-democracy-test-on-burma.htm
 author: green-party
+permalink: /archive/2007/08/01/peters-fails-the-democracy-test-on-burma/index.html
+layout: layout.njk
 ---
 Peters fails the democracy test on Burma
 ========================================

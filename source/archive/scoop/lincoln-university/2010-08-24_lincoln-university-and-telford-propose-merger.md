@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-and-telford-propose-merger
-title: "Lincoln University and Telford propose merger"
-date: 2010-08-24
-source-url: https://www.scoop.co.nz/stories/ED1008/S00090/lincoln-university-and-telford-propose-merger.htm
+title: Lincoln University and Telford propose merger
+date: 2010-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00090/lincoln-university-and-telford-propose-merger.htm
 author: lincoln-university
+permalink: /archive/2010/08/24/lincoln-university-and-telford-propose-merger/index.html
+layout: layout.njk
 ---
 Lincoln University and Telford propose merger
 =============================================

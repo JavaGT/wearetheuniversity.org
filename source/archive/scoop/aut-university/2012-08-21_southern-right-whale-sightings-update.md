@@ -1,9 +1,12 @@
 ---
 slug: southern-right-whale-sightings-update
-title: "Southern right whale sightings – update"
-date: 2012-08-21
-source-url: https://www.scoop.co.nz/stories/SC1208/S00050/southern-right-whale-sightings-update.htm
+title: Southern right whale sightings – update
+date: 2012-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00050/southern-right-whale-sightings-update.htm
 author: aut-university
+permalink: /archive/2012/08/21/southern-right-whale-sightings-update/index.html
+layout: layout.njk
 ---
 Southern right whale sightings – update
 =======================================

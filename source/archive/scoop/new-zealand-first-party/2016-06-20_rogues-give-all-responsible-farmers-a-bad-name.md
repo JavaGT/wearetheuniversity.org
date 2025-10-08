@@ -1,9 +1,12 @@
 ---
 slug: rogues-give-all-responsible-farmers-a-bad-name
-title: "Rogues Give All Responsible Farmers a Bad Name"
-date: 2016-06-20
-source-url: https://www.scoop.co.nz/stories/PA1606/S00346/rogues-give-all-responsible-farmers-a-bad-name.htm
+title: Rogues Give All Responsible Farmers a Bad Name
+date: 2016-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00346/rogues-give-all-responsible-farmers-a-bad-name.htm
 author: new-zealand-first-party
+permalink: /archive/2016/06/20/rogues-give-all-responsible-farmers-a-bad-name/index.html
+layout: layout.njk
 ---
 Rogues Give All Responsible Farmers a Bad Name
 ==============================================

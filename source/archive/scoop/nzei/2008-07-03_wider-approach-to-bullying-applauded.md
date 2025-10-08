@@ -1,9 +1,12 @@
 ---
 slug: wider-approach-to-bullying-applauded
-title: "Wider Approach To Bullying Applauded"
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/ED0807/S00014/wider-approach-to-bullying-applauded.htm
+title: Wider Approach To Bullying Applauded
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00014/wider-approach-to-bullying-applauded.htm
 author: nzei
+permalink: /archive/2008/07/03/wider-approach-to-bullying-applauded/index.html
+layout: layout.njk
 ---
 Wider Approach To Bullying Applauded
 ====================================

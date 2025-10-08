@@ -1,9 +1,11 @@
 ---
 slug: govt-crashes-the-budget
-title: "Govt crashes the budget"
-date: 2012-04-04
+title: Govt crashes the budget
+date: 2012-04-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1204/S00053/govt-crashes-the-budget.htm
 author: green-party
+permalink: /archive/2012/04/04/govt-crashes-the-budget/index.html
+layout: layout.njk
 ---
 Govt crashes the budget
 =======================

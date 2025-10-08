@@ -1,9 +1,12 @@
 ---
 slug: murupara-set-to-take-on-the-world
-title: "Murupara set to take on the world"
-date: 2011-12-16
-source-url: https://www.scoop.co.nz/stories/PA1112/S00118/murupara-set-to-take-on-the-world.htm
+title: Murupara set to take on the world
+date: 2011-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00118/murupara-set-to-take-on-the-world.htm
 author: te-pati-maori
+permalink: /archive/2011/12/16/murupara-set-to-take-on-the-world/index.html
+layout: layout.njk
 ---
 Murupara set to take on the world
 =================================

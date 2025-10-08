@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-welcomes-new-national-science-challenges
-title: "Lincoln University welcomes new National Science Challenges"
-date: 2013-05-03
-source-url: https://www.scoop.co.nz/stories/SC1305/S00018/lincoln-university-welcomes-new-national-science-challenges.htm
+title: Lincoln University welcomes new National Science Challenges
+date: 2013-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00018/lincoln-university-welcomes-new-national-science-challenges.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/05/03/lincoln-university-welcomes-new-national-science-challenges/index.html
+layout: layout.njk
 ---
 Lincoln University welcomes new National Science Challenges
 ===========================================================

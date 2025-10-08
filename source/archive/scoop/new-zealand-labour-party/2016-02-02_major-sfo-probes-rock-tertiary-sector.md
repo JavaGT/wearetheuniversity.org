@@ -1,9 +1,12 @@
 ---
 slug: major-sfo-probes-rock-tertiary-sector
-title: "Major SFO probes rock tertiary sector"
-date: 2016-02-02
-source-url: https://www.scoop.co.nz/stories/PA1602/S00013/major-sfo-probes-rock-tertiary-sector.htm
+title: Major SFO probes rock tertiary sector
+date: 2016-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00013/major-sfo-probes-rock-tertiary-sector.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/02/major-sfo-probes-rock-tertiary-sector/index.html
+layout: layout.njk
 ---
 Major SFO probes rock tertiary sector
 =====================================

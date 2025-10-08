@@ -1,9 +1,13 @@
 ---
 slug: public-lecture-series-commemorates-100th-anniversary-of-ww1
-title: "Public lecture series commemorates 100th anniversary of WW1"
-date: 2014-09-05
-source-url: https://www.scoop.co.nz/stories/ED1409/S00034/public-lecture-series-commemorates-100th-anniversary-of-ww1.htm
+title: Public lecture series commemorates 100th anniversary of WW1
+date: 2014-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00034/public-lecture-series-commemorates-100th-anniversary-of-ww1.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/09/05/public-lecture-series-commemorates-100th-anniversary-of-ww1/index.html
+layout: layout.njk
 ---
 Public lecture series commemorates 100th anniversary of WW1
 ===========================================================

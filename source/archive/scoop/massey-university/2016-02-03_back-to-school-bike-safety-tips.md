@@ -1,9 +1,12 @@
 ---
 slug: back-to-school-bike-safety-tips
-title: "Back to School Bike Safety Tips"
-date: 2016-02-03
-source-url: https://www.scoop.co.nz/stories/GE1602/S00016/back-to-school-bike-safety-tips.htm
+title: Back to School Bike Safety Tips
+date: 2016-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1602/S00016/back-to-school-bike-safety-tips.htm
 author: massey-university
+permalink: /archive/2016/02/03/back-to-school-bike-safety-tips/index.html
+layout: layout.njk
 ---
 Back to School Bike Safety Tips
 ===============================

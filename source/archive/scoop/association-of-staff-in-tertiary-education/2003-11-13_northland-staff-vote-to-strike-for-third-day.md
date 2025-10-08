@@ -1,9 +1,12 @@
 ---
 slug: northland-staff-vote-to-strike-for-third-day
-title: "Northland Staff vote to strike for third day"
-date: 2003-11-13
-source-url: https://www.scoop.co.nz/stories/ED0311/S00049/northland-staff-vote-to-strike-for-third-day.htm
+title: Northland Staff vote to strike for third day
+date: 2003-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00049/northland-staff-vote-to-strike-for-third-day.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2003/11/13/northland-staff-vote-to-strike-for-third-day/index.html
+layout: layout.njk
 ---
 Northland Staff vote to strike for third day
 ============================================

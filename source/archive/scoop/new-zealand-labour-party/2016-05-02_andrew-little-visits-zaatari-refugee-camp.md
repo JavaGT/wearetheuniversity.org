@@ -1,9 +1,12 @@
 ---
 slug: andrew-little-visits-zaatari-refugee-camp
-title: "Andrew Little visits Zaatari refugee camp"
-date: 2016-05-02
-source-url: https://www.scoop.co.nz/stories/PA1605/S00016/andrew-little-visits-zaatari-refugee-camp.htm
+title: Andrew Little visits Zaatari refugee camp
+date: 2016-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00016/andrew-little-visits-zaatari-refugee-camp.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/02/andrew-little-visits-zaatari-refugee-camp/index.html
+layout: layout.njk
 ---
 Andrew Little visits Zaatari refugee camp
 =========================================

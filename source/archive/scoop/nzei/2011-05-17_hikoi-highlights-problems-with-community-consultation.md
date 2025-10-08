@@ -1,9 +1,13 @@
 ---
 slug: hikoi-highlights-problems-with-community-consultation
-title: "Hikoi highlights problems with community consultation"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/PO1105/S00242/hikoi-highlights-problems-with-community-consultation.htm
+title: Hikoi highlights problems with community consultation
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00242/hikoi-highlights-problems-with-community-consultation.htm
 author: nzei
+permalink: >-
+  /archive/2011/05/17/hikoi-highlights-problems-with-community-consultation/index.html
+layout: layout.njk
 ---
 Hikoi highlights problems with community consultation
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: budget-2019-tax-spend-and-hope
-title: "Budget 2019: Tax, spend, and hope"
-date: 2019-05-30
-source-url: https://www.scoop.co.nz/stories/PA1905/S00308/budget-2019-tax-spend-and-hope.htm
+title: 'Budget 2019: Tax, spend, and hope'
+date: 2019-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00308/budget-2019-tax-spend-and-hope.htm
 author: act-new-zealand
+permalink: /archive/2019/05/30/budget-2019-tax-spend-and-hope/index.html
+layout: layout.njk
 ---
 Budget 2019: Tax, spend, and hope
 =================================

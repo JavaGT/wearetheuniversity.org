@@ -1,9 +1,12 @@
 ---
 slug: kings-shameful-legacy-in-oral-health
-title: "King’s shameful legacy in oral health"
-date: 2006-08-20
-source-url: https://www.scoop.co.nz/stories/PA0608/S00340/kings-shameful-legacy-in-oral-health.htm
+title: King’s shameful legacy in oral health
+date: 2006-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00340/kings-shameful-legacy-in-oral-health.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/20/kings-shameful-legacy-in-oral-health/index.html
+layout: layout.njk
 ---
 King’s shameful legacy in oral health
 =====================================

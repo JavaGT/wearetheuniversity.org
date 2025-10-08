@@ -1,9 +1,13 @@
 ---
 slug: rodney-hide-speech-best-team-parliament-has-seen
-title: "Rodney Hide Speech: Best Team Parliament Has Seen"
-date: 2002-11-26
-source-url: https://www.scoop.co.nz/stories/PA0211/S00595/rodney-hide-speech-best-team-parliament-has-seen.htm
+title: 'Rodney Hide Speech: Best Team Parliament Has Seen'
+date: 2002-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00595/rodney-hide-speech-best-team-parliament-has-seen.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/11/26/rodney-hide-speech-best-team-parliament-has-seen/index.html
+layout: layout.njk
 ---
 Rodney Hide Speech: Best Team Parliament Has Seen
 =================================================

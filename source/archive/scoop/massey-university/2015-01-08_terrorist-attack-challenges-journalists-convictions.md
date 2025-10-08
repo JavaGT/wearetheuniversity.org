@@ -1,9 +1,13 @@
 ---
 slug: terrorist-attack-challenges-journalists-convictions
-title: "Terrorist attack challenges journalists’ convictions"
-date: 2015-01-08
-source-url: https://www.scoop.co.nz/stories/ED1501/S00013/terrorist-attack-challenges-journalists-convictions.htm
+title: Terrorist attack challenges journalists’ convictions
+date: 2015-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00013/terrorist-attack-challenges-journalists-convictions.htm
 author: massey-university
+permalink: >-
+  /archive/2015/01/08/terrorist-attack-challenges-journalists-convictions/index.html
+layout: layout.njk
 ---
 Terrorist attack challenges journalists’ convictions
 ====================================================

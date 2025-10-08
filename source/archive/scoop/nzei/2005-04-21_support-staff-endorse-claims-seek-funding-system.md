@@ -1,9 +1,13 @@
 ---
 slug: support-staff-endorse-claims-seek-funding-system
-title: "Support Staff Endorse Claims, Seek Funding System"
-date: 2005-04-21
-source-url: https://www.scoop.co.nz/stories/ED0504/S00079/support-staff-endorse-claims-seek-funding-system.htm
+title: Support Staff Endorse Claims, Seek Funding System
+date: 2005-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00079/support-staff-endorse-claims-seek-funding-system.htm
 author: nzei
+permalink: >-
+  /archive/2005/04/21/support-staff-endorse-claims-seek-funding-system/index.html
+layout: layout.njk
 ---
 Support Staff Endorse Claims, Seek Funding System
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: national-proposes-fix-to-flawed-lending-regulations
-title: "National Proposes Fix To Flawed Lending Regulations"
-date: 2022-02-10
-source-url: https://www.scoop.co.nz/stories/PA2202/S00064/national-proposes-fix-to-flawed-lending-regulations.htm
+title: National Proposes Fix To Flawed Lending Regulations
+date: 2022-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00064/national-proposes-fix-to-flawed-lending-regulations.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/02/10/national-proposes-fix-to-flawed-lending-regulations/index.html
+layout: layout.njk
 ---
 National Proposes Fix To Flawed Lending Regulations
 ===================================================

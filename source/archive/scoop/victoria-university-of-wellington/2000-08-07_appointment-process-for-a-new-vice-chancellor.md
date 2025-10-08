@@ -1,9 +1,12 @@
 ---
 slug: appointment-process-for-a-new-vice-chancellor
-title: "Appointment process for a new Vice-Chancellor"
-date: 2000-08-07
-source-url: https://www.scoop.co.nz/stories/ED0008/S00017/appointment-process-for-a-new-vice-chancellor.htm
+title: Appointment process for a new Vice-Chancellor
+date: 2000-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00017/appointment-process-for-a-new-vice-chancellor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/08/07/appointment-process-for-a-new-vice-chancellor/index.html
+layout: layout.njk
 ---
 Appointment process for a new Vice-Chancellor
 =============================================

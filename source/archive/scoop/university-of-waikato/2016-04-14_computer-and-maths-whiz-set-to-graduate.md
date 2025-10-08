@@ -1,9 +1,12 @@
 ---
 slug: computer-and-maths-whiz-set-to-graduate
-title: "Computer and maths whiz set to graduate"
-date: 2016-04-14
-source-url: https://www.scoop.co.nz/stories/ED1604/S00046/computer-and-maths-whiz-set-to-graduate.htm
+title: Computer and maths whiz set to graduate
+date: 2016-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00046/computer-and-maths-whiz-set-to-graduate.htm
 author: university-of-waikato
+permalink: /archive/2016/04/14/computer-and-maths-whiz-set-to-graduate/index.html
+layout: layout.njk
 ---
 Computer and maths whiz set to graduate
 =======================================

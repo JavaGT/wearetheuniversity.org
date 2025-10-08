@@ -1,9 +1,11 @@
 ---
 slug: nzqa-on-the-mark-with-ncea
-title: "NZQA On The Mark With NCEA"
-date: 2001-03-22
+title: NZQA On The Mark With NCEA
+date: 2001-03-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0103/S00391/nzqa-on-the-mark-with-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/22/nzqa-on-the-mark-with-ncea/index.html
+layout: layout.njk
 ---
 NZQA On The Mark With NCEA
 ==========================

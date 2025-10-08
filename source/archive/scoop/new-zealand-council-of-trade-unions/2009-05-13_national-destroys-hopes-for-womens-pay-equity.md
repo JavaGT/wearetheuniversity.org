@@ -1,9 +1,12 @@
 ---
 slug: national-destroys-hopes-for-womens-pay-equity
-title: "National destroys hopes for women’s pay equity"
-date: 2009-05-13
-source-url: https://www.scoop.co.nz/stories/BU0905/S00357/national-destroys-hopes-for-womens-pay-equity.htm
+title: National destroys hopes for women’s pay equity
+date: 2009-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0905/S00357/national-destroys-hopes-for-womens-pay-equity.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/05/13/national-destroys-hopes-for-womens-pay-equity/index.html
+layout: layout.njk
 ---
 National destroys hopes for women’s pay equity
 ==============================================

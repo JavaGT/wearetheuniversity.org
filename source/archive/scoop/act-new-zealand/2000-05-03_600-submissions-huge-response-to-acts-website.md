@@ -1,9 +1,12 @@
 ---
 slug: 600-submissions-huge-response-to-acts-website
-title: "600 Submissions - Huge Response To ACT’s Website"
-date: 2000-05-03
-source-url: https://www.scoop.co.nz/stories/PA0005/S00077/600-submissions-huge-response-to-acts-website.htm
+title: 600 Submissions - Huge Response To ACT’s Website
+date: 2000-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00077/600-submissions-huge-response-to-acts-website.htm
 author: act-new-zealand
+permalink: /archive/2000/05/03/600-submissions-huge-response-to-acts-website/index.html
+layout: layout.njk
 ---
 600 Submissions - Huge Response To ACT’s Website
 ================================================

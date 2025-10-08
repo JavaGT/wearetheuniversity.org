@@ -1,9 +1,13 @@
 ---
 slug: labour-selects-fleur-fitzsimons-candidate-for-southern-ward
-title: "Labour Selects Fleur Fitzsimons Candidate for Southern Ward"
-date: 2017-10-13
-source-url: https://www.scoop.co.nz/stories/PO1710/S00109/labour-selects-fleur-fitzsimons-candidate-for-southern-ward.htm
+title: Labour Selects Fleur Fitzsimons Candidate for Southern Ward
+date: 2017-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1710/S00109/labour-selects-fleur-fitzsimons-candidate-for-southern-ward.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/10/13/labour-selects-fleur-fitzsimons-candidate-for-southern-ward/index.html
+layout: layout.njk
 ---
 Labour Selects Fleur Fitzsimons Candidate for Southern Ward
 ===========================================================

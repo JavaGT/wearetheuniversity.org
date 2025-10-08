@@ -1,9 +1,13 @@
 ---
 slug: greens-home-insulation-scheme-has-billion-dollar-benefits
-title: "Green’s Home Insulation Scheme has Billion Dollar Benefits"
-date: 2012-05-29
-source-url: https://www.scoop.co.nz/stories/PA1205/S00516/greens-home-insulation-scheme-has-billion-dollar-benefits.htm
+title: Green’s Home Insulation Scheme has Billion Dollar Benefits
+date: 2012-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00516/greens-home-insulation-scheme-has-billion-dollar-benefits.htm
 author: green-party
+permalink: >-
+  /archive/2012/05/29/greens-home-insulation-scheme-has-billion-dollar-benefits/index.html
+layout: layout.njk
 ---
 Green’s Home Insulation Scheme has Billion Dollar Benefits
 ==========================================================

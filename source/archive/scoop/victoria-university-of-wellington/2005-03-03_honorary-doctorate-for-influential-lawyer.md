@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-influential-lawyer
-title: "Honorary doctorate for influential lawyer"
-date: 2005-03-03
-source-url: https://www.scoop.co.nz/stories/ED0503/S00009/honorary-doctorate-for-influential-lawyer.htm
+title: Honorary doctorate for influential lawyer
+date: 2005-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00009/honorary-doctorate-for-influential-lawyer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/03/03/honorary-doctorate-for-influential-lawyer/index.html
+layout: layout.njk
 ---
 Honorary doctorate for influential lawyer
 =========================================

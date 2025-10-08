@@ -1,9 +1,12 @@
 ---
 slug: victoria-celebrating-our-graduands
-title: "Victoria: Celebrating our Graduands"
-date: 2005-12-09
-source-url: https://www.scoop.co.nz/stories/ED0512/S00044/victoria-celebrating-our-graduands.htm
+title: 'Victoria: Celebrating our Graduands'
+date: 2005-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00044/victoria-celebrating-our-graduands.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/12/09/victoria-celebrating-our-graduands/index.html
+layout: layout.njk
 ---
 Victoria: Celebrating our Graduands
 ===================================

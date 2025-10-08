@@ -1,9 +1,12 @@
 ---
 slug: urgent-debate-needed-on-lake-water-quality
-title: "Urgent debate needed on lake water quality"
-date: 2010-11-11
-source-url: https://www.scoop.co.nz/stories/PA1011/S00219/urgent-debate-needed-on-lake-water-quality.htm
+title: Urgent debate needed on lake water quality
+date: 2010-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00219/urgent-debate-needed-on-lake-water-quality.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/11/urgent-debate-needed-on-lake-water-quality/index.html
+layout: layout.njk
 ---
 Urgent debate needed on lake water quality
 ==========================================

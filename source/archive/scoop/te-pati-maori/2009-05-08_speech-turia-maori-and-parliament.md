@@ -1,9 +1,12 @@
 ---
 slug: speech-turia-maori-and-parliament
-title: "Speech: Turia - Maori and Parliament"
-date: 2009-05-08
-source-url: https://www.scoop.co.nz/stories/PA0905/S00151/speech-turia-maori-and-parliament.htm
+title: 'Speech: Turia - Maori and Parliament'
+date: 2009-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00151/speech-turia-maori-and-parliament.htm
 author: te-pati-maori
+permalink: /archive/2009/05/08/speech-turia-maori-and-parliament/index.html
+layout: layout.njk
 ---
 Speech: Turia - Maori and Parliament
 ====================================

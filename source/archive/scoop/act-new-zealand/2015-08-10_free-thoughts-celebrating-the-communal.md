@@ -1,9 +1,12 @@
 ---
 slug: free-thoughts-celebrating-the-communal
-title: "Free Thoughts - Celebrating the communal"
-date: 2015-08-10
-source-url: https://www.scoop.co.nz/stories/PA1508/S00117/free-thoughts-celebrating-the-communal.htm
+title: Free Thoughts - Celebrating the communal
+date: 2015-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00117/free-thoughts-celebrating-the-communal.htm
 author: act-new-zealand
+permalink: /archive/2015/08/10/free-thoughts-celebrating-the-communal/index.html
+layout: layout.njk
 ---
 Free Thoughts - Celebrating the communal
 ========================================

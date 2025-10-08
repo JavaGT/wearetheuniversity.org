@@ -1,9 +1,13 @@
 ---
 slug: harvard-child-health-expert-returns-to-roots-at-uc
-title: "Harvard child health expert returns to roots at UC"
-date: 2019-03-06
-source-url: https://www.scoop.co.nz/stories/ED1903/S00011/harvard-child-health-expert-returns-to-roots-at-uc.htm
+title: Harvard child health expert returns to roots at UC
+date: 2019-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1903/S00011/harvard-child-health-expert-returns-to-roots-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/03/06/harvard-child-health-expert-returns-to-roots-at-uc/index.html
+layout: layout.njk
 ---
 Harvard child health expert returns to roots at UC
 ==================================================

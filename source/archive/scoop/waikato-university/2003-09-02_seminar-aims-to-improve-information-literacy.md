@@ -1,9 +1,12 @@
 ---
 slug: seminar-aims-to-improve-information-literacy
-title: "Seminar Aims To Improve Information Literacy"
-date: 2003-09-02
-source-url: https://www.scoop.co.nz/stories/ED0309/S00005/seminar-aims-to-improve-information-literacy.htm
+title: Seminar Aims To Improve Information Literacy
+date: 2003-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00005/seminar-aims-to-improve-information-literacy.htm
 author: waikato-university
+permalink: /archive/2003/09/02/seminar-aims-to-improve-information-literacy/index.html
+layout: layout.njk
 ---
 Seminar Aims To Improve Information Literacy
 ============================================

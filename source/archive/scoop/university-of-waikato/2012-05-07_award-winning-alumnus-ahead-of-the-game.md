@@ -1,9 +1,12 @@
 ---
 slug: award-winning-alumnus-ahead-of-the-game
-title: "Award-winning alumnus ahead of the game"
-date: 2012-05-07
-source-url: https://www.scoop.co.nz/stories/BU1205/S00216/award-winning-alumnus-ahead-of-the-game.htm
+title: Award-winning alumnus ahead of the game
+date: 2012-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1205/S00216/award-winning-alumnus-ahead-of-the-game.htm
 author: university-of-waikato
+permalink: /archive/2012/05/07/award-winning-alumnus-ahead-of-the-game/index.html
+layout: layout.njk
 ---
 Award-winning alumnus ahead of the game
 =======================================

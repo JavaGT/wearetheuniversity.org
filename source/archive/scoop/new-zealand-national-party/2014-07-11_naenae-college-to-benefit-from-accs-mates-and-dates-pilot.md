@@ -1,9 +1,13 @@
 ---
 slug: naenae-college-to-benefit-from-accs-mates-and-dates-pilot
-title: "Naenae College to benefit from ACC’s Mates and Dates pilot"
-date: 2014-07-11
-source-url: https://www.scoop.co.nz/stories/PO1407/S00200/naenae-college-to-benefit-from-accs-mates-and-dates-pilot.htm
+title: Naenae College to benefit from ACC’s Mates and Dates pilot
+date: 2014-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00200/naenae-college-to-benefit-from-accs-mates-and-dates-pilot.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/07/11/naenae-college-to-benefit-from-accs-mates-and-dates-pilot/index.html
+layout: layout.njk
 ---
 Naenae College to benefit from ACC’s Mates and Dates pilot
 ==========================================================

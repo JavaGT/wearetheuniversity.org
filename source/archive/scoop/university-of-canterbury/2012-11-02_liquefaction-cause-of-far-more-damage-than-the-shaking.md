@@ -1,9 +1,13 @@
 ---
 slug: liquefaction-cause-of-far-more-damage-than-the-shaking
-title: "Liquefaction cause of far more damage than the shaking"
-date: 2012-11-02
-source-url: https://www.scoop.co.nz/stories/SC1211/S00010/liquefaction-cause-of-far-more-damage-than-the-shaking.htm
+title: Liquefaction cause of far more damage than the shaking
+date: 2012-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00010/liquefaction-cause-of-far-more-damage-than-the-shaking.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/02/liquefaction-cause-of-far-more-damage-than-the-shaking/index.html
+layout: layout.njk
 ---
 Liquefaction cause of far more damage than the shaking
 ======================================================

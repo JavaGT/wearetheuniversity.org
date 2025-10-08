@@ -1,9 +1,12 @@
 ---
 slug: domino-effect-in-novopay-debacle
-title: "Domino effect in Novopay debacle"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/ED1211/S00166/domino-effect-in-novopay-debacle.htm
+title: Domino effect in Novopay debacle
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00166/domino-effect-in-novopay-debacle.htm
 author: nzei
+permalink: /archive/2012/11/22/domino-effect-in-novopay-debacle/index.html
+layout: layout.njk
 ---
 Domino effect in Novopay debacle
 ================================

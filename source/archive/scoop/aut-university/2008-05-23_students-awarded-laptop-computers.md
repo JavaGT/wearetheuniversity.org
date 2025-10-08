@@ -1,9 +1,12 @@
 ---
 slug: students-awarded-laptop-computers
-title: "Students Awarded Laptop Computers"
-date: 2008-05-23
-source-url: https://www.scoop.co.nz/stories/ED0805/S00094/students-awarded-laptop-computers.htm
+title: Students Awarded Laptop Computers
+date: 2008-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00094/students-awarded-laptop-computers.htm
 author: aut-university
+permalink: /archive/2008/05/23/students-awarded-laptop-computers/index.html
+layout: layout.njk
 ---
 Students Awarded Laptop Computers
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: local-uni-students-take-on-the-nz-defence-force
-title: "Local Uni students take on the NZ Defence Force"
-date: 2011-09-16
-source-url: https://www.scoop.co.nz/stories/ED1109/S00063/local-uni-students-take-on-the-nz-defence-force.htm
+title: Local Uni students take on the NZ Defence Force
+date: 2011-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00063/local-uni-students-take-on-the-nz-defence-force.htm
 author: aut-university
+permalink: /archive/2011/09/16/local-uni-students-take-on-the-nz-defence-force/index.html
+layout: layout.njk
 ---
 Local Uni students take on the NZ Defence Force
 ===============================================

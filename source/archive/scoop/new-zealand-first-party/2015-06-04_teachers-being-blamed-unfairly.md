@@ -1,9 +1,12 @@
 ---
 slug: teachers-being-blamed-unfairly
-title: "Teachers Being Blamed Unfairly"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/PA1506/S00067/teachers-being-blamed-unfairly.htm
+title: Teachers Being Blamed Unfairly
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00067/teachers-being-blamed-unfairly.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/04/teachers-being-blamed-unfairly/index.html
+layout: layout.njk
 ---
 Teachers Being Blamed Unfairly
 ==============================

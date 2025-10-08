@@ -1,9 +1,11 @@
 ---
 slug: camillas-kiwi-experience
-title: "Camilla's kiwi experience"
-date: 2012-11-15
+title: Camilla's kiwi experience
+date: 2012-11-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1211/S00118/camillas-kiwi-experience.htm
 author: massey-university
+permalink: /archive/2012/11/15/camillas-kiwi-experience/index.html
+layout: layout.njk
 ---
 Camilla's kiwi experience
 =========================

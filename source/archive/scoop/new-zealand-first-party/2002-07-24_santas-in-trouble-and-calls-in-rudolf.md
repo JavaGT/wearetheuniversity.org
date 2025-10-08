@@ -1,9 +1,12 @@
 ---
 slug: santas-in-trouble-and-calls-in-rudolf
-title: "Santa’s In Trouble And Calls In Rudolf"
-date: 2002-07-24
-source-url: https://www.scoop.co.nz/stories/PA0207/S00659/santas-in-trouble-and-calls-in-rudolf.htm
+title: Santa’s In Trouble And Calls In Rudolf
+date: 2002-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00659/santas-in-trouble-and-calls-in-rudolf.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/24/santas-in-trouble-and-calls-in-rudolf/index.html
+layout: layout.njk
 ---
 Santa’s In Trouble And Calls In Rudolf
 ======================================

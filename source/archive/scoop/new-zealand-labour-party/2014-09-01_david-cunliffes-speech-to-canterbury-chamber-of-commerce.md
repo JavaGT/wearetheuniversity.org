@@ -1,9 +1,13 @@
 ---
 slug: david-cunliffes-speech-to-canterbury-chamber-of-commerce
-title: "David Cunliffe's speech to Canterbury Chamber of Commerce"
-date: 2014-09-01
-source-url: https://www.scoop.co.nz/stories/PA1409/S00007/david-cunliffes-speech-to-canterbury-chamber-of-commerce.htm
+title: David Cunliffe's speech to Canterbury Chamber of Commerce
+date: 2014-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00007/david-cunliffes-speech-to-canterbury-chamber-of-commerce.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/09/01/david-cunliffes-speech-to-canterbury-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 David Cunliffe's speech to Canterbury Chamber of Commerce
 =========================================================

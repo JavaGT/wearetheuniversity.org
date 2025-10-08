@@ -1,9 +1,13 @@
 ---
 slug: axing-social-work-awards-betrays-investment-approach
-title: "Axing social work awards betrays investment approach"
-date: 2016-09-02
-source-url: https://www.scoop.co.nz/stories/PA1609/S00038/axing-social-work-awards-betrays-investment-approach.htm
+title: Axing social work awards betrays investment approach
+date: 2016-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00038/axing-social-work-awards-betrays-investment-approach.htm
 author: green-party
+permalink: >-
+  /archive/2016/09/02/axing-social-work-awards-betrays-investment-approach/index.html
+layout: layout.njk
 ---
 Axing social work awards betrays investment approach
 ====================================================

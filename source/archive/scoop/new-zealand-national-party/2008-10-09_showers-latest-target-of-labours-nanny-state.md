@@ -1,9 +1,12 @@
 ---
 slug: showers-latest-target-of-labours-nanny-state
-title: "Showers latest target of Labour’s nanny state"
-date: 2008-10-09
-source-url: https://www.scoop.co.nz/stories/PA0810/S00187/showers-latest-target-of-labours-nanny-state.htm
+title: Showers latest target of Labour’s nanny state
+date: 2008-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00187/showers-latest-target-of-labours-nanny-state.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/09/showers-latest-target-of-labours-nanny-state/index.html
+layout: layout.njk
 ---
 Showers latest target of Labour’s nanny state
 =============================================

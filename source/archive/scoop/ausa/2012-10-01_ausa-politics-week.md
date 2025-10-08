@@ -1,9 +1,11 @@
 ---
 slug: ausa-politics-week
-title: "AUSA Politics Week"
-date: 2012-10-01
+title: AUSA Politics Week
+date: 2012-10-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1210/S00013/ausa-politics-week.htm
 author: ausa
+permalink: /archive/2012/10/01/ausa-politics-week/index.html
+layout: layout.njk
 ---
 AUSA Politics Week
 ==================

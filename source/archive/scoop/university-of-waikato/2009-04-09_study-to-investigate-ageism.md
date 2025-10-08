@@ -1,9 +1,11 @@
 ---
 slug: study-to-investigate-ageism
-title: "Study to investigate ageism"
-date: 2009-04-09
+title: Study to investigate ageism
+date: 2009-04-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0904/S00030/study-to-investigate-ageism.htm
 author: university-of-waikato
+permalink: /archive/2009/04/09/study-to-investigate-ageism/index.html
+layout: layout.njk
 ---
 Study to investigate ageism
 ===========================

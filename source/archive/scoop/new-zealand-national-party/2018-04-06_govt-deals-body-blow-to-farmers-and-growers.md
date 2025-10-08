@@ -1,9 +1,12 @@
 ---
 slug: govt-deals-body-blow-to-farmers-and-growers
-title: "Govt deals body-blow to farmers and growers"
-date: 2018-04-06
-source-url: https://www.scoop.co.nz/stories/PA1804/S00059/govt-deals-body-blow-to-farmers-and-growers.htm
+title: Govt deals body-blow to farmers and growers
+date: 2018-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00059/govt-deals-body-blow-to-farmers-and-growers.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/06/govt-deals-body-blow-to-farmers-and-growers/index.html
+layout: layout.njk
 ---
 Govt deals body-blow to farmers and growers
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: health-research-council-funding-for-vuw-researchers
-title: "Health Research Council funding for VUW researchers"
-date: 2016-04-15
-source-url: https://www.scoop.co.nz/stories/SC1604/S00032/health-research-council-funding-for-vuw-researchers.htm
+title: Health Research Council funding for VUW researchers
+date: 2016-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00032/health-research-council-funding-for-vuw-researchers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/04/15/health-research-council-funding-for-vuw-researchers/index.html
+layout: layout.njk
 ---
 Health Research Council funding for VUW researchers
 ===================================================

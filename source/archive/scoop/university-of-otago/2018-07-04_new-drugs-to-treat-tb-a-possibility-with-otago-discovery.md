@@ -1,9 +1,13 @@
 ---
 slug: new-drugs-to-treat-tb-a-possibility-with-otago-discovery
-title: "New drugs to treat TB a possibility with Otago discovery"
-date: 2018-07-04
-source-url: https://www.scoop.co.nz/stories/GE1807/S00013/new-drugs-to-treat-tb-a-possibility-with-otago-discovery.htm
+title: New drugs to treat TB a possibility with Otago discovery
+date: 2018-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00013/new-drugs-to-treat-tb-a-possibility-with-otago-discovery.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/04/new-drugs-to-treat-tb-a-possibility-with-otago-discovery/index.html
+layout: layout.njk
 ---
 New drugs to treat TB a possibility with Otago discovery
 ========================================================

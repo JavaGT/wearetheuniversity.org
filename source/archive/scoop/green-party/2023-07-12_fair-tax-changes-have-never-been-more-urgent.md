@@ -1,9 +1,12 @@
 ---
 slug: fair-tax-changes-have-never-been-more-urgent
-title: "Fair Tax Changes Have Never Been More Urgent"
-date: 2023-07-12
-source-url: https://www.scoop.co.nz/stories/PA2307/S00054/fair-tax-changes-have-never-been-more-urgent.htm
+title: Fair Tax Changes Have Never Been More Urgent
+date: 2023-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00054/fair-tax-changes-have-never-been-more-urgent.htm
 author: green-party
+permalink: /archive/2023/07/12/fair-tax-changes-have-never-been-more-urgent/index.html
+layout: layout.njk
 ---
 Fair Tax Changes Have Never Been More Urgent
 ============================================

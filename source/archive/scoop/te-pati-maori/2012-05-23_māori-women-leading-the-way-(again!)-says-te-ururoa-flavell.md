@@ -1,9 +1,12 @@
 ---
 slug: māori-women-leading-the-way-(again!)-says-te-ururoa-flavell
-title: "Māori Women Leading the Way (again!)  says Te Ururoa Flavell"
-date: 2012-05-23
-source-url: https://www.scoop.co.nz/stories/PA1205/S00374/maori-women-leading-the-way-again-says-te-ururoa-flavell.htm
+title: Māori Women Leading the Way (again!)  says Te Ururoa Flavell
+date: 2012-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00374/maori-women-leading-the-way-again-says-te-ururoa-flavell.htm
 author: te-pati-maori
+permalink: /archive/2012/05/23/m/index.html
+layout: layout.njk
 ---
 Māori Women Leading the Way (again!) says Te Ururoa Flavell
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-call-on-govt-to-wake-up-on-child-poverty
-title: "Greens Call On Govt To Wake Up On Child Poverty"
-date: 2024-08-28
-source-url: https://www.scoop.co.nz/stories/PA2408/S00194/greens-call-on-govt-to-wake-up-on-child-poverty.htm
+title: Greens Call On Govt To Wake Up On Child Poverty
+date: 2024-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00194/greens-call-on-govt-to-wake-up-on-child-poverty.htm
 author: green-party
+permalink: /archive/2024/08/28/greens-call-on-govt-to-wake-up-on-child-poverty/index.html
+layout: layout.njk
 ---
 Greens Call On Govt To Wake Up On Child Poverty
 ===============================================

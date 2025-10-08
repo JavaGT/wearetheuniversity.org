@@ -1,9 +1,13 @@
 ---
 slug: professor-appointed-to-head-school-of-accounting
-title: "Professor appointed to head School of Accounting"
-date: 2003-06-16
-source-url: https://www.scoop.co.nz/stories/ED0306/S00027/professor-appointed-to-head-school-of-accounting.htm
+title: Professor appointed to head School of Accounting
+date: 2003-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00027/professor-appointed-to-head-school-of-accounting.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/06/16/professor-appointed-to-head-school-of-accounting/index.html
+layout: layout.njk
 ---
 Professor appointed to head School of Accounting
 ================================================

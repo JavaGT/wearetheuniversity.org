@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-32-20-september
-title: "AUS Tertiary Update  Vol. 4 No. 32, 20 September"
-date: 2001-09-20
-source-url: https://www.scoop.co.nz/stories/ED0109/S00006/aus-tertiary-update-vol-4-no-32-20-september.htm
+title: AUS Tertiary Update  Vol. 4 No. 32, 20 September
+date: 2001-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0109/S00006/aus-tertiary-update-vol-4-no-32-20-september.htm
 author: association-of-university-staff
+permalink: /archive/2001/09/20/aus-tertiary-update-vol-4-no-32-20-september/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 4 No. 32, 20 September
 ===============================================

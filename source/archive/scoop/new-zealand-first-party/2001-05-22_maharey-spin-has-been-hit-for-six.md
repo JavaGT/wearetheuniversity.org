@@ -1,9 +1,12 @@
 ---
 slug: maharey-spin-has-been-hit-for-six
-title: "Maharey’ Spin Has Been Hit For Six"
-date: 2001-05-22
-source-url: https://www.scoop.co.nz/stories/PA0105/S00436/maharey-spin-has-been-hit-for-six.htm
+title: Maharey’ Spin Has Been Hit For Six
+date: 2001-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00436/maharey-spin-has-been-hit-for-six.htm
 author: new-zealand-first-party
+permalink: /archive/2001/05/22/maharey-spin-has-been-hit-for-six/index.html
+layout: layout.njk
 ---
 Maharey’ Spin Has Been Hit For Six
 ==================================

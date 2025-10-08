@@ -1,9 +1,12 @@
 ---
 slug: methamphetamine-easier-to-buy-than-cannabis
-title: "Methamphetamine easier to buy than cannabis"
-date: 2018-03-13
-source-url: https://www.scoop.co.nz/stories/PO1803/S00177/methamphetamine-easier-to-buy-than-cannabis.htm
+title: Methamphetamine easier to buy than cannabis
+date: 2018-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1803/S00177/methamphetamine-easier-to-buy-than-cannabis.htm
 author: massey-university
+permalink: /archive/2018/03/13/methamphetamine-easier-to-buy-than-cannabis/index.html
+layout: layout.njk
 ---
 Methamphetamine easier to buy than cannabis
 ===========================================

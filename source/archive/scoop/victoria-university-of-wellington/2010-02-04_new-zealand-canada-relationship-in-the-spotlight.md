@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-canada-relationship-in-the-spotlight
-title: "New Zealand-Canada Relationship in the spotlight"
-date: 2010-02-04
-source-url: https://www.scoop.co.nz/stories/WO1002/S00100/new-zealand-canada-relationship-in-the-spotlight.htm
+title: New Zealand-Canada Relationship in the spotlight
+date: 2010-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1002/S00100/new-zealand-canada-relationship-in-the-spotlight.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/02/04/new-zealand-canada-relationship-in-the-spotlight/index.html
+layout: layout.njk
 ---
 New Zealand-Canada Relationship in the spotlight
 ================================================

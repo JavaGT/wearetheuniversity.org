@@ -1,9 +1,13 @@
 ---
 slug: the-effective-participation-of-indigenous-peoples
-title: "The effective participation of indigenous peoples"
-date: 2010-04-22
-source-url: https://www.scoop.co.nz/stories/PA1004/S00255/the-effective-participation-of-indigenous-peoples.htm
+title: The effective participation of indigenous peoples
+date: 2010-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00255/the-effective-participation-of-indigenous-peoples.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/04/22/the-effective-participation-of-indigenous-peoples/index.html
+layout: layout.njk
 ---
 The effective participation of indigenous peoples
 =================================================

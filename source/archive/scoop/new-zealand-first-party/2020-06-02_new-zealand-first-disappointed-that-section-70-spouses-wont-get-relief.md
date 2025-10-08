@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-disappointed-that-section-70-spouses-wont-get-relief
-title: "New Zealand First Disappointed That Section 70 Spouses Won’t Get Relief"
-date: 2020-06-02
-source-url: https://www.scoop.co.nz/stories/PA2006/S00014/new-zealand-first-disappointed-that-section-70-spouses-wont-get-relief.htm
+title: New Zealand First Disappointed That Section 70 Spouses Won’t Get Relief
+date: 2020-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00014/new-zealand-first-disappointed-that-section-70-spouses-wont-get-relief.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/06/02/new-zealand-first-disappointed-that-section-70-spouses-wont-get-relief/index.html
+layout: layout.njk
 ---
 New Zealand First Disappointed That Section 70 Spouses Won’t Get Relief
 =======================================================================

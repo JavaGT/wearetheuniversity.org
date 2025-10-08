@@ -1,9 +1,13 @@
 ---
 slug: university-of-auckland-ranked-in-top-tier-globally-for-sustainability
-title: "University Of Auckland Ranked In Top Tier Globally For Sustainability"
-date: 2024-06-12
-source-url: https://www.scoop.co.nz/stories/ED2406/S00022/university-of-auckland-ranked-in-top-tier-globally-for-sustainability.htm
+title: University Of Auckland Ranked In Top Tier Globally For Sustainability
+date: 2024-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00022/university-of-auckland-ranked-in-top-tier-globally-for-sustainability.htm
 author: auckland-university
+permalink: >-
+  /archive/2024/06/12/university-of-auckland-ranked-in-top-tier-globally-for-sustainability/index.html
+layout: layout.njk
 ---
 University Of Auckland Ranked In Top Tier Globally For Sustainability
 =====================================================================

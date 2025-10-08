@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-budget-policy-statement-2010
-title: "Te Ururoa Flavell: Budget Policy Statement 2010"
-date: 2010-03-17
-source-url: https://www.scoop.co.nz/stories/PA1003/S00244/te-ururoa-flavell-budget-policy-statement-2010.htm
+title: 'Te Ururoa Flavell: Budget Policy Statement 2010'
+date: 2010-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00244/te-ururoa-flavell-budget-policy-statement-2010.htm
 author: te-pati-maori
+permalink: /archive/2010/03/17/te-ururoa-flavell-budget-policy-statement-2010/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell: Budget Policy Statement 2010
 ===============================================

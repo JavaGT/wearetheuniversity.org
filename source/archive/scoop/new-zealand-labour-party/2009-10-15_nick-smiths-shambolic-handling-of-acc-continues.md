@@ -1,9 +1,12 @@
 ---
 slug: nick-smiths-shambolic-handling-of-acc-continues
-title: "Nick Smith’s shambolic handling of ACC continues"
-date: 2009-10-15
-source-url: https://www.scoop.co.nz/stories/PA0910/S00194/nick-smiths-shambolic-handling-of-acc-continues.htm
+title: Nick Smith’s shambolic handling of ACC continues
+date: 2009-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00194/nick-smiths-shambolic-handling-of-acc-continues.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/15/nick-smiths-shambolic-handling-of-acc-continues/index.html
+layout: layout.njk
 ---
 Nick Smith’s shambolic handling of ACC continues
 ================================================

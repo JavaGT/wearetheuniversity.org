@@ -1,9 +1,12 @@
 ---
 slug: wall-street-style-greed-has-no-place-here
-title: "Wall Street-style greed has no place here"
-date: 2011-05-05
-source-url: https://www.scoop.co.nz/stories/PA1105/S00113/wall-street-style-greed-has-no-place-here.htm
+title: Wall Street-style greed has no place here
+date: 2011-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00113/wall-street-style-greed-has-no-place-here.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/05/wall-street-style-greed-has-no-place-here/index.html
+layout: layout.njk
 ---
 Wall Street-style greed has no place here
 =========================================

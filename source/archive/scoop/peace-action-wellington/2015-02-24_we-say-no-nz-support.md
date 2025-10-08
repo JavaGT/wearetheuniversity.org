@@ -1,9 +1,11 @@
 ---
 slug: we-say-no-nz-support
-title: "We say \"No NZ support\""
-date: 2015-02-24
+title: We say "No NZ support"
+date: 2015-02-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1502/S00260/we-say-no-nz-support.htm
 author: peace-action-wellington
+permalink: /archive/2015/02/24/we-say-no-nz-support/index.html
+layout: layout.njk
 ---
 We say “No NZ support"
 ======================

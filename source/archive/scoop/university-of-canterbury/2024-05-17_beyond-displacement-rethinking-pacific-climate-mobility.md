@@ -1,9 +1,13 @@
 ---
 slug: beyond-displacement-rethinking-pacific-climate-mobility
-title: "Beyond Displacement: Rethinking Pacific Climate Mobility"
-date: 2024-05-17
-source-url: https://www.scoop.co.nz/stories/AK2405/S00575/beyond-displacement-rethinking-pacific-climate-mobility.htm
+title: 'Beyond Displacement: Rethinking Pacific Climate Mobility'
+date: 2024-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2405/S00575/beyond-displacement-rethinking-pacific-climate-mobility.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/17/beyond-displacement-rethinking-pacific-climate-mobility/index.html
+layout: layout.njk
 ---
 Beyond Displacement: Rethinking Pacific Climate Mobility
 ========================================================

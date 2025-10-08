@@ -1,9 +1,12 @@
 ---
 slug: public-service-cuts-need-scrutiny
-title: "Public service cuts need scrutiny"
-date: 2011-12-06
-source-url: https://www.scoop.co.nz/stories/PA1112/S00045/public-service-cuts-need-scrutiny.htm
+title: Public service cuts need scrutiny
+date: 2011-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00045/public-service-cuts-need-scrutiny.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/06/public-service-cuts-need-scrutiny/index.html
+layout: layout.njk
 ---
 Public service cuts need scrutiny
 =================================

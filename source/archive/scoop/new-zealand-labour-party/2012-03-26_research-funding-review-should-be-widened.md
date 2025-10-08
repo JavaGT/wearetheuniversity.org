@@ -1,9 +1,12 @@
 ---
 slug: research-funding-review-should-be-widened
-title: "Research funding review should be widened"
-date: 2012-03-26
-source-url: https://www.scoop.co.nz/stories/PA1203/S00339/research-funding-review-should-be-widened.htm
+title: Research funding review should be widened
+date: 2012-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00339/research-funding-review-should-be-widened.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/26/research-funding-review-should-be-widened/index.html
+layout: layout.njk
 ---
 Research funding review should be widened
 =========================================

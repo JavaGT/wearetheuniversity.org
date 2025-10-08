@@ -1,9 +1,12 @@
 ---
 slug: education-export-sector-at-risk-under-ncea
-title: "Education export sector at risk under NCEA"
-date: 2001-04-19
-source-url: https://www.scoop.co.nz/stories/PA0104/S00297/education-export-sector-at-risk-under-ncea.htm
+title: Education export sector at risk under NCEA
+date: 2001-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00297/education-export-sector-at-risk-under-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/19/education-export-sector-at-risk-under-ncea/index.html
+layout: layout.njk
 ---
 Education export sector at risk under NCEA
 ==========================================

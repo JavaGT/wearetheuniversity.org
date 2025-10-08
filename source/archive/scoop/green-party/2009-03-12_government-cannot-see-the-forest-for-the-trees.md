@@ -1,9 +1,12 @@
 ---
 slug: government-cannot-see-the-forest-for-the-trees
-title: "Government cannot see the Forest for the Trees"
-date: 2009-03-12
-source-url: https://www.scoop.co.nz/stories/PA0903/S00182/government-cannot-see-the-forest-for-the-trees.htm
+title: Government cannot see the Forest for the Trees
+date: 2009-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00182/government-cannot-see-the-forest-for-the-trees.htm
 author: green-party
+permalink: /archive/2009/03/12/government-cannot-see-the-forest-for-the-trees/index.html
+layout: layout.njk
 ---
 Government cannot see the Forest for the Trees
 ==============================================

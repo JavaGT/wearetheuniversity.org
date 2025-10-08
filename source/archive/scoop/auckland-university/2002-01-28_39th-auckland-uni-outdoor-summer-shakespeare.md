@@ -1,9 +1,12 @@
 ---
 slug: 39th-auckland-uni-outdoor-summer-shakespeare
-title: "39th Auckland Uni. Outdoor Summer Shakespeare"
-date: 2002-01-28
-source-url: https://www.scoop.co.nz/stories/CU0201/S00022/39th-auckland-uni-outdoor-summer-shakespeare.htm
+title: 39th Auckland Uni. Outdoor Summer Shakespeare
+date: 2002-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0201/S00022/39th-auckland-uni-outdoor-summer-shakespeare.htm
 author: auckland-university
+permalink: /archive/2002/01/28/39th-auckland-uni-outdoor-summer-shakespeare/index.html
+layout: layout.njk
 ---
 39th Auckland Uni. Outdoor Summer Shakespeare
 =============================================

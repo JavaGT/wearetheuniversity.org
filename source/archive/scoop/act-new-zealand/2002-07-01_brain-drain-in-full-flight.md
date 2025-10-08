@@ -1,9 +1,11 @@
 ---
 slug: brain-drain-in-full-flight
-title: "Brain Drain in Full Flight"
-date: 2002-07-01
+title: Brain Drain in Full Flight
+date: 2002-07-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00033/brain-drain-in-full-flight.htm
 author: act-new-zealand
+permalink: /archive/2002/07/01/brain-drain-in-full-flight/index.html
+layout: layout.njk
 ---
 Brain Drain in Full Flight
 ==========================

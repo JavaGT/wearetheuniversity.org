@@ -1,9 +1,13 @@
 ---
 slug: breakers-co-owner-shares-her-secret-recipe-for-leadership
-title: "Breakers co-owner shares her secret recipe for leadership"
-date: 2016-05-11
-source-url: https://www.scoop.co.nz/stories/CU1605/S00128/breakers-co-owner-shares-her-secret-recipe-for-leadership.htm
+title: Breakers co-owner shares her secret recipe for leadership
+date: 2016-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1605/S00128/breakers-co-owner-shares-her-secret-recipe-for-leadership.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/05/11/breakers-co-owner-shares-her-secret-recipe-for-leadership/index.html
+layout: layout.njk
 ---
 Breakers co-owner shares her secret recipe for leadership
 =========================================================

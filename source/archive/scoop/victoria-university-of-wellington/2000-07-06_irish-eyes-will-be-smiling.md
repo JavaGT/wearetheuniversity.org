@@ -1,9 +1,11 @@
 ---
 slug: irish-eyes-will-be-smiling
-title: "Irish eyes will be smiling"
-date: 2000-07-06
+title: Irish eyes will be smiling
+date: 2000-07-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0007/S00009/irish-eyes-will-be-smiling.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/07/06/irish-eyes-will-be-smiling/index.html
+layout: layout.njk
 ---
 Irish eyes will be smiling
 ==========================

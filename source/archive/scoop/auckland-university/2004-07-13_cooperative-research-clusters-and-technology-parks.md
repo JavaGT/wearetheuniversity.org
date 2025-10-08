@@ -1,9 +1,13 @@
 ---
 slug: cooperative-research-clusters-and-technology-parks
-title: "Cooperative Research Clusters and Technology Parks"
-date: 2004-07-13
-source-url: https://www.scoop.co.nz/stories/ED0407/S00042/cooperative-research-clusters-and-technology-parks.htm
+title: Cooperative Research Clusters and Technology Parks
+date: 2004-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00042/cooperative-research-clusters-and-technology-parks.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/07/13/cooperative-research-clusters-and-technology-parks/index.html
+layout: layout.njk
 ---
 Cooperative Research Clusters and Technology Parks
 ==================================================

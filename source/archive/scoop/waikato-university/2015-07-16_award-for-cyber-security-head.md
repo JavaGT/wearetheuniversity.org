@@ -1,9 +1,12 @@
 ---
 slug: award-for-cyber-security-head
-title: "Award for cyber security head"
-date: 2015-07-16
-source-url: https://www.scoop.co.nz/stories/ED1507/S00080/award-for-cyber-security-head.htm
+title: Award for cyber security head
+date: 2015-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00080/award-for-cyber-security-head.htm
 author: waikato-university
+permalink: /archive/2015/07/16/award-for-cyber-security-head/index.html
+layout: layout.njk
 ---
 Award for cyber security head
 =============================

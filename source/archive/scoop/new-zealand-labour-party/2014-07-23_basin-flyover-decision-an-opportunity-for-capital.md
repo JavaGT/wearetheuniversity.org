@@ -1,9 +1,13 @@
 ---
 slug: basin-flyover-decision-an-opportunity-for-capital
-title: "Basin flyover decision an opportunity for capital"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/PA1407/S00417/basin-flyover-decision-an-opportunity-for-capital.htm
+title: Basin flyover decision an opportunity for capital
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00417/basin-flyover-decision-an-opportunity-for-capital.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/07/23/basin-flyover-decision-an-opportunity-for-capital/index.html
+layout: layout.njk
 ---
 Basin flyover decision an opportunity for capital
 =================================================

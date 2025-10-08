@@ -1,9 +1,13 @@
 ---
 slug: suspensions-are-down-because-kids-arent-in-school
-title: "Suspensions Are Down Because Kids Aren't In School"
-date: 2002-05-02
-source-url: https://www.scoop.co.nz/stories/PA0205/S00061/suspensions-are-down-because-kids-arent-in-school.htm
+title: Suspensions Are Down Because Kids Aren't In School
+date: 2002-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00061/suspensions-are-down-because-kids-arent-in-school.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/05/02/suspensions-are-down-because-kids-arent-in-school/index.html
+layout: layout.njk
 ---
 Suspensions Are Down Because Kids Aren't In School
 ==================================================

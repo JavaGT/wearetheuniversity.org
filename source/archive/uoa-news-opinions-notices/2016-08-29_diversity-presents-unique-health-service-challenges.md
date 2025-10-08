@@ -1,8 +1,12 @@
 ---
 slug: diversity-presents-unique-health-service-challenges
-title: "Diversity presents unique health service challenges"
-date: 2016-08-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/diversity-presents-unique-health-service-challenges.html
+title: Diversity presents unique health service challenges
+date: 2016-08-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/diversity-presents-unique-health-service-challenges.html
+permalink: >-
+  /archive/2016/08/29/diversity-presents-unique-health-service-challenges/index.html
+layout: layout.njk
 ---
 Diversity presents unique health service challenges
 ===================================================

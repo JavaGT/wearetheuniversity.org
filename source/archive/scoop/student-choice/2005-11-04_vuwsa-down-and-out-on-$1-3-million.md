@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-down-and-out-on-$1-3-million
-title: "VUWSA down and out on $1.3 million"
-date: 2005-11-04
-source-url: https://www.scoop.co.nz/stories/ED0511/S00024/vuwsa-down-and-out-on-13-million.htm
+title: VUWSA down and out on $1.3 million
+date: 2005-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00024/vuwsa-down-and-out-on-13-million.htm
 author: student-choice
+permalink: /archive/2005/11/04/vuwsa-down-and-out-on-/index.html
+layout: layout.njk
 ---
 VUWSA down and out on $1.3 million
 ==================================

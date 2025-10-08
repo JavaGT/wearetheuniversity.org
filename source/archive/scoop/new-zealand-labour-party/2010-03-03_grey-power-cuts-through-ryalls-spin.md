@@ -1,9 +1,12 @@
 ---
 slug: grey-power-cuts-through-ryalls-spin
-title: "Grey Power cuts through Ryall’s spin"
-date: 2010-03-03
-source-url: https://www.scoop.co.nz/stories/PA1003/S00039/grey-power-cuts-through-ryalls-spin.htm
+title: Grey Power cuts through Ryall’s spin
+date: 2010-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00039/grey-power-cuts-through-ryalls-spin.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/03/grey-power-cuts-through-ryalls-spin/index.html
+layout: layout.njk
 ---
 Grey Power cuts through Ryall’s spin
 ====================================

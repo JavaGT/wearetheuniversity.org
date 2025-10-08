@@ -1,9 +1,13 @@
 ---
 slug: greens-plan-for-largest-ever-marine-mammal-sanctuary
-title: "Greens plan for largest-ever marine mammal sanctuary"
-date: 2017-08-29
-source-url: https://www.scoop.co.nz/stories/PA1708/S00515/greens-plan-for-largest-ever-marine-mammal-sanctuary.htm
+title: Greens plan for largest-ever marine mammal sanctuary
+date: 2017-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00515/greens-plan-for-largest-ever-marine-mammal-sanctuary.htm
 author: green-party
+permalink: >-
+  /archive/2017/08/29/greens-plan-for-largest-ever-marine-mammal-sanctuary/index.html
+layout: layout.njk
 ---
 Greens plan for largest-ever marine mammal sanctuary
 ====================================================

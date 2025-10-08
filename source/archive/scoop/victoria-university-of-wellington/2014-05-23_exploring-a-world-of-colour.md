@@ -1,9 +1,11 @@
 ---
 slug: exploring-a-world-of-colour
-title: "Exploring a world of colour"
-date: 2014-05-23
+title: Exploring a world of colour
+date: 2014-05-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1405/S00116/exploring-a-world-of-colour.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/23/exploring-a-world-of-colour/index.html
+layout: layout.njk
 ---
 Exploring a world of colour
 ===========================

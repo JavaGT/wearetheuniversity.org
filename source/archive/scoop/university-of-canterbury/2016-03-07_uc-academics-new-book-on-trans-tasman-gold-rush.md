@@ -1,9 +1,12 @@
 ---
 slug: uc-academics-new-book-on-trans-tasman-gold-rush
-title: "UC academic’s new book on trans-Tasman gold rush"
-date: 2016-03-07
-source-url: https://www.scoop.co.nz/stories/CU1603/S00151/uc-academics-new-book-on-trans-tasman-gold-rush.htm
+title: UC academic’s new book on trans-Tasman gold rush
+date: 2016-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1603/S00151/uc-academics-new-book-on-trans-tasman-gold-rush.htm
 author: university-of-canterbury
+permalink: /archive/2016/03/07/uc-academics-new-book-on-trans-tasman-gold-rush/index.html
+layout: layout.njk
 ---
 UC academic’s new book on trans-Tasman gold rush
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: sports-tv-and-new-zealanders
-title: "Sports, TV And New Zealanders"
-date: 2022-09-21
+title: Sports, TV And New Zealanders
+date: 2022-09-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU2209/S00162/sports-tv-and-new-zealanders.htm
 author: aut-university
+permalink: /archive/2022/09/21/sports-tv-and-new-zealanders/index.html
+layout: layout.njk
 ---
 Sports, TV And New Zealanders
 =============================

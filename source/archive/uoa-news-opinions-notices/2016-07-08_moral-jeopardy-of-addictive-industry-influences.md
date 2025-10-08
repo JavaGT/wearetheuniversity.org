@@ -1,8 +1,11 @@
 ---
 slug: moral-jeopardy-of-addictive-industry-influences
-title: "Moral jeopardy of addictive industry influences"
-date: 2016-07-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/moral-jeopardy-of-addictive-industry-influences.html
+title: Moral jeopardy of addictive industry influences
+date: 2016-07-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/moral-jeopardy-of-addictive-industry-influences.html
+permalink: /archive/2016/07/08/moral-jeopardy-of-addictive-industry-influences/index.html
+layout: layout.njk
 ---
 Moral jeopardy of addictive industry influences
 ===============================================

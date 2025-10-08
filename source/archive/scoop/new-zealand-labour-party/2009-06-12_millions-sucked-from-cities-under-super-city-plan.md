@@ -1,9 +1,13 @@
 ---
 slug: millions-sucked-from-cities-under-super-city-plan
-title: "Millions sucked from cities under Super City plan"
-date: 2009-06-12
-source-url: https://www.scoop.co.nz/stories/PA0906/S00161/millions-sucked-from-cities-under-super-city-plan.htm
+title: Millions sucked from cities under Super City plan
+date: 2009-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00161/millions-sucked-from-cities-under-super-city-plan.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/06/12/millions-sucked-from-cities-under-super-city-plan/index.html
+layout: layout.njk
 ---
 Millions sucked from cities under Super City plan
 =================================================

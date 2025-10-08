@@ -1,9 +1,12 @@
 ---
 slug: risks-to-worlds-penguin-populations-analysed
-title: "Risks to world’s penguin populations analysed"
-date: 2014-08-07
-source-url: https://www.scoop.co.nz/stories/SC1408/S00020/risks-to-worlds-penguin-populations-analysed.htm
+title: Risks to world’s penguin populations analysed
+date: 2014-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00020/risks-to-worlds-penguin-populations-analysed.htm
 author: university-of-otago
+permalink: /archive/2014/08/07/risks-to-worlds-penguin-populations-analysed/index.html
+layout: layout.njk
 ---
 Risks to world’s penguin populations analysed
 =============================================

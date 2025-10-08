@@ -1,9 +1,12 @@
 ---
 slug: aut-welcomes-review-of-childrens-oral-health
-title: "AUT Welcomes Review Of Children’s Oral Health"
-date: 2004-08-31
-source-url: https://www.scoop.co.nz/stories/ED0408/S00130/aut-welcomes-review-of-childrens-oral-health.htm
+title: AUT Welcomes Review Of Children’s Oral Health
+date: 2004-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00130/aut-welcomes-review-of-childrens-oral-health.htm
 author: aut-university
+permalink: /archive/2004/08/31/aut-welcomes-review-of-childrens-oral-health/index.html
+layout: layout.njk
 ---
 AUT Welcomes Review Of Children’s Oral Health
 =============================================

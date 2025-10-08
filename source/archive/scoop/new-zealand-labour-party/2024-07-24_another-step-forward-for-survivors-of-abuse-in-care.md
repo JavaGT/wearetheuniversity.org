@@ -1,9 +1,13 @@
 ---
 slug: another-step-forward-for-survivors-of-abuse-in-care
-title: "Another Step Forward For Survivors Of Abuse In Care"
-date: 2024-07-24
-source-url: https://www.scoop.co.nz/stories/PA2407/S00148/another-step-forward-for-survivors-of-abuse-in-care.htm
+title: Another Step Forward For Survivors Of Abuse In Care
+date: 2024-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00148/another-step-forward-for-survivors-of-abuse-in-care.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/07/24/another-step-forward-for-survivors-of-abuse-in-care/index.html
+layout: layout.njk
 ---
 Another Step Forward For Survivors Of Abuse In Care
 ===================================================

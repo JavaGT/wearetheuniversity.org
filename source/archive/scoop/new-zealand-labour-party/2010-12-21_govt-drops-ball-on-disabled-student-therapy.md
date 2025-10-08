@@ -1,9 +1,12 @@
 ---
 slug: govt-drops-ball-on-disabled-student-therapy
-title: "Govt drops ball on disabled student therapy"
-date: 2010-12-21
-source-url: https://www.scoop.co.nz/stories/PA1012/S00373/govt-drops-ball-on-disabled-student-therapy.htm
+title: Govt drops ball on disabled student therapy
+date: 2010-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00373/govt-drops-ball-on-disabled-student-therapy.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/21/govt-drops-ball-on-disabled-student-therapy/index.html
+layout: layout.njk
 ---
 Govt drops ball on disabled student therapy
 ===========================================

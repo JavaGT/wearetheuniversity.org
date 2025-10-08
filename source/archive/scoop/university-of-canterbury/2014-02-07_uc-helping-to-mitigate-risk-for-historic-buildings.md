@@ -1,9 +1,13 @@
 ---
 slug: uc-helping-to-mitigate-risk-for-historic-buildings
-title: "UC helping to mitigate risk for historic buildings"
-date: 2014-02-07
-source-url: https://www.scoop.co.nz/stories/CU1402/S00120/uc-helping-to-mitigate-risk-for-historic-buildings.htm
+title: UC helping to mitigate risk for historic buildings
+date: 2014-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1402/S00120/uc-helping-to-mitigate-risk-for-historic-buildings.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/07/uc-helping-to-mitigate-risk-for-historic-buildings/index.html
+layout: layout.njk
 ---
 UC helping to mitigate risk for historic buildings
 ==================================================

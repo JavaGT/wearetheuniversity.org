@@ -1,9 +1,13 @@
 ---
 slug: ignition-resistance-threshold-of-chch-cardboard-cathedral
-title: "Ignition resistance threshold of Chch cardboard cathedral"
-date: 2012-09-25
-source-url: https://www.scoop.co.nz/stories/ED1209/S00189/ignition-resistance-threshold-of-chch-cardboard-cathedral.htm
+title: Ignition resistance threshold of Chch cardboard cathedral
+date: 2012-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00189/ignition-resistance-threshold-of-chch-cardboard-cathedral.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/25/ignition-resistance-threshold-of-chch-cardboard-cathedral/index.html
+layout: layout.njk
 ---
 Ignition resistance threshold of Chch cardboard cathedral
 =========================================================

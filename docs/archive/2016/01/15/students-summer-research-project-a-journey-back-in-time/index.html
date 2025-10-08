@@ -1,4 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Student’s summer research project a journey back in time – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>Student’s summer research project a journey back in time</h2><h3><span></span></h3><p>Fri Jan 15 2016 13:00:00 GMT+1300 (New Zealand Daylight Time)</p><p><h1>Student’s summer research project a journey back in time</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student’s summer research project a journey back in time</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Student’s summer research project a journey back in time</h1>
 <p>15 January 2016</p>
 <p><img src="https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/student_s-summer-research-project-a-journey-back-in-time/_jcr_content/par/textimage/image.img.jpg/1453433945258.jpg" alt="Rachel Woods" title="Rachel Woods"></p>
 <p>Rachel Woods</p>
@@ -15,4 +39,25 @@
 <p><strong>Contact</strong></p>
 <p>Anna Kellett, Media Relations Adviser</p>
 <p>Email: <a href="mailto:anna.kellett@auckland.ac.nz">anna.kellett@auckland.ac.nz</a></p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

@@ -1,9 +1,13 @@
 ---
 slug: uc-designs-worlds-first-heritage-gold-mining-site-app
-title: "UC designs world’s first heritage gold mining site app"
-date: 2013-07-30
-source-url: https://www.scoop.co.nz/stories/CU1307/S00497/uc-designs-worlds-first-heritage-gold-mining-site-app.htm
+title: UC designs world’s first heritage gold mining site app
+date: 2013-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00497/uc-designs-worlds-first-heritage-gold-mining-site-app.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/30/uc-designs-worlds-first-heritage-gold-mining-site-app/index.html
+layout: layout.njk
 ---
 UC designs world’s first heritage gold mining site app
 ======================================================

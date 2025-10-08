@@ -1,9 +1,12 @@
 ---
 slug: eckhoff-to-lay-complaint-against-gm-protesters
-title: "Eckhoff to Lay Complaint Against GM Protesters"
-date: 2001-11-05
-source-url: https://www.scoop.co.nz/stories/PA0111/S00085/eckhoff-to-lay-complaint-against-gm-protesters.htm
+title: Eckhoff to Lay Complaint Against GM Protesters
+date: 2001-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00085/eckhoff-to-lay-complaint-against-gm-protesters.htm
 author: act-new-zealand
+permalink: /archive/2001/11/05/eckhoff-to-lay-complaint-against-gm-protesters/index.html
+layout: layout.njk
 ---
 Eckhoff to Lay Complaint Against GM Protesters
 ==============================================

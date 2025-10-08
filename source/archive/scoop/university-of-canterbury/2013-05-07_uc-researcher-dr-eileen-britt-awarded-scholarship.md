@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-dr-eileen-britt-awarded-scholarship
-title: "UC Researcher Dr Eileen Britt Awarded Scholarship"
-date: 2013-05-07
-source-url: https://www.scoop.co.nz/stories/SC1305/S00036/uc-researcher-dr-eileen-britt-awarded-scholarship.htm
+title: UC Researcher Dr Eileen Britt Awarded Scholarship
+date: 2013-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00036/uc-researcher-dr-eileen-britt-awarded-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/07/uc-researcher-dr-eileen-britt-awarded-scholarship/index.html
+layout: layout.njk
 ---
 UC Researcher Dr Eileen Britt Awarded Scholarship
 =================================================

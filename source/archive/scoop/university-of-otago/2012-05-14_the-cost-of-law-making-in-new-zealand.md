@@ -1,9 +1,12 @@
 ---
 slug: the-cost-of-law-making-in-new-zealand
-title: "The cost of law-making  in New Zealand"
-date: 2012-05-14
-source-url: https://www.scoop.co.nz/stories/PO1205/S00204/the-cost-of-law-making-in-new-zealand.htm
+title: The cost of law-making  in New Zealand
+date: 2012-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00204/the-cost-of-law-making-in-new-zealand.htm
 author: university-of-otago
+permalink: /archive/2012/05/14/the-cost-of-law-making-in-new-zealand/index.html
+layout: layout.njk
 ---
 The cost of law-making in New Zealand
 =====================================

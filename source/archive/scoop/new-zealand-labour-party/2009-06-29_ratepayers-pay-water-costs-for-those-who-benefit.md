@@ -1,9 +1,13 @@
 ---
 slug: ratepayers-pay-water-costs-for-those-who-benefit
-title: "Ratepayers pay water costs for those who benefit"
-date: 2009-06-29
-source-url: https://www.scoop.co.nz/stories/PA0906/S00397/ratepayers-pay-water-costs-for-those-who-benefit.htm
+title: Ratepayers pay water costs for those who benefit
+date: 2009-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00397/ratepayers-pay-water-costs-for-those-who-benefit.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/06/29/ratepayers-pay-water-costs-for-those-who-benefit/index.html
+layout: layout.njk
 ---
 Ratepayers pay water costs for those who benefit
 ================================================

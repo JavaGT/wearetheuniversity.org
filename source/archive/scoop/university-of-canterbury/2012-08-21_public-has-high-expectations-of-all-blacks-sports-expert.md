@@ -1,9 +1,13 @@
 ---
 slug: public-has-high-expectations-of-all-blacks-sports-expert
-title: "Public has high expectations of All Blacks - sports expert"
-date: 2012-08-21
-source-url: https://www.scoop.co.nz/stories/CU1208/S00340/public-has-high-expectations-of-all-blacks-sports-expert.htm
+title: Public has high expectations of All Blacks - sports expert
+date: 2012-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1208/S00340/public-has-high-expectations-of-all-blacks-sports-expert.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/21/public-has-high-expectations-of-all-blacks-sports-expert/index.html
+layout: layout.njk
 ---
 Public has high expectations of All Blacks - sports expert
 ==========================================================

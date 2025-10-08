@@ -1,9 +1,12 @@
 ---
 slug: what-is-causing-the-depression
-title: "What Is Causing The Depression?"
-date: 2004-07-29
-source-url: https://www.scoop.co.nz/stories/PA0407/S00510/what-is-causing-the-depression.htm
+title: What Is Causing The Depression?
+date: 2004-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00510/what-is-causing-the-depression.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/29/what-is-causing-the-depression/index.html
+layout: layout.njk
 ---
 What Is Causing The Depression?
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: govts-job-creation-plan-now-located-in-australia
-title: "Govt’s job creation plan now located in Australia"
-date: 2012-10-08
-source-url: https://www.scoop.co.nz/stories/PA1210/S00127/govts-job-creation-plan-now-located-in-australia.htm
+title: Govt’s job creation plan now located in Australia
+date: 2012-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00127/govts-job-creation-plan-now-located-in-australia.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/08/govts-job-creation-plan-now-located-in-australia/index.html
+layout: layout.njk
 ---
 Govt’s job creation plan now located in Australia
 =================================================

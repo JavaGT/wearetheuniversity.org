@@ -1,9 +1,12 @@
 ---
 slug: youth-job-initiatives-ok-but-too-timid
-title: "Youth job initiatives ok, but too timid"
-date: 2009-08-03
-source-url: https://www.scoop.co.nz/stories/PA0908/S00004/youth-job-initiatives-ok-but-too-timid.htm
+title: Youth job initiatives ok, but too timid
+date: 2009-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00004/youth-job-initiatives-ok-but-too-timid.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/03/youth-job-initiatives-ok-but-too-timid/index.html
+layout: layout.njk
 ---
 Youth job initiatives ok, but too timid
 =======================================

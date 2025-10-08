@@ -1,9 +1,12 @@
 ---
 slug: professor-in-climate-change-appointed
-title: "Professor in Climate Change appointed"
-date: 2007-12-03
-source-url: https://www.scoop.co.nz/stories/ED0712/S00006/professor-in-climate-change-appointed.htm
+title: Professor in Climate Change appointed
+date: 2007-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00006/professor-in-climate-change-appointed.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/12/03/professor-in-climate-change-appointed/index.html
+layout: layout.njk
 ---
 Professor in Climate Change appointed
 =====================================

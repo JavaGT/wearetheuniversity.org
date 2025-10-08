@@ -1,9 +1,12 @@
 ---
 slug: youth-vice-president-joins-student-protest
-title: "Youth Vice President joins student protest"
-date: 2002-07-19
-source-url: https://www.scoop.co.nz/stories/ED0207/S00047/youth-vice-president-joins-student-protest.htm
+title: Youth Vice President joins student protest
+date: 2002-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00047/youth-vice-president-joins-student-protest.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/19/youth-vice-president-joins-student-protest/index.html
+layout: layout.njk
 ---
 Youth Vice President joins student protest
 ==========================================

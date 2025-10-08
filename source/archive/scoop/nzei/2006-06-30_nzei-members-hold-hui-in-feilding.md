@@ -1,9 +1,12 @@
 ---
 slug: nzei-members-hold-hui-in-feilding
-title: "NZEI Members Hold Hui in Feilding"
-date: 2006-06-30
-source-url: https://www.scoop.co.nz/stories/ED0606/S00090/nzei-members-hold-hui-in-feilding.htm
+title: NZEI Members Hold Hui in Feilding
+date: 2006-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00090/nzei-members-hold-hui-in-feilding.htm
 author: nzei
+permalink: /archive/2006/06/30/nzei-members-hold-hui-in-feilding/index.html
+layout: layout.njk
 ---
 NZEI Members Hold Hui in Feilding
 =================================

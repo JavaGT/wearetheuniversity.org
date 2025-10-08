@@ -1,9 +1,13 @@
 ---
 slug: massey-decision-a-case-of-the-tail-wagging-the-dog
-title: "Massey Decision – a Case of the Tail Wagging the Dog"
-date: 2012-05-13
-source-url: https://www.scoop.co.nz/stories/ED1205/S00051/massey-decision-a-case-of-the-tail-wagging-the-dog.htm
+title: Massey Decision – a Case of the Tail Wagging the Dog
+date: 2012-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00051/massey-decision-a-case-of-the-tail-wagging-the-dog.htm
 author: nzei
+permalink: >-
+  /archive/2012/05/13/massey-decision-a-case-of-the-tail-wagging-the-dog/index.html
+layout: layout.njk
 ---
 Massey Decision – a Case of the Tail Wagging the Dog
 ====================================================

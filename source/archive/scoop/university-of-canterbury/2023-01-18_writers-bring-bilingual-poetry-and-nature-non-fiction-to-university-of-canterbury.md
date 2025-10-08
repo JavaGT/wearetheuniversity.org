@@ -1,9 +1,16 @@
 ---
-slug: writers-bring-bilingual-poetry-and-nature-non-fiction-to-university-of-canterbury
-title: "Writers Bring Bilingual Poetry And Nature Non-fiction To University Of Canterbury"
-date: 2023-01-18
-source-url: https://www.scoop.co.nz/stories/ED2301/S00003/writers-bring-bilingual-poetry-and-nature-non-fiction-to-university-of-canterbury.htm
+slug: >-
+  writers-bring-bilingual-poetry-and-nature-non-fiction-to-university-of-canterbury
+title: >-
+  Writers Bring Bilingual Poetry And Nature Non-fiction To University Of
+  Canterbury
+date: 2023-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2301/S00003/writers-bring-bilingual-poetry-and-nature-non-fiction-to-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/01/18/writers-bring-bilingual-poetry-and-nature-non-fiction-to-university-of-canterbury/index.html
+layout: layout.njk
 ---
 Writers Bring Bilingual Poetry And Nature Non-fiction To University Of Canterbury
 =================================================================================

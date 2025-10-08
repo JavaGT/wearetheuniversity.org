@@ -1,9 +1,12 @@
 ---
 slug: ge-labs-failures-equals-thousands-of-ge-plants
-title: "GE lab's failures equals thousands of GE plants"
-date: 2004-05-12
-source-url: https://www.scoop.co.nz/stories/PA0405/S00208/ge-labs-failures-equals-thousands-of-ge-plants.htm
+title: GE lab's failures equals thousands of GE plants
+date: 2004-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00208/ge-labs-failures-equals-thousands-of-ge-plants.htm
 author: green-party
+permalink: /archive/2004/05/12/ge-labs-failures-equals-thousands-of-ge-plants/index.html
+layout: layout.njk
 ---
 GE lab's failures equals thousands of GE plants
 ===============================================

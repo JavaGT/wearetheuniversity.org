@@ -1,9 +1,12 @@
 ---
 slug: vital-support-services-cant-be-left-in-lurch
-title: "Vital support services can’t be left in lurch"
-date: 2015-05-18
-source-url: https://www.scoop.co.nz/stories/PA1505/S00269/vital-support-services-cant-be-left-in-lurch.htm
+title: Vital support services can’t be left in lurch
+date: 2015-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00269/vital-support-services-cant-be-left-in-lurch.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/18/vital-support-services-cant-be-left-in-lurch/index.html
+layout: layout.njk
 ---
 Vital support services can’t be left in lurch
 =============================================

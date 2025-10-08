@@ -1,9 +1,13 @@
 ---
 slug: full-time-workers-earnings-rise-by-only-1-percent
-title: "Full-time workers’ earnings rise by only 1 percent"
-date: 2013-10-04
-source-url: https://www.scoop.co.nz/stories/AK1310/S00195/full-time-workers-earnings-rise-by-only-1-percent.htm
+title: Full-time workers’ earnings rise by only 1 percent
+date: 2013-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00195/full-time-workers-earnings-rise-by-only-1-percent.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/10/04/full-time-workers-earnings-rise-by-only-1-percent/index.html
+layout: layout.njk
 ---
 Full-time workers’ earnings rise by only 1 percent
 ==================================================

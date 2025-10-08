@@ -1,9 +1,13 @@
 ---
 slug: writers-contenders-for-literatures-richest-prize
-title: "Writers Contenders for Literature's Richest Prize"
-date: 2003-08-05
-source-url: https://www.scoop.co.nz/stories/ED0308/S00018/writers-contenders-for-literatures-richest-prize.htm
+title: Writers Contenders for Literature's Richest Prize
+date: 2003-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00018/writers-contenders-for-literatures-richest-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/08/05/writers-contenders-for-literatures-richest-prize/index.html
+layout: layout.njk
 ---
 Writers Contenders for Literature's Richest Prize
 =================================================

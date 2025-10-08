@@ -1,9 +1,12 @@
 ---
 slug: out-of-touch-key-says-crisis-what-crisis
-title: "Out of touch Key says: ‘Crisis? What crisis?’"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/PA1210/S00141/out-of-touch-key-says-crisis-what-crisis.htm
+title: 'Out of touch Key says: ‘Crisis? What crisis?’'
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00141/out-of-touch-key-says-crisis-what-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/09/out-of-touch-key-says-crisis-what-crisis/index.html
+layout: layout.njk
 ---
 Out of touch Key says: ‘Crisis? What crisis?’
 =============================================

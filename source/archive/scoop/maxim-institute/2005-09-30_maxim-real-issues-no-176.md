@@ -1,9 +1,11 @@
 ---
 slug: maxim-real-issues-no-176
-title: "Maxim Real Issues No. 176"
-date: 2005-09-30
+title: Maxim Real Issues No. 176
+date: 2005-09-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0509/S00297/maxim-real-issues-no-176.htm
 author: maxim-institute
+permalink: /archive/2005/09/30/maxim-real-issues-no-176/index.html
+layout: layout.njk
 ---
 Maxim Real Issues No. 176
 =========================

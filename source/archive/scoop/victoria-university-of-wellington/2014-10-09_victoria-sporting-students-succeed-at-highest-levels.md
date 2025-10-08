@@ -1,9 +1,13 @@
 ---
 slug: victoria-sporting-students-succeed-at-highest-levels
-title: "Victoria sporting students succeed at highest levels"
-date: 2014-10-09
-source-url: https://www.scoop.co.nz/stories/CU1410/S00215/victoria-sporting-students-succeed-at-highest-levels.htm
+title: Victoria sporting students succeed at highest levels
+date: 2014-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00215/victoria-sporting-students-succeed-at-highest-levels.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/10/09/victoria-sporting-students-succeed-at-highest-levels/index.html
+layout: layout.njk
 ---
 Victoria sporting students succeed at highest levels
 ====================================================

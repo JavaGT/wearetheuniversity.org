@@ -1,9 +1,12 @@
 ---
 slug: act-solutions-needed-urgently—brash
-title: "ACT Solutions Needed Urgently—Brash"
-date: 2011-09-02
-source-url: https://www.scoop.co.nz/stories/PA1109/S00046/act-solutions-needed-urgently-brash.htm
+title: ACT Solutions Needed Urgently—Brash
+date: 2011-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00046/act-solutions-needed-urgently-brash.htm
 author: act-new-zealand
+permalink: /archive/2011/09/02/act-solutions-needed-urgently/index.html
+layout: layout.njk
 ---
 ACT Solutions Needed Urgently—Brash
 ===================================

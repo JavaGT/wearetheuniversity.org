@@ -1,8 +1,12 @@
 ---
 slug: studies-confirm-long-term-safety-of-life-saving-treatment-for-premature-babies
-title: "Studies confirm long-term safety of life-saving treatment for premature babies"
-date: 2017-04-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/studies-confirm-life-saving-corticosteroids-treatment-premature-babies.html
+title: Studies confirm long-term safety of life-saving treatment for premature babies
+date: 2017-04-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/studies-confirm-life-saving-corticosteroids-treatment-premature-babies.html
+permalink: >-
+  /archive/2017/04/07/studies-confirm-long-term-safety-of-life-saving-treatment-for-premature-babies/index.html
+layout: layout.njk
 ---
 Studies confirm long-term safety of life-saving treatment for premature babies
 ==============================================================================

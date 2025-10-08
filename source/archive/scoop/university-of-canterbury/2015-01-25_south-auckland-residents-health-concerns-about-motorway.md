@@ -1,9 +1,13 @@
 ---
 slug: south-auckland-residents-health-concerns-about-motorway
-title: "South Auckland residents' health concerns about motorway"
-date: 2015-01-25
-source-url: https://www.scoop.co.nz/stories/GE1501/S00077/south-auckland-residents-health-concerns-about-motorway.htm
+title: South Auckland residents' health concerns about motorway
+date: 2015-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1501/S00077/south-auckland-residents-health-concerns-about-motorway.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/25/south-auckland-residents-health-concerns-about-motorway/index.html
+layout: layout.njk
 ---
 South Auckland residents' health concerns about motorway
 ========================================================

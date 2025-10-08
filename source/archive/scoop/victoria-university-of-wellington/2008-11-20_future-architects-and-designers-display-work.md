@@ -1,9 +1,12 @@
 ---
 slug: future-architects-and-designers-display-work
-title: "Future architects and designers display work"
-date: 2008-11-20
-source-url: https://www.scoop.co.nz/stories/AK0811/S00188/future-architects-and-designers-display-work.htm
+title: Future architects and designers display work
+date: 2008-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0811/S00188/future-architects-and-designers-display-work.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/11/20/future-architects-and-designers-display-work/index.html
+layout: layout.njk
 ---
 Future architects and designers display work
 ============================================

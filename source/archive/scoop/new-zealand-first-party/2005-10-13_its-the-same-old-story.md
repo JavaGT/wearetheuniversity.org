@@ -1,9 +1,11 @@
 ---
 slug: its-the-same-old-story
-title: "It's The Same Old Story"
-date: 2005-10-13
+title: It's The Same Old Story
+date: 2005-10-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0510/S00065/its-the-same-old-story.htm
 author: new-zealand-first-party
+permalink: /archive/2005/10/13/its-the-same-old-story/index.html
+layout: layout.njk
 ---
 It's The Same Old Story
 =======================

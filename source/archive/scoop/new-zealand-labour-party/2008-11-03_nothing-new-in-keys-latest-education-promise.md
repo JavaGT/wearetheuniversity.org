@@ -1,9 +1,12 @@
 ---
 slug: nothing-new-in-keys-latest-education-promise
-title: "Nothing new in Key’s latest education promise"
-date: 2008-11-03
-source-url: https://www.scoop.co.nz/stories/PA0811/S00026/nothing-new-in-keys-latest-education-promise.htm
+title: Nothing new in Key’s latest education promise
+date: 2008-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00026/nothing-new-in-keys-latest-education-promise.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/11/03/nothing-new-in-keys-latest-education-promise/index.html
+layout: layout.njk
 ---
 Nothing new in Key’s latest education promise
 =============================================

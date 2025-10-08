@@ -1,9 +1,12 @@
 ---
 slug: tax-revenue-from-under-age-tobacco-sales
-title: "Tax revenue from under-age tobacco sales"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/GE0504/S00050/tax-revenue-from-under-age-tobacco-sales.htm
+title: Tax revenue from under-age tobacco sales
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0504/S00050/tax-revenue-from-under-age-tobacco-sales.htm
 author: university-of-otago
+permalink: /archive/2005/04/15/tax-revenue-from-under-age-tobacco-sales/index.html
+layout: layout.njk
 ---
 Tax revenue from under-age tobacco sales
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: thousands-of-illegal-firearms-still-in-circulation
-title: "Thousands Of Illegal Firearms Still In Circulation"
-date: 2020-05-27
-source-url: https://www.scoop.co.nz/stories/PA2005/S00217/thousands-of-illegal-firearms-still-in-circulation.htm
+title: Thousands Of Illegal Firearms Still In Circulation
+date: 2020-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00217/thousands-of-illegal-firearms-still-in-circulation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/05/27/thousands-of-illegal-firearms-still-in-circulation/index.html
+layout: layout.njk
 ---
 Thousands Of Illegal Firearms Still In Circulation
 ==================================================

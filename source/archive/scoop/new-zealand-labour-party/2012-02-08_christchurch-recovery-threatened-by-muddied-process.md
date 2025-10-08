@@ -1,9 +1,13 @@
 ---
 slug: christchurch-recovery-threatened-by-muddied-process
-title: "Christchurch recovery threatened by muddied process"
-date: 2012-02-08
-source-url: https://www.scoop.co.nz/stories/PA1202/S00078/christchurch-recovery-threatened-by-muddied-process.htm
+title: Christchurch recovery threatened by muddied process
+date: 2012-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00078/christchurch-recovery-threatened-by-muddied-process.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/02/08/christchurch-recovery-threatened-by-muddied-process/index.html
+layout: layout.njk
 ---
 Christchurch recovery threatened by muddied process
 ===================================================

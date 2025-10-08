@@ -1,8 +1,12 @@
 ---
 slug: experts-call-for-action-to-fill-gaps-on-healthy-food-policies
-title: "Experts call for action to fill gaps on healthy food policies"
-date: 2017-07-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/experts-call-for-action-to-fill-gaps-on-healthy-food-policies.html
+title: Experts call for action to fill gaps on healthy food policies
+date: 2017-07-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/experts-call-for-action-to-fill-gaps-on-healthy-food-policies.html
+permalink: >-
+  /archive/2017/07/24/experts-call-for-action-to-fill-gaps-on-healthy-food-policies/index.html
+layout: layout.njk
 ---
 Experts call for action to fill gaps on healthy food policies
 =============================================================

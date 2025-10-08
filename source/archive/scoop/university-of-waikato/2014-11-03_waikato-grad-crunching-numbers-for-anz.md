@@ -1,9 +1,12 @@
 ---
 slug: waikato-grad-crunching-numbers-for-anz
-title: "Waikato grad crunching numbers for ANZ"
-date: 2014-11-03
-source-url: https://www.scoop.co.nz/stories/ED1411/S00005/waikato-grad-crunching-numbers-for-anz.htm
+title: Waikato grad crunching numbers for ANZ
+date: 2014-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00005/waikato-grad-crunching-numbers-for-anz.htm
 author: university-of-waikato
+permalink: /archive/2014/11/03/waikato-grad-crunching-numbers-for-anz/index.html
+layout: layout.njk
 ---
 Waikato grad crunching numbers for ANZ
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: nats-hands-off-housing-approach-failing-kiwis
-title: "Nat’s hands-off housing approach failing Kiwis"
-date: 2012-11-27
-source-url: https://www.scoop.co.nz/stories/PA1211/S00455/nats-hands-off-housing-approach-failing-kiwis.htm
+title: Nat’s hands-off housing approach failing Kiwis
+date: 2012-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00455/nats-hands-off-housing-approach-failing-kiwis.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/27/nats-hands-off-housing-approach-failing-kiwis/index.html
+layout: layout.njk
 ---
 Nat’s hands-off housing approach failing Kiwis
 ==============================================

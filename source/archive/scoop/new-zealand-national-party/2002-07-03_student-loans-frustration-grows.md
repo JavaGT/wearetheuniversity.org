@@ -1,9 +1,12 @@
 ---
 slug: student-loans-frustration-grows
-title: "Student loans frustration grows"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PA0207/S00105/student-loans-frustration-grows.htm
+title: Student loans frustration grows
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00105/student-loans-frustration-grows.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/03/student-loans-frustration-grows/index.html
+layout: layout.njk
 ---
 Student loans frustration grows
 ===============================

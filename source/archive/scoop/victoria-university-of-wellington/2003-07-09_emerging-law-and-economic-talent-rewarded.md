@@ -1,9 +1,12 @@
 ---
 slug: emerging-law-and-economic-talent-rewarded
-title: "Emerging law and economic talent rewarded"
-date: 2003-07-09
-source-url: https://www.scoop.co.nz/stories/ED0307/S00023/emerging-law-and-economic-talent-rewarded.htm
+title: Emerging law and economic talent rewarded
+date: 2003-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00023/emerging-law-and-economic-talent-rewarded.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/09/emerging-law-and-economic-talent-rewarded/index.html
+layout: layout.njk
 ---
 Emerging law and economic talent rewarded
 =========================================

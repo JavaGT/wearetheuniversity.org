@@ -1,9 +1,12 @@
 ---
 slug: serious-science-robot-baxter-helping-research
-title: "Serious science robot Baxter helping research"
-date: 2015-02-02
-source-url: https://www.scoop.co.nz/stories/SC1502/S00002/serious-science-robot-baxter-helping-research.htm
+title: Serious science robot Baxter helping research
+date: 2015-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1502/S00002/serious-science-robot-baxter-helping-research.htm
 author: university-of-canterbury
+permalink: /archive/2015/02/02/serious-science-robot-baxter-helping-research/index.html
+layout: layout.njk
 ---
 Serious science robot Baxter helping research
 =============================================

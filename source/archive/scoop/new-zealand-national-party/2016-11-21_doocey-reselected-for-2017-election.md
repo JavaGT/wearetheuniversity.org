@@ -1,9 +1,12 @@
 ---
 slug: doocey-reselected-for-2017-election
-title: "Doocey reselected for 2017 Election"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/PO1611/S00280/doocey-reselected-for-2017-election.htm
+title: Doocey reselected for 2017 Election
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1611/S00280/doocey-reselected-for-2017-election.htm
 author: new-zealand-national-party
+permalink: /archive/2016/11/21/doocey-reselected-for-2017-election/index.html
+layout: layout.njk
 ---
 Doocey reselected for 2017 Election
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: cuts-to-apprenticeship-boost-will-fail-future-nz
-title: "Cuts To Apprenticeship Boost Will Fail Future NZ"
-date: 2024-10-16
-source-url: https://www.scoop.co.nz/stories/PA2410/S00117/cuts-to-apprenticeship-boost-will-fail-future-nz.htm
+title: Cuts To Apprenticeship Boost Will Fail Future NZ
+date: 2024-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00117/cuts-to-apprenticeship-boost-will-fail-future-nz.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/10/16/cuts-to-apprenticeship-boost-will-fail-future-nz/index.html
+layout: layout.njk
 ---
 Cuts To Apprenticeship Boost Will Fail Future NZ
 ================================================

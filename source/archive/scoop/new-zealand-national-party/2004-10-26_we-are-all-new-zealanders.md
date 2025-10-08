@@ -1,9 +1,11 @@
 ---
 slug: we-are-all-new-zealanders
-title: "We are all New Zealanders"
-date: 2004-10-26
+title: We are all New Zealanders
+date: 2004-10-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0410/S00415/we-are-all-new-zealanders.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/26/we-are-all-new-zealanders/index.html
+layout: layout.njk
 ---
 We are all New Zealanders
 =========================

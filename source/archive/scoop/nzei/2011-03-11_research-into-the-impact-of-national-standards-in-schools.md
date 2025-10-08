@@ -1,9 +1,13 @@
 ---
 slug: research-into-the-impact-of-national-standards-in-schools
-title: "Research into the Impact of National Standards in Schools"
-date: 2011-03-11
-source-url: https://www.scoop.co.nz/stories/ED1103/S00054/research-into-the-impact-of-national-standards-in-schools.htm
+title: Research into the Impact of National Standards in Schools
+date: 2011-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00054/research-into-the-impact-of-national-standards-in-schools.htm
 author: nzei
+permalink: >-
+  /archive/2011/03/11/research-into-the-impact-of-national-standards-in-schools/index.html
+layout: layout.njk
 ---
 Research into the Impact of National Standards in Schools
 =========================================================

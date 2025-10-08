@@ -1,9 +1,16 @@
 ---
-slug: student-volunteer-army-reactivates-grocery-service-to-support-local-communities
-title: "Student Volunteer Army Reactivates Grocery Service To Support Local Communities"
-date: 2022-02-15
-source-url: https://www.scoop.co.nz/stories/AK2202/S00302/student-volunteer-army-reactivates-grocery-service-to-support-local-communities.htm
+slug: >-
+  student-volunteer-army-reactivates-grocery-service-to-support-local-communities
+title: >-
+  Student Volunteer Army Reactivates Grocery Service To Support Local
+  Communities
+date: 2022-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2202/S00302/student-volunteer-army-reactivates-grocery-service-to-support-local-communities.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2022/02/15/student-volunteer-army-reactivates-grocery-service-to-support-local-communities/index.html
+layout: layout.njk
 ---
 Student Volunteer Army Reactivates Grocery Service To Support Local Communities
 ===============================================================================

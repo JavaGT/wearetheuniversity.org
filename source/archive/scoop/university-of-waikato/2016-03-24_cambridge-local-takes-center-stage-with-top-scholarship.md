@@ -1,9 +1,13 @@
 ---
 slug: cambridge-local-takes-center-stage-with-top-scholarship
-title: "Cambridge local takes center stage with top scholarship"
-date: 2016-03-24
-source-url: https://www.scoop.co.nz/stories/ED1603/S00090/cambridge-local-takes-center-stage-with-top-scholarship.htm
+title: Cambridge local takes center stage with top scholarship
+date: 2016-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00090/cambridge-local-takes-center-stage-with-top-scholarship.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/03/24/cambridge-local-takes-center-stage-with-top-scholarship/index.html
+layout: layout.njk
 ---
 Cambridge local takes center stage with top scholarship
 =======================================================

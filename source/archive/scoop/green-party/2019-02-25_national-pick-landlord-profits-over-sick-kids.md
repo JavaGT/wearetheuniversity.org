@@ -1,9 +1,12 @@
 ---
 slug: national-pick-landlord-profits-over-sick-kids
-title: "National Pick Landlord Profits Over Sick Kids"
-date: 2019-02-25
-source-url: https://www.scoop.co.nz/stories/PA1902/S00205/national-pick-landlord-profits-over-sick-kids.htm
+title: National Pick Landlord Profits Over Sick Kids
+date: 2019-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00205/national-pick-landlord-profits-over-sick-kids.htm
 author: green-party
+permalink: /archive/2019/02/25/national-pick-landlord-profits-over-sick-kids/index.html
+layout: layout.njk
 ---
 National Pick Landlord Profits Over Sick Kids
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: smokefree-2025-researchers-welcome-plain-packaging
-title: "Smokefree 2025 researchers welcome plain packaging"
-date: 2016-09-09
-source-url: https://www.scoop.co.nz/stories/GE1609/S00040/smokefree-2025-researchers-welcome-plain-packaging.htm
+title: Smokefree 2025 researchers welcome plain packaging
+date: 2016-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1609/S00040/smokefree-2025-researchers-welcome-plain-packaging.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/09/09/smokefree-2025-researchers-welcome-plain-packaging/index.html
+layout: layout.njk
 ---
 Smokefree 2025 researchers welcome plain packaging
 ==================================================

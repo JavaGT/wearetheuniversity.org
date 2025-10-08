@@ -1,9 +1,13 @@
 ---
 slug: huo-welcomes-the-first-ever-world-statistics-day
-title: "Huo welcomes the first ever World Statistics Day"
-date: 2010-10-19
-source-url: https://www.scoop.co.nz/stories/PA1010/S00314/huo-welcomes-the-first-ever-world-statistics-day.htm
+title: Huo welcomes the first ever World Statistics Day
+date: 2010-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00314/huo-welcomes-the-first-ever-world-statistics-day.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/10/19/huo-welcomes-the-first-ever-world-statistics-day/index.html
+layout: layout.njk
 ---
 Huo welcomes the first ever World Statistics Day
 ================================================

@@ -1,8 +1,12 @@
 ---
 slug: centenary-debate-put-focus-on-architecture-and-planning
-title: "Centenary, debate put focus on Architecture and Planning"
-date: 2017-09-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/centenary--debate-put-focus-on-architecture-and-planning-.html
+title: Centenary, debate put focus on Architecture and Planning
+date: 2017-09-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/centenary--debate-put-focus-on-architecture-and-planning-.html
+permalink: >-
+  /archive/2017/09/01/centenary-debate-put-focus-on-architecture-and-planning/index.html
+layout: layout.njk
 ---
 Centenary, debate put focus on Architecture and Planning
 ========================================================

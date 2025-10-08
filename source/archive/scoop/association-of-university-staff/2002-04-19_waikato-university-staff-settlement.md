@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-staff-settlement
-title: "Waikato University staff settlement"
-date: 2002-04-19
-source-url: https://www.scoop.co.nz/stories/ED0204/S00031/waikato-university-staff-settlement.htm
+title: Waikato University staff settlement
+date: 2002-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00031/waikato-university-staff-settlement.htm
 author: association-of-university-staff
+permalink: /archive/2002/04/19/waikato-university-staff-settlement/index.html
+layout: layout.njk
 ---
 Waikato University staff settlement
 ===================================

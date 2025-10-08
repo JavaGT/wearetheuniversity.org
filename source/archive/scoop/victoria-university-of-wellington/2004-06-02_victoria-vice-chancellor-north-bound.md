@@ -1,9 +1,12 @@
 ---
 slug: victoria-vice-chancellor-north-bound
-title: "Victoria Vice-Chancellor North-Bound"
-date: 2004-06-02
-source-url: https://www.scoop.co.nz/stories/ED0406/S00008/victoria-vice-chancellor-north-bound.htm
+title: Victoria Vice-Chancellor North-Bound
+date: 2004-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00008/victoria-vice-chancellor-north-bound.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/06/02/victoria-vice-chancellor-north-bound/index.html
+layout: layout.njk
 ---
 Victoria Vice-Chancellor North-Bound
 ====================================

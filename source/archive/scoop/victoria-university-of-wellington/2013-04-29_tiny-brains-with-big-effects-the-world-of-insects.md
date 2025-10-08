@@ -1,9 +1,13 @@
 ---
 slug: tiny-brains-with-big-effects-the-world-of-insects
-title: "Tiny brains with big effects: the world of insects"
-date: 2013-04-29
-source-url: https://www.scoop.co.nz/stories/SC1304/S00047/tiny-brains-with-big-effects-the-world-of-insects.htm
+title: 'Tiny brains with big effects: the world of insects'
+date: 2013-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00047/tiny-brains-with-big-effects-the-world-of-insects.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/04/29/tiny-brains-with-big-effects-the-world-of-insects/index.html
+layout: layout.njk
 ---
 Tiny brains with big effects: the world of insects
 ==================================================

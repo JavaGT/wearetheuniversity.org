@@ -1,9 +1,12 @@
 ---
 slug: only-one-new-gastro-case-reported
-title: "Only one new gastro case reported"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/ED0811/S00006/only-one-new-gastro-case-reported.htm
+title: Only one new gastro case reported
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00006/only-one-new-gastro-case-reported.htm
 author: massey-university
+permalink: /archive/2008/11/04/only-one-new-gastro-case-reported/index.html
+layout: layout.njk
 ---
 Only one new gastro case reported
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: planned-defence-job-cuts-already-hurting
-title: "Planned Defence job cuts already hurting"
-date: 2011-06-23
-source-url: https://www.scoop.co.nz/stories/PA1106/S00419/planned-defence-job-cuts-already-hurting.htm
+title: Planned Defence job cuts already hurting
+date: 2011-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00419/planned-defence-job-cuts-already-hurting.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/23/planned-defence-job-cuts-already-hurting/index.html
+layout: layout.njk
 ---
 Planned Defence job cuts already hurting
 ========================================

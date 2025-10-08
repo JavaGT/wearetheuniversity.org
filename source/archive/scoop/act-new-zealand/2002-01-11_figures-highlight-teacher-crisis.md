@@ -1,9 +1,12 @@
 ---
 slug: figures-highlight-teacher-crisis
-title: "Figures Highlight Teacher Crisis"
-date: 2002-01-11
-source-url: https://www.scoop.co.nz/stories/PA0201/S00026/figures-highlight-teacher-crisis.htm
+title: Figures Highlight Teacher Crisis
+date: 2002-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00026/figures-highlight-teacher-crisis.htm
 author: act-new-zealand
+permalink: /archive/2002/01/11/figures-highlight-teacher-crisis/index.html
+layout: layout.njk
 ---
 Figures Highlight Teacher Crisis
 ================================

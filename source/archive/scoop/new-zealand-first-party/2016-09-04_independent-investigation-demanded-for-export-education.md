@@ -1,9 +1,13 @@
 ---
 slug: independent-investigation-demanded-for-export-education
-title: "Independent investigation demanded for Export Education"
-date: 2016-09-04
-source-url: https://www.scoop.co.nz/stories/PA1609/S00045/independent-investigation-demanded-for-export-education.htm
+title: Independent investigation demanded for Export Education
+date: 2016-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00045/independent-investigation-demanded-for-export-education.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/09/04/independent-investigation-demanded-for-export-education/index.html
+layout: layout.njk
 ---
 Independent investigation demanded for Export Education
 =======================================================

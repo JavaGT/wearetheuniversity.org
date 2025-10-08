@@ -1,9 +1,16 @@
 ---
-slug: minimum-wage-decision-a-signal-of-what-this-government-really-thinks-about-workers
-title: "Minimum Wage Decision A Signal Of What This Government Really Thinks About Workers"
-date: 2024-02-01
-source-url: https://www.scoop.co.nz/stories/PO2402/S00010/minimum-wage-decision-a-signal-of-what-this-government-really-thinks-about-workers.htm
+slug: >-
+  minimum-wage-decision-a-signal-of-what-this-government-really-thinks-about-workers
+title: >-
+  Minimum Wage Decision A Signal Of What This Government Really Thinks About
+  Workers
+date: 2024-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2402/S00010/minimum-wage-decision-a-signal-of-what-this-government-really-thinks-about-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2024/02/01/minimum-wage-decision-a-signal-of-what-this-government-really-thinks-about-workers/index.html
+layout: layout.njk
 ---
 Minimum Wage Decision A Signal Of What This Government Really Thinks About Workers
 ==================================================================================

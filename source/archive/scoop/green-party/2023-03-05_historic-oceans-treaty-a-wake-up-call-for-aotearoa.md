@@ -1,9 +1,13 @@
 ---
 slug: historic-oceans-treaty-a-wake-up-call-for-aotearoa
-title: "Historic Oceans Treaty A Wake-up Call For Aotearoa"
-date: 2023-03-05
-source-url: https://www.scoop.co.nz/stories/PO2303/S00037/historic-oceans-treaty-a-wake-up-call-for-aotearoa.htm
+title: Historic Oceans Treaty A Wake-up Call For Aotearoa
+date: 2023-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00037/historic-oceans-treaty-a-wake-up-call-for-aotearoa.htm
 author: green-party
+permalink: >-
+  /archive/2023/03/05/historic-oceans-treaty-a-wake-up-call-for-aotearoa/index.html
+layout: layout.njk
 ---
 Historic Oceans Treaty A Wake-up Call For Aotearoa
 ==================================================

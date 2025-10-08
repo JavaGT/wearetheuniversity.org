@@ -1,9 +1,13 @@
 ---
 slug: waikato-students-given-prime-minister-scholarships-for-asia
-title: "Waikato students given Prime Minister Scholarships for Asia"
-date: 2014-11-28
-source-url: https://www.scoop.co.nz/stories/ED1411/S00178/waikato-students-given-prime-minister-scholarships-for-asia.htm
+title: Waikato students given Prime Minister Scholarships for Asia
+date: 2014-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00178/waikato-students-given-prime-minister-scholarships-for-asia.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/11/28/waikato-students-given-prime-minister-scholarships-for-asia/index.html
+layout: layout.njk
 ---
 Waikato students given Prime Minister Scholarships for Asia
 ===========================================================

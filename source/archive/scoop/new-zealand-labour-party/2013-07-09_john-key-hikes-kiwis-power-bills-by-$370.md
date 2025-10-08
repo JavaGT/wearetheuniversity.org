@@ -1,9 +1,12 @@
 ---
 slug: john-key-hikes-kiwis-power-bills-by-$370
-title: "John Key hikes Kiwis’ power bills by $370"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/PA1307/S00150/john-key-hikes-kiwis-power-bills-by-370.htm
+title: John Key hikes Kiwis’ power bills by $370
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00150/john-key-hikes-kiwis-power-bills-by-370.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/09/john-key-hikes-kiwis-power-bills-by-/index.html
+layout: layout.njk
 ---
 John Key hikes Kiwis’ power bills by $370
 =========================================

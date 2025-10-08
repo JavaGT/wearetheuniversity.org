@@ -1,9 +1,13 @@
 ---
 slug: study-proves-low-cost-home-modifications-prevent-falls
-title: "Study proves low-cost home modifications prevent falls"
-date: 2014-09-23
-source-url: https://www.scoop.co.nz/stories/SC1409/S00093/study-proves-low-cost-home-modifications-prevent-falls.htm
+title: Study proves low-cost home modifications prevent falls
+date: 2014-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00093/study-proves-low-cost-home-modifications-prevent-falls.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/23/study-proves-low-cost-home-modifications-prevent-falls/index.html
+layout: layout.njk
 ---
 Study proves low-cost home modifications prevent falls
 ======================================================

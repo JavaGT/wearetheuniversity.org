@@ -1,9 +1,12 @@
 ---
 slug: hutt-youth-backed-by-government-funding
-title: "Hutt Youth Backed by Government Funding"
-date: 2017-01-31
-source-url: https://www.scoop.co.nz/stories/PA1701/S00162/hutt-youth-backed-by-government-funding.htm
+title: Hutt Youth Backed by Government Funding
+date: 2017-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00162/hutt-youth-backed-by-government-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2017/01/31/hutt-youth-backed-by-government-funding/index.html
+layout: layout.njk
 ---
 Hutt Youth Backed by Government Funding
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: influenza-estimated-to-kill-about-400-nzers-each-year
-title: "Influenza estimated to kill about 400 NZers each year"
-date: 2014-11-24
-source-url: https://www.scoop.co.nz/stories/GE1411/S00129/influenza-estimated-to-kill-about-400-nzers-each-year.htm
+title: Influenza estimated to kill about 400 NZers each year
+date: 2014-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1411/S00129/influenza-estimated-to-kill-about-400-nzers-each-year.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/24/influenza-estimated-to-kill-about-400-nzers-each-year/index.html
+layout: layout.njk
 ---
 Influenza estimated to kill about 400 NZers each year
 =====================================================

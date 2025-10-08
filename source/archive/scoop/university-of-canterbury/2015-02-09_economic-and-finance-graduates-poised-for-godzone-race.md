@@ -1,9 +1,13 @@
 ---
 slug: economic-and-finance-graduates-poised-for-godzone-race
-title: "Economic and finance graduates poised for GODZone race"
-date: 2015-02-09
-source-url: https://www.scoop.co.nz/stories/CU1502/S00174/economic-and-finance-graduates-poised-for-godzone-race.htm
+title: Economic and finance graduates poised for GODZone race
+date: 2015-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00174/economic-and-finance-graduates-poised-for-godzone-race.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/09/economic-and-finance-graduates-poised-for-godzone-race/index.html
+layout: layout.njk
 ---
 Economic and finance graduates poised for GODZone race
 ======================================================

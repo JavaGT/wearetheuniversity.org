@@ -1,9 +1,12 @@
 ---
 slug: more-than-800-cyf-calls-go-unanswered
-title: "More than 800 CYF calls go unanswered"
-date: 2006-07-11
-source-url: https://www.scoop.co.nz/stories/PA0607/S00149/more-than-800-cyf-calls-go-unanswered.htm
+title: More than 800 CYF calls go unanswered
+date: 2006-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00149/more-than-800-cyf-calls-go-unanswered.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/11/more-than-800-cyf-calls-go-unanswered/index.html
+layout: layout.njk
 ---
 More than 800 CYF calls go unanswered
 =====================================

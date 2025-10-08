@@ -1,9 +1,12 @@
 ---
 slug: mallard-fails-to-reduce-school-suspensions
-title: "Mallard Fails to Reduce School Suspensions"
-date: 2003-04-04
-source-url: https://www.scoop.co.nz/stories/PA0304/S00102/mallard-fails-to-reduce-school-suspensions.htm
+title: Mallard Fails to Reduce School Suspensions
+date: 2003-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00102/mallard-fails-to-reduce-school-suspensions.htm
 author: act-new-zealand
+permalink: /archive/2003/04/04/mallard-fails-to-reduce-school-suspensions/index.html
+layout: layout.njk
 ---
 Mallard Fails to Reduce School Suspensions
 ==========================================

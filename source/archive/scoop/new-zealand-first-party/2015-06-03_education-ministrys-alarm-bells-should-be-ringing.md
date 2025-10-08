@@ -1,9 +1,13 @@
 ---
 slug: education-ministrys-alarm-bells-should-be-ringing
-title: "Education Ministry’s Alarm Bells Should Be Ringing"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/PA1506/S00052/education-ministrys-alarm-bells-should-be-ringing.htm
+title: Education Ministry’s Alarm Bells Should Be Ringing
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00052/education-ministrys-alarm-bells-should-be-ringing.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/06/03/education-ministrys-alarm-bells-should-be-ringing/index.html
+layout: layout.njk
 ---
 Education Ministry’s Alarm Bells Should Be Ringing
 ==================================================

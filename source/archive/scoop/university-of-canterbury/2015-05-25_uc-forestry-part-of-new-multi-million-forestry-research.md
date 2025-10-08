@@ -1,9 +1,13 @@
 ---
 slug: uc-forestry-part-of-new-multi-million-forestry-research
-title: "UC Forestry part of new multi-million forestry research"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/BU1505/S00768/uc-forestry-part-of-new-multi-million-forestry-research.htm
+title: UC Forestry part of new multi-million forestry research
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1505/S00768/uc-forestry-part-of-new-multi-million-forestry-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/25/uc-forestry-part-of-new-multi-million-forestry-research/index.html
+layout: layout.njk
 ---
 UC Forestry part of new multi-million forestry research
 =======================================================

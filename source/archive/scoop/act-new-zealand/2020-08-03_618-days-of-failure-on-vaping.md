@@ -1,9 +1,12 @@
 ---
 slug: 618-days-of-failure-on-vaping
-title: "618 Days Of Failure On Vaping"
-date: 2020-08-03
-source-url: https://www.scoop.co.nz/stories/PA2008/S00011/618-days-of-failure-on-vaping.htm
+title: 618 Days Of Failure On Vaping
+date: 2020-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00011/618-days-of-failure-on-vaping.htm
 author: act-new-zealand
+permalink: /archive/2020/08/03/618-days-of-failure-on-vaping/index.html
+layout: layout.njk
 ---
 618 Days Of Failure On Vaping
 =============================

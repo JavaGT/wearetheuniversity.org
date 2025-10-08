@@ -1,9 +1,12 @@
 ---
 slug: credit-report-proves-english-is-out-of-touch
-title: "Credit report proves English is out of touch"
-date: 2010-10-19
-source-url: https://www.scoop.co.nz/stories/PA1010/S00316/credit-report-proves-english-is-out-of-touch.htm
+title: Credit report proves English is out of touch
+date: 2010-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00316/credit-report-proves-english-is-out-of-touch.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/19/credit-report-proves-english-is-out-of-touch/index.html
+layout: layout.njk
 ---
 Credit report proves English is out of touch
 ============================================

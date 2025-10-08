@@ -1,9 +1,12 @@
 ---
 slug: government-shuts-down-opposing-views
-title: "Government shuts down opposing views"
-date: 2001-08-30
-source-url: https://www.scoop.co.nz/stories/PA0108/S00561/government-shuts-down-opposing-views.htm
+title: Government shuts down opposing views
+date: 2001-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00561/government-shuts-down-opposing-views.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/30/government-shuts-down-opposing-views/index.html
+layout: layout.njk
 ---
 Government shuts down opposing views
 ====================================

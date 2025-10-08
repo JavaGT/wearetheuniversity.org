@@ -1,9 +1,13 @@
 ---
 slug: greens-announce-free-counselling-for-young-people
-title: "Greens announce free counselling for young people"
-date: 2017-09-11
-source-url: https://www.scoop.co.nz/stories/PA1709/S00116/greens-announce-free-counselling-for-young-people.htm
+title: Greens announce free counselling for young people
+date: 2017-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00116/greens-announce-free-counselling-for-young-people.htm
 author: green-party
+permalink: >-
+  /archive/2017/09/11/greens-announce-free-counselling-for-young-people/index.html
+layout: layout.njk
 ---
 Greens announce free counselling for young people
 =================================================

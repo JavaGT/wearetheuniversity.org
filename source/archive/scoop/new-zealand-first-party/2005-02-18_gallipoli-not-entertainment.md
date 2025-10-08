@@ -1,9 +1,11 @@
 ---
 slug: gallipoli-not-entertainment
-title: "Gallipoli Not Entertainment"
-date: 2005-02-18
+title: Gallipoli Not Entertainment
+date: 2005-02-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0502/S00417/gallipoli-not-entertainment.htm
 author: new-zealand-first-party
+permalink: /archive/2005/02/18/gallipoli-not-entertainment/index.html
+layout: layout.njk
 ---
 Gallipoli Not Entertainment
 ===========================

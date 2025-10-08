@@ -1,9 +1,13 @@
 ---
 slug: student-loans-a-factor-in-junior-doctor-shortage
-title: "Student Loans a Factor in Junior Doctor Shortage"
-date: 2002-05-28
-source-url: https://www.scoop.co.nz/stories/ED0205/S00066/student-loans-a-factor-in-junior-doctor-shortage.htm
+title: Student Loans a Factor in Junior Doctor Shortage
+date: 2002-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00066/student-loans-a-factor-in-junior-doctor-shortage.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2002/05/28/student-loans-a-factor-in-junior-doctor-shortage/index.html
+layout: layout.njk
 ---
 Student Loans a Factor in Junior Doctor Shortage
 ================================================

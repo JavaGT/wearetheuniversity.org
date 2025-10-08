@@ -1,9 +1,12 @@
 ---
 slug: unitec-accused-of-discrimination-against-union
-title: "Unitec accused of discrimination against union"
-date: 2009-05-21
-source-url: https://www.scoop.co.nz/stories/PO0905/S00269/unitec-accused-of-discrimination-against-union.htm
+title: Unitec accused of discrimination against union
+date: 2009-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00269/unitec-accused-of-discrimination-against-union.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2009/05/21/unitec-accused-of-discrimination-against-union/index.html
+layout: layout.njk
 ---
 Unitec accused of discrimination against union
 ==============================================

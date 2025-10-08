@@ -1,9 +1,13 @@
 ---
 slug: ecoshow-2007-making-sustainability-a-real-option
-title: "Ecoshow 2007: Making Sustainability a Real Option"
-date: 2007-10-12
-source-url: https://www.scoop.co.nz/stories/PA0710/S00229/ecoshow-2007-making-sustainability-a-real-option.htm
+title: 'Ecoshow 2007: Making Sustainability a Real Option'
+date: 2007-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00229/ecoshow-2007-making-sustainability-a-real-option.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/10/12/ecoshow-2007-making-sustainability-a-real-option/index.html
+layout: layout.njk
 ---
 Ecoshow 2007: Making Sustainability a Real Option
 =================================================

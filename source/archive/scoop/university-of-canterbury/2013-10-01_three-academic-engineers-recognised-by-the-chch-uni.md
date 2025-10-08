@@ -1,9 +1,13 @@
 ---
 slug: three-academic-engineers-recognised-by-the-chch-uni
-title: "Three academic engineers recognised by the Chch Uni"
-date: 2013-10-01
-source-url: https://www.scoop.co.nz/stories/AK1310/S00041/three-academic-engineers-recognised-by-the-chch-uni.htm
+title: Three academic engineers recognised by the Chch Uni
+date: 2013-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00041/three-academic-engineers-recognised-by-the-chch-uni.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/01/three-academic-engineers-recognised-by-the-chch-uni/index.html
+layout: layout.njk
 ---
 Three academic engineers recognised by the Chch Uni
 ===================================================

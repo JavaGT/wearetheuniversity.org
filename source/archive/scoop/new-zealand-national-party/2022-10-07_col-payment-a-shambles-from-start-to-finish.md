@@ -1,9 +1,12 @@
 ---
 slug: col-payment-a-shambles-from-start-to-finish
-title: "COL Payment A Shambles From Start To Finish"
-date: 2022-10-07
-source-url: https://www.scoop.co.nz/stories/PA2210/S00048/col-payment-a-shambles-from-start-to-finish.htm
+title: COL Payment A Shambles From Start To Finish
+date: 2022-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00048/col-payment-a-shambles-from-start-to-finish.htm
 author: new-zealand-national-party
+permalink: /archive/2022/10/07/col-payment-a-shambles-from-start-to-finish/index.html
+layout: layout.njk
 ---
 COL Payment A Shambles From Start To Finish
 ===========================================

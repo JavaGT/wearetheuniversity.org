@@ -1,9 +1,13 @@
 ---
 slug: self-compassion-could-help-endometriosis-sufferers
-title: "Self-compassion Could Help Endometriosis Sufferers"
-date: 2024-03-26
-source-url: https://www.scoop.co.nz/stories/GE2403/S00068/self-compassion-could-help-endometriosis-sufferers.htm
+title: Self-compassion Could Help Endometriosis Sufferers
+date: 2024-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2403/S00068/self-compassion-could-help-endometriosis-sufferers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/03/26/self-compassion-could-help-endometriosis-sufferers/index.html
+layout: layout.njk
 ---
 Self-compassion Could Help Endometriosis Sufferers
 ==================================================

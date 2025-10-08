@@ -1,9 +1,12 @@
 ---
 slug: govt-must-urgently-wipe-msd-debt
-title: "Govt Must Urgently Wipe MSD Debt"
-date: 2023-02-27
-source-url: https://www.scoop.co.nz/stories/PA2302/S00134/govt-must-urgently-wipe-msd-debt.htm
+title: Govt Must Urgently Wipe MSD Debt
+date: 2023-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00134/govt-must-urgently-wipe-msd-debt.htm
 author: green-party
+permalink: /archive/2023/02/27/govt-must-urgently-wipe-msd-debt/index.html
+layout: layout.njk
 ---
 Govt Must Urgently Wipe MSD Debt
 ================================

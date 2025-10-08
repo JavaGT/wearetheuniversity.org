@@ -1,9 +1,12 @@
 ---
 slug: intake-of-sugars-not-related-to-obesity-levels
-title: "Intake of sugars not related to obesity levels"
-date: 2008-05-16
-source-url: https://www.scoop.co.nz/stories/GE0805/S00084/intake-of-sugars-not-related-to-obesity-levels.htm
+title: Intake of sugars not related to obesity levels
+date: 2008-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0805/S00084/intake-of-sugars-not-related-to-obesity-levels.htm
 author: university-of-otago
+permalink: /archive/2008/05/16/intake-of-sugars-not-related-to-obesity-levels/index.html
+layout: layout.njk
 ---
 Intake of sugars not related to obesity levels
 ==============================================

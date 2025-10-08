@@ -1,9 +1,12 @@
 ---
 slug: tax-cuts-no-way-to-tackle-student-debt
-title: "Tax cuts no way to tackle student debt"
-date: 2005-01-21
-source-url: https://www.scoop.co.nz/stories/PO0501/S00159/tax-cuts-no-way-to-tackle-student-debt.htm
+title: Tax cuts no way to tackle student debt
+date: 2005-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0501/S00159/tax-cuts-no-way-to-tackle-student-debt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/01/21/tax-cuts-no-way-to-tackle-student-debt/index.html
+layout: layout.njk
 ---
 Tax cuts no way to tackle student debt
 ======================================

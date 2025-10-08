@@ -1,9 +1,13 @@
 ---
 slug: national-to-allow-oil-drilling-in-mauis-dolphin-sanctuary
-title: "National to allow oil drilling in Maui’s Dolphin sanctuary"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/PA1412/S00182/national-to-allow-oil-drilling-in-mauis-dolphin-sanctuary.htm
+title: National to allow oil drilling in Maui’s Dolphin sanctuary
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00182/national-to-allow-oil-drilling-in-mauis-dolphin-sanctuary.htm
 author: green-party
+permalink: >-
+  /archive/2014/12/09/national-to-allow-oil-drilling-in-mauis-dolphin-sanctuary/index.html
+layout: layout.njk
 ---
 National to allow oil drilling in Maui’s Dolphin sanctuary
 ==========================================================

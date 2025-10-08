@@ -1,9 +1,12 @@
 ---
 slug: scientific-breakthrough-at-victoria
-title: "Scientific breakthrough at Victoria"
-date: 2006-05-30
-source-url: https://www.scoop.co.nz/stories/SC0605/S00073/scientific-breakthrough-at-victoria.htm
+title: Scientific breakthrough at Victoria
+date: 2006-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0605/S00073/scientific-breakthrough-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/05/30/scientific-breakthrough-at-victoria/index.html
+layout: layout.njk
 ---
 Scientific breakthrough at Victoria
 ===================================

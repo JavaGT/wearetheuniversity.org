@@ -1,9 +1,11 @@
 ---
 slug: public-sector-fat-cats
-title: "Public sector fat cats?"
-date: 2008-08-06
+title: Public sector fat cats?
+date: 2008-08-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0808/S00055/public-sector-fat-cats.htm
 author: university-of-waikato
+permalink: /archive/2008/08/06/public-sector-fat-cats/index.html
+layout: layout.njk
 ---
 Public sector fat cats?
 =======================

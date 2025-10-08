@@ -1,9 +1,13 @@
 ---
 slug: labour-party-list-for-the-2017-election-announced
-title: "Labour Party List for the 2017 Election announced"
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/PA1705/S00018/labour-party-list-for-the-2017-election-announced.htm
+title: Labour Party List for the 2017 Election announced
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00018/labour-party-list-for-the-2017-election-announced.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/05/02/labour-party-list-for-the-2017-election-announced/index.html
+layout: layout.njk
 ---
 Labour Party List for the 2017 Election announced
 =================================================

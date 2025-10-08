@@ -1,9 +1,11 @@
 ---
 slug: education-in-crisis
-title: "Education in Crisis?"
-date: 2012-08-09
+title: Education in Crisis?
+date: 2012-08-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1208/S00052/education-in-crisis.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/08/09/education-in-crisis/index.html
+layout: layout.njk
 ---
 Education in Crisis?
 ====================

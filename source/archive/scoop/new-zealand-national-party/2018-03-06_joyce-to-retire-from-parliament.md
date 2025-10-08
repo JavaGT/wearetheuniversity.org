@@ -1,9 +1,12 @@
 ---
 slug: joyce-to-retire-from-parliament
-title: "Joyce to retire from Parliament"
-date: 2018-03-06
-source-url: https://www.scoop.co.nz/stories/PA1803/S00055/joyce-to-retire-from-parliament.htm
+title: Joyce to retire from Parliament
+date: 2018-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00055/joyce-to-retire-from-parliament.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/06/joyce-to-retire-from-parliament/index.html
+layout: layout.njk
 ---
 Joyce to retire from Parliament
 ===============================

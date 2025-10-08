@@ -1,9 +1,12 @@
 ---
 slug: hipkins-kneecaps-most-vocal-partnership-schools
-title: "Hipkins kneecaps most vocal partnership schools"
-date: 2018-07-25
-source-url: https://www.scoop.co.nz/stories/PA1807/S00214/hipkins-kneecaps-most-vocal-partnership-schools.htm
+title: Hipkins kneecaps most vocal partnership schools
+date: 2018-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00214/hipkins-kneecaps-most-vocal-partnership-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/25/hipkins-kneecaps-most-vocal-partnership-schools/index.html
+layout: layout.njk
 ---
 Hipkins kneecaps most vocal partnership schools
 ===============================================

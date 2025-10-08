@@ -1,9 +1,13 @@
 ---
 slug: uc-aims-to-be-one-of-the-two-universities-in-nz-long-term
-title: "UC aims to be one of the two universities in NZ long-term"
-date: 2014-02-28
-source-url: https://www.scoop.co.nz/stories/ED1402/S00131/uc-aims-to-be-one-of-the-two-universities-in-nz-long-term.htm
+title: UC aims to be one of the two universities in NZ long-term
+date: 2014-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00131/uc-aims-to-be-one-of-the-two-universities-in-nz-long-term.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/28/uc-aims-to-be-one-of-the-two-universities-in-nz-long-term/index.html
+layout: layout.njk
 ---
 UC aims to be one of the two universities in NZ long-term
 =========================================================

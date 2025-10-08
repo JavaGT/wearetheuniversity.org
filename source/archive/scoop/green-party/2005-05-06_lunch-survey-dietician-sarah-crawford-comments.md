@@ -1,9 +1,12 @@
 ---
 slug: lunch-survey-dietician-sarah-crawford-comments
-title: "Lunch Survey: Dietician Sarah Crawford Comments"
-date: 2005-05-06
-source-url: https://www.scoop.co.nz/stories/PA0505/S00164/lunch-survey-dietician-sarah-crawford-comments.htm
+title: 'Lunch Survey: Dietician Sarah Crawford Comments'
+date: 2005-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00164/lunch-survey-dietician-sarah-crawford-comments.htm
 author: green-party
+permalink: /archive/2005/05/06/lunch-survey-dietician-sarah-crawford-comments/index.html
+layout: layout.njk
 ---
 Lunch Survey: Dietician Sarah Crawford Comments
 ===============================================

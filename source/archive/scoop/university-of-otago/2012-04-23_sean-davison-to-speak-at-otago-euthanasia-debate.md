@@ -1,9 +1,13 @@
 ---
 slug: sean-davison-to-speak-at-otago-euthanasia-debate
-title: "Sean Davison to speak at Otago euthanasia debate"
-date: 2012-04-23
-source-url: https://www.scoop.co.nz/stories/ED1204/S00084/sean-davison-to-speak-at-otago-euthanasia-debate.htm
+title: Sean Davison to speak at Otago euthanasia debate
+date: 2012-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00084/sean-davison-to-speak-at-otago-euthanasia-debate.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/04/23/sean-davison-to-speak-at-otago-euthanasia-debate/index.html
+layout: layout.njk
 ---
 Sean Davison to speak at Otago euthanasia debate
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: smes-owners-dismissed-as-second-class-citizens
-title: "SMEs owners dismissed as second class citizens"
-date: 2007-08-02
-source-url: https://www.scoop.co.nz/stories/ED0708/S00002/smes-owners-dismissed-as-second-class-citizens.htm
+title: SMEs owners dismissed as second class citizens
+date: 2007-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00002/smes-owners-dismissed-as-second-class-citizens.htm
 author: massey-university
+permalink: /archive/2007/08/02/smes-owners-dismissed-as-second-class-citizens/index.html
+layout: layout.njk
 ---
 SMEs owners dismissed as second class citizens
 ==============================================

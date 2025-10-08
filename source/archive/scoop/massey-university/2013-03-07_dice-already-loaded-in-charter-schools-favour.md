@@ -1,9 +1,12 @@
 ---
 slug: dice-already-loaded-in-charter-schools-favour
-title: "Dice already loaded in charter schools favour"
-date: 2013-03-07
-source-url: https://www.scoop.co.nz/stories/ED1303/S00042/dice-already-loaded-in-charter-schools-favour.htm
+title: Dice already loaded in charter schools favour
+date: 2013-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00042/dice-already-loaded-in-charter-schools-favour.htm
 author: massey-university
+permalink: /archive/2013/03/07/dice-already-loaded-in-charter-schools-favour/index.html
+layout: layout.njk
 ---
 Dice already loaded in charter schools favour
 =============================================

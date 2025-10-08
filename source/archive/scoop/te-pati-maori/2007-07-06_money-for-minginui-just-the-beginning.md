@@ -1,9 +1,12 @@
 ---
 slug: money-for-minginui-just-the-beginning
-title: "'Money for Minginui Just the Beginning'"
-date: 2007-07-06
-source-url: https://www.scoop.co.nz/stories/PA0707/S00118/money-for-minginui-just-the-beginning.htm
+title: '''Money for Minginui Just the Beginning'''
+date: 2007-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00118/money-for-minginui-just-the-beginning.htm
 author: te-pati-maori
+permalink: /archive/2007/07/06/money-for-minginui-just-the-beginning/index.html
+layout: layout.njk
 ---
 'Money for Minginui Just the Beginning'
 =======================================

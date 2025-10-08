@@ -1,9 +1,12 @@
 ---
 slug: david-cross-and-marcus-moore-in-discussion
-title: "David Cross and Marcus Moore in discussion"
-date: 2007-05-19
-source-url: https://www.scoop.co.nz/stories/ED0705/S00078/david-cross-and-marcus-moore-in-discussion.htm
+title: David Cross and Marcus Moore in discussion
+date: 2007-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00078/david-cross-and-marcus-moore-in-discussion.htm
 author: massey-university
+permalink: /archive/2007/05/19/david-cross-and-marcus-moore-in-discussion/index.html
+layout: layout.njk
 ---
 David Cross and Marcus Moore in discussion
 ==========================================

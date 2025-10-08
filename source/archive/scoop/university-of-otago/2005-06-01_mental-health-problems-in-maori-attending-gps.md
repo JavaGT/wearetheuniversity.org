@@ -1,9 +1,12 @@
 ---
 slug: mental-health-problems-in-maori-attending-gps
-title: "Mental health problems in Maori attending GPs"
-date: 2005-06-01
-source-url: https://www.scoop.co.nz/stories/GE0506/S00003/mental-health-problems-in-maori-attending-gps.htm
+title: Mental health problems in Maori attending GPs
+date: 2005-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0506/S00003/mental-health-problems-in-maori-attending-gps.htm
 author: university-of-otago
+permalink: /archive/2005/06/01/mental-health-problems-in-maori-attending-gps/index.html
+layout: layout.njk
 ---
 Mental health problems in Maori attending GPs
 =============================================

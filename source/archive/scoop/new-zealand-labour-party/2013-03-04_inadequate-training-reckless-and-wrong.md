@@ -1,9 +1,12 @@
 ---
 slug: inadequate-training-reckless-and-wrong
-title: "Inadequate training reckless and wrong"
-date: 2013-03-04
-source-url: https://www.scoop.co.nz/stories/PA1303/S00036/inadequate-training-reckless-and-wrong.htm
+title: Inadequate training reckless and wrong
+date: 2013-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00036/inadequate-training-reckless-and-wrong.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/04/inadequate-training-reckless-and-wrong/index.html
+layout: layout.njk
 ---
 Inadequate training reckless and wrong
 ======================================

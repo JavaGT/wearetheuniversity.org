@@ -1,9 +1,12 @@
 ---
 slug: peters-hidden-agendas-who-is-surprised!
-title: "Peters: Hidden Agendas – Who Is Surprised!"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/PA0508/S00791/peters-hidden-agendas-who-is-surprised.htm
+title: 'Peters: Hidden Agendas – Who Is Surprised!'
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00791/peters-hidden-agendas-who-is-surprised.htm
 author: new-zealand-first-party
+permalink: /archive/2005/08/30/peters-hidden-agendas-who-is-surprised/index.html
+layout: layout.njk
 ---
 Peters: Hidden Agendas – Who Is Surprised!
 ==========================================

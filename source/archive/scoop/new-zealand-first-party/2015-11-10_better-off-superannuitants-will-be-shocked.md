@@ -1,9 +1,12 @@
 ---
 slug: better-off-superannuitants-will-be-shocked
-title: "‘Better Off’ Superannuitants Will Be Shocked"
-date: 2015-11-10
-source-url: https://www.scoop.co.nz/stories/PA1511/S00164/better-off-superannuitants-will-be-shocked.htm
+title: ‘Better Off’ Superannuitants Will Be Shocked
+date: 2015-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00164/better-off-superannuitants-will-be-shocked.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/10/better-off-superannuitants-will-be-shocked/index.html
+layout: layout.njk
 ---
 ‘Better Off’ Superannuitants Will Be Shocked
 ============================================

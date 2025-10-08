@@ -1,9 +1,13 @@
 ---
 slug: maori-party-co-leader-endorses-angeline-greensill
-title: "Maori Party Co-leader Endorses Angeline Greensill"
-date: 2008-10-28
-source-url: https://www.scoop.co.nz/stories/PA0810/S00616/maori-party-co-leader-endorses-angeline-greensill.htm
+title: Maori Party Co-leader Endorses Angeline Greensill
+date: 2008-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00616/maori-party-co-leader-endorses-angeline-greensill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/10/28/maori-party-co-leader-endorses-angeline-greensill/index.html
+layout: layout.njk
 ---
 Maori Party Co-leader Endorses Angeline Greensill
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: tertiary-students-deserve-better-from-the-government
-title: "Tertiary Students Deserve Better From the Government"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/PA1508/S00210/tertiary-students-deserve-better-from-the-government.htm
+title: Tertiary Students Deserve Better From the Government
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00210/tertiary-students-deserve-better-from-the-government.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/08/13/tertiary-students-deserve-better-from-the-government/index.html
+layout: layout.njk
 ---
 Tertiary Students Deserve Better From the Government
 ====================================================

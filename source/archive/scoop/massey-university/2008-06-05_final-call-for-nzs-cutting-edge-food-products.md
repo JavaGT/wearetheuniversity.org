@@ -1,9 +1,12 @@
 ---
 slug: final-call-for-nzs-cutting-edge-food-products
-title: "Final Call for NZ’s cutting edge food products"
-date: 2008-06-05
-source-url: https://www.scoop.co.nz/stories/CU0806/S00033/final-call-for-nzs-cutting-edge-food-products.htm
+title: Final Call for NZ’s cutting edge food products
+date: 2008-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0806/S00033/final-call-for-nzs-cutting-edge-food-products.htm
 author: massey-university
+permalink: /archive/2008/06/05/final-call-for-nzs-cutting-edge-food-products/index.html
+layout: layout.njk
 ---
 Final Call for NZ’s cutting edge food products
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: researcher-studying-how-companies-can-be-more-effective
-title: "Researcher Studying How Companies Can Be More Effective"
-date: 2013-05-08
-source-url: https://www.scoop.co.nz/stories/SC1305/S00038/researcher-studying-how-companies-can-be-more-effective.htm
+title: Researcher Studying How Companies Can Be More Effective
+date: 2013-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00038/researcher-studying-how-companies-can-be-more-effective.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/08/researcher-studying-how-companies-can-be-more-effective/index.html
+layout: layout.njk
 ---
 Researcher Studying How Companies Can Be More Effective
 =======================================================

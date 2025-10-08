@@ -1,9 +1,12 @@
 ---
 slug: national-supports-school-&-club-sports
-title: "National supports school & club sports"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/PA0811/S00050/national-supports-school-club-sports.htm
+title: National supports school & club sports
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00050/national-supports-school-club-sports.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/04/national-supports-school-/index.html
+layout: layout.njk
 ---
 National supports school & club sports
 ======================================

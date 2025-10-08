@@ -1,9 +1,12 @@
 ---
 slug: govt-needs-to-heed-warnings-on-med-students
-title: "Govt needs to heed warnings on med students"
-date: 2015-07-20
-source-url: https://www.scoop.co.nz/stories/PA1507/S00313/govt-needs-to-heed-warnings-on-med-students.htm
+title: Govt needs to heed warnings on med students
+date: 2015-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00313/govt-needs-to-heed-warnings-on-med-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/20/govt-needs-to-heed-warnings-on-med-students/index.html
+layout: layout.njk
 ---
 Govt needs to heed warnings on med students
 ===========================================

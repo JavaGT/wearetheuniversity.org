@@ -1,1 +1,0 @@
-  welcome to The University of Auckland, New Zealand

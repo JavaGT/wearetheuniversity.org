@@ -1,9 +1,12 @@
 ---
 slug: debate-on-nz-teachers-council-te-ururoa-flavell
-title: "Debate on NZ Teachers Council - Te Ururoa Flavell"
-date: 2011-06-15
-source-url: https://www.scoop.co.nz/stories/PA1106/S00246/debate-on-nz-teachers-council-te-ururoa-flavell.htm
+title: Debate on NZ Teachers Council - Te Ururoa Flavell
+date: 2011-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00246/debate-on-nz-teachers-council-te-ururoa-flavell.htm
 author: te-pati-maori
+permalink: /archive/2011/06/15/debate-on-nz-teachers-council-te-ururoa-flavell/index.html
+layout: layout.njk
 ---
 Debate on NZ Teachers Council - Te Ururoa Flavell
 =================================================

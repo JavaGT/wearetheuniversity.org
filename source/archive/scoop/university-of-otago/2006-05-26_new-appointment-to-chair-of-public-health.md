@@ -1,9 +1,12 @@
 ---
 slug: new-appointment-to-chair-of-public-health
-title: "New Appointment To Chair Of Public Health"
-date: 2006-05-26
-source-url: https://www.scoop.co.nz/stories/GE0605/S00178/new-appointment-to-chair-of-public-health.htm
+title: New Appointment To Chair Of Public Health
+date: 2006-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0605/S00178/new-appointment-to-chair-of-public-health.htm
 author: university-of-otago
+permalink: /archive/2006/05/26/new-appointment-to-chair-of-public-health/index.html
+layout: layout.njk
 ---
 New Appointment To Chair Of Public Health
 =========================================

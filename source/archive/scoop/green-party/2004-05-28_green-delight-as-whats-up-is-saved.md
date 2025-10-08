@@ -1,9 +1,12 @@
 ---
 slug: green-delight-as-whats-up-is-saved
-title: "Green delight as What's Up? is saved"
-date: 2004-05-28
-source-url: https://www.scoop.co.nz/stories/PA0405/S00658/green-delight-as-whats-up-is-saved.htm
+title: Green delight as What's Up? is saved
+date: 2004-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00658/green-delight-as-whats-up-is-saved.htm
 author: green-party
+permalink: /archive/2004/05/28/green-delight-as-whats-up-is-saved/index.html
+layout: layout.njk
 ---
 Green delight as What's Up? is saved
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: christchurch-mp-speaks-on-reconstruction
-title: "Christchurch MP speaks on reconstruction"
-date: 2011-04-27
-source-url: https://www.scoop.co.nz/stories/PA1104/S00499/christchurch-mp-speaks-on-reconstruction.htm
+title: Christchurch MP speaks on reconstruction
+date: 2011-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00499/christchurch-mp-speaks-on-reconstruction.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/27/christchurch-mp-speaks-on-reconstruction/index.html
+layout: layout.njk
 ---
 Christchurch MP speaks on reconstruction
 ========================================

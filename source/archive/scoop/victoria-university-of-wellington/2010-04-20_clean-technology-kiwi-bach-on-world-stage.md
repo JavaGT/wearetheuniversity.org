@@ -1,9 +1,12 @@
 ---
 slug: clean-technology-kiwi-bach-on-world-stage
-title: "Clean Technology Kiwi Bach On World Stage"
-date: 2010-04-20
-source-url: https://www.scoop.co.nz/stories/ED1004/S00048/clean-technology-kiwi-bach-on-world-stage.htm
+title: Clean Technology Kiwi Bach On World Stage
+date: 2010-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00048/clean-technology-kiwi-bach-on-world-stage.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/04/20/clean-technology-kiwi-bach-on-world-stage/index.html
+layout: layout.njk
 ---
 Clean Technology Kiwi Bach On World Stage
 =========================================

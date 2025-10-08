@@ -1,9 +1,12 @@
 ---
 slug: unaffordable-riccarton-housing-development
-title: "Unaffordable Riccarton housing development"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/PA1503/S00259/unaffordable-riccarton-housing-development.htm
+title: Unaffordable Riccarton housing development
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00259/unaffordable-riccarton-housing-development.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/18/unaffordable-riccarton-housing-development/index.html
+layout: layout.njk
 ---
 Unaffordable Riccarton housing development
 ==========================================

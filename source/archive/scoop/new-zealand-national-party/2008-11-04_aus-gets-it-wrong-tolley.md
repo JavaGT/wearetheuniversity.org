@@ -1,9 +1,11 @@
 ---
 slug: aus-gets-it-wrong-tolley
-title: "AUS gets it wrong - Tolley"
-date: 2008-11-04
+title: AUS gets it wrong - Tolley
+date: 2008-11-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0811/S00051/aus-gets-it-wrong-tolley.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/04/aus-gets-it-wrong-tolley/index.html
+layout: layout.njk
 ---
 AUS gets it wrong - Tolley
 ==========================

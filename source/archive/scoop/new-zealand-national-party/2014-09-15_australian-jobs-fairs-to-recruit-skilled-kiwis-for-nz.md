@@ -1,9 +1,13 @@
 ---
 slug: australian-jobs-fairs-to-recruit-skilled-kiwis-for-nz
-title: "Australian jobs fairs to recruit skilled Kiwis for NZ"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/PA1409/S00216/australian-jobs-fairs-to-recruit-skilled-kiwis-for-nz.htm
+title: Australian jobs fairs to recruit skilled Kiwis for NZ
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00216/australian-jobs-fairs-to-recruit-skilled-kiwis-for-nz.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/09/15/australian-jobs-fairs-to-recruit-skilled-kiwis-for-nz/index.html
+layout: layout.njk
 ---
 Australian jobs fairs to recruit skilled Kiwis for NZ
 =====================================================

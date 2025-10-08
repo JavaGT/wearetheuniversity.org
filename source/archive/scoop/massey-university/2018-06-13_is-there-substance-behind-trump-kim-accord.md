@@ -1,9 +1,12 @@
 ---
 slug: is-there-substance-behind-trump-kim-accord
-title: "Is there substance behind Trump-Kim accord?"
-date: 2018-06-13
-source-url: https://www.scoop.co.nz/stories/WO1806/S00066/is-there-substance-behind-trump-kim-accord.htm
+title: Is there substance behind Trump-Kim accord?
+date: 2018-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1806/S00066/is-there-substance-behind-trump-kim-accord.htm
 author: massey-university
+permalink: /archive/2018/06/13/is-there-substance-behind-trump-kim-accord/index.html
+layout: layout.njk
 ---
 Is there substance behind Trump-Kim accord?
 ===========================================

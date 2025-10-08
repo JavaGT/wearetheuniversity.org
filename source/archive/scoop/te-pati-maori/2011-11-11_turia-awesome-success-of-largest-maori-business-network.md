@@ -1,9 +1,13 @@
 ---
 slug: turia-awesome-success-of-largest-maori-business-network
-title: "Turia: 'awesome success' of  largest Maori  business network"
-date: 2011-11-11
-source-url: https://www.scoop.co.nz/stories/PA1111/S00235/turia-awesome-success-of-largest-maori-business-network.htm
+title: 'Turia: ''awesome success'' of  largest Maori  business network'
+date: 2011-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00235/turia-awesome-success-of-largest-maori-business-network.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/11/11/turia-awesome-success-of-largest-maori-business-network/index.html
+layout: layout.njk
 ---
 Turia: 'awesome success' of largest Maori business network
 ==========================================================

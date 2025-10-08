@@ -1,9 +1,12 @@
 ---
 slug: another-kick-in-the-guts-to-canterbury
-title: "Another kick in the guts to Canterbury"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/PA1408/S00329/another-kick-in-the-guts-to-canterbury.htm
+title: Another kick in the guts to Canterbury
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00329/another-kick-in-the-guts-to-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/21/another-kick-in-the-guts-to-canterbury/index.html
+layout: layout.njk
 ---
 Another kick in the guts to Canterbury
 ======================================

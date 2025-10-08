@@ -1,9 +1,13 @@
 ---
 slug: be-warned-dismantled-democracy-coming-to-a-place-near-you
-title: "Be Warned: Dismantled Democracy Coming To A Place Near You"
-date: 2012-11-28
-source-url: https://www.scoop.co.nz/stories/PA1211/S00469/be-warned-dismantled-democracy-coming-to-a-place-near-you.htm
+title: 'Be Warned: Dismantled Democracy Coming To A Place Near You'
+date: 2012-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00469/be-warned-dismantled-democracy-coming-to-a-place-near-you.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/11/28/be-warned-dismantled-democracy-coming-to-a-place-near-you/index.html
+layout: layout.njk
 ---
 Be Warned: Dismantled Democracy Coming To A Place Near You
 ==========================================================

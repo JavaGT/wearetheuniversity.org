@@ -1,9 +1,11 @@
 ---
 slug: a-way-with-words
-title: "A way with words"
-date: 2010-12-03
+title: A way with words
+date: 2010-12-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1012/S00018/a-way-with-words.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/12/03/a-way-with-words/index.html
+layout: layout.njk
 ---
 A way with words
 ================

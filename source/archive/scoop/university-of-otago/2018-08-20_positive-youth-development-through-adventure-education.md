@@ -1,9 +1,13 @@
 ---
 slug: positive-youth-development-through-adventure-education
-title: "Positive youth development through adventure education"
-date: 2018-08-20
-source-url: https://www.scoop.co.nz/stories/ED1808/S00043/positive-youth-development-through-adventure-education.htm
+title: Positive youth development through adventure education
+date: 2018-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00043/positive-youth-development-through-adventure-education.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/20/positive-youth-development-through-adventure-education/index.html
+layout: layout.njk
 ---
 Positive youth development through adventure education
 ======================================================

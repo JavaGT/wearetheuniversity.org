@@ -1,9 +1,12 @@
 ---
 slug: another-hospital-at-breaking-point
-title: "Another Hospital At Breaking Point"
-date: 2023-08-28
-source-url: https://www.scoop.co.nz/stories/PA2308/S00176/another-hospital-at-breaking-point.htm
+title: Another Hospital At Breaking Point
+date: 2023-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00176/another-hospital-at-breaking-point.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/28/another-hospital-at-breaking-point/index.html
+layout: layout.njk
 ---
 Another Hospital At Breaking Point
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: police-cant-be-trusted-with-firearms-register
-title: "Police Can’t Be Trusted With Firearms Register"
-date: 2021-05-19
-source-url: https://www.scoop.co.nz/stories/PA2105/S00157/police-cant-be-trusted-with-firearms-register.htm
+title: Police Can’t Be Trusted With Firearms Register
+date: 2021-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00157/police-cant-be-trusted-with-firearms-register.htm
 author: act-new-zealand
+permalink: /archive/2021/05/19/police-cant-be-trusted-with-firearms-register/index.html
+layout: layout.njk
 ---
 Police Can’t Be Trusted With Firearms Register
 ==============================================

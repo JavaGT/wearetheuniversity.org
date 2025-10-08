@@ -1,9 +1,12 @@
 ---
 slug: interactive-writing-tool-for-study-of-te-reo
-title: "Interactive writing tool for study of Te Reo"
-date: 2007-11-12
-source-url: https://www.scoop.co.nz/stories/PA0711/S00228/interactive-writing-tool-for-study-of-te-reo.htm
+title: Interactive writing tool for study of Te Reo
+date: 2007-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00228/interactive-writing-tool-for-study-of-te-reo.htm
 author: te-pati-maori
+permalink: /archive/2007/11/12/interactive-writing-tool-for-study-of-te-reo/index.html
+layout: layout.njk
 ---
 Interactive writing tool for study of Te Reo
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-student-to-push-christchurch-and-nz-at-y20-summit
-title: "UC student to push Christchurch and NZ at Y20 Summit"
-date: 2014-02-16
-source-url: https://www.scoop.co.nz/stories/AK1402/S00318/uc-student-to-push-christchurch-and-nz-at-y20-summit.htm
+title: UC student to push Christchurch and NZ at Y20 Summit
+date: 2014-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1402/S00318/uc-student-to-push-christchurch-and-nz-at-y20-summit.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/16/uc-student-to-push-christchurch-and-nz-at-y20-summit/index.html
+layout: layout.njk
 ---
 UC student to push Christchurch and NZ at Y20 Summit
 ====================================================

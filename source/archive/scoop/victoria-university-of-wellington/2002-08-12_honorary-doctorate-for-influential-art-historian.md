@@ -1,9 +1,13 @@
 ---
 slug: honorary-doctorate-for-influential-art-historian
-title: "Honorary doctorate for influential art historian"
-date: 2002-08-12
-source-url: https://www.scoop.co.nz/stories/CU0208/S00019/honorary-doctorate-for-influential-art-historian.htm
+title: Honorary doctorate for influential art historian
+date: 2002-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0208/S00019/honorary-doctorate-for-influential-art-historian.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2002/08/12/honorary-doctorate-for-influential-art-historian/index.html
+layout: layout.njk
 ---
 Honorary doctorate for influential art historian
 ================================================

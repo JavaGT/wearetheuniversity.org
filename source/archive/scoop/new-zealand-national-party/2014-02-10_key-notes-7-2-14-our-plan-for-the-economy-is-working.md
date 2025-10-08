@@ -1,9 +1,13 @@
 ---
 slug: key-notes-7-2-14-our-plan-for-the-economy-is-working
-title: "Key Notes 7/2/14: Our plan for the economy is working"
-date: 2014-02-10
-source-url: https://www.scoop.co.nz/stories/PA1402/S00091/key-notes-7214-our-plan-for-the-economy-is-working.htm
+title: 'Key Notes 7/2/14: Our plan for the economy is working'
+date: 2014-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00091/key-notes-7214-our-plan-for-the-economy-is-working.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/02/10/key-notes-7-2-14-our-plan-for-the-economy-is-working/index.html
+layout: layout.njk
 ---
 Key Notes 7/2/14: Our plan for the economy is working
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: now-its-in-your-hands-students-tell-university-councils
-title: "‘Now it’s in your hands’ students tell University Councils"
-date: 2015-02-11
-source-url: https://www.scoop.co.nz/stories/ED1502/S00027/now-its-in-your-hands-students-tell-university-councils.htm
+title: ‘Now it’s in your hands’ students tell University Councils
+date: 2015-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00027/now-its-in-your-hands-students-tell-university-councils.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/02/11/now-its-in-your-hands-students-tell-university-councils/index.html
+layout: layout.njk
 ---
 ‘Now it’s in your hands’ students tell University Councils
 ==========================================================

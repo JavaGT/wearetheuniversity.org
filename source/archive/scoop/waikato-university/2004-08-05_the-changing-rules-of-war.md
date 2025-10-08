@@ -1,9 +1,11 @@
 ---
 slug: the-changing-rules-of-war
-title: "The Changing Rules Of War"
-date: 2004-08-05
+title: The Changing Rules Of War
+date: 2004-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0408/S00017/the-changing-rules-of-war.htm
 author: waikato-university
+permalink: /archive/2004/08/05/the-changing-rules-of-war/index.html
+layout: layout.njk
 ---
 The Changing Rules Of War
 =========================

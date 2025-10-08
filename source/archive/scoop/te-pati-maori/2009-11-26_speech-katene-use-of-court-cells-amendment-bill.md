@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-use-of-court-cells-amendment-bill
-title: "Speech: Katene - Use of Court Cells Amendment Bill"
-date: 2009-11-26
-source-url: https://www.scoop.co.nz/stories/PA0911/S00418/speech-katene-use-of-court-cells-amendment-bill.htm
+title: 'Speech: Katene - Use of Court Cells Amendment Bill'
+date: 2009-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00418/speech-katene-use-of-court-cells-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/11/26/speech-katene-use-of-court-cells-amendment-bill/index.html
+layout: layout.njk
 ---
 Speech: Katene - Use of Court Cells Amendment Bill
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: child-poverty-monitor-another-call-for-a-new-direction
-title: "Child Poverty Monitor another call for a new direction"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/PA1412/S00019/child-poverty-monitor-another-call-for-a-new-direction.htm
+title: Child Poverty Monitor another call for a new direction
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00019/child-poverty-monitor-another-call-for-a-new-direction.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/12/02/child-poverty-monitor-another-call-for-a-new-direction/index.html
+layout: layout.njk
 ---
 Child Poverty Monitor another call for a new direction
 ======================================================

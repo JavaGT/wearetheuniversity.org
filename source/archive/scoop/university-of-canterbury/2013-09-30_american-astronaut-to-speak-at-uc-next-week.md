@@ -1,9 +1,12 @@
 ---
 slug: american-astronaut-to-speak-at-uc-next-week
-title: "American astronaut to speak at UC next week"
-date: 2013-09-30
-source-url: https://www.scoop.co.nz/stories/AK1309/S00974/american-astronaut-to-speak-at-uc-next-week.htm
+title: American astronaut to speak at UC next week
+date: 2013-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00974/american-astronaut-to-speak-at-uc-next-week.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/30/american-astronaut-to-speak-at-uc-next-week/index.html
+layout: layout.njk
 ---
 American astronaut to speak at UC next week
 ===========================================

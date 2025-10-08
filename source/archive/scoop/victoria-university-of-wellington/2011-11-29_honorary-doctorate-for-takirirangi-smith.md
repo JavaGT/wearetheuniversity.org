@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-takirirangi-smith
-title: "Honorary Doctorate For Takirirangi Smith"
-date: 2011-11-29
-source-url: https://www.scoop.co.nz/stories/ED1111/S00194/honorary-doctorate-for-takirirangi-smith.htm
+title: Honorary Doctorate For Takirirangi Smith
+date: 2011-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00194/honorary-doctorate-for-takirirangi-smith.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/11/29/honorary-doctorate-for-takirirangi-smith/index.html
+layout: layout.njk
 ---
 Honorary Doctorate For Takirirangi Smith
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: most-teachers-effective-in-helping-struggling-learners
-title: "Most teachers effective in helping struggling learners"
-date: 2013-06-12
-source-url: https://www.scoop.co.nz/stories/ED1306/S00064/most-teachers-effective-in-helping-struggling-learners.htm
+title: Most teachers effective in helping struggling learners
+date: 2013-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00064/most-teachers-effective-in-helping-struggling-learners.htm
 author: nzei
+permalink: >-
+  /archive/2013/06/12/most-teachers-effective-in-helping-struggling-learners/index.html
+layout: layout.njk
 ---
 Most teachers effective in helping struggling learners
 ======================================================

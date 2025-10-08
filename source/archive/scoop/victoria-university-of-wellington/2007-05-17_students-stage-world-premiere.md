@@ -1,9 +1,12 @@
 ---
 slug: students-stage-world-premiere
-title: "Students stage world premiere"
-date: 2007-05-17
-source-url: https://www.scoop.co.nz/stories/CU0705/S00184/students-stage-world-premiere.htm
+title: Students stage world premiere
+date: 2007-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0705/S00184/students-stage-world-premiere.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/17/students-stage-world-premiere/index.html
+layout: layout.njk
 ---
 Students stage world premiere
 =============================

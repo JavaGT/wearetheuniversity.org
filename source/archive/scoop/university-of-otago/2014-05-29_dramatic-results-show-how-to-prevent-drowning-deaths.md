@@ -1,9 +1,13 @@
 ---
 slug: dramatic-results-show-how-to-prevent-drowning-deaths
-title: "Dramatic results show how to prevent drowning deaths"
-date: 2014-05-29
-source-url: https://www.scoop.co.nz/stories/ED1405/S00149/dramatic-results-show-how-to-prevent-drowning-deaths.htm
+title: Dramatic results show how to prevent drowning deaths
+date: 2014-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00149/dramatic-results-show-how-to-prevent-drowning-deaths.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/05/29/dramatic-results-show-how-to-prevent-drowning-deaths/index.html
+layout: layout.njk
 ---
 Dramatic results show how to prevent drowning deaths
 ====================================================

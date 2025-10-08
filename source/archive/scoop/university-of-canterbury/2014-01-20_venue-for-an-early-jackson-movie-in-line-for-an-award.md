@@ -1,9 +1,13 @@
 ---
 slug: venue-for-an-early-jackson-movie-in-line-for-an-award
-title: "Venue for an early Jackson movie in line for an award"
-date: 2014-01-20
-source-url: https://www.scoop.co.nz/stories/CU1401/S00317/venue-for-an-early-jackson-movie-in-line-for-an-award.htm
+title: Venue for an early Jackson movie in line for an award
+date: 2014-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1401/S00317/venue-for-an-early-jackson-movie-in-line-for-an-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/20/venue-for-an-early-jackson-movie-in-line-for-an-award/index.html
+layout: layout.njk
 ---
 Venue for an early Jackson movie in line for an award
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-brings-together-scientists-for-coastal-forum
-title: "University brings together scientists for coastal forum"
-date: 2011-12-13
-source-url: https://www.scoop.co.nz/stories/ED1112/S00065/university-brings-together-scientists-for-coastal-forum.htm
+title: University brings together scientists for coastal forum
+date: 2011-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00065/university-brings-together-scientists-for-coastal-forum.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/12/13/university-brings-together-scientists-for-coastal-forum/index.html
+layout: layout.njk
 ---
 University brings together scientists for coastal forum
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: clark-speech-to-nzei-meeting-wellington-21-9-99
-title: "Clark: speech to NZEI meeting, Wellington, 21/9/99"
-date: 1999-09-22
-source-url: https://www.scoop.co.nz/stories/PA9909/S00455/clark-speech-to-nzei-meeting-wellington-21999.htm
+title: 'Clark: speech to NZEI meeting, Wellington, 21/9/99'
+date: 1999-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00455/clark-speech-to-nzei-meeting-wellington-21999.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/22/clark-speech-to-nzei-meeting-wellington-21-9-99/index.html
+layout: layout.njk
 ---
 Clark: speech to NZEI meeting, Wellington, 21/9/99
 ==================================================

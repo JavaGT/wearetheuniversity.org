@@ -1,9 +1,12 @@
 ---
 slug: tangata-whenua-initiative-commended
-title: "Tangata Whenua Initiative commended"
-date: 2007-11-26
-source-url: https://www.scoop.co.nz/stories/PA0711/S00505/tangata-whenua-initiative-commended.htm
+title: Tangata Whenua Initiative commended
+date: 2007-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00505/tangata-whenua-initiative-commended.htm
 author: te-pati-maori
+permalink: /archive/2007/11/26/tangata-whenua-initiative-commended/index.html
+layout: layout.njk
 ---
 Tangata Whenua Initiative commended
 ===================================

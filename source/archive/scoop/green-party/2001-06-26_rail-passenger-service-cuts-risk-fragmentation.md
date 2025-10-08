@@ -1,9 +1,12 @@
 ---
 slug: rail-passenger-service-cuts-risk-fragmentation
-title: "Rail Passenger Service Cuts Risk Fragmentation"
-date: 2001-06-26
-source-url: https://www.scoop.co.nz/stories/PA0106/S00394/rail-passenger-service-cuts-risk-fragmentation.htm
+title: Rail Passenger Service Cuts Risk Fragmentation
+date: 2001-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00394/rail-passenger-service-cuts-risk-fragmentation.htm
 author: green-party
+permalink: /archive/2001/06/26/rail-passenger-service-cuts-risk-fragmentation/index.html
+layout: layout.njk
 ---
 Rail Passenger Service Cuts Risk Fragmentation
 ==============================================

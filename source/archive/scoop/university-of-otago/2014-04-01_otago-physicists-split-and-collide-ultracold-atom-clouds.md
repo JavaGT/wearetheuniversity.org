@@ -1,9 +1,13 @@
 ---
 slug: otago-physicists-split-and-collide-ultracold-atom-clouds
-title: "Otago physicists split and collide ultracold atom clouds"
-date: 2014-04-01
-source-url: https://www.scoop.co.nz/stories/SC1404/S00008/otago-physicists-split-and-collide-ultracold-atom-clouds.htm
+title: Otago physicists split and collide ultracold atom clouds
+date: 2014-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00008/otago-physicists-split-and-collide-ultracold-atom-clouds.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/04/01/otago-physicists-split-and-collide-ultracold-atom-clouds/index.html
+layout: layout.njk
 ---
 Otago physicists split and collide ultracold atom clouds
 ========================================================

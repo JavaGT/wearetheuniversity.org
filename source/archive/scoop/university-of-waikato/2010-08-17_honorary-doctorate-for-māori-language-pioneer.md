@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-māori-language-pioneer
-title: "Honorary doctorate for Māori language pioneer"
-date: 2010-08-17
-source-url: https://www.scoop.co.nz/stories/ED1008/S00065/honorary-doctorate-for-maori-language-pioneer.htm
+title: Honorary doctorate for Māori language pioneer
+date: 2010-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00065/honorary-doctorate-for-maori-language-pioneer.htm
 author: university-of-waikato
+permalink: /archive/2010/08/17/honorary-doctorate-for-m/index.html
+layout: layout.njk
 ---
 Honorary doctorate for Māori language pioneer
 =============================================

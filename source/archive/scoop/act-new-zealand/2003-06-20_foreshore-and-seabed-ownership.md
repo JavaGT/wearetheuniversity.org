@@ -1,9 +1,12 @@
 ---
 slug: foreshore-and-seabed-ownership
-title: "Foreshore And Seabed Ownership"
-date: 2003-06-20
-source-url: https://www.scoop.co.nz/stories/PA0306/S00371/foreshore-and-seabed-ownership.htm
+title: Foreshore And Seabed Ownership
+date: 2003-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00371/foreshore-and-seabed-ownership.htm
 author: act-new-zealand
+permalink: /archive/2003/06/20/foreshore-and-seabed-ownership/index.html
+layout: layout.njk
 ---
 Foreshore And Seabed Ownership
 ==============================

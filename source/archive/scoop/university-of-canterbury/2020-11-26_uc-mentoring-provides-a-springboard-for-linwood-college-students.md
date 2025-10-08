@@ -1,9 +1,13 @@
 ---
 slug: uc-mentoring-provides-a-springboard-for-linwood-college-students
-title: "UC Mentoring Provides A Springboard For Linwood College Students"
-date: 2020-11-26
-source-url: https://www.scoop.co.nz/stories/ED2011/S00056/uc-mentoring-provides-a-springboard-for-linwood-college-students.htm
+title: UC Mentoring Provides A Springboard For Linwood College Students
+date: 2020-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00056/uc-mentoring-provides-a-springboard-for-linwood-college-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/26/uc-mentoring-provides-a-springboard-for-linwood-college-students/index.html
+layout: layout.njk
 ---
 UC Mentoring Provides A Springboard For Linwood College Students
 ================================================================

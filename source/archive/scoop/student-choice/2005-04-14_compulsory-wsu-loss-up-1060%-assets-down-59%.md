@@ -1,9 +1,12 @@
 ---
 slug: compulsory-wsu-loss-up-1060%-assets-down-59%
-title: "Compulsory WSU loss up 1060%, assets down 59%"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/ED0504/S00049/compulsory-wsu-loss-up-1060-assets-down-59.htm
+title: Compulsory WSU loss up 1060%, assets down 59%
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00049/compulsory-wsu-loss-up-1060-assets-down-59.htm
 author: student-choice
+permalink: /archive/2005/04/14/compulsory-wsu-loss-up-1060/index.html
+layout: layout.njk
 ---
 Compulsory WSU loss up 1060%, assets down 59%
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-stalling-tactics-cost-taxpayers-thousands
-title: "Govt stalling tactics cost taxpayers thousands"
-date: 2011-06-10
-source-url: https://www.scoop.co.nz/stories/PA1106/S00169/govt-stalling-tactics-cost-taxpayers-thousands.htm
+title: Govt stalling tactics cost taxpayers thousands
+date: 2011-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00169/govt-stalling-tactics-cost-taxpayers-thousands.htm
 author: green-party
+permalink: /archive/2011/06/10/govt-stalling-tactics-cost-taxpayers-thousands/index.html
+layout: layout.njk
 ---
 Govt stalling tactics cost taxpayers thousands
 ==============================================

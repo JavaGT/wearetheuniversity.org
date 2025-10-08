@@ -1,9 +1,13 @@
 ---
 slug: global-food-crisis-focus-for-foreign-policy-school
-title: "Global food crisis focus for Foreign Policy School"
-date: 2009-05-07
-source-url: https://www.scoop.co.nz/stories/ED0905/S00031/global-food-crisis-focus-for-foreign-policy-school.htm
+title: Global food crisis focus for Foreign Policy School
+date: 2009-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00031/global-food-crisis-focus-for-foreign-policy-school.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/05/07/global-food-crisis-focus-for-foreign-policy-school/index.html
+layout: layout.njk
 ---
 Global food crisis focus for Foreign Policy School
 ==================================================

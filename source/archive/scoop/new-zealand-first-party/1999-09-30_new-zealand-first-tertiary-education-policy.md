@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-tertiary-education-policy
-title: "New Zealand First Tertiary Education Policy"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00654/new-zealand-first-tertiary-education-policy.htm
+title: New Zealand First Tertiary Education Policy
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00654/new-zealand-first-tertiary-education-policy.htm
 author: new-zealand-first-party
+permalink: /archive/1999/09/30/new-zealand-first-tertiary-education-policy/index.html
+layout: layout.njk
 ---
 New Zealand First Tertiary Education Policy
 ===========================================

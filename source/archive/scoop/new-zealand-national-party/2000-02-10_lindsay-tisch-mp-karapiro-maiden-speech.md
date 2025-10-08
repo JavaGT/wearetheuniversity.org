@@ -1,9 +1,12 @@
 ---
 slug: lindsay-tisch-mp-karapiro-maiden-speech
-title: "Lindsay Tisch, MP Karapiro - Maiden  Speech"
-date: 2000-02-10
-source-url: https://www.scoop.co.nz/stories/PA0002/S00122/lindsay-tisch-mp-karapiro-maiden-speech.htm
+title: Lindsay Tisch, MP Karapiro - Maiden  Speech
+date: 2000-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00122/lindsay-tisch-mp-karapiro-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/10/lindsay-tisch-mp-karapiro-maiden-speech/index.html
+layout: layout.njk
 ---
 Lindsay Tisch, MP Karapiro - Maiden Speech
 ==========================================

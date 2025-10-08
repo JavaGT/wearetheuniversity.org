@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-to-demolish-two-buildings
-title: "University of Canterbury to demolish two buildings"
-date: 2011-09-27
-source-url: https://www.scoop.co.nz/stories/AK1109/S00759/university-of-canterbury-to-demolish-two-buildings.htm
+title: University of Canterbury to demolish two buildings
+date: 2011-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1109/S00759/university-of-canterbury-to-demolish-two-buildings.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/09/27/university-of-canterbury-to-demolish-two-buildings/index.html
+layout: layout.njk
 ---
 University of Canterbury to demolish two buildings
 ==================================================

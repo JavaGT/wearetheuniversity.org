@@ -1,9 +1,12 @@
 ---
 slug: rebuild-will-need-urgent-action-on-immigration
-title: "Rebuild Will Need Urgent Action On Immigration"
-date: 2023-02-23
-source-url: https://www.scoop.co.nz/stories/PA2302/S00118/rebuild-will-need-urgent-action-on-immigration.htm
+title: Rebuild Will Need Urgent Action On Immigration
+date: 2023-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00118/rebuild-will-need-urgent-action-on-immigration.htm
 author: new-zealand-national-party
+permalink: /archive/2023/02/23/rebuild-will-need-urgent-action-on-immigration/index.html
+layout: layout.njk
 ---
 Rebuild Will Need Urgent Action On Immigration
 ==============================================

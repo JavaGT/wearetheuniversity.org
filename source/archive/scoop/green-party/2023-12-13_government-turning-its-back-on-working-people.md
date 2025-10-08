@@ -1,9 +1,12 @@
 ---
 slug: government-turning-its-back-on-working-people
-title: "Government Turning Its Back On Working People"
-date: 2023-12-13
-source-url: https://www.scoop.co.nz/stories/PA2312/S00030/government-turning-its-back-on-working-people.htm
+title: Government Turning Its Back On Working People
+date: 2023-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2312/S00030/government-turning-its-back-on-working-people.htm
 author: green-party
+permalink: /archive/2023/12/13/government-turning-its-back-on-working-people/index.html
+layout: layout.njk
 ---
 Government Turning Its Back On Working People
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-spending-thousands-more-per-prison-bed
-title: "Govt spending thousands more per prison bed"
-date: 2018-07-19
-source-url: https://www.scoop.co.nz/stories/PA1807/S00160/govt-spending-thousands-more-per-prison-bed.htm
+title: Govt spending thousands more per prison bed
+date: 2018-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00160/govt-spending-thousands-more-per-prison-bed.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/19/govt-spending-thousands-more-per-prison-bed/index.html
+layout: layout.njk
 ---
 Govt spending thousands more per prison bed
 ===========================================

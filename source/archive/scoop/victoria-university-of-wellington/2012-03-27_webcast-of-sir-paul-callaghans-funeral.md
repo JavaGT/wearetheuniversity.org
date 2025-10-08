@@ -1,9 +1,12 @@
 ---
 slug: webcast-of-sir-paul-callaghans-funeral
-title: "Webcast of Sir Paul Callaghan’s funeral"
-date: 2012-03-27
-source-url: https://www.scoop.co.nz/stories/CU1203/S00439/webcast-of-sir-paul-callaghans-funeral.htm
+title: Webcast of Sir Paul Callaghan’s funeral
+date: 2012-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1203/S00439/webcast-of-sir-paul-callaghans-funeral.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/03/27/webcast-of-sir-paul-callaghans-funeral/index.html
+layout: layout.njk
 ---
 Webcast of Sir Paul Callaghan’s funeral
 =======================================

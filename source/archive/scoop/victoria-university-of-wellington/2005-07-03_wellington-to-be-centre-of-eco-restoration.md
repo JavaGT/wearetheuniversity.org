@@ -1,9 +1,12 @@
 ---
 slug: wellington-to-be-centre-of-eco-restoration
-title: "Wellington to be centre of eco-restoration"
-date: 2005-07-03
-source-url: https://www.scoop.co.nz/stories/SC0507/S00007/wellington-to-be-centre-of-eco-restoration.htm
+title: Wellington to be centre of eco-restoration
+date: 2005-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0507/S00007/wellington-to-be-centre-of-eco-restoration.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/07/03/wellington-to-be-centre-of-eco-restoration/index.html
+layout: layout.njk
 ---
 Wellington to be centre of eco-restoration
 ==========================================

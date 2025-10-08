@@ -1,9 +1,13 @@
 ---
 slug: worlds-first-earthquake-damage-resistant-bridge-testing
-title: "World's first earthquake damage-resistant bridge testing"
-date: 2014-04-28
-source-url: https://www.scoop.co.nz/stories/AK1404/S00577/worlds-first-earthquake-damage-resistant-bridge-testing.htm
+title: World's first earthquake damage-resistant bridge testing
+date: 2014-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1404/S00577/worlds-first-earthquake-damage-resistant-bridge-testing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/28/worlds-first-earthquake-damage-resistant-bridge-testing/index.html
+layout: layout.njk
 ---
 World's first earthquake damage-resistant bridge testing
 ========================================================

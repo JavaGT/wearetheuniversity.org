@@ -1,9 +1,12 @@
 ---
 slug: call-for-better-recognition-of-endometriosis
-title: "Call for better recognition of endometriosis"
-date: 2005-10-14
-source-url: https://www.scoop.co.nz/stories/GE0510/S00049/call-for-better-recognition-of-endometriosis.htm
+title: Call for better recognition of endometriosis
+date: 2005-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0510/S00049/call-for-better-recognition-of-endometriosis.htm
 author: massey-university
+permalink: /archive/2005/10/14/call-for-better-recognition-of-endometriosis/index.html
+layout: layout.njk
 ---
 Call for better recognition of endometriosis
 ============================================

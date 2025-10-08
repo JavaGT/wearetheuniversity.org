@@ -1,9 +1,12 @@
 ---
 slug: more-trouble-ahead-for-tertiary-education
-title: "More trouble ahead for tertiary education"
-date: 2004-10-28
-source-url: https://www.scoop.co.nz/stories/ED0410/S00097/more-trouble-ahead-for-tertiary-education.htm
+title: More trouble ahead for tertiary education
+date: 2004-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00097/more-trouble-ahead-for-tertiary-education.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/28/more-trouble-ahead-for-tertiary-education/index.html
+layout: layout.njk
 ---
 More trouble ahead for tertiary education
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: restoration-up-close-and-personal
-title: "Restoration up close and personal"
-date: 2015-08-21
-source-url: https://www.scoop.co.nz/stories/AK1508/S00413/restoration-up-close-and-personal.htm
+title: Restoration up close and personal
+date: 2015-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1508/S00413/restoration-up-close-and-personal.htm
 author: lincoln-university
+permalink: /archive/2015/08/21/restoration-up-close-and-personal/index.html
+layout: layout.njk
 ---
 Restoration up close and personal
 =================================

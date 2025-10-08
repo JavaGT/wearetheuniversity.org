@@ -1,9 +1,12 @@
 ---
 slug: black-holes-making-waves-around-the-universe
-title: "Black holes making waves around the Universe"
-date: 2016-02-29
-source-url: https://www.scoop.co.nz/stories/SC1602/S00076/black-holes-making-waves-around-the-universe.htm
+title: Black holes making waves around the Universe
+date: 2016-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00076/black-holes-making-waves-around-the-universe.htm
 author: university-of-canterbury
+permalink: /archive/2016/02/29/black-holes-making-waves-around-the-universe/index.html
+layout: layout.njk
 ---
 Black holes making waves around the Universe
 ============================================

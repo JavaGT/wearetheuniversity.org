@@ -1,9 +1,13 @@
 ---
 slug: $130000-to-improve-nz-students-e-learning-levels
-title: "$130,000 to improve NZ students’ e-learning levels"
-date: 2012-12-12
-source-url: https://www.scoop.co.nz/stories/ED1212/S00078/130000-to-improve-nz-students-e-learning-levels.htm
+title: $130,000 to improve NZ students’ e-learning levels
+date: 2012-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00078/130000-to-improve-nz-students-e-learning-levels.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/12/130-000-to-improve-nz-students-e-learning-levels/index.html
+layout: layout.njk
 ---
 $130,000 to improve NZ students’ e-learning levels
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: gifted-teenagers-headed-for-mars
-title: "Gifted teenagers headed for MARS"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/ED0808/S00077/gifted-teenagers-headed-for-mars.htm
+title: Gifted teenagers headed for MARS
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00077/gifted-teenagers-headed-for-mars.htm
 author: massey-university
+permalink: /archive/2008/08/26/gifted-teenagers-headed-for-mars/index.html
+layout: layout.njk
 ---
 Gifted teenagers headed for MARS
 ================================

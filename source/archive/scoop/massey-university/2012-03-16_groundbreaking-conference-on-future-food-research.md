@@ -1,9 +1,13 @@
 ---
 slug: groundbreaking-conference-on-future-food-research
-title: "Groundbreaking conference on future food research"
-date: 2012-03-16
-source-url: https://www.scoop.co.nz/stories/SC1203/S00033/groundbreaking-conference-on-future-food-research.htm
+title: Groundbreaking conference on future food research
+date: 2012-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1203/S00033/groundbreaking-conference-on-future-food-research.htm
 author: massey-university
+permalink: >-
+  /archive/2012/03/16/groundbreaking-conference-on-future-food-research/index.html
+layout: layout.njk
 ---
 Groundbreaking conference on future food research
 =================================================

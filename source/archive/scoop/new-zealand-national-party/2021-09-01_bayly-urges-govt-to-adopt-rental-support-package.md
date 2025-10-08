@@ -1,9 +1,13 @@
 ---
 slug: bayly-urges-govt-to-adopt-rental-support-package
-title: "Bayly Urges Govt To Adopt Rental Support Package"
-date: 2021-09-01
-source-url: https://www.scoop.co.nz/stories/PA2109/S00009/bayly-urges-govt-to-adopt-rental-support-package.htm
+title: Bayly Urges Govt To Adopt Rental Support Package
+date: 2021-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00009/bayly-urges-govt-to-adopt-rental-support-package.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/01/bayly-urges-govt-to-adopt-rental-support-package/index.html
+layout: layout.njk
 ---
 Bayly Urges Govt To Adopt Rental Support Package
 ================================================

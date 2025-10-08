@@ -1,9 +1,13 @@
 ---
 slug: government-should-adopt-school-equity-legislation
-title: "Government should adopt school equity legislation"
-date: 2018-12-17
-source-url: https://www.scoop.co.nz/stories/PA1812/S00204/government-should-adopt-school-equity-legislation.htm
+title: Government should adopt school equity legislation
+date: 2018-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00204/government-should-adopt-school-equity-legislation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/12/17/government-should-adopt-school-equity-legislation/index.html
+layout: layout.njk
 ---
 Government should adopt school equity legislation
 =================================================

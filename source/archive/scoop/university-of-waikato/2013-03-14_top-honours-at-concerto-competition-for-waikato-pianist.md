@@ -1,9 +1,13 @@
 ---
 slug: top-honours-at-concerto-competition-for-waikato-pianist
-title: "Top Honours at Concerto Competition for Waikato Pianist"
-date: 2013-03-14
-source-url: https://www.scoop.co.nz/stories/CU1303/S00303/top-honours-at-concerto-competition-for-waikato-pianist.htm
+title: Top Honours at Concerto Competition for Waikato Pianist
+date: 2013-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1303/S00303/top-honours-at-concerto-competition-for-waikato-pianist.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/03/14/top-honours-at-concerto-competition-for-waikato-pianist/index.html
+layout: layout.njk
 ---
 Top Honours at Concerto Competition for Waikato Pianist
 =======================================================

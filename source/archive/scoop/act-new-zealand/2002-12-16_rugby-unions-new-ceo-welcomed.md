@@ -1,9 +1,12 @@
 ---
 slug: rugby-unions-new-ceo-welcomed
-title: "Rugby Union?s New CEO Welcomed"
-date: 2002-12-16
-source-url: https://www.scoop.co.nz/stories/PA0212/S00363/rugby-unions-new-ceo-welcomed.htm
+title: Rugby Union?s New CEO Welcomed
+date: 2002-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00363/rugby-unions-new-ceo-welcomed.htm
 author: act-new-zealand
+permalink: /archive/2002/12/16/rugby-unions-new-ceo-welcomed/index.html
+layout: layout.njk
 ---
 Rugby Union?s New CEO Welcomed
 ==============================

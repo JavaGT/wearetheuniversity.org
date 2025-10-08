@@ -1,9 +1,13 @@
 ---
 slug: aut-tops-universities-for-women-in-senior-position
-title: "AUT tops universities for women in senior position"
-date: 2006-04-07
-source-url: https://www.scoop.co.nz/stories/ED0604/S00027/aut-tops-universities-for-women-in-senior-position.htm
+title: AUT tops universities for women in senior position
+date: 2006-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00027/aut-tops-universities-for-women-in-senior-position.htm
 author: aut-university
+permalink: >-
+  /archive/2006/04/07/aut-tops-universities-for-women-in-senior-position/index.html
+layout: layout.njk
 ---
 AUT tops universities for women in senior position
 ==================================================

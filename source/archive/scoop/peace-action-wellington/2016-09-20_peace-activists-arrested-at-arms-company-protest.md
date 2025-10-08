@@ -1,9 +1,13 @@
 ---
 slug: peace-activists-arrested-at-arms-company-protest
-title: "Peace activists arrested at arms company protest"
-date: 2016-09-20
-source-url: https://www.scoop.co.nz/stories/PO1609/S00243/peace-activists-arrested-at-arms-company-protest.htm
+title: Peace activists arrested at arms company protest
+date: 2016-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1609/S00243/peace-activists-arrested-at-arms-company-protest.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2016/09/20/peace-activists-arrested-at-arms-company-protest/index.html
+layout: layout.njk
 ---
 Peace activists arrested at arms company protest
 ================================================

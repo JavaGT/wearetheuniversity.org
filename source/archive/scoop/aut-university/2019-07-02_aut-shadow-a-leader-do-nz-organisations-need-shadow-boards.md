@@ -1,9 +1,13 @@
 ---
 slug: aut-shadow-a-leader-do-nz-organisations-need-shadow-boards
-title: "AUT Shadow a Leader- Do NZ organisations need Shadow Boards?"
-date: 2019-07-02
-source-url: https://www.scoop.co.nz/stories/ED1907/S00003/aut-shadow-a-leader-do-nz-organisations-need-shadow-boards.htm
+title: AUT Shadow a Leader- Do NZ organisations need Shadow Boards?
+date: 2019-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1907/S00003/aut-shadow-a-leader-do-nz-organisations-need-shadow-boards.htm
 author: aut-university
+permalink: >-
+  /archive/2019/07/02/aut-shadow-a-leader-do-nz-organisations-need-shadow-boards/index.html
+layout: layout.njk
 ---
 AUT Shadow a Leader- Do NZ organisations need Shadow Boards?
 ============================================================

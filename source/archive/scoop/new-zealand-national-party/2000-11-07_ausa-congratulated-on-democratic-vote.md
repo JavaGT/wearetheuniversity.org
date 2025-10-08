@@ -1,9 +1,12 @@
 ---
 slug: ausa-congratulated-on-democratic-vote
-title: "AUSA congratulated on democratic vote"
-date: 2000-11-07
-source-url: https://www.scoop.co.nz/stories/PA0011/S00136/ausa-congratulated-on-democratic-vote.htm
+title: AUSA congratulated on democratic vote
+date: 2000-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00136/ausa-congratulated-on-democratic-vote.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/07/ausa-congratulated-on-democratic-vote/index.html
+layout: layout.njk
 ---
 AUSA congratulated on democratic vote
 =====================================

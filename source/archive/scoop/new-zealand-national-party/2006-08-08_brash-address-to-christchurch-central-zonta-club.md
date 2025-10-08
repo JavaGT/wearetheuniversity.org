@@ -1,9 +1,13 @@
 ---
 slug: brash-address-to-christchurch-central-zonta-club
-title: "Brash: Address to Christchurch Central Zonta Club"
-date: 2006-08-08
-source-url: https://www.scoop.co.nz/stories/PA0608/S00117/brash-address-to-christchurch-central-zonta-club.htm
+title: 'Brash: Address to Christchurch Central Zonta Club'
+date: 2006-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00117/brash-address-to-christchurch-central-zonta-club.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/08/08/brash-address-to-christchurch-central-zonta-club/index.html
+layout: layout.njk
 ---
 Brash: Address to Christchurch Central Zonta Club
 =================================================

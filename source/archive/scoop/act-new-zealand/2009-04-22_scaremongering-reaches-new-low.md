@@ -1,9 +1,12 @@
 ---
 slug: scaremongering-reaches-new-low
-title: "Scaremongering Reaches New Low"
-date: 2009-04-22
-source-url: https://www.scoop.co.nz/stories/PA0904/S00271/scaremongering-reaches-new-low.htm
+title: Scaremongering Reaches New Low
+date: 2009-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00271/scaremongering-reaches-new-low.htm
 author: act-new-zealand
+permalink: /archive/2009/04/22/scaremongering-reaches-new-low/index.html
+layout: layout.njk
 ---
 Scaremongering Reaches New Low
 ==============================

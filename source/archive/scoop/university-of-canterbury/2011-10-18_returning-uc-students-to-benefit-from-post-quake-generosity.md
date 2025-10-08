@@ -1,9 +1,13 @@
 ---
 slug: returning-uc-students-to-benefit-from-post-quake-generosity
-title: "Returning UC students to benefit from post-quake generosity"
-date: 2011-10-18
-source-url: https://www.scoop.co.nz/stories/ED1110/S00080/returning-uc-students-to-benefit-from-post-quake-generosity.htm
+title: Returning UC students to benefit from post-quake generosity
+date: 2011-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00080/returning-uc-students-to-benefit-from-post-quake-generosity.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/10/18/returning-uc-students-to-benefit-from-post-quake-generosity/index.html
+layout: layout.njk
 ---
 Returning UC students to benefit from post-quake generosity
 ===========================================================

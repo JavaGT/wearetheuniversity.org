@@ -1,9 +1,13 @@
 ---
 slug: e-learning-a-powerful-tool-for-teaching-the-arts
-title: "E-learning a powerful tool for teaching the arts"
-date: 2011-04-06
-source-url: https://www.scoop.co.nz/stories/ED1104/S00023/e-learning-a-powerful-tool-for-teaching-the-arts.htm
+title: E-learning a powerful tool for teaching the arts
+date: 2011-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00023/e-learning-a-powerful-tool-for-teaching-the-arts.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/04/06/e-learning-a-powerful-tool-for-teaching-the-arts/index.html
+layout: layout.njk
 ---
 E-learning a powerful tool for teaching the arts
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: port-of-tauranga-economic-impacts
-title: "Port of Tauranga economic impacts"
-date: 2006-11-17
-source-url: https://www.scoop.co.nz/stories/ED0611/S00076/port-of-tauranga-economic-impacts.htm
+title: Port of Tauranga economic impacts
+date: 2006-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00076/port-of-tauranga-economic-impacts.htm
 author: waikato-university
+permalink: /archive/2006/11/17/port-of-tauranga-economic-impacts/index.html
+layout: layout.njk
 ---
 Port of Tauranga economic impacts
 =================================

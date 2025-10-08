@@ -1,9 +1,13 @@
 ---
 slug: environment-ministry-advice-shows-flaws-in-fast-track-approvals-bill
-title: "Environment Ministry Advice Shows Flaws In Fast Track Approvals Bill"
-date: 2024-05-20
-source-url: https://www.scoop.co.nz/stories/PO2405/S00090/environment-ministry-advice-shows-flaws-in-fast-track-approvals-bill.htm
+title: Environment Ministry Advice Shows Flaws In Fast Track Approvals Bill
+date: 2024-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2405/S00090/environment-ministry-advice-shows-flaws-in-fast-track-approvals-bill.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/05/20/environment-ministry-advice-shows-flaws-in-fast-track-approvals-bill/index.html
+layout: layout.njk
 ---
 Environment Ministry Advice Shows Flaws In Fast Track Approvals Bill
 ====================================================================

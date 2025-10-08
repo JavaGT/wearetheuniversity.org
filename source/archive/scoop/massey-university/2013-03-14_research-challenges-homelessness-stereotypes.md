@@ -1,9 +1,12 @@
 ---
 slug: research-challenges-homelessness-stereotypes
-title: "Research Challenges Homelessness Stereotypes"
-date: 2013-03-14
-source-url: https://www.scoop.co.nz/stories/ED1303/S00106/research-challenges-homelessness-stereotypes.htm
+title: Research Challenges Homelessness Stereotypes
+date: 2013-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00106/research-challenges-homelessness-stereotypes.htm
 author: massey-university
+permalink: /archive/2013/03/14/research-challenges-homelessness-stereotypes/index.html
+layout: layout.njk
 ---
 Research Challenges Homelessness Stereotypes
 ============================================

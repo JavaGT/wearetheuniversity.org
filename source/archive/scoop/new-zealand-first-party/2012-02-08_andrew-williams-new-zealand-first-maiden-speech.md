@@ -1,9 +1,12 @@
 ---
 slug: andrew-williams-new-zealand-first-maiden-speech
-title: "Andrew Williams, New Zealand First: Maiden Speech"
-date: 2012-02-08
-source-url: https://www.scoop.co.nz/stories/PA1202/S00084/andrew-williams-new-zealand-first-maiden-speech.htm
+title: 'Andrew Williams, New Zealand First: Maiden Speech'
+date: 2012-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00084/andrew-williams-new-zealand-first-maiden-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2012/02/08/andrew-williams-new-zealand-first-maiden-speech/index.html
+layout: layout.njk
 ---
 Andrew Williams, New Zealand First: Maiden Speech
 =================================================

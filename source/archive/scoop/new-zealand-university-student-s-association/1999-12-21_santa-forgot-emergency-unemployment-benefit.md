@@ -1,9 +1,12 @@
 ---
 slug: santa-forgot-emergency-unemployment-benefit
-title: "Santa forgot emergency unemployment benefit"
-date: 1999-12-21
-source-url: https://www.scoop.co.nz/stories/ED9912/S00010/santa-forgot-emergency-unemployment-benefit.htm
+title: Santa forgot emergency unemployment benefit
+date: 1999-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00010/santa-forgot-emergency-unemployment-benefit.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/12/21/santa-forgot-emergency-unemployment-benefit/index.html
+layout: layout.njk
 ---
 Santa forgot emergency unemployment benefit
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: research-into-cancer-of-the-uterus-given-big-boost
-title: "Research Into Cancer Of The Uterus Given Big Boost"
-date: 2003-11-11
-source-url: https://www.scoop.co.nz/stories/SC0311/S00042/research-into-cancer-of-the-uterus-given-big-boost.htm
+title: Research Into Cancer Of The Uterus Given Big Boost
+date: 2003-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0311/S00042/research-into-cancer-of-the-uterus-given-big-boost.htm
 author: university-of-otago
+permalink: >-
+  /archive/2003/11/11/research-into-cancer-of-the-uterus-given-big-boost/index.html
+layout: layout.njk
 ---
 Research Into Cancer Of The Uterus Given Big Boost
 ==================================================

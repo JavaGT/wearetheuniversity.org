@@ -1,9 +1,12 @@
 ---
 slug: tale-of-island-life-wins-scriptwriting-prize
-title: "Tale of island life wins scriptwriting prize"
-date: 2009-12-11
-source-url: https://www.scoop.co.nz/stories/CU0912/S00156/tale-of-island-life-wins-scriptwriting-prize.htm
+title: Tale of island life wins scriptwriting prize
+date: 2009-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0912/S00156/tale-of-island-life-wins-scriptwriting-prize.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/12/11/tale-of-island-life-wins-scriptwriting-prize/index.html
+layout: layout.njk
 ---
 Tale of island life wins scriptwriting prize
 ============================================

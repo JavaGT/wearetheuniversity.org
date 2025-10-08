@@ -1,9 +1,13 @@
 ---
 slug: productivity-commission-report-far-from-presenting-a-vision
-title: "Productivity Commission Report far from presenting a vision"
-date: 2016-09-29
-source-url: https://www.scoop.co.nz/stories/ED1609/S00149/productivity-commission-report-far-from-presenting-a-vision.htm
+title: Productivity Commission Report far from presenting a vision
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00149/productivity-commission-report-far-from-presenting-a-vision.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/09/29/productivity-commission-report-far-from-presenting-a-vision/index.html
+layout: layout.njk
 ---
 Productivity Commission Report far from presenting a vision
 ===========================================================

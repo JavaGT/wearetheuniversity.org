@@ -1,9 +1,12 @@
 ---
 slug: ethnic-gaps-in-life-expectancy-closing
-title: "Ethnic Gaps In Life Expectancy Closing"
-date: 2004-03-30
-source-url: https://www.scoop.co.nz/stories/GE0403/S00112/ethnic-gaps-in-life-expectancy-closing.htm
+title: Ethnic Gaps In Life Expectancy Closing
+date: 2004-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0403/S00112/ethnic-gaps-in-life-expectancy-closing.htm
 author: university-of-otago
+permalink: /archive/2004/03/30/ethnic-gaps-in-life-expectancy-closing/index.html
+layout: layout.njk
 ---
 Ethnic Gaps In Life Expectancy Closing
 ======================================

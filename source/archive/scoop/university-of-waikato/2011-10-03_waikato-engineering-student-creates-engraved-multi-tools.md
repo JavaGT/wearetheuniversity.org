@@ -1,9 +1,13 @@
 ---
 slug: waikato-engineering-student-creates-engraved-multi-tools
-title: "Waikato engineering student creates engraved Multi-tools"
-date: 2011-10-03
-source-url: https://www.scoop.co.nz/stories/ED1110/S00006/waikato-engineering-student-creates-engraved-multi-tools.htm
+title: Waikato engineering student creates engraved Multi-tools
+date: 2011-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00006/waikato-engineering-student-creates-engraved-multi-tools.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/10/03/waikato-engineering-student-creates-engraved-multi-tools/index.html
+layout: layout.njk
 ---
 Waikato engineering student creates engraved Multi-tools
 ========================================================

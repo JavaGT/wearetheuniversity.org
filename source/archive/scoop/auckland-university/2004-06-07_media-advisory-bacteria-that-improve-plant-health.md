@@ -1,9 +1,13 @@
 ---
 slug: media-advisory-bacteria-that-improve-plant-health
-title: "Media Advisory: Bacteria That Improve Plant Health"
-date: 2004-06-07
-source-url: https://www.scoop.co.nz/stories/SC0406/S00015/media-advisory-bacteria-that-improve-plant-health.htm
+title: 'Media Advisory: Bacteria That Improve Plant Health'
+date: 2004-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0406/S00015/media-advisory-bacteria-that-improve-plant-health.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/06/07/media-advisory-bacteria-that-improve-plant-health/index.html
+layout: layout.njk
 ---
 Media Advisory: Bacteria That Improve Plant Health
 ==================================================

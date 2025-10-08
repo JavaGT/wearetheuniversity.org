@@ -1,9 +1,11 @@
 ---
 slug: newman-online-3-june-2005
-title: "Newman Online 3 June 2005"
-date: 2005-06-03
+title: Newman Online 3 June 2005
+date: 2005-06-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0506/S00097/newman-online-3-june-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/06/03/newman-online-3-june-2005/index.html
+layout: layout.njk
 ---
 Newman Online 3 June 2005
 =========================

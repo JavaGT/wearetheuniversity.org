@@ -1,9 +1,12 @@
 ---
 slug: child-poverty-expert-to-visit-new-zealand
-title: "Child poverty expert to visit New Zealand"
-date: 2012-08-08
-source-url: https://www.scoop.co.nz/stories/PO1208/S00112/child-poverty-expert-to-visit-new-zealand.htm
+title: Child poverty expert to visit New Zealand
+date: 2012-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00112/child-poverty-expert-to-visit-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/08/08/child-poverty-expert-to-visit-new-zealand/index.html
+layout: layout.njk
 ---
 Child poverty expert to visit New Zealand
 =========================================

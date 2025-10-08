@@ -1,9 +1,12 @@
 ---
 slug: one-million-reasons-to-change-the-government
-title: "One million reasons to change the Government"
-date: 2016-09-06
-source-url: https://www.scoop.co.nz/stories/PA1609/S00087/one-million-reasons-to-change-the-government.htm
+title: One million reasons to change the Government
+date: 2016-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00087/one-million-reasons-to-change-the-government.htm
 author: green-party
+permalink: /archive/2016/09/06/one-million-reasons-to-change-the-government/index.html
+layout: layout.njk
 ---
 One million reasons to change the Government
 ============================================

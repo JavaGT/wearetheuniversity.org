@@ -1,9 +1,12 @@
 ---
 slug: new-associate-dean-māori-appointed-to-otago-business-school
-title: "New Associate Dean Māori appointed to Otago Business School"
-date: 2017-04-06
-source-url: https://www.scoop.co.nz/stories/ED1704/S00014/new-associate-dean-maori-appointed-to-otago-business-school.htm
+title: New Associate Dean Māori appointed to Otago Business School
+date: 2017-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00014/new-associate-dean-maori-appointed-to-otago-business-school.htm
 author: university-of-otago
+permalink: /archive/2017/04/06/new-associate-dean-m/index.html
+layout: layout.njk
 ---
 New Associate Dean Māori appointed to Otago Business School
 ===========================================================

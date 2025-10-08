@@ -1,9 +1,13 @@
 ---
 slug: new-agreement-important-for-construction-industry
-title: "New Agreement Important For Construction Industry"
-date: 2005-02-04
-source-url: https://www.scoop.co.nz/stories/SC0502/S00014/new-agreement-important-for-construction-industry.htm
+title: New Agreement Important For Construction Industry
+date: 2005-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0502/S00014/new-agreement-important-for-construction-industry.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/02/04/new-agreement-important-for-construction-industry/index.html
+layout: layout.njk
 ---
 New Agreement Important For Construction Industry
 =================================================

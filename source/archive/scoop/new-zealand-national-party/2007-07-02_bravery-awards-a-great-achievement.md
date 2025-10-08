@@ -1,9 +1,12 @@
 ---
 slug: bravery-awards-a-great-achievement
-title: "Bravery awards a great achievement"
-date: 2007-07-02
-source-url: https://www.scoop.co.nz/stories/PA0707/S00019/bravery-awards-a-great-achievement.htm
+title: Bravery awards a great achievement
+date: 2007-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00019/bravery-awards-a-great-achievement.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/02/bravery-awards-a-great-achievement/index.html
+layout: layout.njk
 ---
 Bravery awards a great achievement
 ==================================

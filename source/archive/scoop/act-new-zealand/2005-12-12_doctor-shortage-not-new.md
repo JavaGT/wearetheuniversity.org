@@ -1,9 +1,11 @@
 ---
 slug: doctor-shortage-not-new
-title: "Doctor Shortage Not New"
-date: 2005-12-12
+title: Doctor Shortage Not New
+date: 2005-12-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00167/doctor-shortage-not-new.htm
 author: act-new-zealand
+permalink: /archive/2005/12/12/doctor-shortage-not-new/index.html
+layout: layout.njk
 ---
 Doctor Shortage Not New
 =======================

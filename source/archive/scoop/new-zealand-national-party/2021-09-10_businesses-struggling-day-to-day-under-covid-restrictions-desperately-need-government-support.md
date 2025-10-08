@@ -1,9 +1,16 @@
 ---
-slug: businesses-struggling-day-to-day-under-covid-restrictions-desperately-need-government-support
-title: "Businesses struggling day-to-day under Covid restrictions desperately need Government support"
-date: 2021-09-10
-source-url: https://www.scoop.co.nz/stories/PA2109/S00096/businesses-struggling-day-to-day-under-covid-restrictions-desperately-need-government-support.htm
+slug: >-
+  businesses-struggling-day-to-day-under-covid-restrictions-desperately-need-government-support
+title: >-
+  Businesses struggling day-to-day under Covid restrictions desperately need
+  Government support
+date: 2021-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00096/businesses-struggling-day-to-day-under-covid-restrictions-desperately-need-government-support.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/10/businesses-struggling-day-to-day-under-covid-restrictions-desperately-need-government-support/index.html
+layout: layout.njk
 ---
 Businesses struggling day-to-day under Covid restrictions desperately need Government support
 =============================================================================================

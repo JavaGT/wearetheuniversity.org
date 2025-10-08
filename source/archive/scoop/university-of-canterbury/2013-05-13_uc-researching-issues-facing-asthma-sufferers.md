@@ -1,9 +1,12 @@
 ---
 slug: uc-researching-issues-facing-asthma-sufferers
-title: "UC researching issues facing asthma sufferers"
-date: 2013-05-13
-source-url: https://www.scoop.co.nz/stories/GE1305/S00075/uc-researching-issues-facing-asthma-sufferers.htm
+title: UC researching issues facing asthma sufferers
+date: 2013-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00075/uc-researching-issues-facing-asthma-sufferers.htm
 author: university-of-canterbury
+permalink: /archive/2013/05/13/uc-researching-issues-facing-asthma-sufferers/index.html
+layout: layout.njk
 ---
 UC researching issues facing asthma sufferers
 =============================================

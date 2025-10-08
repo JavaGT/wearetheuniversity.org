@@ -1,9 +1,12 @@
 ---
 slug: something-for-everyone-at-winter-lecture-series
-title: "Something for everyone at Winter Lecture Series"
-date: 2015-07-15
-source-url: https://www.scoop.co.nz/stories/ED1507/S00072/something-for-everyone-at-winter-lecture-series.htm
+title: Something for everyone at Winter Lecture Series
+date: 2015-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00072/something-for-everyone-at-winter-lecture-series.htm
 author: waikato-university
+permalink: /archive/2015/07/15/something-for-everyone-at-winter-lecture-series/index.html
+layout: layout.njk
 ---
 Something for everyone at Winter Lecture Series
 ===============================================

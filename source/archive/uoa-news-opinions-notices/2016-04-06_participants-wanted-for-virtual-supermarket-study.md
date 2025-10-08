@@ -1,8 +1,12 @@
 ---
 slug: participants-wanted-for-virtual-supermarket-study
-title: "Participants wanted for virtual supermarket study"
-date: 2016-04-06
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/participants-wanted-for-virtual-supermarket-study.html
+title: Participants wanted for virtual supermarket study
+date: 2016-04-06T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/participants-wanted-for-virtual-supermarket-study.html
+permalink: >-
+  /archive/2016/04/06/participants-wanted-for-virtual-supermarket-study/index.html
+layout: layout.njk
 ---
 Participants wanted for virtual supermarket study
 =================================================

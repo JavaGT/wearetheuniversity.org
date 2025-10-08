@@ -1,9 +1,12 @@
 ---
 slug: statement-by-don-brash-on-national-leadership
-title: "Statement By Don Brash On National Leadership"
-date: 2003-10-26
-source-url: https://www.scoop.co.nz/stories/PA0310/S00609/statement-by-don-brash-on-national-leadership.htm
+title: Statement By Don Brash On National Leadership
+date: 2003-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00609/statement-by-don-brash-on-national-leadership.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/26/statement-by-don-brash-on-national-leadership/index.html
+layout: layout.njk
 ---
 Statement By Don Brash On National Leadership
 =============================================

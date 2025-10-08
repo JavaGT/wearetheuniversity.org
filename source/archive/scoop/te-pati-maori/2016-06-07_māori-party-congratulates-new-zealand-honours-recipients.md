@@ -1,9 +1,12 @@
 ---
 slug: māori-party-congratulates-new-zealand-honours-recipients
-title: "Māori Party congratulates New Zealand Honours recipients"
-date: 2016-06-07
-source-url: https://www.scoop.co.nz/stories/PA1606/S00116/maori-party-congratulates-new-zealand-honours-recipients.htm
+title: Māori Party congratulates New Zealand Honours recipients
+date: 2016-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00116/maori-party-congratulates-new-zealand-honours-recipients.htm
 author: te-pati-maori
+permalink: /archive/2016/06/07/m/index.html
+layout: layout.njk
 ---
 Māori Party congratulates New Zealand Honours recipients
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: box-city-highlights-student-hardship
-title: "‘Box City’ highlights student hardship"
-date: 2007-08-07
-source-url: https://www.scoop.co.nz/stories/ED0708/S00019/box-city-highlights-student-hardship.htm
+title: ‘Box City’ highlights student hardship
+date: 2007-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00019/box-city-highlights-student-hardship.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2007/08/07/box-city-highlights-student-hardship/index.html
+layout: layout.njk
 ---
 ‘Box City’ highlights student hardship
 ======================================

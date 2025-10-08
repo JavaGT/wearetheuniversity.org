@@ -1,9 +1,12 @@
 ---
 slug: financial-markets-(regulators-and-kiwisaver)-bill
-title: "Financial Markets (Regulators and KiwiSaver) Bill"
-date: 2010-09-24
-source-url: https://www.scoop.co.nz/stories/PA1009/S00359/financial-markets-regulators-and-kiwisaver-bill.htm
+title: Financial Markets (Regulators and KiwiSaver) Bill
+date: 2010-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00359/financial-markets-regulators-and-kiwisaver-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/09/24/financial-markets-/index.html
+layout: layout.njk
 ---
 Financial Markets (Regulators and KiwiSaver) Bill
 =================================================

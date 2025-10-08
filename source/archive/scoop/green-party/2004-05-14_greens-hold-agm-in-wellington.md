@@ -1,9 +1,12 @@
 ---
 slug: greens-hold-agm-in-wellington
-title: "Greens hold AGM in Wellington"
-date: 2004-05-14
-source-url: https://www.scoop.co.nz/stories/PA0405/S00308/greens-hold-agm-in-wellington.htm
+title: Greens hold AGM in Wellington
+date: 2004-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00308/greens-hold-agm-in-wellington.htm
 author: green-party
+permalink: /archive/2004/05/14/greens-hold-agm-in-wellington/index.html
+layout: layout.njk
 ---
 Greens hold AGM in Wellington
 =============================

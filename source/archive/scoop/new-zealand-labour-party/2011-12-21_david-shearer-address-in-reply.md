@@ -1,9 +1,12 @@
 ---
 slug: david-shearer-address-in-reply
-title: "David Shearer: Address In Reply"
-date: 2011-12-21
-source-url: https://www.scoop.co.nz/stories/PA1112/S00158/david-shearer-address-in-reply.htm
+title: 'David Shearer: Address In Reply'
+date: 2011-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00158/david-shearer-address-in-reply.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/21/david-shearer-address-in-reply/index.html
+layout: layout.njk
 ---
 David Shearer: Address In Reply
 ===============================

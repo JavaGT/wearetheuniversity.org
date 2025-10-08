@@ -1,9 +1,11 @@
 ---
 slug: sharples-adjournment-debate
-title: "Sharples: Adjournment Debate"
-date: 2010-12-15
+title: 'Sharples: Adjournment Debate'
+date: 2010-12-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1012/S00304/sharples-adjournment-debate.htm
 author: te-pati-maori
+permalink: /archive/2010/12/15/sharples-adjournment-debate/index.html
+layout: layout.njk
 ---
 Sharples: Adjournment Debate
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: uc-to-bring-600-year-old-treasure-to-the-world
-title: "UC to bring 600-year-old treasure to the world"
-date: 2018-01-03
-source-url: https://www.scoop.co.nz/stories/ED1801/S00001/uc-to-bring-600-year-old-treasure-to-the-world.htm
+title: UC to bring 600-year-old treasure to the world
+date: 2018-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1801/S00001/uc-to-bring-600-year-old-treasure-to-the-world.htm
 author: university-of-canterbury
+permalink: /archive/2018/01/03/uc-to-bring-600-year-old-treasure-to-the-world/index.html
+layout: layout.njk
 ---
 UC to bring 600-year-old treasure to the world
 ==============================================

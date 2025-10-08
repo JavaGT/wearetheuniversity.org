@@ -1,9 +1,12 @@
 ---
 slug: shipley-as-ecan-commissioner-not-acceptable
-title: "Shipley as ECAN Commissioner not acceptable"
-date: 2010-03-05
-source-url: https://www.scoop.co.nz/stories/PA1003/S00094/shipley-as-ecan-commissioner-not-acceptable.htm
+title: Shipley as ECAN Commissioner not acceptable
+date: 2010-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00094/shipley-as-ecan-commissioner-not-acceptable.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/05/shipley-as-ecan-commissioner-not-acceptable/index.html
+layout: layout.njk
 ---
 Shipley as ECAN Commissioner not acceptable
 ===========================================

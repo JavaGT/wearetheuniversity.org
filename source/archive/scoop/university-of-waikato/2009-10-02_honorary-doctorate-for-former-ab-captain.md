@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-former-ab-captain
-title: "Honorary Doctorate for former AB captain"
-date: 2009-10-02
-source-url: https://www.scoop.co.nz/stories/ED0910/S00012/honorary-doctorate-for-former-ab-captain.htm
+title: Honorary Doctorate for former AB captain
+date: 2009-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00012/honorary-doctorate-for-former-ab-captain.htm
 author: university-of-waikato
+permalink: /archive/2009/10/02/honorary-doctorate-for-former-ab-captain/index.html
+layout: layout.njk
 ---
 Honorary Doctorate for former AB captain
 ========================================

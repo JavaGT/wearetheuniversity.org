@@ -1,9 +1,12 @@
 ---
 slug: handbags-shoes-and-sex-in-the-city
-title: "Handbags, Shoes And Sex In The City"
-date: 2012-04-17
-source-url: https://www.scoop.co.nz/stories/ED1204/S00065/handbags-shoes-and-sex-in-the-city.htm
+title: Handbags, Shoes And Sex In The City
+date: 2012-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00065/handbags-shoes-and-sex-in-the-city.htm
 author: university-of-canterbury
+permalink: /archive/2012/04/17/handbags-shoes-and-sex-in-the-city/index.html
+layout: layout.njk
 ---
 Handbags, Shoes And Sex In The City
 ===================================

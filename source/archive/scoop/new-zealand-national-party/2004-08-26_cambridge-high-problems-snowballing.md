@@ -1,9 +1,12 @@
 ---
 slug: cambridge-high-problems-snowballing
-title: "Cambridge High problems snowballing"
-date: 2004-08-26
-source-url: https://www.scoop.co.nz/stories/PA0408/S00480/cambridge-high-problems-snowballing.htm
+title: Cambridge High problems snowballing
+date: 2004-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00480/cambridge-high-problems-snowballing.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/26/cambridge-high-problems-snowballing/index.html
+layout: layout.njk
 ---
 Cambridge High problems snowballing
 ===================================

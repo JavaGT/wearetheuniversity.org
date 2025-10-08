@@ -1,9 +1,12 @@
 ---
 slug: higher-fares-leave-bus-and-train-users-stranded
-title: "Higher fares leave bus and train users stranded"
-date: 2010-03-04
-source-url: https://www.scoop.co.nz/stories/PA1003/S00070/higher-fares-leave-bus-and-train-users-stranded.htm
+title: Higher fares leave bus and train users stranded
+date: 2010-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00070/higher-fares-leave-bus-and-train-users-stranded.htm
 author: green-party
+permalink: /archive/2010/03/04/higher-fares-leave-bus-and-train-users-stranded/index.html
+layout: layout.njk
 ---
 Higher fares leave bus and train users stranded
 ===============================================

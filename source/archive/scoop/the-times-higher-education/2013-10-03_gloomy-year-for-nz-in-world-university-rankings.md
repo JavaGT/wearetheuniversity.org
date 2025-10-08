@@ -1,9 +1,12 @@
 ---
 slug: gloomy-year-for-nz-in-world-university-rankings
-title: "Gloomy year for NZ in World University Rankings"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/ED1310/S00040/gloomy-year-for-nz-in-world-university-rankings.htm
+title: Gloomy year for NZ in World University Rankings
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00040/gloomy-year-for-nz-in-world-university-rankings.htm
 author: the-times-higher-education
+permalink: /archive/2013/10/03/gloomy-year-for-nz-in-world-university-rankings/index.html
+layout: layout.njk
 ---
 Gloomy year for NZ in World University Rankings
 ===============================================

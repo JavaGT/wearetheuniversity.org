@@ -1,9 +1,12 @@
 ---
 slug: lincoln-universitys-transformation-gathers-pace
-title: "Lincoln University’s transformation gathers pace"
-date: 2017-02-15
-source-url: https://www.scoop.co.nz/stories/ED1702/S00040/lincoln-universitys-transformation-gathers-pace.htm
+title: Lincoln University’s transformation gathers pace
+date: 2017-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00040/lincoln-universitys-transformation-gathers-pace.htm
 author: lincoln-university
+permalink: /archive/2017/02/15/lincoln-universitys-transformation-gathers-pace/index.html
+layout: layout.njk
 ---
 Lincoln University’s transformation gathers pace
 ================================================

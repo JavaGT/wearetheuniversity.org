@@ -1,9 +1,12 @@
 ---
 slug: greens-demonstrate-double-standards-on-dioxins
-title: "Greens Demonstrate Double Standards On Dioxins"
-date: 2001-02-22
-source-url: https://www.scoop.co.nz/stories/PA0102/S00343/greens-demonstrate-double-standards-on-dioxins.htm
+title: Greens Demonstrate Double Standards On Dioxins
+date: 2001-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00343/greens-demonstrate-double-standards-on-dioxins.htm
 author: act-new-zealand
+permalink: /archive/2001/02/22/greens-demonstrate-double-standards-on-dioxins/index.html
+layout: layout.njk
 ---
 Greens Demonstrate Double Standards On Dioxins
 ==============================================

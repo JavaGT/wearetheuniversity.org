@@ -1,9 +1,12 @@
 ---
 slug: dual-winners-at-grad-conference
-title: "Dual winners at grad conference"
-date: 2015-08-20
-source-url: https://www.scoop.co.nz/stories/ED1508/S00102/dual-winners-at-grad-conference.htm
+title: Dual winners at grad conference
+date: 2015-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00102/dual-winners-at-grad-conference.htm
 author: waikato-university
+permalink: /archive/2015/08/20/dual-winners-at-grad-conference/index.html
+layout: layout.njk
 ---
 Dual winners at grad conference
 ===============================

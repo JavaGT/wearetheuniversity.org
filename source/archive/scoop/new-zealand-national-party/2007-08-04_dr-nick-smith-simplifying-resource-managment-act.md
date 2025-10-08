@@ -1,9 +1,13 @@
 ---
 slug: dr-nick-smith-simplifying-resource-managment-act
-title: "Dr Nick Smith: Simplifying Resource Managment Act"
-date: 2007-08-04
-source-url: https://www.scoop.co.nz/stories/PA0708/S00075/dr-nick-smith-simplifying-resource-managment-act.htm
+title: 'Dr Nick Smith: Simplifying Resource Managment Act'
+date: 2007-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00075/dr-nick-smith-simplifying-resource-managment-act.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/08/04/dr-nick-smith-simplifying-resource-managment-act/index.html
+layout: layout.njk
 ---
 Dr Nick Smith: Simplifying Resource Managment Act
 =================================================

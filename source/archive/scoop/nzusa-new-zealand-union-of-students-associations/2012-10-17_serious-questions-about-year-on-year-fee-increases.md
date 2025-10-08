@@ -1,9 +1,13 @@
 ---
 slug: serious-questions-about-year-on-year-fee-increases
-title: "Serious questions about year-on-year fee increases"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/ED1210/S00100/serious-questions-about-year-on-year-fee-increases.htm
+title: Serious questions about year-on-year fee increases
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00100/serious-questions-about-year-on-year-fee-increases.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/10/17/serious-questions-about-year-on-year-fee-increases/index.html
+layout: layout.njk
 ---
 Serious questions about year-on-year fee increases
 ==================================================

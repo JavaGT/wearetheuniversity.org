@@ -1,9 +1,12 @@
 ---
 slug: poor-paying-employers-rich-in-excuses
-title: "Poor-paying Employers Rich in Excuses"
-date: 2005-04-19
-source-url: https://www.scoop.co.nz/stories/BU0504/S00238/poor-paying-employers-rich-in-excuses.htm
+title: Poor-paying Employers Rich in Excuses
+date: 2005-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0504/S00238/poor-paying-employers-rich-in-excuses.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/04/19/poor-paying-employers-rich-in-excuses/index.html
+layout: layout.njk
 ---
 Poor-paying Employers Rich in Excuses
 =====================================

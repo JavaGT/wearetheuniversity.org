@@ -1,9 +1,16 @@
 ---
-slug: student-volunteer-army-celebrates-student-volunteer-week-by-leading-student-led-volunteering-in-new-zealand
-title: "Student Volunteer Army Celebrates Student Volunteer Week By Leading Student-led Volunteering In New Zealand"
-date: 2021-03-15
-source-url: https://www.scoop.co.nz/stories/ED2103/S00026/student-volunteer-army-celebrates-student-volunteer-week-by-leading-student-led-volunteering-in-new-zealand.htm
+slug: >-
+  student-volunteer-army-celebrates-student-volunteer-week-by-leading-student-led-volunteering-in-new-zealand
+title: >-
+  Student Volunteer Army Celebrates Student Volunteer Week By Leading
+  Student-led Volunteering In New Zealand
+date: 2021-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00026/student-volunteer-army-celebrates-student-volunteer-week-by-leading-student-led-volunteering-in-new-zealand.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2021/03/15/student-volunteer-army-celebrates-student-volunteer-week-by-leading-student-led-volunteering-in-new-zealand/index.html
+layout: layout.njk
 ---
 Student Volunteer Army Celebrates Student Volunteer Week By Leading Student-led Volunteering In New Zealand
 ===========================================================================================================

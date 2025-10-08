@@ -1,9 +1,13 @@
 ---
 slug: redcliffs-school-to-get-new-home-at-redcliffs-park
-title: "Redcliffs School to get new home at Redcliffs Park"
-date: 2016-11-01
-source-url: https://www.scoop.co.nz/stories/PA1611/S00015/redcliffs-school-to-get-new-home-at-redcliffs-park.htm
+title: Redcliffs School to get new home at Redcliffs Park
+date: 2016-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00015/redcliffs-school-to-get-new-home-at-redcliffs-park.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/11/01/redcliffs-school-to-get-new-home-at-redcliffs-park/index.html
+layout: layout.njk
 ---
 Redcliffs School to get new home at Redcliffs Park
 ==================================================

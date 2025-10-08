@@ -1,9 +1,12 @@
 ---
 slug: monolingual-māori-language-dictionary-praised
-title: "Monolingual Māori language dictionary praised"
-date: 2008-09-03
-source-url: https://www.scoop.co.nz/stories/PA0809/S00046/monolingual-maori-language-dictionary-praised.htm
+title: Monolingual Māori language dictionary praised
+date: 2008-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00046/monolingual-maori-language-dictionary-praised.htm
 author: te-pati-maori
+permalink: /archive/2008/09/03/monolingual-m/index.html
+layout: layout.njk
 ---
 Monolingual Māori language dictionary praised
 =============================================

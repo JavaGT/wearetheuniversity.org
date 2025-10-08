@@ -1,9 +1,12 @@
 ---
 slug: cultural-factors-key-to-health-of-older-māori
-title: "Cultural factors key to health of older Māori"
-date: 2018-06-13
-source-url: https://www.scoop.co.nz/stories/GE1806/S00045/cultural-factors-key-to-health-of-older-maori.htm
+title: Cultural factors key to health of older Māori
+date: 2018-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00045/cultural-factors-key-to-health-of-older-maori.htm
 author: massey-university
+permalink: /archive/2018/06/13/cultural-factors-key-to-health-of-older-m/index.html
+layout: layout.njk
 ---
 Cultural factors key to health of older Māori
 =============================================

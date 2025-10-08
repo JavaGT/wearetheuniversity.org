@@ -1,9 +1,12 @@
 ---
 slug: uc-being-eyed-up-for-national-observatory-role
-title: "UC being eyed up for National Observatory role"
-date: 2005-03-09
-source-url: https://www.scoop.co.nz/stories/ED0503/S00029/uc-being-eyed-up-for-national-observatory-role.htm
+title: UC being eyed up for National Observatory role
+date: 2005-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00029/uc-being-eyed-up-for-national-observatory-role.htm
 author: university-of-canterbury
+permalink: /archive/2005/03/09/uc-being-eyed-up-for-national-observatory-role/index.html
+layout: layout.njk
 ---
 UC being eyed up for National Observatory role
 ==============================================

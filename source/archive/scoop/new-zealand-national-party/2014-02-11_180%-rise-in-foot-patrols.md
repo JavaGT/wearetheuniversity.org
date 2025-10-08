@@ -1,9 +1,11 @@
 ---
 slug: 180%-rise-in-foot-patrols
-title: "180% rise in foot patrols"
-date: 2014-02-11
+title: 180% rise in foot patrols
+date: 2014-02-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1402/S00128/180-rise-in-foot-patrols.htm
 author: new-zealand-national-party
+permalink: /archive/2014/02/11/180/index.html
+layout: layout.njk
 ---
 180% rise in foot patrols
 =========================

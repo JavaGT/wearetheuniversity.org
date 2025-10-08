@@ -1,9 +1,12 @@
 ---
 slug: environmental-activist-research-wins-top-prize
-title: "Environmental activist research wins top prize"
-date: 2013-09-23
-source-url: https://www.scoop.co.nz/stories/ED1309/S00130/environmental-activist-research-wins-top-prize.htm
+title: Environmental activist research wins top prize
+date: 2013-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00130/environmental-activist-research-wins-top-prize.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/09/23/environmental-activist-research-wins-top-prize/index.html
+layout: layout.njk
 ---
 Environmental activist research wins top prize
 ==============================================

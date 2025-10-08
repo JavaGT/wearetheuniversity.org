@@ -1,9 +1,16 @@
 ---
-slug: national-research-institute-focused-on-understanding-new-zealands-population-turns-10
-title: "National Research Institute Focused On Understanding New Zealand’s Population Turns 10"
-date: 2021-03-18
-source-url: https://www.scoop.co.nz/stories/ED2103/S00035/national-research-institute-focused-on-understanding-new-zealands-population-turns-10.htm
+slug: >-
+  national-research-institute-focused-on-understanding-new-zealands-population-turns-10
+title: >-
+  National Research Institute Focused On Understanding New Zealand’s Population
+  Turns 10
+date: 2021-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00035/national-research-institute-focused-on-understanding-new-zealands-population-turns-10.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/03/18/national-research-institute-focused-on-understanding-new-zealands-population-turns-10/index.html
+layout: layout.njk
 ---
 National Research Institute Focused On Understanding New Zealand’s Population Turns 10
 ======================================================================================

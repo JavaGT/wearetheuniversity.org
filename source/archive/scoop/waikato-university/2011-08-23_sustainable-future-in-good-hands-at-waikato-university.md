@@ -1,9 +1,13 @@
 ---
 slug: sustainable-future-in-good-hands-at-waikato-university
-title: "Sustainable future in good hands at Waikato University"
-date: 2011-08-23
-source-url: https://www.scoop.co.nz/stories/ED1108/S00123/sustainable-future-in-good-hands-at-waikato-university.htm
+title: Sustainable future in good hands at Waikato University
+date: 2011-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00123/sustainable-future-in-good-hands-at-waikato-university.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/08/23/sustainable-future-in-good-hands-at-waikato-university/index.html
+layout: layout.njk
 ---
 Sustainable future in good hands at Waikato University
 ======================================================

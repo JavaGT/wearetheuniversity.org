@@ -1,9 +1,13 @@
 ---
 slug: international-students-satisfied-with-nz-universities
-title: "International students satisfied with NZ universities"
-date: 2015-10-02
-source-url: https://www.scoop.co.nz/stories/ED1510/S00013/international-students-satisfied-with-nz-universities.htm
+title: International students satisfied with NZ universities
+date: 2015-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00013/international-students-satisfied-with-nz-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/10/02/international-students-satisfied-with-nz-universities/index.html
+layout: layout.njk
 ---
 International students satisfied with NZ universities
 =====================================================

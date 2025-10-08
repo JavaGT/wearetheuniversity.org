@@ -1,9 +1,12 @@
 ---
 slug: labour-will-get-things-moving-in-canterbury
-title: "Labour will get things moving in Canterbury"
-date: 2014-06-09
-source-url: https://www.scoop.co.nz/stories/PA1406/S00095/labour-will-get-things-moving-in-canterbury.htm
+title: Labour will get things moving in Canterbury
+date: 2014-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00095/labour-will-get-things-moving-in-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/09/labour-will-get-things-moving-in-canterbury/index.html
+layout: layout.njk
 ---
 Labour will get things moving in Canterbury
 ===========================================

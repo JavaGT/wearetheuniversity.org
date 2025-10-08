@@ -1,9 +1,13 @@
 ---
 slug: initial-results-of-world-first-graduate-survey-released
-title: "Initial results of world-first graduate survey released"
-date: 2012-04-04
-source-url: https://www.scoop.co.nz/stories/ED1204/S00024/initial-results-of-world-first-graduate-survey-released.htm
+title: Initial results of world-first graduate survey released
+date: 2012-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00024/initial-results-of-world-first-graduate-survey-released.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2012/04/04/initial-results-of-world-first-graduate-survey-released/index.html
+layout: layout.njk
 ---
 Initial results of world-first graduate survey released
 =======================================================

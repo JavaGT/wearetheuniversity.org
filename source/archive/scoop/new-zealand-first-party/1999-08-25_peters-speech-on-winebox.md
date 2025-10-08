@@ -1,9 +1,11 @@
 ---
 slug: peters-speech-on-winebox
-title: "Peters - Speech On Winebox"
-date: 1999-08-25
+title: Peters - Speech On Winebox
+date: 1999-08-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9908/S00424/peters-speech-on-winebox.htm
 author: new-zealand-first-party
+permalink: /archive/1999/08/25/peters-speech-on-winebox/index.html
+layout: layout.njk
 ---
 Peters - Speech On Winebox
 ==========================

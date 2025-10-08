@@ -1,9 +1,12 @@
 ---
 slug: trans-tasman-business-forum-nov-7-auck-hyatt
-title: "Trans-Tasman Business Forum – Nov 7, Auck. Hyatt"
-date: 2007-10-19
-source-url: https://www.scoop.co.nz/stories/BU0710/S00316/trans-tasman-business-forum-nov-7-auck-hyatt.htm
+title: Trans-Tasman Business Forum – Nov 7, Auck. Hyatt
+date: 2007-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0710/S00316/trans-tasman-business-forum-nov-7-auck-hyatt.htm
 author: aut-university
+permalink: /archive/2007/10/19/trans-tasman-business-forum-nov-7-auck-hyatt/index.html
+layout: layout.njk
 ---
 Trans-Tasman Business Forum – Nov 7, Auck. Hyatt
 ================================================

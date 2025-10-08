@@ -1,9 +1,12 @@
 ---
 slug: new-education-programme-teaches-white-supremacy
-title: "New Education Programme Teaches White Supremacy"
-date: 2021-05-28
-source-url: https://www.scoop.co.nz/stories/PA2105/S00248/new-education-programme-teaches-white-supremacy.htm
+title: New Education Programme Teaches White Supremacy
+date: 2021-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00248/new-education-programme-teaches-white-supremacy.htm
 author: act-new-zealand
+permalink: /archive/2021/05/28/new-education-programme-teaches-white-supremacy/index.html
+layout: layout.njk
 ---
 New Education Programme Teaches White Supremacy
 ===============================================

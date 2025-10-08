@@ -1,9 +1,13 @@
 ---
 slug: national-party-set-to-undermine-tertiary-education
-title: "National party set to undermine tertiary education"
-date: 2008-09-09
-source-url: https://www.scoop.co.nz/stories/PO0809/S00102/national-party-set-to-undermine-tertiary-education.htm
+title: National party set to undermine tertiary education
+date: 2008-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00102/national-party-set-to-undermine-tertiary-education.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2008/09/09/national-party-set-to-undermine-tertiary-education/index.html
+layout: layout.njk
 ---
 National party set to undermine tertiary education
 ==================================================

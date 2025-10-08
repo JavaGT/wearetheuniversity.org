@@ -1,9 +1,12 @@
 ---
 slug: sustainability-glass-half-empty-or-half-full
-title: "Sustainability: glass half empty or half full?"
-date: 2006-10-20
-source-url: https://www.scoop.co.nz/stories/SC0610/S00045/sustainability-glass-half-empty-or-half-full.htm
+title: 'Sustainability: glass half empty or half full?'
+date: 2006-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0610/S00045/sustainability-glass-half-empty-or-half-full.htm
 author: university-of-waikato
+permalink: /archive/2006/10/20/sustainability-glass-half-empty-or-half-full/index.html
+layout: layout.njk
 ---
 Sustainability: glass half empty or half full?
 ==============================================

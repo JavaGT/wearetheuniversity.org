@@ -1,9 +1,12 @@
 ---
 slug: dhb-grandstanding-over-proposal
-title: "DHB Grandstanding Over Proposal"
-date: 2006-11-12
-source-url: https://www.scoop.co.nz/stories/PO0611/S00173/dhb-grandstanding-over-proposal.htm
+title: DHB Grandstanding Over Proposal
+date: 2006-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0611/S00173/dhb-grandstanding-over-proposal.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/11/12/dhb-grandstanding-over-proposal/index.html
+layout: layout.njk
 ---
 DHB Grandstanding Over Proposal
 ===============================

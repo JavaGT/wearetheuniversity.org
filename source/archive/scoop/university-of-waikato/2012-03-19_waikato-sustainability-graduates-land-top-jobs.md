@@ -1,9 +1,12 @@
 ---
 slug: waikato-sustainability-graduates-land-top-jobs
-title: "Waikato Sustainability Graduates Land Top Jobs"
-date: 2012-03-19
-source-url: https://www.scoop.co.nz/stories/ED1203/S00082/waikato-sustainability-graduates-land-top-jobs.htm
+title: Waikato Sustainability Graduates Land Top Jobs
+date: 2012-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00082/waikato-sustainability-graduates-land-top-jobs.htm
 author: university-of-waikato
+permalink: /archive/2012/03/19/waikato-sustainability-graduates-land-top-jobs/index.html
+layout: layout.njk
 ---
 Waikato Sustainability Graduates Land Top Jobs
 ==============================================

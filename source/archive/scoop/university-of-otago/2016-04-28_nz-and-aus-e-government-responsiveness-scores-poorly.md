@@ -1,9 +1,13 @@
 ---
 slug: nz-and-aus-e-government-responsiveness-scores-poorly
-title: "NZ and Aus e-government responsiveness scores poorly"
-date: 2016-04-28
-source-url: https://www.scoop.co.nz/stories/PO1604/S00365/nz-and-aus-e-government-responsiveness-scores-poorly.htm
+title: NZ and Aus e-government responsiveness scores poorly
+date: 2016-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00365/nz-and-aus-e-government-responsiveness-scores-poorly.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/28/nz-and-aus-e-government-responsiveness-scores-poorly/index.html
+layout: layout.njk
 ---
 NZ and Aus e-government responsiveness scores poorly
 ====================================================

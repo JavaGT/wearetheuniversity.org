@@ -1,9 +1,12 @@
 ---
 slug: us-ambassador-stifles-free-speech
-title: "US Ambassador stifles free speech"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/PO0310/S00067/us-ambassador-stifles-free-speech.htm
+title: US Ambassador stifles free speech
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0310/S00067/us-ambassador-stifles-free-speech.htm
 author: peace-action-wellington
+permalink: /archive/2003/10/09/us-ambassador-stifles-free-speech/index.html
+layout: layout.njk
 ---
 US Ambassador stifles free speech
 =================================

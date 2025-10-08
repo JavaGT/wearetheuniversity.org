@@ -1,9 +1,12 @@
 ---
 slug: students-to-learn-from-best-selling-author
-title: "Students to learn from best-selling author"
-date: 2014-10-06
-source-url: https://www.scoop.co.nz/stories/ED1410/S00032/students-to-learn-from-best-selling-author.htm
+title: Students to learn from best-selling author
+date: 2014-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00032/students-to-learn-from-best-selling-author.htm
 author: university-of-waikato
+permalink: /archive/2014/10/06/students-to-learn-from-best-selling-author/index.html
+layout: layout.njk
 ---
 Students to learn from best-selling author
 ==========================================

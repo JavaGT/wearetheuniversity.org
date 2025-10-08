@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-made-showcase-comes-to-christchurch
-title: "New Zealand Made Showcase Comes to Christchurch"
-date: 2007-04-12
-source-url: https://www.scoop.co.nz/stories/PA0704/S00191/new-zealand-made-showcase-comes-to-christchurch.htm
+title: New Zealand Made Showcase Comes to Christchurch
+date: 2007-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00191/new-zealand-made-showcase-comes-to-christchurch.htm
 author: green-party
+permalink: /archive/2007/04/12/new-zealand-made-showcase-comes-to-christchurch/index.html
+layout: layout.njk
 ---
 New Zealand Made Showcase Comes to Christchurch
 ===============================================

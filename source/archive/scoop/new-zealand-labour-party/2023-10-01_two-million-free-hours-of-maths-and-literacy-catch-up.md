@@ -1,9 +1,13 @@
 ---
 slug: two-million-free-hours-of-maths-and-literacy-catch-up
-title: "Two Million Free Hours Of Maths And Literacy Catch Up"
-date: 2023-10-01
-source-url: https://www.scoop.co.nz/stories/PO2310/S00005/two-million-free-hours-of-maths-and-literacy-catch-up.htm
+title: Two Million Free Hours Of Maths And Literacy Catch Up
+date: 2023-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2310/S00005/two-million-free-hours-of-maths-and-literacy-catch-up.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2023/10/01/two-million-free-hours-of-maths-and-literacy-catch-up/index.html
+layout: layout.njk
 ---
 Two Million Free Hours Of Maths And Literacy Catch Up
 =====================================================

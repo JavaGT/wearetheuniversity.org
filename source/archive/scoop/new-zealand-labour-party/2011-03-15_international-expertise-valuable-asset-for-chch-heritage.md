@@ -1,9 +1,13 @@
 ---
 slug: international-expertise-valuable-asset-for-chch-heritage
-title: "International Expertise Valuable Asset for Chch Heritage"
-date: 2011-03-15
-source-url: https://www.scoop.co.nz/stories/PA1103/S00231/international-expertise-valuable-asset-for-chch-heritage.htm
+title: International Expertise Valuable Asset for Chch Heritage
+date: 2011-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00231/international-expertise-valuable-asset-for-chch-heritage.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/03/15/international-expertise-valuable-asset-for-chch-heritage/index.html
+layout: layout.njk
 ---
 International Expertise Valuable Asset for Chch Heritage
 ========================================================

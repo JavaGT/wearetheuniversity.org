@@ -1,9 +1,13 @@
 ---
 slug: restorative-practice-a-huge-win-for-the-faculty-of-education
-title: "Restorative practice a huge win for the Faculty of Education"
-date: 2015-11-03
-source-url: https://www.scoop.co.nz/stories/ED1511/S00009/restorative-practice-a-huge-win-for-the-faculty-of-education.htm
+title: Restorative practice a huge win for the Faculty of Education
+date: 2015-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00009/restorative-practice-a-huge-win-for-the-faculty-of-education.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/11/03/restorative-practice-a-huge-win-for-the-faculty-of-education/index.html
+layout: layout.njk
 ---
 Restorative practice a huge win for the Faculty of Education
 ============================================================

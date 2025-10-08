@@ -1,9 +1,12 @@
 ---
 slug: greens-launch-plan-for-3d-printing-strategy
-title: "Greens launch plan for 3D printing strategy"
-date: 2014-06-09
-source-url: https://www.scoop.co.nz/stories/PA1406/S00097/greens-launch-plan-for-3d-printing-strategy.htm
+title: Greens launch plan for 3D printing strategy
+date: 2014-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00097/greens-launch-plan-for-3d-printing-strategy.htm
 author: green-party
+permalink: /archive/2014/06/09/greens-launch-plan-for-3d-printing-strategy/index.html
+layout: layout.njk
 ---
 Greens launch plan for 3D printing strategy
 ===========================================

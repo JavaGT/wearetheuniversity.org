@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-seeking-to-improve-hospital-care
-title: "UC researchers seeking to improve hospital care"
-date: 2013-07-20
-source-url: https://www.scoop.co.nz/stories/GE1307/S00094/uc-researchers-seeking-to-improve-hospital-care.htm
+title: UC researchers seeking to improve hospital care
+date: 2013-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00094/uc-researchers-seeking-to-improve-hospital-care.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/20/uc-researchers-seeking-to-improve-hospital-care/index.html
+layout: layout.njk
 ---
 UC researchers seeking to improve hospital care
 ===============================================

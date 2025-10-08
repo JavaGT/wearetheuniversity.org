@@ -1,9 +1,12 @@
 ---
 slug: local-policies-can-reduce-problem-gambling
-title: "Local Policies Can Reduce Problem Gambling"
-date: 2021-04-13
-source-url: https://www.scoop.co.nz/stories/PO2104/S00084/local-policies-can-reduce-problem-gambling.htm
+title: Local Policies Can Reduce Problem Gambling
+date: 2021-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2104/S00084/local-policies-can-reduce-problem-gambling.htm
 author: aut-university
+permalink: /archive/2021/04/13/local-policies-can-reduce-problem-gambling/index.html
+layout: layout.njk
 ---
 Local Policies Can Reduce Problem Gambling
 ==========================================

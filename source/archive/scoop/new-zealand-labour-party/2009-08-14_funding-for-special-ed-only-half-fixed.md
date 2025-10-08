@@ -1,9 +1,12 @@
 ---
 slug: funding-for-special-ed-only-half-fixed
-title: "Funding for Special Ed only half fixed"
-date: 2009-08-14
-source-url: https://www.scoop.co.nz/stories/PA0908/S00201/funding-for-special-ed-only-half-fixed.htm
+title: Funding for Special Ed only half fixed
+date: 2009-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00201/funding-for-special-ed-only-half-fixed.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/14/funding-for-special-ed-only-half-fixed/index.html
+layout: layout.njk
 ---
 Funding for Special Ed only half fixed
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: meridian-moves-to-kill-competition-from-solar-homes
-title: "Meridian moves to kill competition from solar homes"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/PA1411/S00088/meridian-moves-to-kill-competition-from-solar-homes.htm
+title: Meridian moves to kill competition from solar homes
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00088/meridian-moves-to-kill-competition-from-solar-homes.htm
 author: green-party
+permalink: >-
+  /archive/2014/11/06/meridian-moves-to-kill-competition-from-solar-homes/index.html
+layout: layout.njk
 ---
 Meridian moves to kill competition from solar homes
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-hypocritical-and-alarmist-on-schools
-title: "Govt hypocritical and alarmist on schools"
-date: 2007-10-01
-source-url: https://www.scoop.co.nz/stories/PA0710/S00010/govt-hypocritical-and-alarmist-on-schools.htm
+title: Govt hypocritical and alarmist on schools
+date: 2007-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00010/govt-hypocritical-and-alarmist-on-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/01/govt-hypocritical-and-alarmist-on-schools/index.html
+layout: layout.njk
 ---
 Govt hypocritical and alarmist on schools
 =========================================

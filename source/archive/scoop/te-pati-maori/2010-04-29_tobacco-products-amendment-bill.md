@@ -1,9 +1,12 @@
 ---
 slug: tobacco-products-amendment-bill
-title: "Tobacco Products Amendment Bill"
-date: 2010-04-29
-source-url: https://www.scoop.co.nz/stories/PA1004/S00380/tobacco-products-amendment-bill.htm
+title: Tobacco Products Amendment Bill
+date: 2010-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00380/tobacco-products-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/04/29/tobacco-products-amendment-bill/index.html
+layout: layout.njk
 ---
 Tobacco Products Amendment Bill
 ===============================

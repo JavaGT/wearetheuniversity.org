@@ -1,9 +1,13 @@
 ---
 slug: homeless-need-more-than-sympathy-and-empty-words
-title: "Homeless need more than sympathy and empty words"
-date: 2014-06-05
-source-url: https://www.scoop.co.nz/stories/PA1406/S00057/homeless-need-more-than-sympathy-and-empty-words.htm
+title: Homeless need more than sympathy and empty words
+date: 2014-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00057/homeless-need-more-than-sympathy-and-empty-words.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/06/05/homeless-need-more-than-sympathy-and-empty-words/index.html
+layout: layout.njk
 ---
 Homeless need more than sympathy and empty words
 ================================================

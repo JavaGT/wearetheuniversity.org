@@ -1,9 +1,12 @@
 ---
 slug: kelvin-davis-has-no-job-description
-title: "Kelvin Davis has no job description"
-date: 2018-09-05
-source-url: https://www.scoop.co.nz/stories/PA1809/S00045/kelvin-davis-has-no-job-description.htm
+title: Kelvin Davis has no job description
+date: 2018-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00045/kelvin-davis-has-no-job-description.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/05/kelvin-davis-has-no-job-description/index.html
+layout: layout.njk
 ---
 Kelvin Davis has no job description
 ===================================

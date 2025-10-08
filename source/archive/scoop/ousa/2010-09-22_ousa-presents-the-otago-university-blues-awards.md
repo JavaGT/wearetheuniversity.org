@@ -1,9 +1,12 @@
 ---
 slug: ousa-presents-the-otago-university-blues-awards
-title: "OUSA presents: the Otago University Blues Awards"
-date: 2010-09-22
-source-url: https://www.scoop.co.nz/stories/CU1009/S00231/ousa-presents-the-otago-university-blues-awards.htm
+title: 'OUSA presents: the Otago University Blues Awards'
+date: 2010-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1009/S00231/ousa-presents-the-otago-university-blues-awards.htm
 author: ousa
+permalink: /archive/2010/09/22/ousa-presents-the-otago-university-blues-awards/index.html
+layout: layout.njk
 ---
 OUSA presents: the Otago University Blues Awards
 ================================================

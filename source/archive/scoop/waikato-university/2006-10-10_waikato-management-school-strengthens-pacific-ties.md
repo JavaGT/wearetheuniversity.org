@@ -1,9 +1,13 @@
 ---
 slug: waikato-management-school-strengthens-pacific-ties
-title: "Waikato Management School strengthens Pacific ties"
-date: 2006-10-10
-source-url: https://www.scoop.co.nz/stories/ED0610/S00039/waikato-management-school-strengthens-pacific-ties.htm
+title: Waikato Management School strengthens Pacific ties
+date: 2006-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00039/waikato-management-school-strengthens-pacific-ties.htm
 author: waikato-university
+permalink: >-
+  /archive/2006/10/10/waikato-management-school-strengthens-pacific-ties/index.html
+layout: layout.njk
 ---
 Waikato Management School strengthens Pacific ties
 ==================================================

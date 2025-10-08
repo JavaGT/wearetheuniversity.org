@@ -1,9 +1,12 @@
 ---
 slug: vital-services-cut-to-benefit-nationals-mates
-title: "Vital services cut to benefit National’s mates"
-date: 2010-04-22
-source-url: https://www.scoop.co.nz/stories/PA1004/S00271/vital-services-cut-to-benefit-nationals-mates.htm
+title: Vital services cut to benefit National’s mates
+date: 2010-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00271/vital-services-cut-to-benefit-nationals-mates.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/22/vital-services-cut-to-benefit-nationals-mates/index.html
+layout: layout.njk
 ---
 Vital services cut to benefit National’s mates
 ==============================================

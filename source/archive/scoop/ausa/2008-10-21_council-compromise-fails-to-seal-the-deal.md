@@ -1,9 +1,12 @@
 ---
 slug: council-compromise-fails-to-seal-the-deal
-title: "Council compromise fails to seal the deal"
-date: 2008-10-21
-source-url: https://www.scoop.co.nz/stories/AK0810/S00223/council-compromise-fails-to-seal-the-deal.htm
+title: Council compromise fails to seal the deal
+date: 2008-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0810/S00223/council-compromise-fails-to-seal-the-deal.htm
 author: ausa
+permalink: /archive/2008/10/21/council-compromise-fails-to-seal-the-deal/index.html
+layout: layout.njk
 ---
 Council compromise fails to seal the deal
 =========================================

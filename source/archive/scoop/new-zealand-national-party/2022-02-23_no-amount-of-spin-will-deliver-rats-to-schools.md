@@ -1,9 +1,12 @@
 ---
 slug: no-amount-of-spin-will-deliver-rats-to-schools
-title: "No Amount Of Spin Will Deliver RATs To Schools"
-date: 2022-02-23
-source-url: https://www.scoop.co.nz/stories/PA2202/S00161/no-amount-of-spin-will-deliver-rats-to-schools.htm
+title: No Amount Of Spin Will Deliver RATs To Schools
+date: 2022-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00161/no-amount-of-spin-will-deliver-rats-to-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2022/02/23/no-amount-of-spin-will-deliver-rats-to-schools/index.html
+layout: layout.njk
 ---
 No Amount Of Spin Will Deliver RATs To Schools
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: tertiary-funding-priorities-in-disarray
-title: "Tertiary funding priorities in disarray"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/PA0404/S00369/tertiary-funding-priorities-in-disarray.htm
+title: Tertiary funding priorities in disarray
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00369/tertiary-funding-priorities-in-disarray.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/23/tertiary-funding-priorities-in-disarray/index.html
+layout: layout.njk
 ---
 Tertiary funding priorities in disarray
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: martian-poetry-spices-up-writers-on-mondays
-title: "Martian poetry spices up Writers on Mondays"
-date: 2009-07-10
-source-url: https://www.scoop.co.nz/stories/CU0907/S00122/martian-poetry-spices-up-writers-on-mondays.htm
+title: Martian poetry spices up Writers on Mondays
+date: 2009-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00122/martian-poetry-spices-up-writers-on-mondays.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/07/10/martian-poetry-spices-up-writers-on-mondays/index.html
+layout: layout.njk
 ---
 Martian poetry spices up Writers on Mondays
 ===========================================

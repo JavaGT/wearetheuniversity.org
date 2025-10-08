@@ -1,9 +1,12 @@
 ---
 slug: national-picks-2017-whanganui-candidate
-title: "National picks 2017 Whanganui candidate"
-date: 2017-03-27
-source-url: https://www.scoop.co.nz/stories/PO1703/S00324/national-picks-2017-whanganui-candidate.htm
+title: National picks 2017 Whanganui candidate
+date: 2017-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00324/national-picks-2017-whanganui-candidate.htm
 author: new-zealand-national-party
+permalink: /archive/2017/03/27/national-picks-2017-whanganui-candidate/index.html
+layout: layout.njk
 ---
 National picks 2017 Whanganui candidate
 =======================================

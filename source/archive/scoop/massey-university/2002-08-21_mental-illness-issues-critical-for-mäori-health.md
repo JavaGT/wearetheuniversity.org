@@ -1,9 +1,12 @@
 ---
 slug: mental-illness-issues-critical-for-mäori-health
-title: "Mental Illness Issues Critical for Mäori Health"
-date: 2002-08-21
-source-url: https://www.scoop.co.nz/stories/ED0208/S00028/mental-illness-issues-critical-for-maori-health.htm
+title: Mental Illness Issues Critical for Mäori Health
+date: 2002-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00028/mental-illness-issues-critical-for-maori-health.htm
 author: massey-university
+permalink: /archive/2002/08/21/mental-illness-issues-critical-for-m/index.html
+layout: layout.njk
 ---
 Mental Illness Issues Critical for Mäori Health
 ===============================================

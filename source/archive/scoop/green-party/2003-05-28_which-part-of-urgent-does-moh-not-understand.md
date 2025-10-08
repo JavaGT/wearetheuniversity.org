@@ -1,9 +1,12 @@
 ---
 slug: which-part-of-urgent-does-moh-not-understand
-title: "Which part of 'urgent' does MoH not understand?"
-date: 2003-05-28
-source-url: https://www.scoop.co.nz/stories/PA0305/S00712/which-part-of-urgent-does-moh-not-understand.htm
+title: Which part of 'urgent' does MoH not understand?
+date: 2003-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00712/which-part-of-urgent-does-moh-not-understand.htm
 author: green-party
+permalink: /archive/2003/05/28/which-part-of-urgent-does-moh-not-understand/index.html
+layout: layout.njk
 ---
 Which part of 'urgent' does MoH not understand?
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: collins-comments-june-20
-title: "Collins Comments June 20"
-date: 2011-06-20
+title: Collins Comments June 20
+date: 2011-06-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1106/S00315/collins-comments-june-20.htm
 author: new-zealand-national-party
+permalink: /archive/2011/06/20/collins-comments-june-20/index.html
+layout: layout.njk
 ---
 Collins Comments June 20
 ========================

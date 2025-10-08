@@ -1,9 +1,12 @@
 ---
 slug: labour-has-no-heart-for-surgery
-title: "Labour has no heart for surgery"
-date: 2005-07-20
-source-url: https://www.scoop.co.nz/stories/PA0507/S00426/labour-has-no-heart-for-surgery.htm
+title: Labour has no heart for surgery
+date: 2005-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00426/labour-has-no-heart-for-surgery.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/20/labour-has-no-heart-for-surgery/index.html
+layout: layout.njk
 ---
 Labour has no heart for surgery
 ===============================

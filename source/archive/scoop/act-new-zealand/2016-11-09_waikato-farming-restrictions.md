@@ -1,9 +1,11 @@
 ---
 slug: waikato-farming-restrictions
-title: "Waikato farming restrictions"
-date: 2016-11-09
+title: Waikato farming restrictions
+date: 2016-11-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1611/S00167/waikato-farming-restrictions.htm
 author: act-new-zealand
+permalink: /archive/2016/11/09/waikato-farming-restrictions/index.html
+layout: layout.njk
 ---
 Waikato farming restrictions
 ============================

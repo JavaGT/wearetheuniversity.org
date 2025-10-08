@@ -1,9 +1,13 @@
 ---
 slug: sticker-decision-will-astound-public-warns-clayton
-title: "Sticker Decision Will Astound Public Warns Clayton"
-date: 2000-12-14
-source-url: https://www.scoop.co.nz/stories/PA0012/S00235/sticker-decision-will-astound-public-warns-clayton.htm
+title: Sticker Decision Will Astound Public Warns Clayton
+date: 2000-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00235/sticker-decision-will-astound-public-warns-clayton.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2000/12/14/sticker-decision-will-astound-public-warns-clayton/index.html
+layout: layout.njk
 ---
 Sticker Decision Will Astound Public Warns Clayton
 ==================================================

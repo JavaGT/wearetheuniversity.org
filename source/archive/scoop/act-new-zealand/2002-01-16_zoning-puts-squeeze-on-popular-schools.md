@@ -1,9 +1,12 @@
 ---
 slug: zoning-puts-squeeze-on-popular-schools
-title: "Zoning Puts Squeeze On Popular Schools"
-date: 2002-01-16
-source-url: https://www.scoop.co.nz/stories/PA0201/S00058/zoning-puts-squeeze-on-popular-schools.htm
+title: Zoning Puts Squeeze On Popular Schools
+date: 2002-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00058/zoning-puts-squeeze-on-popular-schools.htm
 author: act-new-zealand
+permalink: /archive/2002/01/16/zoning-puts-squeeze-on-popular-schools/index.html
+layout: layout.njk
 ---
 Zoning Puts Squeeze On Popular Schools
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: advanced-video-collaboration-centre
-title: "Advanced Video Collaboration Centre"
-date: 2009-04-23
-source-url: https://www.scoop.co.nz/stories/BU0904/S00449/advanced-video-collaboration-centre.htm
+title: Advanced Video Collaboration Centre
+date: 2009-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0904/S00449/advanced-video-collaboration-centre.htm
 author: university-of-canterbury
+permalink: /archive/2009/04/23/advanced-video-collaboration-centre/index.html
+layout: layout.njk
 ---
 Advanced Video Collaboration Centre
 ===================================

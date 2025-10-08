@@ -1,9 +1,13 @@
 ---
 slug: kiwi-student-helps-tongan-community-improve-drinking-water
-title: "Kiwi Student Helps Tongan Community Improve Drinking Water"
-date: 2024-06-10
-source-url: https://www.scoop.co.nz/stories/ED2406/S00017/kiwi-student-helps-tongan-community-improve-drinking-water.htm
+title: Kiwi Student Helps Tongan Community Improve Drinking Water
+date: 2024-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00017/kiwi-student-helps-tongan-community-improve-drinking-water.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/06/10/kiwi-student-helps-tongan-community-improve-drinking-water/index.html
+layout: layout.njk
 ---
 Kiwi Student Helps Tongan Community Improve Drinking Water
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: school-drug-problems-increase-in-bay-of-plenty
-title: "School Drug Problems Increase In Bay Of Plenty"
-date: 2002-05-07
-source-url: https://www.scoop.co.nz/stories/PA0205/S00159/school-drug-problems-increase-in-bay-of-plenty.htm
+title: School Drug Problems Increase In Bay Of Plenty
+date: 2002-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00159/school-drug-problems-increase-in-bay-of-plenty.htm
 author: act-new-zealand
+permalink: /archive/2002/05/07/school-drug-problems-increase-in-bay-of-plenty/index.html
+layout: layout.njk
 ---
 School Drug Problems Increase In Bay Of Plenty
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: parents-fleeced-by-new-school-qualification-costs
-title: "Parents Fleeced By New School Qualification Costs"
-date: 2003-02-07
-source-url: https://www.scoop.co.nz/stories/PA0302/S00089/parents-fleeced-by-new-school-qualification-costs.htm
+title: Parents Fleeced By New School Qualification Costs
+date: 2003-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00089/parents-fleeced-by-new-school-qualification-costs.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2003/02/07/parents-fleeced-by-new-school-qualification-costs/index.html
+layout: layout.njk
 ---
 Parents Fleeced By New School Qualification Costs
 =================================================

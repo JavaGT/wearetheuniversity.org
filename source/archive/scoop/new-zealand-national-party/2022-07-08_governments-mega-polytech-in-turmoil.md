@@ -1,9 +1,12 @@
 ---
 slug: governments-mega-polytech-in-turmoil
-title: "Government’s Mega Polytech In Turmoil"
-date: 2022-07-08
-source-url: https://www.scoop.co.nz/stories/PA2207/S00059/governments-mega-polytech-in-turmoil.htm
+title: Government’s Mega Polytech In Turmoil
+date: 2022-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00059/governments-mega-polytech-in-turmoil.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/08/governments-mega-polytech-in-turmoil/index.html
+layout: layout.njk
 ---
 Government’s Mega Polytech In Turmoil
 =====================================

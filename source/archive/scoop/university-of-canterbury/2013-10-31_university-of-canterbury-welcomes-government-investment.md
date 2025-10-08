@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-welcomes-government-investment
-title: "University of Canterbury welcomes Government investment"
-date: 2013-10-31
-source-url: https://www.scoop.co.nz/stories/ED1310/S00198/university-of-canterbury-welcomes-government-investment.htm
+title: University of Canterbury welcomes Government investment
+date: 2013-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00198/university-of-canterbury-welcomes-government-investment.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/31/university-of-canterbury-welcomes-government-investment/index.html
+layout: layout.njk
 ---
 University of Canterbury welcomes Government investment
 =======================================================

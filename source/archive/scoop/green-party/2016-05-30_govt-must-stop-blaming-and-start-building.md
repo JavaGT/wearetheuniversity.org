@@ -1,9 +1,12 @@
 ---
 slug: govt-must-stop-blaming-and-start-building
-title: "Govt must stop blaming and start building"
-date: 2016-05-30
-source-url: https://www.scoop.co.nz/stories/PA1605/S00619/govt-must-stop-blaming-and-start-building.htm
+title: Govt must stop blaming and start building
+date: 2016-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00619/govt-must-stop-blaming-and-start-building.htm
 author: green-party
+permalink: /archive/2016/05/30/govt-must-stop-blaming-and-start-building/index.html
+layout: layout.njk
 ---
 Govt must stop blaming and start building
 =========================================

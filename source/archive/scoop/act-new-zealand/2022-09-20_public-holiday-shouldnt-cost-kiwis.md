@@ -1,9 +1,12 @@
 ---
 slug: public-holiday-shouldnt-cost-kiwis
-title: "Public Holiday Shouldn’t Cost Kiwis"
-date: 2022-09-20
-source-url: https://www.scoop.co.nz/stories/PA2209/S00103/public-holiday-shouldnt-cost-kiwis.htm
+title: Public Holiday Shouldn’t Cost Kiwis
+date: 2022-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00103/public-holiday-shouldnt-cost-kiwis.htm
 author: act-new-zealand
+permalink: /archive/2022/09/20/public-holiday-shouldnt-cost-kiwis/index.html
+layout: layout.njk
 ---
 Public Holiday Shouldn’t Cost Kiwis
 ===================================

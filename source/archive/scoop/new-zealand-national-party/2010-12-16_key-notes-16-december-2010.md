@@ -1,9 +1,11 @@
 ---
 slug: key-notes-16-december-2010
-title: "Key Notes, 16 December 2010"
-date: 2010-12-16
+title: Key Notes, 16 December 2010
+date: 2010-12-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1012/S00324/key-notes-16-december-2010.htm
 author: new-zealand-national-party
+permalink: /archive/2010/12/16/key-notes-16-december-2010/index.html
+layout: layout.njk
 ---
 Key Notes, 16 December 2010
 ===========================

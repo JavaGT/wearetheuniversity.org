@@ -1,9 +1,12 @@
 ---
 slug: tracing-the-origins-of-the-kumara
-title: "Tracing the origins of the kumara"
-date: 2007-02-08
-source-url: https://www.scoop.co.nz/stories/SC0702/S00013/tracing-the-origins-of-the-kumara.htm
+title: Tracing the origins of the kumara
+date: 2007-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0702/S00013/tracing-the-origins-of-the-kumara.htm
 author: massey-university
+permalink: /archive/2007/02/08/tracing-the-origins-of-the-kumara/index.html
+layout: layout.njk
 ---
 Tracing the origins of the kumara
 =================================

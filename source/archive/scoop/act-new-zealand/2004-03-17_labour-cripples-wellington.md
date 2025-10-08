@@ -1,9 +1,11 @@
 ---
 slug: labour-cripples-wellington
-title: "Labour Cripples Wellington"
-date: 2004-03-17
+title: Labour Cripples Wellington
+date: 2004-03-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0403/S00345/labour-cripples-wellington.htm
 author: act-new-zealand
+permalink: /archive/2004/03/17/labour-cripples-wellington/index.html
+layout: layout.njk
 ---
 Labour Cripples Wellington
 ==========================

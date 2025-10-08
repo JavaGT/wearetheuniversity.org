@@ -1,9 +1,13 @@
 ---
 slug: alcohol-on-taxpayer-funded-course-abuse-of-trust
-title: "Alcohol on taxpayer-funded course abuse of trust"
-date: 2006-07-02
-source-url: https://www.scoop.co.nz/stories/PA0607/S00011/alcohol-on-taxpayer-funded-course-abuse-of-trust.htm
+title: Alcohol on taxpayer-funded course abuse of trust
+date: 2006-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00011/alcohol-on-taxpayer-funded-course-abuse-of-trust.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/07/02/alcohol-on-taxpayer-funded-course-abuse-of-trust/index.html
+layout: layout.njk
 ---
 Alcohol on taxpayer-funded course abuse of trust
 ================================================

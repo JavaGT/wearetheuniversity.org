@@ -1,9 +1,13 @@
 ---
 slug: government-ignores-special-needs-students-at-its-peril
-title: "Government Ignores Special Needs Students at Its Peril"
-date: 2015-08-17
-source-url: https://www.scoop.co.nz/stories/PA1508/S00270/government-ignores-special-needs-students-at-its-peril.htm
+title: Government Ignores Special Needs Students at Its Peril
+date: 2015-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00270/government-ignores-special-needs-students-at-its-peril.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/08/17/government-ignores-special-needs-students-at-its-peril/index.html
+layout: layout.njk
 ---
 Government Ignores Special Needs Students at Its Peril
 ======================================================

@@ -1,9 +1,11 @@
 ---
 slug: ralph-hotere-remembered
-title: "Ralph Hotere remembered"
-date: 2013-02-25
+title: Ralph Hotere remembered
+date: 2013-02-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1302/S00618/ralph-hotere-remembered.htm
 author: university-of-canterbury
+permalink: /archive/2013/02/25/ralph-hotere-remembered/index.html
+layout: layout.njk
 ---
 Ralph Hotere remembered
 =======================

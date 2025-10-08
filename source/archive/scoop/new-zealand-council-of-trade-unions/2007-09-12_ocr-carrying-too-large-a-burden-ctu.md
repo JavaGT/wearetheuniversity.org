@@ -1,9 +1,12 @@
 ---
 slug: ocr-carrying-too-large-a-burden-ctu
-title: "OCR carrying too large a burden - CTU"
-date: 2007-09-12
-source-url: https://www.scoop.co.nz/stories/PO0709/S00176/ocr-carrying-too-large-a-burden-ctu.htm
+title: OCR carrying too large a burden - CTU
+date: 2007-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0709/S00176/ocr-carrying-too-large-a-burden-ctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/09/12/ocr-carrying-too-large-a-burden-ctu/index.html
+layout: layout.njk
 ---
 OCR carrying too large a burden - CTU
 =====================================

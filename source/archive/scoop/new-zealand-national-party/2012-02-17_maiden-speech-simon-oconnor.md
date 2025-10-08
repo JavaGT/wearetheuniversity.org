@@ -1,9 +1,11 @@
 ---
 slug: maiden-speech-simon-oconnor
-title: "Maiden Speech - Simon O’Connor"
-date: 2012-02-17
+title: Maiden Speech - Simon O’Connor
+date: 2012-02-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1202/S00214/maiden-speech-simon-oconnor.htm
 author: new-zealand-national-party
+permalink: /archive/2012/02/17/maiden-speech-simon-oconnor/index.html
+layout: layout.njk
 ---
 Maiden Speech - Simon O’Connor
 ==============================

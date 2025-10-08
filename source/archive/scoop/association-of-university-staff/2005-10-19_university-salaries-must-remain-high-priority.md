@@ -1,9 +1,12 @@
 ---
 slug: university-salaries-must-remain-high-priority
-title: "University salaries must remain high priority"
-date: 2005-10-19
-source-url: https://www.scoop.co.nz/stories/ED0510/S00053/university-salaries-must-remain-high-priority.htm
+title: University salaries must remain high priority
+date: 2005-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00053/university-salaries-must-remain-high-priority.htm
 author: association-of-university-staff
+permalink: /archive/2005/10/19/university-salaries-must-remain-high-priority/index.html
+layout: layout.njk
 ---
 University salaries must remain high priority
 =============================================

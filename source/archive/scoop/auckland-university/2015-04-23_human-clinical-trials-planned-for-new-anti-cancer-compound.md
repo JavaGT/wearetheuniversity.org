@@ -1,9 +1,13 @@
 ---
 slug: human-clinical-trials-planned-for-new-anti-cancer-compound
-title: "Human clinical trials planned for new anti-cancer compound"
-date: 2015-04-23
-source-url: https://www.scoop.co.nz/stories/GE1504/S00105/human-clinical-trials-planned-for-new-anti-cancer-compound.htm
+title: Human clinical trials planned for new anti-cancer compound
+date: 2015-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1504/S00105/human-clinical-trials-planned-for-new-anti-cancer-compound.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/04/23/human-clinical-trials-planned-for-new-anti-cancer-compound/index.html
+layout: layout.njk
 ---
 Human clinical trials planned for new anti-cancer compound
 ==========================================================

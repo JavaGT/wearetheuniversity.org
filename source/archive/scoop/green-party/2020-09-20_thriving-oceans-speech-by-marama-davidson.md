@@ -1,9 +1,12 @@
 ---
 slug: thriving-oceans-speech-by-marama-davidson
-title: "Thriving Oceans: Speech by Marama Davidson"
-date: 2020-09-20
-source-url: https://www.scoop.co.nz/stories/PO2009/S00306/thriving-oceans-speech-by-marama-davidson.htm
+title: 'Thriving Oceans: Speech by Marama Davidson'
+date: 2020-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00306/thriving-oceans-speech-by-marama-davidson.htm
 author: green-party
+permalink: /archive/2020/09/20/thriving-oceans-speech-by-marama-davidson/index.html
+layout: layout.njk
 ---
 Thriving Oceans: Speech by Marama Davidson
 ==========================================

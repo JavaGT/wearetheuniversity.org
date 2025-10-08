@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-no-free-speech-here-thanks
-title: "Victoria University: No Free Speech Here Thanks"
-date: 2009-10-02
-source-url: https://www.scoop.co.nz/stories/PO0910/S00042/victoria-university-no-free-speech-here-thanks.htm
+title: 'Victoria University: No Free Speech Here Thanks'
+date: 2009-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00042/victoria-university-no-free-speech-here-thanks.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2009/10/02/victoria-university-no-free-speech-here-thanks/index.html
+layout: layout.njk
 ---
 Victoria University: No Free Speech Here Thanks
 ===============================================

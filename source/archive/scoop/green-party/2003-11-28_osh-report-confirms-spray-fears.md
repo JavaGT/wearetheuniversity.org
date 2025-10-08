@@ -1,9 +1,12 @@
 ---
 slug: osh-report-confirms-spray-fears
-title: "OSH report confirms spray fears"
-date: 2003-11-28
-source-url: https://www.scoop.co.nz/stories/PA0311/S00565/osh-report-confirms-spray-fears.htm
+title: OSH report confirms spray fears
+date: 2003-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00565/osh-report-confirms-spray-fears.htm
 author: green-party
+permalink: /archive/2003/11/28/osh-report-confirms-spray-fears/index.html
+layout: layout.njk
 ---
 OSH report confirms spray fears
 ===============================

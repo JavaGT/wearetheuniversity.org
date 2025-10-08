@@ -1,9 +1,12 @@
 ---
 slug: foreshore-law-and-politics-conference-prebble
-title: "Foreshore, Law And Politics Conference – Prebble"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/PA0309/S00147/foreshore-law-and-politics-conference-prebble.htm
+title: Foreshore, Law And Politics Conference – Prebble
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00147/foreshore-law-and-politics-conference-prebble.htm
 author: act-new-zealand
+permalink: /archive/2003/09/08/foreshore-law-and-politics-conference-prebble/index.html
+layout: layout.njk
 ---
 Foreshore, Law And Politics Conference – Prebble
 ================================================

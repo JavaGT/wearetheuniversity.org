@@ -1,9 +1,13 @@
 ---
 slug: low-inflation-time-for-meaningful-wage-increases
-title: "Low inflation – time for meaningful wage increases"
-date: 2014-10-23
-source-url: https://www.scoop.co.nz/stories/PO1410/S00227/low-inflation-time-for-meaningful-wage-increases.htm
+title: Low inflation – time for meaningful wage increases
+date: 2014-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00227/low-inflation-time-for-meaningful-wage-increases.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2014/10/23/low-inflation-time-for-meaningful-wage-increases/index.html
+layout: layout.njk
 ---
 Low inflation – time for meaningful wage increases
 ==================================================

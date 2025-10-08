@@ -1,9 +1,12 @@
 ---
 slug: students-confirm-support-for-lower-drinking-age
-title: "Students Confirm Support for Lower Drinking Age"
-date: 1999-09-01
-source-url: https://www.scoop.co.nz/stories/ED9909/S00001/students-confirm-support-for-lower-drinking-age.htm
+title: Students Confirm Support for Lower Drinking Age
+date: 1999-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00001/students-confirm-support-for-lower-drinking-age.htm
 author: victoria-university-students-association
+permalink: /archive/1999/09/01/students-confirm-support-for-lower-drinking-age/index.html
+layout: layout.njk
 ---
 Students Confirm Support for Lower Drinking Age
 ===============================================

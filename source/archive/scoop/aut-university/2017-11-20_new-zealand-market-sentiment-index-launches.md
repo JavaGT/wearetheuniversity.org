@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-market-sentiment-index-launches
-title: "New Zealand market sentiment index launches"
-date: 2017-11-20
-source-url: https://www.scoop.co.nz/stories/BU1711/S00591/new-zealand-market-sentiment-index-launches.htm
+title: New Zealand market sentiment index launches
+date: 2017-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1711/S00591/new-zealand-market-sentiment-index-launches.htm
 author: aut-university
+permalink: /archive/2017/11/20/new-zealand-market-sentiment-index-launches/index.html
+layout: layout.njk
 ---
 New Zealand market sentiment index launches
 ===========================================

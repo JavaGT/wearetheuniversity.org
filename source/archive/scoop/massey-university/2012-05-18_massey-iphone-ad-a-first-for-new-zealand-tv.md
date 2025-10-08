@@ -1,9 +1,12 @@
 ---
 slug: massey-iphone-ad-a-first-for-new-zealand-tv
-title: "Massey iPhone ad a first for New Zealand TV"
-date: 2012-05-18
-source-url: https://www.scoop.co.nz/stories/ED1205/S00079/massey-iphone-ad-a-first-for-new-zealand-tv.htm
+title: Massey iPhone ad a first for New Zealand TV
+date: 2012-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00079/massey-iphone-ad-a-first-for-new-zealand-tv.htm
 author: massey-university
+permalink: /archive/2012/05/18/massey-iphone-ad-a-first-for-new-zealand-tv/index.html
+layout: layout.njk
 ---
 Massey iPhone ad a first for New Zealand TV
 ===========================================

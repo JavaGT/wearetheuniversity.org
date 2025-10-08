@@ -1,9 +1,12 @@
 ---
 slug: do-what-we-do-do-well-says-prominent-scientist
-title: "‘Do What We Do Do Well’ Says Prominent Scientist"
-date: 2001-06-25
-source-url: https://www.scoop.co.nz/stories/ED0106/S00020/do-what-we-do-do-well-says-prominent-scientist.htm
+title: ‘Do What We Do Do Well’ Says Prominent Scientist
+date: 2001-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0106/S00020/do-what-we-do-do-well-says-prominent-scientist.htm
 author: lincoln-university
+permalink: /archive/2001/06/25/do-what-we-do-do-well-says-prominent-scientist/index.html
+layout: layout.njk
 ---
 ‘Do What We Do Do Well’ Says Prominent Scientist
 ================================================

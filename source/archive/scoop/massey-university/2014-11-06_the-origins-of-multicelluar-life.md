@@ -1,9 +1,12 @@
 ---
 slug: the-origins-of-multicelluar-life
-title: "The origins of multicelluar life"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/SC1411/S00018/the-origins-of-multicelluar-life.htm
+title: The origins of multicelluar life
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00018/the-origins-of-multicelluar-life.htm
 author: massey-university
+permalink: /archive/2014/11/06/the-origins-of-multicelluar-life/index.html
+layout: layout.njk
 ---
 The origins of multicelluar life
 ================================

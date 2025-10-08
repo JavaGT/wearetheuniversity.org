@@ -1,9 +1,12 @@
 ---
 slug: governments-ace-claims-under-the-spotlight
-title: "Government's ACE claims under the spotlight"
-date: 2009-09-22
-source-url: https://www.scoop.co.nz/stories/PA0909/S00303/governments-ace-claims-under-the-spotlight.htm
+title: Government's ACE claims under the spotlight
+date: 2009-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00303/governments-ace-claims-under-the-spotlight.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/22/governments-ace-claims-under-the-spotlight/index.html
+layout: layout.njk
 ---
 Government's ACE claims under the spotlight
 ===========================================

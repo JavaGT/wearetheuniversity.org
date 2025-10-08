@@ -1,9 +1,13 @@
 ---
 slug: labours-fiscal-plan-to-build-a-fairer-new-zealand
-title: "Labour’s fiscal plan to build a fairer New Zealand"
-date: 2017-07-19
-source-url: https://www.scoop.co.nz/stories/PA1707/S00270/labours-fiscal-plan-to-build-a-fairer-new-zealand.htm
+title: Labour’s fiscal plan to build a fairer New Zealand
+date: 2017-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00270/labours-fiscal-plan-to-build-a-fairer-new-zealand.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/07/19/labours-fiscal-plan-to-build-a-fairer-new-zealand/index.html
+layout: layout.njk
 ---
 Labour’s fiscal plan to build a fairer New Zealand
 ==================================================

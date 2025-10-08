@@ -1,9 +1,12 @@
 ---
 slug: national-to-boost-funding-for-special-needs
-title: "National to boost funding for special needs"
-date: 2014-09-05
-source-url: https://www.scoop.co.nz/stories/ED1409/S00035/national-to-boost-funding-for-special-needs.htm
+title: National to boost funding for special needs
+date: 2014-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00035/national-to-boost-funding-for-special-needs.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/05/national-to-boost-funding-for-special-needs/index.html
+layout: layout.njk
 ---
 National to boost funding for special needs
 ===========================================

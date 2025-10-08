@@ -1,9 +1,12 @@
 ---
 slug: katie-nimon-nationals-candidate-in-napier
-title: "Katie Nimon National’s candidate in Napier"
-date: 2020-05-07
-source-url: https://www.scoop.co.nz/stories/PO2005/S00088/katie-nimon-nationals-candidate-in-napier.htm
+title: Katie Nimon National’s candidate in Napier
+date: 2020-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00088/katie-nimon-nationals-candidate-in-napier.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/07/katie-nimon-nationals-candidate-in-napier/index.html
+layout: layout.njk
 ---
 Katie Nimon National’s candidate in Napier
 ==========================================

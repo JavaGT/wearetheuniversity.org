@@ -1,9 +1,13 @@
 ---
 slug: ensuring-the-future-of-telford-despite-taratahi-liquidation
-title: "Ensuring the Future of Telford Despite Taratahi Liquidation"
-date: 2018-12-20
-source-url: https://www.scoop.co.nz/stories/PA1812/S00269/ensuring-the-future-of-telford-despite-taratahi-liquidation.htm
+title: Ensuring the Future of Telford Despite Taratahi Liquidation
+date: 2018-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00269/ensuring-the-future-of-telford-despite-taratahi-liquidation.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2018/12/20/ensuring-the-future-of-telford-despite-taratahi-liquidation/index.html
+layout: layout.njk
 ---
 Ensuring the Future of Telford Despite Taratahi Liquidation
 ===========================================================

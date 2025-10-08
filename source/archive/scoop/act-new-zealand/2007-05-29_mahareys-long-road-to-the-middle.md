@@ -1,9 +1,12 @@
 ---
 slug: mahareys-long-road-to-the-middle
-title: "Maharey's Long Road...To The Middle"
-date: 2007-05-29
-source-url: https://www.scoop.co.nz/stories/PA0705/S00752/mahareys-long-roadto-the-middle.htm
+title: Maharey's Long Road...To The Middle
+date: 2007-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00752/mahareys-long-roadto-the-middle.htm
 author: act-new-zealand
+permalink: /archive/2007/05/29/mahareys-long-road-to-the-middle/index.html
+layout: layout.njk
 ---
 Maharey's Long Road...To The Middle
 ===================================

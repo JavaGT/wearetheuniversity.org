@@ -1,9 +1,13 @@
 ---
 slug: concern-at-public-private-sector-tertiary-educatio
-title: "Concern at public-private sector tertiary educatio"
-date: 2003-09-25
-source-url: https://www.scoop.co.nz/stories/ED0309/S00122/concern-at-public-private-sector-tertiary-educatio.htm
+title: Concern at public-private sector tertiary educatio
+date: 2003-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00122/concern-at-public-private-sector-tertiary-educatio.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2003/09/25/concern-at-public-private-sector-tertiary-educatio/index.html
+layout: layout.njk
 ---
 Concern at public-private sector tertiary educatio
 ==================================================

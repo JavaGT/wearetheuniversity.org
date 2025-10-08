@@ -1,9 +1,12 @@
 ---
 slug: groundbreaking-account-of-nz-publishing-house
-title: "Groundbreaking account of NZ publishing house"
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/CU0507/S00129/groundbreaking-account-of-nz-publishing-house.htm
+title: Groundbreaking account of NZ publishing house
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0507/S00129/groundbreaking-account-of-nz-publishing-house.htm
 author: university-of-canterbury
+permalink: /archive/2005/07/18/groundbreaking-account-of-nz-publishing-house/index.html
+layout: layout.njk
 ---
 Groundbreaking account of NZ publishing house
 =============================================

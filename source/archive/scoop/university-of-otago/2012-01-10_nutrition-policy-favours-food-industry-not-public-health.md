@@ -1,9 +1,13 @@
 ---
 slug: nutrition-policy-favours-food-industry-not-public-health
-title: "Nutrition policy favours food industry - not public health"
-date: 2012-01-10
-source-url: https://www.scoop.co.nz/stories/GE1201/S00011/nutrition-policy-favours-food-industry-not-public-health.htm
+title: Nutrition policy favours food industry - not public health
+date: 2012-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1201/S00011/nutrition-policy-favours-food-industry-not-public-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/01/10/nutrition-policy-favours-food-industry-not-public-health/index.html
+layout: layout.njk
 ---
 Nutrition policy favours food industry - not public health
 ==========================================================

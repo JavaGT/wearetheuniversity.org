@@ -1,9 +1,12 @@
 ---
 slug: dont-increase-student-fees-say-university-staff
-title: "Don’t increase student fees say university staff"
-date: 2004-10-11
-source-url: https://www.scoop.co.nz/stories/ED0410/S00038/dont-increase-student-fees-say-university-staff.htm
+title: Don’t increase student fees say university staff
+date: 2004-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00038/dont-increase-student-fees-say-university-staff.htm
 author: association-of-university-staff
+permalink: /archive/2004/10/11/dont-increase-student-fees-say-university-staff/index.html
+layout: layout.njk
 ---
 Don’t increase student fees say university staff
 ================================================

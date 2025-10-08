@@ -1,9 +1,12 @@
 ---
 slug: education-funding-cuts-laid-bare
-title: "Education funding cuts laid bare"
-date: 2016-09-25
-source-url: https://www.scoop.co.nz/stories/ED1609/S00123/education-funding-cuts-laid-bare.htm
+title: Education funding cuts laid bare
+date: 2016-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00123/education-funding-cuts-laid-bare.htm
 author: nzei
+permalink: /archive/2016/09/25/education-funding-cuts-laid-bare/index.html
+layout: layout.njk
 ---
 Education funding cuts laid bare
 ================================

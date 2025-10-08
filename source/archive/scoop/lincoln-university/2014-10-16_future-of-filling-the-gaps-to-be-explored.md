@@ -1,9 +1,12 @@
 ---
 slug: future-of-filling-the-gaps-to-be-explored
-title: "Future of filling the gaps to be explored"
-date: 2014-10-16
-source-url: https://www.scoop.co.nz/stories/ED1410/S00101/future-of-filling-the-gaps-to-be-explored.htm
+title: Future of filling the gaps to be explored
+date: 2014-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00101/future-of-filling-the-gaps-to-be-explored.htm
 author: lincoln-university
+permalink: /archive/2014/10/16/future-of-filling-the-gaps-to-be-explored/index.html
+layout: layout.njk
 ---
 Future of filling the gaps to be explored
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: university-turing-expert-wins-international-award
-title: "University Turing expert wins international award"
-date: 2015-03-15
-source-url: https://www.scoop.co.nz/stories/ED1503/S00062/university-turing-expert-wins-international-award.htm
+title: University Turing expert wins international award
+date: 2015-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00062/university-turing-expert-wins-international-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/15/university-turing-expert-wins-international-award/index.html
+layout: layout.njk
 ---
 University Turing expert wins international award
 =================================================

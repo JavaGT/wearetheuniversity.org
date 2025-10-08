@@ -1,9 +1,12 @@
 ---
 slug: students-elated-over-aut-fee-decision
-title: "Students Elated Over AUT Fee Decision"
-date: 2001-08-27
-source-url: https://www.scoop.co.nz/stories/ED0108/S00057/students-elated-over-aut-fee-decision.htm
+title: Students Elated Over AUT Fee Decision
+date: 2001-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00057/students-elated-over-aut-fee-decision.htm
 author: auckland-student-movement
+permalink: /archive/2001/08/27/students-elated-over-aut-fee-decision/index.html
+layout: layout.njk
 ---
 Students Elated Over AUT Fee Decision
 =====================================

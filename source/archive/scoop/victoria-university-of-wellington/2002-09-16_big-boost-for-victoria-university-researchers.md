@@ -1,9 +1,12 @@
 ---
 slug: big-boost-for-victoria-university-researchers
-title: "Big Boost for Victoria University Researchers"
-date: 2002-09-16
-source-url: https://www.scoop.co.nz/stories/ED0209/S00024/big-boost-for-victoria-university-researchers.htm
+title: Big Boost for Victoria University Researchers
+date: 2002-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00024/big-boost-for-victoria-university-researchers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/09/16/big-boost-for-victoria-university-researchers/index.html
+layout: layout.njk
 ---
 Big Boost for Victoria University Researchers
 =============================================

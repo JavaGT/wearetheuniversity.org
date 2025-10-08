@@ -1,9 +1,13 @@
 ---
 slug: vic-researchers-to-play-significant-role-in-global-project
-title: "Vic researchers to play significant role in global project"
-date: 2013-11-26
-source-url: https://www.scoop.co.nz/stories/ED1311/S00180/vic-researchers-to-play-significant-role-in-global-project.htm
+title: Vic researchers to play significant role in global project
+date: 2013-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00180/vic-researchers-to-play-significant-role-in-global-project.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/11/26/vic-researchers-to-play-significant-role-in-global-project/index.html
+layout: layout.njk
 ---
 Vic researchers to play significant role in global project
 ==========================================================

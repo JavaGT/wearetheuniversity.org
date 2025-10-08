@@ -1,9 +1,12 @@
 ---
 slug: angeline-greensill-to-stand-for-hauraki-waikato
-title: "Angeline Greensill to stand for Hauraki Waikato"
-date: 2007-11-29
-source-url: https://www.scoop.co.nz/stories/PO0711/S00469/angeline-greensill-to-stand-for-hauraki-waikato.htm
+title: Angeline Greensill to stand for Hauraki Waikato
+date: 2007-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0711/S00469/angeline-greensill-to-stand-for-hauraki-waikato.htm
 author: te-pati-maori
+permalink: /archive/2007/11/29/angeline-greensill-to-stand-for-hauraki-waikato/index.html
+layout: layout.njk
 ---
 Angeline Greensill to stand for Hauraki Waikato
 ===============================================

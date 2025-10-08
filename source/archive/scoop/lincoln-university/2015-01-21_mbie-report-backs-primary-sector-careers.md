@@ -1,9 +1,12 @@
 ---
 slug: mbie-report-backs-primary-sector-careers
-title: "MBIE report backs primary sector careers"
-date: 2015-01-21
-source-url: https://www.scoop.co.nz/stories/ED1501/S00058/mbie-report-backs-primary-sector-careers.htm
+title: MBIE report backs primary sector careers
+date: 2015-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00058/mbie-report-backs-primary-sector-careers.htm
 author: lincoln-university
+permalink: /archive/2015/01/21/mbie-report-backs-primary-sector-careers/index.html
+layout: layout.njk
 ---
 MBIE report backs primary sector careers
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-misuse-of-drugs-amendment-bill
-title: "Hone Harawira: Misuse of Drugs Amendment Bill"
-date: 2007-09-12
-source-url: https://www.scoop.co.nz/stories/PA0709/S00192/hone-harawira-misuse-of-drugs-amendment-bill.htm
+title: 'Hone Harawira: Misuse of Drugs Amendment Bill'
+date: 2007-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00192/hone-harawira-misuse-of-drugs-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/09/12/hone-harawira-misuse-of-drugs-amendment-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira: Misuse of Drugs Amendment Bill
 =============================================

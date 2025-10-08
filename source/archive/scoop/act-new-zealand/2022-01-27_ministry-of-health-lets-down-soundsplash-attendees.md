@@ -1,9 +1,13 @@
 ---
 slug: ministry-of-health-lets-down-soundsplash-attendees
-title: "Ministry Of Health Lets Down Soundsplash Attendees"
-date: 2022-01-27
-source-url: https://www.scoop.co.nz/stories/PA2201/S00104/ministry-of-health-lets-down-soundsplash-attendees.htm
+title: Ministry Of Health Lets Down Soundsplash Attendees
+date: 2022-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00104/ministry-of-health-lets-down-soundsplash-attendees.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/01/27/ministry-of-health-lets-down-soundsplash-attendees/index.html
+layout: layout.njk
 ---
 Ministry Of Health Lets Down Soundsplash Attendees
 ==================================================

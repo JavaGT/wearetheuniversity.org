@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-announces-exchange-programmes
-title: "University of Canterbury announces exchange programmes"
-date: 2011-03-04
-source-url: https://www.scoop.co.nz/stories/ED1103/S00036/university-of-canterbury-announces-exchange-programmes.htm
+title: University of Canterbury announces exchange programmes
+date: 2011-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00036/university-of-canterbury-announces-exchange-programmes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/03/04/university-of-canterbury-announces-exchange-programmes/index.html
+layout: layout.njk
 ---
 University of Canterbury announces exchange programmes
 ======================================================

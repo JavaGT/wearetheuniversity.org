@@ -1,9 +1,13 @@
 ---
 slug: long-working-hours-can-lead-to-alcohol-addictions
-title: "Long working hours can lead to alcohol addictions"
-date: 2011-08-08
-source-url: https://www.scoop.co.nz/stories/SC1108/S00023/long-working-hours-can-lead-to-alcohol-addictions.htm
+title: Long working hours can lead to alcohol addictions
+date: 2011-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1108/S00023/long-working-hours-can-lead-to-alcohol-addictions.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/08/08/long-working-hours-can-lead-to-alcohol-addictions/index.html
+layout: layout.njk
 ---
 Long working hours can lead to alcohol addictions
 =================================================

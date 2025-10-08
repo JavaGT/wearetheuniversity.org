@@ -1,9 +1,13 @@
 ---
 slug: education-minister-treats-at-risk-students-as-joke
-title: "Education Minister Treats ‘at Risk’ Students as Joke"
-date: 2016-09-07
-source-url: https://www.scoop.co.nz/stories/PA1609/S00126/education-minister-treats-at-risk-students-as-joke.htm
+title: Education Minister Treats ‘at Risk’ Students as Joke
+date: 2016-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00126/education-minister-treats-at-risk-students-as-joke.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/09/07/education-minister-treats-at-risk-students-as-joke/index.html
+layout: layout.njk
 ---
 Education Minister Treats ‘at Risk’ Students as Joke
 ====================================================

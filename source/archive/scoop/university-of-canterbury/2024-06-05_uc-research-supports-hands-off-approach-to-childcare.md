@@ -1,9 +1,13 @@
 ---
 slug: uc-research-supports-hands-off-approach-to-childcare
-title: "UC Research Supports Hands-off Approach To Childcare"
-date: 2024-06-05
-source-url: https://www.scoop.co.nz/stories/ED2406/S00006/uc-research-supports-hands-off-approach-to-childcare.htm
+title: UC Research Supports Hands-off Approach To Childcare
+date: 2024-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00006/uc-research-supports-hands-off-approach-to-childcare.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/06/05/uc-research-supports-hands-off-approach-to-childcare/index.html
+layout: layout.njk
 ---
 UC Research Supports Hands-off Approach To Childcare
 ====================================================

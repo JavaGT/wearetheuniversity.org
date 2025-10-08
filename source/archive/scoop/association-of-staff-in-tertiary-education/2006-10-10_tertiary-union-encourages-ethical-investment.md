@@ -1,9 +1,12 @@
 ---
 slug: tertiary-union-encourages-ethical-investment
-title: "Tertiary Union Encourages Ethical Investment"
-date: 2006-10-10
-source-url: https://www.scoop.co.nz/stories/ED0610/S00032/tertiary-union-encourages-ethical-investment.htm
+title: Tertiary Union Encourages Ethical Investment
+date: 2006-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00032/tertiary-union-encourages-ethical-investment.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2006/10/10/tertiary-union-encourages-ethical-investment/index.html
+layout: layout.njk
 ---
 Tertiary Union Encourages Ethical Investment
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: international-honours-for-māori-researchers
-title: "International honours for Māori researchers"
-date: 2014-04-04
-source-url: https://www.scoop.co.nz/stories/PA1404/S00094/international-honours-for-maori-researchers.htm
+title: International honours for Māori researchers
+date: 2014-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00094/international-honours-for-maori-researchers.htm
 author: te-pati-maori
+permalink: /archive/2014/04/04/international-honours-for-m/index.html
+layout: layout.njk
 ---
 International honours for Māori researchers
 ===========================================

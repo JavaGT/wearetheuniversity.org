@@ -1,9 +1,12 @@
 ---
 slug: children-need-to-talk-more-to-each-other
-title: "Children need to talk more to each other"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/CU1302/S00338/children-need-to-talk-more-to-each-other.htm
+title: Children need to talk more to each other
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1302/S00338/children-need-to-talk-more-to-each-other.htm
 author: university-of-canterbury
+permalink: /archive/2013/02/13/children-need-to-talk-more-to-each-other/index.html
+layout: layout.njk
 ---
 Children need to talk more to each other
 ========================================

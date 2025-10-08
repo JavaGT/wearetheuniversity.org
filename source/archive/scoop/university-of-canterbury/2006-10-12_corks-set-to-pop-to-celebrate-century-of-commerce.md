@@ -1,9 +1,13 @@
 ---
 slug: corks-set-to-pop-to-celebrate-century-of-commerce
-title: "Corks set to pop to celebrate century of commerce"
-date: 2006-10-12
-source-url: https://www.scoop.co.nz/stories/ED0610/S00055/corks-set-to-pop-to-celebrate-century-of-commerce.htm
+title: Corks set to pop to celebrate century of commerce
+date: 2006-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00055/corks-set-to-pop-to-celebrate-century-of-commerce.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2006/10/12/corks-set-to-pop-to-celebrate-century-of-commerce/index.html
+layout: layout.njk
 ---
 Corks set to pop to celebrate century of commerce
 =================================================

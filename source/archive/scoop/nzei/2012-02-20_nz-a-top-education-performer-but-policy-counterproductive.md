@@ -1,9 +1,13 @@
 ---
 slug: nz-a-top-education-performer-but-policy-counterproductive
-title: "NZ a top education performer but policy counterproductive"
-date: 2012-02-20
-source-url: https://www.scoop.co.nz/stories/ED1202/S00088/nz-a-top-education-performer-but-policy-counterproductive.htm
+title: NZ a top education performer but policy counterproductive
+date: 2012-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00088/nz-a-top-education-performer-but-policy-counterproductive.htm
 author: nzei
+permalink: >-
+  /archive/2012/02/20/nz-a-top-education-performer-but-policy-counterproductive/index.html
+layout: layout.njk
 ---
 NZ a top education performer but policy counterproductive
 =========================================================

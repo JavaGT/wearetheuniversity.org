@@ -1,9 +1,12 @@
 ---
 slug: truancy-database-absent-too-long
-title: "Truancy Database Absent Too Long"
-date: 2004-05-24
-source-url: https://www.scoop.co.nz/stories/PA0405/S00487/truancy-database-absent-too-long.htm
+title: Truancy Database Absent Too Long
+date: 2004-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00487/truancy-database-absent-too-long.htm
 author: act-new-zealand
+permalink: /archive/2004/05/24/truancy-database-absent-too-long/index.html
+layout: layout.njk
 ---
 Truancy Database Absent Too Long
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: nzs-aspiring-astronaut-returns-from-nasa-inspired
-title: "NZ’s aspiring astronaut returns from NASA inspired"
-date: 2016-10-10
-source-url: https://www.scoop.co.nz/stories/SC1610/S00025/nzs-aspiring-astronaut-returns-from-nasa-inspired.htm
+title: NZ’s aspiring astronaut returns from NASA inspired
+date: 2016-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00025/nzs-aspiring-astronaut-returns-from-nasa-inspired.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/10/10/nzs-aspiring-astronaut-returns-from-nasa-inspired/index.html
+layout: layout.njk
 ---
 NZ’s aspiring astronaut returns from NASA inspired
 ==================================================

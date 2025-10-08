@@ -1,9 +1,12 @@
 ---
 slug: good-news-ahead-for-pre-school-sector
-title: "Good News Ahead for Pre-school Sector"
-date: 2000-12-04
-source-url: https://www.scoop.co.nz/stories/PA0012/S00034/good-news-ahead-for-pre-school-sector.htm
+title: Good News Ahead for Pre-school Sector
+date: 2000-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00034/good-news-ahead-for-pre-school-sector.htm
 author: act-new-zealand
+permalink: /archive/2000/12/04/good-news-ahead-for-pre-school-sector/index.html
+layout: layout.njk
 ---
 Good News Ahead for Pre-school Sector
 =====================================

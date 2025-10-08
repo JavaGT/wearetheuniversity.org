@@ -1,9 +1,12 @@
 ---
 slug: sportspeople-warned-alcohol-affects-performance
-title: "Sportspeople warned: alcohol affects performance"
-date: 2009-01-14
-source-url: https://www.scoop.co.nz/stories/ED0901/S00018/sportspeople-warned-alcohol-affects-performance.htm
+title: 'Sportspeople warned: alcohol affects performance'
+date: 2009-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00018/sportspeople-warned-alcohol-affects-performance.htm
 author: massey-university
+permalink: /archive/2009/01/14/sportspeople-warned-alcohol-affects-performance/index.html
+layout: layout.njk
 ---
 Sportspeople warned: alcohol affects performance
 ================================================

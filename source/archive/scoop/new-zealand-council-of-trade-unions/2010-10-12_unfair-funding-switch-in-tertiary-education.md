@@ -1,9 +1,12 @@
 ---
 slug: unfair-funding-switch-in-tertiary-education
-title: "Unfair funding switch in tertiary education"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/ED1010/S00036/unfair-funding-switch-in-tertiary-education.htm
+title: Unfair funding switch in tertiary education
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00036/unfair-funding-switch-in-tertiary-education.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/10/12/unfair-funding-switch-in-tertiary-education/index.html
+layout: layout.njk
 ---
 Unfair funding switch in tertiary education
 ===========================================

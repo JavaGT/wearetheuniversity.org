@@ -1,9 +1,12 @@
 ---
 slug: wildfire-clues-uncovered-in-ancient-sand-dunes
-title: "Wildfire Clues Uncovered In Ancient Sand Dunes"
-date: 2023-05-12
-source-url: https://www.scoop.co.nz/stories/SC2305/S00012/wildfire-clues-uncovered-in-ancient-sand-dunes.htm
+title: Wildfire Clues Uncovered In Ancient Sand Dunes
+date: 2023-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2305/S00012/wildfire-clues-uncovered-in-ancient-sand-dunes.htm
 author: university-of-canterbury
+permalink: /archive/2023/05/12/wildfire-clues-uncovered-in-ancient-sand-dunes/index.html
+layout: layout.njk
 ---
 Wildfire Clues Uncovered In Ancient Sand Dunes
 ==============================================

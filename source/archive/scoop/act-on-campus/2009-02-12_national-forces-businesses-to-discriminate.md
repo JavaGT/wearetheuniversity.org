@@ -1,9 +1,12 @@
 ---
 slug: national-forces-businesses-to-discriminate
-title: "National Forces Businesses To Discriminate"
-date: 2009-02-12
-source-url: https://www.scoop.co.nz/stories/PO0902/S00119/national-forces-businesses-to-discriminate.htm
+title: National Forces Businesses To Discriminate
+date: 2009-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0902/S00119/national-forces-businesses-to-discriminate.htm
 author: act-on-campus
+permalink: /archive/2009/02/12/national-forces-businesses-to-discriminate/index.html
+layout: layout.njk
 ---
 National Forces Businesses To Discriminate
 ==========================================

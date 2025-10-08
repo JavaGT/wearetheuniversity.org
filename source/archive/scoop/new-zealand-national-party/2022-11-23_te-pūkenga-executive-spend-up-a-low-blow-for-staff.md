@@ -1,9 +1,12 @@
 ---
 slug: te-pūkenga-executive-spend-up-a-low-blow-for-staff
-title: "Te Pūkenga Executive Spend-up A Low Blow For Staff"
-date: 2022-11-23
-source-url: https://www.scoop.co.nz/stories/PA2211/S00189/te-pukenga-executive-spend-up-a-low-blow-for-staff.htm
+title: Te Pūkenga Executive Spend-up A Low Blow For Staff
+date: 2022-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00189/te-pukenga-executive-spend-up-a-low-blow-for-staff.htm
 author: new-zealand-national-party
+permalink: /archive/2022/11/23/te-p/index.html
+layout: layout.njk
 ---
 Te Pūkenga Executive Spend-up A Low Blow For Staff
 ==================================================

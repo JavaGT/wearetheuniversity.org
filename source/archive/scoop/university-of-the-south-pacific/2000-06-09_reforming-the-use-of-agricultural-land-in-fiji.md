@@ -1,9 +1,12 @@
 ---
 slug: reforming-the-use-of-agricultural-land-in-fiji
-title: "Reforming The Use Of Agricultural Land In Fiji"
-date: 2000-06-09
-source-url: https://www.scoop.co.nz/stories/WO0006/S00062/reforming-the-use-of-agricultural-land-in-fiji.htm
+title: Reforming The Use Of Agricultural Land In Fiji
+date: 2000-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0006/S00062/reforming-the-use-of-agricultural-land-in-fiji.htm
 author: university-of-the-south-pacific
+permalink: /archive/2000/06/09/reforming-the-use-of-agricultural-land-in-fiji/index.html
+layout: layout.njk
 ---
 Reforming The Use Of Agricultural Land In Fiji
 ==============================================

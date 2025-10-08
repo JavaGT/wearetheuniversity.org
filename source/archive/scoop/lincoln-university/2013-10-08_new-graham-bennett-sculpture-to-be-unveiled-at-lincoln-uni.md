@@ -1,9 +1,13 @@
 ---
 slug: new-graham-bennett-sculpture-to-be-unveiled-at-lincoln-uni
-title: "New Graham Bennett sculpture to be unveiled at Lincoln Uni"
-date: 2013-10-08
-source-url: https://www.scoop.co.nz/stories/CU1310/S00134/new-graham-bennett-sculpture-to-be-unveiled-at-lincoln-uni.htm
+title: New Graham Bennett sculpture to be unveiled at Lincoln Uni
+date: 2013-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00134/new-graham-bennett-sculpture-to-be-unveiled-at-lincoln-uni.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/10/08/new-graham-bennett-sculpture-to-be-unveiled-at-lincoln-uni/index.html
+layout: layout.njk
 ---
 New Graham Bennett sculpture to be unveiled at Lincoln Uni
 ==========================================================

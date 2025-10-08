@@ -1,9 +1,12 @@
 ---
 slug: effect-of-rampant-house-prices-widens
-title: "Effect of rampant house prices widens"
-date: 2016-07-15
-source-url: https://www.scoop.co.nz/stories/PA1607/S00242/effect-of-rampant-house-prices-widens.htm
+title: Effect of rampant house prices widens
+date: 2016-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00242/effect-of-rampant-house-prices-widens.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/15/effect-of-rampant-house-prices-widens/index.html
+layout: layout.njk
 ---
 Effect of rampant house prices widens
 =====================================

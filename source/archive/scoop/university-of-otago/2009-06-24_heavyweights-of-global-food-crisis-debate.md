@@ -1,9 +1,12 @@
 ---
 slug: heavyweights-of-global-food-crisis-debate
-title: "Heavyweights Of Global Food Crisis Debate"
-date: 2009-06-24
-source-url: https://www.scoop.co.nz/stories/ED0906/S00069/heavyweights-of-global-food-crisis-debate.htm
+title: Heavyweights Of Global Food Crisis Debate
+date: 2009-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00069/heavyweights-of-global-food-crisis-debate.htm
 author: university-of-otago
+permalink: /archive/2009/06/24/heavyweights-of-global-food-crisis-debate/index.html
+layout: layout.njk
 ---
 Heavyweights Of Global Food Crisis Debate
 =========================================

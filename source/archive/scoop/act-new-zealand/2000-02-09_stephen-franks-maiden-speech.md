@@ -1,9 +1,11 @@
 ---
 slug: stephen-franks-maiden-speech
-title: "Stephen Franks Maiden Speech"
-date: 2000-02-09
+title: Stephen Franks Maiden Speech
+date: 2000-02-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0002/S00098/stephen-franks-maiden-speech.htm
 author: act-new-zealand
+permalink: /archive/2000/02/09/stephen-franks-maiden-speech/index.html
+layout: layout.njk
 ---
 Stephen Franks Maiden Speech
 ============================

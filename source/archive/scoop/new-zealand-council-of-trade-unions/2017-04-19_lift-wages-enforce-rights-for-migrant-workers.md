@@ -1,9 +1,12 @@
 ---
 slug: lift-wages-enforce-rights-for-migrant-workers
-title: "Lift wages, enforce rights for migrant workers"
-date: 2017-04-19
-source-url: https://www.scoop.co.nz/stories/PO1704/S00206/lift-wages-enforce-rights-for-migrant-workers.htm
+title: Lift wages, enforce rights for migrant workers
+date: 2017-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00206/lift-wages-enforce-rights-for-migrant-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2017/04/19/lift-wages-enforce-rights-for-migrant-workers/index.html
+layout: layout.njk
 ---
 Lift wages, enforce rights for migrant workers
 ==============================================

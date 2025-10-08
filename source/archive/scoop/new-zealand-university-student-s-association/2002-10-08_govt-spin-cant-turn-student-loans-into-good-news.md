@@ -1,9 +1,13 @@
 ---
 slug: govt-spin-cant-turn-student-loans-into-good-news
-title: "Govt Spin Can’t Turn Student Loans Into Good News"
-date: 2002-10-08
-source-url: https://www.scoop.co.nz/stories/ED0210/S00022/govt-spin-cant-turn-student-loans-into-good-news.htm
+title: Govt Spin Can’t Turn Student Loans Into Good News
+date: 2002-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00022/govt-spin-cant-turn-student-loans-into-good-news.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2002/10/08/govt-spin-cant-turn-student-loans-into-good-news/index.html
+layout: layout.njk
 ---
 Govt Spin Can’t Turn Student Loans Into Good News
 =================================================

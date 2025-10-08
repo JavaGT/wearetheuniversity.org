@@ -1,9 +1,13 @@
 ---
 slug: jaelynns-video-of-fun-class-time-wins-school-top-prize
-title: "Jaelynn’s video of fun class time wins school top prize"
-date: 2015-09-04
-source-url: https://www.scoop.co.nz/stories/ED1509/S00028/jaelynns-video-of-fun-class-time-wins-school-top-prize.htm
+title: Jaelynn’s video of fun class time wins school top prize
+date: 2015-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00028/jaelynns-video-of-fun-class-time-wins-school-top-prize.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/09/04/jaelynns-video-of-fun-class-time-wins-school-top-prize/index.html
+layout: layout.njk
 ---
 Jaelynn’s video of fun class time wins school top prize
 =======================================================

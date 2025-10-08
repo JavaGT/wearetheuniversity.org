@@ -1,9 +1,12 @@
 ---
 slug: special-seminar-wednesday-june-29-4pm
-title: "Special Seminar - Wednesday June 29, 4pm"
-date: 2016-06-23
-source-url: https://www.scoop.co.nz/stories/AK1606/S00759/special-seminar-wednesday-june-29-4pm.htm
+title: Special Seminar - Wednesday June 29, 4pm
+date: 2016-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1606/S00759/special-seminar-wednesday-june-29-4pm.htm
 author: university-of-otago
+permalink: /archive/2016/06/23/special-seminar-wednesday-june-29-4pm/index.html
+layout: layout.njk
 ---
 Special Seminar - Wednesday June 29, 4pm
 ========================================

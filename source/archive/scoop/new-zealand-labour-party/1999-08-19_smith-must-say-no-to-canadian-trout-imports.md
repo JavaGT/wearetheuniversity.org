@@ -1,9 +1,12 @@
 ---
 slug: smith-must-say-no-to-canadian-trout-imports
-title: "Smith must say no to Canadian trout imports"
-date: 1999-08-19
-source-url: https://www.scoop.co.nz/stories/PA9908/S00338/smith-must-say-no-to-canadian-trout-imports.htm
+title: Smith must say no to Canadian trout imports
+date: 1999-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00338/smith-must-say-no-to-canadian-trout-imports.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/19/smith-must-say-no-to-canadian-trout-imports/index.html
+layout: layout.njk
 ---
 Smith must say no to Canadian trout imports
 ===========================================

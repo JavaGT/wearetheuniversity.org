@@ -1,9 +1,12 @@
 ---
 slug: immigration-minister-asleep-at-the-wheel
-title: "Immigration Minister asleep at the wheel"
-date: 2018-07-31
-source-url: https://www.scoop.co.nz/stories/PA1807/S00271/immigration-minister-asleep-at-the-wheel.htm
+title: Immigration Minister asleep at the wheel
+date: 2018-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00271/immigration-minister-asleep-at-the-wheel.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/31/immigration-minister-asleep-at-the-wheel/index.html
+layout: layout.njk
 ---
 Immigration Minister asleep at the wheel
 ========================================

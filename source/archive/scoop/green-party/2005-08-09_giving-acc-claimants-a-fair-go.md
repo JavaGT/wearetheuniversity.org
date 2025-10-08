@@ -1,9 +1,12 @@
 ---
 slug: giving-acc-claimants-a-fair-go
-title: "Giving ACC claimants a fair go"
-date: 2005-08-09
-source-url: https://www.scoop.co.nz/stories/PA0508/S00240/giving-acc-claimants-a-fair-go.htm
+title: Giving ACC claimants a fair go
+date: 2005-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00240/giving-acc-claimants-a-fair-go.htm
 author: green-party
+permalink: /archive/2005/08/09/giving-acc-claimants-a-fair-go/index.html
+layout: layout.njk
 ---
 Giving ACC claimants a fair go
 ==============================

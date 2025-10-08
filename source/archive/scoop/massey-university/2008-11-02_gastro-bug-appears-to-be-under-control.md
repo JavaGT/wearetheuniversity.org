@@ -1,9 +1,12 @@
 ---
 slug: gastro-bug-appears-to-be-under-control
-title: "Gastro bug appears to be under control"
-date: 2008-11-02
-source-url: https://www.scoop.co.nz/stories/GE0811/S00001/gastro-bug-appears-to-be-under-control.htm
+title: Gastro bug appears to be under control
+date: 2008-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0811/S00001/gastro-bug-appears-to-be-under-control.htm
 author: massey-university
+permalink: /archive/2008/11/02/gastro-bug-appears-to-be-under-control/index.html
+layout: layout.njk
 ---
 Gastro bug appears to be under control
 ======================================

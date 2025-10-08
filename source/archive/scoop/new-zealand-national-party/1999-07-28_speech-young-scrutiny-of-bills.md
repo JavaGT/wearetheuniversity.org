@@ -1,9 +1,12 @@
 ---
 slug: speech-young-scrutiny-of-bills
-title: "Speech: Young - Scrutiny of Bills"
-date: 1999-07-28
-source-url: https://www.scoop.co.nz/stories/PA9907/S00550/speech-young-scrutiny-of-bills.htm
+title: 'Speech: Young - Scrutiny of Bills'
+date: 1999-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00550/speech-young-scrutiny-of-bills.htm
 author: new-zealand-national-party
+permalink: /archive/1999/07/28/speech-young-scrutiny-of-bills/index.html
+layout: layout.njk
 ---
 Speech: Young - Scrutiny of Bills
 =================================

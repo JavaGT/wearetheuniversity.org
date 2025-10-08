@@ -1,9 +1,13 @@
 ---
 slug: principals-see-poverty-damaging-more-kids-education
-title: "Principals see poverty damaging more kids' education"
-date: 2015-05-04
-source-url: https://www.scoop.co.nz/stories/ED1505/S00015/principals-see-poverty-damaging-more-kids-education.htm
+title: Principals see poverty damaging more kids' education
+date: 2015-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00015/principals-see-poverty-damaging-more-kids-education.htm
 author: nzei
+permalink: >-
+  /archive/2015/05/04/principals-see-poverty-damaging-more-kids-education/index.html
+layout: layout.njk
 ---
 Principals see poverty damaging more kids' education
 ====================================================

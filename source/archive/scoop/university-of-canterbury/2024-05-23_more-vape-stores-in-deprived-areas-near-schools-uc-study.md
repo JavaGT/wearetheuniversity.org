@@ -1,9 +1,13 @@
 ---
 slug: more-vape-stores-in-deprived-areas-near-schools-uc-study
-title: "More Vape Stores In Deprived Areas, Near Schools – UC Study"
-date: 2024-05-23
-source-url: https://www.scoop.co.nz/stories/GE2405/S00104/more-vape-stores-in-deprived-areas-near-schools-uc-study.htm
+title: More Vape Stores In Deprived Areas, Near Schools – UC Study
+date: 2024-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2405/S00104/more-vape-stores-in-deprived-areas-near-schools-uc-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/23/more-vape-stores-in-deprived-areas-near-schools-uc-study/index.html
+layout: layout.njk
 ---
 More Vape Stores In Deprived Areas, Near Schools – UC Study
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-era-ahead-in-environmental-management
-title: "New era ahead in environmental management"
-date: 2003-08-01
-source-url: https://www.scoop.co.nz/stories/ED0308/S00003/new-era-ahead-in-environmental-management.htm
+title: New era ahead in environmental management
+date: 2003-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00003/new-era-ahead-in-environmental-management.htm
 author: lincoln-university
+permalink: /archive/2003/08/01/new-era-ahead-in-environmental-management/index.html
+layout: layout.njk
 ---
 New era ahead in environmental management
 =========================================

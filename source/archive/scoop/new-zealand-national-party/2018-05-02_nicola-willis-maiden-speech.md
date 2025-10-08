@@ -1,9 +1,11 @@
 ---
 slug: nicola-willis-maiden-speech
-title: "Nicola Willis – Maiden Speech"
-date: 2018-05-02
+title: Nicola Willis – Maiden Speech
+date: 2018-05-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1805/S00026/nicola-willis-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/02/nicola-willis-maiden-speech/index.html
+layout: layout.njk
 ---
 Nicola Willis – Maiden Speech
 =============================

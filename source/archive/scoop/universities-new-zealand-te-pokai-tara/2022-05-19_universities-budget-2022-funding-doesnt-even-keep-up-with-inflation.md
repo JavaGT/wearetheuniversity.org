@@ -1,9 +1,13 @@
 ---
 slug: universities-budget-2022-funding-doesnt-even-keep-up-with-inflation
-title: "Universities’ Budget 2022 Funding Doesn’t Even Keep Up With Inflation"
-date: 2022-05-19
-source-url: https://www.scoop.co.nz/stories/ED2205/S00037/universities-budget-2022-funding-doesnt-even-keep-up-with-inflation.htm
+title: Universities’ Budget 2022 Funding Doesn’t Even Keep Up With Inflation
+date: 2022-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00037/universities-budget-2022-funding-doesnt-even-keep-up-with-inflation.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/05/19/universities-budget-2022-funding-doesnt-even-keep-up-with-inflation/index.html
+layout: layout.njk
 ---
 Universities’ Budget 2022 Funding Doesn’t Even Keep Up With Inflation
 =====================================================================

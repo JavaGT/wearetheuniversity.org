@@ -1,9 +1,13 @@
 ---
 slug: sir-anand-satyanand-appointed-as-university-chancellor
-title: "Sir Anand Satyanand appointed as University Chancellor"
-date: 2019-08-06
-source-url: https://www.scoop.co.nz/stories/BU1908/S00146/sir-anand-satyanand-appointed-as-university-chancellor.htm
+title: Sir Anand Satyanand appointed as University Chancellor
+date: 2019-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1908/S00146/sir-anand-satyanand-appointed-as-university-chancellor.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/08/06/sir-anand-satyanand-appointed-as-university-chancellor/index.html
+layout: layout.njk
 ---
 Sir Anand Satyanand appointed as University Chancellor
 ======================================================

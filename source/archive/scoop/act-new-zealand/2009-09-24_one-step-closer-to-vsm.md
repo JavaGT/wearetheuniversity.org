@@ -1,9 +1,11 @@
 ---
 slug: one-step-closer-to-vsm
-title: "One Step Closer To VSM"
-date: 2009-09-24
+title: One Step Closer To VSM
+date: 2009-09-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0909/S00342/one-step-closer-to-vsm.htm
 author: act-new-zealand
+permalink: /archive/2009/09/24/one-step-closer-to-vsm/index.html
+layout: layout.njk
 ---
 One Step Closer To VSM
 ======================

@@ -1,9 +1,12 @@
 ---
 slug: 4400-students-affected-by-govt-unlawful-actions
-title: "4,400 Students affected by Govt. unlawful actions"
-date: 2005-01-21
-source-url: https://www.scoop.co.nz/stories/ED0501/S00046/4400-students-affected-by-govt-unlawful-actions.htm
+title: 4,400 Students affected by Govt. unlawful actions
+date: 2005-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00046/4400-students-affected-by-govt-unlawful-actions.htm
 author: unitec-student-union
+permalink: /archive/2005/01/21/4400-students-affected-by-govt-unlawful-actions/index.html
+layout: layout.njk
 ---
 4,400 Students affected by Govt. unlawful actions
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-christmas-edition
-title: "Heather Roy's Diary - Christmas Edition"
-date: 2009-12-23
-source-url: https://www.scoop.co.nz/stories/PA0912/S00368/heather-roys-diary-christmas-edition.htm
+title: Heather Roy's Diary - Christmas Edition
+date: 2009-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00368/heather-roys-diary-christmas-edition.htm
 author: act-new-zealand
+permalink: /archive/2009/12/23/heather-roys-diary-christmas-edition/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Christmas Edition
 =======================================

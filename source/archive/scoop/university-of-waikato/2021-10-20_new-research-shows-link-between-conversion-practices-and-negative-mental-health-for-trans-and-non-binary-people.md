@@ -1,9 +1,16 @@
 ---
-slug: new-research-shows-link-between-conversion-practices-and-negative-mental-health-for-trans-and-non-binary-people
-title: "New Research Shows Link Between Conversion Practices And Negative Mental Health For Trans And Non-binary People"
-date: 2021-10-20
-source-url: https://www.scoop.co.nz/stories/GE2110/S00175/new-research-shows-link-between-conversion-practices-and-negative-mental-health-for-trans-and-non-binary-people.htm
+slug: >-
+  new-research-shows-link-between-conversion-practices-and-negative-mental-health-for-trans-and-non-binary-people
+title: >-
+  New Research Shows Link Between Conversion Practices And Negative Mental
+  Health For Trans And Non-binary People
+date: 2021-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2110/S00175/new-research-shows-link-between-conversion-practices-and-negative-mental-health-for-trans-and-non-binary-people.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/10/20/new-research-shows-link-between-conversion-practices-and-negative-mental-health-for-trans-and-non-binary-people/index.html
+layout: layout.njk
 ---
 New Research Shows Link Between Conversion Practices And Negative Mental Health For Trans And Non-binary People
 ===============================================================================================================

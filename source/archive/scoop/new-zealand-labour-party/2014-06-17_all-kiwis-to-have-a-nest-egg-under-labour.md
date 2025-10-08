@@ -1,9 +1,12 @@
 ---
 slug: all-kiwis-to-have-a-nest-egg-under-labour
-title: "All Kiwis to have a nest egg under Labour"
-date: 2014-06-17
-source-url: https://www.scoop.co.nz/stories/PA1406/S00225/all-kiwis-to-have-a-nest-egg-under-labour.htm
+title: All Kiwis to have a nest egg under Labour
+date: 2014-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00225/all-kiwis-to-have-a-nest-egg-under-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/17/all-kiwis-to-have-a-nest-egg-under-labour/index.html
+layout: layout.njk
 ---
 All Kiwis to have a nest egg under Labour
 =========================================

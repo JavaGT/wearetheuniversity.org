@@ -1,9 +1,13 @@
 ---
 slug: aut-first-in-nz-to-use-xero-lifelong-learning-platform
-title: "AUT first in NZ to use Xero Lifelong Learning Platform"
-date: 2018-04-09
-source-url: https://www.scoop.co.nz/stories/ED1804/S00024/aut-first-in-nz-to-use-xero-lifelong-learning-platform.htm
+title: AUT first in NZ to use Xero Lifelong Learning Platform
+date: 2018-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00024/aut-first-in-nz-to-use-xero-lifelong-learning-platform.htm
 author: aut-university
+permalink: >-
+  /archive/2018/04/09/aut-first-in-nz-to-use-xero-lifelong-learning-platform/index.html
+layout: layout.njk
 ---
 AUT first in NZ to use Xero Lifelong Learning Platform
 ======================================================

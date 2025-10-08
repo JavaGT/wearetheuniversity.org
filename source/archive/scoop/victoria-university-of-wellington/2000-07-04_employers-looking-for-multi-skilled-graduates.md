@@ -1,9 +1,12 @@
 ---
 slug: employers-looking-for-multi-skilled-graduates
-title: "Employers looking for multi-skilled graduates"
-date: 2000-07-04
-source-url: https://www.scoop.co.nz/stories/ED0007/S00001/employers-looking-for-multi-skilled-graduates.htm
+title: Employers looking for multi-skilled graduates
+date: 2000-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00001/employers-looking-for-multi-skilled-graduates.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/07/04/employers-looking-for-multi-skilled-graduates/index.html
+layout: layout.njk
 ---
 Employers looking for multi-skilled graduates
 =============================================

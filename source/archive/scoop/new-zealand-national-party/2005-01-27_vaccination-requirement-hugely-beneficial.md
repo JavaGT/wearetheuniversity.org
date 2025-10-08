@@ -1,9 +1,12 @@
 ---
 slug: vaccination-requirement-hugely-beneficial
-title: "Vaccination requirement hugely beneficial"
-date: 2005-01-27
-source-url: https://www.scoop.co.nz/stories/PA0501/S00248/vaccination-requirement-hugely-beneficial.htm
+title: Vaccination requirement hugely beneficial
+date: 2005-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00248/vaccination-requirement-hugely-beneficial.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/27/vaccination-requirement-hugely-beneficial/index.html
+layout: layout.njk
 ---
 Vaccination requirement hugely beneficial
 =========================================

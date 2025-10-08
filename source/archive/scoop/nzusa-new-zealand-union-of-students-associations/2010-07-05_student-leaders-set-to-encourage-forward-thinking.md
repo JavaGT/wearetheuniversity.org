@@ -1,9 +1,13 @@
 ---
 slug: student-leaders-set-to-encourage-forward-thinking
-title: "Student Leaders Set To Encourage Forward Thinking"
-date: 2010-07-05
-source-url: https://www.scoop.co.nz/stories/ED1007/S00024/student-leaders-set-to-encourage-forward-thinking.htm
+title: Student Leaders Set To Encourage Forward Thinking
+date: 2010-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00024/student-leaders-set-to-encourage-forward-thinking.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2010/07/05/student-leaders-set-to-encourage-forward-thinking/index.html
+layout: layout.njk
 ---
 Student Leaders Set To Encourage Forward Thinking
 =================================================

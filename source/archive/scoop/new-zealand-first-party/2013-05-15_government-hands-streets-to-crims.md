@@ -1,9 +1,12 @@
 ---
 slug: government-hands-streets-to-crims
-title: "Government Hands Streets to Crims"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/PA1305/S00231/government-hands-streets-to-crims.htm
+title: Government Hands Streets to Crims
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00231/government-hands-streets-to-crims.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/15/government-hands-streets-to-crims/index.html
+layout: layout.njk
 ---
 Government Hands Streets to Crims
 =================================

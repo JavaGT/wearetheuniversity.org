@@ -1,9 +1,12 @@
 ---
 slug: mexican-university-in-meat-technology-exchange
-title: "Mexican University in meat technology exchange"
-date: 2006-12-15
-source-url: https://www.scoop.co.nz/stories/ED0612/S00049/mexican-university-in-meat-technology-exchange.htm
+title: Mexican University in meat technology exchange
+date: 2006-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00049/mexican-university-in-meat-technology-exchange.htm
 author: massey-university
+permalink: /archive/2006/12/15/mexican-university-in-meat-technology-exchange/index.html
+layout: layout.njk
 ---
 Mexican University in meat technology exchange
 ==============================================

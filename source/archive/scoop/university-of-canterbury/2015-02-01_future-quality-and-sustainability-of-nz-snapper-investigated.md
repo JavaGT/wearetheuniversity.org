@@ -1,9 +1,13 @@
 ---
 slug: future-quality-and-sustainability-of-nz-snapper-investigated
-title: "Future quality and sustainability of NZ snapper investigated"
-date: 2015-02-01
-source-url: https://www.scoop.co.nz/stories/ED1502/S00001/future-quality-and-sustainability-of-nz-snapper-investigated.htm
+title: Future quality and sustainability of NZ snapper investigated
+date: 2015-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00001/future-quality-and-sustainability-of-nz-snapper-investigated.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/01/future-quality-and-sustainability-of-nz-snapper-investigated/index.html
+layout: layout.njk
 ---
 Future quality and sustainability of NZ snapper investigated
 ============================================================

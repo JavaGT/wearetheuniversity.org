@@ -1,9 +1,12 @@
 ---
 slug: māori-world-view-leads-to-greater-life-satisfaction
-title: "Māori world view leads to greater life satisfaction"
-date: 2015-09-16
-source-url: https://www.scoop.co.nz/stories/ED1509/S00097/maori-world-view-leads-to-greater-life-satisfaction.htm
+title: Māori world view leads to greater life satisfaction
+date: 2015-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00097/maori-world-view-leads-to-greater-life-satisfaction.htm
 author: massey-university
+permalink: /archive/2015/09/16/m/index.html
+layout: layout.njk
 ---
 Māori world view leads to greater life satisfaction
 ===================================================

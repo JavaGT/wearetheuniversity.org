@@ -1,9 +1,13 @@
 ---
 slug: andrew-littles-speech-to-the-industry-training-federation
-title: "Andrew Little's speech to the Industry Training Federation"
-date: 2016-07-26
-source-url: https://www.scoop.co.nz/stories/PA1607/S00362/andrew-littles-speech-to-the-industry-training-federation.htm
+title: Andrew Little's speech to the Industry Training Federation
+date: 2016-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00362/andrew-littles-speech-to-the-industry-training-federation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/07/26/andrew-littles-speech-to-the-industry-training-federation/index.html
+layout: layout.njk
 ---
 Andrew Little's speech to the Industry Training Federation
 ==========================================================

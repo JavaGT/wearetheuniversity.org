@@ -1,9 +1,12 @@
 ---
 slug: enhancing-professionalism-of-social-work
-title: "Enhancing professionalism of social work"
-date: 2016-09-20
-source-url: https://www.scoop.co.nz/stories/ED1609/S00096/enhancing-professionalism-of-social-work.htm
+title: Enhancing professionalism of social work
+date: 2016-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00096/enhancing-professionalism-of-social-work.htm
 author: massey-university
+permalink: /archive/2016/09/20/enhancing-professionalism-of-social-work/index.html
+layout: layout.njk
 ---
 Enhancing professionalism of social work
 ========================================

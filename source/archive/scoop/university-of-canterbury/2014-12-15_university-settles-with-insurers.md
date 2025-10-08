@@ -1,9 +1,12 @@
 ---
 slug: university-settles-with-insurers
-title: "University settles with insurers"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/ED1412/S00103/university-settles-with-insurers.htm
+title: University settles with insurers
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00103/university-settles-with-insurers.htm
 author: university-of-canterbury
+permalink: /archive/2014/12/15/university-settles-with-insurers/index.html
+layout: layout.njk
 ---
 University settles with insurers
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: online-money-lending-takes-top-prize
-title: "Online money lending takes top prize"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/BU0709/S00411/online-money-lending-takes-top-prize.htm
+title: Online money lending takes top prize
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0709/S00411/online-money-lending-takes-top-prize.htm
 author: university-of-auckland-business-school
+permalink: /archive/2007/09/21/online-money-lending-takes-top-prize/index.html
+layout: layout.njk
 ---
 Online money lending takes top prize
 ====================================

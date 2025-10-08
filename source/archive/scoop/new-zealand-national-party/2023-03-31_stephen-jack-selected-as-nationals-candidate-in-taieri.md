@@ -1,9 +1,13 @@
 ---
 slug: stephen-jack-selected-as-nationals-candidate-in-taieri
-title: "Stephen Jack Selected As National’s Candidate In Taieri"
-date: 2023-03-31
-source-url: https://www.scoop.co.nz/stories/PO2303/S00274/stephen-jack-selected-as-nationals-candidate-in-taieri.htm
+title: Stephen Jack Selected As National’s Candidate In Taieri
+date: 2023-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00274/stephen-jack-selected-as-nationals-candidate-in-taieri.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/31/stephen-jack-selected-as-nationals-candidate-in-taieri/index.html
+layout: layout.njk
 ---
 Stephen Jack Selected As National’s Candidate In Taieri
 =======================================================

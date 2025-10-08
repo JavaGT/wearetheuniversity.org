@@ -1,9 +1,13 @@
 ---
 slug: students-spread-safety-message-about-preventing-child-falls
-title: "Students spread safety message about preventing child falls"
-date: 2017-05-17
-source-url: https://www.scoop.co.nz/stories/GE1705/S00109/students-spread-safety-message-about-preventing-child-falls.htm
+title: Students spread safety message about preventing child falls
+date: 2017-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00109/students-spread-safety-message-about-preventing-child-falls.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/05/17/students-spread-safety-message-about-preventing-child-falls/index.html
+layout: layout.njk
 ---
 Students spread safety message about preventing child falls
 ===========================================================

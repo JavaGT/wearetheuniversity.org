@@ -1,9 +1,12 @@
 ---
 slug: sharples-aste-annual-conference-speech
-title: "Sharples: ASTE Annual Conference Speech"
-date: 2007-10-04
-source-url: https://www.scoop.co.nz/stories/PA0710/S00072/sharples-aste-annual-conference-speech.htm
+title: 'Sharples: ASTE Annual Conference Speech'
+date: 2007-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00072/sharples-aste-annual-conference-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/10/04/sharples-aste-annual-conference-speech/index.html
+layout: layout.njk
 ---
 Sharples: ASTE Annual Conference Speech
 =======================================

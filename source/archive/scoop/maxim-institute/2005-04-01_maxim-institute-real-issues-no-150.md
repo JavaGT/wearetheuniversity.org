@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-150
-title: "Maxim Institute - Real Issues - No 150"
-date: 2005-04-01
-source-url: https://www.scoop.co.nz/stories/PO0504/S00004/maxim-institute-real-issues-no-150.htm
+title: Maxim Institute - Real Issues - No 150
+date: 2005-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00004/maxim-institute-real-issues-no-150.htm
 author: maxim-institute
+permalink: /archive/2005/04/01/maxim-institute-real-issues-no-150/index.html
+layout: layout.njk
 ---
 Maxim Institute - Real Issues - No 150
 ======================================

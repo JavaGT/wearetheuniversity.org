@@ -1,9 +1,13 @@
 ---
 slug: katene-public-health-and-disability-amendment-bil
-title: "Katene: Public Health and Disability Amendment Bil"
-date: 2010-05-20
-source-url: https://www.scoop.co.nz/stories/PA1005/S00277/katene-public-health-and-disability-amendment-bil.htm
+title: 'Katene: Public Health and Disability Amendment Bil'
+date: 2010-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00277/katene-public-health-and-disability-amendment-bil.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/05/20/katene-public-health-and-disability-amendment-bil/index.html
+layout: layout.njk
 ---
 Katene: Public Health and Disability Amendment Bil
 ==================================================

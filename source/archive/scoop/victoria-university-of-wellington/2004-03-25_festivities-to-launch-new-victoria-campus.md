@@ -1,9 +1,12 @@
 ---
 slug: festivities-to-launch-new-victoria-campus
-title: "Festivities to launch new Victoria campus"
-date: 2004-03-25
-source-url: https://www.scoop.co.nz/stories/ED0403/S00104/festivities-to-launch-new-victoria-campus.htm
+title: Festivities to launch new Victoria campus
+date: 2004-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00104/festivities-to-launch-new-victoria-campus.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/25/festivities-to-launch-new-victoria-campus/index.html
+layout: layout.njk
 ---
 Festivities to launch new Victoria campus
 =========================================

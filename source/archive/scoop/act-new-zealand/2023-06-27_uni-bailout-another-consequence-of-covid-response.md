@@ -1,9 +1,13 @@
 ---
 slug: uni-bailout-another-consequence-of-covid-response
-title: "Uni Bailout Another Consequence Of COVID Response"
-date: 2023-06-27
-source-url: https://www.scoop.co.nz/stories/PA2306/S00177/uni-bailout-another-consequence-of-covid-response.htm
+title: Uni Bailout Another Consequence Of COVID Response
+date: 2023-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00177/uni-bailout-another-consequence-of-covid-response.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/06/27/uni-bailout-another-consequence-of-covid-response/index.html
+layout: layout.njk
 ---
 Uni Bailout Another Consequence Of COVID Response
 =================================================

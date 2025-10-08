@@ -1,9 +1,13 @@
 ---
 slug: governance-changes-cynical-attempt-to-silence-critics
-title: "Governance changes cynical attempt to silence critics"
-date: 2014-02-11
-source-url: https://www.scoop.co.nz/stories/PA1402/S00125/governance-changes-cynical-attempt-to-silence-critics.htm
+title: Governance changes cynical attempt to silence critics
+date: 2014-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00125/governance-changes-cynical-attempt-to-silence-critics.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/02/11/governance-changes-cynical-attempt-to-silence-critics/index.html
+layout: layout.njk
 ---
 Governance changes cynical attempt to silence critics
 =====================================================

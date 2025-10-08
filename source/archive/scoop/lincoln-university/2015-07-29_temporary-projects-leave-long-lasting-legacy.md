@@ -1,9 +1,12 @@
 ---
 slug: temporary-projects-leave-long-lasting-legacy
-title: "Temporary projects leave long-lasting legacy"
-date: 2015-07-29
-source-url: https://www.scoop.co.nz/stories/AK1507/S00561/temporary-projects-leave-long-lasting-legacy.htm
+title: Temporary projects leave long-lasting legacy
+date: 2015-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1507/S00561/temporary-projects-leave-long-lasting-legacy.htm
 author: lincoln-university
+permalink: /archive/2015/07/29/temporary-projects-leave-long-lasting-legacy/index.html
+layout: layout.njk
 ---
 Temporary projects leave long-lasting legacy
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: candidate-subject-to-discriminatory-law
-title: "Candidate subject to discriminatory law"
-date: 2008-09-08
-source-url: https://www.scoop.co.nz/stories/PO0809/S00087/candidate-subject-to-discriminatory-law.htm
+title: Candidate subject to discriminatory law
+date: 2008-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00087/candidate-subject-to-discriminatory-law.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2008/09/08/candidate-subject-to-discriminatory-law/index.html
+layout: layout.njk
 ---
 Candidate subject to discriminatory law
 =======================================

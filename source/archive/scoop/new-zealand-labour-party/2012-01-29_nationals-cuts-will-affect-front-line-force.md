@@ -1,9 +1,12 @@
 ---
 slug: nationals-cuts-will-affect-front-line-force
-title: "National’s cuts will affect front line force"
-date: 2012-01-29
-source-url: https://www.scoop.co.nz/stories/PA1201/S00111/nationals-cuts-will-affect-front-line-force.htm
+title: National’s cuts will affect front line force
+date: 2012-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1201/S00111/nationals-cuts-will-affect-front-line-force.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/01/29/nationals-cuts-will-affect-front-line-force/index.html
+layout: layout.njk
 ---
 National’s cuts will affect front line force
 ============================================

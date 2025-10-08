@@ -1,9 +1,11 @@
 ---
 slug: cullen-challenge-to-act
-title: "Cullen challenge to Act"
-date: 1999-10-24
+title: Cullen challenge to Act
+date: 1999-10-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9910/S00561/cullen-challenge-to-act.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/24/cullen-challenge-to-act/index.html
+layout: layout.njk
 ---
 Cullen challenge to Act
 =======================

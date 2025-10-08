@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-opponents-in-panic
-title: "Speech: Peters - Opponents in Panic"
-date: 2017-07-21
-source-url: https://www.scoop.co.nz/stories/PA1707/S00320/speech-peters-opponents-in-panic.htm
+title: 'Speech: Peters - Opponents in Panic'
+date: 2017-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00320/speech-peters-opponents-in-panic.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/21/speech-peters-opponents-in-panic/index.html
+layout: layout.njk
 ---
 Speech: Peters - Opponents in Panic
 ===================================

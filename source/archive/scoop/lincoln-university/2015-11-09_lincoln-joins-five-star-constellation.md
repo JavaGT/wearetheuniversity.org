@@ -1,9 +1,12 @@
 ---
 slug: lincoln-joins-five-star-constellation
-title: "Lincoln joins five star constellation"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/ED1511/S00051/lincoln-joins-five-star-constellation.htm
+title: Lincoln joins five star constellation
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00051/lincoln-joins-five-star-constellation.htm
 author: lincoln-university
+permalink: /archive/2015/11/09/lincoln-joins-five-star-constellation/index.html
+layout: layout.njk
 ---
 Lincoln joins five star constellation
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: supporting-new-zealand-savings-a-no-brainer
-title: "Supporting New Zealand Savings a No Brainer"
-date: 2014-08-29
-source-url: https://www.scoop.co.nz/stories/PA1408/S00451/supporting-new-zealand-savings-a-no-brainer.htm
+title: Supporting New Zealand Savings a No Brainer
+date: 2014-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00451/supporting-new-zealand-savings-a-no-brainer.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/29/supporting-new-zealand-savings-a-no-brainer/index.html
+layout: layout.njk
 ---
 Supporting New Zealand Savings a No Brainer
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: acute-rheumatic-fever-rates-worsening-in-māori
-title: "Acute rheumatic fever rates worsening in Māori"
-date: 2008-12-15
-source-url: https://www.scoop.co.nz/stories/GE0812/S00084/acute-rheumatic-fever-rates-worsening-in-maori.htm
+title: Acute rheumatic fever rates worsening in Māori
+date: 2008-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0812/S00084/acute-rheumatic-fever-rates-worsening-in-maori.htm
 author: university-of-otago
+permalink: /archive/2008/12/15/acute-rheumatic-fever-rates-worsening-in-m/index.html
+layout: layout.njk
 ---
 Acute rheumatic fever rates worsening in Māori
 ==============================================

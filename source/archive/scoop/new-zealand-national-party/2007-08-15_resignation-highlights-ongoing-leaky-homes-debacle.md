@@ -1,9 +1,13 @@
 ---
 slug: resignation-highlights-ongoing-leaky-homes-debacle
-title: "Resignation highlights ongoing leaky homes debacle"
-date: 2007-08-15
-source-url: https://www.scoop.co.nz/stories/PA0708/S00256/resignation-highlights-ongoing-leaky-homes-debacle.htm
+title: Resignation highlights ongoing leaky homes debacle
+date: 2007-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00256/resignation-highlights-ongoing-leaky-homes-debacle.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/08/15/resignation-highlights-ongoing-leaky-homes-debacle/index.html
+layout: layout.njk
 ---
 Resignation highlights ongoing leaky homes debacle
 ==================================================

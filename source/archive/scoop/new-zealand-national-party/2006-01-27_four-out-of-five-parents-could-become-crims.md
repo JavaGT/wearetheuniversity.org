@@ -1,9 +1,12 @@
 ---
 slug: four-out-of-five-parents-could-become-crims
-title: "Four out of five parents could become crims"
-date: 2006-01-27
-source-url: https://www.scoop.co.nz/stories/PA0601/S00151/four-out-of-five-parents-could-become-crims.htm
+title: Four out of five parents could become crims
+date: 2006-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00151/four-out-of-five-parents-could-become-crims.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/27/four-out-of-five-parents-could-become-crims/index.html
+layout: layout.njk
 ---
 Four out of five parents could become crims
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: unique-take-on-classic-french-opera
-title: "Unique Take On Classic French Opera"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/CU1208/S00184/unique-take-on-classic-french-opera.htm
+title: Unique Take On Classic French Opera
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1208/S00184/unique-take-on-classic-french-opera.htm
 author: university-of-waikato
+permalink: /archive/2012/08/09/unique-take-on-classic-french-opera/index.html
+layout: layout.njk
 ---
 Unique Take On Classic French Opera
 ===================================

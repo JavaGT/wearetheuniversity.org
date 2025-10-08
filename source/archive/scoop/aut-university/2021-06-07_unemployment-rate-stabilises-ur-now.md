@@ -1,9 +1,12 @@
 ---
 slug: unemployment-rate-stabilises-ur-now
-title: "Unemployment Rate Stabilises – UR NOW"
-date: 2021-06-07
-source-url: https://www.scoop.co.nz/stories/BU2106/S00111/unemployment-rate-stabilises-ur-now.htm
+title: Unemployment Rate Stabilises – UR NOW
+date: 2021-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2106/S00111/unemployment-rate-stabilises-ur-now.htm
 author: aut-university
+permalink: /archive/2021/06/07/unemployment-rate-stabilises-ur-now/index.html
+layout: layout.njk
 ---
 Unemployment Rate Stabilises – UR NOW
 =====================================

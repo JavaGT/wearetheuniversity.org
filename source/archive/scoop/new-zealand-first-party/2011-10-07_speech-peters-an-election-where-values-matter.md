@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-an-election-where-values-matter
-title: "Speech: Peters - ‘An Election where Values Matter’"
-date: 2011-10-07
-source-url: https://www.scoop.co.nz/stories/PO1110/S00123/speech-peters-an-election-where-values-matter.htm
+title: 'Speech: Peters - ‘An Election where Values Matter’'
+date: 2011-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00123/speech-peters-an-election-where-values-matter.htm
 author: new-zealand-first-party
+permalink: /archive/2011/10/07/speech-peters-an-election-where-values-matter/index.html
+layout: layout.njk
 ---
 Speech: Peters - ‘An Election where Values Matter’
 ==================================================

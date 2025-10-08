@@ -1,9 +1,12 @@
 ---
 slug: $94-million-in-literacy-and-numeracy-cuts
-title: "$94 million in literacy and numeracy cuts"
-date: 2009-06-19
-source-url: https://www.scoop.co.nz/stories/PA0906/S00271/94-million-in-literacy-and-numeracy-cuts.htm
+title: $94 million in literacy and numeracy cuts
+date: 2009-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00271/94-million-in-literacy-and-numeracy-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/19/94-million-in-literacy-and-numeracy-cuts/index.html
+layout: layout.njk
 ---
 $94 million in literacy and numeracy cuts
 =========================================

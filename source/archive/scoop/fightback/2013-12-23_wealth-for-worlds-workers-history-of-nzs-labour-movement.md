@@ -1,9 +1,13 @@
 ---
 slug: wealth-for-worlds-workers-history-of-nzs-labour-movement
-title: "Wealth for World’s Workers: History of NZ’s labour movement"
-date: 2013-12-23
-source-url: https://www.scoop.co.nz/stories/HL1312/S00183/wealth-for-worlds-workers-history-of-nzs-labour-movement.htm
+title: 'Wealth for World’s Workers: History of NZ’s labour movement'
+date: 2013-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1312/S00183/wealth-for-worlds-workers-history-of-nzs-labour-movement.htm
 author: fightback
+permalink: >-
+  /archive/2013/12/23/wealth-for-worlds-workers-history-of-nzs-labour-movement/index.html
+layout: layout.njk
 ---
 Wealth for World’s Workers: History of NZ’s labour movement
 ===========================================================

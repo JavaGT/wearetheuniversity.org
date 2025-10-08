@@ -1,9 +1,12 @@
 ---
 slug: the-social-side-of-human-economic-behaviour
-title: "The social side of human economic behaviour"
-date: 2012-08-02
-source-url: https://www.scoop.co.nz/stories/PA1208/S00050/the-social-side-of-human-economic-behaviour.htm
+title: The social side of human economic behaviour
+date: 2012-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00050/the-social-side-of-human-economic-behaviour.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/02/the-social-side-of-human-economic-behaviour/index.html
+layout: layout.njk
 ---
 The social side of human economic behaviour
 ===========================================

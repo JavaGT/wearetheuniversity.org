@@ -1,9 +1,12 @@
 ---
 slug: graduate-a-finalist-in-national-beauty-pageant
-title: "Graduate a finalist in national beauty pageant"
-date: 2008-05-01
-source-url: https://www.scoop.co.nz/stories/ED0805/S00004/graduate-a-finalist-in-national-beauty-pageant.htm
+title: Graduate a finalist in national beauty pageant
+date: 2008-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00004/graduate-a-finalist-in-national-beauty-pageant.htm
 author: massey-university
+permalink: /archive/2008/05/01/graduate-a-finalist-in-national-beauty-pageant/index.html
+layout: layout.njk
 ---
 Graduate a finalist in national beauty pageant
 ==============================================

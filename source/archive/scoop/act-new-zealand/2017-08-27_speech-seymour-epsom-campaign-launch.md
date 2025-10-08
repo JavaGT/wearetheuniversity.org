@@ -1,9 +1,12 @@
 ---
 slug: speech-seymour-epsom-campaign-launch
-title: "Speech: Seymour - Epsom Campaign Launch"
-date: 2017-08-27
-source-url: https://www.scoop.co.nz/stories/PA1708/S00497/speech-seymour-epsom-campaign-launch.htm
+title: 'Speech: Seymour - Epsom Campaign Launch'
+date: 2017-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00497/speech-seymour-epsom-campaign-launch.htm
 author: act-new-zealand
+permalink: /archive/2017/08/27/speech-seymour-epsom-campaign-launch/index.html
+layout: layout.njk
 ---
 Speech: Seymour - Epsom Campaign Launch
 =======================================

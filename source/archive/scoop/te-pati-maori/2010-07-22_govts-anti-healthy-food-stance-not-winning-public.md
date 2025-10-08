@@ -1,9 +1,13 @@
 ---
 slug: govts-anti-healthy-food-stance-not-winning-public
-title: "Govt's anti-healthy food stance not winning public"
-date: 2010-07-22
-source-url: https://www.scoop.co.nz/stories/PA1007/S00350/govts-anti-healthy-food-stance-not-winning-public.htm
+title: Govt's anti-healthy food stance not winning public
+date: 2010-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00350/govts-anti-healthy-food-stance-not-winning-public.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/07/22/govts-anti-healthy-food-stance-not-winning-public/index.html
+layout: layout.njk
 ---
 Govt's anti-healthy food stance not winning public
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: investigating-nutrition-in-young-children-with-autism
-title: "Investigating nutrition in young children with autism"
-date: 2015-05-08
-source-url: https://www.scoop.co.nz/stories/GE1505/S00039/investigating-nutrition-in-young-children-with-autism.htm
+title: Investigating nutrition in young children with autism
+date: 2015-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1505/S00039/investigating-nutrition-in-young-children-with-autism.htm
 author: massey-university
+permalink: >-
+  /archive/2015/05/08/investigating-nutrition-in-young-children-with-autism/index.html
+layout: layout.njk
 ---
 Investigating nutrition in young children with autism
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: supreme-court-bill-courts-conference-timely
-title: "Supreme Court Bill - Courts conference timely"
-date: 2003-11-27
-source-url: https://www.scoop.co.nz/stories/ED0311/S00090/supreme-court-bill-courts-conference-timely.htm
+title: Supreme Court Bill - Courts conference timely
+date: 2003-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00090/supreme-court-bill-courts-conference-timely.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/11/27/supreme-court-bill-courts-conference-timely/index.html
+layout: layout.njk
 ---
 Supreme Court Bill - Courts conference timely
 =============================================

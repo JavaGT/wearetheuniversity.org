@@ -1,9 +1,12 @@
 ---
 slug: lowering-police-training-standards-a-bad-idea
-title: "Lowering police training standards a bad idea"
-date: 2018-02-22
-source-url: https://www.scoop.co.nz/stories/PA1802/S00213/lowering-police-training-standards-a-bad-idea.htm
+title: Lowering police training standards a bad idea
+date: 2018-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00213/lowering-police-training-standards-a-bad-idea.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/22/lowering-police-training-standards-a-bad-idea/index.html
+layout: layout.njk
 ---
 Lowering police training standards a bad idea
 =============================================

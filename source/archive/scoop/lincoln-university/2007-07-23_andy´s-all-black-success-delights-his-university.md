@@ -1,9 +1,12 @@
 ---
 slug: andy´s-all-black-success-delights-his-university
-title: "Andy´s All Black success delights his University"
-date: 2007-07-23
-source-url: https://www.scoop.co.nz/stories/ED0707/S00073/andys-all-black-success-delights-his-university.htm
+title: Andy´s All Black success delights his University
+date: 2007-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00073/andys-all-black-success-delights-his-university.htm
 author: lincoln-university
+permalink: /archive/2007/07/23/andy/index.html
+layout: layout.njk
 ---
 Andy´s All Black success delights his University
 ================================================

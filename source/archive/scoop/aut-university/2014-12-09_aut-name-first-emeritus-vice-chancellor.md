@@ -1,9 +1,12 @@
 ---
 slug: aut-name-first-emeritus-vice-chancellor
-title: "AUT name first Emeritus Vice Chancellor"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/ED1412/S00058/aut-name-first-emeritus-vice-chancellor.htm
+title: AUT name first Emeritus Vice Chancellor
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00058/aut-name-first-emeritus-vice-chancellor.htm
 author: aut-university
+permalink: /archive/2014/12/09/aut-name-first-emeritus-vice-chancellor/index.html
+layout: layout.njk
 ---
 AUT name first Emeritus Vice Chancellor
 =======================================

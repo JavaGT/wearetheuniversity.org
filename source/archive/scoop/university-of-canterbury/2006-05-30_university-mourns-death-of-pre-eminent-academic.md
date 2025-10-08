@@ -1,9 +1,12 @@
 ---
 slug: university-mourns-death-of-pre-eminent-academic
-title: "University mourns death of pre-eminent academic"
-date: 2006-05-30
-source-url: https://www.scoop.co.nz/stories/ED0605/S00110/university-mourns-death-of-pre-eminent-academic.htm
+title: University mourns death of pre-eminent academic
+date: 2006-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00110/university-mourns-death-of-pre-eminent-academic.htm
 author: university-of-canterbury
+permalink: /archive/2006/05/30/university-mourns-death-of-pre-eminent-academic/index.html
+layout: layout.njk
 ---
 University mourns death of pre-eminent academic
 ===============================================

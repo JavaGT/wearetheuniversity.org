@@ -1,9 +1,12 @@
 ---
 slug: mp-congratulates-tuhoe-festival-participants
-title: "MP congratulates Tuhoe festival participants"
-date: 2009-04-08
-source-url: https://www.scoop.co.nz/stories/PA0904/S00116/mp-congratulates-tuhoe-festival-participants.htm
+title: MP congratulates Tuhoe festival participants
+date: 2009-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00116/mp-congratulates-tuhoe-festival-participants.htm
 author: te-pati-maori
+permalink: /archive/2009/04/08/mp-congratulates-tuhoe-festival-participants/index.html
+layout: layout.njk
 ---
 MP congratulates Tuhoe festival participants
 ============================================

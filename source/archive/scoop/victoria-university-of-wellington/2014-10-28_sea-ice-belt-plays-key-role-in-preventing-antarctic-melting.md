@@ -1,9 +1,13 @@
 ---
 slug: sea-ice-belt-plays-key-role-in-preventing-antarctic-melting
-title: "Sea ice belt plays key role in preventing Antarctic melting"
-date: 2014-10-28
-source-url: https://www.scoop.co.nz/stories/SC1410/S00080/sea-ice-belt-plays-key-role-in-preventing-antarctic-melting.htm
+title: Sea ice belt plays key role in preventing Antarctic melting
+date: 2014-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00080/sea-ice-belt-plays-key-role-in-preventing-antarctic-melting.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/10/28/sea-ice-belt-plays-key-role-in-preventing-antarctic-melting/index.html
+layout: layout.njk
 ---
 Sea ice belt plays key role in preventing Antarctic melting
 ===========================================================

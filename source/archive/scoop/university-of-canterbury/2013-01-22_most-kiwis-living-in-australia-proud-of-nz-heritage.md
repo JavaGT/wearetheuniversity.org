@@ -1,9 +1,13 @@
 ---
 slug: most-kiwis-living-in-australia-proud-of-nz-heritage
-title: "Most Kiwis living in Australia proud of NZ heritage"
-date: 2013-01-22
-source-url: https://www.scoop.co.nz/stories/CU1301/S00282/most-kiwis-living-in-australia-proud-of-nz-heritage.htm
+title: Most Kiwis living in Australia proud of NZ heritage
+date: 2013-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1301/S00282/most-kiwis-living-in-australia-proud-of-nz-heritage.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/22/most-kiwis-living-in-australia-proud-of-nz-heritage/index.html
+layout: layout.njk
 ---
 Most Kiwis living in Australia proud of NZ heritage
 ===================================================

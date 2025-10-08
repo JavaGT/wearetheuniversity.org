@@ -1,9 +1,13 @@
 ---
 slug: strength-training-carries-weight-for-obese-teens
-title: "Strength training carries weight for obese teens"
-date: 2017-02-20
-source-url: https://www.scoop.co.nz/stories/GE1702/S00093/strength-training-carries-weight-for-obese-teens.htm
+title: Strength training carries weight for obese teens
+date: 2017-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1702/S00093/strength-training-carries-weight-for-obese-teens.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/02/20/strength-training-carries-weight-for-obese-teens/index.html
+layout: layout.njk
 ---
 Strength training carries weight for obese teens
 ================================================

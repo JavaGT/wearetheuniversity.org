@@ -1,9 +1,12 @@
 ---
 slug: nz-first-shows-ignorance-on-algerian-amnesty
-title: "NZ First shows ignorance on Algerian amnesty"
-date: 2006-03-09
-source-url: https://www.scoop.co.nz/stories/PA0603/S00166/nz-first-shows-ignorance-on-algerian-amnesty.htm
+title: NZ First shows ignorance on Algerian amnesty
+date: 2006-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00166/nz-first-shows-ignorance-on-algerian-amnesty.htm
 author: green-party
+permalink: /archive/2006/03/09/nz-first-shows-ignorance-on-algerian-amnesty/index.html
+layout: layout.njk
 ---
 NZ First shows ignorance on Algerian amnesty
 ============================================

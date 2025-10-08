@@ -1,9 +1,11 @@
 ---
 slug: medical-mission-impossible
-title: "Medical Mission Impossible"
-date: 2004-09-01
+title: Medical Mission Impossible
+date: 2004-09-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0409/S00016/medical-mission-impossible.htm
 author: act-new-zealand
+permalink: /archive/2004/09/01/medical-mission-impossible/index.html
+layout: layout.njk
 ---
 Medical Mission Impossible
 ==========================

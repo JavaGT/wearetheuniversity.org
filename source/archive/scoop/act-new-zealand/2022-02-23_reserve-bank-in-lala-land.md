@@ -1,9 +1,11 @@
 ---
 slug: reserve-bank-in-lala-land
-title: "Reserve Bank In Lala Land"
-date: 2022-02-23
+title: Reserve Bank In Lala Land
+date: 2022-02-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2202/S00173/reserve-bank-in-lala-land.htm
 author: act-new-zealand
+permalink: /archive/2022/02/23/reserve-bank-in-lala-land/index.html
+layout: layout.njk
 ---
 Reserve Bank In Lala Land
 =========================

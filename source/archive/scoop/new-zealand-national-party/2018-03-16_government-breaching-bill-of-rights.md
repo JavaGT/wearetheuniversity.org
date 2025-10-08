@@ -1,9 +1,12 @@
 ---
 slug: government-breaching-bill-of-rights
-title: "Government breaching Bill of Rights"
-date: 2018-03-16
-source-url: https://www.scoop.co.nz/stories/PA1803/S00173/government-breaching-bill-of-rights.htm
+title: Government breaching Bill of Rights
+date: 2018-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00173/government-breaching-bill-of-rights.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/16/government-breaching-bill-of-rights/index.html
+layout: layout.njk
 ---
 Government breaching Bill of Rights
 ===================================

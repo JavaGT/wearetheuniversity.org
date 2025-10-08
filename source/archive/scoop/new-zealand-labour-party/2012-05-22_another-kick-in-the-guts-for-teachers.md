@@ -1,9 +1,12 @@
 ---
 slug: another-kick-in-the-guts-for-teachers
-title: "Another kick in the guts for teachers"
-date: 2012-05-22
-source-url: https://www.scoop.co.nz/stories/PA1205/S00366/another-kick-in-the-guts-for-teachers.htm
+title: Another kick in the guts for teachers
+date: 2012-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00366/another-kick-in-the-guts-for-teachers.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/22/another-kick-in-the-guts-for-teachers/index.html
+layout: layout.njk
 ---
 Another kick in the guts for teachers
 =====================================

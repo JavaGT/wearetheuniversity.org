@@ -1,9 +1,12 @@
 ---
 slug: high-country-study-claims-entirely-unfounded
-title: "High Country study claims 'entirely unfounded'"
-date: 2006-11-26
-source-url: https://www.scoop.co.nz/stories/PO0611/S00380/high-country-study-claims-entirely-unfounded.htm
+title: High Country study claims 'entirely unfounded'
+date: 2006-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0611/S00380/high-country-study-claims-entirely-unfounded.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/26/high-country-study-claims-entirely-unfounded/index.html
+layout: layout.njk
 ---
 High Country study claims 'entirely unfounded'
 ==============================================

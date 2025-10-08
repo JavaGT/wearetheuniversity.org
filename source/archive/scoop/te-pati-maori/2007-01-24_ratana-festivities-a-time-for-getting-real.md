@@ -1,9 +1,12 @@
 ---
 slug: ratana-festivities-a-time-for-getting-real
-title: "Ratana Festivities a Time for Getting Real"
-date: 2007-01-24
-source-url: https://www.scoop.co.nz/stories/PA0701/S00135/ratana-festivities-a-time-for-getting-real.htm
+title: Ratana Festivities a Time for Getting Real
+date: 2007-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00135/ratana-festivities-a-time-for-getting-real.htm
 author: te-pati-maori
+permalink: /archive/2007/01/24/ratana-festivities-a-time-for-getting-real/index.html
+layout: layout.njk
 ---
 Ratana Festivities a Time for Getting Real
 ==========================================

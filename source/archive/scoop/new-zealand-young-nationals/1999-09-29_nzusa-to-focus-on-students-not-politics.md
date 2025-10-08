@@ -1,9 +1,12 @@
 ---
 slug: nzusa-to-focus-on-students-not-politics
-title: "NZUSA to focus on students, not politics"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/PO9909/S00105/nzusa-to-focus-on-students-not-politics.htm
+title: NZUSA to focus on students, not politics
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00105/nzusa-to-focus-on-students-not-politics.htm
 author: new-zealand-young-nationals
+permalink: /archive/1999/09/29/nzusa-to-focus-on-students-not-politics/index.html
+layout: layout.njk
 ---
 NZUSA to focus on students, not politics
 ========================================

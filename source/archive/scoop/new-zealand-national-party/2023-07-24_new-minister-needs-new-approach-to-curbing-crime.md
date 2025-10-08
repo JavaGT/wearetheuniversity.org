@@ -1,9 +1,13 @@
 ---
 slug: new-minister-needs-new-approach-to-curbing-crime
-title: "New Minister Needs New Approach To Curbing Crime"
-date: 2023-07-24
-source-url: https://www.scoop.co.nz/stories/PA2307/S00126/new-minister-needs-new-approach-to-curbing-crime.htm
+title: New Minister Needs New Approach To Curbing Crime
+date: 2023-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00126/new-minister-needs-new-approach-to-curbing-crime.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/07/24/new-minister-needs-new-approach-to-curbing-crime/index.html
+layout: layout.njk
 ---
 New Minister Needs New Approach To Curbing Crime
 ================================================

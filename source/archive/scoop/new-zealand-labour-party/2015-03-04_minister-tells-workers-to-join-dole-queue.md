@@ -1,9 +1,12 @@
 ---
 slug: minister-tells-workers-to-join-dole-queue
-title: "Minister tells workers to join dole queue"
-date: 2015-03-04
-source-url: https://www.scoop.co.nz/stories/PA1503/S00035/minister-tells-workers-to-join-dole-queue.htm
+title: Minister tells workers to join dole queue
+date: 2015-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00035/minister-tells-workers-to-join-dole-queue.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/04/minister-tells-workers-to-join-dole-queue/index.html
+layout: layout.njk
 ---
 Minister tells workers to join dole queue
 =========================================

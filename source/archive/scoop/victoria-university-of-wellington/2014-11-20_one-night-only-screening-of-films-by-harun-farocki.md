@@ -1,9 +1,13 @@
 ---
 slug: one-night-only-screening-of-films-by-harun-farocki
-title: "One-night-only screening of films by Harun Farocki"
-date: 2014-11-20
-source-url: https://www.scoop.co.nz/stories/CU1411/S00368/one-night-only-screening-of-films-by-harun-farocki.htm
+title: One-night-only screening of films by Harun Farocki
+date: 2014-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00368/one-night-only-screening-of-films-by-harun-farocki.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/20/one-night-only-screening-of-films-by-harun-farocki/index.html
+layout: layout.njk
 ---
 One-night-only screening of films by Harun Farocki
 ==================================================

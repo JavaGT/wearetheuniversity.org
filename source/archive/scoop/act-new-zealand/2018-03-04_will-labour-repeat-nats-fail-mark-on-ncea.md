@@ -1,9 +1,12 @@
 ---
 slug: will-labour-repeat-nats-fail-mark-on-ncea
-title: "Will Labour Repeat Nats’ Fail Mark on NCEA?"
-date: 2018-03-04
-source-url: https://www.scoop.co.nz/stories/PA1803/S00040/will-labour-repeat-nats-fail-mark-on-ncea.htm
+title: Will Labour Repeat Nats’ Fail Mark on NCEA?
+date: 2018-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00040/will-labour-repeat-nats-fail-mark-on-ncea.htm
 author: act-new-zealand
+permalink: /archive/2018/03/04/will-labour-repeat-nats-fail-mark-on-ncea/index.html
+layout: layout.njk
 ---
 Will Labour Repeat Nats’ Fail Mark on NCEA?
 ===========================================

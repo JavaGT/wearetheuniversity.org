@@ -1,9 +1,12 @@
 ---
 slug: are-young-dunedin-women-out-of-touch
-title: "Are Young Dunedin Women \"Out of Touch?\""
-date: 2009-06-20
-source-url: https://www.scoop.co.nz/stories/PO0906/S00223/are-young-dunedin-women-out-of-touch.htm
+title: Are Young Dunedin Women "Out of Touch?"
+date: 2009-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00223/are-young-dunedin-women-out-of-touch.htm
 author: ousa
+permalink: /archive/2009/06/20/are-young-dunedin-women-out-of-touch/index.html
+layout: layout.njk
 ---
 Are Young Dunedin Women “Out of Touch?”
 =======================================

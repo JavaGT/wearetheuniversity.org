@@ -1,9 +1,12 @@
 ---
 slug: greens-dont-promote-drugs-nz-first
-title: "Greens,  Don’t Promote Drugs - NZ First"
-date: 2000-02-17
-source-url: https://www.scoop.co.nz/stories/PA0002/S00231/greens-dont-promote-drugs-nz-first.htm
+title: Greens,  Don’t Promote Drugs - NZ First
+date: 2000-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00231/greens-dont-promote-drugs-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2000/02/17/greens-dont-promote-drugs-nz-first/index.html
+layout: layout.njk
 ---
 Greens, Don’t Promote Drugs - NZ First
 ======================================

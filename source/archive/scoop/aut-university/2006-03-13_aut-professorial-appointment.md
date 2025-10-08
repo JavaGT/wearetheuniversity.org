@@ -1,9 +1,11 @@
 ---
 slug: aut-professorial-appointment
-title: "AUT Professorial appointment:"
-date: 2006-03-13
+title: 'AUT Professorial appointment:'
+date: 2006-03-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0603/S00035/aut-professorial-appointment.htm
 author: aut-university
+permalink: /archive/2006/03/13/aut-professorial-appointment/index.html
+layout: layout.njk
 ---
 AUT Professorial appointment:
 =============================

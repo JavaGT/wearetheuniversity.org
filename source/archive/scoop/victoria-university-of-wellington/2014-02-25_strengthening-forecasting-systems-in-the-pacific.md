@@ -1,9 +1,13 @@
 ---
 slug: strengthening-forecasting-systems-in-the-pacific
-title: "Strengthening forecasting systems in the Pacific"
-date: 2014-02-25
-source-url: https://www.scoop.co.nz/stories/SC1402/S00053/strengthening-forecasting-systems-in-the-pacific.htm
+title: Strengthening forecasting systems in the Pacific
+date: 2014-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1402/S00053/strengthening-forecasting-systems-in-the-pacific.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/02/25/strengthening-forecasting-systems-in-the-pacific/index.html
+layout: layout.njk
 ---
 Strengthening forecasting systems in the Pacific
 ================================================

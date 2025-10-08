@@ -1,9 +1,12 @@
 ---
 slug: experts-never-told-more-vaccines-available
-title: "Experts never told more vaccines available"
-date: 2019-06-19
-source-url: https://www.scoop.co.nz/stories/PA1906/S00160/experts-never-told-more-vaccines-available.htm
+title: Experts never told more vaccines available
+date: 2019-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00160/experts-never-told-more-vaccines-available.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/19/experts-never-told-more-vaccines-available/index.html
+layout: layout.njk
 ---
 Experts never told more vaccines available
 ==========================================

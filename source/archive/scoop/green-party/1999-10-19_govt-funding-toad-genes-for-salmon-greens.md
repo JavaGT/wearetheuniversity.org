@@ -1,9 +1,12 @@
 ---
 slug: govt-funding-toad-genes-for-salmon-greens
-title: "Govt Funding Toad Genes For Salmon - Greens"
-date: 1999-10-19
-source-url: https://www.scoop.co.nz/stories/PA9910/S00407/govt-funding-toad-genes-for-salmon-greens.htm
+title: Govt Funding Toad Genes For Salmon - Greens
+date: 1999-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00407/govt-funding-toad-genes-for-salmon-greens.htm
 author: green-party
+permalink: /archive/1999/10/19/govt-funding-toad-genes-for-salmon-greens/index.html
+layout: layout.njk
 ---
 Govt Funding Toad Genes For Salmon - Greens
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: centre-formed-to-address-nzs-energy-needs
-title: "Centre Formed To Address NZ's Energy Needs"
-date: 2003-08-25
-source-url: https://www.scoop.co.nz/stories/ED0308/S00088/centre-formed-to-address-nzs-energy-needs.htm
+title: Centre Formed To Address NZ's Energy Needs
+date: 2003-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00088/centre-formed-to-address-nzs-energy-needs.htm
 author: auckland-university
+permalink: /archive/2003/08/25/centre-formed-to-address-nzs-energy-needs/index.html
+layout: layout.njk
 ---
 Centre Formed To Address NZ's Energy Needs
 ==========================================

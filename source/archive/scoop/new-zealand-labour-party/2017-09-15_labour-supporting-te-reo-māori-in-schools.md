@@ -1,9 +1,12 @@
 ---
 slug: labour-supporting-te-reo-māori-in-schools
-title: "Labour supporting Te Reo Māori in schools"
-date: 2017-09-15
-source-url: https://www.scoop.co.nz/stories/PA1709/S00176/labour-supporting-te-reo-maori-in-schools.htm
+title: Labour supporting Te Reo Māori in schools
+date: 2017-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00176/labour-supporting-te-reo-maori-in-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/09/15/labour-supporting-te-reo-m/index.html
+layout: layout.njk
 ---
 Labour supporting Te Reo Māori in schools
 =========================================

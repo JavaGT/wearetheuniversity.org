@@ -1,9 +1,12 @@
 ---
 slug: victoria-leads-charge-for-child-safe-batteries
-title: "Victoria leads charge for child-safe batteries"
-date: 2014-06-12
-source-url: https://www.scoop.co.nz/stories/ED1406/S00071/victoria-leads-charge-for-child-safe-batteries.htm
+title: Victoria leads charge for child-safe batteries
+date: 2014-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00071/victoria-leads-charge-for-child-safe-batteries.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/12/victoria-leads-charge-for-child-safe-batteries/index.html
+layout: layout.njk
 ---
 Victoria leads charge for child-safe batteries
 ==============================================

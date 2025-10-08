@@ -1,9 +1,12 @@
 ---
 slug: launch-of-new-business-degree
-title: "Launch of new  business degree"
-date: 2007-02-02
-source-url: https://www.scoop.co.nz/stories/ED0702/S00010/launch-of-new-business-degree.htm
+title: Launch of new  business degree
+date: 2007-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00010/launch-of-new-business-degree.htm
 author: aut-university
+permalink: /archive/2007/02/02/launch-of-new-business-degree/index.html
+layout: layout.njk
 ---
 Launch of new business degree
 =============================

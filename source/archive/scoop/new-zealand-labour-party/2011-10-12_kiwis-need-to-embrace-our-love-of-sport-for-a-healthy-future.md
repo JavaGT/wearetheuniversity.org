@@ -1,9 +1,13 @@
 ---
 slug: kiwis-need-to-embrace-our-love-of-sport-for-a-healthy-future
-title: "Kiwis need to embrace our love of sport for a healthy future"
-date: 2011-10-12
-source-url: https://www.scoop.co.nz/stories/PA1110/S00226/kiwis-need-to-embrace-our-love-of-sport-for-a-healthy-future.htm
+title: Kiwis need to embrace our love of sport for a healthy future
+date: 2011-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00226/kiwis-need-to-embrace-our-love-of-sport-for-a-healthy-future.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/10/12/kiwis-need-to-embrace-our-love-of-sport-for-a-healthy-future/index.html
+layout: layout.njk
 ---
 Kiwis need to embrace our love of sport for a healthy future
 ============================================================

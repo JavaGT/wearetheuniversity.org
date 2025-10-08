@@ -1,9 +1,12 @@
 ---
 slug: when-computers-became-part-of-nz-farming
-title: "When computers became part of NZ farming"
-date: 2016-07-18
-source-url: https://www.scoop.co.nz/stories/BU1607/S00512/when-computers-became-part-of-nz-farming.htm
+title: When computers became part of NZ farming
+date: 2016-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1607/S00512/when-computers-became-part-of-nz-farming.htm
 author: lincoln-university
+permalink: /archive/2016/07/18/when-computers-became-part-of-nz-farming/index.html
+layout: layout.njk
 ---
 When computers became part of NZ farming
 ========================================

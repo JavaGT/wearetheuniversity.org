@@ -1,9 +1,12 @@
 ---
 slug: massey-investigating-novel-food-technology
-title: "Massey investigating novel food technology"
-date: 2016-10-10
-source-url: https://www.scoop.co.nz/stories/SC1610/S00026/massey-investigating-novel-food-technology.htm
+title: Massey investigating novel food technology
+date: 2016-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00026/massey-investigating-novel-food-technology.htm
 author: massey-university
+permalink: /archive/2016/10/10/massey-investigating-novel-food-technology/index.html
+layout: layout.njk
 ---
 Massey investigating novel food technology
 ==========================================

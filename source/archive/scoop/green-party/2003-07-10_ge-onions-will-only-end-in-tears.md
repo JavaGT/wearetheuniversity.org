@@ -1,9 +1,12 @@
 ---
 slug: ge-onions-will-only-end-in-tears
-title: "GE onions will only end in tears"
-date: 2003-07-10
-source-url: https://www.scoop.co.nz/stories/PA0307/S00202/ge-onions-will-only-end-in-tears.htm
+title: GE onions will only end in tears
+date: 2003-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00202/ge-onions-will-only-end-in-tears.htm
 author: green-party
+permalink: /archive/2003/07/10/ge-onions-will-only-end-in-tears/index.html
+layout: layout.njk
 ---
 GE onions will only end in tears
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-leaves-teeth-to-rot-while-community-acts
-title: "Govt leaves teeth to rot while community acts"
-date: 2007-03-01
-source-url: https://www.scoop.co.nz/stories/PA0703/S00016/govt-leaves-teeth-to-rot-while-community-acts.htm
+title: Govt leaves teeth to rot while community acts
+date: 2007-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00016/govt-leaves-teeth-to-rot-while-community-acts.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/01/govt-leaves-teeth-to-rot-while-community-acts/index.html
+layout: layout.njk
 ---
 Govt leaves teeth to rot while community acts
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: upcoming-shows-at-aut-university
-title: "Upcoming shows at AUT University"
-date: 2006-08-22
-source-url: https://www.scoop.co.nz/stories/CU0608/S00215/upcoming-shows-at-aut-university.htm
+title: Upcoming shows at AUT University
+date: 2006-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0608/S00215/upcoming-shows-at-aut-university.htm
 author: aut-university
+permalink: /archive/2006/08/22/upcoming-shows-at-aut-university/index.html
+layout: layout.njk
 ---
 Upcoming shows at AUT University
 ================================

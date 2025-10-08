@@ -1,9 +1,13 @@
 ---
 slug: al-gore-visit-timely-too-bad-cullen-will-miss-it
-title: "Al Gore visit timely - too bad Cullen will miss it"
-date: 2006-11-13
-source-url: https://www.scoop.co.nz/stories/PA0611/S00227/al-gore-visit-timely-too-bad-cullen-will-miss-it.htm
+title: Al Gore visit timely - too bad Cullen will miss it
+date: 2006-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00227/al-gore-visit-timely-too-bad-cullen-will-miss-it.htm
 author: green-party
+permalink: >-
+  /archive/2006/11/13/al-gore-visit-timely-too-bad-cullen-will-miss-it/index.html
+layout: layout.njk
 ---
 Al Gore visit timely - too bad Cullen will miss it
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-starts-to-fight-dirty-on-super-fund
-title: "National Starts To Fight Dirty On Super Fund"
-date: 2001-07-25
-source-url: https://www.scoop.co.nz/stories/PA0107/S00419/national-starts-to-fight-dirty-on-super-fund.htm
+title: National Starts To Fight Dirty On Super Fund
+date: 2001-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00419/national-starts-to-fight-dirty-on-super-fund.htm
 author: new-zealand-first-party
+permalink: /archive/2001/07/25/national-starts-to-fight-dirty-on-super-fund/index.html
+layout: layout.njk
 ---
 National Starts To Fight Dirty On Super Fund
 ============================================

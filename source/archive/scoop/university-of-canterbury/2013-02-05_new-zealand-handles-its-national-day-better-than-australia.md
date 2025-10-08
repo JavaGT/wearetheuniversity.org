@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-handles-its-national-day-better-than-australia
-title: "New Zealand Handles Its National Day Better Than Australia"
-date: 2013-02-05
-source-url: https://www.scoop.co.nz/stories/ED1302/S00016/new-zealand-handles-its-national-day-better-than-australia.htm
+title: New Zealand Handles Its National Day Better Than Australia
+date: 2013-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00016/new-zealand-handles-its-national-day-better-than-australia.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/05/new-zealand-handles-its-national-day-better-than-australia/index.html
+layout: layout.njk
 ---
 New Zealand Handles Its National Day Better Than Australia
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: moerewa-at-sharp-end-of-punitive-approach
-title: "Moerewa at sharp end of punitive approach"
-date: 2011-11-25
-source-url: https://www.scoop.co.nz/stories/PO1111/S00722/moerewa-at-sharp-end-of-punitive-approach.htm
+title: Moerewa at sharp end of punitive approach
+date: 2011-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00722/moerewa-at-sharp-end-of-punitive-approach.htm
 author: nzei
+permalink: /archive/2011/11/25/moerewa-at-sharp-end-of-punitive-approach/index.html
+layout: layout.njk
 ---
 Moerewa at sharp end of punitive approach
 =========================================

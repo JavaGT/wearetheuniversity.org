@@ -1,9 +1,13 @@
 ---
 slug: wheelchair-to-car-helping-disabled-people-move-more-safely
-title: "Wheelchair to Car: Helping Disabled People Move More Safely"
-date: 2013-04-15
-source-url: https://www.scoop.co.nz/stories/ED1304/S00091/wheelchair-to-car-helping-disabled-people-move-more-safely.htm
+title: 'Wheelchair to Car: Helping Disabled People Move More Safely'
+date: 2013-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00091/wheelchair-to-car-helping-disabled-people-move-more-safely.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/15/wheelchair-to-car-helping-disabled-people-move-more-safely/index.html
+layout: layout.njk
 ---
 Wheelchair to Car: Helping Disabled People Move More Safely
 ===========================================================

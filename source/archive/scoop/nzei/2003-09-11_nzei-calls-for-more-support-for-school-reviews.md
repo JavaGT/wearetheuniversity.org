@@ -1,9 +1,12 @@
 ---
 slug: nzei-calls-for-more-support-for-school-reviews
-title: "NZEI Calls For More Support For School Reviews"
-date: 2003-09-11
-source-url: https://www.scoop.co.nz/stories/ED0309/S00038/nzei-calls-for-more-support-for-school-reviews.htm
+title: NZEI Calls For More Support For School Reviews
+date: 2003-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00038/nzei-calls-for-more-support-for-school-reviews.htm
 author: nzei
+permalink: /archive/2003/09/11/nzei-calls-for-more-support-for-school-reviews/index.html
+layout: layout.njk
 ---
 NZEI Calls For More Support For School Reviews
 ==============================================

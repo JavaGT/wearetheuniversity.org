@@ -1,9 +1,12 @@
 ---
 slug: criminal-payouts-bill-wussy-says-franks
-title: "Criminal payouts bill \"wussy\", says Franks"
-date: 2004-12-15
-source-url: https://www.scoop.co.nz/stories/PA0412/S00405/criminal-payouts-bill-wussy-says-franks.htm
+title: Criminal payouts bill "wussy", says Franks
+date: 2004-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00405/criminal-payouts-bill-wussy-says-franks.htm
 author: act-new-zealand
+permalink: /archive/2004/12/15/criminal-payouts-bill-wussy-says-franks/index.html
+layout: layout.njk
 ---
 Criminal payouts bill "wussy", says Franks
 ==========================================

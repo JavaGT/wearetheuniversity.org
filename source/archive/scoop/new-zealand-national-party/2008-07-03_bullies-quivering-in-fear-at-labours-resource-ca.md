@@ -1,9 +1,13 @@
 ---
 slug: bullies-quivering-in-fear-at-labours-resource-ca
-title: "Bullies quivering in fear at Labour’s ‘resource ca"
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/PA0807/S00085/bullies-quivering-in-fear-at-labours-resource-ca.htm
+title: Bullies quivering in fear at Labour’s ‘resource ca
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00085/bullies-quivering-in-fear-at-labours-resource-ca.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/07/03/bullies-quivering-in-fear-at-labours-resource-ca/index.html
+layout: layout.njk
 ---
 Bullies quivering in fear at Labour’s ‘resource ca
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-its-about-securing-a-future
-title: "Lincoln University: It’s about securing a future..."
-date: 2011-11-29
-source-url: https://www.scoop.co.nz/stories/ED1111/S00193/lincoln-university-its-about-securing-a-future.htm
+title: 'Lincoln University: It’s about securing a future...'
+date: 2011-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00193/lincoln-university-its-about-securing-a-future.htm
 author: lincoln-university
+permalink: /archive/2011/11/29/lincoln-university-its-about-securing-a-future/index.html
+layout: layout.njk
 ---
 Lincoln University: It’s about securing a future...
 ===================================================

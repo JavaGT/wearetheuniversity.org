@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-brief-and-to-the-point
-title: "Future Lefts - Brief and to the point"
-date: 2000-08-09
-source-url: https://www.scoop.co.nz/stories/PO0008/S00056/future-lefts-brief-and-to-the-point.htm
+title: Future Lefts - Brief and to the point
+date: 2000-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0008/S00056/future-lefts-brief-and-to-the-point.htm
 author: young-labour
+permalink: /archive/2000/08/09/future-lefts-brief-and-to-the-point/index.html
+layout: layout.njk
 ---
 Future Lefts - Brief and to the point
 =====================================

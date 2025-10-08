@@ -1,9 +1,13 @@
 ---
 slug: experts-presenting-to100-resilience-cities-network-in-nyc
-title: "Experts presenting to100 resilience cities network in NYC"
-date: 2014-06-13
-source-url: https://www.scoop.co.nz/stories/BU1406/S00460/experts-presenting-to100-resilience-cities-network-in-nyc.htm
+title: Experts presenting to100 resilience cities network in NYC
+date: 2014-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1406/S00460/experts-presenting-to100-resilience-cities-network-in-nyc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/13/experts-presenting-to100-resilience-cities-network-in-nyc/index.html
+layout: layout.njk
 ---
 Experts presenting to100 resilience cities network in NYC
 =========================================================

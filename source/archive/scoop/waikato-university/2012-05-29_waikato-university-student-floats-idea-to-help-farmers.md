@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-student-floats-idea-to-help-farmers
-title: "Waikato University Student Floats Idea to Help Farmers"
-date: 2012-05-29
-source-url: https://www.scoop.co.nz/stories/ED1205/S00147/waikato-university-student-floats-idea-to-help-farmers.htm
+title: Waikato University Student Floats Idea to Help Farmers
+date: 2012-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00147/waikato-university-student-floats-idea-to-help-farmers.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/05/29/waikato-university-student-floats-idea-to-help-farmers/index.html
+layout: layout.njk
 ---
 Waikato University Student Floats Idea to Help Farmers
 ======================================================

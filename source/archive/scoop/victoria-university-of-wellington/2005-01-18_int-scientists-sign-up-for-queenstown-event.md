@@ -1,9 +1,12 @@
 ---
 slug: int-scientists-sign-up-for-queenstown-event
-title: "Int. scientists sign up for Queenstown event"
-date: 2005-01-18
-source-url: https://www.scoop.co.nz/stories/ED0501/S00030/int-scientists-sign-up-for-queenstown-event.htm
+title: Int. scientists sign up for Queenstown event
+date: 2005-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00030/int-scientists-sign-up-for-queenstown-event.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/01/18/int-scientists-sign-up-for-queenstown-event/index.html
+layout: layout.njk
 ---
 Int. scientists sign up for Queenstown event
 ============================================

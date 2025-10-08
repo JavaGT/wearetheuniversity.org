@@ -1,9 +1,12 @@
 ---
 slug: irvings-resignation-leaves-unresolved-problems
-title: "Irving's Resignation Leaves Unresolved Problems"
-date: 1999-12-21
-source-url: https://www.scoop.co.nz/stories/ED9912/S00011/irvings-resignation-leaves-unresolved-problems.htm
+title: Irving's Resignation Leaves Unresolved Problems
+date: 1999-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00011/irvings-resignation-leaves-unresolved-problems.htm
 author: victoria-university-students-association
+permalink: /archive/1999/12/21/irvings-resignation-leaves-unresolved-problems/index.html
+layout: layout.njk
 ---
 Irving's Resignation Leaves Unresolved Problems
 ===============================================

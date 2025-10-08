@@ -1,9 +1,12 @@
 ---
 slug: the-right-talk-29-july-2003-winning-the-debate
-title: "The Right Talk  29 July 2003 - Winning The Debate"
-date: 2003-07-30
-source-url: https://www.scoop.co.nz/stories/PA0307/S00559/the-right-talk-29-july-2003-winning-the-debate.htm
+title: The Right Talk  29 July 2003 - Winning The Debate
+date: 2003-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00559/the-right-talk-29-july-2003-winning-the-debate.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/30/the-right-talk-29-july-2003-winning-the-debate/index.html
+layout: layout.njk
 ---
 The Right Talk 29 July 2003 - Winning The Debate
 ================================================

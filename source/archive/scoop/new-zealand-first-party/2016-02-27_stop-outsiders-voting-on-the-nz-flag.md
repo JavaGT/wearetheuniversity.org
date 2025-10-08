@@ -1,9 +1,12 @@
 ---
 slug: stop-outsiders-voting-on-the-nz-flag
-title: "Stop Outsiders Voting on the NZ Flag"
-date: 2016-02-27
-source-url: https://www.scoop.co.nz/stories/PA1602/S00415/stop-outsiders-voting-on-the-nz-flag.htm
+title: Stop Outsiders Voting on the NZ Flag
+date: 2016-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00415/stop-outsiders-voting-on-the-nz-flag.htm
 author: new-zealand-first-party
+permalink: /archive/2016/02/27/stop-outsiders-voting-on-the-nz-flag/index.html
+layout: layout.njk
 ---
 Stop Outsiders Voting on the NZ Flag
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: nearly-$1-mil-worth-of-antibiotics-wasted
-title: "Nearly $1 mil worth of antibiotics wasted"
-date: 2008-05-15
-source-url: https://www.scoop.co.nz/stories/PA0805/S00260/nearly-1-mil-worth-of-antibiotics-wasted.htm
+title: Nearly $1 mil worth of antibiotics wasted
+date: 2008-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00260/nearly-1-mil-worth-of-antibiotics-wasted.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/15/nearly-/index.html
+layout: layout.njk
 ---
 Nearly $1 mil worth of antibiotics wasted
 =========================================

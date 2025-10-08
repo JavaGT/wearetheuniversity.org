@@ -1,9 +1,12 @@
 ---
 slug: university-union-supports-four-weeks-holiday
-title: "University Union Supports Four Weeks Holiday"
-date: 2002-11-08
-source-url: https://www.scoop.co.nz/stories/ED0211/S00018/university-union-supports-four-weeks-holiday.htm
+title: University Union Supports Four Weeks Holiday
+date: 2002-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00018/university-union-supports-four-weeks-holiday.htm
 author: association-of-university-staff
+permalink: /archive/2002/11/08/university-union-supports-four-weeks-holiday/index.html
+layout: layout.njk
 ---
 University Union Supports Four Weeks Holiday
 ============================================

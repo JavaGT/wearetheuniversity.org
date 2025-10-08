@@ -1,9 +1,12 @@
 ---
 slug: labour-being-hypocritical-over-timber-liability
-title: "Labour being hypocritical over timber liability"
-date: 2005-07-14
-source-url: https://www.scoop.co.nz/stories/PA0507/S00310/labour-being-hypocritical-over-timber-liability.htm
+title: Labour being hypocritical over timber liability
+date: 2005-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00310/labour-being-hypocritical-over-timber-liability.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/14/labour-being-hypocritical-over-timber-liability/index.html
+layout: layout.njk
 ---
 Labour being hypocritical over timber liability
 ===============================================

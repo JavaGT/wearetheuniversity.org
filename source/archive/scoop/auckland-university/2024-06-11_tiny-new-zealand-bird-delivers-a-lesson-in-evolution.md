@@ -1,9 +1,13 @@
 ---
 slug: tiny-new-zealand-bird-delivers-a-lesson-in-evolution
-title: "Tiny New Zealand Bird Delivers A Lesson In Evolution"
-date: 2024-06-11
-source-url: https://www.scoop.co.nz/stories/SC2406/S00032/tiny-new-zealand-bird-delivers-a-lesson-in-evolution.htm
+title: Tiny New Zealand Bird Delivers A Lesson In Evolution
+date: 2024-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2406/S00032/tiny-new-zealand-bird-delivers-a-lesson-in-evolution.htm
 author: auckland-university
+permalink: >-
+  /archive/2024/06/11/tiny-new-zealand-bird-delivers-a-lesson-in-evolution/index.html
+layout: layout.njk
 ---
 Tiny New Zealand Bird Delivers A Lesson In Evolution
 ====================================================

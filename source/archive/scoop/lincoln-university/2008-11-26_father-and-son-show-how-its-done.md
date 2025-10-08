@@ -1,9 +1,12 @@
 ---
 slug: father-and-son-show-how-its-done
-title: "Father and son show how it’s done"
-date: 2008-11-26
-source-url: https://www.scoop.co.nz/stories/BU0811/S00458/father-and-son-show-how-its-done.htm
+title: Father and son show how it’s done
+date: 2008-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0811/S00458/father-and-son-show-how-its-done.htm
 author: lincoln-university
+permalink: /archive/2008/11/26/father-and-son-show-how-its-done/index.html
+layout: layout.njk
 ---
 Father and son show how it’s done
 =================================

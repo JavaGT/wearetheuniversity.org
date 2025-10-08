@@ -1,9 +1,13 @@
 ---
 slug: minister-misses-red-flags-for-meningococcal-outbreak
-title: "Minister misses red flags for meningococcal outbreak"
-date: 2018-11-28
-source-url: https://www.scoop.co.nz/stories/PA1811/S00292/minister-misses-red-flags-for-meningococcal-outbreak.htm
+title: Minister misses red flags for meningococcal outbreak
+date: 2018-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00292/minister-misses-red-flags-for-meningococcal-outbreak.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/11/28/minister-misses-red-flags-for-meningococcal-outbreak/index.html
+layout: layout.njk
 ---
 Minister misses red flags for meningococcal outbreak
 ====================================================

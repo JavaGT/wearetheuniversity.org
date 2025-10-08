@@ -1,9 +1,12 @@
 ---
 slug: we-wont-be-shut-up-and-shut-out!
-title: "We won’t be Shut up and Shut out!"
-date: 2009-07-31
-source-url: https://www.scoop.co.nz/stories/ED0907/S00111/we-wont-be-shut-up-and-shut-out.htm
+title: We won’t be Shut up and Shut out!
+date: 2009-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00111/we-wont-be-shut-up-and-shut-out.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/07/31/we-wont-be-shut-up-and-shut-out/index.html
+layout: layout.njk
 ---
 We won’t be Shut up and Shut out!
 =================================

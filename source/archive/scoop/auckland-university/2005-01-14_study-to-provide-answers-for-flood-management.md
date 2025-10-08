@@ -1,9 +1,12 @@
 ---
 slug: study-to-provide-answers-for-flood-management
-title: "Study To Provide Answers For Flood Management"
-date: 2005-01-14
-source-url: https://www.scoop.co.nz/stories/ED0501/S00021/study-to-provide-answers-for-flood-management.htm
+title: Study To Provide Answers For Flood Management
+date: 2005-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00021/study-to-provide-answers-for-flood-management.htm
 author: auckland-university
+permalink: /archive/2005/01/14/study-to-provide-answers-for-flood-management/index.html
+layout: layout.njk
 ---
 Study To Provide Answers For Flood Management
 =============================================

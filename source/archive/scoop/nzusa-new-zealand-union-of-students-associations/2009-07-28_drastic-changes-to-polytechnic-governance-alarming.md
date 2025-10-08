@@ -1,9 +1,13 @@
 ---
 slug: drastic-changes-to-polytechnic-governance-alarming
-title: "Drastic changes to Polytechnic governance alarming"
-date: 2009-07-28
-source-url: https://www.scoop.co.nz/stories/PO0907/S00295/drastic-changes-to-polytechnic-governance-alarming.htm
+title: Drastic changes to Polytechnic governance alarming
+date: 2009-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0907/S00295/drastic-changes-to-polytechnic-governance-alarming.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2009/07/28/drastic-changes-to-polytechnic-governance-alarming/index.html
+layout: layout.njk
 ---
 Drastic changes to Polytechnic governance alarming
 ==================================================

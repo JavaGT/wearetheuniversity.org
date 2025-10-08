@@ -1,9 +1,12 @@
 ---
 slug: report-shows-2003-smokefree-law-a-major-success
-title: "Report Shows 2003 Smokefree Law  A Major Success"
-date: 2006-12-10
-source-url: https://www.scoop.co.nz/stories/PO0612/S00136/report-shows-2003-smokefree-law-a-major-success.htm
+title: Report Shows 2003 Smokefree Law  A Major Success
+date: 2006-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0612/S00136/report-shows-2003-smokefree-law-a-major-success.htm
 author: university-of-otago
+permalink: /archive/2006/12/10/report-shows-2003-smokefree-law-a-major-success/index.html
+layout: layout.njk
 ---
 Report Shows 2003 Smokefree Law A Major Success
 ===============================================

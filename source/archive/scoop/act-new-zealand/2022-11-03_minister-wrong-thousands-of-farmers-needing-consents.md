@@ -1,9 +1,13 @@
 ---
 slug: minister-wrong-thousands-of-farmers-needing-consents
-title: "Minister Wrong – Thousands Of Farmers Needing Consents"
-date: 2022-11-03
-source-url: https://www.scoop.co.nz/stories/PA2211/S00023/minister-wrong-thousands-of-farmers-needing-consents.htm
+title: Minister Wrong – Thousands Of Farmers Needing Consents
+date: 2022-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00023/minister-wrong-thousands-of-farmers-needing-consents.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/11/03/minister-wrong-thousands-of-farmers-needing-consents/index.html
+layout: layout.njk
 ---
 Minister Wrong – Thousands Of Farmers Needing Consents
 ======================================================

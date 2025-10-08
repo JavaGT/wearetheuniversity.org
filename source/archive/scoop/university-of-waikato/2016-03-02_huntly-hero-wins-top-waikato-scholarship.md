@@ -1,9 +1,12 @@
 ---
 slug: huntly-hero-wins-top-waikato-scholarship
-title: "Huntly hero wins top Waikato scholarship"
-date: 2016-03-02
-source-url: https://www.scoop.co.nz/stories/ED1603/S00013/huntly-hero-wins-top-waikato-scholarship.htm
+title: Huntly hero wins top Waikato scholarship
+date: 2016-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00013/huntly-hero-wins-top-waikato-scholarship.htm
 author: university-of-waikato
+permalink: /archive/2016/03/02/huntly-hero-wins-top-waikato-scholarship/index.html
+layout: layout.njk
 ---
 Huntly hero wins top Waikato scholarship
 ========================================

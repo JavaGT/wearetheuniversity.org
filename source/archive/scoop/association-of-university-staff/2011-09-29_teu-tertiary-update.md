@@ -1,9 +1,11 @@
 ---
 slug: teu-tertiary-update
-title: "TEU Tertiary Update"
-date: 2011-09-29
+title: TEU Tertiary Update
+date: 2011-09-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1109/S00134/teu-tertiary-update.htm
 author: association-of-university-staff
+permalink: /archive/2011/09/29/teu-tertiary-update/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update
 ===================

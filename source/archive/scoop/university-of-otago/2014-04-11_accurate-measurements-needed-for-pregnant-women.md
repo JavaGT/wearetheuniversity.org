@@ -1,9 +1,12 @@
 ---
 slug: accurate-measurements-needed-for-pregnant-women
-title: "Accurate measurements needed for pregnant women"
-date: 2014-04-11
-source-url: https://www.scoop.co.nz/stories/SC1404/S00046/accurate-measurements-needed-for-pregnant-women.htm
+title: Accurate measurements needed for pregnant women
+date: 2014-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00046/accurate-measurements-needed-for-pregnant-women.htm
 author: university-of-otago
+permalink: /archive/2014/04/11/accurate-measurements-needed-for-pregnant-women/index.html
+layout: layout.njk
 ---
 Accurate measurements needed for pregnant women
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: licensing-laws-have-reduced-suicides-using-guns
-title: "Licensing Laws Have Reduced Suicides Using Guns"
-date: 2006-02-22
-source-url: https://www.scoop.co.nz/stories/GE0602/S00061/licensing-laws-have-reduced-suicides-using-guns.htm
+title: Licensing Laws Have Reduced Suicides Using Guns
+date: 2006-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0602/S00061/licensing-laws-have-reduced-suicides-using-guns.htm
 author: university-of-otago
+permalink: /archive/2006/02/22/licensing-laws-have-reduced-suicides-using-guns/index.html
+layout: layout.njk
 ---
 Licensing Laws Have Reduced Suicides Using Guns
 ===============================================

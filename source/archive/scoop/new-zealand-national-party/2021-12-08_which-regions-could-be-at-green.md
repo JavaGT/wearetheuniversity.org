@@ -1,9 +1,12 @@
 ---
 slug: which-regions-could-be-at-green
-title: "Which Regions Could Be At Green?"
-date: 2021-12-08
-source-url: https://www.scoop.co.nz/stories/PA2112/S00063/which-regions-could-be-at-green.htm
+title: Which Regions Could Be At Green?
+date: 2021-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00063/which-regions-could-be-at-green.htm
 author: new-zealand-national-party
+permalink: /archive/2021/12/08/which-regions-could-be-at-green/index.html
+layout: layout.njk
 ---
 Which Regions Could Be At Green?
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: 14000-fathers-walking-away-from-their-children
-title: "14,000 Fathers Walking Away From Their Children"
-date: 2000-03-13
-source-url: https://www.scoop.co.nz/stories/PA0003/S00174/14000-fathers-walking-away-from-their-children.htm
+title: 14,000 Fathers Walking Away From Their Children
+date: 2000-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00174/14000-fathers-walking-away-from-their-children.htm
 author: act-new-zealand
+permalink: /archive/2000/03/13/14000-fathers-walking-away-from-their-children/index.html
+layout: layout.njk
 ---
 14,000 Fathers Walking Away From Their Children
 ===============================================

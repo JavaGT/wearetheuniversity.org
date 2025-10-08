@@ -1,9 +1,13 @@
 ---
 slug: aut-academic-warns-against-retail-slash-and-burn
-title: "AUT academic warns against retail slash and burn"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/BU0807/S00362/aut-academic-warns-against-retail-slash-and-burn.htm
+title: AUT academic warns against retail slash and burn
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0807/S00362/aut-academic-warns-against-retail-slash-and-burn.htm
 author: aut-university
+permalink: >-
+  /archive/2008/07/21/aut-academic-warns-against-retail-slash-and-burn/index.html
+layout: layout.njk
 ---
 AUT academic warns against retail slash and burn
 ================================================

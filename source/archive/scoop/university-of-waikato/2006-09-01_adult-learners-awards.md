@@ -1,9 +1,11 @@
 ---
 slug: adult-learners-awards
-title: "Adult Learners' Awards"
-date: 2006-09-01
+title: Adult Learners' Awards
+date: 2006-09-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0609/S00004/adult-learners-awards.htm
 author: university-of-waikato
+permalink: /archive/2006/09/01/adult-learners-awards/index.html
+layout: layout.njk
 ---
 Adult Learners' Awards
 ======================

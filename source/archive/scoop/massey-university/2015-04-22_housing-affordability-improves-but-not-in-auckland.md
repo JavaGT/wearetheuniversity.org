@@ -1,9 +1,13 @@
 ---
 slug: housing-affordability-improves-but-not-in-auckland
-title: "Housing affordability improves - but not in Auckland"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/BU1504/S00592/housing-affordability-improves-but-not-in-auckland.htm
+title: Housing affordability improves - but not in Auckland
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1504/S00592/housing-affordability-improves-but-not-in-auckland.htm
 author: massey-university
+permalink: >-
+  /archive/2015/04/22/housing-affordability-improves-but-not-in-auckland/index.html
+layout: layout.njk
 ---
 Housing affordability improves - but not in Auckland
 ====================================================

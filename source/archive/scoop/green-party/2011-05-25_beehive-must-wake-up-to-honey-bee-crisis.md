@@ -1,9 +1,12 @@
 ---
 slug: beehive-must-wake-up-to-honey-bee-crisis
-title: "Beehive must wake up to honey bee crisis"
-date: 2011-05-25
-source-url: https://www.scoop.co.nz/stories/PA1105/S00556/beehive-must-wake-up-to-honey-bee-crisis.htm
+title: Beehive must wake up to honey bee crisis
+date: 2011-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00556/beehive-must-wake-up-to-honey-bee-crisis.htm
 author: green-party
+permalink: /archive/2011/05/25/beehive-must-wake-up-to-honey-bee-crisis/index.html
+layout: layout.njk
 ---
 Beehive must wake up to honey bee crisis
 ========================================

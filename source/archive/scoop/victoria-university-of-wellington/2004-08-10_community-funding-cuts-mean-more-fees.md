@@ -1,9 +1,12 @@
 ---
 slug: community-funding-cuts-mean-more-fees
-title: "Community Funding Cuts Mean More Fees"
-date: 2004-08-10
-source-url: https://www.scoop.co.nz/stories/ED0408/S00040/community-funding-cuts-mean-more-fees.htm
+title: Community Funding Cuts Mean More Fees
+date: 2004-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00040/community-funding-cuts-mean-more-fees.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/10/community-funding-cuts-mean-more-fees/index.html
+layout: layout.njk
 ---
 Community Funding Cuts Mean More Fees
 =====================================

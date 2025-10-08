@@ -1,9 +1,12 @@
 ---
 slug: students-wont-be-listened-to-says-english
-title: "Students won’t be listened to, says English"
-date: 2012-05-25
-source-url: https://www.scoop.co.nz/stories/PO1205/S00434/students-wont-be-listened-to-says-english.htm
+title: Students won’t be listened to, says English
+date: 2012-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00434/students-wont-be-listened-to-says-english.htm
 author: ausa
+permalink: /archive/2012/05/25/students-wont-be-listened-to-says-english/index.html
+layout: layout.njk
 ---
 Students won’t be listened to, says English
 ===========================================

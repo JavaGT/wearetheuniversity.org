@@ -1,9 +1,13 @@
 ---
 slug: world-bank-world-development-report-2012-on-gender-equality
-title: "World Bank World Development Report 2012 on Gender Equality"
-date: 2012-03-28
-source-url: https://www.scoop.co.nz/stories/WO1203/S00642/world-bank-world-development-report-2012-on-gender-equality.htm
+title: World Bank World Development Report 2012 on Gender Equality
+date: 2012-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1203/S00642/world-bank-world-development-report-2012-on-gender-equality.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2012/03/28/world-bank-world-development-report-2012-on-gender-equality/index.html
+layout: layout.njk
 ---
 World Bank World Development Report 2012 on Gender Equality
 ===========================================================

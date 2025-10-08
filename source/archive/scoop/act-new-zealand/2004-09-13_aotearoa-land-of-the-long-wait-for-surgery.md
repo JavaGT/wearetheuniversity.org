@@ -1,9 +1,12 @@
 ---
 slug: aotearoa-land-of-the-long-wait-for-surgery
-title: "Aotearoa: Land Of The Long Wait For Surgery"
-date: 2004-09-13
-source-url: https://www.scoop.co.nz/stories/PA0409/S00233/aotearoa-land-of-the-long-wait-for-surgery.htm
+title: 'Aotearoa: Land Of The Long Wait For Surgery'
+date: 2004-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00233/aotearoa-land-of-the-long-wait-for-surgery.htm
 author: act-new-zealand
+permalink: /archive/2004/09/13/aotearoa-land-of-the-long-wait-for-surgery/index.html
+layout: layout.njk
 ---
 Aotearoa: Land Of The Long Wait For Surgery
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: black-budget-for-early-childhood-education
-title: "\"Black Budget\" For Early Childhood Education"
-date: 2010-05-03
-source-url: https://www.scoop.co.nz/stories/ED1005/S00011/black-budget-for-early-childhood-education.htm
+title: '"Black Budget" For Early Childhood Education'
+date: 2010-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00011/black-budget-for-early-childhood-education.htm
 author: nzei
+permalink: /archive/2010/05/03/black-budget-for-early-childhood-education/index.html
+layout: layout.njk
 ---
 “Black Budget” For Early Childhood Education
 ============================================

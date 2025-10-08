@@ -1,8 +1,12 @@
 ---
 slug: waste-what-are-we-doing-and-what-can-we-do-better
-title: "Waste: what are we doing and what can we do better?"
-date: 2016-08-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/waste-seminar-what-are-we-doing-what-can-we-do-better.html
+title: 'Waste: what are we doing and what can we do better?'
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/waste-seminar-what-are-we-doing-what-can-we-do-better.html
+permalink: >-
+  /archive/2016/08/10/waste-what-are-we-doing-and-what-can-we-do-better/index.html
+layout: layout.njk
 ---
 Waste: what are we doing and what can we do better?
 ===================================================

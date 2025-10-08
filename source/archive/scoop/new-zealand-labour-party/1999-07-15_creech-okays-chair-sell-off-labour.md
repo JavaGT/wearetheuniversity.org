@@ -1,9 +1,12 @@
 ---
 slug: creech-okays-chair-sell-off-labour
-title: "Creech okays chair sell-off: Labour"
-date: 1999-07-15
-source-url: https://www.scoop.co.nz/stories/PA9907/S00280/creech-okays-chair-sell-off-labour.htm
+title: 'Creech okays chair sell-off: Labour'
+date: 1999-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00280/creech-okays-chair-sell-off-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/15/creech-okays-chair-sell-off-labour/index.html
+layout: layout.njk
 ---
 Creech okays chair sell-off: Labour
 ===================================

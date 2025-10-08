@@ -1,9 +1,12 @@
 ---
 slug: hodgson-still-silent-on-open-uni-access
-title: "Hodgson still silent on open uni access"
-date: 2007-12-14
-source-url: https://www.scoop.co.nz/stories/PA0712/S00330/hodgson-still-silent-on-open-uni-access.htm
+title: Hodgson still silent on open uni access
+date: 2007-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00330/hodgson-still-silent-on-open-uni-access.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/14/hodgson-still-silent-on-open-uni-access/index.html
+layout: layout.njk
 ---
 Hodgson still silent on open uni access
 =======================================

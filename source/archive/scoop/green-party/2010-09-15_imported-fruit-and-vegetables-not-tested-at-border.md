@@ -1,9 +1,13 @@
 ---
 slug: imported-fruit-and-vegetables-not-tested-at-border
-title: "Imported fruit and vegetables not tested at border"
-date: 2010-09-15
-source-url: https://www.scoop.co.nz/stories/PA1009/S00225/imported-fruit-and-vegetables-not-tested-at-border.htm
+title: Imported fruit and vegetables not tested at border
+date: 2010-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00225/imported-fruit-and-vegetables-not-tested-at-border.htm
 author: green-party
+permalink: >-
+  /archive/2010/09/15/imported-fruit-and-vegetables-not-tested-at-border/index.html
+layout: layout.njk
 ---
 Imported fruit and vegetables not tested at border
 ==================================================

@@ -1,9 +1,11 @@
 ---
 slug: for-male-weta-big-is-better
-title: "For male weta, big is better"
-date: 2011-11-17
+title: For male weta, big is better
+date: 2011-11-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1111/S00112/for-male-weta-big-is-better.htm
 author: massey-university
+permalink: /archive/2011/11/17/for-male-weta-big-is-better/index.html
+layout: layout.njk
 ---
 For male weta, big is better
 ============================

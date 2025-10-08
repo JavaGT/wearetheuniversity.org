@@ -1,9 +1,13 @@
 ---
 slug: uc-looking-into-benefits-of-cer-act-and-disaster-recovery
-title: "UC Looking Into Benefits of CER Act and Disaster Recovery"
-date: 2013-02-27
-source-url: https://www.scoop.co.nz/stories/ED1302/S00150/uc-looking-into-benefits-of-cer-act-and-disaster-recovery.htm
+title: UC Looking Into Benefits of CER Act and Disaster Recovery
+date: 2013-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00150/uc-looking-into-benefits-of-cer-act-and-disaster-recovery.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/27/uc-looking-into-benefits-of-cer-act-and-disaster-recovery/index.html
+layout: layout.njk
 ---
 UC Looking Into Benefits of CER Act and Disaster Recovery
 =========================================================

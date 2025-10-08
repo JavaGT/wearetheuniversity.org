@@ -1,9 +1,12 @@
 ---
 slug: university-appoints-new-pro-vice-chancellor
-title: "University Appoints New Pro-Vice-Chancellor"
-date: 2009-11-13
-source-url: https://www.scoop.co.nz/stories/ED0911/S00061/university-appoints-new-pro-vice-chancellor.htm
+title: University Appoints New Pro-Vice-Chancellor
+date: 2009-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00061/university-appoints-new-pro-vice-chancellor.htm
 author: university-of-otago
+permalink: /archive/2009/11/13/university-appoints-new-pro-vice-chancellor/index.html
+layout: layout.njk
 ---
 University Appoints New Pro-Vice-Chancellor
 ===========================================

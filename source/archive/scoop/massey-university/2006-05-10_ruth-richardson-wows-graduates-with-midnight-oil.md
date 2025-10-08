@@ -1,9 +1,13 @@
 ---
 slug: ruth-richardson-wows-graduates-with-midnight-oil
-title: "Ruth Richardson wows graduates with Midnight Oil"
-date: 2006-05-10
-source-url: https://www.scoop.co.nz/stories/ED0605/S00037/ruth-richardson-wows-graduates-with-midnight-oil.htm
+title: Ruth Richardson wows graduates with Midnight Oil
+date: 2006-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00037/ruth-richardson-wows-graduates-with-midnight-oil.htm
 author: massey-university
+permalink: >-
+  /archive/2006/05/10/ruth-richardson-wows-graduates-with-midnight-oil/index.html
+layout: layout.njk
 ---
 Ruth Richardson wows graduates with Midnight Oil
 ================================================

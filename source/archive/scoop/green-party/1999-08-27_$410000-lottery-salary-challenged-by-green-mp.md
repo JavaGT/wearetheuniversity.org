@@ -1,9 +1,12 @@
 ---
 slug: $410000-lottery-salary-challenged-by-green-mp
-title: "$410,000 Lottery Salary Challenged By Green MP"
-date: 1999-08-27
-source-url: https://www.scoop.co.nz/stories/PA9908/S00478/410000-lottery-salary-challenged-by-green-mp.htm
+title: $410,000 Lottery Salary Challenged By Green MP
+date: 1999-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00478/410000-lottery-salary-challenged-by-green-mp.htm
 author: green-party
+permalink: /archive/1999/08/27/410-000-lottery-salary-challenged-by-green-mp/index.html
+layout: layout.njk
 ---
 $410,000 Lottery Salary Challenged By Green MP
 ==============================================

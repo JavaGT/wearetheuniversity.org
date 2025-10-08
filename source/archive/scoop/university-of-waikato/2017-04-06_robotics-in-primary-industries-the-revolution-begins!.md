@@ -1,9 +1,13 @@
 ---
 slug: robotics-in-primary-industries-the-revolution-begins!
-title: "Robotics in primary industries - the revolution begins!"
-date: 2017-04-06
-source-url: https://www.scoop.co.nz/stories/BU1704/S00178/robotics-in-primary-industries-the-revolution-begins.htm
+title: Robotics in primary industries - the revolution begins!
+date: 2017-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1704/S00178/robotics-in-primary-industries-the-revolution-begins.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/04/06/robotics-in-primary-industries-the-revolution-begins/index.html
+layout: layout.njk
 ---
 Robotics in primary industries - the revolution begins!
 =======================================================

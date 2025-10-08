@@ -1,9 +1,13 @@
 ---
 slug: national-standards-cornerstone-of-education-policy
-title: "National Standards cornerstone of education policy"
-date: 2007-04-02
-source-url: https://www.scoop.co.nz/stories/PA0704/S00020/national-standards-cornerstone-of-education-policy.htm
+title: National Standards cornerstone of education policy
+date: 2007-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00020/national-standards-cornerstone-of-education-policy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/04/02/national-standards-cornerstone-of-education-policy/index.html
+layout: layout.njk
 ---
 National Standards cornerstone of education policy
 ==================================================

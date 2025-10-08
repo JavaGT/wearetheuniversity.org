@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-congratulates-prof-holloway
-title: "University of Otago Congratulates Prof Holloway"
-date: 2006-04-05
-source-url: https://www.scoop.co.nz/stories/ED0604/S00020/university-of-otago-congratulates-prof-holloway.htm
+title: University of Otago Congratulates Prof Holloway
+date: 2006-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00020/university-of-otago-congratulates-prof-holloway.htm
 author: university-of-otago
+permalink: /archive/2006/04/05/university-of-otago-congratulates-prof-holloway/index.html
+layout: layout.njk
 ---
 University of Otago Congratulates Prof Holloway
 ===============================================

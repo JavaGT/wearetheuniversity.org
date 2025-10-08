@@ -1,9 +1,12 @@
 ---
 slug: national-still-victimising-sexual-abuse-victims
-title: "National Still Victimising Sexual Abuse Victims"
-date: 2010-08-11
-source-url: https://www.scoop.co.nz/stories/PA1008/S00182/national-still-victimising-sexual-abuse-victims.htm
+title: National Still Victimising Sexual Abuse Victims
+date: 2010-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00182/national-still-victimising-sexual-abuse-victims.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/11/national-still-victimising-sexual-abuse-victims/index.html
+layout: layout.njk
 ---
 National Still Victimising Sexual Abuse Victims
 ===============================================

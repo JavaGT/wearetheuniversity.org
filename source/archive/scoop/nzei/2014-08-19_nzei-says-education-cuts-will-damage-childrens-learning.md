@@ -1,9 +1,13 @@
 ---
 slug: nzei-says-education-cuts-will-damage-childrens-learning
-title: "NZEI says education cuts will damage children's learning"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/ED1408/S00099/nzei-says-education-cuts-will-damage-childrens-learning.htm
+title: NZEI says education cuts will damage children's learning
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00099/nzei-says-education-cuts-will-damage-childrens-learning.htm
 author: nzei
+permalink: >-
+  /archive/2014/08/19/nzei-says-education-cuts-will-damage-childrens-learning/index.html
+layout: layout.njk
 ---
 NZEI says education cuts will damage children's learning
 ========================================================

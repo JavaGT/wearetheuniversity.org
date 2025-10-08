@@ -1,9 +1,11 @@
 ---
 slug: environment-first-say-greens
-title: "Environment first, say Greens"
-date: 2005-06-24
+title: Environment first, say Greens
+date: 2005-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0506/S00599/environment-first-say-greens.htm
 author: green-party
+permalink: /archive/2005/06/24/environment-first-say-greens/index.html
+layout: layout.njk
 ---
 Environment first, say Greens
 =============================

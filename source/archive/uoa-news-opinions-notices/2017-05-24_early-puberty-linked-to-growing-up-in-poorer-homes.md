@@ -1,8 +1,12 @@
 ---
 slug: early-puberty-linked-to-growing-up-in-poorer-homes
-title: "Early puberty linked to growing up in poorer homes"
-date: 2017-05-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/early-puberty-linked-to-growing-up-in-poorer-homes.html
+title: Early puberty linked to growing up in poorer homes
+date: 2017-05-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/early-puberty-linked-to-growing-up-in-poorer-homes.html
+permalink: >-
+  /archive/2017/05/24/early-puberty-linked-to-growing-up-in-poorer-homes/index.html
+layout: layout.njk
 ---
 Early puberty linked to growing up in poorer homes
 ==================================================

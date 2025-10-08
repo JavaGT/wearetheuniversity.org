@@ -1,9 +1,13 @@
 ---
 slug: earthquake-risk-in-wellington-topic-of-upcoming-lecture
-title: "Earthquake risk in Wellington topic of upcoming lecture"
-date: 2011-08-30
-source-url: https://www.scoop.co.nz/stories/ED1108/S00154/earthquake-risk-in-wellington-topic-of-upcoming-lecture.htm
+title: Earthquake risk in Wellington topic of upcoming lecture
+date: 2011-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00154/earthquake-risk-in-wellington-topic-of-upcoming-lecture.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/08/30/earthquake-risk-in-wellington-topic-of-upcoming-lecture/index.html
+layout: layout.njk
 ---
 Earthquake risk in Wellington topic of upcoming lecture
 =======================================================

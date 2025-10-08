@@ -1,9 +1,12 @@
 ---
 slug: sustainable-business-survey-2016
-title: "Sustainable Business Survey 2016"
-date: 2016-11-09
-source-url: https://www.scoop.co.nz/stories/BU1611/S00344/sustainable-business-survey-2016.htm
+title: Sustainable Business Survey 2016
+date: 2016-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1611/S00344/sustainable-business-survey-2016.htm
 author: university-of-auckland-business-school
+permalink: /archive/2016/11/09/sustainable-business-survey-2016/index.html
+layout: layout.njk
 ---
 Sustainable Business Survey 2016
 ================================

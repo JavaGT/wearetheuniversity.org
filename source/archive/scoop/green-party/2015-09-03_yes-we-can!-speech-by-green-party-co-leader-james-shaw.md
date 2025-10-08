@@ -1,9 +1,12 @@
 ---
 slug: yes-we-can!-speech-by-green-party-co-leader-james-shaw
-title: "Yes we can! Speech by Green Party Co-leader James Shaw"
-date: 2015-09-03
-source-url: https://www.scoop.co.nz/stories/PA1509/S00057/yes-we-can-speech-by-green-party-co-leader-james-shaw.htm
+title: Yes we can! Speech by Green Party Co-leader James Shaw
+date: 2015-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00057/yes-we-can-speech-by-green-party-co-leader-james-shaw.htm
 author: green-party
+permalink: /archive/2015/09/03/yes-we-can/index.html
+layout: layout.njk
 ---
 Yes we can! Speech by Green Party Co-leader James Shaw
 ======================================================

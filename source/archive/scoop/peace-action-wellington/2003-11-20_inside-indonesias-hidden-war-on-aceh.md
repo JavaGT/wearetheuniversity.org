@@ -1,9 +1,12 @@
 ---
 slug: inside-indonesias-hidden-war-on-aceh
-title: "Inside Indonesia's hidden war on Aceh"
-date: 2003-11-20
-source-url: https://www.scoop.co.nz/stories/PO0311/S00138/inside-indonesias-hidden-war-on-aceh.htm
+title: Inside Indonesia's hidden war on Aceh
+date: 2003-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0311/S00138/inside-indonesias-hidden-war-on-aceh.htm
 author: peace-action-wellington
+permalink: /archive/2003/11/20/inside-indonesias-hidden-war-on-aceh/index.html
+layout: layout.njk
 ---
 Inside Indonesia's hidden war on Aceh
 =====================================

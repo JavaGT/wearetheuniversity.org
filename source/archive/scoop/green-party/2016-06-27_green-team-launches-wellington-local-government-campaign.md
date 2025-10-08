@@ -1,9 +1,13 @@
 ---
 slug: green-team-launches-wellington-local-government-campaign
-title: "Green team launches Wellington local government campaign"
-date: 2016-06-27
-source-url: https://www.scoop.co.nz/stories/PA1606/S00436/green-team-launches-wellington-local-government-campaign.htm
+title: Green team launches Wellington local government campaign
+date: 2016-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00436/green-team-launches-wellington-local-government-campaign.htm
 author: green-party
+permalink: >-
+  /archive/2016/06/27/green-team-launches-wellington-local-government-campaign/index.html
+layout: layout.njk
 ---
 Green team launches Wellington local government campaign
 ========================================================

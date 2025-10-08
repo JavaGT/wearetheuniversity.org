@@ -1,9 +1,12 @@
 ---
 slug: labours-transport-policy-builds-on-certainty
-title: "Labour's transport policy builds on certainty"
-date: 2008-10-31
-source-url: https://www.scoop.co.nz/stories/PA0810/S00685/labours-transport-policy-builds-on-certainty.htm
+title: Labour's transport policy builds on certainty
+date: 2008-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00685/labours-transport-policy-builds-on-certainty.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/31/labours-transport-policy-builds-on-certainty/index.html
+layout: layout.njk
 ---
 Labour's transport policy builds on certainty
 =============================================

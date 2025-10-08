@@ -1,9 +1,13 @@
 ---
 slug: election-year-politics-with-curriculum-a-disgrace
-title: "Election Year Politics With Curriculum A Disgrace"
-date: 2023-08-21
-source-url: https://www.scoop.co.nz/stories/PA2308/S00138/election-year-politics-with-curriculum-a-disgrace.htm
+title: Election Year Politics With Curriculum A Disgrace
+date: 2023-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00138/election-year-politics-with-curriculum-a-disgrace.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/08/21/election-year-politics-with-curriculum-a-disgrace/index.html
+layout: layout.njk
 ---
 Election Year Politics With Curriculum A Disgrace
 =================================================

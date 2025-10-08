@@ -1,9 +1,12 @@
 ---
 slug: nz-should-be-a-rugby-world-cup-host
-title: "NZ Should Be A Rugby World Cup Host"
-date: 2002-03-11
-source-url: https://www.scoop.co.nz/stories/PA0203/S00168/nz-should-be-a-rugby-world-cup-host.htm
+title: NZ Should Be A Rugby World Cup Host
+date: 2002-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00168/nz-should-be-a-rugby-world-cup-host.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/11/nz-should-be-a-rugby-world-cup-host/index.html
+layout: layout.njk
 ---
 NZ Should Be A Rugby World Cup Host
 ===================================

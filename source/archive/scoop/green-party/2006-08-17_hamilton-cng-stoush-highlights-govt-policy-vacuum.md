@@ -1,9 +1,13 @@
 ---
 slug: hamilton-cng-stoush-highlights-govt-policy-vacuum
-title: "Hamilton CNG stoush highlights Govt policy vacuum"
-date: 2006-08-17
-source-url: https://www.scoop.co.nz/stories/PA0608/S00312/hamilton-cng-stoush-highlights-govt-policy-vacuum.htm
+title: Hamilton CNG stoush highlights Govt policy vacuum
+date: 2006-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00312/hamilton-cng-stoush-highlights-govt-policy-vacuum.htm
 author: green-party
+permalink: >-
+  /archive/2006/08/17/hamilton-cng-stoush-highlights-govt-policy-vacuum/index.html
+layout: layout.njk
 ---
 Hamilton CNG stoush highlights Govt policy vacuum
 =================================================

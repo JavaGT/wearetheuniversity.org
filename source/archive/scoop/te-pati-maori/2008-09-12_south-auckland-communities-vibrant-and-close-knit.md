@@ -1,9 +1,13 @@
 ---
 slug: south-auckland-communities-vibrant-and-close-knit
-title: "South Auckland communities vibrant and close-knit"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/PA0809/S00299/south-auckland-communities-vibrant-and-close-knit.htm
+title: South Auckland communities vibrant and close-knit
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00299/south-auckland-communities-vibrant-and-close-knit.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/09/12/south-auckland-communities-vibrant-and-close-knit/index.html
+layout: layout.njk
 ---
 South Auckland communities vibrant and close-knit
 =================================================

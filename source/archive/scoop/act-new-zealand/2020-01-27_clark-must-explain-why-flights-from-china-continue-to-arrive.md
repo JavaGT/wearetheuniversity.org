@@ -1,9 +1,13 @@
 ---
 slug: clark-must-explain-why-flights-from-china-continue-to-arrive
-title: "Clark must explain why flights from China continue to arrive"
-date: 2020-01-27
-source-url: https://www.scoop.co.nz/stories/PA2001/S00099/clark-must-explain-why-flights-from-china-continue-to-arrive.htm
+title: Clark must explain why flights from China continue to arrive
+date: 2020-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00099/clark-must-explain-why-flights-from-china-continue-to-arrive.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/01/27/clark-must-explain-why-flights-from-china-continue-to-arrive/index.html
+layout: layout.njk
 ---
 Clark must explain why flights from China continue to arrive
 ============================================================

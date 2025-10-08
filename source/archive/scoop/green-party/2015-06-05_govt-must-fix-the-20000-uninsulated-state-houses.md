@@ -1,9 +1,13 @@
 ---
 slug: govt-must-fix-the-20000-uninsulated-state-houses
-title: "Govt must fix the 20,000 uninsulated state houses"
-date: 2015-06-05
-source-url: https://www.scoop.co.nz/stories/PA1506/S00099/govt-must-fix-the-20000-uninsulated-state-houses.htm
+title: Govt must fix the 20,000 uninsulated state houses
+date: 2015-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00099/govt-must-fix-the-20000-uninsulated-state-houses.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/05/govt-must-fix-the-20000-uninsulated-state-houses/index.html
+layout: layout.njk
 ---
 Govt must fix the 20,000 uninsulated state houses
 =================================================

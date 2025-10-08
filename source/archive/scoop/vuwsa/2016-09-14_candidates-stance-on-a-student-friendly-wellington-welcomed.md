@@ -1,9 +1,13 @@
 ---
 slug: candidates-stance-on-a-student-friendly-wellington-welcomed
-title: "Candidates’ stance on a student-friendly Wellington welcomed"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/AK1609/S00423/candidates-stance-on-a-student-friendly-wellington-welcomed.htm
+title: Candidates’ stance on a student-friendly Wellington welcomed
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1609/S00423/candidates-stance-on-a-student-friendly-wellington-welcomed.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/09/14/candidates-stance-on-a-student-friendly-wellington-welcomed/index.html
+layout: layout.njk
 ---
 Candidates’ stance on a student-friendly Wellington welcomed
 ============================================================

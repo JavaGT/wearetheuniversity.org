@@ -1,9 +1,13 @@
 ---
 slug: leaders-speech-to-central-north-island-conference
-title: "Leader’s Speech To Central North Island Conference"
-date: 2021-05-23
-source-url: https://www.scoop.co.nz/stories/PA2105/S00205/leaders-speech-to-central-north-island-conference.htm
+title: Leader’s Speech To Central North Island Conference
+date: 2021-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00205/leaders-speech-to-central-north-island-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/05/23/leaders-speech-to-central-north-island-conference/index.html
+layout: layout.njk
 ---
 Leader’s Speech To Central North Island Conference
 ==================================================

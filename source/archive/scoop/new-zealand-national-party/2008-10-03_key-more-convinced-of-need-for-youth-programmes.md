@@ -1,9 +1,12 @@
 ---
 slug: key-more-convinced-of-need-for-youth-programmes
-title: "Key more convinced of need for youth programmes"
-date: 2008-10-03
-source-url: https://www.scoop.co.nz/stories/PA0810/S00076/key-more-convinced-of-need-for-youth-programmes.htm
+title: Key more convinced of need for youth programmes
+date: 2008-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00076/key-more-convinced-of-need-for-youth-programmes.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/03/key-more-convinced-of-need-for-youth-programmes/index.html
+layout: layout.njk
 ---
 Key more convinced of need for youth programmes
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: compassion-needed-for-indian-students
-title: "Compassion needed for Indian students"
-date: 2017-02-03
-source-url: https://www.scoop.co.nz/stories/PA1702/S00055/compassion-needed-for-indian-students.htm
+title: Compassion needed for Indian students
+date: 2017-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00055/compassion-needed-for-indian-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/03/compassion-needed-for-indian-students/index.html
+layout: layout.njk
 ---
 Compassion needed for Indian students
 =====================================

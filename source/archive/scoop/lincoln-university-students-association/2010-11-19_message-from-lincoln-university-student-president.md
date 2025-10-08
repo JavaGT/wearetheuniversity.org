@@ -1,9 +1,13 @@
 ---
 slug: message-from-lincoln-university-student-president
-title: "Message from Lincoln University Student President"
-date: 2010-11-19
-source-url: https://www.scoop.co.nz/stories/ED1011/S00080/message-from-lincoln-university-student-president.htm
+title: Message from Lincoln University Student President
+date: 2010-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00080/message-from-lincoln-university-student-president.htm
 author: lincoln-university-students-association
+permalink: >-
+  /archive/2010/11/19/message-from-lincoln-university-student-president/index.html
+layout: layout.njk
 ---
 Message from Lincoln University Student President
 =================================================

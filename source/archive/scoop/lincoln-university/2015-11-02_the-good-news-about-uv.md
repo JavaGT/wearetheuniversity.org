@@ -1,9 +1,11 @@
 ---
 slug: the-good-news-about-uv
-title: "The good news about UV"
-date: 2015-11-02
+title: The good news about UV
+date: 2015-11-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1511/S00010/the-good-news-about-uv.htm
 author: lincoln-university
+permalink: /archive/2015/11/02/the-good-news-about-uv/index.html
+layout: layout.njk
 ---
 The good news about UV
 ======================

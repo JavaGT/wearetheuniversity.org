@@ -1,9 +1,13 @@
 ---
 slug: research-findings-a-promising-start-for-phd-student
-title: "Research findings a promising start for PhD student"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/BU1506/S00104/research-findings-a-promising-start-for-phd-student.htm
+title: Research findings a promising start for PhD student
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1506/S00104/research-findings-a-promising-start-for-phd-student.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/06/03/research-findings-a-promising-start-for-phd-student/index.html
+layout: layout.njk
 ---
 Research findings a promising start for PhD student
 ===================================================

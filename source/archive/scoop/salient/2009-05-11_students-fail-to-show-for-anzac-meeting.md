@@ -1,9 +1,12 @@
 ---
 slug: students-fail-to-show-for-anzac-meeting
-title: "Students fail to show for ANZAC meeting"
-date: 2009-05-11
-source-url: https://www.scoop.co.nz/stories/ED0905/S00042/students-fail-to-show-for-anzac-meeting.htm
+title: Students fail to show for ANZAC meeting
+date: 2009-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00042/students-fail-to-show-for-anzac-meeting.htm
 author: salient
+permalink: /archive/2009/05/11/students-fail-to-show-for-anzac-meeting/index.html
+layout: layout.njk
 ---
 Students fail to show for ANZAC meeting
 =======================================

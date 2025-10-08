@@ -1,9 +1,12 @@
 ---
 slug: honorary-fellowship-for-waikato-health-expert
-title: "Honorary Fellowship for Waikato Health expert"
-date: 2020-10-20
-source-url: https://www.scoop.co.nz/stories/GE2010/S00109/honorary-fellowship-for-waikato-health-expert.htm
+title: Honorary Fellowship for Waikato Health expert
+date: 2020-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2010/S00109/honorary-fellowship-for-waikato-health-expert.htm
 author: university-of-waikato
+permalink: /archive/2020/10/20/honorary-fellowship-for-waikato-health-expert/index.html
+layout: layout.njk
 ---
 Honorary Fellowship for Waikato Health expert
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: asians-have-lowest-mortality-rates-in-elderly
-title: "Asians have lowest mortality rates in elderly"
-date: 2009-02-18
-source-url: https://www.scoop.co.nz/stories/GE0902/S00069/asians-have-lowest-mortality-rates-in-elderly.htm
+title: Asians have lowest mortality rates in elderly
+date: 2009-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0902/S00069/asians-have-lowest-mortality-rates-in-elderly.htm
 author: university-of-otago
+permalink: /archive/2009/02/18/asians-have-lowest-mortality-rates-in-elderly/index.html
+layout: layout.njk
 ---
 Asians have lowest mortality rates in elderly
 =============================================

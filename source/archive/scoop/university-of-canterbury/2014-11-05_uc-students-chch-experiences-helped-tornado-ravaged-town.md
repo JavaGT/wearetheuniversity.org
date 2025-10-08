@@ -1,9 +1,13 @@
 ---
 slug: uc-students-chch-experiences-helped-tornado-ravaged-town
-title: "UC student's Chch experiences helped tornado-ravaged town"
-date: 2014-11-05
-source-url: https://www.scoop.co.nz/stories/ED1411/S00023/uc-students-chch-experiences-helped-tornado-ravaged-town.htm
+title: UC student's Chch experiences helped tornado-ravaged town
+date: 2014-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00023/uc-students-chch-experiences-helped-tornado-ravaged-town.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/05/uc-students-chch-experiences-helped-tornado-ravaged-town/index.html
+layout: layout.njk
 ---
 UC student's Chch experiences helped tornado-ravaged town
 =========================================================

@@ -1,9 +1,11 @@
 ---
 slug: thanks-but-no-thanks-again
-title: "Thanks, But No Thanks - Again."
-date: 2002-05-23
+title: Thanks, But No Thanks - Again.
+date: 2002-05-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0205/S00053/thanks-but-no-thanks-again.htm
 author: otago-university-students-association
+permalink: /archive/2002/05/23/thanks-but-no-thanks-again/index.html
+layout: layout.njk
 ---
 Thanks, But No Thanks - Again.
 ==============================

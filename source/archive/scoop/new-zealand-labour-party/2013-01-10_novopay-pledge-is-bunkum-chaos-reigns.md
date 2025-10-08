@@ -1,9 +1,12 @@
 ---
 slug: novopay-pledge-is-bunkum-chaos-reigns
-title: "Novopay Pledge Is Bunkum, Chaos Reigns"
-date: 2013-01-10
-source-url: https://www.scoop.co.nz/stories/PA1301/S00014/novopay-pledge-is-bunkum-chaos-reigns.htm
+title: Novopay Pledge Is Bunkum, Chaos Reigns
+date: 2013-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00014/novopay-pledge-is-bunkum-chaos-reigns.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/10/novopay-pledge-is-bunkum-chaos-reigns/index.html
+layout: layout.njk
 ---
 Novopay Pledge Is Bunkum, Chaos Reigns
 ======================================

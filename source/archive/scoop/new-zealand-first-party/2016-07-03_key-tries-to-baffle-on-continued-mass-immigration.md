@@ -1,9 +1,13 @@
 ---
 slug: key-tries-to-baffle-on-continued-mass-immigration
-title: "Key tries to baffle on continued mass immigration"
-date: 2016-07-03
-source-url: https://www.scoop.co.nz/stories/PA1607/S00037/key-tries-to-baffle-on-continued-mass-immigration.htm
+title: Key tries to baffle on continued mass immigration
+date: 2016-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00037/key-tries-to-baffle-on-continued-mass-immigration.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/07/03/key-tries-to-baffle-on-continued-mass-immigration/index.html
+layout: layout.njk
 ---
 Key tries to baffle on continued mass immigration
 =================================================

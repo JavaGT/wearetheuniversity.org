@@ -1,9 +1,13 @@
 ---
 slug: celebrating-a-pioneering-spirit-uc-professor-jane-soons
-title: "Celebrating A Pioneering Spirit, UC Professor Jane Soons"
-date: 2021-06-09
-source-url: https://www.scoop.co.nz/stories/ED2106/S00015/celebrating-a-pioneering-spirit-uc-professor-jane-soons.htm
+title: Celebrating A Pioneering Spirit, UC Professor Jane Soons
+date: 2021-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00015/celebrating-a-pioneering-spirit-uc-professor-jane-soons.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/06/09/celebrating-a-pioneering-spirit-uc-professor-jane-soons/index.html
+layout: layout.njk
 ---
 Celebrating A Pioneering Spirit, UC Professor Jane Soons
 ========================================================

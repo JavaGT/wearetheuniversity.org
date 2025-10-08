@@ -1,9 +1,13 @@
 ---
 slug: uptake-of-coroners-recommendations-to-be-investigated
-title: "Uptake of Coroners’ Recommendations to be Investigated"
-date: 2012-05-15
-source-url: https://www.scoop.co.nz/stories/ED1205/S00058/uptake-of-coroners-recommendations-to-be-investigated.htm
+title: Uptake of Coroners’ Recommendations to be Investigated
+date: 2012-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00058/uptake-of-coroners-recommendations-to-be-investigated.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/05/15/uptake-of-coroners-recommendations-to-be-investigated/index.html
+layout: layout.njk
 ---
 Uptake of Coroners’ Recommendations to be Investigated
 ======================================================

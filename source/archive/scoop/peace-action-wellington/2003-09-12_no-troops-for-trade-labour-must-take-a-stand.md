@@ -1,9 +1,12 @@
 ---
 slug: no-troops-for-trade-labour-must-take-a-stand
-title: "No Troops For Trade - Labour must take a stand"
-date: 2003-09-12
-source-url: https://www.scoop.co.nz/stories/PO0309/S00078/no-troops-for-trade-labour-must-take-a-stand.htm
+title: No Troops For Trade - Labour must take a stand
+date: 2003-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0309/S00078/no-troops-for-trade-labour-must-take-a-stand.htm
 author: peace-action-wellington
+permalink: /archive/2003/09/12/no-troops-for-trade-labour-must-take-a-stand/index.html
+layout: layout.njk
 ---
 No Troops For Trade - Labour must take a stand
 ==============================================

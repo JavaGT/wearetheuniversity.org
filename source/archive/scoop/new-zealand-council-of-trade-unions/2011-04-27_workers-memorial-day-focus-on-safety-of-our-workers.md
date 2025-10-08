@@ -1,9 +1,13 @@
 ---
 slug: workers-memorial-day-focus-on-safety-of-our-workers
-title: "Workers Memorial Day - Focus on safety of our workers"
-date: 2011-04-27
-source-url: https://www.scoop.co.nz/stories/BU1104/S00766/workers-memorial-day-focus-on-safety-of-our-workers.htm
+title: Workers Memorial Day - Focus on safety of our workers
+date: 2011-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1104/S00766/workers-memorial-day-focus-on-safety-of-our-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/04/27/workers-memorial-day-focus-on-safety-of-our-workers/index.html
+layout: layout.njk
 ---
 Workers Memorial Day - Focus on safety of our workers
 =====================================================

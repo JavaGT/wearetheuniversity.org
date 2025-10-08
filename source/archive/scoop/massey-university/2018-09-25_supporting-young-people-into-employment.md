@@ -1,9 +1,12 @@
 ---
 slug: supporting-young-people-into-employment
-title: "Supporting young people into employment"
-date: 2018-09-25
-source-url: https://www.scoop.co.nz/stories/ED1809/S00071/supporting-young-people-into-employment.htm
+title: Supporting young people into employment
+date: 2018-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00071/supporting-young-people-into-employment.htm
 author: massey-university
+permalink: /archive/2018/09/25/supporting-young-people-into-employment/index.html
+layout: layout.njk
 ---
 Supporting young people into employment
 =======================================

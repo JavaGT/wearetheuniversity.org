@@ -1,9 +1,13 @@
 ---
 slug: time-to-recognise-those-who-support-teaching-and-learning
-title: "Time to recognise those who support teaching and learning"
-date: 2011-06-15
-source-url: https://www.scoop.co.nz/stories/ED1106/S00061/time-to-recognise-those-who-support-teaching-and-learning.htm
+title: Time to recognise those who support teaching and learning
+date: 2011-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00061/time-to-recognise-those-who-support-teaching-and-learning.htm
 author: nzei
+permalink: >-
+  /archive/2011/06/15/time-to-recognise-those-who-support-teaching-and-learning/index.html
+layout: layout.njk
 ---
 Time to recognise those who support teaching and learning
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-call-for-more-in-fight-against-tobacco
-title: "Otago researchers call for more in fight against tobacco"
-date: 2018-03-14
-source-url: https://www.scoop.co.nz/stories/GE1803/S00034/otago-researchers-call-for-more-in-fight-against-tobacco.htm
+title: Otago researchers call for more in fight against tobacco
+date: 2018-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1803/S00034/otago-researchers-call-for-more-in-fight-against-tobacco.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/14/otago-researchers-call-for-more-in-fight-against-tobacco/index.html
+layout: layout.njk
 ---
 Otago researchers call for more in fight against tobacco
 ========================================================

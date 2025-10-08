@@ -1,9 +1,12 @@
 ---
 slug: drinking-in-moderation-is-it-good-for-you
-title: "Drinking in moderation – is it good for you?"
-date: 2017-01-31
-source-url: https://www.scoop.co.nz/stories/GE1701/S00051/drinking-in-moderation-is-it-good-for-you.htm
+title: Drinking in moderation – is it good for you?
+date: 2017-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1701/S00051/drinking-in-moderation-is-it-good-for-you.htm
 author: massey-university
+permalink: /archive/2017/01/31/drinking-in-moderation-is-it-good-for-you/index.html
+layout: layout.njk
 ---
 Drinking in moderation – is it good for you?
 ============================================

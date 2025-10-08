@@ -1,9 +1,13 @@
 ---
 slug: new-law-will-place-severe-strain-on-relationships
-title: "New Law Will Place Severe Strain On Relationships"
-date: 2001-03-26
-source-url: https://www.scoop.co.nz/stories/PA0103/S00430/new-law-will-place-severe-strain-on-relationships.htm
+title: New Law Will Place Severe Strain On Relationships
+date: 2001-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00430/new-law-will-place-severe-strain-on-relationships.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/03/26/new-law-will-place-severe-strain-on-relationships/index.html
+layout: layout.njk
 ---
 New Law Will Place Severe Strain On Relationships
 =================================================

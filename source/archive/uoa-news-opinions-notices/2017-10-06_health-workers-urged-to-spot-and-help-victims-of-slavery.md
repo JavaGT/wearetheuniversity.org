@@ -1,8 +1,12 @@
 ---
 slug: health-workers-urged-to-spot-and-help-victims-of-slavery
-title: "Health workers urged to spot and help victims of slavery"
-date: 2017-10-06
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/health-workers-urged-to-spot-and-help-victims-of-slavery.html
+title: Health workers urged to spot and help victims of slavery
+date: 2017-10-06T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/health-workers-urged-to-spot-and-help-victims-of-slavery.html
+permalink: >-
+  /archive/2017/10/06/health-workers-urged-to-spot-and-help-victims-of-slavery/index.html
+layout: layout.njk
 ---
 Health workers urged to spot and help victims of slavery
 ========================================================

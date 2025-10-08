@@ -1,9 +1,12 @@
 ---
 slug: national-day-of-action-for-free-education
-title: "National Day of Action for Free Education"
-date: 2000-05-23
-source-url: https://www.scoop.co.nz/stories/ED0005/S00033/national-day-of-action-for-free-education.htm
+title: National Day of Action for Free Education
+date: 2000-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00033/national-day-of-action-for-free-education.htm
 author: fightback
+permalink: /archive/2000/05/23/national-day-of-action-for-free-education/index.html
+layout: layout.njk
 ---
 National Day of Action for Free Education
 =========================================

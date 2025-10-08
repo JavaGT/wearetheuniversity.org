@@ -1,9 +1,11 @@
 ---
 slug: please-no-more-logoing
-title: "Please: No More Logoing"
-date: 2000-05-11
+title: 'Please: No More Logoing'
+date: 2000-05-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0005/S00242/please-no-more-logoing.htm
 author: new-zealand-first-party
+permalink: /archive/2000/05/11/please-no-more-logoing/index.html
+layout: layout.njk
 ---
 Please: No More Logoing
 =======================

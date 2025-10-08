@@ -1,9 +1,13 @@
 ---
 slug: birthday-party-marks-one-year-of-half-price-public-transport
-title: "Birthday Party Marks One Year Of Half-price Public Transport"
-date: 2023-04-05
-source-url: https://www.scoop.co.nz/stories/AK2304/S00057/birthday-party-marks-one-year-of-half-price-public-transport.htm
+title: Birthday Party Marks One Year Of Half-price Public Transport
+date: 2023-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2304/S00057/birthday-party-marks-one-year-of-half-price-public-transport.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2023/04/05/birthday-party-marks-one-year-of-half-price-public-transport/index.html
+layout: layout.njk
 ---
 Birthday Party Marks One Year Of Half-price Public Transport
 ============================================================

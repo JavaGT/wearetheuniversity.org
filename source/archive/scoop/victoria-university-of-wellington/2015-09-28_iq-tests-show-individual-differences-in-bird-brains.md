@@ -1,9 +1,13 @@
 ---
 slug: iq-tests-show-individual-differences-in-bird-brains
-title: "IQ tests show individual differences in bird brains"
-date: 2015-09-28
-source-url: https://www.scoop.co.nz/stories/SC1509/S00090/iq-tests-show-individual-differences-in-bird-brains.htm
+title: IQ tests show individual differences in bird brains
+date: 2015-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1509/S00090/iq-tests-show-individual-differences-in-bird-brains.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/09/28/iq-tests-show-individual-differences-in-bird-brains/index.html
+layout: layout.njk
 ---
 IQ tests show individual differences in bird brains
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: public-policy-implications-of-the-christchurch-quake
-title: "Public Policy Implications Of The Christchurch Quake"
-date: 2011-03-11
-source-url: https://www.scoop.co.nz/stories/BU1103/S00387/public-policy-implications-of-the-christchurch-quake.htm
+title: Public Policy Implications Of The Christchurch Quake
+date: 2011-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1103/S00387/public-policy-implications-of-the-christchurch-quake.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2011/03/11/public-policy-implications-of-the-christchurch-quake/index.html
+layout: layout.njk
 ---
 Public Policy Implications Of The Christchurch Quake
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-information-on-preventing-the-spread-of-meningitis
-title: "New Information On Preventing the Spread of Meningitis"
-date: 2013-05-29
-source-url: https://www.scoop.co.nz/stories/GE1305/S00169/new-information-on-preventing-the-spread-of-meningitis.htm
+title: New Information On Preventing the Spread of Meningitis
+date: 2013-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00169/new-information-on-preventing-the-spread-of-meningitis.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/05/29/new-information-on-preventing-the-spread-of-meningitis/index.html
+layout: layout.njk
 ---
 New Information On Preventing the Spread of Meningitis
 ======================================================

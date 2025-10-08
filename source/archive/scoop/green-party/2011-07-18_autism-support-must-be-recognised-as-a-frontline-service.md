@@ -1,9 +1,13 @@
 ---
 slug: autism-support-must-be-recognised-as-a-frontline-service
-title: "Autism support must be recognised as a frontline service"
-date: 2011-07-18
-source-url: https://www.scoop.co.nz/stories/PA1107/S00307/autism-support-must-be-recognised-as-a-frontline-service.htm
+title: Autism support must be recognised as a frontline service
+date: 2011-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00307/autism-support-must-be-recognised-as-a-frontline-service.htm
 author: green-party
+permalink: >-
+  /archive/2011/07/18/autism-support-must-be-recognised-as-a-frontline-service/index.html
+layout: layout.njk
 ---
 Autism support must be recognised as a frontline service
 ========================================================

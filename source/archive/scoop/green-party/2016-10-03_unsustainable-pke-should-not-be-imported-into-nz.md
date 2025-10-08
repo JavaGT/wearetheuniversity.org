@@ -1,9 +1,13 @@
 ---
 slug: unsustainable-pke-should-not-be-imported-into-nz
-title: "Unsustainable PKE should not be imported into NZ"
-date: 2016-10-03
-source-url: https://www.scoop.co.nz/stories/PA1610/S00022/unsustainable-pke-should-not-be-imported-into-nz.htm
+title: Unsustainable PKE should not be imported into NZ
+date: 2016-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00022/unsustainable-pke-should-not-be-imported-into-nz.htm
 author: green-party
+permalink: >-
+  /archive/2016/10/03/unsustainable-pke-should-not-be-imported-into-nz/index.html
+layout: layout.njk
 ---
 Unsustainable PKE should not be imported into NZ
 ================================================

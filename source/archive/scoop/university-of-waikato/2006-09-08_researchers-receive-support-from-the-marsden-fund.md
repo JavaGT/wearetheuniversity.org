@@ -1,9 +1,13 @@
 ---
 slug: researchers-receive-support-from-the-marsden-fund
-title: "Researchers receive support from the Marsden Fund"
-date: 2006-09-08
-source-url: https://www.scoop.co.nz/stories/ED0609/S00034/researchers-receive-support-from-the-marsden-fund.htm
+title: Researchers receive support from the Marsden Fund
+date: 2006-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00034/researchers-receive-support-from-the-marsden-fund.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2006/09/08/researchers-receive-support-from-the-marsden-fund/index.html
+layout: layout.njk
 ---
 Researchers receive support from the Marsden Fund
 =================================================

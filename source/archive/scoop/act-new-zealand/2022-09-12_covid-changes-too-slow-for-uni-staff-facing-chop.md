@@ -1,9 +1,13 @@
 ---
 slug: covid-changes-too-slow-for-uni-staff-facing-chop
-title: "COVID Changes Too Slow For Uni Staff Facing Chop"
-date: 2022-09-12
-source-url: https://www.scoop.co.nz/stories/PA2209/S00059/covid-changes-too-slow-for-uni-staff-facing-chop.htm
+title: COVID Changes Too Slow For Uni Staff Facing Chop
+date: 2022-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00059/covid-changes-too-slow-for-uni-staff-facing-chop.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/09/12/covid-changes-too-slow-for-uni-staff-facing-chop/index.html
+layout: layout.njk
 ---
 COVID Changes Too Slow For Uni Staff Facing Chop
 ================================================

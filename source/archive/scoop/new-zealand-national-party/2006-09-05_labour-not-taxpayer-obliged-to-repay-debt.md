@@ -1,9 +1,12 @@
 ---
 slug: labour-not-taxpayer-obliged-to-repay-debt
-title: "Labour – not taxpayer – obliged to repay debt"
-date: 2006-09-05
-source-url: https://www.scoop.co.nz/stories/PA0609/S00106/labour-not-taxpayer-obliged-to-repay-debt.htm
+title: Labour – not taxpayer – obliged to repay debt
+date: 2006-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00106/labour-not-taxpayer-obliged-to-repay-debt.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/05/labour-not-taxpayer-obliged-to-repay-debt/index.html
+layout: layout.njk
 ---
 Labour – not taxpayer – obliged to repay debt
 =============================================

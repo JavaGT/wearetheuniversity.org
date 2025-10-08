@@ -1,9 +1,12 @@
 ---
 slug: funding-to-study-native-sand-dune-maker
-title: "Funding to study native sand dune maker"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/SC1402/S00051/funding-to-study-native-sand-dune-maker.htm
+title: Funding to study native sand dune maker
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1402/S00051/funding-to-study-native-sand-dune-maker.htm
 author: lincoln-university
+permalink: /archive/2014/02/24/funding-to-study-native-sand-dune-maker/index.html
+layout: layout.njk
 ---
 Funding to study native sand dune maker
 =======================================

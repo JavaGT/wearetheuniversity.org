@@ -1,9 +1,16 @@
 ---
-slug: 18-year-old-firefighter-louie-miller-named-student-volunteer-armys-top-volunteer
-title: "18-year-old Firefighter Louie Miller Named Student Volunteer Army’s Top Volunteer"
-date: 2024-11-19
-source-url: https://www.scoop.co.nz/stories/AK2411/S00519/18-year-old-firefighter-louie-miller-named-student-volunteer-armys-top-volunteer.htm
+slug: >-
+  18-year-old-firefighter-louie-miller-named-student-volunteer-armys-top-volunteer
+title: >-
+  18-year-old Firefighter Louie Miller Named Student Volunteer Army’s Top
+  Volunteer
+date: 2024-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2411/S00519/18-year-old-firefighter-louie-miller-named-student-volunteer-armys-top-volunteer.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2024/11/19/18-year-old-firefighter-louie-miller-named-student-volunteer-armys-top-volunteer/index.html
+layout: layout.njk
 ---
 18-year-old Firefighter Louie Miller Named Student Volunteer Army’s Top Volunteer
 =================================================================================

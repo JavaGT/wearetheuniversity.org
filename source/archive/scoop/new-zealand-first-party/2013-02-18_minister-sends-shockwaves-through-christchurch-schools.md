@@ -1,9 +1,13 @@
 ---
 slug: minister-sends-shockwaves-through-christchurch-schools
-title: "Minister Sends Shockwaves through Christchurch Schools"
-date: 2013-02-18
-source-url: https://www.scoop.co.nz/stories/PA1302/S00242/minister-sends-shockwaves-through-christchurch-schools.htm
+title: Minister Sends Shockwaves through Christchurch Schools
+date: 2013-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00242/minister-sends-shockwaves-through-christchurch-schools.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/02/18/minister-sends-shockwaves-through-christchurch-schools/index.html
+layout: layout.njk
 ---
 Minister Sends Shockwaves through Christchurch Schools
 ======================================================

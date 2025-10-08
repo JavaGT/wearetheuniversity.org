@@ -1,9 +1,12 @@
 ---
 slug: 1-in-3-working-kiwis-short-changed-by-$1000s
-title: "1 in 3 working Kiwis short changed by $1000s"
-date: 2016-06-02
-source-url: https://www.scoop.co.nz/stories/PA1606/S00056/1-in-3-working-kiwis-short-changed-by-1000s.htm
+title: 1 in 3 working Kiwis short changed by $1000s
+date: 2016-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00056/1-in-3-working-kiwis-short-changed-by-1000s.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/02/1-in-3-working-kiwis-short-changed-by-/index.html
+layout: layout.njk
 ---
 1 in 3 working Kiwis short changed by $1000s
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: european-delegation-in-waikato
-title: "European Delegation In Waikato"
-date: 2006-02-23
-source-url: https://www.scoop.co.nz/stories/ED0602/S00069/european-delegation-in-waikato.htm
+title: European Delegation In Waikato
+date: 2006-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00069/european-delegation-in-waikato.htm
 author: waikato-university
+permalink: /archive/2006/02/23/european-delegation-in-waikato/index.html
+layout: layout.njk
 ---
 European Delegation In Waikato
 ==============================

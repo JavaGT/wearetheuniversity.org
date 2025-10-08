@@ -1,9 +1,12 @@
 ---
 slug: understanding-how-māori-whānau-bounce-back-from-adversity
-title: "Understanding how Māori whānau bounce back from adversity"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/ED1512/S00074/understanding-how-maori-whanau-bounce-back-from-adversity.htm
+title: Understanding how Māori whānau bounce back from adversity
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00074/understanding-how-maori-whanau-bounce-back-from-adversity.htm
 author: massey-university
+permalink: /archive/2015/12/16/understanding-how-m/index.html
+layout: layout.njk
 ---
 Understanding how Māori whānau bounce back from adversity
 =========================================================

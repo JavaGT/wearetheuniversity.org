@@ -1,9 +1,12 @@
 ---
 slug: three-emerging-uc-academics-funded-$713000-for-health-research
-title: "Three Emerging UC Academics Funded $713,000 For Health Research"
-date: 2022-05-30
-source-url: https://www.scoop.co.nz/stories/SC2205/S00049/three-emerging-uc-academics-funded-713000-for-health-research.htm
+title: Three Emerging UC Academics Funded $713,000 For Health Research
+date: 2022-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2205/S00049/three-emerging-uc-academics-funded-713000-for-health-research.htm
 author: university-of-canterbury
+permalink: /archive/2022/05/30/three-emerging-uc-academics-funded-/index.html
+layout: layout.njk
 ---
 Three Emerging UC Academics Funded $713,000 For Health Research
 ===============================================================

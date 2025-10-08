@@ -1,9 +1,13 @@
 ---
 slug: regalia-hiring-group-help-funds-pasifika-study-programme-for-ncea-students
-title: "Regalia Hiring Group Help Funds Pasifika Study Programme For NCEA Students"
-date: 2022-05-20
-source-url: https://www.scoop.co.nz/stories/ED2205/S00046/regalia-hiring-group-help-funds-pasifika-study-programme-for-ncea-students.htm
+title: Regalia Hiring Group Help Funds Pasifika Study Programme For NCEA Students
+date: 2022-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00046/regalia-hiring-group-help-funds-pasifika-study-programme-for-ncea-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/20/regalia-hiring-group-help-funds-pasifika-study-programme-for-ncea-students/index.html
+layout: layout.njk
 ---
 Regalia Hiring Group Help Funds Pasifika Study Programme For NCEA Students
 ==========================================================================

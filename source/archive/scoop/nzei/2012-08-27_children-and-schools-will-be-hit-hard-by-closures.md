@@ -1,9 +1,13 @@
 ---
 slug: children-and-schools-will-be-hit-hard-by-closures
-title: "Children and schools will be hit hard by closures"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/PO1208/S00425/children-and-schools-will-be-hit-hard-by-closures.htm
+title: Children and schools will be hit hard by closures
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00425/children-and-schools-will-be-hit-hard-by-closures.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/27/children-and-schools-will-be-hit-hard-by-closures/index.html
+layout: layout.njk
 ---
 Children and schools will be hit hard by closures
 =================================================

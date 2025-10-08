@@ -1,9 +1,12 @@
 ---
 slug: the-secret-lives-of-pregnant-male-pipefish
-title: "The Secret Lives Of Pregnant Male Pipefish"
-date: 2024-12-18
-source-url: https://www.scoop.co.nz/stories/SC2412/S00026/the-secret-lives-of-pregnant-male-pipefish.htm
+title: The Secret Lives Of Pregnant Male Pipefish
+date: 2024-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2412/S00026/the-secret-lives-of-pregnant-male-pipefish.htm
 author: university-of-canterbury
+permalink: /archive/2024/12/18/the-secret-lives-of-pregnant-male-pipefish/index.html
+layout: layout.njk
 ---
 The Secret Lives Of Pregnant Male Pipefish
 ==========================================

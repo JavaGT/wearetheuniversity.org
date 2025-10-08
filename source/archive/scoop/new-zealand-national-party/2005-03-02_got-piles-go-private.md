@@ -1,9 +1,11 @@
 ---
 slug: got-piles-go-private
-title: "Got piles? Go private"
-date: 2005-03-02
+title: Got piles? Go private
+date: 2005-03-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0503/S00063/got-piles-go-private.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/02/got-piles-go-private/index.html
+layout: layout.njk
 ---
 Got piles? Go private
 =====================

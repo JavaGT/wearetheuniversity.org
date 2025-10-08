@@ -1,9 +1,12 @@
 ---
 slug: nz-&-us-need-better-visa-irregularities-systems
-title: "NZ & US need better visa irregularities systems"
-date: 2005-07-07
-source-url: https://www.scoop.co.nz/stories/PA0507/S00149/nz-us-need-better-visa-irregularities-systems.htm
+title: NZ & US need better visa irregularities systems
+date: 2005-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00149/nz-us-need-better-visa-irregularities-systems.htm
 author: green-party
+permalink: /archive/2005/07/07/nz-/index.html
+layout: layout.njk
 ---
 NZ & US need better visa irregularities systems
 ===============================================

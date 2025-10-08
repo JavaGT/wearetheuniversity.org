@@ -1,9 +1,11 @@
 ---
 slug: poroporoaki-te-iria-whiu
-title: "POROPOROAKI: Te Iria Whiu"
-date: 2015-07-05
+title: 'POROPOROAKI: Te Iria Whiu'
+date: 2015-07-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1507/S00088/poroporoaki-te-iria-whiu.htm
 author: te-pati-maori
+permalink: /archive/2015/07/05/poroporoaki-te-iria-whiu/index.html
+layout: layout.njk
 ---
 POROPOROAKI: Te Iria Whiu
 =========================

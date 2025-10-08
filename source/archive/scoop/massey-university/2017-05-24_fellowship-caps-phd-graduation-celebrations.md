@@ -1,9 +1,12 @@
 ---
 slug: fellowship-caps-phd-graduation-celebrations
-title: "Fellowship caps PhD graduation celebrations"
-date: 2017-05-24
-source-url: https://www.scoop.co.nz/stories/ED1705/S00100/fellowship-caps-phd-graduation-celebrations.htm
+title: Fellowship caps PhD graduation celebrations
+date: 2017-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00100/fellowship-caps-phd-graduation-celebrations.htm
 author: massey-university
+permalink: /archive/2017/05/24/fellowship-caps-phd-graduation-celebrations/index.html
+layout: layout.njk
 ---
 Fellowship caps PhD graduation celebrations
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: computer-enthusiast-lecturer-wins-national-teaching-award
-title: "Computer enthusiast lecturer wins national teaching award"
-date: 2021-08-24
-source-url: https://www.scoop.co.nz/stories/ED2108/S00039/computer-enthusiast-lecturer-wins-national-teaching-award.htm
+title: Computer enthusiast lecturer wins national teaching award
+date: 2021-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2108/S00039/computer-enthusiast-lecturer-wins-national-teaching-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/08/24/computer-enthusiast-lecturer-wins-national-teaching-award/index.html
+layout: layout.njk
 ---
 Computer enthusiast lecturer wins national teaching award
 =========================================================

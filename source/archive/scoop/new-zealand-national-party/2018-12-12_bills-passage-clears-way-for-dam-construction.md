@@ -1,9 +1,12 @@
 ---
 slug: bills-passage-clears-way-for-dam-construction
-title: "Bill’s passage clears way for Dam construction"
-date: 2018-12-12
-source-url: https://www.scoop.co.nz/stories/PA1812/S00149/bills-passage-clears-way-for-dam-construction.htm
+title: Bill’s passage clears way for Dam construction
+date: 2018-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00149/bills-passage-clears-way-for-dam-construction.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/12/bills-passage-clears-way-for-dam-construction/index.html
+layout: layout.njk
 ---
 Bill’s passage clears way for Dam construction
 ==============================================

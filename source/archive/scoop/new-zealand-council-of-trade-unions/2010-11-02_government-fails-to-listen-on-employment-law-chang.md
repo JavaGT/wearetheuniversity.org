@@ -1,9 +1,13 @@
 ---
 slug: government-fails-to-listen-on-employment-law-chang
-title: "Government fails to listen on employment law chang"
-date: 2010-11-02
-source-url: https://www.scoop.co.nz/stories/PO1011/S00022/government-fails-to-listen-on-employment-law-chang.htm
+title: Government fails to listen on employment law chang
+date: 2010-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00022/government-fails-to-listen-on-employment-law-chang.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2010/11/02/government-fails-to-listen-on-employment-law-chang/index.html
+layout: layout.njk
 ---
 Government fails to listen on employment law chang
 ==================================================

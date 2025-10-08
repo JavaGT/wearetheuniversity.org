@@ -1,9 +1,12 @@
 ---
 slug: labour-says-child-hunger-is-about-dieting
-title: "Labour says child hunger is about ‘dieting’"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/PA0804/S00279/labour-says-child-hunger-is-about-dieting.htm
+title: Labour says child hunger is about ‘dieting’
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00279/labour-says-child-hunger-is-about-dieting.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/10/labour-says-child-hunger-is-about-dieting/index.html
+layout: layout.njk
 ---
 Labour says child hunger is about ‘dieting’
 ===========================================

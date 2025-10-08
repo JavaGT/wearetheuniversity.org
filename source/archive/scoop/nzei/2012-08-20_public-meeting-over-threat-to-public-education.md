@@ -1,9 +1,12 @@
 ---
 slug: public-meeting-over-threat-to-public-education
-title: "Public Meeting Over Threat To Public Education"
-date: 2012-08-20
-source-url: https://www.scoop.co.nz/stories/PO1208/S00283/public-meeting-over-threat-to-public-education.htm
+title: Public Meeting Over Threat To Public Education
+date: 2012-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00283/public-meeting-over-threat-to-public-education.htm
 author: nzei
+permalink: /archive/2012/08/20/public-meeting-over-threat-to-public-education/index.html
+layout: layout.njk
 ---
 Public Meeting Over Threat To Public Education
 ==============================================

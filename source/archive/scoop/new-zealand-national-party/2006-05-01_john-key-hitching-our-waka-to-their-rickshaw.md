@@ -1,9 +1,12 @@
 ---
 slug: john-key-hitching-our-waka-to-their-rickshaw
-title: "John Key - Hitching our Waka to their Rickshaw"
-date: 2006-05-01
-source-url: https://www.scoop.co.nz/stories/PA0605/S00004/john-key-hitching-our-waka-to-their-rickshaw.htm
+title: John Key - Hitching our Waka to their Rickshaw
+date: 2006-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00004/john-key-hitching-our-waka-to-their-rickshaw.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/01/john-key-hitching-our-waka-to-their-rickshaw/index.html
+layout: layout.njk
 ---
 John Key - Hitching our Waka to their Rickshaw
 ==============================================

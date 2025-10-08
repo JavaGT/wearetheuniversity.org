@@ -1,9 +1,12 @@
 ---
 slug: national-act-would-steal-xmas
-title: "National-Act would steal Xmas"
-date: 1999-10-18
-source-url: https://www.scoop.co.nz/stories/PA9910/S00398/national-act-would-steal-xmas.htm
+title: National-Act would steal Xmas
+date: 1999-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00398/national-act-would-steal-xmas.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/18/national-act-would-steal-xmas/index.html
+layout: layout.njk
 ---
 National-Act would steal Xmas
 =============================

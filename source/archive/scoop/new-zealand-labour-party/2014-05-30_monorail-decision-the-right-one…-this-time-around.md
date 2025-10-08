@@ -1,9 +1,12 @@
 ---
 slug: monorail-decision-the-right-one…-this-time-around
-title: "Monorail Decision the Right One… this time around"
-date: 2014-05-30
-source-url: https://www.scoop.co.nz/stories/PA1405/S00588/monorail-decision-the-right-one-this-time-around.htm
+title: Monorail Decision the Right One… this time around
+date: 2014-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00588/monorail-decision-the-right-one-this-time-around.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/30/monorail-decision-the-right-one/index.html
+layout: layout.njk
 ---
 Monorail Decision the Right One… this time around
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: top-medal-for-massey-horticulture-specialist
-title: "Top medal for Massey horticulture specialist"
-date: 2006-11-10
-source-url: https://www.scoop.co.nz/stories/ED0611/S00041/top-medal-for-massey-horticulture-specialist.htm
+title: Top medal for Massey horticulture specialist
+date: 2006-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00041/top-medal-for-massey-horticulture-specialist.htm
 author: massey-university
+permalink: /archive/2006/11/10/top-medal-for-massey-horticulture-specialist/index.html
+layout: layout.njk
 ---
 Top medal for Massey horticulture specialist
 ============================================

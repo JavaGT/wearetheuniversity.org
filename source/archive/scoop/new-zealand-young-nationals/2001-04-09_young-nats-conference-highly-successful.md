@@ -1,9 +1,12 @@
 ---
 slug: young-nats-conference-highly-successful
-title: "Young Nats Conference Highly Successful"
-date: 2001-04-09
-source-url: https://www.scoop.co.nz/stories/PO0104/S00026/young-nats-conference-highly-successful.htm
+title: Young Nats Conference Highly Successful
+date: 2001-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0104/S00026/young-nats-conference-highly-successful.htm
 author: new-zealand-young-nationals
+permalink: /archive/2001/04/09/young-nats-conference-highly-successful/index.html
+layout: layout.njk
 ---
 Young Nats Conference Highly Successful
 =======================================

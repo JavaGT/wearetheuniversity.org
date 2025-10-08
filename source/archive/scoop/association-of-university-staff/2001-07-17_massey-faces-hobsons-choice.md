@@ -1,9 +1,11 @@
 ---
 slug: massey-faces-hobsons-choice
-title: "Massey Faces Hobson's Choice"
-date: 2001-07-17
+title: Massey Faces Hobson's Choice
+date: 2001-07-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0107/S00024/massey-faces-hobsons-choice.htm
 author: association-of-university-staff
+permalink: /archive/2001/07/17/massey-faces-hobsons-choice/index.html
+layout: layout.njk
 ---
 Massey Faces Hobson's Choice
 ============================

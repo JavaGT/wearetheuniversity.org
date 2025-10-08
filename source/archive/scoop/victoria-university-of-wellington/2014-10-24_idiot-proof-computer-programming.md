@@ -1,9 +1,12 @@
 ---
 slug: idiot-proof-computer-programming
-title: "Idiot-proof computer programming"
-date: 2014-10-24
-source-url: https://www.scoop.co.nz/stories/BU1410/S00917/idiot-proof-computer-programming.htm
+title: Idiot-proof computer programming
+date: 2014-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1410/S00917/idiot-proof-computer-programming.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/24/idiot-proof-computer-programming/index.html
+layout: layout.njk
 ---
 Idiot-proof computer programming
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-tops-pbrf-funding-gains
-title: "Lincoln University Tops PBRF Funding Gains"
-date: 2005-01-19
-source-url: https://www.scoop.co.nz/stories/ED0501/S00033/lincoln-university-tops-pbrf-funding-gains.htm
+title: Lincoln University Tops PBRF Funding Gains
+date: 2005-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00033/lincoln-university-tops-pbrf-funding-gains.htm
 author: lincoln-university
+permalink: /archive/2005/01/19/lincoln-university-tops-pbrf-funding-gains/index.html
+layout: layout.njk
 ---
 Lincoln University Tops PBRF Funding Gains
 ==========================================

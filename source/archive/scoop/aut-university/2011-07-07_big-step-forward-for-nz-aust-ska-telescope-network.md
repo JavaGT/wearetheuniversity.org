@@ -1,9 +1,13 @@
 ---
 slug: big-step-forward-for-nz-aust-ska-telescope-network
-title: "Big step forward for NZ-Aust SKA telescope network"
-date: 2011-07-07
-source-url: https://www.scoop.co.nz/stories/SC1107/S00022/big-step-forward-for-nz-aust-ska-telescope-network.htm
+title: Big step forward for NZ-Aust SKA telescope network
+date: 2011-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00022/big-step-forward-for-nz-aust-ska-telescope-network.htm
 author: aut-university
+permalink: >-
+  /archive/2011/07/07/big-step-forward-for-nz-aust-ska-telescope-network/index.html
+layout: layout.njk
 ---
 Big step forward for NZ-Aust SKA telescope network
 ==================================================

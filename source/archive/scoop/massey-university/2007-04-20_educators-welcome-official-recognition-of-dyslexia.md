@@ -1,9 +1,13 @@
 ---
 slug: educators-welcome-official-recognition-of-dyslexia
-title: "Educators welcome official recognition of dyslexia"
-date: 2007-04-20
-source-url: https://www.scoop.co.nz/stories/ED0704/S00068/educators-welcome-official-recognition-of-dyslexia.htm
+title: Educators welcome official recognition of dyslexia
+date: 2007-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00068/educators-welcome-official-recognition-of-dyslexia.htm
 author: massey-university
+permalink: >-
+  /archive/2007/04/20/educators-welcome-official-recognition-of-dyslexia/index.html
+layout: layout.njk
 ---
 Educators welcome official recognition of dyslexia
 ==================================================

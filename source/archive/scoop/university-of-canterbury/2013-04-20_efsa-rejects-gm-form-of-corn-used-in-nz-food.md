@@ -1,9 +1,12 @@
 ---
 slug: efsa-rejects-gm-form-of-corn-used-in-nz-food
-title: "EFSA Rejects GM Form Of Corn Used In NZ Food"
-date: 2013-04-20
-source-url: https://www.scoop.co.nz/stories/SC1304/S00035/efsa-rejects-gm-form-of-corn-used-in-nz-food.htm
+title: EFSA Rejects GM Form Of Corn Used In NZ Food
+date: 2013-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00035/efsa-rejects-gm-form-of-corn-used-in-nz-food.htm
 author: university-of-canterbury
+permalink: /archive/2013/04/20/efsa-rejects-gm-form-of-corn-used-in-nz-food/index.html
+layout: layout.njk
 ---
 EFSA Rejects GM Form Of Corn Used In NZ Food
 ============================================

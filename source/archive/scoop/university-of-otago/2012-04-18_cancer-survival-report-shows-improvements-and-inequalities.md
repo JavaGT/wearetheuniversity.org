@@ -1,9 +1,13 @@
 ---
 slug: cancer-survival-report-shows-improvements-and-inequalities
-title: "Cancer survival report shows improvements and inequalities"
-date: 2012-04-18
-source-url: https://www.scoop.co.nz/stories/GE1204/S00060/cancer-survival-report-shows-improvements-and-inequalities.htm
+title: Cancer survival report shows improvements and inequalities
+date: 2012-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1204/S00060/cancer-survival-report-shows-improvements-and-inequalities.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/04/18/cancer-survival-report-shows-improvements-and-inequalities/index.html
+layout: layout.njk
 ---
 Cancer survival report shows improvements and inequalities
 ==========================================================

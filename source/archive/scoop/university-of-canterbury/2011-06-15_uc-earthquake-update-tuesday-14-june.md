@@ -1,9 +1,12 @@
 ---
 slug: uc-earthquake-update-tuesday-14-june
-title: "UC Earthquake Update Tuesday 14 June"
-date: 2011-06-15
-source-url: https://www.scoop.co.nz/stories/AK1106/S00371/uc-earthquake-update-tuesday-14-june.htm
+title: UC Earthquake Update Tuesday 14 June
+date: 2011-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1106/S00371/uc-earthquake-update-tuesday-14-june.htm
 author: university-of-canterbury
+permalink: /archive/2011/06/15/uc-earthquake-update-tuesday-14-june/index.html
+layout: layout.njk
 ---
 UC Earthquake Update Tuesday 14 June
 ====================================

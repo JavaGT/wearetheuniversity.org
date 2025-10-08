@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-hosts-new-austrian-ambassador
-title: "Lincoln University hosts new Austrian Ambassador"
-date: 2012-09-04
-source-url: https://www.scoop.co.nz/stories/ED1209/S00022/lincoln-university-hosts-new-austrian-ambassador.htm
+title: Lincoln University hosts new Austrian Ambassador
+date: 2012-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00022/lincoln-university-hosts-new-austrian-ambassador.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/09/04/lincoln-university-hosts-new-austrian-ambassador/index.html
+layout: layout.njk
 ---
 Lincoln University hosts new Austrian Ambassador
 ================================================

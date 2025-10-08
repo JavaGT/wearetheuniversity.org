@@ -1,9 +1,11 @@
 ---
 slug: fire!-comedy!-&-angry-students
-title: "Fire! Comedy! & Angry Students"
-date: 2001-03-15
+title: Fire! Comedy! & Angry Students
+date: 2001-03-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0103/S00032/fire-comedy-angry-students.htm
 author: otago-university-students-association
+permalink: /archive/2001/03/15/fire/index.html
+layout: layout.njk
 ---
 Fire! Comedy! & Angry Students
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: electrofishing-boat-zaps-fish-pests
-title: "Electrofishing Boat Zaps Fish Pests"
-date: 2003-08-15
-source-url: https://www.scoop.co.nz/stories/SC0308/S00049/electrofishing-boat-zaps-fish-pests.htm
+title: Electrofishing Boat Zaps Fish Pests
+date: 2003-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0308/S00049/electrofishing-boat-zaps-fish-pests.htm
 author: waikato-university
+permalink: /archive/2003/08/15/electrofishing-boat-zaps-fish-pests/index.html
+layout: layout.njk
 ---
 Electrofishing Boat Zaps Fish Pests
 ===================================

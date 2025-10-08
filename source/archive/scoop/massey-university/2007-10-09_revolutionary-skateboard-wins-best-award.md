@@ -1,9 +1,12 @@
 ---
 slug: revolutionary-skateboard-wins-best-award
-title: "Revolutionary Skateboard Wins 'Best' Award"
-date: 2007-10-09
-source-url: https://www.scoop.co.nz/stories/CU0710/S00112/revolutionary-skateboard-wins-best-award.htm
+title: Revolutionary Skateboard Wins 'Best' Award
+date: 2007-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0710/S00112/revolutionary-skateboard-wins-best-award.htm
 author: massey-university
+permalink: /archive/2007/10/09/revolutionary-skateboard-wins-best-award/index.html
+layout: layout.njk
 ---
 Revolutionary Skateboard Wins 'Best' Award
 ==========================================

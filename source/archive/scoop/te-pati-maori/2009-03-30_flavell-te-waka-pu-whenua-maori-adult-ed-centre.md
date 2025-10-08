@@ -1,9 +1,12 @@
 ---
 slug: flavell-te-waka-pu-whenua-maori-adult-ed-centre
-title: "Flavell: Te Waka Pu Whenua Maori Adult Ed. Centre"
-date: 2009-03-30
-source-url: https://www.scoop.co.nz/stories/PA0903/S00424/flavell-te-waka-pu-whenua-maori-adult-ed-centre.htm
+title: 'Flavell: Te Waka Pu Whenua Maori Adult Ed. Centre'
+date: 2009-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00424/flavell-te-waka-pu-whenua-maori-adult-ed-centre.htm
 author: te-pati-maori
+permalink: /archive/2009/03/30/flavell-te-waka-pu-whenua-maori-adult-ed-centre/index.html
+layout: layout.njk
 ---
 Flavell: Te Waka Pu Whenua Maori Adult Ed. Centre
 =================================================

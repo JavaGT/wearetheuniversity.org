@@ -1,9 +1,13 @@
 ---
 slug: mega-trends-expert-to-speak-at-forum-on-the-future
-title: "Mega-trends expert to speak at forum on the future"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/BU1211/S00736/mega-trends-expert-to-speak-at-forum-on-the-future.htm
+title: Mega-trends expert to speak at forum on the future
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1211/S00736/mega-trends-expert-to-speak-at-forum-on-the-future.htm
 author: massey-university
+permalink: >-
+  /archive/2012/11/20/mega-trends-expert-to-speak-at-forum-on-the-future/index.html
+layout: layout.njk
 ---
 Mega-trends expert to speak at forum on the future
 ==================================================

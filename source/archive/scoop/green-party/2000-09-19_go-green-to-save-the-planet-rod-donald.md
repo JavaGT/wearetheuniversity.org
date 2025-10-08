@@ -1,9 +1,12 @@
 ---
 slug: go-green-to-save-the-planet-rod-donald
-title: "\"Go Green to save the Planet\" - Rod Donald"
-date: 2000-09-19
-source-url: https://www.scoop.co.nz/stories/PA0009/S00307/go-green-to-save-the-planet-rod-donald.htm
+title: '"Go Green to save the Planet" - Rod Donald'
+date: 2000-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00307/go-green-to-save-the-planet-rod-donald.htm
 author: green-party
+permalink: /archive/2000/09/19/go-green-to-save-the-planet-rod-donald/index.html
+layout: layout.njk
 ---
 “Go Green to save the Planet” - Rod Donald
 ==========================================

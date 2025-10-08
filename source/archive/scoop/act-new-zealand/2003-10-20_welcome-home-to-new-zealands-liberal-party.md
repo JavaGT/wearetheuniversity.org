@@ -1,9 +1,12 @@
 ---
 slug: welcome-home-to-new-zealands-liberal-party
-title: "Welcome Home To New Zealand's Liberal Party"
-date: 2003-10-20
-source-url: https://www.scoop.co.nz/stories/PA0310/S00438/welcome-home-to-new-zealands-liberal-party.htm
+title: Welcome Home To New Zealand's Liberal Party
+date: 2003-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00438/welcome-home-to-new-zealands-liberal-party.htm
 author: act-new-zealand
+permalink: /archive/2003/10/20/welcome-home-to-new-zealands-liberal-party/index.html
+layout: layout.njk
 ---
 Welcome Home To New Zealand's Liberal Party
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: don-brash-writes
-title: "Don Brash Writes"
-date: 2005-08-03
+title: Don Brash Writes
+date: 2005-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00097/don-brash-writes.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/03/don-brash-writes/index.html
+layout: layout.njk
 ---
 Don Brash Writes
 ================

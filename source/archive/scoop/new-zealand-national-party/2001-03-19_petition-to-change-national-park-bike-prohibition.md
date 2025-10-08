@@ -1,9 +1,13 @@
 ---
 slug: petition-to-change-national-park-bike-prohibition
-title: "Petition to change National Park bike prohibition"
-date: 2001-03-19
-source-url: https://www.scoop.co.nz/stories/PA0103/S00295/petition-to-change-national-park-bike-prohibition.htm
+title: Petition to change National Park bike prohibition
+date: 2001-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00295/petition-to-change-national-park-bike-prohibition.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/03/19/petition-to-change-national-park-bike-prohibition/index.html
+layout: layout.njk
 ---
 Petition to change National Park bike prohibition
 =================================================

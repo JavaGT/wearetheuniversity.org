@@ -1,9 +1,12 @@
 ---
 slug: aucklanders-paying-for-unprepared-government
-title: "Aucklanders paying for unprepared Government"
-date: 2021-09-13
-source-url: https://www.scoop.co.nz/stories/PA2109/S00117/aucklanders-paying-for-unprepared-government.htm
+title: Aucklanders paying for unprepared Government
+date: 2021-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00117/aucklanders-paying-for-unprepared-government.htm
 author: act-new-zealand
+permalink: /archive/2021/09/13/aucklanders-paying-for-unprepared-government/index.html
+layout: layout.njk
 ---
 Aucklanders paying for unprepared Government
 ============================================

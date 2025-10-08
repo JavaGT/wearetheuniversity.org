@@ -1,9 +1,12 @@
 ---
 slug: honey-its-not-always-what-it-seems
-title: "Honey – it’s not always what it seems"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/SC1210/S00038/honey-its-not-always-what-it-seems.htm
+title: Honey – it’s not always what it seems
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00038/honey-its-not-always-what-it-seems.htm
 author: lincoln-university
+permalink: /archive/2012/10/18/honey-its-not-always-what-it-seems/index.html
+layout: layout.njk
 ---
 Honey – it’s not always what it seems
 =====================================

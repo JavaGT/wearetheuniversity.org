@@ -1,9 +1,12 @@
 ---
 slug: pca-confirms-clarks-drivers-were-fall-guys
-title: "PCA confirms Clark’s drivers were ‘fall guys’"
-date: 2007-11-28
-source-url: https://www.scoop.co.nz/stories/PA0711/S00567/pca-confirms-clarks-drivers-were-fall-guys.htm
+title: PCA confirms Clark’s drivers were ‘fall guys’
+date: 2007-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00567/pca-confirms-clarks-drivers-were-fall-guys.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/28/pca-confirms-clarks-drivers-were-fall-guys/index.html
+layout: layout.njk
 ---
 PCA confirms Clark’s drivers were ‘fall guys’
 =============================================

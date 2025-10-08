@@ -1,9 +1,11 @@
 ---
 slug: promoting-women-in-it
-title: "Promoting Women in IT"
-date: 2003-08-21
+title: Promoting Women in IT
+date: 2003-08-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0308/S00071/promoting-women-in-it.htm
 author: waikato-university
+permalink: /archive/2003/08/21/promoting-women-in-it/index.html
+layout: layout.njk
 ---
 Promoting Women in IT
 =====================

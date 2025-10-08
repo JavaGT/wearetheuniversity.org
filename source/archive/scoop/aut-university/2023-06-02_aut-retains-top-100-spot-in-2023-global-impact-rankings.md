@@ -1,9 +1,13 @@
 ---
 slug: aut-retains-top-100-spot-in-2023-global-impact-rankings
-title: "Aut Retains Top 100 Spot In 2023 Global Impact Rankings"
-date: 2023-06-02
-source-url: https://www.scoop.co.nz/stories/ED2306/S00002/aut-retains-top-100-spot-in-2023-global-impact-rankings.htm
+title: Aut Retains Top 100 Spot In 2023 Global Impact Rankings
+date: 2023-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2306/S00002/aut-retains-top-100-spot-in-2023-global-impact-rankings.htm
 author: aut-university
+permalink: >-
+  /archive/2023/06/02/aut-retains-top-100-spot-in-2023-global-impact-rankings/index.html
+layout: layout.njk
 ---
 Aut Retains Top 100 Spot In 2023 Global Impact Rankings
 =======================================================

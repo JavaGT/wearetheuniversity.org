@@ -1,9 +1,12 @@
 ---
 slug: petition-presented-against-racist-language-test
-title: "Petition Presented Against Racist Language Test"
-date: 2002-12-17
-source-url: https://www.scoop.co.nz/stories/PA0212/S00394/petition-presented-against-racist-language-test.htm
+title: Petition Presented Against Racist Language Test
+date: 2002-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00394/petition-presented-against-racist-language-test.htm
 author: act-new-zealand
+permalink: /archive/2002/12/17/petition-presented-against-racist-language-test/index.html
+layout: layout.njk
 ---
 Petition Presented Against Racist Language Test
 ===============================================

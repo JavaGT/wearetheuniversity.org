@@ -1,9 +1,12 @@
 ---
 slug: youth-unemployment-needs-to-be-a-priority
-title: "Youth unemployment needs to be a priority"
-date: 2012-05-03
-source-url: https://www.scoop.co.nz/stories/PO1205/S00050/youth-unemployment-needs-to-be-a-priority.htm
+title: Youth unemployment needs to be a priority
+date: 2012-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00050/youth-unemployment-needs-to-be-a-priority.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/05/03/youth-unemployment-needs-to-be-a-priority/index.html
+layout: layout.njk
 ---
 Youth unemployment needs to be a priority
 =========================================

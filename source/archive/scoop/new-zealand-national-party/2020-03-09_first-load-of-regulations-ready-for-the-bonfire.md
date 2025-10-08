@@ -1,9 +1,12 @@
 ---
 slug: first-load-of-regulations-ready-for-the-bonfire
-title: "First load of regulations ready for the bonfire"
-date: 2020-03-09
-source-url: https://www.scoop.co.nz/stories/PA2003/S00067/first-load-of-regulations-ready-for-the-bonfire.htm
+title: First load of regulations ready for the bonfire
+date: 2020-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00067/first-load-of-regulations-ready-for-the-bonfire.htm
 author: new-zealand-national-party
+permalink: /archive/2020/03/09/first-load-of-regulations-ready-for-the-bonfire/index.html
+layout: layout.njk
 ---
 First load of regulations ready for the bonfire
 ===============================================

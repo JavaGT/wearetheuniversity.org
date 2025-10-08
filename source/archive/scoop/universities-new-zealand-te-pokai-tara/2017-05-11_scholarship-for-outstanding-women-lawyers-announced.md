@@ -1,9 +1,13 @@
 ---
 slug: scholarship-for-outstanding-women-lawyers-announced
-title: "Scholarship for outstanding women lawyers announced"
-date: 2017-05-11
-source-url: https://www.scoop.co.nz/stories/ED1705/S00059/scholarship-for-outstanding-women-lawyers-announced.htm
+title: Scholarship for outstanding women lawyers announced
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00059/scholarship-for-outstanding-women-lawyers-announced.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2017/05/11/scholarship-for-outstanding-women-lawyers-announced/index.html
+layout: layout.njk
 ---
 Scholarship for outstanding women lawyers announced
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: nzers-should-consider-aussie-move-implications-first
-title: "NZers should consider Aussie move implications first"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/ED1310/S00030/nzers-should-consider-aussie-move-implications-first.htm
+title: NZers should consider Aussie move implications first
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00030/nzers-should-consider-aussie-move-implications-first.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/03/nzers-should-consider-aussie-move-implications-first/index.html
+layout: layout.njk
 ---
 NZers should consider Aussie move implications first
 ====================================================

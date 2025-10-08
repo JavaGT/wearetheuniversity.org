@@ -1,9 +1,13 @@
 ---
 slug: grocery-chains-emergency-value-cant-be-discounted
-title: "Grocery chains’ emergency value can’t be discounted"
-date: 2016-03-22
-source-url: https://www.scoop.co.nz/stories/BU1603/S00718/grocery-chains-emergency-value-cant-be-discounted.htm
+title: Grocery chains’ emergency value can’t be discounted
+date: 2016-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1603/S00718/grocery-chains-emergency-value-cant-be-discounted.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/03/22/grocery-chains-emergency-value-cant-be-discounted/index.html
+layout: layout.njk
 ---
 Grocery chains’ emergency value can’t be discounted
 ===================================================

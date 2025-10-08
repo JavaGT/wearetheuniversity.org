@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-38-1-november
-title: "AUS Tertiary Update  Vol. 4  No. 38, 1 November"
-date: 2001-11-01
-source-url: https://www.scoop.co.nz/stories/ED0111/S00001/aus-tertiary-update-vol-4-no-38-1-november.htm
+title: AUS Tertiary Update  Vol. 4  No. 38, 1 November
+date: 2001-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00001/aus-tertiary-update-vol-4-no-38-1-november.htm
 author: association-of-university-staff
+permalink: /archive/2001/11/01/aus-tertiary-update-vol-4-no-38-1-november/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 4 No. 38, 1 November
 =============================================

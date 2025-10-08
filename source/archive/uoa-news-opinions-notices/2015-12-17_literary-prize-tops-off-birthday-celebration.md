@@ -1,8 +1,11 @@
 ---
 slug: literary-prize-tops-off-birthday-celebration
-title: "Literary prize tops off birthday celebration"
-date: 2015-12-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/literary-prize-tops-off-birthday-celebration.html
+title: Literary prize tops off birthday celebration
+date: 2015-12-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/literary-prize-tops-off-birthday-celebration.html
+permalink: /archive/2015/12/17/literary-prize-tops-off-birthday-celebration/index.html
+layout: layout.njk
 ---
 Literary prize tops off birthday celebration
 ============================================

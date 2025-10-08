@@ -1,9 +1,12 @@
 ---
 slug: oil-and-gas-changes-show-govts-brazen-arrogance
-title: "Oil and gas changes show Govt's brazen arrogance"
-date: 2018-04-12
-source-url: https://www.scoop.co.nz/stories/PA1804/S00132/oil-and-gas-changes-show-govts-brazen-arrogance.htm
+title: Oil and gas changes show Govt's brazen arrogance
+date: 2018-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00132/oil-and-gas-changes-show-govts-brazen-arrogance.htm
 author: act-new-zealand
+permalink: /archive/2018/04/12/oil-and-gas-changes-show-govts-brazen-arrogance/index.html
+layout: layout.njk
 ---
 Oil and gas changes show Govt's brazen arrogance
 ================================================

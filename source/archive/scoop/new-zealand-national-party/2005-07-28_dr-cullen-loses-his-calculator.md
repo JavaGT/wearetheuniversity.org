@@ -1,9 +1,12 @@
 ---
 slug: dr-cullen-loses-his-calculator
-title: "Dr Cullen loses his calculator"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/PA0507/S00607/dr-cullen-loses-his-calculator.htm
+title: Dr Cullen loses his calculator
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00607/dr-cullen-loses-his-calculator.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/28/dr-cullen-loses-his-calculator/index.html
+layout: layout.njk
 ---
 Dr Cullen loses his calculator
 ==============================

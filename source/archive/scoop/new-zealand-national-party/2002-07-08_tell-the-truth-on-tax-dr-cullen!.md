@@ -1,9 +1,12 @@
 ---
 slug: tell-the-truth-on-tax-dr-cullen!
-title: "Tell The Truth On Tax Dr Cullen!"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/PA0207/S00250/tell-the-truth-on-tax-dr-cullen.htm
+title: Tell The Truth On Tax Dr Cullen!
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00250/tell-the-truth-on-tax-dr-cullen.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/08/tell-the-truth-on-tax-dr-cullen/index.html
+layout: layout.njk
 ---
 Tell The Truth On Tax Dr Cullen!
 ================================

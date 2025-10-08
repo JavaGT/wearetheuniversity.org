@@ -1,9 +1,12 @@
 ---
 slug: missing-ue-not-the-end-of-lincoln-dream
-title: "Missing UE not the end of Lincoln dream"
-date: 2016-03-14
-source-url: https://www.scoop.co.nz/stories/ED1603/S00047/missing-ue-not-the-end-of-lincoln-dream.htm
+title: Missing UE not the end of Lincoln dream
+date: 2016-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00047/missing-ue-not-the-end-of-lincoln-dream.htm
 author: lincoln-university
+permalink: /archive/2016/03/14/missing-ue-not-the-end-of-lincoln-dream/index.html
+layout: layout.njk
 ---
 Missing UE not the end of Lincoln dream
 =======================================

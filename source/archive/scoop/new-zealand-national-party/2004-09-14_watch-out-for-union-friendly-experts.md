@@ -1,9 +1,12 @@
 ---
 slug: watch-out-for-union-friendly-experts
-title: "Watch out for union-friendly 'experts'"
-date: 2004-09-14
-source-url: https://www.scoop.co.nz/stories/PA0409/S00287/watch-out-for-union-friendly-experts.htm
+title: Watch out for union-friendly 'experts'
+date: 2004-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00287/watch-out-for-union-friendly-experts.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/14/watch-out-for-union-friendly-experts/index.html
+layout: layout.njk
 ---
 Watch out for union-friendly 'experts'
 ======================================

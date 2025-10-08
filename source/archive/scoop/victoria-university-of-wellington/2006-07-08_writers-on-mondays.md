@@ -1,9 +1,11 @@
 ---
 slug: writers-on-mondays
-title: "Writers on Mondays"
-date: 2006-07-08
+title: Writers on Mondays
+date: 2006-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0607/S00019/writers-on-mondays.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/07/08/writers-on-mondays/index.html
+layout: layout.njk
 ---
 Writers on Mondays
 ==================

@@ -1,9 +1,13 @@
 ---
 slug: uc-student-second-in-competition-has-music-degree-by-18
-title: "UC Student Second In Competition Has Music Degree By 18"
-date: 2013-03-18
-source-url: https://www.scoop.co.nz/stories/ED1303/S00116/uc-student-second-in-competition-has-music-degree-by-18.htm
+title: UC Student Second In Competition Has Music Degree By 18
+date: 2013-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00116/uc-student-second-in-competition-has-music-degree-by-18.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/18/uc-student-second-in-competition-has-music-degree-by-18/index.html
+layout: layout.njk
 ---
 UC Student Second In Competition Has Music Degree By 18
 =======================================================

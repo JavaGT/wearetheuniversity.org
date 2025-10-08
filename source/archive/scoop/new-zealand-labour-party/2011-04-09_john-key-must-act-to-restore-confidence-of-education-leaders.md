@@ -1,9 +1,13 @@
 ---
 slug: john-key-must-act-to-restore-confidence-of-education-leaders
-title: "John Key must act to restore confidence of education leaders"
-date: 2011-04-09
-source-url: https://www.scoop.co.nz/stories/PA1104/S00188/john-key-must-act-to-restore-confidence-of-education-leaders.htm
+title: John Key must act to restore confidence of education leaders
+date: 2011-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00188/john-key-must-act-to-restore-confidence-of-education-leaders.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/09/john-key-must-act-to-restore-confidence-of-education-leaders/index.html
+layout: layout.njk
 ---
 John Key must act to restore confidence of education leaders
 ============================================================

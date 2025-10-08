@@ -1,9 +1,12 @@
 ---
 slug: shortsighted-decision-threatens-rare-dolphins
-title: "Shortsighted decision threatens rare dolphins"
-date: 2005-11-16
-source-url: https://www.scoop.co.nz/stories/PA0511/S00198/shortsighted-decision-threatens-rare-dolphins.htm
+title: Shortsighted decision threatens rare dolphins
+date: 2005-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00198/shortsighted-decision-threatens-rare-dolphins.htm
 author: green-party
+permalink: /archive/2005/11/16/shortsighted-decision-threatens-rare-dolphins/index.html
+layout: layout.njk
 ---
 Shortsighted decision threatens rare dolphins
 =============================================

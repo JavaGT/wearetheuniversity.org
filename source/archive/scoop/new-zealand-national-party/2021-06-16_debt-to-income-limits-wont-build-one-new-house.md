@@ -1,9 +1,12 @@
 ---
 slug: debt-to-income-limits-wont-build-one-new-house
-title: "Debt-to-income Limits Won’t Build One New House"
-date: 2021-06-16
-source-url: https://www.scoop.co.nz/stories/PA2106/S00126/debt-to-income-limits-wont-build-one-new-house.htm
+title: Debt-to-income Limits Won’t Build One New House
+date: 2021-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00126/debt-to-income-limits-wont-build-one-new-house.htm
 author: new-zealand-national-party
+permalink: /archive/2021/06/16/debt-to-income-limits-wont-build-one-new-house/index.html
+layout: layout.njk
 ---
 Debt-to-income Limits Won’t Build One New House
 ===============================================

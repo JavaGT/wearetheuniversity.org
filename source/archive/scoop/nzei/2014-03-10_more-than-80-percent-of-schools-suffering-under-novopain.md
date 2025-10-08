@@ -1,9 +1,13 @@
 ---
 slug: more-than-80-percent-of-schools-suffering-under-novopain
-title: "More than 80 percent of schools suffering under Novopain"
-date: 2014-03-10
-source-url: https://www.scoop.co.nz/stories/PO1403/S00099/more-than-80-percent-of-schools-suffering-under-novopain.htm
+title: More than 80 percent of schools suffering under Novopain
+date: 2014-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00099/more-than-80-percent-of-schools-suffering-under-novopain.htm
 author: nzei
+permalink: >-
+  /archive/2014/03/10/more-than-80-percent-of-schools-suffering-under-novopain/index.html
+layout: layout.njk
 ---
 More than 80 percent of schools suffering under Novopain
 ========================================================

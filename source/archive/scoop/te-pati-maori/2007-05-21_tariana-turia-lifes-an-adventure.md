@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-lifes-an-adventure
-title: "Tariana Turia \"Life's An Adventure\""
-date: 2007-05-21
-source-url: https://www.scoop.co.nz/stories/PA0705/S00562/tariana-turia-lifes-an-adventure.htm
+title: Tariana Turia "Life's An Adventure"
+date: 2007-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00562/tariana-turia-lifes-an-adventure.htm
 author: te-pati-maori
+permalink: /archive/2007/05/21/tariana-turia-lifes-an-adventure/index.html
+layout: layout.njk
 ---
 Tariana Turia \"Life's An Adventure"
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-not-a-bed-of-roses-for-immigrants
-title: "New Zealand ‘Not A Bed Of Roses For Immigrants’"
-date: 2010-03-21
-source-url: https://www.scoop.co.nz/stories/ED1003/S00089/new-zealand-not-a-bed-of-roses-for-immigrants.htm
+title: New Zealand ‘Not A Bed Of Roses For Immigrants’
+date: 2010-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00089/new-zealand-not-a-bed-of-roses-for-immigrants.htm
 author: aut-university
+permalink: /archive/2010/03/21/new-zealand-not-a-bed-of-roses-for-immigrants/index.html
+layout: layout.njk
 ---
 New Zealand ‘Not A Bed Of Roses For Immigrants’
 ===============================================

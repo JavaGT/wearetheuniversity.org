@@ -1,9 +1,12 @@
 ---
 slug: is-it-worth-voting-a-debate-for-our-times
-title: "Is it worth voting? – A debate for our times"
-date: 2014-07-15
-source-url: https://www.scoop.co.nz/stories/PO1407/S00238/is-it-worth-voting-a-debate-for-our-times.htm
+title: Is it worth voting? – A debate for our times
+date: 2014-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00238/is-it-worth-voting-a-debate-for-our-times.htm
 author: university-of-otago
+permalink: /archive/2014/07/15/is-it-worth-voting-a-debate-for-our-times/index.html
+layout: layout.njk
 ---
 Is it worth voting? – A debate for our times
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: carter-clanger-reveals-schools-plus-is-years-away
-title: "Carter clanger reveals Schools Plus is years away"
-date: 2008-06-18
-source-url: https://www.scoop.co.nz/stories/PA0806/S00273/carter-clanger-reveals-schools-plus-is-years-away.htm
+title: Carter clanger reveals Schools Plus is years away
+date: 2008-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00273/carter-clanger-reveals-schools-plus-is-years-away.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/06/18/carter-clanger-reveals-schools-plus-is-years-away/index.html
+layout: layout.njk
 ---
 Carter clanger reveals Schools Plus is years away
 =================================================

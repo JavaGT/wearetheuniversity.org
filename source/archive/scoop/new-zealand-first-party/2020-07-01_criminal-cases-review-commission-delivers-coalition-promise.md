@@ -1,9 +1,13 @@
 ---
 slug: criminal-cases-review-commission-delivers-coalition-promise
-title: "Criminal Cases Review Commission Delivers Coalition Promise"
-date: 2020-07-01
-source-url: https://www.scoop.co.nz/stories/PA2007/S00011/criminal-cases-review-commission-delivers-coalition-promise.htm
+title: Criminal Cases Review Commission Delivers Coalition Promise
+date: 2020-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00011/criminal-cases-review-commission-delivers-coalition-promise.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/07/01/criminal-cases-review-commission-delivers-coalition-promise/index.html
+layout: layout.njk
 ---
 Criminal Cases Review Commission Delivers Coalition Promise
 ===========================================================

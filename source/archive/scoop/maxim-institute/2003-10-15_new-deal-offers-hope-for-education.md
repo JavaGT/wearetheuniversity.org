@@ -1,9 +1,12 @@
 ---
 slug: new-deal-offers-hope-for-education
-title: "‘New Deal’ offers hope for education"
-date: 2003-10-15
-source-url: https://www.scoop.co.nz/stories/ED0310/S00067/new-deal-offers-hope-for-education.htm
+title: ‘New Deal’ offers hope for education
+date: 2003-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00067/new-deal-offers-hope-for-education.htm
 author: maxim-institute
+permalink: /archive/2003/10/15/new-deal-offers-hope-for-education/index.html
+layout: layout.njk
 ---
 ‘New Deal’ offers hope for education
 ====================================

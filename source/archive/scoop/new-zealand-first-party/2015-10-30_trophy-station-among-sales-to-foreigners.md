@@ -1,9 +1,12 @@
 ---
 slug: trophy-station-among-sales-to-foreigners
-title: "‘Trophy’ Station Among Sales to Foreigners"
-date: 2015-10-30
-source-url: https://www.scoop.co.nz/stories/PA1510/S00537/trophy-station-among-sales-to-foreigners.htm
+title: ‘Trophy’ Station Among Sales to Foreigners
+date: 2015-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00537/trophy-station-among-sales-to-foreigners.htm
 author: new-zealand-first-party
+permalink: /archive/2015/10/30/trophy-station-among-sales-to-foreigners/index.html
+layout: layout.njk
 ---
 ‘Trophy’ Station Among Sales to Foreigners
 ==========================================

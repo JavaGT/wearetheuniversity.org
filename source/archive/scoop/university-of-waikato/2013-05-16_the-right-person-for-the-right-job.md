@@ -1,9 +1,12 @@
 ---
 slug: the-right-person-for-the-right-job
-title: "The right person for the right job"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/BU1305/S00620/the-right-person-for-the-right-job.htm
+title: The right person for the right job
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1305/S00620/the-right-person-for-the-right-job.htm
 author: university-of-waikato
+permalink: /archive/2013/05/16/the-right-person-for-the-right-job/index.html
+layout: layout.njk
 ---
 The right person for the right job
 ==================================

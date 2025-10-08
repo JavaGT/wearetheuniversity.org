@@ -1,9 +1,12 @@
 ---
 slug: scholarship-students-benefit-from-huge-changes
-title: "Scholarship students benefit from huge changes"
-date: 2006-01-11
-source-url: https://www.scoop.co.nz/stories/PA0601/S00022/scholarship-students-benefit-from-huge-changes.htm
+title: Scholarship students benefit from huge changes
+date: 2006-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00022/scholarship-students-benefit-from-huge-changes.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/11/scholarship-students-benefit-from-huge-changes/index.html
+layout: layout.njk
 ---
 Scholarship students benefit from huge changes
 ==============================================

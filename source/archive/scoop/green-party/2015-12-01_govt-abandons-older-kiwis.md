@@ -1,9 +1,11 @@
 ---
 slug: govt-abandons-older-kiwis
-title: "Govt abandons older Kiwis"
-date: 2015-12-01
+title: Govt abandons older Kiwis
+date: 2015-12-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1512/S00009/govt-abandons-older-kiwis.htm
 author: green-party
+permalink: /archive/2015/12/01/govt-abandons-older-kiwis/index.html
+layout: layout.njk
 ---
 Govt abandons older Kiwis
 =========================

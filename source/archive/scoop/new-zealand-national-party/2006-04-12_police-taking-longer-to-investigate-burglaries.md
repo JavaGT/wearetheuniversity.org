@@ -1,9 +1,12 @@
 ---
 slug: police-taking-longer-to-investigate-burglaries
-title: "Police taking longer to investigate burglaries"
-date: 2006-04-12
-source-url: https://www.scoop.co.nz/stories/PA0604/S00241/police-taking-longer-to-investigate-burglaries.htm
+title: Police taking longer to investigate burglaries
+date: 2006-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00241/police-taking-longer-to-investigate-burglaries.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/12/police-taking-longer-to-investigate-burglaries/index.html
+layout: layout.njk
 ---
 Police taking longer to investigate burglaries
 ==============================================

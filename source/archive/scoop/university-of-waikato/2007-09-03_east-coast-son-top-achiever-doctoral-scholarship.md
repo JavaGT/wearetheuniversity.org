@@ -1,9 +1,13 @@
 ---
 slug: east-coast-son-top-achiever-doctoral-scholarship
-title: "East Coast 'son' Top Achiever Doctoral Scholarship"
-date: 2007-09-03
-source-url: https://www.scoop.co.nz/stories/ED0709/S00004/east-coast-son-top-achiever-doctoral-scholarship.htm
+title: East Coast 'son' Top Achiever Doctoral Scholarship
+date: 2007-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00004/east-coast-son-top-achiever-doctoral-scholarship.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2007/09/03/east-coast-son-top-achiever-doctoral-scholarship/index.html
+layout: layout.njk
 ---
 East Coast 'son' Top Achiever Doctoral Scholarship
 ==================================================

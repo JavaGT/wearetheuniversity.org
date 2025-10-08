@@ -1,9 +1,13 @@
 ---
 slug: aut-appoints-new-chair-of-digital-health-leadership
-title: "AUT appoints new Chair of Digital Health Leadership"
-date: 2019-06-05
-source-url: https://www.scoop.co.nz/stories/ED1906/S00008/aut-appoints-new-chair-of-digital-health-leadership.htm
+title: AUT appoints new Chair of Digital Health Leadership
+date: 2019-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1906/S00008/aut-appoints-new-chair-of-digital-health-leadership.htm
 author: aut-university
+permalink: >-
+  /archive/2019/06/05/aut-appoints-new-chair-of-digital-health-leadership/index.html
+layout: layout.njk
 ---
 AUT appoints new Chair of Digital Health Leadership
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: northern-division-conference-prebble-speech
-title: "Northern Division Conference - Prebble Speech"
-date: 2000-11-13
-source-url: https://www.scoop.co.nz/stories/PA0011/S00202/northern-division-conference-prebble-speech.htm
+title: Northern Division Conference - Prebble Speech
+date: 2000-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00202/northern-division-conference-prebble-speech.htm
 author: act-new-zealand
+permalink: /archive/2000/11/13/northern-division-conference-prebble-speech/index.html
+layout: layout.njk
 ---
 Northern Division Conference - Prebble Speech
 =============================================

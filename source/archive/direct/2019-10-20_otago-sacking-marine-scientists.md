@@ -1,12 +1,15 @@
 ---
-title: "NZ Association of Scientists Dismayed by University of Otago Plans
-to Sack Marine Scientists"
+title: >-
+  NZ Association of Scientists Dismayed by University of Otago Plans to Sack
+  Marine Scientists
 slug: otago-sacking-marine-scientists
-date: 2019-10-20
+date: 2019-10-20T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: /archive/2019/10/20/otago-sacking-marine-scientists/index.html
+layout: layout.njk
 ---
 
 20-Oct-2019

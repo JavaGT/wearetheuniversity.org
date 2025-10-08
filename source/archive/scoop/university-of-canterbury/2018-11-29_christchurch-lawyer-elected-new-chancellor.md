@@ -1,9 +1,12 @@
 ---
 slug: christchurch-lawyer-elected-new-chancellor
-title: "Christchurch lawyer elected new Chancellor"
-date: 2018-11-29
-source-url: https://www.scoop.co.nz/stories/ED1811/S00071/christchurch-lawyer-elected-new-chancellor.htm
+title: Christchurch lawyer elected new Chancellor
+date: 2018-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1811/S00071/christchurch-lawyer-elected-new-chancellor.htm
 author: university-of-canterbury
+permalink: /archive/2018/11/29/christchurch-lawyer-elected-new-chancellor/index.html
+layout: layout.njk
 ---
 Christchurch lawyer elected new Chancellor
 ==========================================

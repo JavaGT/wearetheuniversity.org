@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-to-probe-secrets-of-ross-ice-shelf
-title: "Otago researchers to probe secrets of Ross Ice Shelf"
-date: 2015-11-02
-source-url: https://www.scoop.co.nz/stories/SC1511/S00008/otago-researchers-to-probe-secrets-of-ross-ice-shelf.htm
+title: Otago researchers to probe secrets of Ross Ice Shelf
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00008/otago-researchers-to-probe-secrets-of-ross-ice-shelf.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/02/otago-researchers-to-probe-secrets-of-ross-ice-shelf/index.html
+layout: layout.njk
 ---
 Otago researchers to probe secrets of Ross Ice Shelf
 ====================================================

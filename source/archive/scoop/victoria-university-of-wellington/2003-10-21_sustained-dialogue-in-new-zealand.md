@@ -1,9 +1,12 @@
 ---
 slug: sustained-dialogue-in-new-zealand
-title: "'Sustained Dialogue' in New Zealand"
-date: 2003-10-21
-source-url: https://www.scoop.co.nz/stories/PO0310/S00172/sustained-dialogue-in-new-zealand.htm
+title: '''Sustained Dialogue'' in New Zealand'
+date: 2003-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0310/S00172/sustained-dialogue-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/10/21/sustained-dialogue-in-new-zealand/index.html
+layout: layout.njk
 ---
 'Sustained Dialogue' in New Zealand
 ===================================

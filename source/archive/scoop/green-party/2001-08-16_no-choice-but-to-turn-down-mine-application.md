@@ -1,9 +1,12 @@
 ---
 slug: no-choice-but-to-turn-down-mine-application
-title: "No Choice But To Turn Down Mine Application"
-date: 2001-08-16
-source-url: https://www.scoop.co.nz/stories/PA0108/S00323/no-choice-but-to-turn-down-mine-application.htm
+title: No Choice But To Turn Down Mine Application
+date: 2001-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00323/no-choice-but-to-turn-down-mine-application.htm
 author: green-party
+permalink: /archive/2001/08/16/no-choice-but-to-turn-down-mine-application/index.html
+layout: layout.njk
 ---
 No Choice But To Turn Down Mine Application
 ===========================================

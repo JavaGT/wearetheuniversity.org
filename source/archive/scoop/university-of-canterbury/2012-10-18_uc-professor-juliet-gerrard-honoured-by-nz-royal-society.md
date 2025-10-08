@@ -1,9 +1,13 @@
 ---
 slug: uc-professor-juliet-gerrard-honoured-by-nz-royal-society
-title: "UC Professor Juliet Gerrard honoured by NZ Royal Society"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/SC1210/S00039/uc-professor-juliet-gerrard-honoured-by-nz-royal-society.htm
+title: UC Professor Juliet Gerrard honoured by NZ Royal Society
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00039/uc-professor-juliet-gerrard-honoured-by-nz-royal-society.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/18/uc-professor-juliet-gerrard-honoured-by-nz-royal-society/index.html
+layout: layout.njk
 ---
 UC Professor Juliet Gerrard honoured by NZ Royal Society
 ========================================================

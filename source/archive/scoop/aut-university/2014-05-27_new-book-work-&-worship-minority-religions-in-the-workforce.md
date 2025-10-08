@@ -1,9 +1,12 @@
 ---
 slug: new-book-work-&-worship-minority-religions-in-the-workforce
-title: "New book Work & Worship: minority religions in the workforce"
-date: 2014-05-27
-source-url: https://www.scoop.co.nz/stories/BU1405/S00979/new-book-work-worship-minority-religions-in-the-workforce.htm
+title: 'New book Work & Worship: minority religions in the workforce'
+date: 2014-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1405/S00979/new-book-work-worship-minority-religions-in-the-workforce.htm
 author: aut-university
+permalink: /archive/2014/05/27/new-book-work-/index.html
+layout: layout.njk
 ---
 New book Work & Worship: minority religions in the workforce
 ============================================================

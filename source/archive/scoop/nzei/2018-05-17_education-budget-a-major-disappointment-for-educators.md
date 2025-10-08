@@ -1,9 +1,13 @@
 ---
 slug: education-budget-a-major-disappointment-for-educators
-title: "Education Budget a major disappointment for educators"
-date: 2018-05-17
-source-url: https://www.scoop.co.nz/stories/ED1805/S00035/education-budget-a-major-disappointment-for-educators.htm
+title: Education Budget a major disappointment for educators
+date: 2018-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1805/S00035/education-budget-a-major-disappointment-for-educators.htm
 author: nzei
+permalink: >-
+  /archive/2018/05/17/education-budget-a-major-disappointment-for-educators/index.html
+layout: layout.njk
 ---
 Education Budget a major disappointment for educators
 =====================================================

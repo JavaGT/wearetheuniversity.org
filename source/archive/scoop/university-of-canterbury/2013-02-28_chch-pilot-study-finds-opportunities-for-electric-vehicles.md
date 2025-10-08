@@ -1,9 +1,13 @@
 ---
 slug: chch-pilot-study-finds-opportunities-for-electric-vehicles
-title: "Chch: Pilot Study Finds Opportunities For Electric Vehicles"
-date: 2013-02-28
-source-url: https://www.scoop.co.nz/stories/ED1302/S00156/chch-pilot-study-finds-opportunities-for-electric-vehicles.htm
+title: 'Chch: Pilot Study Finds Opportunities For Electric Vehicles'
+date: 2013-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00156/chch-pilot-study-finds-opportunities-for-electric-vehicles.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/28/chch-pilot-study-finds-opportunities-for-electric-vehicles/index.html
+layout: layout.njk
 ---
 Chch: Pilot Study Finds Opportunities For Electric Vehicles
 ===========================================================

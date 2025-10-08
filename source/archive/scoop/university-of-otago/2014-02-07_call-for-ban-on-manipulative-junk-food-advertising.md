@@ -1,9 +1,13 @@
 ---
 slug: call-for-ban-on-manipulative-junk-food-advertising
-title: "Call for ban on manipulative junk food advertising"
-date: 2014-02-07
-source-url: https://www.scoop.co.nz/stories/PO1402/S00064/call-for-ban-on-manipulative-junk-food-advertising.htm
+title: Call for ban on manipulative junk food advertising
+date: 2014-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1402/S00064/call-for-ban-on-manipulative-junk-food-advertising.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/02/07/call-for-ban-on-manipulative-junk-food-advertising/index.html
+layout: layout.njk
 ---
 Call for ban on manipulative junk food advertising
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: state-of-the-art-simulator-lands-at-massey
-title: "State-of-the-art simulator lands at Massey"
-date: 2018-10-11
-source-url: https://www.scoop.co.nz/stories/ED1810/S00020/state-of-the-art-simulator-lands-at-massey.htm
+title: State-of-the-art simulator lands at Massey
+date: 2018-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1810/S00020/state-of-the-art-simulator-lands-at-massey.htm
 author: massey-university
+permalink: /archive/2018/10/11/state-of-the-art-simulator-lands-at-massey/index.html
+layout: layout.njk
 ---
 State-of-the-art simulator lands at Massey
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: act-usurps-parliaments-role-in-examining-charter-schools
-title: "ACT usurps Parliament’s role in examining charter schools"
-date: 2012-12-20
-source-url: https://www.scoop.co.nz/stories/ED1212/S00131/act-usurps-parliaments-role-in-examining-charter-schools.htm
+title: ACT usurps Parliament’s role in examining charter schools
+date: 2012-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00131/act-usurps-parliaments-role-in-examining-charter-schools.htm
 author: nzei
+permalink: >-
+  /archive/2012/12/20/act-usurps-parliaments-role-in-examining-charter-schools/index.html
+layout: layout.njk
 ---
 ACT usurps Parliament’s role in examining charter schools
 =========================================================

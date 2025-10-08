@@ -1,9 +1,12 @@
 ---
 slug: dont-sack-canterbury-academics-greens
-title: "Don't sack Canterbury academics - Greens"
-date: 2006-03-23
-source-url: https://www.scoop.co.nz/stories/PA0603/S00390/dont-sack-canterbury-academics-greens.htm
+title: Don't sack Canterbury academics - Greens
+date: 2006-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00390/dont-sack-canterbury-academics-greens.htm
 author: green-party
+permalink: /archive/2006/03/23/dont-sack-canterbury-academics-greens/index.html
+layout: layout.njk
 ---
 Don't sack Canterbury academics - Greens
 ========================================

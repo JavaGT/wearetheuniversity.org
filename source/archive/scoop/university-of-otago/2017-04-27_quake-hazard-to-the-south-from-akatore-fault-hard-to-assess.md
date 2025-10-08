@@ -1,9 +1,13 @@
 ---
 slug: quake-hazard-to-the-south-from-akatore-fault-hard-to-assess
-title: "Quake hazard to the South from Akatore Fault hard to assess"
-date: 2017-04-27
-source-url: https://www.scoop.co.nz/stories/SC1704/S00086/quake-hazard-to-the-south-from-akatore-fault-hard-to-assess.htm
+title: Quake hazard to the South from Akatore Fault hard to assess
+date: 2017-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1704/S00086/quake-hazard-to-the-south-from-akatore-fault-hard-to-assess.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/04/27/quake-hazard-to-the-south-from-akatore-fault-hard-to-assess/index.html
+layout: layout.njk
 ---
 Quake hazard to the South from Akatore Fault hard to assess
 ===========================================================

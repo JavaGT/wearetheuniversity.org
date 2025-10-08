@@ -1,9 +1,13 @@
 ---
 slug: time-to-address-causes-of-child-poverty-and-neglect
-title: "Time to address causes of child poverty and neglect"
-date: 2011-07-27
-source-url: https://www.scoop.co.nz/stories/PA1107/S00424/time-to-address-causes-of-child-poverty-and-neglect.htm
+title: Time to address causes of child poverty and neglect
+date: 2011-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00424/time-to-address-causes-of-child-poverty-and-neglect.htm
 author: green-party
+permalink: >-
+  /archive/2011/07/27/time-to-address-causes-of-child-poverty-and-neglect/index.html
+layout: layout.njk
 ---
 Time to address causes of child poverty and neglect
 ===================================================

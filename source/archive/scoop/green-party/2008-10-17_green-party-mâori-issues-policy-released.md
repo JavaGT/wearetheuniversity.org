@@ -1,9 +1,12 @@
 ---
 slug: green-party-mâori-issues-policy-released
-title: "Green Party Mâori Issues policy released"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/PA0810/S00400/green-party-maori-issues-policy-released.htm
+title: Green Party Mâori Issues policy released
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00400/green-party-maori-issues-policy-released.htm
 author: green-party
+permalink: /archive/2008/10/17/green-party-m/index.html
+layout: layout.njk
 ---
 Green Party Mâori Issues policy released
 ========================================

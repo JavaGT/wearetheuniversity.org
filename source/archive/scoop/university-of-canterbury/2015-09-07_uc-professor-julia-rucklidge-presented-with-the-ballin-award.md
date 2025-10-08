@@ -1,9 +1,13 @@
 ---
 slug: uc-professor-julia-rucklidge-presented-with-the-ballin-award
-title: "UC Professor Julia Rucklidge presented with the Ballin Award"
-date: 2015-09-07
-source-url: https://www.scoop.co.nz/stories/ED1509/S00038/uc-professor-julia-rucklidge-presented-with-the-ballin-award.htm
+title: UC Professor Julia Rucklidge presented with the Ballin Award
+date: 2015-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00038/uc-professor-julia-rucklidge-presented-with-the-ballin-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/09/07/uc-professor-julia-rucklidge-presented-with-the-ballin-award/index.html
+layout: layout.njk
 ---
 UC Professor Julia Rucklidge presented with the Ballin Award
 ============================================================

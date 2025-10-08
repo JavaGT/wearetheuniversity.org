@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-more-relevant-than-ever
-title: "New Zealand First More Relevant Than Ever"
-date: 2013-10-20
-source-url: https://www.scoop.co.nz/stories/PA1310/S00321/new-zealand-first-more-relevant-than-ever.htm
+title: New Zealand First More Relevant Than Ever
+date: 2013-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00321/new-zealand-first-more-relevant-than-ever.htm
 author: new-zealand-first-party
+permalink: /archive/2013/10/20/new-zealand-first-more-relevant-than-ever/index.html
+layout: layout.njk
 ---
 New Zealand First More Relevant Than Ever
 =========================================

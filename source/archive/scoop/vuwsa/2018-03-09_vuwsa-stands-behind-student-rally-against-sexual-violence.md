@@ -1,9 +1,13 @@
 ---
 slug: vuwsa-stands-behind-student-rally-against-sexual-violence
-title: "VUWSA stands behind student rally against sexual violence"
-date: 2018-03-09
-source-url: https://www.scoop.co.nz/stories/PO1803/S00153/vuwsa-stands-behind-student-rally-against-sexual-violence.htm
+title: VUWSA stands behind student rally against sexual violence
+date: 2018-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1803/S00153/vuwsa-stands-behind-student-rally-against-sexual-violence.htm
 author: vuwsa
+permalink: >-
+  /archive/2018/03/09/vuwsa-stands-behind-student-rally-against-sexual-violence/index.html
+layout: layout.njk
 ---
 VUWSA stands behind student rally against sexual violence
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: time-for-minister-to-remember-promise-to-students
-title: "Time For Minister To Remember Promise To Students"
-date: 1999-12-17
-source-url: https://www.scoop.co.nz/stories/PA9912/S00073/time-for-minister-to-remember-promise-to-students.htm
+title: Time For Minister To Remember Promise To Students
+date: 1999-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00073/time-for-minister-to-remember-promise-to-students.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/1999/12/17/time-for-minister-to-remember-promise-to-students/index.html
+layout: layout.njk
 ---
 Time For Minister To Remember Promise To Students
 =================================================

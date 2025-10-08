@@ -1,9 +1,12 @@
 ---
 slug: aus-annual-conference-26-&-27-november-2007
-title: "AUS - Annual Conference - 26 & 27 November 2007"
-date: 2007-11-15
-source-url: https://www.scoop.co.nz/stories/ED0711/S00078/aus-annual-conference-26-27-november-2007.htm
+title: AUS - Annual Conference - 26 & 27 November 2007
+date: 2007-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00078/aus-annual-conference-26-27-november-2007.htm
 author: association-of-university-staff
+permalink: /archive/2007/11/15/aus-annual-conference-26-/index.html
+layout: layout.njk
 ---
 AUS - Annual Conference - 26 & 27 November 2007
 ===============================================

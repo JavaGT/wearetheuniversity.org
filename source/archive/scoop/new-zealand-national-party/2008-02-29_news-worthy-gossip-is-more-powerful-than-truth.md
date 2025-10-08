@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-gossip-is-more-powerful-than-truth
-title: "News Worthy: Gossip is more powerful than truth"
-date: 2008-02-29
-source-url: https://www.scoop.co.nz/stories/PA0802/S00483/news-worthy-gossip-is-more-powerful-than-truth.htm
+title: 'News Worthy: Gossip is more powerful than truth'
+date: 2008-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00483/news-worthy-gossip-is-more-powerful-than-truth.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/29/news-worthy-gossip-is-more-powerful-than-truth/index.html
+layout: layout.njk
 ---
 News Worthy: Gossip is more powerful than truth
 ===============================================

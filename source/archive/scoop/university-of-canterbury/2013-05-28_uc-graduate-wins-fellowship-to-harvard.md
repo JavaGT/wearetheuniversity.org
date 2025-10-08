@@ -1,9 +1,12 @@
 ---
 slug: uc-graduate-wins-fellowship-to-harvard
-title: "UC graduate wins Fellowship to Harvard"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/ED1305/S00182/uc-graduate-wins-fellowship-to-harvard.htm
+title: UC graduate wins Fellowship to Harvard
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00182/uc-graduate-wins-fellowship-to-harvard.htm
 author: university-of-canterbury
+permalink: /archive/2013/05/28/uc-graduate-wins-fellowship-to-harvard/index.html
+layout: layout.njk
 ---
 UC graduate wins Fellowship to Harvard
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: americas-cup-wins-economic-benefits-and-social-impact
-title: "America's Cup: Win's economic benefits and social impact"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/ED1309/S00120/americas-cup-wins-economic-benefits-and-social-impact.htm
+title: 'America''s Cup: Win''s economic benefits and social impact'
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00120/americas-cup-wins-economic-benefits-and-social-impact.htm
 author: aut-university
+permalink: >-
+  /archive/2013/09/19/americas-cup-wins-economic-benefits-and-social-impact/index.html
+layout: layout.njk
 ---
 America's Cup: Win's economic benefits and social impact
 ========================================================

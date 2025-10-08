@@ -1,9 +1,12 @@
 ---
 slug: secondary-students-and-the-school-of-the-future
-title: "Secondary Students and the School of the Future"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/ED0609/S00061/secondary-students-and-the-school-of-the-future.htm
+title: Secondary Students and the School of the Future
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00061/secondary-students-and-the-school-of-the-future.htm
 author: university-of-waikato
+permalink: /archive/2006/09/14/secondary-students-and-the-school-of-the-future/index.html
+layout: layout.njk
 ---
 Secondary Students and the School of the Future
 ===============================================

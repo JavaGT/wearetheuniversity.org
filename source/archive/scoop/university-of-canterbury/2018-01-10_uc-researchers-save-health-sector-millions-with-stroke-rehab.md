@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-save-health-sector-millions-with-stroke-rehab
-title: "UC researchers save health sector millions with stroke rehab"
-date: 2018-01-10
-source-url: https://www.scoop.co.nz/stories/GE1801/S00013/uc-researchers-save-health-sector-millions-with-stroke-rehab.htm
+title: UC researchers save health sector millions with stroke rehab
+date: 2018-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1801/S00013/uc-researchers-save-health-sector-millions-with-stroke-rehab.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/01/10/uc-researchers-save-health-sector-millions-with-stroke-rehab/index.html
+layout: layout.njk
 ---
 UC researchers save health sector millions with stroke rehab
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: hocking-off-family-jewels-not-in-national-interest
-title: "Hocking off family jewels not in national interest"
-date: 2003-02-11
-source-url: https://www.scoop.co.nz/stories/PA0302/S00112/hocking-off-family-jewels-not-in-national-interest.htm
+title: Hocking off family jewels not in national interest
+date: 2003-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00112/hocking-off-family-jewels-not-in-national-interest.htm
 author: green-party
+permalink: >-
+  /archive/2003/02/11/hocking-off-family-jewels-not-in-national-interest/index.html
+layout: layout.njk
 ---
 Hocking off family jewels not in national interest
 ==================================================

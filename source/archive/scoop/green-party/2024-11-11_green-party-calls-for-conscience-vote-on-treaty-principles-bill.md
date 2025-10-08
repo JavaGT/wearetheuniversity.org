@@ -1,9 +1,13 @@
 ---
 slug: green-party-calls-for-conscience-vote-on-treaty-principles-bill
-title: "Green Party Calls For Conscience Vote On Treaty Principles Bill"
-date: 2024-11-11
-source-url: https://www.scoop.co.nz/stories/PA2411/S00074/green-party-calls-for-conscience-vote-on-treaty-principles-bill.htm
+title: Green Party Calls For Conscience Vote On Treaty Principles Bill
+date: 2024-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00074/green-party-calls-for-conscience-vote-on-treaty-principles-bill.htm
 author: green-party
+permalink: >-
+  /archive/2024/11/11/green-party-calls-for-conscience-vote-on-treaty-principles-bill/index.html
+layout: layout.njk
 ---
 Green Party Calls For Conscience Vote On Treaty Principles Bill
 ===============================================================

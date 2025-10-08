@@ -1,9 +1,12 @@
 ---
 slug: debt-stopping-graduates-buying-homes
-title: "Debt stopping graduates buying homes"
-date: 2002-09-18
-source-url: https://www.scoop.co.nz/stories/PA0209/S00303/debt-stopping-graduates-buying-homes.htm
+title: Debt stopping graduates buying homes
+date: 2002-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00303/debt-stopping-graduates-buying-homes.htm
 author: green-party
+permalink: /archive/2002/09/18/debt-stopping-graduates-buying-homes/index.html
+layout: layout.njk
 ---
 Debt stopping graduates buying homes
 ====================================

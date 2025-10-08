@@ -1,9 +1,12 @@
 ---
 slug: decision-to-axe-samoan-publication-dictatorial
-title: "Decision to axe Samoan publication ‘dictatorial’"
-date: 2010-10-14
-source-url: https://www.scoop.co.nz/stories/PA1010/S00224/decision-to-axe-samoan-publication-dictatorial.htm
+title: Decision to axe Samoan publication ‘dictatorial’
+date: 2010-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00224/decision-to-axe-samoan-publication-dictatorial.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/14/decision-to-axe-samoan-publication-dictatorial/index.html
+layout: layout.njk
 ---
 Decision to axe Samoan publication ‘dictatorial’
 ================================================

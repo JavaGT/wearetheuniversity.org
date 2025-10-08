@@ -1,9 +1,12 @@
 ---
 slug: study-shows-fire-service-safety-improved
-title: "Study shows Fire Service Safety improved"
-date: 2017-05-11
-source-url: https://www.scoop.co.nz/stories/BU1705/S00388/study-shows-fire-service-safety-improved.htm
+title: Study shows Fire Service Safety improved
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1705/S00388/study-shows-fire-service-safety-improved.htm
 author: massey-university
+permalink: /archive/2017/05/11/study-shows-fire-service-safety-improved/index.html
+layout: layout.njk
 ---
 Study shows Fire Service Safety improved
 ========================================

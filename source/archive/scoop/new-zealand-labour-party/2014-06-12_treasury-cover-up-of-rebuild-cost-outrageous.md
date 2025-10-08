@@ -1,9 +1,12 @@
 ---
 slug: treasury-cover-up-of-rebuild-cost-outrageous
-title: "Treasury cover-up of rebuild cost outrageous"
-date: 2014-06-12
-source-url: https://www.scoop.co.nz/stories/PA1406/S00168/treasury-cover-up-of-rebuild-cost-outrageous.htm
+title: Treasury cover-up of rebuild cost outrageous
+date: 2014-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00168/treasury-cover-up-of-rebuild-cost-outrageous.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/12/treasury-cover-up-of-rebuild-cost-outrageous/index.html
+layout: layout.njk
 ---
 Treasury cover-up of rebuild cost outrageous
 ============================================

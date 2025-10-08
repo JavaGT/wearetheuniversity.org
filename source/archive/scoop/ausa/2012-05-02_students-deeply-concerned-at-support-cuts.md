@@ -1,9 +1,12 @@
 ---
 slug: students-deeply-concerned-at-support-cuts
-title: "Students deeply concerned at support cuts"
-date: 2012-05-02
-source-url: https://www.scoop.co.nz/stories/PO1205/S00031/students-deeply-concerned-at-support-cuts.htm
+title: Students deeply concerned at support cuts
+date: 2012-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00031/students-deeply-concerned-at-support-cuts.htm
 author: ausa
+permalink: /archive/2012/05/02/students-deeply-concerned-at-support-cuts/index.html
+layout: layout.njk
 ---
 Students deeply concerned at support cuts
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-should-heed-local-govt-free-trade-warning
-title: "Govt should heed local govt free trade warning"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/PA0607/S00241/govt-should-heed-local-govt-free-trade-warning.htm
+title: Govt should heed local govt free trade warning
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00241/govt-should-heed-local-govt-free-trade-warning.htm
 author: green-party
+permalink: /archive/2006/07/17/govt-should-heed-local-govt-free-trade-warning/index.html
+layout: layout.njk
 ---
 Govt should heed local govt free trade warning
 ==============================================

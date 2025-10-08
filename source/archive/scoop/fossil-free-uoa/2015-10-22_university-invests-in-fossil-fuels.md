@@ -1,9 +1,12 @@
 ---
 slug: university-invests-in-fossil-fuels
-title: "University invests in fossil fuels"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/PO1510/S00377/university-invests-in-fossil-fuels.htm
+title: University invests in fossil fuels
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00377/university-invests-in-fossil-fuels.htm
 author: fossil-free-uoa
+permalink: /archive/2015/10/22/university-invests-in-fossil-fuels/index.html
+layout: layout.njk
 ---
 University invests in fossil fuels
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-owes-the-events-industry-before-its-too-late
-title: "Labour Owes The Events Industry – Before It’s Too Late"
-date: 2021-11-05
-source-url: https://www.scoop.co.nz/stories/PA2111/S00070/labour-owes-the-events-industry-before-its-too-late.htm
+title: Labour Owes The Events Industry – Before It’s Too Late
+date: 2021-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00070/labour-owes-the-events-industry-before-its-too-late.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/05/labour-owes-the-events-industry-before-its-too-late/index.html
+layout: layout.njk
 ---
 Labour Owes The Events Industry – Before It’s Too Late
 ======================================================

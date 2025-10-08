@@ -1,9 +1,12 @@
 ---
 slug: injured-albatross-taken-home-to-recuperate
-title: "Injured albatross taken home to recuperate"
-date: 2009-08-21
-source-url: https://www.scoop.co.nz/stories/GE0908/S00116/injured-albatross-taken-home-to-recuperate.htm
+title: Injured albatross taken home to recuperate
+date: 2009-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0908/S00116/injured-albatross-taken-home-to-recuperate.htm
 author: massey-university
+permalink: /archive/2009/08/21/injured-albatross-taken-home-to-recuperate/index.html
+layout: layout.njk
 ---
 Injured albatross taken home to recuperate
 ==========================================

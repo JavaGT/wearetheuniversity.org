@@ -1,9 +1,12 @@
 ---
 slug: collapse-in-skilled-migration-threatens-economy
-title: "Collapse In Skilled Migration Threatens Economy"
-date: 2004-06-28
-source-url: https://www.scoop.co.nz/stories/PA0406/S00452/collapse-in-skilled-migration-threatens-economy.htm
+title: Collapse In Skilled Migration Threatens Economy
+date: 2004-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00452/collapse-in-skilled-migration-threatens-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/28/collapse-in-skilled-migration-threatens-economy/index.html
+layout: layout.njk
 ---
 Collapse In Skilled Migration Threatens Economy
 ===============================================

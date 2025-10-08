@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-4-september-2006
-title: "Collins' Comments -   4 September 2006"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/PA0609/S00077/collins-comments-4-september-2006.htm
+title: Collins' Comments -   4 September 2006
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00077/collins-comments-4-september-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/04/collins-comments-4-september-2006/index.html
+layout: layout.njk
 ---
 Collins' Comments - 4 September 2006
 ====================================

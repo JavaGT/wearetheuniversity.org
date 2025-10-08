@@ -1,9 +1,13 @@
 ---
 slug: cannabis-smoking-may-increase-risk-of-lung-cancer
-title: "Cannabis smoking may increase risk of lung cancer"
-date: 2014-09-19
-source-url: https://www.scoop.co.nz/stories/SC1409/S00077/cannabis-smoking-may-increase-risk-of-lung-cancer.htm
+title: Cannabis smoking may increase risk of lung cancer
+date: 2014-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00077/cannabis-smoking-may-increase-risk-of-lung-cancer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/19/cannabis-smoking-may-increase-risk-of-lung-cancer/index.html
+layout: layout.njk
 ---
 Cannabis smoking may increase risk of lung cancer
 =================================================

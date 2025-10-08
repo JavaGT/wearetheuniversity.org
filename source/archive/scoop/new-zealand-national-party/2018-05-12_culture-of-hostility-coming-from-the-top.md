@@ -1,9 +1,12 @@
 ---
 slug: culture-of-hostility-coming-from-the-top
-title: "Culture of hostility coming from the top"
-date: 2018-05-12
-source-url: https://www.scoop.co.nz/stories/PA1805/S00155/culture-of-hostility-coming-from-the-top.htm
+title: Culture of hostility coming from the top
+date: 2018-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00155/culture-of-hostility-coming-from-the-top.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/12/culture-of-hostility-coming-from-the-top/index.html
+layout: layout.njk
 ---
 Culture of hostility coming from the top
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: the-cradle-of-humanity
-title: "The Cradle Of Humanity"
-date: 2023-12-02
+title: The Cradle Of Humanity
+date: 2023-12-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/WO2312/S00010/the-cradle-of-humanity.htm
 author: independent-media-institute
+permalink: /archive/2023/12/02/the-cradle-of-humanity/index.html
+layout: layout.njk
 ---
 The Cradle Of Humanity
 ======================

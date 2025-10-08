@@ -1,9 +1,11 @@
 ---
 slug: provinces-deserve-a-fair-go
-title: "Provinces Deserve a Fair Go"
-date: 2014-09-12
+title: Provinces Deserve a Fair Go
+date: 2014-09-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1409/S00305/provinces-deserve-a-fair-go.htm
 author: new-zealand-first-party
+permalink: /archive/2014/09/12/provinces-deserve-a-fair-go/index.html
+layout: layout.njk
 ---
 Provinces Deserve a Fair Go
 ===========================

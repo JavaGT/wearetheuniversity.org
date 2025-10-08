@@ -1,9 +1,12 @@
 ---
 slug: govt-must-stop-eroding-family-payments
-title: "Govt must stop eroding family payments"
-date: 2016-03-30
-source-url: https://www.scoop.co.nz/stories/PA1603/S00467/govt-must-stop-eroding-family-payments.htm
+title: Govt must stop eroding family payments
+date: 2016-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00467/govt-must-stop-eroding-family-payments.htm
 author: green-party
+permalink: /archive/2016/03/30/govt-must-stop-eroding-family-payments/index.html
+layout: layout.njk
 ---
 Govt must stop eroding family payments
 ======================================

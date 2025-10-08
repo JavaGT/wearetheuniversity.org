@@ -1,9 +1,11 @@
 ---
 slug: ae-marika!-5-august-2008
-title: "Ae Marika! 5 August 2008"
-date: 2008-08-06
+title: Ae Marika! 5 August 2008
+date: 2008-08-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00092/ae-marika-5-august-2008.htm
 author: te-pati-maori
+permalink: /archive/2008/08/06/ae-marika/index.html
+layout: layout.njk
 ---
 Ae Marika! 5 August 2008
 ========================

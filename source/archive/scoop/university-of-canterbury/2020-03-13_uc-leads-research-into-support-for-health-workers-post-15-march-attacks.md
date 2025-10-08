@@ -1,9 +1,13 @@
 ---
 slug: uc-leads-research-into-support-for-health-workers-post-15-march-attacks
-title: "UC Leads Research Into Support For Health Workers Post-15 March Attacks"
-date: 2020-03-13
-source-url: https://www.scoop.co.nz/stories/GE2003/S00071/uc-leads-research-into-support-for-health-workers-post-15-march-attacks.htm
+title: UC Leads Research Into Support For Health Workers Post-15 March Attacks
+date: 2020-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2003/S00071/uc-leads-research-into-support-for-health-workers-post-15-march-attacks.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/03/13/uc-leads-research-into-support-for-health-workers-post-15-march-attacks/index.html
+layout: layout.njk
 ---
 UC Leads Research Into Support For Health Workers Post-15 March Attacks
 =======================================================================

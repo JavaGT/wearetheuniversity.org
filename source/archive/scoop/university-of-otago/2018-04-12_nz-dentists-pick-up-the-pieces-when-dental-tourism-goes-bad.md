@@ -1,9 +1,13 @@
 ---
 slug: nz-dentists-pick-up-the-pieces-when-dental-tourism-goes-bad
-title: "NZ dentists pick up the pieces when dental tourism goes bad"
-date: 2018-04-12
-source-url: https://www.scoop.co.nz/stories/GE1804/S00031/nz-dentists-pick-up-the-pieces-when-dental-tourism-goes-bad.htm
+title: NZ dentists pick up the pieces when dental tourism goes bad
+date: 2018-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1804/S00031/nz-dentists-pick-up-the-pieces-when-dental-tourism-goes-bad.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/04/12/nz-dentists-pick-up-the-pieces-when-dental-tourism-goes-bad/index.html
+layout: layout.njk
 ---
 NZ dentists pick up the pieces when dental tourism goes bad
 ===========================================================

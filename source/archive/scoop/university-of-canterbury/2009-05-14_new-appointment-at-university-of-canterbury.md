@@ -1,9 +1,12 @@
 ---
 slug: new-appointment-at-university-of-canterbury
-title: "New Appointment At University Of Canterbury"
-date: 2009-05-14
-source-url: https://www.scoop.co.nz/stories/BU0905/S00370/new-appointment-at-university-of-canterbury.htm
+title: New Appointment At University Of Canterbury
+date: 2009-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0905/S00370/new-appointment-at-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: /archive/2009/05/14/new-appointment-at-university-of-canterbury/index.html
+layout: layout.njk
 ---
 New Appointment At University Of Canterbury
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: nationals-kiwisaver-cuts-double-what-is-reported
-title: "National’s KiwiSaver cuts double what is reported"
-date: 2008-10-09
-source-url: https://www.scoop.co.nz/stories/PO0810/S00126/nationals-kiwisaver-cuts-double-what-is-reported.htm
+title: National’s KiwiSaver cuts double what is reported
+date: 2008-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00126/nationals-kiwisaver-cuts-double-what-is-reported.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2008/10/09/nationals-kiwisaver-cuts-double-what-is-reported/index.html
+layout: layout.njk
 ---
 National’s KiwiSaver cuts double what is reported
 =================================================

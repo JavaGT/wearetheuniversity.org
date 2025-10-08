@@ -1,9 +1,11 @@
 ---
 slug: new-mp-in-hutt-south
-title: "New MP in Hutt South?"
-date: 2011-05-29
+title: New MP in Hutt South?
+date: 2011-05-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1105/S00458/new-mp-in-hutt-south.htm
 author: green-party
+permalink: /archive/2011/05/29/new-mp-in-hutt-south/index.html
+layout: layout.njk
 ---
 New MP in Hutt South?
 =====================

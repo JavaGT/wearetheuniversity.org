@@ -1,9 +1,12 @@
 ---
 slug: rhodes-scholars-elect-for-2010
-title: "Rhodes Scholars Elect for 2010"
-date: 2009-11-19
-source-url: https://www.scoop.co.nz/stories/ED0911/S00083/rhodes-scholars-elect-for-2010.htm
+title: Rhodes Scholars Elect for 2010
+date: 2009-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00083/rhodes-scholars-elect-for-2010.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/11/19/rhodes-scholars-elect-for-2010/index.html
+layout: layout.njk
 ---
 Rhodes Scholars Elect for 2010
 ==============================

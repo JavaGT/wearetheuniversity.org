@@ -1,9 +1,13 @@
 ---
 slug: govt-abusing-parliament-to-rush-controversial-law
-title: "Govt abusing parliament to rush controversial law"
-date: 2018-08-09
-source-url: https://www.scoop.co.nz/stories/PA1808/S00108/govt-abusing-parliament-to-rush-controversial-law.htm
+title: Govt abusing parliament to rush controversial law
+date: 2018-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00108/govt-abusing-parliament-to-rush-controversial-law.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/08/09/govt-abusing-parliament-to-rush-controversial-law/index.html
+layout: layout.njk
 ---
 Govt abusing parliament to rush controversial law
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: investing-in-general-practices-that-kiwis-can-access
-title: "Investing In General Practices That Kiwis Can Access"
-date: 2023-05-12
-source-url: https://www.scoop.co.nz/stories/PA2305/S00078/investing-in-general-practices-that-kiwis-can-access.htm
+title: Investing In General Practices That Kiwis Can Access
+date: 2023-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00078/investing-in-general-practices-that-kiwis-can-access.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/05/12/investing-in-general-practices-that-kiwis-can-access/index.html
+layout: layout.njk
 ---
 Investing In General Practices That Kiwis Can Access
 ====================================================

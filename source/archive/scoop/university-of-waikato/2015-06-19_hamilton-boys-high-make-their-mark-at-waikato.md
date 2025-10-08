@@ -1,9 +1,12 @@
 ---
 slug: hamilton-boys-high-make-their-mark-at-waikato
-title: "Hamilton Boys’ High make their mark at Waikato"
-date: 2015-06-19
-source-url: https://www.scoop.co.nz/stories/SC1506/S00080/hamilton-boys-high-make-their-mark-at-waikato.htm
+title: Hamilton Boys’ High make their mark at Waikato
+date: 2015-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00080/hamilton-boys-high-make-their-mark-at-waikato.htm
 author: university-of-waikato
+permalink: /archive/2015/06/19/hamilton-boys-high-make-their-mark-at-waikato/index.html
+layout: layout.njk
 ---
 Hamilton Boys’ High make their mark at Waikato
 ==============================================

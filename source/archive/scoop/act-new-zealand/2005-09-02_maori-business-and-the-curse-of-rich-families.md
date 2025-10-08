@@ -1,9 +1,12 @@
 ---
 slug: maori-business-and-the-curse-of-rich-families
-title: "Maori business and the curse of rich families"
-date: 2005-09-02
-source-url: https://www.scoop.co.nz/stories/PA0509/S00053/maori-business-and-the-curse-of-rich-families.htm
+title: Maori business and the curse of rich families
+date: 2005-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00053/maori-business-and-the-curse-of-rich-families.htm
 author: act-new-zealand
+permalink: /archive/2005/09/02/maori-business-and-the-curse-of-rich-families/index.html
+layout: layout.njk
 ---
 Maori business and the curse of rich families
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: comment-regarding-the-possible-funding-cut-to-rhaanz
-title: "Comment regarding the possible funding cut to RHAANZ"
-date: 2018-04-06
-source-url: https://www.scoop.co.nz/stories/PO1804/S00076/comment-regarding-the-possible-funding-cut-to-rhaanz.htm
+title: Comment regarding the possible funding cut to RHAANZ
+date: 2018-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1804/S00076/comment-regarding-the-possible-funding-cut-to-rhaanz.htm
 author: massey-university
+permalink: >-
+  /archive/2018/04/06/comment-regarding-the-possible-funding-cut-to-rhaanz/index.html
+layout: layout.njk
 ---
 Comment regarding the possible funding cut to RHAANZ
 ====================================================

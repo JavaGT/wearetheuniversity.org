@@ -1,9 +1,12 @@
 ---
 slug: weir-house-celebrates-75th-anniversary
-title: "Weir House Celebrates 75th Anniversary"
-date: 2008-08-27
-source-url: https://www.scoop.co.nz/stories/AK0808/S00285/weir-house-celebrates-75th-anniversary.htm
+title: Weir House Celebrates 75th Anniversary
+date: 2008-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0808/S00285/weir-house-celebrates-75th-anniversary.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/08/27/weir-house-celebrates-75th-anniversary/index.html
+layout: layout.njk
 ---
 Weir House Celebrates 75th Anniversary
 ======================================

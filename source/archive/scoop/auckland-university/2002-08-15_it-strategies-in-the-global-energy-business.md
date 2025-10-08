@@ -1,9 +1,12 @@
 ---
 slug: it-strategies-in-the-global-energy-business
-title: "IT Strategies In The Global Energy Business"
-date: 2002-08-15
-source-url: https://www.scoop.co.nz/stories/BU0208/S00132/it-strategies-in-the-global-energy-business.htm
+title: IT Strategies In The Global Energy Business
+date: 2002-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0208/S00132/it-strategies-in-the-global-energy-business.htm
 author: auckland-university
+permalink: /archive/2002/08/15/it-strategies-in-the-global-energy-business/index.html
+layout: layout.njk
 ---
 IT Strategies In The Global Energy Business
 ===========================================

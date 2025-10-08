@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-200-13-april-06
-title: "Maxim Institute - real issues - No 200 13 April 06"
-date: 2006-04-15
-source-url: https://www.scoop.co.nz/stories/PO0604/S00126/maxim-institute-real-issues-no-200-13-april-06.htm
+title: Maxim Institute - real issues - No 200 13 April 06
+date: 2006-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0604/S00126/maxim-institute-real-issues-no-200-13-april-06.htm
 author: maxim-institute
+permalink: /archive/2006/04/15/maxim-institute-real-issues-no-200-13-april-06/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No 200 13 April 06
 ==================================================

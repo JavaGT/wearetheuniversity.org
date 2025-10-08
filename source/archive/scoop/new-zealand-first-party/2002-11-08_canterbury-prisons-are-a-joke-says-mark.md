@@ -1,9 +1,12 @@
 ---
 slug: canterbury-prisons-are-a-joke-says-mark
-title: "Canterbury Prisons Are A Joke Says Mark"
-date: 2002-11-08
-source-url: https://www.scoop.co.nz/stories/PA0211/S00196/canterbury-prisons-are-a-joke-says-mark.htm
+title: Canterbury Prisons Are A Joke Says Mark
+date: 2002-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00196/canterbury-prisons-are-a-joke-says-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2002/11/08/canterbury-prisons-are-a-joke-says-mark/index.html
+layout: layout.njk
 ---
 Canterbury Prisons Are A Joke Says Mark
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: ongoing-insurance-settlement-delivers-significant-sum
-title: "Ongoing insurance settlement delivers significant sum"
-date: 2016-12-05
-source-url: https://www.scoop.co.nz/stories/ED1612/S00017/ongoing-insurance-settlement-delivers-significant-sum.htm
+title: Ongoing insurance settlement delivers significant sum
+date: 2016-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00017/ongoing-insurance-settlement-delivers-significant-sum.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/12/05/ongoing-insurance-settlement-delivers-significant-sum/index.html
+layout: layout.njk
 ---
 Ongoing insurance settlement delivers significant sum
 =====================================================

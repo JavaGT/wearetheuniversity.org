@@ -1,9 +1,12 @@
 ---
 slug: selling-a-vision-for-new-zealand
-title: "Selling A Vision for New Zealand"
-date: 2001-11-28
-source-url: https://www.scoop.co.nz/stories/PA0111/S00493/selling-a-vision-for-new-zealand.htm
+title: Selling A Vision for New Zealand
+date: 2001-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00493/selling-a-vision-for-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2001/11/28/selling-a-vision-for-new-zealand/index.html
+layout: layout.njk
 ---
 Selling A Vision for New Zealand
 ================================

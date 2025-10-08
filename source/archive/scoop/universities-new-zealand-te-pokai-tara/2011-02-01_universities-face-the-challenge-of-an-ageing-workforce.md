@@ -1,9 +1,13 @@
 ---
 slug: universities-face-the-challenge-of-an-ageing-workforce
-title: "Universities face the challenge of an ageing workforce"
-date: 2011-02-01
-source-url: https://www.scoop.co.nz/stories/ED1102/S00003/universities-face-the-challenge-of-an-ageing-workforce.htm
+title: Universities face the challenge of an ageing workforce
+date: 2011-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00003/universities-face-the-challenge-of-an-ageing-workforce.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2011/02/01/universities-face-the-challenge-of-an-ageing-workforce/index.html
+layout: layout.njk
 ---
 Universities face the challenge of an ageing workforce
 ======================================================

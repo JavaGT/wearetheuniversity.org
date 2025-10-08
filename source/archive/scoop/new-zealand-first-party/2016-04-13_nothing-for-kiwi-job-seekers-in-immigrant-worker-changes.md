@@ -1,9 +1,13 @@
 ---
 slug: nothing-for-kiwi-job-seekers-in-immigrant-worker-changes
-title: "Nothing for Kiwi Job Seekers in Immigrant Worker Changes"
-date: 2016-04-13
-source-url: https://www.scoop.co.nz/stories/PA1604/S00204/nothing-for-kiwi-job-seekers-in-immigrant-worker-changes.htm
+title: Nothing for Kiwi Job Seekers in Immigrant Worker Changes
+date: 2016-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00204/nothing-for-kiwi-job-seekers-in-immigrant-worker-changes.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/04/13/nothing-for-kiwi-job-seekers-in-immigrant-worker-changes/index.html
+layout: layout.njk
 ---
 Nothing for Kiwi Job Seekers in Immigrant Worker Changes
 ========================================================

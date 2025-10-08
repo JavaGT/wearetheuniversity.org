@@ -1,9 +1,12 @@
 ---
 slug: eckhoff-the-deed-could-cover-more-though
-title: "Eckhoff: The Deed Could Cover More Though"
-date: 2000-09-08
-source-url: https://www.scoop.co.nz/stories/PA0009/S00123/eckhoff-the-deed-could-cover-more-though.htm
+title: 'Eckhoff: The Deed Could Cover More Though'
+date: 2000-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00123/eckhoff-the-deed-could-cover-more-though.htm
 author: act-new-zealand
+permalink: /archive/2000/09/08/eckhoff-the-deed-could-cover-more-though/index.html
+layout: layout.njk
 ---
 Eckhoff: The Deed Could Cover More Though
 =========================================

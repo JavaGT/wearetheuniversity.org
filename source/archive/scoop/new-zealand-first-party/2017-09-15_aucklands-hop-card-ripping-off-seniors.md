@@ -1,9 +1,12 @@
 ---
 slug: aucklands-hop-card-ripping-off-seniors
-title: "Auckland’s Hop Card Ripping Off Seniors"
-date: 2017-09-15
-source-url: https://www.scoop.co.nz/stories/PO1709/S00278/aucklands-hop-card-ripping-off-seniors.htm
+title: Auckland’s Hop Card Ripping Off Seniors
+date: 2017-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00278/aucklands-hop-card-ripping-off-seniors.htm
 author: new-zealand-first-party
+permalink: /archive/2017/09/15/aucklands-hop-card-ripping-off-seniors/index.html
+layout: layout.njk
 ---
 Auckland’s Hop Card Ripping Off Seniors
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: research-pair-wins-proof-of-concept-grant-with-filling-fix
-title: "Research pair wins Proof of Concept Grant with filling fix"
-date: 2011-08-26
-source-url: https://www.scoop.co.nz/stories/ED1108/S00142/research-pair-wins-proof-of-concept-grant-with-filling-fix.htm
+title: Research pair wins Proof of Concept Grant with filling fix
+date: 2011-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00142/research-pair-wins-proof-of-concept-grant-with-filling-fix.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/08/26/research-pair-wins-proof-of-concept-grant-with-filling-fix/index.html
+layout: layout.njk
 ---
 Research pair wins Proof of Concept Grant with filling fix
 ==========================================================

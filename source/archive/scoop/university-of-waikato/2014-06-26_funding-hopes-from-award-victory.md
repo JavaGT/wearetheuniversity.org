@@ -1,9 +1,12 @@
 ---
 slug: funding-hopes-from-award-victory
-title: "Funding hopes from award victory"
-date: 2014-06-26
-source-url: https://www.scoop.co.nz/stories/SC1406/S00071/funding-hopes-from-award-victory.htm
+title: Funding hopes from award victory
+date: 2014-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00071/funding-hopes-from-award-victory.htm
 author: university-of-waikato
+permalink: /archive/2014/06/26/funding-hopes-from-award-victory/index.html
+layout: layout.njk
 ---
 Funding hopes from award victory
 ================================

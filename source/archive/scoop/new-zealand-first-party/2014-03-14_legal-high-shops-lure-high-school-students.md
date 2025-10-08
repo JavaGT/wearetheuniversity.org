@@ -1,9 +1,12 @@
 ---
 slug: legal-high-shops-lure-high-school-students
-title: "Legal High Shops Lure High School Students"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/PA1403/S00283/legal-high-shops-lure-high-school-students.htm
+title: Legal High Shops Lure High School Students
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00283/legal-high-shops-lure-high-school-students.htm
 author: new-zealand-first-party
+permalink: /archive/2014/03/14/legal-high-shops-lure-high-school-students/index.html
+layout: layout.njk
 ---
 Legal High Shops Lure High School Students
 ==========================================

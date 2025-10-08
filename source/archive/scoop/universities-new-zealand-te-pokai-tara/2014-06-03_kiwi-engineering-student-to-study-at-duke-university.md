@@ -1,9 +1,13 @@
 ---
 slug: kiwi-engineering-student-to-study-at-duke-university
-title: "Kiwi engineering student to study at Duke University"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/ED1406/S00014/kiwi-engineering-student-to-study-at-duke-university.htm
+title: Kiwi engineering student to study at Duke University
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00014/kiwi-engineering-student-to-study-at-duke-university.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2014/06/03/kiwi-engineering-student-to-study-at-duke-university/index.html
+layout: layout.njk
 ---
 Kiwi engineering student to study at Duke University
 ====================================================

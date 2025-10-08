@@ -1,9 +1,11 @@
 ---
 slug: welfare-reform-needed-now
-title: "Welfare Reform Needed Now"
-date: 2004-09-06
+title: Welfare Reform Needed Now
+date: 2004-09-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0409/S00098/welfare-reform-needed-now.htm
 author: act-new-zealand
+permalink: /archive/2004/09/06/welfare-reform-needed-now/index.html
+layout: layout.njk
 ---
 Welfare Reform Needed Now
 =========================

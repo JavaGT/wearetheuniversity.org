@@ -1,9 +1,12 @@
 ---
 slug: local-politicians-serve-students!
-title: "Local Politicians Serve Students!"
-date: 2004-07-21
-source-url: https://www.scoop.co.nz/stories/ED0407/S00062/local-politicians-serve-students.htm
+title: Local Politicians Serve Students!
+date: 2004-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00062/local-politicians-serve-students.htm
 author: otago-university-students-association
+permalink: /archive/2004/07/21/local-politicians-serve-students/index.html
+layout: layout.njk
 ---
 Local Politicians Serve Students!
 =================================

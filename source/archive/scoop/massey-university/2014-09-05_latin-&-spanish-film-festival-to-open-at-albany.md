@@ -1,9 +1,12 @@
 ---
 slug: latin-&-spanish-film-festival-to-open-at-albany
-title: "Latin & Spanish Film Festival to open at Albany"
-date: 2014-09-05
-source-url: https://www.scoop.co.nz/stories/CU1409/S00120/latin-spanish-film-festival-to-open-at-albany.htm
+title: Latin & Spanish Film Festival to open at Albany
+date: 2014-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1409/S00120/latin-spanish-film-festival-to-open-at-albany.htm
 author: massey-university
+permalink: /archive/2014/09/05/latin-/index.html
+layout: layout.njk
 ---
 Latin & Spanish Film Festival to open at Albany
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: the-art-of-listening-is-at-the-heart-of-democracy
-title: "The art of listening is at the heart of democracy"
-date: 2017-03-13
-source-url: https://www.scoop.co.nz/stories/ED1703/S00060/the-art-of-listening-is-at-the-heart-of-democracy.htm
+title: The art of listening is at the heart of democracy
+date: 2017-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00060/the-art-of-listening-is-at-the-heart-of-democracy.htm
 author: massey-university
+permalink: >-
+  /archive/2017/03/13/the-art-of-listening-is-at-the-heart-of-democracy/index.html
+layout: layout.njk
 ---
 The art of listening is at the heart of democracy
 =================================================

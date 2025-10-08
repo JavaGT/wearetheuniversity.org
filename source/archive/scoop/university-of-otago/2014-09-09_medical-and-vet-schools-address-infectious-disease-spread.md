@@ -1,9 +1,13 @@
 ---
 slug: medical-and-vet-schools-address-infectious-disease-spread
-title: "Medical and vet schools address infectious disease spread"
-date: 2014-09-09
-source-url: https://www.scoop.co.nz/stories/ED1409/S00054/medical-and-vet-schools-address-infectious-disease-spread.htm
+title: Medical and vet schools address infectious disease spread
+date: 2014-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00054/medical-and-vet-schools-address-infectious-disease-spread.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/09/medical-and-vet-schools-address-infectious-disease-spread/index.html
+layout: layout.njk
 ---
 Medical and vet schools address infectious disease spread
 =========================================================

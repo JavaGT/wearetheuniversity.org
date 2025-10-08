@@ -1,9 +1,12 @@
 ---
 slug: peters-new-zealand-first-convention
-title: "Peters: New Zealand First Convention"
-date: 2010-11-01
-source-url: https://www.scoop.co.nz/stories/PO1011/S00002/peters-new-zealand-first-convention.htm
+title: 'Peters: New Zealand First Convention'
+date: 2010-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00002/peters-new-zealand-first-convention.htm
 author: new-zealand-first-party
+permalink: /archive/2010/11/01/peters-new-zealand-first-convention/index.html
+layout: layout.njk
 ---
 Peters: New Zealand First Convention
 ====================================

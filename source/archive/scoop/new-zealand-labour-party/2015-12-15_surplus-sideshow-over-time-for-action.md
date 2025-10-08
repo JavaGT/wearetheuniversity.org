@@ -1,9 +1,12 @@
 ---
 slug: surplus-sideshow-over-time-for-action
-title: "Surplus sideshow over, time for action"
-date: 2015-12-15
-source-url: https://www.scoop.co.nz/stories/PA1512/S00334/surplus-sideshow-over-time-for-action.htm
+title: Surplus sideshow over, time for action
+date: 2015-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00334/surplus-sideshow-over-time-for-action.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/15/surplus-sideshow-over-time-for-action/index.html
+layout: layout.njk
 ---
 Surplus sideshow over, time for action
 ======================================

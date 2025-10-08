@@ -1,9 +1,13 @@
 ---
 slug: canterbury-bee-team-helps-typhoon-victims-in-philippines
-title: "Canterbury ‘Bee Team’ helps typhoon victims in Philippines"
-date: 2015-07-13
-source-url: https://www.scoop.co.nz/stories/CU1507/S00222/canterbury-bee-team-helps-typhoon-victims-in-philippines.htm
+title: Canterbury ‘Bee Team’ helps typhoon victims in Philippines
+date: 2015-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1507/S00222/canterbury-bee-team-helps-typhoon-victims-in-philippines.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/07/13/canterbury-bee-team-helps-typhoon-victims-in-philippines/index.html
+layout: layout.njk
 ---
 Canterbury ‘Bee Team’ helps typhoon victims in Philippines
 ==========================================================

@@ -1,9 +1,11 @@
 ---
 slug: speech-katene-hui-with-media
-title: "Speech: Katene - Hui with Media"
-date: 2011-05-14
+title: 'Speech: Katene - Hui with Media'
+date: 2011-05-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1105/S00305/speech-katene-hui-with-media.htm
 author: te-pati-maori
+permalink: /archive/2011/05/14/speech-katene-hui-with-media/index.html
+layout: layout.njk
 ---
 Speech: Katene - Hui with Media
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: cheap-diabetes-test-plan-needs-more-consultation
-title: "Cheap Diabetes Test Plan Needs More Consultation"
-date: 2012-03-08
-source-url: https://www.scoop.co.nz/stories/PA1203/S00119/cheap-diabetes-test-plan-needs-more-consultation.htm
+title: Cheap Diabetes Test Plan Needs More Consultation
+date: 2012-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00119/cheap-diabetes-test-plan-needs-more-consultation.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/03/08/cheap-diabetes-test-plan-needs-more-consultation/index.html
+layout: layout.njk
 ---
 Cheap Diabetes Test Plan Needs More Consultation
 ================================================

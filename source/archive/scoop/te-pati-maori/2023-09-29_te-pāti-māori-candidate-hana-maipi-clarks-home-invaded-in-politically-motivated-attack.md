@@ -1,9 +1,15 @@
 ---
-slug: te-pāti-māori-candidate-hana-maipi-clarks-home-invaded-in-politically-motivated-attack
-title: "Te Pāti Māori Candidate Hana Maipi-Clark’s Home Invaded In Politically Motivated Attack"
-date: 2023-09-29
-source-url: https://www.scoop.co.nz/stories/PO2309/S00267/te-pati-maori-candidate-hana-maipi-clarks-home-invaded-in-politically-motivated-attack.htm
+slug: >-
+  te-pāti-māori-candidate-hana-maipi-clarks-home-invaded-in-politically-motivated-attack
+title: >-
+  Te Pāti Māori Candidate Hana Maipi-Clark’s Home Invaded In Politically
+  Motivated Attack
+date: 2023-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00267/te-pati-maori-candidate-hana-maipi-clarks-home-invaded-in-politically-motivated-attack.htm
 author: te-pati-maori
+permalink: /archive/2023/09/29/te-p/index.html
+layout: layout.njk
 ---
 Te Pāti Māori Candidate Hana Maipi-Clark’s Home Invaded In Politically Motivated Attack
 =======================================================================================

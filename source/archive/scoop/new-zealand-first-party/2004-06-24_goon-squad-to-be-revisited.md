@@ -1,9 +1,11 @@
 ---
 slug: goon-squad-to-be-revisited
-title: "Goon Squad To Be Revisited"
-date: 2004-06-24
+title: Goon Squad To Be Revisited
+date: 2004-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0406/S00375/goon-squad-to-be-revisited.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/24/goon-squad-to-be-revisited/index.html
+layout: layout.njk
 ---
 Goon Squad To Be Revisited
 ==========================

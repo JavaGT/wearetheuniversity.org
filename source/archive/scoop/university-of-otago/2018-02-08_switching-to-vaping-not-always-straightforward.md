@@ -1,9 +1,12 @@
 ---
 slug: switching-to-vaping-not-always-straightforward
-title: "Switching to vaping not always straightforward"
-date: 2018-02-08
-source-url: https://www.scoop.co.nz/stories/GE1802/S00026/switching-to-vaping-not-always-straightforward.htm
+title: Switching to vaping not always straightforward
+date: 2018-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00026/switching-to-vaping-not-always-straightforward.htm
 author: university-of-otago
+permalink: /archive/2018/02/08/switching-to-vaping-not-always-straightforward/index.html
+layout: layout.njk
 ---
 Switching to vaping not always straightforward
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: shuker-scoops-top-literary-prize
-title: "Shuker scoops top literary prize"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/CU0603/S00143/shuker-scoops-top-literary-prize.htm
+title: Shuker scoops top literary prize
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0603/S00143/shuker-scoops-top-literary-prize.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/03/20/shuker-scoops-top-literary-prize/index.html
+layout: layout.njk
 ---
 Shuker scoops top literary prize
 ================================

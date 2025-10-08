@@ -1,9 +1,12 @@
 ---
 slug: fishermen-asked-to-return-tags-to-scientists
-title: "Fishermen Asked to Return Tags to Scientists"
-date: 2005-01-06
-source-url: https://www.scoop.co.nz/stories/SC0501/S00002/fishermen-asked-to-return-tags-to-scientists.htm
+title: Fishermen Asked to Return Tags to Scientists
+date: 2005-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0501/S00002/fishermen-asked-to-return-tags-to-scientists.htm
 author: auckland-university
+permalink: /archive/2005/01/06/fishermen-asked-to-return-tags-to-scientists/index.html
+layout: layout.njk
 ---
 Fishermen Asked to Return Tags to Scientists
 ============================================

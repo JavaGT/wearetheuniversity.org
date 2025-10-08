@@ -1,9 +1,12 @@
 ---
 slug: farmers-under-real-pressure-on-nps-fm
-title: "Farmers Under Real Pressure On NPS-FM"
-date: 2024-08-08
-source-url: https://www.scoop.co.nz/stories/PA2408/S00053/farmers-under-real-pressure-on-nps-fm.htm
+title: Farmers Under Real Pressure On NPS-FM
+date: 2024-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00053/farmers-under-real-pressure-on-nps-fm.htm
 author: act-new-zealand
+permalink: /archive/2024/08/08/farmers-under-real-pressure-on-nps-fm/index.html
+layout: layout.njk
 ---
 Farmers Under Real Pressure On NPS-FM
 =====================================

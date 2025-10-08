@@ -1,9 +1,11 @@
 ---
 slug: do-you-feel-rich-at-$70k
-title: "Do you feel rich at $70K?"
-date: 2016-05-25
+title: Do you feel rich at $70K?
+date: 2016-05-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1605/S00459/do-you-feel-rich-at-70k.htm
 author: act-new-zealand
+permalink: /archive/2016/05/25/do-you-feel-rich-at-/index.html
+layout: layout.njk
 ---
 Do you feel rich at $70K?
 =========================

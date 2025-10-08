@@ -1,9 +1,12 @@
 ---
 slug: local-government-in-the-wellington-region
-title: "Local Government in the Wellington Region"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/PO1108/S00211/local-government-in-the-wellington-region.htm
+title: Local Government in the Wellington Region
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00211/local-government-in-the-wellington-region.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/08/15/local-government-in-the-wellington-region/index.html
+layout: layout.njk
 ---
 Local Government in the Wellington Region
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: preventing-childhood-obesity-starts-early
-title: "Preventing childhood obesity starts early"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/GE1211/S00076/preventing-childhood-obesity-starts-early.htm
+title: Preventing childhood obesity starts early
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1211/S00076/preventing-childhood-obesity-starts-early.htm
 author: massey-university
+permalink: /archive/2012/11/20/preventing-childhood-obesity-starts-early/index.html
+layout: layout.njk
 ---
 Preventing childhood obesity starts early
 =========================================

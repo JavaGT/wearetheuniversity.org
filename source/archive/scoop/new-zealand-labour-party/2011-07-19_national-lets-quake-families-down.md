@@ -1,9 +1,12 @@
 ---
 slug: national-lets-quake-families-down
-title: "National lets quake families down"
-date: 2011-07-19
-source-url: https://www.scoop.co.nz/stories/PA1107/S00328/national-lets-quake-families-down.htm
+title: National lets quake families down
+date: 2011-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00328/national-lets-quake-families-down.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/19/national-lets-quake-families-down/index.html
+layout: layout.njk
 ---
 National lets quake families down
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: students-stereotyped-view-of-ability-limiting-future-careers
-title: "Students’ Stereotyped View Of Ability Limiting Future Careers"
-date: 2021-03-17
-source-url: https://www.scoop.co.nz/stories/ED2103/S00031/students-stereotyped-view-of-ability-limiting-future-careers.htm
+title: Students’ Stereotyped View Of Ability Limiting Future Careers
+date: 2021-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00031/students-stereotyped-view-of-ability-limiting-future-careers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/03/17/students-stereotyped-view-of-ability-limiting-future-careers/index.html
+layout: layout.njk
 ---
 Students’ Stereotyped View Of Ability Limiting Future Careers
 =============================================================

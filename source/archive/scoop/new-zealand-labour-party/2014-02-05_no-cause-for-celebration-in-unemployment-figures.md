@@ -1,9 +1,13 @@
 ---
 slug: no-cause-for-celebration-in-unemployment-figures
-title: "No cause for celebration in unemployment figures"
-date: 2014-02-05
-source-url: https://www.scoop.co.nz/stories/PA1402/S00058/no-cause-for-celebration-in-unemployment-figures.htm
+title: No cause for celebration in unemployment figures
+date: 2014-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00058/no-cause-for-celebration-in-unemployment-figures.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/02/05/no-cause-for-celebration-in-unemployment-figures/index.html
+layout: layout.njk
 ---
 No cause for celebration in unemployment figures
 ================================================

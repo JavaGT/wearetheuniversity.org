@@ -1,9 +1,12 @@
 ---
 slug: minister-is-it-worthwhile-training-as-a-teacher
-title: "Minister, is it worthwhile training as a teacher?"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/PA1211/S00017/minister-is-it-worthwhile-training-as-a-teacher.htm
+title: Minister, is it worthwhile training as a teacher?
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00017/minister-is-it-worthwhile-training-as-a-teacher.htm
 author: green-party
+permalink: /archive/2012/11/01/minister-is-it-worthwhile-training-as-a-teacher/index.html
+layout: layout.njk
 ---
 Minister, is it worthwhile training as a teacher?
 =================================================

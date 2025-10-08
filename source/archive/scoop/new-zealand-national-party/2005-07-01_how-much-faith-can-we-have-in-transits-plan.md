@@ -1,9 +1,12 @@
 ---
 slug: how-much-faith-can-we-have-in-transits-plan
-title: "How much faith can we have in Transit's plan?"
-date: 2005-07-01
-source-url: https://www.scoop.co.nz/stories/PA0507/S00004/how-much-faith-can-we-have-in-transits-plan.htm
+title: How much faith can we have in Transit's plan?
+date: 2005-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00004/how-much-faith-can-we-have-in-transits-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/01/how-much-faith-can-we-have-in-transits-plan/index.html
+layout: layout.njk
 ---
 How much faith can we have in Transit's plan?
 =============================================

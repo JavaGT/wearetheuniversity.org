@@ -1,9 +1,12 @@
 ---
 slug: staff-effort-saves-university-system-$200-million
-title: "STAFF EFFORT SAVES UNIVERSITY SYSTEM $200 MILLION"
-date: 2001-05-23
-source-url: https://www.scoop.co.nz/stories/ED0105/S00041/staff-effort-saves-university-system-200-million.htm
+title: STAFF EFFORT SAVES UNIVERSITY SYSTEM $200 MILLION
+date: 2001-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00041/staff-effort-saves-university-system-200-million.htm
 author: association-of-university-staff
+permalink: /archive/2001/05/23/staff-effort-saves-university-system-/index.html
+layout: layout.njk
 ---
 STAFF EFFORT SAVES UNIVERSITY SYSTEM $200 MILLION
 =================================================

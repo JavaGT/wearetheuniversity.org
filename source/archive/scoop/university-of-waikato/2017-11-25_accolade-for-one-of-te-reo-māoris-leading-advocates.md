@@ -1,9 +1,12 @@
 ---
 slug: accolade-for-one-of-te-reo-māoris-leading-advocates
-title: "Accolade for one of te reo Māori's leading advocates"
-date: 2017-11-25
-source-url: https://www.scoop.co.nz/stories/ED1711/S00099/accolade-for-one-of-te-reo-maoris-leading-advocates.htm
+title: Accolade for one of te reo Māori's leading advocates
+date: 2017-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00099/accolade-for-one-of-te-reo-maoris-leading-advocates.htm
 author: university-of-waikato
+permalink: /archive/2017/11/25/accolade-for-one-of-te-reo-m/index.html
+layout: layout.njk
 ---
 Accolade for one of te reo Māori's leading advocates
 ====================================================

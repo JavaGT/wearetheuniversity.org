@@ -1,9 +1,12 @@
 ---
 slug: hutchison-to-take-labour-to-task-over-health
-title: "Hutchison to take Labour to task over health"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/PA0502/S00014/hutchison-to-take-labour-to-task-over-health.htm
+title: Hutchison to take Labour to task over health
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00014/hutchison-to-take-labour-to-task-over-health.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/01/hutchison-to-take-labour-to-task-over-health/index.html
+layout: layout.njk
 ---
 Hutchison to take Labour to task over health
 ============================================

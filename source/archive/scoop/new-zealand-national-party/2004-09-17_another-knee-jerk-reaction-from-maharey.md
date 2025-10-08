@@ -1,9 +1,12 @@
 ---
 slug: another-knee-jerk-reaction-from-maharey
-title: "Another knee-jerk reaction from Maharey"
-date: 2004-09-17
-source-url: https://www.scoop.co.nz/stories/PA0409/S00368/another-knee-jerk-reaction-from-maharey.htm
+title: Another knee-jerk reaction from Maharey
+date: 2004-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00368/another-knee-jerk-reaction-from-maharey.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/17/another-knee-jerk-reaction-from-maharey/index.html
+layout: layout.njk
 ---
 Another knee-jerk reaction from Maharey
 =======================================

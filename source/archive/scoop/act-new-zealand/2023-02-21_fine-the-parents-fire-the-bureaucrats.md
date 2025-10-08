@@ -1,9 +1,12 @@
 ---
 slug: fine-the-parents-fire-the-bureaucrats
-title: "Fine The Parents, Fire The Bureaucrats"
-date: 2023-02-21
-source-url: https://www.scoop.co.nz/stories/PA2302/S00093/fine-the-parents-fire-the-bureaucrats.htm
+title: Fine The Parents, Fire The Bureaucrats
+date: 2023-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00093/fine-the-parents-fire-the-bureaucrats.htm
 author: act-new-zealand
+permalink: /archive/2023/02/21/fine-the-parents-fire-the-bureaucrats/index.html
+layout: layout.njk
 ---
 Fine The Parents, Fire The Bureaucrats
 ======================================

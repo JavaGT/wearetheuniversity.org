@@ -1,9 +1,12 @@
 ---
 slug: celebrities-square-off-in-fashion-week-sew-down
-title: "Celebrities square-off in Fashion Week sew-down"
-date: 2006-09-22
-source-url: https://www.scoop.co.nz/stories/CU0609/S00204/celebrities-square-off-in-fashion-week-sew-down.htm
+title: Celebrities square-off in Fashion Week sew-down
+date: 2006-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0609/S00204/celebrities-square-off-in-fashion-week-sew-down.htm
 author: aut-university
+permalink: /archive/2006/09/22/celebrities-square-off-in-fashion-week-sew-down/index.html
+layout: layout.njk
 ---
 Celebrities square-off in Fashion Week sew-down
 ===============================================

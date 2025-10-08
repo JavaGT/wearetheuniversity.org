@@ -1,9 +1,12 @@
 ---
 slug: message-strikes-powerful-note
-title: "Message strikes powerful note"
-date: 2010-10-26
-source-url: https://www.scoop.co.nz/stories/PA1010/S00421/message-strikes-powerful-note.htm
+title: Message strikes powerful note
+date: 2010-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00421/message-strikes-powerful-note.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/26/message-strikes-powerful-note/index.html
+layout: layout.njk
 ---
 Message strikes powerful note
 =============================

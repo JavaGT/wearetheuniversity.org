@@ -1,9 +1,13 @@
 ---
 slug: massey-staff-and-students-to-march-on-council-meeting
-title: "Massey staff and students to march on Council meeting"
-date: 2000-08-03
-source-url: https://www.scoop.co.nz/stories/ED0008/S00007/massey-staff-and-students-to-march-on-council-meeting.htm
+title: Massey staff and students to march on Council meeting
+date: 2000-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00007/massey-staff-and-students-to-march-on-council-meeting.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2000/08/03/massey-staff-and-students-to-march-on-council-meeting/index.html
+layout: layout.njk
 ---
 Massey staff and students to march on Council meeting
 =====================================================

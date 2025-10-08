@@ -1,9 +1,12 @@
 ---
 slug: odds-of-getting-surgery-are-getting-worse
-title: "Odds of Getting Surgery Are Getting Worse"
-date: 2015-01-08
-source-url: https://www.scoop.co.nz/stories/PA1501/S00020/odds-of-getting-surgery-are-getting-worse.htm
+title: Odds of Getting Surgery Are Getting Worse
+date: 2015-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00020/odds-of-getting-surgery-are-getting-worse.htm
 author: new-zealand-first-party
+permalink: /archive/2015/01/08/odds-of-getting-surgery-are-getting-worse/index.html
+layout: layout.njk
 ---
 Odds of Getting Surgery Are Getting Worse
 =========================================

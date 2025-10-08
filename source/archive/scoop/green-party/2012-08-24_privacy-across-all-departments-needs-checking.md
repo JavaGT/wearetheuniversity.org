@@ -1,9 +1,12 @@
 ---
 slug: privacy-across-all-departments-needs-checking
-title: "Privacy across all departments needs checking"
-date: 2012-08-24
-source-url: https://www.scoop.co.nz/stories/PA1208/S00361/privacy-across-all-departments-needs-checking.htm
+title: Privacy across all departments needs checking
+date: 2012-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00361/privacy-across-all-departments-needs-checking.htm
 author: green-party
+permalink: /archive/2012/08/24/privacy-across-all-departments-needs-checking/index.html
+layout: layout.njk
 ---
 Privacy across all departments needs checking
 =============================================

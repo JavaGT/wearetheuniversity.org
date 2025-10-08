@@ -1,9 +1,13 @@
 ---
 slug: callaghan-innovation-research-teams-to-transfer-to-victoria
-title: "Callaghan Innovation research teams to transfer to Victoria"
-date: 2013-12-17
-source-url: https://www.scoop.co.nz/stories/SC1312/S00040/callaghan-innovation-research-teams-to-transfer-to-victoria.htm
+title: Callaghan Innovation research teams to transfer to Victoria
+date: 2013-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00040/callaghan-innovation-research-teams-to-transfer-to-victoria.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/12/17/callaghan-innovation-research-teams-to-transfer-to-victoria/index.html
+layout: layout.njk
 ---
 Callaghan Innovation research teams to transfer to Victoria
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: book-to-help-people-and-agencies-seeking-to-reduce-violence
-title: "Book to help people and agencies seeking to reduce violence"
-date: 2013-06-03
-source-url: https://www.scoop.co.nz/stories/ED1306/S00003/book-to-help-people-and-agencies-seeking-to-reduce-violence.htm
+title: Book to help people and agencies seeking to reduce violence
+date: 2013-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00003/book-to-help-people-and-agencies-seeking-to-reduce-violence.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/03/book-to-help-people-and-agencies-seeking-to-reduce-violence/index.html
+layout: layout.njk
 ---
 Book to help people and agencies seeking to reduce violence
 ===========================================================

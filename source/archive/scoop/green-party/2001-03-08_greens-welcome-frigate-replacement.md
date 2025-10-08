@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-frigate-replacement
-title: "Greens Welcome Frigate Replacement"
-date: 2001-03-08
-source-url: https://www.scoop.co.nz/stories/PA0103/S00120/greens-welcome-frigate-replacement.htm
+title: Greens Welcome Frigate Replacement
+date: 2001-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00120/greens-welcome-frigate-replacement.htm
 author: green-party
+permalink: /archive/2001/03/08/greens-welcome-frigate-replacement/index.html
+layout: layout.njk
 ---
 Greens Welcome Frigate Replacement
 ==================================

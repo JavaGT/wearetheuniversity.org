@@ -1,9 +1,12 @@
 ---
 slug: 200-young-poets-enter-bell-gully-competition
-title: "200 young poets enter Bell Gully competition"
-date: 2004-06-25
-source-url: https://www.scoop.co.nz/stories/ED0406/S00095/200-young-poets-enter-bell-gully-competition.htm
+title: 200 young poets enter Bell Gully competition
+date: 2004-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00095/200-young-poets-enter-bell-gully-competition.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/06/25/200-young-poets-enter-bell-gully-competition/index.html
+layout: layout.njk
 ---
 200 young poets enter Bell Gully competition
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: the-green-party-announces-rick-bazeley-as-the-candidate-for-whangārei
-title: "The Green Party Announces Rick Bazeley As The Candidate For Whangārei"
-date: 2023-08-16
-source-url: https://www.scoop.co.nz/stories/PO2308/S00154/the-green-party-announces-rick-bazeley-as-the-candidate-for-whangarei.htm
+title: The Green Party Announces Rick Bazeley As The Candidate For Whangārei
+date: 2023-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00154/the-green-party-announces-rick-bazeley-as-the-candidate-for-whangarei.htm
 author: green-party
+permalink: >-
+  /archive/2023/08/16/the-green-party-announces-rick-bazeley-as-the-candidate-for-whang/index.html
+layout: layout.njk
 ---
 The Green Party Announces Rick Bazeley As The Candidate For Whangārei
 =====================================================================

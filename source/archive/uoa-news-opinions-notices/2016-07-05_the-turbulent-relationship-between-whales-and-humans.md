@@ -1,8 +1,12 @@
 ---
 slug: the-turbulent-relationship-between-whales-and-humans
-title: "The turbulent relationship between whales and humans"
-date: 2016-07-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/the-turbulent-relationship-between-whales-and-humans.html
+title: The turbulent relationship between whales and humans
+date: 2016-07-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/the-turbulent-relationship-between-whales-and-humans.html
+permalink: >-
+  /archive/2016/07/05/the-turbulent-relationship-between-whales-and-humans/index.html
+layout: layout.njk
 ---
 The turbulent relationship between whales and humans
 ====================================================

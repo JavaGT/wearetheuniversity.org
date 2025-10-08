@@ -1,9 +1,11 @@
 ---
 slug: time-for-u-turn
-title: "Time For U-Turn"
-date: 2000-10-04
+title: Time For U-Turn
+date: 2000-10-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0010/S00087/time-for-u-turn.htm
 author: act-new-zealand
+permalink: /archive/2000/10/04/time-for-u-turn/index.html
+layout: layout.njk
 ---
 Time For U-Turn
 ===============

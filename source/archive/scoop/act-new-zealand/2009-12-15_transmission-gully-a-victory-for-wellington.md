@@ -1,9 +1,12 @@
 ---
 slug: transmission-gully-a-victory-for-wellington
-title: "Transmission Gully A Victory For Wellington"
-date: 2009-12-15
-source-url: https://www.scoop.co.nz/stories/PA0912/S00251/transmission-gully-a-victory-for-wellington.htm
+title: Transmission Gully A Victory For Wellington
+date: 2009-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00251/transmission-gully-a-victory-for-wellington.htm
 author: act-new-zealand
+permalink: /archive/2009/12/15/transmission-gully-a-victory-for-wellington/index.html
+layout: layout.njk
 ---
 Transmission Gully A Victory For Wellington
 ===========================================

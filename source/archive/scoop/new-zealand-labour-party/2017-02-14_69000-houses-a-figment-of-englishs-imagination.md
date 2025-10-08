@@ -1,9 +1,12 @@
 ---
 slug: 69000-houses-a-figment-of-englishs-imagination
-title: "69,000 houses a figment of English’s imagination"
-date: 2017-02-14
-source-url: https://www.scoop.co.nz/stories/PA1702/S00193/69000-houses-a-figment-of-englishs-imagination.htm
+title: 69,000 houses a figment of English’s imagination
+date: 2017-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00193/69000-houses-a-figment-of-englishs-imagination.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/14/69000-houses-a-figment-of-englishs-imagination/index.html
+layout: layout.njk
 ---
 69,000 houses a figment of English’s imagination
 ================================================

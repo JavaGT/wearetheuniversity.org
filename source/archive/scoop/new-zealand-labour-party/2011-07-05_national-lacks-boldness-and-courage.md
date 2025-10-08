@@ -1,9 +1,12 @@
 ---
 slug: national-lacks-boldness-and-courage
-title: "National lacks boldness and courage"
-date: 2011-07-05
-source-url: https://www.scoop.co.nz/stories/PA1107/S00055/national-lacks-boldness-and-courage.htm
+title: National lacks boldness and courage
+date: 2011-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00055/national-lacks-boldness-and-courage.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/05/national-lacks-boldness-and-courage/index.html
+layout: layout.njk
 ---
 National lacks boldness and courage
 ===================================

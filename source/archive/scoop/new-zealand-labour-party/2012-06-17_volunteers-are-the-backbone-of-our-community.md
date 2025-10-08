@@ -1,9 +1,12 @@
 ---
 slug: volunteers-are-the-backbone-of-our-community
-title: "Volunteers are the Backbone of our Community"
-date: 2012-06-17
-source-url: https://www.scoop.co.nz/stories/PA1206/S00218/volunteers-are-the-backbone-of-our-community.htm
+title: Volunteers are the Backbone of our Community
+date: 2012-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00218/volunteers-are-the-backbone-of-our-community.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/06/17/volunteers-are-the-backbone-of-our-community/index.html
+layout: layout.njk
 ---
 Volunteers are the Backbone of our Community
 ============================================

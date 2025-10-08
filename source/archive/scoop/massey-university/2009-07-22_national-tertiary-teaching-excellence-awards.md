@@ -1,9 +1,12 @@
 ---
 slug: national-tertiary-teaching-excellence-awards
-title: "National tertiary teaching excellence awards"
-date: 2009-07-22
-source-url: https://www.scoop.co.nz/stories/AK0907/S00324/national-tertiary-teaching-excellence-awards.htm
+title: National tertiary teaching excellence awards
+date: 2009-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0907/S00324/national-tertiary-teaching-excellence-awards.htm
 author: massey-university
+permalink: /archive/2009/07/22/national-tertiary-teaching-excellence-awards/index.html
+layout: layout.njk
 ---
 National tertiary teaching excellence awards
 ============================================

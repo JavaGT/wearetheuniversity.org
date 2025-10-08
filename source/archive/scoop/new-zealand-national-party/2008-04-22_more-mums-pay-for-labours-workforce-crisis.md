@@ -1,9 +1,12 @@
 ---
 slug: more-mums-pay-for-labours-workforce-crisis
-title: "More mums pay for Labour’s workforce crisis"
-date: 2008-04-22
-source-url: https://www.scoop.co.nz/stories/PA0804/S00520/more-mums-pay-for-labours-workforce-crisis.htm
+title: More mums pay for Labour’s workforce crisis
+date: 2008-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00520/more-mums-pay-for-labours-workforce-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/22/more-mums-pay-for-labours-workforce-crisis/index.html
+layout: layout.njk
 ---
 More mums pay for Labour’s workforce crisis
 ===========================================

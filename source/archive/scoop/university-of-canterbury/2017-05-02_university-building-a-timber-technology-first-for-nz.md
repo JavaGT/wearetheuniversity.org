@@ -1,9 +1,13 @@
 ---
 slug: university-building-a-timber-technology-first-for-nz
-title: "University building a timber-technology first for NZ"
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/ED1705/S00008/university-building-a-timber-technology-first-for-nz.htm
+title: University building a timber-technology first for NZ
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00008/university-building-a-timber-technology-first-for-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/05/02/university-building-a-timber-technology-first-for-nz/index.html
+layout: layout.njk
 ---
 University building a timber-technology first for NZ
 ====================================================

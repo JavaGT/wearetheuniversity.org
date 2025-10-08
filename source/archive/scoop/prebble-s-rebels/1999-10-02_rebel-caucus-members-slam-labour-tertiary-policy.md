@@ -1,9 +1,13 @@
 ---
 slug: rebel-caucus-members-slam-labour-tertiary-policy
-title: "Rebel Caucus Members Slam Labour Tertiary Policy"
-date: 1999-10-02
-source-url: https://www.scoop.co.nz/stories/PO9910/S00004/rebel-caucus-members-slam-labour-tertiary-policy.htm
+title: Rebel Caucus Members Slam Labour Tertiary Policy
+date: 1999-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9910/S00004/rebel-caucus-members-slam-labour-tertiary-policy.htm
 author: prebble-s-rebels
+permalink: >-
+  /archive/1999/10/02/rebel-caucus-members-slam-labour-tertiary-policy/index.html
+layout: layout.njk
 ---
 Rebel Caucus Members Slam Labour Tertiary Policy
 ================================================

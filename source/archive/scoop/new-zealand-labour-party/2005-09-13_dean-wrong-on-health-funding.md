@@ -1,9 +1,11 @@
 ---
 slug: dean-wrong-on-health-funding
-title: "Dean wrong on health funding"
-date: 2005-09-13
+title: Dean wrong on health funding
+date: 2005-09-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00344/dean-wrong-on-health-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/13/dean-wrong-on-health-funding/index.html
+layout: layout.njk
 ---
 Dean wrong on health funding
 ============================

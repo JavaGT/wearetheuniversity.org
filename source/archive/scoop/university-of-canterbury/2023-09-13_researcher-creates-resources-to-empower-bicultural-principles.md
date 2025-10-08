@@ -1,9 +1,13 @@
 ---
 slug: researcher-creates-resources-to-empower-bicultural-principles
-title: "Researcher Creates Resources To Empower Bicultural Principles"
-date: 2023-09-13
-source-url: https://www.scoop.co.nz/stories/ED2309/S00025/researcher-creates-resources-to-empower-bicultural-principles.htm
+title: Researcher Creates Resources To Empower Bicultural Principles
+date: 2023-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2309/S00025/researcher-creates-resources-to-empower-bicultural-principles.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/09/13/researcher-creates-resources-to-empower-bicultural-principles/index.html
+layout: layout.njk
 ---
 Researcher Creates Resources To Empower Bicultural Principles
 =============================================================

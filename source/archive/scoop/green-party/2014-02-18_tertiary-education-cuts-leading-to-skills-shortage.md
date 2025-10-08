@@ -1,9 +1,13 @@
 ---
 slug: tertiary-education-cuts-leading-to-skills-shortage
-title: "Tertiary education cuts leading to skills shortage"
-date: 2014-02-18
-source-url: https://www.scoop.co.nz/stories/PA1402/S00219/tertiary-education-cuts-leading-to-skills-shortage.htm
+title: Tertiary education cuts leading to skills shortage
+date: 2014-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00219/tertiary-education-cuts-leading-to-skills-shortage.htm
 author: green-party
+permalink: >-
+  /archive/2014/02/18/tertiary-education-cuts-leading-to-skills-shortage/index.html
+layout: layout.njk
 ---
 Tertiary education cuts leading to skills shortage
 ==================================================

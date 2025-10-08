@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-hit-by-premature-ageing
-title: "New Zealand hit by ‘premature ageing’"
-date: 2010-02-15
-source-url: https://www.scoop.co.nz/stories/ED1002/S00049/new-zealand-hit-by-premature-ageing.htm
+title: New Zealand hit by ‘premature ageing’
+date: 2010-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00049/new-zealand-hit-by-premature-ageing.htm
 author: waikato-university
+permalink: /archive/2010/02/15/new-zealand-hit-by-premature-ageing/index.html
+layout: layout.njk
 ---
 New Zealand hit by ‘premature ageing’
 =====================================

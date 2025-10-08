@@ -1,9 +1,12 @@
 ---
 slug: massey-collective-agreement-ratified
-title: "Massey collective agreement ratified"
-date: 2000-10-30
-source-url: https://www.scoop.co.nz/stories/ED0010/S00039/massey-collective-agreement-ratified.htm
+title: Massey collective agreement ratified
+date: 2000-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00039/massey-collective-agreement-ratified.htm
 author: association-of-university-staff
+permalink: /archive/2000/10/30/massey-collective-agreement-ratified/index.html
+layout: layout.njk
 ---
 Massey collective agreement ratified
 ====================================

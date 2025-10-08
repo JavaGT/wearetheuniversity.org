@@ -1,9 +1,12 @@
 ---
 slug: dalziel-third-reading-electoral-referendum-bill
-title: "Dalziel: Third Reading Electoral Referendum Bill"
-date: 2010-12-15
-source-url: https://www.scoop.co.nz/stories/PA1012/S00305/dalziel-third-reading-electoral-referendum-bill.htm
+title: 'Dalziel: Third Reading Electoral Referendum Bill'
+date: 2010-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00305/dalziel-third-reading-electoral-referendum-bill.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/15/dalziel-third-reading-electoral-referendum-bill/index.html
+layout: layout.njk
 ---
 Dalziel: Third Reading Electoral Referendum Bill
 ================================================

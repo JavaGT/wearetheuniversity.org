@@ -1,9 +1,12 @@
 ---
 slug: research-explores-geothermal-law-framework
-title: "Research explores geothermal law framework"
-date: 2015-07-15
-source-url: https://www.scoop.co.nz/stories/ED1507/S00075/research-explores-geothermal-law-framework.htm
+title: Research explores geothermal law framework
+date: 2015-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00075/research-explores-geothermal-law-framework.htm
 author: waikato-university
+permalink: /archive/2015/07/15/research-explores-geothermal-law-framework/index.html
+layout: layout.njk
 ---
 Research explores geothermal law framework
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: student-loan-repayment-threshold-is-too-low
-title: "Student Loan Repayment Threshold is Too Low"
-date: 2006-12-11
-source-url: https://www.scoop.co.nz/stories/ED0612/S00033/student-loan-repayment-threshold-is-too-low.htm
+title: Student Loan Repayment Threshold is Too Low
+date: 2006-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00033/student-loan-repayment-threshold-is-too-low.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2006/12/11/student-loan-repayment-threshold-is-too-low/index.html
+layout: layout.njk
 ---
 Student Loan Repayment Threshold is Too Low
 ===========================================

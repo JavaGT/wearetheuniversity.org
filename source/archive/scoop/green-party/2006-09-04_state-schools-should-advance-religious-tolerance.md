@@ -1,9 +1,13 @@
 ---
 slug: state-schools-should-advance-religious-tolerance
-title: "State schools should advance religious tolerance"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/PA0609/S00067/state-schools-should-advance-religious-tolerance.htm
+title: State schools should advance religious tolerance
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00067/state-schools-should-advance-religious-tolerance.htm
 author: green-party
+permalink: >-
+  /archive/2006/09/04/state-schools-should-advance-religious-tolerance/index.html
+layout: layout.njk
 ---
 State schools should advance religious tolerance
 ================================================

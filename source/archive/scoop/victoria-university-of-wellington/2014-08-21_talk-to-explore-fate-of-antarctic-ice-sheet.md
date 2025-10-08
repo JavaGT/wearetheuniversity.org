@@ -1,9 +1,12 @@
 ---
 slug: talk-to-explore-fate-of-antarctic-ice-sheet
-title: "Talk to explore fate of Antarctic ice sheet"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/SC1408/S00058/talk-to-explore-fate-of-antarctic-ice-sheet.htm
+title: Talk to explore fate of Antarctic ice sheet
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00058/talk-to-explore-fate-of-antarctic-ice-sheet.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/21/talk-to-explore-fate-of-antarctic-ice-sheet/index.html
+layout: layout.njk
 ---
 Talk to explore fate of Antarctic ice sheet
 ===========================================

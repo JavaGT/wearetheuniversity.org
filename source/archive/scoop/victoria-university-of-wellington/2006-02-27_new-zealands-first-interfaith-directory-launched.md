@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-first-interfaith-directory-launched
-title: "New Zealand’s first interfaith directory launched"
-date: 2006-02-27
-source-url: https://www.scoop.co.nz/stories/ED0602/S00075/new-zealands-first-interfaith-directory-launched.htm
+title: New Zealand’s first interfaith directory launched
+date: 2006-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00075/new-zealands-first-interfaith-directory-launched.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/02/27/new-zealands-first-interfaith-directory-launched/index.html
+layout: layout.njk
 ---
 New Zealand’s first interfaith directory launched
 =================================================

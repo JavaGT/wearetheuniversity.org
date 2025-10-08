@@ -1,9 +1,12 @@
 ---
 slug: greens-tertiary-policy-good-for-students
-title: "Greens Tertiary Policy Good For Students"
-date: 2002-07-05
-source-url: https://www.scoop.co.nz/stories/PA0207/S00197/greens-tertiary-policy-good-for-students.htm
+title: Greens Tertiary Policy Good For Students
+date: 2002-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00197/greens-tertiary-policy-good-for-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/05/greens-tertiary-policy-good-for-students/index.html
+layout: layout.njk
 ---
 Greens Tertiary Policy Good For Students
 ========================================

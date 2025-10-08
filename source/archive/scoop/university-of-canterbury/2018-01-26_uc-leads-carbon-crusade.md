@@ -1,9 +1,11 @@
 ---
 slug: uc-leads-carbon-crusade
-title: "UC leads carbon crusade"
-date: 2018-01-26
+title: UC leads carbon crusade
+date: 2018-01-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1801/S00132/uc-leads-carbon-crusade.htm
 author: university-of-canterbury
+permalink: /archive/2018/01/26/uc-leads-carbon-crusade/index.html
+layout: layout.njk
 ---
 UC leads carbon crusade
 =======================

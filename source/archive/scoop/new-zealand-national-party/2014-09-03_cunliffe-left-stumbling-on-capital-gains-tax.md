@@ -1,9 +1,12 @@
 ---
 slug: cunliffe-left-stumbling-on-capital-gains-tax
-title: "Cunliffe left stumbling on capital gains tax"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/PA1409/S00050/cunliffe-left-stumbling-on-capital-gains-tax.htm
+title: Cunliffe left stumbling on capital gains tax
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00050/cunliffe-left-stumbling-on-capital-gains-tax.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/03/cunliffe-left-stumbling-on-capital-gains-tax/index.html
+layout: layout.njk
 ---
 Cunliffe left stumbling on capital gains tax
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: april-1st-no-joke-for-pre-school-providers
-title: "April 1st no joke for pre-school providers"
-date: 2005-02-28
-source-url: https://www.scoop.co.nz/stories/PA0502/S00588/april-1st-no-joke-for-pre-school-providers.htm
+title: April 1st no joke for pre-school providers
+date: 2005-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00588/april-1st-no-joke-for-pre-school-providers.htm
 author: act-new-zealand
+permalink: /archive/2005/02/28/april-1st-no-joke-for-pre-school-providers/index.html
+layout: layout.njk
 ---
 April 1st no joke for pre-school providers
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: loss-of-christchurchs-cranmer-courts-a-disaster
-title: "Loss of Christchurch’s Cranmer Courts a disaster"
-date: 2012-10-02
-source-url: https://www.scoop.co.nz/stories/AK1210/S00058/loss-of-christchurchs-cranmer-courts-a-disaster.htm
+title: Loss of Christchurch’s Cranmer Courts a disaster
+date: 2012-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00058/loss-of-christchurchs-cranmer-courts-a-disaster.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/02/loss-of-christchurchs-cranmer-courts-a-disaster/index.html
+layout: layout.njk
 ---
 Loss of Christchurch’s Cranmer Courts a disaster
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: incomes-and-location-affect-childhood-vaccination-in-nz
-title: "Incomes And Location Affect Childhood Vaccination In NZ"
-date: 2020-09-22
-source-url: https://www.scoop.co.nz/stories/GE2009/S00111/incomes-and-location-affect-childhood-vaccination-in-nz.htm
+title: Incomes And Location Affect Childhood Vaccination In NZ
+date: 2020-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2009/S00111/incomes-and-location-affect-childhood-vaccination-in-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/09/22/incomes-and-location-affect-childhood-vaccination-in-nz/index.html
+layout: layout.njk
 ---
 Incomes And Location Affect Childhood Vaccination In NZ
 =======================================================

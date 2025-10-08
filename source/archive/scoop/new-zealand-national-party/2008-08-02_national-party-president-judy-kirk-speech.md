@@ -1,9 +1,12 @@
 ---
 slug: national-party-president-judy-kirk-speech
-title: "National Party President Judy Kirk Speech"
-date: 2008-08-02
-source-url: https://www.scoop.co.nz/stories/PA0808/S00019/national-party-president-judy-kirk-speech.htm
+title: National Party President Judy Kirk Speech
+date: 2008-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00019/national-party-president-judy-kirk-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/02/national-party-president-judy-kirk-speech/index.html
+layout: layout.njk
 ---
 National Party President Judy Kirk Speech
 =========================================

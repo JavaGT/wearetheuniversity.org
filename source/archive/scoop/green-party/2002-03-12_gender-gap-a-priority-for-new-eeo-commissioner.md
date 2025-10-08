@@ -1,9 +1,12 @@
 ---
 slug: gender-gap-a-priority-for-new-eeo-commissioner
-title: "Gender Gap A Priority For New EEO Commissioner"
-date: 2002-03-12
-source-url: https://www.scoop.co.nz/stories/PA0203/S00181/gender-gap-a-priority-for-new-eeo-commissioner.htm
+title: Gender Gap A Priority For New EEO Commissioner
+date: 2002-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00181/gender-gap-a-priority-for-new-eeo-commissioner.htm
 author: green-party
+permalink: /archive/2002/03/12/gender-gap-a-priority-for-new-eeo-commissioner/index.html
+layout: layout.njk
 ---
 Gender Gap A Priority For New EEO Commissioner
 ==============================================

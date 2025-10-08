@@ -1,9 +1,13 @@
 ---
 slug: sue-barker-charities-law-boutique-is-law-firm-of-the-year
-title: "Sue Barker Charities Law Boutique Is Law Firm of the Year"
-date: 2013-11-11
-source-url: https://www.scoop.co.nz/stories/BU1311/S00380/sue-barker-charities-law-boutique-is-law-firm-of-the-year.htm
+title: Sue Barker Charities Law Boutique Is Law Firm of the Year
+date: 2013-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1311/S00380/sue-barker-charities-law-boutique-is-law-firm-of-the-year.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/11/11/sue-barker-charities-law-boutique-is-law-firm-of-the-year/index.html
+layout: layout.njk
 ---
 Sue Barker Charities Law Boutique Is Law Firm of the Year
 =========================================================

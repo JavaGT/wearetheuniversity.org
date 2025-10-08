@@ -1,9 +1,12 @@
 ---
 slug: union-games-leave-students-behind
-title: "Union games leave Students Behind"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PO1010/S00219/union-games-leave-students-behind.htm
+title: Union games leave Students Behind
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00219/union-games-leave-students-behind.htm
 author: new-zealand-young-nationals
+permalink: /archive/2010/10/20/union-games-leave-students-behind/index.html
+layout: layout.njk
 ---
 Union games leave Students Behind
 =================================

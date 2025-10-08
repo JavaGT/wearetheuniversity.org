@@ -1,9 +1,13 @@
 ---
 slug: speech-by-new-zealand-first-leader-winston-peters
-title: "Speech by New Zealand First Leader Winston Peters"
-date: 2016-02-27
-source-url: https://www.scoop.co.nz/stories/PA1602/S00413/speech-by-new-zealand-first-leader-winston-peters.htm
+title: Speech by New Zealand First Leader Winston Peters
+date: 2016-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00413/speech-by-new-zealand-first-leader-winston-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/02/27/speech-by-new-zealand-first-leader-winston-peters/index.html
+layout: layout.njk
 ---
 Speech by New Zealand First Leader Winston Peters
 =================================================

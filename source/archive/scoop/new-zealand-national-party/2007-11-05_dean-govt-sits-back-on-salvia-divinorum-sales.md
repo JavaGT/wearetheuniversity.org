@@ -1,9 +1,12 @@
 ---
 slug: dean-govt-sits-back-on-salvia-divinorum-sales
-title: "Dean – Govt Sits Back On Salvia Divinorum Sales"
-date: 2007-11-05
-source-url: https://www.scoop.co.nz/stories/PA0711/S00052/dean-govt-sits-back-on-salvia-divinorum-sales.htm
+title: Dean – Govt Sits Back On Salvia Divinorum Sales
+date: 2007-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00052/dean-govt-sits-back-on-salvia-divinorum-sales.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/05/dean-govt-sits-back-on-salvia-divinorum-sales/index.html
+layout: layout.njk
 ---
 Dean – Govt Sits Back On Salvia Divinorum Sales
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: act-will-reduce-hospital-waiting-lists-by-a-third
-title: "ACT will reduce hospital waiting lists by a third"
-date: 2005-08-15
-source-url: https://www.scoop.co.nz/stories/PA0508/S00358/act-will-reduce-hospital-waiting-lists-by-a-third.htm
+title: ACT will reduce hospital waiting lists by a third
+date: 2005-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00358/act-will-reduce-hospital-waiting-lists-by-a-third.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/08/15/act-will-reduce-hospital-waiting-lists-by-a-third/index.html
+layout: layout.njk
 ---
 ACT will reduce hospital waiting lists by a third
 =================================================

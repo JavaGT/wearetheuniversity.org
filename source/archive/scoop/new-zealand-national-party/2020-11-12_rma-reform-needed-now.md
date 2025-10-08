@@ -1,9 +1,11 @@
 ---
 slug: rma-reform-needed-now
-title: "RMA Reform Needed Now"
-date: 2020-11-12
+title: RMA Reform Needed Now
+date: 2020-11-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2011/S00039/rma-reform-needed-now.htm
 author: new-zealand-national-party
+permalink: /archive/2020/11/12/rma-reform-needed-now/index.html
+layout: layout.njk
 ---
 RMA Reform Needed Now
 =====================

@@ -1,9 +1,12 @@
 ---
 slug: national-tries-to-gloss-over-benefit-numbers
-title: "National tries to gloss over benefit numbers"
-date: 2011-03-08
-source-url: https://www.scoop.co.nz/stories/PA1103/S00088/national-tries-to-gloss-over-benefit-numbers.htm
+title: National tries to gloss over benefit numbers
+date: 2011-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00088/national-tries-to-gloss-over-benefit-numbers.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/03/08/national-tries-to-gloss-over-benefit-numbers/index.html
+layout: layout.njk
 ---
 National tries to gloss over benefit numbers
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: the-government-must-do-more-to-get-kiwis-in-work
-title: "The Government must do more to get Kiwis in work"
-date: 2016-08-17
-source-url: https://www.scoop.co.nz/stories/BU1608/S00547/the-government-must-do-more-to-get-kiwis-in-work.htm
+title: The Government must do more to get Kiwis in work
+date: 2016-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1608/S00547/the-government-must-do-more-to-get-kiwis-in-work.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2016/08/17/the-government-must-do-more-to-get-kiwis-in-work/index.html
+layout: layout.njk
 ---
 The Government must do more to get Kiwis in work
 ================================================

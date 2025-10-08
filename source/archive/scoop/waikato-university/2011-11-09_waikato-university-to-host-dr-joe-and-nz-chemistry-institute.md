@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-to-host-dr-joe-and-nz-chemistry-institute
-title: "Waikato University to host Dr Joe and NZ Chemistry Institute"
-date: 2011-11-09
-source-url: https://www.scoop.co.nz/stories/ED1111/S00060/waikato-university-to-host-dr-joe-and-nz-chemistry-institute.htm
+title: Waikato University to host Dr Joe and NZ Chemistry Institute
+date: 2011-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00060/waikato-university-to-host-dr-joe-and-nz-chemistry-institute.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/09/waikato-university-to-host-dr-joe-and-nz-chemistry-institute/index.html
+layout: layout.njk
 ---
 Waikato University to host Dr Joe and NZ Chemistry Institute
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-looking-at-impacts-of-intensive-farming
-title: "UC researcher looking at impacts of intensive farming"
-date: 2013-10-15
-source-url: https://www.scoop.co.nz/stories/SC1310/S00032/uc-researcher-looking-at-impacts-of-intensive-farming.htm
+title: UC researcher looking at impacts of intensive farming
+date: 2013-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00032/uc-researcher-looking-at-impacts-of-intensive-farming.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/15/uc-researcher-looking-at-impacts-of-intensive-farming/index.html
+layout: layout.njk
 ---
 UC researcher looking at impacts of intensive farming
 =====================================================

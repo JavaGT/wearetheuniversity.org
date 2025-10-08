@@ -1,9 +1,12 @@
 ---
 slug: grant-gives-birds-something-to-sing-about
-title: "Grant gives birds something to sing about"
-date: 2006-06-01
-source-url: https://www.scoop.co.nz/stories/PA0606/S00009/grant-gives-birds-something-to-sing-about.htm
+title: Grant gives birds something to sing about
+date: 2006-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00009/grant-gives-birds-something-to-sing-about.htm
 author: green-party
+permalink: /archive/2006/06/01/grant-gives-birds-something-to-sing-about/index.html
+layout: layout.njk
 ---
 Grant gives birds something to sing about
 =========================================

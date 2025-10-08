@@ -1,9 +1,12 @@
 ---
 slug: disasters-nz-aint-seen-nothing-in-70-years
-title: "Disasters: NZ 'ain't seen nothing' in 70 years"
-date: 2008-09-23
-source-url: https://www.scoop.co.nz/stories/ED0809/S00069/disasters-nz-aint-seen-nothing-in-70-years.htm
+title: 'Disasters: NZ ''ain''t seen nothing'' in 70 years'
+date: 2008-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00069/disasters-nz-aint-seen-nothing-in-70-years.htm
 author: massey-university
+permalink: /archive/2008/09/23/disasters-nz-aint-seen-nothing-in-70-years/index.html
+layout: layout.njk
 ---
 Disasters: NZ 'ain't seen nothing' in 70 years
 ==============================================

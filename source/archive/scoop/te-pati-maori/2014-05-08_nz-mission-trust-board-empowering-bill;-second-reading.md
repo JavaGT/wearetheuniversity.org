@@ -1,9 +1,12 @@
 ---
 slug: nz-mission-trust-board-empowering-bill;-second-reading
-title: "NZ Mission Trust Board Empowering Bill; second reading"
-date: 2014-05-08
-source-url: https://www.scoop.co.nz/stories/PA1405/S00123/nz-mission-trust-board-empowering-bill-second-reading.htm
+title: NZ Mission Trust Board Empowering Bill; second reading
+date: 2014-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00123/nz-mission-trust-board-empowering-bill-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2014/05/08/nz-mission-trust-board-empowering-bill/index.html
+layout: layout.njk
 ---
 NZ Mission Trust Board Empowering Bill; second reading
 ======================================================

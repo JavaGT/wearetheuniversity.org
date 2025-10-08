@@ -1,9 +1,12 @@
 ---
 slug: new-head-for-psychology-school
-title: "New Head For Psychology School"
-date: 2003-08-01
-source-url: https://www.scoop.co.nz/stories/ED0308/S00001/new-head-for-psychology-school.htm
+title: New Head For Psychology School
+date: 2003-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00001/new-head-for-psychology-school.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/08/01/new-head-for-psychology-school/index.html
+layout: layout.njk
 ---
 New Head For Psychology School
 ==============================

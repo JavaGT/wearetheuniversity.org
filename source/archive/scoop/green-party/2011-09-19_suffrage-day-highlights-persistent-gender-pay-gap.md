@@ -1,9 +1,13 @@
 ---
 slug: suffrage-day-highlights-persistent-gender-pay-gap
-title: "Suffrage Day highlights persistent gender pay gap"
-date: 2011-09-19
-source-url: https://www.scoop.co.nz/stories/PA1109/S00371/suffrage-day-highlights-persistent-gender-pay-gap.htm
+title: Suffrage Day highlights persistent gender pay gap
+date: 2011-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00371/suffrage-day-highlights-persistent-gender-pay-gap.htm
 author: green-party
+permalink: >-
+  /archive/2011/09/19/suffrage-day-highlights-persistent-gender-pay-gap/index.html
+layout: layout.njk
 ---
 Suffrage Day highlights persistent gender pay gap
 =================================================

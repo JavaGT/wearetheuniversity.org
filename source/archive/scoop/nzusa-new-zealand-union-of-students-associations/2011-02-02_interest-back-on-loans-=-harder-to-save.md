@@ -1,9 +1,12 @@
 ---
 slug: interest-back-on-loans-=-harder-to-save
-title: "Interest back on loans = harder to save"
-date: 2011-02-02
-source-url: https://www.scoop.co.nz/stories/ED1102/S00008/interest-back-on-loans-harder-to-save.htm
+title: Interest back on loans = harder to save
+date: 2011-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00008/interest-back-on-loans-harder-to-save.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/02/02/interest-back-on-loans-/index.html
+layout: layout.njk
 ---
 Interest back on loans = harder to save
 =======================================

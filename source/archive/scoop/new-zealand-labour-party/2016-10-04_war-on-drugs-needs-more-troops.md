@@ -1,9 +1,12 @@
 ---
 slug: war-on-drugs-needs-more-troops
-title: "War on drugs needs more troops"
-date: 2016-10-04
-source-url: https://www.scoop.co.nz/stories/PA1610/S00041/war-on-drugs-needs-more-troops.htm
+title: War on drugs needs more troops
+date: 2016-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00041/war-on-drugs-needs-more-troops.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/10/04/war-on-drugs-needs-more-troops/index.html
+layout: layout.njk
 ---
 War on drugs needs more troops
 ==============================

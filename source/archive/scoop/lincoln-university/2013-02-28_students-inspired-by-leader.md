@@ -1,9 +1,11 @@
 ---
 slug: students-inspired-by-leader
-title: "Students inspired by leader"
-date: 2013-02-28
+title: Students inspired by leader
+date: 2013-02-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1302/S00164/students-inspired-by-leader.htm
 author: lincoln-university
+permalink: /archive/2013/02/28/students-inspired-by-leader/index.html
+layout: layout.njk
 ---
 Students inspired by leader
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: northland-mp-wont-stand-for-re-election
-title: "Northland MP won’t stand for re-election"
-date: 2010-11-08
-source-url: https://www.scoop.co.nz/stories/PA1011/S00138/northland-mp-wont-stand-for-re-election.htm
+title: Northland MP won’t stand for re-election
+date: 2010-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00138/northland-mp-wont-stand-for-re-election.htm
 author: new-zealand-national-party
+permalink: /archive/2010/11/08/northland-mp-wont-stand-for-re-election/index.html
+layout: layout.njk
 ---
 Northland MP won’t stand for re-election
 ========================================

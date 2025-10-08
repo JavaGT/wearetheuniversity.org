@@ -1,9 +1,12 @@
 ---
 slug: govt-squanders-taxpayers-money-on-world-markets
-title: "Govt squanders taxpayers’ money on world markets"
-date: 2002-09-30
-source-url: https://www.scoop.co.nz/stories/PA0209/S00480/govt-squanders-taxpayers-money-on-world-markets.htm
+title: Govt squanders taxpayers’ money on world markets
+date: 2002-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00480/govt-squanders-taxpayers-money-on-world-markets.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/30/govt-squanders-taxpayers-money-on-world-markets/index.html
+layout: layout.njk
 ---
 Govt squanders taxpayers’ money on world markets
 ================================================

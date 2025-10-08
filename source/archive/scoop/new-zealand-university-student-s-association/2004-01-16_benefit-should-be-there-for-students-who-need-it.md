@@ -1,9 +1,13 @@
 ---
 slug: benefit-should-be-there-for-students-who-need-it
-title: "Benefit should be there for students who need it"
-date: 2004-01-16
-source-url: https://www.scoop.co.nz/stories/ED0401/S00017/benefit-should-be-there-for-students-who-need-it.htm
+title: Benefit should be there for students who need it
+date: 2004-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00017/benefit-should-be-there-for-students-who-need-it.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/01/16/benefit-should-be-there-for-students-who-need-it/index.html
+layout: layout.njk
 ---
 Benefit should be there for students who need it
 ================================================

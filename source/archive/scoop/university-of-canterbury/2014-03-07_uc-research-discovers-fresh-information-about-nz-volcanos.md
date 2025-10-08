@@ -1,9 +1,13 @@
 ---
 slug: uc-research-discovers-fresh-information-about-nz-volcanos
-title: "UC research discovers fresh information about NZ volcanos"
-date: 2014-03-07
-source-url: https://www.scoop.co.nz/stories/SC1403/S00016/uc-research-discovers-fresh-information-about-nz-volcanos.htm
+title: UC research discovers fresh information about NZ volcanos
+date: 2014-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00016/uc-research-discovers-fresh-information-about-nz-volcanos.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/07/uc-research-discovers-fresh-information-about-nz-volcanos/index.html
+layout: layout.njk
 ---
 UC research discovers fresh information about NZ volcanos
 =========================================================

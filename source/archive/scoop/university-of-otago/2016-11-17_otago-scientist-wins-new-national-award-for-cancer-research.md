@@ -1,9 +1,13 @@
 ---
 slug: otago-scientist-wins-new-national-award-for-cancer-research
-title: "Otago scientist wins new national award for cancer research"
-date: 2016-11-17
-source-url: https://www.scoop.co.nz/stories/GE1611/S00076/otago-scientist-wins-new-national-award-for-cancer-research.htm
+title: Otago scientist wins new national award for cancer research
+date: 2016-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1611/S00076/otago-scientist-wins-new-national-award-for-cancer-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/11/17/otago-scientist-wins-new-national-award-for-cancer-research/index.html
+layout: layout.njk
 ---
 Otago scientist wins new national award for cancer research
 ===========================================================

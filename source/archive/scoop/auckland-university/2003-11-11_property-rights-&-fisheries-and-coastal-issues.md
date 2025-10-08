@@ -1,9 +1,12 @@
 ---
 slug: property-rights-&-fisheries-and-coastal-issues
-title: "Property Rights & Fisheries And Coastal Issues"
-date: 2003-11-11
-source-url: https://www.scoop.co.nz/stories/ED0311/S00035/property-rights-fisheries-and-coastal-issues.htm
+title: Property Rights & Fisheries And Coastal Issues
+date: 2003-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00035/property-rights-fisheries-and-coastal-issues.htm
 author: auckland-university
+permalink: /archive/2003/11/11/property-rights-/index.html
+layout: layout.njk
 ---
 Property Rights & Fisheries And Coastal Issues
 ==============================================

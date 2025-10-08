@@ -1,9 +1,12 @@
 ---
 slug: lights-out-should-have-been-avoided
-title: "Lights Out Should Have Been Avoided"
-date: 2021-08-10
-source-url: https://www.scoop.co.nz/stories/PA2108/S00090/lights-out-should-have-been-avoided.htm
+title: Lights Out Should Have Been Avoided
+date: 2021-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00090/lights-out-should-have-been-avoided.htm
 author: act-new-zealand
+permalink: /archive/2021/08/10/lights-out-should-have-been-avoided/index.html
+layout: layout.njk
 ---
 Lights Out Should Have Been Avoided
 ===================================

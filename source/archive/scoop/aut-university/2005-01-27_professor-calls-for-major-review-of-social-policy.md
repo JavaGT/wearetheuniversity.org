@@ -1,9 +1,13 @@
 ---
 slug: professor-calls-for-major-review-of-social-policy
-title: "Professor Calls For Major Review Of Social Policy"
-date: 2005-01-27
-source-url: https://www.scoop.co.nz/stories/ED0501/S00060/professor-calls-for-major-review-of-social-policy.htm
+title: Professor Calls For Major Review Of Social Policy
+date: 2005-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00060/professor-calls-for-major-review-of-social-policy.htm
 author: aut-university
+permalink: >-
+  /archive/2005/01/27/professor-calls-for-major-review-of-social-policy/index.html
+layout: layout.njk
 ---
 Professor Calls For Major Review Of Social Policy
 =================================================

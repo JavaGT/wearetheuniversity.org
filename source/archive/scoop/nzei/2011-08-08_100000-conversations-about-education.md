@@ -1,9 +1,12 @@
 ---
 slug: 100000-conversations-about-education
-title: "100,000 conversations about education"
-date: 2011-08-08
-source-url: https://www.scoop.co.nz/stories/ED1108/S00050/100000-conversations-about-education.htm
+title: 100,000 conversations about education
+date: 2011-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00050/100000-conversations-about-education.htm
 author: nzei
+permalink: /archive/2011/08/08/100000-conversations-about-education/index.html
+layout: layout.njk
 ---
 100,000 conversations about education
 =====================================

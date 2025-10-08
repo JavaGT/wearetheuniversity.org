@@ -1,9 +1,13 @@
 ---
 slug: aut-graphic-design-exhibition-opens-aotea-centre
-title: "AUT Graphic Design Exhibition Opens - Aotea Centre"
-date: 2006-11-16
-source-url: https://www.scoop.co.nz/stories/ED0611/S00063/aut-graphic-design-exhibition-opens-aotea-centre.htm
+title: AUT Graphic Design Exhibition Opens - Aotea Centre
+date: 2006-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00063/aut-graphic-design-exhibition-opens-aotea-centre.htm
 author: aut-university
+permalink: >-
+  /archive/2006/11/16/aut-graphic-design-exhibition-opens-aotea-centre/index.html
+layout: layout.njk
 ---
 AUT Graphic Design Exhibition Opens - Aotea Centre
 ==================================================

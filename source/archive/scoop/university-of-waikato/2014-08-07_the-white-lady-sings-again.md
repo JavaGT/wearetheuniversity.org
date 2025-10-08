@@ -1,9 +1,11 @@
 ---
 slug: the-white-lady-sings-again
-title: "The White Lady Sings Again"
-date: 2014-08-07
+title: The White Lady Sings Again
+date: 2014-08-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1408/S00089/the-white-lady-sings-again.htm
 author: university-of-waikato
+permalink: /archive/2014/08/07/the-white-lady-sings-again/index.html
+layout: layout.njk
 ---
 The White Lady Sings Again
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: new-tree-restoration-role-at-uc
-title: "New tree restoration role at UC"
-date: 2019-07-17
-source-url: https://www.scoop.co.nz/stories/AK1907/S00371/new-tree-restoration-role-at-uc.htm
+title: New tree restoration role at UC
+date: 2019-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1907/S00371/new-tree-restoration-role-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2019/07/17/new-tree-restoration-role-at-uc/index.html
+layout: layout.njk
 ---
 New tree restoration role at UC
 ===============================

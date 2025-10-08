@@ -1,9 +1,12 @@
 ---
 slug: flavell-estimates-debate-speech
-title: "Flavell: Estimates Debate speech"
-date: 2006-07-21
-source-url: https://www.scoop.co.nz/stories/PA0607/S00343/flavell-estimates-debate-speech.htm
+title: 'Flavell: Estimates Debate speech'
+date: 2006-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00343/flavell-estimates-debate-speech.htm
 author: te-pati-maori
+permalink: /archive/2006/07/21/flavell-estimates-debate-speech/index.html
+layout: layout.njk
 ---
 Flavell: Estimates Debate speech
 ================================

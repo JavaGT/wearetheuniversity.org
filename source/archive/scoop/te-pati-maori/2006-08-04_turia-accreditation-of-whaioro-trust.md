@@ -1,9 +1,12 @@
 ---
 slug: turia-accreditation-of-whaioro-trust
-title: "Turia: Accreditation of Whaioro Trust"
-date: 2006-08-04
-source-url: https://www.scoop.co.nz/stories/PA0608/S00091/turia-accreditation-of-whaioro-trust.htm
+title: 'Turia: Accreditation of Whaioro Trust'
+date: 2006-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00091/turia-accreditation-of-whaioro-trust.htm
 author: te-pati-maori
+permalink: /archive/2006/08/04/turia-accreditation-of-whaioro-trust/index.html
+layout: layout.njk
 ---
 Turia: Accreditation of Whaioro Trust
 =====================================

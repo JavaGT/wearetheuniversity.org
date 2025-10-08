@@ -1,9 +1,13 @@
 ---
 slug: maori-party-farewells-pre-eminent-artist-ralph-hotere
-title: "Maori Party farewells pre-eminent artist Ralph Hotere"
-date: 2013-02-25
-source-url: https://www.scoop.co.nz/stories/PA1302/S00375/maori-party-farewells-pre-eminent-artist-ralph-hotere.htm
+title: Maori Party farewells pre-eminent artist Ralph Hotere
+date: 2013-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00375/maori-party-farewells-pre-eminent-artist-ralph-hotere.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/02/25/maori-party-farewells-pre-eminent-artist-ralph-hotere/index.html
+layout: layout.njk
 ---
 Maori Party farewells pre-eminent artist Ralph Hotere
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: abuse-of-migrant-workers-shameful
-title: "Abuse of Migrant Workers Shameful"
-date: 2014-11-05
-source-url: https://www.scoop.co.nz/stories/PA1411/S00053/abuse-of-migrant-workers-shameful.htm
+title: Abuse of Migrant Workers Shameful
+date: 2014-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00053/abuse-of-migrant-workers-shameful.htm
 author: new-zealand-first-party
+permalink: /archive/2014/11/05/abuse-of-migrant-workers-shameful/index.html
+layout: layout.njk
 ---
 Abuse of Migrant Workers Shameful
 =================================

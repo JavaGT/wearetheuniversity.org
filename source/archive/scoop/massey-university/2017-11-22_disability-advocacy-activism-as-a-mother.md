@@ -1,9 +1,12 @@
 ---
 slug: disability-advocacy-activism-as-a-mother
-title: "Disability, advocacy, activism as a mother"
-date: 2017-11-22
-source-url: https://www.scoop.co.nz/stories/ED1711/S00088/disability-advocacy-activism-as-a-mother.htm
+title: Disability, advocacy, activism as a mother
+date: 2017-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00088/disability-advocacy-activism-as-a-mother.htm
 author: massey-university
+permalink: /archive/2017/11/22/disability-advocacy-activism-as-a-mother/index.html
+layout: layout.njk
 ---
 Disability, advocacy, activism as a mother
 ==========================================

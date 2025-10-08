@@ -1,9 +1,12 @@
 ---
 slug: rod-donald-speech-its-just-not-cricket
-title: "Rod Donald Speech: \"It's Just Not Cricket\""
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/PA0507/S00339/rod-donald-speech-its-just-not-cricket.htm
+title: 'Rod Donald Speech: "It''s Just Not Cricket"'
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00339/rod-donald-speech-its-just-not-cricket.htm
 author: green-party
+permalink: /archive/2005/07/18/rod-donald-speech-its-just-not-cricket/index.html
+layout: layout.njk
 ---
 Rod Donald Speech: \"It's Just Not Cricket"
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: fee-freeze-snowball-starts-in-dunedin
-title: "Fee Freeze Snowball Starts In Dunedin"
-date: 2001-06-29
-source-url: https://www.scoop.co.nz/stories/ED0106/S00028/fee-freeze-snowball-starts-in-dunedin.htm
+title: Fee Freeze Snowball Starts In Dunedin
+date: 2001-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0106/S00028/fee-freeze-snowball-starts-in-dunedin.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/06/29/fee-freeze-snowball-starts-in-dunedin/index.html
+layout: layout.njk
 ---
 Fee Freeze Snowball Starts In Dunedin
 =====================================

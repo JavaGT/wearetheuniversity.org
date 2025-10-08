@@ -1,9 +1,13 @@
 ---
 slug: staff-warn-about-lowering-university-degree-standa
-title: "Staff warn about lowering university degree standa"
-date: 2004-05-12
-source-url: https://www.scoop.co.nz/stories/ED0405/S00049/staff-warn-about-lowering-university-degree-standa.htm
+title: Staff warn about lowering university degree standa
+date: 2004-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00049/staff-warn-about-lowering-university-degree-standa.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2004/05/12/staff-warn-about-lowering-university-degree-standa/index.html
+layout: layout.njk
 ---
 Staff warn about lowering university degree standa
 ==================================================

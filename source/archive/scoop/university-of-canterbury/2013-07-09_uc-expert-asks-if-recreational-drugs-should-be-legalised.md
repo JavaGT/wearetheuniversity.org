@@ -1,9 +1,13 @@
 ---
 slug: uc-expert-asks-if-recreational-drugs-should-be-legalised
-title: "UC expert asks if recreational drugs should be legalised"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/SC1307/S00024/uc-expert-asks-if-recreational-drugs-should-be-legalised.htm
+title: UC expert asks if recreational drugs should be legalised
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00024/uc-expert-asks-if-recreational-drugs-should-be-legalised.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/09/uc-expert-asks-if-recreational-drugs-should-be-legalised/index.html
+layout: layout.njk
 ---
 UC expert asks if recreational drugs should be legalised
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: vic-pays-tribute-to-award-winning-scriptwriter
-title: "Vic pays tribute to award-winning scriptwriter"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/CU0504/S00088/vic-pays-tribute-to-award-winning-scriptwriter.htm
+title: Vic pays tribute to award-winning scriptwriter
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0504/S00088/vic-pays-tribute-to-award-winning-scriptwriter.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/04/14/vic-pays-tribute-to-award-winning-scriptwriter/index.html
+layout: layout.njk
 ---
 Vic pays tribute to award-winning scriptwriter
 ==============================================

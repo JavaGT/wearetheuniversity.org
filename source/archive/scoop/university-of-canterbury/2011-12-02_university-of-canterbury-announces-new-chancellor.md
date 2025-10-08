@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-announces-new-chancellor
-title: "University of Canterbury announces  new Chancellor"
-date: 2011-12-02
-source-url: https://www.scoop.co.nz/stories/ED1112/S00017/university-of-canterbury-announces-new-chancellor.htm
+title: University of Canterbury announces  new Chancellor
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00017/university-of-canterbury-announces-new-chancellor.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/12/02/university-of-canterbury-announces-new-chancellor/index.html
+layout: layout.njk
 ---
 University of Canterbury announces new Chancellor
 =================================================

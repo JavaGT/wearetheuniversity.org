@@ -1,9 +1,12 @@
 ---
 slug: business-as-usual-at-environmental-authority
-title: "Business as usual at Environmental Authority"
-date: 2010-06-03
-source-url: https://www.scoop.co.nz/stories/PA1006/S00100/business-as-usual-at-environmental-authority.htm
+title: Business as usual at Environmental Authority
+date: 2010-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00100/business-as-usual-at-environmental-authority.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/03/business-as-usual-at-environmental-authority/index.html
+layout: layout.njk
 ---
 Business as usual at Environmental Authority
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: blaze-of-tradition-and-technology
-title: "Blaze of tradition and technology"
-date: 2008-07-22
-source-url: https://www.scoop.co.nz/stories/CU0807/S00223/blaze-of-tradition-and-technology.htm
+title: Blaze of tradition and technology
+date: 2008-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0807/S00223/blaze-of-tradition-and-technology.htm
 author: massey-university
+permalink: /archive/2008/07/22/blaze-of-tradition-and-technology/index.html
+layout: layout.njk
 ---
 Blaze of tradition and technology
 =================================

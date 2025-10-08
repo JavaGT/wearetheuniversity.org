@@ -1,9 +1,12 @@
 ---
 slug: fairy-tale-ending-for-indian-scriptwriter
-title: "Fairy-tale ending for Indian scriptwriter"
-date: 2012-12-12
-source-url: https://www.scoop.co.nz/stories/ED1212/S00086/fairy-tale-ending-for-indian-scriptwriter.htm
+title: Fairy-tale ending for Indian scriptwriter
+date: 2012-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00086/fairy-tale-ending-for-indian-scriptwriter.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/12/12/fairy-tale-ending-for-indian-scriptwriter/index.html
+layout: layout.njk
 ---
 Fairy-tale ending for Indian scriptwriter
 =========================================

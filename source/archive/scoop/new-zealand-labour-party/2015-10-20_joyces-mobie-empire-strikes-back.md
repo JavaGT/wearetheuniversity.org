@@ -1,9 +1,12 @@
 ---
 slug: joyces-mobie-empire-strikes-back
-title: "Joyce’s MoBIE Empire strikes back"
-date: 2015-10-20
-source-url: https://www.scoop.co.nz/stories/PA1510/S00329/joyces-mobie-empire-strikes-back.htm
+title: Joyce’s MoBIE Empire strikes back
+date: 2015-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00329/joyces-mobie-empire-strikes-back.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/20/joyces-mobie-empire-strikes-back/index.html
+layout: layout.njk
 ---
 Joyce’s MoBIE Empire strikes back
 =================================

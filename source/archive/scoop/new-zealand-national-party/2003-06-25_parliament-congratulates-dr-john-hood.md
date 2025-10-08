@@ -1,9 +1,12 @@
 ---
 slug: parliament-congratulates-dr-john-hood
-title: "Parliament congratulates Dr John Hood"
-date: 2003-06-25
-source-url: https://www.scoop.co.nz/stories/PA0306/S00467/parliament-congratulates-dr-john-hood.htm
+title: Parliament congratulates Dr John Hood
+date: 2003-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00467/parliament-congratulates-dr-john-hood.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/25/parliament-congratulates-dr-john-hood/index.html
+layout: layout.njk
 ---
 Parliament congratulates Dr John Hood
 =====================================

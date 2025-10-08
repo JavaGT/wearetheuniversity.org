@@ -1,9 +1,12 @@
 ---
 slug: bill-erodes-fundamental-civil-liberty
-title: "Bill erodes fundamental civil liberty"
-date: 2010-06-02
-source-url: https://www.scoop.co.nz/stories/PA1006/S00034/bill-erodes-fundamental-civil-liberty.htm
+title: Bill erodes fundamental civil liberty
+date: 2010-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00034/bill-erodes-fundamental-civil-liberty.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/02/bill-erodes-fundamental-civil-liberty/index.html
+layout: layout.njk
 ---
 Bill erodes fundamental civil liberty
 =====================================

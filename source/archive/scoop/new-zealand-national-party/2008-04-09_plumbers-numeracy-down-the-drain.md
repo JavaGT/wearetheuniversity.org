@@ -1,9 +1,12 @@
 ---
 slug: plumbers-numeracy-down-the-drain
-title: "Plumbers numeracy down the drain"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/PA0804/S00243/plumbers-numeracy-down-the-drain.htm
+title: Plumbers numeracy down the drain
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00243/plumbers-numeracy-down-the-drain.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/09/plumbers-numeracy-down-the-drain/index.html
+layout: layout.njk
 ---
 Plumbers numeracy down the drain
 ================================

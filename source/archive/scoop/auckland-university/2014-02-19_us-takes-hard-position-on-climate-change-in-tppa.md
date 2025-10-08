@@ -1,9 +1,13 @@
 ---
 slug: us-takes-hard-position-on-climate-change-in-tppa
-title: "US Takes Hard Position On Climate Change In TPPA"
-date: 2014-02-19
-source-url: https://www.scoop.co.nz/stories/PO1402/S00228/us-takes-hard-position-on-climate-change-in-tppa.htm
+title: US Takes Hard Position On Climate Change In TPPA
+date: 2014-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1402/S00228/us-takes-hard-position-on-climate-change-in-tppa.htm
 author: auckland-university
+permalink: >-
+  /archive/2014/02/19/us-takes-hard-position-on-climate-change-in-tppa/index.html
+layout: layout.njk
 ---
 US Takes Hard Position On Climate Change In TPPA
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-becomes-world-champion-in-chinese
-title: "Canterbury student becomes World Champion in Chinese"
-date: 2015-08-05
-source-url: https://www.scoop.co.nz/stories/ED1508/S00016/canterbury-student-becomes-world-champion-in-chinese.htm
+title: Canterbury student becomes World Champion in Chinese
+date: 2015-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00016/canterbury-student-becomes-world-champion-in-chinese.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/08/05/canterbury-student-becomes-world-champion-in-chinese/index.html
+layout: layout.njk
 ---
 Canterbury student becomes World Champion in Chinese
 ====================================================

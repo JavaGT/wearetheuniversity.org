@@ -1,9 +1,13 @@
 ---
 slug: compulsory-membership-tests-benson-pope-principles
-title: "Compulsory membership tests Benson-Pope principles"
-date: 2005-01-07
-source-url: https://www.scoop.co.nz/stories/ED0501/S00015/compulsory-membership-tests-benson-pope-principles.htm
+title: Compulsory membership tests Benson-Pope principles
+date: 2005-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00015/compulsory-membership-tests-benson-pope-principles.htm
 author: student-choice
+permalink: >-
+  /archive/2005/01/07/compulsory-membership-tests-benson-pope-principles/index.html
+layout: layout.njk
 ---
 Compulsory membership tests Benson-Pope principles
 ==================================================

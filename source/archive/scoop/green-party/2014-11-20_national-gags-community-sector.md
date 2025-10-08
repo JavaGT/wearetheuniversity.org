@@ -1,9 +1,12 @@
 ---
 slug: national-gags-community-sector
-title: "National gags community sector"
-date: 2014-11-20
-source-url: https://www.scoop.co.nz/stories/PA1411/S00254/national-gags-community-sector.htm
+title: National gags community sector
+date: 2014-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00254/national-gags-community-sector.htm
 author: green-party
+permalink: /archive/2014/11/20/national-gags-community-sector/index.html
+layout: layout.njk
 ---
 National gags community sector
 ==============================

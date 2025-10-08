@@ -1,9 +1,12 @@
 ---
 slug: government-abandons-the-school-journal
-title: "Government Abandons the School Journal"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/PA1309/S00092/government-abandons-the-school-journal.htm
+title: Government Abandons the School Journal
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00092/government-abandons-the-school-journal.htm
 author: new-zealand-first-party
+permalink: /archive/2013/09/04/government-abandons-the-school-journal/index.html
+layout: layout.njk
 ---
 Government Abandons the School Journal
 ======================================

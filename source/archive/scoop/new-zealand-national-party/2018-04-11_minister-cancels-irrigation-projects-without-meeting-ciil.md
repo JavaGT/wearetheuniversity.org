@@ -1,9 +1,13 @@
 ---
 slug: minister-cancels-irrigation-projects-without-meeting-ciil
-title: "Minister cancels irrigation projects without meeting CIIL"
-date: 2018-04-11
-source-url: https://www.scoop.co.nz/stories/PA1804/S00119/minister-cancels-irrigation-projects-without-meeting-ciil.htm
+title: Minister cancels irrigation projects without meeting CIIL
+date: 2018-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00119/minister-cancels-irrigation-projects-without-meeting-ciil.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/04/11/minister-cancels-irrigation-projects-without-meeting-ciil/index.html
+layout: layout.njk
 ---
 Minister cancels irrigation projects without meeting CIIL
 =========================================================

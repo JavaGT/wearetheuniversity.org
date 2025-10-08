@@ -1,9 +1,13 @@
 ---
 slug: vote-buying-cause-of-out-of-control-student-debt
-title: "Vote Buying Cause Of Out Of Control Student Debt"
-date: 2002-01-29
-source-url: https://www.scoop.co.nz/stories/PO0201/S00041/vote-buying-cause-of-out-of-control-student-debt.htm
+title: Vote Buying Cause Of Out Of Control Student Debt
+date: 2002-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0201/S00041/vote-buying-cause-of-out-of-control-student-debt.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2002/01/29/vote-buying-cause-of-out-of-control-student-debt/index.html
+layout: layout.njk
 ---
 Vote Buying Cause Of Out Of Control Student Debt
 ================================================

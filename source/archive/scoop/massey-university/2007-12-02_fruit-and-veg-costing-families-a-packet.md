@@ -1,9 +1,12 @@
 ---
 slug: fruit-and-veg-costing-families-a-packet
-title: "Fruit and veg costing families a packet"
-date: 2007-12-02
-source-url: https://www.scoop.co.nz/stories/PO0712/S00005/fruit-and-veg-costing-families-a-packet.htm
+title: Fruit and veg costing families a packet
+date: 2007-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0712/S00005/fruit-and-veg-costing-families-a-packet.htm
 author: massey-university
+permalink: /archive/2007/12/02/fruit-and-veg-costing-families-a-packet/index.html
+layout: layout.njk
 ---
 Fruit and veg costing families a packet
 =======================================

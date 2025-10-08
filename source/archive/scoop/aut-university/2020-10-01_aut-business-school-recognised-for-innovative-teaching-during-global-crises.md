@@ -1,9 +1,13 @@
 ---
 slug: aut-business-school-recognised-for-innovative-teaching-during-global-crises
-title: "AUT Business School Recognised For Innovative Teaching During Global Crises"
-date: 2020-10-01
-source-url: https://www.scoop.co.nz/stories/ED2010/S00001/aut-business-school-recognised-for-innovative-teaching-during-global-crises.htm
+title: AUT Business School Recognised For Innovative Teaching During Global Crises
+date: 2020-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00001/aut-business-school-recognised-for-innovative-teaching-during-global-crises.htm
 author: aut-university
+permalink: >-
+  /archive/2020/10/01/aut-business-school-recognised-for-innovative-teaching-during-global-crises/index.html
+layout: layout.njk
 ---
 AUT Business School Recognised For Innovative Teaching During Global Crises
 ===========================================================================

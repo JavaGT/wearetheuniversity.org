@@ -1,9 +1,13 @@
 ---
 slug: new-research-finds-significant-warming-of-ross-sea-region
-title: "New Research Finds Significant Warming Of Ross Sea Region"
-date: 2024-10-03
-source-url: https://www.scoop.co.nz/stories/SC2410/S00008/new-research-finds-significant-warming-of-ross-sea-region.htm
+title: New Research Finds Significant Warming Of Ross Sea Region
+date: 2024-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2410/S00008/new-research-finds-significant-warming-of-ross-sea-region.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/10/03/new-research-finds-significant-warming-of-ross-sea-region/index.html
+layout: layout.njk
 ---
 New Research Finds Significant Warming Of Ross Sea Region
 =========================================================

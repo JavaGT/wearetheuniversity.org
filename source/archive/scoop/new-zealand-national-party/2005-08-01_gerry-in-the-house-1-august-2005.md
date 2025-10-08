@@ -1,9 +1,12 @@
 ---
 slug: gerry-in-the-house-1-august-2005
-title: "Gerry in the House - 1 August 2005"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/PA0508/S00017/gerry-in-the-house-1-august-2005.htm
+title: Gerry in the House - 1 August 2005
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00017/gerry-in-the-house-1-august-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/01/gerry-in-the-house-1-august-2005/index.html
+layout: layout.njk
 ---
 Gerry in the House - 1 August 2005
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-runs-on-the-spot-with-problem-benefits
-title: "Labour runs on the spot with problem benefits"
-date: 2007-04-19
-source-url: https://www.scoop.co.nz/stories/PA0704/S00324/labour-runs-on-the-spot-with-problem-benefits.htm
+title: Labour runs on the spot with problem benefits
+date: 2007-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00324/labour-runs-on-the-spot-with-problem-benefits.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/19/labour-runs-on-the-spot-with-problem-benefits/index.html
+layout: layout.njk
 ---
 Labour runs on the spot with problem benefits
 =============================================

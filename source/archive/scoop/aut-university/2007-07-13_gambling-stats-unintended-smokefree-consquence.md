@@ -1,9 +1,12 @@
 ---
 slug: gambling-stats-unintended-smokefree-consquence
-title: "Gambling Stats - Unintended Smokefree Consquence?"
-date: 2007-07-13
-source-url: https://www.scoop.co.nz/stories/GE0707/S00046/gambling-stats-unintended-smokefree-consquence.htm
+title: Gambling Stats - Unintended Smokefree Consquence?
+date: 2007-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0707/S00046/gambling-stats-unintended-smokefree-consquence.htm
 author: aut-university
+permalink: /archive/2007/07/13/gambling-stats-unintended-smokefree-consquence/index.html
+layout: layout.njk
 ---
 Gambling Stats - Unintended Smokefree Consquence?
 =================================================

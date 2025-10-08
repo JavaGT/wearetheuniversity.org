@@ -1,9 +1,13 @@
 ---
 slug: grant-to-explore-ownership-of-geothermal-minerals
-title: "Grant to explore ownership of geothermal minerals"
-date: 2013-11-25
-source-url: https://www.scoop.co.nz/stories/ED1311/S00168/grant-to-explore-ownership-of-geothermal-minerals.htm
+title: Grant to explore ownership of geothermal minerals
+date: 2013-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00168/grant-to-explore-ownership-of-geothermal-minerals.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/11/25/grant-to-explore-ownership-of-geothermal-minerals/index.html
+layout: layout.njk
 ---
 Grant to explore ownership of geothermal minerals
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: ministers-signals-worry-students
-title: "Minister’s signals worry students"
-date: 2010-03-09
-source-url: https://www.scoop.co.nz/stories/ED1003/S00038/ministers-signals-worry-students.htm
+title: Minister’s signals worry students
+date: 2010-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00038/ministers-signals-worry-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/03/09/ministers-signals-worry-students/index.html
+layout: layout.njk
 ---
 Minister’s signals worry students
 =================================

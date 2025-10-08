@@ -1,9 +1,12 @@
 ---
 slug: speed-camera-tax-grab-hits-your-region
-title: "Speed camera tax grab hits your region"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/PA0309/S00125/speed-camera-tax-grab-hits-your-region.htm
+title: Speed camera tax grab hits your region
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00125/speed-camera-tax-grab-hits-your-region.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/08/speed-camera-tax-grab-hits-your-region/index.html
+layout: layout.njk
 ---
 Speed camera tax grab hits your region
 ======================================

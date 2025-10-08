@@ -1,9 +1,12 @@
 ---
 slug: major-issues-with-govts-school-donations-scheme
-title: "Major issues with Govt’s school donations scheme"
-date: 2019-10-13
-source-url: https://www.scoop.co.nz/stories/PA1910/S00086/major-issues-with-govts-school-donations-scheme.htm
+title: Major issues with Govt’s school donations scheme
+date: 2019-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00086/major-issues-with-govts-school-donations-scheme.htm
 author: new-zealand-national-party
+permalink: /archive/2019/10/13/major-issues-with-govts-school-donations-scheme/index.html
+layout: layout.njk
 ---
 Major issues with Govt’s school donations scheme
 ================================================

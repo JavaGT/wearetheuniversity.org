@@ -1,9 +1,13 @@
 ---
 slug: students-detail-alcohols-impact-on-emergency-department
-title: "Students detail alcohol’s impact on Emergency Department"
-date: 2014-01-24
-source-url: https://www.scoop.co.nz/stories/SC1401/S00054/students-detail-alcohols-impact-on-emergency-department.htm
+title: Students detail alcohol’s impact on Emergency Department
+date: 2014-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00054/students-detail-alcohols-impact-on-emergency-department.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/01/24/students-detail-alcohols-impact-on-emergency-department/index.html
+layout: layout.njk
 ---
 Students detail alcohol’s impact on Emergency Department
 ========================================================

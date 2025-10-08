@@ -1,9 +1,12 @@
 ---
 slug: world-class-researcher-honoured
-title: "World class researcher honoured"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/ED1411/S00033/world-class-researcher-honoured.htm
+title: World class researcher honoured
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00033/world-class-researcher-honoured.htm
 author: university-of-waikato
+permalink: /archive/2014/11/06/world-class-researcher-honoured/index.html
+layout: layout.njk
 ---
 World class researcher honoured
 ===============================

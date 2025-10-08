@@ -1,9 +1,12 @@
 ---
 slug: green-party-agm-2023-marama-davidsons-speech
-title: "Green Party AGM 2023: Marama Davidson’s Speech"
-date: 2023-07-09
-source-url: https://www.scoop.co.nz/stories/PO2307/S00046/green-party-agm-2023-marama-davidsons-speech.htm
+title: 'Green Party AGM 2023: Marama Davidson’s Speech'
+date: 2023-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00046/green-party-agm-2023-marama-davidsons-speech.htm
 author: green-party
+permalink: /archive/2023/07/09/green-party-agm-2023-marama-davidsons-speech/index.html
+layout: layout.njk
 ---
 Green Party AGM 2023: Marama Davidson’s Speech
 ==============================================

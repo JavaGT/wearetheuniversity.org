@@ -1,9 +1,12 @@
 ---
 slug: masters-student-awarded-$22000-fieldays-scholarship
-title: "Masters student awarded $22,000 Fieldays scholarship"
-date: 2017-06-08
-source-url: https://www.scoop.co.nz/stories/SC1706/S00021/masters-student-awarded-22000-fieldays-scholarship.htm
+title: Masters student awarded $22,000 Fieldays scholarship
+date: 2017-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1706/S00021/masters-student-awarded-22000-fieldays-scholarship.htm
 author: university-of-waikato
+permalink: /archive/2017/06/08/masters-student-awarded-/index.html
+layout: layout.njk
 ---
 Masters student awarded $22,000 Fieldays scholarship
 ====================================================

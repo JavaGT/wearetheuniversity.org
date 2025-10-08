@@ -1,9 +1,12 @@
 ---
 slug: uc-launches-new-virtual-research-centre
-title: "UC launches new virtual research centre"
-date: 2007-09-13
-source-url: https://www.scoop.co.nz/stories/ED0709/S00043/uc-launches-new-virtual-research-centre.htm
+title: UC launches new virtual research centre
+date: 2007-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00043/uc-launches-new-virtual-research-centre.htm
 author: university-of-canterbury
+permalink: /archive/2007/09/13/uc-launches-new-virtual-research-centre/index.html
+layout: layout.njk
 ---
 UC launches new virtual research centre
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: risky-student-drinking-adverse-sexual-experiences
-title: "Risky student drinking, adverse sexual experiences"
-date: 2010-10-08
-source-url: https://www.scoop.co.nz/stories/ED1010/S00028/risky-student-drinking-adverse-sexual-experiences.htm
+title: Risky student drinking, adverse sexual experiences
+date: 2010-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00028/risky-student-drinking-adverse-sexual-experiences.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/10/08/risky-student-drinking-adverse-sexual-experiences/index.html
+layout: layout.njk
 ---
 Risky student drinking, adverse sexual experiences
 ==================================================

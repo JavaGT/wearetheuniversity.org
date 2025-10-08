@@ -1,9 +1,13 @@
 ---
 slug: otago-appoints-new-professor-of-entrepreneurship
-title: "Otago appoints new Professor of Entrepreneurship"
-date: 2012-06-18
-source-url: https://www.scoop.co.nz/stories/ED1206/S00074/otago-appoints-new-professor-of-entrepreneurship.htm
+title: Otago appoints new Professor of Entrepreneurship
+date: 2012-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00074/otago-appoints-new-professor-of-entrepreneurship.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/06/18/otago-appoints-new-professor-of-entrepreneurship/index.html
+layout: layout.njk
 ---
 Otago appoints new Professor of Entrepreneurship
 ================================================

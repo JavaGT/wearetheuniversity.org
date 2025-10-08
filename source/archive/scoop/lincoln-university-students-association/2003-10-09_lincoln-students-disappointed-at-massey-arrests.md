@@ -1,9 +1,12 @@
 ---
 slug: lincoln-students-disappointed-at-massey-arrests
-title: "Lincoln students disappointed at Massey arrests"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/ED0310/S00034/lincoln-students-disappointed-at-massey-arrests.htm
+title: Lincoln students disappointed at Massey arrests
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00034/lincoln-students-disappointed-at-massey-arrests.htm
 author: lincoln-university-students-association
+permalink: /archive/2003/10/09/lincoln-students-disappointed-at-massey-arrests/index.html
+layout: layout.njk
 ---
 Lincoln students disappointed at Massey arrests
 ===============================================

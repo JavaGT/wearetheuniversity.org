@@ -1,9 +1,13 @@
 ---
 slug: research-symposium-explores-indian-media-economy
-title: "Research symposium explores Indian Media Economy"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/ED1402/S00081/research-symposium-explores-indian-media-economy.htm
+title: Research symposium explores Indian Media Economy
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00081/research-symposium-explores-indian-media-economy.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/02/20/research-symposium-explores-indian-media-economy/index.html
+layout: layout.njk
 ---
 Research symposium explores Indian Media Economy
 ================================================

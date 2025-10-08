@@ -1,9 +1,12 @@
 ---
 slug: taking-a-lesson-from-british-education
-title: "Taking a lesson from British education"
-date: 2005-03-11
-source-url: https://www.scoop.co.nz/stories/PO0503/S00094/taking-a-lesson-from-british-education.htm
+title: Taking a lesson from British education
+date: 2005-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0503/S00094/taking-a-lesson-from-british-education.htm
 author: maxim-institute
+permalink: /archive/2005/03/11/taking-a-lesson-from-british-education/index.html
+layout: layout.njk
 ---
 Taking a lesson from British education
 ======================================

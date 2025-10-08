@@ -1,9 +1,13 @@
 ---
 slug: top-international-clinicians-attend-cancer-symposium
-title: "Top international clinicians attend cancer symposium"
-date: 2011-02-11
-source-url: https://www.scoop.co.nz/stories/GE1102/S00051/top-international-clinicians-attend-cancer-symposium.htm
+title: Top international clinicians attend cancer symposium
+date: 2011-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1102/S00051/top-international-clinicians-attend-cancer-symposium.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/02/11/top-international-clinicians-attend-cancer-symposium/index.html
+layout: layout.njk
 ---
 Top international clinicians attend cancer symposium
 ====================================================

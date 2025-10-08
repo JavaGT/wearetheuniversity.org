@@ -1,9 +1,11 @@
 ---
 slug: another-award-for-top-writer
-title: "Another award for top writer"
-date: 2013-09-18
+title: Another award for top writer
+date: 2013-09-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1309/S00108/another-award-for-top-writer.htm
 author: university-of-waikato
+permalink: /archive/2013/09/18/another-award-for-top-writer/index.html
+layout: layout.njk
 ---
 Another award for top writer
 ============================

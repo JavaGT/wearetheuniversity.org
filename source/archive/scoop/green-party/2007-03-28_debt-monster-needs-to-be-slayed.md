@@ -1,9 +1,12 @@
 ---
 slug: debt-monster-needs-to-be-slayed
-title: "Debt monster needs to be slayed"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/PA0703/S00581/debt-monster-needs-to-be-slayed.htm
+title: Debt monster needs to be slayed
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00581/debt-monster-needs-to-be-slayed.htm
 author: green-party
+permalink: /archive/2007/03/28/debt-monster-needs-to-be-slayed/index.html
+layout: layout.njk
 ---
 Debt monster needs to be slayed
 ===============================

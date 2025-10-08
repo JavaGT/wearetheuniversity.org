@@ -1,9 +1,12 @@
 ---
 slug: speech-harawira-imports-made-by-slave-labour
-title: "Speech: Harawira - Imports Made by Slave Labour"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/PA0907/S00375/speech-harawira-imports-made-by-slave-labour.htm
+title: 'Speech: Harawira - Imports Made by Slave Labour'
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00375/speech-harawira-imports-made-by-slave-labour.htm
 author: te-pati-maori
+permalink: /archive/2009/07/30/speech-harawira-imports-made-by-slave-labour/index.html
+layout: layout.njk
 ---
 Speech: Harawira - Imports Made by Slave Labour
 ===============================================

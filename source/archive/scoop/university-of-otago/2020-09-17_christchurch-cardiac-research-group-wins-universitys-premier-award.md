@@ -1,9 +1,13 @@
 ---
 slug: christchurch-cardiac-research-group-wins-universitys-premier-award
-title: "Christchurch Cardiac Research Group Wins University’s Premier Award"
-date: 2020-09-17
-source-url: https://www.scoop.co.nz/stories/SC2009/S00028/christchurch-cardiac-research-group-wins-universitys-premier-award.htm
+title: Christchurch Cardiac Research Group Wins University’s Premier Award
+date: 2020-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2009/S00028/christchurch-cardiac-research-group-wins-universitys-premier-award.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/09/17/christchurch-cardiac-research-group-wins-universitys-premier-award/index.html
+layout: layout.njk
 ---
 Christchurch Cardiac Research Group Wins University’s Premier Award
 ===================================================================

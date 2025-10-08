@@ -1,9 +1,13 @@
 ---
 slug: maori-men-fare-better-than-maori-women-in-prison
-title: "Maori Men Fare Better Than Maori Women In Prison"
-date: 2001-12-06
-source-url: https://www.scoop.co.nz/stories/PO0112/S00024/maori-men-fare-better-than-maori-women-in-prison.htm
+title: Maori Men Fare Better Than Maori Women In Prison
+date: 2001-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0112/S00024/maori-men-fare-better-than-maori-women-in-prison.htm
 author: auckland-university
+permalink: >-
+  /archive/2001/12/06/maori-men-fare-better-than-maori-women-in-prison/index.html
+layout: layout.njk
 ---
 Maori Men Fare Better Than Maori Women In Prison
 ================================================

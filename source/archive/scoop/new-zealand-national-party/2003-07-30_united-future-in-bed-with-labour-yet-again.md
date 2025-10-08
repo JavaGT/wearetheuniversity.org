@@ -1,9 +1,12 @@
 ---
 slug: united-future-in-bed-with-labour-yet-again
-title: "United Future in bed with Labour yet again"
-date: 2003-07-30
-source-url: https://www.scoop.co.nz/stories/PA0307/S00537/united-future-in-bed-with-labour-yet-again.htm
+title: United Future in bed with Labour yet again
+date: 2003-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00537/united-future-in-bed-with-labour-yet-again.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/30/united-future-in-bed-with-labour-yet-again/index.html
+layout: layout.njk
 ---
 United Future in bed with Labour yet again
 ==========================================

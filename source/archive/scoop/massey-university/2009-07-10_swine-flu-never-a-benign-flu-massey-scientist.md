@@ -1,9 +1,12 @@
 ---
 slug: swine-flu-never-a-benign-flu-massey-scientist
-title: "Swine flu never a benign flu - Massey scientist"
-date: 2009-07-10
-source-url: https://www.scoop.co.nz/stories/GE0907/S00050/swine-flu-never-a-benign-flu-massey-scientist.htm
+title: Swine flu never a benign flu - Massey scientist
+date: 2009-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0907/S00050/swine-flu-never-a-benign-flu-massey-scientist.htm
 author: massey-university
+permalink: /archive/2009/07/10/swine-flu-never-a-benign-flu-massey-scientist/index.html
+layout: layout.njk
 ---
 Swine flu never a benign flu - Massey scientist
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: risk-of-complacency-in-nz-governance-says-expert
-title: "Risk of complacency in NZ governance, says expert"
-date: 2014-06-16
-source-url: https://www.scoop.co.nz/stories/PO1406/S00207/risk-of-complacency-in-nz-governance-says-expert.htm
+title: Risk of complacency in NZ governance, says expert
+date: 2014-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00207/risk-of-complacency-in-nz-governance-says-expert.htm
 author: massey-university
+permalink: >-
+  /archive/2014/06/16/risk-of-complacency-in-nz-governance-says-expert/index.html
+layout: layout.njk
 ---
 Risk of complacency in NZ governance, says expert
 =================================================

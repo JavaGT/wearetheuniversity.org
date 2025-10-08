@@ -1,9 +1,12 @@
 ---
 slug: judy-kirk-address-to-national70th-conference
-title: "Judy Kirk: Address to National70th Conference"
-date: 2006-07-23
-source-url: https://www.scoop.co.nz/stories/PA0607/S00359/judy-kirk-address-to-national70th-conference.htm
+title: 'Judy Kirk: Address to National70th Conference'
+date: 2006-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00359/judy-kirk-address-to-national70th-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/23/judy-kirk-address-to-national70th-conference/index.html
+layout: layout.njk
 ---
 Judy Kirk: Address to National70th Conference
 =============================================

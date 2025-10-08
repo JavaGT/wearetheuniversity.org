@@ -1,9 +1,13 @@
 ---
 slug: developing-new-algorithms-to-manage-biosecurity-threats
-title: "Developing New Algorithms To Manage Biosecurity Threats"
-date: 2023-05-29
-source-url: https://www.scoop.co.nz/stories/SC2305/S00056/developing-new-algorithms-to-manage-biosecurity-threats.htm
+title: Developing New Algorithms To Manage Biosecurity Threats
+date: 2023-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2305/S00056/developing-new-algorithms-to-manage-biosecurity-threats.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/05/29/developing-new-algorithms-to-manage-biosecurity-threats/index.html
+layout: layout.njk
 ---
 Developing New Algorithms To Manage Biosecurity Threats
 =======================================================

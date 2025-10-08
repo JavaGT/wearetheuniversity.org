@@ -1,8 +1,14 @@
 ---
-slug: sir-owen-glenn-gifts-$2-6-million-to-university-of-auckland-business-school-to-promote-innovation-and-entrepreneurship
-title: "Sir Owen Glenn gifts $2.6 million to University of Auckland Business School to promote innovation and entrepreneurship"
-date: 2017-02-28
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/sir-owen-glenn-gifts-to-university-of-auckland-for-innovation.html
+slug: >-
+  sir-owen-glenn-gifts--2$2-6-million-to-university-of-auckland-business-school-to-promote-innovation-and-entrepreneurship
+title: >-
+  Sir Owen Glenn gifts $2.6 million to University of Auckland Business School to
+  promote innovation and entrepreneurship
+date: 2017-02-28T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/sir-owen-glenn-gifts-to-university-of-auckland-for-innovation.html
+permalink: /archive/2017/02/28/sir-owen-glenn-gifts--2/index.html
+layout: layout.njk
 ---
 Sir Owen Glenn gifts $2.6 million to University of Auckland Business School to promote innovation and entrepreneurship
 ======================================================================================================================

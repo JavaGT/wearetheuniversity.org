@@ -1,9 +1,13 @@
 ---
 slug: regular-teen-drinking-leads-to-problems-in-adulthood
-title: "Regular teen drinking leads to problems in adulthood"
-date: 2018-07-11
-source-url: https://www.scoop.co.nz/stories/GE1807/S00043/regular-teen-drinking-leads-to-problems-in-adulthood.htm
+title: Regular teen drinking leads to problems in adulthood
+date: 2018-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00043/regular-teen-drinking-leads-to-problems-in-adulthood.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/11/regular-teen-drinking-leads-to-problems-in-adulthood/index.html
+layout: layout.njk
 ---
 Regular teen drinking leads to problems in adulthood
 ====================================================

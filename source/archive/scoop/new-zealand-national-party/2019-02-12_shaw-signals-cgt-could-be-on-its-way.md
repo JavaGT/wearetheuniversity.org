@@ -1,9 +1,12 @@
 ---
 slug: shaw-signals-cgt-could-be-on-its-way
-title: "Shaw signals CGT could be on its way"
-date: 2019-02-12
-source-url: https://www.scoop.co.nz/stories/PA1902/S00088/shaw-signals-cgt-could-be-on-its-way.htm
+title: Shaw signals CGT could be on its way
+date: 2019-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00088/shaw-signals-cgt-could-be-on-its-way.htm
 author: new-zealand-national-party
+permalink: /archive/2019/02/12/shaw-signals-cgt-could-be-on-its-way/index.html
+layout: layout.njk
 ---
 Shaw signals CGT could be on its way
 ====================================

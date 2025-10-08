@@ -1,9 +1,12 @@
 ---
 slug: airlines-discriminate-against-pregnant-women
-title: "Airlines discriminate against pregnant women"
-date: 2013-06-18
-source-url: https://www.scoop.co.nz/stories/SC1306/S00045/airlines-discriminate-against-pregnant-women.htm
+title: Airlines discriminate against pregnant women
+date: 2013-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00045/airlines-discriminate-against-pregnant-women.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/18/airlines-discriminate-against-pregnant-women/index.html
+layout: layout.njk
 ---
 Airlines discriminate against pregnant women
 ============================================

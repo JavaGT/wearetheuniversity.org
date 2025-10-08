@@ -1,9 +1,12 @@
 ---
 slug: too-much-ideology-in-nationals-energy-policy
-title: "Too Much Ideology in National’s Energy Policy"
-date: 2015-11-13
-source-url: https://www.scoop.co.nz/stories/PA1511/S00249/too-much-ideology-in-nationals-energy-policy.htm
+title: Too Much Ideology in National’s Energy Policy
+date: 2015-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00249/too-much-ideology-in-nationals-energy-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/13/too-much-ideology-in-nationals-energy-policy/index.html
+layout: layout.njk
 ---
 Too Much Ideology in National’s Energy Policy
 =============================================

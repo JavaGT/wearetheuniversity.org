@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-academic-audit-report
-title: "University of Canterbury academic audit report"
-date: 2015-03-24
-source-url: https://www.scoop.co.nz/stories/ED1503/S00096/university-of-canterbury-academic-audit-report.htm
+title: University of Canterbury academic audit report
+date: 2015-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00096/university-of-canterbury-academic-audit-report.htm
 author: academic-quality-agency-for-nz-universities
+permalink: /archive/2015/03/24/university-of-canterbury-academic-audit-report/index.html
+layout: layout.njk
 ---
 University of Canterbury academic audit report
 ==============================================

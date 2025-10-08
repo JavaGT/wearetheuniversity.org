@@ -1,9 +1,12 @@
 ---
 slug: warehouse-must-withdraw-toy-pokie-machines
-title: "Warehouse must withdraw toy pokie machines"
-date: 2002-12-06
-source-url: https://www.scoop.co.nz/stories/PA0212/S00165/warehouse-must-withdraw-toy-pokie-machines.htm
+title: Warehouse must withdraw toy pokie machines
+date: 2002-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00165/warehouse-must-withdraw-toy-pokie-machines.htm
 author: green-party
+permalink: /archive/2002/12/06/warehouse-must-withdraw-toy-pokie-machines/index.html
+layout: layout.njk
 ---
 Warehouse must withdraw toy pokie machines
 ==========================================

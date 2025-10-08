@@ -1,9 +1,12 @@
 ---
 slug: a-green-new-deal-for-aotearoa
-title: "A Green New Deal for Aotearoa?"
-date: 2008-12-11
-source-url: https://www.scoop.co.nz/stories/PO0812/S00169/a-green-new-deal-for-aotearoa.htm
+title: A Green New Deal for Aotearoa?
+date: 2008-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0812/S00169/a-green-new-deal-for-aotearoa.htm
 author: green-party
+permalink: /archive/2008/12/11/a-green-new-deal-for-aotearoa/index.html
+layout: layout.njk
 ---
 A Green New Deal for Aotearoa?
 ==============================

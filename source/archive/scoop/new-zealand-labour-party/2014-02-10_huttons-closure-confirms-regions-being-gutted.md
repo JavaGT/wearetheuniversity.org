@@ -1,9 +1,12 @@
 ---
 slug: huttons-closure-confirms-regions-being-gutted
-title: "Huttons closure confirms regions being gutted"
-date: 2014-02-10
-source-url: https://www.scoop.co.nz/stories/PA1402/S00092/huttons-closure-confirms-regions-being-gutted.htm
+title: Huttons closure confirms regions being gutted
+date: 2014-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00092/huttons-closure-confirms-regions-being-gutted.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/10/huttons-closure-confirms-regions-being-gutted/index.html
+layout: layout.njk
 ---
 Huttons closure confirms regions being gutted
 =============================================

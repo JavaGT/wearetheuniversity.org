@@ -1,9 +1,12 @@
 ---
 slug: a-wananga-is-not-a-university
-title: "A Wananga Is Not A University"
-date: 2003-10-21
-source-url: https://www.scoop.co.nz/stories/ED0310/S00090/a-wananga-is-not-a-university.htm
+title: A Wananga Is Not A University
+date: 2003-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00090/a-wananga-is-not-a-university.htm
 author: vice-chancellors-committee
+permalink: /archive/2003/10/21/a-wananga-is-not-a-university/index.html
+layout: layout.njk
 ---
 A Wananga Is Not A University
 =============================

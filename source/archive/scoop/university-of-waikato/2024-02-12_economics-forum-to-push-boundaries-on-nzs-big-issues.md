@@ -1,9 +1,13 @@
 ---
 slug: economics-forum-to-push-boundaries-on-nzs-big-issues
-title: "Economics Forum To Push Boundaries On NZ’s Big Issues"
-date: 2024-02-12
-source-url: https://www.scoop.co.nz/stories/PO2402/S00059/economics-forum-to-push-boundaries-on-nzs-big-issues.htm
+title: Economics Forum To Push Boundaries On NZ’s Big Issues
+date: 2024-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2402/S00059/economics-forum-to-push-boundaries-on-nzs-big-issues.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2024/02/12/economics-forum-to-push-boundaries-on-nzs-big-issues/index.html
+layout: layout.njk
 ---
 Economics Forum To Push Boundaries On NZ’s Big Issues
 =====================================================

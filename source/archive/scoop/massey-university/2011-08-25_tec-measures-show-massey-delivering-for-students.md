@@ -1,9 +1,13 @@
 ---
 slug: tec-measures-show-massey-delivering-for-students
-title: "TEC measures show Massey delivering for students"
-date: 2011-08-25
-source-url: https://www.scoop.co.nz/stories/ED1108/S00131/tec-measures-show-massey-delivering-for-students.htm
+title: TEC measures show Massey delivering for students
+date: 2011-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00131/tec-measures-show-massey-delivering-for-students.htm
 author: massey-university
+permalink: >-
+  /archive/2011/08/25/tec-measures-show-massey-delivering-for-students/index.html
+layout: layout.njk
 ---
 TEC measures show Massey delivering for students
 ================================================

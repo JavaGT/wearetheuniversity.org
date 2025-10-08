@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-patients-first-minister
-title: "New Zealand Patients First, Minister"
-date: 2003-08-28
-source-url: https://www.scoop.co.nz/stories/PA0308/S00549/new-zealand-patients-first-minister.htm
+title: New Zealand Patients First, Minister
+date: 2003-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00549/new-zealand-patients-first-minister.htm
 author: act-new-zealand
+permalink: /archive/2003/08/28/new-zealand-patients-first-minister/index.html
+layout: layout.njk
 ---
 New Zealand Patients First, Minister
 ====================================

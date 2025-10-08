@@ -1,9 +1,12 @@
 ---
 slug: sex-sweat-and-success-at-the-rio-olympics
-title: "Sex, sweat and success at the Rio Olympics"
-date: 2016-08-03
-source-url: https://www.scoop.co.nz/stories/GE1608/S00021/sex-sweat-and-success-at-the-rio-olympics.htm
+title: Sex, sweat and success at the Rio Olympics
+date: 2016-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00021/sex-sweat-and-success-at-the-rio-olympics.htm
 author: massey-university
+permalink: /archive/2016/08/03/sex-sweat-and-success-at-the-rio-olympics/index.html
+layout: layout.njk
 ---
 Sex, sweat and success at the Rio Olympics
 ==========================================

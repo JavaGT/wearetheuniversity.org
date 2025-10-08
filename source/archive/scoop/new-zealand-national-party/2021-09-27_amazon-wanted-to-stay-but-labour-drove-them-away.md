@@ -1,9 +1,13 @@
 ---
 slug: amazon-wanted-to-stay-but-labour-drove-them-away
-title: "Amazon Wanted To Stay, But Labour Drove Them Away"
-date: 2021-09-27
-source-url: https://www.scoop.co.nz/stories/PA2109/S00233/amazon-wanted-to-stay-but-labour-drove-them-away.htm
+title: Amazon Wanted To Stay, But Labour Drove Them Away
+date: 2021-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00233/amazon-wanted-to-stay-but-labour-drove-them-away.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/27/amazon-wanted-to-stay-but-labour-drove-them-away/index.html
+layout: layout.njk
 ---
 Amazon Wanted To Stay, But Labour Drove Them Away
 =================================================

@@ -1,8 +1,11 @@
 ---
 slug: students-to-forge-links-with-latin-america
-title: "Students to forge links with Latin America"
-date: 2017-08-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/students-to-forge-links-with-latin-america.html
+title: Students to forge links with Latin America
+date: 2017-08-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/students-to-forge-links-with-latin-america.html
+permalink: /archive/2017/08/14/students-to-forge-links-with-latin-america/index.html
+layout: layout.njk
 ---
 Students to forge links with Latin America
 ==========================================

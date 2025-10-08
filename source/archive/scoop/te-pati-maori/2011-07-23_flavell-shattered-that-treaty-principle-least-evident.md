@@ -1,9 +1,13 @@
 ---
 slug: flavell-shattered-that-treaty-principle-least-evident
-title: "Flavell 'shattered' that Treaty principle 'least evident'"
-date: 2011-07-23
-source-url: https://www.scoop.co.nz/stories/PA1107/S00388/flavell-shattered-that-treaty-principle-least-evident.htm
+title: Flavell 'shattered' that Treaty principle 'least evident'
+date: 2011-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00388/flavell-shattered-that-treaty-principle-least-evident.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/07/23/flavell-shattered-that-treaty-principle-least-evident/index.html
+layout: layout.njk
 ---
 Flavell 'shattered' that Treaty principle 'least evident'
 =========================================================

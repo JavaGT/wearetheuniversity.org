@@ -1,9 +1,12 @@
 ---
 slug: production-pause-deals-blow-to-pasifika
-title: "Production \"pause\" Deals Blow To Pasifika"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/ED1010/S00053/production-pause-deals-blow-to-pasifika.htm
+title: Production "pause" Deals Blow To Pasifika
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00053/production-pause-deals-blow-to-pasifika.htm
 author: nzei
+permalink: /archive/2010/10/15/production-pause-deals-blow-to-pasifika/index.html
+layout: layout.njk
 ---
 Production “pause” Deals Blow To Pasifika
 =========================================

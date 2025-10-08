@@ -1,9 +1,11 @@
 ---
 slug: a-rotten-shame-english
-title: "A rotten shame - English"
-date: 2002-10-01
+title: A rotten shame - English
+date: 2002-10-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0210/S00020/a-rotten-shame-english.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/01/a-rotten-shame-english/index.html
+layout: layout.njk
 ---
 A rotten shame - English
 ========================

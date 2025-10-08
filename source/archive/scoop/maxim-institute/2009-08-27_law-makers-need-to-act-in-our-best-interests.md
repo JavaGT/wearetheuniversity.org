@@ -1,9 +1,12 @@
 ---
 slug: law-makers-need-to-act-in-our-best-interests
-title: "Law Makers Need To Act In Our Best Interests"
-date: 2009-08-27
-source-url: https://www.scoop.co.nz/stories/PO0908/S00358/law-makers-need-to-act-in-our-best-interests.htm
+title: Law Makers Need To Act In Our Best Interests
+date: 2009-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00358/law-makers-need-to-act-in-our-best-interests.htm
 author: maxim-institute
+permalink: /archive/2009/08/27/law-makers-need-to-act-in-our-best-interests/index.html
+layout: layout.njk
 ---
 Law Makers Need To Act In Our Best Interests
 ============================================

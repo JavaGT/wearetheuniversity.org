@@ -1,9 +1,12 @@
 ---
 slug: pm-must-sort-teachers-strike-shambles
-title: "PM Must Sort Teachers' Strike Shambles"
-date: 2002-04-16
-source-url: https://www.scoop.co.nz/stories/PA0204/S00226/pm-must-sort-teachers-strike-shambles.htm
+title: PM Must Sort Teachers' Strike Shambles
+date: 2002-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00226/pm-must-sort-teachers-strike-shambles.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/16/pm-must-sort-teachers-strike-shambles/index.html
+layout: layout.njk
 ---
 PM Must Sort Teachers' Strike Shambles
 ======================================

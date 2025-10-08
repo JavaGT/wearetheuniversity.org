@@ -1,9 +1,12 @@
 ---
 slug: state-house-fraud-not-isolated-so-how-many
-title: "State house fraud not isolated - so how many?"
-date: 2006-10-18
-source-url: https://www.scoop.co.nz/stories/PA0610/S00357/state-house-fraud-not-isolated-so-how-many.htm
+title: State house fraud not isolated - so how many?
+date: 2006-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00357/state-house-fraud-not-isolated-so-how-many.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/18/state-house-fraud-not-isolated-so-how-many/index.html
+layout: layout.njk
 ---
 State house fraud not isolated - so how many?
 =============================================

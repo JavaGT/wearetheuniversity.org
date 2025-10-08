@@ -1,9 +1,12 @@
 ---
 slug: new-consumer-and-sensory-science-facility
-title: "New consumer and sensory science facility"
-date: 2018-09-28
-source-url: https://www.scoop.co.nz/stories/ED1809/S00079/new-consumer-and-sensory-science-facility.htm
+title: New consumer and sensory science facility
+date: 2018-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00079/new-consumer-and-sensory-science-facility.htm
 author: massey-university
+permalink: /archive/2018/09/28/new-consumer-and-sensory-science-facility/index.html
+layout: layout.njk
 ---
 New consumer and sensory science facility
 =========================================

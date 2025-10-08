@@ -1,9 +1,13 @@
 ---
 slug: answers-needed-to-solve-nzs-food-waste-management
-title: "Answers needed to solve NZ’s food waste management"
-date: 2013-08-05
-source-url: https://www.scoop.co.nz/stories/AK1308/S00093/answers-needed-to-solve-nzs-food-waste-management.htm
+title: Answers needed to solve NZ’s food waste management
+date: 2013-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00093/answers-needed-to-solve-nzs-food-waste-management.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/05/answers-needed-to-solve-nzs-food-waste-management/index.html
+layout: layout.njk
 ---
 Answers needed to solve NZ’s food waste management
 ==================================================

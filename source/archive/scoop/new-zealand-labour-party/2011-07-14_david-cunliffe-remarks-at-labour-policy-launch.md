@@ -1,9 +1,12 @@
 ---
 slug: david-cunliffe-remarks-at-labour-policy-launch
-title: "David Cunliffe Remarks at Labour Policy Launch"
-date: 2011-07-14
-source-url: https://www.scoop.co.nz/stories/PA1107/S00270/david-cunliffe-remarks-at-labour-policy-launch.htm
+title: David Cunliffe Remarks at Labour Policy Launch
+date: 2011-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00270/david-cunliffe-remarks-at-labour-policy-launch.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/14/david-cunliffe-remarks-at-labour-policy-launch/index.html
+layout: layout.njk
 ---
 David Cunliffe Remarks at Labour Policy Launch
 ==============================================

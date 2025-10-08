@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-4-july-2008
-title: "News Worthy, 4 July 2008"
-date: 2008-07-04
+title: News Worthy, 4 July 2008
+date: 2008-07-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0807/S00113/news-worthy-4-july-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/04/news-worthy-4-july-2008/index.html
+layout: layout.njk
 ---
 News Worthy, 4 July 2008
 ========================

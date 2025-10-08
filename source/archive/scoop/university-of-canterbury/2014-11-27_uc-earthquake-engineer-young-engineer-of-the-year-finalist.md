@@ -1,9 +1,13 @@
 ---
 slug: uc-earthquake-engineer-young-engineer-of-the-year-finalist
-title: "UC earthquake engineer Young Engineer of the Year finalist"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/ED1411/S00168/uc-earthquake-engineer-young-engineer-of-the-year-finalist.htm
+title: UC earthquake engineer Young Engineer of the Year finalist
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00168/uc-earthquake-engineer-young-engineer-of-the-year-finalist.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/27/uc-earthquake-engineer-young-engineer-of-the-year-finalist/index.html
+layout: layout.njk
 ---
 UC earthquake engineer Young Engineer of the Year finalist
 ==========================================================

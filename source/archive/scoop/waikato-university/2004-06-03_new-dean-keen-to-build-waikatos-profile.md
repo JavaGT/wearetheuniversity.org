@@ -1,9 +1,12 @@
 ---
 slug: new-dean-keen-to-build-waikatos-profile
-title: "New Dean keen to build Waikato’s profile"
-date: 2004-06-03
-source-url: https://www.scoop.co.nz/stories/ED0406/S00017/new-dean-keen-to-build-waikatos-profile.htm
+title: New Dean keen to build Waikato’s profile
+date: 2004-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00017/new-dean-keen-to-build-waikatos-profile.htm
 author: waikato-university
+permalink: /archive/2004/06/03/new-dean-keen-to-build-waikatos-profile/index.html
+layout: layout.njk
 ---
 New Dean keen to build Waikato’s profile
 ========================================

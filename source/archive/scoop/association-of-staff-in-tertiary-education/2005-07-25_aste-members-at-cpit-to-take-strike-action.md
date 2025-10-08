@@ -1,9 +1,12 @@
 ---
 slug: aste-members-at-cpit-to-take-strike-action
-title: "ASTE Members at CPIT to take Strike Action"
-date: 2005-07-25
-source-url: https://www.scoop.co.nz/stories/ED0507/S00093/aste-members-at-cpit-to-take-strike-action.htm
+title: ASTE Members at CPIT to take Strike Action
+date: 2005-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00093/aste-members-at-cpit-to-take-strike-action.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/07/25/aste-members-at-cpit-to-take-strike-action/index.html
+layout: layout.njk
 ---
 ASTE Members at CPIT to take Strike Action
 ==========================================

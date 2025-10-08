@@ -1,9 +1,13 @@
 ---
 slug: flawed-pig-meat-import-standards-must-be-dropped-peters
-title: "Flawed Pig Meat Import Standards Must Be Dropped – Peters"
-date: 2012-05-11
-source-url: https://www.scoop.co.nz/stories/PA1205/S00204/flawed-pig-meat-import-standards-must-be-dropped-peters.htm
+title: Flawed Pig Meat Import Standards Must Be Dropped – Peters
+date: 2012-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00204/flawed-pig-meat-import-standards-must-be-dropped-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/05/11/flawed-pig-meat-import-standards-must-be-dropped-peters/index.html
+layout: layout.njk
 ---
 Flawed Pig Meat Import Standards Must Be Dropped – Peters
 =========================================================

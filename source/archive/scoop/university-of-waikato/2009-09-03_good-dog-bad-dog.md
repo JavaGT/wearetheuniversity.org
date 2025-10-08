@@ -1,9 +1,11 @@
 ---
 slug: good-dog-bad-dog
-title: "Good dog, Bad dog"
-date: 2009-09-03
+title: Good dog, Bad dog
+date: 2009-09-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0909/S00013/good-dog-bad-dog.htm
 author: university-of-waikato
+permalink: /archive/2009/09/03/good-dog-bad-dog/index.html
+layout: layout.njk
 ---
 Good dog, Bad dog
 =================

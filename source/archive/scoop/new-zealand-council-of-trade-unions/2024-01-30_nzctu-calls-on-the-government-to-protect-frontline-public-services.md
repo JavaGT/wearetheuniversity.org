@@ -1,9 +1,13 @@
 ---
 slug: nzctu-calls-on-the-government-to-protect-frontline-public-services
-title: "NZCTU Calls On The Government To Protect Frontline Public Services"
-date: 2024-01-30
-source-url: https://www.scoop.co.nz/stories/PO2401/S00084/nzctu-calls-on-the-government-to-protect-frontline-public-services.htm
+title: NZCTU Calls On The Government To Protect Frontline Public Services
+date: 2024-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2401/S00084/nzctu-calls-on-the-government-to-protect-frontline-public-services.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2024/01/30/nzctu-calls-on-the-government-to-protect-frontline-public-services/index.html
+layout: layout.njk
 ---
 NZCTU Calls On The Government To Protect Frontline Public Services
 ==================================================================

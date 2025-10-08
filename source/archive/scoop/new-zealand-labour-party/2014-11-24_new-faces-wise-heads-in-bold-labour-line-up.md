@@ -1,9 +1,12 @@
 ---
 slug: new-faces-wise-heads-in-bold-labour-line-up
-title: "New faces, wise heads in bold Labour line up"
-date: 2014-11-24
-source-url: https://www.scoop.co.nz/stories/PA1411/S00285/new-faces-wise-heads-in-bold-labour-line-up.htm
+title: New faces, wise heads in bold Labour line up
+date: 2014-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00285/new-faces-wise-heads-in-bold-labour-line-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/24/new-faces-wise-heads-in-bold-labour-line-up/index.html
+layout: layout.njk
 ---
 New faces, wise heads in bold Labour line up
 ============================================

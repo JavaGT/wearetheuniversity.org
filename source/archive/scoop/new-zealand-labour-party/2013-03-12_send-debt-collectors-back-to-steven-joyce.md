@@ -1,9 +1,12 @@
 ---
 slug: send-debt-collectors-back-to-steven-joyce
-title: "Send debt collectors back to Steven Joyce"
-date: 2013-03-12
-source-url: https://www.scoop.co.nz/stories/PA1303/S00196/send-debt-collectors-back-to-steven-joyce.htm
+title: Send debt collectors back to Steven Joyce
+date: 2013-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00196/send-debt-collectors-back-to-steven-joyce.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/12/send-debt-collectors-back-to-steven-joyce/index.html
+layout: layout.njk
 ---
 Send debt collectors back to Steven Joyce
 =========================================

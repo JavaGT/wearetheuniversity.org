@@ -1,8 +1,11 @@
 ---
 slug: academics-film-on-kim-dotcom-up-for-award
-title: "Academic's film on Kim Dotcom up for award"
-date: 2017-11-13
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/academic-s-film-on-kim-dotcom-up-for-award.html
+title: Academic's film on Kim Dotcom up for award
+date: 2017-11-13T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/academic-s-film-on-kim-dotcom-up-for-award.html
+permalink: /archive/2017/11/13/academics-film-on-kim-dotcom-up-for-award/index.html
+layout: layout.njk
 ---
 Academic's film on Kim Dotcom up for award
 ==========================================

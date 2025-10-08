@@ -1,9 +1,12 @@
 ---
 slug: older-kiwis-to-miss-out-on-electives
-title: "Older Kiwis to miss out on electives"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/PA1605/S00360/older-kiwis-to-miss-out-on-electives.htm
+title: Older Kiwis to miss out on electives
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00360/older-kiwis-to-miss-out-on-electives.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/19/older-kiwis-to-miss-out-on-electives/index.html
+layout: layout.njk
 ---
 Older Kiwis to miss out on electives
 ====================================

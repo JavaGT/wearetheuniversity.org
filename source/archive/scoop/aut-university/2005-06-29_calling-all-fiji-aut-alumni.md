@@ -1,9 +1,11 @@
 ---
 slug: calling-all-fiji-aut-alumni
-title: "Calling all Fiji AUT alumni"
-date: 2005-06-29
+title: Calling all Fiji AUT alumni
+date: 2005-06-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0506/S00081/calling-all-fiji-aut-alumni.htm
 author: aut-university
+permalink: /archive/2005/06/29/calling-all-fiji-aut-alumni/index.html
+layout: layout.njk
 ---
 Calling all Fiji AUT alumni
 ===========================

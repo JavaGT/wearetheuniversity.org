@@ -1,9 +1,12 @@
 ---
 slug: commitment-to-social-equity-wins-recognition
-title: "Commitment to social equity wins recognition"
-date: 2009-08-25
-source-url: https://www.scoop.co.nz/stories/CU0908/S00405/commitment-to-social-equity-wins-recognition.htm
+title: Commitment to social equity wins recognition
+date: 2009-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0908/S00405/commitment-to-social-equity-wins-recognition.htm
 author: university-of-waikato
+permalink: /archive/2009/08/25/commitment-to-social-equity-wins-recognition/index.html
+layout: layout.njk
 ---
 Commitment to social equity wins recognition
 ============================================

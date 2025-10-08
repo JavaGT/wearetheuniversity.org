@@ -1,9 +1,12 @@
 ---
 slug: young-brains-provide-fresh-business-ideas
-title: "Young brains provide fresh business ideas"
-date: 2015-08-11
-source-url: https://www.scoop.co.nz/stories/ED1508/S00034/young-brains-provide-fresh-business-ideas.htm
+title: Young brains provide fresh business ideas
+date: 2015-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00034/young-brains-provide-fresh-business-ideas.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/08/11/young-brains-provide-fresh-business-ideas/index.html
+layout: layout.njk
 ---
 Young brains provide fresh business ideas
 =========================================

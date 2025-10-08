@@ -1,9 +1,13 @@
 ---
 slug: victoria-and-vietnamese-university-sign-agreement
-title: "Victoria and Vietnamese University sign Agreement"
-date: 2004-05-20
-source-url: https://www.scoop.co.nz/stories/ED0405/S00072/victoria-and-vietnamese-university-sign-agreement.htm
+title: Victoria and Vietnamese University sign Agreement
+date: 2004-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00072/victoria-and-vietnamese-university-sign-agreement.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/05/20/victoria-and-vietnamese-university-sign-agreement/index.html
+layout: layout.njk
 ---
 Victoria and Vietnamese University sign Agreement
 =================================================

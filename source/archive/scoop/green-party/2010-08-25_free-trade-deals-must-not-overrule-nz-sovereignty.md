@@ -1,9 +1,13 @@
 ---
 slug: free-trade-deals-must-not-overrule-nz-sovereignty
-title: "Free trade deals must not overrule NZ sovereignty"
-date: 2010-08-25
-source-url: https://www.scoop.co.nz/stories/PA1008/S00367/free-trade-deals-must-not-overrule-nz-sovereignty.htm
+title: Free trade deals must not overrule NZ sovereignty
+date: 2010-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00367/free-trade-deals-must-not-overrule-nz-sovereignty.htm
 author: green-party
+permalink: >-
+  /archive/2010/08/25/free-trade-deals-must-not-overrule-nz-sovereignty/index.html
+layout: layout.njk
 ---
 Free trade deals must not overrule NZ sovereignty
 =================================================

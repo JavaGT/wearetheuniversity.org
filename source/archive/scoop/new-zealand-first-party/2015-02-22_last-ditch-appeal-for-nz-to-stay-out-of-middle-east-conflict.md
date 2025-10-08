@@ -1,9 +1,13 @@
 ---
 slug: last-ditch-appeal-for-nz-to-stay-out-of-middle-east-conflict
-title: "Last Ditch Appeal for NZ to Stay Out of Middle East Conflict"
-date: 2015-02-22
-source-url: https://www.scoop.co.nz/stories/PA1502/S00258/last-ditch-appeal-for-nz-to-stay-out-of-middle-east-conflict.htm
+title: Last Ditch Appeal for NZ to Stay Out of Middle East Conflict
+date: 2015-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00258/last-ditch-appeal-for-nz-to-stay-out-of-middle-east-conflict.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/02/22/last-ditch-appeal-for-nz-to-stay-out-of-middle-east-conflict/index.html
+layout: layout.njk
 ---
 Last Ditch Appeal for NZ to Stay Out of Middle East Conflict
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-must-front-over-south-is-cancer-failings
-title: "Labour must front over South Is. cancer failings"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/PA0807/S00357/labour-must-front-over-south-is-cancer-failings.htm
+title: Labour must front over South Is. cancer failings
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00357/labour-must-front-over-south-is-cancer-failings.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/21/labour-must-front-over-south-is-cancer-failings/index.html
+layout: layout.njk
 ---
 Labour must front over South Is. cancer failings
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: law-students-deconstructing-climate-change
-title: "Law students deconstructing climate change"
-date: 2015-05-20
-source-url: https://www.scoop.co.nz/stories/SC1505/S00055/law-students-deconstructing-climate-change.htm
+title: Law students deconstructing climate change
+date: 2015-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00055/law-students-deconstructing-climate-change.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/05/20/law-students-deconstructing-climate-change/index.html
+layout: layout.njk
 ---
 Law students deconstructing climate change
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-launches-mean-spirited-attack
-title: "Government Launches Mean Spirited Attack"
-date: 2002-07-11
-source-url: https://www.scoop.co.nz/stories/ED0207/S00020/government-launches-mean-spirited-attack.htm
+title: Government Launches Mean Spirited Attack
+date: 2002-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00020/government-launches-mean-spirited-attack.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/11/government-launches-mean-spirited-attack/index.html
+layout: layout.njk
 ---
 Government Launches Mean Spirited Attack
 ========================================

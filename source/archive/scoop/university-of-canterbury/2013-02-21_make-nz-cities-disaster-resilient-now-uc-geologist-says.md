@@ -1,9 +1,13 @@
 ---
 slug: make-nz-cities-disaster-resilient-now-uc-geologist-says
-title: "Make NZ cities disaster resilient now, UC geologist says"
-date: 2013-02-21
-source-url: https://www.scoop.co.nz/stories/SC1302/S00052/make-nz-cities-disaster-resilient-now-uc-geologist-says.htm
+title: Make NZ cities disaster resilient now, UC geologist says
+date: 2013-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1302/S00052/make-nz-cities-disaster-resilient-now-uc-geologist-says.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/21/make-nz-cities-disaster-resilient-now-uc-geologist-says/index.html
+layout: layout.njk
 ---
 Make NZ cities disaster resilient now, UC geologist says
 ========================================================

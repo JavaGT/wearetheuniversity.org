@@ -1,9 +1,12 @@
 ---
 slug: medical-device-wins-otago-university-lecturer-$50000-prize
-title: "Medical device wins Otago University lecturer $50,000 prize"
-date: 2012-08-22
-source-url: https://www.scoop.co.nz/stories/ED1208/S00110/medical-device-wins-otago-university-lecturer-50000-prize.htm
+title: Medical device wins Otago University lecturer $50,000 prize
+date: 2012-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00110/medical-device-wins-otago-university-lecturer-50000-prize.htm
 author: university-of-otago
+permalink: /archive/2012/08/22/medical-device-wins-otago-university-lecturer-/index.html
+layout: layout.njk
 ---
 Medical device wins Otago University lecturer $50,000 prize
 ===========================================================

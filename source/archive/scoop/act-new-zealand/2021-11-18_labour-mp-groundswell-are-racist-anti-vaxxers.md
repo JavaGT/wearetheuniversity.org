@@ -1,9 +1,12 @@
 ---
 slug: labour-mp-groundswell-are-racist-anti-vaxxers
-title: "Labour MP: Groundswell Are Racist Anti-vaxxers"
-date: 2021-11-18
-source-url: https://www.scoop.co.nz/stories/PA2111/S00217/labour-mp-groundswell-are-racist-anti-vaxxers.htm
+title: 'Labour MP: Groundswell Are Racist Anti-vaxxers'
+date: 2021-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00217/labour-mp-groundswell-are-racist-anti-vaxxers.htm
 author: act-new-zealand
+permalink: /archive/2021/11/18/labour-mp-groundswell-are-racist-anti-vaxxers/index.html
+layout: layout.njk
 ---
 Labour MP: Groundswell Are Racist Anti-vaxxers
 ==============================================

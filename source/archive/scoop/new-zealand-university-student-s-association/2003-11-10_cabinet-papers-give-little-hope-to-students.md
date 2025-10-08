@@ -1,9 +1,12 @@
 ---
 slug: cabinet-papers-give-little-hope-to-students
-title: "Cabinet papers give little hope to students"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/ED0311/S00028/cabinet-papers-give-little-hope-to-students.htm
+title: Cabinet papers give little hope to students
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00028/cabinet-papers-give-little-hope-to-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/11/10/cabinet-papers-give-little-hope-to-students/index.html
+layout: layout.njk
 ---
 Cabinet papers give little hope to students
 ===========================================

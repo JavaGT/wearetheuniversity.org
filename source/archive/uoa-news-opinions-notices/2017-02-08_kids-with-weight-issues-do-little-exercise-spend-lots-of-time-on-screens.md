@@ -1,8 +1,12 @@
 ---
 slug: kids-with-weight-issues-do-little-exercise-spend-lots-of-time-on-screens
-title: "Kids with weight issues do little exercise, spend lots of time on screens"
-date: 2017-02-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/kids-with-weight-issues-do-little-exercise--spend-lots-of-time-o.html
+title: Kids with weight issues do little exercise, spend lots of time on screens
+date: 2017-02-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/kids-with-weight-issues-do-little-exercise--spend-lots-of-time-o.html
+permalink: >-
+  /archive/2017/02/08/kids-with-weight-issues-do-little-exercise-spend-lots-of-time-on-screens/index.html
+layout: layout.njk
 ---
 Kids with weight issues do little exercise, spend lots of time on screens
 =========================================================================

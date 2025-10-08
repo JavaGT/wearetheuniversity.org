@@ -1,9 +1,12 @@
 ---
 slug: rugby-coaching-art-of-science
-title: "Rugby coaching: Art of science?"
-date: 2006-07-27
-source-url: https://www.scoop.co.nz/stories/ED0607/S00082/rugby-coaching-art-of-science.htm
+title: 'Rugby coaching: Art of science?'
+date: 2006-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00082/rugby-coaching-art-of-science.htm
 author: massey-university
+permalink: /archive/2006/07/27/rugby-coaching-art-of-science/index.html
+layout: layout.njk
 ---
 Rugby coaching: Art of science?
 ===============================

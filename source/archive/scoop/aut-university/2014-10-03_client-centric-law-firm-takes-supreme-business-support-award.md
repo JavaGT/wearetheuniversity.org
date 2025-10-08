@@ -1,9 +1,13 @@
 ---
 slug: client-centric-law-firm-takes-supreme-business-support-award
-title: "Client-centric law firm takes Supreme Business Support Award"
-date: 2014-10-03
-source-url: https://www.scoop.co.nz/stories/BU1410/S00128/client-centric-law-firm-takes-supreme-business-support-award.htm
+title: Client-centric law firm takes Supreme Business Support Award
+date: 2014-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1410/S00128/client-centric-law-firm-takes-supreme-business-support-award.htm
 author: aut-university
+permalink: >-
+  /archive/2014/10/03/client-centric-law-firm-takes-supreme-business-support-award/index.html
+layout: layout.njk
 ---
 Client-centric law firm takes Supreme Business Support Award
 ============================================================

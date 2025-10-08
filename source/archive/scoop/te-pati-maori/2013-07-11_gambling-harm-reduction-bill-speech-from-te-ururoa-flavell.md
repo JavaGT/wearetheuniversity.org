@@ -1,9 +1,13 @@
 ---
 slug: gambling-harm-reduction-bill-speech-from-te-ururoa-flavell
-title: "Gambling Harm Reduction Bill - Speech from Te Ururoa Flavell"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/PA1307/S00183/gambling-harm-reduction-bill-speech-from-te-ururoa-flavell.htm
+title: Gambling Harm Reduction Bill - Speech from Te Ururoa Flavell
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00183/gambling-harm-reduction-bill-speech-from-te-ururoa-flavell.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/07/11/gambling-harm-reduction-bill-speech-from-te-ururoa-flavell/index.html
+layout: layout.njk
 ---
 Gambling Harm Reduction Bill - Speech from Te Ururoa Flavell
 ============================================================

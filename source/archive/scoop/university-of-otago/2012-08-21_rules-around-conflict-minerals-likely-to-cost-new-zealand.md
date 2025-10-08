@@ -1,9 +1,13 @@
 ---
 slug: rules-around-conflict-minerals-likely-to-cost-new-zealand
-title: "Rules around \"conflict minerals\" likely to cost New Zealand"
-date: 2012-08-21
-source-url: https://www.scoop.co.nz/stories/PO1208/S00312/rules-around-conflict-minerals-likely-to-cost-new-zealand.htm
+title: Rules around "conflict minerals" likely to cost New Zealand
+date: 2012-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00312/rules-around-conflict-minerals-likely-to-cost-new-zealand.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/08/21/rules-around-conflict-minerals-likely-to-cost-new-zealand/index.html
+layout: layout.njk
 ---
 Rules around “conflict minerals” likely to cost New Zealand
 ===========================================================

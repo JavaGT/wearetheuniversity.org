@@ -1,9 +1,12 @@
 ---
 slug: cancer-patient-waiting-lists-multiplying
-title: "Cancer patient waiting lists multiplying"
-date: 2001-02-26
-source-url: https://www.scoop.co.nz/stories/PA0102/S00387/cancer-patient-waiting-lists-multiplying.htm
+title: Cancer patient waiting lists multiplying
+date: 2001-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00387/cancer-patient-waiting-lists-multiplying.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/26/cancer-patient-waiting-lists-multiplying/index.html
+layout: layout.njk
 ---
 Cancer patient waiting lists multiplying
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: three-strikes-law-working
-title: "Three Strikes Law Working"
-date: 2012-09-09
+title: Three Strikes Law Working
+date: 2012-09-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1209/S00109/three-strikes-law-working.htm
 author: act-new-zealand
+permalink: /archive/2012/09/09/three-strikes-law-working/index.html
+layout: layout.njk
 ---
 Three Strikes Law Working
 =========================

@@ -1,8 +1,12 @@
 ---
 slug: could-mothers-bacteria-protect-c-section-babies-from-obesity-risk
-title: "Could mothers’ bacteria protect c-section babies from obesity risk?"
-date: 2017-04-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/could-mothers-bacteria-protect-c-section-babies-from-obesity-risk.html
+title: Could mothers’ bacteria protect c-section babies from obesity risk?
+date: 2017-04-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/could-mothers-bacteria-protect-c-section-babies-from-obesity-risk.html
+permalink: >-
+  /archive/2017/04/11/could-mothers-bacteria-protect-c-section-babies-from-obesity-risk/index.html
+layout: layout.njk
 ---
 Could mothers’ bacteria protect c-section babies from obesity risk?
 ===================================================================

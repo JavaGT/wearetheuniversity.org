@@ -1,9 +1,13 @@
 ---
 slug: labour-must-rule-out-lowering-education-standards
-title: "Labour Must Rule Out Lowering Education Standards"
-date: 2023-03-06
-source-url: https://www.scoop.co.nz/stories/PA2303/S00038/labour-must-rule-out-lowering-education-standards.htm
+title: Labour Must Rule Out Lowering Education Standards
+date: 2023-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00038/labour-must-rule-out-lowering-education-standards.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/06/labour-must-rule-out-lowering-education-standards/index.html
+layout: layout.njk
 ---
 Labour Must Rule Out Lowering Education Standards
 =================================================

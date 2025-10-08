@@ -1,9 +1,12 @@
 ---
 slug: notice-of-motion-vote-audit;-vote-ombudsmen-etc
-title: "Notice of Motion: Vote Audit; Vote Ombudsmen etc"
-date: 2006-04-06
-source-url: https://www.scoop.co.nz/stories/PA0604/S00102/notice-of-motion-vote-audit-vote-ombudsmen-etc.htm
+title: 'Notice of Motion: Vote Audit; Vote Ombudsmen etc'
+date: 2006-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00102/notice-of-motion-vote-audit-vote-ombudsmen-etc.htm
 author: te-pati-maori
+permalink: /archive/2006/04/06/notice-of-motion-vote-audit/index.html
+layout: layout.njk
 ---
 Notice of Motion: Vote Audit; Vote Ombudsmen etc
 ================================================

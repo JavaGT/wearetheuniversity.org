@@ -1,9 +1,12 @@
 ---
 slug: real-performance-of-schools-hidden-from-parents
-title: "Real performance of schools hidden from parents"
-date: 2006-10-04
-source-url: https://www.scoop.co.nz/stories/PA0610/S00061/real-performance-of-schools-hidden-from-parents.htm
+title: Real performance of schools hidden from parents
+date: 2006-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00061/real-performance-of-schools-hidden-from-parents.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/04/real-performance-of-schools-hidden-from-parents/index.html
+layout: layout.njk
 ---
 Real performance of schools hidden from parents
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: ibm-survey-says-commuters-want-green-transport
-title: "IBM survey says commuters want green transport"
-date: 2010-12-14
-source-url: https://www.scoop.co.nz/stories/PA1012/S00234/ibm-survey-says-commuters-want-green-transport.htm
+title: IBM survey says commuters want green transport
+date: 2010-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00234/ibm-survey-says-commuters-want-green-transport.htm
 author: green-party
+permalink: /archive/2010/12/14/ibm-survey-says-commuters-want-green-transport/index.html
+layout: layout.njk
 ---
 IBM survey says commuters want green transport
 ==============================================

@@ -1,9 +1,11 @@
 ---
 slug: immigration-in-perspective
-title: "Immigration In Perspective"
-date: 2002-05-15
+title: Immigration In Perspective
+date: 2002-05-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0205/S00305/immigration-in-perspective.htm
 author: new-zealand-first-party
+permalink: /archive/2002/05/15/immigration-in-perspective/index.html
+layout: layout.njk
 ---
 Immigration In Perspective
 ==========================

@@ -1,9 +1,13 @@
 ---
 slug: act-withdraws-from-coromandel-to-prop-up-national
-title: "ACT withdraws from Coromandel to prop up National"
-date: 1999-10-22
-source-url: https://www.scoop.co.nz/stories/PA9910/S00550/act-withdraws-from-coromandel-to-prop-up-national.htm
+title: ACT withdraws from Coromandel to prop up National
+date: 1999-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00550/act-withdraws-from-coromandel-to-prop-up-national.htm
 author: green-party
+permalink: >-
+  /archive/1999/10/22/act-withdraws-from-coromandel-to-prop-up-national/index.html
+layout: layout.njk
 ---
 ACT withdraws from Coromandel to prop up National
 =================================================

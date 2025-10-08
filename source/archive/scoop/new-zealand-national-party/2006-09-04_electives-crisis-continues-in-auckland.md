@@ -1,9 +1,12 @@
 ---
 slug: electives-crisis-continues-in-auckland
-title: "Electives crisis continues in Auckland"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/PA0609/S00055/electives-crisis-continues-in-auckland.htm
+title: Electives crisis continues in Auckland
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00055/electives-crisis-continues-in-auckland.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/04/electives-crisis-continues-in-auckland/index.html
+layout: layout.njk
 ---
 Electives crisis continues in Auckland
 ======================================

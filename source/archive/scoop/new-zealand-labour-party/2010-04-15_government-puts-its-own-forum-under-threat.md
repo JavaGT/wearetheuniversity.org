@@ -1,9 +1,12 @@
 ---
 slug: government-puts-its-own-forum-under-threat
-title: "Government Puts Its Own Forum Under Threat"
-date: 2010-04-15
-source-url: https://www.scoop.co.nz/stories/PA1004/S00156/government-puts-its-own-forum-under-threat.htm
+title: Government Puts Its Own Forum Under Threat
+date: 2010-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00156/government-puts-its-own-forum-under-threat.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/15/government-puts-its-own-forum-under-threat/index.html
+layout: layout.njk
 ---
 Government Puts Its Own Forum Under Threat
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-follows-nationals-lead-on-housing
-title: "Labour Follows National’s Lead On Housing"
-date: 2020-10-02
-source-url: https://www.scoop.co.nz/stories/PA2010/S00031/labour-follows-nationals-lead-on-housing.htm
+title: Labour Follows National’s Lead On Housing
+date: 2020-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00031/labour-follows-nationals-lead-on-housing.htm
 author: new-zealand-national-party
+permalink: /archive/2020/10/02/labour-follows-nationals-lead-on-housing/index.html
+layout: layout.njk
 ---
 Labour Follows National’s Lead On Housing
 =========================================

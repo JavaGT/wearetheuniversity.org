@@ -1,9 +1,12 @@
 ---
 slug: john-key-is-damaging-our-economy
-title: "John Key is damaging our economy"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/PA1003/S00377/john-key-is-damaging-our-economy.htm
+title: John Key is damaging our economy
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00377/john-key-is-damaging-our-economy.htm
 author: green-party
+permalink: /archive/2010/03/24/john-key-is-damaging-our-economy/index.html
+layout: layout.njk
 ---
 John Key is damaging our economy
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: new-fault-line-a-major-surprise
-title: "New Fault Line A \"Major Surprise\""
-date: 2010-09-05
-source-url: https://www.scoop.co.nz/stories/SC1009/S00006/new-fault-line-a-major-surprise.htm
+title: New Fault Line A "Major Surprise"
+date: 2010-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1009/S00006/new-fault-line-a-major-surprise.htm
 author: university-of-canterbury
+permalink: /archive/2010/09/05/new-fault-line-a-major-surprise/index.html
+layout: layout.njk
 ---
 New Fault Line A “Major Surprise”
 =================================

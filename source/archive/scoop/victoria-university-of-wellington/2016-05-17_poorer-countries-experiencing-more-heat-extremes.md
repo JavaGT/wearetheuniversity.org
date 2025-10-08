@@ -1,9 +1,13 @@
 ---
 slug: poorer-countries-experiencing-more-heat-extremes
-title: "Poorer countries experiencing more heat extremes"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/SC1605/S00040/poorer-countries-experiencing-more-heat-extremes.htm
+title: Poorer countries experiencing more heat extremes
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00040/poorer-countries-experiencing-more-heat-extremes.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/05/17/poorer-countries-experiencing-more-heat-extremes/index.html
+layout: layout.njk
 ---
 Poorer countries experiencing more heat extremes
 ================================================

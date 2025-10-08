@@ -1,9 +1,13 @@
 ---
 slug: finalists-named-in-university-phone-app-challenge
-title: "Finalists named in University phone app challenge"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/AK1408/S00391/finalists-named-in-university-phone-app-challenge.htm
+title: Finalists named in University phone app challenge
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00391/finalists-named-in-university-phone-app-challenge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/20/finalists-named-in-university-phone-app-challenge/index.html
+layout: layout.njk
 ---
 Finalists named in University phone app challenge
 =================================================

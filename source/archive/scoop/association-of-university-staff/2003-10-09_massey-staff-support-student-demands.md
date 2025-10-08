@@ -1,9 +1,12 @@
 ---
 slug: massey-staff-support-student-demands
-title: "Massey Staff Support Student Demands"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/ED0310/S00030/massey-staff-support-student-demands.htm
+title: Massey Staff Support Student Demands
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00030/massey-staff-support-student-demands.htm
 author: association-of-university-staff
+permalink: /archive/2003/10/09/massey-staff-support-student-demands/index.html
+layout: layout.njk
 ---
 Massey Staff Support Student Demands
 ====================================

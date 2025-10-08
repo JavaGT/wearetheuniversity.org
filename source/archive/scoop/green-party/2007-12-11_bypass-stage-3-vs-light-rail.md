@@ -1,9 +1,11 @@
 ---
 slug: bypass-stage-3-vs-light-rail
-title: "Bypass Stage 3 vs. light rail?"
-date: 2007-12-11
+title: Bypass Stage 3 vs. light rail?
+date: 2007-12-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0712/S00108/bypass-stage-3-vs-light-rail.htm
 author: green-party
+permalink: /archive/2007/12/11/bypass-stage-3-vs-light-rail/index.html
+layout: layout.njk
 ---
 Bypass Stage 3 vs. light rail?
 ==============================

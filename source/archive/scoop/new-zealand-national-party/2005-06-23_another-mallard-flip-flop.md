@@ -1,9 +1,11 @@
 ---
 slug: another-mallard-flip-flop
-title: "Another Mallard flip-flop"
-date: 2005-06-23
+title: Another Mallard flip-flop
+date: 2005-06-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0506/S00570/another-mallard-flip-flop.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/23/another-mallard-flip-flop/index.html
+layout: layout.njk
 ---
 Another Mallard flip-flop
 =========================

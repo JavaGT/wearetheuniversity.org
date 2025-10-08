@@ -1,9 +1,12 @@
 ---
 slug: tame-iti-cylces-from-ruātoki-to-tāmaki-makaurau
-title: "Tame Iti cylces from Ruātoki to Tāmaki Makaurau"
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/PO1409/S00088/tame-iti-cylces-from-ruatoki-to-tamaki-makaurau.htm
+title: Tame Iti cylces from Ruātoki to Tāmaki Makaurau
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00088/tame-iti-cylces-from-ruatoki-to-tamaki-makaurau.htm
 author: te-pati-maori
+permalink: /archive/2014/09/04/tame-iti-cylces-from-ru/index.html
+layout: layout.njk
 ---
 Tame Iti cylces from Ruātoki to Tāmaki Makaurau
 ===============================================

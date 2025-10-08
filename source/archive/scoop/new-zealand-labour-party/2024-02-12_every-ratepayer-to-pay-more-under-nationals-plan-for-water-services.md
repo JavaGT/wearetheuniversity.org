@@ -1,9 +1,13 @@
 ---
 slug: every-ratepayer-to-pay-more-under-nationals-plan-for-water-services
-title: "Every Ratepayer To Pay More Under National’s Plan For Water Services"
-date: 2024-02-12
-source-url: https://www.scoop.co.nz/stories/PA2402/S00030/every-ratepayer-to-pay-more-under-nationals-plan-for-water-services.htm
+title: Every Ratepayer To Pay More Under National’s Plan For Water Services
+date: 2024-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2402/S00030/every-ratepayer-to-pay-more-under-nationals-plan-for-water-services.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/02/12/every-ratepayer-to-pay-more-under-nationals-plan-for-water-services/index.html
+layout: layout.njk
 ---
 Every Ratepayer To Pay More Under National’s Plan For Water Services
 ====================================================================

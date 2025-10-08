@@ -1,9 +1,13 @@
 ---
 slug: nzusa-desperate-to-keep-its-hands-on-student-money
-title: "NZUSA desperate to keep its hands on student money"
-date: 2011-09-06
-source-url: https://www.scoop.co.nz/stories/PO1109/S00085/nzusa-desperate-to-keep-its-hands-on-student-money.htm
+title: NZUSA desperate to keep its hands on student money
+date: 2011-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00085/nzusa-desperate-to-keep-its-hands-on-student-money.htm
 author: student-choice
+permalink: >-
+  /archive/2011/09/06/nzusa-desperate-to-keep-its-hands-on-student-money/index.html
+layout: layout.njk
 ---
 NZUSA desperate to keep its hands on student money
 ==================================================

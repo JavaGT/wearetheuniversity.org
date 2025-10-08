@@ -1,9 +1,12 @@
 ---
 slug: malls-to-get-even-more-mega-says-researcher
-title: "Malls to get even more \"mega\" says researcher"
-date: 2006-06-13
-source-url: https://www.scoop.co.nz/stories/BU0606/S00171/malls-to-get-even-more-mega-says-researcher.htm
+title: Malls to get even more "mega" says researcher
+date: 2006-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0606/S00171/malls-to-get-even-more-mega-says-researcher.htm
 author: massey-university
+permalink: /archive/2006/06/13/malls-to-get-even-more-mega-says-researcher/index.html
+layout: layout.njk
 ---
 Malls to get even more “mega” says researcher
 =============================================

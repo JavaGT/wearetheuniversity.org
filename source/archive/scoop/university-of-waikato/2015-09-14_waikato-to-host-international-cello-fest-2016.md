@@ -1,9 +1,12 @@
 ---
 slug: waikato-to-host-international-cello-fest-2016
-title: "Waikato to host International Cello Fest 2016"
-date: 2015-09-14
-source-url: https://www.scoop.co.nz/stories/ED1509/S00075/waikato-to-host-international-cello-fest-2016.htm
+title: Waikato to host International Cello Fest 2016
+date: 2015-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00075/waikato-to-host-international-cello-fest-2016.htm
 author: university-of-waikato
+permalink: /archive/2015/09/14/waikato-to-host-international-cello-fest-2016/index.html
+layout: layout.njk
 ---
 Waikato to host International Cello Fest 2016
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: participation-research-wakeup-call-for-politicians
-title: "Participation Research Wakeup Call For Politicians"
-date: 1999-09-21
-source-url: https://www.scoop.co.nz/stories/ED9909/S00030/participation-research-wakeup-call-for-politicians.htm
+title: Participation Research Wakeup Call For Politicians
+date: 1999-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00030/participation-research-wakeup-call-for-politicians.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/1999/09/21/participation-research-wakeup-call-for-politicians/index.html
+layout: layout.njk
 ---
 Participation Research Wakeup Call For Politicians
 ==================================================

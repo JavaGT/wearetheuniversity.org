@@ -1,9 +1,12 @@
 ---
 slug: labour-nzqa-deceive-in-unison
-title: "Labour, NZQA deceive in unison"
-date: 2005-02-24
-source-url: https://www.scoop.co.nz/stories/PA0502/S00523/labour-nzqa-deceive-in-unison.htm
+title: Labour, NZQA deceive in unison
+date: 2005-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00523/labour-nzqa-deceive-in-unison.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/24/labour-nzqa-deceive-in-unison/index.html
+layout: layout.njk
 ---
 Labour, NZQA deceive in unison
 ==============================

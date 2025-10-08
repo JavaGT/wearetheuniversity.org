@@ -1,9 +1,12 @@
 ---
 slug: benefit-sanctions-on-the-rise-under-national
-title: "Benefit sanctions on the rise under National"
-date: 2017-07-20
-source-url: https://www.scoop.co.nz/stories/PA1707/S00296/benefit-sanctions-on-the-rise-under-national.htm
+title: Benefit sanctions on the rise under National
+date: 2017-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00296/benefit-sanctions-on-the-rise-under-national.htm
 author: green-party
+permalink: /archive/2017/07/20/benefit-sanctions-on-the-rise-under-national/index.html
+layout: layout.njk
 ---
 Benefit sanctions on the rise under National
 ============================================

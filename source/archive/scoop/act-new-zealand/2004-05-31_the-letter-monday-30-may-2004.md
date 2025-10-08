@@ -1,9 +1,12 @@
 ---
 slug: the-letter-monday-30-may-2004
-title: "The Letter - Monday 30 May 2004"
-date: 2004-05-31
-source-url: https://www.scoop.co.nz/stories/PA0405/S00685/the-letter-monday-30-may-2004.htm
+title: The Letter - Monday 30 May 2004
+date: 2004-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00685/the-letter-monday-30-may-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/05/31/the-letter-monday-30-may-2004/index.html
+layout: layout.njk
 ---
 The Letter - Monday 30 May 2004
 ===============================

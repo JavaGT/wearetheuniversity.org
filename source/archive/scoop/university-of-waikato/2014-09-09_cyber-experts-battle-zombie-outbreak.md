@@ -1,9 +1,12 @@
 ---
 slug: cyber-experts-battle-zombie-outbreak
-title: "Cyber experts battle zombie outbreak"
-date: 2014-09-09
-source-url: https://www.scoop.co.nz/stories/ED1409/S00053/cyber-experts-battle-zombie-outbreak.htm
+title: Cyber experts battle zombie outbreak
+date: 2014-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00053/cyber-experts-battle-zombie-outbreak.htm
 author: university-of-waikato
+permalink: /archive/2014/09/09/cyber-experts-battle-zombie-outbreak/index.html
+layout: layout.njk
 ---
 Cyber experts battle zombie outbreak
 ====================================

@@ -1,9 +1,11 @@
 ---
 slug: we-wont-see-hawkins-for-dust
-title: "We won't see Hawkins for dust"
-date: 2002-10-03
+title: We won't see Hawkins for dust
+date: 2002-10-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0210/S00060/we-wont-see-hawkins-for-dust.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/03/we-wont-see-hawkins-for-dust/index.html
+layout: layout.njk
 ---
 We won't see Hawkins for dust
 =============================

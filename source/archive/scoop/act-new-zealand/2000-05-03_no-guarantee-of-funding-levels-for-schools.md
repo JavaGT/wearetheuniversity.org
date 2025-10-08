@@ -1,9 +1,12 @@
 ---
 slug: no-guarantee-of-funding-levels-for-schools
-title: "No Guarantee Of Funding Levels For Schools"
-date: 2000-05-03
-source-url: https://www.scoop.co.nz/stories/PA0005/S00076/no-guarantee-of-funding-levels-for-schools.htm
+title: No Guarantee Of Funding Levels For Schools
+date: 2000-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00076/no-guarantee-of-funding-levels-for-schools.htm
 author: act-new-zealand
+permalink: /archive/2000/05/03/no-guarantee-of-funding-levels-for-schools/index.html
+layout: layout.njk
 ---
 No Guarantee Of Funding Levels For Schools
 ==========================================

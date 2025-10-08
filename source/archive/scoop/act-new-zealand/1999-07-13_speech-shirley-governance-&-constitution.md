@@ -1,9 +1,12 @@
 ---
 slug: speech-shirley-governance-&-constitution
-title: "Speech: Shirley - Governance & Constitution"
-date: 1999-07-13
-source-url: https://www.scoop.co.nz/stories/PA9907/S00191/speech-shirley-governance-constitution.htm
+title: 'Speech: Shirley - Governance & Constitution'
+date: 1999-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00191/speech-shirley-governance-constitution.htm
 author: act-new-zealand
+permalink: /archive/1999/07/13/speech-shirley-governance-/index.html
+layout: layout.njk
 ---
 Speech: Shirley - Governance & Constitution
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: think-before-you-barbeque-this-summer-uc-food-expert-warns
-title: "Think before you barbeque this summer, UC food expert warns"
-date: 2012-12-21
-source-url: https://www.scoop.co.nz/stories/GE1212/S00102/think-before-you-barbeque-this-summer-uc-food-expert-warns.htm
+title: Think before you barbeque this summer, UC food expert warns
+date: 2012-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1212/S00102/think-before-you-barbeque-this-summer-uc-food-expert-warns.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/21/think-before-you-barbeque-this-summer-uc-food-expert-warns/index.html
+layout: layout.njk
 ---
 Think before you barbeque this summer, UC food expert warns
 ===========================================================

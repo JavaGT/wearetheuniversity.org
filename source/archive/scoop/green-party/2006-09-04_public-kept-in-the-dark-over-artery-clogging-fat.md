@@ -1,9 +1,13 @@
 ---
 slug: public-kept-in-the-dark-over-artery-clogging-fat
-title: "Public kept in the dark over artery-clogging fat"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/PA0609/S00060/public-kept-in-the-dark-over-artery-clogging-fat.htm
+title: Public kept in the dark over artery-clogging fat
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00060/public-kept-in-the-dark-over-artery-clogging-fat.htm
 author: green-party
+permalink: >-
+  /archive/2006/09/04/public-kept-in-the-dark-over-artery-clogging-fat/index.html
+layout: layout.njk
 ---
 Public kept in the dark over artery-clogging fat
 ================================================

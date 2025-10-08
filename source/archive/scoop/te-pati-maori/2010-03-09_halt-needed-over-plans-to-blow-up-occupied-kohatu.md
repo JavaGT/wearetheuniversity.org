@@ -1,9 +1,13 @@
 ---
 slug: halt-needed-over-plans-to-blow-up-occupied-kohatu
-title: "Halt needed over plans to blow-up occupied kohatu"
-date: 2010-03-09
-source-url: https://www.scoop.co.nz/stories/PA1003/S00123/halt-needed-over-plans-to-blow-up-occupied-kohatu.htm
+title: Halt needed over plans to blow-up occupied kohatu
+date: 2010-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00123/halt-needed-over-plans-to-blow-up-occupied-kohatu.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/03/09/halt-needed-over-plans-to-blow-up-occupied-kohatu/index.html
+layout: layout.njk
 ---
 Halt needed over plans to blow-up occupied kohatu
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-student-awarded-zespri-fellowship-for-psa-research
-title: "Waikato student awarded Zespri fellowship for Psa research"
-date: 2014-06-16
-source-url: https://www.scoop.co.nz/stories/ED1406/S00081/waikato-student-awarded-zespri-fellowship-for-psa-research.htm
+title: Waikato student awarded Zespri fellowship for Psa research
+date: 2014-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00081/waikato-student-awarded-zespri-fellowship-for-psa-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/16/waikato-student-awarded-zespri-fellowship-for-psa-research/index.html
+layout: layout.njk
 ---
 Waikato student awarded Zespri fellowship for Psa research
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: charter-schools-inquiry-needed
-title: "Charter Schools Inquiry Needed"
-date: 2012-03-28
-source-url: https://www.scoop.co.nz/stories/PA1203/S00361/charter-schools-inquiry-needed.htm
+title: Charter Schools Inquiry Needed
+date: 2012-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00361/charter-schools-inquiry-needed.htm
 author: green-party
+permalink: /archive/2012/03/28/charter-schools-inquiry-needed/index.html
+layout: layout.njk
 ---
 Charter Schools Inquiry Needed
 ==============================

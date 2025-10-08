@@ -1,9 +1,12 @@
 ---
 slug: unitec-right-decision-but-for-wrong-reasons
-title: "UNITEC - Right Decision But For Wrong Reasons"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/PA0508/S00287/unitec-right-decision-but-for-wrong-reasons.htm
+title: UNITEC - Right Decision But For Wrong Reasons
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00287/unitec-right-decision-but-for-wrong-reasons.htm
 author: new-zealand-first-party
+permalink: /archive/2005/08/10/unitec-right-decision-but-for-wrong-reasons/index.html
+layout: layout.njk
 ---
 UNITEC - Right Decision But For Wrong Reasons
 =============================================

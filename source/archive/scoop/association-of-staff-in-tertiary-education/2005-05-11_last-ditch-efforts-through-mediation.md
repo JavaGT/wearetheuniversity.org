@@ -1,9 +1,12 @@
 ---
 slug: last-ditch-efforts-through-mediation
-title: "Last Ditch Efforts Through Mediation"
-date: 2005-05-11
-source-url: https://www.scoop.co.nz/stories/ED0505/S00046/last-ditch-efforts-through-mediation.htm
+title: Last Ditch Efforts Through Mediation
+date: 2005-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00046/last-ditch-efforts-through-mediation.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/05/11/last-ditch-efforts-through-mediation/index.html
+layout: layout.njk
 ---
 Last Ditch Efforts Through Mediation
 ====================================

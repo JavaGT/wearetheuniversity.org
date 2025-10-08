@@ -1,9 +1,12 @@
 ---
 slug: labour-leader-congratulates-mp-on-top-honour
-title: "Labour Leader Congratulates MP on Top Honour"
-date: 2013-04-02
-source-url: https://www.scoop.co.nz/stories/PA1304/S00021/labour-leader-congratulates-mp-on-top-honour.htm
+title: Labour Leader Congratulates MP on Top Honour
+date: 2013-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00021/labour-leader-congratulates-mp-on-top-honour.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/02/labour-leader-congratulates-mp-on-top-honour/index.html
+layout: layout.njk
 ---
 Labour Leader Congratulates MP on Top Honour
 ============================================

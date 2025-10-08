@@ -1,9 +1,12 @@
 ---
 slug: metiria-says-foreshore-ownership-debatable
-title: "Metiria says foreshore ownership debatable"
-date: 2004-05-07
-source-url: https://www.scoop.co.nz/stories/PA0405/S00129/metiria-says-foreshore-ownership-debatable.htm
+title: Metiria says foreshore ownership debatable
+date: 2004-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00129/metiria-says-foreshore-ownership-debatable.htm
 author: green-party
+permalink: /archive/2004/05/07/metiria-says-foreshore-ownership-debatable/index.html
+layout: layout.njk
 ---
 Metiria says foreshore ownership debatable
 ==========================================

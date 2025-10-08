@@ -1,9 +1,16 @@
 ---
-slug: university-of-waikato-launches-a-strategic-partnership-with-cardiff-university-in-wales
-title: "University Of Waikato Launches A Strategic Partnership With Cardiff University In Wales"
-date: 2021-11-10
-source-url: https://www.scoop.co.nz/stories/ED2111/S00030/university-of-waikato-launches-a-strategic-partnership-with-cardiff-university-in-wales.htm
+slug: >-
+  university-of-waikato-launches-a-strategic-partnership-with-cardiff-university-in-wales
+title: >-
+  University Of Waikato Launches A Strategic Partnership With Cardiff University
+  In Wales
+date: 2021-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2111/S00030/university-of-waikato-launches-a-strategic-partnership-with-cardiff-university-in-wales.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/11/10/university-of-waikato-launches-a-strategic-partnership-with-cardiff-university-in-wales/index.html
+layout: layout.njk
 ---
 University Of Waikato Launches A Strategic Partnership With Cardiff University In Wales
 =======================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: weapons-conference-fall-out-continues
-title: "Weapons Conference Fall-out Continues"
-date: 2016-02-17
-source-url: https://www.scoop.co.nz/stories/PO1602/S00205/weapons-conference-fall-out-continues.htm
+title: Weapons Conference Fall-out Continues
+date: 2016-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1602/S00205/weapons-conference-fall-out-continues.htm
 author: peace-action-wellington
+permalink: /archive/2016/02/17/weapons-conference-fall-out-continues/index.html
+layout: layout.njk
 ---
 Weapons Conference Fall-out Continues
 =====================================

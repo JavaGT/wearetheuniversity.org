@@ -1,9 +1,13 @@
 ---
 slug: turia-opening-of-nancy-winter-early-chood-centre
-title: "Turia: Opening of Nancy Winter Early C'hood Centre"
-date: 2007-04-02
-source-url: https://www.scoop.co.nz/stories/PA0704/S00009/turia-opening-of-nancy-winter-early-chood-centre.htm
+title: 'Turia: Opening of Nancy Winter Early C''hood Centre'
+date: 2007-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00009/turia-opening-of-nancy-winter-early-chood-centre.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/04/02/turia-opening-of-nancy-winter-early-chood-centre/index.html
+layout: layout.njk
 ---
 Turia: Opening of Nancy Winter Early C'hood Centre
 ==================================================

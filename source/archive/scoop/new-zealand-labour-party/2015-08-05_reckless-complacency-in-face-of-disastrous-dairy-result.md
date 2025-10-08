@@ -1,9 +1,13 @@
 ---
 slug: reckless-complacency-in-face-of-disastrous-dairy-result
-title: "Reckless complacency in face of disastrous dairy result"
-date: 2015-08-05
-source-url: https://www.scoop.co.nz/stories/PA1508/S00049/reckless-complacency-in-face-of-disastrous-dairy-result.htm
+title: Reckless complacency in face of disastrous dairy result
+date: 2015-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00049/reckless-complacency-in-face-of-disastrous-dairy-result.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/08/05/reckless-complacency-in-face-of-disastrous-dairy-result/index.html
+layout: layout.njk
 ---
 Reckless complacency in face of disastrous dairy result
 =======================================================

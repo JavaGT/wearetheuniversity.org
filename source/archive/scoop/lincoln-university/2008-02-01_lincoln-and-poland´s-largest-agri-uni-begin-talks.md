@@ -1,9 +1,12 @@
 ---
 slug: lincoln-and-poland´s-largest-agri-uni-begin-talks
-title: "Lincoln and Poland´s largest agri uni begin talks"
-date: 2008-02-01
-source-url: https://www.scoop.co.nz/stories/ED0802/S00004/lincoln-and-polands-largest-agri-uni-begin-talks.htm
+title: Lincoln and Poland´s largest agri uni begin talks
+date: 2008-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00004/lincoln-and-polands-largest-agri-uni-begin-talks.htm
 author: lincoln-university
+permalink: /archive/2008/02/01/lincoln-and-poland/index.html
+layout: layout.njk
 ---
 Lincoln and Poland´s largest agri uni begin talks
 =================================================

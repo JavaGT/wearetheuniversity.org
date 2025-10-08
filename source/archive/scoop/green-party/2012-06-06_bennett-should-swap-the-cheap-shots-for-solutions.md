@@ -1,9 +1,13 @@
 ---
 slug: bennett-should-swap-the-cheap-shots-for-solutions
-title: "Bennett should swap the cheap shots for solutions"
-date: 2012-06-06
-source-url: https://www.scoop.co.nz/stories/PA1206/S00060/bennett-should-swap-the-cheap-shots-for-solutions.htm
+title: Bennett should swap the cheap shots for solutions
+date: 2012-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00060/bennett-should-swap-the-cheap-shots-for-solutions.htm
 author: green-party
+permalink: >-
+  /archive/2012/06/06/bennett-should-swap-the-cheap-shots-for-solutions/index.html
+layout: layout.njk
 ---
 Bennett should swap the cheap shots for solutions
 =================================================

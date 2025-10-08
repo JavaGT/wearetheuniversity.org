@@ -1,9 +1,13 @@
 ---
 slug: orientation-week-for-new-usp-students-starts-with-cfs
-title: "Orientation Week For New USP Students Starts With CFS"
-date: 2012-02-17
-source-url: https://www.scoop.co.nz/stories/WO1202/S00463/orientation-week-for-new-usp-students-starts-with-cfs.htm
+title: Orientation Week For New USP Students Starts With CFS
+date: 2012-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1202/S00463/orientation-week-for-new-usp-students-starts-with-cfs.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2012/02/17/orientation-week-for-new-usp-students-starts-with-cfs/index.html
+layout: layout.njk
 ---
 Orientation Week For New USP Students Starts With CFS
 =====================================================

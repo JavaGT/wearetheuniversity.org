@@ -1,9 +1,12 @@
 ---
 slug: media-in-2022-jmad-media-ownership-report
-title: "Media In 2022 – JMAD Media Ownership Report"
-date: 2022-12-08
-source-url: https://www.scoop.co.nz/stories/BU2212/S00121/media-in-2022-jmad-media-ownership-report.htm
+title: Media In 2022 – JMAD Media Ownership Report
+date: 2022-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2212/S00121/media-in-2022-jmad-media-ownership-report.htm
 author: aut-university
+permalink: /archive/2022/12/08/media-in-2022-jmad-media-ownership-report/index.html
+layout: layout.njk
 ---
 Media In 2022 – JMAD Media Ownership Report
 ===========================================

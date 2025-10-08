@@ -1,9 +1,12 @@
 ---
 slug: pm-has-head-in-sand-over-insurance-market
-title: "PM has head in sand over insurance market"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PA1109/S00532/pm-has-head-in-sand-over-insurance-market.htm
+title: PM has head in sand over insurance market
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00532/pm-has-head-in-sand-over-insurance-market.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/28/pm-has-head-in-sand-over-insurance-market/index.html
+layout: layout.njk
 ---
 PM has head in sand over insurance market
 =========================================

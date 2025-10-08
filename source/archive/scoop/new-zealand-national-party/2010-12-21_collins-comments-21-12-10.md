@@ -1,9 +1,11 @@
 ---
 slug: collins-comments-21-12-10
-title: "Collins Comments 21.12.10"
-date: 2010-12-21
+title: Collins Comments 21.12.10
+date: 2010-12-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1012/S00376/collins-comments-211210.htm
 author: new-zealand-national-party
+permalink: /archive/2010/12/21/collins-comments-21-12-10/index.html
+layout: layout.njk
 ---
 Collins Comments 21.12.10
 =========================

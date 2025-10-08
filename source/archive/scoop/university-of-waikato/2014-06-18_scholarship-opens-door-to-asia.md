@@ -1,9 +1,12 @@
 ---
 slug: scholarship-opens-door-to-asia
-title: "Scholarship opens door to Asia"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/ED1406/S00089/scholarship-opens-door-to-asia.htm
+title: Scholarship opens door to Asia
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00089/scholarship-opens-door-to-asia.htm
 author: university-of-waikato
+permalink: /archive/2014/06/18/scholarship-opens-door-to-asia/index.html
+layout: layout.njk
 ---
 Scholarship opens door to Asia
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: candidate-list-a-succession-plan-for-rangatahi
-title: "Candidate List: A ‘Succession Plan’ For Rangatahi"
-date: 2023-08-20
-source-url: https://www.scoop.co.nz/stories/PO2308/S00199/candidate-list-a-succession-plan-for-rangatahi.htm
+title: 'Candidate List: A ‘Succession Plan’ For Rangatahi'
+date: 2023-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00199/candidate-list-a-succession-plan-for-rangatahi.htm
 author: te-pati-maori
+permalink: /archive/2023/08/20/candidate-list-a-succession-plan-for-rangatahi/index.html
+layout: layout.njk
 ---
 Candidate List: A ‘Succession Plan’ For Rangatahi
 =================================================

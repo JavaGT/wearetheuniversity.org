@@ -1,9 +1,11 @@
 ---
 slug: new-start-programme
-title: "New Start programme"
-date: 2000-05-18
+title: New Start programme
+date: 2000-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0005/S00031/new-start-programme.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/05/18/new-start-programme/index.html
+layout: layout.njk
 ---
 New Start programme
 ===================

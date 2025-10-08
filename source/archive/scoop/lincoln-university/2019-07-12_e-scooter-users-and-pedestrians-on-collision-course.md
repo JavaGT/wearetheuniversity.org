@@ -1,9 +1,13 @@
 ---
 slug: e-scooter-users-and-pedestrians-on-collision-course
-title: "E-scooter users and pedestrians on collision course"
-date: 2019-07-12
-source-url: https://www.scoop.co.nz/stories/CU1907/S00127/e-scooter-users-and-pedestrians-on-collision-course.htm
+title: E-scooter users and pedestrians on collision course
+date: 2019-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1907/S00127/e-scooter-users-and-pedestrians-on-collision-course.htm
 author: lincoln-university
+permalink: >-
+  /archive/2019/07/12/e-scooter-users-and-pedestrians-on-collision-course/index.html
+layout: layout.njk
 ---
 E-scooter users and pedestrians on collision course
 ===================================================

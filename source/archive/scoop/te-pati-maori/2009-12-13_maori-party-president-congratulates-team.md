@@ -1,9 +1,12 @@
 ---
 slug: maori-party-president-congratulates-team
-title: "Maori Party President congratulates team"
-date: 2009-12-13
-source-url: https://www.scoop.co.nz/stories/PO0912/S00171/maori-party-president-congratulates-team.htm
+title: Maori Party President congratulates team
+date: 2009-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0912/S00171/maori-party-president-congratulates-team.htm
 author: te-pati-maori
+permalink: /archive/2009/12/13/maori-party-president-congratulates-team/index.html
+layout: layout.njk
 ---
 Maori Party President congratulates team
 ========================================

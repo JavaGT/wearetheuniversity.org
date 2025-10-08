@@ -1,9 +1,13 @@
 ---
 slug: research-sheds-light-on-gambling-among-pacific-youth
-title: "Research sheds light on gambling among Pacific youth"
-date: 2018-07-04
-source-url: https://www.scoop.co.nz/stories/PO1807/S00045/research-sheds-light-on-gambling-among-pacific-youth.htm
+title: Research sheds light on gambling among Pacific youth
+date: 2018-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00045/research-sheds-light-on-gambling-among-pacific-youth.htm
 author: aut-university
+permalink: >-
+  /archive/2018/07/04/research-sheds-light-on-gambling-among-pacific-youth/index.html
+layout: layout.njk
 ---
 Research sheds light on gambling among Pacific youth
 ====================================================

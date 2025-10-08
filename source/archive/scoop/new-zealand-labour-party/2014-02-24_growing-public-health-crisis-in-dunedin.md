@@ -1,9 +1,12 @@
 ---
 slug: growing-public-health-crisis-in-dunedin
-title: "Growing public health crisis in Dunedin"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/PA1402/S00332/growing-public-health-crisis-in-dunedin.htm
+title: Growing public health crisis in Dunedin
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00332/growing-public-health-crisis-in-dunedin.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/24/growing-public-health-crisis-in-dunedin/index.html
+layout: layout.njk
 ---
 Growing public health crisis in Dunedin
 =======================================

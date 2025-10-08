@@ -1,9 +1,12 @@
 ---
 slug: condoms-with-holes-for-student-allowances
-title: "Condoms with Holes for Student Allowances"
-date: 2002-05-01
-source-url: https://www.scoop.co.nz/stories/ED0205/S00004/condoms-with-holes-for-student-allowances.htm
+title: Condoms with Holes for Student Allowances
+date: 2002-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00004/condoms-with-holes-for-student-allowances.htm
 author: otago-university-students-association
+permalink: /archive/2002/05/01/condoms-with-holes-for-student-allowances/index.html
+layout: layout.njk
 ---
 Condoms with Holes for Student Allowances
 =========================================

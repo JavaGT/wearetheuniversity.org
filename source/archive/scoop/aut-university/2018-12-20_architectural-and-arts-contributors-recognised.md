@@ -1,9 +1,12 @@
 ---
 slug: architectural-and-arts-contributors-recognised
-title: "Architectural and Arts contributors recognised"
-date: 2018-12-20
-source-url: https://www.scoop.co.nz/stories/ED1812/S00052/architectural-and-arts-contributors-recognised.htm
+title: Architectural and Arts contributors recognised
+date: 2018-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1812/S00052/architectural-and-arts-contributors-recognised.htm
 author: aut-university
+permalink: /archive/2018/12/20/architectural-and-arts-contributors-recognised/index.html
+layout: layout.njk
 ---
 Architectural and Arts contributors recognised
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: christchurch-earthquake-bulletin-edition-30
-title: "Christchurch Earthquake bulletin edition 30"
-date: 2011-04-20
-source-url: https://www.scoop.co.nz/stories/PA1104/S00431/christchurch-earthquake-bulletin-edition-30.htm
+title: Christchurch Earthquake bulletin edition 30
+date: 2011-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00431/christchurch-earthquake-bulletin-edition-30.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/20/christchurch-earthquake-bulletin-edition-30/index.html
+layout: layout.njk
 ---
 Christchurch Earthquake bulletin edition 30
 ===========================================

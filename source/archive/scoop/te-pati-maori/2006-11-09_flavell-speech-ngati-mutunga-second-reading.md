@@ -1,9 +1,12 @@
 ---
 slug: flavell-speech-ngati-mutunga-second-reading
-title: "Flavell Speech: Ngati Mutunga, Second Reading"
-date: 2006-11-09
-source-url: https://www.scoop.co.nz/stories/PA0611/S00189/flavell-speech-ngati-mutunga-second-reading.htm
+title: 'Flavell Speech: Ngati Mutunga, Second Reading'
+date: 2006-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00189/flavell-speech-ngati-mutunga-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2006/11/09/flavell-speech-ngati-mutunga-second-reading/index.html
+layout: layout.njk
 ---
 Flavell Speech: Ngati Mutunga, Second Reading
 =============================================

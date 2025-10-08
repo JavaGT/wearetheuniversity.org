@@ -1,9 +1,12 @@
 ---
 slug: david-parker-in-dunedin-to-share-labours-plan
-title: "David Parker In Dunedin To Share Labour’s Plan"
-date: 2011-08-12
-source-url: https://www.scoop.co.nz/stories/PO1108/S00154/david-parker-in-dunedin-to-share-labours-plan.htm
+title: David Parker In Dunedin To Share Labour’s Plan
+date: 2011-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00154/david-parker-in-dunedin-to-share-labours-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/12/david-parker-in-dunedin-to-share-labours-plan/index.html
+layout: layout.njk
 ---
 David Parker In Dunedin To Share Labour’s Plan
 ==============================================

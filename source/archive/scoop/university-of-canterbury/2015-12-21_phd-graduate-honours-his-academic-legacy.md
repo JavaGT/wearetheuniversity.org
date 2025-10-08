@@ -1,9 +1,12 @@
 ---
 slug: phd-graduate-honours-his-academic-legacy
-title: "PhD graduate honours his academic legacy"
-date: 2015-12-21
-source-url: https://www.scoop.co.nz/stories/ED1512/S00087/phd-graduate-honours-his-academic-legacy.htm
+title: PhD graduate honours his academic legacy
+date: 2015-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00087/phd-graduate-honours-his-academic-legacy.htm
 author: university-of-canterbury
+permalink: /archive/2015/12/21/phd-graduate-honours-his-academic-legacy/index.html
+layout: layout.njk
 ---
 PhD graduate honours his academic legacy
 ========================================

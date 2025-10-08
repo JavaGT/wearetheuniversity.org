@@ -1,9 +1,13 @@
 ---
 slug: multiple-academy-award-winner-presents-sold-out-uc-lecture
-title: "Multiple Academy Award Winner Presents Sold-out UC Lecture"
-date: 2024-10-02
-source-url: https://www.scoop.co.nz/stories/CU2410/S00018/multiple-academy-award-winner-presents-sold-out-uc-lecture.htm
+title: Multiple Academy Award Winner Presents Sold-out UC Lecture
+date: 2024-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2410/S00018/multiple-academy-award-winner-presents-sold-out-uc-lecture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/10/02/multiple-academy-award-winner-presents-sold-out-uc-lecture/index.html
+layout: layout.njk
 ---
 Multiple Academy Award Winner Presents Sold-out UC Lecture
 ==========================================================

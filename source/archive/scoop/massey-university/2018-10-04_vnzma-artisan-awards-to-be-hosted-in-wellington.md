@@ -1,9 +1,12 @@
 ---
 slug: vnzma-artisan-awards-to-be-hosted-in-wellington
-title: "VNZMA Artisan Awards to be hosted in Wellington"
-date: 2018-10-04
-source-url: https://www.scoop.co.nz/stories/AK1810/S00094/vnzma-artisan-awards-to-be-hosted-in-wellington.htm
+title: VNZMA Artisan Awards to be hosted in Wellington
+date: 2018-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1810/S00094/vnzma-artisan-awards-to-be-hosted-in-wellington.htm
 author: massey-university
+permalink: /archive/2018/10/04/vnzma-artisan-awards-to-be-hosted-in-wellington/index.html
+layout: layout.njk
 ---
 VNZMA Artisan Awards to be hosted in Wellington
 ===============================================

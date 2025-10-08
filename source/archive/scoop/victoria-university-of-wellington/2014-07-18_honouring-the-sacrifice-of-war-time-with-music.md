@@ -1,9 +1,12 @@
 ---
 slug: honouring-the-sacrifice-of-war-time-with-music
-title: "Honouring the sacrifice of war time with music"
-date: 2014-07-18
-source-url: https://www.scoop.co.nz/stories/CU1407/S00271/honouring-the-sacrifice-of-war-time-with-music.htm
+title: Honouring the sacrifice of war time with music
+date: 2014-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00271/honouring-the-sacrifice-of-war-time-with-music.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/18/honouring-the-sacrifice-of-war-time-with-music/index.html
+layout: layout.njk
 ---
 Honouring the sacrifice of war time with music
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: new-book-explores-nz-crime-law-and-justice
-title: "New book explores NZ crime, law and justice"
-date: 2016-10-17
-source-url: https://www.scoop.co.nz/stories/ED1610/S00054/new-book-explores-nz-crime-law-and-justice.htm
+title: New book explores NZ crime, law and justice
+date: 2016-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00054/new-book-explores-nz-crime-law-and-justice.htm
 author: university-of-canterbury
+permalink: /archive/2016/10/17/new-book-explores-nz-crime-law-and-justice/index.html
+layout: layout.njk
 ---
 New book explores NZ crime, law and justice
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: education-minister-aims-to-dumb-down-maori-parents
-title: "Education Minister aims to dumb down Maori parents"
-date: 2009-09-18
-source-url: https://www.scoop.co.nz/stories/PA0909/S00264/education-minister-aims-to-dumb-down-maori-parents.htm
+title: Education Minister aims to dumb down Maori parents
+date: 2009-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00264/education-minister-aims-to-dumb-down-maori-parents.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/09/18/education-minister-aims-to-dumb-down-maori-parents/index.html
+layout: layout.njk
 ---
 Education Minister aims to dumb down Maori parents
 ==================================================

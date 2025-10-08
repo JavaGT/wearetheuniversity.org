@@ -1,9 +1,13 @@
 ---
 slug: auckland-housing-market-bursting-bubble-a-risk-for-nz
-title: "Auckland housing market bursting-bubble a risk for NZ"
-date: 2014-11-23
-source-url: https://www.scoop.co.nz/stories/AK1411/S00540/auckland-housing-market-bursting-bubble-a-risk-for-nz.htm
+title: Auckland housing market bursting-bubble a risk for NZ
+date: 2014-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1411/S00540/auckland-housing-market-bursting-bubble-a-risk-for-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/23/auckland-housing-market-bursting-bubble-a-risk-for-nz/index.html
+layout: layout.njk
 ---
 Auckland housing market bursting-bubble a risk for NZ
 =====================================================

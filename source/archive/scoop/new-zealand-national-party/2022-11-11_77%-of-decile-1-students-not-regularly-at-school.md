@@ -1,9 +1,12 @@
 ---
 slug: 77%-of-decile-1-students-not-regularly-at-school
-title: "77% Of Decile 1 Students Not Regularly At School"
-date: 2022-11-11
-source-url: https://www.scoop.co.nz/stories/PA2211/S00098/77-of-decile-1-students-not-regularly-at-school.htm
+title: 77% Of Decile 1 Students Not Regularly At School
+date: 2022-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00098/77-of-decile-1-students-not-regularly-at-school.htm
 author: new-zealand-national-party
+permalink: /archive/2022/11/11/77/index.html
+layout: layout.njk
 ---
 77% Of Decile 1 Students Not Regularly At School
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-urge-government-to-lower-alcohol-limit
-title: "Greens urge Government to lower alcohol limit"
-date: 2010-04-09
-source-url: https://www.scoop.co.nz/stories/PA1004/S00082/greens-urge-government-to-lower-alcohol-limit.htm
+title: Greens urge Government to lower alcohol limit
+date: 2010-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00082/greens-urge-government-to-lower-alcohol-limit.htm
 author: green-party
+permalink: /archive/2010/04/09/greens-urge-government-to-lower-alcohol-limit/index.html
+layout: layout.njk
 ---
 Greens urge Government to lower alcohol limit
 =============================================

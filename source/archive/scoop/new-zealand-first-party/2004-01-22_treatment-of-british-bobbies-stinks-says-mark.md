@@ -1,9 +1,12 @@
 ---
 slug: treatment-of-british-bobbies-stinks-says-mark
-title: "Treatment Of British Bobbies Stinks Says Mark"
-date: 2004-01-22
-source-url: https://www.scoop.co.nz/stories/PA0401/S00152/treatment-of-british-bobbies-stinks-says-mark.htm
+title: Treatment Of British Bobbies Stinks Says Mark
+date: 2004-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00152/treatment-of-british-bobbies-stinks-says-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2004/01/22/treatment-of-british-bobbies-stinks-says-mark/index.html
+layout: layout.njk
 ---
 Treatment Of British Bobbies Stinks Says Mark
 =============================================

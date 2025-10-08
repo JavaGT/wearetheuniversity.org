@@ -1,9 +1,12 @@
 ---
 slug: slippery-steve-shafts-students-over-summer
-title: "Slippery Steve Shafts Students Over Summer"
-date: 2001-03-23
-source-url: https://www.scoop.co.nz/stories/ED0103/S00048/slippery-steve-shafts-students-over-summer.htm
+title: Slippery Steve Shafts Students Over Summer
+date: 2001-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00048/slippery-steve-shafts-students-over-summer.htm
 author: auckland-university-students-association
+permalink: /archive/2001/03/23/slippery-steve-shafts-students-over-summer/index.html
+layout: layout.njk
 ---
 Slippery Steve Shafts Students Over Summer
 ==========================================

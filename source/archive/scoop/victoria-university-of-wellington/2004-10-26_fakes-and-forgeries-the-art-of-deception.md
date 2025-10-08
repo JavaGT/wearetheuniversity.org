@@ -1,9 +1,12 @@
 ---
 slug: fakes-and-forgeries-the-art-of-deception
-title: "Fakes and forgeries: the art of deception"
-date: 2004-10-26
-source-url: https://www.scoop.co.nz/stories/ED0410/S00086/fakes-and-forgeries-the-art-of-deception.htm
+title: 'Fakes and forgeries: the art of deception'
+date: 2004-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00086/fakes-and-forgeries-the-art-of-deception.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/10/26/fakes-and-forgeries-the-art-of-deception/index.html
+layout: layout.njk
 ---
 Fakes and forgeries: the art of deception
 =========================================

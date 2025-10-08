@@ -1,9 +1,12 @@
 ---
 slug: christchurch-teacher-cuts-short-sighted
-title: "Christchurch teacher cuts short-sighted"
-date: 2011-09-16
-source-url: https://www.scoop.co.nz/stories/ED1109/S00064/christchurch-teacher-cuts-short-sighted.htm
+title: Christchurch teacher cuts short-sighted
+date: 2011-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00064/christchurch-teacher-cuts-short-sighted.htm
 author: nzei
+permalink: /archive/2011/09/16/christchurch-teacher-cuts-short-sighted/index.html
+layout: layout.njk
 ---
 Christchurch teacher cuts short-sighted
 =======================================

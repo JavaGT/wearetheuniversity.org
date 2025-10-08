@@ -1,9 +1,13 @@
 ---
 slug: international-attention-for-waikato-composers-latest-work
-title: "International Attention for Waikato Composer’s Latest Work"
-date: 2013-04-05
-source-url: https://www.scoop.co.nz/stories/CU1304/S00106/international-attention-for-waikato-composers-latest-work.htm
+title: International Attention for Waikato Composer’s Latest Work
+date: 2013-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1304/S00106/international-attention-for-waikato-composers-latest-work.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/04/05/international-attention-for-waikato-composers-latest-work/index.html
+layout: layout.njk
 ---
 International Attention for Waikato Composer’s Latest Work
 ==========================================================

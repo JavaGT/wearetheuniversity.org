@@ -1,9 +1,12 @@
 ---
 slug: lies-damned-lies-and-steven-joyce
-title: "Lies, damned lies and Steven Joyce"
-date: 2013-06-18
-source-url: https://www.scoop.co.nz/stories/PA1306/S00308/lies-damned-lies-and-steven-joyce.htm
+title: Lies, damned lies and Steven Joyce
+date: 2013-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00308/lies-damned-lies-and-steven-joyce.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/18/lies-damned-lies-and-steven-joyce/index.html
+layout: layout.njk
 ---
 Lies, damned lies and Steven Joyce
 ==================================

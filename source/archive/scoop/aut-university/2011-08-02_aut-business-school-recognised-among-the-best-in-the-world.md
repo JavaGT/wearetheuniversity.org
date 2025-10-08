@@ -1,9 +1,13 @@
 ---
 slug: aut-business-school-recognised-among-the-best-in-the-world
-title: "AUT Business School recognised among the best in the world"
-date: 2011-08-02
-source-url: https://www.scoop.co.nz/stories/ED1108/S00015/aut-business-school-recognised-among-the-best-in-the-world.htm
+title: AUT Business School recognised among the best in the world
+date: 2011-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00015/aut-business-school-recognised-among-the-best-in-the-world.htm
 author: aut-university
+permalink: >-
+  /archive/2011/08/02/aut-business-school-recognised-among-the-best-in-the-world/index.html
+layout: layout.njk
 ---
 AUT Business School recognised among the best in the world
 ==========================================================

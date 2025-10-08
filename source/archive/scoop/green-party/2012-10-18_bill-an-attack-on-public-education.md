@@ -1,9 +1,12 @@
 ---
 slug: bill-an-attack-on-public-education
-title: "Bill an attack on public education"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/PA1210/S00345/bill-an-attack-on-public-education.htm
+title: Bill an attack on public education
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00345/bill-an-attack-on-public-education.htm
 author: green-party
+permalink: /archive/2012/10/18/bill-an-attack-on-public-education/index.html
+layout: layout.njk
 ---
 Bill an attack on public education
 ==================================

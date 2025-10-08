@@ -1,9 +1,12 @@
 ---
 slug: teams-compete-for-global-honours
-title: "Teams compete for global honours"
-date: 2009-06-11
-source-url: https://www.scoop.co.nz/stories/ED0906/S00028/teams-compete-for-global-honours.htm
+title: Teams compete for global honours
+date: 2009-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00028/teams-compete-for-global-honours.htm
 author: massey-university
+permalink: /archive/2009/06/11/teams-compete-for-global-honours/index.html
+layout: layout.njk
 ---
 Teams compete for global honours
 ================================

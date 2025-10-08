@@ -1,9 +1,12 @@
 ---
 slug: 1984-2004-twenty-years-on-roger-kerr-speech
-title: "1984 – 2004: Twenty Years On - Roger Kerr Speech"
-date: 2004-02-25
-source-url: https://www.scoop.co.nz/stories/BU0402/S00315/1984-2004-twenty-years-on-roger-kerr-speech.htm
+title: '1984 – 2004: Twenty Years On - Roger Kerr Speech'
+date: 2004-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0402/S00315/1984-2004-twenty-years-on-roger-kerr-speech.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/02/25/1984-2004-twenty-years-on-roger-kerr-speech/index.html
+layout: layout.njk
 ---
 1984 – 2004: Twenty Years On - Roger Kerr Speech
 ================================================

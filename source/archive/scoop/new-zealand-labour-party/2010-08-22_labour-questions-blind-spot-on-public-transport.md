@@ -1,9 +1,12 @@
 ---
 slug: labour-questions-blind-spot-on-public-transport
-title: "Labour Questions  Blind Spot On Public Transport"
-date: 2010-08-22
-source-url: https://www.scoop.co.nz/stories/PA1008/S00319/labour-questions-blind-spot-on-public-transport.htm
+title: Labour Questions  Blind Spot On Public Transport
+date: 2010-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00319/labour-questions-blind-spot-on-public-transport.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/22/labour-questions-blind-spot-on-public-transport/index.html
+layout: layout.njk
 ---
 Labour Questions Blind Spot On Public Transport
 ===============================================

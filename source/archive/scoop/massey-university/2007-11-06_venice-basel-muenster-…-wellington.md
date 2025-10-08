@@ -1,9 +1,12 @@
 ---
 slug: venice-basel-muenster-…-wellington
-title: "Venice, Basel, Muenster … Wellington"
-date: 2007-11-06
-source-url: https://www.scoop.co.nz/stories/CU0711/S00064/venice-basel-muenster-wellington.htm
+title: Venice, Basel, Muenster … Wellington
+date: 2007-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0711/S00064/venice-basel-muenster-wellington.htm
 author: massey-university
+permalink: /archive/2007/11/06/venice-basel-muenster-/index.html
+layout: layout.njk
 ---
 Venice, Basel, Muenster … Wellington
 ====================================

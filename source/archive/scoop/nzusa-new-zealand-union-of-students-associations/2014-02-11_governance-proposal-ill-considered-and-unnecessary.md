@@ -1,9 +1,13 @@
 ---
 slug: governance-proposal-ill-considered-and-unnecessary
-title: "Governance proposal ill-considered and unnecessary"
-date: 2014-02-11
-source-url: https://www.scoop.co.nz/stories/ED1402/S00035/governance-proposal-ill-considered-and-unnecessary.htm
+title: Governance proposal ill-considered and unnecessary
+date: 2014-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00035/governance-proposal-ill-considered-and-unnecessary.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/02/11/governance-proposal-ill-considered-and-unnecessary/index.html
+layout: layout.njk
 ---
 Governance proposal ill-considered and unnecessary
 ==================================================

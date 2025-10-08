@@ -1,9 +1,13 @@
 ---
 slug: phd-student-seeking-solutions-to-child-behavioural-problems
-title: "PhD student seeking solutions to child behavioural problems"
-date: 2013-11-29
-source-url: https://www.scoop.co.nz/stories/ED1311/S00204/phd-student-seeking-solutions-to-child-behavioural-problems.htm
+title: PhD student seeking solutions to child behavioural problems
+date: 2013-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00204/phd-student-seeking-solutions-to-child-behavioural-problems.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/29/phd-student-seeking-solutions-to-child-behavioural-problems/index.html
+layout: layout.njk
 ---
 PhD student seeking solutions to child behavioural problems
 ===========================================================

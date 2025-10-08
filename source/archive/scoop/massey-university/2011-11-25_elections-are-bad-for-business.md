@@ -1,9 +1,12 @@
 ---
 slug: elections-are-bad-for-business
-title: "'Elections are bad for business'"
-date: 2011-11-25
-source-url: https://www.scoop.co.nz/stories/ED1111/S00182/elections-are-bad-for-business.htm
+title: '''Elections are bad for business'''
+date: 2011-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00182/elections-are-bad-for-business.htm
 author: massey-university
+permalink: /archive/2011/11/25/elections-are-bad-for-business/index.html
+layout: layout.njk
 ---
 'Elections are bad for business'
 ================================

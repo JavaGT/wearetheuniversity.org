@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-to-be-carbon-neutral-sooner-with-$2-16m-funding-boost
-title: "University Of Canterbury To Be Carbon Neutral Sooner With $2.16m Funding Boost"
-date: 2021-10-28
-source-url: https://www.scoop.co.nz/stories/PO2110/S00264/university-of-canterbury-to-be-carbon-neutral-sooner-with-216m-funding-boost.htm
+title: University Of Canterbury To Be Carbon Neutral Sooner With $2.16m Funding Boost
+date: 2021-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2110/S00264/university-of-canterbury-to-be-carbon-neutral-sooner-with-216m-funding-boost.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/10/28/university-of-canterbury-to-be-carbon-neutral-sooner-with-/index.html
+layout: layout.njk
 ---
 University Of Canterbury To Be Carbon Neutral Sooner With $2.16m Funding Boost
 ==============================================================================

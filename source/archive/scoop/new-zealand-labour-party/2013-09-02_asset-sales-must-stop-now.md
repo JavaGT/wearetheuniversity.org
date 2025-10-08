@@ -1,9 +1,11 @@
 ---
 slug: asset-sales-must-stop-now
-title: "Asset sales must stop now"
-date: 2013-09-02
+title: Asset sales must stop now
+date: 2013-09-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1309/S00016/asset-sales-must-stop-now.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/02/asset-sales-must-stop-now/index.html
+layout: layout.njk
 ---
 Asset sales must stop now
 =========================

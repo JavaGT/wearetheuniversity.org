@@ -1,9 +1,13 @@
 ---
 slug: university-of-the-south-pacific-partners-with-govt-of-israel
-title: "University of the South Pacific partners with Govt of Israel"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/WO1212/S00070/university-of-the-south-pacific-partners-with-govt-of-israel.htm
+title: University of the South Pacific partners with Govt of Israel
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1212/S00070/university-of-the-south-pacific-partners-with-govt-of-israel.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2012/12/06/university-of-the-south-pacific-partners-with-govt-of-israel/index.html
+layout: layout.njk
 ---
 University of the South Pacific partners with Govt of Israel
 ============================================================

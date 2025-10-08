@@ -1,9 +1,12 @@
 ---
 slug: ucs-super-nose-crosses-the-tasman
-title: "UC’s Super Nose crosses the Tasman"
-date: 2005-04-08
-source-url: https://www.scoop.co.nz/stories/ED0504/S00025/ucs-super-nose-crosses-the-tasman.htm
+title: UC’s Super Nose crosses the Tasman
+date: 2005-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00025/ucs-super-nose-crosses-the-tasman.htm
 author: university-of-canterbury
+permalink: /archive/2005/04/08/ucs-super-nose-crosses-the-tasman/index.html
+layout: layout.njk
 ---
 UC’s Super Nose crosses the Tasman
 ==================================

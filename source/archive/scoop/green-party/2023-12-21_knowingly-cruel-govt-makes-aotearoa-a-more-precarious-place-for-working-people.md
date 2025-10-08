@@ -1,9 +1,15 @@
 ---
 slug: knowingly-cruel-govt-makes-aotearoa-a-more-precarious-place-for-working-people
-title: "Knowingly Cruel, Govt Makes Aotearoa A More Precarious Place For Working People"
-date: 2023-12-21
-source-url: https://www.scoop.co.nz/stories/PA2312/S00081/knowingly-cruel-govt-makes-aotearoa-a-more-precarious-place-for-working-people.htm
+title: >-
+  Knowingly Cruel, Govt Makes Aotearoa A More Precarious Place For Working
+  People
+date: 2023-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2312/S00081/knowingly-cruel-govt-makes-aotearoa-a-more-precarious-place-for-working-people.htm
 author: green-party
+permalink: >-
+  /archive/2023/12/21/knowingly-cruel-govt-makes-aotearoa-a-more-precarious-place-for-working-people/index.html
+layout: layout.njk
 ---
 Knowingly Cruel, Govt Makes Aotearoa A More Precarious Place For Working People
 ===============================================================================

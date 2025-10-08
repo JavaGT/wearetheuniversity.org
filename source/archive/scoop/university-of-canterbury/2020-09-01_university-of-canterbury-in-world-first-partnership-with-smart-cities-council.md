@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-in-world-first-partnership-with-smart-cities-council
-title: "University Of Canterbury In World-first Partnership With Smart Cities Council"
-date: 2020-09-01
-source-url: https://www.scoop.co.nz/stories/ED2009/S00002/university-of-canterbury-in-world-first-partnership-with-smart-cities-council.htm
+title: University Of Canterbury In World-first Partnership With Smart Cities Council
+date: 2020-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00002/university-of-canterbury-in-world-first-partnership-with-smart-cities-council.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/09/01/university-of-canterbury-in-world-first-partnership-with-smart-cities-council/index.html
+layout: layout.njk
 ---
 University Of Canterbury In World-first Partnership With Smart Cities Council
 =============================================================================

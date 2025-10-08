@@ -1,9 +1,12 @@
 ---
 slug: boosting-skills-for-the-hutts-high-tech-firms
-title: "Boosting skills for the Hutt’s high-tech firms"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/AK1407/S00424/boosting-skills-for-the-hutts-high-tech-firms.htm
+title: Boosting skills for the Hutt’s high-tech firms
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1407/S00424/boosting-skills-for-the-hutts-high-tech-firms.htm
 author: new-zealand-national-party
+permalink: /archive/2014/07/22/boosting-skills-for-the-hutts-high-tech-firms/index.html
+layout: layout.njk
 ---
 Boosting skills for the Hutt’s high-tech firms
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: whaddarya-defining-young-kiwis-identities
-title: "Whaddarya? Defining young Kiwis’ identities"
-date: 2006-11-06
-source-url: https://www.scoop.co.nz/stories/ED0611/S00018/whaddarya-defining-young-kiwis-identities.htm
+title: Whaddarya? Defining young Kiwis’ identities
+date: 2006-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00018/whaddarya-defining-young-kiwis-identities.htm
 author: massey-university
+permalink: /archive/2006/11/06/whaddarya-defining-young-kiwis-identities/index.html
+layout: layout.njk
 ---
 Whaddarya? Defining young Kiwis’ identities
 ===========================================

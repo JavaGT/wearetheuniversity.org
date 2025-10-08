@@ -1,9 +1,12 @@
 ---
 slug: front-footing-novopay-failure-not-the-answer
-title: "Front-footing Novopay failure not the answer"
-date: 2013-01-18
-source-url: https://www.scoop.co.nz/stories/PA1301/S00062/front-footing-novopay-failure-not-the-answer.htm
+title: Front-footing Novopay failure not the answer
+date: 2013-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00062/front-footing-novopay-failure-not-the-answer.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/18/front-footing-novopay-failure-not-the-answer/index.html
+layout: layout.njk
 ---
 Front-footing Novopay failure not the answer
 ============================================

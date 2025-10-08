@@ -1,9 +1,13 @@
 ---
 slug: green-party-co-leader-marama-davidson-2018-budget-speech
-title: "Green Party Co-leader Marama Davidson 2018 Budget speech"
-date: 2018-05-17
-source-url: https://www.scoop.co.nz/stories/PA1805/S00263/green-party-co-leader-marama-davidson-2018-budget-speech.htm
+title: Green Party Co-leader Marama Davidson 2018 Budget speech
+date: 2018-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00263/green-party-co-leader-marama-davidson-2018-budget-speech.htm
 author: green-party
+permalink: >-
+  /archive/2018/05/17/green-party-co-leader-marama-davidson-2018-budget-speech/index.html
+layout: layout.njk
 ---
 Green Party Co-leader Marama Davidson 2018 Budget speech
 ========================================================

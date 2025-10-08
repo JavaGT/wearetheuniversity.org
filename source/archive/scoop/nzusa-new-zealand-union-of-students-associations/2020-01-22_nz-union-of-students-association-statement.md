@@ -1,9 +1,12 @@
 ---
 slug: nz-union-of-students-association-statement
-title: "NZ Union of Students' Association statement"
-date: 2020-01-22
-source-url: https://www.scoop.co.nz/stories/PO2001/S00068/nz-union-of-students-association-statement.htm
+title: NZ Union of Students' Association statement
+date: 2020-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2001/S00068/nz-union-of-students-association-statement.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2020/01/22/nz-union-of-students-association-statement/index.html
+layout: layout.njk
 ---
 NZ Union of Students' Association statement
 ===========================================

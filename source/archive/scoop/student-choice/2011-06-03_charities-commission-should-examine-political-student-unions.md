@@ -1,9 +1,13 @@
 ---
 slug: charities-commission-should-examine-political-student-unions
-title: "Charities Commission should examine political student unions"
-date: 2011-06-03
-source-url: https://www.scoop.co.nz/stories/PO1106/S00044/charities-commission-should-examine-political-student-unions.htm
+title: Charities Commission should examine political student unions
+date: 2011-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00044/charities-commission-should-examine-political-student-unions.htm
 author: student-choice
+permalink: >-
+  /archive/2011/06/03/charities-commission-should-examine-political-student-unions/index.html
+layout: layout.njk
 ---
 Charities Commission should examine political student unions
 ============================================================

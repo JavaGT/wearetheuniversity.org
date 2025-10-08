@@ -1,9 +1,12 @@
 ---
 slug: the-delayed-introduction-of-unleaded-petrol
-title: "The delayed introduction of unleaded petrol"
-date: 2008-03-05
-source-url: https://www.scoop.co.nz/stories/SC0803/S00012/the-delayed-introduction-of-unleaded-petrol.htm
+title: The delayed introduction of unleaded petrol
+date: 2008-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0803/S00012/the-delayed-introduction-of-unleaded-petrol.htm
 author: university-of-otago
+permalink: /archive/2008/03/05/the-delayed-introduction-of-unleaded-petrol/index.html
+layout: layout.njk
 ---
 The delayed introduction of unleaded petrol
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: students-deserve-better
-title: "Students Deserve Better"
-date: 2003-01-15
+title: Students Deserve Better
+date: 2003-01-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0301/S00083/students-deserve-better.htm
 author: act-new-zealand
+permalink: /archive/2003/01/15/students-deserve-better/index.html
+layout: layout.njk
 ---
 Students Deserve Better
 =======================

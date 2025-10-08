@@ -1,9 +1,12 @@
 ---
 slug: drop-off-in-science-achievement-not-surprising
-title: "Drop Off In Science Achievement Not Surprising"
-date: 2008-12-10
-source-url: https://www.scoop.co.nz/stories/SC0812/S00020/drop-off-in-science-achievement-not-surprising.htm
+title: Drop Off In Science Achievement Not Surprising
+date: 2008-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0812/S00020/drop-off-in-science-achievement-not-surprising.htm
 author: nzei
+permalink: /archive/2008/12/10/drop-off-in-science-achievement-not-surprising/index.html
+layout: layout.njk
 ---
 Drop Off In Science Achievement Not Surprising
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: usp-leads-regional-study-on-gender-equality-in-stem-disciplines
-title: "USP Leads Regional Study On Gender Equality In STEM Disciplines"
-date: 2024-07-31
-source-url: https://www.scoop.co.nz/stories/WO2407/S00319/usp-leads-regional-study-on-gender-equality-in-stem-disciplines.htm
+title: USP Leads Regional Study On Gender Equality In STEM Disciplines
+date: 2024-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2407/S00319/usp-leads-regional-study-on-gender-equality-in-stem-disciplines.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2024/07/31/usp-leads-regional-study-on-gender-equality-in-stem-disciplines/index.html
+layout: layout.njk
 ---
 USP Leads Regional Study On Gender Equality In STEM Disciplines
 ===============================================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-plans-to-drag-schools-back-to-the-seventies
-title: "Labour Plans To Drag Schools Back To The Seventies"
-date: 1999-07-27
-source-url: https://www.scoop.co.nz/stories/PA9907/S00498/labour-plans-to-drag-schools-back-to-the-seventies.htm
+title: Labour Plans To Drag Schools Back To The Seventies
+date: 1999-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00498/labour-plans-to-drag-schools-back-to-the-seventies.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/07/27/labour-plans-to-drag-schools-back-to-the-seventies/index.html
+layout: layout.njk
 ---
 Labour Plans To Drag Schools Back To The Seventies
 ==================================================

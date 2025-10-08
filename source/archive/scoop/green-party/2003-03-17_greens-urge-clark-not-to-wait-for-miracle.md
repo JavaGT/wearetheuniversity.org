@@ -1,9 +1,12 @@
 ---
 slug: greens-urge-clark-not-to-wait-for-miracle
-title: "Greens urge Clark not to wait for 'miracle'"
-date: 2003-03-17
-source-url: https://www.scoop.co.nz/stories/PA0303/S00273/greens-urge-clark-not-to-wait-for-miracle.htm
+title: Greens urge Clark not to wait for 'miracle'
+date: 2003-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00273/greens-urge-clark-not-to-wait-for-miracle.htm
 author: green-party
+permalink: /archive/2003/03/17/greens-urge-clark-not-to-wait-for-miracle/index.html
+layout: layout.njk
 ---
 Greens urge Clark not to wait for 'miracle'
 ===========================================

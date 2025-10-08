@@ -1,9 +1,12 @@
 ---
 slug: fewer-frontline-staff-in-education-despite-spin
-title: "Fewer frontline staff in education despite spin"
-date: 2015-11-26
-source-url: https://www.scoop.co.nz/stories/PA1511/S00505/fewer-frontline-staff-in-education-despite-spin.htm
+title: Fewer frontline staff in education despite spin
+date: 2015-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00505/fewer-frontline-staff-in-education-despite-spin.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/26/fewer-frontline-staff-in-education-despite-spin/index.html
+layout: layout.njk
 ---
 Fewer frontline staff in education despite spin
 ===============================================

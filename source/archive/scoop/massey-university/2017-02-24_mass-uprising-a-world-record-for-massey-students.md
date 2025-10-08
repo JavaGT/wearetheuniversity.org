@@ -1,9 +1,13 @@
 ---
 slug: mass-uprising-a-world-record-for-massey-students
-title: "Mass uprising a world record for Massey students"
-date: 2017-02-24
-source-url: https://www.scoop.co.nz/stories/ED1702/S00073/mass-uprising-a-world-record-for-massey-students.htm
+title: Mass uprising a world record for Massey students
+date: 2017-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00073/mass-uprising-a-world-record-for-massey-students.htm
 author: massey-university
+permalink: >-
+  /archive/2017/02/24/mass-uprising-a-world-record-for-massey-students/index.html
+layout: layout.njk
 ---
 Mass uprising a world record for Massey students
 ================================================

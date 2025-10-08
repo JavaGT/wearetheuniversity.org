@@ -1,9 +1,12 @@
 ---
 slug: flavell-maori-education-not-achieved
-title: "Flavell: Maori Education - not achieved"
-date: 2007-02-15
-source-url: https://www.scoop.co.nz/stories/PA0702/S00296/flavell-maori-education-not-achieved.htm
+title: 'Flavell: Maori Education - not achieved'
+date: 2007-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00296/flavell-maori-education-not-achieved.htm
 author: te-pati-maori
+permalink: /archive/2007/02/15/flavell-maori-education-not-achieved/index.html
+layout: layout.njk
 ---
 Flavell: Maori Education - not achieved
 =======================================

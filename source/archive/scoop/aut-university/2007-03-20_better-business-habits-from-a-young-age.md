@@ -1,9 +1,12 @@
 ---
 slug: better-business-habits-from-a-young-age
-title: "Better business habits from a young age"
-date: 2007-03-20
-source-url: https://www.scoop.co.nz/stories/ED0703/S00072/better-business-habits-from-a-young-age.htm
+title: Better business habits from a young age
+date: 2007-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00072/better-business-habits-from-a-young-age.htm
 author: aut-university
+permalink: /archive/2007/03/20/better-business-habits-from-a-young-age/index.html
+layout: layout.njk
 ---
 Better business habits from a young age
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: ditch-private-savings-proposal-for-tertiary-ed
-title: "Ditch Private Savings Proposal For Tertiary Ed."
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/ED0502/S00001/ditch-private-savings-proposal-for-tertiary-ed.htm
+title: Ditch Private Savings Proposal For Tertiary Ed.
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00001/ditch-private-savings-proposal-for-tertiary-ed.htm
 author: association-of-university-staff
+permalink: /archive/2005/02/01/ditch-private-savings-proposal-for-tertiary-ed/index.html
+layout: layout.njk
 ---
 Ditch Private Savings Proposal For Tertiary Ed.
 ===============================================

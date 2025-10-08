@@ -1,9 +1,12 @@
 ---
 slug: bold-action-needed-to-help-people-eat
-title: "Bold Action Needed To Help People Eat"
-date: 2023-03-13
-source-url: https://www.scoop.co.nz/stories/PA2303/S00092/bold-action-needed-to-help-people-eat.htm
+title: Bold Action Needed To Help People Eat
+date: 2023-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00092/bold-action-needed-to-help-people-eat.htm
 author: green-party
+permalink: /archive/2023/03/13/bold-action-needed-to-help-people-eat/index.html
+layout: layout.njk
 ---
 Bold Action Needed To Help People Eat
 =====================================

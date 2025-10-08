@@ -1,9 +1,13 @@
 ---
 slug: progressive-enquiry-smoke-shows-plenty-of-signals
-title: "Progressive Enquiry Smoke Shows Plenty of Signals"
-date: 2014-11-21
-source-url: https://www.scoop.co.nz/stories/PA1411/S00262/progressive-enquiry-smoke-shows-plenty-of-signals.htm
+title: Progressive Enquiry Smoke Shows Plenty of Signals
+date: 2014-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00262/progressive-enquiry-smoke-shows-plenty-of-signals.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/11/21/progressive-enquiry-smoke-shows-plenty-of-signals/index.html
+layout: layout.njk
 ---
 Progressive Enquiry Smoke Shows Plenty of Signals
 =================================================

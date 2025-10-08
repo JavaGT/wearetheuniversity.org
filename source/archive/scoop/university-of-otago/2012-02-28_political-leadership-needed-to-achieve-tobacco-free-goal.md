@@ -1,9 +1,13 @@
 ---
 slug: political-leadership-needed-to-achieve-tobacco-free-goal
-title: "Political leadership needed to achieve tobacco-free goal"
-date: 2012-02-28
-source-url: https://www.scoop.co.nz/stories/ED1202/S00123/political-leadership-needed-to-achieve-tobacco-free-goal.htm
+title: Political leadership needed to achieve tobacco-free goal
+date: 2012-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00123/political-leadership-needed-to-achieve-tobacco-free-goal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/02/28/political-leadership-needed-to-achieve-tobacco-free-goal/index.html
+layout: layout.njk
 ---
 Political leadership needed to achieve tobacco-free goal
 ========================================================

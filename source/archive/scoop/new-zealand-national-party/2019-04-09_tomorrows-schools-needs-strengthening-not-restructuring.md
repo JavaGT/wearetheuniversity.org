@@ -1,9 +1,13 @@
 ---
 slug: tomorrows-schools-needs-strengthening-not-restructuring
-title: "Tomorrow’s Schools needs strengthening not restructuring"
-date: 2019-04-09
-source-url: https://www.scoop.co.nz/stories/PA1904/S00076/tomorrows-schools-needs-strengthening-not-restructuring.htm
+title: Tomorrow’s Schools needs strengthening not restructuring
+date: 2019-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00076/tomorrows-schools-needs-strengthening-not-restructuring.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/04/09/tomorrows-schools-needs-strengthening-not-restructuring/index.html
+layout: layout.njk
 ---
 Tomorrow’s Schools needs strengthening not restructuring
 ========================================================

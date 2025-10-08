@@ -1,9 +1,13 @@
 ---
 slug: top-achievers-win-uc-international-college-scholarships
-title: "Top achievers win UC International College scholarships"
-date: 2014-12-19
-source-url: https://www.scoop.co.nz/stories/ED1412/S00124/top-achievers-win-uc-international-college-scholarships.htm
+title: Top achievers win UC International College scholarships
+date: 2014-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00124/top-achievers-win-uc-international-college-scholarships.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/19/top-achievers-win-uc-international-college-scholarships/index.html
+layout: layout.njk
 ---
 Top achievers win UC International College scholarships
 =======================================================

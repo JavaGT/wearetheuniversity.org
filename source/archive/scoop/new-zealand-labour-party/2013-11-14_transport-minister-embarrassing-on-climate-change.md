@@ -1,9 +1,13 @@
 ---
 slug: transport-minister-embarrassing-on-climate-change
-title: "Transport Minister embarrassing on climate change"
-date: 2013-11-14
-source-url: https://www.scoop.co.nz/stories/PA1311/S00265/transport-minister-embarrassing-on-climate-change.htm
+title: Transport Minister embarrassing on climate change
+date: 2013-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00265/transport-minister-embarrassing-on-climate-change.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/11/14/transport-minister-embarrassing-on-climate-change/index.html
+layout: layout.njk
 ---
 Transport Minister embarrassing on climate change
 =================================================

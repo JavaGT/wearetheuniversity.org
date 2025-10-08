@@ -1,9 +1,12 @@
 ---
 slug: hikuwai-sounds-festival-2018-announced
-title: "Hikuwai Sounds Festival 2018 Announced"
-date: 2018-02-05
-source-url: https://www.scoop.co.nz/stories/ED1802/S00010/hikuwai-sounds-festival-2018-announced.htm
+title: Hikuwai Sounds Festival 2018 Announced
+date: 2018-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1802/S00010/hikuwai-sounds-festival-2018-announced.htm
 author: aut-student-association
+permalink: /archive/2018/02/05/hikuwai-sounds-festival-2018-announced/index.html
+layout: layout.njk
 ---
 Hikuwai Sounds Festival 2018 Announced
 ======================================

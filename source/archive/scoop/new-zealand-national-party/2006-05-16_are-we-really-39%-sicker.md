@@ -1,9 +1,11 @@
 ---
 slug: are-we-really-39%-sicker
-title: "Are we really 39% sicker?"
-date: 2006-05-16
+title: Are we really 39% sicker?
+date: 2006-05-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00340/are-we-really-39-sicker.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/16/are-we-really-39/index.html
+layout: layout.njk
 ---
 Are we really 39% sicker?
 =========================

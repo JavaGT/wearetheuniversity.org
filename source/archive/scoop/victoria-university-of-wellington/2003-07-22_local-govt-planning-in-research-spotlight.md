@@ -1,9 +1,12 @@
 ---
 slug: local-govt-planning-in-research-spotlight
-title: "Local govt planning in research spotlight"
-date: 2003-07-22
-source-url: https://www.scoop.co.nz/stories/ED0307/S00054/local-govt-planning-in-research-spotlight.htm
+title: Local govt planning in research spotlight
+date: 2003-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00054/local-govt-planning-in-research-spotlight.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/22/local-govt-planning-in-research-spotlight/index.html
+layout: layout.njk
 ---
 Local govt planning in research spotlight
 =========================================

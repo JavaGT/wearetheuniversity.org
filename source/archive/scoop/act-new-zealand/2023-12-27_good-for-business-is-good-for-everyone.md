@@ -1,9 +1,12 @@
 ---
 slug: good-for-business-is-good-for-everyone
-title: "Good For Business Is Good For Everyone"
-date: 2023-12-27
-source-url: https://www.scoop.co.nz/stories/PA2312/S00088/good-for-business-is-good-for-everyone.htm
+title: Good For Business Is Good For Everyone
+date: 2023-12-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2312/S00088/good-for-business-is-good-for-everyone.htm
 author: act-new-zealand
+permalink: /archive/2023/12/27/good-for-business-is-good-for-everyone/index.html
+layout: layout.njk
 ---
 Good For Business Is Good For Everyone
 ======================================

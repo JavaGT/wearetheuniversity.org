@@ -1,9 +1,12 @@
 ---
 slug: advertising-of-medicines-must-be-banned-greens
-title: "Advertising of medicines must be banned: Greens"
-date: 2003-02-17
-source-url: https://www.scoop.co.nz/stories/PA0302/S00269/advertising-of-medicines-must-be-banned-greens.htm
+title: 'Advertising of medicines must be banned: Greens'
+date: 2003-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00269/advertising-of-medicines-must-be-banned-greens.htm
 author: green-party
+permalink: /archive/2003/02/17/advertising-of-medicines-must-be-banned-greens/index.html
+layout: layout.njk
 ---
 Advertising of medicines must be banned: Greens
 ===============================================

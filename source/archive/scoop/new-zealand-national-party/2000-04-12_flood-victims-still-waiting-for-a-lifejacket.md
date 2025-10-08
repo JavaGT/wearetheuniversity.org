@@ -1,9 +1,12 @@
 ---
 slug: flood-victims-still-waiting-for-a-lifejacket
-title: "Flood Victims Still Waiting For A Lifejacket"
-date: 2000-04-12
-source-url: https://www.scoop.co.nz/stories/PA0004/S00158/flood-victims-still-waiting-for-a-lifejacket.htm
+title: Flood Victims Still Waiting For A Lifejacket
+date: 2000-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00158/flood-victims-still-waiting-for-a-lifejacket.htm
 author: new-zealand-national-party
+permalink: /archive/2000/04/12/flood-victims-still-waiting-for-a-lifejacket/index.html
+layout: layout.njk
 ---
 Flood Victims Still Waiting For A Lifejacket
 ============================================

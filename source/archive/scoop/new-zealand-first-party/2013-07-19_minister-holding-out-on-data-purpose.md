@@ -1,9 +1,12 @@
 ---
 slug: minister-holding-out-on-data-purpose
-title: "Minister Holding Out On Data Purpose"
-date: 2013-07-19
-source-url: https://www.scoop.co.nz/stories/PA1307/S00316/minister-holding-out-on-data-purpose.htm
+title: Minister Holding Out On Data Purpose
+date: 2013-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00316/minister-holding-out-on-data-purpose.htm
 author: new-zealand-first-party
+permalink: /archive/2013/07/19/minister-holding-out-on-data-purpose/index.html
+layout: layout.njk
 ---
 Minister Holding Out On Data Purpose
 ====================================

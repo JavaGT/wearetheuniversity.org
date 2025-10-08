@@ -1,9 +1,12 @@
 ---
 slug: second-environmental-backdown-in-two-days
-title: "Second environmental backdown in two days"
-date: 2010-07-21
-source-url: https://www.scoop.co.nz/stories/PA1007/S00321/second-environmental-backdown-in-two-days.htm
+title: Second environmental backdown in two days
+date: 2010-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00321/second-environmental-backdown-in-two-days.htm
 author: green-party
+permalink: /archive/2010/07/21/second-environmental-backdown-in-two-days/index.html
+layout: layout.njk
 ---
 Second environmental backdown in two days
 =========================================

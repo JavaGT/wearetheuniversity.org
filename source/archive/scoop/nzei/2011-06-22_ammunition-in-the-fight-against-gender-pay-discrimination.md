@@ -1,9 +1,13 @@
 ---
 slug: ammunition-in-the-fight-against-gender-pay-discrimination
-title: "Ammunition in the fight against gender pay discrimination"
-date: 2011-06-22
-source-url: https://www.scoop.co.nz/stories/ED1106/S00090/ammunition-in-the-fight-against-gender-pay-discrimination.htm
+title: Ammunition in the fight against gender pay discrimination
+date: 2011-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00090/ammunition-in-the-fight-against-gender-pay-discrimination.htm
 author: nzei
+permalink: >-
+  /archive/2011/06/22/ammunition-in-the-fight-against-gender-pay-discrimination/index.html
+layout: layout.njk
 ---
 Ammunition in the fight against gender pay discrimination
 =========================================================

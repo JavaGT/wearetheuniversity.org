@@ -1,9 +1,13 @@
 ---
 slug: why-should-nz-children-be-exposed-to-unqualified-teachers
-title: "Why should NZ children be exposed to unqualified teachers?"
-date: 2012-08-02
-source-url: https://www.scoop.co.nz/stories/ED1208/S00022/why-should-nz-children-be-exposed-to-unqualified-teachers.htm
+title: Why should NZ children be exposed to unqualified teachers?
+date: 2012-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00022/why-should-nz-children-be-exposed-to-unqualified-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/02/why-should-nz-children-be-exposed-to-unqualified-teachers/index.html
+layout: layout.njk
 ---
 Why should NZ children be exposed to unqualified teachers?
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: the-making-of-development-geography
-title: "The making of development geography"
-date: 2003-07-17
-source-url: https://www.scoop.co.nz/stories/ED0307/S00046/the-making-of-development-geography.htm
+title: The making of development geography
+date: 2003-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00046/the-making-of-development-geography.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/17/the-making-of-development-geography/index.html
+layout: layout.njk
 ---
 The making of development geography
 ===================================

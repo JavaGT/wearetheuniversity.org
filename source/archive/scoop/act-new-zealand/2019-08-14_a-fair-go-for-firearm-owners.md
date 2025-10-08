@@ -1,9 +1,11 @@
 ---
 slug: a-fair-go-for-firearm-owners
-title: "A fair go for firearm owners"
-date: 2019-08-14
+title: A fair go for firearm owners
+date: 2019-08-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1908/S00149/a-fair-go-for-firearm-owners.htm
 author: act-new-zealand
+permalink: /archive/2019/08/14/a-fair-go-for-firearm-owners/index.html
+layout: layout.njk
 ---
 A fair go for firearm owners
 ============================

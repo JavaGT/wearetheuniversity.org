@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-alcohol-interlock-sentence
-title: "Collins Comments: Alcohol Interlock sentence"
-date: 2016-08-30
-source-url: https://www.scoop.co.nz/stories/PA1608/S00541/collins-comments-alcohol-interlock-sentence.htm
+title: 'Collins Comments: Alcohol Interlock sentence'
+date: 2016-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00541/collins-comments-alcohol-interlock-sentence.htm
 author: new-zealand-national-party
+permalink: /archive/2016/08/30/collins-comments-alcohol-interlock-sentence/index.html
+layout: layout.njk
 ---
 Collins Comments: Alcohol Interlock sentence
 ============================================

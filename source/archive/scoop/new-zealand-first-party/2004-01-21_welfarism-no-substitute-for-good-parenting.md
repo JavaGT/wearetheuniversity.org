@@ -1,9 +1,12 @@
 ---
 slug: welfarism-no-substitute-for-good-parenting
-title: "Welfarism No Substitute For Good Parenting"
-date: 2004-01-21
-source-url: https://www.scoop.co.nz/stories/PA0401/S00148/welfarism-no-substitute-for-good-parenting.htm
+title: Welfarism No Substitute For Good Parenting
+date: 2004-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00148/welfarism-no-substitute-for-good-parenting.htm
 author: new-zealand-first-party
+permalink: /archive/2004/01/21/welfarism-no-substitute-for-good-parenting/index.html
+layout: layout.njk
 ---
 Welfarism No Substitute For Good Parenting
 ==========================================

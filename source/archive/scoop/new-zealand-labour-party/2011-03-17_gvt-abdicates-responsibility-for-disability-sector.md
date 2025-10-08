@@ -1,9 +1,13 @@
 ---
 slug: gvt-abdicates-responsibility-for-disability-sector
-title: "Gvt abdicates responsibility for disability sector"
-date: 2011-03-17
-source-url: https://www.scoop.co.nz/stories/PA1103/S00287/gvt-abdicates-responsibility-for-disability-sector.htm
+title: Gvt abdicates responsibility for disability sector
+date: 2011-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00287/gvt-abdicates-responsibility-for-disability-sector.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/03/17/gvt-abdicates-responsibility-for-disability-sector/index.html
+layout: layout.njk
 ---
 Gvt abdicates responsibility for disability sector
 ==================================================

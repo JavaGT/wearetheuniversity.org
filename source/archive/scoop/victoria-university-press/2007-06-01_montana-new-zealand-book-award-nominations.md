@@ -1,9 +1,12 @@
 ---
 slug: montana-new-zealand-book-award-nominations
-title: "Montana New Zealand Book Award Nominations"
-date: 2007-06-01
-source-url: https://www.scoop.co.nz/stories/CU0706/S00009/montana-new-zealand-book-award-nominations.htm
+title: Montana New Zealand Book Award Nominations
+date: 2007-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0706/S00009/montana-new-zealand-book-award-nominations.htm
 author: victoria-university-press
+permalink: /archive/2007/06/01/montana-new-zealand-book-award-nominations/index.html
+layout: layout.njk
 ---
 Montana New Zealand Book Award Nominations
 ==========================================

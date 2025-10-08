@@ -1,9 +1,12 @@
 ---
 slug: greens-need-to-learn-english-first
-title: "Greens need to learn English first"
-date: 2017-02-01
-source-url: https://www.scoop.co.nz/stories/PA1702/S00009/greens-need-to-learn-english-first.htm
+title: Greens need to learn English first
+date: 2017-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00009/greens-need-to-learn-english-first.htm
 author: act-new-zealand
+permalink: /archive/2017/02/01/greens-need-to-learn-english-first/index.html
+layout: layout.njk
 ---
 Greens need to learn English first
 ==================================

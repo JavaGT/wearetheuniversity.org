@@ -1,9 +1,12 @@
 ---
 slug: cantabrians-need-a-plan-for-the-future
-title: "Cantabrians need a plan for the future"
-date: 2013-05-31
-source-url: https://www.scoop.co.nz/stories/PA1305/S00627/cantabrians-need-a-plan-for-the-future.htm
+title: Cantabrians need a plan for the future
+date: 2013-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00627/cantabrians-need-a-plan-for-the-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/31/cantabrians-need-a-plan-for-the-future/index.html
+layout: layout.njk
 ---
 Cantabrians need a plan for the future
 ======================================

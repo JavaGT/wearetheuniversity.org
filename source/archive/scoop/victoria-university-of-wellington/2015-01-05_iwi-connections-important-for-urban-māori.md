@@ -1,9 +1,12 @@
 ---
 slug: iwi-connections-important-for-urban-māori
-title: "Iwi connections important for ‘urban’ Māori"
-date: 2015-01-05
-source-url: https://www.scoop.co.nz/stories/ED1501/S00003/iwi-connections-important-for-urban-maori.htm
+title: Iwi connections important for ‘urban’ Māori
+date: 2015-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00003/iwi-connections-important-for-urban-maori.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/01/05/iwi-connections-important-for-urban-m/index.html
+layout: layout.njk
 ---
 Iwi connections important for ‘urban’ Māori
 ===========================================

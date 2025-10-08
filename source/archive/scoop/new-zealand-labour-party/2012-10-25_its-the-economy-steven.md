@@ -1,9 +1,11 @@
 ---
 slug: its-the-economy-steven
-title: "It’s The Economy, Steven"
-date: 2012-10-25
+title: It’s The Economy, Steven
+date: 2012-10-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1210/S00439/its-the-economy-steven.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/25/its-the-economy-steven/index.html
+layout: layout.njk
 ---
 It’s The Economy, Steven
 ========================

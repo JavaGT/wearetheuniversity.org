@@ -1,9 +1,12 @@
 ---
 slug: national-continues-to-poll-ahead-in-key-seats
-title: "National continues to poll ahead in key seats"
-date: 2002-06-26
-source-url: https://www.scoop.co.nz/stories/PA0206/S00474/national-continues-to-poll-ahead-in-key-seats.htm
+title: National continues to poll ahead in key seats
+date: 2002-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00474/national-continues-to-poll-ahead-in-key-seats.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/26/national-continues-to-poll-ahead-in-key-seats/index.html
+layout: layout.njk
 ---
 National continues to poll ahead in key seats
 =============================================

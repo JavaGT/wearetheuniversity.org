@@ -1,9 +1,11 @@
 ---
 slug: heather-roys-diary-anzac-day
-title: "Heather Roy's Diary - ANZAC Day"
-date: 2009-04-25
+title: Heather Roy's Diary - ANZAC Day
+date: 2009-04-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0904/S00315/heather-roys-diary-anzac-day.htm
 author: act-new-zealand
+permalink: /archive/2009/04/25/heather-roys-diary-anzac-day/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - ANZAC Day
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: christchurch-could-learn-from-queenslands-cyclone-larry
-title: "Christchurch could learn from Queensland’s Cyclone Larry"
-date: 2014-06-17
-source-url: https://www.scoop.co.nz/stories/AK1406/S00367/christchurch-could-learn-from-queenslands-cyclone-larry.htm
+title: Christchurch could learn from Queensland’s Cyclone Larry
+date: 2014-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00367/christchurch-could-learn-from-queenslands-cyclone-larry.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/17/christchurch-could-learn-from-queenslands-cyclone-larry/index.html
+layout: layout.njk
 ---
 Christchurch could learn from Queensland’s Cyclone Larry
 ========================================================

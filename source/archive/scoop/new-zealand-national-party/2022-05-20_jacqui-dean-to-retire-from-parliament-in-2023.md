@@ -1,9 +1,12 @@
 ---
 slug: jacqui-dean-to-retire-from-parliament-in-2023
-title: "Jacqui Dean To Retire From Parliament In 2023"
-date: 2022-05-20
-source-url: https://www.scoop.co.nz/stories/PA2205/S00203/jacqui-dean-to-retire-from-parliament-in-2023.htm
+title: Jacqui Dean To Retire From Parliament In 2023
+date: 2022-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00203/jacqui-dean-to-retire-from-parliament-in-2023.htm
 author: new-zealand-national-party
+permalink: /archive/2022/05/20/jacqui-dean-to-retire-from-parliament-in-2023/index.html
+layout: layout.njk
 ---
 Jacqui Dean To Retire From Parliament In 2023
 =============================================

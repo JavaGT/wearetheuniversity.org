@@ -1,8 +1,12 @@
 ---
 slug: more-than-3000-graduands-will-graduate-this-spring
-title: "More than 3000 graduands will graduate this Spring"
-date: 2016-09-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/more-than-3000-graduands-will-graduate-this-spring.html
+title: More than 3000 graduands will graduate this Spring
+date: 2016-09-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/more-than-3000-graduands-will-graduate-this-spring.html
+permalink: >-
+  /archive/2016/09/23/more-than-3000-graduands-will-graduate-this-spring/index.html
+layout: layout.njk
 ---
 More than 3000 graduands will graduate this Spring
 ==================================================

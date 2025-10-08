@@ -1,9 +1,12 @@
 ---
 slug: act-announces-teaching-excellence-reward-fund
-title: "ACT Announces Teaching Excellence Reward Fund"
-date: 2021-05-23
-source-url: https://www.scoop.co.nz/stories/PO2105/S00228/act-announces-teaching-excellence-reward-fund.htm
+title: ACT Announces Teaching Excellence Reward Fund
+date: 2021-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2105/S00228/act-announces-teaching-excellence-reward-fund.htm
 author: act-new-zealand
+permalink: /archive/2021/05/23/act-announces-teaching-excellence-reward-fund/index.html
+layout: layout.njk
 ---
 ACT Announces Teaching Excellence Reward Fund
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: sympathetic-hearing-for-act-led-delegation
-title: "\"Sympathetic Hearing\" For ACT-Led Delegation"
-date: 2000-10-18
-source-url: https://www.scoop.co.nz/stories/PA0010/S00354/sympathetic-hearing-for-act-led-delegation.htm
+title: '"Sympathetic Hearing" For ACT-Led Delegation'
+date: 2000-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00354/sympathetic-hearing-for-act-led-delegation.htm
 author: act-new-zealand
+permalink: /archive/2000/10/18/sympathetic-hearing-for-act-led-delegation/index.html
+layout: layout.njk
 ---
 "Sympathetic Hearing" For ACT-Led Delegation
 ============================================

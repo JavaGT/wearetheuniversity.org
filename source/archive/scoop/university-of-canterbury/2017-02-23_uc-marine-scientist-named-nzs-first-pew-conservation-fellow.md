@@ -1,9 +1,13 @@
 ---
 slug: uc-marine-scientist-named-nzs-first-pew-conservation-fellow
-title: "UC marine scientist named NZ's first Pew Conservation Fellow"
-date: 2017-02-23
-source-url: https://www.scoop.co.nz/stories/SC1702/S00079/uc-marine-scientist-named-nzs-first-pew-conservation-fellow.htm
+title: UC marine scientist named NZ's first Pew Conservation Fellow
+date: 2017-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00079/uc-marine-scientist-named-nzs-first-pew-conservation-fellow.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/02/23/uc-marine-scientist-named-nzs-first-pew-conservation-fellow/index.html
+layout: layout.njk
 ---
 UC marine scientist named NZ's first Pew Conservation Fellow
 ============================================================

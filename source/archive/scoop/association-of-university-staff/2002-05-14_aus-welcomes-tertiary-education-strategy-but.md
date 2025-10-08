@@ -1,9 +1,12 @@
 ---
 slug: aus-welcomes-tertiary-education-strategy-but
-title: "AUS welcomes Tertiary Education Strategy, but..."
-date: 2002-05-14
-source-url: https://www.scoop.co.nz/stories/ED0205/S00022/aus-welcomes-tertiary-education-strategy-but.htm
+title: AUS welcomes Tertiary Education Strategy, but...
+date: 2002-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00022/aus-welcomes-tertiary-education-strategy-but.htm
 author: association-of-university-staff
+permalink: /archive/2002/05/14/aus-welcomes-tertiary-education-strategy-but/index.html
+layout: layout.njk
 ---
 AUS welcomes Tertiary Education Strategy, but...
 ================================================

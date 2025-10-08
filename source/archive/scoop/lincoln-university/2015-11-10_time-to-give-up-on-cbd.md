@@ -1,9 +1,11 @@
 ---
 slug: time-to-give-up-on-cbd
-title: "Time to give up on CBD?"
-date: 2015-11-10
+title: Time to give up on CBD?
+date: 2015-11-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1511/S00241/time-to-give-up-on-cbd.htm
 author: lincoln-university
+permalink: /archive/2015/11/10/time-to-give-up-on-cbd/index.html
+layout: layout.njk
 ---
 Time to give up on CBD?
 =======================

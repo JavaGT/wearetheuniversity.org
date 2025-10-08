@@ -1,9 +1,11 @@
 ---
 slug: maiden-speech-ian-mckelvie
-title: "Maiden Speech - Ian McKelvie"
-date: 2012-02-17
+title: Maiden Speech - Ian McKelvie
+date: 2012-02-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1202/S00212/maiden-speech-ian-mckelvie.htm
 author: new-zealand-national-party
+permalink: /archive/2012/02/17/maiden-speech-ian-mckelvie/index.html
+layout: layout.njk
 ---
 Maiden Speech - Ian McKelvie
 ============================

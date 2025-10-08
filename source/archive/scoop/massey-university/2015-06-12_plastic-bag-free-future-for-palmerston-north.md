@@ -1,9 +1,12 @@
 ---
 slug: plastic-bag-free-future-for-palmerston-north
-title: "Plastic bag-free future for Palmerston North?"
-date: 2015-06-12
-source-url: https://www.scoop.co.nz/stories/AK1506/S00278/plastic-bag-free-future-for-palmerston-north.htm
+title: Plastic bag-free future for Palmerston North?
+date: 2015-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1506/S00278/plastic-bag-free-future-for-palmerston-north.htm
 author: massey-university
+permalink: /archive/2015/06/12/plastic-bag-free-future-for-palmerston-north/index.html
+layout: layout.njk
 ---
 Plastic bag-free future for Palmerston North?
 =============================================

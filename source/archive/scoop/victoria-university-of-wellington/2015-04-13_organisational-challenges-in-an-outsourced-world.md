@@ -1,9 +1,13 @@
 ---
 slug: organisational-challenges-in-an-outsourced-world
-title: "Organisational challenges in an outsourced world"
-date: 2015-04-13
-source-url: https://www.scoop.co.nz/stories/BU1504/S00280/organisational-challenges-in-an-outsourced-world.htm
+title: Organisational challenges in an outsourced world
+date: 2015-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1504/S00280/organisational-challenges-in-an-outsourced-world.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/04/13/organisational-challenges-in-an-outsourced-world/index.html
+layout: layout.njk
 ---
 Organisational challenges in an outsourced world
 ================================================

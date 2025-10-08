@@ -1,9 +1,13 @@
 ---
 slug: extend-transitional-medicinal-cannabis-standards-to-ease-patients-suffering
-title: "Extend Transitional Medicinal Cannabis Standards To Ease Patients’ Suffering"
-date: 2021-09-30
-source-url: https://www.scoop.co.nz/stories/PA2109/S00291/extend-transitional-medicinal-cannabis-standards-to-ease-patients-suffering.htm
+title: Extend Transitional Medicinal Cannabis Standards To Ease Patients’ Suffering
+date: 2021-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00291/extend-transitional-medicinal-cannabis-standards-to-ease-patients-suffering.htm
 author: green-party
+permalink: >-
+  /archive/2021/09/30/extend-transitional-medicinal-cannabis-standards-to-ease-patients-suffering/index.html
+layout: layout.njk
 ---
 Extend Transitional Medicinal Cannabis Standards To Ease Patients’ Suffering
 ============================================================================

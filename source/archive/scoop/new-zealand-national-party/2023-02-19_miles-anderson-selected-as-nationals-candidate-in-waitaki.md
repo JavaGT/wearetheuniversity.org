@@ -1,9 +1,13 @@
 ---
 slug: miles-anderson-selected-as-nationals-candidate-in-waitaki
-title: "Miles Anderson Selected As National’s Candidate In Waitaki"
-date: 2023-02-19
-source-url: https://www.scoop.co.nz/stories/PO2302/S00098/miles-anderson-selected-as-nationals-candidate-in-waitaki.htm
+title: Miles Anderson Selected As National’s Candidate In Waitaki
+date: 2023-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00098/miles-anderson-selected-as-nationals-candidate-in-waitaki.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/02/19/miles-anderson-selected-as-nationals-candidate-in-waitaki/index.html
+layout: layout.njk
 ---
 Miles Anderson Selected As National’s Candidate In Waitaki
 ==========================================================

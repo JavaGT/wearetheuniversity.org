@@ -1,9 +1,12 @@
 ---
 slug: victoria-wins-the-joynt-scroll
-title: "Victoria wins the Joynt Scroll"
-date: 2006-08-29
-source-url: https://www.scoop.co.nz/stories/ED0608/S00091/victoria-wins-the-joynt-scroll.htm
+title: Victoria wins the Joynt Scroll
+date: 2006-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00091/victoria-wins-the-joynt-scroll.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/29/victoria-wins-the-joynt-scroll/index.html
+layout: layout.njk
 ---
 Victoria wins the Joynt Scroll
 ==============================

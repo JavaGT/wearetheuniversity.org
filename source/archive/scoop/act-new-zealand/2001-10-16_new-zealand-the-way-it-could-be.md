@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-the-way-it-could-be
-title: "New Zealand the Way it Could Be"
-date: 2001-10-16
-source-url: https://www.scoop.co.nz/stories/PA0110/S00302/new-zealand-the-way-it-could-be.htm
+title: New Zealand the Way it Could Be
+date: 2001-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00302/new-zealand-the-way-it-could-be.htm
 author: act-new-zealand
+permalink: /archive/2001/10/16/new-zealand-the-way-it-could-be/index.html
+layout: layout.njk
 ---
 New Zealand the Way it Could Be
 ===============================

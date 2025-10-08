@@ -1,9 +1,13 @@
 ---
 slug: historys-incomparable-truths-suicide-in-new-zealand
-title: "History’s incomparable truths: Suicide in New Zealand"
-date: 2014-05-02
-source-url: https://www.scoop.co.nz/stories/PO1405/S00024/historys-incomparable-truths-suicide-in-new-zealand.htm
+title: 'History’s incomparable truths: Suicide in New Zealand'
+date: 2014-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00024/historys-incomparable-truths-suicide-in-new-zealand.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/05/02/historys-incomparable-truths-suicide-in-new-zealand/index.html
+layout: layout.njk
 ---
 History’s incomparable truths: Suicide in New Zealand
 =====================================================

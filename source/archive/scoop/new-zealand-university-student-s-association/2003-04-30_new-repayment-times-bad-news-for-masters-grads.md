@@ -1,9 +1,12 @@
 ---
 slug: new-repayment-times-bad-news-for-masters-grads
-title: "New repayment times bad news for Masters grads"
-date: 2003-04-30
-source-url: https://www.scoop.co.nz/stories/ED0304/S00058/new-repayment-times-bad-news-for-masters-grads.htm
+title: New repayment times bad news for Masters grads
+date: 2003-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00058/new-repayment-times-bad-news-for-masters-grads.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/04/30/new-repayment-times-bad-news-for-masters-grads/index.html
+layout: layout.njk
 ---
 New repayment times bad news for Masters grads
 ==============================================

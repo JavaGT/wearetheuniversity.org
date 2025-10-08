@@ -1,9 +1,13 @@
 ---
 slug: 2012-creative-arts-hall-of-fame-inductees-announced
-title: "2012 Creative Arts Hall of Fame inductees announced"
-date: 2012-11-05
-source-url: https://www.scoop.co.nz/stories/ED1211/S00035/2012-creative-arts-hall-of-fame-inductees-announced.htm
+title: 2012 Creative Arts Hall of Fame inductees announced
+date: 2012-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00035/2012-creative-arts-hall-of-fame-inductees-announced.htm
 author: massey-university
+permalink: >-
+  /archive/2012/11/05/2012-creative-arts-hall-of-fame-inductees-announced/index.html
+layout: layout.njk
 ---
 2012 Creative Arts Hall of Fame inductees announced
 ===================================================

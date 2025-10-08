@@ -1,9 +1,13 @@
 ---
 slug: how-democratic-are-our-local-body-elections-really
-title: "How democratic are our local body elections, really?"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/HL1608/S00065/how-democratic-are-our-local-body-elections-really.htm
+title: How democratic are our local body elections, really?
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1608/S00065/how-democratic-are-our-local-body-elections-really.htm
 author: massey-university
+permalink: >-
+  /archive/2016/08/19/how-democratic-are-our-local-body-elections-really/index.html
+layout: layout.njk
 ---
 How democratic are our local body elections, really?
 ====================================================

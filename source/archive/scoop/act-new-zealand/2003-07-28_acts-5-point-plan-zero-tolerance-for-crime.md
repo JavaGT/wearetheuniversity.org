@@ -1,9 +1,12 @@
 ---
 slug: acts-5-point-plan-zero-tolerance-for-crime
-title: "ACT's 5-Point Plan - Zero Tolerance For Crime"
-date: 2003-07-28
-source-url: https://www.scoop.co.nz/stories/PA0307/S00502/acts-5-point-plan-zero-tolerance-for-crime.htm
+title: ACT's 5-Point Plan - Zero Tolerance For Crime
+date: 2003-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00502/acts-5-point-plan-zero-tolerance-for-crime.htm
 author: act-new-zealand
+permalink: /archive/2003/07/28/acts-5-point-plan-zero-tolerance-for-crime/index.html
+layout: layout.njk
 ---
 ACT's 5-Point Plan - Zero Tolerance For Crime
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-urged-to-create-special-visa-for-ukrainians
-title: "Govt Urged To Create Special Visa For Ukrainians"
-date: 2022-03-01
-source-url: https://www.scoop.co.nz/stories/PA2203/S00006/govt-urged-to-create-special-visa-for-ukrainians.htm
+title: Govt Urged To Create Special Visa For Ukrainians
+date: 2022-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00006/govt-urged-to-create-special-visa-for-ukrainians.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/03/01/govt-urged-to-create-special-visa-for-ukrainians/index.html
+layout: layout.njk
 ---
 Govt Urged To Create Special Visa For Ukrainians
 ================================================

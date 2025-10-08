@@ -1,9 +1,12 @@
 ---
 slug: privatisation-solution-to-loan-problems
-title: "Privatisation Solution To Loan Problems"
-date: 2000-02-09
-source-url: https://www.scoop.co.nz/stories/PO0002/S00031/privatisation-solution-to-loan-problems.htm
+title: Privatisation Solution To Loan Problems
+date: 2000-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0002/S00031/privatisation-solution-to-loan-problems.htm
 author: prebble-s-rebels
+permalink: /archive/2000/02/09/privatisation-solution-to-loan-problems/index.html
+layout: layout.njk
 ---
 Privatisation Solution To Loan Problems
 =======================================

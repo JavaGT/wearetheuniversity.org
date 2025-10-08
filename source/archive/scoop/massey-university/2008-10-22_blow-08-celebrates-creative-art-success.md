@@ -1,9 +1,12 @@
 ---
 slug: blow-08-celebrates-creative-art-success
-title: "Blow.08 celebrates creative art success"
-date: 2008-10-22
-source-url: https://www.scoop.co.nz/stories/ED0810/S00094/blow08-celebrates-creative-art-success.htm
+title: Blow.08 celebrates creative art success
+date: 2008-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00094/blow08-celebrates-creative-art-success.htm
 author: massey-university
+permalink: /archive/2008/10/22/blow-08-celebrates-creative-art-success/index.html
+layout: layout.njk
 ---
 Blow.08 celebrates creative art success
 =======================================

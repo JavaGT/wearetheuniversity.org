@@ -1,9 +1,12 @@
 ---
 slug: new-field-guide-proves-popular
-title: "New field guide proves popular"
-date: 2014-12-16
-source-url: https://www.scoop.co.nz/stories/SC1412/S00050/new-field-guide-proves-popular.htm
+title: New field guide proves popular
+date: 2014-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00050/new-field-guide-proves-popular.htm
 author: university-of-waikato
+permalink: /archive/2014/12/16/new-field-guide-proves-popular/index.html
+layout: layout.njk
 ---
 New field guide proves popular
 ==============================

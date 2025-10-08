@@ -1,9 +1,11 @@
 ---
 slug: student-debt-hits-$7-billion
-title: "Student debt hits $7 billion"
-date: 2004-04-28
+title: Student debt hits $7 billion
+date: 2004-04-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0404/S00100/student-debt-hits-7-billion.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/04/28/student-debt-hits-/index.html
+layout: layout.njk
 ---
 Student debt hits $7 billion
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: massey-electronic-newsletter-issue-9-june-2004
-title: "Massey Electronic Newsletter  - Issue 9 June 2004"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/ED0406/S00031/massey-electronic-newsletter-issue-9-june-2004.htm
+title: Massey Electronic Newsletter  - Issue 9 June 2004
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00031/massey-electronic-newsletter-issue-9-june-2004.htm
 author: massey-university
+permalink: /archive/2004/06/08/massey-electronic-newsletter-issue-9-june-2004/index.html
+layout: layout.njk
 ---
 Massey Electronic Newsletter - Issue 9 June 2004
 ================================================

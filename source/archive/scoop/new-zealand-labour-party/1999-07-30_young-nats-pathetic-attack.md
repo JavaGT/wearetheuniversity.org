@@ -1,9 +1,11 @@
 ---
 slug: young-nats-pathetic-attack
-title: "Young Nats' pathetic attack"
-date: 1999-07-30
+title: Young Nats' pathetic attack
+date: 1999-07-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO9907/S00085/young-nats-pathetic-attack.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/30/young-nats-pathetic-attack/index.html
+layout: layout.njk
 ---
 Young Nats' pathetic attack
 ===========================

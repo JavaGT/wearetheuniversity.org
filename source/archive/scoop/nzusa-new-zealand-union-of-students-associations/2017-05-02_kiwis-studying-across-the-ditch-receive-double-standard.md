@@ -1,9 +1,13 @@
 ---
 slug: kiwis-studying-across-the-ditch-receive-double-standard
-title: "Kiwis Studying Across the Ditch Receive Double Standard"
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/PO1705/S00021/kiwis-studying-across-the-ditch-receive-double-standard.htm
+title: Kiwis Studying Across the Ditch Receive Double Standard
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00021/kiwis-studying-across-the-ditch-receive-double-standard.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/05/02/kiwis-studying-across-the-ditch-receive-double-standard/index.html
+layout: layout.njk
 ---
 Kiwis Studying Across the Ditch Receive Double Standard
 =======================================================

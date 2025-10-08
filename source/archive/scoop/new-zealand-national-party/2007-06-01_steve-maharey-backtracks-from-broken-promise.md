@@ -1,9 +1,12 @@
 ---
 slug: steve-maharey-backtracks-from-broken-promise
-title: "Steve Maharey backtracks from broken Promise"
-date: 2007-06-01
-source-url: https://www.scoop.co.nz/stories/PA0706/S00024/steve-maharey-backtracks-from-broken-promise.htm
+title: Steve Maharey backtracks from broken Promise
+date: 2007-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00024/steve-maharey-backtracks-from-broken-promise.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/01/steve-maharey-backtracks-from-broken-promise/index.html
+layout: layout.njk
 ---
 Steve Maharey backtracks from broken Promise
 ============================================

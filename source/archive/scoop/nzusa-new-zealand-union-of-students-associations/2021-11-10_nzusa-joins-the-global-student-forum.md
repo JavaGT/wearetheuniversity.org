@@ -1,9 +1,12 @@
 ---
 slug: nzusa-joins-the-global-student-forum
-title: "NZUSA Joins The Global Student Forum"
-date: 2021-11-10
-source-url: https://www.scoop.co.nz/stories/PO2111/S00096/nzusa-joins-the-global-student-forum.htm
+title: NZUSA Joins The Global Student Forum
+date: 2021-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2111/S00096/nzusa-joins-the-global-student-forum.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2021/11/10/nzusa-joins-the-global-student-forum/index.html
+layout: layout.njk
 ---
 NZUSA Joins The Global Student Forum
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: waikato-taniwha-rau;-he-piko-he-taniwha
-title: "Waikato Taniwha Rau; He Piko He Taniwha"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/PA1110/S00101/waikato-taniwha-rau-he-piko-he-taniwha.htm
+title: Waikato Taniwha Rau; He Piko He Taniwha
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00101/waikato-taniwha-rau-he-piko-he-taniwha.htm
 author: te-pati-maori
+permalink: /archive/2011/10/05/waikato-taniwha-rau/index.html
+layout: layout.njk
 ---
 Waikato Taniwha Rau; He Piko He Taniwha
 =======================================

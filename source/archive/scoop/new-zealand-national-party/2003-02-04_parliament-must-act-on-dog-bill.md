@@ -1,9 +1,12 @@
 ---
 slug: parliament-must-act-on-dog-bill
-title: "Parliament must act on dog Bill"
-date: 2003-02-04
-source-url: https://www.scoop.co.nz/stories/PA0302/S00033/parliament-must-act-on-dog-bill.htm
+title: Parliament must act on dog Bill
+date: 2003-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00033/parliament-must-act-on-dog-bill.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/04/parliament-must-act-on-dog-bill/index.html
+layout: layout.njk
 ---
 Parliament must act on dog Bill
 ===============================

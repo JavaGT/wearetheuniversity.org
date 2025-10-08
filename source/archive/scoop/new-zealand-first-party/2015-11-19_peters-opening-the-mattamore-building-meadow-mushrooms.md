@@ -1,9 +1,13 @@
 ---
 slug: peters-opening-the-mattamore-building-meadow-mushrooms
-title: "Peters: opening the Mattamore Building, Meadow Mushrooms"
-date: 2015-11-19
-source-url: https://www.scoop.co.nz/stories/PA1511/S00379/peters-opening-the-mattamore-building-meadow-mushrooms.htm
+title: 'Peters: opening the Mattamore Building, Meadow Mushrooms'
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00379/peters-opening-the-mattamore-building-meadow-mushrooms.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/11/19/peters-opening-the-mattamore-building-meadow-mushrooms/index.html
+layout: layout.njk
 ---
 Peters: opening the Mattamore Building, Meadow Mushrooms
 ========================================================

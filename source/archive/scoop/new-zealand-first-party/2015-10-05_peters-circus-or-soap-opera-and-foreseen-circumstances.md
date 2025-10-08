@@ -1,9 +1,13 @@
 ---
 slug: peters-circus-or-soap-opera-and-foreseen-circumstances
-title: "Peters: Circus or Soap Opera and Foreseen Circumstances"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/PA1510/S00053/peters-circus-or-soap-opera-and-foreseen-circumstances.htm
+title: 'Peters: Circus or Soap Opera and Foreseen Circumstances'
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00053/peters-circus-or-soap-opera-and-foreseen-circumstances.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/10/05/peters-circus-or-soap-opera-and-foreseen-circumstances/index.html
+layout: layout.njk
 ---
 Peters: Circus or Soap Opera and Foreseen Circumstances
 =======================================================

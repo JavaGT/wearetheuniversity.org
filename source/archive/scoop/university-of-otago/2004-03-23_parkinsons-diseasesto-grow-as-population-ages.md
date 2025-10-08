@@ -1,9 +1,12 @@
 ---
 slug: parkinsons-diseasesto-grow-as-population-ages
-title: "Parkinson’s DiseasesTo Grow As Population Ages"
-date: 2004-03-23
-source-url: https://www.scoop.co.nz/stories/GE0403/S00084/parkinsons-diseasesto-grow-as-population-ages.htm
+title: Parkinson’s DiseasesTo Grow As Population Ages
+date: 2004-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0403/S00084/parkinsons-diseasesto-grow-as-population-ages.htm
 author: university-of-otago
+permalink: /archive/2004/03/23/parkinsons-diseasesto-grow-as-population-ages/index.html
+layout: layout.njk
 ---
 Parkinson’s DiseasesTo Grow As Population Ages
 ==============================================

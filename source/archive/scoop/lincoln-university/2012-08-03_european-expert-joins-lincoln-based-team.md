@@ -1,9 +1,12 @@
 ---
 slug: european-expert-joins-lincoln-based-team
-title: "European expert joins Lincoln-based team"
-date: 2012-08-03
-source-url: https://www.scoop.co.nz/stories/ED1208/S00028/european-expert-joins-lincoln-based-team.htm
+title: European expert joins Lincoln-based team
+date: 2012-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00028/european-expert-joins-lincoln-based-team.htm
 author: lincoln-university
+permalink: /archive/2012/08/03/european-expert-joins-lincoln-based-team/index.html
+layout: layout.njk
 ---
 European expert joins Lincoln-based team
 ========================================

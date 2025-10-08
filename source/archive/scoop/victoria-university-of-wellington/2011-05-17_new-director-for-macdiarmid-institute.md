@@ -1,9 +1,12 @@
 ---
 slug: new-director-for-macdiarmid-institute
-title: "New Director for MacDiarmid Institute"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/ED1105/S00061/new-director-for-macdiarmid-institute.htm
+title: New Director for MacDiarmid Institute
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00061/new-director-for-macdiarmid-institute.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/05/17/new-director-for-macdiarmid-institute/index.html
+layout: layout.njk
 ---
 New Director for MacDiarmid Institute
 =====================================

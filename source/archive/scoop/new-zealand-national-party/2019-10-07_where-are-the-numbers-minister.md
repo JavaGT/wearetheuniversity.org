@@ -1,9 +1,12 @@
 ---
 slug: where-are-the-numbers-minister
-title: "Where are the numbers, Minister?"
-date: 2019-10-07
-source-url: https://www.scoop.co.nz/stories/PA1910/S00044/where-are-the-numbers-minister.htm
+title: Where are the numbers, Minister?
+date: 2019-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00044/where-are-the-numbers-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2019/10/07/where-are-the-numbers-minister/index.html
+layout: layout.njk
 ---
 Where are the numbers, Minister?
 ================================

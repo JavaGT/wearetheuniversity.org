@@ -1,9 +1,12 @@
 ---
 slug: desperate-phil-goff-making-stuff-up
-title: "Desperate Phil Goff making stuff up"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/PA1111/S00481/desperate-phil-goff-making-stuff-up.htm
+title: Desperate Phil Goff making stuff up
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00481/desperate-phil-goff-making-stuff-up.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/24/desperate-phil-goff-making-stuff-up/index.html
+layout: layout.njk
 ---
 Desperate Phil Goff making stuff up
 ===================================

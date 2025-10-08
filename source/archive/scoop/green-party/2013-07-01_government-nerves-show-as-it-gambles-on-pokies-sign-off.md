@@ -1,9 +1,13 @@
 ---
 slug: government-nerves-show-as-it-gambles-on-pokies-sign-off
-title: "Government nerves show as it gambles on pokies sign-off"
-date: 2013-07-01
-source-url: https://www.scoop.co.nz/stories/PA1307/S00009/government-nerves-show-as-it-gambles-on-pokies-sign-off.htm
+title: Government nerves show as it gambles on pokies sign-off
+date: 2013-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00009/government-nerves-show-as-it-gambles-on-pokies-sign-off.htm
 author: green-party
+permalink: >-
+  /archive/2013/07/01/government-nerves-show-as-it-gambles-on-pokies-sign-off/index.html
+layout: layout.njk
 ---
 Government nerves show as it gambles on pokies sign-off
 =======================================================

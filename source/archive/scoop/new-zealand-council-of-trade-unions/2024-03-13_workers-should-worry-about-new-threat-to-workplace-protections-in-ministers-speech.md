@@ -1,9 +1,16 @@
 ---
-slug: workers-should-worry-about-new-threat-to-workplace-protections-in-ministers-speech
-title: "Workers Should Worry About New Threat To Workplace Protections In Minister’s Speech"
-date: 2024-03-13
-source-url: https://www.scoop.co.nz/stories/PO2403/S00113/workers-should-worry-about-new-threat-to-workplace-protections-in-ministers-speech.htm
+slug: >-
+  workers-should-worry-about-new-threat-to-workplace-protections-in-ministers-speech
+title: >-
+  Workers Should Worry About New Threat To Workplace Protections In Minister’s
+  Speech
+date: 2024-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2403/S00113/workers-should-worry-about-new-threat-to-workplace-protections-in-ministers-speech.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2024/03/13/workers-should-worry-about-new-threat-to-workplace-protections-in-ministers-speech/index.html
+layout: layout.njk
 ---
 Workers Should Worry About New Threat To Workplace Protections In Minister’s Speech
 ===================================================================================

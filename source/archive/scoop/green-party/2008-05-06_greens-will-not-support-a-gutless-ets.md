@@ -1,9 +1,12 @@
 ---
 slug: greens-will-not-support-a-gutless-ets
-title: "Greens will not support a gutless ETS"
-date: 2008-05-06
-source-url: https://www.scoop.co.nz/stories/PA0805/S00077/greens-will-not-support-a-gutless-ets.htm
+title: Greens will not support a gutless ETS
+date: 2008-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00077/greens-will-not-support-a-gutless-ets.htm
 author: green-party
+permalink: /archive/2008/05/06/greens-will-not-support-a-gutless-ets/index.html
+layout: layout.njk
 ---
 Greens will not support a gutless ETS
 =====================================

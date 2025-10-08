@@ -1,9 +1,12 @@
 ---
 slug: will-students-also-have-to-repay-loans-faster
-title: "Will students also have to repay loans faster?"
-date: 2009-02-24
-source-url: https://www.scoop.co.nz/stories/PA0902/S00368/will-students-also-have-to-repay-loans-faster.htm
+title: Will students also have to repay loans faster?
+date: 2009-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00368/will-students-also-have-to-repay-loans-faster.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/24/will-students-also-have-to-repay-loans-faster/index.html
+layout: layout.njk
 ---
 Will students also have to repay loans faster?
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: red-zone-mental-health-issues-wont-go-away
-title: "Red Zone mental health issues won’t go away"
-date: 2016-11-03
-source-url: https://www.scoop.co.nz/stories/PA1611/S00073/red-zone-mental-health-issues-wont-go-away.htm
+title: Red Zone mental health issues won’t go away
+date: 2016-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00073/red-zone-mental-health-issues-wont-go-away.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/03/red-zone-mental-health-issues-wont-go-away/index.html
+layout: layout.njk
 ---
 Red Zone mental health issues won’t go away
 ===========================================

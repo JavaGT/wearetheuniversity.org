@@ -1,9 +1,11 @@
 ---
 slug: crime-figures-just-get-worse
-title: "Crime figures just get worse"
-date: 2006-10-02
+title: Crime figures just get worse
+date: 2006-10-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0610/S00022/crime-figures-just-get-worse.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/02/crime-figures-just-get-worse/index.html
+layout: layout.njk
 ---
 Crime figures just get worse
 ============================

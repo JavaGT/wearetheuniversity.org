@@ -1,9 +1,12 @@
 ---
 slug: teachers-must-rebuild-trust-in-themselves
-title: "Teachers must rebuild trust in themselves"
-date: 2006-05-11
-source-url: https://www.scoop.co.nz/stories/ED0605/S00045/teachers-must-rebuild-trust-in-themselves.htm
+title: Teachers must rebuild trust in themselves
+date: 2006-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00045/teachers-must-rebuild-trust-in-themselves.htm
 author: massey-university
+permalink: /archive/2006/05/11/teachers-must-rebuild-trust-in-themselves/index.html
+layout: layout.njk
 ---
 Teachers must rebuild trust in themselves
 =========================================

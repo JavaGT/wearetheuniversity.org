@@ -1,9 +1,12 @@
 ---
 slug: what-we-can-learn-from-the-way-is-communicates
-title: "What we can learn from the way IS communicates"
-date: 2016-02-23
-source-url: https://www.scoop.co.nz/stories/PO1602/S00301/what-we-can-learn-from-the-way-is-communicates.htm
+title: What we can learn from the way IS communicates
+date: 2016-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1602/S00301/what-we-can-learn-from-the-way-is-communicates.htm
 author: massey-university
+permalink: /archive/2016/02/23/what-we-can-learn-from-the-way-is-communicates/index.html
+layout: layout.njk
 ---
 What we can learn from the way IS communicates
 ==============================================

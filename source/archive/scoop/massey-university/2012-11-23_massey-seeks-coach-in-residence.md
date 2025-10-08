@@ -1,9 +1,12 @@
 ---
 slug: massey-seeks-coach-in-residence
-title: "Massey Seeks Coach In Residence"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/ED1211/S00171/massey-seeks-coach-in-residence.htm
+title: Massey Seeks Coach In Residence
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00171/massey-seeks-coach-in-residence.htm
 author: massey-university
+permalink: /archive/2012/11/23/massey-seeks-coach-in-residence/index.html
+layout: layout.njk
 ---
 Massey Seeks Coach In Residence
 ===============================

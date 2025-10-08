@@ -1,9 +1,13 @@
 ---
 slug: nz-research-shows-potential-for-first-gonorrhoea-vaccine
-title: "NZ Research Shows Potential for First Gonorrhoea Vaccine"
-date: 2017-07-11
-source-url: https://www.scoop.co.nz/stories/ED1707/S00038/nz-research-shows-potential-for-first-gonorrhoea-vaccine.htm
+title: NZ Research Shows Potential for First Gonorrhoea Vaccine
+date: 2017-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00038/nz-research-shows-potential-for-first-gonorrhoea-vaccine.htm
 author: auckland-university
+permalink: >-
+  /archive/2017/07/11/nz-research-shows-potential-for-first-gonorrhoea-vaccine/index.html
+layout: layout.njk
 ---
 NZ Research Shows Potential for First Gonorrhoea Vaccine
 ========================================================

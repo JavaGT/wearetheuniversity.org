@@ -1,9 +1,12 @@
 ---
 slug: more-police-on-their-way-to-canterbury
-title: "More Police on their way to Canterbury"
-date: 2017-04-13
-source-url: https://www.scoop.co.nz/stories/PA1704/S00176/more-police-on-their-way-to-canterbury.htm
+title: More Police on their way to Canterbury
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00176/more-police-on-their-way-to-canterbury.htm
 author: new-zealand-national-party
+permalink: /archive/2017/04/13/more-police-on-their-way-to-canterbury/index.html
+layout: layout.njk
 ---
 More Police on their way to Canterbury
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: research-on-children-with-adhd-will-soon-help-nz-teachers
-title: "Research on children with ADHD will soon help NZ teachers"
-date: 2015-02-24
-source-url: https://www.scoop.co.nz/stories/SC1502/S00045/research-on-children-with-adhd-will-soon-help-nz-teachers.htm
+title: Research on children with ADHD will soon help NZ teachers
+date: 2015-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1502/S00045/research-on-children-with-adhd-will-soon-help-nz-teachers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/24/research-on-children-with-adhd-will-soon-help-nz-teachers/index.html
+layout: layout.njk
 ---
 Research on children with ADHD will soon help NZ teachers
 =========================================================

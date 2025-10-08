@@ -1,9 +1,13 @@
 ---
 slug: gareth-morgan-adds-signature-to-green-party-rivers-campaign
-title: "Gareth Morgan adds signature to Green Party rivers campaign"
-date: 2014-06-26
-source-url: https://www.scoop.co.nz/stories/PA1406/S00407/gareth-morgan-adds-signature-to-green-party-rivers-campaign.htm
+title: Gareth Morgan adds signature to Green Party rivers campaign
+date: 2014-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00407/gareth-morgan-adds-signature-to-green-party-rivers-campaign.htm
 author: green-party
+permalink: >-
+  /archive/2014/06/26/gareth-morgan-adds-signature-to-green-party-rivers-campaign/index.html
+layout: layout.njk
 ---
 Gareth Morgan adds signature to Green Party rivers campaign
 ===========================================================

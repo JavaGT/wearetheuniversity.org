@@ -1,9 +1,12 @@
 ---
 slug: mmp-and-the-constitution-a-stock-take
-title: "MMP and the Constitution: a stock-take"
-date: 2010-01-13
-source-url: https://www.scoop.co.nz/stories/PO1001/S00019/mmp-and-the-constitution-a-stock-take.htm
+title: 'MMP and the Constitution: a stock-take'
+date: 2010-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1001/S00019/mmp-and-the-constitution-a-stock-take.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/01/13/mmp-and-the-constitution-a-stock-take/index.html
+layout: layout.njk
 ---
 MMP and the Constitution: a stock-take
 ======================================

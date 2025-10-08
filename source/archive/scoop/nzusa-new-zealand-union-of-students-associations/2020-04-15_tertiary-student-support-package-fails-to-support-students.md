@@ -1,9 +1,13 @@
 ---
 slug: tertiary-student-support-package-fails-to-support-students
-title: "Tertiary Student Support Package Fails To Support Students"
-date: 2020-04-15
-source-url: https://www.scoop.co.nz/stories/PO2004/S00114/tertiary-student-support-package-fails-to-support-students.htm
+title: Tertiary Student Support Package Fails To Support Students
+date: 2020-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2004/S00114/tertiary-student-support-package-fails-to-support-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2020/04/15/tertiary-student-support-package-fails-to-support-students/index.html
+layout: layout.njk
 ---
 Tertiary Student Support Package Fails To Support Students
 ==========================================================

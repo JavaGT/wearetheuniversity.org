@@ -1,9 +1,12 @@
 ---
 slug: community-puts-student-debt-under-microscope
-title: "Community Puts Student Debt Under Microscope"
-date: 2000-08-23
-source-url: https://www.scoop.co.nz/stories/ED0008/S00040/community-puts-student-debt-under-microscope.htm
+title: Community Puts Student Debt Under Microscope
+date: 2000-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00040/community-puts-student-debt-under-microscope.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/08/23/community-puts-student-debt-under-microscope/index.html
+layout: layout.njk
 ---
 Community Puts Student Debt Under Microscope
 ============================================

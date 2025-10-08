@@ -1,8 +1,11 @@
 ---
 slug: list-of-top-alien-species-invaders-on-islands
-title: "List of top alien species invaders on islands"
-date: 2017-06-13
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/list-of-top-alien-species-invaders-on-islands.html
+title: List of top alien species invaders on islands
+date: 2017-06-13T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/list-of-top-alien-species-invaders-on-islands.html
+permalink: /archive/2017/06/13/list-of-top-alien-species-invaders-on-islands/index.html
+layout: layout.njk
 ---
 List of top alien species invaders on islands
 =============================================

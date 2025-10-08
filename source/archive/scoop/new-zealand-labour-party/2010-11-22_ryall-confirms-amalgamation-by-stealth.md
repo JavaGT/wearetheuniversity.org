@@ -1,9 +1,12 @@
 ---
 slug: ryall-confirms-amalgamation-by-stealth
-title: "Ryall confirms amalgamation by stealth"
-date: 2010-11-22
-source-url: https://www.scoop.co.nz/stories/PA1011/S00448/ryall-confirms-amalgamation-by-stealth.htm
+title: Ryall confirms amalgamation by stealth
+date: 2010-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00448/ryall-confirms-amalgamation-by-stealth.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/22/ryall-confirms-amalgamation-by-stealth/index.html
+layout: layout.njk
 ---
 Ryall confirms amalgamation by stealth
 ======================================

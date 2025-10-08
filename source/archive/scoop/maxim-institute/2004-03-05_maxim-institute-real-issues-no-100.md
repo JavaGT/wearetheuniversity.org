@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-100
-title: "Maxim Institute - real issues - No. 100"
-date: 2004-03-05
-source-url: https://www.scoop.co.nz/stories/PO0403/S00045/maxim-institute-real-issues-no-100.htm
+title: Maxim Institute - real issues - No. 100
+date: 2004-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0403/S00045/maxim-institute-real-issues-no-100.htm
 author: maxim-institute
+permalink: /archive/2004/03/05/maxim-institute-real-issues-no-100/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 100
 =======================================

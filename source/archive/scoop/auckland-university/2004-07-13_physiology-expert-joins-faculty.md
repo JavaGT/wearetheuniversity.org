@@ -1,9 +1,12 @@
 ---
 slug: physiology-expert-joins-faculty
-title: "Physiology Expert Joins Faculty"
-date: 2004-07-13
-source-url: https://www.scoop.co.nz/stories/ED0407/S00043/physiology-expert-joins-faculty.htm
+title: Physiology Expert Joins Faculty
+date: 2004-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00043/physiology-expert-joins-faculty.htm
 author: auckland-university
+permalink: /archive/2004/07/13/physiology-expert-joins-faculty/index.html
+layout: layout.njk
 ---
 Physiology Expert Joins Faculty
 ===============================

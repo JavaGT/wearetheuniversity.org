@@ -1,9 +1,13 @@
 ---
 slug: maori-party-tertiary-policy-offers-positive-solutions
-title: "Maori Party tertiary policy offers positive solutions"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/ED1111/S00032/maori-party-tertiary-policy-offers-positive-solutions.htm
+title: Maori Party tertiary policy offers positive solutions
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00032/maori-party-tertiary-policy-offers-positive-solutions.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/11/04/maori-party-tertiary-policy-offers-positive-solutions/index.html
+layout: layout.njk
 ---
 Maori Party tertiary policy offers positive solutions
 =====================================================

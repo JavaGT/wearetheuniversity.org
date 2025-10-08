@@ -1,9 +1,12 @@
 ---
 slug: john-banks-must-be-stood-down
-title: "John Banks must be stood down"
-date: 2012-04-28
-source-url: https://www.scoop.co.nz/stories/PA1204/S00354/john-banks-must-be-stood-down.htm
+title: John Banks must be stood down
+date: 2012-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00354/john-banks-must-be-stood-down.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/28/john-banks-must-be-stood-down/index.html
+layout: layout.njk
 ---
 John Banks must be stood down
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: sanctuary-sonically-&-visually-exploring-mental-health
-title: "'Sanctuary' - Sonically & Visually Exploring Mental Health"
-date: 2017-09-26
-source-url: https://www.scoop.co.nz/stories/CU1709/S00459/sanctuary-sonically-visually-exploring-mental-health.htm
+title: '''Sanctuary'' - Sonically & Visually Exploring Mental Health'
+date: 2017-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1709/S00459/sanctuary-sonically-visually-exploring-mental-health.htm
 author: massey-university
+permalink: /archive/2017/09/26/sanctuary-sonically-/index.html
+layout: layout.njk
 ---
 'Sanctuary' - Sonically & Visually Exploring Mental Health
 ==========================================================

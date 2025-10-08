@@ -1,9 +1,12 @@
 ---
 slug: national-shovels-more-cash-to-charter-schools
-title: "National shovels more cash to charter schools"
-date: 2014-05-21
-source-url: https://www.scoop.co.nz/stories/PA1405/S00414/national-shovels-more-cash-to-charter-schools.htm
+title: National shovels more cash to charter schools
+date: 2014-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00414/national-shovels-more-cash-to-charter-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/21/national-shovels-more-cash-to-charter-schools/index.html
+layout: layout.njk
 ---
 National shovels more cash to charter schools
 =============================================

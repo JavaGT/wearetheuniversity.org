@@ -1,9 +1,12 @@
 ---
 slug: a-deeper-look-at-the-languages-of-vanuatu
-title: "A deeper look at the languages of Vanuatu"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/ED1111/S00038/a-deeper-look-at-the-languages-of-vanuatu.htm
+title: A deeper look at the languages of Vanuatu
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00038/a-deeper-look-at-the-languages-of-vanuatu.htm
 author: waikato-university
+permalink: /archive/2011/11/04/a-deeper-look-at-the-languages-of-vanuatu/index.html
+layout: layout.njk
 ---
 A deeper look at the languages of Vanuatu
 =========================================

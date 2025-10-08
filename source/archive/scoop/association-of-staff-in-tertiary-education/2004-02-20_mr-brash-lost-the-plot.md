@@ -1,9 +1,11 @@
 ---
 slug: mr-brash-lost-the-plot
-title: "Mr Brash lost the plot?"
-date: 2004-02-20
+title: Mr Brash lost the plot?
+date: 2004-02-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0402/S00054/mr-brash-lost-the-plot.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2004/02/20/mr-brash-lost-the-plot/index.html
+layout: layout.njk
 ---
 Mr Brash lost the plot?
 =======================

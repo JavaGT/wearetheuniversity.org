@@ -1,9 +1,12 @@
 ---
 slug: no-moggy-holiday-says-coromandel-mp
-title: "No Moggy Holiday says Coromandel MP"
-date: 2014-12-12
-source-url: https://www.scoop.co.nz/stories/PA1412/S00263/no-moggy-holiday-says-coromandel-mp.htm
+title: No Moggy Holiday says Coromandel MP
+date: 2014-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00263/no-moggy-holiday-says-coromandel-mp.htm
 author: new-zealand-national-party
+permalink: /archive/2014/12/12/no-moggy-holiday-says-coromandel-mp/index.html
+layout: layout.njk
 ---
 No Moggy Holiday says Coromandel MP
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: labels-keep-consumers-in-the-dark
-title: "Labels keep consumers in the dark"
-date: 2006-04-12
-source-url: https://www.scoop.co.nz/stories/PA0604/S00221/labels-keep-consumers-in-the-dark.htm
+title: Labels keep consumers in the dark
+date: 2006-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00221/labels-keep-consumers-in-the-dark.htm
 author: green-party
+permalink: /archive/2006/04/12/labels-keep-consumers-in-the-dark/index.html
+layout: layout.njk
 ---
 Labels keep consumers in the dark
 =================================

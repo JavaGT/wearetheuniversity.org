@@ -1,9 +1,12 @@
 ---
 slug: ōhāriu-companies-contributing-to-hi-tech-sector
-title: "Ōhāriu companies contributing to hi-tech sector"
-date: 2016-10-21
-source-url: https://www.scoop.co.nz/stories/PA1610/S00344/ohariu-companies-contributing-to-hi-tech-sector.htm
+title: Ōhāriu companies contributing to hi-tech sector
+date: 2016-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00344/ohariu-companies-contributing-to-hi-tech-sector.htm
 author: new-zealand-national-party
+permalink: /archive/2016/10/21/h-riu-companies-contributing-to-hi-tech-sector/index.html
+layout: layout.njk
 ---
 Ōhāriu companies contributing to hi-tech sector
 ===============================================

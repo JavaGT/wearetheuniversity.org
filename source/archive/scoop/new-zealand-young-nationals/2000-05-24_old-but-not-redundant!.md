@@ -1,9 +1,11 @@
 ---
 slug: old-but-not-redundant!
-title: "Old But Not Redundant!"
-date: 2000-05-24
+title: Old But Not Redundant!
+date: 2000-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0005/S00141/old-but-not-redundant.htm
 author: new-zealand-young-nationals
+permalink: /archive/2000/05/24/old-but-not-redundant/index.html
+layout: layout.njk
 ---
 Old But Not Redundant!
 ======================

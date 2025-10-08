@@ -1,9 +1,11 @@
 ---
 slug: tbi-network-bridges-gap
-title: "TBI Network bridges gap"
-date: 2019-05-21
+title: TBI Network bridges gap
+date: 2019-05-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1905/S00079/tbi-network-bridges-gap.htm
 author: aut-university
+permalink: /archive/2019/05/21/tbi-network-bridges-gap/index.html
+layout: layout.njk
 ---
 TBI Network bridges gap
 =======================

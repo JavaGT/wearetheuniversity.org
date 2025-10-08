@@ -1,9 +1,12 @@
 ---
 slug: act-to-advise-employers-how-to-avoid-erb
-title: "ACT To Advise Employers How To Avoid ERB"
-date: 2000-08-17
-source-url: https://www.scoop.co.nz/stories/PA0008/S00318/act-to-advise-employers-how-to-avoid-erb.htm
+title: ACT To Advise Employers How To Avoid ERB
+date: 2000-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00318/act-to-advise-employers-how-to-avoid-erb.htm
 author: act-new-zealand
+permalink: /archive/2000/08/17/act-to-advise-employers-how-to-avoid-erb/index.html
+layout: layout.njk
 ---
 ACT To Advise Employers How To Avoid ERB
 ========================================

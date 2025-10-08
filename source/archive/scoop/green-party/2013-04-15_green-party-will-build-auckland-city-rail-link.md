@@ -1,9 +1,12 @@
 ---
 slug: green-party-will-build-auckland-city-rail-link
-title: "Green Party will build Auckland city rail link"
-date: 2013-04-15
-source-url: https://www.scoop.co.nz/stories/PA1304/S00263/green-party-will-build-auckland-city-rail-link.htm
+title: Green Party will build Auckland city rail link
+date: 2013-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00263/green-party-will-build-auckland-city-rail-link.htm
 author: green-party
+permalink: /archive/2013/04/15/green-party-will-build-auckland-city-rail-link/index.html
+layout: layout.njk
 ---
 Green Party will build Auckland city rail link
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: ryall-pursues-partisan-agenda
-title: "Ryall pursues partisan agenda"
-date: 2009-01-29
-source-url: https://www.scoop.co.nz/stories/PA0901/S00137/ryall-pursues-partisan-agenda.htm
+title: Ryall pursues partisan agenda
+date: 2009-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0901/S00137/ryall-pursues-partisan-agenda.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/01/29/ryall-pursues-partisan-agenda/index.html
+layout: layout.njk
 ---
 Ryall pursues partisan agenda
 =============================

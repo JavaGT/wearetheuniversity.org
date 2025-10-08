@@ -1,9 +1,12 @@
 ---
 slug: bloodiest-saddest-day-in-nzs-military-history
-title: "Bloodiest, Saddest Day in NZ’s Military History"
-date: 2017-10-12
-source-url: https://www.scoop.co.nz/stories/PA1710/S00032/bloodiest-saddest-day-in-nzs-military-history.htm
+title: Bloodiest, Saddest Day in NZ’s Military History
+date: 2017-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1710/S00032/bloodiest-saddest-day-in-nzs-military-history.htm
 author: new-zealand-first-party
+permalink: /archive/2017/10/12/bloodiest-saddest-day-in-nzs-military-history/index.html
+layout: layout.njk
 ---
 Bloodiest, Saddest Day in NZ’s Military History
 ===============================================

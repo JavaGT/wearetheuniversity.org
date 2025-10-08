@@ -1,9 +1,12 @@
 ---
 slug: new-insights-into-ancient-pacific-settlers-diet
-title: "New insights into ancient Pacific settlers’ diet"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/SC1403/S00013/new-insights-into-ancient-pacific-settlers-diet.htm
+title: New insights into ancient Pacific settlers’ diet
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00013/new-insights-into-ancient-pacific-settlers-diet.htm
 author: university-of-otago
+permalink: /archive/2014/03/06/new-insights-into-ancient-pacific-settlers-diet/index.html
+layout: layout.njk
 ---
 New insights into ancient Pacific settlers’ diet
 ================================================

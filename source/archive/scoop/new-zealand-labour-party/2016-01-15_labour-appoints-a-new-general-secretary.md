@@ -1,9 +1,12 @@
 ---
 slug: labour-appoints-a-new-general-secretary
-title: "Labour Appoints a New General Secretary"
-date: 2016-01-15
-source-url: https://www.scoop.co.nz/stories/PO1601/S00070/labour-appoints-a-new-general-secretary.htm
+title: Labour Appoints a New General Secretary
+date: 2016-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1601/S00070/labour-appoints-a-new-general-secretary.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/01/15/labour-appoints-a-new-general-secretary/index.html
+layout: layout.njk
 ---
 Labour Appoints a New General Secretary
 =======================================

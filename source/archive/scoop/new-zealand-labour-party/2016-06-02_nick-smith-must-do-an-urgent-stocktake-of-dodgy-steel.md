@@ -1,9 +1,13 @@
 ---
 slug: nick-smith-must-do-an-urgent-stocktake-of-dodgy-steel
-title: "Nick Smith must do an urgent stocktake of dodgy steel"
-date: 2016-06-02
-source-url: https://www.scoop.co.nz/stories/PA1606/S00031/nick-smith-must-do-an-urgent-stocktake-of-dodgy-steel.htm
+title: Nick Smith must do an urgent stocktake of dodgy steel
+date: 2016-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00031/nick-smith-must-do-an-urgent-stocktake-of-dodgy-steel.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/06/02/nick-smith-must-do-an-urgent-stocktake-of-dodgy-steel/index.html
+layout: layout.njk
 ---
 Nick Smith must do an urgent stocktake of dodgy steel
 =====================================================

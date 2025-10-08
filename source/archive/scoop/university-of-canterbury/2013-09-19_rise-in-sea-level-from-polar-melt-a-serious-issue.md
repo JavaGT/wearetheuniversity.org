@@ -1,9 +1,13 @@
 ---
 slug: rise-in-sea-level-from-polar-melt-a-serious-issue
-title: "Rise in sea level from polar melt a serious issue"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/SC1309/S00049/rise-in-sea-level-from-polar-melt-a-serious-issue.htm
+title: Rise in sea level from polar melt a serious issue
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00049/rise-in-sea-level-from-polar-melt-a-serious-issue.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/19/rise-in-sea-level-from-polar-melt-a-serious-issue/index.html
+layout: layout.njk
 ---
 Rise in sea level from polar melt a serious issue
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: ncea-botch-up-needs-explanation
-title: "NCEA botch-up needs explanation"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/PA0702/S00251/ncea-botch-up-needs-explanation.htm
+title: NCEA botch-up needs explanation
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00251/ncea-botch-up-needs-explanation.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/14/ncea-botch-up-needs-explanation/index.html
+layout: layout.njk
 ---
 NCEA botch-up needs explanation
 ===============================

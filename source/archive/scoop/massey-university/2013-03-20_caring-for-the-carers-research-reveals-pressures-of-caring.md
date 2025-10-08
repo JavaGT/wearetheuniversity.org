@@ -1,9 +1,13 @@
 ---
 slug: caring-for-the-carers-research-reveals-pressures-of-caring
-title: "Caring for the carers: research reveals pressures of caring"
-date: 2013-03-20
-source-url: https://www.scoop.co.nz/stories/GE1303/S00074/caring-for-the-carers-research-reveals-pressures-of-caring.htm
+title: 'Caring for the carers: research reveals pressures of caring'
+date: 2013-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1303/S00074/caring-for-the-carers-research-reveals-pressures-of-caring.htm
 author: massey-university
+permalink: >-
+  /archive/2013/03/20/caring-for-the-carers-research-reveals-pressures-of-caring/index.html
+layout: layout.njk
 ---
 Caring for the carers: research reveals pressures of caring
 ===========================================================

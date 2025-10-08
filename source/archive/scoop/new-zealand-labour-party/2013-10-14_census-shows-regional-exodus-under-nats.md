@@ -1,9 +1,12 @@
 ---
 slug: census-shows-regional-exodus-under-nats
-title: "Census shows regional exodus under Nats"
-date: 2013-10-14
-source-url: https://www.scoop.co.nz/stories/PA1310/S00219/census-shows-regional-exodus-under-nats.htm
+title: Census shows regional exodus under Nats
+date: 2013-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00219/census-shows-regional-exodus-under-nats.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/14/census-shows-regional-exodus-under-nats/index.html
+layout: layout.njk
 ---
 Census shows regional exodus under Nats
 =======================================

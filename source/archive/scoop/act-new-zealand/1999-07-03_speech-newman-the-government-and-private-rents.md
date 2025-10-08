@@ -1,9 +1,12 @@
 ---
 slug: speech-newman-the-government-and-private-rents
-title: "Speech: Newman - The Government And Private Rents"
-date: 1999-07-03
-source-url: https://www.scoop.co.nz/stories/PA9907/S00055/speech-newman-the-government-and-private-rents.htm
+title: 'Speech: Newman - The Government And Private Rents'
+date: 1999-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00055/speech-newman-the-government-and-private-rents.htm
 author: act-new-zealand
+permalink: /archive/1999/07/03/speech-newman-the-government-and-private-rents/index.html
+layout: layout.njk
 ---
 Speech: Newman - The Government And Private Rents
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: hipkins-causes-more-charter-school-confusion
-title: "Hipkins Causes More Charter School Confusion"
-date: 2017-11-08
-source-url: https://www.scoop.co.nz/stories/PA1711/S00042/hipkins-causes-more-charter-school-confusion.htm
+title: Hipkins Causes More Charter School Confusion
+date: 2017-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00042/hipkins-causes-more-charter-school-confusion.htm
 author: act-new-zealand
+permalink: /archive/2017/11/08/hipkins-causes-more-charter-school-confusion/index.html
+layout: layout.njk
 ---
 Hipkins Causes More Charter School Confusion
 ============================================

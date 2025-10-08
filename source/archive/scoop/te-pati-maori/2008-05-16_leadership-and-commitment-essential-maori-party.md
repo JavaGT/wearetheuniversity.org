@@ -1,9 +1,12 @@
 ---
 slug: leadership-and-commitment-essential-maori-party
-title: "Leadership and commitment essential – Maori Party"
-date: 2008-05-16
-source-url: https://www.scoop.co.nz/stories/PA0805/S00286/leadership-and-commitment-essential-maori-party.htm
+title: Leadership and commitment essential – Maori Party
+date: 2008-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00286/leadership-and-commitment-essential-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2008/05/16/leadership-and-commitment-essential-maori-party/index.html
+layout: layout.njk
 ---
 Leadership and commitment essential – Maori Party
 =================================================

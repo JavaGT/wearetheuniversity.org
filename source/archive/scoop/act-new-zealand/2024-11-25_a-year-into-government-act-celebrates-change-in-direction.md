@@ -1,9 +1,13 @@
 ---
 slug: a-year-into-government-act-celebrates-change-in-direction
-title: "A Year Into Government, ACT Celebrates Change In Direction"
-date: 2024-11-25
-source-url: https://www.scoop.co.nz/stories/PA2411/S00196/a-year-into-government-act-celebrates-change-in-direction.htm
+title: A Year Into Government, ACT Celebrates Change In Direction
+date: 2024-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00196/a-year-into-government-act-celebrates-change-in-direction.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/11/25/a-year-into-government-act-celebrates-change-in-direction/index.html
+layout: layout.njk
 ---
 A Year Into Government, ACT Celebrates Change In Direction
 ==========================================================

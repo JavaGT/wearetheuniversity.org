@@ -1,8 +1,11 @@
 ---
 slug: garden-of-knowledge-project-unites-generations
-title: "Garden of Knowledge project unites generations"
-date: 2015-11-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/garden-of-knowledge-project-unites-generations.html
+title: Garden of Knowledge project unites generations
+date: 2015-11-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/garden-of-knowledge-project-unites-generations.html
+permalink: /archive/2015/11/27/garden-of-knowledge-project-unites-generations/index.html
+layout: layout.njk
 ---
 Garden of Knowledge project unites generations
 ==============================================

@@ -1,9 +1,16 @@
 ---
-slug: new-project-ensures-the-benefits-of-indigenous-data-are-shared-with-indigenous-people
-title: "New Project Ensures The Benefits Of Indigenous Data Are Shared With Indigenous People"
-date: 2021-10-11
-source-url: https://www.scoop.co.nz/stories/SC2110/S00029/new-project-ensures-the-benefits-of-indigenous-data-are-shared-with-indigenous-people.htm
+slug: >-
+  new-project-ensures-the-benefits-of-indigenous-data-are-shared-with-indigenous-people
+title: >-
+  New Project Ensures The Benefits Of Indigenous Data Are Shared With Indigenous
+  People
+date: 2021-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2110/S00029/new-project-ensures-the-benefits-of-indigenous-data-are-shared-with-indigenous-people.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/10/11/new-project-ensures-the-benefits-of-indigenous-data-are-shared-with-indigenous-people/index.html
+layout: layout.njk
 ---
 New Project Ensures The Benefits Of Indigenous Data Are Shared With Indigenous People
 =====================================================================================

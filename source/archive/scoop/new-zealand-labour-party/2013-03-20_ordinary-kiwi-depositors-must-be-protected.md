@@ -1,9 +1,12 @@
 ---
 slug: ordinary-kiwi-depositors-must-be-protected
-title: "Ordinary Kiwi depositors must be protected"
-date: 2013-03-20
-source-url: https://www.scoop.co.nz/stories/PA1303/S00332/ordinary-kiwi-depositors-must-be-protected.htm
+title: Ordinary Kiwi depositors must be protected
+date: 2013-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00332/ordinary-kiwi-depositors-must-be-protected.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/20/ordinary-kiwi-depositors-must-be-protected/index.html
+layout: layout.njk
 ---
 Ordinary Kiwi depositors must be protected
 ==========================================

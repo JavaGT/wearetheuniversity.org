@@ -1,9 +1,12 @@
 ---
 slug: hunt-on-for-massey-journalists
-title: "Hunt on for Massey Journalists"
-date: 2006-04-15
-source-url: https://www.scoop.co.nz/stories/ED0604/S00055/hunt-on-for-massey-journalists.htm
+title: Hunt on for Massey Journalists
+date: 2006-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00055/hunt-on-for-massey-journalists.htm
 author: massey-university
+permalink: /archive/2006/04/15/hunt-on-for-massey-journalists/index.html
+layout: layout.njk
 ---
 Hunt on for Massey Journalists
 ==============================

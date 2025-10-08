@@ -1,9 +1,12 @@
 ---
 slug: university-announces-new-deputy-vice-chancellor
-title: "University announces new Deputy Vice-Chancellor"
-date: 2008-08-14
-source-url: https://www.scoop.co.nz/stories/ED0808/S00031/university-announces-new-deputy-vice-chancellor.htm
+title: University announces new Deputy Vice-Chancellor
+date: 2008-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00031/university-announces-new-deputy-vice-chancellor.htm
 author: university-of-otago
+permalink: /archive/2008/08/14/university-announces-new-deputy-vice-chancellor/index.html
+layout: layout.njk
 ---
 University announces new Deputy Vice-Chancellor
 ===============================================

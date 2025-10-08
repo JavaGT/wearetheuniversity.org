@@ -1,9 +1,13 @@
 ---
 slug: medical-students-encouraged-by-surgeons-apology-on-bullying
-title: "Medical students encouraged by Surgeon’s apology on bullying"
-date: 2015-09-14
-source-url: https://www.scoop.co.nz/stories/GE1509/S00078/medical-students-encouraged-by-surgeons-apology-on-bullying.htm
+title: Medical students encouraged by Surgeon’s apology on bullying
+date: 2015-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1509/S00078/medical-students-encouraged-by-surgeons-apology-on-bullying.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2015/09/14/medical-students-encouraged-by-surgeons-apology-on-bullying/index.html
+layout: layout.njk
 ---
 Medical students encouraged by Surgeon’s apology on bullying
 ============================================================

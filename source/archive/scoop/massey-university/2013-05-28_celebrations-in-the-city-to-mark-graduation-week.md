@@ -1,9 +1,13 @@
 ---
 slug: celebrations-in-the-city-to-mark-graduation-week
-title: "Celebrations in the city to mark graduation week"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/ED1305/S00187/celebrations-in-the-city-to-mark-graduation-week.htm
+title: Celebrations in the city to mark graduation week
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00187/celebrations-in-the-city-to-mark-graduation-week.htm
 author: massey-university
+permalink: >-
+  /archive/2013/05/28/celebrations-in-the-city-to-mark-graduation-week/index.html
+layout: layout.njk
 ---
 Celebrations in the city to mark graduation week
 ================================================

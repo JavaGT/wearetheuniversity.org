@@ -1,9 +1,12 @@
 ---
 slug: government-to-blame-for-skyrocketing-fees
-title: "Government to blame for skyrocketing fees"
-date: 2010-10-19
-source-url: https://www.scoop.co.nz/stories/ED1010/S00066/government-to-blame-for-skyrocketing-fees.htm
+title: Government to blame for skyrocketing fees
+date: 2010-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00066/government-to-blame-for-skyrocketing-fees.htm
 author: auckland-university-students-association
+permalink: /archive/2010/10/19/government-to-blame-for-skyrocketing-fees/index.html
+layout: layout.njk
 ---
 Government to blame for skyrocketing fees
 =========================================

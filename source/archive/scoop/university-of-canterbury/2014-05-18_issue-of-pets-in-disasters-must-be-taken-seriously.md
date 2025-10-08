@@ -1,9 +1,13 @@
 ---
 slug: issue-of-pets-in-disasters-must-be-taken-seriously
-title: "Issue of pets in disasters must be taken seriously"
-date: 2014-05-18
-source-url: https://www.scoop.co.nz/stories/CU1405/S00257/issue-of-pets-in-disasters-must-be-taken-seriously.htm
+title: Issue of pets in disasters must be taken seriously
+date: 2014-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1405/S00257/issue-of-pets-in-disasters-must-be-taken-seriously.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/18/issue-of-pets-in-disasters-must-be-taken-seriously/index.html
+layout: layout.njk
 ---
 Issue of pets in disasters must be taken seriously
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: theme-the-women-leaders-have-lost-their-way
-title: "Theme: \"The women leaders have lost their way.\""
-date: 1999-08-06
-source-url: https://www.scoop.co.nz/stories/PA9908/S00111/theme-the-women-leaders-have-lost-their-way.htm
+title: 'Theme: "The women leaders have lost their way."'
+date: 1999-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00111/theme-the-women-leaders-have-lost-their-way.htm
 author: new-zealand-first-party
+permalink: /archive/1999/08/06/theme-the-women-leaders-have-lost-their-way/index.html
+layout: layout.njk
 ---
 Theme: \"The women leaders have lost their way."
 ===============================================

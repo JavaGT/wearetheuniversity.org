@@ -1,9 +1,12 @@
 ---
 slug: safety-not-blame-in-nz-public-hospitals
-title: "Safety, not blame in NZ public hospitals"
-date: 2003-06-30
-source-url: https://www.scoop.co.nz/stories/GE0306/S00056/safety-not-blame-in-nz-public-hospitals.htm
+title: Safety, not blame in NZ public hospitals
+date: 2003-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0306/S00056/safety-not-blame-in-nz-public-hospitals.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/30/safety-not-blame-in-nz-public-hospitals/index.html
+layout: layout.njk
 ---
 Safety, not blame in NZ public hospitals
 ========================================

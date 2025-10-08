@@ -1,9 +1,13 @@
 ---
 slug: uc-appoints-two-ursula-bethell-writers-in-residence-for-2017
-title: "UC appoints two Ursula Bethell Writers in Residence for 2017"
-date: 2017-06-21
-source-url: https://www.scoop.co.nz/stories/CU1706/S00352/uc-appoints-two-ursula-bethell-writers-in-residence-for-2017.htm
+title: UC appoints two Ursula Bethell Writers in Residence for 2017
+date: 2017-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1706/S00352/uc-appoints-two-ursula-bethell-writers-in-residence-for-2017.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/06/21/uc-appoints-two-ursula-bethell-writers-in-residence-for-2017/index.html
+layout: layout.njk
 ---
 UC appoints two Ursula Bethell Writers in Residence for 2017
 ============================================================

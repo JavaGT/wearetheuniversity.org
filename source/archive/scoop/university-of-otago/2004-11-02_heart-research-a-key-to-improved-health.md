@@ -1,9 +1,12 @@
 ---
 slug: heart-research-a-key-to-improved-health
-title: "Heart Research A Key To Improved Health"
-date: 2004-11-02
-source-url: https://www.scoop.co.nz/stories/GE0411/S00010/heart-research-a-key-to-improved-health.htm
+title: Heart Research A Key To Improved Health
+date: 2004-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0411/S00010/heart-research-a-key-to-improved-health.htm
 author: university-of-otago
+permalink: /archive/2004/11/02/heart-research-a-key-to-improved-health/index.html
+layout: layout.njk
 ---
 Heart Research A Key To Improved Health
 =======================================

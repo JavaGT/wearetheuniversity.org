@@ -1,9 +1,12 @@
 ---
 slug: māori-party-co-leader-announces-policy-plan-for-bold-action-on-climate-change
-title: "Māori Party Co-leader Announces Policy Plan For Bold Action On Climate Change"
-date: 2020-07-19
-source-url: https://www.scoop.co.nz/stories/PO2007/S00241/maori-party-co-leader-announces-policy-plan-for-bold-action-on-climate-change.htm
+title: Māori Party Co-leader Announces Policy Plan For Bold Action On Climate Change
+date: 2020-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2007/S00241/maori-party-co-leader-announces-policy-plan-for-bold-action-on-climate-change.htm
 author: te-pati-maori
+permalink: /archive/2020/07/19/m/index.html
+layout: layout.njk
 ---
 Māori Party Co-leader Announces Policy Plan For Bold Action On Climate Change
 =============================================================================

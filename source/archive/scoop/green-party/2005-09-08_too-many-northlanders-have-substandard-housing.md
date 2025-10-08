@@ -1,9 +1,12 @@
 ---
 slug: too-many-northlanders-have-substandard-housing
-title: "Too many Northlanders have substandard housing"
-date: 2005-09-08
-source-url: https://www.scoop.co.nz/stories/PA0509/S00221/too-many-northlanders-have-substandard-housing.htm
+title: Too many Northlanders have substandard housing
+date: 2005-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00221/too-many-northlanders-have-substandard-housing.htm
 author: green-party
+permalink: /archive/2005/09/08/too-many-northlanders-have-substandard-housing/index.html
+layout: layout.njk
 ---
 Too many Northlanders have substandard housing
 ==============================================

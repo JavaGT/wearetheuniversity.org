@@ -1,9 +1,12 @@
 ---
 slug: uc-aims-to-cut-carbon-footprint-by-45%
-title: "UC aims to cut carbon footprint by 45%"
-date: 2018-10-25
-source-url: https://www.scoop.co.nz/stories/PO1810/S00359/uc-aims-to-cut-carbon-footprint-by-45.htm
+title: UC aims to cut carbon footprint by 45%
+date: 2018-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00359/uc-aims-to-cut-carbon-footprint-by-45.htm
 author: university-of-canterbury
+permalink: /archive/2018/10/25/uc-aims-to-cut-carbon-footprint-by-45/index.html
+layout: layout.njk
 ---
 UC aims to cut carbon footprint by 45%
 ======================================

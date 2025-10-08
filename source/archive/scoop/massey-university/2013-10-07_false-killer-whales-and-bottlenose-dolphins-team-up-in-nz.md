@@ -1,9 +1,13 @@
 ---
 slug: false-killer-whales-and-bottlenose-dolphins-team-up-in-nz
-title: "False killer whales and bottlenose dolphins team up in NZ"
-date: 2013-10-07
-source-url: https://www.scoop.co.nz/stories/SC1310/S00013/false-killer-whales-and-bottlenose-dolphins-team-up-in-nz.htm
+title: False killer whales and bottlenose dolphins team up in NZ
+date: 2013-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00013/false-killer-whales-and-bottlenose-dolphins-team-up-in-nz.htm
 author: massey-university
+permalink: >-
+  /archive/2013/10/07/false-killer-whales-and-bottlenose-dolphins-team-up-in-nz/index.html
+layout: layout.njk
 ---
 False killer whales and bottlenose dolphins team up in NZ
 =========================================================

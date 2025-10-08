@@ -1,9 +1,12 @@
 ---
 slug: national-shows-contempt-for-local-input
-title: "National Shows Contempt For Local Input"
-date: 2010-08-11
-source-url: https://www.scoop.co.nz/stories/PA1008/S00189/national-shows-contempt-for-local-input.htm
+title: National Shows Contempt For Local Input
+date: 2010-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00189/national-shows-contempt-for-local-input.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/11/national-shows-contempt-for-local-input/index.html
+layout: layout.njk
 ---
 National Shows Contempt For Local Input
 =======================================

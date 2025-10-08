@@ -1,9 +1,12 @@
 ---
 slug: coddingtons-liberty-belle-ncea
-title: "Coddington’s Liberty Belle – NCEA"
-date: 2004-09-14
-source-url: https://www.scoop.co.nz/stories/PA0409/S00271/coddingtons-liberty-belle-ncea.htm
+title: Coddington’s Liberty Belle – NCEA
+date: 2004-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00271/coddingtons-liberty-belle-ncea.htm
 author: act-new-zealand
+permalink: /archive/2004/09/14/coddingtons-liberty-belle-ncea/index.html
+layout: layout.njk
 ---
 Coddington’s Liberty Belle – NCEA
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: unique-new-zealand-dolphin-on-edge-of-extinction
-title: "Unique New Zealand dolphin on edge of extinction"
-date: 1999-10-04
-source-url: https://www.scoop.co.nz/stories/PA9910/S00033/unique-new-zealand-dolphin-on-edge-of-extinction.htm
+title: Unique New Zealand dolphin on edge of extinction
+date: 1999-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00033/unique-new-zealand-dolphin-on-edge-of-extinction.htm
 author: green-party
+permalink: >-
+  /archive/1999/10/04/unique-new-zealand-dolphin-on-edge-of-extinction/index.html
+layout: layout.njk
 ---
 Unique New Zealand dolphin on edge of extinction
 ================================================

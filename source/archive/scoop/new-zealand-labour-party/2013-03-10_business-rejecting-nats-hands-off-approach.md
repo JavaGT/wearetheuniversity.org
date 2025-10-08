@@ -1,9 +1,12 @@
 ---
 slug: business-rejecting-nats-hands-off-approach
-title: "Business rejecting Nats hands-off approach"
-date: 2013-03-10
-source-url: https://www.scoop.co.nz/stories/PA1303/S00149/business-rejecting-nats-hands-off-approach.htm
+title: Business rejecting Nats hands-off approach
+date: 2013-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00149/business-rejecting-nats-hands-off-approach.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/10/business-rejecting-nats-hands-off-approach/index.html
+layout: layout.njk
 ---
 Business rejecting Nats hands-off approach
 ==========================================

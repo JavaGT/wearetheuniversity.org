@@ -1,9 +1,12 @@
 ---
 slug: labour-mp-will-act-on-trucking-horror
-title: "Labour MP Will Act On Trucking Horror"
-date: 2010-04-18
-source-url: https://www.scoop.co.nz/stories/PA1004/S00185/labour-mp-will-act-on-trucking-horror.htm
+title: Labour MP Will Act On Trucking Horror
+date: 2010-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00185/labour-mp-will-act-on-trucking-horror.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/18/labour-mp-will-act-on-trucking-horror/index.html
+layout: layout.njk
 ---
 Labour MP Will Act On Trucking Horror
 =====================================

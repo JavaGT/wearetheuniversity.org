@@ -1,9 +1,12 @@
 ---
 slug: maharey-quick-to-criticise-teac-report
-title: "Maharey quick to criticise TEAC report"
-date: 2001-11-07
-source-url: https://www.scoop.co.nz/stories/PA0111/S00144/maharey-quick-to-criticise-teac-report.htm
+title: Maharey quick to criticise TEAC report
+date: 2001-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00144/maharey-quick-to-criticise-teac-report.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/07/maharey-quick-to-criticise-teac-report/index.html
+layout: layout.njk
 ---
 Maharey quick to criticise TEAC report
 ======================================

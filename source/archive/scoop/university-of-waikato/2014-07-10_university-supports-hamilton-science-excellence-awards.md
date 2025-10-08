@@ -1,9 +1,13 @@
 ---
 slug: university-supports-hamilton-science-excellence-awards
-title: "University supports Hamilton Science Excellence Awards"
-date: 2014-07-10
-source-url: https://www.scoop.co.nz/stories/SC1407/S00026/university-supports-hamilton-science-excellence-awards.htm
+title: University supports Hamilton Science Excellence Awards
+date: 2014-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00026/university-supports-hamilton-science-excellence-awards.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/07/10/university-supports-hamilton-science-excellence-awards/index.html
+layout: layout.njk
 ---
 University supports Hamilton Science Excellence Awards
 ======================================================

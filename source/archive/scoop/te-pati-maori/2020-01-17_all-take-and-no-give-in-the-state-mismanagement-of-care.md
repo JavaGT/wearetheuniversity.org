@@ -1,9 +1,13 @@
 ---
 slug: all-take-and-no-give-in-the-state-mismanagement-of-care
-title: "All Take and No Give in the State Mismanagement of Care"
-date: 2020-01-17
-source-url: https://www.scoop.co.nz/stories/PO2001/S00033/all-take-and-no-give-in-the-state-mismanagement-of-care.htm
+title: All Take and No Give in the State Mismanagement of Care
+date: 2020-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2001/S00033/all-take-and-no-give-in-the-state-mismanagement-of-care.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2020/01/17/all-take-and-no-give-in-the-state-mismanagement-of-care/index.html
+layout: layout.njk
 ---
 All Take and No Give in the State Mismanagement of Care
 =======================================================

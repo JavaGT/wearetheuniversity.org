@@ -1,9 +1,12 @@
 ---
 slug: increasing-salaries-should-be-election-focus
-title: "Increasing salaries should be election focus"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/BU0804/S00191/increasing-salaries-should-be-election-focus.htm
+title: Increasing salaries should be election focus
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0804/S00191/increasing-salaries-should-be-election-focus.htm
 author: association-of-university-staff
+permalink: /archive/2008/04/10/increasing-salaries-should-be-election-focus/index.html
+layout: layout.njk
 ---
 Increasing salaries should be election focus
 ============================================

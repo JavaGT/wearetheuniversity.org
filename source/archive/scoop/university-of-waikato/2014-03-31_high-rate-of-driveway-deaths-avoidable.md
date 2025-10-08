@@ -1,9 +1,12 @@
 ---
 slug: high-rate-of-driveway-deaths-avoidable
-title: "High rate of driveway deaths avoidable"
-date: 2014-03-31
-source-url: https://www.scoop.co.nz/stories/PO1403/S00410/high-rate-of-driveway-deaths-avoidable.htm
+title: High rate of driveway deaths avoidable
+date: 2014-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00410/high-rate-of-driveway-deaths-avoidable.htm
 author: university-of-waikato
+permalink: /archive/2014/03/31/high-rate-of-driveway-deaths-avoidable/index.html
+layout: layout.njk
 ---
 High rate of driveway deaths avoidable
 ======================================

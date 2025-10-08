@@ -1,9 +1,12 @@
 ---
 slug: key-kicks-low-decile-school-sports-for-touch
-title: "Key kicks low decile school sports for touch"
-date: 2009-08-14
-source-url: https://www.scoop.co.nz/stories/PA0908/S00205/key-kicks-low-decile-school-sports-for-touch.htm
+title: Key kicks low decile school sports for touch
+date: 2009-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00205/key-kicks-low-decile-school-sports-for-touch.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/14/key-kicks-low-decile-school-sports-for-touch/index.html
+layout: layout.njk
 ---
 Key kicks low decile school sports for touch
 ============================================

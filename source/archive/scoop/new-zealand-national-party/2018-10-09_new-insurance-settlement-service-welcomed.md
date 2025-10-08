@@ -1,9 +1,12 @@
 ---
 slug: new-insurance-settlement-service-welcomed
-title: "New insurance settlement service welcomed"
-date: 2018-10-09
-source-url: https://www.scoop.co.nz/stories/PA1810/S00074/new-insurance-settlement-service-welcomed.htm
+title: New insurance settlement service welcomed
+date: 2018-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00074/new-insurance-settlement-service-welcomed.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/09/new-insurance-settlement-service-welcomed/index.html
+layout: layout.njk
 ---
 New insurance settlement service welcomed
 =========================================

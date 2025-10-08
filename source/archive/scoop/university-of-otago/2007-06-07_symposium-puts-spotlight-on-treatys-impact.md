@@ -1,9 +1,12 @@
 ---
 slug: symposium-puts-spotlight-on-treatys-impact
-title: "Symposium puts spotlight on Treaty’s impact"
-date: 2007-06-07
-source-url: https://www.scoop.co.nz/stories/ED0706/S00028/symposium-puts-spotlight-on-treatys-impact.htm
+title: Symposium puts spotlight on Treaty’s impact
+date: 2007-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00028/symposium-puts-spotlight-on-treatys-impact.htm
 author: university-of-otago
+permalink: /archive/2007/06/07/symposium-puts-spotlight-on-treatys-impact/index.html
+layout: layout.njk
 ---
 Symposium puts spotlight on Treaty’s impact
 ===========================================

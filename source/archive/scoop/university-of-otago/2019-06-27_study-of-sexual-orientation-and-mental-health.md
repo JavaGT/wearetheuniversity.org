@@ -1,9 +1,12 @@
 ---
 slug: study-of-sexual-orientation-and-mental-health
-title: "Study of sexual orientation and mental health"
-date: 2019-06-27
-source-url: https://www.scoop.co.nz/stories/GE1906/S00076/study-of-sexual-orientation-and-mental-health.htm
+title: Study of sexual orientation and mental health
+date: 2019-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1906/S00076/study-of-sexual-orientation-and-mental-health.htm
 author: university-of-otago
+permalink: /archive/2019/06/27/study-of-sexual-orientation-and-mental-health/index.html
+layout: layout.njk
 ---
 Study of sexual orientation and mental health
 =============================================

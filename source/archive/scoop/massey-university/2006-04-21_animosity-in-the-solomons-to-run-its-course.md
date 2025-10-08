@@ -1,9 +1,12 @@
 ---
 slug: animosity-in-the-solomons-to-run-its-course
-title: "Animosity in the Solomons to run its course"
-date: 2006-04-21
-source-url: https://www.scoop.co.nz/stories/PO0604/S00172/animosity-in-the-solomons-to-run-its-course.htm
+title: Animosity in the Solomons to run its course
+date: 2006-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0604/S00172/animosity-in-the-solomons-to-run-its-course.htm
 author: massey-university
+permalink: /archive/2006/04/21/animosity-in-the-solomons-to-run-its-course/index.html
+layout: layout.njk
 ---
 Animosity in the Solomons to run its course
 ===========================================

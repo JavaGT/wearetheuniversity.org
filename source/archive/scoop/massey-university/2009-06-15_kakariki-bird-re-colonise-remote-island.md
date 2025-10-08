@@ -1,9 +1,12 @@
 ---
 slug: kakariki-bird-re-colonise-remote-island
-title: "Kakariki Bird Re-Colonise Remote Island"
-date: 2009-06-15
-source-url: https://www.scoop.co.nz/stories/SC0906/S00023/kakariki-bird-re-colonise-remote-island.htm
+title: Kakariki Bird Re-Colonise Remote Island
+date: 2009-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0906/S00023/kakariki-bird-re-colonise-remote-island.htm
 author: massey-university
+permalink: /archive/2009/06/15/kakariki-bird-re-colonise-remote-island/index.html
+layout: layout.njk
 ---
 Kakariki Bird Re-Colonise Remote Island
 =======================================

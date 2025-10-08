@@ -1,9 +1,12 @@
 ---
 slug: using-synthetic-biology-to-make-new-antibiotics
-title: "Using synthetic biology to make new antibiotics"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/SC1407/S00051/using-synthetic-biology-to-make-new-antibiotics.htm
+title: Using synthetic biology to make new antibiotics
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00051/using-synthetic-biology-to-make-new-antibiotics.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/22/using-synthetic-biology-to-make-new-antibiotics/index.html
+layout: layout.njk
 ---
 Using synthetic biology to make new antibiotics
 ===============================================

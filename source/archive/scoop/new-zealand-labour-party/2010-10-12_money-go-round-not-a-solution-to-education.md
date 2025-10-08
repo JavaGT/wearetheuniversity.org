@@ -1,9 +1,12 @@
 ---
 slug: money-go-round-not-a-solution-to-education
-title: "Money-go–round not a solution to education"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/PA1010/S00150/money-go-round-not-a-solution-to-education.htm
+title: Money-go–round not a solution to education
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00150/money-go-round-not-a-solution-to-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/12/money-go-round-not-a-solution-to-education/index.html
+layout: layout.njk
 ---
 Money-go–round not a solution to education
 ==========================================

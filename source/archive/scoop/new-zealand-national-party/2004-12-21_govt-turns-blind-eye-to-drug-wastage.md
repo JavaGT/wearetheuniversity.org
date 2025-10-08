@@ -1,9 +1,12 @@
 ---
 slug: govt-turns-blind-eye-to-drug-wastage
-title: "Govt turns blind eye to drug wastage"
-date: 2004-12-21
-source-url: https://www.scoop.co.nz/stories/PA0412/S00510/govt-turns-blind-eye-to-drug-wastage.htm
+title: Govt turns blind eye to drug wastage
+date: 2004-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00510/govt-turns-blind-eye-to-drug-wastage.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/21/govt-turns-blind-eye-to-drug-wastage/index.html
+layout: layout.njk
 ---
 Govt turns blind eye to drug wastage
 ====================================

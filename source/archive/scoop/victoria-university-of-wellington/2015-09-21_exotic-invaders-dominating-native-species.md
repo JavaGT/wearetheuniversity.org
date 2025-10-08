@@ -1,9 +1,12 @@
 ---
 slug: exotic-invaders-dominating-native-species
-title: "Exotic invaders dominating native species"
-date: 2015-09-21
-source-url: https://www.scoop.co.nz/stories/SC1509/S00069/exotic-invaders-dominating-native-species.htm
+title: Exotic invaders dominating native species
+date: 2015-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1509/S00069/exotic-invaders-dominating-native-species.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/09/21/exotic-invaders-dominating-native-species/index.html
+layout: layout.njk
 ---
 Exotic invaders dominating native species
 =========================================

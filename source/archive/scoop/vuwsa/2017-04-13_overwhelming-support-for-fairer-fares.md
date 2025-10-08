@@ -1,9 +1,12 @@
 ---
 slug: overwhelming-support-for-fairer-fares
-title: "Overwhelming support for Fairer Fares"
-date: 2017-04-13
-source-url: https://www.scoop.co.nz/stories/AK1704/S00492/overwhelming-support-for-fairer-fares.htm
+title: Overwhelming support for Fairer Fares
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1704/S00492/overwhelming-support-for-fairer-fares.htm
 author: vuwsa
+permalink: /archive/2017/04/13/overwhelming-support-for-fairer-fares/index.html
+layout: layout.njk
 ---
 Overwhelming support for Fairer Fares
 =====================================

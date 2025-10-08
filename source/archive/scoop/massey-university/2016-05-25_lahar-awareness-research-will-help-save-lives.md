@@ -1,9 +1,12 @@
 ---
 slug: lahar-awareness-research-will-help-save-lives
-title: "Lahar awareness research will help save lives"
-date: 2016-05-25
-source-url: https://www.scoop.co.nz/stories/SC1605/S00057/lahar-awareness-research-will-help-save-lives.htm
+title: Lahar awareness research will help save lives
+date: 2016-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00057/lahar-awareness-research-will-help-save-lives.htm
 author: massey-university
+permalink: /archive/2016/05/25/lahar-awareness-research-will-help-save-lives/index.html
+layout: layout.njk
 ---
 Lahar awareness research will help save lives
 =============================================

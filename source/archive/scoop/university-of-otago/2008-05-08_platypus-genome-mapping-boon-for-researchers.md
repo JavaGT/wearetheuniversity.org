@@ -1,9 +1,12 @@
 ---
 slug: platypus-genome-mapping-boon-for-researchers
-title: "Platypus genome mapping boon for researchers"
-date: 2008-05-08
-source-url: https://www.scoop.co.nz/stories/SC0805/S00023/platypus-genome-mapping-boon-for-researchers.htm
+title: Platypus genome mapping boon for researchers
+date: 2008-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0805/S00023/platypus-genome-mapping-boon-for-researchers.htm
 author: university-of-otago
+permalink: /archive/2008/05/08/platypus-genome-mapping-boon-for-researchers/index.html
+layout: layout.njk
 ---
 Platypus genome mapping boon for researchers
 ============================================

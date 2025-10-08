@@ -1,9 +1,13 @@
 ---
 slug: two-years-on-burnout-widespread-among-christchurch-teachers
-title: "Two years on, burnout widespread among Christchurch teachers"
-date: 2013-05-30
-source-url: https://www.scoop.co.nz/stories/AK1305/S00676/two-years-on-burnout-widespread-among-christchurch-teachers.htm
+title: Two years on, burnout widespread among Christchurch teachers
+date: 2013-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1305/S00676/two-years-on-burnout-widespread-among-christchurch-teachers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/30/two-years-on-burnout-widespread-among-christchurch-teachers/index.html
+layout: layout.njk
 ---
 Two years on, burnout widespread among Christchurch teachers
 ============================================================

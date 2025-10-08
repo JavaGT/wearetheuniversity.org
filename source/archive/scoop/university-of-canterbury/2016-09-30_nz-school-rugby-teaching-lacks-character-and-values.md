@@ -1,9 +1,13 @@
 ---
 slug: nz-school-rugby-teaching-lacks-character-and-values
-title: "NZ school rugby teaching lacks character and values"
-date: 2016-09-30
-source-url: https://www.scoop.co.nz/stories/CU1609/S00476/nz-school-rugby-teaching-lacks-character-and-values.htm
+title: NZ school rugby teaching lacks character and values
+date: 2016-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1609/S00476/nz-school-rugby-teaching-lacks-character-and-values.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/09/30/nz-school-rugby-teaching-lacks-character-and-values/index.html
+layout: layout.njk
 ---
 NZ school rugby teaching lacks character and values
 ===================================================

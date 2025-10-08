@@ -1,9 +1,12 @@
 ---
 slug: summer-research-opportunities-at-uc
-title: "Summer research opportunities at UC"
-date: 2010-08-20
-source-url: https://www.scoop.co.nz/stories/ED1008/S00081/summer-research-opportunities-at-uc.htm
+title: Summer research opportunities at UC
+date: 2010-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00081/summer-research-opportunities-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2010/08/20/summer-research-opportunities-at-uc/index.html
+layout: layout.njk
 ---
 Summer research opportunities at UC
 ===================================

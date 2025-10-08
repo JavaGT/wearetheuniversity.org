@@ -1,9 +1,12 @@
 ---
 slug: why-do-apple-slices-brown-so-easily
-title: "Why do apple slices brown so easily?"
-date: 2004-08-03
-source-url: https://www.scoop.co.nz/stories/SC0408/S00009/why-do-apple-slices-brown-so-easily.htm
+title: Why do apple slices brown so easily?
+date: 2004-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0408/S00009/why-do-apple-slices-brown-so-easily.htm
 author: auckland-university
+permalink: /archive/2004/08/03/why-do-apple-slices-brown-so-easily/index.html
+layout: layout.njk
 ---
 Why do apple slices brown so easily?
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: rena-disaster-what-does-this-mean-for-our-environment
-title: "Rena disaster – what does this mean for our environment?"
-date: 2011-11-08
-source-url: https://www.scoop.co.nz/stories/SC1111/S00016/rena-disaster-what-does-this-mean-for-our-environment.htm
+title: Rena disaster – what does this mean for our environment?
+date: 2011-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1111/S00016/rena-disaster-what-does-this-mean-for-our-environment.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/08/rena-disaster-what-does-this-mean-for-our-environment/index.html
+layout: layout.njk
 ---
 Rena disaster – what does this mean for our environment?
 ========================================================

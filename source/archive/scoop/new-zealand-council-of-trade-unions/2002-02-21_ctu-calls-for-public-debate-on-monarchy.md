@@ -1,9 +1,12 @@
 ---
 slug: ctu-calls-for-public-debate-on-monarchy
-title: "CTU Calls For Public Debate On Monarchy"
-date: 2002-02-21
-source-url: https://www.scoop.co.nz/stories/PO0202/S00096/ctu-calls-for-public-debate-on-monarchy.htm
+title: CTU Calls For Public Debate On Monarchy
+date: 2002-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0202/S00096/ctu-calls-for-public-debate-on-monarchy.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/02/21/ctu-calls-for-public-debate-on-monarchy/index.html
+layout: layout.njk
 ---
 CTU Calls For Public Debate On Monarchy
 =======================================

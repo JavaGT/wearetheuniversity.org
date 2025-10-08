@@ -1,9 +1,13 @@
 ---
 slug: political-patronage-plans-for-tertiary-education
-title: "Political Patronage Plans For Tertiary Education"
-date: 2006-04-05
-source-url: https://www.scoop.co.nz/stories/PA0604/S00066/political-patronage-plans-for-tertiary-education.htm
+title: Political Patronage Plans For Tertiary Education
+date: 2006-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00066/political-patronage-plans-for-tertiary-education.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2006/04/05/political-patronage-plans-for-tertiary-education/index.html
+layout: layout.njk
 ---
 Political Patronage Plans For Tertiary Education
 ================================================

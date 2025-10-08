@@ -1,9 +1,12 @@
 ---
 slug: university-staff-call-for-more-investment
-title: "University staff call for more investment"
-date: 2005-05-20
-source-url: https://www.scoop.co.nz/stories/ED0505/S00093/university-staff-call-for-more-investment.htm
+title: University staff call for more investment
+date: 2005-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00093/university-staff-call-for-more-investment.htm
 author: association-of-university-staff
+permalink: /archive/2005/05/20/university-staff-call-for-more-investment/index.html
+layout: layout.njk
 ---
 University staff call for more investment
 =========================================

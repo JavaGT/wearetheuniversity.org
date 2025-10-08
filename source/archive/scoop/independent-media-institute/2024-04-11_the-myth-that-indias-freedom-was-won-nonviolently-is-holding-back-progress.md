@@ -1,9 +1,13 @@
 ---
 slug: the-myth-that-indias-freedom-was-won-nonviolently-is-holding-back-progress
-title: "The Myth That India’s Freedom Was Won Nonviolently Is Holding Back Progress"
-date: 2024-04-11
-source-url: https://www.scoop.co.nz/stories/WO2404/S00057/the-myth-that-indias-freedom-was-won-nonviolently-is-holding-back-progress.htm
+title: The Myth That India’s Freedom Was Won Nonviolently Is Holding Back Progress
+date: 2024-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2404/S00057/the-myth-that-indias-freedom-was-won-nonviolently-is-holding-back-progress.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/04/11/the-myth-that-indias-freedom-was-won-nonviolently-is-holding-back-progress/index.html
+layout: layout.njk
 ---
 The Myth That India’s Freedom Was Won Nonviolently Is Holding Back Progress
 ===========================================================================

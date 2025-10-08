@@ -1,9 +1,13 @@
 ---
 slug: how-to-decolonise-our-battle-against-climate-change
-title: "How To Decolonise Our Battle Against Climate Change"
-date: 2024-08-16
-source-url: https://www.scoop.co.nz/stories/WO2408/S00138/how-to-decolonise-our-battle-against-climate-change.htm
+title: How To Decolonise Our Battle Against Climate Change
+date: 2024-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2408/S00138/how-to-decolonise-our-battle-against-climate-change.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/08/16/how-to-decolonise-our-battle-against-climate-change/index.html
+layout: layout.njk
 ---
 How To Decolonise Our Battle Against Climate Change
 ===================================================

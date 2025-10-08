@@ -1,9 +1,13 @@
 ---
 slug: kitchen-plan-set-to-swallow-up-health-boards-funds
-title: "Kitchen plan set to swallow up health boards’ funds"
-date: 2015-04-15
-source-url: https://www.scoop.co.nz/stories/PA1504/S00186/kitchen-plan-set-to-swallow-up-health-boards-funds.htm
+title: Kitchen plan set to swallow up health boards’ funds
+date: 2015-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00186/kitchen-plan-set-to-swallow-up-health-boards-funds.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/04/15/kitchen-plan-set-to-swallow-up-health-boards-funds/index.html
+layout: layout.njk
 ---
 Kitchen plan set to swallow up health boards’ funds
 ===================================================

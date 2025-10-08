@@ -1,9 +1,13 @@
 ---
 slug: from-memes-to-flirting-in-masseys-our-lives-online
-title: "From memes to flirting in Massey's \"Our Lives Online\""
-date: 2018-09-04
-source-url: https://www.scoop.co.nz/stories/AK1809/S00078/from-memes-to-flirting-in-masseys-our-lives-online.htm
+title: From memes to flirting in Massey's "Our Lives Online"
+date: 2018-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1809/S00078/from-memes-to-flirting-in-masseys-our-lives-online.htm
 author: massey-university
+permalink: >-
+  /archive/2018/09/04/from-memes-to-flirting-in-masseys-our-lives-online/index.html
+layout: layout.njk
 ---
 From memes to flirting in Massey's \"Our Lives Online"
 =====================================================

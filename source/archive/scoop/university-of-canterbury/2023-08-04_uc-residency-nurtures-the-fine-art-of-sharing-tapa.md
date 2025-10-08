@@ -1,9 +1,13 @@
 ---
 slug: uc-residency-nurtures-the-fine-art-of-sharing-tapa
-title: "UC Residency Nurtures The Fine Art Of Sharing Tapa"
-date: 2023-08-04
-source-url: https://www.scoop.co.nz/stories/ED2308/S00009/uc-residency-nurtures-the-fine-art-of-sharing-tapa.htm
+title: UC Residency Nurtures The Fine Art Of Sharing Tapa
+date: 2023-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00009/uc-residency-nurtures-the-fine-art-of-sharing-tapa.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/08/04/uc-residency-nurtures-the-fine-art-of-sharing-tapa/index.html
+layout: layout.njk
 ---
 UC Residency Nurtures The Fine Art Of Sharing Tapa
 ==================================================

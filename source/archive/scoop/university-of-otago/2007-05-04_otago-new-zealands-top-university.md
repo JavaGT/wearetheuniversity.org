@@ -1,9 +1,12 @@
 ---
 slug: otago-new-zealands-top-university
-title: "Otago New Zealand’s Top University"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/ED0705/S00014/otago-new-zealands-top-university.htm
+title: Otago New Zealand’s Top University
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00014/otago-new-zealands-top-university.htm
 author: university-of-otago
+permalink: /archive/2007/05/04/otago-new-zealands-top-university/index.html
+layout: layout.njk
 ---
 Otago New Zealand’s Top University
 ==================================

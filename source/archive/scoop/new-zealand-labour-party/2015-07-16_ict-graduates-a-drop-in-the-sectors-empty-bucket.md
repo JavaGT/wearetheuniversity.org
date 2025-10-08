@@ -1,9 +1,13 @@
 ---
 slug: ict-graduates-a-drop-in-the-sectors-empty-bucket
-title: "ICT graduates a drop in the sector’s empty bucket"
-date: 2015-07-16
-source-url: https://www.scoop.co.nz/stories/PA1507/S00269/ict-graduates-a-drop-in-the-sectors-empty-bucket.htm
+title: ICT graduates a drop in the sector’s empty bucket
+date: 2015-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00269/ict-graduates-a-drop-in-the-sectors-empty-bucket.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/07/16/ict-graduates-a-drop-in-the-sectors-empty-bucket/index.html
+layout: layout.njk
 ---
 ICT graduates a drop in the sector’s empty bucket
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: westpac-bank-bill-second-reading
-title: "Westpac Bank Bill - Second Reading"
-date: 2006-08-24
-source-url: https://www.scoop.co.nz/stories/PA0608/S00408/westpac-bank-bill-second-reading.htm
+title: Westpac Bank Bill - Second Reading
+date: 2006-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00408/westpac-bank-bill-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2006/08/24/westpac-bank-bill-second-reading/index.html
+layout: layout.njk
 ---
 Westpac Bank Bill - Second Reading
 ==================================

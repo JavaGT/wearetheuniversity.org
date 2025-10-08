@@ -1,9 +1,12 @@
 ---
 slug: primary-health-care-nzers-pay-less-use-more
-title: "Primary Health Care: NZers Pay Less, Use More"
-date: 2007-09-27
-source-url: https://www.scoop.co.nz/stories/GE0709/S00114/primary-health-care-nzers-pay-less-use-more.htm
+title: 'Primary Health Care: NZers Pay Less, Use More'
+date: 2007-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0709/S00114/primary-health-care-nzers-pay-less-use-more.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/09/27/primary-health-care-nzers-pay-less-use-more/index.html
+layout: layout.njk
 ---
 Primary Health Care: NZers Pay Less, Use More
 =============================================

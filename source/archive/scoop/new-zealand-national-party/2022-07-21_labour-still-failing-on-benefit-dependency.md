@@ -1,9 +1,12 @@
 ---
 slug: labour-still-failing-on-benefit-dependency
-title: "Labour Still Failing On Benefit Dependency"
-date: 2022-07-21
-source-url: https://www.scoop.co.nz/stories/PA2207/S00148/labour-still-failing-on-benefit-dependency.htm
+title: Labour Still Failing On Benefit Dependency
+date: 2022-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00148/labour-still-failing-on-benefit-dependency.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/21/labour-still-failing-on-benefit-dependency/index.html
+layout: layout.njk
 ---
 Labour Still Failing On Benefit Dependency
 ==========================================

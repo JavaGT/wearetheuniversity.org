@@ -1,9 +1,13 @@
 ---
 slug: partnership-in-shanghai-goes-from-strength-to-strength
-title: "Partnership in Shanghai goes from strength to strength"
-date: 2017-05-30
-source-url: https://www.scoop.co.nz/stories/ED1705/S00118/partnership-in-shanghai-goes-from-strength-to-strength.htm
+title: Partnership in Shanghai goes from strength to strength
+date: 2017-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00118/partnership-in-shanghai-goes-from-strength-to-strength.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/05/30/partnership-in-shanghai-goes-from-strength-to-strength/index.html
+layout: layout.njk
 ---
 Partnership in Shanghai goes from strength to strength
 ======================================================

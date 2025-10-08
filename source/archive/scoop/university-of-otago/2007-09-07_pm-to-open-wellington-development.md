@@ -1,9 +1,12 @@
 ---
 slug: pm-to-open-wellington-development
-title: "PM to open Wellington development"
-date: 2007-09-07
-source-url: https://www.scoop.co.nz/stories/ED0709/S00026/pm-to-open-wellington-development.htm
+title: PM to open Wellington development
+date: 2007-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00026/pm-to-open-wellington-development.htm
 author: university-of-otago
+permalink: /archive/2007/09/07/pm-to-open-wellington-development/index.html
+layout: layout.njk
 ---
 PM to open Wellington development
 =================================

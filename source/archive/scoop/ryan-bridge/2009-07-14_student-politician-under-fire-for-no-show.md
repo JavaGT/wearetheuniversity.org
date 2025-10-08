@@ -1,9 +1,12 @@
 ---
 slug: student-politician-under-fire-for-no-show
-title: "Student Politician Under Fire For No-Show"
-date: 2009-07-14
-source-url: https://www.scoop.co.nz/stories/ED0907/S00061/student-politician-under-fire-for-no-show.htm
+title: Student Politician Under Fire For No-Show
+date: 2009-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00061/student-politician-under-fire-for-no-show.htm
 author: ryan-bridge
+permalink: /archive/2009/07/14/student-politician-under-fire-for-no-show/index.html
+layout: layout.njk
 ---
 Student Politician Under Fire For No-Show
 =========================================

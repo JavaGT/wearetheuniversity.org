@@ -1,9 +1,12 @@
 ---
 slug: helping-to-revive-te-reo-māori
-title: "Helping to revive Te Reo Māori"
-date: 2012-12-03
-source-url: https://www.scoop.co.nz/stories/ED1212/S00006/helping-to-revive-te-reo-maori.htm
+title: Helping to revive Te Reo Māori
+date: 2012-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00006/helping-to-revive-te-reo-maori.htm
 author: massey-university
+permalink: /archive/2012/12/03/helping-to-revive-te-reo-m/index.html
+layout: layout.njk
 ---
 Helping to revive Te Reo Māori
 ==============================

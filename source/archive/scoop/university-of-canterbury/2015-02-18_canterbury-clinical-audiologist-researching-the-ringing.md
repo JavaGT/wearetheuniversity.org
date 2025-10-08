@@ -1,9 +1,13 @@
 ---
 slug: canterbury-clinical-audiologist-researching-the-ringing
-title: "Canterbury clinical audiologist researching the ringing"
-date: 2015-02-18
-source-url: https://www.scoop.co.nz/stories/GE1502/S00057/canterbury-clinical-audiologist-researching-the-ringing.htm
+title: Canterbury clinical audiologist researching the ringing
+date: 2015-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1502/S00057/canterbury-clinical-audiologist-researching-the-ringing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/18/canterbury-clinical-audiologist-researching-the-ringing/index.html
+layout: layout.njk
 ---
 Canterbury clinical audiologist researching the ringing
 =======================================================

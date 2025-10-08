@@ -1,9 +1,12 @@
 ---
 slug: labour-watches-as-$41m-in-fines-wiped
-title: "Labour watches as $41m in fines wiped"
-date: 2006-03-13
-source-url: https://www.scoop.co.nz/stories/PA0603/S00185/labour-watches-as-41m-in-fines-wiped.htm
+title: Labour watches as $41m in fines wiped
+date: 2006-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00185/labour-watches-as-41m-in-fines-wiped.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/13/labour-watches-as-/index.html
+layout: layout.njk
 ---
 Labour watches as $41m in fines wiped
 =====================================

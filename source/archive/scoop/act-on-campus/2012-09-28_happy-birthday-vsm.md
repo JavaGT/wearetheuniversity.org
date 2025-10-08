@@ -1,9 +1,11 @@
 ---
 slug: happy-birthday-vsm
-title: "Happy Birthday VSM"
-date: 2012-09-28
+title: Happy Birthday VSM
+date: 2012-09-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1209/S00214/happy-birthday-vsm.htm
 author: act-on-campus
+permalink: /archive/2012/09/28/happy-birthday-vsm/index.html
+layout: layout.njk
 ---
 Happy Birthday VSM
 ==================

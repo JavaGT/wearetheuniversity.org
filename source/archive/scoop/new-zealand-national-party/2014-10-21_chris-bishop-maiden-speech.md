@@ -1,9 +1,11 @@
 ---
 slug: chris-bishop-maiden-speech
-title: "Chris Bishop – maiden speech"
-date: 2014-10-21
+title: Chris Bishop – maiden speech
+date: 2014-10-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1410/S00111/chris-bishop-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2014/10/21/chris-bishop-maiden-speech/index.html
+layout: layout.njk
 ---
 Chris Bishop – maiden speech
 ============================

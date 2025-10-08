@@ -1,9 +1,12 @@
 ---
 slug: greens-say-new-park-a-cracker
-title: "Greens say new park a cracker"
-date: 2001-10-11
-source-url: https://www.scoop.co.nz/stories/PA0110/S00248/greens-say-new-park-a-cracker.htm
+title: Greens say new park a cracker
+date: 2001-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00248/greens-say-new-park-a-cracker.htm
 author: green-party
+permalink: /archive/2001/10/11/greens-say-new-park-a-cracker/index.html
+layout: layout.njk
 ---
 Greens say new park a cracker
 =============================

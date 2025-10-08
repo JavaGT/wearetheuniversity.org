@@ -1,9 +1,16 @@
 ---
-slug: victoria-university-hosts-israeli-embassys-deputy-chief-of-mission-for-a-guest-lecture-amid-israels-attacks-on-lebanon
-title: "Victoria University Hosts Israeli Embassy’s Deputy Chief Of Mission For A Guest Lecture Amid Israel’s Attacks On Lebanon"
-date: 2024-10-02
-source-url: https://www.scoop.co.nz/stories/PO2410/S00012/victoria-university-hosts-israeli-embassys-deputy-chief-of-mission-for-a-guest-lecture-amid-israels-attacks-on-lebanon.htm
+slug: >-
+  victoria-university-hosts-israeli-embassys-deputy-chief-of-mission-for-a-guest-lecture-amid-israels-attacks-on-lebanon
+title: >-
+  Victoria University Hosts Israeli Embassy’s Deputy Chief Of Mission For A
+  Guest Lecture Amid Israel’s Attacks On Lebanon
+date: 2024-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2410/S00012/victoria-university-hosts-israeli-embassys-deputy-chief-of-mission-for-a-guest-lecture-amid-israels-attacks-on-lebanon.htm
 author: student-justice-for-palestine-poneke
+permalink: >-
+  /archive/2024/10/02/victoria-university-hosts-israeli-embassys-deputy-chief-of-mission-for-a-guest-lecture-amid-israels-attacks-on-lebanon/index.html
+layout: layout.njk
 ---
 Victoria University Hosts Israeli Embassy’s Deputy Chief Of Mission For A Guest Lecture Amid Israel’s Attacks On Lebanon
 ========================================================================================================================

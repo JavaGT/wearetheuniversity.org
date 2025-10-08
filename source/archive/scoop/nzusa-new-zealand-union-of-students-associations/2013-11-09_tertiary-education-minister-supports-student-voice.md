@@ -1,9 +1,13 @@
 ---
 slug: tertiary-education-minister-supports-student-voice
-title: "Tertiary Education Minister supports student voice"
-date: 2013-11-09
-source-url: https://www.scoop.co.nz/stories/PO1311/S00103/tertiary-education-minister-supports-student-voice.htm
+title: Tertiary Education Minister supports student voice
+date: 2013-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1311/S00103/tertiary-education-minister-supports-student-voice.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/11/09/tertiary-education-minister-supports-student-voice/index.html
+layout: layout.njk
 ---
 Tertiary Education Minister supports student voice
 ==================================================

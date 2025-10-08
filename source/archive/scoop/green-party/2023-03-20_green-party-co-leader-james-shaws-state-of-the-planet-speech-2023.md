@@ -1,9 +1,13 @@
 ---
 slug: green-party-co-leader-james-shaws-state-of-the-planet-speech-2023
-title: "Green Party Co-leader James Shaw's State Of The Planet Speech, 2023"
-date: 2023-03-20
-source-url: https://www.scoop.co.nz/stories/PA2303/S00167/green-party-co-leader-james-shaws-state-of-the-planet-speech-2023.htm
+title: Green Party Co-leader James Shaw's State Of The Planet Speech, 2023
+date: 2023-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00167/green-party-co-leader-james-shaws-state-of-the-planet-speech-2023.htm
 author: green-party
+permalink: >-
+  /archive/2023/03/20/green-party-co-leader-james-shaws-state-of-the-planet-speech-2023/index.html
+layout: layout.njk
 ---
 Green Party Co-leader James Shaw's State Of The Planet Speech, 2023
 ===================================================================

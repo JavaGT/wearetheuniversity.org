@@ -1,9 +1,13 @@
 ---
 slug: otago-gains-state-of-the-art-health-research-microscope
-title: "Otago gains state-of-the-art health research microscope"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/SC1404/S00058/otago-gains-state-of-the-art-health-research-microscope.htm
+title: Otago gains state-of-the-art health research microscope
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00058/otago-gains-state-of-the-art-health-research-microscope.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/04/15/otago-gains-state-of-the-art-health-research-microscope/index.html
+layout: layout.njk
 ---
 Otago gains state-of-the-art health research microscope
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: amendments-to-abortion-legislation-bill-tabled-for-abortions-post-20-weeks
-title: "Amendments To Abortion Legislation Bill Tabled For Abortions Post-20 Weeks"
-date: 2020-02-19
-source-url: https://www.scoop.co.nz/stories/PA2002/S00116/amendments-to-abortion-legislation-bill-tabled-for-abortions-post-20-weeks.htm
+title: Amendments To Abortion Legislation Bill Tabled For Abortions Post-20 Weeks
+date: 2020-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00116/amendments-to-abortion-legislation-bill-tabled-for-abortions-post-20-weeks.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/02/19/amendments-to-abortion-legislation-bill-tabled-for-abortions-post-20-weeks/index.html
+layout: layout.njk
 ---
 Amendments To Abortion Legislation Bill Tabled For Abortions Post-20 Weeks
 ==========================================================================

@@ -1,9 +1,11 @@
 ---
 slug: unions-in-new-zealand
-title: "Unions In New Zealand"
-date: 2003-10-20
+title: Unions In New Zealand
+date: 2003-10-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00456/unions-in-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2003/10/20/unions-in-new-zealand/index.html
+layout: layout.njk
 ---
 Unions In New Zealand
 =====================

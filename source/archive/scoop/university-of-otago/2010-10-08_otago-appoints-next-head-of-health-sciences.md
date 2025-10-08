@@ -1,9 +1,12 @@
 ---
 slug: otago-appoints-next-head-of-health-sciences
-title: "Otago Appoints Next Head of Health Sciences"
-date: 2010-10-08
-source-url: https://www.scoop.co.nz/stories/GE1010/S00045/otago-appoints-next-head-of-health-sciences.htm
+title: Otago Appoints Next Head of Health Sciences
+date: 2010-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1010/S00045/otago-appoints-next-head-of-health-sciences.htm
 author: university-of-otago
+permalink: /archive/2010/10/08/otago-appoints-next-head-of-health-sciences/index.html
+layout: layout.njk
 ---
 Otago Appoints Next Head of Health Sciences
 ===========================================

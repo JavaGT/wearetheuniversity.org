@@ -1,9 +1,13 @@
 ---
 slug: student-volunteer-army-in-action-shovelling-again
-title: "Student Volunteer Army in action shovelling – again"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/AK1403/S00150/student-volunteer-army-in-action-shovelling-again.htm
+title: Student Volunteer Army in action shovelling – again
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00150/student-volunteer-army-in-action-shovelling-again.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/06/student-volunteer-army-in-action-shovelling-again/index.html
+layout: layout.njk
 ---
 Student Volunteer Army in action shovelling – again
 ===================================================

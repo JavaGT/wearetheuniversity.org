@@ -1,9 +1,13 @@
 ---
 slug: 6th-group-of-food-tech-students-graduate-at-singapore-campus
-title: "6th group of food tech students graduate at Singapore campus"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/ED1511/S00101/6th-group-of-food-tech-students-graduate-at-singapore-campus.htm
+title: 6th group of food tech students graduate at Singapore campus
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00101/6th-group-of-food-tech-students-graduate-at-singapore-campus.htm
 author: massey-university
+permalink: >-
+  /archive/2015/11/20/6th-group-of-food-tech-students-graduate-at-singapore-campus/index.html
+layout: layout.njk
 ---
 6th group of food tech students graduate at Singapore campus
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-looking-to-politicise-student-representation
-title: "Govt looking to politicise student representation"
-date: 2019-10-30
-source-url: https://www.scoop.co.nz/stories/PA1910/S00232/govt-looking-to-politicise-student-representation.htm
+title: Govt looking to politicise student representation
+date: 2019-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00232/govt-looking-to-politicise-student-representation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/10/30/govt-looking-to-politicise-student-representation/index.html
+layout: layout.njk
 ---
 Govt looking to politicise student representation
 =================================================

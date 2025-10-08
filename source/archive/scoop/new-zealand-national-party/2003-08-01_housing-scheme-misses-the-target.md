@@ -1,9 +1,12 @@
 ---
 slug: housing-scheme-misses-the-target
-title: "Housing scheme misses the target"
-date: 2003-08-01
-source-url: https://www.scoop.co.nz/stories/PA0308/S00007/housing-scheme-misses-the-target.htm
+title: Housing scheme misses the target
+date: 2003-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00007/housing-scheme-misses-the-target.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/01/housing-scheme-misses-the-target/index.html
+layout: layout.njk
 ---
 Housing scheme misses the target
 ================================

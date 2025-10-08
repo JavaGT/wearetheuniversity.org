@@ -1,9 +1,12 @@
 ---
 slug: yale-professor-gives-innovation-a-helping-hand
-title: "Yale Professor Gives Innovation A Helping Hand"
-date: 2003-04-04
-source-url: https://www.scoop.co.nz/stories/ED0304/S00009/yale-professor-gives-innovation-a-helping-hand.htm
+title: Yale Professor Gives Innovation A Helping Hand
+date: 2003-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00009/yale-professor-gives-innovation-a-helping-hand.htm
 author: auckland-university
+permalink: /archive/2003/04/04/yale-professor-gives-innovation-a-helping-hand/index.html
+layout: layout.njk
 ---
 Yale Professor Gives Innovation A Helping Hand
 ==============================================

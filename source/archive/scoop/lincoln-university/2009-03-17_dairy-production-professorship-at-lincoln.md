@@ -1,9 +1,12 @@
 ---
 slug: dairy-production-professorship-at-lincoln
-title: "Dairy Production Professorship at Lincoln"
-date: 2009-03-17
-source-url: https://www.scoop.co.nz/stories/ED0903/S00056/dairy-production-professorship-at-lincoln.htm
+title: Dairy Production Professorship at Lincoln
+date: 2009-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00056/dairy-production-professorship-at-lincoln.htm
 author: lincoln-university
+permalink: /archive/2009/03/17/dairy-production-professorship-at-lincoln/index.html
+layout: layout.njk
 ---
 Dairy Production Professorship at Lincoln
 =========================================

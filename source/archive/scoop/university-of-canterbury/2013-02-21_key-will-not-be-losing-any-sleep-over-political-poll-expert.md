@@ -1,9 +1,13 @@
 ---
 slug: key-will-not-be-losing-any-sleep-over-political-poll-expert
-title: "Key Will Not Be Losing Any Sleep Over Political Poll, Expert"
-date: 2013-02-21
-source-url: https://www.scoop.co.nz/stories/ED1302/S00114/key-will-not-be-losing-any-sleep-over-political-poll-expert.htm
+title: Key Will Not Be Losing Any Sleep Over Political Poll, Expert
+date: 2013-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00114/key-will-not-be-losing-any-sleep-over-political-poll-expert.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/21/key-will-not-be-losing-any-sleep-over-political-poll-expert/index.html
+layout: layout.njk
 ---
 Key Will Not Be Losing Any Sleep Over Political Poll, Expert
 ============================================================

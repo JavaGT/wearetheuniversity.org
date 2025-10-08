@@ -1,9 +1,11 @@
 ---
 slug: seven-universities-top-pbrf
-title: "SEVEN  UNIVERSITIES TOP PBRF"
-date: 2004-04-23
+title: SEVEN  UNIVERSITIES TOP PBRF
+date: 2004-04-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0404/S00082/seven-universities-top-pbrf.htm
 author: association-of-university-staff
+permalink: /archive/2004/04/23/seven-universities-top-pbrf/index.html
+layout: layout.njk
 ---
 SEVEN UNIVERSITIES TOP PBRF
 ===========================

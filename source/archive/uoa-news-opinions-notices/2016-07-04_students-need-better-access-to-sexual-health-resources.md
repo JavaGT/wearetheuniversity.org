@@ -1,8 +1,12 @@
 ---
 slug: students-need-better-access-to-sexual-health-resources
-title: "Students need better access to sexual health resources"
-date: 2016-07-04
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/students-need-better-access-to-sexual-health-resources.html
+title: Students need better access to sexual health resources
+date: 2016-07-04T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/students-need-better-access-to-sexual-health-resources.html
+permalink: >-
+  /archive/2016/07/04/students-need-better-access-to-sexual-health-resources/index.html
+layout: layout.njk
 ---
 Students need better access to sexual health resources
 ======================================================

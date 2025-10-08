@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-51
-title: "Maxim Institute - real issues - No. 51"
-date: 2003-02-20
-source-url: https://www.scoop.co.nz/stories/PO0302/S00150/maxim-institute-real-issues-no-51.htm
+title: Maxim Institute - real issues - No. 51
+date: 2003-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0302/S00150/maxim-institute-real-issues-no-51.htm
 author: maxim-institute
+permalink: /archive/2003/02/20/maxim-institute-real-issues-no-51/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 51
 ======================================

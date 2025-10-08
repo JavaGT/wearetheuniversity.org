@@ -1,9 +1,12 @@
 ---
 slug: legal-action-over-medical-student-fee-rises
-title: "Legal action over medical student fee rises"
-date: 2004-12-20
-source-url: https://www.scoop.co.nz/stories/ED0412/S00069/legal-action-over-medical-student-fee-rises.htm
+title: Legal action over medical student fee rises
+date: 2004-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00069/legal-action-over-medical-student-fee-rises.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/12/20/legal-action-over-medical-student-fee-rises/index.html
+layout: layout.njk
 ---
 Legal action over medical student fee rises
 ===========================================

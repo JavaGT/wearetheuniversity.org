@@ -1,9 +1,12 @@
 ---
 slug: universities-nz-welcomes-changes-to-ue
-title: "Universities NZ welcomes changes to UE"
-date: 2011-08-10
-source-url: https://www.scoop.co.nz/stories/ED1108/S00061/universities-nz-welcomes-changes-to-ue.htm
+title: Universities NZ welcomes changes to UE
+date: 2011-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00061/universities-nz-welcomes-changes-to-ue.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2011/08/10/universities-nz-welcomes-changes-to-ue/index.html
+layout: layout.njk
 ---
 Universities NZ welcomes changes to UE
 ======================================

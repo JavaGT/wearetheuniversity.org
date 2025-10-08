@@ -1,9 +1,13 @@
 ---
 slug: more-fulbright-scholarships-for-uc-than-any-other-university
-title: "More Fulbright scholarships for UC than any other university"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/ED1406/S00132/more-fulbright-scholarships-for-uc-than-any-other-university.htm
+title: More Fulbright scholarships for UC than any other university
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00132/more-fulbright-scholarships-for-uc-than-any-other-university.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/25/more-fulbright-scholarships-for-uc-than-any-other-university/index.html
+layout: layout.njk
 ---
 More Fulbright scholarships for UC than any other university
 ============================================================

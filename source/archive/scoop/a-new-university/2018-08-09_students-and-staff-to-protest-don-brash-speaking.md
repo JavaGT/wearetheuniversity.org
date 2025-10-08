@@ -1,9 +1,13 @@
 ---
 slug: students-and-staff-to-protest-don-brash-speaking
-title: "Students and Staff to protest Don Brash speaking"
-date: 2018-08-09
-source-url: https://www.scoop.co.nz/stories/PO1808/S00100/students-and-staff-to-protest-don-brash-speaking.htm
+title: Students and Staff to protest Don Brash speaking
+date: 2018-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1808/S00100/students-and-staff-to-protest-don-brash-speaking.htm
 author: a-new-university
+permalink: >-
+  /archive/2018/08/09/students-and-staff-to-protest-don-brash-speaking/index.html
+layout: layout.njk
 ---
 Students and Staff to protest Don Brash speaking
 ================================================

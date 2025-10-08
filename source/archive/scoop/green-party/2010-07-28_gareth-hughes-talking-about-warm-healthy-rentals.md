@@ -1,9 +1,13 @@
 ---
 slug: gareth-hughes-talking-about-warm-healthy-rentals
-title: "Gareth Hughes Talking About Warm Healthy Rentals"
-date: 2010-07-28
-source-url: https://www.scoop.co.nz/stories/PA1007/S00441/gareth-hughes-talking-about-warm-healthy-rentals.htm
+title: Gareth Hughes Talking About Warm Healthy Rentals
+date: 2010-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00441/gareth-hughes-talking-about-warm-healthy-rentals.htm
 author: green-party
+permalink: >-
+  /archive/2010/07/28/gareth-hughes-talking-about-warm-healthy-rentals/index.html
+layout: layout.njk
 ---
 Gareth Hughes Talking About Warm Healthy Rentals
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: more-hold-ups-with-project-protector-roll-out
-title: "More hold-ups with Project Protector roll-out"
-date: 2008-06-11
-source-url: https://www.scoop.co.nz/stories/PA0806/S00153/more-hold-ups-with-project-protector-roll-out.htm
+title: More hold-ups with Project Protector roll-out
+date: 2008-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00153/more-hold-ups-with-project-protector-roll-out.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/11/more-hold-ups-with-project-protector-roll-out/index.html
+layout: layout.njk
 ---
 More hold-ups with Project Protector roll-out
 =============================================

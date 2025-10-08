@@ -1,9 +1,12 @@
 ---
 slug: photographing-history-for-the-future
-title: "Photographing History for the Future"
-date: 2016-10-19
-source-url: https://www.scoop.co.nz/stories/CU1610/S00274/photographing-history-for-the-future.htm
+title: Photographing History for the Future
+date: 2016-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1610/S00274/photographing-history-for-the-future.htm
 author: university-of-otago
+permalink: /archive/2016/10/19/photographing-history-for-the-future/index.html
+layout: layout.njk
 ---
 Photographing History for the Future
 ====================================

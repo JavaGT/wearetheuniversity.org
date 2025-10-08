@@ -1,9 +1,12 @@
 ---
 slug: horowira-māori-in-australia-research-report
-title: "Horowira: Māori in Australia research report"
-date: 2007-09-29
-source-url: https://www.scoop.co.nz/stories/PA0709/S00528/horowira-maori-in-australia-research-report.htm
+title: 'Horowira: Māori in Australia research report'
+date: 2007-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00528/horowira-maori-in-australia-research-report.htm
 author: te-pati-maori
+permalink: /archive/2007/09/29/horowira-m/index.html
+layout: layout.njk
 ---
 Horowira: Māori in Australia research report
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: america-not-yet-ready-to-pounce
-title: "America Not Yet Ready to Pounce"
-date: 2001-09-26
-source-url: https://www.scoop.co.nz/stories/WO0109/S00085/america-not-yet-ready-to-pounce.htm
+title: America Not Yet Ready to Pounce
+date: 2001-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0109/S00085/america-not-yet-ready-to-pounce.htm
 author: massey-university
+permalink: /archive/2001/09/26/america-not-yet-ready-to-pounce/index.html
+layout: layout.njk
 ---
 America Not Yet Ready to Pounce
 ===============================

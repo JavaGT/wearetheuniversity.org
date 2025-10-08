@@ -1,9 +1,12 @@
 ---
 slug: gambles-on-nz-writers-leads-to-great-night-out
-title: "Gambles on NZ Writers Leads to Great Night Out"
-date: 2005-11-18
-source-url: https://www.scoop.co.nz/stories/CU0511/S00145/gambles-on-nz-writers-leads-to-great-night-out.htm
+title: Gambles on NZ Writers Leads to Great Night Out
+date: 2005-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0511/S00145/gambles-on-nz-writers-leads-to-great-night-out.htm
 author: victoria-university-press
+permalink: /archive/2005/11/18/gambles-on-nz-writers-leads-to-great-night-out/index.html
+layout: layout.njk
 ---
 Gambles on NZ Writers Leads to Great Night Out
 ==============================================

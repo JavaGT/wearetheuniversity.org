@@ -1,9 +1,13 @@
 ---
 slug: nz-universities-rank-well-despite-resourcing-constraints
-title: "NZ universities rank well despite resourcing constraints"
-date: 2019-06-19
-source-url: https://www.scoop.co.nz/stories/ED1906/S00043/nz-universities-rank-well-despite-resourcing-constraints.htm
+title: NZ universities rank well despite resourcing constraints
+date: 2019-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1906/S00043/nz-universities-rank-well-despite-resourcing-constraints.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2019/06/19/nz-universities-rank-well-despite-resourcing-constraints/index.html
+layout: layout.njk
 ---
 NZ universities rank well despite resourcing constraints
 ========================================================

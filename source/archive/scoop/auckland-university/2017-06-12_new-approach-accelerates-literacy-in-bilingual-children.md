@@ -1,9 +1,13 @@
 ---
 slug: new-approach-accelerates-literacy-in-bilingual-children
-title: "New approach accelerates literacy in bilingual children"
-date: 2017-06-12
-source-url: https://www.scoop.co.nz/stories/ED1706/S00032/new-approach-accelerates-literacy-in-bilingual-children.htm
+title: New approach accelerates literacy in bilingual children
+date: 2017-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00032/new-approach-accelerates-literacy-in-bilingual-children.htm
 author: auckland-university
+permalink: >-
+  /archive/2017/06/12/new-approach-accelerates-literacy-in-bilingual-children/index.html
+layout: layout.njk
 ---
 New approach accelerates literacy in bilingual children
 =======================================================

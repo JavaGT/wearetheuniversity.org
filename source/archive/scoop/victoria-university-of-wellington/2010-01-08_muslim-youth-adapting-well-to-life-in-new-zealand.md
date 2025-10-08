@@ -1,9 +1,13 @@
 ---
 slug: muslim-youth-adapting-well-to-life-in-new-zealand
-title: "Muslim youth adapting well to life in New Zealand"
-date: 2010-01-08
-source-url: https://www.scoop.co.nz/stories/ED1001/S00009/muslim-youth-adapting-well-to-life-in-new-zealand.htm
+title: Muslim youth adapting well to life in New Zealand
+date: 2010-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00009/muslim-youth-adapting-well-to-life-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/01/08/muslim-youth-adapting-well-to-life-in-new-zealand/index.html
+layout: layout.njk
 ---
 Muslim youth adapting well to life in New Zealand
 =================================================

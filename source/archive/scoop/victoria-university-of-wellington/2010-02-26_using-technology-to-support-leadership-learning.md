@@ -1,9 +1,12 @@
 ---
 slug: using-technology-to-support-leadership-learning
-title: "Using technology to support leadership learning"
-date: 2010-02-26
-source-url: https://www.scoop.co.nz/stories/ED1002/S00095/using-technology-to-support-leadership-learning.htm
+title: Using technology to support leadership learning
+date: 2010-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00095/using-technology-to-support-leadership-learning.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/02/26/using-technology-to-support-leadership-learning/index.html
+layout: layout.njk
 ---
 Using technology to support leadership learning
 ===============================================

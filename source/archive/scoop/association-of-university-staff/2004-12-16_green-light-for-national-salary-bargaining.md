@@ -1,9 +1,12 @@
 ---
 slug: green-light-for-national-salary-bargaining
-title: "Green light for national salary bargaining"
-date: 2004-12-16
-source-url: https://www.scoop.co.nz/stories/ED0412/S00062/green-light-for-national-salary-bargaining.htm
+title: Green light for national salary bargaining
+date: 2004-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00062/green-light-for-national-salary-bargaining.htm
 author: association-of-university-staff
+permalink: /archive/2004/12/16/green-light-for-national-salary-bargaining/index.html
+layout: layout.njk
 ---
 Green light for national salary bargaining
 ==========================================

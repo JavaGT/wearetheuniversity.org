@@ -1,9 +1,12 @@
 ---
 slug: otago-university-staff-suspend-actions
-title: "Otago University staff suspend actions"
-date: 2002-10-04
-source-url: https://www.scoop.co.nz/stories/ED0210/S00011/otago-university-staff-suspend-actions.htm
+title: Otago University staff suspend actions
+date: 2002-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00011/otago-university-staff-suspend-actions.htm
 author: association-of-university-staff
+permalink: /archive/2002/10/04/otago-university-staff-suspend-actions/index.html
+layout: layout.njk
 ---
 Otago University staff suspend actions
 ======================================

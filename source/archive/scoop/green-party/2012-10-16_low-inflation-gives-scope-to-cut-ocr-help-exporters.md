@@ -1,9 +1,13 @@
 ---
 slug: low-inflation-gives-scope-to-cut-ocr-help-exporters
-title: "Low inflation gives scope to cut OCR, help exporters"
-date: 2012-10-16
-source-url: https://www.scoop.co.nz/stories/PA1210/S00262/low-inflation-gives-scope-to-cut-ocr-help-exporters.htm
+title: Low inflation gives scope to cut OCR, help exporters
+date: 2012-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00262/low-inflation-gives-scope-to-cut-ocr-help-exporters.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/16/low-inflation-gives-scope-to-cut-ocr-help-exporters/index.html
+layout: layout.njk
 ---
 Low inflation gives scope to cut OCR, help exporters
 ====================================================

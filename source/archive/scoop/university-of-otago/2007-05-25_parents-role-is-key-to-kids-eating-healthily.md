@@ -1,9 +1,12 @@
 ---
 slug: parents-role-is-key-to-kids-eating-healthily
-title: "Parents’ Role Is Key To Kids Eating Healthily"
-date: 2007-05-25
-source-url: https://www.scoop.co.nz/stories/GE0705/S00144/parents-role-is-key-to-kids-eating-healthily.htm
+title: Parents’ Role Is Key To Kids Eating Healthily
+date: 2007-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0705/S00144/parents-role-is-key-to-kids-eating-healthily.htm
 author: university-of-otago
+permalink: /archive/2007/05/25/parents-role-is-key-to-kids-eating-healthily/index.html
+layout: layout.njk
 ---
 Parents’ Role Is Key To Kids Eating Healthily
 =============================================

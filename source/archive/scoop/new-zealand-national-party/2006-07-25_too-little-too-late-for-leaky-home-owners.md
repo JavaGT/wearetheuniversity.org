@@ -1,9 +1,12 @@
 ---
 slug: too-little-too-late-for-leaky-home-owners
-title: "Too little too late for leaky-home owners"
-date: 2006-07-25
-source-url: https://www.scoop.co.nz/stories/PA0607/S00410/too-little-too-late-for-leaky-home-owners.htm
+title: Too little too late for leaky-home owners
+date: 2006-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00410/too-little-too-late-for-leaky-home-owners.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/25/too-little-too-late-for-leaky-home-owners/index.html
+layout: layout.njk
 ---
 Too little too late for leaky-home owners
 =========================================

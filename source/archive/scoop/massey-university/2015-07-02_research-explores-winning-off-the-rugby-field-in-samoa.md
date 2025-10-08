@@ -1,9 +1,13 @@
 ---
 slug: research-explores-winning-off-the-rugby-field-in-samoa
-title: "Research explores winning off the rugby field in Samoa"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/ED1507/S00026/research-explores-winning-off-the-rugby-field-in-samoa.htm
+title: Research explores winning off the rugby field in Samoa
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00026/research-explores-winning-off-the-rugby-field-in-samoa.htm
 author: massey-university
+permalink: >-
+  /archive/2015/07/02/research-explores-winning-off-the-rugby-field-in-samoa/index.html
+layout: layout.njk
 ---
 Research explores winning off the rugby field in Samoa
 ======================================================

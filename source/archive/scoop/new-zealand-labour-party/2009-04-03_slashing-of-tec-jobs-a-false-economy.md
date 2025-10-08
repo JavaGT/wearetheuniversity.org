@@ -1,9 +1,12 @@
 ---
 slug: slashing-of-tec-jobs-a-false-economy
-title: "Slashing of TEC jobs a false economy"
-date: 2009-04-03
-source-url: https://www.scoop.co.nz/stories/PA0904/S00062/slashing-of-tec-jobs-a-false-economy.htm
+title: Slashing of TEC jobs a false economy
+date: 2009-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00062/slashing-of-tec-jobs-a-false-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/03/slashing-of-tec-jobs-a-false-economy/index.html
+layout: layout.njk
 ---
 Slashing of TEC jobs a false economy
 ====================================

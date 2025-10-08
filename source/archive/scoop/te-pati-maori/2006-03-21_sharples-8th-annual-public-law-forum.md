@@ -1,9 +1,12 @@
 ---
 slug: sharples-8th-annual-public-law-forum
-title: "Sharples: 8th Annual Public Law Forum"
-date: 2006-03-21
-source-url: https://www.scoop.co.nz/stories/PA0603/S00346/sharples-8th-annual-public-law-forum.htm
+title: 'Sharples: 8th Annual Public Law Forum'
+date: 2006-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00346/sharples-8th-annual-public-law-forum.htm
 author: te-pati-maori
+permalink: /archive/2006/03/21/sharples-8th-annual-public-law-forum/index.html
+layout: layout.njk
 ---
 Sharples: 8th Annual Public Law Forum
 =====================================

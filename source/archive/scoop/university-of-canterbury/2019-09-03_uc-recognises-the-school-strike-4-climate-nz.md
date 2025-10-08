@@ -1,9 +1,12 @@
 ---
 slug: uc-recognises-the-school-strike-4-climate-nz
-title: "UC recognises the School Strike 4 Climate NZ"
-date: 2019-09-03
-source-url: https://www.scoop.co.nz/stories/ED1909/S00006/uc-recognises-the-school-strike-4-climate-nz.htm
+title: UC recognises the School Strike 4 Climate NZ
+date: 2019-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00006/uc-recognises-the-school-strike-4-climate-nz.htm
 author: university-of-canterbury
+permalink: /archive/2019/09/03/uc-recognises-the-school-strike-4-climate-nz/index.html
+layout: layout.njk
 ---
 UC recognises the School Strike 4 Climate NZ
 ============================================

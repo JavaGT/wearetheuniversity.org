@@ -1,9 +1,13 @@
 ---
 slug: taxpayers-union-wrong-on-cost-of-abolishing-student-debt
-title: "Taxpayers Union wrong on cost of abolishing student debt"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/PO1409/S00299/taxpayers-union-wrong-on-cost-of-abolishing-student-debt.htm
+title: Taxpayers Union wrong on cost of abolishing student debt
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00299/taxpayers-union-wrong-on-cost-of-abolishing-student-debt.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/09/12/taxpayers-union-wrong-on-cost-of-abolishing-student-debt/index.html
+layout: layout.njk
 ---
 Taxpayers Union wrong on cost of abolishing student debt
 ========================================================

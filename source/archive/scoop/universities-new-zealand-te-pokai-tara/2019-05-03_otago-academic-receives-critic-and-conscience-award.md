@@ -1,9 +1,13 @@
 ---
 slug: otago-academic-receives-critic-and-conscience-award
-title: "Otago academic receives Critic and Conscience Award"
-date: 2019-05-03
-source-url: https://www.scoop.co.nz/stories/ED1905/S00015/otago-academic-receives-critic-and-conscience-award.htm
+title: Otago academic receives Critic and Conscience Award
+date: 2019-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00015/otago-academic-receives-critic-and-conscience-award.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2019/05/03/otago-academic-receives-critic-and-conscience-award/index.html
+layout: layout.njk
 ---
 Otago academic receives Critic and Conscience Award
 ===================================================

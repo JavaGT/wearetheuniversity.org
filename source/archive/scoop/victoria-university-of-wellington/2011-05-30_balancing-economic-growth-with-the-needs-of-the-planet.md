@@ -1,9 +1,13 @@
 ---
 slug: balancing-economic-growth-with-the-needs-of-the-planet
-title: "Balancing economic growth with the needs of the planet"
-date: 2011-05-30
-source-url: https://www.scoop.co.nz/stories/BU1105/S01012/balancing-economic-growth-with-the-needs-of-the-planet.htm
+title: Balancing economic growth with the needs of the planet
+date: 2011-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1105/S01012/balancing-economic-growth-with-the-needs-of-the-planet.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/05/30/balancing-economic-growth-with-the-needs-of-the-planet/index.html
+layout: layout.njk
 ---
 Balancing economic growth with the needs of the planet
 ======================================================

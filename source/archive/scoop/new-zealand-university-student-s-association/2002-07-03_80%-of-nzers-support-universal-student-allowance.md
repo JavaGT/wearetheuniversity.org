@@ -1,9 +1,12 @@
 ---
 slug: 80%-of-nzers-support-universal-student-allowance
-title: "80% of NZers Support Universal Student Allowance"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PO0207/S00038/80-of-nzers-support-universal-student-allowance.htm
+title: 80% of NZers Support Universal Student Allowance
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0207/S00038/80-of-nzers-support-universal-student-allowance.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/03/80/index.html
+layout: layout.njk
 ---
 80% of NZers Support Universal Student Allowance
 ================================================

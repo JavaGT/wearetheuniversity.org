@@ -1,9 +1,12 @@
 ---
 slug: victoria-and-irl-bringing-business-to-science
-title: "Victoria and IRL bringing business to science"
-date: 2010-04-26
-source-url: https://www.scoop.co.nz/stories/ED1004/S00071/victoria-and-irl-bringing-business-to-science.htm
+title: Victoria and IRL bringing business to science
+date: 2010-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00071/victoria-and-irl-bringing-business-to-science.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/04/26/victoria-and-irl-bringing-business-to-science/index.html
+layout: layout.njk
 ---
 Victoria and IRL bringing business to science
 =============================================

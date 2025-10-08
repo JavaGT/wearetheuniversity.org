@@ -1,9 +1,12 @@
 ---
 slug: govt-super-fund-continues-to-bleed
-title: "Govt super fund continues to bleed"
-date: 2003-05-12
-source-url: https://www.scoop.co.nz/stories/PA0305/S00257/govt-super-fund-continues-to-bleed.htm
+title: Govt super fund continues to bleed
+date: 2003-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00257/govt-super-fund-continues-to-bleed.htm
 author: green-party
+permalink: /archive/2003/05/12/govt-super-fund-continues-to-bleed/index.html
+layout: layout.njk
 ---
 Govt super fund continues to bleed
 ==================================

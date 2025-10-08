@@ -1,9 +1,12 @@
 ---
 slug: deborah-coddington-as-act-new-zealand-candidate
-title: "Deborah Coddington as ACT New Zealand candidate"
-date: 2002-06-05
-source-url: https://www.scoop.co.nz/stories/PO0206/S00016/deborah-coddington-as-act-new-zealand-candidate.htm
+title: Deborah Coddington as ACT New Zealand candidate
+date: 2002-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0206/S00016/deborah-coddington-as-act-new-zealand-candidate.htm
 author: act-new-zealand
+permalink: /archive/2002/06/05/deborah-coddington-as-act-new-zealand-candidate/index.html
+layout: layout.njk
 ---
 Deborah Coddington as ACT New Zealand candidate
 ===============================================

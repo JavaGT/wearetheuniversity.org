@@ -1,9 +1,12 @@
 ---
 slug: auckland-uni-centre-for-advanced-mri-opening
-title: "Auckland Uni – Centre for Advanced MRI Opening"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/ED0504/S00063/auckland-uni-centre-for-advanced-mri-opening.htm
+title: Auckland Uni – Centre for Advanced MRI Opening
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00063/auckland-uni-centre-for-advanced-mri-opening.htm
 author: auckland-university
+permalink: /archive/2005/04/15/auckland-uni-centre-for-advanced-mri-opening/index.html
+layout: layout.njk
 ---
 Auckland Uni – Centre for Advanced MRI Opening
 ==============================================

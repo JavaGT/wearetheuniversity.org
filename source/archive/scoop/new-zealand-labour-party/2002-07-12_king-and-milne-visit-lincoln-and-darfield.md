@@ -1,9 +1,12 @@
 ---
 slug: king-and-milne-visit-lincoln-and-darfield
-title: "King and Milne visit Lincoln and Darfield"
-date: 2002-07-12
-source-url: https://www.scoop.co.nz/stories/PO0207/S00139/king-and-milne-visit-lincoln-and-darfield.htm
+title: King and Milne visit Lincoln and Darfield
+date: 2002-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0207/S00139/king-and-milne-visit-lincoln-and-darfield.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/12/king-and-milne-visit-lincoln-and-darfield/index.html
+layout: layout.njk
 ---
 King and Milne visit Lincoln and Darfield
 =========================================

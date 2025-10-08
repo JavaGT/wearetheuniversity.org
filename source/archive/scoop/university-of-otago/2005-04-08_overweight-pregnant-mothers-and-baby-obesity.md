@@ -1,9 +1,12 @@
 ---
 slug: overweight-pregnant-mothers-and-baby-obesity
-title: "Overweight Pregnant Mothers and Baby Obesity"
-date: 2005-04-08
-source-url: https://www.scoop.co.nz/stories/GE0504/S00029/overweight-pregnant-mothers-and-baby-obesity.htm
+title: Overweight Pregnant Mothers and Baby Obesity
+date: 2005-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0504/S00029/overweight-pregnant-mothers-and-baby-obesity.htm
 author: university-of-otago
+permalink: /archive/2005/04/08/overweight-pregnant-mothers-and-baby-obesity/index.html
+layout: layout.njk
 ---
 Overweight Pregnant Mothers and Baby Obesity
 ============================================

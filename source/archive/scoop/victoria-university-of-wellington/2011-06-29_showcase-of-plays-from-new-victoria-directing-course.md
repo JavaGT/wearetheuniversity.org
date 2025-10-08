@@ -1,9 +1,13 @@
 ---
 slug: showcase-of-plays-from-new-victoria-directing-course
-title: "Showcase of plays from new Victoria directing course"
-date: 2011-06-29
-source-url: https://www.scoop.co.nz/stories/CU1106/S00396/showcase-of-plays-from-new-victoria-directing-course.htm
+title: Showcase of plays from new Victoria directing course
+date: 2011-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1106/S00396/showcase-of-plays-from-new-victoria-directing-course.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/06/29/showcase-of-plays-from-new-victoria-directing-course/index.html
+layout: layout.njk
 ---
 Showcase of plays from new Victoria directing course
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-opposes-affront-to-democracy
-title: "New Zealand First opposes affront to democracy"
-date: 2019-04-03
-source-url: https://www.scoop.co.nz/stories/PA1904/S00032/new-zealand-first-opposes-affront-to-democracy.htm
+title: New Zealand First opposes affront to democracy
+date: 2019-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00032/new-zealand-first-opposes-affront-to-democracy.htm
 author: new-zealand-first-party
+permalink: /archive/2019/04/03/new-zealand-first-opposes-affront-to-democracy/index.html
+layout: layout.njk
 ---
 New Zealand First opposes affront to democracy
 ==============================================

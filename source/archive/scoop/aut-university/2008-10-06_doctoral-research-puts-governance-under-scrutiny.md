@@ -1,9 +1,13 @@
 ---
 slug: doctoral-research-puts-governance-under-scrutiny
-title: "Doctoral research puts governance under scrutiny"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/ED0810/S00018/doctoral-research-puts-governance-under-scrutiny.htm
+title: Doctoral research puts governance under scrutiny
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00018/doctoral-research-puts-governance-under-scrutiny.htm
 author: aut-university
+permalink: >-
+  /archive/2008/10/06/doctoral-research-puts-governance-under-scrutiny/index.html
+layout: layout.njk
 ---
 Doctoral research puts governance under scrutiny
 ================================================

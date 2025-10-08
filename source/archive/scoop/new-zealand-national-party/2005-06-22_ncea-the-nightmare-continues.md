@@ -1,9 +1,11 @@
 ---
 slug: ncea-the-nightmare-continues
-title: "NCEA: the nightmare continues..."
-date: 2005-06-22
+title: 'NCEA: the nightmare continues...'
+date: 2005-06-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0506/S00522/ncea-the-nightmare-continues.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/22/ncea-the-nightmare-continues/index.html
+layout: layout.njk
 ---
 NCEA: the nightmare continues...
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: human-rights-the-treaty-and-asian-communities
-title: "Human Rights, the Treaty and Asian Communities"
-date: 2005-11-02
-source-url: https://www.scoop.co.nz/stories/ED0511/S00011/human-rights-the-treaty-and-asian-communities.htm
+title: Human Rights, the Treaty and Asian Communities
+date: 2005-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00011/human-rights-the-treaty-and-asian-communities.htm
 author: auckland-university
+permalink: /archive/2005/11/02/human-rights-the-treaty-and-asian-communities/index.html
+layout: layout.njk
 ---
 Human Rights, the Treaty and Asian Communities
 ==============================================

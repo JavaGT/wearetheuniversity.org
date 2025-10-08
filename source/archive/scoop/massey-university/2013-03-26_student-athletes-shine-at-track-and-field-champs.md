@@ -1,9 +1,13 @@
 ---
 slug: student-athletes-shine-at-track-and-field-champs
-title: "Student-Athletes Shine At Track And Field Champs"
-date: 2013-03-26
-source-url: https://www.scoop.co.nz/stories/ED1303/S00182/student-athletes-shine-at-track-and-field-champs.htm
+title: Student-Athletes Shine At Track And Field Champs
+date: 2013-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00182/student-athletes-shine-at-track-and-field-champs.htm
 author: massey-university
+permalink: >-
+  /archive/2013/03/26/student-athletes-shine-at-track-and-field-champs/index.html
+layout: layout.njk
 ---
 Student-Athletes Shine At Track And Field Champs
 ================================================

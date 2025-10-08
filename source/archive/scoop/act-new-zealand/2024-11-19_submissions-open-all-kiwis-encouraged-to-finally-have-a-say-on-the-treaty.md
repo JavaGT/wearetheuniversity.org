@@ -1,9 +1,13 @@
 ---
 slug: submissions-open-all-kiwis-encouraged-to-finally-have-a-say-on-the-treaty
-title: "Submissions Open: All Kiwis Encouraged To Finally Have A Say On The Treaty"
-date: 2024-11-19
-source-url: https://www.scoop.co.nz/stories/PA2411/S00135/submissions-open-all-kiwis-encouraged-to-finally-have-a-say-on-the-treaty.htm
+title: 'Submissions Open: All Kiwis Encouraged To Finally Have A Say On The Treaty'
+date: 2024-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00135/submissions-open-all-kiwis-encouraged-to-finally-have-a-say-on-the-treaty.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/11/19/submissions-open-all-kiwis-encouraged-to-finally-have-a-say-on-the-treaty/index.html
+layout: layout.njk
 ---
 Submissions Open: All Kiwis Encouraged To Finally Have A Say On The Treaty
 ==========================================================================

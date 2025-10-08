@@ -1,9 +1,12 @@
 ---
 slug: new-vice-chancellor-appointed-at-victoria
-title: "New Vice-Chancellor appointed at Victoria"
-date: 2000-08-17
-source-url: https://www.scoop.co.nz/stories/ED0008/S00029/new-vice-chancellor-appointed-at-victoria.htm
+title: New Vice-Chancellor appointed at Victoria
+date: 2000-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00029/new-vice-chancellor-appointed-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/08/17/new-vice-chancellor-appointed-at-victoria/index.html
+layout: layout.njk
 ---
 New Vice-Chancellor appointed at Victoria
 =========================================

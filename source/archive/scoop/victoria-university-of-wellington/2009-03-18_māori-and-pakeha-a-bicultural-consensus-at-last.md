@@ -1,9 +1,12 @@
 ---
 slug: māori-and-pakeha-a-bicultural-consensus-at-last
-title: "Māori and Pakeha: a bicultural consensus at last?"
-date: 2009-03-18
-source-url: https://www.scoop.co.nz/stories/ED0903/S00066/maori-and-pakeha-a-bicultural-consensus-at-last.htm
+title: 'Māori and Pakeha: a bicultural consensus at last?'
+date: 2009-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00066/maori-and-pakeha-a-bicultural-consensus-at-last.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/03/18/m/index.html
+layout: layout.njk
 ---
 Māori and Pakeha: a bicultural consensus at last?
 =================================================

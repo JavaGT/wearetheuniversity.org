@@ -1,9 +1,12 @@
 ---
 slug: farmers-worried-as-government-increases-costs
-title: "Farmers worried as Government increases costs"
-date: 2018-08-02
-source-url: https://www.scoop.co.nz/stories/PA1808/S00035/farmers-worried-as-government-increases-costs.htm
+title: Farmers worried as Government increases costs
+date: 2018-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00035/farmers-worried-as-government-increases-costs.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/02/farmers-worried-as-government-increases-costs/index.html
+layout: layout.njk
 ---
 Farmers worried as Government increases costs
 =============================================

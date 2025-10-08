@@ -1,9 +1,12 @@
 ---
 slug: key-manipulates-figures-on-income-inequality
-title: "Key manipulates figures on income inequality"
-date: 2011-08-02
-source-url: https://www.scoop.co.nz/stories/PA1108/S00038/key-manipulates-figures-on-income-inequality.htm
+title: Key manipulates figures on income inequality
+date: 2011-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00038/key-manipulates-figures-on-income-inequality.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/02/key-manipulates-figures-on-income-inequality/index.html
+layout: layout.njk
 ---
 Key manipulates figures on income inequality
 ============================================

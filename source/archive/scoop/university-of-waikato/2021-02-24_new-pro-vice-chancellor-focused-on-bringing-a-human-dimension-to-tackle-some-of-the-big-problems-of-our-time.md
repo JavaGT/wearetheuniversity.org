@@ -1,9 +1,16 @@
 ---
-slug: new-pro-vice-chancellor-focused-on-bringing-a-human-dimension-to-tackle-some-of-the-big-problems-of-our-time
-title: "New Pro Vice-Chancellor Focused On Bringing A Human Dimension To Tackle Some Of The Big Problems Of Our Time"
-date: 2021-02-24
-source-url: https://www.scoop.co.nz/stories/ED2102/S00035/new-pro-vice-chancellor-focused-on-bringing-a-human-dimension-to-tackle-some-of-the-big-problems-of-our-time.htm
+slug: >-
+  new-pro-vice-chancellor-focused-on-bringing-a-human-dimension-to-tackle-some-of-the-big-problems-of-our-time
+title: >-
+  New Pro Vice-Chancellor Focused On Bringing A Human Dimension To Tackle Some
+  Of The Big Problems Of Our Time
+date: 2021-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2102/S00035/new-pro-vice-chancellor-focused-on-bringing-a-human-dimension-to-tackle-some-of-the-big-problems-of-our-time.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/02/24/new-pro-vice-chancellor-focused-on-bringing-a-human-dimension-to-tackle-some-of-the-big-problems-of-our-time/index.html
+layout: layout.njk
 ---
 New Pro Vice-Chancellor Focused On Bringing A Human Dimension To Tackle Some Of The Big Problems Of Our Time
 ============================================================================================================

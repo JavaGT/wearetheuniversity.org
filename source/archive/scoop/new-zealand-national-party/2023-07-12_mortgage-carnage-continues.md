@@ -1,9 +1,11 @@
 ---
 slug: mortgage-carnage-continues
-title: "Mortgage Carnage Continues"
-date: 2023-07-12
+title: Mortgage Carnage Continues
+date: 2023-07-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2307/S00059/mortgage-carnage-continues.htm
 author: new-zealand-national-party
+permalink: /archive/2023/07/12/mortgage-carnage-continues/index.html
+layout: layout.njk
 ---
 Mortgage Carnage Continues
 ==========================

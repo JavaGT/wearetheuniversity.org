@@ -1,9 +1,13 @@
 ---
 slug: understanding-behaviour-can-authorities-sniff-out-crime
-title: "Understanding behaviour – can authorities sniff out crime?"
-date: 2015-10-16
-source-url: https://www.scoop.co.nz/stories/ED1510/S00086/understanding-behaviour-can-authorities-sniff-out-crime.htm
+title: Understanding behaviour – can authorities sniff out crime?
+date: 2015-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00086/understanding-behaviour-can-authorities-sniff-out-crime.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/16/understanding-behaviour-can-authorities-sniff-out-crime/index.html
+layout: layout.njk
 ---
 Understanding behaviour – can authorities sniff out crime?
 ==========================================================

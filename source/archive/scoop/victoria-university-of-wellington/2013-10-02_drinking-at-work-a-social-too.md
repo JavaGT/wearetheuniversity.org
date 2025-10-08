@@ -1,9 +1,12 @@
 ---
 slug: drinking-at-work-a-social-too
-title: "Drinking at work a social too"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/SC1310/S00004/drinking-at-work-a-social-too.htm
+title: Drinking at work a social too
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00004/drinking-at-work-a-social-too.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/10/02/drinking-at-work-a-social-too/index.html
+layout: layout.njk
 ---
 Drinking at work a social too
 =============================

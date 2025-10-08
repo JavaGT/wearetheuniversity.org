@@ -1,9 +1,12 @@
 ---
 slug: anika-moa-headlines-thursdays-in-black-concert
-title: "Anika Moa headlines Thursdays in Black Concert"
-date: 2006-09-08
-source-url: https://www.scoop.co.nz/stories/ED0609/S00031/anika-moa-headlines-thursdays-in-black-concert.htm
+title: Anika Moa headlines Thursdays in Black Concert
+date: 2006-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00031/anika-moa-headlines-thursdays-in-black-concert.htm
 author: victoria-university-students-association
+permalink: /archive/2006/09/08/anika-moa-headlines-thursdays-in-black-concert/index.html
+layout: layout.njk
 ---
 Anika Moa headlines Thursdays in Black Concert
 ==============================================

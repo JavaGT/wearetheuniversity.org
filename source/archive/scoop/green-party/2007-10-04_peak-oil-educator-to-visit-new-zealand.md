@@ -1,9 +1,12 @@
 ---
 slug: peak-oil-educator-to-visit-new-zealand
-title: "Peak oil educator to visit New Zealand"
-date: 2007-10-04
-source-url: https://www.scoop.co.nz/stories/PA0710/S00068/peak-oil-educator-to-visit-new-zealand.htm
+title: Peak oil educator to visit New Zealand
+date: 2007-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00068/peak-oil-educator-to-visit-new-zealand.htm
 author: green-party
+permalink: /archive/2007/10/04/peak-oil-educator-to-visit-new-zealand/index.html
+layout: layout.njk
 ---
 Peak oil educator to visit New Zealand
 ======================================

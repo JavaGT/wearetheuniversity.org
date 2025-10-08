@@ -1,9 +1,12 @@
 ---
 slug: conservation-house-built-with-aussie-wood
-title: "Conservation House built with Aussie wood"
-date: 2007-08-21
-source-url: https://www.scoop.co.nz/stories/PA0708/S00341/conservation-house-built-with-aussie-wood.htm
+title: Conservation House built with Aussie wood
+date: 2007-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00341/conservation-house-built-with-aussie-wood.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/21/conservation-house-built-with-aussie-wood/index.html
+layout: layout.njk
 ---
 Conservation House built with Aussie wood
 =========================================

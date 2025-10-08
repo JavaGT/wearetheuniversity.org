@@ -1,9 +1,13 @@
 ---
 slug: conference-on-what-has-driven-chinas-growth-and-development
-title: "Conference on what has driven China’s growth and development"
-date: 2012-07-31
-source-url: https://www.scoop.co.nz/stories/ED1207/S00113/conference-on-what-has-driven-chinas-growth-and-development.htm
+title: Conference on what has driven China’s growth and development
+date: 2012-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00113/conference-on-what-has-driven-chinas-growth-and-development.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/07/31/conference-on-what-has-driven-chinas-growth-and-development/index.html
+layout: layout.njk
 ---
 Conference on what has driven China’s growth and development
 ============================================================

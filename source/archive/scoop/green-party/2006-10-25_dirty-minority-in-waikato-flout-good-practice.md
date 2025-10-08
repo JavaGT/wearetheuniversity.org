@@ -1,9 +1,12 @@
 ---
 slug: dirty-minority-in-waikato-flout-good-practice
-title: "'Dirty' minority in Waikato flout good practice"
-date: 2006-10-25
-source-url: https://www.scoop.co.nz/stories/PA0610/S00458/dirty-minority-in-waikato-flout-good-practice.htm
+title: '''Dirty'' minority in Waikato flout good practice'
+date: 2006-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00458/dirty-minority-in-waikato-flout-good-practice.htm
 author: green-party
+permalink: /archive/2006/10/25/dirty-minority-in-waikato-flout-good-practice/index.html
+layout: layout.njk
 ---
 'Dirty' minority in Waikato flout good practice
 ===============================================

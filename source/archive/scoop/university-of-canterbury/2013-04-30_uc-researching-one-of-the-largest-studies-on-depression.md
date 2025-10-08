@@ -1,9 +1,13 @@
 ---
 slug: uc-researching-one-of-the-largest-studies-on-depression
-title: "UC Researching One of the Largest Studies On Depression"
-date: 2013-04-30
-source-url: https://www.scoop.co.nz/stories/SC1304/S00056/uc-researching-one-of-the-largest-studies-on-depression.htm
+title: UC Researching One of the Largest Studies On Depression
+date: 2013-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00056/uc-researching-one-of-the-largest-studies-on-depression.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/30/uc-researching-one-of-the-largest-studies-on-depression/index.html
+layout: layout.njk
 ---
 UC Researching One of the Largest Studies On Depression
 =======================================================

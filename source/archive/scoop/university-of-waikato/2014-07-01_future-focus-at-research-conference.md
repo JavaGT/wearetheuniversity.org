@@ -1,9 +1,12 @@
 ---
 slug: future-focus-at-research-conference
-title: "Future focus at research conference"
-date: 2014-07-01
-source-url: https://www.scoop.co.nz/stories/ED1407/S00004/future-focus-at-research-conference.htm
+title: Future focus at research conference
+date: 2014-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00004/future-focus-at-research-conference.htm
 author: university-of-waikato
+permalink: /archive/2014/07/01/future-focus-at-research-conference/index.html
+layout: layout.njk
 ---
 Future focus at research conference
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: rich-poor-gap-set-to-increase-tax-recommendations
-title: "Rich-poor gap set to increase tax recommendations"
-date: 2010-01-20
-source-url: https://www.scoop.co.nz/stories/PA1001/S00070/rich-poor-gap-set-to-increase-tax-recommendations.htm
+title: Rich-poor gap set to increase tax recommendations
+date: 2010-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00070/rich-poor-gap-set-to-increase-tax-recommendations.htm
 author: green-party
+permalink: >-
+  /archive/2010/01/20/rich-poor-gap-set-to-increase-tax-recommendations/index.html
+layout: layout.njk
 ---
 Rich-poor gap set to increase tax recommendations
 =================================================

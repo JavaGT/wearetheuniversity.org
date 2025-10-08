@@ -1,9 +1,12 @@
 ---
 slug: time-for-govt-to-front-on-wage-subsidy-failures
-title: "Time For Govt To Front On Wage Subsidy Failures"
-date: 2021-09-26
-source-url: https://www.scoop.co.nz/stories/PA2109/S00226/time-for-govt-to-front-on-wage-subsidy-failures.htm
+title: Time For Govt To Front On Wage Subsidy Failures
+date: 2021-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00226/time-for-govt-to-front-on-wage-subsidy-failures.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/26/time-for-govt-to-front-on-wage-subsidy-failures/index.html
+layout: layout.njk
 ---
 Time For Govt To Front On Wage Subsidy Failures
 ===============================================

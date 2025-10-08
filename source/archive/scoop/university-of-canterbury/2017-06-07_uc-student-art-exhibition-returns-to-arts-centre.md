@@ -1,9 +1,13 @@
 ---
 slug: uc-student-art-exhibition-returns-to-arts-centre
-title: "UC student art exhibition returns to Arts Centre"
-date: 2017-06-07
-source-url: https://www.scoop.co.nz/stories/CU1706/S00116/uc-student-art-exhibition-returns-to-arts-centre.htm
+title: UC student art exhibition returns to Arts Centre
+date: 2017-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1706/S00116/uc-student-art-exhibition-returns-to-arts-centre.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/06/07/uc-student-art-exhibition-returns-to-arts-centre/index.html
+layout: layout.njk
 ---
 UC student art exhibition returns to Arts Centre
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: government-loses-the-affordable-housing-race
-title: "Government loses the affordable housing race"
-date: 2014-10-23
-source-url: https://www.scoop.co.nz/stories/PA1410/S00153/government-loses-the-affordable-housing-race.htm
+title: Government loses the affordable housing race
+date: 2014-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00153/government-loses-the-affordable-housing-race.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/23/government-loses-the-affordable-housing-race/index.html
+layout: layout.njk
 ---
 Government loses the affordable housing race
 ============================================

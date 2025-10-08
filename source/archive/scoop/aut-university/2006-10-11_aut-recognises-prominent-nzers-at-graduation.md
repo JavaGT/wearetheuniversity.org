@@ -1,9 +1,12 @@
 ---
 slug: aut-recognises-prominent-nzers-at-graduation
-title: "AUT recognises prominent NZers at graduation"
-date: 2006-10-11
-source-url: https://www.scoop.co.nz/stories/ED0610/S00046/aut-recognises-prominent-nzers-at-graduation.htm
+title: AUT recognises prominent NZers at graduation
+date: 2006-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00046/aut-recognises-prominent-nzers-at-graduation.htm
 author: aut-university
+permalink: /archive/2006/10/11/aut-recognises-prominent-nzers-at-graduation/index.html
+layout: layout.njk
 ---
 AUT recognises prominent NZers at graduation
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: student-develops-degree-in-future-thinking
-title: "Student Develops Degree In Future Thinking"
-date: 2011-08-31
-source-url: https://www.scoop.co.nz/stories/BU1108/S01072/student-develops-degree-in-future-thinking.htm
+title: Student Develops Degree In Future Thinking
+date: 2011-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1108/S01072/student-develops-degree-in-future-thinking.htm
 author: auckland-university
+permalink: /archive/2011/08/31/student-develops-degree-in-future-thinking/index.html
+layout: layout.njk
 ---
 Student Develops Degree In Future Thinking
 ==========================================

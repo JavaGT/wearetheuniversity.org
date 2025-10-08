@@ -1,9 +1,12 @@
 ---
 slug: economic-growth-the-prime-minister-backs-down
-title: "Economic growth - the Prime Minister backs down"
-date: 2003-03-06
-source-url: https://www.scoop.co.nz/stories/PA0303/S00078/economic-growth-the-prime-minister-backs-down.htm
+title: Economic growth - the Prime Minister backs down
+date: 2003-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00078/economic-growth-the-prime-minister-backs-down.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/06/economic-growth-the-prime-minister-backs-down/index.html
+layout: layout.njk
 ---
 Economic growth - the Prime Minister backs down
 ===============================================

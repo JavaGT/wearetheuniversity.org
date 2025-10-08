@@ -1,9 +1,11 @@
 ---
 slug: shipley-ignores-south-island
-title: "Shipley ignores South Island"
-date: 1999-10-27
+title: Shipley ignores South Island
+date: 1999-10-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9910/S00620/shipley-ignores-south-island.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/27/shipley-ignores-south-island/index.html
+layout: layout.njk
 ---
 Shipley ignores South Island
 ============================

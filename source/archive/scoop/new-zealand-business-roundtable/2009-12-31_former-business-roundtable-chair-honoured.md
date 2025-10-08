@@ -1,9 +1,12 @@
 ---
 slug: former-business-roundtable-chair-honoured
-title: "Former Business Roundtable Chair Honoured"
-date: 2009-12-31
-source-url: https://www.scoop.co.nz/stories/BU0912/S00636/former-business-roundtable-chair-honoured.htm
+title: Former Business Roundtable Chair Honoured
+date: 2009-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0912/S00636/former-business-roundtable-chair-honoured.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2009/12/31/former-business-roundtable-chair-honoured/index.html
+layout: layout.njk
 ---
 Former Business Roundtable Chair Honoured
 =========================================

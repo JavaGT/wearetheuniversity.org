@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-to-let-fingers-do-the-walking
-title: "Waikato University to let fingers do the walking"
-date: 2010-01-06
-source-url: https://www.scoop.co.nz/stories/ED1001/S00003/waikato-university-to-let-fingers-do-the-walking.htm
+title: Waikato University to let fingers do the walking
+date: 2010-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00003/waikato-university-to-let-fingers-do-the-walking.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/01/06/waikato-university-to-let-fingers-do-the-walking/index.html
+layout: layout.njk
 ---
 Waikato University to let fingers do the walking
 ================================================

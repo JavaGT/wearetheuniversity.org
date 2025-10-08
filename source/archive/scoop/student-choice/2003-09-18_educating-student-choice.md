@@ -1,9 +1,11 @@
 ---
 slug: educating-student-choice
-title: "Educating Student ‘Choice’"
-date: 2003-09-18
+title: Educating Student ‘Choice’
+date: 2003-09-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00070/educating-student-choice.htm
 author: student-choice
+permalink: /archive/2003/09/18/educating-student-choice/index.html
+layout: layout.njk
 ---
 Educating Student ‘Choice’
 ==========================

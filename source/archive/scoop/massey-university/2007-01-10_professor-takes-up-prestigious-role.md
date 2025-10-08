@@ -1,9 +1,12 @@
 ---
 slug: professor-takes-up-prestigious-role
-title: "Professor Takes Up Prestigious Role"
-date: 2007-01-10
-source-url: https://www.scoop.co.nz/stories/ED0701/S00007/professor-takes-up-prestigious-role.htm
+title: Professor Takes Up Prestigious Role
+date: 2007-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00007/professor-takes-up-prestigious-role.htm
 author: massey-university
+permalink: /archive/2007/01/10/professor-takes-up-prestigious-role/index.html
+layout: layout.njk
 ---
 Professor Takes Up Prestigious Role
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: folic-acid-reduces-heart-disease-risk-factor
-title: "Folic Acid Reduces Heart Disease Risk Factor"
-date: 2002-12-17
-source-url: https://www.scoop.co.nz/stories/SC0212/S00034/folic-acid-reduces-heart-disease-risk-factor.htm
+title: Folic Acid Reduces Heart Disease Risk Factor
+date: 2002-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0212/S00034/folic-acid-reduces-heart-disease-risk-factor.htm
 author: auckland-university
+permalink: /archive/2002/12/17/folic-acid-reduces-heart-disease-risk-factor/index.html
+layout: layout.njk
 ---
 Folic Acid Reduces Heart Disease Risk Factor
 ============================================

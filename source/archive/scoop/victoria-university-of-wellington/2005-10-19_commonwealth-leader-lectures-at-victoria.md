@@ -1,9 +1,12 @@
 ---
 slug: commonwealth-leader-lectures-at-victoria
-title: "Commonwealth leader lectures at Victoria"
-date: 2005-10-19
-source-url: https://www.scoop.co.nz/stories/ED0510/S00052/commonwealth-leader-lectures-at-victoria.htm
+title: Commonwealth leader lectures at Victoria
+date: 2005-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00052/commonwealth-leader-lectures-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/10/19/commonwealth-leader-lectures-at-victoria/index.html
+layout: layout.njk
 ---
 Commonwealth leader lectures at Victoria
 ========================================

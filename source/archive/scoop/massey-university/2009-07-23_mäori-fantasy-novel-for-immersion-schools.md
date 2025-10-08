@@ -1,9 +1,12 @@
 ---
 slug: mäori-fantasy-novel-for-immersion-schools
-title: "Mäori fantasy novel for immersion schools"
-date: 2009-07-23
-source-url: https://www.scoop.co.nz/stories/CU0907/S00304/maori-fantasy-novel-for-immersion-schools.htm
+title: Mäori fantasy novel for immersion schools
+date: 2009-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00304/maori-fantasy-novel-for-immersion-schools.htm
 author: massey-university
+permalink: /archive/2009/07/23/m/index.html
+layout: layout.njk
 ---
 Mäori fantasy novel for immersion schools
 =========================================

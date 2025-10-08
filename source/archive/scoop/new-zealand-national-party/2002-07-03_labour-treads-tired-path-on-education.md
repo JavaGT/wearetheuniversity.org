@@ -1,9 +1,12 @@
 ---
 slug: labour-treads-tired-path-on-education
-title: "Labour Treads Tired Path On Education"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PA0207/S00116/labour-treads-tired-path-on-education.htm
+title: Labour Treads Tired Path On Education
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00116/labour-treads-tired-path-on-education.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/03/labour-treads-tired-path-on-education/index.html
+layout: layout.njk
 ---
 Labour Treads Tired Path On Education
 =====================================

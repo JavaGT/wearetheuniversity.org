@@ -1,9 +1,12 @@
 ---
 slug: aut-astronomer-welcomes-ska-announcement
-title: "AUT Astronomer Welcomes SKA Announcement"
-date: 2009-08-21
-source-url: https://www.scoop.co.nz/stories/ED0908/S00075/aut-astronomer-welcomes-ska-announcement.htm
+title: AUT Astronomer Welcomes SKA Announcement
+date: 2009-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00075/aut-astronomer-welcomes-ska-announcement.htm
 author: aut-university
+permalink: /archive/2009/08/21/aut-astronomer-welcomes-ska-announcement/index.html
+layout: layout.njk
 ---
 AUT Astronomer Welcomes SKA Announcement
 ========================================

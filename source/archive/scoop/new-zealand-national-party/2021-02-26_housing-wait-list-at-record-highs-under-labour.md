@@ -1,9 +1,12 @@
 ---
 slug: housing-wait-list-at-record-highs-under-labour
-title: "Housing Wait List At Record Highs Under Labour"
-date: 2021-02-26
-source-url: https://www.scoop.co.nz/stories/PA2102/S00161/housing-wait-list-at-record-highs-under-labour.htm
+title: Housing Wait List At Record Highs Under Labour
+date: 2021-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00161/housing-wait-list-at-record-highs-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2021/02/26/housing-wait-list-at-record-highs-under-labour/index.html
+layout: layout.njk
 ---
 Housing Wait List At Record Highs Under Labour
 ==============================================

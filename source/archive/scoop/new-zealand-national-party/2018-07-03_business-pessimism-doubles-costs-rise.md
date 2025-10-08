@@ -1,9 +1,12 @@
 ---
 slug: business-pessimism-doubles-costs-rise
-title: "Business pessimism doubles, costs rise"
-date: 2018-07-03
-source-url: https://www.scoop.co.nz/stories/PA1807/S00029/business-pessimism-doubles-costs-rise.htm
+title: Business pessimism doubles, costs rise
+date: 2018-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00029/business-pessimism-doubles-costs-rise.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/03/business-pessimism-doubles-costs-rise/index.html
+layout: layout.njk
 ---
 Business pessimism doubles, costs rise
 ======================================

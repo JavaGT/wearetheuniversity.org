@@ -1,9 +1,13 @@
 ---
 slug: four-time-world-land-speed-record-holder-prefers-canterbury
-title: "Four-time world land speed record holder prefers Canterbury"
-date: 2015-02-11
-source-url: https://www.scoop.co.nz/stories/ED1502/S00029/four-time-world-land-speed-record-holder-prefers-canterbury.htm
+title: Four-time world land speed record holder prefers Canterbury
+date: 2015-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00029/four-time-world-land-speed-record-holder-prefers-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/11/four-time-world-land-speed-record-holder-prefers-canterbury/index.html
+layout: layout.njk
 ---
 Four-time world land speed record holder prefers Canterbury
 ===========================================================

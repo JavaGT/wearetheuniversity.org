@@ -1,9 +1,12 @@
 ---
 slug: agresearchs-ms-claims-embarrassing-nonsense
-title: "Agresearch's MS Claims Embarrassing Nonsense"
-date: 2001-05-07
-source-url: https://www.scoop.co.nz/stories/PA0105/S00128/agresearchs-ms-claims-embarrassing-nonsense.htm
+title: Agresearch's MS Claims Embarrassing Nonsense
+date: 2001-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00128/agresearchs-ms-claims-embarrassing-nonsense.htm
 author: green-party
+permalink: /archive/2001/05/07/agresearchs-ms-claims-embarrassing-nonsense/index.html
+layout: layout.njk
 ---
 Agresearch's MS Claims Embarrassing Nonsense
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-urge-students-to-look-at-records-on-eub
-title: "Greens urge students to look at records on EUB"
-date: 2001-03-13
-source-url: https://www.scoop.co.nz/stories/PA0103/S00178/greens-urge-students-to-look-at-records-on-eub.htm
+title: Greens urge students to look at records on EUB
+date: 2001-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00178/greens-urge-students-to-look-at-records-on-eub.htm
 author: green-party
+permalink: /archive/2001/03/13/greens-urge-students-to-look-at-records-on-eub/index.html
+layout: layout.njk
 ---
 Greens urge students to look at records on EUB
 ==============================================

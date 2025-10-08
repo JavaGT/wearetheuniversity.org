@@ -1,9 +1,13 @@
 ---
 slug: ethnic-inequities-in-patient-outcomes-from-new-zealand-chronic-pain-services
-title: "Ethnic Inequities In Patient Outcomes From New Zealand Chronic Pain Services"
-date: 2021-04-16
-source-url: https://www.scoop.co.nz/stories/GE2104/S00081/ethnic-inequities-in-patient-outcomes-from-new-zealand-chronic-pain-services.htm
+title: Ethnic Inequities In Patient Outcomes From New Zealand Chronic Pain Services
+date: 2021-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2104/S00081/ethnic-inequities-in-patient-outcomes-from-new-zealand-chronic-pain-services.htm
 author: aut-university
+permalink: >-
+  /archive/2021/04/16/ethnic-inequities-in-patient-outcomes-from-new-zealand-chronic-pain-services/index.html
+layout: layout.njk
 ---
 Ethnic Inequities In Patient Outcomes From New Zealand Chronic Pain Services
 ============================================================================

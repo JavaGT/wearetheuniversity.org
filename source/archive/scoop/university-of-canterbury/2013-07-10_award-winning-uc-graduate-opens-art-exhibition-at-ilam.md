@@ -1,9 +1,13 @@
 ---
 slug: award-winning-uc-graduate-opens-art-exhibition-at-ilam
-title: "Award-winning UC graduate opens art exhibition at Ilam"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/CU1307/S00176/award-winning-uc-graduate-opens-art-exhibition-at-ilam.htm
+title: Award-winning UC graduate opens art exhibition at Ilam
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00176/award-winning-uc-graduate-opens-art-exhibition-at-ilam.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/10/award-winning-uc-graduate-opens-art-exhibition-at-ilam/index.html
+layout: layout.njk
 ---
 Award-winning UC graduate opens art exhibition at Ilam
 ======================================================

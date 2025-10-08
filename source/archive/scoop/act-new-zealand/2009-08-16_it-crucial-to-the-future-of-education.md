@@ -1,9 +1,12 @@
 ---
 slug: it-crucial-to-the-future-of-education
-title: "IT Crucial To The Future Of Education"
-date: 2009-08-16
-source-url: https://www.scoop.co.nz/stories/PA0908/S00207/it-crucial-to-the-future-of-education.htm
+title: IT Crucial To The Future Of Education
+date: 2009-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00207/it-crucial-to-the-future-of-education.htm
 author: act-new-zealand
+permalink: /archive/2009/08/16/it-crucial-to-the-future-of-education/index.html
+layout: layout.njk
 ---
 IT Crucial To The Future Of Education
 =====================================

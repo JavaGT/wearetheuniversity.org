@@ -1,9 +1,12 @@
 ---
 slug: time-for-tough-action-on-dirty-dairying-greens
-title: "Time for tough action on dirty dairying - Greens"
-date: 2007-10-03
-source-url: https://www.scoop.co.nz/stories/PA0710/S00052/time-for-tough-action-on-dirty-dairying-greens.htm
+title: Time for tough action on dirty dairying - Greens
+date: 2007-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00052/time-for-tough-action-on-dirty-dairying-greens.htm
 author: green-party
+permalink: /archive/2007/10/03/time-for-tough-action-on-dirty-dairying-greens/index.html
+layout: layout.njk
 ---
 Time for tough action on dirty dairying - Greens
 ================================================

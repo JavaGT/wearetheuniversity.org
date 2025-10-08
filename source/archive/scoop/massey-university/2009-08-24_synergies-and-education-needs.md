@@ -1,9 +1,12 @@
 ---
 slug: synergies-and-education-needs
-title: "Synergies and education needs"
-date: 2009-08-24
-source-url: https://www.scoop.co.nz/stories/ED0908/S00079/synergies-and-education-needs.htm
+title: Synergies and education needs
+date: 2009-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00079/synergies-and-education-needs.htm
 author: massey-university
+permalink: /archive/2009/08/24/synergies-and-education-needs/index.html
+layout: layout.njk
 ---
 Synergies and education needs
 =============================

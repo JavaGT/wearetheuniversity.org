@@ -1,9 +1,12 @@
 ---
 slug: govt-gets-its-priorities-all-wrong-with-kāinga-ora-review
-title: "Govt Gets Its Priorities All Wrong With Kāinga Ora Review"
-date: 2023-12-18
-source-url: https://www.scoop.co.nz/stories/PO2312/S00164/govt-gets-its-priorities-all-wrong-with-kainga-ora-review.htm
+title: Govt Gets Its Priorities All Wrong With Kāinga Ora Review
+date: 2023-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2312/S00164/govt-gets-its-priorities-all-wrong-with-kainga-ora-review.htm
 author: green-party
+permalink: /archive/2023/12/18/govt-gets-its-priorities-all-wrong-with-k/index.html
+layout: layout.njk
 ---
 Govt Gets Its Priorities All Wrong With Kāinga Ora Review
 =========================================================

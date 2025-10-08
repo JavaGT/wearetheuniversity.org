@@ -1,9 +1,13 @@
 ---
 slug: pm-shipleys-national-party-campaign-opening-spch
-title: "PM Shipley’s National Party Campaign Opening Spch."
-date: 1999-11-01
-source-url: https://www.scoop.co.nz/stories/PA9911/S00007/pm-shipleys-national-party-campaign-opening-spch.htm
+title: PM Shipley’s National Party Campaign Opening Spch.
+date: 1999-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00007/pm-shipleys-national-party-campaign-opening-spch.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/1999/11/01/pm-shipleys-national-party-campaign-opening-spch/index.html
+layout: layout.njk
 ---
 PM Shipley’s National Party Campaign Opening Spch.
 ==================================================

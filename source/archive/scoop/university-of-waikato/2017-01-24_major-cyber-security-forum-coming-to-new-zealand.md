@@ -1,9 +1,13 @@
 ---
 slug: major-cyber-security-forum-coming-to-new-zealand
-title: "Major cyber security forum coming to New Zealand"
-date: 2017-01-24
-source-url: https://www.scoop.co.nz/stories/SC1701/S00041/major-cyber-security-forum-coming-to-new-zealand.htm
+title: Major cyber security forum coming to New Zealand
+date: 2017-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1701/S00041/major-cyber-security-forum-coming-to-new-zealand.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/01/24/major-cyber-security-forum-coming-to-new-zealand/index.html
+layout: layout.njk
 ---
 Major cyber security forum coming to New Zealand
 ================================================

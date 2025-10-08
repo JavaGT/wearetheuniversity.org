@@ -1,9 +1,13 @@
 ---
 slug: primary-schools-to-study-the-worm-that-once-held-up-sh1
-title: "Primary schools to study the worm that once held up SH1"
-date: 2018-05-15
-source-url: https://www.scoop.co.nz/stories/SC1805/S00038/primary-schools-to-study-the-worm-that-once-held-up-sh1.htm
+title: Primary schools to study the worm that once held up SH1
+date: 2018-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00038/primary-schools-to-study-the-worm-that-once-held-up-sh1.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/15/primary-schools-to-study-the-worm-that-once-held-up-sh1/index.html
+layout: layout.njk
 ---
 Primary schools to study the worm that once held up SH1
 =======================================================

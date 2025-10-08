@@ -1,9 +1,12 @@
 ---
 slug: businesses-benefit-from-online-hub
-title: "Businesses Benefit from Online Hub"
-date: 2014-06-24
-source-url: https://www.scoop.co.nz/stories/BU1406/S00829/businesses-benefit-from-online-hub.htm
+title: Businesses Benefit from Online Hub
+date: 2014-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1406/S00829/businesses-benefit-from-online-hub.htm
 author: university-of-waikato
+permalink: /archive/2014/06/24/businesses-benefit-from-online-hub/index.html
+layout: layout.njk
 ---
 Businesses Benefit from Online Hub
 ==================================

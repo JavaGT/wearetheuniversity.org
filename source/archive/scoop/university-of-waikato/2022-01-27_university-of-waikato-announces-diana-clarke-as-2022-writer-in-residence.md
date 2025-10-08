@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-announces-diana-clarke-as-2022-writer-in-residence
-title: "University Of Waikato Announces Diana Clarke As 2022 Writer In Residence"
-date: 2022-01-27
-source-url: https://www.scoop.co.nz/stories/CU2201/S00164/university-of-waikato-announces-diana-clarke-as-2022-writer-in-residence.htm
+title: University Of Waikato Announces Diana Clarke As 2022 Writer In Residence
+date: 2022-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2201/S00164/university-of-waikato-announces-diana-clarke-as-2022-writer-in-residence.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2022/01/27/university-of-waikato-announces-diana-clarke-as-2022-writer-in-residence/index.html
+layout: layout.njk
 ---
 University Of Waikato Announces Diana Clarke As 2022 Writer In Residence
 ========================================================================

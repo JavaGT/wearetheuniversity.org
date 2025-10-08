@@ -1,9 +1,13 @@
 ---
 slug: mckee-tahr-cull-will-undermine-rural-communities-and-tourism-businesses
-title: "McKee: Tahr Cull Will Undermine Rural Communities And Tourism Businesses"
-date: 2020-06-30
-source-url: https://www.scoop.co.nz/stories/PA2006/S00287/mckee-tahr-cull-will-undermine-rural-communities-and-tourism-businesses.htm
+title: 'McKee: Tahr Cull Will Undermine Rural Communities And Tourism Businesses'
+date: 2020-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00287/mckee-tahr-cull-will-undermine-rural-communities-and-tourism-businesses.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/30/mckee-tahr-cull-will-undermine-rural-communities-and-tourism-businesses/index.html
+layout: layout.njk
 ---
 McKee: Tahr Cull Will Undermine Rural Communities And Tourism Businesses
 ========================================================================

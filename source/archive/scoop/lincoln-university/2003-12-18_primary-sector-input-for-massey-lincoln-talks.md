@@ -1,9 +1,12 @@
 ---
 slug: primary-sector-input-for-massey-lincoln-talks
-title: "Primary sector input for Massey-Lincoln talks"
-date: 2003-12-18
-source-url: https://www.scoop.co.nz/stories/ED0312/S00072/primary-sector-input-for-massey-lincoln-talks.htm
+title: Primary sector input for Massey-Lincoln talks
+date: 2003-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00072/primary-sector-input-for-massey-lincoln-talks.htm
 author: lincoln-university
+permalink: /archive/2003/12/18/primary-sector-input-for-massey-lincoln-talks/index.html
+layout: layout.njk
 ---
 Primary sector input for Massey-Lincoln talks
 =============================================

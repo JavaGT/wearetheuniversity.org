@@ -1,9 +1,13 @@
 ---
 slug: research-questions-fairness-of-current-tax-system
-title: "Research Questions Fairness Of Current Tax System"
-date: 2008-10-16
-source-url: https://www.scoop.co.nz/stories/PO0810/S00260/research-questions-fairness-of-current-tax-system.htm
+title: Research Questions Fairness Of Current Tax System
+date: 2008-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00260/research-questions-fairness-of-current-tax-system.htm
 author: maxim-institute
+permalink: >-
+  /archive/2008/10/16/research-questions-fairness-of-current-tax-system/index.html
+layout: layout.njk
 ---
 Research Questions Fairness Of Current Tax System
 =================================================

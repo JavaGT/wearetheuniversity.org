@@ -1,9 +1,13 @@
 ---
 slug: nz-first-will-not-stand-candidate-in-christchurch-east
-title: "NZ First Will Not Stand Candidate in Christchurch East"
-date: 2013-11-05
-source-url: https://www.scoop.co.nz/stories/PA1311/S00054/nz-first-will-not-stand-candidate-in-christchurch-east.htm
+title: NZ First Will Not Stand Candidate in Christchurch East
+date: 2013-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00054/nz-first-will-not-stand-candidate-in-christchurch-east.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/11/05/nz-first-will-not-stand-candidate-in-christchurch-east/index.html
+layout: layout.njk
 ---
 NZ First Will Not Stand Candidate in Christchurch East
 ======================================================

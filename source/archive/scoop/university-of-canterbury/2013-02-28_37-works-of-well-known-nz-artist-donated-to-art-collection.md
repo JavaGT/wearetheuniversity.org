@@ -1,9 +1,13 @@
 ---
 slug: 37-works-of-well-known-nz-artist-donated-to-art-collection
-title: "37 Works Of Well-Known NZ Artist Donated To Art Collection"
-date: 2013-02-28
-source-url: https://www.scoop.co.nz/stories/ED1302/S00159/37-works-of-well-known-nz-artist-donated-to-art-collection.htm
+title: 37 Works Of Well-Known NZ Artist Donated To Art Collection
+date: 2013-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00159/37-works-of-well-known-nz-artist-donated-to-art-collection.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/28/37-works-of-well-known-nz-artist-donated-to-art-collection/index.html
+layout: layout.njk
 ---
 37 Works Of Well-Known NZ Artist Donated To Art Collection
 ==========================================================

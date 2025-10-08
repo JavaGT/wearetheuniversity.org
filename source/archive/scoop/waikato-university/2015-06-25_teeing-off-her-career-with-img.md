@@ -1,9 +1,12 @@
 ---
 slug: teeing-off-her-career-with-img
-title: "Teeing off her career with IMG"
-date: 2015-06-25
-source-url: https://www.scoop.co.nz/stories/ED1506/S00128/teeing-off-her-career-with-img.htm
+title: Teeing off her career with IMG
+date: 2015-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00128/teeing-off-her-career-with-img.htm
 author: waikato-university
+permalink: /archive/2015/06/25/teeing-off-her-career-with-img/index.html
+layout: layout.njk
 ---
 Teeing off her career with IMG
 ==============================

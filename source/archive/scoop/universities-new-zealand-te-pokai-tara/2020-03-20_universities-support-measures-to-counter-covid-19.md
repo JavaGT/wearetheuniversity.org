@@ -1,9 +1,13 @@
 ---
 slug: universities-support-measures-to-counter-covid-19
-title: "Universities Support Measures To Counter COVID-19"
-date: 2020-03-20
-source-url: https://www.scoop.co.nz/stories/ED2003/S00033/universities-support-measures-to-counter-covid-19.htm
+title: Universities Support Measures To Counter COVID-19
+date: 2020-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2003/S00033/universities-support-measures-to-counter-covid-19.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2020/03/20/universities-support-measures-to-counter-covid-19/index.html
+layout: layout.njk
 ---
 Universities Support Measures To Counter COVID-19
 =================================================

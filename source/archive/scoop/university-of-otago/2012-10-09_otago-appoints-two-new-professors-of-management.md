@@ -1,9 +1,12 @@
 ---
 slug: otago-appoints-two-new-professors-of-management
-title: "Otago appoints two new Professors of Management"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/ED1210/S00062/otago-appoints-two-new-professors-of-management.htm
+title: Otago appoints two new Professors of Management
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00062/otago-appoints-two-new-professors-of-management.htm
 author: university-of-otago
+permalink: /archive/2012/10/09/otago-appoints-two-new-professors-of-management/index.html
+layout: layout.njk
 ---
 Otago appoints two new Professors of Management
 ===============================================

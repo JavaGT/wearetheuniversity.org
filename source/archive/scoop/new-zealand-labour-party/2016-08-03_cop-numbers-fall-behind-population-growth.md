@@ -1,9 +1,12 @@
 ---
 slug: cop-numbers-fall-behind-population-growth
-title: "Cop numbers fall behind population growth"
-date: 2016-08-03
-source-url: https://www.scoop.co.nz/stories/PA1608/S00056/cop-numbers-fall-behind-population-growth.htm
+title: Cop numbers fall behind population growth
+date: 2016-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00056/cop-numbers-fall-behind-population-growth.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/03/cop-numbers-fall-behind-population-growth/index.html
+layout: layout.njk
 ---
 Cop numbers fall behind population growth
 =========================================

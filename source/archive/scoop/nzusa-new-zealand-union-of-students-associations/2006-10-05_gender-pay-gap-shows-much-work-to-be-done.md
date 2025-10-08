@@ -1,9 +1,12 @@
 ---
 slug: gender-pay-gap-shows-much-work-to-be-done
-title: "Gender pay gap shows much work to be done"
-date: 2006-10-05
-source-url: https://www.scoop.co.nz/stories/ED0610/S00019/gender-pay-gap-shows-much-work-to-be-done.htm
+title: Gender pay gap shows much work to be done
+date: 2006-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00019/gender-pay-gap-shows-much-work-to-be-done.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2006/10/05/gender-pay-gap-shows-much-work-to-be-done/index.html
+layout: layout.njk
 ---
 Gender pay gap shows much work to be done
 =========================================

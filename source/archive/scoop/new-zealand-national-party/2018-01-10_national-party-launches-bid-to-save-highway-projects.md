@@ -1,9 +1,13 @@
 ---
 slug: national-party-launches-bid-to-save-highway-projects
-title: "National Party launches bid to save highway projects"
-date: 2018-01-10
-source-url: https://www.scoop.co.nz/stories/PA1801/S00010/national-party-launches-bid-to-save-highway-projects.htm
+title: National Party launches bid to save highway projects
+date: 2018-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00010/national-party-launches-bid-to-save-highway-projects.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/01/10/national-party-launches-bid-to-save-highway-projects/index.html
+layout: layout.njk
 ---
 National Party launches bid to save highway projects
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: too-little-too-late-for-maori-research
-title: "Too little too late for Maori research"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/PA1403/S00270/too-little-too-late-for-maori-research.htm
+title: Too little too late for Maori research
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00270/too-little-too-late-for-maori-research.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/14/too-little-too-late-for-maori-research/index.html
+layout: layout.njk
 ---
 Too little too late for Maori research
 ======================================

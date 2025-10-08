@@ -1,9 +1,12 @@
 ---
 slug: brash-what-sort-of-nation-do-we-want
-title: "Brash - What Sort of Nation Do We Want?"
-date: 2004-05-03
-source-url: https://www.scoop.co.nz/stories/PA0405/S00006/brash-what-sort-of-nation-do-we-want.htm
+title: Brash - What Sort of Nation Do We Want?
+date: 2004-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00006/brash-what-sort-of-nation-do-we-want.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/03/brash-what-sort-of-nation-do-we-want/index.html
+layout: layout.njk
 ---
 Brash - What Sort of Nation Do We Want?
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: health-budget-blown-by-10-percent
-title: "Health Budget Blown By 10 Percent"
-date: 2002-02-07
-source-url: https://www.scoop.co.nz/stories/PA0202/S00057/health-budget-blown-by-10-percent.htm
+title: Health Budget Blown By 10 Percent
+date: 2002-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00057/health-budget-blown-by-10-percent.htm
 author: act-new-zealand
+permalink: /archive/2002/02/07/health-budget-blown-by-10-percent/index.html
+layout: layout.njk
 ---
 Health Budget Blown By 10 Percent
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: community-exercise-and-education-for-management-of-diabetes
-title: "Community Exercise and education for management of diabetes"
-date: 2018-02-07
-source-url: https://www.scoop.co.nz/stories/GE1802/S00025/community-exercise-and-education-for-management-of-diabetes.htm
+title: Community Exercise and education for management of diabetes
+date: 2018-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00025/community-exercise-and-education-for-management-of-diabetes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/02/07/community-exercise-and-education-for-management-of-diabetes/index.html
+layout: layout.njk
 ---
 Community Exercise and education for management of diabetes
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: pm-stoops-to-bilge-rat-politics-on-auckland-housing
-title: "PM Stoops To ‘Bilge Rat’ Politics On Auckland Housing"
-date: 2016-05-30
-source-url: https://www.scoop.co.nz/stories/PA1605/S00628/pm-stoops-to-bilge-rat-politics-on-auckland-housing.htm
+title: PM Stoops To ‘Bilge Rat’ Politics On Auckland Housing
+date: 2016-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00628/pm-stoops-to-bilge-rat-politics-on-auckland-housing.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/05/30/pm-stoops-to-bilge-rat-politics-on-auckland-housing/index.html
+layout: layout.njk
 ---
 PM Stoops To ‘Bilge Rat’ Politics On Auckland Housing
 =====================================================

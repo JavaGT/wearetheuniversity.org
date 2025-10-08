@@ -1,9 +1,13 @@
 ---
 slug: uc-students-recognised-at-inaugural-youth-awards
-title: "UC students recognised at inaugural Youth Awards"
-date: 2016-06-28
-source-url: https://www.scoop.co.nz/stories/CU1606/S00313/uc-students-recognised-at-inaugural-youth-awards.htm
+title: UC students recognised at inaugural Youth Awards
+date: 2016-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1606/S00313/uc-students-recognised-at-inaugural-youth-awards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/28/uc-students-recognised-at-inaugural-youth-awards/index.html
+layout: layout.njk
 ---
 UC students recognised at inaugural Youth Awards
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: students-announce-rally-to-restore-postgraduate-allowance
-title: "Students announce rally to restore Postgraduate Allowance"
-date: 2019-03-12
-source-url: https://www.scoop.co.nz/stories/ED1903/S00024/students-announce-rally-to-restore-postgraduate-allowance.htm
+title: Students announce rally to restore Postgraduate Allowance
+date: 2019-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1903/S00024/students-announce-rally-to-restore-postgraduate-allowance.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2019/03/12/students-announce-rally-to-restore-postgraduate-allowance/index.html
+layout: layout.njk
 ---
 Students announce rally to restore Postgraduate Allowance
 =========================================================

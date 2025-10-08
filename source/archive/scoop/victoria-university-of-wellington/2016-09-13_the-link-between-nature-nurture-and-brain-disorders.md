@@ -1,9 +1,13 @@
 ---
 slug: the-link-between-nature-nurture-and-brain-disorders
-title: "The link between nature, nurture and brain disorders"
-date: 2016-09-13
-source-url: https://www.scoop.co.nz/stories/SC1609/S00042/the-link-between-nature-nurture-and-brain-disorders.htm
+title: The link between nature, nurture and brain disorders
+date: 2016-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00042/the-link-between-nature-nurture-and-brain-disorders.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/09/13/the-link-between-nature-nurture-and-brain-disorders/index.html
+layout: layout.njk
 ---
 The link between nature, nurture and brain disorders
 ====================================================

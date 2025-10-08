@@ -1,9 +1,12 @@
 ---
 slug: nz-data-tool-can-predict-risk-of-child-abuse
-title: "NZ data tool can predict risk of child abuse"
-date: 2015-05-12
-source-url: https://www.scoop.co.nz/stories/SC1505/S00035/nz-data-tool-can-predict-risk-of-child-abuse.htm
+title: NZ data tool can predict risk of child abuse
+date: 2015-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00035/nz-data-tool-can-predict-risk-of-child-abuse.htm
 author: aut-university
+permalink: /archive/2015/05/12/nz-data-tool-can-predict-risk-of-child-abuse/index.html
+layout: layout.njk
 ---
 NZ data tool can predict risk of child abuse
 ============================================

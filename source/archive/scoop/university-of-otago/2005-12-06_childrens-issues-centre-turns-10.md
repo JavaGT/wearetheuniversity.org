@@ -1,9 +1,12 @@
 ---
 slug: childrens-issues-centre-turns-10
-title: "Children’s Issues Centre turns 10"
-date: 2005-12-06
-source-url: https://www.scoop.co.nz/stories/ED0512/S00025/childrens-issues-centre-turns-10.htm
+title: Children’s Issues Centre turns 10
+date: 2005-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00025/childrens-issues-centre-turns-10.htm
 author: university-of-otago
+permalink: /archive/2005/12/06/childrens-issues-centre-turns-10/index.html
+layout: layout.njk
 ---
 Children’s Issues Centre turns 10
 =================================

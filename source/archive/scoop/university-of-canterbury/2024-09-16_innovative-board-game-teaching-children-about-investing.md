@@ -1,9 +1,13 @@
 ---
 slug: innovative-board-game-teaching-children-about-investing
-title: "Innovative Board Game Teaching Children About Investing"
-date: 2024-09-16
-source-url: https://www.scoop.co.nz/stories/BU2409/S00229/innovative-board-game-teaching-children-about-investing.htm
+title: Innovative Board Game Teaching Children About Investing
+date: 2024-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2409/S00229/innovative-board-game-teaching-children-about-investing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/09/16/innovative-board-game-teaching-children-about-investing/index.html
+layout: layout.njk
 ---
 Innovative Board Game Teaching Children About Investing
 =======================================================

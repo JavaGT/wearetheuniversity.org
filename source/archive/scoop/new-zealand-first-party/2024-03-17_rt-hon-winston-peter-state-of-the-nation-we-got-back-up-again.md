@@ -1,9 +1,13 @@
 ---
 slug: rt-hon-winston-peter-state-of-the-nation-we-got-back-up-again
-title: "Rt Hon Winston Peter - \"State of the Nation - We Got Back Up Again\""
-date: 2024-03-17
-source-url: https://www.scoop.co.nz/stories/PO2403/S00139/rt-hon-winston-peter-state-of-the-nation-we-got-back-up-again.htm
+title: Rt Hon Winston Peter - "State of the Nation - We Got Back Up Again"
+date: 2024-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2403/S00139/rt-hon-winston-peter-state-of-the-nation-we-got-back-up-again.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2024/03/17/rt-hon-winston-peter-state-of-the-nation-we-got-back-up-again/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peter - \"State of the Nation - We Got Back Up Again"
 ===================================================================

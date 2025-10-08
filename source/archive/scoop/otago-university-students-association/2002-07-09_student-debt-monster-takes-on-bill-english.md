@@ -1,9 +1,12 @@
 ---
 slug: student-debt-monster-takes-on-bill-english
-title: "Student Debt Monster Takes On Bill English"
-date: 2002-07-09
-source-url: https://www.scoop.co.nz/stories/ED0207/S00013/student-debt-monster-takes-on-bill-english.htm
+title: Student Debt Monster Takes On Bill English
+date: 2002-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00013/student-debt-monster-takes-on-bill-english.htm
 author: otago-university-students-association
+permalink: /archive/2002/07/09/student-debt-monster-takes-on-bill-english/index.html
+layout: layout.njk
 ---
 Student Debt Monster Takes On Bill English
 ==========================================

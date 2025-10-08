@@ -1,9 +1,12 @@
 ---
 slug: english-denies-dividend-decision-made
-title: "English denies dividend decision made"
-date: 2016-07-12
-source-url: https://www.scoop.co.nz/stories/PA1607/S00185/english-denies-dividend-decision-made.htm
+title: English denies dividend decision made
+date: 2016-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00185/english-denies-dividend-decision-made.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/12/english-denies-dividend-decision-made/index.html
+layout: layout.njk
 ---
 English denies dividend decision made
 =====================================

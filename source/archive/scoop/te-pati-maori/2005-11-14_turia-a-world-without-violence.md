@@ -1,9 +1,12 @@
 ---
 slug: turia-a-world-without-violence
-title: "Turia:  A World Without Violence'"
-date: 2005-11-14
-source-url: https://www.scoop.co.nz/stories/PA0511/S00159/turia-a-world-without-violence.htm
+title: 'Turia:  A World Without Violence'''
+date: 2005-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00159/turia-a-world-without-violence.htm
 author: te-pati-maori
+permalink: /archive/2005/11/14/turia-a-world-without-violence/index.html
+layout: layout.njk
 ---
 Turia: A World Without Violence'
 ================================

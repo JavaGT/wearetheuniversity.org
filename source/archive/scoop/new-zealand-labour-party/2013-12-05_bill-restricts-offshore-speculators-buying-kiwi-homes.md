@@ -1,9 +1,13 @@
 ---
 slug: bill-restricts-offshore-speculators-buying-kiwi-homes
-title: "Bill restricts offshore speculators buying kiwi homes"
-date: 2013-12-05
-source-url: https://www.scoop.co.nz/stories/PA1312/S00113/bill-restricts-offshore-speculators-buying-kiwi-homes.htm
+title: Bill restricts offshore speculators buying kiwi homes
+date: 2013-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00113/bill-restricts-offshore-speculators-buying-kiwi-homes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/12/05/bill-restricts-offshore-speculators-buying-kiwi-homes/index.html
+layout: layout.njk
 ---
 Bill restricts offshore speculators buying kiwi homes
 =====================================================

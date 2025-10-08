@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-call-on-govt-to-delay-ets
-title: "New Zealanders Call On Govt To Delay ETS"
-date: 2010-05-04
-source-url: https://www.scoop.co.nz/stories/PA1005/S00025/new-zealanders-call-on-govt-to-delay-ets.htm
+title: New Zealanders Call On Govt To Delay ETS
+date: 2010-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00025/new-zealanders-call-on-govt-to-delay-ets.htm
 author: act-new-zealand
+permalink: /archive/2010/05/04/new-zealanders-call-on-govt-to-delay-ets/index.html
+layout: layout.njk
 ---
 New Zealanders Call On Govt To Delay ETS
 ========================================

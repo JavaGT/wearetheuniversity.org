@@ -1,9 +1,12 @@
 ---
 slug: festive-cheer-not-festive-fear-this-christmas
-title: "Festive cheer not festive fear this Christmas"
-date: 2013-12-23
-source-url: https://www.scoop.co.nz/stories/PA1312/S00417/festive-cheer-not-festive-fear-this-christmas.htm
+title: Festive cheer not festive fear this Christmas
+date: 2013-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00417/festive-cheer-not-festive-fear-this-christmas.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/12/23/festive-cheer-not-festive-fear-this-christmas/index.html
+layout: layout.njk
 ---
 Festive cheer not festive fear this Christmas
 =============================================

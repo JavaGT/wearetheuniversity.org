@@ -1,9 +1,12 @@
 ---
 slug: elephant-pheromones-&-humans-sixth-sense
-title: "Elephant Pheromones & Human's Sixth Sense"
-date: 2005-12-23
-source-url: https://www.scoop.co.nz/stories/SC0512/S00047/elephant-pheromones-humans-sixth-sense.htm
+title: Elephant Pheromones & Human's Sixth Sense
+date: 2005-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0512/S00047/elephant-pheromones-humans-sixth-sense.htm
 author: auckland-university
+permalink: /archive/2005/12/23/elephant-pheromones-/index.html
+layout: layout.njk
 ---
 Elephant Pheromones & Human's Sixth Sense
 =========================================

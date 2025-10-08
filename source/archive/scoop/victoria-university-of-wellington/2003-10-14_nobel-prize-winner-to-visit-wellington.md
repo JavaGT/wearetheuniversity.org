@@ -1,9 +1,12 @@
 ---
 slug: nobel-prize-winner-to-visit-wellington
-title: "Nobel prize winner to visit Wellington"
-date: 2003-10-14
-source-url: https://www.scoop.co.nz/stories/ED0310/S00055/nobel-prize-winner-to-visit-wellington.htm
+title: Nobel prize winner to visit Wellington
+date: 2003-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00055/nobel-prize-winner-to-visit-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/10/14/nobel-prize-winner-to-visit-wellington/index.html
+layout: layout.njk
 ---
 Nobel prize winner to visit Wellington
 ======================================

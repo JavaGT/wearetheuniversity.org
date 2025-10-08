@@ -1,9 +1,13 @@
 ---
 slug: towards-a-sustainable-future-with-lead-free-electroceramics
-title: "Towards A Sustainable Future With Lead-free Electroceramics"
-date: 2021-01-28
-source-url: https://www.scoop.co.nz/stories/SC2101/S00034/towards-a-sustainable-future-with-lead-free-electroceramics.htm
+title: Towards A Sustainable Future With Lead-free Electroceramics
+date: 2021-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2101/S00034/towards-a-sustainable-future-with-lead-free-electroceramics.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/01/28/towards-a-sustainable-future-with-lead-free-electroceramics/index.html
+layout: layout.njk
 ---
 Towards A Sustainable Future With Lead-free Electroceramics
 ===========================================================

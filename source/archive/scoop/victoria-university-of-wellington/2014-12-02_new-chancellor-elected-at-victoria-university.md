@@ -1,9 +1,12 @@
 ---
 slug: new-chancellor-elected-at-victoria-university
-title: "New Chancellor elected at Victoria University"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/ED1412/S00015/new-chancellor-elected-at-victoria-university.htm
+title: New Chancellor elected at Victoria University
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00015/new-chancellor-elected-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/02/new-chancellor-elected-at-victoria-university/index.html
+layout: layout.njk
 ---
 New Chancellor elected at Victoria University
 =============================================

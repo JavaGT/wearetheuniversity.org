@@ -1,9 +1,13 @@
 ---
 slug: industry-plan-has-potential-to-transform-nz-economy-say-unions
-title: "Industry Plan Has Potential To Transform NZ Economy, Say Unions"
-date: 2023-03-13
-source-url: https://www.scoop.co.nz/stories/BU2303/S00178/industry-plan-has-potential-to-transform-nz-economy-say-unions.htm
+title: Industry Plan Has Potential To Transform NZ Economy, Say Unions
+date: 2023-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2303/S00178/industry-plan-has-potential-to-transform-nz-economy-say-unions.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2023/03/13/industry-plan-has-potential-to-transform-nz-economy-say-unions/index.html
+layout: layout.njk
 ---
 Industry Plan Has Potential To Transform NZ Economy, Say Unions
 ===============================================================

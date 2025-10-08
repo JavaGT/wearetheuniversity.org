@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-childrens-medicine-prescriptions-examined
-title: "New Zealand children’s medicine prescriptions examined"
-date: 2018-09-25
-source-url: https://www.scoop.co.nz/stories/GE1809/S00077/new-zealand-childrens-medicine-prescriptions-examined.htm
+title: New Zealand children’s medicine prescriptions examined
+date: 2018-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00077/new-zealand-childrens-medicine-prescriptions-examined.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/25/new-zealand-childrens-medicine-prescriptions-examined/index.html
+layout: layout.njk
 ---
 New Zealand children’s medicine prescriptions examined
 ======================================================

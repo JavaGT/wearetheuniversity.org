@@ -1,9 +1,13 @@
 ---
 slug: analysis-shows-nationals-ets-worst-of-all-worlds
-title: "Analysis shows National's ETS Worst of All Worlds"
-date: 2010-06-23
-source-url: https://www.scoop.co.nz/stories/PA1006/S00365/analysis-shows-nationals-ets-worst-of-all-worlds.htm
+title: Analysis shows National's ETS Worst of All Worlds
+date: 2010-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00365/analysis-shows-nationals-ets-worst-of-all-worlds.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/06/23/analysis-shows-nationals-ets-worst-of-all-worlds/index.html
+layout: layout.njk
 ---
 Analysis shows National's ETS Worst of All Worlds
 =================================================

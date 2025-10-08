@@ -1,9 +1,12 @@
 ---
 slug: school-attendance-plummets-further
-title: "School Attendance Plummets Further"
-date: 2022-11-10
-source-url: https://www.scoop.co.nz/stories/PA2211/S00086/school-attendance-plummets-further.htm
+title: School Attendance Plummets Further
+date: 2022-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00086/school-attendance-plummets-further.htm
 author: new-zealand-national-party
+permalink: /archive/2022/11/10/school-attendance-plummets-further/index.html
+layout: layout.njk
 ---
 School Attendance Plummets Further
 ==================================

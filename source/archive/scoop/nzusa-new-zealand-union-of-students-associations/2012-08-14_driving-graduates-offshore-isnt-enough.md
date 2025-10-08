@@ -1,9 +1,12 @@
 ---
 slug: driving-graduates-offshore-isnt-enough
-title: "Driving graduates offshore isn’t enough?"
-date: 2012-08-14
-source-url: https://www.scoop.co.nz/stories/PO1208/S00191/driving-graduates-offshore-isnt-enough.htm
+title: Driving graduates offshore isn’t enough?
+date: 2012-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00191/driving-graduates-offshore-isnt-enough.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/08/14/driving-graduates-offshore-isnt-enough/index.html
+layout: layout.njk
 ---
 Driving graduates offshore isn’t enough?
 ========================================

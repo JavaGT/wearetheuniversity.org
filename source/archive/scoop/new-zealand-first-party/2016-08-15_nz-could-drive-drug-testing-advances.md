@@ -1,9 +1,12 @@
 ---
 slug: nz-could-drive-drug-testing-advances
-title: "NZ Could Drive Drug Testing Advances"
-date: 2016-08-15
-source-url: https://www.scoop.co.nz/stories/PA1608/S00248/nz-could-drive-drug-testing-advances.htm
+title: NZ Could Drive Drug Testing Advances
+date: 2016-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00248/nz-could-drive-drug-testing-advances.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/15/nz-could-drive-drug-testing-advances/index.html
+layout: layout.njk
 ---
 NZ Could Drive Drug Testing Advances
 ====================================

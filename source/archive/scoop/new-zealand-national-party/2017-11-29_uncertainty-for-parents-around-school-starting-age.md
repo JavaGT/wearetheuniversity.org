@@ -1,9 +1,13 @@
 ---
 slug: uncertainty-for-parents-around-school-starting-age
-title: "Uncertainty for parents around school starting age"
-date: 2017-11-29
-source-url: https://www.scoop.co.nz/stories/PA1711/S00174/uncertainty-for-parents-around-school-starting-age.htm
+title: Uncertainty for parents around school starting age
+date: 2017-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00174/uncertainty-for-parents-around-school-starting-age.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/11/29/uncertainty-for-parents-around-school-starting-age/index.html
+layout: layout.njk
 ---
 Uncertainty for parents around school starting age
 ==================================================

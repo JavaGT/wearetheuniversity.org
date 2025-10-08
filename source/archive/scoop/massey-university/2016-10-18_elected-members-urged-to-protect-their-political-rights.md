@@ -1,9 +1,13 @@
 ---
 slug: elected-members-urged-to-protect-their-political-rights
-title: "Elected members urged to protect their political rights"
-date: 2016-10-18
-source-url: https://www.scoop.co.nz/stories/PO1610/S00279/elected-members-urged-to-protect-their-political-rights.htm
+title: Elected members urged to protect their political rights
+date: 2016-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00279/elected-members-urged-to-protect-their-political-rights.htm
 author: massey-university
+permalink: >-
+  /archive/2016/10/18/elected-members-urged-to-protect-their-political-rights/index.html
+layout: layout.njk
 ---
 Elected members urged to protect their political rights
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: sex-offender-recidivism-study-earns-student-award
-title: "Sex offender recidivism study earns student award"
-date: 2008-08-15
-source-url: https://www.scoop.co.nz/stories/ED0808/S00037/sex-offender-recidivism-study-earns-student-award.htm
+title: Sex offender recidivism study earns student award
+date: 2008-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00037/sex-offender-recidivism-study-earns-student-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2008/08/15/sex-offender-recidivism-study-earns-student-award/index.html
+layout: layout.njk
 ---
 Sex offender recidivism study earns student award
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-game-named-one-of-the-top-10-global-sciences-games
-title: "UC game named one of the top 10 global sciences games"
-date: 2014-02-13
-source-url: https://www.scoop.co.nz/stories/ED1402/S00046/uc-game-named-one-of-the-top-10-global-sciences-games.htm
+title: UC game named one of the top 10 global sciences games
+date: 2014-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00046/uc-game-named-one-of-the-top-10-global-sciences-games.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/13/uc-game-named-one-of-the-top-10-global-sciences-games/index.html
+layout: layout.njk
 ---
 UC game named one of the top 10 global sciences games
 =====================================================

@@ -1,9 +1,15 @@
 ---
 slug: stroke-categorising-people-into-low-moderate-or-high-risk-should-be-abandoned
-title: "Stroke: Categorising People Into Low, Moderate Or High Risk Should Be ‘abandoned’"
-date: 2020-02-25
-source-url: https://www.scoop.co.nz/stories/GE2002/S00084/stroke-categorising-people-into-low-moderate-or-high-risk-should-be-abandoned.htm
+title: >-
+  Stroke: Categorising People Into Low, Moderate Or High Risk Should Be
+  ‘abandoned’
+date: 2020-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2002/S00084/stroke-categorising-people-into-low-moderate-or-high-risk-should-be-abandoned.htm
 author: aut-university
+permalink: >-
+  /archive/2020/02/25/stroke-categorising-people-into-low-moderate-or-high-risk-should-be-abandoned/index.html
+layout: layout.njk
 ---
 Stroke: Categorising People Into Low, Moderate Or High Risk Should Be ‘abandoned’
 =================================================================================

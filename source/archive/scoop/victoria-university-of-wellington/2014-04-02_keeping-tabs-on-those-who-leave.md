@@ -1,9 +1,12 @@
 ---
 slug: keeping-tabs-on-those-who-leave
-title: "Keeping tabs on those who leave"
-date: 2014-04-02
-source-url: https://www.scoop.co.nz/stories/ED1404/S00009/keeping-tabs-on-those-who-leave.htm
+title: Keeping tabs on those who leave
+date: 2014-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00009/keeping-tabs-on-those-who-leave.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/04/02/keeping-tabs-on-those-who-leave/index.html
+layout: layout.njk
 ---
 Keeping tabs on those who leave
 ===============================

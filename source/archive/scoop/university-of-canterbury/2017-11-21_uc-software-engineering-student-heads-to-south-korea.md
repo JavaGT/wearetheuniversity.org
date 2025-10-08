@@ -1,9 +1,13 @@
 ---
 slug: uc-software-engineering-student-heads-to-south-korea
-title: "UC software engineering student heads to South Korea"
-date: 2017-11-21
-source-url: https://www.scoop.co.nz/stories/ED1711/S00079/uc-software-engineering-student-heads-to-south-korea.htm
+title: UC software engineering student heads to South Korea
+date: 2017-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00079/uc-software-engineering-student-heads-to-south-korea.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/21/uc-software-engineering-student-heads-to-south-korea/index.html
+layout: layout.njk
 ---
 UC software engineering student heads to South Korea
 ====================================================

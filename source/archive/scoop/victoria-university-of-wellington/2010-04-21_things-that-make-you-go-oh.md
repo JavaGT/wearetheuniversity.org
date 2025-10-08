@@ -1,9 +1,11 @@
 ---
 slug: things-that-make-you-go-oh
-title: "Things that make you go \"Oh\""
-date: 2010-04-21
+title: Things that make you go "Oh"
+date: 2010-04-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1004/S00054/things-that-make-you-go-oh.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/04/21/things-that-make-you-go-oh/index.html
+layout: layout.njk
 ---
 Things that make you go “Oh”
 ============================

@@ -1,9 +1,13 @@
 ---
 slug: kiwis-say-geonet-must-be-staffed-around-the-clock
-title: "Kiwis say Geonet must be staffed around the clock"
-date: 2016-12-14
-source-url: https://www.scoop.co.nz/stories/PA1612/S00244/kiwis-say-geonet-must-be-staffed-around-the-clock.htm
+title: Kiwis say Geonet must be staffed around the clock
+date: 2016-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00244/kiwis-say-geonet-must-be-staffed-around-the-clock.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/12/14/kiwis-say-geonet-must-be-staffed-around-the-clock/index.html
+layout: layout.njk
 ---
 Kiwis say Geonet must be staffed around the clock
 =================================================

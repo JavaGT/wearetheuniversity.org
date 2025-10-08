@@ -1,9 +1,12 @@
 ---
 slug: state-home-building-for-jobs-homes-transport
-title: "State home building for jobs, homes, transport"
-date: 2008-10-15
-source-url: https://www.scoop.co.nz/stories/PA0810/S00329/state-home-building-for-jobs-homes-transport.htm
+title: State home building for jobs, homes, transport
+date: 2008-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00329/state-home-building-for-jobs-homes-transport.htm
 author: green-party
+permalink: /archive/2008/10/15/state-home-building-for-jobs-homes-transport/index.html
+layout: layout.njk
 ---
 State home building for jobs, homes, transport
 ==============================================

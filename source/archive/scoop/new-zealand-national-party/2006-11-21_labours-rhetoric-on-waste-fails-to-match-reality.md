@@ -1,9 +1,13 @@
 ---
 slug: labours-rhetoric-on-waste-fails-to-match-reality
-title: "Labour's rhetoric on waste fails to match reality"
-date: 2006-11-21
-source-url: https://www.scoop.co.nz/stories/PA0611/S00401/labours-rhetoric-on-waste-fails-to-match-reality.htm
+title: Labour's rhetoric on waste fails to match reality
+date: 2006-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00401/labours-rhetoric-on-waste-fails-to-match-reality.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/11/21/labours-rhetoric-on-waste-fails-to-match-reality/index.html
+layout: layout.njk
 ---
 Labour's rhetoric on waste fails to match reality
 =================================================

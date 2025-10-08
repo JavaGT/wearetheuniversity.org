@@ -1,9 +1,11 @@
 ---
 slug: asean@50-fellowships-awarded
-title: "ASEAN@50 Fellowships awarded"
-date: 2018-05-18
+title: ASEAN@50 Fellowships awarded
+date: 2018-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1805/S00044/asean50-fellowships-awarded.htm
 author: victoria-university-of-wellington
+permalink: /archive/2018/05/18/asean/index.html
+layout: layout.njk
 ---
 ASEAN@50 Fellowships awarded
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: academic-science-&-technology-leader-named-honorary-fellow
-title: "Academic science & technology leader named Honorary Fellow"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/ED1309/S00114/academic-science-technology-leader-named-honorary-fellow.htm
+title: Academic science & technology leader named Honorary Fellow
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00114/academic-science-technology-leader-named-honorary-fellow.htm
 author: university-of-waikato
+permalink: /archive/2013/09/19/academic-science-/index.html
+layout: layout.njk
 ---
 Academic science & technology leader named Honorary Fellow
 ==========================================================

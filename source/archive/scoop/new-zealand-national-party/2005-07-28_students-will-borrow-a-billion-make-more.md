@@ -1,9 +1,12 @@
 ---
 slug: students-will-borrow-a-billion-make-more
-title: "Students will borrow a billion, make more"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/PA0507/S00608/students-will-borrow-a-billion-make-more.htm
+title: Students will borrow a billion, make more
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00608/students-will-borrow-a-billion-make-more.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/28/students-will-borrow-a-billion-make-more/index.html
+layout: layout.njk
 ---
 Students will borrow a billion, make more
 =========================================

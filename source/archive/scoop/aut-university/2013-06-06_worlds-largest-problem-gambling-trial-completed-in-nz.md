@@ -1,9 +1,13 @@
 ---
 slug: worlds-largest-problem-gambling-trial-completed-in-nz
-title: "World’s largest problem gambling trial completed in NZ"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/CU1306/S00054/worlds-largest-problem-gambling-trial-completed-in-nz.htm
+title: World’s largest problem gambling trial completed in NZ
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1306/S00054/worlds-largest-problem-gambling-trial-completed-in-nz.htm
 author: aut-university
+permalink: >-
+  /archive/2013/06/06/worlds-largest-problem-gambling-trial-completed-in-nz/index.html
+layout: layout.njk
 ---
 World’s largest problem gambling trial completed in NZ
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-manufactured-education-scarcity
-title: "New Zealand's manufactured education scarcity"
-date: 2014-03-25
-source-url: https://www.scoop.co.nz/stories/PO1403/S00327/new-zealands-manufactured-education-scarcity.htm
+title: New Zealand's manufactured education scarcity
+date: 2014-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00327/new-zealands-manufactured-education-scarcity.htm
 author: act-new-zealand
+permalink: /archive/2014/03/25/new-zealands-manufactured-education-scarcity/index.html
+layout: layout.njk
 ---
 New Zealand's manufactured education scarcity
 =============================================

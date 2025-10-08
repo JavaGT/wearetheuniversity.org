@@ -1,9 +1,12 @@
 ---
 slug: key-seeks-fresh-assurances-over-tax-collection
-title: "Key seeks fresh assurances over tax collection"
-date: 2005-11-02
-source-url: https://www.scoop.co.nz/stories/PA0511/S00028/key-seeks-fresh-assurances-over-tax-collection.htm
+title: Key seeks fresh assurances over tax collection
+date: 2005-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00028/key-seeks-fresh-assurances-over-tax-collection.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/02/key-seeks-fresh-assurances-over-tax-collection/index.html
+layout: layout.njk
 ---
 Key seeks fresh assurances over tax collection
 ==============================================

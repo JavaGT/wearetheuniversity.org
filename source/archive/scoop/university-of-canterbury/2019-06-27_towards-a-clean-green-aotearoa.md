@@ -1,9 +1,12 @@
 ---
 slug: towards-a-clean-green-aotearoa
-title: "Towards a clean, green Aotearoa"
-date: 2019-06-27
-source-url: https://www.scoop.co.nz/stories/PO1906/S00340/towards-a-clean-green-aotearoa.htm
+title: Towards a clean, green Aotearoa
+date: 2019-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1906/S00340/towards-a-clean-green-aotearoa.htm
 author: university-of-canterbury
+permalink: /archive/2019/06/27/towards-a-clean-green-aotearoa/index.html
+layout: layout.njk
 ---
 Towards a clean, green Aotearoa
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: returning-officer-slams-executive-in-ousa-election
-title: "Returning Officer Slams Executive in OUSA Election"
-date: 2004-10-13
-source-url: https://www.scoop.co.nz/stories/ED0410/S00045/returning-officer-slams-executive-in-ousa-election.htm
+title: Returning Officer Slams Executive in OUSA Election
+date: 2004-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00045/returning-officer-slams-executive-in-ousa-election.htm
 author: student-choice
+permalink: >-
+  /archive/2004/10/13/returning-officer-slams-executive-in-ousa-election/index.html
+layout: layout.njk
 ---
 Returning Officer Slams Executive in OUSA Election
 ==================================================

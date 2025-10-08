@@ -1,9 +1,13 @@
 ---
 slug: mou-signed-to-tackle-primary-care-workforce-shortages
-title: "MoU Signed To Tackle Primary Care Workforce Shortages"
-date: 2024-11-04
-source-url: https://www.scoop.co.nz/stories/ED2411/S00006/mou-signed-to-tackle-primary-care-workforce-shortages.htm
+title: MoU Signed To Tackle Primary Care Workforce Shortages
+date: 2024-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00006/mou-signed-to-tackle-primary-care-workforce-shortages.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2024/11/04/mou-signed-to-tackle-primary-care-workforce-shortages/index.html
+layout: layout.njk
 ---
 MoU Signed To Tackle Primary Care Workforce Shortages
 =====================================================

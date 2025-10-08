@@ -1,9 +1,12 @@
 ---
 slug: rules-go-from-the-ridiculous-to-the-absurd
-title: "Rules go from the ridiculous to the absurd"
-date: 2015-09-23
-source-url: https://www.scoop.co.nz/stories/PA1509/S00389/rules-go-from-the-ridiculous-to-the-absurd.htm
+title: Rules go from the ridiculous to the absurd
+date: 2015-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00389/rules-go-from-the-ridiculous-to-the-absurd.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/23/rules-go-from-the-ridiculous-to-the-absurd/index.html
+layout: layout.njk
 ---
 Rules go from the ridiculous to the absurd
 ==========================================

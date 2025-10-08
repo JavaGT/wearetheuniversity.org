@@ -1,9 +1,12 @@
 ---
 slug: tolley-cant-have-it-both-ways
-title: "Tolley can’t have it both ways"
-date: 2010-08-03
-source-url: https://www.scoop.co.nz/stories/PA1008/S00037/tolley-cant-have-it-both-ways.htm
+title: Tolley can’t have it both ways
+date: 2010-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00037/tolley-cant-have-it-both-ways.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/03/tolley-cant-have-it-both-ways/index.html
+layout: layout.njk
 ---
 Tolley can’t have it both ways
 ==============================

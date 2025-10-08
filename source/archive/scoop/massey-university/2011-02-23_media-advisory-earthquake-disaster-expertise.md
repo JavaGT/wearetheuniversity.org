@@ -1,9 +1,12 @@
 ---
 slug: media-advisory-earthquake-disaster-expertise
-title: "Media advisory: earthquake disaster expertise"
-date: 2011-02-23
-source-url: https://www.scoop.co.nz/stories/AK1102/S00853/media-advisory-earthquake-disaster-expertise.htm
+title: 'Media advisory: earthquake disaster expertise'
+date: 2011-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S00853/media-advisory-earthquake-disaster-expertise.htm
 author: massey-university
+permalink: /archive/2011/02/23/media-advisory-earthquake-disaster-expertise/index.html
+layout: layout.njk
 ---
 Media advisory: earthquake disaster expertise
 =============================================

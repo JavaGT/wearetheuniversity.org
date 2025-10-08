@@ -1,9 +1,12 @@
 ---
 slug: waikato-law-students-prove-top-negotiators
-title: "Waikato law students prove top negotiators"
-date: 2010-09-13
-source-url: https://www.scoop.co.nz/stories/ED1009/S00058/waikato-law-students-prove-top-negotiators.htm
+title: Waikato law students prove top negotiators
+date: 2010-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00058/waikato-law-students-prove-top-negotiators.htm
 author: university-of-waikato
+permalink: /archive/2010/09/13/waikato-law-students-prove-top-negotiators/index.html
+layout: layout.njk
 ---
 Waikato law students prove top negotiators
 ==========================================

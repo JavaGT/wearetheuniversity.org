@@ -1,9 +1,12 @@
 ---
 slug: speech-harawira-immigration-bill-third-reading
-title: "Speech: Harawira - Immigration Bill, Third Reading"
-date: 2009-10-30
-source-url: https://www.scoop.co.nz/stories/PA0910/S00475/speech-harawira-immigration-bill-third-reading.htm
+title: 'Speech: Harawira - Immigration Bill, Third Reading'
+date: 2009-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00475/speech-harawira-immigration-bill-third-reading.htm
 author: te-pati-maori
+permalink: /archive/2009/10/30/speech-harawira-immigration-bill-third-reading/index.html
+layout: layout.njk
 ---
 Speech: Harawira - Immigration Bill, Third Reading
 ==================================================

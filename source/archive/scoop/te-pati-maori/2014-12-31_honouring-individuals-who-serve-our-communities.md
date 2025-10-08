@@ -1,9 +1,12 @@
 ---
 slug: honouring-individuals-who-serve-our-communities
-title: "Honouring individuals who serve our communities"
-date: 2014-12-31
-source-url: https://www.scoop.co.nz/stories/PA1412/S00384/honouring-individuals-who-serve-our-communities.htm
+title: Honouring individuals who serve our communities
+date: 2014-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00384/honouring-individuals-who-serve-our-communities.htm
 author: te-pati-maori
+permalink: /archive/2014/12/31/honouring-individuals-who-serve-our-communities/index.html
+layout: layout.njk
 ---
 Honouring individuals who serve our communities
 ===============================================

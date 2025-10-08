@@ -1,9 +1,12 @@
 ---
 slug: volunteer-firefighters-beaten-back-by-osh-laws
-title: "Volunteer firefighters beaten back by OSH laws"
-date: 2002-12-17
-source-url: https://www.scoop.co.nz/stories/PA0212/S00398/volunteer-firefighters-beaten-back-by-osh-laws.htm
+title: Volunteer firefighters beaten back by OSH laws
+date: 2002-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00398/volunteer-firefighters-beaten-back-by-osh-laws.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/17/volunteer-firefighters-beaten-back-by-osh-laws/index.html
+layout: layout.njk
 ---
 Volunteer firefighters beaten back by OSH laws
 ==============================================

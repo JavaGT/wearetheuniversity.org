@@ -1,9 +1,12 @@
 ---
 slug: human-and-natures-entanglements-explored
-title: "Human and nature’s entanglements explored"
-date: 2015-04-09
-source-url: https://www.scoop.co.nz/stories/SC1504/S00026/human-and-natures-entanglements-explored.htm
+title: Human and nature’s entanglements explored
+date: 2015-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00026/human-and-natures-entanglements-explored.htm
 author: massey-university
+permalink: /archive/2015/04/09/human-and-natures-entanglements-explored/index.html
+layout: layout.njk
 ---
 Human and nature’s entanglements explored
 =========================================

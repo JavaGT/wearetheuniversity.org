@@ -1,9 +1,13 @@
 ---
 slug: get-ready-get-thru-important-role-for-waikato-grad
-title: "Get ready, get thru: important role for Waikato grad"
-date: 2014-01-30
-source-url: https://www.scoop.co.nz/stories/ED1401/S00064/get-ready-get-thru-important-role-for-waikato-grad.htm
+title: 'Get ready, get thru: important role for Waikato grad'
+date: 2014-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00064/get-ready-get-thru-important-role-for-waikato-grad.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/01/30/get-ready-get-thru-important-role-for-waikato-grad/index.html
+layout: layout.njk
 ---
 Get ready, get thru: important role for Waikato grad
 ====================================================

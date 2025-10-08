@@ -1,9 +1,11 @@
 ---
 slug: free-press-9-april-2018
-title: "Free Press, 9 April 2018"
-date: 2018-04-09
+title: Free Press, 9 April 2018
+date: 2018-04-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1804/S00087/free-press-9-april-2018.htm
 author: act-new-zealand
+permalink: /archive/2018/04/09/free-press-9-april-2018/index.html
+layout: layout.njk
 ---
 Free Press, 9 April 2018
 ========================

@@ -1,9 +1,13 @@
 ---
 slug: new-law-and-management-building-at-university-of-waikato
-title: "New law and management building at University of Waikato"
-date: 2012-07-12
-source-url: https://www.scoop.co.nz/stories/AK1207/S00216/new-law-and-management-building-at-university-of-waikato.htm
+title: New law and management building at University of Waikato
+date: 2012-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1207/S00216/new-law-and-management-building-at-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/07/12/new-law-and-management-building-at-university-of-waikato/index.html
+layout: layout.njk
 ---
 New law and management building at University of Waikato
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: compulsory-wsu-raises-its-fee-by-50%
-title: "Compulsory WSU Raises Its Fee By 50%"
-date: 2005-04-01
-source-url: https://www.scoop.co.nz/stories/ED0504/S00006/compulsory-wsu-raises-its-fee-by-50.htm
+title: Compulsory WSU Raises Its Fee By 50%
+date: 2005-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00006/compulsory-wsu-raises-its-fee-by-50.htm
 author: student-choice
+permalink: /archive/2005/04/01/compulsory-wsu-raises-its-fee-by-50/index.html
+layout: layout.njk
 ---
 Compulsory WSU Raises Its Fee By 50%
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-research-seeking-to-confirm-who-is-fit-for-work
-title: "UC Research Seeking To Confirm Who Is Fit For Work"
-date: 2013-03-05
-source-url: https://www.scoop.co.nz/stories/ED1303/S00021/uc-research-seeking-to-confirm-who-is-fit-for-work.htm
+title: UC Research Seeking To Confirm Who Is Fit For Work
+date: 2013-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00021/uc-research-seeking-to-confirm-who-is-fit-for-work.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/05/uc-research-seeking-to-confirm-who-is-fit-for-work/index.html
+layout: layout.njk
 ---
 UC Research Seeking To Confirm Who Is Fit For Work
 ==================================================

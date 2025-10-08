@@ -1,9 +1,12 @@
 ---
 slug: stop-the-weapons-conference-campaign
-title: "Stop the Weapons Conference Campaign"
-date: 2006-08-31
-source-url: https://www.scoop.co.nz/stories/PO0608/S00373/stop-the-weapons-conference-campaign.htm
+title: Stop the Weapons Conference Campaign
+date: 2006-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0608/S00373/stop-the-weapons-conference-campaign.htm
 author: peace-action-wellington
+permalink: /archive/2006/08/31/stop-the-weapons-conference-campaign/index.html
+layout: layout.njk
 ---
 Stop the Weapons Conference Campaign
 ====================================

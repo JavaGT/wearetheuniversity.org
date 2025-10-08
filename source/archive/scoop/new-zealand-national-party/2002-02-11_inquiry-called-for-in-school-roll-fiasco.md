@@ -1,9 +1,12 @@
 ---
 slug: inquiry-called-for-in-school-roll-fiasco
-title: "Inquiry Called For In School Roll Fiasco"
-date: 2002-02-11
-source-url: https://www.scoop.co.nz/stories/PA0202/S00107/inquiry-called-for-in-school-roll-fiasco.htm
+title: Inquiry Called For In School Roll Fiasco
+date: 2002-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00107/inquiry-called-for-in-school-roll-fiasco.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/11/inquiry-called-for-in-school-roll-fiasco/index.html
+layout: layout.njk
 ---
 Inquiry Called For In School Roll Fiasco
 ========================================

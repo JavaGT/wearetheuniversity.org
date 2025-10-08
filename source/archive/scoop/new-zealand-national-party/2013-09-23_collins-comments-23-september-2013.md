@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-23-september-2013
-title: "Collins Comments - 23 September 2013"
-date: 2013-09-23
-source-url: https://www.scoop.co.nz/stories/PA1309/S00404/collins-comments-23-september-2013.htm
+title: Collins Comments - 23 September 2013
+date: 2013-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00404/collins-comments-23-september-2013.htm
 author: new-zealand-national-party
+permalink: /archive/2013/09/23/collins-comments-23-september-2013/index.html
+layout: layout.njk
 ---
 Collins Comments - 23 September 2013
 ====================================

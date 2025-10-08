@@ -1,9 +1,12 @@
 ---
 slug: dropping-history-big-mistake-military-expert
-title: "Dropping history \"big mistake\" – military expert"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/ED1603/S00041/dropping-history-big-mistake-military-expert.htm
+title: Dropping history "big mistake" – military expert
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00041/dropping-history-big-mistake-military-expert.htm
 author: massey-university
+permalink: /archive/2016/03/11/dropping-history-big-mistake-military-expert/index.html
+layout: layout.njk
 ---
 Dropping history “big mistake” – military expert
 ================================================

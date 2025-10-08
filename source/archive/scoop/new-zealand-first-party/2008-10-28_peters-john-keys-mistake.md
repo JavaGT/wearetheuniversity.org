@@ -1,9 +1,11 @@
 ---
 slug: peters-john-keys-mistake
-title: "Peters: John Key's Mistake"
-date: 2008-10-28
+title: 'Peters: John Key''s Mistake'
+date: 2008-10-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0810/S00612/peters-john-keys-mistake.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/28/peters-john-keys-mistake/index.html
+layout: layout.njk
 ---
 Peters: John Key's Mistake
 ==========================

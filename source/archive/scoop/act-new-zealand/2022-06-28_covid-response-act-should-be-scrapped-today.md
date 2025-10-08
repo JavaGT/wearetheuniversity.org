@@ -1,9 +1,12 @@
 ---
 slug: covid-response-act-should-be-scrapped-today
-title: "COVID Response Act Should Be Scrapped Today"
-date: 2022-06-28
-source-url: https://www.scoop.co.nz/stories/PA2206/S00216/covid-response-act-should-be-scrapped-today.htm
+title: COVID Response Act Should Be Scrapped Today
+date: 2022-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00216/covid-response-act-should-be-scrapped-today.htm
 author: act-new-zealand
+permalink: /archive/2022/06/28/covid-response-act-should-be-scrapped-today/index.html
+layout: layout.njk
 ---
 COVID Response Act Should Be Scrapped Today
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: schools-turn-to-charity-while-millions-wasted
-title: "Schools Turn to Charity While Millions Wasted"
-date: 2011-02-03
-source-url: https://www.scoop.co.nz/stories/PO1102/S00031/schools-turn-to-charity-while-millions-wasted.htm
+title: Schools Turn to Charity While Millions Wasted
+date: 2011-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00031/schools-turn-to-charity-while-millions-wasted.htm
 author: nzei
+permalink: /archive/2011/02/03/schools-turn-to-charity-while-millions-wasted/index.html
+layout: layout.njk
 ---
 Schools Turn to Charity While Millions Wasted
 =============================================

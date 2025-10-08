@@ -1,9 +1,12 @@
 ---
 slug: 23-years-of-debt-for-one-year-of-study-figures
-title: "23 years of debt for one year of study - figures"
-date: 2002-08-18
-source-url: https://www.scoop.co.nz/stories/ED0208/S00022/23-years-of-debt-for-one-year-of-study-figures.htm
+title: 23 years of debt for one year of study - figures
+date: 2002-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00022/23-years-of-debt-for-one-year-of-study-figures.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/08/18/23-years-of-debt-for-one-year-of-study-figures/index.html
+layout: layout.njk
 ---
 23 years of debt for one year of study - figures
 ================================================

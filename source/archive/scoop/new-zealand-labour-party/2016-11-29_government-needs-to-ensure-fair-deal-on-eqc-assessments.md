@@ -1,9 +1,13 @@
 ---
 slug: government-needs-to-ensure-fair-deal-on-eqc-assessments
-title: "Government needs to ensure fair deal on EQC assessments"
-date: 2016-11-29
-source-url: https://www.scoop.co.nz/stories/PA1611/S00549/government-needs-to-ensure-fair-deal-on-eqc-assessments.htm
+title: Government needs to ensure fair deal on EQC assessments
+date: 2016-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00549/government-needs-to-ensure-fair-deal-on-eqc-assessments.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/11/29/government-needs-to-ensure-fair-deal-on-eqc-assessments/index.html
+layout: layout.njk
 ---
 Government needs to ensure fair deal on EQC assessments
 =======================================================

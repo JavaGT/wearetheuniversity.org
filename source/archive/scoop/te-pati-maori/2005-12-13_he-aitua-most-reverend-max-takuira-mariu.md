@@ -1,9 +1,12 @@
 ---
 slug: he-aitua-most-reverend-max-takuira-mariu
-title: "He Aitua : Most Reverend Max Takuira Mariu"
-date: 2005-12-13
-source-url: https://www.scoop.co.nz/stories/PA0512/S00182/he-aitua-most-reverend-max-takuira-mariu.htm
+title: 'He Aitua : Most Reverend Max Takuira Mariu'
+date: 2005-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00182/he-aitua-most-reverend-max-takuira-mariu.htm
 author: te-pati-maori
+permalink: /archive/2005/12/13/he-aitua-most-reverend-max-takuira-mariu/index.html
+layout: layout.njk
 ---
 He Aitua : Most Reverend Max Takuira Mariu
 ==========================================

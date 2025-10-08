@@ -1,9 +1,13 @@
 ---
 slug: consultants-no-substitute-for-community-contacts
-title: "Consultants no substitute for community contacts"
-date: 2013-07-18
-source-url: https://www.scoop.co.nz/stories/PA1307/S00311/consultants-no-substitute-for-community-contacts.htm
+title: Consultants no substitute for community contacts
+date: 2013-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00311/consultants-no-substitute-for-community-contacts.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/07/18/consultants-no-substitute-for-community-contacts/index.html
+layout: layout.njk
 ---
 Consultants no substitute for community contacts
 ================================================

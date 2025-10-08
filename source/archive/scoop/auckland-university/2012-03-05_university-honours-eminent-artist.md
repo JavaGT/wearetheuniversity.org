@@ -1,9 +1,12 @@
 ---
 slug: university-honours-eminent-artist
-title: "University honours eminent artist"
-date: 2012-03-05
-source-url: https://www.scoop.co.nz/stories/ED1203/S00017/university-honours-eminent-artist.htm
+title: University honours eminent artist
+date: 2012-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00017/university-honours-eminent-artist.htm
 author: auckland-university
+permalink: /archive/2012/03/05/university-honours-eminent-artist/index.html
+layout: layout.njk
 ---
 University honours eminent artist
 =================================

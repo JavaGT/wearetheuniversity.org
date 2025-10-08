@@ -1,9 +1,12 @@
 ---
 slug: logistics-chair-meets-national-need
-title: "Logistics Chair Meets National Need"
-date: 2004-08-24
-source-url: https://www.scoop.co.nz/stories/ED0408/S00104/logistics-chair-meets-national-need.htm
+title: Logistics Chair Meets National Need
+date: 2004-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00104/logistics-chair-meets-national-need.htm
 author: auckland-university
+permalink: /archive/2004/08/24/logistics-chair-meets-national-need/index.html
+layout: layout.njk
 ---
 Logistics Chair Meets National Need
 ===================================

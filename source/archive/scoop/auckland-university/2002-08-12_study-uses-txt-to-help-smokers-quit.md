@@ -1,9 +1,12 @@
 ---
 slug: study-uses-txt-to-help-smokers-quit
-title: "Study uses txt to help smokers quit"
-date: 2002-08-12
-source-url: https://www.scoop.co.nz/stories/SC0208/S00019/study-uses-txt-to-help-smokers-quit.htm
+title: Study uses txt to help smokers quit
+date: 2002-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0208/S00019/study-uses-txt-to-help-smokers-quit.htm
 author: auckland-university
+permalink: /archive/2002/08/12/study-uses-txt-to-help-smokers-quit/index.html
+layout: layout.njk
 ---
 Study uses txt to help smokers quit
 ===================================

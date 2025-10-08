@@ -1,9 +1,13 @@
 ---
 slug: decoding-the-hobbit-local-viewers-sought-for-global-survey
-title: "Decoding the Hobbit: Local Viewers Sought for Global Survey"
-date: 2013-03-19
-source-url: https://www.scoop.co.nz/stories/CU1303/S00378/decoding-the-hobbit-local-viewers-sought-for-global-survey.htm
+title: 'Decoding the Hobbit: Local Viewers Sought for Global Survey'
+date: 2013-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1303/S00378/decoding-the-hobbit-local-viewers-sought-for-global-survey.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/03/19/decoding-the-hobbit-local-viewers-sought-for-global-survey/index.html
+layout: layout.njk
 ---
 Decoding the Hobbit: Local Viewers Sought for Global Survey
 ===========================================================

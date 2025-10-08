@@ -1,9 +1,12 @@
 ---
 slug: green-support-surges-amongst-maori-voters
-title: "Green Support Surges Amongst Maori Voters"
-date: 2002-06-23
-source-url: https://www.scoop.co.nz/stories/PA0206/S00407/green-support-surges-amongst-maori-voters.htm
+title: Green Support Surges Amongst Maori Voters
+date: 2002-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00407/green-support-surges-amongst-maori-voters.htm
 author: green-party
+permalink: /archive/2002/06/23/green-support-surges-amongst-maori-voters/index.html
+layout: layout.njk
 ---
 Green Support Surges Amongst Maori Voters
 =========================================

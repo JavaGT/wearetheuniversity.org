@@ -1,9 +1,12 @@
 ---
 slug: national-no-mum-to-be-forced-home-after-birth
-title: "National: No mum to be forced home after birth"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/PA0810/S00296/national-no-mum-to-be-forced-home-after-birth.htm
+title: 'National: No mum to be forced home after birth'
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00296/national-no-mum-to-be-forced-home-after-birth.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/14/national-no-mum-to-be-forced-home-after-birth/index.html
+layout: layout.njk
 ---
 National: No mum to be forced home after birth
 ==============================================

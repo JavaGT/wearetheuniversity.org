@@ -1,9 +1,12 @@
 ---
 slug: new-science-scholarship-a-pathway-for-future-māori-and-pasifika-academics
-title: "New Science Scholarship A Pathway For Future Māori And Pasifika Academics"
-date: 2020-09-09
-source-url: https://www.scoop.co.nz/stories/ED2009/S00014/new-science-scholarship-a-pathway-for-future-maori-and-pasifika-academics.htm
+title: New Science Scholarship A Pathway For Future Māori And Pasifika Academics
+date: 2020-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00014/new-science-scholarship-a-pathway-for-future-maori-and-pasifika-academics.htm
 author: university-of-canterbury
+permalink: /archive/2020/09/09/new-science-scholarship-a-pathway-for-future-m/index.html
+layout: layout.njk
 ---
 New Science Scholarship A Pathway For Future Māori And Pasifika Academics
 =========================================================================

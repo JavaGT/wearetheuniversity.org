@@ -1,9 +1,12 @@
 ---
 slug: 3-way-partnership-adds-up-for-business-&-accounting-students
-title: "3-way partnership adds up for business & accounting students"
-date: 2014-04-17
-source-url: https://www.scoop.co.nz/stories/ED1404/S00071/3-way-partnership-adds-up-for-business-accounting-students.htm
+title: 3-way partnership adds up for business & accounting students
+date: 2014-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00071/3-way-partnership-adds-up-for-business-accounting-students.htm
 author: university-of-waikato
+permalink: /archive/2014/04/17/3-way-partnership-adds-up-for-business-/index.html
+layout: layout.njk
 ---
 3-way partnership adds up for business & accounting students
 ============================================================

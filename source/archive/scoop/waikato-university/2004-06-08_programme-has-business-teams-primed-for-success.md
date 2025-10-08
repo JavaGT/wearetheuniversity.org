@@ -1,9 +1,12 @@
 ---
 slug: programme-has-business-teams-primed-for-success
-title: "Programme has business teams primed for success"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/ED0406/S00029/programme-has-business-teams-primed-for-success.htm
+title: Programme has business teams primed for success
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00029/programme-has-business-teams-primed-for-success.htm
 author: waikato-university
+permalink: /archive/2004/06/08/programme-has-business-teams-primed-for-success/index.html
+layout: layout.njk
 ---
 Programme has business teams primed for success
 ===============================================

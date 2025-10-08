@@ -1,9 +1,12 @@
 ---
 slug: revealing-the-mysteries-of-the-canterbury-roll
-title: "Revealing the Mysteries of the Canterbury Roll"
-date: 2018-07-09
-source-url: https://www.scoop.co.nz/stories/ED1807/S00030/revealing-the-mysteries-of-the-canterbury-roll.htm
+title: Revealing the Mysteries of the Canterbury Roll
+date: 2018-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1807/S00030/revealing-the-mysteries-of-the-canterbury-roll.htm
 author: university-of-canterbury
+permalink: /archive/2018/07/09/revealing-the-mysteries-of-the-canterbury-roll/index.html
+layout: layout.njk
 ---
 Revealing the Mysteries of the Canterbury Roll
 ==============================================

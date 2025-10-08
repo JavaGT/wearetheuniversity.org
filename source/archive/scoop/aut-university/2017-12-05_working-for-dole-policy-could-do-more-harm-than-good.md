@@ -1,9 +1,13 @@
 ---
 slug: working-for-dole-policy-could-do-more-harm-than-good
-title: "‘Working for dole’ policy could do more harm than good"
-date: 2017-12-05
-source-url: https://www.scoop.co.nz/stories/ED1712/S00015/working-for-dole-policy-could-do-more-harm-than-good.htm
+title: ‘Working for dole’ policy could do more harm than good
+date: 2017-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00015/working-for-dole-policy-could-do-more-harm-than-good.htm
 author: aut-university
+permalink: >-
+  /archive/2017/12/05/working-for-dole-policy-could-do-more-harm-than-good/index.html
+layout: layout.njk
 ---
 ‘Working for dole’ policy could do more harm than good
 ======================================================

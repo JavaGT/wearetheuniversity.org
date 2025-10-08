@@ -1,9 +1,13 @@
 ---
 slug: labour-pledges-full-rebuild-for-wainuiomata-high
-title: "Labour pledges full rebuild for Wainuiomata High"
-date: 2017-09-21
-source-url: https://www.scoop.co.nz/stories/PA1709/S00262/labour-pledges-full-rebuild-for-wainuiomata-high.htm
+title: Labour pledges full rebuild for Wainuiomata High
+date: 2017-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00262/labour-pledges-full-rebuild-for-wainuiomata-high.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/09/21/labour-pledges-full-rebuild-for-wainuiomata-high/index.html
+layout: layout.njk
 ---
 Labour pledges full rebuild for Wainuiomata High
 ================================================

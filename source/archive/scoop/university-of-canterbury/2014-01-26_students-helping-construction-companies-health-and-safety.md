@@ -1,9 +1,13 @@
 ---
 slug: students-helping-construction-companies-health-and-safety
-title: "Students helping construction companies’ health and safety"
-date: 2014-01-26
-source-url: https://www.scoop.co.nz/stories/AK1401/S00555/students-helping-construction-companies-health-and-safety.htm
+title: Students helping construction companies’ health and safety
+date: 2014-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1401/S00555/students-helping-construction-companies-health-and-safety.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/26/students-helping-construction-companies-health-and-safety/index.html
+layout: layout.njk
 ---
 Students helping construction companies’ health and safety
 ==========================================================

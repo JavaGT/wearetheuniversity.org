@@ -1,9 +1,11 @@
 ---
 slug: one-zoning-law-for-all
-title: "One zoning law for all?"
-date: 2006-02-07
+title: One zoning law for all?
+date: 2006-02-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0602/S00072/one-zoning-law-for-all.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/07/one-zoning-law-for-all/index.html
+layout: layout.njk
 ---
 One zoning law for all?
 =======================

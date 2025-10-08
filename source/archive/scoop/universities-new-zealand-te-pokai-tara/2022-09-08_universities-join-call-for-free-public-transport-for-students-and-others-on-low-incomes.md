@@ -1,9 +1,16 @@
 ---
-slug: universities-join-call-for-free-public-transport-for-students-and-others-on-low-incomes
-title: "Universities Join Call For Free Public Transport For Students And Others On Low Incomes"
-date: 2022-09-08
-source-url: https://www.scoop.co.nz/stories/PO2209/S00052/universities-join-call-for-free-public-transport-for-students-and-others-on-low-incomes.htm
+slug: >-
+  universities-join-call-for-free-public-transport-for-students-and-others-on-low-incomes
+title: >-
+  Universities Join Call For Free Public Transport For Students And Others On
+  Low Incomes
+date: 2022-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2209/S00052/universities-join-call-for-free-public-transport-for-students-and-others-on-low-incomes.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/09/08/universities-join-call-for-free-public-transport-for-students-and-others-on-low-incomes/index.html
+layout: layout.njk
 ---
 Universities Join Call For Free Public Transport For Students And Others On Low Incomes
 =======================================================================================

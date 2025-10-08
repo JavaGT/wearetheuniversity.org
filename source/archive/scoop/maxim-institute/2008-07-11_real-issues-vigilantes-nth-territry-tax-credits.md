@@ -1,9 +1,12 @@
 ---
 slug: real-issues-vigilantes-nth-territry-tax-credits
-title: "Real Issues: Vigilantes, Nth Territry, Tax Credits"
-date: 2008-07-11
-source-url: https://www.scoop.co.nz/stories/PO0807/S00160/real-issues-vigilantes-nth-territry-tax-credits.htm
+title: 'Real Issues: Vigilantes, Nth Territry, Tax Credits'
+date: 2008-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00160/real-issues-vigilantes-nth-territry-tax-credits.htm
 author: maxim-institute
+permalink: /archive/2008/07/11/real-issues-vigilantes-nth-territry-tax-credits/index.html
+layout: layout.njk
 ---
 Real Issues: Vigilantes, Nth Territry, Tax Credits
 ==================================================

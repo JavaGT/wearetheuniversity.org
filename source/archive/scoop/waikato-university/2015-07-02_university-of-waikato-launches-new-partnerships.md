@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-launches-new-partnerships
-title: "University of Waikato launches new partnerships"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/ED1507/S00022/university-of-waikato-launches-new-partnerships.htm
+title: University of Waikato launches new partnerships
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00022/university-of-waikato-launches-new-partnerships.htm
 author: waikato-university
+permalink: /archive/2015/07/02/university-of-waikato-launches-new-partnerships/index.html
+layout: layout.njk
 ---
 University of Waikato launches new partnerships
 ===============================================

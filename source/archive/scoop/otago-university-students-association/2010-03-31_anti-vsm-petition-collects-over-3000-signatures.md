@@ -1,9 +1,12 @@
 ---
 slug: anti-vsm-petition-collects-over-3000-signatures
-title: "Anti-VSM Petition Collects over 3,000 Signatures"
-date: 2010-03-31
-source-url: https://www.scoop.co.nz/stories/PO1003/S00490/anti-vsm-petition-collects-over-3000-signatures.htm
+title: Anti-VSM Petition Collects over 3,000 Signatures
+date: 2010-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00490/anti-vsm-petition-collects-over-3000-signatures.htm
 author: otago-university-students-association
+permalink: /archive/2010/03/31/anti-vsm-petition-collects-over-3000-signatures/index.html
+layout: layout.njk
 ---
 Anti-VSM Petition Collects over 3,000 Signatures
 ================================================

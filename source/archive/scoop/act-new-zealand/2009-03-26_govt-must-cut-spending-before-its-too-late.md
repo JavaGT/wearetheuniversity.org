@@ -1,9 +1,12 @@
 ---
 slug: govt-must-cut-spending-before-its-too-late
-title: "Govt Must Cut Spending - Before It's Too Late"
-date: 2009-03-26
-source-url: https://www.scoop.co.nz/stories/PA0903/S00381/govt-must-cut-spending-before-its-too-late.htm
+title: Govt Must Cut Spending - Before It's Too Late
+date: 2009-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00381/govt-must-cut-spending-before-its-too-late.htm
 author: act-new-zealand
+permalink: /archive/2009/03/26/govt-must-cut-spending-before-its-too-late/index.html
+layout: layout.njk
 ---
 Govt Must Cut Spending - Before It's Too Late
 =============================================

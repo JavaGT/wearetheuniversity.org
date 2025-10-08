@@ -1,9 +1,12 @@
 ---
 slug: foreign-mutton-dressed-as-kiwi-lamb
-title: "Foreign 'mutton' dressed as Kiwi 'lamb'"
-date: 2003-03-19
-source-url: https://www.scoop.co.nz/stories/PA0303/S00349/foreign-mutton-dressed-as-kiwi-lamb.htm
+title: Foreign 'mutton' dressed as Kiwi 'lamb'
+date: 2003-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00349/foreign-mutton-dressed-as-kiwi-lamb.htm
 author: green-party
+permalink: /archive/2003/03/19/foreign-mutton-dressed-as-kiwi-lamb/index.html
+layout: layout.njk
 ---
 Foreign 'mutton' dressed as Kiwi 'lamb'
 =======================================

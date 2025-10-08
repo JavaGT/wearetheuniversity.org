@@ -1,9 +1,12 @@
 ---
 slug: kids-missing-out-because-progress-isnt-measured
-title: "Kids Missing Out Because Progress Isn’t Measured"
-date: 2021-08-02
-source-url: https://www.scoop.co.nz/stories/PA2108/S00006/kids-missing-out-because-progress-isnt-measured.htm
+title: Kids Missing Out Because Progress Isn’t Measured
+date: 2021-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00006/kids-missing-out-because-progress-isnt-measured.htm
 author: new-zealand-national-party
+permalink: /archive/2021/08/02/kids-missing-out-because-progress-isnt-measured/index.html
+layout: layout.njk
 ---
 Kids Missing Out Because Progress Isn’t Measured
 ================================================

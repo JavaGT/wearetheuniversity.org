@@ -1,9 +1,12 @@
 ---
 slug: market-for-fee-paying-chinese-students-at-risk
-title: "Market for fee-paying Chinese students at risk"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/ED1406/S00007/market-for-fee-paying-chinese-students-at-risk.htm
+title: Market for fee-paying Chinese students at risk
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00007/market-for-fee-paying-chinese-students-at-risk.htm
 author: massey-university
+permalink: /archive/2014/06/03/market-for-fee-paying-chinese-students-at-risk/index.html
+layout: layout.njk
 ---
 Market for fee-paying Chinese students at risk
 ==============================================

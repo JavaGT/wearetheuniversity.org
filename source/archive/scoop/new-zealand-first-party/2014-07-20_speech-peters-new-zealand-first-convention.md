@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-new-zealand-first-convention
-title: "Speech: Peters - New Zealand First Convention"
-date: 2014-07-20
-source-url: https://www.scoop.co.nz/stories/PA1407/S00360/speech-peters-new-zealand-first-convention.htm
+title: 'Speech: Peters - New Zealand First Convention'
+date: 2014-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00360/speech-peters-new-zealand-first-convention.htm
 author: new-zealand-first-party
+permalink: /archive/2014/07/20/speech-peters-new-zealand-first-convention/index.html
+layout: layout.njk
 ---
 Speech: Peters - New Zealand First Convention
 =============================================
