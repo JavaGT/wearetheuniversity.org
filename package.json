@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "reset-eml-md": "find ./source/archive ./source/blog -type f -name '*.eml' -print0 | xargs -0 -I{} sh -c 'md=\"{}\"; md=\"${md%.eml}.md\"; rm -f \"$md\"'",
-  "build": "node ./build/archive-and-blog.mjs && npx eleventy",
-  "serve": "node ./build/archive-and-blog.mjs && npx eleventy --serve"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "reset-eml-md": "find ./source/archive ./source/blog -type f -name '*.eml' -print0 | xargs -0 -I{} sh -c 'md=\"{}\"; md=\"${md%.eml}.md\"; rm -f \"$md\"'",
+    "build": "node ./build/archive-and-blog.mjs && npx eleventy",
+    "serve": "node ./build/archive-and-blog.mjs && npx eleventy --serve"
   },
   "keywords": [],
   "author": "",
