@@ -1,41 +1,15 @@
 # WEARETHEUNIVERSITY
 
-A black and white themed static site for wearetheuniversity.org, built with Eleventy (11ty).
+We Are The University is a minimal, black-and-white static site built with Eleventy (11ty). The project publishes writing, archives, and small web-based games while centring a clear political mission: "We the students and staff are the beating heart of this institution." The site rejects the neoliberal university and asserts that education, research and service should be driven by the people who do the work.
 
-## Features
-- Blog (Markdown)
-- Arcade (HTML games)
-- Archive (Markdown, .eml, mirrored HTML)
-- Root-level Markdown pages
-- Black and white minimal theme
-- Output to `./docs` for GitHub Pages
 
-## Local Development
+The generated site is written to `docs/`. Configure GitHub Pages to serve from the `docs` folder on the `main` branch.
 
-```sh
-npm install
-npx eleventy --serve
-```
+## Directory overview
+- `source/` — authoring source (Markdown, templates, static assets)
+  - `source/blog/` — posts
+  - `source/archive/` — archived items and mirrored content
+  - `source/arcade/` — HTML games copied as-is into the build
+- `build/` — helper scripts used during site generation
+- `docs/` — generated site output (deployed to GitHub Pages)
 
-## Build for GitHub Pages
-
-```sh
-npx eleventy
-```
-
-The site will be output to the `docs/` directory.
-
-## Directory Structure
-
-- `source/arcade/` — HTML games (copied as-is)
-- `source/blog/` — Blog posts in Markdown
-- `source/archive/` — Archive content (.md, .eml, mirrored HTML)
-- `source/*.md` — Root-level pages
-
-## Deployment
-
-Configure GitHub Pages to serve from the `/docs` folder.
-
----
-
-© 2025 WEARETHEUNIVERSITY
